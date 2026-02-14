@@ -1,0 +1,996 @@
+================================================================================
+Question #1 (ID: 705109)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm {\sqrt[3]{(1+y)}+\sqrt[3]{(1-y)}=\sqrt[3]{2}} \ldots \ldots \ldots \text { (i) }[/math]
+
+এবং [math]\mathrm {x^{2}+8 x-5=0} \ldots \ldots \ldots \text { (ii) }[/math] দুটো সমীকরণ।
+
+Options:
+ক. যদি [math]\mathrm {5^{y+2}=625}[/math] হলে [math]\mathrm {y}[/math] এর মান নির্ণয় কর।
+খ. সমীকরণ [math]\text { (i) }[/math] মূলসমূহ নির্ণয় কর।
+গ. লেখের সাহায্যে সমীকরণ [math]\text { (ii) }[/math] সমাধান কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,[math]5^{y+2}=625[/math]
+ [math]\begin{array}{l}\Rightarrow 5^{y+2}=5^{4}\\\Rightarrow y+2=4\end{array}[/math]
+ [math]\therefore \quad \mathrm{y}=2 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপাঠ্যবইয়ের অনুশীলনী-৫.২ এর উদাহরণ-১০ এর অনুরূপ (x এর পরিবর্তে y হবে) পৃষ্ঠা- ১০২ [math]\\[/math]
+ গপ্রদত্ত সমীকরণ, [math]x^{2}+8 x-5=0.........\text { (i) }[/math]
+মনে করি, [math]y=x^{2}+8 x-5 \ldots \ldots \ldots \text { (ii) }[/math]
+সমীকরণটির লেখচিত্র অঙ্কনের জন্য x এর কয়েকটি মানের জন্য y এর অনুরূপ মান নির্ণয় করি:[math]\begin{array}{|c|c|c|c|c|c|}\hline \mathrm{x} & -11 & -10 & -4 & 0 & 2 \\\hline \mathrm{y} & 28 & 15 & -21 & -5 & 15 \\\hline\end{array}[/math]
+প্রাপ্ত বিন্দুগুলো ছক কাগজে স্থাপন করে (ii) নং এর লেখচিত্র অঙ্কন করি। দেখা যায় যে, লেখচিত্রটি x-অক্ষের উপর [math](-8.583,0)[/math]
+ ও [math](0.583,0)[/math]
+ বিন্দু দিয়ে গিয়েছে । সুতরাং (i) নং এর সমাধান [math]x=-8.583, x=0.583[/math]
+
+[Image]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 705110)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{ax^2+bx+c=0}................. \mathrm {(i)}[/math] [math]\mathrm{5-8 x-x^{2}=0}................. \mathrm {(ii)}[/math]
+
+দুটি একচলকবিশিষ্ট দ্বিঘাত সমীকরণ।
+
+Options:
+ক. [math]\mathrm {5^{y+2}=625}[/math] হলে [math]\mathrm{y}[/math] এর মান নির্ণয় কর।
+খ. [math]\text { (i) }[/math] সমীকরণের মূলদ্বয় নির্ণয় কর।
+গ. [math]\text { (ii) }[/math] নং সমীকরণকে সমাধান করে মূলের প্রকৃতি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]5^{y+2}=625[/math]
+ [math]\Rightarrow 5^{y+2}=5^{4}[/math]
+ [math]\Rightarrow y+2=4[/math]
+ [math]\left[\because a^{x}=a^{y}\right.[/math]
+ হলে [math]x=y][/math]
+ [math]\Rightarrow \mathrm{y}=4-2[/math]
+ [math]\therefore y=2 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপাঠ্যবইয়ের অনুশীলনী-৫.১ এর অনুচ্ছেদ-৫.১ দ্রষ্টব্য। পৃষ্ঠা-৯৭ [math]\\[/math]
+ গপ্রদত্ত দ্বিঘাত সমীকরণ,[math]5-8 x-x^{2}=0[/math]
+ [math]\Rightarrow -\left(x^{2}+8 x-5\right)=0[/math]
+ [math]\therefore x^{2}+8 x-5=0[/math]
+সমীকরণটিকে দ্বিঘাত সমীকরণের আদর্শ রূপ [math]a x^{2}+b x+c=0[/math]
+ এর সাথে তুলনা করে পাই, [math]a=1, b=8[/math]
+ এবং [math]c=-5[/math]
+আমরা জানি, আদর্শ দ্বিঘাত সমীকরণের মূল,[math]\begin{aligned}x & =\frac{-b \pm \sqrt{b^{2}-4 a c}}{2 a} \\& =\frac{-8 \pm \sqrt{8^{2}-4 \cdot 1 \cdot(-5)}}{2 \cdot 1} \\& =\frac{-8 \pm \sqrt{64+20}}{2} \\& =\frac{-8 \pm \sqrt{84}}{2} \\& =\frac{-8 \pm 2 \sqrt{21}}{2}\end{aligned}[/math]
+ [math]=-4 \pm \sqrt{21}[/math]
+ [math]\therefore x=-4+\sqrt{21},-4-\sqrt{21}[/math]
+ [math]\therefore[/math]
+ মূলদ্বয় বাস্তব, অসমান এবং অমূলদ। [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 705111)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{\text { (i) } y^{x}=9, y^{2}=3^{x}}[/math] [math]\text { (ii) } \mathrm{P}=\mathrm{a}(\mathrm{x}+4)[/math]
+
+Options:
+ক. [math]\mathrm{\sqrt{7 x+1}+10=2}[/math] সমীকরণের সমাধান সেট নির্ণয় কর।
+খ. [math]\text { (i) }[/math] নং উদ্দীপকে বর্ণিত সমীকরণ জোটের সমাধান নির্ণয় কর।
+গ. [math]\mathrm{P>d, d \neq 0}[/math] সমাধান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]\sqrt{7 x+1}+10=2[/math]
+ [math]\begin{array}{l}\Rightarrow \sqrt{7 x+1}=-8 \\\Rightarrow 7 x+1=64 \\\Rightarrow 7 x=63\end{array}[/math]
+ [math]\therefore \mathrm{x}=9[/math]
+ [math]x=9[/math]
+ হলে [math]=\sqrt{7 \times 9+1}+10[/math]
+ [math]\begin{array}{l}=\sqrt{64}+10 \\=18 
+eq 2\end{array}[/math]
+ [math]\therefore[/math]
+ বামপক্ষ ≠ ডানপক্ষ[math]\therefore[/math]
+ নির্ণেয় সমাধান: [math]\varnothing[/math]
+ [math]\\[/math]
+ খদেওয়া আছে,[math]\begin{array}{l}y^{x}=9 \ldots \ldots(1) \\y^{2}=3^{x} \ldots \ldots(2)\end{array}[/math]
+(2) হতে পাই, [math]y^{2}=3^{x}[/math]
+ [math]\Rightarrow \left(y^{2}\right)^{x}=\left(3^{x}\right)^{x}[/math]
+ উভয় পক্ষের ঘাত x-এ উন্নীত করে][math]\begin{array}{l}\Rightarrow \left(y^{x}\right)^{2}=3^{x^{2}}\\\Rightarrow 9^{2}=3^{x^{2}} \text{.}\\\Rightarrow \left(3^{2}\right)^{2}=3^{x^{2}}\\\Rightarrow 3^{4}=3^{x^{2}} \text{.}\\\Rightarrow 4=x^{2}\end{array}[/math]
+ [math]\therefore \quad \mathrm{x}= \pm 2[/math]
+x = 2 হলে (1) হতে পাই,[math]\begin{array}{l}y^{2}=3^{2}=9 \\\therefore y= \pm 3\end{array}[/math]
+x = − 2 হলে (2) হতে পাই,[math]\begin{array}{l}y^{2}=3^{-2}=\frac{1}{9} \\\therefore y= \pm \frac{1}{3}\end{array}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় সমাধান[math](x, y)=(2,3),(2,-3),\left(-2, \frac{1}{3}\right),\left(-2,-\frac{1}{3}\right)[/math]
+ [math]\\[/math]
+ গদেওয়া আছে,[math]P=a(x+4)[/math]
+ এবং [math]P>d, d 
+eq 0[/math]
+a ধনাত্বক হলে, [math]a(x+4)>d[/math]
+ [math]\begin{array}{l}\Rightarrow \quad x+4>\frac{d}{a},[a 
+eq 0] \\\Rightarrow \quad x>\frac{d}{a}-4\end{array}[/math]
+a ঋনাত্বক হলে, [math]a(x+4)>d[/math]
+ [math]\begin{array}{l}\Rightarrow \quad \frac{a(x+4)}{a}\frac{d}{a}-4,[/math]
+ যদি [math]a > 0[/math]
+ হয়(ii) [math]x<\frac{d}{a}-4,[/math]
+ যদি [math]a < 0[/math]
+ হয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 705112)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{x^{p}}=\frac{1}{y q}=\frac{1}{z^{r}},m=2, n=3[/math] এবং [math]g^{2}=h^{3}[/math]
+
+Options:
+ক. [math]3+7 x-5 x^{2}=0[/math] সমীকরণটির মূলদ্বয়ের প্রকৃতি নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\left(\frac{h}{g}\right)^{\frac{\mathrm{n}}{\mathrm{m}}}+\left(\frac{\mathrm{h}}{\mathrm{g}}\right)^{\frac{\mathrm{m}}{\mathrm{n}}}=\sqrt{\mathrm{g}}+\frac{1}{\sqrt[3]{\mathrm{h}}}[/math]
+গ. [math]x y z=1[/math] হলে, প্রমাণ কর যে, [math]\frac{1}{a^{q}+a^{-r}+1}+\frac{1}{a^{r}+a^{-p}+1}+\frac{1}{a^{p}+a^{-q}+1}=1[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]3+7 x-5 x^{2}=0[/math]
+ অর্থাৎ, [math]-5 x^{2}+7 x+3=0[/math]
+সমীকরণটিকে [math]a x^{2}+b x+c=0[/math]
+সমীকরণের সাথে তুলনা করে পাই,[math]a=-5, b=7, c=3[/math]
+ [math]\therefore[/math]
+ নিশ্চায়ক [math]=b^{2}-4 a c=7^{2}-4(-5) \cdot 3=49+60[/math]
+ [math]=109>0[/math]
+ কিন্তু পূর্ণ বর্গ নয়।[math]\therefore[/math]
+ প্রদত্ত সমীকরণের মূলদ্বয় বাস্তব, অসমান ও অমূলদ হবে। [math]\\[/math]
+ খদেওয়া আছে,[math]\begin{array}{l}\mathrm{m}=2 \\\mathrm{n}=3\end{array}[/math]
+এখন,বামপক্ষ [math]=\left(\begin{array}{l}\mathrm{g} \\\mathrm{h}\end{array}\right)^{\frac{\mathrm{n}}{\mathrm{m}}}+\left(\frac{\mathrm{h}}{\mathrm{g}}\right)^{\frac{\mathrm{m}}{\mathrm{n}}}[/math]
+ [math]=\left(\frac{\mathrm{g}}{\mathrm{h}}\right)^{\frac{3}{2}}+\left(\frac{\mathrm{h}}{\mathrm{g}}\right)^{\frac{2}{3}}[/math]
+ [m ও n এর মান বসিয়ে][math]\begin{array}{l}=\left(\frac{\mathrm{g}^{3}}{\mathrm{~h}^{3}}\right)^{\frac{1}{2}}+\left(\frac{h^{2}}{\mathrm{~g}^{2}}\right)^{\frac{1}{3}}=\left(\frac{\mathrm{g}^{3}}{\mathrm{~g}^{\frac{1}{2}}}\right)^{2}+\left(\frac{\mathrm{h}^{2}}{\mathrm{~h}^{3}}\right)^{\frac{1}{3}} \\=\mathrm{g}^{\frac{1}{2}}+\left(\mathrm{h}^{-1}\right)^{\frac{1}{3}}=\sqrt{g}+h^{-\frac{1}{3}}\end{array}[/math]
+ [math]=\sqrt{g}+\left(h^{\frac{1}{3}}\right)^{-1}=\sqrt{g}+\frac{1}{\sqrt[3]{h}}=[/math]
+ ডানপক্ষ[math]\therefore\left(\begin{array}{l}\mathrm{g} \\\mathrm{h}\end{array}\right)^{\frac{\mathrm{n}}{\mathrm{m}}}+\left(\frac{\mathrm{h}}{\mathrm{g}}\right)^{\frac{\mathrm{m}}{\mathrm{n}}}=\sqrt{\mathrm{g}}+\frac{1}{\sqrt[3]{h}}[/math]
+ (প্রমাণিত)[বি.দ্র: প্রশ্নে ভুল আছে, বামপক্ষে [math]\left(\frac{\mathrm{h}}{\mathrm{g}}\right)^{\frac{\mathrm{n}}{\mathrm{m}}}[/math]
+ এর স্থলে [math]\left(\begin{array}{l}\mathrm{g} \\\mathrm{h}\end{array}\right)^{\frac{\mathrm{n}}{\mathrm{m}}}[/math]
+ হবে] [math]\\[/math]
+ গদেওয়া আছে, [math]\frac{1}{x^p}=\frac{1}{y^q}=\frac{1}{z^r}=[/math]
+ধরি, [math]\frac{1}{x^p}=\frac{1}{y^q}=\frac{1}{z^r}=k[/math]
+তাহলে, [math]\frac{1}{x^p}=k[/math]
+ [math]\therefore \quad x=\mathrm{k}^{\mathrm{p}}[/math]
+একইভাবে, [math]y=k^{q}, z=k^{r}[/math]
+আবার, [math]x y z=1[/math]
+ [math]\therefore k^{p} \cdot k^{q} \cdot k^{r}=1[/math]
+ [math]\Rightarrow k^{p+q+r}=k^{0}[/math]
+ [math]\therefore \quad \mathrm{p}+\mathrm{q}+\mathrm{r}=0[/math]
+বামপক্ষ [math]=\frac{1}{a^{q}+a^{-r}+1}+\frac{1}{a^{r}+a^{-p}+1}+\frac{1}{a^{p}+a^{-q}+1}[/math]
+ [math]=\frac{1}{a^{q}+\frac{1}{a^{r}}+1}+\frac{1}{a^{r}+a^{-p}+1}+\frac{1}{a^{p}+a^{-q}+1}[/math]
+ [math]=\frac{a^{r}}{1+a^{r}+a^{q+r}}+\frac{1}{1+a^{r}+a^{q+r}}+\frac{1}{a^{p}+\frac{1}{a^{q}}+1}[/math]
+ [math][\because \mathrm{p}+\mathrm{q}+\mathrm{r}=0 \therefore \mathrm{q}+\mathrm{r}=-\mathrm{p}][/math]
+ [math]\begin{array}{l}=\frac{a^{r}}{1+a^{r}+a^{q+r}}+\frac{1}{1+a^{r}+a^{q+r}}+\frac{a^{q}}{a^{p+q}+a^{q}+1} \\=\frac{a^{r}}{1+a^{r}+a^{q+r}}+\frac{1}{1+a^{r}+a^{q+r}}+\frac{a^{q}}{a^{-r}+a^{q}+1} \\=\frac{a^{r}}{1+a^{r}+a^{q+r}}+\frac{1}{1+a^{r}+a^{q+r}}+\frac{a^{q}}{\frac{1}{a^{r}}+a^{q}+1} \\=\frac{a^{r}}{1+a^{r}+a^{q+r}}+\frac{1}{1+a^{r}+a^{q+r}}+\frac{a^{q} \cdot a^{r}}{1+a^{r}+a^{q+r}}\end{array}[/math]
+ [math]=\frac{a^{r}+1+a^{q+r}}{1+a^{r}+a^{q+r}}=1=[/math]
+ ডানপক্ষ[math]\therefore \frac{1}{a^{q}+a^{-r}+1}+\frac{1}{a^{r}+a^{-p}+1}+\frac{1}{a^{p}+a^{-q}+1}=1[/math]
+ (প্ৰমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 705107)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=3^{2 x+2}[/math] এবং [math]g(x)=27^{x+1}[/math]
+
+Options:
+ক. দেখাও যে, [math](\sqrt{a}-\sqrt{b})(a+\sqrt{a b}+b)=a^{\frac{3}{2}}-b^{\frac{3}{2}}[/math]
+খ. [math]3 f(x)+3 g(x)=108[/math] হলে x এর মান নির্ণয় কর।
+গ. [math]h(x)=\frac{g(x)}{f(x)}[/math] হলে h(x) এর লেখচিত্র অঙ্কন করে ডোমেন ও রেঞ্জ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math](\sqrt{a}-\sqrt{b})(a+\sqrt{a b}+b)[/math]
+ [math]=(\sqrt{a}-\sqrt{b})\left\{(\sqrt{a})^{2}+\sqrt{a} \cdot \sqrt{b}+(\sqrt{b})^{2}\right\}[/math]
+ [math]=(\sqrt{a})^{3}-(\sqrt{b})^{3}=\left(a^{\frac{1}{2}}\right)^{3}-\left(b^{\frac{1}{2}}\right)^{3}=a^{\frac{3}{2}}-b^{\frac{3}{2}}[/math]
+ (দেখানো হলো) [math]\\[/math]
+ খদেওয়া আছে, [math]f(x)=3^{2 x+2}[/math]
+ [math]g(x)=27^{x+1}[/math]
+এবং [math]3 f(x)+3 g(x)=108[/math]
+ [math]\begin{array}{l}\Rightarrow f(x)+g(x)=36\\\Rightarrow 3^{2 x+2}+27^{x+1}=36\\\Rightarrow 3^{2 x+2}+3^{3 x+3}=36\\\Rightarrow 3^{2 x} \cdot 9+3^{3 x} \cdot 27=36\end{array}[/math]
+ [math]\Rightarrow 3^{2 x}+3^{3 x} \cdot 3=4[/math]
+ [উভয়পক্ষকে 9 দ্বারা ভাগ করে][math]\begin{array}{l}\Rightarrow 3^{3 x} \cdot 3+3^{2 x}-4=0 \\\Rightarrow 3\left(3^{x}\right)^{3}+\left(3^{x}\right)^{2}-4=0\end{array}[/math]
+ [math]\Rightarrow 3 a^{3}+a^{2}-4=0[/math]
+ [ধরি, [math]3^{x}=a[/math]
+][math]\begin{array}{l}\Rightarrow 3 a^{3}-3 a^{2}+4 a^{2}-4=0 \\\Rightarrow 3 a^{2}(a-1)+4\left(a^{2}-1\right)=0 \\\Rightarrow 3 a^{2}(a-1)+4(a+1)(a-1)=0 \\\therefore(a-1)\left(3 a^{2}+4 a+4\right)=0\end{array}[/math]
+হয়, [math]a-1=0[/math]
+ [math]\begin{array}{l}\Rightarrow a=1\\\Rightarrow 3^{x}=3^{0}\end{array}[/math]
+অথবা, [math]3 a^{2}+4 a+4=0[/math]
+ [math]\Rightarrow a=\frac{-4 \pm \sqrt{16-48}}{6}[/math]
+ [math]=\frac{-4 \pm \sqrt{-32}}{6}[/math]
+ যা গ্রহণযোগ্য নয়।[math]\therefore \mathbf{x}=0 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে,[math]\begin{array}{l}g(x)=27^{x+1}=3^{3 x+3} \\f(x)=3^{2 x+2}\end{array}[/math]
+ [math]\therefore h(x)=\frac{g(x)}{f(x)}=\frac{3^{3 x+3}}{3^{2 x+2}}=3^{3 x+3-2 x-2}=3^{x+1}[/math]
+ধরি, [math]y=h(x)=3^{x+1}[/math]
+x এর কয়েকটি মানের জন্য y এর মান নির্ণয় করে প্রদত্ত সমীকরণের লেখের কয়েকটি বিন্দুর স্থানাঙ্ক নির্ণয় করি:[math]\begin{array}{|r|r|r|r|c|}\hline \mathrm{x} & 0 & -1 & 0.5 & -2 \\\hline \mathrm{y} & 3 & 1 & 5.2 & 0.33 \\\hline\end{array}[/math]
+সারণি হতে প্রাপ্ত বিন্দুগুলো ছক কাগজে স্থাপন করে সমীকরণটির লেখচিত্র অঙ্কন করি। উভয় অক্ষ বরাবর ক্ষুদ্রতম 5 বর্গ ঘর = 1 একক ধরা হল।
+[Image]
+লেখ হতে দেখা যায় যে, x এর সকল বাস্তব মানের জন্য y এর ধনাত্মক বাস্তব মান পাওয়া যায়।[math]\therefore[/math]
+ ডোম, [math]h=\mathbb{R}[/math]
+ এবং রেঞ্জ, [math]h=(0, \infty) \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 705108)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm {A=x^{3}+x^{2}+4 x+4, B=a^{y}-\left(a^{3}+a\right) a^{\frac{y}{2}-1}+a^{2}}[/math]
+
+এবং [math]\mathrm {C=x^{2}+4 x-7}[/math]
+
+Options:
+ক. [math]\mathrm {C=0}[/math] সমীকরণের মূলদ্বয়ের প্রকৃতি নির্ণয় কর।
+খ. [math]\mathrm {B=0}[/math] এবং [math]\mathrm {a>0, a \neq 1}[/math] হলে দেখাও যে, [math]\mathrm {y=0,4}[/math]
+গ. [math]\frac{\mathrm{C}}{\mathrm{A}}[/math]n কে আংশিক ভংগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,[math]C=x^{2}+4 x-7[/math]
+এখন, C = 0 হলে,[math]x^{2}+4 x-7=0[/math]
+ [math]\therefore[/math]
+ নিশ্চায়ক [math]=(4)^{2}-4 \cdot 1 \cdot(-7)[/math]
+ [math]=16+28[/math]
+ [math]=44>0,[/math]
+ যা পূর্ণবর্গ নয়।[math]\therefore[/math]
+ সমীকরণের মূলদ্বয় বাস্তব, অসমান ও অমূলদ। [math]\\[/math]
+ খদেওয়া আছে, [math]B=a^{y}-\left(a^{3}+a\right) a^{\frac{y}{2}-1}+a^{2}[/math]
+এখন, [math]B=0[/math]
+ [math]\therefore \quad a^{y}-\left(a^{3}+a\right) a^{\frac{y}{2}-1}+a^{2}=0[/math]
+ [math]\begin{array}{l}\Rightarrow a^{y}-\left(a^{3}+a\right) \cdot a^{\frac{y}{2}} \cdot a^{-1}+a^{2}=0\\\Rightarrow a^{y}-\left(a^{2}+1\right) a^{\frac{y}{2}}+a^{2}=0\end{array}[/math]
+ [math]\Rightarrow \mathrm{p}^{2}-\left(\mathrm{a}^{2}+1\right) \cdot p+a^{2}=0[/math]
+ [math]\left[a^{\frac{y}{2}}=p\right.[/math]
+ ধরে [math]\text { ] }[/math]
+ [math]\begin{array}{l}\Rightarrow p^{2}-a^{2} p-p+a^{2}=0 \\\Rightarrow p\left(p-a^{2}\right)-1\left(p-a^{2}\right)=0 \\\Rightarrow (p-1)\left(p-a^{2}\right)=0\end{array}[/math]
+ [math]\therefore \quad \mathrm{p}-1=0[/math]
+ [math]\begin{array}{l}\Rightarrow \mathrm{p}=1\\\Rightarrow a^{\frac{y}{2}}=1\\\Rightarrow a^{\frac{y}{2}}=a^{0}\\\Rightarrow \frac{y}{2}=0\end{array}[/math]
+ [math]\therefore \quad y=0[/math]
+অথবা, [math]p-a^{2}=0[/math]
+ [math]\Rightarrow p=a^{2}[/math]
+ [math]\Rightarrow a^{\frac{y}{2}}=a^{2}[/math]
+ [math]\Rightarrow \frac{y}{2}=2[/math]
+ [math]\therefore y=4[/math]
+ [math]\therefore \quad \mathrm{y}=0,4[/math]
+ (দেখানো হলো) [math]\\[/math]
+ গদেওয়া আছে, [math]C=x^{2}+4 x-7[/math]
+এবং [math]A=x^{3}+x^{2}+4 x+4[/math]
+ [math]\begin{array}{l}=x^{2}(x+1)+4(x+1) \\=(x+1)\left(x^{2}+4\right)\end{array}[/math]
+ [math]\therefore \quad \frac{C}{A}=\frac{x^{2}+4 x-7}{(x+1)\left(x^{2}+4\right)}[/math]
+ধরি, [math]\frac{x^{2}+4 x-7}{(x+1)\left(x^{2}+4\right)} \equiv \frac{A}{x+1}+\frac{B x+C}{x^{2}+4}[/math]
+ [math]\text { (1) }[/math]
+(1) এর উভয় পক্ষকে (x + 1) ( [math]x^{2}[/math]
+ + 4) দ্বারা গুণ করে পাই,[math]\mathrm{x}^{2}+4 x-7 \equiv \mathrm{A}\left(\mathrm{x}^{2}+4\right)+(B x+C)(x+1).....\text { (2) }[/math]
+যা x এর সকল মানের জন্য সত্য। এখন, (2) এ [math]x = − 1[/math]
+ বসিয়ে পাই,[math](-1)^{2}+4(-1)-7=A(1+4)[/math]
+ [math]\Rightarrow 1-4-7=5 \mathrm{~A} \Rightarrow \mathrm{A}=-2[/math]
+আবার, (2) নং থেকে [math]x^{2}, x[/math]
+ এর সহগ সমীকৃত করে পাই,[math]A+B=1[/math]
+ [math]\begin{array}{l}\Rightarrow -2+B=1\\\Rightarrow B=3\end{array}[/math]
+এবং [math]B+C=4[/math]
+ [math]3+C=4[/math]
+ [math]\therefore \quad C=1[/math]
+(1) নং এ A, B, C এর মান বসিয়ে পাই,[math]\frac{x^{2}+4 x-7}{(x+1)\left(x^{2}+4\right)}=\frac{-2}{x+1}+\frac{3 x+1}{x^{2}+4}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 705101)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+(i) একটি আয়তক্ষেত্রের দৈর্ঘ্য তার প্রস্থের দ্বিগুণ অপেক্ষো 10 মিটার কম। আয়তক্ষেত্রটির ক্ষেত্রফল 1000 বর্গমিটার।
+
+(ii) [math]P = a ^ 2 - 9a - 6 ,[/math] [math]Q = a ^ 3 + a ^ 2 - 6a[/math]
+
+Options:
+ক. [math]3 - 4x - x ^ 2 = 0[/math] নিশ্চায়ক নির্ণয় কর।
+খ. আয়তক্ষেত্রটির পরিসীমা নির্ণয় কর।
+গ. [math]\frac{P}{Q}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]3 - 4x - x ^ 2 = 0[/math]
+বা, [math]- x ^ 2 - 4x + 3 =0............(i)[/math]
+(i) নং সমীকরণকে [math]a x ^ 2 + bx + c = 0[/math]
+ সমীকরণের সাথে তুলনা করে পাই,[math]a = - 1, \ b = - 4[/math]
+ এবং [math]c = 3[/math]
+.: নিশ্চায়ক, [math]\mathrm{D}=\mathrm{b}^{2}-4 \mathrm{ac}=(-4)^{2}-4(-1) \cdot 3[/math]
+ [math]=16+12=28 (Ans.)[/math]
+ [math]\\[/math]
+ খধরি, আয়তক্ষেত্রটির প্রস্থ x মিটার.: দৈর্ঘ্য [math]= (2x-10)[/math]
+ মিটারশর্তমতে, [math](2x - 10) x = 1000[/math]
+বা, [math]2x ^ 2 - 10x - 1000 = 0[/math]
+বা, [math]x ^ 2 - 5x - 500 = 0[/math]
+বা, [math]x ^ 2 - 25x + 20x - 500 = 0[/math]
+বা, [math]x(x - 25) + 20(x - 25) = 0[/math]
+ [math]x = 25[/math]
+ [math][\because x 
+eq-20[/math]
+, কারণ প্রস্থ ঋণাত্মক হতে পারে না].: আয়তক্ষেত্রটির প্রস্থ = 25 মিটারএবং দৈর্ঘ্য [math]=(2 \times 25-10)[/math]
+ মিটার[math]= (50 – 10)[/math]
+ মিটার[math]= 40[/math]
+ মিটারআয়তক্ষেত্রটির পরিসীমা = 2 (দৈর্ঘ্য + প্রস্থ)[math]= 2(40+25)[/math]
+ মিটার[math]= (2 × 65)[/math]
+ মিটার[math]= 130[/math]
+ মিটার (Ans.)[math]\\[/math]
+ গদেওয়া আছে, [math]P = a ^ 2 - 9a - 6[/math]
+এবং [math]Q = a ^ 3 + a ^ 2 - 6a[/math]
+ [math]\begin{aligned}\therefore \frac{P}{Q} & =\frac{a^{2}-9 a-6}{a^{3}+a^{2}-6 a}=\frac{a^{2}-9 a-6}{a\left(a^{2}+a-6\right)} \\& =\frac{a^{2}-9 a-6}{a\left(a^{2}+3 a-2 a-6\right)} \\& =\frac{a^{2}-9 a-6}{a\{a(a+3)-2(a+3)\}} \\& =\frac{a^{2}-9 a-6}{a(a+3)(a-2)}\end{aligned}[/math]
+ধরি [math]\frac{a^{2}-9 a-6}{a(a+3)(a-2)} \equiv \frac{A}{a}+\frac{B}{a+3}+\frac{C}{a-2} .....(i)[/math]
+(i) নং সমীকরণের উভয়পক্ষে [math]a(a+3)(a-2)[/math]
+ দ্বারা গুণ করে পাই,[math]a^{2}-9 a-6 \equiv A(a+3)(a-2)+B a(a-2)+C a(a+3)[/math]
+বা [math]a^{2}-9 a-6 \equiv A\left(a^{2}+a-6\right)+B\left(a^{2}-2 a\right)+C\left(a^{2}+3 a\right)[/math]
+বা, [math]a^{2}-9 a-6 \equiv a^{2}(A+B+C)+a(A-2 B+3 C)-6 A \cdots \cdots \cdots \text { (ii) }[/math]
+যা a এর সকল মানের জন্য সত্য।(ii) নং সমীকরণের উভয়পক্ষে [math]a^2, a[/math]
+ এর সহগ ও ধ্রুবপদ সমীকৃত করে পাই,[math]A+B+C=1 \ldots \ldots \ldots \ldots .(iii)[/math]
+ [math]A-2 B+3 C=-9 \quad \ldots \ldots \ldots \text { (iv) }[/math]
+এবং [math]-6A=-6 \ .: \ A=1[/math]
+A এর মান (iii) নং এ বসিয়ে পাই,[math]1 + B + C = 1[/math]
+বা, [math]B + C = 0[/math]
+ [math].:. 2B + 2C = 0[/math]
+(iv) ও (v) নং সমীকরণ করে পাই,[math]A + 5C = - 9[/math]
+বা, [math]1+5 C=-9[\because A=1][/math]
+বা, [math]5 C=-10 \quad \therefore C=-2[/math]
+C এর মান (v) নং এ বসিয়ে পাই, [math]2B + 2(- 2) = 0[/math]
+বা, [math]2B=4 \ .: \ B = 2[/math]
+A, B ও C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{a^{2}-9 a-6}{a(a+3)(a-2)} \equiv \frac{1}{a}+\frac{2}{a+3}-\frac{2}{a-2}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 705102)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]A=4+44+444+\ldots \ldots \ldots[/math] এবং
+
+[math]S=2(3 x-5)^{-1}+4(3 x-5)^{-2}+8(3 x-5)^{-3} \ldots \ldots \ldots[/math] দুইটি অসীম ধারা।
+
+Options:
+ক. [math]2x ^ 2 + 7x + 3 = 0[/math] সমীকরণটির মূলের ধরন ও প্রকৃতি নির্ণয় কর।
+খ. A ধারাটির প্রথম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে S ধারাটির (অসীমতক) সমষ্টি থাকবে' এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]2x ^ 2 + 7x + 3 = 0[/math]
+.: নিশ্চায়ক, [math]D = 7 ^ 2 - 4 . 2 . 3 = 49 - 24 = 25 = 5 ^ 2[/math]
+এখানে, সমীকরণটির নিশ্চায়ক, D > 0 এবং পূর্ণবর্গ সংখ্যা,.: সমীকরণটির মূলগুলো মূলদ, অসমান এবং বাস্তব সংখ্যা। (Ans.)[math]\\[/math]
+ খদেওয়া আছে, [math]A=4+44+444+\ldots \ldots \ldots \ldots .[/math]
+ [math]=4(1+11+111+\ldots \ldots \ldots \ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}(9+99+999+\ldots \ldots \ldots \ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10-1)+(100-1)+(1000-1)+\ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10+100+1000+\ldots \ldots \ldots[/math]
+ + n তম পদ) [math]-(1+1+1+\ldots .[/math]
+ + n তম পদ)[math]=\frac{4}{9}\left\{10 \cdot\left(\frac{10^{n}-1}{10-1}\right)-n\right\}[/math]
+ [math]=\frac{40}{81}\left(10^{n}-1\right)^{ }-\frac{4}{9} n[/math]
+অতএব, A ধারাটির প্রথম n সংখ্যক পদের সমষ্টি,[math]S_{n}=\frac{40}{81}\left(10^{n}-1\right)-\frac{4}{8} n(\text { Ans. })[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, প্রদত্ত ধারা:[math]S=2(3 x-5)^{-1}+4(3 x-5)^{-2}+8(3 x-5)^{-3}+\ldots \ldots \ldots[/math]
+ [math]=\frac{2}{3 x-5}+\left(\frac{2}{3 x-5}\right)^{2}+\left(\frac{2}{3 x-5}\right)^{3}+\ldots . .[/math]
+ যা একটি গুণোত্তর ধারাধারাটির প্রথম পদ, [math]a=\frac{2}{3 x-5}[/math]
+সাধারণ অনুপাত, [math]r=\left(\frac{2}{3 x-5}\right)^{2} \div\left(\frac{2}{3 x-5}\right)=\frac{2}{3 x-5}[/math]
+প্রদত্ত ধারাটির অসীমতক [math]|r| 2[/math]
+ [math]\because x>\frac{7}{3}[/math]
+এবং [math]\frac{2}{3 x-5}>-1[/math]
+বা, [math]\frac{1}{3 x-5}>-\frac{1}{2}[/math]
+বা, [math]3 x-5\frac{7}{3}[/math]
+ অথবা [math]\mathrm{x}<1[/math]
+ (Ans.)অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{2}{3 x-5}}{1-\frac{2}{3 x-5}}=\frac{2}{3 x-5} \div \frac{3 x-5-2}{3 x-5}[/math]
+ [math]=\frac{2}{3 x-5} \times \frac{3 x-5}{3 x-7}=\frac{2}{3 x-7} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 705103)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } 3(1+11+111+\ldots . . . . .)[/math] [math]\text { (ii) } a+a p+a p^{2}+\ldots. . . . .[/math] একটি গুণোত্তর ধারা।
+
+Options:
+ক. [math]7x - 1 + 2x ^ 2 = 0[/math] সমীকরণের নিশ্চায়ক নির্ণয় কর।
+খ. (i) নং ধারার ১ম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+গ. [math]a=p=\frac{1}{2 x+3}[/math] হলে, x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]7x - 1 + 2x ^ 2 = 0[/math]
+বা, [math]2x ^ 2 + 7x - 1 = 0[/math]
+সমীকরণটিকে [math]a x ^ 2 + bx + c = 0[/math]
+ সমীকরণের সাথে তুলনা করে পাই,[math]a = 2 , \ b = 7[/math]
+ এবং [math]c = - 1[/math]
+নিশ্চায়ক, [math]\mathrm{D}=\mathrm{b}^{2}-4 \mathrm{ac}=7^{2}-4 \times 2 \times(-1)[/math]
+ [math]=49+8=57 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খমনে করি, (i) নং ধারার প্রথম n সংখ্যক পদের সমষ্টি [math]S_n[/math]
+ [math]\therefore \mathrm{S}_{\mathrm{n}}=3(1+11+111+\ldots \ldots \ldots[/math]
+ +n তম পদ)[math]=\frac{3}{9}(9+99+999+\ldots \ldots[/math]
+ +n তম পদ)[math]=\frac{3}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots .[/math]
+ +n তম পদ)[math]=\frac{3}{9}\left\{\left(10+10^{2}+10^{3}+\ldots\right.\right.[/math]
+ +n তম পদ) [math]-(1+1+1+\ldots[/math]
+ +n তম পদ)[math]=\frac{3}{9}\left\{\left(\frac{10.10^{n}-1}{10-1}\right)-n\right\}[/math]
+ [math]=\frac{30}{81}\left(10^{n}-1\right)-\frac{3 n}{9}[/math]
+ [math]=\frac{10}{27}\left(10^{n}-1\right)-\frac{n}{3}[/math]
+অতএব, ধারাটির n সংখ্যক পদের সমষ্টি,[math]\left.\mathrm{S}_{\mathrm{n}}=\frac{10}{27}\left(10^{\mathrm{n}}=1\right)-\frac{\mathrm{n}}{3} \text { (Ans. }\right)[/math]
+ [math]\\[/math]
+ গএখানে, প্রদত্ত গুণোত্তর ধারাটি [math]=a+a p+a p^{2}+\ldots \ldots \ldots[/math]
+ [math]a=p=\frac{1}{2 x+3}[/math]
+ হলে ধারাটি[math]\frac{1}{2 x+3}+\frac{1}{(2 x+3)^{2}}+\frac{1}{(2 x+3)^{3}}+\cdots \cdots[/math]
+যার প্রথম পদ, [math]a=\frac{1}{2 x+3}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{\frac{1}{(2 x+3)^{2}}}{\frac{1}{2 x+3}}=\frac{1}{2 x+3}[/math]
+.: ধারার অসীমতক সমষ্টি থাকবে যদি [math]|r| 2 x+3>1[/math]
+হয়, [math]2x + 3 > 1[/math]
+বা, [math]2x > 1 - 3[/math]
+বা, [math]2x > - 2[/math]
+.: [math]x > - 1[/math]
+অথবা, [math]2x + 3  - 1[/math]
+ অথবা, [math]x < - 2[/math]
+ হলে প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে। (Ans.)অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{2 x+3}}{1-\frac{1}{2 x+3}}=\frac{\frac{1}{2 x+3}}{\frac{2 x+3-1}{2 x+3}}[/math]
+ [math]=\frac{1}{2 x+3} \times \frac{2 x+3}{2 x+2}=\frac{1}{2(x+1)} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 705104)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](3 x+1)^{-1}+(3 x+1)^{-2}+(3 x+1)^{-3}+\ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. সমাধান কর: [math]y² + 4y - 3 = 0[/math]
+খ. [math]x=\frac{2}{3}[/math] হলে, ধারাটির প্রথম 7 পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে অসীম ধারাটির (অসীমতক) সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]y ^ 2 + 4y - 3 = 0[/math]
+সমীকরণটিকে [math]ay ^ 2 + by + c = 0[/math]
+ এর সাথে তুলনা করে পাই,[math]a = 1, b = 4[/math]
+ এবং [math]c = - 3[/math]
+ [math]\therefore y=\frac{-b \pm \sqrt{b^{2}-4 a c}}{2 a}=\frac{-4 \pm \sqrt{(-4)^{2}-4.1(-3)}}{2.1}[/math]
+ [math]=\frac{-4 \pm \sqrt{16+12}}{2}=\frac{-4 \pm \sqrt{28}}{2}=-2 \pm \sqrt{7}[/math]
+.: নির্ণেয় সমাধান, [math]y=-2 \pm \sqrt{7} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, অনন্ত গুণোত্তর ধারাটি,[math](3 x+1)^{-1}+(3 x+1)^{-2}+(3 x+1)^{-3}+\ldots \ldots[/math]
+ [math]=\frac{1}{3 x+1}+\frac{1}{(3 x+1)^{2}}+\frac{1}{(3 x+1)^{3}}+\ldots \ldots \ldots[/math]
+ [math]x=\frac{2}{3}[/math]
+ হলে ধারাটি [math]\frac{1}{3 \cdot \frac{2}{3}+1}+\frac{1}{\left(3 . \frac{2}{3}+1\right)^{2}}+\frac{1}{\left(3 . \frac{2}{3}+1\right)^{3}}+\ldots \ldots[/math]
+ [math]=\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots[/math]
+ধারাটির প্রথম পদ [math]a=\frac{1}{3}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{\frac{1}{3^{2}}}{\frac{1}{3}}=\frac{1}{3^{2}} \times 3=\frac{1}{3}গদেওয়া আছে,প্রদত্ত ধারা: [math](3 x+1)^{-1}+(3 x+1)^{-2}+(3 x+1)^{-3}+\ldots \ldots[/math]
+ [math]=\frac{1}{3 x+1}+\frac{1}{(3 x+1)^{2}}+\frac{1}{(3 x+1)^{3}}+\ldots \ldots \ldots \ldots[/math]
+প্রদত্ত ধারাটির প্রথম পদ, [math]a=\frac{1}{3 x+1}[/math]
+এবং সাধারণ অনুপাত, [math]\mathrm{r}=\frac{1}{(3 \mathrm{x}+1)_{}^{2}} \div \frac{1}{3 \mathrm{x}+1}=\frac{1}{3 \mathrm{x}+1}[/math]
+প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি |r| 3 x+1[/math]
+বা, [math]-1-1>3 x+1-1[/math]
+বা, [math]-2>3 x \quad \therefore x1[/math]
+বা, [math]3 x+1-1>1-1[/math]
+বা, [math]3 x>0[/math]
+ [math]\therefore x>0[/math]
+বা, $$:. নির্ণেয় শর্ত: [math]x 0 \ (Ans.)[/math]
+ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}[/math]
+ [math]=\frac{\frac{1}{3 x+1}}{1-\frac{1}{3 x+1}}[/math]
+ [math]=\frac{\frac{1}{3 x+1}}{\frac{3 x+1-1}{3 x+1}}[/math]
+ [math]=\frac{1}{3 x} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 705105)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]P=3^{2 x-2} ; Q=5.3^{x-2}[/math] এবং [math]A=\frac{2-x}{2+x}[/math]
+
+Options:
+ক. [math]\log _{10}\left(100+\sqrt{x^{2}-6 x+5}\right)=2[/math] হলে, x এর মান নির্ণয় কর।
+খ. [math]P - Q = 66[/math] হলে, x এর মান নির্ণয় কর।
+গ. [math]f(x) = ln(A)[/math] হলে, f(x) এর ডোমেন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ,[math]\log _{10}\left(100+\sqrt{x^{2}-6 x+5}\right)=2[/math]
+বা, [math]100+\sqrt{x^{2}-6 x+5}=10^{2}[/math]
+বা, [math]100+\sqrt{x^{2}-6 x+5}=100[/math]
+বা, [math]\sqrt{x^{2}-6 x+5}=0[/math]
+বা, [math]x^{2}-5 x-x+5=0[/math]
+বা, [math]x(x-5)-1(x-5)=0[/math]
+ [math](x-5)(x-1)=0 \quad[/math]
+ [math]\therefore x=5,1 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে,[math]P=3^{2 x-2}[/math]
+ [math]Q=5.3^{x-2}[/math]
+প্রদত্ত সমীকরণ, [math]P - Q = 66[/math]
+বা, [math]3^{2 x-2}-5.3^{x-2}-66=0[/math]
+বা, [math]\frac{3^{2 x}}{9}-\frac{5}{9} \cdot 3^{x}-66=0[/math]
+বা, [math]3^{2 x}-5.3^{x}-594=0[/math]
+বা, [math]a^{2}-5 a-594=0 \quad\left[3^{x}=a\right.[/math]
+বা, [math]a^{2}-27 a+22 a-594=0[/math]
+বা, [math](a-27)(a+22)=0[/math]
+এখন [math]a ≠ - 22[/math]
+ কেননা [math]a = 3 ^ x > 0[/math]
+সুতরাং [math]a + 22 ≠ 0[/math]
+অতএব, [math]a - 27 = 0[/math]
+বা, [math]3^{x}=27=3^{3}[/math]
+.: [math]x = 3[/math]
+.: নির্ণেয় সমাধান: [math]x = 3 \ (Ans.)[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\frac{2-x}{2+x}[/math]
+ [math]\therefore \mathrm{f}(\mathrm{x})=\ln \mathrm{A}=\ln \frac{2-\mathrm{x}}{2+\mathrm{x}}[/math]
+ [math]\therefore \mathrm{f}(\mathrm{x}) \in \mathbb{R}[/math]
+ হবে যদি [math]\frac{2-x}{2+x}>0[/math]
+ হয়।এখন, [math]\frac{2-x}{2+x}>0[/math]
+ হবে যদি(i) [math]2 - x > 0[/math]
+ এবং [math]2 + x > 0[/math]
+ হয়।অথবা, (ii) [math]2 - x  2[/math]
+ এবং [math]x 2\} \cap\{x: x x[/math]
+ এবং [math]x > - 2[/math]
+বা, [math]x  - 2[/math]
+.: ডোমেন [math]=\{x \in \mathbb{R}: x-2\}[/math]
+ [math]=(-\infty, 2) \cap(-2, \infty)=(-2,2) \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 705106)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } A=\left(y^{2}+\frac{p}{y^{2}}\right)^{6} \text {; }[/math] [math]\text { (ii) } f(x)=\ln \frac{7+x}{7-x}[/math]
+
+Options:
+ক. [math]8^{2 x}=2^{x+1}[/math] হলে, [math]x[/math] এর মান নির্ণয় কর।
+খ. [math]A[/math] এর বিস্তৃতিতে [math]y[/math] মুক্ত পদের মান [math]14580[/math] হলে [math]P[/math] এর মান নির্ণয় কর।
+গ. [math](ii)[/math] নং হতে [math]f(x)[/math] ফাংশনটির ডোমেন এবং রেঞ্জ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]8^{2 x}=2^{x+1}[/math]
+বা, [math]\left(2^{3}\right)^{2 x}=2^{x+1}[/math]
+বা, [math]2^{6 x}=2^{x+1}[/math]
+বা, [math]6 x=x+1[/math]
+বা, [math]6 x-x=1[/math]
+বা, [math]5 x=1 \quad[/math]
+ [math]\therefore x=\frac{1}{5} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A=\left(y^{2}+\frac{p}{y^{2}}\right)^{6}[/math]
+ [math]=\binom{6}{0}\left(y^{2}\right)^{6}+\binom{6}{1}\left(y^{2}\right)^{5} \cdot \frac{p}{y^{2}}+\binom{6}{2}\left(y^{2}\right)^{4} \cdot\left(\frac{p}{y^{2}}\right)^{2}[/math]
+ [math]+\binom{6}{3}\left(y^{2}\right)^{3}\left(\frac{p}{y^{2}}\right)^{3}+\ldots \ldots \ldots[/math]
+ [math]=y^{12}+6 \cdot y^{10} \cdot \frac{p}{y^{2}}+15 y^{8} \cdot \frac{p^{2}}{y^{4}}+20 y^{6} \cdot \frac{p^{3}}{y^{6}}+\ldots \ldots \ldots[/math]
+ [math]=y^{12}+6 p y^{8}+15 y^{4} p^{2}+20 p^{3}+\ldots \quad \ldots \quad \ldots[/math]
+y মুক্ত পদের মান [math]= 14580[/math]
+প্রশ্নমতে, [math]20 \mathrm{p}^{3}=14580[/math]
+বা, [math]p^{3}=\frac{14580}{20}[/math]
+বা, [math]p^{3}=729[/math]
+বা, [math]p^{3}=9^{3}[/math]
+ [math]\therefore \mathrm{p}=9 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গধরি, [math]y=f(x)=\ln \frac{7+x}{7-x}[/math]
+যেহেতু লগারিদম ফাংশন শুধুমাত্র ধনাত্মক বাস্তব সংখ্যার জন্য সংজ্ঞায়িত হয়।[math]\therefore \frac{7+x}{7-x}>0[/math]
+ যদি [math](i) 7 + x > 0[/math]
+ এবং [math]7 - x > 0[/math]
+ হয়অথবা [math](ii) 7 + x  - 7[/math]
+ এবং- [math]- x > - 7[/math]
+ [math]\therefore x  7[/math]
+.: ডোমেন [math]=\{x: x7\}=\varnothing[/math]
+.: প্রদত্ত ফাংশনের ডোমেন[math]D_{f} = (i)[/math]
+ ও (ii) এ প্রাপ্ত ডোমেনের সংযোগ [math]=(-7,7) \cup \varnothing=(-7,7) \text { (Ans.) }[/math]
+রেঞ্জ নির্ণয়: ধরি, [math]y=f(x)=\ln \frac{7+x}{7-x}[/math]
+বা, [math]e^{y}=\frac{7+x}{7-x}[/math]
+বা, [math]7+x=7 e^{y}-x e^{y}[/math]
+বা, [math]x\left(1+e^{y}\right)=7\left(e^{y}-1\right)[/math]
+বা, [math]\mathrm{x}=\frac{7\left(\mathrm{e}^{\mathrm{y}}-1\right)}{\mathrm{e}^{\mathrm{y}}+1}[/math]
+y এর সকল বাস্তব মানের জন্য x এর বাস্তব মান পাওয়া যায়।.: প্রদত্ত ফাংশনের রেঞ্জ, [math]\mathrm{R}_{\mathrm{f}}=\mathbb{R} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 705015)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]A=36 y^{2}-8 y-5, B=2 a^{3}+3 a^{2}-32 a+15[/math] এবং [math]C=\log _{4}\left(14+\sqrt{x^{2}-12 x+36}\right).[/math]
+
+Options:
+ক. [math]\mathrm{A}=0[/math] হলে সমীকরণটির নিশ্চায়ক নির্ণয় কর।
+খ. উৎপাদক ও উপপাদ্যের সাহায্যে [math]\mathrm{B}[/math] কে উৎপাদকে বিশ্লেষণ কর।
+গ. [math]\mathrm{C}=2[/math] হলে, [math]x[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কA = 0 হলে,[math]36 y^{2}-8 y-5=0[/math]
+ [math]\therefore[/math]
+ নিশ্চায়ক [math]=(-8)^{2}-4.36(-5)[/math]
+ [math]\begin{array}{l}=64+720 \\=784 \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]B=2 a^{3}+3 a^{2}-32 a+15[/math]
+ধরি, [math]f(a)=2 a^{3}+3 a^{2}-32 a+15[/math]
+ [math]f(-5)=2(-5)^{3}+3(-5)^{2}-32(-5)+15=0[/math]
+ [math]\therefore \quad(a+5), f(a)[/math]
+ এর একটি উৎপাদক।প্রদত্ত রাশি [math]=2 a^{3}+3 a^{2}-32 a+15[/math]
+ [math]\begin{array}{l}=2 a^{3}+10 a^{2}-7 a^{2}-35 a+3 a+15 \\=2 a^{2}(a+5)-7 a(a+5)+3(a+5) \\=(a+5)\left(2 a^{2}-7 a+3\right) \\=(a+5)\left(2 a^{2}-6 a-a+3\right) \\=(a+5)\{2 a(a-3)-1(a-3)\} \\=(a+5)(a-3)(2 a-1)(\text { Ans. })\end{array}[/math]
+ [math]\\[/math]
+ গ [math]C-2[/math]
+ হলে, [math]2=\log _{4}\left(14+\sqrt{x^{2}-12 x+36}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow 4^{2}=14+\sqrt{x^{2}-12 x+36}\\\Rightarrow 16-14=\sqrt{x^{2}-12 x+36}\\\Rightarrow 2=\sqrt{x^{2}-12 x+36}\\\Rightarrow 4=x^{2}-12 x+36\\\Rightarrow x^{2}-12 x+32=0\\\Rightarrow x^{2}-8 x-4 x+32=0\\\Rightarrow x(x-8)-4(x-8)=0\\\Rightarrow (x-8)(x-4)=0\end{array}[/math]
+হয়, [math]x-8=0[/math]
+ [math]\Rightarrow x=8[/math]
+অথবা, [math]x-4=0[/math]
+ [math]\Rightarrow x=4[/math]
+ [math]\therefore \quad x=4,8 \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 705016)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=\frac{3 x-2}{3 x+4}[/math] এবং [math]g(y) = (y-2) (y² + 3)[/math]
+
+Options:
+ক. [math]3x²+5x + 2 = 0[/math] সমীকরণের মূলগুলোর প্রকৃতি নির্ণয় কর।
+খ. f(x) এক-এক ফাংশন কিনা- যাচাই কর।
+গ. [math]\frac{y}{g(y)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ: [math]3x ^ 2 + 5x + 2 = 0[/math]
+সমীকরণটিকে [math]a x ^ 2 + bx + c = 0[/math]
+ এর সাথে তুলনা করে পাই,a = 3, b = 5 এবং c = 2.: সমীকরণটির নিশ্চায়ক [math]= b ^ 2 - 4ac = 5 ^ 2 - 4.3 .2[/math]
+ [math]= 25-24=1>0[/math]
+সমীকরণটির নিশ্চায়ক শূন্য থেকে বড় এবং পূর্ণবর্গ সংখ্যা। তাই সমীকরণটির মূলদ্বয় বাস্তব, অসমান ও মূলদ। (Ans.)[math]\\[/math]
+ খধরি, [math]X_1, X_2 ∈[/math]
+ ডোম ff(x) এক-এক ফাংশন হবে যদি ও কেবল যদি যেকোনো[math]X_1, X_2 ∈[/math]
+ ডোম f এর জন্য [math]f(x_1) = f(x_2)[/math]
+ হলে, [math]x₁ = X_2[/math]
+ হয়।এখন, [math]f(x_1) = f(x_2)[/math]
+বা, [math]\frac{3 x_{1}-2}{3 x_{1}+4}=\frac{3 x_{2}-2}{3 x_{2}+4}[/math]
+বা, [math]9 x_{1} x_{2}-6 x_{2}+12 x_{1}-8=9 x_{1} x_{2}-6 x_{1}+12 x_{2}-8[/math]
+বা, [math]18 x_{1}=18 x_{2}[/math]
+ [math]\therefore \mathrm{x}_{1}=\mathrm{x}_{2}[/math]
+.: f(x) ফাংশনটি এক-এক ফাংশন। (যাচাই করা হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]g(y) = (y - 2)(y ^ 2 + 3)[/math]
+ [math]\therefore \frac{y}{g(y)}=\frac{y}{(y-2)\left(y^{2}+3\right)}[/math]
+ধরি, [math]\frac{y}{(y-2)\left(y^{2}+3\right)} \equiv \frac{A}{y-2}+\frac{B y+C}{y^{2}+3} \quad \ldots \quad \ldots \quad \ldots \text { (i) }[/math]
+(i) নং এর উভয়পক্ষে [math](y - 2)(y ^ 2 + 3)[/math]
+ দ্বারা গুণ করে পাই,[math]\mathrm{y}=\mathrm{A}\left(\mathrm{y}^{2}+3\right)+(\mathrm{By}+\mathrm{C})(\mathrm{y}-2) \quad \text {... ... ... ... (ii) }[/math]
+যা y এর সকল মানের জন্য সত্য।বা, [math]y=A y^{2}+3 A+B y^{2}-2 B y+C y-2 C[/math]
+ [math]\therefore y=(A+B) y^{2}+(C-2 B) y+3 A-2 C \quad \ldots \quad \ldots \quad \text {.... iii}[/math]
+(ii) নং এ y = 2 বসিয়ে,[math]2=A. (2 ^ 2 + 3) + 0[/math]
+ বা, [math]7A = 2[/math]
+ [math]\therefore \mathrm{A}=\frac{2}{7}[/math]
+(iii) নং এর উভয়পক্ষ হতে y' এবং y পদের সহগ সমীকৃত করে পাই,#A + B = 0 $বা, [math]B = -A[/math]
+ [math]\therefore B=-\frac{2}{7}[/math]
+ [math]C-2 B=1[/math]
+বা, [math]C-2\left(-\frac{2}{7}\right)=1[/math]
+বা, [math]C+\frac{4}{7}=1[/math]
+বা, [math]C=1-\frac{4}{7}[/math]
+ [math]\therefore C=\frac{3}{7}[/math]
+A, B ও C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{y}{(y-2)\left(y^{2}+3\right)} \equiv \frac{\frac{2}{7}}{y-2}+\frac{\left(-\frac{2}{7}\right) y+\frac{3}{7}}{y^{2}+3}=\frac{2}{7(y-2)}+\frac{3-2 y}{7\left(y^{2}+3\right)}[/math]
+এটিই নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 705017)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]p(x)=7 x^{5}-5 x^{4}+8 a^{2} x^{3}+15 a x-1[/math] এবং [math]f(a, b)=\frac{a+b}{a-b}[/math]
+
+Options:
+ক. দেখাও যে, [math]x^{3}-6 x^{2}+6 x-5[/math] রাশিটির একটি উৎপাদক [math](x-5)[/math]।
+খ. [math](x+1)[/math] ও [math](x-1)[/math] দ্বারা [math]p(x)[/math] কে ভাগ করলে একই ভাগশেষ থাকলে [math]a[/math] এর মান নির্ণয় কর।
+গ. সমাধান করঃ [math]f(x, y)+\frac{1}{f(x, y)}=\frac{10}{3}[/math] [math]x^{2}-y^{2}=3[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 705018)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+ধর, [math]m=x^{2}-6 x[/math]
+
+Options:
+ক. [math]x^{2}-1=0[/math] সমীকরণকে [math]a x^{2}+b x+c=0[/math] সমীকরণের সাথে তুলনা করে [math]\mathrm{a}, \mathrm{b}[/math] ও [math]c[/math] এর মান নির্ণয় কর।
+খ. [math]\sqrt{m+15}-\sqrt{m+13}=\sqrt{10}-\sqrt{8}[/math] হলে [math]x[/math] এর মান নির্ণয় কর।
+গ. [math]\mathrm{m}=7[/math] হলে সমীকরণটি লেখচিত্রের মাধ্যমে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 705019)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Pabna Zilla School, Pabna
+--------------------------------------------------------------------------------
+Question:
+[math]M(x)=\sqrt[3]{1+x}+\sqrt[3]{1-x}[/math] এবং [math]N[/math] এর সমীকরণ [math]\begin{array}{l}y^{x}=4 \\y^{2}=2^{x}\end{array}[/math]
+
+Options:
+ক. [math]7 x^{2}-2 x+1=0[/math] সমীকরণের মূলদ্বয়ের প্রকৃতি নির্ণয় কর।
+খ. [math]M(x)=\sqrt[3]{2}[/math] ধরে [math]M(x)[/math] কে সমাধান কর।
+গ. [math]N[/math] হতে [math]x[/math] ও [math]y[/math] এর মান বের করে [math]N[/math] সমীকরণের শুদ্ধি পরীক্ষা দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 705020)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Syedpur Govt. Technical College
+--------------------------------------------------------------------------------
+Question:
+[math]2 x^{2}-3 x+5=0[/math] একটি দ্বিঘাত সমীকরণ এবং [math]\frac{5 x+4}{x\left(x^{2}+2\right)\left(x^{2}-3\right)}[/math] একটি মূলদ ভগ্নাংশ।
+
+Options:
+ক. [math]b^{2} c^{2}\left(b^{2}-c^{2}\right)+c^{2} a^{2}\left(c^{2}-a^{2}\right)+a^{2} b^{2}\left(a^{2}-b^{2}\right)[/math] এর উৎপাদকে বিশ্লেষণ কর।
+খ. সমীকরণটির সমাধান লেখচিত্রের মাধ্যমে প্রকাশ কর।
+গ. মূলদ ভঙ্গাংশের আংশিক ভগ্নাংস নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 705021)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Noakhali Zilla School, Noakhali
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=a x^{2}+b x+c, f(x, y)=2 x^{2}+3 x y+y^{2}, g(x, y)=5 x^{2}+4 y^{2}[/math]
+
+Options:
+ক. [math]f(x)=0[/math] সমীকরণের নিশ্চায়ক নির্ণয় কর।
+খ. দেখাও যে, [math]f(x)=0[/math] সমীকরণের মূলদ্বয়ের যোগফল [math]-\frac{b}{a}[/math] এবং গুনফল [math]\frac{\mathrm{c}}{\mathrm{a}}[/math]
+গ. সমাধান কর যখন [math]f(x, y)=20[/math] এবং [math]g(x, y)=41.[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 705022)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Feni Govt Pilot High School
+--------------------------------------------------------------------------------
+Question:
+[math]q=\frac{2 y}{y-1}, y 
+eq 0, y 
+eq 1.[/math]
+
+Options:
+ক. [math]q=\frac{8}{y}[/math] হলে, [math]y[/math] এর মান নির্ণয় কর।
+খ. [math]\left\{\frac{2(q+y)}{q}\right\}^{\frac{1}{3}}-\left\{\frac{-2 y}{q}\right\}^{\frac{1}{3}}=2^{\frac{1}{3}}[/math] হলে, [math]y[/math] এর মান নির্ণয় কর।
+গ. [math]6 \sqrt{q}+5 \sqrt{\frac{1}{q}}=13[/math] হলে, [math](y+4)[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 705023)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Dr. Khastagir Govt. Girls' High School, Chottogram
+--------------------------------------------------------------------------------
+Question:
+[math]y=x^{2}+6 x[/math]
+
+Options:
+ক. [math]y=16[/math] হলে, [math]x[/math] এর মান নির্ণয় কর।
+খ. [math]\sqrt{y-2}+\sqrt{y+9}=11[/math] হলে দেখাও যে, [math](x+3)^{2}=36.[/math]
+গ. [math]y=0[/math] হলে, লেখচিত্রের সাহায্যে [math]x[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 705024)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: MNHS
+--------------------------------------------------------------------------------
+Question:
+একটি আয়তক্ষেত্রের কর্ণের দৈর্ঘ্য 10 মিটার। ইহার বাহুদ্বয়ের যোগফল ও বিয়োগফলের সমান দৈর্ঘ্য বিশিষ্ট বাহুদ্বয় দ্বারা অঙ্কিত আয়তক্ষেত্রের ক্ষেত্রফল 28 বর্গ মিটার।
+
+Options:
+ক. উপরোক্ত তথ্যগুলো সমীকরণ আকারে দেখাও।
+খ. প্রথম আয়তক্ষেত্রটির দৈর্ঘ্য ও প্রস্থ নির্ণয় কর।
+গ. দ্বিতীয় আয়তক্ষেত্রটির পরিসীমা ও কর্ণের দৈর্ঘ্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 705025)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Mohammadpur Govt. High School
+--------------------------------------------------------------------------------
+Question:
+[math]f(y)=1+y[/math]
+
+Options:
+ক. [math]3-4 x-x^{2}=0[/math] সমীকরণের নিশ্চায়ক নির্ণয় কর।
+খ. [math]\sqrt[3]{f(x)}+\sqrt[3]{2-f(x)}=\sqrt[6]{4}[/math] হলে [math]x[/math] এর মান নির্ণয় কর।
+গ. [math]2^{2 f(a)}+4^{2-f(a)}=10[/math] হলে [math]a[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+

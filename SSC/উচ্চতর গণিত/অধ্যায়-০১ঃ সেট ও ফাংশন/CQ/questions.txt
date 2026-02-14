@@ -1,0 +1,1522 @@
+================================================================================
+Question #1 (ID: 704177)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]A=\{x: x \in \mathbb{R}[/math] এবং [math]\left.x^{2}-(p+q) x+p q=0 ; p, q \in \mathbb{R}\right\},[/math] [math]B=\{2,3\}[/math] এবং [math]C=\{3,4,5\}[/math]
+
+Options:
+ক. উপসেট ও পূরক সেট কী?
+খ. দেখাও যে, [math]P(B \cap C)=P(B) \cap P(C).[/math]
+গ. প্রমাণ কর যে, [math]A \times(B \cup C)=(A \times B) \cup\left(A\times C\right).[/math]
+
+
+Correct Answer: 
+
+Solution:
+কউপসেট: একটি সেটের প্রত্যেকটি উপাদান যদি অপর একটি সেটের উপাদানসমূহের অন্তর্গত হয়, তবে প্রথম সেটকে দ্বিতীয় সেটের উপসেট বলা হয়। যেমন: A = {2, 3}, B = {2, 3, 4, 5} এর উপসেট।পূরক সেট: যদি U সার্বিক সেট এবং A সেটটি U এর উপসেট হয়, তাহলে A সেটের বহির্ভূত কিন্তু U সেটের অন্তর্গত অন্য সকল উপাদান নিয়ে গঠিত সেটকে A সেটের পূরক সেট বলে। A এর পূরক সেটকে [math]A^{c}[/math]
+ বা A' দ্বারা প্রকাশ করা হয় । গাণিতিকভাবে [math]A^{c}=U l A=\{x: x \in U[/math]
+ এবং [math]x 
+otin A\}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে,[math]\begin{array}{l}B=\{2,3\} \\C=\{3,4,5\}\end{array}[/math]
+ [math]\therefore B \cap C=\{2,3\} \cap\{3,4,5\}=\{3\}[/math]
+বামপক্ষ [math]=P(B \cap C)=\{\{3\}, \varnothing\}[/math]
+আবার, [math]\mathrm{P}(\mathrm{B})=\{\{2\},\{3\},\{2,3\}, \varnothing\}[/math]
+এবং [math]P(C)=\{\{3\},\{4\},\{5\},\{3,4\},\{4,5\},\{3,5\},\{3,4 ; 5\}, \varnothing\}[/math]
+ডানপক্ষ [math]=P(B) \cap P(C)[/math]
+ [math]\begin{array}{l}=\{\{2\},\{3\},\{2,3\}, \varnothing\} \cap\{\{3\},\{4\},\{5\},\{3,4\},\{4,5\}, \\\{3,5\},\{3,4,5\}, \varnothing\}=\{\{3\}, \varnothing\}\end{array}[/math]
+ [math]\therefore \mathrm{P}(\mathrm{B} \cap \mathrm{C})=\mathrm{P}(\mathrm{B}) \cap \mathrm{P}(\mathrm{C})[/math]
+ (দেখানো হলো) [math]\\[/math]
+ গদেওয়া আছে,[math]A=\{x: x \in \mathbb{R}[/math]
+ এবং [math]\left.x^{2}-(p+q) x+p q=0 ; p, q \in \mathbb{R}\right\}[/math]
+ [math]\begin{array}{l}\mathrm{B}=\{2,3\} \\C=\{3,4,5\}\end{array}[/math]
+এখন, [math]x^{2}-(p+q) x+p q=0[/math]
+ [math]\begin{array}{l}\Rightarrow x^{2}-p x-q x+p q=0\\\Rightarrow x(x-p)-q(x-p)=0\end{array}[/math]
+ [math]\therefore(x-p)(x-q)=0[/math]
+হয়, [math]x-p=0[/math]
+ [math]\begin{array}{l}\therefore x=p \\\therefore A=\{p, q\}\end{array}[/math]
+অথবা, [math]x-q=0[/math]
+ [math]\therefore x=q[/math]
+আবার, [math]\mathrm{B} \cup \mathrm{C}=\{2,3\} \cup\{3,4,5\}=\{2,3,4,5\}[/math]
+ [math]\begin{aligned}\mathrm{A} \times \mathrm{B} & =\{p, q\} \times\{2,3\}=\{(p, 2),(p, 3),(q, 2),(q, 3)\} \\\mathrm{A} \times \mathrm{C} & =\{\mathrm{p}, \mathrm{q}\} \times\{3,4,5\} \\& =\{(\mathrm{p}, 3),(\mathrm{p}, 4),(\mathrm{p}, 5),(\mathrm{q}, 3),(q, 4),(q, 5)\}\end{aligned}[/math]
+বামপক্ষ [math]=A \times(B \cup C)[/math]
+ [math]\begin{array}{l}=\{p, q\} \times\{2,3,4,5\} \\=\{(p, 2),(p, 3),(p, 4),(p, 5),(q, 2),(q, 3),(q, 4),(q, 5)\}\end{array}[/math]
+ডানপক্ষ [math]=(A \times B) \cup(A \times C)[/math]
+ [math]\begin{array}{l}=\{(\mathrm{p}, 2),(\mathrm{p}, 3),(\mathrm{q}, 2),(\mathrm{q}, 3)\} \cup\{(\mathrm{p}, 3),(\mathrm{p}, 4),(\mathrm{p}, 5),(\mathrm{q}, 3), \\(\mathrm{q}, 4),(\mathrm{q}, 5)\} \\=\{(\mathrm{p}, 2),(\mathrm{p}, 3),(\mathrm{p}, 4),(\mathrm{p}, 5),(\mathrm{q}, 2)(\mathrm{q}, 3),(\mathrm{q}, 4),(\mathrm{q}, 5)\}\end{array}[/math]
+ [math]\therefore A \times(B \cup C)=(A \times B) \cup(A \times C)[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 704178)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm {F(x)=\sqrt{2-4 x}}[/math] একটি ফাংশন।
+
+Options:
+ক. [math]\mathrm {F(x)}[/math] দ্বারা বর্ণিত ফাংশনের ডোমেন নির্ণয় কর।
+খ. [math]\text {F}[/math] একটি এক-এক ফাংশন কি না নির্ধারন কর।
+গ. [math]\text F^{-1}(-3)[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]F(x)=\sqrt{2-4 x}[/math]
+ [math]\mathrm{F}(\mathrm{x}) \in \mathbb{R}[/math]
+ হবে যদি এবং কেবল যদি [math]2-4 x \geq 0[/math]
+ হয়।[math]\begin{array}{l}\Rightarrow -4 x \geq-2\\\Rightarrow 4 x \leq 2 \therefore x \leq \frac{1}{2}\end{array}[/math]
+ [math]\therefore[/math]
+ [math]F=\left\{x \in \mathbb{R}: x \leq \frac{1}{2}\right\} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]F(x)=\sqrt{2-4 x}[/math]
+ধরি, [math]x_{1}, \mathrm{x}_{2} \in[/math]
+ ডোম Fফাংশনটি এক-এক হবে যদি ও কেবল যদি [math]\mathrm{F}\left(\mathrm{x}_{1}\right)=\mathrm{F}\left(\mathrm{x}_{2}\right)[/math]
+ হলে[math]\mathrm{x}_{1}=\mathrm{x}_{2}[/math]
+ হয়।ধরি, [math]\mathrm{F}\left(\mathrm{x}_{1}\right)=\mathrm{F}\left(\mathrm{x}_{2}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow \sqrt{2-4 x_{1}}=\sqrt{2-4 x_{2}}\\\Rightarrow 2-4 \mathrm{x}_{1}=2-4 \mathrm{x}_{2}\\\Rightarrow -4 \mathrm{x}_{1}=-4 \mathrm{x}_{2}\end{array}[/math]
+ [math]\therefore \mathrm{x}_{1}=\mathrm{x}_{2}[/math]
+ [– 4 দ্বারা ভাগ করে][math]\therefore[/math]
+ F(x) একটি এক এক ফাংশন। [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গধরি, [math]y=F(x)=\sqrt{2-4 x}[/math]
+ [math]\begin{array}{l}\Rightarrow y=\sqrt{2-4 x}\\\Rightarrow y^{2}=2-4 x\\\Rightarrow 4 \mathrm{x}=2-\mathrm{y}^{2} \text{.}\\\Rightarrow x=\frac{2-y^{2}}{4}\end{array}[/math]
+ [math]\Rightarrow F^{-1}(y)=\frac{2-y^{2}}{4}[/math]
+ [math]\left[\because \mathrm{F}(\mathrm{x})={y} \therefore \mathrm{x}=\mathrm{F}^{-1}(\mathrm{y})\right][/math]
+ [math]\begin{aligned}\therefore F^{-1}(x) & =\frac{2-x^{2}}{4} \\\therefore F^{-1}(-3) & =\frac{2-(-3)^{2}}{4} \\& =\frac{2-9}{4}=\frac{-7}{4} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 704179)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]Q=\frac{1}{x^{6}}+\frac{1}{y^{6}}+\frac{1}{z^{6}}-\frac{3}{x^{2} y^{2} z^{2}}[/math] এবং [math]f: x \rightarrow \frac{3 x+2}{2 x+5}[/math]
+
+Options:
+ক. উৎপাদকে বিশ্লেষণ কর: [math]x^{3}+4 x^{2}+4 x+1[/math]
+খ. [math]Q = 0[/math] হলে, দেখাও যে, [math]y^{2} z^{2}+z^{2} x^{2}+x^{2} y^{2}=0[/math] অথবা [math]x ^ 2 = y ^ 2 = z ^ 2[/math]
+গ. [math]f^{-1}(x)=3 x[/math] হলে, x এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 704180)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপক-১: [math]g(y)=\frac{1}{y+2}+\frac{2 y}{y^{2}+4}+\frac{4 y^{3}}{y^{4}+16}+\frac{8 y^{7}}{256-y^{8}}[/math]
+
+উদ্দীপক-২: , সাঁতার ও নৃত্যের মধ্যে অন্তত একটি কার্যক্রম পছন্দ করে। তাদের মধ্যে 30 জন ক্যাডেট দৌড়; ৪ জন দৌড়, সাঁতার ও নৃত্য; 4 জন শুধু দৌড়; 14 জন দৌড় ও সাঁতার পছন্দ করে কিন্তু নৃত্য পছন্দ করে না। 2x জন সাঁতার ও নৃত্য পছন্দ করে কিন্তু দৌড় নয়, 4x জন শুধু নৃত্য, 4 জন শুধু সাঁতার পছন্দ করে।
+
+Options:
+ক. [math]f(x)=\sqrt{2-x}[/math] এর ডোমেন নির্ণয় কর।
+খ. আলোকে g(y) কে সরলীকরণ কর।
+গ. উদ্দীপক-২ এ বর্ণিত তথ্যের আলোকে কতজন ক্যাডেট সাঁতার ও নৃত্য পছন্দ করে কিন্তু দৌড় পছন্দ করে না?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 704181)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: Faujdarhat Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=\frac{3 x+3}{x-2},(x 
+eq 2) ; A=\{e, f\}, B=\{f, g\}[/math] এবং [math]P(y)=y^{3}+4 y^{2}+5 y+7[/math]
+
+Options:
+ক. [math]P(A \cup B)[/math] নির্ণয় কর।
+খ. [math]\mathrm{f}^{-1}(\mathrm{p})=\mathrm{kp}[/math] হলে, k কে p এর মাধ্যমে প্রকাশ কর।
+গ. P(y) কে [math](y-s)[/math] এবং [math](y-t)[/math] দ্বারা ভাগ করলে যদি প্রতিক্ষেত্রে একই ভাগশেষ পাওয়া যায়, তবে দেখাও যে, [math]s^{2}+t^{2}+s t+4 s+4 t+5=0[/math] যেখানে [math]s \neq t[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 704182)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: Barisal Cadet College
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: [math]f(x)=3 x+1,0 \leq x \leq 2[/math]
+
+দৃশ্যকল্প-২: [math]g(x)=\frac{2 x}{(x+1)\left(x^{2}+1\right)^{2}}[/math]
+
+Options:
+ক. [math]f(x)[/math] ফাংশনের ডোমেন নির্ণয় কর, যেখানে রেঞ্জ [math]\mathrm{f}=\left\{1, \frac{3}{2}\right\}[/math]
+খ. [math]\mathrm{f}^{-1}(\mathrm{x})[/math] ফাংশনের ডোমেন ও রেঞ্জ নির্ণয় কর।
+গ. g(x) কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 704183)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=x^{3}-x^{2}+a x+b[/math] এবং [math]g(x)=x^{2}-2 x-8[/math]
+
+Options:
+ক. [math]h(x)=\sqrt{3-2 x}[/math] ফাংশনটির ডোমেন নির্ণয় কর।
+খ. [math]\frac{x^{2}}{g(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+গ. [math]f(x)[/math] এর একটি উৎপাদক [math]g(x)[/math] হলে প্রমাণ কর যে, [math]2a - 3b = 4[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 704184)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: Engineering University School and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]\text{(i) } P(x)=18 x^{3}-15 x^{2}-x+2[/math] [math]\text{(ii) } f: \mathbb{R}-\left\{\frac{1}{5}\right\} \rightarrow \mathbb{R}, f(x)=\frac{1+x}{1-5 x}[/math]
+
+Options:
+ক. দেখাও যে, [math]3x + 1, P(x)[/math] এর একটি উৎপাদক।
+খ. [math]P(x)[/math] কে [math](3x - m)[/math] এবং [math](3x – n)[/math] দ্বারা ভাগ করলে যদি একই ভাগশেষ থাকে, যেখানে [math]m ≠ n,[/math] তবে দেখাও যে, [math]2m² + 2mn + 2n² - 5m-5n-1=0[/math]
+গ. দেখাও যে, f দ্বারা বর্ণিত ফাংশনটি এক-এক হলেও অনটু নয়।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 704185)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]f: x \rightarrow \frac{5 x-8}{x-3}[/math]
+
+Options:
+ক. প্রমাণ কর যে, [math]\mathrm{A\backslash B} \subseteq \mathrm {A}\cap \mathrm{B}^{\prime}.[/math]
+খ. প্রদত্ত ফাংশনটির ডোমেন নির্ণয় কর এবং ফাংশনটি এক-এক কি-না তা নির্ধারণ কর।
+গ. [math]f^{-1}(x)=-x[/math] হলে [math]x[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 704186)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প [math]-\text{I}[/math]: [math]f(x) = 5x + 3; 0 ≤ x ≤ 3[/math] একটি ফাংশন।
+
+দৃশ্যকল্প [math]-\text{II}[/math]: দশম শ্রেণির [math]48[/math] জন ক্যাডেটের মধ্যে [math]36[/math] জন ফুটবল ও [math]24[/math] জন ক্রিকেট খেলা পছন্দ করে। মনে কর [math]U[/math] দশম শ্রেণির ক্যাডেটদের সেট। যারা ফুটবল খেলা পছন্দ করে তাদের সেট [math]F,[/math] যারা ক্রিকেট খেলা পছন্দ করে তাদের সেট [math]C[/math] এবং [math]n(F \cap C)=x.[/math]
+
+Options:
+ক. [math]n(F \cup C)[/math] কে [math]x[/math] এর মাধ্যমে প্রকাশ কর।
+খ. [math]x[/math] এর সম্ভাব্য নুন্যতম ও বৃহত্তর মান নির্ণয় কর।
+গ. [math]f^{-1}[/math] নির্ণয় করো এবং [math]f[/math] এবং [math]f^{-1}[/math] এর লেখচিত্র আঁক।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 704187)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Joypurhat Girls’ Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]f: \mathbb{R} \rightarrow \mathbb{R}[/math] ফাংশনটি [math]f(x)=\frac{2 x+3}{3 x-4}[/math] দ্বারা সংজ্ঞায়িত, যেখানে, [math]x 
+eq \frac{4}{3}[/math]
+
+Options:
+ক. [math]f(x)=\ln (x+1)[/math] এর ডোমেন ও রেঞ্জ নির্ণয় কর।
+খ. দেখাও যে, [math]f(x)[/math] ফাংশনটি এক-এক কিন্তু সার্বিক নয়।
+গ. [math]2 f^{-1}(x)=x[/math] হলে, [math]x[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 704173)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]S=\left\{(x,y):x^2+y^2+6x+8y+9=0\right\}[/math] একটি অন্বয় এবং [math]A=\{x: x \in \mathbf{N}, x[/math] মৌলিক সংখ্যা এবং [math]x<7\},[/math] [math]B=\{x: x[/math] ধনাত্বক পূর্ণসংখ্যা এবং [math]\sqrt{x}<2\}[/math] দুইটি সেট।
+
+Options:
+ক. [math]\mathrm {B}[/math] সেটকে তালিকা পদ্বতিতে প্রকাশ কর।
+খ. দেখাও যে, [math]P(A) \cap P(B)=P(A \cap B).[/math]
+গ. [math]\text{S}[/math] অন্বয়ের লেখচিত্র অঙ্কন কর এবং অন্বয়টি ফাংশন কিনা তা লেখচিত্র থেকে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]B=\{x: x[/math]
+ ধনাত্বক পূর্ন সংখ্যা এবং [math]\sqrt{x}খদেওয়া আছে, [math]A=\{x: X \in \mathbb{N}, x[/math]
+ মৌলিক সংখ্যা এবং [math]xগদেওয়া আছে, [math]S=\left\{(x, y) \circ x^{2}+y^{2}+6 x+8 y+9=0\right\}[/math]
+ [math]\begin{array}{l}=\left\{(x, y): x^{2}+2 \cdot x \cdot 3+3^{2}+y^{2}+2 \cdot y \cdot 4+4^{2}-16=0\right\} \\=\left\{(x, y):(x+3)^{2}+(y+4)^{2}=4^{2}\right\}\end{array}[/math]
+সুতরাং S এর লেখচিত্র একটি বৃত্ত যার কেন্দ্র (− 3, – 4) এবং ব্যাসার্ধ, r = 4 একক। ছক কাগজে (− 3, – 4) বিন্দু পাতন করে একে কেন্দ্র করে 4 একক ব্যাসার্ধ নিয়ে একটি বৃত্ত অঙ্কন করলেই S এর লেখ পাওয়া যায়। নিম্নে তা দেখানো হলো:
+[Image]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 704174)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]f(\mathrm{x})=\mathrm {\sqrt{2 x-3}}[/math] একটি ফাংশন।
+
+Options:
+ক. [math]f(\mathrm{x})=1[/math] হলে [math]\mathrm{x}[/math] এর মান নির্ণয় কর।
+খ. [math]f(\mathrm{x}[/math] এর ডোমেন নির্ণয় কর এবং ফাংশনটি এক-এক কিনা দেখাও।
+গ. [math]f^{-1}(\mathrm{x})[/math] এর রেঞ্জ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=\sqrt{2 x-3}[/math]
+প্রশ্নমতে, [math]f(x)=1[/math]
+ [math]\Rightarrow \sqrt{2 x-3}=1 \Rightarrow 2 x-3=1[/math]
+ [বর্গ করে][math]\Rightarrow 2 x=1+3 \Rightarrow x=\frac{4}{2}[/math]
+ [math]\therefore x=2 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]F(x)[/math]
+ সংজ্ঞায়িত হবে যদি ও কেবল যদি [math]2 x-3 \geq 0[/math]
+ বা, [math]x \geq \frac{3}{2}[/math]
+ হয়।[math]\therefore[/math]
+ ডোমেন [math]=\left\{x \in \mathbb{R}: x \geq \frac{3}{2}\right\} \text { (Ans.) }[/math]
+ [math]f(x)[/math]
+ এক-এক হবে যদি ও কেবল যদি যেকোনো [math]x_{1}, x_{2} \in[/math]
+ ডোম [math]f[/math]
+ এর জন্য [math]f\left(\mathrm{x}_{1}\right)=f\left(\mathrm{x}_{2}\right)[/math]
+ হলে [math]x_{1}=x_{2}[/math]
+ হয়।ধরি, [math]f\left(\mathrm{x}_{1}\right)=f\left(\mathrm{x}_{2}\right)[/math]
+ [math]\Rightarrow \sqrt{2 x_{1}-3}=\sqrt{2 x_{2}-3}[/math]
+ [math]\Rightarrow 2 x_{1}-3=2 x_{2}-3[/math]
+ [বর্গ করে][math]\Rightarrow 2 x_{1}=2 x_{2}[/math]
+ [math]\therefore x_{1}=x_{2}[/math]
+ [math]\therefore[/math]
+ [math]f[/math]
+ ফাংশনটি এক-এক। (দেখানো হলো) [math]\\[/math]
+ গধরি, [math]f^{-1}(x)=a[/math]
+ [math]\begin{array}{l}\Rightarrow \mathrm{x}=f(\mathrm{a})\\\Rightarrow x=\sqrt{2 a-3}\\\Rightarrow x^{2}=2 a-3\\\Rightarrow 2 \mathrm{a}=\mathrm{x}^{2}+3\\\Rightarrow a=\frac{x^{2}+3}{2}\end{array}[/math]
+ [math]\therefore \quad \mathrm{f}^{-1}(\mathrm{x})=\frac{\mathrm{x}^{2}+3}{2}[/math]
+এখন, x = 0 এর জন্য [math]f^{-1}(x)[/math]
+ এর মান সর্বনিম্ন হয়।[math]\therefore f^{-1}(x)[/math]
+ এর সর্বনিম্ন মান [math]=\frac{0^{2}+3}{2}=\frac{3}{2}[/math]
+ [math]\therefore f^{-1}(x)[/math]
+ এর রেঞ্জ [math]=\left\{x \in R: x \geq \frac{3}{2}\right\} \text { (Ans.) }[/math]
+বিকল্পঃ [math]f^{-1}(x)[/math]
+ এর রেঞ্জ [math]=\mathrm{f}(\mathrm{x})[/math]
+ এর ডোমেন"খ" হতে [math]f(x)[/math]
+ এর ডোমেন [math]=\left\{x \in R: x \geq \frac{3}{2}\right\}[/math]
+ [math]\therefore \mathrm{f}^{-1}(\mathrm{x})[/math]
+ এর রেঞ্জ [math]=\left\{x \in R: x \geq \frac{3}{2}\right\} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 704175)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]f \mathrm{(x)=\frac{4 x+3}{2 x+5}}[/math]
+
+Options:
+ক. [math]f(\mathrm{x})[/math] এর ডোমেন নির্ণয় কর।
+খ. দেখাও যে, [math]f(\mathrm{x})[/math] এক-এক ফাংশন।
+গ. [math]f^{-1}(-2)=\mathrm{p} . f^{-1}(-3)[/math] হলে, [math]\mathrm {p}[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=\frac{4 x+3}{2 x+5}[/math]
+ [math]f(x)[/math]
+ সংজ্ঞায়িত হবে যদি ও কেবল যদি [math]2 x+5 
+eq 0[/math]
+বা, [math]x 
+eq \frac{-5}{2}[/math]
+ হয়।[math]\therefore[/math]
+ ডোমেন [math]=\mathbb{R}-\left\{-\frac{5}{2}\right\} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খযেকোনো [math]x_{1}, x_{2} \in[/math]
+ ডোম [math]f[/math]
+ এর জন্য [math]f(x)[/math]
+ এক-এক হবে যদি ও কেবল যদি [math]f\left(x_{1}\right)=f\left(x_{2}\right)[/math]
+ হলে [math]x_{1}=x_{2}[/math]
+ হয়।ধরি, [math]f\left(x_{1}\right)=f\left(x_{2}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{4 x_{1}+3}{2 x_{1}+5}=\frac{4 x_{2}+3}{2 x_{2}+5} \\\Rightarrow 8 x_{1} x_{2}+6 x_{2}+20 x_{1}+15=8 x_{1} x_{2}+6 x_{1}+20 x_{2}+15 \\\Rightarrow 20 x_{1}-6 x_{1}=20 x_{2}-6 x_{2} \\\Rightarrow 14 x_{1}=14 x_{2} \therefore x_{1}=x_{2}\end{array}[/math]
+ [math]\therefore f[/math]
+ ফাংশনটি এক-এক। (দেখানো হলো) [math]\\[/math]
+ গধরি, [math]f^{-1}(x)=a[/math]
+ [math]\begin{array}{l}\Rightarrow x=f(a) \Rightarrow x=\frac{4 a+3}{2 a+5}\\\Rightarrow 2 \mathrm{ax}+5 \mathrm{x}=4 \mathrm{a}+3\\\Rightarrow 2 a x-4 a=3-5 x\\\Rightarrow a(2 x-4)=3-5 x \text{.}\\\Rightarrow a=\frac{3-5 x}{2 x-4}\end{array}[/math]
+ [math]\therefore f^{-1}(x)=\frac{3-5 x}{2 x-4}[/math]
+প্রশ্নমতে, [math]f^{-1}(-2)=p f^{-1}(-3)[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{3-5 \cdot(-2)}{2 \cdot(-2)-4}=p\left\{\frac{3-5 \cdot(-3)}{2 \cdot(-3)-4}\right\} \\\Rightarrow \frac{3+10}{-4-4}=p\left(\frac{3+15}{-6-4}\right) \\\Rightarrow \frac{13}{-8}=p\left(\frac{18}{-10}\right) \\\Rightarrow p=\frac{13 \times 10}{18 \times 8} \\\therefore p=\frac{65}{72} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 704176)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\text {E}=\{x: x \in \mathbb{R}[/math] এবং [math]x^{2}-(a+b) x+a b=0, a, b \in \mathbb{R}[/math] [math]\}[/math],
+
+[math]\text {F}=\{3,4\}[/math] এবং [math]\mathrm{G}=\{4,5,6\}[/math]
+
+Options:
+ক. [math]\text {E}[/math] সেটের উপাদানসমূহ নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm {P(F \cap G)=P(F) \cap P(G)}[/math].
+গ. দেখাও যে, [math]\mathrm {E \times(F \cup G)=(E \times F) \cup(E \times G)}[/math].
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]E=\{x: x \in \mathbb{R}[/math]
+ এবং [math]\left.x^{2}-(a+b) x+a b=0\right\}[/math]
+ [math]=\{x: x \in \mathbb{R}[/math]
+ এবং [math]\left.x^{2}-a x-b x+a b=0\right\}[/math]
+ [math]=\{x: x \in \mathbb{R}[/math]
+ এবং [math]x(x-a)-b(x-a)=0\}[/math]
+ [math]=\{x: x \in \mathbb{R}[/math]
+ এবং [math](x-a)(x-b)=0\}[/math]
+ [math]=\{x: x \in \mathbb{R}[/math]
+ এবং [math]x=a, b\}[/math]
+ [math]=\{a, b\}[/math]
+ [math]\therefore[/math]
+ E সেটের উপাদানসমূহ a এবং b [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]F=\{3,4\}[/math]
+ এবং [math]G=\{4,5,6\}[/math]
+এখানে, [math]F \cap G=\{3,4\} \cap\{4,5,6\}=\{4\}[/math]
+এখন, [math]P(F)=\{\{3,4\},\{3\},\{4\}, \varnothing\}[/math]
+এবং [math]P(G)=\{\{4,5,6\},\{4,5\},\{4,6\},\{5,6\},\{4\},\{5\},\{6\}, \varnothing\}[/math]
+বামপক্ষ [math]=P(F \cap G)=\{\{4\}, \varnothing\}[/math]
+এবং ডানপক্ষ [math]=P(F) \cap P(G)[/math]
+ [math]\begin{array}{r}=\{\{3,4\},\{3\},\{4\}, \varnothing\} \cap\{\{4,5,6\},\{4,5\},\{4,6\}, \\\{5,6\},\{4\},\{5\},\{6\}, \varnothing\}\end{array}[/math]
+ [math]=\{\{4\}, \varnothing\}[/math]
+ [math]\therefore P(F \cap G)=P(F) \cap P(G)[/math]
+ (প্রমাণিত) [math]\\[/math]
+ গদেওয়া আছে, F =‍ {3, 4} এবং G = {4, 5, 6}'ক' থেকে পাই, E = {a, b}এখানে, [math]F \cup G=\{3,4\} \cup\{4,5,6\}=\{3,4,5,6\}[/math]
+ [math]\begin{aligned}E \times F & =\{a, b\} \times\{3,4\} \\& =\{(a, 3),(a, 4),(b, 3),(b, 4)\}\end{aligned}[/math]
+এবং [math]E \times G=\{a, b\} \times\{4,5,6\}[/math]
+ [math]=\{(\mathrm{a}, 4),(\mathrm{a}, 5),(\mathrm{a}, 6),(\mathrm{b}, 4),(\mathrm{b}, 5),(\mathrm{b}, 6)\}[/math]
+এখন, বামপক্ষ [math]=\mathrm{E} \times(\mathrm{F} \cup \mathrm{G})[/math]
+ [math]\begin{array}{l}=\{a, b\} \times\{3,4,5,6\} \\=\{(\mathrm{a}, 3),(a, 4),(a, 5),(a, 6),(\mathrm{b}, 3),(\mathrm{b}, 4),(\mathrm{b}, 5),(\mathrm{b}, 6)\}\end{array}[/math]
+এবং ডানপক্ষ [math]=(E \times F) \cup(E \times G)[/math]
+ [math]=\{(\mathrm{a}, 3),(\mathrm{a}, 4),(\mathrm{b}, 3),(\mathrm{b}, 4)\} \cup\{(\mathrm{a}, 4),(\mathrm{a}, 5),(\mathrm{a}, 6),(b, 4),(b, 5),(b, 6)\}[/math]
+ [math]=\{(\mathrm{a}, 3),(\mathrm{a}, 4),(\mathrm{a}, 5),(\mathrm{a}, 6),(\mathrm{b}, 3),(\mathrm{b}, 4),(\mathrm{b}, 5),(\mathrm{b}, 6)\}[/math]
+ [math]\therefore E \times(F \cup G)=(E \times F) \cup(E \times G)[/math]
+ (দেখানো হলো)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 704170)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]f(\mathbf{x})=\frac{2}{x-3}[/math]
+
+Options:
+ক. [math]f(\mathbf{x})[/math] এর ডোমেন নির্ণয় কর।
+খ. [math]f^{-1}(5)[/math] নির্ণয় কর।
+গ. প্রদত্ত ফাংশনের লেখচিত্র অঙ্কন কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=\frac{2}{x-3}[/math]
+f(x) সংজ্ঞায়িত হবে যদি ও কেবল যদি, [math]x-3 
+eq 0[/math]
+ বা, [math]x 
+eq 3[/math]
+ হয়।[math]\therefore[/math]
+ ডোমেন [math]=\mathbb{R}-\{3\} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, [math]f^{-1}(x)=a[/math]
+ [math]\therefore \mathrm{x}=f(\mathrm{a})[/math]
+ [math]\begin{array}{l}\Rightarrow x=\frac{2}{a-3} \Rightarrow x(a-3)=2\\\Rightarrow a x-3 x=2 \Rightarrow a x=3 x+2\\\Rightarrow a=\frac{3 x+2}{x}\end{array}[/math]
+ [math]\begin{array}{l}\therefore f^{-1}(x)=\frac{3 x+2}{x} \\\therefore f^{-1}(5)=\frac{3.5+2}{5}=\frac{17}{5} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ গধরি, [math]y=f(x)=\frac{2}{x-3}[/math]
+এখন, x এর কয়েকটি মানের জন্য y এর মান নির্ণয় করি:
+[Image]
+ছক কাগজে XOX' বরাবর X-অক্ষ এবং YOY' বরাবর Y- অক্ষ এবং উভয় অক্ষ বরাবর ক্ষুদ্রতম বর্গের প্রতি 3 ঘরকে একক ধরি ছকে প্রাপ্ত বিন্দুগুলো [math](-2,-0.4),(0,-0.67),(2,-2),(4,2),[/math]
+ [math](5,1)[/math]
+ ও [math](7,0.5)[/math]
+ স্থাপন করে যোগ করি। তাহলেই প্রদত্ত ফাংশনের লেখচিত্র পাওয়া যায়।
+[Image]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 704171)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=\frac{2 x+3}{x-3} ; x 
+eq 3[/math] একটি ফাংশন।
+
+Options:
+ক. [math]f(\mathrm{a}-1)[/math] এর মান বের কর।
+খ. প্রদত্ত ফাংশনটির বিপরীত ফাংশন বের কর।
+গ. দেখাও যে, [math]f[/math] এক-এক এবং অনটু।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,[math]f(x)=\frac{2 x+3}{x-3}[/math]
+ [math]\therefore f(a-1)=\frac{2(a-1)+3}{(a-1)-3}=\frac{2 a-2+3}{a-1-3}=\frac{2 a+1}{a-4} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, [math]y=f(x)=\frac{2 x+3}{x-3}[/math]
+ [math]\begin{array}{l}\Rightarrow x y-3 y=2 x+3\\\Rightarrow x y-2 x=3 y+3\\\Rightarrow x(y-2)=3 y+3\\\Rightarrow \quad x=\frac{3 y+3}{y-2}\end{array}[/math]
+ [math]\begin{array}{l}\Rightarrow f^{-1}(y)=\frac{3 y+3}{y-2} \quad\left[\because y=f(x) \therefore x=f^{-1}(y)\right] \\\therefore \quad f^{-1}(x)=\frac{3 x+3}{x-2} ; x 
+eq 2 \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ গf(x) এক-এক হবে যদি ও কেবল যদি যেকোনো ডোম [math]\mathrm{x}_{1}, \mathrm{x}_{2} \in[/math]
+ ডোম [math]f[/math]
+ এর জন্য [math]f\left(x_{1}\right)=f\left(x_{2}\right)[/math]
+ হলে [math]x_{1}=x_{2}[/math]
+ হয়।ধরি, [math]f\left(\mathrm{x}_{1}\right)=f\left(\mathrm{x}_{2}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{2 x_{1}+3}{x_{1}-3}=\frac{2 x_{2}+3}{x_{2}-3} \\\Rightarrow 2 x_{1} x_{2}+3 x_{2}-6 x_{1}-9=2 x_{1} x_{2}-6 x_{2}+3 x_{1}-9 \\\Rightarrow -6 x_{1}-3 x_{1}=-6 x_{2}-3 x_{2} \\\Rightarrow -9 x_{1}=-9 x_{2}\end{array}[/math]
+ [math]\therefore \mathrm{x}_{1}=\mathrm{x}_{2}[/math]
+ [math]\therefore[/math]
+ [math]f[/math]
+ ফাংশনটি এক-এক।'খ' হতে পাই, [math]x=\frac{3 y+3}{y-2} \in \mathbb{R}[/math]
+ হবে যদি ও কেবল যদি [math]y-2 
+eq 0[/math]
+বা, [math]y 
+eq 2[/math]
+ হয়।[math]\therefore f(\mathrm{x})[/math]
+ এর রেঞ্জ [math]=\mathbb{R}-\{2\}=[/math]
+ কোডোমেন[math]\therefore f(\mathrm{x})[/math]
+ ফাংশনটি অনটু।অতএব, [math]f[/math]
+ এক-এক এবং অনটু ফাংশন। (দেখানো হলো)[বি.দ্র. [math]f: \mathbb{R}-\{3\} \rightarrow \mathbb{R}-\{2\}[/math]
+ শর্ত বিবেচনা করে [math]f(x)[/math]
+ ফাংশনটি অনটু দেখানো হয়েছে এবং [math]f^{-1}(x)[/math]
+ নির্ণয় করা হয়েছে।]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 704153)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\text{ (i) }f:\mathbb{R}-\left\{\frac{1}{5}\right\}\rightarrow\mathbb{R},f(x)=\frac{1+x}{1-5x^.}[/math] [math]\text { (ii) } A=x(x+1) \text {. }[/math]
+
+Options:
+ক. [math]\{3,5,7\}[/math] এবং [math]\{1,2,3,4\}[/math] সেটদ্বয় সমতুল কি-না নির্ণয় কর।
+খ. দেখাও যে, [math]\text{f}[/math] দ্বারা বর্ণিত ফাংশনটি এক-এক হলেও অনটু নয়।
+গ. [math]\frac{3 x^{2}+x+2}{A}[/math] কে আংশিক ভগ্নাংশে রুপান্তর কর।
+
+
+Correct Answer: 
+
+Solution:
+কধরি, [math]A=\{3,5,7\}, B=\{1,2,3,4\}[/math]
+
+[Image]
+A ও B সেট এর মধ্যে এক-এক মিল নেই, তাই A ও B সমতুল নয় ৷[math]\\[/math]
+ খদেওয়া আছে, [math]f: \mathbb{R}-\left\{\frac{1}{5}\right\} \rightarrow \mathbb{R}, f(x)=\frac{1+x}{1-5 x}[/math]
+ফাংশনটি' এক-এক হবে, যদি ও কেবল যদি [math]f\left(x_{1}\right)=f\left(x_{2}\right)[/math]
+ হলে [math]x_{1}=x_{2}[/math]
+ হয় যেখানে [math]x_{1}, x_{2} \in[/math]
+ ডোম f।ধরি, [math]f\left(x_{1}\right)=f\left(x_{2}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{1+x_{1}}{1-5 x_{1}}=\frac{1+x_{2}}{1-5 x_{2}}[/math]
+ [math]\begin{array}{l}\Rightarrow 1-5 x_{2}+x_{1}-5 x_{1} x_{2}=1+x_{2}-5 x_{1}-5 x_{1} x_{2}\\\Rightarrow 6 \mathrm{x}_{1}=6 \mathrm{x}_{2}\end{array}[/math]
+ [math]\therefore \quad x_{1}=x_{2}[/math]
+ফাংশনটি এক-এক।আবার ধরি, [math]y=f(x)=\frac{1+x}{1-5 x}[/math]
+ [math]\begin{array}{l}\Rightarrow y=\frac{1+x}{1-5 x}\\\Rightarrow y-5 x y=1+x\\\Rightarrow y-1=x(1+5 y)\end{array}[/math]
+ [math]\therefore \quad x=\frac{y-1}{1+5 y} \in \mathbb{R}[/math]
+ হবে যদি ও কেবল যদি[math]1+5 y 
+eq 0[/math]
+ বা [math]y 
+eq \frac{-1}{5}[/math]
+ হয়।[math]\therefore[/math]
+ রেঞ্জ [math]f=\mathbb{R}-\left\{-\frac{1}{5}\right\} 
+eq[/math]
+ কোডোমেন।[math]\therefore[/math]
+ ফাংশনটি অনটু নয়।সুতরাং, ফাংশনটি এক-এক কিন্তু অনটু নয়। (দেখানো হলো)[math]\\[/math]
+ গ [math]\begin{array}{l}A=x(x+1) \\\therefore \frac{3 x^{2}+x+2}{A}=\frac{3 x^{2}+x+2}{x(x+1)}\end{array}[/math]
+ [math]\begin{array}{l}=\frac{3\left(x^{2}+x\right)-2 x+2}{x^{2}+x} \\=\frac{3\left(x^{2}+x\right)}{x^{2}+x}+\frac{-2 x+2}{x^{2}+x} \\=3+\frac{-2(x-1)}{x(x+1)} \\=3-2 \frac{x-1}{x(x+1)} \ldots \text { (i) }\end{array}[/math]
+ধরি, [math]\frac{x-1}{x(x+1)}=\frac{A}{x}+\frac{B}{x+1} \ldots \text { (ii) }[/math]
+ [math]\Rightarrow \mathrm{x}-1=\mathrm{A}(\mathrm{x}+1)+\mathrm{Bx}[/math]
+ [math]x=0[/math]
+ হলে - [math]1=A[/math]
+ [math]\therefore A=-1[/math]
+ [math]\therefore \quad A=-1[/math]
+ [math]x=-1[/math]
+ হলে, [math]-2=A .0-B[/math]
+ [math]\therefore B=2[/math]
+(ii) হতে পাই, [math]\frac{x-1}{x(x+1)}=\frac{-1}{x}+\frac{2}{x+1}[/math]
+(i) হতে পাই,[math]\begin{aligned}\frac{3 x^{2}+x+2}{A} & =3-2\left[-\frac{1}{x}+\frac{2}{x+1}\right] \\& =3+\frac{2}{x}-\frac{4}{x+1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় আংশিক ভগ্নাংশ [math]=3+\frac{2}{x}-\frac{4}{x+1} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 704154)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+দেওয়া আছে, [math]\mathrm{F(x)=\frac{2 x-3}{3 x+2} }[/math] এবং [math]\mathrm {A=\frac{2 x}{x^{4}-1}}.[/math]
+
+Options:
+ক. [math]text {F}[/math] ফাংশনের ডোমেন নির্ণয় কর।
+খ. [math]\mathrm{F^{-1}(-3)}[/math] নির্ণয় কর।
+গ. [math]\text {A}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]F(x)=\frac{2 x-3}{3 x+2}[/math]
+F(x) সংজ্ঞায়িত হবে যদি ও কেবল যদি [math]3 x+2 
+eq 0[/math]
+ হয়।[math]\Rightarrow x 
+eq-\frac{2}{3}[/math]
+ হয়।[math]\therefore[/math]
+ ডোমেন [math]=\mathbb{R}-\left\{-\frac{2}{3}\right\} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, [math]F^{-1}(x)=a[/math]
+ [math]\begin{array}{l}\Rightarrow x=F(a)\\\Rightarrow x=\frac{2 a-3}{3 a+2}\\\Rightarrow 3 a x+2 x=2 a-3\\\Rightarrow 2 a-3 a x=2 x+3\\\Rightarrow a(2-3 x)=2 x+3\\\Rightarrow a=\frac{2 x+3}{2-3 x}\end{array}[/math]
+ [math]\therefore \quad F^{-1}(x)=\frac{2 x+3}{2-3 x}[/math]
+ [math]\quad[/math]
+ [যেহেতু [math]F^{-1}(x)=a[/math]
+][math]\begin{aligned}\therefore \quad F^{-1}(-3) & =\frac{2(-3)+3}{2-3(-3)} \\& =\frac{-6+3}{2+9} \\& =\frac{-3}{11} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\frac{2 x}{x^{4}-1}[/math]
+ [math]\begin{array}{l}=\frac{2 x}{\left(x^{2}-1\right)\left(x^{2}+1\right)} \\=\frac{2 x}{(x+1)(x-1)\left(x^{2}+1\right)}\end{array}[/math]
+ধরি, [math]\frac{2 x}{(x+1)(x-1)\left(x^{2}+1\right)} \equiv \frac{A}{x+1}+\frac{B}{x-1}+\frac{C x+D}{x^{2}+1}.........\text { (i) }[/math]
+(i) এর উভয়পক্ষকে [math](x+1)(x-1)\left(x^{2}+1\right)[/math]
+ দ্বারা গুণ করে পাই,[math]2 x \equiv A(x-1)\left(x^{2}+1\right)+B(x+1)\left(x^{2}+1\right)+(C x+D) (x+1)(x-1) \ldots \ldots \ldots \text { (ii) }[/math]
+(ii) নং এ [math]x = − 1[/math]
+ বসিয়ে পাই,[math]2(-1)=A(-1-1)(1+1)[/math]
+ [math]\Rightarrow -2=-4 A[/math]
+ [math]\therefore \quad \mathrm{A}=\frac{1}{2}[/math]
+(ii) নং এ, x = 1 বসিয়ে পাই,[math]2 \cdot 1=\text { B. } 2 .(1+1)[/math]
+ [math]\Rightarrow 2=4 B[/math]
+ [math]\therefore \quad B=\frac{1}{2}[/math]
+(ii) নং এর উভয়পক্ষে [math]x^{3}[/math]
+ ও [math]x^{2}[/math]
+ এর সহগ সমীকৃত করে পাই,[math]A+B+C=0[/math]
+ [math]\Rightarrow \frac{1}{2}+\frac{1}{2}+\mathrm{C}=0[/math]
+ [math]\therefore \quad C=-1[/math]
+এবং [math]-A+B+D=0[/math]
+ [math]\Rightarrow -\frac{1}{2}+\frac{1}{2}+D=0[/math]
+ [math]\therefore \quad D=0[/math]
+(i) নং এ A, B, C ও D এর মান বসিয়ে পাই,[math]\begin{aligned}\frac{2 x}{(x+1)(x-1)\left(x^{2}+1\right)} & =\frac{\frac{1}{2}}{(x+1)}+\frac{\frac{1}{2}}{(x-1)}+\frac{-1 \cdot x+0}{x^{2}+1} \\& =\frac{1}{2(x+1)}+\frac{1}{2(x-1)}-\frac{x}{x^{2}+1}\end{aligned}[/math]
+ইহাই নির্ণেয় আংশিক ভগ্নাংশ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 704155)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{f(x)=\frac{5 x-7}{x+4}}[/math] এবং [math]\mathrm{S=(7 x-3)^{-1}+(7 x-3)^{-2}+(7 x-3)^{-3}+\ldots}[/math]
+
+Options:
+ক. সার্বিক সেট [math]\mathrm{U}[/math] এর যেকোনো উপসেট [math]\mathrm{A}[/math] ও [math]\mathrm{B}[/math] এর জন্য দেখাও যে, [math]\mathrm{A} \backslash \mathbf{B}=\mathrm{B}^{\prime} \backslash \mathbf{A}^{\prime}.[/math]
+খ. [math]\mathrm{f^{-1}(p)=2 f^{-1}(-2)}[/math] হলে [math]\mathrm{p}[/math] এর মান নির্ণয় কর।
+গ. [math]\mathrm{x}[/math] এর উপর কী শর্ত আরোপ করলে [math]\mathrm{S}[/math] এর অসীমতক সমষ্টি থাকবে তা নির্ণয় করে ধারাটির অসীমতক সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কধরি, [math]X \in A \backslash B[/math]
+তাহলে, [math]x \in A[/math]
+ এবং [math]\mathrm{x} 
+otin \mathrm{B}[/math]
+ [math]\Rightarrow \quad x 
+otin A^{\prime}[/math]
+ এবং [math]x \in \mathrm{B}^{\prime}[/math]
+ [math]\Rightarrow x \in B^{\prime}[/math]
+ এবং [math]x 
+otin A^{\prime}[/math]
+ [math]\Rightarrow x \in \mathrm{B}^{\prime} \backslash \mathrm{A}^{\prime}[/math]
+ [math]\therefore \quad A \backslash B \subseteq B^{\prime} \backslash A^{\prime}[/math]
+আবার, ধরি, [math]\mathrm{x} \in \mathrm{B}^{\prime} \backslash A^{\prime}[/math]
+ [math]\Rightarrow x \in B^{\prime}[/math]
+ এবং [math]x 
+otin A^{\prime}[/math]
+ [math]\Rightarrow x 
+otin B[/math]
+ এবং [math]x \in A[/math]
+ [math]\Rightarrow x \in A[/math]
+ এবং [math]x 
+otin B[/math]
+ [math]\Rightarrow x \in A \backslash B[/math]
+ [math]\therefore \quad B^{\prime} \backslash A^{\prime} \subseteq A \backslash B[/math]
+ [math]\therefore \quad A \backslash B=B^{\prime} \backslash A^{\prime}[/math]
+ (দেখানো হলো) [math]\\[/math]
+ খদেওয়া আছে, [math]f(x)=\frac{5 x-7}{x+4}[/math]
+ধরি, [math]f(x)=y[/math]
+ [math]\therefore \quad \frac{5 x-7}{x+4}=y[/math]
+ [math]\begin{array}{l}\Rightarrow 5 x-7=x y+4 y\\\Rightarrow 5 x-x y=4 y+7\\\Rightarrow x(5-y)=4 y+7\\\Rightarrow x=\frac{4 y+7}{5-y}\end{array}[/math]
+ [math]\Rightarrow f^{-1}(y)=\frac{4 y+7}{5-y}[/math]
+ [math]\left[\because f(x)=y \quad \therefore x=f^{-1}(y)\right][/math]
+এখন, [math]f^{-1}(p)=2 f^{-1}(-2)[/math]
+ [math]\Rightarrow \frac{4 p+7}{5-p}=2 \cdot \frac{4(-2)+7}{5+2}[/math]
+ [math]\Rightarrow \frac{4 p+7}{5-p}=\frac{-8+7}{7} \cdot 2[/math]
+ [math]\Rightarrow 28 p+49=-10+2 p[/math]
+ [math]\begin{array}{l}\Rightarrow 28 p-2 p=-10-49\\\Rightarrow 26 p=-59\end{array}[/math]
+ [math]\therefore p=\frac{-59}{26} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ [math]\begin{aligned}S & =(7 x-3)^{-1}+(7 x-3)^{-2}+(7 x-3)^{-3}+\ldots . \\& =\frac{1}{7 x-3}+\frac{1}{(7 x-3)^{2}}+\frac{1}{(7 x-3)^{3}}+\ldots .\end{aligned}[/math]
+এখানে, প্রথম পদ [math]a=\frac{1}{7 x-3}[/math]
+সাধারন অনুপাত, [math]r=\frac{1}{(7 x-3)^{2}}+\frac{1}{(7 x-3)}=\frac{1}{7 x-3}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি [math]|r|1[/math]
+ [ব্যস্তকরণ করে]অর্থাৎ [math]7 x-3>1[/math]
+ [math]\Rightarrow 7 x>4 \text {. }[/math]
+ [math]\therefore \quad x>\frac{4}{7}[/math]
+অথবা, [math]-(7 x-3)>1[/math]
+ [math]\begin{array}{l}\Rightarrow 7 x-3\frac{4}{7}[/math]
+ অথবা, [math]x<\frac{2}{7} \text { (Ans.) }[/math]
+এবং অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{7 x-3}}{1-\frac{1}{7 x-3}}[/math]
+ [math]\begin{array}{l}=\frac{\frac{1}{7 x-3}}{\frac{7 x-3-1}{7 x-3}} \\=\frac{1}{7 x-3} \times \frac{7 x-3}{7 x-4} \\=\frac{1}{7 x-4} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 704156)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2018 | Boards:  | Tags: All Board
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{F(x)=\sqrt{1-2 x}}[/math] এবং [math]\mathrm {Q(x)=\frac{x^{2}}{x^{2}-16}}[/math]
+
+Options:
+ক. [math]\mathrm{F(x)}[/math] এর ডোমেন নির্ণয় কর।
+খ. [math]\mathrm{F}^{-1}(\mathrm{x})[/math] এক-এক ফাংশন কিনা নির্ধারণ কর।
+গ. [math]\mathrm {Q(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]F(x)=\sqrt{1-2 x}[/math]
+F(x) ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি,[math]1-2 x \geq 0[/math]
+ [math]\Rightarrow -2 x \geq-1[/math]
+ [math]\Rightarrow 2 x \leq 1[/math]
+ [math]\therefore \quad x \leq \frac{1}{2}[/math]
+ [math]\therefore \quad F(x)=\sqrt{1-2 x}[/math]
+ এর ডোমেন [math]=\left\{x \in \mathbb{R}: x \leq \frac{1}{2}\right\} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, [math]y=F(x)=\sqrt{1-2 x}[/math]
+ [math]\Rightarrow y^{2}=1-2 x[/math]
+ [math]\quad[/math]
+ [বর্গ করে][math]\begin{array}{l}\Rightarrow 2 x=1-y^{2}\\\Rightarrow x=\frac{1-y^{2}}{2}\end{array}[/math]
+ [math]\therefore \quad F^{-1}(y)=\frac{1-y^{2}}{2}\left[\because y=F(x), \therefore F^{-1}(y)=x\right][/math]
+ [math]\therefore \quad F^{-1}(x)=\frac{1-x^{2}}{2}[/math]
+ধরি, [math]x_{1}, x_{2} \in[/math]
+ ডোম [math]F^{-1}(x)[/math]
+ [math]\mathrm{F}^{-1}(\mathrm{x})[/math]
+ ফাংশনটি এক-এক হবে যদি ও কেবল যদি[math]\mathrm{F}\left(\mathrm{x}_{1}\right)=\mathrm{F}\left(\mathrm{x}_{2}\right)[/math]
+ এর জন্য [math]x_{1}=x_{2}[/math]
+ হয়।ধরি, [math]F^{-1}\left(x_{1}\right)=F^{-1}\left(x_{2}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{1-x_{1}^{2}}{2}=\frac{1-x_{2}{ }^{2}}{2}\\\Rightarrow 1-x_{1}^{2}=1-x_{2}^{2}\end{array}[/math]
+ [math]\therefore \quad x_{1}= \pm x_{2}[/math]
+সুতরাং ফাংশনটি এক-এক নয়।[math]\\[/math]
+ গদেওয়া আছে,[math]\begin{aligned}Q(x) & =\frac{x^{2}}{x^{2}-16} \\& =\frac{x^{2}-16+16}{x^{2}-16} \\& =\frac{x^{2}-16}{x^{2}-16}+\frac{16}{x^{2}-16} \\& =1+\frac{16}{(x+4)(x-4)}\end{aligned}[/math]
+ধরি, [math]\frac{16}{(x+4)(x-4)} \equiv \frac{A}{x+4}+\frac{B}{x-4} \ldots \ldots \text { (i) }[/math]
+(i) নং কে (x + 4 ) (x – 4 ) দ্বারা গুণ করে পাই,[math]16 \equiv A(x-4)+B(x+4) \ldots \ldots \text { (ii) }[/math]
+(ii) নং এ [math]x = − 4[/math]
+ বসিয়ে পাই,[math]16=A(4-4)+B(4+4)[/math]
+ [math]\Rightarrow 16=-8 A[/math]
+ [math]\therefore \quad A=-2[/math]
+আবার, (ii) নং এ x = 4 বসিয়ে পাই,[math]16=A(4-4)+B(4+4)[/math]
+ [math]\Rightarrow 16=8 B[/math]
+ [math]\therefore \quad B=2[/math]
+A ও B এর মান (i) নং এ বসিয়ে পাই,[math]\frac{16}{(x+4)(x-4)}=\frac{-2}{x+4}+\frac{2}{x-4}[/math]
+ [math]\therefore \quad Q(x)=\frac{x^{2}}{x^{2}-16}=1-\frac{2}{x+4}+\frac{2}{x-4}[/math]
+ যা আংশিক ভগ্নাংশে প্রকৃত রূপ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 704157)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]f: \mathbb{R} \rightarrow \mathbb{R}[/math] এবং [math]g: \mathbb{R} \rightarrow \mathbb{R}[/math] ফাংশনদ্বয় [math]f(x)=\frac{2 x+2}{x-1}[/math] এবং [math]g(x)=\frac{x-3}{2 x+1}[/math] দ্বারা সংজ্ঞায়িত।
+
+Options:
+ক. [math]f[/math] এর ডোমেন নির্ণয় কর।
+খ. দেখাও যে, [math]\mathbf{g}[/math] ফাংশনটি এক-এক এবং সার্বিক ফাংশন।
+গ. [math]3 f^{-1}(x)=x[/math] হলে [math]x[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=\frac{2 x+2}{x-1}[/math]
+এখন, [math]f(\mathrm{x})[/math]
+ ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি[math]x-1 
+eq 0[/math]
+ বা, [math]x 
+eq 1[/math]
+ হয়।[math]\therefore[/math]
+ ডোমেন [math]=\mathbb{R}-\{1\} \text { (Ans.) }[/math]
+[বিঃদ্রঃ [math]f: \mathbb{R} \rightarrow \mathbb{R}[/math]
+ শর্তে, [math]f(x)=\frac{2 x+2}{x-1}[/math]
+ফাংশনটি সংজ্ঞায়িত নয়। তাই [math]f: \mathbb{R}-\{1\} \rightarrow \mathbb{R}-\{2\}[/math]
+শর্ত বিবেচনা করে [math]f(x)=\frac{2 x+2}{x-1}[/math]
+ ফাংশনটির ডোমেন ও [math]f^{-1}(x)[/math]
+ করা হয়েছে।] [math]\\[/math]
+ খদেওয়া আছে, [math]g(x)=\frac{x-3}{2 x+1}[/math]
+ [math]g(x) \in \mathbb{R}[/math]
+ হবে যদি ও কেবল যদি [math]2 x+1 
+eq 0[/math]
+ বা, [math]x 
+eq-\frac{1}{2}[/math]
+ হয়।[math]\therefore[/math]
+ ডোম [math]g=\mathbb{R}-\left\{-\frac{1}{2}\right\}[/math]
+g(x) এক-এক হবে যদি ও কেবল যদি যেকোনো [math]a, b \in[/math]
+ ডোম g এর জন্য [math]g(a)=g(b)[/math]
+ হলে [math]a=b[/math]
+ হয়।ধরি, [math]\mathrm{g}(\mathrm{a})=\mathrm{g}(\mathrm{b})[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{a-3}{2 a+1}=\frac{b-3}{2 b+1}\\\Rightarrow 2 a b-6 b+a-3=2 a b-6 a+b-3\\\Rightarrow a+6 a=b+6 b\\\Rightarrow \quad 7 a=7 b \quad \therefore a=b\end{array}[/math]
+অতএব, g(x) ফাংশনটি এক-এক। (দেখানো হলো)ধরি,[math]y=g(x)=\frac{x-3}{2 x+1}[/math]
+ [math]\begin{array}{l}\Rightarrow 2 x y+y=x-3\\\Rightarrow y+3=x-2 x y\\\Rightarrow y+3=x(1-2 y)\end{array}[/math]
+ [math]\therefore \quad x=\frac{y+3}{1-2 y} \in \mathbb{R}[/math]
+ হবে যদি ও কেবল যদি [math]1-2 y 
+eq 0[/math]
+বা, [math]y 
+eq \frac{1}{2}[/math]
+ হয়।[math]\therefore \mathrm{g}(\mathrm{x})[/math]
+ এর রেঞ্জ [math]=\mathbb{R}-\left\{\frac{1}{2}\right\}=[/math]
+ কোডোমেন[math]\therefore[/math]
+ g(x) ফাংশনটি সার্বিক । (দেখানো হলো)[বিঃদ্রঃ [math]g: \mathbb{R} \rightarrow \mathbb{R}[/math]
+ শর্তে প্রশ্নটি সঠিক নয়।[math]\mathrm{g}: \mathbb{R}-\left\{-\frac{1}{2}\right\} \rightarrow \mathbb{R}-\left\{\frac{1}{2}\right\}[/math]
+ শর্তে [math]g(x)[/math]
+ ফাংশনটি সংজ্ঞায়িত হবে এবং এক-এক ও সার্বিক হবে। তাই এই শর্ত বিবেচনা করে প্রশ্নটির সমাধান দেওয়া হয়েছে।] [math]\\[/math]
+ গদেওয়া আছে,[math]f(x)=\frac{2 x+2}{x-1}[/math]
+ধরি, [math]f^{-1}(x)=0[/math]
+ [math]\begin{array}{l}\Rightarrow x=f(\mathrm{a})\\\Rightarrow x=\frac{2 a+2}{a-1}\\\Rightarrow a x-x=2 a+2\\\Rightarrow a x-2 a=x+2\\\Rightarrow a(x-2)=x+2\\\Rightarrow a=\frac{x+2}{x-2}\end{array}[/math]
+ [math]\therefore f^{-1}(x)=\frac{x+2}{x-2}[/math]
+প্রশ্নমতে, [math]3 f^{-1}(x)=x[/math]
+ [math]\begin{array}{l}\Rightarrow 3\left(\frac{x+2}{x-2}\right)=x\\\Rightarrow 3 x+6=x^{2}-2 x\\\Rightarrow x^{2}-5 x-6=0\\\Rightarrow x^{2}-6 x+x-6=0\\\Rightarrow x(x-6)+1(x-6)=0\\\Rightarrow (x-6)(x+1)=0\\\therefore \quad x=-1,6 \text{ (Ans.)}\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 704132)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\text {B = \{x: x }[/math] পূর্ণসংখ্যা এবং [math]\mathrm {\left.x^{2}<5\right\} }[/math] [math]\mathrm {R=\{(x, y): x \in B, y \in B}[/math] এবং [math]\text {2 x=y+2\} }[/math] [math]\mathrm {F(y)=y^{3}-3 y^{2}+5 y-9}[/math]
+
+Options:
+ক. [math]f \mathrm {(x)=\frac{2 x}{\sqrt{1-3 x}} }[/math] এর ডোমেন নির্ণয় কর।
+খ. [math]\text {R}[/math] অন্বয়টিকে তালিকা পদ্বতিতে প্রকাশ করে অন্বয়টি ফাংশন কিনা নির্ধারণ কর।
+গ. [math]\text {F(y)}[/math] কে [math]\text {(y-s)}[/math] দ্বারা ভাগ করলে যদি একই ভাগশেষ থাকে এবং [math]\text {s} \neq \text {t}[/math] তবে দেখাও যে, [math]\mathrm {s^{2}+t^{2}+s t-3 s-3 t+5=0}[/math]
+
+
+Correct Answer: 
+
+Solution:
+কএখন, f(x) ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি [math]1 – 3x > 0[/math]
+ হয়।অর্থাৎ, [math]1 – 3x – 1 > 0-1[/math]
+ [math]\begin{array}{l}\Rightarrow -3 x>-1\\\Rightarrow 3 \mathrm{x}খদেওয়া আছে, [math]\mathrm{B}=\{\mathrm{x}: \mathrm{x}[/math]
+ পূর্ণসংখ্যা [math]\left.x^{2}গদেওয়া আছে, [math]F(y)=y^{3}-3 y^{2}+5 y-9[/math]
+F(y) কে (y – s) দ্বারা ভাগ করলে ভাগশেষ হবে F(s)[math]\therefore \quad F(s)=s^{3}-3 s^{2}+5 s-9[/math]
+আবার, F(y) কে (y – t) দ্বারা ভাগ করা হলে ভাগশেষ হবে F(t)[math]\therefore \quad F(t)=t^{3}-3 t^{2}+5 t-9[/math]
+প্রশ্নানুসারে, [math]F(s)=F(t)[/math]
+ [math]\therefore \quad s^{3}-3 s^{2}+5 s-9=t^{3}-3 t^{2}+5 t-9[/math]
+ [math]\begin{array}{l}\Rightarrow s^{3}-t^{3}-3\left(s^{2}-t^{2}\right)+5(s-t)-9+9=0 \\\Rightarrow (s-t)\left(s^{2}+s t+t^{2}\right)-3(s+t)(s-t)+5(s-t)=0\end{array}[/math]
+ [math]\therefore \quad(s-t)\left(s^{2}+s t+t^{2}-3 s-3 t+5\right)=0[/math]
+যেহেতু [math]\mathrm{s} 
+eq \mathrm{t}[/math]
+ সেহেতু [math]s-t 
+eq 0[/math]
+ [math]\therefore \quad s^{2}+t^{2}+s t-3 s-3 t+5=0[/math]
+ (দেখানো হলো)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 704078)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+১০ম শ্রেণির 100 জন শিক্ষার্থীর মধ্যে চালানো একটি জরিপে দেখা গেল যে, 57 জন গোলাপ, 49 জন, বেলি ও 37 জন শিক্ষার্থী হাসনাহেনা ফুল পছন্দ করে। তাদের মধ্যে 27 জন গোলাপ ও বেলি, 23 জন বেলি ও হাসনাহেনা এবং 29 জন হাসনাহেনা ও গোলাপ ফুল পছন্দ করে। 17 জন শিক্ষার্থী তিনটি ফুলই পছন্দ করে।
+
+Options:
+ক. সংক্ষিপ্ত বিবরণসহ তথ্যসমূহকে ভেনচিত্রে দেখাও।
+খ. কতজন শিক্ষার্থী ফুল তিনটির কোনটিই পছন্দ করে না? নির্ণয় কর।
+গ. কতজন শিক্ষার্থী ফুল তিনটির কেবল একটি ফুল পছন্দ করে-নির্ণয় কর
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+মনে করি,সকল শিক্ষার্থীর সেট Sগোলাপ পছন্দকারী শিক্ষার্থীর সেট Gবেলি পছন্দকারী শিক্ষার্থীর সেট Bহাসনাহেনা পছন্দকারী শিক্ষার্থীর সেট H [math]\\[/math]
+ খপ্রশ্নমতে,[math]\begin{array}{l}\mathrm{n}(\mathrm{S})=100 \\\mathrm{n}(\mathrm{G})=57 \\\mathrm{n}(\mathrm{B})=49 \\\mathrm{n}(\mathrm{H})=37 \\\mathrm{n}(\mathrm{G} \cap \mathrm{B})=27 \\\mathrm{n}(\mathrm{B} \cap \mathrm{H})=23 \\\mathrm{n}(\mathrm{H} \cap \mathrm{G})=29 \\\mathrm{n}(\mathrm{G} \cap \mathrm{B} \cap \mathrm{H})=17\end{array}[/math]
+আমরা জানি,[math]\begin{aligned}n(G \cup B \cup H)= & n(G)+n(B)+n(H)-n(G \cap B) \\& -n(B \cap H)-n(H \cap G)+n(G \cap B \cap H) \\=57+49+37- & 27-23-29+17=81\end{aligned}[/math]
+ [math]\therefore[/math]
+ কোনো ফুলই পছন্দ করেনা [math]=n(S)-n(G \cup B \cup H)[/math]
+ [math]=100-81=19[/math]
+ জন [math]\text { (Ans.) }[/math]
+বিকল্প: ‘ক’ এর ভেনচিত্র হতে পাই, অন্তত একটি ফুল পছন্দ করে এমন শিক্ষার্থীর সংখ্যা[math]=18+10+16+12+17+6+2=81[/math]
+ [math]\therefore[/math]
+ কোন ফুল পছন্দ করে না এমন শিক্ষার্থীর সংখ্যা[math]=100-81=19 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ'ক' এর ভেনচিত্র হতে পাই,কেবল গোলাপ পছন্দ করে = 18 জনকেবল বেলি পছন্দ করে = 16 জনকেবল হাসনাহেনা পছন্দ করে = 2 জন।[math]\therefore[/math]
+ কেবল একটি ফুল পছন্দ করে [math]=18+16+2=36[/math]
+ জন [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 703995)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}=\{\mathrm{x}: \mathrm{x} \in \mathbb{Z}[/math] এবং [math]\left.x^{2} \leq 4\right\}[/math] [math]\mathbf{B}=\{x \in \mathbb{N}: \mathbf{x}[/math] বিজোড় সংখ্যা এবং [math]\text {x}<5\}[/math] [math]\mathrm {C}=\{3,5\}[/math]
+
+Options:
+ক. [math]\mathbf{C}[/math] সেটটিকে সেট গঠন পদ্বতিতে প্রকাশ কর।
+খ. দেখাও যে, [math]P(B) \cup P(C) \subset P(B \cup C).[/math]
+গ. [math]\mathrm {S=\{(x, y): x \in A, y \in A}[/math] এবং [math]\mathrm {\left.y=\sqrt{4-x^{2}}\right\}}[/math] অন্বয়টিকে তালিকা পদ্বতিতে প্রকাশ করে ডোম [math]\text {S}[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]\mathrm{C}=\{3,5\}[/math]
+ [math]\therefore[/math]
+ সেট গঠন পদ্বতিতে, [math]\mathrm{C}=\{\mathrm{x} \in \mathbb{N}: \mathrm{x}[/math]
+ বিজোড় সংখ্যা এবং [math]1 [math]\\[/math]
+ খদেওয়া আছে,[math]\mathrm{B}=\{\mathrm{x} \in \mathbb{N}: \mathrm{x}[/math]
+ বিজোড় সংখ্যা এবং [math]xগদেওয়া আছে, [math]S=\{(x, y): x \in A, y \in A[/math]
+ এবং [math]\left.y=\sqrt{4-x^{2}}\right\}[/math]
+ [math]A=\{x: x \in \mathbb{Z}\}[/math]
+ এবং [math]\left.x^{2} \leq 4\right\}[/math]
+ [math]x=6[/math]
+ হলে [math]0^{2}=0<4[/math]
+ [math]x= 0[/math]
+ হলে, [math]0^{2}=0<4[/math]
+ [math]x= \pm 1[/math]
+ হলে, [math]( \pm 1)^{2}=1<4[/math]
+ [math]x= \pm 2[/math]
+ হলে, [math]( \pm 2)^{2}=4 \leq 4[/math]
+ [math]x= \pm 3[/math]
+ হলে, [math]( \pm 3)^{2}=9 
+leq 4[/math]
+ [math]\therefore A=\{-2,-1,0,1,2\}[/math]
+এখন, [math]y=\sqrt{4-x^{2}}[/math]
+অতএব, [math]x=0[/math]
+ হলে, [math]y=\sqrt{4-0}=\sqrt{4}=2 \in A \quad \therefore(0,2) \in S[/math]
+ [math]x= \pm 1[/math]
+ হলে, [math]y=\sqrt{4-( \pm 1)^{2}}=\sqrt{4-1}=\sqrt{3} 
+otin A[/math]
+ [math]\therefore(-1, \sqrt{3}) 
+otin S[/math]
+ এবং [math](1, \sqrt{3}) 
+otin S[/math]
+ [math]x= \pm 2[/math]
+ হলে, [math]y=\sqrt{4-( \pm 2)^{2}}=\sqrt{4-4}=0 
+otin A[/math]
+ [math]\therefore(-2,0) \in \mathrm{S}[/math]
+ এবং [math](2,0) \in S[/math]
+ [math]\therefore \mathrm{S}=\{(0,2),(2,0),(-2,0)\}[/math]
+ [math]\therefore[/math]
+ ডোম [math]S=\{-2,0,2\} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 704024)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]f: \mathbb{R}-\{-5\} \rightarrow \mathbb{R}, f(x)=\frac{x-3}{x+5}[/math] এবং [math]P(x)=\frac{2 x+4}{(x-1)\left(x^{2}+2\right)}[/math]
+
+Options:
+ক. [math]g(x)=\frac{1}{\sqrt{5-2 x}}[/math] এর ডোমেন নির্ণয় কর।
+খ. f একটি সার্বিক ফাংশন কিনা যাচাই কর।
+গ. P(x) কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]g(x)=\frac{1}{\sqrt{5-2 x}}[/math]
+g(x) ফাংশনটি যদি ও কেবল যদি [math]5 - 2x > 0[/math]
+ হয়বা, [math]- 2x > - 5[/math]
+বা, [math]2 xখদেওয়া আছে, [math]f(x)=\frac{x-3}{x+5}[/math]
+f(x)' ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি,x+5≠0 বা, x-5 হয়ধরি, [math]y=f(x) \quad \therefore x=f^{-1}(y) \ldots \ldots \ldots \text { (i) }[/math]
+আবার,[math]y=\frac{x-3}{x+5}[/math]
+বা, [math]x y+5 y=x-3[/math]
+বা, [math]x y-x=-5 y-3[/math]
+বা, [math]x(y-1)=-5 y-3[/math]
+বা, [math]x=\frac{-5 y-3}{y-1}[/math]
+বা, [math]f^{-1}(y)=\frac{-5 y-3}{y-1}[/math]
+ [math]\therefore \mathrm{f}^{-1}(\mathrm{x})=\frac{-5 \mathrm{x}-3}{\mathrm{x}-1}[/math]
+ [math]\mathrm{f}^{-1}(\mathrm{x})[/math]
+ সংজ্ঞায়িত হবে যদি ও কেবল যদি [math]x-1≠0[/math]
+ বা, [math]x≠1[/math]
+ হয়∴ ডোম [math]\mathrm{f}^{-1}=[/math]
+ রেঞ্জ [math]F = \mathbb{R} -> \{1\}[/math]
+কিন্তু কোডোমেন [math]F=\mathbb{R}[/math]
+∴ রেঞ্জ ≠ কোডোমেনতাই ফাংশনটি সার্বিক ফাংশন নয়। (যাচাই করা হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]P(x)=\frac{2 x+4}{(x-1)\left(x^{2}+2\right)}[/math]
+ধরি, [math]\frac{2 x+4}{(x-1)\left(x^{2}+2\right)} \equiv \frac{A}{x-1}+\frac{B x+C}{x^{2}+2} \ldots \ldots \ldots[/math]
+বা, [math]2 x+4 \equiv A\left(x^{2}+2\right)+(B x+C)(x-1) \ldots \ldots \ldots \text { (ii) }[/math]
+ [math]\therefore 2 x+4 \equiv(A+B) x^{2}+(C-B) x+2 A-C \ldots \ldots \text { (iii) }[/math]
+(ii) নং এ x = 1[math]2+4=\mathrm{A}(1+2)+0[/math]
+বা, [math]6=3 \mathrm{~A} \quad[/math]
+ [math]\therefore \mathrm{~A}=2[/math]
+(iii) নং হতে, x², x ও ধ্রুবক পদের সহগ সমীকৃত করে পাই,[math]A + B = 0[/math]
+ বা, [math]B=-A \therefore B=-2[/math]
+আবার, [math]C - B = 2[/math]
+ বা, [math]C+2=2[/math]
+ ∴ [math]C=0[/math]
+A, B ও C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{2 x+4}{(x-1)\left(x^{2}+4\right)} \equiv \frac{2}{x-1}+\frac{-2x+0}{x^{2}+4}[/math]
+ [math]= \frac{2}{x - 1} + \frac{-2x}{x^2 + 2}[/math]
+এটিই নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 704026)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\text{(i) } f(x)=\sqrt{2-5 x}[/math] [math]\text{(ii) } g(x)=x^{3}-x^{2}-2 x[/math]
+
+Options:
+ক. F(x) এর ডোমেন নির্ণয় কর।
+খ. [math]f ^ {- 1} (x)[/math] নির্ণয় করে [math]F ^ {- 1} (2)[/math] এর মান নির্ণয় কর।
+গ. [math]\frac{5}{g(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=\sqrt{2-5 x}[/math]
+f(x) ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি[math]2-5 x \geq 0[/math]
+ বা, [math]x \leq \frac{2}{5}[/math]
+ হয়∴ ডোমেন, [math]D_{f}=\{x: x \in \mathbb{R}[/math]
+ এবং [math]\left.x \leq \frac{2}{5}\right\}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]f(x)=\sqrt{2-5 x}[/math]
+ধরি, [math]y=f(x)=\sqrt{2-5 x}[/math]
+বা, [math]y^{2}=2-5 x[/math]
+বা, [math]5 x=2-y^{2}[/math]
+বা, [math]x=\frac{2-y^{2}}{5}[/math]
+বা, [math]f^{-1}(y)=\frac{2-y^{2}}{5}[/math]
+ [math]\therefore f^{-1}(x)=\frac{2-x^{2}}{5}[/math]
+ [math]\therefore \mathrm{f}^{-1}(-2)=\frac{2+(-2)^{2}}{5}=\frac{2-4}{5}=-\frac{2}{5}[/math]
+ [math]\\[/math]
+ গদেওয়া আছে,[math]g(x) =x^{3}-x^{2}-2 x[/math]
+ [math]=x\left(x^{2}-x-2\right)=x\left(x^{2}-2 x+x-2\right)[/math]
+ [math]=x\{x(x-2)+1(x-2)\}=x(x-2)(x+1)[/math]
+ [math]\therefore \frac{5}{g(x)} = \frac{5}{x(x-2)(x+1)}[/math]
+ধরি, [math]\frac{5}{x(x-2)(x+1)} \equiv \frac{A}{x}+\frac{B}{x-2}+\frac{C}{x+1} \ldots \ldots (i)[/math]
+উভয়পক্ষে x(x - 2)(x + 1) দ্বারা গুণ করে পাই,[math]5 \equiv A(x-2)(x+1) +B x(x+1)+C x(x-2) \ldots \ldots (ii)[/math]
+(ii) নং এ x = 2 বসিয়ে,[math]5=B \cdot 2(2+1)[/math]
+বা, [math]5=6 B \quad \therefore B=\frac{5}{6}[/math]
+(ii) নং এ x = 2 বসিয়ে,[math]5=\mathrm{A}(0-2)(0+1)+0+0[/math]
+বা, [math]5=-2 A \therefore A=-\frac{5}{2}[/math]
+আবার, (ii), নং এ x = - 1 বসিয়ে,[math]5=0+0+C .(-1)(-1-2)[/math]
+বা, [math]5=3 C \therefore C=\frac{5}{3}[/math]
+A,B ও C এর মান (i) নং এ বসিয়ে,[math]\frac{5}{x(x-2)(x+1)} \equiv \frac{-\frac{5}{2}}{x}+\frac{\frac{5}{6}}{x-2}+\frac{\frac{5}{3}}{x+1}[/math]
+ [math]\equiv \frac{5}{6(x-2)}-\frac{5}{2 x}+\frac{5}{3(x+1)}[/math]
+ -যা নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 704028)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } F^{}(x)=\frac{x}{2 x+3}[/math] [math]\text { (ii) } G(x)=\frac{1}{(x-1)\left(x^{2}+9\right)}[/math]
+
+Options:
+ক. F(x) এর ডোমেন নির্ণয় কর।
+খ. [math]3F ^ {- 1} (x) = x[/math] হলে, x এর মান নির্ণয় কর।
+গ. [math](x ^ 2 - 4x - 7) G(x)[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]F^{}(x)=\frac{x}{2 x+3}[/math]
+ফাংশনটি সংজ্ঞায়িত হবে 'যদি ও কেবল যদি [math]x \in \mathbb{R}[/math]
+ এবং[math]2 x+3 
+eq 0[/math]
+ বা, [math]x 
+eq-\frac{3}{2}[/math]
+ হয়।[math]\therefore[/math]
+ ডোমেন [math]=\mathbb{R}-\left\{-\frac{3}{2}\right\} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, [math]y=F(x)=\frac{x}{2 x+3}[/math]
+বা, [math]2 x y+3 y=x[/math]
+বা, [math]2 x y-x=-3 y[/math]
+বা, [math]x-2 x y=3 y[/math]
+বা, [math]x(1-2 y)=3 y[/math]
+বা, [math]x=\frac{3 y}{1-2 y}[/math]
+বা, [math]F^{-1}(y)=\frac{3 y}{1-2 y}[/math]
+ [math]\therefore F^{-1}(x)=\frac{3 x}{1-2 x}[/math]
+প্রশ্নমতে[math]3 F^{-1}(x)=x[/math]
+বা, [math]3 \times \frac{3 x}{1-2 x}=x[/math]
+বা, [math]\frac{9 x}{1-2 x}=x[/math]
+বা, [math]x-2 x^{2}=9 x[/math]
+বা, [math]2 x^{2}+8 x=0[/math]
+বা, [math]2 x(x+4)=0[/math]
+বা, [math]2 x=0[/math]
+ [math]\therefore \mathrm{x}=0[/math]
+অথবাবা, [math]x+4=0[/math]
+ [math]\therefore x=-4[/math]
+ [math]\therefore[/math]
+ নির্ণেয় x এর মান [math]=0,-4 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে,[math]G(x)=\frac{1}{(x-1)\left(x^{2}+9\right)}[/math]
+প্রদত্ত রাশি [math]=\left(x^{2}-4 x-7\right) G(x) \\=\frac{x^{2}-4 x-7}{(x-1)\left(x^{2}+9\right)}[/math]
+ধরি, [math]\frac{x^{2}-4 x-7}{(x-1)\left(x^{2}+9\right)} \equiv \frac{A}{x-1}+\frac{B x+C}{x^{2}+9} \ldots \ldots (i)[/math]
+i) নং এর উভয়পক্ষকে [math](x - 1)(x ^ 2 + 9)[/math]
+ দ্বারা গুণ করে পাই,[math]x^{2}-4 x-7 \equiv A\left(x^{2}+9\right)+(B x+C)(x-1) \ldots \ldots \ldots \text { (ii) }[/math]
+বা, [math]x^{2}-4 x-7 \equiv A x^{2}+9 A+B x^{2}-B x+C x-C[/math]
+ [math]\therefore x^{2}-4 x-7 \equiv x^{2}(A+B)+x(C-B)+9 A-C \ldots \ldots \ldots \text { (iii) }[/math]
+(ii) নং এ x = 1 বসিয়ে পাই,[math]1-4-7=A(1+9)[/math]
+বা, [math]10 \mathrm{~A}=-10 \therefore \mathrm{~A}=-1[/math]
+(iii) নং এ x² ও x এর সহগদ্বয় সমীকৃত করে পাই,[math]A+B=1[/math]
+ বা, [math]\mathrm{B}=1-\mathrm{A}=1-(-1)=1+1 \therefore \mathrm{~B}=2[/math]
+এবং [math]C - B = - 4[/math]
+ বা, [math]C = B - 4 =2-4 ∴ C=-2[/math]
+A, B ও C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{x^{2}-4 x-7}{(x-1)\left(x^{2}+9\right)}=\frac{-1}{x-1}+\frac{2 x-2}{x^{2}+9}[/math]
+ যা নির্ণেয় আংশিক ভগ্নাংশ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 704030)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=\frac{4 x-9}{x-2}[/math] এবং [math]A=\frac{2 x^{3}}{(x-1)(x-2)(x-3)}[/math]
+
+Options:
+ক. [math]f(P) = k[/math] হলে, P এর মান k এর মাধ্যমে প্রকাশ কর।
+খ. [math]f^{-1}(-3)[/math] নির্ণয় কর।
+গ. A কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=\frac{4 x-9}{x-2} \therefore f(P)=\frac{4 P-9}{P-2}[/math]
+এখন, f(P) = k হলে, [math]\frac{4 P-9}{P-2}=k[/math]
+বা, [math]4P - 9 = Pk - 2k[/math]
+বা, [math]4P - Pk = 9 - 2k[/math]
+বা, [math]P(4 - k) = 9 - 2k[/math]
+ [math]\therefore \mathrm{P}=\frac{9-2 \mathrm{k}}{4-\mathrm{k}} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]f(x)=\frac{4 x-9}{x-2}[/math]
+ধরি, [math]y=f(x)=\frac{4 x-9}{x-2}[/math]
+বা, [math]xy – - 2y = 4x – 9[/math]
+বা, [math]xy - 4x = 2y - 9[/math]
+বা, [math]x(y – 4) = 2y – 9[/math]
+বা, [math]x=\frac{2 y-9}{y-4}[/math]
+ [math]\therefore f^{-1}(y)=\frac{2 y-9}{y-4}\left[\because y=f(x) \therefore x=f^{-1}(y)\right][/math]
+ [math]\therefore \mathrm{f}^{-1}(-3)=\frac{2 \times(-3)-9}{-3-4}=\frac{-6-9}{-7}=\frac{15}{7} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে,[math]\begin{aligned}A & =\frac{2 x^{3}}{(x-1)(x-2)(x-3)} \\& =\frac{2(x-1)(x-2)(x-3)+2 x^{3}-2(x-1)(x-2)(x-3)}{(x-1)(x-2)(x-3)} \\& =2+\frac{2 x^{3}-2\left(x^{2}-3 x+2\right)(x-3)}{(x-1)(x-2)(x-3)} \\& =2+\frac{2 x^{3}-\left(2 x^{2}-6 x+4\right)(x-3)}{(x-1)(x-2)(x-3)} \\& =2+\frac{2 x^{3}-\left(2 x^{3}-6 x^{2}+4 x-6 x^{2}+18 x-12\right)}{(x-1)(x-2)(x-3)} \\& =2+\frac{2 x^{3}-2 x^{3}+6 x^{2}-4 x+6 x^{2}-18 x+12}{(x-1)(x-2)(x-3)} \\& =2+\frac{12 x^{2}-22 x+12}{(x-1)(x-2)(x-3)}\end{aligned}[/math]
+ধরি, [math]\frac{12 x^{2}-22 x+12}{(x-1)(x-2)(x-3)} \equiv \frac{D}{x-1}+\frac{B}{x-2}+\frac{C}{x-3} \ldots \ldots (i)[/math]
+(i) নং সমীকরণের উভয়পক্ষকে (x - 1)(x - 2)(x - 3) দ্বারা গুণ করে পাই,[math]12 x^{2}-22 x+12 \equiv D(x-2)(x-3)+B(x-1)(x-3)+C(x-1)(x-2) \ldots \ldots \ldots[/math]
+(ii) নং সমীকরণে x = 1 বসিয়ে পাই,[math]12. (1) ^ 2 - 22 + 12 = D(1 - 2)(1 - 3) + 0 + 0[/math]
+ [math]2D = 2[/math]
+ [math]D = 1[/math]
+আবার, (ii) নং সমীকরণে x = 2 বসিয়ে পাই,[math]12. (2) ^ 2 - 22.2 + 12 = 0 + B(2 - 1)(2 - 3)[/math]
+বা, [math]- B = 16[/math]
+ [math].:. B = - 16[/math]
+আবার, (ii) নং সমীকরণে x = 3 বসিয়ে পাই,[math]12. (3) ^ 2 - 22.3 + 12 = 0 + 0 + C(3 - 1)(3 - 2)[/math]
+বা, [math]2C = 54[/math]
+ [math]C = 27[/math]
+D, B ও C এর মান (i) নং সমীকরণে বসিয়ে পাই,[math]A \equiv 2+\frac{D}{x-1}+\frac{B}{x-2}+\frac{C}{x-3}[/math]
+ [math]\therefore \frac{2 x^{3}}{(x-1)(x-2)(x-3)} \equiv 2+\frac{1}{x-1}-\frac{16}{x-2}+\frac{27}{x-3}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 704032)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=\frac{3 x-2}{3 x+4}[/math] এবং [math]g(y) = (y-2) (y² + 3)[/math]
+
+Options:
+ক. [math]3x²+5x + 2 = 0[/math] সমীকরণের মূলগুলোর প্রকৃতি নির্ণয় কর।
+খ. f(x) এক-এক ফাংশন কিনা- যাচাই কর।
+গ. [math]\frac{y}{g(y)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ: [math]3x ^ 2 + 5x + 2 = 0[/math]
+সমীকরণটিকে [math]a x ^ 2 + bx + c = 0[/math]
+ এর সাথে তুলনা করে পাই,a = 3, b = 5 এবং c = 2.: সমীকরণটির নিশ্চায়ক [math]= b ^ 2 - 4ac = 5 ^ 2 - 4.3 .2[/math]
+ [math]= 25-24=1>0[/math]
+সমীকরণটির নিশ্চায়ক শূন্য থেকে বড় এবং পূর্ণবর্গ সংখ্যা। তাই সমীকরণটির মূলদ্বয় বাস্তব, অসমান ও মূলদ। (Ans.)[math]\\[/math]
+ খধরি, [math]X_1, X_2 ∈[/math]
+ ডোম ff(x) এক-এক ফাংশন হবে যদি ও কেবল যদি যেকোনো[math]X_1, X_2 ∈[/math]
+ ডোম f এর জন্য [math]f(x_1) = f(x_2)[/math]
+ হলে, [math]x₁ = X_2[/math]
+ হয়।এখন, [math]f(x_1) = f(x_2)[/math]
+বা, [math]\frac{3 x_{1}-2}{3 x_{1}+4}=\frac{3 x_{2}-2}{3 x_{2}+4}[/math]
+বা, [math]9 x_{1} x_{2}-6 x_{2}+12 x_{1}-8=9 x_{1} x_{2}-6 x_{1}+12 x_{2}-8[/math]
+বা, [math]18 x_{1}=18 x_{2}[/math]
+ [math]\therefore \mathrm{x}_{1}=\mathrm{x}_{2}[/math]
+.: f(x) ফাংশনটি এক-এক ফাংশন। (যাচাই করা হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]g(y) = (y - 2)(y ^ 2 + 3)[/math]
+ [math]\therefore \frac{y}{g(y)}=\frac{y}{(y-2)\left(y^{2}+3\right)}[/math]
+ধরি, [math]\frac{y}{(y-2)\left(y^{2}+3\right)} \equiv \frac{A}{y-2}+\frac{B y+C}{y^{2}+3} \quad \ldots \quad \ldots \quad \ldots \text { (i) }[/math]
+(i) নং এর উভয়পক্ষে [math](y - 2)(y ^ 2 + 3)[/math]
+ দ্বারা গুণ করে পাই,[math]\mathrm{y}=\mathrm{A}\left(\mathrm{y}^{2}+3\right)+(\mathrm{By}+\mathrm{C})(\mathrm{y}-2) \quad \text {... ... ... ... (ii) }[/math]
+যা y এর সকল মানের জন্য সত্য।বা, [math]y=A y^{2}+3 A+B y^{2}-2 B y+C y-2 C[/math]
+ [math]\therefore y=(A+B) y^{2}+(C-2 B) y+3 A-2 C \quad \ldots \quad \ldots \quad \text {.... iii}[/math]
+(ii) নং এ y = 2 বসিয়ে,[math]2=A. (2 ^ 2 + 3) + 0[/math]
+ বা, [math]7A = 2[/math]
+ [math]\therefore \mathrm{A}=\frac{2}{7}[/math]
+(iii) নং এর উভয়পক্ষ হতে y' এবং y পদের সহগ সমীকৃত করে পাই,#A + B = 0 $বা, [math]B = -A[/math]
+ [math]\therefore B=-\frac{2}{7}[/math]
+ [math]C-2 B=1[/math]
+বা, [math]C-2\left(-\frac{2}{7}\right)=1[/math]
+বা, [math]C+\frac{4}{7}=1[/math]
+বা, [math]C=1-\frac{4}{7}[/math]
+ [math]\therefore C=\frac{3}{7}[/math]
+A, B ও C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{y}{(y-2)\left(y^{2}+3\right)} \equiv \frac{\frac{2}{7}}{y-2}+\frac{\left(-\frac{2}{7}\right) y+\frac{3}{7}}{y^{2}+3}=\frac{2}{7(y-2)}+\frac{3-2 y}{7\left(y^{2}+3\right)}[/math]
+এটিই নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 704035)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]A(p, q, r)=(p+q+r)(p q+q r+r p)[/math] এবং [math]Q(x)=x^{3}-49 x[/math] [math]\\[/math]
+
+Options:
+ক. [math]g(x)=\sqrt{2 x+1}[/math] এর ডোমেন নির্ণয় কর।
+খ. A(p, q, r) = pqr হলে দেখাও যে, [math]\frac{1}{(p+q+r)^{5}}=\frac{1}{p^{5}}+\frac{1}{q^{5}}+\frac{1}{r^{5}}[/math]
+গ. [math]\frac{x^{3}}{Q(x)}[/math] এর আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]g(x)=\sqrt{2 x+1}[/math]
+ ফাংশনটি সংজ্ঞায়িত হবে যদি [math]2x + 1≥0[/math]
+ হয়।বা, [math]2 x \geq-1[/math]
+ [math]\therefore x \geq-\frac{1}{2}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় ডোমেন: [math]x ∈ R[/math]
+ এবং [math]x \geq-\frac{1}{2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A(p, q, r)=(p+q+r)(p q+q r+r p)[/math]
+বা, [math]p q r=p^{2} q+p q^{2}+p q r+p q r+q^{2} r+q r^{2}+r p^{2}+p q r+r^{2} p[/math]
+বা, [math]p^{2} q+p q^{2}+p q r+q^{2} r+r^{2} p+q r^{2}+p^{2} r+p q r=0[/math]
+বা, [math]p q(p+q)+q r(p+q)+r^{2}(p+q)+p r(p+q)=0[/math]
+বা, [math](p+q)\left(p q+q r+r^{2}+p r\right)=0[/math]
+বা, [math](p+q)\{q(p+r)+r(r+p)\}=0[/math]
+বা, [math](p+q)(q+r)(r+p)=0[/math]
+বা, [math]p+q= (0)[/math]
+ অথবা, [math]q+r=0[/math]
+ অথবা [math]r + p = 0[/math]
+ [math]\therefore \mathrm{p}=-\mathrm{q} \quad \quad \therefore \mathrm{q}=-\mathrm{r} \quad \therefore \mathrm{r}=-\mathrm{p}[/math]
+এখন, [math]\frac{1}{(p+q+r)^{3}}=\frac{1}{(p-r+r)^{3}}=\frac{1}{p^{3}} \quad[\because q=-r][/math]
+আবার, [math]\frac{1}{p^{3}}+\frac{1}{q^{3}}+\frac{1}{r^{5}}=\frac{1}{p^{5}}+\frac{1}{(-r)^{5}}+\frac{1}{r^{5}}[\because q=-r][/math]
+ [math]=\frac{1}{p^{5}}-\frac{1}{r^{5}}+\frac{1}{r^{5}}=\frac{1}{p^{5}}[/math]
+ [math]\therefore \frac{1}{(p+q+r)^{5}}=\frac{1}{p^{5}}+\frac{1}{q^{5}}+\frac{1}{r^{5}}[/math]
+ (দেখানো হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]Q(x)=x^{3}-49 x .[/math]
+ [math]\therefore[/math]
+ প্রদত্ত রাশি [math]=\frac{x^{3}}{Q(x)}=\frac{x^{3}}{x^{3}-49 x}[/math]
+ [math]\begin{array}{l}=\frac{x^{2}}{x^{2}-49} \\=\frac{x^{2}-49+49}{x^{2}-49}\end{array}[/math]
+ [math]\begin{array}{l}=1+\frac{49}{x^{2}-49} \\=1+\frac{49}{(x+7)(x-7)}\end{array}[/math]
+ধরি, [math]\frac{49}{(x+7)(x-7)}=\frac{A}{x+7}+\frac{B}{x-7}[/math]
+(i) এর উভয়পক্ষে [math](x + 7) (x - 7)[/math]
+ দ্বারা গুণ করে পাই, বা, [math]49 = A (x - 7)+B(x + 7)................ (ii)[/math]
+(ii) এ [math]x = 7[/math]
+ বসিয়ে পাই, [math]49 = A.0+B(7+7)[/math]
+বা, [math]14B = 49[/math]
+ [math]\therefore B=\frac{7}{2}[/math]
+(ii) এ [math]x = -7[/math]
+ বসিয়ে পাই, [math]49 = A(-7-7) + B.0[/math]
+বা, [math]- 14A = 49[/math]
+ [math]\therefore A=\frac{7}{2}[/math]
+ [math]\therefore \frac{49}{(x+7)(x-7)} \equiv \frac{-\frac{7}{2}}{x+7}+\frac{\frac{7}{2}}{x-7}=\frac{7}{2(x-7)}-\frac{7}{2(x+7)}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় আংশিক ভগ্নাংশ [math]\frac{\mathrm{x}^{3}}{\mathrm{Q}(\mathrm{x})}=1+\frac{49}{(\mathrm{x}+7)(\mathrm{x}-7)}[/math]
+ [math]=1+\frac{7}{2(x-7)}-\frac{7}{2(x+7)} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 704037)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\text{i. } \quad p^{-3}+q^{-3}+r^{-3}=3 p^{-1} q^{-1} r^{-1}[/math] [math]\text{ii. } G(x)=\frac{2 x+3}{5 x-4}[/math]
+
+Options:
+ক. [math]f(x)=\sqrt{5 x-1}[/math] এর ডোমেন নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]pq + qr + rp = 0[/math] অথবা [math]p = q = r[/math]
+গ. [math]G^{-1}(x)[/math] এক-এক ফাংশন কিনা নির্ধারণ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=\sqrt{5 x-1}[/math]
+ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি [math]5 x-1 \geq 0[/math]
+ হয়অর্থাৎ, [math]x \geq \frac{1}{5}[/math]
+ হয়।.: ডোমেন [math]f=\left\{\mathrm{x} \in \mathbb{R}: \mathrm{x} \geq \frac{1}{5}\right\}=\left[\frac{1}{5}, \infty\right) \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]P=x^{-3}+y^{-3}+z^{-3}=3 x^{-1} y^{-1} z^{-1}[/math]
+বা, [math]\frac{1}{x^{3}}+\frac{1}{y^{3}}+\frac{1}{z^{3}}-\frac{3}{x y z}=0[/math]
+বা, [math]\left(\frac{1}{x}\right)^{3}+\left(\frac{1}{y}\right)^{3}+\left(\frac{1}{z}\right)^{3}-3 \cdot \frac{1}{x} \cdot \frac{1}{y} \cdot \frac{1}{z}=0[/math]
+বা, [math]\frac{1}{2}\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right)\left\{\left(\frac{1}{x}-\frac{1}{y}\right)^{2}+\left(\frac{1}{y}-\frac{1}{z}\right)^{2}+\left(\frac{1}{z}-\frac{1}{x}\right)^{2}\right\}=0[/math]
+বা, [math]\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right)\left\{\left(\frac{1}{x}-\frac{1}{y}\right)^{2}+\left(\frac{1}{y}-\frac{1}{z}\right)^{2}+\left(\frac{1}{z}-\frac{1}{x}\right)^{2}\right\}=0[/math]
+হয় [math]\frac{1}{x}+\frac{1}{y}+\frac{1}{z}=0[/math]
+ বা, [math]\frac{y z+z x+x y}{x y z}=0[/math]
+ [math]\therefore y z+z x+x y=0[/math]
+অথবা, [math]\left\{\left(\frac{1}{x}-\frac{1}{y}\right)^{2}+\left(\frac{1}{y}-\frac{1}{z_{}}\right)^{2}+\left(\frac{1}{z}-\frac{1}{x}\right)^{2}\right\}=0[/math]
+আমরা জানি, দুই বা ততোধিক শূন্য হলে এদের প্রত্যেকটির মান পৃথক পৃথকভাবে শূন্য হবে।সুতরাং[math]\left(\frac{1}{x}-\frac{1}{y}\right)^{2}=0[/math]
+বা, [math]\frac{1}{x}-\frac{1}{y}=0[/math]
+বা, [math]\frac{1}{x}=\frac{1}{y}[/math]
+ [math]\therefore \quad x=y \ldots \ldots . \text { (i) }[/math]
+আবার[math]\left(\frac{1}{y}-\frac{1}{z}\right)^{2}=0[/math]
+বা, [math]\frac{1}{y}-\frac{1}{z}=0[/math]
+বা, [math]\frac{1}{y}=\frac{1}{z_{1}}[/math]
+ [math]\therefore y=z \ldots \ldots . \text { (ii) }[/math]
+(i) ও (ii) নং হতে পাই,[math]x = y = z[/math]
+সুতরাং [math]yz + zx + xy = 0[/math]
+ অথবা [math]x = y = z[/math]
+ (প্রমাণিত)[math]\\[/math]
+ গদেওয়া আছে, [math]G(x)=\frac{2 x+3}{5 x-4}[/math]
+মনে করি, [math]y=G(x) \quad \therefore x=G^{-1}(y)[/math]
+বা, [math]y=\frac{2 x+3}{5 x-4}[/math]
+বা, [math]5 x y-4 y=2 x+3[/math]
+বা, [math]5 x y-2 x=4 y+3[/math]
+বা, [math]x(5 y-2)=4 y+3[/math]
+বা, [math]x=\frac{4 y+3}{5 y-2}[/math]
+বা, [math]G^{-1}(y)=\frac{4 y+3}{5 y-2}[/math]
+ [math]\therefore G^{-1}(x)=\frac{4 x+3}{5 x-2}[/math]
+ [math]G^{-1}(x)[/math]
+ এক-এক ফাংশন কেবল যদি [math]\mathrm{a}, \mathrm{~b} \in[/math]
+ ডোম [math]\mathrm{G}^{-1}[/math]
+ এর জন্য [math]G^{-1}(a)=G^{-1}(b)[/math]
+ হলে, a = b হয়।ধরি, [math]G^{-1}(a)=G^{-1}(b)[/math]
+বা, [math]\therefore \frac{4 a+3}{5 a-2}=\frac{4 b+3}{5 b-2}[/math]
+বা, [math]20 a b+15 b-8 a-6=20 a b+15 a-8 b-6[/math]
+বা, [math]15 b+8 b=15 a+8 a[/math]
+বা, [math]23 b=23 a[/math]
+ [math]\therefore a=b[/math]
+ [math]\therefore \mathrm{G}^{-1}(\mathrm{x})[/math]
+ এক-এক ফাংশন।। Ans.
+
+Explanation:
+
+
+Sub-Questions:
+

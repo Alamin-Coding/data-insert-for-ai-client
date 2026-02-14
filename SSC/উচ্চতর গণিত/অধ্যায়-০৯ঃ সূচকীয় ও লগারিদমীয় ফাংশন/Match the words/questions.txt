@@ -1,0 +1,60 @@
+================================================================================
+Question #1 (ID: 123135)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the relationship between exponential functions and logarithmic functions?
+
+Options:
+a. They are inverses of each other.
+b. They are identical functions.
+c. They cannot be related mathematically.
+d. They are both linear functions.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1: Define an exponential function as [math]y=a^x[/math] with [math]a>0,\,a
+eq1[/math].  
+Step 2: Define the logarithmic function base [math]a[/math] as the inverse relation [math]x=\log_a y[/math], which means [math]y=a^{\log_a y}[/math].  
+Step 3: Show the inverse property by composition: [math]\log_a(a^x)=x[/math] and [math]a^{\log_a x}=x[/math] (for suitable domains), so each undoes the other.  
+Therefore the correct answer is a: They are inverses of each other.
+
+Briefly why the others are wrong: b is false because they are not identical (one grows exponentially in the exponent, the other grows logarithmically). c is false because there is a clear mathematical inverse relationship. d is false because neither is a linear function.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 123136)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How does the concept of limits relate to calculus?
+
+Options:
+a. It focuses on the behavior of functions as they approach a point.
+b. It determines the exact value of a function.
+c. It eliminates the need for derivatives.
+d. It is unrelated to calculus.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1: A limit describes the behavior of a function as the input approaches a point, e.g. [math]\lim_{x\to a} f(x)=L[/math] means values of [math]f(x)[/math] get arbitrarily close to [math]L[/math] as [math]x[/math] approaches [math]a[/math].  
+Step 2: Limits are the foundation of calculus: the derivative is defined by a limit [math]f'(a)=\lim_{h\to0}\frac{f(a+h)-f(a)}{h}[/math], and the definite integral is defined as a limit of Riemann sums [math]\int_a^b f(x)\,dx=\lim_{n\to\infty}\sum f(x_i)\Delta x[/math].  
+Conclusion: This matches option (a). Options (b), (c), and (d) are incorrect because limits do not by themselves guarantee the function's value at the point, they do not eliminate derivatives (they define them), and they are central—not unrelated—to calculus.
+
+Explanation:
+
+
+Sub-Questions:
+

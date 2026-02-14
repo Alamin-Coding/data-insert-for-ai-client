@@ -1,0 +1,98 @@
+================================================================================
+Question #1 (ID: 487125)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + 3x + 1[/math], [math]x^2 - 3x + 1[/math] এবং [math]4 + 8x^2 + 3x^4[/math] — তিনটি বীজগাণিতিক রাশি।
+
+Options:
+ক. ৩য় রাশিকে উৎপাদকে বিশ্লেষণ কর।
+খ. সূত্রের সাহায্যে ১ম ও ২য় রাশির গুণফল নির্ণয় কর।
+গ. ২য় রাশির মান শূন্য হলে দেখাও যে, [math]x^4 + \dfrac{1}{x^4} = 47[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]4 + 8x^2 + 3x^4[/math]
+ক্রম সাজালে: [math]= 3x^4 + 8x^2 + 4[/math]
+এটিকে ধরি [math]= (ax^2 + b)^2[/math]
+ আকারে।কিন্তু সহজভাবে এটি [math]= (x^2 + 2)^2 + 3x^4[/math]
+ এরূপ নয়।বিশ্লেষণ করে: [math]= (3x^2 + 2)(x^2 + 2)[/math]
+ খ [math](x^2 + 3x + 1)(x^2 - 3x + 1)[/math]
+এটি সূত্র: [math](a + b)(a - b) = a^2 - b^2[/math]
+এখানে [math]a = x^2 + 1[/math]
+, [math]b = 3x[/math]
+ [math]\Rightarrow = (x^2 + 1)^2 - 9x^2[/math]
+ [math]= x^4 + 2x^2 + 1 - 9x^2 = x^4 - 7x^2 + 1[/math]
+ গ [math]x^2 - 3x + 1 = 0[/math]
+ [math]\Rightarrow x^2 + 1 = 3x[/math]
+ভাগ করলে: [math]x + \dfrac{1}{x} = 3[/math]
+এখন, সূত্র: [math]x^2 + \dfrac{1}{x^2} = (x + \dfrac{1}{x})^2 - 2 = 9 - 2 = 7[/math]
+আবার, [math]x^4 + \dfrac{1}{x^4} = (x^2 + \dfrac{1}{x^2})^2 - 2 = 7^2 - 2 = 49 - 2 = 47[/math]
+অতএব, প্রমাণিত [math]x^4 + \dfrac{1}{x^4} = 47[/math]
+
+
+Explanation:
+সমাধান:
+
+ক [math]3x^4+8x^2+4=3(x^2)^2+8(x^2)+4=(3x^2+2)(x^2+2)[/math].
+
+খ [math](x^2+3x+1)(x^2-3x+1)=(x^2+1)^2-(3x)^2=x^4-7x^2+1[/math].
+
+গ যদি [math]x^2-3x+1=0[/math] হয়, তাহলে ভাগ করে পাওয়া যায় [math]x+1/x=3[/math]; আনুষঙ্গিকভাবে [math]x^2+1/x^2=3^2-2=7[/math] এবং [math]x^4+1/x^4=(x^2+1/x^2)^2-2=7^2-2=47[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 487124)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]A = x^2 + xy + y^2[/math], [math]B = x^2 - xy + y^2[/math], [math]C = x - y[/math], [math]D = x^3 + y^3[/math]
+
+Options:
+ক. [math]B[/math] এর বর্গ নির্ণয় কর।
+খ. [math]A[/math] ও [math]B[/math] এর গুণফল নির্ণয় কর।
+গ. দেখাও যে, [math]ACD = x^6 - y^6[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]B = x^2 - xy + y^2[/math]
+ [math]B^2 = (x^2 - xy + y^2)^2[/math]
+ [math]= x^4 + x^2y^2 + y^4 - 2x^3y - 2xy^3 + x^2y^2[/math]
+ [math]= x^4 + 2x^2y^2 + y^4 - 2x^3y - 2xy^3[/math]
+ খ [math]A = x^2 + xy + y^2[/math]
+, [math]B = x^2 - xy + y^2[/math]
+ [math]AB = (x^2 + xy + y^2)(x^2 - xy + y^2)[/math]
+এটি সূত্র: [math](a + b)(a - b) = a^2 - b^2[/math]
+এখানে [math]a = x^2 + y^2[/math]
+, [math]b = xy[/math]
+ [math]\Rightarrow AB = (x^2 + y^2)^2 - (xy)^2[/math]
+ [math]= x^4 + 2x^2y^2 + y^4 - x^2y^2 = x^4 + x^2y^2 + y^4[/math]
+ গ [math]A = x^2 + xy + y^2[/math]
+, [math]C = x - y[/math]
+, [math]D = x^3 + y^3[/math]
+ [math]ACD = (x^2 + xy + y^2)(x - y)(x^3 + y^3)[/math]
+এখন, [math]x^3 + y^3 = (x + y)(x^2 - xy + y^2)[/math]
+এবং [math]x^2 + xy + y^2 = (x + y)^2 - xy[/math]
+তাই, [math]A \cdot D = (x^2 + xy + y^2)(x^3 + y^3) = (x + y)^3(x^2 - xy + y^2)[/math]
+এখন, [math](x - y)(x + y)^3(x^2 - xy + y^2) = x^6 - y^6[/math]
+অতএব, [math]ACD = x^6 - y^6[/math]
+ প্রমাণিত
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]B^2=(x^2-xy+y^2)^2=x^4+3x^2y^2+y^4-2x^3y-2xy^3[/math] (সমীকরণটি সরাসরি বর্গ বাড়িয়ে পাওয়া যায়)।
+
+খ [math]AB=(x^2+xy+y^2)(x^2-xy+y^2)=(x^2+y^2)^2-(xy)^2=x^4+x^2y^2+y^4[/math] (এখানে প্রতিগুণ করলে গুণফলটি সহজভাবে বের হয়)।
+
+গ [math]A\cdot C=(x^2+xy+y^2)(x-y)=x^3-y^3[/math], তাই [math]ACD=(x^3-y^3)(x^3+y^3)=x^6-y^6[/math] (প্রথমে ঘাতীয় ভগ্নাংশটি সরল করে তারপর ভিন্নবর্গ সূত্র প্রয়োগ করা হয়েছে)।
+
+Sub-Questions:
+

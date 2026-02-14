@@ -1,0 +1,125 @@
+================================================================================
+Question #1 (ID: 123129)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Which of the following statements best describes a polynomial expression?
+
+Options:
+a. It consists of variables and constants combined using addition and subtraction.
+b. It contains variables raised to fractional powers.
+c. It can only have one variable.
+d. It consists only of constants.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1: Definition — A polynomial is an expression of the form [math]a_n x^n + a_{n-1}x^{n-1} + \dots + a_1 x + a_0[/math], where the exponents [math]n, n-1, \dots, 0[/math] are nonnegative integers and the [math]a_i[/math] are constants.
+
+Step 2: Check the options:
+- a: Variables and constants combined using addition and subtraction (and multiplication by constants) matches the polynomial form, so this is true.
+- b: Variables raised to fractional powers is not allowed for polynomials (exponents must be nonnegative integers), so false.
+- c: A polynomial can have one or more variables (multivariate polynomials exist), so false.
+- d: "Only constants" describes a special case (constant polynomials) but is not the general description, so false.
+
+Step 3: Conclusion — The best description is option a.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 123130)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+If a polynomial is divided by a linear factor, what can be inferred about the roots of the polynomial?
+
+Options:
+a. The roots are complex numbers.
+b. The polynomial will have a degree greater than one.
+c. The linear factor must be a root of the polynomial.
+d. There will be no roots.
+
+
+Correct Answer: গ
+
+Solution:
+Solution:
+If a polynomial [math]f(x)[/math] is divided by a linear factor [math](x-a)[/math], by the division (remainder) theorem we can write
+[math]f(x)=(x-a)q(x)+r,[/math]
+where [math]q(x)[/math] is the quotient and [math]r[/math] is the constant remainder. Evaluating at [math]x=a[/math] gives [math]f(a)=r[/math]; if the division is exact (no remainder) then [math]r=0[/math], so [math]f(a)=0[/math]. Hence [math]x=a[/math] is a root of the polynomial, so option c is correct.
+
+Briefly why others are wrong:
+- a: Roots need not be complex only; they can be real or complex depending on the polynomial.
+- b: Dividing by a linear factor does not force the polynomial to have degree greater than one — a linear polynomial divided by another linear factor is degree zero quotient.
+- d: There can be roots; the statement "no roots" is false.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 123131)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+When can a polynomial be classified as a constant?
+
+Options:
+a. When its degree is zero.
+b. When it has more than one term.
+c. When it contains variables.
+d. When it is equal to zero.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1 — সংজ্ঞা: একটি পলিনোমিয়ালকে ধ্রুবক বলা হয় যদি সেটি ভেরিয়েবল না ধরে কেবল একটি ধ্রুবক মান দেয়, যেমন [math]p(x)=c[/math] যেখানে [math]c[/math] কোন সংখ্যাগত ধ্রুবক।  
+Step 2 — ডিগ্রি ব্যাখ্যা: যদি [math]c
+eq 0[/math], তাহলে এর ডিগ্রি হচ্ছে [math]0[/math] (অর্থাৎ ডিগ্রি শূন্য)। তাই পলিনোমিয়ালটি ধ্রুবক হলে তার ডিগ্রি শূন্য হবে।  
+Step 3 — অপশন বিশ্লেষণ: অপশন a সঠিক কারণ ধ্রুবক পলিনোমিয়ালের ডিগ্রি [math]0[/math]। অপশন b ভুল — একাধিক টার্ম থাকা মানে সাধারণত ধ্রুবক নয়। অপশন c ভুল — ভেরিয়েবল থাকা মানে তা ধারাবাহিকভাবে পরিবর্তিত হয়, ধ্রুবক নয়। অপশন d বিভ্রান্তিকর: [math]p(x)=0[/math] (জিরো পলিনোমিয়াল) মানে এটি ধ্রুবক শূন্য, কিন্তু রীতিমতো ডিগ্রি জন্য জিরো পলিনোমিয়ালের ডিগ্রি সাধারণত অনির্ধারিত (বা কনভেনশনে [math]-\infty[/math]) ধরা হয়, তাই এটি সরাসরি সমন্বিত সংজ্ঞা নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 123132)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What property do all polynomial functions share?
+
+Options:
+a. They have a highest degree.
+b. They are always linear.
+c. They do not have variables.
+d. They are always positive.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1: একটি পলিনোমিয়াল ফাংশনের সাধারণ রূপ হল [math]p(x)=a_n x^n + a_{n-1}x^{n-1}+\dots+a_1 x+a_0[/math], যেখানে [math]a_n
+eq 0[/math] এবং [math]n[/math] একটি নন-নেগেটিভ পূর্ণসংখ্যা।  
+Step 2: এখানে [math]n[/math] হল সবচেয়ে বড় ঘাত (degree) — অর্থাৎ প্রতিটি পলিনোমিয়ালের একটি উচ্চতম ডিগ্রি থাকে। এ থেকেই a সঠিক বিবৃতি হিসাবে আসে।  
+Step 3: অন্যান্য অপশনগুলোর সংক্ষিপ্ত অস্বীকৃতি: b ভুল কারণ সব পলিনোমিয়ালই লিনিয়ার নয়—শুধু যখন [math]n=1[/math]। c ভুল কারণ পলিনোমিয়ালে সাধারণত চলক (variable) থাকে, যেমন [math]x[/math]। d ভুল কারণ একটি পলিনোমিয়াল সবসময় ধনাত্মক নয়; তা ধনাত্মক বা ঋণাত্মক মান নিতে পারে নির্ভর করে সহগ ও [math]x[/math]-এর উপর।
+
+Explanation:
+
+
+Sub-Questions:
+

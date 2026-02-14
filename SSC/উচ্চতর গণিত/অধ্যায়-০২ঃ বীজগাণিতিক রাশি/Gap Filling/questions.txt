@@ -1,0 +1,721 @@
+================================================================================
+Question #1 (ID: 704287)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } A=p^{4}(q-r)+q^{4}(r-p)+r^{4}(p-q) \text {. }[/math] [math]\text { (ii) } \mathrm{B}=\mathrm{x}^{3}+\mathrm{x}^{2}-5 \mathrm{x}+3[/math]
+ক) [math]5 m^{3}-11 m^{2}-3 m+4[/math] কে (m+2) দ্বারা ভাগ করলে ভাগশেষ কত হবে?
+খ) A এর উৎপাদকগুলো নির্ণয় কর।
+গ) [math]\frac{\mathrm{X}}{\mathrm{B}}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কমনে করি, [math]f(m)=5 m^{3}-11 m^{2}-3 m+4[/math]
+ ভাগশেষ উপপাদ্য অনুযায়ী, f(m) কে (m + 2) দ্বারা ভাগ করলে ভাগশেষ হবে f(-2).এখন, [math]f(-2)=5(-2)^{3}-11(-2)^{2}-3(-2)+4[/math]
+ [math]\begin{array}{l}=-40-44+6+4 \\=-74\end{array}[/math]
+ [math]\therefore[/math]
+ . নির্ণেয় ভাগশেষ-74 (Ans.)[math]\\[/math]
+ খ [math]A=p^{4}(q-r)+q^{4}(r-p)+r^{4}(p-q)[/math]
+ [math]=p^{4} q-r p^{4}+q^{4} r-p q^{4}+r^{4}(p-q)[/math]
+ [math]=p^{4} q-p q^{4}-r p^{4}+q^{4} r+r^{4}(p-q)[/math]
+ [math]=p q\left(p^{3}-q^{3}\right)-r\left(p^{4}-q^{4}\right)+r^{4}\left(p_{0}-q\right)[/math]
+ [math]=p q(p-q)\left(p^{2}+p q+q^{2}\right)-r(p+q)(p-q)\left(p^{2}+q^{2}\right)+r^{4}(p-q)[/math]
+ [math]=(\mathrm{p}-\mathrm{q})\left\{\mathrm{pq}\left(\mathrm{p}^{2}+\mathrm{pq}+\mathrm{q}^{2}\right)-\mathrm{r}(\mathrm{p}+\mathrm{q})\left(\mathrm{p}^{2}+\mathrm{q}^{2}\right)+\mathrm{r}^{4}\right\}[/math]
+ [math]=(p-q)\left(p^{3} q+p^{2} q^{2}+p q^{3}-r p^{3}-p q^{2} r-p^{2} q r-q^{3} r+r^{4}\right)[/math]
+ [math]=(p-q)\left(p^{3} q-r p^{3}+p q^{3}-p q^{2} r+p^{2} q^{2}-p^{2} q r-q^{3} r+r^{4}\right)[/math]
+ [math]=(p-q)\left\{p^{3}(q-r)+p^{2}(q-r)+p^{2} q(q-r)-r\left(q^{3}-r^{3}\right)\right\}[/math]
+ [math]=(p-q)(q-r)\left(p^{3}+p q^{2}+p^{2} q-q^{2} r-r^{3}-q r^{2}\right)[/math]
+ [math]=(p-q)(q-r)\left(p^{3}-r^{3}+p q^{2}-q^{2} r+p^{2} q-q r^{2}\right)[/math]
+ [math]=(p-q)(q-r)\left\{(p-r)\left(p^{2}+p r+r^{2}\right)+q^{2}(p-r)+q\left(p^{2}-r^{2}\right)\right\}[/math]
+ [math]=(p-q)(q-r)(p-r)\left\{p^{2}+p r+r^{2}+q^{2}+q(p+r)\right\}[/math]
+ [math]=-(p-q)(q-r)(r-p)\left(p^{2}+q_{.}^{2}+r^{2}+p q+q r+r p\right) \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গপ্রদত্ত রাশি [math]=\frac{x}{B}[/math]
+ [math]=\frac{x}{x^{3}+x^{2}-5 x+3}[/math]
+ [math]\begin{array}{l}=\frac{x}{x^{3}-x^{2}+2 x^{2}-2 x-3 x+3} \\=\frac{x}{x^{2}(x-1)+2 x(x-1)-3(x-1)}\end{array}[/math]
+ [math]\begin{array}{l}=\frac{x}{(x-1)\left(x^{2}+3 x-x-3\right)} \\=\frac{x}{(x-1)\{x(x+3)-1(x+3)\}}\end{array}[/math]
+ [math]\begin{array}{l}=\frac{x}{(x-1)(x+3)(x-1)} \\=\frac{x}{(x+3)(x-1)^{2}}\end{array}[/math]
+মনে করি,[math]\frac{x}{(x+3)(x-1)^{2}} \equiv \frac{A}{(x+3)}+\frac{B}{(x-1)}+\frac{C}{(x-1)^{2}}[/math]
+ [math]…... (i)[/math]
+উভয়পক্ষকে [math](x+3)(x-1)^{2}[/math]
+ দ্বারা গুণ করে পাই,[math]\mathrm{x} \equiv \mathrm{A}(\mathrm{x}-1)^{2}+\mathrm{B}(\mathrm{x}+3)(\mathrm{x}-\mathrm{1})+\mathrm{C}(\mathrm{x}+3) \ldots \ldots \ldots . . \text { (ii) }[/math]
+যা x এর সকল মানের জন্য সত্য।ii) নং এ'x = 1 বসিয়ে পাই,[math]1=A \times 0+B \times 0+C \times 4.[/math]
+বা, 4C = 1[math]\therefore C=\frac{1}{4}[/math]
+ii) নং এ x 3 বসিয়ে পাই,[math]-3=A \times(-4)^{2}+B \times 0+C \times 0[/math]
+বা, [math]16A = -3[/math]
+ [math]\therefore A=\frac{-3}{16}[/math]
+সমীকরণ (ii) এর উভয়পক্ষের [math]x²[/math]
+ এর সহগ সমীকৃত করে পাই, [math]0=A+B[/math]
+বা, [math]B=A=-\left(-\frac{3}{16}\right)[/math]
+ [math]\therefore \mathrm{B}=\frac{3}{16}[/math]
+সমীকরণ (i) এ A, B ও C এর মান বসিয়ে পাই,[math]\frac{x}{(x+3)(x-1)^{2}}=\frac{-3}{16(x+3)}+\frac{3}{16(x-1)}+\frac{1}{4(x-1)^{2}}[/math]
+ [math]\therefore \frac{x}{B}=\frac{-3}{16(x+3)}+\frac{3}{16(x-1)}+\frac{1}{4(x-1)^{2}}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশে প্রকাশিত রূপ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 704289)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]A(p, q, r)=(p+q+r)(p q+q r+r p)[/math] এবং [math]Q(x)=x^{3}-49 x[/math]
+ক) [math]g(x)=\sqrt{2 x+1}[/math] এর ডোমেন নির্ণয় কর।
+খ) A(p, q, r) = pqr হলে দেখাও যে, [math]\frac{1}{(p+q+r)^{5}}=\frac{1}{p^{5}}+\frac{1}{q^{5}}+\frac{1}{r^{5}}[/math]
+
+Options:
+গ. [math]\frac{x^{3}}{Q(x)}[/math] এর আংশিক ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]g(x)=\sqrt{2 x+1}[/math]
+ ফাংশনটি সংজ্ঞায়িত হবে যদি [math]2x + 1≥0[/math]
+ হয়।বা, [math]2 x \geq-1[/math]
+ [math]\therefore x \geq-\frac{1}{2}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় ডোমেন: [math]x ∈ R[/math]
+ এবং [math]x \geq-\frac{1}{2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A(p, q, r)=(p+q+r)(p q+q r+r p)[/math]
+বা, [math]p q r=p^{2} q+p q^{2}+p q r+p q r+q^{2} r+q r^{2}+r p^{2}+p q r+r^{2} p[/math]
+বা, [math]p^{2} q+p q^{2}+p q r+q^{2} r+r^{2} p+q r^{2}+p^{2} r+p q r=0[/math]
+বা, [math]p q(p+q)+q r(p+q)+r^{2}(p+q)+p r(p+q)=0[/math]
+বা, [math](p+q)\left(p q+q r+r^{2}+p r\right)=0[/math]
+বা, [math](p+q)\{q(p+r)+r(r+p)\}=0[/math]
+বা, [math](p+q)(q+r)(r+p)=0[/math]
+বা, [math]p+q= (0)[/math]
+ অথবা, [math]q+r=0[/math]
+ অথবা [math]r + p = 0[/math]
+ [math]\therefore \mathrm{p}=-\mathrm{q} \quad \quad \therefore \mathrm{q}=-\mathrm{r} \quad \therefore \mathrm{r}=-\mathrm{p}[/math]
+এখন, [math]\frac{1}{(p+q+r)^{3}}=\frac{1}{(p-r+r)^{3}}=\frac{1}{p^{3}} \quad[\because q=-r][/math]
+আবার, [math]\frac{1}{p^{3}}+\frac{1}{q^{3}}+\frac{1}{r^{5}}=\frac{1}{p^{5}}+\frac{1}{(-r)^{5}}+\frac{1}{r^{5}}[\because q=-r][/math]
+ [math]=\frac{1}{p^{5}}-\frac{1}{r^{5}}+\frac{1}{r^{5}}=\frac{1}{p^{5}}[/math]
+ [math]\therefore \frac{1}{(p+q+r)^{5}}=\frac{1}{p^{3}}+\frac{1}{q^{5}}+\frac{1}{r^{5}}[/math]
+ (দেখানো হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]Q(x)=x^{3}-49 x .[/math]
+ [math]\therefore[/math]
+ প্রদত্ত রাশি [math]=\frac{x^{3}}{Q(x)}=\frac{x^{3}}{x^{3}-49 x}[/math]
+ [math]\begin{array}{l}=\frac{x^{2}}{x^{2}-49} \\=\frac{x^{2}-49+49}{x^{2}-49}\end{array}[/math]
+ [math]\begin{array}{l}=1+\frac{49}{x^{2}-49} \\=1+\frac{49}{(x+7)(x-7)}\end{array}[/math]
+ধরি, [math]\frac{49}{(x+7)(x-7)}=\frac{A}{x+7}+\frac{B}{x-7}[/math]
+(i) এর উভয়পক্ষে [math](x + 7) (x - 7)[/math]
+ দ্বারা গুণ করে পাই, বা, [math]49 = A (x - 7)+B(x + 7)................ (ii)[/math]
+(ii) এ [math]x = 7[/math]
+ বসিয়ে পাই, [math]49 = A.0+B(7+7)[/math]
+বা, [math]14B = 49[/math]
+ [math]\therefore B=\frac{7}{2}[/math]
+(ii) এ [math]x = -7[/math]
+ বসিয়ে পাই, [math]49 = A(-7-7) + B.0[/math]
+বা, [math]- 14A = 49[/math]
+ [math]\therefore A=\frac{7}{2}[/math]
+ [math]\therefore \frac{49}{(x+7)(x-7)} \equiv \frac{-\frac{7}{2}}{x+7}+\frac{\frac{7}{2}}{x-7}=\frac{7}{2(x-7)}-\frac{7}{2(x+7)}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় আংশিক ভগ্নাংশ [math]\frac{\mathrm{x}^{3}}{\mathrm{Q}(\mathrm{x})}=1+\frac{49}{(\mathrm{x}+7)(\mathrm{x}-7)}[/math]
+ [math]=1+\frac{7}{2(x-7)}-\frac{7}{2(x+7)} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 704292)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=x^{2}-25[/math] এবং [math]g(y)=y^{3}-y^{2}-14 y+24[/math]
+ক) g(y) এর মাত্রা ও ধ্রুব পদের অনুপাত নির্ণয় কর।
+খ) g(y) = 0 হলে, y এর মান নির্ণয় কর।
+গ) [math]\frac{x^{2}}{f(x)}[/math] কে আংশিক ভগ্নাংশে রূপান্তর কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]g(y)=y^{3}-y^{2}-14 y+24[/math]
+এখানে, g(y) এর মাত্রা = '3এবং ধ্রুব পদ = 24[math]\therefore[/math]
+ g(y) এর মাত্রা ও ধ্রুবপদের অনুপাত= 3:24=1:8 (Ans.)[math]\\[/math]
+ খদেওয়া আছে, g(y) = 0এবং [math]g(y)=y^{3}-y^{2}-14 y+24[/math]
+তাহলে [math]y^{3}-y^{2}-14 y+24=0[/math]
+বা, [math]y^{3}-2 y^{2}+y^{2}-2 y-12 y+24=0[/math]
+বা, [math]y^{2} \cdot(y-2)+y(y-2)-12(y-2)=0[/math]
+বা, [math](y-2)\left(y^{2}+y-12\right)=0[/math]
+বা, [math](y-2)\left(y^{2}+4 y-3 y-12\right)=0[/math]
+ বা, [math](y-2)\{y(y+4)-3(y+4)\}=0[/math]
+ বা, [math](y-2)(y+4)(y-3)=0[/math]
+ [math]\therefore \mathrm{y}=2,3,-4 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, f(x) = x²-25[math]\therefore \frac{x^{2}}{f(x)}=\frac{x^{2}}{x^{2}-25}[/math]
+ [math]=\frac{x^{2}-25+25}{x^{2}-25}[/math]
+ [math]=\frac{x^{2}-25}{x^{2}-25}+\frac{25}{x^{2}-25}[/math]
+ [math]=1+\frac{25}{x^{2}-5^{2}}[/math]
+ [math]=1+\frac{25}{(x+5)(x-5)}[/math]
+ধরি, [math]\frac{25}{(x+5)(x-5)}=\frac{A}{x+5}+\frac{B}{x-5} \cdots \cdots \cdots[/math]
+(i) নং কে [math](x+5) (x5)[/math]
+ দ্বারা গুণ করে পাই,[math]25A(x-5)+B(x + 5) ......... (ii)[/math]
+(ii) নং সমীকরণে x = - 5 বসিয়ে পাই,[math]25A(5-5)+B(-5+5)[/math]
+বা, [math]25 = -10A +0[/math]
+বা, [math]A=-\frac{25}{10}[/math]
+ [math]\therefore A=-\frac{5}{2}[/math]
+আবার, (ii) নং এ [math]x = 5[/math]
+ বসিয়ে পাই, [math]25A(5-5)+B(5+5)[/math]
+বা, [math]25 = 0 + 10B[/math]
+বা, [math]10B = 25[/math]
+বা, [math]B=\frac{25}{10}[/math]
+ [math]\therefore \mathrm{B}=\frac{5}{2}[/math]
+A ও B এর মান (i) নং এ বসিয়ে পাই,[math]\frac{25}{(x+5)(x-5)}=\frac{-\frac{5}{2}}{x+5}+\frac{\frac{5}{2}}{x-5}[/math]
+ [math]\therefore \frac{x^{2}}{f(x)}=\frac{x^{2}}{x^{2}-25}=1-\frac{5}{2(x+5)}+\frac{5}{2(x-5)}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশে প্রকাশিত রূপ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 704295)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{array}{l}\text{(i) } g(x)=\frac{x^{2}}{(x-1)^{2}(x-3)}\\\text{(ii) } p(y)=y^{3}+y^{2}+4 \text{.}\end{array}[/math]
+ক) দেখাও যে, [math]\frac{a}{b}+\frac{b}{c}+\frac{c}{a}[/math] রাশিটি প্রতিসম নয় কিন্তু চক্রক্রমিক।
+খ) p(y) কে (2y + m) এবং (2y + n) দ্বারা ভাগ করলে যদি একই ভাগশেষ থাকে যেখানে [math]m 
+eq n,[/math] তবে দেখাও যে, [math]m^{2}+m n+n^{2}-2 m-2 n=0[/math]
+গ) g(x) কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\frac{a}{b}+\frac{b}{c}+\frac{c}{a}[/math]
+ রাশিটি a, b, c চলকের একটি চক্র ক্রমিক রাশি, কারণ এতে চক্রাকারে a এর পরিবর্তে ৮, ৮ এর পরিবর্তে এবং এবং পরিবর্তে এ বসালে রাশিটি একই থাকে। কিন্তু রাশিটি প্রতিসম নয়। কারণ, রাশিটিতে এ এবং ৮ এর স্থান বিনিময় করলে [math]\frac{\mathrm{b}}{\mathrm{a}}+\frac{\mathrm{a}}{\mathrm{c}}+\frac{\mathrm{c}}{\mathrm{b}}[/math]
+ পাওয়া যায় যা পূর্বের রাশিটি থেকে ভিন্ন।[math]\frac{a}{b}+\frac{b}{c}+\frac{c}{a}[/math]
+ রাশিটি প্রতিসম নয়, কিন্তু চক্রক্রমিক। (দেখানো হলো)[math]\\[/math]
+ খদেওয়া আছে, [math]p(y)=y^{3}+y^{2}+4[/math]
+ [math]\therefore \mathrm{p}(\mathrm{y})[/math]
+ কে (2y + m) দ্বারা ভাগ করলে ভাগশেষ হবে [math]p\left(\frac{-m}{2}\right)[/math]
+ [math]\therefore p\left(\frac{-m}{2}\right)=\left(\frac{-m}{2}\right)^{3}+\left(\frac{-m}{2}\right)^{2}+4[/math]
+আবার, p(y) কে (2y + n) দ্বারা ভাগ করলে ভাগশেষ হবে [math]p\left(\frac{-n}{2}\right)[/math]
+ [math]\therefore p\left(\frac{-n}{2}\right)=\left(\frac{-n}{2}\right)^{3}+\left(\frac{-n}{2}\right)^{2}+4[/math]
+বা, [math]\frac{-m^{3}}{8}+\frac{m^{2}}{4}+4=\frac{-n^{3}}{8}+\frac{n^{2}}{4}+4[/math]
+বা, [math]-m^{3}+2 m^{2}=-n^{3}+2 n^{2}[/math]
+বা, [math]-m^{3}+2 m^{2}+n^{3}-2 n^{2}=0[/math]
+বা, [math]m^{3}-n^{3}-2 m^{2}+2 n^{2}=0[/math]
+বা, [math]m^{3}-n^{3}-2\left(m^{2}-n^{2}\right)=0[/math]
+বা, [math](m-n)\left(m^{2}+m n+n^{2}\right)-2(m+n)(m-n)=0[/math]
+বা, [math](m-n)\left(m^{2}+m n+n^{2}-2 m-2 n\right)=0[/math]
+কিন্তু [math]\mathrm{m}-\mathrm{n} 
+eq 0[\because \mathrm{m} 
+eq \mathrm{n}][/math]
+ [math]\therefore m^{2}+m n+n^{2}-2 m-2 n=0[/math]
+ (দেখানো হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]g(x)=\frac{x^{2}}{(x-1)^{2}(x-3)}[/math]
+ধরি, [math]\frac{x^{2}}{(x-1)^{2}(x-3)} \equiv \frac{A}{x-1}+\frac{B}{(x-1)^{2}}+\frac{C}{x-3} \ldots \ldots \ldots \text { (i) }[/math]
+i) নং এর উভয় পক্ষকে [math](x-1)^{2}(x-3)[/math]
+ দ্বারা গুণ করে পাই,[math]\mathrm{x}^{2}=\mathrm{A}(\mathrm{x}-1)(\mathrm{x}-3)+\mathrm{B}(\mathrm{x}-3)+\mathrm{C}(\mathrm{x}-1)^{2} \ldots \ldots \ldots \text { (ii) }[/math]
+(ii) নং এ x = 1 বসিয়ে পাই,[math]1=\mathrm{A} \cdot 0(-2)+\mathrm{B}(-2)+\mathrm{C} \cdot 0[/math]
+বা, [math]1=-2B[/math]
+ [math]\therefore \mathrm{B}=-\frac{1}{2}[/math]
+আবার, (ii) নং এ x = 3 বসিয়ে পাই,[math]3^{2}=\text { A. } 2 \cdot 0+\text { B. } 0+\text { C. } 2^{2}[/math]
+বা, 9 = 4C[math]\therefore \mathrm{C}=\frac{9}{4}[/math]
+(ii) নং থেকে উভয়পক্ষে [math]x²[/math]
+ এর সহগ সমীকৃত করে পাই,[math]A+C=1[/math]
+বা, [math]A+\frac{9}{4}=1[\because C[/math]
+ এর মান বসিয়ে]বা, [math]\mathrm{A}=1-\frac{9}{4}[/math]
+বা, [math]A=\frac{4-9}{4}[/math]
+বা, [math]\therefore A=\frac{-5}{4}[/math]
+A, B ও C'এর মান (i) নং এ বসিয়ে পাই,[math]\frac{x^{2}}{(x-1)^{2}(x-3)} \equiv \frac{\frac{-5}{4}}{x-1}+\frac{-\frac{1}{2}}{(x-1)^{2}}+\frac{\frac{9}{4}}{x-3}[/math]
+ [math]=\frac{-5}{4(x-1)}-\frac{1}{2(x-1)^{2}}+\frac{9}{4(x-3)}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 704297)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]P(x)=x^{3}-4 x^{2}+x+6[/math]
+ক) 2.102 কে মূলদীয় ভগ্নাংশে রূপান্তর কর।
+খ) যদি P(x) কে x - a এবং x b দ্বারা ভাগ করলে একই ভাগশেষ থাকে যেখানে [math]a 
+eq b[/math] তবে দেখাও যে, [math]a^{2}+a b+b^{2}-4 a-4 b+1=0[/math]
+গ) [math]\frac{x^{2}+5}{P(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ক [math]2.10 \dot{2}=\frac{2102-2}{999}=\frac{2100}{999}=\frac{700}{333} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]P(x)=x^{3}-4 x^{2}+x+6[/math]
+P(x) কে xa এবং ৮ দ্বারা ভাগ করলে ভাগশেষ যথাক্রমে P(a) এবং P(b)[math]\therefore P(a)=a^{3}-4 a^{2}+a+6[/math]
+এবং [math]P(b)=b^{3}-4 b^{2}+b+6[/math]
+শর্তমতে, [math]P(a) = P(b)[/math]
+বা, [math]a^{3}-4 a^{2}+a+6=b^{3}-4 b^{2}+b+6[/math]
+বা, [math]a^{3}-b^{3}-4\left(a^{2}-b^{2}\right)+a-b=0[/math]
+বা, [math](a-b)\left(a^{2}+a b+b^{2}\right)-4(a+b)(a-b)+a-b=0[/math]
+বা, [math](a-b)\left(a^{2}+a b+b^{2}-4 a-4 b+1\right)=0[/math]
+ [math]\therefore a^{2}+a b+b^{2}-4 a-4 b+1=0[\because a 
+eq b][/math]
+ (দেখানো হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]P(x)=x^{3}-4 x^{2}+x+6[/math]
+প্রদত্ত রাশি, [math]\frac{x^{2}+5}{P(x)}=\frac{x^{2}+5}{x^{3}-4 x^{2}+x+6}[/math]
+ [math]=\frac{x^{2}+5}{x^{2}(x+1)-5 x(x+1)+6(x+1)}[/math]
+ [math]=\frac{x^{2}+5}{(x+1)\left(x^{2}-5 x+6\right)}[/math]
+ [math]=\frac{x^{2}+5}{(x+1)(x-2)(x-3)}[/math]
+ধরি, [math]\frac{x^{2}+5}{(x-3)(x-2)(x+1)} \equiv \frac{A}{x+1}+\frac{B}{x-3}+\frac{C}{x-2}[/math]
+(i) এর উভয় পক্ষকে (x-3) (x-2) (x+1) দ্বারা গুণ করে পাই,[math]\begin{aligned}\left(x^{2}+5\right) \equiv A(x-3)(x-2) & +B(x-2)(x+1) \\+ & C(x-3)(x+1)\end{aligned}[/math]
+ii) নং এ x = -1 বসিয়ে পাই,[math](-1)^{2}+5=\mathrm{A}(-1-3)(-1-2)+\mathrm{B} .0+\mathrm{C} .0[/math]
+বা, 6 = A. 12[math]\therefore A=\frac{1}{2}[/math]
+ii) এর উভয়পক্ষে x = 2 বসিয়ে পাই,[math]3^{2}+5=A .0+B(3-2)(3+1)+C .0[/math]
+বা, [math]9=-3C[/math]
+ [math]\therefore \mathrm{C}=-3[/math]
+(ii) এর উভয়পক্ষে x = 3 বসিয়ে পাই,[math]3^{2}+5=\mathrm{A} .0+\mathrm{B}(3-2)(3+1)+\mathrm{C} .0[/math]
+বা, 14 = 4B[math]\therefore B=\frac{7}{2}[/math]
+A, B ও C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{x^{2}+5}{(x-3)(x-2)(x+1)}=\frac{\frac{1}{2}}{x+1}+\frac{\frac{7}{2}}{x-3}+\frac{-3}{x-2}[/math]
+ [math]\therefore \frac{x^{2}+5}{P(x)}=\frac{1}{2(x+1)}+\frac{7}{2(x-3)}-\frac{3}{x-2}[/math]
+যা নির্ণেয় আংশিক - ভগ্নাংশে প্রকাশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 704303)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{array}{l}P(x)=48 x^{4}-4 x^{3}-16 x^{2}+x+1 \\Q(x)=2 x^{3}-x^{2}+2 x-1\end{array}[/math]
+ক) Q(x) কে x + 1 দ্বারা ভাগ করলে ভাগশেষ কত হবে, তা ভাগশেষ উপপাদ্যের সাহায্যে নির্ণয় কর।
+খ) P(x) কে উৎপাদকে বিশ্লেষণ কর।
+গ) [math]\frac{2 x^{2}-3 x+1}{Q(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]Q(x)=2 x^{3}-x^{2}+2 x-1[/math]
+ভাগশেষ উপপাদ্য অনুসারে, [math]Q(x)[/math]
+ কে [math](x + 1)[/math]
+ দ্বারা ভাগ করলে ভাগশেষ হবে [math]Q(-1)[/math]
+ [math]\therefore \mathrm{Q}(-1)=2(-1)^{3}-(-1)^{2}+2(-1)-1[/math]
+ [math]= -2-1-2-1[/math]
+ [math]= - 6 (Ans.)[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]P(x)=48 x^{4}-4 x^{3}-16 x^{2}+x+1[/math]
+ [math]=48 x^{4}+24 x^{3}-28 x^{3}-14 x^{2}-2 x^{2}-x+2 x+1[/math]
+ [math]=24 x^{3}(2 x+1)-14 x^{2}(2 x+1)-x(2 x+1)+1(2 x+1)[/math]
+ [math]=(2 x+1)\left(24 x^{3}-14 x^{2}-x+1\right)[/math]
+ [math]=(2 x+1)\left(24 x^{3}-12 x^{2}-2 x^{2}+x-2 x+1\right)[/math]
+ [math]=(2 x+1)\left\{12 x^{2}(2 x-1)-x(2 x-1)-1(2 x-1)\right\}[/math]
+ [math]=(2 x+1)(2 x-1)\left(12 x^{2}-x-1\right)[/math]
+ [math]=(2 x+1)(2 x-1)\left(12 x^{2}-4 x+3 x-1\right)[/math]
+ [math]=(2 x+1)(2 x-1)\{4 x(3 x-1)+1(3 x-1)\}[/math]
+ [math]=(2 x+1)(2 x-1)(3 x-1)(4 x+1) \text { (Ans,) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]Q(x)=2 x^{3}-x^{2}+2 x-1[/math]
+ [math]\therefore[/math]
+ প্রদত্ত ভগ্নাংশ [math]\begin{array}{l}=\frac{2 x^{2}-3 x+1}{2 x^{3}-x^{2}+2 x-1} \\=\frac{2 x^{2}-2 x-x+1}{2 x^{3}-x^{2}+2 x-1}\end{array}[/math]
+ [math]\begin{array}{l}=\frac{2 x(x-1)-1(x-1)}{x^{2}(2 x-1)+1(2 x-1)} \\=\frac{(x-1)(2 x-1)}{(2 x-1)\left(x^{2}+1\right)}\end{array}[/math]
+ [math]=\frac{x-1}{x^{2}+1} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 704305)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=x^{3}+2 x^{2}-15 x[/math] একটি বহুপদী।
+ক) [math]x^{3}+a x^{2}+2 x+1[/math] বহুপদীর একটি উৎপাদক (x + 1) হলে a এর মান নির্ণয় কর।
+খ) [math]f(x)[/math] কে [math](x-m)[/math] এবং [math](xn)[/math] দ্বারা ভাগ করলে যদি একই ভাগশেষ থাকে যেখানে [math]m 
+eq n[/math] তবে দেখাও যে, [math]m^{2}+m n+n^{2}+2 m+2 n-15=0[/math]
+গ) [math]\frac{(x+2)}{f(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কধরি, [math]p(x)=x^{3}+a x^{2}+2 x+1[/math]
+ [math]\therefore(\mathrm{x}+1), \mathrm{p}(\mathrm{x})[/math]
+ বহুপদীর একটি উৎপাদক হবে যদি [math]p(-1) = 0[/math]
+ শর্তমতে, [math]p(-1) = 0[/math]
+বা, [math](-1)^{3}+a \cdot(-1)^{2}+2 \cdot(-1)+1=0[/math]
+বা, [math]-1+a2+1=0[/math]
+ [math]\therefore \mathrm{a}=2 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]f(x)=x^{3}+2 x^{2}-15 x[/math]
+ [math]f(x)[/math]
+ কে [math](xm)[/math]
+ এবং [math](xn)[/math]
+ দ্বারা ভাগ করলে ভাগশেষ যথাক্রমে [math]f(m)[/math]
+ এবং [math]f(n).[/math]
+শর্তমতে, [math]f(m) = f(n)[/math]
+বা, [math]m^{3}+2 m^{2}-15 m=n^{3}+2 n^{2}-15 n[/math]
+বা, [math]m^{3}-n^{3}+2 m^{2}-2 n^{2}-15 m+15 n=0[/math]
+বা, [math](m-n)\left(m^{2}+m n+n^{2}\right)+2(m+n)(m-n)-15(m-n)=0[/math]
+বা, [math](m-n)\left(m^{2}+m n+n^{2}+2 m+2 n-15\right)=0[/math]
+[যেহেতু mn, সেহেতু m-n≠0][math]\therefore m^{2}+m n+n^{2}+2 m+2 n-15=0[/math]
+ (দেখানো হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]f(x)=x^{3}+2 x^{2}-15 x=x\left(x^{2}+2 x-15\right)[/math]
+ [math]\therefore \frac{x+2}{f(x)}=\frac{x+2}{x\left(x^{2}+2 x-15\right)}=\frac{x+2}{x\left(x^{2}+5 x-3 x-15\right)}[/math]
+ [math]\begin{array}{l}=\frac{x+2}{x\{x(x+5)-3(x+5)\}} \\=\frac{x+2}{x(x+5)(x-3)}\end{array}[/math]
+ধরি, [math]\frac{x+2}{x(x+5)(x-3)}=\frac{A}{x}+\frac{B}{x+5}+\frac{C}{x-3}[/math]
+(i) নং এর উভয়পক্ষকে x(x + 5) (x-3) দ্বারা গুণ করে পাই, [math]x + 2 = A(x + 5) (x-3) + Bx(x-3) + Cx(x + 5) ......(ii)[/math]
+(ii) নং এর উভয়পক্ষ [math]x[/math]
+-এর সকল মানের জন্য সত্য।(ii) নং এর উভয়পক্ষে [math]x = 0[/math]
+ বসিয়ে পাই, [math]0+2A(0+5) (0-3)+B.0+ C.0[/math]
+বা, [math]-15 A=2 \therefore A=\frac{-2}{15}[/math]
+(ii) নং এর উভয়পক্ষে [math]x = 3[/math]
+ বসিয়ে পাই, [math]3+2A.0+ B.0+C.3(3+5)[/math]
+বা, [math]5=24 C \therefore C=\frac{5}{24}[/math]
+এখন, A, B ও C এর মান (i) নং-এ বসিয়ে পাই[math]\frac{x+2}{x(x+5)(x-3)}=-\frac{2}{15 x}-\frac{3}{40(x+5)}+\frac{5}{24(x-3)}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশে প্রকাশিত রূপ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 704306)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{array}{l}P(x)=2 x^{3}+x^{2}-18 x+10 a \\Q(y)=y^{3}+1\end{array}[/math]
+ক) [math]2x²+3x²-11x-6[/math] কে উৎপাদকে বিশ্লেষণ কর।
+খ) [math]P(x)[/math] এর একটি উৎপাদক [math](2x + 1)[/math] হলে, [math]a[/math] এর মান নির্ণয় কর।
+গ) কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\begin{array}{l}2 x^{3}+3 x^{2}-11 x-6 \\=2 x^{3}-4 x^{2}+7 x^{2}-14 x+3 x-6\end{array}[/math]
+ [math]\begin{array}{l}=(x-2)\left(2 x^{2}+7 x+3\right) \\=(x-2)\left(2 x^{2}+6 x+x+3\right)\end{array}[/math]
+ [math]\begin{array}{l}=(x-2)\{2 x(x+3)+1(x+3)\} \\=(x-2)(x+3)(2 x+1) \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ খ [math]P(x)=2 x^{3}+x^{2}-18 x+10 a[/math]
+যেহেতু [math](2x + 1), P(x)[/math]
+ এর একটি উৎপাদক সুতরাং, [math]P\left(-\frac{1}{2}\right)=0[/math]
+বা, [math]2\left(-\frac{1}{2}\right)^{3}+\left(-\frac{1}{2}\right)^{2}-18\left(-\frac{1}{2}\right)+10 a=0[/math]
+বা, [math]-\frac{2}{8}+\frac{1}{4}+9+10 a=0[/math]
+বা, [math]-\frac{1}{4}+\frac{1}{4}+9+10 a=0[/math]
+বা, [math]10 a=-9 \therefore a=-\frac{9}{10} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ [math]Q(y)=y^{3}+1[/math]
+প্রদত্ত রাশি, [math]\frac{2 y^{\prime}}{Q(y)}=\frac{2 y}{y^{3}+1}=\frac{2 y}{(y+1)\left(y^{2}-y+1\right)}[/math]
+ধরি, [math]\frac{2 y}{(y+1)\left(y^{2}-y+1\right)}=\frac{A}{y+1}+\frac{B y+C}{y^{2}-y+1}[/math]
+(i) নং এর উভয়পক্ষকে [math](y+1)\left(y^{2}-y+1\right)[/math]
+ দ্বারা গুণ করে পাই,[math]2 \mathrm{y} \equiv \mathrm{A}\left(\mathrm{y}^{2}-\mathrm{y}+\mathrm{i}\right)+(\mathrm{By}+\mathrm{C})(\mathrm{y}+1) \ldots \ldots . . \text { (ii) }[/math]
+(ii) নং এ y = -1 বসিয়ে পাই,[math]\text { 2. }(-1)=\mathrm{A}\left\{(-1)^{2}-(-1)+1\right\}+\{\text { B. }(-1)+\mathrm{C}\}(-1+1)[/math]
+বা, [math]-2 = A (1+1+1)+0[/math]
+বা, [math]A=-\frac{2}{3}[/math]
+(ii) নং এর [math]y^2[/math]
+ ও [math]y[/math]
+ এর সহগ সমীকৃত করে পাই,[math]A+B=[/math]
+ বা, [math]-\frac{2}{3}+\mathrm{B}=0 \quad \therefore \mathrm{B}=\frac{2}{3}[/math]
+এবং [math](-A+B+C) = 2[/math]
+বা, [math]-\left(-\frac{2}{3}\right)+\frac{2}{3}+C=2[/math]
+বা, [math]\frac{2}{3}+\frac{2}{3}+C=2[/math]
+বা, [math]\mathrm{C}=2-\frac{2}{3}-\frac{2}{3}[/math]
+বা, [math]C=\frac{6-2-2}{3} \quad \therefore C=\frac{2}{3}[/math]
+(i) নং এ A, B ও C এর মান বসিয়ে পাই,[math]\frac{2 y}{(y+1)\left(y^{2}-y+1\right)}=\frac{\frac{-2}{3}}{y+1}+\frac{\frac{2}{3} y+\frac{2}{3}}{y^{2}-y+1}=\frac{2}{3}\left(\frac{y+1}{y^{2}-y+1}-\frac{1}{y+1}\right)[/math]
+ [math]\therefore \frac{2 y}{Q(y)}=\frac{2}{3}\left(\frac{y+1}{y^{2}-y+1}-\frac{1}{y+1}\right)[/math]
+ নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 704323)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } F(x)=36 x^{2}-K x-5[/math] এবং [math]Q(x)=x^{3}-6 x^{2}+11 x-6[/math] [math]\text { (ii) } \frac{p}{x^{2}-y z}=\frac{q}{y^{2}-z x}=\frac{r}{z^{2}-x y} 
+eq 0 \text {. }[/math]
+ক) [math]F(x)[/math] এর একটি উৎপাদক [math](2x-1)[/math] হলে, [math]K[/math] এর মান নির্ণয় কর।
+খ) [math]\frac{x^{3}}{Q(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+গ) (ii) নং হতে দেখাও যে, [math](p+q+r)(x+y+z)=p x+q y+r z[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]F(x)=36 x^{2}-K x-5[/math]
+যেহেতু [math](2x – 1), F(x)[/math]
+ এর একটি উৎপাদক[math]\therefore F\left(\frac{1}{2}\right)=0[/math]
+এখানে, [math]F\left(\frac{1}{2}\right)=36\left(\frac{1}{2}\right)^{2}-K\left(\frac{1}{2}\right)-5[/math]
+বা, [math]0=36 \cdot \frac{1}{4}-\frac{K}{2}-5[/math]
+ বা, [math]0=9-\frac{K}{2}-5[/math]
+বা, [math]\frac{K}{2}=4 \quad \therefore \mathrm{K}=8 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]\begin{aligned}Q(x) & =x^{3}-6 x^{2}+11 x-6=x^{3}-x^{2}-5 x^{2}+5 x+6 x-6 \\& =x^{2}(x-1)-5 x(x-1)+6(x-1)\end{aligned}[/math]
+ [math]\begin{array}{l}=(x-1)\left(x^{2}-5 x+6\right)=(x-1)(x-2)(x-3) \\\therefore \frac{x^{3}}{Q(x)}=\frac{x^{3}}{(x-1)(x-2)(x-3)} \\\end{array}[/math]
+ধরি, [math]\frac{x}{(x-1)(x-2)(x-3)} \equiv 1+\frac{A}{x-1}+\frac{B}{x-2}+\frac{C}{x-3} \cdots \cdots[/math]
+(i) এর উভয়পক্ষকে (x-1) (x-2) (x-3) দ্বারা গুণ করে পাই,[math]\begin{aligned}x^{3} \equiv(x-1) & (x-2)(x-3)+A(x-2)(x-3) \\& +B(x-1)(x-3)+C(x-1)(x-2)\end{aligned}[/math]
+(ii) নং এ [math]x = 1[/math]
+ বসিয়ে পাই, [math]1 = A(-1) (-2)[/math]
+ বা, [math]A=\frac{1}{2}[/math]
+(ii) নং এ [math]x = 2[/math]
+ বসিয়ে পাই, [math]8 = B(1) (1)[/math]
+ বা, [math]B=-8[/math]
+(ii) নং এ [math]x = 3[/math]
+ বসিয়ে পাই, [math]27= C(2) (1)[/math]
+ বা [math]C=\frac{27}{2}[/math]
+এখন, A,.B এবং C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{x^{3}}{(x-1)(x-2)(x-3)}=1+\frac{1}{2(x-1)} \frac{8}{(x-2)}+\frac{27}{2(x-3)}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)[math]\\[/math]
+ গধরি, [math]\frac{p}{x^{2}-y z}=\frac{q}{y^{2}-z x}=\frac{r}{z^{2}-x y}=k[/math]
+ [math]\therefore p=k^{\prime}\left(x^{2}-y z\right)[/math]
+ [math]q=k\left(y^{2}-z x\right) \ldots \ldots \ldots \text { (ii) }[/math]
+ [math]\mathrm{r}=\mathrm{k}\left(\mathrm{z}^{2}-x y\right) \ldots \ldots \ldots[/math]
+বামপক্ষ [math]= (p+q+r) (x+y+z)[/math]
+ [math]=\left\{k\left(x^{2}-y z\right)+k\left(y^{2}-z x\right)+k\left(z^{2}-x y\right)\right\}(x+y+z)[/math]
+ [math]\begin{array}{l}=k(x+y+z)\left(x^{2}+y^{2}+z^{2}-x y-y z-z x\right) \\=k\left(x^{3}+y^{3}+z^{3}-3 x y z\right)\end{array}[/math]
+ডানপক্ষ [math]= px + qy + rz[/math]
+ [math]=k\left(x^{2}-y z\right) x+k\left(y^{2}-z x\right) y+k\left(z^{2}-x y\right) z[/math]
+ [math]=k\left(x^{3}-x y z+y^{3}-x y z+z^{3}-x y z\right)[/math]
+ [math]=k\left(x^{3}+y^{3}+z^{3}-3 x y z\right)[/math]
+ [math]\therefore(p+q+r)(x+y+z)=p x+q y+r z[/math]
+ (দেখানো হলো)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 704324)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]P(x)=x^{3}+4 x^{2}+x-6[/math]
+ক) দেখাও যে, (x + 2), P(x) বহুপদীর একটি উৎপাদক।
+খ) (x-m) ও (x-1) উভয়ই P(x) এর উৎপাদক হলে প্রমাণ করো, [math]m^{2}+m n+n^{2}+4 m+4 n+1=0,[/math] যেখানে [math]m 
+eq n .[/math]
+গ) [math]\frac{x^{3}}{P(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]P(x)=x^{3}+4 x^{2}+x-6[/math]
+ [math](x+2), P(x)[/math]
+ এর একটি উৎপাদক হবে যদি [math]P(-2) = 0[/math]
+ হয়।[math]\begin{aligned}P(-2) & =(-2)^{3}+4 \cdot(-2)^{2}-2-6=-8+16-2-6 \\& =16-16=0\end{aligned}[/math]
+ [math]\therefore(x+2), P(x)[/math]
+ বহুপদীর একটি উৎপাদক (দেখানো হলো)[math]\\[/math]
+ খ [math](x-m), P(x)[/math]
+ এর উৎপাদক হওয়ায়,[math]P(m)=m^{3}+4 m^{2}+m-6=0[/math]
+এবং [math](xn), P(x)[/math]
+ এর উৎপাদক হওয়ায়,[math]\begin{array}{l}P(n)=n^{3}+4 n^{2}+n-6=0 \\\therefore P(m)=P(n)\end{array}[/math]
+বা, [math]m^{3}+4 m^{2}+m-6=n^{3}+4 n^{2}+n-6[/math]
+বা, [math]m^{3}-n^{3}+4 m^{2}-4 n^{2}+m-n=0[/math]
+বা, [math](m-n)\left(m^{2}+m n+n^{2}\right)+4(m+n)(m-n)+(m-n)=0 .[/math]
+বা, [math](m-n)\left(m^{2}+m n+n^{2}+4 m+4 n+1\right)=0 .[/math]
+ [math]\therefore m^{2}+m n+n^{2}+4 m+4 n+1=0[\because m 
+eq n][/math]
+ (প্রমাণিত)[math]\\[/math]
+ গ'ক' 'ক' হতে পাই, (x + 2), P(x) এর একটি উৎপাদক।[math]\begin{aligned}\therefore P(x) & =x^{3}+4 x^{2}+x-6=x^{2}(x+2)+2 x(x+2)-3(x+2) \\& =(x+2)\left(x^{2}+2 x-3\right)\end{aligned}[/math]
+ [math]=(x+2)\left(x^{2}+3 x-x-3\right)=(x+2)(x+3)(x-1)[/math]
+এখন, [math]\frac{x^{3}}{P(x)}=\frac{x^{3}}{(x+2)(x+3)(x-1)}[/math]
+ধরি, [math]\frac{x^{3}}{(x+2)(x+3)(x-1)}=1+\frac{A}{x+2}+\frac{B}{x+3}+\frac{C}{x-1} \ldots \ldots \text { (i) }[/math]
+(i) এর উভয়পক্ষকে [math](x + 2) (x+3) (x-1)[/math]
+ দ্বারা গুণ করে পাই,[math]\begin{array}{r}\mathrm{x}^{3}=(\mathrm{x}+2)(\mathrm{x}+3)(\mathrm{x}-1)+\mathrm{A}(\mathrm{x}+3)(\mathrm{x}-1)+\mathrm{B}(\mathrm{x}+2)(\mathrm{x}-1) \\+\mathrm{C}(\mathrm{x}+2)(\mathrm{x}+3) \ldots \ldots \ldots \text { (ii) }\end{array}[/math]
+(ii) নং এ [math]x=-2[/math]
+ বসিয়ে পাই,[math](-2)^{3}=0+A(-2+3)(-2-1)+0+0[/math]
+বা, [math]-8=-3 A \therefore A=\frac{8}{3}[/math]
+(ii) নং এ [math]x = -3[/math]
+ বসিয়ে পাই, [math](-3)^{3}=\mathrm{B}(-3+2)(-3-1)[/math]
+বা, [math]27=4 B \quad \therefore B=\frac{-27}{4}[/math]
+(ii) নং এ x = 1 বসিয়ে পাই, [math](1)^{3}=C(1+2)(1+3)[/math]
+বা,, [math]1=12 \mathrm{C} \quad \therefore \mathrm{C}=\frac{1}{12}[/math]
+এখন, A, B, C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{x^{3}}{(x+2)(x+3)(x-1)}=1+\frac{8}{3(x+2)}-\frac{27}{4(x+3)}+\frac{1}{12(x-1)}[/math]
+যা নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 704325)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]P(y)=y^{3}-y^{2}-10 y-8 \text { এবং } Q(a)=a^{3}+a^{2}-6 a[/math] দুইটি বীজগণিতীয় রাশি।
+ক) P(y) কেy+5 দ্বারা ভাগ করলে ভাগশেষ কত হবে তা নির্ণয় করো।
+খ) যদি P(y) কেy-a এবং y b দ্বারা ভাগ করলে একই - ভাগশেষ থাকে যেখানে [math]a 
+eq b[/math] তবে দেখাও যে, [math]a^{2}+b^{2}+a b-a-b-10=0 .[/math]
+গ) [math]\frac{a^{2}+a-1}{Q(a)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]P(y)=y^{3}-y^{2}-10 y-8[/math]
+ [math]P(y)[/math]
+ কে [math](y + 5)[/math]
+দ্বারা ভাগ করলে ভাগশেষ হবে [math]P(-5)[/math]
+ [math]\begin{aligned}\therefore P(-5) & =(-5)^{3}-(-5)^{2}-10(-5)-8 \\& =(-125-25+50-8=-108 \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+ খ [math]P(y)[/math]
+ কে [math](ya)[/math]
+ এবং [math](y-b)[/math]
+ দ্বারা ভাগ করলে যদি একই - ভাগশেষ থাকে তবে P(a) = P(b) হবে'।[math]\therefore a^{3}-a^{2}-10 a-8=b^{3}-b^{2}-70 b-8[/math]
+বা, [math]a^{3}-b^{3}-\left(a^{2}-b^{2}\right)-10 a+10 b=0[/math]
+বা, [math](a-b)\left(a^{2}+a b+b^{2}\right)-(a+b)(a-b)-10(a-b)=0[/math]
+বা, [math](a-b)\left(a^{2}+a b+b^{2}-a-b-10\right)=0[/math]
+বা, [math]a^{2}+a b+b^{2}-a-b-10=0 ;[\because a 
+eq b][/math]
+ [math]\therefore \mathrm{a}^{2}+\mathrm{b}^{2}+\mathrm{ab}-\mathrm{a}-\mathrm{b}-10=0[/math]
+ (দেখানো হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]Q(a)=a^{3}+a^{2}-6 a[/math]
+Q(a) কে উৎপাদকে বিশ্লেষণ করে পাই,[math]\begin{aligned}\therefore Q(a)= & a^{3}+a^{2}-6 a=a\left(a^{2}+a-6\right)=a\left(a^{2}+3 a-2 a-6\right) \\& =a\{a(a+3)-2(a+3)\}=a(a+3)(a-2)\end{aligned}[/math]
+প্রদত্ত রাশি [math]=\frac{a^{2}+a-1}{a^{3}+a^{2}-6 a}=\frac{a^{2}+a-1}{a(a-2)(a+3)}[/math]
+ধরি, [math]\frac{a^{2}+a-1}{a(a-2)(a+3)}=\frac{A}{a}+\frac{B}{a-2}+\frac{C}{a+3} \ldots \ldots . \text { (i) }[/math]
+উভয়পক্ষকে [math]a(a-2) (a + 3)[/math]
+ দ্বারা গুণ করে পাই,[math]a^{2}+a-1 \equiv A(a-2)(a+3)+B a(a+3)+C a(a-2)[/math]
+(ii) নং এ [math]a = 0[/math]
+ বসিয়ে পাই, [math]-1 = A. (-2).3[/math]
+ বা, [math]-6A =-1[/math]
+ [math]\therefore A=\frac{1}{6} \text {. }[/math]
+(ii) নং এ [math]a = 2[/math]
+ বসিয়ে পাই, [math]2^{2}+2-1=0+\text { B. } 2 \cdot(2+3)+0[/math]
+(ii) নং এ [math]a = 3[/math]
+ বসিয়ে পাই,[math]10 \mathrm{~B}=5 \therefore \mathrm{B}=\frac{1}{2}[/math]
+বা, [math](-3)^{2}+(-3)^{\prime}-1=0+0+C(-3)(-3-2)[/math]
+বা, [math]15 C=5 \therefore C=\frac{1}{3}[/math]
+A, B ও C এর মান (i) নং এ বসিয়ে পাই,[math]\frac{a^{2}+a-1}{a(a-2)(a+3)}=\frac{\frac{1}{6}}{a}+\frac{\frac{1}{2}}{a-2}+\frac{\frac{1}{3}}{a+3}=\frac{1}{6 a}+\frac{1}{2(a-2)}+\frac{1}{3(a+3)}[/math]
+যা আংশিক ভগ্নাংশে প্রকাশিত রূপ। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 704326)
+--------------------------------------------------------------------------------
+Type: Gap Filling | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]P(x)=4 x^{3}-4 C x^{2}-\frac{C}{3} x+C, x[/math] এর একটি বহুপদী ফাংশন এবং C একটি ধ্রুবক।
+ক) [math]f(x) = 4x³-4x²-9x + 9[/math] ফাংশনের জন্য [math]f(-1)[/math] এবং [math](2)[/math] কত?
+খ) [math]C[/math] এর মান কত হলে [math]P(x), (2x-1)[/math] দ্বারা বিভাজ্য হবে? [math]P(x)[/math] এর অন্যান্য উৎপাদকগুলো বের কর।
+গ) [math]C = 3[/math] এর ক্ষেত্রে [math]\frac{P(1)}{P(x)}[/math] কে আংশিক ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=4 x^{3}-4 x^{2}-9 x+9[/math]
+ [math]\begin{aligned}\therefore \mathrm{f}(-1) & =4(-1)^{3}-4(-1)^{2}-9(-1)+9 \\& =-4-4+9+9=10 \text { (Ans.) }\end{aligned}[/math]
+ [math]\begin{aligned}\therefore f(2) & =4.2^{3}-4.2^{2}-9.2+9 \\& =4.8-4.4-18+9=32-16-9=7 \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]P(x)=4 x^{3}-4 C x^{2}-\frac{C}{3} x+C[/math]
+ [math]P(x), (2x – 1)[/math]
+ দ্বারা বিভাজ্য হলে [math]P\left(\frac{1}{2}\right)=0[/math]
+এখন, [math]P\left(\frac{1}{2}\right)=4\left(\frac{1}{2}\right)^{3}-4 C\left(\frac{1}{2}\right)^{2}-\frac{C}{3}\left(\frac{1}{2}\right)+C[/math]
+ [math]0=4 \cdot \frac{1}{8}-4 C \cdot \frac{1}{4}-\frac{C}{6}+C[/math]
+ এবং [math]0=\frac{1}{2}-C-\frac{C}{6}+C[/math]
+বা, [math]=4 \frac{1}{8}-4 C \cdot \frac{1}{4}-\frac{C}{6}+C[/math]
+বা, [math]0=\frac{1}{2}-C-\frac{C}{6}+C[/math]
+বা, [math]0=\frac{1}{2}-\frac{C}{6}[/math]
+বা, [math]\frac{C}{6}=\frac{1}{2}=[/math]
+বা, [math]C=6 \times \frac{1}{2} \therefore C=3[/math]
+অর্থাৎ, [math]C = 3[/math]
+ হলে, [math]P(x), (2x-1[/math]
+) দ্বারা বিভাজ্য হবে। (Ans.)[math]C = 3[/math]
+ হলে, [math]P(x) =[/math]
+ [math]P(x)=4 x^{3}-4.3 x^{2}-\frac{3}{3} x+3[/math]
+ [math]\therefore P(x)=4 x^{3}-12 x^{2}-x+3[/math]
+ [math]\begin{array}{l}=4 x^{3}-2 x^{2}-10 x^{2}+5 x-6 x+3 \\=2 x^{2}(2 x-1)-5 x(2 x-1)-3(2 x-1)\end{array}[/math]
+ [math]\begin{array}{l}=(2 x-1)\left(2 x^{2}-5 x-3\right) \\=(2 x-1)\left(2 x^{2}-6 x+x3\right)\end{array}[/math]
+ [math]\begin{array}{l}=(2 x-1)\{2 x(x-3)+1(x-3)\} \\=(2 x-1)(2 x+1)(x-3)\end{array}[/math]
+ [math]\therefore[/math]
+ [math]P(x)[/math]
+ এর অন্যান্য উৎপাদকগুলো [math](2x+1)[/math]
+ এবং [math](x - 3)[/math]
+ ( Ans.)[math]\\[/math]
+ গদেওয়া আছে, [math]P(x)=4 x^{3}-4 C x^{2}-\frac{C}{3} x+C[/math]
+ [math]C = 3[/math]
+ এর ক্ষেত্রে, [math]P(x)=4 x^{3}-12 x^{2}-x+3[/math]
+ [math]=(2x-1) (2x+1) (x-3)[/math]
+ ['খ' হতে][math]\therefore P(1)=4.1^{3}-12.1^{2}-1+3=-6[/math]
+ [math]\therefore[/math]
+ প্রদত্ত রাশি: [math]\frac{P(1)}{P(x)}=\frac{-6}{4 x^{3}-12 x^{2}-x+3}[/math]
+ [math]=\frac{-6}{(2 x-1)(2 x+1)(x-3)}[/math]
+বা, [math]\frac{-6}{(2 x-1)(2 x+1)(x-3)} \equiv \frac{A}{2 x-1}+\frac{B}{2 x+1}+\frac{C}{x-3}[/math]
+ ... ... (i)বা, [math]\begin{aligned}-6 \equiv & \mathrm{A}(2 \mathrm{x}+1)(\mathrm{x}-3)+\mathrm{B}(2 \mathrm{x}-1)(\mathrm{x}-3)+\mathrm{C}(2 \mathrm{x}-1) \\& (2 \mathrm{x}+1) \quad \ldots \ldots \text { (ii). }\end{aligned}[/math]
+ [math]x=\frac{1}{2}[/math]
+ হলে (ii) নং হতে পাই,[math]-6=A\left(2 \cdot \frac{1}{2}+1\right)\left(\frac{1}{2}-3\right)+B \cdot 0+C .0[/math]
+বা, [math]-6=A \cdot 2\left(\frac{-5}{2}\right) \therefore A=\frac{6}{5}[/math]
+ [math]x=-\frac{1}{2}[/math]
+ হলে (ii) নং হতে পাই,[math]-6=A .0+B\left\{2\left(-\frac{1}{2}\right)-1\right\}\left(-\frac{1}{2}-3\right)+C .0[/math]
+বা, [math]-6=B(-2)\left(\frac{-7}{2}\right) \therefore B=\frac{-6}{7}[/math]
+ [math]x=3[/math]
+ হলে (ii) নং হতে পাই,[math]-6=A .0+B .0+C(2.3-1)(2.3+1)[/math]
+বা, [math]-6=C .5,7 \quad \therefore C=\frac{-6}{35}[/math]
+ [math]A, B[/math]
+ ও [math]C[/math]
+ এর মান (i) নং এ বসিয়ে পাই[math]\frac{-6}{(2 x-1)(2 x+1)(x-3)} \equiv \frac{\frac{6}{5}}{2 x-1}+\frac{\frac{-6}{7}}{2 x+1}+\frac{\frac{-6}{35}}{x-3}[/math]
+ [math]\therefore \frac{P(1)}{P(x)}=\frac{6}{5(2 x-1)}-\frac{6}{7(2 x+1)}-\frac{6}{35(x-3)} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+

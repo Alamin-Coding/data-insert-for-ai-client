@@ -1,0 +1,741 @@
+================================================================================
+Question #1 (ID: 774418)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ম. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+3.27n=9n+33.27n=9n+33.27^{\mathrm{n}}=9^{\mathrm{n}+3} হলে, n এর মান কত?
+
+Options:
+ক. $\frac{3}{2}$
+খ. $\frac{9}{3}$
+গ. 5
+ঘ. 7
+
+
+Correct Answer: গ
+
+Solution:
+$3.27^n=9^{n+3}$
+বা, $3 \cdot\left(3^3\right)^n=\left(3^2\right)^{n+3}$
+বা, $3 \cdot 3^{3 n}=2^{2 n+6}$
+বা, $3^{1+3 n}=3^{2 n+6}$
+বা, $1+3 n=2 n+6$
+বা, $3 n-2 n=6-1 \quad \therefore n=5$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 774430)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+a4=b3=c2=64 হলে- a4=b3=c2=64 হলে-  
+a^4=b^3=c^2=64 \text { হলে- } 
+
+
+i. a=±2√2a=±22 \mathrm{a}= \pm 2 \sqrt{2}
+
+ii. b=±4b=±4b= \pm 4
+
+iii. c=±8c=±8c= \pm 8
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: খ
+
+Solution:
+দেওয়া আছে, $\mathrm{a}^4=\mathrm{b}^3=\mathrm{c}^2=64$
+$\therefore$ (i) $\mathrm{a}^4=64$
+বা, $\left(a^2\right)^2=8^2$
+বা, $a^2=8$
+বা, $a= \pm \sqrt{8}= \pm 2 \sqrt{2}$
+(ii) $b^3=64=4^3$
+$\therefore \quad b=4$
+(iii) $\mathrm{c}^2=64$
+বা, $c= \pm \sqrt{64}= \pm 8$
+$\therefore \quad \mathrm{i}$ ও iii নং সঠিক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 774429)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+(1+1−x3x3)−1=(1+1−x3x3)−1=\left(1+\frac{1-x^3}{x^3}\right)^{-1}= কত?
+
+Options:
+ক. 1
+খ. 2x<sup>3</sup>
+গ. x<sup>3</sup>
+ঘ. $\frac{1}{x^3}$
+
+
+Correct Answer: গ
+
+Solution:
+$\left(1+\frac{1-x^3}{x^3}\right)^{-1}=\left(\frac{x^3+1-x^3}{x^3}\right)^{-1}=\left(\frac{1}{x^3}\right)^{-1}=x^3$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 774428)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: হলি ক্রস উচ্চ বালিকা বিদ্যালয়, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+16√x11√(x)7√x6x11(x)7x616\sqrt[16]{x^{11} \sqrt{(x)^7 \sqrt{x^6}}} এর মান নিচের কোনটি?
+
+Options:
+ক. x<sup>8</sup>
+খ. x<sup>4</sup>
+গ. x
+ঘ. 1
+
+
+Correct Answer: গ
+
+Solution:
+$\sqrt[16]{x^{11} \sqrt{(x)^7 \sqrt{x^6}}}=\sqrt[16]{x^{11} \sqrt{x^7 \sqrt{\left(x^3\right)^2}}}$
+$=\sqrt[16]{x^{11} \sqrt{x^7 \cdot x^3}}=\sqrt[16]{x^{11} \sqrt{x^{10}}}\\=\sqrt[16]{x^{11} \cdot x^5}=\sqrt[16]{x^{16}}=x$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 774427)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+16√x11√x8⋅x2x11x8⋅x216\sqrt[16]{x^{11} \sqrt{x^8 \cdot x^2}} এর মান কত?
+
+Options:
+ক. x<sup>16</sup>
+খ. x<sup>8</sup>
+গ. x<sup>2</sup>
+ঘ. x
+
+
+Correct Answer: ঘ
+
+Solution:
+$\sqrt[16]{x^{11} \sqrt{x^8 \cdot x^2}}$ $=\sqrt[16]{x^{11} \sqrt{x^{10}}}=\sqrt[16]{x^{11} \cdot x^5}=\sqrt[16]{x^{16}}=\left(x^{16}\right)^{\frac{1}{16}}=x$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 774426)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+px=qy=r2px=qy=r2p^x=q^y=r^2 এবং q2=prq2=prq^2=p r হলে, নিচের কোনটি সঠিক?
+
+Options:
+ক. $\frac{1}{x}+\frac{1}{z}=\frac{y}{2}$
+খ. $\frac{1}{x}+\frac{1}{y}=\frac{2}{z}$
+গ. $\frac{1}{x}+\frac{1}{z}=\frac{2}{y}$
+ঘ. $\frac{1}{x}+\frac{1}{z}=\frac{1}{y}$
+
+
+Correct Answer: গ
+
+Solution:
+ধরি, $p^x=q^y=r^2=k$
+$
+\begin{aligned}
+&amp; \therefore \mathrm{p}=\mathrm{k}^{\frac{1}{\mathrm{x}}}, \mathrm{q}=\mathrm{k}^{\frac{1}{\mathrm{y}}}, \mathrm{r}=\mathrm{k}^{\frac{1}{\mathrm{z}}} \\
+&amp; \therefore \mathrm{q}^2=\mathrm{pr} \quad \text { বা, } \mathrm{q}^2=\mathrm{k}^{\frac{1}{\mathrm{x}}} \cdot \mathrm{k}^{\frac{1}{\mathrm{z}}}
+\end{aligned}
+$
+বা, $\left(k^{\frac{1}{y}}\right)^2=k^{\frac{1}{x}+\frac{1}{z}} \cdot$ বা, $k^{\frac{2}{y}}=k^{\frac{1}{x}+\frac{1}{z}}$
+$
+\therefore \frac{1}{x}+\frac{1}{z}=\frac{2}{y}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 774425)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+√(x5)3√x125√x15(x5)x12x1553\sqrt{\left(x^5\right) \sqrt[3]{x^{12} \sqrt[5]{x^{15}}}} এর মান কত?
+
+Options:
+ক. x
+খ. $x^{\frac{5}{2}}$
+গ. x<sup>5</sup>
+ঘ. x<sup>6</sup>
+
+
+Correct Answer: গ
+
+Solution:
+$\sqrt{\left(x^5\right) \sqrt[3]{\left(x^{12}\right)} \sqrt[5]{x^{15}}}$
+$=\sqrt{\left(x^5\right) \sqrt[3]{\left(x^{12}\right) \cdot\left(x^{15}\right)^{\frac{1}{5}}}}=\sqrt{\left(x^5\right) \sqrt[3]{\left(x^{12}\right)\left(x^3\right)}}$
+$=\sqrt{\left(x^5\right)\left(x^{15}\right)^{\frac{1}{3}}}=\sqrt{\left(x^5\right)\left(x^5\right)}=\sqrt{\left(x^5\right)^2}=x^5.$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 774424)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: দি. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+3√x2√x64√x8=x2x6x843=\sqrt[3]{x^2 \sqrt{x^6 \sqrt[4]{x^8}}}= কত?
+
+Options:
+খ. 1
+গ. x
+ঘ. x<sup>2</sup>
+
+
+Correct Answer: ঘ
+
+Solution:
+$\sqrt[3]{x^2 \sqrt{x^6} \sqrt[4]{x^8}}=\sqrt[3]{x^2 \sqrt{x^6 \cdot\left(x^8\right) \frac{1}{4}}}$
+$=\sqrt[3]{x^2 \sqrt{x^6 \cdot x^2}}=\sqrt[3]{x^2 \sqrt{x^8}}=\sqrt[3]{x^2 \cdot x^4}\\=\sqrt[3]{x^6}=\left(x^6\right)^{\frac{1}{3}}=x^2.$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 774423)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: দি. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+log4√2x=8log24⁡x=8\log _{\sqrt[4]{2}} x=8 হলে, x=x=x= কত?
+
+Options:
+ক. 1
+খ. 2
+গ. 4
+ঘ. 8
+
+
+Correct Answer: গ
+
+Solution:
+$\log _{\sqrt[4]{2}} x=8$
+বা, $x=(\sqrt[4]{2})^8$
+বা,${x}=\left(2^{\frac{1}{4}}\right)^8$ বা, $x=2^2 \therefore x=4$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 774422)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ম. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+2x=8y2x=8y2^x=8^y হলে x : y এর মান নিচের কোনটি?
+
+Options:
+ক. 1 : 3
+খ. 1 : 2
+গ. 2 : 1
+ঘ. 3 : 1
+
+
+Correct Answer: ঘ
+
+Solution:
+এখানে, $2^x=8^y$
+বা, $2^x=\left(2^3\right)^y$
+বা, $2^x=2^{3 y}$
+বা, $x=3 y$
+বা, $\frac{x}{y}=\frac{3}{1}$
+$
+\therefore x: y=3: 1
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 774421)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+36√a8√a6√a4a8a6a436\sqrt[36]{a^8 \sqrt{a^6 \sqrt{a^4}}} এর সরল ফল কত?
+
+Options:
+ক. a
+খ. $\sqrt{\mathrm{a}}$
+গ. a<sup>3</sup>
+ঘ. $\sqrt[3]{\mathrm{a}}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\sqrt[36]{a^8 \sqrt{a^6 \sqrt{a^4}}}=\sqrt[36]{a^8 \cdot \sqrt{a^6 \cdot a^{\frac{4}{2}}}}$
+$=\sqrt[36]{\sqrt{a^8 \cdot \sqrt{a^8}}}=\sqrt[36]{\sqrt{a^8 \cdot a^4}}=a^{\frac{12}{36}}=a^{\frac{1}{3}}=\sqrt[3]{a}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 774420)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রাজউক উত্তরা মডেল কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+3√y5=2⋅3√y2y53=2⋅y23\sqrt[3]{y^5}=2 \cdot \sqrt[3]{y^2} হলে yyy এর মান কত?
+
+Options:
+ক. 1
+খ. 2
+গ. ${\frac{7}{3}}$
+ঘ. ${\frac{10}{3}}$
+
+
+Correct Answer: খ
+
+Solution:
+$\sqrt[3]{y^5}=2 \cdot \sqrt[3]{y^2}$
+বা, $\left(y^5\right)^{\frac{1}{3}}=2\left(y^2\right)^{\frac{1}{3}}$
+বা, $y^{\frac{5}{3}}=2 y^{\frac{2}{3}}$
+বা, $\frac{\mathrm{y}^{\frac{5}{3}}}{\mathrm{y}^{\frac{2}{3}}}=2$ বা, $\mathrm{y}^{\frac{5}{3}-\frac{2}{3}}=2$
+বা, $y^{\frac{3}{3}}=2 \therefore y=2$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 774419)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+3√x=6√y=9√zx3=y6=z9\sqrt[3]{\mathrm{x}}=\sqrt[6]{\mathrm{y}}=\sqrt[9]{\mathrm{z}} হলে, xy কত?
+
+Options:
+ক. <span class="math-tex">\(z\)</span>
+খ. $\sqrt{z}$
+গ. $\sqrt[3]{z}$
+ঘ. $\sqrt[9]{z}$
+
+
+Correct Answer: ক
+
+Solution:
+এখানে, $\sqrt[3]{x}=\sqrt[6]{y}=\sqrt[9]{z}$
+$\begin{aligned} &amp; \therefore \sqrt[3]{x}=\sqrt[9]{z} \\ &amp; \text { বা, } x^{\frac{1}{3}}=z^{\frac{1}{9}} \\ &amp; \text { বা, } x=\left(z^{\frac{1}{9}}\right)^3 \\ &amp; \therefore x=z^{\frac{1}{3}}\end{aligned}$
+এবং $\sqrt[6]{y}=\sqrt[9]{z}$
+বা, $y^{\frac{1}{6}}=z^{\frac{1}{9}}$
+বা, $y=\left(\frac{1}{z^9}\right)^6=z^{\frac{2}{3}}$
+$\therefore \quad x y=z^{\frac{1}{3}}, z^{\frac{2}{3}}=z^{\frac{1}{3}+\frac{2}{3}}=z^{\frac{3}{3}}=z$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 774417)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+abc=1abc=1a b c=1 এবং a1x=b1y=c1za1x=b1y=c1za^{\frac{1}{x}}=b^{\frac{1}{y}}=c^{\frac{1}{z}} হলে x+y+z=x+y+z=x+y+z= কত?
+
+Options:
+খ. 1
+গ. 2
+ঘ. 3
+
+
+Correct Answer: ক
+
+Solution:
+ধরি, $a^{\frac{1}{x}}=b^{\frac{1}{y}}=c^{\frac{1}{z}}=k$
+$
+\begin{aligned}
+&amp; \therefore \quad \mathrm{a}=\mathrm{k}^{\mathrm{x}}, \mathrm{~b}=\mathrm{k}^{\mathrm{y}}, \mathrm{c}=\mathrm{k}^{\mathrm{z}} \\
+&amp; \therefore \quad \mathrm{abc}=\mathrm{k}^{\mathrm{x}} \cdot \mathrm{k}^{\mathrm{y}} \cdot \mathrm{k}^{\mathrm{z}}
+\end{aligned}
+$
+বা, $1=k^{x+y+z} \quad[\because a b c=1]$
+বা, $k^0=k^{x+y+z}$
+$
+\therefore \quad x+y+z=0
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 774416)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+12√a8√a6√a4=a8a6a412=\sqrt[12]{a^8 \sqrt{a^6 \sqrt{a^4}}}= কত?
+
+Options:
+ক. a<sup>8</sup>
+খ. a<sup>4</sup>
+গ. a
+ঘ. 1
+
+
+Correct Answer: গ
+
+Solution:
+$\sqrt[12]{a^8 \sqrt{a^6} \sqrt{a^4}}$
+$=\sqrt[12]{a^8 \sqrt{a^6 \cdot a^2}}=\sqrt[12]{a^8 \sqrt{a^8}}=\sqrt[12]{a^8 \cdot a^4}\\=\sqrt[12]{a^{12}}=a$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 774415)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০১৬
+--------------------------------------------------------------------------------
+Question:
+15√x10√x8√x4x10x8x415\sqrt[15]{x^{10} \sqrt{x^8 \sqrt{x^4}}} এর সরল মান কোনটি?
+
+Options:
+ক. x<sup>15</sup>
+খ. x
+গ. ${x^\frac{1}{15}}$
+ঘ. 1
+
+
+Correct Answer: খ
+
+Solution:
+$\sqrt[15]{x^{10} \sqrt{x^8 \sqrt{x^4}}}=\sqrt[15]{x^{10} \sqrt{x^8: x^2}}$ $=\sqrt[15]{x^{10} \sqrt{\left(x^5\right)^2}}=\sqrt[15]{x^{10} \cdot x^5}=\sqrt[15]{x^{15}}=x$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 774414)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০১৭
+--------------------------------------------------------------------------------
+Question:
+যদি 3√x2=(x2√x2)bx23=(x2x2)b\sqrt[3]{x^2}=\left(x^2 \sqrt{x^2}\right)^b হয়, তাহলে ab এর মান কত?
+
+Options:
+ক. 1
+খ. ${\frac{2}{3}}$
+গ. ${\frac{4}{9}}$
+ঘ. ${\frac{2}{9}}$
+
+
+Correct Answer: গ
+
+Solution:
+$\sqrt[3]{x^2}=\left(x^a \sqrt{x^a}\right)^b$
+বা, $\left(x^2\right)^{\frac{1}{3}}=\left(x^2 \cdot x^{\frac{a}{2}}\right)^b$
+বা, $x^{\frac{2}{3}}=x^{\text {ab }} \cdot x^{\frac{a b}{2}}$
+বা, $\mathrm{x}^{\frac{2}{3}}=\mathrm{x}^{\mathrm{ab}+\frac{\mathrm{ab}}{2}}$ বা, $\frac{2}{3}=\frac{3 \mathrm{ab}}{2}$
+$\therefore \quad a b=\frac{4}{9}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 774406)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+2y+3+2y+1=3202y+3+2y+1=3202^{y+3}+2^{y+1}=320 হলে, y=?y=?y=?
+
+Options:
+খ. 1
+গ. 4
+ঘ. 5
+
+
+Correct Answer: ঘ
+
+Solution:
+$2^{y+3}+2^{y+1}=320$
+বা, $2^y.2^3+2^y \cdot 2^1=320$
+বা, $8.2^y+2.2^y=320$
+বা, $10.2^y=320$
+বা, $2^y=\frac{320}{10}$
+বা,$2^y=32$
+বা, $2^y=2^5$
+$
+\therefore y=5 \text {. }
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 774413)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+22x+3−2x+2=11222x+3−2x+2=1122^{2 x+3}-2^{x+2}=112 হলে, xxx এর মান কত?
+
+Options:
+ক. 4
+খ. $\frac{7}{2}$
+গ. 2
+ঘ. $-\frac{7}{2}$
+
+
+Correct Answer: গ
+
+Solution:
+$2^{2 x+3}-2^{x+2}=112$
+বা, $2^{2 x} \cdot 2^3-2^x \cdot 2^2=112$
+বা, $8 \cdot\left(2^x\right)^2-2^x 4=112$
+বা, $8 \mathrm{a}^2-4 \mathrm{a}-112=0$ [$2^x=\mathrm{a}$ ধরে]
+বা, $2 \mathrm{a}^2-\mathrm{a}-28=0$ [4 দ্বারা ভাগ করে]
+বা, $2 a^2-8 a+7 a-28=0$
+বা, $2 a(a-4)+7(a-4)=0$
+বা, $(a-4)(2 a+7)=0$
+$\begin{aligned} &amp; \text { হয়, } a-4=0 \\ &amp; \text { বা, } 2^x=4=2^2 \\ &amp; \therefore x=2\end{aligned}$
+$
+2 a+7=0
+$
+বা, $2 a=-7$
+বা, $2 \cdot 2^x=-7 $ বা, $2^x=\frac{-7}{2}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 774412)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রাজউক উত্তরা মডেল কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+x এর কোন মানের জন্য b2x−6=a2x−6?b2x−6=a2x−6?b^{2 x-6}=a^{2 x-6} ?
+
+Options:
+ক. - 1
+খ. 1
+গ. 3
+ঘ. 6
+
+
+Correct Answer: গ
+
+Solution:
+$b^{2 x-6}=a^{2 x-6}$
+বা, $\frac{\mathrm{a}^{2 x-6}}{\mathrm{~b}^{2 x-6}}=1$
+বা, $\left(\frac{a}{b}\right)^{2 x-6}=\left(\frac{a}{b}\right)^0$
+বা, $2 x=6$
+$
+\therefore \quad \mathrm{x}=3
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 774411)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+15√(x11)√(x6)√x4)(x11)(x6)x4)15\sqrt[15]{\left(x^{11}\right) \sqrt{\left.\left(x^6\right) \sqrt{x^4}\right)}} এর মান কত?
+
+Options:
+ক. x
+খ. x<sup>2</sup>
+গ. x<sup>3</sup>
+ঘ. x<sup>4</sup>
+
+
+Correct Answer: ক
+
+Solution:
+$\sqrt[15]{\left(x^{11}\right) \sqrt{\left(x^6\right) \sqrt{x^4}}}=\sqrt[15]{\left(x^{11}\right) \sqrt{x^6 \cdot x^2}}$ $=\sqrt[15]{\left(x^{11}\right) \sqrt{x^8}}=\sqrt[15]{x^{11} \cdot x^4}=\left(x^{15}\right)^{\frac{1}{15}}=x$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 774410)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+13√x62√x163√x18=x6x16x183213=\sqrt[13]{x^6 \sqrt[2]{x^{16} \sqrt[3]{x^{18}}}}= কত?
+
+Options:
+ক. $x^{\frac{17}{13}}$
+খ. $x^{\frac{13}{17}}$
+গ. $x^{\frac{19}{13}}$
+ঘ. $x^{\frac{13}{19}}$
+
+
+Correct Answer: ক
+
+Solution:
+$\sqrt[13]{x^6 \sqrt[2]{x^{16} \sqrt[3]{x^{18}}}}$
+$=\sqrt[13]{x^6 \sqrt[2]{x^{16} \cdot x^6}}=\sqrt[13]{x^6 \cdot \sqrt[2]{x^{22}}}=\sqrt[13]{x^6 \cdot x^{11}}\\=\sqrt[13]{x^{17}}=x^{\frac{17}{13}}.$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 774409)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+যদি pp√p=(p√p)pppp=(pp)pp^{p \sqrt{p}}=(p \sqrt{\mathrm{p}})^p হয়, তবে √pp\sqrt{\mathrm{p}} এর মান কত?
+
+Options:
+ক. ${\frac{9}{4}}$
+খ. ${\frac{4}{9}}$
+গ. ${\frac{3}{2}}$
+ঘ. ${\frac{2}{3}}$
+
+
+Correct Answer: গ
+
+Solution:
+এখানে, $\mathrm{p}^{\mathrm{p} \sqrt{\mathrm{p}}}=(\mathrm{p} \sqrt{\mathrm{p}})^{\mathrm{p}}$
+বা, $\left(p^p\right) \sqrt{p}=\left(p^{1+\frac{1}{2}}\right)^p=\left(\frac{3}{2}\right)^p$
+বা, $\left(p^p\right)^{\sqrt{p}}=\left(p^p\right)^{\frac{3}{2}}$
+$
+\therefore \sqrt{\mathrm{p}}=\frac{3}{2}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 774408)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+(yy)√y=(y√y)y(yy)y=(yy)y\left(y^y\right)^{\sqrt{y}}=(y \sqrt{y})^y হলে, √y=y=\sqrt{y}= কত?
+
+Options:
+খ. 1
+গ. $\frac{1}{2}$
+ঘ. $\frac{3}{2}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\left(y^y\right)^{\sqrt{y}}=(y \sqrt{y})^y$
+বা, $\left(y^y\right)^{\sqrt{y}}=\left(y \cdot y^{\frac{1}{2}}\right)^y$
+বা, $\left(y^y\right)^{\sqrt{y}}=\left(y^{1+\frac{1}{2}}\right)^y$
+বা, $\left(y^y\right)^{\sqrt{y}}=\left(\frac{3}{y^2}\right)^y$
+বা, $\left(y^y\right)^{\sqrt{y}}=\left(y^y\right)^{\frac{3}{2}}$
+$\therefore \sqrt{\mathrm{y}}=\frac{3}{2}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 774407)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+6√p=12√q=18√rp6=q12=r18\sqrt[6]{\mathrm{p}}=\sqrt[12]{\mathrm{q}}=\sqrt[18]{\mathrm{r}} হলে, pr = কত?
+
+Options:
+ক. $q^2$
+খ. $\sqrt{q}$
+গ. $\sqrt[9]{\mathrm{q}^2}$
+ঘ. $\sqrt[3]{\mathrm{q}^8}$
+
+
+Correct Answer: ক
+
+Solution:
+$\sqrt[6]{p}=\sqrt[12]{q}=\sqrt[18]{r}$
+$\begin{aligned} &amp; \therefore \sqrt[6]{p}=\sqrt[12]{q} \\ &amp; \text { বা, } p^{\frac{1}{6}}=q^{\frac{1}{12}} \\ &amp; \text { বা, } p=\left(q^{\frac{1}{12}}\right)^6 \\ &amp; \therefore p=q^{\frac{1}{2}}\end{aligned}$
+আবার, $\sqrt[12]{q}=\sqrt[18]{r}$
+বা, $r^{\frac{1}{18}}=q^{\frac{1}{12}}$
+বা, $\mathrm{r}=\left(\mathrm{q}^{\frac{1}{12}}\right)^{18}$
+$
+\therefore \quad \mathrm{r}=\mathrm{q}^{\frac{3}{2}}
+$
+$\therefore \quad \mathrm{pr}=\mathrm{q}^{\frac{1}{2}} \cdot \mathrm{q}^{\frac{3}{2}}=\mathrm{q}^{\frac{1}{2}+\frac{3}{2}}=\mathrm{q}^{\frac{1+3}{2}}=\mathrm{q}^{\frac{4}{2}}=\mathrm{q}^2$
+
+Explanation:
+
+
+Sub-Questions:
+

@@ -1,0 +1,1634 @@
+================================================================================
+Question #1 (ID: 487216)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]15x^2 + 7x - 2[/math] এবং [math]5x - 1[/math] দুটি দ্বিপদী রাশি
+
+Options:
+ক. প্রথম রাশি এবং দ্বিতীয় রাশি যোগ কর।
+খ. প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা ভাগ কর।
+গ. রাশিদ্বয়ের গুণফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রথম রাশি [math]15x^2 + 7x - 2[/math]
+ এবং দ্বিতীয় রাশি [math]5x - 1[/math]
+ যোগ করলে পাই:(15x2+7x−2)+(5x−1)=15x2+12x−3খপ্রথম রাশি [math]15x^2 + 7x - 2[/math]
+, দ্বিতীয় রাশি [math]5x - 1[/math]
+।ভাগের ধাপ:5x15x2​=3x3x×(5x−1)=15x2−3xবিয়োগ করলে:(15x2+7x−2)−(15x2−3x)=10x−25x10x​=22×(5x−1)=10x−2অবশিষ্ট [math]0[/math]
+।সুতরাং ভাগফল: [math]3x + 2[/math]
+।গপ্রথম রাশি [math]15x^2 + 7x - 2[/math]
+, দ্বিতীয় রাশি [math]5x - 1[/math]
+।গুণফলের ধাপ:15x2×(5x−1)=75x3−15x27x×(5x−1)=35x2−7x−2×(5x−1)=−10x+2সব মিলিয়ে পাই:75x3+20x2−17x+2সুতরাং গুণফল: [math]75x^3 + 20x^2 - 17x + 2[/math]
+
+
+Explanation:
+খ কারণ [math](5x-1)(3x+2)=15x^2+7x-2[/math]. তাই [math]15x^2+7x-2[/math] কে [math]5x-1[/math] দ্বারা ভাগ করলে ভাগফল [math]3x+2</math] এবং অবশিষ্ট শূন্য হবে, অর্থাৎ বিভাজ্যতা সম্পূর্ণ ঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 487217)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a^3 + 11a - 12[/math], [math]a^2 - 2a + 3[/math], [math]64 - a^3[/math], [math]a - 4[/math] — চারটি দ্বিপদী রাশি
+
+Options:
+ক. [math]a = 1[/math] হলে ১ম রাশির মান নির্ণয় কর।
+খ. ১ম রাশিকে ২য় রাশি দ্বারা ভাগ কর।
+গ. ৩য় রাশিকে ৪র্থ রাশি দ্বারা ভাগ করে এবং প্রাপ্ত ভাগফল থেকে ‘ক’ এর প্রাপ্ত মান বিয়োগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]a = 1[/math]
+ বসিয়ে ১ম রাশির মান নির্ণয় করি:a3+11a−12=13+11×1−12=1+11−12=0সুতরাং, ১ম রাশির মান [math]0[/math]
+।খ১ম রাশি: [math]a^3 + 11a - 12[/math]
+,২য় রাশি: [math]a^2 - 2a + 3[/math]
+ভাগ করবঃa2−2a+3a3+11a−12​ধাপে ধাপে ভাগ করলে পাই:a2a3​=aa×(a2−2a+3)=a3−2a2+3aবিয়োগ করলে: (a3+11a−12)−(a3−2a2+3a)=2a2+8a−12a22a2​=22×(a2−2a+3)=2a2−4a+6আবার বিয়োগ করলে: (2a2+8a−12)−(2a2−4a+6)=12a−18যা আর ভাগ যায় না, তাই ভাগফল: [math]a + 2[/math]
+, এবং বাকি: [math]12a - 18[/math]
+।গ
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]a=1[/math] বসিয়ে [math]1^3+11\cdot1-12=1+11-12=0[/math], সুতরাং মান = [math]0[/math]।
+
+খ ভাগে নেতৃত্বের অনুপাত অনুসারে প্রথম ধাপ দেয় [math]a[/math] ও পরে [math]+2[/math]; ভাগফল হচ্ছে [math]a+2[/math] এবং অপরিসমাপ্ত অংশ (remainder) [math]12a-18[/math]।
+
+গ কারণ [math]a^3-64=(a-4)(a^2+4a+16)[/math], তাই [math]64-a^3=-(a-4)(a^2+4a+16)[/math] এবং ভাগফল হচ্ছে [math]-a^2-4a-16[/math]; ক থেকে পাওয়া মান [math]0[/math] বিয়োগ করলে ফল অপরিবর্তিত [math]-a^2-4a-16[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 487218)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]12a^4 + 11a^2 + 2[/math] এবং [math]3a^2 + 2[/math] দুটি দ্বিপদী রাশি
+
+Options:
+ক. রাশি দুইটির যোগফল নির্ণয় কর।
+খ. প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা গুণ কর।
+গ. প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+কযোগফল:(12a4+11a2+2)+(3a2+2)=12a4+(11a2+3a2)+(2+2)=12a4+14a2+4খগুণফল:(12a4+11a2+2)(3a2+2)[math]= 12a^4 \cdot 3a^2 + 12a^4 \cdot 2 + 11a^2 \cdot 3a^2 + 11a^2 \cdot 2 + 2 \cdot 3a^2 + 2 \cdot 2[/math]
+$[math]= 36a^6 + 24a^4 + 33a^4 + 22a^2 + 6a^2 + 4[/math]
+ [math]= 36a^6 + 57a^4 + 28a^2 + 4[/math]
+ গভাগ করতে হলে বহুপদী ভাগ করতে হবে।এটি সরাসরি ভাগ না গেলে বহুপদী বিভাজন প্রয়োগ করতে হবে।এখানে [math]3a^2 + 2[/math]
+ দ্বারা [math]12a^4 + 11a^2 + 2[/math]
+ ভাগ করলে:প্রথম পদ: 3a212a4​=4a2এরপর ধাপে ধাপে বিয়োগ করে অবশিষ্ট নির্ণয় করা হয়।এখানে পূর্ণ ভাগফল আসবে না, অবশিষ্ট থাকবে।
+
+Explanation:
+ক [math] (12a^4+11a^2+2)+(3a^2+2)=12a^4+(11a^2+3a^2)+(2+2)=12a^4+14a^2+4[/math] — কারণ একজাতীয় পদগুলো যোগ করা হয়েছে।  
+খ [math](12a^4+11a^2+2)(3a^2+2)=36a^6+57a^4+28a^2+4[/math] — কারণ প্রতিটি পদকে গুণ করে পরে সমান ধরনের পদগুলো মিলানো হয়েছে (বিতরণীয় সূত্র)।  
+গ [math]\dfrac{12a^4+11a^2+2}{3a^2+2}=4a^2+1[/math] — কারণ বহুপদী ভাগ করলে প্রথম ধাপে অতিথির অনুপাত [math]4a^2[/math] এবং পরে [math]1[/math] এনে পুরো ভাগ শূন্য অবশিষ্ট রেখে সম্পূর্ণ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 487219)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x + y[/math], [math]x - y[/math], [math]x^2 + y^2[/math] তিনটি দ্বিপদী রাশি
+
+Options:
+ক. প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা গুণ কর।
+খ. প্রথম, দ্বিতীয় ও তৃতীয় রাশিকে সূচকের সাহায্যে গুণফল নির্ণয় কর।
+গ. খ হতে প্রাপ্ত গুণফলকে তৃতীয় রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক(x+y)(x−y)=x2−y2খগুণফল:(x+y)(x−y)(x2+y2)প্রথম দুইটি গুণফল: [math]x^2 - y^2[/math]
+এরপর, (x2−y2)(x2+y2)=x4−y4গএখন, x2+y2x4−y4​[math]x^4 - y^4 = (x^2 + y^2)(x^2 - y^2)[/math]
+সুতরাং ভাগফল: x2−y2
+
+Explanation:
+ব্যাখ্যা: ক থেকে [math](x+y)(x-y)=x^2-y^2[/math] (difference of squares)। খ সব তিনটি গুণ করলে [math](x^2-y^2)(x^2+y^2)=x^4-y^4[/math] পাওয়া যায়, আর গ এ সেই গুণফলকে তৃতীয় রাশি [math](x^2+y^2)[/math] দ্বারা ভাগ করলে পুনরায় [math]x^2-y^2[/math] পাওয়া যায় কারণ [math]x^4-y^4=(x^2-y^2)(x^2+y^2)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 487220)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]-8a + 12a^2 - 32[/math], [math]-8 + 4a[/math], [math]3a + 4[/math] — তিনটি দ্বিপদী রাশি
+
+Options:
+ক. প্রত্যেক প্রথম ও দ্বিতীয় রাশিকে [math]x[/math] এর ঘাতের অবনমন অনুযায়ী সাজিয়ে লিখ।
+খ. প্রথম রাশি ও তৃতীয় রাশির গুণফল নির্ণয় কর।
+গ. দেখাও যে প্রথম ও দ্বিতীয় রাশি ভাগ করলে তৃতীয় রাশি মিলে।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রথম রাশি: [math]12a^2 - 8a - 32[/math]
+দ্বিতীয় রাশি: [math]4a - 8[/math]
+ খগুণফল:(12a2−8a−32)(3a+4)[math]= 12a^2 \cdot 3a + 12a^2 \cdot 4 - 8a \cdot 3a - 8a \cdot 4 - 32 \cdot 3a - 32 \cdot 4[/math]
+$[math]= 36a^3 + 48a^2 - 24a^2 - 32a - 96a - 128[/math]
+ [math]= 36a^3 + 24a^2 - 128a - 128[/math]
+ গভাগফল নির্ণয়:4a−812a2−8a−32​উপপাদ্য অনুযায়ী, যদি ভাগফল হয় [math]3a + 4[/math]
+, তবে:(4a−8)(3a+4)=12a2+16a−24a−32=12a2−8a−32যা প্রথম রাশির সমান।সুতরাং প্রমাণিত: ভাগফল [math]3a + 4[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক প্রথম ও দ্বিতীয় রাশিকে [math]x[/math] দিয়ে লেখলে অবনমনে পাওয়া যায়: [math]12x^2-8x-32[/math] এবং [math]4x-8[/math] (তৃতীয় রাশি হবে [math]3x+4[/math])। 
+
+খ প্রথম ও তৃতীয় রাশির গুণফল হিসাব করলে পাওয়া যায়: [math](12x^2-8x-32)(3x+4)=36x^3+24x^2-128x-128[/math]। 
+
+গ কারণ [math]12x^2-8x-32=4(3x^2-2x-8)=4(x-2)(3x+4)[/math] এবং [math]4x-8=4(x-2)[/math], তাই ভাগ করলে ফল [math]3x+4[/math] (তৃতীয় রাশি) পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 487221)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]A = 4x^2 + 6x + 9[/math], [math]B = 4x^2 - 6x + 9[/math], [math]C = 16x^4 + 36x^2 + 81[/math]
+
+Options:
+ক. [math]A - B[/math] কত?
+খ. [math]A \times B[/math] দ্বারা গুণ কর।
+গ. [math]C[/math] কে [math]B[/math] দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+কA−B=(4x2+6x+9)−(4x2−6x+9)=12xখ(4x2+6x+9)(4x2−6x+9)এটি একটি সূত্র: (a+b+c)(a−b+c)=a2−b2+c2সুতরাং গুণফল:16x4−36x2+81গBC​=4x2−6x+916x4+36x2+81​যদি [math]C = B \times A[/math]
+ হয়, তাহলে ভাগফল হবে [math]A[/math]
+।গুণফল যাচাই করে দেখা যায়,B×A=Cতাই ভাগফল: [math]A = 4x^2 + 6x + 9[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক [math]A-B=(4x^2+6x+9)-(4x^2-6x+9)=6x+6x=12x[/math]—সমান পদগুলি নিঃশেষ হয়ে কেবল [math]12x[/math] থাকে।
+
+খ [math]A\times B=(4x^2+6x+9)(4x^2-6x+9)= (4x^2+9)^2-(6x)^2=16x^4+36x^2+81[/math]—এটি পার্থক্য-আয়তনের সূত্র প্রয়োগ করে সরল হয়ে [math]C[/math] পাওয়া যায়।
+
+গ যেহেতু [math]C= A\times B[/math], তাই [math]C\div B=A[/math] এবং ফলাফল হবে [math]4x^2+6x+9[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 487222)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]6x^2 - 5x + 1[/math] এবং [math]2x - 1[/math] — দুটি দ্বিপদী রাশি
+
+Options:
+ক. রাশি দুইটির যোগফল কত?
+খ. রাশি দুইটির গুণফল নির্ণয় কর।
+গ. প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক6x2−5x+1+2x−1=6x2−3xখ(6x2−5x+1)(2x−1)=12x3−6x2−10x2+5x+2x−1[math]= 12x^3 - 16x^2 + 7x - 1[/math]
+ গ2x−16x2−5x+1​ — বহুপদী ভাগ করতে হবে।2x6x2​=3x[math]3x \cdot (2x - 1) = 6x^2 - 3x[/math]
+বিয়োগ: [math](-2x + 1)[/math]
+2x−2x​=−1[math]-1 \cdot (2x - 1) = -2x + 1[/math]
+অবশিষ্ট [math]0[/math]
+, ভাগফল: [math]3x - 1[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক যোগফল: [math](6x^2-5x+1)+(2x-1)=6x^2-3x[/math] — কারণ সমজাতীয় পদগুলো যোগ করলে [math]-5x+2x=-3x[/math] এবং ধ্রুবকরা বিদায় দেয়।
+
+খ গুণফল: [math](6x^2-5x+1)(2x-1)=12x^3-16x^2+7x-1[/math] — প্রতিটি পদকে গুণ করে এবং সমজাতীয় পদগুলো যোগ করলে এই ফল মেলে।
+
+গ ভাগফল: [math](6x^2-5x+1)÷(2x-1)=3x-1[/math], অবশিষ্ট [math]0[/math] — লং ডিভিশনে প্রথম ধাপেই [math]3x(2x-1)=6x^2-3x[/math] বাদ দিলে [math]-2x+1[/math] পাওয়া যায় এবং পরবর্তী ধাপে [math]-1(2x-1)=-2x+1[/math] বের হয়, ফলে অবশিষ্ট শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 487223)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]A = p^2 + 7p + 49[/math], [math]B = p - 7[/math], [math]C = 16p^4 - 81q^4[/math], [math]D = 2p - 3q[/math]
+
+Options:
+ক. [math]A - 2PB[/math] নির্ণয় কর।
+খ. [math]A \times B[/math] নির্ণয় কর।
+গ. [math]C + D[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রথমে [math]2PB = 2p(p - 7) = 2p^2 - 14p[/math]
+এখন,A−2PB=p2+7p+49−2p2+14p=−p2+21p+49খ(p2+7p+49)(p−7)মনে রাখতে হবে, এটি হলো [math](p + 7)^2(p - 7)[/math]
+=(p2−49)(p+7)=p3+7p2−49p−343গC+D=(16p4−81q4)+(2p−3q)=16p4+2p−81q4−3q
+
+Explanation:
+ব্যাখ্যা:
+
+ক A-2pB=(p^2+7p+49)-2p(p-7)=p^2+7p+49-2p^2+14p=-p^2+21p+49. এখানে সরলভাবে [math]2pB[/math]কে বিয়োগ করে যোগফল সরলীকরণ করা হয়েছে।
+
+খ A\times B=(p^2+7p+49)(p-7)=p^3-343. কারণ এটি [math]p^3-7^3[/math] অর্থাৎ ভগ্নাংশের ঘনফলের পার্থক্য।
+
+গ C+D=16p^4-81q^4+2p-3q, এবং 16p^4-81q^4=(2p-3q)(2p+3q)(4p^2+9q^2), তাই C+D=(2p-3q)\big((2p+3q)(4p^2+9q^2)+1\big). এখানে চতুর্থ ঘাতের পার্থক্যকে ভাজ্যাংশ হিসেবে ভাঙে সাধারণ গুণক [math](2p-3q)[/math] বের করা হয়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 487224)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]1 - x^3[/math], [math]1 - x + x^2[/math], [math]1 + x + x^2[/math] — তিনটি দ্বিপদী রাশি
+
+Options:
+ক. দ্বিতীয় রাশির যোগফলকে বিপরীত রাশি লিখ এবং ঘাতের অবক্রম অনুসারে সাজাও।
+খ. সূত্রের সাহায্যে ২য় রাশিকে ৩য় রাশি দ্বারা গুণ কর।
+গ. ১ম রাশিকে ২য় রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদ্বিতীয় রাশি: [math]1 - x + x^2[/math]
+এর বিপরীত: [math]-1 + x - x^2[/math]
+ঘাত অনুযায়ী সাজানো হলে:−x2+x−1খ(1−x+x2)(1+x+x2)সূত্র: [math](a - b)(a + b) = a^2 - b^2[/math]
+এখানে [math]a = 1 + x + x^2[/math]
+, [math]b = x[/math]
+ নয়, তাই স্বাভাবিক গুণফলাফল হবে: [math]1 + x + x^2 - x - x^2 - x^3 + x^4 = 1 - x^3[/math]
+অর্থাৎ: [math]1 - x^3[/math]
+ গ1−x+x21−x3​=1+x+x2কারণ: (1−x3)=(1−x+x2)(1+x+x2)সুতরাং ভাগফল: [math]1 + x + x^2[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক দ্বিতীয় রাশি [math]1 - x + x^2[/math] এর যোগফলকের বিপরীত রাশি হলো [math]-1 + x - x^2[/math], ঘাতের অবক্রম (উত্থিত ঘাত অর্ধক্রমে) অনুসারে সাজালে [math]-x^2 + x - 1[/math] পাওয়া যায়।  
+খ গুণ করলে (সরল গুণফল বা পরিচিত সূত্র প্রয়োগে) [math](1 - x + x^2)(1 + x + x^2)=1 + x^2 + x^4[/math] হয়, কারণ মধ্যবর্তী ধনাত্মক এবং ঋণাত্মক x ও x^3 ধরা টার্মগুলো পরস্পরে বাতিল হয়।  
+গ ভাগ করলে বর্গে ব্যাবহার করে দেখা যায় [math]1 - x^3=(1 - x + x^2)(-x -1)+2[/math], তাই ভাগফল হচ্ছে [math]-x-1+\dfrac{2}{1 - x + x^2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 487225)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]3x + 4[/math], [math]9x^2 - 12x + 16[/math], এবং [math]81x^4 + 144x^2 + 256[/math] — তিনটি দ্বিপদী রাশি
+
+Options:
+ক. ২য় রাশি থেকে ১ম রাশি বিয়োগ কর।
+খ. ১ম রাশিকে ২য় রাশি দ্বারা গুণ কর।
+গ. ৩য় রাশিকে ২য় রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক(9x2−12x+16)−(3x+4)=9x2−15x+12খ(3x+4)(9x2−12x+16)ধাপে ধাপে গুণফল:[math]= 3x \cdot 9x^2 + 3x \cdot (-12x) + 3x \cdot 16 + 4 \cdot 9x^2 + 4 \cdot (-12x) + 4 \cdot 16[/math]
+ [math]= 27x^3 - 36x^2 + 48x + 36x^2 - 48x + 64[/math]
+ [math]= 27x^3 + 0x^2 + 0x + 64 = 27x^3 + 64[/math]
+ গ9x2−12x+1681x4+144x2+256​লক্ষ্য করি:[math]81x^4 + 144x^2 + 256 = (9x^2 + 16)^2[/math]
+এবং [math]9x^2 - 12x + 16 = (3x - 4)^2[/math]
+তাই ভাগফল:(3x−4)2(9x2+16)2​
+
+Explanation:
+ব্যাখ্যা: খ সঠিক, কারণ [math](3x+4)(9x^2-12x+16)=27x^3+64[/math]; গুণ করার সময় মধ্যবর্তী ধরা-অধরা পদগুলো বাতিল হয়ে কেবল এই দ্বিপদী রাশি থাকে। এছাড়া এটি আসলে [math](3x)^3+4^3[/math]—sum of cubes—এর ভগ্নাংশ হিসেবে বিশ্লেষিত।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 487226)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]2x + y[/math], [math]2p + 3q[/math], [math]16p^4 - 81q^4[/math] — তিনটি দ্বিপদী রাশি
+
+Options:
+ক. ২য় রাশিটির বর্গ কর।
+খ. ২য় রাশিকে ১ম রাশি দ্বারা গুণ কর।
+গ. ৩য় রাশি দ্বারা ২য় রাশিকে ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক(2p+3q)2=4p2+12pq+9q2খ(2p+3q)(2x+y)=4px+2py+6qx+3qyগ2p+3q16p4−81q4​লক্ষ্য করি:[math]16p^4 - 81q^4 = (4p^2)^2 - (9q^2)^2 = (4p^2 - 9q^2)(4p^2 + 9q^2)[/math]
+এদের কোনো অংশ [math]2p + 3q[/math]
+ দ্বারা সরাসরি বিভাজ্য নয়।তাই, সরাসরি ভাগফল নির্ণয় সম্ভব না হলেও প্রকাশ করা যায়:2p+3q(4p2−9q2)(4p2+9q2)​ — এটি সরলীকৃত নয়।
+
+Explanation:
+ব্যাখ্যা: [math]16p^4-81q^4=(2p)^4-(3q)^4[/math] এবং এটি ভাঙলে [math]=(2p-3q)(2p+3q)(4p^2+9q^2)[/math] পাওয়া যায়, তাই [math]2p+3q[/math] তৃতীয় রাশির একটি গুণক। ফলে গ সঠিক — তৃতীয় রাশিকে দ্বিতীয় রাশি দিয়ে ভাগ করলে বাকি অংশ [math](2p-3q)(4p^2+9q^2)[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 487124)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]A = x^2 + xy + y^2[/math], [math]B = x^2 - xy + y^2[/math], [math]C = x - y[/math], [math]D = x^3 + y^3[/math]
+
+Options:
+ক. [math]B[/math] এর বর্গ নির্ণয় কর।
+খ. [math]A[/math] ও [math]B[/math] এর গুণফল নির্ণয় কর।
+গ. দেখাও যে, [math]ACD = x^6 - y^6[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]B = x^2 - xy + y^2[/math]
+ [math]B^2 = (x^2 - xy + y^2)^2[/math]
+ [math]= x^4 + x^2y^2 + y^4 - 2x^3y - 2xy^3 + x^2y^2[/math]
+ [math]= x^4 + 2x^2y^2 + y^4 - 2x^3y - 2xy^3[/math]
+ খ [math]A = x^2 + xy + y^2[/math]
+, [math]B = x^2 - xy + y^2[/math]
+ [math]AB = (x^2 + xy + y^2)(x^2 - xy + y^2)[/math]
+এটি সূত্র: [math](a + b)(a - b) = a^2 - b^2[/math]
+এখানে [math]a = x^2 + y^2[/math]
+, [math]b = xy[/math]
+ [math]\Rightarrow AB = (x^2 + y^2)^2 - (xy)^2[/math]
+ [math]= x^4 + 2x^2y^2 + y^4 - x^2y^2 = x^4 + x^2y^2 + y^4[/math]
+ গ [math]A = x^2 + xy + y^2[/math]
+, [math]C = x - y[/math]
+, [math]D = x^3 + y^3[/math]
+ [math]ACD = (x^2 + xy + y^2)(x - y)(x^3 + y^3)[/math]
+এখন, [math]x^3 + y^3 = (x + y)(x^2 - xy + y^2)[/math]
+এবং [math]x^2 + xy + y^2 = (x + y)^2 - xy[/math]
+তাই, [math]A \cdot D = (x^2 + xy + y^2)(x^3 + y^3) = (x + y)^3(x^2 - xy + y^2)[/math]
+এখন, [math](x - y)(x + y)^3(x^2 - xy + y^2) = x^6 - y^6[/math]
+অতএব, [math]ACD = x^6 - y^6[/math]
+ প্রমাণিত
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]B^2=(x^2-xy+y^2)^2=x^4+3x^2y^2+y^4-2x^3y-2xy^3[/math] (সমীকরণটি সরাসরি বর্গ বাড়িয়ে পাওয়া যায়)।
+
+খ [math]AB=(x^2+xy+y^2)(x^2-xy+y^2)=(x^2+y^2)^2-(xy)^2=x^4+x^2y^2+y^4[/math] (এখানে প্রতিগুণ করলে গুণফলটি সহজভাবে বের হয়)।
+
+গ [math]A\cdot C=(x^2+xy+y^2)(x-y)=x^3-y^3[/math], তাই [math]ACD=(x^3-y^3)(x^3+y^3)=x^6-y^6[/math] (প্রথমে ঘাতীয় ভগ্নাংশটি সরল করে তারপর ভিন্নবর্গ সূত্র প্রয়োগ করা হয়েছে)।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 487125)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + 3x + 1[/math], [math]x^2 - 3x + 1[/math] এবং [math]4 + 8x^2 + 3x^4[/math] — তিনটি বীজগাণিতিক রাশি।
+
+Options:
+ক. ৩য় রাশিকে উৎপাদকে বিশ্লেষণ কর।
+খ. সূত্রের সাহায্যে ১ম ও ২য় রাশির গুণফল নির্ণয় কর।
+গ. ২য় রাশির মান শূন্য হলে দেখাও যে, [math]x^4 + \dfrac{1}{x^4} = 47[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]4 + 8x^2 + 3x^4[/math]
+ক্রম সাজালে: [math]= 3x^4 + 8x^2 + 4[/math]
+এটিকে ধরি [math]= (ax^2 + b)^2[/math]
+ আকারে।কিন্তু সহজভাবে এটি [math]= (x^2 + 2)^2 + 3x^4[/math]
+ এরূপ নয়।বিশ্লেষণ করে: [math]= (3x^2 + 2)(x^2 + 2)[/math]
+ খ [math](x^2 + 3x + 1)(x^2 - 3x + 1)[/math]
+এটি সূত্র: [math](a + b)(a - b) = a^2 - b^2[/math]
+এখানে [math]a = x^2 + 1[/math]
+, [math]b = 3x[/math]
+ [math]\Rightarrow = (x^2 + 1)^2 - 9x^2[/math]
+ [math]= x^4 + 2x^2 + 1 - 9x^2 = x^4 - 7x^2 + 1[/math]
+ গ [math]x^2 - 3x + 1 = 0[/math]
+ [math]\Rightarrow x^2 + 1 = 3x[/math]
+ভাগ করলে: [math]x + \dfrac{1}{x} = 3[/math]
+এখন, সূত্র: [math]x^2 + \dfrac{1}{x^2} = (x + \dfrac{1}{x})^2 - 2 = 9 - 2 = 7[/math]
+আবার, [math]x^4 + \dfrac{1}{x^4} = (x^2 + \dfrac{1}{x^2})^2 - 2 = 7^2 - 2 = 49 - 2 = 47[/math]
+অতএব, প্রমাণিত [math]x^4 + \dfrac{1}{x^4} = 47[/math]
+
+
+Explanation:
+সমাধান:
+
+ক [math]3x^4+8x^2+4=3(x^2)^2+8(x^2)+4=(3x^2+2)(x^2+2)[/math].
+
+খ [math](x^2+3x+1)(x^2-3x+1)=(x^2+1)^2-(3x)^2=x^4-7x^2+1[/math].
+
+গ যদি [math]x^2-3x+1=0[/math] হয়, তাহলে ভাগ করে পাওয়া যায় [math]x+1/x=3[/math]; আনুষঙ্গিকভাবে [math]x^2+1/x^2=3^2-2=7[/math] এবং [math]x^4+1/x^4=(x^2+1/x^2)^2-2=7^2-2=47[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 799869)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]m ^ 4 - 1, m ^ 2 + 1, m ^ 2 + m ^ 4 + 1, m ^ 2 - m + 1[/math] চারটি বীজগণিতীয় রাশি।
+
+Options:
+ক. ৩য় রাশিকে m এর ঘাতের অধঃক্রম অনুসারে সাজাও।
+খ. ১ম রাশিকে ২য় রাশি দ্বারা ভাগ কর।
+গ. ৩য় রাশিকে ৪র্থ রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক৩য় রাশিকে m এর ঘাতের অধঃক্রম অনুসারে সাজালে হয়, [math]m ^ 4 + m ^ 2 + 1[/math] (Ans.)
+খ১ম রাশিকে ২য় রাশি দ্বারা ভাগ করে পাই,[Image]নির্ণেয় ভাগফল: [math]m ^ 2 - 1[/math]
+গ৩য় রাশিকে ৪র্থ রাশি দ্বারা ভাগ করে পাই,[Image]           [math]\begin{array}{r}\mathrm{m}^2-\mathrm{m}+1 \\ \mathrm{~m}^2-\mathrm{m}+1 \\ (-) \quad(+) \quad(-)\\\hline \mathrm o \end{array}[/math]নির্ণেয় ভাগফল: [math]\mathrm{m ^ 2 + m + 1}[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 799870)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+4x2y4 এবং 3x2y3 দুইটি বীজগণিতীয় রাশি হলে-
+
+Options:
+ক. 4x<sup>2</sup>y<sup>4</sup> কে 3x<sup>2</sup>y<sup>3</sup> দ্বারা চিহ্নযুক্ত সংখ্যার গুণের নিয়ম অনুসারে গুণ কর।
+খ. গুণের সূচক নিয়মানুসারে &#39;ক&#39; এর ফলাফলকে x&sup2;y&sup3; দ্বারা গুণ কর।
+গ. &#39;খ&#39; এর প্রাপ্ত ফলাফলকে x⁴y&sup2;z&sup2; দ্বারা গুণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\begin{aligned} &amp; 4 x^2 y^4 \times 3 x^2 y^3 \\ &amp; =(4 \times 3) \times x^2 y^4 \times x^2 y^3 \\ &amp; =12 \times\left(x^2 \times x^2\right) \times\left(y^4 \times y^3\right) \\ &amp; =12 \times x^4 \times y^7 \\ &amp; =12 x^4 y^7 \text { (Ans.) }\end{aligned}[/math]
+খ&lsquo;ক&rsquo; এর ফলাফল [math]12 x^4 y^7[/math][math]\begin{aligned}&amp; \therefore 12 \mathrm{x}^4 \mathrm{y}^7 \text { ও } \mathrm{x}^2 \mathrm{y}^3 \text { এর গুণফল } \\&amp; =12 \mathrm{x}^4 \mathrm{y}^7 \times \mathrm{x}^2 \mathrm{y}^3 \\&amp; =12 \times\left(\mathrm{x}^4 \times \mathrm{x}^2\right) \times\left(\mathrm{y}^7 \times \mathrm{y}^3\right) \\&amp; =12 \times \mathrm{x}^{4+2} \times \mathrm{y}^{7+3} \quad \text { [সূচক নিয়ম অনুসারে] } \\&amp; =12 \times \mathrm{x}^6 \times \mathrm{y}^{10} \\&amp; =12 \mathrm{x}^6 \mathrm{y}^{10} \text { (Ans.) }\end{aligned}[/math]
+গ&lsquo;খ&rsquo; এর ফলাফল [math]12 x^6 \mathrm{y}^{10}[/math][math]12 \mathrm{x}^6 \mathrm{y}^{10}[/math] ও [math]\mathrm{x}^4 \mathrm{y}^2 \mathrm{z}^2[/math] এর গুণফল[math]\begin{aligned}&amp; \therefore 12 \mathrm{x}^6 \mathrm{y}^{10} \times \mathrm{x}^4 \mathrm{y}^2 \mathrm{z}^2 \\&amp; =(12 \times 1) \times\left(\mathrm{x}^6 \times \mathrm{x}^4\right) \times\left(\mathrm{y}^{10} \times \mathrm{y}^2\right) \times \mathrm{z}^2 \\&amp; =12 \times \mathrm{x}^{6+4} \times \mathrm{y}^{10+2} \times \mathrm{z}^2 \quad \text { [সূচক নিয়ম অনুসারে] } \\&amp; =12 \mathrm{x}^{10} \mathrm{y}^{12} \mathrm{z}^2 \text { (Ans.) }\end{aligned}[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 799877)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]a[/math] দ্বারা গঠিত দুইটি রাশি হচ্ছে [math]a^{11}-a^8-2 a^5[/math] এবং [math]15+2 a^{12}-10 a^6[/math]
+
+Options:
+ক. দ্বিতীয় রাশিকে [math]a[/math] এর শক্তির অধঃক্রম অনুসারে সাজিয়ে লেখ।
+খ. প্রথম রাশিটিকে [math]a ^ 5[/math] দ্বারা ভাগ করে ভাগফল নির্ণয় কর।
+গ. &#39;খ&#39; এর ভাগফল দ্বারা দ্বিতীয় রাশিকে ভাগ কর।&nbsp;
+
+
+Correct Answer: 
+
+Solution:
+কদ্বিতীয় রাশিকে [math]a[/math] এর শক্তির অধঃক্রম অনুসারে সাজিয়ে পাই, [math]2 a^{12}[/math] [math]-10 \mathrm{a}^6+15[/math] (Ans.)
+খ[math]\begin{aligned}&amp; \text { প্রথম রাশি }=a^{11}-a^8-2 a^5 \\&amp; \begin{aligned}\text { এখন, } &amp; \frac{a^{11}-a^8-2 a^5}{a^5} \\&amp; =\frac{a^{11}}{a^5}-\frac{a^8}{a^5}-\frac{2 a^5}{a^5} \\&amp; =a^6-a^3-2\end{aligned}\end{aligned}[/math][ভাগের বণ্টনবিধি]নির্ণেয় ভাগফল : [math]a^6-a^3-2[/math]
+গ[math]\frac{\text { দ্বিতীয় রাশি }}{\text { &lsquo;খ&rsquo; এর ভাগফল }}=\frac{2 a^{12}-10 a^6+15}{a^6-a^3-2}[/math]এখন,[Image][math]\therefore[/math] ভাগফল : [math]2 \mathrm{a}^6+2 \mathrm{a}^3-4[/math] এবং ভাগশেষ [math]7[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 799879)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math](a + b), (a - b), (a ^ 2 - b ^ 2)[/math] তিনটি বীজগণিতীয় রাশি।
+
+ 
+
+Options:
+ক. ১ম ও ২য় রাশির গুণফল নির্ণয় কর।
+খ. ২য় ও ৩য় রাশির গুণফল নির্ণয় কর। a = 3, b = 2 হলে, উক্ত গুণফলের মান নির্ণয় কর।
+গ. দেখাও যে, [math](a + b)(a - b)(a ^ 2 + b ^ 2) = a ^ 4 - b ^ 4[/math]
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,১ম রাশি, (a + b)২য় রাশি, (a - b)[math]\therefore[/math] ১ম ও ২য় রাশির গুণফল[math]\begin{aligned}&amp; =(a+b)(a-b) \\&amp; =a^2-a b+a b-b^2 \\&amp; =a^2-b^2 \text { (Ans.) }\end{aligned}[/math]
+খ[math]\begin{aligned}&amp; \text { ২য় রাশি }=a-b \\&amp; \text { ৩য় রাশি }=a^2-b^2 \\&amp; \begin{aligned}\therefore \text { ২য় রাশি } \times \text { ৩য় রাশি } &amp; =(a-b)\left(a^2-b^2\right) \\&amp; =a^3-a b^2-a^2 b+b^3\text { (Ans.) }\end{aligned}\end{aligned}[/math]দেওয়া আছে, [math]\mathrm{a}=3, \mathrm{~b}=2[/math].[math]\begin{aligned}&amp; \therefore \text { গুণফলের মান, } \\&amp; a^3-a b^2-a^2 b+b^3 \\&amp; =(3)^3-3 \times(2)^2-(3)^2 \times 2+(2)^3 \\&amp; =27-12-18+8=5 \text { (Ans.) }\end{aligned}[/math]
+গবামপক্ষ[math]\begin{aligned}&amp; =(a+b)(a-b)\left(a^2+b^2\right) \\&amp; =\left(a^2-b^2\right)\left(a^2+b^2\right) \text { [ক থেকে পাই] } \\&amp; =a^4+a^2 b^2-a^2 b^2-b^4 \\&amp; =a^4-b^4 . \\&amp; =\text { ডানপক্ষ }\end{aligned}[/math]অর্থাৎ, [math](a+b)(a-b)\left(a^2+b^2\right)=a^4-b^4[/math]. (দেখানো হলো)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 799884)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]A=x^2+2 x-3, B=x-2, C=x^3-7 x+6[/math]
+
+Options:
+ক. x = 3 হলে, C = কত?
+খ. প্রমাণ কর যে, A &times; B = C
+গ. C কে B দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]x = 3[/math]এখন,[math]\begin{aligned}\mathrm{C} &amp; =\mathrm{x}^3-7 \mathrm{x}+6 \\&amp; =(3)^3-7 \times 3+6 \\&amp; =27-21+6 \\&amp; =12 \text { (Ans.) }\end{aligned}[/math]
+খদেওয়া আছে,[math]\begin{aligned}&amp; \mathrm{A}=\mathrm{x}^2+2 \mathrm{x}-3 \\&amp; \mathrm{~B}=\mathrm{x}-2 \\&amp; \begin{aligned}\therefore \text { বামপক্ষ } &amp; =\mathrm{A} \times \mathrm{B} \\&amp; =(\mathrm{x}-2)\left(\mathrm{x}^2+2 \mathrm{x}-3\right) \\&amp; =\mathrm{x}^3+2 \mathrm{x}^2-3 \mathrm{x}-2 \mathrm{x}^2-4 \mathrm{x}+6 \\&amp; =\mathrm{x}^3-7 \mathrm{x}+6 \\&amp; =\mathrm{C}=\text { ডানপক্ষ }\end{aligned}\end{aligned}[/math]অর্থাৎ [math]\mathrm{A} \times \mathrm{B}=\mathrm{C}[/math] (প্রমাণিত)
+গদেওয়া আছে,[math]\begin{aligned}&amp; \mathrm B=\mathrm x-2 \\&amp; \mathrm C=\mathrm x^3-7 \mathrm x+6\end{aligned}[/math]এখন,[math]\begin{aligned}&amp; \mathrm C \div \mathrm B \\&amp; =\mathrm x^3-7 \mathrm x+6 \div(\mathrm x-2)\end{aligned}[/math][Image][math]\therefore[/math]ভাগফল [math]x ^ 2 + 2x - 3[/math] (Ans.)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 799888)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{a}^{16}-3 \mathbf{a}^8+1, \mathbf{a}^8-\mathbf{a}^4-1, \mathbf{a}^2+\mathbf{a b}+\mathbf{b}^2, \mathbf{a}-\mathbf{b}[/math] চারটি বীজগণিতীয় রাশি।
+
+Options:
+ক. গুণ ও ভাগের সূচক বিধি কাকে বলে?
+খ. দেখাও যে, [math](a-b)\left(a^2+a b+b^2\right)=a^3-b^3[/math].
+গ. ১ম রাশিকে ২য় রাশি দ্বারা ভাগ কর এবং ভাগফল হতে ভাজক বিয়োগ কর।
+
+
+Correct Answer: 
+
+Solution:
+কগুণের সূচকবিধি :[math]\mathrm{a}^{\mathrm{m}} \times \mathrm{a}^{\mathrm{n}}=\mathrm{a}^{\mathrm{m}+\mathrm{n}}, \mathrm{m}, \mathrm{n}[/math] যেকোনো স্বাভাবিক সংখ্যা।[math]\left(\mathrm{a}^{\mathrm{m}}\right)^{\mathrm{n}}=\mathrm{a}^{\mathrm{mn}}[/math]ভাগের সূচক বিধি :[math]\mathrm{a}^{\mathrm{m}} \div \mathrm{a}^{\mathrm{n}}=\mathrm{a}^{\mathrm{m}-\mathrm{n}}[/math]; যেখানে m ও n স্বাভাবিক সংখ্যা এবং [math]\mathrm{m}&gt;\mathrm{n}, \mathrm{a} 
+eq 0[/math]. এই প্রক্রিয়াকে ভাগের সূচক বিধি বলা হয়।
+খবামপক্ষ,[math]\begin{aligned}&amp; =(a-b)\left(a^2+a b+b^2\right) \\&amp; =a^3+a^2 b+a b^2-a^2 b-a b^2-b^3 \\&amp; =a^3-b^3 \\&amp; =\text { ডানপক্ষ }\end{aligned}[/math]অর্থাৎ [math](a-b)\left(a^2+a b+b^2\right)=a^3-b^3[/math] [দেখানো হলো]
+গ[math]\begin{aligned} &amp; \text { ১ম রাশি }=a^{16}-3 a^8+1 \\ &amp; \text { ২য় রাশি }=a^8-a^4-1\end{aligned}[/math][Image][math]\therefore[/math]ভাগফল [math]a ^ 8 + a ^ 4 - 1[math]\begin{array}{r}\text{ভাগফল }a ^ 8 + a ^ 4 - 1 \\ \text{ভাজক }a ^ 8 - a ^ 4 - 1 \text{}\\(-)~~ (+) ~~(+) \\ \hline \text{}2a^4~~~~~~~ \end{array}[/math]\therefore[/math]বিয়োগফল [math]2a ^ 4[/math] (Ans.)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 799889)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]2 a-3 b+5 c, 2 b-c+4 a, 15 c-(3 a+9 b+13 c)[/math] তিনটি বীজগণিতীয় রাশি।
+
+Options:
+ক. ১ম রাশির শেষ দুইটি পদকে (-) চিহ্ন দ্বারা বন্ধনীভুক্ত কর।
+খ. ২য় রাশির শেষ দুইটি পদকে (-) চিহ্ন দ্বারা বন্ধনীভুক্ত কর এবং &#39;ক&#39; এর প্রাপ্ত মান থেকে বিয়োগ কর।
+গ. সরল কর : [math]5+(2 a-3 b+5 c)+[(2 b-c+4 a)-[/math] [math]\{15 \mathrm{c}-(3 \mathrm{a}+9 \mathrm{~b}+13 \mathrm{c})\}][/math]
+
+
+Correct Answer: 
+
+Solution:
+কনির্ণেয় রাশি [math]= 2a - (3b - 5c)[/math]
+খনিণেয় ২য় রাশি [math]= 2b - (c-4a)[/math][math]\therefore[/math]প্রাপ্ত রাশি[math]\begin{aligned} &amp; =\{2 \mathrm{a}-(3 \mathrm{~b}-5 \mathrm{c})\}-\{2 \mathrm{~b}-(\mathrm{c}-4 \mathrm{a})\} \\ &amp; =\{2 \mathrm{a}-3 \mathrm{~b}+5 \mathrm{c}\}-\{2 \mathrm{~b}-\mathrm{c}+4 \mathrm{a}\} \\ &amp; =2 \mathrm{a}-3 \mathrm{~b}+5 \mathrm{c}-2 \mathrm{~b}+\mathrm{c}-4 \mathrm{a} \\ &amp; =-2 \mathrm{a}-5 \mathrm{~b}+6 \mathrm{c} \text { (Ans.) }\end{aligned}[/math]
+গ[math]5+(2 a+3 b+5 c)+[(2 b-c+4 a)\\-\{15 c-(3 a+9 b+13 c)\}][math]=5+2 a-3 b+5 c+[(2 b-c+4 a)\\-\{15 c-3 a-9 b-13 c\}][/math]=5+2 a-3 b+5 c+[(2 b-c+4 a)\\ -(2 c-3 a-9 b)][math]\begin{aligned} &amp; =5+2 a-3 b+5 c+[2 b-c+4 a\\ &amp; -2 c+3 a+9 b] \\ &amp; =5+2 a-3 b+5 c+[11 b-3 c+7 a] \\ &amp; =5+2 a-3 b+5 c+11 b-3 c+7 a\end{aligned}[/math]=5+9 \mathrm{a}-8 \mathrm{~b}+2 \mathrm{c}[/math] (Ans.)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 799890)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]-\mathbf{a}+[-5 b-\{-9 \mathbf{c}+(-3 \mathbf{a}-7 \mathbf{b}+11 \mathbf{c})\}][/math] একটি বীজগণিতীয় রাশি।
+
+Options:
+ক. [math]\{-9 \mathrm{c}+(-3 \mathrm{a}-7 \mathrm{~b}+11 \mathrm{c})\}=[/math] কত?
+খ. উদ্দীপকে বর্ণিত রাশিটির সরলীকরণ কর।
+গ. বন্ধনীর পূর্বে (-) চিহ্ন দিয়ে 2a + 2b - 2c এর ২য় ও ৩য় পদ প্রথম বন্ধনীর ভেতর স্থাপন কর। এবার প্রাপ্ত রাশিটি ও &#39;ক&#39; এর ফলাফলের মাঝে (-) চিহ্ন বসিয়ে সরল কর।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\begin{aligned} &amp; \{-9 c+(-3 a-7 b+11 c)\} \\ &amp; =\{-9 c-3 a-7 b+11 c\} \\ &amp; =-9 c-3 a-7 b+11 c \\ &amp; =-3 a-7 b+2 c \text { (Ans.) }\end{aligned}[/math]
+খ[math]-a+[-5 b-\{-9 c+(-3 a-7 b+11 c)\}][/math][math]\begin{aligned} &amp; =-\mathrm{a}+[-5 \mathrm{~b}-\{-3 \mathrm{a}-7 \mathrm{~b}+2 \mathrm{c}\}] \\ &amp; =-\mathrm{a}+[-5 \mathrm{~b}+3 \mathrm{a}+7 \mathrm{~b}-2 \mathrm{c}] \\ &amp; =-\mathrm{a}+3 \mathrm{a}-5 \mathrm{~b}+7 \mathrm{~b}-2 \mathrm{c} \\ &amp; =2 \mathrm{a}+2 \mathrm{~b}-2 \mathrm{c} \text { (Ans.) }\end{aligned}[/math]
+গ[math]2 a+2 b-2 c[/math] রাশিটিির ২য় ও ৩য় পদ যথাক্রমে [math]2b[/math] ও [math]-2c.[/math] প্রশ্নানুসারে, [math]2 a-(-2 b+2 c)[/math]&lsquo;ক&rsquo; থেকে প্রাপ্ত ফলাফল [math]=-3 \mathrm{a}-7 \mathrm{~b}+2 \mathrm{c}[/math]এখন, [math]2 \mathrm{a}-(-2 \mathrm{~b}+2 \mathrm{c})-(-3 \mathrm{a}-7 \mathrm{~b}+2 \mathrm{c})[math]=2 a+2 b-2 c+3 a+7 b-2 c[/math]=5 a+9 b-4 c[/math] (Ans.)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 799891)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]15x ^ 2 + 7x - 2[/math] এবং [math]5x - 1[/math] দুইটি বীজগণিতীয় রাশি।
+
+Options:
+ক. প্রথম রাশি থেকে দ্বিতীয় রাশি বিয়োগ কর।
+খ. রাশিদ্বয়ের গুণফল নির্ণয় কর।
+গ. প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\begin{array}{r}\text{প্রথম রাশি}= 15x ^ 2 + 7x - 2 \\ \text{দ্বিতীয় রাশি}~~~~~~~~~~= 5x - 1\\{(-)~~(+)} \\ \hline \text{}15x ^ 2 + 2x - 1 \end{array}[/math]নির্ণেয় বিয়োগফল [math]15x ^ 2 + 2x - 1 .[/math]
+খ[math]\begin{aligned}&amp; 15 x^2+7 x-2 \\&amp; \times \quad 5 x-1 \\&amp; \hline 75 x^3+35 x^2-10 x\end{aligned}[/math][math]\frac{-15 x^2-7 x+2}{75 x^3+20 x^2-17 x+2}[/math]নির্ণেয় গুণফল [math]75x ^ 3 + 20x ^ 2 - 17x + 2.[/math]
+গ[math]\begin{array}{}{5x - 1 )~~15x ^ 2 + 7x -2~~(3x+2} \\ {15x ^ 2 - 3x}\\{(-) ~~~(+)}\\ \hline {10x - 2}\\{10x - 2}\\{(-)~~~(+)}\\ \hline~~~~~~~~{0}\ \end{array}[/math]নির্ণেয় ভাগফল [math]3x + 2.[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 799892)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm A = x ^ 2 - xy + y ^ 2, \mathrm  B = x ^ 2 + xy + y ^ 2[/math]
+
+এবং [math]\mathrm  C = x ^ 4 + x ^ 2  y ^ 2 + y ^ 4.[/math]
+
+Options:
+ক. A - B = কত?
+খ. A ও B এর গুণফল নির্ণয় কর।
+গ. BC&nbsp;[math]\div[/math]&nbsp;B<sup>2</sup> - A নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]\mathrm{A}=\mathrm{x}^2-\mathrm{xy}+\mathrm{y}^2[/math] এবং [math]\mathrm B=x^2+x y+y^2[/math][math]\begin{aligned}\therefore \mathrm A-\mathrm B &amp; =\left(x^2-x y+y^2\right)-\left(x^2+x y+y^2\right) \\&amp; =x^2-x y+y^2-x^2-x y-y^2 \\&amp; =-2 x y\end{aligned}[/math]নির্ণেয় মান : [math]- 2xy.[/math]
+খদেওয়া আছে, [math]\mathrm{A}=\mathrm{x}^2-\mathrm{xy}+\mathrm{y}^2[/math]এবং [math]\mathrm B=x^2+x y+y^2[math]\mathrm{A} \text { ও } \mathrm B \text { এর গুণফল }=[/math][math]\begin{aligned}&amp; =\left(\mathrm{x}^2-\mathrm{xy}+\mathrm{y}^2\right) \times\left(\mathrm{x}^2+\mathrm{xy}+\mathrm{y}^2\right)\end{aligned}[/math]\begin{array}{ll}\text { এখন, } &amp; x^2-x y+y^2 \\&amp; x^2+x y+y^2 \\\hline &amp; x^4-x^3 y+x^2 y^2\end{array}[math]\begin{array}{}{x ^ 3 y - x ^ 2 y ^ 2 + x y ^ 3} \\ {x ^ 2 y ^ 2 - x y ^ 3 + y ^ 4}\\ \hline \text {যোগ করে, } x ^ 4+x ^ 2 y ^ 2+ y^4\ \end{array}[/math]\therefore[/math]A [math]\times[/math] B = [math]x ^ 4 + x ^ 2 y ^ 2 + y ^ 4[/math]নির্ণেয় গুণফল: [math]x ^ 4 + x ^ 2 y ^ 2 + y ^ 4.[/math]
+গদেওয়া আছে, [math]\mathrm{A}=\mathrm{x}^2-\mathrm{xy}+\mathrm{y}^2[math]\mathrm B=x^2+x y+y^2[/math]এবং [math]\mathrm C=x^4+x^2 y^2+y^4[/math]\begin{aligned}\text { প্রদত্ত রাশি} &amp; =\mathrm B \mathrm C \div \mathrm B^2-\mathrm A \\&amp; =\left(x^2+x y+y^2\right)\left(x^4+x^2 y^2+y^4\right) \div\\&amp;\left(x^2+x y+y^2\right)^2-\left(x^2-x y+y^2\right) \\&amp; =\left(x^2+x y+y^2\right)\left(x^4+x^2 y^2+y^4\right) \times \\&amp;\frac{1}{\left(x^2+x y+y^2\right)^2}-\left(x^2-x y+y^2\right)\end{aligned}[/math]        [math]= (x ^ 2 + xy + y ^ 2)(x ^ 4 + x ^ 2 y ^ 2 + y ^ 4)[/math][math]\begin{aligned} &amp; \times \frac{1}{\left(x^2+x y+y^2\right)\left(x^2+x y+y^2\right)}\\&amp;-\left(x^2-x y+y^2\right) \\ = &amp; \frac{x^4+x^2 y^2+y^4}{x^2+x y+y^2}-\left(x^2-x y+y^2\right) \\ = &amp; \frac{\left(x^2+x y+y^2\right)\left(x^2-x y+y^2\right)}{x^2+x y+y^2}\\&amp;-\left(x^2-x y+y^2\right) \\ = &amp; x^2-x y+y^2-\left(x^2-x y+y^2\right) \\ = &amp; x^2-x y+y^2-x^2+x y-y^2=0\end{aligned}[/math]নির্ণেয় মান: [math]0.[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 799790)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]A = x ^ 2 + xy + y ^ 2 ,B = x - y.[/math]
+
+Options:
+ক. B রাশির সাথে - 4y যোগ করলে কত হয়?
+খ. [math]y ^ 2 - xy + y ^ 2[/math] এর সাথে এ রাশিটির গুণফল নির্ণয় কর।
+গ. উদ্দীপকের আলোকে দেখাও যে, AB = x<sup>3</sup> - y<sup>3</sup>&nbsp;।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]B=x-y \therefore B-4 y=x-y-4 y=x-5 y[/math] (Ans.)
+খ[math]\begin{aligned} &amp; A=x^2+x y+y^2 \\ &amp; \therefore A\left(y^2-x y+y^2\right) \\ &amp; =\left(x^2+x y+y^2\right)\left(2 y^2-x y\right) \\ &amp; =2 x^2 y^2+2 x^3+2 y^4-x^3 y-x^2 y^2-x y^3 \\ &amp; =x^2 y^2+x y^3+2 y^4 \text { (Ans.) }\end{aligned}[/math]
+গ[math]\begin{aligned}&amp; A B=\left(x^2+x y+y^2\right)(x-y) \\&amp; \text { বा, } A B=x^3+x^2 y+x y^2-x^2 y-x y^2-y^2\end{aligned}[/math]বা, AB [math]=x^3-y^3[/math] (দেখানো হলো)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 799793)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]x - y, x + y, x² + xy + y², x² -xy + y²[/math] চারটি বীজগণিতীয় রাশি
+
+Options:
+ক. ১ম দুইটি রাশির গুণফল নির্ণয় কর।
+খ. ১ম ও ৩য় রাশির গুণফল নির্ণয় কর এবং x = 3, y = 2 হলে গুণফলের মান নির্ণয় কর।
+গ. দেখাও যে, রাশি চারটির গুণফল x<sup>6</sup> - y<sup>6</sup>.
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\begin{aligned} \text { ১ম দুইটি রাশির গুণফল } &amp; =(x-y)(x+y) \\ &amp; =x^2+x y-x y-y^2\end{aligned}[/math]                 [math]= x&sup2; - y&sup2;[/math] (Ans.)
+খ১ম ও ৩য় রাশির গুণফল[math]\begin{aligned} &amp; =(x-y)\left(x^2+x y+y^2\right) \\ &amp; =x^3+x^2 y+x y^2-x^2 y-x y^2-y^3 \\ &amp; =x^3-y^3\end{aligned}[/math][math]\therefore[/math]১ম ও ৩য় রাশির গুণফলের মান[math]\begin{aligned} &amp; =x^3-y^3 \\ &amp; =(3)^3-(2)^3[\because x=3, y=2] \\ &amp; =27-8=19 \text { (Ans.) }\end{aligned}[/math]
+গরাশি চারটির গুণফল[math]\begin{aligned}&amp; =(x-y)(x+y)\left(x^2+x y+y^2\right)\left(x^2-x y+y^2\right) \\&amp; =(x-y)\left(x^2+x y+y^2\right)(x+y)\left(x^2-x y+y^2\right) \\&amp; =\left(x^3-y^3\right)\left(x^3-x^2 y+x y^2+x^2 y-x y^2+y^3\right)\\&amp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\text { [&lsquo;খ' হতে প্রাপ্ত] } \\&amp; =\left(x^3-y^3\right)\left(x^3+y^3\right) \\&amp; =x^6+x^3 y^3-x^3 y^3-y^6 \\&amp; =\mathrm{x}^6-\mathrm{y}^6\end{aligned}[/math][math]\therefore[/math] রাশি চারটির গুণফল [math]x^6-y^6[/math]. (দেখানো হলো)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 799795)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]a + b, a - b, a ^ 2 - 2ab + b ^ 2, a ^ 2 + b ^ 2, a ^ 4 + b ^ 4[/math] পাঁচটি বীজগণিতীয় রাশি।
+
+Options:
+ক. ১ম দুইটি রাশির গুণফল নির্ণয় কর।
+খ. a = 2, b = - 1 হলে, ৩য় ও ৪র্থ রাশির গুণফলের মান নির্ণয় কর।
+গ. ১ম, ২য়, ৪র্থ ও ৫ম রাশির গুণফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক১ম ও ২য় রাশির গুণফল[math]\begin{aligned}&amp; =(a+b)(a-b) \\&amp; =a^2-a b+a b-b^2 \\&amp; =a^2-b^2 \text { (Ans.) }\end{aligned}[/math]
+খ৩য় ও ৪র্থ রাশির গুণফল[math]\begin{aligned}&amp; =\left(a^2-2 a b+b^2\right)\left(a^2+b^2\right) \\&amp; =a^4+a^2 b^2-2 a^3 b-2 a b^3+a^2 b^2+b^4 \\&amp; =a^4-2 a^3 b-2 a b^3+2 a^2 b^2+b^4 \\&amp; =(2)^4-2 \cdot(2)^3 \cdot(-1)-2 \cdot 2 \cdot(-1)^3\\&amp;+2(2)^2 \cdot(-1)^2+(-1)^4 \\&amp; =16+16+4+8+1=45 \text { (Ans.) }\end{aligned}[/math]
+গ১ম, ২য়, ৪র্থ ও ৫ম রাশির গুণফল[math]\begin{aligned}&amp; =(a+b)(a-b)\left(a^2+b^2\right)\left(a^4+b^4\right) \\&amp; =\left(a^2-b^2\right)\left(a^2+b^2\right)\left(a^4+b^4\right) \\&amp; =\left(a^4+a^2 b^2-a^2 b^2-b^4\right)\left(a^4+b^4\right) \\&amp; =\left(a^4-b^4\right)\left(a^4+b^4\right) \\&amp; =a^8+a^4 b^4-a^4 b^4-b^8 \\&amp; =a^8-b^8 \text { (Ans.) }\end{aligned}[/math][&lsquo;ক&rsquo; হতে পাই]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 799798)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]32 a^8 b^{10} c^6[/math] এবং [math]-8 a^4 b^2 c^3[/math] দুইটি বীজগণিতীয় রাশি। বীজগণিতীয় রাশির ভাগের ক্ষেত্রে আমরা ভাগের সূচক বিধি ব্যবহার করি।
+
+Options:
+ক. ভাগের সূচক বিধি ব্যাখ্যা কর।
+খ. ১ম রাশিকে [math]4a b ^ 2&nbsp; c ^ 4[/math] দ্বারা ভাগ কর।
+গ. [math]32 a^9 b^{10} c^6 6[/math] কে [math]8 a^3 b^2 c^3[/math] দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\mathrm{a}^{\mathrm{m}} \div \mathrm{a}^{\mathrm{n}}=\mathrm{a}^{\mathrm{m}-\mathrm{n}}[/math] যেখানে m ও n স্বাভাবিক সংখ্যা এবং [math]\mathrm{m}&gt;\mathrm{n}[/math], a = 0, এই প্রক্রিয়াকে ভাগের সূচক বিধি বলা হয়।
+খ[math]\begin{aligned} \text { ১ম রাশি } &amp; =32 \mathrm{a}^8 6^{10} \mathrm{c}^6 \\ \therefore &amp; \frac{32 \mathrm{a}^8 \mathrm{~b}^{10} \mathrm{c}^6}{4 \mathrm{ab}^2 \mathrm{c}^4}=\frac{32}{4} \times \frac{\mathrm{a}^8}{\mathrm{a}} \times \frac{\mathrm{b}^{10}}{\mathrm{~b}^2} \times \frac{\mathrm{c}^6}{\mathrm{c}^4}\end{aligned}[/math][math]\begin{aligned}&amp; =8 \times a^{8-1} \times b^{10-2} \times c^{6-4} \\&amp; =8 a^7 b^8 c^2\end{aligned}[/math]নির্ণেয় ভাগফল : [math]8 a^7 \mathrm{~b}^8 \mathrm{c}^2[/math]
+গ[math]\begin{aligned}\frac{32 a^9 b^{10} c^6}{8 a^3 b^2 c^3} &amp; =\frac{32}{8} \times \frac{a^9}{a^3} \times \frac{b^{10}}{b^2} \times \frac{c^6}{c^3} \\&amp; =4 \times a^{9-3} \times b^{10-2} \times c^{6-3} \\&amp; =4 \times a^6 \times b^8 \times c^3 \\&amp; =4 a^6 b^8 c^3\end{aligned}[/math]নির্ণেয় ভাগফল : [math]4a^6 b^8 c^3[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 799852)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]2+11 a^2+12 a^4, 12 a^2-8 a-32,3 a^2+2,4 a-8[/math] চারটি বীজগণিতীয় রাশি।
+
+Options:
+ক. ১ম রাশিকে [math]a[/math] এর শক্তির অধঃক্রম অনুসারে সাজিয়ে লেখ।
+খ. প্রাপ্ত ফলাফলকে ৩য় রাশি দ্বারা ভাগ কর।
+গ. ২য় রাশিকে ৪র্থ রাশি দ্বারা ভাগ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক১ম রাশিকে [math]a[/math] এর শক্তির অধঃক্রম অনুসারে সাজিয়ে পাই, [math]12a ^ 4 + 11a ^ 2 + 2[/math] (Ans.)
+খ[math]\begin{aligned} &amp; \text { &lsquo;ক&rsquo; থেকে প্রাপ্ত ফলাফল } 12 \mathrm{a}^4+11 \mathrm{a}^2+2 \\ &amp; \therefore \frac{\text { প্রাপ্ত ফলাফল }}{\text { তৃতীয় রাশি }}=\frac{12 \mathrm{a}^4+11 \mathrm{a}^2+2}{3 \mathrm{a}^2+2}\end{aligned}[/math][Image]নির্ণেয় ভাগফল: [math]4a ^ 2 + 1[/math]
+গ[math]\frac{\text { ২য় রাশি }}{ \text { } \text { ৪র্থ রাশি }}=\frac{12 a^2-8 a-32}{4 a-8}[/math][Image]নির্ণেয় ভাগফল: 3a + 4
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 191899)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি স্কুলের ম্যানেজিং কমিটি তাদের স্কুলের 10 জন গরীব শিক্ষার্থীর জন্য দুঃস্থ কল্যাণ তহবিল থেকে £ টাকা বরাদ্দ করল। সেই টাকা থেকে প্রত্যেক শিক্ষার্থীকে প্রতিটি £ টাকা মূল্যের 2টি করে খাতা ও প্রতিটি ৫ টাকা মূল্যের 1টি করে কলম বিতরণ করা হলো। এতে কিছু টাকা উদ্ৃত্ত হলো। এই টাকার সাথে আরও 4 টাকা যোগ করে তা 2 জন প্রতিবন্ধী শিক্ষার্থীর মধ্যে সমানভাবে ভাগ করে দেওয়া হলো। উপরে বর্ণিত তথাগ্রলোকে বীজগণিতীয় রাশির মাধ্যমে প্রকাশ করতে পারি।
+
+Options:
+ক. (জ্ঞানমূলক): স্কুল কমিটির বরাদ্দকৃত টাকার পরিমাণ নির্ধারণের জন্য কোন সূত্র ব্যবহার করা যেতে পারে?
+খ. (অনুধাবন): শিক্ষার্থীদের জন্য বরাদ্দকৃত টাকার ব্যবহার কেন গুরুত্বপূর্ণ?
+গ. (বিশ্লেষণ/প্রয়োগ): এই প্রকল্পের মাধ্যমে গরীব শিক্ষার্থীদের কী ধরনের সুবিধা হলো তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): প্রতিবন্ধী শিক্ষার্থীদের সহায়তা প্রদানের জন্য স্কুল কিভাবে আরও কার্যকরী ভূমিকা রাখতে পারে তা প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ক সমাধান: মোট বরাদ্দ ধরা যাক [math]T[/math] এবং প্রতিটি খাতার দাম ধরা যাক [math]p[/math]। তাহলে ১০ জনের জন্য খাতার ও কলমের মোট খরচ হলো [math]10(2p+5)[/math], অবশেষে প্রতিটি প্রতিবন্ধীকে যে টাকা পড়ে তা হবে [math]\dfrac{T-10(2p+5)+4}{2}[/math]। এই সূত্রটি সঠিক কারণ প্রথম অংশে প্রত্যেক শিক্ষার্থীর দেওয়া সামগ্রীর মোট খরচ এবং মোট বরাদ্দের মধ্যে পার্থক্যই অবশিষ্ট টাকা দেয়। 
+
+খ ব্যাখ্যা: বরাদ্দকৃত টাকার ব্যবহার গুরুত্বপূর্ণ কারণ এটি দরিদ্র শিক্ষার্থীদের প্রয়োজনীয় সামগ্রী দেয়, পড়াশোনায় অংশগ্রহণ বাড়ায় এবং শিক্ষাার্থ্যের সমতা নিশ্চিত করে। 
+
+গ বিশ্লেষণ: এই প্রকল্প গরীব শিক্ষার্থীদের প্রয়োজনীয় খাতা ও কলম সরবরাহ করে শেখার সক্ষমতা বাড়ায়, তাদের স্কুলে নিয়মিত অংশগ্রহণ ও আত্মবিশ্বাস বৃদ্ধি করে এবং আর্থিক চাপ কমায়, ফলে শিক্ষার মান উন্নত হয়। 
+
+ঘ প্রস্তাবনা: প্রতিবন্ধী শিক্ষার্থীদের জন্য স্কুল আরও কার্যকর করতে পারে — আলাদা সহায়ক অর্থ বা বৃত্তি, অনুকূল ক্লাস-ব্যবস্থা ও সহায়ক যন্ত্রপাতি (যেমন-ব্রেইল উপকরণ, হুইলচেয়ার র‍্যাম্প), এবং মনোযোগী কাউন্সেলিং ও শিক্ষাক্ষেত্রে অন্তর্ভুক্তিকরণ প্রোগ্রাম চালু করে।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 191900)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // দুইটি বীজগণিতীয় রাশি (2x + 3) এবং (4x - 5) এর গুণফল নির্ণয় করতে হলে গুণের সংযোগবিধি অনুযায়ী কিভাবে গুণফল বের করা যায়? এই গুণফলের মাধ্যমে একটি দৈনন্দিন জীবনের সমস্যা সমাধান করো।
+
+Options:
+ক. (জ্ঞানমূলক): গুণফল বের করার জন্য কোন পদ্ধতি অনুসরণ করা হয়?
+খ. (অনুধাবন): গুণফলের ব্যবহার দৈনন্দিন জীবনে কিভাবে হয়?
+গ. (বিশ্লেষণ/প্রয়োগ): এই গুণফল বের করার পদ্ধতি কোন পরিস্থিতিতে কার্যকর হতে পারে তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): এই গুণফলকে ব্যবহার করে একটি নতুন সূত্র তৈরি করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক গুণের সংযোগবিধি (distributive law) অনুযায়ী প্রত্যেক পদকে একে অপরের সাথে গুণ করে যোগ করলে [math](2x+3)(4x-5)=8x^2+2x-15[/math] পাওয়া যায়।
+
+খ এই গুণফল দৈনন্দিন জীবনে কাজে লাগে—উদাহরণস্বরূপ যদি কোনো আয়তক্ষেত্রের দৈর্ঘ্য [math]2x+3[/math] মি. ও প্রস্থ [math]4x-5[/math] মি. হয় তবে ক্ষেত্রফল হবে [math]A=8x^2+2x-15[/math] (যেমন x=2 হলে [math]A=21[/math] মি.^2)।
+
+গ এই পদ্ধতি বিশেষভাবে কার্যকর যখন ভেরিয়েবলভিত্তিক পরিমাপ বা মডেল করতে হয়, যেমন আয়তন, খরচ বা উপকরণের পরিমাণ যেখানে পরিবর্তনশীলের সাথে গুণযোগ করে বর্গীয় সম্পর্ক তৈরি হয়।
+
+ঘ এখান থেকে নতুন সূত্র হিসেবে নেওয়া যায় ক্ষেত্রফল নির্ণয়ের ফাংশন: [math]A(x)=8x^2+2x-15[/math], যা বিভিন্ন x-র জন্য সরাসরি ব্যবহার করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 191901)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // 6-(-2) এর মান নির্ণয় করার সময় বন্ধনীর ব্যবহার কিভাবে গুরুত্বপূর্ণ ভূমিকা পালন করে? এই প্রক্রিয়া মাধ্যমে একটি গণনার উদাহরণ দাও।
+
+Options:
+ক. (জ্ঞানমূলক): বন্ধনীর গুরুত্ব কেন গণনায় আবশ্যক?
+খ. (অনুধাবন): গণনার সময় বন্ধনী অপসারণের ফলে কি পরিবর্তন আসে?
+গ. (বিশ্লেষণ/প্রয়োগ): 6-(-2) এর মান নির্ণয়ে বন্ধনীর প্রভাব বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): গণনায় বন্ধনীর ব্যবহার আরও কীভাবে উন্নত করা যেতে পারে তা প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ক বন্ধনী দেখায় কোন চিহ্নটি পুরো সংখ্যাটির ওপর প্রয়োগ হচ্ছে, তাই ভুল সংকেত এড়াতে গণনায় বন্ধনীর ব্যবহার জরুরি।  
+খ বন্ধনী অপসারণের সময় এর সামনে যে অপারেটর আছে তা ভিতরের সংখ্যার চিহ্ন পরিবর্তন করে; উদাহরণ: [math]-(-2)=+2[/math]।  
+গ বিশ্লেষণ/প্রয়োগ: বন্ধনী রেখে লেখা [math]6-(-2)[/math] থেকে সরলীকরণ করলে [math]6-(-2)=6+2=8[/math], এখানে বন্ধনী অপসারণে মাইনাসটি নেগেটিভকে পজিটিভে রূপান্তর করেছে।  
+ঘ উন্নত প্রস্তাবনা: বিভ্রান্তি কমাতে স্পষ্ট ব্র্যাকেট, ধাপে ধাপে চিহ্ন বদলের লেখা বা সংখ্যা রেখা ব্যবহার করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 191902)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি শিক্ষার্থী 12 সংখ্যার গুণফল বের করতে চাচ্ছে। সে কি ভাবে গুণের বিনিময়বিধি এবং গুণের সংগ্রহবিধির উপকারিতা নিয়ে কাজ করতে পারে? এই তত্ত্বের উপর ভিত্তি করে একটি সমস্যা সমাধান করো।
+
+Options:
+ক. (জ্ঞানমূলক): গুণের বিনিময়বিধি কি?
+খ. (অনুধাবন): গুণের সংগ্রহবিধির প্রভাব কিভাবে গণনায় দেখা যায়?
+গ. (বিশ্লেষণ/প্রয়োগ): 12 সংখ্যার গুণফল নির্ণয়ে এই বিধি কিভাবে কার্যকর হতে পারে তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): গুণের বিধি সম্পর্কে আরও একটি নতুন তত্ত্ব প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ক গুণের বিনিময়বিধি মানে হলো ক্রমিক পরিবর্তন করলে ফল ঠিক থাকে, অর্থাৎ [math]a×b=b×a[/math] — তাই সংখ্যাগুলোর ক্রম পরিবর্তন করে সুবিধাজনক জোড়া করা যায়।  
+খ গুণের সংগ্রহবিধি মানে হলো গ্রুপিং পরিবর্তন করলে ফল একই থাকে, অর্থাৎ [math](ab)c=a(bc)[/math] — এভাবে সমূহকে এমনভাবে গোষ্ঠী করা যায় যাতে মধ্যবর্তী গুণফল সহজ হয়।  
+গ উদাহরণ: ১২ সংখ্যার গুণফল ধরলে [math]1×2×\cdots×12=12!=479001600[/math]; বিনিময় ও সংগ্রহবিধি ব্যবহার করে আমরা এটাকে জোড়া করে লিখতে পারি যেমন [math](1×12)(2×11)(3×10)(4×9)(5×8)(6×7)[/math] যাতে গুণফল হিসাব করা সহজ হয়।  
+ঘ নতুন প্রস্তাবিত তত্ত্ব (সংক্ষেপে): "যদি বহু-গুণকে এমন গ্রুপে বিভক্ত করা যায় যে প্রতিটি গ্রুপের গুণফল সহজ সংখ্যায় পড়ে (যেমন 10 বা 100), তাহলে মোট গুণফল সহজভাবে ঐ গ্রুপগুলোর গুণফলগুলোর গুণ হিসেবে পাওয়া যায়" — এটি বিনিময় ও সংগ্রহবিধির ব্যবহারগত সহজীকরণ প্রকাশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 190213)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 
+একটি স্কুলের দশজন গরীব শিক্ষার্থীর জন্য কল্যাণ তহবিল থেকে টাকা বরাদ্দ করা হয়েছে। প্রত্যেক শিক্ষার্থীকে ৫ টাকার কলম এবং ২ টাকার খাতা দেওয়া হবে। কয়েকটি টাকা উত্পাদনে থাকবে। পরে সেই টাকা আরো ৪ টাকায় যোগ করে দুই প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ করা হবে। এই উদাহরণটি গণিতের বিভিন্ন পদ্ধতির উপর ভিত্তি করে তৈরি হয়েছে, যেখানে বীজগণিতের সূত্র ও সংখ্যা ব্যবহৃত হয়েছে।
+
+Options:
+ক. (জ্ঞানমূলক): প্রথমে শিক্ষার্থীদের জন্য বরাদ্দকৃত টাকা কিভাবে গণনা করা হয়?
+খ. (অনুধাবন): এ ধরনের তহবিল ব্যবস্থাপনার সুবিধা কিভাবে হতে পারে?
+গ. (বিশ্লেষণ/প্রয়োগ): উত্পাদিত টাকার ব্যবহারে কিভাবে বীজগণিতীয় রাশি বা সূত্র প্রয়োগ করা হবে তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): শিক্ষার্থীদের জন্য তহবিল বরাদ্দের পদ্ধতি উন্নত করার জন্য কি প্রস্তাবনা দিবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ক প্রত্যেক শিক্ষার্থীর জন্য খরচ হবে [math]5+2=7[/math] টাকা, তাই দশজনের মোট খরচ [math]10\times7=70[/math] টাকা।  
+খ আগাম আইটেম ও ইউনিট দাম নির্ধারণ করলে বাজেট পরিকল্পনা সহজ হয়, সমঅবস্থান নিশ্চিত থাকে এবং পাতরা স্বচ্ছ থাকে।  
+গ অবশিষ্ট টাকাকে ধরলে [math]x[/math] হলে দুই প্রতিবন্ধীর প্রত্যেকে পাবে [math]\frac{x+4}{2}[/math] টাকা; যদি অবশিষ্ট = মোট তহবিল − [math]70[/math] হয়, সেটি সেখানে প্রতিস্থাপন করে ফল পাওয়া যায়।  
+ঘ চাহিদাভিত্তিক বরাদ্দ, খরচের বিস্তারিত রেকর্ড ও ছোট জরুরি সংরক্ষণ রাখা—এগুলো তহবিল ব্যবস্থাপনা উন্নত করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 190214)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 
+শিক্ষক ক্লাসে ছাত্রদেরকে বীজগণিতীয় গুণ ও ভাগের মৌলিক নিয়ম শেখাচ্ছিলেন। তিনি বিভিন্ন সমস্যা সমাধান করার জন্য সূত্রাবলির প্রয়োগের উপর জোর দেন। ছাত্ররা এই বিষয়টি নিয়ে আলোচনা করে দেখলো, কিভাবে গুণের বিনিময়বিধি ও সংযোগবিধি ব্যবহার করে জটিল সমস্যার সমাধান করা যায়।
+
+Options:
+ক. (জ্ঞানমূলক): বীজগণিতীয় গুণ ও ভাগের মৌলিক নিয়মগুলি কি কি?
+খ. (অনুধাবন): গুণের বিনিময়বিধির প্রয়োগে কি সুবিধা হয়?
+গ. (বিশ্লেষণ/প্রয়োগ): বাস্তব জীবনে গুণ ও ভাগের নিয়ম কিভাবে প্রযোজ্য হতে পারে তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): ছাত্রদের মধ্যে বীজগণিতীয় সূত্রের প্রতি আগ্রহ বাড়ানোর জন্য কি পদক্ষেপ নেওয়া যেতে পারে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক বীজগণিতীয় গুণ ও ভাগের মৌলিক নিয়মগুলির মধ্যে রয়েছে গুণের বিনিময়বিধি (কমিউটেটিভ: [math]a×b=b×a[/math]), সংযোগবিধি (অ্যাসোসিয়েটিভ: [math](a×b)×c=a×(b×c)[/math]), বণ্টনবিধি (ডিস্ট্রিবিউটিভ: [math]a×(b+c)=a×b+a×c[/math]), গুণগত পরিচয় (আইডেন্টিটি: [math]a×1=a[/math]) এবং ভাগকে গুণের বিপরীত হিসেবে দেখা (বিভাগ: [math]a÷b=a×\tfrac{1}{b}[/math]) — এইগুলো জানলেই সমস্যাগুলো সাজানো যায়।
+
+খ গুণের বিনিময়বিধি ব্যবহার করলে গুণের শ্রেণিবিন্যাস বদলে সহজ যোগ/গুণ করা যায়, ফলে গণনা দ্রুত ও ধারণাগতভাবে পরিষ্কার হয়; বিশেষ করে বড় সংখ্যা বা বহুবচন গুণে সুবিধা পাওয়া যায়।
+
+গ বাস্তব জীবনে গুণ ও ভাগ ব্যবহার করা হয় পরিমাপ, এলাকার হিসাব, রেসিপি স্কেল করা, ওয়েজ বা ইউনিট রেট বের করতে ইত্যাদি ক্ষেত্রে; সমস্যাকে ছোট-ছোট গুণ ও ভাগে ভাগ করে ডিস্ট্রিবিউটিভ ও অ্যাসোসিয়েটিভ নিয়ম প্রয়োগ করে সহজভাবে সমাধান করা যায়।
+
+ঘ ছাত্রদের আগ্রহ বাড়াতে বাস্তব উদাহরণ, গ্রুপ প্রকল্প, গেম বা অনুশীলনী সমস্যার মাধ্যমে সূত্রের প্রয়োগ দেখানো এবং ধাপে ধাপে কৌশল শেখানো উচিত, যাতে তারা সূত্রের ব্যবহার কেবল স্মৃতি নয় বরং বোধগম্যভাবে আয়ত্ত করতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 190215)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 
+শিক্ষক বীজগণিতীয় রাশির গুণনীয়ক ও গুণিতক নিয়ে আলোচনা করছিলেন। তিনি দেখালেন কিভাবে একটি সংখ্যার গুণফল নির্ণয় করা হয় এবং কিভাবে বীজগণিতীয় সূত্র ব্যবহার করে সমস্যাগুলি সমাধান করা যায়। ছাত্ররা বিষয়টি নিয়ে আলোচনা করে, গুণনের বিভিন্ন বিধির প্রয়োগ নিয়ে চিন্তা করছিল।
+
+Options:
+ক. (জ্ঞানমূলক): গুণফল নির্ণয়ের পদ্ধতি কী?
+খ. (অনুধাবন): গুণণের বিভিন্ন বিধির গুরুত্ব কি?
+গ. (বিশ্লেষণ/প্রয়োগ): একটি উদাহরণ দিয়ে গুণফল নির্ণয় করার প্রক্রিয়া বোঝাও।
+ঘ. (মূল্যায়ন/সৃজন): শিক্ষার্থীদের মধ্যে গুণফল নির্ণয়ের প্রতি আগ্রহ বাড়ানোর জন্য কি পরিকল্পনা করতে পারো?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক গুণফল নির্ণয়ের পদ্ধতি কী? — গুণফল নির্ণয় মানে কোনো পরিমাণকে নির্দিষ্ট সংখ্যক সমান অংশে যোগ করা; সহজ পদ্ধতি হলো পুনরাবৃত্তি যোগ বা টেবিল/ক্ষেত্রযুক্তি ব্যবহার করা, যেমন [math]3×4=12[/math] — কারণ গুণ হলো সমান গ্রুপগুলোর মোট যোগফল। 
+
+খ গুণণের বিভিন্ন বিধির গুরুত্ব কি? — বিধি যেমন commutative, associative ও distributive গুণকে দ্রুত ও সুশৃঙ্খলভাবে সাজাতে সাহায্য করে এবং জটিল সরলীকরণ বা অভিক্ষেপে সময় বাঁচায়; তাই সমস্যা সমাধানে নির্ভরযোগ্যতা বাড়ে। 
+
+গ একটি উদাহরণ দিয়ে গুণফল নির্ণয় করার প্রক্রিয়া বোঝাও। — উদাহরণ: [math](x+2)(x+3)=x(x+3)+2(x+3)=x^2+3x+2x+6=x^2+5x+6[/math] — এখানে distributive বিধি প্রয়োগ করে প্রতিটি অংশকে গুণ করা এবং পরবর্তীতে সমান ধরনের পদের যোগ করে ফল পাওয়া যায়। 
+
+ঘ শিক্ষার্থীদের মধ্যে গুণফল নির্ণয়ের প্রতি আগ্রহ বাড়ানোর জন্য কি পরিকল্পনা করতে পারো? — ছোট খেলাধুলা/পজল, বাস্তবজীবনের সমস্যা (দোকানের তালিকা, এলাকা-দৈর্ঘ্য গণনা) ও গ্রুপ কার্যক্রম দিয়ে পাঠ করালে কার্যকর; বাস্তব প্রয়োগ দেখালে ধারণা পরিষ্কার হয় এবং অনুশীলনে আগ্রহ বাড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 190216)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 
+একটি স্কুলে গণিতের ক্লাসে শিক্ষকেরা ছাত্রদেরকে গুণ ও ভাগের নিয়ম শেখাচ্ছিলেন। শিক্ষকেরা দেখালেন কিভাবে গুণনের বিভিন্ন বিধির সাহায্যে সমস্যাগুলি সমাধান করা যায় এবং ছাত্রদের মধ্যে উৎসাহ বাড়ানোর চেষ্টা করছিলেন। শিক্ষার্থীরা নিজেদের উদাহরণ নিয়ে আলোচনা শুরু করে।
+
+Options:
+ক. (জ্ঞানমূলক): গুণ ও ভাগের মৌলিক নিয়মগুলি কি কি?
+খ. (অনুধাবন): গুণনের বিধির প্রয়োগের সুবিধা কি?
+গ. (বিশ্লেষণ/প্রয়োগ): একটি উদাহরণ দিয়ে দেখাও কিভাবে গুণন ও ভাগের নিয়ম ব্যবহার করে সমস্যা সমাধান করা যায়।
+ঘ. (মূল্যায়ন/সৃজন): শিক্ষার্থীদের মধ্যে গুণ ও ভাগের ব্যবহারের প্রতি আগ্রহ বাড়ানোর জন্য কি পরিকল্পনা করতে পারো?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ক গুণ ও ভাগের মৌলিক নিয়মগুলো হলো: গুণের ক্ষেত্রে বিনিমেয়তা (commutative) [math]a×b=b×a[/math], সংগবদ্ধতা (associative) [math](a×b)×c=a×(b×c)[/math], বিতরণীয়তা (distributive) [math]a×(b+c)=a×b+a×c[/math], পরিচয়ী গুণ (identity) [math]a×1=a[/math] এবং শূন্যের গুণ (zero property) [math]a×0=0[/math]; ভাগ গুণনের বিপরীত এবং সাধারণত বিনিমেয় বা সংগবদ্ধ নয় (উদাহরণ: [math]a÷b≠b÷a[/math])। 
+
+খ গুণনের বিধি ব্যবহার করলে জটিল প্রদত্তগুলো সহজভাবে বিভক্ত করা যায়, mental calculation দ্রুত হয় এবং সমস্যা সমাধানে ধাপগুলো নির্দিষ্ট থাকে, ফলে ত্রুটি কমে। 
+
+গ উদাহরণ: 5টা বক্সে প্রতিটিতে 12টি আপেল থাকলে মোট আপেল [math]5×12=5×(10+2)=50+10=60[/math]; যদি 20 জনের মধ্যে ভাগ করে নিতেই হয়, তাহলে প্রতিজন পায় [math]60÷20=3[/math], এখানে বিতরণীয়তা ও ভাগের মাধ্যমে সহজে হিসাব করা হয়েছে। 
+
+ঘ আগ্রহ বাড়াতে পরিকল্পনা হতে পারে: বাস্তব সমস্যা-মুখী কার্যক্রম (বাজার, রান্না ইত্যাদি), খেলাধুলার মতো গনিত গেম ও প্রতিযোগিতা, ও মানসিক কৌশল শেখানো—এগুলো শিক্ষার্থীদের সক্রিয় করে ও ব্যবহারিক প্রাসঙ্গিকতা দেখায়।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 160641)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি স্কুলের ম্যানেজিং কমিটি তাদের স্কুলের 10 জন গরীব শিক্ষার্থীর জন্য দুঃস্থ কল্যাণ তহবিল থেকে টাকা বরাদ্দ করেছে। সেই টাকা থেকে প্রত্যেক শিক্ষার্থীকে 2টি করে খাতা ও 1টি করে কলম বিতরণ করা হলো। এতে কিছু টাকা উদ্ৃত্ত হলো। এই টাকার সাথে আরও 4 টাকা যোগ করে তা 2 জন প্রতিবন্ধী শিক্ষার্থীর মধ্যে সমানভাবে ভাগ করে দেওয়া হলো। কি ধরনের গণনা ব্যবহার করা হয়েছে, এবং এই প্রক্রিয়াগুলোকে বীজগণিতীয় রাশির মাধ্যমে কিভাবে উপস্থাপন করা যায়?
+
+Options:
+ক. (জ্ঞানমূলক): উপরে বর্ণিত প্রক্রিয়াটি কোন ধরনের গাণিতিক পদ্ধতি ব্যবহার করা হয়েছে?
+খ. (অনুধাবন): বরাদ্দকৃত টাকা থেকে শিক্ষার্থীদের জন্য খাতা এবং কলম বিতরণের পর বাকি টাকা কিভাবে ব্যবহার হয়েছে?
+গ. (বিশ্লেষণ/প্রয়োগ): বীজগণিতীয় রাশির মাধ্যমে উল্লিখিত প্রক্রিয়া কিভাবে উপস্থাপন করা যাবে, তার বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): শিক্ষার্থীদের জন্য বরাদ্দ টাকার সঠিক ব্যবহারের জন্য কি সুপারিশ করতে চান?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক উপরে বর্ণিত প্রক্রিয়ায় মূলত মৌলিক অঙ্ক/আরিথমেটিক (গুণ, বিয়োগ, যোগ, ভাগ) ব্যবহার করা হয়েছে, পাশাপাশি তার সারাংশ বোঝাতে বীজগণিতিক প্রতীকও ব্যবহার করা যায়।
+
+খ খাতা ও কলম বিতরণের পর বাকি টাকা সংরক্ষিত (অবশিষ্ট) রাখা হয় এবং সেই অবশিষ্ট টাকায় আরও [math]4[/math] টাকা যোগ করে তা 2 জন প্রতিবন্ধী শিক্ষার্থীর মধ্যে সমানভাবে ভাগ করা হয়েছে।
+
+গ ধরো মোট টাকা [math]T[/math], একটি খাতার দাম [math]a[/math], একটি কলমের দাম [math]b[/math]। তখন বিতরণে খরচ = [math]10\times(2a+b)=20a+10b[/math], অবশিষ্ট = [math]T-(20a+10b)[/math], যোগ করার পর মোট = [math]T-(20a+10b)+4[/math], প্রতি প্রতিবন্ধী শিক্ষার্থীর অংশ = [math]\dfrac{T-(20a+10b)+4}{2}[/math]। 
+
+ঘ সুপারিশ: আগে থেকে আইটেমগুলির একক মূল্য নির্ণয় করে বাজেট তৈরি করা, খরচের রশিদ রাখা ও স্বচ্ছভাবে রিপোর্ট করে অবশিষ্ট টাকা ন্যায্য ও উদ্দেশ্যানুসারে ব্যয় নিশ্চিত করা।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 157112)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:  একটি স্কুলের ম্যানেজিং কমিটি 10 জন গরীব শিক্ষার্থীর জন্য তহবিল থেকে টাকা বরাদ্দ করেছে। প্রত্যেক শিক্ষার্থীকে 2টি করে খাতা এবং 5 টাকার কলম দেওয়া হয়েছে, তারপর বাকি টাকার সাথে 4 টাকা যোগ করে দুই প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ দেওয়া হয়েছে। এই প্রক্রিয়াতে বন্ধনী ব্যবহারের নিয়মগুলো কী?
+
+Options:
+ক. (জ্ঞানমূলক): বন্ধনী ব্যবহার করার নিয়মগুলো কী?
+খ. (অনুধাবন): এই স্কিমের মাধ্যমে শিক্ষার্থীদের মধ্যে কীভাবে টাকা বিতরণ হচ্ছে?
+গ. (বিশ্লেষণ/প্রয়োগ): এই উদাহরণ থেকে শিক্ষার্থীদের জন্য তহবিল ব্যবস্থাপনা কিভাবে বিশ্লেষণ করা যায়?
+ঘ. (মূল্যায়ন/সৃজন): তুমি যদি এর থেকে অন্য একটি তহবিল বিতরণের পরিকল্পনা করো, তা কিভাবে হবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ব্র্যাকেট ব্যবহার করার নিয়ম: ব্র্যাকেটের মধ্যে থাকা অংশগুলো সর্বপ্রথম মূল্যায়ন করা হয়, যদি একাধিক স্তরের ব্র্যাকেট থাকে তাহলে অভ্যন্তরীণ থেকে বাহিরের দিকে করা হয়, একই স্তরের অপারেশনগুলোতে গুণ/ভাগ যোগ/বিয়োগের আগে করা হয় এবং একই প্রাধান্য থাকলে বাম থেকে ডান দিকে নির্ণয় করা হয়; উদাহরণস্বরূপ মোট খরচকে লিখতে পারি [math]10\times(2n+5)[/math] এবং পরে অবশিষ্ট R নিয়ে [math]\dfrac{R+4}{2}[/math] করতে হবে। 
+
+খ এই স্কিমে বিতরণ হচ্ছে: প্রথমে প্রতিটি শিক্ষার্থীকে 2 খাতা ও 5 টাকা মূল্যের কলম দেওয়া (মোট [math]10\times(2n+5)[/math] ব্যয়), তারপর বাকি টাকায় 4 টাকা যোগ করে দুই প্রতিবন্ধী শিশুর মধ্যে সমানভাবে ভাগ করা হচ্ছে ([math]\dfrac{R+4}{2}[/math])। 
+
+গ বিশ্লেষণ/প্রয়োগ: তহবিলকে ধাপে ধাপে গোষ্ঠীভিত্তিক করে অঙ্কে প্রকাশ করলে খরচ এবং অবশিষ্ট টাকার হিসাব স্পষ্ট হয়, ফলে শেষ ভাগে ভুল হওয়া কমে এবং সরাসরি যাচাই করা যায়। 
+
+ঘ মূল্যায়ন/সৃজন: বিকল্প পরিকল্পনায় ব্র্যাকেট ব্যবহার করে প্রথমে দরকারি আইটেমের মোট ব্যয় নির্ণয় করে তারপর অবশিষ্টকে দরিদ্রতার ভিত্তিতে অনুপাতে ভাগ করলে আরও ন্যায়সঙ্গত ফল পাওয়া যেতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 157113)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: একটি গ্রুপের 10 জন শিক্ষার্থী তাদের বাড়ির কাজের জন্য 2টি খাতা এবং 5 টাকার কলম কিনে, তার পর 4 টাকা যোগ করে 2 জন প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ করেছে। এখানে গণনা কীভাবে করা হয়েছে এবং বন্ধনী ব্যবহারের নিয়ম কি?
+
+Options:
+ক. (জ্ঞানমূলক): শিক্ষার্থীদের জন্য খাতার সংখ্যা এবং কলমের মূল্য কত?
+খ. (অনুধাবন): শিক্ষার্থীদের টাকা কিভাবে ভাগ করা হয়েছে?
+গ. (বিশ্লেষণ/প্রয়োগ): এই তহবিল ব্যবস্থাপনার পদ্ধতি বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): অন্য কোন তহবিল বিতরণের মডেল প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক মোট খাতা = [math]10\times2=20[/math]টি; কলমের মূল্য প্রতিটি = [math]5\text{ টাকা}[/math]। এই গণনা সরল গুণ এবং উৎসর্গিত ইউনিট দেখায়। 
+
+খ তারা অতিরিক্ত [math]4[/math] টাকা যোগ করে দুইজনের মধ্যে সমানভাবে ভাগ করেছে, তাই প্রতি জন পেল [math]4\div2=2[/math] টাকা। বন্ধনী ব্যবহার করলে আগে যোগ করা অংশকে গ্রুপ করে ভাগ করা বোঝায়। 
+
+গ পদ্ধতিটি গ্রুপে কেনাকাটা করে ব্যয় কমানো ও পরে সমতা ভিত্তিতে সহায়তা দেয়—সরল এবং বিচক্ষণ কিন্তু ব্যক্তিগত চাহিদা বিবেচনা করে না; তাই খরচ ও বিতরণের হিসাব রাখাটা জরুরি। 
+
+ঘ বিকল্প মডেল: চাহিদা অনুযায়ী অনুপাতিক বিতরণ বা মোট তহবিল হিসেবে গণনা করে ভাগ করা; উদাহরণ সূত্র হিসেবে ব্যবহার করা যায় [math]\text{প্রতি জন}=\frac{\text{মোট জমা}+4}{2}[/math] যেখানে বন্ধনী (মোট জমা+4) আগে যোগ করে পরে ভাগ করা বোঝায়।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 157114)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 10 জন গরীব শিক্ষার্থীর জন্য একটি তহবিল থেকে টাকা বরাদ্দ করা হয়েছে। প্রত্যেককে 2টি খাতা এবং 5 টাকার কলম দেওয়া হয়েছে, পরে বাকি টাকা 2 প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ দেয়া হয়েছে। এই প্রক্রিয়ায় গণিতের কোন নিয়মগুলো প্রয়োগ করা হয়েছে?
+
+Options:
+ক. (জ্ঞানমূলক): গরীব শিক্ষার্থীদের জন্য বরাদ্দকৃত টাকার পরিমাণ কি?
+খ. (অনুধাবন): শিক্ষার্থীদের মধ্যে টাকা কিভাবে ভাগ হচ্ছে?
+গ. (বিশ্লেষণ/প্রয়োগ): এই উদাহরণে গণনার পদ্ধতি বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): তুমি কীভাবে এই তহবিল ব্যবস্থাপনা আরও কার্যকরী করতে পারো?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: এই উদাহরণে গুণ, যোগ, বিয়োগ ও ভাগ—এই চারটি মৌলিক নিয়মই প্রযোজ্য; প্রথমে প্রতিজন শিক্ষার্থীর জন্য মোট খাতা ও কলমের পরিমাণ গুণ করে বের করা হয়, সেগুলো যোগ করে মোট খরচ পাওয়া যায়, তহবিল থেকে সেটি বিয়োগ করলে বাকি টাকার পরিমাণ মেলে এবং শেষ পর্যন্ত সেই বাকি টাকা সমানভাবে ভাগ করতে ভাগের নিয়ম ব্যবহৃত হয়। 
+
+ক গরীব শিক্ষার্থীদের জন্য বরাদ্দকৃত টাকার পরিমাণ বের করতে খাতা ও কলমের জন্য [math]10×2[/math] খাতা এবং কলমের জন্য [math]10×5[/math] টাকা গুণ করে মোট খরচ যোগ করা হয়।  
+খ টাকা দুই প্রতিবন্ধী শিক্ষার্থীর মধ্যে সমানভাবে দেয়ায় ভাগ (division) প্রয়োগ করা হয়েছে, অর্থাৎ বাকি টাকা [math]\frac{\text{বাকি টাকা}}{2}[/math] করে দেওয়া হয়েছে।  
+গ বিশ্লেষণে দেখা যায়: গুণ→যোগ→বিয়োগ→ভাগ—এই ধাপে ধাপে গণনার পদ্ধতি ব্যবহৃত হয়েছে।  
+ঘ আরও কার্যকর করতে পূর্ববাজেট, ব্যয়-নিয়ন্ত্রণ ও স্প্রেডশীট/রেকর্ড রাখা চালু করে খরচ নির্ভুলভাবে পরিকল্পনা করা যেতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 157115)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 10 জন শিক্ষার্থীর জন্য 2টি করে খাতা এবং 5 টাকার কলম কিনে, বাকি টাকায় 2 প্রতিবন্ধী শিক্ষার্থীর মধ্যে 4 টাকা যোগ করে ভাগ দেয়া হয়েছে। এই ব্যবস্থাপনায় বন্ধনীর ব্যবহার কীভাবে হয়েছে?
+
+Options:
+ক. (জ্ঞানমূলক): বন্ধনীর ব্যবহার কিভাবে গণনাকে প্রভাবিত করে?
+খ. (অনুধাবন): শিক্ষার্থীদের মধ্যে টাকা বিতরণের পদ্ধতি কিভাবে কাজ করছে?
+গ. (বিশ্লেষণ/প্রয়োগ): গণনার প্রক্রিয়া বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): যদি তুমি এই তহবিল ব্যবস্থাপনার ব্যবস্থা পরিবর্তন করতে চাও, তাহলে কী করবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ক সঠিক কারণ here বন্ধনী (parentheses) মূলত আলাদা করে একত্রিত খরচকে গ্রুপ করতে ব্যবহার করা হয়েছে যাতে প্রথমে প্রতি শিশুর জন্য মোট খরচ নির্ধারণ করা যায় এবং তারপর সেটিকে দশজনের জন্য গুণ করা হয়। উদাহরণস্বরূপ মোট খরচকে লেখা যায়: [math]10 \times (2\times\text{নোটবুকের দাম} + 5)[/math], পরে এই মোট থেকে বাকি অংশকে দুই প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ করা হয় — তাই গ্রুপিং/বন্ধনী গণনাকে সঠিক ক্রমে পরিচালিত করে।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 157116)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 10 জন গরীব শিক্ষার্থীকে 2টি খাতা এবং 5 টাকার কলম বিলি করা হয়েছে। তারপর 4 টাকা যোগ করে 2 প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ দেয়া হয়েছে। এই প্রক্রিয়ায় কোন গণনা পদ্ধতি প্রয়োগ করা হয়েছে?
+
+Options:
+ক. (জ্ঞানমূলক): শিক্ষার্থীদের জন্য খাতার সংখ্যা কত?
+খ. (অনুধাবন): শিক্ষার্থীদের মধ্যে টাকা কিভাবে ভাগ করা হচ্ছে?
+গ. (বিশ্লেষণ/প্রয়োগ): টাকা বিতরণের প্রক্রিয়াটি বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): তুমি যদি এই তহবিল ব্যবস্থাপনায় পরিবর্তন আনতে চাও, তাহলে কিভাবে করবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: এই প্রক্রিয়ায় বাস্তবে সংখ্যা যোগ করা এবং পরে দুটি অংশে ভাগ করা হয়েছে; তাই এটি কেবল তথ্য জিজ্ঞাসা করা নয়, বরং গণনাকে বাস্তবে প্রয়োগ করে বিশ্লেষণ করার কাজ, তাই সঠিক উত্তর গ। উদাহরণস্বরূপ কলমের টাকা [math]5+4=9[/math] করা হয়েছে এবং তা দুই জনে ভাগ করলে [math]9 \div 2[/math] করা হবে—এটি প্রয়োগ ও বিশ্লেষণের উদাহরণ।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 157117)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 10 জন শিক্ষার্থীকে 2টি খাতা এবং 5 টাকার কলম দেওয়া হয়েছে। এরপর 4 টাকা যোগ করে 2 প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ করা হয়েছে। এই উদাহরণে বন্ধনী ব্যবহারের নিয়ম কিভাবে প্রয়োগ হয়েছে?
+
+Options:
+ক. (জ্ঞানমূলক): শিক্ষার্থীদের জন্য খাতা ও কলমের মোট মূল্য কত?
+খ. (অনুধাবন): টাকা কিভাবে ভাগ হচ্ছে?
+গ. (বিশ্লেষণ/প্রয়োগ): টাকা বিতরণের প্রক্রিয়া বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): তুমি কীভাবে এই তহবিলের বিতরণকে আরও কার্যকরী করতে পারো?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ কারণ বন্ধনী ব্যবহারের নিয়ম হলো কোন কাজগুলো একসঙ্গে করে পরে কোনটি করতে হবে তা নির্ধারণ করা—এটি সরাসরি বিতরণের ধাপগুলো বিশ্লেষণ ও প্রয়োগ করার কাজ; যেমন প্রথমে যোগ করতে হবে, পরে ভাগ করতে হবে। অন্য অপশনগুলো কেবল মোট মূল্য জানা বা ভাগের ধারণা বা উন্নতির পরামর্শ দিচ্ছে, যা বন্ধনীর নিয়মের প্রয়োগ বিশ্লেষণের তুলনায় উপযুক্ত নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 157118)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 10 জন গরীব শিক্ষার্থীকে 2টি খাতা এবং 5 টাকার কলম বিতরণ করার পর বাকি টাকা 4 টাকা যোগ করে 2 প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ দেয়া হয়েছে। এই প্রক্রিয়ায় গণনা কিভাবে করা হয়েছে?
+
+Options:
+ক. (জ্ঞানমূলক): মোট খাতার সংখ্যা কত?
+খ. (অনুধাবন): এই ব্যবস্থাপনায় শিক্ষার্থীদের মধ্যে টাকা কিভাবে বিতরণ করা হচ্ছে?
+গ. (বিশ্লেষণ/প্রয়োগ): এই উদাহরণ থেকে শিক্ষার্থীদের তহবিল ব্যবস্থাপনা কিভাবে বিশ্লেষণ করা যায়?
+ঘ. (মূল্যায়ন/সৃজন): তুমি যদি অন্য একটি তহবিল বিতরণ পরিকল্পনা করো, তা কিভাবে হবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ক মোট খাতার সংখ্যা = 10 জন × 2 টি = [math]10×2=20[/math] টি।  
+
+খ প্রথমে প্রত্যেকে 5 টাকার কলম পেলে কলমের মোট খরচ = [math]10×5=50[/math] টাকা; পরে বাকি থাকা 4 টাকা দুই প্রতিবন্ধীর মধ্যে সমানভাবে ভাগ করলে প্রত্যেকে পায় [math]4÷2=2[/math] টাকা। এই প্রক্রিয়ায় প্রথমে মোট খরচ বের করা হয়, তারপর অবশিষ্ট অর্থ সমানভাবে ভাগ করা হয়।  
+
+গ তহবিল বিশ্লেষণে মোট খরচ ও প্রতিটি উপাদানের একক ব্যয় হিসাব করে বাকি টাকা নির্ধারণ করা হয় এবং বাকি টাকা কাকে/how ভাগ করা হচ্ছে তা ন্যায্যতার ভিত্তিতে দেখা হয় — এখানে মোট খরচ [math]50[/math] টাকা, অবশিষ্ট [math]4[/math] টাকা।  
+
+ঘ বিকল্প পরিকল্পনা: অবশিষ্ট টাকা সামগ্রিকভাবে সকলের মধ্যে ভাগ না করে বিশেষ তহবিলে রেখে জরুরি প্রয়োজন ও প্রতিবন্ধীদের সহায়তায় ব্যবহার করা; উদাহরণস্বরূপ 4 টাকা রেখে ছোট খরচের জন্য সঞ্চয় করা বা যদি সবাইকে ভাগ করলে প্রত্যেকে পেতো [math]4÷10=0.4[/math] টাকা, যা কার্যকর নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 157119)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 10 জন শিক্ষার্থীর জন্য 2টি খাতা এবং 5 টাকার কলম বিতরণ করা হয়েছে, এরপর 4 টাকা যোগ করে 2 প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ করা হয়েছে। এই প্রক্রিয়ার ক্ষেত্রে গণনা কিভাবে হয়েছে?
+
+Options:
+ক. (জ্ঞানমূলক): শিক্ষার্থীদের জন্য মোট কত টাকা বরাদ্দ ছিল?
+খ. (অনুধাবন): শিক্ষার্থীদের মধ্যে টাকা কিভাবে ভাগ হচ্ছে?
+গ. (বিশ্লেষণ/প্রয়োগ): বিতরণের প্রক্রিয়া বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): তুমি এই তহবিল ব্যবস্থাপনায় কীভাবে উন্নতি আনবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ক শিক্ষার্থীদের জন্য মোট কত টাকা বরাদ্দ ছিল? উত্তর: কলমের মূল্য হিসেবে [math]10\times5=50[/math] টাকা এবং পরে যোগ করা [math]4[/math] টাকা মিলিয়ে মোট [math]50+4=54[/math] টাকা বরাদ্দ ছিল।
+
+খ শিক্ষার্থীদের মধ্যে টাকা কিভাবে ভাগ হচ্ছে? উত্তর: প্রত্যেকে কলম হিসেবে [math]5[/math] টাকার সুবিধা পেয়েছে (ইন-কাইন্ড), আর অতিরিক্ত [math]4[/math] টাকা দুই প্রতিবন্ধী শিক্ষার্থীর মধ্যে ভাগ করে প্রত্যেকে পেয়েছে [math]4\div2=2[/math] টাকা।
+
+গ বিতরণের প্রক্রিয়া বিশ্লেষণ করো। উত্তর: এটি মিশ্রভাবে ইন-কাইন্ড (খাতা, কলম) এবং নগদ অতিরিক্ত ভাতা—কোলোকে কলমের জন্য সমান খরচ হয়েছে ([math]50[/math] টাকা) এবং নগদ [math]4[/math] টাকা কেবল দু’র মধ্যে টার্গেট করা হয়েছে; এতে মোট নগদ খরচ [math]54[/math] টাকা হয়েছে এবং সদস্যদের মধ্যে সমতা/টার্গেটিং এর ভিন্নতা স্পষ্ট হয়।
+
+ঘ তুমি এই তহবিল ব্যবস্থাপনায় কীভাবে উন্নতি আনবে? উত্তর: খরচ ও রশিদ রেকর্ড রাখার পরামর্শ দিন, অতিরিক্ত টাকা প্রয়োজন অনুযায়ী টার্গেট করুন বা যদি সমতা প্রয়োজন হয় তবে সমানভাবে ভাগ করে দিন—উদাহরণস্বরূপ পুরো তহবিল সমানভাবে ভাগ করলে প্রত্যেকে পেত [math]54\div10=5.4[/math] টাকা (অথবা নিকটতম অর্থে সমন্বয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 132410)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:
+সারা একজন তরুণ উদ্যোক্তা। সে একটি পরিবেশবান্ধব পণ্য তৈরি করে যা প্লাস্টিকের পরিবর্তে ব্যবহৃত হয়। তার উদ্যোগটি সমাজে পরিবেশ সচেতনতা বৃদ্ধি করছে ও জনগণের মধ্যে পুনর্ব্যবহারযোগ্য পণ্যের চাহিদা বাড়াচ্ছে।
+
+Options:
+ক. (জ্ঞানমূলক): সারার উদ্যোগের নাম কী হতে পারে এবং এর উদ্দেশ্য কী?
+খ. (অনুধাবন): পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি?
+গ. (বিশ্লেষণ/প্রয়োগ): সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায় তা প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+উত্তর প্রদান পদ্ধতি (স্পষ্ট উত্তর-বিধি): প্রথমে প্রশ্নের প্রতিটি অংশের উদ্দেশ্য বুঝে সরাসরি উত্তর দেবো—প্রাসঙ্গিক ধারণা ও যুক্তি সংক্ষেপে তুলে ধরে কার্যকর উদাহরণ বা পরিমাপ নির্দেশ করব যেখানে প্রয়োজন।
+
+ক সারার উদ্যোগের নাম এবং উদ্দেশ্য  
+- সম্ভাব্য নাম: “পুনঃপ্লাস্ট” বা “সবুজবস্ত্র” (উদাহরণস্বরূপ) — সহজ, স্মরণযোগ্য এবং পরিবেশবান্ধবতা বোঝায়।  
+- উদ্দেশ্য (সংক্ষিপ্ত ও স্পষ্ট):  
+  - প্লাস্টিক-নির্ভর একবার ব্যবহারের পণ্যের বিকল্প হিসেবে পুনর্ব্যবহারযোগ্য ও জৈব-বনজ পণ্য সরবরাহ করা।  
+  - ভোক্তা সচেতনতা বৃদ্ধি করে প্লাস্টিক ব্যবহার কমানো ও পুনর্ব্যবহারজনিত চক্র গঠন করা।  
+  - স্থানীয় অর্থনীতি ও সবুজ কর্মসংস্থান সৃষ্টি করা।  
+- পরিমাপক লক্ষ্য (উদাহরণ): বছরে এক লক্ষ প্লাস্টিক-আইটেম প্রতিস্থাপন, বা স্থানীয় স্কুলে ৫০টি সচেতনতামূলক কর্মশালা।  
+(কারণবোধ: নাম ও উদ্দেশ্য স্পষ্ট হলে ব্র্যান্ডিং, বাজারতা ও সমাজগত প্রভাব মাপা সহজ হয়।)
+
+খ পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি? (মূলত কারণ ও সংক্ষিপ্ত ব্যাখ্যা)  
+- দূষণ কমায়: প্লাস্টিক মাটিতে, পানিতে ভেঙে ক্ষতিকর পদার্থ ছাড়ে; পরিবেশবান্ধব পণ্য এসব সমস্যা কমায়।  
+- জীববৈচিত্র্য রক্ষা: সমুদ্র ও স্থলজ প্রাণীর উপর প্লাস্টিকের প্রভাব কমে।  
+- সম্পদ সংরক্ষণ ও শক্তি সাশ্রয়: পুনর্ব্যবহারযোগ্য বা বায়োডিগ্রেডেবল পণ্যে কাঁচামালের চাহিদা ও তেল-উৎপাদন কমে।  
+- স্বাস্থ্যের নিরাপত্তা: মাইক্রোপ্লাস্টিক ও রাসায়নিক লিকেজ মানুষের স্বাস্থ্যে ক্ষতি করতে পারে; পরিবেশবান্ধব পণ্য এ ঝুঁকি কমায়।  
+- অর্থনৈতিক ও সামাজিক লাভ: নতুন বাজার ও কর্মসংস্থান তৈরি হয়, সৎ ভোগ-বর্জ্য ব্যবস্থাপনা প্রচলিত হয়।  
+(সংক্ষেপে: টেকসই উন্নয়ন ও মানব-প্রকৃতি উভয়ের কল্যাণে জরুরি।)
+
+গ সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে—বিশ্লেষণ ও প্রয়োগ  
+- প্রাথমিক কার্যপ্রণালী (কারিগরি সূত্র):  
+  1) পণ্য বাজারে আনা → 2) ভোক্তা গ্রহণ বৃদ্ধি → 3) প্লাস্টিক-চাহিদা কমে → 4) উৎপাদনশীলতা ও সরবরাহ শৃঙ্খলে পরিবর্তন।  
+- সামাজিক প্রভাবের স্তরভিত্তিক বিশ্লেষণ:  
+  - ব্যক্তিগত স্তর: ব্যবহারকারীরা দৈনন্দিন অভ্যাস বদলায় (উদাহরণ: প্লাস্টিক ব্যাগ না ব্যবহার)।  
+  - কমিউনিটি স্তর: স্থানীয় ব্যবসা ও দোকানগুলো গ্রিন পণ্য রাখতে শুরু করে, সচেতনতা ইভেন্ট বৃদ্ধি পায়।  
+  - নীতি-স্তর: বৃহত্তর গ্রহণযোগ্যতা দেখালে স্থানীয় প্রশাসন নীতিমালা (প্লাস্টিক ব্যান, কর ছাড়) নিতে পারে।  
+- অর্থনৈতিক ও পরিবেশগত প্রভাবের পরিমাপ: পরিবর্তনের স্বচ্ছতা বোঝাতে সূচক ব্যবহার করা যায়—(ক) প্লাস্টিক বর্জ্য কমানোর পরিমাণ, (খ) বিক্রয় বৃদ্ধির হার, (গ) কর্মসংস্থান সৃষ্টির সংখ্যা।  
+- বাস্তব উদাহরণ-যোগাযোগ: সচেতনতামূলক কর্মশালা ও সামাজিক মিডিয়া ক্যাম্পেইন মানুষের আচরণে দ্রুত প্রভাব ফেলে; সফল পাইলট প্রজেক্টকে স্কেল করলে বৃহৎ পরিবর্তন সম্ভব।  
+(যুক্তি: ছোট থেকে বড় ধাপভিত্তিক প্রভাব দেখালে কিভাবে উদ্যোগ সমাজ পরিবর্তন করে তা স্পষ্ট হয়।)
+
+ঘ পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায়—প্রস্তাবনা (কর্তব্যসিদ্ধ, ব্যবহারিক ধাপ)  
+- শিক্ষা ও ক্ষমতায়ন: বিশ্ববিদ্যালয় ও বৃত্তিমূলক প্রশিক্ষণে সাসটেইনেবল ব্যবসা মডিউল অন্তর্ভুক্ত করা।  
+- অ্যাকসেস টু ফান্ড: স্টার্টআপ গ্রান্ট, কনসার্ন-ভিত্তিক বণিকি, মাইক্রো-ক্রেডিট সুবিধা ও কর-ছাড়।  
+- ইনকিউবেশন ও মেন্টরশিপ: গ্রিন ইনকিউবেটর, শিল্প-অ্যাক্সিলারেটর এবং অভিজ্ঞ মেন্টরদের সাথে সংযুক্তি।  
+- নীতি ও প্রণোদনা: গ্রিন পণ্য উৎপাদনে কর-ছাড়, সরকারি স্মল-বিজনেস ক্রেডিট, পাবলিক প্রোকিউরমেন্টে পরিবেশবান্ধব পণ্যের অগ্রাধিকার।  
+- নেটওয়ার্কিং ও মার্কেটিং: প্ল্যাটফর্ম-ভিত্তিক বাজার, কোলাবোরেশন (উচ্চ বিদ্যালয়, এনজিও, স্থানীয় প্রশাসন) এবং সোশ্যাল মিডিয়া ক্যাম্পেইন।  
+- সাফল্য-পরিমাপ ও স্বীকৃতি: পরিবেশ-সাপোর্টিভ অ্যাওয়ার্ড, ইকো-সার্টিফিকেশন এবং ফল নির্ধারণে দ্রুত মেট্রিক্স প্রদান।  
+- বাস্তব প্রয়োগ উদাহরণ (সংক্ষিপ্ত): নগর পর্যায়ে ‘গ্রীন পপ-আপ’ মার্কেট আয়োজন করে স্থানীয় উদ্যোক্তাদের পণ্য প্রদর্শন ও বিক্রয় বাড়ানো।  
+(রিজনিং: অর্থ, শিক্ষা, নীতি ও বাজার — এই চারটি ক্ষেত্র সমন্বিতভাবে থাকলে তরুণ উদ্যোক্তাদের ভূমিকা দ্রুত ও টেকসইভাবে বাড়ে।)
+
+সংক্ষিপ্ত উপসংহার: সারার উদ্যোগ শুধুমাত্র পণ্য বিক্রি না করে আচরণ পরিবর্তন ও নীতিগত চাপ গঠনের মাধ্যমে পরিবেশগত ফলাফল অর্জন করতে পারে। তরুণদের অংশগ্রহণ বাড়াতে শিক্ষা, অর্থায়ন, নীতি ও বাজার-বহুমুখী সমর্থন প্রয়োজন।
+
+Explanation:
+ব্যাখ্যা:
+ক নাম হিসেবে এমন কিছু দেওয়া যাবে যা উদ্যোগের পরিবেশগত লক্ষ্য প্রকাশ করে—যেমন “সবুজ সাড়া” বা “পুনর্ব্যবহার প্লাস”—এবং উদ্দেশ্য হবে প্লাস্টিক প্রতিস্থাপন করে বর্জ্য কমানো, পুনর্ব্যবহারযোগ্য পণ্য প্রচলন ও পরিবেশ সচেতনতা বৃদ্ধি করা; এটি সঠিক কারণ নাম ও উদ্দেশ্য উদ্যোগের মিশনকে স্পষ্টভাবে ব্যক্ত করে।
+
+খ পরিবেশবান্ধব পণ্যের ব্যবহার জরুরি কারণ প্লাস্টিক যেমন নিঃশব্দে পরিবেশ ও প্রাণীজগতকে ক্ষতিগ্রস্ত করে এবং দীর্ঘস্থায়ী বর্জ্য সৃষ্টি করে; বিকল্প পণ্য বর্জ্য কমায়, স্বাস্থ্যের ঝুঁকি কমায় এবং প্রাকৃতিক সম্পদ রক্ষা করে।
+
+গ সারার উদ্যোগ সমাজে পরিবর্তন আনে কারণ এটি মানুষকে বিকল্প দেখায় এবং ব্যবহারিক চাহিদা সৃষ্টি করে, ফলে পুনর্ব্যবহারযোগ্য পণ্যে বাজার বৃদ্ধি পায়; পাশাপাশি শিক্ষামূলক প্রচারণা ও স্থানীয় কর্মসংস্থানের মাধ্যমে আচরণগত পরিবর্তন এবং নীতিনির্ধারকতাদের মনোযোগ আকর্ষণ করে।
+
+ঘ তরুণ উদ্যোক্তাদের ভূমিকা বাড়াতে সরকার ও বেসরকারি সেক্টর শিক্ষামূলক প্রশিক্ষণ, স্টার্টআপ ফান্ডিং, কর ও নীতিগত সুবিধা, ইনকিউবেটর ও মার্কেটিং সহায়তা এবং স্কুল-কলেজে সচেতনতা কর্মসূচি দিয়ে সহযোগিতা করতে পারে; এগুলো নতুন পরিবেশবান্ধব উদ্ভাবনকে দ্রুত প্রসারিত ও টেকসই করে।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 132411)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:
+গণিতের বিভিন্ন সূত্র ও পদ্ধতির সাহায্যে শিক্ষার্থীরা বীজগণিতীয় রাশির গুণ ও ভাগ করতে সক্ষম হয়। এটি তাদের সমস্যা সমাধানের দক্ষতা বৃদ্ধিতে সহায়ক।
+
+Options:
+ক. (জ্ঞানমূলক): বীজগণিতীয় রাশির গুণ ও ভাগের জন্য কোন সূত্রগুলি ব্যবহৃত হয়?
+খ. (অনুধাবন): এই পদ্ধতিগুলি শিক্ষার্থীদের কীভাবে সাহায্য করে?
+গ. (বিশ্লেষণ/প্রয়োগ): গুণ ও ভাগের প্রক্রিয়া শিক্ষার্থীদের কাছে কিভাবে সহজতর করা যায় তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): গণিতের পাঠ্যক্রমে এই পদ্ধতিগুলোর গুরুত্ব তুলে ধরার জন্য কী কী কৌশল গ্রহণ করা যেতে পারে তা প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+ক (জ্ঞানমূলক): বীজগণিতীয় রাশির গুণ ও ভাগের জন্য কোন সূত্রগুলি ব্যবহৃত হয়?
+- বুনিয়াদি সূত্র ও নিয়মসমূহ:
+  - বন্টন সূত্র (Distributive law): [math]a(b+c)=ab+ac[/math]
+  - বিশেষ গুণধর্মী (Special products): 
+    - বর্গের সম্প্রসারণ: [math](a+b)^2=a^2+2ab+b^2[/math]
+    - পার্থক্যের বর্গ: [math](a-b)^2=a^2-2ab+b^2[/math]
+    - সকলে গুণফল: [math](a+b)(a-b)=a^2-b^2[/math]
+  - FOIL পদ্ধতি (দুটি দ্বিপদীর গুণে): প্রথম, বাইরের, ভিতরের, শেষ গুণ
+  - পলিনোমিয়াল গুণ নিয়ম (পদগুলোর ডিগ্রী অনুযায়ী গুণ করে যোগ করা)
+  - ষ্ট্যান্ডার্ড সূত্রসমূহ এস্টেক্সপোনেন্টসের জন্য: [math]x^m\cdot x^n=x^{m+n}[/math], [math]\dfrac{x^m}{x^n}=x^{m-n}[/math]
+  - গুণ ও ভাগে ফ্যাক্টরিং: সাধারণ গুণক বাদ দিয়ে লেখা (common factor), ত্রিকোণীয় ফ্যাক্টরিং ইত্যাদি
+  - পলিনোমিয়াল ডিভিশন: দীর্ঘ ভাগ (long division) ও সিনথেটিক ডিভিশন (synthetic division)
+  - ভাগের সূত্র/রিমেইন্ডার থিওরেম: একটি পলিনোমি [math]f(x)[/math] কে [math]x-a[/math] দিয়ে ভাগ করলে অবশিষ্টাংশ [math]f(a)[/math]
+
+খ (অনুধাবন): এই পদ্ধতিগুলি শিক্ষার্থীদের কীভাবে সাহায্য করে?
+- জটিল রাশির সহজীকরণ: সূত্রগুলি ব্যবহার করে একাধিক পদকে সংক্ষিপ্ত রূপে লেখা ও দ্রুত সরলকরণ করা যায়।
+- কাঠামোগত চিন্তা উন্নয়ন: ফ্যাক্টরিং ও বন্টন সূত্র শিক্ষার্থীদের রাশির ভিতরের কাঠামো চিনতে শেখায়, ফলে সমস্যা ভাঙতে পারার দক্ষতা বাড়ে।
+- ত্রুটি অনুসন্ধান ও যাচাই: রিমেইন্ডার থিওরেম বা বিন্দু ভিত্তিক যাচাই (substitution) দিয়ে দ্রুতভাবে ফল সঠিক কিনা দেখা যায়।
+- সমস্যা সমাধানের কৌশল: ধাপে ধাপে অ্যালগরিদমিক পদ্ধতি (যেমন long division) সমস্যা সমাধানকে নিয়মতান্ত্রিক করে, জটিল সমস্যায় আত্মবিশ্বাস বাড়ায়।
+- সম্পর্ক ও সাধারণীকরণ বোঝানো: একাধিক উদাহরণ থেকে নিয়মীয় ধাঁচ লক্ষ্য করে নতুন সমস্যা সমাধানে নিয়ম প্রয়োগ করা যায়।
+
+গ (বিশ্লেষণ/প্রয়োগ): গুণ ও ভাগের প্রক্রিয়া শিক্ষার্থীদের কাছে কিভাবে সহজতর করা যায় তা বিশ্লেষণ করো।
+- ধাপে ধাপে নির্দেশিকা প্রদান:
+  1. সমস্যাটি পড়ে লক্ষ্য করো—গুণ না ভাগ, কিসের সঙ্গে ভাগ করা হচ্ছে।
+  2. সাধারণ গুণক আছে কি না বার করো; 있লে আগে বাহির করে নাও।
+  3. উপযুক্ত কৌশল বাছাই: FOIL, বন্টন, বিশেষ গুণধর্মী, অথবা long/synthetic division।
+  4. প্রতিটি ধাপ লিখে যাও এবং মাঝখানে সরলীকরণ করো।
+  5. ফল যাচাই করো (যদি ভাগ হয় তবে গুণ করে মূল রাশি ফেরত আসে কিনা; remainder theorem ইত্যাদি)।
+
+- ভিজ্যুয়াল মডেল ও উদাহরণ (সংক্ষিপ্ত, মূল্যবোধ সৃষ্টি করে):
+  - ক্ষেত্রফল মডেল দুইটি দ্বিপদী গুণ বোঝাতে সাহায্য করে: উদাহরণস্বরূপ [math](x+2)(x+3)[/math] কে ক্ষেত্রফলে বিভক্ত করে FOIL দেখানো যায়:
+    - প্রথম: [math]x\cdot x=x^2[/math]
+    - বাইরের: [math]x\cdot 3=3x[/math]
+    - ভিতরের: [math]2\cdot x=2x[/math]
+    - শেষ: [math]2\cdot 3=6[/math]
+    - ফলে [math](x+2)(x+3)=x^2+5x+6[/math]
+  - সংক্ষিপ্ত ভাগের উদাহরণ: [math]\dfrac{x^2+3x+2}{x+1}[/math]। সিনথেটিক ডিভিশন বা সরাসরি দেখতে ফ্যাক্টর করলে [math]x^2+3x+2=(x+1)(x+2)[/math], তাই ভাগফল [math]x+2[/math] এবং অবশিষ্টাংশ শূন্য। এই ধরণে দ্রুত যাচাই শেখানো যায়।
+
+- কৌশলগত বিশ্লেষণ:
+  - সাধারণ গুণক বের করা এবং বিশেষ গুণধর্মী চিনে নেওয়া দ্রুততর করে।
+  - ভাগে long division শিখলে ধৈর্য ও প্যাটার্ন বোঝা যায়; সিনথেটিক ডিভিশন সুবিধাজনক হলে তা পরিচিত করানো।
+  - ত্রুটি-ধরা ও যাচাই (পুনরায় গুণ করে মূল রাশি পাওয়া) শেখালে আত্মবিশ্বাস বাড়ে।
+
+ঘ (মূল্যায়ন/সৃজন): গণিতের পাঠ্যক্রমে এই পদ্ধতিগুলোর গুরুত্ব তুলে ধরার জন্য কী কী কৌশল গ্রহণ করা যেতে পারে তা প্রস্তাবনা দাও।
+- পাঠ্যক্রমে ধাপে ধাপে অন্তর্ভুক্তি: মৌলিক ধারণা (বন্টন, FOIL, exponent 법칙) → মধ্যবর্তী দক্ষতা (ফ্যাক্টরিং, বিশেষ পণ্য) → উচ্চতর কৌশল (long/synthetic division, রিমেইন্ডার থিওরেম) ধাপে ধাপে। পুনরাবৃত্তি ও স্পাইরাল অ্যাপ্রোচ গ্রহণ করা।
+- বাস্তবজীবন ও আন্তঃবিষয়ক সংযোগ: এলাকা/বস্তুর মডেল, অর্থনৈতিক বা প্রকৌশল সমস্যায় পলিনোমিয়াল ব্যবহার দেখানো।
+- সমস্যা-ভিত্তিক শিক্ষণ ও প্রকল্প: প্রকৃত ডেটা বা রূপক সমাধান করিয়ে ছাত্রদের গুণ/ভাগের কৌশল প্রয়োগ করানো।
+- ভিন্নধর্মী মূল্যায়ন: প্রক্রিয়া মূল্যায়নের উপর গুরুত্ব—যেখানে ছাত্রের ধাপগুলো, যাচাই ও ব্যাখ্যা কেমন তা দেখা হবে, শুধু শেষ উত্তর নয়।
+- শিক্ষক প্রশিক্ষণ ও রিসোর্স: গ্রেড অনুযায়ী উদাহরণ-কিট, ভিজ্যুয়াল মডেল, অনলাইন টুল (CAS, গ্রাফিং ক্যালকুলেটর) ব্যবহার করার প্রশিক্ষণ।
+- ভিন্ন সক্ষমতার জন্য ভ্যারিয়েশন: সহজ থেকে কঠিন—স্ক্যাফল্ডেড ওয়ার্কশীট, চ্যালেঞ্জিং সমস্যার সেট, সহকর্মী-টিউটোরিং, ফরমেটিভ ফিডব্যাক।
+- মূল্যায়নের মধ্যে যাচাইকরণ টাস্ক যোগ করা: শিক্ষার্থীরা নিজস্ব কাজ গুণ করে মূল রাশি পেয়েছে কিনা পরীক্ষার একটি অংশ হবে; এতে ত্রুটি ধরার অভ্যাস গড়ে ওঠে।
+
+সংক্ষেপে: শিক্ষার্থীদের জন্য গুণ ও ভাগ শেখানোর সময় মৌলিক সূত্র ও কৌশল পরিষ্কারভাবে শেখানো, ধাপে ধাপে অনুশীলন করানো, ভিজ্যুয়াল ও বাস্তব উদাহরণ ব্যবহার করা এবং যাচাই-নির্ভর মূল্যায়ন রাখা অত্যন্ত কার্যকর।
+
+Explanation:
+ক বীজগণিতীয় রাশির গুণ ও ভাগের জন্য প্রধান সূত্রগুলো হলো বিতরণ সূত্র (distributive law), FOIL পদ্ধতি ও বহুপদ গুণের নিয়ম, যেমন [math](a+b)^2=a^2+2ab+b^2[/math], [math](a-b)^2=a^2-2ab+b^2[/math], [math](a+b)(a-b)=a^2-b^2[/math], এবং বিভাজনের জন্য দীর্ঘ ভাগ (long division) ও সিন্থেটিক ডিভিশন।  
+খ এই পদ্ধতিগুলো শিক্ষার্থীদের রূপান্তর ও সরলীকরণে ধারাবাহিক ধাপ দেয়, ভুল কমায় এবং জটিল অভিব্যক্তিকে ছোট ছোট অংশে ভেঙে সমস্যা সমাধান সহজ করে।  
+গ গুণ ও ভাগকে সহজতর করতে ধাপে ধাপে অ্যালগরিদম শেখানো, এলাকা মডেল বা আলজেব্রা টাইলস দিয়ে দৃশ্যায়ন, নিয়মিত ম্যাকানিক্যাল অনুশীলন এবং প্যাটার্ন চিহ্নিত করার প্রশিক্ষণ কার্যকর।  
+ঘ পাঠ্যক্রমে গুরুত্ব বাড়াতে বাস্তব সমস্যা-ভিত্তিক কার্যক্রম, ধারাবাহিক পুনরাবৃত্তি (spiral practice), মূল্যায়ন-কেন্দ্রিক প্রকল্প ও প্রযুক্তি (ক্যালকুলেটর/সফটওয়্যার) ব্যবহারসহ বিষয়টির ব্যবহারিক প্রাসঙ্গিকতা দেখানো উচিত।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 107750)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:
+বীজগণিতীয় রাশির গুণ ও ভাগের প্রক্রিয়াগুলো পড়ালেখার মাধ্যমে বিভিন্ন সমস্যার সমাধান করা যায়। এই প্রক্রিয়া ব্যবহার করে গুণফল ও ভাগফল কিভাবে নির্ণয় করা যায় তা আলোচনা কর।
+
+Options:
+ক. (জ্ঞানমূলক): বীজগণিতীয় রাশির গুণ ও ভাগের প্রক্রিয়া কিভাবে কাজ করে তা ব্যাখ্যা করো।
+খ. (অনুধাবন): কিভাবে বীজগণিতীয় রাশির গুণফল নির্ণয় করা হয়, তার পদ্ধতি ব্যাখ্যা করো।
+গ. (বিশ্লেষণ/প্রয়োগ): গুণ ও ভাগের প্রক্রিয়া ব্যবহার করে একটি উদাহরণ বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): বীজগণিতীয় রাশির গুণ ও ভাগের প্রক্রিয়াগুলোকে সহজে মনে রাখার জন্য একটি সৃজনশীল উপায় প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+ক বীজগণিতীয় রাশির গুণ ও ভাগ কিভাবে কাজ করে তা ব্যাখ্যা করো:
+- গুণ: দুটি বা ততোধিক বহুপদী/রাশিকে গুণের সময় প্রতিটি রাশির প্রতিটি পদকে অন্য রাশির প্রতিটি পদকের সাথে গুণ করে সব মিলিয়ে সমানধর্মী পদগুলো যোগ করা হয়। মূল তত্ত্ব হলো বন্টনবিধি (distributive law): [math]a(b+c)=ab+ac[/math]। গুণের ফলে রাশির ডিগ্রি যোগ হয় এবং সহগগণনা হয়।
+- ভাগ: এক রাশিকে অন্য রাশিতে ভাগ করলে আমরা এমন একটি রাশি (ভাগফল) ও সম্ভবত একটি অবশিষ্ট (অবশিষ্টাংশ/রিমেইনডার) পাই, যাতে [math]\text{দিব্য}/\text{ভাগদার}=\text{ভাগফল}+\dfrac{\text{অবশিষ্ট}}{\text{ভাগদার}}[/math]। বহুপদী ভাগে সাধারণত লম্বা ভাগ (long division) বা সিন্থেটিক ডিভিশন ব্যবহার করা হয়। ভাগের সময় ডিগ্রী সম্পর্ক বজায় থাকে: ভাগফলের ডিগ্রি = (Dividend-এর ডিগ্রি) − (Divisor-এর ডিগ্রি)। যদি ভাগদার [math](x-a)[/math] হয়, তাহলে অবশিষ্ট = [math]f(a)[/math] (রিমেইনডার থিওরেম)।
+
+খ কিভাবে বীজগণিতীয় রাশির গুণফল নির্ণয় করা হয়, তার পদ্ধতি ব্যাখ্যা করো:
+পদ্ধতি (সাধারণ ধাপ):
+1. প্রতিটি পদকে অপর রাশির প্রতিটি পদকের সঙ্গে গুণ করা (বন্টন)।
+2. একই ঘাতের সমান পদগুলোকে যোগ করে সমাপনী করা।
+3. সরলীকরণ করে ফল নেয়া।
+
+উদাহরণ (সংক্ষিপ্ত):
+গুণ কর: [math](x+2)(x^2-x+3)[/math]
+ধাপ 1 — বন্টন:
+[math]x\cdot(x^2-x+3)=x^3-x^2+3x[/math]
+[math]2\cdot(x^2-x+3)=2x^2-2x+6[/math]
+ধাপ 2 — যোগ ও সরলীকরণ:
+[math]x^3+(-x^2+2x^2)+(3x-2x)+6=x^3+x^2+x+6[/math]
+অতএব ফল: [math]x^3+x^2+x+6[/math]।
+
+গ গুণ ও ভাগের প্রক্রিয়া ব্যবহার করে একটি উদাহরণ বিশ্লেষণ করো:
+নিচে গুণ ও পরে ভাগ করে দেখানো হলো যাতে দুই প্রক্রিয়ার সম্পর্ক স্পষ্ট হয়।
+
+ধরা যাক গুণ: [math](x+1)(x^2+3x+2)[/math]
+গুণ (বন্টন):
+[math]x(x^2+3x+2)=x^3+3x^2+2x[/math]
+[math]1(x^2+3x+2)=x^2+3x+2[/math]
+যোগ করলে: [math]x^3+4x^2+5x+2[/math]
+
+এখন এই ফলকে [math](x+1)[/math] দিয়ে ভাগ করি — আশা করি ভাগফল [math]x^2+3x+2[/math] হবে এবং অবশিষ্ট শূন্য হবে (কারণ আমরা আসলে প্রতিলিপি তৈরি করেছি)।
+
+সিন্থেটিক ডিভিশন (root [math]-1[/math]) দিয়ে দ্রুত ভাগ:
+কোঅফিসিয়েন্ট: [math]1,\ 4,\ 5,\ 2[/math]  
+সিন্থেটিক স্টেপ:
+- নিচে প্রথম কোঅফিসিয়েন্ট রাখো: [math]1[/math]
+- গুণ কর: [math]1\times(-1)=-1[/math], যোগ করো পরের সাথে: [math]4+(-1)=3[/math]
+- [math]3\times(-1)=-3[/math], যোগ: [math]5+(-3)=2[/math]
+- [math]2\times(-1)=-2[/math], যোগ: [math]2+(-2)=0[/math] (অবশিষ্ট)
+
+ফলাফল: ভাগফল কোঅফিসিয়েন্টগুলি [math]1,\ 3,\ 2[/math] → ভাগফল [math]x^2+3x+2[/math], অবশিষ্ট [math]0[/math]। এটি চেক করে যে গুণ ও ভাগ কাজ সঙ্গতিপূর্ণ।
+
+বৈশিষ্ট্যগত নোট: যদি ভাগদার [math](x-a)[/math] হয়, সিন্থেটিক ডিভিশন সহজ; বৃহত্তর ডিগ্রির ভাগদারে লম্বা ভাগ ব্যবহার করুন।
+
+ঘ বীজগণিতীয় রাশির গুণ ও ভাগের প্রক্রিয়াগুলোকে সহজে মনে রাখার জন্য একটি সৃজনশীল উপায় প্রস্তাবনা দাও:
+- ম্যাজিক বাক্স (Box/Area method) মেমোরি ট্রিক: গুণের জন্য একটি 2×2 বা প্রয়োজনে বৃহত্তর বাক্স আঁকো। এক পাশে একটি রাশির পদগুলো, টপে অন্য রাশির পদগুলো রেখে কক্ষগুলোতে গুণফল বসাও — পরে সমান ঘাতগুলোর যোগ করে নেওয়া সহজ হয়। (বিশেষ করে দ্বিপদী × দ্বিপদীর ক্ষেত্রে FOIL হিসেবে কাজ করে)
+- ভাগের জন্য ল্যাডার/স্টেপ মেথড স্মরণিকা: "S‑S‑Q‑R" — Setup (সেটআপ), Subtract (বিয়োগ), Quote (কোঅফিসিয়েন্ট লিখা / কোয়টিয়েন্ট বাড়ানো), Remainder (শেষ অবশিষ্ট) — প্রতিটি ধাপেই লম্বা ভাগে একেক ধাপ মনে করাবে।
+- ছড়া/রাইম: "বন্টনে ভাগফল, বাকিটা রিমেইনডার; গুণে বণ্টনের সব ধাপ, যোগ করে নাও সমান ধারা" — ছোট ছড়া হিসাবে বারবার উচ্চারণ করলে ক্রমস্মৃতি ভালো থাকে।
+- চেকিং টিপ: গুণের পরে আবার ভাগ করে বা ভাগের পরে গুণ করে চেক করো; ভাগে অবশিষ্ট থিওরেম ব্যবহার করে দ্রুত যাচাইকরণ: যদি [math]f(a)=0[/math] হয় তাহলে [math](x-a)[/math] বিভাজ্য।
+
+উপসংহার: গুণে বন্টননীতি ও ঘাত যোগের নীতিই মূল; ভাগে লম্বা ভাগ বা সিন্থেটিক ডিভিশন ব্যবহার করে কৌশলে কোঅফিসিয়েন্ট বের করা হয় এবং রিমেইনডার থিওরেম দিয়ে দ্রুত যাচাই করা যায়। উপরের সরল পদ্ধতি ও মেমোরি ট্রিকগুলো নিয়মিত অনুশীলনে কাজে লাগবে।
+
+Explanation:
+ব্যাখ্যা:
+ক বীজগণিতীয় রাশির গুণে সাধারণত সহগগুলোকে গুণ করা হয় এবং একই ভিত্তির ঘাতগুলো যোগ করা হয়; ভাগে সহগগুলো ভাগ করা হয় এবং ঘাতগুলো বিয়োগ করা হয়, আর বহুপদী হলে বিতরণনীতি (distributive) ও সংগত পদগুলো একত্রিত করা লাগে — এই নিয়মগুলো বিধিবদ্ধভাবে কাজ করে বলেই প্রক্রিয়াটি সঠিক।  
+খ গুণফল নির্ণয়ের পদ্ধতি: প্রতিটি পদকে বিতরণনীতি মেনে গুণ করো (দুই পদীয় বহুপদীর জন্য FOIL), তারপর একই ধরণের ঘাতবিশিষ্ট পদগুলো যোগ করে সরলীকরণ করো।  
+গ উদাহরণ বিশ্লেষণ: (x+2)(x-3) গুণ করলে [math]x·x + x(−3) + 2·x + 2(−3) = x^2 - x - 6[/math] এবং ভাগের উদাহরণ [math](x^2-9)/(x-3)=((x-3)(x+3))/(x-3)=x+3[/math] — এখানে বিতরণ ও গুণনীয়ক অনুলিপি করে সরলীকরণ করা হয়েছে।  
+ঘ স্মরণশক্তির কৌশল: ছোট ছড়া বা সংকেত ব্যবহার করো, যেমন “গুণে ঘাত যোগ, ভাগে ঘাত বিয়োগ” — এটি নিয়ম মনে রাখতে সহজ ও কার্যকর।
+
+Sub-Questions:
+

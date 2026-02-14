@@ -1,0 +1,594 @@
+================================================================================
+Question #1 (ID: 800335)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+ABC সমদ্বিবাহু ত্রিভুজের AB = AC এবং D, BC এর মধ্যবিন্দু। DE ও DF যথাক্রমে AC ও AB এর উপর লম্ব।
+
+Options:
+ক. তথ্যের আলোকে ABC ত্রিভুজটি অঙ্কন করে D বিন্দুটি চিহ্নিত কর।
+খ. দেখাও যে, AD&nbsp;&perp; BC.
+গ. প্রমাণ কর যে, DE = DF.
+
+
+Correct Answer: 
+
+Solution:
+ক[Image]চিত্রে ABC সমদ্বিবাহু ত্রিভুজে AB = AC এবং D. BC এরমধ্যবিন্দু। DE ও DF যথাক্রমে AC ও AB এর উপর লম্ব।
+খ[Image]এখানে, ABC সমদ্বিবাহুত্রিভুজের AB = AC এবং D, BCএর মধ্যবিন্দু। A ও D যোগ করি।দেখাতে হবে যে, AD&perp; BC.						ধাপ			যথার্থতা							(১) [math]\triangle \mathrm{ABD}[/math] এবং [math]\triangle \mathrm{ACD}[/math] এ[math]			\begin{aligned}			&amp; \mathrm{AB}=\mathrm{AC} \\			&amp; \mathrm{BD}=\mathrm{CD}			\end{aligned}			[/math]			এবং AD =AD[math]\therefore \triangle \mathrm{ABD} \cong \triangle \mathrm{ACD}[/math]			অর্থাৎ [math]\angle \mathrm{ADB}=\angle \mathrm{ADC}[/math]			(২) আবার, [math]\angle \mathrm{ADB}+\angle \mathrm{ADC}=2[/math] সমকোণ			বা, [math]\angle \mathrm{ADB}+\angle \mathrm{ADB}=2[/math] সমকোণ			বা, [math]2 \angle \mathrm{ADB}=2[/math] সমকোণ।[math]\therefore \angle \mathrm{ADB}=1[/math] সমকোণ			সুতরাং AD &perp;BC, (দেখানো হলো)			[সমদ্বিবাহু ত্রিভুজ বলে]			[D, BC এর মধ্যবিন্দু]			[সাধারণ বাহু]			[বাহু-বাহু-বাহু উপপাদ্য]			[&ang;BDC একটি সরলকোণ]			[ধাপ (১) হতে]			
+গএখানে, ABC সমদ্বিবাহু ত্রিভুজের AB = AC এবং D. BC এর মধ্যবিন্দু। DE ও DF যথাক্রমে AC ও AB এর উপর লম্ব।প্রমাণ করতে হবে যে, DE = DF[Image]অঙ্কন: A, D যোগ করি।প্রমাণ:						ধাপ			যথার্থতা							(১) ABC সমদ্বিবাহু ত্রিভুজে, [math]\mathrm{AB}=\mathrm{AC}[math]			\angle \mathrm{ABC}=\angle \mathrm{ACB}			[/math]			অতএব, [math]\angle \mathrm{DBF}=\angle \mathrm{DCE}[/math]			আবার, [math]\angle \mathrm{BFD}=[/math] এক সমকোণ			এবং [math]\angle \mathrm{CED}=[/math] এক সমকোণ			(২) আবার, [math]\triangle \mathrm{BDF}[/math] ও [math]\triangle \mathrm{CDE}[/math] এ,[math]			\begin{aligned}			&amp; \mathrm{BD}=\mathrm{CD} \\			&amp; \angle \mathrm{BFD}=\angle \mathrm{CED}			\end{aligned}			[/math]			এবং [math]\angle \mathrm{DBF}=\angle \mathrm{DCE}[/math]\therefore \triangle \mathrm{BDF} \cong \triangle \mathrm{CDE}[/math][math]\therefore \mathrm{DE}=\mathrm{DF}[/math]. (প্রমাণিত)			[সমান সমান বাহুর বিপরীত কোণদ্বয় পরস্পর সমান]						[[math]\because[/math]DE ও DF যথাক্রমে AC ও AB এর উপর লম্ব]												[D, BC এর মধ্যবিন্দু]			[প্রত্যেকে এক সমকোণ]			[ধাপ (১) হতে]			[কোণ-বাহু-কোণ উপপাদ্য]			
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 800344)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+∆ABC এ AB = AC এবং BE ও CF যথাক্রমে AC ও AB এর উপর লম্ব।
+
+Options:
+ক. বর্ণনা অনুযায়ী চিত্র অঙ্কন কর।
+খ. দেখাও যে, &ang;B = &ang;C.
+গ. প্রমাণ কর যে, BE = CF.
+
+
+Correct Answer: 
+
+Solution:
+কচিত্রে ∆ABC এ AB = AC এবং BE ও CF যথাক্রমে AC ও AB এর উপর লম্ব।[Image]
+খমনে করি, ABC ত্রিভুজে AB = AC ।দেখাতে হবে যে, &ang;B = &ang;C ।[Image]অঙ্কন: &ang;BAC এর সমদ্বিখণ্ডক AD আঁকি যেন তা BC কে D বিন্দুতে ছেদ করে।প্রমাণ:						ধাপ			যথার্থতা							△ ABD এবং △ACD এ,			AB = AC, AD = AD			অন্তর্ভুক্ত &ang;BAD = অন্তর্ভুক্ত &ang;CAD			সুতরাং △ ABD [math]\cong[/math]△ACD[math]\therefore[/math]&ang;ABD = &ang;ACD			বা, &ang;ABC = &ang;ACB[math]\therefore[/math]&ang;B = &ang;C. (দেখানো হলো)			[দেওয়া আছে]			[সাধারণ বাহু]			[অঙ্কনানুসারে]			[বাহু-কোণ-বাহু উপপাদ্য]						
+গ[Image]মনে করি, △ ABC-এ AB =AC এবং BE ও CF যথাক্রমে AC ওAB এর উপর লম্ব।প্রমাণ করতে হবে যে, BE = CF.						ধাপ			যথার্থতা							[math]\begin{aligned} &amp; \triangle \mathrm{ABC}\text{-এ} \mathrm{AB}=\mathrm{AC} \\ &amp; \therefore \quad \angle \mathrm{ACB}=\angle \mathrm{ABC} \\ &amp; \text { অর্থাৎ } \angle \mathrm{BCE}=\angle \mathrm{CBF} \\ &amp; \text { এখন, } \triangle \mathrm{FBC} \\ &amp; \text { ও } \triangle \mathrm{ECB}\text{-এ} \\ &amp; \angle \mathrm{BFC}=\angle \mathrm{CEB} \\ &amp; \angle \mathrm{CBF}=\angle \mathrm{BCE} \\ &amp; \text { এবং } \mathrm{BC}=\mathrm{BC} \\ &amp; \therefore \quad \triangle \mathrm{FBC} \cong \triangle \mathrm{ECB} \\ &amp; \text { অতএব, } \mathrm{BE}=\mathrm{CF} \text {. (প্রমাণিত) }\end{aligned}[/math]			[দেওয়া আছে]			[ত্রিভুজের সমান সমান বাহুর বিপরীত কোণদ্বয় পরস্পর সমান]			[প্রত্যেকে এক সমকোণ]						[সাধারণ বাহু]			[কোণ-বাহু-কোণ উপপাদ্য।			
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 800293)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]
+
+Options:
+ক. ∆AEF এর মধ্যমা কয়টি ও কি কি?
+খ. চিত্র (গ)-এ AB = AC হয়। তাহলে প্রমাণ কর যে, &ang;ABC = &ang;ACB.
+গ. চিত্র (ক) ও (খ) AB = DE, AC = DF হয় এবং&nbsp;&ang;BAC = &ang;EDF হয় তাহলে প্রমাণ কর যে, &Delta;&Alpha;ВС&nbsp;[math]\cong[/math]&nbsp;&Delta;DEF.
+
+
+Correct Answer: 
+
+Solution:
+ক&Delta;DEF এর মধ্যমা তিনটি যথাক্রমে DA, BE ও CF[Image]
+খ[Image]মনে করি, ∆ABC-এ AB=AC। প্রমাণ করতে হবে যে, &ang;ABC = &ang;ACBঅঙ্কন: &ang;BAC এর সমদ্বিখণ্ডক AD আঁকি যেন তা BC কে Dবিন্দুতে ছেদ করে।প্রমাণ:    ধাপ                             যথার্থতা১। [math]\triangle \mathrm{ABD}[/math] ও [math]\triangle \mathrm{ACD}[/math] এ, [math]\mathrm{AB}=\mathrm{AC}[/math]   [প্রদত্ত]AD সাধারণ বাহু এবং অন্তর্ভুক্ত[math]\angle \mathrm{BAD}=[/math] অন্তর্ভুক্ত [math]\angle \mathrm{CAD}[/math]         [অঙ্কন][math]\therefore \triangle \mathrm{ABD} \cong \triangle \mathrm{ACD}[/math][math]\therefore \angle \mathrm{ABD}=\angle \mathrm{ACD}[/math][বাহু-কোণ-বাহু উপপাদ্য]অর্থাৎ [math]\angle \mathrm{ABC}=\angle \mathrm{ACB}[/math] [প্রমাণিত]
+গ∆ABC ও ∆DEF এ, AB = DE, AC =DF এবং অন্তর্ভুক্ত&ang;BAC = অন্তর্ভুক্ত &ang;EDFপ্রমাণ করতে হবে যে, ∆ABC[math]\cong[/math] ∆DEF[Image]প্রমাণ:ধাপ                           যথার্থতা(১) ∆ABC কে ADEF এর উপর       বাহুর সর্বসমতাএমনভাবে স্থাপন করি যেন A বিন্দু Dবিন্দুর উপর ও AB বাহু DE বাহুবরাবর এবং DE বাহুর যে পাশে Fআছে C বিন্দু ঐ পাশে পড়ে। এখনAB = DE বলে B বিন্দু অবশ্যই Eবিন্দুর উপর পড়বে।(২) যেহেতু &ang;BAC = &ang;EDF এবং     [কোণের সর্বসমতা]AB বাহু DE বাহুর উপর পড়ে।সুতরাং AC বাহু DF বাহু বরাবরপড়বে।(৩) AC = DF বলে C বিন্দু অবশ্যইF বিন্দুর উপর পড়বে।             [বাহুর সর্বসমতা](৪) এখন B বিন্দু E বিন্দুর উপর এবংC বিন্দু F বিন্দুর উপর পড়ে বলে BC     [দুইটি বিন্দুর মধ্যবাহু অবশ্যই EF বাহুর সাথে পুরোপুরি    দিয়ে একটি মাত্রমিলে যাবে।                     সরলরেখা অঙ্কনঅতএব, ∆ABC, ∆DEF এর উপর           করা যায়]সমাপতিত হবে।∆ABC​​​​​​​[math]\cong[/math]∆DEF [প্রমাণিত]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 800306)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]একটি লাঠির দৈর্ঘ্য 2 সে.মি., এর ছায়ার দৈর্ঘ্য 1.5 সে.মি.। আবার একটি গাছের ছায়ার দৈর্ঘ্য 9 সে.মি.।
+
+Options:
+ক. 45&deg; একটি কোণ উৎপন্ন কর।
+খ. একটি ত্রিভুজের অতিভুজ x মিটার, একটি বাহু 10 মিটার। অপর একটি সদৃশ ত্রিভুজের অতিভুজ 13 মিটার ও অন্য অনুরূপ বাহু 5 মিটার হলে x এর মান কত?
+গ. উদ্দীপকের গাছের দৈর্ঘ্য y হলে, y এর মান কত?
+
+
+Correct Answer: 
+
+Solution:
+ক45&deg; একটি কোণ উৎপন্ন কর।[Image]
+খত্রিভুজদ্বয় সদৃশ হলে,অতিভুজদ্বয়ের অনুপাত = অনুরূপ বাহুদ্বয়ের অনুপাতবা, [math]\frac{x}{13}=\frac{10}{5}[/math]বা, [math]x=\frac{10 \times 13}{5}[/math][math]\therefore[/math] [math]x = 26[/math] মিটার (Ans.)
+গনির্দিষ্ট সময়ে সকল কিছুর খাড়া দৈর্ঘ্যের শীর্ষ বিন্দু ও ছায়ার শীর্ষ বিন্দু সদৃশ ত্রিভুজ গঠন করে।[math]\therefore \frac{2}{1.5}=\frac{y}{9}[/math]বা, [math]\mathrm{y}=\frac{2 \times 9}{1.5}[/math]বা, [math]y=12[/math]অতএব, গাছটির দৈর্ঘ্য 12 সে.মি.। (Ans.)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 800324)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+ABC সমদ্বিবাহু ত্রিভুজের AB = AC, এর অভ্যন্তরে D এমন একটি বিন্দু যেন BDC সমদ্বিবাহু ত্রিভুজ হয়।
+
+Options:
+ক. বর্ণনা অনুযায়ী চিত্রটি অঙ্কন কর।
+খ. প্রমাণ কর যে, &ang;ABC = &ang;ACB.
+গ. দেখাও যে, △ ABD [math]\cong[/math]&nbsp;△ ACD.
+
+
+Correct Answer: 
+
+Solution:
+ক[Image]চিত্রে ABC সমদ্বিবাহু ত্রিভুজেরAB = AC, এর অভ্যন্তরে D এমন একটি বিন্দু যেখানে BD = CD অর্থাৎ BDC সমদ্বিবাহু ত্রিভুজ'।
+খ[Image]মনে করি, ABC সমদ্বিবাহু ত্রিভুজেAB = AC I প্রমাণ করতে হবে যে,&ang;BC = &ang;ACBঅঙ্কন: &ang;BAC এর সমদ্বিখন্ডক AE আঁকি যেন তা BC কে E বিন্দুতে ছেদ করে।প্রমাণ:						ধাপ			যথার্থতা							[math]\begin{aligned} &amp; \triangle \mathrm{ABE} \text { এবং } \triangle \mathrm{ACE} \text { এ, } \\ &amp; \mathrm{AB}=\mathrm{AC} \text {, } \\ &amp; \mathrm{AE}=\mathrm{AE} \\ &amp; \text { অন্তর্ভুক্ত } \angle \mathrm{BAE}=\text { অন্তর্ভুক্ত } \angle \mathrm{CAE} \\ &amp; \text { সুতরাং } \triangle \mathrm{ABE} \cong \triangle \mathrm{ACE} \\ &amp; \therefore \angle \mathrm{ABE}=\angle \mathrm{ACE} \\ &amp; \text { অর্থাৎ } \angle \mathrm{ABC}=\angle \mathrm{ACB} \text {. (প্রমাণিত) }\end{aligned}[/math]			[দেওয়া আছে]			[সাধারণ বাহু]			[অঙ্কনানুসারে]			[বাহু-কোণ-বাহু উপপাদ্য]						
+গ[Image]মনে করি, ABC সমদ্বিবাহুত্রিভুজে AB = AC এর অভ্যন্তরেরএকটি বিন্দু D এবং BDC সমদ্বিবাহু ত্রিভুজ। A, D যোগ করি। দেখাতে হবে যে, [math]\Delta[/math]ABD [math]\cong[/math] [math]\Delta[/math]ACD ।						ধাপ			যথার্থতা							[math]\Delta[/math]ABD এ[math]\Delta[/math]ACD এর মধ্যে			AB = AC,			BD = CD			এবং AD = AD[math]\therefore[/math][math]\Delta[/math]ABD [math]\cong[/math] [math]\Delta[/math]ACD.(দেখানো হলো)						[দেওয়া আছে]			[BDC সমদ্বিবাহু ত্রিভুজ]			[সাধারণ বাহু]			[বাহু-বাহু-বাহু উপপাদ্য]			
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 800093)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+∆ABC ও ∆DEF এ AB = DE, AC = DF এবং অন্তর্ভুক্ত ∠BAC = অন্তর্ভুক্ত ∠EDF.
+
+Options:
+ক. প্রদত্ত তথ্যের আলোকে চিত্র অঙ্কন কর।
+খ. প্রমাণ কর, ∆ABC = ∆DEF.
+গ. AC ও DF এর উপর যেকোনো বিন্দু যথাক্রমে M ও N এবং CM = FN হলে প্রমাণ কর যে, &ang;ABM = &ang;DEN.
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত তথ্যের ভিত্তিতে নিম্নে চিত্র অঙ্কন করা হলো:[Image]এখানে, ABC ও DEF দুইটি ত্রিভুজ।∆ABC ও ∆DEF -এ AB = DE,AC = DF এবং অন্তর্ভুক্ত &ang;BAC = অন্তর্ভুক্ত &ang;EDF.
+খপ্রমাণ করতে হবে যে, ∆ABC\(\cong\)∆DEF.প্রমাণ:ধাপ                           যথার্থতা(১) ∆ABC কে ∆DEF এর উপর      [বাহুর সর্বসমতা]এমনভাবে স্থাপন করি যেন Aবিন্দু D বিন্দুর উপর ও AB বাহুDE বাহু বরাবর এবং DE বাহুরযে পাশে F আছে C বিন্দু ঐপাশে পড়ে। এখন AB = DEবলে B বিন্দু অবশ্যই E বিন্দুরউপর পড়বে।(২) যেহেতু &ang;BAC = &ang;EDF এবং    [কোণের সর্বসমতা]AB বাহু DE বাহুর উপর পড়ে,সুতরাং AC বাহু DF বাহু বরাবরপড়বে।(৩) AC = DF বলে C বিন্দু অবশ্যই     [বাহুর সর্বসমতা]F বিন্দুর উপর পড়বে।(৪) এখন B বিন্দু E বিন্দুর উপর এবং  [দুইটি বিন্দুর মধ্যে দিয়েC বিন্দু F বিন্দুর উপর পড়ে বলে      একটি মাত্র সরলরেখাBC বাহু অবশ্যই EF বাহুর সাথে       অঙ্কন করা যায়]পুরোপুরি মিলে যাবে।অতএব, ∆ABC, ∆DEF এরউপর সমাপতিত হবে।সুতরাংABC\(\cong\)∆DEF(প্রমাণিত)
+গ[Image]বিশেষ নির্বচন: দেওয়া আছে, ∆ABC ও ∆DEF এ AC = DFএবং &ang;BAC = &ang;EDF । AC ও DF এর উপর যেকোনো বিন্দুযথাক্রমে M ও N এবং CM = FN ।প্রমাণ করতে হবে যে, &ang;ABM = &ang;DEN.প্রমাণ:ধাপ                        যথার্থতা১. [math]\triangle \mathrm{ABC}[/math] কে [math]\triangle \mathrm{DEF}[/math] এর মধ্যে AC[math]=\mathrm{DF}[/math]                     [দেওয়া আছে]বা, [math]\mathrm{AM}+\mathrm{MC}=\mathrm{DN}+\mathrm{NF}[/math]  [অঙ্কনানুসারে]কিন্তু MC = NF         [দেওয়া আছে][math]\therefore \mathrm{AM}=\mathrm{DN}[/math]২. এখন [math]\angle \mathrm{BAC}=\angle \mathrm{EDF}[/math]  [দেওয়া আছে][math]\therefore \angle \mathrm{BAM}=\angle \mathrm{EDN}[/math]        [একই কোণ]৩. [math]\triangle \mathrm{ABM}[/math] ও [math]\triangle \mathrm{DEN}[/math] এর মধ্যে[math]\begin{aligned}&amp; \mathrm{AB}=\mathrm{DE} \text{[দেওয়া আছে] } \\&amp; \mathrm{AM}=\mathrm{DN}\text{[ ধাপ (১) থেকে]}\end{aligned}[/math]এবং অন্তর্ভুক্ত [math]\angle \mathrm{BAM}=[/math] অন্তর্ভুক্ত [math]\angle \mathrm{EDN}[/math] [ ধাপ (২) থেকে]সুতরাং [math]\triangle \mathrm{ABM} \cong \triangle \mathrm{DEN}[/math][math]\therefore \angle \mathrm{ABM}=\angle \mathrm{DEN} \text { [প্রমাণিত] }[/math]   [বাহু-কোণ-বাহু উপপাদ্য অনুসারে]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 800115)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+ABC একটি ত্রিভুজ। AD, BC এর লম্ব সমদ্বিখন্ডক।
+
+Options:
+ক. কি শর্ত পূরণ করলে দুটি সমকোণী ত্রিভুজ পরস্পর সর্বসম হয়।
+খ. প্রমাণ কর যে, &ang;A + &ang;B + &ang;C = 180&deg;
+গ. আরও প্রমাণ কর যে, ∆ABD&nbsp;[math]\cong[/math] ∆ADC
+
+
+Correct Answer: 
+
+Solution:
+কদুইটি সমকোণী ত্রিভুজের অতিভুজদ্বয় সমান হলে এবং একটির এক বাহু অপরটির অপর এক বাহুর সমান হলে, ত্রিভুজদ্বয় সর্বসম হবে।
+খমনে করি, ABC একটি ত্রিভুজ। প্রমাণ করতে হবে যে, &ang;A + &ang;B + &ang;C = 180&deg;[Image]অঙ্কন: BC বাহুকে D পর্যন্ত বর্ধিত করি এবং BA এর সমান্তরাল করে CE রেখা আঁকি। প্রমাণ:ধাপ                        যথার্থতা১। BA || CE এবং AC তাদ্রের ছেদক।[math]\therefore \angle \mathrm{BAC}=\angle \mathrm{ACE}[/math]       [একান্তর কোণ]২। BA|| CE এবং BD তাদের ছেদক।[math]\therefore \angle \mathrm{ABC}=\angle \mathrm{ECD}[/math]      [অনুরূপ কোণ]৩। [math]\angle \mathrm{BAC}+\angle \mathrm{ABC}=\angle \mathrm{ACE}+[/math][math]\angle \mathrm{ECD}=\angle \mathrm{ACD}[/math]৪। [math] \angle \mathrm{BAC}+\angle \mathrm{ABC}+\angle \mathrm{ACB}=[/math] [উভয় পক্ষকে [math]\angle \mathrm{ACB}[/math]দ্বারা যোগ করে] [math]\angle \mathrm{ACD}+\angle \mathrm{ACB}[/math]৫। [math]\angle \mathrm{ACD}+\angle \mathrm{ACB}=180^{\circ}[/math]বা, [math]\angle \mathrm{BAC}+\angle \mathrm{ABC}+\angle \mathrm{ACB}=180^{\circ}[/math] [সরল কোণ উপপাদ্য][math]\therefore \angle \mathrm{A}+\angle \mathrm{B}+\angle \mathrm{C}=180^{\circ}[/math] (প্রমাণিত)
+গ∆ABC এ, AD, BC এর লম্ব সমদ্বিখণ্ডক। প্রমাণ করতে হবে যে, ∆ABD[math]\cong[/math] ∆ADC.[Image]প্রমাণ:ধাপ                       যথার্থতা[math]\begin{aligned}&amp; \text { ১। } \mathrm{AD}, \mathrm{BC} \text { এর লম্বসমদ্বিখণ্ডক। } \\&amp; \therefore \mathrm{BD}=\mathrm{DC} \text { এবং } \mathrm{AD} \perp \mathrm{BC} \\&amp; \therefore \angle \mathrm{ADB}=\angle \mathrm{ADC}=\perp \text { সমকোণ } \\&amp; \text { ২। } \triangle \mathrm{ABD} \text { ও } \triangle \mathrm{ADC} \text { এ, } \mathrm{BD}=\mathrm{DC} \\&amp; \quad \mathrm{AD} \text { সাধারণ বাহু } \\&amp; \text { অন্তর্ভুক্ত } \angle \mathrm{ADB}=\text { অন্তর্ভুক্ত } \angle \mathrm{ADC} \\&amp;\text { [বাহু-কোণ-বাহু উপপাদ্য]} \\&amp; \therefore \quad \Delta \mathrm{ABD} \cong \mathrm{ADC} \text { [প্রমাণিত] }\end{aligned}[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 800136)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+চিত্রে, ABC একটি সমবাহু ত্রিভুজ। D, E ও F যথাক্রমে BC, AB ও AC বাহুর মধ্যবিন্দু।
+
+Options:
+ক. প্রদত্ত তথ্যের আলোকে চিত্র আঁক।
+খ. প্রমাণ কর যে, &ang;EDB = &ang;FDC
+গ. DF = FC হলে প্রমাণ কর যে, ∆FCD ও ∆ABC সদৃশ।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত তথ্যের আলোকে চিত্রটি আঁকা হলো।[Image]
+খপ্রমাণ:ধাপ                      যথার্থতা১. [math]\triangle \mathrm{ABC} [/math] এ[math]\begin{aligned}&amp; \mathrm{AB}=\mathrm{BC}=\mathrm{AC} \\&amp; \angle \mathrm{ABC}=\angle \mathrm{ACB}\end{aligned}[/math]   [সমবাহু ত্রিভুজের সংজ্ঞানুসারে]বা, [math]\angle \mathrm{EBD}=\angle \mathrm{FCD}[/math]আবার, AB = BC=AC[math]\begin{aligned}&amp; \therefore \frac{1}{2} \mathrm{AB}=\frac{1}{2} \mathrm{BC}=\frac{1}{2} \mathrm{AC} \\&amp; \therefore \mathrm{~EB}=\mathrm{BD}=\mathrm{DC}=\mathrm{FC}\end{aligned}[/math]২. [math]\triangle \mathrm{EBD}[/math] ও [math]\triangle \mathrm{FCD}[/math]-এ[math]\mathrm{EB}=\mathrm{FC}[/math]  [E ও F যথাক্রমে AB ও AC এর মধ্যবিন্দু][math]\mathrm{BD}=\mathrm{DC}[/math]      [D, BC এর মধ্যবিন্দু]এবং [math]\angle \mathrm{EBD}=\angle \mathrm{FCD}[/math]    [অন্তর্ভুক্ত কোণ][math]\therefore \triangle \mathrm{EBD} \cong \triangle \mathrm{FCD}[/math]   [বাহু-কোণ-বাহু উপপাদ্য]অর্থাৎ, [math]\angle \mathrm{EDB}=\angle \mathrm{FDC}[/math]     [অনুরূপ কোণ](প্রমাণিত)
+গখ থেকে পাই,[math]\mathrm{DC}=\mathrm{FC}[/math]দেওয়া আছে, [math]\mathrm{DF}=\mathrm{FC}[math]\therefore \mathrm{DC}=\mathrm{FC}=\mathrm{DF}[/math]\therefore \triangle \mathrm{FDC}[/math] সমবাহু ত্রিভুজ।আবার, [math]\triangle \mathrm{ABC}[/math] সমবাহু ত্রিভুজ।[math]\therefore \triangle \mathrm{ABC}[/math] ও [math]\triangle \mathrm{FCD}[/math] সদৃশ। [ বাহু-বাহু-বাহু উপপাদ্য] (প্রমাণিত)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 800142)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+△ABC সমকোণী সমদ্বিবাহু। BO ⊥ AC এবং O, AC এর মধ্যবিন্দু।
+
+Options:
+ক. উদ্দীপকের তথ্যের আলোকে চিত্রটি আঁক।
+খ. প্রমাণ কর যে, ∆OAB&nbsp;[math]\cong[/math] ∆ОСВ
+গ. প্রমাণ কর যে, △OAB ও △ABC সদৃশ।
+
+
+Correct Answer: 
+
+Solution:
+কতথ্যের আলোকে চিত্র আঁকা হলো।[Image]
+খপ্রমাণ করতে হবে যে, &Delta;&Omicron;АВ[math]\cong[/math]&Delta;ОСВপ্রমাণ:ধাপ                    যথার্থতা১. [math]\mathrm{OA}=\mathrm{OC}[/math]      [O, AC এর মধ্যবিন্দু]২. এখন, [math]\triangle \mathrm{AOB}[/math] ও [math]\triangle \mathrm{COB}[/math]-এ[math]\mathrm{OA}=\mathrm{OC}[/math]              [ধাপ-১]BO সাধারণ বাহুএবং অন্তর্ভুক্ত [math]\angle \mathrm{BOA}=[/math] অন্তর্ভুক্ত [math]\angle \mathrm{BOC}[/math] [প্রত্যেকে এক সমকোণ][math]\therefore \triangle \mathrm{AOB} \cong \triangle \mathrm{COB}[/math] (প্রমাণিত) [বাহু-কোণ-বাহু উপপাদ্য]
+গপ্রমাণ করতে হবে যে,&Delta;&Omicron;&Alpha;&Beta; ও ∆ABC সদৃশ।প্রমাণ:ধাপ                   যথার্থতা১. ∆OAB ও ∆ABC এ&ang;AOB = &ang;ABC = এক সমকোণ&ang;A সাধারণ কোণ[math]\therefore[/math] ∆OAB ও ∆ABC সদৃশ। (প্রমাণিত) [কোণ-কোণ-সদৃশতার শর্ত
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 800158)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+∆ABC ও ∆DEF এ AB = DE, AC = DF এবং অন্তর্ভুক্ত ∠BAC = অন্তর্ভুক্ত ∠EDF।
+
+Options:
+ক. উপরের তথ্যের ভিত্তিতে চিত্র অঙ্কন কর।
+খ. প্রমাণ কর যে, ∆ABC ও ∆DEF সর্বসম।
+গ. যদি ∆ABC সমবাহু ত্রিভুজ হয় তবে &ang;EDF = কত?
+
+
+Correct Answer: 
+
+Solution:
+কউপরের তথ্যের ভিত্তিতে চিত্রটি অঙ্কন করা হল।[Image]
+খবিশেষ নির্বচন দেওয়া আছে, ∆ABC ও ∆DEF-এ AB = DE,AC = DF এবং অন্তর্ভুক্ত &ang;BAC = অন্তর্ভুক্ত &ang;EDF।প্রমাণ করতে হবে যে, [math]\Delta \mathrm{ABC} \cong \triangle \mathrm{DEF}[/math]প্রমাণ:(১) ∆ABC কে ∆DEF এর উপরএমনভাবে স্থাপন করি যেন A       [ বাহুর সর্বসমতা]বিন্দু D বিন্দুর উপর ও AB বাহুDE বাহু বরাবর এবং DE বাহুরযে পাশে F আছে, C বিন্দু যেনঐ পাশে পড়ে। AB = DE বলেB বিন্দু অবশ্যই E বিন্দুর উপরপড়বে।(২) যেহেতু &ang;BAC = &ang;EDF এবংAB বাহু DE বাহুর উপর পড়ে,সুতরাং AC বাহু DF বাহু বরাবরপড়বে।(৩) AC = DF বলে, C বিন্দু অবশ্যই   [ কোণের সর্বসমতা]F বিন্দুর উপর পড়বে।(৪) B বিন্দু E বিন্দুর উপর এবং C বিন্দুF বিন্দুর উপর পড়ে বলে, BCঅবশ্যই EF এর সাথে পুরোপুরিমিলে যাবে।                 [ দুইটি বিন্দু দিয়েঅতএব, &Delta;&Alpha;BC, &Delta;DEF এর     একটি মাত্র সরলরেখাউপর সমাপতিত হবে।                 আঁকা যায়]সুতরাং,[math]\Delta \mathrm{ABC} \cong \triangle \mathrm{DEF}[/math](প্রমাণিত)
+গ&Delta;&Alpha;&Beta;C [math]\cong[/math] &Delta;DEF[math]\therefore[/math]∆ABC সমবাহু হলে ∆DEF সমবাহু[math]\therefore[/math]&ang;EDF = 60&deg; [যেহেতু সমবাহু ত্রিভুজের প্রতিটি কোণ 60&deg;]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 800163)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Δ ABC-এ AB = AC, BC ভূমি। Ο, Δ ABC এর অভ্যন্তরে এমন একটি বিন্দু যেন, OB = OC.
+
+Options:
+ক. প্রদত্ত তথ্যের আলোকে চিত্রটি অঙ্কন কর।
+খ. প্রমাণ কর যে, &ang;AOB = &ang;AOC.
+গ. প্রমাণ কর যে, &ang;OBC = &ang;OCB.
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত তথ্যের আলোকে চিত্রটি অঙ্ক করা হলো:[Image]চিত্রে, △ABC-এ AB = ACOএকটি বিন্দু △ABC এর অভ্যন্তরে নেওয়া হলো যেন, OB = OC হয়
+খঅঙ্কন: প্রমাণ করতে হবে যে, &ang;AOB = &ang;AOC । O, A যোগ করি।প্রমাণ:ধাপ                   যথার্থতা১. ∆ABO ও ∆ACO-এ  ২. AB = AC       [দেওয়া আছে]৩. OB = OC      [দেওয়া আছে]৪. AO সাধারণ বাহু।[math]\therefore[/math]&Delta;&Alpha;&Beta;&Omicron;[math]\cong[/math] ∆ACO   [বাহু-বাহু-বাহু উপপাদ্য]তাহলে, &ang;AOB = &ang;AOC (প্রমাণিত)
+গ'ক' এর চিত্রের আলোকে প্রমাণ করতে হবে যে, &ang;OBC = &ang;OCBপ্রমাণ:ধাপ                    যথার্থতা১. এখন, △OBC-এOB = OC            [দেওয়া আছে][math]\therefore[/math] &ang;OCB = &ang;OBC  [ত্রিভুজের দুইটি বাহু পরস্পর সমান হলে             এদের বিপরীত কোণদ্বয়ও পরস্পর সমান হয়]অর্থাৎ, &ang;OBC = &ang;OCB (প্রমাণিত)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 800016)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে △ABC এ AB = AC, BD = DC এবং BE = CF.
+
+Options:
+ক. &ang;ABC = 50&deg; হলে, &ang;BAC এর মান নির্ণয় কর।
+খ. প্রমাণ কর যে, &ang;EDB = &ang;FDC.
+গ. A ও D যোগ করে প্রমাণ কর যে, &ang;EDF এর সমদ্বিখণ্ডক AD।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\begin{aligned} &amp; \triangle \mathrm{ABC}\text{-এ} \mathrm{AB}=\mathrm{AC} \\ &amp; \therefore \angle \mathrm{ABC}=\angle \mathrm{ACB}=50^{\circ} \\ &amp; \text { আবার, } \triangle \mathrm{ABC}-এ \angle \mathrm{ABC}+\angle \mathrm{ACB}\\&amp;+\angle \mathrm{BAC}=180^{\circ} \\ &amp; \text { বা, } 50^{\circ}+50^{\circ}+\angle \mathrm{BAC}=180^{\circ} \\ &amp; \therefore \angle \mathrm{BAC}=180^{\circ}-100^{\circ}=80^{\circ}\end{aligned}[/math]
+খ[Image]বিশেষ নির্বচন: মনে করি, △ABC এ AB = AC, BD = DCএবং BE = CF. প্রমাণ করতে হবে যে, &ang;BDE = &ang;CDF.প্রমাণ:ধাপ                        যথার্থতা১. ∆ABC-এ AB = AC[math]\therefore[/math]&ang;ABC = &ang;ACB      [ত্রিভুজের সমান বাহুর বিপরীত                           কোণদ্বয় সমান]২. ∆BDE ও CDF এBD = CD, BE = CF          [দেওয়া আছে]এবং অন্তর্ভুক্ত &ang;DBE = অন্তর্ভুক্ত &ang;DCF. [ ধাপ (১) হতে &ang;ABC= &ang;ACB][math]\therefore[/math] ∆BDE[math]\cong[/math] ∆CDF   [বাহু-কোণ-বাহু উপপাদ্য][math]\therefore[/math]&ang;BDE = &ang;CDF       [প্রমাণিত]
+গ[Image]বিশেষ নির্বচন: মনে করি, △ABC এর AB = AC, BD = DC এবং BE = CF, A ও D যোগ করা হলো। প্রমাণ করতে হবে যে,AD, &ang;EDF এর সমদ্বিখন্ডক।প্রমাণ:ধাপ                 যথার্থতা১. △BD ও △ACD এAB = AC,        [দেওয়া আছে]BD = CD        [দেওয়া আছে]এবং AD বাহু সাধারণ।[math]\therefore[/math] △ABD[math]\cong[/math] △ACD[math]\therefore[/math] &ang;ADB = &ang;ADC.২. &ang;ADB - &ang;BDE = &ang;ADC - &ang;BDE&ang;ADB - &ang;BDE = &ang;ADC - &ang;CDF [(খ) হতে &ang;BDE = &ang;CDF][math]\therefore[/math] &ang;ADE = &ang;ADF[math]\therefore[/math]AD, &ang;EDF এর সমদ্বিখণ্ডক। [প্রমাণিত]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 800048)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে △ABC-এ AB = AC এবং ∠BAD = ∠CAE, ∠ABC = 50°.
+
+Options:
+ক. উপর্যুক্ত চিত্রের অনুরূপ একটি চিত্র আঁক।
+খ. &ang;BAD = 20&deg; হলে &ang;DAE এর মান নির্ণয় কর।
+গ. প্রমাণ কর যে, AD = AE.
+
+
+Correct Answer: 
+
+Solution:
+কউপর্যুক্ত চিত্রের অনুরূপ একটি চিত্র অঙ্কন করা হলো:[Image]∆ABC এ AB = AC এবং &ang;BAD = &ang;CAE. &ang;ABC = 50&deg;.
+খ[math]\begin{aligned} &amp; \triangle \mathrm{ABC}~ \text{এ}~ \mathrm{AB}=\mathrm{AC} \\ &amp; \therefore \angle \mathrm{ABC}=\angle \mathrm{ACB}=50^{\circ} \\ &amp; \text { আবার, } \triangle \mathrm{ABC} ~ \text{এ}~ \angle \mathrm{ABC}+\angle \mathrm{ACB}\\&amp;+\angle \mathrm{BAC}=180^{\circ} \\ &amp; \text { বা, } 50^{\circ}+50^{\circ}+\angle \mathrm{BAC}=180^{\circ} \\ &amp; \therefore \angle \mathrm{BAC}=180^{\circ}-100^{\circ}=80^{\circ} \\ &amp; \begin{aligned} &amp; \text { আবার, } \angle \mathrm{BAD}=\angle \mathrm{CAE}=20^{\circ} \\ &amp; \therefore \angle \mathrm{DAE}=\angle \mathrm{BAD}+\angle \mathrm{BAC}+\angle \mathrm{CAE} \\ &amp;=20^{\circ}+80^{\circ}+20^{\circ} \\ &amp;= 120^{\circ}\end{aligned}\end{aligned}[/math]
+গবিশেষ নির্বচন: মনে করি, △ABC এ AB = AC এবং &ang;BAD= &ang;CAE. প্রমাণ করতে হবে যে, AD = AE.প্রমাণ:ধাপ                  যথার্থতা১. ∆ABC এ AB = AC[math]\therefore[/math] &ang;ABC = &ang;ACB.  [সমান সমান বাহুর বিপরীত                   কোণদ্বয় পরস্পর সমান][math]\therefore[/math]180&deg; - &ang;ABC = 180&deg; - &ang;ACB[math]\therefore[/math] &ang;ABD = &ang;ACE  [&ang;ABD ও &ang;ACE যথাক্রমে                  &ang;ABC ও &ang;ACB এর সম্পূরক]২. △ABD ও △ACE-এ&ang;BAD = &ang;CAE          [দেওয়া আছে]&ang;ABD = &ang;ACE           [১ হতে]এবং AB = AC           [দেওয়া আছে][math]\therefore[/math]∆ABD[math]\cong[/math] ∆ACE     [কোণ-কোণ-বাহু উপপাদ্য][math]\therefore[/math]AD = AE [প্রমাণিত]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 800073)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]
+
+Options:
+ক. ABC ত্রিভুজ একে দেখাও যার উচ্চতা ও মধ্যমা একই রেখাংশ।
+খ. ১ম চিত্র হতে প্রমাণ কর যে, &ang;A+ &ang;B + &ang;C + &ang;D = 360&deg;.
+গ. ২য় চিত্র হতে প্রমাণ কর যে, &ang;ABC + &ang;BAC + &ang;ACB = 180&deg;.
+
+
+Correct Answer: 
+
+Solution:
+ক[Image]ABC একটি ত্রিভুজ, যার উচ্চতা AD এবং A থেকে BC এর উপর মধ্যমা AD I
+খ[Image]মনে করি, ABCD একটি চতুর্ভূজ। প্রমাণ করতে হবে যে, &ang;A + &ang;B + &ang;C + &ang;D = 360&deg;প্রমাণ:ধাপ                    যথার্থতা(১) [math]\triangle \mathrm{ABC}[/math]-এ,[math] \angle \mathrm{~A}+\angle \mathrm{ABD}+[/math] [ ত্রিভুজের তিন [math]\angle \mathrm{ADB}=180^{\circ} \quad[/math]            কোণের সমষ্টি [math]180^{\circ}[/math] ](২) আবার, [math]\triangle \mathrm{BDC}[/math] এ, [math]\angle \mathrm{DBC}+[/math] [math]\angle \mathrm{BDC}+\angle \mathrm{C}=180^{\circ}[/math]             [ঐ]     (৩) ধাপ (১) ও (২) থেকে,[math]\begin{aligned}&amp; \angle \mathrm{A}+\angle \mathrm{ABD}+\angle \mathrm{DBC}+ \\&amp; \angle \mathrm{ADB}+\angle \mathrm{BDC}+\angle \mathrm{C}= \\&amp; 180^{\circ}+180^{\circ}\end{aligned}[/math][math]\begin{aligned}&amp; \angle \mathrm{A}+\angle \mathrm{B}+\angle \mathrm{D}+\angle \mathrm{C}=360^{\circ} \\&amp; \angle \mathrm{A}+\angle \mathrm{B}+\angle \mathrm{C}+\angle \mathrm{D}=360^{\circ}\end{aligned}[/math](প্রমাণিত)   [ যোগ করে ]
+গ∆ABC এর জন্য প্রমাণ করতে হবে যে,&ang;BAC + &ang;ABC + &ang;ACB = 180&deg;[Image]প্রমাণ:ধাপ                        যথার্থতা(১) BA || CE এবং AC তাদের ছেদক।[math]\therefore \angle \mathrm{BAC}=\angle \mathrm{ACE}[/math]    [ একান্তর কোণ ](২) [math]\mathrm{BA} \| \mathrm{CE}[/math] এবং BD তাদ্দের ছেদক।[math]\therefore \angle \mathrm{ABC}=\angle \mathrm{ECD}[/math]      [অনুরূপ কোণ](৩) [math]\angle \mathrm{BAC}+\angle \mathrm{ABC}=\angle \mathrm{ACE}+[/math][math]\angle \mathrm{ECD}=\angle \mathrm{ACD}[/math](৪)[math]\begin{aligned}&amp; \angle \mathrm{BAC}+\angle \mathrm{ABC}+\angle \mathrm{ACB} \\&amp; =\angle \mathrm{ACD}+\angle \mathrm{ACB}\end{aligned}[/math] [ উভয়পক্ষে &ang;ACB যোগ করে](৫)[math]\begin{aligned}&amp; \angle \mathrm{ACD}+\angle \mathrm{ACB}=180^{\circ} \text{ [সরল কোণ উপপাদ্য] } \\&amp; \therefore \angle \mathrm{ABC}+\angle \mathrm{BAC}+\angle \mathrm{ACB} \\&amp; =180^{\circ} \text { (প্রমাণিত) }\end{aligned}[/math]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 799910)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]
+
+Options:
+ক. চিত্রটির অনুরূপ চিত্র আঁক।
+খ. অনুরূপ বাহুগুলোর অনুপাত বের কর।
+গ. △WXY ও △YVZ কি সদৃশ?
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত চিত্রের অনুরূপ চিত্র আঁকা হলো :[Image]
+খ△YVZ ও △YXW এর অনুরূপ বাহুগুলোর অনুপাতYX : YV = 4 : 6 = 2 : 3এবং YW : YZ = 6 : 9 = 2 : 3চিত্র হতে আমরা দেখতে পাই যে, ত্রিভুজদ্বয়ের একটির দুই বাহু অপরটির অনুরূপ দুই বাহুর সমানুপাতিক।
+গ△YWX ও △YZV-এ&ang;WYX = বিপ্রতীপ &ang;ZYVYX : YV = 2 : 3         ['খ' হতে পাই]YW : YZ = 2 : 3         ['খ' হতে পাই]সুতরাং △YWX ও △YZV সদৃশ। (প্রমাণিত) [বাহু-কোণ-বাহু, সদৃশতা শর্ত]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 799917)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]
+
+Options:
+ক. △ABC ও △ACD এর AB ও AC অনুরূপ বাহু নির্ণয় কর।
+খ. △ABC ও △ACD সদৃশ হলে x এর মান নির্ণয় কর।
+গ. প্রমাণ কর যে, ত্রিভুজত্রয় সদৃশ।
+
+
+Correct Answer: 
+
+Solution:
+কAB বাহুর অনুরূপ বাহু হচ্ছে AD বাহু এবং AC বাহুর অনুরূপ বাহু হচ্ছে CD বাহু।
+খ[math]\triangle \mathrm{ABC}[/math] ও [math]\triangle \mathrm{ACD}[/math] সদৃশ হলে,[math]\frac{\mathrm{AB}}{\mathrm{AD}}=\frac{\mathrm{BC}}{\mathrm{AC}}[/math]বा, [math]\frac{4}{5}=\frac{x}{3}[/math]বা, [math]5 x=12[/math]বা, [math]x=\frac{12}{5}[/math]বা, [math]x=2.4[/math]অতএব, x এর মান 2.4 একক
+গ[Image]বিশেষ নির্বচন: দেওয়া আছে, চিত্রে ∆ABD এ AB = 4cm, AD =5cm. এবং BD = (x + 4) cm. AB&perp; AD, &ang;BAD = 90&deg;. প্রমাণকরতে হবে যে, ∆ABD, ∆ABC এবং ∆ACD পরস্পর সদৃশ।প্রমাণ:ধাপ                     যথার্থতা১. ∆ABD ও ∆ABC-এ&ang;BAD = &ang;ACB          [সমকোণ]এবং &ang;ABC = &ang;ABD[math]\therefore[/math]ত্রিভুজদ্বয় সদৃশ২. আবার, ∆ACD ও ∆ABD-এ&ang;ACD = &ang;BAD        [সমকোণ]এবং &ang;ADC = &ang;ADB    [সাধারণ কোণ][math]\therefore[/math]ত্রিভুজদ্বয় সদৃশ৩. ∆ABC এবং ∆ACD সদৃশ  [প্রত্যেকেই ∆ABD এর সদৃশ][math]\therefore[/math]ত্রিভুজত্রয় পরস্পর সদৃশ। (প্রমাণিত)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 799944)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ কর :
+
+[Image]
+
+Options:
+ক. চিত্রটি আঁক ও অনুরূপ কোণগুলো চিহ্নিত কর।
+খ. চতুর্ভুজ দুইটির অনুরূপ বাহুগুলোর অনুপাত বের কর।
+গ. চতুর্ভুজ দুইটি কি সদৃশ?
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত তথ্যের আলোকে চিত্রটি আঁকা হলো:[Image]
+খAPTX ও FBKG চতুর্ভুজ দুইটির অনুরূপ বাহুগুলোর অনুপাত[math]\begin{aligned} &amp; \mathrm{AP}: \mathrm{FB}=10: 5=2: 1 \\ &amp; \mathrm{PT}: \mathrm{BK}=6: 3=2: 1 \\ &amp; \mathrm{TX}: \mathrm{KG}=2: 1 \\ &amp; \mathrm{XA}: \mathrm{GF}=8: 4=2: 1\end{aligned}[/math]
+গ'ক' অংশ হতে পাই, APTX ও FBKG চতুর্ভুজের অনুরূপ কোণগুলো সমান এবং অনুরূপ বাহুগুলোর অনুপাত সমান।অর্থাৎ, AP : FB = PT : BK = TX : KG = XA : GF = 2 : 1যেহেতু, চতুর্ভুজ APTX ও FBKG এর অনুরূপ কোণগুলো সমানএবং অনুরূপ বাহুগুলো সমানুপাতিক। সুতরাং চতুর্ভুজ দুইটি সদৃশ।
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 799983)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+△ABC-এ CD, AB-এর লম্ব সমদ্বিখন্ডক।
+
+Options:
+ক. প্রদত্ত তথ্যের আলোকে চিত্র অঙ্কন কর।
+খ. প্রমাণ কর যে, △ADC&nbsp;[math]\cong[/math]&nbsp;∆BDC.
+গ. CD কে E পর্যন্ত বর্ধিত কর যেন CD = DE হয়। B ও E যোগ কর। প্রমাণ কর যে, ∆ADC&nbsp;[math]\cong[/math]&nbsp;∆BDE.
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত তথ্যের আলোকে চিত্রটি অঙ্কন করা হলো:[Image]△ ABC-এ CD, AB এর লম্ব সমদ্বিখণ্ডক।
+খপ্রমাণ করতে হবে যে, △ ADC[math]\cong[/math]△ BDC.প্রমাণ:ধাপ                        যথার্থতা১.∆ADC ও ∆BDC-এAD = BD                   [D, AB এর মধ্যবিন্দু]CD = CD                        [সাধারণ বাহু]এবং অন্তর্ভুক্ত &ang;ADC = অন্তর্ভুক্ত &ang;BDC       [সমকোণ][math]\therefore[/math] ∆ADC​​​​​​​[math]\cong[/math] ∆BDC [প্রমাণিত]    [বাহু-কোণ-বাহু উপপাদ্য]
+গ[Image]বিশেষ নির্বচন: মনে করি, ∆ABC-এর CD, AB এর লম্বসমদ্বিখণ্ডক। CD কে E পর্যন্ত বর্ধিত করা হলো যেন CD = DE হয়।Bও E যোগ করা হলো। প্রমাণ করতে হবে যেন ∆ADC[math]\cong[/math]∆BDE.প্রমাণ:ধাপ                        যথার্থতা১. ∆ADC ও ∆BDE-এAD = BD,             [D, AB এর মধ্যবিন্দু]CD = DE            [দেওয়া আছে]এবং অন্তর্ভুক্ত &ang;ADC = অন্তর্ভুক্ত &ang;BDE   [বিপ্রতীপ কোণ][math]\therefore[/math] ∆ADC = ∆BDE[প্রমাণিত]    [বাহু-কোণ-বাহু উপপাদ্য]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 799902)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+∆ABC এ AB = AC. D, F ও E যথাক্রমে BC, AC ও AB এর মধ্যবিন্দু।
+
+Options:
+ক. উপরের তথ্যের ভিত্তিতে চিত্রটি অঙ্কন কর।
+খ. &ang;ABC = 40&deg; হলে, &ang;ACB এর মান নির্ণয় কর।
+গ. BD = DC এবং BE = CF হলে প্রমাণ কর যে, &ang;EDB = &ang;FDC.
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত তথ্যের আলোকে চিত্রটি অঙ্কন করা হলো:[Image]এখানে, ∆ABC-এ, AB=AC এবং BC, AC ও AB এরমধ্যবিন্দু D, F ও E.
+খউদ্দীপকে দেওয়া আছে,AB = AC[math]\therefore[/math]&ang;ACB = &ang;ABC [ ত্রিভুজের সমান বাহুদ্বয়ের বিপরীত কোণদ্বয় সমান]বা, &ang;ACB = 40&deg; [[math]\because[/math]&ang;ABC = 40&deg;]
+গ[Image]বিশেষ নির্বচন: ABC ত্রিভুজে BC, AC ও AB এর মধ্যবিন্দু D, Fও E । BD = DC এবং BE = CF । F, D ও E, D যোগ করি। প্রমাণকরতে হবে যে, &ang;EDB = &ang;FDC.প্রমাণ:ধাপ :                   যথার্থতা∆EBD ও ∆FDC- এ১. BD = DC          [দেওয়া আছে]২. BE = CF           [দেওয়া আছে]৩. এবং অন্তর্ভুক্ত &ang;ABC = অন্তর্ভুক্ত &ang;ACB [ ত্রিভুজের সমান বাহুদ্বয়ের বিপরীত কোণদ্বয় সমান][math]\therefore[/math]&ang;EBD = &ang;FCD  [math]\therefore[/math]&Delta;&Epsilon;&Beta;D[math]\cong[/math] &Delta;FDC   [বাহু-কোণ-বাহু উপপাদ্য][math]\therefore[/math]&ang;EDB = &ang;FDC. (প্রমাণিত)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 799905)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+∆ABC এর AB ও AC বাহুতে যথাক্রমে D ও E এমন দুইটি বিন্দু যেন BD = CE এবং BE = CD.
+
+Options:
+ক. উপর্যুক্ত তথ্যের ভিত্তিতে বিবরণসহ ত্রিভুজটির একটি চিত্র আঁক।
+খ. প্রমাণ কর যে, &ang;ABC = &ang;ACB.
+গ. BE ও CD পরস্পরকে&nbsp;O বিন্দুতে ছেদ করলে প্রমাণ কর যে, OD = OE এবং OB = OC.
+
+
+Correct Answer: 
+
+Solution:
+ক[Image]চিত্রে, ABC একটি ত্রিভুজ। △ ABC এর AB ও AC বাহুতেযথাক্রমে D ও E এমন দুইটি বিন্দু যেন BD = CE এবং BE = CD.
+খপ্রমাণ করতে হবে যে, &ang;ABC = &ang;ACB.প্রমাণ:ধাপ                     যথার্থতা১. △BCD ও △BCE-এBD = CE,      [দেওয়া আছে]CD = BE       [দেওয়া আছে]এবং BC = BC    [সাধারণ বাহু][math]\therefore[/math] △BCD[math]\cong[/math] △BCE   [বাহু-বাহু-বাহু উপপাদ্য][math]\therefore[/math]&ang;DBC = &ang;ECB[math]\therefore[/math]&ang;ABC = &ang;ACB [প্রমাণিত]
+গ[Image]বিশেষ নির্বচন: মনে করি, △ABC এর AB ও AC বাহুতেযথাক্রমে D ও E এমন দুইটি বিন্দু যেন BD = CE এবং BE =CD. BE ও CD পরস্পরকে O বিন্দুতে ছেদ করেছে। প্রমাণকরতে হবে যে, OD = OE এবং OB = OC.প্রমাণ:    ধাপ                          যথার্থতা১. 'খ' থেকে পাই, △ BDC[math]\cong[/math] △ BЕС[math]\therefore[/math]&ang;BDC = &ang;BEC.২. △ BOD ও△ COE এ&ang;BDC = &ang;BEC            [(১) হতে]&ang;BOD = &ang;COE       [বিপ্রতীপ কোণ]এবং BD = CE        [দেওয়া আছে][math]\therefore[/math]△ BOD​​​​​​​[math]\cong[/math] △ COE    [কোণ-কোণ-বাহু উপপাদ্য][math]\therefore[/math]OD = OE এবং OB = OC. [প্রমাণিত]
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 173678)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: 
+সর্বসমতা ও সদৃশতা একটি গুরুত্বপূর্ণ জ্যামিতিক ধারণা। এটি আমাদের চারপাশের বিভিন্ন বস্তু এবং তাদের সম্পর্ক বোঝাতে সাহায্য করে।
+
+Options:
+ক. (জ্ঞানমূলক): সর্বসমতা ও সদৃশতার মধ্যে পার্থক্য কী?
+খ. (অনুধাবন): সদৃশতার উদাহরণ দাও এবং তা বিশ্লেষণ করো?
+গ. (বিশ্লেষণ/প্রয়োগ): সর্বসমতা প্রমাণের জন্য কী তথ্য প্রয়োজন তা আলোচনা করো।
+ঘ. (মূল্যায়ন/সৃজন): সদৃশ আকার ও আকৃতি বিশ্লেষণ করে নতুন ধারণা তৈরি করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ক সমাধান: সর্বসমতা (congruence) হলে আকৃতি ও পরিমাপ পুরোপুরি মিলে যায় এবং কেবল অনুদলন, ঘূর্ণন বা প্রতিফলন দ্বারা একটিকে আরেকটিতে আনায়; সদৃশতা (similarity) হলে কেবল আকৃতি মেলে কিন্তু আকার ভিন্ন হতে পারে, মানে সংশ্লিষ্ট কোণ সমান এবং বাহুর অনুপাত স্থায়ী থাকে।  
+
+খ উদাহরণ ও বিশ্লেষণ: একটি ত্রিভুজের বাহুর দৈর্ঘ্য [math]3,4,5[/math] এবং অন্যটির [math]6,8,10[/math] হলে এগুলো সদৃশ কারণ প্রতিটি বাহুর অনুপাত সমান (স্কেল ফ্যাক্টর [math]2[/math]) এবং সংশ্লিষ্ট কোণগুলো সমান, তাই আকৃতি একই কিন্তু আকার দ্বিগুণ।  
+
+গ আলোচ্য: সর্বসমতা প্রমাণ করতে সংশ্লিষ্ট অংশগুলোর সমতা দেখাতে হয়—ত্রিভুজের ক্ষেত্রে সাধারণত SSS, SAS, ASA, AAS বা RHS যেকোন একটি সমতাবিধান পূরণ করতে হবে, অর্থাৎ নির্দিষ্ট সংশ্লিষ্ট বাহু ও/অথবা কোণগুলো সমান আছে কিনা দেখাতে হবে।  
+
+ঘ নতুন ধারণা: সদৃশ আকার ব্যবহার করে স্কেল মডেল বা প্যাটার্ন তৈরি করা যায় — উদাহরণস্বরূপ একটি ভবনের মডেল তৈরিতে সংশ্লিষ্ট দৈর্ঘ্যের অনুপাত ধরে প্রতিটি অংশকে স্কেল করলে বাস্তব বিন্যাস রক্ষা করা যায়; এছাড়া বিভিন্ন স্কেলে সদৃশ আকৃতি মিলিয়ে পুনরাবৃত্তি করে সজ্জা বা টাইলিং ডিজাইন করা যায়।
+
+Sub-Questions:
+

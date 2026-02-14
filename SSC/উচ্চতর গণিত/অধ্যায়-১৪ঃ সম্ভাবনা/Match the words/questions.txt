@@ -1,0 +1,57 @@
+================================================================================
+Question #1 (ID: 123145)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In which scenarios do probabilities equal zero?
+
+Options:
+a. When an event is certain to happen.
+b. When an event is impossible.
+c. When the event is random.
+d. When the expected outcome is uncertain.
+
+
+Correct Answer: খ
+
+Solution:
+Solution:
+Step 1: By definition a probability equals zero when the event cannot occur; mathematically the probability of the empty (impossible) event is [math]P(\varnothing)=0[/math].  
+Step 2: A certain event has probability one, [math]P(S)=1[/math], so b is not a; option a is incorrect.  
+Step 3: A random or uncertain outcome (options c and d) means outcomes are not predetermined but their probabilities need not be zero — they can be any value in [math][0,1][/math] depending on the situation.  
+Therefore the correct choice is option b: when an event is impossible.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 123146)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What type of probability refers to the likelihood of an event occurring based on historical data?
+
+Options:
+a. Theoretical probability
+b. Empirical probability
+c. Subjective probability
+d. Experimental probability
+
+
+Correct Answer: খ
+
+Solution:
+Solution: Empirical probability refers to the likelihood of an event estimated from past or observed data. It is calculated as the relative frequency:
+[math]P(E)=\frac{\text{number of times }E\text{ occurred in historical data}}{\text{total number of observed cases}}.[math] 
+Therefore the correct choice is (b) Empirical probability. 
+Explanation of other options: theoretical probability is computed from known models or symmetry (not from historical data), subjective probability is based on personal belief, and experimental probability (often similar to empirical) usually refers to probabilities found from performing experiments rather than analyzing existing historical records.
+
+Explanation:
+
+
+Sub-Questions:
+

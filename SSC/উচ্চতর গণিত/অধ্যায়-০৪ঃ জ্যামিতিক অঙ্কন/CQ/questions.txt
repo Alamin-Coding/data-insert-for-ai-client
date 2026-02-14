@@ -1,0 +1,869 @@
+================================================================================
+Question #1 (ID: 704919)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{PQR}[/math] ত্রিভুজের [math]\mathrm{PQ}=6[/math] সে.মি., [math]\mathrm{QR}=8[/math] সে.মি. এবং [math]\mathrm{PR}=4.5[/math] সে.মি.। [math]\mathrm{S, QR}[/math] এর মধ্যবিন্দু।
+
+Options:
+ক. উপরোক্ত তথ্যের আলোকে ত্রিভুজটি আঁক ।
+খ. জ্যামিতিক পদ্বতিতে প্রমাণ কর যে, [math]\mathrm{PQ}^{2}+\mathrm{PR}^{2}=2\left(\mathrm{PS}^{2}+\mathrm{QS}^{2}\right)[/math]
+গ. যদি কোনো ত্রিভুজের ভূমি [math]\mathrm{QR}[/math] এর অর্ধেকের সমান, শিরঃকোণ উদ্দীপকে উল্লেখিত ত্রিভুজের [math]\angle R[/math] এর সমান হয়, তবে ত্রিভুজটি আঁক। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+চিত্রে, PQR ত্রিভুজের PQ = 6 সে.মি. QR = 8 সে.মি. এবং PR = 4.5 সে.মি. S, QR এর মধ্যবিন্দু। [math]\\[/math]
+ খ
+[Image]
+[math]\triangle P Q R[/math]
+ এর S বিন্দুটি QR এর মধ্যবিন্দু হওয়ায়, PS একটি মধ্যমা। প্রমাণ করতে হবে যে, [math]\mathrm{PQ}^{2}+\mathrm{PR}^{2}=2\left(\mathrm{PS}^{2}+\mathrm{QS}^{2}\right)[/math]
+অঙ্কন: QR বাহুর ওপর (চিত্র ১নং) এবং QR বাহুর বর্ধিতাংশের ওপর (চিত্র-২নং) PE লম্ব অঙ্কন করি।প্রমাণ: [math]\triangle \mathrm{PQS}[/math]
+ এর [math]\angle P S Q[/math]
+ স্থূলকোণ এবং QS রেখার বর্ধিতাংশের উপর PS রেখার লম্ব-অভিক্ষেপ SE [উভয় চিত্রে][math]\therefore[/math]
+ স্থূলকোণের ক্ষেত্রে পীথাগোরাসের উপপাদ্যের বিস্তৃতি অনুসারে, আমরা পাই, [math]\mathrm{PQ}^{2}=\mathrm{PS}^{2}+\mathrm{QS}^{2}+2 \mathrm{QS} . \mathrm{SE} \ldots \ldots . \text { (i) }[/math]
+আবার, [math]\triangle P R S[/math]
+ এর [math]\angle P S R[/math]
+ সূক্ষ্মকোণ এবং SR রেখার (চিত্র-১নং) এবং SR রেখার বর্ধিতাংশের (চিত্র-২নং) উপর PS রেখার লম্ব অভিক্ষেপ SE.[math]\therefore[/math]
+ সূক্ষ্মকোণের ক্ষেত্রে পীথাগোরাসের উপপাদ্যের বিস্তৃতি অনুসারে পাই, [math]\mathrm{PR}^{2}=\mathrm{PS}^{2}+\mathrm{RS}^{2}-2 \mathrm{RS} . \mathrm{SE}[/math]
+(i) ও (ii) নং সমীকরণ যোগ করে পাই,[math]\mathrm{PQ}^{2}+\mathrm{PR}^{2}=2 \mathrm{PS}^{2}+\mathrm{QS}^{2}+\mathrm{RS}^{2}+2 \mathrm{QS} . \mathrm{SE}-2 \mathrm{RS} . \mathrm{SE}[/math]
+ [math]=2 \mathrm{PS}+\mathrm{QS}^{2}+\mathrm{QS}^{2}+2 \mathrm{QS} . \mathrm{SE}-2 \mathrm{QS} . \mathrm{SE}[/math]
+ [math][\because \mathrm{QS}=\mathrm{RS}][/math]
+ [math]=2\left(\mathrm{PS}^{2}+\mathrm{QS}^{2}\right)[/math]
+ [math]\therefore \quad \mathrm{PQ}^{2}+\mathrm{PR}^{2}=2\left(\mathrm{PS}^{2}+\mathrm{QS}^{2}\right)[/math]
+ (প্ৰমাণিত) [math]\\[/math]
+ গধরি, ভূমি, [math]a=\frac{Q R}{2}=\frac{8}{2}=4[/math]
+ সে.মি.অপর দুই বাহুর সমষ্টি, S = QR = 8 সে.মি. এবং শিরঃকোণ, [math]\angle \mathrm{x}=\angle \mathrm{R}[/math]
+অর্ধপরিসীমা, [math]S=\frac{P Q+Q R+P R}{2}[/math]
+ [math]=\frac{6+8+4.5}{2}=9.25[/math]
+ সে.মি.[math]\therefore \triangle \mathrm{PQR}[/math]
+ এর ক্ষেত্রফল [math]=\sqrt{S(S-P Q)(S-Q R)(S-P R)}[/math]
+ বর্গ একক[math]\begin{array}{l}=\sqrt{9.25(9.25-6)(9.25-8)(9.25-4.5)} \\=\sqrt{178.5}\end{array}[/math]
+ [math]=13.36[/math]
+ বর্গ সে.মি.মনে করি, [math]\triangle \mathrm{PQR}[/math]
+ এর [math]\angle \mathrm{R}=\theta[/math]
+ [math]\triangle \mathrm{PQR}[/math]
+ এর ক্ষেত্রফল [math]=\frac{1}{2} \times \mathrm{PR} \times \mathrm{QR} \times \sin \theta[/math]
+ [math]\begin{array}{l}\Rightarrow 13.36=\frac{1}{2} \times 4.5 \times 8 \times \sin \theta \\\Rightarrow \sin \theta=0.7422 \\\Rightarrow \theta=47.92^{\circ}\end{array}[/math]
+ [math]\therefore \quad \angle R=48^{\circ}[/math]
+
+[Image]
+অঙ্কনের ধাপসমূহ:ধাপ-১: যেকোন রশ্মি DE থেকে DB = 8 সে. মি. কেটে নিই।ধাপ-২: DB রেখার D বিন্দুতে [math]\angle \mathrm{BDF}=\frac{1}{2} \angle \mathrm{x}[/math]
+ অঙ্কন করি।ধাপ-৩: B কে কেন্দ্র করে ভূমি a এর সমান ব্যাসার্ধ নিয়ে একটি বৃত্তচাপ অঙ্কন করি যা DF কে C ও C' বিন্দুতে ছেদ করে। B, C ও B, C' যোগ করি।ধাপ-৪: C ও C' বিন্দুতে [math]\angle \mathrm{BDF}[/math]
+ এর সমান করে যথাক্রমে [math]\angle D C A[/math]
+ ও [math]\angle \mathrm{DC}^{\prime} \mathrm{A}^{\prime}[/math]
+ অঙ্কন করি। CA ও [math]C^{\prime} \mathrm{A}^{\prime}[/math]
+ রেখা দুইটি BD কে যথাক্রমে A ও A' বিন্দুতে ছেদ করে। তাহলে ABC ও [math]\mathrm{A}^{\prime} \mathrm{BC}^{\prime}[/math]
+ ত্রিভুজদ্বয় উদ্দিষ্ট ত্রিভুজ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 704920)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]3[/math] সে.মি ব্যাসার্ধবিশিষ্ট বৃত্তে [math]\text {A B C D}[/math] অন্তর্লিখিত চতুর্ভুজের কর্ণদ্বয় [math]\mathrm{AC}[/math] ও [math]\mathrm{BD}.[/math]
+
+Options:
+ক. বৃত্তটির পরিধি নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm{AC}.\mathrm{BD}=\mathrm{AB}.\mathrm{CD}+\mathrm{BC}.\mathrm{AD}.[/math]
+গ. এমন একটি ত্রিভুজ অঙ্কন করতে হবে, যার ভূমি বৃত্তের ব্যাসের সমান, অপর বাহুদ্বয়ের অন্তর বৃত্তের ব্যাসার্ধের সমান এবং শিরকোণ [math]30^{\circ}.[/math] [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, বৃত্তটির ব্যাসার্ধ, r = 3 সে.মি.[math]\therefore[/math]
+ বৃত্তটির পরিধি [math]=2 \pi r[/math]
+ একক[math]=2 \times 3.1416 \times 3[/math]
+ সে.মি.[math]= 18.85[/math]
+ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপাঠ্যবইয়ের অনুশীলনী-৩.২ এর উপপাদ্য-১২ দ্রষ্টব্য। পৃষ্ঠা-৭৬ [math]\\[/math]
+ গপাঠ্যবইয়ের অধ্যায় -৪ এর সম্পাদ্য-৩ অনুরূপ। পৃষ্ঠা-৮৪
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 704917)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+একটি সমকোণী ত্রিভুজের অতিভুজ [math]a=5[/math] সে.মি. এবং অপর বাহুদ্বয়ের অন্তর [math]d=1[/math] সে.মি.।
+
+Options:
+ক. ত্রিভুজটির অপর বাহুদ্বয়ের দৈর্ঘ্য কত?
+খ. অঙ্কনের চিহ্ন ও বিবরণসহ ত্রিভুজটি অঙ্কন কর।
+গ. অতিভুজের সমান ব্যাসবিশিষ্ট একটি বৃত্ত অঙ্কন কর যা দুইটি নির্দিষ্ট বিন্দু দিয়ে যায় (অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক)
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, সমকোণী ত্রিভুজের অতিভুজ = 5 সে.মি.ধরি, লম্ব = x সে.মি.[math]\therefore[/math]
+ ভূমি = (x – 1) সে.মি.পীথাগোরাসের উপপাদ্য অনুসারে,[math]5^{2}=x^{2}+(x-1)^{2}[/math]
+ [math]\begin{array}{l}\Rightarrow 25=x^{2}+x^{2}-2 x+1\\\Rightarrow 2 x^{2}-2 x-24=0\\\Rightarrow x^{2}-\mathrm{x}-12=0\\\Rightarrow x^{2}-4 \mathrm{x}+3 \mathrm{x}-12=0\\\Rightarrow x(x-4)+3(x-4)=0\\\Rightarrow (x+3)(x-4)=0\end{array}[/math]
+ [math]\therefore x=-3,4[/math]
+যেহেতু দৈর্ঘ্য ঋণাত্মক হতে পারে না,[math]\therefore[/math]
+ লম্ব = 4 সে.মি. এবং ভূমি = 4 – 1 = 3 সে.মি. [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+বিশেষ নির্বচন: মনে করি, একটি সমকোণী ত্রিভুজের অতিভুজ a = 5 সে.মি. ও অপর দুই বাহুর অন্তর d = 1 সে.মি. দেওয়া আছে। ত্রিভুজটি আঁকতে হবে।অঙ্কনের বিবরণ:ধাপ ১: যেকোনো রশ্মি EF এর E বিন্দুতে [math]\angle \mathrm{FEN}=45^{\circ}[/math]
+ আঁকিধাপ ২: এবার NE কে EB পর্যন্ত এমনভাবে বর্ধিত করি যেন EB = d-হয়।ধাপ ৩: অতঃপর B বিন্দুকে কেন্দ্র করে a-এর সমান ব্যাসার্ধ নিয়ে একটি বৃত্তচাপ আঁকি যা EF-কে C বিন্দুতে ছেদ করে।ধাপ ৪: পরিশেষে, C বিন্দুতে EC এর সাথে [math]\angle \mathrm{ECA}=\angle \mathrm{CEN}[/math]
+ আঁকি যেন CA রেখা EN কে A বিন্দুতে ছেদ করে।তাহলে, [math]\triangle \mathrm{ABC}[/math]
+-ই উদ্দিষ্ট ত্রিভুজ হবে। [math]\\[/math]
+ গপাঠ্যবইয়ের অধ্যায়-৪ এর সম্পাদ্য-৬ অনুরূপ। পৃষ্ঠা-৮৯
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 704916)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{ABC}[/math] ত্রিভুজের উচ্চতা [math]\mathrm{h},[/math] ভূমির উপর মধ্যমা [math]\mathrm{d}[/math] এবং ভূমি সংলগ্ন একটি কোণ [math]\mathrm {\angle x}[/math]।
+
+Options:
+ক. উদ্দীপকের তথ্যগুলো চিত্রের মাধ্যমে প্রকাশ কর।
+খ. অঙ্কনের বিবরণসহ ত্রিভুজটি অঙ্কন কর।
+গ. [math]\triangle \mathrm{ABC}[/math] এর মধ্যমাত্রয় যথাক্রমে [math]\mathrm{AE}, \mathrm{BF}[/math] ও [math]\mathrm{CD}[/math] পরস্পর [math]\mathrm{O}[/math] বিন্দুতে ছেদ করলে প্রমাণ কর যে, [math]\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}= 3\left(\mathrm{AO}^{2}+\mathrm{BO}^{2}+\mathrm{CO}^{2}\right).[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+চিত্রে ABC ত্রিভুজের উচ্চতা h, ভূমির উপর মধ্যমা d এবং ভূমি সংলগ্ন একটি [math]\angle x[/math]
+ আঁকা হলো। [math]\\[/math]
+ খপাঠ্যবইয়ের অধ্যায়-৪ এর সম্পাদ্য-৪ দ্রষ্টব্য। পৃষ্ঠা-৮৫ [math]\\[/math]
+ গ
+[Image]
+বিশেষ নির্বচন: মনে করি, [math]\triangle A B C[/math]
+ এর মধ্যমাত্রয় যথাক্রমে AE, BF ও CD পরস্পর O বিন্দুতে মিলিত হয়েছে ।প্রমাণ করতে হবে যে, [math]\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}=3\left(\mathrm{AO}^{2}+\mathrm{BO}^{2}+\mathrm{CO}^{2}\right)[/math]
+প্রমাণ: [math]\triangle \mathrm{ABC}[/math]
+ এর AE, BF ও CD তিনটি মধ্যমা।[math]\therefore[/math]
+ এ্যাপোলোনিয়াসের উপপাদ্য অনুসারে[math]\mathrm{AB}^{2}+\mathrm{CA}^{2}=2\left(\mathrm{AE}^{2}+\mathrm{BE}^{2}\right).......\text { (i) }[/math]
+ [math]\mathrm{AB}^{2}+\mathrm{BC}^{2}=2\left(\mathrm{BF}^{2}+\mathrm{CF}^{2}\right)........\text { (ii) }[/math]
+এবং [math]B C^{2}+C A^{2}=2\left(C D^{2}+B D^{2}\right)[/math]
+এখন, সমীকরণ (i), (ii) ও (iii) যোগ করে পাই,[math]2 \mathrm{AB}^{2}+2 \mathrm{BC}^{2}+2 \mathrm{CA}^{2}=2 \mathrm{AE}^{2}+2 \mathrm{BE}^{2}+2 \mathrm{BF}^{2}+2 \mathrm{CF}^{2}+2 \mathrm{CD}^{2}+2 \mathrm{BD}^{2}[/math]
+ [math]\Rightarrow 2\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}\right)=2\left(\mathrm{AE}^{2}+\mathrm{BF}^{2}+\mathrm{CD}^{2}\right)+2\left(\mathrm{BE}^{2}+\mathrm{CF}^{2}+\right.\left(\mathrm{BD}^{2}\right)[/math]
+ [math]\Rightarrow 4\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}\right)=4\left(\mathrm{AE}^{2}+\mathrm{BF}^{2}+\mathrm{CD}^{2}\right)+4\left(\mathrm{BE}^{2}\right.+\mathrm{CF}^{2}+\mathrm{BD}^{2} \text { ) }[/math]
+ [উভয় পক্ষকে 2 দ্বারা গুণ করে ][math]\Rightarrow 4\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}\right)=4\left(\mathrm{AE}^{2}+\mathrm{BF}^{2}+\mathrm{CD}^{2}\right)+(2 \mathrm{BE})^{2}+(2 C F)^{2}+(2 \mathrm{BD})^{2}[/math]
+ [math]\Rightarrow 4\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}\right)=4\left(\mathrm{AE}^{2}+\mathrm{BF}^{2}+\mathrm{CD}^{2}\right)+\mathrm{BC}^{2}+\mathrm{CA}^{2}+\mathrm{AB}^{2}[/math]
+ [E, F, D যথাক্রমে BC, CA.ও AB বাহুর মধ্য বিন্দু বলে, 2BE = BC, 2CF = CA, 2BD = AB][math]\Rightarrow 3\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}\right)=4\left(\mathrm{AE}^{2}+\mathrm{BF}^{2}+\mathrm{CD}^{2}\right)[/math]
+ [math]\therefore \quad 3\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+C A^{2}\right)=4 \mathrm{AE}^{2}+4 \mathrm{BF}^{2}+4 \mathrm{CD}^{2} \ldots \ldots \text { (iv) }[/math]
+আমরা জানি, ত্রিভুজের মধ্যমাগুলো সমপাত বিন্দুতে 2 : 1 অনুপাতে বিভক্ত হয়।[math]\therefore \quad \frac{\mathrm{AO}}{\mathrm{OE}}=\frac{2}{1}[/math]
+ [math]\Rightarrow \frac{\mathrm{OE}}{\mathrm{AO}}=\frac{1}{2}[/math]
+ [math]\Rightarrow \frac{\mathrm{OE}+\mathrm{AO}}{\mathrm{AO}}=\frac{1+2}{2}[/math]
+ [যোজন করে][math]\Rightarrow \frac{\mathrm{AE}}{\mathrm{AO}}=\frac{3}{2}[/math]
+ [math]\Rightarrow 2 \mathrm{AE}=3 \mathrm{AO}[/math]
+ [math]\therefore \quad 4 \mathrm{AE}^{2}=9 \mathrm{AO}^{2}[/math]
+ [ বর্গ করে ]অনুরূপে [math]4 \mathrm{BF}^{2}=9 \mathrm{BO}^{2}[/math]
+ এবং [math]4 \mathrm{CD}^{2}=9 \mathrm{CO}^{2}[/math]
+সুতরাং (iv) নং সমীকরণ থেকে পাই,[math]3\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}\right)=9 \mathrm{AO}^{2}+9 \mathrm{BO}^{2}+9 \mathrm{CO}^{2}[/math]
+ [math]\Rightarrow 3\left(\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}\right)=9\left(\mathrm{AO}^{2}+\mathrm{BO}^{2}+\mathrm{CO}^{2}\right)[/math]
+ [math]\therefore \quad \mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}=3\left(\mathrm{AO}^{2}+\mathrm{BO}^{2}+\mathrm{CO}^{2}\right)[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 704914)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\triangle \mathrm{ABC}[/math] এর [math]\mathrm{BC}[/math] এর মধ্যবিন্দু [math]\mathrm {E, A D=4}[/math] সে.মি. এবং [math]\mathrm{BC}=6[/math] সে.মি.।
+
+Options:
+ক. [math]\mathrm{AC}[/math] বাহুর দৈর্ঘ্য নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm {AC^2+AB^2=2\left(AE^2+CE^2\right)}.[/math]
+গ. এমন একটি ত্রিভুজ অঙ্কন কর, যার ভূমি [math]\mathrm{BC}[/math] ও শিরঃকোণ [math]\angle C[/math] এর সমান এবং অপর দুই বাহুর অন্তর [math]2[/math] সে.মি.। (অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক)
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\triangle \mathrm{ADC}[/math]
+ এ [math]\angle A D C=1[/math]
+ সমকোণ [math]=90^{\circ}[/math]
+ [math]\angle \mathrm{ACD}=60^{\circ}[/math]
+ এবং [math]\mathrm{AD}=4[/math]
+ সে.মি.[math]\therefore \quad \sin \angle A C D=\frac{A D}{A C}[/math]
+ [math]\Rightarrow \sin 60^{\circ}=\frac{4}{A C}[/math]
+ [math]\Rightarrow \frac{\sqrt{3}}{2}=\frac{4}{A C} \Rightarrow A C=\frac{8}{\sqrt{3}}[/math]
+ [math]\therefore \quad \mathrm{AC}=4.62[/math]
+ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+বিশেষ নির্বচন : [math]\triangle \mathrm{ABC}[/math]
+ এর BC বাহুর মধ্যবিন্দু E, এবং[math]A D \perp B C[/math]
+। প্রমাণ করতে হবে যে, [math]\mathrm{AC}^{2}+\mathrm{AB}^{2}=2\left(\mathrm{AE}^{2}+\mathrm{CE}^{2}\right)[/math]
+প্রমাণ : [math]\triangle A B E[/math]
+ এ [math]\angle A E B[/math]
+ স্থূলকোণ।স্থূলকোণের ক্ষেত্রে পীথাগোরাসের উপপাদ্যের বিস্তৃতি অনুসারে,[math]\mathrm{AC}^{2}=\mathrm{AE}^{2}+\mathrm{CE}^{2}-2 \mathrm{CE} \cdot \mathrm{DE}......\text { (i) }[/math]
+আবার, [math]\triangle A C E[/math]
+ এ [math]\angle A E C[/math]
+ সূক্ষ্মকোণ।সূক্ষ্মকোণের ক্ষেত্রে পীথাগোরাসের উপপাদ্যের বিস্তৃতি অনুসারে,[math]\mathrm{AC}^{2}=\mathrm{AE}^{2}+\mathrm{CE}^{2}-2 \mathrm{CE} \cdot \mathrm{DE}......\text { (ii) }[/math]
+(i) ও (ii) নং সমীকরণ যোগ করে পাই,[math]\mathrm{AB}^{2}+\mathrm{AC}^{2}=\mathrm{AE}^{2}+\mathrm{BE}^{2}+2 \mathrm{BE} \cdot \mathrm{DE}+\mathrm{AE}^{2}+\mathrm{CE}^{2}-2 C E \cdot D E[/math]
+ [math]=2 \mathrm{AE}^{2}+\mathrm{CE}^{2}+2 \mathrm{CE} \cdot \mathrm{DE}+\mathrm{CE}^{2}-2 \mathrm{CE} \cdot \mathrm{DE}[/math]
+ [math]\quad[/math]
+ [math][\because \mathrm{E}, \mathrm{BC}[/math]
+ এর মধ্যবিন্দু সুতরাং [math]\mathrm{BE}=\mathrm{CE}][/math]
+ [math]=2 \mathrm{AE}^{2}+2 \mathrm{CE}^{2}[/math]
+ [math]\therefore \quad A C^{2}+A B^{2}=2\left(A E^{2}+C E^{2}\right)[/math]
+ (প্রমাণিত) [math]\\[/math]
+ গ
+[Image]
+মনে করি, একটি ত্রিভুজের ভূমি a = BC = 6 সে.মি., শিরঃকোণ, [math]\angle \mathrm{x}=\angle \mathrm{C}=60^{\circ}[/math]
+ এবং অপর দুই বাহুর অন্তর d = 2 সে.মি. দেওয়া আছে। ত্রিভুজটি আঁকতে হবে।অঙ্কনের বিবরণ:(১) যেকোনো রশ্মি BD থেকে BP = d = 2 সে.মি. নিই ।(২) P বিন্দুতে [math]\angle x[/math]
+ এর সম্পূরক কোণের অর্ধেকের সমান [math]\angle D P M[/math]
+ অঙ্কন করি ।(৩) B কে কেন্দ্র করে a এর সমান ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তচাপ PM সরলরেখাকে C বিন্দুতে ছেদ করে। B, C যোগ করি।(৪) C বিন্দুতে [math]\angle D P C=\angle P C A[/math]
+ আঁকি যেন CA রেখাংশ BD কে A বিন্দুতে ছেদ করে। তাহলে [math]\triangle \mathrm{ABC}[/math]
+-ই উদ্দিষ্ট ত্রিভুজ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 704910)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{PQR}[/math] এ [math]\text { PE, QF }[/math] ও [math]\text {RG}[/math] মধ্যমা তিনটি [math]\text { M}[/math] বিন্দু দিয়ে অতিক্রম করে।
+
+
+[Image]
+
+
+Options:
+ক. এমন একটি বৃত্ত অঙ্কন কর যা দুইটি নির্দিষ্ট বিন্দু দিয়ে যায় এবং যার কেন্দ্র একটি সরলরেখায় উপর অবস্থিত।
+খ. চিত্র হতে এ্যাপোলোনিয়াসের উপপাদ্যটি প্রমাণ কর।
+গ. যদি [math]\angle \mathrm{PQR}[/math] সমকোণ হয়, তবে প্রমাণ কর যে, [math]2\left(\mathrm{PE}^{2}+\mathrm{QF}^{2}+\mathrm{RG}^{2}\right)=3 \mathrm{PR}^{2}.[/math]
+
+
+Correct Answer: 
+
+Solution:
+কপাঠ্যবইয়ের অনুশীলনী-৪ এর সম্পাদ্য-৫ এর চিত্র দ্রষ্টব্য। পৃষ্ঠা- ৮৯। [math]\\[/math]
+ খপাঠ্যবইয়ের অনুশীলনী-৩.১ এর উপপাদ্য-৫ দ্রষ্টব্য। পৃষ্ঠা- ৬৮ [math]\\[/math]
+ গপাঠ্যবইয়ের অনুশীলনী-৩.১ এর “এ্যাপোলোনিয়াসের উপপাদ্যের মাধ্যমে ত্রিভুজের বাহু ও মধ্যমার সম্পর্ক নির্ণয়” অনুচ্ছেদ দ্রষ্টব্য। পৃষ্ঠা-৬৯
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 704909)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\triangle \mathrm{PQR}[/math] এর পরিকেন্দ্র [math]\text { S, }[/math] লম্ববিন্দু [math]\text { M }[/math] এবং [math]\text { PD }[/math] একটি মধ্যমা
+
+Options:
+ক. এমন একটি বৃত্ত অঙ্কন কর যা [math]\text { PQR }[/math] বৃত্তকে [math]\text { R }[/math] বিন্দুতে স্পর্শ করে এবং বৃত্তটির বহিঃস্থ কোনো নির্দিষ্ট বিন্দু দিয়ে যায়।
+খ. প্রমাণ কর যে, [math]\mathrm{G}, \triangle \mathrm{PQR}[/math] এর ভরকেন্দ্র।
+গ. [math]\triangle \mathrm{PQR}[/math] এর অপর মধ্যমাদ্বয় [math]\text { QE }[/math] এবং [math]\text { RF }[/math] হলে, প্রমাণ কর যে, [math]3\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)=4\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right).[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+নির্দিষ্ট বৃত্তের কেন্দ্র S, R ঐ বৃত্তের উপরস্থ একটি নির্দিষ্ট বিন্দু এবং X ঐ বৃত্তের বহিঃস্থ একটি বিন্দু। O কেন্দ্রবিশিষ্ট RXY বৃত্তটি নির্ণেয় বৃত্ত যা নির্দিষ্ট বৃত্তকে R বিন্দুতে স্পর্শ করে এবং X বিন্দু দিয়ে যায়। [math]\\[/math]
+ খপাঠ্যবইয়ের অনুশীলনী-৩.২ এর উপপাদ্য-১০ এর অনুরূপ। পৃষ্ঠা-৭৪ [math]\\[/math]
+ গ
+[Image]
+বিশেষ নির্বচন: মনে করি, [math]\triangle \mathrm{PQR}[/math]
+ এর মধ্যমাত্রয় যথাক্রমে PD, QE ও RF পরস্পর G বিন্দুতে মিলিত হয়েছে।প্রমাণ করতে হবে যে,[math]3\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)=4\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right).[/math]
+প্রমাণ: [math]\triangle \mathrm{PQR}[/math]
+ এর PD, QE ও RF তিনটি মধ্যমা।[math]\therefore[/math]
+ এ্যাপোলোনিয়াসের উপপাদ্য অনুসারে[math]\mathrm{PQ}^{2}+\mathrm{PR}^{2}=2\left(\mathrm{PD}^{2}+\mathrm{QD}^{2}\right).......\text { (i) }[/math]
+ [math]\mathrm{PQ}^{2}+\mathrm{QR}^{2}=2\left(\mathrm{QE}^{2}+\mathrm{RE}^{2}\right).........\text { (ii) }[/math]
+এবং [math]\mathrm{QR}^{2}+\mathrm{PR}^{2}=2\left(\mathrm{RF}^{2}+\mathrm{QF}^{2}\right).......\text { (iii) }[/math]
+এখন, সমীকরণ (i), (ii) ও (iii) যোগ করে পাই,[math]2 \mathrm{PQ}^{2}+2 \mathrm{QR}^{2}+2 \mathrm{PR}^{2}=2 \mathrm{PD}^{2}+2 \mathrm{QD}^{2}+2 \mathrm{QE}^{2}+2 \mathrm{RE}^{2}+2 \mathrm{RF}^{2}+2 \mathrm{QF}^{2}[/math]
+ [math]\Rightarrow 2\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)=2\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right)+2\left(\mathrm{QD}^{2}\right.\left.+\mathrm{RE}^{2}+\mathrm{QF}^{2}\right)[/math]
+ [math]\Rightarrow 4\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)=4\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right)+4\left(\mathrm{QD}^{2}\right.\left.+\mathrm{RE}^{2}+\mathrm{QF}^{2}\right)[/math]
+ [ উভয় পক্ষকে ২ দ্বারা গুণ করে ][math]\Rightarrow 4\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)=4\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right)+(2 Q D)^{2}+(2 R E)^{2}+(2 Q F)^{2}[/math]
+ [math]\Rightarrow 4\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)=4\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right)+\mathrm{QR}^{2}+\mathrm{PR}^{2}+\mathrm{PQ}^{2}[/math]
+ [math][[/math]
+D, E, F যথাক্রমে QR, PR ও PQ বাহুর মধ্যবিন্দু বলে [math]2 Q D=Q R, 2 R E=P R, 2 Q F=P Q][/math]
+ [math]\Rightarrow 4\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)-\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)[/math]
+ [math]=4\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right)[/math]
+ [math]\therefore \quad 3\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}+\mathrm{PR}^{2}\right)=4\left(\mathrm{PD}^{2}+\mathrm{QE}^{2}+\mathrm{RF}^{2}\right)[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 704902)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Bogura Govt Girls High School And College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]P, Q, R[/math] যথাক্রমে [math]AB, AD, BD[/math] বাহুর মধ্যবিন্দু।
+
+Options:
+ক. [math]3[/math] সে.মি. ব্যাসার্ধ বিশিষ্ট একটি বৃত্ত আঁক যা, [math]P, Q[/math] বিন্দু দিয়ে যাবে।
+খ. উদ্দীপক থেকে প্রমাণ কর যে, [math]AB.CD + AD.BC = AC.BD[/math]
+গ. প্রমাণ কর, [math]3\left(\mathrm{AB}^{2}+\mathrm{AD}^{2}+\mathrm{BD}^{2}\right)=4\left(\mathrm{DP}^{2}+\mathrm{AR}^{2}+\mathrm{BQ}^{2}\right)[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 704898)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+PQRS একটি চতুর্ভুজ এবং PR ও QS দুটি কর্ণ।
+
+[math]\\[/math]
+
+Options:
+ক. 6 সে.মি. 4 সে.মি. ও ও সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে কেন্দ্রত্রয় দ্বারা উৎপন্ন ত্রিভুজের পরিসীমা নির্ণয় কর।
+খ. প্রদত্ত চতুর্ভুজটি বৃত্তে অন্তর্লিখিত হলে প্রমাণ কর যে, [math]PR.QS = PQ.SR + PS.QR[/math]
+গ. ভেক্টর পদ্ধতিতে প্রমাণ কর যে, প্রদত্ত চতুর্ভুজের সন্নিহিত বাহুগুলোর মধ্যবিন্দুর সংযোজক রেখাসমূহ একটি সামান্তরিক উৎপন্ন করে।
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+এখানে, ত্রিভুজটির বাহুর দৈর্ঘ্য যথাক্রমে [math](6+4)[/math]
+ বা [math]10[/math]
+ সে.মি.,[math](4+3[/math]
+) বা [math]7[/math]
+ সে.মি. এবং [math](6+3)[/math]
+ বা [math]9[/math]
+ সে.মি..: ত্রিভুজটির পরিসীমা [math]= (10+7+9)[/math]
+ সে.মি. [math]= 26[/math]
+ সে.মি. [math](Ans.)[/math]
+ [math]\\[/math]
+ খবিশেষ নির্বচন: মনে করি, বৃত্তে অন্তলিখিত PQRS চতুর্ভুজের বিপরীত বাহুগুলো যথাক্রমে PQ ও RS এবং QR ও PS। PR এবং QS চতুর্ভুজটির দুইটি কর্ণ। প্রমাণ করতে হবে যে, PR.QS=PQ.RS+QR. PS.অঙ্কন: ∠QPR কে ∠SPR থেকে ছোট ধরে নিয়ে P বিন্দুতে PS রেখাংশের সাথে ∠QPR-এর সমান করে ∠SPM আঁকি যেন PM রেখা QS কর্ণকে M বিন্দুতে ছেদ করে।প্রমাণ: অঙ্কন অনুসারে ∠QPR = ∠SPM উভয়পক্ষে ∠RPM যোগ করে পাই ∠ZQPR +∠RPM = ∠SPM + ∠RPMঅর্থাৎ, ∠QPM = ∠/RPSএখন ∠APQM ও ∠APRS এর মধ্যে ∠QPM = ∠RPS ∠PQM = ∠PRS [একই বৃত্তাংশস্থিত কোণ সমান বলে] এবং অবশিষ্ট ∠PMQ = অবশিষ্ট ∠PSR [math]\therefore \triangle \mathrm{PQM} \text { ও } \triangle \mathrm{PRS}[/math]
+ সদৃশকোণী।অর্থাৎ, PR. QM = PQRS..............(i)আবার, APQR ও APMS এর মধ্যে ∠QPR = ∠SPM [অঙ্কন অনুসারে]∠PRQ = ∠PSM [একই বৃত্তাংশস্থিত কোণ সমান বলে।এবং অবশিষ্ট ∠PQR = অবশিষ্ট ∠PMS [math]\therefore \triangle \mathrm{PQ} R[/math]
+ [math]\triangle \mathrm{PMS}=[/math]
+ [math]\therefore \frac{\mathrm{PS}}{\mathrm{PR}}=\frac{\mathrm{MS}}{\mathrm{QR}}[/math]
+অর্থাৎ, PR. MS-QR. PS................(ii)এখন সমীকরণ (i) ও (ii) যোগ করে পাই,[math]PR. QM + PR. MS-PQ. RS + QR. PS[/math]
+বা, [math]PR (QM + MS) PQ. RS + QR. PS[/math]
+অর্থাৎ, [math]PR. QS = PQ. RS + QR. PS[/math]
+ [যেহেতু [math]QM + MS = QS][/math]
+ [math]\therefore P R \cdot Q S=P Q \cdot R S+Q R \cdot P S[/math]
+ (প্রমাণিত)[math]\\[/math]
+ গ
+[Image]
+মনে করি, PQRS চতুর্ভুজের বাহুগুলোর মধ্যবিন্দুগুলো যথাক্রমে A, B, C ও D। প্রমাণ করতে হবে যে, ABCD একটি সামান্তরিক।প্রমাণ: ধরি, [math]\overrightarrow{\mathrm{PQ}}=\underline{p}, \overrightarrow{\mathrm{QR}}=\underline{q}, \overrightarrow{\mathrm{RS}}=\underline{r}, \overrightarrow{\mathrm{SP}}=\underline{s}[/math]
+P. R যোগ করা হলো।তাহলে, [math]\overrightarrow{\mathrm{AB}}=\overrightarrow{\mathrm{AQ}}+\overrightarrow{\mathrm{QB}}=\frac{1}{2}(\overrightarrow{\mathrm{PQ}}+\overrightarrow{\mathrm{QR}})=\frac{1}{2}(\underline{\mathrm{p}}+\underline{q})[/math]
+অনুরূপভাবে, [math]\overrightarrow{\mathrm{BC}}=\frac{1}{2}(\underline{q}+\underline{r}), \overrightarrow{\mathrm{CD}}=\frac{1}{2}(\underline{r}+\underline{s})[/math]
+ [math]\overrightarrow{\mathrm{DA}}=\frac{1}{2}(\underline{s}+\underline{p})[/math]
+আবার, [math]\overrightarrow{\mathrm{PR}}=\overrightarrow{\mathrm{PQ}}+\overrightarrow{\mathrm{QR}}=\underline{p}+\underline{q}[/math]
+এবং [math]\overrightarrow{\mathrm{RP}}=\overrightarrow{\mathrm{RS}}+\overrightarrow{\mathrm{SP}}=\underline{r}+\underline{s}[/math]
+অর্থাৎ [math](\underline{p}+\underline{q})+(\underline{r}+\underline{s})=\overrightarrow{P R}+\overrightarrow{R P}=\overrightarrow{P R}-\overrightarrow{P R}=0[/math]
+ [math]\therefore \overrightarrow{\mathrm{AB}}=\frac{1}{2}(\underline{p}+q)=-\frac{1}{2}(\underline{r}+\underline{s})=-\overrightarrow{\mathrm{CD}}=\overrightarrow{\mathrm{DC}}[/math]
+তাহলে, [math]\overrightarrow{\mathrm{AB}}[/math]
+ ও [math]\overrightarrow{\mathrm{DC}}[/math]
+ এর ধারকরেখাদ্বয় একই বা সমান্তরাল। কিন্তু এখানে ধারকরেখা এক নয়।.: ধারকরেখাদ্বয় সমান্তরাল। [math]\therefore \mathrm{AB} \| \mathrm{DC} .[/math]
+এখন, [math]|\overrightarrow{\mathrm{AB}}|=|\overrightarrow{\mathrm{DC}}| \therefore \mathrm{AB}=\mathrm{DC}[/math]
+.: AB এবং DC সমান ও সমান্তরাল।অনুরূপভাবে, BC এবং AD সমান ও সমান্তরাল।.: ABCD একটি সামান্তরিক। (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 704899)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: BAF Shaheen College Shamshernagar, Moulvibazar
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle PQR[/math]- এ [math]PM, QN[/math] ও [math]RS[/math] মধ্যমাত্রয় [math]O[/math] বিন্দুতে ছেদ করেছে।
+
+
+[Image]
+
+
+Options:
+ক. একটি ত্রিভুজের ভূমি [math]a = 5.5[/math] সে.মি., শিরঃকোণ [math]\angle x=60^{\circ}[/math] এবং অপর দুই বাহুর অন্তর [math]\mathrm{d}=2,5[/math] সে.মি. হলে ত্রিভুজটি আঁক।
+খ. প্রমাণ কর যে, [math]\frac{1}{2}\left(\mathrm{PQ}^{2}+\mathrm{PR}^{2}\right)=\mathrm{PM}^{2}+\mathrm{QM}^{2}.[/math]
+গ. যদি [math]\angle PQR = 90°[/math] হয়, তবে প্রমাণ কর যে, [math]2\left(\mathrm{PM}^{2}+\mathrm{QN}^{2}+\mathrm{RS}^{2}\right)=3\left(\mathrm{PQ}^{2}+\mathrm{QR}^{2}\right).[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 704892)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Government Agragami Girls' High School and College, Sylhet
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে [math]3[/math] সে.মি. ব্যাসার্ধবিশিষ্ট একটি বৃত্তে [math]PQSR[/math] চতুর্ভুজটি অন্তর্লিখিত।
+
+Options:
+ক. চিত্রসহ লম্ব অভিক্ষেপ ব্যাখ্যা কর।
+খ. বৃত্তের কেন্দ্র থেকে [math]7[/math] সে.মি. দূরে কোন নির্দিষ্ট বিন্দু থেকে বৃত্তে দুইটি স্পর্শক অংকন কর। [অংকনের চিহ্ন ও বিবরণ আবশ্যক]
+গ. উক্ত চতুর্ভুজের ক্ষেত্রে প্রমাণ কর যে, [math]PS.QR = PR.QS + PQ.RS[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 704888)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+ABC ত্রিভুজের ভূমি a, শিরঃকোণ x এবং অপর দুই বাহুর অন্তর 2 সে.মি.।
+
+Options:
+ক. একটি সমবাহু ত্রিভুজের পরিসীমা 12 সে.মি. হলে এর মধ্যমাত্রয়ের সমষ্টি নির্ণয় কর।
+খ. অঙ্কনের বিবরণসহ ত্রিভুজটি অঙ্কন কর।
+গ. ∆ABC এর মধ্যমাত্রয় ০ বিন্দুতে মিলিত হলে, প্রমাণ কর যে, [math]AB² + BC^2 + AC² = 3(OA^2 + OB² + OC²)[/math]
+
+
+Correct Answer: 
+
+Solution:
+কধরি, সমবাহু ত্রিভুজের প্রতিটি বাহুর দৈর্ঘ্য a সে.মি.শর্তমতে, 3a = 12 .: a = 4 সে.মি.সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য a একক হলে,প্রতিটি মধ্যমার দৈর্ঘ্য [math]\frac{\sqrt{3}}{2} a[/math]
+ একক.: মধ্যমাত্রয়ের সমষ্টি [math]=\frac{3 \sqrt{3}}{2} a=\left(\frac{3 \sqrt{3}}{2} \times 4\right)[/math]
+ [math]=6 \sqrt{3}[/math]
+ সে.মি.[math]\\[/math]
+ খ
+[Image]
+
+[Image]
+
+[Image]
+মনে করি, একটি ত্রিভুজের ভূমি a, শিরঃকোণ, ∠x এবং অপর দুই বাহুর অন্তর d = 2 সে.মি. দেওয়া আছে। ত্রিভুজটি আঁকতে হবে।অঙ্কনের বিবরণ:(১) যেকোনো রশ্মি BD থেকে BP = d = 2 সে.মি. কেটে নিই।(২) P বিন্দুতে ∠x এর সম্পূরক কোণের অর্ধেকের সমান ∠DPM অঙ্কন করি।(৩) B কে কেন্দ্র করে a এর সমান ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তচাপ PM সরলরেখাকে C বিন্দুতে ছেদ করে। B, C যোগ করি।(৪) C বিন্দুতে ∠DPC = ∠PCA আঁকি যেন CA রেখাংশ BD কে A বিন্দুতে ছেদ করে।তাহলে △ABC-ই উদ্দিষ্ট ত্রিভুজ।[math]\\[/math]
+ গ
+[Image]
+মনে করি, ∆ABC এর মধ্যমাত্রয় যথাক্রমে AD, BE ও CF পরস্পর ০ বিন্দুতে মিলিত হয়েছে।প্রমাণ করতে হবে যে, [math]AB^2 + BC^2 + AC^2 = 3(OA^2 + OB^2 + OC²)[/math]
+প্রমাণ: ∆ABC এর AD, BE ও CF তিনটি মধ্যমা।.: এ্যাপোলোনিয়াসের উপপাদ্য অনুসারে[math]AB ^ 2 + CA ^ 2 = 2(AD ^ 2 + BD^2)....................... (i)[/math]
+ [math]A B ^ 2 + B C ^ 2 = 2(B E ^ 2 + C E ^ 2) ....................... (ii)[/math]
+এবং [math]B C ^ 2 + C A ^ 2 = 2(C F ^ 2 + B F ^ 2) .............. (iii)[/math]
+এখন সমীকরণ (i), (ii) ও (iii) নং যোগ করে পাই,[math]2A B ^ 2 + 2B C ^ 2 + 2C A ^ 2 = 2A D ^ 2 + 2B D ^ 2 + 2B E ^ 2 + 2C E ^ 2 2BF^2[/math]
+বা, [math]2(AB^ 2 +B dot C ^ 2 +CA^ 2 )= 2(A D ^ 2 + B E ^ 2 + C F ^ 2) 2(B D ^ 2 + C E ^ 2 + B F ^ 2)[/math]
+বা, [math]4(AB² + BC^2 + CA²) = 4(AD² + BE^2 + CF²) + (2BD)^2 (2CE) ^ 2 + (2BF) ^ 2[/math]
+বা, [math]4(A B ^ 2 + B C ^ 2 + C A ^ 2) = 4(A D ^ 2 + B E ^ 2 + C F ^ 2) + B C ^ 2 + C A ^ 2 + A B ^ 2[/math]
+বা, [math]3(A B ^ 2 + B C ^ 2 + C A ^ 2) = 4(A D ^ 2 + BE ^ 2 + C F ^ 2) .......... (iv)[/math]
+আমরা জানি, ত্রিভুজের মধ্যমাগুলো ছেদ বিন্দুতে 2:1 অনুপাতে বিভক্ত হয়।[math]\therefore \frac{\mathrm{AO}}{\mathrm{OD}}=\frac{2}{1}[/math]
+ বা, [math]\frac{\mathrm{OD}}{\mathrm{AO}}=\frac{1}{2}[/math]
+ বা, [math]\frac{O D+A O}{A O}=\frac{1+2}{2}[/math]
+বা, [math]\frac{\mathrm{AD}}{\mathrm{AO}}=\frac{3}{2}[/math]
+ বা, 2AD = 3AO বা, [math]4A D ^ 2 = 9A O ^ 2[/math]
+ [বর্গ করে]অনুৰূপে, [math]4B E ^ 2 = 9B O ^ 2[/math]
+ এবং [math]4C F ^ 2 = 9C O ^ 2[/math]
+.: (iv) নং সমীকরণ থেকে পাই, [math](A B ^ 2 + B C ^ 2 + C A ^ 2) = 9A O ^ 2 + 9B O ^ 2 + 9C O ^ 2[/math]
+বা, [math]3(A B ^ 2 + B C ^ 2 + C A ^ 2) = 9(A O ^ 2 + B O ^ 2 + C O ^ 2)[/math]
+.: [math]AB^ 2 +BC^ 2 + A C ^ 2 = 3(O A ^ 2 + O B ^ 2 + O C ^ 2)[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 704889)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Jalalabad Cantonment Public School And College, Sylhet
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে, [math]\triangle PQR[/math] এর পরিকেন্দ্র [math]S,[/math] লম্ববিন্দু [math]M[/math] এবং [math]PD[/math] একটি মধ্যমা।
+
+Options:
+ক. কোনো ত্রিভুজের উচ্চতা [math]h,[/math] ভূমির উপর মধ্যমা [math]d[/math] এবং ভূমি সংলগ্ন একটি [math]\angle x[/math] দেওয়া আছে। ত্রিভুজটি অঙ্কন কর।
+খ. প্রমাণ কর যে, [math]G, \triangle PQR[/math] এর ভরকেন্দ্র।
+গ. [math]\triangle PQ[/math]R এর অপর মধ্যমাদ্বয় [math]QE[/math] এবং [math]RF[/math] হলে প্রমাণ কর যে, [math]3(PQ²+QR² + PR2)=4(PD² + QE² + RF²)[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 704874)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Barisal Cadet College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\triangle ABC[/math] এর [math]BC[/math] এর মধ্যবিন্দু [math]E, AD = 4[/math] সে.মি. এবং [math]BC = 6[/math] সে.মি.।
+
+Options:
+ক. [math]AC[/math] বাহুর দৈর্ঘ্য নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm{AC}^{2}+\mathrm{AB}^{2}=2\left(\mathrm{AE}^{2}+\mathrm{CE}^{2}\right).[/math]
+গ. এমন একটি ত্রিভুজ অংকন কর, যার ভূমি [math]BC[/math] ও শিরঃকোণ [math]\angle C[/math] এর সমান এবং অপর দুই বাহুর অন্তর [math]2[/math] সে.মি.। (অংকনের চিহ্ন ও বিবরণ আবশ্যক)
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 704875)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Monipur Uchcha Vidyalaya and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] ত্রিভুজের উচ্চতা [math]h,[/math] ভূমির উপর মধ্যমা [math]d[/math] এবং ভূমি সংলগ্ন একটি কোণ [math]\angle {x}.[/math]
+
+Options:
+ক. উদ্দীপকের তথ্যগুলো চিত্রের মাধ্যমে প্রকাশ কর।
+খ. অংকনের বিবরণসহ ত্রিভুজটি আঁক।
+গ. [math]\triangle ABC[/math] এর মধ্যমাত্রয় যথাক্রমে [math]AE, BF[/math] ও [math]CD[/math] পরস্পর [math]O[/math] বিন্দুতে ছেদ করলে প্রমাণ কর যে, [math]\mathrm{AB}^{2}+\mathrm{BC}^{2}+\mathrm{CA}^{2}=3\left(\mathrm{AO}^{2}+\mathrm{BO}^{2}+\mathrm{CO}^{2}\right)[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 704876)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Holy Cross Girls High School, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] ত্রিভুজের ভূমি [math]BC = 4.5[/math] সে.মি., শিরঃকোণ [math]\angle A = 45°[/math] এবং [math]AB – AC = 2.5[/math] সে.মি.
+
+Options:
+ক. ব্রহ্মগুপ্তের উপপাদ্যটি বিবৃত কর।
+খ. উদ্দীপকের তথ্য অনুসারে ত্রিভুজটি আঁক। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+গ. ত্রিভুজটির [math]\angle A[/math] এর সমদ্বিখণ্ডক [math]BC[/math] কে [math]D[/math] বিন্দুতে এবং [math]ABC[/math] পরিবৃত্তকে [math]E[/math] বিন্দুতে ছেদ করে । প্রমাণ কর যে, [math]\mathrm{AD}^{2}=\mathrm{AB} . \mathrm{AC}-\mathrm{BD} . \mathrm{DC}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 704877)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: SBULAGC
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] এর উচ্চতা [math]h,[/math] ভূমির উপর মধ্যমা [math]d[/math] এবং ভূমি সংলগ্ন একটি কোণ [math]\angle x[/math]
+
+Options:
+ক. টলেমির উপপাদ্যটি লেখ ।
+খ. অঙ্কনের বিবরণসহ ত্রিভুজটি অঙ্কন কর।
+গ. যদি উদ্দীপকের ত্রিভুজের মধ্যমাত্রয় [math]P[/math] বিন্দুতে ছেদ করে তবে প্রমাণ কর যে, [math]A B^{2}+B C^{2}+A C^{2}=3\left(P A^{2}+P B^{2}+P C^{2}\right)[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 704878)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: St. Joseph Higher Secondary School, Dhaka
+--------------------------------------------------------------------------------
+Question:
+দুইটি রেখাংশের দৈর্ঘ্য [math]6~cm[/math] ও [math]3~cm[/math] এবং একটি কোণ [math]40^{\circ}[/math] দেওয়া আছে।
+
+Options:
+ক. উদ্দীপকের রেখাংশের দৈর্ঘ্য এবং কোণ অঙ্কন কর। [সংক্ষিপ্ত বিবরণ আবশ্যক]
+খ. বৃহত্তর রেখাংশকে কোনো ত্রিভুজের ভূমি, কোণটিকে ভূমি সংলগ্ন কোণ এবং ক্ষুদ্রতর রেখাংশটিকে উচ্চতা বিবেচনা করে একটি ত্রিভুজ অঙ্কন কর। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+গ. যদি উদ্দীপকের বৃহত্তর রেখাংশটি কোনো ত্রিভুজের ভূমি, ক্ষুদ্রতর রেখাংশটি অপর দুই বাহুর, অন্তর এবং কোণটিকে শিরঃকোণ বিবেচনা করা হয়, তবে ত্রিভুজটি অঙ্কন কর। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 704879)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Saidpur
+--------------------------------------------------------------------------------
+Question:
+[math]ABCD[/math] বৃত্তে অন্তর্লিখিত একটি চতুর্ভুজ। [math]AC[/math] এবং [math]BD[/math] তার দুইটি কর্ণ।
+
+Options:
+ক. উপরোক্ত তথ্যের আলোকে জ্যামিতিক চিত্র অঙ্কন কর।
+খ. প্রমাণ কর যে, [math]\mathrm{AC} . \mathrm{BD}=\mathrm{AB} . \mathrm{CD}+\mathrm{BC} . \mathrm{AD}[/math]
+গ. এমন একটি বৃত্ত অঙ্কন কর যা [math]AB[/math] রেখার [math]A[/math] বিন্দুতে স্পর্শ করে এবং [math]AB[/math] রেখার বহিঃস্থ [math]P[/math] বিন্দু দিয়ে যায়।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 704880)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Syedpur Govt. Technical College
+--------------------------------------------------------------------------------
+Question:
+একটি ত্রিভুজের ভূমি 6 cm, ভূমি সংলগ্ন একটি কোণ 45° এবং অপর দুই বাহুর সমষ্টি 10 cm.
+
+Options:
+ক. পাদ ত্রিভুজ কাকে বলে?
+খ. ত্রিভুজটি অংকন কর। [অংকনের চিহ্ন ও বিবরণ আবশ্যক]
+গ. ত্রিভুজটির ভূমির সমান ব্যাস ধরে একটি বৃত্ত অঙ্কন কর যেন তা দুইটি নির্দিষ্ট বিন্দু দিয়ে যায়। [অংকনের চিহ্ন ও বিবরণ আবশ্যক]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 704881)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Noakhali Zilla School, Noakhali
+--------------------------------------------------------------------------------
+Question:
+একটি ত্রিভুজের ভূমি, [math]a = 4[/math] সে.মি., শিরঃ কোণ, [math]\angle x = 60°[/math]
+
+Options:
+ক. পেন্সিল, কম্পাস ও স্কেল ব্যবহার করে [math]75°[/math] কোণ অঙ্কন করে একে সমদ্বিখণ্ডিত কর।
+খ. ত্রিভুজটির অপর দুই বাহুর সমষ্টি [math]S = 7[/math] সে.মি. হলে ত্রিভুজটি অঙ্কন কর।
+গ. ত্রিভুজটির অপর বাহু দুইটির অন্তর [math]d = 2[/math] সে.মি. হলে ত্রিভুজটি অঙ্কন কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 704869)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Comilla Cadet College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে [math]ABCD[/math] এবং [math]PQR[/math] দুইটি বৃত্ত যেখানে [math]\mathrm{AC} \perp \mathrm{BD}[/math] এবং [math]\mathrm{EM} \perp \mathrm{AB}.[/math]
+
+Options:
+ক. যদি [math]A B=A D, B C=C D, C D=\frac{1}{2} A D[/math] এবং [math]ABCD[/math] চতুর্ভুজের পরিসীমা [math]12[/math] সে.মি. হয় তাহলে [math]AC. BD = ?[/math]
+খ. প্রমাণ কর যে, [math]CN = DN.[/math]
+গ. এমন একটি বৃত্ত অঙ্কন কর যা [math]ABCD[/math] বৃত্তকে [math]D[/math] বিন্দুতে এবং [math]PQR[/math] বৃত্তকে যে কোন বিন্দুতে স্পর্শ করে। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 704861)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rangpur Cadet College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+বৃত্তে অন্তর্লিখিত [math]ABCD[/math] চতুর্ভুজের [math]AC[/math] ও [math]BD[/math] -কর্ণদ্বয় পরস্পরকে [math]M[/math] বিন্দুতে লম্বভাবে ছেদ করেছে। [math]ME, BC[/math] এর উপর লম্ব এবং [math]EM[/math] এর বর্ধিতাংশ বিপরীত [math]AD[/math] বাহুকে [math]F[/math] বিন্দুতে ছেদ করেছে।
+
+
+[Image]
+
+
+Options:
+ক. একটি ত্রিভুজের দুইটি কোণ ও কোণদ্বয়ের বিপরীত বাহুদ্বয়ের দৈর্ঘ্যের অন্তর দেওয়া আছে। ত্রিভুজটি অঙ্কন কর।
+খ. প্রমাণ কর যে, [math]AF = FD[/math]
+গ. ধরাযাক, [math]\triangle ABC[/math] এর পরিকেন্দ্র [math]S[/math] এবং [math]AC[/math] বাহুর মধ্যবিন্দু [math]R[/math]। শীর্ষ [math]A[/math] হতে [math]BC[/math] বাহুর উপর [math]AP[/math] লম্ব টানা হলো যা [math]BM[/math] কে লম্বকেন্দ্র [math]O[/math] বিন্দুতে ছেদ করেছে। [math]BO[/math] এবং [math]SR[/math] এর মধ্যে সম্পর্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 704858)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{PQR}[/math] এর ভূমি [math]=a,[/math] শিরঃকোণ [math]=\angle x[/math] এবং অপর বাহুদ্বয়ের অন্তর [math]=d.[/math]
+
+আবার, [math]\triangle A B C[/math] এ [math]O[/math] লম্বকেন্দ্র [math]S[/math] পরিকেন্দ্র এবং [math]G[/math] ভরকেন্দ্র।
+
+Options:
+ক. [math]\triangle \mathrm{XYZ}[/math] এ [math]X Y=5[/math] সে.মি., [math]Y Z=6[/math] সে.মি., [math]Z X=7[/math] সে.মি., এবং মধ্যমা [math]\mathrm{XA}=3[/math] সে.মি. এবং [math]\mathrm{YB}=4[/math] সে.মি. হলে অপর মধ্যমা নির্ণয় কর।
+খ. [math]\triangle \mathrm{PQR}[/math] অঙ্কন কর। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+গ. প্রমাণ কর যে, [math]\mathrm{S}, \mathrm{G}[/math] ও [math]\mathrm{O}[/math] বিন্দুসমূহ সমরেখ।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 704859)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]3[/math] সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের [math]A B C D[/math] একটি বৃত্তসহ চতুর্ভুজ যার কর্ণদ্বয় [math]AC[/math] ও [math]BD.[/math]
+
+Options:
+ক. বৃত্তটির পরিধি নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm{AC} . \mathrm{BD}=\mathrm{AB} . \mathrm{CD}+\mathrm{BC} . \mathrm{AD}[/math]
+গ. একটি ত্রিভুজ অঙ্কন কর যার ভূমি বৃত্তটির ব্যাসের সমান, অপর দুই বাহুর পার্থক্য বৃত্তটির ব্যাসার্ধের সমান এবং শীরঃকোণ [math]30^{\circ}[/math]।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+

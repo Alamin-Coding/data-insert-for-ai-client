@@ -1,0 +1,54 @@
+================================================================================
+Question #1 (ID: 123133)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How do you express a repeating decimal as a fraction?
+
+Options:
+a. By multiplying the decimal by 10.
+b. By subtracting the non-repeating part from the repeating part.
+c. By using an equation to isolate the variable.
+d. By dividing the repeating number by the total digits.
+
+
+Correct Answer: গ
+
+Solution:
+Solution:
+Set the repeating decimal equal to a variable and use an equation to isolate it. For example, let [math]x = 0.\overline{36} = 0.363636\ldots[/math]. Since the repeating block has length 2, multiply by [math]10^2=100[/math]: [math]100x = 36.363636\ldots[/math]. Subtract the original equation: [math]100x - x = 36.3636\ldots - 0.3636\ldots \Rightarrow 99x = 36[/math], so [math]x = \dfrac{36}{99} = \dfrac{4}{11}[/math]. This shows option (c) is correct because we form and solve an equation to isolate the variable; the other choices are either incomplete or not the general method (a and d are incorrect procedures, b is vague and not a general algorithm).
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 123134)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In a geometric sequence, if the first term is 4 and the common ratio is 2, what is the fourth term?
+
+Options:
+a. 16
+b. 32
+c. 64
+d. 128
+
+
+Correct Answer: গ
+
+Solution:
+সমাধান:
+জ্যামিতিক ধারার সাধারণ সূত্র হলো [math]a_n = a_1 r^{\,n-1}[/math]. এখানে [math]a_1=4[/math], [math]r=2[/math] এবং [math]n=4[/math], তাই
+[math]a_4 = 4 \times 2^{4-1} = 4 \times 2^{3} = 4 \times 8 = 32.[math]
+অতএব চতুর্থ পদটি [math]32[/math] এবং সঠিক উত্তর অপশন b। অপশন c ([math]64[/math]) ভুল — সেটি আসলে পঞ্চম পদ: [math]a_5 = 4 \times 2^{4} = 64[/math]।
+
+Explanation:
+
+
+Sub-Questions:
+

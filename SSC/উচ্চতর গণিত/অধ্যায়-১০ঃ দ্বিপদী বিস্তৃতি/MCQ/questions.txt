@@ -1,0 +1,6531 @@
+================================================================================
+Question #1 (ID: 675367)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2-\frac{x^{2}}{3}\right)^{7}[/math] এর বিস্তৃতিতে x মুক্ত পদের মান কত?
+
+Options:
+ক. [math]\frac{1}{2187}[/math]
+খ. 128
+গ. [math]\frac{448}{3}[/math]
+ঘ. 2187
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left(2-\frac{x^{2}}{3}\right)^{7}[/math]
+ এর বিস্তৃতিতে [math]x[/math]
+ মুক্ত পদের মান নির্ণয় করতে হবে।দ্বিপদী উপপাদ্য অনুযায়ী, [math](a+b)^n[/math]
+ এর বিস্তৃতিতে সাধারণ পদটি হলো [math]T_{r+1} = \binom{n}{r} a^{n-r} b^r[/math]
+.এখানে, [math]a=2[/math]
+, [math]b=-\frac{x^2}{3}[/math]
+, এবং [math]n=7[/math]
+.সুতরাং, বিস্তৃতিতে সাধারণ পদটি হলো:[math]T_{r+1} = \binom{7}{r} (2)^{7-r} \left(-\frac{x^2}{3}\right)^r[/math]
+ [math]T_{r+1} = \binom{7}{r} 2^{7-r} (-1)^r \left(\frac{1}{3}\right)^r (x^2)^r[/math]
+ [math]T_{r+1} = \binom{7}{r} 2^{7-r} (-1)^r \frac{1}{3^r} x^{2r}[/math]
+ [math]x[/math]
+ মুক্ত পদের জন্য, [math]x[/math]
+ এর ঘাত শূন্য হতে হবে, অর্থাৎ [math]2r = 0[/math]
+.এখান থেকে আমরা পাই [math]r = 0[/math]
+.এখন, [math]r=0[/math]
+ বসিয়ে [math]x[/math]
+ মুক্ত পদটি নির্ণয় করি:[math]T_{0+1} = T_1 = \binom{7}{0} 2^{7-0} (-1)^0 \frac{1}{3^0} x^{2 \times 0}[/math]
+ [math]T_1 = \binom{7}{0} 2^7 (-1)^0 \frac{1}{1} x^0[/math]
+আমরা জানি, [math]\binom{7}{0} = 1[/math]
+ এবং [math](-1)^0 = 1[/math]
+.সুতরাং, [math]T_1 = 1 \times 2^7 \times 1 \times 1 \times 1[/math]
+ [math]T_1 = 2^7[/math]
+ [math]T_1 = 128[/math]
+তাই, [math]\left(2-\frac{x^{2}}{3}\right)^{7}[/math]
+ এর বিস্তৃতিতে [math]x[/math]
+ মুক্ত পদের মান হলো 128।সঠিক উত্তর হলো 2)।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 675368)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math](a+b)^{5}[/math] এর বিস্তৃতিতে দ্বিপদী সহগগুলো হল-
+
+Options:
+ক. 1,5,10,5, 1
+খ. 1.5, 5, 10, 1
+গ. 1,5,5,10, 10, 1
+ঘ. 1, 5, 10, 10, 5, 1
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](a+b)^{5}[/math]
+ এর বিস্তৃতিতে দ্বিপদী সহগগুলো নির্ণয় করার জন্য আমরা দ্বিপদী উপপাদ্য ব্যবহার করি। দ্বিপদী উপপাদ্য অনুসারে, [math](x+y)^n[/math]
+ এর বিস্তৃতিতে পদগুলো হলো [math]{^n}C_0 x^n y^0 + {^n}C_1 x^{n-1} y^1 + {^n}C_2 x^{n-2} y^2 + \dots + {^n}C_n x^0 y^n[/math]
+।এখানে, [math]x=a[/math]
+, [math]y=b[/math]
+ এবং [math]n=5[/math]
+।সুতরাং, [math](a+b)^{5}[/math]
+ এর বিস্তৃতি হবে:[math]{^5}C_0 a^5 b^0 + {^5}C_1 a^4 b^1 + {^5}C_2 a^3 b^2 + {^5}C_3 a^2 b^3 + {^5}C_4 a^1 b^4 + {^5}C_5 a^0 b^5[/math]
+এখন আমরা এই সহগগুলোর মান গণনা করব:[math]{^5}C_0 = \frac{5!}{0!(5-0)!} = \frac{5!}{1 \times 5!} = 1[/math]
+ [math]{^5}C_1 = \frac{5!}{1!(5-1)!} = \frac{5!}{1 \times 4!} = 5[/math]
+ [math]{^5}C_2 = \frac{5!}{2!(5-2)!} = \frac{5!}{2! \times 3!} = \frac{5 \times 4}{2 \times 1} = 10[/math]
+ [math]{^5}C_3 = \frac{5!}{3!(5-3)!} = \frac{5!}{3! \times 2!} = \frac{5 \times 4}{2 \times 1} = 10[/math]
+ [math]{^5}C_4 = \frac{5!}{4!(5-4)!} = \frac{5!}{4! \times 1!} = 5[/math]
+ [math]{^5}C_5 = \frac{5!}{5!(5-5)!} = \frac{5!}{5! \times 0!} = 1[/math]
+সুতরাং, [math](a+b)^{5}[/math]
+ এর বিস্তৃতিতে দ্বিপদী সহগগুলো হলো 1, 5, 10, 10, 5, 1।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 675369)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: Madrasah Board
+--------------------------------------------------------------------------------
+Question:
+[math](1-5x)^4[/math] বিস্তৃতিতে-i. x এর সহগ 20
+
+ii. পদ সংখ্যা 5 টি
+
+iii. মধ্যপদ [math]150x^2[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+[math](1-5x)^4[/math]
+ এর বিস্তৃতি নির্ণয় করি। দ্বিপদী উপপাদ্য অনুসারে, [math](a+b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k[/math]
+.এখানে [math]a=1[/math]
+, [math]b=-5x[/math]
+, এবং [math]n=4[/math]
+.বিস্তৃতিটি হলো:[math]\binom{4}{0}(1)^4(-5x)^0 + \binom{4}{1}(1)^3(-5x)^1 + \binom{4}{2}(1)^2(-5x)^2 + \binom{4}{3}(1)^1(-5x)^3 + \binom{4}{4}(1)^0(-5x)^4[/math]
+iii. মধ্যপদ নির্ণয়:যেহেতু [math]n=4[/math]
+ (একটি জোড় সংখ্যা), মধ্যপদ হবে [math](n/2 + 1)[/math]
+ তম পদ, অর্থাৎ [math](4/2 + 1) = 3[/math]
+ তম পদ।তৃতীয় পদটি হলো: [math]\binom{4}{2}(1)^2(-5x)^2 = 6 \times 1 \times (25x^2) = 150x^2[/math]
+.সুতরাং, মধ্যপদ [math]150x^2[/math]
+ । এই বিবৃতিটি সঠিক।i. x এর সহগ নির্ণয়:x এর সহগ হলো দ্বিতীয় পদটির সহগ, অর্থাৎ [math]k=1[/math]
+ এর জন্য পদ।দ্বিতীয় পদটি হলো: [math]\binom{4}{1}(1)^3(-5x)^1 = 4 \times 1 \times (-5x) = -20x[/math]
+.সুতরাং, x এর সহগ হলো -20। বিবৃতি i (x এর সহগ 20) সঠিক নয়।ii. পদ সংখ্যা নির্ণয়:[math](1-5x)^4[/math]
+ এর বিস্তৃতিতে পদ সংখ্যা হবে [math]n+1 = 4+1 = 5[/math]
+ টি।এই বিবৃতিটি সঠিক।সুতরাং, বিবৃতি ii এবং iii সঠিক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 675370)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: Madrasah Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-\frac{1}{x^{3}}\right)^{5}[/math] এর বিস্তৃতিতে কত তম পদ x বর্জিত?
+
+Options:
+ক. দ্বিতীয়
+খ. তৃতীয়
+গ. চতুর্থ
+ঘ. পঞ্চম
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left(x^{2}-\frac{1}{x^{3}}\right)^{5}[/math]
+ এর বিস্তৃতিতে [math]r+1[/math]
+ তম পদটি হলো [math]{^{n}C_{r}} a^{n-r} b^{r}[/math]
+ আকারের।এখানে [math]n=5[/math]
+, [math]a=x^{2}[/math]
+ এবং [math]b=-\frac{1}{x^{3}} = -x^{-3}[/math]
+।সুতরাং, [math]r+1[/math]
+ তম পদটি হবে [math]{^{5}C_{r}} (x^{2})^{5-r} (-x^{-3})^{r}[/math]
+ [math]= {^{5}C_{r}} x^{2(5-r)} (-1)^{r} x^{-3r}[/math]
+ [math]= {^{5}C_{r}} (-1)^{r} x^{10-2r-3r}[/math]
+ [math]= {^{5}C_{r}} (-1)^{r} x^{10-5r}[/math]
+পদটি x বর্জিত হবে যখন [math]x[/math]
+ এর ঘাত শূন্য হবে।অতএব, [math]10-5r = 0[/math]
+ [math]5r = 10[/math]
+ [math]r = 2[/math]
+যখন [math]r=2[/math]
+, তখন পদটি হবে [math]r+1 = 2+1 = 3[/math]
+ তম পদ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 675371)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+তথ্যের আলোকে প্রশ্নের উত্তর দাও
+
+যখন, [math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+
+A এর বিস্তৃতিতে পদ সংখ্যা কত?
+
+Options:
+ক. 12
+খ. 7
+গ. 6
+ঘ. 2
+
+
+Correct Answer: খ
+
+Solution:
+[math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+ একটি দ্বিপদী রাশির বিস্তৃতি। একটি দ্বিপদী রাশি [math](a+b)^n[/math]
+ এর বিস্তৃতিতে পদ সংখ্যা হয় [math]n+1[/math]
+ টি। এখানে [math]n=6[/math]
+। সুতরাং, [math]A[/math]
+ এর বিস্তৃতিতে পদ সংখ্যা হবে [math]6+1 = 7[/math]
+।সুতরাং, সঠিক বিকল্প হলো 7।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 675372)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+তথ্যের আলোকে প্রশ্নের উত্তর দাও
+
+যখন, [math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+
+A এর বিস্তৃতিতে x বর্জিত পদ কত?
+
+Options:
+ক. 15
+খ. 18
+গ. 45
+ঘ. 135
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+ এর বিস্তৃতিতে x বর্জিত পদ বের করতে হবে।দ্বিপদী উপপাদ্য অনুসারে, [math](a+b)^n[/math]
+ এর বিস্তৃতিতে [math](r+1)[/math]
+ তম পদটি হলো [math]T_{r+1} = \binom{n}{r} a^{n-r} b^r[/math]
+.এখানে, [math]a = x[/math]
+, [math]b = -\frac{3}{x^2}[/math]
+, এবং [math]n = 6[/math]
+.সুতরাং, বিস্তৃতিতে [math](r+1)[/math]
+ তম পদটি হলো:[math]T_{r+1} = \binom{6}{r} (x)^{6-r} \left(-\frac{3}{x^2}\right)^r[/math]
+ [math]T_{r+1} = \binom{6}{r} x^{6-r} (-3)^r \left(\frac{1}{x^2}\right)^r[/math]
+ [math]T_{r+1} = \binom{6}{r} x^{6-r} (-3)^r x^{-2r}[/math]
+ [math]T_{r+1} = \binom{6}{r} (-3)^r x^{6-r-2r}[/math]
+ [math]T_{r+1} = \binom{6}{r} (-3)^r x^{6-3r}[/math]
+x বর্জিত পদ পেতে হলে, x এর ঘাত শূন্য হতে হবে। অর্থাৎ, [math]6-3r = 0[/math]
+.এই সমীকরণটি সমাধান করলে পাই:[math]6 = 3r[/math]
+ [math]r = \frac{6}{3}[/math]
+ [math]r = 2[/math]
+এখন, [math]r=2[/math]
+ মানটি [math]T_{r+1}[/math]
+ এর সূত্রে বসাই। এখানে [math](r+1)[/math]
+ তম পদ মানে [math](2+1) = 3[/math]
+ তম পদ।[math]T_{2+1} = T_3 = \binom{6}{2} (-3)^2 x^{6-3(2)}[/math]
+ [math]T_3 = \binom{6}{2} (-3)^2 x^{6-6}[/math]
+ [math]T_3 = \binom{6}{2} (9) x^0[/math]
+ [math]T_3 = \binom{6}{2} \times 9[/math]
+ [math]\binom{6}{2}[/math]
+ এর মান হলো:[math]\binom{6}{2} = \frac{6!}{2!(6-2)!} = \frac{6!}{2!4!} = \frac{6 \times 5}{2 \times 1} = 15[/math]
+সুতরাং, x বর্জিত পদটি হলো:[math]T_3 = 15 \times 9 = 135[/math]
+অতএব, A এর বিস্তৃতিতে x বর্জিত পদ হলো 135।The final answer is [math]\boxed{135}[/math]
+.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 675373)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-\frac{2}{x^{3}}\right)^{5}[/math] এর বিস্তৃতিতে x বর্জিত পদের মান কত?
+
+Options:
+ক. -40
+খ. -10
+গ. 10
+ঘ. 40
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left(x^{2}-\frac{2}{x^{3}}\right)^{5}[/math]
+ এর বিস্তৃতিতে সাধারণ পদটি হলো [math]^nC_r (a)^{n-r} (b)^r[/math]
+.এখানে, [math]n=5[/math]
+, [math]a=x^2[/math]
+, এবং [math]b=-\frac{2}{x^3}[/math]
+.সুতরাং, সাধারণ পদটি হলো [math]^5C_r (x^2)^{5-r} (-\frac{2}{x^3})^r[/math]
+.এই পদটিকে আমরা লিখতে পারি [math]^5C_r x^{2(5-r)} (-2)^r x^{-3r}[/math]
+.অর্থাৎ, [math]^5C_r (-2)^r x^{10-2r-3r}[/math]
+ বা [math]^5C_r (-2)^r x^{10-5r}[/math]
+.x বর্জিত পদের জন্য [math]x[/math]
+ এর ঘাত শূন্য হতে হবে।সুতরাং, [math]10-5r = 0[/math]
+.এখান থেকে আমরা পাই [math]5r = 10[/math]
+, অর্থাৎ [math]r = 2[/math]
+.এখন আমরা [math]r=2[/math]
+ মানটি সাধারণ পদে বসিয়ে x বর্জিত পদের মান বের করব।পদটি হবে [math]^5C_2 (-2)^2 x^{10-5(2)}[/math]
+.[math]^5C_2 = \frac{5!}{2!(5-2)!} = \frac{5!}{2!3!} = \frac{5 \times 4}{2 \times 1} = 10[/math]
+.[math](-2)^2 = 4[/math]
+.সুতরাং, x বর্জিত পদটি হলো [math]10 \times 4 \times x^0 = 40[/math]
+.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 675374)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+nC2 এর মান নিচের কোনটি?
+
+Options:
+ক. [math]\frac{n-1}{2!}[/math]
+খ. [math]\frac{n(n-1)(n-2)}{3!}[/math]
+গ. [math]\frac{n(n-1)}{2}[/math]
+ঘ. n(n-1)
+
+
+Correct Answer: গ
+
+Solution:
+nC2 মানে হলো n সংখ্যক বস্তু থেকে 2টি বস্তু কতভাবে নির্বাচন করা যায়। এর সূত্র হলো [math]\frac{n!}{2!(n-2)!}[/math]
+ ।এখন, [math]n! = n \times (n-1) \times (n-2) \times ... \times 1[/math]
+এবং [math](n-2)! = (n-2) \times (n-3) \times ... \times 1[/math]
+সুতরাং, [math]\frac{n!}{2!(n-2)!} = \frac{n \times (n-1) \times (n-2)!}{2 \times 1 \times (n-2)!}[/math]
+এখানে, [math](n-2)![/math]
+ উপর ও নিচে কেটে যায়।তাহলে আমরা পাই [math]\frac{n \times (n-1)}{2}[/math]
+ ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 675375)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: Comilla Board
+--------------------------------------------------------------------------------
+Question:
+[math](1-2x+x^{2})^{3}[/math] এর বিস্তৃতিতে [math]x^3[/math] এর সহগ কত?
+
+Options:
+ক. -20
+খ. -15
+গ. 15
+ঘ. 20
+
+
+Correct Answer: ক
+
+Solution:
+[math](1-2x+x^2)^3[/math]
+ কে [math](1-x)^6[/math]
+ হিসাবে লেখা যায়।[math](1-x)^6[/math]
+ এর বিস্তৃতি হলো [math]C(6,0)1^6(-x)^0 + C(6,1)1^5(-x)^1 + C(6,2)1^4(-x)^2 + C(6,3)1^3(-x)^3 + \dots[/math]
+ [math]x^3[/math]
+ এর সহগ হবে [math]C(6,3) (-1)^3[/math]
+ [math]C(6,3) = \frac{6!}{3!(6-3)!} = \frac{6!}{3!3!} = \frac{6 \times 5 \times 4}{3 \times 2 \times 1} = 20[/math]
+সুতরাং, [math]x^3[/math]
+ এর সহগ হবে [math]20 \times (-1)^3 = 20 \times (-1) = -20[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 675376)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Chittagong Board | Tags: Chittagong Board
+--------------------------------------------------------------------------------
+Question:
+[math](1+3x+3x^{2}+x^{3})^{7}[/math] এর বিস্তৃতিতে পদসংখ্যা কত?
+
+Options:
+ক. 7
+খ. 8
+গ. 21
+ঘ. 22
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](1+3x+3x^{2}+x^{3})^{7}[/math]
+ কে [math](1+x)^{3 \times 7}[/math]
+ বা [math](1+x)^{21}[/math]
+ আকারে লেখা যায়। [math](1+x)^n[/math]
+-এর বিস্তৃতিতে মোট [math]n+1[/math]
+ সংখ্যক পদ থাকে। সুতরাং, [math](1+x)^{21}[/math]
+-এর বিস্তৃতিতে [math]21+1 = 22[/math]
+ সংখ্যক পদ থাকবে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 675377)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math](1+x)^{5}[/math] এর বিস্তৃতিতে দ্বি-পদী সহগগুলোর সমষ্টি কত?
+
+Options:
+ক. 30
+খ. 31
+গ. 32
+ঘ. 36
+
+
+Correct Answer: গ
+
+Solution:
+[math](1+x)^{5}[/math]
+ এর বিস্তৃতি হলো [math]^5C_0 + ^5C_1 x + ^5C_2 x^2 + ^5C_3 x^3 + ^5C_4 x^4 + ^5C_5 x^5[/math]
+ ।এখানে দ্বি-পদী সহগগুলো হলো [math]^5C_0, ^5C_1, ^5C_2, ^5C_3, ^5C_4, ^5C_5[/math]
+ ।এই সহগগুলোর সমষ্টি পেতে হলে, আমরা বিস্তৃতির রাশিটিতে [math]x=1[/math]
+ বসাতে পারি।সুতরাং, [math](1+1)^{5} = ^5C_0 + ^5C_1 (1) + ^5C_2 (1)^2 + ^5C_3 (1)^3 + ^5C_4 (1)^4 + ^5C_5 (1)^5[/math]
+ [math]2^{5} = ^5C_0 + ^5C_1 + ^5C_2 + ^5C_3 + ^5C_4 + ^5C_5[/math]
+ [math]2^{5} = 32[/math]
+অতএব, [math](1+x)^{5}[/math]
+ এর বিস্তৃতিতে দ্বি-পদী সহগগুলোর সমষ্টি হলো 32।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 675378)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2x+\frac{1}{x}\right)^{6}[/math] এর বিস্তৃতিতে-
+
+i. পদসংখ্যা 7
+
+ii. চতুর্থ পদ হলো x মুক্ত
+
+iii. x মুক্ত পদের মান 160
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left(2x+\frac{1}{x}\right)^{6}[/math]
+ এর বিস্তৃতিতে:i. পদসংখ্যা: দ্বিপদী উপপাদ্য অনুসারে [math](a+b)^n[/math]
+ এর বিস্তৃতিতে পদসংখ্যা হয় [math]n+1[/math]
+ । এখানে [math]n=6[/math]
+, তাই পদসংখ্যা [math]6+1=7[/math]
+ । এটি সঠিক।ii. চতুর্থ পদ: সাধারণ পদ হলো [math]{}^{n}C_{r} a^{n-r} b^{r}[/math]
+ । এখানে [math]a=2x[/math]
+, [math]b=\frac{1}{x}[/math]
+ এবং [math]n=6[/math]
+ । চতুর্থ পদ (r=3) হলো [math]{}^{6}C_{3} (2x)^{6-3} \left(\frac{1}{x}\right)^{3} = {}^{6}C_{3} (2x)^{3} \left(\frac{1}{x}\right)^{3} = {}^{6}C_{3} 2^{3} x^{3} \frac{1}{x^{3}} = {}^{6}C_{3} \times 8[/math]
+ । এখানে [math]x^3[/math]
+ এবং [math]\frac{1}{x^3}[/math]
+ কাটাকাটি হওয়ায় পদটি x মুক্ত। এটি সঠিক।iii. x মুক্ত পদের মান: চতুর্থ পদের মান হলো [math]{}^{6}C_{3} \times 8 = \frac{6 \times 5 \times 4}{3 \times 2 \times 1} \times 8 = 20 \times 8 = 160[/math]
+ । এটি সঠিক।যেহেতু i, ii এবং iii সবগুলোই সঠিক, তাই সঠিক বিকল্প হলো 4।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 675379)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+[math](x^{2}-4x+4)^{2}[/math] এর বিস্তৃতিতে পদসংখ্যা কত?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 5
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](x^{2}-4x+4)^{2}[/math]
+ কে [math](x-2)^{2 \times 2} = (x-2)^4[/math]
+ আকারে লেখা যায়।দ্বিপদী উপপাদ্য অনুযায়ী, [math](a+b)^n[/math]
+ এর বিস্তৃতিতে পদসংখ্যা হয় [math]n+1[/math]
+ টি।এখানে, [math]n=4[/math]
+.সুতরাং, [math](x-2)^4[/math]
+ এর বিস্তৃতিতে পদসংখ্যা হবে [math]4+1 = 5[/math]
+ টি।The final answer is [math]\boxed{5}[/math]
+.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 675380)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{k}{3}\right)^{4}[/math] এর বিস্তৃতিতে [math]x^{3}[/math] এর সহগ -12 হলে এর মান কত?
+
+Options:
+ক. -36
+খ. -9
+গ. 9
+ঘ. 36
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left(x-\frac{k}{3}\right)^{4}[/math]
+ এর বিস্তৃতিতে [math]x^{3}[/math]
+ এর সহগ হলো [math]\binom{4}{1} x^3 \left(-\frac{k}{3}\right)^1 = 4 x^3 \left(-\frac{k}{3}\right) = -\frac{4k}{3} x^3[/math]
+ ।প্রশ্নানুসারে, [math]x^{3}[/math]
+ এর সহগ [math]-12[/math]
+ ।সুতরাং, [math]-\frac{4k}{3} = -12[/math]
+ [math]4k = 3 \times 12[/math]
+ [math]4k = 36[/math]
+ [math]k = \frac{36}{4}[/math]
+ [math]k = 9[/math]
+সঠিক বিকল্প হলো 3।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 675381)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-\frac{p}{x}\right)^{6}[/math] এর বিস্তৃতিতে মধ্যপদটি [math]540x^{3}[/math] হলে p-এর মান কত?
+
+Options:
+ক. - 27
+খ. -3
+গ. 3
+ঘ. 27
+
+
+Correct Answer: খ
+
+Solution:
+-3
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 706503)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Jhenaidah Cadet College, Jhenaidah
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math](1-3 x)^{n}[/math] এর বিস্তৃতিতে Pascal এর ত্রিভুজ—
+
+
+[Image]
+
+
+৫ম পদের সহগ কত?
+
+Options:
+ক. 10
+খ. 6
+গ. 5
+ঘ. 4
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 706504)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: BZSB
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]X={ }^{n} C_{p}[/math] এবং [math]Y={ }^{n} C_{p-1}[/math]
+
+যদি [math]p = 0[/math] হয়, তবে [math]X = ?[/math]
+
+Options:
+ক. [math]0[/math]
+খ. [math]1[/math]
+গ. [math]n[/math]
+ঘ. [math]\frac{1}{n}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 706476)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(y^{2}-2+\frac{1}{y^{2}}\right)^{4}[/math] এর বিস্তৃতিতে-
+i. মধ্যপদ = 70
+ii. পদসংখ্যা = 8
+iii. y বর্জিত পদ = 70
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: B.i ও iii
+
+Solution:
+[math]\left(y^{2}-2+\frac{1}{y^{2}}\right)^{4}=\left(y-\frac{1}{y}\right)[/math]
+ [math]\therefore[/math]
+ পদসংখ্যা [math]= (8 + 1) = 9; (ii)[/math]
+ সঠিক নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 706477)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+রাশিগুলোর জন্য–
+
+[math]\begin{array}{l}\text{(i) } 6 !=720\\\text{(iii) } { }^{6} \mathrm{C}_{0}=0 \text{ !}\\\text{(ii) } { }^{6} \mathrm{C}_{1}={ }^{6} \mathrm{C}_{5}=6\end{array}[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i,ii
+খ. i,iii
+গ. ii,iii
+ঘ. i,ii,iii
+
+
+Correct Answer: ঘ
+
+Solution:
+i,ii,iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 706478)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-2 x+x^{2}\right)^{4}[/math] এর বিস্তৃতিতে [math]x^2[/math] এর সহগ কত?
+
+Options:
+ক. 28
+খ. 16
+গ. -28
+ঘ. -56
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left\{(x-1)^{2}\right\}^{4}=(x-1)^{8}[/math]
+মনে করি, বিস্তৃটির [math](r+1)[/math]
+ তম পদে [math]x^2[/math]
+ এর সহগ রয়েছে।[math]\therefore \ (r+1)[/math]
+ তম পদ [math]={ }^{8} C_{r}(x)^{8-r} \cdot(-1)^{r}[/math]
+যেহেতু এই পদে [math]x^2[/math]
+ এর সহগ রয়েছে। [math]\therefore x^{8-r}=x^{2}[/math]
+ [math]\Rightarrow 8-r=2 \Rightarrow r=6 \therefore[/math]
+ সহগ [math]{ }^{8} \mathrm{C}_{6}=28[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 706479)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(p^{2}-2 p+1\right)^{5}[/math]এর বিস্তৃতির পদসংখ্যা কত?
+
+Options:
+ক. [math]5[/math]
+খ. [math]6[/math]
+গ. [math]10[/math]
+ঘ. [math]11[/math]
+
+
+Correct Answer: D.[math]11[/math]
+
+Solution:
+[math]\left(p^{2}-2 p+1\right)^{5}=\left\{(p-1)^{2}\right\}^{5}[/math]
+ [math]=(p-1)^{10} \therefore[/math]
+ পদসংখ্যা [math]=10+1=11[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 706480)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math](1+2 y)^{4}[/math]এর বিস্তৃতিতে [math]y^2[/math] এর সহগ —
+
+Options:
+ক. [math]12[/math]
+খ. [math]16[/math]
+গ. [math]24[/math]
+ঘ. [math]32[/math]
+
+
+Correct Answer: C.[math]24[/math]
+
+Solution:
+[math](1+2 y)^{4}=1+\left(\begin{array}{l} 4 \\ 1 \end{array}\right)(2 y)^{1}+\left(\begin{array}{l} 4 \\ 2 \end{array}\right)[/math]
+ [math](2 y)^{2}+\cdots \therefore y^{2}[/math]
+ এর সহগ [math]=4 \times \frac{4.3}{1.2}=24[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 706483)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x^{2}}{4}\right)^{8}[/math] এর বিস্তৃতির [math]x^3[/math] এর সহগ কত?
+
+Options:
+ক. [math]-2[/math]
+খ. [math]-\frac{7}{4}[/math]
+গ. [math]-\frac{7}{8}[/math]
+ঘ. [math]0[/math]
+
+
+Correct Answer: D.[math]0[/math]
+
+Solution:
+প্রদত্ত রাশি [math]= (1 - X)[/math]
+ এর বিস্তৃতিতে [math]x[/math]
+ এর জোড়ঘাতগুলো বর্তমান, বিজোড় ঘাত থাকবে না। অর্থাৎ, [math]x^3[/math]
+ এর সহগ [math]0[/math]
+.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 706485)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1+\frac{x^{2}}{4}\right)^{6}[/math]এর বিস্তৃতির নিচের কোনটি [math]x^2[/math] এর সহগ?
+
+Options:
+ক. [math]0[/math]
+খ. [math]\frac{3}{2}[/math]
+গ. [math]2[/math]
+ঘ. [math]14[/math]
+
+
+Correct Answer: B.[math]\frac{3}{2}[/math]
+
+Solution:
+[math]\left(1+\frac{x^{2}}{4}\right)^{6}=1^{6}+\left(\begin{array}{l} 6 \\ 1 \end{array}\right)\left(\frac{x^{2}}{4}\right)^{1}+\cdots[/math]
+ [math]\therefore \ x^2[/math]
+ এর সহগ [math]=6 \cdot \frac{1}{4}=\frac{3}{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 706486)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math]\left(1+\frac{2}{M}\right)^{9}[/math] ও [math]\left(1-\frac{y^{2}}{4}\right)^{8}[/math] দুইটি দ্বিপদী রাশি
+
+প্রথম দ্বিপদীটির পঞ্চম পদ কত?
+
+Options:
+ক. [math]\frac{2016}{M^{4}}[/math]
+খ. [math]\frac{2048}{M^{4}}[/math]
+গ. [math]\frac{2016}{M^{5}}[/math]
+ঘ. [math]\frac{4032}{M^{5}}[/math]
+
+
+Correct Answer: A.[math]\frac{2016}{M^{4}}[/math]
+
+Solution:
+৫ম পদ [math]=\mathrm{T}_{4+1}=\left(\begin{array}{l} 9 \\ 4 \end{array}\right)(1)^{9-4}\left(\frac{2}{\mathrm{M}}\right)^{4}[/math]
+ [math]=\frac{98.7 .6}{1.2 .34} \cdot \frac{2^{4}}{M^{4}}=\frac{2016}{M^{4}}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 706487)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+[math]\left(1+\frac{2}{M}\right)^{9}[/math] ও [math]\left(1-\frac{y^{2}}{4}\right)^{8}[/math] দুইটি দ্বিপদি রাশি।
+
+দ্বিতীয় দ্বিপদীটির [math]y^3[/math]এর সহগ কত?
+
+Options:
+ক. [math]\frac{7}{4}[/math]
+খ. [math]0[/math]
+গ. [math]-\frac{7}{8}[/math]
+ঘ. [math]-2[/math]
+
+
+Correct Answer: B.[math]0[/math]
+
+Solution:
+[math]\left(1-\frac{y^{2}}{4}\right)^{8}=1^{8}+\left(\begin{array}{l} 8 \\ 1 \end{array}\right)(1)^{7}\left(\frac{-y^{2}}{4}\right)^{1}[/math]
+ [math]+\left(\begin{array}{l} 8 \\ 2 \end{array}\right)\left(1^{6}\right)\left(-\frac{y^{2}}{4}\right)^{2}+\cdots[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 706488)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math](1+x)^{5}[/math]এর বিস্তৃতিতে পদের সংখ্যা কয়টি?
+
+Options:
+ক. 4
+খ. 5
+গ. 6
+ঘ. 7
+
+
+Correct Answer: গ
+
+Solution:
+পদসংখ্যা [math]=n+1=5+1=6[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 706489)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও :
+
+[math]\left(p^{3}+\frac{1}{p^{3}}\right)^{2 n}[/math]; যেখানে [math]n[/math] একটি ধনাত্মক পূর্ণসংখ্যা।
+
+প্রদত্ত বিস্তৃতির পদসংখ্যা নিচের কোনটি?
+
+Options:
+ক. [math]2n-1[/math]
+খ. [math]2n[/math]
+গ. [math]2n+1[/math]
+ঘ. [math]2n+6[/math]
+
+
+Correct Answer: C.[math]2n+1[/math]
+
+Solution:
+পদসংখ্যা [math]=2n+1[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 706490)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও :
+
+[math]\left(p^{3}+\frac{1}{p^{3}}\right)^{2 n}[/math]যেখানে [math]n[/math] একটি ধনাত্নক পূর্ণসংখ্যা।
+
+যদি [math]n = 2[/math] হয় তাহলে প্রদত্ত বিস্তৃতির [math]p[/math] মুক্ত পদের মান কোনটি?
+
+Options:
+ক. [math]6[/math]
+খ. [math]12[/math]
+গ. [math]24[/math]
+ঘ. [math]2[/math]
+
+
+Correct Answer: A.[math]6[/math]
+
+Solution:
+[math]T_{r+1}={ }^{2 n} C_{r}\left(p^{3}\right)^{2 n-r}\left(\frac{1}{p^{3}}\right)^{r}[/math]
+ [math]={ }^{2 n} C_{r} p^{6 n-3 r-3 r}={ }^{2 n} C_{r} p^{6 n-6 r}[/math]
+ [math]n=2[/math]
+ হলে [math]\mathrm{T}_{\mathrm{r}+1}={ }^{4} \mathrm{C}_{\mathrm{r}} \mathrm{p}^{12-6 \mathrm{r}} ; 6 \mathrm{r}-12=0[/math]
+ হলে[math]p[/math]
+ মুক্ত পদ হবে, [math]r=2 \quad p[/math]
+ মুক্ত পদ [math]={ }^{4} C_{2}=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 706491)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(y^{2}+\frac{1}{y^{2}}\right)^{4}[/math] এর বিস্তৃতিতে [math]y[/math] বর্জিত পদের মান কত?
+
+Options:
+ক. 2
+খ. 4
+গ. 6
+ঘ. 8
+
+
+Correct Answer: গ
+
+Solution:
+বিস্তৃতিতে [math]T_{r+1}={ }^{4} C_{r} y^{8-2 r} \cdot y^{-2 r}[/math]
+ [math]={ }^{4} C_{r} y^{8-4 r}[/math]
+ এখন, [math]y^{8-4 r}=y^{0} \Rightarrow 8-4 r=0[/math]
+ [math]\Rightarrow r=2 \therefore y[/math]
+ বর্জিত পদ [math]={ }^{4} C_{2}=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 706492)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](1-2 y)^{4}[/math]এর বিস্তৃতিতে [math]y^3[/math] এর সহগ কত?
+
+Options:
+ক. -32
+খ. -8
+গ. 16
+ঘ. 32
+
+
+Correct Answer: ক
+
+Solution:
+[math](1-2 y)^{4}=1+{ }^{4} C_{1}(-2 y)^{1}+{ }^{4} C_{2}(-2 y)^{2}+{ }^{4} C_{3}(-2 y)^{3}+\cdots[/math]
+ [math]\therefore \ y^3[/math]
+ এর সহগ [math]=-32[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 706493)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(p-\frac{y}{3}\right)^{7}[/math]এর বিস্তৃতিতে [math]p^5[/math] এর সহগ কত?
+
+Options:
+ক. [math]\frac{-7 y}{3}[/math]
+খ. [math]\frac{-7 y^{2}}{3}[/math]
+গ. [math]\frac{7 y}{3}[/math]
+ঘ. [math]\frac{7 y^2}{3}[/math]
+
+
+Correct Answer: D.[math]\frac{7 y^2}{3}[/math]
+
+Solution:
+[math]\left(p-\frac{y}{3}\right)^{7} \Rightarrow T_{r+1}={ }^{7} C_{r} p^{7-r} \cdot\left(-\frac{y}{3}\right)^{r}[/math]
+ [math]p^5[/math]
+ হলে [math]7-r=5 \Rightarrow r=2[/math]
+ [math]\therefore \mathrm{T}_{2+1}={ }^{7} \mathrm{C}_{2} \times \frac{y^{2}}{9} \times \mathrm{p}^{5}=\frac{7}{3} y^{2} \mathrm{p}^{5} \therefore[/math]
+ সহগ [math]=\frac{7}{3} y^{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 706494)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math](1-6 x)^{6}[/math]এর বিস্তৃতিতে x এর সহগ–
+
+Options:
+ক. [math]-36[/math]
+খ. [math]-18[/math]
+গ. [math]6[/math]
+ঘ. [math]135[/math]
+
+
+Correct Answer: A.[math]-36[/math]
+
+Solution:
+[math](1-6 x)^{6}=1-6.6 x+\cdots[/math]
+ [math]=1-36 x+\cdots[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 706495)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: MB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(h+\frac{1}{h^{2}}\right)^{6}[/math]এর বিস্তৃতিতে কততম পদ [math]h[/math] বর্জিত?
+
+Options:
+ক. ২য়
+খ. ৩য়
+গ. ৪র্থ
+ঘ. ৭ম
+
+
+Correct Answer: খ
+
+Solution:
+[math]T_{r+1}=\left(\begin{array}{l} 6 \\ r \end{array}\right) h^{6-r}\left(\frac{1}{h^{2}}\right)^{r}[/math]
+ [math]=\left(\begin{array}{l} 6 \\ r \end{array}\right) h^{6-3 r} \therefore 6-3 r=0 \Rightarrow r=2[/math]
+ [math]\therefore(r+1)[/math]
+ তম পদ [math]=(2+1)[/math]
+ তম পদ = ৩য় পদ
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 706496)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(y+\frac{1}{y}\right)^{4}[/math] বিস্তৃতিতে [math]y[/math] বর্জিত পদ কোনটি?
+
+Options:
+ক. 10
+খ. 6
+গ. 4
+ঘ. 1
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left(y+\frac{1}{y}\right)^{4}[/math]
+ এর বিস্তৃতি করে[math]=y^{4}+{ }^{4} C_{1} \cdot y^{3} \cdot \frac{1}{y}+{ }^{4} C_{2} y^{2} \cdot \frac{1}{y^{2}}+{ }^{4} C_{3} y^{1} \cdot \frac{1}{y^{3}}+{ }^{4} C_{4} y^{0} \frac{1}{y^{4}}[/math]
+ [math]\therefore \ y[/math]
+ বর্জিত পদের মান [math]{ }^{4} C_{2}=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 706497)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{10} \mathrm{C}_{4}=[/math]কত?
+
+Options:
+A. 210
+B. 1260
+C. 3150
+D. 30240
+
+
+Correct Answer: ক
+
+Solution:
+[math]{ }^{10} C_{4}=\frac{10 !}{4 !(10-4) !}=\frac{10 !}{4 ! 6 !}=\frac{10.9 .8 .7 .6 !}{4 ! 6 !}[/math]
+ [math]=\frac{10.9 .8 .7}{4 \cdot 3.2 .1}=5 \times 3 \times 2 \times 7=210[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 706498)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{a}{4}\right)^{6}[/math]এর বিস্তৃতিতে [math]x^3[/math] এর সহগ [math]–540[/math] হলে [math]a[/math] এর মান কত?
+
+Options:
+ক. [math]-12[/math]
+খ. [math]-6[/math]
+গ. [math]6[/math]
+ঘ. [math]12[/math]
+
+
+Correct Answer: D.[math]12[/math]
+
+Solution:
+[math]{ }^{6} C_{3} a^{3}\left(\frac{-1}{4}\right)^{3}=20 \times\left(-\frac{1}{64}\right) \times a^{3}[/math]
+ [math]=-540 \Rightarrow a^{3}=1728 \Rightarrow a=12[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 706499)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x+\frac{a}{x}\right)^{8}[/math]এর বিস্তৃতিতে পদ কতটি?
+
+Options:
+ক. 2
+খ. 4
+গ. 8
+ঘ. 9
+
+
+Correct Answer: ঘ
+
+Solution:
+9
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 706500)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Jhenaidah Cadet College, Jhenaidah
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math](1-3 x)^{n}[/math] এর বিস্তৃতিতে Pascal এর ত্রিভুজ—
+
+
+[Image]
+
+
+প্যাসকেল ত্রিভুজ অনুসারে [math]n[/math] এর মান কত?
+
+Options:
+ক. 4
+খ. 5
+গ. 6
+ঘ. 10
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 706411)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2-\frac{x^{2}}{3}\right)^{7}[/math] এর বিস্তৃতিতে x মুক্ত পদের মান কত?
+
+Options:
+ক. [math]\frac{1}{2187}[/math]
+খ. 128
+গ. [math]\frac{448}{3}[/math]
+ঘ. 2187
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left(2-\frac{x^{2}}{3}\right)^{7}[/math]
+ এর বিস্তৃতিতে [math]x[/math]
+ মুক্ত পদের মান নির্ণয় করতে হবে।দ্বিপদী উপপাদ্য অনুযায়ী, [math](a+b)^n[/math]
+ এর বিস্তৃতিতে সাধারণ পদটি হলো [math]T_{r+1} = \binom{n}{r} a^{n-r} b^r[/math]
+.এখানে, [math]a=2[/math]
+, [math]b=-\frac{x^2}{3}[/math]
+, এবং [math]n=7[/math]
+.সুতরাং, বিস্তৃতিতে সাধারণ পদটি হলো:[math]T_{r+1} = \binom{7}{r} (2)^{7-r} \left(-\frac{x^2}{3}\right)^r[/math]
+ [math]T_{r+1} = \binom{7}{r} 2^{7-r} (-1)^r \left(\frac{1}{3}\right)^r (x^2)^r[/math]
+ [math]T_{r+1} = \binom{7}{r} 2^{7-r} (-1)^r \frac{1}{3^r} x^{2r}[/math]
+ [math]x[/math]
+ মুক্ত পদের জন্য, [math]x[/math]
+ এর ঘাত শূন্য হতে হবে, অর্থাৎ [math]2r = 0[/math]
+.এখান থেকে আমরা পাই [math]r = 0[/math]
+.এখন, [math]r=0[/math]
+ বসিয়ে [math]x[/math]
+ মুক্ত পদটি নির্ণয় করি:[math]T_{0+1} = T_1 = \binom{7}{0} 2^{7-0} (-1)^0 \frac{1}{3^0} x^{2 \times 0}[/math]
+ [math]T_1 = \binom{7}{0} 2^7 (-1)^0 \frac{1}{1} x^0[/math]
+আমরা জানি, [math]\binom{7}{0} = 1[/math]
+ এবং [math](-1)^0 = 1[/math]
+.সুতরাং, [math]T_1 = 1 \times 2^7 \times 1 \times 1 \times 1[/math]
+ [math]T_1 = 2^7[/math]
+ [math]T_1 = 128[/math]
+তাই, [math]\left(2-\frac{x^{2}}{3}\right)^{7}[/math]
+ এর বিস্তৃতিতে [math]x[/math]
+ মুক্ত পদের মান হলো 128।সঠিক উত্তর হলো 2)।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 706412)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math](a+b)^{5}[/math] এর বিস্তৃতিতে দ্বিপদী সহগগুলো হল-
+
+Options:
+ক. 1,5,10,5, 1
+খ. 1.5, 5, 10, 1
+গ. 1,5,5,10, 10, 1
+ঘ. 1, 5, 10, 10, 5, 1
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](a+b)^{5}[/math]
+ এর বিস্তৃতিতে দ্বিপদী সহগগুলো নির্ণয় করার জন্য আমরা দ্বিপদী উপপাদ্য ব্যবহার করি। দ্বিপদী উপপাদ্য অনুসারে, [math](x+y)^n[/math]
+ এর বিস্তৃতিতে পদগুলো হলো [math]{^n}C_0 x^n y^0 + {^n}C_1 x^{n-1} y^1 + {^n}C_2 x^{n-2} y^2 + \dots + {^n}C_n x^0 y^n[/math]
+।এখানে, [math]x=a[/math]
+, [math]y=b[/math]
+ এবং [math]n=5[/math]
+।সুতরাং, [math](a+b)^{5}[/math]
+ এর বিস্তৃতি হবে:[math]{^5}C_0 a^5 b^0 + {^5}C_1 a^4 b^1 + {^5}C_2 a^3 b^2 + {^5}C_3 a^2 b^3 + {^5}C_4 a^1 b^4 + {^5}C_5 a^0 b^5[/math]
+এখন আমরা এই সহগগুলোর মান গণনা করব:[math]{^5}C_0 = \frac{5!}{0!(5-0)!} = \frac{5!}{1 \times 5!} = 1[/math]
+ [math]{^5}C_1 = \frac{5!}{1!(5-1)!} = \frac{5!}{1 \times 4!} = 5[/math]
+ [math]{^5}C_2 = \frac{5!}{2!(5-2)!} = \frac{5!}{2! \times 3!} = \frac{5 \times 4}{2 \times 1} = 10[/math]
+ [math]{^5}C_3 = \frac{5!}{3!(5-3)!} = \frac{5!}{3! \times 2!} = \frac{5 \times 4}{2 \times 1} = 10[/math]
+ [math]{^5}C_4 = \frac{5!}{4!(5-4)!} = \frac{5!}{4! \times 1!} = 5[/math]
+ [math]{^5}C_5 = \frac{5!}{5!(5-5)!} = \frac{5!}{5! \times 0!} = 1[/math]
+সুতরাং, [math](a+b)^{5}[/math]
+ এর বিস্তৃতিতে দ্বিপদী সহগগুলো হলো 1, 5, 10, 10, 5, 1।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 706413)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: MB
+--------------------------------------------------------------------------------
+Question:
+[math](1-5x)^4[/math] বিস্তৃতিতে-i. x এর সহগ 20
+
+ii. পদ সংখ্যা 5 টি
+
+iii. মধ্যপদ [math]150x^2[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+[math](1-5x)^4[/math]
+ এর বিস্তৃতি নির্ণয় করি। দ্বিপদী উপপাদ্য অনুসারে, [math](a+b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k[/math]
+.এখানে [math]a=1[/math]
+, [math]b=-5x[/math]
+, এবং [math]n=4[/math]
+.বিস্তৃতিটি হলো:[math]\binom{4}{0}(1)^4(-5x)^0 + \binom{4}{1}(1)^3(-5x)^1 + \binom{4}{2}(1)^2(-5x)^2 + \binom{4}{3}(1)^1(-5x)^3 + \binom{4}{4}(1)^0(-5x)^4[/math]
+iii. মধ্যপদ নির্ণয়:যেহেতু [math]n=4[/math]
+ (একটি জোড় সংখ্যা), মধ্যপদ হবে [math](n/2 + 1)[/math]
+ তম পদ, অর্থাৎ [math](4/2 + 1) = 3[/math]
+ তম পদ।তৃতীয় পদটি হলো: [math]\binom{4}{2}(1)^2(-5x)^2 = 6 \times 1 \times (25x^2) = 150x^2[/math]
+.সুতরাং, মধ্যপদ [math]150x^2[/math]
+ । এই বিবৃতিটি সঠিক।i. x এর সহগ নির্ণয়:x এর সহগ হলো দ্বিতীয় পদটির সহগ, অর্থাৎ [math]k=1[/math]
+ এর জন্য পদ।দ্বিতীয় পদটি হলো: [math]\binom{4}{1}(1)^3(-5x)^1 = 4 \times 1 \times (-5x) = -20x[/math]
+.সুতরাং, x এর সহগ হলো -20। বিবৃতি i (x এর সহগ 20) সঠিক নয়।ii. পদ সংখ্যা নির্ণয়:[math](1-5x)^4[/math]
+ এর বিস্তৃতিতে পদ সংখ্যা হবে [math]n+1 = 4+1 = 5[/math]
+ টি।এই বিবৃতিটি সঠিক।সুতরাং, বিবৃতি ii এবং iii সঠিক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 706414)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: MB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-\frac{1}{x^{3}}\right)^{5}[/math] এর বিস্তৃতিতে কত তম পদ x বর্জিত?
+
+Options:
+ক. দ্বিতীয়
+খ. তৃতীয়
+গ. চতুর্থ
+ঘ. পঞ্চম
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left(x^{2}-\frac{1}{x^{3}}\right)^{5}[/math]
+ এর বিস্তৃতিতে [math]r+1[/math]
+ তম পদটি হলো [math]{^{n}C_{r}} a^{n-r} b^{r}[/math]
+ আকারের।এখানে [math]n=5[/math]
+, [math]a=x^{2}[/math]
+ এবং [math]b=-\frac{1}{x^{3}} = -x^{-3}[/math]
+।সুতরাং, [math]r+1[/math]
+ তম পদটি হবে [math]{^{5}C_{r}} (x^{2})^{5-r} (-x^{-3})^{r}[/math]
+ [math]= {^{5}C_{r}} x^{2(5-r)} (-1)^{r} x^{-3r}[/math]
+ [math]= {^{5}C_{r}} (-1)^{r} x^{10-2r-3r}[/math]
+ [math]= {^{5}C_{r}} (-1)^{r} x^{10-5r}[/math]
+পদটি x বর্জিত হবে যখন [math]x[/math]
+ এর ঘাত শূন্য হবে।অতএব, [math]10-5r = 0[/math]
+ [math]5r = 10[/math]
+ [math]r = 2[/math]
+যখন [math]r=2[/math]
+, তখন পদটি হবে [math]r+1 = 2+1 = 3[/math]
+ তম পদ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 706415)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+তথ্যের আলোকে প্রশ্নের উত্তর দাও
+
+যখন, [math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+
+A এর বিস্তৃতিতে পদ সংখ্যা কত?
+
+Options:
+ক. 12
+খ. 7
+গ. 6
+ঘ. 2
+
+
+Correct Answer: খ
+
+Solution:
+[math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+ একটি দ্বিপদী রাশির বিস্তৃতি। একটি দ্বিপদী রাশি [math](a+b)^n[/math]
+ এর বিস্তৃতিতে পদ সংখ্যা হয় [math]n+1[/math]
+ টি। এখানে [math]n=6[/math]
+। সুতরাং, [math]A[/math]
+ এর বিস্তৃতিতে পদ সংখ্যা হবে [math]6+1 = 7[/math]
+।সুতরাং, সঠিক বিকল্প হলো 7।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 706416)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+তথ্যের আলোকে প্রশ্নের উত্তর দাও
+
+যখন, [math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+
+A এর বিস্তৃতিতে x বর্জিত পদ কত?
+
+Options:
+ক. 15
+খ. 18
+গ. 45
+ঘ. 135
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]A=\left(x-\frac{3}{x^{2}}\right)^{6}[/math]
+ এর বিস্তৃতিতে x বর্জিত পদ বের করতে হবে।দ্বিপদী উপপাদ্য অনুসারে, [math](a+b)^n[/math]
+ এর বিস্তৃতিতে [math](r+1)[/math]
+ তম পদটি হলো [math]T_{r+1} = \binom{n}{r} a^{n-r} b^r[/math]
+.এখানে, [math]a = x[/math]
+, [math]b = -\frac{3}{x^2}[/math]
+, এবং [math]n = 6[/math]
+.সুতরাং, বিস্তৃতিতে [math](r+1)[/math]
+ তম পদটি হলো:[math]T_{r+1} = \binom{6}{r} (x)^{6-r} \left(-\frac{3}{x^2}\right)^r[/math]
+ [math]T_{r+1} = \binom{6}{r} x^{6-r} (-3)^r \left(\frac{1}{x^2}\right)^r[/math]
+ [math]T_{r+1} = \binom{6}{r} x^{6-r} (-3)^r x^{-2r}[/math]
+ [math]T_{r+1} = \binom{6}{r} (-3)^r x^{6-r-2r}[/math]
+ [math]T_{r+1} = \binom{6}{r} (-3)^r x^{6-3r}[/math]
+x বর্জিত পদ পেতে হলে, x এর ঘাত শূন্য হতে হবে। অর্থাৎ, [math]6-3r = 0[/math]
+.এই সমীকরণটি সমাধান করলে পাই:[math]6 = 3r[/math]
+ [math]r = \frac{6}{3}[/math]
+ [math]r = 2[/math]
+এখন, [math]r=2[/math]
+ মানটি [math]T_{r+1}[/math]
+ এর সূত্রে বসাই। এখানে [math](r+1)[/math]
+ তম পদ মানে [math](2+1) = 3[/math]
+ তম পদ।[math]T_{2+1} = T_3 = \binom{6}{2} (-3)^2 x^{6-3(2)}[/math]
+ [math]T_3 = \binom{6}{2} (-3)^2 x^{6-6}[/math]
+ [math]T_3 = \binom{6}{2} (9) x^0[/math]
+ [math]T_3 = \binom{6}{2} \times 9[/math]
+ [math]\binom{6}{2}[/math]
+ এর মান হলো:[math]\binom{6}{2} = \frac{6!}{2!(6-2)!} = \frac{6!}{2!4!} = \frac{6 \times 5}{2 \times 1} = 15[/math]
+সুতরাং, x বর্জিত পদটি হলো:[math]T_3 = 15 \times 9 = 135[/math]
+অতএব, A এর বিস্তৃতিতে x বর্জিত পদ হলো 135।The final answer is [math]\boxed{135}[/math]
+.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 706417)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-\frac{2}{x^{3}}\right)^{5}[/math] এর বিস্তৃতিতে x বর্জিত পদের মান কত?
+
+Options:
+ক. -40
+খ. -10
+গ. 10
+ঘ. 40
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left(x^{2}-\frac{2}{x^{3}}\right)^{5}[/math]
+ এর বিস্তৃতিতে সাধারণ পদটি হলো [math]^nC_r (a)^{n-r} (b)^r[/math]
+.এখানে, [math]n=5[/math]
+, [math]a=x^2[/math]
+, এবং [math]b=-\frac{2}{x^3}[/math]
+.সুতরাং, সাধারণ পদটি হলো [math]^5C_r (x^2)^{5-r} (-\frac{2}{x^3})^r[/math]
+.এই পদটিকে আমরা লিখতে পারি [math]^5C_r x^{2(5-r)} (-2)^r x^{-3r}[/math]
+.অর্থাৎ, [math]^5C_r (-2)^r x^{10-2r-3r}[/math]
+ বা [math]^5C_r (-2)^r x^{10-5r}[/math]
+.x বর্জিত পদের জন্য [math]x[/math]
+ এর ঘাত শূন্য হতে হবে।সুতরাং, [math]10-5r = 0[/math]
+.এখান থেকে আমরা পাই [math]5r = 10[/math]
+, অর্থাৎ [math]r = 2[/math]
+.এখন আমরা [math]r=2[/math]
+ মানটি সাধারণ পদে বসিয়ে x বর্জিত পদের মান বের করব।পদটি হবে [math]^5C_2 (-2)^2 x^{10-5(2)}[/math]
+.[math]^5C_2 = \frac{5!}{2!(5-2)!} = \frac{5!}{2!3!} = \frac{5 \times 4}{2 \times 1} = 10[/math]
+.[math](-2)^2 = 4[/math]
+.সুতরাং, x বর্জিত পদটি হলো [math]10 \times 4 \times x^0 = 40[/math]
+.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 706418)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+nC2 এর মান নিচের কোনটি?
+
+Options:
+ক. [math]\frac{n-1}{2!}[/math]
+খ. [math]\frac{n(n-1)(n-2)}{3!}[/math]
+গ. [math]\frac{n(n-1)}{2}[/math]
+ঘ. n(n-1)
+
+
+Correct Answer: গ
+
+Solution:
+nC2 মানে হলো n সংখ্যক বস্তু থেকে 2টি বস্তু কতভাবে নির্বাচন করা যায়। এর সূত্র হলো [math]\frac{n!}{2!(n-2)!}[/math]
+ ।এখন, [math]n! = n \times (n-1) \times (n-2) \times ... \times 1[/math]
+এবং [math](n-2)! = (n-2) \times (n-3) \times ... \times 1[/math]
+সুতরাং, [math]\frac{n!}{2!(n-2)!} = \frac{n \times (n-1) \times (n-2)!}{2 \times 1 \times (n-2)!}[/math]
+এখানে, [math](n-2)![/math]
+ উপর ও নিচে কেটে যায়।তাহলে আমরা পাই [math]\frac{n \times (n-1)}{2}[/math]
+ ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 706419)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](1-2x+x^{2})^{3}[/math] এর বিস্তৃতিতে [math]x^3[/math] এর সহগ কত?
+
+Options:
+ক. -20
+খ. -15
+গ. 15
+ঘ. 20
+
+
+Correct Answer: ক
+
+Solution:
+[math](1-2x+x^2)^3[/math]
+ কে [math](1-x)^6[/math]
+ হিসাবে লেখা যায়।[math](1-x)^6[/math]
+ এর বিস্তৃতি হলো [math]C(6,0)1^6(-x)^0 + C(6,1)1^5(-x)^1 + C(6,2)1^4(-x)^2 + C(6,3)1^3(-x)^3 + \dots[/math]
+ [math]x^3[/math]
+ এর সহগ হবে [math]C(6,3) (-1)^3[/math]
+ [math]C(6,3) = \frac{6!}{3!(6-3)!} = \frac{6!}{3!3!} = \frac{6 \times 5 \times 4}{3 \times 2 \times 1} = 20[/math]
+সুতরাং, [math]x^3[/math]
+ এর সহগ হবে [math]20 \times (-1)^3 = 20 \times (-1) = -20[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 706420)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math](1+3x+3x^{2}+x^{3})^{7}[/math] এর বিস্তৃতিতে পদসংখ্যা কত?
+
+Options:
+ক. 7
+খ. 8
+গ. 21
+ঘ. 22
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](1+3x+3x^{2}+x^{3})^{7}[/math]
+ কে [math](1+x)^{3 \times 7}[/math]
+ বা [math](1+x)^{21}[/math]
+ আকারে লেখা যায়। [math](1+x)^n[/math]
+-এর বিস্তৃতিতে মোট [math]n+1[/math]
+ সংখ্যক পদ থাকে। সুতরাং, [math](1+x)^{21}[/math]
+-এর বিস্তৃতিতে [math]21+1 = 22[/math]
+ সংখ্যক পদ থাকবে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 706421)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math](1+x)^{5}[/math] এর বিস্তৃতিতে দ্বি-পদী সহগগুলোর সমষ্টি কত?
+
+Options:
+ক. 30
+খ. 31
+গ. 32
+ঘ. 36
+
+
+Correct Answer: গ
+
+Solution:
+[math](1+x)^{5}[/math]
+ এর বিস্তৃতি হলো [math]^5C_0 + ^5C_1 x + ^5C_2 x^2 + ^5C_3 x^3 + ^5C_4 x^4 + ^5C_5 x^5[/math]
+ ।এখানে দ্বি-পদী সহগগুলো হলো [math]^5C_0, ^5C_1, ^5C_2, ^5C_3, ^5C_4, ^5C_5[/math]
+ ।এই সহগগুলোর সমষ্টি পেতে হলে, আমরা বিস্তৃতির রাশিটিতে [math]x=1[/math]
+ বসাতে পারি।সুতরাং, [math](1+1)^{5} = ^5C_0 + ^5C_1 (1) + ^5C_2 (1)^2 + ^5C_3 (1)^3 + ^5C_4 (1)^4 + ^5C_5 (1)^5[/math]
+ [math]2^{5} = ^5C_0 + ^5C_1 + ^5C_2 + ^5C_3 + ^5C_4 + ^5C_5[/math]
+ [math]2^{5} = 32[/math]
+অতএব, [math](1+x)^{5}[/math]
+ এর বিস্তৃতিতে দ্বি-পদী সহগগুলোর সমষ্টি হলো 32।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 706422)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2x+\frac{1}{x}\right)^{6}[/math] এর বিস্তৃতিতে-
+
+i. পদসংখ্যা 7
+
+ii. চতুর্থ পদ হলো x মুক্ত
+
+iii. x মুক্ত পদের মান 160
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left(2x+\frac{1}{x}\right)^{6}[/math]
+ এর বিস্তৃতিতে:i. পদসংখ্যা: দ্বিপদী উপপাদ্য অনুসারে [math](a+b)^n[/math]
+ এর বিস্তৃতিতে পদসংখ্যা হয় [math]n+1[/math]
+ । এখানে [math]n=6[/math]
+, তাই পদসংখ্যা [math]6+1=7[/math]
+ । এটি সঠিক।ii. চতুর্থ পদ: সাধারণ পদ হলো [math]{}^{n}C_{r} a^{n-r} b^{r}[/math]
+ । এখানে [math]a=2x[/math]
+, [math]b=\frac{1}{x}[/math]
+ এবং [math]n=6[/math]
+ । চতুর্থ পদ (r=3) হলো [math]{}^{6}C_{3} (2x)^{6-3} \left(\frac{1}{x}\right)^{3} = {}^{6}C_{3} (2x)^{3} \left(\frac{1}{x}\right)^{3} = {}^{6}C_{3} 2^{3} x^{3} \frac{1}{x^{3}} = {}^{6}C_{3} \times 8[/math]
+ । এখানে [math]x^3[/math]
+ এবং [math]\frac{1}{x^3}[/math]
+ কাটাকাটি হওয়ায় পদটি x মুক্ত। এটি সঠিক।iii. x মুক্ত পদের মান: চতুর্থ পদের মান হলো [math]{}^{6}C_{3} \times 8 = \frac{6 \times 5 \times 4}{3 \times 2 \times 1} \times 8 = 20 \times 8 = 160[/math]
+ । এটি সঠিক।যেহেতু i, ii এবং iii সবগুলোই সঠিক, তাই সঠিক বিকল্প হলো 4।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 706423)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math](x^{2}-4x+4)^{2}[/math] এর বিস্তৃতিতে পদসংখ্যা কত?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 5
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](x^{2}-4x+4)^{2}[/math]
+ কে [math](x-2)^{2 \times 2} = (x-2)^4[/math]
+ আকারে লেখা যায়।দ্বিপদী উপপাদ্য অনুযায়ী, [math](a+b)^n[/math]
+ এর বিস্তৃতিতে পদসংখ্যা হয় [math]n+1[/math]
+ টি।এখানে, [math]n=4[/math]
+.সুতরাং, [math](x-2)^4[/math]
+ এর বিস্তৃতিতে পদসংখ্যা হবে [math]4+1 = 5[/math]
+ টি।The final answer is [math]\boxed{5}[/math]
+.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 706424)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{k}{3}\right)^{4}[/math] এর বিস্তৃতিতে [math]x^{3}[/math] এর সহগ -12 হলে এর মান কত?
+
+Options:
+ক. -36
+খ. -9
+গ. 9
+ঘ. 36
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left(x-\frac{k}{3}\right)^{4}[/math]
+ এর বিস্তৃতিতে [math]x^{3}[/math]
+ এর সহগ হলো [math]\binom{4}{1} x^3 \left(-\frac{k}{3}\right)^1 = 4 x^3 \left(-\frac{k}{3}\right) = -\frac{4k}{3} x^3[/math]
+ ।প্রশ্নানুসারে, [math]x^{3}[/math]
+ এর সহগ [math]-12[/math]
+ ।সুতরাং, [math]-\frac{4k}{3} = -12[/math]
+ [math]4k = 3 \times 12[/math]
+ [math]4k = 36[/math]
+ [math]k = \frac{36}{4}[/math]
+ [math]k = 9[/math]
+সঠিক বিকল্প হলো 3।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 706425)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2025 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-\frac{p}{x}\right)^{6}[/math] এর বিস্তৃতিতে মধ্যপদটি [math]540x^{3}[/math] হলে p-এর মান কত?
+
+Options:
+ক. - 27
+খ. -3
+গ. 3
+ঘ. 27
+
+
+Correct Answer: খ
+
+Solution:
+-3
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 706426)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}+6 x+9\right)^{3 n}[/math] এর বিস্তৃতিতে পদসংখ্যা 13 হলে, n এর মান কত?
+
+Options:
+ক. 3
+খ. 2
+গ. 1
+ঘ. -2
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left(x^{2}+6 x+9\right)^{3 n}=\left\{(x+3)^{2}\right\}^{3 n}=(x+3)^{6 n}[/math]
+পদসংখ্যা [math]6n+1=13[/math]
+ বা, [math]6n = 12[/math]
+.: n = 2
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 706427)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{n} C_{3}={ }^{n} C_{4}[/math] হলে n এর মান কোনটি?
+
+Options:
+ক. 6
+খ. 7
+গ. 9
+ঘ. 12
+
+
+Correct Answer: খ
+
+Solution:
+[math]{ }^{n} C_{3}={ }^{n} C_{4}[/math]
+বা, [math]{ }^{n} C_{n-3}={ }^{n} C_{4}[/math]
+বা, [math]n-3=4[/math]
+ [math]\therefore n=7[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 706428)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Bindubasini Govt. Boys' High School, Tangail
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+এর মান কোনটি?
+
+Options:
+A. [math]n[/math]
+B. [math]n-1[/math]
+C. [math]n-2[/math]
+D. [math]n(n-1)[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 706429)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1+\frac{x}{4}\right)^{7}[/math] এর বিস্তৃতিতে [math]x²[/math] এর সহগ কত?
+
+Options:
+ক. [math]\frac{7}{4}[/math]
+খ. [math]\frac{21}{4}[/math]
+গ. [math]\frac{21}{16}[/math]
+ঘ. [math]\frac{35}{64}[/math]
+
+
+Correct Answer: গ
+
+Solution:
+Here's how to find the coefficient of [math]x^2[/math]
+ in the expansion of [math](1 + x^4)^7[/math]
+.### Understanding the Binomial TheoremTo solve this, we'll use the **Binomial Theorem**. The general formula for the expansion of [math](a + b)^n[/math]
+ is:[math](a + b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k[/math]
+where the term containing [math]b^k[/math]
+ is [math]\binom{n}{k} a^{n-k} b^k[/math]
+.---### Finding the CoefficientIn our case, the expression is [math](1 + x^4)^7[/math]
+. Let's identify the parts:* [math]a = 1[/math]
+* [math]b = x^4[/math]
+* [math]n = 7[/math]
+We need to find the term containing [math]x^2[/math]
+. The general term in the expansion is:[math]T_{k+1} = \binom{7}{k} (1)^{7-k} (x^4)^k[/math]
+ [math]T_{k+1} = \binom{7}{k} (1) x^{4k}[/math]
+ [math]T_{k+1} = \binom{7}{k} x^{4k}[/math]
+We want the exponent of [math]x[/math]
+ to be 2. So, we set [math]4k = 2[/math]
+.[math]4k = 2[/math]
+ [math]k = \frac{2}{4}[/math]
+ [math]k = \frac{1}{2}[/math]
+Since [math]k[/math]
+ must be a non-negative integer, and we got a fraction ( [math]1/2[/math]
+), it means there is **no term** with [math]x^2[/math]
+ in the expansion.Therefore, the coefficient of [math]x^2[/math]
+ is **0**.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 706430)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Jamalpur Zila School, Jamalpur
+--------------------------------------------------------------------------------
+Question:
+[math]3 !-0 !=[/math] কত?
+
+Options:
+ক. 2
+খ. 5
+গ. 6
+ঘ. -6
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 706431)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math](1-ax)^6[/math] এর বিস্তৃতিতে [math]x^3[/math] এবং [math]x^4[/math] এর সহগ পরস্পর সমান হলে, a এর মান কত?
+
+Options:
+ক. [math]\frac{4}{3}[/math]
+খ. [math]\frac{3}{4}[/math]
+গ. [math]-\frac{3}{4}[/math]
+ঘ. [math]-\frac{4}{3}[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](1-ax)^6[/math]
+' এর বিস্তৃতিতে (r + 1) তম পদ [math]={ }^{6} C_{r}(-a x)^{r}={ }^{6} C_{r}(-a)^{r} x^{r}[/math]
+r = 3 হলে, [math]x^3[/math]
+ এর সহগ [math]{ }^{6} C_{3}(-a)^{3}=-20 a^{3}[/math]
+r = 4 হলে, [math]x^4[/math]
+ এর সহগ [math]{ }^{6} C_{4}(-a)^{4}=15 a^{4}[/math]
+ [math]\therefore-20 a^{3}=15 a^{4} \therefore a=\frac{-4}{3}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 706432)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Rajshahi Govt. Girl's High School, Rajshahi
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1+\frac{2}{x}\right)^{8}[/math] এর বিস্তৃতিতে শেষ পদের মান [math]1[/math] হলে, [math]x[/math] এর মান কত?
+
+Options:
+ক. 2
+খ. 8
+গ. 16
+ঘ. 256
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 706433)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021, 2021 | Boards:  | Tags: Qadirabad Cantonment Public School, Natore QCPS, BEPZA Public School & College, Chattogram EPZ
+--------------------------------------------------------------------------------
+Question:
+[math]0 !=[/math] কত?
+
+Options:
+ক. 0
+খ. -1
+গ. 1
+ঘ. 2
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 706434)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x}{2}\right)^{4}[/math] এর বিস্তৃতির ৩য় পদ কোনটি?
+
+Options:
+ক. [math]-\frac{x^{3}}{2}[/math]
+খ. [math]-\frac{3 x^{2}}{2}[/math]
+গ. [math]\frac{3 x^{2}}{2}[/math]
+ঘ. [math]\frac{x^{3}}{2}[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left(1-\frac{x}{2}\right)^{4}[/math]
+ এর বিস্তৃতিতে ৩য় পদ বা (2+1) তম পদ [math]={ }^{4} C_{2}\left(-\frac{x}{2}\right)^{2}[/math]
+ [math]=6 \times \frac{x^{2}}{4}=\frac{3 x^{2}}{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 706435)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}+\frac{1}{x}\right)^{6}[/math] এর বিস্তৃতিতে x মুক্ত পদ কোনটি?
+
+Options:
+ক. 7
+খ. 12
+গ. 15
+ঘ. 20
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left(x^{2}+\frac{1}{x}\right)^{6}[/math]
+ এর বিস্তৃতিতে r + 1 তম পদ [math]\mathrm{T}_{\mathrm{r}+1} \doteq{ }^{6} \mathrm{C}_{\mathrm{r}}\left(\mathrm{x}^{2}\right)^{6-\mathrm{r}}\left(\frac{1}{\mathrm{x}}\right)^{r}[/math]
+ [math]={ }^{6} \mathrm{C}_{\mathrm{r}} \mathrm{X}^{12-3 \mathrm{r}}[/math]
+x বর্জিত পদের জন্য, [math]12-3 r=0 \quad \therefore r=4[/math]
+.:. x বর্জিত পদ [math]={ }^{6} \mathrm{C}_{4}=15[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 706436)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Pabna Zilla School, Pabna
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1+\frac{1}{3}\right)^{n}[/math] এর বিস্তৃতিতে ২য় পদের মান ৩য় পদের দ্বিগুণের সমান হলে [math]n[/math] এর মান কত?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 6
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 706437)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x^{2}}{3}\right)^{6}[/math] এর বিস্তৃতিতে x বর্জিত পদের মান কত?
+
+Options:
+ক. [math]-\frac{1}{3}[/math]
+খ. [math]\frac{1}{3}[/math]
+গ. [math]1[/math]
+ঘ. [math]6[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]1[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 706438)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Joypurhat Govt Girls High School, Joypurhat
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2-\frac{x}{2}\right)^{7}=(1.995)^{7}[/math] হলে, [math]x=[/math] কত?
+
+Options:
+A. .01
+B. .02
+C. 3.99
+D. 1.995
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 706439)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 x^{2}-\frac{1}{2 x^{3}}\right)^{10}[/math] এর বিস্তৃতিতে বর্জিত পদটি কততম?
+
+Options:
+ক. 3 তম
+খ. 4 তম
+গ. 5 তম
+ঘ. 6 তম
+
+
+Correct Answer: গ
+
+Solution:
+ধরি, (r + 1) তম পদ x বর্জিত পদ। (r + 1) তম পদ [math]={ }^{10} \mathrm{C}_{\mathrm{r}}\left(2 \mathrm{x}^{2}\right)^{10-\mathrm{r}} \times\left(-\frac{1}{2 \mathrm{x}^{3}}\right)^{r}[/math]
+ [math]={ }^{10} \mathrm{C}_{\mathrm{r}} 2^{10-\mathrm{r}} \mathrm{x}^{20-2 \mathrm{r}}(-1)^{r} 2^{-r} \mathrm{x}^{-3 \mathrm{r}}={ }^{10} \mathrm{C}_{\mathrm{r}} 2^{10-2 \mathrm{r}}(-1)^{r} \mathrm{x}^{20-5 \mathrm{r}}[/math]
+প্রশ্নমতে[math]20-5 r=0 \Longrightarrow 5 \mathrm{r}=20 \therefore r=4[/math]
+.:. (4+1) বা, 5তম পদটি x বর্জিত পদ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 706440)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Police Lines School and College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-2 y+y^{2}\right)^{n}[/math] এর বিস্তৃতিতে পদসংখ্যা [math]7[/math] হলে, [math]n[/math] এর মান কত?
+
+Options:
+ক. 3
+খ. 5
+গ. 6
+ঘ. 7
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 706441)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Govt. Laboratory High School And College
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{5} C_{3} \times{ }^{8} C_{4}=[/math] কত?
+
+Options:
+A. 70
+B. 100
+C. 750
+D. 700
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 706442)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{1}{2 x}\right)^{6}[/math] এর বিস্তৃতিতে মধ্যপদ কোনটি?
+
+Options:
+ক. [math]-\frac{1}{8}[/math]
+খ. [math]-\frac{5}{2}[/math]
+গ. [math]\frac{1}{8}[/math]
+ঘ. [math]\frac{5}{2}[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]-\frac{5}{2}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 706443)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Jalalabad Cantonment Public School And College, Sylhet
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1+\frac{1}{x^{2}}\right)^{7}[/math] এর [math]x[/math] বর্জিত পদের মান কত?
+
+Options:
+ক. 1
+খ. 6
+গ. 7
+ঘ. 12
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 706444)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{1}{x^{2}}\right)^{4}[/math] এর বিস্তৃতিতে মধ্যপদ কোনটি?
+
+Options:
+ক. [math]\frac{6}{x^{2}}[/math]
+খ. [math]-\frac{6}{x^{2}}[/math]
+গ. [math]-4 x[/math]
+ঘ. [math]4 x[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left(x-\frac{1}{x^{2}}\right)^{4}[/math]
+ এর ঘাত n = 4 যা জোড়সংখ্যা।সুতরাং, মধ্যপদ হবে ।টি এবং (4/2 + 1) বা (2+1)-তম পদ।.:. নির্ণেয় মধ্যপদ [math]={ }^{4} C_{2}(x)^{4-2}\left(\frac{-1}{x^{2}}\right)^{2}=6 \cdot x^{2} \cdot \frac{1}{x^{4}}=\frac{6}{x^{2}}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 706445)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Faujdarhat Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]1[/math] মান হলো—
+
+i. [math]C (n, n)[/math]
+
+ii. [math]C(n, 0)[/math]
+
+iii. [math]0![/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 706446)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Government Laboratory High School, Dhaka
+--------------------------------------------------------------------------------
+Question:
+i. [math]{ }^{n} C_{0}=1[/math]
+
+ii. [math]{ }^{n} C_{r}=\frac{n !}{r !(n-r) !}[/math]
+
+iii. [math]{ }^{n} C_{0}=0[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 706447)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]A=(1-3x)^5[/math] একটি দ্বিপদী রাশি।
+
+x³ এর সহগ কত?
+
+Options:
+ক. -270
+খ. -10
+গ. 10
+ঘ. 270
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](1-3x)^5[/math]
+ এর বিস্তৃতিতে x³ সংবলিত অর্থাৎ (3+1)-তম পদ [math]={ }^{5} C_{3}(-3 x)^{3}=-270 x^{3}[/math]
+.:. x³ এর সহগ -270
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 706448)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Bogura Govt Girls High School And College
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x^{2}}{2}\right)^{8}[/math] এর ক্ষেত্রে-
+
+1. ২য় পদ [math]-4 x^{2}[/math]
+
+ii. শেষ পদ [math]x^{16}[/math]
+
+iii. ৩য় পদ [math]7 x^{4}[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 706449)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]A=(1-3x)^5[/math] একটি দ্বিপদী রাশি।
+
+A এর বিস্তৃতিতে শেষ পদ কত?
+
+Options:
+ক. [math]243 x^{3}[/math]
+খ. [math]x^{5}[/math]
+গ. [math]-x^{3}[/math]
+ঘ. [math]-243 x^{3}[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+শেষ পদ অর্থাৎ (5+1)-তম [math]={ }^{5} C_{5}(-3 x)^{5}=-243 x^{5}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 706450)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{3}-3 x^{2}+3 x-1\right)^{4}[/math] এর বিস্তৃতিতে পদসংখ্যা কত?
+
+Options:
+ক. [math]5[/math]
+খ. [math]7[/math]
+গ. [math]12[/math]
+ঘ. [math]13[/math]
+
+
+Correct Answer: D.[math]13[/math]
+
+Solution:
+[math]\left(x^{3}-3 x^{2}+3 x-1\right)^{4}=\left\{(x-1)^{3}\right\}^{4}=(x-1)^{12}[/math]
+ [math]\therefore[/math]
+ পদসংখ্যা [math]= 12+1=13[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 706451)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(9-6 x+x^{2}\right)^{3 n}[/math] এর বিস্তৃতিতে পদসংখ্যা [math]7[/math] হলে, [math]n[/math] এর মান কত?
+
+Options:
+ক. [math]1[/math]
+খ. [math]2[/math]
+গ. [math]4[/math]
+ঘ. [math]6[/math]
+
+
+Correct Answer: A.[math]1[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 706452)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]n = 5[/math] এর জন্য প্যাসকেলের সূত্রের বিস্তৃতির ৪র্থ [math](T_{3+1})[/math] পদের সহপ কত?
+
+Options:
+ক. [math]\binom{5}{2}[/math]
+খ. [math]\binom{5}{3}[/math]
+গ. [math]\binom{5}{4}[/math]
+ঘ. [math]\binom{5}{5}[/math]
+
+
+Correct Answer: B.[math]\binom{5}{3}[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 706453)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math](1-x)^4[/math] এর বিস্তৃতিতে ৪র্থ পদের সহগ কত?
+
+Options:
+ক. [math]-35[/math]
+খ. [math]-20[/math]
+গ. -42
+ঘ. [math]48[/math]
+
+
+Correct Answer: B.[math]-20[/math]
+
+Solution:
+[math](1-x)^4[/math]
+ এর বিস্তৃতিতে ৪র্থ পদের সহগ হলো **-4**।দ্বিপদী উপপাদ্য অনুযায়ী, [math](a+x)^n[/math]
+ এর বিস্তৃতির সাধারণ পদ হলো [math]T_{r+1} = \binom{n}{r} a^{n-r}x^r[/math]
+।এখানে, [math]a=1[/math]
+, [math]x[/math]
+ এর পরিবর্তে [math]-x[/math]
+ এবং [math]n=4[/math]
+।আমাদের ৪র্থ পদের সহগ বের করতে হবে, তাই [math]r+1 = 4[/math]
+, অর্থাৎ [math]r=3[/math]
+।[math]T_{3+1} = T_4 = \binom{4}{3} (1)^{4-3} (-x)^3[/math]
+ [math]= \binom{4}{3} (1)^1 (-x)^3[/math]
+ [math]= 4 \times 1 \times (-x^3)[/math]
+ [math]= -4x^3[/math]
+সুতরাং, ৪র্থ পদের সহগ হলো **-4**।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #83 (ID: 706454)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math](1+x) (1-x)^5[/math] এর বিস্তৃতিতে [math]x[/math] এর সহগ কত?
+
+Options:
+ক. [math]10[/math]
+খ. [math]1[/math]
+গ. [math]-4[/math]
+ঘ. [math]-5[/math]
+
+
+Correct Answer: C.[math]-4[/math]
+
+Solution:
+[math](1+x)(1-x)^{5}=(1+x)\left(1-5 x+10 x^{2}-10 x^{3}+\ldots . .\right)[/math]
+ [math]=\left(1+x-5 x-5 x^{2}+10 x^{2}+\ldots \ldots .\right)[/math]
+ [math]=\left(1-4 x+5 x^{2}+\ldots .\right)[/math]
+ [math]\therefore[/math]
+ [math]x[/math]
+ এর সহগ [math]= -4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #84 (ID: 706455)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023, 2017 | Boards:  | Tags: BB, BB
+--------------------------------------------------------------------------------
+Question:
+[math](3+x)(1-x)^{8}[/math] এর বিস্তৃতিতে [math]x[/math] এর সহগ কত?
+
+Options:
+ক. [math]-2[/math]
+খ. [math]-7[/math]
+গ. [math]-23[/math]
+ঘ. [math]-25[/math]
+
+
+Correct Answer: C.[math]-23[/math]
+
+Solution:
+দ্বিপদী বিস্তৃতির সাহায্যে-[math](3+x)(1-x)^{8}=(3+x)\left(1-8 x+28 x^{2}-\ldots \ldots . .\right)[/math]
+ [math]=3-24 x \ldots \ldots . .+x-8 x^{2}+\ldots \ldots \ldots \ldots[/math]
+ [math]=3-23 x-8 x^{2}+\ldots \ldots \ldots . . . . . . .[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #85 (ID: 706456)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x+\frac{1}{x}\right)^{n}[/math] এর বিস্তৃতিতে দ্বিতীয় পদের সহগ তৃতীয় পদের সহগের সমান হলে, [math]n[/math] এর মান কত?
+
+Options:
+ক. [math]2[/math]
+খ. [math]3[/math]
+গ. [math]4[/math]
+ঘ. [math]5[/math]
+
+
+Correct Answer: B.[math]3[/math]
+
+Solution:
+[math]\left(x+\frac{1}{x}\right)^{n}[/math]
+ এর বিস্তৃতিতে দ্বিতীয় পদের সহগ $$এবং তৃতীয় পদের সহগ [math]= ^nC2 = n[/math]
+শর্তমতে, [math]n={ }^{n} C_{2}[/math]
+ বা, [math]n=\frac{n(n-1)}{2}[/math]
+ বা, [math]n-1=2 \therefore n=3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #86 (ID: 706457)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x}{k}\right)^{7}[/math] এর বিস্তৃতিতে [math]x^3[/math] এর সহগ [math]-\frac{35}{27}[/math] হলে, [math]k[/math] এর মান কত?
+
+Options:
+ক. [math]-35[/math]
+খ. [math]-3[/math]
+গ. [math]3[/math]
+ঘ. [math]35[/math]
+
+
+Correct Answer: C.[math]3[/math]
+
+Solution:
+[math]\left(1-\frac{x}{k}\right)^{7}[/math]
+ এর বিস্তৃতিতে [math]x^3[/math]
+ এর সহগ = [math]={ }^{7} C_{3}\left(-\frac{1}{k}\right)^{3}=\frac{-35}{k^{3}}[/math]
+প্রশ্নমতে, [math]\frac{-35}{\mathrm{k}^{3}}=-\frac{35}{27} \text { ता, } \frac{1}{\mathrm{k}^{3}}=\frac{1}{3^{3}} \therefore \mathrm{k}=3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #87 (ID: 706458)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-\frac{2}{x^{3}}\right)^{5}[/math] এর বিস্তৃতিতে বর্জিত [math]x[/math] পদের মান কত?
+
+Options:
+ক. [math]- 40[/math]
+খ. [math]- 10[/math]
+গ. [math]10[/math]
+ঘ. [math]40[/math]
+
+
+Correct Answer: D.[math]40[/math]
+
+Solution:
+[math]\left(x^{2}-\frac{2}{x^{3}}\right)^{5}[/math]
+ এর বিস্তৃতিতে ( [math]r+1)[/math]
+ তম পদ[math]={ }^{5} C_{r}\left(x^{2}\right)^{5+1}\left(-\frac{2}{x^{3}}\right)^{r}[/math]
+ [math]={ }^{5} \mathrm{C}_{r} \mathrm{x}^{10-2 r-3 r}(-2)^{r}[/math]
+প্রশ্নমতে, [math]10-5 \mathrm{r}=0 \therefore \mathrm{r}=2[/math]
+ [math]\therefore[/math]
+ বর্জিত পদ [math]i={ }^{5} C_{2}(-2)^{2}=40[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #88 (ID: 706459)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(m^{3}+\frac{1}{m^{3}}\right)^{4}[/math] এর বিস্তৃতিতে m মুক্ত পদের মান কত?
+
+Options:
+ক. [math]0[/math]
+খ. [math]4[/math]
+গ. [math]6[/math]
+ঘ. [math]8[/math]
+
+
+Correct Answer: C.[math]6[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #89 (ID: 706460)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x+\frac{1}{x^{2}}\right)^{6}[/math] এর বিস্তৃতিতে মধ্যপদের মান কত হবে?
+
+Options:
+ক. [math]20 x^{3}[/math]
+খ. [math]15 x^{3}[/math]
+গ. [math]\frac{15}{x^{6}}[/math]
+ঘ. [math]\frac{20}{x^{3}}[/math]
+
+
+Correct Answer: D.[math]\frac{20}{x^{3}}[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #90 (ID: 706461)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023, 2023 | Boards:  | Tags: DB, SB
+--------------------------------------------------------------------------------
+Question:
+[math]\binom{n}{r}=\frac{n!}{(n-r)!\mathbf{r !}}[/math] হলে-
+[math]\begin{array}{l}\text{i. } \quad 0!=0\\\text{ii. } \binom{5}{2}=10 \text{.}\\\text{iii. } \binom{4}{3}=\binom{4}{1}\end{array}[/math]
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: C.ii ও iii
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #91 (ID: 706462)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x}{2}\right)^{6}[/math] এর বিস্তৃতির ক্ষেত্রে-
+i. পদসংখ্যা = 7
+ii. [math]x^4[/math] এর সহগ [math]=-\frac{15}{16}[/math]
+iii. [math]x^3[/math] এর সহগ [math]=-\frac{5}{2}[/math]
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: B.i ও iii
+
+Solution:
+[math]\left(1-\frac{x}{2}\right)^{6}[/math]
+ এর বিস্তৃতিতে [math]x^4[/math]
+ এর সহগ [math]={ }^{6} C_{4}\left(-\frac{1}{2}\right)^{4}=\frac{15}{16}[/math]
+ [math]\therefore \text { (ii) }[/math]
+ নং তথ্যটি সঠিক নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #92 (ID: 706464)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{1}{x}\right)^{8}[/math] এর বিস্তৃতিতে-
+i. পদসংখ্যা = 9
+ii. ২য় পদের সহগ [math]=- 8[/math]
+iii. [math]x[/math] বর্জিত পদ [math]= 70[/math]
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: D.i, ii ও iii
+
+Solution:
+[math]\left(x-\frac{1}{x}\right)^{8}[/math]
+ এর বিস্তৃতিতে পদসংখ্যা [math]= 8+1=9[/math]
+২য় পদ [math]={ }^{8} C_{1} x^{7}\left(-\frac{1}{x}\right)=-8 x^{6}[/math]
+ [math]\therefore[/math]
+ সহগ [math]= - 8[/math]
+ [math](r + 1)[/math]
+ তম পদ [math]={ }^{8} C_{r}{ }^{8-r}\left(-\frac{1}{x}\right)^{r}={ }^{8} C_{r} x^{8-2 r}(-1)^{r}[/math]
+এখানে, [math]8-2 r=0 \quad \therefore r=4[/math]
+ [math]\therefore[/math]
+ [math]={ }^{8} C_{4}(-1)^{4}=70[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #93 (ID: 706465)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নটির উত্তর দাও:
+[math]\left(1-4 x+4 x^{2}\right)^{n}[/math] এর বিস্তৃতিতে পদসংখ্যা [math]7[/math] [math]n[/math] এর মান কত?
+
+Options:
+ক. [math]3[/math]
+খ. [math]4[/math]
+গ. [math]6[/math]
+ঘ. [math]8[/math]
+
+
+Correct Answer: A.[math]3[/math]
+
+Solution:
+[math]\left(1-4 x+4 x^{2}\right)^{n}=(1-2 x)^{2 n}[/math]
+এখানে, পদসংখ্যা, [math]=2 n+1=7 \quad \therefore n=3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #94 (ID: 706466)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নটির উত্তর দাও:
+[math]\left(1-4 x+4 x^{2}\right)^{3}[/math] এর বিস্তৃতিতে পদসংখ্যা [math]7[/math]
+প্রদত্ত বিস্তৃতির ৪র্থ পদ কত?
+
+Options:
+ক. [math]160 x^{2}[/math]
+খ. [math]60 x^{3}[/math]
+গ. [math]-60 x^{3}[/math]
+ঘ. [math]-160 x^{3}[/math]
+
+
+Correct Answer: D.[math]-160 x^{3}[/math]
+
+Solution:
+[math]\left(1-4 x+4 x^{2}\right)^{n}=(1-2 x)^{2 n}[/math]
+ [math]=(1-2 x)^{6}={ }^{6} C_{3}(1)^{6-3}(-2 x)^{3}[/math]
+− 160 x 3
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #95 (ID: 706467)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math](1+ax)^n[/math]এর বিস্তৃতিতে পদ সংখ্যা কত?
+
+Options:
+ক. [math]n-1[/math]
+খ. [math]n[/math]
+গ. [math]n+1[/math]
+ঘ. [math]2n[/math]
+
+
+Correct Answer: C.[math]n+1[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #96 (ID: 706468)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-4 x^{2}+4 x^{4}\right)^{3}[/math] এর বিস্তৃতিতে পদসংখ্যা কত?
+
+Options:
+ক. [math]3[/math]
+খ. [math]4[/math]
+গ. [math]6[/math]
+ঘ. [math]7[/math]
+
+
+Correct Answer: D.[math]7[/math]
+
+Solution:
+[math]\left(1-4 x^{2}+4 x^{4}\right)^{3}=\left\{1-2.2 x^{2}+\left(2 x^{2}\right)^{2}\right\}^{3}[/math]
+ [math]=\left\{\left(1-2 x^{2}\right)^{2}\right\}^{3}=\left(1-2 x^{2}\right)^{6} .[/math]
+ [math]\therefore[/math]
+ পদসংখ্যা [math]= 6+1=7[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #97 (ID: 706469)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022, 2022 | Boards:  | Tags: RB, BB
+--------------------------------------------------------------------------------
+Question:
+[math]{a}^{} C_{2}={a}^{} C_{3}[/math] হলে এর মান নিচের কোনটি?
+
+Options:
+ক. [math]2[/math]
+খ. [math]3[/math]
+গ. [math]5[/math]
+ঘ. [math]6[/math]
+
+
+Correct Answer: C.[math]5[/math]
+
+Solution:
+[math]{a}^{} C_{2}={a}^{} C_{3}[/math]
+ হলে, [math]n=2+3=5[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #98 (ID: 706470)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](2-4x)^4[/math] এর বিস্তৃতিতে [math]x^2[/math] এর সহগ নিচের কোনটি?
+
+Options:
+ক. [math]-384[/math]
+খ. [math]96[/math]
+গ. [math]192[/math]
+ঘ. [math]384[/math]
+
+
+Correct Answer: D.[math]384[/math]
+
+Solution:
+[math](2-4x)^4[/math]
+ এর বিস্তৃতিতে [math]x^2[/math]
+ এর সহগ [math]=\binom{4}{2} \cdot 2^{2}(-4)^{2}=384[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #99 (ID: 706471)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{3}-\frac{1}{x^{3}}\right)^{5}[/math] এর বিস্তৃতিতে [math]x^3[/math] এর সহগ কত?
+
+Options:
+ক. [math]-10[/math]
+খ. [math]-5[/math]
+গ. [math]5[/math]
+ঘ. [math]10[/math]
+
+
+Correct Answer: D.[math]10[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #100 (ID: 706472)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math](1+x)^{10}[/math] এর বিস্তৃতিতে নবম পদ কত?
+
+Options:
+ক. [math]10 x^8[/math]
+খ. [math]45 x^8[/math]
+গ. [math]10 x^9[/math]
+ঘ. [math]45 x^9[/math]
+
+
+Correct Answer: B.[math]45 x^8[/math]
+
+Solution:
+নবম পদ বা [math](8+1)[/math]
+ তম পদ [math]={ }^{10} C_{8} \cdot x^{8}=45 x^{8}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #101 (ID: 706473)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(y-\frac{1}{y}\right)^{6}[/math] এর বিস্তৃতিতে [math]y[/math] বর্জিত পদ কোনটি?
+
+Options:
+ক. [math]20[/math]
+খ. [math]15[/math]
+গ. [math]-15[/math]
+ঘ. [math]-20[/math]
+
+
+Correct Answer: D.[math]-20[/math]
+
+Solution:
+[math]y[/math]
+ বর্জিত পদ = মধ্যপদ বা [math]\left(\frac{6}{2}+1\right)[/math]
+ [math]= (3 + 1)[/math]
+ তম পদ = [math]=-{ }^{6} \mathrm{C}_{3}=-20[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #102 (ID: 706474)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 x-\frac{1}{4 x}\right)^{6}[/math] এর বিস্তৃতিতে মধ্যপদ কত?
+
+Options:
+ক. [math]-\frac{5}{2}[/math]
+খ. [math]\frac{5}{2}[/math]
+গ. [math]\frac{15}{64 x^{4}}[/math]
+ঘ. [math]15x^2[/math]
+
+
+Correct Answer: A.[math]-\frac{5}{2}[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #103 (ID: 706475)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x}{2}\right)^{4}[/math] এর বিস্তৃতিতে মধ্যপদ কোনটি?
+
+Options:
+ক. [math]-2x[/math]
+খ. [math]-\frac{3 x^{2}}{2}[/math]
+গ. [math]\frac{3 x^{2}}{2}[/math]
+ঘ. [math]2x[/math]
+
+
+Correct Answer: C.[math]\frac{3 x^{2}}{2}[/math]
+
+Solution:
+[math]\left(1-\frac{x}{2}\right)^{4}[/math]
+ এর বিস্তৃতিতে মধ্যপদ হলো [math]\left(\frac{n}{2}+1\right)=3[/math]
+ বা [math](2+1)[/math]
+ তম পদ[math]\therefore(2+1)[/math]
+ তম পদ [math]=\binom{4}{2}\left(-\frac{x}{2}\right)^{2}=\frac{3 x^{2}}{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #104 (ID: 706317)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Joypurhat Govt Girls High School, Joypurhat
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]\left(2 x^{2}-\frac{1}{2 x^{2}}\right)^{8}[/math] একটি দ্বিপদী রাশি।
+
+রাশিটির বিস্তৃতির ৩য় পদ কত?
+
+Options:
+ক. [math]-512 x^{13}[/math]
+খ. [math]223 x^{10}[/math]
+গ. [math]256 x^{10}[/math]
+ঘ. [math]448 x^{8}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #105 (ID: 706318)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Joypurhat Govt Girls High School, Joypurhat
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]\left(2 x^{2}-\frac{1}{2 x^{2}}\right)^{8}[/math] একটি দ্বিপদী রাশি।
+
+রাশিটির বিস্তৃতির মধ্যপদ কত?
+
+Options:
+ক. [math]70[/math]
+খ. [math]-14 x^{-4}[/math]
+গ. [math]-256 x^{2}[/math]
+ঘ. [math]35 x^{3}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #106 (ID: 706319)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Comilla Zilla School, Comilla
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\left(x+\frac{1}{x}\right)^{n}[/math] একটি দ্বিপদী রাশি।
+
+(r + 1) তম পদটি x বর্জিত পদ হলে r এর মান কত?
+
+Options:
+ক. [math]0[/math]
+খ. [math]\frac{n}{2}[/math]
+গ. [math]n[/math]
+ঘ. [math]2n[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #107 (ID: 706320)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Comilla Zilla School, Comilla
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\left(x+\frac{1}{x}\right)^{n}[/math] একটি দ্বিপদী রাশি।
+
+[math]n = 4[/math] হলে চতুর্থ পদ কত?
+
+Options:
+ক. [math]4[/math]
+খ. [math]4x[/math]
+গ. [math]\frac{4}{x}[/math]
+ঘ. [math]\frac{4}{x^{2}}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #108 (ID: 706321)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Comilla Zilla School, Comilla
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\left(x+\frac{1}{x}\right)^{n}[/math] একটি দ্বিপদী রাশি।
+
+বিস্তৃতির দ্বিতীয় পদের সহগ তৃতীয় পদের সহগের সমান হলে [math]n[/math] এর মান কত?
+
+Options:
+ক. 1
+খ. 2
+গ. 3
+ঘ. 4
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #109 (ID: 706322)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: BAF Shaheen College, Chattogram
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\left(x-\frac{1}{x^{2}}\right)^{5}[/math] একটি দ্বিপদী।
+
+প্রদত্ত বিস্তৃতিতে [math]x[/math] এর সহগ কত?
+
+Options:
+ক. 0
+খ. 1
+গ. -5
+ঘ. 10
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #110 (ID: 706323)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: BAF Shaheen College, Chattogram
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\left(x-\frac{1}{x^{2}}\right)^{5}[/math] একটি দ্বিপদী।
+
+বিস্তৃতির ১ম পদ [math]32[/math] হলে, [math]x =[/math] কত?
+
+Options:
+ক. 1
+খ. 2
+গ. 3
+ঘ. 7
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #111 (ID: 706327)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+এর মান কোনটি?
+
+Options:
+A. [math]n[/math]
+B. [math]n-1[/math]
+C. [math]n(n-1)[/math]
+D. [math](n-2)[/math]
+
+
+Correct Answer: C.[math]n(n-1)[/math]
+
+Solution:
+[math]\frac{\mathrm{n}\lfloor\mathrm{n}-1}{\lfloor\mathrm{n}-2}=\frac{\mathrm{n}(\mathrm{n}-1)\lfloor\mathrm{n}-2}{\lfloor\mathrm{n}-2}=\mathrm{n}(\mathrm{n}-1)[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #112 (ID: 706328)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-\frac{x}{4}\right)^{8}[/math]এর বিস্তৃতিতে [math]x^3[/math] এর সহগ কত?
+
+Options:
+ক. [math]-\frac{1}{64}[/math]
+খ. [math]-\frac{1}{4}[/math]
+গ. [math]\frac{-7}{8}[/math]
+ঘ. [math]-\frac{8}{7}[/math]
+
+
+Correct Answer: C.[math]\frac{-7}{8}[/math]
+
+Solution:
+[math]x^3[/math]
+ এর সহগ [math]={ }^{8} C_{3}(-1)^{3} \times \frac{1}{4^{3}}=-\frac{7}{8}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #113 (ID: 706329)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](a+x)^4[/math]এর বিস্তৃতিতে পদের সংখ্যা কয়টি?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 5
+
+
+Correct Answer: ঘ
+
+Solution:
+5
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #114 (ID: 706330)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}+\frac{1}{x^{2}}\right)^{4}[/math] এর বিকৃতিতে [math]x[/math] মুক্ত পদের মান কত?
+
+Options:
+ক. 4
+খ. 6
+গ. 8
+ঘ. 10
+
+
+Correct Answer: খ
+
+Solution:
+[math]x[/math]
+ মুক্ত পদের মান [math]={ }^{4} C_{2}\left(x^{2}\right)^{4-2}\left(\frac{1}{x^{2}}\right)^{2}={ }^{4} C_{2}=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #115 (ID: 706331)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]n = 5[/math] হলে, [math](1 + y)^n[/math] এর বিস্তৃতির সহগগুলো -
+
+Options:
+ক. [math]1 \ 3 \ 3 \ 1[/math]
+খ. [math]1 \ 4 \ 6 \ 4 \ 1[/math]
+গ. [math]1 \ 5 \ 10 \ 10 \ 5 \ 1[/math]
+ঘ. [math]1 \ 6 \ 15 \ 20 \ 15 \ 6 \ 1[/math]
+
+
+Correct Answer: C.[math]1 \ 5 \ 10 \ 10 \ 5 \ 1[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #116 (ID: 706332)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math](x-y)^{6}[/math]একটি দ্বিপদী।
+দ্বিপদীটির বিস্তৃতিতে মোট কতটি পদ পাওয়া যাবে?
+
+Options:
+ক. 3
+খ. 6
+গ. 7
+ঘ. 12
+
+
+Correct Answer: গ
+
+Solution:
+7
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #117 (ID: 706333)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math](x-y)^{6}[/math]একটি দ্বিপদী।
+
+[math]y=\frac{1}{x}[/math] হলে ধ্রুব পদটি কত হবে?
+
+Options:
+ক. [math]-20[/math]
+খ. [math]1[/math]
+গ. [math]4[/math]
+ঘ. [math]20[/math]
+
+
+Correct Answer: A.[math]-20[/math]
+
+Solution:
+[math]y=\frac{1}{x}[/math]
+ হলে [math](x-y)^{6}=\left(x-\frac{1}{x}\right)^{6}[/math]
+ [math](r+1)[/math]
+ তম পদ [math]={ }^{6} C_{r} x^{6-r}(-1)^{r}\left(\frac{1}{x}\right)^{r}[/math]
+;[math]6-2 r=0 \Rightarrow r=3 ; \therefore[/math]
+ ধ্রুব পদ [math]={ }^{6} C_{3}(-1)^{3}=-20[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #118 (ID: 706334)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math](1-3 x)^{5}[/math] এর বিস্তৃতিতে x4 - এর সহগ কত?
+
+Options:
+ক. [math]-405[/math]
+খ. [math]-270[/math]
+গ. [math]243[/math]
+ঘ. [math]405[/math]
+
+
+Correct Answer: D.[math]405[/math]
+
+Solution:
+[math]x^4[/math]
+ এর সহগ [math]={ }^{5} C_{4}(-1)^{4} \cdot 3^{4}=405[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #119 (ID: 706335)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math](1+2 x)^{4}[/math]এর বিস্তৃতিতে [math]x^3[/math] এর সহগ কত?
+
+Options:
+ক. 8
+খ. 16
+গ. 32
+ঘ. 64
+
+
+Correct Answer: গ
+
+Solution:
+[math]x^3[/math]
+ এর সহগ [math]={ }^{4} C_{3} 2^{3}=32[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #120 (ID: 706336)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}+\frac{1}{x^{2}}\right)^{4}[/math]এর বিস্তৃতিতে [math]x[/math] বৰ্জিত পদ কত?
+
+Options:
+ক. 1
+খ. 4
+গ. 6
+ঘ. 12
+
+
+Correct Answer: গ
+
+Solution:
+[math]x[/math]
+ বর্জিত পদ [math]={ }^{4} C_{2} \cdot\left(x^{2}\right)^{2} \cdot\left(\frac{1}{x^{2}}\right)^{2}={ }^{4} \mathrm{C}_{2}=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #121 (ID: 706337)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{array}{l}\text{(i) } { }^{5} \mathrm{C}_{2}=10 \text{,}\\\text{(ii) } \left(\begin{array}{l}7 \\ 0\end{array}\right)=7\end{array}[/math] [math]\text { (iii) }(1+X)^{0}=1[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i,ii
+B. i,iii
+C. ii,iii
+D. i,ii,iii
+
+
+Correct Answer: খ
+
+Solution:
+i,iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #122 (ID: 706338)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 x^{2}-\frac{1}{2 x^{2}}\right)^{6}[/math]এর বিস্তৃতিতে কততম পদ [math]x[/math] মুক্ত?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 5
+
+
+Correct Answer: গ
+
+Solution:
+[math](r+1)[/math]
+ তম পদ[math]={ }^{6} C_{r} 2^{6-r}\left(x^{2}\right)^{6-r}(-1)^{r}\left(\frac{1}{2 x^{2}}\right)^{r} ; x[/math]
+ মুক্ত পদ পেতে হলে, [math]12-2r-2r=0[/math]
+ [math]\Rightarrow 4 r=12 \therefore r=3 \therefore 4[/math]
+ তম পদ [math]x[/math]
+ মুক্ত
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #123 (ID: 706339)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{6} \mathrm{C}_{3}=[/math]কত?
+
+Options:
+A. 9
+B. 18
+C. 20
+D. 120
+
+
+Correct Answer: গ
+
+Solution:
+[math]{ }^{6} C_{3}=\frac{6 !}{3 !(6-3) !}=\frac{6 \times 5 \times 4}{3 \times 2}=20[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #124 (ID: 706340)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math](a+2 b)^{5}[/math]এর বিস্তৃতিতে [math]a^3b^2[/math] এর সহগ কত?
+
+Options:
+ক. 40
+খ. 20
+গ. 10
+ঘ. 5
+
+
+Correct Answer: ক
+
+Solution:
+[math]a^3b^2[/math]
+ এর সহগ [math]={ }^{5} C_{2} \cdot 2^{2}=40[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #125 (ID: 706341)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]=[/math]কত?
+
+Options:
+A. [math]620[/math]
+B. [math]-620[/math]
+C. [math]-720[/math]
+D. [math]720[/math]
+
+
+Correct Answer: D.[math]720[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #126 (ID: 706343)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Rangpur Cadet College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+[math](1+x)^{4}[/math] বিস্তৃতির তৃতীয় পদের সহগ [math]a[/math] এবং $$ বিস্তৃতির তৃতীয় পদের সহগ [math]b[/math] হলে, [math]b : a =[/math] কত?
+
+Options:
+ক. [math]5: 4[/math]
+খ. [math]4: 5[/math]
+গ. [math]5: 1[/math]
+ঘ. [math]5: 3[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #127 (ID: 706345)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021, 2021 | Boards:  | Tags: Hasan Ali Govt. High School, Chandpur, Barisal Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{10} \mathrm{C}_{3}[/math] এর মান কত?
+
+Options:
+A. 7
+B. 30
+C. 120
+D. 240
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #128 (ID: 706346)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left(1+\frac{x}{3}\right)^{a}[/math] একটি দ্বিপদী ধারা। যদি [math]A[/math] এর বিস্তৃতিতে [math]x^{7}[/math] ও [math]x^{8}[/math] এর সহগদ্বয় পরস্পর সমান হয়, তবে [math]n[/math] এর মান কত?
+
+Options:
+ক. 41
+খ. 55
+গ. 31
+ঘ. 17
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #129 (ID: 706291)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{1}{x^{2}}\right)^{4}[/math]এর বিস্তৃতিতে মধ্যপদ কোনটি?
+
+Options:
+ক. [math]4x[/math]
+খ. [math]\frac{6}{x^{2}}[/math]
+গ. [math]\frac{-6}{x^{2}}[/math]
+ঘ. [math]-4x[/math]
+
+
+Correct Answer: B.[math]\frac{6}{x^{2}}[/math]
+
+Solution:
+তৃতীয় পদ মধ্যপদ; [math](2+1)[/math]
+ তম পদ[math]={ }^{4} C_{2}(x)^{4-2}(-1)^{2}\left(\frac{1}{x^{2}}\right)^{2}=6 \cdot x^{2} \cdot \frac{1}{x^{4}}=\frac{6}{x^{2}}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #130 (ID: 706292)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1+\frac{1}{x^{2}}\right)^{6}[/math]এর বিস্তৃতিতে [math]x[/math] এর বিস্তৃতিতে বর্জিত পদের মান কত?
+
+Options:
+ক. 1
+খ. 6
+গ. 7
+ঘ. 12
+
+
+Correct Answer: ক
+
+Solution:
+1
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #131 (ID: 706293)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(\frac{x}{y}+\frac{y}{x}\right)^{10}[/math]এর বিস্তৃতির-
+
+(i) পদসংখ্যা [math]11[/math]
+
+(ii) মধ্যপদের সংখ্যা [math]2[/math]
+
+(iii) তৃতীয় পদের সহগ [math]45[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i,ii
+B. ii,iii
+C. i,iii
+D. i,ii,iii
+
+
+Correct Answer: গ
+
+Solution:
+তৃতীয় পদের সহগ [math]={ }^{10} C_{2}=45[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #132 (ID: 706294)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2015 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math](1-3 x)^{5}[/math]বিস্তৃতির [math]x^3[/math] এর সহগ কত হবে?
+
+Options:
+ক. 260
+খ. 270
+গ. -270
+ঘ. -260
+
+
+Correct Answer: গ
+
+Solution:
+[math]{ }^{5} C_{3}(-1)^{3} \cdot(3 x)^{3} \quad \therefore x^{3}[/math]
+এর সহগ [math]={ }^{5} C_{3}(-1)^{3} 3^{3}=-270[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #133 (ID: 706295)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math]\left(1-2 x+x^{2}\right)^{2}[/math]একটি দ্বিপদী রাশি।
+প্রদত্ত রাশির বিস্তৃতিতে সহগগুলো নিচের কোনটি?
+
+Options:
+ক. 1, 2, 3, 2, 1
+খ. 1, 4, 6, 4, 1
+গ. 1, 5, 6, 5, 1
+ঘ. 1, 5, 10, 5, 1
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left(1-2 x+x^{2}\right)^{2}=\left\{(x-1)^{2}\right\}^{2}[/math]
+ [math]=(x-1)^{4}[/math]
+
+[Image]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #134 (ID: 706296)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math]\left(2 x^{2}-\frac{1}{2 x}\right)^{8}[/math]একটি দ্বিপদী বিস্তৃতি।
+
+বিস্তৃতির তৃতীয় পদ কত?
+
+Options:
+ক. [math]-512 x^{13}[/math]
+খ. [math]-224 x^{7}[/math]
+গ. [math]256 x^{10}[/math]
+ঘ. [math]448 x^{10}[/math]
+
+
+Correct Answer: D.[math]448 x^{10}[/math]
+
+Solution:
+[math](r+1)[/math]
+ তম পদ[math]={ }^{8} C_{r}\left(2 x^{2}\right)^{8-r}\left(\frac{-1}{2 x}\right)^{r}={ }^{8} C_{r} 2^{8-r} x^{16-3 r}\left(-\frac{1}{2}\right)^{r}[/math]
+ [math](2+1)[/math]
+ তম পদ [math]={ }^{8} C_{2} 2^{8-2} x^{16-6}\left(-\frac{1}{2}\right)^{2}[/math]
+ [math]=448x^{10}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #135 (ID: 706297)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী দুইটি প্রশ্নের উত্তর দাও:
+
+[math]\left(2 x^{2}-\frac{1}{2 x}\right)^{8}[/math]একটি দ্বিপদী বিস্তৃতি।
+
+বিস্তৃতিটির মধ্যপদ কত?
+
+Options:
+ক. [math]70x^4[/math]
+খ. [math]14x^2[/math]
+গ. [math]-70x^4[/math]
+ঘ. [math]-224x^7[/math]
+
+
+Correct Answer: A.[math]70x^4[/math]
+
+Solution:
+পদসংখ্যা [math]=8+1=9;[/math]
+ যা বিজোড় মধ্যক [math]=\left(\frac{9+1}{2}\right)[/math]
+ তম পদ [math]=(4+1)[/math]
+ তম পদ [math]={ }^{8} C_{4}\left(2 x^{2}\right)^{8-4}\left(-\frac{1}{2 x}\right)^{4} ;=70 x^{4}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #136 (ID: 706298)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math](1+x)^{n-1}[/math]বিস্তৃতির মোট পদের সংখ্যআ কত?
+
+Options:
+ক. [math]\frac{n-1}{2}[/math]
+খ. [math]n-1[/math]
+গ. [math]n[/math]
+ঘ. [math]n+1[/math]
+
+
+Correct Answer: C.[math]n[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #137 (ID: 706299)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: BZSB
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]X={ }^{n} C_{p}[/math] এবং [math]Y={ }^{n} C_{p-1}[/math]
+
+যদি [math]p = n[/math] হয় তবে [math]X + Y = ?[/math]
+
+Options:
+ক. [math]n ![/math]
+খ. [math]\frac{1}{1+n}[/math]
+গ. [math]1+n[/math]
+ঘ. [math]1-n[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #138 (ID: 706300)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{1}{x}\right)^{6}[/math] এর [math]x[/math] মুক্ত পদ কোনটি?
+
+Options:
+A. ৩য় পদ
+B. ৪র্থ পদ
+C. ৫ম পদ
+D. ৬ষ্ঠ পদ
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #139 (ID: 706301)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math](x-9 y)^{10}[/math] এর বিস্তৃতিতে [math]10[/math] তম পদ কোনটি?
+
+Options:
+ক. [math]-9^{10} y^{10}[/math]
+খ. [math]-9^{9} \times 10 x y^{9}[/math]
+গ. [math]9^{10} y^{10}[/math]
+ঘ. [math]9^{9} \times 10 x y^{9}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #140 (ID: 706302)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Sylhet Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{4}-\frac{1}{x^{3}}\right)^{n}[/math] এর বিস্তৃতিতে [math]x^{11}[/math] এর সহগ কত?
+
+Options:
+ক. -56
+খ. -108
+গ. 64
+ঘ. 70
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #141 (ID: 706303)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Dhaka Residential Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{4}+x^{-4}-2\right)^{7}[/math] এর বিস্তৃতিতে পদসংখ্যা কত?
+
+Options:
+ক. 7
+খ. 8
+গ. 14
+ঘ. 15
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #142 (ID: 706304)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Monipur Uchcha Vidyalaya and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-2 x y+y^{2}\right)[/math] এর বিস্তৃতিতে পদসংখ্যা কয়টি?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 5
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #143 (ID: 706305)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Government Laboratory High School, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]\left(4 x^{2}+4 x y+y^{2}\right)^{3}[/math] এর বিস্তৃতিতে পদসংখ্যা কয়টি?
+
+Options:
+ক. 3
+খ. 4
+গ. 6
+ঘ. 7
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #144 (ID: 706306)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Biam Model School & College, Bogura
+--------------------------------------------------------------------------------
+Question:
+[math](x-y)^{6}[/math] দ্বিপদী ক্ষেত্রে [math]y=\frac{1}{x}[/math] হলে ধ্রুবপদটি কত হবে?
+
+Options:
+ক. -20
+খ. 1
+গ. 4
+ঘ. 20
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #145 (ID: 706307)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Amena Baki Residential Model School And College, Dinajpur
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-2+\frac{1}{x^{2}}\right)^{6}[/math] এর বিস্তৃতিতে পদসংখ্যা কতটি?
+
+Options:
+ক. 6
+খ. 7
+গ. 12
+ঘ. 13
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #146 (ID: 706308)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Govt. Laboratory High School And College
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 x^{2}-\frac{1}{2 x}\right)^{8}[/math] এর বিস্তৃতির মধ্যপদ কত?
+
+Options:
+ক. [math]14 x^{2}[/math]
+খ. [math]70 x^{2}[/math]
+গ. [math]70 x^{4}[/math]
+ঘ. [math]-70 x^{4}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #147 (ID: 706309)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Chattogram Collegiate School
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 y^{2}-\frac{1}{y}\right)^{12}[/math] এর বিস্তৃতিতে [math]y[/math] মুক্ত পদ কোনটি?
+
+Options:
+ক. অষ্টম পদ
+খ. নবম পদ
+গ. দশম পদ
+ঘ. একাদশ পদ
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #148 (ID: 706310)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Dr. Khastagir Govt. Girls' High School, Chottogram
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{3}+x^{-3}\right)^{4}[/math] এর বিস্তৃতিতে [math]x[/math] মুক্ত পদের মান কত?
+
+Options:
+ক. 3
+খ. 4
+গ. 6
+ঘ. 12
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #149 (ID: 706311)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: BEPZA Public School & College, Chattogram EPZ
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x+\frac{1}{x^{2}}\right)^{6}[/math] এর বিস্তৃতির তৃতীয় পদ কত?
+
+Options:
+ক. [math]x^{6}[/math]
+খ. [math]\frac{20}{x^{3}}[/math]
+গ. [math]6 x^{3}[/math]
+ঘ. [math]15[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #150 (ID: 706312)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Sylhet Govt. Pilot High School, Sylhet
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x-\frac{1}{x^{3}}\right)^{4}[/math] এর বিস্তৃতিতে মধ্যম পদ কত?
+
+Options:
+ক. [math]4 x[/math]
+খ. [math]\frac{6}{x^{4}}[/math]
+গ. [math]\frac{-6}{x^{2}}[/math]
+ঘ. [math]-4 x[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #151 (ID: 706313)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Govt P N Girls High School Rajshahi, Rajshahi
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\left(y+\frac{3}{y}\right)^{n-5}[/math] একটি দ্বিপদী রাশি
+
+[math]n[/math] এর মান [math]20[/math] হলে প্রদত্ত দ্বিপদী রাশির পদসংখ্যা কত?
+
+Options:
+ক. 16
+খ. 15
+গ. 8
+ঘ. 4
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #152 (ID: 706314)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: Govt P N Girls High School Rajshahi, Rajshahi
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\left(y+\frac{3}{y}\right)^{n-5}[/math] একটি দ্বিপদী রাশি
+
+[math]n = 13[/math] হলে দ্বিপদী বিস্তৃতির মধ্যপদের সহগ কত?
+
+Options:
+ক. 1120
+খ. 5670
+গ. 5751
+ঘ. 13608
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #153 (ID: 706315)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: NgGGHS
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+x ও y চলক দুটিকে যোগ করে 10 মাত্রার একটি দ্বিপদী রাশিতে বিস্তৃত করা হলো।
+
+বিস্তৃতিতে কতগুলো পদ পাওয়া যাবে?
+
+Options:
+ক. 4
+খ. 9
+গ. 10
+ঘ. 11
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #154 (ID: 706316)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: NgGGHS
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+x ও y চলক দুটিকে যোগ করে 10 মাত্রার একটি দ্বিপদী রাশিতে বিস্তৃত করা হলো।
+
+[math]x=\frac{1}{y}[/math] হলে কততম পদ চলকমুক্ত হবে?
+
+Options:
+ক. 4
+খ. 5
+গ. 6
+ঘ. 10
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #155 (ID: 706285)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{n} C_{0}[/math] এর মান নিচের কোনটি ?
+
+Options:
+ক. [math]0[/math]
+খ. [math]1[/math]
+গ. [math]n[/math]
+ঘ. <br/><img src="https://app.nexes.ai/storage/question-bank-images/2025/11/images2fcapture-removebg-preview20-202022-12-27t030246415_1762007728_qnG376HZ.png" alt="undefined"><br/>
+
+
+Correct Answer: B.[math]1[/math]
+
+Solution:
+[math]{ }^{n} C_{0}=1[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #156 (ID: 706286)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math](1+3 x)^{5}[/math]এর বিস্তৃতির সাহায্যে [math]x^2[/math]এর সহগ কত?
+
+Options:
+ক. 10
+খ. 80
+গ. 90
+ঘ. 270
+
+
+Correct Answer: গ
+
+Solution:
+[math]x^2[/math]
+ এর সহগ [math]={ }^{5} C_{2} 3^{2}=90[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #157 (ID: 706287)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও :
+
+[math]\left(y+\frac{1}{y^{2}}\right)^{6}[/math]এর বিস্তৃতিতে-
+
+পদসংখ্যা কয়টি?
+
+Options:
+ক. 5
+খ. 6
+গ. 7
+ঘ. 8
+
+
+Correct Answer: গ
+
+Solution:
+পদসংখ্যা [math]=n+1=6+1=7[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #158 (ID: 706288)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও :
+
+[math]\left(y+\frac{1}{y^{2}}\right)^{6}[/math]এর বিস্তৃতিতে
+
+উক্ত বিস্তৃতিতে [math]y[/math] মুক্ত পদ কোনটি?
+
+Options:
+ক. পঞ্চম পদ
+খ. চতুর্থ পদ
+গ. তৃতীয় পদ
+ঘ. দ্বিতীয় পদ
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left(y+\frac{1}{y^{2}}\right)^{6} ;(r+1)[/math]
+তম পদ[math]={ }^{n} C_{r} y^{n-r}\left(\frac{1}{y^{2}}\right)^{r}={ }^{n} C_{r} y^{n-3 r}[/math]
+প্রশ্নমতে, [math]n-3 r=0 \Rightarrow n=3 r \Rightarrow 6=3 r \Rightarrow r=2[/math]
+ [math]\therefore \ y[/math]
+ মুক্ত পদ [math]=(2+1)[/math]
+ বা [math]3[/math]
+ তম পদ
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #159 (ID: 706289)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{10} \mathrm{C}_{3}[/math]এর মান কত?
+
+Options:
+A. 7
+B. 30
+C. 120
+D. 240
+
+
+Correct Answer: গ
+
+Solution:
+120
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #160 (ID: 706290)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math]\left(1-2 x+x^{2}\right)^{2}[/math]একটি দ্বিপদী রাশি।
+
+উক্ত রাশিটির বিস্তৃতিতে পদের সংখ্যা কত?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 5
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left(1-2 x+x^{2}\right)^{2}=(x-1)^{4}[/math]
+ [math]\therefore[/math]
+ পদসংখ্যা [math]=4+1=5[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #161 (ID: 706259)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2023, 2017 | Boards:  | Tags: BB, BB
+--------------------------------------------------------------------------------
+Question:
+[math](3+x)(1-x)^{8}[/math] এর বিস্তৃতিতে [math]x[/math] এর সহগ কত?
+
+Options:
+ক. [math]-2[/math]
+খ. [math]-7[/math]
+গ. [math]-23[/math]
+ঘ. [math]-25[/math]
+
+
+Correct Answer: C.[math]-23[/math]
+
+Solution:
+দ্বিপদী বিস্তৃতির সাহায্যে-[math](3+x)(1-x)^{8}=(3+x)\left(1-8 x+28 x^{2}-\ldots \ldots . .\right)[/math]
+ [math]=3-24 x \ldots \ldots . .+x-8 x^{2}+\ldots \ldots \ldots \ldots[/math]
+ [math]=3-23 x-8 x^{2}+\ldots \ldots \ldots . . . . . . .[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #162 (ID: 706260)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]15 x^{2}+24 x^{3}-3 x^{4}+2 x+6[/math]বহুপদীর মূখ্য সহগ কত?
+
+Options:
+ক. -3
+খ. 4
+গ. 6
+ঘ. 15
+
+
+Correct Answer: ক
+
+Solution:
+-3
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #163 (ID: 706261)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1-2 x^{2}\right)^{8}[/math]এর বিস্তৃতিতে [math]x^8[/math]এর সহগ কত?
+
+Options:
+ক. 1120
+খ. 70
+গ. -560
+ঘ. -1120
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left(1-2 x^{2}\right)^{8}[/math]
+এর বিস্তৃতিতে,[math]T_{r+1}={ }^{8} C_{r}(1)^{8-r}\left(-2 x^{2}\right)^{r}={ }^{8} C_{r}(+1)^{8-r}[/math]
+ [math](-1)^{r} \cdot 2 r \cdot x^{2 r} ; 2 r=8[/math]
+ হলে [math]r=4[/math]
+ [math]\therefore[/math]
+ সহগ [math]={ }^{8} C_{4} \cdot 2^{4}=1120[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #164 (ID: 706262)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(y+\frac{3}{y}\right)^{6}[/math]এর বিস্তৃতিতে [math]y[/math] বর্জিত পদের মান কত?
+
+Options:
+ক. 540
+খ. 945
+গ. 1215
+ঘ. 2835
+
+
+Correct Answer: ক
+
+Solution:
+[math]\mathrm{T}_{\mathrm{r}+1}={ }^{6} \mathrm{C}_{\mathrm{r}} \cdot \mathrm{y}^{6-\mathrm{r}} \cdot 3^{\mathrm{r}} \cdot \mathrm{y}^{-\mathrm{r}}[/math]
+ [math]={ }^{6} C_{r} \cdot 3^{r} \cdot y^{6-2 r} ; 6-2 r=0 ; \therefore r=3 ;[/math]
+ [math]\therefore \mathrm{T}_{3+1}={ }^{6} \mathrm{C}_{3} \cdot 3^{3}=540[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #165 (ID: 706263)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math]\left(2 x+\frac{1}{x}\right)^{8}[/math] একটি দ্বিপদী রাশি।
+
+রাশিটির বিস্তৃতির x বর্জিত পদের মান কত?
+
+Options:
+ক. [math]{ }^{8} \mathrm{C}_{4} 2^{4}[/math]
+খ. [math]{ }^{8} C_{3} 2^{3}[/math]
+গ. [math]{ }^{8} \mathrm{C}_{5} 2^{3}[/math]
+ঘ. [math]{ }^{8} \mathrm{C}_{6} 2^{2}[/math]
+
+
+Correct Answer: A.[math]{ }^{8} \mathrm{C}_{4} 2^{4}[/math]
+
+Solution:
+[math](r+1)[/math]
+ তম পদ [math]={ }^{8} C_{r}(2 x)^{8-r}\left(\frac{1}{x}\right)^{r}[/math]
+ [math]={ }^{8} C_{r} 2^{8-r} x^{8-2 r}[/math]
+ [math]x[/math]
+ বর্জিত পদ হওয়ায় [math]8-2 r=0 \Rightarrow 2 r=8 \therefore r=4[/math]
+ [math]\therefore \ x[/math]
+ বর্জিত পদ [math]{ }^{8} C_{4} 2^{8-4}={ }^{8} C_{4} 2^{4}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #166 (ID: 706264)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]x^6[/math] এর সহগ কত হবে?
+
+Options:
+ক. 16
+খ. 112
+গ. 512
+ঘ. 1024
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]x[/math]
+ এর ঘাত [math]6[/math]
+ হওয়ায় [math]8-2r=6[/math]
+ [math]\Rightarrow 2 r=2 \quad \therefore r=1[/math]
+ [math]\therefore \ x^6[/math]
+ এর সহগ [math]={ }^{8} C_{1} 2^{8-1}=8 \times 2^{7}=1024[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #167 (ID: 706265)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]x^6[/math]এর সহগ কত হবে?
+
+Options:
+ক. 16
+খ. 112
+গ. 512
+ঘ. 1024
+
+
+Correct Answer: ঘ
+
+Solution:
+x এর ঘাত [math]6[/math]
+ হওয়ায় [math]8-2r=6[/math]
+ [math]\Rightarrow 2 \mathrm{r}=2 \quad \therefore \mathrm{r}=1[/math]
+ [math]\therefore \ x^6[/math]
+ এর সহগ [math]={ }^{8} C_{1} 2^{8-1}=8 \times 2^{7}=1024[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #168 (ID: 706266)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 y+\frac{3}{y^{2}}\right)^{6}[/math] এর বিস্তৃতিতে [math]y[/math]- মুক্ত পদের মান কত?
+
+Options:
+ক. 108
+খ. 144
+গ. 2160
+ঘ. 2164
+
+
+Correct Answer: গ
+
+Solution:
+[math](r+1)[/math]
+ তম পদ [math]={ }^{6} C_{2}(2 y)^{6-r} \cdot \frac{3^{r}}{y^{2 r}}[/math]
+ [math]={ }^{6} C_{r} 2^{6-r} \cdot y^{6-3 r} \cdot 3^{r} \quad 6-3 r=0 \Rightarrow r=2[/math]
+ [math]\therefore \ y[/math]
+ পদের মান [math]={ }^{6} C_{2} 2^{6-2} \cdot 3^{2}=2160[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #169 (ID: 706267)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math]\left(x^{4}+\frac{1}{x^{4}}-2\right)^{3}[/math] একটি বীজগাণিতিক রাশি।
+
+রাশিটির বিস্তৃতিতে পদসংখ্যা কতটি?
+
+Options:
+ক. 3
+খ. 4
+গ. 6
+ঘ. 7
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left(x^{4}+\frac{1}{x^{4}}-2\right)^{3}[/math]
+ [math]\begin{array}{l} =\left\{\left(x^{2}\right)^{2}-2 \cdot x^{2} \cdot \frac{1}{x^{2}}+\left(\frac{1}{x^{2}}\right)^{2}\right\}^{3} \\ =\left\{\left(x^{2}-\frac{1}{x^{2}}\right)^{2}\right\}^{3}=\left(x^{2}-\frac{1}{x^{2}}\right)^{6} \end{array}[/math]
+ [math]\therefore[/math]
+ পদ সংখ্যা [math]6+1=7[/math]
+ টি
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #170 (ID: 706268)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে পরবর্তী প্রশ্নের উত্তর দাও:
+
+[math]\left(x^{4}+\frac{1}{x^{4}}-2\right)^{3}[/math]একটি বীজগাণিতিক রাশি।
+
+রাশিটির বিস্তৃতিতে x বর্জিত পদের মান কত?
+
+Options:
+ক. [math]-20[/math]
+খ. [math]-1[/math]
+গ. [math]15[/math]
+ঘ. [math]20[/math]
+
+
+Correct Answer: A.[math]-20[/math]
+
+Solution:
+[math]x[/math]
+ বর্জিত পদের মান [math]={ }^{6} C_{3}(-1)^{3}=-20[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #171 (ID: 706269)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](1-x)\left(1+\frac{x}{2}\right)^{8}[/math]এর বিস্তৃতিতে [math]x[/math] এর সহগ কত?
+
+Options:
+ক. [math]3[/math]
+খ. [math]\frac{1}{2}[/math]
+গ. [math]-1[/math]
+ঘ. [math]-\frac{1}{2}[/math]
+
+
+Correct Answer: A.[math]3[/math]
+
+Solution:
+[math](1-x)\left(1+\frac{x}{2}\right)^{8}[/math]
+ [math]=(1-x)\left(1+8 \times \frac{x}{2}+{ }^{8} C_{2} \times \frac{x^{2}}{2^{2}}+\ldots \ldots \ldots .\right)[/math]
+ [math]\therefore \ x[/math]
+ এর সহগ [math]=1 \times \frac{8}{2}+(-1) \times(1)=4-1=3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #172 (ID: 706270)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(y^{3}+\frac{1}{y^{3}}\right)^{6}[/math]এর বিস্তৃতিতে পদসংখ্যা কয়টি?
+
+Options:
+ক. 1
+খ. 6
+গ. 15
+ঘ. 20
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\mathrm{T}_{\mathrm{r}+1}={ }^{6} \mathrm{C}_{\mathrm{r}} \mathrm{y}^{3(6-r)-3 \mathrm{r}} ; \quad y[/math]
+ বর্জিত পদের ক্ষেত্রে [math]3(6-r)-3 r=0 \Rightarrow 6 r=18 \Rightarrow r=3[/math]
+ [math]\therefore \mathrm{T}_{\mathrm{r}+1}={ }^{6} \mathrm{C}_{3}=20[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #173 (ID: 706271)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(4 x^{2}+4 x y+y^{2}\right)^{3}[/math]এর বিস্তৃতিতে পদ সংখ্যা কয়টি?
+
+Options:
+ক. 7
+খ. 6
+গ. 4
+ঘ. 3
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left\{(2 x)^{2}+2.2 x \cdot y+(y)^{2}\right\}^{3}[/math]
+ [math]=(2 x+y)^{6} \therefore[/math]
+ পদসংখ্যা [math]=6+1=7[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #174 (ID: 706272)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2018 | Boards:  | Tags: All Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{2}-2 x y+y^{2}\right)^{2}[/math]এর বিস্তৃতিতে [math]y[/math] মুক্ত পদ কত?
+
+Options:
+ক. 2
+খ. 3
+গ. 4
+ঘ. 5
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left\{(x-y)^{2}\right\}^{2}=(x-4)^{4}[/math]
+ [math]\therefore[/math]
+ পদসংখ্যা [math]=4+1=5[/math]
+ টি
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #175 (ID: 706273)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{n} C_{r}[/math]এর মান কত, যখন [math]r = 0[/math]?
+
+Options:
+ক. 0
+খ. 1
+গ. n
+ঘ. অনির্ণেয়
+
+
+Correct Answer: খ
+
+Solution:
+1
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #176 (ID: 706274)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math](1+3 x)^{5}[/math]এর বিস্তৃতিতে [math]x[/math] এর সহগ কত?
+
+Options:
+ক. 1
+খ. 5
+গ. 10
+ঘ. 15
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]{ }^{5} C_{1} \times 3^{1}=15[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #177 (ID: 706275)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 x+\frac{1}{x}\right)^{6}[/math]এর বিস্তৃতিতে–
+
+(i) পদসংখ্যা [math]7[/math]
+
+(ii) [math]x[/math] মুক্ত পদ ৪র্থ পদ
+
+(iii) [math]x[/math] মুক্ত পদের মান [math]160[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i,ii
+B. i,iii
+C. ii,iii
+D. i,ii,iii
+
+
+Correct Answer: ঘ
+
+Solution:
+i,ii,iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #178 (ID: 706276)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math](a+b)^{n}[/math]এর বিস্তৃতি এর সাধারণ পদ কোনটি?
+
+Options:
+ক. [math]\left(\begin{array}{l} n \\ r \end{array}\right) a^{n} b^{r}[/math]
+খ. [math]\left(\begin{array}{c} n \\ r \end{array}\right) a^{r} b^{n}[/math]
+গ. [math]\left(\begin{array}{c} n \\ r \end{array}\right) a^{r} b^{n-r}[/math]
+ঘ. [math]\left(\begin{array}{c} n \\ r \end{array}\right) a^{n-r} b^{r}[/math]
+
+
+Correct Answer: D.[math]\left(\begin{array}{c} n \\ r \end{array}\right) a^{n-r} b^{r}[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #179 (ID: 706277)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math](1-3 x)^{5}[/math] এর বিস্তৃতিতে [math]x^3[/math] এর সহগ কত?
+
+Options:
+ক. [math]-270[/math]
+খ. [math]270[/math]
+গ. [math]405[/math]
+ঘ. [math]450[/math]
+
+
+Correct Answer: A.[math]-270[/math]
+
+Solution:
+[math]{ }^{5} C_{3} \cdot(-3)^{3}=-270[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #180 (ID: 706278)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(1+\frac{a}{x}\right)^{7}[/math]এর বিস্তৃতিতে [math]x^{-2}[/math] এর সহগ কোনটি?
+
+Options:
+ক. [math]\left(\begin{array}{l} 7 \\ 0 \end{array}\right) \mathrm{a}^{2}[/math]
+খ. [math]\left(\begin{array}{l} 7 \\ 2 \end{array}\right) a^{2}[/math]
+গ. [math]\left(\begin{array}{l} 7 \\ 3 \end{array}\right) \mathrm{a}^{3}[/math]
+ঘ. [math]\left(\begin{array}{l} 7 \\ 2 \end{array}\right)[/math]
+
+
+Correct Answer: B.[math]\left(\begin{array}{l} 7 \\ 2 \end{array}\right) a^{2}[/math]
+
+Solution:
+[math]{ }^{7} C_{2} \cdot\left(\frac{a}{x}\right)^{2}=\left(\begin{array}{l} 7 \\ 2 \end{array}\right) a^{2}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #181 (ID: 706279)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2 x^{2}-\frac{1}{x^{2}}\right)^{8}[/math]এর বিস্তৃতিতে পঞ্চম পদ নিচের কোনটি?
+
+Options:
+ক. [math]{ }^{8} C_{4} \cdot 2^{4}[/math]
+খ. [math]{ }^{8} C_{5} \cdot 2^{5}[/math]
+গ. [math]{ }^{8} C_{3} \cdot 2^{3}[/math]
+ঘ. [math]{ }^{8} \mathrm{C} 6 \cdot 2^{6}[/math]
+
+
+Correct Answer: A.[math]{ }^{8} C_{4} \cdot 2^{4}[/math]
+
+Solution:
+সাধারণ পদ, [math]\begin{array}{l} T_{r+1}={ }^{8} C_{r}-r \\ \left.=(-1)^{2}\right)^{8} C_{r} 2^{8-r}\left(\frac{-1}{x^{2}}\right)^{r} x^{16-4 r} \end{array}[/math]
+ [math]x[/math]
+ বর্জিত পদে [math]16-4r=0[/math]
+ অর্থাৎ [math]r=a[/math]
+ [math]\therefore \ x[/math]
+ বর্জিত পদটি [math]={ }^{8} \mathrm{C}_{\mathrm{r}} 2^{4}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #182 (ID: 706280)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](3+x)(1-x)^{8}[/math]এর বিস্তৃতিতে [math]x[/math] বর্জিত পদটি কত?
+
+Options:
+ক. [math]-2[/math]
+খ. [math]-7[/math]
+গ. [math]-23[/math]
+ঘ. [math]-25[/math]
+
+
+Correct Answer: C.[math]-23[/math]
+
+Solution:
+[math](3+x)(1-x)^{8}[/math]
+ এর বিস্তৃতি,[math]\begin{array}{l} (3+x)\left\{1-{ }^{8} C_{1} x+{ }^{8} C_{2} x^{2}-{ }^{8} C_{3} x^{3}+{ }^{8} C_{4} x^{4}-\right. \\ \left.{ }^{8} C_{5} x^{5}+{ }^{8} C_{6} x^{6}-{ }^{8} C_{7} x^{7}+{ }^{8} C_{8} x^{8}\right\} \end{array}[/math]
+ [math]\therefore[/math]
+ এই বিস্তৃতিতে [math]x[/math]
+ এর সহগ [math]=\left\{3 \times\left(-{ }^{8} C_{1}\right)+1\right\}[/math]
+ [math]=(-24+1)=-23[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #183 (ID: 706281)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x^{3}+\frac{1}{x^{3}}\right)^{12}[/math]এর বিস্তৃতির–
+
+(i) মধ্যপদের সংখ্যা [math]2[/math] টি
+
+(ii) সপ্তম পদ [math]x[/math] বর্জিত
+
+(iii) পঞ্চম পদের সহগ [math]{ }^{12} \mathrm{C}_{4}[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i,ii
+B. i,iii
+C. ii,iii
+D. i,ii,iii
+
+
+Correct Answer: গ
+
+Solution:
+[math]\text { (i) }\left(x^{3}+\frac{1}{x^{3}}\right)^{12}[/math]
+ এর বিস্তৃতিতে মোট পদ সংখ্যা [math]=(12+1)=13[/math]
+ টি যা বিজোড়;সুতরাং এর বিস্তৃতিতে মধ্যপদের সংখ্যা হবে 1 টি এবং তা হবে [math]\left(\frac{12}{2}+1\right)[/math]
+ তম পদ বা সপ্তম পদ। তাই (i) নং ভুল।[math]\text { (ii) }\left(x^{3}+\frac{1}{x^{3}}\right)^{12}[/math]
+ এর বিস্তৃতিতে সপ্তম বা (6+1) তম পদ [math]={ }^{12} C_{6}\left(x^{3}\right)^{12-6} \cdot\left(\frac{1}{x^{3}}\right)^{12-6}={ }^{12} C_{6} x^{18} \cdot \frac{1}{x^{18}}={ }^{12} C_{6}[/math]
+ যা x বর্জিত[math]\text { (iii) }\left(x^{3}+\frac{1}{x^{3}}\right)^{12}[/math]
+ এর বিস্তৃতিতে পঞ্চম বা [math](4+1)[/math]
+ তম পদ [math]={ }^{12} C_{4}\left(x^{3}\right)^{12-4}\left(\frac{1}{x^{3}}\right)^{4}[/math]
+ যা সহগ [math]{ }^{12} \mathrm{C}_{4}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #184 (ID: 706282)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\left(x+\frac{1}{x^{2}}\right)^{6}[/math]এর বিস্তৃতিতে [math]x[/math] মুক্ত পদ এর মান কত?
+
+Options:
+ক. 1
+খ. 6
+গ. 15
+ঘ. 20
+
+
+Correct Answer: গ
+
+Solution:
+[math]{ }^{6} C_{2} \times x^{4} \times\left(\frac{1}{x^{2}}\right)^{2}=15[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #185 (ID: 706283)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math](1+3 x)^{5}[/math]বিস্তৃতির [math]x^2[/math] এর সহগ কত হবে?
+
+Options:
+ক. 80
+খ. 90
+গ. 170
+ঘ. 270
+
+
+Correct Answer: খ
+
+Solution:
+90
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #186 (ID: 706284)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{array}{l}\text{(i) } \left(\begin{array}{l}5 \\ 0\end{array}\right)=1\\\text{(ii) } \left(\begin{array}{l}5 \\ 1\end{array}\right)=5 \\ \text{ (iii) } \left(\begin{array}{l}5 \\ 2\end{array}\right)=10\end{array}[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i,ii
+B. i,iii
+C. ii,iii
+D. i,ii,iii
+
+
+Correct Answer: ঘ
+
+Solution:
+i,ii,iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #187 (ID: 184289)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী রাশির গুণফল নির্ণয়ের ক্ষেত্রে প্যাসকেলের ত্রিভুজের সাহায্য ব্যবহার করে কোনটি সঠিক?
+
+Options:
+a. প্যাসকেলের ত্রিভুজের প্রথম সারিতে 1 থাকে
+b. প্রশ্নে উল্লেখিত গুণফল সর্বদা 0 হবে
+c. প্রথম পদ ও দ্বিতীয় পদ একত্রিত করে গুণফল নির্ণয় করতে হয়
+d. সহগগুলো অন্তর্ভুক্ত না করলে গুণফল সঠিক হবে
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #188 (ID: 184290)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির প্রথম পদ কিভাবে নির্ধারণ করা হয়?
+
+Options:
+a. সম্ভাব্য ফলাফলের সংখ্যা
+b. সম্পূর্ণ পদের সংখ্যা
+c. নির্দিষ্ট ঘাত
+d. পদসংখ্যার সংখ্যা
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #189 (ID: 184291)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী রাশির জন্য প্যাসকেলের ত্রিভুজ ব্যবহৃত হলে সহগগুলি কিভাবে নির্ধারণ করা হয়?
+
+Options:
+a. সরাসরি গণনা করে
+b. পূর্ববর্তী সহগের যোগফল
+c. একটি নির্দিষ্ট রাশির মাধ্যমে
+d. সরাসরি সংখ্যার মাধ্যমে
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #190 (ID: 184292)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতি 1+2 এর পঞ্চম পদ কিভাবে নির্ণয় করা হয়?
+
+Options:
+a. বাহুর সংখ্যার যোগফল
+b. প্যাসকেলের ত্রিভুজের সহগ
+c. নির্দিষ্ট রাশির মাধ্যমে
+d. গণনা করে
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #191 (ID: 184293)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির চলক ও সহগগুলোর যোগফল কি?
+
+Options:
+a. বাহু সংখ্যা
+b. ঘাত
+c. পদের সংখ্যা
+d. মোট সংখ্যা
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #192 (ID: 183775)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+প্যাসকেলের ত্রিভুজের মাধ্যমে দ্বিপদী রাশির সহগ নির্ণয়ের জন্য যে প্রক্রিয়া ব্যবহার করা হয়, সেটির বৈশিষ্ট্য কী?
+
+Options:
+a. সহগগুলি পদের অবস্থানের উপর নির্ভরশীল।
+b. সহগগুলি সবসময় ধনাত্মক সংখ্যা।
+c. সহগগুলি সবসময় খণাত্মক সংখ্যা।
+d. সহগগুলি শুধুমাত্র একক ঘাতের জন্য প্রযোজ্য।
+
+
+Correct Answer: a
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #193 (ID: 183776)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতিতে পদ সংখ্যা কিভাবে গণনা করা হয়?
+
+Options:
+a. ঘাতের সংখ্যার সমান।
+b. ঘাতের সংখ্যার এক বেশি।
+c. ঘাতের সংখ্যার দুই বেশি।
+d. এটি কোনো নির্দিষ্ট নিয়মে নির্ভর করে না।
+
+
+Correct Answer: b
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #194 (ID: 183777)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যখন (1 + x)^5 এর বিস্তৃতি নির্ধারণ করা হয়, তখন প্যাসকেলের ত্রিভুজ ব্যবহার করে কোন পদটির সহগ নির্ণয় করতে হয়?
+
+Options:
+a. পঞ্চম পদ।
+b. তৃতীয় পদ।
+c. দ্বিতীয় পদ।
+d. প্রথম পদ।
+
+
+Correct Answer: a
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #195 (ID: 183778)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী উপপাদ্য ব্যবহার করে (a + b)^n বিস্তৃত করতে গেলে কোন উপাদানটি প্রয়োজন হয়?
+
+Options:
+a. বিভিন্ন ঘাতের মান।
+b. প্যাসকেলের ত্রিভুজের সহগ।
+c. বীজগণিতের মৌলিক সূত্র।
+d. অখণাত্মুক সংখ্যা।
+
+
+Correct Answer: b
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #196 (ID: 183779)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+(1 - x)^5 এর বিস্তৃতিতে পঞ্চম পদের সহগ কি হবে?
+
+Options:
+a. 0।
+b. -5।
+c. 5।
+d. -1।
+
+
+Correct Answer: b
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #197 (ID: 183780)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির সহগের সংখ্যা কিভাবে গণনা করা হয়?
+
+Options:
+a. শুধুমাত্র শেষ পদের সহগের সংখ্যা।
+b. পদসংখ্যার সমান।
+c. শুধুমাত্র প্রথম দুই পদের সহগের যোগফল।
+d. পদের অবস্থান ও ঘাতের যোগফলের উপর নির্ভরশীল।
+
+
+Correct Answer: d
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #198 (ID: 183781)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যখন আমরা (x + y)^n বিস্তৃত করি, তখন নীচের কোনটি সঠিক?
+
+Options:
+a. প্রথম পদটি সবসময় 1।
+b. প্রথম পদটি সবসময় n।
+c. প্রথম পদটি n!।
+d. প্রথম পদটি 0।
+
+
+Correct Answer: a
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #199 (ID: 145151)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির সহগ নির্ণয়ে প্যাসকেলের ত্রিভুজের ব্যবহার কিভাবে কার্যকরী হয়?
+
+Options:
+a. এটি শুধুমাত্র এর প্রথম দুই পদকে ভিত্তি করে কাজ করে।
+b. এটি সকল পদকে একটি নির্দিষ্ট অশ্রেণীর মাধ্যমে নির্ণয় করে।
+c. এটি পূর্ববর্তী পদগুলোর যোগফলকে ব্যবহার করে নতুন পদ নির্ণয় করে।
+d. এটি কেবলমাত্র ধনাত্মক পূর্ণসংখ্যার জন্য কার্যকর।
+
+
+Correct Answer: c
+
+Solution:
+সমাধান:
+প্যাসকেলের ত্রিভুজে প্রতিটি ঘরে থাকা সংখ্যাটি উপরের একই কলামের দুটি সংখ্যার যোগফল। এই সম্পর্কটি বোঝাতে লিখি: [math]\binom{n}{k}=\binom{n-1}{k-1}+\binom{n-1}{k}[/math]। উদাহরণস্বরূপ, [math]\binom{4}{2}=\binom{3}{1}+\binom{3}{2}=3+3=6[/math], এখানে মাঝের পদটি আগের দুটি পদের যোগফল। তাই অপশন গ সঠিক।
+
+অন্যান্য অপশনগুলির সংক্ষিপ্ত ব্যাখ্যা:
+- ক ভুল, কারণ প্যাসকেলের ত্রিভুজ কেবল প্রথম দুই পদকে ভিত্তি করে কাজ করে না বরং প্রতিটি নতুন পদ আগের দুটো পদের যোগফল হিসেবে গড়া হয়।  
+- খ ভুল, কারণ এটি কোনো বিশেষ "অশ্রেণী" দ্বারা নয় বরং উপরের দুই পদকে যোগ করে নতুন পদ নির্ণয় করে।  
+- ঘ আংশিকভাবে বিভ্রান্তিকর; প্যাসকেলের ত্রিভুজটি প্রধানত অ-ঋণাত্মক পূর্ণসংখ্যার সারির জন্য প্রযোজ্য, তাই বলা যায় এটি কেবল ধনাত্মক পূর্ণসংখ্যার জন্য সীমাবদ্ধ নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #200 (ID: 139382)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতিতে (1 + x)^n এর সহগগুলো নির্ণয়ের জন্য প্যাসকেলের ত্রিভুজের ক্ষেত্রে পদসংখ্যা কিভাবে নির্ধারণ করা হয়?
+
+Options:
+a. পদসংখ্যা = n + 1
+b. পদসংখ্যা = n
+c. পদসংখ্যা = n - 1
+d. পদসংখ্যা = 2n
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান: দ্বিপদী বিস্তৃতিতে সাধারণত [math](1+x)^n[/math] কে বিস্তৃত করলে সাধারণ পদটি হয় [math]\binom{n}{k}x^k[/math] যেখানে [math]k=0,1,2,\dots,n[/math]। তাই সূচক [math]k[/math] শূন্য থেকে [math]n[/math] পর্যন্ত যায়, ফলে মোট পদসংখ্যা হয় [math]n-0+1=n+1[/math]। সুতরাং সঠিক উত্তর হল (a) [math]n+1[/math]। অন্য বিকল্পগুলো ভুল কারণ সেগুলো শূন্যতম বা সর্বোচ্চ সূচকগুলো গণনায় বাদ দেয় এবং মোট পদসংখ্যা হিসাবে সঠিক মান দেয় না।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #201 (ID: 118337)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+প্যাসকেলের ত্রিভুজের সহগগুলো কিভাবে নির্ধারিত হয়?
+
+Options:
+a. প্রতিটি সংখ্যা আগের দুটি সংখ্যার যোগফল
+b. প্রতিটি সংখ্যা পূর্বের সংখ্যার গুণফল
+c. প্রতিটি সংখ্যা পূর্বের সংখ্যার বর্গ
+d. প্রতিটি সংখ্যা আগের সংখ্যার দ্বিগুণ
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+
+প্যাসকেলের ত্রিভুজে প্রতিটি সংখ্যা তার ঠিক উপরের দুটি সংখ্যার যোগফল হিসেবে পাওয়া যায়। উদাহরণস্বরূপ প্রথম কয়েকটি সারি হলো [math]1[/math], [math]1\ 1[/math], [math]1\ 2\ 1[/math] (এখানে [math]1+1=2[/math]), [math]1\ 3\ 3\ 1[/math] (এখানে [math]1+2=3,\ 2+1=3[/math])। সূত্রগতভাবে এটি লেখা যায়: [math]\binom{n}{k}=\binom{n-1}{k-1}+\binom{n-1}{k}[/math]। তাই সঠিক উত্তর হলো a।
+
+বাকি অপশনগুলো ভুল কারণ প্যাসকেলের ত্রিভুজে সংখ্যাগুলো গুণফল, বর্গ বা পূর্বের সংখ্যার দ্বিগুণে নির্ধারিত হয় না—এগুলো যোগফলের নিয়ম অনুসরণ করে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #202 (ID: 118338)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির (a + b)^n এর পদসংখ্যা কিভাবে নির্ধারণ করা হয়?
+
+Options:
+a. n + 1
+b. n - 1
+c. [math]n^{2}[/math]
+d. [math]n^{3}[/math]
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+Step 1: দ্বিপদী সূত্র অনুযায়ী, 
+[math](a+b)^n=\sum_{k=0}^{n}\binom{n}{k}a^{\,n-k}b^{\,k}[/math].
+
+Step 2: উপরের যোগফলটি [math]k=0[/math] থেকে [math]k=n[/math] পর্যন্ত চলে, তাই সম্ভাব্য মানগুলোর সংখ্যা হলো [math]n-0+1=n+1[/math]। সুতরাং পদসংখ্যা = [math]n+1[/math]।
+
+উপসংহার: সঠিক উত্তর হচ্ছে option a। অন্য অপশনগুলো ভুল কারণ তারা কেবলমাত্র সংখ্যাগত ভাবে ভিন্ন এবং বিন্যাস থেকে উদ্ভূত পদসংখ্যা নির্দেশ করে না (যেমন [math]n-1,[/math] [math]n^2,[/math] [math]n^3[/math])।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #203 (ID: 118339)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+প্যাসকেলের ত্রিভুজের সাহায্যে (1 + x)^5 এর চতুর্থ পদ নির্ণয় করতে হলে কোন সূত্র ব্যবহার করা হয়?
+
+Options:
+a. [math]\binom{5}{3}x^{3}[/math]
+b. [math]\binom{5}{2} x^{2}[/math]
+c. [math]\binom{5}{4} \cdot x^{4}[/math]
+d. [math]\binom{5}{5} \cdot x^{5}[/math]
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+1. বিনোমিয়াল সূত্র অনুযায়ী [math](1+x)^5=\sum_{r=0}^{5}\binom{5}{r}x^r[/math], যেখানে প্রতিটি পদে ঘরের দ্রাঘিমা সহগ [math]\binom{5}{r}[/math] থাকে।
+2. চতুর্থ পদটি মানে r = 3 হওয়া (প্রথম পদ r=0), তাই চতুর্থ পদটি হচ্ছে [math]\binom{5}{3}x^3[/math]।
+3. হিসাব করলে [math]\binom{5}{3}=\frac{5!}{3!\,2!}=10[/math], সুতরাং চতুর্থ পদটি [math]10x^3[/math] হয়।
+আতএব সঠিক উত্তর হচ্ছে a: [math]\binom{5}{3}x^3[/math]. অন্য বিকল্পগুলো ভুল কারণ সেগুলো যথাক্রমে r=2 ([math]x^2[/math]), r=4 ([math]x^4[/math]) এবং r=5 ([math]x^5[/math]) পদ নির্দেশ করে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #204 (ID: 118340)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী সহগগুলোর মধ্যে কোনটি সঠিক?
+
+Options:
+a. [math]T_n = \binom{n}{n-1} a b^{\,n-1} = n a b^{\,n-1}[/math]
+b. [math]T_k = \binom{n}{k} a^k b^{n-k} \quad (k = 0,1,\dots,n)[/math]
+c. (a + b)^n এর n-তম পদ C(k, n) * a^(n-k) * b^k
+d. [math]
+(a + b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{\,n-k} b^{\,k}
+[/math]
+[math]
+T_n = \binom{n}{n-1} a^{1} b^{\,n-1} = n\,a\,b^{\,n-1}
+[/math]
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+Binomial theorem অনুযায়ী, 
+[math](a+b)^n=\sum_{k=0}^{n} \binom{n}{k}\,a^{\,n-k}\,b^{\,k}[/math].
+এ থেকেই সাধারণ পদ (বা k-তম সূচক অনুযায়ী) হলো 
+[math]\binom{n}{k}\,a^{\,n-k}\,b^{\,k}[/math].
+তাই সঠিক অপশন হল ক (অর্থাৎ option a)।
+
+বাকি অপশনগুলোর ত্রুটি: খ-তে সূচকের শক্তি উল্টে দেয়া হয়েছে ([math]a^{k} b^{n-k}[/math]) এবং গ, ঘ-তে বাইনোমিয়াল সহগ হিসেবে ভুল ক্রমে [math]C(k,n)[/math] ব্যবহার করা হয়েছে, যেটি সঠিকভাবে [math]C(n,k)[/math] হওয়া উচিত।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #205 (ID: 118341)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+কোনটি দ্বিপদী বিস্তৃতির তৃতীয় পদ?
+
+Options:
+a. C(n, 2) * a^(n-2) * b^2
+b. C(n, 3) * a^(n-3) * b^3
+c. C(n, 1) * a^(n-1) * b
+d. C(n, 4) * a^(n-4) * b^4
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+বাইন্যোমিয়াল বিস্তারে সাধারণ (k+1)-তম পদ হলে তা হয় [math]T_{k+1}=\binom{n}{k}a^{\,n-k}b^{\,k}[/math] যেখানে [math]k=0,1,2,\dots[/math]। তাই তৃতীয় পদ পাওয়ার জন্য [math]k=2[/math] নিলে তৃতীয় পদ হবে [math]\binom{n}{2}a^{\,n-2}b^{\,2}[/math] যা ক অপশনের সাথে মিলে যায়। 
+
+সংক্ষিপ্তভাবে অন্য অপশনগুলোর ভুল হওয়ার কারণ: গ হল [math]k=1[/math] (দ্বিতীয় পদ), খ হল [math]k=3[/math] (চতুর্থ পদ), এবং ঘ হল [math]k=4[/math] (পঞ্চম পদ)। তাই সঠিক উত্তর ক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #206 (ID: 118342)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যদি (1 + x)^n এর সহগ নির্ণয় করতে চান, তবে কোন পদ্ধতি সর্বাধিক কার্যকর?
+
+Options:
+a. প্যাসকেলের ত্রিভুজ ব্যবহার করা
+b. গুণফল সূত্র ব্যবহার করা
+c. বর্গের সূত্র ব্যবহার করা
+d. ফ্যাক্টোরিয়াল ব্যবহার করা
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান: 
+
+(1) বাইনোমিয়াল সূত্র বলে [math](1+x)^n = \sum_{k=0}^{n} \binom{n}{k} x^k[/math], ফলে প্রতিটি সহগ হলো [math]\binom{n}{k}[/math]।  
+(2) প্যাসকেলের ত্রিভুজ সরাসরি প্রতিটি সারিতে এভাবেই [math]\binom{n}{k}[/math] মানগুলো দেয় এবং প্রতিটি প্রবেশক পরের সারির উপরের দুইটি যোগফল: [math]\binom{n}{k}=\binom{n-1}{k-1}+\binom{n-1}{k}[/math] এর মাধ্যমে দ্রুত গঠন করা যায়—এই কারণে পদ্ধতি (a) সবচেয়ে কার্যকর।  
+(3) অন্য বিকল্পগুলি: (b) গুণফল সূত্র ও (c) বর্গের সূত্র এখানে প্রাসঙ্গিক নয়, আর (d) ফ্যাক্টোরিয়াল ব্যবহার করে [math]\binom{n}{k}=\dfrac{n!}{k!(n-k)!}[/math] পাওয়া যায় কিন্তু হাতে দ্রুত সব সহগ পেতে প্যাসকেলের ত্রিভুজই সহজ ও কার্যকর।  
+
+অতএব সঠিক উত্তর: a
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #207 (ID: 118343)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির সহগের কোন একটি সাধারণ সমস্যা কিভাবে সমাধান করা হয়?
+
+Options:
+a. সহগের মান নির্ধারণের জন্য পূর্ববর্তী সহগ ব্যবহার করা
+b. সহগের মানের জন্য গাণিতিক গুণফল ব্যবহার করা
+c. সহগের মানের জন্য ভিন্ন পদ্ধতি ব্যবহার করা
+d. সহগের মান নির্ধারণের জন্য সংখ্যা যোগ করা
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+1. প্রথমে দ্বিপদীর সহগের সাধারণ সূত্র یاد রাখি: [math]\binom{n}{k}=\frac{n!}{k!(n-k)!}[/math]।  
+2. সহগগুলিকে একে অপরের সাহায্যে হিসাব করার জন্য পরিচিত সম্পর্কটি ব্যবহার করা হয়: [math]\binom{n}{k}=\binom{n}{k-1}\cdot\frac{n-k+1}{k}[/math] — অর্থাৎ প্রতিটি সহগ পূর্বের সহগকে একটি গুণফলে গুণ করে পাওয়া যায়।  
+3. তাই সাধারণ পদ্ধতি হচ্ছে পূর্ববর্তী সহগ ব্যবহার করা (উত্তর: a)।  
+
+বাকি বিকল্পগুলির সংক্ষিপ্ত ব্যাখ্যা: b (গাণিতিক গুণফল ব্যবহার) অংশত সঠিক কারণ গুণফল লাগে, কিন্তু গুণফল প্রয়োগের জন্য পূর্বের সহগ প্রয়োজন; c অস্পষ্ট ও নির্দিষ্ট পদ্ধতি নয়; d (সংখ্যা যোগ করা) ভুল, কারণ সহগ যোগ করে পাওয়া যায় না।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #208 (ID: 118344)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির প্রথম পদ কোনটি?
+
+Options:
+a. [math]a^{n}[/math]
+b. b^n
+c. ab
+d. 1
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+(১) দ্বিপদীর সাধারণ বিস্তৃতি হল [math](a+b)^n=\sum_{k=0}^{n}\binom{n}{k}a^{\,n-k}b^{\,k}[/math]।  
+(২) প্রথম পদটি পেতে k=0 ধরে নিই: [math]\binom{n}{0}a^{n}b^{0}=a^{n}[/math]।  
+(৩) তাই প্রথম পদ হলো [math]a^{n}[/math] — অতএব সঠিক উত্তরটি হল a। অন্য অপশনগুলো ভুল কারণ [math]b^{n}[/math] শেষ (k=n) পদ, [math]ab[/math] সাধারণত কেবল n=1 এ আসে এবং [math]1[/math] কোনো সাধারণ প্রথম পদ নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #209 (ID: 118345)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+প্যাসকেলের ত্রিভুজের সহগ সমূহের মধ্যে কোনটি সবচেয়ে গুরুত্বপূর্ণ?
+
+Options:
+a. প্রথম এবং শেষ সহগ সবসময় 1
+b. সব সহগ সমান
+c. মাঝের সহগ সবসময় 0
+d. সব সহগ ধনাত্মক
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+ধাপে ধাপে ব্যাখ্যা:
+
+1. প্যাসকেলের ত্রিভুজের প্রতিটি সহগ হল দ্বিপদীয় সহগ (binomial coefficients), অর্থাৎ n-তম সারির সহগগুলো হল [math]\binom{n}{0},\binom{n}{1},\dots,\binom{n}{n}[/math]।  
+2. দ্বিপদীয় অনুপাতের সূত্র [math]\binom{n}{k}=\dfrac{n!}{k!(n-k)!}[/math] থেকে [math]k=0[/math] এবং [math]k=n[/math] রাখলে পেয়েছি [math]\binom{n}{0}=1[/math] এবং [math]\binom{n}{n}=1[/math] — তাই প্রতিটি সারির প্রথম ও শেষ সহগ সবসময় 1 হয়। এ কারণেই বিকল্প (a) সঠিক।  
+3. অন্যান্য বিকল্পগুলোর সংক্ষিপ্ত খণ্ডন: বিকল্প (b) ভুল, কারণ সব সহগ সমান নয় (উদাহরণ: 3-সারি = [math]1,3,3,1[/math])। বিকল্প (c) ভুল, কারণ মাঝের সহগগুলো শূন্য নয়—তারা ধনাত্মক পূর্ণসংখ্যা। বিকল্প (d) সত্য যে সহগগুলো ধনাত্মক, কিন্তু প্যাসকেলের গঠন এবং সারি তৈরিতে সবচেয়ে মৌলিক ও গুরুত্বপূর্ণ বৈশিষ্ট্য হল প্রথম ও শেষ সহগের মান 1 হওয়া, তাই (a) অধিকতর মৌলিক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #210 (ID: 118346)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+প্যাসকেলের ত্রিভুজের কিভাবে বিশ্লেষণ করা যায়?
+
+Options:
+a. সংখ্যাগুলোর যোগফল
+b. সংখ্যাগুলোর গুণফল
+c. সংখ্যাগুলোর পার্থক্য
+d. সংখ্যাগুলোর বর্গ
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+Step 1: প্যাসকেলের ত্রিভুজের nth সারির বিভাগগুলো হচ্ছে দ্বিপদীয় গুণফল বা বিনোমিয়াল সহগ [math]\binom{n}{k}[/math] (যেখানে [math]k=0,1,\dots,n[/math])।  
+Step 2: বাইনেরমিয়াল থিওরেম অনুযায়ী তাদের যোগফল হচ্ছে
+[math]\sum_{k=0}^{n}\binom{n}{k}=(1+1)^{n}=2^{n}[/math]।
+Step 3: উদাহরণস্বরূপ, সারি 0: [math][1][/math] যোগফল [math]1=2^{0}[/math]; সারি 2: [math][1\ 2\ 1][/math] যোগফল [math]4=2^{2}[/math]—এখনকার মত সব সারিতেই যোগফল একটি শক্তি [math]2^{n}[/math]।  
+অতএব সঠিক উত্তর হলো (a) সংখ্যাগুলোর যোগফল। অন্য অপশনগুলো ভুল কারণ প্যাসকেলের সারিগুলোর গুণফল, পার্থক্য বা বর্গ কোনো স্থায়ী সূত্র অনুসরণ করে না (উদাহরণস্বরূপ গুণফল সারি অনুযায়ী পরিবর্তিত হয়)।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #211 (ID: 118347)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+(1 + 2)^4 এর বিস্তৃতির প্রথম দুটি পদ কী হবে?
+
+Options:
+a. 1, 8
+b. 1, 16
+c. 1, 12
+d. 1, 10
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+বাইনোমিয়াল формূলা অনুসারে [math](1+2)^4=\sum_{k=0}^{4}\binom{4}{k}1^{4-k}2^k[/math]. প্রথম পদ (k=0): [math]\binom{4}{0}1^4 2^0=1[/math]. দ্বিতীয় পদ (k=1): [math]\binom{4}{1}1^3 2^1=4\times2=8[/math]. অতএব প্রথম দুটি পদ হল [math]1\ \text{এবং}\ 8[/math], তাই সঠিক উত্তর a। অন্য অপশনগুলো ভুল কারণ তারা দ্বিতীয় পদটি সঠিকভাবে [math]8[/math] হিসেবে নেয়নি (উদাহরণঃ b তে 16, c তে 12, d তে 10 দেওয়া আছে)।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #212 (ID: 118348)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+(x + y)^3 এর বিস্তৃতিতে কতটি পদ থাকবে?
+
+Options:
+a. 4
+b. 3
+c. 5
+d. 6
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+Step 1: বাইনোমিয়াল সূত্র অনুযায়ী [math](x+y)^n[/math] এর বিস্তৃতিতে মোট [math]n+1[/math]টি পদ থাকে।  
+Step 2: এখানে [math]n=3[/math], তাই পদ সংখ্যা হবে [math]3+1=4[/math]।  
+Step 3: বাস্তবে বিস্তৃতি হলো [math](x+y)^3 = x^3 + 3x^2y + 3xy^2 + y^3[/math] — মোট 4টি পদ।  
+
+অতএব সঠিক উত্তর: a (4)। অন্যান্য অপশনগুলো ভুল কারণ এগুলো [math]n+1[/math] সূত্র অনুসারে সঠিক সংখ্যা প্রতিফলিত করে না।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #213 (ID: 118349)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+(a + b)^5 এর দ্বিতীয় পদটি কী হবে?
+
+Options:
+a. 5ab^4
+b. 10ab^4
+c. 15ab^4
+d. 20ab^4
+
+
+Correct Answer: খ
+
+Solution:
+সমাধান:
+বাইনোমিয়াল উপপাদ্য অনুযায়ী [math](a+b)^5=\sum_{k=0}^{5}\binom{5}{k}a^{5-k}b^{k}[/math] এবং সহগগুলো হবে [math]1,5,10,10,5,1[/math]। [math]ab^4[/math] পূর্ণবর্গের জন্য [math]a^{1}b^{4}[/math] হলে [math]5-k=1\Rightarrow k=4[/math] এবং এর সহগ [math]\binom{5}{4}=5[/math]। তাই [math](a+b)^5[/math]-এর সেই পদটি হবে [math]5ab^4[/math] — মানে সঠিক گزینه হল (a) [math]5ab^4[/math]। বিকল্প (b) [math]10ab^4[/math] ভুল, কারণ সহগ [math]10[/math] মাত্র [math]a^{3}b^{2}[/math] এবং [math]a^{2}b^{3}[/math] এসব টার্মের জন্য আসে; (c) ও (d) সম্ভব নয় কারণ 5-এর ভিত্তিক বাইনোমিয়াল সহগগুলোর মধ্যে এমন মান নেই।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #214 (ID: 118350)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+কোনটি (x + y)^n এর বিস্তৃতির সূত্র?
+
+Options:
+a. C(n, k) * x^(n-k) * y^k
+b. C(k, n) * x^(n-k) * y^k
+c. C(n, k) * y^(n-k) * x^k
+d. C(k, n) * y^(n-k) * x^k
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+বাইনোমিয়াল সূত্র অনুযায়ী, [math](x+y)^n = \sum_{k=0}^{n} \binom{n}{k} x^{\,n-k} y^{\,k}[/math]. তাই সাধারণ কৌণিক পদটিতে গুণনীয়ক ও ঘাতগুলো হল [math]\binom{n}{k}[/math], [math]x^{\,n-k}[/math] এবং [math]y^{\,k}[/math]। এই কারণে অপশন a: [math]C(n,k)\,x^{\,n-k}y^{\,k}[/math] সঠিক। অন্যগুলো ভুল কারণ b ও d-এ বিন্যাসে [math]C(k,n)[/math] ব্যবহার করা হয়েছে (সাধারণ সূত্রে তা নয়) এবং c-তে x ও y-এর ঘাত বিপরীতভাবে লেখা আছে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #215 (ID: 118351)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যদি (1 - x)^3 এর বিস্তৃতি নির্ণয় করতে চান, তবে কোন পদটি প্রথম হবে?
+
+Options:
+a. 1
+b. -3x
+c. 3x
+d. x
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+বাইনোমিয়াল সূত্র অনুযায়ী, [math](a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3[/math]. এখানে [math]a=1,\, b=x[/math] বসালে পাওয়া যায় [math](1-x)^3 = 1 - 3x + 3x^2 - x^3[/math]. তাই প্রথম পদটি হল [math]1[/math], অর্থাৎ সঠিক উত্তর হলো a। বিকল্পগুলোর ব্যাখ্যা: [math]-3x[/math] দ্বিতীয় পদ, [math]3x[/math] সাইন ভুল এবং [math]x[/math] প্রথম পদ নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #216 (ID: 118352)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+কোনটি দ্বিপদী সহগের একটি বিশেষত্ব?
+
+Options:
+a. সমস্ত পদ ধনাত্মক
+b. কিছু পদ ঋণাত্মক
+c. কিছু পদ শূন্য
+d. সমস্ত পদ শূন্য
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান: দ্বিপদী সহগগুলি সাধারণভাবে [math]\binom{n}{k}[/math] দ্বারা প্রকাশ করা হয় যেখানে [math]n[/math] ও [math]k[/math] পূর্ণসংখ্যা এবং [math]0\le k\le n[/math]। factorial সূত্র অনুযায়ী [math]\binom{n}{k}=\dfrac{n!}{k!(n-k)!}>0[/math], সুতরাং প্রতিটি সহগ ধনাত্মক। তাই উত্তরটি a সঠিক। বিকল্প b ভুল কারণ সহগগুলো ঋণাত্মক নয়, c ও d ভুল কারণ সাধারণ ক্ষেত্রে সহগগুলো শূন্য নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #217 (ID: 118353)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যদি (x + y)^n এর সহগ C(n, k) হয়, তবে k-এর মান কিভাবে নির্ধারণ করা হয়?
+
+Options:
+a. k = 0 থেকে n
+b. k = 1 থেকে n
+c. k = n থেকে 0
+d. k = 0 থেকে n-1
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান: দ্বিপদীয় সম্প্রসারণে আমরা লিখি [math](x+y)^n=\sum_{k=0}^{n}\binom{n}{k}x^{\,n-k}y^{\,k}[/math], যেখানে সহগটি [math]\binom{n}{k} (=C(n,k))[/math]। এখান থেকে স্পষ্ট যে [math]k[/math]-এর মানের ধারা হলো [math]k=0,\dots,n[/math]। তাই সঠিক উত্তর হলো বিকল্প (a)। বিকল্প b [math]k=1\text{ থেকে }n[/math] কেবল [math]k=0[/math] বাদ দেয়, d [math]k=0\text{ থেকে }n-1[/math] কেবল [math]k=n[/math] বাদ দেয়; আর c ([math]k=n\text{ থেকে }0[/math]) সেট অনুযায়ী সমপরিমাণ হলেও সাধারণভাবে আমরা শূন্য থেকে n পর্যন্ত লেখাই।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #218 (ID: 110206)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগাণিতিক রাশির মধ্যে বহুপদীর গুণ এবং ভাগফলের ক্ষেত্রে কোনটি সঠিক?
+
+Options:
+a. দুটি বহুপদীর গুণফল সবসময় একটি বহুপদী হবে।
+b. দুটি বহুপদীর ভাগফল সবসময় একটি বহুপদী হবে।
+c. দুটি বহুপদীর গুণফল কখনও কখনও একটি বহুপদী হতে পারে।
+d. বহুপদীর গুণফল এবং ভাগফল উভয়ই সমান হবে।
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+বহুপদীর দুটি গুরুত্বপূর্ণ বক্তব্য আছে — গুণফল এবং ভাগফল সম্পর্কে।
+
+- গুণফল: দুটি বহুপদীর গুণফল সবসময় একটি বহুপদী হয় কারণ ডিগ্রী যোগ হয় এবং সহগগুলোর গুণ করার ফলে ফল মুলত বহুপদীর ধাঁচ বজায় থাকে। উদাহরণ: [math](x+1)(x^2+1)=x^3+x^2+x+1[/math], যা স্পষ্টভাবে একটি বহুপদী।  
+- ভাগফল: দুটি বহুপদীর ভাগফল সবসময় বহুপদী হবে না, কারণ ভাগ করলে সাধারণত ভাগশেষ থাকে এবং পূর্ণ ভাগ না হলে ফল রাশির (rational function) আকারে হয়। উদাহরণ: [math]\frac{x^2+1}{x+1}=x-1+\frac{2}{x+1}[/math], এখানে সম্পূর্ণ ভাগ না হওয়ায় পুরো ভাগফলটি বহুপদী নয়।
+
+অতএব সঠিক উত্তর হল a। অন্য অপশনগুলো ভুল কারণ b সবসময় সত্যি নয় (উপরের উদাহরণ), c ভুল বিবৃতি — গুণফল সবসময়ই বহুপদী (না যে কেবল কখনো কখনো), এবং d অপ্রাসঙ্গিক/ভুল।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #219 (ID: 110207)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির সহগগুলোকে কিভাবে নির্ণয় করা হয়?
+
+Options:
+a. প্যাসকেলের ত্রিভুজের মাধ্যমে।
+b. সাধারণ গাণিতিক সূত্র ব্যবহার করে।
+c. মৌলিক গাণিতিক মডেল দ্বারা।
+d. লগারিদমিক সূত্র ব্যবহার করে।
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:
+দ্বিপদী বিস্তৃতির সহগগুলো নির্ণয়ে সাধারণত প্যাসকেলের ত্রিকোণ (Pascal's triangle) ব্যবহার করা হয়। বাইনোমিয়াল থিওরেম অনুযায়ী
+[math](a+b)^n=\sum_{k=0}^{n}\binom{n}{k}a^{\,n-k}b^{\,k},[/math]
+এখানে সহগগুলো হচ্ছে বাইনোমিয়াল কোঅফিশিয়েন্ট [math]\binom{n}{k}[/math], যা প্যাসকেলের ত্রিকোণের nতম সারিতে পাওয়া যায়। উদাহরণস্বরূপ,
+[math](a+b)^4=a^4+4a^3b+6a^2b^2+4ab^3+b^4,[/math]
+যেখানে সহগগুলো 1, 4, 6, 4, 1 — প্যাসকেলের ত্রিকোণের 4র্থ সারি। বিকল্পভাবে প্রতিটি সহগকে সূত্রগতভাবে গণনা করা যায়: [math]\binom{n}{k}=\dfrac{n!}{k!(n-k)!}[/math]। অন্য বিকল্পগুলো (b, c, d) এ প্রশ্নে সরাসরি প্রযোজ্য নয় বা অস্পষ্ট — প্যাসকেলের ত্রিকোণই সরল ও প্রচলিত পদ্ধতি।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #220 (ID: 110208)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দ্বিপদী বিস্তৃতির প্যাসকেলের ত্রিভুজে সহগগুলো কিভাবে নির্ধারণ করা হয়?
+
+Options:
+a. পদগুলোর সংখ্যা অনুসারে।
+b. পদের অবস্থান ও ঘাত অনুসারে।
+c. পদের আকার অনুসারে।
+d. মৌলিক সংখ্যা অনুসারে।
+
+
+Correct Answer: খ
+
+Solution:
+সমাধান:
+1) প্যাসকেলের ত্রিভুজে প্রতি সারির উপাদানগুলোই বিনোমিয়াল সহগ এবং এগুলো নির্ধারিত হয় পদের ঘাত (n) ও পদের অবস্থান (k) দ্বারা।  
+2) বিনোমিয়াল সূত্র: [math]\binom{n}{k}=\frac{n!}{k!(n-k)!}[/math]। উদাহরণস্বরূপ, [math](a+b)^3[/math]-এর সহগগুলো হল [math]\binom{3}{0},\binom{3}{1},\binom{3}{2},\binom{3}{3}[/math] যা [math]1,3,3,1[/math]।  
+3) তাই সঠিক উত্তর হল b: পদের অবস্থান ও ঘাত অনুসারে।  
+4) অন্য অপশনগুলোর তর্কসংক্ষেপ: (a) কেবল পদগুলোর সংখ্যা সারির দৈর্ঘ্য বোঝায় কিন্তু সহগ নির্ধারণ করে না; (c) “পদের আকার” অপ্রাসঙ্গিক; (d) মৌলিক সংখ্যা এখানে সম্পর্কিত নয়।
+
+Explanation:
+
+
+Sub-Questions:
+

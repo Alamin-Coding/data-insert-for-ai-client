@@ -1,0 +1,2735 @@
+================================================================================
+Question #1 (ID: 705444)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{3 x+1}+\frac{1}{(3 x+1)^{2}}+\frac{1}{(3 x+1)^{3}}+\ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. x = 1 হলে, ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. [math]x=\frac{2}{3}[/math] হলে, ধারাটির প্রথম 10টি পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারাটি [math]\frac{1}{(3 x+1)}+\frac{1}{(3 x+1)^{2}}+\frac{1}{(3 x+1)^{3}}+\ldots \ldots[/math]
+x=1 হলে ধারাটি, [math]\frac{1}{3.1+1}+\frac{1}{(3.1+1)^{2}}+\frac{1}{(3.1+1)^{3}}+\ldots \ldots[/math]
+ [math]=\frac{1}{4}+\frac{1}{4^{2}}+\frac{1}{4^{3}}+\ldots \ldots[/math]
+
+[Image]
+[math]\\[/math]
+ খ [math]x=\frac{2}{3}[/math]
+ হলে, ধারাটি, [math]\frac{1}{3 \cdot \frac{2}{3}+1}+\frac{1}{\left(3 . \frac{2}{3}+1\right)^{2}}+\frac{1}{\left(3 . \frac{2}{3}+1\right)^{3}}+\ldots[/math]
+ [math]=\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots .[/math]
+যার প্রথম পদ, [math]a=\frac{1}{3}[/math]
+সাধারণ অনুপাত, [math]r=\frac{\frac{1}{3^{2}}}{\frac{1}{3}}=\frac{1}{3^{2}} \times 3=\frac{1}{3}গপ্রদত্ত ধারাটির ১ম পদ, [math]a=\frac{1}{3 x+1}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{(3 x+1)^{2}} \div \frac{1}{3 x+1}=\frac{1}{3 x+1}[/math]
+প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি |r| \frac{3 x+1}{1}[/math]
+ [বিপরীতকরণ করে][math]\begin{array}{l}\Rightarrow -1>3 x+1 \Rightarrow -1-1>3 x+1-1 \\\Rightarrow -2>3 x \therefore x1 \Rightarrow 3 x+1-1>1-1[/math]
+ [math]\Rightarrow 3 x>0 \therefore x>0[/math]
+ [math]\therefore[/math]
+ নির্ণেয় শর্ত [math]x0 \text { (Ans.) }[/math]
+ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}[/math]
+ [math]\begin{array}{l}=\frac{\frac{1}{3 x+1}}{1-\frac{1}{3 x+1}}=\frac{\frac{1}{3 x+1}}{\frac{3 x+1-1}{3 x+1}}=\frac{1}{3 x}\\\text{(Ans.)}\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 705445)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]A=p+p^{2} q+p^{3} q^{2}+\ldots \ldots[/math] একটি গুণোত্তর ধারা এবং [math]B=2+22+222+\ldots \ldots \ldots[/math]
+
+Options:
+ক. [math]5 . \dot{1} 2 \dot{3}[/math] কে সাধারণ ভগ্নাংশে রূপান্তর কর।
+খ. [math]p=(5 x+1)^{-1}[/math] এবং q = 1 হলে x এর উপর কী শর্ত আরোপ করলে A ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+গ. B ধারাটির প্রথম n সংখ্যক পদের যোগফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]5.\dot12 \dot{3}=\frac{5123-5}{999}=\frac{5118}{999}=\frac{1706}{333}=5 \frac{41}{333} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]A=p+p^{2} q+p^{3} q^{2}+\ldots \ldots[/math]
+ [math]p=(5 x+1)^{-1}[/math]
+ এবং q=1 হলে,[math]A=(5 x+1)^{-1}+\left\{(5 x+1)^{-1}\right\}^{2} .1+\left\{(5 x+1)^{-1}\right\}^{3} \cdot 1^{2}+\ldots \ldots[/math]
+ [math]=\frac{1}{5 x+1}+\frac{1}{(5 x+1)^{2}}+\frac{1}{(5 x+1)^{3}}+\ldots \ldots[/math]
+ধারাটির ১ম পদ, [math]a=\frac{1}{5 x+1}[/math]
+ধারাটির সাধারণ অনুপাত [math]r=\frac{\frac{1}{(5 x+1)^{2}}}{\frac{1}{5 x+1}}=\frac{1}{5 x+1}[/math]
+ [math]\therefore[/math]
+ ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি, | r | 1[/math]
+তাহলে,[math]\begin{array}{l}\quad 5 x+1>1 \\\Rightarrow 5 x>0 \\\therefore x>0\end{array}[/math]
+অথবা, [math]-(5 x+1)>1[/math]
+ [math]\begin{array}{l}\Rightarrow 5 x+10[/math]
+ অথবা [math]xগধরি, [math]S_{n}=2+22+222+\ldots \ldots \ldots+n[/math]
+ তম পদ[math]=2(1+11+111+\ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{2}{9}(9+99+999+\ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{2}{9}\{(10-1)+(100-1)+(1000-1)+\ldots . .+n[/math]
+ তম পদ [math]\}[/math]
+ [math]=\frac{2}{9}\left\{\left(10+10^{2}+10^{3}+\ldots+n\right.\right.[/math]
+ তম পদ [math])[/math]
+ [math]-(1+1+\ldots .+n[/math]
+ তম পদ [math])\}[/math]
+ [math]\begin{array}{l}=\frac{2}{9}\left\{\left(10+10^{2}+10^{3}+\ldots \ldots \ldots \ldots+10^{n}\right)-n\right\} \\=\frac{2}{9}\left\{\frac{10\left(10^{n}-1\right)}{10-1}-n\right\} \\=\frac{20}{81}\left(10^{n}-1\right)-\frac{2 n}{9} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 705438)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } X=8+88+888+[/math] [math]\text { (ii) } Y=5+\frac{10}{3}+\frac{20}{9}+\frac{40}{27}+[/math]
+ক) [math]1, \frac{2}{3}, \frac{4}{9}, \frac{8}{27}[/math] অনুক্রমের ৯ম পদ নির্ণয় কর।
+খ) [math]X[/math] ধারাটির প্রথম [math]n[/math] সংখ্যক পদের সমষ্টি নির্ণয় কর।
+গ) [math]Y[/math] ধারাটির সাধারণ পদ নির্ণয় করে ধারাটির অসীমতক সমষ্টি (যদি থাকে) নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ক [math]1, \frac{2}{3}, \frac{4}{9}, \frac{8}{27}[/math]
+ [math]\Rightarrow 1,\left(\frac{2}{3}\right)^{1},\left(\frac{2}{3}\right)^{2} ,\left(\frac{2}{3}\right)^{3}[/math]
+যা একটি গুণোত্তর ধারা তৈরি করবে।ধারাটির প্রথম পদ, [math]a = 1[/math]
+সাধারণ অনুপাত, [math]r=\frac{2}{3}[/math]
+ [math]\therefore[/math]
+ অনুক্রমটির ৯ম পদ [math]=\mathrm{ar}^{9-1}=1 \cdot\left(\frac{2}{3}\right)^{8}=\frac{256}{6561} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]\mathrm{X}=8+88+888+\ldots \ldots \ldots \ldots+\ldots[/math]
+ তম পদ[math]=8(1+11+111+\ldots \ldots \ldots \ldots \ldots+n[/math]
+ তম পদ)[math]=\frac{8}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots+n[/math]
+ তম পদ)[math]=\frac{8}{9}\left\{\left(10+10^{2}+10^{3}+\ldots . .+10^{n}\right)-\right.[/math]
+ [math](1+1+1+\ldots+n[/math]
+ তম পদ)}[math]=\frac{8}{9}\left\{10 \times \frac{10^{n}-1}{10-1}-n\right\}[/math]
+ [math]=\frac{80}{81}\left(10^{n}-1\right)-\frac{8 n}{9}[/math]
+ [math]\therefore[/math]
+ X ধারাটির প্রথম n সংখ্যক পদের যোগফল [math]=\frac{80}{81}\left(10^{n}-1\right)-\frac{8 n}{9}[/math]
+ [math]\\[/math]
+ গউদ্দীপকে বর্ণিত (ii) নং ধারা,[math]Y=5+\frac{10}{3}+\frac{20}{9}+\frac{40}{27}+\ldots \ldots \ldots \ldots .[/math]
+
+[Image]
+সুতরাং, প্রদত্ত ধারাটি একটি অনন্ত গুণোত্তর ধারা।ধারাটির, প্রথম পদ, [math]a =5[/math]
+সাধারণ অনুপাত, [math]r=\frac{2}{3}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 705439)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]1+(3 x-1)^{-1}+(3 x-1)^{-2}+\ldots \ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+ক) [math]1+\frac{1}{\sqrt{3}}+\frac{1}{3}+\frac{1}{3 \sqrt{3}}+\ldots \ldots[/math] ধারাটির অসীমতক সমষ্টি (যদি থাকে) নির্ণয় কর
+খ) [math]x=\frac{4}{3}[/math] হলে, ধারাটির প্রথম দশটি পদের সমষ্টি নির্ণয় কর।
+গ) [math]x[/math] এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারার প্রথম পদ, [math]a = 1[/math]
+ [math]r=\frac{\frac{1}{\sqrt{3}}}{1}=\frac{1}{\sqrt{3}}খদেওয়া আছে, প্রদত্ত ধারাটি:[math]1+\frac{1}{(3 x-1)}+\frac{1}{(3 x-1)^{2}}+\frac{1}{(3 x-1)^{3}}+\ldots \ldots[/math]
+ [math]x=\frac{4}{3} x[/math]
+ হলে ধারাটি হবে,[math]=1+\frac{1}{\left(3 . \frac{4}{3}-1\right)}+\frac{1}{\left(3 \cdot \frac{4}{3}-1\right)^{2}}+\frac{1}{\left(3 \cdot \frac{4}{3}-1\right)^{3}}+\ldots \ldots . .[/math]
+ [math]=1+\frac{1}{(4-1)}+\frac{1}{(4-1)^{2}}+\frac{1}{(4-1)^{3}}+\ldots \ldots \ldots[/math]
+ [math]=1+\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots \ldots[/math]
+এখানে, ধারাটির প্রথম পদ, [math]a = 1[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{3}+1=\frac{1}{3}গউদ্দীপকে প্রদত্ত ধারাটির প্রথম পদ, [math]a=1[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{3 x-1}[/math]
+এখন, প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি [math]|\mathrm{r}|1[/math]
+বা, [math]3x >2[/math]
+ [math]\therefore x>\frac{2}{3}[/math]
+অথবা, [math]\frac{1}{3 x-1}>-1[/math]
+বা, [math]3x-1-1[/math]
+বা, [math]3x \frac{2}{3}[/math]
+ [math]\therefore[/math]
+ [math]S_{\infty}=\frac{a}{1-r}=\frac{1}{1-\frac{1}{3 x-1}}[/math]
+ [math]=\frac{1}{\frac{3 x-1-1}{3 x-1}}=\frac{3 x-1}{3 x-2} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 705440)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } 1+\frac{1}{3 x-5}+\frac{1}{(3 x-5)^{2}}+\frac{1}{(3 x-5)^{3}}+\ldots \ldots \ldots \ldots[/math] [math]\text { (ii) } 6+66+666+[/math]
+ক) 3.02 কে মূলদীয় ভগ্নাংশে প্রকাশ কর।
+খ) (ii) নং ধারার আলোকে প্রমাণ কর যে, ধারাটির ১ম [math]n[/math] পদের সমষ্টি [math]\frac{2}{3}\left\{\frac{10}{9}\left(10^{n}-1\right)-n\right\}[/math]
+গ) x এর উপর কী শর্ত আরোপ করলে (i) নং অনন্ত গুণোত্তর ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ক [math]3.02=\frac{302-30}{90}[/math]
+ [math]=\frac{272}{90}=\frac{136}{45} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারা [math]= 6+66+666+.......+ n[/math]
+ তম পদ[math]6(1+11+111+......... + n[/math]
+ তম পদ)[math]=\frac{6}{9}(9+99+999+\ldots \ldots \ldots+n[/math]
+ তম পদ)[math]=\frac{6}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots+n[/math]
+ তম পদ)[math]=\frac{6}{9}\left\{\left(10+10^{2}+10^{3}+\ldots+10^{n}\right)-(1+1+1+\ldots n\right.[/math]
+ [math]=\frac{6}{9}\left\{10 \cdot \frac{10^{n}-1}{10-1}-n\right\}[/math]
+ [math]=\frac{60}{81}\left(10^{n}-1\right)-\frac{6 n}{9}[/math]
+ [math]=\frac{20}{27}\left(10^{n}-1\right)-\frac{2}{3} n[/math]
+ [math]\therefore[/math]
+ ধারাটির -সংখ্যক পদের সমষ্টি [math]=\frac{20}{27}\left(10^{n}-1\right)-\frac{2}{3} n[/math]
+ [math]=\frac{2}{3}\left\{\frac{10}{9}\left(10^{n}-1\right)-n\right\}[/math]
+ } (প্রমাণিত)[math]\\[/math]
+ গপ্রদত্ত ধারা: [math]1+\frac{1}{3 x-5}+\frac{1}{(3 x-5)^{2}}+\frac{1}{(3 x-5)^{3}}+\ldots \ldots[/math]
+ধারাটির প্রথম পদ, [math]a=1[/math]
+সাধারণ অনুপাত, [math]r=\frac{1}{3 x-5}+1=\frac{1}{3 x-5}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি [math]|r|1[/math]
+হয়, [math]3x-5>1[/math]
+বা, [math]3x >6[/math]
+ [math]\therefore[/math]
+ [math]x>2[/math]
+অথবা,[math]-(3x-5)>1[/math]
+বা, [math]3x-5 2[/math]
+ অথবা, [math]\therefore \quad x<\frac{4}{3}[/math]
+অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{1}{1-\frac{1}{3 x-5}}[/math]
+ [math]=\frac{1}{\frac{3 x-5-1}{3 x-5}}[/math]
+ [math]=\frac{3 x-5}{3 x-6} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 705441)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2023 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]A = 9+99+999 +[/math].......................এবং
+[math]S=(5 x-3)^{-1}+(5 x-3)^{-2}+(5 x-3)^{-3}+\ldots \ldots \ldots[/math]
+
+Options:
+ক. x = 1 হলে, ১ ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. A ধারাটির প্রথম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে ১ ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]S=(5 x-3)^{-1}+(5 x-3)^{-2}+(5 x-3)^{-3}+\ldots[/math]
+ [math]r=(5 x-3)^{-2}+(5 x-3)^{-1}[/math]
+ [math]=\frac{1}{(5 x-3)^{2}}+\frac{1}{5 x-3}[/math]
+ [math]=\frac{1}{(5 x-3)^{2}} \times \frac{(5 x-3)}{1}[/math]
+ [math]=\frac{1}{5 x-3}[/math]
+ [math]x = 1[/math]
+ হলে, সাধারণ অনুপাত [math]r=\frac{1}{5.1-3}=\frac{1}{5-3}=\frac{1}{2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]A=9+99+999+[/math]
+.........................মনে করি, ধারাটির [math]n[/math]
+ সংখ্যক পদ পর্যন্ত সমষ্টি [math]S_n[/math]
+ [math]\therefore \mathrm{S}_{\mathrm{n}}=9+99+999+\ldots \ldots \ldots . \mathrm{n}^{}[/math]
+ তম পদ[math]=(10+100+1000+.... n[/math]
+ তম পদ) [math](1+1+1+.......n[/math]
+nতম পদ)[math]=\left(10+10^{2}+10^{3}+\ldots \ldots \cdot 10^{n}\right)-n[/math]
+ [math]=10 \cdot \frac{10^{n}-1}{10-1}-n .[/math]
+ [math]\therefore \mathrm{S}_{\mathrm{n}}=\frac{10\left(10^{\mathrm{n}}-1\right)}{9}-\mathrm{n} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ [math]S=(5 x-3)^{-1}+(5 x-3)^{-2}+(5 x-3)^{-3}+\ldots \ldots \ldots[/math]
+ [math]=\frac{1}{5 x-3}+\frac{1}{(5 x-3)^{2}}+\frac{1}{(5 x-3)^{3}}+\ldots \ldots[/math]
+প্রথম পদ, [math]a=\frac{1}{5 x-3}[/math]
+সাধারণ অনুপাত [math]r=\frac{1}{(5 x-3)^{2}} \div \frac{1}{5 x-3}=\frac{1}{5 x-3}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি | [math]r| 1[/math]
+হয়, [math]5x-3>1[/math]
+বা, [math]5x > 4[/math]
+ [math]\therefore x>\frac{4}{5}[/math]
+অথবা, [math]-(5x-3) > 1[/math]
+বা, [math]5x-3 2[/math]
+ [math]\therefore x\frac{4}{5}[/math]
+ অথবা, [math]x<\frac{2}{5}[/math]
+ [math]\therefore[/math]
+ [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{5 x-3}}{1-\frac{1}{5 x-3}}=\frac{\frac{1}{5 x-3}}{\frac{5 x-3-1}{5 x-3}}[/math]
+ [math]=\frac{1}{5 x-4} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 705442)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+একটি গুণোত্তর ধারার ১ম পদ [math]\frac{1}{2}[/math] এবং অসীমতক সমষ্টি [math]\frac{1}{3}[/math]
+
+Options:
+ক. ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. ধারাটি নির্ণয় কর এবং ধারাটির ১ম দশ পদের সমষ্টি নির্ণয় কর।
+গ. ধারাটির ১ম কতটি পদের সমষ্টি [math]\frac{85}{256} ?[/math]
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, গুণোত্তর ধারার প্রথম পদ, [math]a=\frac{1}{2}[/math]
+এবং অসীমতক সমষ্টি, [math]S_{\infty}=\frac{1}{3}[/math]
+ধরি, সাধারণ অনুপাত,rআমরা জানি, অসীতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r} \Rightarrow \frac{1}{3}=\frac{\frac{1}{2}}{1-r}[/math]
+ [math]\Rightarrow 1-r=\frac{3}{2} \Rightarrow r=1-\frac{3}{2} \therefore r=-\frac{1}{2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে; গুণোত্তর ধারার প্রথম পদ, [math]a=\frac{1}{2}[/math]
+'ক' হতে পাই, ধারাটির সাধারণ অনুপাত, [math]r=-\frac{1}{2}[\because rগধরি; গুণোত্তর ধারার প্রথম nটি পদের সমষ্টি [math]\frac{85}{256}[/math]
+শর্তমতে, [math]\frac{\mathrm{a}\left(1-\mathrm{r}^{\mathrm{n}}\right)}{1-\mathrm{r}}=\frac{85}{256}[\because \mathrm{r}<1][/math]
+ [math]\Rightarrow \frac{\frac{1}{2}\left\{1-\left(-\frac{1}{2}\right)^{\mathrm{n}}\right\}}{1-\left(\frac{-1}{2}\right)}=\frac{85}{256}\left[\because \mathrm{a}=\frac{1}{2}, \mathrm{r}=-\frac{1}{2}\right][/math]
+ [math]\begin{array}{l}\Rightarrow \frac{\frac{1}{2}\left\{1-\left(-\frac{1}{2}\right)^{n}\right\}}{\frac{3}{2}}=\frac{85}{256} \Rightarrow 1-\left(-\frac{1}{2}\right)^{n}=\frac{3 \times 85}{256}\\\Rightarrow 1-\left(-\frac{1}{2}\right)^{n}=\frac{255}{256} \Rightarrow \left(-\frac{1}{2}\right)^{n}=1-\frac{255}{256}\\\Rightarrow \left(-\frac{1}{2}\right)^{n}=\left(-\frac{1}{2}\right)^{8} \therefore n=8 \text{ (Ans.)}\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 705443)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math](5 x-4)^{-1}+(5 x-4)^{-2}+(5 x-4)^{-3}+\ldots \ldots \ldots[/math] এবং [math]3+33+333+\ldots \ldots \ldots[/math] দুইটি ধারা।
+
+Options:
+ক. [math]3.0 \dot{4} \dot{2}[/math] কে মূলদীয় ভগ্নাংশে প্রকাশ কর।
+খ. x এর উপর কী শর্ত আরোপ করলে প্রথম ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+গ. দ্বিতীয় ধারাটির প্রথম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\begin{array}{l}3.0 \dot{4} \dot{2}=3+0 \dot{4} \dot{2} \\=3+(0.042+0.00042+0.0000042+\ldots \ldots \ldots)\end{array}[/math]
+এখানে, বন্ধনীর ভিতরের অংশটি একটি অসীম গুণোত্তর ধারা।আর সেই গুণোত্তর ধারার ১ম পদ [math]\mathrm{a}=0.042[/math]
+ এবং সাধারণ অনুপাত [math]r=\frac{0.00042}{0.042}=0.01[/math]
+ [math]\therefore 3.0\dot 4 \dot{2}=3+\frac{a}{1-r}=3+\frac{0.042}{1-0.01}=3+\frac{7}{165}=\frac{502}{165} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারাঃ [math](5 x-4)^{-1}+(5 x-4)^{-2}+(5 x-4)^{-3}+\ldots \ldots \ldots[/math]
+ [math]=\frac{1}{5 x-4}+\frac{1}{(5 x-4)^{2}}+\frac{1}{(5 x-4)^{3}}+\cdots \cdots \cdots[/math]
+ধারাটির ১ম পদ, [math]a=\frac{1}{5 x-4}[/math]
+সাধারণ অনুপাত, [math]r=\frac{\frac{1}{(5 x-4)^{2}}}{\frac{1}{(5 x-4)}}=\frac{1}{5 x-4}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি এবং কেবল যদি | r|1[/math]
+ [math]\begin{array}{l}\Rightarrow 5 x>1+4 \\\Rightarrow 5 x>5 \\\therefore x>1\end{array}[/math]
+অথবা, [math]-(5 x-4)>1[/math]
+ [math]\begin{array}{l}\Rightarrow 5 x-41[/math]
+ অথবা [math]xগমনে করি, প্রথম n সংখ্যক পদের সমষ্টি [math]S_{n}[/math]
+ পদ[math]\therefore S_{n}=3+33+333+\ldots \ldots \ldots+n[/math]
+ তম পদ[math]=3(1+11+111+\ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{3}{9}(9+99+999+\ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{3}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots + n[/math]
+ তম পদ [math]\}[/math]
+ [math]=\frac{3}{9}\left\{\left(10+10^{2}+10^{3}+\ldots+n\right.\right.)[/math]
+ তম পদ [math]-(1+1+1+\ldots \mathrm{n}[/math]
+ তম পদ [math])\}[/math]
+ [math]\begin{array}{l}=\frac{3}{9}\left\{\left(\frac{10.10^{n}-1}{10-1}\right)-n\right\} \\=\frac{30}{81}\left(10^{n}-1\right)-\frac{3 n}{9}=\frac{10}{27}\left(10^{n}-1\right)-\frac{n}{3}\end{array}[/math]
+অতএব, ধারাটির n সংখ্যক পদের সমষ্টি, [math]\frac{10}{27}\left(10^{\mathrm{n}}-1\right)-\frac{\mathrm{n}}{3} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 705437)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left(k+\frac{x}{2}\right)^{5}[/math] এবং [math]B=4+44+444+\cdots \cdots \cdots[/math]
+
+Options:
+ক. k = 1 হলে A কে প্যাসকেল ত্রিভুজের সাহায্যে বিস্তৃত কর।
+খ. B এর প্রথম n সংখ্যক পদের যোগফল নির্ণয় কর।
+গ. [math]A=32-p x+q x^{2}+r x^{3}+\ldots \ldots \ldots[/math] মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]A=\left(k+\frac{x}{2}\right)^{5}[/math]
+k= 1 হলে, [math]A=\left(1+\frac{x}{2}\right)^{5}[/math]
+প্যাসকেলের ত্রিভুজ ব্যবহার করে,
+[Image]
+[math]\therefore A=1+5\left(\frac{x}{2}\right)+10\left(\frac{x}{2}\right)^{2}+10\left(\frac{x}{2}\right)^{3}+5\left(\frac{x}{2}\right)^{4}+\left(\frac{x}{2}\right)^{5}[/math]
+ [math]=1+\frac{5 x}{2}+\frac{5 x^{2}}{2}+\frac{5 x^{3}}{4}+\frac{5 x^{4}}{16}+\frac{x^{5}}{32} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]B=4+44+444+\cdots \cdots \cdots[/math]
+ [math]=4(1+11+111+\ldots \ldots \ldots . .[/math]
+ + n তম পদ)[math]=\frac{4}{9}(9+99+999+\ldots \ldots \ldots .[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10-1)+(100-1)+(1000-1)+\ldots . .[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10+100+1000+\ldots \ldots \ldots[/math]
+ + n তম পদ) [math]-(1+1+1+\ldots .[/math]
+ + n তম পদ)[math]=\frac{4}{9}\left\{10 \cdot\left(\frac{10^{n}-1}{10-1}\right)-n\right\}[/math]
+ [math]=\frac{40}{81}\left(10^{n}-1\right)-\frac{4}{9} n[/math]
+অতএব, B ধারাটির প্রথম n সংখ্যক পদের সমষ্টি,[math]\mathrm{S}_{\mathrm{n}}=\frac{40}{81}\left(10^{\mathrm{n}}-1\right)-\frac{4}{8} \mathrm{n} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\left(k+\frac{x}{2}\right)^{5}[/math]
+'ক' এর প্যাসকেলের ত্রিভুজ ব্যবহার করে পাই,[math]A=k^{5}+5 k^{4}\left(\frac{x}{2}\right)+10 k^{3}\left(\frac{x}{2}\right)^{2}+10 k^{2}\left(\frac{x}{2}\right)^{3}+5 k\left(\frac{x}{2}\right)^{4}+\left(\frac{x}{2}\right)^{5}[/math]
+ [math]=k^{5}+\frac{5}{2} k^{4} x+\frac{5}{2} k^{3} x^{2}+\frac{5}{4} k^{2} x^{3}+\frac{5}{16} k x^{4}+\frac{x^{5}}{32}[/math]
+ [math]\mathrm{A}=32-\mathrm{px}+\mathrm{qx}^{2}+\mathrm{rx}^{3}+\ldots \ldots \ldots{ }^{3}[/math]
+ হলে,[math]k^{5}=32=2^{5}[/math]
+ [math]\therefore \mathrm{k}=2[/math]
+ [math]-p=\frac{5}{2} k^{4}=\frac{5}{2}(2)^{4}=40[/math]
+ [math]\therefore \mathrm{p}=-40[/math]
+ [math]\mathrm{q}=\frac{5}{2} \mathrm{k}^{3}=\frac{5}{2}(2)^{3}=20[/math]
+এবং [math]r=\frac{5}{4} k^{2}=\frac{5}{4} \times 2^{2}=5[/math]
+ [math]\therefore p=-40, q=20[/math]
+ ও [math]r=5 \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 705435)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } C=(1-x)^{6}, D=(1+x)^{7}[/math] [math]\text { (ii) }(x-1)^{-1}+(x-1)^{-2}+(x-1)^{-3}+\ldots .[/math]
+
+Options:
+ক. প্যাসকেলের ত্রিভুজ ব্যবহার করে [math](1-2 x)^{5}[/math] এর বিস্তৃতি নির্ণয় কর।
+খ. x এর উপর কী শর্ত আরোপ করলে (ii) নং ধারার অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+গ. CD এর বিস্তৃতিতে [math]x^5[/math] এর সহগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্যাসকেলের ত্রিভুজের সাহায্যে-
+[Image]
+[math]=1-10 x+40 x^{2}-80 x^{3}+80 x^{4}-32 x^{5} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খউদ্দীপকের প্রদত্ত ধারা:[math](x-1)^{-1}+(x-1)^{-2}+(x-1)^{-3}+\ldots \ldots \ldots \ldots[/math]
+ [math]=\frac{1}{x-1}+\frac{1}{(x-1)^{2}}+\frac{1}{(x-1)^{3}}+\ldots \ldots \ldots .[/math]
+এখানে, প্রথম পদ, [math]a=\frac{1}{x-1}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{(x-1)^{2}} \div \frac{1}{x-1}=\frac{1}{x-1}[/math]
+ধারাটির অসীমতক সমষ্টি যদি [math]|r|1[/math]
+ হয়।এখন, (x - 1) অঋণাত্মক হলে,[math]x-1>1 \quad \therefore x>2[/math]
+(x - 1) ঋণাত্মক হলে, [math](x1)>1[/math]
+ বা, [math]x - 1  2[/math]
+ (Ans.).: অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{x-1}}{1-\frac{1}{x-1}}=\frac{\frac{1}{x-1}}{\frac{x-1-1}{x-1}}[/math]
+ [math]=\frac{1}{x-1} \times \frac{x-1}{x-2}=\frac{1}{x-2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]C = (1 - x) ^ 6[/math]
+ এবং [math]\mathrm{D}=(1+\mathrm{x})^{7}[/math]
+ [math]\mathrm{CD} =(1-x)^{6}(1+x)^{7}=(1+x)\{(1+x)(1-x)\}^{6}[/math]
+ [math]=(1+x)\left(1-x^{2}\right)^{6}[/math]
+ [math]=(1+x)\left(1-\binom{6}{1} x^{2}+\binom{6}{2} x^{4}-\ldots \ldots\right)[/math]
+\begin{array}{l}[math]=(1+x)\left(1-6 x^{2}+15 x^{4}-\ldots \ldots\right)[/math]
+ [math]=\left(1-6 x^{2}+15 x^{4}-\ldots \ldots\right)+\left(x-6 x^{3}+15 x^{5}-\ldots\right)[/math]
+ [math]=1+x-6 x^{2}-6 x^{3}+15 x^{4}+15 x^{5}-\ldots .......[/math]
+.: CD এর [math]x ^ 5[/math]
+ সহগ 15 (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 705436)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { i. } \frac{1}{(3 x-4)}+\frac{1}{(3 x-4)^{2}}+\frac{1}{(3 x-4)^{3}}+\ldots \ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+[math]\text { ii. }\left(x-\frac{k}{x^{2}}\right)^{8}[/math] একটি দ্বিপদী রাশি।
+
+Options:
+ক. [math]2.0 \dot{5}[/math] কে মূলদীয় ভগ্নাংশে প্রকাশ কর।
+খ. x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+গ. (ii) এর বিস্তৃতিতে [math]x²[/math] এর সহগ 252 হলে, k এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সংখ্যা [math]a=2.0 \dot{5}=2.0555 \ldots \ldots \ldots .[/math]
+ [math]=2+(0.05+0.005+0.0005+\ldots \ldots \ldots .)[/math]
+এখানে দশমিক ভগ্নাংশের সমষ্টি নিয়ে একটি অসীম গুণোত্তর ধারা সৃষ্টি হয়েছে যারপ্রথম পদ, [math]b = 0.05[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{0.005}{0.05}=0.1[/math]
+ [math]\therefore[/math]
+ অসীম গুণোত্তর ধারাটির সমষ্টি [math]=\frac{b}{1-r}=\frac{0.05}{1-0.1}[/math]
+ [math]=\frac{0.05}{0.9}=\frac{1}{18}[/math]
+ [math]\therefore \mathrm{a}=2+(0.05+0.005+0.0005+\ldots \ldots \ldots \ldots . . . . . .[/math]
+ [math]=2+\frac{1}{18}=\frac{37}{18} \quad \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারার ১ম পদ, [math]a=\frac{1}{3 x-4}[/math]
+সাধারণ অনুপাত, [math]r=\frac{1}{(3 x-4)^{2}} \div \frac{1}{3 x-4}=\frac{1}{3 x-4}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি [math]|r| 1[/math]
+বা, [math]3 x>5 \quad[/math]
+ [math]\therefore x>\frac{5}{3}[/math]
+আবার [math]\frac{1}{3 x-4}>-1[/math]
+বা, [math]3 x-4\frac{5}{3} \text { (Ans.) }[/math]
+ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{3 x-4}}{1-\frac{1}{3 x-4}}[/math]
+ [math]=\frac{\frac{1}{3 x-4}}{\frac{3 x-4-1}{3 x-4}}=\frac{1}{3 x-4} \times \frac{3 x-4}{3 x-5}=\frac{1}{3 x-5} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গপ্রদত্ত দ্বিপদী রাশি [math]=\left(x-\frac{k}{x^{2}}\right)^{8}[/math]
+ধরি, [math]x²[/math]
+ এর সহগ [math](r + 1)[/math]
+ তম পদে অবস্থিত।এখন, [math](r + 1)[/math]
+ তম পদ [math]={ }^{\mathrm{n}} \mathrm{C}_{\mathrm{r}} \mathrm{a}^{\mathrm{n}-\mathrm{r}} \cdot \mathrm{~b}^{\mathrm{r}}[/math]
+ [math]={ }^{8} \mathrm{C}_{\mathrm{r}} x^{8-\mathrm{r}} \cdot\left(-\frac{\mathrm{k}}{\mathrm{x}^{2}}\right)^{\mathrm{r}}[/math]
+ [math]={ }^{8} \mathrm{C}_{\mathrm{r}} \mathrm{x}^{8-\mathrm{r}} \cdot \mathrm{x}^{-2 \mathrm{r}} \cdot(-\mathrm{k})^{\mathrm{r}}[/math]
+ [math]={ }^{8} \mathrm{C}_{\mathrm{r}} x^{8-3 \mathrm{r}} \cdot(-\mathrm{k})^{\mathrm{r}}[/math]
+শর্তমতে, [math]x^{8-3 r}=x^{2}[/math]
+বা, [math]8-3 r=2[/math]
+বা, [math]3 r=6[/math]
+ [math]\therefore r=2[/math]
+আবার, দেওয়া আছে, [math](r + 1)[/math]
+ তম পদের সহগ [math]= 252[/math]
+ [math]\therefore{ }^{8} \mathrm{C}_{\mathrm{r}}(-\mathrm{k})^{\mathrm{r}}=252[/math]
+বা, [math]{ }^{8} C_{2}(-k)^{2}=252[/math]
+বা, [math]28 k^{2}=252[/math]
+বা, [math]\mathrm{k}^{2}=\frac{252}{28}=9 \quad[/math]
+ [math]\therefore \mathrm{k}= \pm 3 \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 705366)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } 2+\sqrt{2}+1+\frac{1}{\sqrt{2}}+\frac{1}{2}+\frac{1}{2 \sqrt{2}}+\ldots \ldots[/math] [math]\mathrm{\text { (ii) } \sqrt[3]{(1+x)}+\sqrt[3]{(1+x)}=\sqrt[3]{2}}.[/math]
+
+Options:
+ক. [math]\mathrm{0 . \dot{1} \dot{2}}[/math] কে মূলদীয় ভগ্নাংশে প্রকাশ কর।
+খ. [math]\text { (i) }[/math] প্রদত্ত অসীম গুণোত্তর ধারার ৭ম পদ নির্ণয় কর এবং অসীমতক সমষ্টি (যদি থাকে) তবে তা নির্ণয় কর।
+গ. [math]\text { (ii) }[/math] সমীকরণটির সমাধান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]0 . \dot{1} \dot{2}=0.12121212 \ldots \ldots \ldots[/math]
+ [math]=0.12+0.0012+0.000012+\ldots \ldots \ldots[/math]
+যা একটি অনন্ত গুণোত্তর ধারা।ধারাটির ১ম পদ, [math]a=0.12[/math]
+সাধারণ অনুপাত, [math]r=\frac{0.0012}{0.12}=0.01[/math]
+ [math]\therefore[/math]
+ ধারাটির অসীমতক সমষ্টি[math]S_{\infty}=\frac{a}{1-r}=\frac{0.12}{1-0.01}=\frac{0.12}{0.99}=\frac{12}{99}=\frac{4}{33}[/math]
+ [math]\therefore 0.\dot1\dot2=\frac{4}{33} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারাটি, [math]2+\sqrt{2}+1+\frac{1}{\sqrt{2}}+\frac{1}{2}+\frac{1}{2 \sqrt{2}}+\ldots \ldots \ldots[/math]
+ধারাটির ১ম পদ, a = 2সাধারণ অনুপাত, [math]r=\frac{\sqrt{2}}{2}=\frac{1}{\sqrt{2}}[/math]
+আমরা জানি, গুণোত্তর ধারার n তম পদ [math]=a r^{n-1}[/math]
+ [math]\therefore[/math]
+ ৭ম পদ [math]=2\left(\frac{1}{\sqrt{2}}\right)^{7-1}[/math]
+ [math]=2 \times \frac{1}{8}=\frac{1}{4} \text { (Ans.) }[/math]
+এখানে, [math]|r|=\frac{1}{\sqrt{2}}গপাঠ্যবইয়ের অনুশীলনী-৫.২ এর উদাহরণ-১০ দ্রষ্টব্য। পৃষ্ঠা-১০২
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 705367)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{\frac{1}{2 x-5}+\frac{1}{(2 x-5)^{2}}+\frac{1}{(2 x-5)^{3}}+.......}[/math] একটি ধারা।
+
+Options:
+ক. যদি [math]\mathrm{x=4}[/math] হয়, ধারাটি নির্ণয় কর এবং এর সাধারণ অনুপাত কত?
+খ. [math]\mathrm{x=5}[/math] হলে ধারাটির নবম পদ এবং প্রথম দশটি পদের সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{x}[/math] এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারাটি [math]\frac{1}{2 x-5}+\frac{1}{(2 x-5)^{2}}+\frac{1}{(2 x-5)^{3}}+\ldots \ldots \ldots[/math]
+ [math]x=4[/math]
+ হলে ধারাটি [math]\frac{1}{2 \times 4-5}+\frac{1}{(2 \times 4-5)^{2}}+\frac{1}{(2 \times 4-5)^{3}}+\ldots \ldots[/math]
+ [math]\left.=\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots \text { (Ans. }\right)[/math]
+ [math]=\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots \ldots \text { (Ans..) }[/math]
+সাধারণ অনুপাত [math]=\frac{1}{3^{2}} \div \frac{1}{3}=\frac{1}{3} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]x=5[/math]
+ ধারাটি [math]\frac{1}{2 \times 5-5}+\frac{1}{(2 \times 5-5)^{2}}+\frac{1}{(2 \times 5-5)^{3}}+\ldots \ldots[/math]
+ [math]=\frac{1}{5}+\frac{1}{5^{2}}+\frac{1}{5^{3}}+\ldots \ldots \ldots[/math]
+যার প্রথম পদ [math]a=\frac{1}{5}[/math]
+সাধারন অনুপাত, [math]r=\frac{1}{5^{2}} \div \frac{1}{5}=\frac{1}{5}[/math]
+আমরা জানি, গুণোত্তর ধারার n তম পদ [math]=a r^{n-1}[/math]
+ [math]\therefore[/math]
+ নবম পদ [math]=\frac{1}{5} \cdot\left(\frac{1}{5}\right)^{9-1}=\frac{1}{5} \cdot \frac{1}{5^{8}}=\frac{1}{5^{9}} \text { (Ans.) }[/math]
+আবার, n সংখ্যক পদের সমষ্টি, [math]S_{n}=\frac{a\left(1-r^{n}\right)}{1-r},[/math]
+ যখন [math]\mathrm{r}গপ্রদত্ত ধারাটির ১ম পদ [math]a=\frac{1}{2 x-5}[/math]
+সাধারন অনুপাত, [math]r=\frac{1}{(2 x-5)^{2}}+\frac{1}{(2 x-5)}=\frac{1}{2 x-5}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি [math]|r|1\\\Rightarrow 2 x-5+5>1+5\\\Rightarrow 2 x>6\end{array}[/math]
+ [math]\therefore \quad x>3[/math]
+আবার, [math]\frac{1}{2 x-5}>-1[/math]
+ [math]\begin{array}{l}\text{বा, } 2 x-53[/math]
+ অথবা [math]x<2[/math]
+এখন, ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{2 x-5}}{1-\frac{1}{2 x-5}}[/math]
+ [math]\begin{array}{l}=\frac{1}{2 x-5} \times \frac{2 x-5}{2 x-6} \\=\frac{1}{2 x-6} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 705384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) }(2+5 x)^{-1}+(2+5 x)^{-2}+(2+5 x)^{-3}+\ldots \ldots[/math] একটি অসীম ধারা।
+
+[math]\text { (ii) } \mathrm{B}=\left(3 \mathrm{k}-\frac{2 \mathrm{x}}{3}\right)[/math]
+
+Options:
+ক. [math](1-2 x)^{5}[/math] কে প্যাসকেলের ত্রিভুজের সাহায্যে বিস্তৃত কর।
+খ. B এর বিস্তৃতিতে [math]k^{3}[/math] এর সহগ 15120 হলে, x এর মান নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্যাসকেলের ত্রিভুজের সাহায্যে-
+[Image]
+[math]=1-10 x+40 x^{2}-80 x^{3}+80 x^{4}-32 x^{5} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]\mathrm{B}=\left(3 \mathrm{k}-\frac{2 \mathrm{x}}{3}\right)^{7}[/math]
+B এর বিস্তৃতিতে (r + 1) তম পদ [math]={ }^{7} \mathrm{C}_{\mathrm{r}}(3 \mathrm{k})^{7-\mathrm{r}}\left(-\frac{2 \mathrm{x}}{3}\right)^{\mathrm{r}}[/math]
+ [math]={ }^{7} \mathrm{C}_{\mathrm{r}} 3^{7-2 \mathrm{r}}(-1)^{\mathrm{r}} \cdot 2^{\mathrm{r}} \cdot \mathrm{k}^{7-\mathrm{r}} \cdot \mathrm{x}^{\mathrm{r}}[/math]
+ [math]k³[/math]
+ এর জন্য, [math]7 - r = 3[/math]
+ [math]\therefore r=4[/math]
+প্রশ্নমতে [math]{ }^{7} \mathrm{C}_{4} \cdot 3^{7-2.4},(-1)^{4} \cdot 2^{4} \cdot \mathrm{x}^{4}=15120[/math]
+বা, [math]35, \frac{1}{3} \cdot 16 \cdot x^{4}=15120[/math]
+বা, [math]x^{4}=81[/math]
+বা, [math]x^{4}=3^{4}[/math]
+ [math]\therefore x=3 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গপ্রদত্ত ধারা [math](2+5 x)^{-1}+(2+5 x)^{-2}+(2+5 x)^{-3}+\ldots \ldots \ldots[/math]
+প্রদত্ত ধারাটির প্রথম পদ, [math]a=(2+5 x)^{-1}=\frac{1}{2+5 x}[/math]
+সাধারণ অনুপাত, [math]\mathrm{r}=(2+5 \mathrm{x})^{-2}+(2+5 \mathrm{x})^{-1}[/math]
+ [math]=\frac{1}{(2+5 x)^{2}} \times(2+5 x)=\frac{1}{2+5 x}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি |r|1[/math]
+বা, [math]5 x>-1[/math]
+ [math]\therefore x>-\frac{1}{5}[/math]
+.: নির্ণেয় শর্ত [math]x-\frac{1}{5}[/math]
+.: নির্ণেয় অসীমতক সমষ্টি [math]=\frac{a}{1-r}=\frac{\frac{1}{2+5 x}}{1-\frac{1}{2+5 x}}[/math]
+ [math]=\frac{1}{2+5 x} \times \frac{2+5 x}{2+5 x-1}=\frac{1}{5 x+1} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 705418)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{1+\frac{1}{1+3 x}+\frac{1}{(1+3 x)^{2}}+\frac{1}{(1+3 x)^{3}}+.........}[/math] একটি অসীম ধারা।
+
+Options:
+ক. [math]\mathrm{x=1}[/math] এর জন্য প্রাপ্ত ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. [math]\mathrm{x=\frac{1}{3}}[/math] হলে, ধারাটির ১ম 10টি পদের সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{x}[/math] এর উপর কী কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে?
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারাটি, [math]1+\frac{1}{1+3 x}+\frac{1}{(1+3 x)^{2}}+\frac{1}{(1+3 x)^{3}}+\ldots \ldots[/math]
+ [math]x=1[/math]
+ হলে ধারাটি, [math]1+\frac{1}{1+3.1}+\frac{1}{(1+3.1)^{2}}+\frac{1}{(1+3.1)^{3}}+\ldots . . .[/math]
+ [math]=1+\frac{1}{4}+\frac{1}{4^{2}}+\frac{1}{4^{3}}+\ldots \ldots[/math]
+
+[Image]
+[math]\\[/math]
+ খ [math]x=\frac{1}{3}[/math]
+ হলে ধারাটি[math]1+\frac{1}{1+3 \frac{1}{3}}+\frac{1}{\left(1+3 \cdot \frac{1}{3}\right)^{2}}+\frac{1}{\left(1+3 \cdot \frac{1}{3}\right)^{3}}+\ldots \ldots[/math]
+ [math]=1+\frac{1}{2}+\frac{1}{2^{2}}+\frac{1}{2^{3}}+\ldots \ldots[/math]
+যার প্রথম পদ, a = 1সাধারন অনুপাত, [math]r=\frac{\frac{1}{2}}{1}=\frac{1}{2}গপ্রদত্ত ধারাটির সাধারন অনুপাত, [math]r=\frac{\frac{1}{1+3 x}}{1}=\frac{1}{1+3 x}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি [math]|r|1+3 x[/math]
+ [math]\Rightarrow -1-1>1+3 x-1[/math]
+ [math]\Rightarrow -2>3 x[/math]
+ [math]\therefore \quad x1\\\Rightarrow 1+3 x-1>1-1\\\Rightarrow 3 x>0\end{array}[/math]
+ [math]\therefore \quad x>0[/math]
+ [math]\therefore[/math]
+ নির্ণেয় শর্তঃ [math]x > 0[/math]
+ অথবা [math]x<-\frac{2}{3} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 705420)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{\frac{1}{3 x+2}+\frac{1}{(3 x+2)^{2}}+\frac{1}{(3 x+2)^{3}}+\ldots \ldots}[/math] একটি অসীম গুনোত্তর ধারা এবং [math]\mathrm{p x^{2}+q x+r=0}[/math] একটি এক চলকবিশিষ্ট দ্বিঘাত সমীকরণ, যেখানে, [math]\mathrm{p}, \mathrm{q}, \mathrm{r}[/math] বাস্তব সংখ্যা ও [math]\mathrm{p 
+eq 0}[/math]।
+
+Options:
+ক. [math]\mathrm{x=1}[/math] হলে ধারাটি নির্ণয় কর এবং প্রাপ্ত ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. ' [math]\mathrm{x}[/math]' এর উপর কী শর্ত আরোপ করলে প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{a}[/math] ও [math]\mathrm{b}[/math] যদি সমীকরণটির দুইটি মূল হয়, তবে প্রমাণ কর যে, [math]\mathrm{a+b=\frac{-q}{p}}[/math] এবং [math]\mathrm{ab=\frac{r}{p}}.[/math]
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারা, [math]\frac{1}{3 x+2}+\frac{1}{(3 x+2)^{2}}+\frac{1}{(3 x+2)^{3}}+\ldots \ldots[/math]
+ [math]x=1[/math]
+ হলে ধারাটি, [math]\frac{1}{3.1+2}+\frac{1}{(3.1+2)^{2}}+\frac{1}{(3.1+2)^{3}}+\ldots[/math]
+ [math]=\frac{1}{5}+\frac{1}{5^{2}}+\frac{1}{5^{3}}+\ldots \ldots \text { (Ans.) }[/math]
+সাধারন অনুপাত [math]=\frac{1}{5^{2}} \div \frac{1}{5}=\frac{1}{5} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারার সাধারন অনুপাত [math]r=\frac{\frac{1}{(3 x+2)^{2}}}{\frac{1}{3 x+2}}=\frac{1}{3 x+2}[/math]
+এখন, ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি[math]|\mathbf{r}|3 x+2\\\Rightarrow -1-2>3 x+2-2\\\Rightarrow -3>3 x\end{array}[/math]
+ [math]\therefore \quad x1\\\Rightarrow 3 x+2-2>1-2\\\Rightarrow 3 x>-1\end{array}[/math]
+ [math]\therefore \quad x>-\frac{1}{3}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় শর্ত: [math]x-\frac{1}{3} \text { (Ans.) }[/math]
+আবার, ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}[/math]
+ [math]=\frac{\frac{1}{3 x+2}}{1-\frac{1}{3 x+2}}[/math]
+ [math]\left[\because a=\frac{1}{3 x+2}\right][/math]
+ [math]\begin{array}{l}=\frac{1}{3 x+2} \times \frac{3 x+2}{3 x+1} \\=\frac{1}{3 x+1} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ গদেওয়া আছে,[math]p x^{2}+q x+r=0 ; p 
+eq 0[/math]
+ [math]\begin{aligned}\therefore \quad x & =\frac{-q \pm \sqrt{q^{2}-4 p r}}{2 p} \\& =\frac{-q+\sqrt{q^{2}-4 p r}}{2 p}, \frac{-q-\sqrt{q^{2}-4 p r}}{2 p}\end{aligned}[/math]
+আবার, যেহেতু সমীকরণটির দুটি মূল a এবং b[math]\therefore \quad a=\frac{-q+\sqrt{q^{2}-4 p r}}{2 p}[/math]
+ এবং [math]b=\frac{-q-\sqrt{q^{2}-4 p r}}{2 p}[/math]
+এখন, [math]a+b=\frac{-q+\sqrt{q^{2}-4 p r}}{2 p}+\frac{-q-\sqrt{q^{2}-4 p r}}{2 p}[/math]
+ [math]=\frac{-q+\sqrt{q^{2}-4 p r}-q-\sqrt{q^{2}-4 p r}}{2 p}=\frac{-2 q}{2 p}[/math]
+ [math]\therefore \quad a+b=-\frac{q}{p}[/math]
+আবার, [math]a b=\frac{-q+\sqrt{q^{2}-4 p r}}{2 p} \cdot \frac{-q-\sqrt{q^{2}-4 p r}}{2 p}[/math]
+ [math]\begin{array}{l}=\frac{(-q)^{2}-\left(\sqrt{q^{2}-4 p r}\right)^{2}}{4 p^{2}} \\=\frac{q^{2}-\left(q^{2}-4 p r\right)}{4 p^{2}} \\=\frac{q^{2}-q^{2}+4 p r}{4 p^{2}}=\frac{4 p r}{4 p \cdot p}\end{array}[/math]
+ [math]\therefore \quad a b=\frac{r}{p}[/math]
+অতএব, [math]a+b=-\frac{q}{p}[/math]
+ এবং [math]a b=\frac{r}{p}[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 705422)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{\frac{1}{3 x-1}+\frac{1}{(3 x-1)^{2}}+\frac{1}{(3 x-1)^{3}}+...............}[/math]
+
+Options:
+ক. [math]\mathrm{x=2}[/math] হলে প্রাপ্ত ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. [math]\mathrm{x=1}[/math] হলে ধারাটির ৭ম পদ এবং ১ম দশটি পদের সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{x}[/math] এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারাটি, [math]\frac{1}{3 x-1}+\frac{1}{(3 x-1)^{2}}+\frac{1}{(3 x-1)^{3}}+\ldots \ldots \ldots \ldots[/math]
+ [math]x=2[/math]
+ হলে ধারাটি, [math]\frac{1}{3.2-1}+\frac{1}{(3.2-1)^{2}}+\frac{1}{(3.2-1)^{3}}+\ldots \ldots \ldots \ldots[/math]
+ [math]=\frac{1}{5}+\frac{1}{5^{2}}+\frac{1}{5^{3}}+\ldots \ldots \ldots \ldots \ldots[/math]
+ [math]\therefore[/math]
+ ধারাটির সাধারণ অনুপাত [math]=\frac{1}{5^{2}} \div \frac{1}{5}=\frac{1}{5} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]x=1[/math]
+ হলে ধারাটি, [math]\frac{1}{3.1-1}+\frac{1}{(3.1-1)^{2}}+\frac{1}{(3.1-1)^{3}}+\ldots \ldots[/math]
+ [math]=\frac{1}{2}+\frac{1}{2^{2}}+\frac{1}{2^{3}}+........[/math]
+যার ১ম পদ, [math]a=\frac{1}{2}[/math]
+সাধারন অনুপাত, [math]r=\frac{1}{2^{2}} \div \frac{1}{2}=\frac{1}{2}গ
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 705424)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{\frac{1}{2 x+1}+\frac{1}{(2 x+1)^{2}}+\frac{1}{(2 x+1)^{3}}+............}[/math]
+
+Options:
+ক. [math]\mathrm{x=3}[/math] হলে, ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. [math]\mathrm{x=-2}[/math] হলে, ধারাটির দশম পদ এবং প্রথম আটটি পদের সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{x}[/math]- এর উপর কী শর্ত আরোপ করলে উদ্দীপকের ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারাটি, [math]\frac{1}{2 x+1}+\frac{1}{(2 x+1)^{2}}+\frac{1}{(2 x+1)^{3}}+\ldots \ldots \ldots[/math]
+ [math]x=3[/math]
+ হলে ধারাটি, [math]\frac{1}{2.3+1}+\frac{1}{(2: 3+1)^{2}}+\frac{1}{(2.3+1)^{3}}+\ldots \ldots[/math]
+ [math]=\frac{1}{7}+\frac{1}{7^{2}}+\frac{1}{7^{3}}+[/math]
+ [math]\therefore[/math]
+ সাধারণ অনুপাত [math]=\frac{1}{7^{2}} \div \frac{1}{7}=\frac{1}{7} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]x=-2[/math]
+ হলে ধারাটি [math]\frac{1}{2 \cdot(-2)+1}+\frac{1}{\{2 \cdot(-2)+1\}^{2}}+\frac{1}{\{2 \cdot(-2)+1\}^{3}}+\ldots \ldots[/math]
+ [math]=-\frac{1}{3}+\frac{1}{3^{2}}-\frac{1}{3^{3}}+[/math]
+ধারাটির প্রথম পদ [math]a=-\frac{1}{3}[/math]
+সাধারণ অনুপাত, [math]r=\frac{1}{3^{2}} \div \frac{-1}{3}=-\frac{1}{3}[/math]
+ [math]r=\frac{1}{3^{2}} \div \frac{-1}{3}=-\frac{1}{3}[/math]
+আমরা জানি, গুণোত্তর ধারার n তম পদ [math]=a r^{n-1}[/math]
+ [math]\therefore[/math]
+ ধারাটির ১০ম পদ [math]=-\frac{1}{3} \cdot\left(-\frac{1}{3}\right)^{10-1}[/math]
+ [math]=\frac{1}{3} \cdot \frac{1}{3^{9}}=\frac{1}{3^{10}} \text { (Ans.) }[/math]
+আবার, গুণোত্তর ধারার ১ম n পদের সমষ্টি,[math]S_{n}=\frac{a\left(1-r^{n}\right)}{1-r} ;[|r|গপ্রদত্ত ধারার ১ম পদ [math]a=\frac{1}{2 x+1}[/math]
+সাধারন অনুপাত, [math]r=\frac{1}{(2 x+1)^{2}} \div \frac{1}{(2 x+1)}=\frac{1}{2 x+1}[/math]
+এখন, ধারাটির অসীমতক সমষ্টি থাকবে যদিও কেবল যদি [math]|x|2 x+1\\\Rightarrow -1-1>2 x+1-1\\\Rightarrow -2>2 x\end{array}[/math]
+ [math]\therefore \quad x1\\\Rightarrow 2 x+1-1>1-1\\\Rightarrow 2 x>0 \text{.}\end{array}[/math]
+ [math]\therefore \quad x>0[/math]
+ [math]\therefore[/math]
+ নির্ণেয় শর্ত: [math]x  0[/math]
+ [math]\text { (Ans.) }[/math]
+আবার, ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}[/math]
+ [math]\begin{array}{l}=\frac{\frac{1}{2 x+1}}{1-\frac{1}{2 x+1}} \\=\frac{\frac{1}{2 x+1}}{\frac{2 x+1-1}{2 x+1}} \\=\frac{1}{2 x+1} \times \frac{2 x+1}{2 x} \\=\frac{1}{2 x} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 705426)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{2 p-7}+\frac{1}{(2 p-7)^{2}}+\frac{1}{(2 p-7)^{3}}+\ldots \ldots \ldots \ldots \infty[/math]
+
+Options:
+ক. [math]p=12[/math] হলে ধারাটি নির্ণয় কর এবং এর সাধারণ অনুপাত কত?
+খ. [math]p=9[/math] হলে ধারাটির দ্বাদশ পদ এবং প্রথম পনেরটি পদের সমষ্টি নির্ণয় কর।
+গ. [math]p[/math] এর ওপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 705427)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Barisal Cadet College
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১ঃ [math]x^{2}-8 x+16=0[/math] একটি দ্বিঘাত সমীকরণ।
+
+দৃশ্যকল্প-২ঃ [math]1+\frac{1}{1+3 x}+\frac{1}{(1+3 x)^{2}}+\frac{1}{(1+3 x)^{3}}+\ldots \ldots \ldots[/math]
+
+Options:
+ক. যদি [math]5^{m y-1}=5 a^{m y-2}(a>0, a \neq 5, m \neq 0)[/math] হয় তবে [math]y[/math] এর মান নির্ণয় কর।
+খ. দৃশ্যকল্প-২ এর সমীকরণটি লেখচিত্রের সাহায্যে সমাধান কর।
+গ. দৃশ্যকল্প-২ এর ধারটির ১ম [math]10[/math]টি পদের সমষ্টি নির্ণয় কর যখন [math]x=\frac{1}{3}[/math]।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 705344)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]A=4+44+444+\ldots \ldots \ldots[/math] এবং
+
+[math]S=2(3 x-5)^{-1}+4(3 x-5)^{-2}+8(3 x-5)^{-3} \ldots \ldots \ldots[/math] দুইটি অসীম ধারা।
+
+Options:
+ক. [math]2x ^ 2 + 7x + 3 = 0[/math] সমীকরণটির মূলের ধরন ও প্রকৃতি নির্ণয় কর।
+খ. A ধারাটির প্রথম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে S ধারাটির (অসীমতক) সমষ্টি থাকবে' এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]2x ^ 2 + 7x + 3 = 0[/math]
+.: নিশ্চায়ক, [math]D = 7 ^ 2 - 4 . 2 . 3 = 49 - 24 = 25 = 5 ^ 2[/math]
+এখানে, সমীকরণটির নিশ্চায়ক, D > 0 এবং পূর্ণবর্গ সংখ্যা,.: সমীকরণটির মূলগুলো মূলদ, অসমান এবং বাস্তব সংখ্যা। (Ans.)[math]\\[/math]
+ খদেওয়া আছে, [math]A=4+44+444+\ldots \ldots \ldots \ldots .[/math]
+ [math]=4(1+11+111+\ldots \ldots \ldots \ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}(9+99+999+\ldots \ldots \ldots \ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10-1)+(100-1)+(1000-1)+\ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10+100+1000+\ldots \ldots \ldots[/math]
+ + n তম পদ) [math]-(1+1+1+\ldots .[/math]
+ + n তম পদ)[math]=\frac{4}{9}\left\{10 \cdot\left(\frac{10^{n}-1}{10-1}\right)-n\right\}=\frac{40}{81}\left(10^{n}-1\right)^{ }-\frac{4}{9} n[/math]
+অতএব, A ধারাটির প্রথম n সংখ্যক পদের সমষ্টি,[math]S_{n}=\frac{40}{81}\left(10^{n}-1\right)-\frac{4}{8} n(\text { Ans. })[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, প্রদত্ত ধারা:[math]S=2(3 x-5)^{-1}+4(3 x-5)^{-2}+8(3 x-5)^{-3}+\ldots \ldots \ldots[/math]
+ [math]=\frac{2}{3 x-5}+\left(\frac{2}{3 x-5}\right)^{2}+\left(\frac{2}{3 x-5}\right)^{3}+\ldots . .[/math]
+ যা একটি গুণোত্তর ধারাধারাটির প্রথম পদ, [math]a=\frac{2}{3 x-5}[/math]
+সাধারণ অনুপাত, [math]r=\left(\frac{2}{3 x-5}\right)^{2} \div\left(\frac{2}{3 x-5}\right)=\frac{2}{3 x-5}[/math]
+প্রদত্ত ধারাটির অসীমতক [math]|r| 2[/math]
+ [math]\because x>\frac{7}{3}[/math]
+এবং [math]\frac{2}{3 x-5}>-1[/math]
+বা, [math]\frac{1}{3 x-5}>-\frac{1}{2}[/math]
+বা, [math]3 x-5\frac{7}{3}[/math]
+ অথবা [math]\mathrm{x}<1[/math]
+ (Ans.)অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{2}{3 x-5}}{1-\frac{2}{3 x-5}}=\frac{2}{3 x-5} \div \frac{3 x-5-2}{3 x-5}[/math]
+ [math]=\frac{2}{3 x-5} \times \frac{3 x-5}{3 x-7}=\frac{2}{3 x-7} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 705345)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } 3(1+11+111+\ldots . . . . .)[/math] [math]\text { (ii) } a+a p+a p^{2}+\ldots. . . . .[/math] একটি গুণোত্তর ধারা।
+
+Options:
+ক. [math]7x - 1 + 2x ^ 2 = 0[/math] সমীকরণের নিশ্চায়ক নির্ণয় কর।
+খ. (i) নং ধারার ১ম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+গ. [math]a=p=\frac{1}{2 x+3}[/math] হলে, x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]7x - 1 + 2x ^ 2 = 0[/math]
+বা, [math]2x ^ 2 + 7x - 1 = 0[/math]
+সমীকরণটিকে [math]a x ^ 2 + bx + c = 0[/math]
+ সমীকরণের সাথে তুলনা করে পাই,[math]a = 2 , \ b = 7[/math]
+ এবং [math]c = - 1[/math]
+নিশ্চায়ক, [math]\mathrm{D}=\mathrm{b}^{2}-4 \mathrm{ac}=7^{2}-4 \times 2 \times(-1)[/math]
+ [math]=49+8=57 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খমনে করি, (i) নং ধারার প্রথম n সংখ্যক পদের সমষ্টি [math]S_n[/math]
+ [math]\therefore \mathrm{S}_{\mathrm{n}}=3(1+11+111+\ldots \ldots \ldots[/math]
+ +n তম পদ)[math]=\frac{3}{9}(9+99+999+\ldots \ldots[/math]
+ +n তম পদ)[math]=\frac{3}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots .[/math]
+ +n তম পদ)[math]=\frac{3}{9}\left\{\left(10+10^{2}+10^{3}+\ldots\right.\right.[/math]
+ +n তম পদ) [math]-(1+1+1+\ldots[/math]
+ +n তম পদ)[math]=\frac{3}{9}\left\{\left(\frac{10.10^{n}-1}{10-1}\right)-n\right\}=\frac{30}{81}\left(10^{n}-1\right)-\frac{3 n}{9}[/math]
+ [math]=\frac{10}{27}\left(10^{n}-1\right)-\frac{n}{3}[/math]
+অতএব, ধারাটির n সংখ্যক পদের সমষ্টি,[math]\left.\mathrm{S}_{\mathrm{n}}=\frac{10}{27}\left(10^{\mathrm{n}}=1\right)-\frac{\mathrm{n}}{3} \text { (Ans. }\right)[/math]
+ [math]\\[/math]
+ গএখানে, প্রদত্ত গুণোত্তর ধারাটি [math]=a+a p+a p^{2}+\ldots \ldots \ldots[/math]
+ [math]a=p=\frac{1}{2 x+3}[/math]
+ হলে ধারাটি[math]\frac{1}{2 x+3}+\frac{1}{(2 x+3)^{2}}+\frac{1}{(2 x+3)^{3}}+\cdots \cdots[/math]
+যার প্রথম পদ, [math]a=\frac{1}{2 x+3}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{\frac{1}{(2 x+3)^{2}}}{\frac{1}{2 x+3}}=\frac{1}{2 x+3}[/math]
+.: ধারার অসীমতক সমষ্টি থাকবে যদি [math]|r| 2 x+3>1[/math]
+হয়, [math]2x + 3 > 1[/math]
+বা, [math]2x > 1 - 3[/math]
+বা, [math]2x > - 2[/math]
+.: [math]x > - 1[/math]
+অথবা, [math]2x + 3  - 1[/math]
+ অথবা, [math]x < - 2[/math]
+ হলে প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে। (Ans.)অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{2 x+3}}{1-\frac{1}{2 x+3}}=\frac{\frac{1}{2 x+3}}{\frac{2 x+3-1}{2 x+3}}[/math]
+ [math]=\frac{1}{2 x+3} \times \frac{2 x+3}{2 x+2}=\frac{1}{2(x+1)} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 705346)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+(i) একটি অনন্ত গুণোত্তর ধারার ১ম দুই পদের সমষ্টি [math]\frac{3}{2}[/math] এবং অসীমতক সমষ্টি 2।
+
+(ii) [math]4 +44 + 444 +........[/math] একটি ধারা।
+
+Options:
+ক. অনন্ত গুণোত্তর ধারার সূত্র প্রয়োগ করে [math]0 . \dot{1} \dot{2}[/math] কে মূলদীয় ভগ্নাংশে প্রকাশ কর।
+খ. (i) নং এ বর্ণিত অনন্ত গুণোত্তর ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+গ. (ii) নং ধারাটির ১ম n পদের সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]0 . \dot{1} \dot{2}=0.12121212 \ldots \ldots[/math]
+ [math]= 0.12 +0.0012 + 0.000012 + .....[/math]
+এই অসীম গুণোত্তর ধারাটির প্রথম পদ, [math]a = 0.12[/math]
+এবং সাধারণ অনুপাত [math]r=\frac{0.0012}{0.12}=0.01[/math]
+ [math]\therefore 0.1 \dot{ } \dot{ }=\frac{\mathrm{a}}{1-\mathrm{r}}=\frac{0.12}{1-(0.01)}=\frac{0.12}{0.99}=\frac{4}{33} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, অসীম গুণোত্তর ধারাটি হলো-[math]a+a r+a r^{2}+\ldots \ldots \ldots[/math]
+ধারাটির অসীমতক সমষ্টি,[math]S_{\infty}=\frac{a}{1-r}[/math]
+প্রশ্নমতে, [math]\mathrm{a}+\mathrm{ar}=\frac{3}{2} \quad[/math]
+ [math]\therefore \mathrm{a}(1+\mathrm{r})=\frac{3}{2} \ldots \ldots (i)[/math]
+আবার, [math]\frac{a}{1-r}=2 \ldots \ldots (ii)[/math]
+(ii) নং কে (i) দ্বারা ভাগ করে পাই,[math]\frac{a}{1-r} \times \frac{1}{a(1+r)}=2 \times \frac{2}{3}=\frac{4}{3}[/math]
+বা, [math]1-r^{2}=\frac{3}{4}[/math]
+বা, [math]r^{2}=1-\frac{3}{4}=\frac{4-3}{4}=\frac{1}{4}[/math]
+ [math]\therefore r= \pm \frac{1}{2}[/math]
+অর্থাৎ, গুণোত্তর ধারাটির সাধারণ অনুপাত,[math]r= \pm \frac{1}{2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]4+44+444+\ldots \ldots \ldots \ldots .[/math]
+ [math]=4(1+11+111+\ldots \ldots \ldots \ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}(9+99+999+\ldots \ldots \ldots \ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10-1)+(100-1)+(1000-1)+\ldots[/math]
+ + n তম পদ)[math]=\frac{4}{9}\{(10+100+1000+\ldots \ldots \ldots[/math]
+ + n তম পদ) [math]-(1+1+1+\ldots .[/math]
+ + n তম পদ)[math]=\frac{4}{9}\left\{10 \cdot\left(\frac{10^{n}-1}{10-1}\right)-n\right\}=\frac{40}{81}\left(10^{n}-1\right)^{ }-\frac{4}{9} n[/math]
+অতএব, ধারাটির প্রথম n সংখ্যক পদের সমষ্টি,[math]S_{n}=\frac{40}{81}\left(10^{n}-1\right)-\frac{4}{8} n(\text { Ans. })[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 705347)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math](3 x+1)^{-1}+(3 x+1)^{-2}+(3 x+1)^{-3}+\ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. সমাধান কর: [math]y² + 4y - 3 = 0[/math]
+খ. [math]x=\frac{2}{3}[/math] হলে, ধারাটির প্রথম 7 পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে অসীম ধারাটির (অসীমতক) সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]y ^ 2 + 4y - 3 = 0[/math]
+সমীকরণটিকে [math]ay ^ 2 + by + c = 0[/math]
+ এর সাথে তুলনা করে পাই,[math]a = 1, b = 4[/math]
+ এবং [math]c = - 3[/math]
+ [math]\therefore y=\frac{-b \pm \sqrt{b^{2}-4 a c}}{2 a}=\frac{-4 \pm \sqrt{(-4)^{2}-4.1(-3)}}{2.1}[/math]
+ [math]=\frac{-4 \pm \sqrt{16+12}}{2}=\frac{-4 \pm \sqrt{28}}{2}=-2 \pm \sqrt{7}[/math]
+.: নির্ণেয় সমাধান, [math]y=-2 \pm \sqrt{7} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, অনন্ত গুণোত্তর ধারাটি,[math](3 x+1)^{-1}+(3 x+1)^{-2}+(3 x+1)^{-3}+\ldots \ldots[/math]
+ [math]=\frac{1}{3 x+1}+\frac{1}{(3 x+1)^{2}}+\frac{1}{(3 x+1)^{3}}+\ldots \ldots \ldots[/math]
+ [math]x=\frac{2}{3}[/math]
+ হলে ধারাটি [math]\frac{1}{3 \cdot \frac{2}{3}+1}+\frac{1}{\left(3 . \frac{2}{3}+1\right)^{2}}+\frac{1}{\left(3 . \frac{2}{3}+1\right)^{3}}+\ldots \ldots[/math]
+ [math]=\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots[/math]
+ধারাটির প্রথম পদ [math]a=\frac{1}{3}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{\frac{1}{3^{2}}}{\frac{1}{3}}=\frac{1}{3^{2}} \times 3=\frac{1}{3}গদেওয়া আছে,প্রদত্ত ধারা: [math](3 x+1)^{-1}+(3 x+1)^{-2}+(3 x+1)^{-3}+\ldots \ldots[/math]
+ [math]=\frac{1}{3 x+1}+\frac{1}{(3 x+1)^{2}}+\frac{1}{(3 x+1)^{3}}+\ldots \ldots \ldots \ldots[/math]
+প্রদত্ত ধারাটির প্রথম পদ, [math]a=\frac{1}{3 x+1}[/math]
+এবং সাধারণ অনুপাত, [math]\mathrm{r}=\frac{1}{(3 \mathrm{x}+1)_{}^{2}} \div \frac{1}{3 \mathrm{x}+1}=\frac{1}{3 \mathrm{x}+1}[/math]
+প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি |r| 3 x+1[/math]
+বা, [math]-1-1>3 x+1-1[/math]
+বা, [math]-2>3 x \quad \therefore x1[/math]
+বা, [math]3 x+1-1>1-1[/math]
+বা, [math]3 x>0[/math]
+ [math]\therefore x>0[/math]
+বা, $$:. নির্ণেয় শর্ত: [math]x 0 \ (Ans.)[/math]
+ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}[/math]
+ [math]=\frac{\frac{1}{3 x+1}}{1-\frac{1}{3 x+1}}[/math]
+ [math]=\frac{\frac{1}{3 x+1}}{\frac{3 x+1-1}{3 x+1}}[/math]
+ [math]=\frac{1}{3 x} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 705348)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\text{(i) } F(x)=\frac{\log _{k}(5 x+3)}{\log _{k} x}[/math] [math]\text{(ii) } (2 x+1)^{-1}+(2 x+1)^{-2}+(2 x+1)^{-3}+\ldots \ldots[/math] [math]\\[/math]
+
+Options:
+ক. [math]x ^ 2 = y ^ 3[/math] হলে, প্রমাণ কর যে, [math]\left(\frac{x}{y}\right)^{\frac{3}{2}}+\left(\frac{y}{x}\right)^{\frac{2}{3}}=x^{\frac{1}{2}}+y^{\frac{-1}{3}}[/math]
+খ. F(x) = 2 হলে, x এর মান নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে (ii) নং এ বর্ণিত ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,[math]\mathrm{x}^{2}=\mathrm{y}^{3} \quad[/math]
+ [math]\therefore \mathrm{x}=\mathrm{y}^{\frac{3}{2}}[/math]
+আবার[math]x^{2}=y^{3}[/math]
+বা, [math]y^{3}=x^{2}[/math]
+ [math]\therefore y=x^{\frac{2}{3}}[/math]
+এখন, বামপক্ষ[math]=\left(\frac{x}{y}\right)^{\frac{3}{2}}+\left(\frac{y}{x}\right)^{\frac{2}{3}}[/math]
+ [math]=\frac{x^{\frac{3}{2}}}{y^{\frac{3}{2}}}+\frac{y^{\frac{2}{3}}}{x^{\frac{2}{3}}}=\frac{x^{\frac{3}{2}}}{x}+\frac{y^{\frac{2}{3}}}{y}\left[\because x=y^{\frac{3}{2}}, y=x^{\frac{2}{3}}\right][/math]
+ [math]=x^{\frac{3}{2}-1}+y^{\frac{2}{3}-1}=x^{\frac{1}{2}}+y^{-\frac{1}{3}}=[/math]
+ ডানপক্ষ[math]\therefore\left(\frac{x}{y}\right)^{\frac{3}{2}}+\left(\frac{y}{x}\right)^{\frac{2}{3}}=x^{\frac{1}{2}}+y^{-\frac{1}{3}}[/math]
+ (প্রমাণিত)[math]\\[/math]
+ খদেওয়া আছে, [math]F(x)=\frac{\log _{k}(5 x+3)}{\log _{k} x}[/math]
+ [math]F(x)=2[/math]
+ হলে [math]\frac{\log _{k}(5 x+3)}{\log _{k} x}=2[/math]
+বা, [math]\log _{k}(5 x+3)=2 \log _{b} x[/math]
+বা, [math]\log _{k}(5 x+3)=\log _{k} x^{2}[/math]
+বা, [math]x^{2}=5 x+3[/math]
+ [উভয়পক্ষে antilog নিয়ে]বা, [math]x^{2}-5 x-3=0[/math]
+ [math]\therefore x =\frac{-(-5) \pm \sqrt{(-5)^{2}-4.1(-3)}}{2.1}[/math]
+ [math]=\frac{5 \pm \sqrt{25+12}}{2}[/math]
+ [math]=\frac{5 \pm \sqrt{37}}{2}[/math]
+এখানে [math]\frac{5-\sqrt{37}}{2}গপ্রথম পদ [math]a=\frac{1}{2 x+1}[/math]
+সাধারণ অনুপাত, [math]r=\frac{1}{(2 x+1)^{2}} \div \frac{1}{(2 x+1)}=\frac{1}{2 x+1}[/math]
+এখন, ধারাটির অসীমতক থাকবে যদি ও কেবল যদি |r| 2 x+1[/math]
+বা, [math]-1-1>2 x+1-1[/math]
+বা, [math]-2>2 x[/math]
+ [math]\therefore x1[/math]
+বা, [math]2 x+1-1>1-1[/math]
+বা, [math]2 x>0[/math]
+ [math]\therefore \quad \mathrm{x}>0[/math]
+.: নির্ণেয় শর্ত: [math]x  0[/math]
+ [math](Ans.)[/math]
+আবার, ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}[/math]
+ [math]=\frac{\frac{1}{2 x+1}}{1-\frac{1}{2 x+1}}[/math]
+ [math]=\frac{\frac{1}{2 x+1}}{\frac{2 x+1-1}{2 x+1}}[/math]
+ [math]=\frac{1}{2 x+1} \times \frac{2 x+1}{2 x}[/math]
+ [math]=\frac{1}{2 x} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 705349)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{3 x+5}+\frac{1}{(3 x+5)^{2}}+\frac{1}{(3 x+5)^{3}} \ldots \ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. [math]0.0 \dot{5}[/math] কে মূলদীয় ভগ্নাংশে প্রকাশ কর ৷
+খ. [math]x=\frac{2}{3}[/math] হলে যে ধারা গঠিত হয় তার প্রথম 10 টি পদের যোগফল নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে উক্ত ধারার অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]0.0 \dot{5}=0.05+0.005+0.0005+\ldots \ldots . .[/math]
+ যা একটি অসীম গুণোত্তর ধারাযার ১ম পদ, [math]a=0.05[/math]
+সাধারণ অনুপাত, [math]r=\frac{0.005}{0.05}=0.1[/math]
+ [math]\therefore 0.0\dot5=\frac{a}{1-r}=\frac{0.05}{1-0.1}=\frac{0.05}{0.9}=\frac{5}{90}=\frac{1}{18} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত গুণোত্তর ধারা,[math]\frac{1}{3 x+5}+\frac{1}{(3 x+5)^{2}}+\frac{1}{(3 x+5)^{3}}+\ldots \ldots \ldots \ldots \ldots[/math]
+ [math]x=\frac{2}{3}[/math]
+ হলে, ধারাটি[math]\frac{1}{3 \cdot \frac{2}{3}+5}+\frac{1}{\left(3 \cdot \frac{2}{3}+5\right)^{2}}+\frac{1}{\left(3 \cdot \frac{2}{3}+5\right)^{3}}+................[/math]
+ [math]=\frac{1}{7}+\frac{1}{7^{2}}+\frac{1}{7^{3}}+..............[/math]
+ [math]\therefore[/math]
+ ধারাটির ১ম পদ [math]a=\frac{1}{7}[/math]
+এবং সাধারণ অনুপাত, [math]\mathrm{r}=\frac{\frac{1}{7^{2}}}{\frac{1}{7}}=\frac{1}{7}গপ্রদত্ত ধারাটির প্রথম পদ, [math]a=\frac{1}{3 x+5}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{\frac{1}{(3 x+5)^{2}}}{\frac{1}{3 x+5}}=\frac{1}{3 x+5}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি |r| 3 x+5 \Rightarrow -1-5>3 x+5-5 \text { বা, }-6>3 x \\\Rightarrow -\frac{6}{3}>\frac{3 x}{3} \therefore x1 \Rightarrow 3 x+5-5>1-5 \Rightarrow 3 x>-4\\\Rightarrow \frac{3 x}{3}>-\frac{4}{3} \therefore x>-\frac{4}{3}\end{array}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় শর্ত: [math]x -\frac{4}{3} \text {. (Ans.) }[/math]
+ [math]\therefore[/math]
+ ধারাটির অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{3 x+5}}{1-\frac{1}{3 x+5}}=\frac{\frac{1}{3 x+5}}{\frac{3 x+5-1}{3 x+5}}[/math]
+ [math]=\frac{1}{3 x+5} \times \frac{3 x+5}{3 x+4}=\frac{1}{3 x+4} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 705350)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]A=5^{\frac{2}{3}}+5^{\frac{1}{3}} ; f(x)=\ln \frac{1+x}{1-x}[/math]
+
+ক, [math]\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\frac{1}{3^{4}}+\ldots .[/math] ধারার অসীমতক সমষ্টি নির্ণয় কর।
+
+Options:
+খ. [math]A=2 a-3[/math] হলে, প্রমাণ কর যে, [math]8 a^{3}-36 a^{2}+24 a-12=0[/math]
+গ. [math]f(x)[/math] এর ডোমেন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারা, [math]\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\frac{1}{3^{4}}+\ldots \ldots \ldots[/math]
+ধারাটির ১ম পদ, [math]a=\frac{1}{3}[/math]
+সাধারণ অনুপাত, [math]r=\frac{\frac{1}{3^{2}}}{\frac{1}{3}}=\frac{1}{3}খদেওয়া আছে, [math]A=5^{\frac{2}{3}}+5^{\frac{1}{3}}[/math]
+ [math]A=2 a-3[/math]
+ হলে, [math]5^{\frac{2}{3}}+5^{\frac{1}{3}}=2 a-3[/math]
+ [math]\Rightarrow \left(5^{\frac{2}{3}}+5^{\frac{1}{3}}\right)^{3}=(2 \mathrm{a}-3)^{3}[/math]
+ [ঘন করে][math]\Rightarrow \left(5^{\frac{2}{3}}\right)^{3}+\left(5^{\frac{1}{3}}\right)^{3}+3.5^{\frac{2}{3}} \cdot 5^{\frac{1}{3}}\left(5^{\frac{2}{3}}+5^{\frac{1}{3}}\right)=(2 a)^{3}-(3)^{3}-32 \mathrm{a} 3(2 a-3)[/math]
+ [math]\begin{array}{l}\Rightarrow 5^{2}+5+3.5^{\frac{2}{3}+\frac{1}{3}} \cdot(2 a-3)=8 a^{3}-27-36 a^{2}+54 a \\\Rightarrow 25+5+3.5(2 a-3)=8 a^{3}-27-36 a^{2}+54 a \\\Rightarrow 25+5+30 a-45=8 a^{3}-27-36 a^{2}+54 a \\\Rightarrow 8 a^{3}-36 a^{2}+54 a-27+15-30 a=0\end{array}[/math]
+ [math]\therefore 8 a^{3}-36 a^{2}+24 a-12=0[/math]
+ (প্রমাণিত) [math]\\[/math]
+ গধরি, [math]y=f(x)=\ell n \frac{1+x}{1-x}[/math]
+যেহেতু লগারিদম শুধুমাত্র ধনাত্মক বাস্তব সংখ্যার জন্য সংজ্ঞায়িত হয়।[math]\therefore \frac{1+x}{1-x}>0[/math]
+ যদি [math]\text { (i) } 1+x>0[/math]
+ এবং [math]1-x>0[/math]
+ হয়অথবা, [math]\text { (ii) } 1+x-1[/math]
+ এবং [math]-x>-1 \therefore x1[/math]
+ [math]\therefore[/math]
+ ডোমেন [math]=\{x: x1\}=\varnothing[/math]
+ [math]\therefore[/math]
+ প্রদত্ত ফাংশনের ডোমেন[math]D_{f}=[/math]
+ (i) ও (ii) এ প্রাপ্ত ডোমেনের সংযোগ[math]=(-1,1) \cup \varnothing=(-1,1) \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 705351)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2022 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]1+\frac{1}{3 a-1}+\frac{1}{(3 a-1)^{2}}+\frac{1}{(3 a-1)^{3}}+\ldots[/math] একটি ধারা।
+
+Options:
+ক. [math]\log _{5}\left[120+\sqrt{x^{2}+16 x+88}\right]=3[/math] হলে, x এর মান নির্ণয় কর।
+খ. [math]a=\frac{4}{3}[/math] হলে, ধারাটির প্রথম 10টি পদের সমষ্টি নির্ণয় কর।
+গ. a এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]\log _{5}\left[120+\sqrt{x^{2}+16 x+88}\right]=3[/math]
+ [math]\begin{array}{l}\Rightarrow 120+\sqrt{x^{2}+16 x+88}=5^{3} \Rightarrow \sqrt{x^{2}+16 x+88}=125-120\\\Rightarrow \sqrt{x^{2}+16 x+88}=5 \Rightarrow x^{2}+16 x+88=25\\\Rightarrow x^{2}+16 x+88-25=0 \Rightarrow x^{2}+16 x+63=0\\\Rightarrow x^{2}+9 x+7 x+63=0 \Rightarrow x(x+9)+7(x+9)=0\\\Rightarrow (x+9)(x+7)=0 \quad \therefore x=-9,-7 \text{ (Ans.)}\end{array}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে প্রদত্ত ধারাটি [math]1+\frac{1}{3 a-1}+\frac{1}{(3 a-1)^{2}}+\frac{1}{(3 a-1)^{3}}+\ldots \ldots \ldots[/math]
+ [math]a=\frac{4}{3}[/math]
+ হলে ধারাটি হবে,[math]\begin{array}{l}=1+\frac{1}{3 \cdot \frac{4}{3}-1}+\frac{1}{\left(3 \cdot \frac{4}{3}-1\right)^{2}}+\frac{1}{\left(3 \cdot \frac{4}{3}-1\right)^{3}}+\ldots \\=1+\frac{1}{4-1}+\frac{1}{(4-1)^{2}}+\frac{1}{(4-1)^{3}}+\ldots \ldots \ldots \\=1+\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots \ldots\end{array}[/math]
+ধরি, ধারাটির প্রথম পদ, [math]p = 1[/math]
+এবং সাধারণ অনুপাত, [math]\mathrm{r}=\frac{1}{3} \div 1=\frac{1}{3}গউদ্দীপকে প্রদত্ত ধারাটির প্রথম পদ, [math]p=1[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{3 a-1}[/math]
+এখন, প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি [math]| r | 1 \\\Rightarrow 3 a>2 \\\therefore a>\frac{2}{3}\end{array}[/math]
+অথবা, [math]\frac{1}{3 a-1}>-1[/math]
+ [math]\begin{array}{l}\Rightarrow 3 a-1\frac{2}{3} \text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ ধারাটির অসীমতক সমষ্টি, [math]S_{\infty}=\frac{p}{1-r}=\frac{1}{1-\frac{1}{3 a-1}}[/math]
+ [math]=\frac{1}{\frac{3 a-1-1}{3 a-1}}=\frac{3 a-1}{3 a-2} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 705352)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{4 x+1}+\frac{1}{(4 x+1)^{2}}+\frac{1}{(4 x+1)^{3}}+\ldots \ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. [math]0.0 \dot{2}[/math] কে অনন্ত গুণোত্তর ধারায় প্রকাশ কর।
+খ. [math]4 x=1[/math] হলে ধারাটির ১ম 12 পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]0.0 \dot{2}=0.0222222............[/math]
+ [math]=0.02+0.002+0.0002+0.00002+..................[/math]
+যা একটি গুণোত্তর ধারা [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, প্রদত্ত ধারাটি,[math]\frac{1}{4 x+1}+\frac{1}{(4 x+1)^{2}}+\frac{1}{(4 x+1)^{3}}+..............[/math]
+4x = 1 হলে, ধারাটি হবে:[math]\frac{1}{1+1}+\frac{1}{(1+1)^{2}}+\frac{1}{(1+1)^{3}}+...............[/math]
+ [math]=\frac{1}{2}+\frac{1}{2^{2}}+\frac{1}{2^{3}}+..............[/math]
+ [math]\therefore[/math]
+ ধারাটির ১ম পদ [math]a=\frac{1}{2}[/math]
+এবং সাধারণ অনুপাত, [math]\mathrm{r}=\frac{\frac{1}{2^{2}}}{\frac{1}{2}}=\frac{1}{2}গউদ্দীপকের ধারাটির প্রথম পদ, [math]a=\frac{1}{4 x+1}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{(4 x+1)^{2}} \div \frac{1}{4 x+1}=\frac{1}{4 x+1}[/math]
+প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি |r| 1\\\Rightarrow 4 x>0\\\therefore \mathrm{x}>0\end{array}[/math]
+আবার, [math]\frac{1}{4 x+1}>-1[/math]
+ [math]\begin{array}{l}\Rightarrow 4 x+1 0[/math]
+ অথবা [math]x<-\frac{1}{2} \text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{4 x+1}}{1-\frac{1}{4 x+1}}=\frac{\frac{1}{4 x+1}}{\frac{4 x+1-1}{4 x+1}}=\frac{1}{4 x}[/math]
+ [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 705353)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } 1+(5 x+1)^{-1}+(5 x+1)^{-2}+(5 x+1)^{-3}+\ldots[/math] একটি অনন্ত ধারা।
+
+[math]\text { (ii) }[/math] একটি গুণোত্তর ধারার ১ম তিনটি ক্রমিক পদের সমষ্টি [math]3 \frac{24}{49}[/math] এবং গুণফল [math]\frac{27}{343}[/math]
+
+Options:
+ক. [math]x = 1[/math] হলে ধারাটির (অসীমতক) সমষ্টি যদি থাকে তবে তা নির্ণয় কর ৷
+খ. x এর উপর কি শর্ত আরোপ করলে প্রদত্ত অনন্ত ধারাটির (অসীমতক) সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+গ. (ii) ধারাটির ১ম পদ ও সাধারণ অনুপাত নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারাটি, [math]1+(5 x+1)^{-1}+(5 x+1)^{-2}+(5 x+1)^{-3}+\ldots[/math]
+x = 1 হলে ধারাটি হবে:[math]\begin{array}{l}1+(5+1)^{-1}+(5+1)^{-2}+(5+1)^{-3}+\ldots \\=1+\frac{1}{6}+\frac{1}{6^{2}}+\frac{1}{6^{3}}+\ldots .\end{array}[/math]
+ [math]\therefore[/math]
+ ধারাটির ১ম পদ [math]a=1[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{6} \div 1=\frac{1}{6}খউদ্দীপকের ধারাটির প্রথম পদ a = 1 এবংসাধারণ অনুপাত [math]r=\left(\frac{1}{5 x+1}\right) \div 1=\frac{1}{5 x+1}[/math]
+প্রদত্ত অনন্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি |r|1 \\\Rightarrow 5 x>0 \\\therefore x>0\end{array}[/math]
+অথবা, [math]\frac{1}{5 x+1}>-1[/math]
+ [math]\begin{array}{l}\Rightarrow 5 x+10[/math]
+ অথবা, [math]xগমনে করি, গুণোত্তর ধারাটির প্রথম পদ [math]=a[/math]
+এবং সাধারণ অনুপাত [math]=r[/math]
+ [math]\therefore[/math]
+ গুণোত্তর ধারাটির প্রথম; দ্বিতীয় এবং তৃতীয় পদ যথাক্রমে a, ar এবং [math]a r^{2}.[/math]
+প্রশ্নমতে,[math]a+a r+a r^{2}=3 \frac{24}{49}=\frac{171}{49} \ldots \ldots \ldots \text { (i) }[/math]
+এবং [math]\text { a. } a r \cdot a r^{2}=\frac{27}{343} \Rightarrow a^{3} r^{3}=\left(\frac{3}{7}\right)^{3}[/math]
+ [math]\Rightarrow a r=\frac{3}{7} \therefore a=\frac{3}{7 r}.......\text { (ii) }[/math]
+(i) নং হতে পাই, [math]a\left(1+r+r^{2}\right)=\frac{171}{49}[/math]
+ [math]\Rightarrow \frac{3}{7 r}\left(1+r+r^{2}\right)=\frac{171}{49}[/math]
+ [a এর মান বসিয়ে][math]\begin{array}{l}\Rightarrow \frac{1+r+r^{2}}{r}=\frac{57}{7}\\\Rightarrow 7+7 r+7 r^{2}=57 r\\\Rightarrow 7 r^{2}-50 r+7=0\\\Rightarrow 7 r^{2}-49 r-r+7=0\\\Rightarrow 7 \mathrm{r}(\mathrm{r}-7)-1(r-7)=0\\\Rightarrow (r-7)(7 r-1)=0\end{array}[/math]
+ [math]\therefore r=7, \frac{1}{7}[/math]
+r এর মান (ii) নং এ বসিয়ে পাই,r = 7 হলে [math]a=\frac{3}{7 \times 7}=\frac{3}{49}[/math]
+r = 7 হলে [math]a=\frac{3}{7 \times \frac{1}{7}}=3[/math]
+ [math]\therefore a=\frac{3}{49}[/math]
+ এবং [math]r=7[/math]
+ অথবা, [math]a=3[/math]
+ এবং [math]\mathrm{r}=\frac{1}{7} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 705354)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } 6+66+666+\ldots .[/math] এবং
+
+[math]\text { (ii) }(5 x+1)^{-1}+(5 x+1)^{-2}+(5 x+1)^{-3}+\ldots \ldots[/math] দুইটি ধারা।
+
+Options:
+ক. [math]7, \frac{7}{3}, \frac{7}{9}, \frac{7}{27}, \ldots \ldots[/math] অনুক্রমটির 15 তম পদ নির্ণয় কর।
+খ. (i) নং ধারাটির প্রথম n সংখ্যক পদের যোগফল নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে (ii) নং ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,অনুক্রমঃ [math]7, \frac{7}{3}, \frac{7}{9}, \frac{7}{27}, \ldots \ldots[/math]
+ [math]\begin{array}{l}=\frac{7}{1}, \frac{7}{3}, \frac{7}{9} \frac{7}{27} \ldots \ldots \\=\frac{7}{3^{\circ}}, \frac{7}{3^{1}}, \frac{7}{3^{2}}, \frac{7}{3^{3}}, \ldots \ldots .\end{array}[/math]
+ [math]\therefore[/math]
+ অনুক্রমটির n তম পদ [math]=\frac{7}{3^{n-1}} ; n \in \mathbb{N}[/math]
+ [math]\therefore[/math]
+ অনুক্রমটির 15 তম পদ [math]=\frac{7}{3^{15-1}}=\frac{7}{3^{14}} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারা, [math]=6+66+666+\ldots \ldots . \ldots+n[/math]
+ তম পদ[math]=6(1+11+111+\ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{6}{9}(9+99+999+\ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{6}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots+n[/math]
+ তম পদ [math]\}[/math]
+ [math]=\frac{6}{9}\left\{\left(10+10^{2}+10^{3}+\ldots+n\right.\right.[/math]
+ তম পদ [math])[/math]
+ [math]-(1+1+1+\ldots n[/math]
+ তম পদ [math])\}[/math]
+ [math]\begin{array}{l}=\frac{6}{9}\left\{10 \cdot \frac{10^{n}-1}{10-1}-n\right\} \\=\frac{60}{81}\left(10^{n}-1\right)-\frac{6 n}{9}=\frac{20}{27}\left(10^{n}-1\right)-\frac{2}{3} n\end{array}[/math]
+ [math]\therefore[/math]
+ ধারাটির n-সংখ্যক পদের সমষ্টি [math]=\frac{20}{27}\left(10^{n}-1\right)-\frac{2}{3} n \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গসৃজনশীল ৪(খ) নং প্রশ্নের সমাধান দ্রষ্টব্য।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 705355)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}=8+88+888+\ldots \ldots \ldots[/math] এবং
+
+[math]S=(3 y+5)^{-1}+(3 y+5)^{-2}+(3 y+5)^{-3}+\ldots \ldots \ldots[/math]
+
+Options:
+ক. y = -1 হলে S এর সাধারণ পদ নির্ণয় করো ।
+খ. দেখাও যে, A ধারাটির প্রথম n সংখ্যক পদের যোগফল [math]\frac{80}{81}\left(10^{n}-1\right)-\frac{8 n}{9}[/math]
+গ. y এর উপর কী শর্ত আরোপ করলে S এর অসীমতক সমষ্টি থাকবে তা নির্ণয় করে ধারাটির সমষ্টি নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, প্রদত্ত ধারাটি:[math]S=(3 y+5)^{-1}+(3 y+5)^{-2}+(3 y+5)^{-3}+\ldots \ldots \ldots \ldots \ldots[/math]
+এখন, y = − 1 হলে, প্রদত্ত ধারাটি হবে,[math]S=(-3+5)^{-1}+(-3+5)^{-2}+(-3+5)^{-3}+\ldots \ldots \ldots \ldots[/math]
+ [math]\begin{array}{l}=2^{-1}+2^{-2}+2^{-3}+...... \\=\frac{1}{2}+\frac{1}{2^{2}}+\frac{1}{2^{3}}+\ldots \ldots .\end{array}[/math]
+ [math]\therefore S[/math]
+ এর সাধারণ পদ [math]=\frac{1}{2^{n}}[/math]
+ যেখানে, [math]n \in \mathbb{N} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A=8+\ddot{88}+888+\ldots \ldots \ldots \ldots+n[/math]
+ তম পদ[math]=8(1+11+111+\ldots \ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{8}{9}(9+99+999+\ldots \ldots \ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{8}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots . .+n[/math]
+ তম পদ [math])\}[/math]
+ [math]=\frac{8}{9}\left\{\left(10+10^{2}+10^{3}+\ldots . .+n\right.\right.[/math]
+ তম পদ [math])[/math]
+ [math]-(1+1+1+\ldots .+n[/math]
+ তম পদ [math])\}[/math]
+ [math]=\frac{8}{9}\left\{10 \times \frac{10^{n}-1}{10-1}-n\right\}=\frac{80}{81}\left(10^{n}-1\right)-\frac{8 n}{9}[/math]
+ [math]\therefore[/math]
+ A ধারাটির n সংখ্যক পদের যোগফল [math]=\frac{80}{81}\left(10^{n}-1\right)-\frac{8 n}{9}[/math]
+ (দেখানো হলো) [math]\\[/math]
+ গসৃজনশীল ৫(গ) নং প্রশ্নের সমাধান দ্রষ্টব্য। পৃষ্ঠা-১১৬
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 705356)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]1+\frac{1}{7 x+1}+\frac{1}{(7 x+1)^{2}}+\frac{1}{(7 x+1)^{3}}+\ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা এবং [math]g+h+f+\ldots \ldots[/math] একটি ধারা।
+
+Options:
+ক. একটি অনন্ত গুণোত্তর ধারার অসীমতক সমষ্টি 15 এবং সাধারণ অনুপাত [math]-\frac{1}{3}[/math] হলে, ধারাটির প্রথম পদ নির্ণয় কর।
+খ. x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে তা উল্লেখপূর্বক সেই সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{g}=12, \mathrm{~h}=132[/math] এবং [math]f=1332[/math] হলে, যে ধারা পাওয়া যায় তার প্রথম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কমনে করি, অনন্ত গুণোত্তর ধারাটির প্রথম পদ = aদেওয়া আছে, সাধারণ অনুপাত, [math]r=-\frac{1}{3}[/math]
+অসীমতক সমষ্টি, [math]S_{\infty}=15[/math]
+ [math]\therefore \frac{\mathrm{a}}{1-\mathrm{r}}=15 \Rightarrow \frac{\mathrm{a}}{1-\left(-\frac{1}{3}\right)}=15[/math]
+ [math]\Rightarrow \frac{a}{1+\frac{1}{3}}=15 \Rightarrow \frac{a}{\frac{4}{3}}=15 \therefore \mathrm{a}=15 \times \frac{4}{3}=2[/math]
+ [math]\therefore[/math]
+ ধারাটির প্রথম পদ 20 [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারাঃ [math]1+\frac{1}{7 x+1}+\frac{1}{(7 x+1)^{2}}+\frac{1}{(7 x+1)^{3}}+\ldots \ldots[/math]
+ধারাটির প্রথম পদ, a = 1সাধারণ অনুপাত, [math]r=\frac{1}{7 x+1} \div 1=\frac{1}{7 x+1}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি [math]|r|1 \\\Rightarrow 7 x>1-1 \\\Rightarrow 7 x>0 \\\therefore x>0\end{array}[/math]
+অথবা, [math]\frac{1}{7 x+1}>-1[/math]
+ [math]\begin{array}{l}\Rightarrow 7 x+1 0[/math]
+ অথবা, [math]xগপ্রদত্ত ধারা [math]g+h+f+\ldots \ldots[/math]
+দেওয়া আছে, [math]g=12, h=132, f=1332[/math]
+ [math]\therefore[/math]
+ ধারাটি [math]12+132+1332+\ldots \ldots[/math]
+ [math]\therefore[/math]
+ ধারাটির n পদের সমষ্টি [math]=12+132+1332+\ldots \ldots+n[/math]
+ তম পদ[math]=12(1+11+111+\ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{12}{9}(9+99+999+\ldots . .+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{12}{9}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots+n[/math]
+ তম পদ [math]\}[/math]
+ [math]=\frac{4}{3}\{(10+100+1000+\ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]-(1+1+1+1+\ldots+n[/math]
+ তম পদ [math])\}[/math]
+ [math]=\frac{4}{3}\left\{\left(10+10^{2}+10^{3}+\ldots \ldots+n\right.\right.[/math]
+ তম পদ [math])\}[/math]
+ [math]\begin{array}{l}=\frac{4}{3}\left\{\frac{10\left(10^{n}-1\right)}{10-1}-n\right\}=\frac{4}{3} \cdot \frac{10\left(10^{n}-1\right)}{9}-\frac{4 n}{3} \\=\frac{40}{27}\left(10^{n}-1\right)-\frac{4}{3} n \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 705357)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+একটি গুণোত্তর ধারার n-তম পদ [math]U_{n}=(6 x-4)^{n-2} \cdot n \in \mathbb{N}[/math]
+
+Options:
+ক. [math]8.0 \dot{5}\dot1[/math] কে অনন্ত গুণোত্তর ধারায় প্রকাশ কর৷
+খ. x = 1 হলে ধারাটির প্রথম 14 পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]8.0 \dot{5} \dot{1}=8+0.0 \dot{5} \dot{1}[/math]
+ [math]\begin{array}{l}=8+0.0515151 \ldots \ldots \ldots \\=8+(0.051+0.00051+0.0000051+\ldots \ldots) \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, একটি গুণোত্তর ধারার n-তম পদ,[math]U_{n}=(6 x-4)^{n-2} ; n \in \mathbb{N}[/math]
+ [math]x = 1[/math]
+ হলে গুণোত্তর ধারার n-তম পদ,[math]U_{n}=(6-4)^{n-2}=2^{n-2} ; n \in \mathbb{N}[/math]
+n = 1, 2, 3, ... ... বসিয়ে প্রাপ্ত গুণোত্তর ধারাটি:[math]\begin{array}{l}2^{1-2}+2^{2-2}+2^{3-2}+2^{4-2}+2^{5-2}+\ldots \ldots \\=2^{-1}+2^{0}+2^{1}+2^{2}+2^{3}+\ldots \ldots \\=\frac{1}{2}+1+2+2^{2}+2^{3}+\ldots \ldots\end{array}[/math]
+প্রাপ্ত গুণোত্তর ধারাটির প্রথম পদ [math]a=\frac{1}{2}[/math]
+ এবং সাধারণ অনুপাত [math]\mathrm{r}=\frac{1}{\frac{1}{2}}=2>1[/math]
+গুণোত্তর ধারাটির প্রথম 14টি পদের সমষ্টি, [math]S_{14}=a \cdot \frac{r^{14}-1}{r-1}[/math]
+ [math]\begin{array}{l}=\frac{1}{2} \times \frac{2^{14}-1}{2-1}=\frac{2^{14}-1}{2} \\=\frac{16384-1}{2}=\frac{16383}{2} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ গ [math]n=1[/math]
+ হলে [math]U_{1}=(6 x-4)^{1-2}=(6 x-4)^{-1}=\frac{1}{6 x-4}= \frac{1}{6 x-4}[/math]
+ [math]n = 2[/math]
+ হলে, [math]U_{2}=(6 x-4)^{2-2}=(6 x-4)^{0}=1[/math]
+ [math]n= 3[/math]
+ হলে, [math]U_{3}=(6 x-4)^{3-2}=6 x-4[/math]
+ [math]n = 4[/math]
+ হলে, [math]U_{4}=(6 x-4)^{4-2}=(6 x-4)^{2}[/math]
+ [math]\therefore[/math]
+ ধারাটি হবে, [math]\frac{1}{6 x-4}+1+(6 x-4)+(6 x-4)^{2}+\ldots[/math]
+প্রদত্ত গুণোত্তর ধারাটির প্রথম পদ, [math]a=\frac{1}{6 x-4}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{\frac{1}{6 x-4}}=6 x-4[/math]
+এখন, গুণোত্তর ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি |r |-1[/math]
+ [math]\begin{array}{l}\Rightarrow 6 x>3 \\\therefore x>\frac{1}{2}\end{array}[/math]
+অতএব, [math]\frac{1}{2} [math]\text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ ধারাটির অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{6 x-4}}{1-(6 x-4)}[/math]
+ [math]=\frac{\frac{1}{6 x-4}}{1-6 x+4}=\frac{1}{(6 x-4)(5-6 x)} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 705358)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math](9 x-2)^{-1}+(9 x-2)^{-2}+(9 x-2)^{-3}+\ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. [math]5.0 \dot{3} \dot{2}[/math] কে অনন্ত গুণোত্তর ধারার মাধ্যমে মূলদীয় ভগ্নাংশে প্রকাশ কর।
+খ. [math]x = 1[/math] হলে, প্রদত্ত ধারাটির ১ম দশটি পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]5.0 \dot{3} \dot{2}=5+0.0 \dot{3} \dot{2}=5+0.0323232 \ldots \ldots[/math]
+ [math]=5+(0.032+0.00032+0.0000032+\ldots \ldots)[/math]
+অনন্ত গুণোত্তর ধারাটির প্রথম পদ, [math]a = 0.032[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{0.00032}{0.032}=0.01[/math]
+ [math]\therefore[/math]
+ অনন্ত গুণোত্তর ধারাটির অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}[/math]
+ [math]=\frac{0.032}{1-0.01}=\frac{0.032}{0.99}=\frac{32}{990}=\frac{16}{495}[/math]
+অর্থাৎ, [math]5.0 \dot{3} \dot{2}=5+0.0 \dot{3} \dot{2}=5+\frac{16}{495}=\frac{2475+16}{495}=\frac{2491}{495}[/math]
+ [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, উদ্দীপকের ধারাটি:[math](9 x-2)^{-1}+(9 x-2)^{-2}+(9 x-2)^{-3}+\ldots \ldots[/math]
+x = 1 হলে ধারাটি হবে,[math](9-2)^{-1}+(9-2)^{-2}+(9-2)^{-3}+\ldots \ldots \ldots[/math]
+ [math]\begin{array}{l}=7^{-1}+7^{-2}+7^{-3}+\ldots \ldots \\=\frac{1}{7}+\frac{1}{7^{2}}+\frac{1}{7^{3}}+\ldots \ldots\end{array}[/math]
+গুণোত্তর ধারাটির প্রথম পদ, [math]a=\frac{1}{7}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{7^{2}} \div \frac{1}{7}=\frac{1}{7}গউদ্দীপকে উল্লেখিত ধারাটির ১ম পদ [math]a=(9 x-2)^{-1}=\frac{1}{9 x-2}[/math]
+এবং সাধারণ অনুপাত [math]r=(9 x-2)^{-2} \div(9 x-2)^{-1}[/math]
+ [math]=(9 x-2)^{-1}=\frac{1}{9 x-2}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি ধারাটির সাধারণ অনুপাত |r| 1 \\\Rightarrow 9 x>3 \\\therefore x>\frac{1}{3}\end{array}[/math]
+অথবা, [math]\frac{1}{9 x-2}>-1[/math]
+ [math]\begin{array}{l}\Rightarrow 9 x-2\frac{1}{3} \text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ গুণোত্তর ধারাটির অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{9 x-2}}{1-\frac{1}{9 x-2}}[/math]
+ [math]=\frac{1}{9 x-2} \times \frac{9 x-2}{9 x-3}=\frac{1}{9 x-3} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 705359)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{4 x+1}+\frac{1}{(4 x+1)^{2}}+\frac{1}{(4 x+1)^{3}}+\ldots \ldots[/math]
+
+Options:
+ক. সাধারণ পদ হলে, অনুক্রমটি নির্ণয় কয়।
+খ. [math]x=\frac{1}{2}[/math] হলে, ধারাটির ১ম 21টি পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কঅনুক্রমটির সাধারণ পদ [math]=\frac{n^{2}}{\sqrt[n]{\pi}}[/math]
+n = 1 হলে, প্রথম পদ [math]=\frac{1^{2}}{\sqrt[1]{\pi}}=\frac{1}{\pi}[/math]
+n = 2 হলে, দ্বিতীয় পদ [math]=\frac{2^{2}}{\sqrt[2]{\pi}}=\frac{4}{\sqrt{\pi}}[/math]
+n = 3 হলে, তৃতীয় পদ [math]=\frac{3^{2}}{\sqrt[3]{\pi}}=\frac{9}{\sqrt[3]{\pi}}[/math]
+ [math]\therefore[/math]
+ অনুক্রমটি [math]\frac{1}{\pi}, \frac{4}{\sqrt{\pi}}, \frac{9}{\sqrt[3]{\pi}}, \ldots . . \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারা [math]\frac{1}{4 x+1}+\frac{1}{(4 x+1)^{2}}+\frac{1}{(4 x+1)^{3}}+\ldots \ldots[/math]
+ [math]x=\frac{1}{2}[/math]
+ হলে, [math]4 x+1=4 \cdot \frac{1}{2}+1=2+1=3[/math]
+ [math]\therefore[/math]
+ ধারাটি হবে, [math]\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots[/math]
+ধারাটির ১ম পদ, [math]a=\frac{1}{3}[/math]
+সাধারণ অনুপাত [math]r=\frac{\frac{1}{3^{2}}}{\frac{1}{3}}=\frac{1}{9} \times \frac{3}{1}=\frac{1}{3}গউদ্দীপকের ধারাটির প্রথম পদ, [math]a=\frac{1}{4 x+1}[/math]
+এবং সাধারণ অনুপাত, [math]r=\frac{1}{(4 x+1)^{2}} \div \frac{1}{4 x+1}=\frac{1}{4 x+1}[/math]
+প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি |r| 1\\\Rightarrow 4 x>0\\\therefore \mathrm{x}>0\end{array}[/math]
+আবার, [math]\frac{1}{4 x+1}>-1[/math]
+ [math]\begin{array}{l}\Rightarrow 4 x+1 0[/math]
+ অথবা [math]x<-\frac{1}{2} \text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{4 x+1}}{1-\frac{1}{4 x+1}}=\frac{\frac{1}{4 x+1}}{\frac{4 x+1-1}{4 x+1}}=\frac{1}{4 x}[/math]
+ [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 705360)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2021 | Boards:  | Tags: MSB
+--------------------------------------------------------------------------------
+Question:
+[math]p=\sqrt[3]{5^{2}}+\sqrt[3]{5^{-2}} ; 18+198+1998+\ldots[/math] একটি ধারা।
+
+Options:
+ক. [math]0.0 \dot{7} \dot{5}[/math] কে অসীম গুণোত্তর ধারার সমষ্টি নির্ণয়ের সূত্র প্রয়োগ করে মূলদীয় ভগ্নাংশে প্রকাশ কর।
+খ. [math]p=m^{2}-2[/math] হলে, প্রমাণ কর যে, [math]5 m^{3}-15 m=26[/math] যেখানে [math]m > 0.[/math]
+গ. ধারাটির প্রথম n সংখ্যক পদের সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]0.0 \dot{7} \dot{5}=0.075+0.00075+0.0000075+\ldots \ldots[/math]
+ধারাটির ১ম পদ, [math]a=0.075[/math]
+এবং সাধারণ অনুপাত, [math]\mathrm{r}=\frac{0.00075}{0.075}=0.01[/math]
+ [math]\therefore[/math]
+ ধারাটির অসীমতক সমষ্টি [math]s_{\infty}=\frac{a}{1-r}=\frac{0.075}{1-0.01}=\frac{0.075}{0.99}[/math]
+ [math]=\frac{75}{990}=\frac{5}{66} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]m^{2}-2=\sqrt[3]{5^{2}}+\sqrt[3]{5^{-2}}[/math]
+ [math]\begin{array}{l}\Rightarrow m^{2}=\sqrt[3]{5^{2}}+\sqrt[3]{5^{-2}}+2 \\\Rightarrow m^{2}=\left(5^{\frac{1}{3}}+5^{\frac{-1}{3}}\right)^{2} \therefore m=5^{\frac{1}{3}}+5^{\frac{-1}{3}}\end{array}[/math]
+এখন, [math]m^{3}=\left(5^{\frac{1}{3}}+5^{\frac{-1}{3}}\right)^{3}[/math]
+ [math]\begin{array}{l}\Rightarrow \mathrm{m}^{3}=\left(5^{\frac{1}{3}}\right)^{3}+\left(5^{-\frac{1}{3}}\right)^{3}+3.5^{\frac{1}{3}} \cdot 5^{\frac{-1}{3}}\left(5^{\frac{1}{3}}+5^{\frac{-1}{3}}\right) \\\Rightarrow \mathrm{m}^{3}=5+\frac{1}{5}+3 \mathrm{~m}\left[\because \mathrm{m}=5^{\frac{1}{3}}+5^{\frac{-1}{3}}\right] \\\Rightarrow \mathrm{m}^{3}=\frac{25+1+15 \mathrm{~m}}{5}\end{array}[/math]
+ [math]\Rightarrow 5 \mathrm{~m}^{3}=26+15 \mathrm{~m} \quad \therefore 5 \mathrm{~m}^{3}-15 \mathrm{~m}=26[/math]
+ (প্রমাণিত)[math]\\[/math]
+ গদেওয়া আছে, [math]18+198+1998+\ldots \ldots \ldots[/math]
+মনে করি, ধারাটির প্রথম n সংখ্যক পদের সমষ্টি,[math]S_{n}=18+198+1998+\ldots \ldots \ldots+n[/math]
+ তম পদ[math]=18(1+11+111+\ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=\frac{18}{9}(9+99+999+\ldots \ldots \ldots+n[/math]
+ তম পদ [math])[/math]
+ [math]=2\{(10-1)+(100-1)(1000-1)+\ldots \ldots+n[/math]
+ তম পদ [math]\}[/math]
+ [math]=2\{(10+100+1000+\ldots .+n[/math]
+ তম পদ [math])[/math]
+ [math]-(1+1+1+\ldots .+n[/math]
+ তম পদ [math]) \}[/math]
+ [math]=2\left\{\left(10+10^{2}+10^{3}+\ldots \ldots+n\right.\right.[/math]
+ তম পদ [math])-\mathrm{n}\}[/math]
+ [math]=2\left\{10 \cdot \frac{10^{\mathrm{n}}-1}{10-1}-\mathrm{n}\right\}=\frac{20}{9}\left(10^{\mathrm{n}}-1\right)-2 \mathrm{n} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 705361)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{6 x+1}+\frac{1}{(6 x+1)^{2}}+\frac{1}{(6 x+1)^{3}}+\ldots \ldots \ldots[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. [math]x = 1[/math] হলে, ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. [math]x=\frac{1}{3}[/math] হলে, ধারাটির ১ম 10টি পদের সমষ্টি নির্ণয় কর।
+গ. x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি যদি থাকে তবে সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত গুণোত্তর ধারাটি, [math]\frac{1}{6 x+1}+\frac{1}{(6 x+1)^{2}}+\frac{1}{(6 x+1)^{3}}+\ldots \ldots[/math]
+ [math]x = 1[/math]
+ হলে ধারাটি হবে, [math]\frac{1}{6 \times 1+1}+\frac{1}{(6 \times 1+1)^{2}}+\frac{1}{(6 \times 1+1)^{3}}+\ldots .[/math]
+ [math]=\frac{1}{7}+\frac{1}{7^{2}}+\frac{1}{7^{3}}+\ldots \ldots[/math]
+ [math]\therefore[/math]
+ ধারাটির সাধারণ অনুপাত [math]=\frac{\frac{1}{7^{2}}}{\frac{1}{7}}=\frac{1}{7} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]x=\frac{1}{3}[/math]
+ হলে, ধারাটি হবে,[math]\frac{1}{6 \times \frac{1}{3}+1}+\frac{1}{\left(6 \times \frac{1}{3}+1\right)^{2}}+\frac{1}{\left(6 \times \frac{1}{3}+1\right)^{3}}+\ldots \ldots[/math]
+ [math]=\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots \ldots \ldots[/math]
+ [math]\therefore[/math]
+ ধারাটির সাধারণ অনুপাত [math]r=\frac{\frac{1}{3^{2}}}{\frac{1}{3}}=\frac{1}{3}গউদ্দীপকের ধারাটির সাধারণ অনুপাত, [math]r=\frac{\frac{1}{(6 x+1)^{2}}}{\frac{1}{6 x+1}}=\frac{1}{6 x+1}[/math]
+ [math]\therefore[/math]
+ ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি, |r| 1[/math]
+ হয়।অর্থাৎ [math]6 x+1>1[/math]
+ [math]\begin{array}{l}\Rightarrow 6 x>0 \\\therefore x>0\end{array}[/math]
+অথবা, [math]-(6 x+1)>1[/math]
+ [math]\begin{array}{l}\Rightarrow 6 x+10[/math]
+ অথবা [math]x<-\frac{1}{3}[/math]
+ হলে প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে। [math]\text { (Ans.) }[/math]
+ধারাটির ১ম পদ, [math]a=\frac{1}{6 x+1}[/math]
+ [math]\therefore[/math]
+ অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{6 x+1}}{1-\left(\frac{1}{6 x+1}\right)}=\frac{\frac{1}{6 x+1}}{\frac{6 x+1-1}{6 x+1}}[/math]
+ [math]=\frac{1}{6 x+1} \times \frac{6 x+1}{6 x}=\frac{1}{6 x}(\text { Ans.})[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 705362)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+[math]f\mathrm{(y)=y^{3}+13 y^{2}+8 y+5}[/math] একটি বহুপদী এবং [math]\mathrm{p+q+r+\ldots}[/math] একটি ধারা।
+
+Options:
+ক. [math]\mathrm{3+1+\frac{1}{3}+\frac{1}{9}+\ldots \ldots \ldots}[/math] অসীম গুনোত্তর ধারার (অসীমতক) সমষ্টি যদি থাকে, তবে তা নির্ণয় কর।
+খ. [math]f\mathrm{(y)}[/math] কে [math]\mathrm{(y-p)}[/math] এবং [math]\mathrm{(y-q)}[/math] দ্বারা ভাগ করলে যদি একই ভাগশেষ থাকে যেখানে [math]\mathrm{p} \neq \mathrm{q},[/math] তবে দেখাও যে, [math]\mathrm{p^{2}+q^{2}+p q+13 p+13 q+8=0}[/math]
+গ. যদি [math]\mathrm{p=6, q=66}[/math] এবং [math]\mathrm{r=666}[/math] হয়, তবে প্রদত্ত ধারাটির ১ম [math]\mathrm{n}[/math]- পদের সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কধারাটির ১ম পদ, a = 3সাধারণ অনুপাত, [math]r=1 \div 3=\frac{1}{3}[/math]
+এখানে, [math]|r|=\frac{1}{3}খদেওয়া আছে, [math]f(y)=y^{3}+13 y^{2}+8 y+5[/math]
+ [math]f(y)[/math]
+ কে (y – p) দ্বারা ভাগ করলে ভাগশেষ হবে [math]f(p)[/math]
+ [math]\therefore f(p)=p^{3}+13 p^{2}+8 p+5[/math]
+এবং [math]f(y)[/math]
+ কে [math](y – q)[/math]
+ দ্বারা ভাগ করলে ভাগশেষ হবে [math]f(q)[/math]
+ [math]\therefore f(q)=q^{3}+13 q^{2}+8 q+5[/math]
+প্রশ্নমতে, [math]f(\mathrm{p})=f(\mathrm{q})[/math]
+ [math]\Rightarrow[/math]
+ [math]p^{3}+13 p^{2}+8 p+5=q^{3}+13 q^{2}+8 q+5[/math]
+ [math]\Rightarrow[/math]
+ [math]p^{3}-q^{3}+13 p^{2}-13 q^{2}+8 p-8 q=0[/math]
+ [math]\Rightarrow[/math]
+ [math](p-q)\left(p^{2}+p q+q^{2}\right)+13(p-q)(p+q)+8(p-q)=0[/math]
+ [math]\Rightarrow[/math]
+ [math](p-q)\left(p^{2}+p q+q^{2}+13 p+13 q+8\right)=0[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{p}^{2}+\mathrm{q}^{2}+\mathrm{pq}+13 \mathrm{p}+13 \mathrm{q}+8=0[\because \mathrm{p} 
+eq \mathrm{q}][/math]
+ (দেখানো হলো) [math]\\[/math]
+ গপ্রদত্ত ধারাটি, [math]\mathrm{p}+\mathrm{q}+\mathrm{r}+\ldots \ldots[/math]
+ [math]\mathrm{p}=6, \mathrm{q}=66, \mathrm{r}=666[/math]
+ হলে,ধারাটি [math]6+66+666+........[/math]
+১ম n-পদের সমষ্টি[math]S_{n}=6+66+666+\ldots \ldots+n[/math]
+ তম পদ[math]=\frac{6}{9}(9+99+999+\ldots \ldots .+n[/math]
+ তম পদ [math]\text { ) }[/math]
+ [math]=\frac{2}{3}\{(10-1)+(100-1)+(1000-1)+\ldots \ldots \ldots . .+n[/math]
+ তম পদ [math]\text )\}[/math]
+ [math]=\frac{2}{3}\left\{\left(10+10^{2}+10^{3}+\ldots \ldots . .+n\right.\right.[/math]
+ তম পদ [math]\text {)}-n\}[/math]
+ [math]=\frac{2}{3}\left\{\frac{10\left(10^{n}-1\right)}{10-1}-n\right\}=\frac{2}{3}. \frac{10\left(10^{n}-1\right)}{9}-\frac{2}{3} n[/math]
+ [math]=\frac{20}{27}\left(10^{n}-1\right)-\frac{2 n}{3} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 705363)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{1+(4x-1)^{-1}+(4x-1)^{-2}+(4x-1)^{-3}+}.............[/math] একটি অনন্ত গুণোত্তর ধারা।
+
+Options:
+ক. [math]\mathrm{x=1}[/math] এর জন্য প্রাপ্ত ধারাটির সাধারণ অনুপাত নির্ণয় কর।
+খ. [math]\mathrm{x=2}[/math] এর জন্য প্রাপ্ত ধারাটির প্রথম [math]20[/math] টি পদের সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{x}[/math] এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কধারাটির সাধারণ অনুপাত, [math]r=\frac{(4 x-1)^{-1}}{1}[/math]
+ [math]\begin{array}{l}=(4 x-1)^{-1} \\=\frac{1}{4 x-1}\end{array}[/math]
+ [math]x=1[/math]
+ হলে [math]r=\frac{1}{4.1-1}=\frac{1}{3} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খx = 2 হলে ধারাটির সাধারণ অনুপাত, [math]r=\frac{1}{4.2-1}=\frac{1}{7}[/math]
+এবং ১ম পদ, [math]a=1[/math]
+ [math]\therefore[/math]
+ ধারাটির ১ম 20টি পদের সমষ্টি [math]=\frac{a\left(1-r^{n}\right)}{1-r}[/math]
+ [math]\begin{array}{l}=\frac{1\left\{1-\left(\frac{1}{7}\right)^{20}\right\}}{1-\frac{1}{7}} \\=\frac{1-\frac{1}{7^{20}}}{\frac{6}{7}} \\=\frac{7}{6}\left(1-\frac{1}{7^{20}}\right) \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ গধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি,[math]|r|1\end{array}[/math]
+অর্থাৎ, [math]4 x-1>1[/math]
+ [math]\therefore x>\frac{1}{2}[/math]
+অথবা, [math]-(4 x-1)>1[/math]
+ [math]\begin{array}{l}\Rightarrow 4 x-1\frac{1}{2}[/math]
+ অথবা [math]x<0 \text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}=\frac{1}{1-\frac{1}{4 x-1}}[/math]
+ [math]\begin{array}{l}=\frac{1}{\frac{4 x-1-1}{4 x-1}} \\=\frac{4 x-1}{4 x-2} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 705364)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{1+\frac{1}{1+y}+\frac{1}{(1+y)^{2}}+\frac{1}{(1+y)^{3}}+\ldots}[/math] একটি ধারা।
+
+Options:
+ক. যদি [math]\mathrm{y=3}[/math] হয়, ধারাটি নির্ণয় কর এবং সাধারণ অনুপাত কত?
+খ. [math]\mathrm{y=2}[/math] হলে ধারাটির ১ম দশটি পদের সমষ্টি নির্ণয় কর।
+গ. [math]\mathrm{y}[/math] এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত ধারাটি, [math]1+\frac{1}{1+y}+\frac{1}{(1+y)^{2}}+\frac{1}{(1+y)^{3}}+\ldots \ldots[/math]
+ধারাটি, [math]1+\frac{1}{1+3}+\frac{1}{(1+3)^{2}}+\frac{1}{(1+3)^{3}}+\ldots[/math]
+ [math]=1+\frac{1}{4}+\frac{1}{4^{2}}+\frac{1}{4^{3}}+\ldots \ldots . \text { (Ans.) }[/math]
+এবং সাধারণ অনুপাত, [math]=1+\frac{1}{4}+\frac{1}{4^{2}}+\frac{1}{4^{3}}+\ldots \ldots . \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত ধারা [math]1+\frac{1}{1+y}+\frac{1}{(1+y)^{2}}+\frac{1}{(1+y)^{3}}+[/math]
+ হলে,ধারাটি, [math]1+\frac{1}{1+2}+\frac{1}{(1+2)^{2}}+\frac{1}{(1+2)^{3}}+\ldots \ldots[/math]
+ [math]=1+\frac{1}{3}+\frac{1}{3^{2}}+\frac{1}{3^{3}}+\ldots[/math]
+ধারাটির ১ম পদ a=1সাধারণত অনুপাত, [math]\mathrm{r}=\frac{\frac{1}{3}}{1}=\frac{1}{3}[/math]
+যেহেতু, ধারাটির সাধারণ অনুপাত, [math]|\mathrm{r}|গধারাটির ১ম পদ, a = 1সাধারণ অনুপাত, [math]r=\frac{\frac{1}{1+y}}{1}=\frac{1}{1+y}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি [math]|\mathrm{r}|1[/math]
+ [ব্যস্তকরণ করে]অর্থাৎ, [math]1+y>1[/math]
+ [math]\Rightarrow y>0[/math]
+অথবা, [math]-(1+y)>1[/math]
+ [math]\begin{array}{l}\Rightarrow 1+y 0[/math]
+ অথবা [math]y < -2[/math]
+$$ অসীমতক সমষ্টি, [math]S_{\infty}=\frac{a}{1-r}=\frac{1}{1-\frac{1}{1+y}}[/math]
+ [math]=\frac{1}{\frac{1+y-1}{1+y}}=\frac{1+y}{y} \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 705365)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{f(x)=\frac{5 x-7}{x+4}}[/math] এবং [math]\mathrm{S=(7 x-3)^{-1}+(7 x-3)^{-2}+(7 x-3)^{-3}+\ldots}[/math]
+
+Options:
+ক. সার্বিক সেট [math]\mathrm{U}[/math] এর যেকোনো উপসেট [math]\mathrm{A}[/math] ও [math]\mathrm{B}[/math] এর জন্য দেখাও যে, [math]\mathrm{A} \backslash \mathbf{B}=\mathrm{B}^{\prime} \backslash \mathbf{A}^{\prime}.[/math]
+খ. [math]\mathrm{f^{-1}(p)=2 f^{-1}(-2)}[/math] হলে [math]\mathrm{p}[/math] এর মান নির্ণয় কর।
+গ. [math]\mathrm{x}[/math] এর উপর কী শর্ত আরোপ করলে [math]\mathrm{S}[/math] এর অসীমতক সমষ্টি থাকবে তা নির্ণয় করে ধারাটির অসীমতক সমষ্টি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কধরি, [math]X \in A \backslash B[/math]
+তাহলে, [math]x \in A[/math]
+ এবং [math]\mathrm{x} 
+otin \mathrm{B}[/math]
+ [math]\Rightarrow \quad x 
+otin A^{\prime}[/math]
+ এবং [math]x \in \mathrm{B}^{\prime}[/math]
+ [math]\Rightarrow x \in B^{\prime}[/math]
+ এবং [math]x 
+otin A^{\prime}[/math]
+ [math]\Rightarrow x \in \mathrm{B}^{\prime} \backslash \mathrm{A}^{\prime}[/math]
+ [math]\therefore \quad A \backslash B \subseteq B^{\prime} \backslash A^{\prime}[/math]
+আবার, ধরি, [math]\mathrm{x} \in \mathrm{B}^{\prime} \backslash A^{\prime}[/math]
+ [math]\Rightarrow x \in B^{\prime}[/math]
+ এবং [math]x 
+otin A^{\prime}[/math]
+ [math]\Rightarrow x 
+otin B[/math]
+ এবং [math]x \in A[/math]
+ [math]\Rightarrow x \in A[/math]
+ এবং [math]x 
+otin B[/math]
+ [math]\Rightarrow x \in A \backslash B[/math]
+ [math]\therefore \quad B^{\prime} \backslash A^{\prime} \subseteq A \backslash B[/math]
+ [math]\therefore \quad A \backslash B=B^{\prime} \backslash A^{\prime}[/math]
+ (দেখানো হলো) [math]\\[/math]
+ খদেওয়া আছে, [math]f(x)=\frac{5 x-7}{x+4}[/math]
+ধরি, [math]f(x)=y[/math]
+ [math]\therefore \quad \frac{5 x-7}{x+4}=y[/math]
+ [math]\begin{array}{l}\Rightarrow 5 x-7=x y+4 y\\\Rightarrow 5 x-x y=4 y+7\\\Rightarrow x(5-y)=4 y+7\\\Rightarrow x=\frac{4 y+7}{5-y}\end{array}[/math]
+ [math]\Rightarrow f^{-1}(y)=\frac{4 y+7}{5-y}[/math]
+ [math]\left[\because f(x)=y \quad \therefore x=f^{-1}(y)\right][/math]
+এখন, [math]f^{-1}(p)=2 f^{-1}(-2)[/math]
+ [math]\Rightarrow \frac{4 p+7}{5-p}=2 \cdot \frac{4(-2)+7}{5+2}[/math]
+ [math]\Rightarrow \frac{4 p+7}{5-p}=\frac{-8+7}{7} \cdot 2[/math]
+ [math]\Rightarrow 28 p+49=-10+2 p[/math]
+ [math]\begin{array}{l}\Rightarrow 28 p-2 p=-10-49\\\Rightarrow 26 p=-59\end{array}[/math]
+ [math]\therefore p=\frac{-59}{26} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ [math]\begin{aligned}S & =(7 x-3)^{-1}+(7 x-3)^{-2}+(7 x-3)^{-3}+\ldots . \\& =\frac{1}{7 x-3}+\frac{1}{(7 x-3)^{2}}+\frac{1}{(7 x-3)^{3}}+\ldots .\end{aligned}[/math]
+এখানে, প্রথম পদ [math]a=\frac{1}{7 x-3}[/math]
+সাধারন অনুপাত, [math]r=\frac{1}{(7 x-3)^{2}}+\frac{1}{(7 x-3)}=\frac{1}{7 x-3}[/math]
+ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি [math]|r|1[/math]
+ [ব্যস্তকরণ করে]অর্থাৎ [math]7 x-3>1[/math]
+ [math]\Rightarrow 7 x>4 \text {. }[/math]
+ [math]\therefore \quad x>\frac{4}{7}[/math]
+অথবা, [math]-(7 x-3)>1[/math]
+ [math]\begin{array}{l}\Rightarrow 7 x-3\frac{4}{7}[/math]
+ অথবা, [math]x<\frac{2}{7} \text { (Ans.) }[/math]
+এবং অসীমতক সমষ্টি [math]S_{\infty}=\frac{a}{1-r}=\frac{\frac{1}{7 x-3}}{1-\frac{1}{7 x-3}}[/math]
+ [math]\begin{array}{l}=\frac{\frac{1}{7 x-3}}{\frac{7 x-3-1}{7 x-3}} \\=\frac{1}{7 x-3} \times \frac{7 x-3}{7 x-4} \\=\frac{1}{7 x-4} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 171236)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: \ সারা একজন তরুণ উদ্যোক্তা। সে একটি পরিবেশবান্ধব পণ্য তৈরি করে যা প্লাস্টিকের পরিবর্তে ব্যবহৃত হয়। তার উদ্যোগটি সমাজে পরিবেশ সচেতনতা বৃদ্ধি করছে ও জনগণের মধ্যে পুনর্ব্যবহারযোগ্য পণ্যের চাহিদা বাড়াচ্ছে।
+
+Options:
+ক. (জ্ঞানমূলক): সারার উদ্যোগের নাম কী হতে পারে এবং এর উদ্দেশ্য কী?
+খ. (অনুধাবন): পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি?
+গ. (বিশ্লেষণ/প্রয়োগ): সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায় তা প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ক নাম হতে পারে যেমন “সবুজসাথী” বা “পুনর্নব” এবং উদ্দেশ্য হবে প্লাস্টিকের বিকল্প পরিবেশবান্ধব পণ্য তৈরি করে প্লাস্টিক ব্যবহার কমানো ও পুনর্ব্যবহারযোগ্য পণ্যের প্রচার করা; এই নাম ও উদ্দেশ্য সরাসরি উদ্যোগের লক্ষ্য—পরিবেশ রক্ষা ও টেকসই ব্যবহার—প্রতিফলিত করে।  
+খ পরিবেশবান্ধব পণ্যের ব্যবহার জরুরি কারণ প্লাস্টিক দীর্ঘস্থায়ী দূষণ সৃষ্টি করে, প্রাণী ও মানবস্বাস্থ্যে ক্ষতি করে এবং প্রাকৃতিক সম্পদ নষ্ট করে; বিকল্প পণ্যে বর্জ্য কমে, ব্যর্থতা কমে এবং পরিবেশ সুস্থ থাকে।  
+গ সারা সমাজে পরিবর্তন আনছে কারণ তিনি উদাহরণ সৃষ্টি করে, সচেতনতা বাড়িয়ে গ্রাহকদের চাহিদা বদলাচ্ছেন এবং ব্যবসায়িক চক্রে টেকসই বিকল্প প্রবেশ করাচ্ছেন; ফলে অন্য উদ্যোক্তা ও প্রতিষ্ঠানগুলোও একই পথ অনুসরণ করতে উৎসাহিত হয়।  
+ঘ তরুণ উদ্যোক্তাদের ভূমিকা বাড়াতে পারে—সরকারি অনুদান ও ট্যাক্স সুবিধা, ইনকিউবেটর ও প্রশিক্ষণ, বাজারে প্রবেশের সহায়তা ও সচেতনতা প্রচারণা দেওয়ার মাধ্যমে—যাতে তারা দ্রুত স্কেল করতে পারে এবং পরিবেশগত উদ্ভাবন ব্যাপক করতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 171237)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: \ এই অধ্যায়ে অসীম ধারা নিয়ে আলোচনা করা হবে। অসীম গুণোত্তর ধারার সমষ্টি নির্ণয় করতে পারবে এবং আবৃত্ত দশমিক সংখ্যাকে অনন্ত গুণোত্তর ধারায় প্রকাশ এবং সাধারণ ভগ্নাংশে রূপান্তর করতে পাবে।
+
+Options:
+ক. (জ্ঞানমূলক): অসীম গুণোত্তর ধারার সমষ্টির শর্ত কী?
+খ. (অনুধাবন): আবৃত্ত দশমিক সংখ্যা কীভাবে গুণোত্তর ধারায় রূপান্তরিত হয়?
+গ. (বিশ্লেষণ/প্রয়োগ): অসীম ধারার প্রথম পদ এবং সেগুলোর সমষ্টি কিভাবে নির্ণয় করা যায় তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): অসীম ধারার ব্যবহার সমাজে কি ধরনের পরিবর্তন আনতে পারে তা আলোচনা করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ক অসীম গুণোত্তর ধারার সমষ্টি তখনই নির্ণেয় যখন গুণকটির মানের পরিমাপ ছোট হয় একের তুলনায়, অর্থাৎ [math]|r|খ আবৃত্ত দশমিককে গুণোত্তর ধারায় রূপান্তর করতে প্রতিটি পুনরাবৃত্ত অংশকে একটি ভগ্নরাশির প্রথম পদ ধরে এবং পরবর্তী পদগুলোকে গুণকে শক্তি হিসেবে নিয়ে যোগ করা হয়; উদাহরণ: [math]0.\overline{36}= \frac{36}{100}+\frac{36}{100^2}+\cdots=\frac{36/100}{1-1/100}=\frac{36}{99}[/math]। 
+
+গ প্রথম পদ এবং অনুপাতে নজর দিলে ধারার প্রথম পদ [math]a[/math] ও গুণক [math]r[/math] পাওয়া যায়; যদি [math]|r|ঘ অসীম গুণোত্তর ধারার ব্যবহার বাস্তবে মডেলিং, অর্থায়ন (আনুয়িটি), সিগন্যাল এবং কম্পিউটেশনাল অ্যালগরিদমে ছোট-স্কেলে যতটা প্রয়োগযোগ্য, ততটাই বড় মডেলে অবিরত প্রভাব দেয়; সুবিধা হল ধারাবাহিক ছোট অবদান যোগ করে মোট ফলাফল পাওয়া যায়, সীমাবদ্ধতা হল বাস্তব জীবনে সম্পূর্ণ অসীম ঘটে না—তাই প্রয়োগে অনুমান ও যাচাই প্রয়োজন।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 161184)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি অসীম গুণোত্তর ধারা 4 এর প্রথম পদ এবং সাধারণ অনুপাত 1/2। যদি আমরা এই ধারাটির অসীমতক সমষ্টি নির্ণয় করতে চাই, তবে আমাদের কি শর্ত মানতে হবে তা ব্যাখ্যা করো।
+
+Options:
+ক. (জ্ঞানমূলক): এই গুণোত্তর ধারাটির প্রথম পদ ও সাধারণ অনুপাত সম্পর্কে আলোচনা করো।
+খ. (অনুধাবন): গুণোত্তর ধারার অসীমতক সমষ্টি নির্ণয়ের প্রয়োজনীয় শর্তগুলি কী কী?
+গ. (বিশ্লেষণ/প্রয়োগ): এই ধারাটির অসীমতক সমষ্টির মান কিভাবে পরিবর্তিত হবে যদি সাধারণ অনুপাত পরিবর্তিত হয়?
+ঘ. (মূল্যায়ন/সৃজন): একই ধরনের আরও একটি গুণোত্তর ধারার উদাহরণ সৃষ্টি করো এবং এর অসীমতক সমষ্টি নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক প্রথম পদ [math]a=4[/math] এবং সাধারণ অনুপাত [math]r=\tfrac{1}{2}[/math]; ধারার প্রথম কয়েকটি পদ হল [math]4,\ 2,\ 1,\tfrac{1}{2},\dots[/math].
+
+খ একটি অসীম গুণোত্তর ধারার অসীমতক সমষ্টি থাকতে হলে প্রয়োজনীয় শর্ত হলো [math]|r|গ এখানে সমষ্টি হলে [math]S=\dfrac{4}{1-r}[/math] (শর্ত [math]|r|ঘ উদাহরণ: ধরো [math]a=6,\ r=\tfrac{1}{3}[/math], তখন ধারার অসীমতক সমষ্টি হবে [math]S=\dfrac{6}{1-\tfrac{1}{3}}=\dfrac{6}{\tfrac{2}{3}}=9[/math], কারণ এখানে [math]|r|=\tfrac{1}{3}<1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 161185)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি গুণোত্তর ধারায় প্রতিটি পদের সমষ্টি 26 এবং গুণফল 64। এই তথ্যে ভিত্তি করে ধারাটির প্রথম পদ এবং সাধারণ অনুপাত নির্ণয় করতে পারলে, প্রাপ্ত ফলাফলগুলি বিশ্লেষণ করো।
+
+Options:
+ক. (জ্ঞানমূলক): গুণোত্তর ধারার প্রথম পদ ও সাধারণ অনুপাত কীভাবে নির্ণয় করা যায়, সেজন্য ধারাটির সূত্র কি?
+খ. (অনুধাবন): ধারাটির প্রথম পদ ও সাধারণ অনুপাতের মধ্যে সম্পর্ক কী?
+গ. (বিশ্লেষণ/প্রয়োগ): এই ধারার সমষ্টি ও গুণফলের তথ্য ব্যবহার করে অন্যান্য ধারার মধ্যে সম্পর্ক বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): এই প্রেক্ষাপটে একটি নতুন গুণোত্তর ধারা তৈরি করো এবং তার প্রথম পদ ও সাধারণ অনুপাত নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক গুণোত্তর ধারার সাধারণ সূত্রগুলো হল [math]a_n = a r^{\,n-1}[/math], [math]S_n = a\frac{r^n-1}{r-1} \;(r\neq1)[/math] এবং n পদে গুণফল [math]P_n = a^n r^{\,\frac{n(n-1)}{2}}[/math]; এই সূত্রগুলো ব্যবহার করে যদি n জানা থাকে তবে [math]S_n=26[/math] ও [math]P_n=64[/math] থেকে [math]a[/math] ও [math]r[/math] নির্ণয় করা যায়। 
+
+খ প্রথম পদ ও সাধারণ অনুপাতের সম্পর্কটি সারাংশে এভাবে লেখা যায়: [math]a=\frac{S_n(r-1)}{r^n-1}[/math] এবং তা [math]P_n=a^n r^{\frac{n(n-1)}{2}}[/math] এ স্থাপন করলে কেবল [math]r[/math] নির্ধারণের সমীকরণ পাওয়া যায়; মানে sum এবং product একসাথে দিলে [math]a[/math] কে [math]r[/math] এর ফাংশন হিসেবে প্রকাশ করা যায় এবং তারপর [math]r[/math] বের করে [math]a[/math] পাওয়া যায়। 
+
+গ বিশ্লেষণে প্রথমে [math]a[/math] বিলোপ করে কেবল [math]r[/math] নিয়ে সমীকরণ গঠন করতে হবে, তারপর সমাধান করে অনুমেয় মূলগুলো (ধন/ঋণ, |r|>1 বা ঘ একটি সহজ উদাহরণ: ধারা 3, 6, 12, ... এ প্রথম পদ [math]a=3[/math] এবং সাধারণ অনুপাত [math]r=2[/math] ; এভাবে কোনো মান বেছে নিয়ে সহজেই নতুন গুণোত্তর ধারা তৈরি ও তার [math]a[/math] ও [math]r[/math] নির্ণয় করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 161186)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // অসীম ধারার ক্ষেত্রে, যদি ১ম পদ 0.5 এবং সাধারণ অনুপাত 1/9 হয়, তাহলে এই ধারাটির অসীমতক সমষ্টি হিসাব করতে হলে কি শর্ত পালন করতে হবে তা ব্যাখ্যা করো।
+
+Options:
+ক. (জ্ঞানমূলক): অসীম ধারার সাধারণ পদ ও তার গুণোত্তর অনুপাত সম্পর্কে আলোচনা করো।
+খ. (অনুধাবন): এই ধরনের অসীম ধারার সমষ্টির শর্তগুলো কী?
+গ. (বিশ্লেষণ/প্রয়োগ): সাধারণ অনুপাত পরিবর্তিত হলে ধারাটির অসীমতক সমষ্টি কিভাবে পরিবর্তিত হবে তা বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): একটি নতুন অসীম গুণোত্তর ধারার উদাহরণ সৃষ্টি করো এবং তার অসীমতক সমষ্টি নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+খ সঠিক — অসীম গুণোত্তর ধারার অসীমতক সমষ্টি নির্ণয়ের জন্য প্রয়োজন যে সাধারণ অনুপাতের মূল্যবোধ [math]|r|<1[/math]। এ ক্ষেত্রে [math]r=1/9[/math] হওয়ায় শর্ত পূরণ হয় এবং সমষ্টি সূত্র প্রযোজ্য: [math]S=\dfrac{a}{1-r}=\dfrac{0.5}{1-\tfrac{1}{9}}=\dfrac{0.5}{8/9}=\dfrac{9}{16}[/math]। কারণ যখন [math]|r|<1[/math] হয় প্রতিটি পরবর্তী পদ শূন্যের দিকে যায় এবং অংশিক সমষ্টিগুলো একটি নির্দিষ্ট ধ্রুবকে মিলিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 161187)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি গুণোত্তর ধারার প্রথম পদ 4 এবং সাধারণ অনুপাত 3। এই তথ্যের ভিত্তিতে ধারাটির প্রথম 10 পদের সমষ্টি কিভাবে নির্ণয় করা যায় তা আলোচনা করো।
+
+Options:
+ক. (জ্ঞানমূলক): গুণোত্তর ধারার পদের সংখ্যা ও সমষ্টি নির্ণয়ের সূত্রগুলি কি?
+খ. (অনুধাবন): এই ধারার প্রথম 10 পদের সমষ্টি নির্ণয় করতে কি কি পদক্ষেপ নিতে হবে?
+গ. (বিশ্লেষণ/প্রয়োগ): প্রথম 10 পদের সমষ্টি নির্ণয় করার জন্য তোমার পদ্ধতিটি বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): একই মূল্যের একটি নতুন গুণোত্তর ধারার উদাহরণ তৈরি করো এবং তার সমষ্টি নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক গুণোত্তর ধারার nতম পদ ও প্রথম n পদের সমষ্টির সূত্র হল: [math]a_n=ar^{\,n-1}[/math] এবং [math]S_n=a\frac{r^n-1}{r-1}\quad(r\neq1)[/math]।
+
+খ প্রথম 10 পদের সমষ্টি নির্ণয়ের ধাপ: প্রথমে [math]a=4,\,r=3,\,n=10[/math] বসিয়ে sum সূত্র ব্যবহার করো; অর্থাৎ [math]S_{10}=4\frac{3^{10}-1}{3-1}[/math]।
+
+গ পদ্ধতির বিশ্লেষণ: সূত্রে মান বসিয়ে গণনা করলে [math]3^{10}=59049[/math] হওয়ায় [math]S_{10}=4\frac{59049-1}{2}=4\times29524=118096[/math], তাই পদ্ধতি সঠিক এবং সরাসরি ফল দেয়।
+
+ঘ নতুন উদাহরণ: ধরা যাক নতুন ধারার প্রথম পদ [math]2[/math] এবং অনুপাত [math]3[/math]; তখন প্রথম 10 পদের সমষ্টি [math]S_{10}=2\frac{3^{10}-1}{3-1}=59048[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 161188)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // 0.121212... একটি পৌনঃপুনিক দশমিক সংখ্যা। এই সংখ্যাটির সাধারণ ভগ্নাংশে রূপান্তর করতে হলে কী পদ্ধতি অনুসরণ করতে হবে তা ব্যাখ্যা করো।
+
+Options:
+ক. (জ্ঞানমূলক): পৌনঃপুনিক দশমিক সংখ্যা কি এবং এর সাধারণ ভগ্নাংশে রূপান্তরের পদ্ধতি কী?
+খ. (অনুধাবন): কেন পৌনঃপুনিক দশমিক সংখ্যাগুলো সাধারণ ভগ্নাংশে রূপান্তর করা জরুরি?
+গ. (বিশ্লেষণ/প্রয়োগ): রূপান্তরের পদ্ধতি অনুসরণ করে এই সংখ্যা প্রাপ্ত হওয়ার ফলাফল বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): অন্য একটি পৌনঃপুনিক দশমিক সংখ্যা নিয়ে আলোচনা করো এবং সেটির সাধারণ ভগ্নাংশে রূপান্তর করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ক পৌনঃপুনিক দশমিক হল এমন সংখ্যা যার কিছু অঙ্ক নির্দিষ্ট প্যাটার্ন বারবার আসে; সাধারণ ভগ্নাংশে রূপান্তরের পদ্ধতি হলো সংখ্যাটিকে [math]x[/math] ধরে পুনরাবৃত্তি ব্লকের দৈর্ঘ্য অনুযায়ী [math]10^n[/math] দ্বারা গুণ করে মূল সমীকরণ থেকে বিয়োগ করে অবশিষ্ট অংশ বরধ করে সমাধান করা।  
+[math]x=0.121212\ldots[/math] হলে পুনরাবৃত্তি ব্লক "12" হওয়ার কারণে [math]100x=12.121212\ldots[/math], বিয়োগ করে [math]99x=12[/math] এবং তাই [math]x=12/99=4/33[/math]।  
+খ সাধারণ ভগ্নাংশে রূপ করলে সংখ্যা নির্দিষ্টভাবে প্রকাশ পায়, গাণিতিক অপারেশন সহজ হয় এবং সংখ্যাটি রেশনাল কিনা তা স্পষ্ট হয়।  
+গ রূপান্তরের ফলে পাওয়া মান [math]4/33[/math], যা পুনরাবৃত্তি '12' নির্দেশ করে; ঘ অন্য উদাহরণ: [math]y=0.363636\ldots[/math], তাহলে [math]100y=36.3636\ldots[/math], [math]99y=36[/math] এবং [math]y=36/99=4/11[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 131963)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: একটি অসীম গুণোত্তর ধারা তৈরি হয়েছে যেখানে প্রথম পদ ৫ এবং সাধারণ অনুপাত ০.৫। এই ধারার সমষ্টি নির্ণয় করা হলে কী ফলাফল পাওয়া যাবে?
+
+Options:
+ক. (জ্ঞানমূলক): অসীম গুণোত্তর ধারার সমষ্টি কীভাবে নির্ণয় করা হয়?
+খ. (অনুধাবন): কেন একটি গুণোত্তর ধারা সমষ্টি ধারণকারী হতে পারে না?
+গ. (বিশ্লেষণ/প্রয়োগ): প্রদত্ত ধারা থেকে শুরু করে, যদি প্রথম পদ পরিবর্তন করা হয়, তবে তার ফলাফলে কী প্রভাব পড়বে?
+ঘ. (মূল্যায়ন/সৃজন): একটি দশমিক সংখ্যা 0.333... কে কীভাবে সাধারণ ভগ্নাংশে রূপান্তর করা যায় তা ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+প্রথমে মূল তথ্য: প্রথম পদ [math]a=5[/math] এবং সাধারণ অনুপাত [math]r=0.5[/math]। অসীম গুণোত্তর ধারার সমষ্টি নির্ণয়ের মূল সূত্র ও শর্তগুলো ব্যবহার করব।
+
+ক (জ্ঞানমূলক): অসীম গুণোত্তর ধারার সমষ্টি কীভাবে নির্ণয় করা হয়?  
+অসীম গুণোত্তর ধারার সমষ্টি তখনই থাকে যখন সাধারণ অনুপাতের পরিমাপ ছোট হয়, অর্থাৎ [math]|r|খ (অনুধাবন): কেন একটি গুণোত্তর ধারা সমষ্টি ধারণকারী হতে পারে না?  
+কারণ অসীম ধারার সমষ্টি নির্ভর করে ধারা konverg করে কি না—অর্থাৎ ধারা জমা করলে যোগফল একটি ধ্রুব মানে পৌঁছানো দরকার। একটি অসীম গুণোত্তর ধারা konverg করে কেবল তখনই যখন [math]|r|1[/math], তাহলে পদগুলো অনবরত বৃদ্ধি পায় (বা অপ্রতিপাদকভাবে বাড়ে) এবং যোগফল অসীমের দিকে চলে যায় (diverge)।  
+- যদি [math]r=1[/math], প্রতিটি পদ একই থাকে ([math]a[/math]) এবং অসীম সংখ্যক যোগফলে কোনো সীমা নেই (মাত্র বিশেষ ক্ষেত্রে [math]a=0[/math] দিলে সরাসরি শূণ্য)।  
+- যদি [math]r=-1[/math], পদগুলো ধ্রুবভাবে ধনাত্মক ও ঋণাত্মকভাবে পাল্টায় এবং সীমা থাকে না।
+
+আরেকটি সহজ পরীক্ষা: ধারার n-তম পদ যদি [math]a r^{n-1}[/math] হয়, সমষ্টি থাকতে হলে nth পদটির সীমা শূন্যে যেতে হবে; তা হলে কেবল সম্ভব যখন [math]|r|গ (বিশ্লেষণ/প্রয়োগ): প্রথম পদ পরিবর্তন করলে ফলাফলে কী প্রভাব পড়বে?  
+সূত্র অনুযায়ী অসীম সমষ্টি [math]S=\dfrac{a}{1-r}[/math]। এখানে [math]r[/math] অপরিবর্তিত ধরে রাখলে [math]S[/math] সরাসরি [math]a[/math]-এর অনুপাতে পরিবর্তিত হবে (রেখাগত অনুপাত)। উদাহরণ: যদি প্রথম পদ [math]a=10[/math] করা হয় এবং [math]r=0.5[/math] থাকে, তবে  
+[math]S=\dfrac{10}{1-0.5}=\dfrac{10}{0.5}=20[/math] — আগের ফলাফলের দ্বিগুণ। তাই প্রথম পদ বাড়লে সমষ্টিও সমান অনুপাতে বৃদ্ধি পায়। (বিপরীতভাবে প্রথম পদ কমালে সমষ্টিও কমে।)
+
+ঘ (মূল্যায়ন/সৃজন): দশমিক সংখ্যা [math]0.333\ldots[/math] কে কীভাবে সাধারণ ভগ্নাংশে রূপান্তর করা যায় তা ব্যাখ্যা কর।  
+নিয়মনীত পদ্ধতি: ধরা যাক [math]x=0.333\ldots[/math]। তারপর [math]10x=3.333\ldots[/math]। এখন দুইটি সমীকরণ বিশ্লেষণ করলে:  
+[math]10x-x=3.333\ldots-0.333\ldots=3[/math]  
+তাই [math]9x=3[/math] এবং [math]x=\dfrac{3}{9}=\dfrac{1}{3}[/math]। ফলে [math]0.333\ldots=\dfrac{1}{3}[/math]।
+
+সংক্ষিপ্ত উত্তর: প্রদত্ত ধারাটির অসীম ধারা সমষ্টি [math]10[/math] এবং উপরোক্ত অংশগুলোর ব্যাখ্যা উপরে দেওয়া হল।
+
+Explanation:
+ক সঠিক — অসীম গুণোত্তর ধারার সমষ্টি তখনই নির্ণয় করা যায় যখন সাধারণ অনুপাতের মান |r|<1 এবং সূত্র [math]S=\frac{a}{1-r}[/math]. এখানে [math]a=5, r=0.5[/math], তাই [math]S=\frac{5}{1-0.5}=\frac{5}{0.5}=10[/math], এবং |r|<1 হওয়ায় ধারা সন্নিহিত।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 131964)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: একটি অসীম গুণোত্তর ধারা যেখানে প্রথম পদ ৪ এবং সাধারণ অনুপাত ০.৬। এই ধারার অসীমতক সমষ্টি থাকে কি না, তা নির্ণয় কর।
+
+Options:
+ক. (জ্ঞানমূলক): সাধারণ অনুপাতের মান কীভাবে ধারার সমষ্টিকে প্রভাবিত করে?
+খ. (অনুধাবন): কেন একটি গুণোত্তর ধারার সমষ্টি থাকতে পারে?
+গ. (বিশ্লেষণ/প্রয়োগ): নির্ধারিত অসীম গুণোত্তর ধারার প্রথম পাঁচটি পদ নির্ণয় কর।
+ঘ. (মূল্যায়ন/সৃজন): ধারার সাধারণ পদ কীভাবে লেখা হয় তা ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+প্রথমে মূল ধারণা: একটি অনন্ত গুণোত্তর ধারার অপরিবর্তিত প্রথম পদ [math]a[/math] এবং সাধারণ অনুপাত [math]r[/math] হলে nতম পর্যন্ত ধারা অর্থাৎ আংশিক সমষ্টি হচ্ছে [math]S_n = a\frac{1-r^n}{1-r}[/math] (যদি [math]r 
+e 1[/math])। অনন্ত পর্যন্ত সমষ্টি থাকে তখনই যখন [math]\lim_{n\to\infty} r^n = 0[/math], অর্থাৎ [math]|r|ক সাধারণ অনুপাতের মান কীভাবে ধারার সমষ্টিকে প্রভাবিত করে?
+- যদি [math]|r|1 হলে অগোচর বৃদ্ধি, r=-1 বা r\le -1 হলে ধারা অস্থির বা পাল্টে পাল্টে বাড়ে) এবং ধারার অসীমতক সমষ্টি থাকবে না (অসীম বা অভিসারিত)।
+- নেগেটিভ [math]r[/math] থাকলে ধারার পদগুলোর চিহ্ন পাল্টায়; তবে কেবলমাত্র যদি [math]|r|খ কেন একটি গুণোত্তর ধারার সমষ্টি থাকতে পারে?
+- আংশিক সমষ্টি সূত্র [math]S_n=a\frac{1-r^n}{1-r}[/math] থেকে দেখা যায়, যদি [math]|r|গ নির্ধারিত অসীম গুণোত্তর ধারার প্রথম পাঁচটি পদ নির্ণয় কর।
+- প্রথম পদ: [math]a_1=a=4[/math]
+- দ্বিতীয় পদ: [math]a_2=ar=4\times0.6=2.4[/math]
+- তৃতীয় পদ: [math]a_3=ar^2=4\times(0.6)^2=4\times0.36=1.44[/math]
+- চতুর্থ পদ: [math]a_4=4\times(0.6)^3=4\times0.216=0.864[/math]
+- পঞ্চম পদ: [math]a_5=4\times(0.6)^4=4\times0.1296=0.5184[/math]
+
+সমষ্টি (যেমন পূর্বে গণনা করা): [math]S=10[/math]।
+
+ঘ ধারার সাধারণ পদ কীভাবে লেখা হয় তা ব্যাখ্যা কর।
+- একটি গুণোত্তর ধারার সাধারণ nতম পদ সাধারণত লেখা হয় [math]a_n=ar^{\,n-1}[/math] যেখানে [math]a[/math] প্রথম পদ এবং [math]r[/math] সাধারণ অনুপাত। এখানে নির্দিষ্টভাবে:
+[math]a_n=4(0.6)^{\,n-1}.[/math]
+
+উপসংহার: প্রদত্ত ধারাটির জন্য [math]|r|=0.6<1[/math] হওয়ায় অসীমতক সমষ্টি উপস্থিত এবং তার মান [math]10[/math]।
+
+Explanation:
+সমাধান: ধারা মিলতে পারে কারণ সাধারণ অনুপাতের মান [math]|r|=0.6ক সাধারণ অনুপাতের মান কিরূপ ধারার আচরণ নির্ধারণ করে: যদি [math]|r|খ কারণ: nth আংশিক সমষ্টি হলো [math]S_n=a\dfrac{1-r^n}{1-r}[/math] এবং যদি [math]|r|গ প্রথম পাঁচটি পদ: সাধারণ পদ [math]a_n=4(0.6)^{\,n-1}[/math] থেকে প্রথম পাঁচটি হলো [math]4,\;2.4,\;1.44,\;0.864,\;0.5184[/math]।  
+
+ঘ সাধারণ পদ লেখার উপায়: সাধারণ রূপে [math]a_n=a r^{\,n-1}[/math] যেখানে এখানে [math]a=4,\,r=0.6[/math], তাই [math]a_n=4(0.6)^{\,n-1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 131965)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: একটি অসীম ধারা ১ + ১/২ + ১/৪ + ১/৮...। এই ধারার সমষ্টি নির্ণয় কর এবং এর বৈশিষ্ট্য আলোচনা কর।
+
+Options:
+ক. (জ্ঞানমূলক): অসীম ধারার সমষ্টি কিভাবে নির্ধারণ করা হয়?
+খ. (অনুধাবন): গুণোত্তর ধারার সাধারণ অনুপাত কীভাবে উল্লেখ করা হয়?
+গ. (বিশ্লেষণ/প্রয়োগ): ধারার প্রথম পাঁচটি পদ লিখো এবং তাদের যোগফল নির্ণয় কর।
+ঘ. (মূল্যায়ন/সৃজন): এই ধারা থেকে নতুন একটি গুণোত্তর ধারা তৈরি করার জন্য কীভাবে পদ নির্ধারণ করা হবে তা আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+ক (জ্ঞানমূলক): অসীম ধারার সমষ্টি কিভাবে নির্ধারণ করা হয়?
+- একটি গুণোত্তর ধারার সাধারণ পদ যদি[first term] [math]a[/math] এবং সাধারণ অনুপাত [math]r[/math] হয়, তাহলে [math]|r|খ (অনুধাবন): গুণোত্তর ধারার সাধারণ অনুপাত কীভাবে উল্লেখ করা হয়?
+- সাধারণ অনুপাতকে নির্ণয় করতে প্রতিটি পরের পদকে তার আগের পদে ভাগ করা হয়: [math]r=\dfrac{t_{n+1}}{t_n}.[/math]
+- এই ধারার ক্ষেত্রে [math]r=\dfrac{1/2}{1}=\dfrac{1}{2}.[/math]
+
+গ (বিশ্লেষণ/প্রয়োগ): ধারার প্রথম পাঁচটি পদ লিখো এবং তাদের যোগফল নির্ণয় কর।
+- প্রথম পাঁচটি পদ: [math]1,\ \tfrac{1}{2},\ \tfrac{1}{4},\ \tfrac{1}{8},\ \tfrac{1}{16}.[/math]
+- আংশিক যোগফল (partial sums):
+  - [math]S_1=1[/math]
+  - [math]S_2=1+\tfrac{1}{2}=\tfrac{3}{2}=1.5[/math]
+  - [math]S_3=1+\tfrac{1}{2}+\tfrac{1}{4}=\tfrac{7}{4}=1.75[/math]
+  - [math]S_4=1+\tfrac{1}{2}+\tfrac{1}{4}+\tfrac{1}{8}=\tfrac{15}{8}=1.875[/math]
+  - [math]S_5=1+\tfrac{1}{2}+\tfrac{1}{4}+\tfrac{1}{8}+\tfrac{1}{16}=\tfrac{31}{16}=1.9375[/math]
+- দেখা যাচ্ছে আংশিক যোগফল ধীরে ধীরে [math]2[/math]-এর দিকে বাড়ে; সীমা [math]2[/math]।
+
+ঘ (মূল্যায়ন/সৃজন): এই ধারা থেকে নতুন একটি গুণোত্তর ধারা তৈরি করার জন্য কীভাবে পদ নির্ধারণ করা হবে তা আলোচনা কর।
+- সাধারণ উপায়সমূহ:
+  1. ধারা’কে কোন ধ্রুবক দ্বারা গুণ করলে নতুন গুণোত্তর ধারা পাওয়া যায়: উদাহরণ, [math]k\cdot(1,\tfrac{1}{2},\tfrac{1}{4},\ldots)=(k,\tfrac{k}{2},\tfrac{k}{4},\ldots)[/math] এখানে নতুন [math]a'=k[/math], [math]r'=\tfrac{1}{2}[/math]।
+  2. প্রতিটি n-তম পদ নিলে (subsequence) অনুপাত পরিবর্তিত হয়: যেমন প্রতিটি দ্বিতীয় পদ নিলে ধারা হবে [math]1,\tfrac{1}{4},\tfrac{1}{16},\ldots[/math] এখানে [math]a=1[/math], [math]r=(\tfrac{1}{2})^2=\tfrac{1}{4}[/math] এবং অসীম সমষ্টি [math]\dfrac{1}{1-\tfrac{1}{4}}=\dfrac{4}{3}[/math]।
+  3. চিহ্ন পরিবর্তন করলে বিকল্প চিহ্নযুক্ত ধারা পাওয়া যায়: উদাহরণ, [math]1,-\tfrac{1}{2},\tfrac{1}{4},-\tfrac{1}{8},\ldots[/math] এ ক্ষেত্রে [math]a=1[/math], [math]r=-\tfrac{1}{2}[/math]।
+- উদাহরণ (উপরের পদ্ধতি 2 ব্যবহার করে): প্রতিটি দ্বিতীয় পদ নেওয়ার ফলে নতুন ধারা [math]1+\tfrac{1}{4}+\tfrac{1}{16}+\cdots[/math] এবং এর অসীম যোগফল [math]\dfrac{1}{1-\tfrac{1}{4}}=\dfrac{4}{3}.[/math]
+
+সংক্ষेपে: প্রদত্ত গুণোত্তর ধারা একটি ধনাত্মক, মনোন্নত (monotone increasing) আংশিক-যোগফলযুক্ত এবং সীমাগতভাবে [math]2[/math]-তে যোগ হয় কারণ সাধারণ অনুপাত [math]\tfrac{1}{2}[/math] এবং [math]|r|<1[/math]। নতুন ধারার সৃষ্টি করার সঙ্গে সম্পর্কিত উপায়গুলো উপরিউক্তভাবে প্রয়োগ করা যায়।
+
+Explanation:
+ব্যাখ্যা:
+
+ক অসীম গুণোত্তর ধারার ক্ষেত্রে প্রথম পদ [math]a[/math] ও সাধারণ অনুপাত [math]r[/math] হলে এবং [math]|r|খ গুণোত্তর ধারার সাধারণ অনুপাত হচ্ছে প্রতিটি পদকে তার পূর্ববর্তী পদে ভাগ করলে প্রাপ্ত মান, অর্থাৎ [math]r=\dfrac{a_{n+1}}{a_n}[/math]; এই ধারায় [math]r=\tfrac{1}{2}[/math]।  
+
+গ প্রথম পাঁচটি পদ হল [math]1,\ \tfrac{1}{2},\ \tfrac{1}{4},\ \tfrac{1}{8},\ \tfrac{1}{16}[/math] এবং তাদের যোগফল (পঞ্চম পার্শ্বিক সমষ্টি) হলো [math]S_5=\dfrac{1-(\tfrac{1}{2})^5}{1-\tfrac{1}{2}}=\dfrac{31}{16}=1.9375[/math]।  
+
+ঘ নতুন গুণোত্তর ধারা তৈরি করতে প্রথম পদ বা সাধারণ অনুপাত পরিবর্তন করলেই হয়; সাধারণভাবে নতুন ধারার পদগুলো হবে [math]b,\ br',\ br'^2,\dots[/math] যেখানে [math]b[/math] নতুন প্রথম পদ এবং [math]r'[/math] নতুন অনুপাত (যদি ধারাটি ধ্রুবক গুণন দ্বারা পাওয়া যায়, যেমন প্রতিটি মূল ধারা-র পদকে ক দ্বারা গুণ করলে [math]b=k\cdot1[/math] এবং [math]r'=\tfrac{1}{2}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 131966)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: একটি অসীম গুণোত্তর ধারা ১, ৩, ৯, ২৭,...। এর সাধারণ পদ এবং এর সমষ্টি সম্পর্কে আলোচনা কর।
+
+Options:
+ক. (জ্ঞানমূলক): গুণোত্তর ধারার সাধারণ পদ কিভাবে নির্ধারণ করা হয়?
+খ. (অনুধাবন): ধারার সমষ্টি কিভাবে নির্ণয় করা হয়?
+গ. (বিশ্লেষণ/প্রয়োগ): প্রদত্ত ধারার প্রথম পাঁচটি পদ লিখো।
+ঘ. (মূল্যায়ন/সৃজন): যদি সাধারণ অনুপাত পরিবর্তিত হয়, তবে কী ঘটবে তা আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+সংক্ষিপ্ত পদ্ধতি ও ধারণা: প্রদত্ত ধারা 1, 3, 9, 27,... গুণোত্তর ধারা (geometric progression) কারণ প্রতিটি পদ আগের পদকে একটি ধ্রুব অনুপাত দ্বারা গুণ করে পাওয়া যায়। সাধারণ পদ, n-পর্যন্ত যোগফল এবং অসীম যোগফল সম্পর্কিত সূত্র প্রয়োগ করে উত্তর দেওয়া হবে।
+
+ক গুণোত্তর ধারার সাধারণ পদ কিভাবে নির্ধারণ করা হয়?
+- প্রথম পদ [math]a=1[/math], সাধারণ অনুপাত [math]r=3[/math]।
+- গুণোত্তর ধারার n-তম সাধারণ সূত্র: [math]a_n = a\,r^{\,n-1}[/math]।
+- এখানে তাই [math]a_n = 1\times 3^{\,n-1} = 3^{\,n-1}.[/math]
+
+খ ধারার সমষ্টি কিভাবে নির্ণয় করা হয়?
+- প্রথম nটি পদের যোগফলের সূত্র (যদি [math]r
+eq 1[/math]): [math]S_n = a\frac{r^n-1}{r-1}.[/math]
+- এখানে [math]a=1, r=3[/math], তাই [math]S_n = \frac{3^n-1}{2}.[/math]
+- উদাহরণস্বরূপ, প্রথম পাঁচটি পদের যোগফল: [math]S_5 = \frac{3^5-1}{2} = \frac{243-1}{2} = 121.[/math]
+- অসীম যোগফল: একটি অসীম গুণোত্তর ধারার সমষ্টি সংহত (finite) হবে কেবল যখন [math]|r|1[/math] এবং তাই অসীম যোগফল নেই (ধারা Diverge করে)।
+
+গ প্রদত্ত ধারার প্রথম পাঁচটি পদ লিখো।
+- প্রথম পাঁচটি পদ: [math]a_1=3^{0}=1,\; a_2=3^{1}=3,\; a_3=3^{2}=9,\; a_4=3^{3}=27,\; a_5=3^{4}=81.[math]
+- সুতরাং: 1, 3, 9, 27, 81।
+
+ঘ যদি সাধারণ অনুপাত পরিবর্তিত হয়, তবে কী ঘটবে তা আলোচনা কর।
+- সাধারণ অনুপাতের মান অনুসারে আচরণভেদ:
+  - যদি [math]|r|1[/math]: পদের মানের পরিমাণ অনবরত বৃদ্ধি পায় (বা চিহ্নবিরতি সহ বৃদ্ধি/কমে), ফলে অসীম যোগফল নেই (ধারা Diverge করে)। আমাদের ক্ষেত্রে [math]r=3[/math] তাই অসীম যোগফল নেই।
+- সংক্ষেপে: অনুপাত ছোট (পরিবর্তনশীল) হলে ধারার গুণগত প্রকৃতি (সংহত/অসংহত, আন্তরিক বর্ণনা) ওই অনুপাতের মান দ্বারা নিয়ন্ত্রিত হয়।
+
+Explanation:
+ব্যাখ্যা:
+ক সাধারণ পদ নির্ধারণের জন্য প্রথম পদ [math]a=1[/math] এবং সাধারণ অনুপাত [math]r=3[/math] নেওয়া হয়, ফলে সাধারণ nth পদ হয় [math]a_n=ar^{\,n-1}=1\cdot 3^{\,n-1}=3^{\,n-1}[/math] — প্রতিটি পদ পূর্বেরটির তিনগুণ। 
+
+খ অসীম ধারার সমষ্টি কেবল তখনই আছে যখন [math]|r|1[/math] এবং অসীম সমষ্টি বিন্দুতে বিস্তৃত (diverges), তবে প্রথম [math]n[/math]টি পদে মোটের সূত্রটি [math]S_n=a\frac{1-r^n}{1-r}[/math].
+
+গ প্রথম পাঁচটি পদ হলো [math]1,\;3,\;9,\;27,\;81[/math], যা সাধারণ সূত্র [math]3^{\,n-1}[/math] প্রয়োগে পাওয়া যায়। 
+
+ঘ সাধারণ অনুপাত পরিবর্তিলে ফল নির্ভর করে [math]|r|-এর মানের ওপর: যদি [math]|r|<1[/math] তাহলে অসীম সমষ্টি [math]\dfrac{a}{1-r}[/math] এ সমরূপ হয়; যদি [math]|r|\ge1[/math] তাহলে ধারাটি বিস্তৃত হয়; আর r ধনাত্মক/নেগেটিভ হলে পদগুলোর চিহ্ন ও প্রকৃতি (বর্ধমান/ব্যাপকভাবে পরিবর্তনশীল বা পাল্টে চলা) আলাদা হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 131967)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: একটি গুণোত্তর ধারা ২, ৪, ৮, ১৬,...। এর তৃতীয় পদ এবং সমষ্টি নির্ণয় কর।
+
+Options:
+ক. (জ্ঞানমূলক): গুণোত্তর ধারার তৃতীয় পদ কিভাবে নির্ধারণ করা হয়?
+খ. (অনুধাবন): ধারার সমষ্টি কীভাবে নির্ণয় করা হয়?
+গ. (বিশ্লেষণ/প্রয়োগ): প্রদত্ত ধারা থেকে নতুন একটি ধারা তৈরি করার পদ্ধতি ব্যাখ্যা কর।
+ঘ. (মূল্যায়ন/সৃজন): অন্য একটি গুণোত্তর ধারা তৈরি কর এবং তার বৈশিষ্ট্য আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+প্রদত্ত গুণোত্তর ধারা: [math]2,\;4,\;8,\;16,\dots[/math] এ থেকে প্রথম প্রাধান্য হলো প্রথম পদ [math]a=2[/math] এবং দৈর্ঘ্য গুণ (common ratio) [math]r=\dfrac{4}{2}=2[/math]।
+
+ক গুণোত্তর ধারার তৃতীয় পদ কিভাবে নির্ধারণ করা হয়?
+- সাধারণভাবে গুণোত্তর ধারার n-তম পদ হয় [math]a_n = a r^{\,n-1}[/math]।
+- এখানে তৃতীয় পদ: [math]a_3 = a r^{2} = 2\cdot 2^{2} = 8[/math]।
+
+খ ধারার সমষ্টি কীভাবে নির্ণয় করা হয়?
+- গুণোত্তর ধারার প্রথম nটি পদকের সমষ্টির সূত্র (যদি [math]r
+eq 1[/math]) হলো [math]S_n = a\,\dfrac{r^{n}-1}{r-1}[/math]।
+- আমাদের ক্ষেত্রে [math]a=2,\; r=2[/math], তাই
+  [math]S_n = 2\cdot\dfrac{2^{n}-1}{2-1} = 2(2^{n}-1) = 2^{\,n+1}-2.[/math]
+- উদাহরণস্বরূপ প্রথম 4 সদস্যের সমষ্টি: [math]S_4 = 2^{5}-2 = 32-2 = 30[/math]।
+- অশেষসমষ্টি (infinite sum) নিয়ে: কারণ [math]|r|=2>1[/math], তাই অসীম পর্যন্ত সমষ্টি বিপথে চলে (diverges) এবং কোনো বাস্তব সীমা নেই।
+
+গ প্রদত্ত ধারা থেকে নতুন একটি ধারা তৈরি করার পদ্ধতি ব্যাখ্যা কর।
+- কিছু সাধারণ পদ্ধতি:
+  1. স্কেলার গুণ: প্রতিটি পদকে একটি ধ্রুবক দ্বারা গুণ করলে নতুন GP পাওয়া যায়। উদাহরণ: [math]2\times(2,4,8,\dots)=(4,8,16,\dots)[/math] (এখানে [math]a[/math] দ্বিগুণ)।
+  2. সাবসিকোয়েন্স (subsequence): প্রতিটি দ্বিতীয় পদ নেওয়া গেলে নতুন ধারা হবে [math]2,8,32,\dots[/math] যেটার গুণ r = [math]r^2[/math] (এখানে [math]2^2=4[/math])।
+  3. প্রতিলিপি (reciprocal): প্রতিটি পদকে উল্টানো হলে পাওয়া যায় [math]\tfrac{1}{2},\tfrac{1}{4},\tfrac{1}{8},\dots[/math] যেটির গুণ r = [math]\tfrac{1}{2}[/math]।
+  4. পদগুলোর ঘাত বা লগ ব্যবহার: প্রতিটি পদকে কোনো ঘাত বা লগ করলে ধারা বদলাবে; কিন্তু সাধারণভাবে GP নাও থাকতে পারে।
+- উপরে পদ্ধতিগুলোতে নতুন ধারার প্রথম পদ ও গুণস্কর সহজেই নির্ণয় করা যায়।
+
+ঘ অন্য একটি গুণোত্তর ধারা তৈরি কর এবং তার বৈশিষ্ট্য আলোচনা কর।
+- উদাহরণ: ধরা যাক নতুন ধারা [math]3,\;\tfrac{3}{2},\;\tfrac{3}{4},\;\tfrac{3}{8},\dots[/math] যেখানে [math]a=3[/math], [math]r=\tfrac{1}{2}[/math]।
+- n-তম পদ: [math]a_n = 3\left(\tfrac{1}{2}\right)^{\,n-1}[/math]।
+- প্রথম n পদকের সমষ্টি: [math]S_n = 3\cdot\dfrac{(1/2)^{n}-1}{(1/2)-1} = 3\cdot\dfrac{1-(1/2)^{n}}{1-(1/2)} = 6\bigl(1-(1/2)^{n}\bigr)[/math]।
+- অসীম পর্যন্ত সমষ্টি (কারণ [math]|r|<1[/math]): [math]S_{\infty}=\dfrac{a}{1-r}=\dfrac{3}{1-\tfrac{1}{2}}=6[/math] (ধারা সমসাময়িকভাবে মিলিত হয়)।
+- বৈশিষ্ট্যসংক্ষেপ: এই ধারা ধীরগতিতে হ্রাস করে এবং অসীম পর্যন্ত যোগ ধ্রুবক 6-এ konverge করে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তৃতীয় পদ: ধারার প্রথম পদ [math]a=2[/math] এবং অনুপাত [math]r=2[/math], তাই তৃতীয় পদ [math]ar^{2}=2\times2^{2}=8[/math]।
+
+খ সমষ্টি: প্রথম চারটি পদকের সমষ্টি হলে [math]2+4+8+16=30[/math]; সাধারণভাবে প্রথম [math]n[/math] পদের সমষ্টি [math]S_n=a\frac{r^n-1}{r-1}[/math] এবং অসীম সমষ্টি নেই কারণ [math]|r|>1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 131968)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: একটি অসীম গুণোত্তর ধারা ৩, ৬, ১২, ২৪,...। এই ধারার প্রথম পদের সমষ্টি নির্ণয় কর এবং এর বৈশিষ্ট্য আলোচনা কর।
+
+Options:
+ক. (জ্ঞানমূলক): গুণোত্তর ধারার বৈশিষ্ট্য কেন গুরুত্বপূর্ণ?
+খ. (অনুধাবন): সমষ্টি নির্ণয় করার প্রক্রিয়া ব্যাখ্যা কর।
+গ. (বিশ্লেষণ/প্রয়োগ): ধারার প্রথম তিনটি পদ লিখো।
+ঘ. (মূল্যায়ন/সৃজন): যদি প্রথম পদ পরিবর্তন হয়, তবে কী হবে তা আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+প্রাথমিক পর্যবেক্ষণ: ধারাটি একটি গুণোত্তরভাবে বাড়ছে এবং প্রথম পদ [math]a=3[/math], সম্মিলিত অনুপাত (common ratio) [math]r=2[/math]।
+
+গ ধারার প্রথম তিনটি পদ:
+প্রশ্নে প্রদত্ত ধারা: [math]3,\;6,\;12,\;24,\dots[/math] তাই প্রথম তিনটি পদ হল [math]3,\;6,\;12[/math]।
+
+খ সমষ্টি নির্ণয়ের প্রক্রিয়া (প্রথম [math]n[/math] পদের জন্য):
+ধরা যাক প্রথম [math]n[/math] পদের যোগফল [math]S_n[/math]। তখন
+[math]S_n = a + ar + ar^2 + \dots + ar^{n-1}.[/math]
+এখানে [math]a=3[/math], [math]r=2[/math]। সাধারণ সূত্র প্রাপ্তি (গুণোত্তর ধারার পরিচিত পদ্ধতি): [math]rS_n = ar + ar^2 + \dots + ar^n[/math]। এখন দুটো সমীকরণ বিয়োগ করলে মধ্যবর্তী টার্মগুলো কেটে যাবে:
+[math]S_n - rS_n = a - ar^n \Rightarrow S_n(1-r) = a(1-r^n).[/math]
+অতএব (যদি [math]r
+eq 1[/math]) ,
+[math]S_n = a\frac{1-r^n}{1-r} = a\frac{r^n-1}{r-1}.[/math]
+এই ধারার জন্য [math]a=3,\;r=2[/math] বসালে,
+[math]S_n = 3\frac{2^n-1}{2-1} = 3(2^n-1).[math]
+উদাহরণস্বরূপ, প্রথম তিনটি পদের যোগফল: [math]S_3=3(2^3-1)=3(8-1)=21.[math]
+
+অনন্ত যোগফল (infinite sum) সম্পর্কে: অনন্ত যোগফল [math]S_\infty[/math] কেবল তখনই ধার্যযোগ্য যখন [math]|r|1[/math], ফলে [math]S_n[/math] নিবর্ধিত হবে এবং অনন্ত যোগফল সীমাহীন (diverges) — কোনো নীলিমাণ সংখ্যা হিসেবে শান্তিপূর্ণ সমষ্টি নেই।
+
+ক গুণোত্তর ধারার বৈশিষ্ট্য কেন গুরুত্বপূর্ণ?
+- গুণোত্তর ধারার প্রথম পদ [math]a[/math] ও অনুপাত [math]r[/math] জানা থাকলে ধারার প্রতিটি পদ ও যোগফল সম্পর্কে সরাসরি ফর্মুলা পাওয়া যায়; এটি দ্রুত বিশ্লেষণ ও গণনা সহজ করে।  
+- ধারার রূপরেখা (ধীরে ঐকি বৃদ্ধি বা হ্রাস) নির্ধারণে [math]|r| মূল ভূমিকা রাখে — যদি [math]|r|1[/math] হলে ধারাটি বিস্তারে যায়।  
+- বাস্তব জীবনের বহু সমস্যায় (অর্থনীতি, পদার্থবিজ্ঞান, বিনিয়োগের সুদ-সংক্রান্ত গাণিতিক মডেল ইত্যাদি) গুণোত্তর মডেল ব্যবহৃত হয়; তাই এর বৈশিষ্ট্য জানা দরকার।
+
+ঘ যদি প্রথম পদ পরিবর্তন হয়, তাহলে কী হবে:
+- সূত্রগতভাবে [math]S_n = a\frac{r^n-1}{r-1}[/math] হওয়ায় প্রথম পদ [math]a[/math] সরাসরি [math]S_n[/math] কে গুণগতভাবে প্রভাবিত করে — [math]a[/math] বড় হলে সব আংশিক যোগফল একই অনুপাতে বড় হবে।  
+- তবে ধারার কনভার্জেন্স (অুর-ভার্জেন্স) কেবল [math]r[/math]-এর উপর নির্ভর করে; অর্থাৎ যদি [math]|r|1[/math] (এখানে যেমন [math]r=2[/math]) তবে প্রথম পদ যাই হোক, অনন্ত যোগফল থাকবে না (ধারা বিস্তৃত হবে)।  
+- উদাহরণ: যদি [math]a=1[/math] এবং [math]r=\tfrac{1}{2}[/math] হয়, তবে অনন্ত যোগফল হবে [math]S_\infty=\dfrac{1}{1-\tfrac{1}{2}}=2[/math] — এখানে প্রথম পদ পরিবর্তন করলে চূড়ান্ত অনন্ত সমষ্টিও পরিবর্তিত হবে।
+
+Explanation:
+ব্যাখ্যা:
+ক গুণোত্তর ধারার বৈশিষ্ট্য জানা গুরুত্বপূর্ণ কারণ প্রথম পদ [math]a[/math] এবং অনুপাত [math]r[/math] ধারার বৃদ্ধির হার, কনভার্জেন্স বা ডাইভার্জেন্স নির্ধারণ করে।  
+খ সমষ্টি নির্ণয়ের প্রক্রিয়া: প্রথম পদ [math]a=3[/math] এবং অনুপাত [math]r=\tfrac{6}{3}=2[/math] পাওয়া যায়; অসীম গুণোত্তর ধারার সমীকরণ [math]S=\tfrac{a}{1-r}[/math] কেবল তখনই প্রয়োগযোগ্য যখন [math]|r|1[/math] হওয়ায় অসীম সমষ্টি নেই (ধারা অসীমে বৃদ্ধি পায়)।  
+গ ধারার প্রথম তিনটি পদ হলো [math]3,\;6,\;12[/math].  
+ঘ যদি প্রথম পদ পরিবর্তিত হয় তবে ধারার গঠন বদলাবে কিন্তু যদি অনুপাত একই থাকে এবং [math]|r|\ge1[/math] থাকে তাহলে ধারাটি তখনও ডাইভার্জ করবে; কেবল তখনই অসীম সমষ্টি পাওয়া যায় যদি নতুন অনুপাতে [math]|r|<1[/math] হয় এবং তখন [math]S=\tfrac{a}{1-r}[/math] প্রযোজ্য।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 117222)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: অসীম ধারার মধ্যে বিভিন্ন সংখ্যা বা রাশির সেটগুলো যখন একটি নির্দিষ্ট নিয়মে সাজানো হয়, তখন সেগুলোকে অনুক্রম বলা হয়। উদাহরণস্বরূপ, 1, 4, 9, 16,... বর্গ সংখ্যা থেকে গঠিত একটি অনুক্রম। এই ধারাটি অসীম ধারা হিসেবে পরিচিত।
+
+Options:
+ক. (জ্ঞানমূলক): অসীম ধারার সাধারণ পদ কিভাবে নির্ধারণ করা হয়?
+খ. (অনুধাবন): একটি অসীম গুণোত্তর ধারার প্রথম পদ ও সাধারণ অনুপাত কীভাবে নির্ণয় করা যায়?
+গ. (বিশ্লেষণ/প্রয়োগ): একটি অসীম ধারার সমষ্টি নির্ণয় করতে হলে কি শর্তাবলী মেনে চলা উচিত তা আলোচনা করো।
+ঘ. (মূল্যায়ন/সৃজন): অসীম ধারার ব্যবহারিক প্রয়োগ সম্পর্কে তোমার মতামত লেখ।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+ক (জ্ঞানমূলক): অসীম ধারার সাধারণ পদ কিভাবে নির্ধারণ করা হয়?
+
+উত্তর ও পদ্ধতি:
+- একটি অনুক্রমের সাধারণ পদকে আমরা সাধারণত [math]a_n[/math] দিয়ে প্রকাশ করি, যেখানে [math]n[/math]–তম পদকে বোঝায়।
+- সাধারণ পদ নির্ধারণের মূল ধারণা: ধারার প্রদত্ত প্রথম কয়েকটি পদ বিশ্লেষণ করে একটি সূত্র খুঁজে পাওয়া — তা হয় সরল অভ্যন্তরীণ সূত্র (explicit) বা পুনরাবর্তী সূত্র (recurrence)।
+- প্রাথমিক ধাপগুলো:
+  1. প্রদত্ত নমুনা পদগুলো লিখো এবং পার্থক্য বা অনুপাত পরীক্ষা করো। যদি পদগুলোর পার্থক্য স্থির থাকে → এটি একটি সমমান অনুক্রম (AP), যদি পদগুলোর অনুপাত স্থির থাকে → গুণোত্তর অনুক্রম (GP)।
+  2. পার্থক্য/অনুপাত থেকে সূত্র নির্ণয়: AP–এর জন্য [math]a_n = a_1 + (n-1)d[/math], GP–এর জন্য [math]a_n = a_1 r^{\,n-1}[/math]।
+  3. যদি সরল প্যাটার্ন না পাওয়া যায়, ধাপে ধাপে পার্থক্য নাও (first difference, second difference) অথবা প্রদত্ত শর্ত থেকে সমসর তৈরি করো।
+- উদাহরণ (মান সহ): ধরা যাক অনুক্রম 1, 4, 9, 16, ... → পার্থক্যগুলি 3, 5, 7,... পর্যবেক্ষণ করলে বোঝা যায় এগুলো বর্গ সংখ্যা; তাই সাধারণ পদ [math]a_n = n^2[/math]।
+
+খ (অনুধাবন): একটি অসীম গুণোত্তর ধারার প্রথম পদ ও সাধারণ অনুপাত কীভাবে নির্ণয় করা যায়?
+
+উত্তর ও পদ্ধতি:
+- সাধারণভাবে একটি গুণোত্তর ধারার nth পদ: [math]a_n = a\,r^{\,n-1}[/math], যেখানে [math]a[/math] হল প্রথম পদ এবং [math]r[/math] হল সাধারণ অনুপাত।
+- যদি ধারার প্রথম দুইটি পদ জানা থাকে, উদাহরণস্বরূপ [math]t_1[/math] এবং [math]t_2[/math], তবে
+  - [math]a = t_1[/math],
+  - [math]r = \dfrac{t_2}{t_1}[/math] (ধরা হচ্ছে [math]t_1 
+e 0[/math])।
+- যদি দুইটি ভিন্ন পজিশনের পদ দেওয়া থাকে, যেমন [math]t_m[/math] এবং [math]t_{m+k}[/math], তাহলে
+  - [math]r = \sqrt[k]{\dfrac{t_{m+k}}{t_m}}[/math],
+  - তারপর [math]a = t_m / r^{\,m-1}[/math]।
+- উদাহরণ (সংক্ষিপ্ত কাজ): ধরা যাক তৃতীয় পদ [math]t_3=8[/math] এবং ষষ্ঠ পদ [math]t_6=64[/math]। তাহলে
+  - [math]r = \sqrt[3]{\dfrac{64}{8}} = \sqrt[3]{8} = 2[/math],
+  - [math]a = t_3 / r^{2} = 8 / 2^{2} = 8/4 = 2[/math]।
+
+গ (বিশ্লেষণ/প্রয়োগ): একটি অসীম ধারার সমষ্টি নির্ণয় করতে হলে কি শর্তাবলী মেনে চলা উচিত তা আলোচনা করো।
+
+উত্তর ও বিশ্লেষণ:
+- প্রথম ও সবচেয়ে মৌলিক শর্ত: ধারার পদগুলোর সীমা শূন্য হওয়া জরুরি, অর্থাৎ [math]\lim_{n\to\infty} a_n = 0[/math] — না হলে ধারার অসীম রাশি কখনই ধ্রুবক সমষ্টিতে συγκলিত হবে না। তবে এটি যথেষ্ট শর্ত নয়।
+- বিশেষ ক্ষেত্রে গুণোত্তর ধারার (GP) জন্য সংকোচন ও সমষ্টি:
+  - যদি [math]|r|, যদি [math]L1[/math] → ডাইভার্জ, [math]L=1[/math] অপ্রতিযোজ্য।
+  3. মূল পরীক্ষা (Root test): [math]\lim_{n\to\infty} \sqrt[n]{|a_n|}=L — অনুরূপ সিদ্ধান্ত।
+  4. বিকল্প পরবর্তী ধারা (Alternating series test): শর্ত পূরণ করলে কনভার্জ হতে পারে।
+- সতর্কতা: শুধু মাত্র [math]\lim a_n=0[/math] হওয়াই যথেষ্ট নয় — উদাহরণ: হারমনিক সিরিজ [math]\sum 1/n[/math]–এর পদগুলি → 0 কিন্তু সিরিজটি ডাইভার্জ করে।
+
+ঘ (মূল্যায়ন/সৃজন): অসীম ধারার ব্যবহারিক প্রয়োগ সম্পর্কে তোমার মতামত লেখ।
+
+উত্তর ও মূল্যায়ন (সংক্ষিপ্ত মতামত):
+- অসীম ধারার ধারণা বাস্তব জীবনে বহুপাক্ষিকভাবে গুরুত্বপূর্ণ ও ব্যবহারযোগ্য:
+  1. আর্থিক গণিত: অনবরত সুদ–কম্পাউন্ডিং, বৈশিষ্ট্যগতভাবে অগ্রিম মূল্যায়ন (present value) হিসাব করতে অসীম জ্যামিতিক ধারার সূত্র ব্যবহৃত হয়।
+  2. পদার্থবিজ্ঞান ও প্রকৌশল: খুঁটিনাটি কম্পন বা ডাম্পিং মডেল, রেডিয়েশন বা বিতরণ প্রক্রিয়ায় অসীম সিরিজ প্রয়োগ হয়; ফোরিয়ের সিরিজ সিগন্যাল বিশ্লেষণে অপরিহার্য।
+  3. কম্পিউটিং ও অ্যালগরিদম: রিকার্সিভ বা অসীম পুনরাবৃত্তির অবমূল্যায়ন করা, জটিলতার ধারাবাহিক যোগফল ইত্যাদিতে ধারার ধারণা আসে।
+  4. গণিতীয় মডেলিং: ফ্র্যাক্টাল জ্যামিতি ও অসীমাকৃত পুনরাবৃত্তি মডেলিংয়ে কাজে লাগে।
+- ব্যক্তিগত মূল্যায়ন: অসীম ধারাগুলি বাস্তব সমস্যার নির্ভুল প্রাকরণ ও বিশ্লেষণের জন্য শক্তিশালী টুল; তবে প্রয়োগের সময় কনভার্জেন্স সম্পর্কিত শর্তগুলো সতর্কতার সাথে নিশ্চিত করতে হয় যাতে ফলাফল শারীরিকভাবে অর্থবহ ও সুসংগত হয়।
+
+সম্পূর্ণ উত্তরসংকলন সংক্ষেপে: সাধারণ পদ নির্ণয়ে প্যাটার্ন চিহ্নিত করে সূত্র ধরা হয় (জোরে AP/GP সূত্র), GP–এর প্রথম পদ ও অনুপাত সহজে নির্ণিত হয় অনুপাত ব্যবহার করে, অসীম সমষ্টি কেবল নির্দিষ্ট শর্তে (যেমন GP–এ [math]|r|<1[/math]) কনভার্জ করে, এবং অসীম ধারার প্রয়োগ আর্থিক, বৈজ্ঞানিক ও প্রযুক্তিগত ক্ষেত্রে ব্যাপক ও অর্থবহ।
+
+Explanation:
+ব্যাখ্যা:
+ক অসীম ধারার সাধারণ পদ নির্ধারণ করা হয় ধারার নিয়ম বা ধরণের ওপর ভিত্তি করে; উদাহরণস্বরূপ অ্যারিথমেটিক হলে [math]a_n=a_1+(n-1)d[/math] এবং জ্যামিতিক হলে [math]a_n=a_1r^{\,n-1}[/math], কারণ এই সূত্রগুলো প্রথম পদ ও ধারা নিয়ম থেকে প্রত্যেক সাধারণ পদ দেয়। 
+
+খ কোনো গুণোত্তর ধারায় সাধারণ অনুপাত ও প্রথম পদ নির্ণয় করা হয় ধারার ধারাবাহিক সদস্য থেকে: সাধারণ অনুপাত [math]r=\dfrac{a_{n+1}}{a_n}[/math] (সব জোড়ায় একত্র হলে) এবং প্রথম পদ হলো প্রথম উপাদান [math]a_1[/math]। 
+
+গ অসীম ধারার (সিরিজ) সমষ্টি নির্ণয় করার জন্য ধারাটি সংমিশ্রিত (convergent) হতে হবে; জ্যামিতিক সিরিজের ক্ষেত্রে প্রয়োজনীয় শর্ত [math]|r|ঘ বাস্তব জীবনে অসীম ধারার প্রয়োগ আছে—যেমন আর্থিক গণনায় বর্তমান মূল্য, ফিজিক্সে তরঙ্গ বিশ্লেষণ, কম্পিউটারে অ্যালগরিদমিক বিশ্লেষণ ও আনুমানিক সমাধানে—কারণ অসীম ধারার সূত্রগুলো জটিল প্রক্রিয়ার সংমিশ্রণকে সহজভাবে বর্ণনা করে।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 110824)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:
+একটি অঙ্কে বিশ্লেষিত অসীম গুণোত্তর ধারা নিয়ে আলোচনা করা হয়েছে যা মানবজীবনে বিভিন্ন ক্ষেত্রে প্রয়োগ করা হয়। এই ধারা সম্পর্কে প্রশ্ন করা হচ্ছে।
+
+Options:
+ক. (জ্ঞানমূলক): অসীম গুণোত্তর ধারা কি এবং এর সাধারণ পদের ভূমিকা কি?
+খ. (অনুধাবন): অসীম গুণোত্তর ধারা কোন পরিস্থিতিতে ব্যবহার করা হয়?
+গ. (বিশ্লেষণ/প্রয়োগ): অসীম গুণোত্তর ধারার সমষ্টি নির্ণয় করার জন্য কি প্রয়োজন?
+ঘ. (মূল্যায়ন/সৃজন): অসীম গুণোত্তর ধারার ব্যবহার বাড়ানোর উপায় প্রস্তাবনা দাও।
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+ক অসীম গুণোত্তর ধারা কি এবং এর সাধারণ পদের ভূমিকা কি?
+অসীম গুণোত্তর ধারা (অসীম জ্যামিতিক ধারাঃ infinite geometric progression) হল এমন একটি অনুক্রম যেখানে প্রতিটি পদ পূর্ববর্তী পদের একটি স্থির সহগ (common ratio) দ্বারা গুণ করে পাওয়া যায় এবং পদগুলোর সংখ্যা অসীম। সাধারণ nth পদকে বলা হয় সাধারণ পদ বা সাধারণ সদস্য। যদি প্রথম পদ হয় [math]a[/math] এবং যৌগিক অনুপাতে (common ratio) হয় [math]r[/math], তাহলে সাধারণ পদ লেখা হয়
+[math]a_n = a\,r^{\,n-1}[/math].
+এখানে সাধারণ পদের ভূমিকা হলো ধারাটির প্রতিটি পদের মান নির্ণয় করা এবং ধারার আচরণ (বর্ধন/হ্রাস/স্থিরতা) বোঝানো — উদাহরণস্বরূপ যদি [math]|r|>1[/math] তবে পদগুলো অসীমে বৃদ্ধি পায়, আর যদি [math]|r|খ অসীম গুণোত্তর ধারা কোন পরিস্থিতিতে ব্যবহার করা হয়?
+ব্যবহার ক্ষেত্র (সংক্ষেপে):
+- আর্থিক গণনায় যৌগিক সুদ (compound interest) — প্রতিবার সুদ যোগ হলে মূলধন বৃদ্ধি জ্যামিতিকভাবে হয়।
+- জনসংখ্যা বৃদ্ধির মডেল, ব্যাকটেরিয়ার বৃদ্ধি, অবক্ষয়ের মডেল ইত্যাদি যেখানে বৃদ্ধि/হ্রাস গুণগত অনুপাতে হয়।
+- ফিজিক্সে তরঙ্গ বা আলো শক্তি বিক্ষয়ন যেখানে প্রতি ধাপে অনুপাত থাকে।
+- অঙ্কে সমান্তরাল স্কেলিং, ফ্র্যাকটাল ও অনুকরণে (iterative scaling)।
+- কম্পিউটার সায়েন্সে অ্যালগরিদমের জটিলতা বিশ্লেষণ যেখানে বিপরীত বিভাজন বা দ্বিগুণকরণ ঘটে।
+সুতরাং যেখানে কোনো পরিমাণ প্রতিটি ধাপে একটি স্থির গুণকে অনুসরণ করে সেখানে অসীম জ্যামিতিক ধারার ধারণা প্রযোজ্য।
+
+গ অসীম গুণোত্তর ধারার সমষ্টি নির্ণয় করার জন্য কি প্রয়োজন?
+শর্ত ও সূত্র:
+- অসীম জ্যামিতিক ধারার (infinite GP) সমষ্টি সীমাবদ্ধভাবে বিদ্যমান থাকতে হবে; এর জন্য প্রয়োজনীয় শর্ত হলো [math]|r|ঘ অসীম গুণোত্তর ধারার ব্যবহার বাড়ানোর উপায় প্রস্তাবনা দাও।
+প্রস্তাবনা (কার্যকর ও বাস্তবমুখী):
+1. পাঠ্যক্রমে বাস্তব সমস্যা সংযোজন: আর্থিক উদাহরণ (যৌগিক সুদ, বার্ষিক সঞ্চয়), জনসংখ্যা ও অস্পষ্টতা মডেল শিখিয়ে প্রাসঙ্গিকতা বাড়ানো।
+2. প্রকল্পভিত্তিক শিক্ষাঃ শিক্ষার্থীদের দিয়ে বাস্তব ডেটা (বৈজ্ঞানিক পরিমাপ বা আর্থিক ডেটা) নিয়ে জ্যামিতিক মডেল তৈরি ও বিশ্লেষণ করানো।
+3. ভিজ্যুয়ালাইজেশন ও সফটওয়্যার ব্যবহার: গ্রাফ, সিমুলেশন ও ক্যালকुलेটর ব্যবহার করে ধারা ও তার সমষ্টি দ্রুত দেখানো যাতে ধারণা দৃশ্যমান হয়।
+4. আন্তঃবিষয়ক প্রয়োগ: ফিজিক্স, জীববিজ্ঞান, অর্থনীতি ও তথ্য প্রক্রিয়ার সাথে যুক্ত করে শিক্ষার্থীরা কিভাবে বিরচন করে তা বুঝবে।
+5. গণিত-সচেতনতা ও আর্থিক সাক্ষরতা: সাধারণ মানুষের জন্য সংক্ষিপ্ত প্রশিক্ষণ—যেখানে যৌগিক বৃদ্ধির ধারণা ব্যবহার করে সঞ্চয় ও ঋণ সম্পর্কিত সিদ্ধান্ত নেওয়া শেখানো।
+6. গবেষণা ও উদ্ভাবন: ছোট উদ্ভাবনী প্রকল্পে (যেমন সংকেত প্রক্রিয়াকরণে attenuation মডেল) জ্যামিতিক ধারার ব্যবহার উৎসাহিত করা।
+প্রতিটি প্রস্তাবনার ফলাফল মূল্যায়ন করে (বিষয়ভিত্তিক কার্যকারিতা, শিক্ষার্থীর জ্ঞান বৃদ্ধি, বাস্তব প্রয়োগ) প্রয়োগ বাড়ালে ধারার ব্যবহার বৃদ্ধি পাবে।
+
+ব্যাখ্যা: উপরোক্ত প্রতিটি অংশে মূল সূত্র, শর্ত ও ব্যবহারগত নীতিগুলো প্রদর্শন করা হয়েছে এবং প্রয়োজনীয় ক্ষেত্রে একটি সংক্ষিপ্ত উদাহরণ/প্রমাণ দেখানো হয়েছে যাতে ধারণা স্পষ্ট হয়।
+
+Explanation:
+ব্যাখ্যা:
+ক অসীম গুণোত্তর ধারা হল এমন একটি ধারাবলি যার প্রতিটি পদ পূর্ববর্তী পদের সাথে একই ধ্রুব অনুপাতে গুণ করলে পাওয়া যায়; সাধারণ পদটি হলো [math]a_n=ar^{\,n-1}[/math] যেখানে [math]a[/math] প্রথম পদ এবং [math]r[/math] সাধারণ অনুপাত—এটি যেকোনো নির্দিষ্ট n-তম পদের মান জানায় ও ধারাটির গঠন বোঝায়। 
+
+খ অসীম গুণোত্তর ধারা ব্যবহার করা হয় এমন পরিস্থিতিতে যেখানে কোনো পরিমাণ প্রতিবারে ধ্রুব অনুপাত অনুযায়ী বৃদ্ধি বা হ্রাস পায়, যেমন চক্রবৃদ্ধি সুদ, জনসংখ্যার বৃদ্ধি/হ্রাস, অনুলিপি বা সংকেতের পুনরাবৃত্তি এবং অনন্তকালীন কিস্তির বর্তমান মূল্য নির্ণয়ে। 
+
+গ অসীম গুণোত্তর ধারার সমষ্টি নির্ণয়ের জন্য প্রয়োজন প্রথম পদ [math]a[/math], সাধারণ অনুপাত [math]r[/math] এবং ধারাটি সসংকোচিত হওয়ার শর্ত [math]|r|ঘ ব্যবহার বাড়ানোর জন্য করা যেতে পারে: শিক্ষায় বাস্তব উদাহরণ ও প্রজেক্ট দেওয়া (যেমন বিনিয়োগ বা জনসংখ্যা মডেল), কণ্ঠ বা গ্রাফিক্সযুক্ত অনলাইন টিউটোরিয়াল এবং গণনা সফটওয়্যার/ক্যালকুলেটর দিয়ে সমস্যা বিশ্লেষণ শেখানো।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 110825)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:
+অসীম গুণোত্তর ধারার শর্ত এবং সমষ্টি নির্ণয়ের পদ্ধতি গণিতে গুরুত্বপূর্ণ একটি বিষয়। এটি বিভিন্ন গাণিতিক সমস্যার সমাধানে প্রয়োগ করা হয়।
+
+Options:
+ক. (জ্ঞানমূলক): অসীম গুণোত্তর ধারার সংজ্ঞা কি?
+খ. (অনুধাবন): অসীম গুণোত্তর ধারার সমষ্টি নির্ণয় করার শর্তগুলি কি?
+গ. (বিশ্লেষণ/প্রয়োগ): অসীম গুণোত্তর ধারার প্রয়োগের উদাহরণ বিশ্লেষণ করো।
+ঘ. (মূল্যায়ন/সৃজন): অসীম গুণোত্তর ধারার শিখন কৌশল কিভাবে উন্নত করা যেতে পারে?
+
+
+Correct Answer: 
+
+Solution:
+সমাধান:
+
+সংক্ষিপ্ত পদ্ধতি ও ধারণা: প্রথমে অসীম গুণোত্তর ধারার সংজ্ঞা ও প্রতীয়মান অনুক্রমিক রূপটি লিখে নিলেই মূল শর্ত এবং সমষ্টি নির্ণয়ের ধারা স্পষ্ট হয়। পরবর্তীতে সীমা ব্যবহার করে সমষ্টির সূত্র প্রমাণ করা যায় এবং উদাহরণ-প্রয়োগ দিয়ে ধারণা মজবুত করা যায়।
+
+ক অসীম গুণোত্তর ধারার সংজ্ঞা:
+অসীম গুণোত্তর ধারা হল এমন এক ধারা যার সাধারণ রূপ
+[math]a,\; ar,\; ar^2,\; ar^3,\; \dots[/math]
+এবং corresponding অসীম ধারা বা সিরিজ লেখা হয়
+[math]S = a + ar + ar^2 + ar^3 + \dots[/math]
+এখানে [math]a[/math] প্রথম পদ এবং [math]r[/math] গুণোত্তর (common ratio)।
+
+খ অসীম গুণোত্তর ধারার সমষ্টি নির্ণয় করার শর্তগুলি:
+1. সমষ্টি (কনভার্জেন্স) পাওয়া যায় শুধুমাত্র যখন গুণোত্তরটির মানের পরিমাপ ছোট থাকে 1-এর চেয়ে, অর্থাৎ
+[math]|r|গ অসীম গুণোত্তর ধারার প্রয়োগের উদাহরণ বিশ্লেষণ:
+1. পুনরাবৃত্ত দশমিক (repeating decimal):
+   - উদাহরণ: [math]0.777\ldots[/math] লেখে নেওয়া যায় ধারা হিসেবে
+     [math]0.7 + 0.07 + 0.007 + \dots[/math] যা প্রথম পদ [math]a=0.7[/math], গুণোত্তর [math]r=0.1[/math]।
+     সমষ্টি:
+     [math]S=\frac{0.7}{1-0.1}=\frac{0.7}{0.9}=\frac{7}{9}.[/math]
+   - এটা দেখায় কিভাবে অসীম ধারার সূত্র দিয়ে পুনরাবৃত্ত দশমিককে ভগ্নাংশে রূপান্তর করা যায়।
+2. আর্থিক গণিতে অনুত্তরীণ কিস্তি বা অনন্তকালীন পেমেন্ট (perpetuity):
+   - ধরুন প্রতি বছরে ধ্রুবক পরিমাণ [math]P[/math] আসে এবং বার্ষিক ডিসকাউন্ট ফ্যাক্টর [math]d[/math]=1/(1+i) (যেখানে [math]i[/math] সুদের হার)। তখন বর্তমান মূল্য
+     [math]PV = P + Pd + Pd^2 + \dots = \frac{P}{1-d}[/math] এবং যদি [math]|d|ঘ অসীম গুণোত্তর ধারার শিখন কৌশল কিভাবে উন্নত করা যেতে পারে?
+1. ধারণাগত ভিত্তি: প্রথমে ধারা ও সিরিজের মৌলিক ধারণা—পদ, প্রথম পদ, গুণোত্তর বোঝানো। কনভার্জেন্স ও ডাইভার্জেন্সের অর্থ ব্যাখ্যা করা।  
+2. সূত্রের প্রমাণ শেখানো: সূত্র শুধু মনে না রেখে partial sum ব্যবহার করে ধাপে ধাপে প্রমাণ দেখানো—এতে শিক্ষক ও শিক্ষার্থী উভয়েরই বোঝা মজবুত হয়।  
+3. ভিজ্যুয়ালাইজেশন ও সীমা ব্যবহার: [math]r^n[/math] কিভাবে ছোট হয়ে যায় সেটা গ্রাফ বা টেবিলে দেখালে সুবিধা হয়।  
+4. বাস্তব উদাহরণ ও সমস্যা সমাধান: পুনরাবৃত্ত দশমিক, আর্থিক ক্যালকুলেশন, শারীরিক মডেল ইত্যাদি দিয়ে অ্যাপ্লিকেশন দেখানো।  
+5. প্রচুর অনুশীলন: বিভিন্ন [math]a[/math] ও [math]r[/math] দিয়ে সমস্যা, ধনাত্মক ও ঋণাত্মক [math]r[/math], মান ছোট-বড় ইত্যাদি নিয়ে অনুশীলন।  
+6. ত্রুটির সচেতনতা: কন্ডিশন [math]|r|<1[/math] কবে প্রযোজ্য এবং কবে নয় তা পরীক্ষা করা শেখান—ভুলভাবে সূত্র প্রয়োগ না করা শিখন কৌশলে বিশেষ মনোযোগের বিষয়।
+
+সংক্ষিপ্ত উপসংহার: অসীম গুণোত্তর ধারার মূল শর্ত হলো [math]|r|<1[/math] এবং তখন সমষ্টি হবে [math]S=\dfrac{a}{1-r}[/math]। সূত্রের প্রমাণ partial sum ও সীমা-চিন্তা থেকে সরলভাবে বোঝানো যায়। বাস্তব উদাহরণ ও নিয়মিত অনুশীলন দিয়ে শেখার দক্ষতা বাড়ানো যায়।
+
+Explanation:
+ব্যাখ্যা:
+ক অসীম গুণোত্তর ধারা হলো এমন একটি ধারাবাহিক যেখানে প্রতিটি পরবর্তী পদ পূর্বেরটির সাথে একই গুণক (অনুপাত) দ্বারা গুণ করলে পাওয়া যায়, অর্থাৎ ধারার সাধারণ রূপ [math]a, ar, ar^2, \dots[/math]।  
+খ একটি অসীম গুণোত্তর ধারার সমষ্টি নির্ধারণযোগ্য তখনই যখন সাধারণ অনুপাতের পরিমাপ [math]|r|গ প্রয়োগের উদাহরণ: অভিন্ন দশমিক পুনরাবৃত্তি যেমন [math]0.777\ldots[/math] = [math]\dfrac{7}{10}+\dfrac{7}{100}+\dfrac{7}{1000}+\dots[/math] যেখানে [math]a=\dfrac{7}{10},\ r=\dfrac{1}{10}[/math] তাই সমষ্টি [math]\dfrac{7/10}{1-1/10}=\dfrac{7}{9}[/math]; এভাবে আর্থিক অনুদান বা বর্তমান মূল্য হিসাবেও ব্যবহার হয়।  
+ঘ শেখার কৌশল উন্নত করতে নিয়মিত উদাহরণ-অনুশীলন, অংশীয় যোগফল নিয়ে সীমা-চিন্তা করা এবং অনুপাতের মান [math]|r|<1[/math] কীভাবে কনভার্জেন্স নিশ্চিত করে তা চিত্র ও বাস্তব সমস্যায় ব্যাখ্যা করা কার্যকর।
+
+Sub-Questions:
+

@@ -1,0 +1,3119 @@
+================================================================================
+Question #1 (ID: 535130)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]P = \sin A[/math], [math]Q = \cos A[/math], [math]R = \tan A[/math] হলে, দেখাও যে [math]\dfrac{1}{P^2} - \dfrac{1}{R^2} = 1[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{1}{P^2} - \dfrac{1}{R^2} = \dfrac{1}{\sin^2 A} - \dfrac{1}{\tan^2 A}[/math]
+ [math]= \csc^2 A - \cot^2 A = 1[/math]
+ (পরিচিত সূত্র)প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: [math]P=\sin A,\,R=\tan A[/math] হলে
+
+[math]\frac{1}{P^2}-\frac{1}{R^2}=\frac{1}{\sin^2 A}-\frac{1}{\tan^2 A}=\frac{1}{\sin^2 A}-\frac{\cos^2 A}{\sin^2 A}=\frac{1-\cos^2 A}{\sin^2 A}=\frac{\sin^2 A}{\sin^2 A}=1.[math]
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 535146)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]m = \sin \theta[/math] এবং [math]n = \cos \theta[/math] হলে, প্রমাণ কর যে [math]\sqrt{\dfrac{1 - m}{1 + m}} = \sec \theta - \tan \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m = \sin \theta[/math]
+⇒ [math]\sqrt{\dfrac{1 - \sin \theta}{1 + \sin \theta}}[/math]
+বামপক্ষকে রেশনালাইজ করি:[math]= \sqrt{\dfrac{(1 - \sin \theta)^2}{1 - \sin^2 \theta}} = \dfrac{1 - \sin \theta}{\sqrt{\cos^2 \theta}} = \dfrac{1 - \sin \theta}{\cos \theta}[/math]
+ [math]= \dfrac{1}{\cos \theta} - \dfrac{\sin \theta}{\cos \theta} = \sec \theta - \tan \theta[/math]
+প্রমাণিত
+
+Explanation:
+প্রমাণ: 
+[math]\sqrt{\dfrac{1-\sin\theta}{1+\sin\theta}}=\sqrt{\dfrac{(1-\sin\theta)^2}{1-\sin^2\theta}}=\sqrt{\dfrac{(1-\sin\theta)^2}{\cos^2\theta}}=\dfrac{1-\sin\theta}{|\cos\theta|}.[/math]  
+এবং [math]\sec\theta-\tan\theta=\dfrac{1}{\cos\theta}-\dfrac{\sin\theta}{\cos\theta}=\dfrac{1-\sin\theta}{\cos\theta}[/math], তাই যখন [math]\cos\theta>0[/math] থাকে তখন [math]\sqrt{\dfrac{1-m}{1+m}}=\sec\theta-\tan\theta[/math] (সাধারণ ক্ষেত্রে মানে ঐ অভিব্যক্তিটি [math]|\sec\theta-\tan\theta|[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 535159)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]5 \sin A = 3[/math] হলে, [math]\tan A[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin A = \dfrac{3}{5}[/math]
+⇒ বিপরীত বাহু [math]= 3[/math]
+, অতিভুজ [math]= 5[/math]
+⇒ সন্নিহিত বাহু [math]= \sqrt{25 - 9} = 4[/math]
+⇒ [math]\tan A = \dfrac{বিপরীত}{সন্নিহিত} = \dfrac{3}{4}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{4}[/math]
+
+
+Explanation:
+বর্ণনা: [math]5\sin A=3[/math] থেকে [math]\sin A=\tfrac{3}{5}[/math]. পিথাগোরিয়ান পরিচয় ব্যবহার করে [math]\cos A=\pm\sqrt{1-\sin^2A}=\pm\sqrt{1-(3/5)^2}=\pm\tfrac{4}{5}[/math], তাই [math]\tan A=\dfrac{\sin A}{\cos A}=\pm\dfrac{3/5}{4/5}=\pm\dfrac{3}{4}[/math]; যদি [math]A[/math] কোণটি ত্রিভুজের মতো ধনাত্মক (acute) ধরা হয় বোধশক্তিতে, তাহলে [math]\tan A=\tfrac{3}{4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 535178)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle PMN[/math] থেকে [math]\cos P[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]PM^2 = MN^2 + NP^2 = 1^2 + (\sqrt{3})^2 = 1 + 3 = 4[/math]
+⇒ [math]PM = \sqrt{4} = 2[/math]
+ [math]NP = \sqrt{3}[/math]
+⇒ [math]\cos P = \dfrac{NP}{PM} = \dfrac{\sqrt{3}}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{\sqrt{3}}{2}[/math]
+
+
+Explanation:
+ত্রিভুজে কোসাইন সূত্র অনুযায়ী, [math]\cos P=\dfrac{PM^2+PN^2-MN^2}{2\cdot PM\cdot PN}[/math]. এখানে [math]PM[/math] এবং [math]PN[/math] হল P কোণের সংলগ্ন বাহু এবং [math]MN[/math] হলো বিপরীত বাহু, তাই এই সূত্রটি ব্যবহার করে [math]\cos P[/math] নির্ণয় করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 535196)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] তে [math]\angle B = 90^\circ[/math], [math]AB = 3[/math], [math]BC = 4[/math] হলে, [math]\sin C[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]AB = 3[/math]
+, [math]BC = 4[/math]
+⇒ [math]AC = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5[/math]
+⇒ [math]\sin C = \dfrac{AB}{AC} = \dfrac{3}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{5}[/math]
+
+
+Explanation:
+এখানে [math]\angle B=90^\circ[/math] হলে হাইপোথেনিউজ হচ্ছে [math]AC[/math], আর কোণ [math]C[/math]-এর বিপরীত বাহু হলো [math]AB=3[/math]। হাইপোথেনিউজ [math]AC=\sqrt{AB^2+BC^2}=\sqrt{3^2+4^2}=5[/math], তাই [math]\sin C=\frac{AB}{AC}=\frac{3}{5}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 535213)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] এ, [math]\angle B = 90^\circ[/math] এবং [math]\tan \theta = \dfrac{1}{\sqrt{3}}[/math] হলে, [math]AC[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan \theta = \dfrac{\text{BC}}{\text{AB}} = \dfrac{1}{\sqrt{3}}[/math]
+, AB = [math]\sqrt{3}[/math]
+BC = [math]1[/math]
+⇒ [math]AC^2 = AB^2 + BC^2 = (\sqrt{3})^2 + 1^2 = 3 + 1 = 4[/math]
+⇒ [math]AC = \sqrt{4} = 2[/math]
+নির্ধারিত মান: [math]2[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan\theta=\dfrac{1}{\sqrt{3}}[/math] হলে [math]\theta=30^\circ[/math]. যেহেতু [math]\angle B=90^\circ[/math], ত্রিভুজটি 30°–60°–90° এবং hypotenuse ([math]AC[/math]) হচ্ছে 30°–এর বিপরীত বাহুয়ের দ্বিগুণ; তাই যদি [math]\theta=\angle A[/math] হয় তবে [math]AC=2\cdot BC[/math], আর যদি [math]\theta=\angle C[/math] হয় তবে [math]AC=2\cdot AB[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 534815)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভূজের অতিভুজ, বিপরীত বাহু ও সন্নিহিত বাহুর সংজ্ঞা দাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমকোণী ত্রিভূজের বৃহত্তম বাহু যা সমকোণের বিপরীত পাশে অবস্থিত তাকে অতিভুজ বলে।সমকোণী ত্রিভূজের প্রদত্ত সূক্ষ্মকোণের বিপরীত যে বাহু থাকে তাকে বিপরীত বাহু বলে।প্রদত্ত সূক্ষ্মকোণ সৃষ্টিকারী রেখাংশকে সন্নিহিত বাহু বলে।
+
+Explanation:
+ক সমকোণী ত্রিভুজে যে বাহুটি সমকোণের ঠিক বিপরীতে থাকে এবং সবচেয়ে দীর্ঘ হয় তাকে অতিভুজ বলে।  
+খ কোনো নির্দিষ্ট কোণের ঠিক বিপরীতে যে বাহুটি থাকে তাকে বিপরীত বাহু বলে।  
+গ একই কোণের পাশে থাকা এবং অতিভুজ নয় এমন বাহুকে সন্নিহিত বাহু বলে।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 534822)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = x[/math] হলে, [math]\sec^2 A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math]\tan A = x[/math]
+⇒ [math]\tan^2 A = x^2[/math]
+⇒ [math]\sec^2 A = 1 + \tan^2 A = x^2 + 1[/math]
+নির্ধারিত মান: [math]x^2 + 1[/math]
+
+
+Explanation:
+ব্যাখ্যা: পরিচিত ত্রিকোণমিতি সূত্র হলো [math]1+\tan^2 A=\sec^2 A[/math], এবং যদি [math]\tan A=x[/math] হয় তাহলে [math]\tan^2 A=x^2[/math]; সুতরাং [math]\sec^2 A=1+x^2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 534839)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{a}{b}[/math] হলে, [math]\cot A + \tan A[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\cot A = \dfrac{1}{\tan A} = \dfrac{b}{a}[/math]
+⇒ [math]\cot A + \tan A = \dfrac{b}{a} + \dfrac{a}{b}[/math]
+⇒ [math]\dfrac{b^2 + a^2}{ab} = \dfrac{a^2 + b^2}{ab}[/math]
+নির্ধারিত মান: [math]\dfrac{a^2 + b^2}{ab}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan A=\dfrac{a}{b}[/math] হলে [math]\cot A=\dfrac{1}{\tan A}=\dfrac{b}{a}[/math], তাই [math]\cot A+\tan A=\dfrac{b}{a}+\dfrac{a}{b}=\dfrac{a^2+b^2}{ab}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 534846)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভূজের অতিভুজ, বিপরীত বাবু ও সন্নিহিত বাবুর সংজ্ঞা দাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমকোণী ত্রিভূজের বৃহত্তম বাহু যা সমকোণের বিপরীত পাশে অবস্থিত তাকে অতিভুজ বলে।
+
+সমকোণী ত্রিভূজের প্রদত্ত সূক্ষ্মকোণের বিপরীত যে বাহু থাকে তাকে বিপরীত বাহু বলে।
+
+প্রদত্ত সূক্ষ্মকোণ সৃষ্টিকারী রেখাংশকে সন্নিহিত বাহু বলে।
+
+Explanation:
+ক অতিভুজ: সমকোণী ত্রিভুজে সমকোণ (৯০°)–এর বিপরীতে থাকা সর্বোচ্চ দৈর্ঘ্যের বাহুকে অতিভুজ বলা হয়।  
+খ বিপরীত বাহু: কোনো প্রদত্ত কোণের বিপরীতে থাকা বাহুকে সেই কোণের বিপরীত বাহু বলা হয়; সমকোণী ত্রিভুজে সমকোণের বিপরীতে থাকা বাহুটি অতিভুজ হয়।  
+গ সন্নিহিত বাহু: কোনো প্রদত্ত কোণের সাথে সংযুক্ত থাকা এবং অতিভুজ নয় এমন বাহুকে সেই কোণের সন্নিহিত বাহু বলা হয় (অর্থাৎ রাইট কোণ ব্যতীত প্রতিটি কোণের জন্য অতিভুজ ছাড়া যে বাহুটি কোণের সাথে যুক্ত, সেটিই সন্নিহিত)।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 534859)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{4}{3}[/math] হলে, [math]A[/math] কোণের অন্যান্য ত্রিকোণমিতিক অনুপাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{4}{3}[/math]
+⇒ বিপরীত বাহু [math]= 4[/math]
+, সন্নিহিত বাহু [math]= 3[/math]
+⇒ অতিভুজ [math]= \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5[/math]
+⇒ [math]\sin A = \dfrac{4}{5}[/math]
+, [math]\cos A = \dfrac{3}{5}[/math]
+⇒ [math]\cot A = \dfrac{1}{\tan A} = \dfrac{3}{4}[/math]
+⇒ [math]\sec A = \dfrac{1}{\cos A} = \dfrac{5}{3}[/math]
+⇒ [math]\csc A = \dfrac{1}{\sin A} = \dfrac{5}{4}[/math]
+নির্ধারিত অনুপাতসমূহ:[math]\sin A = \dfrac{4}{5}[/math]
+, [math]\cos A = \dfrac{3}{5}[/math]
+, [math]\cot A = \dfrac{3}{4}[/math]
+, [math]\sec A = \dfrac{5}{3}[/math]
+, [math]\csc A = \dfrac{5}{4}[/math]
+
+
+Explanation:
+ধরা যাক ত্রিভুজে বিপরীত বাহু = [math]4[/math] এবং পার্শ্ব = [math]3[/math] হলে হাইপোতেনিউজ [math]\sqrt{3^2+4^2}=5[/math]। ফলে অন্যান্য অনুপাতগুলো হল: [math]\sin A=\tfrac{4}{5},\ \cos A=\tfrac{3}{5},\ \tan A=\tfrac{4}{3},\ \cot A=\tfrac{3}{4},\ \sec A=\tfrac{5}{3},\ \csc A=\tfrac{5}{4}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 534864)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভুজের লম্ব [math]৫[/math], অতিভুজ [math]১৩[/math] হলে ভূমি কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+পিথাগোরাস সূত্র অনুযায়ী,[math]c^2 = a^2 + b^2[/math]
+এখানে, [math]c = ১৩[/math]
+, [math]a = ৫[/math]
+অতএব,[math]১৩^2 = ৫^2 + b^2[/math]
+ [math]১৬৯ = ২৫ + b^2[/math]
+ [math]b^2 = ১৬৯ - ২৫ = ১৪৪[/math]
+ [math]b = \sqrt{১৪৪} = ১২[/math]
+অতএব, ভূমি [math]= ১২[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমকোণী ত্রিভুজে পিথাগোরাস সূত্র অনুযায়ী দুটি ভুজের বর্গফল যোগ করলে হিপোটেনিউসের বর্গফল হয়, অর্থাৎ [math]a^2+b^2=c^2[/math]. এখানে [math]c=13[/math] ও একটি লম্ব [math]5[/math], তাই অপর ভূমি [math]\sqrt{13^2-5^2}=\sqrt{169-25}=\sqrt{144}=12[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 534879)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{3}{4}[/math] হলে, প্রমাণ কর [math]\sin A \cdot \cos A = \dfrac{12}{25}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{3}{4}[/math]
+⇒ [math]\tan^2 A = \dfrac{9}{16}[/math]
+⇒ [math]\sec^2 A = 1 + \tan^2 A = 1 + \dfrac{9}{16} = \dfrac{25}{16}[/math]
+⇒ [math]\sec A = \sqrt{\dfrac{25}{16}} = \dfrac{5}{4}[/math]
+⇒ [math]\cos A = \dfrac{1}{\sec A} = \dfrac{4}{5}[/math]
+⇒ [math]\sin A = \tan A \cdot \cos A = \dfrac{3}{4} \cdot \dfrac{4}{5} = \dfrac{3}{5}[/math]
+⇒ [math]\sin A \cdot \cos A = \dfrac{3}{5} \cdot \dfrac{4}{5} = \dfrac{12}{25}[/math]
+প্রমাণিত: [math]\sin A \cdot \cos A = \dfrac{12}{25}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math]\tan A=\dfrac{3}{4}[/math], নিতে পারি বিপরীত পাশ = [math]3[/math] এবং অনুকূল পাশ = [math]4[/math], তখন হাইপোটেনিউস হবে [math]5[/math] (পাইথাগোরাস)। তাই [math]\sin A=\dfrac{3}{5}[/math], [math]\cos A=\dfrac{4}{5}[/math] এবং [math]\sin A\cos A=\dfrac{3}{5}\cdot\dfrac{4}{5}=\dfrac{12}{25}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 534886)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan B = \dfrac{5}{12}[/math] হয়, তবে [math]\sin B[/math] এর মান নির্ণয় কর এবং দেখাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan B = \dfrac{5}{12}[/math]
+অর্থাৎ বিপরীত বাহু [math]= ৫[/math]
+, সন্নিহিত বাহু [math]= ১২[/math]
+⇒ অতিভুজ [math]= \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13[/math]
+⇒ [math]\sin B = \dfrac{\text{বিপরীত বাহু}}{\text{অতিভুজ}} = \dfrac{5}{13}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{13}[/math]
+
+
+Explanation:
+সমাধান: [math]\tan B=\dfrac{5}{12}[/math] হলে বিপরীতভুজ = 5 এবং সংলগ্নভুজ = 12 ধরা যায়; তাই সমকর্ণ [math]\sqrt{5^2+12^2}=13[/math]. অতএব [math]\sin B=\dfrac{5}{13}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 534894)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan \theta = \dfrac{4}{5}[/math] হলে, [math]\dfrac{\csc \theta}{\cot \theta}[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan \theta = \dfrac{4}{5}[/math]
+⇒ বিপরীত বাহু [math]= 4[/math]
+, সন্নিহিত বাহু [math]= 5[/math]
+⇒ অতিভুজ [math]= \sqrt{4^2 + 5^2} = \sqrt{41}[/math]
+⇒ [math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত}} = \dfrac{\sqrt{41}}{4}[/math]
+⇒ [math]\cot \theta = \dfrac{\text{সন্নিহিত}}{\text{বিপরীত}} = \dfrac{5}{4}[/math]
+⇒ [math]\dfrac{\csc \theta}{\cot \theta} = \dfrac{\sqrt{41}/4}{5/4} = \dfrac{\sqrt{41}}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{\sqrt{41}}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan\theta=4/5[/math] হলে একটি সমকোণী ত্রিভুজে বিপরীতভাজক = [math]4[/math], অনুজ = [math]5[/math] ধরে হাইপোতেনিউস [math]\sqrt{4^2+5^2}=\sqrt{41}[/math]. তাই [math]\csc\theta=\dfrac{\sqrt{41}}{4}[/math] এবং [math]\cot\theta=\dfrac{5}{4}[/math], ফলে [math]\dfrac{\csc\theta}{\cot\theta}=\dfrac{\sqrt{41}}{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 534897)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan A = \dfrac{4}{3}[/math] হয়, তাহলে [math]\sqrt{\dfrac{1 - \sin^2 A}{\sin^2 A}}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{4}{3}[/math]
+⇒ [math]\dfrac{1 - \sin^2 A}{\sin^2 A} = \dfrac{\cos^2 A}{\sin^2 A}[/math]
+⇒ [math]\sqrt{\dfrac{\cos^2 A}{\sin^2 A}} = \dfrac{\cos A}{\sin A} = \cot A[/math]
+⇒ [math]\cot A = \dfrac{1}{\tan A} = \dfrac{1}{4/3} = \dfrac{3}{4}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{4}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]1-\sin^2A=\cos^2A[/math], তাই প্রকাশটি [math]\sqrt{\dfrac{\cos^2A}{\sin^2A}}=|\cot A|[/math] হয়। অন্যদিকে [math]\tan A=\dfrac{4}{3}[/math] হলে [math]|\cot A|=\left|\dfrac{1}{\tan A}\right|=\dfrac{3}{4}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 534918)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin A = \dfrac{4}{5}[/math] হলে, [math]\tan A[/math] এর মান নির্ণয় কর এবং [math]A[/math] সুস্পষ্ট কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin A = \dfrac{4}{5}[/math]
+⇒ [math]\sin^2 A = \dfrac{16}{25}[/math]
+⇒ [math]1 - \cos^2 A = \dfrac{16}{25}[/math]
+⇒ [math]\cos^2 A = 1 - \dfrac{16}{25} = \dfrac{9}{25}[/math]
+⇒ [math]\cos A = \sqrt{\dfrac{9}{25}} = \dfrac{3}{5}[/math]
+⇒ [math]\tan A = \dfrac{\sin A}{\cos A} = \dfrac{4/5}{3/5} = \dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]\dfrac{4}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\sin A=\tfrac{4}{5}[/math] হলে একটি 3–4–5 ত্রিভুজ ধরা যায়, তাই [math]\cos A=\pm\tfrac{3}{5}[/math] এবং [math]\tan A=\dfrac{\sin A}{\cos A}=\pm\dfrac{4}{3}[/math]; চিহ্ন নির্ভর করে কোয়াড্র্যান্টে—প্রথম কোয়াড্র্যান্টে [math]+\tfrac{4}{3}[/math], দ্বিতীয় কোয়াড্র্যান্টে [math]-\tfrac{4}{3}[/math]. যদি আমরা প্রধান মান নিই তবে [math]A=\arcsin\!\bigl(\tfrac{4}{5}\bigr)\approx 53.13^\circ[/math] (অথবা অন্য সমাধান [math]180^\circ-53.13^\circ\approx126.87^\circ[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 534919)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan A = \dfrac{3}{4}[/math] হয়, তবে [math]\sin A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math]\tan A = \dfrac{3}{4}[/math]
+তবে [math]\tan^2 A = \left(\dfrac{3}{4}\right)^2 = \dfrac{9}{16}[/math]
+তাহলে, [math]\sec^2 A = 1 + \tan^2 A = 1 + \dfrac{9}{16} = \dfrac{25}{16}[/math]
+আবার, [math]\sec^2 A = \dfrac{1}{\cos^2 A} \Rightarrow \cos^2 A = \dfrac{16}{25}[/math]
+তাহলে, [math]1 - \sin^2 A = \dfrac{16}{25}[/math]
+⇒ [math]\sin^2 A = 1 - \dfrac{16}{25} = \dfrac{9}{25}[/math]
+⇒ [math]\sin A = \sqrt{\dfrac{9}{25}} = \dfrac{3}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যদি [math]\tan A=\frac{3}{4}[/math] ধরা হয় তবে বিপরীত পাশ = 3 এবং আশপাশ পাশ = 4; হাইপোটেনিউজ [math]\sqrt{3^2+4^2}=5[/math]. তাই [math]\sin A=\frac{3}{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 534931)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin 3B + \cos 3B = 1[/math] হলে, [math]2 \sin 3B \cdot \cos 3B[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\sin 3B + \cos 3B)^2 = 1^2 = 1[/math]
+⇒ [math]\sin^2 3B + \cos^2 3B + 2 \sin 3B \cos 3B = 1[/math]
+⇒ [math]1 + 2 \sin 3B \cos 3B = 1[/math]
+⇒ [math]2 \sin 3B \cos 3B = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](\sin3B+\cos3B)^2=1[/math] এবং সদস্যবর্গ বৃদ্ধি করলে [math]\sin^2 3B+\cos^2 3B+2\sin3B\cos3B=1[/math], কিন্তু [math]\sin^2 3B+\cos^2 3B=1[/math] হওয়ায় [math]1+2\sin3B\cos3B=1[/math] থেকে [math]2\sin3B\cos3B=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 534932)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec A + \tan A = \dfrac{5}{2}[/math] হয়, তবে [math]\sec A - \tan A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](\sec A + \tan A)(\sec A - \tan A) = 1[/math]
+⇒ [math]\dfrac{5}{2} \cdot (\sec A - \tan A) = 1[/math]
+⇒ [math]\sec A - \tan A = \dfrac{1}{5/2} = \dfrac{2}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{2}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\sec^2 A-\tan^2 A)=1[/math] থেকে [math](\sec A+\tan A)(\sec A-\tan A)=1.
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 534951)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin \theta + \cos \theta = 1[/math] হলে, [math]3 \sin \theta \cos \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\sin \theta + \cos \theta)^2 = 1^2 = 1[/math]
+⇒ [math]\sin^2 \theta + \cos^2 \theta + 2 \sin \theta \cos \theta = 1[/math]
+⇒ [math]1 + 2 \sin \theta \cos \theta = 1[/math]
+⇒ [math]2 \sin \theta \cos \theta = 0[/math]
+⇒ [math]\sin \theta \cos \theta = 0[/math]
+⇒ [math]3 \sin \theta \cos \theta = 3 \cdot 0 = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](\sin\theta+\cos\theta)^2=1^2=1[/math] এবং এটি সম্প্রসারণ করলে [math]\sin^2\theta+\cos^2\theta+2\sin\theta\cos\theta=1[/math]. যেহেতু [math]\sin^2\theta+\cos^2\theta=1[/math], তাই [math]2\sin\theta\cos\theta=0[/math] → [math]\sin\theta\cos\theta=0[/math], ফলে [math]3\sin\theta\cos\theta=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 534952)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec A - \tan A = \dfrac{2}{5}[/math] হয়, তবে [math]\sec A + \tan A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math](\sec A + \tan A)(\sec A - \tan A) = 1[/math]
+⇒ [math](\sec^2 A - \tan^2 A) = 1[/math]
+⇒ [math]1 = \dfrac{2}{5} \cdot (\sec A + \tan A)[/math]
+⇒ [math]\sec A + \tan A = \dfrac{1}{2/5} = \dfrac{5}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]\sec^2 A-\tan^2 A=1[/math] (কারণ [math]1+\tan^2 A=\sec^2 A[/math]), তাই [math](\sec A+\tan A)(\sec A-\tan A)=1[/math]. প্রদত্ত [math]\sec A-\tan A=\dfrac{2}{5}[/math] হলে [math]\sec A+\tan A=\dfrac{1}{\dfrac{2}{5}}=\dfrac{5}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 534968)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sec \theta = ৩[/math] হলে, [math]\tan \theta[/math] এর মান নির্ণয় কর (যেখানে [math]\tan \theta > 0[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sec \theta = 3[/math]
+ ⇒ [math]\sec^2 \theta = 9[/math]
+⇒ [math]1 + \tan^2 \theta = 9[/math]
+⇒ [math]\tan^2 \theta = 9 - 1 = 8[/math]
+⇒ [math]\tan \theta = \sqrt{8} = 2\sqrt{2}[/math]
+নির্ধারিত মান: [math]2\sqrt{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math]\sec \theta = 3[/math], তাই [math]\cos \theta = \tfrac{1}{3}. পরিচিতি ব্যবহার করলে [math]\tan^{2}\theta = \sec^{2}\theta - 1 = 9-1 = 8 0</math] হওয়ায় ধনাত্মক মূল নেওয়া হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 534974)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec \theta = \dfrac{3}{2\sqrt{2}}[/math] হয়, তবে [math]\cot \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sec \theta = \dfrac{3}{2\sqrt{2}}[/math]
+⇒ [math]\sec^2 \theta = \left(\dfrac{3}{2\sqrt{2}}\right)^2 = \dfrac{9}{8}[/math]
+⇒ [math]\tan^2 \theta = \sec^2 \theta - 1 = \dfrac{9}{8} - 1 = \dfrac{1}{8}[/math]
+⇒ [math]\tan \theta = \dfrac{1}{\sqrt{8}}[/math]
+⇒ [math]\cot \theta = \dfrac{1}{\tan \theta} = \sqrt{8} = 2\sqrt{2}[/math]
+নির্ধারিত মান: [math]2\sqrt{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দেওয়া আছে [math]\sec\theta=\dfrac{3}{2\sqrt{2}}[/math], তাই [math]\cos\theta=\dfrac{2\sqrt{2}}{3}[/math]. তারপর [math]\sin\theta=\pm\sqrt{1-\cos^2\theta}=\pm\sqrt{1-\tfrac{8}{9}}=\pm\tfrac{1}{3}[/math], অতএব [math]\cot\theta=\dfrac{\cos\theta}{\sin\theta}=\pm 2\sqrt{2}[/math]; চিহ্ন নির্ভর করে [math]\theta[/math]-এর কোয়াডরান্টের উপর (কোয়াড্রান্ট I এ ধনাত্মক, IV এ ঋণাত্মক)।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 534990)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec \theta + \tan \theta = \dfrac{7}{2}[/math] হয়, তবে [math]\tan \theta - \sec \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](\sec \theta + \tan \theta)(\sec \theta - \tan \theta) = 1[/math]
+⇒ [math]\dfrac{7}{2} \cdot (\sec \theta - \tan \theta) = 1[/math]
+⇒ [math]\sec \theta - \tan \theta = \dfrac{2}{7}[/math]
+⇒ [math]\tan \theta - \sec \theta = -\dfrac{2}{7}[/math]
+নির্ধারিত মান: [math]-\dfrac{2}{7}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\sec\theta+\tan\theta)(\sec\theta-\tan\theta)=\sec^2\theta-\tan^2\theta=1[/math], তাই [math]\sec\theta-\tan\theta=\dfrac{1}{\sec\theta+\tan\theta}=\dfrac{2}{7}[/math]. সুতরাং [math]\tan\theta-\sec\theta=-\dfrac{2}{7}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 534993)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{\tan A}{\sec A + 1} - \dfrac{\sec A - 1}{\tan A}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+উভয় অংশকে [math]\dfrac{\sin A}{\cos A}[/math]
+ ও [math]\dfrac{1}{\cos A}[/math]
+ রূপে প্রকাশ করে:[math]\dfrac{\sin A}{\cos A(\dfrac{1}{\cos A} + 1)} - \dfrac{\dfrac{1}{\cos A} - 1}{\dfrac{\sin A}{\cos A}}[/math]
+সরল করলে পাই:[math]\dfrac{\sin A}{\cos A + 1} - \dfrac{1 - \cos A}{\sin A}[/math]
+⇒ [math]\dfrac{\sin^2 A - (1 - \cos^2 A)}{\sin A (\cos A + 1)} = \dfrac{0}{\sin A (\cos A + 1)} = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম অংশে [math]\dfrac{\tan A}{\sec A+1}=\dfrac{\sin A}{1+\cos A}[/math] এবং দ্বিতীয়টি [math]\dfrac{\sec A-1}{\tan A}=\dfrac{1-\cos A}{\sin A}[/math]। কারণ [math]\dfrac{\sin A}{1+\cos A}=\dfrac{\sin A(1-\cos A)}{1-\cos^2 A}=\dfrac{1-\cos A}{\sin A}[/math], উভয় অংশ সমান হওয়ায় তাদের পার্থক্য [math]0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 535005)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\dfrac{\sec x + \tan x}{\sec x - \tan x} = 3[/math] হয়, তবে [math]\sin x[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{1 + \sin x}{1 - \sin x} = 3[/math]
+⇒ [math]1 + \sin x = 3(1 - \sin x)[/math]
+⇒ [math]1 + \sin x = 3 - 3 \sin x[/math]
+⇒ [math]4 \sin x = 2[/math]
+⇒ [math]\sin x = \dfrac{1}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{1}{2}[/math]
+
+
+Explanation:
+(sec এবং tan দ্বারা ভাগ করলে) [math]\dfrac{\sec x+\tan x}{\sec x-\tan x}=\dfrac{1+\sin x}{1-\sin x}[/math] কারণ [math]\dfrac{\tan x}{\sec x}=\sin x[/math]. সমীকরণটি [math]\dfrac{1+\sin x}{1-\sin x}=3[/math] হলে [math]1+\sin x=3(1-\sin x)\Rightarrow 4\sin x=2[/math] তাই [math]\sin x=\tfrac{1}{2}[/math]. নোট: [math]\sin x=1/2[/math] কসাইন শূন্য করে না, সুতরাং এটি গ্রহণযোগ্য।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 535011)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\csc \theta = \dfrac{5}{3}[/math] হলে, [math]\sec \theta[/math] ও [math]\cot \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত: [math]\csc \theta = \dfrac{5}{3}[/math]
+⇒ [math]\dfrac{1}{\sin \theta} = \dfrac{5}{3}[/math]
+⇒ [math]\sin \theta = \dfrac{3}{5}[/math]
+আমরা জানি, [math]\cos^2 \theta = 1 - \sin^2 \theta[/math]
+⇒ [math]\cos^2 \theta = 1 - \left(\dfrac{3}{5}\right)^2 = 1 - \dfrac{9}{25} = \dfrac{16}{25}[/math]
+⇒ [math]\cos \theta = \sqrt{\dfrac{16}{25}} = \dfrac{4}{5}[/math]
+⇒ [math]\sec \theta = \dfrac{1}{\cos \theta} = \dfrac{1}{4/5} = \dfrac{5}{4}[/math]
+⇒ [math]\cot \theta = \dfrac{\cos \theta}{\sin \theta} = \dfrac{4/5}{3/5} = \dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]\sec \theta = \dfrac{5}{4}[/math]
+ এবং [math]\cot \theta = \dfrac{4}{3}[/math]
+
+
+Explanation:
+[math]\csc\theta=\tfrac{5}{3}[/math] থেকে [math]\sin\theta=\tfrac{3}{5}[/math] হয়, এবং পিথাগোরাস সূত্রে ধরে (প্রথম চতুর্ভুজ ধরে) [math]\cos\theta=\sqrt{1-\sin^2\theta}=\sqrt{1-(3/5)^2}=\tfrac{4}{5}[/math]. অতএব [math]\sec\theta=\tfrac{1}{\cos\theta}=\tfrac{5}{4}[/math] এবং [math]\cot\theta=\tfrac{\cos\theta}{\sin\theta}=\tfrac{4/5}{3/5}=\tfrac{4}{3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 535019)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\csc \theta = \dfrac{\sqrt{5}}{2}[/math] হলে, [math]2 \tan \theta[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত বাহু}} = \dfrac{\sqrt{5}}{2}[/math]
+⇒ অতিভুজ [math]= \sqrt{5}[/math]
+, বিপরীত বাহু [math]= 2[/math]
+⇒ সন্নিহিত বাহু [math]= \sqrt{5 - 4} = 1[/math]
+⇒ [math]\tan \theta = \dfrac{2}{1} = 2[/math]
+, তাই [math]2 \tan \theta = 4[/math]
+নির্ধারিত মান: [math]4[/math]
+
+
+Explanation:
+csc θ = [math]\dfrac{\sqrt{5}}{2}[/math] হলে [math]\sin\theta=\dfrac{2}{\sqrt{5}}[/math]। পাইথাগোরাস পরিচয় অনুযায়ী [math]\cos\theta=\pm\sqrt{1-\sin^2\theta}=\pm\dfrac{1}{\sqrt{5}}[/math] এবং তাই [math]\tan\theta=\dfrac{\sin\theta}{\cos\theta}=\pm2[/math], ফলে [math]2\tan\theta=\pm4[/math] (চিহ্নটি θ-এর কোয়াড্রেন্টের ওপর নির্ভর করে)।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 535020)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\csc A - \cot A = \dfrac{4}{3}[/math] হয়, প্রমাণ কর যে [math]\csc A + \cot A = \dfrac{3}{4}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math]\csc^2 A - \cot^2 A = 1[/math]
+⇒ [math](\csc A + \cot A)(\csc A - \cot A) = 1[/math]
+⇒ [math](\csc A + \cot A) \cdot \dfrac{4}{3} = 1[/math]
+⇒ [math]\csc A + \cot A = \dfrac{3}{4}[/math]
+প্রমাণিত
+
+Explanation:
+কারণ [math](\csc A - \cot A)(\csc A + \cot A)=\csc^2 A-\cot^2 A=1[/math] (কারণ [math]\csc^2 A=1+\cot^2 A[/math]), তাই যদি [math]\csc A - \cot A=\dfrac{4}{3}[/math] হয় তবে [math]\csc A + \cot A=\dfrac{1}{4/3}=\dfrac{3}{4}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 535032)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\cot \theta \cdot \sqrt{1 - \cos^2 \theta}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sqrt{1 - \cos^2 \theta} = \sqrt{\sin^2 \theta} = \sin \theta[/math]
+⇒ [math]\cot \theta \cdot \sin \theta = \dfrac{\cos \theta}{\sin \theta} \cdot \sin \theta = \cos \theta[/math]
+নির্ধারিত মান: [math]\cos \theta[/math]
+
+
+Explanation:
+[math]\sqrt{1-\cos^2\theta}=|\sin\theta|[/math], তাই [math]\cot\theta\cdot\sqrt{1-\cos^2\theta}=\cot\theta\cdot|\sin\theta|=\frac{\cos\theta}{\sin\theta}\cdot|\sin\theta|=[/math][math]\cos\theta\cdot\operatorname{sgn}(\sin\theta)[/math]. অর্থাৎ, [math]\sin\theta\ge0[/math] হলে ফল [math]\cos\theta[/math] এবং [math]\sin\theta<0[/math] হলে ফল [math]-\cos\theta[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 535033)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\csc \theta + \cot \theta = \dfrac{3}{4}[/math] হয়, তবে [math]\cot \theta - \csc \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math]\csc^2 \theta - \cot^2 \theta = 1[/math]
+⇒ [math](\csc \theta + \cot \theta)(\csc \theta - \cot \theta) = 1[/math]
+⇒ [math]\dfrac{3}{4} \cdot (\csc \theta - \cot \theta) = 1[/math]
+⇒ [math]\csc \theta - \cot \theta = \dfrac{4}{3}[/math]
+⇒ [math]\cot \theta - \csc \theta = -\dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]-\dfrac{4}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\csc\theta+\cot\theta)(\csc\theta-\cot\theta)=\csc^2\theta-\cot^2\theta=1[/math], তাই [math]\csc\theta-\cot\theta=\dfrac{1}{\csc\theta+\cot\theta}=\dfrac{4}{3}[/math]. অতএব [math]\cot\theta-\csc\theta=-\dfrac{4}{3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 535048)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\cos^2 \theta - \sin^2 \theta = \dfrac{5}{6}[/math] হলে, [math]\cos^4 \theta - \sin^4 \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত: [math]\cos^2 \theta - \sin^2 \theta = \dfrac{5}{6}[/math]
+⇒ [math]\cos^4 \theta - \sin^4 \theta = (\cos^2 \theta)^2 - (\sin^2 \theta)^2[/math]
+ [math]= (\cos^2 \theta + \sin^2 \theta)(\cos^2 \theta - \sin^2 \theta)[/math]
+ [math]= (1)\left(\dfrac{5}{6}\right) = \dfrac{5}{6}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]\cos^4\theta-\sin^4\theta=(\cos^2\theta-\sin^2\theta)(\cos^2\theta+\sin^2\theta)[/math] এবং [math]\cos^2\theta+\sin^2\theta=1[/math], তাই [math]\cos^4\theta-\sin^4\theta=(\cos^2\theta-\sin^2\theta)\cdot1=5/6[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 535049)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+ফোগ নির্দেশ করে এমন একটি গ্রিক বর্ণ লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোণ নির্দেশ করে এমন ছয়টি গ্রিক বর্ণ হলো: আলফা (α), বিটা (β), গামা (γ), থিটা (θ), ফাই (φ), ওমেগা (ω)
+
+Explanation:
+φ (ফাই)
+
+ব্যাখ্যা: গ্রিক বর্ণ φ সাধারণত "ফাই" নামে পরিচিত এবং বাংলা উচ্চারণে "ফোগ"/"ফাই"—এর কাছাকাছি হওয়ার কারণে এটি এমন প্রশ্নে উপযুক্ত; গণিতে ও পদার্থবিদ্যায় φ প্রায়ই কোণ বা পর্যায় (phase) নির্দেশ করতে ব্যবহৃত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 535063)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\sec^2 \theta + \csc^2 \theta = \sec^2 \theta \cdot \csc^2 \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ: [math]\sec^2 \theta + \csc^2 \theta = \dfrac{1}{\cos^2 \theta} + \dfrac{1}{\sin^2 \theta}[/math]
+⇒ [math]\dfrac{\sin^2 \theta + \cos^2 \theta}{\cos^2 \theta \cdot \sin^2 \theta} = \dfrac{1}{\cos^2 \theta \cdot \sin^2 \theta}[/math]
+⇒ [math]\sec^2 \theta \cdot \csc^2 \theta[/math]
+প্রমাণিত
+
+Explanation:
+কারণ [math]\sec^2\theta=\frac{1}{\cos^2\theta}[/math] এবং [math]\csc^2\theta=\frac{1}{\sin^2\theta}[/math]।  
+তাহলে [math]\sec^2\theta+\csc^2\theta=\frac{1}{\cos^2\theta}+\frac{1}{\sin^2\theta}=\frac{\sin^2\theta+\cos^2\theta}{\sin^2\theta\cos^2\theta}=\frac{1}{\sin^2\theta\cos^2\theta}=\sec^2\theta\csc^2\theta[/math], যেখানে [math]\sin^2\theta+\cos^2\theta=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 535073)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\cot^2 A - \cos^2 A = \cot^2 A \cdot \cos^2 A[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ: [math]\cot^2 A - \cos^2 A[/math]
+⇒ [math]\dfrac{\cos^2 A}{\sin^2 A} - \cos^2 A = \dfrac{\cos^2 A - \cos^2 A \sin^2 A}{\sin^2 A}[/math]
+⇒ [math]\dfrac{\cos^2 A(1 - \sin^2 A)}{\sin^2 A} = \dfrac{\cos^2 A \cdot \cos^2 A}{\sin^2 A}[/math]
+⇒ [math]\cot^2 A \cdot \cos^2 A[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: কারণ [math]\cot A=\dfrac{\cos A}{\sin A}[/math], তাই
+[math]\cot^2 A-\cos^2 A=\dfrac{\cos^2 A}{\sin^2 A}-\cos^2 A=\cos^2 A\Big(\dfrac{1}{\sin^2 A}-1\Big)=\cos^2 A\cdot\dfrac{1-\sin^2 A}{\sin^2 A}=\cos^2 A\cdot\dfrac{\cos^2 A}{\sin^2 A}=[/math][math]\cot^2 A\cos^2 A[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 535087)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]\sin \theta \sqrt{1 + \tan^2 \theta} = \tan \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin \theta \sqrt{1 + \tan^2 \theta} = \sin \theta \cdot \sqrt{\sec^2 \theta} = \sin \theta \cdot \sec \theta = \dfrac{\sin \theta}{\cos \theta} = \tan \theta[/math]প্রমাণিত
+
+Explanation:
+কারণ [math]1+\tan^2\theta=\sec^2\theta[/math], তাই [math]\sqrt{1+\tan^2\theta}=\sqrt{\sec^2\theta}=|\sec\theta|।]  
+তাহলে [math]\sin\theta\sqrt{1+\tan^2\theta}=\sin\theta\,|\sec\theta|=|\tan\theta|[/math], যা [math]\sec\theta>0[/math] (অর্থাৎ [math]\cos\theta>0[/math]) হলে সোজা [math]\tan\theta[/math]-এর সমান হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 535099)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+ত্রিকোণমিতিক অনুপাতগুলোর মধ্যে সম্পর্ক লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ত্রিকোণমিতিক অনুপাত ৬টি। এগুলোর মধ্যে পরস্পর সম্পর্ক নিচে দেওয়া হলো:[math]\sin \theta = \dfrac{1}{\csc \theta}[/math]
+, অথবা [math]\csc \theta = \dfrac{1}{\sin \theta}[/math]
+ [math]\cos \theta = \dfrac{1}{\sec \theta}[/math]
+, অথবা [math]\sec \theta = \dfrac{1}{\cos \theta}[/math]
+ [math]\tan \theta = \dfrac{1}{\cot \theta}[/math]
+, অথবা [math]\tan \theta = \dfrac{\sin \theta}{\cos \theta}[/math]
+ [math]\cot \theta = \dfrac{1}{\tan \theta}[/math]
+, অথবা [math]\cot \theta = \dfrac{\cos \theta}{\sin \theta}[/math]
+
+
+Explanation:
+প্রধান সম্পর্কগুলো: প্রতিলিপি ও বিপরীতিকরণ [math]\csc θ = 1/\sin θ,\ \sec θ = 1/\cos θ,\ \cot θ = 1/\tan θ[/math]; ভাগ সম্পর্ক [math]\tan θ = \sin θ/\cos θ,\ \cot θ = \cos θ/\sin θ[/math]; পিথাগোরীয় সম্পর্ক [math]\sin^2 θ + \cos^2 θ = 1[/math] থেকে [math]1+\tan^2 θ = \sec^2 θ[/math] এবং [math]1+\cot^2 θ = \csc^2 θ[/math]; সহকোণিক সম্পর্ক [math]\sin(\tfrac{\pi}{2}-θ)=\cos θ,\ \tan(\tfrac{\pi}{2}-θ)=\cot θ[/math].  
+এগুলো একটি সমকোণী ত্রিকোণীর ধারণা (কোণ অনুযায়ী পার্শ্বের অনুপাত) ও পিথাগোরীয় সূত্র থেকে সহজে প্রকাশ করা যায়, তাই সত্য।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 535119)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+কোণের ত্রিকোণমিতিক অনুপাতগুলো লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin \theta = \dfrac{\text{বিপরীত বাহু}}{\text{অতিভুজ}}[/math]
+ [math]\cos \theta = \dfrac{\text{সন্নিহিত বাহু}}{\text{অতিভুজ}}[/math]
+ [math]\tan \theta = \dfrac{\text{বিপরীত বাহু}}{\text{সন্নিহিত বাহু}}[/math]
+ [math]\cot \theta = \dfrac{\text{সন্নিহিত বাহু}}{\text{বিপরীত বাহু}}[/math]
+ [math]\sec \theta = \dfrac{\text{অতিভুজ}}{\text{সন্নিহিত বাহু}}[/math]
+ [math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত বাহু}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমকোণী ত্রিভুজে কোনা [math]\theta[/math]’র ত্রিকোণমিতিক অনুপাতগুলো হল [math]\sin\theta=\frac{\text{বিপরীত বাহু}}{\text{অধিবাহু}}[/math], [math]\cos\theta=\frac{\text{সংলগ্ন বাহু}}{\text{অধিবাহু}}[/math], [math]\tan\theta=\frac{\text{বিপরীত বাহু}}{\text{সংলগ্ন বাহু}}[/math]; এবং তাদের পরোক্ষ অনুপাতগুলো হল [math]\csc\theta=\frac{1}{\sin\theta}[/math], [math]\sec\theta=\frac{1}{\cos\theta}[/math], [math]\cot\theta=\frac{1}{\tan\theta}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 533381)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভূজের অতিভুজ, বিপরীত বাহু ও সন্নিহিত বাহুর সংজ্ঞা দাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমকোণী ত্রিভূজের বৃহত্তম বাহু যা সমকোণের বিপরীত পাশে অবস্থিত তাকে অতিভুজ বলে।সমকোণী ত্রিভূজের প্রদত্ত সূক্ষ্মকোণের বিপরীত যে বাহু থাকে তাকে বিপরীত বাহু বলে।প্রদত্ত সূক্ষ্মকোণ সৃষ্টিকারী রেখাংশকে সন্নিহিত বাহু বলে।
+
+Explanation:
+ব্যাখ্যা: কারণ সমকোণী ত্রিভূজে একটি কোণ [math]90^\circ[/math] হওয়ায় অন্য দুই বাহুর মধ্যে সমকোণের বিরুদ্ধে থাকা বাহুটি সবসময় দীর্ঘতম এবং ত্রিভূজের বাহুগুলোকে নির্দিষ্ট কোণের তুলনায় সহজেই চিহ্নিত করা যায়।  
+ক অতিভুজ: সমকোণী ত্রিভূজে সমকোণের বিরুদ্ধে অবস্থিত সবচেয়ে দীর্ঘ বাহু।  
+খ বিপরীত বাহু: কোনো নির্দিষ্ট (অন্তরীণ) কোণের ঠিক বিপরীতে অবস্থিত বাহু।  
+গ সন্নিহিত বাহু: সেই নির্দিষ্ট কোণের সঙ্গে যুক্ত থাকা বাহু, তবে সমকোণটি নয় (অর্থাৎ কোণটি গঠনে অংশগ্রহণকারী অন্য বাহু)।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 533382)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = x[/math] হলে, [math]\sec^2 A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math]\tan A = x[/math]
+⇒ [math]\tan^2 A = x^2[/math]
+⇒ [math]\sec^2 A = 1 + \tan^2 A = x^2 + 1[/math]
+নির্ধারিত মান: [math]x^2 + 1[/math]
+
+
+Explanation:
+ব্যাখ্যা: পরিচিত ত্রিকোণমিতিক পরিচয় অনুযায়ী [math]1+\tan^2 A=\sec^2 A[/math]। তাই [math]\tan A=x[/math] হলে [math]\sec^2 A=1+x^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 533387)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{a}{b}[/math] হলে, [math]\cot A + \tan A[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\cot A = \dfrac{1}{\tan A} = \dfrac{b}{a}[/math]
+⇒ [math]\cot A + \tan A = \dfrac{b}{a} + \dfrac{a}{b}[/math]
+⇒ [math]\dfrac{b^2 + a^2}{ab} = \dfrac{a^2 + b^2}{ab}[/math]
+নির্ধারিত মান: [math]\dfrac{a^2 + b^2}{ab}[/math]
+
+
+Explanation:
+cot হলো tan এর প্রতিলিপি, তাই [math]\cot A=\dfrac{1}{\tan A}=\dfrac{b}{a} \;(a,b\neq0)। দৃষ্টান্ত적으로 [math]\cot A+\tan A=\dfrac{b}{a}+\dfrac{a}{b}=\dfrac{a^2+b^2}{ab}।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 533388)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভূজের অতিভুজ, বিপরীত বাবু ও সন্নিহিত বাবুর সংজ্ঞা দাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমকোণী ত্রিভূজের বৃহত্তম বাহু যা সমকোণের বিপরীত পাশে অবস্থিত তাকে অতিভুজ বলে।
+
+সমকোণী ত্রিভূজের প্রদত্ত সূক্ষ্মকোণের বিপরীত যে বাহু থাকে তাকে বিপরীত বাহু বলে।
+
+প্রদত্ত সূক্ষ্মকোণ সৃষ্টিকারী রেখাংশকে সন্নিহিত বাহু বলে।
+
+Explanation:
+ক অতিভুজ: সমকোণী ত্রিভুজের সেই বাহু যা সমকোণটির বিপরীতে লাগে এবং অন্যান্য দুই বাহুর তুলনায় সর্বোচ্চ দৈর্ঘ্যের হয়।  
+খ বিপরীত বাহু: কোনো নির্দিষ্ট কোণের ঠিক বিপরীতে থাকা বাহুটি, অর্থাৎ ওই কোণের সঙ্গে সরাসরি সংযুক্ত নয়।  
+গ সন্নিহিত বাহু: কোনো নির্দিষ্ট কোণের সেই বাহু যা ঐ কোণের সঙ্গে সংযুক্ত এবং অতিভুজ নয় (ত্রিভুজে কোণের সংলগ্ন অপর বাহু)।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 533392)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভুজের লম্ব [math]৫[/math], অতিভুজ [math]১৩[/math] হলে ভূমি কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+পিথাগোরাস সূত্র অনুযায়ী,[math]c^2 = a^2 + b^2[/math]
+এখানে, [math]c = ১৩[/math]
+, [math]a = ৫[/math]
+অতএব,[math]১৩^2 = ৫^2 + b^2[/math]
+ [math]১৬৯ = ২৫ + b^2[/math]
+ [math]b^2 = ১৬৯ - ২৫ = ১৪৪[/math]
+ [math]b = \sqrt{১৪৪} = ১২[/math]
+অতএব, ভূমি [math]= ১২[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমকোণী ত্রিভুজে পিথাগোরাস সূত্র [math]c^2=a^2+b^2[/math] প্রয়োগ করলে, এখানে [math]c=13[/math] ও এক লম্ব [math]a=5[/math], ফলে অন্য ভূমি [math]b=\sqrt{13^2-5^2}=\sqrt{169-25}=\sqrt{144}=12[/math]. তাই ভূমি হলো [math]12[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 533393)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{4}{3}[/math] হলে, [math]A[/math] কোণের অন্যান্য ত্রিকোণমিতিক অনুপাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{4}{3}[/math]
+⇒ বিপরীত বাহু [math]= 4[/math]
+, সন্নিহিত বাহু [math]= 3[/math]
+⇒ অতিভুজ [math]= \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5[/math]
+⇒ [math]\sin A = \dfrac{4}{5}[/math]
+, [math]\cos A = \dfrac{3}{5}[/math]
+⇒ [math]\cot A = \dfrac{1}{\tan A} = \dfrac{3}{4}[/math]
+⇒ [math]\sec A = \dfrac{1}{\cos A} = \dfrac{5}{3}[/math]
+⇒ [math]\csc A = \dfrac{1}{\sin A} = \dfrac{5}{4}[/math]
+নির্ধারিত অনুপাতসমূহ:[math]\sin A = \dfrac{4}{5}[/math]
+, [math]\cos A = \dfrac{3}{5}[/math]
+, [math]\cot A = \dfrac{3}{4}[/math]
+, [math]\sec A = \dfrac{5}{3}[/math]
+, [math]\csc A = \dfrac{5}{4}[/math]
+
+
+Explanation:
+ধরা যাক কোণটি তীক্ষ্ণ (0°–90°), তাই বিপরীত বাহু = [math]4[/math] এবং পার্শ্বীয় = [math]3[/math]; অতএব হাইপোতেনিউজ [math]\sqrt{3^2+4^2}=5[/math]. তাই [math]\sin A=4/5,\ \cos A=3/5,\ \tan A=4/3[/math]. এবং প্রত্যাবর্তী অনুপাতগুলি হল [math]\cot A=3/4,\ \sec A=5/3,\ \csc A=5/4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 533395)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{3}{4}[/math] হলে, প্রমাণ কর [math]\sin A \cdot \cos A = \dfrac{12}{25}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{3}{4}[/math]
+⇒ [math]\tan^2 A = \dfrac{9}{16}[/math]
+⇒ [math]\sec^2 A = 1 + \tan^2 A = 1 + \dfrac{9}{16} = \dfrac{25}{16}[/math]
+⇒ [math]\sec A = \sqrt{\dfrac{25}{16}} = \dfrac{5}{4}[/math]
+⇒ [math]\cos A = \dfrac{1}{\sec A} = \dfrac{4}{5}[/math]
+⇒ [math]\sin A = \tan A \cdot \cos A = \dfrac{3}{4} \cdot \dfrac{4}{5} = \dfrac{3}{5}[/math]
+⇒ [math]\sin A \cdot \cos A = \dfrac{3}{5} \cdot \dfrac{4}{5} = \dfrac{12}{25}[/math]
+প্রমাণিত: [math]\sin A \cdot \cos A = \dfrac{12}{25}[/math]
+
+
+Explanation:
+তথ্য অনুসারে [math]\tan A=\dfrac{3}{4}[/math] হলে বিপরীত বাহু = [math]3[/math], অতিরিক্ত বাহু = [math]4[/math] এবং পিথাগোরাস অনুসারে কৌণিক বাহু = [math]\sqrt{3^2+4^2}=5[/math]. তাই [math]\sin A=\dfrac{3}{5},\ \cos A=\dfrac{4}{5}[/math] এবং তাদের গুণফল [math]\sin A\cdot\cos A=\dfrac{3}{5}\cdot\dfrac{4}{5}=\dfrac{12}{25}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 533398)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan B = \dfrac{5}{12}[/math] হয়, তবে [math]\sin B[/math] এর মান নির্ণয় কর এবং দেখাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan B = \dfrac{5}{12}[/math]
+অর্থাৎ বিপরীত বাহু [math]= ৫[/math]
+, সন্নিহিত বাহু [math]= ১২[/math]
+⇒ অতিভুজ [math]= \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13[/math]
+⇒ [math]\sin B = \dfrac{\text{বিপরীত বাহু}}{\text{অতিভুজ}} = \dfrac{5}{13}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{13}[/math]
+
+
+Explanation:
+যদি [math]\tan B=\dfrac{5}{12}[/math] হয় তাহলে বিপরীত বাহু = 5 এবং পার্শ্ব বাহু = 12 ধরে হাইপোতেনিউজ হবে [math]\sqrt{5^2+12^2}=13[/math]. সুতরাং (B যদি তীক্ষ্ণ কোণ ধরা হয়) [math]\sin B=\dfrac{5}{13}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 533400)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan \theta = \dfrac{4}{5}[/math] হলে, [math]\dfrac{\csc \theta}{\cot \theta}[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan \theta = \dfrac{4}{5}[/math]
+⇒ বিপরীত বাহু [math]= 4[/math]
+, সন্নিহিত বাহু [math]= 5[/math]
+⇒ অতিভুজ [math]= \sqrt{4^2 + 5^2} = \sqrt{41}[/math]
+⇒ [math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত}} = \dfrac{\sqrt{41}}{4}[/math]
+⇒ [math]\cot \theta = \dfrac{\text{সন্নিহিত}}{\text{বিপরীত}} = \dfrac{5}{4}[/math]
+⇒ [math]\dfrac{\csc \theta}{\cot \theta} = \dfrac{\sqrt{41}/4}{5/4} = \dfrac{\sqrt{41}}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{\sqrt{41}}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan\theta=4/5[/math] হলে ত্রিভুজে বিপরীত পার্শ্ব = [math]4[/math], সংলগ্ন = [math]5[/math] ধরে হাইপোটেনিউস = [math]\sqrt{4^2+5^2}=\sqrt{41}[/math]. তাই [math]\csc\theta=\frac{\sqrt{41}}{4}[/math], [math]\cot\theta=\frac{5}{4}[/math] হওয়ায় [math]\frac{\csc\theta}{\cot\theta}=\frac{\sqrt{41}/4}{5/4}=\frac{\sqrt{41}}{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 533402)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan A = \dfrac{4}{3}[/math] হয়, তাহলে [math]\sqrt{\dfrac{1 - \sin^2 A}{\sin^2 A}}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{4}{3}[/math]
+⇒ [math]\dfrac{1 - \sin^2 A}{\sin^2 A} = \dfrac{\cos^2 A}{\sin^2 A}[/math]
+⇒ [math]\sqrt{\dfrac{\cos^2 A}{\sin^2 A}} = \dfrac{\cos A}{\sin A} = \cot A[/math]
+⇒ [math]\cot A = \dfrac{1}{\tan A} = \dfrac{1}{4/3} = \dfrac{3}{4}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{4}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan A=\tfrac{4}{3}[/math] হলে সমকোণী ত্রিভুজে বিপরীত=(4), পার্শ্ব=(3), এবং হাইপotenuse=(5) ধরা যায়, তাই [math]\sin A=\tfrac{4}{5},\ \cos A=\tfrac{3}{5}[/math]. ফলে [math]\sqrt{\dfrac{1-\sin^2 A}{\sin^2 A}}=\sqrt{\dfrac{\cos^2 A}{\sin^2 A}}=|\cot A|=\dfrac{3}{4}[/math] (স্কয়ার রুট নেগেটিভ নয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 533404)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin A = \dfrac{4}{5}[/math] হলে, [math]\tan A[/math] এর মান নির্ণয় কর এবং [math]A[/math] সুস্পষ্ট কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin A = \dfrac{4}{5}[/math]
+⇒ [math]\sin^2 A = \dfrac{16}{25}[/math]
+⇒ [math]1 - \cos^2 A = \dfrac{16}{25}[/math]
+⇒ [math]\cos^2 A = 1 - \dfrac{16}{25} = \dfrac{9}{25}[/math]
+⇒ [math]\cos A = \sqrt{\dfrac{9}{25}} = \dfrac{3}{5}[/math]
+⇒ [math]\tan A = \dfrac{\sin A}{\cos A} = \dfrac{4/5}{3/5} = \dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]\dfrac{4}{3}[/math]
+
+
+Explanation:
+প্রশ্নে [math]\sin A=\dfrac{4}{5}[/math] হলে একটি সমকোণী ত্রিভুজ ধরে বিপরীত বাহু = 4, বাহুড় = 5 হওয়ায় পার্শ্বজোড় = [math]\sqrt{5^2-4^2}=3[/math], তাই [math]\tan A=\dfrac{4}{3}[/math]।  
+প্রধান মানে [math]A=\arcsin\!\left(\dfrac{4}{5}\right)\approx 53.13^\circ[/math], এবং সাইন ধনাত্মক হওয়ার কারণে অন্য সমাধানটি [math]A=180^\circ-53.13^\circ\approx126.87^\circ[/math]; সাধারণভাবে [math]A=53.13^\circ+360^\circ k[/math] অথবা [math]A=126.87^\circ+360^\circ k[/math] (প্রতিটি পূর্ণসংখ্যা [math]k[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 533407)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan A = \dfrac{3}{4}[/math] হয়, তবে [math]\sin A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math]\tan A = \dfrac{3}{4}[/math]
+তবে [math]\tan^2 A = \left(\dfrac{3}{4}\right)^2 = \dfrac{9}{16}[/math]
+তাহলে, [math]\sec^2 A = 1 + \tan^2 A = 1 + \dfrac{9}{16} = \dfrac{25}{16}[/math]
+আবার, [math]\sec^2 A = \dfrac{1}{\cos^2 A} \Rightarrow \cos^2 A = \dfrac{16}{25}[/math]
+তাহলে, [math]1 - \sin^2 A = \dfrac{16}{25}[/math]
+⇒ [math]\sin^2 A = 1 - \dfrac{16}{25} = \dfrac{9}{25}[/math]
+⇒ [math]\sin A = \sqrt{\dfrac{9}{25}} = \dfrac{3}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan A=\dfrac{3}{4}[/math] হলে একটি সমকোণ ত্রিভুজে বিপরীত বাহু = [math]3[/math] এবং সাক্ষাৎ বাহু = [math]4[/math], ফলে জরুরী বাহু [math]\sqrt{3^2+4^2}=\sqrt{25}=5[/math]. তাই [math]\sin A=\dfrac{\text{বিপরীত}}{\text{জরুরী}}=\dfrac{3}{5}[/math] (ধরা হলে [math]A[/math] অকিউট/ধনাত্মক কোষ্ঠে)।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 533409)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin 3B + \cos 3B = 1[/math] হলে, [math]2 \sin 3B \cdot \cos 3B[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\sin 3B + \cos 3B)^2 = 1^2 = 1[/math]
+⇒ [math]\sin^2 3B + \cos^2 3B + 2 \sin 3B \cos 3B = 1[/math]
+⇒ [math]1 + 2 \sin 3B \cos 3B = 1[/math]
+⇒ [math]2 \sin 3B \cos 3B = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](\sin 3B+\cos 3B)^2=1[/math] দিলে [math]\sin^2 3B+\cos^2 3B+2\sin 3B\cos 3B=1[/math] এবং [math]\sin^2 3B+\cos^2 3B=1[/math] হওয়ায় প্রয়োজনীয় অংশ থেকে পাওয়া যায় [math]2\sin 3B\cos 3B=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 533411)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec A + \tan A = \dfrac{5}{2}[/math] হয়, তবে [math]\sec A - \tan A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](\sec A + \tan A)(\sec A - \tan A) = 1[/math]
+⇒ [math]\dfrac{5}{2} \cdot (\sec A - \tan A) = 1[/math]
+⇒ [math]\sec A - \tan A = \dfrac{1}{5/2} = \dfrac{2}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{2}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\sec A+\tan A)(\sec A-\tan A)=\sec^2A-\tan^2A=1[/math], তাই [math]\sec A-\tan A=\dfrac{1}{\sec A+\tan A}[/math]. ফলে [math]\sec A-\tan A=\dfrac{1}{5/2}=\dfrac{2}{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 533414)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin \theta + \cos \theta = 1[/math] হলে, [math]3 \sin \theta \cos \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\sin \theta + \cos \theta)^2 = 1^2 = 1[/math]
+⇒ [math]\sin^2 \theta + \cos^2 \theta + 2 \sin \theta \cos \theta = 1[/math]
+⇒ [math]1 + 2 \sin \theta \cos \theta = 1[/math]
+⇒ [math]2 \sin \theta \cos \theta = 0[/math]
+⇒ [math]\sin \theta \cos \theta = 0[/math]
+⇒ [math]3 \sin \theta \cos \theta = 3 \cdot 0 = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+ব্যাখ্যা: উভয় পাশে বর্গ করলে [math](\sin\theta+\cos\theta)^2=1[/math] হয় এবং এটি বিস্তৃত করলে [math]\sin^2\theta+\cos^2\theta+2\sin\theta\cos\theta=1[/math] পাওয়া যায়; যেহেতু [math]\sin^2\theta+\cos^2\theta=1[/math], তাই [math]2\sin\theta\cos\theta=0[/math] এবং From this [math]\sin\theta\cos\theta=0[/math], ফলে [math]3\sin\theta\cos\theta=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 533415)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec A - \tan A = \dfrac{2}{5}[/math] হয়, তবে [math]\sec A + \tan A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math](\sec A + \tan A)(\sec A - \tan A) = 1[/math]
+⇒ [math](\sec^2 A - \tan^2 A) = 1[/math]
+⇒ [math]1 = \dfrac{2}{5} \cdot (\sec A + \tan A)[/math]
+⇒ [math]\sec A + \tan A = \dfrac{1}{2/5} = \dfrac{5}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\sec A-\tan A)(\sec A+\tan A)=\sec^2A-\tan^2A=1[/math], তাই [math]\sec A+\tan A=\dfrac{1}{\sec A-\tan A}=\dfrac{1}{2/5}=\dfrac{5}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 533417)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sec \theta = ৩[/math] হলে, [math]\tan \theta[/math] এর মান নির্ণয় কর (যেখানে [math]\tan \theta > 0[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sec \theta = 3[/math]
+ ⇒ [math]\sec^2 \theta = 9[/math]
+⇒ [math]1 + \tan^2 \theta = 9[/math]
+⇒ [math]\tan^2 \theta = 9 - 1 = 8[/math]
+⇒ [math]\tan \theta = \sqrt{8} = 2\sqrt{2}[/math]
+নির্ধারিত মান: [math]2\sqrt{2}[/math]
+
+
+Explanation:
+[math]\sec\theta=3\Rightarrow\cos\theta=\tfrac{1}{3}[/math] এবং [math]\sin^2\theta=1-\cos^2\theta=1-\tfrac{1}{9}=\tfrac{8}{9}[/math]; [math]\tan\theta>0[/math] ও [math]\cos\theta>0[/math] হওয়ায় [math]\sin\theta=\tfrac{2\sqrt{2}}{3}[/math]. তাই [math]\tan\theta=\dfrac{\sin\theta}{\cos\theta}=\dfrac{2\sqrt{2}/3}{1/3}=2\sqrt{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 533418)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec \theta = \dfrac{3}{2\sqrt{2}}[/math] হয়, তবে [math]\cot \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sec \theta = \dfrac{3}{2\sqrt{2}}[/math]
+⇒ [math]\sec^2 \theta = \left(\dfrac{3}{2\sqrt{2}}\right)^2 = \dfrac{9}{8}[/math]
+⇒ [math]\tan^2 \theta = \sec^2 \theta - 1 = \dfrac{9}{8} - 1 = \dfrac{1}{8}[/math]
+⇒ [math]\tan \theta = \dfrac{1}{\sqrt{8}}[/math]
+⇒ [math]\cot \theta = \dfrac{1}{\tan \theta} = \sqrt{8} = 2\sqrt{2}[/math]
+নির্ধারিত মান: [math]2\sqrt{2}[/math]
+
+
+Explanation:
+দ্বারা [math]\sec\theta=\dfrac{3}{2\sqrt{2}}[/math] হলে [math]\cos\theta=\dfrac{2\sqrt{2}}{3}[/math] এবং [math]\sin\theta=\pm\sqrt{1-\cos^2\theta}=\pm\dfrac{1}{3}[/math]. অতএব [math]\cot\theta=\dfrac{\cos\theta}{\sin\theta}=\pm 2\sqrt{2}[/math], এবং যদি θ প্রথম চতুর্ভাগে হয় তাহলে মান হবে ধনাত্মক [math]2\sqrt{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 533421)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{\tan A}{\sec A + 1} - \dfrac{\sec A - 1}{\tan A}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+উভয় অংশকে [math]\dfrac{\sin A}{\cos A}[/math]
+ ও [math]\dfrac{1}{\cos A}[/math]
+ রূপে প্রকাশ করে:[math]\dfrac{\sin A}{\cos A(\dfrac{1}{\cos A} + 1)} - \dfrac{\dfrac{1}{\cos A} - 1}{\dfrac{\sin A}{\cos A}}[/math]
+সরল করলে পাই:[math]\dfrac{\sin A}{\cos A + 1} - \dfrac{1 - \cos A}{\sin A}[/math]
+⇒ [math]\dfrac{\sin^2 A - (1 - \cos^2 A)}{\sin A (\cos A + 1)} = \dfrac{0}{\sin A (\cos A + 1)} = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+প্রথমে [math]\tan A=\dfrac{\sin A}{\cos A},\ \sec A=\dfrac{1}{\cos A}[/math] ব্যবহার করে প্রতিটি ভগ্নাংশ সরল করলে পাওয়া যায় [math]\frac{\tan A}{\sec A+1}=\frac{\sin A}{1+\cos A}[/math] এবং [math]\frac{\sec A-1}{\tan A}=\frac{1-\cos A}{\sin A}[/math]। একই গরিষ্ঠভাবে যোগাতে গেলে নম্বরীয় অংশটি [math]\sin^2A-(1-\cos^2A)=\sin^2A-1+\cos^2A=0[/math] হওয়ায় সমগ্র প্রকাশের মান [math]0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 533422)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec \theta + \tan \theta = \dfrac{7}{2}[/math] হয়, তবে [math]\tan \theta - \sec \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](\sec \theta + \tan \theta)(\sec \theta - \tan \theta) = 1[/math]
+⇒ [math]\dfrac{7}{2} \cdot (\sec \theta - \tan \theta) = 1[/math]
+⇒ [math]\sec \theta - \tan \theta = \dfrac{2}{7}[/math]
+⇒ [math]\tan \theta - \sec \theta = -\dfrac{2}{7}[/math]
+নির্ধারিত মান: [math]-\dfrac{2}{7}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\sec\theta+\tan\theta)(\sec\theta-\tan\theta)=\sec^2\theta-\tan^2\theta=1[/math], তাই যদি [math]\sec\theta+\tan\theta=\dfrac{7}{2}[/math] হয় তবে [math]\sec\theta-\tan\theta=\dfrac{2}{7}[/math]. অতএব [math]\tan\theta-\sec\theta=-\dfrac{2}{7}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 533424)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\csc \theta = \dfrac{5}{3}[/math] হলে, [math]\sec \theta[/math] ও [math]\cot \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত: [math]\csc \theta = \dfrac{5}{3}[/math]
+⇒ [math]\dfrac{1}{\sin \theta} = \dfrac{5}{3}[/math]
+⇒ [math]\sin \theta = \dfrac{3}{5}[/math]
+আমরা জানি, [math]\cos^2 \theta = 1 - \sin^2 \theta[/math]
+⇒ [math]\cos^2 \theta = 1 - \left(\dfrac{3}{5}\right)^2 = 1 - \dfrac{9}{25} = \dfrac{16}{25}[/math]
+⇒ [math]\cos \theta = \sqrt{\dfrac{16}{25}} = \dfrac{4}{5}[/math]
+⇒ [math]\sec \theta = \dfrac{1}{\cos \theta} = \dfrac{1}{4/5} = \dfrac{5}{4}[/math]
+⇒ [math]\cot \theta = \dfrac{\cos \theta}{\sin \theta} = \dfrac{4/5}{3/5} = \dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]\sec \theta = \dfrac{5}{4}[/math]
+ এবং [math]\cot \theta = \dfrac{4}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\csc\theta=5/3\Rightarrow \sin\theta=3/5[/math]. পাইথাগোরাস থেকে [math]\cos\theta=\pm\sqrt{1-\sin^2\theta}=\pm4/5[/math]. তাই [math]\sec\theta=1/\cos\theta=\pm5/4[/math] এবং [math]\cot\theta=\cos\theta/\sin\theta=\pm4/3[/math], যেখানে চিহ্নটি কোন কোয়াডর্যান্টে কোণটি আছে তা নির্ভর করে।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 533425)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\dfrac{\sec x + \tan x}{\sec x - \tan x} = 3[/math] হয়, তবে [math]\sin x[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{1 + \sin x}{1 - \sin x} = 3[/math]
+⇒ [math]1 + \sin x = 3(1 - \sin x)[/math]
+⇒ [math]1 + \sin x = 3 - 3 \sin x[/math]
+⇒ [math]4 \sin x = 2[/math]
+⇒ [math]\sin x = \dfrac{1}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{1}{2}[/math]
+
+
+Explanation:
+সমাধান: কারণ [math]\sec x\pm\tan x=\dfrac{1\pm\sin x}{\cos x}[/math], তাই দেওয়া অনুপাতে পাওয়া যায় [math]\dfrac{1+\sin x}{1-\sin x}=3[/math]. এখান থেকে [math]1+\sin x=3(1-\sin x)\Rightarrow4\sin x=2[/math], অতএব [math]\sin x=\dfrac{1}{2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 533428)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\csc A - \cot A = \dfrac{4}{3}[/math] হয়, প্রমাণ কর যে [math]\csc A + \cot A = \dfrac{3}{4}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math]\csc^2 A - \cot^2 A = 1[/math]
+⇒ [math](\csc A + \cot A)(\csc A - \cot A) = 1[/math]
+⇒ [math](\csc A + \cot A) \cdot \dfrac{4}{3} = 1[/math]
+⇒ [math]\csc A + \cot A = \dfrac{3}{4}[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\csc A-\cot A)(\csc A+\cot A)=\csc^2A-\cot^2A=1[/math], এবং দেওয়া আছে [math]\csc A-\cot A=\dfrac{4}{3}[/math], তাই [math]\csc A+\cot A=\dfrac{1}{\csc A-\cot A}=\dfrac{1}{4/3}=\dfrac{3}{4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 533429)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\csc \theta = \dfrac{\sqrt{5}}{2}[/math] হলে, [math]2 \tan \theta[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত বাহু}} = \dfrac{\sqrt{5}}{2}[/math]
+⇒ অতিভুজ [math]= \sqrt{5}[/math]
+, বিপরীত বাহু [math]= 2[/math]
+⇒ সন্নিহিত বাহু [math]= \sqrt{5 - 4} = 1[/math]
+⇒ [math]\tan \theta = \dfrac{2}{1} = 2[/math]
+, তাই [math]2 \tan \theta = 4[/math]
+নির্ধারিত মান: [math]4[/math]
+
+
+Explanation:
+সমাধান: [math]\csc\theta=\dfrac{\sqrt5}{2}\Rightarrow \sin\theta=\dfrac{2}{\sqrt5}[/math]. তারপর [math]\cos\theta=\sqrt{1-\sin^2\theta}=\sqrt{1-\dfrac{4}{5}}=\dfrac{1}{\sqrt5}[/math], তাই [math]\tan\theta=\dfrac{\sin\theta}{\cos\theta}=2[/math] এবং অতএব [math]2\tan\theta=4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 533431)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\cot \theta \cdot \sqrt{1 - \cos^2 \theta}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sqrt{1 - \cos^2 \theta} = \sqrt{\sin^2 \theta} = \sin \theta[/math]
+⇒ [math]\cot \theta \cdot \sin \theta = \dfrac{\cos \theta}{\sin \theta} \cdot \sin \theta = \cos \theta[/math]
+নির্ধারিত মান: [math]\cos \theta[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\sqrt{1-\cos^2\theta}=[|\sin\theta|][/math] এবং [math]\cot\theta=\dfrac{\cos\theta}{\sin\theta}[/math], তাই যোগফলটি হয় [math]\dfrac{\cos\theta}{\sin\theta}\cdot|\sin\theta|=\cos\theta\cdot\operatorname{sgn}(\sin\theta)[/math]. ফলে এটি সমান [math]\cos\theta[/math] যখন [math]\sin\theta>0[/math] এবং [math]-\cos\theta[/math] যখন [math]\sin\theta<0[/math] (এবং [math]\sin\theta=0[/math] হলে [math]\cot\theta[/math] অনির্ধারিত)।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 533432)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\csc \theta + \cot \theta = \dfrac{3}{4}[/math] হয়, তবে [math]\cot \theta - \csc \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math]\csc^2 \theta - \cot^2 \theta = 1[/math]
+⇒ [math](\csc \theta + \cot \theta)(\csc \theta - \cot \theta) = 1[/math]
+⇒ [math]\dfrac{3}{4} \cdot (\csc \theta - \cot \theta) = 1[/math]
+⇒ [math]\csc \theta - \cot \theta = \dfrac{4}{3}[/math]
+⇒ [math]\cot \theta - \csc \theta = -\dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]-\dfrac{4}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: আমরা জানি [math]\csc^2\theta-\cot^2\theta=1[/math], তাই [math](\csc\theta+\cot\theta)(\csc\theta-\cot\theta)=1[/math]. যেহেতু [math]\csc\theta+\cot\theta=3/4[/math], তাই [math]\csc\theta-\cot\theta=1/(3/4)=4/3[/math], এবং ফলত [math]\cot\theta-\csc\theta=-4/3[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 533435)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+ফোগ নির্দেশ করে এমন একটি গ্রিক বর্ণ লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোণ নির্দেশ করে এমন ছয়টি গ্রিক বর্ণ হলো: আলফা (α), বিটা (β), গামা (γ), থিটা (θ), ফাই (φ), ওমেগা (ω)
+
+Explanation:
+উত্তর: φ (ফাই)।  
+ফাই (φ, Φ) গ্রিক বর্ণটি আধুনিক গ্রিক ভাষায় 'ফ' (/f/) ধ্বনি নির্দেশ করে, তাই এটি "ফোগ" নির্দেশ করতে উপযুক্ত।
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 533436)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\cos^2 \theta - \sin^2 \theta = \dfrac{5}{6}[/math] হলে, [math]\cos^4 \theta - \sin^4 \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত: [math]\cos^2 \theta - \sin^2 \theta = \dfrac{5}{6}[/math]
+⇒ [math]\cos^4 \theta - \sin^4 \theta = (\cos^2 \theta)^2 - (\sin^2 \theta)^2[/math]
+ [math]= (\cos^2 \theta + \sin^2 \theta)(\cos^2 \theta - \sin^2 \theta)[/math]
+ [math]= (1)\left(\dfrac{5}{6}\right) = \dfrac{5}{6}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]\cos^4\theta-\sin^4\theta=(\cos^2\theta-\sin^2\theta)(\cos^2\theta+\sin^2\theta)[/math] এবং [math]\cos^2\theta+\sin^2\theta=1[/math], তাই [math]\cos^4\theta-\sin^4\theta=\dfrac{5}{6}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 533438)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\sec^2 \theta + \csc^2 \theta = \sec^2 \theta \cdot \csc^2 \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ: [math]\sec^2 \theta + \csc^2 \theta = \dfrac{1}{\cos^2 \theta} + \dfrac{1}{\sin^2 \theta}[/math]
+⇒ [math]\dfrac{\sin^2 \theta + \cos^2 \theta}{\cos^2 \theta \cdot \sin^2 \theta} = \dfrac{1}{\cos^2 \theta \cdot \sin^2 \theta}[/math]
+⇒ [math]\sec^2 \theta \cdot \csc^2 \theta[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: ব্যবহার করি [math]\sec\theta=\dfrac{1}{\cos\theta}[/math] ও [math]\csc\theta=\dfrac{1}{\sin\theta}[/math]; তাহলে
+[math]\sec^2\theta+\csc^2\theta=\dfrac{1}{\cos^2\theta}+\dfrac{1}{\sin^2\theta}=\dfrac{\sin^2\theta+\cos^2\theta}{\sin^2\theta\cos^2\theta}=\dfrac{1}{\sin^2\theta\cos^2\theta}=\dfrac{1}{\cos^2\theta}\cdot\dfrac{1}{\sin^2\theta}=\sec^2\theta\csc^2\theta[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 533439)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\cot^2 A - \cos^2 A = \cot^2 A \cdot \cos^2 A[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ: [math]\cot^2 A - \cos^2 A[/math]
+⇒ [math]\dfrac{\cos^2 A}{\sin^2 A} - \cos^2 A = \dfrac{\cos^2 A - \cos^2 A \sin^2 A}{\sin^2 A}[/math]
+⇒ [math]\dfrac{\cos^2 A(1 - \sin^2 A)}{\sin^2 A} = \dfrac{\cos^2 A \cdot \cos^2 A}{\sin^2 A}[/math]
+⇒ [math]\cot^2 A \cdot \cos^2 A[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: [math]\cot^2 A=\frac{\cos^2 A}{\sin^2 A}[/math]। তাই
+[math]\cot^2 A-\cos^2 A=\frac{\cos^2 A}{\sin^2 A}-\cos^2 A=\cos^2 A\left(\frac{1}{\sin^2 A}-1\right)=\cos^2 A\cdot\frac{1-\sin^2 A}{\sin^2 A}=\cos^2 A\cdot\frac{\cos^2 A}{\sin^2 A}=\cot^2 A\cdot\cos^2 A[/math], যা প্রমাণ করে সমীকরণটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 533441)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]\sin \theta \sqrt{1 + \tan^2 \theta} = \tan \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin \theta \sqrt{1 + \tan^2 \theta} = \sin \theta \cdot \sqrt{\sec^2 \theta} = \sin \theta \cdot \sec \theta = \dfrac{\sin \theta}{\cos \theta} = \tan \theta[/math]প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: কারণ [math]1+\tan^2\theta=\sec^2\theta[/math], তাই [math]\sqrt{1+\tan^2\theta}=\sqrt{\sec^2\theta}=|\sec\theta|[/math]. ফলে বামপাশটি হচ্ছে [math]\sin\theta\,|\sec\theta|=|\tan\theta|[/math], যা সমান হবে [math]\tan\theta[/math] হলে যখন [math]\tan\theta\ge0[/math] (অর্থাৎ [math]\sin\theta[/math] ও [math]\cos\theta[/math] একই চিহ্নে)।
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 533442)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+ত্রিকোণমিতিক অনুপাতগুলোর মধ্যে সম্পর্ক লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ত্রিকোণমিতিক অনুপাত ৬টি। এগুলোর মধ্যে পরস্পর সম্পর্ক নিচে দেওয়া হলো:[math]\sin \theta = \dfrac{1}{\csc \theta}[/math]
+, অথবা [math]\csc \theta = \dfrac{1}{\sin \theta}[/math]
+ [math]\cos \theta = \dfrac{1}{\sec \theta}[/math]
+, অথবা [math]\sec \theta = \dfrac{1}{\cos \theta}[/math]
+ [math]\tan \theta = \dfrac{1}{\cot \theta}[/math]
+, অথবা [math]\tan \theta = \dfrac{\sin \theta}{\cos \theta}[/math]
+ [math]\cot \theta = \dfrac{1}{\tan \theta}[/math]
+, অথবা [math]\cot \theta = \dfrac{\cos \theta}{\sin \theta}[/math]
+
+
+Explanation:
+প্রধান সম্পর্কগুলো: [math]\sin^2\theta+\cos^2\theta=1[/math], [math]\tan\theta=\dfrac{\sin\theta}{\cos\theta}[/math], [math]\cot\theta=\dfrac{\cos\theta}{\sin\theta}[/math], [math]\sec\theta=\dfrac{1}{\cos\theta}[/math], [math]\csc\theta=\dfrac{1}{\sin\theta}[/math], [math]1+\tan^2\theta=\sec^2\theta[/math], [math]1+\cot^2\theta=\csc^2\theta[/math], এবং সহসম্পর্কগুলোর মতো [math]\sin(90^\circ-\theta)=\cos\theta[/math], [math]\cos(90^\circ-\theta)=\sin\theta[/math].  
+এই সব সম্পর্ক দ্বি-কোণিক ত্রিভুজ বা একক বৃত্তে কোণগুলোর সংজ্ঞা ও পিথাগোরাসের সূত্র থেকে সরাসরি প্রাপ্ত।
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 533444)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+কোণের ত্রিকোণমিতিক অনুপাতগুলো লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin \theta = \dfrac{\text{বিপরীত বাহু}}{\text{অতিভুজ}}[/math]
+ [math]\cos \theta = \dfrac{\text{সন্নিহিত বাহু}}{\text{অতিভুজ}}[/math]
+ [math]\tan \theta = \dfrac{\text{বিপরীত বাহু}}{\text{সন্নিহিত বাহু}}[/math]
+ [math]\cot \theta = \dfrac{\text{সন্নিহিত বাহু}}{\text{বিপরীত বাহু}}[/math]
+ [math]\sec \theta = \dfrac{\text{অতিভুজ}}{\text{সন্নিহিত বাহু}}[/math]
+ [math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত বাহু}}[/math]
+
+
+Explanation:
+একটি সমকোণী ত্রিভুজে কোনো কোণ [math]\theta[/math] হলে এবং বিপরীত বাহু, পার্শ্ব (पास) ও হাইপোতেনিউজ যথাক্রমে ধরা হলে: [math]\sin\theta=\frac{\text{বিপরীত}}{\text{হাইপোতেনিউজ}},\ \cos\theta=\frac{\text{পার্শ্ব}}{\text{হাইপোতেনিউজ}},\ \tan\theta=\frac{\text{বিপরীত}}{\text{পার্শ্ব}}।[/math] তাদের প্রতিফলকগুলো হলো: [math]\csc\theta=\frac{\text{হাইপোতেনিউজ}}{\text{বিপরীত}},\ \sec\theta=\frac{\text{হাইপোতেনিউজ}}{\text{পার্শ্ব}},\ \cot\theta=\frac{\text{পার্শ্ব}}{\text{বিপরীত}}।
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 533445)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]P = \sin A[/math], [math]Q = \cos A[/math], [math]R = \tan A[/math] হলে, দেখাও যে [math]\dfrac{1}{P^2} - \dfrac{1}{R^2} = 1[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{1}{P^2} - \dfrac{1}{R^2} = \dfrac{1}{\sin^2 A} - \dfrac{1}{\tan^2 A}[/math]
+ [math]= \csc^2 A - \cot^2 A = 1[/math]
+ (পরিচিত সূত্র)প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: প্রতিস্থাপন করে সরাসরি পাওয়া যায় [math]\dfrac{1}{P^2}-\dfrac{1}{R^2}=\dfrac{1}{\sin^2 A}-\dfrac{1}{\tan^2 A}=\dfrac{1}{\sin^2 A}-\dfrac{\cos^2 A}{\sin^2 A}=\dfrac{1-\cos^2 A}{\sin^2 A}=\dfrac{\sin^2 A}{\sin^2 A}=1[/math].  
+এখানে আমরা [math]1-\cos^2 A=\sin^2 A[/math] ত্রিকোণমিতিক পরিচয়টি ব্যবহার করেছি।
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 533447)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]m = \sin \theta[/math] এবং [math]n = \cos \theta[/math] হলে, প্রমাণ কর যে [math]\sqrt{\dfrac{1 - m}{1 + m}} = \sec \theta - \tan \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m = \sin \theta[/math]
+⇒ [math]\sqrt{\dfrac{1 - \sin \theta}{1 + \sin \theta}}[/math]
+বামপক্ষকে রেশনালাইজ করি:[math]= \sqrt{\dfrac{(1 - \sin \theta)^2}{1 - \sin^2 \theta}} = \dfrac{1 - \sin \theta}{\sqrt{\cos^2 \theta}} = \dfrac{1 - \sin \theta}{\cos \theta}[/math]
+ [math]= \dfrac{1}{\cos \theta} - \dfrac{\sin \theta}{\cos \theta} = \sec \theta - \tan \theta[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: [math]m=\sin\theta[/math] বসিয়ে প্রথম অভিব্যক্তিটি লিখলে পাওয়া যায় [math]\sqrt{\dfrac{1-\sin\theta}{1+\sin\theta}}[/math] এবং ভগ্নাংশের উপরি ও নীচকে [math](1-\sin\theta)[/math] দিয়ে গুণ করলে আমরা পাই [math]\sqrt{\dfrac{(1-\sin\theta)^2}{1-\sin^2\theta}}=\sqrt{\dfrac{(1-\sin\theta)^2}{\cos^2\theta}}[/math]. তাই শূণ্যাতীর্কে ধনাত্মক শাখা নেওলে এটি সমান [math]\dfrac{1-\sin\theta}{\cos\theta}=\sec\theta-\tan\theta[/math] (এখানে [math]\cos\theta>0[/math] ধরে নেওয়া হয়েছে)।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 533449)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]5 \sin A = 3[/math] হলে, [math]\tan A[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin A = \dfrac{3}{5}[/math]
+⇒ বিপরীত বাহু [math]= 3[/math]
+, অতিভুজ [math]= 5[/math]
+⇒ সন্নিহিত বাহু [math]= \sqrt{25 - 9} = 4[/math]
+⇒ [math]\tan A = \dfrac{বিপরীত}{সন্নিহিত} = \dfrac{3}{4}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{4}[/math]
+
+
+Explanation:
+[math]5\sin A=3[/math] থেকে [math]\sin A=3/5[/math] পাওয়া যায়; তাই [math]\cos A=\sqrt{1-\sin^2 A}=\sqrt{1-(3/5)^2}=\sqrt{16/25}=4/5[/math]. ফলে [math]\tan A=\dfrac{\sin A}{\cos A}=\dfrac{3/5}{4/5}=\dfrac{3}{4}; (যদি A-এর কোসাইন নেতিবাচক হয় তবে [math]\tan A=-3/4)।
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 533451)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle PMN[/math] থেকে [math]\cos P[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]PM^2 = MN^2 + NP^2 = 1^2 + (\sqrt{3})^2 = 1 + 3 = 4[/math]
+⇒ [math]PM = \sqrt{4} = 2[/math]
+ [math]NP = \sqrt{3}[/math]
+⇒ [math]\cos P = \dfrac{NP}{PM} = \dfrac{\sqrt{3}}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{\sqrt{3}}{2}[/math]
+
+
+Explanation:
+সাধারণ ত্রিভুজে কোণ P-এর cos নির্ণয়ের জন্য Law of Cosines প্রয়োগ করলে পাওয়া যায় [math]\cos P=\dfrac{PM^2+PN^2-MN^2}{2\cdot PM\cdot PN}[/math]. এই সূত্রটি তিনটি বাহুর দৈর্ঘ্যের সম্পর্ক থেকে কোণের কসম পাওয়া যায়—তাই তিন বাহুর দৈর্ঘ্য জানা থাকলে সরাসরি [math]\cos P[/math] নির্ণয় করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 533452)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] তে [math]\angle B = 90^\circ[/math], [math]AB = 3[/math], [math]BC = 4[/math] হলে, [math]\sin C[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]AB = 3[/math]
+, [math]BC = 4[/math]
+⇒ [math]AC = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5[/math]
+⇒ [math]\sin C = \dfrac{AB}{AC} = \dfrac{3}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]B=90^\circ[/math] হওয়ায় [math]AC=\sqrt{AB^2+BC^2}=\sqrt{3^2+4^2}=5[/math]. কোণ C-এর জন্য বিপরীত পাশ AB হওয়ায় [math]\sin C=\dfrac{AB}{AC}=\dfrac{3}{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 533454)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] এ, [math]\angle B = 90^\circ[/math] এবং [math]\tan \theta = \dfrac{1}{\sqrt{3}}[/math] হলে, [math]AC[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan \theta = \dfrac{\text{BC}}{\text{AB}} = \dfrac{1}{\sqrt{3}}[/math]
+, AB = [math]\sqrt{3}[/math]
+BC = [math]1[/math]
+⇒ [math]AC^2 = AB^2 + BC^2 = (\sqrt{3})^2 + 1^2 = 3 + 1 = 4[/math]
+⇒ [math]AC = \sqrt{4} = 2[/math]
+নির্ধারিত মান: [math]2[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan\theta=\dfrac{1}{\sqrt{3}}[/math] হলে [math]\theta=30^\circ[/math]. একটি [math]30^\circ\!-\!60^\circ\!-\!90^\circ[/math] ত্রিভুজে হাইপোতেনিউজ (অর্থাৎ [math]AC[/math]) ছোট বাহুর দুই গুণ, তাই [math]AC=2\times(\text{30°-এর বিপরীত বাহু})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 531916)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = x[/math] হলে, [math]\sec^2 A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math]\tan A = x[/math]
+⇒ [math]\tan^2 A = x^2[/math]
+⇒ [math]\sec^2 A = 1 + \tan^2 A = x^2 + 1[/math]
+নির্ধারিত মান: [math]x^2 + 1[/math]
+
+
+Explanation:
+ব্যাখ্যা: ত্রিকোণমিতির পরিচিত পরিচয় অনুযায়ী [math]1+\tan^2 A=\sec^2 A[/math]; তাই [math]\tan A=x[/math] হলে [math]\sec^2 A=1+x^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 531917)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{a}{b}[/math] হলে, [math]\cot A + \tan A[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\cot A = \dfrac{1}{\tan A} = \dfrac{b}{a}[/math]
+⇒ [math]\cot A + \tan A = \dfrac{b}{a} + \dfrac{a}{b}[/math]
+⇒ [math]\dfrac{b^2 + a^2}{ab} = \dfrac{a^2 + b^2}{ab}[/math]
+নির্ধারিত মান: [math]\dfrac{a^2 + b^2}{ab}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math]\tan A=\dfrac{a}{b}[/math], তাই [math]\cot A=\dfrac{1}{\tan A}=\dfrac{b}{a}[/math]; ফলে [math]\cot A+\tan A=\dfrac{b}{a}+\dfrac{a}{b}=\dfrac{a^2+b^2}{ab}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 531918)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{4}{3}[/math] হলে, [math]A[/math] কোণের অন্যান্য ত্রিকোণমিতিক অনুপাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{4}{3}[/math]
+⇒ বিপরীত বাহু [math]= 4[/math]
+, সন্নিহিত বাহু [math]= 3[/math]
+⇒ অতিভুজ [math]= \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5[/math]
+⇒ [math]\sin A = \dfrac{4}{5}[/math]
+, [math]\cos A = \dfrac{3}{5}[/math]
+⇒ [math]\cot A = \dfrac{1}{\tan A} = \dfrac{3}{4}[/math]
+⇒ [math]\sec A = \dfrac{1}{\cos A} = \dfrac{5}{3}[/math]
+⇒ [math]\csc A = \dfrac{1}{\sin A} = \dfrac{5}{4}[/math]
+নির্ধারিত অনুপাতসমূহ:[math]\sin A = \dfrac{4}{5}[/math]
+, [math]\cos A = \dfrac{3}{5}[/math]
+, [math]\cot A = \dfrac{3}{4}[/math]
+, [math]\sec A = \dfrac{5}{3}[/math]
+, [math]\csc A = \dfrac{5}{4}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি সমকোণী ত্রিভুজে ধরে নেওয়া যাক বিপরীত ভাজা = 4 এবং পার্শ্বিক = 3; তাই হাইপোতেনিউজ [math]\sqrt{3^2+4^2}=\sqrt{25}=5[/math]. ফলে [math]\sin A=4/5,\ \cos A=3/5,\ \tan A=4/3,\ \cot A=3/4,\ \sec A=5/3,\ \csc A=5/4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 531919)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan A = \dfrac{3}{4}[/math] হলে, প্রমাণ কর [math]\sin A \cdot \cos A = \dfrac{12}{25}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{3}{4}[/math]
+⇒ [math]\tan^2 A = \dfrac{9}{16}[/math]
+⇒ [math]\sec^2 A = 1 + \tan^2 A = 1 + \dfrac{9}{16} = \dfrac{25}{16}[/math]
+⇒ [math]\sec A = \sqrt{\dfrac{25}{16}} = \dfrac{5}{4}[/math]
+⇒ [math]\cos A = \dfrac{1}{\sec A} = \dfrac{4}{5}[/math]
+⇒ [math]\sin A = \tan A \cdot \cos A = \dfrac{3}{4} \cdot \dfrac{4}{5} = \dfrac{3}{5}[/math]
+⇒ [math]\sin A \cdot \cos A = \dfrac{3}{5} \cdot \dfrac{4}{5} = \dfrac{12}{25}[/math]
+প্রমাণিত: [math]\sin A \cdot \cos A = \dfrac{12}{25}[/math]
+
+
+Explanation:
+কারণ [math]\tan A=\dfrac{3}{4}[/math] হলে একটি সমকোণী ত্রিভুজে বিপরীত ভাজক = 3, অনুচ্ছেদ (adjacent) = 4 ধরে হাইপোটেনিউস হবে [math]5[/math] (পিথাগোরাস), তাই [math]\sin A=\dfrac{3}{5}[/math] এবং [math]\cos A=\dfrac{4}{5}[/math]। ফলে [math]\sin A\cdot\cos A=\dfrac{3}{5}\cdot\dfrac{4}{5}=\dfrac{12}{25}[/math], যা প্রমাণ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #83 (ID: 531920)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\tan \theta = \dfrac{4}{5}[/math] হলে, [math]\dfrac{\csc \theta}{\cot \theta}[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan \theta = \dfrac{4}{5}[/math]
+⇒ বিপরীত বাহু [math]= 4[/math]
+, সন্নিহিত বাহু [math]= 5[/math]
+⇒ অতিভুজ [math]= \sqrt{4^2 + 5^2} = \sqrt{41}[/math]
+⇒ [math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত}} = \dfrac{\sqrt{41}}{4}[/math]
+⇒ [math]\cot \theta = \dfrac{\text{সন্নিহিত}}{\text{বিপরীত}} = \dfrac{5}{4}[/math]
+⇒ [math]\dfrac{\csc \theta}{\cot \theta} = \dfrac{\sqrt{41}/4}{5/4} = \dfrac{\sqrt{41}}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{\sqrt{41}}{5}[/math]
+
+
+Explanation:
+tan θ = [math]\dfrac{4}{5}[/math] হলে বিপরীত-পার্শ্ব = 4, আধারের পার্শ্ব = 5 ধরে হাইপোথেনিউজ [math]\sqrt{4^2+5^2}=\sqrt{41}[/math]. তাই [math]\csc\theta=\dfrac{\sqrt{41}}{4}[/math], [math]\cot\theta=\dfrac{5}{4}[/math] এবং [math]\dfrac{\csc\theta}{\cot\theta}=\dfrac{\sqrt{41}/4}{5/4}=\dfrac{\sqrt{41}}{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #84 (ID: 531921)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin A = \dfrac{4}{5}[/math] হলে, [math]\tan A[/math] এর মান নির্ণয় কর এবং [math]A[/math] সুস্পষ্ট কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin A = \dfrac{4}{5}[/math]
+⇒ [math]\sin^2 A = \dfrac{16}{25}[/math]
+⇒ [math]1 - \cos^2 A = \dfrac{16}{25}[/math]
+⇒ [math]\cos^2 A = 1 - \dfrac{16}{25} = \dfrac{9}{25}[/math]
+⇒ [math]\cos A = \sqrt{\dfrac{9}{25}} = \dfrac{3}{5}[/math]
+⇒ [math]\tan A = \dfrac{\sin A}{\cos A} = \dfrac{4/5}{3/5} = \dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]\dfrac{4}{3}[/math]
+
+
+Explanation:
+পাইথাগোরীয় পরিচয় থেকে, [math]\cos A=\pm\sqrt{1-\sin^2 A}=\pm\frac{3}{5}[/math], তাই [math]\tan A=\frac{\sin A}{\cos A}=\pm\frac{4}{3}[/math].  
+চিহ্ন কোয়ার্ডিন্যের উপর নির্ভর করে: যেহেতু [math]\sin A>0[/math], A প্রথম বা দ্বিতীয় কোয়ার্ডে হতে পারে, তাই A = [math]\arcsin\frac{4}{5}\approx53.13^\circ[/math] (এখানে [math]\tan A=4/3[/math]) অথবা A = [math]180^\circ-53.13^\circ\approx126.87^\circ[/math] (এখানে [math]\tan A=-4/3[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #85 (ID: 531922)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin 3B + \cos 3B = 1[/math] হলে, [math]2 \sin 3B \cdot \cos 3B[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\sin 3B + \cos 3B)^2 = 1^2 = 1[/math]
+⇒ [math]\sin^2 3B + \cos^2 3B + 2 \sin 3B \cos 3B = 1[/math]
+⇒ [math]1 + 2 \sin 3B \cos 3B = 1[/math]
+⇒ [math]2 \sin 3B \cos 3B = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+ব্যাখ্যা: বর্গ করলে [math](\sin 3B+\cos 3B)^2=\sin^2 3B+\cos^2 3B+2\sin 3B\cos 3B[/math]. বামপাশ [math]1^2=1[/math] এবং [math]\sin^2 3B+\cos^2 3B=1[/math] হওয়ায় [math]1=1+2\sin 3B\cos 3B[/math], ফলে [math]2\sin 3B\cos 3B=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #86 (ID: 531923)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sin \theta + \cos \theta = 1[/math] হলে, [math]3 \sin \theta \cos \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\sin \theta + \cos \theta)^2 = 1^2 = 1[/math]
+⇒ [math]\sin^2 \theta + \cos^2 \theta + 2 \sin \theta \cos \theta = 1[/math]
+⇒ [math]1 + 2 \sin \theta \cos \theta = 1[/math]
+⇒ [math]2 \sin \theta \cos \theta = 0[/math]
+⇒ [math]\sin \theta \cos \theta = 0[/math]
+⇒ [math]3 \sin \theta \cos \theta = 3 \cdot 0 = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](\sin\theta+\cos\theta)^2=1^2[/math] থেকে [math]\sin^2\theta+\cos^2\theta+2\sin\theta\cos\theta=1[/math]. কিন্তু [math]\sin^2\theta+\cos^2\theta=1[/math] হওয়ায় [math]2\sin\theta\cos\theta=0[/math], অতএব [math]3\sin\theta\cos\theta=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #87 (ID: 531924)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\sec \theta = ৩[/math] হলে, [math]\tan \theta[/math] এর মান নির্ণয় কর (যেখানে [math]\tan \theta > 0[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sec \theta = 3[/math]
+ ⇒ [math]\sec^2 \theta = 9[/math]
+⇒ [math]1 + \tan^2 \theta = 9[/math]
+⇒ [math]\tan^2 \theta = 9 - 1 = 8[/math]
+⇒ [math]\tan \theta = \sqrt{8} = 2\sqrt{2}[/math]
+নির্ধারিত মান: [math]2\sqrt{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]\sec\theta=3[/math] হলে [math]\cos\theta=\tfrac{1}{3}[/math]। পরিচিতি [math]\tan^2\theta=\sec^2\theta-1[/math] ব্যবহার করে [math]\tan^2\theta=9-1=8[/math], তাই [math]\tan\theta=±2\sqrt{2} এবং শর্ত [math]\tan\theta>0[/math] অনুযায়ী [math]\tan\theta=2\sqrt{2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #88 (ID: 531925)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{\tan A}{\sec A + 1} - \dfrac{\sec A - 1}{\tan A}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+উভয় অংশকে [math]\dfrac{\sin A}{\cos A}[/math]
+ ও [math]\dfrac{1}{\cos A}[/math]
+ রূপে প্রকাশ করে:[math]\dfrac{\sin A}{\cos A(\dfrac{1}{\cos A} + 1)} - \dfrac{\dfrac{1}{\cos A} - 1}{\dfrac{\sin A}{\cos A}}[/math]
+সরল করলে পাই:[math]\dfrac{\sin A}{\cos A + 1} - \dfrac{1 - \cos A}{\sin A}[/math]
+⇒ [math]\dfrac{\sin^2 A - (1 - \cos^2 A)}{\sin A (\cos A + 1)} = \dfrac{0}{\sin A (\cos A + 1)} = 0[/math]
+নির্ধারিত মান: [math]0[/math]
+
+
+Explanation:
+প্রথম অংশকে [math]\sec A-1[/math] দ্বারা গুণ ভাগ করলে দেখা যায়: [math]\dfrac{\tan A}{\sec A+1}=\dfrac{\tan A(\sec A-1)}{(\sec A+1)(\sec A-1)}=\dfrac{\tan A(\sec A-1)}{\sec^2 A-1}=\dfrac{\tan A(\sec A-1)}{\tan^2 A}=\dfrac{\sec A-1}{\tan A}[/math]. তাই প্রদত্ত অভিব্যক্তিটি হল [math]\dfrac{\sec A-1}{\tan A}-\dfrac{\sec A-1}{\tan A}=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #89 (ID: 531926)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\csc \theta = \dfrac{5}{3}[/math] হলে, [math]\sec \theta[/math] ও [math]\cot \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত: [math]\csc \theta = \dfrac{5}{3}[/math]
+⇒ [math]\dfrac{1}{\sin \theta} = \dfrac{5}{3}[/math]
+⇒ [math]\sin \theta = \dfrac{3}{5}[/math]
+আমরা জানি, [math]\cos^2 \theta = 1 - \sin^2 \theta[/math]
+⇒ [math]\cos^2 \theta = 1 - \left(\dfrac{3}{5}\right)^2 = 1 - \dfrac{9}{25} = \dfrac{16}{25}[/math]
+⇒ [math]\cos \theta = \sqrt{\dfrac{16}{25}} = \dfrac{4}{5}[/math]
+⇒ [math]\sec \theta = \dfrac{1}{\cos \theta} = \dfrac{1}{4/5} = \dfrac{5}{4}[/math]
+⇒ [math]\cot \theta = \dfrac{\cos \theta}{\sin \theta} = \dfrac{4/5}{3/5} = \dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]\sec \theta = \dfrac{5}{4}[/math]
+ এবং [math]\cot \theta = \dfrac{4}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\csc\theta=\dfrac{5}{3}[/math] হলে [math]\sin\theta=\dfrac{3}{5}[/math]। তাই [math]\cos\theta=\pm\sqrt{1-\sin^2\theta}=\pm\dfrac{4}{5}[/math], ফলে [math]\sec\theta=\dfrac{1}{\cos\theta}=\pm\dfrac{5}{4}[/math] এবং [math]\cot\theta=\dfrac{\cos\theta}{\sin\theta}=\pm\dfrac{4}{3}[/math]। এখানে চিহ্ন নির্ভর করে কোণা কোন চতুর্ভাগে—QI-এ সেগুলো ধনাত্মক, QII-এ রাশ্মাত্মক।
+
+Sub-Questions:
+
+================================================================================
+Question #90 (ID: 531927)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\csc \theta = \dfrac{\sqrt{5}}{2}[/math] হলে, [math]2 \tan \theta[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত বাহু}} = \dfrac{\sqrt{5}}{2}[/math]
+⇒ অতিভুজ [math]= \sqrt{5}[/math]
+, বিপরীত বাহু [math]= 2[/math]
+⇒ সন্নিহিত বাহু [math]= \sqrt{5 - 4} = 1[/math]
+⇒ [math]\tan \theta = \dfrac{2}{1} = 2[/math]
+, তাই [math]2 \tan \theta = 4[/math]
+নির্ধারিত মান: [math]4[/math]
+
+
+Explanation:
+[math]\csc\theta=\dfrac{\sqrt5}{2}[/math] থেকে [math]\sin\theta=\dfrac{2}{\sqrt5}[/math] । তাই [math]\cos\theta=\pm\sqrt{1-\sin^2\theta}=\pm\dfrac{1}{\sqrt5}[/math], ফলে [math]\tan\theta=\dfrac{\sin\theta}{\cos\theta}=\pm2[/math] এবং অতএব [math]2\tan\theta=\pm4[/math] (কোয়াড্র্যান্ট অনুযায়ী চিহ্ন নির্ণীত হবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #91 (ID: 531928)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\cot \theta \cdot \sqrt{1 - \cos^2 \theta}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sqrt{1 - \cos^2 \theta} = \sqrt{\sin^2 \theta} = \sin \theta[/math]
+⇒ [math]\cot \theta \cdot \sin \theta = \dfrac{\cos \theta}{\sin \theta} \cdot \sin \theta = \cos \theta[/math]
+নির্ধারিত মান: [math]\cos \theta[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\sqrt{1-\cos^2\theta}=|\sin\theta|[/math], তাই [math]\cot\theta\cdot\sqrt{1-\cos^2\theta}=\frac{\cos\theta}{\sin\theta}\cdot|\sin\theta|=\cos\theta\cdot\operatorname{sgn}(\sin\theta)[/math]; অর্থাৎ [math]\cos\theta[/math] যদি [math]\sin\theta\ge0[/math] এবং [math]-\cos\theta[/math] যদি [math]\sin\theta<0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #92 (ID: 531929)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\cos^2 \theta - \sin^2 \theta = \dfrac{5}{6}[/math] হলে, [math]\cos^4 \theta - \sin^4 \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত: [math]\cos^2 \theta - \sin^2 \theta = \dfrac{5}{6}[/math]
+⇒ [math]\cos^4 \theta - \sin^4 \theta = (\cos^2 \theta)^2 - (\sin^2 \theta)^2[/math]
+ [math]= (\cos^2 \theta + \sin^2 \theta)(\cos^2 \theta - \sin^2 \theta)[/math]
+ [math]= (1)\left(\dfrac{5}{6}\right) = \dfrac{5}{6}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\cos^4\theta-\sin^4\theta=(\cos^2\theta-\sin^2\theta)(\cos^2\theta+\sin^2\theta)[/math] এবং [math]\cos^2\theta+\sin^2\theta=1[/math] হওয়ায় [math]\cos^4\theta-\sin^4\theta=\cos^2\theta-\sin^2\theta=5/6[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #93 (ID: 531930)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভূজের অতিভুজ, বিপরীত বাহু ও সন্নিহিত বাহুর সংজ্ঞা দাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমকোণী ত্রিভূজের বৃহত্তম বাহু যা সমকোণের বিপরীত পাশে অবস্থিত তাকে অতিভুজ বলে।সমকোণী ত্রিভূজের প্রদত্ত সূক্ষ্মকোণের বিপরীত যে বাহু থাকে তাকে বিপরীত বাহু বলে।প্রদত্ত সূক্ষ্মকোণ সৃষ্টিকারী রেখাংশকে সন্নিহিত বাহু বলে।
+
+Explanation:
+ব্যাখ্যা: সমকোণী ত্রিভুজে 90° কোণের বিরুদ্ধে থাকা বাহুটিকে অতিভুজ বলা হয় এবং এটি সাধারণত ত্রিভুজের সবচেয়ে বড় বাহু। কোনও একটি তীক্ষ্ণ কোণ নিতে, সেই কোণের ঠিক বিপরীতে থাকা বাহুকে বিপরীত বাহু বলা হয় এবং সেই কোণের সাথে যুক্ত কিন্তু অতিভুজ না এমন বাহুকে সন্নিহিত বাহু বলা হয়। উদাহরণস্বরূপ, যদি C-তে সমকোণ থাকে এবং কোণ A বিবেচনা করা হয়, তবে AB অতিভুজ, BC A‑এর বিপরীত বাহু এবং AC A‑এর সন্নিহিত বাহু।
+
+Sub-Questions:
+
+================================================================================
+Question #94 (ID: 531931)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভূজের অতিভুজ, বিপরীত বাবু ও সন্নিহিত বাবুর সংজ্ঞা দাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমকোণী ত্রিভূজের বৃহত্তম বাহু যা সমকোণের বিপরীত পাশে অবস্থিত তাকে অতিভুজ বলে।
+
+সমকোণী ত্রিভূজের প্রদত্ত সূক্ষ্মকোণের বিপরীত যে বাহু থাকে তাকে বিপরীত বাহু বলে।
+
+প্রদত্ত সূক্ষ্মকোণ সৃষ্টিকারী রেখাংশকে সন্নিহিত বাহু বলে।
+
+Explanation:
+ক অতিভুজ: সমকোণী ত্রিভূজে [math]90^\circ[/math] কোণটির বিপরীতে থাকা পাশটিকে অতিভুজ বলে এবং এটি সর্বদা সবচেয়ে দীর্ঘ পাশ।  
+খ বিপরীত বাবু: কোনো একটি তীক্ষ্ণ কোণের বিরুদ্ধে থাকা পাশটিকে সেই কোণের বিপরীত বাবু বলে।  
+গ সন্নিহিত বাবু: একই তীক্ষ্ণ কোণের পাশে থাকা এবং অতিভুজ নয় এমন পাশটিকে সন্নিহিত বাবু বলে; অর্থাৎ বিপরীত ও সন্নিহিত নামগুলো নির্ভর করে আপনি কোন কোণটি ধরছেন তার ওপর।
+
+Sub-Questions:
+
+================================================================================
+Question #95 (ID: 531932)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সমকোণী ত্রিভুজের লম্ব [math]৫[/math], অতিভুজ [math]১৩[/math] হলে ভূমি কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+পিথাগোরাস সূত্র অনুযায়ী,[math]c^2 = a^2 + b^2[/math]
+এখানে, [math]c = ১৩[/math]
+, [math]a = ৫[/math]
+অতএব,[math]১৩^2 = ৫^2 + b^2[/math]
+ [math]১৬৯ = ২৫ + b^2[/math]
+ [math]b^2 = ১৬৯ - ২৫ = ১৪৪[/math]
+ [math]b = \sqrt{১৪৪} = ১২[/math]
+অতএব, ভূমি [math]= ১২[/math]
+
+
+Explanation:
+সমকোণী ত্রিভুজে পিথাগোরাস সূত্র অনুযায়ী [math](ভূমি)^2+(লম্ব)^2=(অতিভুজ)^2[/math]. তাই ভূমি = [math]\sqrt{13^2-5^2}=\sqrt{169-25}=\sqrt{144}=12[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #96 (ID: 531933)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan B = \dfrac{5}{12}[/math] হয়, তবে [math]\sin B[/math] এর মান নির্ণয় কর এবং দেখাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan B = \dfrac{5}{12}[/math]
+অর্থাৎ বিপরীত বাহু [math]= ৫[/math]
+, সন্নিহিত বাহু [math]= ১২[/math]
+⇒ অতিভুজ [math]= \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13[/math]
+⇒ [math]\sin B = \dfrac{\text{বিপরীত বাহু}}{\text{অতিভুজ}} = \dfrac{5}{13}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{13}[/math]
+
+
+Explanation:
+যদি [math]\tan B=\dfrac{5}{12}[/math], তাহলে বিপরীত বাহু = 5 ও সংলগ্ন বাহু = 12 ধরা গেলে হাইপোটেনিউজ হবে [math]\sqrt{5^2+12^2}=\sqrt{169}=13[/math]. তাই [math]\sin B=\dfrac{\text{বিপরীত}}{\text{হাইপোটেনিউজ}}=\dfrac{5}{13}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #97 (ID: 531934)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan A = \dfrac{4}{3}[/math] হয়, তাহলে [math]\sqrt{\dfrac{1 - \sin^2 A}{\sin^2 A}}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan A = \dfrac{4}{3}[/math]
+⇒ [math]\dfrac{1 - \sin^2 A}{\sin^2 A} = \dfrac{\cos^2 A}{\sin^2 A}[/math]
+⇒ [math]\sqrt{\dfrac{\cos^2 A}{\sin^2 A}} = \dfrac{\cos A}{\sin A} = \cot A[/math]
+⇒ [math]\cot A = \dfrac{1}{\tan A} = \dfrac{1}{4/3} = \dfrac{3}{4}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{4}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\sqrt{\dfrac{1-\sin^2 A}{\sin^2 A}}=\sqrt{\dfrac{\cos^2 A}{\sin^2 A}}=|\,\cot A\,|[/math]. যেহেতু [math]\tan A=\dfrac{4}{3}[/math] হলে [math]\cot A=\dfrac{3}{4}[/math] এবং ঘনমূল ধনাত্মক মান নেয়, তাই মান [math]\dfrac{3}{4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #98 (ID: 531935)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\tan A = \dfrac{3}{4}[/math] হয়, তবে [math]\sin A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math]\tan A = \dfrac{3}{4}[/math]
+তবে [math]\tan^2 A = \left(\dfrac{3}{4}\right)^2 = \dfrac{9}{16}[/math]
+তাহলে, [math]\sec^2 A = 1 + \tan^2 A = 1 + \dfrac{9}{16} = \dfrac{25}{16}[/math]
+আবার, [math]\sec^2 A = \dfrac{1}{\cos^2 A} \Rightarrow \cos^2 A = \dfrac{16}{25}[/math]
+তাহলে, [math]1 - \sin^2 A = \dfrac{16}{25}[/math]
+⇒ [math]\sin^2 A = 1 - \dfrac{16}{25} = \dfrac{9}{25}[/math]
+⇒ [math]\sin A = \sqrt{\dfrac{9}{25}} = \dfrac{3}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যদি [math]\tan A=\dfrac{3}{4}[/math] এবং A একটি তীক্ষ্ণ কোণ ধরা হয়, তাহলে বিপরীত পার্শ্ব = 3, পার্শ্বীয় = 4 এবং হাইপোটেনিউজ = [math]\sqrt{3^2+4^2}=5[/math]; তাই [math]\sin A=\dfrac{\text{বিপরীত}}{\text{হাইপোটেনিউজ}}=\dfrac{3}{5}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #99 (ID: 531936)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec A + \tan A = \dfrac{5}{2}[/math] হয়, তবে [math]\sec A - \tan A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](\sec A + \tan A)(\sec A - \tan A) = 1[/math]
+⇒ [math]\dfrac{5}{2} \cdot (\sec A - \tan A) = 1[/math]
+⇒ [math]\sec A - \tan A = \dfrac{1}{5/2} = \dfrac{2}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{2}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ব্যবহার করুন [math]\sec^2A-\tan^2A=1[/math], তাই [math](\sec A+\tan A)(\sec A-\tan A)=1[/math]. দেওয়া [math]\sec A+\tan A=\dfrac{5}{2}[/math] হলে [math]\sec A-\tan A=\dfrac{1}{5/2}=\dfrac{2}{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #100 (ID: 531937)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec A - \tan A = \dfrac{2}{5}[/math] হয়, তবে [math]\sec A + \tan A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, [math](\sec A + \tan A)(\sec A - \tan A) = 1[/math]
+⇒ [math](\sec^2 A - \tan^2 A) = 1[/math]
+⇒ [math]1 = \dfrac{2}{5} \cdot (\sec A + \tan A)[/math]
+⇒ [math]\sec A + \tan A = \dfrac{1}{2/5} = \dfrac{5}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{5}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\sec A+\tan A)(\sec A-\tan A)=\sec^2 A-\tan^2 A=1[/math], তাই [math]\sec A+\tan A=\dfrac{1}{\sec A-\tan A}[/math]. প্রদত্ত অনুযায়ী [math]\sec A-\tan A=\dfrac{2}{5}[/math] হলে [math]\sec A+\tan A=\dfrac{1}{2/5}=\dfrac{5}{2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #101 (ID: 531938)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec \theta = \dfrac{3}{2\sqrt{2}}[/math] হয়, তবে [math]\cot \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sec \theta = \dfrac{3}{2\sqrt{2}}[/math]
+⇒ [math]\sec^2 \theta = \left(\dfrac{3}{2\sqrt{2}}\right)^2 = \dfrac{9}{8}[/math]
+⇒ [math]\tan^2 \theta = \sec^2 \theta - 1 = \dfrac{9}{8} - 1 = \dfrac{1}{8}[/math]
+⇒ [math]\tan \theta = \dfrac{1}{\sqrt{8}}[/math]
+⇒ [math]\cot \theta = \dfrac{1}{\tan \theta} = \sqrt{8} = 2\sqrt{2}[/math]
+নির্ধারিত মান: [math]2\sqrt{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]\sec\theta=\dfrac{3}{2\sqrt{2}}[/math], তাই [math]\cos\theta=\dfrac{2\sqrt{2}}{3}[/math]. এরপর [math]\sin\theta=\pm\sqrt{1-\cos^2\theta}=\pm\dfrac{1}{3}</math] এবং তাই [math]\cot\theta=\dfrac{\cos\theta}{\sin\theta}=\pm 2\sqrt{2}</math]; সংকেতটি কোয়াড্রান্টের ওপর নির্ভর করে।
+
+Sub-Questions:
+
+================================================================================
+Question #102 (ID: 531939)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\sec \theta + \tan \theta = \dfrac{7}{2}[/math] হয়, তবে [math]\tan \theta - \sec \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](\sec \theta + \tan \theta)(\sec \theta - \tan \theta) = 1[/math]
+⇒ [math]\dfrac{7}{2} \cdot (\sec \theta - \tan \theta) = 1[/math]
+⇒ [math]\sec \theta - \tan \theta = \dfrac{2}{7}[/math]
+⇒ [math]\tan \theta - \sec \theta = -\dfrac{2}{7}[/math]
+নির্ধারিত মান: [math]-\dfrac{2}{7}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math](\sec\theta+\tan\theta)(\sec\theta-\tan\theta)=\sec^2\theta-\tan^2\theta=1[/math], তাই [math]\sec\theta-\tan\theta=\dfrac{1}{\sec\theta+\tan\theta}=\dfrac{2}{7}[/math]. অতএব [math]\tan\theta-\sec\theta=-\dfrac{2}{7}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #103 (ID: 531940)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\dfrac{\sec x + \tan x}{\sec x - \tan x} = 3[/math] হয়, তবে [math]\sin x[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{1 + \sin x}{1 - \sin x} = 3[/math]
+⇒ [math]1 + \sin x = 3(1 - \sin x)[/math]
+⇒ [math]1 + \sin x = 3 - 3 \sin x[/math]
+⇒ [math]4 \sin x = 2[/math]
+⇒ [math]\sin x = \dfrac{1}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{1}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\frac{\sec x+\tan x}{\sec x-\tan x}=\frac{\frac{1+\sin x}{\cos x}}{\frac{1-\sin x}{\cos x}}=\frac{1+\sin x}{1-\sin x}=3[/math]. এরপর [math]1+\sin x=3(1-\sin x)\Rightarrow 4\sin x=2\Rightarrow \sin x=\frac{1}{2}[/math]; এখানে [math]\cos x\neq0[/math] এবং [math]\sin x\neq1[/math] শর্তও মানে, যা [math]\sin x=\tfrac12[/math]-এর জন্য সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #104 (ID: 531942)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\csc A - \cot A = \dfrac{4}{3}[/math] হয়, প্রমাণ কর যে [math]\csc A + \cot A = \dfrac{3}{4}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math]\csc^2 A - \cot^2 A = 1[/math]
+⇒ [math](\csc A + \cot A)(\csc A - \cot A) = 1[/math]
+⇒ [math](\csc A + \cot A) \cdot \dfrac{4}{3} = 1[/math]
+⇒ [math]\csc A + \cot A = \dfrac{3}{4}[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\csc A-\cot A)(\csc A+\cot A)=\csc^2 A-\cot^2 A[/math] এবং [math]\csc^2 A=1+\cot^2 A[/math] হওয়ায় পার্থক্যটি [math]1[/math]; তাই [math]\csc A+\cot A=\dfrac{1}{\csc A-\cot A}=\dfrac{1}{4/3}=\dfrac{3}{4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #105 (ID: 531943)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\csc \theta + \cot \theta = \dfrac{3}{4}[/math] হয়, তবে [math]\cot \theta - \csc \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math]\csc^2 \theta - \cot^2 \theta = 1[/math]
+⇒ [math](\csc \theta + \cot \theta)(\csc \theta - \cot \theta) = 1[/math]
+⇒ [math]\dfrac{3}{4} \cdot (\csc \theta - \cot \theta) = 1[/math]
+⇒ [math]\csc \theta - \cot \theta = \dfrac{4}{3}[/math]
+⇒ [math]\cot \theta - \csc \theta = -\dfrac{4}{3}[/math]
+নির্ধারিত মান: [math]-\dfrac{4}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\csc\theta+\cot\theta)(\csc\theta-\cot\theta)=\csc^2\theta-\cot^2\theta=1[/math], তাই [math]\csc\theta-\cot\theta=\dfrac{1}{\csc\theta+\cot\theta}=\dfrac{1}{3/4}=\dfrac{4}{3}[/math]. আমরা চাই [math]\cot\theta-\csc\theta=-(\csc\theta-\cot\theta)=-\dfrac{4}{3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #106 (ID: 531944)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+ফোগ নির্দেশ করে এমন একটি গ্রিক বর্ণ লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোণ নির্দেশ করে এমন ছয়টি গ্রিক বর্ণ হলো: আলফা (α), বিটা (β), গামা (γ), থিটা (θ), ফাই (φ), ওমেগা (ω)
+
+Explanation:
+ব্যাখ্যা: গ্রীক বর্ণ 'ফাই' (Phi) হল [math]Φ[/math] (বড়) এবং [math]φ[/math] (ছোট); আধুনিক গ্রিক-এ এটি 'ফ' ধ্বনি নির্দেশ করে, তাই "ফোগ"-এর মতো শব্দে এই বর্ণটি ব্যবহৃত হতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #107 (ID: 531945)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\sec^2 \theta + \csc^2 \theta = \sec^2 \theta \cdot \csc^2 \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ: [math]\sec^2 \theta + \csc^2 \theta = \dfrac{1}{\cos^2 \theta} + \dfrac{1}{\sin^2 \theta}[/math]
+⇒ [math]\dfrac{\sin^2 \theta + \cos^2 \theta}{\cos^2 \theta \cdot \sin^2 \theta} = \dfrac{1}{\cos^2 \theta \cdot \sin^2 \theta}[/math]
+⇒ [math]\sec^2 \theta \cdot \csc^2 \theta[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: [math]\sec^2\theta=1/\cos^2\theta[/math] এবং [math]\csc^2\theta=1/\sin^2\theta[/math] হলে
+[math]\sec^2\theta+\csc^2\theta=\frac{1}{\cos^2\theta}+\frac{1}{\sin^2\theta}=\frac{\sin^2\theta+\cos^2\theta}{\sin^2\theta\cos^2\theta}=\frac{1}{\sin^2\theta\cos^2\theta}[/math],
+যা একইভাবে [math]\sec^2\theta\cdot\csc^2\theta=\frac{1}{\cos^2\theta}\cdot\frac{1}{\sin^2\theta}=\frac{1}{\sin^2\theta\cos^2\theta}[/math] — তাই সমীকরণটি সত্য।
+
+Sub-Questions:
+
+================================================================================
+Question #108 (ID: 531946)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\cot^2 A - \cos^2 A = \cot^2 A \cdot \cos^2 A[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ: [math]\cot^2 A - \cos^2 A[/math]
+⇒ [math]\dfrac{\cos^2 A}{\sin^2 A} - \cos^2 A = \dfrac{\cos^2 A - \cos^2 A \sin^2 A}{\sin^2 A}[/math]
+⇒ [math]\dfrac{\cos^2 A(1 - \sin^2 A)}{\sin^2 A} = \dfrac{\cos^2 A \cdot \cos^2 A}{\sin^2 A}[/math]
+⇒ [math]\cot^2 A \cdot \cos^2 A[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: [math]\cot^2 A=\dfrac{\cos^2 A}{\sin^2 A}[/math] হলে
+[math]\cot^2 A-\cos^2 A=\dfrac{\cos^2 A}{\sin^2 A}-\cos^2 A=\cos^2 A\Big(\dfrac{1}{\sin^2 A}-1\Big)=\cos^2 A\cdot\dfrac{1-\sin^2 A}{\sin^2 A}=\cos^2 A\cdot\dfrac{\cos^2 A}{\sin^2 A}=[/math]
+[math]\cot^2 A\cdot\cos^2 A[/math], সুতরাং সমীকরণটি প্রমাণিত।
+
+Sub-Questions:
+
+================================================================================
+Question #109 (ID: 531947)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]\sin \theta \sqrt{1 + \tan^2 \theta} = \tan \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin \theta \sqrt{1 + \tan^2 \theta} = \sin \theta \cdot \sqrt{\sec^2 \theta} = \sin \theta \cdot \sec \theta = \dfrac{\sin \theta}{\cos \theta} = \tan \theta[/math]প্রমাণিত
+
+Explanation:
+কারণ [math]1+\tan^2\theta=\sec^2\theta[/math], তাই [math]\sin\theta\sqrt{1+\tan^2\theta}=\sin\theta\sqrt{\sec^2\theta}[/math]. যদি [math]\cos\theta>0[/math] থাকে তাহলে [math]\sqrt{\sec^2\theta}=\sec\theta[/math] এবং [math]\sin\theta\sec\theta=\tan\theta[/math]; সাধারণভাবে [math]\sqrt{\sec^2\theta}=|\sec\theta|[/math] হওয়ায় চিহ্নের বিষয়টি মাথায় রাখতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #110 (ID: 531948)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+ত্রিকোণমিতিক অনুপাতগুলোর মধ্যে সম্পর্ক লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ত্রিকোণমিতিক অনুপাত ৬টি। এগুলোর মধ্যে পরস্পর সম্পর্ক নিচে দেওয়া হলো:[math]\sin \theta = \dfrac{1}{\csc \theta}[/math]
+, অথবা [math]\csc \theta = \dfrac{1}{\sin \theta}[/math]
+ [math]\cos \theta = \dfrac{1}{\sec \theta}[/math]
+, অথবা [math]\sec \theta = \dfrac{1}{\cos \theta}[/math]
+ [math]\tan \theta = \dfrac{1}{\cot \theta}[/math]
+, অথবা [math]\tan \theta = \dfrac{\sin \theta}{\cos \theta}[/math]
+ [math]\cot \theta = \dfrac{1}{\tan \theta}[/math]
+, অথবা [math]\cot \theta = \dfrac{\cos \theta}{\sin \theta}[/math]
+
+
+Explanation:
+ত্রিকোণমিতিক অনুপাতগুলোর প্রধান সম্পর্কগুলো হলো: প্রতিপরিবর্তী (reciprocal) [math]\sin\theta=\frac{1}{\csc\theta},\ \cos\theta=\frac{1}{\sec\theta},\ \tan\theta=\frac{1}{\cot\theta}[/math]; ভাগ (quotient) [math]\tan\theta=\frac{\sin\theta}{\cos\theta},\ \cot\theta=\frac{\cos\theta}{\sin\theta}[/math]; পিথাগোরীয় (Pythagorean) [math]\sin^2\theta+\cos^2\theta=1,\ 1+\tan^2\theta=\sec^2\theta,\ 1+\cot^2\theta=\csc^2\theta[/math]. এইসব সম্পর্কগুলি ডানকোণী ত্রिकोণীর সংজ্ঞা এবং একক বৃত্ত থেকে সোজাসুজি বের করা যায়, তাই এগুলো সর্বদা সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #111 (ID: 531949)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+কোণের ত্রিকোণমিতিক অনুপাতগুলো লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin \theta = \dfrac{\text{বিপরীত বাহু}}{\text{অতিভুজ}}[/math]
+ [math]\cos \theta = \dfrac{\text{সন্নিহিত বাহু}}{\text{অতিভুজ}}[/math]
+ [math]\tan \theta = \dfrac{\text{বিপরীত বাহু}}{\text{সন্নিহিত বাহু}}[/math]
+ [math]\cot \theta = \dfrac{\text{সন্নিহিত বাহু}}{\text{বিপরীত বাহু}}[/math]
+ [math]\sec \theta = \dfrac{\text{অতিভুজ}}{\text{সন্নিহিত বাহু}}[/math]
+ [math]\csc \theta = \dfrac{\text{অতিভুজ}}{\text{বিপরীত বাহু}}[/math]
+
+
+Explanation:
+কোনো সমকোণী ত্রিভুজে কোনোকোনের বিপরীত বাহু, পাশের বাহু ও উর্ধ্ববৃত্তাকার বহুভুজ—অর্থাৎ hypotenuse—নিয়ে জন্যে কোণ [math]\theta[/math]‑এর ত্রিকোণমিতিক অনুপাতগুলো হলো: [math]\sin\theta=\dfrac{\text{বিপরীত}}{\text{উর্ধ্ববৃত্তাকার}} ,\quad \cos\theta=\dfrac{\text{পাশের}}{\text{উর্ধ্ববৃত্তাকার}} ,\quad \tan\theta=\dfrac{\text{বিপরীত}}{\text{পাশের}}[/math]. এছাড়া উল্টো অনুপাতগুলো হলো: [math]\csc\theta=\dfrac{1}{\sin\theta}=\dfrac{\text{উর্ধ্ববৃত্তাকার}}{\text{বিপরীত}} ,\quad \sec\theta=\dfrac{1}{\cos\theta}=\dfrac{\text{উর্ধ্ববৃত্তাকার}}{\text{পাশের}} ,\quad \cot\theta=\dfrac{1}{\tan\theta}=\dfrac{\text{পাশের}}{\text{বিপরীত}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #112 (ID: 531950)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]P = \sin A[/math], [math]Q = \cos A[/math], [math]R = \tan A[/math] হলে, দেখাও যে [math]\dfrac{1}{P^2} - \dfrac{1}{R^2} = 1[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{1}{P^2} - \dfrac{1}{R^2} = \dfrac{1}{\sin^2 A} - \dfrac{1}{\tan^2 A}[/math]
+ [math]= \csc^2 A - \cot^2 A = 1[/math]
+ (পরিচিত সূত্র)প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: [math]\dfrac{1}{P^2}-\dfrac{1}{R^2}=\dfrac{1}{\sin^2A}-\dfrac{1}{\tan^2A}[/math]. এখানে [math]\dfrac{1}{\tan^2A}=\dfrac{\cos^2A}{\sin^2A}[/math], তাই মানটি [math]\dfrac{1-\cos^2A}{\sin^2A}=\dfrac{\sin^2A}{\sin^2A}=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #113 (ID: 531951)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]m = \sin \theta[/math] এবং [math]n = \cos \theta[/math] হলে, প্রমাণ কর যে [math]\sqrt{\dfrac{1 - m}{1 + m}} = \sec \theta - \tan \theta[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m = \sin \theta[/math]
+⇒ [math]\sqrt{\dfrac{1 - \sin \theta}{1 + \sin \theta}}[/math]
+বামপক্ষকে রেশনালাইজ করি:[math]= \sqrt{\dfrac{(1 - \sin \theta)^2}{1 - \sin^2 \theta}} = \dfrac{1 - \sin \theta}{\sqrt{\cos^2 \theta}} = \dfrac{1 - \sin \theta}{\cos \theta}[/math]
+ [math]= \dfrac{1}{\cos \theta} - \dfrac{\sin \theta}{\cos \theta} = \sec \theta - \tan \theta[/math]
+প্রমাণিত
+
+Explanation:
+ব্যাখ্যা: [math]m=\sin\theta[/math] বসিয়ে পাচ্ছি [math]\sqrt{\dfrac{1-m}{1+m}}=\sqrt{\dfrac{1-\sin\theta}{1+\sin\theta}}=\sqrt{\dfrac{(1-\sin\theta)^2}{1-\sin^2\theta}}=\sqrt{\dfrac{(1-\sin\theta)^2}{\cos^2\theta}}=[math][math]\dfrac{1-\sin\theta}{|\cos\theta|}[/math][/math]. এরপর [math]\sec\theta-\tan\theta=\dfrac{1}{\cos\theta}-\dfrac{\sin\theta}{\cos\theta}=\dfrac{1-\sin\theta}{\cos\theta}[/math], তাই সমীকরণটি সত্য হয় যখন [math]\cos\theta>0[/math] (কারণ মূলের চিহ্ন ধনাত্মক)।
+
+Sub-Questions:
+
+================================================================================
+Question #114 (ID: 531952)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]5 \sin A = 3[/math] হলে, [math]\tan A[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\sin A = \dfrac{3}{5}[/math]
+⇒ বিপরীত বাহু [math]= 3[/math]
+, অতিভুজ [math]= 5[/math]
+⇒ সন্নিহিত বাহু [math]= \sqrt{25 - 9} = 4[/math]
+⇒ [math]\tan A = \dfrac{বিপরীত}{সন্নিহিত} = \dfrac{3}{4}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{4}[/math]
+
+
+Explanation:
+প্রথমে [math]\sin A=\dfrac{3}{5}[/math] পাওয়া যায়, আর [math]\cos A=\sqrt{1-\sin^2A}=\sqrt{1-(3/5)^2}=\dfrac{4}{5}[/math] (ধরা হল A তীক্ষ্ণ কোণ), তাই [math]\tan A=\dfrac{\sin A}{\cos A}=\dfrac{3/5}{4/5}=\dfrac{3}{4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #115 (ID: 531953)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle PMN[/math] থেকে [math]\cos P[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]PM^2 = MN^2 + NP^2 = 1^2 + (\sqrt{3})^2 = 1 + 3 = 4[/math]
+⇒ [math]PM = \sqrt{4} = 2[/math]
+ [math]NP = \sqrt{3}[/math]
+⇒ [math]\cos P = \dfrac{NP}{PM} = \dfrac{\sqrt{3}}{2}[/math]
+নির্ধারিত মান: [math]\dfrac{\sqrt{3}}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কোন কোণ P-এর জন্য কসাইন হলো সেই কোণের সংলগ্ন পার্শ্বের দৈর্ঘ্য ভাগ করে হাইপোটেনিউজের দৈর্ঘ্যে, অর্থাৎ [math]\cos P=\dfrac{\text{adjacent}}{\text{hypotenuse}}[/math]; যদি এখানে [math]PN[/math] হাইপোটেনিউজ এবং [math]PM[/math] হচ্ছে P-এর সংলগ্ন পার্শ্ব, তবে [math]\cos P=\dfrac{PM}{PN}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #116 (ID: 531954)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] তে [math]\angle B = 90^\circ[/math], [math]AB = 3[/math], [math]BC = 4[/math] হলে, [math]\sin C[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]AB = 3[/math]
+, [math]BC = 4[/math]
+⇒ [math]AC = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5[/math]
+⇒ [math]\sin C = \dfrac{AB}{AC} = \dfrac{3}{5}[/math]
+নির্ধারিত মান: [math]\dfrac{3}{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমকোণ(triangle) হওয়ায় [math]AC=\sqrt{AB^2+BC^2}=\sqrt{3^2+4^2}=5[/math], এবং কোণ [math]C[/math]-এর বিপরীত বাহু হলো [math]AB[/math]। তাই [math]\sin C=\dfrac{AB}{AC}=\dfrac{3}{5}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #117 (ID: 531955)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] এ, [math]\angle B = 90^\circ[/math] এবং [math]\tan \theta = \dfrac{1}{\sqrt{3}}[/math] হলে, [math]AC[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\tan \theta = \dfrac{\text{BC}}{\text{AB}} = \dfrac{1}{\sqrt{3}}[/math]
+, AB = [math]\sqrt{3}[/math]
+BC = [math]1[/math]
+⇒ [math]AC^2 = AB^2 + BC^2 = (\sqrt{3})^2 + 1^2 = 3 + 1 = 4[/math]
+⇒ [math]AC = \sqrt{4} = 2[/math]
+নির্ধারিত মান: [math]2[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math]\angle B=90^\circ[/math], তাই [math]AC[/math] হল উপরিপিঠ। [math]\tan\theta=1/\sqrt{3}[/math] থেকে [math]\theta=30^\circ[/math], এবং [math]30^\circ\!-\!60^\circ\!-\!90^\circ[/math] ত্রিভুজে ছোট পাশ (30°-এর বিপরীত) ও উপরিপিঠের অনুপাত [math]1:2[/math]। তাই [math]AC=2\times(\text{30°-এর বিপরীত পাশ})[/math], অর্থাৎ [math]AC=2\cdot BC[/math] (যদি প্রয়োজন হয়, BC=1 ধরে হলে [math]AC=2[/math]).
+
+Sub-Questions:
+

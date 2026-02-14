@@ -1,0 +1,568 @@
+================================================================================
+Question #1 (ID: 491142)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে, [math]\triangle ABC[/math]-এ [math]AB = AC = 4\ \text{cm}[/math]
+
+Options:
+ক. প্রমাণ কর যে, [math]\angle ABD = \angle ACE[/math]
+খ. প্রমাণ কর যে, [math]\angle PBC = \angle ACE[/math]
+গ. যদি [math]\triangle ABC[/math]-এ [math]AB = AC[/math] হলে দেখাও যে, [math]\angle ACB = \angle ABC[/math]
+
+
+Correct Answer: 
+
+Solution:
+(ক)প্রদত্ত: [math]\triangle ABC[/math]
+-এ [math]AB = AC = 4\ \text{cm}[/math]
+প্রমাণ করতে হবে: [math]\angle ABD = \angle ACE[/math]
+প্রমাণ:[math]\angle ABD + \angle ABC = 180^\circ[/math]
+ [∵ এক সরলরেখার কোণ][math]\angle ACE + \angle ACB = 180^\circ[/math]
+ [∵ এক সরলরেখার কোণ]তাহলে,[math]\angle ABD + \angle ABC = \angle ACE + \angle ACB[/math]
+আবার, [math]\angle ABC = \angle ACB[/math]
+ [∵ [math]\triangle ABC[/math]
+ সমদ্বিবাহু, [math]AB = AC[/math]
+]তাহলে,[math]\angle ABD = \angle ACE \quad \text{}[/math]
+ (প্রমাণিত)(খ)প্রদত্ত: এখানে, [math]\triangle ABC[/math]
+-এর [math]AB = AC = 4\ \text{cm}[/math]
+প্রমাণ করতে হবে: [math]\angle PBC = \angle ACE[/math]
+প্রমাণ:(ক) অংশ থেকে প্রাপ্ত,[math]\angle ABD = \angle ACE[/math]
+আবার,[math]\angle ABD = \angle PBC[/math]
+ [∵ বিপ্রতীপ কোণ]∴ [math]\angle PBC = \angle ACE[/math]
+ (প্রমাণিত)গ)প্রদত্ত: এখানে, [math]\triangle ABC[/math]
+ ত্রিভুজে [math]AB = AC[/math]
+অঙ্কন: [math]\angle BAC[/math]
+ এর সমদ্বিখণ্ডক [math]AM[/math]
+ আঁকি, যেন তা [math]BC[/math]
+ কে [math]M[/math]
+ বিন্দুতে ছেদ করে।প্রমাণ:[math]\triangle ABM[/math]
+ এবং [math]\triangle ACM[/math]
+ এ,[math]AB = AC[/math]
+ [দেওয়া আছে][math]AM = AM[/math]
+ [সাধারণ বাহু][math]\angle BAM = \angle CAM[/math]
+ [অঙ্কন অনুসারে]সুতরাং, [math]\triangle ABM \cong \triangle ACM[/math]
+[বাহু–কোণ–বাহু উপপাদ্য অনুযায়ী]অতএব, [math]\angle ABM = \angle ACM[/math]
+বা, [math]\angle ABC = \angle ACB[/math]
+∴ [math]\angle ABC = \angle ACB[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা:
+
+ক যেহেতু [math]AB=AC[/math] তাতে ত্রিভুজটি শীর্ষ‑বাহু (isosceles) এবং [math]A[/math]-এর પાસ থেকে লম্ব/দ্বিভাজক দিলে ত্রিভুজ [math]ABD[/math] ও [math]ACE[/math] পরস্পর প্রতিচ্ছবি/সমরূপ হয়; তাই তাদের সমকোণীয় কৌঁচগুলোও সমান হয় এবং [math]\angle ABD=\angle ACE[/math].
+
+খ একই প্রতিসাম্য/দ্বৈততার কারণে বিন্দু [math]P[/math]‑এর স্থাপন যদি ত্রিভুজের প্রতিচ্ছবি রক্ষা করে, তবে corresponding কোণগুলো মেলে এবং ফলে [math]\angle PBC=\angle ACE[/math].
+
+গ যদি [math]AB=AC[/math], তাহলে সমদৈর্ঘ্য বাহুগুলো সমকোণকে উৎপন্ন করে, অতএব [math]\angle ABC=\angle ACB[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 491141)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে [math]PQ \parallel MN[/math], [math]\angle QCE = 60^\circ[/math] এবং [math]\angle NAC[/math]-এর সমদ্বিখণ্ডক [math]AB[/math]।
+
+Options:
+ক. [math]\angle ACB[/math] এর মান কত?
+খ. [math]\angle NAB[/math] এর মান কত?
+গ. প্রমাণ কর যে, [math]\triangle ABC[/math] সমদ্বিবাহু ত্রিভুজ।
+
+
+Correct Answer: 
+
+Solution:
+(ক) [math]\angle ACB[/math]
+ এর মান:প্রদত্ত আছে [math]PQ \parallel MN[/math]
+ এবং [math]\angle QCE = 60^\circ[/math]
+।[math]\angle ACB[/math]
+ ও [math]\angle QCE[/math]
+ একটি সরলরেখার কোণ, অর্থাৎ:[math]\angle ACB + \angle QCE = 180^\circ[/math]
+ [math]\Rightarrow \angle ACB + 60^\circ = 180^\circ[/math]
+ [math]\Rightarrow \angle ACB = 180^\circ - 60^\circ = 120^\circ[/math]
+অতএব, [math]\angle ACB = 120^\circ[/math]
+(খ)এখানে, [math]PQ \parallel MN[/math]
+, [math]\angle QCE = 60^\circ[/math]
+এবং [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+।[math]\angle NAC = \angle QCE[/math]
+ [∵ অনুরূপ কোণের পরস্পর সমান]অর্থাৎ, [math]\angle NAC = 60^\circ[/math]
+ [∵ [math]\angle QCE = 60^\circ[/math]
+][math]\angle NAB = \dfrac{1}{2} \angle NAC[/math]
+ [∵ [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+]অর্থাৎ, [math]\angle NAB = \dfrac{1}{2} \times 60^\circ[/math]
+ [∵ [math]\angle NAC = 60^\circ[/math]
+][math]\angle NAB = 30^\circ[/math]
+ [math]\therefore \angle NAB[/math]
+ এর মান [math]30^\circ[/math]
+(গ)এখানে, [math]PQ \parallel MN[/math]
+, [math]\angle QCE = 60^\circ[/math]
+এবং [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+।(ক) হতে, [math]\angle ACB = 120^\circ[/math]
+(খ) হতে, [math]\angle NAB = 30^\circ[/math]
+ [math]\angle BAC = \angle NAB[/math]
+ [∵ [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+]অতএব, [math]\angle BAC = 30^\circ[/math]
+ [∵ [math]\angle NAB = 30^\circ[/math]
+][math]\triangle ABC[/math]
+-এ,[math]\angle BAC + \angle ABC + \angle ACB = 180^\circ[/math]
+[∵ ত্রিভুজের অভ্যন্তরীণ কোণের সমষ্টি [math]180^\circ[/math]
+]বা, [math]30^\circ + \angle ABC + 120^\circ = 180^\circ[/math]
+⇒ [math]\angle ABC + 150^\circ = 180^\circ[/math]
+⇒ [math]\angle ABC = 180^\circ - 150^\circ[/math]
+⇒ [math]\angle ABC = 30^\circ[/math]
+অতএব, [math]\angle ABC = \angle BAC = 30^\circ[/math]
+⇒ [math]AC = BC[/math]
+[∵ ত্রিভুজের সমান সমান কোণের বিপরীত বাহুগুলো পরস্পর সমান]অতএব, [math]\triangle ABC[/math]
+ একটি সমদ্বিবাহু ত্রিভুজ (প্রমাণিত)।
+
+Explanation:
+চিত্রটি স্পষ্টভাবে দেখা যাচ্ছে না, কাজটি করার জন্য আমাকে জানাবেন: বিন্দু M,N,P,Q,E কোন কোন সরলরেখা/বিন্দুতে অবস্থান করছে (উদাহরণ: Q এবং E কি C থেকে বাহিরে AC অথবা CB সরলরেখায় আছে? M,N কি AC ও CB অথবা অন্য কোন রেখায় অবস্থিত?), অথবা অনুগ্রহ করে উচ্চ রেজোলিউশনের চিত্র আপলোড করুন — তাহলে আমি দ্রুত এবং সঠিকভাবে ক, খ ও গ-এর সমাধান এবং সংক্ষিপ্ত ব্যাখ্যা দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 491140)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]AB \parallel CD[/math] এবং [math]PQ[/math] রেখা এদের ছেদ করলে [math]E[/math] ও [math]F[/math] বিন্দুতে ছেদ করেছে।
+
+Options:
+ক. চিত্রের ভিত্তিতে চিত্রটি আঁক।
+খ. প্রমাণ কর যে, একটি জোড় কোণ পরস্পর সমান।
+গ. প্রমাণ কর যে, ছেদের একই পাশে অন্তঃস্থ কোণগুলোর সমষ্টি দুই সমকোণ।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রথমে একটি কাগজে নিচের ধাপে চিত্র আঁকতে হবে:১. দুটি সমান্তরাল রেখা [math]AB[/math]
+ ও [math]CD[/math]
+ আঁক।২. একটি ছেদকারী রেখা [math]PQ[/math]
+ আঁক যা [math]AB[/math]
+ ও [math]CD[/math]
+-কে যথাক্রমে [math]E[/math]
+ ও [math]F[/math]
+-তে ছেদ করে।৩. প্রত্যেক কোণ নামকরণ করে দাগ দিন।খচিত্রে দেখা যায় [math]AB \parallel CD[/math]
+ এবং [math]PQ[/math]
+ একটি ছেদকারী রেখা।⇒ [math]\angle AEF = \angle DFE[/math]
+কারণ, সমান্তরাল রেখা ও ছেদকারী রেখার ক্ষেত্রে পরস্পর বিপরীত কোণ সমান হয় (Alternate Interior Angles)।তাই, প্রমাণিত হয় যে দুটি বিপরীত কোণ পরস্পর সমান।গ [math]AB \parallel CD[/math]
+, [math]PQ[/math]
+ ছেদকারী রেখা⇒ [math]\angle BEF + \angle DFE = 180^\circ[/math]
+কারণ, এটি একই পাশে অন্তঃস্থ কোণ (Co-interior Angles)।সমান্তরাল রেখায় ছেদকারী রেখার একই পাশে অন্তঃস্থ কোণ দুই সমকোণ হয়।তাই প্রমাণিত, [math]\angle BEF + \angle DFE = 180^\circ = 2 \times 90^\circ[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক AB ও CD সমান্তরাল রেখে PQ ছেদকারী হিসেবে আঁকুন; PQ AB-কে E তে এবং PQ CD-কে F তে ছেদ করে।
+
+খ সমান্তরাল রেখা কাটা ছেদকালে বিকল্প অন্তঃস্থ কোণ সমান হয়, তাই উদাহরণস্বরূপ [math]∠AEP = ∠PFD[/math]।
+
+গ একই পাশে অন্তঃস্থ কোণ হলে যেমন [math]∠AEP[/math] ও [math]∠EFD[/math], আমরা জানি [math]∠AEP = ∠PFD[/math] ও [math]∠PFD + ∠EFD = 180°[/math] কারণ [math]FP[/math] ও [math]FE[/math] উল্টোদিক বিকিরণ; তাই [math]∠AEP + ∠EFD = 180°[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 488259)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে, [math]\triangle ABC[/math]-এ [math]AB = AC = 4\ \text{cm}[/math]
+
+Options:
+ক. প্রমাণ কর যে, [math]\angle ABD = \angle ACE[/math]
+খ. প্রমাণ কর যে, [math]\angle PBC = \angle ACE[/math]
+গ. যদি [math]\triangle ABC[/math]-এ [math]AB = AC[/math] হলে দেখাও যে, [math]\angle ACB = \angle ABC[/math]
+
+
+Correct Answer: 
+
+Solution:
+(ক)প্রদত্ত: [math]\triangle ABC[/math]
+-এ [math]AB = AC = 4\ \text{cm}[/math]
+প্রমাণ করতে হবে: [math]\angle ABD = \angle ACE[/math]
+প্রমাণ:[math]\angle ABD + \angle ABC = 180^\circ[/math]
+ [∵ এক সরলরেখার কোণ][math]\angle ACE + \angle ACB = 180^\circ[/math]
+ [∵ এক সরলরেখার কোণ]তাহলে,[math]\angle ABD + \angle ABC = \angle ACE + \angle ACB[/math]
+আবার, [math]\angle ABC = \angle ACB[/math]
+ [∵ [math]\triangle ABC[/math]
+ সমদ্বিবাহু, [math]AB = AC[/math]
+]তাহলে,[math]\angle ABD = \angle ACE \quad \text{}[/math]
+ (প্রমাণিত)(খ)প্রদত্ত: এখানে, [math]\triangle ABC[/math]
+-এর [math]AB = AC = 4\ \text{cm}[/math]
+প্রমাণ করতে হবে: [math]\angle PBC = \angle ACE[/math]
+প্রমাণ:(ক) অংশ থেকে প্রাপ্ত,[math]\angle ABD = \angle ACE[/math]
+আবার,[math]\angle ABD = \angle PBC[/math]
+ [∵ বিপ্রতীপ কোণ]∴ [math]\angle PBC = \angle ACE[/math]
+ (প্রমাণিত)গ)প্রদত্ত: এখানে, [math]\triangle ABC[/math]
+ ত্রিভুজে [math]AB = AC[/math]
+অঙ্কন: [math]\angle BAC[/math]
+ এর সমদ্বিখণ্ডক [math]AM[/math]
+ আঁকি, যেন তা [math]BC[/math]
+ কে [math]M[/math]
+ বিন্দুতে ছেদ করে।প্রমাণ:[math]\triangle ABM[/math]
+ এবং [math]\triangle ACM[/math]
+ এ,[math]AB = AC[/math]
+ [দেওয়া আছে][math]AM = AM[/math]
+ [সাধারণ বাহু][math]\angle BAM = \angle CAM[/math]
+ [অঙ্কন অনুসারে]সুতরাং, [math]\triangle ABM \cong \triangle ACM[/math]
+[বাহু–কোণ–বাহু উপপাদ্য অনুযায়ী]অতএব, [math]\angle ABM = \angle ACM[/math]
+বা, [math]\angle ABC = \angle ACB[/math]
+∴ [math]\angle ABC = \angle ACB[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা:
+
+ক যেহেতু [math]AB=AC=4\ \text{cm}[/math], ত্রিকোণটি A‑বিন্দুতে প্রতিফলনীয় (symmetrical) এবং অনুরূপ/সমকক্ষ ত্রিভুজগুলোর কারণে কক্ষাংশগুলির মিল আছে, তাই [math]\angle ABD=\angle ACE[/math].
+
+খ একই প্রতিসমতা বা সংশ্লিষ্ট ত্রিভুজগুলোর সমরূপতা থেকে দেখা যায় যে [math]\angle PBC[/math] এবং [math]\angle ACE[/math] একই অবস্থান থেকে সামনে‑পিছনের অনুরূপ রশ্মি, তাই [math]\angle PBC=\angle ACE[/math]।
+
+গ যদি [math]AB=AC[/math] হয় তাহলে সমদৈর্ঘ্য বাহুগুলো বিপরীত কোণগুলো সমান করে, অতএব [math]\angle ACB=\angle ABC[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 488258)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে [math]PQ \parallel MN[/math], [math]\angle QCE = 60^\circ[/math] এবং [math]\angle NAC[/math]-এর সমদ্বিখণ্ডক [math]AB[/math]।
+
+Options:
+ক. [math]\angle ACB[/math] এর মান কত?
+খ. [math]\angle NAB[/math] এর মান কত?
+গ. প্রমাণ কর যে, [math]\triangle ABC[/math] সমদ্বিবাহু ত্রিভুজ।
+
+
+Correct Answer: 
+
+Solution:
+(ক) [math]\angle ACB[/math]
+ এর মান:প্রদত্ত আছে [math]PQ \parallel MN[/math]
+ এবং [math]\angle QCE = 60^\circ[/math]
+।[math]\angle ACB[/math]
+ ও [math]\angle QCE[/math]
+ একটি সরলরেখার কোণ, অর্থাৎ:[math]\angle ACB + \angle QCE = 180^\circ[/math]
+ [math]\Rightarrow \angle ACB + 60^\circ = 180^\circ[/math]
+ [math]\Rightarrow \angle ACB = 180^\circ - 60^\circ = 120^\circ[/math]
+অতএব, [math]\angle ACB = 120^\circ[/math]
+(খ)এখানে, [math]PQ \parallel MN[/math]
+, [math]\angle QCE = 60^\circ[/math]
+এবং [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+।[math]\angle NAC = \angle QCE[/math]
+ [∵ অনুরূপ কোণের পরস্পর সমান]অর্থাৎ, [math]\angle NAC = 60^\circ[/math]
+ [∵ [math]\angle QCE = 60^\circ[/math]
+][math]\angle NAB = \dfrac{1}{2} \angle NAC[/math]
+ [∵ [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+]অর্থাৎ, [math]\angle NAB = \dfrac{1}{2} \times 60^\circ[/math]
+ [∵ [math]\angle NAC = 60^\circ[/math]
+][math]\angle NAB = 30^\circ[/math]
+ [math]\therefore \angle NAB[/math]
+ এর মান [math]30^\circ[/math]
+(গ)এখানে, [math]PQ \parallel MN[/math]
+, [math]\angle QCE = 60^\circ[/math]
+এবং [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+।(ক) হতে, [math]\angle ACB = 120^\circ[/math]
+(খ) হতে, [math]\angle NAB = 30^\circ[/math]
+ [math]\angle BAC = \angle NAB[/math]
+ [∵ [math]\angle NAC[/math]
+ এর সমদ্বিখণ্ডক [math]AB[/math]
+]অতএব, [math]\angle BAC = 30^\circ[/math]
+ [∵ [math]\angle NAB = 30^\circ[/math]
+][math]\triangle ABC[/math]
+-এ,[math]\angle BAC + \angle ABC + \angle ACB = 180^\circ[/math]
+[∵ ত্রিভুজের অভ্যন্তরীণ কোণের সমষ্টি [math]180^\circ[/math]
+]বা, [math]30^\circ + \angle ABC + 120^\circ = 180^\circ[/math]
+⇒ [math]\angle ABC + 150^\circ = 180^\circ[/math]
+⇒ [math]\angle ABC = 180^\circ - 150^\circ[/math]
+⇒ [math]\angle ABC = 30^\circ[/math]
+অতএব, [math]\angle ABC = \angle BAC = 30^\circ[/math]
+⇒ [math]AC = BC[/math]
+[∵ ত্রিভুজের সমান সমান কোণের বিপরীত বাহুগুলো পরস্পর সমান]অতএব, [math]\triangle ABC[/math]
+ একটি সমদ্বিবাহু ত্রিভুজ (প্রমাণিত)।
+
+Explanation:
+ব্যাখ্যা:
+
+ক চিত্রে [math]PQ\parallel MN[/math] হওয়ায় উৎপন্ন হওয়া সামান্তরক কোণগুলির কারণে [math]\angle A C N=\angle QCE=[/math] [math]60^\circ[/math]; তাই ত্রিভুজে কোণের যোগফলে [math]\angle ACB=30^\circ[/math]।  
+
+খ নির্দেশে বলা আছে [math]AB[/math] হল [math]\angle NAC[/math]—এর সমদ্বিখণ্ডক, অতএব [math]\angle NAB=\tfrac{1}{2}\angle NAC=\tfrac{1}{2}\times60^\circ=[/math] [math]30^\circ[/math]।  
+
+গ দুইভাগ দেখানো হল [math]\angle ACB=[/math] [math]30^\circ[/math] এবং [math]\angle NAB=[/math] [math]30^\circ[/math] (তাই [math]\angle ABC[/math] ও [math]\angle BAC[/math] থেকে সমকোণ পাওয়া যায়), ফলে ত্রিভুজ [math]ABC[/math]–এর দুই ভুজের বিপরীত কোণ সমান হওয়ায় [math]AC=BC[/math] এবং ত্রিভুজটি সমদ্বিবাহু।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 488257)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]AB \parallel CD[/math] এবং [math]PQ[/math] রেখা এদের ছেদ করলে [math]E[/math] ও [math]F[/math] বিন্দুতে ছেদ করেছে।
+
+Options:
+ক. চিত্রের ভিত্তিতে চিত্রটি আঁক।
+খ. প্রমাণ কর যে, একটি জোড় কোণ পরস্পর সমান।
+গ. প্রমাণ কর যে, ছেদের একই পাশে অন্তঃস্থ কোণগুলোর সমষ্টি দুই সমকোণ।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রথমে একটি কাগজে নিচের ধাপে চিত্র আঁকতে হবে:১. দুটি সমান্তরাল রেখা [math]AB[/math]
+ ও [math]CD[/math]
+ আঁক।২. একটি ছেদকারী রেখা [math]PQ[/math]
+ আঁক যা [math]AB[/math]
+ ও [math]CD[/math]
+-কে যথাক্রমে [math]E[/math]
+ ও [math]F[/math]
+-তে ছেদ করে।৩. প্রত্যেক কোণ নামকরণ করে দাগ দিন।খচিত্রে দেখা যায় [math]AB \parallel CD[/math]
+ এবং [math]PQ[/math]
+ একটি ছেদকারী রেখা।⇒ [math]\angle AEF = \angle DFE[/math]
+কারণ, সমান্তরাল রেখা ও ছেদকারী রেখার ক্ষেত্রে পরস্পর বিপরীত কোণ সমান হয় (Alternate Interior Angles)।তাই, প্রমাণিত হয় যে দুটি বিপরীত কোণ পরস্পর সমান।গ [math]AB \parallel CD[/math]
+, [math]PQ[/math]
+ ছেদকারী রেখা⇒ [math]\angle BEF + \angle DFE = 180^\circ[/math]
+কারণ, এটি একই পাশে অন্তঃস্থ কোণ (Co-interior Angles)।সমান্তরাল রেখায় ছেদকারী রেখার একই পাশে অন্তঃস্থ কোণ দুই সমকোণ হয়।তাই প্রমাণিত, [math]\angle BEF + \angle DFE = 180^\circ = 2 \times 90^\circ[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক চিত্রে দুটি সমান্তরাল রেখা [math]AB \parallel CD[/math] আঁকুন এবং একটি ছেদকারী রেখা [math]PQ[/math] এদেরকে ছেদ করাবে যেন [math]E[/math] বিন্দুতে [math]PQ[/math] ও [math]AB[/math] এবং [math]F[/math] বিন্দুতে [math]PQ[/math] ও [math]CD[/math] ছেদ করে।  
+
+খ যখন দুটি রেখা পরস্পর ছেদ করে, তখন একে অপরের বিপরীতদিকে থাকা জোড় কোণগুলো সমান হয় (উদাহরণস্বরূপ E-এ গঠিত বিপরীত জোড় কোণগুলো সমান) — এইটি ছেদকারী রেখার জ্যামিতিক স্বতঃসিদ্ধতা।  
+
+গ একটি ছেদকারীর একই পাশে অন্তঃস্থ কোণ দুটি সমান্তরাল রেখার উপর হলে, একটিকে অন্যটির সঙ্গে তুলনীয় বা সমকোণ হিসেবে দেখা যায় এবং অন্যটি সঙ্গে থাকা কোণের সাথে এক রেখা বরাবর লিনিয়ার জোড় গঠন করে; ফলে ওই দুই অন্তঃস্থ কোণের যোগফল [math]180^\circ[/math] হয় (অর্থাৎ দুই সমকোণ)।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 799907)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+নিচের জ্যামিতিক চিত্রটি লক্ষ কর প্রশ্নগুলোর উত্তর দাও :
+
+[Image]
+
+Options:
+ক. ছেদক কী?
+খ. AB || CD হলে দেখাও যে, &ang;ALN = &ang;DML.
+গ. AB ও EF পরস্পর সমান্তরাল হলে প্রমাণ কর যে, CD ও EF পরস্পর সমান্তরাল।
+
+
+Correct Answer: 
+
+Solution:
+ক[Image]ছেদক: কোনো সরলরেখা দুই বা ততোধিক সরলরেখাকেবিভিন্ন বিন্দুতে ছেদ করলেএকে ছেদক বলে। চিত্রে LMসরলরেখাটি একটি ছেদক।
+খ[Image]বিশেষ নির্বচন: মনে করি, AB || CDএবং PN রেখা AB ও CDরেখাকে যথাক্রমে L ও Mবিন্দুতে ছেদ করে। প্রমাণ করতে হবে যে, &ang;ALN = &ang;DMLপ্রমাণ:						ধাপ			যথার্থতা							১. &ang;PLB = অনুরূপ &ang;LMD			[সমান্তরাল রেখার সংঙ্গানুসারে অনুরূপ কোণ সমান।]							২. &ang;PLB = বিপ্রতীপ &ang;ALN[math]\therefore[/math]&ang;ALN = &ang;LMD						[বিপ্রতীপ কোণদ্বয় পরস্পর সমান]			(১) ও (২) থেকে।			
+গ[Image]বিশেষ নির্বচন: AB || CD এবং AB || EF. প্রমাণ কর করতে হবে যে, CD || EF.অঙ্কন: PQ ছেদক আঁকি যে এটি AB, CD ও EF কে যথাক্রমে L, M, N বিন্দুতে ছেদ করে।প্রমাণ:						ধাপ			যথার্থতা							১. AB || CD এবং PQ এদের ছেদক।[math]\therefore[/math]&ang;PLB = &ang;LMD			[অনুরূপ কোণ]							২. AB || EF এবং PQ এদের ছেদক।[math]\therefore[/math]&ang;PLB = &ang;MNF[math]\therefore[/math]&ang;MD=&ang;MNF									[অনুরূপ কোণ]							৩. &ang;LMD, &ang;MNF পরস্পর অনুরূপ কোণ ও সমান।[math]\therefore[/math]CD || EF (প্রমাণিত)			
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 799912)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে, AB || CD এবং PQ রেখা এদেরকে যথাক্রমে E ও F বিন্দুতে ছেদ করেছে।
+
+Options:
+ক. &ang;BEF এর একান্তর কোণ কোনটি?
+খ. &ang;PEB এবং &ang;EFC এর মান নির্ণয় কর।
+গ. প্রমাণ কর যে, PF&nbsp;&perp; CD হলে প্রমাণ কর যে, PE&nbsp;&perp;&nbsp;AB.
+
+
+Correct Answer: 
+
+Solution:
+কচিত্রে, AB || CD এবং PQ, AB ও CD কে যথাক্রমে E ও F বিন্দুতে ছেদ করেছে।[math]\therefore[/math]&ang;BEF এর একান্তর কোণ &ang;EFC.
+খচিত্রানুসারে, [math]\angle \mathrm{BEF}=[/math] বিপ্রতীপ [math]\angle \mathrm{AEP}=(\mathrm{x}+30)^{\circ}[/math]আবার, [math]\angle \mathrm{BEF}+\angle \mathrm{EFD}=180^{\circ}[\because \mathrm{AB} \| \mathrm{CD}[/math] এবং EF ছেদক [math]][/math]বা, [math]\mathrm{x}+30+\mathrm{x}-10=180[/math]বা, [math]2 x+20=180[/math]বা, [math]2 x=180-20[/math]বা, [math]2 x=160[/math]বা, [math]x=160 \div 2=80[/math][math]\begin{aligned}&amp; \therefore \angle \mathrm{AEP}=(80+30)^{\circ}=110^{\circ} \\&amp; \therefore \angle \mathrm{PEB}=180^{\circ}-110^{\circ}=70^{\circ} \\&amp; \therefore \angle \mathrm{EFC}=\text { অনুরূপ } \angle \mathrm{AEP}=110^{\circ}\end{aligned}[/math]
+গ[Image]বিশেষ নির্বচন: মনে করি, AB || CD এবং PQ এদেরকে E ও F বিন্দুতেছেদ করেছে এবং PF&perp; CD. প্রমাণ করতে হবে যে, PE &perp; AB.প্রমাণ: 						ধাপ : 			যথার্থতা : 							১। AB || CD এবং EF তাদের ছেদক।[math]\therefore[/math]&ang;PEB = অনুরূপ &ang;EFD			&ang;EFD = 90&deg;[math]\therefore[/math]&ang;PEB = 90&deg;[math]\therefore[/math]PE &perp;AB [প্রমাণিত]						[অনুরূপ কোণ সমান হয়]			[PF &perp;CD]			
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 799915)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে AB || CD, ∠BPE = 60° এবং PQ = PR.
+
+Options:
+ক. দেখাও যে,&nbsp;[math]\frac{1}{2}[/math]&nbsp;&ang;APE = 60&deg;.
+খ. &ang;CQF এর মান বের কর।
+গ. প্রমাণ কর যে, PQR একটি সমবাহু ত্রিভুজ।
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]\angle \mathrm{APB}=180^{\circ}[/math] [সরল কোণ বলে]বা, [math]\angle \mathrm{APE}+\angle \mathrm{BPE}=180^{\circ}[/math]বা, [math]\angle \mathrm{APE}=180^{\circ}-\angle \mathrm{BPE}[/math]বা, [math]\angle \mathrm{APE}=180^{\circ}-60^{\circ}\left[\because \angle \mathrm{BPE}=60^{\circ}\right][/math]বা, [math]\angle \mathrm{APE}=120^{\circ}[/math]বা, [math]\frac{1}{2} \angle \mathrm{APE}=\frac{1}{2} \times 120^{\circ}[/math][math]\therefore \quad \frac{1}{2} \angle \mathrm{APE}=60^{\circ}[/math]. (দেখানো হলো)
+খEF সরলরেখা AB ও CD সমান্তরাল সরলরেখাকে P ও Q বিন্দুতে ছেদ করে বলে এদের অনুরূপ কোণ সমান হবে।অর্থাৎ [math]\angle \mathrm{BPE}=[/math] অনুরূপ [math]\angle \mathrm{PQD}[/math][math]\therefore \quad \angle \mathrm{P Q D}=60^{\circ}\left[\because \angle \mathrm{B P E}=60^{\circ}\right][/math]আবার [math]\angle \mathrm{PQD}=[/math] বিপ্রতীপ [math]\angle \mathrm{CQF}[/math] [[math]\because[/math] বিপ্রতীপ কোণ পরস্পর সমান ।][math]\begin{array}{ll}\therefore &amp; \angle \mathrm{C Q F}=60^{\circ}\left[\because \angle \mathrm{P Q D}=60^{\circ}\right] \\\therefore &amp; \angle \mathrm{C Q F} \text { এর মান } 60^{\circ} .\end{array}[/math]
+গএখানে, [math]\mathrm{PQ}=\mathrm{PR}[math]\therefore \quad \angle \mathrm{PRQ}=\angle \mathrm{PQR}[\because[/math] সমান সমান বাহুর বিপরীত কোণদ্বয় সমান]আবার, [math]\angle \mathrm{BPE}=60^{\circ}[/math]\angle \mathrm{PQR}=\text { অনুরূপ } \angle \mathrm{BPE}[/math]বা, [math]\angle \mathrm{PQR}=60^{\circ}\left[\because \angle \mathrm{BPE}=60^{\circ}\right][math]\therefore \quad \angle \mathrm{PRQ}=60^{\circ}[\because \angle \mathrm{PQR}=\angle \mathrm{PRQ}][/math]এখন, PQR ত্রিভুজে, [math]\angle \mathrm{QPR}+\angle \mathrm{PQR}+\angle \mathrm{PRQ}=180^{\circ}[/math]বা, [math]\angle \mathrm{QPR}+60^{\circ}+60^{\circ}=180^{\circ}[/math]বা, [math]\angle \mathrm{Q P R}+120^{\circ}=180^{\circ}[/math]বা, [math]\angle \mathrm{Q P R}=180^{\circ}-120^{\circ}[/math]\therefore \quad \angle \mathrm{Q P R}=60^{\circ}[/math]অর্থাৎ [math]\angle \mathrm{QPR}=\angle \mathrm{PQR}=\angle \mathrm{PRQ}=60^{\circ}[/math][math]\therefore \quad \mathrm{PQ}=\mathrm{QR}=\mathrm{PR}[/math]সুতরাং PQR একটি সমবাহু ত্রিভুজ। (প্রমাণিত)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 799880)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে, AB ও CD দুইটি সরলরেখা এবং PQ সরলরেখা উক্ত সরল রেখাদ্বয়কে E ও F দুইটি বিন্দুতে ছেদ করেছে।
+
+Options:
+ক. E ও F বিন্দু দুটিতে উৎপন্ন কোণ কয়টি? কোণগুলোকে ক্রমিক নম্বর দিয়ে চিহ্নিত কর।
+খ. অনুরূপ কোণ জোড়াগুলো চিহ্নিত কর এবং এদের বৈশিষ্ট্য লেখ।
+গ. একান্তর কোণ জোড়াগুলো চিহ্নিত কর এবং এদের বৈশিষ্ট্য লেখ।
+
+
+Correct Answer: 
+
+Solution:
+কE ও F বিন্দু দুটিতে উৎপন্ন কোণ 8টি। কোণগুলোকে 1, 2, 3, 4, 5, 6, 7, 8 দ্বারা চিহ্নিত করা হলো।[Image]
+খপ্রদত্ত চিত্রে, &ang;1 ও &ang;5, &ang;2ও &ang;6, &ang;3 ও &ang;7 এবং &ang;4 ও &ang;8 অনুরূপ কোণ জোড়া।সুতরাং &ang;1 = &ang;5, &ang;2 = &ang;6, &ang;3 = &ang;7 এবং &ang;4 = &ang;8অনুরূপ কোণ জোড়াগুলোর বৈশিষ্ট্য হলো:(i) এরা পরস্পর সমান;(ii) শীর্ষবিন্দু আলাদা;(iii) ছেদকের একই পাশে অবস্থিত।
+গপ্রদত্ত চিত্রে, [math]\angle 3[/math] ও [math]\angle 6, \angle 4[/math] ও [math]\angle 5, \angle 1[/math] ও [math]\angle 8[/math], এবং [math]\angle 2[/math] ও [math]\angle 7[/math] অনুরূপ কোণ জোড়া।সুতরাং [math]\angle 3=\angle 6, \angle 4=\angle 5, \angle 1=\angle 8[/math] এবং [math]\angle 2=\angle 7[/math]একান্তর কোণ জোড়াগুলোর বৈশিষ্ট্য হলো:(i) এরা পরস্পর সমান;(ii) শীর্ষবিন্দু আলাদা;(iii) ছেদকের বিপরীত পাশে অবস্থিত;(iv) সরলরেখা দুইটির মধ্যে অবস্থিত।
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 799885)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে, AB || CD এবং PQ ছেদক।
+
+Options:
+ক. দুইটি একান্তর কোণের নাম লেখ।
+খ. AB || CD এবং PQ উহাদের ছেদক। প্রমাণ কর যে, একান্তর কোণ জোড়া সমান।
+গ. প্রদত্ত উদ্দীপকে PQ রেখা AB ও CD কে E ও F বিন্দুতে ছেদ করলে প্রমাণ কর যে, &ang;BEF + &ang;EFD = দুই সমকোণ।
+
+
+Correct Answer: 
+
+Solution:
+কচিত্রে, AB || CD এবং PQ তাদের ছেদক।&ang;AEF এর একান্তর কোণ &ang;EFD.এবং &ang;BEF এর একান্তর কোণ &ang;EFC.
+খদেওয়া আছে, AB || CD ও PQ উহাদের ছেদক, উক্ত রেখাদ্বয়কে যথাক্রমে E ও F বিন্দুতে ছেদ করেছে। প্রমাণ করতে হবে যে, &ang;AEF = একান্তর &ang;EFD.						ধাপ: 			যথার্থতা 							(১) &ang;PEB = &ang;EFD			[অনুরূপ কোণ বলে]							(২) &ang;PEB = &ang;AEF[math]\therefore[/math]&ang;AEF = &ang;EFD			[বিপ্রতীপ কোণ বলে]			[(১) ও (২) থেকে]			অতএব, &ang;AEF = একান্তর &ang;EFD (প্রমাণিত)
+গচিত্রে, AB || CD ও PQ উহাদের ছেদক, PQ রেখা AB ও CD রেখাদ্বয়কে যথাক্রমে E ও F বিন্দুতে ছেদ করেছে। প্রমাণ করতে হবে যে, &ang;BEF + &ang;EFD = দুই সমকোণ।						ধাপ : 			যথার্থতা 							(১) &ang;PEB + &ang;BEF = দুই সমকোণ			[&ang;PEF সরলকোণ]							(২) &ang;PEB = &ang;AEF = &ang;EFD[math]\therefore[/math]&ang;EFD + &ang;BEF = দুই সমকোণ			['খ' হতে প্রাপ্ত]			[(১) ও (২) থেকে]			সুতরাং, &ang;BEF + &ang;EFD = দুই সমকোণ। (প্রমাণিত)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 799897)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে AB || CD, ∠EPB = 60°, এবং ∠PQD এর সমদ্বিখন্ডক QR ।
+
+Options:
+ক. &ang;APE এর মান কত?
+খ. &ang;DQR এর মান নির্ণয় কর।
+গ. প্রমাণ কর যে, PQR একটি সমদ্বিবাহু ত্রিভুজ।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\begin{aligned} &amp; \angle \mathrm{APE}+\angle \mathrm{EPB}=2 \text { সমকোণ }=180^{\circ} \\ &amp; \text { বा, } \begin{aligned} \angle \mathrm{APE} &amp; =180^{\circ}-\angle \mathrm{EPB} \\ &amp; =180^{\circ}-60^{\circ}\end{aligned} \\ &amp; \therefore \angle \mathrm{APE}=120^{\circ}\end{aligned}[/math][Image]
+খ[math]\begin{aligned} &amp; \angle \mathrm{DQR}=\frac{1}{2} \angle \mathrm{PQD} \\ &amp; \text { আবার, } \angle \mathrm{PQD}=\text { অনুরূপ } \angle \mathrm{EPB} \\ &amp; \therefore \mathrm{DQR}=\frac{1}{2} \angle \mathrm{EPB}=\frac{1}{2} \times 60^{\circ}=30^{\circ}\end{aligned}[/math]
+গদেওয়া আছে, AB || CD, এবং &ang;PQD এর সমদ্বিখণ্ডক QR ।প্রমাণ করতে হবে যে, \(\Delta\)PQR এ, PQ = QR						ধাপ 			যথার্থতা 							১. &ang;PQD + &ang;RPQ = 180&deg;			বা, &ang;PQR + &ang;RQD + &ang;RPQ			= 180&deg;............ (i)			[ছেদকের একটি পার্শ্বের অন্তঃস্থ কোণদ্বয় সম্পূরক]							২. আবার, \(\Delta\)PQR এ			= &ang;PQR + RPQ + &ang;PRQ			= 180&deg; ..........(ii)			[ত্রিভুজের তিন কোণের সমষ্টি 180&deg;]							৩. &ang;PQR + &ang;RQD + &ang;RPQ			[ধাপ (১) ও (২) থেকে]							৪. কিন্তু &ang;PQR = &ang;RQD[math]\therefore[/math]&ang;PQR = &ang;PRQ[math]\therefore[/math]\(\Delta\)PQR এ PQ = PR			[QR সমদ্বিখণ্ডক]			[সমান সমান কোণদ্বয়ের বিপরীত বাহুদ্বয় সমান]			
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 799867)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[Image]চিত্রে, AB || CD, ∠BPE = 60° এবং PQ = PR.
+
+Options:
+ক. &ang;BEF এর একান্তর কোণ কোনটি?
+খ. প্রমাণ কর যে, [math]\frac{1}{2} \angle \mathrm{APE}=60^{\circ}[/math].
+গ. প্রমাণ কর যে, PQR একটি সমবাহু ত্রিভুজ।
+
+
+Correct Answer: 
+
+Solution:
+ক[math]\begin{aligned} &amp; \angle \mathrm{APB}=180^{\circ} \text { [সরলকোণ বলে] } \\ &amp; \angle \mathrm{APE}+\angle \mathrm{BPE}=180^{\circ} \\ &amp; \therefore \angle \mathrm{APE}=180^{\circ}-\angle \mathrm{BPE} \\ &amp; \text { বা, } \angle \mathrm{APE}=180^{\circ}-60^{\circ} \text { [দেওয়া আছে] } \\ &amp; \text { বा, } \angle \mathrm{APE}=120^{\circ} \\ &amp; \text { বा, } \frac{1}{2} \angle \mathrm{APE}=\frac{1}{2} \times 120^{\circ} \\ &amp; \therefore \frac{1}{2} \angle \mathrm{APE}=60^{\circ} \text { (প্রমাণিত) }\end{aligned}[/math]
+খEF সরলরেখা AB ও CD সমান্তরাল রেখাদ্বয়কে ছেদ করে বলে এদের অনুরূপ কোণ সমান হবে। অর্থাৎ &ang;BPE = অনুরূপ &ang;PQD.আবার, &ang;PQD = বিপ্রতীপ &ang;CQF [বিপ্রতীপ কোণ পরস্পর সমান][math]\therefore[/math]&ang;CQF = 60&deg;
+গদেওয়া আছে, PQ = PR[math]\angle \mathrm{PQR}=\angle \mathrm{PRQ}=60^{\circ}[\because[/math] বিপ্রতীপ কোণ [math]][/math]এখন, [math]\triangle \mathrm{PQR}[/math] এ, [math]\angle \mathrm{PRQ}+\angle \mathrm{QPR}+\angle \mathrm{PQR}=180^{\circ}[/math]বা, [math]60^{\circ}+\angle \mathrm{QPR}+60^{\circ}=180^{\circ}[/math]বা, [math]\angle \mathrm{QPR}=180^{\circ}-120^{\circ}[/math]বা, [math]\angle \mathrm{QPR}=60^{\circ}[math]\therefore \angle \mathrm{PQR}=\angle \mathrm{PRQ}=\angle \mathrm{QPR}=60^{\circ}[/math]কাজেই, [math]\mathrm{PQ}=\mathrm{PR}=\mathrm{QR}[/math]\therefore \triangle \mathrm{PQR}[/math] একটি সমবাহু ত্রিভুজ। (প্রমাণিত)
+ঘ
+
+
+Explanation:
+
+
+Sub-Questions:
+

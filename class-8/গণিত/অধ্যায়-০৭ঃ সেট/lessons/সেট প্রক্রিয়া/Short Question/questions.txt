@@ -1,0 +1,252 @@
+================================================================================
+Question #1 (ID: 802429)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+P ও Q যথাক্রমে 12 ও 18 এর সকল গুণনীয়কের সেট হলে [math]\mathrm P \cap \mathrm Q[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে,[math]\begin{aligned}12 &amp; =1 \times 12 \\&amp; =2 \times 6 \\&amp; =3 \times 4\end{aligned}[math]\therefore \mathrm{P}=\{1,2,3,4,6,12\}[/math]\begin{aligned}\text { আবার, } 18 &amp; =1 \times 18 \\&amp; =2 \times 9 \\&amp; =3 \times 6 \\\therefore \mathrm Q= &amp; \{1,2,3,6,9,18\} \\\therefore \mathrm P \cap \mathrm Q &amp; =\{1,2,3,4,6,12\} \cap\{1,2,3,6,9,18\} \\&amp; =\{1,2,3,6\}\end{aligned}[/math]নির্ণেয় সেট : [math]\mathrm{P} \cap \mathrm{Q}=\{1,2,3,6\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 802418)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{U}=\{1,2,3,4,5,6\}, \mathrm{A}=\{1,3,5\}[/math] এবং [math]\mathrm{B}=\{2,4,6\}[/math] হলে [math]\mathrm{A}^{\prime} \cup \mathrm{B}^{\prime}[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]\mathrm{U}=\{1,2,3,4,5,6\}, \mathrm{A}=\{1,3,5\}[/math] এবং [math]\mathrm B=\{2,4,6\}[/math]এখানে, [math]\mathrm A^{\prime}=\mathrm A[/math] এর পূরক সেট[math]= \mathrm A[/math] এর বহির্ভূত উপাদানসমূহের সেট[math]=\{2,4,6\}[math]\mathrm B^{\prime}=\mathrm B[/math] এর পূরক সেট [math]=\mathrm B[/math] এর বহির্ভূত উপাদানসমূহের সেট [math]=\{1,3,5\}[/math]\therefore \mathrm A^{\prime} \cup \mathrm B^{\prime}=\{2,4,6\} \cap\{1,3,5\}=\{1,2,3,4,5,6\}[/math]নির্ণেয় সেট : [math]\mathrm A^{\prime} \cup \mathrm B^{\prime}=\{1,2,3,4,5,6\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 802419)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm P=\{2,3,4,5\}, \mathrm Q=\{3,4,5,6\}[/math] হলে, [math]\mathrm P \cap \mathrm Q[/math] এর উপসেট নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে,[math]\begin{aligned}&amp; \mathrm{P}=\{2,3,4,5\} \text { এবং } \mathrm{Q}=\{3,4,5,6\} \\&amp; \therefore \mathrm{P} \cap \mathrm{Q}=\{2,3,4,5\} \cap\{3,4,5,6\} \\&amp; =\{3,4,5\}\end{aligned}[/math][math]\therefore \mathrm P \cap \mathrm Q[/math] এর উপসেটসমূহ [math]\varnothing,\{3\},\{4\},\{5\},\{3,4\},\{3,5\}[/math], [math]\{4,5\},\{3,4,5\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 802420)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]P=\{x: x, 8[/math] এর গুণনীয়কসমূহ [math]\}[/math] এবং [math]Q=\{x: x, 12[/math] এর গুণনীয়কসমূহ [math]\}[/math] হলে, [math]{P} \cup {Q}[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]\mathrm P=\{x: x, 8[/math] এর গুণনীয়কসমূহ[math]\}[math]=\{1,2,4,8\}[/math]\begin{aligned}\text { এবং } {Q} &amp; =\{\mathrm{x}: \mathrm{x}, 12 \text { এর গুণনীয়কসমূহ}\} \\&amp; =\{1,2,3,4,6,12\} \\\therefore \mathrm{P} \cup \mathrm{Q} &amp; =\{1,2,4,8\} \cup\{1,2,3,4,6,12\} \\&amp; =\{1,2,3,4,6,8,12\}\end{aligned}[/math]নির্ণেয় সেট : [math]\mathrm P \cup Q=\{1,2,3,4,6,8,12\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 802421)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}=\{1,3,4,5\}[/math] এবং [math]\mathrm{B}=\{2,3,4,6\}[/math] হলে, [math]\mathrm{A} \cap \mathrm{B}[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]\mathrm{A}=\{1,3,4,5\}[/math] এবং [math]\mathrm{B}=\{2,3,4,6\}[/math][math]\begin{aligned}\therefore A \cap B &amp; =\{1,3,4,5\} \cap\{2,3,4,6\} \\&amp; =\{3,4\}\end{aligned}[/math]নির্ণেয় সেট : [math]A\cap \mathrm{B}=\{3,4\}[/math].
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 802422)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm U=\{1,2,3,4,5,6,7\},[/math] [math]\mathrm{A}=\{1,3,5\}, \mathrm{B}=\{2,4,6\}[/math] হলে, [math]{\mathrm A}^{\prime} \cap {\mathrm B}^{\prime}=[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]\mathrm{U}=\{1,2,3,4,5,6,7\}, \mathrm{A}=\{1,3,5\}[/math] এবং [math]\mathrm B=\{2,4,6\}[/math]এখন, [math]\mathrm A^{\prime}=\mathrm A[/math] এর পূরক সেট [math]=A[/math] এর বহির্ভূত উপাদানসমূহের সেট [math]=\{2,4,6,7\}[/math] এবং [math]\mathrm B[/math] এর পূরক সেট [math] = \mathrm B[/math] এর বহির্ভূত উপাদানসমূহের সেট [math]=\{1,3,5,7\}[/math][math]\begin{aligned}\therefore \mathrm{A}^{\prime} \cap \mathrm{B}^{\prime} &amp; =\{2,4,6,7\} \cap\{1,3,5,7\} \\&amp; =\{7\}\end{aligned}[/math]নির্ণেয় সেট : [math]\mathrm{A}^{\prime} \cap \mathrm{B}^{\prime}=\{7\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 802423)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}=\{3,5,7,9\}, \mathrm{B}=\{\mathrm{x} \in \mathrm{N}: \mathrm{x}, 3[/math] এর গুণিতক এবং [math]\mathrm{x} \leq 9\}[/math] হলে, [math]\mathrm{A} \cap \mathrm{B}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]A=\{3,5,7,9\}[/math]এবং [math]B=\{x \in N: x, 3[/math] এর গুণিতক এবং [math]x \leq 9\}=\{3,6,9\}[/math][math]\therefore A \cap B=\{3,5,7,9\} \cap\{3,6,9\}=\{3,9\}[/math]নির্ণেয় সেট : [math]\mathrm{A} \cap \mathrm{B}=\{3,9\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 802424)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{U}=\{2,4,6,8,10\}, \mathrm{P}=\{2,4,10\}[/math] হলে [math]\mathrm{P} \cup \mathrm{P}^{\prime}=[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math] \mathrm U=\{2,4,6,8,10\}[/math]এবং [math] \mathrm P=\{2,4,10\}[math]\therefore \mathrm{P}^{\prime}=\mathrm{P}[/math] এর পূরক সেট[math]= \mathrm P[/math] এর বহির্ভূত উপাদানসমূহের সেট [math]=\{6,8\}[/math]\therefore \mathrm P \cup \mathrm P^{\prime}=\{2,4,10\} \cup\{6,8\}=\{2,4,6,8,10\}[/math]নির্ণেয় সেট : [math] \mathrm P \cup \mathrm P^{\prime}=\{2,4,6,8,10\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 802425)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{R}=\{\mathrm{x}: \mathrm{x}[/math], জোড় স্বাভাবিক সংখ্যা এবং [math]2&lt;x&lt;8\}[/math] এবং [math]\mathrm S=\{x: x, 15[/math] এর গুণনীয়কসমূহ [math]\}[/math] হলে, দেখাও যে, [math]\mathrm R[/math] ও [math]\mathrm S[/math] সেটদ্বয় পরস্পর নিচ্ছেদ সেট।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে,[math]\begin{aligned}\mathrm{R} &amp; =\{\mathrm{x}: \mathrm{x}, \text { জোড় স্বাভাবিক সংখ্যা এবং} ~ 2&lt;\mathrm{x}&lt;8\} \\&amp; =\{4,6\} \\\mathrm{S} &amp; =\{\mathrm{x}: \mathrm{x}, 15 \text { এর গুণনীয়কসমূহ }\} \\&amp; =\{1,3,5,15\} \\\therefore &amp; \mathrm{R} \cap \mathrm{~S}=\{4,6\} \cap\{1,3,5,15\}=\varnothing\end{aligned}[/math][math]\therefore[/math] R ও S সেটদ্বয় পরস্পর নিশ্ছেদ সেট(দেখানো হলো)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 802426)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]{A}=\{2,3,4\}, {B}=\{3, {a}\}[/math] এবং [math]{C}=\{{a}, {b}\}[/math] হলে, [math](A \cup B) \cap C[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]A=\{2,3,4\}, B=\{3, a\}[/math] এবং [math]C=\{a, b\}[math]\therefore A \cup B=\{2,3,4\} \cup\{3, a\}=\{2,3,4, a\}[/math](A \cup B) \cap C=\{2,3,4, a\} \cap\{a, b\}=\{a\}[/math]নির্ণেয় সেট : [math](A \cup B) \cap C=\{a\}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 802427)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]A=\{3,4,5, a\}, B=\{4,5\}[/math] হলে, [math]A \cup B=[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]A=\{3,4,5, a\}[/math] এবং [math]B=\{4,5\}[/math][math]\therefore A \cup B=\{3,4,5, a\} \cup\{4,5\}=\{3,4,5, a\}[/math]নির্ণেয় সেট : [math]A \cup B=\{3,4,5, a\}[/math].
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 802428)
+--------------------------------------------------------------------------------
+Type: Short Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]A=\{1,3,5\}, B\{2,4,6\}[/math] এবং [math]C=\{2,3,4,5\}[/math] হলে [math]A \cap(B \cup C)[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে,[math]\begin{aligned}&amp; A=\{1,3,5\}, B\{2,4,6\} \text { এবং } C=\{2,3,4,5\} \\&amp; \therefore B \cup C=\{2,4,6\} \cup\{2,3,4,5\}=\{2,3,4,5,6\} \\&amp; \therefore A \cap(B \cup C)=A \cap(B \cup C) \\&amp;=\{1,3,5\} \cap\{2,3,4,5,6\} \\&amp;=\{3,5\}\end{aligned}[/math]নির্ণেয় সেট : [math]A \cap(B \cup C)=\{3,5\}[/math].
+
+Explanation:
+
+
+Sub-Questions:
+

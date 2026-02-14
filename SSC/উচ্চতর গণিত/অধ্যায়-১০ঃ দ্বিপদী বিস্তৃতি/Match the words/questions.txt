@@ -1,0 +1,86 @@
+================================================================================
+Question #1 (ID: 123149)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In the context of algebraic expressions, how does the concept of polynomial factorization relate to the identification of the degree of the polynomial and its leading coefficient?
+
+Options:
+a. The degree indicates the highest power of the variable, while the leading coefficient is the coefficient of that term.
+b. The degree determines the number of terms in the polynomial, while the leading coefficient is irrelevant.
+c. The degree affects the polynomial's ability to be factored, while the leading coefficient is always one.
+d. The degree and leading coefficient have no relation in polynomial factorization.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1: Write a general polynomial as [math]p(x)=a_nx^n+a_{n-1}x^{n-1}+\dots+a_1x+a_0[/math].  
+Step 2: By definition the degree is the highest exponent, i.e. [math]n[/math], and the leading coefficient is the coefficient of that term, i.e. [math]a_n[/math].  
+Step 3: Factorization does not change these facts: for example [math]2x^2+4x=2x(x+2)[math] has degree [math]2[/math] and leading coefficient [math]2[/math]; when factoring, the leading coefficient equals the product of leading coefficients of the factors.  
+Therefore option a is correct. Options b, c, d are incorrect because the degree does not count terms (b), the leading coefficient need not be 1 (c), and degree and leading coefficient do play roles in factorization (d).
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 123137)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In which scenario does a polynomial expression become a binomial?
+
+Options:
+a. When it has two terms.
+b. When it has one term.
+c. When it contains a variable raised to a power of 2.
+d. When it has more than two terms.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1: Definition — a polynomial is an expression made of one or more terms added or subtracted; a binomial specifically has exactly two terms.  
+Step 2: Condition — when a polynomial has two terms (for example [math]3x + 2[/math] or [math]x^2 + 5x[/math]) it is called a binomial.  
+Therefore the correct answer is option a.  
+Brief note on other options: option b describes a monomial (one term), option c (a squared variable) refers to the power but not the number of terms, and option d (more than two terms) gives a trinomial or higher.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 123138)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the significance of Pascal's triangle in relation to binomial expansions?
+
+Options:
+a. It provides the coefficients for binomial expansions.
+b. It helps in solving quadratic equations.
+c. It is used to calculate areas of triangles.
+d. It determines the roots of polynomials.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Step 1: Pascal's triangle lists binomial coefficients which are exactly the coefficients in the expansion of [math](a+b)^n[/math]; the general term is [math]\binom{n}{k}[/math], the [math]k[/math]-th entry of the [math]n[/math]-th row.  
+Step 2: Examples: [math](a+b)^2 = a^2 + 2ab + b^2[/math] corresponds to the row [math]1,2,1[/math]; [math](a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3[/math] corresponds to [math]1,3,3,1[/math].  
+Conclusion: therefore option a is correct. Options b, c, d are incorrect because Pascal's triangle does not provide methods for solving general quadratic equations, computing geometric areas, or finding polynomial roots—its role is to give binomial coefficients.
+
+Explanation:
+
+
+Sub-Questions:
+

@@ -1,0 +1,1427 @@
+================================================================================
+Question #1 (ID: 774394)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+log2√5400=xlog25⁡400=x\log _{2 \sqrt{5}} 400=x হলে, xxx-এর মান কত?
+
+Options:
+ক. 1
+খ. 2
+গ. 3
+ঘ. 4
+
+
+Correct Answer: ঘ
+
+Solution:
+$\log _{\sqrt[2]{5}} 400=x$
+বা, $\log _{\sqrt[2]{5}}(2 \sqrt{5})^4=x$
+বা, $4 \log _{\sqrt[2]{5}} 2 \sqrt{5}=x$
+$
+\therefore x=4 \text {. }
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 774383)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+px=ypx=yp^x=y হলে নিচের কোনটি সঠিক?
+
+Options:
+ক. $p=\log _x y$
+খ. $x=\log _p y$
+গ. $x=\log _y p$
+ঘ. $y=\log _p x$
+
+
+Correct Answer: খ
+
+Solution:
+\(p^x=y\)
+লগারিদমের সংজ্ঞা অনুযায়ী পাই,
+$P&gt;0$ এবং $P 
+eq 0$ হলে, $x=\log _p y$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 774384)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+3log5323log5⁡323^{\log_5 3^2} এর মান কত?
+
+Options:
+ক. 2
+খ. 3
+গ. 5
+ঘ. 9
+
+
+Correct Answer: ঘ
+
+Solution:
+আমরা জানি, \(a^{\log_a^~b}=b\)
+$\therefore 5^{\log _5 3^2}=5^{\log _5 9}=9$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 774385)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+log2(p+q)=3log2⁡(p+q)=3\log _2(p+q)=3 এবং log2(p−q)=4log2⁡(p−q)=4\log _2(p-q)=4 হলে, ppp এর মান কত?
+
+Options:
+ক. $\frac{7}{2}$
+খ. 7
+গ. 12
+ঘ. $\frac{25}{2}$
+
+
+Correct Answer: গ
+
+Solution:
+দেওয়া আছে,
+$
+\log _2(p+q)=3
+$
+বা, $p+q=2^3$
+$
+\therefore \mathrm{p}+\mathrm{q}=8........(i)
+$
+এবং $\log _2(p-q)=4$
+বা, $p-q=2^4$
+$
+\therefore p-q=16........(ii)
+$
+(i) নং ও (ii) নং যোগ করে পাই, $2 \mathrm{p}=24$
+$
+\begin{aligned}
+&amp; \text { বা, } p=\frac{24}{2} \\
+&amp; \therefore p=12 
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 774386)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০১৯
+--------------------------------------------------------------------------------
+Question:
+log√84log8⁡4\log _{\sqrt{8}} 4 এর মান কত?
+
+Options:
+ক. 8
+খ. 2
+গ. $\frac{4}{3}$
+ঘ. $\frac{3}{4}$
+
+
+Correct Answer: গ
+
+Solution:
+$\log _{\sqrt{8}} 4=\log _{\sqrt{8}} 3\sqrt{4^3}=\log _{\sqrt{x}}(64)^{\frac{1}{3}}$
+$
+\begin{aligned}
+&amp; =\frac{1}{3} \log _{\sqrt{8}} 64 \\
+&amp; =\frac{1}{3} \log _{\sqrt{8}}(\sqrt{8})^4=\frac{1}{3} .4 \log _{\sqrt{8}} \sqrt{8}=\frac{4}{3}
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 774387)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কু. বো.'২০১৬
+--------------------------------------------------------------------------------
+Question:
+log82+log5√5=log8⁡2+log5⁡5=\log _8 2+\log _5 \sqrt{5}= কত?
+
+Options:
+ক. $\frac{5}{6}$
+খ. $\frac{6}{5}$
+গ. $\frac{7}{2}$
+ঘ. $\log _{40} 2 \sqrt{5}$
+
+
+Correct Answer: ক
+
+Solution:
+$: \log _8 2+\log _5 \sqrt{5}=\log _8{ }^{(8) \frac{1}{3}}+\log _5$\(^{(5)\frac{1}{2}}\)
+$\begin{aligned} &amp; =\frac{1}{3} \log _8 8+\frac{1}{2} \log _5 5 \\ &amp; =\frac{1}{3} \cdot 1+\frac{1}{2} \cdot 1=\frac{1}{3}+\frac{1}{2}=\frac{5}{6} .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 774388)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ,আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+log216+log42=log2⁡16+log4⁡2=\log _2 16+\log _4 2= কত?
+
+Options:
+ক. $\frac{9}{2}$
+খ. $\frac{7}{2}$
+গ. $\frac{11}{2}$
+ঘ. $\frac{5}{2}$
+
+
+Correct Answer: ক
+
+Solution:
+$\log _2 16+\log _4 2=\log _2 2^4+\log _4 4^{\frac{1}{2}}$
+$=4 \log _2 2+\frac{1}{2} \log _4 4=4 \times 1+\frac{1}{2} \times 1\\=4+\frac{1}{2}=\frac{9}{2}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 774389)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: বরিশাল জিলা স্কুল,ঢাকা রেসিডেনসিয়াল মডেল কলেজ
+--------------------------------------------------------------------------------
+Question:
+log82+log√55log8⁡2+log5⁡5\log _8 2+\log _{\sqrt{5}} 5 এর মান কোনটি?
+
+Options:
+ক. $\frac{-7}{2}$
+খ. $\frac{-5}{2}$
+গ. $\frac{+5}{2}$
+ঘ. $\frac{7}{3}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\begin{aligned} &amp; \text {} \log _8{ }^2+\log _{\sqrt{5}} 5 \\ &amp; =\log _8\left(2^3\right)^{\frac{1}{3}}+\log _{\sqrt{5}}(\sqrt{5})^2 \\ &amp; =\frac{1}{3} \log _8{ }^8+2 \log _{\sqrt{5}} \sqrt{5}=\frac{1}{3}+2=\frac{7}{3} .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 774390)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+log10(91+x2)=2log10⁡(91+x2)=2\log _{10}\left(91+x^2\right)=2 হলে xxx এর মান-
+
+i. 0
+
+ii. -3
+
+iii. 3
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+এখানে, $\log _{10}\left(91+x^2\right)=2$
+বা, $91+x^2=10^2$
+বা, $x^2=100-9 1$
+বা, $x^2=9$
+$
+\therefore x= \pm \sqrt{9}= \pm 3
+$
+(i) $x=0$ হলে,
+$
+\begin{aligned}
+\text { বামপক্ষে } &amp; =\log _{10}(91+0) \\
+&amp; =\log _{10} 91=1.95 
+eq 2
+\end{aligned}
+$
+(ii) $x=-3$ হলে,
+$
+\begin{aligned}
+\text { বামপক্ষ } &amp; =\log _{10}\left\{91+(-3)^2\right\}=\log _{10} 100 \\
+&amp; =\log _{10} 10^2=2 \log _{10} 10=2=\text { ডানপক্ষ }
+\end{aligned}
+$
+(iii) $x=3$ হলে,
+$
+\begin{aligned}
+\text { বামপক্ষ } &amp; =\log _{10}\left(91+3^2\right) \\
+&amp; =\log _{10} 100=\log _{10} 10^2 \\
+&amp; =2 \log _{10} 10=2=\text { ডানপক্ষ }
+\end{aligned}
+$
+$\therefore$ (i) সঠিক নয়
+$\therefore$ (ii) ও (iii) সঠিক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 774391)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+logx9=2logx⁡9=2\log _x 9=2 হলে, x=x=x= কত?
+
+Options:
+ক. - 3
+খ. $\sqrt{2}$
+গ. 3
+ঘ. 81
+
+
+Correct Answer: গ
+
+Solution:
+$\log_ x9=2$
+বা, $x^2=9$
+বা, $x=\sqrt{9}$
+$\therefore \mathbf{x}=\mathbf{3}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 774392)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২০;কু. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+যদি log√27x=113log27⁡x=113\log _{\sqrt{27}} x=1 \frac{1}{3} হয় তাহলে x=?x=?x=?
+
+Options:
+ক. 3
+খ. 9
+গ. $\frac{1}{3}$
+ঘ. $\frac{1}{9}$
+
+
+Correct Answer: খ
+
+Solution:
+$\log _{\sqrt{27}} \mathrm{x}=1 \frac{1}{3}$
+বা, $x=(\sqrt{27})^{\frac{4}{3}}=\left\{\left(3^3\right)^{\frac{1}{2}}\right\}^{\frac{4}{3}}=\left(3^{\frac{3}{2}}\right)^{\frac{4}{3}}=3^2=9$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 774393)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: বগুড়া জিলা স্কুল
+--------------------------------------------------------------------------------
+Question:
+logxa×logab×logbc×logcy=log⁡xa×log⁡ab×log⁡bc×log⁡cy=\log x^a \times \log a^b \times \log b^c \times \log c^y= কত?
+
+Options:
+ক. $\log ^x y$
+খ. $\log ^y x$
+গ. $\log&nbsp; y$
+ঘ. $\log x $
+
+
+Correct Answer: খ
+
+Solution:
+$
+\begin{aligned}
+&amp;  \text { } \log _x^a \times \log _a^b \times \log _b{ }^c \times \log _c{ }^y \\
+&amp; =\log _x{ }^a \times \log _a{ }^b \times \log _b{ }^y \\
+&amp; =\log _x{ }^a \times \log _a^y=\log _x ^y
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 774382)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রাজউক উত্তরা মডেল কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+a,b,p&gt;0a,b,p&gt;0a, b, p>0 এবং a≠1,b≠1a≠1,b≠1a 
+eq 1, b 
+eq 1, হলে-
+
+i. logap=logbp×logabloga⁡p=logb⁡p×loga⁡b \log _a p=\log _b p \times \log _a b
+
+ii. xlogay=ylogaxxloga⁡y=yloga⁡xx^{\log _a{}^ y}=y^{\log _a{}^ x}
+
+iii. loga√a×logb√b×logc√c=8loga⁡a×logb⁡b×logc⁡c=8\log _a \sqrt{\mathrm{a}} \times \log _{\mathrm{b}} \sqrt{\mathrm{b}} \times \log _c \sqrt{\mathrm{c}}=8
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+ক. i ও ii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 774395)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+যদি m,n,x&gt;0m,n,x&gt;0m, n, x>0 এবং m≠1,n≠1m≠1,n≠1m 
+eq 1, n 
+eq 1 হয়, তবে-
+
+i. 2log√mm+3log√nn=52logm⁡m+3logn⁡n=5 2 \log _{\sqrt{m}} m+3 \log _{\sqrt{n}} n=5
+
+ii. logm+logn−logx=logmnxlog⁡m+log⁡n−log⁡x=log⁡mnx\log m+\log n-\log x=\log \frac{m n}{x}
+
+iii. mx=3√m2mx=m23\mathrm{m}^{\mathrm{x}}=\sqrt[3]{\mathrm{m}^2}, যখন x=23x=23\mathrm{x}=\frac{2}{3}
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+i.
+$
+\begin{aligned}
+\text { বামপক্ষ } &amp; =2 \log _{\sqrt{m}} \mathrm{~m}+3 \log _{\sqrt{\mathrm{n}}} \mathrm{n} \\
+&amp; =2 \log _{\sqrt{\mathrm{m}}} \sqrt{\mathrm{~m}}^2+3 \log _{\sqrt{\mathrm{n}}} \sqrt{\mathrm{n}}^2 \\
+&amp; =2.2 \log _{\sqrt{\mathrm{m}}} \sqrt{\mathrm{~m}}+3.2 \log _{\sqrt{\mathrm{n}}} \sqrt{\mathrm{n}} \\
+&amp; =4.1+6.1 \\
+&amp; =4+6=10 
+eq \text { ডানপক্ষ }
+\end{aligned}
+$
+ii. বামপক্ষ $=\log m+\log n-\log x=\log \frac{m n}{x}=$ ডানপক্ষ
+iii. বামপক্ষ $=m^x=m^{\frac{2}{3}}=\left(m^2\right)^{\frac{1}{3}}=\sqrt[3]{m^2}=$ ডানপক্ষ
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 774396)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যদি m,n,x&gt;0m,n,x&gt;0m, n, x>0 এবং m≠1,n≠1m≠1,n≠1m 
+eq 1, n 
+eq 1 হয়, তবে-
+
+i. 4log√mm+log√nn=104logm⁡m+logn⁡n=10 4 \log _{\sqrt{m}} m+\log _{\sqrt{n}} n=10
+
+ii. logm+logn−logx=logmnxlog⁡m+log⁡n−log⁡x=log⁡mnx\log m+\log n-\log x=\log \frac{m n}{x}
+
+iii. mx=5√m2mx=m25\mathrm{m}^{\mathrm{x}}=\sqrt[5]{\mathrm{m}^2}, যখন x=25x=25\mathrm{x}=\frac{2}{5}
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+ঘ. i, ii ও iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 774397)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+logx4+logx16logx⁡4+logx⁡16\log _x 4+\log _x 16 = 6 হলে, logx8logx⁡8\log _x 8 এর মান কত?
+
+Options:
+ক. 1
+খ. 2
+গ. 3
+ঘ. 6
+
+
+Correct Answer: গ
+
+Solution:
+$\log _x 4+\log _x 16=6$
+বা, $\log _x(4 \times 16)=6$
+বা, $\log _x 64=6$
+বা, $x^6=64$
+বা, $x^6=2^6$
+$
+\therefore \mathrm{x}=2
+$
+এখন, $\log _x 8=\log _2 8=\log _2 2^3=3 \log _2 2=3,1=3$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 774398)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+log42+log82=log4⁡2+log8⁡2=\log _4 2+\log _8 2= কত?
+
+Options:
+ক. $\frac{1}{4}$
+খ. $\frac{1}{8}$
+গ. $\frac{5}{6}$
+ঘ. $\frac{6}{5}$
+
+
+Correct Answer: গ
+
+Solution:
+$\begin{aligned} &amp; \text {} \log _4 2+\log _8 2 \\ &amp;=\log _4 \sqrt{4}+\log _8 \sqrt[3]{2^3} \\ &amp;=\log _4 4^{\frac{1}{2}}+\log _8 8^{\frac{1}{3}} \\ &amp;=\frac{1}{2} \log _4 4+\frac{1}{3} \log _8 8=\frac{1}{2}+\frac{1}{3}=\frac{3+2}{6}=\frac{5}{6}\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 774399)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+log√27x=313log27⁡x=313\log _{\sqrt{27}} x=3 \frac{1}{3} হলে xxx এর মান কত?
+
+Options:
+ক. 32
+খ. 81
+গ. 90
+ঘ. 243
+
+
+Correct Answer: ঘ
+
+Solution:
+$\log _{\sqrt{27}} x=3 \frac{1}{3}$
+বা, $\log _{\sqrt{27}} x=\frac{10}{3}$
+বা, $(\sqrt{27})^{\frac{10}{3}}=\mathrm{x}$
+বা, $\left(\sqrt{3^3}\right)^{\frac{10}{3}}=\mathrm{x}$
+বা, $\left(3^{\frac{3}{2}}\right)^{\frac{10}{3}}=\mathrm{x}$
+বা, $x=3^5 \quad \therefore x=243$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 774400)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+log√164=−32log⁡164=−32\log \sqrt{\frac{1}{64}}=-\frac{3}{2} হলে, xxx এর মান কত?
+
+Options:
+ক. $\frac{1}{16}$
+খ. $\frac{1}{4}$
+গ. 4
+ঘ. 16
+
+
+Correct Answer: গ
+
+Solution:
+দেওয়া আছে, $\log _x \sqrt{\frac{1}{64}}=-\frac{3}{2}$
+বা, $x^{-\frac{3}{2}}=\sqrt{\frac{1}{64}}$
+বা, $x^{-\frac{3}{2}}=\frac{1}{8}=\frac{1}{2^3}$
+বা, $x^{-\frac{3}{2}}=2^{-3}$
+বা, $\left(x^{\frac{1}{2}}\right)^{-3}=2^{-3}$ বা, $x^{\frac{1}{2}}=2$
+বা, $\sqrt{x}=2$
+$\therefore \quad x=4$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 774401)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: দি. বো.'২০২০;ম. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+log√32x=65log32⁡x=65\log _{\sqrt{32}} x=\frac{6}{5} হলে x এর মান কত?
+
+Options:
+ক. 2
+খ. 6
+গ. 8
+ঘ. $10 \sqrt{2}$
+
+
+Correct Answer: গ
+
+Solution:
+$\log _{\sqrt{32}} x=\frac{6}{5}$
+বা, $x=(\sqrt{32})^{\frac{6}{5}}=\left\{\left(2^5\right)^{\frac{1}{2}}\right\}^{\frac{6}{5}}=\left(2^{\frac{5}{2}}\right)^{\frac{6}{5}}=2^3=8$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 774402)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০১৭
+--------------------------------------------------------------------------------
+Question:
+যদি logx√127=−32log⁡x127=−32\log x \sqrt{\frac{1}{27}}=-\frac{3}{2} হয়, তবে xxx এর মান কত?
+
+Options:
+ক. <span class="math-tex">\(- 3\)</span>
+খ. $-\frac{3}{2}$
+গ. $\frac{3}{2}$
+ঘ. <span class="math-tex">\(3\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+$\log x \sqrt{\frac{1}{27}}=-\frac{3}{2}$
+বা, $x^{-\frac{3}{2}}=\sqrt{\frac{1}{27}}$
+বা, $x^{-\frac{3}{2}}=\left(\frac{1}{3^3}\right)^{\frac{1}{2}}$
+বা, $x^{-\frac{3}{2}}=3^{-\frac{3}{2}}$
+$
+\therefore \quad {x}=3 .
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 774403)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢাকা রেসিডেনসিয়াল মডেল কলেজ
+--------------------------------------------------------------------------------
+Question:
+যদি log√8x=513log8⁡x=513\log _{\sqrt{8}} x=5 \frac{1}{3} হয়, তাহলে xxx-এর মান কত?
+
+Options:
+ক. 256
+খ. 32
+গ. 8
+ঘ. <span class="math-tex">\(\frac{128}{3}\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+$\log _{\sqrt{8}} x=5 \frac{1}{3}=\frac{16}{3}$
+বা, $x=(\sqrt{8})^{\frac{16}{3}}=\left(\sqrt{2^3}\right)^{\frac{16}{3}}=\left(2^{\frac{3}{2}}\right)^{\frac{16}{3}}\\=2^{\frac{3}{2} \times \frac{16}{3}}=2^8=256.$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 774404)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ডাঃ খাস্তগীর সরকারি বালিকা উচ্চ বিদ্যালয়, চট্টগ্রাম
+--------------------------------------------------------------------------------
+Question:
+logx4+logx16=6logx⁡4+logx⁡16=6\log _x 4+\log _x 16=6 হলে, logx8logx⁡8\log _x 8 = কত?
+
+Options:
+ক. 1
+খ. 2
+গ. 3
+ঘ. 4
+
+
+Correct Answer: গ
+
+Solution:
+$\begin{aligned} &amp;  \text { } \log _x 4+\log _x 16=6 \\ &amp; \text { বা, } \log _x(4 \times 16)=6 \\ &amp; \text { বা, } x^6=64=2^6 \\ &amp; \therefore x=2 \\ &amp; \therefore \log _2 8=\log _2 2^3=3 \log _2 2=3 \cdot 1=3 .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 774405)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+log5(17+√x)=2log5⁡(17+x)=2\log _5(17+\sqrt{x})=2 হলে xxx এর মান কোনটি?
+
+Options:
+ক. 4
+খ. 16
+গ. 64
+ঘ. $2 \sqrt{2}$
+
+
+Correct Answer: গ
+
+Solution:
+$\log _5(17+\sqrt{x})=2$
+বা, $17+\sqrt{x}=5^2=25$
+বা, $\sqrt{x}=8$
+$
+\therefore \mathrm{x}=64 \text {. }
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 774381)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কুমিল্লা জিলা স্কুল
+--------------------------------------------------------------------------------
+Question:
+logx3+logx81=5logx⁡3+logx⁡81=5\log _x 3+\log _x 81=5 হলে, x এর মান কত?
+
+Options:
+ক. 3
+খ. 9
+গ. 27
+ঘ. 81
+
+
+Correct Answer: ক
+
+Solution:
+এখানে, $\log _x 3+\log _x 81=5$
+$
+\log _x(3 \times 81)=5
+$
+বা, $x^5=3 \times 81=3 \times 3^4=3^5$
+বা, $x^5=3^5 \therefore x=3$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 774361)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+log√28log2⁡8\log _{\sqrt{2}} 8 এর মান কত?
+
+Options:
+ক. 3
+খ. $4 \sqrt{2}$
+গ. 6
+ঘ. $8 \sqrt{2}$
+
+
+Correct Answer: গ
+
+Solution:
+$\log _{\sqrt{2}} 8=\log _{\sqrt{2}}(\sqrt{2})^6=6 \log _{\sqrt{2}} \sqrt{2}=6. 1=6$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 774362)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কু. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+log√381=log3⁡81=\log _{\sqrt{3}} 81= কত?
+
+Options:
+ক. $81 \sqrt{3}$
+খ. $27 \sqrt{3}$
+গ. 8
+ঘ. 4
+
+
+Correct Answer: গ
+
+Solution:
+$\log _{\sqrt{3}} 81$
+$=\log _{\sqrt{3}}(\sqrt{3})^8=8 \log _{\sqrt{3}} \sqrt{3}=8 \times 1=8$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 774363)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+log4(x+y)=2=log2(x−y)log4⁡(x+y)=2=log2⁡(x−y)\log _4(x+y)=2=\log _2(x-y) হলে, (x,y)(x,y)(x, y) এর মান নিচের কোনটি?
+
+Options:
+ক. (6, 2)
+খ. (10, 6)
+গ. (6, 10)
+ঘ. (20, 12)
+
+
+Correct Answer: খ
+
+Solution:
+এখানে, $\log _4(x+y)=2=\log _2(x-y)$
+$
+\begin{aligned}
+\therefore x+y &amp; =4^2.......(i) \\
+x-y &amp; =2^2............(ii)
+\end{aligned}
+$
+(i) নং ও (ii) নং যোগ করে পাই,
+$
+2 x=4^2+2^2
+$
+বা, $2 x=16+4$
+বা, $2 \mathrm{x}=20$
+$
+\therefore \quad \mathrm{x}=10
+$
+(i) নং এ x এর মান বসিয়ে পাই,
+$
+10+y=4^2
+$
+বা, $y=16-10$
+$
+\begin{aligned}
+&amp; \therefore \mathrm{y}=6 \\
+&amp; \therefore(\mathrm{x}, \mathrm{y})=(10,6)
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 774364)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+A=1−logp(pq)A=1−logp⁡(pq)A=1-\log _p(p q) হলে, 1A1A\frac{1}{A} এর মান কত?
+
+Options:
+ক. $-\log _q p$
+খ. $\log _q p$
+গ. $\log _p q$
+ঘ. $-\log _p q$
+
+
+Correct Answer: ক
+
+Solution:
+$\begin{aligned} &amp; \text { এখানে, } A=1-\log _p(p q) \\ &amp; =\log _p p-\log _p(p q) \\ &amp; =\log _p\left(\frac{p}{p q}\right) \\ &amp; =\log _p \frac{1}{q}=\log _p q^{-i}=-\log _p q \\ \therefore &amp; \frac{1}{A}=\frac{1}{-\log _p q}=-\log _q p .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 774365)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+যদি log2√3x=2log23⁡x=2\log _{2 \sqrt{3}} x=2 হয় তবে x এর মান কত?
+
+Options:
+ক. $2 \sqrt{3}$
+খ. $4 \sqrt{3}$
+গ. 6
+ঘ. 12
+
+
+Correct Answer: ঘ
+
+Solution:
+এখানে, $\log _{2 \sqrt{3}} x=2$
+$
+\therefore \quad x=(2 \sqrt{3})^2=12
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 774366)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+a, b, c পরপর তিনটি ধনাত্মক পূর্ণসংখ্যা হলে log (1 + ac) এর মান কোনটি?
+
+Options:
+ক. 2 log a
+খ. 2 log b
+গ. 2 log c
+ঘ. log (abc)
+
+
+Correct Answer: খ
+
+Solution:
+$\begin{aligned} &amp;  {a, b=a+1, c=a+2 } \\ &amp; \log (1+a c)=\log \{1+a(a+2)\} \\ &amp; =\log \left(1+a^2+2 a\right) \\ &amp; =\log \left(a^2+2 a+1\right) \\ &amp; =\log (a+1)^2 \\ &amp; =2 \log (a+1)=2 \log b .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 774367)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+log82+log3√3=log8⁡2+log3⁡3=\log _8 2+\log _3 \sqrt{3}= কত?
+
+Options:
+ক. $\frac{1}{3}$
+খ. $\frac{2}{3}$
+গ. $\frac{6}{5}$
+ঘ. $\frac{5}{6}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\log _8 2+\log _3 \sqrt{3}=\log _8 \sqrt[3]{2^3}+\log _3 3^{\frac{1}{2}}$
+$=\log _8(8)^{\frac{1}{3}}+\log _3{ }^3=\frac{1}{3} \log _8^8+\frac{1}{2}\\=\frac{1}{3}+\frac{1}{2}=\frac{2+3}{6}=\frac{5}{6}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 774368)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: দি. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+log√23×log√35×log√52log2⁡3×log3⁡5×log5⁡2\log _{\sqrt{2}} 3 \times \log _{\sqrt{3}} 5 \times \log _{\sqrt{5}} 2 এর মান কত?
+
+Options:
+ক. $\sqrt{8}$
+খ. $\sqrt{30}$
+গ. 8
+ঘ. 30
+
+
+Correct Answer: গ
+
+Solution:
+$\begin{aligned} &amp;  \text {} \log _{\sqrt{2}} 3 \times \log _{\sqrt{3}} 5 \times \log _{\sqrt{5}} 2 \\ &amp; =\log _{\sqrt{2}}(\sqrt{3})^2 \times \log _{\sqrt{3}}(\sqrt{5})^2 \times \log _{\sqrt{5}}(\sqrt{2})^2 \\ &amp; =2 \log _{\sqrt{2}} \sqrt{3} \times 2 \log _{\sqrt{3}} \sqrt{5} \times 2 \log _{\sqrt{5}} \sqrt{2} \\ &amp; =8 \log _{\sqrt{2}} \sqrt{3} \times \log _{\sqrt{3}} \sqrt{5} \times \log _{\sqrt{5}} \sqrt{2} \\ &amp; =8 \times 1\left[\because \log _a b \times \log _b c \times \log _c a=1\right] \\ &amp; =8 .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 774369)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০১৬;চ. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+log√8x=313log8⁡x=313\log _{\sqrt{8}} x=3 \frac{1}{3} হলে xxx এর মান কত?
+
+Options:
+ক. 8
+খ. 16
+গ. 32
+ঘ. 64
+
+
+Correct Answer: গ
+
+Solution:
+$\log _{\sqrt{8}} x=3 \frac{1}{3}$
+বা, $x=(\sqrt{8})^{\frac{10}{3}}$
+বা, $x=\left\{\left(2^3\right)^{\frac{1}{2}}\right\}^{\frac{10}{3}}=\left(2^{\frac{3}{2}}\right)^{\frac{10}{3}}=2^5=32$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 774370)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+3logalogaaa33loga⁡loga⁡aa33\log_a\log_aa^{a^3} এর মান কোনটি?
+
+Options:
+ক. 3
+খ. 1
+গ. 9
+ঘ. a
+
+
+Correct Answer: গ
+
+Solution:
+$3 \log _a \log _a a^{a^3}=3 \log _a\left(a^3\right) \log _a a$
+$
+\begin{aligned}
+&amp; =3 \times 3 \log _a a \cdot 1 \\
+&amp; =3 \times 3 \times 1 \times 1=9
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 774371)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+7log7327log7⁡327^{\operatorname{log}_7 3^2} এর মান কত?
+
+Options:
+ক. 2
+খ. 3
+গ. 7
+ঘ. 9
+
+
+Correct Answer: ঘ
+
+Solution:
+$7^{\log _7 3^2}=7^{\log _7 9}=9\left[\because a^{\log _a b}=b\right]$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 774372)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কু. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+log3(13√3)=log3⁡(133)=\log _3\left(\frac{1}{\sqrt[3]{3}}\right)= কত?
+
+Options:
+ক. 3
+খ. $-\frac{1}{3}$
+গ. $\frac{1}{3}$
+ঘ. 3
+
+
+Correct Answer: গ
+
+Solution:
+$: \log _3\left(\frac{1}{\sqrt[3]{3}}\right)=\log _3\left(\frac{1}{3^{\frac{1}{3}}}\right)=\log _3 3^{-\frac{1}{3}}\\=-\frac{1}{3} \log _3 3=-\frac{1}{3}.$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 774373)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+log2√5400log25⁡400\log _{2 \sqrt{5}} 400 এর মান কত?
+
+Options:
+ক. 2
+খ. 4
+গ. 6
+ঘ. 8
+
+
+Correct Answer: খ
+
+Solution:
+$\begin{aligned} \log _{2 \sqrt{5}} 400 &amp; =\log _{2 \sqrt{5}}(2 \sqrt{5})^4 \\ &amp; =4 \log _{2 \sqrt{5}} 2 \sqrt{5}=4.1=4\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 774374)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ম. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+log525+log255log5⁡25+log25⁡5\log _5 25+\log _{25} 5 = কত?
+
+Options:
+ক. 1
+খ. 2
+গ. 5
+ঘ. $\frac{5}{2}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$
+\begin{aligned}
+&amp;  \text {} \log _5 25+\log _{25} 5 \\
+&amp; =\log _5 5^2+\log _{25} \sqrt{25} \\
+&amp; =2 \log _5 5+\log _{25}(25)^{\frac{1}{2}} \\
+&amp; =2 \cdot 1+\frac{1}{2} \cdot \log _{25} 25\left[\because \log _a a=1\right] \\
+&amp; =2+\frac{1}{2} \cdot 1=\frac{5}{2} .
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 774375)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ম. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+log315−log35=?log3⁡15−log3⁡5=?\log _3 15-\log _3 5=?
+
+Options:
+ক. $\log _3 10$
+খ. $\log _3 25$
+গ. 1
+ঘ. 27
+
+
+Correct Answer: গ
+
+Solution:
+$\log _3 15-\log _3 5=\log _3\left(\frac{15}{5}\right)=\log _3 3=1$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 774376)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+log42+log6√6log4⁡2+log6⁡6\log _4 2+\log _6 \sqrt{6} এর মান নিচের কোনটি?
+
+Options:
+ক. $\frac{5}{2}$
+খ. $\frac{1}{2}$
+ঘ. 1
+
+
+Correct Answer: ঘ
+
+Solution:
+$\begin{aligned}  \text {} \log _4 2+\log _6 \sqrt{6}=\log _4 \sqrt{4}+\log _6 \sqrt{6} \\  =\log _4(4)^{\frac{1}{2}}+\log _6(6)^{\frac{1}{2}}=\frac{1}{2} \log _4 4+\frac{1}{2} \log _6 6\\=\frac{1}{2}+\frac{1}{2}=1 .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 774377)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: দি. বো.'২০১৬
+--------------------------------------------------------------------------------
+Question:
+log42+log6√6=log4⁡2+log6⁡6=\log _4 2+\log _6 \sqrt{6}= কত?
+
+Options:
+ক. $\frac{1}{2}$
+খ. $\frac{1}{3}$
+গ. $\frac{3}{2}$
+ঘ. 1
+
+
+Correct Answer: ঘ
+
+Solution:
+$\begin{aligned} &amp; \text {  } \log _4 2+\log _6 \sqrt{6}=\log _4 \sqrt{4}+\log _6{ }^{6\frac{1}{2}} \\ &amp; =\frac{1}{2} \log _4 4+\frac{1}{2} \log _6{ }^6=\frac{1}{2} \cdot 1+\frac{1}{2} \cdot 1=1 .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 774378)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+log√216√2=log2⁡162=\log _{\sqrt{2}} 16 \sqrt{2}= কত?
+
+Options:
+ক. $2 \sqrt{2}$
+খ. 4
+গ. 8
+ঘ. 9
+
+
+Correct Answer: ঘ
+
+Solution:
+$\log _{\sqrt{2}} 16 \sqrt{2}$
+$=\log _{\sqrt{2}}(\sqrt{2})^9=9 \log _{\sqrt{2}} \sqrt{2}=9 \cdot 1\left[\because \log _a a=1\right]$
+\(=9.\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 774379)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কু. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+1+log9(bc)=01+log9⁡(bc)=01+\log _9(\mathrm{bc})=0 হলে নিচের কোনটি সঠিক?
+
+Options:
+ক. <span class="math-tex">\(abc-1=0\)</span>
+খ. <span class="math-tex">\(abc+1=0\)</span>
+গ. <span class="math-tex">\(a+bc = 0\)</span>
+ঘ. <span class="math-tex">\(abc = (0\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+$1+\log _a(b c)=0$
+বা, $\log _a a+\log _a(b c)=0$
+বা, $\log _a(a b c)=\log _a 1$
+বা, $a b c=1$
+$
+\therefore \mathbf{a b c}-1=\mathbf{0} .
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 774380)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রাজউক উত্তরা মডেল কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+log√8x=313log8⁡x=313\log _{\sqrt{8}} x=3 \frac{1}{3} হলে, x=?x=?x=?
+
+Options:
+ক. 8
+খ. 16
+গ. 32
+ঘ. 64
+
+
+Correct Answer: গ
+
+Solution:
+$\log _{\sqrt{8}} x=3 \frac{1}{3}$
+বা, $\log _{\sqrt{8}} x=\frac{10}{3}$
+বা, $x=(\sqrt{8})^{\frac{10}{3}}=\left(\sqrt{2^3}\right)^{\frac{10}{3}}=\left(2^{\frac{3}{2}}\right)^{\frac{10}{3}}\\=2^5=32 \therefore x=32$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 774358)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+log√8x=23log8⁡x=23\log _{\sqrt{8}} x=\frac{2}{3} হলে, xxx এর মান কত?
+
+Options:
+ক. 8
+খ. 4
+গ. $2 \sqrt{2}$
+ঘ. 2
+
+
+Correct Answer: ঘ
+
+Solution:
+$\log _{\sqrt{8}} x=\frac{2}{3}$
+বা, $\mathrm{x}=(\sqrt{8})^{\frac{2}{3}}$
+বা, $x=\left(\sqrt{2^3}\right)^{\frac{2}{3}}$
+বা, $x=\left(2^{\frac{3}{2}}\right)^{\frac{2}{3}}=2^1=2$
+$
+\therefore x=2 \text {. }
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 774360)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+log2log2222223=log2⁡log2⁡222223=\log _2 \log _2 2^{2^{2^{2^{2^3}}}}= কত?
+
+Options:
+ক. 64
+খ. 256
+গ. 8
+ঘ. 3
+
+
+Correct Answer: খ
+
+Solution:
+খ. 256
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 774359)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+log√27x=4log27⁡x=4\log _{\sqrt{27}} x=4 হলে, x এর মান কত?
+
+Options:
+ক. $\sqrt{188}$
+খ. $4\sqrt{27}$
+গ. 27
+ঘ. 729
+
+
+Correct Answer: ঘ
+
+Solution:
+দেওয়া আছে,
+$\begin{aligned} &amp; \quad \log _{\sqrt{27}} x=4 \\ &amp; \text { বা, } x=(\sqrt{27})^4 \\ &amp; \text { বা, } x=\left(27^{\frac{1}{2}}\right)^4=27^2=729 \\ &amp; \therefore x=729 .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+

@@ -1,0 +1,1470 @@
+================================================================================
+Question #1 (ID: 774610)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+[Image]PQ=1PQ=1P Q=1 এবং QR=√2QR=2Q R=\sqrt{2} হলে, sin(−θ)+cos(−θ)sin⁡(−θ)+cos⁡(−θ)\sin (-\theta)+\cos (-\theta) এর মান কত?
+
+Options:
+ক. $-\sqrt{2}$
+খ. <span class="math-tex">\(0\)</span>
+গ. <span class="math-tex">\(1\)</span>
+ঘ. $\sqrt{2}$
+
+
+Correct Answer: খ
+
+Solution:
+[Image]দেওয়া আছে, $\mathrm{PQ}=1$ এবং $\mathrm{QR}=\sqrt{2}$
+$
+\therefore \mathrm{PR}=\sqrt{\mathrm{QR}^2-\mathrm{PQ}^2}=\sqrt{(\sqrt{2})^2-1^2}\\=\sqrt{2-1}=1
+$
+$\begin{aligned} &amp; \therefore \sin \theta=\frac{P R}{Q R}=\frac{1}{\sqrt{2}} \\ &amp; \quad \cos \theta=\frac{P Q}{Q R}=\frac{1}{\sqrt{2}} \\ &amp; \text { এখন, } \sin (-\theta)+\cos (-\theta) \\ &amp; =-\sin \theta+\cos \theta=-\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{2}}=0\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 774598)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+cos2π6−sin2π6cos2⁡π6−sin2⁡π6\cos ^2 \frac{\pi}{6}-\sin ^2 \frac{\pi}{6} এর মান নিচের কোনটি?
+
+Options:
+ক. $\frac{1}{4}$
+খ. $\frac{1}{2}$
+গ. <span class="math-tex">\(1\)</span>
+ঘ. $\frac{5}{4}$
+
+
+Correct Answer: খ
+
+Solution:
+$\begin{aligned} \cos ^2 \frac{\pi}{6}-\sin ^2 \frac{\pi}{6} &amp; =\left(\frac{\sqrt{3}}{2}\right)^2-\left(\frac{1}{2}\right)^2 \\ &amp; =\frac{3}{4}-\frac{1}{4}=\frac{3-1}{4}=\frac{2}{4}=\frac{1}{2}\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 774599)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+{cos(π2+θ)+cosθ}2{cos⁡(π2+θ)+cos⁡θ}2\left\{\cos \left(\frac{\pi}{2}+\theta\right)+\cos \theta\right\}^2 হতে 1 বিয়োগ করলে বিয়োগফল কত?
+
+Options:
+ক. $\sin \theta \cos \theta$
+খ. $2 \sin \theta$
+গ. $-2 \sin \theta \cos \theta$
+ঘ. $2 \cos A$
+
+
+Correct Answer: গ
+
+Solution:
+$\begin{aligned} &amp; \left\{\cos \left(\frac{\pi}{2}+\theta\right)+\cos \right\}^2-1 \\ &amp; =(-\sin \theta+\cos \theta)^2-1 \\ &amp; =\left(\sin ^2 \theta+\cos ^2 \theta-2 \sin \theta \cdot \cos \theta\right)-1 \\ &amp; =1-2 \sin \theta \cos \theta-1 \\ &amp; =-2 \sin \theta \cos \theta\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 774600)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+cosθ=12,π&lt;θ&lt;2πcos⁡θ=12,π&lt;θ&lt;2π\cos \theta=\frac{1}{2}, \pi হলে θθ\theta এর মান কত?
+
+Options:
+ক. $\frac{\pi}{3}$
+খ. $\frac{4\pi}{3}$
+গ. $\frac{5\pi}{3}$
+ঘ. $\frac{11\pi}{3}$
+
+
+Correct Answer: গ
+
+Solution:
+$\begin{aligned} &amp;  \text {} \cos \theta=\frac{1}{2}=\cos \frac{\pi}{3} \\ &amp; =\cos \left(2 \pi-\frac{\pi}{3}\right)[\because \pi&lt;\theta&lt;2 \pi] \\ &amp; =\cos \frac{5 \pi}{3} \therefore \theta=\frac{5 \pi}{3} .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 774601)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০১৬
+--------------------------------------------------------------------------------
+Question:
+cosα=−√32cos⁡α=−32\cos \alpha=-\frac{\sqrt{3}}{2}, যেখানে π2&lt;α&lt;ππ2&lt;α&lt;π\frac{\pi}{2} হলে, αα\alpha এর মান কত?
+
+Options:
+ক. $\frac{5\pi}{6}$
+খ. $\frac{2\pi}{3}$
+গ. $\frac{7\pi}{6}$
+ঘ. $\frac{4\pi}{3}$
+
+
+Correct Answer: ক
+
+Solution:
+$\cos \alpha=-\frac{\sqrt{3}}{2}=-\cos \frac{\alpha}{6}$
+বা, $\cos {\alpha}=\cos \left(\pi-\frac{\pi}{6}\right)$
+বা, $\cos \alpha=\cos \frac{5 \pi}{6}$
+$\therefore \alpha=\frac{5 \pi}{6}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 774602)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+tanθ=−1tan⁡θ=−1\tan \theta=-1 এবং 0&lt;θ&lt;π0&lt;θ&lt;π0 হলে, θθ\theta এর মান কত?
+
+Options:
+ক. $\frac{\pi}{4}$
+খ. $\frac{3\pi}{4}$
+গ. $\frac{5\pi}{4}$
+ঘ. $\frac{7\pi}{4}$
+
+
+Correct Answer: খ
+
+Solution:
+দেওয়া আছে, $\tan \theta=-1$
+বা, $\tan \theta=\tan \left(\pi-\frac{\pi}{4}\right)[\because 0&lt;\theta&lt;\pi]$
+বা, $\tan \theta=\tan \frac{3 \pi}{4}$
+$
+\therefore \theta=\frac{3 \pi}{4}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 774603)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+tan2π6−sin2π6=?tan2⁡π6−sin2⁡π6=?\tan ^2 \frac{\pi}{6}-\sin ^2 \frac{\pi}{6}=?
+
+Options:
+ক. $\frac{\sqrt{3}}{4}$
+খ. $\frac{1}{2 \sqrt{3}}$
+গ. $\frac{1}{12}$
+ঘ. $-\frac{1}{12}$
+
+
+Correct Answer: গ
+
+Solution:
+$\tan ^2 \frac{\pi}{6}-\sin \frac{2 \pi}{6}=\left(\tan \frac{\pi}{6}\right)^2-\left(\sin \frac{\pi}{6}\right)^2$ $=\left(\frac{1}{\sqrt{3}}\right)^2-\left(\frac{1}{2}\right)^2=\frac{1}{3}-\frac{1}{4}=\frac{4-3}{12}=\frac{1}{12}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 774604)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রংপুর জিলা স্কুল
+--------------------------------------------------------------------------------
+Question:
+P=12sin2θ−14sinθ+4P=12sin2⁡θ−14sin⁡θ+4P=12 \sin ^2 \theta-14 \sin \theta+4
+
+θ=45∘θ=45∘\theta=45^{\circ} হলে PPP এর মান কত?
+
+Options:
+ক. $16+7 \sqrt{2}$
+খ. $10+7 \sqrt{2}$
+গ. $10+7 \sqrt{2}$
+ঘ. $10-7 \sqrt{2}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$P=12 \sin ^2 \theta-14 \sin \theta+4$ এখন, $\theta=45^{\circ}$ হলে,
+$
+\begin{aligned}
+P  =12 \sin ^2 45^{\circ}-14 \sin 45^{\circ}+4 \\
+ =12 \cdot\left(\frac{1}{\sqrt{2}}\right)^2-14 \cdot \frac{1}{\sqrt{2}}+4 \\
+ =12 \cdot \frac{1}{2}-7 \sqrt{2}+4=6-7 \sqrt{2}+4\\=10-7 \sqrt{2}
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 774605)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+cosec(−π3)cosec⁡(−π3)\operatorname{cosec}\left(-\frac{\pi}{3}\right) এর মান কত?
+
+Options:
+ক. $-\frac{2}{\sqrt{3}}$
+খ. $-\frac{1}{2}$
+গ. $\frac{1}{2}$
+ঘ. $\frac{2}{\sqrt{3}}$
+
+
+Correct Answer: ক
+
+Solution:
+$\operatorname{cosec}\left(-\frac{\pi}{3}\right)=-\operatorname{cosec} \frac{\pi}{3}=\frac{-2}{\sqrt{3}}.$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 774606)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+tanθ=−√3tan⁡θ=−3\tan \theta=-\sqrt{3} এবং π2&lt;θ&lt;ππ2&lt;θ&lt;π\frac{\pi}{2} হলে, θθ\theta এর মান কত?
+
+Options:
+ক. $\frac{5\pi}{3}$
+খ. $\frac{2\pi}{3}$
+গ. $\frac{\pi}{3}$
+ঘ. $-\frac{\pi}{3}$
+
+
+Correct Answer: খ
+
+Solution:
+$\frac{\pi}{2}&lt;\theta&lt;\pi$ ব্যবধিতে \(\theta\) এর অবস্থান দ্বিতীয় চতুর্ভাগে।
+$\begin{aligned} &amp; \therefore \tan \theta=-\sqrt{3} \\ &amp;=-\tan 60^{\circ} \\ &amp;=\tan \left(180^{\circ}-60^{\circ}\right) \\ &amp; \begin{aligned} \therefore \theta= &amp; 120^{\circ}\end{aligned}=\frac{2 \pi}{3} .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 774607)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০১৭
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি  tan(−25π6)tan⁡(−25π6)\tan \left(\frac{-25 \pi}{6}\right) এর মান-
+
+Options:
+ক. ${-1}{}$
+খ. $-\frac{1}{\sqrt{3}}$
+গ. $\frac{1}{\sqrt{3}}$
+ঘ. <span class="math-tex">\(1\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+$\begin{aligned} &amp; \text { }  \text { } \tan \left(-\frac{25 \pi}{6}\right)=-\tan \frac{25 \pi}{6} \\ &amp; =-\tan \left(4 \pi-\frac{\pi}{6}\right)=-\tan \frac{\pi}{6}=-\frac{1}{\sqrt{3}} .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 774608)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+cos2π6−sin2π6cos2⁡π6−sin2⁡π6\cos ^2 \frac{\pi}{6}-\sin ^2 \frac{\pi}{6} এর মান নিচের কোনটি?
+
+Options:
+ক. $\frac{1}{4}$
+খ. $\frac{1}{2}$
+গ. <span class="math-tex">\(1\)</span>
+ঘ. $\frac{5}{4}$
+
+
+Correct Answer: খ
+
+Solution:
+$\begin{aligned} \cos ^2 \frac{\pi}{6}-\sin ^2 \frac{\pi}{6} &amp; =\left(\frac{\sqrt{3}}{2}\right)^2-\left(\frac{1}{2}\right)^2 \\ &amp; =\frac{3}{4}-\frac{1}{4}=\frac{3-1}{4}=\frac{2}{4}=\frac{1}{2}.\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 774609)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: বগুড়া জিলা স্কুল
+--------------------------------------------------------------------------------
+Question:
+−560°−560°-560° কোণটি কোন চতুর্ভাগে অবস্থিত?
+
+Options:
+ক. প্রথম
+খ. দ্বিতীয়
+গ. তৃতীয়
+ঘ. চতুর্থ
+
+
+Correct Answer: খ
+
+Solution:
+$-560^{\circ}=-\left(90^{\circ} \times 6+20^{\circ}\right)=\left(-90^{\circ} \times 6-20^{\circ}\right)$
+অর্থাৎ, ২য় চতুর্ভাগে অবস্থিত।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 774597)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+tanx=−√3tan⁡x=−3\tan x=-\sqrt{3} এবং π2&lt;x&lt;ππ2&lt;x&lt;π\frac{\pi}{2} হলে, xxx- এর মান নিচের কোনটি?
+
+Options:
+ক. $\frac{\pi}{3}$
+খ. $\frac{2\pi}{3}$
+গ. $\frac{4\pi}{3}$
+ঘ. $\frac{5\pi}{3}$
+
+
+Correct Answer: খ
+
+Solution:
+এখানে, $\tan x=-\sqrt{3}$
+বা, $\tan x=\tan \frac{2 \pi}{3} \quad\left[\because \frac{\pi}{2}&lt;x&lt;\pi\right]$
+$
+\therefore x=\frac{2 \pi}{3}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 774611)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+tan(nπ2+θ)=−1√3tan⁡(nπ2+θ)=−13\tan \left(\frac{n \pi}{2}+\theta\right)=-\frac{1}{\sqrt{3}} এবং θ=π3θ=π3\theta=\frac{\pi}{3} হলে, nnn এর মান কত?
+
+Options:
+ক. $-\frac{1}{3}$
+খ. $-\frac{7}{3}$
+গ. $\frac{5}{3}$
+ঘ. <span class="math-tex">\(1\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+$\tan \left(\frac{n \pi}{2}+\theta\right)=-\frac{1}{\sqrt{3}}$
+বা, $\tan \left(\frac{n \pi}{2}+\theta\right)=-\tan \frac{\pi}{6}$
+বা, $\tan \left(\frac{\mathrm{n} \pi}{2}+\theta\right)=\tan \left(\pi-\frac{\pi}{6}\right)$
+বা, $\tan \left(\frac{n \pi}{2}+\theta\right)+\tan \frac{5 \pi}{6}$
+বা, $\frac{n \pi}{2}+\frac{\pi}{3}=\frac{5 \pi}{6}\left[\because \theta=\frac{\pi}{3}\right]$
+বা, $\frac{n \pi}{2}=\frac{5 \pi}{6}-\frac{\pi}{3}$
+বা, $\frac{n \pi}{2}=\frac{5 \pi-2 \pi}{6}$ বা, $\frac{n \pi}{2}=\frac{3 \pi}{6}$ বা, $n=\frac{3 \pi \times 2}{6 \times \pi}$
+$
+\therefore \mathrm{n}=1 \text {. }
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 774612)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+△ABC△ABC\triangle A B C -এ sec(A+B2)=?sec⁡(A+B2)=? \sec \left(\frac{A+B}{2}\right)=?
+
+Options:
+ক. $\operatorname{cosec} \frac{\pi}{2}$
+খ. $\operatorname{sec} \frac{\pi}{2}$
+গ. $\operatorname{sec} \frac{c}{2}$
+ঘ. $\operatorname{cosec} \frac{c}{2}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\triangle \mathrm{ABC}$ এর $\mathrm{A}+\mathrm{B}+\mathrm{C}=\pi$
+বা, $\mathrm{A}+\mathrm{B}=\pi-\mathrm{C}$
+বা, $\frac{A+B}{2}=\frac{\pi}{2}-\frac{C}{2}$
+বা, $\sec \left(\frac{A+B}{2}\right)=\sec \left(\frac{\pi}{2}-\frac{C}{2}\right)$
+$\therefore \sec \left(\frac{A+B}{2}\right)=\operatorname{cosec} \frac{C}{2}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 774613)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+2cosA=√22cos⁡A=22 \cos A=\sqrt{2} হলে tan3Atan⁡3A\tan 3 A এর মান নিচের কোনটি?
+
+Options:
+ক. <span class="math-tex">\(1\)</span>
+খ. $\frac{1}{2}$
+গ. $-\frac{1}{2}$
+ঘ. <span class="math-tex">\(-1\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+$2 \cos A=\sqrt{2}$
+$\begin{aligned} &amp; \text { বা, } \cos A=\frac{\sqrt{2}}{2}=\frac{1}{\sqrt{2}}=\cos 45^{\circ} \quad \therefore A=45^{\circ} \\ &amp; \therefore \tan 3 A=\tan 3 \times 45^{\circ}\end{aligned}$
+$=\tan 135^{\circ}=\tan \left(90^{\circ}+45^{\circ}\right)=-\cot 45^{\circ}=-1.$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 774614)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+θ=5π2 হলে- θ=5π2 হলে-  
+\theta=\frac{5 \pi}{2} \text { হলে- } 
+
+
+i. tan(θ−π3)=1√3tan⁡(θ−π3)=13\tan \left(\theta-\frac{\pi}{3}\right)=\frac{1}{\sqrt{3}}
+
+ii. sec(θ+π6)=−2sec⁡(θ+π6)=−2\sec \left(\theta+\frac{\pi}{6}\right)=-2
+
+iii. sin(θ−π4)=−1√2sin⁡(θ−π4)=−12\sin \left(\theta-\frac{\pi}{4}\right)=-\frac{1}{\sqrt{2}}
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+i. $\tan \left(\theta-\frac{\pi}{3}\right)=\tan \left(\frac{5 \pi}{2}-\frac{\pi}{3}\right)=\cot \frac{\pi}{3}=\frac{1}{\sqrt{3}}$
+ii. $\sec \left(\theta+\frac{\pi}{6}\right)=\sec \left(\frac{5 \pi}{2}+\frac{\pi}{6}\right)=-\operatorname{cosec} \frac{\pi}{6}=-2$
+ii. $\sin \left(\theta-\frac{\pi}{4}\right)=\sin \left(\frac{5 \pi}{2}-\frac{\pi}{4}\right)=\cos \frac{\pi}{4}=\frac{1}{\sqrt{2}}$
+সুতরাং i ও ii সঠিক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 774615)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+tanθ=1tanθ=1{ { t a n }} \theta=1 হলে-
+
+i. sin2+sec2θ=52sin2+sec2⁡θ=52\sin ^2+\sec ^2 \theta=\frac{5}{2}
+
+ii. sinθ+1secθ=√2sin⁡θ+1sec⁡θ=2\sin \theta+\frac{1}{\sec \theta}=\sqrt{2}
+
+iii. sec(−θ)+cosec(−θ)=2√2sec⁡(−θ)+cosec⁡(−θ)=22\sec (-\theta)+\operatorname{cosec}(-\theta)=2 \sqrt{2}
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+এখানে, $\tan \theta=1$
+বা, $\tan \theta=\tan 45^{\circ} \therefore \theta=45^{\circ}$
+i.
+$
+\begin{aligned}
+\sin ^2 \theta+\sec ^2 \theta  =\sin ^2 45^{\circ}+\sec ^2 45^{\circ} \\
+ =\left(\frac{1}{\sqrt{2}}\right)^2+(\sqrt{2})^2=\frac{1}{2}+2=\frac{5}{2}
+\end{aligned}
+$
+ii.
+$
+\begin{aligned}
+\sin \theta+\frac{1}{\sec \theta}=\sqrt{2} &amp; =\sin 45^{\circ}+\frac{1}{\sec 45^{\circ}} \\
+&amp; =\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{2}} \\
+&amp; =\frac{2}{\sqrt{2}}=\sqrt{2}
+\end{aligned}
+$
+iii.
+$
+\begin{aligned}
+&amp; \sec (-\theta)+\operatorname{cosec}(-\theta)=\sec \theta-\operatorname{cosec} \theta \\
+&amp; =\sec 45^{\circ}-\operatorname{cosec} 45^{\circ}=\sqrt{2}-\sqrt{2}=0
+\end{aligned}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 774616)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: দি. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+cos24π3+cosec23π4=cos2⁡4π3+cosec2⁡3π4=\cos ^2 \frac{4 \pi}{3}+\operatorname{cosec}^2 \frac{3 \pi}{4}= কত?
+
+Options:
+ক. $\frac{17}{4}$
+খ. $\frac{11}{4}$
+গ. $\frac{9}{4}$
+ঘ. $\frac{7}{4}$
+
+
+Correct Answer: গ
+
+Solution:
+$\cos ^2 \frac{4 \pi}{3}+\operatorname{cosec}^2 \frac{3 \pi}{4}$ $=\left(-\frac{1}{2}\right)^2+(\sqrt{2})^2=\frac{1}{4}+2=\frac{9}{4}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 774617)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: হলি ক্রস উচ্চ বালিকা বিদ্যালয়, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+cosecθ=−√2cosec⁡θ=−2\operatorname{cosec} \theta=-\sqrt{2} এবং π2&lt;θ&lt;3π2π2&lt;θ&lt;3π2\frac{\pi}{2} হলে θθ\theta এর মান নিচের কোনটি?
+
+Options:
+ক. $\frac{7\pi}{4}$
+খ. $\frac{5\pi}{4}$
+গ. $\frac{7\pi}{6}$
+ঘ. $\frac{5\pi}{3}$
+
+
+Correct Answer: খ
+
+Solution:
+$\operatorname{cosec} \theta=-\sqrt{2}$
+বা, $\operatorname{cosec} \theta=-\operatorname{cosec} \frac{\pi}{4}=\operatorname{cosec}\left(\pi+\frac{\pi}{4}\right) \therefore \theta=\frac{5 \pi}{4}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 774618)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+cos(π+x)=−√32cos⁡(π+x)=−32\cos (\pi+x)=-\frac{\sqrt{3}}{2} হলে x=x=x= কত রেডিয়ান?
+
+Options:
+ক. $\frac{\pi}{2}$
+খ. $\frac{\pi}{6}$
+গ. $\frac{\pi}{3}$
+ঘ. $\frac{\pi}{4}$
+
+
+Correct Answer: খ
+
+Solution:
+$\cos (\pi+x)=-\frac{\sqrt{3}}{2}$
+বা, $\cos \left(2 \times \frac{\pi}{2}+x\right)=-\frac{\sqrt{3}}{2}$
+বা, $-\cos x=-\frac{\sqrt{3}}{2}$
+বা, $\cos x=\frac{\sqrt{3}}{2}$
+বা, $\cos x=\cos \frac{\pi}{6}$
+$\therefore x=\frac{\pi}{6}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 774619)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+tanθ=1tan⁡θ=1\tan \theta=1 (যেখানে π&lt;θ&lt;2π)π&lt;θ&lt;2π)\pi হলে, θθ\theta এর মান নিচের কোনটি?
+
+Options:
+ক. 315&deg;
+খ. 225&deg;
+গ. 135&deg;
+ঘ. 45&deg;
+
+
+Correct Answer: খ
+
+Solution:
+$\tan \theta=1$
+বা, $\tan \theta=\tan \theta 45^{\circ}=\tan \left(180^{\circ}+45^{\circ}\right)=\tan 225^{\circ}$
+$
+\therefore \theta=225^{\circ}
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 774620)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ম. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+sin22π3+cos2π3=sin2⁡2π3+cos2⁡π3=\sin ^2 \frac{2 \pi}{3}+\cos ^2 \frac{\pi}{3}= কত?
+
+Options:
+ক. $\frac{5}{2}$
+খ. $\frac{1}{2}$
+গ. <span class="math-tex">\(1\)</span>
+ঘ. $\frac{3}{2}$
+
+
+Correct Answer: গ
+
+Solution:
+$\begin{aligned} &amp; \text { } \sin ^2 \frac{2 \pi}{3}+\cos ^2 \frac{\pi}{3} \\ &amp; =\left\{\sin \left(\pi-\frac{\pi}{3}\right)\right\}^2+\cos ^2 \frac{\pi}{3} \\ &amp; =\sin ^2 \frac{\pi}{3}+\cos ^2 \frac{\pi}{3}=1 .\left[\because \sin ^2 \theta+\cos ^2 \theta=1\right]\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 774621)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রংপুর জিলা স্কুল
+--------------------------------------------------------------------------------
+Question:
+P=12sin2θ−14sinθ+4P=12sin2⁡θ−14sin⁡θ+4P=12 \sin ^2 \theta-14 \sin \theta+4
+
+P=0P=0\mathrm{P}=0 এবং 0&lt;θ≤π20&lt;θ≤π20 হলে θθ\theta এর মান নিচের কোনটি?
+
+Options:
+ক. 90&deg;
+খ. 45&deg;
+গ. 60&deg;
+ঘ. 30&deg;
+
+
+Correct Answer: ঘ
+
+Solution:
+$P=12 \sin ^2 \theta-14 \sin \theta+4$
+$
+\mathrm{P}=0 \text { হলে, } 12 \sin ^2 \theta-14 \sin \theta+4=0
+$
+বা, $6 \sin ^2 \theta-7 \sin \theta+2=0$
+বা, $6 \sin ^2 \theta-3 \sin \theta-4 \sin \theta+2=0$
+বা, $3 \sin \theta(2 \sin \theta-1)-2(2 \sin \theta-1)=0$
+বা, $(2 \sin \theta-1)(\sin \theta-2)=0$
+$\therefore 2 \sin \theta-1=0$ অথবা, $3 \sin \theta-2=0$; যা গ্রহণযোগ্য নয়
+বা, $\sin \theta=\frac{1}{2}=\sin 30^{\circ} \therefore \theta=30^{\circ}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 774596)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+cos(−31π3)cos⁡(−31π3)\cos \left(\frac{-31 \pi}{3}\right) -এর মান কত?
+
+Options:
+ক. $\frac{\sqrt{3}}{2}$
+খ. $\frac{1}{\sqrt{2}}$
+গ. <span class="math-tex">\(1\)</span>
+ঘ. $\frac{1}{2}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\begin{aligned} &amp;  \cos \left(\frac{-31 \pi}{3}\right) \\ &amp; =\cos \left(\frac{31 \pi}{3}\right)[\because \cos (-\theta)=\cos \theta] \\ &amp; =\cos \left(20 \times \frac{\pi}{2}+\frac{\pi}{3}\right)=\cos \frac{\pi}{3}=\frac{1}{2}\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 774576)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০১৯
+--------------------------------------------------------------------------------
+Question:
+sin(25π2−θ)sin⁡(25π2−θ)\sin \left(\frac{25 \pi}{2}-\theta\right) কোন চতুর্ভাগে?
+
+Options:
+ক. ১ম
+খ. ২য়
+গ. ৩য়
+ঘ. ৪র্থ
+
+
+Correct Answer: ক
+
+Solution:
+$\sin \left(\frac{25 \pi}{2}-\theta\right)=\sin \left(25 \times \frac{\pi}{2}-\theta\right)$
+এখানে, $25=4 \times 6+1$
+অর্থাৎ, কোণটি ১ম চতুর্ভাগে অবস্থিত।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 774577)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রাজউক উত্তরা মডেল কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+θ=2π হলে- θ=2π হলে-  
+\theta=2 \pi \text { হলে- } 
+
+
+i. cos(θ−π6)=√32cos⁡(θ−π6)=32 \cos \left(\theta-\frac{\pi}{6}\right)=\frac{\sqrt{3}}{2}
+
+ii. cos(θ+π6)=√32cos⁡(θ+π6)=32\cos \left(\theta+\frac{\pi}{6}\right)=\frac{\sqrt{3}}{2}
+
+iii. tan(θ−π4)=1tan⁡(θ−π4)=1\tan \left(\theta-\frac{\pi}{4}\right)=1
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+ক. i ও ii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 774578)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কু. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+2sinθcosθ=sinθ2sin⁡θcos⁡θ=sin⁡θ2 \sin \theta \cos \theta=\sin \theta এবং θθ\theta সূক্ষ্মকোণ হলে, θ=θ=\theta= ?
+
+Options:
+ক. $\frac{\pi}{6}$
+খ. $\frac{\pi}{4}$
+গ. $\frac{\pi}{3}$
+ঘ. $\frac{\pi}{2}$
+
+
+Correct Answer: গ
+
+Solution:
+দেওয়া আছে,
+$2 \sin \theta \cos \theta=\sin \theta$
+বা, $2 \sin \theta \cos \theta-\sin \theta=0$
+বা, $\sin \theta(2 \cos \theta-1)=0$
+$\begin{aligned} &amp; \text { হয়, } \sin \theta=0 \\ &amp; \text { বা, } \sin \theta=\sin 0^{\circ} \\ &amp; \therefore \theta=0^{\circ}\end{aligned}$
+অথবা, $2 \cos \theta-1=0$
+বা, $\cos \theta=\frac{1}{2}=\cos 60^{\circ}$
+$
+\therefore \quad \theta=60^{\circ}
+$
+যেহেতু $\theta$ সূক্ষ্মকোণ, তাই $\theta 
+eq 0^{\circ}$
+$
+\therefore \quad \theta=60^{\circ}
+$
+বা $\frac{\pi}{3}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 774579)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+cot(θ−9π2)cot⁡(θ−9π2)\cot \left(\theta-\frac{9 \pi}{2}\right) এর মান কত?
+
+Options:
+ক. $\tan \theta$
+খ. $-\tan \theta$
+গ. $\cot \theta$
+ঘ. $-\cot \theta$
+
+
+Correct Answer: খ
+
+Solution:
+$\begin{aligned} \cot &amp; \left(\theta-\frac{9 \pi}{2}\right) \\ &amp; =\cot \left\{-\left(\frac{9 \pi}{2}-\theta\right)\right\} \\ &amp; =-\cot \left(\frac{9 \pi}{2}-\theta\right) \\ &amp; =-\cot \left(9 \times \frac{\pi}{2}-\theta\right)=-\tan \theta\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 774580)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+tan(θ−11π2)tan⁡(θ−11π2)\tan \left(\theta-\frac{11 \pi}{2}\right) এর মান কোনটি?
+
+Options:
+ক. $\tan \theta$
+খ. $-\tan \theta$
+গ. $\cot \theta$
+ঘ. $-\cot \theta$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\begin{aligned} &amp;  \tan \left(\theta-\frac{11 \pi}{2}\right) \\ &amp; =\tan \left\{-\left(\frac{11 \pi}{2}-\theta\right)\right\} \\ &amp; =-\tan \left(\frac{11 \pi}{2}-\theta\right) \\ &amp; =-\tan \left(11 \times \frac{\pi}{2}-\theta\right)=-\cot \theta\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 774581)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+6cos2θ−7cosθ+2=0,[6cos2⁡θ−7cos⁡θ+2=0,[6 \cos ^2 \theta-7 \cos \theta+2=0, \left[\right. যেখানে 0&lt;θ&lt;π2]θ0&lt;θ&lt;π2]θ\left.0 এর মান কত?
+
+Options:
+ক. 0&deg;
+খ. 30&deg;
+গ. 60&deg;
+ঘ. 90&deg;
+
+
+Correct Answer: গ
+
+Solution:
+$6 \cos ^2 \theta-7 \cos \theta+2=0$; যেখানে, $0&lt;\theta&lt;\frac{\pi}{2}$
+বা, $6 \cos ^2 \theta-3 \cos \theta-4 \cos \theta+2=0$
+বা, $3 \cos \theta(2 \cos \theta-1)-2(2 \cos \theta-1)=0$
+বা, $(2 \cos \theta-1)(3 \cos \theta-2)=0$
+$\begin{aligned} &amp; \text { হয়, } 2 \cos \theta-1=0 \\ &amp; \text { বা, } \cos \theta=\frac{1}{2}=\cos 60^{\circ} \\ &amp; \therefore \quad \theta=60^{\circ}\end{aligned}$
+অথবা, $3 \cos \theta-2=0$
+বা, $\cos \theta=\frac{2}{3}$ বা, $\theta=\cos ^{-1} \frac{2}{3}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 774582)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কু. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+sin 5A = cos 5A হলে, A এর মান কত?
+
+Options:
+ক. 6&deg;
+খ. 9&deg;
+গ. 12&deg;
+ঘ. 18&deg;
+
+
+Correct Answer: খ
+
+Solution:
+$\sin 5 A=\cos 5 A$
+বা, $\frac{\sin 5 A}{\cos 5 A}=1$
+বা, $\tan 5 \mathrm{~A}=1=\tan 45^{\circ}$
+বা, $5 \mathrm{~A}=45^{\circ} \therefore \mathrm{A}=\frac{45^{\circ}}{5}=9^{\circ}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 774583)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: দি. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+cos(−35π6)cos⁡(−35π6)\cos \left(-\frac{35 \pi}{6}\right) এর মান কত?
+
+Options:
+ক. $-\frac{\sqrt{3}}{2}$
+খ. $-\frac{1}{2}$
+গ. $\frac{1}{2}$
+ঘ. $\frac{\sqrt{3}}{2}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\begin{aligned} &amp;  \cos \left(-\frac{35 \pi}{6}\right)=\cos \frac{35 \pi}{6} \\ &amp; =\cos \left(11 \times \frac{\pi}{2}+\frac{\pi}{3}\right)=\sin \frac{\pi}{3}=\frac{\sqrt{3}}{2}\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 774584)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০১৬
+--------------------------------------------------------------------------------
+Question:
+cos2π3−sin2π4cos2⁡π3−sin2⁡π4\cos ^2 \frac{\pi}{3}-\sin ^2 \frac{\pi}{4} এর মান কত?
+
+Options:
+ক. $-\frac{1}{4}$
+খ. $-\frac{1}{2}$
+গ. $\frac{1}{2}$
+ঘ. <span class="math-tex">\(1\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+$\cos ^2 \frac{\pi}{3}-\sin ^2 \frac{\pi}{4}=\left(\cos \frac{\pi}{3}\right)^2-\left(\sin \frac{\pi}{4}\right)^2$
+$=\left(\frac{1}{2}\right)^2-\left(\frac{1}{\sqrt{2}}\right)^2=\frac{1}{4}-\frac{1}{2}=\frac{1-2}{4}=-\frac{1}{4}$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 774585)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢাকা রেসিডেনসিয়াল মডেল কলেজ
+--------------------------------------------------------------------------------
+Question:
+sin9θ=cos9θsin⁡9θ=cos⁡9θ\sin 9 \theta=\cos 9 \theta হলে sin18θ=sin⁡18θ=\sin 18 \theta= কত?
+
+Options:
+খ. $\frac{\sqrt{3}}{2}$
+গ. $\frac{1}{\sqrt{2}}$
+ঘ. 1
+
+
+Correct Answer: ঘ
+
+Solution:
+$\sin 9 \theta=\cos 9 \theta$
+বা, $\frac{\sin 9 \theta}{\cos 9 \theta}=1$
+বা, $\tan 9 \theta=1$
+বা, $\tan 9 \theta=\tan 45^{\circ}$
+বা, $9 \theta=45^{\circ}$
+বা, $\theta=\frac{45^{\circ}}{9}$
+$
+\therefore \theta=5^{\circ}
+$
+এখন, $\sin 18 \theta=\sin \left(18 \times 5^{\circ}\right)=\sin 90^{\circ}=1$.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 774586)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: চ. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+cotA=1 হলে- cot⁡A=1 হলে-  
+\cot A=1 \text { হলে- } 
+
+
+i. sinA+1secA=√2sin⁡A+1sec⁡A=2 \sin A+\frac{1}{\sec A}=\sqrt{2}
+
+ii. sin2A+cot2A=32sin2⁡A+cot2⁡A=32\sin ^2 A+\cot ^2 A=\frac{3}{2}
+
+iii. sec(−A)+cosec(−A)=2√2sec⁡(−A)+cosec⁡(−A)=22\sec (-A)+\operatorname{cosec}(-A)=2 \sqrt{2}
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+ক. i ও ii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 774587)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+tan(π+θ)=1√3tan⁡(π+θ)=13\tan (\pi+\theta)=\frac{1}{\sqrt{3}} হলে, θθ\theta এর মান কত রেডিয়ান?
+
+Options:
+ক. $\frac{\pi}{2}$
+খ. $\frac{\pi}{3}$
+গ. $\frac{\pi}{4}$
+ঘ. $\frac{\pi}{6}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\tan (\pi+\theta)=\frac{1}{\sqrt{3}}$
+বা, $\tan \theta=\frac{1}{\sqrt{3}}$ বা, $\tan \theta=\tan \frac{\pi}{6} \quad \therefore \theta=\frac{\pi}{6}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 774588)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: কু. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+tanθ=34tan⁡θ=34\tan \theta=\frac{3}{4} এবং π&lt;θ&lt;3π2π&lt;θ&lt;3π2\pi হলে cos θcos θcos ~\theta এর মান কত?
+
+Options:
+ক. $-\frac{5}{4}$
+খ. $-\frac{4}{5}$
+গ. $\frac{4}{5}$
+ঘ. $\frac{5}{4}$
+
+
+Correct Answer: খ
+
+Solution:
+খ. $-\frac{4}{5}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 774589)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: সি. বো.'২০১৭
+--------------------------------------------------------------------------------
+Question:
+sec(2π−π4)sec⁡(2π−π4)\sec \left(2 \pi-\frac{\pi}{4}\right) এর মান কত?
+
+Options:
+ক. $-\sqrt{2}$
+খ. $-\frac{2}{\sqrt{3}}$
+গ. $\frac{2}{\sqrt{3}}$
+ঘ. $\sqrt{2}$
+
+
+Correct Answer: ঘ
+
+Solution:
+$\sec \left(2 \pi-\frac{\pi}{4}\right)=\sec \frac{\pi}{4}=\sqrt{2}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 774590)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: য. বো.'২০১৬রাজউক উত্তরা মডেল কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+cos(2π+π6)cos⁡(2π+π6)\cos \left(2 \pi+\frac{\pi}{6}\right) এর মান নিচের কোনটি?
+
+Options:
+ক. $-\frac{\sqrt{3}}{2}$
+খ. $-\frac{1}{\sqrt{3}}$
+গ. $\frac{\sqrt{3}}{2}$
+ঘ. $\frac{1}{\sqrt{2}}$
+
+
+Correct Answer: গ
+
+Solution:
+$\cos \left(2 \pi+\frac{\pi}{6}\right)=\cos \frac{\pi}{6}=\frac{\sqrt{3}}{2}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 774591)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ব. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+tan(θ−13π2)tan⁡(θ−13π2)\tan \left(\theta-\frac{13 \pi}{2}\right) এর মান কত?
+
+Options:
+ক. $-\cot \theta$
+খ. $-\tan \theta$
+গ. $\cot \theta$
+ঘ. $\tan \theta$
+
+
+Correct Answer: ক
+
+Solution:
+$\begin{aligned} &amp; \tan \left(\theta-\frac{13 \pi}{2}\right)=\tan \left\{-\left(13 \cdot \frac{\pi}{2}-\theta\right)\right\} \\ &amp;=-\tan \left(13 \cdot \frac{\pi}{2}-\theta\right)=-\cot \theta\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 774592)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০১৫;সি. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+sinθ+cosθ=√2sin⁡θ+cos⁡θ=2\sin \theta+\cos \theta=\sqrt{2} হলে, θθ\theta এর মান কত? 
+
+Options:
+ক. 30&deg;
+খ. 45&deg;
+গ. 60&deg;
+ঘ. 90&deg;
+
+
+Correct Answer: খ
+
+Solution:
+দেওয়া আছে,
+$
+\sin \theta+\cos \theta=\sqrt{2}
+$
+বা, $\sin \theta-\sqrt{2}=-\cos \theta$
+বা, $\sin ^2 \theta-2 \sqrt{2} \sin \theta+2=\cos ^2 \theta$ [বর্গ করে]
+বা, $\sin ^2 \theta-2 \sqrt{2} \sin \theta+2=1-\sin ^2 \theta$
+বা, $2 \sin ^2 \theta-2 \sqrt{2} \sin \theta+1=0$
+বা, $(\sqrt{2} \sin \theta)^2-2 \sqrt{2} \sin \theta \cdot 1+(1)^2=0$
+বা. $(\sqrt{2} \sin \theta-1)^2$
+বা, $\sqrt{2} \sin \theta-1=0$
+বা, $\sqrt{2} \sin \theta=1$
+বা, $\sin \theta=\frac{1}{\sqrt{2}}=\sin 45^{\circ}$
+$
+\therefore \theta=45^{\circ} .
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 774593)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+cos219π24+cos231π24cos2⁡19π24+cos2⁡31π24\cos ^2 \frac{19 \pi}{24}+\cos ^2 \frac{31 \pi}{24} এর মান কোনটি?
+
+Options:
+ক. $2 \cos ^2 \frac{19 \pi}{24}$
+খ. &nbsp;<span class="math-tex">\(1\)</span>
+গ. <span class="math-tex">\(2\)</span>
+ঘ. $2 \cos ^2 \frac{\pi}{24}$
+
+
+Correct Answer: খ
+
+Solution:
+খ.  \(1\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 774594)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ঢা. বো.'২০২০
+--------------------------------------------------------------------------------
+Question:
+cos(−300∘)cos⁡(−300∘)\cos \left(-300^{\circ}\right) এর মান কত?
+
+Options:
+ক. $\frac{1}{2}$
+খ. $\frac{\sqrt{3}}{2}$
+গ. $-\frac{1}{2}$
+ঘ. $-\frac{\sqrt{3}}{2}$
+
+
+Correct Answer: ক
+
+Solution:
+$\begin{aligned} &amp; \text { } \cos \left(-300^{\circ}\right) \\ &amp; =\cos 300^{\circ}[\because \cos (-\theta)=\cos \theta] \\ &amp; =\cos \left(3 \times 90^{\circ}+30^{\circ}\right)=\sin 30^{\circ}=\frac{1}{2}\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 774595)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+(π2&lt;θ&lt;π)(π2&lt;θ&lt;π)\left(\frac{\pi}{2} এবং tanθ=−√3tan⁡θ=−3\tan \theta=-\sqrt{3} হলে cotθ=?cot⁡θ=?\cot \theta=?
+
+Options:
+ক. $\sqrt{3}$
+খ. $\frac{1}{\sqrt{3}}$
+গ. $-\frac{1}{\sqrt{3}}$
+ঘ. $-\sqrt{3}$
+
+
+Correct Answer: গ
+
+Solution:
+$\begin{aligned} &amp;  \text {এখানে, } \tan \theta=-\sqrt{3} \\ &amp; \text { বা, } \tan \theta=\tan \frac{2 \pi}{3}\left(\because \frac{5}{2}&lt;x&lt;\pi\right) \\ &amp; \therefore \cot \theta=\frac{1}{\tan \theta} \\ &amp; \quad=\frac{1}{\tan \frac{2 \pi}{3}}=\frac{1}{-\sqrt{3}}=-\frac{1}{\sqrt{3}} .\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 774572)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ম. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+cosecθ=yxcosec⁡θ=yx\operatorname{cosec} \theta=\frac{y}{x} হলে tan(3π2−θ)tan⁡(3π2−θ)\tan \left(\frac{3 \pi}{2}-\theta\right) এর মান কত?
+
+Options:
+ক. $\frac{\sqrt{x^2-y^2}}{y}$
+খ. $\frac{\sqrt{x^2-y^2}}{x}$
+গ. $\frac{\sqrt{y^2-x^2}}{x}$
+ঘ. $\frac{\sqrt{y^2-x^2}}{y}$
+
+
+Correct Answer: গ
+
+Solution:
+[Image]দেওয়া আছে,  $\operatorname{cosec} \theta=\frac{y}{x}$
+$\begin{aligned} &amp; \triangle A B C\text{-এ}, \angle C=90^{\circ}, \\ &amp; A B=x, A C=y \\ &amp; \begin{aligned} &amp; \therefore B C=\sqrt{A C^2-A B^2} \\ &amp;=\sqrt{y^2-x^2}\end{aligned} \\ &amp; \text { এখন, } \tan \left(\frac{3 \pi}{2}-\theta\right)\end{aligned}$
+$=\tan \left(3 \times \frac{\pi}{2}-\theta\right)=\cot \theta=\frac{\sqrt{y^2-x^2}}{x}$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 774575)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: রা. বো.'২০২৪
+--------------------------------------------------------------------------------
+Question:
+β=7π2 হলে, β=7π2 হলে,  
+\beta=\frac{7 \pi}{2} \text { হলে, } 
+
+
+i. cos(β−π6)=−12cos⁡(β−π6)=−12 \cos \left(\beta-\frac{\pi}{6}\right)=-\frac{1}{2}
+
+ii. cosec(β−π3)=−2cosec⁡(β−π3)=−2\operatorname{cosec}\left(\beta-\frac{\pi}{3}\right)=-2
+
+iii. tan(β−π4)=−1tan⁡(β−π4)=−1\tan \left(\beta-\frac{\pi}{4}\right)=-1
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+$\beta=\frac{7 \pi}{2}$ হলে,
+(i) $\cos$
+$
+\begin{aligned}
+\left(\beta-\frac{\pi}{6}\right)  =\cos \left(\frac{7 \pi}{2}-\frac{\pi}{6}\right) \\
+ =\cos \left(7 \times \frac{\pi}{2}-\frac{\pi}{6}\right)\\=-\sin \frac{\pi}{6}=-\frac{1}{2}
+\end{aligned}
+$
+$\therefore$ (i) নং সঠিক।
+(ii) $\operatorname{cosec}$
+$
+\begin{aligned}
+c\left(\beta-\frac{\pi}{3}\right) &amp; =\operatorname{cosec}\left(\frac{7 \pi}{2}-\frac{\pi}{3}\right) \\
+&amp; =\operatorname{cosec}\left(7 \times \frac{\pi}{2}-\frac{\pi}{3}\right) \\
+&amp; =-\sec \frac{\pi}{3}=-2
+\end{aligned}
+$
+$\therefore$ (ii) নং সঠিক।
+(iii) $\tan$
+$
+\begin{aligned}
+\left(\beta-\frac{\pi}{4}\right) &amp; =\tan \left(\frac{7 \pi}{2}-\frac{\pi}{4}\right) \\
+&amp; =\tan \left(7 \times \frac{\pi}{2}-\frac{\pi}{4}\right) \\
+&amp; =\cot \frac{\pi}{4}=1
+\end{aligned}
+$
+$\therefore$ (iii) নং সঠিক নয়।
+$\therefore$ (i) ও (ii) নং সঠিক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 774574)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+cosecθ=√2cosec⁡θ=2\operatorname{cosec} \theta=\sqrt{2} হলে θ=θ=\theta= কত?
+
+Options:
+ক. $\frac{\pi}{2}$
+খ. $\frac{\pi}{3}$
+গ. $\frac{\pi}{4}$
+ঘ. $\frac{\pi}{6}$
+
+
+Correct Answer: গ
+
+Solution:
+$\operatorname{cosec} \theta=\sqrt{2}=\operatorname{cosec} \frac{\pi}{4}$
+$
+\therefore \theta=\frac{\pi}{4} \text {. }
+$
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 774573)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+cotα=−1cot⁡α=−1\cot \alpha=-1 হলে αα\alpha কোনটি? যেখানে π2&lt;α&lt;ππ2&lt;α&lt;π\frac{\pi}{2}.
+
+Options:
+ক. 45&deg;
+খ. 135&deg;
+গ. 180&deg;
+ঘ. 225&deg;
+
+
+Correct Answer: খ
+
+Solution:
+$\begin{aligned} &amp; \text {} \cot \alpha=-1 \\ &amp; \text { দ্বিতীয় চতুর্ভাগে } \cot \alpha=-1=\cot 45^{\circ} \\ &amp;  \begin{aligned} \therefore \alpha=135^{\circ} .\end{aligned}\end{aligned}$
+
+Explanation:
+
+
+Sub-Questions:
+

@@ -1,0 +1,78 @@
+================================================================================
+Question #1 (ID: 13234)
+--------------------------------------------------------------------------------
+Type: Broad Question | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Explain the applications of algebraic formulas in solving various mathematical problems related to binomials and trinomials. Include examples of how to calculate squares and cubes using these formulas.
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+
+Approach — main identities and why they help:
+Algebraic formulas for binomials and trinomials allow quick expansion, simplification, computation, factoring and solving of polynomial expressions by replacing repeated multiplication with fixed identities. Key identities used are:
+
+- Square of a sum/difference:
+  [math](a+b)^2 = a^2 + 2ab + b^2[/math]
+  [math](a-b)^2 = a^2 - 2ab + b^2[/math]
+
+- Cube of a sum/difference:
+  [math](a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3[/math]
+  [math](a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3[/math]
+
+- Difference of squares and sum/difference of cubes:
+  [math](a+b)(a-b)=a^2-b^2[/math]
+  [math]a^3-b^3=(a-b)(a^2+ab+b^2)[/math]
+  [math]a^3+b^3=(a+b)(a^2-ab+b^2)[/math]
+
+These identities reduce algebraic work: expansion becomes substitution, factoring becomes recognition of patterns, and numeric computation often becomes mental arithmetic using nearby round numbers.
+
+Essential working steps and examples
+
+1) Expanding a square — example:
+To compute [math](x+5)^2[/math], apply the square formula:
+Step 1: identify [math]a=x[/math], [math]b=5[/math].
+Step 2: compute each term:
+[math]a^2=x^2,\quad 2ab=2\cdot x\cdot 5=10x,\quad b^2=25[/math].
+Step 3: combine:
+[math](x+5)^2 = x^2 + 10x + 25[/math].
+
+2) Expanding a cube — example:
+To expand [math](2x-3)^3[/math], use the cube of a difference with [math]a=2x[/math], [math]b=3[/math]:
+Step 1: compute terms:
+[math]a^3=(2x)^3=8x^3[/math],
+[math]-3a^2b=-3\cdot(2x)^2\cdot 3=-36x^2[/math],
+[math]+3ab^2=3\cdot(2x)\cdot 3^2=54x[/math],
+[math]-b^3=-27[/math].
+Step 2: combine:
+[math](2x-3)^3 = 8x^3 - 36x^2 + 54x - 27[/math].
+
+3) Quick numerical computations:
+- [math]99^2=(100-1)^2=10000-200+1=9801[/math] (use [math](a-b)^2[/math]).
+- [math]13^3=(10+3)^3=1000+900+270+27=2197[/math] (use [math](a+b)^3[/math]).
+
+4) Factoring trinomials and solving equations:
+- Recognize that a trinomial like [math]x^2+5x+6[/math] can come from expanding [math](x+2)(x+3)=x^2+5x+6[/math]. To factor, find numbers whose product is 6 and sum is 5 (here 2 and 3).
+- Use squares to solve equations: if [math](x+2)^2=25[/math], then [math]x+2=\pm5[/math] so [math]x=3[/math] or [math]x=-7[/math].
+
+5) Other applications:
+- Simplifying algebraic expressions and reducing algebraic fractions.
+- Recognizing and factoring special forms (difference of squares, sum/difference of cubes).
+- Speeding mental arithmetic and estimations.
+- Preparing expressions for calculus operations (derivatives, integrals) and solving polynomial equations.
+
+Logical reasoning summary:
+Start by identifying which identity matches the structure (square, cube, difference of squares, etc.). Substitute [math]a[/math] and [math]b[/math], compute each term separately, then combine. For factoring, reverse the expansion: look for patterns or factor pairs that reproduce the middle term and constant.
+
+This methodology covers expansion, factoring, numeric shortcuts, and equation solving for binomials and trinomials effectively.
+
+Explanation:
+Algebraic identities let you expand or factor binomials and trinomials quickly without repeated multiplication; for example the square and cube formulas are [math](a+b)^2=a^2+2ab+b^2[/math] and [math](a+b)^3=a^3+3a^2b+3ab^2+b^3[/math]. Applying these gives, for instance, [math](x+5)^2=x^2+10x+25[/math], and the corresponding subtraction form [math](a-b)^2=a^2-2ab+b^2[/math] works similarly. These formulas simplify computation and help in factoring or solving polynomial equations efficiently.
+
+Sub-Questions:
+

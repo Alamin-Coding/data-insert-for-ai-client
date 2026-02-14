@@ -1,0 +1,4526 @@
+================================================================================
+Question #1 (ID: 487602)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](x + 2y - 4z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + 2y - 4z)^2[/math]
+ [math]= x^2 + (2y)^2 + (-4z)^2 + 2 \cdot x \cdot 2y + 2 \cdot x \cdot (-4z) + 2 \cdot 2y \cdot (-4z)[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি তিন-ঋতু যোগের বর্গের সূত্র [math](a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2ac + 2bc[/math] ব্যবহার করা যায়; এখানে [math]a=x,\; b=2y,\; c=-4z[/math]। ফলে [math](x+2y-4z)^2 = x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 487603)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](2m - 3n + p)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2m - 3n + p)^2[/math]
+ [math]= (2m)^2 + (-3n)^2 + (p)^2 + 2 \cdot 2m \cdot (-3n) + 2 \cdot 2m \cdot p + 2 \cdot (-3n) \cdot p[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+
+
+Explanation:
+বর্গ করার জন্য সূত্র [math](a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc[/math] ব্যবহার করা যায়; এখানে [math]a=2m,\; b=-3n,\; c=p[/math]. তাই [math](2m-3n+p)^2=4m^2+9n^2+p^2-12mn+4mp-6np[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 487604)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = x[/math], [math]a - b = x - 3[/math] এবং [math]ab = \frac{45}{4}[/math] হলে, [math]x[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4ab = (a + b)^2 - (a - b)^2[/math]
+ [math]4 \cdot \frac{45}{4} = x^2 - (x - 3)^2[/math]
+ [math]45 = x^2 - (x^2 - 6x + 9)[/math]
+ [math]45 = x^2 - x^2 + 6x - 9 = 6x - 9[/math]
+ [math]6x = 45 + 9 = 54[/math]
+ [math]x = \frac{54}{6} = 9[/math]
+
+
+Explanation:
+দুটি সমীকরণ যোগ ও বিয়োগ করলে পাওয়া যায় [math]2a=2x-3[/math] এবং [math]2b=3[/math], তাই [math]a=x-\frac{3}{2}[/math], [math]b=\frac{3}{2}[/math].  
+[math]ab=\left(x-\frac{3}{2}\right)\frac{3}{2}=\frac{45}{4}[/math] হলে [math]x-\frac{3}{2}=\frac{45}{4}\cdot\frac{2}{3}=\frac{15}{2}[/math].  
+সুতরাং [math]x=\frac{15}{2}+\frac{3}{2}=9[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 487605)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]m^2(m + 1) = 15[/math], [math]m^2(m - 1) = 9[/math] হলে, [math]m^5[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m^2(m + 1) = 15[/math]
+ [math]m^2(m - 1) = 9[/math]
+ [math](m^2(m + 1))^2 - (m^2(m - 1))^2 = 15^2 - 9^2[/math]
+ [math](m^3 + m^2)^2 - (m^3 - m^2)^2 = 225 - 81 = 144[/math]
+ [math]4m^3m^2 = 144[/math]
+ [math]4m^5 = 144[/math]
+ [math]m^5 = \frac{144}{4} = 36[/math]
+
+
+Explanation:
+যোগ করলে: [math]m^3+m^3=15+9\Rightarrow 2m^3=24[/math], তাই [math]m^3=12[/math]। বিয়োগ করলে: [math]m^2+m^2=15-9\Rightarrow 2m^2=6[/math], তাই [math]m^2=3[/math]। অতএব [math]m^5=m^3\cdot m^2=12\cdot3=36[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 487606)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{9}{x} = 6[/math] হলে, [math]\frac{1}{x}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{9}{x} = 6[/math]
+ [math]x^2 + 9 = 6x[/math]
+ [math]x^2 - 6x + 9 = 0[/math]
+ [math](x - 3)^2 = 0[/math]
+ [math]x = 3[/math]
+ [math]\frac{1}{x} = \frac{1}{3}[/math]
+
+
+Explanation:
+সমাধান: সমীকরণটা [math]x+\frac{9}{x}=6[/math]। উভয় পাশে [math]x[/math] দিয়ে গুণ করলে [math]x^2+9=6x[/math] হয়, যা সাজালে [math](x-3)^2=0[/math] ফলে [math]x=3\;(x\neq0)[/math] এবং তাই [math]\frac{1}{x}=\frac{1}{3}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 487607)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]p + q = 12[/math] এবং [math]p - q = 8[/math] হলে, [math]2p^2 + 2q^2[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2p^2 + 2q^2 = 2(p^2 + q^2) = (p + q)^2 + (p - q)^2[/math]
+ [math]= (12)^2 + (8)^2 = 144 + 64 = 208[/math]
+
+
+Explanation:
+ব্যাখ্যা: সূত্র অনুযায়ী [math](p+q)^2+(p-q)^2=2(p^2+q^2)[/math], তাই [math]2p^2+2q^2=(p+q)^2+(p-q)^2[/math]. সংখ্যা বসালে [math]12^2+8^2=144+64=208[/math], ফলে [math]2p^2+2q^2=208[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 487608)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 6[/math] এবং [math]a - b = 4[/math] হলে, [math]3ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 6[/math]
+, [math]a - b = 4[/math]
+ [math]3ab = 4ab \times \frac{3}{4} = \left((a + b)^2 - (a - b)^2\right) \times \frac{3}{4}[/math]
+ [math]= ((6)^2 - (4)^2) \times \frac{3}{4}[/math]
+ [math]= (36 - 16) \times \frac{3}{4} = 20 \times \frac{3}{4} = 15[/math]
+
+
+Explanation:
+সমীকরণগুলো যোগ করলে [math]2a=10[/math] হয়, ফলে [math]a=5[/math], এবং [math]a-b=4[/math] থেকে [math]b=1[/math] পাওয়া যায়। তাই [math]3ab=3\times5\times1=15[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 487609)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 4[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = 4^2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} + 2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 16 - 2 = 14[/math]
+
+
+Explanation:
+বর্গ করলে [math](x+\frac{1}{x})^2 = x^2 + 2 + \frac{1}{x^2} = 16[/math] হওয়ায়, সুতরাং [math]x^2 + \frac{1}{x^2} = 14[/math] (এখানে [math]x\neq 0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 487610)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 5[/math], [math]ab = 6[/math] হলে, [math]a^3 + b^3[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^3 + b^3 = (a + b)^3 - 3ab(a + b)[/math]
+ [math]= 5^3 - 3 \cdot 6 \cdot 5 = 125 - 90 = 35[/math]
+
+
+Explanation:
+সমাধান: [math]a^3+b^3=(a+b)^3-3ab(a+b)[/math]। এখানে [math]a+b=5,\ ab=6[/math] বসালে [math]a^3+b^3=5^3-3\times6\times5=125-90=35[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 487611)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x - \frac{1}{x} = 3[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x - \frac{1}{x})^2 = 9[/math]
+ [math]x^2 + \frac{1}{x^2} - 2 = 9[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 9 + 2 = 11[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](x-\frac{1}{x})^2 = x^2+\frac{1}{x^2}-2[/math]. তাই [math]x^2+\frac{1}{x^2}=(x-\frac{1}{x})^2+2=3^2+2=11[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 487612)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 10[/math], [math]ab = 21[/math] হলে, [math]a^2 + b^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]= 10^2 - 2 \cdot 21 = 100 - 42 = 58[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](a+b)^2 = a^2 + b^2 + 2ab[/math] থেকে [math]a^2 + b^2 = (a+b)^2 - 2ab[/math]. এখানে [math]a+b=10,\, ab=21[/math] হলে [math]a^2 + b^2 = 10^2 - 2\times21 = 100 - 42 = 58[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 487613)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + \frac{1}{x^2} = 10[/math] হলে, [math]x + \frac{1}{x}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = x^2 + \frac{1}{x^2} + 2[/math]
+ [math]= 10 + 2 = 12[/math]
+ [math]\Rightarrow x + \frac{1}{x} = \sqrt{12} = 2\sqrt{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math](x+\frac{1}{x})^2 = x^2 + \frac{1}{x^2} + 2[/math] এবং [math]x^2 + \frac{1}{x^2} = 10[/math], তাই [math](x+\frac{1}{x})^2 = 12[/math]. অতএব [math]x+\frac{1}{x} = \pm\sqrt{12} = \pm 2\sqrt{3}[/math] (শর্তে [math]x\neq0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 487614)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math] হলে, দেখাও যে [math]a = b[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math]
+ [math]\Rightarrow \frac{a^2 + b^2}{ab} = 2[/math]
+ [math]\Rightarrow a^2 + b^2 = 2ab[/math]
+ [math]\Rightarrow a^2 - 2ab + b^2 = 0[/math]
+ [math]\Rightarrow (a - b)^2 = 0[/math]
+ [math]\Rightarrow a - b = 0[/math]
+ [math]\therefore a = b[/math]
+ (প্রমাণিত)
+
+Explanation:
+সমাধানে, [math]\frac{a}{b}+\frac{b}{a}=2[/math] থেকে (এখানে [math]ab\neq0[/math] ধরে) পাই [math]\frac{a^2+b^2}{ab}=2[/math], তখন [math]a^2+b^2=2ab[/math]. তাই [math](a-b)^2=a^2-2ab+b^2=0[/math], ফলে [math]a-b=0[/math] এবং [math]a=b[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 487615)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]4m x^2 + 25n y^2 = 20mnxy[/math] হলে, দেখাও যে [math]2mx - 5ny = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4m x^2 + 25n y^2 - 20mnxy = 0[/math]
+ [math]= (2mx)^2 - 2 \cdot 2mx \cdot 5ny + (5ny)^2 = 0[/math]
+ [math]= (2mx - 5ny)^2 = 0[/math]
+ [math]\therefore 2mx - 5ny = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা: সমীকরণকে শূন্যদিকে আনলে [math]4m x^2 -20mnxy +25n y^2 =0[/math] পাওয়া যায়, যা একটি পুরো বর্গ হিসেবে লেখা যায়: [math](2mx-5ny)^2=0</math]; তাই [math]2mx-5ny=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 487616)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2a^2 + 2b^2 = 30[/math], [math]ab = 6[/math] হলে, [math](a^2 - b^2)^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2a^2 + 2b^2 = 30[/math]
+ [math]\Rightarrow a^2 + b^2 = 15[/math]
+ [math](a^2 - b^2)^2 = (a^2 + b^2)^2 - 4a^2b^2[/math]
+ [math]= 15^2 - 4(6)^2 = 225 - 144 = 81[/math]
+
+
+Explanation:
+ব্যাখ্যা: বর্গের পার্থক্যের সূত্র অনুযায়ী [math](a^2-b^2)^2=(a^2+b^2)^2-4a^2b^2[/math]. প্রশ্ন থেকে [math]a^2+b^2=15[/math] ও [math]ab=6[/math], তাই [math](a^2-b^2)^2=15^2-4\cdot6^2=225-144=81[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 487617)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^{10} + \frac{1}{x^{20}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x^2 - 2x + 1 = 0 \Rightarrow (x - 1)^2 = 0[/math]
+ [math]\Rightarrow x = 1[/math]
+অতএব, [math]x^{10} + \frac{1}{x^{20}} = 1^{10} + \frac{1}{1^{20}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^{10} + \frac{1}{x^{20}} = 2[/math]
+
+
+Explanation:
+দুই পাশে [math]x[/math] গুণ করলে পাই [math]x^2+1=2x[/math], যা লেখা যায় [math](x-1)^2=0[/math], তাই [math]x=1[/math]। অতএব [math]x^{10}+\frac{1}{x^{20}}=1^{10}+\frac{1}{1^{20}}=1+1=2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 487618)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^5 + \frac{1}{x^{10}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x = 1[/math]
+অতএব, [math]x^5 + \frac{1}{x^{10}} = 1^5 + \frac{1}{1^{10}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^5 + \frac{1}{x^{10}} = 2[/math]
+
+
+Explanation:
+সমাধান: [math]x+\frac{1}{x}=2[/math] হলে গুণ করে [math]x^2-2x+1=0[/math], তাই [math](x-1)^2=0[/math] থেকে [math]x=1[/math] (x≠0)। ফলে [math]x^5+\frac{1}{x^{10}}=1^5+\frac{1}{1^{10}}=1+1=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 487590)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a^2 + 4b^2[/math] এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a^2 + 4b^2)^2[/math]
+ [math]= (a^2)^2 + 2 \cdot a^2 \cdot 4b^2 + (4b^2)^2[/math]
+ [math]= a^4 + 8a^2b^2 + 16b^4[/math]
+
+
+Explanation:
+বর্গ সম্প্রসারণ সূত্র [math](x+y)^2=x^2+2xy+y^2[/math] ব্যবহার করলে, যেখানে [math]x=a^2,\, y=4b^2[/math]. ফলে [math](a^2+4b^2)^2=a^4+8a^2b^2+16b^4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 487591)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূত্রের সাহায্যে ২৭৫ এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]275 = 200 + 75[/math]
+ [math](275)^2 = (200 + 75)^2[/math]
+ [math]= (200)^2 + 2 \cdot 200 \cdot 75 + (75)^2[/math]
+ [math]= 40000 + 30000 + 5625[/math]
+ [math]= 75625[/math]
+
+
+Explanation:
+ব্যাখ্যা: বর্গ সূত্র [math](a+b)^2 = a^2 + 2ab + b^2[/math] প্রয়োগ করা যায়। যদি [math]275 = 250 + 25[/math], entonces [math]275^2 = 250^2 + 2\cdot250\cdot25 + 25^2 = 62500 + 12500 + 625 = 75625[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 487592)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+ [math]= (5a^2x)^2 + 2 \cdot 5a^2x \cdot 6b + (6b)^2[/math]
+ [math]= (5a^2x + 6b)^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]25a^4x^2+60a^2bx+36b^2[/math] হলো [math]5a^2x[/math] ও [math]6b[/math]‑এর পূর্ণবর্গ কারণ মধ্যবর্তী পদটি [math]2\cdot5a^2x\cdot6b=60a^2bx[/math]। তাই এটি factor করে পাওয়া যায়: [math](5a^2x+6b)^2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 487593)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3p + \frac{1}{2p} = ৭[/math] হলে, [math]9p^2 + \frac{1}{4p^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3p + \frac{1}{2p} = ৭[/math]
+ [math]9p^2 + \frac{1}{4p^2} = (3p)^2 + \left(\frac{1}{2p}\right)^2[/math]
+ [math]= \left(3p + \frac{1}{2p}\right)^2 - 2 \cdot 3p \cdot \frac{1}{2p}[/math]
+ [math]= 7^2 - 3 = 49 - 3 = 46[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]3p+\frac{1}{2p}=7[/math] হলে উভয় পাশে বর্গ করলে [math](3p+\frac{1}{2p})^2=49[/math]. বর্গবিস্তারে [math]9p^2+2\cdot3p\cdot\frac{1}{2p}+\frac{1}{4p^2}=9p^2+3+\frac{1}{4p^2}[/math], তাই [math]9p^2+\frac{1}{4p^2}=49-3=46[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 487594)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + \frac{1}{2b} = ৩[/math] হলে, দেখাও যে, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + \frac{1}{2b} = ৩[/math]
+ [math]\left(a + \frac{1}{2b}\right)^2 = ৩^2 = ৯[/math]
+ [math]a^2 + 2a \cdot \frac{1}{2b} + \left(\frac{1}{2b}\right)^2 = ৯[/math]
+ [math]a^2 + \frac{a}{b} + \frac{1}{4b^2} = ৯[/math]
+উভয় পক্ষকে [math]4b^2[/math]
+ দ্বারা গুণ করি:[math]4a^2b^2 + 4ab + 1 = 36b^2[/math]
+অতএব, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+দিয়েছি [math]a + \frac{1}{2b} = 3[/math]; উভয় পাশে [math]2b[/math] দিয়ে গুণ করলে পাই [math]2ab+1=6b[/math], তাই [math]2ab-6b+1=0[/math]. এখন লক্ষ্য কর যে [math](2ab-6b+1)(2ab+6b+1)=4a^2b^2-36b^2+4ab+1</math], এবং প্রথম গুণকটি শূন্য হওয়ায় কাঙ্ক্ষিত সমীকরণ [math]4a^2b^2-36b^2+4ab+1=0[/math] প্রমাণিত।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 487595)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 5[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 5[/math]
+ [math]\left(x + \frac{1}{x}\right)^2 = 5^2 = 25[/math]
+ [math]x^2 + 2 + \frac{1}{x^2} = 25[/math]
+ [math]x^2 + \frac{1}{x^2} = 25 - 2 = 23[/math]
+
+
+Explanation:
+দুটি পদগুণী সূত্র ব্যবহার করে সহজে পাওয়া যায়: কিউব না করে বর্গ করলে [math](x+\frac{1}{x})^2=x^2+\frac{1}{x^2}+2[/math]। এখানে বামপাশের মান [math]5^2=25[/math] হওয়ায় [math]25=x^2+\frac{1}{x^2}+2[/math], ফলে [math]x^2+\frac{1}{x^2}=23[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 487596)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a - \frac{1}{a} = 4[/math] হলে, [math]a^2 + \frac{1}{a^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a - \frac{1}{a} = 4[/math]
+ [math]\left(a - \frac{1}{a}\right)^2 = 4^2 = 16[/math]
+ [math]a^2 - 2 + \frac{1}{a^2} = 16[/math]
+ [math]a^2 + \frac{1}{a^2} = 16 + 2 = 18[/math]
+
+
+Explanation:
+ব্যাখ্যা: দ্বিগুণভাবে বর্গ করলে [math](a-\frac{1}{a})^2 = a^2 + \frac{1}{a^2} - 2[/math], তাই [math]a^2 + \frac{1}{a^2} = (a-\frac{1}{a})^2 + 2 = 4^2 + 2 = 18[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 487597)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]y + \frac{1}{2y} = 6[/math] হলে, [math]y^2 + \frac{1}{4y^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]y + \frac{1}{2y} = 6[/math]
+ [math]\left(y + \frac{1}{2y}\right)^2 = 6^2 = 36[/math]
+ [math]y^2 + 2 \cdot y \cdot \frac{1}{2y} + \left(\frac{1}{2y}\right)^2 = 36[/math]
+ [math]y^2 + 1 + \frac{1}{4y^2} = 36[/math]
+ [math]y^2 + \frac{1}{4y^2} = 36 - 1 = 35[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমীকরণটি বর্গ করলে [math](y+\frac{1}{2y})^2= y^2+2\cdot y\cdot\frac{1}{2y}+\frac{1}{4y^2}=y^2+1+\frac{1}{4y^2}[/math] এবং বামপাশের মান হলো [math]6^2=36[/math], তাই [math]y^2+\frac{1}{4y^2}=36-1=35[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 487598)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 15[/math] এবং [math]a^2 + b^2 = 113[/math] হলে, [math]ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 15[/math]
+, [math]a^2 + b^2 = 113[/math]
+ [math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]113 = (15)^2 - 2ab[/math]
+ [math]113 = 225 - 2ab[/math]
+ [math]2ab = 225 - 113 = 112[/math]
+ [math]\therefore ab = \frac{112}{2} = 56[/math]
+
+
+Explanation:
+ব্যাখ্যা: আমরা জানি [math](a+b)^2 = a^2 + b^2 + 2ab[/math]. এখানে [math](15)^2 = 225 = 113 + 2ab[/math] হওয়ায় [math]2ab = 112[/math] এবং ফলে [math]ab = 56[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 487599)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](a - 2b + 3z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a - 2b + 3z)^2 = (a)^2 + (-2b)^2 + (3z)^2 + 2a(-2b) + 2a(3z) + 2(-2b)(3z)[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+
+
+Explanation:
+সমাধান: কোনো তিনটি পদের যোগের বর্গে প্রতিটি পদকের বর্গ এবং প্রতিটি ভিন্ন জোড়ার দ্বিগুণ গুণ যোগ করা হয়, তাই [math](a-2b+3z)^2 = a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 487600)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]36(x + 4)^2 + 4(3x - 5)^2 - 24(x + 4)(3x - 5)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= 36(x + 4)^2 + 4(3x - 5)^2 - 2 \cdot 6(x + 4) \cdot 2(3x - 5)[/math]
+ [math]= [6(x + 4) - 2(3x - 5)]^2[/math]
+ [math]= (6x + 24 - 6x + 10)^2[/math]
+ [math]= (34)^2 = 1156[/math]
+
+
+Explanation:
+ব্যাখ্যা: সম্পূর্ণ অভিব্যক্তিটি [math]36(x+4)^2+4(3x-5)^2-24(x+4)(3x-5)=[6(x+4)-2(3x-5)]^2[/math] কারণ এটি [math]a^2+b^2-2ab=(a-b)^2[/math]নের মতো। এখানে [math]6(x+4)-2(3x-5)=6x+24-(6x-10)=34[/math], তাই ফলাফলটি [math]34^2=1156[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 487601)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]9a^2 + (3a + 1)^2 - 6a(3a + 1)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= (3a)^2 + (3a + 1)^2 - 2 \cdot 3a(3a + 1)[/math]
+ [math]= [3a - (3a + 1)]^2[/math]
+ [math]= (-1)^2 = 1[/math]
+
+
+Explanation:
+বিসয়টি হলো এটি [math]x^2+y^2-2xy=(x-y)^2[/math] রূপের; এখানে [math]x=3a,\,y=3a+1[/math], তাই
+[math]9a^2+(3a+1)^2-6a(3a+1)=(3a)^2+(3a+1)^2-2(3a)(3a+1)=(3a-(3a+1))^2=(-1)^2=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 487548)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a^2 + 4b^2[/math] এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a^2 + 4b^2)^2[/math]
+ [math]= (a^2)^2 + 2 \cdot a^2 \cdot 4b^2 + (4b^2)^2[/math]
+ [math]= a^4 + 8a^2b^2 + 16b^4[/math]
+
+
+Explanation:
+বর্গ করার সূত্র [math](x+y)^2 = x^2 + 2xy + y^2[/math] প্রয়োগ করলে এখানে [math]x=a^2,\; y=4b^2[/math]. ফলে [math](a^2+4b^2)^2 = a^4 + 2\cdot a^2\cdot 4b^2 + (4b^2)^2 = a^4 + 8a^2b^2 + 16b^4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 487549)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূত্রের সাহায্যে ২৭৫ এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]275 = 200 + 75[/math]
+ [math](275)^2 = (200 + 75)^2[/math]
+ [math]= (200)^2 + 2 \cdot 200 \cdot 75 + (75)^2[/math]
+ [math]= 40000 + 30000 + 5625[/math]
+ [math]= 75625[/math]
+
+
+Explanation:
+বর্গ সূত্র ব্যবহার করে: [math](a+b)^2 = a^2 + 2ab + b^2[/math]; এখানে [math]275=250+25[/math], তাই [math]a=250,\; b=25[/math].  
+এবং [math]250^2=62500,\;2ab=12500,\;25^2=625\Rightarrow 62500+12500+625=75625[/math], তাই [math]275^2=75625[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 487550)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+ [math]= (5a^2x)^2 + 2 \cdot 5a^2x \cdot 6b + (6b)^2[/math]
+ [math]= (5a^2x + 6b)^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: এটি একটি বর্গী যোগফল, কারণ [math](A+B)^2 = A^2 + 2AB + B^2[/math] ফর্ম প্রয়োগ করলে যদি আমরা [math]A=5a^2x[/math] এবং [math]B=6b[/math] নিই, তবে [math]2AB = 2(5a^2x)(6b)=60a^2bx[/math] পাওয়া যায়; তাই প্রকাশটি হচ্ছে [math](5a^2x+6b)^2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 487551)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3p + \frac{1}{2p} = ৭[/math] হলে, [math]9p^2 + \frac{1}{4p^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3p + \frac{1}{2p} = ৭[/math]
+ [math]9p^2 + \frac{1}{4p^2} = (3p)^2 + \left(\frac{1}{2p}\right)^2[/math]
+ [math]= \left(3p + \frac{1}{2p}\right)^2 - 2 \cdot 3p \cdot \frac{1}{2p}[/math]
+ [math]= 7^2 - 3 = 49 - 3 = 46[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুপক্ষকে বর্গ করে নিলে [math](3p+\frac{1}{2p})^2=7^2[/math]. বামে বিস্তারের ফলে [math]9p^2+2\cdot3p\cdot\frac{1}{2p}+\frac{1}{4p^2}=9p^2+3+\frac{1}{4p^2}[/math] হয়। অতএব [math]9p^2+\frac{1}{4p^2}=49-3=46[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 487552)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + \frac{1}{2b} = ৩[/math] হলে, দেখাও যে, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + \frac{1}{2b} = ৩[/math]
+ [math]\left(a + \frac{1}{2b}\right)^2 = ৩^2 = ৯[/math]
+ [math]a^2 + 2a \cdot \frac{1}{2b} + \left(\frac{1}{2b}\right)^2 = ৯[/math]
+ [math]a^2 + \frac{a}{b} + \frac{1}{4b^2} = ৯[/math]
+উভয় পক্ষকে [math]4b^2[/math]
+ দ্বারা গুণ করি:[math]4a^2b^2 + 4ab + 1 = 36b^2[/math]
+অতএব, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রথমে [math]a+\frac{1}{2b}=৩[/math]-কে [math]2b[/math] দিয়ে গুণ করলে পাওয়া যায় [math]2ab+1=6b[/math]. লক্ষ্যীয় বহুপদীকে লেখা যায় [math]4a^2b^2-36b^2+4ab+1=(2ab+1)^2-36b^2=((2ab+1)-6b)((2ab+1)+6b)[/math], এবং উপরের সমীকরণ থেকে [math]2ab+1=6b[/math] হওয়ায় প্রথম গুণক শূন্য হয়, ফলে সমগ্র প্রকাশটি শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 487553)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 5[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 5[/math]
+ [math]\left(x + \frac{1}{x}\right)^2 = 5^2 = 25[/math]
+ [math]x^2 + 2 + \frac{1}{x^2} = 25[/math]
+ [math]x^2 + \frac{1}{x^2} = 25 - 2 = 23[/math]
+
+
+Explanation:
+সমাধান: উভয় পাশে বর্গ করলে সূত্র [math](a+b)^2=a^2+2ab+b^2[/math] প্রযোজ্য হয়, তাই [math](x+\frac{1}{x})^2=x^2+2+\frac{1}{x^2}=25[/math] (কারণ [math]2x\cdot\frac{1}{x}=2[/math]), ফলে [math]x^2+\frac{1}{x^2}=25-2=23[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 487554)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a - \frac{1}{a} = 4[/math] হলে, [math]a^2 + \frac{1}{a^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a - \frac{1}{a} = 4[/math]
+ [math]\left(a - \frac{1}{a}\right)^2 = 4^2 = 16[/math]
+ [math]a^2 - 2 + \frac{1}{a^2} = 16[/math]
+ [math]a^2 + \frac{1}{a^2} = 16 + 2 = 18[/math]
+
+
+Explanation:
+যদি [math]a-\frac{1}{a}=4[/math], তাহলে বর্গ করলে [math](a-\frac{1}{a})^2=a^2+\frac{1}{a^2}-2[/math] হয়। তাই [math]a^2+\frac{1}{a^2}=4^2+2=18[/math] (এবং এখানে [math]a\neq0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 487555)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]y + \frac{1}{2y} = 6[/math] হলে, [math]y^2 + \frac{1}{4y^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]y + \frac{1}{2y} = 6[/math]
+ [math]\left(y + \frac{1}{2y}\right)^2 = 6^2 = 36[/math]
+ [math]y^2 + 2 \cdot y \cdot \frac{1}{2y} + \left(\frac{1}{2y}\right)^2 = 36[/math]
+ [math]y^2 + 1 + \frac{1}{4y^2} = 36[/math]
+ [math]y^2 + \frac{1}{4y^2} = 36 - 1 = 35[/math]
+
+
+Explanation:
+কারণ উভয় পাশে বর্গ করলে [math](y + \frac{1}{2y})^2 = 36[/math] হয় এবং বাঁদিকে বিস্তৃত করলে পাওয়া যায় [math]y^2 + 2\cdot y\cdot\frac{1}{2y} + \frac{1}{4y^2} = y^2 + 1 + \frac{1}{4y^2}[/math]. সুতরাং [math]y^2 + \frac{1}{4y^2} = 36 - 1 = 35[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 487556)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 15[/math] এবং [math]a^2 + b^2 = 113[/math] হলে, [math]ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 15[/math]
+, [math]a^2 + b^2 = 113[/math]
+ [math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]113 = (15)^2 - 2ab[/math]
+ [math]113 = 225 - 2ab[/math]
+ [math]2ab = 225 - 113 = 112[/math]
+ [math]\therefore ab = \frac{112}{2} = 56[/math]
+
+
+Explanation:
+দ্বিতীয় ডিগ্রী পরিচিতি ব্যবহার করলে [math](a+b)^2 = a^2 + 2ab + b^2[/math]। এখানে [math](a+b)^2 = 15^2 = 225[/math] এবং [math]a^2 + b^2 = 113[/math] হওয়ায় [math]2ab = 225 - 113 = 112[/math], ফলে [math]ab = 56[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 487557)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](a - 2b + 3z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a - 2b + 3z)^2 = (a)^2 + (-2b)^2 + (3z)^2 + 2a(-2b) + 2a(3z) + 2(-2b)(3z)[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+
+
+Explanation:
+ব্যাখ্যা: সূত্র [math](u+v+w)^2 = u^2+v^2+w^2+2(uv+vw+wu)[/math] প্রয়োগ করে, যেখানে [math]u=a,\ v=-2b,\ w=3z[/math]; ফলে [math](a-2b+3z)^2 = a^2+4b^2+9z^2-4ab+6az-12bz[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 487558)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]36(x + 4)^2 + 4(3x - 5)^2 - 24(x + 4)(3x - 5)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= 36(x + 4)^2 + 4(3x - 5)^2 - 2 \cdot 6(x + 4) \cdot 2(3x - 5)[/math]
+ [math]= [6(x + 4) - 2(3x - 5)]^2[/math]
+ [math]= (6x + 24 - 6x + 10)^2[/math]
+ [math]= (34)^2 = 1156[/math]
+
+
+Explanation:
+ব্যাখ্যা: এটি একটি পূর্ণবর্গ-রূপ কারণ [math]a^2+b^2-2ab=(a-b)^2[/math] যেখানে নিলে [math]a=6(x+4)[/math] এবং [math]b=2(3x-5)[/math], ফলে অভিব্যক্তিটি হচ্ছে [math](6(x+4)-2(3x-5))^2[/math]. এটি সরল করলে [math]6(x+4)-2(3x-5)=34[/math] এবং তাই পুরো বিন্দু [math]34^2=1156[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 487559)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]9a^2 + (3a + 1)^2 - 6a(3a + 1)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= (3a)^2 + (3a + 1)^2 - 2 \cdot 3a(3a + 1)[/math]
+ [math]= [3a - (3a + 1)]^2[/math]
+ [math]= (-1)^2 = 1[/math]
+
+
+Explanation:
+ব্যাখ্যা: এখানে [math]9a^2=(3a)^2[/math] এবং [math]6a(3a+1)=2(3a)(3a+1)[/math], তাই পুরো প্রকাশটি লেখা যায় যেমন [math](3a)^2+(3a+1)^2-2(3a)(3a+1)=(3a-(3a+1))^2[/math]; ফলে এটি হয় [math](-1)^2=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 487560)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](x + 2y - 4z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + 2y - 4z)^2[/math]
+ [math]= x^2 + (2y)^2 + (-4z)^2 + 2 \cdot x \cdot 2y + 2 \cdot x \cdot (-4z) + 2 \cdot 2y \cdot (-4z)[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+
+
+Explanation:
+ব্যাখ্যা: তিনটি পদের বর্গের সূত্র [math](a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2ac + 2bc[/math] প্রয়োগ করলে, যদি [math]a=x,\; b=2y,\; c=-4z[/math] ধরা হয় তো ফল হবে [math](x+2y-4z)^2 = x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 487561)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](2m - 3n + p)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2m - 3n + p)^2[/math]
+ [math]= (2m)^2 + (-3n)^2 + (p)^2 + 2 \cdot 2m \cdot (-3n) + 2 \cdot 2m \cdot p + 2 \cdot (-3n) \cdot p[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+
+
+Explanation:
+ব্যাখ্যা: তিনটি যোগকের বর্গের সূত্র [math](a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc[/math] প্রয়োগ করলে, এখানে [math]a=2m,\;b=-3n,\;c=p[/math] হয়ে ফল হয় [math]4m^2+9n^2+p^2-12mn+4mp-6np[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 487562)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = x[/math], [math]a - b = x - 3[/math] এবং [math]ab = \frac{45}{4}[/math] হলে, [math]x[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4ab = (a + b)^2 - (a - b)^2[/math]
+ [math]4 \cdot \frac{45}{4} = x^2 - (x - 3)^2[/math]
+ [math]45 = x^2 - (x^2 - 6x + 9)[/math]
+ [math]45 = x^2 - x^2 + 6x - 9 = 6x - 9[/math]
+ [math]6x = 45 + 9 = 54[/math]
+ [math]x = \frac{54}{6} = 9[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুইটি সমীকরণ যোগ করলে [math]2a=2x-3[/math] হওয়ায় [math]a=x-\tfrac{3}{2}[/math] এবং তারা বিয়োগ করলে [math]2b=3[/math] থেকে [math]b=\tfrac{3}{2}[/math] পাওয়া যায়। এরপর [math]ab=(x-\tfrac{3}{2})\cdot\tfrac{3}{2}=\tfrac{45}{4}[/math] লিখে সমাধান করলে [math]x-\tfrac{3}{2}=\tfrac{45}{4}\cdot\tfrac{2}{3}=\tfrac{15}{2}[/math] হয়, ফলে [math]x=9[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 487563)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]m^2(m + 1) = 15[/math], [math]m^2(m - 1) = 9[/math] হলে, [math]m^5[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m^2(m + 1) = 15[/math]
+ [math]m^2(m - 1) = 9[/math]
+ [math](m^2(m + 1))^2 - (m^2(m - 1))^2 = 15^2 - 9^2[/math]
+ [math](m^3 + m^2)^2 - (m^3 - m^2)^2 = 225 - 81 = 144[/math]
+ [math]4m^3m^2 = 144[/math]
+ [math]4m^5 = 144[/math]
+ [math]m^5 = \frac{144}{4} = 36[/math]
+
+
+Explanation:
+সমাধান: প্রথম সমীকরণগুলোকে লিখলে পাওয়া যায় [math]m^3+m^2=15[/math] এবং [math]m^3-m^2=9[/math]। যোগ করলে [math]2m^3=24\Rightarrow m^3=12[/math], বিয়োগ করলে [math]2m^2=6\Rightarrow m^2=3[/math]. তাই [math]m^5=m^3\cdot m^2=12\cdot3=36[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 487564)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{9}{x} = 6[/math] হলে, [math]\frac{1}{x}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{9}{x} = 6[/math]
+ [math]x^2 + 9 = 6x[/math]
+ [math]x^2 - 6x + 9 = 0[/math]
+ [math](x - 3)^2 = 0[/math]
+ [math]x = 3[/math]
+ [math]\frac{1}{x} = \frac{1}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]t=1/x[/math] ধরে লিখলে সমীকরণটি হয় [math]\frac{1}{t}+9t=6[/math], যা থেকে গুণ করলে পাওয়া যায় [math]9t^2-6t+1=0[/math]. এই কোয়াড্রাটিকের ডিসক্রিমিন্যান্ট শূন্য হওয়ায় মূল দুটির মান একই এবং [math]t=1/3[/math], ফলে [math]1/x=1/3[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 487565)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]p + q = 12[/math] এবং [math]p - q = 8[/math] হলে, [math]2p^2 + 2q^2[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2p^2 + 2q^2 = 2(p^2 + q^2) = (p + q)^2 + (p - q)^2[/math]
+ [math]= (12)^2 + (8)^2 = 144 + 64 = 208[/math]
+
+
+Explanation:
+সমাধান: যোগ করলে [math]2p=20\Rightarrow p=10[/math] এবং বিয়োগ করলে [math]2q=4\Rightarrow q=2[/math]. তাই [math]2p^2+2q^2=2(10^2+2^2)=2(100+4)=208[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 487566)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 6[/math] এবং [math]a - b = 4[/math] হলে, [math]3ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 6[/math]
+, [math]a - b = 4[/math]
+ [math]3ab = 4ab \times \frac{3}{4} = \left((a + b)^2 - (a - b)^2\right) \times \frac{3}{4}[/math]
+ [math]= ((6)^2 - (4)^2) \times \frac{3}{4}[/math]
+ [math]= (36 - 16) \times \frac{3}{4} = 20 \times \frac{3}{4} = 15[/math]
+
+
+Explanation:
+সমাধান: সমীকরণ দুটি যোগ করলে [math]2a=10[/math] থেকে [math]a=5[/math] পাওয়া যায়, তারপর [math]a+b=6[/math] থেকে [math]b=1[/math]. তাই [math]3ab=3\times5\times1=15[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 487567)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 4[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = 4^2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} + 2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 16 - 2 = 14[/math]
+
+
+Explanation:
+দেওয়া আছে [math]x + \frac{1}{x} = 4[/math]; (a+b)^2 সূত্র প্রয়োগ করে উভয় পক্ষ বর্গ করলে [math]\left(x + \frac{1}{x}\right)^2 = x^2 + 2 + \frac{1}{x^2} = 16[/math].  
+অতএব [math]x^2 + \frac{1}{x^2} = 16 - 2 = 14[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 487568)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 5[/math], [math]ab = 6[/math] হলে, [math]a^3 + b^3[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^3 + b^3 = (a + b)^3 - 3ab(a + b)[/math]
+ [math]= 5^3 - 3 \cdot 6 \cdot 5 = 125 - 90 = 35[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমষ্টির ঘনফলের সূত্র [math]a^3 + b^3 = (a+b)^3 - 3ab(a+b)[/math]। এখানে [math]a+b=5,\; ab=6[/math] হলে [math]a^3 + b^3 = 5^3 - 3\cdot6\cdot5 = 125 - 90 = 35[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 487569)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x - \frac{1}{x} = 3[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x - \frac{1}{x})^2 = 9[/math]
+ [math]x^2 + \frac{1}{x^2} - 2 = 9[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 9 + 2 = 11[/math]
+
+
+Explanation:
+বর্গ করে এবং সম্প্রসারণ করলে [math](x-\frac{1}{x})^2=9[/math] এবং এটি থেকে [math]x^2+\frac{1}{x^2}-2=9[/math] পাওয়া যায়। অতএব [math]x^2+\frac{1}{x^2}=11[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 487570)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 10[/math], [math]ab = 21[/math] হলে, [math]a^2 + b^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]= 10^2 - 2 \cdot 21 = 100 - 42 = 58[/math]
+
+
+Explanation:
+[math](a+b)^2 = a^2 + b^2 + 2ab[/math] থেকে [math]a^2 + b^2 = (a+b)^2 - 2ab[/math]. ফলে [math]a^2 + b^2 = 10^2 - 2\cdot21 = 100 - 42 = 58[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 487571)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + \frac{1}{x^2} = 10[/math] হলে, [math]x + \frac{1}{x}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = x^2 + \frac{1}{x^2} + 2[/math]
+ [math]= 10 + 2 = 12[/math]
+ [math]\Rightarrow x + \frac{1}{x} = \sqrt{12} = 2\sqrt{3}[/math]
+
+
+Explanation:
+যদি [math]t=x+\frac{1}{x}[/math] ধরা হয়, তবে [math]t^2=x^2+\frac{1}{x^2}+2=10+2=12[/math], সুতরাং [math]t=±\sqrt{12}=±2\sqrt{3}[/math] (এখানে [math]x\neq0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 487572)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math] হলে, দেখাও যে [math]a = b[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math]
+ [math]\Rightarrow \frac{a^2 + b^2}{ab} = 2[/math]
+ [math]\Rightarrow a^2 + b^2 = 2ab[/math]
+ [math]\Rightarrow a^2 - 2ab + b^2 = 0[/math]
+ [math]\Rightarrow (a - b)^2 = 0[/math]
+ [math]\Rightarrow a - b = 0[/math]
+ [math]\therefore a = b[/math]
+ (প্রমাণিত)
+
+Explanation:
+সমাধান: দেওয়া আছে [math]\frac{a}{b}+\frac{b}{a}=2[/math]. উভয় পাশে [math]ab[/math] দিয়ে গুণ করলে পাই [math]a^2+b^2=2ab[/math], যা থেকে [math]a^2-2ab+b^2=(a-b)^2=0[/math] হয়, তাই [math]a=b[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 487573)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]4m x^2 + 25n y^2 = 20mnxy[/math] হলে, দেখাও যে [math]2mx - 5ny = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4m x^2 + 25n y^2 - 20mnxy = 0[/math]
+ [math]= (2mx)^2 - 2 \cdot 2mx \cdot 5ny + (5ny)^2 = 0[/math]
+ [math]= (2mx - 5ny)^2 = 0[/math]
+ [math]\therefore 2mx - 5ny = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রথমে লক্ষ্য করো যে [math]\frac{(2mx-5ny)^2}{mn}=4mx^2+25ny^2-20mnxy[/math], এবং শর্তানুযায়ী [math]4mx^2+25ny^2-20mnxy=0[/math]. তাই [math](2mx-5ny)^2=0[/math] হওয়ায় [math]2mx-5ny=0[/math]; যদি [math]mn=0[/math] হয় তবে দেওয়া সমীকরণ থেকে প্রাসঙ্গিক ভেরিয়েবল শূন্য হয়ে পুনরায় একই সম্পর্ক পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 487574)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2a^2 + 2b^2 = 30[/math], [math]ab = 6[/math] হলে, [math](a^2 - b^2)^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2a^2 + 2b^2 = 30[/math]
+ [math]\Rightarrow a^2 + b^2 = 15[/math]
+ [math](a^2 - b^2)^2 = (a^2 + b^2)^2 - 4a^2b^2[/math]
+ [math]= 15^2 - 4(6)^2 = 225 - 144 = 81[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে [math]2a^2+2b^2=30[/math] থেকে [math]a^2+b^2=15[/math] পাওয়া যায় এবং [math]ab=6[/math] হলে [math]a^2b^2=(ab)^2=36[/math]. পরিচিত পরিচয় ব্যবহার করে [math](a^2-b^2)^2=(a^2+b^2)^2-4a^2b^2[/math], তাই [math]15^2-4\cdot36=225-144=81[/math] পাওয়া যায়। ফলে মান = [math]81[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 487575)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^{10} + \frac{1}{x^{20}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x^2 - 2x + 1 = 0 \Rightarrow (x - 1)^2 = 0[/math]
+ [math]\Rightarrow x = 1[/math]
+অতএব, [math]x^{10} + \frac{1}{x^{20}} = 1^{10} + \frac{1}{1^{20}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^{10} + \frac{1}{x^{20}} = 2[/math]
+
+
+Explanation:
+[math]x+\frac{1}{x}=2\Rightarrow x^2+1=2x\Rightarrow (x-1)^2=0\Rightarrow x=1[/math]. তাই [math]x^{10}+\frac{1}{x^{20}}=1^{10}+\frac{1}{1^{20}}=1+1=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 487576)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^5 + \frac{1}{x^{10}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x = 1[/math]
+অতএব, [math]x^5 + \frac{1}{x^{10}} = 1^5 + \frac{1}{1^{10}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^5 + \frac{1}{x^{10}} = 2[/math]
+
+
+Explanation:
+ব্যাখ্যা: গুণ করলে [math]x^2+1=2x[/math], তাই [math](x-1)^2=0[/math] এবং [math]x=1\;(x\neq0)।[/math] তখন [math]x^5+\frac{1}{x^{10}}=1^5+\frac{1}{1^{10}}=1+1=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 487406)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a^2 + 4b^2[/math] এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a^2 + 4b^2)^2[/math]
+ [math]= (a^2)^2 + 2 \cdot a^2 \cdot 4b^2 + (4b^2)^2[/math]
+ [math]= a^4 + 8a^2b^2 + 16b^4[/math]
+
+
+Explanation:
+বর্গ করার সূত্র [math](x+y)^2 = x^2 + 2xy + y^2[/math] প্রয়োগ করে, যেখানে [math]x=a^2,\, y=4b^2[/math]. তাই [math](a^2+4b^2)^2 = a^4 + 2\cdot a^2\cdot 4b^2 + (4b^2)^2 = a^4 + 8a^2b^2 + 16b^4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 487407)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূত্রের সাহায্যে ২৭৫ এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]275 = 200 + 75[/math]
+ [math](275)^2 = (200 + 75)^2[/math]
+ [math]= (200)^2 + 2 \cdot 200 \cdot 75 + (75)^2[/math]
+ [math]= 40000 + 30000 + 5625[/math]
+ [math]= 75625[/math]
+
+
+Explanation:
+ব্যাখ্যা: 275 = 300 − 25 এবং সূত্র [math](a-b)^2 = a^2 - 2ab + b^2] প্রয়োগ করে [math](275)^2 = (300-25)^2 = 300^2 - 2\times300\times25 + 25^2 = 90000 - 15000 + 625 = 75625.
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 487408)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+ [math]= (5a^2x)^2 + 2 \cdot 5a^2x \cdot 6b + (6b)^2[/math]
+ [math]= (5a^2x + 6b)^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: এটি [math]x[/math] সম্পর্কে একটি পূর্ণবর্গ; কারণ [math](5a^2x+6b)^2=25a^4x^2+2\cdot5a^2x\cdot6b+36b^2=25a^4x^2+60a^2bx+36b^2[/math], তাই সরলরূপটি হল [math](5a^2x+6b)^2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 487409)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3p + \frac{1}{2p} = ৭[/math] হলে, [math]9p^2 + \frac{1}{4p^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3p + \frac{1}{2p} = ৭[/math]
+ [math]9p^2 + \frac{1}{4p^2} = (3p)^2 + \left(\frac{1}{2p}\right)^2[/math]
+ [math]= \left(3p + \frac{1}{2p}\right)^2 - 2 \cdot 3p \cdot \frac{1}{2p}[/math]
+ [math]= 7^2 - 3 = 49 - 3 = 46[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধরো [math]x=3p[/math] এবং [math]y=\dfrac{1}{2p}[/math], তাহলে [math]x+y=7[/math] এবং আমরা চাই [math]x^2+y^2=9p^2+\dfrac{1}{4p^2}[/math]. এখন [math]x^2+y^2=(x+y)^2-2xy=49-2\cdot\frac{3}{2}=49-3=46[/math], সুতরাং মান হবে [math]46[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 487410)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + \frac{1}{2b} = ৩[/math] হলে, দেখাও যে, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + \frac{1}{2b} = ৩[/math]
+ [math]\left(a + \frac{1}{2b}\right)^2 = ৩^2 = ৯[/math]
+ [math]a^2 + 2a \cdot \frac{1}{2b} + \left(\frac{1}{2b}\right)^2 = ৯[/math]
+ [math]a^2 + \frac{a}{b} + \frac{1}{4b^2} = ৯[/math]
+উভয় পক্ষকে [math]4b^2[/math]
+ দ্বারা গুণ করি:[math]4a^2b^2 + 4ab + 1 = 36b^2[/math]
+অতএব, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+[math]a=3-\frac{1}{2b}[/math] হওয়ায় [math]ab=3b-\frac{1}{2}[/math] এবং [math]a^2b^2=b^2\Big(3-\frac{1}{2b}\Big)^2=9b^2-3b+\frac{1}{4}[/math]. তাই
+[math]4a^2b^2-36b^2+4ab+1=4(9b^2-3b+\tfrac{1}{4})-36b^2+4(3b-\tfrac{1}{2})+1=0[/math], ফলে প্রদর্শিত সমীকরণটি সত্য।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 487411)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 5[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 5[/math]
+ [math]\left(x + \frac{1}{x}\right)^2 = 5^2 = 25[/math]
+ [math]x^2 + 2 + \frac{1}{x^2} = 25[/math]
+ [math]x^2 + \frac{1}{x^2} = 25 - 2 = 23[/math]
+
+
+Explanation:
+ব্যাখ্যা: দেওয়া আছে [math]x+\frac{1}{x}=5[/math]; উভয় পাশে বর্গ করলে পাওয়া যায় [math]\left(x+\frac{1}{x}\right)^2=x^2+2+\frac{1}{x^2}=25[/math]. অতএব [math]x^2+\frac{1}{x^2}=25-2=23[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 487412)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a - \frac{1}{a} = 4[/math] হলে, [math]a^2 + \frac{1}{a^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a - \frac{1}{a} = 4[/math]
+ [math]\left(a - \frac{1}{a}\right)^2 = 4^2 = 16[/math]
+ [math]a^2 - 2 + \frac{1}{a^2} = 16[/math]
+ [math]a^2 + \frac{1}{a^2} = 16 + 2 = 18[/math]
+
+
+Explanation:
+ব্যাখ্যা: দেওয়া আছে [math]a - \frac{1}{a} = 4[/math]; বর্গ করলে [math](a - \frac{1}{a})^2 = a^2 + \frac{1}{a^2} - 2[/math] পাওয়া যায়। তাই [math]a^2 + \frac{1}{a^2} = 4^2 + 2 = 18[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 487413)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]y + \frac{1}{2y} = 6[/math] হলে, [math]y^2 + \frac{1}{4y^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]y + \frac{1}{2y} = 6[/math]
+ [math]\left(y + \frac{1}{2y}\right)^2 = 6^2 = 36[/math]
+ [math]y^2 + 2 \cdot y \cdot \frac{1}{2y} + \left(\frac{1}{2y}\right)^2 = 36[/math]
+ [math]y^2 + 1 + \frac{1}{4y^2} = 36[/math]
+ [math]y^2 + \frac{1}{4y^2} = 36 - 1 = 35[/math]
+
+
+Explanation:
+সমাধান: দুইপাশকে বর্গ করলে [math](y+\frac{1}{2y})^2 = y^2+\frac{1}{4y^2}+2\cdot y\cdot\frac{1}{2y}[/math] হয়, এবং [math]2\cdot y\cdot\frac{1}{2y}=1[/math]. অতএব [math]y^2+\frac{1}{4y^2}=6^2-1=35[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 487414)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 15[/math] এবং [math]a^2 + b^2 = 113[/math] হলে, [math]ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 15[/math]
+, [math]a^2 + b^2 = 113[/math]
+ [math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]113 = (15)^2 - 2ab[/math]
+ [math]113 = 225 - 2ab[/math]
+ [math]2ab = 225 - 113 = 112[/math]
+ [math]\therefore ab = \frac{112}{2} = 56[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](a+b)^2 = a^2 + 2ab + b^2[/math], তাই [math]15^2 = 113 + 2ab[/math]. সেখান থেকে [math]2ab = 225 - 113 = 112[/math] এবং ফলে [math]ab = 56[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 487415)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](a - 2b + 3z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a - 2b + 3z)^2 = (a)^2 + (-2b)^2 + (3z)^2 + 2a(-2b) + 2a(3z) + 2(-2b)(3z)[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+
+
+Explanation:
+ব্যাখ্যা: ত্রিপদীয়ের বর্গের সূত্র [math](x+y+z)^2 = x^2+y^2+z^2+2xy+2xz+2yz[/math] প্রয়োগ করলে,  
+[math](a-2b+3z)^2 = a^2+(-2b)^2+(3z)^2+2a(-2b)+2a(3z)+2(-2b)(3z) = a^2+4b^2+9z^2-4ab+6az-12bz[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 487416)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]36(x + 4)^2 + 4(3x - 5)^2 - 24(x + 4)(3x - 5)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= 36(x + 4)^2 + 4(3x - 5)^2 - 2 \cdot 6(x + 4) \cdot 2(3x - 5)[/math]
+ [math]= [6(x + 4) - 2(3x - 5)]^2[/math]
+ [math]= (6x + 24 - 6x + 10)^2[/math]
+ [math]= (34)^2 = 1156[/math]
+
+
+Explanation:
+ব্যাখ্যা: এটি একটি সম্পূর্ণ বর্গ কারণ [math]36(x+4)^2+4(3x-5)^2-24(x+4)(3x-5)=(6(x+4)-2(3x-5))^2[/math]. ভিতরের অংশটি [math]6(x+4)-2(3x-5)=34[/math] হওয়ায় মানটি [math]34^2=1156[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 487417)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]9a^2 + (3a + 1)^2 - 6a(3a + 1)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= (3a)^2 + (3a + 1)^2 - 2 \cdot 3a(3a + 1)[/math]
+ [math]= [3a - (3a + 1)]^2[/math]
+ [math]= (-1)^2 = 1[/math]
+
+
+Explanation:
+ব্যাখ্যা: এখানে [math]x=3a[/math] এবং [math]y=3a+1[/math] ধরলে [math]x^2+y^2-2xy=(x-y)^2[/math] হয়। তাই [math]9a^2+(3a+1)^2-6a(3a+1)=(3a)^2+(3a+1)^2-2(3a)(3a+1)=[(3a)-(3a+1)]^2=(-1)^2=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 487418)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](x + 2y - 4z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + 2y - 4z)^2[/math]
+ [math]= x^2 + (2y)^2 + (-4z)^2 + 2 \cdot x \cdot 2y + 2 \cdot x \cdot (-4z) + 2 \cdot 2y \cdot (-4z)[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি ত্রিপদীয়ের বর্গের সূত্র [math](a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2ac + 2bc[/math] প্রয়োগ করলে এখানে [math]a=x,\; b=2y,\; c=-4z[/math] ধরা যায়। তাই [math](x+2y-4z)^2 = x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 487419)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](2m - 3n + p)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2m - 3n + p)^2[/math]
+ [math]= (2m)^2 + (-3n)^2 + (p)^2 + 2 \cdot 2m \cdot (-3n) + 2 \cdot 2m \cdot p + 2 \cdot (-3n) \cdot p[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+
+
+Explanation:
+ব্যাখ্যা: বর্গ করার সূত্র [math](a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc[/math] প্রয়োগ করলে, এখানে [math]a=2m,\; b=-3n,\; c=p[/math]. তাই [math](2m-3n+p)^2=4m^2+9n^2+p^2-12mn+4mp-6np[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 487420)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = x[/math], [math]a - b = x - 3[/math] এবং [math]ab = \frac{45}{4}[/math] হলে, [math]x[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4ab = (a + b)^2 - (a - b)^2[/math]
+ [math]4 \cdot \frac{45}{4} = x^2 - (x - 3)^2[/math]
+ [math]45 = x^2 - (x^2 - 6x + 9)[/math]
+ [math]45 = x^2 - x^2 + 6x - 9 = 6x - 9[/math]
+ [math]6x = 45 + 9 = 54[/math]
+ [math]x = \frac{54}{6} = 9[/math]
+
+
+Explanation:
+যুগ করলে [math]2a=2x-3[/math] থেকে [math]a=x-\frac{3}{2}[/math] এবং বিয়োগ করলে [math]2b=3[/math] থেকে [math]b=\frac{3}{2}[/math] পাওয়া যায়। এখন [math](x-\frac{3}{2})\cdot\frac{3}{2}=\frac{45}{4}[/math] বসিয়ে সমাধান করলে [math]6x-9=45[/math] হয় এবং ফলে [math]x=9[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 487421)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]m^2(m + 1) = 15[/math], [math]m^2(m - 1) = 9[/math] হলে, [math]m^5[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m^2(m + 1) = 15[/math]
+ [math]m^2(m - 1) = 9[/math]
+ [math](m^2(m + 1))^2 - (m^2(m - 1))^2 = 15^2 - 9^2[/math]
+ [math](m^3 + m^2)^2 - (m^3 - m^2)^2 = 225 - 81 = 144[/math]
+ [math]4m^3m^2 = 144[/math]
+ [math]4m^5 = 144[/math]
+ [math]m^5 = \frac{144}{4} = 36[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুটি সমীকরণ যোগ করলে [math]m^2(m+1)+m^2(m-1)=15+9[/math], অর্থাৎ [math]2m^3=24[/math] হলে [math]m^3=12[/math]। বিয়োগ করলে [math]m^2(m+1)-m^2(m-1)=15-9[/math], অর্থাৎ [math]2m^2=6[/math] হলে [math]m^2=3[/math]। তাই [math]m^5=m^3\cdot m^2=12\cdot 3=36[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 487422)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{9}{x} = 6[/math] হলে, [math]\frac{1}{x}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{9}{x} = 6[/math]
+ [math]x^2 + 9 = 6x[/math]
+ [math]x^2 - 6x + 9 = 0[/math]
+ [math](x - 3)^2 = 0[/math]
+ [math]x = 3[/math]
+ [math]\frac{1}{x} = \frac{1}{3}[/math]
+
+
+Explanation:
+x-এর দুপাশে [math]x[/math] গুণ করলে পাই [math]x^2+9=6x[/math], অর্থাৎ [math]x^2-6x+9=0\Rightarrow(x-3)^2=0[/math] তাই [math]x=3[/math]. অতএব [math]\frac{1}{x}=\frac{1}{3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 487423)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]p + q = 12[/math] এবং [math]p - q = 8[/math] হলে, [math]2p^2 + 2q^2[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2p^2 + 2q^2 = 2(p^2 + q^2) = (p + q)^2 + (p - q)^2[/math]
+ [math]= (12)^2 + (8)^2 = 144 + 64 = 208[/math]
+
+
+Explanation:
+সমাধান: দুইটি সমীকরণ যোগ করলে [math]2p=20[/math] থেকে [math]p=10[/math] এবং তা থেকে [math]q=2[/math]. তাই [math]2p^2+2q^2=2(10^2)+2(2^2)=2(100)+2(4)=208[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 487424)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 6[/math] এবং [math]a - b = 4[/math] হলে, [math]3ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 6[/math]
+, [math]a - b = 4[/math]
+ [math]3ab = 4ab \times \frac{3}{4} = \left((a + b)^2 - (a - b)^2\right) \times \frac{3}{4}[/math]
+ [math]= ((6)^2 - (4)^2) \times \frac{3}{4}[/math]
+ [math]= (36 - 16) \times \frac{3}{4} = 20 \times \frac{3}{4} = 15[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমীকরণগুলো যোগ করলে [math]2a=10\Rightarrow a=5[/math] পাওয়া যায়, এরপর [math]b=6-a=1[/math]. তাই [math]3ab=3\times5\times1=15[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 487425)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 4[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = 4^2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} + 2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 16 - 2 = 14[/math]
+
+
+Explanation:
+সমাধান: দুই পাশে বর্গ করলে [math](x+\frac{1}{x})^2 = x^2 + 2 + \frac{1}{x^2} = 16[/math] হয়। তাই [math]x^2 + \frac{1}{x^2} = 16 - 2 = 14[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 487426)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 5[/math], [math]ab = 6[/math] হলে, [math]a^3 + b^3[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^3 + b^3 = (a + b)^3 - 3ab(a + b)[/math]
+ [math]= 5^3 - 3 \cdot 6 \cdot 5 = 125 - 90 = 35[/math]
+
+
+Explanation:
+ব্যাখ্যা: সূত্র অনুযায়ী [math]a^3+b^3=(a+b)^3-3ab(a+b)[/math]. এখানে [math](a+b)^3=5^3=125[/math] এবং [math]3ab(a+b)=3\times6\times5=90[/math], তাই [math]a^3+b^3=125-90=35[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 487427)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x - \frac{1}{x} = 3[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x - \frac{1}{x})^2 = 9[/math]
+ [math]x^2 + \frac{1}{x^2} - 2 = 9[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 9 + 2 = 11[/math]
+
+
+Explanation:
+[math](x-\frac{1}{x})^2 = x^2 + \frac{1}{x^2} - 2[/math] এবং বাম পাশে [math]=3^2=9[/math], অতএব [math]x^2 + \frac{1}{x^2} = 9+2 = 11[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 487428)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 10[/math], [math]ab = 21[/math] হলে, [math]a^2 + b^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]= 10^2 - 2 \cdot 21 = 100 - 42 = 58[/math]
+
+
+Explanation:
+ব্যাখ্যা: আমরা ব্যবহার করি [math]a^2+b^2=(a+b)^2-2ab[/math]; এখানে [math](a+b)^2=10^2=100[/math] এবং [math]2ab=2\times21=42[/math], তাই [math]a^2+b^2=100-42=58[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 487429)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + \frac{1}{x^2} = 10[/math] হলে, [math]x + \frac{1}{x}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = x^2 + \frac{1}{x^2} + 2[/math]
+ [math]= 10 + 2 = 12[/math]
+ [math]\Rightarrow x + \frac{1}{x} = \sqrt{12} = 2\sqrt{3}[/math]
+
+
+Explanation:
+ধরা যাক [math]t = x + \frac{1}{x}[/math]. তাহলে [math]t^2 = x^2 + 2 + \frac{1}{x^2} = 10 + 2 = 12[/math], ফলে [math]t = \pm\sqrt{12} = \pm 2\sqrt{3}[/math] (এখানে [math]x\neq0[/math]; সংকেতটি নির্ভর করে [math]x[/math]-এর লক্ষণের উপর)।
+
+Sub-Questions:
+
+================================================================================
+Question #83 (ID: 487430)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math] হলে, দেখাও যে [math]a = b[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math]
+ [math]\Rightarrow \frac{a^2 + b^2}{ab} = 2[/math]
+ [math]\Rightarrow a^2 + b^2 = 2ab[/math]
+ [math]\Rightarrow a^2 - 2ab + b^2 = 0[/math]
+ [math]\Rightarrow (a - b)^2 = 0[/math]
+ [math]\Rightarrow a - b = 0[/math]
+ [math]\therefore a = b[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রমাণ: [math]\frac{a}{b}+\frac{b}{a}=\frac{a^2+b^2}{ab}=2[/math] হওয়ায় [math]a^2+b^2=2ab[/math], যেটি থেকে [math]a^2-2ab+b^2=0\Rightarrow (a-b)^2=0[/math] হয়, ফলে [math]a=b[/math]. (এখানে ভাগ করার জন্য [math]a,b\neq0[/math] ধরতে হবে, কারণ ভাগ শূন্যে অযোগ্য।)
+
+Sub-Questions:
+
+================================================================================
+Question #84 (ID: 487431)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]4m x^2 + 25n y^2 = 20mnxy[/math] হলে, দেখাও যে [math]2mx - 5ny = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4m x^2 + 25n y^2 - 20mnxy = 0[/math]
+ [math]= (2mx)^2 - 2 \cdot 2mx \cdot 5ny + (5ny)^2 = 0[/math]
+ [math]= (2mx - 5ny)^2 = 0[/math]
+ [math]\therefore 2mx - 5ny = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #85 (ID: 487432)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2a^2 + 2b^2 = 30[/math], [math]ab = 6[/math] হলে, [math](a^2 - b^2)^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2a^2 + 2b^2 = 30[/math]
+ [math]\Rightarrow a^2 + b^2 = 15[/math]
+ [math](a^2 - b^2)^2 = (a^2 + b^2)^2 - 4a^2b^2[/math]
+ [math]= 15^2 - 4(6)^2 = 225 - 144 = 81[/math]
+
+
+Explanation:
+ব্যাখ্যা: আমরা জানি [math](a^2 - b^2)^2 = (a^2 + b^2)^2 - 4a^2b^2[/math]. এখানে [math]2a^2+2b^2=30\Rightarrow a^2+b^2=15[/math] এবং [math]ab=6\Rightarrow a^2b^2=36[/math], তাই [math](a^2 - b^2)^2 = 15^2 - 4\cdot36 = 225 - 144 = 81[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #86 (ID: 487433)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^{10} + \frac{1}{x^{20}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x^2 - 2x + 1 = 0 \Rightarrow (x - 1)^2 = 0[/math]
+ [math]\Rightarrow x = 1[/math]
+অতএব, [math]x^{10} + \frac{1}{x^{20}} = 1^{10} + \frac{1}{1^{20}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^{10} + \frac{1}{x^{20}} = 2[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]x+\frac{1}{x}=2\Rightarrow x^2-2x+1=0\Rightarrow (x-1)^2=0[/math], তাই [math]x=1[/math]. সুতরাং [math]x^{10}+\frac{1}{x^{20}}=1^{10}+\frac{1}{1^{20}}=1+1=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #87 (ID: 487434)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^5 + \frac{1}{x^{10}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x = 1[/math]
+অতএব, [math]x^5 + \frac{1}{x^{10}} = 1^5 + \frac{1}{1^{10}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^5 + \frac{1}{x^{10}} = 2[/math]
+
+
+Explanation:
+প্রদত্ত [math]x+\frac{1}{x}=2[/math] থেকে গুণ করলে পাই [math]x^2+1=2x\Rightarrow(x-1)^2=0[/math], তাই [math]x=1[/math] (এখানে [math]x\ne0[/math])। অতএব [math]x^5+\frac{1}{x^{10}}=1^5+\frac{1}{1^{10}}=1+1=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #88 (ID: 487383)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 4[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = 4^2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} + 2 = 16[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 16 - 2 = 14[/math]
+
+
+Explanation:
+দুই পাশ বর্গ করলে [math](x+\frac{1}{x})^2 = x^2 + 2 + \frac{1}{x^2} = 16[/math]. অতএব [math]x^2 + \frac{1}{x^2} = 16 - 2 = 14[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #89 (ID: 487384)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 5[/math], [math]ab = 6[/math] হলে, [math]a^3 + b^3[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^3 + b^3 = (a + b)^3 - 3ab(a + b)[/math]
+ [math]= 5^3 - 3 \cdot 6 \cdot 5 = 125 - 90 = 35[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমীকরণ ব্যবহার করে, [math]a^3+b^3=(a+b)^3-3ab(a+b)[/math]. এখানে [math]a+b=5,\,ab=6[/math] হলে [math]a^3+b^3=5^3-3\cdot6\cdot5=125-90=35[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #90 (ID: 487385)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x - \frac{1}{x} = 3[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x - \frac{1}{x})^2 = 9[/math]
+ [math]x^2 + \frac{1}{x^2} - 2 = 9[/math]
+ [math]\Rightarrow x^2 + \frac{1}{x^2} = 9 + 2 = 11[/math]
+
+
+Explanation:
+গণনা করে: [math](x-\frac{1}{x})^2=3^2=9[/math] এবং বর্গ বিস্তৃত করলে [math]x^2+\frac{1}{x^2}-2=9[/math] পাওয়া যায়, তাই [math]x^2+\frac{1}{x^2}=11[/math] (এখানে [math]x\neq0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #91 (ID: 487386)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 10[/math], [math]ab = 21[/math] হলে, [math]a^2 + b^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]= 10^2 - 2 \cdot 21 = 100 - 42 = 58[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমীকরণ থেকে [math]a^2+b^2=(a+b)^2-2ab[/math]. এখানে [math]a+b=10,\,ab=21[/math] তাই [math]a^2+b^2=10^2-2\times21=100-42=58[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #92 (ID: 487387)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + \frac{1}{x^2} = 10[/math] হলে, [math]x + \frac{1}{x}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + \frac{1}{x})^2 = x^2 + \frac{1}{x^2} + 2[/math]
+ [math]= 10 + 2 = 12[/math]
+ [math]\Rightarrow x + \frac{1}{x} = \sqrt{12} = 2\sqrt{3}[/math]
+
+
+Explanation:
+কারণ [math](x+\frac{1}{x})^2 = x^2 + \frac{1}{x^2} + 2 = 10 + 2 = 12[/math], তাই [math]x+\frac{1}{x} = \pm 2\sqrt{3}[/math]; চিহ্নটি নির্ভর করে x-এর মানের ওপর।
+
+Sub-Questions:
+
+================================================================================
+Question #93 (ID: 487388)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math] হলে, দেখাও যে [math]a = b[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\frac{a}{b} + \frac{b}{a} = 2[/math]
+ [math]\Rightarrow \frac{a^2 + b^2}{ab} = 2[/math]
+ [math]\Rightarrow a^2 + b^2 = 2ab[/math]
+ [math]\Rightarrow a^2 - 2ab + b^2 = 0[/math]
+ [math]\Rightarrow (a - b)^2 = 0[/math]
+ [math]\Rightarrow a - b = 0[/math]
+ [math]\therefore a = b[/math]
+ (প্রমাণিত)
+
+Explanation:
+যদি [math]a[/math] ও [math]b[/math] শূন্য না হন, তাহলে [math]\frac{a}{b}+\frac{b}{a}=\frac{a^2+b^2}{ab}=2[/math}, ফলে [math]a^2+b^2=2ab[/math], অর্থাৎ [math](a-b)^2=0[/math]. তাই [math]a=b[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #94 (ID: 487389)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]4m x^2 + 25n y^2 = 20mnxy[/math] হলে, দেখাও যে [math]2mx - 5ny = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4m x^2 + 25n y^2 - 20mnxy = 0[/math]
+ [math]= (2mx)^2 - 2 \cdot 2mx \cdot 5ny + (5ny)^2 = 0[/math]
+ [math]= (2mx - 5ny)^2 = 0[/math]
+ [math]\therefore 2mx - 5ny = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #95 (ID: 487390)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2a^2 + 2b^2 = 30[/math], [math]ab = 6[/math] হলে, [math](a^2 - b^2)^2[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2a^2 + 2b^2 = 30[/math]
+ [math]\Rightarrow a^2 + b^2 = 15[/math]
+ [math](a^2 - b^2)^2 = (a^2 + b^2)^2 - 4a^2b^2[/math]
+ [math]= 15^2 - 4(6)^2 = 225 - 144 = 81[/math]
+
+
+Explanation:
+ব্যাখ্যা: আমরা প্রথমে [math]a^2+b^2=15[/math] পাই কারণ [math]2a^2+2b^2=30[/math], এবং [math]ab=6[/math] দেওয়া আছে। পরিচিতি ব্যবহার করলে [math](a^2-b^2)^2=(a^2+b^2)^2-4a^2b^2[/math], তাই [math](a^2-b^2)^2=15^2-4\cdot6^2=225-144=81[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #96 (ID: 487391)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^{10} + \frac{1}{x^{20}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x^2 - 2x + 1 = 0 \Rightarrow (x - 1)^2 = 0[/math]
+ [math]\Rightarrow x = 1[/math]
+অতএব, [math]x^{10} + \frac{1}{x^{20}} = 1^{10} + \frac{1}{1^{20}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^{10} + \frac{1}{x^{20}} = 2[/math]
+
+
+Explanation:
+সমাধান: [math]x + \frac{1}{x} = 2 \implies x^2 + 1 = 2x \implies (x-1)^2 = 0[/math], তাই [math]x = 1[/math].  
+তাহলে [math]x^{10} + \frac{1}{x^{20}} = 1^{10} + \frac{1}{1^{20}} = 1 + 1 = 2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #97 (ID: 487392)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 2[/math] হলে, [math]x^5 + \frac{1}{x^{10}}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 2 \Rightarrow x = 1[/math]
+অতএব, [math]x^5 + \frac{1}{x^{10}} = 1^5 + \frac{1}{1^{10}} = 1 + 1 = 2[/math]
+সঠিক উত্তর: [math]x^5 + \frac{1}{x^{10}} = 2[/math]
+
+
+Explanation:
+[math]x+\frac{1}{x}=2\Rightarrow x^2-2x+1=0\Rightarrow (x-1)^2=0[/math] তাই [math]x=1[/math].  
+অতএব [math]x^5+\frac{1}{x^{10}}=1^5+\frac{1}{1^{10}}=1+1=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #98 (ID: 487364)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a^2 + 4b^2[/math] এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a^2 + 4b^2)^2[/math]
+ [math]= (a^2)^2 + 2 \cdot a^2 \cdot 4b^2 + (4b^2)^2[/math]
+ [math]= a^4 + 8a^2b^2 + 16b^4[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](x+y)^2=x^2+2xy+y^2[/math] সূত্রে [math]x=a^2,\; y=4b^2[/math] নিলে [math](a^2+4b^2)^2=a^4+2\cdot a^2\cdot4b^2+(4b^2)^2[/math]. ফলে সরল করলে [math]=a^4+8a^2b^2+16b^4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #99 (ID: 487365)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূত্রের সাহায্যে ২৭৫ এর বর্গ নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]275 = 200 + 75[/math]
+ [math](275)^2 = (200 + 75)^2[/math]
+ [math]= (200)^2 + 2 \cdot 200 \cdot 75 + (75)^2[/math]
+ [math]= 40000 + 30000 + 5625[/math]
+ [math]= 75625[/math]
+
+
+Explanation:
+ব্যাখ্যা: সূত্র [math](a+b)^2=a^2+2ab+b^2[/math] প্রয়োগ করে, [math]275=250+25[/math] ধরা হলে [math]275^2=250^2+2\cdot250\cdot25+25^2=62500+12500+625=75625[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #100 (ID: 487366)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]25a^4x^2 + 60a^2bx + 36b^2[/math]
+ [math]= (5a^2x)^2 + 2 \cdot 5a^2x \cdot 6b + (6b)^2[/math]
+ [math]= (5a^2x + 6b)^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রদত্ত প্রকাশটি [math]a^2x[/math] সম্পর্কে একটি পূর্ণবর্গ হিসেবে দেখা যায়, কারণ [math](5a^2x+6b)^2=25a^4x^2+2\cdot5a^2x\cdot6b+36b^2=25a^4x^2+60a^2bx+36b^2[/math]. তাই সরল রূপ হলো [math](5a^2x+6b)^2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #101 (ID: 487367)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3p + \frac{1}{2p} = ৭[/math] হলে, [math]9p^2 + \frac{1}{4p^2}[/math] এর মান নির্ণয় কর
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3p + \frac{1}{2p} = ৭[/math]
+ [math]9p^2 + \frac{1}{4p^2} = (3p)^2 + \left(\frac{1}{2p}\right)^2[/math]
+ [math]= \left(3p + \frac{1}{2p}\right)^2 - 2 \cdot 3p \cdot \frac{1}{2p}[/math]
+ [math]= 7^2 - 3 = 49 - 3 = 46[/math]
+
+
+Explanation:
+দেওয়া আছে [math]3p + \frac{1}{2p} = 7[/math]; উভয় পাশে বর্গ করলে পাই [math](3p + \frac{1}{2p})^2 = 9p^2 + \frac{1}{4p^2} + 2\cdot3p\cdot\frac{1}{2p}[/math]. বামাংশ [math]=7^2=49[/math] এবং ক্রস টার্ম [math]2\cdot3p\cdot\frac{1}{2p}=3[/math], তাই [math]9p^2 + \frac{1}{4p^2}=49-3=46[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #102 (ID: 487368)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + \frac{1}{2b} = ৩[/math] হলে, দেখাও যে, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + \frac{1}{2b} = ৩[/math]
+ [math]\left(a + \frac{1}{2b}\right)^2 = ৩^2 = ৯[/math]
+ [math]a^2 + 2a \cdot \frac{1}{2b} + \left(\frac{1}{2b}\right)^2 = ৯[/math]
+ [math]a^2 + \frac{a}{b} + \frac{1}{4b^2} = ৯[/math]
+উভয় পক্ষকে [math]4b^2[/math]
+ দ্বারা গুণ করি:[math]4a^2b^2 + 4ab + 1 = 36b^2[/math]
+অতএব, [math]4a^2b^2 - 36b^2 + 4ab + 1 = 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রথমে সমীকরণটি [math]2b[/math] দ্বারা গুণ করলে পাওয়া যায় [math]2ab+1=6b[/math]. উভয় পাশে বর্গ করলে [math]4a^2b^2=(6b-1)^2=36b^2-12b+1[/math] এবং সরিয়ে লিখলে [math]4a^2b^2-36b^2+12b-1=0[/math]. এখানে [math]2ab=6b-1[/math] হওয়ায় [math]12b-1=4ab+1[/math] এবং তা প্রতিস্থাপন করলে ফলভাবে [math]4a^2b^2-36b^2+4ab+1=0[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #103 (ID: 487369)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{1}{x} = 5[/math] হলে, [math]x^2 + \frac{1}{x^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{1}{x} = 5[/math]
+ [math]\left(x + \frac{1}{x}\right)^2 = 5^2 = 25[/math]
+ [math]x^2 + 2 + \frac{1}{x^2} = 25[/math]
+ [math]x^2 + \frac{1}{x^2} = 25 - 2 = 23[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমীকরণটি বর্গ করলে [math](x+\frac{1}{x})^2 = x^2 + 2 + \frac{1}{x^2}[/math], তাই [math]x^2 + \frac{1}{x^2} = (x+\frac{1}{x})^2 - 2[/math]. প্রদত্তে [math]x+\frac{1}{x}=5[/math] বসালে ফল হবে [math]5^2 - 2 = 25 - 2 = 23[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #104 (ID: 487370)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a - \frac{1}{a} = 4[/math] হলে, [math]a^2 + \frac{1}{a^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a - \frac{1}{a} = 4[/math]
+ [math]\left(a - \frac{1}{a}\right)^2 = 4^2 = 16[/math]
+ [math]a^2 - 2 + \frac{1}{a^2} = 16[/math]
+ [math]a^2 + \frac{1}{a^2} = 16 + 2 = 18[/math]
+
+
+Explanation:
+সমাধান: সমীকরণটি বর্গ করলে [math](a-\frac{1}{a})^2=16[/math]. বামপাশ প্রসারিত করলে [math]a^2+\frac{1}{a^2}-2=16[/math] হয়, তাই [math]a^2+\frac{1}{a^2}=18[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #105 (ID: 487371)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]y + \frac{1}{2y} = 6[/math] হলে, [math]y^2 + \frac{1}{4y^2}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]y + \frac{1}{2y} = 6[/math]
+ [math]\left(y + \frac{1}{2y}\right)^2 = 6^2 = 36[/math]
+ [math]y^2 + 2 \cdot y \cdot \frac{1}{2y} + \left(\frac{1}{2y}\right)^2 = 36[/math]
+ [math]y^2 + 1 + \frac{1}{4y^2} = 36[/math]
+ [math]y^2 + \frac{1}{4y^2} = 36 - 1 = 35[/math]
+
+
+Explanation:
+ব্যাখ্যা: উভয়পাশ বর্গ করলে [math](y+\frac{1}{2y})^2 = y^2 + 2\cdot y\cdot\frac{1}{2y} + \frac{1}{4y^2} = y^2 + 1 + \frac{1}{4y^2}[/math] পাওয়া যায়, এবং বামদিক [math]6[/math] হওয়ায় [math]y^2+\frac{1}{4y^2} = 6^2 - 1 = 35[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #106 (ID: 487372)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 15[/math] এবং [math]a^2 + b^2 = 113[/math] হলে, [math]ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 15[/math]
+, [math]a^2 + b^2 = 113[/math]
+ [math]a^2 + b^2 = (a + b)^2 - 2ab[/math]
+ [math]113 = (15)^2 - 2ab[/math]
+ [math]113 = 225 - 2ab[/math]
+ [math]2ab = 225 - 113 = 112[/math]
+ [math]\therefore ab = \frac{112}{2} = 56[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](a+b)^2=a^2+2ab+b^2[/math] ব্যবহার করে, [math]15^2=113+2ab[/math] হয়; তাই [math]225-113=2ab[/math]. ফলে [math]2ab=112[/math] এবং [math]ab=56[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #107 (ID: 487373)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](a - 2b + 3z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a - 2b + 3z)^2 = (a)^2 + (-2b)^2 + (3z)^2 + 2a(-2b) + 2a(3z) + 2(-2b)(3z)[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+ [math]= a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+
+
+Explanation:
+সমাধান: [math](a-2b+3z)^2 = a^2 + 4b^2 + 9z^2 - 4ab + 6az - 12bz[/math]
+
+ব্যাখ্যা: তিনটি পদরের বর্গের সূত্র [math](x+y+z)^2 = x^2+y^2+z^2+2xy+2xz+2yz[/math] প্রয়োগ করে যেখানে পদগুলো হল [math]a,\; -2b,\; 3z[/math], এবং গুণফলগুলো সরলীকরণ করলে উপরের ফল পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #108 (ID: 487374)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]36(x + 4)^2 + 4(3x - 5)^2 - 24(x + 4)(3x - 5)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= 36(x + 4)^2 + 4(3x - 5)^2 - 2 \cdot 6(x + 4) \cdot 2(3x - 5)[/math]
+ [math]= [6(x + 4) - 2(3x - 5)]^2[/math]
+ [math]= (6x + 24 - 6x + 10)^2[/math]
+ [math]= (34)^2 = 1156[/math]
+
+
+Explanation:
+এটি [math]a^2+b^2-2ab=(a-b)^2[/math] রূপে দেখা যায়, যেখানে [math]a=6(x+4),\; b=2(3x-5)[/math], তাই [math]36(x+4)^2+4(3x-5)^2-24(x+4)(3x-5)=(6(x+4)-2(3x-5))^2[/math]. ভিতরের সদস্যটি সরল করলে [math]6(x+4)-2(3x-5)=34[/math], তাই পুরোটি [math]34^2=1156[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #109 (ID: 487375)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math]9a^2 + (3a + 1)^2 - 6a(3a + 1)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= (3a)^2 + (3a + 1)^2 - 2 \cdot 3a(3a + 1)[/math]
+ [math]= [3a - (3a + 1)]^2[/math]
+ [math]= (-1)^2 = 1[/math]
+
+
+Explanation:
+এখানে দেখা যায় যে [math]9a^2=(3a)^2[/math], তাই অভিব্যক্তিটি লেখা যায় [math](3a)^2+(3a+1)^2-2(3a)(3a+1)[/math]. সাধারণ পরিচয় [math]x^2+y^2-2xy=(x-y)^2[/math] অনুযায়ী এটি [math](3a-(3a+1))^2=(-1)^2=1[/math] হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #110 (ID: 487376)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](x + 2y - 4z)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + 2y - 4z)^2[/math]
+ [math]= x^2 + (2y)^2 + (-4z)^2 + 2 \cdot x \cdot 2y + 2 \cdot x \cdot (-4z) + 2 \cdot 2y \cdot (-4z)[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+ [math]= x^2 + 4y^2 + 16z^2 + 4xy - 8xz - 16yz[/math]
+
+
+Explanation:
+বর্গ করার সূত্র হল [math](a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc[/math], তাই এখানে [math]a=x,\; b=2y,\; c=-4z[/math] ধরে বসালে ফল হয় [math]x^2+4y^2+16z^2+4xy-8xz-16yz[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #111 (ID: 487377)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](2m - 3n + p)[/math] এর বর্গ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2m - 3n + p)^2[/math]
+ [math]= (2m)^2 + (-3n)^2 + (p)^2 + 2 \cdot 2m \cdot (-3n) + 2 \cdot 2m \cdot p + 2 \cdot (-3n) \cdot p[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+ [math]= 4m^2 + 9n^2 + p^2 - 12mn + 4mp - 6np[/math]
+
+
+Explanation:
+ব্যাখ্যা: ত্রিপদীর বর্গের সূত্র [math](a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2ac + 2bc[/math] প্রয়োগ করে, যেখানে [math]a=2m,\; b=-3n,\; c=p[/math]। তাই [math](2m-3n+p)^2 = (2m)^2+(-3n)^2+p^2+2(2m)(-3n)+2(2m)p+2(-3n)p = 4m^2+9n^2+p^2-12mn+4mp-6np[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #112 (ID: 487378)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = x[/math], [math]a - b = x - 3[/math] এবং [math]ab = \frac{45}{4}[/math] হলে, [math]x[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4ab = (a + b)^2 - (a - b)^2[/math]
+ [math]4 \cdot \frac{45}{4} = x^2 - (x - 3)^2[/math]
+ [math]45 = x^2 - (x^2 - 6x + 9)[/math]
+ [math]45 = x^2 - x^2 + 6x - 9 = 6x - 9[/math]
+ [math]6x = 45 + 9 = 54[/math]
+ [math]x = \frac{54}{6} = 9[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুটি সমীকরণকে বিয়োগ করলে [math](a+b)-(a-b)=x-(x-3)\Rightarrow 2b=3[/math], তাই [math]b=\tfrac{3}{2}[/math]; সমীকরণ যোগ করলে [math]2a=2x-3[/math] তাই [math]a=x-\tfrac{3}{2}[/math]. এখন [math]ab=\tfrac{45}{4}[/math] এ মান বসালে [math]\tfrac{3}{2}\big(x-\tfrac{3}{2}\big)=\tfrac{45}{4}\Rightarrow 6x-9=45\Rightarrow x=9[/math]; যাচাই করলে [math]a=\tfrac{15}{2},\;ab=\tfrac{45}{4}[/math] সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #113 (ID: 487379)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]m^2(m + 1) = 15[/math], [math]m^2(m - 1) = 9[/math] হলে, [math]m^5[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m^2(m + 1) = 15[/math]
+ [math]m^2(m - 1) = 9[/math]
+ [math](m^2(m + 1))^2 - (m^2(m - 1))^2 = 15^2 - 9^2[/math]
+ [math](m^3 + m^2)^2 - (m^3 - m^2)^2 = 225 - 81 = 144[/math]
+ [math]4m^3m^2 = 144[/math]
+ [math]4m^5 = 144[/math]
+ [math]m^5 = \frac{144}{4} = 36[/math]
+
+
+Explanation:
+যোগ করলে [math]m^2(m+1)+m^2(m-1)=24[/math] থেকে [math]2m^3=24[/math] তাই [math]m^3=12[/math]. বিয়োগ করলে [math]m^2(m+1)-m^2(m-1)=6[/math] থেকে [math]2m^2=6[/math] তাই [math]m^2=3[/math]. ফলে [math]m^5=m^2\cdot m^3=3\cdot 12=36[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #114 (ID: 487380)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x + \frac{9}{x} = 6[/math] হলে, [math]\frac{1}{x}[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x + \frac{9}{x} = 6[/math]
+ [math]x^2 + 9 = 6x[/math]
+ [math]x^2 - 6x + 9 = 0[/math]
+ [math](x - 3)^2 = 0[/math]
+ [math]x = 3[/math]
+ [math]\frac{1}{x} = \frac{1}{3}[/math]
+
+
+Explanation:
+গুণ করে সাধারণ করলে: [math]x+\frac{9}{x}=6\Rightarrow x^2+9=6x\Rightarrow x^2-6x+9=0[/math]. সমাধান করলে [math](x-3)^2=0\Rightarrow x=3</math] তাই [math]\frac{1}{x}=\frac{1}{3}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #115 (ID: 487381)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]p + q = 12[/math] এবং [math]p - q = 8[/math] হলে, [math]2p^2 + 2q^2[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2p^2 + 2q^2 = 2(p^2 + q^2) = (p + q)^2 + (p - q)^2[/math]
+ [math]= (12)^2 + (8)^2 = 144 + 64 = 208[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math]p^2+q^2=\dfrac{(p+q)^2+(p-q)^2}{2}[/math], তাই [math]p^2+q^2=\dfrac{12^2+8^2}{2}=\dfrac{144+64}{2}=104[/math]. অতএব [math]2p^2+2q^2=2\times104=208[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #116 (ID: 487382)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 6[/math] এবং [math]a - b = 4[/math] হলে, [math]3ab[/math] এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b = 6[/math]
+, [math]a - b = 4[/math]
+ [math]3ab = 4ab \times \frac{3}{4} = \left((a + b)^2 - (a - b)^2\right) \times \frac{3}{4}[/math]
+ [math]= ((6)^2 - (4)^2) \times \frac{3}{4}[/math]
+ [math]= (36 - 16) \times \frac{3}{4} = 20 \times \frac{3}{4} = 15[/math]
+
+
+Explanation:
+দুইটি সমীকরণ যোগ করলে [math](a+b)+(a-b)=6+4[/math] অর্থাৎ [math]2a=10[/math], এখান থেকে [math]a=5[/math] পাওয়া যায়। এরপর [math]a+b=6[/math] এ [math]a=5[/math] বসালে [math]b=1[/math], ফলে [math]3ab=3\times5\times1=15[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #117 (ID: 182479)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রের মাধ্যমে গুণনীয়ক নির্ধারণের প্রক্রিয়া কী?
+
+Options:
+
+
+Correct Answer: বীজগণিতীয় সূত্র ব্যবহার করে গুণনীয়ক নির্ধারণের জন্য মৌলিক উৎপাদক বের করতে হয় এবং তাদের সর্বোচ্চ ঘাতের গুণফল হিসাব করতে হয়।
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় সূত্রগুলো বহুপদককে সরল গুণিতকে ভেঙে দেয়, ফলে সেই মৌলিক উৎপাদকগুলো স্পষ্টভাবে পাওয়া যায়। তারপর প্রতিটি উৎপাদককে তার সর্বোচ্চ ঘাত পর্যন্ত গণ্যে রেখে গুণ করলে মূল অভিব্যক্তিটির প্রয়োজনীয় গুণনীয়ক দাঁড় করানো যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #118 (ID: 182480)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+গ.সা.গু. ও ল.সা.গু. নির্ণয়ে সুবিধা কি এবং এর প্রয়োগে লাভ-ক্ষতির সমস্যা সমাধান কিভাবে হয়?
+
+Options:
+
+
+Correct Answer: গ.সা.গু. ও ল.সা.গু. নির্ণয়ে সমস্যার সহজ সমাধান পাওয়া যায়, যা অর্থনৈতিক বিশ্লেষণ ও হিসাব সঠিক করে।
+
+Solution:
+
+
+Explanation:
+গ.সা.গু. ও ল.সা.গু. নির্ণয়ে সংখ্যাগুলো সরলীকরণ করা, সর্ববৃহৎ সাধারণ বিভাজক বা লঘিষ্ট সাধারণ গুণক পাওয়া যায়, ফলে গণনাগুলো সহজ ও সঠিক হয়। লাভ-ক্ষতির সমস্যায় গ.সা.গু. দিয়ে সমান ভাগে কেটে এককভিত্তিক খরচ/লাভ বের করা সহজ হয় এবং ল.সা.গু. দিয়ে বিভিন্ন প্যাকেজ বা একককে সাধারণ এককে নিয়ে এসে মোট খরচ ও লাভ তুলনা করা যায়; এছাড়া [math]\gcd(a,b)\times\mathrm{lcm}(a,b)=a\times b[/math] সম্পর্কটি হিসাব দ্রুত করে।
+
+Sub-Questions:
+
+================================================================================
+Question #119 (ID: 176840)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রের সাহায্যে উৎপাদক বিশ্লেষণের প্রক্রিয়া কীভাবে সম্পন্ন হয়?
+
+Options:
+
+
+Correct Answer: গুণের বল্টনবিধির মাধ্যমে
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গুণের বল্টনবিধির সাহায্যে বহুপদীর বিস্তৃত রূপকে উল্টো পথে দেখে তাকে সাধারণ গুণকে (ফ্যাক্টরে) বিভক্ত করা হয়,つまり বিস্তারণের সূত্রগুলোর বিপরীত প্রয়োগ করা হয়। উদাহরণস্বরূপ [math]a^2-b^2=(a-b)(a+b)[/math], [math](a\pm b)^2=a^2\pm2ab+b^2[/math] এবং [math]a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2)[/math] সূত্রগুলো ব্যবহার করে উৎপাদক বিশ্লেষণ করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #120 (ID: 176841)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+গ.সা.গু. এবং ল.সা.গু. নির্ণয়ের মধ্যে কি পার্থক্য আছে?
+
+Options:
+
+
+Correct Answer: গ.সা.গু. বৃহত্তম সাধারণ গুণনীয়ক, ল.সা.গু. লঘিষ্ঠ সাধারণ গুণনীয়ক
+
+Solution:
+
+
+Explanation:
+গ.সা.গু. (বৃহত্তম সাধারণ গুণনীয়ক) হলো দুই বা ততোধিক সংখ্যার সর্ববৃহৎ এমন ধনাত্মক সংখ্যা যা সবগুলো সংখ্যাকে ভাগ করে। ল.সা.গু. (লঘিষ্ঠ সাধারণ গুণনীয়ক) হলো দুই বা ততোধিক সংখ্যার সবচেয়ে ছোট এমন ধনাত্মক সংখ্যা যা সবগুলো দ্বারা বিভাজ্য — উদাহরণ: [math]\gcd(12,18)=6,\ \mathrm{lcm}(12,18)=36[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #121 (ID: 176842)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলী ব্যবহার করে দুটি রাশির যোগফলের বর্গ নির্ণয়ের সময় কোন সূত্রটি প্রয়োগ করা হয়?
+
+Options:
+
+
+Correct Answer: (a+b)² = a² + 2ab + b²
+
+Solution:
+
+
+Explanation:
+চার্ট কারণ যোগের বর্গের সূত্রটি হলো [math](a+b)^2 = a^2 + 2ab + b^2[/math]. এটি বোঝা যায় যদি আমরা [math](a+b)^2=(a+b)(a+b)[/math] বিস্তৃত করি; গুণ করলে আসে [math]a^2+ab+ba+b^2= a^2+2ab+b^2[/math], যেখানে মাঝের দুইটি পদ মিলিয়ে [math]2ab[/math] হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #122 (ID: 176843)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় রাশির গুণনীয়ক ও গুণিতক সম্পর্কে কী ব্যাখ্যা করা যায়?
+
+Options:
+
+
+Correct Answer: গুণনীয়ক হলো রাশি ভাগফল, গুণিতক হলো রাশি গুণফল
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গুণনীয়ক হলো রাশি ভাগ করলে প্রাপ্ত ভাগফল, আর গুণিতক হলো রাশি গুণ করলে প্রাপ্ত গুণফল। উদাহরণস্বরূপ, [math]\frac{x^2+2x}{x}=x+2[/math] এখানে [math]x+2[/math] গুণনীয়ক এবং [math](x+1)(x-1)=x^2-1[/math] এখানে [math]x^2-1[/math] গুণিতক।
+
+Sub-Questions:
+
+================================================================================
+Question #123 (ID: 176844)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্র প্রয়োগ করে r¹ + r² + r³ রাশির গ.সা.গু. নির্ণয়ের পদ্ধতি কী?
+
+Options:
+
+
+Correct Answer: সাংখ্যিক সহগের গ.সা.গু. বের করা এবং মৌলিক উৎপাদক নির্ণয় করা
+
+Solution:
+
+
+Explanation:
+রাইজ: গ.সা.গু. নির্ণয়ের জন্য প্রথমে সাংখ্যিক সহগগুলোর সাধারণ ভাগফল বের করা এবং তারপর বহুপদীকে মৌলিক উৎপাদকগুলিতে ভাঙ্গতে হয়। উদাহরণস্বরূপ, [math]r + r^2 + r^3 = r(1 + r + r^2)[/math] — এখানে সাংখ্যিক গ.সা.গু. হলো সহগগুলোর গ.সা.গু. আর সাধারণ মৌলিক উৎপাদক হলো [math]r[/math] (এবং যদি [math]1+r+r^2[/math] ভাগ যায় তা-ও), এগুলোর গুণফলই শেষ গ.সা.গু. দেয়।
+
+Sub-Questions:
+
+================================================================================
+Question #124 (ID: 161333)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দুটি বীজগণিতীয় রাশি (x+y)² এবং (x-y)² এর গুণফলের মাধ্যমে গ.সা.গু. নির্ণয় করার প্রক্রিয়া কীভাবে সম্পন্ন হয়?
+
+Options:
+
+
+Correct Answer: উপরে উভয় রাশির গুণফল নির্ণয় করে গ.সা.গু. বের করতে হবে।
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: কারণ দুটি রাশির বর্গগুলোর গ.সা.গু হলো মূল রাশিগুলোর গ.সা.গুর বর্গ, অর্থাৎ [math]\gcd((x+y)^2,(x-y)^2)=\gcd(x+y,x-y)^2[/math]. এরপর [math]\gcd(x+y,x-y)[/math] সহজ করলে (যেমন [math]\gcd(x+y,x-y)=\gcd(x+y,2y)[/math]) সেই মানের বর্গই চূড়ান্ত উত্তর।
+
+Sub-Questions:
+
+================================================================================
+Question #125 (ID: 161332)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির মধ্যে গ.সা.গু. ও ল.সা.গু. নির্ণয়ের পদ্ধতি সম্পর্কে আলোচনা করুন।
+
+Options:
+
+
+Correct Answer: গ.সা.গু. হলো প্রদত্ত রাশিগুলোর সাধারণ গুণনীয়কগুলোর মধ্যে সর্বাধিক এবং ল.সা.গু. হলো সর্বনিম্ন।
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গ.সা.গু. হলো যে সংখ্যা দুটি (বা বেশি) রাশির সকল সাধারণ গুণনীয়কের মধ্যে সর্বাধিকটি এবং ল.সা.গু. হলো যে ধনাত্মক সংখ্যা উভয় রাশিকে বিভাজ্য করে এমন সাধারণ গুণনীয়কগুলোর মধ্যে সর্বনিম্নটি। সাধারণভাবে গ.সা.গু. নির্ণয়ের জন্য প্রতিটি রাশিকে মৌলগত গুণনীয়করণ করে সাধারণ মৌলগুলোর সর্বনিম্ন ঘাত নেয়া হয়, আর ল.সা.গু. এর জন্য সকল মৌলগুলোর সর্বোচ্চ ঘাত নেয়া হয় (অথবা সহজভাবে [math]\gcd(a,b)\times\operatorname{lcm}(a,b)=a\times b[/math] সূত্র ব্যবহার করা যায়)।
+
+Sub-Questions:
+
+================================================================================
+Question #126 (ID: 128892)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বৃহত্তর গুণনীয়ক (গ.সা.গু.) ও লঘিষ্ঠ সাধারণ গুণনীয়ক (ল.সা.গু.) নির্ণয়ের জন্য কোন পদ্ধতি ব্যবহার করা হয়?
+
+Options:
+
+
+Correct Answer: বীজগণিতীয় রাশির মৌলিক উৎপাদক বের করে এবং তাদের গুণফল নিয়ে গ.সা.গু. ও ল.সা.গু. নির্ণয় করা হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতি (কীভাবে করা হয়): প্রথমে সংখ্যাগুলো বা বীজগণিতীয় রাশিগুলোকে তাদের মৌলিক উৎপাদকগুলোতে ভাঙা হয় (প্রাইম ফ্যাক্টরাইজেশন বা অপরিবর্তনীয় রাশিতে বিভাজন)। পরবর্তীতে গ.সা.গু. ও ল.সা.গু. নির্ণয় করা হয় উৎপাদকগুলোর ঘাতের তুলনা করে:
+
+- গ.সা.গু. (GCD, বৃহত্তর গুণনীয়ক): প্রতিটি সাধারণ মৌলিক উৎপাদকের জন্য যেই সংখ্যাগুলোতে উপস্থিত আছে সেগুলোর মধ্যে সর্বনিম্ন ঘাত (minimum exponent) নেওয়া হয় এবং তাদের গুণফল নেয়া হয়।
+- ল.সা.গু. (LCM, লঘিষ্ঠ সাধারণ গুণনীয়ক): প্রতিটি প্রদত্ত সংখ্যার যেকোনো মৌলিক উৎপাদকের জন্য সর্বোচ্চ ঘাত (maximum exponent) নেওয়া হয় এবং তাদের গুণফল নেয়া হয়।
+
+কারণ: গ.সা.গু. হবে সেই সর্বোচ্চ সংখ্যাটি যা উভয় সংখ্যাকে ভাগ করে; তাই কেবল সাধারণ মৌলিক উৎপাদকগুলোই প্রযোজ্য এবং যেগুলো উভয়েই আছে তাদের সর্বনিম্ন ঘাতই নিশ্চিত করবে যে তা উভয় দ্বারা বিভাজ্য। ল.সা.গু. হবে দুই সংখ্যার এমন ছোটতম সংখ্যাটি যা উভয়কে বিভাজ্য করে; তাই সকল উৎপাদকদের অন্তর্ভুক্ত করে সর্বোচ্চ ঘাত নিতে হয়।
+
+প্রয়োগ (সংক্ষিপ্ত উদাহরণ): ধরা যাক সংখ্যাগুলো [math]48[/math] এবং [math]180[/math]।
+
+- ধাপে ধাপে ভাঙ্গা:
+  - [math]48=2^4\times 3^1[/math]
+  - [math]180=2^2\times 3^2\times 5^1[/math]
+
+- গ.সা.গু. নেওয়া হবে সাধারণ মৌলিক উৎপাদকগুলোর নিম্নতম ঘাত নিয়ে:
+  - [math]\gcd(48,180)=2^{\min(4,2)}\times 3^{\min(1,2)}=2^2\times 3=12[/math]
+
+- ল.সা.গু. নেওয়া হবে সব উৎপাদকের সর্বোচ্চ ঘাত নিয়ে:
+  - [math]\operatorname{lcm}(48,180)=2^{\max(4,2)}\times 3^{\max(1,2)}\times 5^{\max(0,1)}=2^4\times 3^2\times 5=720[/math]
+
+বীজগাণিতিক রাশির ক্ষেত্রেও একই নীতি প্রযোজ্য: রাশিগুলোকে অপরিবর্তনীয় গুণে ভেঙে, সাধারণ গুণফল গ.সা.গু. এবং সর্ববিস্তৃত গুণফল ল.সা.গু. হিসাবে নির্ণয় করা হয়।
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় রাশিগুলোকে মৌলিক গুণনীয়কে ভাঙলে প্রতিটি মৌলিক গুণনীয়ের ঘাত পাওয়া যায়; ধরুন [math]A=p_1^{a_1}p_2^{a_2}\dots[/math] ও [math]B=p_1^{b_1}p_2^{b_2}\dots[/math]. তখন গ.সা.গু. নির্ণয়ের জন্য প্রতিটি সাধারণ মৌলিক গুণনীয়ের সর্বনিম্ন ঘাত নেওয়া হয়, যেমন [math]\gcd(A,B)=\prod p_i^{\min(a_i,b_i)}[/math], এবং ল.সা.গু. নির্ণয়ের জন্য সর্বোচ্চ ঘাত নেওয়া হয়, যেমন [math]\mathrm{lcm}(A,B)=\prod p_i^{\max(a_i,b_i)}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #127 (ID: 128867)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলি ও তাদের প্রয়োগের মধ্যে সম্পর্ক কিরূপ?
+
+Options:
+
+
+Correct Answer: বীজগণিতীয় সূত্রাবলি বিভিন্ন অঙ্কের সমস্যার সমাধানে ব্যবহৃত হয় যেমন উৎপাদকের বিশ্লেষণ ও গুণনীয়ক নির্ণয় করতে।
+
+Solution:
+সমাধান:
+উত্তরধারণা — বীজগণিতীয় সূত্রাবলি (যেমন সম্প্রসারণ, মৌলিক পরিচিতি ও ভগ্নাংশ বিভাজন) হল সরল বা জটিল অঙ্ককে পরিচিত রূপে রূপান্তর করার নিয়ম। এগুলো ব্যবহারে সমস্যা দ্রুত সমাধানযোগ্য হয়: প্রকাশ বিস্তৃত করা, গুণনীয়ক নির্ণয় (factorization), সমীকরণ সমাধান এবং সাদৃশ্য ব্যবহার করে সরলীকরণ করা যায়।
+
+প্রয়োজনীয় ধারণা ও সূত্র (সংক্ষেপে)
+- বর্গের সূত্র: [math](a+b)^2=a^2+2ab+b^2[/math], [math](a-b)^2=a^2-2ab+b^2[/math]
+- ভিন্নের বর্গ: একই উপরে থাকা সূত্র ব্যবহার করে
+- যোগফল ও বিযোগফল গুণন: [math]a^2-b^2=(a-b)(a+b)[/math]
+- সাধারণ বীজগণিতীয় সূত্রপট ও গুণফল ব্যবহার করে বহুপদকে ভাণ্ডার খুঁজে বের করা (factorization)
+
+কার্যপদ্ধতি (ধাপসমূহ)
+1. সমস্যা বিশ্লেষণ করে লক্ষ্য নির্ধারণ করুন — কি করতে হবে: বিস্তৃত করা, গুণনীয়ক খোঁজা, সমীকরণ সমাধান ইত্যাদি।
+2. বহুপদকে পরিচিত সূত্রগুলোর নিদর্শন খুঁজুন (উদাহরণ: সমবর্গ, পার্থক্যবর্গ, সাধারণ গুণফল)।
+3. উপযুক্ত সূত্র প্রয়োগ করে বহুপদকে রূপান্তর করুন এবং প্রয়োজন হলে সাধারণ গুণনীয়ক বের করুন।
+4. রূপান্তরিত সরল রূপ থেকে সমীকরণ সমাধান বা গুণনীয়ক নির্ণয় সম্পন্ন করুন।
+
+সংক্ষিপ্ত উদাহরণ (প্রয়োগ প্রদর্শন করে)
+উদাহরণ 1 — গুণনীয়ক নির্ণয় ও সমীকরণ সমাধান:
+- সমীকরণ: [math]x^2+5x+6=0[/math]
+ধাপ 1: এই বহুপদকে এমন দুটি সংখ্যা খুঁজুন যাদের যোগফল 5 এবং গুণফল 6 → 2 এবং 3।
+ধাপ 2: গুণনীয়ক রূপ: [math]x^2+5x+6=(x+2)(x+3)[/math]
+ধাপ 3: শূন্য নীতিমালা প্রয়োগ করলে [math](x+2)(x+3)=0[/math] থেকে [math]x=-2[/math] বা [math]x=-3[/math]।
+
+উদাহরণ 2 — পরিচিত সূত্র প্রয়োগ:
+- প্রকাশ: [math]x^2-9[/math] → এটি ভিন্নের বর্গ হিসেবে শনাক্ত করা যায়: [math]x^2-9=(x-3)(x+3)[/math] (এখানে [math]9=3^2[/math])। ফলে গুণনীয়ক দ্রুত পাওয়া যায়।
+
+লজিক্যাল কারণসমূহ
+- সূত্রগুলোকে প্রয়োগ করলে অচেনা বহুপদকে পরিচিত বা সরল গুণফল/বর্গের রূপে বদলে আনা যায়, ফলে গুণনীয়ক নির্ণয় ও শূন্যস্থল নির্ণয় সহজ হয়।
+- একই ধাঁচে সমীকরণ সমাধান, পরিচিত রূপে পরিণত হলে মূলধারা পদ্ধতিতে দ্রুত ফল পাওয়া যায়।
+
+সংক্ষेपে: বীজগণিতীয় সূত্রাবলি হচ্ছে সমস্যাকে পরিচিত ও সরল রূপে আনার একটি কৌশল; এর মাধ্যমে বহুপদকে বিস্তৃত বা গুণনীয়ক করা, সমীকরণ সমাধান ও সরলীকরণ করা যায়।
+
+Explanation:
+বীজগণিতীয় সূত্রাবলি হলো স্থায়ী সূত্রগুলি যা প্রকাশগুলোকে বিস্তৃত বা গুণনীয়কে ভেঙে দেওয়ার উপায় দেয়, তাই এগুলো বিভিন্ন অঙ্কের সমস্যায় যেমন উত্পাদকের বিশ্লেষণ ও গুণনীয়ক নির্ণয়ে ব্যবহৃত হয়। উদাহরণস্বরূপ, [math](a+b)^2 = a^2 + 2ab + b^2[/math] সূত্র ব্যবহার করে কোনো বহুপদকে বিস্তৃতি বা উল্টোভাবে গুণনীয়কে চিহ্নিত করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #128 (ID: 128868)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলি থেকে গুণনীয়ক নির্ণয়ের প্রক্রিয়া কী?
+
+Options:
+
+
+Correct Answer: গুণনীয়ক নির্ণয়ের জন্য বীজগণিতীয় সূত্র প্রয়োগ করে মৌলিক উৎপাদক বের করতে হয় এবং তাদের গুণফল করতে হয়।
+
+Solution:
+সমাধান:
+
+উত্তর ধারণা ও পদ্ধতি:
+1. প্রথমে多বচনকে সাধারণভাবে নিয়ে আসুন (ঘাত কমানো, মানকরণ) এবং সাধারণ গুণক (common factor) আছে কি দেখুন।  
+2. সাধারণ গুণক নেই/শেষ হলে উপযুক্ত বীজগণিতীয় সূত্রগুলি প্রয়োগ করুন যেমন:  
+   - পার্থক্যের বর্গ: [math]a^2-b^2=(a-b)(a+b)[/math]  
+   - পরিপূর্ণ বর্গত্রিকোণ: [math]a^2\pm2ab+b^2=(a\pm b)^2[/math]  
+   - ঘনের যোগ-বিয়োগ: [math]a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2)[/math]  
+3. যদি বহুপদীটির ডিগ্রী 2 হয় (কোয়াড্রাটিক), তাহলে মধ্যকচরণ বিভাজন করে বা সূত্র/ডিসক্রিমিন্যান্ট ব্যবহার করে রৈখিক গুণনীয়কে বের করুন।  
+4. উচ্চতর ডিগ্রীর ক্ষেত্রে গ্রুপিং বা প্রতিস্থাপন (substitution) ব্যবহার করে ভগ্নাংশগুলোকে সহজ আকারে নিয়ে আসুন।  
+5. শেষভাবে বহুপদীর গুণফল করে যাচাই করুন (ফ্যাক্টরগুলোকে গুন করলে মূল বহুপদী পাওয়া যায় কি না)।
+
+প্রাসঙ্গিক সূত্র ও নীতিসমূহ:
+- সাধারণ গুণক বের করা: কোনো বহুপদীর প্রতিটি টার্মে общего গুণক থাকলে তা বাইরে ছোট করে নিন।  
+- সূত্র প্রয়োগের পূর্বে চিহ্ন ও ধনাত্মক/ইতিবাচক কারণ বিচার করুন।  
+- গ্রুপিং: টার্মগুলোকে এমনভাবে ভাগ করুন যাতে প্রতিটি গ্রুপে সাধারণ গুণক বের করা যায়।
+
+প্রয়োগকারী উদাহরণ (সংক্ষিপ্ত ও প্রাসঙ্গিক):
+
+উদাহরণ 1 (কোয়াড্রাটিক):
+বহুপদী: [math]x^2-5x+6[/math]  
+স্টেপ 1: এমন দুটি সংখ্যা খুঁজুন যেগুলো গুন করলে [math]6[/math] হবে এবং যোগ করলে [math]-5[/math] হবে → [math]-2[/math] ও [math]-3[/math].  
+স্টেপ 2: বিভাজন করে গুণনীয়ক লিখুন: [math]x^2-5x+6=(x-2)(x-3)[/math].  
+
+উদাহরণ 2 (পার্থক্যের বর্গ):
+বহুপদী: [math]9x^2-16[/math]  
+স্টেপ 1: এটি পার্থক্যের বর্গের রূপে দেখা যায় কারণ [math]9x^2=(3x)^2[/math] ও [math]16=4^2[/math].  
+স্টেপ 2: সূত্র প্রয়োগ: [math]9x^2-16=(3x-4)(3x+4)[/math].  
+
+উদাহরণ 3 (ঘনের যোগ — sum of cubes):
+বহুপদী: [math]x^3+8[/math]  
+স্টেপ 1: লিখুন [math]8=2^3[/math], তাই এটি [math]x^3+2^3[/math]।  
+স্টেপ 2: সূত্র প্রয়োগ: [math]x^3+8=(x+2)(x^2-2x+4)[/math]।  
+
+চূড়ান্ত নির্দেশ:
+- শুরুতে সাধারণ গুণক দেখুন; না পেলে উপরের সূত্রগুলোর মধ্যে যা মানায় তা প্রয়োগ করুন।  
+- উচ্চতর ডিগ্রীর ক্ষেত্রে গ্রুপিং বা প্রতিস্থাপন ব্যবহার করুন এবং সবসময় গুণফল করে যাচাই করুন।  
+
+এভাবেই বীজগণিতীয় সূত্রাবলি প্রয়োগ করে মৌলিক উৎপাদক শনাক্ত করে তাদের গুণফল করে গুণনীয়ক নির্ণয় করা হয়।
+
+Explanation:
+কারণ বীজগণিতীয় সূত্রাবলি যেমন পার্থক্যের বর্গ, সমবর্গ ত্রিনোমিয়াল বা ঘনফলের যোগ/বিয়োগ একটি জটিল বহুপদীকে সহজ মৌলিক উৎপাদকগুলোর গুণফলে ভাঙার সরাসরি নিয়ম দেয়। প্রক্রিয়াটি হল উপযুক্ত সূত্রটি চিহ্নিত করে বহুপদীটিকে সেই সূত্র অনুযায়ী পুনঃলিখন করা এবং তারপর প্রতিটি উৎপাদক আলাদা করে তাদের গুণফল নির্ণয় করা।
+
+Sub-Questions:
+
+================================================================================
+Question #129 (ID: 128858)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলি ব্যবহার করে কোনো সংখ্যা বর্গ নির্ণয় করার প্রক্রিয়া কী?
+
+Options:
+
+
+Correct Answer: বীজগণিতীয় সূত্রাবলির মাধ্যমে একটি সংখ্যা গুণফলের বর্গ নির্ণয় করতে প্রতিটি রাশির বর্গ এবং তাদের গুণফলের দুটি যোগফল বের করতে হয়।
+
+Solution:
+সমাধান:
+প্রক্রিয়া — কোনো সংখ্যার বর্গ সহজে নির্ণয় করতে সংখ্যা দুটি সুবিধাজনক অংশে ভাগ করে বাইনোমিয়াল সূত্র প্রয়োগ করা হয়। মূল সূত্রগুলো হল:
+[math](a+b)^2 = a^2 + 2ab + b^2[/math]
+[math](a-b)^2 = a^2 - 2ab + b^2[/math]
+
+ধাপগুলো:
+1. সংখ্যাটি এমনভাবে লিখুন যে দুটি অংশ [math]a[/math] এবং [math]b[/math] সুবিধাজনক হয় (যেমন ঘন সংখ্যা, দশের পূর্ণগুণ ইত্যাদি)।  
+2. [math]a^2[/math], [math]b^2[/math] এবং [math]2ab[/math] (অথবা [math]-2ab[/math] যদি পার্থক্য ব্যবহার করে থাকেন) হিসাব করুন।  
+3. সূত্র অনুযায়ী যোগ করলে চূড়ান্ত বর্গ পাওয়া যাবে।
+
+উদাহরণ 1:
+[math]47^2[/math] দ্রুত বের করতে লিখুন [math]47 = 50-3[/math] এবং [math](50-3)^2 = 50^2 - 2×50×3 + 3^2[/math]. ফলে
+[math]47^2 = 2500 - 300 + 9 = 2209[/math].
+
+উদাহরণ 2:
+[math]14^2[/math] লিখুন [math]14 = 10+4[/math] এবং
+[math](10+4)^2 = 10^2 + 2×10×4 + 4^2 = 100 + 80 + 16 = 196[/math].
+
+টুকু নোট: যদি বর্গ নিতে হয় গুণফলের উপর (যেমন [math](ab)^2[/math]) তাহলে সহজেই পাওয়া যায় [math](ab)^2 = a^2 b^2[/math]। 
+
+সংক্ষেপে — সংখ্যা দুটি অংশে ভাগ করে বাইনোমিয়াল সূত্র প্রয়োগ করলে প্রতিটি অংশের বর্গ এবং তাদের দুগুণ গুণফল যোগ/বিয়োগ করে দ্রুত বর্গ নির্ণয় করা যায়।
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় সূত্র অনুযায়ী যোগফলের বর্গকে সম্প্রসারণ করলে প্রতিটি রাশির বর্গ এবং তাদের দ্বিগুণ গুণফল পান, অর্থাৎ [math](a+b)^2 = a^2 + 2ab + b^2[/math]. তাই কোনো সংখ্যার বর্গ নির্ণয় করতে প্রথমে প্রতিটি অংশের বর্গ বের করে ও তাদের দ্বিগুণ গুণফল যোগ করলে পুরো বর্গ পাওয়া যায় (বিয়োগের ক্ষেত্রে [math](a-b)^2 = a^2 - 2ab + b^2[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #130 (ID: 128859)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+গণিতের যুক্তিতে গুণফলের বন্টনবিদি কি এবং এটি কিভাবে কাজ করে?
+
+Options:
+
+
+Correct Answer: গুণফলের বন্টনবিদি হলো একাধিক সংখ্যা গুণ করার সময় প্রতিটি সংখ্যা অপর সংখ্যার সঙ্গে যুক্ত করার প্রক্রিয়া।
+
+Solution:
+সমাধান:
+
+গুণফলের বন্টনবিদি (distributive property) বলতে বোঝায় যে গুণনীয়কটি যোগ বা বিয়োগের প্রত্যেক যোগফল/বিয়োগফলের প্রতিটি অংশের সঙ্গে পৃথকভাবে গুণ হলে মোটফল একই থাকে। সাধারণভাবে এটি লেখাও হয়:
+
+[math]a(b+c)=ab+ac[/math]
+
+এবং বিয়োগের ক্ষেত্রে:
+
+[math]a(b-c)=ab-ac[/math]
+
+পদ্ধতি ও যুক্তি:
+1. ধারণাগত ব্যাখ্যা: [math]b+c[/math] মানে [math]b[/math] এবং [math]c[/math] দুইটি আলাদা পরিমাণের যোগফল। যদি আমরা ওই যোগফলকে [math]a[/math] দ্বারা গুণ করি, তা হল [math]a[/math] বার [math]b+c[/math] নেয়া — অর্থাৎ [math]a[/math] বার [math]b[/math] এবং [math]a[/math] বার [math]c[/math] যোগ করা। তাই মোট ফল হবে [math]ab+ac[/math]।
+2. এলজেব্রিক দেখানো: ধরুন [math]S=b+c[/math]। তাহলে [math]aS=a(b+c)[/math] কিন্তু [math]S=b+c[/math] হওয়ায় [math]aS=ab+ac[/math] — ফলে বন্টনবিদি প্রমাণিত।
+3. ভিজ্যুয়াল মডেল (এলাকা): একটি আয়তক্ষেত্রের পাশে [math]a[/math] এবং অন্য পাশে [math]b+c[/math] ধরা হলে তাকে দুইটি আয়তক্ষেত্রে ভাগ করলে মোট ক্ষেত্রফল হবে [math]a×b + a×c[/math], যা [math]a(b+c)[/math] এর সমান।
+
+উদাহরণ (সংক্ষিপ্ত ও প্রাসঙ্গিক):
+[math]3(4+5)=3×9=27[/math] এবং বামেরা বন্টন করলে [math]3×4 + 3×5=12+15=27[/math] — একই ফল দেয়।
+
+অতিরিক্ত টুকরা: বাস্তব সংখ্যায় বাম ও ডান উভয় দিকে বন্টন সত্য; অর্থাৎ [math](b+c)a=ba+ca[/math]। বন্টনবিদি গাণিতিক সরলীকরণ, বিস্তারণ ও অনুবর্তীকরণে (factoring) ব্যবহৃত একটি মৌলিক নিয়ম।
+
+Explanation:
+ব্যাখ্যা: গুণফলের বন্টনবিদি বলতে বোঝায় যে একজন সংখ্যাকে যোগের প্রতিটি অংশে গুণ করা যায়, যেমন [math]a(b+c)=ab+ac[/math], তাই মূল বাক্যটি সঠিক। এই নিয়মটি যোগ এবং গুণ মিলে কিভাবে কাজ করে তা বুঝতে সহজ করে এবং জটিল বহুপদকে সহজভাবে বিশ্লেষণ করতে সাহায্য করে।
+
+Sub-Questions:
+
+================================================================================
+Question #131 (ID: 128860)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+সাধারণ গুণনীয়ক (গ.সা.গু.) নির্ণয় করার পদ্ধতি কি?
+
+Options:
+
+
+Correct Answer: গণনীয়কগুলোর মৌলিক উৎপাদক বের করে এবং তাদের উচ্চতর ঘাত নির্ধারণ করে সাধারণ গুণনীয়ক হিসাব করা হয়।
+
+Solution:
+সমাধান:
+
+বোঝা: সাধারণ গুণনীয়ক (গ.সা.গু.) হলো সেই ক্ষুদ্রতম ধনাত্মক পূর্ণসংখ্যা যাকে দেওয়া সংখ্যাগুলো সম্পূর্ণ বিভাজ্য করে।
+
+প্রক্রিয়া (পদক্ষেপভিত্তিক):
+1. প্রতিটি সংখ্যার মৌলিক গুণনীয়ক (prime factors) নির্ণয় করো। উদাহরণস্বরূপ, প্রতিটি সংখ্যাকে [math]p^e[/math] আকারে লিখো যেখানে [math]p[/math] হল মৌলিক সংখ্যা এবং [math]e[/math] হল তার ঘাত।
+2. প্রতিটি ভিন্ন মৌলিক সংখ্যার জন্য সব সংখ্যাগুলোর মধ্যে সর্বোচ্চ ঘাত নির্ণয় করো (অর্থাৎ যে সংখ্যার জন্য সর্বোচ্চ [math]e[/math] পাওয়া যায় সেটাই নাও)।
+3. সেগুলোকে গুণ করো; অর্থাৎ গ.সা.গু. হবে সব মৌলিক সংখ্যার সর্বোচ্চ ঘাতের গুণফল। ফর্মুলা হিসেবে: LCM of numbers = product of [math]p^{\max e}[/math] over সব মৌলিক [math]p[/math]।
+
+যুক্তি: যেহেতু প্রতিটি সংখ্যার প্রতিটি মৌলিক গুণনীয়ক সর্বোচ্চ প্রয়োজনীয় ঘাত অন্তর্ভুক্ত আছে, গুণফলটি সবগুলোর দ্বারা বিভাজ্য হবে; এবং একটি ছোটতর সংখ্যায় যদি কোনো মৌলিক গুণনীয়কের ঘাত কমানো হয় তাহলে কিছু সংখ্যার দ্বারা বিভাজ্যতা নষ্ট হবে—অতএব এটি ক্ষুদ্রতম।
+
+বিকল্প (দ্বিনির্ভর) সূত্র (দুটি সংখ্যার জন্য):
+দুটি সংখ্যা [math]a[/math] এবং [math]b[/math] হলে
+[math]\mathrm{lcm}(a,b)=\dfrac{|a\,b|}{\gcd(a,b)}[/math]
+এটি গ.সা.গু. নির্ণয়ের আরেক সরল উপায়।
+
+উদাহরণ (সংক্ষিপ্ত, মূল্যবোধপূর্ণ):
+নির্ণয় করো গ.সা.গু.([math]12,18[/math])।
+- [math]12=2^2\cdot 3^1, \quad 18=2^1\cdot 3^2[/math]
+- সর্বোচ্চ ঘাতগুলো: [math]2^{\max(2,1)}=2^2,\quad 3^{\max(1,2)}=3^2[/math]
+- ফলে [math]\mathrm{lcm}=2^2\cdot 3^2=4\cdot 9=36[/math]
+
+অথবা গ.সা.গু. সূত্র দিয়ে: [math]\gcd(12,18)=6[/math], তাই [math]\mathrm{lcm}=\dfrac{12\cdot 18}{6}=36[/math]।
+
+টিপস:
+- তিন বা তত্‌ধিক সংখ্যার জন্য একই নিয়ম প্রয়োগ করো—প্রতিটি মৌলিকের সর্বোচ্চ ঘাত।
+- শূন্য থাকলে যতটা প্রয়োগযোগ্য—শূন্যের জন্য LCM সাধারণত ব্যাখ্যাযোগ্য নয়; সাধারনত ধনাত্মক পূর্ণসংখ্যাগুলোর ক্ষেত্রে নিচের পদ্ধতি প্রযোজ্য।
+
+Explanation:
+ব্যাখ্যা: গ.সা.গু. নির্ণয়ের পদ্ধতি হল প্রতিটি সংখ্যাকে মৌলিক গুণনীয়কে ভেঙে প্রতিটি মৌলিক গুণনীয়কের সর্বোচ্চ ঘাত নেওয়া এবং সেগুলোকে গুণ করা। উদাহরণ: [math]12 = 2^2 \times 3,\; 18 = 2 \times 3^2 \Rightarrow \text{গ.সা.গু.} = 2^2 \times 3^2 = 36[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #132 (ID: 102836)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির সাহায্যে গুণনীয়ক ও গুণিতকের মধ্যে সম্পর্ক কেমন এবং কিভাবে গ.সা.গু ও ল.সা.গু নির্ণয় করা যায়?
+
+Options:
+
+
+Correct Answer: বীজগণিতীয় সূত্রাবলি ব্যবহার করে গুণনীয়ক ও গুণিতক নির্ণয় করা যায়, যা গ.সা.গু ও ল.সা.গু নির্ণয়ের জন্য গুরুত্বপূর্ণ।
+
+Solution:
+সমাধান:
+
+উত্তর-দিশা (Approach): গুণনীয়ক (factor) ও গুণিতক (multiple) — সংখ্যাতাত্ত্বিক এবং বহুপদী উভয় ক্ষেত্রেই বীজগণিতীয় সূত্রাবলি ব্যবহার করে সম্পর্ক বোঝা যায়। মূল নীতি হলো উপাদানগুলোর গুণনীয় রচনাকে বিশ্লেষণ করে সাধারণ ও পৃথক অংশগুলো নির্ণয় করা — যেগুলো থেকে গ.সা.গু (GCD) এবং ল.সা.গু (LCM) পাওয়া যায়। এছাড়া ইউক্লিডীয় অ্যালগরিদম সংখ্যাতত্ত্ব ও বহুপদীর জন্য কার্যকর পদ্ধতি।
+
+প্রধান ধারণা ও সূত্রাবলি:
+- ফ্যাক্টর থিওরেম (বহুপদীর জন্য): যদি [math]f(a)=0[/math] হয় তবে [math](x-a)[/math] হলো [math]f(x)[/math]-এর গুণনীয়ক। সাধারন রূপে রুটসমূহ থাকলে,
+  [math]f(x)=a_n(x-r_1)(x-r_2)\cdots(x-r_n)[/math]।
+- পূর্ণসংখ্যার জন্য প্রাইম ফ্যাক্টরাইজেশন: প্রতিটি সংখ্যাকে মৌলিক গুণনীয়কে গুণ করে লেখা যায়, উদাহরণ: [math]N=\prod p_i^{\alpha_i}[/math]।
+- গ.সা.গু (GCD): সাধারণ গুণনীয়গুলোর ন্যূনতম (minimum) ঘাত আমরা নেব। যদি
+  [math]A=\prod p_i^{\alpha_i},\quad B=\prod p_i^{\beta_i}[/math] তবে
+  [math]\gcd(A,B)=\prod p_i^{\min(\alpha_i,\beta_i)}[/math]।
+- ল.সা.গু (LCM): সাধারণ গুণনীয়গুলোর সর্বাধিক (maximum) ঘাত আমরা নেব:
+  [math]\operatorname{lcm}(A,B)=\prod p_i^{\max(\alpha_i,\beta_i)}[/math]।
+- বহুপদীর ক্ষেত্রে একই নীতি প্রযোজ্য যদি বহুপদীগুলোকে তাদের অপরিবর্তনীয় (irreducible) গুণনীয়কে ভাগ করা যায়; ঘাত-নীতিই গ.সা.গু ও ল.সা.গু নির্ধারণ করে।
+- ইউক্লিডীয় অ্যালগরিদম: অভ্যন্তরীণ বিভাজনের মাধ্যমেই দ্রুত গ.সা.গু পাওয়া যায়—এই পদ্ধতি সংখ্যার পাশাপাশি বহুপদীর ক্ষেত্রেও প্রযোজ্য (বহুপদী বিভাগ ব্যবহার করে)।
+
+কাজের ধাপ (সংক্ষিপ্ত কৌশল):
+1. সংখ্যার জন্য: প্রত্যেক সংখ্যার প্রাইম ফ্যাক্টরাইজেশন করো; সাধারণ প্রাইমগুলোর জন্য min ঘাত নিয়ে গ.সা.গু এবং max ঘাত নিয়ে ল.সা.গু নির্ণয় করো।
+2. বহুপদীর জন্য: বহুপদীকে অপরিবর্তনীয় গুণনীয়ে факторাইজ করো (বা রুট ও তাদের উপজাতীয়তা বের করো); সাধারণ ফ্যাক্টরের min ঘাত গ.সা.গু, max ঘাত ল.সা.গু।
+3. বিকল্প পদ্ধতি: যখন ফ্যাক্টরাইজেশন কঠিন, ইউক্লিডীয় অ্যালগরিদম ব্যবহার করে গ.সা.গু খুঁজে নাও; তারপর ল.সা.গু পাওয়ার জন্য
+   [math]\operatorname{lcm}(A,B)=\dfrac{|A\cdot B|}{\gcd(A,B)}[/math] (পূর্ণসংখ্যার ক্ষেত্রে) সূত্র ব্যবহার করতে পারো। বহুপদীর জন্য অনুরূপ সূত্র (গুণনীয়তা ও গ.সা.গু ব্যবহার করে) প্রযোজ্য।
+
+সংক্ষিপ্ত উদাহরণ (স্পষ্টতা বৃদ্ধির জন্য):
+
+1) পূর্ণসংখ্যা:
+- ধরা যাক [math]A=60[/math] এবং [math]B=48[/math]।
+  ফ্যাক্টরাইজেশন: [math]60=2^2\cdot3\cdot5,\quad 48=2^4\cdot3[/math]।
+  তাই[gcd] = [math]2^{\min(2,4)}\cdot3^{\min(1,1)}=2^2\cdot3=12[/math]।
+  এবং[lcm] = [math]2^{\max(2,4)}\cdot3^{\max(1,1)}\cdot5^{\max(1,0)}=2^4\cdot3\cdot5=240[/math]।
+
+2) বহুপদী:
+- ধরো [math]f(x)=(x-2)^2(x+3)[/math] এবং [math]g(x)=(x-2)(x+3)^2[/math] (এগুলোর অপরিবর্তনীয় গুণনীয় স্পষ্ট)।
+  সাধারণ ফ্যাক্টরগুলো: [math](x-2)[/math] এবং [math](x+3)[/math]।
+  গ.সা.গু = [math](x-2)^{\min(2,1)}(x+3)^{\min(1,2)}=(x-2)(x+3)[/math]।
+  ল.সা.গু = [math](x-2)^{\max(2,1)}(x+3)^{\max(1,2)}=(x-2)^2(x+3)^2[/math]।
+
+উপসংহার: বীজগণিতীয় সূত্রাবলি (ফ্যাক্টর থিওরেম, রুট-প্রতীকরণ ও ফ্যাক্টরাইজেশন) ব্যবহার করে গুণনীয়ক ও গুণিতকের মধ্যে সম্পর্ক স্পষ্ট হয় — সাধারণ গুণনীয়গুলোই গ.সা.গু নির্ধারণ করে (ঘাত ন্যূনতম) এবং সব গুণনীয়ের সর্বোচ্চ ঘাতগুলো মিলে ল.সা.গু নির্ধারণ হয়। যখন ফ্যাক্টরাইজেশন সম্ভব না তখন ইউক্লিডীয় অ্যালগরিদম কার্যকর পদ্ধতি।
+
+Explanation:
+বীজগণিতীয় সূত্রাবলি ব্যবহার করে কোনো বহুপদকে তাকে উপাদানভিত্তিক গুণনীয়কে ভেঙে গুণিতকের রূপে প্রকাশ করা যায়, ফলে গুণনীয়ক ও গুণিতকের সম্পর্ক স্পষ্ট হয়। একবার প্রতিটি সংখ্যাকে বা বহুপদকে মৌলিক গুণনীয়গুলিতে ভেঙে নিলে প্রতিটি গুণনীয়ের ঘাত পাওয়া যায়; তখন গ.সা.গু হল সাধারণ গুণনীয়গুলোর ন্যূনতম ঘাতের গুণফল এবং ল.সা.গু হল সকল গুণনীয়ের সর্বাধিক ঘাতের গুণফল। উদাহরণস্বরূপ, যদি [math]A=\prod p^{\alpha_i}[/math] এবং [math]B=\prod p^{\beta_i}[/math] হয়, তবে [math]\gcd(A,B)=\prod p^{\min(\alpha_i,\beta_i)}[/math] এবং [math]\mathrm{lcm}(A,B)=\prod p^{\max(\alpha_i,\beta_i)}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #133 (ID: 102835)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলি ব্যবহার করে গুণনীয়ক ও গুণিতক সম্পর্কে কি সম্পর্ক প্রতিস্থাপন করা যায়?
+
+Options:
+
+
+Correct Answer: গুণনীয়ক ও গুণিতক উভয়ই একটি রাশির উৎপাদক এবং গুননের মাধ্যমে সমষ্টি নির্ণয় করা যায়।
+
+Solution:
+সমাধান:
+
+গুণনীয়ক (factors) ও গুণিতক (product)–এর মৌলিক সম্পর্ক হলো: দুটো গুণনীয়কের গুণফলই গুণিতক। বীজগণিতীয় সূত্রাবলি ব্যবহার করে এই সম্পর্ককে বিভিন্নভাবে প্রতিস্থাপন বা প্রকাশ করা যায়। প্রধান ধারণা ও সূত্রগুলো নিচে সংক্ষেপে দেখানো হলো।
+
+1. মৌলিক সংজ্ঞা
+- ধরুন দুই গুণনীয়ক [math]a[/math] এবং [math]b[/math]। তাদের গুণিতক হবে [math]P=ab[/math]।  
+- তাদের যোগফল লিখলে [math]S=a+b[/math]।
+
+2. বর্গের যোগের সূত্র ব্যবহার করে গুণিতক প্রকাশ
+- সূত্র: [math](a+b)^2 = a^2 + 2ab + b^2[/math]  
+  তাই গুণিতককে প্রকাশ করা যায়:  
+  [math]ab = \frac{(a+b)^2 - a^2 - b^2}{2}[/math]  
+  অর্থাৎ গুণনীয়কের যোগফল ও প্রতিটি বর্গজের সাহায্যে গুণিতক নির্ণয় করা যায়।
+
+3. বিয়োগের বর্গের সূত্র থেকেও প্রকাশ
+- সূত্র: [math](a-b)^2 = a^2 - 2ab + b^2[/math]  
+  থেকে  
+  [math]ab = \frac{a^2 + b^2 - (a-b)^2}{2}[/math]।
+
+4. দ্বিঘাত সমীকরণ ও মূল-সহগ সম্পর্ক
+- যদি [math]x^2 - Sx + P = 0[/math] কোনো দ্বিঘাতের মূলগুলো হয় [math]a[/math] ও [math]b[/math], তাহলে সমীকরণ থেকে পাওয়া সম্পর্ক হলো:  
+  [math]S = a+b[/math] ও [math]P = ab[/math]।  
+  ফলে গুণিতক (স্থায়ী পদ) ও গুণনীয়কের যোগফল (পরবর্তী সহগ) পরস্পরের সাথে সরাসরি সম্পর্কিত।
+
+5. উদাহরণ (সংক্ষিপ্ত)
+- ধরা যাক [math]a=3[/math], [math]b=5[/math]। তাহলে [math]S=8[/math], [math]a^2+b^2=9+25=34[/math]।  
+  সূত্র অনুযায়ী [math]ab=\frac{S^2-(a^2+b^2)}{2}=\frac{64-34}{2}=15[/math], যা সরাসরি [math]3\times5=15[/math] এর সমান।
+
+সংক্ষেপে: বীজগণিতীয় সূত্রাবলি ব্যবহার করে গুণনীয়ক (a, b) ও গুণিতক (ab)–এর মধ্যে সরাসরি সম্পর্ক স্থাপন করা যায়; বিশেষত [math](a+b)^2[/math], [math](a-b)^2[/math] ও দ্বিঘাত সমীকরণের মূল-সহগ সম্পর্কের মাধ্যমে গুণিতককে যোগফল ও বর্গগুলোর মাধ্যমে প্রকাশ করা যায়।
+
+Explanation:
+ব্যাখ্যা: গুণনীয়ক ও গুণিতক হল সেই দুই রাশি যেগুলোকে গুণ করলে উৎপাদক পাওয়া যায় — উদাহরণস্বরূপ যদি রাশিগুলো [math]a[/math] ও [math]b[/math] হয় তবে গুণফল হবে [math]ab[/math]. গুণ প্রকৃতপক্ষে পুনরাবৃত্তি যোগ, অর্থাৎ [math]a \times b[/math] মানে [math]b[/math]‑কে [math]a[/math] বার যোগ করা, তাই গুণনীয়ক ও গুণিতককে গুণ করে মোট সমষ্টি নির্ণয় করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #134 (ID: 101844)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলি ব্যবহারের মাধ্যমে গুণনীয়ক ও গুণিতকের মধ্যে সম্পর্ক কীভাবে ব্যাখ্যা করা যায়?
+
+Options:
+
+
+Correct Answer: গুণনীয়ক হলো সেই রাশি যা গুণফলে গুণিতক সৃষ্টি করে।
+
+Solution:
+সমাধান:
+পদ্ধতি: বীজগণিতীয় মূল সূত্রগুলো (বিশেষত বন্টনীয়তা ও গুণফল-বিস্তারের সূত্র) ব্যবহার করে দেখানো হবে যে গুণনীয়ক (multiplier/factor) গুণিতক (product/result) গঠন করে এবং উল্টোভাবে গুণিতককে গুণনীয়কে ভাঙে (factorization)।
+
+ধাপ ১ — মৌলিক সূত্র:
+বন্টনীয়তা: [math]a(b+c)=ab+ac[/math]  
+কমিউটেটিভিটি: [math]ab=ba[/math]  
+এই সূত্রগুলোই প্রতিটি গুণনীয়ককে গুণফলে কিভাবে ভূমিকা রাখে তা নির্ধারণ করে।
+
+ধাপ ২ — উদাহরণ দিয়ে ব্যাখ্যা (বিস্তারণ):
+নিচের গুণনীয়কগুলোকে গুণ করলে গুণিতক পাওয়া যায়:
+[math](x-2)(x+3)=x(x+3)-2(x+3)=x^2+3x-2x-6=x^2+x-6[/math]
+এখানে [math](x-2)[/math] ও [math](x+3)[/math] গুণনীয়ক; তাদের গুণফল [math]x^2+x-6[/math] হলো গুণিতক। এই প্রসেসেই স্পষ্ট হয় যে গুণনীয়কগুলো যখন গুণান, তখন গুণিতক তৈরি হয়।
+
+ধাপ ৩ — উল্টো (ফ্যাক্টরাইজেশন):
+দেওয়া গুণিতককে গুণনীয়কে ভাঙাও সম্ভব:
+[math]x^2+x-6=(x-2)(x+3)[/math]
+এখানে গুণিতককে (পলিনোমিয়াল) গুণনীয়কে (ফ্যাক্টর) ভেঙে দেখানো হচ্ছে — অর্থাৎ গুণিতক ও গুণনীয়কের পারস্পরিক সম্পর্ক স্পষ্ট।
+
+ধাপ ৪ — সাধারণীকরণ এবং যুক্তি:
+সাধারণভাবে, যদি দুই রাশি [math]p[/math] ও [math]q[/math] হলে তাদের গুণফল হবে [math]r=pq[/math]। এখানে [math]p[/math] এবং [math]q[/math] গুণনীয়ক; [math]r[/math] গুণিতক। পলিনোমিয়ালে যদি [math](x-r)[/math] একটি গুণনীয়ক হয়, তাহলে [math]x=r[/math] দিলে গুণিতক শূন্য হয় (মূল-ফ্যাক্টর সম্পর্ক): [math]P(r)=0 \iff (x-r)\ \text{ফ্যাক্টর}\ \text{of}\ P(x)[/math]।
+
+উপসংহার:
+গুণনীয়ক হলো সেই রাশি(গুলি) যা একসাথে গুণ করলে গুণিতক বা গুণফল সৃষ্টি করে; উল্টো দিকে, একটি গুণিতককে বীজগণিতীয় সূত্রাবলির সাহায্যে গুণনীয়কে ভাঙা যায় (ফ্যাক্টরাইজেশন) — তাই গুণনীয়ক ও গুণিতকের মধ্যে সোপানিক ও প্রতিস্থাপনযোগ্য সম্পর্ক আছে।
+
+Explanation:
+ব্যাখ্যা: গুণনীয়ক হলো সেই রাশি যা অন্য রাশির সঙ্গে গুণ করলে গুণফল বা গুণিতক তৈরি করে — যদি [math]a[/math] ও [math]b[/math] দুটি গুণনীয়ক হয় তাহলে তাদের গুণিতক হলো [math]a\times b[/math]। উদাহরণস্বরূপ, [math]2\times3=6[/math]–এ 2 ও 3 গুণনীয়ক এবং 6 গুণিতক।
+
+Sub-Questions:
+
+================================================================================
+Question #135 (ID: 101845)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+গ.সা.গু. এবং ল.সা.গু. এর মধ্যে পার্থক্য কী, এবং এটি কিভাবে বীজগণিতীয় রাশির সমাধানে সাহায্য করে?
+
+Options:
+
+
+Correct Answer: গ.সা.গু. হলো গুণনীয়কগুলোর সর্ববৃহৎ, যেখানে ল.সা.গু. হলো গুণিতকগুলোর সর্বনিম্ন।
+
+Solution:
+সমাধান:
+
+সংক্ষিপ্ত উত্তর ও ধারণা:
+- গ.সা.গু. (সর্বোচ্চ সাধারণ গুণনীয়ক) হলো দুই বা ততোধিক সংখ্যার/বহুপদীর সার্বিক গুণনীয়কদের মধ্যের সর্ববৃহৎ সাধারণ গুণনীয়ক।  
+- ল.সা.গু. (সর্বকম সাধারণ গুণিতক) হলো তাদের সাধারণ গুণিতকগুলোর মধ্যে সর্বনিম্ন সাধারণ অভিন্ন গুণিতক, অর্থাৎ প্রথমিকগুণনীয়কগুলোর সম্মিলনে পাওয়া সবচেয়ে ছোট সাধারণ গুণিতক বা সাধারণ গুণিতকগুলোর সর্বনিম্ন গুণফল।
+
+মূলনীতি ও সম্পর্ক:
+- পূর্ণসংখ্যার ক্ষেত্রে দুটি সংখ্যার জন্য সাধারণ সম্বন্ধ: [math]a\cdot b = \gcd(a,b)\cdot \mathrm{lcm}(a,b)[/math]  
+- বহুপদী (polynomial) ক্ষেত্রে গ.সা.গু. ও ল.সা.গু. ধারণা একই — প্রথমকে সর্বোচ্চ ডিগ্রির সাধারণ বিভাজক, দ্বিতীয়কে সর্বনিম্ন ডিগ্রির সাধারণ গুণিতক (অন্তত ধ্রুব সংখ্যার গুণতে ভিন্ন হতে পারে)।
+
+কীভাবে ব্যবহার করে বীজগণিতীয় রাশির সমাধানে সাহায্য করে:
+1. ভগ্নাংশ যোগ/বিয়োগে সাধারণ নামকরণ (common denominator) নির্ণয়: ভগ্নাংশকে যোগ/বিয়োগ করার জন্য ল.সা.গু. ঐগণিতিক/বহুপদীর সাধারণ নামহার (common denominator) হিসেবে নেয়া হয়, যা জটিল সমীকরণ হালকা করে।  
+2. রেশনাল এক্সপ্রেশন সরলীকরণ: উভয় পাটির মধ্যে গ.সা.গু. বের করে ভগ্নাংশকে হ্রাস (cancel) করা যায় — ফলে সরলীকরণ হয়।  
+3. সমীকরণ সমাধানে ফ্যাক্টরাইজেশন ও ভাগজমা: সমীকরণে সাধারণ গুণনীয়কগুলো বের করলে সমীকরণকে ছোট উপ-সমীকরণে ভাঙা যায় (factor and cancel), যা সমাধান সহজ করে।
+
+উদাহরণ (গণিতগত প্রয়োগ — বহুপদী):
+- ধরা যাক দুই বহুপদী [math]f(x)=x^2-1[/math] এবং [math]g(x)=x^2-x[/math]। ফ্যাক্টর করে:  
+  [math]f(x)=(x-1)(x+1)[/math], [math]g(x)=x(x-1)[/math].  
+  এখানে সাধারণ গুণনীয়ক হলো [math]x-1[/math], তাই  
+  গ.সা.গু. = [math]x-1[/math].  
+  ল.সা.গু. হওয়ার উচিত উভয়ের সমস্ত ভিন্ন ফ্যাক্টরের গুণফল: [math]x(x-1)(x+1)[/math] (অথবা [math]\dfrac{f(x)\,g(x)}{\gcd(f,g)} = \dfrac{(x-1)(x+1)\cdot x(x-1)}{(x-1)} = x(x-1)(x+1)[/math])।
+
+- ব্যবহার: ভিন্ন ভগ্নাংশ যোগ করা — [math]\dfrac{1}{x^2-1}+\dfrac{1}{x^2-x}[/math] এদের সাধারণ নামহার হবে ল.সা.গু. = [math]x(x-1)(x+1)[/math]। তাই যোগ করলে এবং সরল করলে সহজভাবে ফল পাওয়া যায়; পাশাপাশি যদি কোনো রাশিতে উভয়পক্ষে [math]x-1[/math] থাকে, তা গ.সা.গু. ছেঁকে ফেলে ভগ্নাংশ হ্রাস করা সম্ভব।
+
+সংক্ষিপ্ত উপসংহার:
+গ.সা.গু. হলো সাধারণ বিভাজকদের সর্ববৃহৎ, ল.সা.গু. হলো সাধারণ গুণিতকের সর্বনিম্ন। বীজগণিতীয় রাশিতে এগুলো ফ্যাক্টরাইজেশন, ভগ্নাংশ সরলীকরণ, সাধারণ নামহার নির্ণয় ও সমীকরণগুলোকে সহজ সাব-ভাগে ভাঙতে গুরুত্বপূর্ণ ভূমিকা রাখে।
+
+Explanation:
+গ গ.সা.গু. হলো কোনো দুই সংখ্যার বা বহুপদীর সাধারণ গুণনীয়কগুলোর মধ্যে সর্ববৃহৎ, আর ল.সা.গু. হলো তাদের সাধারণ গুণিতকগুলোর মধ্যে সর্বনিম্ন। গ.সা.গু. সাধারণভাবে বহুপদ থেকে সাধারণ গুণনীয়কটি বের করে ভগ্নাংশ বা বহুপদকে সরলীকরণে সাহায্য করে, আর ল.সা.গু. ভগ্নাংশগুলোকে একই নামকনায় নিয়ে আসা ও সমীকরণ থেকে ভাগভাগগুলো মুছে ফেলে সমাধান সহজ করে। সংখ্যাগুলোর জন্য একটি উপকারী সম্পর্ক হলো [math]a\times b=\gcd(a,b)\times\mathrm{lcm}(a,b)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #136 (ID: 101846)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির মাধ্যমে ভাজ্য ও ভাজক সম্পর্কে কীভাবে ধারণা পাওয়া যায়?
+
+Options:
+
+
+Correct Answer: ভাজ্য হলো যে রাশি যা ভাজক দ্বারা নিঃশেষে বিভাজ্য হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতি ও ধারণা:
+- ভাজ্য (dividend) এবং ভাজক (divisor) সম্পর্কটি সাধারণভাবে একটি সমীকরণের মাধ্যমে ব্যক্ত করা যায়:  
+  [math]P = D\cdot Q + R[/math]  
+  এখানে [math]P[/math] হল ভাজ্য, [math]D[/math] হল ভাজক, [math]Q[/math] হল ভাগফল (quotient), এবং [math]R[/math] হল অবশিষ্ট (remainder)।
+- যদি অবশিষ্ট [math]R=0[/math] হয়, তৎক্ষণাৎ বলা যায় ভাজ্যটি ভাজক দ্বারা নিঃশেষে বিভাজ্য (i.e., ভাজক ভাজ্যের একটি গুণক বা ভাজক একটি ধারক/ফ্যাক্টর)।
+
+প্রাসঙ্গিক নীতিসমূহ:
+1. সংখ্যার ক্ষেত্রে: ভাজ্য [math]P[/math] ভাজক [math]D[/math] দ্বারা নিঃশেষে বিভাজ্য হলে [math]P=D\cdot Q[/math] (অর্থাৎ অবশিষ্ট শূন্য)।
+2. বহুপদ (polynomial) ক্ষেত্রে: একই রূপে যদি বহুপদ [math]f(x)[/math] কে [math]g(x)[/math] দিয়ে ভাগ করা হয় এবং অবশিষ্ট [math]0[/math] হয়, তাহলে [math]g(x)[/math] হল [math]f(x)[/math]-এর একটি গুণক। বিশেষ করে, যদি [math]g(x)=x-a[/math] হয়, তবে ভাগশেষ তত্ত্ব বলে—[math]f(x)[/math] হল [math](x-a)[/math]-এর গুণকiff [math]f(a)=0[/math] (Factor/Remainder Theorem)।
+
+উদাহরণ (সংক্ষিপ্ত ও বোঝানোর জন্য):
+1. সংখ্যা: [math]12=3\times4+0[/math] → অবশিষ্ট শূন্য, তাই 12 ভাজ্য এবং 3 ভাজক; 12 নিঃশেষে 3 দ্বারা বিভাজ্য।
+2. বহুপদ: ধরুন [math]f(x)=x^2-9[/math]। পরিচিত সূত্র [math]a^2-b^2=(a-b)(a+b)[/math] থেকে  
+   [math]x^2-9=(x-3)(x+3)[/math]  
+   ফলে [math]x-3[/math] এবং [math]x+3[/math] উভয়ই [math]f(x)[/math]-এর গুণক — অর্থাৎ [math]f(x)[/math] নিঃশেষে বিভাজ্য তাদের দ্বারা।
+3. ভাগশেষ তত্ত্ব প্রয়োগ: ধরা যাক [math]f(x)=x^3-2x^2-x+2[/math]। যদি [math]x-1[/math] দ্বারা বিভাজ্য কিনা জানার জন্য [math]f(1)=1-2-1+2=0[/math] পাওয়া যায়; তাই [math]x-1[/math] হল গুণক এবং বিভাজ্য নিঃশেষে বিভাজ্য।
+
+তথ্যসমাপনী:
+- সংক্ষেপে, বীজগণিতীয় সূত্রাবলি (অলজেব্রিক পরিচয় ও ভাগশেষ/গুণক তত্ত্ব) ব্যবহার করে ভাজ্য ও ভাজকের ধারণা পাওয়া যায় এমনভাবে—ভাগসমীকরণ [math]P=DQ+R[/math] এবং রিমেইন্ডার/ফ্যাক্টর থিওরেম প্রয়োগ করে নির্ণয় করা যে অবশিষ্ট শূন্য হলে ভাজ্যটি ভাজক দ্বারা নিঃশেষে বিভাজ্য।
+
+Explanation:
+ব্যাখ্যা: ভাজ্য হলো যে রাশি যা নিখুঁতভাবে অন্য রাশি (ভাজক) দ্বারা বিভাজ্য হয়, ফলে কোনো অবশিষ্ট থাকে না। আলজেব্রায় যদি কোনো সংখ্যা বা বহুপদকে লেখা যায় [math]A = B\cdot k[/math] যেখানে [math]k[/math] হল পূর্ণ সংখ্যা বা অন্য বহুপদ, তাহলে [math]A[/math] ভাজ্য এবং [math]B[/math] ভাজক; বহুপদের ক্ষেত্রে একইভাবে বিভাজনের অবশিষ্ট শূন্য হলে ভাজকটি ভাজ্যের একটি গুণনীয়ক।
+
+Sub-Questions:
+
+================================================================================
+Question #137 (ID: 101847)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+(a+b)² সূত্রের প্রয়োগ করে b²-2ab উৎপন্ন হতে কি ধরনের গুণফল ব্যবহৃত হয়েছে?
+
+Options:
+
+
+Correct Answer: উৎপন্ন হয়েছে ১ম রাশির বর্গ, ২য় রাশির বর্গ এবং দুটি রাশির গুণফল।
+
+Solution:
+সমাধান:
+
+(a+b)² সূত্রটি হল  
+[math](a+b)^2 = a^2 + 2ab + b^2[/math]
+
+এখানে উৎপন্ন অংশগুলোকে দেখা যায়:
+- [math]a^2[/math] — ১ম রাশির বর্গ,  
+- [math]b^2[/math] — ২য় রাশির বর্গ,  
+- [math]2ab[/math] — দুটি রাশির গুণফল (দুইগুণ)।
+
+প্রশ্নে বলা আছে [math]b^2 - 2ab[/math] উৎপন্ন হয়েছে — এটি হয় একই সূত্রের মধ্যকার বর্গ ও গুণফল অংশ: [math]b^2[/math] (২য় রাশি বর্গ) এবং [math]-2ab[/math] (দুটি রাশির গুণফল, এখানে চিহ্ন নেগেটিভ, অর্থাৎ রাশির মধ্যে বিয়োগ থাকলে মাঝের টার্মটি -2ab হবে)। বাস্তবে [math]b^2 - 2ab + a^2 = (b-a)^2[/math] অথবা [math]a^2 - 2ab + b^2 = (a-b)^2[/math]।
+
+সুতরাং উৎপন্ন হয়েছে: ১ম রাশির বর্গ, ২য় রাশির বর্গ এবং দুটি রাশির গুণফল।
+
+Explanation:
+ব্যাখ্যা: (a+b)^2 প্রসারণ করলে [math]a^2+2ab+b^2[/math] পাওয়া যায় — এখানে প্রথম রাশির বর্গ ([math]a^2[/math]) , দ্বিতীয় রাশির বর্গ ([math]b^2[/math]) এবং দুটি রাশির গুণফল ([math]2ab[/math]) উপস্থিত থাকে, তাই উল্লিখিত তিনধরনের পদই উৎপন্ন হয়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #138 (ID: 101848)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির মাধ্যমে উৎপাদক বিশ্লেষণ করতে গেলে কি ধরনের উদাহরণ ব্যবহার করা হয়?
+
+Options:
+
+
+Correct Answer: উদাহরণ হিসেবে, (x+y)(x-y) ব্যবহার করা হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতি: উৎপাদক বিশ্লেষণে সাধারণত পরস্পর যুক্ত–বিয়োগীম (conjugate) দ্বিপদী উদাহরণ হিসেবে [math](x+y)(x-y)[/math] ব্যবহার করা হয়, কারণ এটি সহজে বিস্তৃত হয়ে একটি পরিচিত সূত্র দেয়।
+
+স্টেপ-বাই-স্টেপ কাজ:
+1. বিস্তার (distributive/FOIL) প্রয়োগ করি:
+   [math](x+y)(x-y)=x(x-y)+y(x-y)=x^2-xy+xy-y^2[/math]
+2. মধ্যবর্তী ধনাত্মক ও ঋণাত্মক ক্রস-টার্মগুলো পরস্পর কেটে যায়:
+   [math]-xy+xy=0[/math]
+3. ফলে বাকি থাকে:
+   [math](x+y)(x-y)=x^2-y^2[/math]
+
+প্রাসঙ্গিক ধারণা: এটি "বর্গগুলোর পার্থক্য" সূত্র, সাধারণভাবে লেখা যায়:
+[math](a+b)(a-b)=a^2-b^2[/math]
+
+উপযোগিতা ও যুক্তি: ক্রস টার্মগুলো এক ধনাত্মক ও এক ঋণাত্মক হওয়ায় তারা নিকাশ হয়, ফলে গুণফলটি সহজ সরল বর্গের পার্থক্য হিসেবে প্রকাশ পায়। এই ধরণ ব্যবহার করা হয় প্রকাশ সহজ করার জন্য, ফ্যাক্টরাইজেশন, সমীকরণ সমাধান, এবং বীজগণিতীয় র্যাশোনালাইজেশনে।
+
+উদাহরণ (মান যাচাই): ধরুন [math]x=5,\,y=3[/math] তাহলে
+[math](5+3)(5-3)=8\times2=16[/math] এবং [math]5^2-3^2=25-9=16[/math], ফলে সূত্র সঠিক প্রত্যয়িত হয়।
+
+Explanation:
+ব্যাখ্যা: কারণ [math](x+y)(x-y)[/math] হলো বর্গের পার্থক্যের সূত্রের উদাহরণ, যা সরাসরি প্রসারিত করলে [math]x^2-y^2[/math] হয়। এই ধরনের উৎপাদক ব্যবহার করে যেসব(expression) সমান [math]x^2-y^2[/math]-র আকারে থাকে সেগুলো সহজে বিশ্লেষণ বা গুণফল থেকে ভাঙ্গা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #139 (ID: 101849)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির মাধ্যমে রাশির মান নির্ণয় করতে গেলে কী ধরনের পদক্ষেপ গ্রহণ করতে হয়?
+
+Options:
+
+
+Correct Answer: প্রথমে সূত্রের প্রয়োগ করে বর্গ নির্ণয় করতে হয় এবং পরবর্তীতে গুণফল বিশ্লেষণ করা হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতির সারসংক্ষেপ:
+1) প্রথমে প্রযোজ্য বীজগণিতীয় সূত্র (যেমন [math](a+b)^2=a^2+2ab+b^2[/math], [math](a-b)^2=a^2-2ab+b^2[/math], [math]a^2-b^2=(a-b)(a+b)[/math] ইত্যাদি) নিরূপণ করে বর্গীয় অংশগুলো(expand/compute the squares) নির্ণয় করা হয়।  
+2) বর্গের সম্প্রসারণের পরে গুণফল (cross/product) অংশগুলোকে আলাদা করে বিশ্লেষণ করা হয়—এগুলো সমীকরণ সমাধান বা অজানা পরিমাণ বের করতে সরাসরি ব্যবহার করা যায়।  
+3) প্রয়োজন হলে সরলীকরণ, যোগ-বিয়োগ বা বিভাগ করে অজানাগুলো নির্ণয় করা হয় এবং ফল যাচাই করা হয়।
+
+ধাপে ধাপে কাজের ধারা:
+Step 1: সূত্র শনাক্ত করুন। উদাহরণস্বরূপ, যদি প্রশ্নে বর্গযুক্ত প্রকাশ থাকে তবে [math](a+b)^2[/math] বা [math](a-b)^2[/math] সূত্র প্রয়োগ করবেন।  
+Step 2: সূত্র ব্যবহার করে বর্গ সম্প্রসারণ করুন—যাতে আলাদা হয় বর্গধারী টার্মগুলো ([math]a^2,b^2[/math]) এবং গুণফল টার্ম ([math]2ab[/math])।  
+Step 3: সম্প্রসারিত অভিব্যক্তিগুলো থেকে গুণফল অংশগুলো আলাদা করে সমীকরণ সাজান এবং প্রয়োজনীয় সমাহরণ (যোগ/বিয়োগ/বিভাজন) করে [math]ab[/math] বা অন্য গুণফল নির্ণয় করুন।  
+Step 4: শেষ ফল যাচাই করুন।
+
+সংক্ষিপ্ত উদাহরণ (উপযোগিতা প্রদর্শনের জন্য):
+ধরা যাক [math](x+y)^2=25[/math] এবং [math](x-y)^2=9[/math] থেকে [math]xy[/math] বের করতে হবে।  
+- সম্প্রসারণ করে লিখি: [math](x+y)^2=x^2+2xy+y^2[/math] এবং [math](x-y)^2=x^2-2xy+y^2[/math].  
+- এ দুটির পার্থক্য নিই: [math](x+y)^2-(x-y)^2=(x^2+2xy+y^2)-(x^2-2xy+y^2)=4xy[/math].  
+- তাই [math]4xy=25-9=16[/math] থেকে [math]xy=4[/math].
+
+ব্যাখ্যা: এখানে প্রথমে সূত্র প্রয়োগ করে বর্গগুলো নির্ণয় করা হলো, তারপর সেই বর্গীয় সমীকরণগুলোর ব্যবধান/যোগ দ্বারা গুণফল ([math]xy[/math]) আলাদা করে নির্ণয় করা হয়েছে—সঠিকভাবে প্রথমে বর্গ, পরে গুণফল বিশ্লেষণের নীতিই অনুসরণ করা হয়েছে।
+
+Explanation:
+ব্যাখ্যা: সূত্র প্রয়োগ করে প্রথমে সমীকরণে থাকা বর্গযুক্ত পদগুলো শনাক্ত বা নির্ণয় করা হয়, যাতে সমীকরণকে সহজ রূপে আনা যায়। তার পরে গুণফল বিশ্লেষণ (factorization) করে সমীকরণকে গুণিতকগুলিতে ভাগ করলে প্রতিটি অংশ আলাদাভাবে সমাধান করে রাশির মান নির্ণয় করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #140 (ID: 101850)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় রাশির গুণনীয়ক নির্ণয় করতে গেলে কোন সূত্রাবলি ব্যবহার হয়?
+
+Options:
+
+
+Correct Answer: (x² - y²) সূত্র ব্যবহার হয়।
+
+Solution:
+সমাধান:
+বীজগণিতীয় রাশির গুণনীয়ক নির্ণয় করতে সাধারণত বিষয়ভিত্তিক সূত্রাবলি ব্যবহার করা হয়। বিশেষ করে দুই বর্গের পার্থক্য factorization-এর জন্য নিম্নলিখিত সূত্রটি ব্যবহার করা হয়:
+
+প্রধান সূত্র: [math]x^2 - y^2 = (x - y)(x + y)[/math]
+
+ধাপে ধাপে পদ্ধতি:
+1. চিন্হিত করুন যে প্রদত্ত রাশি দুটো বর্গের পার্থক্য কিনা। অর্থাৎ রাশিটি [math]A^2 - B^2[/math] আকারে লেখা যায় কি না।
+2. যদি লেখা যায়, তবে সরাসরি সূত্র প্রয়োগ করুন: [math]A^2 - B^2 = (A - B)(A + B)[/math]।
+3. প্রমাণ/যাচাই করতে চাইলে দ্বৈতগুণ করে দেখুন যে ডানপাশ পুনরায় বামপাশ দেয়:
+   [math](x - y)(x + y) = x^2 + xy - xy - y^2 = x^2 - y^2[/math]।
+
+উদাহরণ (প্রাসঙ্গিক এবং সংক্ষিপ্ত):
+- [math]x^2 - 9[/math] কে গুণনীয়ক করলে [math]x^2 - 3^2[/math] হওয়ায়, [math]x^2 - 9 = (x - 3)(x + 3)[/math]।
+- সাধারণভাবে, [math]a^2 - b^2 = (a - b)(a + b)[/math]।
+
+টীকা:
+- এটি কেবল দুই বর্গের পার্থক্যের জন্য প্রযোজ্য; দুই বর্গের যোগ ([math]x^2 + y^2[/math]) সাধারণত বাস্তব-coefficient-এ সরল রৈখিক গুণনীয়কে পাওয়া যায় না।
+
+Explanation:
+ব্যাখ্যা: যে রাশি দুটি বর্গের পার্থক্য তা গুণনীয়কে ভেঙে লিখতে [math]x^2 - y^2 = (x - y)(x + y)[math] সূত্রটি সরাসরি প্রযোজ্য; কারণ বাম দিকটি গুণ করলে মাঝখানের ক্রস টার্মগুলো বাতিল হয়ে ডান দিকের গুণফল পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #141 (ID: 101851)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় রাশির ক্ষেত্রফল নির্ণয় করতে কি ধরনের সূত্র ব্যবহার করা হয়?
+
+Options:
+
+
+Correct Answer: বর্গক্ষেত্রের ক্ষেত্রফল নির্ণয়ে (a+b)² সূত্র ব্যবহার করা হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতি ও ধারণা:
+একটি বর্গ whose পাশের দৈর্ঘ্য যদি বীজগণিতীয়ভাবেই [math]a+b[/math] দেন, তাহলে তার ক্ষেত্রফল পাওয়ার জন্য সরাসরি বর্গের ক্ষেত্রফলের সূত্র প্রয়োগ করা হয়, অর্থাৎ [math](a+b)^2[/math]। এই সূত্রকে বিতরণ আইন (distributive law) বা জ্যামিতিক বিভাজন দুটোভাবেই ব্যাখ্যা করা যায়।
+
+প্রাথমিক গণনা (বীজগণিতীয় কাজ):
+Step 1: [math](a+b)^2=(a+b)(a+b)[/math]  
+Step 2: বিতরণ করে: [math]=a(a+b)+b(a+b)[/math]  
+Step 3: [math]=a^2+ab+ba+b^2[/math]  
+Step 4: [math]=a^2+2ab+b^2[/math]
+
+জ্যামিতিক ব্যাখ্যা (সংক্ষিপ্ত):
+একটি প্যাস [math]a+b[/math] এর বর্গকে চার অংশে ভাগ করলে পাওয়া যায়—একটি [math]a×a[/math] বর্গ (ক্ষেত্রফল [math]a^2[/math]), একটি [math]b×b[/math] বর্গ (ক্ষেত্রফল [math]b^2[/math]) এবং দুটি [math]a×b[/math] আয়তক্ষেত্র (মোট ক্ষেত্রফল [math]2ab[/math])। যোগ করলে মোট ক্ষেত্রফল [math]a^2+2ab+b^2[/math] যা [math](a+b)^2[/math] এর বিস্তার।
+
+উদাহরণ (সংক্ষিপ্ত, মান যাচাই করতে উপযোগী):
+ধরা যাক [math]a=3[/math], [math]b=2[/math] → [math](3+2)^2=5^2=25[/math] এবং বিস্তারে [math]3^2+2·3·2+2^2=9+12+4=25[/math]—মেলে।
+
+সুতরাং, বীজগণিতীয় রাশির ক্ষেত্রফল নির্ণয়ের জন্য [math](a+b)^2=a^2+2ab+b^2[/math] সূত্রটি ব্যবহার করা হয়।
+
+Explanation:
+বর্গক্ষেত্রের একটি বাহু যদি [math](a+b)[/math] হয় তখন তার ক্ষেত্রফল গণনা করার সূত্র হচ্ছে [math](a+b)^2[/math]. এটা সম্প্রসারণ করলে [math](a+b)^2 = a^2 + 2ab + b^2[/math] আসে, যেখানে [math]a^2[/math] এবং [math]b^2[/math] হলো দুই ছোট বর্গের ক্ষেত্র এবং [math]2ab[/math] হলো দুইটি সমান আয়তক্ষেত্রের ক্ষেত্র।
+
+Sub-Questions:
+
+================================================================================
+Question #142 (ID: 101852)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+সাধারণ গুণনীয়কগুলোর মধ্যে সর্বাধিক গুণফল নির্ণয় করতে কিভাবে গ.সা.গু. নির্ধারণ করা হয়?
+
+Options:
+
+
+Correct Answer: প্রথমে রাশিগুলোর মৌলিক উৎপাদক বের করে এবং সেগুলোর সর্বোচ্চ ঘাত নির্ণয় করতে হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতি (স্পষ্ট উত্তর): প্রথমে প্রতিটি সংখ্যার মৌলিক গুণনীয়ক (prime factorization) বের করতে হয় এবং প্রতিটি মৌলিক সংখ্যার সর্বোচ্চ ঘাত নেওয়া হলে ঐগুলোর গুণফলই গ.সা.গু. (LCM) দেয়।
+
+ধাপগুলো:
+1. প্রতিটি সংখ্যাকে মৌলিক গুণনীয়কে ভাঙো।  
+2. প্রতিটি মৌলিক সংখ্যার জন্য দেওয়া সংখ্যাগুলোর মধ্যে যেই ঘাতটি সর্বোচ্চ তা গ্রহণ করো।  
+3. ঐ সর্বোচ্চ ঘাতগুলোর গুণফলই গ.সা.গু. হবে।
+
+কারণসংক্ষেপ: কোনো সাধারণ গুণনীয়ক হওয়ার জন্য সেই সংখ্যা প্রতিটি সংখ্যাকে নিঃশেষে ভাগ করতে হবে। তাই প্রতিটি মৌলিক সংখ্যার কমপক্ষে সর্বোচ্চ দরকারি ঘাতটি উপস্থিত থাকতে হবে; অতএব最高 ঘাতগুলো নিলে ছোটতম সাধারণ গুণনীয়ক মেলে।
+
+উদাহরণ (প্রাসঙ্গিক ও সংক্ষিপ্ত): তিনটি সংখ্যা [math]12,\,18,\,30[/math] এর গ.সা.গু. নির্ণয় করি—  
+- [math]12=2^2\times3[/math]  
+- [math]18=2\times3^2[/math]  
+- [math]30=2\times3\times5[/math]  
+
+প্রতিটি মৌলিক সংখ্যার সর্বোচ্চ ঘাতগুলি: [math]2^2,\;3^2,\;5^1[/math]। তাই
+[math]\text{LCM}=2^2\times3^2\times5=4\times9\times5=180[/math]।
+
+নোট: জোড়া সংখ্যার জন্য বিকল্প সূত্রও আছে: [math]\text{LCM}(a,b)=\dfrac{a\cdot b}{\gcd(a,b)}[/math], কিন্তু একাধিক সংখ্যার জন্য মৌলিক গুণনীয়ক পদ্ধতিটি সাধারণ ও কার্যকর।
+
+Explanation:
+প্রথমত কারণ: গ.সা.গু. এমন একটি সংখ্যা যা সব রাশিকে ভাগ করে, তাই এতে প্রতিটি মৌলিক সংখ্যার সর্বোচ্চ ঘাত থাকতে হয় যেন সব রাশি সমানভাবে বিভাজ্য হয়। পদ্ধতি: প্রতিটি রাশিকে মৌলিক গুণকের রূপে লেখো, তারপর প্রতিটি মৌলিক সংখ্যার সর্বোচ্চ ঘাত নেয়া এবং সেগুলোকে গুণ করলে লঘিষ্ঠ সাধারণ গুণফল পাওয়া যায়। উদাহরণ: [math]12=2^2×3,\;18=2×3^2,\; \text{LCM}=2^2×3^2=36[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #143 (ID: 101853)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+একটি বীজগণিতীয় রাশির উৎপাদক বিশ্লেষণ করতে গেলে কিভাবে গুণের বল্টনবিধি ব্যবহার করা হয়?
+
+Options:
+
+
+Correct Answer: গুণের বল্টনবিধি ব্যবহার করে সাধারণ উৎপাদক বের করে বিশ্লেষণ করা হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতি ও মূল ধারণা:
+- গুণের বল্টনবিধি (Factor Theorem): যদি কোনো বহুপদী ফাংশন [math]f(x)[/math] এর জন্য [math]f(a)=0[/math] হয়, তাহলে [math](x-a)[/math] সেই বহুপদীর একটি গুণনীয়ক (factor)। উল্টোভাবে, যদি [math](x-a)[/math] একটি গুণনীয়ক হয় তাহলে [math]f(a)=0[/math]।  
+- অবশেষনবিধি (Remainder Theorem): [math]f(a)[/math] হল [math]f(x)[/math] কে [math](x-a)[/math] দ্বারা ভাগ করলে অবশিষ্টাংশ। এইটি গুণের বল্টনবিধির পরীক্ষায় সুবিধে দেয়।  
+
+প্রয়োগের ধাপসমূহ:
+1. সম্ভাব্য রুট (শূন্যস্থান) নির্ধারণ: যদি সহগগুলি পূর্ণসংখ্যা হয়, তাহলে যুক্তিসঙ্গত রুটগুলোর জন্য রেশনাল রুট থিওরেম ব্যবহার করে সম্ভাব্য লক্ষণীয় ডিভাইসরগুলো পরীক্ষা করা যায় (উদাহরণস্বরূপ [math]±1,±2,±3[/math] ইত্যাদি)।  
+2. পরীক্ষার জন্য একটি প্রার্থী [math]a[/math] নিন এবং [math]f(a)[/math] গণনা করুন। যদি [math]f(a)=0[/math] হয়, তাহলে [math](x-a)[/math] একটি গুণনীয়ক।  
+3. বহুপদীকে [math](x-a)[/math] দ্বারা বিভাগ (দীর্ঘ ভাগ বা সিনথেটিক ডিভিশন) করে ভাগফল (quotient) বের করুন।  
+4. প্রাপ্ত ভাগফলের উপর একই পদ্ধতি পুনরাবৃত্তি করুন যতক্ষণ না পর্যন্ত বহুপদী সম্পূর্ণরূপে গুণনীয়ক হিসেবে ভাঙা যায়।  
+5. পুনরাবৃত্তি না হলে কোন অনির্ণিত উচ্চ-ডিগ্রী অংশ থাকলে সে গুণনীয়ককে মৌলিক রৈখিক বা দ্বিঘাতীয় (যদি বাস্তব মূল না থাকে) রূপে আরও ভাঙুন।  
+6. যদি কোনও রুটের জন্য [math]f(a)=0[/math] এবং একইসময়ে [math]f'(a)=0[/math] পাওয়া যায়, তা হলে ঐ রুটটির গুণনীয়ক বহুগুণিতা (multiplicity) আছে — অর্থাৎ [math](x-a)^k[/math] রকমের গুণনীয়ক থাকতে পারে; পরীক্ষা করে ফলান।  
+
+সংক্ষিপ্ত উদাহরণ (প্রয়োজনীয় ব্যাখ্যা সহ):
+ধরা যাক [math]f(x)=x^3-4x^2+x+6[/math]।  
+Step 1: সম্ভাব্য রুট = [math]±1,±2,±3,±6[/math]।  
+Step 2: পরীক্ষা করি, [math]f(2)=8-16+2+6=0[/math] → সুতরাং [math](x-2)[/math] একটি গুণনীয়ক।  
+Step 3: [math]f(x)[/math] কে [math](x-2)[/math] দ্বারা ভাগ করলে ভাগফল পাওয়া যায় [math]x^2-2x-3[/math] (সিনথেটিক ডিভিশন বা লং ডিভিশন)।  
+Step 4: [math]x^2-2x-3[/math] কে ভেঙে পাই [math](x-3)(x+1)[/math]।  
+সুতরাং পুরো ভাঙন: [math]f(x)=(x-2)(x-3)(x+1)[/math]।  
+
+লগিক্যাল নোট:
+- গুণের বল্টনবিধি মূলত রুট খুঁজে বের করে একটি বহুপদীকে ধাপে ধাপে ভাঙতে সাহায্য করে।  
+- বাস্তবে রুট খোঁজার জন্য রেশনাল রুট থিওরেম, সিনথেটিক ডিভিশন এবং ডেরিভেটিভ যাচাই (মাল্টিপ্লিসিটি জানার জন্য) সহ অন্যান্য কৌশল একসঙ্গে ব্যবহার করা হয়।  
+
+উপসংহার:
+গুণের বল্টনবিধি ব্যবহার করে প্রথমে বহুপদীর শূন্যস্থান বা সাধারণ উৎপাদক (linear factor) খুঁজে বের করা হয়, এরপর বিভাগ-পদ্ধতি ব্যবহার করে বহুপদীকে ধাপে ধাপে গুণনীয়কে ভেঙে বিশ্লেষণ করা হয়।
+
+Explanation:
+ব্যাখ্যা: গুণের বল্টনবিধি ব্যবহার করে রাশির প্রতিটি পদে সাধারণ গুণফ্যাক্টর খুঁজে বের করা হয় এবং সেই সাধারণ গুণফ্যাক্টরকে বাহির করে লেখলে রাশি সহজে গুণফলে ভেঙে যায়। এইভাবে বিভিন্ন সাধারণ উৎপাদক উঠিয়ে রাশিকে সাধারণ উৎপাদক(ফ্যাক্টর)গুলোর গুণফলে বিশ্লেষণ করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #144 (ID: 93750)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির সাহায্যে অনুসিদ্ধান্ত নির্ণয়ের পদ্ধতি কী?
+
+Options:
+
+
+Correct Answer: বীজগণিতীয় সূত্রাবলির সাহায্যে সূত্র প্রয়োগ করে রাশির মান নির্ণয় ও উৎপাদকে বিশ্লেষণ করা হয়।
+
+Solution:
+সমাধান:
+
+উত্তর নির্ণয়ের সাধারণ পদ্ধতি:
+1. ধারা চিন্হিত করা — প্রদত্ত অভিব্যক্তি বা প্রশ্নের মধ্যে কোন বীজগণিতীয় সূত্র (যেমন যোগবর্গ, বিয়োগবর্গ, যোগ-ঘন, বিয়োগ-ঘন, দ্বিঘাত গুণনীয়করণ ইত্যাদি) প্রযোজ্য তা চিহ্নিত করা।  
+2. প্রতীকায়ন ও পরিবর্তনশীল নির্ধারণ — ধরা হলে সহজ প্রতীক (যেমন [math]x, y, a, b[/math]) দিয়ে বসান বা প্রদত্ত মানগুলোকে প্রতিস্থাপন করুন।  
+3. উপযুক্ত সূত্র প্রয়োগ — চিহ্নিত সূত্রটি সরাসরি প্রয়োগ করে সম্প্রসারণ/ঘাটানো বা গুণনীয়করণ করুন।  
+4. সরলীকরণ ও সমাধান — ফলে পাওয়া সমীকরণ বা প্রকাশকে সরল করে অনাবশ্যক অংশ সরান, এবং অনিবার্য হলে সমীকরণ থেকে রাশির মান নির্ণয় করুন।  
+5. যাচাই করুন — প্রাপ্ত মান বা ফল পুনরায় মূল শর্তে প্রতিস্থাপন করে সঠিকতা নিশ্চিত করুন।
+
+প্রাসঙ্গিক ধারণা ও নীতিসমূহ:
+- পরিচিত সূত্র: [math](a+b)^2=a^2+2ab+b^2[/math], [math](a-b)^2=a^2-2ab+b^2[/math], [math]a^2-b^2=(a-b)(a+b)[/math], [math]a^3+b^3=(a+b)(a^2-ab+b^2)[/math], [math]a^3-b^3=(a-b)(a^2+ab+b^2)[/math] ইত্যাদি।  
+- প্রতিস্থাপন ও সমাকলন (substitution and simplification) মূল কৌশল।  
+- সমমিতি ও প্রতিসম গুণাবলী (symmetry) থাকলে তা ব্যবহার করে সহজীকরণ করা যায়।
+
+তাত্ত্বিক যুক্তি:
+প্রশ্নে কোন রূপের প্রকাশ থাকলে ঠিক ওই সূত্রটি ব্যবহার করলে সমস্যা দ্রুত সমাধেয় হয়, কারণ সূত্রগুলো ইতিমধ্যে বিস্তৃত গাণিতিক সম্পর্ক প্রদান করে যা প্রতিস্থাপন করে সরাসরি রাশি বা উৎপাদক নির্ণয় করা যায়।
+
+উদাহরণ (সংক্ষিপ্ত ও প্রাসঙ্গিক):
+ধরা যাক [math]x+y=5[/math] এবং [math]xy=6[/math], তাহলে [math]x^3+y^3[/math] নির্ণয় করতে চাই। উপযুক্ত সূত্র হল  
+[math]x^3+y^3=(x+y)^3-3xy(x+y)[/math]. তাই
+[math]x^3+y^3=5^3-3\cdot6\cdot5=125-90=35[/math].
+
+এই পদ্ধতিতে—প্রথমে উপযুক্ত সূত্র চিন্হিত করে, তারপর প্রদত্ত তথ্য প্রতিস্থাপন করে এবং সরলীকরণ করে—বীজগণিতীয় সূত্রাবলির সাহায্যে অনুসিদ্ধান্ত (রাশি বা উৎপাদক) নির্ণয় করা হয়।
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় সূত্রাবলি হল সমীকরণ ও সম্পর্কগুলোর নির্ধারিত নিয়ম যা অজানা রাশি নির্ণয় এবং প্রকাশগুলোকে সরল বা ভাগ করা (উৎপাদকে বিশ্লেষণ) করতে ব্যবহার করা হয়। সাধারণত সূত্রে জানা মানগুলো স্থাপন করে সমীকরণকে পুনর্বিন্যস্ত, সরলীকরণ ও গুণ-ভাগ করে অজানার মান ও উৎপাদকের গঠন নেওয়া হয়, তাই দেওয়া উত্তরটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #145 (ID: 93743)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দুইটি সংখ্যার গুণফল ২৪ এবং তাদের গড় ৬ হলে, সংখ্যাগুলো কী হবে?
+
+Options:
+
+
+Correct Answer: ৪ এবং ৬
+
+Solution:
+সমাধান:
+
+ধরা যাক দুইটি সংখ্যা [math]x[/math] এবং [math]y[/math]। প্রশ্নে বলা আছে তাদের গড় [math]6[/math] এবং গুণফল [math]24[/math]। তাই
+
+- গড় থেকে যোগফল: [math]x+y=2\times 6=12[/math]
+- গুণফল: [math]xy=24[/math]
+
+এখন [math]x[/math] কে ধরা হলে এটি সমাধান করবে দ্বিঘাত সমীকরণটি:
+[math]t^2-(x+y)t+xy=0 \Rightarrow t^2-12t+24=0[/math]
+
+সমাধান করতে ডিসক্রিমিন্যান্ট ব্যবহার করি:
+[math]\Delta=12^2-4\cdot1\cdot24=144-96=48[/math]
+[math]\sqrt{\Delta}=\sqrt{48}=4\sqrt{3}[/math]
+
+তাই মূলদ্বয়:
+[math]t=\frac{12\pm 4\sqrt{3}}{2}=6\pm 2\sqrt{3}[/math]
+
+সংখ্যাগুলো হলো [math]6+2\sqrt{3}[/math] এবং [math]6-2\sqrt{3}[/math] (প্রায় মান [math]9.464[/math] এবং [math]2.536[/math]) — এগুলোর গড় [math]6[/math] এবং গুণফল [math]24[/math]।
+
+দ্রষ্টব্য: প্রদত্ত "সঠিক উত্তর: ৪ এবং ৬" এই সমস্যার শর্তের সঙ্গে মিলছে না, কারণ [math]4\times6=24[/math] সত্য হলেও তাদের গড় [math](4+6)/2=5[/math] হয়, যা প্রশ্নে দেওয়া গড় [math]6[/math] এর সাথে সঙ্গত নয়। যদি গড় সত্যিই [math]6[/math] হয়, সঠিক সংখ্যাগুলো হল উপরে পাওয়া [math]6\pm2\sqrt{3}[/math]।
+
+Explanation:
+[math]4\times 6=24[/math] তাই গুণফল শর্তটি পূরণ করে। কিন্তু গড় হচ্ছে [math](4+6)/2=5\neq6[/math], তাই উল্লিখিত শর্ত দুটোই পূরণ করে না; প্রকৃত সমাধান হলে সংখ্যাগুলি হল [math]6\pm2\sqrt{3}[/math] (প্রায় [math]9.464[/math] ও [math]2.536[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #146 (ID: 33964)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যদি দুটি সংখ্যা ৬ এবং ৮ হয়, তাহলে এগুলোর গ.সা.গু ও ল.সা.গু নির্ণয় করতে হবে। তাদের মধ্যে কোনটি বড়?
+
+Options:
+
+
+Correct Answer: গ.সা.গু হলো 2 এবং ল.সা.গু হলো 24; ল.সা.গু বড়।
+
+Solution:
+সমাধান:
+
+প্রক্রিয়া ও প্রধান ধাপগুলো:
+
+Step 1 — মৌল গুণকরণ (prime factorization):
+[math]6 = 2 \times 3[/math]  
+[math]8 = 2^3[/math]
+
+Step 2 — গ.সা.গু (GCD) নির্ণয়:
+সামঞ্জস্যপূর্ণ মৌলগুণকগুলোর নূন্যতম ঘাত নিয়ে গ.সা.গু পাওয়া হয়। এখানে সাধারণ মৌল হল [math]2[/math] এবং নূন্যতম ঘাত [math]2^1[/math]। তাই
+[math]\gcd(6,8) = 2[/math]
+
+Step 3 — ল.সা.গু (LCM) নির্ণয়:
+প্রতিটি মৌলগুণকের সর্বোচ্চ ঘাত নিয়ে ল.সা.গু পাওয়া হয়। এখানে সর্বোচ্চ ঘাতগুলো হলো [math]2^3[/math] ও [math]3^1[/math], ফলে
+[math]\mathrm{lcm}(6,8) = 2^3 \times 3 = 8 \times 3 = 24[/math]
+
+যাচাই (ঐচ্ছিক): গ.সা.গু ও ল.সা.গু সম্পর্কের সূত্র
+[math]\gcd(a,b)\times\mathrm{lcm}(a,b)=a\times b[/math] প্রয়োগ করলে
+[math]2\times24 = 48 = 6\times8[/math], ফলে ফল সঠিক।
+
+ক গ.সা.গু হলো [math]2[/math]  
+খ ল.সা.গু হলো [math]24[/math]  
+গ ল.সা.গু বড়।
+
+Explanation:
+ব্যাখ্যা: ৬ ও ৮ এর গুণনীয়কগুলো [math]6:1,2,3,6\quad 8:1,2,4,8[/math] হওয়ায় সাধারণ বৃহত্তম গুণনীয়ক (গ.সা.গু) হল [math]2[/math]. ল.সা.গু সূত্রে পাওয়া যায় [math]\mathrm{lcm}(6,8)=\dfrac{6\times8}{2}=24[/math], তাই ল.সা.গু বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #147 (ID: 28969)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির সাহায্যে গুণনীয়ক ও গুণিতক নির্ণয় করার প্রক্রিয়া কীভাবে সম্পন্ন হয়?
+
+Options:
+
+
+Correct Answer: গুণনীয়ক এবং গুণিতকের মৌলিক উৎপাদক বের করে
+
+Solution:
+সমাধান:
+
+উত্তরধারা (সাধারণ পদ্ধতি)
+1. সাধারণ গুণনীয়ক বের করা: প্রথমে প্রতিটি পদে কোন সাধারণ গুণনীয়ক (common factor) আছে কিনা দেখুন এবং সেটি বাইরে নামান। উদাহরণ: [math]6x^2+9x=3x(2x+3)[/math]।
+2. আলজেব্রিক সূত্র প্রয়োগ করুন: পরিচিত পরিচয়গুলো ব্যবহার করুন—  
+   - পারফেক্ট স্কয়ার ট্রিনোমিয়াল: [math]a^2\pm2ab+b^2=(a\pm b)^2[/math]  
+   - বর্গের পার্থক্য: [math]a^2-b^2=(a-b)(a+b)[/math]  
+   - ঘনের যোগ/বিয়োগ: [math]a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2)[/math]
+3. গ্রুপিং পদ্ধতি: সমান বা মিলযুক্ত গ্রুপে ভাগ করে প্রতিটি গ্রুপ থেকে সাধারণ গুণনীয়ক তুলে নিয়ে সাধারণ অভিন্ন ফ্যাক্টর বের করুন।
+4. রুট বা শূন্যস্থান ব্যবহার: পলিনোমিয়ালে ফ্যাক্টর থিওরেম ব্যবহার করে সম্ভাব্য রুট (যেমন ধ্রুবক বিন্যাসের বিভাজক) পরীক্ষা করে রুট পেলে সিনথেটিক ডিভিশন/লং ডিভিশন করে লিনিয়ার বা উচ্চস্তরের ফ্যাক্টরে ভাঙুন।
+5. মৌলিক উৎপাদক পর্যন্ত ভাঙুন: শেষ পর্যন্ত যতটা সম্ভব অবিভাজ্য (irreducible) গুণনীয়ক পর্যন্ত ভাঙুন — এটিই গুণনীয়ক ও গুণিতক নির্ণয়ের লক্ষ্য।
+
+প্রমাণসাহায্যী উদাহরণসমূহ (সংক্ষিপ্ত)
+উদাহরণ ১ — পারফেক্ট কিউব ও গ্রুপিং:
+[math]2x^3+4x^2-2x-4[/math]  
+ধাপ 1: সাধারণ গুণনীয়ক 2 তুলে নিন: [math]2(x^3+2x^2-x-2)[/math]  
+ধাপ 2: গ্রুপিং: [math]2[(x^3+2x^2)-(x+2)]=2[x^2(x+2)-1(x+2)][/math]  
+ধাপ 3: সাধারণ ফ্যাক্টর নিন: [math]2(x+2)(x^2-1)[/math]  
+ধাপ 4: [math]x^2-1[/math] কে বর্গের পার্থক্য হিসেবে ভাঙুন: [math]2(x+2)(x-1)(x+1)[/math] — এখানে মৌলিক উৎপাদকগুলো হল [math]2,\,x+2,\,x-1,\,x+1[/math]।
+
+উদাহরণ ২ — কিউব যোগ:
+[math]x^3+8[/math] = [math]x^3+2^3[/math]  
+সূত্র প্রয়োগ করে: [math](x+2)(x^2-2x+4)[/math] — এখানেই মৌলিক উৎপাদক (দ্বিতীয় পদটি প্রাথমিকভাবে অবিভাজ্য)।
+
+যুক্তি/কারণ
+- উপরের ধাপগুলো বাস্তবে গুণনীয়ক নির্ণয়ের মানদণ্ড: সাধারণ গুণনীয়ক যেমন প্রাথমিক সরলীকরণ দেয়, আলজেব্রিক পরিচয় দ্রুত কিছু জটিল বহুপদীকে সরাসরি গুণনে বিভক্ত করে, গ্রুপিং এবং ফ্যাক্টর থিওরেম রুট-বিশ্লেষণে সাহায্য করে।  
+- চূড়ান্ত লক্ষ্য সব পদকে এমনভাবে ভাঙা যাতে প্রতিটি গুণনীয়ক আর ভাগ করা না যায় (মৌলিক উৎপাদক) — এটি গুণনীয়ক ও গুণিতক নির্ণয়ের মূল অর্থ।
+
+সংক্ষিপ্ত সারমর্ম: প্রথমে সাধারণ গুণনীয়ক বের করুন, পরে উপযুক্ত আলজেব্রিক সূত্র (বর্গের পার্থক্য, পারফেক্ট স্কয়ার, ঘন যোগ/বিয়োগ) বা গ্রুপিং/ফ্যাক্টর থিওরেম ব্যবহার করে ধাপে ধাপে ভেঙে মৌলিক উৎপাদক পর্যন্ত পৌঁছান।
+
+Explanation:
+বীজগণিতীয় সূত্রাবলি ব্যবহার করে কোনো বহুপদী বা রাশিকে পরিচিত রূপে (যেমন বর্গের পার্থক্য, পরিপূরক বর্গসমিক, কিউবের যোগ/বিয়োগ ইত্যাদি) রূপান্তর করে তাকে সহজ গুণফল হিসেবে লিখা যায়। এতে করে মূল বা অপরিবর্তনীয় গুণনীয়কগুলো (মৌলিক উৎপাদক) ধরা পড়ে, তাই গুণনীয়ক ও গুণিতক নির্ণয় করা সম্ভব হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #148 (ID: 12726)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলির প্রয়োগের মাধ্যমে উৎপাদক বিশ্লেষণ কিভাবে করা হয়?
+
+Options:
+
+
+Correct Answer: উৎপাদক বিশ্লেষণ করতে হলে, বীজগণিতীয় সূত্রাবলির সাহায্যে রাশিগুলোকে পর্যায়ক্রমে বিশ্লেষণ করতে হয়।
+
+Solution:
+সমাধান:
+
+উৎপাদক বিশ্লেষণ (factorization) করার সাধারণ পদ্ধতি ও নীতিমালা হল ধাপে ধাপে বহুপদীকটির গঠন চিন্হিত করে উপযুক্ত বীজগণিতীয় সূত্র বা কৌশ্য প্রয়োগ করা। মূল ধাপগুলো এবং প্রাথমিক সূত্রসমূহ নিচে সংক্ষেপে দেওয়া হলো।
+
+ধাপ ১ — সাধারণ গুণক বের করা:
+প্রথমেই প্রতিটি পদে সাধারণ গুণক (গ.সা.গুণক) আছে কি না দেখে বের করতে হবে।
+উদাহরণ: [math]6x^2+9x=3x(2x+3)[/math]
+
+ধাপ ২ — পার্থক্যবর্গ সূত্র (Difference of squares):
+ধরা যেতে পারে যদি দুইটি বর্গের পার্থক্য থাকে।
+সূত্র: [math]a^2-b^2=(a-b)(a+b)[/math]
+উদাহরণ: [math]x^2-9=(x-3)(x+3)[/math]
+
+ধাপ ৩ — সম্পূর্ণবর্গ সূত্র (Perfect square trinomial):
+যখন তিন পদসহ একটি পদসূচক হলো একটি সম্পূর্ণ বর্গের রূপ।
+সূত্র: [math]a^2\pm 2ab + b^2=(a\pm b)^2[/math]
+উদাহরণ: [math]x^2+6x+9=(x+3)^2[/math]
+
+ধাপ ৪ — ঘনফলের যোগ-বিয়োগ (Sum/Difference of cubes):
+সূত্র: [math]a^3+b^3=(a+b)(a^2-ab+b^2)][/math] এবং [math]a^3-b^3=(a-b)(a^2+ab+b^2)[/math]
+উদাহরণ: [math]x^3-8=(x-2)(x^2+2x+4)[/math]
+
+ধাপ ৫ — দ্বিঘাত বহুপদী (Quadratic) বিশ্লেষণ:
+সাধারণ রূপ [math]ax^2+bx+c[/math] হলে মূলগুলো খুঁজে এনে লিখতে হয় [math]a(x-r_1)(x-r_2)[/math] বা সরাসরি অংকিতভাবে বিভাজন করে।
+উদাহরণ: [math]2x^2+5x+2=(2x+1)(x+2)[/math]
+
+ধাপ ৬ — গোষ্ঠীভিত্তিক বিশ্লেষণ (Factor by grouping):
+চার বা ততোধিক পদ থাকলে গোষ্ঠী করে সাধারণ গুণক বের করা যায়।
+উদাহরণ: [math]x^3+3x^2+2x+6=x^2(x+3)+2(x+3)=(x+3)(x^2+2)[/math]
+
+ধাপ ৭ — উপস্থাপন (Substitution) পদ্ধতি:
+উচ্চক্রমের বহুপদীর ক্ষেত্রে একটি উপযোগী পরিবর্তন (যেমন [math]y=x^2[/math]) করে সহজ বহুপদী বিশ্লেষণ করা যায়।
+উদাহরণ: [math]x^4-5x^2+4[/math] এ [math]y=x^2[/math] নিলে [math]y^2-5y+4=(y-1)(y-4)[/math], ফিরে গিয়ে [math](x^2-1)(x^2-4)=(x-1)(x+1)(x-2)(x+2)[/math]
+
+ধাপ ৮ — যাচাই:
+শেষে গুণ করে (expand) পরীক্ষা করে নিতে হবে যে পাওয়া উৎপাদক ঠিক আছে কি না। এছাড়া সবসময় সর্বপ্রথম সাধারণ গুণক বের করা ভুল কমায়।
+
+সিদ্ধান্তগত কৌশল ও যুক্তি:
+- প্রথমেই সরলীকরণ ও সাধারণ গুণক খুঁজো — এটি সমস্যার জটিলতা অনেক কমায়।
+- বহুপদীর কাঠামো দেখে কোন সূত্র প্রযোজ্য (বর্গ, ঘন, গোষ্ঠীভিত্তিক ইত্যাদি) তা নির্ণয় করো।
+- প্রয়োজনে উপস্থাপন করে ডিগ্রি কমাও এবং পরে উল্টা বদলি করে মূল উপাদানগুলো বের করো।
+- শেষের ফল পরীক্ষা করে নিশ্চিত হও (প্রসারণ করে মূল বহুপদী ফিরে আসে কি না)।
+
+উপরে বর্ণিত ধাপগুলো অনুসরণ করলে বীজগণিতীয় সূত্রাবলির সাহায্যে উৎপাদক বিশ্লেষণ কার্যকরভাবে করা যায়।
+
+Explanation:
+ব্যাখ্যা: উত্তরটি সঠিক কারণ বীজগণিতীয় সূত্রাবলি (যেমন পার্থক্যের বর্গ, পরিপূর্ণ বর্গ, ঘন ঘাতের সূত্র ইত্যাদি) ব্যবহার করে জটিল রাশিকে পরিচিত প্যাটার্নে ভেঙে পর্যায়ক্রমে উৎপাদক করা যায়। মূল ধারণা হল সংগ্রহীয় গুণফ্যাক্টর বের করা এবং উপযুক্ত সূত্র প্রয়োগ করে প্রদত্ত বহুপদকে ছোট ছোট গুণকের গুণ হিসাবে প্রকাশ করা। কাজটি করতে আগে প্যাটার্ন চিহ্নিত করে সংশ্লিষ্ট সূত্র বারবার প্রয়োগ করতে হয় যতক্ষণ না সম্পূর্ণ উৎপাদক পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #149 (ID: 9878)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রাবলি কি?
+
+Options:
+
+
+Correct Answer: বীজগণিতীয় প্রতীক দ্বারা প্রকাশিত সাধারণ নিয়ম বা সিদ্ধান্ত
+
+Solution:
+সমাধান:
+পদ্ধতি ও সংজ্ঞা — সংক্ষেপে বললে, বীজগণিতীয় সূত্রাবলি হলো বীজগণিতের প্রতীক ব্যবহার করে প্রকাশিত সাধারণ নিয়ম, পরিচিত পরিচয় বা সিদ্ধান্ত যা সংখ্যা-চিহ্ন ও চলকের ওপর প্রযোজ্য। এগুলো সূত্রগতভাবে সমীকরণ সরলীকরণ, গণিতীয় প্রমাণ এবং সমাধান পাওয়ার কাজ সহজ করে।
+
+প্রয়োজনীয় ধাপ ও ধারণাসমূহ:
+1. সংজ্ঞা: বীজগণিতীয় সূত্রাবলি হল এমন অভিব্যক্তি যা স্থাণীয় নিয়ম বা সম্পর্ককে সাধারণীকরণ করে। উদাহরণ: গুণফল, সম্প্রসারণ, পরিচিত পরিচয় ইত্যাদি।
+2. মূল নীতিসমূহ: সূত্রগুলো সাধারণত যোগ-বিয়োগ, গুণ-ভাগ, বর্গ, ঘাত, বিতরণীয়তা ইত্যাদি বীজগণিতীয় নিয়ম থেকে উদ্ভূত হয় এবং প্রমাণযোগ্য হয়।
+3. ব্যবহারের ক্ষেত্র: সমীকরণ সমাধান, বহুপদী সরলীকরণ, পরিচয় প্রমাণ, প্রকৌশল ও বিজ্ঞানে গাণিতিক মডেল লাগাতে এসব সূত্র ব্যবহার করা হয়।
+4. যুক্তিসঙ্গত প্রমাণ: প্রতিটি সূত্র সাধারণত মৌলিক নিয়ম থেকে পর্যায়ক্রমে বের করে দেখানো যায় — তাই এটি সিদ্ধান্ত নয়, প্রমাণযোগ্য নিয়মাবলী।
+
+সংক্ষিপ্ত উদাহরণ (মানসিক স্পষ্টতার জন্য):
+- বর্গের সম্প্রসারণ:
+[math](a+b)^2=(a+b)(a+b)=a^2+ab+ba+b^2=a^2+2ab+b^2[/math]
+- বিবর্তনীয় পরিচিতি (যোগ-বিতরণীয়তা ব্যবহার):
+[math]a(b+c)=ab+ac[/math]
+- একটি সমাধানসূত্র (দ্ব ঘাতীয় সমীকরণের জন্য):
+[math]x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}[/math]
+
+ন্যূনতম উপসংহার: সংক্ষেপে, বীজগণিতীয় সূত্রাবলি হলো বীজগণিতীয় প্রতীকের মাধ্যমে প্রকাশিত সাধারণ নিয়ম বা সিদ্ধান্ত যা গণিতসমস্যা সমাধান ও বিশ্লেষণকে সহজ ও জেনারালাইজড করে।
+
+Explanation:
+ব্যাখ্যা: কারণ বীজগণিতীয় সূত্রাবলি হল প্রতীক ও চিহ্ন ব্যবহার করে প্রকাশিত সাধারণ নিয়ম বা সিদ্ধান্ত যা বিভিন্ন সম্পর্ক ও গণনা সংক্ষিপ্তভাবে দেখায়। এগুলোতে পরিবর্তনশীল ও ধ্রুবক ব্যবহার করে সার্বজনীনভাবে সম্পর্ক লেখা হয়, ফলে নির্দিষ্ট সংখ্যার বদলে প্রতীক রেখে বিভিন্ন ক্ষেত্রে সহজে প্রয়োগ করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #150 (ID: 9879)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রের সাহায্যে কোন ধারণাটি বিশ্লেষণ করা হয়?
+
+Options:
+
+
+Correct Answer: উৎ্পাদকের বিশ্লেষণ
+
+Solution:
+সমাধান:
+
+উত্তর: বীজগণিতীয় সূত্রের সাহায্যে মূলত কোনো বহুপদীকে গুণকের রূপে ভেঙে ফেলা — অর্থাৎ উৎ্পাদকের বিশ্লেষণ — করা হয়।
+
+পদ্ধতি ও যুক্তি:
+1. ধারণা: বীজগণিতীয় সূত্র বা পরিচিত পরিচিতি (যেমন পারফেক্ট স্কোয়ার, ডিফারেন্স অফ স্কোয়ার, কিউব সূত্র ইত্যাদি) মূলত বিস্তৃত রূপ থেকে গুণকগুলোর রূপ বের করে দিতে দেয়। ফলে বিস্তৃতভাবে থাকা বহুপদীকে সহজ গুণকের গুণফলে রূপান্তর করা যায়।  
+2. কার্যপ্রণালী (সাধারণ ধাপ):  
+   - ধাপ 1: প্রদত্ত অভিব্যক্তিতে কোনো পরিচিত ধাঁচ খুঁজে বের করা (যেমন [math]a^2-b^2[/math], [math]a^2+2ab+b^2[/math], বা [math]x^2+px+q[/math])।  
+   - ধাপ 2: উপযুক্ত বীজগণিতীয় সূত্র প্রয়োগ করে বহুপদীকে গুণকে রূপান্তর করা।  
+   - ধাপ 3: প্রয়োজন হলে সাধারণ গুণফল বা সাধারণ গুণনীয়ক (common factor) বের করে আগে সেটি ভাগ করা।  
+
+প্রাসঙ্গিক সূত্র (সংক্ষেপে):  
+- পারফেক্ট স্কোয়ার: [math]a^2+2ab+b^2=(a+b)^2[/math] এবং [math]a^2-2ab+b^2=(a-b)^2[/math].  
+- ডিফারেন্স অফ স্কোয়ার: [math]a^2-b^2=(a-b)(a+b)[/math].  
+- সাধারণ ত্রিঘাতীয় (quadratic) গুণকরণ: যদি [math]x^2+px+q[/math] হলে উপযোগী দুই সংখ্যার যোগ [math]p[/math] ও গুণফল [math]q[/math] অনুযায়ী ভাগ করা।  
+
+সংক্ষিপ্ত উদাহরণ (মূল কার্যপ্রণালী বোঝাতে):  
+- উদাহরণ 1: [math]x^2-y^2[/math] — চিনে নেওয়া যায় এটি ডিফারেন্স অফ স্কোয়ার, ফলে [math]x^2-y^2=(x-y)(x+y)[/math].  
+- উদাহরণ 2: [math]x^2+5x+6[/math] — দুটি সংখ্যা খুঁজে নিতে হবে যাদের যোগ 5 এবং গুণফল 6; তা হল 2 ও 3, ফলে [math]x^2+5x+6=(x+2)(x+3)[/math].  
+
+উপসংহার: বীজগণিতীয় সূত্র ব্যবহার করে আমরা বহুপদীকে তার গুণকের রূপে বিশ্লেষণ করি—এটিই উৎ্পাদকের বিশ্লেষণ।
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় সূত্রগুলি যে বহুপদীকে উপগুণিতাংশে ভাগ করা যায় তা দেখায়, তাই সেগুলোকে ব্যবহার করে কোনো বহুপদীর উৎ্পাদকে বিশ্লেষণ (ফ্যাক্টরাইজেশন) করা যায়। এটি মূল বা সমাধান নির্ণয় এবং বহুপদীকে সরলীকরণে সাহায্য করে।
+
+Sub-Questions:
+
+================================================================================
+Question #151 (ID: 9880)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+গণিতে গুণনীয়ক ও গুণিতক কি?
+
+Options:
+
+
+Correct Answer: গুণনীয়ক হলো যে সংখ্যা দ্বারা গুণ হচ্ছে এবং গুণিতক হলো ফলাফল
+
+Solution:
+সমাধান:
+
+উত্তর দানের ধরন — সংজ্ঞা ও উদাহরণ ব্যবহার করে স্পষ্টভাবে বোঝানো।
+
+ধাপ ১ — সংজ্ঞা:
+- গুণনীয়ক: যে সংখ্যা(গুলি) দ্বারা গুণ করা হচ্ছে, সেই সংখ্যাগুলোকে গুণনীয়ক বলা হয়।  
+- গুণিতক: গুণের ফলাফলকে গুণিতক বলা হয়।
+
+ধাপ ২ — সাধারণ রূপ দিয়ে দেখানো:
+যদি আমরা লিখি [math]a × b = c[/math], তাহলে [math]a[/math] ও [math]b[/math] হলো গুণনীয়ক এবং [math]c[/math] হলো গুণিতক।
+
+ধাপ ৩ — উদাহরণ (সংক্ষিপ্ত ও কার্যকর):
+উদাহরণ: [math]4 × 5 = 20[/math] — এখানে [math]4[/math] ও [math]5[/math] গুণনীয়ক, আর [math]20[/math] গুণিতক।
+
+ধাপ ৪ — সংক্ষিপ্ত বৈশিষ্ট্য (বুঝতে সুবিধার জন্য):
+- গুণনীয়ক পর্যায়ক্রমে পরিবর্তন করলে গুণিতক অপরিবর্তিত (কমিউটেটিভিটি): [math]a × b = b × a[/math]। তাই কোনো সংখ্যাও গুণনীয়ক হিসেবে ভূমিকা নিতে পারে।
+- বিশেষ সংখ্যা: [math]1[/math] দ্বারা গুণ করলে গুণিতকটি মূল সংখ্যা থাকে (গুণনীয়কের পরিচিত ভূমিকা), আর [math]0[/math] দ্বারা গুণ করলে গুণিতক [math]0[/math] হয়।
+
+সংক্ষেপে: গুণনীয়ক হলো গুণে অংশগ্রহণকারী সংখ্যা(গুলি) এবং গুণিতক হলো সেই গুণের ফলাফল।
+
+Explanation:
+ব্যাখ্যা: গুণনীয়ক হলো যে সংখ্যা দ্বারা অন্য সংখ্যা গুণ করা হয়। গুণিতক হলো গুণের ফল; উদাহরণ: [math]2 × 3 = 6[/math]-এ 2 ও 3 গুণনীয়ক এবং 6 গুণিতক।
+
+Sub-Questions:
+
+================================================================================
+Question #152 (ID: 9881)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+গণিতীয় সূত্রের মাধ্যমে রাশির বর্গ নির্ণয় করা হয় কিভাবে?
+
+Options:
+
+
+Correct Answer: প্রথম রাশির বর্গ এবং দ্বিতীয় রাশির বর্গের যোগফল
+
+Solution:
+সমাধান:
+
+ধারণা ও নীতি:
+- যে কোনও দ্বি-আয়ামী রাশি (যেমন জটিল সংখ্যা [math]z=a+bi[/math] বা ভেক্টর [math]\vec v=(x,y)[/math])–এর বর্গ মানে হলোその রাশির দৈর্ঘ্যের বর্গ। এটি পিথাগোরাশের সূত্র অনুযায়ী বা ডট প্রোডাক্টের মাধ্যমে নির্ণয় করা যায়।
+
+পর্যায়ক্রমিক পদ্ধতি:
+1. রাশির উপাদানগুলো নির্ণয় করো — প্রথম উপাদানকে [math]a[/math] (বা [math]x[/math]) এবং দ্বিতীয় উপাদানকে [math]b[/math] (বা [math]y[/math]) ধরা হবে।
+2. প্রতিটি উপাদানকে বর্গ করো — অর্থাৎ [math]a^2[/math] এবং [math]b^2[/math] (অথবা [math]x^2[/math] এবং [math]y^2[/math])।
+3. সেই দুইটি বর্গের যোগফল নাও — ফলাফল হবে রাশির বর্গ: [math]a^2+b^2[/math] (অথবা [math]x^2+y^2[/math])।
+
+সুতরাং সূত্র:  
+- জটিল সংখ্যার ক্ষেত্রে: [math]|z|^2=a^2+b^2[/math] যেখানে [math]z=a+bi[/math]।  
+- ভেক্টরের ক্ষেত্রে: [math]||\vec v||^2=x^2+y^2[/math] যেখানে [math]\vec v=(x,y)[/math] বা সাধারণভাবে [math]||\vec v||^2=\vec v\cdot\vec v[/math]।
+
+সংক্ষিপ্ত উদাহরণ (প্রয়োজনীয়তা অনুযায়ী):
+- যদি [math]z=3+4i[/math], তাহলে [math]|z|^2=3^2+4^2=9+16=25[/math]।  
+- যদি [math]\vec v=(3,4)[/math], তাহলে [math]||\vec v||^2=3^2+4^2=25[/math]।
+
+লজিক: উপরের পদ্ধতি পিথাগোরাস সূত্র বা ভেক্টর ডট প্রোডাক্টের ভিত্তিতে সরাসরি প্রমাণিত — দুই ঘনফলের যোগফলই ঐ রাশির বর্গ দেয়।
+
+Explanation:
+কারণ দুটি অংশবিশিষ্ট রাশির মোট বর্গ পিথাগোরাস সূত্র অনুযায়ী প্রতিটি অংশের বর্গের যোগফল। উদাহরণস্বরূপ, রাশি যদি [math](x,y)[/math] অথবা জটিল সংখ্যা [math]a+bi[/math] হয়, তবে তার বর্গ হবে [math]x^2+y^2[/math] বা [math]a^2+b^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #153 (ID: 9882)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+গ.সা.গু. নির্ণয়ের জন্য কী প্রয়োজন?
+
+Options:
+
+
+Correct Answer: প্রদত্ত রাশিগুলোর সাংখ্যিক সহগের গ.সা.গু.
+
+Solution:
+সমাধান:
+
+গ গ.সা.গু. নির্ণয়ের জন্য দরকার—প্রদত্ত রাশিগুলোর সাংখ্যিক সহগগুলোর গ.সা.গু.
+
+পদ্ধতি ও ধাপসমূহ:
+1. রাশি(গুলি) থেকে প্রতিটি টার্মের সাংখ্যিক সহগগুলো আলাদা করো (কোনো টারের সহগ শূন্য হলে সেটি বিবেচনা করো)।
+2. সহগগুলোর মানগুলোর পরমাপেক্ষা (absolute value) নাও, কারণ গ.সা.গু. ধনাত্মক ধরা হয়।
+3. সংখ্যাগুলোয়ের গ.সা.গু. নির্ণয় করো — সহজভাবে ইউক্লিডীয় অ্যালগরিদম ব্যবহার করে:
+   - উদাহরণ: যদি সহগগুলো হয় [math]6,\ -15,\ 9[/math], তাহলে absolute মান [math]6,\ 15,\ 9[/math]।
+   - প্রথমে [math]\gcd(15,6)=\gcd(6,15\bmod6)=\gcd(6,3)=3[/math]।
+   - এরপর [math]\gcd(3,9)=3[/math]। সুতরাং মোট গ.সা.গু = [math]3[/math]।
+4. সেই গ.সা.গু.কে রাশিগুলো থেকে সরিয়ে দিলে রাশিগুলোকে সর্বাধিক সাধারণ সংখ্যাগত গুণফল হিসেবে বের করা যায় (প্রয়োজন হলে ফ্যাক্টর করা)।
+
+সংক্ষিপ্ত উদাহরণ (প্রাসঙ্গিকতা সংরক্ষণে):
+রাশি [math]6x^2-15x+9[/math] এর সহগগুলো [math]6,\ -15,\ 9[/math] -> absolute মান [math]6,15,9[/math] -> গ.সা.গু = [math]3[/math] -> রাশিটি লেখা যায় [math]3(2x^2-5x+3)[/math]।
+
+ব্যাখ্যা: রাশির ভেতরের চলক ও ঘাতাংশ গ.সা.গু নির্ধারণে প্রভাব ফেলে না; শুধুমাত্র সাংখ্যিক সহগগুলোই বিবেচ্য।
+
+Explanation:
+কারণ বীজগণিতিক রাশির গ.সা.গু. নির্ণয় করতে সংখ্যিক সহগ এবং চলক অংশ আলাদাভাবে দেখা হয়, তাই সংখ্যিক অংশগুলোর গ.সা.গু. জানা আবশ্যক। উদাহরণস্বরূপ, [math]\gcd(6x^2,9x)=\gcd(6,9)\times x=3x[/math], এখানে সংখ্যিক অংশের গ.সা.গু. হচ্ছে [math]3[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #154 (ID: 9883)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+ল.সা.গু. কি?
+
+Options:
+
+
+Correct Answer: দুটি বা ততোধিক সংখ্যার সাধারণ গুণিতকগুলোর মধ্যে সবচেয়ে ছোটো
+
+Solution:
+সমাধান:
+ল.সা.গু. (লঘিষ্ঠ সাধারণ গুণিতক) বলতে বোঝায় দুটি বা ততোধিক সংখ্যার সাধারণ গুণিতকগুলোর মধ্যে সবচেয়ে ছোট ধনাত্মক সংখ্যা। খোলাখুলিভাবে: একটি সংখ্যা ল.সা.গু. হলে তা সব প্রদত্ত সংখ্যাকে বিভাজ্য হবে এবং অন্য কোনো ছোট ধনাত্মক সংখ্যাও সবগুলোকে বিভাজ্য করতে পারবে না।
+
+পদ্ধতি ও মূলসিদ্ধান্ত:
+1. মৌলিক চিন্তা: ল.সা.গু. পাওয়ার সহজ উপায় হল প্রতিটি সংখ্যার মৌলিক গুণনীয়ক (prime factorization) বের করে প্রতিটি মৌলিক সংখ্যার সর্বোচ্চ ঘাত নিতে হবে, তারপর সেগুলোর গুণফল হবে ল.সা.গু.
+2. বিকল্প সূত্র (দুটি সংখ্যার জন্য): 
+   [math]\text{lcm}(a,b)=\frac{|a\cdot b|}{\gcd(a,b)}[/math]
+   যেখানে [math]\gcd(a,b)[/math] হলো বৃহৎ সাধারণ গুণকারী।
+
+উদাহরণ (মূল যুক্তি প্রদর্শনের জন্য):
+সংখ্যা 12 ও 18-এর ল.সা.গু. বের করি।
+- মৌলিক গুণনীয়করণ: [math]12=2^2\cdot 3[/math], [math]18=2\cdot 3^2[/math]
+- প্রতিটি মৌলিক সংখ্যার সবচেয়ে বড় ঘাত নিলেই হয়: [math]2^{2}[/math] এবং [math]3^{2}[/math]
+- তাই ল.সা.গু. = [math]2^2\cdot 3^2=4\cdot 9=36[/math]
+
+বা সূত্র ব্যবহার করে:
+- [math]\gcd(12,18)=6[/math]
+- [math]\text{lcm}(12,18)=\dfrac{12\cdot 18}{6}=\dfrac{216}{6}=36[/math]
+
+সংক্ষিপ্তভাবে: ল.সা.গু. হল দুটি বা ততোধিক সংখ্যার সাধারণ গুণিতকগুলোর মধ্যে সবচেয়ে ছোটো। সংখ্যা বের করার সাধারণ উপায় — মৌলিক গুণনীয়করণে প্রতিটি মৌলিক সংখ্যার সর্বোচ্চ ঘাত নেওয়া।
+
+Explanation:
+ব্যাখ্যা: ল.সা.গু. হলো দুটি বা ততোধিক সংখ্যার সাধারণ গুণিতকগুলোর মধ্যে সবচেয়ে ছোট ধনাত্মক সংখ্যা, অর্থাৎ যে সংখ্যাটি সবগুলো সংখ্যাকে নিঃশেষে ভাগ করে। এটি পাওয়া যায় প্রতিটি সংখ্যার গুণিতকগুলো লেখে সাধারণগুলোর মধ্যে সবচেয়ে ছোটটি বেছে নিয়ে অথবা সংখ্যাগুলোর মৌলিক গুণকের সর্বোচ্চ ঘাত নিয়ে গুণ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #155 (ID: 9884)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় রাশির গুণফল নির্ণয় করতে কি পদ্ধতি ব্যবহৃত হয়?
+
+Options:
+
+
+Correct Answer: গুণের বল্টনবিধি
+
+Solution:
+সমাধান:
+উত্তরপ্রক্রিয়া: বীজগণিতীয় রাশির গুণফল নির্ণয়ের জন্য "গুণের বল্টনবিধি" (অর্থাৎ গুণের বন্টনবিধি — distributive law) ব্যবহার করা হয়। এ বিধি বলে যে একটি পদকে যোগফলের উপর গুণ করলে প্রতিটি পদকে আলাদা করে গুণ করে যোগ করতে হবে: [math]a(b+c)=ab+ac[/math]।
+
+ধাপগুলো:
+1. প্রথম রাশির প্রতিটি পদকে দ্বিতীয় রাশির প্রতিটি পদ দ্বারা আলাদাভাবে গুণ করা (বন্টনবিধি প্রয়োগ) — অর্থাৎ "প্রতিটি-প্রতিরোধ" পদ্ধতি।  
+2. প্রাপ্ত সব গুণফলগুলো যোগ করা।  
+3. এক রকমের পদগুলোকে একত্র করে সরল করা (like terms মিলানো)।
+
+নির্দিষ্ট উদাহরণ (সংক্ষিপ্ত কাজ দেখিয়ে):
+উদাহরণ ১: [math](x+2)(x+3)[/math]  
+- প্রথম রাশির [math]x[/math] দ্বারা গুণ: [math]x(x+3)=x^2+3x[/math]  
+- প্রথম রাশির [math]2[/math] দ্বারা গুণ: [math]2(x+3)=2x+6[/math]  
+- যোগ করে সরল করা: [math]x^2+3x+2x+6=x^2+5x+6[/math]
+
+উদাহরণ ২ (বিশেষ নিয়ম — পার্থক্যের গুণ): [math](x+5)(x-5)=x^2-25[/math]  
+(কারণ [math](a+b)(a-b)=a^2-b^2[/math])
+
+সম্প্রসারণে প্রায়ই ব্যবহার্য বিশেষ সূত্রসমূহ:
+- [math](a+b)^2=a^2+2ab+b^2[/math]  
+- [math](a-b)^2=a^2-2ab+b^2[/math]  
+- [math](a+b)(c+d)=ac+ad+bc+bd[/math]
+
+সংক্ষেপে: বীজগণিতীয় রাশির গুণফল নির্ণয়ে গুণের বল্টনবিধি (বন্টনবিধি) প্রয়োগ করে প্রতিটি পদকে গুণ করা ও পরে like terms মিলিয়ে সরল করা হলো সঠিক পদ্ধতি।
+
+Explanation:
+ব্যাখ্যা: গুণের বল্টনবিধি ব্যবহার করা হয় কারণ এটি বীজগণিতীয় রাশিগুলির গুণফল নির্ণয়ের সরল ও নিয়মগত পদ্ধতি দেয়। এতে সহগগুলো গুণ করা হয় এবং একই ভিত্তিসম্পন্ন ঘাতগুলোর ঘাত যোগ করা হয়, উদাহরণস্বরূপ [math]x^a \cdot x^b = x^{a+b}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #156 (ID: 9885)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বর্গক্ষেত্রের ক্ষেত্রফল কিভাবে নির্ণয় করা হয়?
+
+Options:
+
+
+Correct Answer: বাহুর দৈর্ঘ্যের বর্গ দ্বারা
+
+Solution:
+সমাধান:
+
+সংজ্ঞা ও ধারণা: বর্গক্ষেত্র হলো চারটি সমদৈর্ঘ্য বাহু এবং প্রতিটি কোণ 90° হওয়া একটি চতুর্ভুজ। ছকে ক্ষেত্রফল নির্ণয়ের সাধারণ নীতি হল কোনো আয়তক্ষেত্রের মতোই — ভিত্তি × উচ্চতা।
+
+পদ্ধতি ও ধাপ:
+Step 1: ধরুন বর্গক্ষেত্রের একটি বাহুর দৈর্ঘ্য [math]a[/math]।  
+Step 2: বর্গক্ষেত্রটি একটি বিশেষ আকারের আয়তক্ষেত্র, তাই ক্ষেত্রফল = ভিত্তি × উচ্চতা। এখানে ভিত্তি ও উচ্চতা উভয়ই [math]a[/math]।  
+Step 3: ফলে ক্ষেত্রফল হবে [math]A = a \times a = a^2[/math]।
+
+একটি ছোট উদাহরণ (প্রয়োজনে): যদি বাহু হয় [math]5\ \text{cm}[/math], তবে ক্ষেত্রফল [math]A = 5 \times 5 = 25\ \text{cm}^2[/math]।
+
+উপসংহার: বর্গক্ষেত্রের ক্ষেত্রফল নির্ণয় করা হয় বাহুর দৈর্ঘ্যের বর্গ হিসেবে, অর্থাৎ [math]A = a^2[/math]।
+
+Explanation:
+ব্যাখ্যা: বর্গে চারটি বাহু সমান হওয়ায় ক্ষেত্রফল নির্ণয় করা হয় একটি বাহুকে আরেকটি বাহু দিয়ে গুণ করে। তাই যদি বাহুর দৈর্ঘ্য [math]s[/math] হয়, ক্ষেত্রফল হবে [math]A = s^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #157 (ID: 9886)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় রাশির উৎপাদক কি?
+
+Options:
+
+
+Correct Answer: যে সংখ্যা বা রাশি গুণফলে উৎপন্ন হয়েছে
+
+Solution:
+সমাধান:
+উৎপাদক বলতে বোঝায় যে সংখ্যা বা রাশি গুণফলে উৎপন্ন হয়েছে — অর্থাৎ গুণফলের ফলাফল। যদি দুটি রাশি [math]a[/math] এবং [math]b[/math] গুণ করা হয় এবং ফলাফল [math]c[/math] হয়, তাহলে
+[math]a \times b = c[/math]
+এখানে [math]c[/math] হলো উৎপাদক। উদাহরণস্বরূপ, [math]3 \times 4 = 12[/math] হলে [math]12[/math] উৎপাদক। সাধারণভাবে একাধিক রাশির গুণফলে যেটি আসে সেটিকেও উৎপাদক বলা হয় এবং গুণের আদেশ পরিবর্তিত হলেও উৎপাদক অপরিবর্তিত থাকে (গুণের যুগ্মতা)।
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় রাশির উৎপাদক হলো সেই সংখ্যা বা রাশি যা দুই বা ততোধিক রাশির গুণফলে পাওয়া যায়। উদাহরণস্বরূপ, [math]2×3=6[/math] এ [math]6[/math] উৎপাদক এবং [math]2×x=2x[/math] এ [math]2x[/math] উৎপাদক।
+
+Sub-Questions:
+
+================================================================================
+Question #158 (ID: 9887)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় সূত্রের সাহায্যে ভাজ্য, ভাজক, গুণনীয়ক, ও গুণিতক সম্পর্কে কি শেখানো হয়?
+
+Options:
+
+
+Correct Answer: আলোচনা ও বিশ্লেষণের মাধ্যমে
+
+Solution:
+সমাধান:
+
+উত্তর প্রধানত: আলোচনা ও বিশ্লেষণের মাধ্যমে। নীচে ধাপে ধাপে পদ্ধতি ও যুক্তি দেওয়া হল।
+
+ধারণা ও সূত্র:
+1. Division (ভাগ) সম্পর্কিত সূত্র: যদি [math]D[/math] ভাজ্য (dividend), [math]d[/math] ভাজক (divisor), [math]q[/math] ভাজক-ফল (quotient) এবং [math]r[/math] অবশিষ্টাংশ (remainder) হয়, তাহলে সাধারণভাবে বলি  
+   [math]D = d\cdot q + r,\quad 0 \le r < |d|.[math]  
+   এই সমীকরণটি বিশ্লেষণ করে ভাজ্য, ভাজক, ভাজক-ফল ও অবশিষ্টাংশের পারস্পরিক সম্পর্ক শেখানো হয়।
+
+2. Multiplication (গুণ) সম্পর্কিত সূত্র: যদি [math]a[/math] গুণনীয়ক (multiplicand), [math]b[/math] গুণক (multiplier) এবং [math]P[/math] গুণিতক/ফল (product) হয়, তখন  
+   [math]P = a\cdot b.[math]  
+   আলজেব্রিকভাবে ভেরিয়েবল ব্যবহার করে গুণের গুণনীয়ক, গুণক ও ফলের সম্পর্ক পরিষ্কার করা যায়।
+
+শিক্ষণ‑পদ্ধতি (আলোচনা ও বিশ্লেষণের ধাপসমূহ):
+1. ধারণা স্পষ্ট করা: প্রতিটি টার্মের সংজ্ঞা ও ভূমিকাও আলোচনা করা—কোনটি কোন প্রক্রিয়ার ইনপুট, কোনটি আউটপুট।
+2. সূত্র প্রবর্তন ও ডেরিভেশন: উপরের সমীকরণ (যেমন [math]D = d q + r[/math] ও [math]P = a b[/math]) ধারণাগতভাবে দেখানো ও ব্যাখ্যা করা।
+3. উদাহরণ বিশ্লেষণ: সংখ্যাগত উদাহরণ নিয়ে প্রতিটি অংশ নির্ধারণ করা — উদাহরণ: [math]17 ÷ 5[/math] এ [math]17 = 5×3 + 2[/math], তাই ভাজ্য=17, ভাজক=5, ভাজক-ফল=3, অবশিষ্টাংশ=2। গুণের উদাহরণ: [math]4×6=24[/math] এ গুণনীয়ক=4, গুণক=6, গুণিতক/ফল=24।
+4. গুণতত্ত্ব ও ভাগতত্ত্বের যুক্তিসঙ্গত বিশ্লেষণ: ভঙ্গুরতা (commutativity), শ্রেণিবিন্যাস (associativity), বন্টন বৈশিষ্ট্য (distributive law) ইত্যাদি সূত্র প্রয়োগ করে প্রতিটি অংশের আচরণ বিশ্লেষণ করা।
+5. সাধারণীকরণ ও অ্যালজেব্রিক চর্চা: ভেরিয়েবল দিয়ে সমস্যা সেট করে যাচাই—যেমন যদি [math]D,d[/math] জেনে [math]q[/math] বের করতে হয় কিংবা [math]a,b[/math] থেকে [math]P[/math] নিরুপণ করতে হয়, তখন উপরে দেওয়া সূত্র প্রয়োগ করে সমাধান দেখানো হয়।
+
+যুক্তি ও ফলাফল:
+- আলোচনা ও বিশ্লেষণের মাধ্যমে শিক্ষার্থীরা কেবল সংজ্ঞা নয়, ঐ সূত্রগুলোর পেছনের যুক্তি, সীমাবদ্ধতা (যেমন অবশিষ্টাংশের সীমা) এবং সূত্র প্রয়োগের কৌশলও আয়ত্ত করে।  
+- আলজেব্রিক রূপে সূত্র দেখানো হলে সাধারণীকরণ সহজ হয় এবং জটিল সমস্যা গুলোতে সূত্র প্রয়োগ করা যায়।
+
+সংক্ষেপে: বীজগণিতীয় সূত্রগুলিকে আলোচনা ও বিশ্লেষণের মাধ্যমে উপস্থাপন করলে ভাজ্য, ভাজক, গুণনীয়ক ও গুণিতকের সংজ্ঞা, সূত্রগত সম্পর্ক ও প্রয়োগ স্পষ্টভাবে শেখানো সম্ভব।
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় সূত্রগুলো সমীকরণ ও বহুপদ নিয়ে সম্পর্কগুলো স্পষ্টভাবে দেখায়, তাই ভাজ্য, ভাজক, গুণনীয়ক ও গুণিতকের বৈশিষ্ট্যগুলো আলোচনা ও বিশ্লেষণের মাধ্যমে বোঝানো হয়। সূত্র প্রয়োগ করে উদাহরণ বিশ্লেষণ করলে একেক অংশের ভূমিকা (কোনটি ভাজ্য, কোনটি ভাজক বা গুণিতক) সহজে চিহ্নিত করা যায়।
+
+Sub-Questions:
+

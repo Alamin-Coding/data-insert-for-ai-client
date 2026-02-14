@@ -1,0 +1,2692 @@
+================================================================================
+Question #1 (ID: 707413)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\triangle \mathrm{LMN}[/math] এর [math]\mathrm{MN}, \mathrm{NL}[/math] ও [math]\mathrm{LM}[/math] এর মধ্যবিন্দু যথাক্রমে [math]\mathrm{P}, \mathrm{Q}[/math] ও [math]\mathrm{R}[/math] এবং [math]\mathrm{MN}=14 \mathrm{cm}[/math]
+
+Options:
+ক. যদি কোন গোলকের ব্যাস [math]\mathrm{MN}[/math] হয় তবে তার পৃষ্টতলের ক্ষেত্রফল নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\overrightarrow{\mathrm{LP}}+\overrightarrow{\mathrm{MQ}}+\overrightarrow{\mathrm{NR}}=\underline{0}[/math]
+গ. ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]\text { R }[/math] বিন্দু দিয়ে অঙ্কিত [math]\text {MN}[/math] এর সমান্তরাল রেখা অবশ্যই [math]\text {Q}[/math] বিন্দুগামী হবে।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, গোলকের ব্যাস, [math]2r = 14[/math]
+ সে.মি.[math]r=\frac{14}{2}[/math]
+ গোলকের ব্যাসার্ধ, [math]r=\frac{14}{2}[/math]
+ সে.মি. [math]= 7[/math]
+ সে.মি.[math]\therefore[/math]
+ গোলকের পৃষ্ঠতলের ক্ষেত্রফল [math]=4 \pi r^{2}[/math]
+ বর্গ একক[math]=4 \times 3.1416 \times(7)^{2}[/math]
+ [math]=615.754[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+[math]\triangle \mathrm{LMP}[/math]
+-এ ত্রিভুজ সূত্র হতে পাই, [math]\overrightarrow{\mathrm{LP}}=\overrightarrow{\mathrm{LM}}+\overrightarrow{\mathrm{MP}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{LP}}=\overrightarrow{\mathrm{LM}}+\frac{1}{2} \overrightarrow{\mathrm{MN}}..........\text { (i) }[/math]
+[P, MN এর মধ্যবিন্দু বলে [math]\overrightarrow{\mathrm{MP}}=\frac{1}{2} \overrightarrow{\mathrm{MN}}][/math]
+ [math]\triangle \mathrm{LNR}[/math]
+-এ [math]\overrightarrow{\mathrm{LR}}=\overrightarrow{\mathrm{LN}}+\overrightarrow{\mathrm{NR}}[/math]
+ [math]\begin{array}{l}\therefore \overrightarrow{\mathrm{NR}}=\overrightarrow{\mathrm{LR}}-\overrightarrow{\mathrm{LN}} \\\therefore \overrightarrow{\mathrm{NR}}=\frac{1}{2} \overrightarrow{\mathrm{LM}}-\overrightarrow{\mathrm{LN}} \ldots \ldots \text { (ii) }\end{array}[/math]
+ [R, LM এর মধ্যবিন্দু বলে [math]\overrightarrow{\mathrm{LR}}=\frac{1}{2} \overrightarrow{\mathrm{LM}}[/math]
+]এবং [math]\triangle L M Q[/math]
+-এ [math]\overrightarrow{\mathrm{LQ}}=\overrightarrow{\mathrm{LM}}+\overrightarrow{\mathrm{MQ}}[/math]
+ [math]\Rightarrow \overrightarrow{\mathrm{MQ}}=\overrightarrow{\mathrm{LQ}}-\overrightarrow{\mathrm{LM}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{MQ}}=\frac{1}{2} \overrightarrow{\mathrm{LN}}-\overrightarrow{\mathrm{LM}}..........\text { (iii) }[/math]
+[Q, LN এর মধ্যবিন্দু বলে [math]\overrightarrow{\mathrm{LQ}}=\frac{1}{2} \overrightarrow{\mathrm{LN}}[/math]
+]এখন, (i), (ii) ও (iii) নং সমীকরণ যোগ করে পাই,[math]\overrightarrow{\mathrm{LP}}+\overrightarrow{\mathrm{NR}}+\overrightarrow{\mathrm{MQ}}=\overrightarrow{\mathrm{LM}}+\frac{1}{2} \overrightarrow{\mathrm{MN}}+\frac{1}{2} \overrightarrow{\mathrm{LM}}-\overrightarrow{\mathrm{LN}}+\frac{1}{2} \overrightarrow{\mathrm{LN}}-\overrightarrow{\mathrm{LM}}[/math]
+ [math]\Rightarrow \overrightarrow{\mathrm{LP}}+\overrightarrow{\mathrm{MQ}}+\overrightarrow{\mathrm{NR}}=\frac{1}{2} \overrightarrow{\mathrm{LM}}+\frac{1}{2} \overrightarrow{\mathrm{MN}}-\frac{1}{2} \overrightarrow{\mathrm{LN}}[/math]
+ [math]\begin{array}{l}=\frac{1}{2}(\overrightarrow{\mathrm{LM}}+\overrightarrow{\mathrm{MN}})-\frac{1}{2} \overrightarrow{\mathrm{LN}} \\=\frac{1}{2} \overrightarrow{\mathrm{LN}}-\frac{1}{2} \overrightarrow{\mathrm{LN}}=\underline{0}\end{array}[/math]
+ [math]\therefore \overrightarrow{\mathrm{LP}}+\overrightarrow{\mathrm{MQ}}+\overrightarrow{\mathrm{NR}}=\underline{0}[/math]
+ (প্ৰমাণিত) [math]\\[/math]
+ গ
+[Image]
+[math]\triangle \mathrm{LMN}[/math]
+ এর LM ও LN বাহুর মধ্যবিন্দু যথাক্রমে R ও Q। প্রমাণ করতে হবে যে, R বিন্দু দিয়ে অঙ্কিত MN রেখার সমান্তরাল রেখা অবশ্যই Q বিন্দুগামী হবে। Q, R যোগ করি। ইহা প্রমাণ করাই যথেষ্ট হবে যে, [math]\mathrm{QR} \| \mathrm{MN}[/math]
+ |প্রমাণ: ভেক্টর বিয়োগের ত্রিভুজবিধি অনুসারে,[math]\overrightarrow{\mathrm{LQ}}-\overrightarrow{\mathrm{LR}}=\overrightarrow{\mathrm{RQ}} \ldots \ldots \ldots \text { (i) }[/math]
+এবং [math]\overrightarrow{\mathrm{LN}}-\overrightarrow{\mathrm{LM}}=\overrightarrow{\mathrm{MN}} \ldots \ldots \ldots \text { (ii) }[/math]
+কিন্তু, [math]\overrightarrow{\mathrm{LN}}=2 \overrightarrow{\mathrm{LQ}} ; \overrightarrow{\mathrm{LM}}=2 \overrightarrow{\mathrm{LR}}[/math]
+ [ [math]\because[/math]
+ R, Q বিন্দু যথাক্রমে LM ও LN এর মধ্যবিন্দু।][math]\therefore[/math]
+ (ii) থেকে পাই,[math]2 \overrightarrow{\mathrm{LQ}}-2 \overrightarrow{\mathrm{LR}}=\overrightarrow{\mathrm{MN}}[/math]
+অর্থাৎ [math]2(\overrightarrow{\mathrm{LQ}}-\overrightarrow{\mathrm{LR}})=\overrightarrow{\mathrm{MN}}[/math]
+ [math]\therefore \quad 2 \overrightarrow{R Q}=\overrightarrow{M N}[/math]
+ [(i) থেকে][math]\therefore \quad \overrightarrow{R Q}=\frac{1}{2} \overrightarrow{M N}[/math]
+অতএব, RQ ও MN এর ধারকরেখা সমান্তরাল বা একই হবে।কিন্তু এখানে ধারকরেখা এক নয়।[math]\therefore \mathrm{RQ} \| \mathrm{MN}[/math]
+ [math]\therefore \quad \mathrm{R}[/math]
+ বিন্দু দিয়ে অঙ্কিত MN এর সমান্তরাল রেখা অবশ্যই Q বিন্দুগামী হবে। (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 707412)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+[math]\text {O}[/math] কেন্দ্রবিশিষ্ট একটি বৃত্তের ব্যাসার্ধ [math]\mathrm{OA}=3[/math] সে.মি. এবং উক্ত বৃত্তে অন্তর্লিখিত [math]\text { ABCD }[/math] চতুর্ভুজের [math]\text { AC}[/math] ও [math]\text {BD}[/math] দুইটি কর্ণ।
+
+Options:
+ক. [math]\text {O}[/math] কেন্দ্রবিশিষ্ট বৃত্তটির ব্যাসের সমান ব্যাসার্ধবিশিষ্ট একটি গোলকের আয়তন নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm{AC}.\mathrm{BD}=\mathrm{AB}.\mathrm{CD}+\mathrm{BC}.\mathrm{AD.}[/math]
+গ. একটি সমকোণী ত্রিভুজ অঙ্কন কর যার অতিভুজ উদ্দীপকে উল্লিখিত বৃত্তের ব্যাসের সমান এবং অপর দুই বাহুর অন্তর বৃত্তটির ব্যাসার্ধের সমান। [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]
+
+
+Correct Answer: 
+
+Solution:
+কO কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস [math]=2 \times 3=6[/math]
+ সে.মি.[math]\therefore[/math]
+ গোলকের ব্যাসার্ধ, r = 6 সে.মি.গোলকের আয়তন [math]=\frac{4}{3} \pi r^{3}[/math]
+ ঘন সে.মি.[math]=\frac{4}{3} \pi \cdot 6^{3}[/math]
+ [math]= 904.78[/math]
+ ঘন সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপাঠ্যবইয়ের অনুশীলনী-৩.২ এর উপপাদ্য-১২ দ্রষ্টব্য। পৃষ্ঠা-৭৬ [math]\\[/math]
+ গ
+[Image]
+অঙ্কনের বিবরণ:ধাপ ১: যেকোনো রশ্মি EF এর E বিন্দুতে [math]\angle \mathrm{FEN}=45^{\circ}[/math]
+ আঁকি ।ধাপ ২: এবার NE কে EB পর্যন্ত এমনভাবে বর্ধিত করি যেন EB = d হয়।ধাপ ৩: অতঃপর B বিন্দুকে কেন্দ্র করে a-এর সমান ব্যাসার্ধ নিয়ে একটি বৃত্তচাপ আঁকি যা EF-কে C বিন্দুতে ছেদ করে।ধাপ ৪: পরিশেষে, C বিন্দুতে EC এর সাথে [math]\angle \mathrm{ECA}=\angle \mathrm{CEN}[/math]
+ আঁকি যেন CA রেখা EN কে A বিন্দুতে ছেদ করে। তাহলে, [math]\triangle \mathrm{ABC}[/math]
+-ই উদ্দিষ্ট ত্রিভুজ হবে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 707411)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: RB
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও:
+
+
+[Image]
+
+
+চিত্রে [math]Q=7[/math] সে.মি. এবং [math]PR=6[/math] সে.মি.
+
+Options:
+ক. [math]PR[/math] এর সমান ব্যাসার্ধবিশিষ্ট একটি মার্বেলের আয়তন নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm{PQ}^2=\mathrm{PR}.\mathrm{PA}+\mathrm{QS}.\mathrm{QA}.[/math]
+গ. [math]PR[/math] এর সমান বাহুবিশিষ্ট একটি সুষম ষড়ভুজাকার প্রিজমের উচ্চতা [math]PQ[/math] এর সমান হলে এর সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,মার্বেলের ব্যাস, [math]2 \mathrm{r}=\mathrm{PR}=6[/math]
+ সে.মি.[math]\therefore[/math]
+ মার্বেলের ব্যাসার্ধ, r = 3 সে.মি.আমরা জানি, মার্বেলের আয়তন [math]=\frac{4}{3} \pi r^{3}[/math]
+ ঘন একক[math]=\frac{4}{3} \times 31416 \times(3)^{3}[/math]
+ ঘন সে.মি.[math]=113.098[/math]
+ ঘন সে.মি. [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+বিশেষ নির্বচন: দেওয়া আছে, PQ ব্যাসের ওপর PQRS একটি অর্ধবৃত্ত। PR ও OS জ্যাদ্বয় পরস্পর A বিন্দুতে ছেদ করেছে। প্রমাণ করতে হবে যে, [math]\mathrm{PQ}^{2}= \text { PR. PA +QS. QA }[/math]
+Iঅঙ্কন: S, R যোগ করি।প্রমাণ: [math]\triangle R A S[/math]
+ ও [math]\triangle \mathrm{PAQ}[/math]
+-এ[math]\angle A S R=\angle A P Q[/math]
+ [একই চাপ QR-এর ওপর অবস্থিত ][math]\angle \mathrm{SAR}=\angle \mathrm{PAQ}[/math]
+ [ বিপ্রতীপ কোণ বলে ]এবং [math]\angle A R S=\angle \mathrm{PQA}[/math]
+ [একই চাপ PS এর উপর অবস্থিত]ত্রিভুজ দুইটি সদৃশকোণী।[math]\therefore[/math]
+ ত্রিভুজদ্বয় সদৃশ।[math]\frac{P A}{S A}=\frac{Q A}{R A}[/math]
+ [math]\Rightarrow P A \cdot R A=Q A \cdot S A[/math]
+ [math]\Rightarrow[/math]
+ [math]{PA.RA + PA }{ }^{2}=\mathrm{QA} . \mathrm{SA}+\mathrm{PA}^{2}[/math]
+ [উভয়পক্ষে [math]\mathrm{PA}^{2}[/math]
+ যোগ করে ][math]\Rightarrow \mathrm{PA}(\mathrm{RA}+\mathrm{PA})=\mathrm{QA} . \mathrm{SA}+\mathrm{SA}^{2}+\mathrm{PS}^{2}[/math]
+ [ PQ ব্যস তাই [math]\angle \mathrm{PSA}=\angle \mathrm{PSQ}=90^{\circ} ;\therefore \mathrm{PA}^{2}=\mathrm{PS}^{2}+\mathrm{SA}^{2}[/math]
+][math]\Rightarrow \text { PA.PR }=\mathrm{SA}(\mathrm{QA}+\mathrm{SA})+\mathrm{PS}^{2}[/math]
+ [math]\Rightarrow \text { PA.PR }=\mathrm{SA} \cdot \mathrm{QS}+\mathrm{PQ}^{2}-\mathrm{QS}^{2}[/math]
+ [math]\quad[/math]
+ [ [math]\angle \mathrm{PSQ}=90^{\circ}[/math]
+ তাই [math]\triangle \mathrm{PQS}[/math]
+-এ [math]\mathrm{PQ}^{2}=\mathrm{PS}^{2}+\mathrm{QS}^{2}[/math]
+ বা, [math]\mathrm{PS}^{2}=\mathrm{PQ}^{2}-\mathrm{QS}^{2}[/math]
+][math]\begin{array}{l}\Rightarrow P A . P R=\mathrm{PQ}^{2}-\mathrm{QS}(\mathrm{QS}-\mathrm{SA})\\\Rightarrow {PA.PR } =P^{2}-Q S . Q A\end{array}[/math]
+ [math]\therefore \quad P^{2}=P A \cdot P R+Q S . Q A[/math]
+ (প্রমাণিত) [math]\\[/math]
+ গদেওয়া আছে,প্রিজমের ভূমি ষড়ভুজ যার প্রতিটি বাহুর দৈর্ঘ্য 6 সে.মি. এবং প্রিজমের উচ্চতা 7 সে.মি.আমরা জানি, n বাহুবিশিষ্ট সুষম বহুভুজের ক্ষেত্রফল[math]=n \times \frac{a^{2}}{4} \cot \frac{180^{\circ}}{n}[/math]
+ বর্গ একক[math]\therefore[/math]
+ প্রিজমটির ভূমির ক্ষেত্রফল [math]=6 \times \frac{6^{2}}{4} \cot \frac{180^{\circ}}{6}[/math]
+ বর্গ সে.মি.= 54 cot 30° বর্গ সে.মি.[math]=54 \sqrt{3}[/math]
+ বর্গ সে.মি.এবং প্রিজমটির ভূমির পরিসীমা = 6 × 6 = 36 সে.মি.আমরা জানি, প্রিজমের সমগ্রতলের ক্ষেত্রফল= 2(ভূমির ক্ষেত্রফল) + ভূমির পরিসীমা × উচ্চতা[math]=(2 \times 54 \sqrt{3})+36 \times 7[/math]
+ বর্গ সে.মি.[math]= 439.061[/math]
+ বর্গ সে.মি. [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 707404)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Comilla Cadet College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+যেকোন চতুর্ভুজ [math]ABCD[/math] এর [math]AB, BC, CD, DA[/math] বাহুর এবং কর্ণ [math]AC[/math] এর মধ্যবিন্দু যথাক্রমে [math]E, F, G, H[/math] এবং [math]O.[/math]
+
+Options:
+ক. একটি ক্যাপসুলের দৈর্ঘ্য এবং ব্যাসার্ধ যথাক্রমে [math]11[/math] সে.মি. এবং [math]3[/math] সে.মি. । দেখাও যে, ক্যাপসুলটির আয়তন [math]81 \pi.[/math]
+খ. ভেক্টর পদ্ধতিতে প্রমাণ কর যে, [math]EFGH[/math] একটি সামান্তরিক।
+গ. ভেক্টর পদ্ধতিতে প্রমাণ কর যে, [math]\overrightarrow{\mathrm{AF}}+\overrightarrow{\mathrm{CE}}+\overrightarrow{\mathrm{BO}}=\underline{0}.[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 707405)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Faujdarhat Cadet College
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প: একটি ক্যাপসুলের দৈর্ঘ্য ও ব্যাসার্ধ যথাক্রমে 20 cm ও 4 cm এবং একটি লোহার গোলকের ব্যাস 4 cm.
+
+Options:
+ক. যৌগিক ঘনবস্তু কী? একটি উদাহরণ দাও।
+খ. দৃশ্যকল্প অনুসারে যদি লোহার গোলকটিকে [math]\frac{2}{3}[/math] cm পুরুত্বের বৃত্তাকার পাতে পরিণত করা হয় তাহলে বৃত্তাকার পাতের ব্যাসার্ধ নির্ণয় কর।
+গ. দৃশ্যকল্প অনুসারে ক্যাপসুলের আয়তন ও সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 707406)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Sylhet Cadet College
+--------------------------------------------------------------------------------
+Question:
+একটি ত্রিভুজের ভূমির দৈর্ঘ্য [math]a = 6[/math] সে.মি., ভূমি সংলগ্ন কোণ [math]\angle x = 60°[/math] এবং অপর দুই বাহুর দৈর্ঘ্যের সমষ্টি [math]b = 8[/math] সে.মি.।
+
+Options:
+ক. উদ্দীপকের [math]a[/math] এবং [math]\angle x[/math] এর আলোকে একটি সমবাহু ত্রিভুজ অঙ্কন কর।
+খ. উদ্দীপকের তথ্যের আলোকে বিবরণসহ ত্রিভুজটি অঙ্কন কর।
+গ. [math](b + 4)[/math] সে.মি. উচ্চতা এবং [math]a[/math] ব্যাসার্ধ বিশিষ্ট একটি সিলিন্ডার গঠন করা হলো যাতে একটি গোলক আকৃতির বল ঠিকভাবে এটে যায়। সিলিন্ডারটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 707407)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Jhenaidah Cadet College, Jhenaidah
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle ABC[/math] এর ভূমি [math]BC = 7.5[/math] সে.মি., [math]\angle B = 45°[/math] এবং [math]AB ~ AC = 2.5[/math] সে.মি.
+
+Options:
+ক. লোহার তৈরি একটি আয়তাকার ঘনবস্তুর দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে [math]10[/math] সে.মি., [math]8[/math] সে.মি. এবং [math]5.5[/math] সে.মি.। ঘনবস্তুটি গলিয়ে [math]840[/math] টি গোলক তৈরি করা হলে গোলকের ব্যাসার্ধ কত?
+খ. [math]\triangle ABC[/math] অঙ্কন কর। (বর্ণনা আবশ্যক)
+গ. মনে কর, [math]AB[/math] এবং [math]AC[/math] এর উপর যথাক্রমে [math]E[/math] ও [math]F[/math] যেকোনো বিন্দু। কোন ক্ষেত্রে [math]\mathrm{EF}=\frac{1}{2} \mathrm{BC}[/math] এবং [math]\mathrm{EF} \| \mathrm{BC}[/math] হবে, ভেক্টরের সাহায্য ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 707408)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Barisal Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]A (2, – 4), B (− 4, 4)[/math] এবং [math]C(3, 3)[/math] তিনটি বিন্দু।
+
+Options:
+ক. [math]AB[/math] রেখার ঢাল নির্ণয় কর।
+খ. বিন্দু তিনটির অবস্থান চিহ্নিত করে চিত্র আঁক এবং প্রমাণ কর যে বিন্দুগুলো সমকোণী ত্রিভুজের শীর্ষবিন্দু।
+গ. [math]AB[/math] কে অক্ষ ধরে [math]\triangle ABC[/math] কে এক পাক ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্র তলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 707409)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]PQRS[/math] আয়তক্ষেত্রের [math]P, Q, R,S[/math] শীর্ষবিন্দু চারটির অবস্থান ভেক্টর যথাক্রমে [math]\underline{p}, \underline{q}, \underline{r}[/math] ও [math]\underline s.[/math]
+
+Options:
+ক. [math]\underline{\mathrm{a}}, \underline{\mathrm{b}}[/math] প্রত্যেকে অশূন্য ভেক্টর হলে, দেখাও যে, [math]\underline{a}=m \underline{b}[/math] হতে পারে কেবলমাত্র যদি [math]\underline{a}, \underline{b}[/math] এর সমান্তরাল হয়।
+খ. ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]PR[/math] ও [math]QS[/math] কর্ণদ্বয় পরস্পরকে সমদ্বিখন্ডিত করে।
+গ. [math]PQ = 8[/math] সে.মি. ও [math]QR = 4[/math] সে.মি. এবং আয়তক্ষেত্রটিকে তার বৃহত্তর বাহুর চতুর্দিকে ঘোরালে যে ঘনবস্তু উৎপন্ন হয়, তার সমগ্রতলের ক্ষেত্রফল এবং আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 707410)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+(-3, 6) বিন্দুগামী এবং 3 ঢালবিশিষ্ট একটি সরলরেখা x-অক্ষকে A বিন্দু ও y-অক্ষকে B বিন্দুতে ছেদ করে। অপর একটি সরলরেখা C(5, 3) ও D(4,0) বিন্দু দুইটি দিয়ে অতিক্রম করে।
+
+Options:
+ক. AB সরলরেখার সমীকরণ নির্ণয় কর।
+খ. ABCD চতুর্ভুজের ক্ষেত্রফল নির্ণয় কর।
+গ. যদি একটি সমবৃত্তভূমিক তাঁবুর উচ্চতা AC এর সমান হয়, তাহলে তাঁবু দ্বারা 2000 বর্গ মিটার জমি ঘিরতে চাইলে কি পরিমাণ ক্যানভাস লাগবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 707402)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Comilla Cadet College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]AB[/math] সরলরেখার সমীকরণ: [math]2y – 3x + 6 = 0.[/math]
+
+Options:
+ক. [math]AB[/math] রেখার ঢাল নির্ণয় কর।
+খ. যদি [math]AB[/math] সরলরেখার উপর একটি বিন্দু [math]P(a, 2)[/math] হয়, তাহলে [math]A, P[/math] এবং [math]B[/math] এর স্থানাঙ্ক ব্যবহার করে দেখাও যে, [math]\triangle APB[/math] এর ক্ষেত্রফল ০ (শূন্য)।
+গ. ত্রিভুজ [math]OAB[/math] কে [math]OB[/math] বাহুর সাপেক্ষে চতুর্দিকে ঘুরিয়ে আনলে যে ঘনবস্তু উৎপন্ন হয়, তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 707403)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+[math]A(3,0), B(0,4), P(5, a) ; A, P, B[/math] ঘড়ির কাঁটার বিপরীতক্রমে অবস্থিত।
+
+Options:
+ক. একটি প্রিজমের ভূমি [math]4 \mathrm{cm}[/math] বাহুবিশিষ্ট সমবাহু ত্রিভুজ এবং উচ্চতা [math]5 \mathrm{cm}[/math] হলে, এর আয়তন নির্ণয় কর।
+খ. [math]\triangle \mathrm{PAB}[/math] এর ক্ষেত্রফল [math]7[/math] বর্গ একক হলে, [math]\triangle \mathrm{PAB}[/math] এর পরিসীমা নির্ণয় কর।
+গ. [math]\mathrm{AB}[/math] রেখা অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তাকে [math]\text {y}[/math] অক্ষের চতুর্দিকে একবার ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+[math]\\[/math]
+ খদেওয়া আছে, A(3, 0 ), B(0, 4), P( 5, a) এবং [math]\triangle \mathrm{PAB}[/math]
+ এর ক্ষেত্রফল = 7 বর্গ একক[math]\Rightarrow[/math]
+ [math]\frac{1}{2}\left|\begin{array}{llll}3 & 5 & 0 & 3 \\0 & a & 4 & 0\end{array}\right|=7[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{1}{2}|(3 a+20)-12|=7 \\\Rightarrow |3 a+8|=14 \\\therefore \quad 3 a+8= \pm 14\end{array}[/math]
+'+' নিয়ে 3a + 8 = 14[math]\therefore \mathrm{a}=2[/math]
+' [math]-[/math]
+' নিয়ে 3a + 8 = − 14[math]\therefore a=-\frac{22}{3}[/math]
+ [যা গ্রহণযোগ্য নয়]এখন, [math]\quad \quad \quad[/math]
+ [ [math]\because[/math]
+ A, P, B ঘড়ির কাটার বিপরীতক্রমে অবস্থিত ][math]\begin{array}{l}\mathrm{A}(3,0) \\\mathrm{B}(0,4) \\\mathrm{P}(5,2)\end{array}[/math]
+ [math]\begin{array}{l}A B=\sqrt{3^{2}+4^{2}}=5 \\B P=\sqrt{(-5)^{2}+(4-2)^{2}}=\sqrt{25+4}=\sqrt{29} \\P A=\sqrt{(5-3)^{2}+2^{2}}=\sqrt{2^{2}+2^{2}}=\sqrt{4+4}=\sqrt{2 \times 4}=2 \sqrt{2}\end{array}[/math]
+ [math]\therefore \quad \triangle \mathrm{PAB}[/math]
+ এর পরিসীমা = (AB + BP + PA) একক[math]=(5+\sqrt{29}+2 \sqrt{2})[/math]
+ একক [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ
+[Image]
+OAB ত্রিভুজটি y অক্ষের চতুর্দিকে একবার ঘোরালে OA = 3 একক ব্যাসার্ধ এবং OB = 4 একক উচ্চতা বিশিষ্ট সমবৃত্তভূমিক কোণক তৈরি হবে।[math]\therefore[/math]
+ r = 3 এককh = 4 এককএবং [math]l=\sqrt{3^{2}+4^{2}}=5[/math]
+ একক[math]\therefore[/math]
+ কোণকের সমগ্রতলের ক্ষেত্রফল [math]=\pi \mathrm{r}(l+\mathrm{r})[/math]
+ বর্গ একক[math]=\pi \times 3(5+3)[/math]
+ বর্গ একক[math]=24 \pi[/math]
+ বর্গ একক[math]=75.39[/math]
+ বর্গ একক (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 707396)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{ABC}[/math] ত্রিভুজের [math]AB=12[/math] cm, [math]AC=5[/math] cm, [math]BC=13[/math] cm এবং মধ্যমাত্রয়ের ছেদ বিন্দু [math]\mathrm {O}[/math]।
+
+Options:
+ক. শীর্ষবিন্দু [math]\text { A }[/math] থেকে বিপরীত বাহুর উপর অঙ্কিত মধ্যমার দৈর্ঘ্য নির্ণয় কর।
+খ. দেখাও যে, উদ্দীপকে উল্লিখিত ত্রিভুজের বাহু তিনটির বর্গের সমষ্টি ' [math]O[/math]' বিন্দু হতে শীর্ষ বিন্দু তিনটির দূরত্বের বর্গের সমষ্টি তিনগুনের সমান।
+গ. ত্রিভুজটিকে উহার ক্ষুদ্রতর বাহুর চতুর্দিকে ঘোরালে যে ঘনবস্তু উৎপন্ন হয়, তার সমগ্রতলের ক্ষেত্রফল ও আয়তনের সাংখি‍ক মানের পার্থক্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+দেওয়া আছে, ABC ত্রিভুজে AB = 12 cm, AC = 5cmএবং BC = 13 cm |ধরি, শীর্ষবিন্দু A থেকে বিপরীত বাহু BC এর উপর অঙ্কিত মধ্যমা AD. এ্যাপোলোনিয়াসের উপপাদ্য অনুযায়ী পাই,[math]A B^{2}+A C^{2}=2\left(A D^{2}+B D^{2}\right)[/math]
+ [math]\Rightarrow 12^{2}+5^{2}=2 \mathrm{AD}^{2}+2 \cdot\left(\frac{\mathrm{BC}}{2}\right)^{2}[/math]
+ [ [math]\because \mathrm{D}, \mathrm{BC}[/math]
+ এর মধ্যবিন্দু][math]\begin{array}{l}\Rightarrow 144+25=2 \mathrm{AD}^{2}+2 .\left(\frac{13}{2}\right)^{2} \\\Rightarrow 169=2 \mathrm{AD}^{2}+\frac{169}{2} \\\Rightarrow 2 \mathrm{AD}^{2}=169-\frac{169}{2} \\\Rightarrow 2 \mathrm{AD}^{2}=\frac{169}{2} \Rightarrow \mathrm{AD}^{2}=\frac{169}{4} \\\Rightarrow \mathrm{AD}=\sqrt{\frac{169}{4}} \therefore \mathrm{AD}=\frac{13}{2}=6.5 \mathrm{~cm}\end{array}[/math]
+ [math]\therefore[/math]
+ মধ্যমার দৈর্ঘ্য 6.5 cm [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+দেওয়া আছে, [math]\triangle \mathrm{ABC}[/math]
+-এ AB = 12 cm, AC = 5 cm এবং BC = 13 cm চিত্রানুযায়ী, এ্যাপোলোনিয়াসের উপপাদ্য থেকে পাই,[math]\mathrm{AC}^{2}+\mathrm{BC}^{2}=2\left(\mathrm{CF}^{2}+\mathrm{AF}^{2}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow 5^{2}+13^{2}=2 \mathrm{CF}^{2}+2 \cdot\left(\frac{12}{2}\right)^{2}\\\Rightarrow 25+169-72=2 \mathrm{CF}^{2}\\\Rightarrow \mathrm{CF}^{2}=\frac{122}{2} \therefore \mathrm{CF}^{2}=61\end{array}[/math]
+এবং [math]A B^{2}+B C^{2}=2\left(B E^{2}+A E^{2}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow 12^{2}+13^{2}=2 \mathrm{BE}^{2}+2 \cdot\left(\frac{5}{2}\right)^{2} \\\Rightarrow 144+169-12.5=2 \mathrm{BE}^{2} \\\Rightarrow \mathrm{BE}^{2}=\frac{300.5}{2} \\\therefore \quad \mathrm{BE}^{2}=150.25\end{array}[/math]
+এবং 'ক' হতে পাই, [math]\mathrm{AD}^{2}=\frac{169}{4}=42.25[/math]
+আমরা জানি, ত্রিভুজের মধ্যমাত্রয়ের ছেদবিন্দু মধ্যমাগুলোকে 2 : 1 বা 1 : 2 অনুপাতে বিভক্ত করে। চিত্রে, O ত্রিভুজের মধ্যমাত্রয়ের ছেদবিন্দু।[math]\therefore \quad \frac{\mathrm{OD}}{\mathrm{OA}}=\frac{1}{2}[/math]
+ [math]\Rightarrow \frac{\mathrm{OD}+\mathrm{OA}}{\mathrm{OA}}=\frac{1+2}{2}[/math]
+ [যোজন করে][math]\begin{array}{l}\Rightarrow \frac{\mathrm{AD}}{\mathrm{OA}}=\frac{3}{2}\\\Rightarrow \mathrm{OA}=\frac{2}{3} \mathrm{AD}\end{array}[/math]
+ [বর্গ করে][math]\Rightarrow \mathrm{OA}^{2}=\frac{4}{9} \mathrm{AD}^{2}[/math]
+ [math]\therefore \quad \mathrm{OA}^{2}=\frac{4}{9} \times 42.25=\frac{169}{9}[/math]
+অনুরূপে পাই, [math]\mathrm{OB}^{2}=\frac{4}{9} \times \mathrm{BE}^{2}=\frac{4}{9} \times 150.25=\frac{601}{9}[/math]
+ এবং [math]\mathrm{OC}^{2}=\frac{4}{9} \times \mathrm{CF}^{2}=\frac{4}{9} \times 61=\frac{244}{9}[/math]
+ [math]\begin{aligned}\therefore \quad 3\left(O A^{2}+O B^{2}+O C^{2}\right) & =3\left(\frac{169}{9}+\frac{601}{9}+\frac{244}{9}\right) \\& =3 \times \frac{1014}{9}=338\end{aligned}[/math]
+ [math]\mathrm{AB}^{2}+\mathrm{BC}^{2}+A C^{2}=12^{2}+13^{2}+5^{2}=144+169+25[/math]
+ [math]=338[/math]
+ [math]\therefore A B^{2}+\mathrm{BC}^{2}+A C^{2}=3\left(O A^{2}+O B^{2}+O C^{2}\right)[/math]
+ (দেখানো হলো) [math]\\[/math]
+ গ
+[Image]
+দেওয়া আছে,[math]\begin{aligned}\mathrm{AB}^{2} & +\mathrm{AC}^{2}=12^{2}+5^{2} \\& =144+25 \\& =169 \\& =13^{2}=\mathrm{BC}^{2}\end{aligned}[/math]
+ABC সমকোণী ত্রিভুজ এবংABC সমকোণী ত্রিভুজ এবং ZA সমকোণ ।উদ্দীপকে উল্লেখিত সমকোণী ত্রিভুজটিকে উহার ক্ষুদ্রতম বাহু AC এর চতুর্দিকে ঘোরালে একটি সমবৃত্তভূমিক কোণক উৎপন্ন হয় যার ভূমির ব্যাসার্ধ, r = AB = 12cm, উচ্চতা, h = AC = 5 cm এবং হেলানো উচ্চতা, I = BC = 13cmকোণকটির সমগ্রতলের ক্ষেত্রফল = nr(r + 1) বর্গ একক [math]=\pi \mathrm{r}(\mathrm{r}+l)[/math]
+ সমকোণ ।উদ্দীপকে উল্লেখিত সমকোণী ত্রিভুজটিকে উহার ক্ষুদ্রতম বাহু AC এর চতুর্দিকে ঘোরালে একটি সমবৃত্তভূমিক কোণক উৎপন্ন হয় যার ভূমির ব্যাসার্ধ, r = AB = 12cm, উচ্চতা, h = AC = 5 cm এবং হেলানো উচ্চতা, I = BC = 13cm[math]\therefore[/math]
+ কোণকটির সমগ্রতলের ক্ষেত্রফল [math]=\pi \mathrm{r}(\mathrm{r}+l)[/math]
+ [math]=3.1416 \times 12 \times(12+13)[/math]
+ বর্গ সে.মি.[math]37.6992 × 25 বর্গ সে.মি.[/math]
+ = 942.48 বর্গ সে.মি. (প্রায়)এবং কোণকটির আয়তন [math]=\frac{1}{3} \pi r^{2}[/math]
+ ঘন একক[math]=\frac{1}{3} \times 3.1416 \times 12^{2} \times 5[/math]
+ ঘন সে.মি. =2x3.14[math]= 753.98[/math]
+ ঘন সে.মি. (প্রায়)কোণকটির সমগ্রতলের ক্ষেত্রফল ও আয়তনের সাংখ্যিক মানের পার্থক্য [math]= 942.48 – 753.98 = 188.5[/math]
+ (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 707397)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{22}{\pi}[/math] সে.মি. ব্যাসার্ধ বিশিষ্ট একটি গোলক একটি ঘনক আকৃতির বাক্সে ঠিকভাবে এঁটে যায়। আবার, ABCD চতুর্ভুজের দুইটি কর্ণ যথাক্রমে AC ও BD।
+
+ক 5 সে.মি. ব্যাসার্ধ ও 12 সে.মি. উচ্চতা বিশিষ্ট সিলিন্ডারের বক্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+Options:
+খ. বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+গ. AC ও BD কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করলে ভেক্টরের সাহায্যে প্রমাণ কর যে, ABCD একটি সামান্তরিক।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 707398)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+একটি সমবৃত্তভূমিক কোণক আকৃতির তাবুর ব্যাস 60 মিটার এবং উচ্চতা 18 মিটার।
+
+Options:
+ক. তাবুটির হেলানো উচ্চতা নির্ণয় করো।
+খ. তাবুটি স্থাপন করতে কত বর্গমিটার জমির প্রয়োজন হবে?
+গ. ক্যানভাসের ক্ষেত্রফলের সমান ক্ষেত্রফল বিশিষ্ট বর্গের বাহুর দৈর্ঘ্য কত?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 707399)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Joypurhat Girls’ Cadet College
+--------------------------------------------------------------------------------
+Question:
+একটি স্থাপনার নিচের অংশ 3 মিটার দৈর্ঘ্যবিশিষ্ট আয়তাকার ঘনবস্তু এবং উপরের অংশ সুষম পিরামিড। পিরামিডের ভূমির বাহুর দৈর্ঘ্য 2 মিটার এবং উচ্চতা 3 মিটার।
+
+Options:
+ক. আয়তাকার ঘনবস্তুর কর্ণের দৈর্ঘ্য নির্ণয় কর।
+খ. আয়তাকার ঘনবস্তুটি যদি 3 মিটার উচ্চতার একটি সিলিন্ডারে ঠিকভাবে এঁটে যায়, তাহলে সিলিন্ডারের অনধিকৃত অংশের আয়তন নির্ণয় কর।
+গ. স্থাপনাটির সমগ্রতলের ক্ষেত্রফল এবং আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 707400)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]P (z, 2)[/math] বিন্দুগামী [math]2y - 3x + 6 = 0[/math] সরলরেখাটি [math]x[/math] অক্ষকে [math]A[/math] এবং [math]y[/math] অক্ষকে [math]B[/math] বিন্দুতে ছেদ করে। যেখানে মূলবিন্দু [math]O[/math]।
+
+Options:
+ক. রেখাটির ঢাল নির্ণয় কর।
+খ. [math]\triangle APB[/math]-এর ক্ষেত্রফল নির্ণয় কর।
+গ. [math]\triangle OAB[/math]-কে [math]OB[/math] এর সাপেক্ষে ঘূর্ণনে উৎপন্ন ঘনবস্তুর সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 707401)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rangpur Cadet College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+3x + 4y = 12 ..................(i)
+
+Options:
+ক. (k, 0) বিন্দুগামী এবং k ঢাল বিশিষ্ট সরলরেখার সমীকরণ বের কর।
+খ. যদি p(x, y) বিন্দুটি (i) নং সরলরেখাটি অক্ষদ্বয়কে যে দুইটি বিন্দুতে ছেদ করে সে দুইটি সমদূরবর্তী হয়, তবে প্রমাণ কর যে, 8x – 6y = 7
+গ. একটি কোণকের সমগ্রতলের ক্ষেত্রফল নির্ণয় করতে হবে যার উচ্চতা 8 একক এবং যার ভূমির ব্যাস (i) নং সরলরেখাটির অক্ষদ্বয়কে ছেদ করায় উৎপন্ন রেখাংশের সমান।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 707395)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{PQR}[/math] এর ভূমি [math]\mathbf{a}=5.3[/math] সে.মি., ভূমি সংলগ্ন কোণ [math]\mathrm{x=40^{\circ} } ,[/math] অপর দুই বাহুর অন্তর [math]\mathrm{d}=2[/math] সে.মি., [math]\text { PQ }[/math] ও [math]\text { PR }[/math] মধ্যবিন্দু যথাক্রমে [math]\text {M}[/math] ও [math]\text {N}[/math].
+
+Options:
+ক. [math]100 \pi[/math] বর্গ সে.মি. পৃষ্টতলবিশিষ্ট গোলকের আয়তন নির্ণয় কর।
+খ. অঙ্কনের বিবরণসহ [math]\mathrm{PQR}[/math] ত্রিভুজটি অঙ্কন কর।
+গ. ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]\mathrm {MR}[/math] ও [math]\mathrm{QN}[/math] এর মধ্যবিন্দুদ্বয়ের সংযোজক সরলরেখা [math]\mathrm {MN}[/math] ও [math]\mathrm {QR}[/math] এর সমান্তরাল।
+
+
+Correct Answer: 
+
+Solution:
+কমনে করি, গোলকের ব্যাসার্ধ = r সে.মি.[math]\therefore[/math]
+ গোলকের পৃষ্ঠের ক্ষেত্রফল [math]=4 \pi r^{2}[/math]
+ বর্গ সে.মি.শর্তমতে, [math]4 \pi r^{2}=100 \pi[/math]
+ [math]\Rightarrow \quad r^{2}=\frac{100 \pi}{4 \pi}=25[/math]
+ [math]\therefore[/math]
+ r = 5 সে.মি[math]\therefore[/math]
+ গোলকের আয়তন [math]=\frac{4}{3} \pi r^{3}[/math]
+ ঘন একক[math]=\frac{4}{3} \pi \times 5^{3}[/math]
+ ঘন সে.মি.[math]=\frac{500 \pi}{3}[/math]
+ ঘন সে.মি. [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+বিশেষ নির্বচন: একটি ত্রিভুজের ভূমি [math]\mathrm{QR}=\mathrm{a}=5.3[/math]
+ সে.মি., ভূমি সংলগ্ন [math]\angle x=40^{\circ}[/math]
+ এবং [math]P Q-P R=d=2[/math]
+ সে.মি. দেওয়া আছে। ত্রিভুজটি আঁকতে হবে।অঙ্কনের বিবরণ :ধাপ ১: যেকোনো রশ্মি QF থেকে QR = a = 5.3 সে.মি, কেটে নিই।ধাপ ২: QR-এর Q বিন্দুতে [math]\angle \mathrm{RQE}=\angle \mathrm{x}=40^{\circ}[/math]
+ আঁকি।ধাপ ৩: QE থেকে QD = d = 2 সে.মি. কেটে নিই।ধাপ ৪: R, D যোগ করি ৷ধাপ ৫: RD রশ্মির R বিন্দুতে [math]\angle D R P=\angle E D R[/math]
+ আঁকি।ধাপ ৬: RP, DE কে P বিন্দুতে ছেদ করে ।তাহলে, [math]\triangle \mathrm{PQR}[/math]
+-ই উদ্দিষ্ট ত্রিভুজ। [math]\\[/math]
+ গ
+[Image]
+দেওয়া আছে, [math]\triangle \mathrm{PQR}[/math]
+-এ M ও N যথাক্রমে PQ ও PR এর মধ্যবিন্দু।[math]\therefore[/math]
+ MN || QR এবং [math]\mathrm{MN}=\frac{1}{2} \mathrm{QR}[/math]
+ [math]\therefore M Q R N[/math]
+ একটি ট্রাপিজিয়াম।আবার, QN ও RM কর্ণদ্বয়ের মধ্যবিন্দু যথাক্রমে S ও T। T, S যোগ করি ।প্রমাণ করতে হবে যে, ST || MN || QRপ্রমাণ: মনে করি, Q, R M ও N বিন্দুর অবস্থান ভেক্টর যথাক্রমে [math]\underline{q}, \underline{r}, \underline{m}[/math]
+ ও [math]\underline n[/math]
+ [math]\begin{array}{l}\overrightarrow{\mathrm{QR}}=\underline{\mathrm{r}}-\underline{\mathrm{q}} \\\overrightarrow{\mathrm{MN}}=\underline{\mathrm{n}}-\underline{\mathrm{m}}\end{array}[/math]
+ [math]\therefore[/math]
+ S বিন্দুর অবস্থান ভেক্টর [math]=\frac{1}{2}(\underline{q}+\underline{n})[/math]
+ [math]\because \mathrm{S}, \mathrm{QN}[/math]
+ এর মধ্যবিন্দু]এবং T বিন্দুর অবস্থান ভেক্টর, [math]=\frac{1}{2}(\underline{r}+\underline{m})[/math]
+ [ [math]\because \mathrm{T}, \mathrm{RM}[/math]
+ এর মধ্যবিন্দু][math]\begin{aligned}\therefore \overrightarrow{S T} & =\frac{1}{2}(\underline{r}+\underline{m})-\frac{1}{2}(\underline{q}+\underline{n}) \\& =\frac{1}{2}(\underline{r}+\underline{m}-\underline{q}-\underline{n}) \\& =\frac{1}{2}\{(\underline{r}-\underline{q})-(\underline{n}-\underline{m})\} \\& =\frac{1}{2}(\overrightarrow{Q R}-\overrightarrow{M N})\end{aligned}[/math]
+MN || QR হওয়ায় [math](\overrightarrow{\mathrm{QR}}-\overrightarrow{\mathrm{MN}})[/math]
+ ভেক্টরটিও [math]\overrightarrow{\mathrm{QR}}[/math]
+ ও [math]\overrightarrow{\mathrm{MN}}[/math]
+ ভেক্টরের সমান্তরাল হবে, তাহলে [math]\overrightarrow{\mathrm{ST}}[/math]
+ ভেক্টরটি ও [math]\overrightarrow{\mathrm{QR}}[/math]
+ ও [math]\overrightarrow{\mathrm{MN}}[/math]
+ এর সমান্তরাল হবে।[math]\therefore \mathrm{ST}\|\mathrm{MN}\| \mathrm{QR}[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 707393)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { (i) } \frac{44}{\pi}[/math] সে.মি. ব্যাসবিশিষ্ট একটি গোলক ঘনক আকৃতির বাক্সে ঠিকভাবে এঁটে যায়।
+
+(ii) ABCD সামান্তরিকের AC ও BD কর্ণ।
+
+Options:
+ক. 5 সে.মি. ব্যাসার্ধ ও 12 সে.মি. উচ্চতাবিশিষ্ট সিলিন্ডারের বক্রতলের ক্ষেত্রফল নির্ণয় কর।
+খ. বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+গ. ভেক্টরের সাহায্যে প্রমাণ কর যে, AC এবং BD কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, সিলিন্ডারের ব্যাসার্ধ, r = 5 সে.মি.এবং সিলিন্ডারের উচ্চতা, h = 12 সে.মি.. সিলিন্ডারের বক্রতলের ক্ষেত্রফল [math]=2 \pi \mathrm{rh}[/math]
+ বর্গ একক[math]=2 \times \pi \times 5 \times 12[/math]
+ বর্গ সে.মি.[math]= 376.992[/math]
+ বর্গ সে.মি. (প্রায়) [math](Ans.)[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, গোলকের ব্যাস, [math]=\frac{44}{\pi}[/math]
+ সে.মি.অতএব, গোলকের ব্যাসার্ধ, [math]\mathrm{r}=\frac{22}{\pi}[/math]
+ সে.মি. [math]= 7.0028[/math]
+ সে.মি. (প্রায়)যেহেতু, গোলকটি ঘনক আকৃতির বাক্সে ঠিকভাবে এঁটে যায় সেহেতু, ঘনকের বাহু হবে গোলকের ব্যাসের সমান।.: ঘনকের বাহুর দৈর্ঘ্য, [math]=2 \mathrm{r}=2 \times \frac{22}{\pi}[/math]
+ সে.মি.[math]= 14.0056[/math]
+ সে.মি. (প্রায়)ঘনকের আয়তন = (ঘনকের বাহুর দৈর্ঘ্য [math])^3[/math]
+ ঘন একক[math]= (14.0056)^3[/math]
+ ঘন সে.মি. [math]= 2747.3[/math]
+ ঘন সে.মি. (প্রায়)এবং গোলকের আয়তন [math]=\frac{4}{3} \pi r^{3}[/math]
+ ঘন একক[math]=\frac{4}{3} \pi \times(7.0028)^{3}[/math]
+ ঘন সে.মি.[math]= 1438.48[/math]
+ ঘন সে.মি. (প্রায়).: অনধিকৃত অংশের আয়তন = ঘনকের আয়তন - গোলকের আয়তন[math]= (2747.3 - 1438.48)[/math]
+ ঘন সে.মি.[math]= 1308.82[/math]
+ ঘন সে.মি. (প্রায়) [math](Ans.)[/math]
+ [math]\\[/math]
+ গ
+[Image]
+মনে করি, ABCD সামান্তরিকের কর্ণদ্বয় AC ও BD পরস্পর ০ বিন্দুতে ছেদ করেছে।মনে করি, [math]\overrightarrow{\mathrm{AO}}=\underline{\mathrm{a}}, \overrightarrow{\mathrm{BO}}=\underline{b},[/math]
+ [math]\overrightarrow{O C}=\mathbf{c}, \overrightarrow{O D}=\underline{d}[/math]
+প্রমাণ করতে হবে যে, [math]|\underline{\mathbf{a}}|=|\underline{\mathbf{c}}|,|\underline{\mathbf{b}}|=|\underline{\mathbf{d}}|[/math]
+অর্থাৎ, [math]\overrightarrow{\mathrm{AO}}=\overrightarrow{\mathrm{OC}}[/math]
+ এবং [math]\overrightarrow{\mathrm{BO}}=\overrightarrow{\mathrm{OD}}[/math]
+ত্রিভুজবিধি অনুসারে পাই, [math]\overrightarrow{\mathrm{AO}}+\overrightarrow{\mathrm{OD}}=\overrightarrow{\mathrm{AD}}[/math]
+ এবং [math]\overrightarrow{\mathrm{BO}}+\overrightarrow{\mathrm{OC}}=\overrightarrow{\mathrm{BC}}[/math]
+যেহেতু সামান্তরিকের বিপরীত বাহুদ্বয় পরস্পর সমান ও সমান্তরাল,সুতরাং [math]\overrightarrow{\mathrm{AD}}=\overrightarrow{\mathrm{BC}}[/math]
+অর্থাৎ [math]\overrightarrow{\mathrm{AO}}+\overrightarrow{\mathrm{OD}}=\overrightarrow{\mathrm{BO}}+\overrightarrow{\mathrm{OC}}[/math]
+ বা, [math]\underline{a}+\underline{d}=\underline{b}+\underline{c}[/math]
+বা, [math]\underline{\mathbf{a}}-\underline{\mathbf{c}}=\underline{\mathbf{b}}-\underline{\mathbf{d}}[/math]
+ [উভয়পক্ষে -c -d যোগ করে।এখানে, [math]\underline{\mathrm{a}}^{\mathrm{}}, \mathrm{c}[/math]
+ এর ধারক AC[math]\therefore \underline{\mathbf{a}}-\mathbf{c}[/math]
+ এর ধারক ACআবার, [math]\underline{b}^{}, \underline{d}[/math]
+ এর ধারক BD.[math]\therefore \underline{\mathrm{b}}-\underline{\mathrm{d}}[/math]
+ এর ধারক BD।[math]\underline{\mathbf{a}}-\underline{\mathrm{c}}, \underline{\mathbf{b}}-\underline{d}[/math]
+ দুইটি সমান অশূন্য ভেক্টর হলে তাদের ধারক রেখা একই অথবা সমান্তরাল হবে।কিন্তু AC, BD দুইটি পরস্পরচ্ছেদী অসমান্তরাল সরলরেখা।সুতরাং [math]\underline{\mathbf{a}}-\underline{\mathrm{c}}, \underline{\mathbf{b}}-\underline{d}[/math]
+ ভেক্টরদ্বয় অশূন্য হতে পারে না বিধায় এদের মান শূন্য হবে।[math]\therefore \underline{\mathbf{a}}-\underline{\mathrm{c}}=\underline{\mathbf{0}}[/math]
+বা, [math]\underline{\mathbf{a}}=\underline{\mathbf{c}}[/math]
+এবং [math]\underline{b}-\underline{d}=\underline{0}[/math]
+বা, [math]\underline{\mathbf{b}}=\underline{\mathbf{d}}[/math]
+ [math]\therefore|\underline{\mathbf{a}}|=|\underline{\mathbf{c}}|,|\underline{\mathbf{b}}|=|\underline{\mathbf{d}}|[/math]
+ [math]\therefore \overrightarrow{\mathrm{AO}}=\overrightarrow{\mathrm{OC}}[/math]
+ এবং [math]\overrightarrow{\mathrm{BO}}=\overrightarrow{\mathrm{OD}}[/math]
+অর্থাৎ, AC এবং BD কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 707394)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: JB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{P}(\mathrm{t} ; 2)[/math] বিন্দুগামী [math]\mathrm {2 y-3 x+6=0}[/math] রেখাটি [math]\mathrm {x}[/math] অক্ষকে [math]\text {A}[/math] এবং [math]\mathrm {y}[/math] অক্ষকে [math]\text {B}[/math] বিন্দুতে ছেদ করে।
+
+Options:
+ক. রেখাটির ঢাল নির্ণয় কর।
+খ. [math]\triangle \mathrm{APB}[/math] এর ক্ষেত্রফল নির্ণয় কর।
+গ. [math]\triangle \mathrm{OAB}[/math] কে [math]\mathrm{OB}[/math] বাহুর চতুর্দিকে একবার ঘুরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত সমীকরণ, [math]2 y-3 x+6=0[/math]
+ [math]\Rightarrow 2 y=3 x-6 \Rightarrow y=\frac{3}{2} x-\frac{6}{2}[/math]
+ [math]\therefore \quad y=\frac{3}{2} x-3.......\text { (i) }[/math]
+(i) নং কে [math]y = mx + c[/math]
+ রেখার সাথে তুলনা করে পাই, [math]\mathrm{m}=\frac{3}{2}[/math]
+ [math]\therefore[/math]
+ রেখাটির ঢাল [math]=\frac{3}{2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রদত্ত রেখাটি [math]2 y-3 x+6=0........\text { (ii) }[/math]
+রেখাটি x অক্ষকে A বিন্দুতে ছেদ করে।[math]\therefore \quad y=0[/math]
+(ii) নং থেকে, [math]2.0 – 3x + 6 = 0[/math]
+ [math]\begin{array}{l}\Rightarrow \quad 3 \mathrm{x}=-6 \\\therefore \quad \mathrm{x}=2\end{array}[/math]
+ [math]\therefore[/math]
+ A বিন্দুর স্থানাঙ্ক ( 2, 0 )আবার, রেখাটি y অক্ষকে B বিন্দুতে ছেদ করে,[math]\therefore \quad x=0[/math]
+(ii) নং থেকে, [math]2y - 3.0 + 6 = 0[/math]
+ [math]\Rightarrow 2 y=-6 \therefore y=-3[/math]
+ [math]\therefore[/math]
+ B বিন্দুর স্থানাঙ্ক (0, 3)(ii) নং রেখাটি P(t, 2 ) বিন্দুগামী।[math]2.2-3 . t+6=0[/math]
+ [math]\begin{array}{l}\Rightarrow \quad 4-3 t+6=0 \\\Rightarrow \quad 10-3 t=0 \\\Rightarrow \quad 10=3 t \quad \therefore t=\frac{10}{3}\end{array}[/math]
+ [math]\therefore[/math]
+ P বিন্দুর স্থানাঙ্ক [math]\left(\frac{10}{3}, 2\right)[/math]
+ [math]\triangle A P B[/math]
+ এর ক্ষেত্রফল [math]=\frac{1}{2}\left|\begin{array}{cccc}2 & \frac{10}{3} & 0 & 2 \\0 & 2 & -3 & 0\end{array}\right|[/math]
+ বর্গ একক[math]\begin{array}{l}=\frac{1}{2}\{(4-10+0)-(0+0-6)\} \\=\frac{1}{2}(-6+6)=\frac{1}{2} \times 0=0 \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ গ
+[Image]
+[math]\triangle \mathrm{OAB}[/math]
+ কে OB বাহুর চতুর্দিকে একবার ঘুরালে যে ঘনবস্তু উৎপন্ন হয় তা একটি কোণক।কোণকের ব্যাসার্ধ, [math]\mathrm{r}=\mathrm{OA}[/math]
+ [math]\begin{array}{l}=\sqrt{(0-2)^{2}+(0-0)^{2}} \\=\sqrt{4+0}=2\end{array}[/math]
+কোণকের উচ্চতা, [math]\mathrm{h}=\mathrm{OB}=\sqrt{(0-0)^{2}+(0+3)^{2}}[/math]
+ [math]=\sqrt{0+9}=3[/math]
+ [math]\therefore[/math]
+ হেলানো উচ্চতা [math]l=\sqrt{\mathrm{h}^{2}+\mathrm{r}^{2}}=\sqrt{3^{2}+2^{2}}[/math]
+ [math]=\sqrt{9+4}=\sqrt{13}[/math]
+ [math]\therefore[/math]
+ কোণকের সমগ্রতলের ক্ষেত্রফল [math]=\pi r(l+r)[/math]
+ বর্গ একক[math]=3.1416 \times 2 \times(\sqrt{13}+2)[/math]
+ [math]=35.221[/math]
+ বর্গএকক (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 707384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে [math]PQ[/math] ব্যাস। [math]PQ = 10[/math] সে.মি. ও [math]QR = 6[/math] সে.মি.।
+
+Options:
+ক. কোনো ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল 256 বর্গ সে.মি. হলে, ঐ ত্রিভুজের নববিন্দু বৃত্তের ক্ষেত্রফল নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]PQ² = PR.PT + QS.QT[/math]
+গ. [math]PQR[/math] ত্রিভুজকে [math]PR[/math] বাহুর চতুর্দিকে একবার ঘুরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, কোনো ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল [math]256[/math]
+ বর্গ সে.মি.পরিবৃত্তটির ব্যাসার্ধ r একক হলে, ক্ষেত্রফল [math]=\pi r^{2}[/math]
+ বর্গএককশর্তমতে, [math]\pi r^{2}=256[/math]
+বা [math]r^{2}=\frac{256}{\pi}[/math]
+ [math]\therefore \mathrm{r}=9.027[/math]
+ সে.মি. (প্রায়)নববিন্দু বৃত্তের ব্যাসার্ধ পরিবৃত্তের ব্যাসার্ধের অর্ধেক হলে,নববিন্দু বৃত্তের ব্যাসার্ধ, [math]r^{\prime}=\frac{r}{2}=\frac{9.027}{2}=4.5135[/math]
+ সে.মি. (প্রায়).: নববিন্দু বৃত্তের ক্ষেত্রফল [math]=\pi \mathrm{r}^{\prime 2}=\pi .(4.5135)^{2}[/math]
+ বর্গ সে.মি.[math]= 64.28[/math]
+ বর্গ সে.মি. (প্রায়) [math](Ans.)[/math]
+ [math]\\[/math]
+ খ
+[Image]
+বিশেষ নির্বচন: দেওয়া আছে, PQ ব্যাসের ওপর PQRS একটি অর্ধবৃত্ত। PR ও QS জ্যাদ্বয় পরস্পর T বিন্দুতে ছেদ করেছে।প্রমাণ করতে হবে যে, PQ2 = PR. PT + QS.QTঅঙ্কন: R, S যোগ করি।প্রমাণ: ARTS ও APTQ-এ∠TSR = ∠TPQ [একই চাপ QR-এর ওপর অবস্থিত]এবং ∠STR = ∠PTQ [math]\ \ \ \ \[/math]
+ [বিপ্রতীপ কোণ বলো ]ত্রিভুজ দুইটি সদৃশকোণী।.: ত্রিভুজদ্বয় সদৃশ।অতএব, [math]\frac{\mathbf{P T}}{\mathbf{S T}}=\frac{\mathbf{Q T}}{\mathrm{RT}}[/math]
+ বা, [math]\text { PT.RT = ST.QT }[/math]
+বা, [math]\mathbf{P T} \cdot \mathrm{RT}+\mathrm{PT}^{2}=\mathrm{ST} . \mathrm{QT}+\mathrm{PT}^{2}[/math]
+ [উভয়পক্ষে PT² যোগ করে]বা, [math]\mathbf{P T}(\mathbf{R T}+\mathbf{P T})=\mathbf{S T} \cdot \mathrm{QT}+\mathbf{S T}^{2}+\mathbf{P S}^{2}[/math]
+ [PQ ব্যাস বলে [math]∠PST = ∠PSQ = 90°; \therefore \mathrm{PT}^{2}=\mathrm{PS}^{2}+\mathbf{S T}^{2}[/math]
+]বা, [math]\mathrm{PT} \cdot \mathrm{PR}=\mathrm{ST}(\mathrm{QT}+\mathrm{ST})+\mathrm{PS}^{2}[/math]
+বা, [math]\mathrm{PT} \cdot \mathrm{PR}=\mathrm{QS} . \mathrm{ST}+\mathrm{PQ}^{2}-\mathrm{QS}^{2}[/math]
+ [math]\left[\angle \mathrm{PST}=90^{\circ}\right.[/math]
+ বলে [math]\triangle \mathrm{PQS}-[/math]
+ এ [math]\mathrm{PQ}^{2}=\mathrm{PS}^{2}+\mathrm{QS}^{2}[/math]
+ [math]\left.\therefore \mathrm{PS}^{2}=\mathrm{PQ}^{2}-\mathrm{QS}^{2}\right][/math]
+বা, [math]\text { PT.PR }=\mathrm{PQ}^{2}-\mathrm{QS}(\mathrm{QS}-\mathrm{ST})[/math]
+বা, [math]\mathrm{PT} . \mathrm{PR}=\mathrm{PQ}^{2}-\mathrm{QS.QT}[/math]
+ [math]\therefore \quad \mathrm{PQ}^{2}=\mathrm{PR} \cdot \mathrm{PT}+\mathrm{QS} . \mathrm{QT}[/math]
+ (প্রমাণিত)[math]\\[/math]
+ গ
+[Image]
+চিত্রে, PQR ত্রিভুজের ∠PRQ অর্ধবৃত্তস্থ কোণ বলে APQR সমকোণী ত্রিভুজ। এখন, ত্রিভুজটিকে PR বাহুর চারদিকে ঘুরালে সমবৃত্তভূমিক কোণক উৎপন্ন হবে।কোণকটির ভূমির ব্যাসার্ধ, [math]\mathrm{r}=\mathrm{PR}=\sqrt{\mathrm{PQ}^{2}-\mathrm{QR}^{2}}=\sqrt{10^{2}-6^{2}} =\sqrt{64}=8[/math]
+ সে.মি.এবং হেলানো উচ্চতা, [math]l=P Q=10[/math]
+ সে.মি..: কোণকটির সমগ্রতলের ক্ষেত্রফল [math]=\pi \mathrm{r}(\mathrm{r}+l)[/math]
+ বর্গএকক[math]= π.8(8 + 10)[/math]
+ বর্গসে.মি. [math]= 452.3904[/math]
+ বর্গসে.মি. [math](Ans.)[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 707385)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+(i) 4cm ব্যাসার্ধের একটি নিরেট গোলককে গলিয়ে 6cm বহিঃব্যাসার্ধবিশিষ্ট ও সমভাবে পুরু একটি ফাঁপা গোলক প্রস্তুত করা হলো।
+
+(ii) ABCD ট্রাপিজিয়ামের কর্ণদ্বয়ের মধ্যবিন্দু P এবং Q যেখানে AB || DC এবং AB > DC
+
+Options:
+ক. নিরেট গোলকটির পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+খ. ফাঁপা গোলকটির পুরুত্ব নির্ণয় কর।
+গ. (ii) নং থেকে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, PQ || AB || DC এবং [math]P Q=\frac{1}{2}(A B-D C)[/math]
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, নিরেট গোলকের ব্যাসার্ধ, r = 4 cm.: গোলকের পৃষ্ঠতলের, ক্ষেত্রফল [math]=4 \pi r^{2}[/math]
+ [math]=\left(4 \times 3.1416 \times 4^{2}\right)[/math]
+ বর্গ সে.মি.[math]= 201.06[/math]
+ বর্গ সে.মি. (প্রায়) [math](Ans.)[/math]
+ [math]\\[/math]
+ খধরি, নিরেট গোলকের ব্যাসার্ধ r সে.মি.নিরেট গোলকের আয়তন [math]=\frac{4}{3} \pi r^{3}[/math]
+ ঘন একক[math]=\frac{4}{3} \times 3.1416 \times 4^{3}[/math]
+ ঘন সে.মি. = 268.08 ঘন সে.মি. (প্রায়)... ফাঁপা গোলকের লোহার আয়তন = 268.08 ঘন সে.মি. (প্রায়)ধরি, ফাঁপা গোলকের অন্তঃব্যাসার্ধ [math]=r_{1}[/math]
+ সে.মি.দেওয়া আছে, ফাঁপা গোলকের বহিঃব্যাসার্ধ = 6 সে.মি.শর্তমতে, [math]\frac{4}{3} \times \pi \times 6^{3}-\frac{4}{3} \times \pi r_{1}^{3}=268.08[/math]
+বা, [math]\frac{4}{3} \pi\left(6^{3}-r_{1}{ }^{3}\right)=268.08[/math]
+বা, [math]216-r_{1}{ }^{3}=64[/math]
+বা, [math]r_{1}{ }^{3}=216-64[/math]
+বা, [math]\mathrm{r}_{1}{ }^{3}=152[/math]
+ [math]\therefore \mathrm{r}_{1}=5.337[/math]
+ফাঁপা গোলকের অন্তঃব্যাসার্ধ [math]= 5.337[/math]
+ সে.মি. (প্রায়)ফাঁপা গোলকটির পুরুত্ব= (গোলকের বহিঃব্যাসার্ধ - গোলকের অন্তঃব্যাসার্ধ)[math]= (6 - 5.337)[/math]
+ সে.মি.[math]= 0.663[/math]
+ সে.মি. (প্রায়) [math](Ans.)[/math]
+ [math]\\[/math]
+ গABCD ট্রাপিজিয়ামের AC এবং BD কর্ণদ্বয়ের মধ্যবিন্দু যথাক্রমে P ওQ।P, Q যোগ করি। প্রমাণ করতে হরে যে, PQ || DC || AB এবং [math]P Q=\frac{1}{2}(A B-D C)[/math]
+প্রমাণ: মনে করি, কোনো ভেক্টর মূলবিন্দুর সাপেক্ষে D, C, A, B এর অবস্থান ভেক্টর যথাক্রমে [math]\underline{d}, \underline{c}, \underline{a}, \underline{b}[/math]
+ [math]\overrightarrow{\mathrm{DC}}=\underline{\mathrm{c}}-\underline{\mathrm{d}}[/math]
+ এবং [math]\overrightarrow{\mathrm{AB}}=\underline{\mathrm{b}}-\underline{\mathrm{a}}[/math]
+.: P বিন্দুর অবস্থান ভেক্টর [math]=\frac{1}{2}(\underset{\square}{a}+\underline{c})[\because \mathrm{P}, \mathrm{AC}[/math]
+ এর মধ্যবিন্দু)এবং Q বিন্দুর অবস্থান ভেক্টর [math]=\frac{1}{2}(\underline{b}+\underline{d})[/math]
+ [ Q, BD এর মধ্যবিন্দু)[math]\therefore \overrightarrow{P Q}=\frac{1}{2}(\underline{b}+\underline{d})-\frac{1}{2}(\underline{a}+\underline{c})=\frac{1}{2}(\underline{b}+\underline{d}-\underline{a}-\underline{c})[/math]
+ [math]=\frac{1}{2}\{(\underline{b}-\underline{a})-(\underline{c}-\underline{d})\}[/math]
+ [math]=\frac{1}{2}(\overrightarrow{\mathrm{AB}}-\overrightarrow{\mathrm{DC}})[/math]
+DC || AB হওয়ার [math](\overrightarrow{\mathrm{AB}}-\overrightarrow{\mathrm{DC}})[/math]
+ ভেক্টরটিও [math]\overrightarrow{\mathrm{DC}}[/math]
+ ও [math]\overrightarrow{\mathrm{AB}}[/math]
+ ভেক্টরের সমান্তরাল হবে। তাহলে [math]\overrightarrow{P Q}[/math]
+ ভেক্টরটিও [math]\overrightarrow{\mathrm{DC}}[/math]
+ ও [math]\overrightarrow{\mathrm{AB}}[/math]
+ ভেক্টরদ্বয়ের সমান্তরাল হবে।কারণ [math]\overrightarrow{\mathrm{PQ}}=\frac{1}{2}(\overrightarrow{\mathrm{AB}}-\overrightarrow{\mathrm{DC}})[/math]
+বা, [math]\overrightarrow{|P Q|}=\frac{1}{2}\overrightarrow{|AB}-\overrightarrow{D C}|[/math]
+.: [math]\mathrm{PQ}=\frac{1}{2}(\mathrm{AB}-\mathrm{DC})[/math]
+.: [math]\mathrm{PQ}\|\mathrm{DC}\| \mathrm{AB}[/math]
+ এবং [math]P Q=\frac{1}{2}(A B-D C)[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 707386)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2024 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+লোহার তৈরি একটি সমবৃত্তভূমিক বেলনের উচ্চতা ৪ সেমি. এবং ভূমির ব্যাসার্ধ 6 সেমি.।
+
+Options:
+ক. 4 সেমি, ব্যাসবিশিষ্ট একটি গোলকের পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+খ. বেলনটির সমগ্রতলের ক্ষেত্রফলের সমান ক্ষেত্রফলবিশিষ্ট ঘনকের বাহুর দৈর্ঘ্য নির্ণয় কর।
+গ. বেলনে ব্যবহৃত লোহা দিয়ে 6 সেমি. ব্যাসের কতগুলো নিরেট গোলক তৈরি করা যাবে?
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত গোলকের ব্যাস = 4 সেমি..: ব্যাসার্ধ, [math]r=\frac{4}{2}=2[/math]
+ সে.মি..: গোলকের পৃষ্ঠতলের ক্ষেত্রফল [math]=4 \pi r^{2}[/math]
+ বর্গ একক[math]=4 \times 3.1416 \times 2^{2}[/math]
+ বর্গসেমি.[math]= 50.2656[/math]
+ বর্গসেমি. [math](Ans.)[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, বেলনের উচ্চতা h = 8 সেমি.এবং ভূমির ব্যাসার্ধ, r = 6 সেমি..: বেলনের সমগ্রতলের ক্ষেত্রফল [math]=2 \pi r(r+h)[/math]
+ বর্গ একক[math]=2 \times 3.1416 \times 6 \times(6+8)[/math]
+ বর্গসেমি.[math]= 527.7888[/math]
+ বর্গসেমি.ধরি, ঘনকের প্রতি বাহুর দৈর্ঘ্য [math]= a[/math]
+ সেমি.তাহলে ঘনকটির সমগ্রতলের ক্ষেত্রফল [math]= 6a²[/math]
+ বর্গসেমি.শর্তমতে, [math]6a ^ 2 = 527.7888[/math]
+বা, [math]\mathrm{a}^{2}=\frac{527.7888}{6}=87.9648[/math]
+ [math]\therefore \mathrm{a}=9.38[/math]
+.: ঘনকটির বাহুর দৈর্ঘ্য 9.38 সেমি. (Ans.)[math]\\[/math]
+ গদেওয়া আছে, বেলনের উচ্চতা h = ৪ সে.মি.এবং ভূমির ব্যাসার্ধণ = 6 সেমি.প্রদত্ত লোহার তৈরি বেলনের আয়তন [math]=\pi r^{2} h[/math]
+ ঘন একক[math]= 3.1416 × 62 × 8[/math]
+ ঘন সেমি.[math]= 904.7808[/math]
+ ঘন সেমি.6 সেমি. ব্যাসের বা 3 সেমি. ব্যাসার্ধের নিরেট গোলকেরআয়তন [math]=\frac{4}{3} \pi r^{3} \mp \frac{4}{3} \times 3.1416 \times 3^{3}=113.0976[/math]
+ ঘন সেমি.ধরি, বেলনে ব্যবহৃত লোহা দিয়ে 6 সেমি, ব্যাসের n সংখ্যক গোলক তৈরি করা যাবে।[math]\therefore \mathrm{n} \times 113.0976=904.7808[/math]
+বা, [math]n=\frac{904.7808}{113.0976}=8[/math]
+অতএব, বেলনে ব্যবহৃত লোহা দিয়ে ৪টি নিরেট গোলক তৈরি করা যাবে। (Ans.)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 707387)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2016 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\triangle \mathrm{PQR}[/math] এর [math]\angle \mathrm{R}[/math] একটি সূক্ষকোণ এবং [math]\mathrm{PD} \perp \mathrm{QR} \text {. }[/math]
+
+Options:
+ক. ত্রিভুজের পরিকেন্দ্রে ও ভরকেন্দ্র বলতে কী বোঝ?
+খ. উদ্দীপকের আলোকে প্রমাণ কর যে, [math]\mathrm{PQ}^2+2\mathrm{QR}.\mathrm{DR}=\mathrm{PR}^2+\mathrm{QR}^2.[/math]
+গ. [math]\mathrm{DR}=6[/math] cm, [math]\mathrm{PD}=4[/math] cm হলে, [math]\mathrm{DR}[/math] ও [math]\mathrm{PD}[/math] কে একটি আয়তক্ষেত্রের যথাক্রমে দৈর্ঘ্য ও প্রস্থ ধরে ঐ আয়তক্ষেত্রকে [math]\mathrm{DR}[/math] বাহুর সাপেক্ষে একবার ঘোরালে উৎপন্ন ঘনবস্তুর সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কত্রিভুজের পরিকেন্দ্রঃ ত্রিভুজের যেকোনো দুই বাহুর লম্ব সমদ্বিখণ্ডক যে বিন্দুতে ছেদ করে তাকে ত্রিভুজের পরিকেন্দ্র বলে।ত্রিভুজের ভরকেন্দ্রঃ ত্রিভুজের মধ্যমাগুলো যে বিন্দুতে ছেদ করে ঐ বিন্দুকে ত্রিভুজটির ভরকেন্দ্র বলা হয়। [math]\\[/math]
+ খ
+[Image]
+বিশেষ নির্বচন: এখানে, [math]\triangle \mathrm{PQR}[/math]
+ এর [math]\angle \mathrm{R}[/math]
+ একটি সূক্ষ্মকোণ, [math]P D \perp QR[/math]
+ এবং [math]\angle \mathrm{R}[/math]
+ এর বিপরীত বাহু PQ, অপর দুই বাহু যথাক্রমে QR ও PR । প্রমাণ করতে হবে যে, [math]\mathrm{PQ}^{2}+2 \mathrm{QR} \cdot \mathrm{DR}=\mathrm{PR}^{2}+\mathrm{QR}^{2}.[/math]
+প্রমাণ: [math]\triangle \mathrm{PQD}[/math]
+ এ [math]\angle \mathrm{PDQ}=[/math]
+ এক সমকোণ[math]\therefore \mathrm{PQ}^{2}=\mathrm{PD}^{2}+\mathrm{QD}^{2} \ldots \ldots \text { (i) }[/math]
+ [পীথাগোরাসের উপপাদ্য]আবার, [math]\triangle \mathrm{PDR}[/math]
+ এ [math]\angle \mathrm{PDR}=[/math]
+ এক সমকোণ[math]\therefore \mathrm{PR}^{2}=\mathrm{PD}^{2}+\mathrm{DR}^{2}[/math]
+.........(ii)কিন্তু, [math]\mathrm{QD}=\mathrm{QR}-\mathrm{DR}[/math]
+(i) নং সমীকরণ হতে পাই,[math]\begin{aligned}\mathrm{PQ}^{2} & =\mathrm{PD}^{2}+(\mathrm{QR}-\mathrm{DR})^{2} \\& =\mathrm{PD}^{2}+\mathrm{QR}^{2}+\mathrm{DR}^{2}-2 Q R . D R \\& =\left(\mathrm{PD}^{2}+\mathrm{DR}^{2}\right)+\mathrm{QR}^{2}-2 Q R . D R\end{aligned}[/math]
+ [math]=P R^{2}+Q R^{2}-2 Q R \cdot D R[/math]
+ [ (ii) নং থেকে][math]\therefore \quad \mathrm{PQ}^{2}+2 \mathrm{QR} \cdot \mathrm{DR}=\mathrm{PR}^{2}+\mathrm{QR}^{2}[/math]
+ ( প্ৰমাণিত) [math]\\[/math]
+ গ
+[Image]
+দেওয়া আছে,DR = 6 সে.মি. PD = 4 সে.মি.এখন, DR ও PD কে একটি আয়তক্ষেত্রের যথাক্রমে দৈর্ঘ্য ও প্রস্থ ধরে ঐ আয়তক্ষেত্রকে DR বাহুর সাপেক্ষে একবার ঘোরালে একটি সমবৃত্তভূমিক সিলিন্ডার উৎপন্ন হয় যার ব্যাসার্ধ, r = PD = 4 সে.মি. এবং উচ্চতা, h = DR = 6 সে.মি.আমরা জানি,সিলিন্ডারের সমগ্রতলের ক্ষেত্রফল[math]=2 \pi r(r+h)[/math]
+ বর্গ একক[math]=2 \times 3.1416 \times 4(4+6)[/math]
+ বর্গ সে.মি.[math]=251.33[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+এবং সিলিন্ডারের আয়তন [math]=\pi r^{2} h[/math]
+ ঘ্ন একক[math]=3.1416 \times 4^{2} \times 6[/math]
+ ঘন সে.মি.[math]=301.59[/math]
+ ঘন সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 707340)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]6[/math] সে.মি., [math]8[/math] সে.মি. এবং [math]\mathrm{r}[/math] সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি কঠিন ধাতব গোলক গলিয়ে [math]9[/math] সে.মি. ব্যাসার্ধবিশিষ্ট একটি কঠিন গোলকে পরিণত করা হলো যা সিলিন্ডার আকৃতির একটি বাক্সে ঠিকভাবে এঁটে যায়।
+
+Options:
+ক. [math]6[/math] সে.মি. ব্যাসার্ধবিশিষ্ট গোলকটির পৃষ্টতলের ক্ষেত্রফল নির্ণয় কর।
+খ. [math]\mathrm{r}[/math] এর মান নির্ণয় কর।
+গ. বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, গোলকের ব্যাসার্ধ R = 6 সে.মি.।আমরা জানি, গোলকের ব্যাসার্ধ R হলে, এর পৃষ্ঠতলের ক্ষেত্রফল [math]=4 \pi \mathrm{R}^{2}[/math]
+ বর্গএকক[math]\therefore[/math]
+ প্রদত্ত গোলকের পৃষ্ঠতলের ক্ষেত্রফল[math]=4 \pi \times 6^{2}[/math]
+ বর্গ সে.মি.[math]=4 \pi \times 36[/math]
+ বর্গ সে.মি.[math]=452.3904[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খআমরা জানি,
+[Image]
+6, 8, r সে.মি. ব্যাসার্ধের গোলকের আয়তনের সমষ্টি[math]=\left\{\frac{4}{3} \pi(6)^{3}+\frac{4}{3} \pi(8)^{3}+\frac{4}{3} \pi r^{3}\right\}[/math]
+ ঘন সে.মি.[math]=\frac{4}{3} \pi\left(6^{3}+8^{3}+r^{3}\right)[/math]
+ ঘন সে.মি.আবার, 9 সে.মি. ব্যাসার্ধবিশিষ্ট গোলকের আয়তন [math]=\frac{4}{3} \pi \times 9^{3}[/math]
+ ঘন সে.মি.প্রশ্নমতে, [math]\frac{4}{3} \pi\left(6^{3}+8^{3}+r^{3}\right)=\frac{4}{3} \pi \times 9^{3}[/math]
+ [math]\begin{array}{l}\Rightarrow 6^{3}+8^{3}+r^{3}=9^{3} \\\Rightarrow 216+512+r^{3}=729 \\\Rightarrow r^{3}=729-728 \Rightarrow r^{3}=1\end{array}[/math]
+ [math]\therefore \mathrm{r}=1[/math]
+ সে.মি. [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ9 সে.মি. ব্যাসার্ধবিশিষ্ট গোলকের আয়তন [math]=\frac{4}{3} \pi(9)^{3}[/math]
+ ঘন সে.মি.[math]=\frac{4}{3} \times 3.1416 \times 729=3053.6352[/math]
+ ঘন সে.মি. (প্রায়)যেহেতু 9 সে.মি. ব্যাসার্ধবিশিষ্ট গোলকটি সিলিন্ডার আকৃতির বাক্সে ঠিকভাবে এঁটে যায়।সুতরাং সিলিন্ডারের ব্যাসার্ধ হবে গোলকের ব্যাসার্ধ এবং সিলিন্ডারের উচ্চতা হবে গোলকের ব্যাস।সিলিন্ডারের ব্যাসার্ধ, r = 9 সে.মি.এবং উচ্চতা, [math]h = 9 × 2[/math]
+ সে.মি. [math]= 18[/math]
+ সে.মি.[math]\therefore[/math]
+ সিলিন্ডারের আয়তন [math]=\pi r^{2} h[/math]
+ ঘন একক[math]=3.1416 \times 9^{2} \times 18[/math]
+ ঘন সে.মি.[math]=4580.4528[/math]
+ ঘন সে.মি. (প্রায়)বাক্সটির অনধিকৃত অংশের আয়তন[math]=(4580.4528-3053.6352)[/math]
+ ঘন সে.মি.[math]= 1526.8176[/math]
+ ঘন সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 707312)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: ChB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. চিত্রের ঘনবস্তুর আয়তন নির্ণয় কর।
+খ. তিনটি নিরেট ধাতব গোলকের ব্যাসার্ধ যথাক্রমে [math]\mathrm{AB}, \mathrm{BC}[/math] ও [math]\mathrm{CC}^{\prime}[/math]। গোলক তিনটিকে গলিয়ে একটি নিরেট নতুন গোলকে পরিণত করা হলো। এর ব্যসার্ধ এবং সমগ্র পৃষ্টতলের ক্ষেত্রফল নির্ণয় কর।
+গ. ঘনবস্তুটির [math]\mathrm{ABCD}[/math] তলটিকে বৃহত্তম বাহুর চতুর্দিকে ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল এবং আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, ঘনবস্তুটির দৈর্ঘ্য = 5 সে. মি., প্রস্থ = 4 সে. মি.উচ্চতা = 3 সে. মি.[math]\therefore[/math]
+ ঘনবস্তুটির আয়তন = দৈর্ঘ্য [math]\times[/math]
+ প্রস্থ [math]\times[/math]
+ উচ্চতা ঘন একক[math]= 5 × 4 × 3[/math]
+ ঘন সে. মি.[math]= 60[/math]
+ ঘন সে. মি. [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, AB = 5 সে.মি., BC = 4 সে.মি. ও CC' = 3 সে.মি.আমরা জানি,
+[Image]
+প্রশ্নমতে, AB, BC ও CC' ব্যাসার্ধ বিশিষ্ট গোলকের আয়তনের সমষ্টি [math]=[/math]
+ নতুন গোলকের আয়তন[math]\begin{array}{l}\Rightarrow \frac{4}{3} \pi(\mathrm{AB})^{3}+\frac{4}{3} \pi(\mathrm{BC})^{3}+\frac{4}{3} \pi\left(\mathrm{CC}^{\prime}\right)^{3}=\frac{4}{3} \pi \mathrm{r}^{3}\\\Rightarrow \frac{4}{3} \pi\left(5^{3}+4^{3}+3^{3}\right)=\frac{4}{3} \pi r^{3}\\\Rightarrow 125+64+27=r^{3}\\\Rightarrow r^{3}=216\\\therefore r=6\end{array}[/math]
+সুতরাং নতুন গোলকের ব্যাসার্ধ = 6 সে. মি. [math]\text { (Ans.) }[/math]
+আবার, নতুন গোলকের সমগ্র পৃষ্ঠতলের ক্ষেত্রফল[math]=4 \pi r^{2}[/math]
+ বর্গ একক[math]=4 \times 3.1416 \times 6^{2}[/math]
+ বর্গ সে. মি :[math]=452.39[/math]
+ বর্গ সে. মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গঘনবস্তুটির ABCD তলটিকে বৃহত্তম বাহু AB এর চতুর্দিকেঘোরালে একটি সমবৃত্তভূমিক সিলিন্ডার উৎপন্ন হয়।যার ব্যাসার্ধ, r = BC = 4 সে. মি.উচ্চতা, h = AB = 5 সে. মি.[math]\therefore[/math]
+ সিলিন্ডারের সমগ্রতলের ক্ষেত্রফল [math]=2 \pi r(r+h)[/math]
+ [math]=2 \times 3.1416 \times 4(4+5)[/math]
+ বর্গ সে. মি.[math]= 226.20[/math]
+ বর্গ সে. মি. (প্রায়) [math]\text { (Ans.) }[/math]
+আবার, সিলিন্ডারের আয়তন [math]=\pi r^{2} h[/math]
+ ঘন একক[math]=3.1416 \times 4^{2} \times 5[/math]
+ ঘন সে. মি.[math]= 251.33[/math]
+ ঘন সে. মি. (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 707283)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: DiB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. সিলিন্ডারের ভূমির ক্ষেত্রফল নির্ণয় কর।
+খ. সিলিন্ডারের বক্রতলের ক্ষেত্রফল এবং সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+গ. একটি গোলক আকৃতির বল সিলিন্ডারের ভেতর ঠিকভাবে এঁটে যায়। সিলিন্ডারের অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, সিলিন্ডারের ভূমির ব্যাসার্ধ, [math]r=5[/math]
+ সে.মি.[math]\therefore[/math]
+ সিলিন্ডারের ভূমির ক্ষেত্রফল [math]\pi r^{2}[/math]
+ বর্গ একক[math]=3.1416 \times 5^{2}[/math]
+ বর্গ সে.মি.[math]=78.54[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, সিলিন্ডারের ব্যাসার্ধ, [math]r=5[/math]
+ সে.মি. এবং উচ্চতা, h = 10 সে.মি.[math]\therefore[/math]
+ সিলিন্ডারের বক্রতলের ক্ষেত্রফল [math]=2 \pi r h[/math]
+ বর্গ একক[math]=2 \times 3.1416 \times 5 \times 10[/math]
+ বর্গ সে.মি.[math]=314.16[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+সিলিন্ডারের সমগ্রতলের ক্ষেত্রফল [math]=2 \pi r(h+r)[/math]
+ বর্গ একক[math]=2 \times 3.1416 \times 5(10+5)[/math]
+ বর্গ সে.মি.[math]=471.24[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গসিলিন্ডারের আয়তন [math]=\pi r^{2} h[/math]
+ ঘন একক[math]=3.1416 \times 5^{2} \times 10[/math]
+ ঘন সে.মি. [ [math]\because[/math]
+ r = 5 সে.মি. এবং h = 10 সে.মি.][math]= 785.4[/math]
+ ঘন সে.মি. (প্রায়)যেহেতু গোলক আকৃতির বলটি সিলিন্ডারের ভিতর ঠিকভাবে এটে যায়, তাই গোলকের ব্যাসার্ধ হবে সিলিন্ডারের ব্যাসার্ধের সমান।[math]\therefore[/math]
+ গোলকের ব্যাসার্ধ, R = 5 সে.মি. ।[math]\therefore[/math]
+ গোলকের আয়তন [math]=\frac{4}{3} \pi R^{3}[/math]
+ ঘন একক[math]=\frac{4}{3} \times 3.1416 \times 5^{3}[/math]
+ ঘন সে.মি. [math]=523.6[/math]
+ ঘন সে.মি. (প্রায়)[math]\therefore[/math]
+ সিলিন্ডারের অনধিকৃত অংশের আয়তন[math]= (785.4 – 523.6)[/math]
+ ঘন সে.মি.[math]= 261.8[/math]
+ ঘন সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 707272)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: CB
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে [math]\text { PR }=10[/math] সে.মি. এবং [math]\text { QS }=8[/math] সে.মি.।
+
+Options:
+ক. প্রদত্ত চিত্র কোন উপপাদ্যকে সমর্থন করে? উপপাদ্যটি লিখ।
+খ. প্রমাণ কর যে, [math]\text { PR.QS = PQ.RS + PS.QR. }[/math]
+গ. [math]\text { PR }[/math] ও [math]\text { QS}[/math] দুইটি ঘনকের ধারের দৈর্ঘ্য হলে, তাদের ক্ষেত্রফলের অনুপাত নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত চিত্র টলেমির উপপাদ্যকে সমর্থন করে।টলেমির উপপাদ্যঃ বৃত্তে অন্তর্লিখিত কোনো চতুর্ভুজের কর্ণদ্বয়ের অন্তর্গত আয়তক্ষেত্র ঐ চতুর্ভুজের বিপরীত বাহুদ্বয়ের অন্তর্গতআয়তক্ষেত্রের সমষ্টির সমান। [math]\\[/math]
+ খ
+[Image]
+বিশেষ নির্বচন: মনে করি, বৃত্তে অর্ন্তলিখিত PQRS চতুর্ভুজের বিপরীত বাহুগুলো যথাক্রমে PQ ও RS এবং QR ও PS। PR এবং QS চতুর্ভুজটির দুইটি কর্ণ। প্রমাণ করতে হবে যে,[math]P R . Q S=P Q \cdot R S+Q R . P S[/math]
+অঙ্কন: [math]\angle Q P R[/math]
+ কে [math]\angle S P R[/math]
+ এর ছোট ধরে নিয়ে P বিন্দুতে PS রেখাংশের সাথে [math]\angle Q P R[/math]
+-এর সমান করে [math]\angle SPM[/math]
+ আঁকি যেন PM রেখা QS কর্ণকে M বিন্দুতে ছেদ করে।প্রমাণ: অঙ্কন অনুসারে [math]\angle Q P R=\angle S P M[/math]
+উভয়পক্ষে [math]\angle \mathrm{RPM}[/math]
+ যোগ করে পাই,[math]\angle Q P R+\angle R P M=\angle S P M+\angle R P M[/math]
+অর্থাৎ, [math]\angle \mathrm{QPM}=\angle \mathrm{RPS}[/math]
+এখন [math]\triangle \mathrm{PQM}[/math]
+ ও [math]\triangle \mathrm{PRS}[/math]
+ এর মধ্যে,[math]\angle Q P M=\angle R P S[/math]
+ [math]\angle \mathrm{PQS}=\angle \mathrm{PRS}[/math]
+ [একই বৃত্তাংশস্থিত কোণ সমান বলে]এবং অবশিষ্ট [math]\angle \mathrm{PMQ}=[/math]
+ অবশিষ্ট [math]\angle \mathrm{PSR}[/math]
+ [math]\therefore[/math]
+ [math]\triangle \mathrm{PQM}[/math]
+ ও [math]\triangle P R S[/math]
+ সদৃশকোণী, তাই সদৃশ।[math]\frac{Q M}{R S}=\frac{P Q}{P R}[/math]
+অর্থাৎ [math]\mathrm{PR}, \mathrm{QM}=\mathrm{PQ} \cdot \mathrm{RS}..........\text { (i) }[/math]
+আবার, [math]\therefore \triangle P Q R[/math]
+ ও [math]\triangle \mathrm{PMS}[/math]
+ এর মধ্যে[math]\angle Q P R=\angle S P M[/math]
+ [অঙ্কন অনুসারে][math]\angle \mathrm{PSM}=\angle \mathrm{PRQ}[/math]
+ [একটি বৃত্তাংশস্থিত কোণ সমান বলে]এবং অবশিষ্ট [math]\angle \mathrm{PQR}=[/math]
+ = অবশিষ্ট [math]\angle \mathrm{PMS}[/math]
+ [math]\therefore \quad \triangle \mathrm{PQR}[/math]
+ ও [math]\triangle \mathrm{PMS}[/math]
+ সদৃশকোণী, তাই সদৃশ।[math]\therefore \quad \frac{\mathrm{PS}}{\mathrm{PR}}=\frac{\mathrm{MS}}{\mathrm{QR}}[/math]
+অর্থাৎ, [math]\mathrm{PR} \cdot \mathrm{MS}=\mathrm{QR} \cdot \mathrm{PS}.......\text { (ii) }[/math]
+এখন সমীকরণ (i) ও (ii) যোগ করে পাই,[math]P R \cdot Q M+P R \cdot M S=P Q \cdot R S+Q R \cdot P S[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{PR}(\mathrm{QM}+\mathrm{MS})=\mathrm{PQ} \cdot \mathrm{RS}+\mathrm{QR} \cdot \mathrm{PS}[/math]
+ [math]\therefore \mathrm{PR} \cdot \mathrm{QS}=\mathrm{PQ} \cdot \mathrm{RS}+\mathrm{QR} \cdot \mathrm{PS}[/math]
+[যেহেতু QM + MS = Qs] (প্রমাণিত) [math]\\[/math]
+ গদেওয়া আছে, PR = 10 সে.মি. এবং QS = 8 সে.মি.PR ধার বিশিষ্ট ঘনকের ক্ষেত্রফল [math]=6 \mathrm{PR}^{2}=6 \times(10)^{2}[/math]
+ বর্গ সে.মি.[math]=600[/math]
+ বর্গ সে.মি.আবার, QS ধারবিশিষ্ট ঘনকের ক্ষেত্রফল [math]=6 \mathrm{QS}^{2}=6 \times(8)^{2}[/math]
+ বর্গ সে.মি.[math]= 384[/math]
+ বর্গ সে.মি.[math]\therefore[/math]
+ ঘনক দুটির ক্ষেত্রফলের অনুপাত [math]=600: 384=25: 16 \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 707274)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Cantonment Public School & College Lalmonirhat
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. চিত্রের ঘনবস্তুর আয়তন নির্ণয় কর।
+খ. তিনটি নিরেট ধাতব গোলকের ব্যাসার্ধ যথাক্রমে AB, BC ও CC' । গোলক তিনটিকে গলিয়ে একটি নিরেট নতুন গোলকে পরিণত করা হলো। এর ব্যাসার্ধ ও পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+গ. ঘনবস্তুটির ABCD তলটিকে বৃহত্তম বাহুর চারদিকে ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল এবং আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 707275)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Ispahani Public School And College
+--------------------------------------------------------------------------------
+Question:
+একটি ঘনকাকৃতি কাঠামোর উপর দুই চালবিশিষ্ট একটি গুদামঘর তৈরি করা হলো এবং 44 মি. পরিধিবিশিষ্ট একটি গোলক ঘনকটির ভিতর ঠিকভাবে এঁটে যায়। চালের প্রতিটি অংশের প্রস্থ 16 মি.।
+
+Options:
+ক. 15 সে.মি. দৈর্ঘ্য ও 3 সে.মি. ব্যাসার্ধবিশিষ্ট একটি ক্যাপসুলের সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+খ. ঘনকটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+গ. গুদাম ঘরটির আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 707263)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে সমবৃত্তভূমিক কোণকটির [math]QR = 10[/math] সে.মি., উচ্চতা [math]= 12[/math] সে.মি. এবং [math]\triangle \mathrm{QPR}[/math] এর [math]PQ[/math] ও [math]PR[/math] এর মধ্যবিন্দু যথাক্রমে [math]M[/math] ও [math]N.[/math]
+
+Options:
+ক. [math]6[/math] সে.মি. ব্যাসার্ধ বিশিষ্ট গোলকের পৃষ্ঠতলের ক্ষেত্রফল ও আয়তন নির্ণয় কর।
+খ. ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]\mathrm{MN} \| \mathrm{QR}[/math] ও [math]\mathrm{MN}=\frac{1}{2} \mathrm{QR}.[/math]
+গ. কোণকটির সমগ্রতলের ক্ষেত্রফল এবং আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 707266)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: ASCR
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+একই ভূমি ও একই উচ্চতা বিশিষ্ট একটি বেলন ও একটি কোণক।
+
+Options:
+ক. কোণটির তির্যক উন্নতি নির্ণয় কর।
+খ. বেলনটির অনাধিকৃত অংশের আয়তন নির্ণয় কর।
+গ. বেলনের বক্রতলের ক্ষেত্রফল ও কোণকের সমগ্রতলের ক্ষেত্রফল এর অনুপাত নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 707267)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: MMAR
+--------------------------------------------------------------------------------
+Question:
+একটি ফাঁপা লোহার গোলকের বাইরের ব্যাস 13 সে.মি. এবং লোহার বেধ 2 সে.মি.।
+
+Options:
+ক. প্রিজম ও পিরামিডের আয়তন নির্ণয়ের সূত্র দুইটি লেখ।
+খ. ঐ গোলকে ব্যবহৃত লোহাকে গলিয়ে একটি নতুন গোলক প্ৰস্তুত করা হলো । তার ব্যাস নির্ণয় কর।
+গ. নতুন গোলকটি যদি একটি সিলিন্ডার আকৃতির বাক্সে ঠিকভাবে এঁটে যায় তাহলে বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 707268)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Bogra Zilla School, Bogra
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] সমকোণী ত্রিভুজে [math]\angle \mathrm{A}=90^{\circ}, \angle \mathrm{B}=2 \angle \mathrm{C}[/math] এবং [math]BC=5~cm[/math]।
+
+Options:
+ক. ত্রিভুজটি অঙ্কন কর।
+খ. [math]\triangle ABC[/math] এর অন্তবৃত্তের ব্যাসার্ধ নির্ণয় কর।
+গ. ত্রিভুজটিকে [math]BC[/math] বাহুর চতুর্দিকে ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 707229)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Government Agragami Girls' High School and College, Sylhet
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে ঘনকাকৃতি বাক্সের মধ্যে PQR গোলকটি ঠিকভাবে এঁটে যায়।
+
+Options:
+ক. একটি ত্রিভুজাকৃতি প্রিজমের ভূমির বাহুগুলোর দৈর্ঘ্য যথাক্রমে 6, 8 এবং 10 সে.মি.। এর উচ্চতা 12 সে.মি. হলে প্রিজমের সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+খ. প্রথম চিত্রে, D, BC এর মধ্যবিন্দু হলে প্রমাণ কর যে, [math]\mathrm{AC}^{2}=\mathrm{AD}^{2}+3 \mathrm{CD}^{2}[/math]
+গ. বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 707230)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: BAF Shaheen College Shamshernagar, Moulvibazar
+--------------------------------------------------------------------------------
+Question:
+[math]y = x + 5, y = − x + 5, y = 2[/math] তিনটি সমীকরণ দ্বারা একটি ত্রিভুজের বাহু নির্দেশ করে।
+
+Options:
+ক. ভেক্টর যোগের সামান্তরিক বিধি প্রমাণ কর।
+খ. ত্রিভুজটির চিত্র আঁক ও এটি কোন ধরনের ত্রিভুজ তা আলোচনা কর।
+গ. প্রদত্ত ত্রিভুজটির সুবিধাজনক কোনো বাহুকে অক্ষ ধরে তার চতুর্দিকে ত্রিভুজটিকে একবার ঘুরিয়ে আনলে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রপৃষ্ঠের ক্ষেত্রফল ও আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 707231)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: BZSB
+--------------------------------------------------------------------------------
+Question:
+(i) EFGH চতুর্ভুজে A, B, C ও D যথাক্রমে EF, FG, GH ও EH এর মধ্যবিন্দু।
+
+(ii) 5.5 সে.মি. ব্যাসার্ধের একটি গোলক একটি ঘনকাকৃতি বাক্সে ঠিকভাবে এঁটে যায়।
+
+Options:
+ক. E(2, 3), F(5, 6), G(–1, 4) দ্বারা গঠিত ত্রিভুজের ক্ষেত্রফল নির্ণয় কর।
+খ. ভেক্টরের সাহায্যে প্রমাণ কর যে, উদ্দীপকের চতুর্ভুজের বাহুর মধ্যবিন্দুর সংযোজক রেখাসমূহ একটি সামান্তরিক উৎপন্ন করে।
+গ. বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 707232)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Bogura Govt Girls High School And College
+--------------------------------------------------------------------------------
+Question:
+ΔΑΒΟ এর BC, CA, AB বাহুর মধ্যবিন্দু যথাক্রমে D, E, F।
+
+Options:
+ক. 6 সে.মি. ব্যাসার্ধবিশিষ্ট একটি গোলকের পৃষ্ঠতল ও আয়তন নির্ণয় কর ৷
+খ. ভেক্টরের সাহায্যে প্রমাণ কর: [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}+\overrightarrow{\mathrm{CF}}=\underline{0}[/math]
+গ. ভেক্টরের সাহায্যে প্রমাণ কর: DE || BC এবং [math]\mathrm{DE}=\frac{1}{2} \mathrm{BC}.[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 707233)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Govt. Harachandra Girls High School, Jhalokathi
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{ABC}[/math] এর [math]AB = AC[/math] এবং [math]AB, BC[/math] ও [math]AC[/math] এর মধ্যবিন্দু যথাক্রমে [math]F, D, E[/math] । যেখানে [math]AD = 8[/math] সে.মি. এবং [math]BC = 12[/math] সে.মি.।
+
+Options:
+ক. প্রমাণ কর : [math]\mathrm{AD} \perp \mathrm{BC}[/math]
+খ. ভেক্টর পদ্ধতিতে প্রমাণ কর : [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}+\overrightarrow{\mathrm{CF}}=\underline{0}[/math] গ . [math]AD[/math] বাহুকে স্থির রেখে ক্ষেত্রটিকে চারপাশে একবার ঘুরালে যে ঘন বস্তু উৎপন্ন হয় তার আয়তন এবং সমগ্র তলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 707235)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: UUMB
+--------------------------------------------------------------------------------
+Question:
+A(2, – 3); B(7, – 3) এবং C(2, 3) তিনটি বিন্দু এবং PQ = 4 একক।
+
+Options:
+ক. BC এর সমীকরণ নির্ণয় কর।
+খ. AB কে অক্ষ ধরে [math]\triangle ABC[/math] কে উহার চারদিকে একবার ঘোরালে যে ঘনবস্তু উৎপন্ন হয়, তার সমগ্রতলের ক্ষেত্রফল ও আয়তনের সাংখ্যিক মানের পার্থক্য নির্ণয় কর।
+গ. A, B এর মধ্যবর্তী দূরত্ব A, C এর মধ্যবর্তী দূরত্ব এবং PQ এর সমান ব্যাসার্ধ নিয়ে অংকনের বিবরণসহ তিনটি বহিঃস্পর্শ বৃত্ত অঙ্কন কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 707236)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Tikatuli Kamrunnesa Govt. Girls' High School
+--------------------------------------------------------------------------------
+Question:
+6 সে.মি. ব্যাসবিশিষ্ট একটি নিরেট ধাতব কঠিন গোলককে . গলিয়ে 3 সে.মি. ব্যাসার্ধ বিশিষ্ট একটি সমবৃত্তভূমিক সিলিন্ডার আকৃতির দন্ডে পরিণত করা হলো।
+
+Options:
+ক. গোলকের পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+খ. সিলিন্ডার আকৃতির দন্ডটির দৈর্ঘ্য নির্ণয় কর।
+গ. নিরেট গোলকটিকে গলিয়ে 5 সে.মি. বহিঃব্যাসার্ধ বিশিষ্ট ও সমভাবে পুরু একটি ফাঁপা গোলক প্রস্তুত করা হলো। ফাঁপা গোলকের পুরুত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 707244)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: RBGHS
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\triangle PQR[/math] এ [math]PQ[/math] এবং [math]PR[/math] এর মধ্যবিন্দু যথাক্রমে [math]D[/math] ও [math]E[/math] [math]\text{(ii)}[/math] একটি সমবৃত্তভূমিক কোণকের আয়তন [math]V,[/math] বক্রতলের ক্ষেত্রফল [math]S,[/math] ভূমির ব্যাসার্ধ [math]1,[/math] উচ্চতা [math]h[/math] এবং অর্ধশীর্ষ [math]\alpha[/math]।
+
+Options:
+ক. ভেক্টর পদ্ধতিতে [math]DE[/math] এবং [math]QR[/math] এর মধ্যে সম্পর্ক প্রতিষ্ঠা কর।
+খ. [math]QRED[/math] ট্রাপিজিয়ামের কর্ণদ্বয়ের মধ্যবিন্দু যথাক্রমে [math]M[/math] এবং [math]N[/math] হলে ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]MN[/math] ও [math]QR[/math] পরস্পর সমান্তরাল এবং [math]\mathrm{MN}=\frac{\mathrm{QR}-\mathrm{DE}}{2}[/math]।
+গ. কোণকটির ক্ষেত্রে প্রমাণ কর যে, [math]S=\frac{\pi r^{2}}{\sin \alpha}[/math] এবং [math]\mathrm{V}=\frac{\pi \mathrm{r}^{3}}{3 \tan \alpha}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 707245)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: BB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{ABCD}[/math] চতুর্ভুজের [math]\mathrm{AB}, \mathrm{BC}, \mathrm{CD}[/math] ও [math]\mathrm{AD}[/math] বাহুর মধ্যবিন্দু যথাক্রমে [math]\mathrm{P},\mathrm{Q},\mathrm{R}[/math] ও [math]\mathbf{S}[/math]। [math]\mathbf{AC}[/math] কর্নের মধ্যবিন্দু [math]\mathbf{M}.[/math]
+
+Options:
+ক. [math]7[/math] সে.মি. ব্যাসবিশিষ্ট একটি গোলকের পৃষ্টতলের ক্ষেত্রফল নির্ণয় কর।
+খ. ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]\text {PQRS}[/math] একটি সামান্তরিক।
+গ. প্রমাণ কর যে, [math]\overrightarrow{\mathrm{AQ}}+\overrightarrow{\mathrm{CP}}+\overrightarrow{\mathrm{BM}}= \underline {0}[/math]
+
+
+Correct Answer: 
+
+Solution:
+কগোলকের ব্যাস 7 সে.মি. হলে,ব্যাসার্ধ, [math]r=\frac{7}{2}=3.5[/math]
+ সে.মি.,[math]\therefore[/math]
+ পৃষ্ঠতলের ক্ষেত্রফল [math]=4 \pi r^{2}[/math]
+ বৰ্গ একক[math]=4 \pi \times 3.5^{2}[/math]
+ [math]=153.94[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপাঠ্যবইয়ের অধ্যায়-১২ এর উদাহরণ- ৫ দ্রষ্টব্য। পৃষ্ঠা-২৮৩ [math]\\[/math]
+ গ
+[Image]
+[math]\triangle \mathrm{ABQ}[/math]
+-এ ত্রিভুজ সূত্র হতে পাই,[math]\overrightarrow{\mathrm{AQ}}=\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{BQ}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{AQ}}=\overrightarrow{\mathrm{AB}}+\frac{1}{2} \overrightarrow{\mathrm{BC}}\ldots \ldots \ldots \ldots \ldots \ldots(\mathrm{i})[/math]
+ [Q, BC এর মধ্যবিন্দু বলে [math]\overrightarrow{\mathrm{BQ}}=\frac{1}{2} \overrightarrow{\mathrm{BC}}[/math]
+][math]\triangle \mathrm{ACP}[/math]
+-এ [math]\overrightarrow{\mathrm{AP}}=\overrightarrow{\mathrm{AC}}+\overrightarrow{\mathrm{CP}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{CP}}=\overrightarrow{\mathrm{AP}}-\overrightarrow{\mathrm{AC}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{CP}}=\frac{1}{2} \overrightarrow{\mathrm{AB}}-\overrightarrow{\mathrm{AC}}..........\text { (ii) }[/math]
+ [P, AB এর মধ্যবিন্দু বলে [math]\overrightarrow{\mathrm{AP}}=\frac{1}{2} \overrightarrow{\mathrm{AB}}[/math]
+]এবং [math]\triangle \mathrm{ABM}[/math]
+-এ [math]\overrightarrow{\mathrm{AM}}=\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{BM}}[/math]
+ [math]\Rightarrow \overrightarrow{\mathrm{BM}}=\overrightarrow{\mathrm{AM}}-\overrightarrow{\mathrm{AB}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{BM}}=\frac{1}{2} \overrightarrow{\mathrm{AC}}-\overrightarrow{\mathrm{AB}}.........\text { (iii) }[/math]
+ [M, AC এর মধ্যবিন্দু বলে [math]\overrightarrow{\mathrm{AM}}=\frac{1}{2} \overrightarrow{\mathrm{AC}}[/math]
+]এখন, (i), (ii) ও (iii) নং সমীকরণ যোগ করে পাই,[math]\overrightarrow{A Q}+\overrightarrow{C P}+\overrightarrow{B M}=\overrightarrow{A B}+\frac{1}{2} \overrightarrow{B C}+\frac{1}{2} \overrightarrow{A B}-\overrightarrow{A C}+\frac{1}{2} \overrightarrow{A C}-\overrightarrow{A B}[/math]
+ [math]\Rightarrow[/math]
+ [math]\overrightarrow{A Q}+\overrightarrow{B M}+\overrightarrow{C P}=\frac{1}{2} \overrightarrow{A B}+\frac{1}{2} \overrightarrow{B C}-\frac{1}{2} \overrightarrow{A C}[/math]
+ [math]\begin{array}{l}=\frac{1}{2}(\overrightarrow{A B}+\overrightarrow{B C})-\frac{1}{2} \overrightarrow{A C} \\=\frac{1}{2} \overrightarrow{A C}-\frac{1}{2} \overrightarrow{A C}=0\end{array}[/math]
+ [math]\therefore \overrightarrow{\mathrm{AQ}}+\overrightarrow{\mathrm{BM}}+\overrightarrow{\mathrm{CP}}=\underline 0[/math]
+ (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 707246)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2017 | Boards:  | Tags: DB
+--------------------------------------------------------------------------------
+Question:
+একটি নিরেট ধাতব সমবৃত্তভূমিক কোণকের উচ্চতা [math]8[/math] সে.মি., ভূমির ব্যাসার্ধ [math]6[/math] সে.মি.। উক্ত কোণককে গলিয়ে [math]4[/math] সে.মি. ব্যাসের কয়েকটি নিরেট গোলক প্রস্তুত করা হল।
+
+Options:
+ক. প্রতিটি গোলকের পৃষ্টতলের ক্ষেত্রফল নির্ণয় কর।
+খ. কোণকটির সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+গ. কয়টি নিরেট গোলক তৈরি করা যাবে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, গোলকের ব্যাস = 4 সে.মি.[math]\therefore[/math]
+ গোলকের ব্যাসার্ধ, [math]R=\frac{4}{2}[/math]
+ সে.মি. [math]= 2[/math]
+ সে.মি.[math]\therefore[/math]
+ গোলকের পৃষ্ঠতলের ক্ষেত্রফল [math]=4 \pi \mathrm{R}^{2}[/math]
+ বর্গ একক[math]=4 \times 3.1416 \times 2^{2}[/math]
+ বর্গ সে.মি.[math]= 50.27[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, সমবৃত্তভূমিক কোণকের ব্যাসার্ধ, r = 6 সে.মি. এবং উচ্চতা, h = 8 সে.মি.[math]\therefore[/math]
+ হেলানো উচ্চতা, [math]l=\sqrt{h^{2}+\mathrm{r}^{2}}=\sqrt{8^{2}+6^{2}}[/math]
+ সে.মি.[math]=\sqrt{100}[/math]
+ সে.মি. [math]= 10[/math]
+ সে.মি.[math]\therefore[/math]
+ কোণকের সমগ্রতলের ক্ষেত্রফল [math]=\pi r(l+r)[/math]
+ বর্গ একক[math]= 3.1416 × 6(10 + 6)[/math]
+ বর্গ সে.মি.[math]= 301.5936[/math]
+ বর্গ সে.মি. (প্রায়) [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গকোণকের আয়তন [math]=\frac{1}{3} \pi r^{2} h[/math]
+ ঘন একক[math]=\frac{1}{3} \times \pi \times 6^{2} \times 8[/math]
+ ঘন সে.মি.[math]=96 \pi[/math]
+ ঘন সে.মি.নিরেট গোলকের আয়তন [math]=\frac{4}{3} \pi \mathrm{R}^{3}[/math]
+ ঘন একক[math]=\frac{4}{3} \times \pi \times 2^{3}[/math]
+ ঘন সে.মি.[ [math]\because \mathrm{R}=2[/math]
+ সে.মি.][math]=\frac{32 \pi}{3}[/math]
+ ঘন সে.মি.ধরি, কোণকটি গলিয়ে n সংখ্যক গোলক তৈরি করা যাবে।প্রশ্নমতে, [math]96 \pi=n\left(\frac{32 \pi}{3}\right)[/math]
+ [math]\Rightarrow n=\frac{96 \pi \times 3}{32 \pi}[/math]
+ [math]\therefore \quad n=9[/math]
+টি [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 707259)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: RBGBHS
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]ABCD[/math] একটি চতুর্ভুজ।
+
+Options:
+ক. প্রমাণ কর যে, [math]\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{BC}}+\overrightarrow{\mathrm{CD}}=\overrightarrow{\mathrm{AD}}[/math]
+খ. [math]AB, BC, CD[/math] ও [math]DA[/math] বাহুর মধ্যবিন্দু যথাক্রমে [math]I, J, K, L[/math] হলে প্রমাণ কর যে, [math]IJKL[/math] একটি সামান্তরিক।
+গ. [math]AB = 6[/math] সে.মি., [math]BC = 7[/math] সে.মি. এবং [math]CD = 8[/math] সে.মি. ব্যাস বিশিষ্ট তিনটি গোলক গলিয়ে একটি নতুন গোলক তৈরি করা হলো। নতুন গোলকের পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 707260)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: NKMHSH
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকের আলোকে নিচের প্রশ্নগুলির উত্তর দাও :
+
+[math]\text {ax + by + c=0}[/math] রেখাটি [math]\text {x}[/math] ও [math]\text{y}[/math] অক্ষকে [math]\mathrm{A}\left(\mathrm{x}_{1}, \mathrm{y}_{1}\right)[/math] ও [math]\mathrm{B}\left(\mathrm{x}_{2}, \mathrm{y}_{2}\right)[/math] বিন্দুতে ছেদ করে। আবার, [math]\left(\mathrm{k}^{2}, 2 \mathrm{k}\right)[/math] বিন্দুগামী এবং [math]\frac{1}{\mathrm{k}}[/math] ঢাল বিশিষ্ট রেখাটি [math]C(- 2, 1)[/math] বিন্দুগামী ৷
+
+Options:
+ক. [math]a = 5, b = 4[/math] এবং [math]C = - 20[/math] হলে [math]AC[/math] রেখার ঢাল ও [math]k[/math] এর সম্ভাব্য মান নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]AB[/math] এর দৈর্ঘ্য [math]=\sqrt{\left(x_{1}-x_{2}\right)^{2}+\left(y_{1}-y_{2}\right)^{2}}[/math]
+গ. [math]\triangle \mathrm{ABC}[/math] এর উপর অবস্থিত [math]5[/math] একক উচ্চতা বিশিষ্ট প্রিজমের সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 707214)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Motijheel Govt. Girls High School
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. একটি সুষম চতুস্তলকের যে কোন ধারের দৈর্ঘ্য 4 সে.মি. হলে, এর সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+খ. সিলিন্ডারটির ভূমির ক্ষেত্রফল এবং সমগ্র তলের ক্ষেত্রফল নির্ণয় কর।
+গ. একটি গোলক আকৃতির বল সিলিন্ডারের ভেতরে ঠিকভাবে এঁটে যায়। সিলিণ্ডারের অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 707215)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Noakhali Zilla School, Noakhali
+--------------------------------------------------------------------------------
+Question:
+বৃত্তে অন্তর্লিখিত একটি চতুর্ভুজ PQRS এর দুইটি কর্ণ PR = 8 সে.মি. এবং QS = 12 সে.মি.।
+
+Options:
+ক. টলেমির উপপাদ্যটি লিখ।
+খ. জ্যামিতিক পদ্ধতিতে প্রমাণ কর যে, PR.QS = PQ.RS + PS.QR
+গ. PR এবং QS যথাক্রমে বর্গাকার ভূমির উপর অবস্থিত একটি সুষম পিরামিডের বাহুর দৈর্ঘ্য এবং উচ্চতা হলে পিরামিডটির সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 707216)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Dr. Khastagir Govt. Girls' High School, Chottogram
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{ABC}[/math] এর AB ও BC বাহুর মধ্যবিন্দু যথাক্রমে D ও E। ত্রিভুজটির AB ও AC বাহুর দৈর্ঘ্য যথাক্রমে 4 সে.মি. ও 5 সে.মি. এবং [math]\angle B=1[/math] সমকোণ।
+
+Options:
+ক. 5 সে.মি. ধার বিশিষ্ট একটি ঘনকের কর্ণের দৈর্ঘ্য নির্ণয় কর।
+খ. ভেক্টরের সাহায্যে প্রমাণ কর যে, DE || AC
+গ. ত্রিভুজটিকে AB বাহুর চতুর্দিকে ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 707217)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Ispahani Public School And College. Chattogram
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{ABC}[/math] এর [math]S, O[/math] যথাক্রমে পরিকেন্দ্র ও লম্ববিন্দু এবং [math]AP[/math] এর মধ্যমা।
+
+Options:
+ক. [math]\triangle \mathrm{ABC}[/math] অংকন কর এবং [math]OA[/math] ও [math]SP[/math] এর মধ্যে সম্পর্কটি লিখ।
+খ. ত্রিভুজটির ভরকেন্দ্র [math]G[/math] হলে দেখাও যে, [math]S, G, O[/math] একই সরলরেখায় অবস্থিত।
+গ. [math]\triangle \mathrm{ABC}[/math] এর [math]\angle C[/math] সমকোণ হলে এবং [math]C[/math] থেকে অতিভুজের উপর লম্ব [math]CD[/math] হলে প্রমাণ কর যে, [math]\mathrm{CD}^{2}=\mathrm{AD} \cdot \mathrm{BD}[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 707218)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Bangladesh Navy School and College, Chittagong
+--------------------------------------------------------------------------------
+Question:
+একটি গোলকের ব্যাস 6 সে.মি. এবং আয়তাকার ঘনবস্তুর মাত্রাগুলো যথাক্রমে 3 সে.মি., 4 সে.মি. ও 5সে.মি.।
+
+Options:
+ক. গোলকটির আয়তন নির্ণয় কর।
+খ. আয়তাকার ঘনবস্তুর সমগ্রতলের ক্ষেত্রফল গোলকটির কেন্দ্র থেকে 2 সে.মি. উচ্চতায় তলচ্ছেদে উৎপন্ন বৃত্তের ক্ষেত্রফল অপেক্ষা কত বেশি তা নির্ণয় কর।
+গ. বিবরণসহ পরস্পর তিনটি বহিঃস্পর্শ বৃত্ত অঙ্কন কর যাদের ব্যাসার্ধ যথাক্রমে আয়তাকার ঘনবস্তুর মাত্রাগুলোর সমান হয়।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 707219)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Chittagong Cantonment Public School & College
+--------------------------------------------------------------------------------
+Question:
+একটি সমবৃত্তভূমিক কোণকের ভূমির ব্যাসার্ধ 5 সে.মি. ও উচ্চতা 12 সে.মি.। কোণকটি একটি সিলিন্ডার আকৃতির বাক্সে ঠিকভাবে এঁটে যায়। আবার ABCD সামান্তরিকের AC ও BD কর্ণদ্বয় পরস্পরকে O বিন্দুতে ছেদ করে।
+
+Options:
+ক. কোণকটির ভূমির ক্ষেত্রফল নির্ণয় কর
+খ. বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+গ. ভেক্টরের সাহায্যে প্রমাণ কর যে, AO = OC এবং BO = OD.
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 707220)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Naogaon Zilla School
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\triangle LMN[/math] এর [math]MN, NL[/math] ও [math]LM[/math] এর মধ্যবিন্দু যথাক্রমে [math]P, Q[/math] ও [math]R[/math] এবং [math]MN = 24cm[/math]
+
+Options:
+ক. যদি কোন গোলকের ব্যাস [math]MN[/math] হয়, তবে তার -পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\overrightarrow{\mathrm{LP}}+\overrightarrow{\mathrm{MQ}}+\overrightarrow{\mathrm{NR}}=\underline{0}[/math]
+গ. ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]R[/math] বিন্দু দিয়ে অঙ্কিত [math]MN[/math] এর সমান্তরাল রেখা অবশ্যই [math]Q[/math] বিন্দুগামী হবে।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 707221)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020, 2020 | Boards:  | Tags: Bangladesh Chemical Industries Corporation College, Naogaon Zilla School
+--------------------------------------------------------------------------------
+Question:
+যদি A(2, −3), B(7, −3) এবং C(2, 3) হয়, তাহলে-
+
+Options:
+ক. BC রেখার ঢাল নির্ণয় কর।
+খ. বিন্দুত্ৰয় ছক কাগজে স্থাপন করে দেখাও যে এরা একটি সমকোণী ত্রিভুজের শীর্ষ বিন্দু এবং ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।
+গ. AB কে অক্ষ ধরে, [math]\triangle \mathrm{ABC}[/math] কে এক পাক ঘুরালে যে ঘনবস্তু উৎপন্ন হয়, তার সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 707222)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Pabna Zilla School, Pabna
+--------------------------------------------------------------------------------
+Question:
+[math]PQR[/math] ত্রিভুজের উচ্চতা [math]h = 3.5 cm,[/math] শীর্ষ বিন্দু [math]P[/math] হতে ভূমি [math]QR[/math] এর উপর মধ্যমা [math]PS = 4cm,[/math] এবং [math]\angle Q=60^{\circ}[/math]
+
+Options:
+ক. কোণকের উচ্চতা [math]h[/math] এবং ব‍্যাস [math]PS[/math] হলে আয়তন কত?
+খ. উদ্দীপকের আলোকে ত্রিভুজটি অঙ্কন কর এবং অঙ্কনের বিবরণ দাও৷
+গ. প্রমাণ কর যে, [math]\mathrm{PQ}^{2}+\mathrm{PR}^{2}=2\left(\mathrm{PS}^{2}+\mathrm{QS}^{2}\right)[/math]
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 707223)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019 | Boards:  | Tags: SB
+--------------------------------------------------------------------------------
+Question:
+[math]\text { DEF }[/math] ত্রিভুজের ভূমি [math]a=4.6[/math] সে.মি., অপর বাহুদ্বয়ের সমষ্টি [math]s=7.8[/math] সে.মি. এবং শিরঃকোণ [math]\angle \mathrm{x}=60^{\circ}[/math]। একটি নিরেট লৌহ গোলকের ব্যাস উক্ত ত্রিভুজের ভূমির সমান। লৌহ গোলকটিকে পিটিয়ে [math]\frac{3}{5}[/math] সে.মি. পুরু একটি বৃত্তাকার লৌহপাত প্রস্তুত করা হলো।
+
+Options:
+ক. [math]\text {DEF}[/math] ত্রিভুজটি অঙ্কন কর।
+খ. লৌহপাতটির ব্যাস নির্ণয় কর।
+গ. যদি [math]\triangle \mathrm{DEF}[/math] এর [math]\mathrm{DE}[/math] ও [math]\mathrm{DF}[/math] এর মধ্যবিন্দু যথাক্রমে [math]\text {P}[/math] ও [math]\text {Q}[/math] হয় তবে ভেক্টর পদ্বতিতে প্রমাণ কর যে, [math]\mathrm{PQ} \| \mathrm{EF}.[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+[math]\\[/math]
+ খপ্রশ্নমতে, লৌহগোলকের ব্যাস = 4.6 সে. মি.[math]\therefore[/math]
+ লৌহগোলকের ব্যাসার্ধ, R = 2.3 সে.মি.[math]\therefore[/math]
+ লৌহগোলকের আয়তন [math]=\frac{4}{3} \pi R^{3}[/math]
+ ঘন একক[math]=\frac{4}{3} \pi(2.3)^{3}[/math]
+ ঘন সে.মি.[math]=50.965[/math]
+ ঘন সে. মি.আবার, মনে করি, বৃত্তাকার পাতের ব্যাসার্ধ = r সে. মি.এবং পাতের পুরুত্ব, [math]h=\frac{3}{5}[/math]
+ সে. মি.[math]\therefore[/math]
+ লৌহপাতের আয়তন [math]=\pi r^{2} h[/math]
+ ঘন একক[math]=\pi r^{2} \times \frac{3}{5}[/math]
+ ঘন সে. মি.শর্তমতে, [math]\pi r^{2} \times \frac{3}{5}=50.965[/math]
+ [math]\begin{array}{l}\Rightarrow r^{2}=\frac{50.965 \times 5}{3 \pi} \\\Rightarrow r=\sqrt{27.03777}=5.19978\end{array}[/math]
+ [math]\therefore[/math]
+ ব্যাস, [math]2 r=10.3995[/math]
+ সে. মি. [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ
+[Image]
+এখানে DEF ত্রিভুজের DE ও DF বাহুর মধ্যবিন্দু যথাক্রমে P ও Q প্রমাণ করতে হবে যে, PQ || BFপ্রমাণ : ভেক্টর বিয়োগের ত্রিভুজ বিধি অনুসারে,[math]\overrightarrow{P Q}=\overrightarrow{D Q}-\overrightarrow{D P} \ldots \ldots \text { (i) }[/math]
+এবং [math]\overrightarrow{\mathrm{EF}}=\overrightarrow{\mathrm{DF}}-\overrightarrow{\mathrm{DE}} \ldots \ldots \text { (ii) }[/math]
+কিন্তু, [math]\overrightarrow{\mathrm{DF}}=2 \overrightarrow{\mathrm{DQ}}, \overrightarrow{\mathrm{DE}}=2 \overrightarrow{\mathrm{DP}}[/math]
+ [math]\therefore[/math]
+ (ii) হতে পাই,[math]\overrightarrow{\mathrm{EF}}=2 \overrightarrow{\mathrm{DQ}}-2 \overrightarrow{\mathrm{DP}}=2(\overrightarrow{\mathrm{DQ}}-\overrightarrow{\mathrm{DP}})[/math]
+ [math]=2 \overrightarrow{P Q}[/math]
+ [(i) হতে][math]\therefore \overrightarrow{\mathrm{PQ}}=\frac{1}{2} \overrightarrow{\mathrm{EF}}[/math]
+অতএব, PQ ও EF এর ধারক রেখা সমান্তরাল বা একই হবে। কিন্তু এখানে ধারকরেখা এক নয়।[math]\therefore[/math]
+ PQ || EF (প্রমাণিত)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 707201)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: NGHSN
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+ABCD আয়তক্ষেত্রের AB = 12 সে.মি. BC = 5 সে.মি.।
+
+Options:
+ক. কোনো গোলকের পৃষ্ঠতলের ক্ষেত্রফল [math]36 \pi[/math] বর্গ সে.মি. হলে এর ব্যাস নির্ণয় কর।
+খ. ABC ত্রিভুজটিকে AB বাহুর সাপেক্ষে ঘোরালে উৎপন্ন ঘনবস্তুর ভূমিতল ও বক্রতলের ক্ষেত্রফলের অনুপাত নির্ণয় কর।
+গ. ভেক্টরের সাহায্যে প্রমাণ কর যে, AC ও BD কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 707203)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Comilla Zilla School, Comilla
+--------------------------------------------------------------------------------
+Question:
+সমকোণী [math]\triangle \mathrm{PQR}[/math] এ PQ = 4 সে.মি. PR = 3 সে.মি. এবং QR = 5 সে.মি.। PM, QN ও RS মধ্যমাত্রয় ‘O' বিন্দুতে মিলিত হয়।
+
+Options:
+ক. তথ্য অনুযায়ী চিত্র অঙ্কন কর।
+খ. PM এর দৈর্ঘ্য নির্ণয় কর।
+গ. ত্রিভুজটিকে PQ বাহুর চতুর্দিকে ঘুরালে যে ঘনবস্তু উৎপন্ন হয় তার আয়তন ও সমগ্রতলের ক্ষেত্রফল বের কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 707205)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Nawab Faizunnesa Govt. Girls' High School, Cumilla
+--------------------------------------------------------------------------------
+Question:
+[math]\text{(i)}[/math] একটি পিরামিডের ভূমি [math]8cm[/math] বাহুবিশিষ্ট সুষম অষ্টভুজ এবং পিরামিডটির উচ্চতা [math]12cm.[/math] [math]\text{(ii)}[/math] [math]\triangle XYZ[/math]-এ [math]XY[/math] বাহুর মধ্যবিন্দু $$ এবং [math]ST[/math] রেখাংশ [math]XZ[/math] কে [math]T[/math] বিন্দুতে ছেদ করে।
+
+Options:
+ক. [math]13~ cm[/math] ব্যাসার্ধবিশিষ্ট একটি গোলকের কেন্দ্র হতে [math]5cm[/math] উচ্চতায় ব্যাসের উপর লম্বসমতলের ক্ষেত্রফল নির্ণয় কর।
+খ. পিরামিডের সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+গ. ভেক্টর পদ্ধতিতে প্রমাণ কর যে, [math]T[/math] বিন্দুটি [math]XZ[/math] এর মধ্যবিন্দু।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 707207)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Cumilla Modern High School
+--------------------------------------------------------------------------------
+Question:
+চারটি বিন্দুর স্থানাঙ্ক যথাক্রমে A(6, 0), B(0, 6), C(– 6, 0), D(0, -6)
+
+Options:
+ক. AB রেখার সমীকরণ নির্ণয় কর।
+খ. প্রমাণ কর যে, ABCD একটি বর্গ।
+গ. একটি ফাঁপা লোহার গোলকের ভিতরের ব্যাস উক্ত বর্গের কর্ণের দৈর্ঘ্যের সমান এবং গোলকের বেধ ২ সে.মি. ফাঁপা গোলকের লোহা দ্বারা গঠিত নিরেট গোলকের ব্যাসার্ধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 707213)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rajendrapur Cantonment Public School & College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+(i) [math]\triangle ABC[/math]-এ [math]AB[/math] এবং [math]AC[/math] বাহুর মধ্যবিন্দু যথাক্রমে [math]D[/math] এবং [math]E[/math]।
+
+(ii) [math]6, 8[/math] এবং [math]1[/math] সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি কঠিন কাচের বল গলিয়ে [math]9[/math] সে.মি. ব্যাসার্ধবিশিষ্ট কঠিন গোলকে পরিণত করা হলো।
+
+Options:
+ক. সদিক রাশি এবং ধারক রেখা কাকে বলে?
+খ. ভেক্টরের সাহায্যে প্রমাণ কর যে, [math]\mathrm{DE} \| \mathrm{BC}[/math] এবং [math]\mathrm{DE}=\frac{1}{2} \mathrm{BC}.[/math]
+গ. [math]r[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 707179)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Rangpur Zilla School
+--------------------------------------------------------------------------------
+Question:
+তিনটি ঘনকের ধার যথাক্রমে 3 সে.মি., 4 সে.মি. এবং 5 সে.মি.। ঘনক তিনটি গলিয়ে একটি নতুন ঘনক তৈরি করা হলো।
+
+Options:
+ক. একটি প্রিজমের ভূমির ক্ষেত্রফল 6 বর্গ সে.মি. এবং উচ্চতা 8 সে.মি. হলে, প্রিজমটির আয়তন নির্ণয় কর।
+খ. নতুন ঘনকের সমগ্রতলের ক্ষেত্রফল ও কর্ণের দৈর্ঘ্য নির্ণয় কর।
+গ. 6 সে.মি. ব্যাসবিশিষ্ট একটি গোলক উদ্দীপকের নতুন ঘনকে ঠিকভাবে এঁটে গেলে ঘনকটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 707180)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Milestone College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+চিত্রটি লক্ষ করঃ
+
+
+[Image]
+
+
+Options:
+ক. (– 4, 2) বিন্দুগামী ও 2 ঢালবিশিষ্ট সরলরেখার সমীকরণ নির্ণয় কর।
+খ. চিত্রে প্রদর্শিত নিরেট গোলকটি একটি সিলিন্ডার আকৃতির বাক্সে ঠিকভাবে এঁটে গেলে সিলিন্ডারটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+গ. নিরেট গোলকটি হতে কতটি 8 সে.মি. দীর্ঘ ও 6 সে.মি. ব্যাসের নিরেট সিলিন্ডার প্রস্তুত করা যাবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 707181)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: SOS Hermann Gmeiner College Dhaka
+--------------------------------------------------------------------------------
+Question:
+ABCD সামান্তরিকের কর্ণদ্বয় AC ও BD পরস্পরকে O বিন্দুতে ছেদ করেছে।
+
+Options:
+ক. ঘনকের ধার 6 সে.মি. হলে ঘনকের সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+খ. ভেক্টর পদ্ধতিতে প্রমাণ কর যে, AO = OC এবং BO = OD
+গ. AO ও BO এর মধ্যবিন্দু যথাক্রমে M ও N হলে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, M বিন্দু দিয়ে অঙ্কিত AB এর সমান্তরাল রেখা অবশ্যই N বিন্দুগামী হবে।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 707182)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: সফিউদ্দিন সরকার একাডেমি এন্ড কলেজ
+--------------------------------------------------------------------------------
+Question:
+[math]\left(-\frac{3}{2}, 5\right)[/math] বিন্দুগামী একটি সরলরেখার ঢাল [math]-\frac{2}{3}[/math] এবং রেখাটি x-অক্ষ ও y-অক্ষদ্বয়কে যথাক্রমে P ও Q বিন্দুতে ছেদ করে।
+
+Options:
+ক. PQ রেখার সমীকরণ নির্ণয় কর।
+খ. PQ রেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার পরিসীমা ও ক্ষেত্রফল নির্ণয় কর।
+গ. OPQ ত্রিভুজটিকে y-অক্ষের সাপেক্ষে একবার ঘোরালে যে ঘনবস্তু -উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 707183)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020, 2020 | Boards:  | Tags: Market Actors Business School (MABS), JGGHSG
+--------------------------------------------------------------------------------
+Question:
+[math]P(t, 2 )[/math] বিন্দুগামী [math]2y – 3x + 6 = 0[/math] রেখাটি [math]x[/math] অক্ষকে [math]A[/math] এবং [math]y[/math] অক্ষকে [math]B[/math] বিন্দুতে ছেদ করে।
+
+Options:
+ক. রেখাটির ঢাল নির্ণয় কর।
+খ. [math]\triangle \mathrm{APB}[/math] এর ক্ষেত্রফল নির্ণয় কর।
+গ. [math]\triangle \mathrm{OAB}[/math] কে OB বাহুর চতুর্দিকে একবার ঘুরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 707184)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: A.E.R.E School and College, Savar, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একটি সিলিন্ডারের দৈর্ঘ্য ও ভূমির ব্যাসার্ধ যথাক্রমে 10 cm ও 5 cm
+
+Options:
+ক. ভেক্টর পদ্ধতিতে প্রমাণ কর যে, ত্রিভুজের যে কোনো দুই বাহুর মধ্যবিন্দুর সংযোগ রেখা তৃতীয় বাহুর সমান্তরাল ও দৈর্ঘ্যে অর্ধেক।
+খ. সিলিন্ডারটির বক্রতল ও সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+গ. একটি গোলক আকৃতির বল সিলিন্ডারের ভেতর ঠিকভাবে এঁটে যায়। সিলিন্ডারের অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 707185)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Mymensingh Zilla School, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+একটি সমবৃত্তভূমিক কোণক আকৃতির তাঁবুর উচ্চতা 8 মিটার এবং ভূমির ব্যাস 40 মিটার।
+
+Options:
+ক. তাঁবুটির হেলানো উচ্চতা নির্ণয় কর।
+খ. তাঁবু স্থাপন করতে কত বর্গমিটার জমির প্রয়োজন হবে? তাঁবুটির ভিতরের শূন্যস্থানের পরিমাণ নির্ণয় কর।
+গ. প্রতি বর্গমিটার ক্যানভাসের মূল্য 135.75 টাকা হলে, ক্যানভাস বাবদ কত টাকা খরচ হবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 707186)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Cantonment Public School and College Momenshahi
+--------------------------------------------------------------------------------
+Question:
+একটি সমবৃত্তভূমিক লোহার কোণকের উচ্চতা 36 সে.মি. এবং ভূমির ব্যাসার্ধ 15 সে.মি.।
+
+Options:
+ক. কোণকের হেলানো উচ্চতা নির্ণয় কর।
+খ. কোণকের সমগ্রতলের ক্ষেত্রফল এবং আয়তন নির্ণয় কর।
+গ. কোণকটিকে গলিয়ে একটি নিরেট গোলক তৈরি করা হলে গোলকের ব্যাসার্ধ এবং ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 707187)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Faridpur Zilla School
+--------------------------------------------------------------------------------
+Question:
+6 সে.মি. 8 সে.মি. এবং x সে.মি. ব্যাসার্ধ বিশিষ্ট তিনটি নিরেট গোলককে গলিয়ে 9 সে.মি. ব্যাসার্ধ বিশিষ্ট একটি কঠিন গোলকে পরিণত করা হল যা সিলিন্ডার আকৃতির একটি বাক্সে ঠিকভাবে এঁটে যায় ৷
+
+Options:
+ক. দ্বিতীয় গোলকটির পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+খ. x এর মান নির্ণয় কর।
+গ. বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 707188)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Faridpur Govt Girls High School, Faridpur
+--------------------------------------------------------------------------------
+Question:
+(i) AB এবং AL সরলরেখা 60° কোণ করে A বিন্দুতে ছেদ করেছে। AL এর উপরস্থ একটি বিন্দু P. একটি বৃত্ত APR আঁকা সম্ভব যা A বিন্দুতে স্পর্শ করে এবং P দিয়ে যায়।
+
+(ii) একটি কাঁচের আয়তকার ঘনবস্তুর উপর একটি 15 cm ব্যাসার্ধের কাঠের গোলক রাখা আছে। কাঁচের ঘনবস্তুর দৈর্ঘ্য, প্রস্থ এবং উচ্চতা যথাক্রমে 20 মিটার, 18 মিটার এবং 4 মিটার।
+
+Options:
+ক. গোলকটির আয়তন এবং ক্ষেত্রফল বের কর।
+খ. APR বৃত্তটি আঁক বর্ণনাসহ।
+গ. কাঁচের ঘনবস্তু হতে কতটি কোণক তৈরি করা যাবে যার ভূমির ব্যাস 2 মিটার এবং উচ্চতা 10 মিটার?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 707189)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Govt Laboratory High School, Rajshahi
+--------------------------------------------------------------------------------
+Question:
+[math]\left(-\frac{3}{2}, 5\right)[/math] বিন্দুগামী একটি সরলরেখার ঢাল এবং রেখাটি x অক্ষ ও y অক্ষকে যথাক্রমে A ও D বিন্দুতে ছেদ করে।
+
+Options:
+ক. AD রেখার সমীকরণ নির্ণয় কর।
+খ. AD রেখা অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার বাহুগুলোর দৈর্ঘ্য নির্ণয়পূর্বক ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর। (অর্ধপরিসীমার সূত্র ব্যবহার করে)
+গ. OAD ত্রিভুজটিকে y অক্ষের চতুর্দিকে একবার ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল ও আয়তনের সাংখ্যিক মানের পার্থক্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 707190)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2019, 2016 | Boards:  | Tags: ChB, DiB
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}(2,-3), \mathrm{B}(7,-3)[/math] এবং [math]\mathrm{C}(2,3).[/math]
+
+Options:
+ক. [math]\mathrm{BC}[/math] রেখার ঢাল নির্ণয় কর।
+খ. বিন্দুত্রয় ছক কাগজে স্থাপন কর এবং প্রমাণ কর যে, এরা একটি সমকোণী ত্রিভুজের শীর্ষবিন্দু।
+গ. [math]\mathrm{AB}[/math] কে অক্ষ ধরে [math]\triangle \mathrm{ABC}[/math] কে এক পাক ঘুরালে যে ঘনবস্তু উৎপন্ন হয় তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, B(7,− 3 ) এবং C(2, 3)[math]\therefore[/math]
+ BC রেখার ঢাল [math]=\frac{-3-3}{7-2}=\frac{-6}{5} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+ছক কাগজে XOX' কে x অক্ষ এবং YOY' কে y অক্ষ এবং O মূলবিন্দু ধরে A(2, 3), B(7, − 3 ) ও C (2, 3) বিন্দুগুলো স্থাপন করি। পেন্সিল দিয়ে AB, AC ও BC যোগ করি। তাহলে ABC একটি ত্রিভুজ উৎপন্ন হয়।এখানে, [math]\mathrm{AB}=\sqrt{(7-2)^{2}+\{-3-(-3)\}^{2}}=\sqrt{5^{2}+0^{2}}=5[/math]
+ [math]\begin{array}{l}\therefore \quad \mathrm{AB}^{2}=25 \\\mathrm{BC}=\sqrt{(7-2)^{2}+(-3-3)^{2}}=\sqrt{5^{2}+(-6)^{2}}=\sqrt{25+36}=\sqrt{61} \\\therefore \quad \mathrm{BC}^{2}=61\end{array}[/math]
+এবং [math]\mathrm{AC}=\sqrt{(2-2)^{2}+(-3-3)^{2}}=\sqrt{0^{2}+(-6)^{2}}=\sqrt{36}=6[/math]
+ [math]\therefore \quad \mathrm{AC}^{2}=36[/math]
+এখন, [math]\mathrm{AB}^{2}+\mathrm{AC}^{2}=25+36=61=\mathrm{BC}^{2}[/math]
+ [math]\therefore \quad \mathrm{AB}^{2}+\mathrm{AC}^{2}=\mathrm{BC}^{2}[/math]
+অর্থাৎ, [math]\triangle A B C[/math]
+ একটি সমকোণী ত্রিভুজ যার [math]\angle A=90^{\circ}[/math]
+।A (2, 3), B (7, − 3) এবং C(2, 3) বিন্দুগুলো একটি সমকোণী ত্রিভুজের শীর্ষবিন্দু। (প্রমাণিত) [math]\\[/math]
+ গ
+[Image]
+‘খ’ থেকে পাই, [math]\mathrm{AB}=5, \mathrm{BC}=\sqrt{61}[/math]
+ এবং [math]A C=6[/math]
+চিত্রে AB কে অক্ষ ধরে [math]\triangle \mathrm{ABC}[/math]
+ কে একপাক ঘোরানোর ফলে BCD সমবৃত্তভূমিক কোণক উৎপন্ন হয়েছে। যার উচ্চতা AB = h = 5 একক। ভূমির ব্যাসার্ধ, AC = r = 6 একক এবং হেলানো উচ্চতা [math]\mathrm{BC}=l=\sqrt{61}[/math]
+ একক[math]\therefore[/math]
+ সমগ্রতলের ক্ষেত্রফল [math]=\pi r(r+\ell)[/math]
+ একক[math]=3.1416 \times 6(6+\sqrt{61})[/math]
+ [math]= 260.32[/math]
+ বর্গ একক (প্রায়) [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 707172)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Viqarunnisa Noon School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+10 সে.মি. ব্যাসবিশিষ্ট একটি নিরেট কঠিন গোলককে গলিয়ে 6 সে.মি. ব্যাসবিশিষ্ট একটি নিরেট বেলনাকার দণ্ডে পরিণত করা হল।
+
+Options:
+ক. গোলকটির পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+খ. বেলনাকার দণ্ডটির দৈর্ঘ্য নির্ণয় কর।
+গ. গোলকটি একটি ঘনক আকৃতি বাক্সে ঠিকভাবে এঁটে গেলে বাক্সটির মধ্যে গোলকটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 707173)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Ideal School & College, Motijheel, Dhaka
+--------------------------------------------------------------------------------
+Question:
+16 সে.মি., 12 সে.মি. এবং R সে.মি. ব্যাস বিশিষ্ট তিনটি কঠিন (Solid) ধাতব গোলককে গলিয়ে 9 সে.মি. ব্যাসার্ধবিশিষ্ট একটি কঠিন গোলকে পরিণত করা হয় যা একটি ঘনক আকৃতির বাক্সে ঠিকমত এঁটে যায়।
+
+Options:
+ক. প্রথমোক্ত গোলকটির সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল নির্ণয় কর।
+খ. উদ্দীপকের প্রেক্ষিতে R এর মান নির্ণয় কর।
+গ. উদ্দীপকে উল্লিখিত বাক্সটির অনধিকৃত (Unoccupied) অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 707174)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Monipur Uchcha Vidyalaya and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একটি নিরেট ধাতব সমবৃত্তভূমিক কোণকের উচ্চতা 8 সে.মি. এবং ভূমির ব্যাসার্ধ 6 সে.মি.। উক্ত কোণককে গলিয়ে 4 সে.মি. ব্যাসের কয়েকটি নিরেট গোলক প্রস্তুত করা হলো।
+
+Options:
+ক. প্রতিটি গোলকের পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+খ. কোণকটির সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।
+গ. কয়টি নিরেট গোলক তৈরি করা যাবে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 707175)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Holy Cross Girls High School, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একটি ঢাকনাযুক্ত লোহার বাক্সের বাইরের দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে 1.8 মি. 1.2 মি. ও 0.8 মি. এবং লোহার পুরুত্ব 2 সে.মি.।
+
+Options:
+ক. চিত্রসহ সমবৃত্তভূমিকে কোণকের সংজ্ঞা দাও।
+খ. বাক্সটির ভেতরের তলের ক্ষেত্রফল নির্ণয় কর।
+গ. বাক্সের লোহা থেকে 4 সে.মি. ব্যাসার্ধের কতটি পূর্ণসংখ্যক নিরেট গোলক তৈরি করা যাবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 707176)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Government Laboratory High School, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]\text {(i)}[/math] [math]\triangle ABC[/math] এর [math]BC, CA[/math] ও [math]AB[/math] বাহুর মধ্যবিন্দু যথাক্রমে [math]D, E, F[/math] [math]\text {(ii)}[/math] কোণক আকারের একটি তাঁবুর উচ্চতা [math]7.5[/math] মিটার। এই তাঁবু দ্বারা [math]2000[/math] বর্গমিটার জমি ঘেরা যায়।
+
+Options:
+ক. [math]\overrightarrow{\mathrm{AB}}[/math] ভেক্টরকে [math]\overrightarrow{\mathrm{BE}}[/math] ও [math]\overrightarrow{\mathrm{CF}}[/math] ভেক্টরের মাধ্যমে প্রকাশ কর।
+খ. প্রমাণ কর যে, [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}+\overrightarrow{\mathrm{CF}}=0.[/math]
+গ. প্রদত্ত তাঁবু দ্বারা জমিটি ঘিরতে কি পরিমাণ ক্যানভাস লাগবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 707177)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: Adamjee Cantonment Public School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একটি ফাঁপা লোহার গোলকের বহির্ব্যাসার্ধ 15 সে.মি. এবং লোহার বেধ 2 সে.মি.।
+
+Options:
+ক. গোলকের ফাঁপা অংশের আয়তন কত?
+খ. ফাঁপা গোলকের লোহা দিয়ে একটি কঠিন গোলক তৈরি করা হলে তার তলের ক্ষেত্রফল নির্ণয় কর।
+গ. কঠিন গোলকটি একটি ঘনক আকৃতির বাক্সে ঠিকভাবে এঁটে যায়। বাক্সটির অনধিকৃত অংশের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 707178)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত | Years: 2020 | Boards:  | Tags: SBULAGC
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle PQR[/math] এর [math]QR, RP[/math] ও [math]PQ[/math] বাহুর মধ্যবিন্দু যথাক্রমে [math]D, E, F[/math]
+
+Options:
+ক. অবস্থান ভেক্টরের সংজ্ঞা দাও।
+খ. প্রমাণ কর যে, [math]\overrightarrow{\mathrm{PD}}+\overrightarrow{\mathrm{QE}}+\overrightarrow{\mathrm{RF}}=\underline{0}[/math]
+গ. যদি [math]\angle Q[/math] এক সমকোণ হয় এবং ইহার সন্নিহিত দুইটি বাহুর দৈর্ঘ্য [math]5[/math] সে.মি. এবং [math]3.5[/math] সে.মি.। একে বৃহত্তর বাহুর চতুর্দিকে ঘোরালে যে ঘনবস্তু উৎপন্ন হয় তার আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+

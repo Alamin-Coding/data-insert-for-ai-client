@@ -1,0 +1,2026 @@
+================================================================================
+Question #1 (ID: 311896)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]mn^2 - mn^3 \div m^n - mn[/math] কে লঘিষ্ঠ আকারে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= \dfrac{mn^2 - mn^3}{m^n - mn}[/math]
+ [math]= \dfrac{mn^2(1 - n)}{mn(m + n)(1 - n)}[/math]
+ [math]= \dfrac{mn^2 (m - n)}{mn(m + n)(m - n)}[/math]
+লব ও হরের গ.সা.গু. [math]= mn(m - n)[/math]
+প্রদত্ত ভগ্নাংশের লব ও হরকে [math]mn(m - n)[/math]
+ দ্বারা ভাগ করে পাই,[math]= \dfrac{mn}{m + n}[/math]
+∴ ভগ্নাংশটির লঘিষ্ঠ আকার = [math]\dfrac{mn}{m + n}[/math]
+
+
+Explanation:
+প্রথমে বিভাজন সরল করলে [math]mn^3\div m^n=\dfrac{mn^3}{m^n}=m^{1-n}n^3=\dfrac{n^3}{m^{\,n-1}}[/math]. এরপর সাধারণ গুণক [math]mn[/math] বের করলে ফল পাওয়া যায় [math]mn^2-mn^3\div m^n-mn=mn\left(n-\dfrac{n^2}{m^n}-1\right)[/math], কারণ মাঝের পদকে [math]\dfrac{m^{1-n}n^3}{mn}=\dfrac{n^2}{m^n}.
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 311897)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + 3x + 2 \div x^2 - 1[/math] কে লঘিষ্ঠ আকারে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= \dfrac{x^2 + 3x + 2}{x^2 - 1}[/math]
+ [math]= \dfrac{x^2 + 2x + x + 2}{x^2 - 1}[/math]
+ [math]= \dfrac{x(x + 2) + 1(x + 2)}{(x + 1)(x - 1)}[/math]
+ [math]= \dfrac{(x + 2)(x + 1)}{(x + 1)(x - 1)}[/math]
+লব ও হরের গ.সা.গু. [math]= x + 1[/math]
+প্রদত্ত ভগ্নাংশের লব ও হরকে [math](x + 1)[/math]
+ দ্বারা ভাগ করে পাই,[math]= \dfrac{x + 2}{x - 1}[/math]
+∴ ভগ্নাংশটির লঘিষ্ঠ আকার = [math]\dfrac{x + 2}{x - 1}[/math]
+
+
+Explanation:
+প্রকাশ্যটিকে ভগ্নাংশ হিসেবে ধরে উভয়াংশকে গুণনীয় হিসেবে ভাঙলে [math]\frac{x^2+3x+2}{x^2-1}=\frac{(x+1)(x+2)}{(x+1)(x-1)}[/math]. সাধারণ গুণনীয় [math](x+1)[/math] বাতিল করলে ফল হয় [math]\frac{x+2}{x-1}[/math] যেখানে [math]x\ne\pm1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 311898)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{34(x - a)^2}{17(x - a)(x^2 - a^2)}[/math] কে লঘিষ্ঠ আকারে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= \dfrac{34(x - a)^2}{17(x - a)(x^2 - a^2)}[/math]
+ [math]= \dfrac{2 \times 17 (x - a)^2}{17(x - a)(x + a)(x - a)}[/math]
+ [math]= \dfrac{2(x - a)^2}{(x - a)^2(x + a)}[/math]
+লব ও হরের গ.সা.গু. [math]= (x - a)^2[/math]
+প্রদত্ত ভগ্নাংশের লব ও হরকে [math](x - a)^2[/math]
+ দ্বারা ভাগ করে পাই,[math]= \dfrac{2}{x + a}[/math]
+∴ ভগ্নাংশটির লঘিষ্ঠ আকার = [math]\dfrac{2}{x + a}[/math]
+
+
+Explanation:
+প্রথমে [math]34/17=2[/math] এবং একটি [math](x-a)[/math] কেটে দিলে পাই [math]\frac{34(x-a)^2}{17(x-a)(x^2-a^2)}=\frac{2(x-a)}{x^2-a^2}[/math]। এখন [math]x^2-a^2=(x-a)(x+a)[/math] হলে আরেকটি [math](x-a)[/math] কেটে ফল হয় [math]\frac{2}{x+a} এবং শর্ত যে [math]x\neq a[/math], [math]x\neq -a[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 311899)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2 - 49x}{x^2 + 7x}[/math] এর লঘিষ্ঠ আকার নির্ধারণ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= \dfrac{x^2 - 49x}{x^2 + 7x}[/math]
+ [math]= \dfrac{x(x - 49)}{x(x + 7)}[/math]
+লব ও হরের গ.সা.গু. [math]= x[/math]
+প্রদত্ত ভগ্নাংশের লব ও হরকে [math]x[/math]
+ দ্বারা ভাগ করে পাই,[math]= \dfrac{x - 49}{x + 7}[/math]
+∴ ভগ্নাংশটির লঘিষ্ঠ আকার = [math]x - 7[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে গুণনীয়ক দ্বারা ভাগ করা যায়, [math]\dfrac{x^2-49x}{x^2+7x}=\dfrac{x(x-49)}{x(x+7)}=\dfrac{x-49}{x+7}[/math]. এখানে সাধারণ অংশ [math]x[/math] তুলে নেওয়ার ফলে সরল রূপ হল [math]\dfrac{x-49}{x+7}[/math], তবে মূল ভগ্নাংশে বিভাজক শূন্য করেছিল যে মানগুলো — অর্থাৎ [math]x=0[/math] ও [math]x=-7[/math] — গ্রহণযোগ্য নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 311900)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{m^2 + 6m + 5}{m^2 + 10m + 25}[/math] কে লঘিষ্ঠ আকারে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= \dfrac{m^2 + 6m + 5}{m^2 + 10m + 25}[/math]
+ [math]= \dfrac{m^2 + m + 5m + 5}{m^2 + 5m + 5m + 25}[/math]
+ [math]= \dfrac{m(m + 1) + 5(m + 1)}{m(m + 5) + 5(m + 5)}[/math]
+ [math]= \dfrac{(m + 1)(m + 5)}{(m + 5)(m + 5)}[/math]
+লব ও হরের গ.সা.গু. [math]= m + 5[/math]
+প্রদত্ত ভগ্নাংশের লব ও হরকে [math](m + 5)[/math]
+ দ্বারা ভাগ করে পাই,[math]= \dfrac{m + 1}{m + 5}[/math]
+∴ নির্ধারিত লঘিষ্ঠ আকার = [math]\dfrac{m + 1}{m + 5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: উভয় পলিনোমিয়ালকে গুণনীয়ন করলে [math]m^2+6m+5=(m+1)(m+5)[/math] এবং [math]m^2+10m+25=(m+5)^2[/math] হয়, তাই ভগ্নাংশটি সরলীকৃত হয়ে [math]\dfrac{m+1}{m+5}[/math] হয়। এ ক্ষেত্রে [math]m\neq -5[/math] যাতে মূল ভগ্নাংশের হারমুলক শূন্য না হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 311901)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{p^2 + pq}{p^2 q}[/math] এবং [math]\dfrac{p^2 - pq}{pq^2}[/math] কে সাধারণ হরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত ভগ্নাংশদ্বয়:[math]\dfrac{p^2 + pq}{p^2 q}[/math]
+ এবং [math]\dfrac{p^2 - pq}{pq^2}[/math]
+এই দুই ভগ্নাংশের হরের ল.সা.গু. = [math]p^2 q^2[/math]
+প্রথম ভগ্নাংশকে [math]p^2 q^2[/math]
+ দ্বারা হর করতে হবে:[math]\dfrac{p^2 + pq}{p^2 q} \times \dfrac{q}{q} = \dfrac{(p^2 + pq)q}{p^2 q^2}[/math]
+ [math]= \dfrac{p^2 q + p q^2}{p^2 q^2}[/math]
+দ্বিতীয় ভগ্নাংশকে [math]p^2 q^2[/math]
+ দ্বারা হর করতে হবে:[math]\dfrac{p^2 - pq}{pq^2} \times \dfrac{p}{p} = \dfrac{(p^2 - pq)p}{p^2 q^2}[/math]
+ [math]= \dfrac{p^3 - p^2 q}{p^2 q^2}[/math]
+∴ সাধারণ হরবিশিষ্ট ভগ্নাংশদ্বয়:[math]\dfrac{p^2 q + p q^2}{p^2 q^2}[/math]
+ এবং [math]\dfrac{p^3 - p^2 q}{p^2 q^2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: উভয় ভগ্নাংশেই উর্ধ্বাংশে সাধারণ গুণক [math]p[/math] আছে (ধরি [math]p,q\neq0[/math]), তাই সেটি গুণনীয়ক হিসেবে বের করে সংকুচিত করা যায়।  
+ক [math]\dfrac{p^2+pq}{p^2q}=\dfrac{p(p+q)}{p^2q}=\dfrac{p+q}{pq}[/math].  
+খ [math]\dfrac{p^2-pq}{pq^2}=\dfrac{p(p-q)}{pq^2}=\dfrac{p-q}{q^2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 311902)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x}{x^3 - y^3}[/math] এবং [math]\dfrac{y}{x - y}[/math] কে সাধারণ হরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{x}{x^3 - y^3} = \dfrac{x}{(x - y)(x^2 + xy + y^2)}[/math]
+ [math]\dfrac{y}{x - y} = \dfrac{y(x^2 + xy + y^2)}{(x - y)(x^2 + xy + y^2)}[/math]
+সাধারণ হর [math]= (x - y)(x^2 + xy + y^2)[/math]
+∴ সাধারণ হরবিশিষ্ট ভগ্নাংশদ্বয়:[math]\dfrac{x}{(x - y)(x^2 + xy + y^2)}[/math]
+ এবং [math]\dfrac{y(x^2 + xy + y^2)}{(x - y)(x^2 + xy + y^2)}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]x^3-y^3=(x-y)(x^2+xy+y^2)[/math], দ্বিতীয় ভগ্নাংশকে একই হর আনতে আমরা গুণ করব [math]\dfrac{x^2+xy+y^2}{x^2+xy+y^2}[/math]. তাই সমান হরবিশিষ্ট রুপগুলো হলো [math]\dfrac{x}{x^3-y^3}\quad\text{এবং}\quad\dfrac{y(x^2+xy+y^2)}{x^3-y^3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 311903)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{m^2}{mn'}[/math], [math]\dfrac{n^2}{n'}[/math], [math]\dfrac{p^2}{/m}[/math] কে সমহরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ভগ্নাংশগুলোর হর: [math]mn, n', /m[/math]
+তাদের ল.সা.গু. [math]= mn'[/math]
+ [math]\dfrac{m^2}{mn} = \dfrac{m^2 n'}{mn'}[/math]
+ [math]\dfrac{n^2}{n'} = \dfrac{mn^2}{mn'}[/math]
+ [math]\dfrac{p^2}{/m} = \dfrac{p^2 n'}{mn'}[/math]
+∴ সমহরবিশিষ্ট ভগ্নাংশসমূহ:[math]\dfrac{m^2 n'}{mn'}, \dfrac{mn^2}{mn'}, \dfrac{p^2 n'}{mn'}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে সাধারণ গুণোত্তর কেটে সরল করলে [math]\dfrac{m^2}{mn'}=\dfrac{m}{n'}[/math], এবং বাকি দুটি ভগ্নাংশ হল [math]\dfrac{n^2}{n'}[/math] ও [math]\dfrac{p^2}{m}[/math]। সমহরবিশিষ্ট করতে বিভাজক হিসেবে [math]mn'[/math] নেওয়া হলে প্রতিটি ভগ্নাংশকে উপযুক্তভাবে গুণ করলে পাওয়া যায়—  
+ক [math]\dfrac{m^2}{mn'}[/math],  
+খ [math]\dfrac{m\,n^2}{m n'}[/math],  
+গ [math]\dfrac{n'\,p^2}{m n'}[/math] —এগুলো সবই একই বিভাজক [math]m n'[/math] সম্পন্ন।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 311904)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a - b}{ab}[/math], [math]\dfrac{b - c}{bc}[/math], [math]\dfrac{c - a}{ca}[/math] কে সমহরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ভগ্নাংশগুলোর হর: [math]ab, bc, ca[/math]
+তাদের ল.সা.গু. = [math]abc[/math]
+ [math]\dfrac{a - b}{ab} = \dfrac{(a - b) \cdot c}{abc}[/math]
+ [math]\dfrac{b - c}{bc} = \dfrac{(b - c) \cdot a}{abc}[/math]
+ [math]\dfrac{c - a}{ca} = \dfrac{(c - a) \cdot b}{abc}[/math]
+∴ সমহরবিশিষ্ট ভগ্নাংশসমূহ:[math]\dfrac{c(a - b)}{abc}, \dfrac{a(b - c)}{abc}, \dfrac{b(c - a)}{abc}[/math]
+
+
+Explanation:
+ব্যখ্যা: সাধারণ হর [math]abc[/math] পেতে প্রতিটি ভগ্নাংশের অদৃষ্টি ভরের দ্বারা উভয় অংশ গুণ করতে হয়, তাই
+
+ক [math]\dfrac{a-b}{ab}=\dfrac{c(a-b)}{abc}[/math]  
+খ [math]\dfrac{b-c}{bc}=\dfrac{a(b-c)}{abc}[/math]  
+গ [math]\dfrac{c-a}{ca}=\dfrac{b(c-a)}{abc}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 311905)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{p - q}{p^3 q^4}[/math], [math]\dfrac{q - r}{p^2 q^3 r^2}[/math], [math]\dfrac{r - p}{p q^2 r^3}[/math] কে সাধারণ হরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+হরগুলোর ল.সা.গু. = [math]p^3 q^4 r^3[/math]
+ [math]\dfrac{p - q}{p^3 q^4} = \dfrac{(p - q) r^3}{p^3 q^4 r^3}[/math]
+ [math]\dfrac{q - r}{p^2 q^3 r^2} = \dfrac{(q - r) p r}{p^3 q^4 r^3}[/math]
+ [math]\dfrac{r - p}{p q^2 r^3} = \dfrac{(r - p) p^2 q^2}{p^3 q^4 r^3}[/math]
+∴ সাধারণ হরবিশিষ্ট ভগ্নাংশসমূহ:[math]\dfrac{(p - q) r^3}{p^3 q^4 r^3}, \dfrac{(q - r) p r}{p^3 q^4 r^3}, \dfrac{(r - p) p^2 q^2}{p^3 q^4 r^3}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]\dfrac{p - q}{p^3 q^4} = \dfrac{1}{p^2 q^4} - \dfrac{1}{p^3 q^3}[/math]
+
+খ [math]\dfrac{q - r}{p^2 q^3 r^2} = \dfrac{1}{p^2 q^2 r^2} - \dfrac{1}{p^2 q^3 r}[/math]
+
+গ [math]\dfrac{r - p}{p q^2 r^3} = \dfrac{1}{p q^2 r^2} - \dfrac{1}{q^2 r^3}[/math]
+
+প্রতিটি ক্ষেত্রে আমরা ভগ্নাংশ দুটোকে এমনভাবে বেছে নিয়েছি যাতে সাধারণ হর গ্রহণ করলে তাদের যোগফল হয়ে মূল ভগ্নাংশ পাওয়া যায়; যেমন প্রথমটির সাধারণ হর [math]p^3 q^4[/math] হলে প্রথম টার্ম [math]1/(p^2 q^4)=p/(p^3 q^4)[/math] এবং দ্বিতীয় টার্ম [math]1/(p^3 q^3)=q/(p^3 q^4)[/math] হয়ে পার্থক্য হিসেবে [math](p-q)/(p^3 q^4)[/math] আসে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 311906)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a}{a^2 - b^2}[/math] এবং [math]\dfrac{b}{a - b}[/math] কে সাধারণ হরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{a}{a^2 - b^2} = \dfrac{a}{(a - b)(a + b)}[/math]
+ [math]\dfrac{b}{a - b} = \dfrac{b(a + b)}{(a - b)(a + b)}[/math]
+সাধারণ হর [math]= (a - b)(a + b)[/math]
+∴ সাধারণ হরবিশিষ্ট ভগ্নাংশদ্বয়:[math]\dfrac{a}{(a - b)(a + b)}[/math]
+, [math]\dfrac{b(a + b)}{(a - b)(a + b)}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক প্রথমটি ভগ্নাংশ বিভাজন করলে ধরুন [math]\dfrac{a}{a^2-b^2}=\dfrac{A}{a-b}+\dfrac{B}{a+b}[/math] হলে মানগুলো নির্ণয়ে পাওয়া যায় [math]A=B=\dfrac{1}{2}[/math], তাই [math]\dfrac{a}{a^2-b^2}=\dfrac{1}{2}\Big(\dfrac{1}{a-b}+\dfrac{1}{a+b}\Big)[/math]।
+খ [math]\dfrac{b}{a-b}[/math] ইতিমধ্যে একটি সাধারণ (proper) ভগ্নাংশ; হারটির ডিগ্রি ছোট হওয়ায় এটি আর সহজভাবে ভগ্নাংশে বিভক্ত হয় না, তাই এটি নিজেই simplest form।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 311907)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{m - n}{m^2 n}[/math] এবং [math]\dfrac{n - m}{mn^2}[/math] কে সাধারণ হরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{m - n}{m^2 n} = \dfrac{-(n - m)}{m^2 n}[/math]
+ল.সা.গু. [math]= m^2 n^2[/math]
+ [math]\dfrac{-(n - m)}{m^2 n} = \dfrac{-(n - m)n}{m^2 n^2}[/math]
+ [math]\dfrac{n - m}{mn^2} = \dfrac{(n - m) m}{m^2 n^2}[/math]
+∴ সাধারণ হরবিশিষ্ট ভগ্নাংশদ্বয়:[math]\dfrac{-(n - m)n}{m^2 n^2}[/math]
+, [math]\dfrac{(n - m) m}{m^2 n^2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভগ্নাংশগুলোর সাধারণ হরফল পেতে প্রতিটি ভগ্নাংশের সংখ্যক ও হরকে এমনভাবে গুণ করা হয় যাতে হর দুটোর গরিষ্ঠ সাধারণ গুণক পাওয়া যায়। 
+
+ক [math]\dfrac{m-n}{m^2 n} = \dfrac{n(m-n)}{m^2 n^2}[/math].  
+খ [math]\dfrac{n-m}{m n^2} = \dfrac{m(n-m)}{m^2 n^2} = -\dfrac{m(m-n)}{m^2 n^2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 311908)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{x(x + 1)}[/math] এবং [math]\dfrac{1}{x(x - 1)}[/math] কে সাধারণ হরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ল.সা.গু. [math]= x(x + 1)(x - 1)[/math]
+ [math]\dfrac{1}{x(x + 1)} = \dfrac{x - 1}{x(x + 1)(x - 1)}[/math]
+ [math]\dfrac{1}{x(x - 1)} = \dfrac{x + 1}{x(x + 1)(x - 1)}[/math]
+∴ সাধারণ হরবিশিষ্ট ভগ্নাংশদ্বয়:[math]\dfrac{x - 1}{x(x + 1)(x - 1)}[/math]
+, [math]\dfrac{x + 1}{x(x + 1)(x - 1)}[/math]
+
+
+Explanation:
+প্রতিটি ক্ষেত্রে ভগ্নাংশকে [math]\dfrac{A}{x}+\dfrac{B}{x\pm1}[/math] আকারে ধরে অমূর্ত গুণ করে সহগ মিলিয়ে A ও B নির্ণয় করা যায়।  
+ক [math]\dfrac{1}{x(x+1)}=\dfrac{A}{x}+\dfrac{B}{x+1}\Rightarrow 1=A(x+1)+Bx[/math]; [math]x=0\Rightarrow A=1,\,x=-1\Rightarrow B=-1[/math], তাই [math]\dfrac{1}{x(x+1)}=\dfrac{1}{x}-\dfrac{1}{x+1}[/math].  
+খ [math]\dfrac{1}{x(x-1)}=\dfrac{A}{x}+\dfrac{B}{x-1}\Rightarrow 1=A(x-1)+Bx[/math]; [math]x=0\Rightarrow A=-1,\,x=1\Rightarrow B=1[/math], তাই [math]\dfrac{1}{x(x-1)}=-\dfrac{1}{x}+\dfrac{1}{x-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 311909)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a^2}{ab^2}[/math] এবং [math]\dfrac{b^2}{a^2 b}[/math] কে সাধারণ হরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ল.সা.গু. [math]= a^2 b^2[/math]
+ [math]\dfrac{a^2}{ab^2} = \dfrac{a^2 \cdot a}{a^2 b^2} = \dfrac{a^3}{a^2 b^2}[/math]
+ [math]\dfrac{b^2}{a^2 b} = \dfrac{b^2 \cdot b}{a^2 b^2} = \dfrac{b^3}{a^2 b^2}[/math]
+∴ সাধারণ হরবিশিষ্ট ভগ্নাংশদ্বয়:[math]\dfrac{a^3}{a^2 b^2}[/math]
+, [math]\dfrac{b^3}{a^2 b^2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভাগের সূচক সূত্র [math]\dfrac{x^m}{x^n}=x^{m-n}[/math] প্রয়োগ করে সাধারণায়ন করা যায় (ধরা হল [math]a,b\neq0[/math])।  
+ক [math]\dfrac{a^2}{ab^2}=\dfrac{a^{2-1}}{b^2}=\dfrac{a}{b^2}[/math]।  
+খ [math]\dfrac{b^2}{a^2 b}=\dfrac{b^{2-1}}{a^2}=\dfrac{b}{a^2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 311910)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x}{xy} + \dfrac{y}{yz} + \dfrac{z}{zx} = \ ?[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত রাশি: [math]\dfrac{x}{xy} + \dfrac{y}{yz} + \dfrac{z}{zx}[/math]
+ [math]= \dfrac{1}{y} + \dfrac{1}{z} + \dfrac{1}{x}[/math]
+এদের সাধারণ হর [math]= xyz[/math]
+ [math]= \dfrac{xz}{xyz} + \dfrac{xy}{xyz} + \dfrac{yz}{xyz}[/math]
+ [math]= \dfrac{xz + xy + yz}{xyz}[/math]
+উল্টো দিকে আছে: [math]\dfrac{z}{zx} + \dfrac{x}{xy} + \dfrac{y}{yz}[/math]
+যা একইভাবে যোগ করলে পাই:[math]= \dfrac{zx - yz + xy - zx + yz - xy}{xyz} = \dfrac{0}{xyz} = 0[/math]
+∴ নির্ণেয় যোগফল = [math]0[/math]
+
+
+Explanation:
+Each term simplifies by canceling a common factor: [math]\dfrac{x}{xy}=\dfrac{1}{y},\ \dfrac{y}{yz}=\dfrac{1}{z},\ \dfrac{z}{zx}=\dfrac{1}{x}[/math]. তাই সমষ্টি হলো [math]\dfrac{1}{x}+\dfrac{1}{y}+\dfrac{1}{z}, যেখানে ধরে নেওয়া হয়েছে যে [math]x,y,z\neq0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 311911)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a + b}{a - b} + \dfrac{a - b}{a + b} + 1[/math] এর যোগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{a + b}{a - b} + \dfrac{a - b}{a + b} + 1[/math]
+লবসমূহ যুক্ত করি:[math]= \dfrac{(a + b)^2 + (a - b)^2 + (a^2 - b^2)}{a^2 - b^2}[/math]
+ [math]= \dfrac{a^2 + 2ab + b^2 + a^2 - 2ab + b^2 + a^2 - b^2}{a^2 - b^2}[/math]
+ [math]= \dfrac{3a^2 + b^2}{a^2 - b^2}[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{3a^2 + b^2}{a^2 - b^2}[/math]
+
+
+Explanation:
+প্রথম দুইটি ভগ্নাংশের সাধারণ mianominator নিয়ে যোগ করলে পাই [math]\dfrac{(a+b)^2+(a-b)^2}{a^2-b^2}=\dfrac{2(a^2+b^2)}{a^2-b^2}[/math]. এতে 1 যোগ করলে মোট ফল হয় [math]\dfrac{2(a^2+b^2)}{a^2-b^2}+1=\dfrac{3a^2+b^2}{a^2-b^2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 311912)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x}{x^2 - xy + y^2} + \dfrac{y}{x^2 - xy + y^2}[/math] এর যোগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+উভয় ভগ্নাংশের হর এক: [math]x^2 - xy + y^2[/math]
+∴ যোগফল = [math]\dfrac{x + y}{x^2 - xy + y^2}[/math]
+পুনরায় [math]\dfrac{x + y}{x^2 - xy + y^2}[/math]
+ কে সাধারণ রূপে প্রকাশ করলে,উপরে: [math]x + y[/math]
+নিচে: [math](x + y)^2 - 3xy = x^2 - xy + y^2[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{x + y}{x^2 - xy + y^2}[/math]
+ বা [math]x + y[/math]
+ হিসাবে চূড়ান্ত রূপ = [math]x^2 + 2xy[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই ভগ্নাংশের নামাংশ একই হওয়ায় আমরা সরাসরি পরষ্পরের গাত্রগুলো যোগ করে পাই [math]\dfrac{x+y}{x^2-xy+y^2}[/math], যেখানে ধরতে হবে যে [math]x^2-xy+y^2\ne0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 311913)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a - b}{ab} + \dfrac{b - c}{bc} + \dfrac{c - a}{ca} = \ ?[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত রাশি: [math]\dfrac{a - b}{ab} + \dfrac{b - c}{bc} + \dfrac{c - a}{ca}[/math]
+ [math]= \dfrac{c(a - b) + a(b - c) + b(c - a)}{abc}[/math]
+ [math]= \dfrac{ac - bc + ab - ac + bc - ab}{abc}[/math]
+ [math]= \dfrac{0}{abc} = 0[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{2ab}{c}[/math]
+
+
+Explanation:
+প্রতিটি ভগ্নাংশকে রূপান্তর করলে [math]\frac{a-b}{ab}=\frac{1}{b}-\frac{1}{a},\;\frac{b-c}{bc}=\frac{1}{c}-\frac{1}{b},\;\frac{c-a}{ca}=\frac{1}{a}-\frac{1}{c}[/math]. এগুলো যোগ করলে সকল পদ পরস্পরকে বাতিল করে ফলাফল [math]0[/math] হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 311914)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{x + 2} + \dfrac{4}{x^2 - 4} = \ ?[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত রাশি: [math]\dfrac{1}{x + 2} + \dfrac{4}{x^2 - 4}[/math]
+ [math]= \dfrac{1}{x + 2} + \dfrac{4}{(x + 2)(x - 2)}[/math]
+সাধারণ হর [math]= (x + 2)(x - 2)[/math]
+ [math]= \dfrac{1(x - 2) + 4}{(x + 2)(x - 2)}[/math]
+ [math]= \dfrac{x - 2 + 4}{(x + 2)(x - 2)}[/math]
+ [math]= \dfrac{x + 2}{(x + 2)(x - 2)}[/math]
+লব ও হর থেকে [math](x + 2)[/math]
+ কাটলে পাই,[math]= \dfrac{1}{x - 2}[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{1}{x - 2}[/math]
+
+
+Explanation:
+Combine over the common denominator [math]x^2-4=(x-2)(x+2)[/math]: [math]\frac{1}{x+2}+\frac{4}{x^2-4}=\frac{x-2}{x^2-4}+\frac{4}{x^2-4}=\frac{x+2}{x^2-4}[/math].  
+Cancel [math]x+2[/math] to get [math]\frac{1}{x-2}[/math], with the restriction [math]x\neq\pm2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 311915)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{a + b} + \dfrac{1}{a - b}[/math] এর যোগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সাধারণ হর [math]= (a + b)(a - b)[/math]
+ [math]= \dfrac{1(a - b) + 1(a + b)}{(a + b)(a - b)}[/math]
+ [math]= \dfrac{a - b + a + b}{a^2 - b^2}[/math]
+ [math]= \dfrac{2a}{a^2 - b^2}[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{2a}{a^2 - b^2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সাধারণ हर নিয়ে যোগ করলে [math]\frac{1}{a+b}+\frac{1}{a-b}=\frac{(a-b)+(a+b)}{(a+b)(a-b)}[/math] হয়। এটি সরল করলে [math]\frac{2a}{a^2-b^2}[/math] পাওয়া যায়, যেখানে [math]a\neq\pm b[/math] যাতে ভগ্নাংশগুলো সংজ্ঞায়িত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 311916)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{x^2 - 1} + \dfrac{1}{x^2 + 2x + 1}[/math] এর যোগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 1 = (x - 1)(x + 1)[/math]
+ এবং [math]x^2 + 2x + 1 = (x + 1)^2[/math]
+সাধারণ হর [math]= (x - 1)(x + 1)^2[/math]
+ [math]= \dfrac{(x + 1) + (x - 1)}{(x - 1)(x + 1)^2}[/math]
+ [math]= \dfrac{2x}{(x - 1)(x + 1)^2}[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{2x}{(x - 1)(x + 1)^2}[/math]
+
+
+Explanation:
+প্রথম ভগ্নাংশগুলোর নামগুণক বের করলে [math]x^2-1=(x-1)(x+1)[/math] এবং [math]x^2+2x+1=(x+1)^2[/math]; সাধারণ হার [math](x-1)(x+1)^2[/math] নেওলে যোগফল হয় [math]\dfrac{x+1+x-1}{(x-1)(x+1)^2}=\dfrac{2x}{(x-1)(x+1)^2}[/math]. শর্ত: [math]x\neq \pm 1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 311917)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{2}{x} + \dfrac{3}{x + 1}[/math] এর যোগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সাধারণ হর [math]= x(x + 1)[/math]
+ [math]= \dfrac{2(x + 1) + 3x}{x(x + 1)}[/math]
+ [math]= \dfrac{2x + 2 + 3x}{x(x + 1)}[/math]
+ [math]= \dfrac{5x + 2}{x(x + 1)}[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{5x + 2}{x(x + 1)}[/math]
+
+
+Explanation:
+দুটি ভগ্নাংশের সাধারণ নামহার [math]x(x+1)[/math], তাই যোগফল হচ্ছে [math]\dfrac{2(x+1)+3x}{x(x+1)}=\dfrac{5x+2}{x(x+1)}[/math]. এখানে [math]x\neq0,\,-1[/math] এবং আমরা সাধারণ নামহারে রূপান্তর করে অনুপাতের পূর্ণসংখ্যাগুলো যোগ করেছি।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 311918)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{a^2} + \dfrac{2}{a}[/math] এর যোগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সাধারণ হর [math]= a^2[/math]
+ [math]= \dfrac{1 + 2a}{a^2}[/math]
+∴ নির্ণেয় যোগফল = [math]\dfrac{1 + 2a}{a^2}[/math]
+
+
+Explanation:
+যোগফল হচ্ছে [math]\dfrac{1+2a}{a^2}[/math]। কারণ সাধারণ বিভাজক [math]a^2[/math] এ পরিণত করে [math]\dfrac{2}{a}=\dfrac{2a}{a^2}</math] করা যায় এবং এরপর সংখ্যা যোগ করলে ফল হয় [math]\dfrac{1+2a}{a^2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 311919)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a}{(a - b)^2} - \dfrac{a + b}{a^2 - b^2}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{a}{(a - b)^2} - \dfrac{a + b}{(a - b)(a + b)}[/math]
+হর [math]= (a - b)^2[/math]
+লব [math]= a - (a + b)(a - b)[/math]
+ [math]= a - (a^2 - b^2)[/math]
+ [math]= a - a^2 + b^2[/math]
+ [math]= (b^2 - a^2 + a)[/math]
+∴ বিয়োগফল [math]= \dfrac{b}{(a - b)}[/math]
+
+
+Explanation:
+a^2 - b^2 = (a-b)(a+b), তাই [math]\dfrac{a+b}{a^2-b^2}=\dfrac{1}{a-b}[/math]. এরপর সাধারণ মানুষ знаменател করে [math]\dfrac{a}{(a-b)^2}-\dfrac{1}{a-b}=\dfrac{a-(a-b)}{(a-b)^2}=\dfrac{b}{(a-b)^2}[/math], যাই হল চূড়ান্ত উত্তর।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 311920)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{1 - a + a^2} - \dfrac{1}{1 + a + a^2}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+হর: [math]1 - a + a^2[/math]
+ ও [math]1 + a + a^2[/math]
+ল.সা.গু. [math]= (1 - a + a^2)(1 + a + a^2)[/math]
+লব [math]= (1 + a + a^2) - (1 - a + a^2)[/math]
+ [math]= 2a[/math]
+∴ বিয়োগফল = [math]\dfrac{2a}{(1 - a + a^2)(1 + a + a^2)}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভগ্নাংশ দুটি একত্রিত করলে লক্ষণ হয় যে সংখ্যকাংশ হবে [math](1+a+a^2)-(1-a+a^2)=2a[/math] এবং হর হবে গুণফল [math](1-a+a^2)(1+a+a^2)[/math], সুতরাং ফল [math]\dfrac{2a}{(1-a+a^2)(1+a+a^2)}[/math] বা সরল করে [math]\dfrac{2a}{a^4+a^2+1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 311921)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{b}{a - b} - \dfrac{a}{a + b}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সাধারণ হর [math]= (a - b)(a + b)[/math]
+ [math]= \dfrac{b(a + b) - a(a - b)}{(a - b)(a + b)}[/math]
+ [math]= \dfrac{ab + b^2 - a^2 + ab}{a^2 - b^2}[/math]
+ [math]= \dfrac{2ab + b^2 - a^2}{a^2 - b^2}[/math]
+
+
+Explanation:
+সমাধান: সাধারণ ধাপে কমন ডেনোমিনেটর নিলে লব্ধ হয় [math]\dfrac{b(a+b)-a(a-b)}{(a-b)(a+b)}[/math], এবং এটি সরল করলে হয় [math]\dfrac{2ab+b^2-a^2}{a^2-b^2}[/math]। এই পদ্ধতিতে ভগ্নাংশ দুইটির পার্থক্য নিতে আমরা একই-মুখ্য (common denominator) ব্যবহার করি এবং উপরের অংশগুলো বিয়োগ করি।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 311922)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a^3 + b^3}{a^2 + ab + b^2} - ab[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{(a + b)(a^2 - ab + b^2)}{a^2 + ab + b^2} - ab[/math]
+এখানে প্রথম ভগ্নাংশ সরল করলে পাই [math]a + b[/math]
+ [math]= a + b - ab[/math]
+∴ বিয়োগফল = [math]a + b - ab[/math]
+
+
+Explanation:
+যদি আমরা লিখি [math](a+b)(a^2+ab+b^2)=a^3+b^3+2ab(a+b)[/math], তাহলে [math]\dfrac{a^3+b^3}{a^2+ab+b^2}=a+b-\dfrac{2ab(a+b)}{a^2+ab+b^2}[/math].  
+
+অতএব প্রদানকৃত প্রকাশটির বিয়োগফল হলো [math]a+b-ab-\dfrac{2ab(a+b)}{a^2+ab+b^2}[/math] (বা সমানভাবে [math](a+b)\Big(1-\dfrac{2ab}{a^2+ab+b^2}\Big)-ab[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 311923)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2}{x^2 - 16} - \dfrac{x}{x + 4}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 16 = (x + 4)(x - 4)[/math]
+সাধারণ হর [math]= (x + 4)(x - 4)[/math]
+প্রথম ভগ্নাংশ অপরিবর্তিতদ্বিতীয়টি [math]= \dfrac{x(x - 4)}{(x + 4)(x - 4)}[/math]
+∴ লব: [math]x^2 - x(x - 4) = x^2 - x^2 + 4x = 4x[/math]
+∴ বিয়োগফল = [math]\dfrac{4x}{(x + 4)(x - 4)}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সাধারণ নামগুণক নেয়া যায় কারণ [math]x^2-16=(x-4)(x+4)[/math], তাই দ্বিতীয় ভগ্নাংশকে স্বরূপ করলে হয় [math]\dfrac{x(x-4)}{x^2-16}[/math] এবং বিয়োগফল দাঁড়ায় [math]\dfrac{x^2-(x^2-4x)}{x^2-16}=\dfrac{4x}{x^2-16}[/math]. শর্ত: [math]x\neq \pm 4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 311924)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{x + 1} - \dfrac{1}{x - 1}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সাধারণ হর [math]= (x + 1)(x - 1)[/math]
+ [math]= \dfrac{(x - 1) - (x + 1)}{(x + 1)(x - 1)}[/math]
+ [math]= \dfrac{x - 1 - x - 1}{x^2 - 1}[/math]
+ [math]= \dfrac{-2}{x^2 - 1}[/math]
+∴ বিয়োগফল = [math]\dfrac{-2}{x^2 - 1}[/math]
+
+
+Explanation:
+সাধারণ হরকে নেওয়া হলে [math]\dfrac{1}{x+1}-\dfrac{1}{x-1}=\dfrac{(x-1)-(x+1)}{(x+1)(x-1)}=\dfrac{-2}{x^2-1}[/math].  
+ধারণা: সাধারণ সর্বসম্মিলিত হরকে নিয়ে কনিষ্ঠার যোগ-বিয়োগ করলে সূত্রটি পাওয়া যায় এবং এখানে [math]x\neq \pm1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 311925)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{2a}{a^2 - b^2} - \dfrac{2a}{a^2 + 2ab + b^2}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a^2 - b^2 = (a - b)(a + b)[/math]
+ [math]a^2 + 2ab + b^2 = (a + b)^2[/math]
+সাধারণ হর [math]= (a - b)(a + b)^2[/math]
+প্রথম ভগ্নাংশ: [math]\dfrac{2a(a + b)}{(a - b)(a + b)^2}[/math]
+দ্বিতীয় ভগ্নাংশ: [math]\dfrac{2a(a - b)}{(a - b)(a + b)^2}[/math]
+∴ বিয়োগফল = [math]\dfrac{2a(a + b - a + b)}{(a - b)(a + b)^2} = \dfrac{4ab}{(a - b)(a + b)^2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে বিভাজ্যগুলোকে গুণনীয় করে লিখি: [math]a^2-b^2=(a-b)(a+b)[/math] এবং [math]a^2+2ab+b^2=(a+b)^2[/math]. সাধারণ হর [math](a-b)(a+b)^2[/math] নেওয়া হলে উভয় অংশের অভিন্ন অঙ্ককে বিয়োগ করলে পাই [math]\dfrac{2a(a+b)-2a(a-b)}{(a-b)(a+b)^2}=\dfrac{2a\big((a+b)-(a-b)\big)}{(a-b)(a+b)^2}=\dfrac{4ab}{(a-b)(a+b)^2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 311926)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x + 2}{x^2 - 4} - \dfrac{1}{x - 2}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 4 = (x + 2)(x - 2)[/math]
+সাধারণ হর [math]= (x + 2)(x - 2)[/math]
+প্রথম ভগ্নাংশ অপরিবর্তিতদ্বিতীয়টি [math]= \dfrac{(x + 2)}{(x + 2)(x - 2)}[/math]
+ [math]= \dfrac{x + 2 - (x + 2)}{(x + 2)(x - 2)} = \dfrac{0}{(x + 2)(x - 2)} = 0[/math]
+∴ বিয়োগফল = [math]0[/math]
+
+
+Explanation:
+কারণ [math]x^2-4=(x-2)(x+2)[/math], তাই [math]\dfrac{x+2}{x^2-4}=\dfrac{x+2}{(x-2)(x+2)}=\dfrac{1}{x-2}[/math] (যদি [math]x\neq -2[/math])।  
+তাহলে বিয়োগফল [math]\dfrac{1}{x-2}-\dfrac{1}{x-2}=0[/math], তবে সূত্র প্রয়োগের জন্য [math]x\neq\pm 2[/math] ধরা হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 311927)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1}{a} - \dfrac{2}{a + 1}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সাধারণ হর [math]= a(a + 1)[/math]
+ [math]= \dfrac{(a + 1) - 2a}{a(a + 1)}[/math]
+ [math]= \dfrac{a + 1 - 2a}{a(a + 1)}[/math]
+ [math]= \dfrac{-a + 1}{a(a + 1)}[/math]
+∴ বিয়োগফল = [math]\dfrac{1 - a}{a(a + 1)}[/math]
+
+
+Explanation:
+দুই ভগ্নাংশের লব্ধি করতে সাধারণ লব্ধানুরূপ করা হলে ল.সা.গু হলো [math]a(a+1)[/math], তাই
+[math]\dfrac{1}{a}-\dfrac{2}{a+1}=\dfrac{(a+1)-2a}{a(a+1)}=\dfrac{1-a}{a(a+1)}[/math]; এটি সোজা করলে [math]-\dfrac{a-1}{a(a+1)}[/math] হয় ও শর্ত হল [math]a\neq0,\,-1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 311928)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2 - 1}{x^2 + x} - \dfrac{x - 1}{x}[/math] এর বিয়োগফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 1 = (x + 1)(x - 1)[/math]
+সাধারণ হর [math]= x(x + 1)[/math]
+প্রথম ভগ্নাংশ: [math]\dfrac{(x + 1)(x - 1)}{x(x + 1)} = \dfrac{x - 1}{x}[/math]
+∴ বিয়োগফল = [math]\dfrac{x - 1}{x} - \dfrac{x - 1}{x} = 0[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম ভগ্নাংশে [math]x^2-1=(x-1)(x+1)[/math] এবং [math]x^2+x=x(x+1)[/math] হওয়ায় এটি সরল হলে [math]\dfrac{x-1}{x}[/math] পাওয়া যায় (যেখানে [math]x\neq0,\,-1[/math]). তাই [math]\dfrac{x^2-1}{x^2+x}-\dfrac{x-1}{x}= \dfrac{x-1}{x}-\dfrac{x-1}{x}=0[/math] (ডোমেইন শর্ত মেনে)।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 311929)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{a^2 - b^2}{a^3 + b^3} \times \dfrac{a^2 - ab + b^2}{a^2 - b^2}[/math] দ্বারা গুণফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{(a - b)(a + b)}{(a + b)(a^2 - ab + b^2)} \times \dfrac{a^2 - ab + b^2}{(a - b)(a + b)}[/math]
+সংক্ষেপে: উপরে-নিচে একই রাশি কেটে যায়∴ নির্ণেয় গুণফল = [math]\dfrac{1}{a + b}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে একটি [math]a^2-b^2[/math] মিলিয়ে গুণফল হবে [math]\dfrac{a^2-ab+b^2}{a^3+b^3}[/math], এবং এখানে [math]a^3+b^3=(a+b)(a^2-ab+b^2)[/math] হওয়ায় [math]a^2-ab+b^2[/math] নিকাশ করলে ফল হয় [math]\dfrac{1}{a+b}[/math]। শর্ত: এখানে [math]a+b\neq 0[/math] থাকতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 311930)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{m^2 - 5m + 6}{m^2 - 9m + 20} \times \dfrac{m - 5}{m - 3}[/math] দ্বারা গুণফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m^2 - 5m + 6 = (m - 2)(m - 3)[/math]
+ [math]m^2 - 9m + 20 = (m - 5)(m - 4)[/math]
+∴ [math]\dfrac{(m - 2)(m - 3)}{(m - 5)(m - 4)} \times \dfrac{m - 5}{m - 3}[/math]
+উপরে ও নিচে [math]m - 3[/math]
+ ও [math]m - 5[/math]
+ কেটে গেলে থাকে:[math]= \dfrac{m - 2}{m - 4}[/math]
+
+
+Explanation:
+প্রথমে গুণকের রূপে বিভাজন করলে [math]\dfrac{m^2-5m+6}{m^2-9m+20}\times\dfrac{m-5}{m-3}=\dfrac{(m-2)(m-3)}{(m-5)(m-4)}\times\dfrac{m-5}{m-3}[/math] এবং (m-3), (m-5) সংকুচিত করলে ফল হয় [math]\dfrac{m-2}{m-4}[/math]. মনে রাখবেন বিভাজকের কারণগুলোর জন্য মূল অভিব্যক্তিটি মান्य থাকতে [math]m\neq3,4,5[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 311931)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1 - 4b^2}{2 + x} \div \dfrac{4 - x^2}{b + 2b^2}[/math] এর গুণফল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1 - 4b^2 = (1 - 2b)(1 + 2b)[/math]
+ [math]4 - x^2 = (2 - x)(2 + x)[/math]
+∴ [math]\dfrac{(1 - 2b)(1 + 2b)}{2 + x} \div \dfrac{(2 - x)(2 + x)}{b(1 + 2b)}[/math]
+বিভাজনকে গুণফলে রূপান্তর করলে:[math]= \dfrac{(1 - 2b)(1 + 2b)}{2 + x} \times \dfrac{b(1 + 2b)}{(2 - x)(2 + x)}[/math]
+উপর-নিচে [math]1 + 2b[/math]
+ ও [math]2 + x[/math]
+ কেটে দিলে:∴ গুণফল = [math]\dfrac{b(1 - 2b)}{2 - x}[/math]
+
+
+Explanation:
+সমাধান: ভাগকে গুণে reciprocal নিলে [math]\frac{1-4b^2}{2+x}\div\frac{4-x^2}{b+2b^2}=\frac{1-4b^2}{2+x}\times\frac{b+2b^2}{4-x^2}[/math]. ফ্যাক্টর করলে [math]1-4b^2=(1-2b)(1+2b),\;b+2b^2=b(1+2b),\;4-x^2=(2+x)(2-x)[/math] তাই ফল হয় [math]\frac{b(1-2b)(1+2b)^2}{(2+x)^2(2-x)}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 311932)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math](\dfrac{a}{a + b}) \div (\dfrac{b}{a + b})[/math] এর গুণফল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{a}{a + b} \div \dfrac{b}{a + b} = \dfrac{a}{a + b} \times \dfrac{a + b}{b}[/math]
+উপর-নিচে [math]a + b[/math]
+ কেটে গেলে থাকে:[math]= \dfrac{a}{b}[/math]
+∴ নির্ণেয় গুণফল = [math]\dfrac{a}{b}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভাগ করা হলে অপরটির বিপরীতকে গুণ করা হয়, তাই [math]\left(\frac{a}{a+b}\right)\div\left(\frac{b}{a+b}\right)=\left(\frac{a}{a+b}\right)\times\left(\frac{a+b}{b}\right)[/math], এবং [math](a+b)[/math] কেটে গেলে ফল হয় [math]\frac{a}{b}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 311933)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{ab}{a^2 + b^2} \times \dfrac{b^2 + a^2}{ab}[/math] এর গুণফল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত রাশি:[math]= \dfrac{ab}{a^2 + b^2} \times \dfrac{a^2 + b^2}{ab}[/math]
+উপর ও নিচের রাশি একে অপরের বিপরীত∴ গুণফল = [math]1[/math]
+
+
+Explanation:
+ব্যাখ্যা: গুণফলে উপরের এবং নীচের একে–অপরকে বাতিল হয়ে যায়, তাই [math]\dfrac{ab}{a^2 + b^2} \times \dfrac{b^2 + a^2}{ab} = 1[/math]. শর্ত হলো [math]ab \neq 0[/math] (অর্থাৎ a এবং b শূন্য নয়), অন্যথায় অভ্যুক্তিটি সংজ্ঞায়িত নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 311934)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1 - x^2}{a^2 + a} \times \dfrac{1 - a^2}{1 + x}[/math] এর গুণফল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\dfrac{(1 + x)(1 - x)}{a(a + 1)} \times \dfrac{(1 + a)(1 - a)}{1 + x}[/math]
+ [math]= \dfrac{(1 - x)(1 - a)(1 + a)}{a(a + 1)}[/math]
+ [math]= \dfrac{(1 - x)(1 - a)}{a}[/math]
+
+
+Explanation:
+গুণফলটি বর্গফেরত এবং সাধারণ গুণগুলো ব্যবহার করে সরল করা যায়: [math]\frac{1-x^2}{a^2+a}\times\frac{1-a^2}{1+x}=\frac{(1-x)(1+x)}{a(1+a)}\times\frac{(1-a)(1+a)}{1+x}=\frac{(1-x)(1-a)}{a}[/math]. শর্ত: গুণফলটি করার জন্য [math]a\ne0,\ a\ne-1,\ x\ne-1[/math] হতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 311935)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2 - 1}{x^2 + x} \times \dfrac{x - 1}{x + 1}[/math] এর গুণফল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 1 = (x - 1)(x + 1)[/math]
+ [math]x^2 + x = x(x + 1)[/math]
+∴ [math]\dfrac{(x - 1)(x + 1)}{x(x + 1)} \times \dfrac{x - 1}{x + 1}[/math]
+ [math]= \dfrac{(x - 1)^2}{x}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গুণফলটি সরলীকরণ করলে প্রথমে ভগ্নাংশগুলোকে গুণ করলে পাওয়া যায় [math]\frac{(x-1)(x+1)}{x(x+1)}\times\frac{x-1}{x+1}=\frac{(x-1)^2}{x(x+1)}[/math], কারণ [math]x^2-1=(x-1)(x+1)[/math] এবং [math]x^2+x=x(x+1)[/math] থেকে [math](x+1)[/math] একটি গুণক ঘাটানো যায়। এখানে মান্য হবে কেবল [math]x\neq0,\,-1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 311936)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1 - y^2}{1 + y} \times \dfrac{1 - a^2}{1 + a}[/math] এর গুণফল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1 - y^2 = (1 - y)(1 + y)[/math]
+, [math]1 - a^2 = (1 - a)(1 + a)[/math]
+ [math]= \dfrac{(1 - y)(1 + y)}{1 + y} \times \dfrac{(1 - a)(1 + a)}{1 + a}[/math]
+ [math]= (1 - y)(1 - a)[/math]
+
+
+Explanation:
+ব্যাখ্যা: গুণফল সহজ করতে ভগ্নজোড়ে ভেঙে নেওয়া যায়, কারণ [math]1 - y^2 = (1 - y)(1 + y)[/math], তাই [math]\dfrac{1 - y^2}{1 + y} = 1 - y[/math]; একইভাবে [math]\dfrac{1 - a^2}{1 + a} = 1 - a[/math]. ফলে গুণফল হয় [math](1 - y)(1 - a)[/math] (প্রয়োজনে বিস্তৃত করলে [math]1 - a - y + ay[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 311937)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{1 - m^2}{m + 1} \times \dfrac{1 - n^2}{n + 1}[/math] এর গুণফল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1 - m^2 = (1 - m)(1 + m)[/math]
+, [math]1 - n^2 = (1 - n)(1 + n)[/math]
+ [math]= \dfrac{(1 - m)(1 + m)}{m + 1} \times \dfrac{(1 - n)(1 + n)}{n + 1}[/math]
+ [math](1 + m)/(m + 1) = 1[/math]
+, [math](1 + n)/(n + 1) = 1[/math]
+∴ গুণফল = [math](1 - m)(1 - n)[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিটি অতিরিক্তকে বর্গফলের ভেদ হিসেবে factor করা যায়: [math]1-m^2=(1-m)(1+m)[/math], তাই [math]\dfrac{1-m^2}{m+1}=(1-m)[/math] (একইভাবে [math]\dfrac{1-n^2}{n+1}=(1-n)[/math]) এবং গুণফল হলো [math](1-m)(1-n)=1-m-n+mn[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 311938)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2 - 2x + 1}{a^2 - 2a + 1} \div \dfrac{x - 1}{a - 1}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 2x + 1 = (x - 1)^2[/math]
+ [math]a^2 - 2a + 1 = (a - 1)^2[/math]
+∴ [math]\dfrac{(x - 1)^2}{(a - 1)^2} \div \dfrac{x - 1}{a - 1}[/math]
+ [math]= \dfrac{(x - 1)^2}{(a - 1)^2} \times \dfrac{a - 1}{x - 1}[/math]
+
+
+Explanation:
+Factor the quadratics: [math]x^2-2x+1=(x-1)^2[/math] and [math]a^2-2a+1=(a-1)^2[/math], so
+[math]\frac{x^2-2x+1}{a^2-2a+1}\div\frac{x-1}{a-1}=\frac{(x-1)^2}{(a-1)^2}\cdot\frac{a-1}{x-1}=\frac{x-1}{a-1}[/math].  
+Require [math]a\neq1[/math] (and [math]x\neq1[/math] if the divisor must be nonzero).
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 311939)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2 - 2x + 1}{a^2 - 2a + 1} \div \dfrac{x - 1}{a - 1}[/math] দ্বারা ভাগ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 2x + 1 = (x - 1)^2[/math]
+, [math]a^2 - 2a + 1 = (a - 1)^2[/math]
+ [math]= \dfrac{(x - 1)^2}{(a - 1)^2} \div \dfrac{x - 1}{a - 1}[/math]
+ [math]= \dfrac{(x - 1)^2}{(a - 1)^2} \times \dfrac{a - 1}{x - 1}[/math]
+ [math]= \dfrac{(x - 1)(a - 1)}{(a - 1)^2}[/math]
+∴ ভাগফল = [math]\dfrac{x - 1}{a - 1}[/math]
+
+
+Explanation:
+প্রথমে গুণিতকে ভাঙলে [math]x^2-2x+1=(x-1)^2[/math] এবং [math]a^2-2a+1=(a-1)^2[/math], ফলে ভগ্নাংশটি হয় [math]\dfrac{(x-1)^2}{(a-1)^2}[/math]. Division করলে reciprocal নিলে সাধারণ ভাজকগুলো বাতিল হয়ে ফল হয় [math]\dfrac{x-1}{a-1}[/math] (শর্ত: [math]x\ne1,\ a\ne1[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 311940)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{p^3 + q^3 + 3pq(p + q)}{(p + q)^2 - 4pq} \div \dfrac{(p + q)^2}{(p - q)}[/math] দ্বারা ভাগ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+উপরের লব = [math](p + q)^3[/math]
+, হর = [math](p + q)^2 - 4pq[/math]
+∴ [math]\dfrac{(p + q)^3}{(p + q)^2 - 4pq} \div \dfrac{(p + q)^2}{(p - q)}[/math]
+ [math]= \dfrac{(p + q)^3}{(p + q)^2 - 4pq} \times \dfrac{p - q}{(p + q)^2}[/math]
+ [math]= \dfrac{(p + q)(p - q)}{(p + q)^2 - 4pq}[/math]
+ [math]= \dfrac{p^2 - q^2}{p^2 + 2pq + q^2 - 4pq}[/math]
+ [math]= \dfrac{p^2 - q^2}{p^2 - 2pq + q^2}[/math]
+∴ ভাগফল = [math]\dfrac{p^2 - q^2}{(p - q)^2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: উপরের ভগ্নাংশের সংখ্যা অংশটি [math](p+q)^3[/math] কারণ [math](p+q)^3=p^3+q^3+3pq(p+q)[/math], এবং নাম অংশটি [math](p-q)^2[/math] কারণ [math](p+q)^2-4pq=p^2-2pq+q^2=(p-q)^2[/math]. তাই ভাগ করলে [math]\frac{(p+q)^3}{(p-q)^2}\div\frac{(p+q)^2}{(p-q)}=\frac{(p+q)}{(p-q)}[/math] হয়, যেখানে ঘাতগুলো সহজীকরণে কেটে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 311941)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2 - y^2}{x^2 + xy + y^2} \div \dfrac{x - y}{x + y}[/math] দ্বারা ভাগ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - y^2 = (x - y)(x + y)[/math]
+ [math]= \dfrac{(x - y)(x + y)}{x^2 + xy + y^2} \div \dfrac{x - y}{x + y}[/math]
+বিভাজনকে গুণফলে রূপান্তর:[math]= \dfrac{(x - y)(x + y)}{x^2 + xy + y^2} \times \dfrac{x + y}{x - y}[/math]
+কাটাকাটি করে পাই:[math]= \dfrac{(x + y)^2}{x^2 + xy + y^2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভাগকে গুণে বদলে আমরা পাই [math]\frac{x^2-y^2}{x^2+xy+y^2}\div\frac{x-y}{x+y}=\frac{x^2-y^2}{x^2+xy+y^2}\cdot\frac{x+y}{x-y}[/math], এবং [math]x^2-y^2=(x-y)(x+y)[/math]. তাই (x−y) কাটলে ফল হয় [math]\frac{(x+y)^2}{x^2+xy+y^2}[/math], যেখানে [math]x\ne y[/math] এবং নামহার শূন্য নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 311942)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{9a^2}{3 + 12a^2} \div \dfrac{18a^3}{1 - 16a^2}[/math] দ্বারা ভাগ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]= \dfrac{9a^2}{3(1 + 4a^2)} \div \dfrac{18a^3}{(1 - 4a)(1 + 4a)}[/math]
+বিভাজনকে গুণফলে রূপান্তর:[math]= \dfrac{9a^2}{3(1 + 4a^2)} \times \dfrac{(1 - 4a^2)}{18a^3}[/math]
+= [math]\dfrac{9a^2(1 - 4a^2)}{54a^3(1 + 4a^2)}[/math]
+সংক্ষেপে: [math]\dfrac{1 - 4a^2}{6a(1 + 4a^2)}[/math]
+
+
+Explanation:
+ভাগকে গুণে রূপান্তর করলে পাওয়া যায় [math]\frac{9a^2}{3+12a^2}\div\frac{18a^3}{1-16a^2}=\frac{9a^2}{3+12a^2}\cdot\frac{1-16a^2}{18a^3}[/math]. ৯ ও ১৮ থেকে [math]9/18=1/2[/math] এবং ঘাতগুলো সরিয়ে [math]a^2/a^3=1/a[/math] করলে এবং [math]3+12a^2=3(1+4a^2)[/math] বিবেচনায় নিলে সরল ফল হয় [math]\frac{1-16a^2}{6a(1+4a^2)}[/math] (এখানে আরও কোনো সাধারণ গুণক কেটে যাচ্ছেনা)।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 311943)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{m^2 - n^2}{m + n} \div \dfrac{(m - n)^2}{4mn}[/math] দ্বারা ভাগ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]m^2 - n^2 = (m + n)(m - n)[/math]
+ [math]= \dfrac{(m + n)(m - n)}{m + n} \div \dfrac{(m - n)^2}{4mn}[/math]
+ [math]= (m - n) \div \dfrac{(m - n)^2}{4mn}[/math]
+ [math]= (m - n) \times \dfrac{4mn}{(m - n)^2}[/math]
+ [math]= \dfrac{4mn}{m - n}[/math]
+
+
+Explanation:
+বিভাজনটি সরলীকরণ করলে প্রথম ভগ্নাংশ থেকে [math]m^2-n^2=(m-n)(m+n)[/math] পাওয়া যায়, তাই
+[math]\dfrac{m^2-n^2}{m+n} \div \dfrac{(m-n)^2}{4mn} = \dfrac{(m-n)(m+n)}{m+n}\times\dfrac{4mn}{(m-n)^2}[/math]।
+এখানে একটি [math]m+n[/math] এবং একটি [math]m-n[/math] সংক্ষেপ করলে ফল হয় [math]\dfrac{4mn}{m-n}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 311944)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{x^2 - 1}{x^2 + x} \div \dfrac{x - 1}{x}[/math] ভাগ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x^2 - 1 = (x + 1)(x - 1)[/math]
+, [math]x^2 + x = x(x + 1)[/math]
+ [math]= \dfrac{(x + 1)(x - 1)}{x(x + 1)} \div \dfrac{x - 1}{x}[/math]
+ [math]= \dfrac{x - 1}{x} \div \dfrac{x - 1}{x}[/math]
+ [math]= 1[/math]
+∴ ভাগফল = [math]1[/math]
+
+
+Explanation:
+[math]\dfrac{x^2-1}{x^2+x}=\dfrac{(x-1)(x+1)}{x(x+1)}=\dfrac{x-1}{x},[/math] তাই [math]\dfrac{x^2-1}{x^2+x}\div\dfrac{x-1}{x}=\dfrac{x-1}{x}\div\dfrac{x-1}{x}=1.[math]
+
+শর্ত: মূল অভিব্যক্তি এবং ভাগকারীর মান নির্ধারিত থাকতে হবে, তাই [math]x\neq0,-1[/math] এবং ভাগ করে গিয়ে শূন্য হতে না পারে—অর্থাৎ [math]x\neq1[/math]; অতএব ফল 1 যখন [math]x\neq0,1,-1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 187933)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+কোন ধরনের ভগ্নাংশকে বীজগণিতীয় ভগ্নাংশ বলা হয়?
+
+Options:
+
+
+Correct Answer: যেখানে লব ও হর উভয়কে বীজগণিতীয় প্রতীক দ্বারা প্রকাশ করা হয়
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় ভগ্নাংশ বলতে এমন ভগ্নাংশকে বোঝায় যার লব (উপরের অংশ) ও হর (নিচের অংশ) উভয়ই বীজগণিতীয় প্রকাশ—অর্থাৎ চলক ও ধ্রুবকসহ অঙ্কের সম্পর্ক—দ্বারা লেখা হয়। উদাহরণস্বরূপ [math]\frac{2x+1}{x^2-1}[/math] একটি বীজগণিতীয় ভগ্নাংশ কারণ উভয় অংশেই বীজগণিতীয় প্রতীক (চলক) আছে।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 187934)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+কোন ক্ষেত্রে দুটি ভগ্নাংশ সমান হবে?
+
+Options:
+
+
+Correct Answer: যখন তাদের লব ও হর সমান হবে
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: দুটি ভগ্নাংশ তখনই সমান হবে যখন তাদের লব এবং হর যথাক্রমে সমান হয়, কারণ যদি [math]a=c[/math] এবং [math]b=d[/math] হয় তাহলে স্পষ্টভাবে [math]a/b=c/d[/math]। সাধারণভাবে সমতার আরেকটি শর্ত হলো ক্রস-গুণ করলে [math]ad=bc[/math] থাকা।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 187935)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+সাধারণ হরবিশিষ্ট ভগ্নাংশ তৈরি করতে কি করতে হয়?
+
+Options:
+
+
+Correct Answer: ভগ্নাংশগুলোর হরের ল.সা.গু বের করতে হবে এবং তা দিয়ে ভগ্নাংশের লব ও হরকে গুণ করতে হবে
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: সাধারণ হরবিশিষ্ট ভগ্নাংশ করতে প্রত্যেক ভগ্নাংশের হরের ল.সা.গু (LCM) বের করে সব ভগ্নাংশের হর সেই সংখ্যায় আনতে হয়, ফলে সব ভগ্নাংশের হর সমান হয়। প্রতিটি ভগ্নাংশের নতুন ঊপরাংশ হবে [math]\text{নতুন ঊপর}=\text{পুরনো ঊপর}\times\frac{\text{LCM}}{\text{পুরনো হর}}[/math], এবং নতুন হর হবে [math]\text{LCM}[/math], যাতে যোগ-বিয়োগ ও তুলনা করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 185872)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যদি ৩/৪ এবং ২/৩ দুইটি ভগ্নাংশকে সাধারণ হরবিশিষ্ট করতে হয়, তবে কী করতে হবে?
+
+Options:
+
+
+Correct Answer: ল.সা.গু বের করে উভয় ভগ্নাংশের হরকে ভাগ করতে হবে।
+
+Solution:
+
+
+Explanation:
+কারণ সাধারণ হর পেতে সর্বনিম্ন সাধারণ গুণক (LCM) নিলে কম্প্যারিজন সহজ হয়; এখানে LCM(4,3)=12। তাই LCM থেকে প্রতিটি হরের প্রতি ভাগ করে সেই অনুপাতটি সংখ্যার সাথে গুণ করলে পাওয়া যায়: [math]3/4=9/12[/math] এবং [math]2/3=8/12[/math], অর্থাৎ উভয় ভগ্নাংশের হর এখন সাধারণ।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 174890)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের লঘুকরণ কিভাবে করা হয়?
+
+Options:
+
+
+Correct Answer: লব ও হরের গ.সা.গু. দ্বারা ভাগ করে
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: ভগ্নাংশ লঘুকরণে উপরের সংখ্যা (লব) ও নিচের সংখ্যা (হর) উভয়কে তাদের গ.সা.গু. (সর্বাধিক সাধারণ গুণনীয়) দ্বারা ভাগ করা হয়, কারণ সাধারণ গুণনীয় দ্বারা ভাগ করলে ভগ্নাংশের মান অপরিবর্তিত থাকে এবং সংখ্যা ছোট হয়ে যায়। উদাহরণ: [math]\frac{6}{8}[/math]-এর গ.সা.গু. হল 2, ফলে [math]\frac{6\div2}{8\div2}=\frac{3}{4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 174891)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+একটি বীজগণিতীয় ভগ্নাংশের যোগ করতে হলে প্রথমে কি করতে হয়?
+
+Options:
+
+
+Correct Answer: সাধারণ হরবিশিষ্ট করতে হয়
+
+Solution:
+
+
+Explanation:
+কারণ ভগ্নাংশগুলোকে সরাসরি যোগ করা যায় না যদি তাদের হর (denominator) আলাদা থাকে — একই হরে এনে তখনই উর্ধ্বাংশ (numerator)গুলোকে সরাসরি যোগ করা যায়। তাই প্রথমে হরগুলোকে সর্বনিম্ন সাধারণ গুণক (LCM) দিয়ে সাধারণ হরবিশিষ্ট করে তারপর উর্ধ্বাংশগুলি পরিবর্তন করে যোগ করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 172996)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+সাধারণ হরবিশিষ্ট ভগ্নাংশ কিভাবে তৈরি করা হয় এবং এর গুরুত্ব কী?
+
+Options:
+
+
+Correct Answer: লব ও হরের গ.সা.গু দিয়ে ভাগ করে সাধারণ হরবিশিষ্ট ভগ্নাংশ তৈরি হয়; এটি গাণিতিক সমস্যা সমাধানে কার্যকর।
+
+Solution:
+
+
+Explanation:
+কারণ: সাধারণ হরবিশিষ্ট ভগ্নাংশ করতে লব (সংখ্যক) ও হর (নাম) এর গ.সা.গু [math]d[/math] দিয়ে দুটোই ভাগ করলে ভগ্নাংশের মান অপরিবর্তিত থেকে সবচেয়ে ছোট অনুপাত পাওয়া যায়; উদাহরণ: [math]\frac{a}{b}\xrightarrow{\div d}\frac{a/d}{b/d}\ (d=\gcd(a,b)).[/math] গুরুত্ব: সরল রূপ গণনা, যোগ-বিয়োগ-গুণ-ভাগ ও তুলনা সহজ করে এবং ভুলের সম্ভাবনা কমায়।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 172997)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের গুণ করার পদ্ধতি কী?
+
+Options:
+
+
+Correct Answer: লবগুলো গুণ করা হয় এবং হরগুলো গুণ করা হয়; তারপর লঘিষ্ঠ আকারে প্রকাশ করা হয়।
+
+Solution:
+
+
+Explanation:
+বীজগণিতীয় ভগ্নাংশগুলো গুণ করার সময় প্রতিটি ভগ্নাংশের লব একসাথে এবং হর একসাথে গুণ করা হয় কারণ [math]\frac{a}{b}\times\frac{c}{d}=\frac{ac}{bd}[/math]. প্রয়োজনে গুণের আগে লব ও হরের মধ্যে সাধারণ গুণক কেটে নিয়ে ফলকে লঘিষ্ঠ আকারে প্রকাশ করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 171568)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের লঘিষ্ঠকরণ প্রক্রিয়ায় লব ও হরের গ.সা.গু. কিভাবে ব্যবহার করা হয়?
+
+Options:
+
+
+Correct Answer: লব ও হরকে গ.সা.গু. দ্বারা ভাগ করে নতুন ভগ্নাংশ গঠন করা হয়।
+
+Solution:
+
+
+Explanation:
+লব ও হরকে তাদের গ.সা.গু. দ্বারা ভাগ করলে ভগ্নাংশটির মান অপরিবর্তিত থেকে যায় কিন্তু একই সময় সব সাধারণ গুণক মুছে যায়, তাই ভগ্নাংশটি লঘিষ্ঠ হয়। কারণ গ.সা.গু.ই হল উভয় সংখ্যার সর্ববৃহৎ সাধারণ বিভাজক; এটিকে বিভাগ করে নেওয়ার পর আর কোনো বড় সাধারণ বিভাজক থাকা সম্ভব হয় না।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 171569)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+কিভাবে দুটি ভগ্নাংশের যোগফল বের করার জন্য সাধারণ হরবিশিষ্টকরণ করা হয়?
+
+Options:
+
+
+Correct Answer: ভগ্নাংশগুলোর লব যোগ করতে হবে এবং হরের ল.সা.পু. নিতে হবে।
+
+Solution:
+
+
+Explanation:
+প্রথমে ভগ্নাংশ দুটির হরের ল.সা.পু. (L) নেওয়া হয় এবং প্রতিটি ভগ্নাংশকে সেই সাধারণ হরে আনতে উপরের অংশ অনুপাতে গুণ করা হয়। এরপর সমান হরের ভগ্নাংশগুলোর উপরের অংশ যোগ করে সাধারণ হর রেখে ফল লেখা হয় এবং প্রয়োজন হলে সরলীকরণ করা হয়; উদাহরণস্বরূপ [math]\frac{a}{b}+\frac{c}{d}=\frac{a\cdot(L/b)+c\cdot(L/d)}{L}[/math], যেখানে [math]L=\text{l.c.m.}(b,d)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 171570)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের গুণফল নির্ণয়ের সময় কোন পদ্ধতি অনুসরণ করা হয়?
+
+Options:
+
+
+Correct Answer: লবের গুণফল এবং হরের গুণফল গ্রহণ করা হয়।
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় ভগ্নাংশ গুণ করার নিয়ম হলো লব (উপরের অংশ) দুটির গুণফল এবং হর (নীচের অংশ) দুটির গুণফল নেওয়া; অর্থাৎ [math]\frac{a}{b}\times\frac{c}{d}=\frac{ac}{bd}[/math]. প্রয়োজনে সাধারণ গুণনীয়ক বাতিল করে ফল সরলীকরণ করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 171571)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+যদি দুইটি ভগ্নাংশকে বিয়োগ করতে হয়, তবে কি পদ্ধতি অনুসরণ করতে হবে?
+
+Options:
+
+
+Correct Answer: ভগ্নাংশগুলোকে সাধারণ হরবিশিষ্ট করতে হবে এবং লব বিয়োগ করতে হবে।
+
+Solution:
+
+
+Explanation:
+কারণ ভিন্ন হরের ভগ্নাংশগুলো ভিন্ন আকারের অংশ বোঝায়; তাই প্রথমে তাদের একই সাধারণ হরবিশিষ্ট করতে হয় এবং তারপর উপরের সংখ্যাগুলো (লব) একে অপর থেকে বিয়োগ করতে হয়। শেষে প্রাপ্ত ভগ্নাংশ সহজ করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 171572)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের ভাগ করার সময় কীভাবে গুণাত্মক বিপরীত ভগ্নাংশ ব্যবহার করা হয়?
+
+Options:
+
+
+Correct Answer: প্রথম ভগ্নাংশকে গুণাত্মক বিপরীত ভগ্নাংশ দ্বারা গুণ করা হয়।
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: ভাগ করার কাজটি কোনো সংখ্যায় অন্য সংখ্যার কতগুলো অংশ আছে তা খুঁজে বের করা, তাই ভগ্নাংশ [math]\frac{c}{d}[/math] দিয়ে ভাগ করলে তার গুণাত্মক বিপরীত [math]\frac{d}{c}[/math] দিয়ে গুণ করলে একই ফল পাওয়া যায়; অর্থাৎ [math]\frac{a}{b} ÷ \frac{c}{d} = \frac{a}{b} × \frac{d}{c}[/math]। এটি গণনা ও সাধারণীকরণকে সহজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 96711)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের লঘিষ্ঠকরণ কিভাবে সম্পন্ন হয় এবং এর প্রয়োজনীয়তা কি?
+
+Options:
+
+
+Correct Answer: লব ও হারের গ.সা.গু. দিয়ে ভাগ করে লঘিষ্ঠকরণ সম্পন্ন হয়, যা ভগ্নাংশের সহজীকরণের জন্য প্রয়োজন।
+
+Solution:
+সমাধান:
+
+উত্তর‑পদ্ধতি (সংক্ষিপ্ত): একটি বীজগণিতীয় ভগ্নাংশকে লঘিষ্ঠ (সিম্পলিফাই) করতে প্রথমে সংখ্যা এবং চলকগুলির সাধারণ গুণনীয়ক (common factor) খুঁজে বের করতে হয় — সংখ্যার ক্ষেত্রে এটি গ.সা.গু. (GCD), পলিনোমিয়ালের ক্ষেত্রে ফ্যাক্টরাইজেশন বা ইউক্লিডিয়ান অ্যালগরিদম দ্বারা সাধারণ গ.সা.গু. নির্ণয় করা যায়। তারপর উভয়কে সেই সাধারণ গুণনীয়ক দিয়ে ভাগ করে সাধারণ অংশ বাতিল (cancel) করা হয়। লঘিষ্ঠকরণের পরে মূল ভগ্নাংশের জন্য ডোমেইন‑শর্ত (হারিতকের শূন্য না হওয়া) মনে রাখা জরুরি।
+
+ধাপ অনুযায়ী কাজ:
+1. সংখ্যাগত ভগ্নাংশ হলে সংখ্যাগুলোর গ.সা.গু. নির্ণয় করো এবং উভয়কে দিয়ে ভাগ করো।  
+2. পলিনোমিয়াল ভগ্নাংশ হলে উপরের ও নীচের পলিনোমিয়ালগুলোকে ফ্যাক্টর করো।  
+3. সাধারণ গুণনীয়কগুলো চিন্হিত করে বাতিল করো (cancel)।  
+4. লঘিষ্ঠ স্বরূপ লিখো এবং হারিতকের শূন্য হওয়ার মানগুলিকে (যেগুলো অনুমোদিত নয়) উল্লেখ করো।
+
+উদাহরণ ১ (সংখ্যা ও চলক মিলিত):  
+ভগ্নাংশ [math]\dfrac{6x^2y}{9xy^2}[/math] লঘিষ্ঠ করো।  
+ফ্যাক্টর করে, উপরের = [math]6x^2y=6\cdot x\cdot x\cdot y[/math], নিচের = [math]9xy^2=9\cdot x\cdot y\cdot y[/math]. সাধারণ গুণনীয়ক = [math]3xy[/math]. তাই ভাগ করলে পাওয়া যায়  
+[math]\dfrac{6x^2y}{9xy^2}=\dfrac{6x^2y\div 3xy}{9xy^2\div 3xy}=\dfrac{2x}{3y}[/math].  
+ডোমেইন শর্ত: [math]x
+eq 0,\; y
+eq 0[/math] (মূল ভগ্নাংশে হারিতক শূন্য হতো)।
+
+উদাহরণ ২ (পলিনোমিয়াল):  
+ভগ্নাংশ [math]\dfrac{x^2-4}{x^2-5x+6}[/math] লঘিষ্ঠ করো।  
+ফ্যাক্টর করে, উপরের = [math](x-2)(x+2)[/math], নিচের = [math](x-2)(x-3)[/math]. (x-2) সাধারণ, তাই বাতিল করলে পাওয়া যায়  
+[math]\dfrac{x^2-4}{x^2-5x+6}=\dfrac{x+2}{x-3}[/math].  
+ডোমেইন শর্ত: মূল ভগ্নাংশে [math]x
+eq 2[/math] এবং [math]x
+eq 3[/math] (ভুলে গেলে চলবে না যদিও বাতিলের পর [math]x=2[/math] বিশ্লেষণীয়ভাবে দেখতে পারে)।
+
+প্রয়োজনীয়তা (কেন লঘিষ্ঠ করা হয়):  
+- হিসাব-কর্ম সহজ হয় (যোগ, বিয়োগ, গুণ, ভাগ, সমাধান ইত্যাদি)।  
+- ভগ্নাংশের তুলনা ও সরলীকৃত প্রতিনিধিত্ব পাওয়া যায়।  
+- সমীকরণগুলো সমাধান ও বিশ্লেষণে সুবিধা দেয়।  
+- পলিনোমিয়ালে অতিরিক্ত জটিলতা এড়াতে এবং ডোমেইন‑শর্ত স্পষ্ট রাখতে সাহায্য করে।
+
+সংক্ষেপে: লঘিষ্ঠকরণে নীতিটি হল উপস্থাপিত ভগ্নাংশের উপরে ও নিচের থেকে সাধারণ গুণনীয়ক (সংখ্যা হলে গ.সা.গু., পলিনোমে ফ্যাক্টরাইজেশন/গ.সা.গু.) দিয়ে ভাগ করে বাতিল করা; এবং হারিতকের শূন্য হওয়া মানগুলো মনে রাখা আবশ্যক।
+
+Explanation:
+ব্যাখ্যা: ভগ্নাংশ লঘিষ্ঠকরণের জন্য লব (উপরের) ও হার (নিচের) এর সর্বোচ্চ সাধারণ গুণক (গ.সা.গু.) দিয়ে উভয়কেই ভাগ করা হয়, যাতে সাধারণ গুণফল ওঠে যায়। উদাহরণস্বরূপ, [math]8/12[/math]-এর গ.সা.গু. 4, তাই ভাগ করলে [math]2/3[/math] পাওয়া যায়। এইভাবে কোনো সাধারণ গুণফল না থাকলে ভগ্নাংশ সবচেয়ে সরল রূপে থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 96704)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের যোগ করার সময় সাধারণ হরবিশিষ্টকরণের পদ্ধতি কী?
+
+Options:
+
+
+Correct Answer: লবের যোগফল ও হরের ল.সা.পু ব্যবহার করে নতুন ভগ্নাংশ তৈরি করা হয়।
+
+Solution:
+সমাধান:
+পদ্ধতিটি সংক্ষিপ্তভাবে — সাধারণ হরবিশিষ্টকরণ (LCM ব্যবহার করে) করে প্রতিটি ভগ্নাংশকে একই হরযুক্ত করে তারপর বরের যোগফল থেকে নতুন ভগ্নাংশ পাওয়া হয়। ধাপগুলো:
+
+1. প্রতিটি ভগ্নাসের হরকে বিশ্লেষণ (প্রয়োজনে গুণনীয়ক করে) করে তাদের ল.সা.পু (LCM) নির্ণয় করুন।  
+2. প্রতিটি ভগ্নাংশকে সেই ল.সা.পু পেতে উপযুক্ত গুণক দিয়ে বাড়ান (অর্থাৎ সংখ্যার ও হরের উভয়কেই গুণ করুন) যাতে সব ভগ্নাংশের হর এক হয়।  
+3. একই হরের ভগ্নাংশগুলোর বরসমূহ যোগ করুন এবং যোগফলকে ল.সা.পু দ্বারা ভাগ করে নতুন ভগ্নাংশ তৈরি করুন।  
+4. ফলটি সরলীকরণ করুন (যদি সম্ভব) এবং হরের শূন্যতার শর্ত উল্লেখ করুন (যে মানগুলো হর শূন্য করে সেগুলো গ্রহণযোগ্য নয়)।
+
+উদাহরণ (সংক্ষিপ্ত প্রদর্শন):
+ভাগ করুন [math]\dfrac{2}{x+1}+\dfrac{3}{x-1}[/math]।
+
+- ল.সা.পু হবে [math](x+1)(x-1)[/math]।  
+- প্রথম ভগ্নাংশকে [math](x-1)[/math] দিয়ে বাড়ালে হয় [math]\dfrac{2(x-1)}{(x+1)(x-1)}[/math]।  
+- দ্বিতীয় ভগ্নাংশকে [math](x+1)[/math] দিয়ে বাড়ালে হয় [math]\dfrac{3(x+1)}{(x-1)(x+1)}[/math]।  
+- বর যোগ করলে পাওয়া— [math]\dfrac{2(x-1)+3(x+1)}{(x+1)(x-1)}=\dfrac{2x-2+3x+3}{(x+1)(x-1)}=\dfrac{5x+1}{(x+1)(x-1)}[/math]।  
+- সরলীকরণ: আর কোনো সাধারিত গুণনীয়ক নেই। শর্ত: [math]x
+eq \pm 1[/math]।
+
+প্রয়োজনে শক্তি বা বহুপদী হরের ক্ষেত্রে একই নিয়ম প্রযোজ্য: প্রথমে হরগুলোকে গুণনীয়কে ভাগ করে ল.সা.পু বের করুন, তারপর প্রতিটি ভগ্নাংশকে অনুকূল গুণকে দিয়ে অন্যান্যগুলোর মতো করে তোলার মাধ্যমে যোগ করুন।
+
+Explanation:
+ব্যাখ্যা: বীজগণিতীয় ভগ্নাংশ যোগ করার সময় প্রথমে ভগ্নাংশগুলোর হরের ল.সা.পু (সাধারণ হর) বের করা হয়, তারপর প্রতিটি ভগ্নাংশকে সেই সাধারণ হরের সমতুল্য করতে কূট ও হর একসঙ্গে একই সংখ্যায় গুণ করা হয়; এরপর কূটগুলোর যোগফল রেখে সাধারণ হর অপরিবর্তিত করে ফল লিখে শেষে সরল করা হয়। উদাহরণস্বরূপ, [math]\frac{a}{b}+\frac{c}{d}=\frac{a\cdot(l/b)+c\cdot(l/d)}{l}[/math], যেখানে [math]l=\text{lcm}(b,d)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 96705)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+কিভাবে একটি ভগ্নাংশের গুণফল নির্ণয় করা হয়?
+
+Options:
+
+
+Correct Answer: ভগ্নাংশগুলোর লবের গুণফল ও হরের গুণফল নিয়ে নতুন ভগ্নাংশ তৈরি করা হয়।
+
+Solution:
+সমাধান:
+
+উত্তর প্রদানের ভাবনা:
+ভগ্নাংশগুলোর গুণফল নির্ণয়ে সাধারণ নিয়ম হল: পৃথকভাবে লব (উপরের অংশ) গুণ করা এবং হর (নীচের অংশ) গুণ করা; প্রয়োজনে সাধারণ গুণফল সহজীকরণ (cancel) করা যায়। কোনোটিই যোগ বা সাধারণ হর মিলানোর প্রয়োজন নেই।
+
+ধাপভিত্তিক পদ্ধতি:
+1. ধরুন দুটি ভগ্নাংশ [math]\dfrac{a}{b}[/math] ও [math]\dfrac{c}{d}[/math] (এখানে [math]b
+eq0,\, d
+eq0[/math])। গুণফল হবে  
+   [math]\dfrac{a}{b}\times\dfrac{c}{d}=\dfrac{a\cdot c}{b\cdot d}[/math].
+
+2. সম্ভব হলে ক্রস-ক্যানসেলেশন (cross-cancellation) করে সরল করা যায়: যদি [math]\gcd(a,d)>1[/math] বা [math]\gcd(c,b)>1[/math], তাহলে সাধারণ ভাগ করে গুণফল ছোট করে নেওয়া যায়—এতে শেষে ভাগ করা সহজ হয় এবং বড় সংখ্যা গুণ না করেই ফল মেলে।
+
+3. যদি একটি বা দুইটি ভগ্নাংশ মিশ্র সংখ্যা হয়, প্রথমে তা অবিচ্ছেদ্য ভগ্নাংশে (improper fraction) রূপান্তর করা হবে; উদাহরণ: [math]m\frac{p}{q} = \dfrac{mq+p}{q}[/math]।
+
+উপযুক্ত সূত্র ও বৈশিষ্ট্য:
+- গুণণের সমতূল্যতা: [math]\dfrac{a}{b}\times\dfrac{c}{d}=\dfrac{ac}{bd}[/math]  
+- ক্রস-ক্যানসেলেশন ব্যবহারযোগ্য ও ফল অপরিবর্তিত রাখে।  
+- ভগ্নাংশ গুণন ক্রমান্বয়ে ও কমিউটেটিভ: বিন্যাস বদলে ফল একই থাকে।
+
+উদাহরণ (সংক্ষিপ্ত, মূল্যবান প্রদর্শনের জন্য):
+উদাহরণ 1: [math]\dfrac{2}{3}\times\dfrac{9}{4}[/math]  
+প্রথমে ক্রস-ক্যানসেল: 3 ও 9 দ্বারা ভাগ করলে 3 আর 9 → 1 ও 3। তাই  
+[math]\dfrac{2}{3}\times\dfrac{9}{4}=\dfrac{2}{1}\times\dfrac{3}{4}=\dfrac{6}{4}=\dfrac{3}{2}[/math].
+
+উদাহরণ 2 (মিশ্র সংখ্যা): [math]1\frac{1}{2}\times\dfrac{3}{4}[/math]  
+প্রথমে মিশ্রকে অবিচ্ছেদ্য ভগ্নাংশে: [math]1\frac{1}{2}=\dfrac{3}{2}[/math], তাই  
+[math]\dfrac{3}{2}\times\dfrac{3}{4}=\dfrac{9}{8}[/math]।
+
+উপসংহার:
+ভগ্নাংশের গুণফল নির্ণয়ে নিয়ম হল লবগুলোকে একসাথে গুণ করা ও হরগুলোকে একসাথে গুণ করা ([math]\dfrac{ac}{bd}[/math]) এবং সম্ভব হলে ক্রস-ক্যানসেল করে ফল সরল করা।
+
+Explanation:
+ভগ্নাংশগুলোর গুণফল নির্ণয়ের নিয়ম হল লবগুলোর গুণফল ও হরগুলোর গুণফল নিয়ে নতুন ভগ্নাংশ গঠন করা, অর্থাৎ [math]\frac{a}{b}\times\frac{c}{d}=\frac{ac}{bd}[/math]. কারণ [math]\frac{a}{b}=a\times\frac{1}{b}[/math] ও [math]\frac{c}{d}=c\times\frac{1}{d}[/math] এবং গুণ করার সময় লবগুলো একসাথে ও হরগুলো একসাথে গুণিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 93933)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের যোগ ও বিয়োগের সময় কোন পদ্ধতি অনুসরণ করতে হয়?
+
+Options:
+
+
+Correct Answer: ভগ্নাংশগুলিকে সাধারণ হরবিশিষ্ট করতে হয়
+
+Solution:
+সমাধান:
+
+পদ্ধতি: ভগ্নাংশগুলিকে সাধারণ হরবিশিষ্ট করতে হয় — অর্থাৎ সকল ভগ্নাংশের নামহার (denominator) একই করে নেবেন, তারপর উক্ত সাধারণ নামহরের ওপর সংখ্যাগুলো যোগ বা বিয়োগ করবেন এবং ফলটি সহজ করে নিবেন।
+
+ধাপে ধাপে নির্দেশিকা:
+1. সব ভগ্নাংশের নামহরের লঘিষ্ঠ সাধারণ গুণিতক (LCM) নির্ণয় করুন।  
+2. প্রতিটি ভগ্নাংশকে সমমানের ভগ্নাংশ হিসেবে রূপান্তর করুন যাতে নামহারগুলো LCM হয়। (অর্থাৎ সংখ্যকাংশকে প্রয়োজনীয় গুণকে দ্বারা গুণ করুন)  
+3. সমান নামহরে থাকা ভগ্নাংশগুলোর সংখ্যকাংশগুলোকে যোগ বা বিয়োগ করুন। নামহার অপরিবর্তিত থাকবে।  
+4. প্রাপ্ত ভগ্নাংশটিকে সরলীকরণ (যদি সম্ভব হয়ে থাকে) করুন — গরিষ্ঠ সাধারণ বিভাজক (GCD) দিয়ে ভাগ করুন।
+
+সংক্ষিপ্ত উদাহরণ (অর্থবোধকর হলে যোগ ও বিয়োগ উভয়ের):  
+যোগের উদাহরণ: [math]\tfrac{2}{3}+\tfrac{1}{4}[/math]  
+- নামহারগুলোর LCM = [math]12[/math].  
+- রূপান্তর: [math]\tfrac{2}{3}=\tfrac{8}{12},\quad \tfrac{1}{4}=\tfrac{3}{12}[/math].  
+- যোগ: [math]\tfrac{8}{12}+\tfrac{3}{12}=\tfrac{11}{12}[/math] (আরও সরলীকরণর দরকার নেই)।
+
+বিয়োগের উদাহরণ: [math]\tfrac{5}{6}-\tfrac{1}{4}[/math]  
+- LCM = [math]12[/math].  
+- রূপান্তর: [math]\tfrac{5}{6}=\tfrac{10}{12},\quad \tfrac{1}{4}=\tfrac{3}{12}[/math].  
+- বিয়োগ: [math]\tfrac{10}{12}-\tfrac{3}{12}=\tfrac{7}{12}[/math]।
+
+তত্ত্বগত কারণ: নামহার সমান করলে ভগ্নাংশগুলোর তুলনাযোগ্য একক হয় এবং তাই কেবল সংখ্যকাংশগুলোকে যোগ বা বিয়োগ করলেই পুরো যোগ/বিয়োগ সঠিকভাবে করা যায়।
+
+Explanation:
+ব্যাখ্যা: ভগ্নাংশ যোগ বা বিয়োগের সময় তাদের হর (নীচের অংশ) একরকম করতে হয়, কারণ তখনই ভগ্নাংশগুলোর অংশগুলো একই আকারের হয় এবং সরাসরি উপরের অংশগুলো যোগ বা বিয়োগ করা যাবে। সাধারণ হরবিশিষ্ট করার পর উপরের অংশগুলো যোগ/বিয়োগ করে এবং প্রয়োজন হলে ফলাফলকে সরলীকরণ করতে হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 93929)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের লব ও হরের গ.সা.গু. দিয়ে লঘিষ্ঠকরণ করার পদ্ধতি কী?
+
+Options:
+
+
+Correct Answer: লব ও হরকে গ.সা.গু. দিয়ে ভাগ করা
+
+Solution:
+সমাধান:
+
+পদ্ধতি (সারসংক্ষেপ) — বীজগণিতীয় ভগ্নাংশ লঘিষ্ঠকরণ করতে লব (নিউমেরেটর) ও হর (ডেনোমিনেটর)কে তাদের গ.সা.গু. (সর্বোচ্চ সাধারণ বিভাজ্য) দিয়ে ভাগ করতে হয়; বাস্তবে এটি করা হয় উভয়কে সম্পূর্ণভাবে গুণফল বা গটি (common factor) থেকে মুক্ত করে নেওয়ার মাধ্যমে।
+
+ধাপবিশেষ:
+1. লব ও হরকে সম্পূর্ণভাবে ভগ্নাংশে ভাঙুন (factoring)। যেন সংখ্যাত্ত্বিক সাধারণ গুণক এবং বহুপদী গুণফলগুলো আলাদা দেখা যায়। উদাহরণ: সংখ্যাগত গুণক, সাধারণ অনুচ্ছেদিক গুণক, বা বহুপদী ভগ্নাংশের ফ্যাক্টরগুলো।
+2. উভয় পাশে যে সাধারণ গুণক বা গুণফলগুলো আছে তা শনাক্ত করুন — এইটাই গ.সা.গু. (অথবা তার একটি অংশ)। যদি গ.সা.গু. খুঁজে পাওয়া কঠিন হয়, তাহলে বহুপদীর ক্ষেত্রে পলিনোমিয়াল ইউক্লিডীয় অ্যালগরিদমও ব্যবহার করা যায়।
+3. লব ও হরকে ঐ গ.সা.গু. দিয়ে ভাগ করুন (অর্থাৎ সাধারণ গুণকগুলো বাতিল করুন) এবং সরলীকৃত ভগ্নাংশ লিখুন।
+4. ডোমেইন সীমাবদ্ধতা উল্লেখ করুন: বাতিল করা গুণক যদি শূন্য করে দেয় এমন মানগুলোকে (যেমন হরে যে মানে শূন্য হয়) অনুমোদিত করা যাবে না — সেগুলো ফলাফলে নামিয়ে নেয়া উচিত নয়, সেগুলোকে নিষিদ্ধ মান হিসেবে রাখতে হবে।
+
+সংক্ষিপ্ত উদাহরণ:
+উদাহরণ 1: লঘিষ্ঠকরণ করো [math]\dfrac{x^{2}-4}{x^{2}-x-2}[/math]
+- ধাপ 1 (ভাঙা): [math]x^{2}-4=(x-2)(x+2),\quad x^{2}-x-2=(x-2)(x+1)[/math]
+- ধাপ 2 (সাধারণ গুণক): উভয়ে সাধারণ গুণক [math](x-2)[/math]
+- ধাপ 3 (বাতিল): বাতিল করে পাওয়া যায় [math]\dfrac{x+2}{x+1}[/math]
+- ডোমেইন সীমাবদ্ধতা: হর শূন্য করে এমন মানগুলো অনুমতিহীন, তাই [math]x
+eq 2,\;x
+eq -1[/math] (মুলত [math]x=2[/math] ছিল বাতিলকৃত গুণক থেকে নিষিদ্ধ)।
+
+উদাহরণ 2 (সংখ্যাতত্ত্ব): [math]\dfrac{6x^{2}+9x}{3x}[/math]
+- ভাঙা: [math]6x^{2}+9x=3x(2x+3)[/math]
+- বাতিল: [math]\dfrac{3x(2x+3)}{3x}=2x+3[/math], তবে [math]x
+eq 0[/math] (কারণ মূল ভগ্নাংশে হর শূন্য হওয়ার মানকে প্রতিরোধ করতে হবে)।
+
+মূলে কথা: লব ও হরকে তাদের গ.সা.গু. দিয়ে ভাগ করাই লঘিষ্ঠকরণের মৌলিক পন্থা — প্র্যাকটিক্যালি এটা করা হয় লব ও হরকে সম্পূর্ণভাবে ফ্যাক্টর করে সাধারণ গুণকগুলো বাতিল করে।
+
+Explanation:
+ব্যাখ্যা: কোনো বীজগণিতীয় ভগ্নাংশ যেমন [math]\frac{p(x)}{q(x)}[/math]-এ গ.সা.গু. হলো p(x) ও q(x)-এর সর্বোচ্চ সাধারণ বিভাজক; এটি দিয়ে উভয়কে ভাগ করলে সাধারণ গুণকগুলো কেটে যায় এবং ভগ্নাংশ লঘিষ্ঠ (সর্বনিম্ন) রূপে आता।
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 93930)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দুইটি গাণিতিক রাশির যোগ ও বিয়োগের জন্য সাধারণ হরবিশিষ্টকরণের মাধ্যমে কোন পদ্ধতি অনুসরণ করতে হয়?
+
+Options:
+
+
+Correct Answer: ল.সা.গু. নির্ণয় করা
+
+Solution:
+সমাধান:
+
+বেশ সংক্ষেপে: দুইটি গাণিতিক রাশির যোগ বা বিয়োগ করতে প্রথমে তাদের আয়নগুলোর ল.সা.গু. (least common multiple) নির্ণয় করতে হবে, তা সাধারণ হরবিশিষ্টকরণ (common denominator) হিসেবে নিয়ে অংশগুলিকে সমান হরবিশিষ্টে রূপান্তর করে হতে হিসাব করা হয়।
+
+পদ্ধতি ও ধাপসমূহ:
+1. প্রতিটি হরকে গুণনীয়তায় ভাঙুন (factorization)।
+2. প্রতিটি ভগ্নাংশের হরের গুণফল থেকে ল.সা.গু. নির্ণয় করুন — অর্থাৎ প্রতিটি মৌলিক গুণকের সর্বোচ্চ ঘাত গ্রহণ করুন।
+3. প্রতিটি ভগ্নাংশকে ল.সা.গু. দিয়ে সমান হরবিশিষ্ট করতে উপযুক্ত গুণক দ্বারা গুণ করুন।
+4. একই হরে আনা হলে সংখ্যার অংশগুচ্ছগুলো যোগ/বিয়োগ করুন এবং সরল করুন (যদি সম্ভব)।
+5. প্রাপ্ত ফলকে যদি সম্ভব হয়, পুণরায় গুণফল বা সাধারণ ভগ্নাংশে সরল করুন।
+
+উদাহরণ ১ (যোগ):
+[math]\frac{2}{x+1}+\frac{3}{x-1}[/math]
+- হরগুলো হলো [math]x+1[/math] ও [math]x-1[/math]। ল.সা.গু. = [math](x+1)(x-1)[/math]।
+- সমান হরে আনা:
+  [math]\frac{2(x-1)}{(x+1)(x-1)}+\frac{3(x+1)}{(x+1)(x-1)}=\frac{2(x-1)+3(x+1)}{(x+1)(x-1)}[/math]
+- সংখ্যাগুচ্ছ সরল করলে:
+  [math]\frac{2x-2+3x+3}{x^2-1}=\frac{5x+1}{x^2-1}[/math]
+
+উদাহরণ ২ (বিয়োগ, সাধারণ গুণফল আছে):
+[math]\frac{1}{x^2-1}-\frac{2}{x-1}[/math]
+- প্রথম হরকে ভেঙে নিলে [math]x^2-1=(x-1)(x+1)[/math]। ল.সা.গু. = [math](x-1)(x+1)[/math]।
+- সমান হরে আনা:
+  [math]\frac{1}{(x-1)(x+1)}-\frac{2(x+1)}{(x-1)(x+1)}=\frac{1-2(x+1)}{(x-1)(x+1)}[/math]
+- সরল করতে:
+  [math]\frac{1-2x-2}{x^2-1}=\frac{-2x-1}{x^2-1}=\frac{-(2x+1)}{x^2-1}[/math]
+
+উপসংহার: দুইটি গাণিতিক রাশির যোগ বা বিয়োগের জন্য সাধারণ হরবিশিষ্টকরণের মূল পদ্ধতি হল হরগুলোর ল.সা.গু. নির্ণয় করা এবং তা ব্যবহার করে ভগ্নাংশগুলোকে সমান হরে নিয়ে যোগ/বিয়োগ সম্পন্ন করা।
+
+Explanation:
+ব্যাখ্যা: যোগ বা বিয়োগ করার সময় দুইটি রাশির হরকে একই করতে হয়; এজন্য তাদের হারগুলোর ল.সা.গু. (নিম্নতম সাধারণ গুণক) নির্ণয় করে প্রতিটি রাশিকে সেই সাধারণ হারে এনে তারপরই সরাসরি যোগ বা বিয়োগ করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 93931)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতীয় ভগ্নাংশের যোগফল নির্ণয় করতে হলে কোন ধাপ অনুসরণ করতে হবে?
+
+Options:
+
+
+Correct Answer: সাধারণ হরবিশিষ্ট করে লবগুলো যোগ করা
+
+Solution:
+সমাধান:
+
+ধারণা: ভগ্নাংশ যোগ করার মূল নীতি হলো সব ভগ্নাংশের হর (denominator) এক করে নেয়া — অর্থাৎ সাধারণ হর (LCM) নির্ণয় করে প্রতিটি ভগ্নাংশকে সেই হরে সামঞ্জস্য করা, তারপর কেবল অংশ (নিউমেরেটর) গুলো যোগ করা এবং প্রয়োজন হলে ফলটি সরলীকরণ করা।
+
+পদক্ষেপসমূহ:
+1. সমস্ত ভগ্নাংশের হরগুলো লক্ষ্য করুন এবং তাদের সাধারণ হর (সর্বনিম্ন সাধারণ বহুগুণ — LCM) নির্ণয় করুন।
+2. প্রতিটি ভগ্নাংশকে সেই সাধারণ হর অনুসারে সমকক্ষ ভগ্নাংশে রূপান্তর করুন। অর্থাৎ প্রতিটি ভগ্নাংশের নিউমেরেটর ও ডিনোমিনেটরকে এমন একটি সংখ্যায় গুণ করুন যাতে ডিনোমিনেটরটি সাধারণ হর হয়।
+   উদাহরণ: যদি ভগ্নাংশ হয় [math]\tfrac{1}{4}[/math] এবং সাধারণ হর [math]12[/math] হয়, তাহলে [math]\tfrac{1}{4}=\tfrac{1\times 3}{4\times 3}=\tfrac{3}{12}[/math]।
+3. সমান হরে রূপান্তরিত ভগ্নাংশগুলোর নিউমেরেটরগুলো যোগ করুন এবং সাধারণ হর একই রেখে রাখুন। 
+   উদাহরণ: [math]\tfrac{3}{12}+\tfrac{8}{12}=\tfrac{11}{12}[/math]।
+4. যোগফল যদি সংক্ষিপ্ত করা যায় (উভয় সংখ্যার মধ্যে সাধারণ গুণক থাকে), তবে বৃহত্তম সাধারণ গুণক (GCD) দিয়ে ভাগ করে সরলীকরণ করুন। প্রয়োজনে অসংখ্যভাগ (mixed number) এ রূপান্তর করুন।
+
+সংক্ষিপ্ত উদাহরণ:
+- প্রশ্ন: [math]\tfrac{1}{4}+\tfrac{2}{3}[/math]  
+  ধাপ 1: হরগুলো [math]4[/math] ও [math]3[/math], LCM = [math]12[/math].  
+  ধাপ 2: [math]\tfrac{1}{4}=\tfrac{3}{12},\quad \tfrac{2}{3}=\tfrac{8}{12}[/math].  
+  ধাপ 3: যোগ করলে [math]\tfrac{3}{12}+\tfrac{8}{12}=\tfrac{11}{12}[/math].  
+  ধাপ 4: [math]\tfrac{11}{12}[/math] আর সরলীকরণ করা যায় না — তাই শেষ ফল [math]\tfrac{11}{12}[/math]।
+
+অতিরিক্ত টিপস:
+- যদি হরগুলো ইতিমধ্যেই সমান থাকে, সরাসরি নিউমেরেটরগুলো যোগ করুন।
+- নেতিবাচক ভগ্নাংশ থাকলেও একই নিয়ম প্রযোজ্য — সূচকতে লক্ষণ ধরে যোগ/বিয়োগ করুন।
+- মিশ্র সংখ্যাকে আগে অসম্পূর্ণ ভগ্নাংশে (improper fraction) রূপান্তর করে ব্যবহার করলে সুবিধা হয়।
+
+Explanation:
+ভগ্নাংশ যোগ করার জন্য প্রথমে সব ভগ্নাংশকে সাধারণ হর (LCM) বা সমান হরবিশিষ্ট করা হয় যাতে তাদের ভিত্তি একরকম হয়; তারপর কেবল লবগুলো যোগ করে হর অপরিবর্তিত রাখা হয়। উদাহরণ: [math]\tfrac{1}{4}+\tfrac{1}{6}=\tfrac{3}{12}+\tfrac{2}{12}=\tfrac{5}{12}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 28513)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+বিভিন্ন ভগ্নাংশের লঘিষ্ঠ আকারে রূপান্তর করার জন্য কী প্রক্রিয়া অনুসরণ করতে হয়?
+
+Options:
+
+
+Correct Answer: লব ও হরের গ.সা.গু দিয়ে লব ও হরকে ভাগ করতে হয়।
+
+Solution:
+সমাধান:
+
+প্রক্রিয়া (পর্যায়ক্রমে):
+1. প্রথমে ভগ্নাংশের লব (numerator) ও হর (denominator) এর গ.সা.গু (Greatest Common Divisor, GCD) নির্ণয় করতে হবে। গ.সা.গু নির্ণয়ের জন্য প্রাইম ফ্যাক্টরাইজেশন বা ইউক্লিডীয় এলগরিদম ব্যবহার করা যায়।  
+2. পরে লব ও হরকে ঐ গ.সা.গু দ্বারা ভাগ করতে হবে। ফলাফলেই ভগ্নাংশের লঘিষ্ঠ (lowest) আকারটি হবে।  
+3. শেষভাগে যাচাই করতে হবে যে নতুন লব ও হরের আর কোন সাধারণ গুণক নেই (অর্থাৎ গ.সা.গু = 1) এবং হর শূন্য নয়।
+
+কেন কাজ করে (যুক্তি):
+- যদি লব ও হর উভয়কে একই ধনাঙ্কে ভাগ করা হয়, ভগ্নাংশটির মান অপরিবর্তিত থাকে। গ.সা.গু দিয়ে ভাগ করলে সব সাধারণ গুণক একবারেই সরিয়ে ফেলা হয়, ফলে লঘিষ্ঠ আকার পাওয়া যায়।
+
+উদাহরণসমূহ (সংক্ষিপ্ত কাজসহ):
+
+উদাহরণ 1: [math]\dfrac{18}{24}[/math]  
+- গ.সা.গু(18,24) = 6 (উদাহরণ: [math]18=2×3^2,\;24=2^3×3[/math])  
+- ভাগ করলে: [math]\dfrac{18÷6}{24÷6}=\dfrac{3}{4}[/math]
+
+উদাহরণ 2 (ঋণাত্মক): [math]\dfrac{-42}{56}[/math]  
+- গ.সা.গু(42,56) = 14  
+- ভাগ করলে: [math]\dfrac{-42÷14}{56÷14}=\dfrac{-3}{4}[/math]
+
+বিশেষ বিবেচনা:
+- যদি লব = 0, তবে ভগ্নাংশ সর্বদা [math]0[/math] (যদি হর ≠ 0)।  
+- হর = 0 গ্রহণযোগ্য নয়।  
+
+এই নিয়ম মেনে যেকোনো ভগ্নাংশকে দ্রুত লঘিষ্ঠ আকারে রূপান্তর করা যায়।
+
+Explanation:
+কারণ লব ও হরের গ.সা.গু (সবচেয়ে বড় সাধারণ গুণক) বের করে তা দিয়ে লব ও হরকে ভাগ করলে সকল সাধারণ গুণক দূর হয় এবং ভগ্নাংশটি আর ছোট করা যায় না। উদাহরণস্বরূপ, [math]12/18[/math]–এর গ.সা.গু [math]6[/math], তাই ভাগ করলে [math]2/3[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 28514)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+ভগ্নাংশের সরলীকরণের সময় সাধারণ গুণনীয়ক কীভাবে ব্যবহার করা হয়?
+
+Options:
+
+
+Correct Answer: লব ও হরের সাধারণ গুণনীয়ক দিয়ে ভাগ করে সরল করা হয়।
+
+Solution:
+সমাধান:
+
+পদ্ধতি ও যুক্তি:
+1. ভগ্নাংশ [math]\dfrac{a}{b}[/math] কে সরল করার মূলনীতি হলো লব (numerator) ও হর (denominator) — উভয়ের সাধারণ গুণনীয়ক দিয়ে ভাগ করা। কারণ যদি [math]d[/math] উভয়ের উপর বিভাজ্য হয়, তাহলে
+[math]\dfrac{a}{b}=\dfrac{a\div d}{b\div d}[/math]
+কারণ সংখ্যক ও হার একই ধনবিনিময় দ্বারা ভাগ করলে ভগ্নাংশের মান অপরিবর্তিত থাকে (একটি এককের গুণক/ভাগক)।
+
+2. সাধারণ গুণনীয়ক (সর্বাধিক সাধারণ গুণনীয়ক — GCD) খুঁজে পাওয়ার দুইটি প্রচলিত উপায়:
+   - মৌলিক গুণনীয়করণ: উভয় সংখ্যাকে মৌলিক গুণনীয়কগুলোর গুণফলে ভাঙে এবং সাধারণ মৌলিক গুণনীয়কগুলো গুণ করে GCD পাওয়া যায়।
+   - ইউক্লিডীয় অ্যালগরিদম: বড় সংখ্যাকে ছোট সংখ্যার সাথে ভাগ করে রিমেইন্ডার নিয়ম ব্যবহার করে দ্রুত GCD পাওয়া যায়।
+
+ধাপগত কাজ:
+Step 1: সংখ্যক ও হরের GCD নির্ণয় করো।
+Step 2: GCD দিয়ে সংখ্যক ও হরকে ভাগ করো।
+Step 3: ফলাফল হিসেবে প্রাপ্ত ভগ্নাংশই সরল রূপ।
+
+উদাহরণ (প্রয়োগ):
+উদাহরণ 1: [math]\dfrac{18}{24}[/math]
+- GCD([math]18,24[/math]) = [math]6[/math]
+- ভাগ করলে: [math]\dfrac{18\div 6}{24\div 6}=\dfrac{3}{4}[/math]
+
+উদাহরণ 2: [math]\dfrac{42}{56}[/math]
+- GCD([math]42,56[/math]) = [math]14[/math]
+- ভাগ করলে: [math]\dfrac{42\div 14}{56\div 14}=\dfrac{3}{4}[/math]
+
+বিশেষ নোট:
+- যদি GCD = [math]1[/math] হয়, তাহলে ভগ্নাংশ ইতিমধ্যেই সহজতম রূপে আছে।
+- নেগেটিভ ভগ্নাংশের ক্ষেত্রে চিহ্নটিকে সংখ্যকের পাশে রেখে একই পদ্ধতি প্রয়োগ করতে হয়; উদাহরণ: [math]\dfrac{-12}{8}[/math] → GCD = [math]4[/math] → [math]\dfrac{-3}{2}[/math]।
+
+উপরের পদ্ধতি অনুসরণ করলে ভগ্নাংশ সহজ ও বিশুদ্ধভাবে সরল করা যায়।
+
+Explanation:
+কারণ লব ও হরের সাধারণ গুণনীয়ক দিয়ে উভয়কে ভাগ করলে ভগ্নাংশের মান অপরিবর্তিত থাকে, তাই সেটি সবচেয়ে সরল আকারে আসে। উদাহরণস্বরূপ, [math]\frac{6}{8}=\frac{6\div2}{8\div2}=\frac{3}{4}[/math] যেখানে 2 হচ্ছে সাধারণ গুণনীয়ক।
+
+Sub-Questions:
+

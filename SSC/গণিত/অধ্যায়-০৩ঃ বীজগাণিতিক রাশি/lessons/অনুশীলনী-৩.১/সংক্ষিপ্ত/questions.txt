@@ -1,0 +1,1398 @@
+================================================================================
+Question #1 (ID: 538444)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + y^2 = 4xy[/math] হলে, প্রমাণ কর যে, [math]\dfrac{x^2}{y^2} + \dfrac{y^2}{x^2} = 14[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x^2 + y^2 = 4xy[/math]
+বামপক্ষ = [math]\dfrac{x^2}{y^2} + \dfrac{y^2}{x^2}[/math]
+\hspace{3em} = [math]\left(\dfrac{x}{y}\right)^2 + \left(\dfrac{y}{x}\right)^2[/math]
+\hspace{3em} = [math]\left(\dfrac{x}{y} + \dfrac{y}{x}\right)^2 - 2[/math]
+\hspace{3em} = [math]\left(\dfrac{x^2 + y^2}{xy}\right)^2 - 2[/math]
+\hspace{3em} = [math]\left(\dfrac{4xy}{xy}\right)^2 - 2[/math]
+\hspace{3em} = [math](4)^2 - 2 = 16 - 2 = 14[/math]
+∴ [math]\dfrac{x^2}{y^2} + \dfrac{y^2}{x^2} = 14[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রথমে [math]y\neq0[/math] ধরে সমীকরণকে [math]y^2[/math] দিয়ে ভাগ করলে [math]\left(\dfrac{x}{y}\right)^2-4\left(\dfrac{x}{y}\right)+1=0[/math] হয়; এখানে [math]t=\dfrac{x}{y}[/math] নিলে [math]t^2-4t+1=0[/math]. এ থেকে [math]t+\dfrac{1}{t}=4[/math] পাওয়া যায়, তাই [math]t^2+\dfrac{1}{t^2}=(t+\dfrac{1}{t})^2-2=16-2=14[/math], অর্থাৎ [math]\dfrac{x^2}{y^2}+\dfrac{y^2}{x^2}=14[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 538371)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x = \sqrt{5} + \sqrt{3}[/math] হলে, [math]\dfrac{2}{x}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখন, [math]x = \sqrt{5} + \sqrt{3}[/math]
+∴ [math]\dfrac{2}{x} = \dfrac{2}{\sqrt{5} + \sqrt{3}}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{2}{\sqrt{5} + \sqrt{3}} \cdot \dfrac{\sqrt{5} - \sqrt{3}}{\sqrt{5} - \sqrt{3}}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{2(\sqrt{5} - \sqrt{3})}{(\sqrt{5})^2 - (\sqrt{3})^2}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{2(\sqrt{5} - \sqrt{3})}{5 - 3}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\sqrt{5} - \sqrt{3}[/math]
+নির্দেশিত মান : [math]\sqrt{5} - \sqrt{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\frac{2}{x}=\frac{2}{\sqrt5+\sqrt3}=\frac{2(\sqrt5-\sqrt3)}{(\sqrt5)^2-(\sqrt3)^2}=\frac{2(\sqrt5-\sqrt3)}{5-3}=\sqrt5-\sqrt3[/math]. কনজুগেট [math]\sqrt5-\sqrt3[/math] দ্বারা গুণ করলে ভগ্নাংশের ভগ্নশেষ থেকে.IRRATIONAL অংশ মুছে গিয়ে সরল ফল পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 538375)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = 10[/math], [math]ab = 15[/math] হলে, [math]a - b[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]a + b = 10[/math]
+, [math]ab = 15[/math]
+আমরা জানি, [math](a - b)^2 = (a + b)^2 - 4ab[/math]
+ [math]\hspace{2em}[/math]
+ = [math](10)^2 - 4 \times 15[/math]
+ [math]\hspace{2em}[/math]
+ = [math]100 - 60 = 40[/math]
+ [math]\hspace{2em}[/math]
+ ∴ [math]a - b = \sqrt{40} = 2\sqrt{10}[/math]
+নির্দেশিত মান : [math]2\sqrt{10}[/math]
+
+
+Explanation:
+[math](a-b)^2=(a+b)^2-4ab[/math] ব্যবহার করে, [math](a-b)^2=10^2-4\cdot15=100-60=40[/math]. তাই [math]a-b=\pm\sqrt{40}=\pm2\sqrt{10}[/math], চিহ্ন কোনটি হবে তা নির্ভর করে কোনটি বড়—[math]a[/math] না [math]b[/math]—এর উপর।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 538376)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]ab = \left(\dfrac{a + b}{2}\right)^2 - \left(\dfrac{a - b}{2}\right)^2[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](a + b)^2 = a^2 + 2ab + b^2[/math]
+ .......... (i)\hspace{4em} এবং [math](a - b)^2 = a^2 - 2ab + b^2[/math]
+ .......... (ii)(i) নং হতে (ii) নং বিয়োগ করে পাই,[math]\hspace{2em}[/math]
+ [math](a + b)^2 - (a - b)^2 = a^2 + 2ab + b^2 - (a^2 - 2ab + b^2)[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math](a + b)^2 - (a - b)^2 = a^2 + 2ab + b^2 - a^2 + 2ab - b^2[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]4ab = (a + b)^2 - (a - b)^2[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]ab = \dfrac{(a + b)^2 - (a - b)^2}{4}[/math]
+∴ [math]ab = \left(\dfrac{a + b}{2}\right)^2 - \left(\dfrac{a - b}{2}\right)^2[/math]
+ (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা: বামপ্রকাশে [math]\left(\dfrac{a+b}{2}\right)^2-\left(\dfrac{a-b}{2}\right)^2=\dfrac{(a+b)^2-(a-b)^2}{4}=\dfrac{(a^2+2ab+b^2)-(a^2-2ab+b^2)}{4}=\dfrac{4ab}{4}=ab[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 538383)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]2(a^2 + b^2) = (a + b)^2 + (a - b)^2[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, [math](a + b)^2 = a^2 + 2ab + b^2[/math]
+ .......... (i)\hspace{4em} এবং [math](a - b)^2 = a^2 - 2ab + b^2[/math]
+ .......... (ii)(i) ও (ii) নং যোগ করে পাই,[math]\hspace{2em}[/math]
+ [math](a + b)^2 + (a - b)^2 = a^2 + 2ab + b^2 + a^2 - 2ab + b^2[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math](a + b)^2 + (a - b)^2 = 2a^2 + 2b^2[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math](a + b)^2 + (a - b)^2 = 2(a^2 + b^2)[/math]
+∴ [math]2(a^2 + b^2) = (a + b)^2 + (a - b)^2[/math]
+ (দেখানো হলো)
+
+Explanation:
+দেখুন ডানপার্শ্বকে প্রসারিত করলে [math](a+b)^2+(a-b)^2 = (a^2+2ab+b^2)+(a^2-2ab+b^2)[/math], এখানে [math]+2ab[/math] এবং [math]-2ab[/math] একে অপরকে বাতিল করে দিলে ফল পাওয়া যায় [math]=2a^2+2b^2=2(a^2+b^2)[/math], তাই সমীকরণটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 538385)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a + b = \sqrt{7}[/math] এবং [math]a - b = \sqrt{3}[/math] হলে, [math]ab[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]a + b = \sqrt{7}[/math]
+ এবং [math]a - b = \sqrt{3}[/math]
+আমরা জানি, [math]ab = \left(\dfrac{a + b}{2}\right)^2 - \left(\dfrac{a - b}{2}\right)^2[/math]
+∴ [math]ab = \left(\dfrac{\sqrt{7}}{2}\right)^2 - \left(\dfrac{\sqrt{3}}{2}\right)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{7}{4} - \dfrac{3}{4} = \dfrac{4}{4} = 1[/math]
+নির্দেশিত মান : [math]1[/math]
+
+
+Explanation:
+যদি [math]a+b=\sqrt{7}[/math] এবং [math]a-b=\sqrt{3}[/math], তবে স্কয়ার করে পাওয়া যায় [math](a+b)^2=7[/math] এবং [math](a-b)^2=3[/math]. দুইটির পার্থক্য করলে [math](a+b)^2-(a-b)^2=4ab=7-3=4[/math], তাই [math]ab=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 538393)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a + \dfrac{1}{a} = 0[/math] হলে, [math]\sqrt{2\left(\sqrt{a} + \dfrac{1}{\sqrt{a}}\right)}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]a + \dfrac{1}{a} = 0[/math]
+এখন, [math]\left(\sqrt{a} + \dfrac{1}{\sqrt{a}}\right)^2 = (\sqrt{a})^2 + \left(\dfrac{1}{\sqrt{a}}\right)^2 + 2\sqrt{a} \cdot \dfrac{1}{\sqrt{a}}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a + \dfrac{1}{a} + 2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]0 + 2 = 2[/math]
+∴ [math]\sqrt{a} + \dfrac{1}{\sqrt{a}} = \sqrt{2}[/math]
+∴ প্রদত্ত রাশি = [math]\sqrt{2} \cdot \sqrt{2} = 2[/math]
+নির্দেশিত মান : [math]2[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]b=\sqrt{a}[/math] নিলে [math]b^2+\dfrac{1}{b^2}=0[/math], তাই [math](b+\dfrac{1}{b})^2=b^2+\dfrac{1}{b^2}+2=2[/math] থেকে [math]b+\dfrac{1}{b}=\pm\sqrt{2}[/math]. বাস্তব ধনাত্মক শাখা নিলে [math]b+\dfrac{1}{b}=\sqrt{2}[/math] এবং প্রদত্ত مقدار [math]\sqrt{2\sqrt{2}}=2^{3/4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 538394)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]p + q + r = 13[/math] এবং [math]p^2 + q^2 + r^2 = 69[/math] হলে, [math]pq + qr + rp[/math] কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি,[math]\hspace{2em}[/math]
+ [math](p + q + r)^2 = p^2 + q^2 + r^2 + 2(pq + qr + rp)[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]13^2 = 69 + 2(pq + qr + rp)[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]169 = 69 + 2(pq + qr + rp)[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]100 = 2(pq + qr + rp)[/math]
+∴ [math]pq + qr + rp = \dfrac{100}{2} = 50[/math]
+
+
+Explanation:
+ব্যাখ্যা: আমরা জানি [math](p+q+r)^2 = p^2+q^2+r^2 + 2(pq+qr+rp)[/math]. এখানে [math]13^2=69+2S[/math] (যেখানে [math]S=pq+qr+rp[/math]), ফলে [math]169=69+2S\Rightarrow 2S=100[/math] এবং তাই [math]S=50[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 538401)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a + b + c + d[/math] এর বর্গ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]a + b + c + d[/math]
+ এর বর্গ = [math](a + b + c + d)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]{(a + b) + (c + d)}^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](a + b)^2 + 2(a + b)(c + d) + (c + d)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a^2 + b^2 + 2ab + 2ac + 2ad + 2bc + 2bd + c^2 + d^2 + 2cd[/math]
+∴ [math]a^2 + b^2 + c^2 + d^2 + 2ab + 2ac + 2ad + 2bc + 2bd + 2cd[/math]
+
+
+Explanation:
+[math](a+b+c+d)^2 = a^2 + b^2 + c^2 + d^2 + 2(ab+ac+ad+bc+bd+cd)[/math]
+
+কারণ [math](a+b+c+d)^2 = (a+b+c+d)(a+b+c+d)[/math] গুণ করলে প্রতিটি পদ তার নিজের সাথে বর্গ হিসেবে আসে এবং প্রতিটি ভিন্ন যুগল দুইবার আসে, তাই যুগলগুলোর যোগফল দ্বিগুণ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 538405)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]2x + \dfrac{1}{x} = 3[/math] হলে, [math]4x^2 + \dfrac{1}{x^2}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]2x + \dfrac{1}{x} = 3[/math]
+∴ উভয় পাশের বর্গ করি:[math](2x + \dfrac{1}{x})^2 = 9[/math]
+∴ [math]4x^2 + \dfrac{1}{x^2} + 4 = 9[/math]
+∴ [math]4x^2 + \dfrac{1}{x^2} = 9 - 4 = 5[/math]
+নির্দেশিত মান : [math]5[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](2x+\frac{1}{x})^2=4x^2+\frac{1}{x^2}+4[/math], তাই [math]4x^2+\frac{1}{x^2}=(2x+\frac{1}{x})^2-4=3^2-4=5[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 538410)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]4x + 3y[/math] এর বর্গ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4x + 3y[/math]
+ এর বর্গ = [math](4x + 3y)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](4x)^2 + 2 \cdot 4x \cdot 3y + (3y)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]16x^2 + 24xy + 9y^2[/math]
+∴ [math](2x + 3y)[/math]
+ এর বর্গ = [math]16x^2 + 24xy + 9y^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: যোগের বর্গের সূত্র [math](a+b)^2 = a^2 + 2ab + b^2[/math] প্রয়োগ করে [math]a=4x,\; b=3y[/math] নিলে [math](4x+3y)^2 = (4x)^2 + 2(4x)(3y) + (3y)^2 = 16x^2 + 24xy + 9y^2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 538412)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]2x - \dfrac{1}{3x} = 2[/math] হলে, প্রমাণ কর যে, [math]3x - \dfrac{1}{2x} = 3[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]2x - \dfrac{1}{3x} = 2[/math]
+উভয় পাশে [math]3x[/math]
+ দ্বারা গুণ করি:[math]\hspace{2em}[/math]
+ [math]3x(2x - \dfrac{1}{3x}) = 3x \cdot 2x - 1 = 6x^2 - 1[/math]
+আবার, [math]2x \cdot 3x = 6x^2[/math]
+এবার, উভয় পাশে [math]2[/math]
+ দিয়ে গুণ করে পাই:[math]\hspace{2em}[/math]
+ [math]2x(3x - \dfrac{1}{2x}) = 6x^2 - 1[/math]
+ [math]\hspace{2em}[/math]
+ ∴ [math]3x - \dfrac{1}{2x} = 3[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা: দেওয়া সমীকরণ [math]2x-\frac{1}{3x}=2[/math] কে [math]3x[/math] দ্বারা গুণ করলে পাওয়া যায় [math]6x^2-1=6x[/math]. এখন দুই পাশে [math]2x[/math] দিয়ে ভাগ করলে বামপাশ হয় [math]\frac{6x^2-1}{2x}=3x-\frac{1}{2x}[/math] এবং ডানপাশ হয় [math]\frac{6x}{2x}=3[/math], ফলে [math]3x-\frac{1}{2x}=3[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 538417)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]3c - 2d[/math] এর বর্গ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3c - 2d[/math]
+ এর বর্গ = [math](3c - 2d)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](3c)^2 - 2 \cdot 3c \cdot 2d + (2d)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]9c^2 - 12cd + 4d^2[/math]
+∴ [math]3c - 2d[/math]
+ এর বর্গ = [math]9c^2 - 12cd + 4d^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: দ্বিপদীয় বর্গ সূত্র [math](a-b)^2 = a^2 - 2ab + b^2[/math] প্রয়োগ করে, যেখানে [math]a=3c,\, b=2d[/math] নিলে ফল হয় [math](3c-2d)^2 = 9c^2 - 12cd + 4d^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 538420)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]\left(2a + \dfrac{2}{a}\right)^2 = 12[/math] হলে, প্রমাণ কর যে, [math]a + \dfrac{1}{a} = \sqrt{3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]\left(2a + \dfrac{2}{a}\right)^2 = 12[/math]
+∴ [math]2a + \dfrac{2}{a} = \sqrt{12} = 2\sqrt{3}[/math]
+∴ [math]2\left(a + \dfrac{1}{a}\right) = 2\sqrt{3}[/math]
+∴ [math]a + \dfrac{1}{a} = \sqrt{3}[/math]
+ (প্রমাণিত)
+
+Explanation:
+সমাধান: প্রদত্ত সমীকরণকে 4-এ ভাগ করলে পাই [math](a+\frac{1}{a})^2=3[/math]. সেখান থেকে [math]a+\frac{1}{a}=\pm\sqrt{3}[/math]. কিন্তু মূল সমীকরণে [math]2a+\frac{2}{a}=\pm 2\sqrt{3}[/math] হওয়ায় এবং যদি বাম পাশ ধনাত্মক ধরা হয় (অর্থাৎ [math]2a+\frac{2}{a}>0[/math] বা সাধারণভাবে a ধনাত্মক হলে), তাহলে [math]a+\frac{1}{a}=\sqrt{3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 538423)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]1110[/math] এর বর্গ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1110[/math]
+ এর বর্গ = [math](1110)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](1000 + 100 + 10)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](1000)^2 + (100)^2 + (10)^2 + 2 \times 1000 \times 100 + 2 \times 100 \times 10 + 2 \times 10 \times 1000[/math]
+ [math]\hspace{2em}[/math]
+ = [math]1000000 + 10000 + 100 + 200000 + 2000 + 20000[/math]
+ [math]\hspace{2em}[/math]
+ = [math]1232100[/math]
+∴ [math]1110[/math]
+ এর বর্গ [math]1232100[/math]
+।
+
+Explanation:
+ব্যাখ্যা: [math]1110^2 = (111\times10)^2 = 111^2\times10^2 = 12321\times100 = 1232100[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 538428)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\dfrac{x}{y} = \dfrac{2}{3}[/math] হয়, তবে দেখাও যে, [math]\dfrac{6x + y}{3x + 2y} = \dfrac{5}{4}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]\dfrac{x}{y} = \dfrac{2}{3}[/math]
+∴ ধরি, [math]x = 2[/math]
+, [math]y = 3[/math]
+বামপক্ষ = [math]\dfrac{6x + y}{3x + 2y} = \dfrac{6 \cdot 2 + 3}{3 \cdot 2 + 2 \cdot 3} = \dfrac{15}{12} = \dfrac{5}{4}[/math]
+∴ [math]\dfrac{6x + y}{3x + 2y} = \dfrac{5}{4}[/math]
+ (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা: [math]\dfrac{x}{y}=\dfrac{2}{3}[/math] থেকে ধরি [math]x=2k,\;y=3k[/math] যেখানে [math]k\ne0[/math]. তখন [math]6x+y=6(2k)+3k=15k[/math] এবং [math]3x+2y=3(2k)+2(3k)=12k[/math], সুতরাং [math]\dfrac{6x+y}{3x+2y}=\dfrac{15k}{12k}=\dfrac{5}{4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 538429)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math](x + y)^2[/math] এর সাথে কত যোগ করলে যোগফল [math](x - y)^2[/math] হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x + y)^2 = x^2 + 2xy + y^2[/math]
+ [math](x - y)^2 = x^2 - 2xy + y^2[/math]
+∴ [math](x - y)^2[/math]
+ পেতে [math](x + y)^2[/math]
+-এর সাথে [math](-4xy)[/math]
+ যোগ করতে হবে∴ [math](x + y)^2 + (-4xy) = (x - y)^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রসারণ করলে [math](x+y)^2=x^2+2xy+y^2[/math] এবং [math](x-y)^2=x^2-2xy+y^2[/math], তাই তাদের পার্থক্য হল [math](x-y)^2-(x+y)^2=-4xy[/math]. অতএব [math](x+y)^2[/math] এর সাথে যোগ করতে হবে [math]-4xy (অর্থাৎ বিয়োগ করতে হবে [math]4xy[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 538438)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]y + \dfrac{1}{y} = 5[/math] হলে, প্রমাণ কর যে, [math]\dfrac{y}{y^2 - 3y + 1} = \dfrac{1}{2}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]y + \dfrac{1}{y} = 5[/math]
+∴ [math]\dfrac{y^2 + 1}{y} = 5[/math]
+∴ [math]y^2 + 1 = 5y[/math]
+এখন,\hspace{1em} বামপক্ষ = [math]\dfrac{y}{y^2 - 3y + 1}[/math]
+\hspace{1em} = [math]\dfrac{y}{y^2 + 1 - 3y}[/math]
+\hspace{1em} = [math]\dfrac{y}{5y - 3y} = \dfrac{y}{2y} = \dfrac{1}{2}[/math]
+∴ [math]\dfrac{y}{y^2 - 3y + 1} = \dfrac{1}{2}[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা: [math]y+\frac{1}{y}=5[/math] হলে [math]y\ne0[/math] এবং উভয় পাশে [math]y[/math] গুণ করলে পাই [math]y^2+1=5y[/math], অর্থাৎ [math]y^2-5y+1=0[/math]. তখন [math]y^2-3y+1=(y^2-5y+1)+2y=0+2y=2y[/math] হয়, ফলে [math]\frac{y}{y^2-3y+1}=\frac{y}{2y}=\frac{1}{2}[/math] (যে শর্তে [math]y\ne0[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 538440)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]-6x + 2y[/math] এর বর্গ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-6x + 2y[/math]
+ এর বর্গ = [math](-6x + 2y)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](-6x)^2 + 2 \cdot (-6x) \cdot 2y + (2y)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]36x^2 - 24xy + 4y^2[/math]
+∴ [math]-6x + 2y[/math]
+ এর বর্গ = [math]36x^2 - 24xy + 4y^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: বর্গ করার সূত্র [math](a+b)^2=a^2+2ab+b^2[/math] প্রয়োগ করুন। এখানে [math]a=-6x,\, b=2y[/math] হলে [math](-6x+2y)^2=36x^2-24xy+4y^2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 538348)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x + \dfrac{1}{x} = 2\sqrt{2}[/math] (যেখানে [math]x > 0[/math]) হলে, [math]x - \dfrac{1}{x}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]x + \dfrac{1}{x} = 2\sqrt{2}[/math]
+, যেখানে [math]x > 0[/math]
+এখন, [math]\left(x - \dfrac{1}{x}\right)^2 = \left(x + \dfrac{1}{x}\right)^2 - 4 \cdot x \cdot \dfrac{1}{x}[/math]
+ [math]\hspace{2em}[/math]
+ = [math](2\sqrt{2})^2 - 4 = 8 - 4 = 4[/math]
+∴ [math]x - \dfrac{1}{x} = \sqrt{4} = 2[/math]
+নির্দেশিত মান : [math]2[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](x-\dfrac{1}{x})^2=(x+\dfrac{1}{x})^2-4=(2\sqrt{2})^2-4=8-4=4[/math], তাই [math]x-\dfrac{1}{x}=\pm2[/math]. এছাড়া [math]x=\sqrt{2}\pm1[/math] হলে [math]x=\sqrt{2}+1>1[/math]-এর জন্য [math]x-\dfrac{1}{x}=2[/math] এবং [math]x=\sqrt{2}-1<1[/math]-এর জন্য [math]x-\dfrac{1}{x}=-2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 538366)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]a = 3 - 2\sqrt{2}[/math] হয়, তবে [math]\dfrac{1}{a}[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]a = 3 - 2\sqrt{2}[/math]
+ [math]\hspace{2em}[/math]
+ ∴ [math]\dfrac{1}{a} = \dfrac{1}{3 - 2\sqrt{2}}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{1}{3 - 2\sqrt{2}} \cdot \dfrac{3 + 2\sqrt{2}}{3 + 2\sqrt{2}}[/math]
+ (লব ও হরকে [math]3 + 2\sqrt{2}[/math]
+ দ্বারা গুণ করি)[math]\hspace{2em}[/math]
+ = [math]\dfrac{3 + 2\sqrt{2}}{(3)^2 - (2\sqrt{2})^2}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{3 + 2\sqrt{2}}{9 - 8}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]3 + 2\sqrt{2}[/math]
+∴ [math]\dfrac{1}{a} = 3 + 2\sqrt{2}[/math]
+নির্দেশিত মান : [math]3 + 2\sqrt{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]a=3-2\sqrt{2}[/math]টি [math](\sqrt{2}-1)^2[/math]-এর সমান কারণ [math](\sqrt{2}-1)^2=2-2\sqrt{2}+1=3-2\sqrt{2}[/math]. তাই [math]\dfrac{1}{a}=\dfrac{1}{(\sqrt{2}-1)^2}=\bigg(\dfrac{1}{\sqrt{2}-1}\bigg)^2=(\sqrt{2}+1)^2=3+2\sqrt{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 538361)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]y - \dfrac{2}{y} = 2a[/math] হয়, তবে [math]\dfrac{6a}{y^2 - 2ay - 1}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখন, [math]y - \dfrac{2}{y} = 2a[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]\dfrac{y^2 - 2}{y} = 2a[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]y^2 - 2 = 2ay[/math]
+ [math]\hspace{2em}[/math]
+ ∴ [math]y^2 - 2ay = 2[/math]
+ [math]\hspace{2em}[/math]
+ ∴ [math]y^2 - 2ay - 1 = 1[/math]
+এখন, [math]\dfrac{6a}{y^2 - 2ay - 1} = \dfrac{6a}{1} = 6a[/math]
+নির্দেশিত মান : [math]6a[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই পাশে [math]y[/math] দিয়ে গুণ করলে পাওয়া যায় [math]y^2-2=2ay[/math], তাই [math]y^2-2ay=2[/math]. অতএব নামজটি [math]y^2-2ay-1=2-1=1[/math] হয় এবং প্রদেয় মান হলো [math]\dfrac{6a}{1}=6a[/math] (এখানে [math]y\neq0[/math] ধরা হয়েছে)।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 538357)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]p + 2 = \sqrt{5}[/math] হলে, [math]p - \dfrac{1}{p}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]p + 2 = \sqrt{5}[/math]
+∴ [math]p = \sqrt{5} - 2[/math]
+∴ [math]\dfrac{1}{p} = \dfrac{1}{\sqrt{5} - 2}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{1 \times (\sqrt{5} + 2)}{(\sqrt{5} - 2)(\sqrt{5} + 2)}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{\sqrt{5} + 2}{5 - 4}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\sqrt{5} + 2[/math]
+∴ [math]p - \dfrac{1}{p} = \sqrt{5} - 2 - (\sqrt{5} + 2) = -4[/math]
+নির্দেশিত মান : [math]-4[/math]
+
+
+Explanation:
+[math]p=\sqrt{5}-2[/math] হলে, [math]p-\dfrac{1}{p}=\dfrac{p^2-1}{p}[/math]. এখানে [math]p^2=(\sqrt{5}-2)^2=9-4\sqrt{5}[/math], তাই [math]p^2-1=8-4\sqrt{5}=4(2-\sqrt{5})=-4(\sqrt{5}-2)[/math] এবং ফলে [math]p-\dfrac{1}{p}=\dfrac{-4(\sqrt{5}-2)}{\sqrt{5}-2}=-4[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 538350)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math](x^2 + 1)^2 = 5x^2[/math] হলে, [math]x + \dfrac{1}{x}[/math] = কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math](x^2 + 1)^2 = 5x^2[/math]
+∴ [math]x^2 + 1 = \sqrt{5x^2} = \sqrt{5}x[/math]
+∴ [math]x + \dfrac{1}{x} = \sqrt{5}[/math]
+
+
+Explanation:
+[x]সমীকরণটি প্রসারিত করলে [math]x^4-3x^2+1=0[/math] পাওয়া যায়, ফলে [math]x^4+1=3x^2[/math], তাই [math]x^2+\dfrac{1}{x^2}=\dfrac{x^4+1}{x^2}=3[/math]. অতএব [math]\left(x+\dfrac{1}{x}\right)^2=3+2=5[/math], ফলে [math]x+\dfrac{1}{x}=±\sqrt{5}[/math] (যদি [math]x>0[/math] নিলে ধনাত্মক মূল [math]\sqrt{5}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 538301)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x - 8 = -\dfrac{8}{x}[/math] হলে, [math]\dfrac{1}{x^2 - 8x + 9}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x - 8 = -\dfrac{8}{x}[/math]
+∴ [math]x^2 - 8x = -8[/math]
+∴ [math]x^2 - 8x + 9 = 1[/math]
+∴ [math]\dfrac{1}{x^2 - 8x + 9} = \dfrac{1}{1} = 1[/math]
+নির্দেশিত মান : [math]1[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]x-8=-\dfrac{8}{x}[/math] কে দুই পাশে [math]x[/math] দ্বারা গুণ করলে পাওয়া যায় [math]x^2-8x=-8[/math], অর্থাৎ [math]x^2-8x+8=0[/math]. তাই [math]x^2-8x+9=(x^2-8x+8)+1=1[/math], ফলে [math]\dfrac{1}{x^2-8x+9}=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 538252)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+বীজগণিতকে কিসের সর্বায়নকৃত রূপ বলা হয়?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বীজগণিতকে পাটিগণিতের সর্বায়নকৃত রূপ বলা হয়। কারণ পাটিগণিতে শুধু ধনাত্মক সংখ্যা ব্যবহৃত হয়, অন্যদিকে বীজগণিতে শূন্যসহ ধনাত্মক ও ঋণাত্মক সকল সংখ্যা ব্যবহার করা হয়।
+
+Explanation:
+বীজগণিতকে সংখ্যাবিজ্ঞানের (অ্যারিথমেটিক) সাধারণীকৃত রূপ বলা হয়। কারণ বীজগণিতে অজানা মানগুলি চলক (প্রতীক) দিয়ে প্রকাশ করে গণনার নিয়ম ও সম্পর্কগুলোকে সাধারণ সূত্রে রূপান্তর করা হয়, ফলে নির্দিষ্ট সংখ্যার বদলে সার্বজনীন নিয়ম পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 538258)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + \sqrt{3}x + 1 = 0[/math] হলে, দেখাও যে, [math]x + \dfrac{1}{x} = -\sqrt{3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x^2 + \sqrt{3}x + 1 = 0[/math]
+∴ [math]x^2 + 1 = -\sqrt{3}x[/math]
+∴ [math]\dfrac{x^2 + 1}{x} = -\sqrt{3}[/math]
+∴ [math]x + \dfrac{1}{x} = -\sqrt{3}[/math]
+(দেখানো হলো)
+
+Explanation:
+x শূন্য হতে পারে না কারণ [math]x=0[/math] হলে সমীকরণ থেকে [math]1=0[/math] হয়, যা অসম্ভব। সমীকরণটি [math]x^2+\sqrt{3}x+1=0[/math] কে [math]x[/math] দিয়ে ভাগ করলে পাওয়া যায় [math]x+\dfrac{1}{x}+\sqrt{3}=0[/math], তাই [math]x+\dfrac{1}{x}=-\sqrt{3}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 538259)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 + 14x + 48[/math] কে দুটি বর্গের বিয়োগফলরূপে প্রকাশ কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত রাশি = [math]x^2 + 14x + 48[/math]
+ [math]\hspace{2em}[/math]
+ = [math]x^2 + 2 \cdot x \cdot 7 + 7^2 + 48 - 7^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](x + 7)^2 - 1^2 + 48[/math]
+ [math]\hspace{2em}[/math]
+ = [math](x + 7 + 1)(x + 7 - 1) = (x + 8)(x + 6)[/math]
+ধরি, [math]x + 8 = a[/math]
+ এবং [math]x + 6 = b[/math]
+ [math]\hspace{2em}[/math]
+ [math](x + 8)(x + 6) = ab = \left(\dfrac{a + b}{2}\right)^2 - \left(\dfrac{a - b}{2}\right)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\left(\dfrac{x + 8 + x + 6}{2}\right)^2 - \left(\dfrac{x + 8 - x - 6}{2}\right)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\left(\dfrac{2x + 14}{2}\right)^2 - \left(\dfrac{2}{2}\right)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](x + 7)^2 - 1^2[/math]
+∴ [math]x^2 + 14x + 48 = (x + 7)^2 - 1^2[/math]
+
+
+Explanation:
+সমাধান: [math]x^2+14x+48=(x^2+14x+49)-1=(x+7)^2-1^2[/math]. এখানে [math]49[/math] যোগ ও বিয়োগ করে পূর্ণবর্গ তৈরি করা হয়েছে, তাই выражение দুটি বর্গের বিয়োগফল।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 538266)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 - 2\sqrt{6}x - 5 = 0[/math] হলে, [math]x[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x^2 - 2\sqrt{6}x - 5 = 0[/math]
+∴ [math]x^2 = 2\sqrt{6}x + 5[/math]
+∴ [math]x^2 = 3 + 2\cdot\sqrt{3}\cdot\sqrt{2} + 2[/math]
+∴ [math]x^2 = (\sqrt{3} + \sqrt{2})^2[/math]
+∴ [math]x = \sqrt{3} + \sqrt{2}[/math]
+নির্দেশিত মান : [math]\sqrt{3} + \sqrt{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দ্বিঘাত সূত্র প্রয়োগ করে [math]x=\frac{2\sqrt6\pm\sqrt{(2\sqrt6)^2+4\cdot1\cdot5}}{2}[/math] এবং এখানে ভেদের মান হচ্ছে [math](2\sqrt6)^2+20=24+20=44[/math], তাই [math]\sqrt{44}=2\sqrt{11}[/math]. ফলে [math]x=\frac{2\sqrt6\pm2\sqrt{11}}{2}=\sqrt6\pm\sqrt{11}[/math], যে দুটি মানই সমীকরণের শুদ্ধ মূল।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 538269)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a + \dfrac{1}{a} = \sqrt{9}[/math] হলে, [math]a - \dfrac{1}{a}[/math] কত? যেখানে, [math]a > 0[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]a + \dfrac{1}{a} = \sqrt{9}[/math]
+ [math]\hspace{2em}[/math]
+ [math]\left(a - \dfrac{1}{a}\right)^2 = \left(a + \dfrac{1}{a}\right)^2 - 4 \cdot a \cdot \dfrac{1}{a}[/math]
+ [math]\hspace{2em}[/math]
+ [math]= (\sqrt{9})^2 - 4 = 9 - 4 = 5[/math]
+∴ [math]a - \dfrac{1}{a} = \sqrt{5}[/math]
+নির্দেশিত মান : [math]\sqrt{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বর্গ করুন এবং বিয়োগ করুন—[math](a-\tfrac{1}{a})^2=(a+\tfrac{1}{a})^2-4=[3]^2-4=9-4=5[/math], তাই [math]a-\tfrac{1}{a}=±\sqrt{5}[/math]. বাস্তবে [math]a=\frac{3±\sqrt{5}}{2}[/math] হওয়ায় যদি [math]a>1[/math] হয় তখন [math]a-\tfrac{1}{a}=\sqrt{5}[/math], আর যদি [math]0<a<1[/math] হয় তখন [math]a-\tfrac{1}{a}=-\sqrt{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 538275)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 - \sqrt{6}x + 1 = 0[/math] হলে, প্রমাণ কর যে, [math]x - \dfrac{1}{x} = \sqrt{2}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x^2 - \sqrt{6}x + 1 = 0[/math]
+∴ [math]x^2 + 1 = \sqrt{6}x[/math]
+∴ [math]\dfrac{x^2 + 1}{x} = \sqrt{6}[/math]
+∴ [math]x + \dfrac{1}{x} = \sqrt{6}[/math]
+এখন, [math](x - \dfrac{1}{x})^2 = (x + \dfrac{1}{x})^2 - 4[/math]
+ [math]\hspace{2em}[/math]
+ = [math](\sqrt{6})^2 - 4 = 6 - 4 = 2[/math]
+∴ [math]x - \dfrac{1}{x} = \sqrt{2}[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রথমে সমীকরণকে [math]x\neq0[/math] ধরে [math]x[/math] দিয়ে ভাগ করলে পাওয়া যায় [math]x+\dfrac{1}{x}=\sqrt{6}[/math]. এটি বর্গ করলে [math]\left(x+\dfrac{1}{x}\right)^2=6\Rightarrow x^2+\dfrac{1}{x^2}=4[/math]. সেখান থেকে [math]\left(x-\dfrac{1}{x}\right)^2=x^2+\dfrac{1}{x^2}-2=2[/math], তাই [math]x-\dfrac{1}{x}=\pm\sqrt{2}[/math]. বিশেষভাবে বড় মূল [math]x=\dfrac{\sqrt6+\sqrt2}{2}[/math] গ্রহণ করলে সরাসরি পাওয়া যায় [math]x-\dfrac{1}{x}=\sqrt{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 538279)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+যদি [math]x+1=4\sqrt{x}[/math] হয়, তবে [math]x+\dfrac{1}{x}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x+1=4\sqrt{x}[/math]
+বা, [math]\dfrac{x}{\sqrt{x}}+\dfrac{1}{\sqrt{x}}=4[/math]
+বা, [math]\sqrt{x}+\dfrac{1}{\sqrt{x}}=4[/math]
+বা, [math]\left(\sqrt{x}+\dfrac{1}{\sqrt{x}}\right)^{2}=16[/math]
+বা, [math]x+\dfrac{1}{x}+2=16[/math]
+∴ [math]x+\dfrac{1}{x}=14[/math]
+নির্দেশিত মান : [math]14[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]t=\sqrt{x}[/math] ধরে নিলে [math]t^2+1=4t[/math] হয়, ফলে [math]t^2-4t+1=0[/math] এবং [math]t\neq0[/math] দিয়ে ভাগ করলে [math]t+\dfrac{1}{t}=4[/math]. তাই [math]x+\dfrac{1}{x}=t^2+\dfrac{1}{t^2}=(t+\dfrac{1}{t})^2-2=4^2-2=14[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 538286)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x = \sqrt{7} - \sqrt{6}[/math] হলে, [math]\dfrac{1}{x}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x = \sqrt{7} - \sqrt{6}[/math]
+∴ [math]\dfrac{1}{x} = \dfrac{1}{\sqrt{7} - \sqrt{6}}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{1}{\sqrt{7} - \sqrt{6}} \cdot \dfrac{\sqrt{7} + \sqrt{6}}{\sqrt{7} + \sqrt{6}}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{\sqrt{7} + \sqrt{6}}{(\sqrt{7})^2 - (\sqrt{6})^2}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\dfrac{\sqrt{7} + \sqrt{6}}{7 - 6} = \sqrt{7} + \sqrt{6}[/math]
+নির্দেশিত মান : [math]\sqrt{7} + \sqrt{6}[/math]
+
+
+Explanation:
+বিপরীত সহগ (conjugate) দ্বারা রেশনালাইজ করলে [math]\frac{1}{\sqrt{7}-\sqrt{6}}=\frac{\sqrt{7}+\sqrt{6}}{(\sqrt{7}-\sqrt{6})(\sqrt{7}+\sqrt{6})}=\frac{\sqrt{7}+\sqrt{6}}{7-6}[/math]. তাই [math]\frac{1}{x}=\sqrt{7}+\sqrt{6}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 538288)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a^{2}-2a+1=0[/math] হলে, [math]\sqrt{a^{2}+3a}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]a^{2}-2a+1=0[/math]
+বা, [math]a^{2}-2\cdot a\cdot1 + 1^{2}=0[/math]
+বা, [math](a-1)^{2}=0[/math]
+বা, [math]a-1=0[/math]
+বা, [math]a=1[/math]
+প্রদত্ত রাশি [math]=\sqrt{a^{2}+3a}[/math]
+ [math]=\sqrt{1^{2}+3\cdot1}[/math]
+ [math]=\sqrt{1+3}[/math]
+ [math]=\sqrt{4}=2[/math]
+নির্দেশিত মান : [math]2[/math]
+
+
+Explanation:
+সমাধান: [math]a^2-2a+1=(a-1)^2=0[/math] থেকে [math]a=1[/math]. তাই [math]\sqrt{a^2+3a}=\sqrt{1+3}=\sqrt{4}=2[/math] (প্রধান মূল)।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 538293)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x + y = 30[/math] এবং [math]x - y = 20[/math] হলে, [math]\sqrt{x}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x + y = 30[/math]
+ .............. (i)[math]\hspace{2em}[/math]
+ এবং [math]x - y = 20[/math]
+ .............. (ii)(i) ও (ii) নং যোগ করলে পাই,[math]x + y + x - y = 30 + 20[/math]
+∴ [math]2x = 50[/math]
+∴ [math]x = \dfrac{50}{2} = 25[/math]
+∴ [math]\sqrt{x} = \sqrt{25}[/math]
+∴ [math]\sqrt{x} = 5[/math]
+নির্দেশিত মান : [math]5[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমীকরণদুটিকে যোগ করলে y বাদ যায় এবং [math]2x=50\Rightarrow x=25[/math]. তাই [math]\sqrt{x}=\sqrt{25}=5[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 538297)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math](a + b)^2 = a^2 + 2ab + b^2[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ = [math](a + b)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](a + b)(a + b)[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a^2 + ab + ab + b^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a^2 + 2ab + b^2[/math]
+ [math]\hspace{2em}[/math]
+ = ডানপক্ষ∴ [math](a + b)^2 = a^2 + 2ab + b^2[/math]
+ (দেখানো হলো)
+
+Explanation:
+কারণ বর্গকে বিস্তৃত করলে ডিস্ট্রিবিউটিভ ধর্ম প্রয়োগ করলে আমরা পাই [math](a+b)^2=(a+b)(a+b)=a(a+b)+b(a+b)=a^2+ab+ab+b^2=a^2+2ab+b^2[/math], তাই সমীকরণটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 538245)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+বীজগাণিতিক রাশি বলতে কি বুঝ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সংখ্যা নির্দেশক প্রতীক এবং প্রক্রিয়া চিহ্নের অর্থবোধক বিন্যাসকে বীজগাণিতিক রাশি বলে। যেমন: [math]2x + 3y + 5c[/math] একটি বীজগাণিতিক রাশি। বীজগাণিতিক রাশিতে ব্যবহৃত সংখ্যাগুলো ধ্রুবক, এদের মান নির্দিষ্ট এবং অক্ষর প্রতীকগুলোকে বলা হয় চলক। চলকের মান নির্দিষ্ট নয়, এরা বিভিন্ন মান ধারণ করতে পারে।
+
+Explanation:
+বীজগাণিতিক রাশি বলতে বোঝায় ধ্রুবক ও চলক(ভ্যারিয়েবল) নিয়ে গঠিত এবং যোগ‑বিয়োগ, গুণ‑ভাগ ও ঘাতসহ সাধারণ বীজগাণিতিক অপারেশন দ্বারা তৈরি কোনো অভিব্যক্তি, যেমন [math]3x^2-2x+5[/math]। এটি এমনভাবে সংজ্ঞায়িত যে এতে ট্রিগোনোমেট্রিক বা লঘু-উচ্চতর অ্যালজেব্রিক নন‑অপারেশন নেই, তাই এই সংজ্ঞাই সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 538303)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math](a + b + c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ca[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বামপক্ষ = [math](a + b + c)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]{(a + b) + c}^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](a + b)^2 + 2(a + b)c + c^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a^2 + 2ab + b^2 + 2ac + 2bc + c^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a^2 + b^2 + c^2 + 2ab + 2bc + 2ca[/math]
+ [math]\hspace{2em}[/math]
+ = ডানপক্ষ∴ [math](a + b + c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ca[/math]
+ (দেখানো হলো)
+
+Explanation:
+[math](a+b+c)^2=(a+b+c)(a+b+c)=a(a+b+c)+b(a+b+c)+c(a+b+c)[/math] দ্বারা বিস্তৃত করলে আমরা পাই [math]=a^2+ab+ac+ba+b^2+bc+ca+cb+c^2[/math] এবং [math]ab+ba=2ab,\,bc+cb=2bc,\,ca+ac=2ca[/math] যোগ করে ফল হয় [math]=a^2+b^2+c^2+2ab+2bc+2ca[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 538307)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x = \sqrt{6}[/math] এবং [math]y = \sqrt{3}[/math] হলে, [math](x - y)^2 + 2xy[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রদত্ত রাশি: [math](x - y)^2 + 2xy[/math]
+আমরা জানি, [math](x - y)^2 + 2xy = x^2 + y^2[/math]
+∴ [math](\sqrt{6})^2 + (\sqrt{3})^2 = 6 + 3 = 9[/math]
+নির্দেশিত মান : [math]9[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math](x-y)^2+2xy=x^2-2xy+y^2+2xy=x^2+y^2[/math]; তাই [math]x=\sqrt{6},\ y=\sqrt{3}[/math] হলে [math]x^2+y^2=6+3=9[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 538311)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x - \dfrac{1}{x} = 7[/math] হলে, [math]\dfrac{x}{x^2 - 6x - 1}[/math] এর মান বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]x - \dfrac{1}{x} = 7[/math]
+∴ [math]\dfrac{x^2 - 1}{x} = 7[/math]
+∴ [math]x^2 - 1 = 7x[/math]
+∴ [math]x^2 - 7x - 1 = 0[/math]
+এখন, [math]\dfrac{x}{x^2 - 6x - 1} = \dfrac{x}{x^2 - 7x + x - 1} = \dfrac{x}{(x^2 - 7x + x - 1)} = \dfrac{x}{x(x - 7) + (x - 1)}[/math]
+∴ মান = [math]1[/math]
+নির্দেশিত মান : [math]1[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]x-\dfrac{1}{x}=7[/math] থেকে গুণ করলে [math]x^2-1=7x[/math], তাই [math]x^2=7x+1[/math]. ফলে [math]x^2-6x-1=(7x+1)-6x-1=x[/math] এবং তাই [math]\dfrac{x}{x^2-6x-1}=\dfrac{x}{x}=1[/math] (এখানে [math]x\neq0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 538314)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+সরল কর: [math](5x + 5y + 3z)^2 + 2(-5x - 7y - 3z)(5x + 5y + 3z) + (-5x - 7y - 3z)^2[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরি, [math]5x + 5y + 3z = a[/math]
+ এবং [math]-5x - 7y - 3z = b[/math]
+প্রদত্ত রাশি = [math]a^2 + 2ab + b^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](a + b)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math]\left((5x + 5y + 3z) + (-5x - 7y - 3z)\right)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](5x + 5y + 3z - 5x - 7y - 3z)^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](-2y)^2 = 4y^2[/math]
+
+
+Explanation:
+ব্যাখ্যা: এখানে [math]A=5x+5y+3z[/math] এবং [math]B=-5x-7y-3z[/math] ধরে নিলে প্রকাশটি [math]A^2+2AB+B^2=(A+B)^2[/math] আকারে লেখা যায়। আর [math]A+B=(5x-5x)+(5y-7y)+(3z-3z)=-2y[/math] হওয়ায় ফলাফলটি [math](-2y)^2=4y^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 538316)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]p + q + r = 6[/math] এবং [math]p^2 + q^2 + r^2 = 14[/math] হলে, [math](pq + qr + rp)[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]p + q + r = 6[/math]
+ এবং [math]p^2 + q^2 + r^2 = 14[/math]
+আমরা জানি, [math](p + q + r)^2 = p^2 + q^2 + r^2 + 2(pq + qr + rp)[/math]
+∴ [math]6^2 = 14 + 2(pq + qr + rp)[/math]
+∴ [math]36 = 14 + 2(pq + qr + rp)[/math]
+∴ [math]36 - 14 = 2(pq + qr + rp)[/math]
+∴ [math]22 = 2(pq + qr + rp)[/math]
+∴ [math]pq + qr + rp = \dfrac{22}{2} = 11[/math]
+নির্দেশিত মান : [math]11[/math]
+
+
+Explanation:
+ব্যাখ্যা: আমরা জানি [math](p+q+r)^2 = p^2+q^2+r^2 + 2(pq+qr+rp)[/math]. এখানে [math](p+q+r)=6[/math] তাই [math]36=14+2(pq+qr+rp)[/math], ফলে [math](pq+qr+rp)=11[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 538324)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x^2 = 5 + 2\sqrt{6}[/math] হলে, [math]x[/math] এর মান নির্ণয় কর। (যেখানে, [math]x > 0[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]x^2 = 5 + 2\sqrt{6}[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]x^2 = 3 + 2\sqrt{6} + 2[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]x^2 = (\sqrt{3})^2 + 2 \cdot \sqrt{3} \cdot \sqrt{2} + (\sqrt{2})^2[/math]
+ [math]\hspace{2em}[/math]
+ বা, [math]x^2 = (\sqrt{3} + \sqrt{2})^2[/math]
+ [math]\hspace{2em}[/math]
+ ∴ [math]x = \sqrt{3} + \sqrt{2}[/math]
+নির্দেশিত মান : [math]\sqrt{3} + \sqrt{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math](\sqrt{2}+\sqrt{3})^2=2+3+2\sqrt{6}=5+2\sqrt{6}[/math], তাই [math]x^2=5+2\sqrt{6}[/math] হলে [math]x=\pm(\sqrt{2}+\sqrt{3})[/math]. দেওয়া শর্ত অনুযায়ী [math]x>0[/math], অতএব [math]x=\sqrt{2}+\sqrt{3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 538325)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a^2 = 13 + \sqrt{168}[/math] হলে, প্রমাণ কর যে, [math]a = \sqrt{7} + \sqrt{6}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]a^2 = 13 + \sqrt{168}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]13 + \sqrt{4 \times 42} = 13 + 2\sqrt{42}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]7 + 6 + 2\sqrt{7 \cdot 6}[/math]
+ [math]\hspace{2em}[/math]
+ = [math](\sqrt{7})^2 + 2\sqrt{7 \cdot 6} + (\sqrt{6})^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](\sqrt{7} + \sqrt{6})^2[/math]
+∴ [math]a = \sqrt{7} + \sqrt{6}[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রথমে যাচাই করি: [math](\sqrt{7}+\sqrt{6})^2=7+6+2\sqrt{42}=13+2\sqrt{42}[/math], এবং [math]\sqrt{168}=\sqrt{4\cdot42}=2\sqrt{42}[/math], তাই [math]a^2=13+\sqrt{168}=13+2\sqrt{42}=(\sqrt{7}+\sqrt{6})^2[/math]. উভয় দিক ধনাত্মক হওয়ায় মূল ধনাত্মক, সুতরাং [math]a=\sqrt{7}+\sqrt{6}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 538329)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x = 9 + 4\sqrt{5}[/math] হলে, [math]\sqrt{x}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]x = 9 + 4\sqrt{5}[/math]
+∴ [math]x = (\sqrt{5})^2 + 2 \cdot \sqrt{5} \cdot 2 + (2)^2[/math]
+∴ [math]x = (\sqrt{5} + 2)^2[/math]
+∴ [math]\sqrt{x} = \sqrt{(\sqrt{5} + 2)^2}[/math]
+∴ [math]\sqrt{x} = \sqrt{5} + 2[/math]
+নির্দেশিত মান : [math]2 + \sqrt{5}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধরা যাক [math]\sqrt{x}=\sqrt{a}+\sqrt{b}[/math], তাহলে বর্গ করলে [math]a+b+2\sqrt{ab}=9+4\sqrt{5}[/math] পাওয়া যায়; তাই [math]a+b=9[/math] এবং [math]2\sqrt{ab}=4\sqrt{5}[/math] থেকে [math]ab=20[/math]. এই সমীকরণ থেকে [math]a=4,\, b=5[/math] পাওয়া যায়, অতএব [math]\sqrt{x}=\sqrt{4}+\sqrt{5}=2+\sqrt{5}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 538333)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a = \sqrt{5}[/math] এবং [math]b = \sqrt{3}[/math] হলে, দেখাও যে, [math](a + b)^2 - 2ab = 8[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]a = \sqrt{5}[/math]
+ এবং [math]b = \sqrt{3}[/math]
+বামপক্ষ = [math](a + b)^2 - 2ab[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a^2 + 2ab + b^2 - 2ab[/math]
+ [math]\hspace{2em}[/math]
+ = [math]a^2 + b^2[/math]
+ [math]\hspace{2em}[/math]
+ = [math](\sqrt{5})^2 + (\sqrt{3})^2 = 5 + 3 = 8[/math]
+∴ [math](a + b)^2 - 2ab = 8[/math]
+ (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা: যেহেতু [math](a+b)^2=a^2+2ab+b^2[/math], তাই [math](a+b)^2-2ab=a^2+b^2[/math]. এখানে [math]a=\sqrt{5}\Rightarrow a^2=5[/math] এবং [math]b=\sqrt{3}\Rightarrow b^2=3[/math], তাই [math]a^2+b^2=5+3=8[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 538341)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]x + \dfrac{1}{x} = 4[/math] হলে, প্রমাণ কর যে, [math]\left(x^2 - \dfrac{1}{x^2}\right) = 8\sqrt{3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে, [math]x + \dfrac{1}{x} = 4[/math]
+আমরা জানি, [math]\left(x - \dfrac{1}{x}\right)^2 = \left(x + \dfrac{1}{x}\right)^2 - 4x \cdot \dfrac{1}{x}[/math]
+ [math]\hspace{2em}[/math]
+ = [math]4^2 - 4 = 16 - 4 = 12[/math]
+∴ [math]x - \dfrac{1}{x} = \sqrt{12} = 2\sqrt{3}[/math]
+এখন, [math]x^2 - \dfrac{1}{x^2} = (x - \dfrac{1}{x}) (x + \dfrac{1}{x})[/math]
+ [math]\hspace{2em}[/math]
+ = [math]2\sqrt{3} \cdot 4 = 8\sqrt{3}[/math]
+∴ [math]\left(x^2 - \dfrac{1}{x^2}\right) = 8\sqrt{3}[/math]
+ (প্রমাণিত)
+
+Explanation:
+প্রথমে উভয় পাশে বর্গ করলে পাই [math]x^2+2+\dfrac{1}{x^2}=16[/math], তাই [math]x^2+\dfrac{1}{x^2}=14[/math]। ফলে [math]\left(x^2-\dfrac{1}{x^2}\right)^2=(x^2+\dfrac{1}{x^2})^2-4=14^2-4=192[/math], অর্থাৎ পরিমাপ [math]8\sqrt{3}[/math]। এছাড়া [math]x^2-4x+1=0[/math] থেকে [math]x=2\pm\sqrt{3}[/math] এবং বড় মূলটি [math]2+\sqrt{3}>1[/math] হলে প্রকাশটি ধনাত্মক, তাই [math]x^2-\dfrac{1}{x^2}=8\sqrt{3}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 538343)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: গণিত | Years:  | Boards:  | Tags: বোর্ড বই
+--------------------------------------------------------------------------------
+Question:
+[math]a + \dfrac{1}{a} = 2[/math] হলে, প্রমাণ কর যে, [math]a^3 + \dfrac{1}{a^3} = 2[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, [math]a + \dfrac{1}{a} = 2[/math]
+∴ [math]\dfrac{a^2 + 1}{a} = 2[/math]
+∴ [math]a^2 - 2a + 1 = 0[/math]
+∴ [math](a - 1)^2 = 0[/math]
+∴ [math]a = 1[/math]
+∴ [math]a^3 + \dfrac{1}{a^3} = 1^3 + \dfrac{1}{1^3} = 1 + 1 = 2[/math]
+∴ [math]a^3 + \dfrac{1}{a^3} = 2[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা: [math](a+\frac{1}{a})^3 = a^3 + \frac{1}{a^3} + 3\bigl(a+\frac{1}{a}\bigr)[/math]. যদি [math]a+\frac{1}{a}=2[/math] হয়, তাহলে [math]a^3+\frac{1}{a^3}=(a+\frac{1}{a})^3-3\bigl(a+\frac{1}{a}\bigr)=2^3-3\cdot2=8-6=2[/math]. বিকল্পভাবে সমীকরণ থেকে [math]a=1[/math] পাওয়া যায় এবং তাতেও [math]1^3+\frac{1}{1^3}=1+1=2[/math]।
+
+Sub-Questions:
+

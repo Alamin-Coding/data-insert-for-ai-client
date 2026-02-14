@@ -1,0 +1,233 @@
+================================================================================
+Question #1 (ID: 487045)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+তিনটি বীজগণিতীয় ভগ্নাংশের রাশি:
+
+[math]A = \frac{1}{x+y} + \frac{1}{(x+y)^2}[/math],
+
+[math]B = \frac{1}{2x - 3y} + \frac{3x}{4x^2 - 9y^2}[/math],
+
+[math]C = \frac{-4}{x^2 - 4y^2} - \frac{1}{2y^2 - xy}[/math]
+
+Options:
+ক. [math]A[/math] এর মান নির্ণয় কর।
+খ. [math]B[/math] কে সরলীকরণ কর।
+গ. [math]C[/math] এর সরল মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক. দেওয়া আছে, [math]A = \frac{1}{x+y} + \frac{1}{(x+y)^2}[/math]
+ [math]= \frac{x+y+1}{(x+y)^2}[/math]
+ (Ans.)খ.[math]B = \frac{1}{2x - 3y} + \frac{3x}{4x^2 - 9y^2}[/math]
+ [math]= \frac{1}{2x - 3y} + \frac{3x}{(2x)^2 - (3y)^2}[/math]
+ [math]= \frac{1}{2x - 3y} + \frac{3x}{(2x - 3y)(2x + 3y)}[/math]
+ [math]= \frac{(2x + 3y) + 3x}{(2x - 3y)(2x + 3y)}[/math]
+ [math]= \frac{5x + 3y}{(2x - 3y)(2x + 3y)}[/math]
+ (Ans.)গ.[math]C = \frac{-4}{x^2 - 4y^2} - \frac{1}{2y^2 - xy}[/math]
+ [math]= \frac{-4}{(x)^2 - (2y)^2} - \frac{1}{y(2y - x)}[/math]
+ [math]= \frac{-4}{(x - 2y)(x + 2y)} + \frac{1}{y(x - 2y)}[/math]
+ [math]= \frac{-4y + x + 2y}{y(x + 2y)(x - 2y)}[/math]
+ [math]= \frac{x - 2y}{y(x + 2y)(x - 2y)}[/math]
+ [math]= \frac{1}{y(x + 2y)}[/math]
+ (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+
+ক সমন্বিতগুলি একই রাজ্যে আনতে সাধারণ হর্নিক ব্যবহার করলে [math]\frac{1}{x+y}=\frac{x+y}{(x+y)^2}[/math] হয়, ফলে [math]A=\frac{x+y+1}{(x+y)^2}[/math]।
+
+খ লক্ষ্য করুন [math]4x^2-9y^2=(2x-3y)(2x+3y)[/math]; সাধারণ নজিরে যোগ করলে ঊর্ধ্বরাশি হয় [math]2x+3y+3x=5x+3y[/math], তাই [math]B=\frac{5x+3y}{(2x-3y)(2x+3y)}[/math]।
+
+গ এখানে [math]x^2-4y^2=(x-2y)(x+2y)[/math] এবং [math]2y^2-xy=y(2y-x)=-y(x-2y)[/math]; যোগ করলে [math](x-2y)[/math] বাতিল হয়ে [math]C=\frac{1}{y(x+2y)}[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 487046)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A = x^2 - x - 12,\quad B = x^2 + 8x + 15,\quad C = x^2 + x - 20[/math] [math]D = 4x + 5,\quad E = 2x + 7,\quad F = 3x + 2[/math]
+
+Options:
+ক. যোগফল নির্ণয় কর: [math]\frac{1}{x+3} + \frac{1}{x-3}[/math]
+খ. যদি [math]x = \frac{5}{2}[/math] হয়, তবে [math]\frac{D}{4} + \frac{E}{3} - \frac{F}{2}[/math] এর সরলীকরণ করে মান নির্ণয় কর।
+গ. সরল কর: [math]\frac{3}{A} + \frac{1}{B} - \frac{2}{C}[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক.[math]\frac{1}{x+3} + \frac{1}{x-3} = \frac{x-3 + x+3}{(x+3)(x-3)} = \frac{2x}{x^2 - 9}[/math]
+ (Ans.)খ.[math]\frac{D}{4} + \frac{E}{3} - \frac{F}{2} = \frac{4x+5}{4} + \frac{2x+7}{3} - \frac{3x+2}{2}[/math]
+ [math]\Rightarrow \frac{3(4x+5) + 4(2x+7) - 6(3x+2)}{12}[/math]
+ [math]\Rightarrow \frac{12x+15 + 8x+28 - 18x - 12}{12}[/math]
+ [math]\Rightarrow \frac{2x+31}{12}[/math]
+যেহেতু [math]x = \frac{5}{2}[/math]
+, তাই:[math]\frac{2(\frac{5}{2}) + 31}{12} = \frac{5 + 31}{12} = \frac{36}{12} = 3[/math]
+ (Ans.)গ.[math]\frac{3}{A} + \frac{1}{B} - \frac{2}{C} = \frac{3}{x^2 - x - 12} + \frac{1}{x^2 + 8x + 15} - \frac{2}{x^2 + x - 20}[/math]
+ [math]= \frac{3}{(x-4)(x+3)} + \frac{1}{(x+3)(x+5)} - \frac{2}{(x+5)(x-4)}[/math]
+ল.সা.গু = [math](x-4)(x+3)(x+5)[/math]
+ [math]\Rightarrow \frac{3(x+5) + (x-4) - 2(x+3)}{(x-4)(x+3)(x+5)}[/math]
+ [math]\Rightarrow \frac{3x+15 + x-4 - 2x - 6}{(x-4)(x+3)(x+5)}[/math]
+ [math]\Rightarrow \frac{2x + 5}{(x-4)(x+3)(x+5)}[/math]
+ (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+
+ক যোগ করলে লব্ধি হয় যে সাধারণ নামহার [math](x+3)(x-3)=x^2-9[/math] এবং সংখ্যাগুণফল [math](x-3)+(x+3)=2x[/math], তাই ফল হচ্ছে [math]\frac{2x}{x^2-9}[/math]।
+
+খ প্রথমে মান বসান: [math]D=4(5/2)+5=15,\;E=2(5/2)+7=12,\;F=3(5/2)+2=19/2[/math]; তারপর [math]\frac{D}{4}+\frac{E}{3}-\frac{F}{2}=\frac{15}{4}+4-\frac{19}{4}=3[/math]।
+
+গ তিনটিকে গুণনীয়ক করে লিখুন: [math]A=(x-4)(x+3),\;B=(x+3)(x+5),\;C=(x+5)(x-4)[/math]; সাধারণ নামহার নিয়ে সংখ্যাগুণফল হয় [math]3(x+5)+(x-4)-2(x+3)=2x+5[/math], সুতরাং সরল রূপ [math]\frac{2x+5}{(x-4)(x+3)(x+5)}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 487047)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+তিনটি বীজগণিতীয় ভগ্নাংশ:
+
+[math]\dfrac{2}{x^2 - x - 2},\ \dfrac{3}{x^2 - x - 6},\ \dfrac{4}{x^2 + 5x - 14}[/math]
+
+Options:
+ক. ৩য় ভগ্নাংশের হরকে উৎপাদকে বিশ্লেষণ কর।
+খ. হর তিনটির ল.সা.গু. কত?
+গ. ভগ্নাংশগুলোর যোগফল বের কর।
+
+
+Correct Answer: 
+
+Solution:
+ক.৩য় ভগ্নাংশের হর [math]x^2 + 5x - 14 = x^2 + 7x - 2x - 14[/math]
+ [math]= x(x + 7) - 2(x + 7) = (x + 7)(x - 2)[/math]
+ (Ans.)খ.১ম ভগ্নাংশের হর [math]x^2 - x - 2 = x^2 - 2x + x - 2[/math]
+ [math]= x(x - 2) + 1(x - 2) = (x - 2)(x + 1)[/math]
+২য় ভগ্নাংশের হর [math]x^2 - x - 6 = x^2 + 3x - 2x - 6[/math]
+ [math]= x(x + 3) - 2(x + 3) = (x + 3)(x - 2)[/math]
+৩য় ভগ্নাংশের হর [math](x + 7)(x - 2)[/math]
+অতএব ল.সা.গু. = [math](x - 2)(x + 1)(x + 3)(x + 7)[/math]
+ (Ans.)গ.[math]\dfrac{2}{x^2 - x - 2} + \dfrac{3}{x^2 - x - 6} + \dfrac{4}{x^2 + 5x - 14}[/math]
+ [math]= \dfrac{2}{(x - 2)(x + 1)} + \dfrac{3}{(x - 2)(x + 3)} + \dfrac{4}{(x + 7)(x - 2)}[/math]
+ল.সা.গু = [math](x - 2)(x + 1)(x + 3)(x + 7)[/math]
+ [math]\Rightarrow \dfrac{2(x + 7)(x + 3) + 3(x + 7)(x + 1) + 4(x + 1)(x + 3)}{(x - 2)(x + 1)(x + 3)(x + 7)}[/math]
+ [math]\Rightarrow \dfrac{2x^2 + 14x + 3x + 21 + 3x^2 + 7x + 3x + 7 + 4x^2 + 12x + 3x + 9}{(x - 2)(x + 1)(x + 3)(x + 7)}[/math]
+ [math]\Rightarrow \dfrac{9x^2 + 60x + 75}{(x - 2)(x + 1)(x + 3)(x + 7)}[/math]
+ (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+
+ক হরটির নবমীয় নামক (ডেনোমিনেটর) উৎপাদকে বিশ্লেষণ করলে [math]x^2+5x-14=(x+7)(x-2)[/math], তাই [math]\dfrac{4}{x^2+5x-14}=\dfrac{4}{(x+7)(x-2)}[/math]।
+
+খ প্রথম দুইটি ও তৃতীয়টির নামকগুলো-factor করলে [math]x^2-x-2=(x-2)(x+1),\; x^2-x-6=(x-3)(x+2),\; x^2+5x-14=(x+7)(x-2)[/math]; সেহেতু ল.সা.গু. হলো সব ভিন্ন তফসিলী গুণকের গুণফল [math](x-2)(x+1)(x-3)(x+2)(x+7)[/math]।
+
+গ সাধারণ নামক নিয়ে যোগ করলে প্রতিটি ভগ্নাংশকে উপযুক্ত গুণক দিয়ে বাড়িয়ে পাই সমষ্টি [math]\dfrac{2(x-3)(x+2)(x+7)+3(x-2)(x+1)(x+7)+4(x+1)(x-3)(x+2)}{(x-2)(x+1)(x-3)(x+2)(x+7)}[/math], যা বিস্তৃত করলে [math]\dfrac{9x^3+30x^2-81x-150}{(x-2)(x+1)(x-3)(x+2)(x+7)}[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 487048)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A = \dfrac{2x}{x^2 - 4y^2}, \quad B = \dfrac{x}{xy + 2y^2}[/math]
+
+এবং [math]C = \dfrac{y}{x^2 + 3xy + 3y^2}[/math] — তিনটি বীজগণিতীয় রাশি।
+
+Options:
+ক. [math]A[/math] ভগ্নাংশটির হরকে উৎপাদকে বিশ্লেষণ কর।
+খ. [math]A - B[/math] নির্ণয় কর।
+গ. [math]A, B[/math] ও [math]C[/math] কে সমহরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক.[math]x^2 - 4y^2 = (x)^2 - (2y)^2 = (x + 2y)(x - 2y)[/math]
+ (Ans.)খ.[math]A - B = \dfrac{2x}{x^2 - 4y^2} - \dfrac{x}{xy + 2y^2}[/math]
+ [math]= \dfrac{2x}{(x + 2y)(x - 2y)} - \dfrac{x}{y(x + 2y)}[/math]
+ [math]\Rightarrow[/math]
+ ল.সা.গু [math](x + 2y)(x - 2y)y[/math]
+ [math]= \dfrac{2xy - x(x - 2y)}{y(x + 2y)(x - 2y)}[/math]
+ [math]= \dfrac{2xy - x^2 + 2xy}{y(x + 2y)(x - 2y)}[/math]
+ [math]= \dfrac{4xy - x^2}{y(x + 2y)(x - 2y)}[/math]
+ (Ans.)গ.[math]A, B, C[/math]
+ এর হরের ল.সা.গু = [math](x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)[/math]
+ [math]A = \dfrac{2x}{(x + 2y)(x - 2y)} \times \dfrac{x^2 + 3xy + 3y^2}{x^2 + 3xy + 3y^2}[/math]
+ [math]= \dfrac{2x(x^2 + 3xy + 3y^2)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]
+ [math]B = \dfrac{x}{y(x + 2y)} \times \dfrac{(x - 2y)(x^2 + 3xy + 3y^2)}{(x - 2y)(x^2 + 3xy + 3y^2)}[/math]
+ [math]= \dfrac{x(x - 2y)(x^2 + 3xy + 3y^2)}{y(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]
+ [math]C = \dfrac{y}{x^2 + 3xy + 3y^2} \times \dfrac{(x + 2y)(x - 2y)}{(x + 2y)(x - 2y)}[/math]
+ [math]= \dfrac{y(x + 2y)(x - 2y)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]
+সমহর বিশিষ্ট আকারে:[math]\dfrac{2x(x^2 + 3xy + 3y^2)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)},\quad \dfrac{x(x - 2y)(x^2 + 3xy + 3y^2)}{y(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)},\quad \dfrac{y(x + 2y)(x - 2y)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]
+ (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+
+ক নামযোগে, [math]x^2-4y^2=(x-2y)(x+2y)[math] হওয়ায় [math]A=\dfrac{2x}{(x-2y)(x+2y)}[/math].
+
+খ সাধারণ নামহার হিসেবে [math]y(x-2y)(x+2y)[math] নিলে [math]A=\dfrac{2xy}{y(x-2y)(x+2y)},\; B=\dfrac{x(x-2y)}{y(x-2y)(x+2y)}[/math] এবং তাদের পার্থক্য হল [math]A-B=\dfrac{2xy-x(x-2y)}{y(x-2y)(x+2y)}=\dfrac{x(4y-x)}{y(x-2y)(x+2y)}[/math]।
+
+গ সাধারণ সমহার হিসেবে [math]D=y(x-2y)(x+2y)(x^2+3xy+3y^2)[/math] নিতে গেলে
+[math]A=\dfrac{2x\cdot y(x^2+3xy+3y^2)}{D},\; B=\dfrac{x\cdot(x-2y)(x^2+3xy+3y^2)}{D},\; C=\dfrac{y^2(x-2y)(x+2y)}{D}[/math] — যা প্রত্যেকটি একই নামহারে প্রকাশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 487049)
+--------------------------------------------------------------------------------
+Type: CQ | Book: গণিত | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চারটি বীজগণিতীয় ভগ্নাংশ:
+
+[math]\frac{5}{x^2 - 6x + 5},\ \frac{1}{x - 1},\ \frac{2 + y^2}{x^2 - y^2},\ \frac{x - y}{2x + 2y}[/math]
+
+Options:
+ক. ১ম ভগ্নাংশের হরকে উৎপাদকে বিশ্লেষণ কর।
+খ. ১ম ও ২য় ভগ্নাংশের যোগফল নির্ণয় কর।
+গ. ৩য় ভগ্নাংশ হতে ৪র্থ ভগ্নাংশটির বিয়োগফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক.[math]x^2 - 6x + 5 = x^2 - x - 5x + 5 = x(x - 1) - 5(x - 1) = (x - 1)(x - 5)[/math]
+ (Ans.)খ.[math]\frac{5}{x^2 - 6x + 5} + \frac{1}{x - 1} = \frac{5}{(x - 1)(x - 5)} + \frac{1}{x - 1}[/math]
+ [math]= \frac{5}{(x - 1)(x - 5)} + \frac{x - 5}{(x - 1)(x - 5)}[/math]
+ [math]= \frac{5 + x - 5}{(x - 1)(x - 5)} = \frac{x}{(x - 1)(x - 5)}[/math]
+ (Ans.)গ.[math]\frac{2 + y^2}{x^2 - y^2} - \frac{x - y}{2x + 2y} = \frac{2 + y^2}{(x - y)(x + y)} - \frac{x - y}{2(x + y)}[/math]
+ [math]= \frac{2 + y^2}{(x - y)(x + y)} - \frac{1}{2} \cdot \frac{x - y}{x + y}[/math]
+ [math]= \frac{2 + y^2}{(x - y)(x + y)} - \frac{x - y}{2(x + y)}[/math]
+ল.সা.গু = [math]2(x - y)(x + y)[/math]
+ [math]\Rightarrow \frac{2(2 + y^2) - (x - y)^2}{2(x - y)(x + y)}[/math]
+ [math]= \frac{4 + 2y^2 - (x^2 - 2xy + y^2)}{2(x - y)(x + y)}[/math]
+ [math]= \frac{4 + 2y^2 - x^2 + 2xy - y^2}{2(x - y)(x + y)}[/math]
+ [math]= \frac{-x^2 + y^2 + 2xy + 4}{2(x - y)(x + y)}[/math]
+ (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+ক [math]x^2-6x+5=(x-1)(x-5)[/math] তাই [math]\frac{5}{x^2-6x+5}=\frac{5}{(x-1)(x-5)}[/math].
+
+খ সাধারণ নামহার [math](x-1)(x-5)[/math] নেওয়া হলে
+[math]\frac{5}{(x-1)(x-5)}+\frac{1}{x-1}=\frac{5+(x-5)}{(x-1)(x-5)}=\frac{x}{(x-1)(x-5)}[/math]।
+
+গ [math]x^2-y^2=(x-y)(x+y)[/math] হওয়ায় সাধারণ নামহার [math]2(x-y)(x+y)[/math] নিয়ে
+[math]\frac{2+y^2}{(x-y)(x+y)}-\frac{x-y}{2(x+y)}=\frac{2(2+y^2)-(x-y)^2}{2(x-y)(x+y)}=\frac{4+y^2-x^2+2xy}{2(x^2-y^2)}[/math] ।
+
+Sub-Questions:
+

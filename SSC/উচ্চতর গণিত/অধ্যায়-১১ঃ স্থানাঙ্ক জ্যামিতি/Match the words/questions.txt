@@ -1,0 +1,948 @@
+================================================================================
+Question #1 (ID: 179551)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How does the concept of Cartesian coordinates help in determining the area of triangles and quadrilaterals formed by given points in the plane?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+Cartesian coordinates সাপোর্ট করে কারণ বিন্দুসমূহের মধ্যকার দৈর্ঘ্য [math]d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}[/math] দিয়ে পাওয়া যায় এবং ক্ষেত্রফলগুলো কোঅর্ডিনেট থেকে সরাসরি গণনা করা যায়। ত্রিভুজের ক্ষেত্রফল শূ-লেস সূত্রে লেখা হয়: [math]A=\tfrac12\big|x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2)\big|[/math], এবং চতুষ্কোণের ক্ষেত্রফল শূ-লেস বা দুইটি ত্রিভুজে ভাগ করে যোগ করে পাওয়া যায়। এভাবে কেবল সমন্বয় ব্যবহার করে দৈর্ঘ্য ও এলাকা নির্দিষ্টভাবে বের করা সম্ভব।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 179552)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the significance of the slope of a line in determining its equation and how does it relate to the coordinates of specific points on the line?
+
+Options:
+
+
+Correct Answer: The slope determines how steep the line is, affecting its equation based on point coordinates.
+
+Solution:
+
+
+Explanation:
+The slope measures how steep the line is and gives the rate at which y changes with x, so knowing the slope and one point lets you write the line's equation. The slope between two points is [math]m = \frac{y_2 - y_1}{x_2 - x_1}[/math], and the line is [math]y = mx + b[/math] where [math]b[/math] is found by substituting a known point.
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 179553)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Compare the methods of calculating area using side lengths versus coordinates in the context of geometry.
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+কোঅর্ডিনেট পদ্ধতিতে প্রতিটি শীর্ষের (x,y) অবস্থান ব্যবহার করে সরাসরি এলাকা বের করা যায় (উদাহরণ: শোলে সূত্র), তাই এটি অনিয়মিত পলিগনেও প্রযোজ্য। অন্যদিকে শুধুমাত্র ধারের দৈর্ঘ্য থেকেই এলাকার সূত্র সাধারণত কেবল নিয়মিত বহুভুজ বা বিশেষ ক্ষেত্রে প্রযোজ্য, কারণ অনিয়মিত ক্ষেত্রে কোণ বা বিন্দু অবস্থান জানা বাধ্যতামূলক।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 179554)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How do the properties of slopes of intersecting lines assist in solving for the intersection point of those lines?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+If two lines meet, the intersection point (x,y) lies on both lines, so its coordinates satisfy both equations; setting [math]y = m_1x + b_1[/math] equal to [math]y = m_2x + b_2[/math] and solving gives [math]x[/math], then [math]y[/math]. If [math]m_1 = m_2[/math] the lines are parallel (no intersection) or coincident (infinitely many), which the equation also reveals.
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 179555)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In what ways do Cartesian coordinates simplify the representation and calculation of areas in various geometric shapes?
+
+Options:
+
+
+Correct Answer: They provide a clear numerical method for locating points and calculating distances.
+
+Solution:
+
+
+Explanation:
+Cartesian coordinates প্রতিটি বিন্দুকে সংখ্যা জোড়ায় দেয়, তাই দূরত্ব, ত্রিভুজ বা বহুভুজের উচ্চতা-প্রস্থ ইত্যাদি সরাসরি গণনা করা যায় এবং এলাকা নির্ণয়ে বীজগণিত ও ক্যালকুলাস ব্যবহার করা সহজ হয়। উদাহরণস্বরূপ, দুই বিন্দুর দূরত্ব [math]d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}[/math], বহুভুজের এলাকা শুজলেস সূত্রে [math]A=\tfrac{1}{2}\left|\sum_{i=1}^{n}(x_i y_{i+1}-x_{i+1} y_i)\right|[/math], এবং ক্রভের নিচের এলাকা ক্যালকুলাসে [math]\int y\,dx[/math] দ্বারা হিসাব করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 179536)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How does the concept of Cartesian coordinates relate to identifying the position of points in a plane, as discussed by Descartes?
+
+Options:
+a. It allows representation of points through polar coordinates.
+b. It requires distance measuring tools for accuracy.
+c. It enables representation of points based on distance from intersecting lines.
+d. It relies on geometric shapes to determine point locations.
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 179537)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In the context of coordinate geometry, what method is used to determine the area of a triangle given its vertex coordinates?
+
+Options:
+a. Using the sum of the lengths of its sides.
+b. Calculating the average of the coordinates.
+c. Applying the formula derived from the determinant of the coordinates.
+d. Utilizing the Pythagorean theorem for all angles.
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 179538)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Which aspect of the Cartesian coordinate system allows for the determination of a line's slope?
+
+Options:
+a. The distance between the x and y coordinates of two points.
+b. The relationship between the change in y-coordinates and x-coordinates.
+c. The average of the coordinates squared.
+d. The geometric interpretation of the points as a vector.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 179539)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+When determining the area of quadrilaterals using vertices in coordinate geometry, which method is commonly applied?
+
+Options:
+a. Calculating the average length of the sides.
+b. Dividing the quadrilateral into triangles and summing their areas.
+c. Using only the lengths of adjacent sides.
+d. Finding the perimeter and dividing by four.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 179540)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Describing the slope of a line in a Cartesian plane, how is it defined in terms of its coordinates?
+
+Options:
+a. As the average of the x-coordinates.
+b. As the ratio of the change in x-coordinates to the change in y-coordinates.
+c. As the ratio of the change in y-coordinates to the change in x-coordinates.
+d. As the product of the coordinates.
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 179541)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What geometric shape can be formed by three non-collinear points in the Cartesian plane?
+
+Options:
+a. A line segment.
+b. A triangle.
+c. A rectangle.
+d. A square.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 179542)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How do Cartesian coordinates facilitate the identification of the location of a point in a plane?
+
+Options:
+a. By defining the angle with respect to the origin.
+b. By using the distance from the origin alone.
+c. By specifying the horizontal and vertical distances from intersecting axes.
+d. By determining the area enclosed by surrounding points.
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 179543)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In terms of coordinate geometry, what does the distance formula compute between two points?
+
+Options:
+a. The average of their coordinates.
+b. The area of the rectangle formed by the points.
+c. The direct line distance between the two points.
+d. The perimeter of the shape formed by the points.
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 179544)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Which mathematical principle is essential for calculating the area of a triangle using its vertices in coordinate geometry?
+
+Options:
+a. The Law of Cosines.
+b. The Pythagorean theorem.
+c. The determinant formula for area.
+d. The sine of the angle between the sides.
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 179545)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What role does the concept of quadrants play in the Cartesian coordinate system?
+
+Options:
+a. They represent the average values of coordinates.
+b. They categorize the signs of coordinates based on their positions.
+c. They calculate the distance between points.
+d. They determine the slope of lines.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 179546)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How can the area of a quadrilateral be determined using the coordinates of its vertices?
+
+Options:
+a. By averaging the lengths of its sides.
+b. By treating it as two triangles and calculating their areas.
+c. By using the sum of the x-coordinates.
+d. By measuring the perimeter and dividing by the number of sides.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 179547)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What geometric properties can be determined by analyzing the slopes of lines formed by pairs of points in Cartesian coordinates?
+
+Options:
+a. The lengths of the lines only.
+b. The angles formed between the lines.
+c. The area enclosed by the lines.
+d. The coordinates of the midpoint.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 179548)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the significance of identifying points of intersection in lines represented by equations in Cartesian geometry?
+
+Options:
+a. It determines the length of the segments.
+b. It establishes the nature of the geometric shape formed.
+c. It helps find the area of the shapes involved.
+d. It indicates the coordinates of the midpoints.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 179549)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In coordinate geometry, why is it necessary to differentiate between positive and negative slopes?
+
+Options:
+a. To calculate the distance accurately.
+b. To identify the type of triangle formed.
+c. To determine the direction of the line and its relationship to the axes.
+d. To assess the area of a polygon.
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 179550)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+Using the coordinates of a triangle's vertices, how can one derive the area of the triangle?
+
+Options:
+a. By summing the lengths of its sides.
+b. By applying the determinant formula involving the coordinates.
+c. By calculating the average height from a base.
+d. By measuring the angles at each vertex.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 179462)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the significance of Cartesian coordinates in coordinate geometry, particularly in relation to distance calculation between two points?
+
+Options:
+a. They are used to define angles between lines.
+b. They help in calculating distances and defining geometric shapes.
+c. They are irrelevant to geometry.
+d. They only apply to three-dimensional space.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 179463)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How does the concept of slope relate to the equations of straight lines in coordinate geometry?
+
+Options:
+a. Slope has no relation to line equations.
+b. It determines the steepness and direction of the line.
+c. Slope only applies to circles.
+d. It is irrelevant to the concept of distance.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 179464)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How can the area of a triangle be computed using the lengths of its sides, and how does this relate to coordinates in a Cartesian plane?
+
+Options:
+a. By using the formula A = (1/2) * base * height.
+b. By calculating the distances between its vertices in the Cartesian plane.
+c. Only by knowing the angles of the triangle.
+d. The area cannot be computed using coordinates.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 179465)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What role does the Cartesian coordinate system play in determining the properties of quadrilaterals formed by points in the plane?
+
+Options:
+a. It helps in only drawing the quadrilaterals.
+b. It allows for the calculation of distances and angles, thus determining properties.
+c. It has no significance in geometry.
+d. It is used only for three-dimensional shapes.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 179466)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+When two lines intersect at an angle, how is this angle determined using their slopes?
+
+Options:
+a. By subtracting their slopes.
+b. By using the formula for the tangent of the angle between two lines.
+c. Angles cannot be determined without a protractor.
+d. By adding the slopes together.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 179467)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+In the context of coordinate geometry, how can one represent a straight line using two distinct points?
+
+Options:
+a. By finding the midpoint of the two points.
+b. By calculating the slope and using the point-slope form of the line.
+c. By connecting the points without any calculation.
+d. By using only one point.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 179468)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the relationship between the coordinates of points in a plane and the geometric shapes formed?
+
+Options:
+a. Coordinates dictate the color of the shapes.
+b. Coordinates define the vertices and thus the shape's properties.
+c. Shapes can be formed without knowledge of coordinates.
+d. Coordinates only apply to points, not shapes.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 179469)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How is the area of a quadrilateral determined when given the coordinates of its vertices?
+
+Options:
+a. By measuring the lengths of its sides only.
+b. Using the shoelace formula or dividing it into triangles.
+c. Only the angles are relevant for area calculation.
+d. The area cannot be determined from coordinates.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 179470)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How do you define a point's position in the Cartesian coordinate system?
+
+Options:
+a. By its distance from the y-axis.
+b. By its x-coordinate and y-coordinate values.
+c. By its distance from the origin only.
+d. Position cannot be defined without a scale.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 179471)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the significance of the origin in the Cartesian coordinate system?
+
+Options:
+a. It is just a reference point with no significance.
+b. It is the point where both axes intersect, defining positive and negative values.
+c. It only applies to three-dimensional geometry.
+d. It is irrelevant to distance measurements.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 179472)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+When calculating the distance between two points in a coordinate plane, which formula is used?
+
+Options:
+a. Area = length × width.
+b. Distance = √((x2 - x1)² + (y2 - y1)²).
+c. Distance = (x1 + y1) - (x2 + y2).
+d. Distance cannot be calculated from coordinates.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 179473)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How can the slope of a line be interpreted in terms of its graphical representation?
+
+Options:
+a. It indicates the position of the line only.
+b. It shows the steepness and direction of the line concerning the x-axis.
+c. Slope is only relevant in three-dimensional graphs.
+d. It has no graphical implications.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 179474)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How do you determine if three points in the Cartesian plane are collinear?
+
+Options:
+a. By measuring the angles formed.
+b. By checking if the area of the triangle they form is zero.
+c. By finding the midpoint of the points.
+d. Collinearity cannot be determined with coordinates.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 179475)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How can the concept of coordinate geometry be applied in real-world scenarios?
+
+Options:
+a. It has no practical applications.
+b. It is used in navigation, architecture, and computer graphics.
+c. Only for academic purposes.
+d. It is only relevant in two dimensions.
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 123139)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What geometric shape is formed by plotting points in a coordinate plane?
+
+Options:
+a. Circle
+b. Triangle
+c. Polygon
+d. Square
+
+
+Correct Answer: গ
+
+Solution:
+Solution:
+Step 1: When you plot a finite set of points in the coordinate plane and join them in sequence by straight line segments, you form a closed figure whose sides are straight segments — that is a polygon.  
+Step 2: Specific shapes like a triangle or a square are just special types of polygons (triangle = 3-sided polygon, square = 4-sided regular polygon). For example, the points [math](0,0),\ (1,0),\ (1,1),\ (0,1)[/math] joined in order form a polygon (a square).  
+Therefore the most general and correct choice is option c: Polygon.  
+Other options: a circle is not a polygon because its boundary is curved, and b (triangle) and d (square) are only specific polygons, not the general case.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 123140)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What does the area of a triangle depend on?
+
+Options:
+a. The length of its sides only.
+b. The height and base values.
+c. The angles of the triangle.
+d. The perimeter of the triangle.
+
+
+Correct Answer: খ
+
+Solution:
+Solution:
+The area of a triangle is determined by its base and the corresponding height (altitude). The standard formula is [math]A=\tfrac{1}{2}\times\text{base}\times\text{height}[/math], so knowing the base and its perpendicular height gives the area directly.
+
+Why other options are incorrect or incomplete:
+- Option a: Knowing side lengths can allow computation of area via Heron's formula [math]A=\sqrt{s(s-a)(s-b)(s-c)}[/math], but this is an indirect method; the elementary and direct dependency is on a base and its height.  
+- Option c: Angles alone do not fix the area because similar triangles have identical angles but can have different sizes (if linear scale factor is [math]k[/math], area scales by [math]k^2[/math]).  
+- Option d: Perimeter alone does not determine area, since different-shaped triangles can share the same perimeter but have different areas.
+
+Therefore the correct answer is b.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 123141)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+How do you define the midpoint of a line segment in coordinate geometry?
+
+Options:
+a. As the average of the coordinates of the endpoints.
+b. As the sum of the coordinates of the endpoints.
+c. As the largest coordinate value.
+d. As the smallest coordinate value.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+The midpoint M of a segment with endpoints [math](x_1,y_1)[/math] and [math](x_2,y_2)[/math] is found by averaging the corresponding coordinates: [math]M\!\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)[/math]. This formula gives the point exactly halfway because each coordinate is the arithmetic mean of the two endpoint coordinates, so M is equidistant from both endpoints. Hence option a is correct. Option b is incorrect because taking the sum [math](x_1+x_2,y_1+y_2)[/math] does not place the point halfway (it must be halved); options c and d are irrelevant because the midpoint is not simply the largest or smallest coordinate.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 123142)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the formula for the area of a triangle using its base and height?
+
+Options:
+a. Area = base × height
+b. Area = 1/2 × base × height
+c. Area = base + height
+d. Area = base - height
+
+
+Correct Answer: খ
+
+Solution:
+Solution:
+Step 1: The standard formula for the area of a triangle with base [math]b[/math] and height [math]h[/math] is [math]A = \tfrac{1}{2} b h[/math].
+
+Step 2: Reason: a triangle with base [math]b[/math] and height [math]h[/math] fits exactly as half of a rectangle of area [math]b \times h[/math], so its area is half of that, i.e. [math]\tfrac{1}{2}bh[/math].
+
+Step 3: Therefore the correct choice is option (b). Options (a) omits the necessary factor of [math]\tfrac{1}{2}[/math]; (c) and (d) use addition/subtraction which are not formulas for area.
+
+Explanation:
+
+
+Sub-Questions:
+

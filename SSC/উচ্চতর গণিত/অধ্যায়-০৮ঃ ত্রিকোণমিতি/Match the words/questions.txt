@@ -1,0 +1,58 @@
+================================================================================
+Question #1 (ID: 123147)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the significance of a right angle in trigonometry?
+
+Options:
+a. It is used to define sine, cosine, and tangent ratios.
+b. It helps in calculating the area of circles.
+c. It has no importance in trigonometry.
+d. It is solely related to linear equations.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+A right angle defines a right triangle which gives the hypotenuse, adjacent and opposite sides — these are needed to form the basic trigonometric ratios. Specifically, by using a right triangle we define
+[math]\sin \theta = \frac{\text{opposite}}{\text{hypotenuse}},\quad \cos \theta = \frac{\text{adjacent}}{\text{hypotenuse}},\quad \tan \theta = \frac{\text{opposite}}{\text{adjacent}}.[/math]
+Thus option (a) is correct.
+
+Briefly why the others are incorrect: (b) area of circles uses [math]A=\pi r^2[/math] and does not depend on a right angle; (c) is false because right angles are central to triangle-based trig definitions; (d) is incorrect because right angles are not solely related to linear equations.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 123148)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the relationship between the sine and cosine of complementary angles?
+
+Options:
+a. They are equal.
+b. They sum to one.
+c. They multiply to one.
+d. They are inversely proportional.
+
+
+Correct Answer: খ
+
+Solution:
+Solution:
+The sine of an angle equals the cosine of its complementary angle, i.e. [math]\sin\theta = \cos\left(90^\circ - \theta\right)[/math] (or in radians [math]\sin\theta = \cos\left(\tfrac{\pi}{2}-\theta\right)[/math]). For example, for [math]\theta=30^\circ[/math], [math]\sin30^\circ=0.5[/math] and [math]\cos60^\circ=0.5[/math], showing equality.
+
+Therefore the correct relationship is that they are equal (option a). Option b is incorrect because [math]\sin\theta+\cos\theta[/math] is not generally equal to 1 (only for certain angles); option c is false since [math]\sin\theta\cdot\cos\theta[/math] is not always 1; option d is also false because sine and cosine are not inversely proportional functions.
+
+Explanation:
+
+
+Sub-Questions:
+

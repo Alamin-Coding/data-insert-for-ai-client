@@ -1,0 +1,61 @@
+================================================================================
+Question #1 (ID: 123143)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What defines a vector quantity?
+
+Options:
+a. It has only magnitude.
+b. It has both magnitude and direction.
+c. It cannot be represented graphically.
+d. It is always positive.
+
+
+Correct Answer: খ
+
+Solution:
+Solution:
+Step 1: Definition — A vector quantity is one that has both magnitude and direction. For example, a velocity can be written as [math]\vec{v}[/math] with magnitude [math]|\vec{v}|[/math] and direction angle [math]\theta[/math].
+
+Step 2: Mathematical representation — In components, [math]\vec{v}=(v_x,v_y)[/math], its magnitude is [math]|\vec{v}|=\sqrt{v_x^2+v_y^2}[/math] and its direction is [math]\theta=\tan^{-1}(v_y/v_x)[/math], showing explicitly that both magnitude and direction are needed.
+
+Conclusion: Therefore the correct answer is option b (it has both magnitude and direction).
+
+Why the other options are incorrect:
+- a: "It has only magnitude" describes a scalar, not a vector.
+- c: Vectors can be represented graphically by arrows showing direction and length (magnitude).
+- d: Vectors are not "always positive" because direction can make components negative; positivity is not a defining property.
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 123144)
+--------------------------------------------------------------------------------
+Type: Match the words | Book: উচ্চতর গণিত | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+What is the result of adding two vectors with the same direction?
+
+Options:
+a. The result is a vector with doubled magnitude.
+b. The result is a vector with zero magnitude.
+c. The result is a vector with halved magnitude.
+d. The result is a vector with opposite direction.
+
+
+Correct Answer: ক
+
+Solution:
+Solution:
+Let two vectors in the same direction be [math]\vec{A}=A\hat{u}[/math] and [math]\vec{B}=B\hat{u}[/math], where [math]\hat{u}[/math] is a common unit vector. Their sum is [math]\vec{A}+\vec{B}=(A+B)\hat{u}[/math]; if the two vectors have equal magnitude ([math]A=B[/math]) this becomes [math]2A\hat{u}[/math], i.e. a vector in the same direction with doubled magnitude. Therefore option (a) is correct. Options (b), (c), (d) are incorrect because zero magnitude requires equal and opposite vectors, halved magnitude would require division not addition, and opposite direction occurs when vectors point opposite to each other.
+
+Explanation:
+
+
+Sub-Questions:
+
