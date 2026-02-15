@@ -1,0 +1,1384 @@
+================================================================================
+Question #1 (ID: 410756)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Noakhali Govt. College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. [math]A[/math] বিন্দুতে মহাকর্ষীয় বিভব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, পৃথিবীর ভর, [math]\mathrm{M}=6 \times 10^{24} \mathrm{~kg}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6.4 \times 10^{6} \mathrm{~m}[/math]
+পৃথিবী পৃষ্ঠ হতে A বিন্দুর উচ্চতা, [math]\mathrm{h}=1000 \mathrm{~km}=10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{~N} \mathrm{~m}^{2} \mathrm{~kg}^{-2}[/math]
+A বিন্দুতে মহাকর্ষীয় বিভব, V = ?আমরা জানি,[math]\hspace{1.5cm}\begin{aligned}\mathrm V & =-\mathrm{\frac{G M}{(R+h)}} \\& =-\frac{6.67 \times 10^{-11} \times 6 \times 10^{24}}{6.4 \times 10^{6}+10^{6}} \\& =-\frac{6.67 \times 6 \times 10^{13}}{7.4 \times 10^{6}} \\& =-5.4 \times 10^{7} \mathrm{~J} \mathrm{~kg}^{-1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ A বিন্দুতে মহাকর্ষীয় বিভব [math]-5.4 \times 10^{7} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বিন্দুতে মোট মহাকর্ষীয় বিভব হচ্ছে প্রতিটি কণার দিকে থেকে যোগফল, কারণ বিভব একটি স্কেলার পরিমাণ এবং সুপারপজিশন প্রযোজ্য। তাই
+[math]V(A)= -\sum_i \dfrac{G\,m_i}{r_{iA}}[/math],
+এখানে [math]r_{iA}[/math] হলো প্রতিটি ভরের থেকে বিন্দু A পর্যন্ত দূরত্ব; মানে প্রতিটি ভরের জন্য [math]-Gm/r[/math] যোগ করে মোট বিভব পাওয়া যায় (নেগেটিভ সাইন আভাস করে আকর্ষণ)।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 410757)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Dinajpur Govt. College
+--------------------------------------------------------------------------------
+Question:
+[math]5.0[/math] কেজি ভরের একটি বস্তু ভূ-পৃষ্ঠ হতে মুক্তিবেগে নিক্ষেপ করায় এটি এমন একটি গ্রহে গেলো যার ভার পৃথিবীর ভরের দ্বিগুণ এবং ব্যাসার্ধ পৃথিবীর ব্যাসার্ধের সমান।
+
+Options:
+ঘ. গ্রহটির পৃষ্ঠে বস্তুটির বিভব শক্তি, পৃথিবী পৃষ্ঠের বিভব শক্তির কত বেশি বা কত কম হবে- গাণিতি কভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘপৃথিবী পৃষ্ঠের মহাকর্ষীয় বিভব শক্তি, [math]\mathrm{U}_{\mathrm{E}}=-\frac{\mathrm{GM}_{\mathrm{c}} \mathrm{m}}{\mathrm{R}_{2}}[/math]
+আবার, অন্য গ্রহটির পৃষ্ঠের মহাকর্ষীয় বিভবশক্তি, [math]\mathrm{U}=-\frac{\mathrm{G} \mathrm{M}^{\prime} \mathrm{m}}{\mathrm{R}^{\prime}}[/math]
+ [math]\hspace{8.5cm}\begin{array}{l}=-2 \times \frac{\mathrm{G} \mathrm{M}_{\mathrm{c}} \mathrm{m}}{\mathrm{R}_{\mathrm{e}}} \\=-2 \times \mathrm{U}_{\mathrm{E}}\end{array}[/math]
+এক্ষেত্রে অন্য গ্রহটির মহাকর্ষীয় বিভব শক্তি হবে পৃথিবীর মহাকর্ষীয় বিভব শক্তির দ্বিগুণ। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ গ্রহীয় বিভব শক্তি হলো [math]U=-\dfrac{G M m}{R}[/math]. এখানে নতুন গ্রহে [math]M'=2M[/math] এবং [math]R'=R[/math], তাই [math]U'=-\dfrac{G(2M)m}{R}=2\left(-\dfrac{G M m}{R}\right)=2U[/math]. ফলে পৃষ্ঠে বিভব শক্তি পৃথিবীর চেয়ে দুই গুণ বেশি (অর্থাৎ মানে দুই গুণ বেশি নেতিবাচক), তাই 5.0 কেজি বস্তুটিরও বিভব শক্তি দুই গুণ বৃদ্ধি পাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 410759)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023, 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board, Jessore Board
+--------------------------------------------------------------------------------
+Question:
+মহাকর্ষীয় প্রাবল্য কাকে বলে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+মহাকর্ষীয় ক্ষেত্রের কোনো বিন্দুতে একক ভরসম্পন্ন একটি বস্তু স্থাপন করলে বস্তুটি যে আকর্ষণ বল অনুভব করে তাকে ঐ ক্ষেত্রের জন্য ঐ বিন্দুর মহাকর্ষ ক্ষেত্র প্রাবল্য বলে।
+
+Explanation:
+মহাকর্ষীয় প্রাবল্য হলো ভরের মধ্যে স্বাভাবিক আকর্ষণীয় বল—একটি ভর অন্য ভরকে টানার প্রবণতা। এটি নিউটনের মহাকর্ষীয় সূত্রে বর্ণিত হয়, যার মান [math]F=G\frac{m_1m_2}{r^2}[/math], তাই ভরের মান বেশি হলে এবং দূরত্ব কম হলে আকর্ষণ শক্তি বেশি হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 410755)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: National Ideal College, Khilgaon, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে পৃথিবীতে একজন অ্যাথলেটের দীর্ঘ লম্ফে অতিক্রান্ত সর্বোচ্চ দূরত্ব দেখানো হয়েছে। (ধর, পৃথিবীর ভর ও ব্যাসার্ধ চাঁদের ভর ও ব্যাসার্ধের যথাক্রমে [math]80[/math] গুণ ও [math]4[/math] গুণ। পৃথিবী হতে চাঁদের দূরত্ব [math]3 \times 10^{5} \mathrm{~km}[/math] ও [math]G=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]।
+
+Options:
+গ. পৃথিবী ও চাঁদের মধ্যবর্তী কোন বিন্দুতে মহাকর্ষ প্রাবল্য সমান হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, পৃথিবী ও চাঁদের মধ্যবর্তী দূরত্ব, $ 3\times 10^{5} \mathrm{~km} $ধরি, চাঁদের ভর [math]\mathrm {M_m} =\mathrm M[/math]
+ [math]\therefore\hspace{.7cm}[/math]
+পৃথিবীর ভর, [math]\mathrm{M}_{\mathrm{e}}=80 \mathrm{M}[/math]
+ [math]\hspace{1cm}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{~N} \mathrm{~m}^{2} \mathrm{~kg}^{-2}[/math]
+ধরি, পৃথিবী হতে x মিটার দূরে কোনো বস্তু রাখলে তার উপর পৃথিবী ও চাঁদের মহাকর্ষ প্রাবল্য সমান হবে।
+[Image]
+[math]\hspace{1cm}[/math]
+পৃথিবী হতে বস্তুর দূরত্ব, [math]\mathrm {r_1}=\mathrm{~x~m}[/math]
+ [math]\hspace{1cm}[/math]
+চাঁদ হতে বস্তুর দূরত্ব, [math]\mathrm {r_2}=\mathrm{\left(3\times10^8-x\right)m}[/math]
+বস্তু ও পৃথিবীর মধ্যকার প্রাবল্য, [math]\mathrm{E}_{1}=\frac{\mathrm{GMe}}{\mathrm{r}_{1}{ }^{2}}=\frac{80 \mathrm{GM}}{\mathrm{x}^{2}}[/math]
+বস্তু ও চাঁদের মধ্যকার প্রাবল্য, [math]\mathrm{E}_{2}=\frac{\mathrm{GM}_{\mathrm{m}}}{\mathrm{r}_{2}{ }^{2}}=\frac{\mathrm{GM}}{\left(3 \times 10^{8}-\mathrm{x}\right)^{2}}[/math]
+প্রশ্নমতে, [math]\mathrm{E}_{1}=\mathrm{E}_{2}[/math]
+ [math]\hspace{.5cm}\begin{array}{l}\Rightarrow \frac{80\mathrm{GM}}{\mathrm{x}^2}=\frac{\mathrm{GM}}{\left(3\times 10^8-\mathrm{x}\right)^2}\\\Rightarrow \frac{80}{\mathrm{x}^2}=\frac{1}{\left(3\times 10^8-\mathrm{x}\right)^2}\\\Rightarrow \frac{4\sqrt{5}}{\mathrm{x}}=\mathrm{\frac{1}{3\times 10^8-x}}\\\Rightarrow \mathrm{x}=2.683\times 10^9-4\sqrt{5}\mathrm{x}\\\Rightarrow \mathrm{x+4\sqrt{5}x}=2.683\times 10^9\\\Rightarrow 10\mathrm{x}=27\times 10^8\\\therefore \quad \mathrm{x}=2.698\times 10^8\end{array}[/math]
+সুতরাং, পৃথিবী হতে [math]2.698 \times 10^{8} \mathrm{~m}[/math]
+ দূরে কোনো বিন্দুতে পৃথিবী চাঁদের মহাকর্ষ প্রাবল্য সমান হবে। [math]\\[/math]
+
+
+Explanation:
+গ হ্যাঁ—একটি বিন্দু থাকবে যেখানে আকর্ষণ সমান। নীতি: [math]\dfrac{GM_E}{x^2}=\dfrac{GM_M}{(D-x)^2}[/math] থেকে [math]\dfrac{x}{D-x}=\sqrt{\dfrac{M_E}{M_M}}=\sqrt{80}\approx8.944[/math], সুতরাং [math]x=\dfrac{\sqrt{80}}{1+\sqrt{80}}D\approx0.8995D\approx2.70\times10^5\ \text{km}[/math], অর্থাৎ পৃথিবীর কেন্দ্র থেকে প্রায় [math]2.70\times10^5\ \text{km}[/math] (চাঁদের দিকে প্রায় [math]3.0\times10^4\ \text{km}[/math] দূরে)।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 410754)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Dhaka City College
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি পৃথিবীর কেন্দ্র হতে দূরত্বের সাপেক্ষে [math]g[/math] এর পরিবর্তন দেখানো হয়েছে। একটি সেকেন্ড দোলক ভূ-পৃষ্ঠে সঠিক সময় দেয়।
+
+[Image]
+
+
+Options:
+গ. চিত্রে [math]B[/math] বিন্দুতে মহাকর্ষীয় প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক অনুসারে, পৃথিবীর ভর, [math]\mathrm{M}=6 \times 10^{24} \mathrm{~kg}[/math]
+O বিন্দু হতে B বিন্দুর দূরত্ব, OB = R = পৃথিবীর ব্যাসার্ধ[math]\hspace{1cm}\therefore \mathrm{OB}=\mathrm{R}=6.4 \times 10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{~N} \mathrm{~m}^{2} \mathrm{~kg}^{-2}[/math]
+B বিন্দুতে মহাকর্ষীয় প্রাবল্য E হলে,[math]\hspace{1.5cm}\begin{array}{l}\begin{aligned}\mathrm E&=\mathrm{\frac{GM}{R^2}}\\\Rightarrow\mathrm E&=\frac{6.673\times10^{-11}\times6\times10^{24}}{\left(6.4\times10^6\right)^2}\end{aligned}\\\Rightarrow\mathrm{E}=9.775\mathrm{~N}\mathrm{~kg}^{-1}\end{array}[/math]
+সুতরাং B বিন্দুতে মহাকর্ষীয় প্রাবল্য [math]9.775 \mathrm{~N} \mathrm{~kg}^{-1}[/math]
+| [math]\\[/math]
+
+
+Explanation:
+গ বাইরের ক্ষেত্রে মহাকর্ষীয় তীব্রতা ব্যাসার্ধের বর্গের বিপরীতভাবে বদলে, তাই যদি B বিন্দুতে দূরত্ব হচ্ছে দ্বিগুণ (つまり [math]r=2R[/math]) হয় তাহলে [math]g_B=\dfrac{g_{\text{পৃষ্ঠ}}}{2^2}=\dfrac{g_{\text{পৃষ্ঠ}}}{4}[/math]। সেকেন্ড দোলক ভূ-পৃষ্ঠে সঠিক হলে [math]g_{\text{পৃষ্ঠ}}\approx 9.8\ \text{m/s}^2[/math], অতএব [math]g_B=\dfrac{9.8}{4}=2.45\ \text{m/s}^2.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 410753)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি বস্তুর ভর যথাক্রমে 8000kg এবং 6000kg । বস্তুদ্বয় 0.25m ব্যবধানে অবস্থিত।
+
+(ক) A ও B থেকে যথাক্রমে 0.20m এবং 0.15m দূরে অবস্থিত একটি বিন্দু P তে উভয় বস্তুর জন্য সৃষ্ট মহাকর্ষীয় ক্ষেত্রে প্রাবল্যের লব্ধির মান নির্ণয় কর।
+
+(খ) বস্তু দুটির জন্য P বিন্দুতে মহাকর্ষীয় বিভব কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]2.22436 \times 10^{-5} \mathrm{Nkg}^{-1}[/math]
+ (খ) [math]-5.3384 \times 10^{-6} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,A বস্তুর ভর, [math]\mathrm{m}_{\mathrm{A}}=8000 \mathrm{~kg}[/math]
+B বস্তুর ভর, [math]\mathrm{m}_{\mathrm{B}}=6000 \mathrm{~kg}[/math]
+A হতে P বিন্দুর দূরত্ব, [math]r_{1}=0.20 \mathrm{~m}[/math]
+B হতে P বিন্দুর দূরত্ব, [math]r_{2}=0.15 \mathrm{~m}[/math]
+ AB = 0.25 mমহাকর্ষ ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+লব্ধি প্রাবল্য, E = ?(ক)
+[Image]
+A বস্তুর জন্য P বিন্দুতে প্রাবল্যের মান, [math]\mathrm{E}_{\mathrm{A}}=\frac{\mathrm{Gm}_{\mathrm{A}}}{\mathrm{r}_{\mathrm{l}}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]E_{A}=\frac{6.673 \times 10^{-11} \times 8000}{(0.20)^{2}}[/math]
+ [math]\therefore \mathrm{E}_{\mathrm{A}}=1.3346 \times 10^{-5} \mathrm{Nkg}^{-1} \text { }[/math]
+B বস্তুর জন্য P বিন্দুতে প্রাবল্যের মান, [math]\mathrm{E}_{\mathrm{B}}=\frac{\mathrm{Gm}_{\mathrm{B}}}{\mathrm{r}_{2}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\therefore \mathrm{E}_{\mathrm{B}}=1.7795 \times 10^{-5} \mathrm{Nkg}^{-1}[/math]
+APB ত্রিভুজে,[math]\begin{aligned}A P^{2}+B P^{2} & =(0.20)^{2}+(0.15)^{2} \\& =0.0625=(0.25)^{2}=(\mathrm{AB})^{2}\end{aligned}[/math]
+ [math]\therefore \angle \mathrm{APB}=90^{\circ}[/math]
+লব্ধি প্রাবল্য ,[math]\begin{aligned}E & =\sqrt{E_{\mathrm{A}}^{2}+\mathrm{E}_{\mathrm{B}}^{2}} \\& =\sqrt{\left(1.3346 \times 10^{-5}\right)^{2}+\left(1.7795 \times 10^{-5}\right)^{2}} \\& =2.22436 \times 10^{-5} \mathrm{Nkg}^{-1} \text { (Ans.) }\end{aligned}[/math]
+(খ) বস্তুদ্বয়ের জন্য P বিন্দুতে মহাকর্ষ বিভব. [math]V=V_{A}+V_{B}[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-\frac{G m_{A}}{r_{1}}-\frac{G m_{B}}{r_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-\frac{6.673 \times 10^{-11} \times 8000}{0.20}-\frac{6.673 \times 10^{-11} \times 6000}{0.15}[/math]
+ [math]\therefore \mathrm{V}=-5.3384 \times 10^{-6} \mathrm{~J} \mathrm{~kg}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক A ও B থেকে P তে ক্ষেত্রের মান প্রত্যেকে [math]g=Gm/r^2[/math] অনুযায়ী হবে; প্রথমে A ও B এর অবস্থানদলের মধ্যবর্তী কোণ নির্ণয় করলে ল'অফ কজিনস ব্যবহারে [math]\cos\theta=\dfrac{PA^2+PB^2-AB^2}{2\cdot PA\cdot PB}=\dfrac{0.20^2+0.15^2-0.25^2}{2(0.20)(0.15)}=0[/math], তাই কোণ [math]90^\circ[/math] এবং দুই ক্ষেত্র পরস্পর লম্ব। অতএব [math]g_A=\dfrac{G\cdot8000}{0.20^2}=1.334\times10^{-5}\,\mathrm{m/s^2}[/math], [math]g_B=\dfrac{G\cdot6000}{0.15^2}=1.778\times10^{-5}\,\mathrm{m/s^2}[/math] এবং লব্ধ মান [math]g=\sqrt{g_A^2+g_B^2}=2.22\times10^{-5}\,\mathrm{m/s^2}[/math]।
+
+খ মহাকর্ষীয় বিভব একটি স্কেলার এবং যোগযোগযোগ্য: [math]V=-G\Big(\dfrac{8000}{0.20}+\dfrac{6000}{0.15}\Big)=-G(40000+40000)=-G(80000)=-5.336\times10^{-6}\,\mathrm{J/kg}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 410746)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+শিক্ষক শ্রেণিকক্ষে মহাকর্ষীয় বিভব ও মহাকর্ষীয় বিভবশক্তি বুঝিয়ে গাণিতিকভাবে দেখালেন M এর জন্য r দূরে মহাকর্ষীয় বিভব ও মহাকর্ষীয় বিভবশক্তি যথাক্রমে [math]V=-\frac{G M}{r}[/math] এবং [math]\mathrm{U}=-\frac{\mathrm{GMm}}{\mathrm{r}}, \mathrm{m}[/math] হলো M হতে r দূরে স্থাপিত বস্তুর ভর। এরপর বোর্ডে তিনি উপরিউক্ত বর্ণটি আঁকলেন যার প্রতি বাহুর দৈর্ঘ্য d = 0.600 m; বর্গের চারটি কৌণিক বিন্দুতে m = 20.0 g ভর স্থাপন করা হয়েছে বলে বুঝিয়ে দিলেন। দ্বিতীয়বার তিনি বর্গের আকৃতি ছোট করে প্রতি বাহুর দৈর্ঘ্য 0.200 m করে উভয়ক্ষেত্রেই বিভব ও বিভবশক্তির পরিবর্তন নির্ণয় করতে বললেন। এতে বেশ কিছু ছাত্রছাত্রী শিক্ষকের প্রদত্ত সমস্যা সমাধান করতে সক্ষম হলো। উল্লেখ্য যে, কেন্দ্রে স্থাপিত ভর 9.54 gm।
+
+Options:
+ঘ. দ্বিতীয়ক্ষেত্রে মহাকর্ষীয় বিভব ও বিভবশক্তির কেন এবং কীরূপ পরিবর্তন হয়েছিল সে সম্পর্কে তোমার যুক্তিসঙ্গত ধারণা ব্যক্ত কর ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,প্রতিটি শীর্ষের ভর, [math]m = 20.0 \mathrm{~g}=0.02 \mathrm{~kg}[/math]
+বাহুর দৈর্ঘ্য, [math]\mathrm{a}=0.2 \mathrm{~m}[/math]
+কর্ণ [math]=\sqrt{2} \times 0.2=0.28 \mathrm{~m}[/math]
+কেন্দ্র থেকে শীর্ষের দূরত্ব, [math]r = =0.14 \mathrm{~m}[/math]
+কেন্দ্রের ভর, [math]\mathrm{m}_{1}=9.54 \times 10^{-3} \mathrm{~kg}[/math]
+মহাকর্ষ ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+(গ) হতে প্রাপ্ত বিভব, [math]\mathrm{V}_{1}=-1.25 \times 10^{-11} \mathrm{~J} / \mathrm{kg}[/math]
+বিভব শক্তি, [math]\mathrm{U}_{1}=-1.2 \times 10^{-13} \mathrm{~J}[/math]
+এক্ষেত্রে, বিভব, [math]V_{2}=?[/math]
+এবং বিভবশক্তি, [math]\mathrm{U}_{2}=\text { ? }[/math]
+দ্বিতীয় ক্ষেত্রে,বিভব, [math]v_{2}=-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}[/math]
+ [math]v_{2}=-\frac{4 G m}{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]v_{2}=\frac{-4 \times 6.673 \times 10^{-11} \times 0.02}{0.14}[/math]
+ [math]\therefore \mathrm{v}_{2}=-3.81 \times 10^{-11} \mathrm{~J} / \mathrm{kg}>\mathrm{v}_{1}[/math]
+এবং বিভবশক্তি [math]\mathrm{U}_{2}=-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}} -\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{U}_{2}=-\frac{4 \mathrm{Gmm}_{1}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{U}_{2}=-4 \times \frac{6.673 \times 10^{-11} \times 0.02 \times 9.54 \times 10^{-3}}{0.14}[/math]
+ [math]\therefore U_{2}=-3.6 \times 10^{-3}[/math]
+ [math]\therefore \mathrm{U}_{2}>\mathrm{U}_{1}[/math]
+ [শুধু মান বিবেচনা করে]অতএব, দ্বিতীয়ক্ষেত্রে বিভব ও বিভবশক্তির মান প্রথম ক্ষেত্রের চেয়ে বেশি হবে। কারণ এ ক্ষেত্রে যেকোনো দুটি ভরের মধ্যবর্তী দূরত্ব হ্রাস পেয়েছে।
+
+Explanation:
+ঘ কারণ কেন্দ্রিং চারটি কোণীয় ভরের মোট বিভব [math]V_{\text{total}}=4\left(-\frac{Gm}{r}\right)=-\frac{4\sqrt{2}\,Gm}{d}[/math] (এখানে [math]r=d/\sqrt{2}[/math]) তাই [math]V[/math] সরাসরি [math]1/d[/math]-এর অনুপাতে বদলায়; যখন [math]d[/math] ছিল [math]0.600\to0.200\,[\text{m}][/math] হলে [math]d[/math] কমেছে তিনগুণ, ফলে [math]V[/math] তিনগুণ বেশি নেতিবাচক হয়। কেন্দ্রীয় ভরের বিভবশক্তি [math]U=MV[/math] হওয়ায় একই অনুপাতেই (তিনগুণ) পরিবর্তন ঘটে।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 410747)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বাংলাদেশের মহাকাশ বিজ্ঞানীগণ 10,000 kg ভরের একটি কৃত্রিম উপগ্রহকে ২০১৫ সালের ১ জানুয়ারি পৃথিবীর কেন্দ্র হতে [math]2 R_{E}[/math] দূরত্বে সফলভাবে স্থাপন করলেন যেন উপগ্রহটি পৃথিবীকে কেন্দ্র করে বৃত্তকার পথে ঘুরতে পারে। ২০১৭ সালে আরো আধুনিক কার্যক্রমের জন্য বিজ্ঞানীগণ সিদ্ধান্ত নেন, কৃত্রিম উপগ্রহটিকে পৃথিবীর কেন্দ্র হতে [math]3 R_{E}[/math] দূরত্বে বৃত্তাকার কক্ষপথে স্থানান্তর করতে হবে। ঐ স্থানান্তরের জন্য তারা প্রয়োজনীয় কাজ সফলতার সাথে সম্পন্ন করলেন। বিজ্ঞানীদের জানা ছিল পৃথিবীর ব্যাসার্ধ ও ভর যথাক্রমে, [math]R_{E}[/math] [math]=6.4 \times 10^{6} \mathrm{~m}[/math] এবং [math]M_{E}=6 \times 10^{24} \mathrm{~kg}[/math] প্রায়।
+
+Options:
+গ. কৃত্রিম উপগ্রহটিকে পৃথিবীর কেন্দ্র হতে [math]2 R_{E}[/math] থেকে [math]3 R_{E}[/math] দূরত্বে সরাতে কৃতকাজ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,কৃত্রিম উপগ্রহের ভর, [math]\mathrm{m}=10,000 \mathrm{~kg}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}_{\mathrm{E}}=6.4 \times 10^{6} \mathrm{~m}[/math]
+পৃথিবীর ভর, [math]\mathrm{M}_{\mathrm{E}}=6 \times 10^{24} \mathrm{~kg}[/math]
+উপগ্রহের আদি অবস্থান,[math]\begin{aligned}\mathrm{x}_{\mathrm{i}}=2 \mathrm{R}_{\mathrm{E}} & =2 \times 6.4 \times 10^{6} \mathrm{~m} \\& =12.8 \times 10^{6} \mathrm{~m}\end{aligned}[/math]
+উপগ্রহের শেষ অবস্থান,[math]\begin{aligned}\mathrm{x}_{\mathrm{f}}=3 \mathrm{R}_{\mathrm{E}} & =3 \times 6.4 \times 10^{6} \mathrm{~m} \\& =19.2 \times 10^{6} \mathrm{~m}\end{aligned}[/math]
+মহাকর্ষ ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+কৃতকাজ, W = ?আমরা জানি,অভিকর্ষ বলের বিরুদ্ধে কৃতকাজ,[math]\mathrm{W}=\mathrm{GM}_{\mathrm{E}} \mathrm{m}\left(\frac{1}{\mathrm{x}_{\mathrm{i}}}-\frac{1}{\mathrm{x}_{\mathrm{f}}}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{W}=\mathrm{GM}_{\mathrm{E}} \mathrm{m}\left(\frac{2}{\mathrm{R}_{\mathrm{E}}}-\frac{1}{3 \mathrm{R}_{\mathrm{E}}}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{W}=\mathrm{GM}_{\mathrm{E}} \mathrm{m} \frac{3-2}{6 \mathrm{R}_{\mathrm{E}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{W}=\frac{\mathrm{GM}_{\mathrm{E}} \mathrm{m}}{6 \mathrm{R}_{\mathrm{E}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{W}=\frac{6.673 \times 10^{-11} \times 6 \times 10^{24} \times 10000}{6 \times 6.4 \times 10^{6}}[/math]
+ [math]\therefore \quad \mathrm{W}=1.043 \times 10^{11} \mathrm{~J} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ কৃত্রিম উপগ্রহকে সরাতে প্রয়োজনীয় কাজ হলো গ্রাভিটেশনাল পটেনশিয়াল এনার্জির পরিবর্তন, [math]ΔU=GMm\left(\frac{1}{r_i}-\frac{1}{r_f}\right)[/math]. এখানে [math]GMm=(6.67\times10^{-11})(6\times10^{24})(1\times10^{4})=4.002\times10^{18}[/math] এবং [math]\frac{1}{2R_E}-\frac{1}{3R_E}=2.60417\times10^{-8}[/math], তাই [math]ΔU\approx4.002\times10^{18}\times2.60417\times10^{-8}\approx1.04\times10^{11}\ \text{J}[/math]. ফলে প্রায় [math]1.04\times10^{11}[/math] জুল ধনাত্মক কাজ করা হয়েছে, অর্থাৎ উপগ্রহটিকে ভূপ্রবাহের বিরুদ্ধে তুলতে এই কাজটি প্রয়োজন।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 410748)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বাংলাদেশের মহাকাশ বিজ্ঞানীগণ 10,000 kg ভরের একটি কৃত্রিম উপগ্রহকে ২০১৫ সালের ১ জানুয়ারি পৃথিবীর কেন্দ্র হতে [math]2 R_{E}[/math] দূরত্বে সফলভাবে স্থাপন করলেন যেন উপগ্রহটি পৃথিবীকে কেন্দ্র করে বৃত্তকার পথে ঘুরতে পারে। ২০১৭ সালে আরো আধুনিক কার্যক্রমের জন্য বিজ্ঞানীগণ সিদ্ধান্ত নেন, কৃত্রিম উপগ্রহটিকে পৃথিবীর কেন্দ্র হতে [math]3 R_{E}[/math] দূরত্বে বৃত্তাকার কক্ষপথে স্থানান্তর করতে হবে। ঐ স্থানান্তরের জন্য তারা প্রয়োজনীয় কাজ সফলতার সাথে সম্পন্ন করলেন। বিজ্ঞানীদের জানা ছিল পৃথিবীর ব্যাসার্ধ ও ভর যথাক্রমে, [math]R_{E}[/math] [math]=6.4 \times 10^{6} \mathrm{~m}[/math] এবং [math]M_{E}=6 \times 10^{24} \mathrm{~kg}[/math] প্রায়।
+
+Options:
+ঘ. বিজ্ঞানীদের কেন কাজ করতে হয়েছিল এবং সে কাজ কৃত্রিম উপগ্রহের শক্তি কতটুকু বৃদ্ধি বা হ্রাস করেছিল সে সম্পর্কে তোমার যুক্তিসঙ্গত মতামত দাও৷
+
+
+Correct Answer: 
+
+Solution:
+ঘকৃত্রিম উপগ্রহটিকে পৃথিবী ও ঐ উপগ্রহের মহাকর্ষ বলের বিরুদ্ধে সরানোর জন্য কাজ করতে হয়েছিল।এখানে,মহাকর্ষ ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}_{\mathrm{E}}=6.4 \times 10^{6} \mathrm{~m}[/math]
+পৃথিবীর ভর, [math]\mathrm{M}=6 \times 10^{24} \mathrm{~kg}[/math]
+১ম অবস্থান [math]=2 \mathrm{R}_{\mathrm{E}}[/math]
+২য় অবস্থান [math]=3 \mathrm{R}_{\mathrm{E}}[/math]
+কৃত্রিম উপগ্রহের ভর, [math]\mathrm{m}=10000 \mathrm{~kg}[/math]
+১ম অবস্থানে বিভবশক্তি,[math]\mathrm{E}_{\mathrm{i}}=-\frac{\mathrm{GM}_{\mathrm{E}} \mathrm{m}}{2 \mathrm{R}_{\mathrm{E}}}[/math]
+শেষ অবস্থানে বিভবশক্তি, [math]\mathrm{E}_{\mathrm{f}}=-\frac{\mathrm{GM}_{\mathrm{E}} \mathrm{m}}{3 \mathrm{R}_{\mathrm{E}}}[/math]
+ [math]\therefore[/math]
+ বিভবশক্তির পরিবর্তন,[math]\begin{aligned}\Delta \mathrm{E} & =\mathrm{E}_{\mathrm{f}}-\mathrm{E}_{\mathrm{i}} \\& =-\frac{\mathrm{GM}_{\mathrm{E}} \mathrm{m}}{3 \mathrm{R}_{\mathrm{E}}}-\left(-\frac{\mathrm{GM}_{\mathrm{E}} \mathrm{m}}{2 \mathrm{R}_{\mathrm{E}}}\right) \\& =\frac{\mathrm{GM}_{\mathrm{E}} \mathrm{m}}{6 \mathrm{R}_{\mathrm{E}}} \\& =\frac{6.673 \times 10^{-11} \times 6 \times 10^{24} \times 10000}{6 \times 6.4 \times 10^{6}}\end{aligned}[/math]
+যেহেতু কৃত্রিম উপগ্রহের আদিত বিভব শক্তির তুলনায় শেষ বিভব শক্তি [math]1.04 \times 10^{11} \mathrm{~J}[/math]
+ বৃদ্ধি করেছিল সেহেতু কৃত্রিম উপগ্রহের শক্তি [math]1.04 \times10^{11} \mathrm{~J}[/math]
+ বৃদ্ধি পেয়েছিল।
+
+Explanation:
+ঘ কারণ বৃত্তাকার কক্ষপথের মোট যান্ত্রিক শক্তি [math]E=-\dfrac{GMm}{2r}[/math] হয়, বড় ব্যাসার্ধে (r বৃদ্ধি পেলে) E কম নেতিবাচক হয়ে মোট শক্তি বেড়ে যায়—অতএব উপগ্রহকে উপরদিকে নিɣহন করার জন্য বাইরে থেকে ধনাত্মক কাজ দিতে হয়। পরিবর্তনটি হচ্ছে [math]\Delta E=E_{3R_E}-E_{2R_E}=\dfrac{GMm}{12R_E}[/math], এবং সংখ্যায় ≈ [math]\dfrac{6.67\times10^{-11}\times6\times10^{24}\times10^{4}}{12\times6.4\times10^{6}}\approx5.2\times10^{10}\ \text{J}[/math]; অর্থাৎ বিজ্ঞানীরা প্রায় [math]5.2\times10^{10}[/math] জুল কাজ করে উপগ্রহের শক্তি বৃদ্ধি করেছেন।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 410749)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+100 kg ভরের একটি গুরুভার বস্তুর ভারকেন্দ্র হতে 10m দূরত্বে অবস্থিত কোনো বিন্দুতে মহাকর্ষীয় বিভব এবং প্রাবল্য নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-6.67 \times 10^{-10} \mathrm{Jkg}^{-1}[/math]
+ , [math]=6.67 \times 10^{-11} \mathrm{Nkg}^{-1}[/math]
+)[math]\\[/math]
+Solution :এখানে,বস্তুর ভর, M = 100 kgদূরত্ব, r = 10mমহাকর্ষীয় ধ্রুবক, [math]G=6.67 \times 10^{-11} \mathrm{~N}-\mathrm{m}^{2} \mathrm{~kg}^{-2}[/math]
+মহাকর্ষীয় বিভব, V= ?মহাকর্ষীয় প্রাবল্য, [math]\mathrm{E}_{\mathrm{G}}=?[/math]
+আমরা জানি,[math]V=-\frac{G M}{r}[/math]
+ [math]\begin{array}{l}=-\frac{6.67 \times 10^{-11} \times 100}{10} \\=-6.67 \times 10^{-10} \mathrm{Jkg}^{-1} \text { (Ans.) }\end{array}[/math]
+আবার, [math]E_{G}=\frac{G M}{r^{2}}[/math]
+ [math]\begin{array}{l}=\frac{6.67 \times 10^{-11} \times 100}{10^{2}} \\=6.67 \times 10^{-11} \mathrm{Nkg}^{-1} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি বিন্দুতে মহাকর্ষীয় বিভব ও প্রাবল্য যথাক্রমে [math]\Phi=-\dfrac{GM}{r}[/math] এবং [math]g=\dfrac{GM}{r^2}[/math] দ্বারা দেওয়া; এখানে [math]G=6.67\times10^{-11}\ \text{N·m}^2/\text{kg}^2[/math], [math]M=100\ \text{kg}[/math], [math]r=10\ \text{m}[/math]. তাই, [math]\Phi=-\dfrac{6.67\times10^{-11}\times100}{10}=-6.67\times10^{-10}\ \text{J/kg}[/math] এবং [math]g=\dfrac{6.67\times10^{-11}\times100}{10^2}=6.67\times10^{-11}\ \text{m/s}^2[/math] (দিক: ভরের দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 410750)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+M kg ভরের কয়েকটি বিন্দু বস্তুতে একটি নির্দিষ্ট বিন্দু O হতে যথাক্রমে 1m, 2m, 4m, 8m ইত্যাদি দূরে রাখা হলে O বিন্দুতে মহাকর্ষীয় বিভবের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\frac{-15}{8} \mathrm{GM} \mathrm{J} / \mathrm{kg}[/math]
+ )[math]\\[/math]
+Solution :এখানে,প্রতিটি বস্তুর ভর = M'O' হতে দূরত্ব,[math]\begin{array}{l}r_{1}=1 \mathrm{~m} \\r_{2}=2 \mathrm{~m} \\r_{3}=4 \mathrm{~m} \\r_{4}=8 \mathrm{~m}\end{array}[/math]
+মাহাকর্ষ ধ্রুবক, [math]G=6.673 \times[/math]
+ [math]10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+'O' বিন্দুতে মোট মহাকর্ষীয় বিভব,[math]\mathrm{V}=-\frac{\mathrm{GM}}{r_{1}}-\frac{\mathrm{GM}}{r_{2}}-\frac{\mathrm{GM}}{r_{3}}-\frac{\mathrm{GM}}{r_{4}}[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-G M\left(\frac{1}{r_{1}}+\frac{1}{r_{2}}+\frac{1}{r_{3}}+\frac{1}{r_{4}}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{V}=-\mathrm{GM}\left(\frac{1}{1}+\frac{1}{2}+\frac{1}{4}+\frac{1}{8}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-G M \times \frac{15}{8} G M[/math]
+ [math]\therefore \mathrm{V}=\frac{-15}{8} \mathrm{GM} \mathrm{J} / \mathrm{kg} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: মহাকর্ষীয় বিভবগুলি সুপারপজিশন সূত্রে যোগ হয় এবং প্রতিটি বিন্দু ভরের অবদান থাকে [math]-\dfrac{GM}{r}[/math], যেখানে [math]r=1,2,4,8,\dots[/math]। তাই মোট বিভব [math]V=-GM\sum_{k=0}^{\infty}\dfrac{1}{2^{k}}=-GM\cdot 2=-2GM[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 410751)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+2000 kg ভরবিশিষ্ট কোনো বস্তু থেকে 10 মিটার দূরে কোনো বিন্দুতে বিভব নির্ণয় করো। [math]\left(G =6.67 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}\right)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-1.334 \times 10^{-8} \mathrm{~J} \mathrm{~kg}^{-1}[/math] )
+
+Explanation:
+সমাধান: মহাকর্ষীয় বিভব [math]V=-\dfrac{GM}{r}[/math]। এখানে [math]G=6.67\times10^{-11},\ M=2000\ \mathrm{kg},\ r=10\ \mathrm{m}[/math], তাই [math]V=-\dfrac{6.67\times10^{-11}\times2000}{10}=-1.334\times10^{-8}\ \mathrm{J\,kg^{-1}}[/math]। নেতিবাচক চিহ্নটি দেখায় যে বিভব আকর্ষণীয়—বস্তুকে ওই বিন্দুতে আনতে বাহ্যিক কাজ করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 410752)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীকে [math]5.5 \times 10^{3} \mathrm{kgm}^{-3}[/math] গড় ঘনত্বের তৈরি [math]6.4 \times 10^{6 } \mathrm{~m}[/math] ব্যাসার্ধের একটি গোলক হিসাবে বিবেচনা করে এর পৃষ্ঠের বিভব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-6.32 \times 10^{7} \mathrm{Jkg}^{-1}[/math])
+
+Explanation:
+ব্যাখ্যা: একটি সমঘন গোলকের পৃষ্ঠের বিভব [math]\Phi=-\dfrac{GM}{R}[/math] যেখানে [math]M=\rho\frac{4}{3}\pi R^3[/math], তাই [math]\Phi=-\dfrac{4}{3}\pi G\rho R^2[/math]. সংখ্যাগতভাবে [math]\Phi\approx -\dfrac{4}{3}\pi(6.67\times10^{-11})(5.5\times10^3)(6.4\times10^6)^2\approx -6.3\times10^7\ \mathrm{J/kg}[/math]. এটি ঋণাত্মক, অর্থাৎ অসীম থেকে পৃষ্ঠে একক ভর আনতে এপরিমাণ কাজ করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 410745)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+শিক্ষক শ্রেণিকক্ষে মহাকর্ষীয় বিভব ও মহাকর্ষীয় বিভবশক্তি বুঝিয়ে গাণিতিকভাবে দেখালেন M এর জন্য r দূরে মহাকর্ষীয় বিভব ও মহাকর্ষীয় বিভবশক্তি যথাক্রমে [math]V=-\frac{G M}{r}[/math] এবং [math]\mathrm{U}=-\frac{\mathrm{GMm}}{\mathrm{r}}, \mathrm{m}[/math] হলো M হতে r দূরে স্থাপিত বস্তুর ভর। এরপর বোর্ডে তিনি উপরিউক্ত বর্ণটি আঁকলেন যার প্রতি বাহুর দৈর্ঘ্য d = 0.600 m; বর্গের চারটি কৌণিক বিন্দুতে m = 20.0 g ভর স্থাপন করা হয়েছে বলে বুঝিয়ে দিলেন। দ্বিতীয়বার তিনি বর্গের আকৃতি ছোট করে প্রতি বাহুর দৈর্ঘ্য 0.200 m করে উভয়ক্ষেত্রেই বিভব ও বিভবশক্তির পরিবর্তন নির্ণয় করতে বললেন। এতে বেশ কিছু ছাত্রছাত্রী শিক্ষকের প্রদত্ত সমস্যা সমাধান করতে সক্ষম হলো। উল্লেখ্য যে, কেন্দ্রে স্থাপিত ভর 9.54 gm।
+
+Options:
+গ. প্রথমক্ষেত্রে মহাকর্ষীয় বিভব ও বিভবশক্তি কীরূপ ছিল?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকে কেন্দ্রে স্থাপিত ভর [math]\mathrm{m}_{1}=9.54 \times 10^{-3} \mathrm{~kg}[/math]
+এখানে,ভর, [math]\mathrm{m}=20 \mathrm{~g}=0.02 \mathrm{~kg}[/math]
+বাহুর দৈর্ঘ্য, [math]\mathrm{d}=0.600 \mathrm{~m}[/math]
+কর্ণ,[math]\begin{array}{l}=\sqrt{2 \mathrm{~d}}=\sqrt{2} \times 0.6 \\=0.85 \mathrm{~m}\end{array}[/math]
+ [math]\therefore[/math]
+ কেন্দ্র হতে প্রতিটি শীর্ষের দূরত্ব,[math]r=\frac{\sqrt{2} d}{2}[/math]
+ [math]\begin{array}{l}=\frac{\sqrt{2} \times 0.6}{2} \\=0.425 \mathrm{~m}\end{array}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+মহাকর্ষীয় বিভব, V = ?বিভবশক্তি, U =?মহাকর্ষীয় বিভব ,[math]V=-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{V}=-\frac{4 \mathrm{Gm}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-\frac{4 \times 6.673 \times 10^{-11} \times 0.02}{0.425}[/math]
+ [math]\therefore \mathrm{V}=-1.26 \times 10^{-11} \mathrm{~J} / \mathrm{kg} \text { (Ans.) }[/math]
+বিভব শক্তি, [math]\mathrm{U}=-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}} -\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}[/math]
+ [math]\begin{array}{l}=-4 \frac{\mathrm{Gmm}_{1}}{\mathrm{r}} \\=-4 \times \frac{6.673 \times 10^{-11} \times 0.02 \times 9.54 \times 10^{-3}}{0.425} \\=-1.2 \times 10^{-13} \mathrm{~J} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ কেন্দ্র থেকে কোন কৌণিক বিন্দু পর্যন্ত দূরত্ব [math]r=\dfrac{d}{\sqrt{2}}=\dfrac{0.600}{\sqrt{2}}\approx0.424\ \text{m}[/math]. মহাকর্ষীয় বিভব স্কেলার হওয়ায় চারটি বিন্দুর অবদান যোগ হয়, ফলে [math]V=\sum -\frac{Gm}{r}=-\frac{4Gm}{r}=-\frac{4G(0.020)}{0.424}\approx-1.26\times10^{-11}\ \mathrm{m^2s^{-2}}[/math]. সমানভাবে বিভবশক্তি হলো [math]U=\sum -\frac{GMm}{r}=-\frac{4GMm}{r}=-\frac{4G(0.00954)(0.020)}{0.424}\approx-1.20\times10^{-13}\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 410739)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+10m দূরত্বে স্থাপিত 100 kg ও 150 kg ভরের মধ্যবর্তী কোন বিন্দুতে মহাকর্ষীয় ক্ষেত্র প্রাবল্য শূন্য ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 4.49 m)[math]\\[/math]
+Solution :
+[Image]
+ধরি, 100 kg বস্তু থেকে x m দূরে লব্ধি প্রাবল্য শূন্য ।সুতরাং, 100 kg এর জন্য প্রাবল্য [math]=\frac{\mathrm{GM}_{1}}{\mathrm{x}^{2}}=\frac{100 G}{\mathrm{x}^{2}}[/math]
+ (OA বরাবর)150 kg এর জন্য প্রাবল্য [math]=\frac{G_{2}}{(10-x)^{2}}=\frac{150 G}{(10-x)^{2}}[/math]
+ (OB বরাবর)লব্ধি প্রাবল্য শূন্য হতে হলে প্রাবল্যদ্বয়ের মান সমান কিন্তু দিক বিপরীত হতে হবে ।সুতরাং [math]\frac{100 G}{x^{2}}=\frac{150 G}{(10-x)^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{2}{x^{2}}=\frac{3}{(10-x)^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\left(\frac{10-x}{x}\right)^{2}=\frac{3}{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{10-x}{x}=\sqrt{\frac{3}{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{10-x}{x}=1.22[/math]
+ [math]\Rightarrow[/math]
+ [math]10-x=1.22 x[/math]
+ [math]\Rightarrow[/math]
+ [math]10=1.22 x+x[/math]
+ [math]\Rightarrow[/math]
+ [math]x=\frac{10}{2.22}=4.49 \mathrm{~m} \text { (Ans.) }[/math]
+
+
+Explanation:
+মহাকর্ষ ক্ষেত্র শূন্য হবার জন্য দুই ভরের সৃষ্টি করা ক্ষেত্রের পরিমাণ সমান হতে হবে, তাই [math]G\frac{100}{x^2}=G\frac{150}{(10-x)^2}[/math] এবং এখানে থেকে [math]x=\frac{10}{1+\sqrt{150/100}}=\frac{10}{1+\sqrt{3/2}}\approx4.49\ \text{m}[/math]. ফলে শূন্যবিন্দু ছোট ভরের (100 kg) পাশে থাকে কারণ বড় ভর (150 kg) বেশি ক্ষেত্র সৃষ্টি করে, তাই সমতা বজায় রাখতে শূন্যবিন্দু ছোট ভরের কাছাকাছি হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 410740)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অসীম দূর থেকে মহাকর্ষ ক্ষেত্রে কোনো বিন্দুতে 20 kg ভরের বস্তু আনতে [math]1.334 \times 10^{-5 } \mathrm{~J}[/math] কাজ করতে হয়। ঐ বিন্দুর বিভব কত? বিন্দুটি 5000 kg ভরের কোনো বস্তু থেকে কত দূরত্বে অবস্থিত? [math]\left[\mathrm{G}=6.67 \times 10^{-11} \mathrm{~N}^{2} \mathrm{~m}^{2} \cdot \mathrm{kg}^{-2}\right][/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.5 \mathrm{~m}[/math]
+)[math]\\[/math]
+Solution :এখানে, বস্তুর ভর,m = 20 kgকাজ, [math]\mathrm{W}=1.334 \times 10^{-5} \mathrm{~J}[/math]
+বিভব, V = ?২য় বস্তুর ভর,M = 5000kgএবং দূরত্ব, r = ?মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.67 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+আমরা জানি,[math]\mathrm{V}=\frac{\mathrm{W}}{\mathrm{m}}=\frac{-1.334 \times 10^{-5} \mathrm{~J}}{20 \mathrm{~kg}}[/math]
+ [মহাকর্ষ বিভব সর্বদা ঋণাত্মক][math]=-6.67 \times 10^{-7} \mathrm{Jkg}^{-1}[/math]
+আবার, [math]V=\frac{-G M}{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]6.67 \times 10^{-7} \mathrm{Jkg}^{-1}=\frac{-6.67 \times 10^{-11} \times 5000}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]{\mathrm{r}}=\frac{-6.67 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2} \times 5000 \mathrm{~kg}}{6.67 \times 10^{-7} \mathrm{Jkg}^{-1}}[/math]
+ [math]\therefore \quad r=0.5 \mathrm{~m} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অসীম থেকে আনানোর কাজটি ভরপূর্ণিক বিভবের পরিবর্তন, তাই [math]W=m\phi[/math]; তাই [math]\phi=\dfrac{1.334\times10^{-5}}{20}=6.67\times10^{-7}\ \mathrm{J/kg}[/math], কিন্তু মহাকর্ষীয় বিভব সাধারণত নেতিবাচক হয়, সুতরাং [math]\phi=-6.67\times10^{-7}\ \mathrm{J/kg}[/math]. विभव দিয়ে দূরত্ব পাওয়া যায়: [math]\phi=-\dfrac{GM}{r}\Rightarrow r=\dfrac{GM}{|\phi|}=\dfrac{6.67\times10^{-11}\times5000}{6.67\times10^{-7}}=0.5\ \mathrm{m}.
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 410741)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+100 kg ভরের একটি গুরুভার বস্তুর ভারকেন্দ্র হতে 10m দূরত্বে অবস্থিত কোনো বিন্দুতে মহাকর্ষীয় বিভব এবং প্রাবল্য নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-6.67 \times 10^{-10} \mathrm{Jkg}^{-1}[/math]
+ , [math]=6.67 \times 10^{-11} \mathrm{Nkg}^{-1}[/math]
+)[math]\\[/math]
+Solution :এখানে,বস্তুর ভর, M = 100 kgদূরত্ব, r = 10mমহাকর্ষীয় ধ্রুবক, [math]G=6.67 \times 10^{-11} \mathrm{~N}-\mathrm{m}^{2} \mathrm{~kg}^{-2}[/math]
+মহাকর্ষীয় বিভব, V= ?মহাকর্ষীয় প্রাবল্য, [math]\mathrm{E}_{\mathrm{G}}=?[/math]
+আমরা জানি,[math]V=-\frac{G M}{r}[/math]
+ [math]\begin{array}{l}=-\frac{6.67 \times 10^{-11} \times 100}{10} \\=-6.67 \times 10^{-10} \mathrm{Jkg}^{-1} \text { (Ans.) }\end{array}[/math]
+আবার, [math]E_{G}=\frac{G M}{r^{2}}[/math]
+ [math]\begin{array}{l}=\frac{6.67 \times 10^{-11} \times 100}{10^{2}} \\=6.67 \times 10^{-11} \mathrm{Nkg}^{-1} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেকোনো বিন্দুতে মহাকর্ষীয় বিভব দেওয়া হয় [math]V=-\dfrac{GM}{r}[/math] দিয়ে এবং প্রাবল্য (ক্ষেত্র) হয় [math]g=\dfrac{GM}{r^{2}}[/math] দিয়ে, যেখানে [math]G=6.67\times10^{-11}\ \text{N·m}^2\text{/kg}^2[/math], [math]M=100\ \text{kg}[/math], [math]r=10\ \text{m}[/math]. তাই [math]V=-\dfrac{6.67\times10^{-11}\times100}{10}=-6.67\times10^{-10}\ \text{J/kg}[/math] এবং [math]g=\dfrac{6.67\times10^{-11}\times100}{10^{2}}=6.67\times10^{-11}\ \text{m/s}^2[/math] (মাসের দিকে নির্দেশিত)।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 410742)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বিভিন্ন হিসাব নিকাশের জন্য পৃথিবীকে [math]5.5 \times 10^{3} \mathrm{kgm}^{-3}[/math] পড় ঘনত্বের ও 6400 km ব্যাসার্ধের একটি নিরেট গোলক বিবেচনা করা হয়।
+
+Options:
+গ. পৃথিবীর কেন্দ্র থেকে [math]8 \times 10^{6} \mathrm{~m}[/math] দূরে কোনো বিন্দুতে মহাকর্ষীয় বিভ ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, মহাকর্ষীয় বিভবের পরিমাণ V।এখানে,পৃথিবীর ঘনত্ব, [math]\rho=5.5 \times 10^{3} \mathrm{kgm}^{-3}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6400 \mathrm{~km}=6.4 \times 10^{6} \mathrm{~m}[/math]
+পৃথিবীর কেন্দ্র হতে বস্তুর দূরত্ব, [math]\mathrm{r}=8 \times 10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.67 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+মহাকর্ষীয় বিভব, V = ?আমরা জানি, [math]V=-\frac{G M}{r}[/math]
+ ......(i)আবার, পৃথিবীর ভর [math]\mathrm{M}=\rho \mathrm{V}[/math]
+ [math]=\rho \times \frac{4}{3} \pi \mathrm{R}^{3}[/math]
+ [math]=5.5 \times 10^{3} \times \frac{4}{3} \times 3.1416 \times \left(6.4 \times 10^{6}\right)^{3}[/math]
+ [math]=6.04 \times 10^{24} \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ (i) নং সমীকরণ হতে পাই,[math]\begin{aligned}V & =-\frac{6.67 \times 10^{-11} \times 6.04 \times 10^{24}}{8 \times 10^{6}} \\& =-\frac{40.29 \times 10^{13}}{8 \times 10^{6}} \\& =-5.04 \times 10^{7} \mathrm{Jkg}^{-1} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বাহ্যিক বিন্দুতে পুরো গোলককে কেন্দ্রবিন্দুতে সন্নিবিষ্ট গণ হিসেবে ধরা হয়, তাই [math]g=\dfrac{GM}{r^{2}}[/math] যেখানে [math]M=(4/3)\pi R^{3}\rho[/math]. সংখ্যা বসালে [math]g=\dfrac{6.67\times10^{-11}\times(4/3)\pi(6.4\times10^{6})^{3}\times5.5\times10^{3}}{(8\times10^{6})^{2}}\approx6.3\ \mathrm{m/s^{2}}[/math], অভিমুখ কেন্দ্রের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 410743)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বিভিন্ন হিসাব নিকাশের জন্য পৃথিবীকে [math]5.5 \times 10^{3} \mathrm{kgm}^{-3}[/math] পড় ঘনত্বের ও 6400 km ব্যাসার্ধের একটি নিরেট গোলক বিবেচনা করা হয়।
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, মহাকর্ষীয় ক্ষেত্র সৃষ্টিকারী বস্তুটির দিকে এগুতে থাকলে ম হাকর্ষীয় বিভবের মান কমতে থাকে।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, A বিন্দুতে বিন্দু ভর M অবস্থিত। M ভর থেকে মহাকর্ষীয় ক্ষেত্রের মধ্যে । দূরত্বে B বিন্দুতে বিভব নির্ণয় করতে হবে। A, B যোগ করি।
+[Image]
+B বিন্দুতে একক ভর স্থাপন করলে তার উপর ক্রিয়াশীল মহাকর্ষীয় বল,[math]\mathrm{F}=\mathrm{G} \frac{\mathrm{M} \times 1}{\mathrm{r}^{2}}=\frac{\mathrm{GM}}{\mathrm{r}^{2}}[/math]
+ এর দিক BA বরাবর।ধরি, B বিন্দুর বিভব V। এখন যদি এই একক ভরের বস্তুটি M ভরের বস্তুটির আকর্ষণ বল F এর ফলে বলের অভিমুখে ক্ষুদ্রাতিক্ষুদ্র দূরত্ব dr সরে C বিন্দুতে আসে, তাহলে কৃতকাজ [math]=\mathrm{Fdr} \cos 0^{\circ}[/math]
+ এবং বিভবের পরিবর্তন dV ও হবে তাই। সুতরাং[math]\mathrm{dV}=\mathrm{Fdr} \cos 0^{\circ}=\mathrm{Fdr}[/math]
+এখন এ সমীকরণকে [math]r=\infty[/math]
+ থেকে r = r এই সীমার মধ্যে সমাকলনকরে B বিন্দুতে বিভব পাই,[math]\begin{aligned}V & =\int_{\infty}^{\mathrm{r}} \mathrm{Fdr}=\int_{\infty}^{\mathrm{r}} \frac{\mathrm{GM}}{\mathrm{r}^{2}} \mathrm{dr} \\& =\mathrm{GM} \int_{\infty}^{\mathrm{r}} \frac{\mathrm{dr}}{\mathrm{r}^{2}} \\& =\mathrm{GM}\left[-\frac{1}{\mathrm{r}}\right]_{\infty}^{\mathrm{r}}=\mathrm{Gm}\left[-\frac{1}{\mathrm{r}}+\frac{1}{\infty}\right]\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-\frac{G M}{r}[/math]
+এ ঋণাত্মক চিহ্ন নির্দেশ করে যে, মহাকর্ষীয় বিভব সর্বোচ্চ হবে অসীমে এবং অসীমে এর সর্বোচ্চ মান হচ্ছে শূন্য। সুতরাং অসীম থেকে ক্ষেত্র সৃষ্টিকারী বস্তুটির দিকে এগুতে থাকলে মহাকর্ষীয় বিভবের মান কমতে থাকে, অর্থাৎ ঋণাত্মক হয়।
+
+Explanation:
+ব্যাখ্যা: ঘ বাইরে এর জন্য মহাকর্ষীয় বিভব [math]V(r)=-\dfrac{GM}{r}[/math], তাই [math]\dfrac{dV}{dr}=\dfrac{GM}{r^2}>0[/math]; অর্থাৎ r কমালে (কেন্দ্রের দিকে গেলে) [math]V[/math] আরও নেতিবাচক হয়ে মান কমে। সদৃশ ঘন গোলকের ভেতরে [math]V(r)=-\dfrac{GM}{2R^3}(3R^2-r^2)[/math] এবং [math]\dfrac{dV}{dr}=\dfrac{GMr}{R^3}>0[/math], ফলে ভেতরেও r কমলে বিভবের মান কমে। 따라서 গণিতগতভাবে কেন্দ্রের দিকে গেলে মহাকর্ষীয় বিভব কমতে থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 410744)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+m ভরের বস্তুকে M ভরের R ব্যাসার্ধের গ্রহের পৃষ্ঠ থেকে [math]
+u[/math] = [math]\sqrt{\frac{G M}{2 R}}[/math] বেগে ঊর্ধ্বে নিক্ষেপ করা হল। দেখাও যে সর্বোচ্চ উচ্চতা R/3.
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution :[math]\\[/math]
+মনে করি,বস্তুর ভর = mগ্রহের ভর = Mগ্রহের ব্যাসার্ধ = Rভরের বস্তুটির উৎক্ষেপণ বেগ, [math]\mathrm{v}=\sqrt{\frac{\mathrm{GM}}{2 \mathrm{R}}}[/math]
+সর্বোচ্চ উচ্চতা, h =?শক্তির নিত্যতা সূত্র হতে,[math]\frac{1}{2} \mathrm{mv}^{2}-\frac{\mathrm{GmM}}{\mathrm{R}}=-\frac{\mathrm{GmM}}{\mathrm{r}}+0[/math]
+ [ভূপৃষ্ঠের কেন্দ্র হতে দূরত্ব [math]r=\frac{4}{3} R[/math]
+ ][math]\Rightarrow[/math]
+ [math]\frac{1}{2} \mathrm{~m} \cdot \frac{\mathrm{GM}}{2 \mathrm{R}}-\frac{\mathrm{GMm}}{\mathrm{R}}=-\frac{\mathrm{GmM}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]r=\frac{4 \mathrm{R}}{3}[/math]
+এখন, [math]\mathrm{h}=\mathrm{r}-\mathrm{R}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{h}=\frac{4 \mathrm{R}}{3}-\mathrm{R}[/math]
+ [math]\therefore \mathrm{h}=\frac{\mathrm{R}}{3} \text { (Showed) }[/math]
+
+
+Explanation:
+শুরুতে শক্তির রক্ষা প্রয়োগ করলে: [math]\frac{v^2}{2}-\frac{GM}{R}=-\frac{GM}{r_{\max}}[/math]. ধরা [math]v^2=\frac{GM}{2R}[/math] রেখে সমাধান করলে [math]-\frac{3GM}{4R}=-\frac{GM}{r_{\max}}[/math] তাই [math]r_{\max}=\frac{4R}{3}[/math] এবং সর্বোচ্চ উচ্চতা [math]h=r_{\max}-R=\frac{R}{3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 410737)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে কোনো একটি গ্রহের কেন্দ্র থেকে দূরত্বের সাথে অভিকর্ষজ ত্বরণের পরিবর্তন দেখানো হয়েছে।
+
+
+[Image]
+
+
+Options:
+ঘ. O, P এবং Q একই সরলরেখায় না হওয়ার কারণ কী হতে পারে বলে তুমি মনে কর, গাণিতিক যুক্তিসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,গ্রহের ব্যাসার্ধ, [math]\mathrm{R}=7000 \mathrm{~km}=7 \times 10^{6} \mathrm{~m}[/math]
+গ্রহের পৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{s}}=12 \mathrm{~ms}^{-2}[/math]
+কেন্দ্র থেকে P বিন্দুর দূরত্ব, [math]\mathrm{R}_{\mathrm{p}}=3000 \mathrm{~km}=3 \times 10^{6} \mathrm{~m}[/math]
+P বিন্দুতে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{p}}=6 \mathrm{~ms}^{-2}[/math]
+মহাকর্ষ ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+(গ) হতে পাই,গ্রহের ভর,[math]\mathrm{M}=8.812 \times 10^{24} \mathrm{~kg}[/math]
+OP অংশের ভর, [math]\mathrm{M}_{\mathrm{OP}}=?[/math]
+OP অংশের ঘনত্ব, [math]\rho_{\mathrm{OP}}=?[/math]
+গ্রহটির ঘনত্ব সর্বত্র একই না হওয়ায় O, P এবং Q একই সরলরেখায় অবস্থান করেনি।P বিন্দুতে অভিকর্ষজ ত্বরণ,[math]\mathrm{g}_{\mathrm{p}}=\frac{\mathrm{GM}_{\mathrm{op}}}{\mathrm{R}_{\mathrm{p}}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{M}_{\mathrm{OP}}=\frac{\mathrm{g}_{\mathrm{p}} \mathrm{R}_{\mathrm{p}}^{2}}{\mathrm{G}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{M}_{\mathrm{OP}}=\frac{6 \times\left(3 \times 10^{6}\right)^{2}}{6.673 \times 10^{-11}}[/math]
+ [math]\therefore \mathrm{M}_{\mathrm{OP}}=8.1 \times 10^{23} \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ OP অংশের ঘনত্ব, [math]\rho_{\mathrm{OP}}=\frac{\mathrm{M}_{\mathrm{Op}}}{\frac{4}{3} \pi \mathrm{R}_{\mathrm{p}}^{3}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\rho_{\mathrm{OP}}=\frac{8.1 \times 10^{23}}{\frac{4}{3} \pi \times\left(3 \times 10^{6}\right)^{3}}[/math]
+ [math]\therefore \rho_{\mathrm{OP}}=7161.97 \mathrm{\ kgm}^{-3}[/math]
+PQ অংশের ভর,[math]\begin{aligned}\mathrm{M}_{\mathrm{PQ}} & =\mathrm{M}-\mathrm{M}_{\mathrm{OP}} \\& =8.812 \times 10^{24}-8.1 \times 10^{23} \\& =8 \times 10^{24} \mathrm{~kg}\end{aligned}[/math]
+ [math]\therefore[/math]
+ PQ অংশের ঘনত্ব,[math]\begin{aligned}\rho_{\mathrm{PQ}} & =\frac{\mathrm{M}_{\mathrm{PQ}}}{\frac{4}{3} \pi\left(\mathrm{R}^{3}-\mathrm{R}_{\mathrm{p}}^{3}\right)} \\& =\frac{8 \times 10^{24}}{\frac{4}{3} \pi\left\{\left(7 \times 10^{6}\right)^{3}-\left(3 \times 10^{6}\right)^{3}\right\}} \\& =6043.86 \mathrm{~kg} \mathrm{~m}^{-3} 
+eq 7161.97 \mathrm{~kg} \mathrm{~m}^{-3}\end{aligned}[/math]
+অতএব, OP এবং PQ অংশের ঘনত্বের ভিন্নতার দরুন O, P এবং Q বিন্দুত্রয় একই সরলরেখায় অবস্থান করে নি।
+
+Explanation:
+ব্যাখ্যা:
+ঘ O, P এবং Q একই সরলরেখায় নেই কারণ অভিকর্ষজ ত্বরণ কেন্দ্র থেকে দুরত্বের সাথে দুই ভিন্ন সূত্র অনুসরণ করে: ভেতরে ([math]rR[/math]) এটি বিপরীত-বর্গের আইন অনুসারে [math]g=\frac{GM}{r^2}[/math]। একক সরলরেখা এসব ভিন্ন ধরনের সম্পর্ককে একই সাথে মেনে চলতে পারেনা, তাই তিনটি বিন্দু সমরেখায় হতে পারে না।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 410738)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীর গড় ঘনত্ব [math]5.5 \times 10^{3} \mathrm{~kg} \cdot \mathrm{m}^{-3}[/math] এবং ব্যা সার্ধ [math]6.38 \times[/math] [math]10^{6} \mathrm{~m}[/math] ধরে ভূ-পৃষ্ঠের কাছাকাছি কোনো বিন্দুতে অভিকর্ষজ ত্বরণ, মহাকর্ষীয় প্রাবল্য ও বিভব নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]9.804 \mathrm{~ms}^{-2}[/math]
+ , [math]9.804 \mathrm{\ Nkg}^{-1}[/math]
+ , [math]-6.25 \times 10^{7} \mathrm{Jkg}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,পৃথিবীর গড় ঘনত্ব, [math]\rho=5.5 \times 10^{3} \mathrm{kgm}^{-3}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6.38 \times 10^{6} \mathrm{~m}[/math]
+অভিকর্ষজ ত্বরণ, g =?প্রাবল্য, E = ?বিভব, V = ?আমরা জানি,প্রাবল্য, E = gআবার, [math]g=\frac{4}{3} \pi \rho R G[/math]
+ [math]\begin{array}{l}=\frac{4}{3} \times \pi \times 5.5 \times 10^{3} \mathrm{kgm}^{-3} \times 6.38 \times \\10^{6} \mathrm{~m} \times 6.67 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2} \\=9.804 \mathrm{~ms}^{-2} \text { (Ans.) }\end{array}[/math]
+সুতরাং, প্রাবল্য, [math]\mathrm{E}=9.804 \mathrm{~ms}^{-2}[/math]
+ [math]=9.804 \mathrm{kgms}^{-2} \cdot \mathrm{kg}^{-1}=9.804 \mathrm{Nkg}^{-1} \text { (Ans.) }[/math]
+বিভব [math]V=-\frac{G M}{R}=-\frac{G}{R} \times \frac{4}{3} \pi R^{3} \rho=-\frac{4 G R^{2} \rho \pi}{3}[/math]
+ [math]\begin{array}{l}=-\frac{4 \times 6.67 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2} \times\left(6.38 \times 10^{6} \mathrm{~m}\right)^{2} \times 5.5 \times 10^{3} \mathrm{kgm}^{-3} \times 3.1416}{3} \\=-6.25 \times 10^{7} \mathrm{Jkg}^{-1} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূগতীবিদ্যায় [math]g=GM/R^2[/math] এবং [math]M=(4/3)\pi R^3\rho[/math] হওয়ায় surface-এ [math]g=(4/3)\pi G\rho R[/math]; সংখ্যাগতভাবে [math]g=(4/3)\pi(6.67\times10^{-11})(5.5\times10^3)(6.38\times10^6)\approx9.8\ \mathrm{m\ s^{-2}}[/math]. মহাকর্ষীয় প্রাবল্য (gravitational field) হল অভিকর্ষজ ত্বরণই, তাই [math]\vec g\approx9.8\ \mathrm{N\ kg^{-1}}[/math] এবং কেন্দজ্জে নির্দেশিত। বিভব(surface potential) [math]V=-\dfrac{GM}{R}=-gR\approx-(9.8)(6.38\times10^6)\approx-6.25\times10^7\ \mathrm{J\ kg^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 410736)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এর নিচের চিত্রটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:
+
+
+[Image]
+
+
+চিত্রের গোলকের কেন্দ্র C, ব্যাসার্ধ R এবং উপাদানের ঘনত্ব [math]\rho[/math] । কিন্তু সাদা অংশটি গোলক আকৃতির ফাঁপা।
+
+Options:
+ঘ. P বিন্দুতে বিভবের রাশিমালা নির্ণয়ের পদ্ধতি বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘগোলকটি নিরেট হলে P বিন্দুতে বিভব হতো,
+[Image]
+[math]\begin{aligned}V_{G R}=-\frac{G M}{R} & =-\frac{G \times \frac{4}{3} \pi R^{3} \rho}{R} \\& =-\frac{4}{3} G \pi R^{2} \rho\end{aligned}[/math]
+কিন্তু গোলকের কিছু অংশ ফাপা হওয়ায় গোলকের ফাপা অংশের ভরের জন্য উক্ত বিন্দুর বিভবের পরিমাণ কম হবে। ফাপা অংশের ব্যাসার্ধ, [math]r=\frac{R}{2}[/math]
+।সুতরাং ফাপা অংশের জন্য P বিন্দুতে বিভব,[math]\begin{array}{l}V_{G r}=-\frac{G m}{r}=-\frac{G \times \frac{4}{3} \pi r^{3} \rho}{r}=-\frac{4}{3} G \pi r^{2} \rho \\=-\frac{4}{3} G \pi \frac{R^{2}}{4} \rho=-\frac{1}{3} G \pi R^{2} \rho\end{array}[/math]
+সুতরাং গোলকটির জন্য P বিন্দুতে বিভব হবে[math]V_{G}=V_{G R}-V_{G r}=-\frac{4}{3} G \pi R^{2} \rho+\frac{1}{3} G \pi R^{2} \rho=-G \pi R^{2} \rho[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ P বিন্দুতে বিভব বা গরুত্ব ক্ষেত্র নির্ণয়ের সহজ পদ্ধতি হলো সুপারপজিশন — পুরো সমঘন গোলকের ক্ষেত্র থেকে ফাঁপা অংশকে একটি ছোট গোলক যার ঘনত্বকে ঋণাত্মক ধরা। তাই মোট ক্ষেত্রকে লিখতে পারি [math]\vec g(\mathbf r)=\vec g_{\rm full}(\mathbf r)-\vec g_{\rm cavity}(\mathbf r)[/math], যেখানে প্রতিটি অংশের ক্ষেত্র পরিচিত সূত্র ব্যবহার করে (বাইরে হলে পয়েন্ট-মাসের মতো [math]G M/r^2[/math], ভিতরে হলে সম্পূর্ণ গোলকের ক্ষেত্রে [math]\vec g=(4/3)\pi G\rho\,\mathbf r[/math]রূপে)। শেষে দুই ভেক্টর যোগ-বিয়োগ করে P তে মোট রাশিমালা পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 410735)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এর নিচের চিত্রটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:
+
+
+[Image]
+
+
+চিত্রের গোলকের কেন্দ্র C, ব্যাসার্ধ R এবং উপাদানের ঘনত্ব [math]\rho[/math] । কিন্তু সাদা অংশটি গোলক আকৃতির ফাঁপা।
+
+Options:
+গ. গোলকটি নিরেট, এর ভর 2000 kg এবং ব্যাসার্ধ 10 cm হলে কেন্দ্র হতে 15 cm দূরের কোনো বিন্দুতে প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,ভর, M = 2000 kgকেন্দ্র থেকে দূরত্ব, r = 15 cm = 0.15 mগোলকটি নিরেট এবং এর ব্যাসার্ধ 10 cm হলে কেন্দ্র হতে 15 cm দূরের বিন্দুটি গোলকের বাইরে অবস্থিত। সুতরাং উক্ত বিন্দুতে মহাকর্ষীয় প্রাবল্য,[math]\begin{array}{l}E_{G}=\frac{G M}{r^{2}} \\=\frac{\left(6.673 \times 10^{-11} \mathrm{~N} \cdot \mathrm{m}^{2} \cdot \mathrm{kg}^{-2}\right)(2000 \mathrm{~kg})}{(0.15 \mathrm{~m})^{2}} \\=5.93 \times 10^{-6} \mathrm{~N} \cdot \mathrm{kg}^{-1}(\text { Ans })\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বাইরে কোনো বিন্দুতে সমগ্র নিরেট গোলকটি কেন্দ্রস্থলে স্থির একটি বিন্দুর দলে ব্যাহার করে, তাই [math]g=\dfrac{GM}{r^2}[/math] প্রযোজ্য। এখানে [math]G=6.67\times10^{-11}\,\text{N·m}^2\text{/kg}^2,\ M=2000\,\text{kg},\ r=0.15\,\text{m}[/math], ফলে [math]g=\dfrac{6.67\times10^{-11}\times2000}{(0.15)^2}\approx5.93\times10^{-6}\,\text{N/kg}[/math] এবং প্রাবল্যটি কেন্দ্রের দিকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 410734)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে 50 kg ও 75 kg ভরের দুটি বস্তু। এদের মধ্যবর্তী দূরত্ব 0.5m।
+
+
+[Image]
+
+
+Options:
+ঘ. “PQ রেখার ওপর একটি মাত্র বিন্দু আছে যেখানে বস্তুদ্বয়ের জন্য মহাকর্ষ প্রাবল্য শূন্য" উক্তিটির যথার্থতা নিরূপন কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘPQ রেখার ওপর কোনো বিন্দুতে প্রাবল্য শূন্য হতে হলে বস্তুদ্বয়ের জন্য উক্ত বিন্দুতে প্রাবল্যদ্বয়ের মান সমান কিন্তু দিক বিপরীত হতে হবে। ধরা যাক, 50 kg ভরের বস্তু থেকে x দূরত্বে O বিন্দুতে প্রাবল্য শূন্য।
+[Image]
+সুতরাং 50 kg ভরের বস্তুর জন্য O বিন্দুতে প্রাবল্য,[math]E_{1}=G \frac{m_{1}}{x^{2}}=G \frac{50 \mathrm{~kg}}{x^{2}}[/math]
+এবং 75 kg ভরের বস্তুর জন্য O বিন্দুতে প্রাবল্য,[math]E_{2}=G \frac{m_{2}}{(0.5-x)^{2}}=G \frac{75 \mathrm{~kg}}{(0.5-x)^{2}}[/math]
+O বিন্দুতে প্রাবল্য শূন্য হতে হলে [math]E_{1}=E_{2}[/math]
+ হতে হবে, অর্থাৎ[math]G \frac{50 \mathrm{~kg}}{x^{2}}=G \frac{75 \mathrm{~kg}}{(0.5-x)^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{2}{x^{2}}=\frac{3}{(0.5-x)^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]3 x^{2}=2(0.5-x)^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]3 x^{2}=2\left(0.5^{2}-2 \times 0.5 x+x^{2}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]3 x^{2}=0.5-2 x+2 x^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]x^{2}+2 x-0.5=0[/math]
+ [math]\begin{array}{l}\therefore x=\frac{-2 \pm \sqrt{4+4 \times 0.5}}{2}=\frac{-2 \pm \sqrt{4+2}}{2}=\frac{-2 \pm \sqrt{6}}{2} \\=\frac{-2 \pm 2.45}{2}\end{array}[/math]
+ [math]=\frac{0.45}{2}[/math]
+ অথবা [math]\frac{-4.45}{2}=0.225 \mathrm{~m}[/math]
+ অথবা [math]-2.225 \mathrm{~m}[/math]
+0.225 m দূরত্বের বিন্দুটি বস্তুদ্বয়ের মাঝে অবস্থিত কিন্তু –2.225 m দূরত্বের বিন্দুটি 50 kg ভরের বস্তুটির বাম পাশে অর্থাৎ P পাশে অবস্থিত। সুতরাং 0.225 m দূরত্বের বিন্দুতে প্রাবল্যদ্বয়ের মান সমান কিন্তু দিক বিপরীত। অপরপক্ষে, - 2.225 m দূরত্বের বিন্দুতে প্রাবল্যদ্বয়ের মান সমান হলেও দিক বিপরীত নয়। সুতরাং প্রাবল্য শূন্য হবে শুধু x = 0.225 m মানের জন্য। অতএব বলা যায়, “PQ রেখার ওপর একটি মাত্র বিন্দু আছে যেখানে বস্তুদ্বয়ের জন্য মহাকর্ষ প্রাবল্য শূন্য” উক্তিটি যথার্থ।
+
+Explanation:
+ব্যাখ্যা: ঘ উক্তিটি সঠিক — দুই ভরের ক্ষেত্রে ক্ষেত্রশূন্য হতে পারে কেবল তাদের মধ্যবর্তী রেখাংশে কারণ ঐ অঞ্চলে দুই ভরের মহাকর্ষমুখি বিপরীত দিকে কাজ করে; বাহিরের কোনো বিন্দুতে ক্ষেত্রদ্বয় একদিকে থাকে এবং ক্যানসেল হয় না। অবস্থান নির্ণয়ে [math]\frac{G\cdot50}{x^2}=\frac{G\cdot75}{(0.5-x)^2}[/math] থেকে পাওয়া যায় [math]x\approx0.2247\ \text{m}[/math] (50 kg ভরের দিক থেকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 410733)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একদল বিজ্ঞানী [math]100\ kg[/math] ভরের একটি কৃত্রিম উপগ্রহকে [math]3.6 \times 10^{4} \mathrm{~km}[/math] উপরে উঠিয়ে [math]3.1\ km/s[/math] রৈখিক বেগ প্রদান করে চাঁদ সদৃশ উপগ্রহে পরিণত করার চেষ্টা করল। পৃথিবীর ভর ও ব্যাসার্ধ চাঁদের ভর ও ব্যাসার্ধের যথাক্রমে [math]81[/math] ও [math]16[/math] গুণ। পৃথিবী হতে চাঁদের দূরত্ব [math]3 \times 10^{5} \mathrm{~km}[/math]। পৃথিবীতে অভিকর্ষজ ত্বরণ [math]9.8 \mathrm{~ms}^{-2}[/math], মহাকর্ষ পৃথিবী হতে চাঁদের ধ্রুবকের মান [math]6.673 \times 10^{-11} \ mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math].
+
+Options:
+গ. পৃথিবী ও চাঁদের মধ্যবর্তী কোন বিন্দুতে মহাকর্ষ প্রাবল্য সমান হবে?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, পৃথিবী হতে [math]\rm{x}[/math]
+ মিটার দূরে পৃথিবী ও চাঁদের মহাকর্ষ প্রাবল্য সমান হবে।
+[Image]
+পৃথিবী ও চাঁদের মধ্যবর্তী দূরত্ব, [math]\mathrm{r}=3 \times 10^{5} \mathrm{~km}=3 \times 10^{8} \mathrm{~m}[/math]
+ধরি, চাঁদের ভর [math]\mathrm{M}_{\mathrm{m}}=\mathrm{M}[/math]
+ [math]\therefore[/math]
+ পৃথিবীর ভর, [math]\mathrm{M}_{e}=81 \mathrm{~M}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+পৃথিবী হতে বস্তুর দূরত্ব, [math]\mathrm{r}_{1}=\mathrm{xm}[/math]
+চাঁদ হতে বস্তুর দূরত্ব, [math]\rm{r_{2}=\left(3 \times 10^{8}-x\right) m}[/math]
+বস্তু ও পৃথিবীর মধ্যকার প্রাবল্য, [math]\mathrm{E}_{1}=\dfrac{\mathrm{GMe}}{\mathrm{r}_{1}^{2}}=\dfrac{\mathrm{G}}{\mathrm{x}^{2}}(81 \mathrm{~M})[/math]
+বস্তু ও চাঁদের মধ্যকার প্রাবল্য, [math]\rm{E_{2}=\dfrac{G M_{m}}{r_{2}^{2}}=\dfrac{G M}{\left(3 \times 10^{8}-x\right)^{2}}}[/math]
+প্রশ্নমতে,[math]\hspace{1.6 cm}\begin{array}{l}\quad\mathrm{E}_{1}=\mathrm{E}_{2}\\ \Rightarrow \dfrac{81 \mathrm{GM}}{\mathrm{x}^{2}}=\dfrac{\mathrm{GM}}{\left(3 \times 10^{8}-\mathrm{x}\right)^{2}} \\ \Rightarrow \dfrac{81}{\mathrm{x}^{2}}=\dfrac{1}{\left(3 \times 10^{8}-\mathrm{x}\right)^{2}} \\ \Rightarrow \dfrac{9}{\mathrm{x}}=\dfrac{1}{3 \times 10^{8}-\rm{x}} \\ \Rightarrow \mathrm{x}=27 \times 10^{8}-9 \mathrm{x} \\ \Rightarrow \mathrm{x}+9 \mathrm{x}=27 \times 10^{8} \\ \Rightarrow 10 \mathrm{x}=27 \times 10^{8} \\ \therefore \quad \mathrm{x}=2.7 \times 10^{8} \end{array}[/math]
+সুতরাং, পৃথিবী হতে [math]2.7 \times 10^{8} \mathrm{~m}[/math]
+ দূরে পৃথিবী ও চাঁদের মহাকর্ষ প্রাবল্য সমান হবে।
+
+Explanation:
+ব্যাখ্যা: গ মহাকর্ষ সমান হলে [math]\frac{GM_E}{x^2}=\frac{GM_M}{(R-x)^2}[/math] এবং [math]M_E=81M_M[/math] হওয়ার ফলে [math]\frac{81}{x^2}=\frac{1}{(R-x)^2}[/math]. ফলে [math]\frac{9}{x}=\frac{1}{R-x}[/math] এবং [math]x=\frac{9R}{10}=0.9R[/math]। এখানে [math]R=3\times10^5\ \text{km}[/math], তাই বিন্দুটি পৃথিবী হতে [math]2.7\times10^5\ \text{km}[/math] এবং চাঁদ হতে [math]3\times10^4\ \text{km}[/math] দূরে পড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 410732)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]2\ m[/math] বাহুবিশিষ্ট [math]ABCD[/math] বর্গক্ষেত্রের কেন্দ্র [math]O[/math] এবং উক্ত বিন্দুতে [math]1\ kg[/math] ভরের বস্তু রাখা আছে। [math]A,\ B,\ C\ ও\ D[/math] বিন্দুতে যথাক্রমে [math]4\ kg,\ 4\ kg,\ 2\ kg\ ও\ 2\ kg[/math] ভরের চারটি বস্তু রাখা আছে। [math]\left[G=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}\right][/math]
+
+[Image]
+
+
+Options:
+গ. ' [math]O[/math]' বিন্দুতে মহাকর্ষীয় বিভব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গবর্গক্ষেত্রের কেন্দ্র থেকে প্রতি কৌণিক বিন্দুর দূরত্ব [math]\rm{r}[/math]
+।
+[Image]
+ধরি, এই দূরত্ব [math]\rm{r}[/math]
+ [math]\hspace{1.2 cm}\mathrm{A}[/math]
+ কোণায় ভর, [math]\mathrm{m_A}=4 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}\mathrm{B}[/math]
+ কোণায় ভর, [math]\mathrm{m_B}=4 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}\mathrm{C}[/math]
+ কোণায় ভর, [math]\mathrm{m_C}=2 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}\mathrm{D}[/math]
+ কোণায় ভর, [math]\mathrm{m_D}=2 \mathrm{~kg}[/math]
+বর্গের কর্ণের দৈর্ঘ্য,[math]\hspace{1.2 cm}\begin{array}{l} 2 \mathrm{~r}=2 \sqrt{2} \mathrm{~m} \\ \therefore \mathrm{r}=\sqrt{2} \mathrm{~m} \end{array}[/math]
+মহাকর্ষ ধ্রুবক, [math]\rm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+ [math]\rm{O}[/math]
+ বিন্দুতে মহাকর্ষীয় বিভব [math]\mathrm{V}[/math]
+ হলে,[math]\hspace{1.6 cm} \begin{aligned}\rm{V} & =\rm{\frac{-G M_{A}}{r}+\frac{-G M_{B}}{r}+\frac{-G M_{C}}{r}+\frac{-G M_{D}}{r} }\\ & =\rm{\frac{-G}{r}\left(M_{A}+M_{B}+M_{C}+M_{D}\right)} \\ & =-\frac{6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}(4 \mathrm{~kg}+4 \mathrm{~kg}+2 \mathrm{~kg}+2 \mathrm{~kg})}{\sqrt{2} \mathrm{~m}}\\ \therefore ~\rm{V}&=-5.66 \times 10^{-10} \mathrm{~J} \mathrm{~kg}^{-1} \end{aligned}[/math]
+সুতরাং [math]\rm{O}[/math]
+ বিন্দুতে মহাকর্ষীয় বিভব [math]-5.66 \times 10^{-10} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+।
+
+Explanation:
+গ কেন্দ্রে থাকা কণার নিজের ভরের ক্ষেত্রে পয়েন্ট-মাস মডেলে নিজস্ব বিভব অসীম বলে বাদ দিয়ে, প্রতিটি বাহুবিশিষ্ট কোণীয় ভরের জন্য বিভব হচ্ছে [math]V=-\dfrac{Gm}{r}[/math] এবং স্কোয়ারের কেন্দ্রে কোণগুলোর দূরত্ব [math]r=\dfrac{2}{\sqrt2}=\sqrt2\ \mathrm{m}[/math]. তাই মোট বিভব হবে [math]V_O=-\dfrac{G}{\sqrt2}(4+4+2+2)=-6\sqrt2\,G\approx-5.66\times10^{-10}\ \mathrm{J/kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 410731)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উদ্দীপকে পৃথিবীর কেন্দ্র হতে দূরত্ব সাপেক্ষে অভিকর্ষজ ত্বরণের লেখচিত্র দেখান হয়েছে। পৃথিবীর ভর, [math]\rm{M}=6.0 \times 10^{24} \mathrm{~kg}[/math] এবং পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6400 \mathrm{~km}[/math].
+
+Options:
+গ. উদ্দীপকের [math]\rm{A}[/math] বিন্দুতে মহাকর্ষীয় প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, [math]\rm{A}[/math]
+ বিন্দুতে মহাকর্ষীয় প্রাবল্য [math]\rm{E}[/math]
+উদ্দীপক হতে, পৃথিবীর ভর, [math]\mathrm{M}=6.0 \times 10^{24} \mathrm{~kg}[/math]
+ [math]\rm{O}[/math]
+ হতে [math]\rm{A}[/math]
+ বিন্দুর দূরত্ব পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6400 \mathrm{~km}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{E} & =\frac{\mathrm{GM}}{\mathrm{R}^{2}}=\frac{6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2} \times 6.0 \times 10^{24} \mathrm{~kg}}{\left(6.4 \times 10^{6} \mathrm{~m}\right)^{2}} \\ \therefore \mathrm{E} & =9.775 \mathrm{~N} \mathrm{~kg} \end{aligned}[/math]
+সুতরাং [math]\rm{A}[/math]
+ বিন্দুতে মহাকর্ষীয় প্রাবল্য [math]9.775 \mathrm{~N} \mathrm{~kg}^{-1}[/math]
+।
+
+Explanation:
+দুঃখিত—আমি ছবিটি এখানে দেখতে পাচ্ছি না; তাই গ বিন্দুতে A-এর কেন্দ্র থেকে দূরত্ব [math]r[/math] জানালে নির্দিষ্ট মান দিতে পারব। সাধারণ সূত্রগুলো হলো: যদি [math]r\ge R[/math] (পৃথিবীর পৃষ্ঠের বাইরে), [math]g=\dfrac{GM}{r^2}[/math]; এবং যদি [math]r\le R[/math] (পৃষ্ঠের ভিতরে), [math]g=\dfrac{GM}{R^3}\,r[/math]। বিশেষভাবে পৃষ্ঠে ([math]r=R=6.4\times10^6\ \rm m[/math]) [math]g=\dfrac{GM}{R^2}\approx 9.8\ \rm m/s^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 410728)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+সূর্য ও পৃথিবীর ভর যথাক্রমে 2 × [math]10^{30}[/math] kg ও 6 × [math]10^{24}[/math] kg | পৃথিবী হতে সূর্যের দূরত্ব 1.5 × [math]10^{11}[/math] m।
+
+Options:
+ঘ. পৃথিবী এবং সূর্যের সংযোগকারী সরলরেখার উপর একাধিক বিন্দুতে প্রাবল্যের মান শূন্য হওয়া স ম্ভব কিনা গাণিতিকভাবে বিশ্লেষণ করো
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,সূর্যের ভর, [math]M_s = 2 × 10^30[/math]
+ kgপৃথিবীর ভর, [math]M_e = 6 × 10^24[/math]
+ kgসূর্য ও পৃথিবীর মধ্যবর্তী দূরত্ব, r = 1.5 × 10¹¹m
+[Image]
+ধরি, সূর্য হতে পৃথিবীর দিকে x দূরত্বে C বিন্দুতে মহাকর্ষ প্রাবল্য শূন্য হবে ।C বিন্দুতে সূর্যের কারণে মহাকর্ষ প্রাবল্য [math]E_s[/math]
+ এর দিক হবে CA বরাবর [math]\therefore \mathrm{E}_{\mathrm{s}}=\frac{\mathrm{GM}_{\mathrm{s}}}{\mathrm{x}^{2}}[/math]
+আবার, C বিন্দুতে পৃথিবীর কারণে মহাকর্ষীয় প্রাবল্য E এর দিক হবে CB বরাবর।[math]\therefore \mathrm{E}_{\mathrm{e}}=\frac{\mathrm{GM}_{\mathrm{c}}}{(\mathrm{r}-\mathrm{x})^{2}}[/math]
+এখানে, [math]E_s[/math]
+ ও [math]E_e[/math]
+ এর দিক বিপরীত তাই,[math]\begin{array}{l}E_{3}-E_{e}=0\\\Rightarrow\text{ } \frac{\mathrm{GM}_{\mathrm{S}}}{\mathrm{x}^{2}}-\frac{\mathrm{GM}_{\mathrm{s}}}{(\mathrm{r}-\mathrm{x})^{2}}=0\\\Rightarrow\text{ } \frac{\mathrm{GM}_{\mathrm{S}}}{\mathrm{x}^{2}}=\frac{-\mathrm{GM}_{\mathrm{e}}}{(\mathrm{r}-\mathrm{x})^{2}}\\\Rightarrow\text{ } \frac{\mathrm{M}_{\mathrm{s}}}{\mathrm{x}^{2}}=\frac{\mathrm{M}_{\mathrm{e}}}{(\mathrm{r}-\mathrm{x})^{2}}\\\Rightarrow\text { }\left(\frac{x}{r-x}\right)^{2}=\frac{M_{s}}{M_{e}}\end{array}[/math]
+ [math]\begin{array}{l}\text { } \frac{x}{1.5 \times 10^{11}-x}=\sqrt{\frac{2 \times 10^{30}}{6 \times 10^{24}}} \\\Rightarrow\text { } \frac{x}{1.5 \times 10^{11}-x}=577.35 \\\Rightarrow\text { } x=1.5 \times 10^{11} \times 577.35-577.35 x \\\Rightarrow\text { } x=\frac{1.5 \times 10^{11} \times 577.35}{578.35} \\\Rightarrow\therefore x=1.4974 \times 10^{11} \mathrm{~m}\end{array}[/math]
+সূর্য ও পৃথিবীর সংযোগ রেখার একাধিক বিন্দুতে প্রাবল্য শূন্য হওয়া সম্ভব নয়। শুধুমাত্র সূর্য ও পৃথিবীর মাঝখানে সূর্য হতে 1.4974 × [math]10^{11}[/math]
+ m দূরে প্রাবল্য শূন্য হবে
+
+Explanation:
+ব্যাখ্যা: ঘ গাণিতিকভাবে কেবল একটি বিন্দুতে প্রাবল্য শূন্য হতে পারে এবং তা দুই ভরের মধ্যেই হবে, কারণ বাহিরের কোনো স্থানে দুই ভরের গুরুত্বাকর্ষণ একদিকে কাজ করে। শর্ত হল [math]\dfrac{GM_{\odot}}{r^{2}}=\dfrac{GM_{E}}{(R-r)^{2}}[/math] যা থেকে [math]\dfrac{r}{R-r}=\sqrt{\dfrac{M_{\odot}}{M_{E}}}[/math] পাওয়া যায়—এই সমীকরণের একমাত্র বাস্তব সমাধান আছে যেখানে [math]0<r<R[/math]। সংখ্যায়, [math]\sqrt{M_{\odot}/M_{E}\approx 577}[/math] হলে [math]r\approx\dfrac{577}{578}R\approx1.497\times10^{11}\ \text{m}</math], অর্থাৎ পৃথিবীর থেকে প্রায় [math]2.5\times10^{8}\ \text{m}[/math] দুরে একটিই শূন্য-বিন্দু।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 410729)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+A এবং B একই উপাদান এবং একই গড় ঘনত্ববিশিষ্ট দুটি গ্রহ (কাল্পনিক)। A এর ভর [math]5.93 \times 10^{24} \mathrm{~kg}[/math], ব্যাসার্ধ [math]6.93 \times 10^{6} \mathrm{~m}[/math]
+
+এবং B এর ব্যাসার্ধ [math]3 \times 10^{6} \mathrm{~m}[/math]।
+
+Options:
+গ. A গ্রহের পৃষ্ঠের কোনো বিন্দুতে মহাকর্ষীয় বিভব নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গA গ্রহের পৃষ্ঠের কোনো বিন্দুতে মহাকর্ষীয় বিভব, [math]V_{A}=-\frac{G_{\mathrm{A}}}{\mathrm{R}_{\mathrm{A}}}[/math]
+এখানে,A গ্রহের ক্ষেত্রে,ভর, [math]\mathrm{M}_{\mathrm{A}}=5.93 \times 10^{24} \mathrm{~kg}[/math]
+ব্যাসার্ধ, [math]\mathrm{R}_{\mathrm{A}}=6.93 \times 10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+ [math]\begin{array}{l}=\frac{-6.673 \times 10^{-11} \times 5.93 \times 10^{24}}{6.93 \times 10^{6}} \\=-5.71 \times 10^{7} \mathrm{~V} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ গ্রহের পৃষ্ঠে মহাকর্ষীয় বিভব [math]\phi = -\dfrac{GM}{R}[/math] (শূন্য মান অনন্তে) দ্বারা নির্ণয় করা হয়। এখানে [math]G=6.67\times10^{-11}\,\mathrm{N\,m^2/kg^2},\ M=5.93\times10^{24}\,\mathrm{kg},\ R=6.93\times10^{6}\,\mathrm{m}[/math], ফলে [math]\phi \approx -\dfrac{6.67\times10^{-11}\times5.93\times10^{24}}{6.93\times10^{6}}\approx -5.71\times10^{7}\,\mathrm{J/kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 410730)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+A এবং B একই উপাদান এবং একই গড় ঘনত্ববিশিষ্ট দুটি গ্রহ (কাল্পনিক)। A এর ভর [math]5.93 \times 10^{24} \mathrm{~kg}[/math], ব্যাসার্ধ [math]6.93 \times 10^{6} \mathrm{~m}[/math]
+
+এবং B এর ব্যাসার্ধ [math]3 \times 10^{6} \mathrm{~m}[/math]।
+
+Options:
+ঘ. A ও B উভয় গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্যের মান কি একই হবে? গাণিতিক বিশ্লেষণসহ মন্তব্য করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,A গ্রহের ক্ষেত্রে,ভর, [math]\mathrm{M}_{\mathrm{A}}=5.93 \times 10^{24} \mathrm{~kg}[/math]
+ব্যাসার্ধ, [math]\mathrm{R}_{\mathrm{A}}=6.93 \times 10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+A গ্রহের আয়তন [math]V_{A}[/math]
+ হলেগড় ঘনত্ব, [math]\rho_{\mathrm{A}}=\frac{\mathrm{M}_{\mathrm{A}}}{\mathrm{V}_{\mathrm{A}}}=\frac{\mathrm{M}_{\mathrm{A}}}{\frac{4}{3} \pi R_{\mathrm{A}}{ }^{3}}[/math]
+অনুরূপভাবে,B গ্রহের গড় ঘনত্ব,[math]\begin{array}{l}\rho_{\mathrm{B}}=\frac{M_{\mathrm{B}}}{V_{\mathrm{B}}} \\=\frac{M_{\mathrm{B}}}{\frac{4}{3} \pi \mathrm{R}_{\mathrm{B}}{ }^{3}}\end{array}[/math]
+[ যেখানে; Mg = B গ্রহের ভর ] উভয় গ্রহের গড় ঘনত্ব সমান হওয়ায়,[math]\rho_{A}=\rho_{B}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{M_{A}}{\frac{4}{3} \pi R_{A^{3}}^{3}}=\frac{M_{B}}{\frac{4}{3} \pi R_{B}^{3}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{M_{A}}{R_{A}{ }^{3}}=\frac{M_{B}}{R_{B}^{3}}[/math]
+ [math]\Rightarrow[/math]
+ [math]M_{B}=\frac{M_{A}{ }_{A} \mathrm{R}_{\mathrm{B}}^{3}}{\mathrm{R}_{\mathrm{A}}^{3}}=\frac{5.93 \times 10^{24} \times\left(3 \times 10^{6}\right)^{3}}{\left(6.93 \times 10^{6}\right)^{3}}[/math]
+ [math]=4.81 \times 10^{23} \mathrm{~kg}[/math]
+এখন, A গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্য ,[math]\mathrm{E}_{\mathrm{A}}=\frac{\mathrm{GM}_{\mathrm{A}}}{\mathrm{R}_{\mathrm{A}}{ }^{2}}=\frac{6.673 \times 10^{-11} \times 5.93 \times 10^{24}}{\left(6.93 \times 10^{6}\right)^{2}}=8.24 \mathrm{\ Nkg}^{-1}[/math]
+আবার, B গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্য,[math]\mathrm{E}_{\mathrm{B}}=\frac{\mathrm{GM}_{\mathrm{B}}}{\mathrm{R}_{\mathrm{B}}^{2}}=\frac{6.673 \times 10^{-11} \times 4.81 \times 10^{23}}{\left(3 \times 10^{6}\right)^{2}}=3.566 \mathrm{\ Nkg}^{-1}[/math]
+দেখা যাচ্ছে, [math]\mathrm{E}_{\mathrm{A}} 
+eq \mathrm{E}_{\mathrm{B}}[/math]
+অর্থাৎ, A ও B উভয় গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্যের মান একই হবে না।
+
+Explanation:
+ঘ সমান হবে না — একই ঘনত্ব হলে ভর [math]M=(4/3)\pi\rho R^3[/math] হওয়ায় পৃষ্ঠীয় ত্বরণ হয় [math]g=\frac{GM}{R^2}=\frac{4}{3}\pi G\rho R[/math], তাই [math]g\propto R[/math]। অতএব [math]\dfrac{g_B}{g_A}=\dfrac{R_B}{R_A}=\dfrac{3\times10^6}{6.93\times10^6}\approx0.433[/math], এবং সংখ্যাগতভাবে [math]g_A\approx8.24\ \mathrm{m/s^2},\ g_B\approx3.57\ \mathrm{m/s^2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 410726)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+শিক্ষক শ্রেণিকক্ষে মহাকর্ষীয় বিভব ও মহাকর্ষীয় বিভবশক্তি বুঝিয়ে গাণিতিকভাবে দেখালেন M এর জন্য r দূরে মহাকর্ষীয় বিভব ও মহাকর্ষীয় বিভবশক্তি যথাক্রমে [math]V=-\frac{G M}{r}[/math] এবং [math]\mathrm{U}=-\frac{\mathrm{GMm}}{\mathrm{r}}, \mathrm{m}[/math] হলো M হতে r দূরে স্থাপিত বস্তুর ভর। এরপর বোর্ডে তিনি উপরিউক্ত বর্ণটি আঁকলেন যার প্রতি বাহুর দৈর্ঘ্য d = 0.600 m; বর্গের চারটি কৌণিক বিন্দুতে m = 20.0 g ভর স্থাপন করা হয়েছে বলে বুঝিয়ে দিলেন। দ্বিতীয়বার তিনি বর্গের আকৃতি ছোট করে প্রতি বাহুর দৈর্ঘ্য 0.200 m করে উভয়ক্ষেত্রেই বিভব ও বিভবশক্তির পরিবর্তন নির্ণয় করতে বললেন। এতে বেশ কিছু ছাত্রছাত্রী শিক্ষকের প্রদত্ত সমস্যা সমাধান করতে সক্ষম হলো। উল্লেখ্য যে, কেন্দ্রে স্থাপিত ভর 9.54 gm।
+
+Options:
+ক. মহাকর্ষীয় বিভব কাকে বলে?
+খ. কোনো বস্তুর মহাকর্ষীয় ক্ষেত্রে মহাকর্ষীয় বিভব ঋণাত্মক কেন?
+গ. প্রথমক্ষেত্রে মহাকর্ষীয় বিভব ও বিভবশক্তি কীরূপ ছিল?
+ঘ. দ্বিতীয়ক্ষেত্রে মহাকর্ষীয় বিভব ও বিভবশক্তির কেন এবং কীরূপ পরিবর্তন হয়েছিল সে সম্পর্কে তোমার যুক্তিসঙ্গত ধারণা ব্যক্ত কর ।
+
+
+Correct Answer: 
+
+Solution:
+কএকক ভরের কোনো বস্তুকে অসীম দূরত্ব হতে মহাকর্ষীয় ক্ষেত্রের কোনো বিন্দুতে আনতে যে পরিমাণ কাজ সাধিত হয় তাকে মহাকর্ষীয় বিভব বলে। [math]\\[/math]
+ খমহাকর্ষীয় ক্ষেত্রের কোন বিন্দুর বিভব ঋণাত্মক কারণ কোন মহাকর্ষীয় ক্ষেত্রের কোন বিন্দু হতে কোন বস্তুকে মহাকর্ষীয় ক্ষেত্রের বাইরে তথা অসীমে নিয়ে যেতে মহাকর্ষীয় বলের বিরুদ্ধে কাজ করতে হয়। ফলে কৃতকাজ ঋণাত্মক হয় এবং তাই উক্ত বিন্দুর মহাকর্ষীয় বিভব ঋণাত্মক হয়। [math]\\[/math]
+ গউদ্দীপকে কেন্দ্রে স্থাপিত ভর [math]\mathrm{m}_{1}=9.54 \times 10^{-3} \mathrm{~kg}[/math]
+এখানে,ভর, [math]\mathrm{m}=20 \mathrm{~g}=0.02 \mathrm{~kg}[/math]
+বাহুর দৈর্ঘ্য, [math]\mathrm{d}=0.600 \mathrm{~m}[/math]
+কর্ণ,[math]\begin{array}{l}=\sqrt{2 \mathrm{~d}}=\sqrt{2} \times 0.6 \\=0.85 \mathrm{~m}\end{array}[/math]
+ [math]\therefore[/math]
+ কেন্দ্র হতে প্রতিটি শীর্ষের দূরত্ব,[math]r=\frac{\sqrt{2} d}{2}[/math]
+ [math]\begin{array}{l}=\frac{\sqrt{2} \times 0.6}{2} \\=0.425 \mathrm{~m}\end{array}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+মহাকর্ষীয় বিভব, V = ?বিভবশক্তি, U =?মহাকর্ষীয় বিভব ,[math]V=-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{V}=-\frac{4 \mathrm{Gm}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-\frac{4 \times 6.673 \times 10^{-11} \times 0.02}{0.425}[/math]
+ [math]\therefore \mathrm{V}=-1.26 \times 10^{-11} \mathrm{~J} / \mathrm{kg} \text { (Ans.) }[/math]
+বিভব শক্তি, [math]\mathrm{U}=-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}} -\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}[/math]
+ [math]\begin{array}{l}=-4 \frac{\mathrm{Gmm}_{1}}{\mathrm{r}} \\=-4 \times \frac{6.673 \times 10^{-11} \times 0.02 \times 9.54 \times 10^{-3}}{0.425} \\=-1.2 \times 10^{-13} \mathrm{~J} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ ঘএখানে,প্রতিটি শীর্ষের ভর, [math]m = 20.0 \mathrm{~g}=0.02 \mathrm{~kg}[/math]
+বাহুর দৈর্ঘ্য, [math]\mathrm{a}=0.2 \mathrm{~m}[/math]
+কর্ণ [math]=\sqrt{2} \times 0.2=0.28 \mathrm{~m}[/math]
+কেন্দ্র থেকে শীর্ষের দূরত্ব, [math]r = =0.14 \mathrm{~m}[/math]
+কেন্দ্রের ভর, [math]\mathrm{m}_{1}=9.54 \times 10^{-3} \mathrm{~kg}[/math]
+মহাকর্ষ ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+(গ) হতে প্রাপ্ত বিভব, [math]\mathrm{V}_{1}=-1.25 \times 10^{-11} \mathrm{~J} / \mathrm{kg}[/math]
+বিভব শক্তি, [math]\mathrm{U}_{1}=-1.2 \times 10^{-13} \mathrm{~J}[/math]
+এক্ষেত্রে, বিভব, [math]V_{2}=?[/math]
+এবং বিভবশক্তি, [math]\mathrm{U}_{2}=\text { ? }[/math]
+দ্বিতীয় ক্ষেত্রে,বিভব, [math]v_{2}=-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}-\frac{G m}{r}[/math]
+ [math]v_{2}=-\frac{4 G m}{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]v_{2}=\frac{-4 \times 6.673 \times 10^{-11} \times 0.02}{0.14}[/math]
+ [math]\therefore \mathrm{v}_{2}=-3.81 \times 10^{-11} \mathrm{~J} / \mathrm{kg}>\mathrm{v}_{1}[/math]
+এবং বিভবশক্তি [math]\mathrm{U}_{2}=-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}} -\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}-\frac{\mathrm{Gmm}_{1}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{U}_{2}=-\frac{4 \mathrm{Gmm}_{1}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{U}_{2}=-4 \times \frac{6.673 \times 10^{-11} \times 0.02 \times 9.54 \times 10^{-3}}{0.14}[/math]
+ [math]\therefore U_{2}=-3.6 \times 10^{-3}[/math]
+ [math]\therefore \mathrm{U}_{2}>\mathrm{U}_{1}[/math]
+ [শুধু মান বিবেচনা করে]অতএব, দ্বিতীয়ক্ষেত্রে বিভব ও বিভবশক্তির মান প্রথম ক্ষেত্রের চেয়ে বেশি হবে। কারণ এ ক্ষেত্রে যেকোনো দুটি ভরের মধ্যবর্তী দূরত্ব হ্রাস পেয়েছে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক মহাকর্ষীয় বিভব হচ্ছে কোনো বিন্দুতে একক ভরের উপর থাকা সম্ভাব্য শক্তির মান, অর্থাৎ যে বিভবের মানকে ওই বিন্দুতে স্থির এক কেজি ভরের সম্ভাব্য শক্তি হিসেবে পরিমাপ করা হয় (সাধারণত শূন্য ধরা হয় অসীমে)।
+
+খ বিভব ঋণাত্মক হয় কারণ অসীম থেকে ঐ বিন্দুতে একক ভর আনতে কাজ করা হলে বাহ্যিক কাজ মুক্তি পায়; রেফারেন্স অসীমে শূন্য ধরে নিলে কেন্দ্রের দিকে আকর্ষণ হওয়ার ফলে বিভবের মান শূন্য থেকে হ্রাস করে ঋণাত্মক হয়।
+
+গ বর্গের একক কৌণিতে প্রতিটি ভরের ফলে কেন্দ্রে মোট বিভব [math]V=-\dfrac{4Gm}{r}[/math] যেখানে [math]r=\dfrac{d}{\sqrt{2}}[/math]; প্রথম ক্ষেত্রে [math]d=0.600\ \mathrm{m}[/math], তাই [math]r=0.600/\sqrt{2}[/math] এবং সংখ্যা অনুযায়ী [math]V_1\approx-1.26\times10^{-11}\ \mathrm{J\,kg^{-1}}[/math], কেন্দ্রীয় ভরের জন্য বিভবশক্তি [math]U_1=m_cV_1\approx-1.20\times10^{-13}\ \mathrm{J}[/math]।
+
+ঘ দৈর্ঘ্য কমে [math]r[/math] তিনগুণ ছোট হলে বিভব ও বিভবশক্তি অনুপাতিকভাবে বৃদ্ধি পায় (আরও ঋণাত্মক) কারণ [math]V\propto1/r[/math] এবং [math]U=m_cV[/math]; দ্বিতীয় ক্ষেত্রে [math]d=0.200\ \mathrm{m}[/math] হলে [math]V_2\approx-3.78\times10^{-11}\ \mathrm{J\,kg^{-1}}[/math] ও [math]U_2\approx-3.61\times10^{-13}\ \mathrm{J}[/math], অর্থাৎ মান তিনগুণ বড় (ঋণাত্মক মান বেশি)।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 410727)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+সূর্য ও পৃথিবীর ভর যথাক্রমে 2 × [math]10^{30}[/math] kg ও 6 × [math]10^24[/math] kg | পৃথিবী হতে সূর্যের দূরত্ব 1.5 × [math]10^{11}[/math] m।
+
+Options:
+গ. সূর্য ও পৃথিবীর সংযোগরেখার মধ্যবিন্দুতে মহাকর্ষীয় বিভবের মান বের করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,সূর্যের ভর, [math]M_s = 2 × 10^30[/math]
+ kgপৃথিবীর ভর, [math]M_e = 6 × 10^24[/math]
+ kgপৃথিবী হতে সূর্যের দূরত্ব, r = 1.5 × [math]10^{11}[/math]
+ mমহাকর্ষীয় ধ্রুবক, G = [math]6.673\times 10^{-11} Nm^2kg^{-2}[/math]
+ [math]r^{\prime}=\frac{r}{2}[/math]
+ হলে,[math]\mathrm{r}^\prime=\frac{1.5 \times 10^{11}}{2}=7.5 \times 10^{10} \mathrm{~m}[/math]
+আমরা জানি, মহাকর্ষীয় বিভব,[math]\mathrm{V}=-\frac{\mathrm{GM}}{\mathrm{r}}[/math]
+সূর্যের ক্ষেত্রে, বিভব [math]V_s[/math]
+ হলে,[math]\begin{aligned}\mathrm{V}_{\mathrm{s}}=-\frac{\mathrm{GM}_{\mathrm{s}}}{\mathrm{r}^{\prime}} & =-\frac{6.673 \times 10^{-11} \times 2 \times 10^{30}}{7.5 \times 10^{10}} \\& =-1.779 \times 10^{9} \mathrm{Jkg}^{-1}\end{aligned}[/math]
+পৃথিবীর বিভব [math]V_e[/math]
+ হলে,[math]\begin{aligned}\mathrm{V}_{\mathrm{e}}=-\frac{\mathrm{GM}_{\mathrm{c}}}{\mathrm{r}^{\prime}} & =-\frac{6.673 \times 10^{-11} \times 6 \times 10^{24}}{7.5 \times 10^{10}} \\& =-5.34 \times 10^{3} \mathrm{Jkg}^{-1}\end{aligned}[/math]
+মধ্যবিন্দুতে মোট বিভব V হলে,[math]\begin{aligned}V & =V_{s}+V_{e} \\& =-1.779 \times 10^{9}-5.34 \times 10^{3} \\& =-1.77900534 \times 10^{9} \mathrm{Jkg}^{-1} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ সংযোগরেখার মধ্যবিন্দুতে প্রতি একক ভরের মহাকর্ষীয় বিভব দুই ভরের যোগ এবং [math]V=-G\Big(\dfrac{M_S}{r_1}+\dfrac{M_E}{r_2}\Big)[/math] যেখানে [math]r_1=r_2=d/2=0.75\times10^{11}\text{ m}[/math], তাই [math]V=-\dfrac{2G(M_S+M_E)}{d}[/math]। মান বসালে [math]V\approx -\dfrac{2\times6.67\times10^{-11}\times(2.0\times10^{30}+6.0\times10^{24})}{1.5\times10^{11}}\approx -1.78\times10^{9}\ \text{J/kg}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 410725)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বিভিন্ন হিসাব নিকাশের জন্য পৃথিবীকে [math]5.5 \times 10^{3} \mathrm{kgm}^{-3}[/math] পড় ঘনত্বের ও 6400 km ব্যাসার্ধের একটি নিরেট গোলক বিবেচনা করা হয়।
+
+Options:
+ক. মহাকর্ষ ক্ষেত্র কী?
+খ. কোনো বিন্দুর মহাকর্ষীয় ক্ষেত্র প্রাবল্য বলতে কী বুঝ?
+গ. পৃথিবীর কেন্দ্র থেকে [math]8 \times 10^{6} \mathrm{~m}[/math] দূরে কোনো বিন্দুতে মহাকর্ষীয় বিভব নির্ণয় কর।
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, মহাকর্ষীয় ক্ষেত্র সৃষ্টিকারী বস্তুটির দিকে এগুতে থাকলে মহাকর্ষীয় বিভবের মান কমতে থাকে।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো বস্তুর চারপাশে যে অঞ্চলব্যাপী মহাকর্ষ বলের প্রভাব বিদ্যমান তাকে ঐ বস্তুর মহাকর্ষ ক্ষেত্র বলে। [math]\\[/math]
+ খকোনো মহাকর্ষীয় ক্ষেত্রে একক ভরের বস্তুর ওপর যে বল ক্রিয়া করে, তা-ই হলো ঐ বিন্দুর মহাকর্ষীয় প্রাবল্য। এটি একটি বিপরীত বর্গীয় রাশি, অর্থাৎ দূরত্বের বর্গের ব্যস্তানুপাতে পরিবর্তিত হয়। পৃথিবীর অভিকর্ষ ক্ষেত্রে 1kg ভরের বস্তুর যে ওজন হয়, তাই হলো ঐ অবস্থানে মহাকর্ষীয় প্রাবল্য। M ভরের বস্তুর দরুন মহাকর্ষীয় ক্ষেত্র সৃষ্টি হলে, ঐ ভর হতে r দূরত্বে মহাকর্ষীয় প্রাবল্যের মান [math]=\frac{\mathrm{GM}}{\mathrm{r}^{2}}[/math]
+ [math]\\[/math]
+ [math]\\[/math]
+ গধরি, মহাকর্ষীয় বিভবের পরিমাণ V।এখানে,পৃথিবীর ঘনত্ব, [math]\rho=5.5 \times 10^{3} \mathrm{kgm}^{-3}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6400 \mathrm{~km}=6.4 \times 10^{6} \mathrm{~m}[/math]
+পৃথিবীর কেন্দ্র হতে বস্তুর দূরত্ব, [math]\mathrm{r}=8 \times 10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.67 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+মহাকর্ষীয় বিভব, V = ?আমরা জানি, [math]V=-\frac{G M}{r}[/math]
+ ......(i)আবার, পৃথিবীর ভর [math]\mathrm{M}=\rho \mathrm{V}[/math]
+ [math]=\rho \times \frac{4}{3} \pi \mathrm{R}^{3}[/math]
+ [math]=5.5 \times 10^{3} \times \frac{4}{3} \times 3.1416 \times \left(6.4 \times 10^{6}\right)^{3}[/math]
+ [math]=6.04 \times 10^{24} \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ (i) নং সমীকরণ হতে পাই,[math]\begin{aligned}V & =-\frac{6.67 \times 10^{-11} \times 6.04 \times 10^{24}}{8 \times 10^{6}} \\& =-\frac{40.29 \times 10^{13}}{8 \times 10^{6}} \\& =-5.04 \times 10^{7} \mathrm{Jkg}^{-1} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+ ঘধরি, A বিন্দুতে বিন্দু ভর M অবস্থিত। M ভর থেকে মহাকর্ষীয় ক্ষেত্রের মধ্যে । দূরত্বে B বিন্দুতে বিভব নির্ণয় করতে হবে। A, B যোগ করি।
+[Image]
+B বিন্দুতে একক ভর স্থাপন করলে তার উপর ক্রিয়াশীল মহাকর্ষীয় বল,[math]\mathrm{F}=\mathrm{G} \frac{\mathrm{M} \times 1}{\mathrm{r}^{2}}=\frac{\mathrm{GM}}{\mathrm{r}^{2}}[/math]
+ এর দিক BA বরাবর।ধরি, B বিন্দুর বিভব V। এখন যদি এই একক ভরের বস্তুটি M ভরের বস্তুটির আকর্ষণ বল F এর ফলে বলের অভিমুখে ক্ষুদ্রাতিক্ষুদ্র দূরত্ব dr সরে C বিন্দুতে আসে, তাহলে কৃতকাজ [math]=\mathrm{Fdr} \cos 0^{\circ}[/math]
+ এবং বিভবের পরিবর্তন dV ও হবে তাই। সুতরাং[math]\mathrm{dV}=\mathrm{Fdr} \cos 0^{\circ}=\mathrm{Fdr}[/math]
+এখন এ সমীকরণকে [math]r=\infty[/math]
+ থেকে r = r এই সীমার মধ্যে সমাকলনকরে B বিন্দুতে বিভব পাই,[math]\begin{aligned}V & =\int_{\infty}^{\mathrm{r}} \mathrm{Fdr}=\int_{\infty}^{\mathrm{r}} \frac{\mathrm{GM}}{\mathrm{r}^{2}} \mathrm{dr} \\& =\mathrm{GM} \int_{\infty}^{\mathrm{r}} \frac{\mathrm{dr}}{\mathrm{r}^{2}} \\& =\mathrm{GM}\left[-\frac{1}{\mathrm{r}}\right]_{\infty}^{\mathrm{r}}=\mathrm{Gm}\left[-\frac{1}{\mathrm{r}}+\frac{1}{\infty}\right]\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]V=-\frac{G M}{r}[/math]
+এ ঋণাত্মক চিহ্ন নির্দেশ করে যে, মহাকর্ষীয় বিভব সর্বোচ্চ হবে অসীমে এবং অসীমে এর সর্বোচ্চ মান হচ্ছে শূন্য। সুতরাং অসীম থেকে ক্ষেত্র সৃষ্টিকারী বস্তুটির দিকে এগুতে থাকলে মহাকর্ষীয় বিভবের মান কমতে থাকে, অর্থাৎ ঋণাত্মক হয়।
+
+Explanation:
+ব্যাখ্যা:
+
+ক মহাকর্ষ ক্ষেত্র কী?
+মহাকর্ষ ক্ষেত্র হলো এমন ভৌত ক্ষেত্র যা কোনো ভরের presence-এ চারপাশে সুস্থিত থাকে এবং ওই ক্ষেত্রে অবস্থানকৃত অন্য ভরের ওপর মহাকর্ষীয় বল প্রয়োগ করে।
+
+খ কোনো বিন্দুর মহাকর্ষীয় ক্ষেত্র প্রাবল্য বলতে কী বুঝ?
+কোনো বিন্দুতে মহাকর্ষীয় ক্ষেত্র প্রাবল্য (field strength) হলো ঐ বিন্দুতে একক ভরের ওপর ক্রিয়াশীল মহাকর্ষীয় বল, অর্থাৎ [math]\mathbf{g}=\mathbf{F}/m[/math] এবং বাইরের স্থানে কেন্দ্রীয় ক্ষেত্রের জন্য মান [math]g=\dfrac{GM}{r^{2}}[/math]।
+
+গ পৃথিবীর কেন্দ্র থেকে [math]8\times10^{6}\,\text{m}[/math] দূরে মহাকর্ষীয় বিভব
+প্রথমে ভর নির্ণয়: [math]M=\tfrac{4}{3}\pi R^{3}\rho,\;R=6.4\times10^{6}\,\text{m},\;\rho=5.5\times10^{3}\,\text{kg/m}^{3}[/math], ফলে [math]M\approx6.04\times10^{24}\,\text{kg}[/math]. মহাকর্ষীয় বিভব বাইরের বিন্দুতে [math]V=-\dfrac{GM}{r}[/math] হওয়ায়, [math]V\approx-\dfrac{6.67\times10^{-11}\times6.04\times10^{24}}{8\times10^{6}}\approx-5.04\times10^{7}\,\text{J/kg}[/math]।
+
+ঘ সমীকরণগত বিশ্লেষণ
+বিভব [math]V(r)=-\dfrac{GM}{r}[/math], তার অভ্যন্তরীণ ডেরিভেটিভ হলো [math]\dfrac{dV}{dr}=\dfrac{GM}{r^{2}}>0[/math]; তাই যখন [math]r[/math] কমে (উইন কেন্দ্রের দিকে যাওয়া), [math]V[/math] কমে মানে তা আরও ঋণাত্মক হয় — অর্থাৎ কেন্দ্রের দিকে গেলে মহাকর্ষীয় বিভবের মান কমে।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 410724)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এর নিচের চিত্রটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:
+
+
+[Image]
+
+
+চিত্রের গোলকের কেন্দ্র C, ব্যাসার্ধ R এবং উপাদানের ঘনত্ব [math]\rho[/math] । কিন্তু সাদা অংশটি গোলক আকৃতির ফাঁপা।
+
+Options:
+ক. ভূস্থির উপগ্রহ কী?
+খ. গোলকটিকে সমতল মেঝের ওপর রাখা হলে কীভাবে অবস্থান করবে- কারণ ব্যাখ্যা কর।
+গ. গোলকটি নিরেট, এর ভর 2000 kg এবং ব্যাসার্ধ 10 cm হলে কেন্দ্র হতে 15 cm দূরের কোনো বিন্দুতে প্রাবল্য নির্ণয় কর।
+ঘ. P বিন্দুতে বিভবের রাশিমালা নির্ণয়ের পদ্ধতি বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+কনিরক্ষীয় তলে কোনো কৃত্রিম উপগ্রহের আবর্তনের সময় ও দিক যদি পৃথিবীর নিজ অক্ষে আবর্তনের সময় ও দিকের অনুরূপ হয় তবে পৃথিবীর একজন পর্যবেক্ষকের কাছে এটিকে স্থির মনে হবে। এরূপ কৃত্রিম উপগ্রহকে ভূস্থির উপগ্রহ বলে। [math]\\[/math]
+ খ
+[Image]
+গোলকটিকে সমতল মেঝের উপর রাখা হলে এটি চিত্রানুরূপ অবস্থান করবে। কারণ গোলকের ভারকেন্দ্র ফাপা অংশের বিপরীত দিকে সরে গেছে। চিত্রে প্রদর্শিত অবস্থায় গোলকের ভারকেন্দ্র সর্বাপেক্ষা নিচে অবস্থান করবে। এমতাবস্থায় গোলকের মহাকর্ষীয় বিভবশক্তি সর্বনিম্ন হবে যা বস্তুর প্রাকৃতিক ধর্ম। [math]\\[/math]
+ গএখানে,ভর, M = 2000 kgকেন্দ্র থেকে দূরত্ব, r = 15 cm = 0.15 mগোলকটি নিরেট এবং এর ব্যাসার্ধ 10 cm হলে কেন্দ্র হতে 15 cm দূরের বিন্দুটি গোলকের বাইরে অবস্থিত। সুতরাং উক্ত বিন্দুতে মহাকর্ষীয় প্রাবল্য,[math]\begin{array}{l}E_{G}=\frac{G M}{r^{2}} \\=\frac{\left(6.673 \times 10^{-11} \mathrm{~N} \cdot \mathrm{m}^{2} \cdot \mathrm{kg}^{-2}\right)(2000 \mathrm{~kg})}{(0.15 \mathrm{~m})^{2}} \\=5.93 \times 10^{-6} \mathrm{~N} \cdot \mathrm{kg}^{-1}(\text { Ans })\end{array}[/math]
+ [math]\\[/math]
+ ঘগোলকটি নিরেট হলে P বিন্দুতে বিভব হতো,
+[Image]
+[math]\begin{aligned}V_{G R}=-\frac{G M}{R} & =-\frac{G \times \frac{4}{3} \pi R^{3} \rho}{R} \\& =-\frac{4}{3} G \pi R^{2} \rho\end{aligned}[/math]
+কিন্তু গোলকের কিছু অংশ ফাপা হওয়ায় গোলকের ফাপা অংশের ভরের জন্য উক্ত বিন্দুর বিভবের পরিমাণ কম হবে। ফাপা অংশের ব্যাসার্ধ, [math]r=\frac{R}{2}[/math]
+।সুতরাং ফাপা অংশের জন্য P বিন্দুতে বিভব,[math]\begin{array}{l}V_{G r}=-\frac{G m}{r}=-\frac{G \times \frac{4}{3} \pi r^{3} \rho}{r}=-\frac{4}{3} G \pi r^{2} \rho \\=-\frac{4}{3} G \pi \frac{R^{2}}{4} \rho=-\frac{1}{3} G \pi R^{2} \rho\end{array}[/math]
+সুতরাং গোলকটির জন্য P বিন্দুতে বিভব হবে[math]V_{G}=V_{G R}-V_{G r}=-\frac{4}{3} G \pi R^{2} \rho+\frac{1}{3} G \pi R^{2} \rho=-G \pi R^{2} \rho[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ভূস্থির উপগ্রহ হল এমন একটি উপগ্রহ যা পৃথিবীর অতিপিণ্ডে সমতলের কক্ষপথে এবং ভূ-অক্ষের সমতলে থাকে, যার আবর্তন কাল পৃথিবীর নিজ-অবসন্নতার (একটি দিন) সমান হওয়ায় তা ভূ-সাহচর্যের প্রতি স্থির দেখায়; উচ্চতা প্রায় [math]35786\ \text{km}[/math]।
+
+খ ফাঁপা অংশের কারণে ভরের কেন্দ্র (CM) গোলকের জ্যামিতিক কেন্দ্র থেকে বিপরীত দিকে সরে যায়, তাই গোলকটি এমনভাবে স্থির হবে যাতে ভরের কেন্দ্র সর্বনিম্ন অবস্থায় থাকে — অর্থাৎ ফাঁপা অংশ উপরের দিকে থাকবে এবং ঘন অংশ নিচে থাকবে।
+
+গ বাইরের বিন্দুতে একটি সমতল গোলকের ক্ষেত্র বাইরে থেকে যেন কেন্দ্রীয় বিন্দু ভর হিসাবে কাজ করে: [math]g=\dfrac{GM}{r^2}[/math] যেখানে [math]G=6.67\times10^{-11}[/math], [math]M=2000\ \text{kg}[/math], [math]r=0.15\ \text{m}[/math]; তাই [math]g=\dfrac{6.67\times10^{-11}\times2000}{(0.15)^2}\approx5.93\times10^{-6}\ \text{N/kg}[/math] (কেন্দ্রের দিকে)।
+
+ঘ বিভব নির্ণয়ে সুপারপজিশন ব্যবহার করতে হয়: খালি অংশকে ঋণাত্মক ঘনবস্তুরূপে ধরা—সম্পূর্ণ ঘন গোলকের বিভব থেকে ফাঁপা গোলকের (কেন্দ্রে অবস্থান অনুযায়ী) বিভব বিয়োগ করা। বাহ্যিক বিন্দুতে সূত্র উদাহরণস্বরূপ: [math]\Phi(P)=-\dfrac{G M}{r}+\dfrac{G m_{\rm cav}}{r_{\rm cav}}[/math], এবং যদি বিন্দু কোন গোলকের ভিতরে পড়ে তবে সেই গোলকের ভিতরের বিভবের অভ্যন্তরীণ সূত্র (উদাহরণ: [math]\Phi_{\rm inside}=-\dfrac{G M}{2R^3}(3R^2-r^2)[/math]) ব্যবহার করে একইভাবে বিয়োগ করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 410723)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+A এবং B একই উপাদান এবং একই গড় ঘনত্ববিশিষ্ট দুটি গ্রহ (কাল্পনিক)। A এর ভর [math]5.93 \times 10^{24} \mathrm{~kg}[/math], ব্যাসার্ধ [math]6.93 \times 10^{6} \mathrm{~m}[/math]
+
+এবং B এর ব্যাসার্ধ [math]3 \times 10^{6} \mathrm{~m}[/math]।
+
+Options:
+ক. মহাকর্ষীয় ক্ষেত্ৰ কী?
+খ. কখন বস্তুর ভরকেন্দ্র এবং ভারকেন্দ্র একই বিন্দুতে হয়? ব্যাখ্যা করো।
+গ. A গ্রহের পৃষ্ঠের কোনো বিন্দুতে মহাকর্ষীয় বিভব নির্ণয় করো।
+ঘ. A ও B উভয় গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্যের মান কি একই হবে? গাণিতিক বিশ্লেষণসহ মন্তব্য করো।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো বস্তুর চারপাশে যে অঞ্চলব্যাপী মহাকর্ষ বলের প্রভাব বিদ্যমান তাই ঐ বস্তুর মহাকর্ষীয় ক্ষেত্র। [math]\\[/math]
+ খবস্তু কণাগুলোর সমস্ত ভরকে একটি মাত্র বিন্দুতে কেন্দ্রীভূত মনে করলে ঐ বিন্দুর মধ্য দিয়েই সমস্ত কণার উপর ক্রিয়ারত সমান্তরাল বলসমূহের লব্ধি ক্রিয়া করে বলে বিবেচিত হয়। ঐ বিন্দুকে বস্তুর ভরকেন্দ্র বলে। আবার কোনো বস্তুকে যেভাবেই রাখা হোক না কেন তার ওজন যে নির্দিষ্ট বিন্দুর মধ্য দিয়ে বস্তুর ওপর ক্রিয়া করে, তাকে বস্তুর ভারকেন্দ্র বলে। বস্তুর আকৃতি সুষম হলে এবং বস্তুর বিভিন্ন বিন্দুতে অভিকর্ষজ ত্বরণ সমান হলে বস্তুর ভরকেন্দ্র ও ভারকেন্দ্র একই বিন্দুতে হয় । [math]\\[/math]
+ গA গ্রহের পৃষ্ঠের কোনো বিন্দুতে মহাকর্ষীয় বিভব, [math]V_{A}=-\frac{G_{\mathrm{A}}}{\mathrm{R}_{\mathrm{A}}}[/math]
+এখানে,A গ্রহের ক্ষেত্রে,ভর, [math]\mathrm{M}_{\mathrm{A}}=5.93 \times 10^{24} \mathrm{~kg}[/math]
+ব্যাসার্ধ, [math]\mathrm{R}_{\mathrm{A}}=6.93 \times 10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+ [math]\begin{array}{l}=\frac{-6.673 \times 10^{-11} \times 5.93 \times 10^{24}}{6.93 \times 10^{6}} \\=-5.71 \times 10^{7} \mathrm{~V} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ ঘএখানে,A গ্রহের ক্ষেত্রে,ভর, [math]\mathrm{M}_{\mathrm{A}}=5.93 \times 10^{24} \mathrm{~kg}[/math]
+ব্যাসার্ধ, [math]\mathrm{R}_{\mathrm{A}}=6.93 \times 10^{6} \mathrm{~m}[/math]
+মহাকর্ষীয় ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+A গ্রহের আয়তন [math]V_{A}[/math]
+ হলেগড় ঘনত্ব, [math]\rho_{\mathrm{A}}=\frac{\mathrm{M}_{\mathrm{A}}}{\mathrm{V}_{\mathrm{A}}}=\frac{\mathrm{M}_{\mathrm{A}}}{\frac{4}{3} \pi R_{\mathrm{A}}{ }^{3}}[/math]
+অনুরূপভাবে,B গ্রহের গড় ঘনত্ব,[math]\begin{array}{l}\rho_{\mathrm{B}}=\frac{M_{\mathrm{B}}}{V_{\mathrm{B}}} \\=\frac{M_{\mathrm{B}}}{\frac{4}{3} \pi \mathrm{R}_{\mathrm{B}}{ }^{3}}\end{array}[/math]
+[ যেখানে; Mg = B গ্রহের ভর ] উভয় গ্রহের গড় ঘনত্ব সমান হওয়ায়,[math]\rho_{A}=\rho_{B}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{M_{A}}{\frac{4}{3} \pi R_{A^{3}}^{3}}=\frac{M_{B}}{\frac{4}{3} \pi R_{B}^{3}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{M_{A}}{R_{A}{ }^{3}}=\frac{M_{B}}{R_{B}^{3}}[/math]
+ [math]\Rightarrow[/math]
+ [math]M_{B}=\frac{M_{A}{ }_{A} \mathrm{R}_{\mathrm{B}}^{3}}{\mathrm{R}_{\mathrm{A}}^{3}}=\frac{5.93 \times 10^{24} \times\left(3 \times 10^{6}\right)^{3}}{\left(6.93 \times 10^{6}\right)^{3}}[/math]
+ [math]=4.81 \times 10^{23} \mathrm{~kg}[/math]
+এখন, A গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্য ,[math]\mathrm{E}_{\mathrm{A}}=\frac{\mathrm{GM}_{\mathrm{A}}}{\mathrm{R}_{\mathrm{A}}{ }^{2}}=\frac{6.673 \times 10^{-11} \times 5.93 \times 10^{24}}{\left(6.93 \times 10^{6}\right)^{2}}=8.24 \mathrm{\ Nkg}^{-1}[/math]
+আবার, B গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্য,[math]\mathrm{E}_{\mathrm{B}}=\frac{\mathrm{GM}_{\mathrm{B}}}{\mathrm{R}_{\mathrm{B}}^{2}}=\frac{6.673 \times 10^{-11} \times 4.81 \times 10^{23}}{\left(3 \times 10^{6}\right)^{2}}=3.566 \mathrm{\ Nkg}^{-1}[/math]
+দেখা যাচ্ছে, [math]\mathrm{E}_{\mathrm{A}} 
+eq \mathrm{E}_{\mathrm{B}}[/math]
+অর্থাৎ, A ও B উভয় গ্রহের পৃষ্ঠে মহাকর্ষীয় প্রাবল্যের মান একই হবে না।
+
+Explanation:
+ব্যাখ্যা:
+
+ক মহাকর্ষীয় ক্ষেত্র হল একক ভরের উপর ক্রিয়া করা মহাকর্ষীয় বল; কেন্দ্র থেকে দূরত্ব [math]r[/math] এ একটি বস্তুতে এটি [math]g=\dfrac{GM}{r^2}[/math] (কেন্দ্রের দিকে) দ্বারা দেওয়া হয়।
+
+খ ভরকেন্দ্র এবং ভারকেন্দ্র তখনই একই বিন্দুতে থাকে যখন গ্রহের উপর কার্যকর মহাকর্ষীয় ক্ষেত্র শরীরে সমান (ইউনিফর্ম) হয় বা যখন শরীরটি সpherিক্যালভাবে সমবণ্টিত এবং ক্ষেত্রটি তার কেন্দ্র থেকে কেন্দ্রীয়ভাবে আসে — তখন সমস্ত বাহুবিপর্যয় শূন্যে মিলিত হয় এবং ভারকেন্দ্র ভরকেন্দ্রে থাকে।
+
+গ A গ্রহের পৃষ্ঠের মহাকর্ষীয় বিভব [math]V=-\dfrac{GM}{R}[/math] ; এখানে [math]G=6.67\times10^{-11}[/math], [math]M=5.93\times10^{24}\ \mathrm{kg}[/math], [math]R=6.93\times10^{6}\ \mathrm{m}[/math] হলে [math]V\approx -\dfrac{6.67\times10^{-11}\times5.93\times10^{24}}{6.93\times10^{6}}\approx -5.71\times10^{7}\ \mathrm{J/kg}[/math]।
+
+ঘ না—একই গড় ঘনত্ব থাকলে [math]M\propto R^3[/math] হওয়ায় [math]g=\dfrac{GM}{R^2}\propto R[/math] হয়, তাই বৃহৎ ব্যাসার্ধে বেশি গতি। সংখ্যায়, A-র পৃষ্ঠে [math]g_A=\dfrac{GM}{R^2}\approx 8.24\ \mathrm{m/s^2}[/math] এবং B-তে [math]g_B\approx 3.57\ \mathrm{m/s^2}[/math] (অর্থাৎ সমান নয়)।
+
+Sub-Questions:
+

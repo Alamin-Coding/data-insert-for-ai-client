@@ -1,0 +1,588 @@
+================================================================================
+Question #1 (ID: 428268)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি দাগের উপর [math]3 cm[/math] পুরু একখণ্ড কাচ রাখা হলো। দাগের আপাত সরণ কত? (কাচের প্রতিসারক [math]=1.5[/math])।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,দাগের প্রকৃত দূরত্ব, [math]u=3 \ cm[/math]
+কাচের প্রতিসরাঙ্ক, [math]{}_a\mu_{g}=1.5[/math]
+দাগের আপাত সরণ, [math]d=?[/math]
+ [math]\\[/math]
+দাগের আপাত দূরত্ব হলে [math]v[/math]
+ আমার জানি,[math]{}_a \mu_{g}=[/math]
+প্রকৃত দূরত্ব/আপাত দূরত্ব$\begin{array}{l}\Rightarrow {}_a \mu_{\mathrm{g}}=\frac{\mathrm{u}}{\mathrm{v}} \\ \Rightarrow \mathrm{v}=\frac{\mathrm{u}}{{}_a \mu_{g}}=\frac{3 \mathrm{~cm}}{1.5} \\ \therefore v=2 \mathrm{~cm} \end{array}$অতএব, দাগের আপাত সরণ,[math]\begin{aligned} d & =u-v=3 \mathrm{~cm}-2 \mathrm{~cm} \\ & =1 \mathrm{~cm} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পাতলা কাচের জন্য আপাত সরণের সূত্র [math]d=t\Big(1-\frac{1}{n}\Big)[/math]। এখানে [math]t=3\text{ cm}[/math], [math]n=1.5[/math], তাই [math]d=3\Big(1-\frac{1}{1.5}\Big)=3\times\frac{1}{3}=1\text{ cm}[/math]। আলো কাচে ধীর গতিতে যাওয়ায় দাগটি প্রকৃত অবস্থানের তুলনায় [math]1\text{ cm}[/math] কাছাকাছি দেখা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 428267)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আলো হীরক থেকে কাছে আপতিত হচ্ছে। আপতন কোণ [math]200[/math] হলে, প্রতিসরণ কোণ [math]33°[/math] হয়। কাচের প্রতিসরাঙ্ক [math]1.5[/math] হলে হীরকের প্রতিসরাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.3886[/math]
+ [math]\\[/math]
+ [math][/math]
+হীরকের সাপেক্ষে কাচের প্রতিসরাঙ্ক [math]{}_d \mu_g[/math]
+ হলেএখানে,আপতন কোণ, [math]i=20^{\circ}[/math]
+প্রতিসরণ কোণ, [math]r=33^{\circ}[/math]
+কাচের প্রতিসরাঙ্ক, [math]\mu_g=1.5[/math]
+হীরকের প্রতিসরাঙ্ক, [math]\mu_d=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]{}_\mathrm{d} \mu_{\mathrm{s}}=\frac{\sin \mathrm{i}}{\sin \mathrm{r}}[/math]
+আবার, [math]{ }_{\mathrm{d}} \mu_{\mathrm{g}}=\frac{\mu_{g}}{\mu_{\mathrm{d}}}[/math]
+ [math]\begin{array}{l} \therefore \frac{\mu_{g}}{\mu_{d}}=\frac{\sin \mathrm{i}}{\sin \mathrm{r}} \\ \Rightarrow \mu_{d}=\frac{\sin \mathrm{r}}{\sin \mathrm{i}} \times \mu_{g}=\frac{\sin 33^{\circ}}{\sin 20^{\circ}} \times 1.5 \\ \therefore \mu_{d}=2.3886 \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: আপতন এবং প্রতিসরণ কোণের মাঝে সম্পর্ক Snell-এর সূত্র দ্বারা দেওয়া হয়: [math]n_{\text{হীরক}}\sin i = n_{\text{কাচ}}\sin r[/math]. তাই [math]n_{\text{হীরক}} = n_{\text{কাচ}}\dfrac{\sin r}{\sin i} = 1.5\cdot\dfrac{\sin 33^\circ}{\sin 20^\circ} \approx 2.39[/math], তাই হীরকের প্রতিসরাঙ্ক প্রায় [math]2.39[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 428266)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আলো বায়ু থেকে কাচে প্রবেশের সময়, আপতন কোণ [math]50^{\circ}[/math] | হলে প্রতিসরণ কোণ [math]30°[/math] হয়। আলো কাচ থেকে বায়ুতে প্রবেশের সময় আপতন কোণ [math]30°[/math] হলে প্রতিসরণ কোণ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]50^{\circ}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,আলো কাচে প্রবেশের সময় আপতন কোণ, [math]i_{1}=50^{\circ}[/math]
+প্রতিসরণ কোণ, [math]r_{1}=30^{\circ}[/math]
+কাচ থেকে বায়ুতে প্রবেশের সময় আপতন কোণ, [math]i_{2}=30^{\circ}[/math]
+প্রতিসরণ কোণ, [math]r_{2}=?[/math]
+বায়ুর সাপেক্ষে কাচের প্রতিসরাঙ্ক [math]{}_a \mu_g[/math]
+ এবং কাচের সাপেক্ষে বায়ুর প্রতিসরাঙ্ক [math]{}_g \mu_{a}[/math]
+ হলে-আমরা জানি,[math]{}_a \mu_g = \frac{1}{{}_g \mu_a}[/math]
+আবার,[math]{}_a \mu_g=\frac{\sin i_{1}}{\sin r_{1}}[/math]
+এবং [math]{ }_{g} \mu_{a}=\frac{\sin i_{2}}{\sin r_{2}}[/math]
+ [math]\begin{array}{l} \therefore \frac{\sin i_{1}}{\sin r_{1}}=\frac{1}{\frac{\sin i_{2}}{\sin r_{2}}} \\ \Rightarrow \frac{\sin i_{1}}{\sin r_{1}}=\frac{\sin r_{2}}{\sin i_{2}} \\ \Rightarrow r_{2}=\sin ^{-1}\left(\frac{\sin i_{1}}{\sin r_{1}} \times \sin i_{2}\right)=\sin ^{-1}\left(\frac{\sin 50^{\circ}}{\sin 30^{\circ}} \times \sin 30^{\circ}\right) \\ \therefore \quad r_{2}=50^{\circ} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+Snell সংখ্যার সূত্র প্রয়োগ করলে কাচের পরাবর্তন সূচ হলো [math]n=\dfrac{\sin50^\circ}{\sin30^\circ}[/math] যা হল [math]1.532[/math]. কাচ থেকে বায়ুতে আপতন কোণ [math]30^\circ[/math] হলে [math]\sin R=\dfrac{n\sin30^\circ}{1}=1.532\times\sin30^\circ=0.766=\sin50^\circ[/math], তাই প্রতিসরণ কোণ [math]50^\circ[/math]। Reversibility (পথের উল্টোযোগ্যতা) অনুযায়ী একই কোণই ফিরে পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 428265)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আলো বায়ু হতে কাঁচে [math]0°[/math] আপতন কোণে প্রবেশ করছে। প্রতিসরণ কোণ কত হবে? [math]({}_a \mu_g =1.5)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+প্রতিসরণ কোণ [math]0^{\circ}[/math]
+। রশ্মি সোজাসুজি চলে যাবে।
+
+Explanation:
+ব্যাখ্যা: সাধারন আপতনে প্রবেশকালে প্রতিসরণ কোণ শূন্য হয়। কারণ স্নেল-এর সূত্র [math]n_1\sin i=n_2\sin r[/math], এখানে [math]i=0^\circ[/math] হলে [math]\sin r=0[/math] এবং তাই [math]r=0^\circ[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 428264)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অবতল প্রতিসারক পৃষ্ঠের বক্রতার ব্যাসার্ধ [math]15 \ cm[/math] এবং সম্মুখে প্রধান অক্ষের ওপর [math]10 \ cm[/math] দূরে একটি বস্তু অবস্থিত। প্রতিবিম্বের অবস্থান ও প্রকৃতি নির্ণয় করো। প্রথম মাধ্যমের সাপেক্ষে দ্বিতীয় মাধ্যমের প্রতিসরকে [math]1.5[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]11.25 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রতিসারক পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r=-15 \ cm[/math]
+লক্ষ্যবস্তুর দূরত্ব, [math]u=10 \ cm[/math]
+প্রতিসরাঙ্ক, [math]\mu =1.5[/math]
+প্রতিবিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l}\frac{\mu}{v}+\frac{1}{u}=\frac{\mu-1}{r} \\\Rightarrow \frac{1.5}{v}+\frac{1}{10 \mathrm{~cm}}=\frac{1.5-1}{-15 \mathrm{~cm}} \\\Rightarrow \frac{1.5}{v}=\frac{0.5}{-15 \mathrm{~cm}}-\frac{1}{10 \mathrm{~cm}}\\\Rightarrow \frac{1.5}{v}=-\frac{2}{15} \mathrm{~cm}\\\Rightarrow v=-\frac{45}{4} \mathrm{~cm}=-11.25 \mathrm{~cm}\end{array}[/math]
+ [math]\therefore[/math]
+ প্রতিবিম্বের দূরত্ব [math]11.25 \ cm[/math]
+ [math]\because[/math]
+ v ঋণাত্মক অর্থাৎ প্রতিবিম্ব অবাস্তব। [math](Ans.)[/math]
+
+
+Explanation:
+প্রতিসারক পৃষ্ঠের সূত্র ব্যবহার করলে লক্ষ করি যে বস্তু এবং বক্রতার কেন্দ্র উভয়ই প্রতিসারের সম্মুখে (ইনসিডেন্ট পাশেই), তাই [math]u=-10\ cm,\ R=-15\ cm,\ n_1=1,\ n_2=1.5[/math] নিতে হবে। সূত্র: [math]\frac{n_2}{v}-\frac{n_1}{u}=\frac{n_2-n_1}{R}[/math], ফলে [math]\frac{1.5}{v}-\frac{1}{-10}=\frac{0.5}{-15}\Rightarrow v=-11.25\ cm[/math]. নেতিবাচক [math]v[/math] মান থেকে ইমেজ বস্তুপাশেই স্থাপন (ভার্চুয়াল), এবং গুণফল [math]m=\frac{n_1u}{n_2v}=\frac{1(-10)}{1.5(-11.25)}\approx0.593[/math] ধনাত্মক হওয়ায় ইমেজ সমোন্নত (erect) এবং ক্ষুদ্রিত।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 428263)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল প্রতিসারক পৃষ্ঠের শত্রুতার ব্যাসার্ধ [math]10 \ cm[/math] এবং এর সম্মুখে প্রধান অক্ষের উপর [math]15 \ cm[/math] দূরে একটি বস্তু অবস্থিত। প্রতিবিম্বের অবস্থান ও প্রকৃতি নির্ণয় কর। প্রথম মাধ্যমে সাপেক্ষে দ্বিতীয় মাধ্যমের প্রতিসরা [math]1.5[/math] ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]90 \ cm,[/math]অবাস্তব।
+
+Explanation:
+[math]\frac{n_2}{v}-\frac{n_1}{u}=\frac{n_2-n_1}{R}[/math] সূত্রে, প্রথম মাধ্যমে [math]n_1=1[/math], দ্বিতীয় মাধ্যমে [math]n_2=1.5[/math], অগ্রভ্রমণের দিকে দিয়ে মাপলে বস্তু দূরত্ব [math]u=-15\ \text{cm}[/math] এবং উত্তল পৃষ্ঠের কেন্দ্র বস্তু পাশেই হলে [math]R=-10\ \text{cm}[/math] নেওয়া হলে,  
+[math]\frac{1.5}{v}-\frac{1}{-15}=\frac{0.5}{-10}\Rightarrow \frac{1.5}{v}=-0.116667\Rightarrow v\approx -12.86\ \text{cm}[/math].  
+অর্থাৎ প্রতিবিম্ব পৃষ্ঠের একই পার্শ্বে (বস্তুর পাশে) প্রায় [math]12.86\ \text{cm}[/math] দূরে এবং ভার্চুয়াল (নির্গত নয়) — ছোট ও উদিত নয়, আকারে ছোট (diminished)।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 428262)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+পুকুরের মধ্যে অবস্থিত একটি আলোক উৎস হতে আলোক রশ্মি পানির উপরিভাগে আপতিত হচ্ছে। প্রতিসরণ কোণ [math]42^\circ[/math] হলে আপতন কোণ কত? [পানির প্রতিসরাংক [math]1.33[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]30.2^{\circ}[/math]
+)[math]\\[/math]
+Solution : [math]{}_w\mu_{a}=\dfrac{\sin \mathrm{i}}{\sin \mathrm{r}}=\dfrac{\sin \mathrm{i}}{\sin 42^{\circ}}\\ \Rightarrow {}_w\mu_{\mathrm{a}}=\dfrac{1}{{ }_{\mathrm{a}} {}_a\mu_{\mathrm{w}}}=\dfrac{\sin \mathrm{i}}{\sin 42^{\circ}}\\ \Rightarrow \sin \mathrm{i}=\dfrac{\sin 42^{\circ}}{1.33}=0.5031 \\ \therefore \mathrm{i}=\sin ^{-1}(0.5051)=30.2^{\circ} \text { (Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: পানির মধ্যে আপতন কোণ [math]i[/math] জানতে স্নেলের সূত্র প্রযোজ্য: [math]n_{\text{water}}\sin i = n_{\text{air}}\sin 42^\circ[/math]. তাই [math]\sin i = \dfrac{\sin 42^\circ}{1.33} \approx 0.5031[/math] এবং [math]i \approx 30.2^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 428261)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+বরফে আলোর গতি [math]2.3 \times 10^{8} \mathrm{~m} / \mathrm{sec}[/math]. বরফের প্রতিসরাং ক নির্ণয় কর। বরফের মাধ্যম থেকে বায়ুর মাধ্যমে যেতে হলে আলোর সংকট কোণ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]{ }_{0} \mu_{\mathrm{i}}=\dfrac{\mathrm{C}_{0}}{\mathrm{C}_{\mathrm{i}}}=\dfrac{3 \times 10^{8}}{2.3 \times 10^{8}}=1.304 \text { (Ans.) }\\ \sin \theta_{\mathrm{c}}=\dfrac{1}{{ }_{0} \mu_{\mathrm{i}}}=\dfrac{1}{1.304} \therefore \theta_{\mathrm{c}}=50.07^{\circ} \text { (Ans.) }[/math]
+
+Explanation:
+ব্যাখ্যা:
+ক বরফের প্রতিসরাংক: [math]n=\frac{c}{v}=\frac{3.00\times10^8}{2.3\times10^8}\approx1.30[/math]।
+খ সংকটকোণ: Snell-এর সূত্রে রিফ্রাকশন কোণ [math]90^\circ[/math] হলে [math]\sin\theta_c=\frac{n_{\text{air}}}{n_{\text{ice}}}=\frac{1}{1.30}\approx0.766[/math], তাই [math]\theta_c=\arcsin(0.766)\approx50^\circ[/math]। 
+
+সংক্ষेपে: প্রথমটি আলোর গতি অনুপাতে প্রতিসরাংক নির্ণয় করে এবং সংকটকোণ তা থেকেই Snell-এর সূত্র প্রয়োগে পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 428260)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+স্থির পানিতে [math]50cm[/math] গভীরতায় একটি মাছ আছে। প্রমাণ কর যে, মাছের চোখে পানির তল [math]57c m[/math] ব্যাসার্ধের একটি বৃত্ত মনে হবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]57 \mathrm{~cm}[/math]
+)[math]\\[/math]
+Solution : আমরা জানি, পানির প্রতিসরণাঙ্ক [math]=\dfrac{4}{3} \therefore \sin \theta_{c}=\dfrac{1}{\mu}=\dfrac{3}{4} \therefore \theta_{c}=48.59^{\circ}[/math]
+
+[Image]
+এখন, [math]\tan \theta_{\mathrm{c}}=\dfrac{\mathrm{r}}{\mathrm{h}} \quad \therefore \mathrm{r}=\mathrm{h} \tan \theta_{\mathrm{c}}=0.5 \tan \left(48.59^{\circ}\right)=0.5669467 \mathrm{~m} \approx 0.57 \mathrm{~m}[/math]
+সুতরাং মাছের চোখে পানির তল [math]57\mathrm{cm}[/math]
+ ব্যাসার্ধের একটি বৃত্ত মনে হবে।
+
+Explanation:
+বিষয়টি: পানির অভ্যন্তর থেকে বাতাসে আলো বের হওয়ার ক্রিটিক্যাল কোণ।  
+প্রাথমিক ধাপ: ক্রিটিক্যাল কোণ দিন: [math]\sin\theta_c=\dfrac{n_{\text{বায়ু}}}{n_{\text{পানি}}}=\dfrac{1}{1.33}\Rightarrow \theta_c\approx48.75^\circ[/math].  
+রশ্মি জ্যামিতি থেকে সরল সম্পর্ক: [math]\tan\theta_c=\dfrac{r}{h}[/math], ফলে [math]r=h\tan\theta_c=50\ \text{cm}\times\tan(48.75^\circ)\approx50\times1.14\approx57\ \text{cm}[/math]। তাই মাছের চোখে পানির তলের প্রক্ষেপিত বৃত্তের ব্যাসার্ধ প্রায় [math]57\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 428273)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Govt. Majid Mammorial City College. Khulna
+--------------------------------------------------------------------------------
+Question:
+প্রকৃত গভীরতা [math]= 4\ cm[/math] কাচ ফলকের [math]AB[/math] তলে লম্বভাবে তাকালে এর পুরত্ব [math]2.5\ cm[/math] এবং [math]C[/math] বিন্দুতে তাকালে [math]2.9\ cm[/math] মনে হয়।
+
+[Image]
+
+
+Options:
+ঘ. গোলীয় পৃষ্ঠের বক্রতার ব্যাসার্ধ নির্ণয় সম্ভব— গাণিতিক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,পানির প্রতিসরাঙ্ক, [math]\mu_w = \frac{4}{3} = 1.33[/math]
+কাচের প্রতিসরাঙ্ক, [math]\mu_g = 1.83[/math]
+ [গ নং থেকে]প্রকৃত গভীরতা, u = 4 cmআপাত গভীরতা, v = 2.9cmবক্রতার ব্যাসার্ধ, r = ?আমরা জানি,[math]\begin{array}{l}\quad \frac{\mu_{w}}{u}+\frac{\mu_{g}}{v}=\frac{\mu_{g}-\mu_{w}}{r} \\\Rightarrow \frac{1.33}{4}+\frac{1.33}{-2.9}=\frac{1.83-1.33}{\frac{r}{\dot{l}}} \\\Rightarrow 0.3325-0.458=\frac{0.5}{r} \\\Rightarrow \quad r=\frac{0.5}{-0.1255} \\\therefore \quad r=-3.98 \mathrm{~cm}\end{array}[/math]
+সুতরাং, গোলীয় পৃষ্ঠের ব্যাসার্ধ – 3.98 cm।
+
+Explanation:
+ঘ ব্যাখ্যা: প্রথমে প্লেন তল দিয়ে সোজা তাকালে পরিবহকের সূচক [math]\mu[/math] পাওয়া যায়: [math]\mu=\dfrac{4}{2.5}=1.6[/math]. এরপর বক্র পৃষ্ঠে প্রতিফলনের সাধারণ সূত্র ব্যবহার করে বক্রতার ব্যাসার্ধ নির্ণয় করা যায়: বক্র পৃষ্ঠের প্রতিসরণ সূত্র [math]\dfrac{n_2}{v}-\dfrac{n_1}{u}=\dfrac{n_2-n_1}{R}[/math] এ এখানে [math]n_1=\mu,\;n_2=1[/math], এবং প্রদত্ত আপারেন্ট ডেপথ [math]v[/math] ও জ্ঞানত বাস্তব দূরত্ব [math]u[/math] বসিয়ে সমীকরণ থেকে [math]R[/math] সমাধান করা যায়; তাই ব্যাসার্ধ নির্ণয় সম্ভব।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 428270)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আলো কাচ থেকে বায়ুতে প্রবেশের সময় আপতন কোণ [math]30^{\circ}[/math] হলে প্রতিসরণ কোণ কত হবে? [math]([/math]কাচের প্রতিসরাঙ্ক [math]=1 .52)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]49^{\circ}27^{\prime}[/math]
+ [math]\\[/math]
+ [math][/math]
+আলো এক্ষেত্রে কাচ থেকে বায়ুতে প্রবেশ করে।এখানে,আপতন কোণ, [math]i=30^{\circ}[/math]
+কাচের প্রতিসরাঙ্ক, [math]\mu = 1.52[/math]
+প্রতিসরণ কোণ, [math]r=?[/math]
+ [math]\\[/math]
+কাচের সাপেক্ষে বায়ুর প্রতিসরাঙ্ক, [math]{}_a \mu_{g}=\frac{1}{\mu}=\frac{1}{1.52}[/math]
+আমরা জানি,[math]\begin{array}{l} {}_g\mu_{a}=\frac{\sin i}{\sin r} \\ \Rightarrow \frac{1}{1.52}=\frac{\sin 30^{\circ}}{\sin r} \\ \therefore \sin r=0.76 \end{array}[/math]
+ [math]\therefore r=\sin ^{-1}(0.76)=49.46^{\circ}=49^{\circ} 27^{\prime} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিসরণ কোণ বের করতে স্নেলের সূত্র ব্যবহার করি: [math]n_1\sin\theta_1=n_2\sin\theta_2[/math]. কাঁচের প্রতিসরাঙ্ক [math]n_1=1.52[/math], বায়ু [math]n_2=1[/math], এবং [math]\theta_1=30^\circ[/math], তাই [math]1.52\sin30^\circ=1\cdot\sin r\Rightarrow \sin r=0.76[/math], ফলে [math]r=\arcsin(0.76)\approx49.5^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 428271)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ট্যাঙ্কে [math]10 \ cm[/math] বক্রতার ব্যাসার্ধবিশিষ্ট একটি ছোটো জানালা আছে। জানালাটির উত্তল পৃষ্ঠ ট্যাংকের বাইরের দিকে অবস্থি ত। ট্যাঙ্কটি [math]1.5[/math] প্রতিসরণাঙ্কের তরল দ্বারা পূর্ণ। একটি বৈদ্যুতিক বাতিকে জানালা থেকে [math]40 \ cm[/math] দূরে ট্যাঙ্কের (i) বাইরের দিকে, (ii) ভেতরের দিকে রাখা আছে। প্রত্যেক ক্ষেত্রে বাতির বিম্বের অবস্থান ও প্রকৃতি নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](i)[/math]
+ভেতরের দিকে [math]60 \ cm[/math]
+ দূরে বিম্বটি অবস্থিত।[math](ii)[/math]
+বায়ুতে [math]80 \ cm[/math]
+ দূরে বাস্তব বিম্ব গঠিত হবে।[math]\\[/math]
+ [math][/math]
+এক্ষেত্রে আলোক রশ্মি বায়ু থেকে উত্তল পৃষ্ঠে আপতিত হয়ে পানিতে প্রতিসৃত হয়।এখানে,লক্ষ্যবস্তুর দূরত্ব, [math]u= 40 \ cm[/math]
+বক্রতার ব্যাসার্ধ, [math]r=10 \ cm[/math]
+ত্রলের প্রতিসরণাংক, [math]\mu_{2}=1.5[/math]
+লক্ষ্য বস্তুর মাধ্যমের প্রতিসরণাঙ্ক, [math]\mu_{1}=1[/math]
+বিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{\mu_{\mathrm{2}}}{\mathrm{v}}+\frac{\mu_{\mathrm{1}}}{\mathrm{u}}=\frac{\mu_{\mathrm{2}}-\mu_{\mathrm{1}}}{\mathrm{r}} \\ \Rightarrow \frac{1.5}{\mathrm{v}}+\frac{1}{40}=\frac{1.5-1}{10} \\ \Rightarrow \mathrm{v}=60 \mathrm{~cm} \end{array}[/math]
+ [math]\therefore \ v= +ve[/math]
+ সুতরাং বিম্ব বাস্তব।ভেতরের দিকে [math]60 \ cm[/math]
+ দূরে বিম্বটি অবস্থিত।[math]\\[/math]
+(খ) এক্ষেত্রে আলোক রশ্মি তরল থেকে বোতল পৃষ্ঠে আপতিত হয়ে বায়ুতে প্রতিসৃত হয়।এখানে,লক্ষ্যবস্তুর দূরত্ব, [math]u=40 \ cm[/math]
+বক্রতার ব্যাসার্ধ, [math]r=10 \ cm[/math]
+লক্ষ্যবস্তুর মাধ্যমের প্রতিসরণাঙ্ক, [math]\mu_{2}=1.5[/math]
+প্রতিসারক মাধ্যমের প্রতিসরণাঙ্ক, [math]\mu_{1}=1[/math]
+বিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{\mu_{2}}{\mathrm{v}}+\frac{\mu_{1}}{\mathrm{u}}=\frac{\mu_{2}-\mu_{1}}{\mathrm{r}} . \\ \Rightarrow \frac{1}{\mathrm{v}}+\frac{1.5}{40}=\frac{1-1.5}{-10} \\ \therefore \mathrm{v}=80 \mathrm{~cm} \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+সামান্য কোণ ধরে spherical refracting surface সূত্র ব্যবহার করা যায়: [math]\frac{n_2}{v}-\frac{n_1}{u}=\frac{n_2-n_1}{R}[/math].
+
+(i) বাতি ট্যাঙ্কের বাইরে: এখানে [math]n_1=1,\;n_2=1.5,\;u=+40\ \text{cm},\;R=+10\ \text{cm}[/math], তাই [math]\frac{1.5}{v}-\frac{1}{40}=0.05\Rightarrow v=20\ \text{cm}[/math]. ফলে চিত্র তরলের ভিতরে [math]20\ \text{cm}[/math] দূরে এবং বাস্তব চিত্র। 
+
+(ii) বাতি ট্যাঙ্কের ভিতরে: এখন [math]n_1=1.5,\;n_2=1,\;u=+40\ \text{cm},\;R=-10\ \text{cm}[/math], ফলে [math]\frac{1}{v}-\frac{1.5}{40}=0.05\Rightarrow v\approx11.43\ \text{cm}[/math]. ফলে চিত্র বায়ুর দিকে বাহিরে প্রায় [math]11.43\ \text{cm}[/math] এ অবস্থান করে এবং বাস্তব চিত্র।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 428272)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কাচের গোলকের এক পৃষ্ঠে একটি চিহ্ন দিয়ে ঠিক বিপরীত পৃষ্ঠ থেকে ব্যাস বরাবর চিহ্নটিকে সোজাসুজি কাচের ভেতর দিয়ে লক্ষ্য করলে চিহ্নটিকে কোথায় দেখা যাবে? গোলকের ব্যাস [math]10 \ cm[/math] এবং কাচের প্রতিসরাঙ্ক [math]1.5[/math] ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-20 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বস্তুর দূরত্ব, [math]u=10 \ cm[/math]
+বক্রতার ব্যাসার্ধ, [math]r=-5 \ cm[/math]
+কাচের প্রতিসরাংক, [math]\mu_{1}=1.5[/math]
+বায়ুর প্রতিসরাংক, [math]\mu_{2}=1[/math]
+বিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{\mu_{2}}{v}+\frac{\mu_{1}}{u}=\frac{\mu_{2}-\mu_{1}}{r} \\ \Rightarrow \frac{1}{v}+\frac{1.5}{10}=\frac{1-1.5}{-5} \\ \Rightarrow \frac{1}{v}=-0.15+0.1=-0.05 \\ \therefore \mathrm{v}=\frac{-1}{0.05}=-20 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কাচ থেকে বায়ুতে অক্ষীয় আভাস নির্ণয়ের জন্য গোলকীয় আপতন সূত্র ব্যবহার করা যায়: [math]\frac{n_2}{s'}-\frac{n_1}{s}=\frac{n_2-n_1}{R}[/math]. এখানে অভ্যন্তরে থেকে বাইরে যাচ্ছি তাই [math]n_1=1.5,\;n_2=1[/math], বস্তু দূরত্ব [math]s=10\ cm[/math] (গতিপথে বাম থেকে), এবং দিক অনুযায়ী কেন্দ্র বামদিকে থাকায় [math]R=-5\ cm[/math]; ফলে [math]\frac{1}{s'}-\frac{1.5}{10}=\frac{1-1.5}{-5}\Rightarrow \frac{1}{s'}=0.25[/math] এবং [math]s'=4\ cm[/math]. এজন্য চিহ্নটি পর্যবেক্ষকের সামনে বাহ্যিক বাতাসে দূরপৃষ্ঠ থেকে [math]4\ cm[/math] দূরে দেখা যাবে (অর্থাৎ দূরের পৃষ্ঠার বাইরে 4 সেমি ছোঁয়ায়)।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 428269)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+গ্লিসারিনের প্রতিসরাঙ্ক [math]1.466[/math]।
+
+Options:
+ক. বায়ু এবং গ্লিসারিনের মধ্যে সঙ্কট কোণ কত?
+খ. আলো গ্লিসারিন হতে বায়ুতে গমনের সময় যদি [math]50°[/math] কোণে আপতিত হয়, তাহলে প্রতিসরণ কোণ কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+[math]43^{\circ},1.123>1[/math]
+ [math]\\[/math]
+ [math][/math]
+(ক)এখানে,গ্লিসারিনের প্রতিসরাঙ্ক, [math]{}_a \mu_{g}=1.466[/math]
+বায়ু ও গ্লিসারিনের মধ্যে সংকটে কোণ, [math]\theta_{c}=?[/math]
+আমরা জানি,[math]{}_a \mu_{g}=\frac{1}{sin \ \theta_{c}}[/math]
+ [math]sin \theta_{c}=\frac{1}{{}_a \mu_g}[/math]
+ [math]\begin{array}{l} \Rightarrow \theta_{c}=\sin ^{-1}\left(\frac{1}{a \mu_{0}}\right)=\sin ^{-1}\left(\frac{1}{1.466}\right) \\ \therefore \theta_{c}=43^{\circ} \text { (Ans.) } \end{array}[/math]
+(খ)এখানে,আপতন কোণ, [math]i=50^{\circ}[/math]
+বায়ু ও গ্লিসারিনের মধ্যে সংকট কোণ, [math]\theta_{c}=43^{\circ}[/math]
+[ক হতে]প্রতিসরণ কোণ, [math]r=?[/math]
+ [math]\\[/math]
+ [math]\begin{array}{l} {}_g\mu_{a}=\frac{\sin \mathrm{i}}{\sin \mathrm{r}} \\ \Rightarrow \frac{1}{{}_a\mu_{g}}=\frac{\sin \mathrm{i}}{\sin \mathrm{r}} \\ \Rightarrow \sin \mathrm{r}={}_a \mu_{\mathrm{H}} \times \sin \mathrm{i} \\ \Rightarrow \sin r=1.466 \times \sin 50^{\circ} \\ \Rightarrow \sin r=1.123>1 \\ \end{array}[/math]
+অতএব, এক্ষেত্রে আলোক রশ্মি গ্লিসারিন হতে বায়ুতে প্রতিসরিত না হয়ে গ্লিসারিনে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক সংকট কোণের সূত্র [math]\sin\theta_c=\dfrac{n_{\text{বায়ু}}}{n_{\text{গ্লিসারিন}}}[/math] তাই [math]\sin\theta_c=\dfrac{1}{1.466}\approx0.6825[/math] এবং [math]\theta_c\approx\arcsin(0.6825)\approx43.1^\circ[/math]।
+
+খ [math]50^\circ>43.1^\circ[/math] হওয়ায় মোট অভ্যন্তরীণ প্রতিবিম্ব ঘটে এবং কোনো প্রক্ষেপিত রশ্মি হয় না; পরীক্ষা হিসেবে স্নেল: [math]\sin r=\dfrac{n_{\text{গ্লিসারিন}}}{n_{\text{বায়ু}}}\sin50^\circ=1.466\times\sin50^\circ\approx1.123>1[/math], যা অসম্ভব।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 428259)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]20cm[/math] গভীরতা বিশিষ্ট কোন পাত্রের এক পঞ্চমাংশ [math]\dfrac{4}{3}[/math] প্রতিসরনাঙ্কের তরল এবং বাকী অংশ [math]1.6[/math] প্রতিসরনাঙ্কের তরল পদার্থ দ্বারা পূর্ণ করা হলো।খাড়া উপরের দিক থেকে নীচের দিকে তাকালে ঐ পাত্রের আপাত গভীরতা কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]13 \rm{cm}[/math]
+)[math]\\[/math]
+Solution : ১ম তরলের জন্য, [math]\dfrac{4}{3}=\dfrac{\frac{1}{5} \times 20}{v} ; v=\dfrac{4}{\frac{4}{3}}=3 \mathrm{~cm}\left[\because \dfrac{1}{v}=\dfrac{\mu}{u}\right][/math]
+২য় তরলের জন্য, [math]1.6=\dfrac{\frac{4}{5} \times 20}{v^{\prime}} ;\ v^{\prime}=\dfrac{\frac{4}{5} \times 20}{1.6}=10 \mathrm{~cm} ; v+v^{\prime}=10+3=13 \mathrm{~cm}[/math]
+ [math]\therefore \ 13 \rm{cm}[/math]
+ গভীর মনে হবে।
+
+Explanation:
+ব্যাখ্যা: উপরের দিকে দেখলে প্রতিটি স্তরের আপাত গভীরতা হবে তার প্রকৃত পিচ্ছিলতা ভাগে ধরা সূচক দ্বারা ভাগ করা, তাই মোট আপাত গভীরতা যোগফল। এখানে প্রথম স্তরটি [math]20\times\frac{1}{5}=4\ \text{cm}[/math] (প্রতিসরণাঙ্ক [math]\tfrac{4}{3}[/math]) এবং দ্বিতীয়টি [math]16\ \text{cm}[/math] (প্রতিসরণাঙ্ক [math]1.6[/math]), সুতরাং মোট আপাত গভীরতা [math]4\div\frac{4}{3}+16\div1.6=3+10=13\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 428257)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+চিত্রে প্রদর্শিত মিশ্রস্ল্যাবের উপর একটি আলোকরশ্মি [math]I[/math] কোণে পড়ে। এর পার্শ্বীয় পরিবর্তন [math]X[/math] এর রাশিমালা (চিত্রে প্রদত্ত প্রতীকসমূহ ব্যবহার করে) বের কর।
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]\sin \mathrm{i}=\mu_{1} \sin r \Rightarrow r=\sin ^{-1} \dfrac{\sin i}{\mu_{1}}[/math]
+[এখানে আপতন কোণ [math]i=l[/math]
+]
+[Image]
+আবার, [math]\mu_{1} \sin r=\mu_{2} \sin r_{1} \Rightarrow \sin i=\mu_{2} \sin r_{1} \Rightarrow r_{1}=\sin ^{-1} \frac{\sin i}{\mu_{2}}[/math]
+ [math]\Delta BCD[/math]
+ তে [math]\angle C[/math]
+ সমকোণ ও [math]\angle C B D=r \because \cos r=\dfrac{B C}{B D} \Rightarrow B D=\dfrac{l_{1}}{\cos r}=\dfrac{l_{1}}{\cos \left(\sin ^{-1} \frac{\sin r}{\mu_{1}}\right)}[/math]
+ [math]\Delta B D E[/math]
+ তে [math]\angle E[/math]
+ সমকোণ ও [math]\angle \mathrm{DBE}=\angle \mathrm{DBC}-\angle \mathrm{EBC}=\mathrm{r}-\mathrm{i}\ [\angle \mathrm{EBC}=[/math]
+ বিপ্রতীপ [math]\angle \mathrm{IBA}][/math]
+ [math]\therefore \sin (r-i)=\dfrac{D E}{B D} \Rightarrow D E=x_{1}=\dfrac{l_{1} \sin (r-i)}{\cos \left(\sin ^{-1}\left(\dfrac{\sin 1}{\mu_{1}}\right)\right)}=\dfrac{l_{1} \sin \left(\sin ^{-1} \dfrac{\sin i}{\mu_{2}}-1\right)}{\cos \left(\sin ^{-1}\left(\dfrac{\sin i}{\mu_{1}}\right)\right)}[/math]
+ [math]\triangle D H F\ এ \ \angle F[/math]
+ সমকোণ [math]\angle H D F=r_{1} ; \operatorname{cosr}_{1}=\dfrac{\mathrm{DF}}{\mathrm{DH}}=\dfrac{\mathrm{I}_{2}}{\mathrm{DH}} \Rightarrow \mathrm{DH}=\dfrac{\mathrm{I}_{2}}{\cos \left(\sin ^{-1} \dfrac{\mathrm{sini} }{\mu_{2}}\right)}[/math]
+ [math]\triangle D H G \ এ \ \angle G[/math]
+ সমকোণ [math]\angle H D G=r_{1}-i ; \sin \left(r_{1}-i\right)=\dfrac{G H}{D H}[/math]
+ [math]\therefore \mathrm{GH}=\mathrm{x}_{2}=\dfrac{\mathrm{l}_{2} \sin \left(\sin ^{-1} \dfrac{\sin i}{\mu_{2}}-\mathrm{i}\right)}{\cos \left(\sin ^{-1} \dfrac{\sin i}{\mu_{2}}\right)} \therefore \mathrm{x}=\mathrm{x}_{1}+\mathrm{x}_{2}=\dfrac{\mathrm{l}_{1} \sin \left(\sin ^{-1} \dfrac{\sin i}{\mu_{1}}-\mathrm{i}\right)}{\cos \left(\sin ^{-1}\left(\dfrac{\sin i}{\mu_{1}}\right)\right)}+\dfrac{\mathrm{l}_{2} \sin \left(\sin ^{-1} \dfrac{\sin i}{\mu_{2}}-\mathrm{i}\right)}{\cos \left(\sin ^{-1}\left(\dfrac{\sin i}{\mu_{2}}\right)\right)}[/math]
+[ [math]\mu_2[/math]
+ প্রতিসরাঙ্কের মাধ্যম হতে বায়ুতে আলোক রশ্মির প্রতিসরণ ঘটেছে এটা ধরে সমাধান করা হয়েছে। কিন্তু মূল প্রশ্নের চিত্রে তা বোঝা যায় না]
+
+Explanation:
+ভিতরের কিরণের পাতার মধ্যে উতল দূরত্ব যদি স্ল্যাবের পুরুত্ব [math]t[/math] এবং ভেতরের ভঙ্গক কোণ [math]r[/math] হয়, তবে কিরণের পথের দৈর্ঘ্য [math]l=\dfrac{t}{\cos r}[/math] হয় এবং সমান্তরাল সরানটা হচ্ছে সেই পথের [math]\sin(I-r)[/math] উপাদান, তাই
+[math]X=l\sin(I-r)=\dfrac{t\,\sin(I-r)}{\cos r}.[/math]
+এখানে প্রয়োজনে [math]\sin I=\mu\sin r[/math] (Snell-এর সূত্র) ব্যবহার করে [math]r[/math]কে প্রতিস্থাপন করা যেতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 428256)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+উপর হইতে লম্বভাবে তাকালে পানির [math]4.0[/math] মিটার নীচে রাখা কোন বস্তুর পর্যবেক্ষকের দিকে আগত সরণ কত হবে? পানির প্রতিসরাংক [math]=\dfrac{4}{3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1\rm{m}[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+[math]\therefore \[/math]
+ বস্তুর পর্যবেক্ষকের দিকে আপাতসরণ [math]=(4-3)=1 \rm{m}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পানির ভিতর থেকে বাতাসে আলোর সম্মুখবেগ বাড়ায় ফলে গভীরতা ছোট দেখা যায়, এবং লম্বভাবে দেখলে Apparent depth = Real depth / প্রতিসরাংক। তাই [math]d_{\text{apparent}}=\dfrac{4.0}{4/3}=3.0\ \text{মিটার}[/math], অর্থাৎ পর্যবেক্ষকের কাছে বস্তুটি 3.0 মিটার নিচে দেখা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 428255)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+পানিতে কানায় কানায় পূর্ণ একটি [math]2.5m[/math] গভীর সুইমিং পুলের তলায়, পাশের দেয়াল থেকে [math]2.5m[/math] দূরে একটি আলোক বাল্ব রাখা আছে। সুইমিং পুলের ধার দিয়ে পানি থেকে কত কোণ করে আলোর রশ্মি বের হবে? [পানির প্রতিসরাংক [math]\mu = 1.33[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]70.13^{\circ}[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+এখানে, আপতন কোণ, [math]\theta=45^{\circ}\\ \therefore 1.33=\dfrac{\sin r}{\sin 45}\\ \therefore r=70.13^{\circ} \text { (Ans.) }[/math]
+
+
+Explanation:
+বর্ণনা: বাল্বটি তলের নিচে [math]h=2.5\ \text{m}[/math] এবং ধারের থেকে অনুভূখ্যে দূরত্ব [math]x=2.5\ \text{m}[/math], তাই পানির ভিতরে স্বাভাবিকের সঙ্গে প্রবেশকোণটি [math]\tan θ_1 = x/h=1\Rightarrow θ_1=45^\circ[/math]. Snell-এর সূত্র অনুযায়ী [math]n_{\text{water}}\sin θ_1=n_{\text{air}}\sin θ_2[/math],つまり [math]\sin θ_2=1.33\sin45^\circ\approx0.941\Rightarrow θ_2\approx70^\circ[/math] (স্বাভাবিকের সাথে); পৃষ্ঠার সঙ্গে কোণ হলে [math]90^\circ-70^\circ=20^\circ[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 428254)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+নিম্নের চিত্রে [math]\mu_{\mathrm{a}}=1[/math] এবং [math]\mu_{\mathrm{b}}=2[/math], যদি [math]\theta=75^{\circ}[/math] হয়, [math]O[/math] বিন্দু হতে উৎসারিত আলোকের দিক নির্ণেয় কর।
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]: \sin \theta c=\dfrac{1}{{}_a\mu_{b}}={ }_{b} \mu_{a}=\dfrac{\mu_{a}}{\mu_{b}}=\dfrac{1}{2}=\sin 30^{\circ} \Rightarrow \theta c=30^{\circ} \quad \therefore \theta_{c}<\theta[/math]
+ [math]\therefore[/math]
+ আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটবে এবং আলোকরশ্মি বিভেদতলের সাথে [math]75^\circ[/math]
+ কোণ করে [math]b[/math]
+ মাধ্যমে ফেরত আসবে।
+
+Explanation:
+ব্যাখ্যা: স্নেলের সূত্র ব্যবহার করলে [math]\mu_a\sin\theta_a=\mu_b\sin\theta_b[/math] এবং এখানে [math]\sin\theta_b=(\mu_a/\mu_b)\sin75^\circ=(1/2)\sin75^\circ\approx0.483[/math]. ফলে [math]\theta_b=\sin^{-1}(0.483)\approx28.8^\circ</math] এবং আলোকরশ্মি ঘন মাধ্যমের দিকে সতত(normal) ভাঁজ হয়।
+
+Sub-Questions:
+

@@ -1,0 +1,460 @@
+================================================================================
+Question #1 (ID: 395826)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একদিন একটি অঞ্চলের তাপমাত্রা ও বাতাসের বেগ পাওয়া গেল যথাক্রমে, [math]Q=2 x y^{2} z^{3}-4 x y ~ও~ \vec{V}=\left(y^{2} \cos x+z^{3}\right) \hat{i}+(2 y(\sin x-4) \hat{j}+\left(3 x z^{2}+2\right) \hat{k}[/math]
+
+Options:
+ক. ডট গুণন কী?
+খ. ঘূর্ণনরত পৃথিবী সূর্য হতে দূরে সরে গেলে এর বেগ কমে যায় কেন? ব্যাখ্যা করো।
+গ. (1, −1, 2) বিন্দুতে ঐ অঞ্চলের তাপমাত্রার গ্রেডিয়েন্ট নির্ণয় করো।
+ঘ. ঐদিন ঐ অঞ্চলের বাতাসে কোনো ঘূর্ণন ছিলো কিনা তা গানিতিক বিশ্লেষণের মাধ্যমে মত দাও।
+
+
+Correct Answer: 
+
+Solution:
+কযে গুণনে দুটি সমজাতীয় বা ভিন্ন ভেক্টর গুণ করলে গুণফল একটি স্কেলার রাশি হয়, সেই গুণনই ডট গুণন । [math]\\[/math]
+ খপর্যায়কাল T এবং কক্ষপথের ব্যাসার্ধ r হলে, কেপলারের তৃতীয় সূত্রানুসারে,[math]\begin{array}{l} \mathrm{T}^{2} \propto \mathrm{r}^{3}\\ \Rightarrow \left(\frac{2 \pi}{\omega}\right)^{2} \propto r^{3}\left[\because \omega=\frac{2 \pi}{T}\right] \\ \Rightarrow \left(\frac{2 \pi r}{v}\right)^{2} \propto r^{3}\left[\because v=r \omega \Rightarrow \omega =\frac{v}{r}\right] \\ \Rightarrow \frac{4 \pi^{2} r^{2}}{v^{2}} \propto r^{3} \\ \Rightarrow v^{2} \propto \frac{1}{r} \\ \therefore v \propto \frac{1}{\sqrt{r}} \end{array}[/math]
+অর্থাৎ, কক্ষপথের ব্যাসার্ধ বাড়লে বেগ কমে যায়। তাই পৃথিবী সূর্যের থেকে দূরে সরে গেলে তার বেগ কমে যায়।[math]\\[/math]
+ গএখানে,তাপমাত্র, [math]Q=2 x y^{2} z^{3}-4 x y[/math]
+তাপমাত্রার গ্রেডিয়েন্ট,[math]\begin{array}{l}\operatorname{grad\theta }=\vec{
+abla} \mathrm{Q} \\ =\left(\frac{\partial}{\partial \mathrm{x}} \hat{\mathrm{i}}+\frac{\partial}{\partial \mathrm{y}} \hat{\mathrm{j}}+\frac{\partial}{\partial \mathrm{z}} \hat{\mathrm{k}}\right) \mathrm{Q} \\ =\left(\frac{\partial \theta}{\partial \mathrm{i}} \hat{\mathrm{i}}+\frac{\partial \mathrm{Q}}{\partial \mathrm{j}}+\frac{\partial \mathrm{Q}}{\partial \mathrm{z}} \hat{\mathrm{k}}\right)\\ =\left(\frac{\partial}{\partial x}\left(2 x y^{2} z^{3}-4 x y\right) \hat{i}+\frac{\partial}{\partial y}\left(2 x y^{2} z^{3}-4 x y\right) \hat{j}+\frac{\partial}{\partial z}\left(2 x y^{2} z^{3}-4 x y\right) \hat{k}\right)\\ =\left(2 y^{2} z^{3}-4 y\right) \hat{i}+\left(4 x y z^{3}-4 x\right) \hat{j}+6 x y^{2} z^{2} \hat{k}\end{array}[/math]
+এখন [math](1,-1,2)[/math]
+ বিন্দুতে[math]\begin{array}{l} \vec{
+abla} \mathrm{Q}=\left\{2 \cdot(-1)^{2} \cdot 2^{3}-4(-1)\right\} \hat{\mathrm{i}} +\left\{4 \cdot 1 \cdot(-1) \cdot(2)^{3}-4 \cdot 1\right\} \hat{\mathrm{j}}+6 \cdot 1(-1)^{2} \cdot\left(2^{2}\right) \hat{\mathrm{k}} \\ =20 \hat{\mathrm{i}}-36 \hat{\mathrm{j}}+24 \hat{\mathrm{k}} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ ঘবাতাসের বেগ V এর কার্ল নির্ণয়ের মাধ্যমে এর ঘূর্ণন সম্পর্কে ধারণা পাওয়া যায় ।এখানে, =(y²cosx+z³) î + (2ysinx – 4) ĵ + (3xz² + 2) kএখন, এর কার্ল[math]\begin{aligned} \text { Curl } \overrightarrow{\mathbf{V}}=\vec{
+abla} \times \vec{V}= & \left|\begin{array}{ccc} \hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathbf{k}} \\ \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\ y^{2} \cos x+z^{3} & 2 y \sin x-4 & 3 x z^{2}+2 \end{array}\right| \\ = & \hat{\mathrm{i}}\left\{\frac{\partial}{\partial y}\left(3 x z^{2}+2\right)-\frac{\partial}{\partial z}(2 y \sin x-4)\right\} -\hat{\mathrm{j}}\left\{\frac{\partial}{\partial x}\left(3 x z^{2}+2\right)-\frac{\partial}{\partial z}\left(y^{2} \cos x+z^{3}\right)\right\} +\hat{k}\left\{\frac{\partial}{\partial x}(2 y \sin x-4)-\frac{\partial}{\partial y}\left(y^{2} \cos x+z^{3}\right)\right\} \\ & =\hat{\mathrm{i}}(0-0)-\hat{\mathrm{j}}\left\{3 z^{2}-3 z^{2}\right\}+\hat{\mathrm{k}}\{2 y \cos x-2 y \cos x\} \\ & =0 \hat{\mathrm{i}}+0 \hat{\mathrm{j}}+0 \hat{\mathrm{k}}=0\end{aligned}[/math]
+যেহেতু [math]\vec{
+abla} \times \vec{V}=0[/math]
+, এজন্য [math]\vec{V}[/math]
+ ভেক্টর ক্ষেত্রটি অঘূর্ণনশীল। সুতরাং বলা যায়, ঐ দিন ঐ অঞ্চলের বাতাসে কোনো ঘূর্ণন ছিলো না।
+
+Explanation:
+ব্যাখ্যা:
+
+ক ডট গুণন হলো দুটি ভেক্টরের স্কেলার গুণফল; উপাদান অনুযায়ী [math]\mathbf{A}\cdot\mathbf{B}=A_xB_x+A_yB_y+A_zB_z[/math] বা পরিমিতি ও কোণ দিয়ে [math]A\cdot B=|A||B|\cos\theta[/math]।
+
+খ পৃথিবীর কক্ষপথ বড় করলে কক্ষের ব্যাসার্ধ [math]r[/math] বৃদ্ধি পায় এবং চৌম্বকীয়/কেন্দ্রীয় আকর্ষণ অনুযায়ী বেগ কমে; উদাহরণস্বরূপ একটি বৃত্তীয় কক্ষপথে [math]v=\sqrt{GM/r}[/math], তাই [math]r[/math] বাড়লে [math]v[/math] ছোট হয় (অথবা গতি ও কৌণিক ভরবেগের সংরক্ষণ করলে [math]L=mr v[/math], [math]r\uparrow\Rightarrow v\downarrow[/math])।
+
+গ [math]Q=2x y^{2} z^{3}-4 x y[/math] হলে গ্রেডিয়েন্ট হলো [math]\nabla Q=\left(2y^{2}z^{3}-4y,\;4xyz^{3}-4x,\;6xy^{2}z^{2}\right)[/math] এবং (1,−1,2) তে এটি হচ্ছে [math]\nabla Q=(20,\,-36,\,24)[/math]।
+
+ঘ বাতাসের ভেক্টর ক্ষেত্রের ঘূর্ণন বা কার্ল হল [math]\nabla\times\vec V=(\partial_y V_3-\partial_z V_2,\;\partial_z V_1-\partial_x V_3,\;\partial_x V_2-\partial_y V_1)[/math]; এখানে প্রত্যেক উপাদান শূন্য (উদাহরণঃ [math]\partial_z V_1=3z^2,\;\partial_x V_3=3z^2[/math] ইত্যাদি), তাই [math]\nabla\times\vec V=\vec0[/math], অর্থাৎ কোনো ঘূর্ণন নেই (irrotational)।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 395827)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]p(x, y, z)=2 x y^{4}-x^{2} z[/math] একটি স্কেলার রাশি এবং [math]\vec{A}=(2 x+y) \hat{i} +\left(3 y+z^{2}\right) \hat{j}+(-5 z+x) \hat{k}[/math] একটি ভেক্টর রাশি এবং [math]\vec{B}=(6 x y+ \left.z^{3}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}[/math] অপর একটি ভেক্টর রাশি।
+
+Options:
+ক. ভারকেন্দ্র কী?
+খ. মহাকর্ষীয় বিভব 12 J/kg বলতে কী বুঝ?
+গ. (2,− 1, −2) বিন্দুতে p এর গ্রেডিয়েন্ট নির্ণয় করো।
+ঘ. উদ্দীপকে বর্ণিত [math]\overrightarrow{\mathbf{A}}[/math] ও [math]\overrightarrow{\mathbf{B}}[/math] ভেক্টরদ্বয়ের মধ্যে কোনটি সলিনয়ডাল এবং কোনটি অঘূর্ণনশীল তা গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+কএকটি বস্তুকে যেভাবেই রাখা হোক না কেন বস্তুর ভেতরে অবস্থিত যে বিন্দুর মধ্য দিয়ে মোট ওজন ক্রিয়া করে সেই বিন্দুকে বস্তুর ভারকেন্দ্র বলে। [math]\\[/math]
+ খমহাকর্ষীয় বিভব কখনও ধনাত্মক হয় না। কোন বস্তুর মহাকর্ষীয় বিভব 12 J/kg হয় না, বরং - 12 J/kg হতে পারে। কোনো ভরের উপস্থিতির দরুন এর চারপাশের সৃষ্ট মহাকর্ষ ক্ষেত্রের কোনো বিন্দুর বিভব – 12 [math]\mathrm{Jkg}^{-1}[/math]
+ বলতে বোঝায়, উক্ত বিন্দু হতে 1 kg ভরের বস্তুকে অসীমে বা শূন্য মহাকর্ষীয় বিভবের বিন্দুতে নিতে বহিঃস্থ এজেন্ট দ্বারা 12 J কাজ করতে হয়। [math]\\[/math]
+ গএখানে,[math]p(x, y, z) =2 x y^{4}-x^{2} z[/math]
+p এর গ্রেডিয়েন্ট[math]\begin{array}{l} \operatorname{grad} \mathrm{p}=\vec{
+abla} \mathrm{p} \\ =\left(\frac{\partial}{\partial \mathrm{x}} \hat{\mathrm{i}}+\frac{\partial}{\partial \mathrm{y}} \hat{\mathrm{j}}+\frac{\partial}{\partial \mathrm{z}} \hat{\mathrm{k}}\right) \mathrm{p} \\ =\frac{\partial \mathrm{p}}{\partial \mathrm{i}} \hat{\mathrm{i}}+\frac{\partial \mathrm{p}}{\partial \mathrm{j}} \hat{\mathrm{j}}+\frac{\partial \mathrm{p}}{\partial \mathrm{z}} \hat{\mathrm{k}} \\ =\frac{\partial}{\partial x}\left(2 x y^{4}-x^{2} z\right) \hat{i}+\frac{\partial}{\partial y}\left(2 x y^{4}-x^{2} z\right) \hat{j}+\frac{\partial}{\partial z}\left(2 x y^{4}-x^{2} z\right) \hat{k}\\ =\left(2 y^{4}-2 x z\right) \hat{i}+\left(8 x y^{3}\right) \hat{j}-x^{2} \hat{k} \end{array}[/math]
+(2, -1, -2) বিন্দুতে p এর গ্রেডিয়েন্ট[math]\begin{array}{l} =\left\{2(-1)^{4}-2.2(-2)\right\} \hat{\mathrm{i}}+\left\{8.2(-1)^{3}\right\} \hat{\mathrm{j}}-\left\{(2)^{2}\right\} \hat{\mathrm{k}} \\ =10 \hat{\mathrm{i}}-16 \hat{\mathrm{j}}-4 \hat{\mathrm{k}} \text { (Ans.) } \end{array}[/math]
+ [math]\\[/math]
+ ঘদেওয়া আছে, [math]\vec{A}=(2 x+y) \hat{i}+\left(3 y+z^{2}\right) \hat{j}+(-5 z+x) \hat{k}[/math]
+ [math]\vec{A}[/math]
+ এর ডাইভারজেন্স [math]\operatorname{div} \vec{A}[/math]
+ [math]\begin{array}{l} =\vec{
+abla} \cdot \vec{A} \\ =\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \cdot\left\{(2 x+y) \hat{i}+\left(3 y+z^{2}\right) \hat{j}+(-5 z+x) \hat{k}\right\} \\ =\frac{\partial}{\partial x}(2 x+y)+\frac{\partial}{\partial y}\left(3 y+z^{2}\right)+\frac{\partial}{\partial z}(-5 z+x) \\ =2+{3}-5=0 \end{array}[/math]
+যেহেতু [math]\vec{
+abla} \cdot \vec{A}=0[/math]
+ তাই [math]\vec{A}[/math]
+ ভেক্টরটি সলিনয়ডাল।[math]\vec{A}[/math]
+ এর কার্ল[math]\operatorname{curl} \vec{A}=\vec{
+abla} \times \vec{A} =\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\ \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\ 2 x+y & 3 y+z^{2} & -5 z+x \end{array}\right|[/math]
+ [math]\qquad \begin{array}{l} =\hat{i}\left\{\frac{\partial}{\partial y}(-5 z+x)-\frac{\partial}{\partial z}\left(3 y+z^{2}\right)\right\}-\hat{j}\left\{\frac{\partial}{\partial x}(-5 z+x)-\frac{\partial}{\partial z}\left(2 x+y^{2}\right)\right\} \\ +\hat{k}\left\{\frac{\partial}{\partial x}\left(3 y+z^{2}\right)-\frac{\partial}{\partial y}(2 x+y)\right. \\ =\hat{\mathrm{i}}\{0-2 \mathrm{z}\}-\hat{\mathrm{j}}\{1-0\}+\hat{\mathrm{k}}\{0-1\} \\ =-2 z \hat{i}-\hat{j}-\hat{k} \\ \end{array}[/math]
+যেহেতু [math]\vec{
+abla} \times \vec{A} 
+eq \overrightarrow{0}[/math]
+ তাই [math]\vec{A}[/math]
+ ভেক্টরটি ঘূর্ণনশীলআবার, [math]\vec{B}=\left(6 x y+z^{3}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}[/math]
+ [math]\vec{B}[/math]
+ এর ডাইভারজেন্স [math]\operatorname{div} \vec{B}[/math]
+ [math]\begin{array}{l} =\vec{
+abla} \cdot \vec{B} \\ =\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \cdot\left\{\left(6 x y+z^{3}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}\right\} \\ =\frac{\partial}{\partial x}\left(6 x y+z^{3}\right)+\frac{\partial}{\partial y}\left(3 x^{2}-z\right)+\frac{\partial}{\partial z}\left(3 x z^{2}-y\right) \\ =6 y+0+6 x z \\ =6 x z+6 y \end{array}[/math]
+যেহেতু [math]\vec{
+abla} \cdot \vec{B} 
+eq 0[/math]
+ তাই [math]\vec{b}[/math]
+ ভেক্টরটি সলিনয়ডাল না।[math]\vec{B}[/math]
+ এর কার্ল [math]\text { curl } \overrightarrow{\mathbf{B}}[/math]
+ [math]\begin{array}{l} =\vec{
+abla} \times \vec{B} \\ =\left|\begin{array}{ccc} \hat{\mathbf{i}} & \hat{j} & \hat{k} \\ \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\ 6 x y+z^{3} & 3 x^{2}-z & 3 x z^{2}-y \end{array}\right| \\ =\hat{i}\left\{\frac{\partial}{\partial y}\left(3 x z^{2}-y\right)-\frac{\partial}{\partial z}\left(3 x^{2}-z\right)\right\} \\ -\hat{\mathrm{j}}\left\{\frac{\partial}{\partial \dot{x}}\left(3 x z^{2}-\mathrm{y}\right)-\frac{\partial}{\partial \mathrm{z}}\left(6 x y+z^{3}\right)\right\}+\hat{\mathrm{k}} \text {. } \\ \left\{\frac{\partial}{\partial x}\left(3 x^{2}-z\right)-\frac{\partial}{\partial y}\left(6 x y+z^{3}\right)\right\} \\ =\hat{\mathrm{i}}(-1+1)-\hat{\mathrm{j}}\left(3 z^{2}-3 z^{2}\right)+\hat{\mathrm{k}}(6 x-6 x) \\ =0 \hat{i}-0 \hat{j}+0 \hat{k} \\ =0 \\\end{array}[/math]
+যেহেতু তাই ভেক্টরটি অঘূর্ণনশীল।
+
+Explanation:
+ব্যাখ্যা:
+
+ক ভারকেন্দ্র হল কোনো সিস্টেমের সেই বিন্দু যেখানে সিস্টেমের সমস্ত ভরের সমতুল্য একটি একক বিন্দুতে মিলিত হয়; গণনায় [math]\vec{R}_{cm}=\dfrac{1}{M}\int \vec{r}\,dm[/math] (বা কণাগণিত ক্ষেত্রে [math]\vec{R}_{cm}=\dfrac{\sum m_i\vec{r}_i}{\sum m_i}[/math])।  
+
+খ মহাকর্ষীয় বিভব [math]12\ \text{J/kg}[/math] মানে ওই বিন্দুতে এক কেজি ভরের সম্ভাব্য শক্তি বা ইউনিট ভরের জন্য পাওয়া শক্তি [math]12[/math] জুল; অর্থাৎ একটি কেজি ভরকে সেই বিন্দুতে আনতে বা ওই বিন্দু থেকে রেফারেন্স অবস্থায় নেওয়ার কাজ ইউনিট ভরের জন্য [math]12[/math] J ।
+
+গ [math]p(x,y,z)=2xy^{4}-x^{2}z[/math] হলে  
+[math]\partial p/\partial x=2y^{4}-2xz,\quad \partial p/\partial y=8xy^{3},\quad \partial p/\partial z=-x^{2}[/math]। বিন্দু [math](2,-1,-2)[/math]-এ মূল্যায়ন করলে [math]\nabla p=(10,\,-16,\,-4)[/math]।
+
+ঘ A-এর divergence:  
+[math]\nabla\cdot\vec{A}=\partial_x(2x+y)+\partial_y(3y+z^{2})+\partial_z(-5z+x)=2+3-5=0[/math], তাই A সলিনয়ডাল। A-এর curl:  
+[math]\nabla\times\vec{A}=(-2z,\,-1,\,-1)\neq\vec{0}, তাই A অঘূর্ণনশীল নয়। B-এর divergence:  
+[math]\nabla\cdot\vec{B}=6y+6xz\neq 0\ \text{(সাধারণত)}, অতএব B সলিনয়ডাল নয়, কিন্তু curl দিয়ে দেখা যায়  
+[math]\nabla\times\vec{B}=\vec{0}, তাই B অঘূর্ণনশীল (irrotational)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 395828)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+দেওয়া আছে একটি ভেক্টর ক্ষেত্র [math]-[/math] [math]\vec{A}=\left(6 x y+z^{3}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}[/math]
+
+Options:
+ক. কার্ল কী?
+খ. বৈদ্যুতিক পাখার বাতাস কীভাবে নিচে নামে? ব্যাখ্যা করো।
+গ. (2, 1, – 1) বিন্দুতে [math]\vec{A}[/math] এর গ্রেডিয়েন্ট নির্ণয় করো।
+ঘ. গাণিতিক বিশ্লেষণের সাহায্যে দেখাও যে, [math]\vec{A}[/math] ভেক্টরটি সলিনয়ডাল নাকি সংরক্ষণশীল হবে?
+
+
+Correct Answer: 
+
+Solution:
+ককোনো ভেক্টর ক্ষেত্রের কার্ল একটি ভেক্টর রাশি যা ঐ ক্ষেত্রের ঘূর্ণনের সাথে সম্পর্কিত। ভেক্টর ক্ষেত্রে অবস্থিত একটি বিন্দুর চারদিকে এর লাইন ইন্টিগ্রালের মান প্রতি একক ক্ষেত্রফলে সর্বোচ্চ হলে তা উক্ত বিন্দুতে ভেক্টর ক্ষেত্রের কার্ল প্রকাশ করে। [math]\\[/math]
+ খবৈদ্যুতিক ফ্যানের পাখার একটি ধার নিচের দিকে বাকানো অবস্থায় থাকে এবং এ ধারটি ফ্যান যেদিকে ঘোরে তার বিপরীত পাশে থাকে। ফলে, যখন ফ্যান ঘোরে তখন পাখার সামনের বাতাস উক্ত বাকানো ধারে বাধা পেয়ে নিচের দিকে নেমে আসে। [math]\\[/math]
+ গদেওয়া আছে, [math]\vec{A}=\left(6 x y+z^{3}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+ \left(3 x z^{2}-y\right) \hat{k}[/math]
+আমরা জানি, গ্রেডিয়েন্ট হলো স্কেলার রাশির সর্বাধিক বৃদ্ধির হার। স্কেলার রাশির গ্রেডিয়েন্ট ভেক্টর রাশি হয়। কিন্তু ভেক্টর রাশির গ্রেডিয়েন্ট নির্ণয় করা যায় না।তাই, [math]\vec{A}[/math]
+ এর গ্রেডিয়েন্ট নির্ণয় করা সম্ভব না।[math]\\[/math]
+ ঘদেওয়া আছে, 1টি ভেক্টর ক্ষেত্র[math]\vec{A}=\left(6 x y+z^{3}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}[/math]
+আমরা জানি, কোনো ভেক্টর ক্ষেত্রের ডাইভারজেন্স শূন্য হলে, ঐ ভেক্টর ক্ষেত্রটি সলিনয়ডাল হয়। আবার, কোনো ভেক্টর ক্ষেত্রের কার্ল শূন্য হলে, ঐ ভেক্টর ক্ষেত্রটি সংরক্ষণশীল হয়।[math]\vec{A}[/math]
+ এর ডাইভারজেন্স[math]\begin{array}{l}\operatorname{div} \vec{A}=\vec{
+abla} \cdot \vec{A} \\ =\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \cdot\left\{\left(6 x y+z^{3}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}\right\} \\ =\frac{\partial}{\partial x}\left(6 x y+z^{3}\right)+\frac{\partial}{\partial y}\left(3 x^{2}-z\right)+\frac{\partial}{\partial z}\left(3 x z^{2}-y\right) \\ =6 y+6 x z 
+eq 0 \end{array}[/math]
+যেহেতু, [math]\vec{
+abla} \cdot \vec{A} 
+eq 0[/math]
+, তাই [math]\vec{A}[/math]
+ ভেক্টরটি সলিনয়ডাল না।আবার, [math]\vec{a}[/math]
+ এর কার্ল[math]\begin{array}{l} \text { Curl } \vec{A}=\vec{
+abla} \times \vec{A}\\ =\left|\begin{array}{ccc} \hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\ \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\ 6 x y+z^{3} & 3 x^{2}-z & 3 x z^{2}-y \end{array}\right| \\ =\hat{\mathrm{i}}\left\{\frac{\partial}{\partial y}\left(3 x z^{2}-y\right)-\frac{\partial}{\partial z}\left(3 \dot{x}^{2}-z\right)\right\}-\hat{j}\left\{\frac{\partial}{\partial x}\left(3 x z^{2}-y\right)-\frac{\partial}{\partial z}\left(6 x y+z^{3}\right)\right\} \\ +\hat{k}\left\{\frac{\partial}{\partial x}\left(3 x^{2}-z\right)-\frac{\partial}{\partial y}\left(6 x y+z^{3}\right)\right\} \\ =\hat{\mathrm{i}}(-1+1)-\hat{\mathrm{j}}\left(3 z^{2}-3 z^{2}\right)+\hat{k}(6 x-6 x) \\ =0 \hat{\mathrm{i}}-0 \hat{j}+0 \hat{k} \\ =0 \end{array}[/math]
+দেখা যাচ্ছে, [math]\vec{
+abla} \times \vec{A}=0[/math]
+, অর্থাৎ [math]\vec{A}[/math]
+ ভেক্টরটি অঘূর্ণনশীল ও সংরক্ষণশীল।
+
+Explanation:
+ব্যাখ্যা:
+ক কার্ল গণনা করলে পাওয়া যায় যে, 
+[math](\nabla\times\vec A)_x=\frac{\partial A_z}{\partial y}-\frac{\partial A_y}{\partial z}=-1-(-1)=0,[/math] 
+[math](\nabla\times\vec A)_y=\frac{\partial A_x}{\partial z}-\frac{\partial A_z}{\partial x}=3z^2-3z^2=0,[/math] 
+[math](\nabla\times\vec A)_z=\frac{\partial A_y}{\partial x}-\frac{\partial A_x}{\partial y}=6x-6x=0,[/math] 
+অতএব [math]\nabla\times\vec A=\vec0.[/math]
+
+খ বৈদ্যুতিক পাখা বাতাস নিচে দেয় কারণ ব্লেডগুলি বাতাসকে নিচের দিকে ত্বরান্বিত করে (নিচের দিকে টোকা দেয়), ফলে নিচে গতি ও চাপ বাড়ে এবং উপরে তুলনামূলক নিম্নচাপ সৃষ্টি হয়—এই চাপ পার্থক্যের কারণে ধারাবাহিকভাবে বাতাস নিচের দিকে প্রবাহিত হয়।
+
+গ [math]\vec A[/math] এর গ্রেডিয়েন্ট (যাকর্ম্যাট্রিক্স) সাধারণভাবে 
+[math]\nabla\vec A=\begin{pmatrix}6y & 6x & 3z^2\\[4pt]6x & 0 & -1\\[4pt]3z^2 & -1 & 6xz\end{pmatrix}[/math] 
+অতএব (2,1,-1) এ এটি হয় 
+[math]\nabla\vec A(2,1,-1)=\begin{pmatrix}6 & 12 & 3\\[4pt]12 & 0 & -1\\[4pt]3 & -1 & -12\end{pmatrix}.[/math]
+
+ঘ গণিতগতভাবে [math]\nabla\times\vec A=\vec0[/math] হওয়ায় (R^3-এ সরল সংযুক্ত ক্ষেত্রে) ভেক্টরটি সংরক্ষণশীল (conservative)। কিন্তু ডাইভারজেন্স [math]\nabla\cdot\vec A=6y+6xz=6(y+xz)[/math] সাধারণভাবে শূন্য নয়, তাই এটি সলিনয়ডাল (divergence-free) নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 395829)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]{\varphi}[/math] একটি স্কেলার অপেক্ষক যেখানে [math]\varphi=3 x^{2} y z+4 x y z+[/math] [math]2 y z^{3}[/math] এবং [math]\vec{V}[/math] একটি ভেক্টর অপেক্ষক যেখানে [math]\vec{V}=4 x y^{3} z \hat{i}-[/math] [math]3 x^{3} y z \hat{j}+5 x y z^{2} \hat{k}[/math]
+
+Options:
+ক. অপারেটর কী?
+খ. গ্রেডিয়েন্ট বলতে কী বুঝ ?
+গ. [math]\vec{V}[/math] এর কার্ল নির্ণয় কর।
+ঘ. উদ্দীপকের আলোকে বিশ্লেষণ করে দেখাও কীভাবে একটি স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে উত্তরণ করা যায় এবং একটি ভেক্টর ক্ষেত্রকে স্কেলার ক্ষেত্রে রূপান্তর করা যায়।
+
+
+Correct Answer: 
+
+Solution:
+কযে গাণিতিক ক্রিয়া একটি রাশিকে অন্য রাশিতে রূপান্তরিত করে তাকে অপারেটর বলে। [math]\\[/math]
+ খভেক্টর অপারেটর [math]\vec{
+abla}[/math]
+ কোনো স্কেলার ফাংশন [math](\varphi)[/math]
+ এর উপর অপারেট করলে যে রাশি পাওয়া যায় তাকে (x, y, z) অবস্থানে ঐরাশির গ্রেডিয়েন্ট বলে'।[math]\therefore \varphi[/math]
+ এর গ্রেডিয়েন্ট,[math]\begin{aligned}\vec{
+abla} \varphi & =\left(\hat{\mathrm{i}} \frac{\delta}{\delta \mathrm{x}}+\hat{\mathrm{j}} \frac{\delta}{\delta \mathrm{y}}+\hat{\mathrm{k}} \frac{\delta}{\delta \mathrm{z}}\right) \varphi \\& =\hat{\mathrm{i}} \frac{\delta \varphi}{\delta \mathrm{x}}+\hat{\mathrm{j}} \frac{\delta \varphi}{\delta \mathrm{y}}+\hat{\mathrm{k}} \frac{\delta \varphi}{\delta z}\end{aligned}[/math]
+কাজেই অবস্থানের সাপেক্ষে কোনো স্কেলার ক্ষেত্র [math]\varphi[/math]
+ এর সর্বোচ্চ পরিবর্তনের হারই ঐ ক্ষেত্রের গ্রেডিয়েন্ট এবং দেখা যাচ্ছে [math]\operatorname{grad} \varphi[/math]
+ ভেক্টর, ফলে এটি একটি ভেক্টর ক্ষেত্র। অর্থাৎ ভেক্টর অপারেটর [math]\vec{
+abla}[/math]
+ দ্বারা অন্তরীকরণ করে অন্তরীকরণযোগ্য স্কেলার ক্ষেত্র [math]\varphi[/math]
+ কে ভেক্টর ক্ষেত্র [math]\vec{
+abla}[/math]
+ [math]\varphi[/math]
+ এ রূপান্তর করা যায়। [math]\\[/math]
+ গএখানে,[math]\begin{array}{l}\vec{V}=4 x y^{3} z \hat{i}-3 x^{3} y z \hat{j}+\\5 x y z^{2} \hat{\mathrm{k}}\end{array}[/math]
+কার্ল, [math]\vec{V}=?[/math]
+আমরা জানি ,কার্ল, [math]\overrightarrow{\mathrm{V}}=\vec{
+abla} \times \overrightarrow{\mathrm{V}}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\\frac{\delta}{\delta x} & \frac{\delta}{\delta y} & \frac{\delta}{\delta z} \\4 x y^{3} z-3 x^{3} y z & 5 x y z^{2}\end{array}\right|[/math]
+ [math]=\hat{i}\left[\frac{\delta}{\delta y}\left(5 x y z^{2}\right)-\frac{\delta}{\delta z}\left(-3 x^{3} y z\right)\right]-\hat{j}\left[\frac{\delta}{\delta x}\left(5 x y z^{2}\right)-\frac{\delta}{\delta z}\left(4 x y^{3} z\right)\right]+\hat{k}[/math]
+ [math]\left[\frac{\delta}{\delta x}\left(-3 x^{3} y z\right)-\frac{\delta}{\delta y}\left(4 x y^{3} z\right)\right][/math]
+ [math]\begin{array}{l}=\hat{i}\left(5 x z^{2}+3 x^{3} y\right)-\hat{j}\left(5 y z^{2}-4 x y^{3}\right)+\hat{k}\left(-9 x^{2} y z-12 x y^{2} z\right) \\=\left(5 x z^{2}+3 x^{3} y\right) \hat{i}+\left(5 y z^{2}-4 x y^{3}\right) \hat{j}-\left(9 x^{2} y z-12 x y^{2} z\right) \hat{k}(\text { Ans. })\end{array}[/math]
+ [math]\\[/math]
+ ঘএখানে, [math]\phi[/math]
+ একটি স্কেলার অপেক্ষক।[math]\phi[/math]
+ এর গ্রেডিয়েন্ট করলে স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করা যায়৷এখানে,[math]\phi=3 x^{2} y z+4 x y z+2 y z^{3}[/math]
+ [math]\begin{array}{l}\therefore \operatorname{grad} \phi=\vec{
+abla} \phi \\=\left(\hat{i} \frac{\delta}{\delta x}+\hat{j} \frac{\delta}{\delta y}+\hat{k} \frac{\delta}{\delta z}\right)\left(3 x^{2} y z+\right. \\\left.4 x y z+2 y z^{3}\right)\end{array}[/math]
+ [math]\begin{array}{l}=\hat{i}(6 x y z+4 y z)+\hat{j}\left(3 x^{2} z+4 x z+2 z^{3}\right)+\hat{k}\left(3 x^{2} y+4 x y+6 y z^{2}\right) \\=(6 x y z+4 y z) \hat{i}+\left(3 x^{2} z+4 x z+2 z^{3}\right) \hat{j}+\left(3 x^{2} y+4 x y+6 y z^{2}\right) \hat{k}\end{array}[/math]
+এটি একটি ভেক্টর ক্ষেত্র।আবার,[math]\vec{V}[/math]
+ এর ডাইভারজেন্স করলে ভেক্টর ক্ষেত্রকে স্কেলার ক্ষেত্রে রূপান্তর করা যায়।এখানে,[math]\vec{V} =4 x y^{3} z \hat{i}-3 x^{3} y z \hat{j}+5 x y z^{2} \hat{k}[/math]
+ [math]\therefore \quad \text { Divergence }=\vec{
+abla} \cdot \vec{V}=[/math]
+ [math]\left(\hat{\mathrm{i}} \frac{\partial}{\partial \mathrm{x}}+\hat{\mathrm{j}} \frac{\partial}{\partial \mathrm{y}}+\hat{\mathrm{k}} \frac{\partial}{\partial \mathrm{z}}\right) \cdot 4 \mathrm{x}^{3} \hat{\mathrm{zi}}-[/math]
+ [math]\left.3 x^{3} y \hat{j}+5 x y z^{2} \hat{k}\right)[/math]
+ [math]\begin{array}{l}=\frac{\partial}{\partial x}\left(4 x y^{3} z\right)-\frac{\partial}{\partial y}\left(3 x^{3} y z\right)+\frac{\partial}{\partial z}\left(5 x y z^{2}\right) \\=4 y^{3} z-3 x^{3} z+5 x y z\end{array}[/math]
+সুতরাং, গ্রেডিয়েন্ট এর দ্বারা স্কেলার ক্ষেত্রকে ভেক্টর এবং ডাইভারজেন্স দ্বারা ভেক্টর ক্ষেত্রকে স্কেলার ক্ষেত্রে রূপান্তর করা যায়৷
+
+Explanation:
+ব্যাখ্যা:
+
+ক অপারেটর বলতে সাধারণত [math]\nabla[/math] (নাবলা) বোঝায়, যা একটি ভেক্টর-ডিফারেনশিয়াল অপারেটর: [math]\nabla=(\partial_x,\partial_y,\partial_z)[/math] এবং এটি গ্রেডিয়েন্ট, ডাইভারজেন্স ও কার্ল হিসাব করার জন্য ব্যবহৃত হয় — তাই এটাই সঠিক কারণ এটি তফসিলভিত্তিক অনুচ্ছেদ পরিচালনা করে।
+
+খ গ্রেডিয়েন্ট হল কোনো স্কেলার ক্ষেত্র [math]\varphi(x,y,z)[/math] এর আংশিক ডেরিভেটিভগুলোর ভেক্টর, যা ক্ষেত্রের সর্বাধিক বৃদ্ধির দিকে নির্দেশ করে এবং বৃদ্ধির হারের মান দেয়: [math]\nabla\varphi=(\partial_x\varphi,\partial_y\varphi,\partial_z\varphi)[/math]।
+
+গ [math]\vec{V}=4xy^{3}z\,\hat{i}-3x^{3}yz\,\hat{j}+5xyz^{2}\,\hat{k}[/math] এর কার্ল গণনা করে পাওয়া যায়  
+[math]\nabla\times\vec{V}=(5xz^{2}+3x^{3}y)\,\hat{i}+(4xy^{3}-5yz^{2})\,\hat{j}+(-9x^{2}yz-12xy^{2}z)\,\hat{k},[/math]  
+কারণ প্রত্যেক উপাদানের নিয়ম অনুযায়ী পার্শ্বিক উৎপন্না নেওয়া হয়েছে (উদাহরণ: [math]i[/math]-উপাদান = [math]\partial_y V_z-\partial_z V_y[/math] ইত্যাদি)।
+
+ঘ স্কেলার → ভেক্টর: স্কেলার ক্ষেত্র [math]\varphi[/math] এর উপর [math]\nabla[/math] (গ্রেডিয়েন্ট) প্রয়োগ করলে ভেক্টর ক্ষেত্র মেলে যা দ্রুততম বৃদ্ধি নির্দেশ করে; ভেক্টর → স্কেলার: ভেক্টর ক্ষেত্র [math]\vec{V}[/math] এর ডাইভারজেন্স [math]\nabla\cdot\vec{V}[/math] নিলে একটি স্কেলার মেলে যা নির্দিষ্ট বিন্দুতে নেট প্রবাহ/উৎসরণ বোঝায়। যদি ভেক্টর ক্ষেত্রটি কনসার্ভেটিভ (কার্ল শূন্য) হয় তবে সেটির থেকে স্কেলার পটেনশিয়াল ইন্টেগ্রেশন করে ফেরত পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 395830)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Dhaka Residential Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একটি স্কেলার ক্ষেত্র [math]\varphi=2 x^{2} y^{2} z^{2}[/math] এবং ভেক্টর ক্ষেত্র [math]\mathrm{F}=x^{2} \text { yi }-2 x y z j+2 y z k[/math]
+
+Options:
+ক. সমতলীয় ভেক্টর কী?
+খ. ঘর্ষণ বল সংরক্ষণশীল নয় কেন?
+গ. উদ্দীপকের স্কেলার ক্ষেত্রের div grad o নির্ণয় কর। ঘ, (1, - 1, 1) বিন্দুতে Curl F, একমাত্রিক হবে কি না তা গাণিতিক বিশ্লেষণ করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+কযে সকল ভেক্টর একই তলে অবস্থান করে সেগুলো হচ্ছে সমতলীয় ভেক্টর। [math]\\[/math]
+ খযে বলের বিরুদ্ধে করা কাজের পুনরুদ্ধার সম্ভব নয় তাকে অসংরক্ষণশীল বল বলে। কোনো বস্তুকে একটি অমসৃণ তলের উপর দিয়ে টেনে নিয়ে যাওয়ার সময় ঘর্ষণ বলের বিরুদ্ধে কাজ করতে হয়। অমসৃণ তলটি অনুভূমিক হলে এই কৃতকাজ বস্তুটির মধ্যে স্থিতিশক্তিরূপে সঞ্চিত হয় না এবং বস্তুটিও কোনো কাজ করার সামর্থ্য লাভ করে না। বস্তুটিকে তার প্রাথমিক অবস্থানে ফিরিয়ে আনার সময় আবার ঘর্ষণ বলের বিরুদ্ধে কাজ করতে হয়। সুতরাং ঘর্ষণ বলের বিরুদ্ধে কৃতকাজের পুনরুদ্ধার সম্ভব নয়। তাই ঘর্ষণ বল সংরক্ষণশীল নয়। [math]\\[/math]
+ গএখানে, [math]\varphi=2 x^{2} y^{2} z^{4}[/math]
+ [math]\begin{array}{l}\therefore \operatorname{grad} \varphi=
+abla \phi=\left(\frac{\partial}{\partial \mathrm{x}} \hat{\mathrm{i}}+\frac{\partial}{\partial \mathrm{y}} \hat{\mathrm{j}}+\frac{\partial}{\partial \mathrm{z}} \hat{\mathrm{k}}\right)\left(2 \mathrm{x}^{2} \mathrm{y}^{2} \mathrm{z}^{4}\right) \\\qquad \qquad=2 y^{2} z^{4}(2 x) \hat{i}+2 x^{2} z^{4}(2 y) \hat{j}+2 x^{2} y^{2}\left(4 z^{3}\right) \hat{k} \\\therefore \operatorname{grad} \phi=4 x y^{2} z^{4} \hat{i}+4 x^{2} y z^{4} \hat{j}+8 x^{2} y^{2} z^{3} \hat{k} \\\therefore \operatorname{div} \operatorname{grad} \varphi=\vec{
+abla} \cdot \operatorname{grad} \varphi \\\qquad \qquad=\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \cdot\left(4 x y^{2} z^{4} \hat{i}+4 x^{2} y z^{4} \hat{j}+8 x^{2} y^{2} z^{3} \hat{k}\right) \\\end{array}[/math]
+ [math]\begin{aligned}& =4 y^{2} z^{4}(1)+4 x^{2} z^{4}(1)+8 x^{2} y^{2}\left(3 z^{2}\right) \\\therefore \operatorname{div} \operatorname{grad} \varphi & =4 y^{2} z^{4}+4 x^{2} z^{4}+24 x^{2} y^{2} z^{2}\end{aligned}[/math]
+ [math]\\[/math]
+ ঘএখানে, [math]\vec{F}=x^{2} y \hat{i}-2 x y z \hat{j}+2 y z \hat{k}[/math]
+ [math]\begin{array}{l}\therefore \text { Curl } \overrightarrow{\mathrm{F}}=\vec{
+abla} \times \overrightarrow{\mathrm{F}} \\=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\x^{2} y & -2 x y z & 2 y z\end{array}\right| \\=\hat{i}\left\{\frac{\partial}{\partial y}(2 y z)-\frac{\partial}{\partial z}(-2 x y z)\right\}-\hat{j}\left\{\frac{\partial}{\partial x}(2 y z)-\frac{\partial}{\partial z}\left(x^{2} y\right)\right\} +\hat{\mathrm{k}}\left\{\frac{\partial}{\partial \mathrm{x}}(-2 \mathrm{xyz})-\frac{\partial}{\partial y}\left(\mathrm{x}^{2} \mathrm{y}\right)\right\} \\=\hat{\mathrm{i}}\{2 \mathrm{z}+2 \mathrm{xy}\}-\hat{\mathrm{j}}\{0-0\}+\hat{\mathrm{k}}\left\{-2 \mathrm{yz}-\mathrm{x}^{2}\right\} \\\therefore \operatorname{Curl} \overrightarrow{\mathrm{F}}=(2 x y+2 z) \hat{\mathrm{i}}-\hat{\mathrm{k}}\left(\mathrm{x}^{2}+2 \mathrm{yz}\right) \\\end{array}[/math]
+এখন, (1, − 1, 1) বিন্দুতে [math]\text { Curl } \overrightarrow{\mathrm{F}}=(-2+2) \hat{\mathrm{i}}-(1-2) \hat{\mathrm{k}}[/math]
+ [math]\therefore \text { Curl } \overrightarrow{\mathrm{F}}=\hat{\mathrm{k}}[/math]
+দেখা যাচ্ছে, [math]\text { Curl } \overrightarrow{\mathrm{F}}[/math]
+ এ একটিমাত্র মাত্রা ( z ) সংশ্লিষ্ট। অতএব, (1, − 1, 1) বিন্দুতে [math]\text { Curl } \overrightarrow{\mathrm{F}}[/math]
+ একমাত্রিক হবে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ভেক্টর ক্ষেত্রটি সমতলীয় (divergence-free) নয়, কারণ [math]\nabla\cdot F=\frac{\partial}{\partial x}(x^{2}y)+\frac{\partial}{\partial y}(-2xyz)+\frac{\partial}{\partial z}(2yz)=2xy-2xz+2y[/math], যা সাধারণভাবে শূন্য নয়।  
+
+খ ঘর্ষণ বল সংরক্ষণশীল নয় কারণ এর দ্বারা করা কাজ পথনির্ভর (এটি ক্রমাগত শক্তি বিনষ্ট করে) এবং একটি বন্ধ পথ বরাবর মোট কাজ শূন্য হয় না, তাই এটি কোনও স্কেলার সম্ভাব্যতার গ্রেডিয়েন্ট নয়।  
+
+গ [math]\varphi=2x^{2}y^{2}z^{2}[/math] এর জন্য [math]\nabla\cdot(\nabla\varphi)=\nabla^{2}\varphi=4\big(x^{2}y^{2}+x^{2}z^{2}+y^{2}z^{2}\big)[/math]. ভেক্টর ক্ষেত্রের curl হলো [math]\nabla\times F=\langle 2(xy+z),\,0,\,-(x^{2}+2yz)\rangle[/math], এবং পয়েন্ট [math](1,-1,1)[/math] এ [math]\nabla\times F=\langle0,0,1\rangle[/math], অর্থাৎ curl শূন্য নয় (অতএব ক্ষেত্রটি ঘূর্ণায়মান) এবং ওই বিন্দুতে কেবল z-দিকেই নির্দেশিত—অর্থাৎ একমাত্রিক (একটি মাত্র কম্পোনেন্ট সমৃদ্ধ)।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 395831)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Feni Girls' Cadet College
+--------------------------------------------------------------------------------
+Question:
+ভেক্টর [math]\vec{A}=\left(6 \mathrm{xy}+z^{2}\right) \hat{i}+\left(3 x^{2}-\mathrm{z}\right) \hat{j}+\left(3 \mathrm{x} z^{2}-\mathrm{y}\right) \hat{k}[/math]
+
+Options:
+ক. কার্ল কী?
+খ. [math]\widehat{i} \cdot \hat{j}=0[/math] ব্যাখ্যা কর।
+গ. (1, -1, 1 ) বিন্দুতে [math]\vec{A}[/math] এর ডাইভারজেন্স নির্ণয় কর।
+ঘ. [math]\vec{A}[/math] ভেক্টরটি কী অঘূর্ণনশীল? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\vec{A}=A_{x} \vec{i}+A_{y} \vec{j}+A_{z} \vec{k}[/math]
+ দ্বারা একটি ভেক্টর ক্ষেত্র নির্দিষ্ট হলে এবং একে ক্ষেত্রের যেকোনো বিন্দুতে (x, y, z) ডিফারেনসিয়েট করা গেলে ভেক্টর অপারেটর [math]\Delta[/math]
+ ও [math]\overrightarrow{\mathrm{A}}[/math]
+ -এর ভেক্টর গুণনই [math]\overrightarrow{\mathrm{A}}[/math]
+ -এর কার্ল । [math]\\[/math]
+ খএখানে, [math]\hat{\mathrm{i}}[/math]
+ ও [math]\hat{\mathrm{j}}[/math]
+ যথাক্রমে X-অক্ষ ও Y-অক্ষ বরাবর আয়ত একক ভেক্টর । আমরা জানি, X ও Y অক্ষের মর্ধবর্তী কোণ [math]\theta=90^{\circ}[/math]
+.[math]\hat{\mathrm{i}}[/math]
+ ও [math]\hat{\mathrm{j}}[/math]
+ এর ডট গুণফল-[math]\begin{aligned}\hat{\mathrm{i}} \cdot \hat{\mathrm{j}} & =|\hat{\mathrm{i}}||\hat{\mathrm{j}}| \cos \theta \\& =\sqrt{1^{2}} \sqrt{1^{2}}=\cos 90^{\circ} \\& =(1) \times(1) \times 0=0\end{aligned}[/math]
+অতএব, [math]\hat{\mathrm{i}}[/math]
+ ও [math]\hat{\mathrm{j}}[/math]
+ এর মধ্যবর্তী কোণ [math]90^{\circ}[/math]
+ বলে [math]\hat{\mathrm{i}} . \hat{\mathrm{j}} = 0[/math]
+ হয়। [math]\\[/math]
+ গএখানে অবস্থান ভেক্টরটি হচ্ছে,[math]\vec{A}=\left(6 x y+z^{2}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}[/math]
+এখন, [math]\operatorname{div} \vec{A}=\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \cdot\left\{\left(6 x y+z^{2}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}\right\}[/math]
+ [math]\hspace{2cm}\begin{array}{l}=\frac{\partial}{\partial x}\left(6 x y+z^{2}\right)+\frac{\partial}{\partial y}\left(3 x^{2}-z\right)+\frac{\partial}{\partial z}\left(3 x z^{2}-y\right) \\=6 y+0+6 x z=6 y+6 xz \end{array}[/math]
+এখন, (1, − 1, 1 ) বিন্দুতে [math]\operatorname{div} \vec{A}[/math]
+ এর মান[math]\hspace{1cm}=6 \times(-1)+6 \times 1 \times 1=-6+6=0[/math]
+নির্ণেয় বিন্দুতে [math]\operatorname{div} \vec{A}[/math]
+ এর মান শূন্য। [math]\\[/math]
+ ঘএখানে, [math]\vec{A}=\left(6 x y+z^{2}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}[/math]
+ [math]\operatorname{curl} \vec{A}=
+abla \times \vec{A}=\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \times\left\{\left(6 x y+z^{2}\right) \hat{i}+\left(3 x^{2}-z\right) \hat{j}+\left(3 x z^{2}-y\right) \hat{k}\right\}[/math]
+ [math]\begin{array}{l}curl\vec{A}=
+abla\times\vec{A}=\left(\frac{\partial}{\partial x}\hat{i}+\frac{\partial}{\partial y}\hat{j}+\frac{\partial}{\partial z}\hat{k}\right)\times\left\{\left(6xy+z^2\right)\hat{i}+\left(3x^2-z\right)\hat{j}+\left(3xz^2-y\right)\hat{k}\right\}\\\ \ \ \ \ \ \ \ \ \ \ =\left|\begin{array}{ccc}\hat{\mathrm{i}}&\hat{\mathrm{j}}&\hat{\mathrm{k}}\\\frac{\partial}{\partial\mathrm{x}}&\frac{\partial}{\partial y}&\frac{\partial}{\partial z}\\\left(6xy+z^2\right)&\left(3\mathrm{x}^2-z\right)&\left(3xz^2-y\right)\end{array}\right|\\\ \ \ \ \ \ \ \ \ \ \ =\hat{\mathrm{i}}\left\{\frac{\partial}{\partial y}\left(3xz^2-\mathrm{y}\right)-\frac{\partial}{\partial z}\left(3x^2-z\right)\right\}+\hat{\mathrm{j}}\left\{\frac{\partial}{\partial z}\left(6xy+z^2\right)-\frac{\partial}{\partial x}\left(3xz^2-y\right)\right\}+\hat{\mathrm{k}}\left\{\frac{\partial}{\partial\mathrm{x}}\left(3\mathrm{x}^2-\mathrm{z}\right)-\frac{\partial}{\partial y}\left(6xy+z^2\right)\right\}\\\ \ \ \ \ \ \ \ \ \ \ =\hat{i}(-1+1)+\hat{j}\left(2\cdot z-3z^2\right)+\hat{k}(6x-6x)=\left(2z-3z^2\right)\hat{j}\\\end{array}[/math]
+এখানে, [math]\operatorname{curl} \vec{A} 
+eq 0[/math]
+তাই বলতে পারি A ভেক্টরটি অঘূর্ণনশীল নয় । [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক কার্ল হলো [math]\nabla\times\vec{A}[/math]; সরাসরি গণনা করলে পাওয়া যায় [math]\nabla\times\vec{A}=(-3z^{2}+2z)\,\hat{j}[/math] (অন্য দুটি অংশ শূন্য)। এটাই কার্লের সঠিক রূপ।
+
+খ কারণ [math]\hat{i}[/math] ও [math]\hat{j}[/math] পারস্পরিক লম্ব (orthonormal) একক ভেক্টর; তাই [math]\hat{i}\cdot\hat{j}=|\hat{i}||\hat{j}|\cos90^\circ=0[/math]।
+
+গ ডাইভার্জেন্স হলো [math]\nabla\cdot\vec{A}=\partial_x A_x+\partial_y A_y+\partial_z A_z=6y+6xz[/math]; (বিন্দুতে [math](1,-1,1)[/math]) ফলে [math]6(-1)+6(1)(1)=0[/math], তাই ডাইভার্জেন্স শূন্য।
+
+ঘ অঘূর্ণনশীল মানে কার্ল সার্বজনীনভাবে শূন্য হতে হবে; এখানে [math]\nabla\times\vec{A}=(-3z^{2}+2z)\hat{j}[/math], যা সব জায়গায় শূন্য নয় (শূন্য হয় কেবল [math]z=0[/math] বা [math]z=2/3[/math] এ)। তাই ভেক্টরটি সাধারণভাবে অঘূর্ণনশীল নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 395832)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Narail Govt. Victoria College
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{Q}=2 x y^{4}-x^{2} z[/math] একটি ব্যবকলন যোগ্য স্কেলার ফাংশন।
+
+Options:
+ক. ভেক্টর অপারেটর কী?
+খ. বল ও সরণ ভেক্টর রশি হওয়া সত্ত্বেও কাজ স্কেলার রাশি ব্যাখ্যা কর।
+গ. (1, − 1, 1) বিন্দুতে Q এর গ্রেডিয়েন্ট নির্ণয় কর।
+ঘ. দেখাও যে, [math]\vec{\nabla} \mathrm{Q}[/math] অঘূর্ণনশীল ভেক্টর।
+
+
+Correct Answer: 
+
+Solution:
+কযেসব গাণিতিক চিহ্নের সাহায্যে ভেক্টর রাশি রূপান্তর করা হয় সেগুলোই ভেক্টর অপারেটর। [math]\\[/math]
+ খআমরা জানি,কাজ, [math]W =[/math]
+ সরণের দিকের বলের উপাংশ [math]\times[/math]
+ সরণ[math]\hspace{1cm}\begin{array}{l}\quad=F(s \cos \theta) \\\therefore W=\vec{F} \cdot \vec{s}\end{array}[/math]
+যেহেতু দুটি ভেক্টর রাশির গুণফল সর্বদা একটি স্কেলার রাশি। সুতরাং বল ও সরণের স্কেলার গুণফল কাজ একটি স্কেলার রাশি। এর কেবল মান আছে, দিক নেই। [math]\\[/math]
+ গএখানে, [math]Q=2 x y^{4}-x^{2} z[/math]
+এখন, [math]\operatorname{grad} Q=\vec{
+abla} \cdot Q=\left\{\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right\} \cdot\left\{2 x y^{4}-x^{2} z\right\}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\hat{i} \frac{\partial}{\partial x}\left(2 x y^{4}-x^{2} z\right)+\hat{j} \frac{\partial}{\partial y}\left(2 x y^{4}-x^{2} z\right)+\hat{k} \frac{\partial}{\partial z}\left(2 x y^{4}-x^{2} z\right) \\=\hat{i}\left(2 y^{4}-2 x z\right)+\hat{j}\left(8 x y^{3}-0\right)+\hat{k}\left(0-x^{2}\right) \\=\left(2 y^{4}-2 x z\right) \hat{i}+8 x y^{3} \hat{j}-x^{2} \hat{k}\end{array}[/math]
+ [math]\therefore(1,-1,1)[/math]
+ বিন্দুতে Q এর গ্রেডিয়েন্ট[math]\hspace{1.5cm}\begin{array}{l}=\left(2(-1)^{4}-2 \cdot 1 \cdot 1\right) \hat{i}+8(1)(-1)^{3} \hat{j}-(1)^{2} \hat{k} \\=0 \hat{i}-8 \hat{j}-\hat{k}=-8 \hat{j}-\hat{k}\end{array}[/math]
+ [math]\\[/math]
+ ঘ‘গ’ হতে,[math]\begin{array}{l}\vec{
+abla} \cdot \vec{Q}=\left(2 y^{4}-2 x z\right) \hat{i}+8 x y^{3} \hat{j}-x^{2} \hat{k} \\\vec{
+abla}=\hat{i} \frac{\partial}{\partial x}+\hat{j} \frac{\partial}{\partial y}+\hat{k} \frac{\partial}{\partial z}\end{array}[/math]
+তাহলে [math]\text { Curl }=\vec{
+abla} \times \vec{Q}=0[/math]
+ হলে ক্ষেত্রটি অঘূর্ণনশীল হবে,[math]\hspace{1.5cm}\begin{array}{l}\vec{
+abla}\times\vec{Q}=\left(\hat{i}\frac{\partial}{\partial x}+\hat{j}\frac{\partial}{\partial y}+\hat{k}\frac{\partial}{\partial z}\right)\times\left\{\left(2y^4-2xz\right)\hat{i}+8xy^3\hat{j}-x^2k\right\}\\=\left|\begin{array}{ccc}\hat{i}&\hat{j}&\hat{k}\\\frac{\partial}{\partial x}&\cdot\frac{\partial}{\partial y}&\frac{\partial}{\partial z}\\2y^4-2xz&,8xy^3&-x^2\end{array}\right|\\=\hat{i}\left\{\frac{\partial}{\partial x}(-x)^2-\frac{\partial}{\partial z}\left(8xy^3\right)\right\}+\hat{j}\left\{\frac{\partial}{\partial z}\left(2y^4-2xz\right)-\frac{\partial}{\partial x}\left(-x^2\right)\right\}+\hat{k}\left\{\frac{\partial}{\partial x}\left(8xy^3\right)-\frac{\partial}{\partial y}\left(2y^4-2xz\right)\right\}\\=\hat{\mathrm{i}}(0-0)\hat{\mathrm{j}}(0-2\mathrm{x}+2\mathrm{x})+\hat{\mathrm{k}}\left(8\mathrm{y}^3-8\mathrm{y}^3+0\right)\\=\hat{\mathrm{i}}\cdot0+\hat{\mathrm{j}}\cdot0+\hat{\mathrm{k}}\cdot0=0\\\end{array}[/math]
+যেহেতু [math]\vec{
+abla} \times \vec{Q}=0[/math]
+ তাই [math]\vec{
+abla} \mathrm{Q}[/math]
+ একটি অঘূর্ণনশীল ভেক্টর। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ভেক্টর অপারেটর হলো এমন একটি অপারেটর যেটার কম্পোনেন্টগুলো আংশিক ডিফারেনশিয়াল অপারেটর; সাধারণ উদাহরণ হল [math]\nabla = \left(\partial_x,\partial_y,\partial_z\right)[/math], যা একটি স্ক্যালারের উপর প্রয়োগ করলে গ্রেডিয়েন্ট (ভেক্টর) দেয়, এবং ভেক্টরের উপর প্রয়োগ করলে ডাইভার্জেন্স বা কার্ল দেয়।
+
+খ কাজ (work) হলো বল এবং সরণ ভেক্টরের ডট সরাবাহ (dot product) [math]W=\vec F\cdot\vec s[/math] বা ক্ষুদ্রে [math]dW=\vec F\cdot d\vec r[/math], এবং ভেক্টরের ডট প্রযোজনে ফলাফল একটি স্কেলার হয় — তাই কাজ স্কেলার রাশি হয়।
+
+গ [math]Q=2xy^{4}-x^{2}z[/math] হলে গ্রেডিয়েন্ট হল [math]\nabla Q=\left(\partial_x Q,\partial_y Q,\partial_z Q\right)=\left(2y^{4}-2xz,\;8xy^{3},\;-x^{2}\right)[/math]. বিন্দু [math](1,-1,1)[/math]-এ এটি হয়ে যাবে [math]\nabla Q(1,-1,1)=(0,-8,-1)[/math]।
+
+ঘ সাধারণ পরিচিত পরিচিতি অনুযায়ী যে কোনো স্ক্যালার ক্ষেত্রের গ্রেডিয়েন্টের কার্ল শূন্য হয়: [math]\nabla\times(\nabla Q)=\mathbf{0}[/math]; এটি মিশ্র আংশিক ডেরিভেটিভের সমতা (Clairaut) থেকে সরাসরি পাওয়া যায়, তাই [math]\nabla Q[/math] অঘূর্ণনশীল।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 395833)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Rangpur Govt. College
+--------------------------------------------------------------------------------
+Question:
+[math]\phi[/math]একটি স্কেলার অপেক্ষক যেখানে [math]\phi=3 x^{2} y z+4 x y z+2 y z^{3}[/math] এবং [math]\vec{A}[/math] একটি ভেক্টর অপেক্ষক যেখানে [math]\vec{A}=4 x y^{3} z \hat{i}-3 x^{3} y z \hat{j}+5 x y z^{2} \hat{k}[/math]
+
+Options:
+ক. স্থিতিস্থাপক সংঘর্ষ কী?
+খ. বাঁকা পথে দ্রুত গতিশীল গাড়ি উল্টে যায় কেন? ব্যাখ্যা কর।
+গ. [math]\vec{\nabla}[/math] এর কার্ল নির্ণয় কর।
+ঘ. উদ্দীপকের আলোকে গাণিতিকভাবে বিশ্লেষণ করে দেখাও যে কীভাবে একটি স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে এবং একটি ভেক্টর ক্ষেত্রকে স্কেলার ক্ষেত্রে রূপান্তর করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+কযে সংঘর্ষে বস্তুসমূহের মোট গতিশক্তি ও মোট ভরবেগ অপরিবর্তিত থাকে এবং সংঘর্ষের পর বস্তুসমূহ আলাদা থাকে, সেই সংঘর্ষকে স্থিতিস্থাপক সংঘর্ষ বলে। [math]\\[/math]
+ খবাঁকা পথে দ্রুত গতিশীল গাড়ি চলার সময় গাড়ির উপর ক্রিয়াশীল বস্তুর অভিমুখী জড়তা গাড়িটিকে ধাক্কা দিয়ে উল্টিয়ে ফেলতে পারে । এ জড়তাকে প্রতিহত করার জন্য গাড়িটিকে একটি কেন্দ্রমুখী বলের সৃষ্টি করতে হয়। এজন্য গতিশীল গাড়ির কাত হওয়া প্রয়োজন। কিন্তু সমতলে গতিশীল গাড়ি কাত হলে বিপর্যয় ঘটবে। এজন্য বাঁকা রাস্তার বাইরের অংশ একটু উঁচু এবং ভেতরের অংশ একটু নিচু অবস্থায় থাকে অর্থাৎ রাস্তা ঢালু করে রাখা হয়। রাস্তা যে পরিমাণ কোণে ঢালু হবে গাড়ি ঠিক সেই পরিমাণ কোণে কাত হয়ে চলতে পারবে। যে পরিমাণ কোণে রাস্তা ঢালু রাখা হয় কিংবা গতিশীল গাড়িটি চলে, ঐ কোণটিকে বলা হয় রাস্তার ব্যাংকিং কোণ। গতিশীল গাড়ি যত দ্রুত চলবে ব্যাংকিং কোণের মান তত বেশি হবে অর্থাৎ রাস্তা বেশি ঢালু রাখতে হবে। এজন্য ঢাল কম থাকলে বাঁকা পথে দ্রুত গতিশীল গাড়ি উল্টে যায় ! [math]\\[/math]
+ গ [math]\begin{array}{l}\text {Curl } \vec{A}=\vec{
+abla} \times \vec{A} \\=\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \times\left(4 x y^{3} \hat{i}^{\hat{i}}-3 x^{3} y z \hat{j}+5 x y z^{2} \hat{k}\right) \\=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\4 x y^{3} z & -3 \mathrm{x}^{3} y z & 5 x y z^{2}\end{array}\right| \\=\hat{i}\left\{\frac{\partial}{\partial y}\left(5 x y z^{2}\right)-\frac{\partial}{\partial z}\left(-3 x^{3} y z\right)\right\}-\hat{j}\left\{\frac{\partial}{\partial x}\left(5 x y z^{2}\right)-\frac{\partial}{\partial z}\left(4 x y^{3} z\right)\right\} +\hat{\mathrm{k}}\left\{\frac{\partial}{\partial \mathrm{x}}\left(-3 \mathrm{x}^{3} \mathrm{yz}\right)-\frac{\partial}{\partial \mathrm{y}}\left(4 x \mathrm{y}^{3} \mathrm{z}\right)\right\} \\=\hat{\mathrm{i}}\left(5 x z^{2}+3 \mathrm{x}^{3} \mathrm{y}\right)-\hat{\mathrm{j}}\left(5 y z^{2}-4 x y^{3}\right)+\hat{\mathrm{k}}\left(-9 \mathrm{x}^{2} \mathrm{yz}-12 x \mathrm{y}^{2} z\right) \\=\left(5 x z^{2}+3 x^{3} y\right) \hat{i}-\left(5 y z^{2}-4 x y^{3}\right) \hat{j}-\left(9 x^{2} y z+12 x y^{2} z\right) \\\end{array}[/math]
+ [math]\\[/math]
+ ঘকোন স্কেলার ক্ষেত্রের গ্রেডিয়েন্ট একটি ভেক্টর ক্ষেত্র নির্দেশ করে।এখানে [math]\varphi=3 x^{2} y z+4 x y z+2 y z^{3}[/math]
+ একটি স্কেলার ক্ষেত্র।[math]\begin{array}{l}\therefore grad\varphi=\vec{
+abla}\varphi\\\ \ \ \ \ \ \ \ \ \ \ \ \ \ =\left(\frac{\partial}{\partial x}\hat{i}+\frac{\partial}{\partial y}\hat{j}+\frac{\partial}{\partial z}\hat{k}\right)\left(3x^2yz+4xyz+2yz^3\right)\\\ \ \ \ \ \ \ \ \ \ \ \ \ \ =\frac{\partial}{\partial x}\left(3x^2yz+4xyz+2yz^3\right)\hat{i}+\frac{\partial}{\partial y}\left(3x^2yz+4xyz+2yz^3\right)\hat{j}+\frac{\partial}{\partial z}\left(3x^2yz+4xyz+2yz^3\right)\hat{k}\\\ \ \ \ \ \ \ \ \ \ \ \ \ =(6xyz+4yz)\hat{i}+\left(3x^2z+4xz+2z^3\right)\hat{j}+\left(3x^2y+4xy+6yz^2\right)\hat{k}\end{array}[/math]
+কোন ভেক্টরের ক্ষেত্রের ডাইভারজেন্স একটি স্কেলার ক্ষেত্র নির্দেশ করে।এখানে, [math]\overrightarrow{\mathrm{A}}=4 x y^{3} z \hat{i}-3 x^{3} y z \hat{j}+5 x y z^{2} \hat{k}[/math]
+ একটি ভেক্টরক্ষেত্র।[math]\begin{aligned}\therefore \operatorname{div} \vec{A} & =\vec{
+abla} \cdot \vec{A} \\& =\left(\frac{\partial}{\partial x} \hat{i}+\frac{\partial}{\partial y} \hat{j}+\frac{\partial}{\partial z} \hat{k}\right) \cdot\left(4 x y^{3} z \hat{i}-3 x^{3} y z \hat{j}+5 x y z^{2} \hat{k}\right) \\& =\frac{\partial}{\partial x}\left(4 x y^{3} z\right)-\frac{\partial}{\partial y}\left(3 x^{3} y z\right)+\frac{\partial}{\partial z}\left(5 x y z^{2}\right) \\& =4 y^{3} z-3 x^{3} z+10 x y z\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ সঠিক—কারণ যেকোনো স্কেলার ক্ষেত্রের গ্র্যাডিয়েন্টের কার্ল শূন্য হয়; অর্থাৎ [math]\nabla\times(\nabla\phi)=\mathbf{0}[/math]. এটি উপাদানভিত্তিকভাবে দেখা যায়, উদাহরণস্বরূপ [math](\nabla\times\nabla\phi)_x=\partial_y\partial_z\phi-\partial_z\partial_y\phi=0[/math] (মিশ্র পার্শ্বিক ডেরিভেটিভগুলোর কমিউটেটিভিটি থেকে), তাই দেওয়া [math]\phi[/math]-র জন্যও কার্ল শূন্য।
+
+Sub-Questions:
+

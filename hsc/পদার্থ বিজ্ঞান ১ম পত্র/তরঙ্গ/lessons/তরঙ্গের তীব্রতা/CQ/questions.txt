@@ -1,0 +1,1466 @@
+================================================================================
+Question #1 (ID: 413819)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+তরঙ্গটির [math]0.09 \mathrm{~kg} \mathrm{~m}^{-3}[/math] ঘনত্বের মাধ্যমের মধ্যদিয়ে সঞ্চালিত। [ [math]I_{0}=[/math] [math]10^{-12} \mathrm{Wm}^{-2}[/math] ] সৃষ্ট শব্দের তীব্রতা লেভেল কত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]113.11 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :এখানে,তরঙ্গের বিস্তার, [math]a=6 \mathrm{~cm}=0.06[/math]
+তরঙ্গ দৈর্ঘ্য, [math]\lambda=0.5 \mathrm{~m}[/math]
+পর্যায়কাল, [math]\mathrm{T}=0.25 \mathrm{sc}[/math]
+কম্পাঙ্ক, [math]f=\frac{1}{\mathrm{~T}}=\frac{1}{0.25}=4 \mathrm{~Hz}[/math]
+ঘনত্ব, [math]\rho=0.09 \mathrm{\ kgm}^{-3}[/math]
+প্রমাণ তীব্রতা, [math]\mathrm{I}_{\mathrm{o}}=10^{-12} \mathrm{Wm}^{-2}[/math]
+শব্দের তীব্রতা লেভেল, [math]\beta=?[/math]
+আমরা জানি,'তরঙ্গের তীব্রতা,[math]\begin{aligned}\mathrm{I} & =2 \pi^{2} \rho f^{2} \mathrm{a}^{2} \mathrm{v} \\\mathrm{I} & =2 \pi^{2} \rho f^{2} \mathrm{a}^{2} \times f \lambda[\because \mathrm{v}=f \lambda] \\& =2 \pi^{2} \rho f^{3} \mathrm{a}^{2} \lambda \\& =2 \pi^{2} \times 0.09 \times(4)^{2} \times(0.06)^{2} \times 0.5 \\& =0.20466 \mathrm{Wm}^{-2}\end{aligned}[/math]
+আবার,শব্দের তীব্রতা লেভেল, [math]\beta=10 \log \frac{I}{I_{o}}[/math]
+ [math]=10 \log \frac{0.20466}{10^{-12}}=113.11 \mathrm{~dB} \text { (Ans.) }[/math]
+
+
+Explanation:
+শব্দ তীব্রতা-স্তর নির্ণয়ের সূত্রটি হলো [math]\beta = 10\log_{10}\!\left(\dfrac{I}{I_{0}}\right)[/math]. এখানে প্রদত্ত তীব্রতা [math]I=I_{0}=10^{-12}\ \mathrm{Wm^{-2}}[/math], অতএব [math]\beta=10\log_{10}(1)=0\ \mathrm{dB}[/math]; মাধ্যমের ঘনত্ব এখানে ফলাফলকে প্রভাবিত করে না।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 413820)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নির্দিষ্ট কম্পাঙ্কের সুর শলাকার স্পন্দনে ও দুটি ভিন্ন মাধ্যমে সমান প্রাবল্যের তরঙ্গ প্রবাহিত হয়। মাধ্য মন্বয়ের ঘনত্ব ও শব্দের বেগের অনুপাত যথাক্রমে 2: 1 ও 3:2 হলে উৎপন্ন শব্দদ্বয়ের বিস্তারের অনুপাত কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1:\sqrt{3}[/math]
+ )[math]\\[/math]
+Solution :এখানে,[math]\begin{array}{l}\rho_{1}: \rho_{2}=2: 1 \\{v}_{1}: v_{2}=3: 2 \\A_{1}: A_{2}=?\end{array}[/math]
+আমরা জানি, [math]I=2 \pi^{2} \mathrm{f}^{2} A^{2} \rho v[/math]
+যেহেতু তীব্রতা ও কম্পাঙ্ক একই ,[math]\therefore \quad 2 \pi^{2} f^{2} A_{1}^{2} \rho_{1} v_{1}=2 \pi^{2} f^{2} A_{2} \rho_{2} v_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\left(\frac{A_{1}}{A_{2}}\right)^{2}=\frac{\rho_{2} V_{2}}{\rho_{1} v_{1}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{A_{1}}{A_{2}}=\sqrt{\frac{1 \times 2}{2 \times 3}}[/math]
+ [math]=\frac{1}{\sqrt{3}}[/math]
+ [math]\therefore \quad \mathrm{A}_{1}: \mathrm{A}_{2}=1: \sqrt{3} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধ্বনিতরঙ্গের তীব্রতা [math]I[/math] জন্য [math]I=\tfrac{1}{2}\rho v \omega^2 s_m^2[/math] যেখানে [math]\rho[/math] ঘনত্ব, [math]v[/math] বেগ, [math]\omega[/math] কৌণিক কম্পাঙ্ক ও [math]s_m[/math] বিস্তারমান। সমান কম্পাঙ্ক ও সমান প্রাবল্যে হলে [math]I\propto\rho v[/math], তাই [math]\dfrac{I_1}{I_2}=\dfrac{\rho_1 v_1}{\rho_2 v_2}=\dfrac{2\times3}{1\times2}=3[/math], অর্থাৎ অনুপাত 3:1।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 413821)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো পাবলিক লাইব্রেরির পাঠ কক্ষের শব্দের তীব্রতা [math]10^{-8} \mathrm{Wm}^{-2}[/math]।
+
+(ক) শব্দের তীব্রতা লেভেল ডেসিবেলে নির্ণয় করো।
+
+(খ) শব্দের তীব্রতা তিনগুণ হলে নতুন তীব্রতা লেভেল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]40 \mathrm{~dB}[/math]
+ (খ) [math]44.77 \mathrm{~dB}[/math]
+ )
+
+Explanation:
+ব্যাখ্যা:
+ক শব্দ স্তর নির্ণয়ের সূত্র [math]L=10\log_{10}\frac{I}{I_0}[/math] যেখানে [math]I_0=10^{-12}\ \mathrm{Wm^{-2}}[/math]; তাই [math]L=10\log_{10}\frac{10^{-8}}{10^{-12}}=10\log_{10}(10^4)=40\ \mathrm{dB}[/math]।
+খ তীব্রতা তিনগুণ হলে তফাৎ [math]\Delta L=10\log_{10}3\approx4.77\ \mathrm{dB}[/math] এবং নতুন স্তর [math]L'=40+4.77\approx44.77\ \mathrm{dB}[/math] হয়—কারণ ডেসিবেল লিনিয়ার নয়, তীব্রতা গুণ হলে যোগের মাধ্যমে বৃদ্ধি ঘটে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 413822)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো শব্দের তীব্রতা প্রমাণ তীব্রতার 100 গুণ হলে ঐ শব্দের তীব্রতার লেভেল কত ডেসিবেল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]20 \mathrm{~dB}[/math]
+)[math]\\[/math]
+Solution :এখানে,শব্দের তীব্রতা, [math]I=100 I_{0}[/math]
+তীব্রতা লেভেল, [math]\beta=\text { ? }[/math]
+আমরা জানি,[math]\begin{aligned}\beta & =10 \log \frac{1}{\mathrm{I}_{\mathrm{o}}} \mathrm{dB} \\& =10 \log \frac{100 \mathrm{I}_{\mathrm{o}}}{\mathrm{I}_{\mathrm{o}}} \mathrm{dB} \\& =10 \times 2 \mathrm{~dB}=20 \mathrm{~dB} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+কারণ শব্দের স্তরের পার্থক্য গণনা করা হয় [math]ΔL=10\log_{10}\frac{I}{I_0}[/math] সূত্রে; যদি তীব্রতা 100 গুণ বাড়ে তবে [math]ΔL=10\log_{10}(100)=10\times2=20\ \text{dB}[/math]. তাই তীব্রতা 100 গুণ বেলে লেভেল 20 ডেসিবেল বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 413823)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো শব্দের তীব্রতা প্রমাণ তীব্রতার 100 গুণ হলে ঐ শব্দের তীব্রতার লেভেল কত ডেসিবেল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]20 \mathrm{~dB}[/math]
+)[math]\\[/math]
+Solution :এখানে,শব্দের তীব্রতা, [math]I=100 I_{0}[/math]
+তীব্রতা লেভেল, [math]\beta=\text { ? }[/math]
+আমরা জানি,[math]\begin{aligned}\beta & =10 \log \frac{1}{\mathrm{I}_{\mathrm{o}}} \mathrm{dB} \\& =10 \log \frac{100 \mathrm{I}_{\mathrm{o}}}{\mathrm{I}_{\mathrm{o}}} \mathrm{dB} \\& =10 \times 2 \mathrm{~dB}=20 \mathrm{~dB} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ধ্বন তীব্রতার লেভেল নির্ণয়ের সূত্র [math]\beta = 10\log_{10}\!\left(\dfrac{I}{I_0}\right)[/math]. যদি [math]\dfrac{I}{I_0}=100[/math] হয়, তাহলে [math]\beta = 10\log_{10}100 = 10\times 2 = 20[/math] ডেসিবেল।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 413824)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে একটি শব্দ তরঙ্গের উৎসের তীব্রতা [math]500 \mathrm{Wm}^{-2}[/math] এবং বিস্তার 0.15m। বা য়ুর ঘনত্ব [math]1.29 \mathrm{\ kgm}^{-3}[/math] হলে শব্দ উৎসের কম্পাঙ্ক নির্ণয় করো। (শব্দের বেগ, [math]\mathrm{v}=330 \mathrm{~ms}^{-1}[/math] )
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]162 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,উৎসের তীব্রতা, [math]\mathrm{I}=500 \mathrm{Wm}^{-2}[/math]
+বিস্তার,[math]\begin{aligned}\mathrm{a} & =0.15 \mathrm{~cm} \\& =15 \times 10^{-4} \mathrm{~m}\end{aligned}[/math]
+বায়ুর ঘনত্ব, [math]\rho=1.29 \mathrm{\ kgm}^{-3}[/math]
+কম্পাঙ্ক, n = ?শব্দের বেগ, [math]\mathrm{v}=330 \mathrm{~ms}^{-1}[/math]
+আমরা জানি,[math]I=2 \pi^{2} n^{2} a^{2} \rho \mathrm{v}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}^{2}=\frac{\mathrm{I}}{2 \pi^{2} \mathrm{a}^{2} \rho v}[/math]
+ [math]\begin{aligned}& =\frac{500 \mathrm{Wm}^{-2}}{2 \pi^{2} \times\left(15 \times 10^{-4} \mathrm{~m}\right)^{2} \times 1.29 \mathrm{kgm}^{-3} \times 330 \mathrm{~ms}^{-1}} \\& =26445.64 \\\therefore \mathrm{n}= & \sqrt{26445.64} \\= & 162 \mathrm{~Hz} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তরঙ্গের তীব্রতা সূত্র থেকে [math]I=\tfrac{1}{2}\rho v \omega^2 s_m^2[/math] এবং [math]\omega=2\pi f[/math] ব্যবহার করলে [math]f=\frac{1}{2\pi}\sqrt{\frac{2I}{\rho v s_m^2}}[/math]. সংখ্যায় বসালে [math]f=\frac{1}{2\pi}\sqrt{\frac{2\times500}{1.29\times330\times(0.15)^2}}\approx1.63\ \text{Hz}[/math], তাই কম্পাঙ্ক প্রায় [math]1.6\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 413825)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি শব্দ উৎস হতে 1 km দূরে শব্দের তীব্রতা [math]5.5 \times 10^{-6}[/math] [math]\mathrm{Wm}^{-2}[/math] হলে উৎসের ক্ষমতা নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 69 W)[math]\\[/math]
+Solution :এখানে,দূরত্ব, [math]\mathrm{r}=1 \mathrm{~km}=1000 \mathrm{~m}[/math]
+তীব্রতা, [math]\mathrm{I}=5.5 \times 10^{-6} \mathrm{Wm}^{-2}[/math]
+ক্ষমতা, P = ?আমরা জানি, [math]I=\frac{P}{4 \pi r^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]P=I \times\left(4 \pi r^{2}\right)[/math]
+ [math]\begin{array}{l}=5.5 \times 10^{-6} \mathrm{Wm}^{-2} \times\{4 \pi \times \\\left.(1000 \mathrm{~m})^{2}\right\}=69 \mathrm{~W}(\text { Ans. })\end{array}[/math]
+
+
+Explanation:
+শব্দ উৎসকে বস্তুচৌম্বকীয় বিন্দু উৎস ধরে তীব্রতা ও ক্ষমতার সম্পর্ক হলো [math]I=\dfrac{P}{4\pi r^{2}}[/math], তাই [math]P=I\cdot4\pi r^{2}[/math]. এখানে [math]r=1000\ \mathrm{m}[/math] হলে [math]P=5.5\times10^{-6}\times4\pi\times(1000)^2=22\pi\ \mathrm{W}\approx69.1\ \mathrm{W}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 413826)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এমন দুটি শব্দের তীব্রতার অনুপাত নির্ণয় করো যার একটি অপরটি অপেক্ষা 6 dB বড়।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.98[/math]
+ )[math]\\[/math]
+Solution :এখানে,তীব্রতা লেভেল, [math]\Delta \beta=6 \mathrm{~dB}[/math]
+তীব্রতার অনুপাত, [math]\frac{\mathrm{I}_{1}}{\mathrm{I}_{2}}=?[/math]
+আমরা জানি,[math]\Delta \beta=10 \log \frac{\mathrm{I}_{1}}{\mathrm{I}_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]6 \mathrm{~dB}=10 \log \frac{\mathrm{I}_{1}}{\mathrm{I}_{2}} \mathrm{~dB}[/math]
+ [math]\Rightarrow[/math]
+ [math]0.6=\log \frac{I_{1}}{I_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{I_{1}}{I_{2}}=10^{0.6}=3.98 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই শব্দের তীব্রতার লেভেল পার্থক্য এবং তীব্রতার অনুপাতের সম্পর্ক হল [math]\Delta L = 10\log_{10}(I_1/I_2)[/math]. সুতরাং [math]I_1/I_2 = 10^{6/10} = 10^{0.6} \approx 3.98 \approx 4[/math], অর্থাৎ প্রথমটির তীব্রতা প্রায় চারগুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 413828)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনিকের মোবাইল সেটে FM ব্যান্ড আছে। সে একদিন তার সেট অন করে BBC বেতারের বাংলা খবর শুনছি। উৎপন্ন শব্দের তীব্রতা ছিল [math]10^{-7} \mathrm{Wm}^{-2}[/math]। কিছুক্ষণ পর সে নিজেই আবার সাউন্ড বাড়িয়ে দিল ফলে শব্দের তীব্রতা দ্বিগুণ হয়ে গেল।
+
+Options:
+ক. উদ্দীপকে উল্লিখিত শেষ ক্ষেত্রে শব্দের তীব্রতা লেভেল কত ছিল?
+
+
+Correct Answer: 
+
+Solution:
+ক [math]53 \mathrm{~dB} .[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক শব্দ তীব্রতা লেভেল গণনা করা হয় [math]L=10\log_{10}(I/I_0)[/math] যেখানে [math]I_0=10^{-12}\ \mathrm{Wm^{-2}}[/math]. প্রাথমিক লেভেল ছিল [math]L_1=10\log_{10}(10^{-7}/10^{-12})=50\ \mathrm{dB}[/math], এবং তীব্রতা দ্বিগুণ হলে লেভেল বাড়ে [math]10\log_{10}2\approx3.01\ \mathrm{dB}[/math], তাই শেষ লেভেল প্রায় [math]53\ \mathrm{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 413829)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনিকের মোবাইল সেটে FM ব্যান্ড আছে। সে একদিন তার সেট অন করে BBC বেতারের বাংলা খবর শুনছি। উৎপন্ন শব্দের তীব্রতা ছিল [math]10^{-7} \mathrm{Wm}^{-2}[/math]। কিছুক্ষণ পর সে নিজেই আবার সাউন্ড বাড়িয়ে দিল ফলে শব্দের তীব্রতা দ্বিগুণ হয়ে গেল।
+
+Options:
+খ. অনিক যদি ধারাবাহিকভাবে তার সেটের সাউন্ড বৃদ্ধি করতেই থাকে তহলে তীব্রতা লেভেলের কী পরিবর্তন হবে?— বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+খতীব্রতা লেভেল 20dB করে ধারাবাহিকভাবে বাড়তে থাকবে। [math]\\[/math]
+
+Explanation:
+ব্যাখ্যা: খ সঠিক — শব্দ তীব্রতার লেভেল দিতে হয় [math]\beta=10\log_{10}\frac{I}{I_0}[/math] দ্বারা, ফলে তীব্রতা দ্বিগুণ হলে লেভেলের পরিবর্তন হবে [math]\Delta\beta=10\log_{10}2\approx3.01\ \text{dB}[/math]. অতএব প্রতিবার তীব্রতা দ্বিগুণ করলে লেভেল প্রায় [math]3\ \text{dB}[/math] বাড়ে; ধারাবাহিকভাবে বাড়ালে লেভেল লগারিদমিকভাবে, ধীরে ধীরে বাড়তে থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 413830)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অ্যাম্প্লিফায়ার থেকে নিঃসৃত শব্দের ক্ষমতা 10mW থেকে 20mW এ পরিবর্তিত হলে শব্দের তীব্রতা লেভেলের কত ডেসিবেল পরিবর্তিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :এখানে,প্রাথমিক ক্ষমতা,[math]\begin{aligned}\mathrm{I}_{1} & =10 \mathrm{~mW} \\& =10 \times 10^{-3} \mathrm{~W}\end{aligned}[/math]
+চূড়ান্ত ক্ষমতা,[math]\begin{aligned}\mathrm{I}_{2} & =20 \mathrm{~mW} \\& =20 \times 10^{-3} \mathrm{~W}\end{aligned}[/math]
+প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+প্রাথমিক তীব্রতা লেভেল, [math]\beta_{1}=?[/math]
+চূড়ান্ত তীব্রতা' লেভেল, [math]\beta_{2}=?[/math]
+প্রাথমিক তীব্রতা লেভেল, [math]\beta_{1}=10 \log _{10}\left(\frac{\mathrm{I}_{1}}{\mathrm{I}_{0}}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\beta_{1}=10 \log _{10}\left(\frac{10 \times 10^{-3}}{10^{-12}}\right)[/math]
+ [math]\therefore \beta_{1}=100 \mathrm{~dB}[/math]
+চূড়ান্ত তীব্রতা লেভেল, [math]\beta_{2}=10 \log _{10}\left(\frac{\mathrm{I}_{2}}{\mathrm{I}_{0}}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\beta_{2}=10 \log _{10}\left(\frac{20 \times 10^{-3}}{10^{-12}}\right)[/math]
+ [math]\therefore \beta_{2}=103 \mathrm{~dB}[/math]
+ [math]\therefore[/math]
+ তীব্রতা লেভেলের পরিবর্তন,[math]\begin{aligned}\Delta \beta & =\beta_{2}-\beta_{1} \\& =103-100 \\& =3 \mathrm{~dB} \text { (Ans. })\end{aligned}[/math]
+
+
+Explanation:
+শব্দ তীব্রতা লেভেলের পার্থক্য গণনা করা হয় [math]\Delta L = 10\log_{10}\frac{P_2}{P_1}[/math] সূত্রে; এখানে [math]P_1=10\ \text{mW},\ P_2=20\ \text{mW}[/math], তাই [math]\Delta L=10\log_{10}2\approx3.01\ \text{dB}[/math]. কারণ ডেসিবেল স্কেল লঘুগণকীয়, শক্তি দ্বিগুণ হলে তীব্রতা মাত্রামান প্রায় 3 dB বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 413831)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সঙ্গীতানুষ্ঠানের অ্যামপ্লিফায়ার থেকে 1W ক্ষমতার শব্দ উৎপন্ন হলে ঐ শব্দের তীব্রতা লেভেল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]120 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে, অ্যাম্প্লিফায়ারের ক্ষমতা, P = 1 Wআমরা জানি, [math]P_{0}=10^{-12} \mathrm{~W}[/math]
+শব্দের তীব্রতা লেভেল, [math]\beta=?[/math]
+এখন, [math]\beta=10 \log \frac{P}{P_{0}}[/math]
+ [math]=10 \log \frac{1 \mathrm{~W}}{10^{-12} \mathrm{~W}} \mathrm{~dB}=10 \times 12 \mathrm{~dB}=120^{} \mathrm{\ dB} \text { (Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দ তীব্রতা লেভেল নির্ণয়ের সূত্র হলো [math]L=10\log_{10}\frac{I}{I_0}\ \text{dB}[/math], যেখানে রেফারেন্স তীব্রতা [math]I_0=10^{-12}\ \text{W/m}^2[/math]; যদি অ্যাম্পলিফায়ারের দেয়া শব্দের তীব্রতা ধরা হয় [math]I=1\ \text{W/m}^2[/math], তাহলে  
+[math]L=10\log_{10}\frac{1}{10^{-12}}=10\times12=120\ \text{dB}[/math], তাই তীব্রতা লেভেল হচ্ছে [math]120\ \text{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 413832)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোন প্রিন্টিং কমপ্লেক্সের দুটি মেশিন বন্ধ করে দিলে যদি শব্দের তীব্রতা অর্ধেক হয়ে যায় তাহলে ঐ কমপ্লেক্সের তীব্রতার লেভেল কত হ্রাস পাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3 \mathrm{~d} {\mathrm{B}}[/math] )
+
+Explanation:
+শব্দ তীব্রতা ডেসিবেল স্কেলে গণনা করা হয় এবং বদল হিসাব করা হয় [math]ΔL=10\log_{10}\!\left(\dfrac{I_2}{I_1}\right)[/math] সূত্রে; তীব্রতা অর্ধেক হলে [math]ΔL=10\log_{10}\!\left(\tfrac{1}{2}\right)=-10\log_{10}2\approx-3.01\ \text{dB}[/math], অর্থাৎ প্রায় 3 ডেসিবেল হ্রাস হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 413833)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একই কম্পাঙ্কের দুটি শব্দ তরঙ্গের তীব্রতা যথাক্রমে [math]10^{-12} \mathrm{Wm}^{-2}[/math] এবং [math]10 ^{-8} \mathrm{Wm}^{-2}[/math]। শব্দ তরঙ্গ দুটির তীব্রতা স্তরের পার্থক্য কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]40 \mathrm{~dB}[/math] )
+
+Explanation:
+ব্যাখ্যা: তীব্রতা স্তরের পার্থক্য বের করতে ব্যবহার করা হয় [math]\Delta L = 10\log_{10}\frac{I_2}{I_1}[/math] কারণ একই কম্পাঙ্কে মাত্র তীব্রতার অনুপাতই স্তর নির্ধারণ করে। এখানে [math]\frac{I_2}{I_1}=\frac{10^{-8}}{10^{-12}}=10^{4}[/math], তাই [math]\Delta L=10\log_{10}(10^{4})=40\ \text{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 413834)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো শ্রেণির কক্ষের শব্দ তীব্রতা [math]10^{-7} \mathrm{Wm}^{-2}[/math]।
+
+(ক) শব্দের তীব্রতার লেভেল নির্ণয় কর।
+
+(খ) শব্দের তীব্রতা দ্বিগুণ হলে নতুন তীব্রতা লেভেল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 50dB এবং 53dB )
+
+Explanation:
+সমাধান: শব্দ স্তর ধরা হয় [math]L=10\log_{10}(I/I_0)[/math] যেখানে [math]I_0=10^{-12}\,\mathrm{Wm^{-2}}[/math]।
+
+ক [math]I=10^{-7}\,\mathrm{Wm^{-2}}[/math] হলে [math]L=10\log_{10}(10^{-7}/10^{-12})=10\log_{10}(10^5)=50\ \mathrm{dB}[/math]।
+
+খ তীব্রতা দ্বিগুণ করলে [math]I'=2\times10^{-7}\,\mathrm{Wm^{-2}}[/math], তাই [math]L'=10\log_{10}(2\times10^5)=50+10\log_{10}2\approx53.0\ \mathrm{dB}[/math] (বৃদ্ধি ≈ [math]3.01\ \mathrm{dB}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 413835)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+গাছের ডালে বসা একটি পাখি অনবরত একই শক্তিতে ডাকছে। একজন পর্যবেক্ষক পাখির ডাকের তীব্রতা পর্যবেক্ষণ শুরু করার পর পাখির অবস্থান হতে তার অবস্থানের দূরত্ব দ্বিগুণ করে। পাখির সৃষ্ট শব্দের ক্ষমতা [math]10^{-7} W[/math]।
+
+Options:
+গ. উৎস হতে ন্যূনতম কত দূরে শব্দের তীব্রতা লেভেল শূন্য ডেসিবেল হবে?
+
+
+Correct Answer: 
+
+Solution:
+গযেখানে তীব্রতা লেভেল শূন্য সেখানে শব্দের তীব্রতা, [math]\mathrm{I}=10^{-12} \mathrm{Wm}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5cm}\begin{array}{l}\ \ \ \ \ \ \ I=\frac{P}{4\pi\pi^2}\\\Rightarrow\mathrm{r}=\sqrt{\frac{\mathrm{P}}{4\pi\mathrm{I}}}=\sqrt{\frac{10^{-7}}{4\times3.1416\times10^{-12}}}\mathrm{~m}\\\therefore\quad\mathrm{r}=89.2\mathrm{~m}\end{array}[/math]
+ [math]\hspace{1cm}[/math]
+[এখানে, [math]\mathrm P=10^{-7}\mathrm{~W}[/math]
+ ]অতএব, উৎস হতে ন্যূনতম 89.2 m দূরে শব্দের তীব্রতা লেভেল শূন্য ডেসিবেল হবে । [math]\\[/math]
+
+
+Explanation:
+গ 0 ডেসিবেল মানে তীব্রতা হলো মানদণ্ড [math]I_0=10^{-12}\ \text{W/m}^2[/math] এবং বিন্দু উৎসের জন্য [math]I=\dfrac{P}{4\pi r^2}[/math]; তাই [math]r=\sqrt{\dfrac{P}{4\pi I_0}}=\sqrt{\dfrac{10^{-7}}{4\pi\times10^{-12}}}=\sqrt{\dfrac{10^5}{4\pi}}\approx89.2\ \text{m}[/math], কারণ শব্দ শক্তি গোলাকারভাবে বিস্তার পেলে তীব্রতা [math]1/r^2[/math] অনুযায়ী হ্রাস পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 413836)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+গাছের ডালে বসা একটি পাখি অনবরত একই শক্তিতে ডাকছে। একজন পর্যবেক্ষক পাখির ডাকের তীব্রতা পর্যবেক্ষণ শুরু করার পর পাখির অবস্থান হতে তার অবস্থানের দূরত্ব দ্বিগুণ করে। পাখির সৃষ্ট শব্দের ক্ষমতা [math]10^{-7} W[/math]।
+
+Options:
+ঘ. উদ্দীপকের পর্যবেক্ষকের নিকট শব্দের তীব্রতা লেভেলের পরিবর্তন নির্ণয় সম্ভব- গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম অবস্থানে শব্দের তীব্রতা লেভেল, [math]\beta_1=10\log\mathrm{\frac{I_1}{I_0}}[/math]
+২য় অবস্থানে শব্দের তীব্রতা লেভেল, [math]\beta_2=10\log\mathrm{\frac{I_2}{I_0}}[/math]
+এখানে,পর্যবেক্ষকের ১ম অবস্থানের দূরত্ব [math]=\mathrm{r_1}[/math]
+পর্যবেক্ষকের ২য় অবস্থানের দূরত্ব, [math]\mathrm{r_2}=2\mathrm{r_1}[/math]
+ [math]\hspace{1.5cm}\begin{aligned}\therefore \Delta \beta & =\beta_{2}-\beta_{1} \\& =10 \log \frac{I_{2}}{I_{1}} \\& =10 \log \left(\frac{r_{1}}{r_{2}}\right)^{2} \\& =20 \log \frac{r_{1}}{2 r_{1}} \\\therefore \Delta \beta & =-6 \mathrm{~dB}\end{aligned}[/math]
+অতএব, উদ্দীপকের পর্যবেক্ষকের নিকট শব্দের তীব্রতা লেভেলের পরিবর্তন নির্ণয় সম্ভব । [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ কারণ শব্দ তীব্রতা দূরের বর্গের সবীতানুসারে হ্রাস পায়, তাই [math]I\propto\frac{1}{r^2}[/math]; দূরত্ব দ্বিগুণ হলে তীব্রতা হবে চারগুণ কম: [math]I_2=\frac{I_1}{4}[/math]. তীব্রতার লেভেল পরিবর্তন হল [math]\Delta\beta=10\log_{10}\frac{I_2}{I_1}=10\log_{10}\frac{1}{4}=10\log_{10}(0.25)\approx-6.02\ \mathrm{dB}[/math], অর্থাৎ প্রায় 6 dB কমে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 413837)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Mymensingh Girl's Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] এবং [math]B[/math] দুটি সুরশলাকায় বাতাসে উৎপন্ন শব্দের তরঙ্গের সমীকরণ।
+
+[math]Y_{1}=0.5 \sin \pi\left(100 t-\dfrac{x}{3.4}\right) ; Y_{2}=0.5 \sin \pi\left(110.03 t-\dfrac{x}{3.09}\right)[/math] এককসমূহ SI পদ্ধতিতে প্রকাশিত। [বাতাসের ঘনত্ব [math]\rho = 1.293 kgm^{-3}[/math]]
+
+Options:
+গ. [math]A[/math] সুরশলাকা বাতাসে কী পরিমাণ তীব্রতার শব্দ উৎপন্ন করবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]\mathrm{Y_1}=\mathrm{0.5\sin\pi\left(100t-\frac{x}{3.4}\right)}[/math]
+ [math]\hspace{2cm}=0.5 \sin \left(100 \pi \mathrm{t}-\frac{\pi \mathrm{x}}{3.4}\right).................(১)[/math]
+আমরা জানি,[math]\hspace{1.5cm}\mathrm{Y}=\mathrm{A} \sin \left(\frac{2 \pi}{\lambda} \mathrm{vt}-\frac{2 \pi \mathrm{x}}{\lambda}\right).................(২)[/math]
+(১) ও (২) নং তুলনা করে পাই,[math]\hspace{1cm}\begin{array}{l}\ \ 100\pi=\frac{2\pi}{\lambda}\mathrm{v}\\\Rightarrow\frac{2\pi}{\lambda}=\frac{100\pi}{\mathrm{v}}\end{array}[/math]
+আবার,[math]\hspace{.5cm}\frac{\pi}{3.4}=\frac{2 \pi}{\lambda}[/math]
+অতএব, [math]\frac{\pi }{3.4}=\frac{100\pi }{\mathrm{v}}[/math]
+ [math]\hspace{.5cm}\begin{array}{l}\Rightarrow \frac{\mathrm{v}}{3.4}=100\\\Rightarrow \mathrm{v}=100\times3.4=340\mathrm{~m}\mathrm{~s}^{-1}\end{array}[/math]
+এখন,[math]\begin{array}{l}\quad\frac{\pi}{3.4}=\frac{2\pi}{\lambda}\\\Rightarrow\lambda=2\times3.4=6.8\mathrm{~m}\\\mathrm{~A}=0.5\mathrm{~m}\end{array}[/math]
+কম্পাঙ্ক [math]f=\frac{\pi}{\lambda}=\frac{340 \mathrm{~m} \mathrm{~s}^{-1}}{6.8 \mathrm{~m}}=50 \mathrm{~Hz}[/math]
+এখন, মাধ্যমের ঘনত্ব, [math]\rho=1.293 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+শব্দের তীব্রতা, [math]\mathrm{I} = ?[/math]
+আমরা জানি,[math]\hspace{1.5cm}\begin{array}{l}\mathrm{I}=2\pi ^2f^2\mathrm{a}^2\mathrm{v}\quad \\=2\times (3.1416)^2\times (50\mathrm{~Hz})^2\times (0.5\mathrm{~m})^2\times \left(340\mathrm{~m}\mathrm{~s}^{-1}\right)\times 1.293\mathrm{~kg}\mathrm{~m}^{-1}\\=5.42\times 10^6\mathrm{~W}\mathrm{~m}^{-2}\end{array}[/math]
+অতএব, A সুরশলাকা বাতাসে [math]5.42 \times 10^{6} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+ তীব্রতার শব্দ সৃষ্টি করে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ শব্দ তীব্রতার সূত্র হলো [math]I=\dfrac{1}{2}\rho v \omega^{2}\xi_{m}^{2}[/math], যেখানে কণার অদলবদলের অনুপ্রস্থাংক [math]\xi_{m}=0.5\ \text{m}[/math], [math]\omega=\pi\times100[/math], এবং তরঙ্গগতি [math]v=\dfrac{\omega}{k}=\dfrac{100\pi}{\pi/3.4}=340\ \text{m/s}[/math]। তাই
+[math]I=\tfrac{1}{2}\times1.293\times340\times(100\pi)^{2}\times(0.5)^{2}\approx5.42\times10^{6}\ \text{W/m}^{2}[/math].
+এই সূত্রটা আসে কারণ শব্দের চাপমাত্রা [math]p_{m}= \rho v \omega \xi_{m}[/math] এবং গড় তীব্রতা [math]I=p_{m}^{2}/(2\rho v)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 413838)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Birsrestha Noor Mohammad Public College
+--------------------------------------------------------------------------------
+Question:
+নিরা তাদের টিভিতে বাংলাদেশ বনাম ভারত এর মধ্যকার একটি ক্রিকেট ম্যাচ দেখছিল। তখন টিভির শব্দের তীব্রতা ছিল [math]1 \times 10^{-6} \mathrm{~W} \mathrm{m}^{-2}[/math]। হঠাৎ নিরার বোন আসিয়া ব্লেন্ডার মেশিন চালু করল যার তীব্রতা লেভেল ছিল [math]85\ dB[/math]। এবার নিরা টিভির সাউ ন্ড বাড়িয়ে দিল যার তীব্রতা লেভেল [math]78\ dB[/math]।
+
+Options:
+গ. টিভির সাউন্ড বাড়ানোর আগে টিভির শব্দের তীব্রতা লেভেল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, টিভির শব্দের তীব্রতা, [math]\mathrm{I}=1 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{2}[/math]
+প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{~W} \mathrm{~m}^{2}[/math]
+প্রথমক্ষেত্রে, টিভির শব্দের তীব্রতা লেভেল, [math]\beta =10 \log \frac{10^{-6}}{10^{-12}} \mathrm{~dB} =60 \mathrm{~dB}[/math]
+অতএব টিভির সাউন্ড বাড়ানোর পূর্বে শব্দের তীব্রতা লেভেল ছিল [math]60 \mathrm{~dB}[/math]
+ । [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ টিভির শব্দের তীব্রতা লেভেল নির্ণয়ের সূত্র হল [math]\beta=10\log_{10}\frac{I}{I_0}[/math] যেখানে [math]I_0=10^{-12}\ \mathrm{W\,m^{-2}}[/math]. তাই [math]\beta=10\log_{10}\frac{10^{-6}}{10^{-12}}=10\log_{10}(10^6)=10\times6=60\ \mathrm{dB}[/math], অর্থাৎ টিভির আগের লেভেল ছিল [math]60\ \mathrm{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 413839)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Dhaka City College
+--------------------------------------------------------------------------------
+Question:
+গোল করার পর সৃষ্ট শব্দের বিস্তার ও কম্পাঙ্ক দ্বিগুণ হল। বাতাসের বঙ্গবন্ধু জাতীয় স্টেডিয়ামে বাংলাদেশ বনাম কাতার এর মধ্যকার প্রীতি ফুটবল ম্যাচ চলাকালীন সময়ে দর্শক পূর্ণ গ্যালারীতে সৃষ্ট শব্দের তরঙ্গের সমীকরণ [math]y=0.001 \sin \left(400 \pi t-\dfrac{20 \pi x}{17}\right)[/math]। বাং লাদেশ দল ঘনত্ব [math]1.225 {~kg} {~m}^{-3}[/math]।
+
+Options:
+ঘ. গোল দেয়ার পর শব্দের তীব্রতা লেভেলের গাণিতিকভাবে বিশ্লেষণের মাধ্যমে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ(গ) নং হতে পাই, শব্দের বেগ, [math]\mathrm v = 340 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+আবার, [math]\mathrm y=\mathrm{0.001\sin\frac{20\pi}{17}(340t-x)}..............(i)[/math]
+এবং [math]\mathrm{y}=\mathrm{A} \sin \frac{2 \pi}\lambda(\mathrm{vt}-\mathrm{x})...............(ii)[/math]
+(i) নং ও (ii) নং তুলনা করে পাই,[math]\hspace{1.5cm}\begin{array}{l}\ \frac{20\pi}{17}=\frac{2\pi}{\lambda}\\\Rightarrow\lambda=1.7\mathrm{~m}\end{array}[/math]
+ [math]\therefore[/math]
+ তরঙ্গদৈর্ঘ্য, [math]\lambda=1.7 \mathrm{~m}[/math]
+বিস্তার, A = 0.01 mআমরা জানি, [math]\mathrm{v}=f \lambda[/math]
+ [math]\hspace{1.5cm}\Rightarrow f=\frac{\mathbf{v}}{\lambda}=\frac{340}{1.7}=200 \mathrm{~Hz}[/math]
+এখানে,[math]\begin{array}{l}f=200 \mathrm{~Hz} \\\mathrm{a}=0.001 \mathrm{~m}^{-1} \\\mathrm{v}=340 \mathrm{~m} \mathrm{~s}^{-1} \\\rho=1.225 \mathrm{~kg} \mathrm{~m}^{-3}\end{array}[/math]
+ [math]\therefore[/math]
+ উদ্দীপকে প্রদত্ত শব্দটির তীব্রতা,[math]\hspace{1.5cm}\begin{array}{l}\quad \mathrm{I}_1=2\pi ^2f^2\mathrm{a}^2\mathrm{v}\rho \\\Rightarrow\mathrm{\mathrm{I}}_{\mathrm{I}}=2\pi ^2(200)^2\times (0.001)^2\times 340\times 1.225\\\Rightarrow\mathrm{\mathrm{I}}_1=328.855\mathrm{~W}\mathrm{~m}^{-2}\end{array}[/math]
+এখানে, [math]\mathrm{I}_{1}=328.855 \mathrm{~W} \mathrm{~m}^{-2}[/math]
+প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+সুতরাং গোল হওয়ার পূর্বে শব্দের তীব্রতা লেভেলের মান, [math]\beta_1[/math]
+ হলে,[math]\hspace{1.5cm}\begin{aligned}&\beta_1=10\log\frac{\mathrm{I}_1}{\mathrm{I}_0}\\\Rightarrow\beta_1&=10\log\left(\frac{328.855}{10^{-12}}\right)\\\therefore&\beta_1=145.17\mathrm{~dB}\end{aligned}[/math]
+আবার গোল হওয়ার পর সৃষ্ট শব্দের তীব্রতা, [math]\mathrm{I_1}[/math]
+ হলে,[math]\hspace{1.5cm}\begin{aligned}\quad \mathrm{I}_{2} & =2 \pi^{2} f_{1}{ }^{2} \mathrm{a}_{1}{ }^{2} \mathrm{v} \rho \\\Rightarrow \mathrm{I}_{2} & =2 \pi^{2} \times(400)^{2} \times(0.002)^{2} \times 340 \times 1.225 \\\therefore \mathrm{I}_{2} & =5261.68 \mathrm{~W} \mathrm{~m}^{-2}\end{aligned}[/math]
+এখানে, সুতরাং গোল করার পর শব্দের তীব্রতা লেভেল,[math]\hspace{1.5cm}\begin{array}{l}\ \ \ \ \beta_2=10\log\frac{I_2}{I_0}\\\Rightarrow\beta_2=10\log\left(\frac{5261.68}{10^{-12}}\right)\\\therefore\beta_2=157.21\mathrm{~dB}\end{array}[/math]
+ [math]\therefore[/math]
+ তীব্রতা লেভেলের পরিবর্তন, [math]\beta=\beta_{2}-\beta_{1}[/math]
+ [math]\hspace{5.5cm}=157.21-145.17=12.04 \mathrm{~dB}[/math]
+ [math]\therefore \beta=12.04 \mathrm{~dB}[/math]
+অর্থাৎ গোল করার পরে তীব্রতা লেভেল [math]12.04 \mathrm{~dB}[/math]
+ বৃদ্ধি পাবে। [math]\\[/math]
+
+
+Explanation:
+ঘ বলর তরঙ্গ থেকে [math]\omega=400\pi[/math], [math]k=\dfrac{20\pi}{17}[/math] এবং অম্প্লিচুড [math]s_{m}=0.001\ \text{m}[/math], তাই তরঙ্গগতি [math]v=\dfrac{\omega}{k}=\dfrac{400\pi}{20\pi/17}=340\ \text{m/s}[/math]।  
+তীব্রতা হিসাব করতে সমতাপিক সূত্র ব্যবহার করি: [math]I=\tfrac{1}{2}\rho v \omega^{2}s_{m}^{2}[/math], তাই [math]I=\tfrac{1}{2}\times1.225\times340\times(400\pi)^{2}\times(10^{-3})^{2}\approx3.29\times10^{2}\ \text{W/m}^{2}[/math]।  
+শব্দ লেভেল [math]\beta=10\log_{10}\dfrac{I}{I_{0}}[/math] (যেখানে [math]I_{0}=10^{-12}\ \text{W/m}^{2}[/math]) হলে [math]\beta\approx10\log_{10}(3.29\times10^{14})\approx145\ \text{dB}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 413840)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Govt Azizul Haque College, Bogura
+--------------------------------------------------------------------------------
+Question:
+পদার্থবিজ্ঞান পরীক্ষাগারে মুনতাহা একখণ্ড সুতা টান টান করে অগ্রগামী তরঙ্গ সৃষ্টি করে, যার সমীকরণ [math]\mathrm{y}=0.9 \sin \left(\dfrac{x}{15}+\dfrac{2 t}{0.3}\right)[/math] এখানে [math]x[/math] ও [math]y[/math] সেন্টিমিটারে প্রকাশিত। অপর একজন ছাত্রী [math]p[/math] ও [math]q[/math] দুটি স্থানে শব্দের তীব্রতা লেভেল প রিমাপ করে [math]68\ dB[/math] এবং [math]74\ dB[/math] পেল।
+
+Options:
+ঘ. উদ্দীপকের তীব্রতাদ্বয়ের সম্মিলিত তীব্রতা লেভেল, [math]p[/math] স্থানে শব্দের তীব্রতা লেভেল অপেক্ষা কত [math]dB[/math] বেশি [math]/[/math]কম হবে? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘP স্থানের তীব্রতা লেভেল 68 dB[math]\hspace{1cm}\begin{array}{l}\ \ \ \ \beta_p=10\log\frac{I_0}{I_0}\\\Rightarrow68=10\log\frac{I_0}{I_0}\\\Rightarrow6.8=\log\frac{\mathrm{I}_{\mathrm{n}}}{\mathrm{I}_0}\text{.}\\\Rightarrow\frac{\mathrm{I}_0}{10^{-12}}=10^{6.8}\\\Rightarrow\mathrm{I}_{\mathrm{p}}=6.31\times10^{-6}\mathrm{~W}\mathrm{~m}^{-2}\end{array}[/math]
+Q স্থানের তীব্রতা লেভেল 74 dB[math]\hspace{1cm}\begin{array}{l}\ \ \ \beta_{\mathrm{q}}=10\log\frac{I_a}{I_0}\\\Rightarrow74=10\log\frac{I_0}{I_0}\\\Rightarrow\frac{\mathrm{I}_d}{\mathrm{I}_0}=10^{7.4}\\\Rightarrow\mathrm{I}_{\mathrm{q}}=2.51\times10^{-5}\mathrm{~W}\mathrm{~m}^{-2}\\\ \ \ \ \ \ \ =25.1\times10^{-6}\mathrm{~W}\mathrm{~m}^{-2}\end{array}[/math]
+ [math]\therefore[/math]
+ লব্ধি তীব্রতা, [math]\mathrm{I}=\mathrm{I}_{\mathrm{p}}+\mathrm{I}_{\mathrm{q}}[/math]
+ [math]\hspace{3.5cm}=(25.1+6.31) \times 10^{-6}=3.14 \times 10^{-5} \mathrm{Wm}^{-2}[/math]
+ [math]\therefore[/math]
+ সম্মিলিত তীব্রতা লেভেল, [math]\beta^{\prime} =10 \log \frac{3.14 \times 10^{-5}}{10^{-12}} =74.97 \mathrm{~dB}[/math]
+ [math]\therefore \beta^{\prime}>\beta_{p}[/math]
+ [math]\therefore\mathrm P[/math]
+ স্থানের তীব্রতা লেভেল অপেক্ষা সম্মিলিত তীব্রতা লেভেলে (74.97 - 68 ) dB বা, 6.97 dB বেশি । [math]\\[/math]
+
+
+Explanation:
+ঘ
+ব্যাখ্যা: দুটি উৎসের সম্মিলিত লেভেল গণনা করিতে হবে [math]L=10\log_{10}\big(10^{L_1/10}+10^{L_2/10}\big)[/math] যেখানে [math]L_1=68\ dB,\ L_2=74\ dB[/math]. তাই [math]L=10\log_{10}(10^{6.8}+10^{7.4})=68+10\log_{10}(1+10^{0.6})\approx68+6.97\approx74.97\ dB[/math]. অতএব সম্মিলিত স্তর p-র একক স্তরের তুলনায় প্রায় [math]6.97\ dB\ (\approx7\ dB)[/math] বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 413805)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+রফিক ও শফিক দুই বন্ধু। একদিন বিকেল বেলা দীঘির পাড়ে বসে গল্প করছিল। হিমেল হাওয়া বইছিল। দীঘির পানিতে সুন্দর ঢেউ খেলে যাচ্ছে। রফিক বলল শব্দ এক রকমের তরঙ্গ যার তরঙ্গদৈর্ঘ্য, কম্পাঙ্ক, বেগ ও তীব্রতা আছে।
+
+Options:
+ঘ. শব্দের তীব্রতা কী কী বিষয়ের উপর নির্ভর করে। তরঙ্গ সঞ্চালনে মাধ্যমের ঘনত্ব কমে গেলে তর ঙ্গের তীব্রতার কী ঘটবে? কেন ঘটবে? তরঙ্গের কম্পাঙ্ক বৃদ্ধি পেলে এর পর্যায়কালের কী পরিবর্তন ঘটবে? যুক্তি দিয়ে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘশব্দের তীব্রতার সমীকরণ হলো:[math]\mathrm{I}=2 \pi^{2} \rho \mathrm{f}^{2} \mathrm{a}^{2} v[/math]
+ .........(i)এখানে, [math]\rho[/math]
+ হলো মাধ্যমের ঘনত্ব, f হলো শব্দের কম্পাঙ্ক, a হলো শব্দতরঙ্গের বিস্তার এবং [math]v[/math]
+ হলো তরঙ্গের বেগ। এ সকল বিষয়ের ওপর শব্দের তীব্রতা নির্ভর করে।তরঙ্গ সঞ্চালনের সময় মাধ্যমের ঘনত্ব কমে গেলে তরঙ্গের তীব্রতা কমবে। কারণ f, a, v ধ্রুব থাকলে (i) নং হতে স্পষ্টতঃ [math]I \propto \rho[/math]
+. অর্থাৎ তখন তীব্রতা মাধ্যমের ঘনত্বের সমানুপাতিক হবে। যেহেতু, পর্যায়কাল,
+[Image]
+সুতরাং, তরঙ্গের কম্পাঙ্ক বৃদ্ধি পেলে এর পর্যায়কাল ব্যস্তানুপাতে হ্রাস পাবে।
+
+Explanation:
+ব্যাখ্যা: শব্দের তীব্রতা মূলত উৎসের শক্তি/দৈর্ঘ্য অনুযায়ী প্রকাশিত শক্তি (power) প্রতি একক ক্ষেত্রফল, তরঙ্গের অম্প্লিটিউড (চাপ বা উৎকেন্দ্রিকতার আকার), এবং মাধ্যমের বৈশিষ্ট্য—বিশেষ করে মাধ্যমের ঘনত্ব ও তরঙ্গগতি—এর উপর নির্ভর করে। যদি মাধ্যমের ঘনত্ব কমে যায় (উৎস একই ধরণে শক্তি দেয়), তাহলে সাধারণত তীব্রতা কমে, কারণ [math]I\propto \rho v A^2[/math] (এখানে [math]\rho[/math] হলো ঘনত্ব, [math]v[/math] তরঙ্গগতি, [math]A[/math] অম্প্লিটিউড)। তরঙ্গের কম্পাঙ্ক বাড়লে তার পর্যায়কাল কমে কারণ [math]T=\frac{1}{f}[/math], অর্থাৎ ফ্রিকোয়েন্সি এবং পর্যায়কাল পরস্পর বিপরীত অনুপাতিক।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 413806)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উৎস থেকে প্রতি সেকেন্ডে [math]10^{-2} \mathrm{~J}[/math] শব্দ শক্তি নির্গত হয়। উৎস থেকে 10 m দূরে তীব্রতা লেভেল নির্ণয় করো। প্রমাণ তীব্রতা [math]10^{-12} \mathrm{~W} \cdot \mathrm{m}^{-2}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]69.01 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :এখানে,ক্ষমতা, [math]\mathrm{P}=10^{-2} \mathrm{Js}^{-1}=10^{-2} \mathrm{~W}[/math]
+দূরত্ব, r = 10mপ্ৰমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+তীব্রতা লেভেল, [math]\beta=\text { ? }[/math]
+উৎসের তীব্রতা I হলে, আমরা জানি,[math]\begin{aligned}\mathrm{I} & =\frac{\mathrm{P}}{4 \pi \mathrm{r}^{2}} \\& =\frac{10^{-2} \mathrm{~W}}{4 \times 3.1416 \times(10 \mathrm{~m})^{2}} \\& =7.957 \times 10^{-6} \mathrm{Wm}^{-2}\end{aligned}[/math]
+আবার, তীব্রতা লেভেল, [math]\beta=10 \log \frac{I}{I_{0}}[/math]
+ [math]\begin{array}{l}=10 \log \left(\frac{7.957 \times 10^{-6} \mathrm{Wm}^{-2}}{10^{-12} \mathrm{Wm}^{-2}}\right) \mathrm{dB} \\=69.007 \mathrm{~dB} \\=69.01 \mathrm{~dB} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: উৎসের শক্তি প্রতি সেকেন্ডে [math]10^{-2}\ \mathrm{W}[/math] হওয়ায় তীব্রতা হলো [math]I=\dfrac{P}{4\pi r^2}=\dfrac{10^{-2}}{4\pi(10)^2}=\dfrac{10^{-2}}{400\pi}\approx7.96\times10^{-6}\ \mathrm{W\cdot m^{-2}}[/math]. তীব্রতা লেভেল সূত্রে [math]L=10\log_{10}\dfrac{I}{I_0}[/math] যেখানে [math]I_0=10^{-12}\ \mathrm{W\cdot m^{-2}}[/math], তাই [math]L=10\log_{10}\dfrac{7.96\times10^{-6}}{10^{-12}}=10\log_{10}(7.96\times10^6)\approx69\ \mathrm{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 413807)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো উৎস থেকে 3m দূরে তীব্রতা লেভেল 50 dB হলে উৎস থেকে প্রতি সেকেন্ডে কী পরিমাণ শ ব্দ শক্তি নির্গত হয় নির্ণয় করো । প্রমাণ তীব্রতা [math]10^{-12} \mathrm{~W} \cdot \mathrm{m}^{-2}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.13 \times 10^{-5} \mathrm{~J}[/math]
+ )[math]\\[/math]
+Solution :এখানে,তীব্রতা লেভেল, [math]\beta=50 \mathrm{~dB}[/math]
+প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+উৎস থেকে দূরত্ব, r = 3 Mপ্রতি সেকেন্ডে নির্গত শব্দ শক্তি = ?উৎসের তীব্রতা I হলে,আমরা জানি, [math]\beta=10 \log \frac{I}{I_{0}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\beta}{10}=\log \frac{I}{I_{0}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{I}}{\mathrm{I}_{0}}=10^{\frac{\beta}{10}}[/math]
+ [math]\Rightarrow[/math]
+ [math]I=I_{0} 10^{\frac{\beta}{10}}[/math]
+ [math]=10^{-12} \mathrm{Wm}^{-2} \times 10^{\frac{50 \mathrm{~dB}}{10}}[/math]
+ [math]=1 \times 10^{-7} \mathrm{Wm}^{-2}[/math]
+আবার , [math]I=\frac{P}{4 \pi r^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]P=I \times 4 \pi r^{2}[/math]
+ [math]\begin{array}{l}=1 \times 10^{-7} \mathrm{Wm}^{-2} \times 4 \times 3.1416 \times(3 \mathrm{~m})^{2} \\=1.13 \times 10^{-5} \mathrm{~W}=1.13 \times 10^{-5} \mathrm{Js}^{-1}\end{array}[/math]
+অর্থাৎ প্রতি সেকেন্ডে নির্গত শব্দ শক্তি [math]=1.13 \times 10^{-5} \mathrm{~J} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দ স্তর সূত্র [math]\beta=10\log_{10}(I/I_0)[/math] দিয়ে [math]I=I_0\,10^{\beta/10}=10^{-12}\times10^{50/10}=10^{-7}\ \mathrm{W\,m^{-2}}[/math] পাওয়া যায়। উৎস থেকে সমানভাবে সব দিকে ছড়িয়ে পড়লে পাওয়ার হবে [math]P=I\cdot4\pi r^2=10^{-7}\times4\pi(3)^2=36\pi\times10^{-7}\approx1.13\times10^{-5}\ \mathrm{W}[/math], অর্থাৎ প্রতি সেকেন্ডে প্রায় [math]1.13\times10^{-5}\ \mathrm{J}[/math] শক্তি নির্গত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 413808)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মার্কেটের শব্দের তীব্রতা [math]10^{-6} \mathrm{Wm}^{-2}[/math] হলে শব্দের তীব্রতা লেভেল নির্ণ য় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]60 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,তীব্রতা, [math]\mathrm{I}=1 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+প্ৰমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+তীব্রতা লেভেল, [math]\beta=?[/math]
+আমরা জানি,[math]\begin{aligned}\beta & =10 \log \frac{\mathrm{I}}{\mathrm{I}_{0}} \\& =10 \log \frac{10^{-6} \mathrm{Wm}^{-2}}{10^{-12} \mathrm{Wm}^{-2}} \mathrm{~dB} \\& =10 \log 10^{6} \mathrm{~dB} \\\therefore & \beta=60 \mathrm{~dB} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+শব্দস্তর নির্ণয়ের সূত্র হলো [math]L=10\log_{10}\frac{I}{I_0}[/math], যেখানে রেফারেন্স তীব্রতা [math]I_0=10^{-12}\ \mathrm{Wm}^{-2}[/math]. এখানে [math]I=10^{-6}\ \mathrm{Wm}^{-2}[/math], তাই [math]L=10\log_{10}\frac{10^{-6}}{10^{-12}}=10\log_{10}(10^{6})=60\ \mathrm{dB}[/math], অর্থাৎ শব্দের তীব্রতা লেভেল 60 dB।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 413809)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মার্কেটের শব্দ তীব্রতা [math]1 \times 10^{-7} \mathrm{~W} \cdot \mathrm{m}^{-2}[/math] । শব্দের তীব্রতা দ্বিগুণ হলে নতুন তীব্রতা লেভেল নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]53.01 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :এখানে,শব্দের তীব্রতা, [math]\mathrm{I}=1 \times 10^{-7} \mathrm{Wm}^{-2}[/math]
+প্ৰমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+তীব্রতা লেভেল, [math]\beta=?[/math]
+যেহেতু শব্দের তীব্রতা দ্বিগুণ করা হল[math]\therefore[/math]
+ নতুন তীব্রতা,[math]\mathrm{I}^{\prime}=2 \mathrm{I}=2 \times 10^{-7} \mathrm{Wm}^{-2}[/math]
+আমরা জানি,[math]\begin{aligned}\beta & =10 \log \frac{\mathrm{I}^{\prime}}{\mathrm{I}_{0}} \\& =10 \log \frac{2 \times 10^{-7} \mathrm{Wm}^{-2}}{10^{-12} \mathrm{Wm}^{-2}} \mathrm{~dB} \\& =53.01 \mathrm{~dB} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দের তীব্রতা লেভেলকে ডেসিবেলে লেখা হয়: [math]\beta=10\log_{10}\frac{I}{I_0}[/math] যেখানে [math]I_0=10^{-12}\ \mathrm{Wm^{-2}}[/math]. প্রথম লেভেল [math]\beta_1=10\log_{10}\frac{1\times10^{-7}}{1\times10^{-12}}=10\log_{10}(10^5)=50\ \mathrm{dB}[/math]. তীব্রতা দ্বিগুণ হলে লেভেল বাড়ে [math]10\log_{10}2\approx3.01\ \mathrm{dB}[/math], সুতরাং নতুন লেভেল [math]\beta_2\approx50+3.01=53.01\ \mathrm{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 413810)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কারখানার অভ্যন্তরে শব্দের তীব্রতা লেভেল 85 dB। ঐ কারখানার অভ্যন্তরে শব্দের তীব্রতা নি র্ণয় করো। প্রমাণ তীব্রতা [math]10^{-12} \mathrm{~W} \cdot \mathrm{m}^{-2}[/math] ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.162 \times 10^{-4} \mathrm{Wm}^{-2}[/math]
+ )[math]\\[/math]
+Solution :এখানে,তীব্রতা লেভেল, [math]\beta=85 \mathrm{~dB}[/math]
+প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}={ }^{} 10^{-12} \mathrm{Wm}^{-2}[/math]
+কারখানার অভ্যন্তরে শব্দের তীব্রতা, [math]\mathrm{I}=?[/math]
+আমরা জানি,[math]\beta=10 \log \frac{I}{I_{0}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\beta}{10}=\log \frac{\mathrm{I}}{\mathrm{I}_{0}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{I}}{\mathrm{I}_{0}}=10^{\frac{\beta}{10}}[/math]
+ [math]\Rightarrow[/math]
+ [math]I=I_{0} 10^{\frac{\beta}{10}}[/math]
+ [math]=10^{-12} \mathrm{Wm}^{-2} \times 10^{\frac{85 \mathrm{~dB}}{10}}=3.162 \times 10^{-4} \mathrm{Wm}^{-2} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দের তীব্রতা লেভেল ও তীব্রতার সম্পর্ক হলো [math]L=10\log_{10}\frac{I}{I_0}[/math], যেখানে [math]I_0=10^{-12}\ \mathrm{W\,m^{-2}}[/math]. তাই [math]85=10\log_{10}(I/10^{-12})[/math] হতে [math]I=10^{-12}\times10^{85/10}=10^{-12}\times10^{8.5}\approx3.16\times10^{-4}\ \mathrm{W\,m^{-2}}[/math], ফলত ঐ কারখানার শব্দ তীব্রতা প্রায় [math]3.16\times10^{-4}\ \mathrm{W\,m^{-2}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 413811)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি জুটমিলের তাঁত সংখ্যা 200 থেকে বৃদ্ধি করে 2000 করা হলে এর অভ্যন্তরে তীব্রতা লেভেল ক ত বৃদ্ধি পাবে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 10 dB )[math]\\[/math]
+Solution :ধরা যাক, জুটমিলের তাঁত সংখ্যা যখন ২০০ ছিল তখন তীব্রতা = Iতাঁত সংখ্যা যখুন 2000 অর্থাৎ, 10 গুণ করা হল তখন তীব্রতা = 10 Iউভয় ক্ষেত্রে তীব্রতা লেভেল যথাক্রমে [math]\beta_{200}[/math]
+ ও [math]\beta_{2000}[/math]
+ হলে,[math]\beta_{2000}-\beta_{200}=10 \log \left(\frac{I_{2000}}{I_{200}}\right) d B[/math]
+ [math]=10 \log \left(\frac{10 \mathrm{I}}{\mathrm{I}}\right) \mathrm{dB}=10 \log 10 \mathrm{~dB}=10 \mathrm{~dB} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: মোট তীব্রতা অনুপাত হল [math]2000/200=10[/math], তাই তীব্রতা লেভেল পরিবর্তন হবে [math]\Delta \beta = 10\log_{10}(10)=10\ \text{dB}[/math]. ডেসিবেলে ধ্বনিতীব্রতা সংজ্ঞা [math]\beta=10\log_{10}(I/I_0)[/math] হওয়ায় তীব্রতা 10 গুণ বাড়লে লেভেল 10 dB বাড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 413812)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি শব্দের উৎস থেকে 100m দূরে শব্দের তীব্রতা [math]4.5 \times[/math] [math]10^{-5} \mathrm{~W} \ cdot \mathrm{m}^{-2}[/math]। উৎস থেকে 10m দূরে তীব্রতা লেভেল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]96.532 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :এখানে, প্রথম ক্ষেত্রে শব্দের তীব্রতা, [math]\mathrm{I}_{1}=4.5 \times 10^{-5} \mathrm{~W} \cdot \mathrm{m}^{-2}[/math]
+প্রথম ক্ষেত্রে শব্দের উৎস থেকে দূরত্ব, [math]\mathrm{r}_{1}=100 \mathrm{~m}[/math]
+দ্বিতীয় ক্ষেত্রে শব্দের উৎস থেকে দূরত্ব, [math]\mathrm{r}_{2}=10 \mathrm{~m}[/math]
+দ্বিতীয় ক্ষেত্রে তীব্রতা লেভেল, [math]\beta_{2}^{}=?[/math]
+আমরা জানি, শব্দের তীব্রতা, [math]I=\frac{P}{4 \pi r^{2}}[/math]
+ [math]\therefore[/math]
+ দ্বিতীয় ক্ষেত্রে শব্দের তীব্রতা [math]\mathrm{I}_{2}[/math]
+ হলে,[math]\frac{\mathrm{I}_{2}}{\mathrm{I}_{1}}=\frac{\mathrm{r}_{1}^{2}}{\mathrm{r}_{2}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]I_{2}=I_{1}\left(\frac{r_{1}}{r_{2}}\right)^{2}=\left(4.5 \times 10^{-5} \mathrm{Wm}^{-2}\right) \times\left(\frac{100 \mathrm{~m}}{10 \mathrm{~m}}\right)^{2}[/math]
+ [math]\therefore \quad \mathrm{I}_{2}=4.5 \times 10^{-3} \mathrm{Wm}^{-2}[/math]
+আবার, প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+ [math]\therefore[/math]
+ তীব্রতা লেভেল, [math]\beta_{2}=10 \log \left(\frac{I_{2}}{I_{0}}\right) \mathrm{dB}[/math]
+ [math]\begin{array}{l}=10 \log \left(\frac{4.5 \times 10^{-3} \mathrm{Wm}^{-2}}{10^{-12} \mathrm{Wm}^{-2}}\right) \mathrm{dB} \\=96.532 \mathrm{~dB} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+পয়েন্ট উৎসের জন্য তীব্রতা দূরত্বের বর্গের বিপরীতে আনুপাতিক থাকে, অর্থাৎ [math]I(r)\propto 1/r^2[/math]। তাই [math]I_{10}=I_{100}\times(100/10)^2=4.5\times10^{-5}\times100=4.5\times10^{-3}\ \mathrm{W}\cdot\mathrm{m}^{-2}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 413813)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুই ব্যক্তি একটি শব্দের উৎস থেকে যথাক্রমে 1000m ও 20 m দূরে দাঁড়িয়ে আছে। দুই ব্যক্তির ম ধ্যে শব্দের তীব্রতা লেভেলের পার্থক্য নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]33.979 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :এখানে,উৎস থেকে প্রথম ব্যক্তির দূরত্ব, [math]\mathrm{r}_{1}=1000 \mathrm{~m}[/math]
+২য় ব্যক্তির দূরত্ব, [math]\mathrm{r}_{2}=20 \mathrm{~m}[/math]
+দুই ব্যক্তির মধ্যে শব্দের তীব্রতা লেভেলের পার্থক্য [math]\Delta \beta=?[/math]
+উৎস হতে ব্যক্তির দূরত্ব r, উৎসের ক্ষমতা P 'এবং শব্দের তীব্রতা I হলে, আমরা জানি,[math]\mathrm{I}=\frac{\mathrm{P}}{4 \pi \mathrm{r}^{2}}[/math]
+এখন, ১ম ব্যক্তির ক্ষেত্রে তীব্রতা [math]\mathrm{I}_{1}[/math]
+এবং ২য় ব্যক্তির ক্ষেত্রে তীব্রতা [math]\mathrm{I}_{2}[/math]
+ হলে,[math]\frac{I_{1}}{I_{2}}=\left(\frac{r_{2}}{r_{1}}\right)^{2}=\left(\frac{20 m}{1000 m}\right)^{2}=\frac{1}{2500}[/math]
+ [math]\therefore \frac{\mathrm{I}_{2}}{\mathrm{I}_{1}}=2500[/math]
+ [math]\therefore[/math]
+ শব্দের তীব্রতা লেভেলের পার্থক্য,[math]\Delta \beta=\beta_{2}-\beta_{1}=10 \log \left(\frac{l_{2}}{I_{1}}\right) d B[/math]
+ [math]=10 \log 2500 \mathrm{~dB}=33.979 \mathrm{~dB} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দ তীব্রতা দূরত্বের বর্গের বিপরীতানুপাতি, এবং স্তরগত পার্থক্য [math]\Delta L=10\log_{10}\frac{I_{near}}{I_{far}}=20\log_{10}\frac{r_{far}}{r_{near}}[/math] দিয়ে পাওয়া যায়; এখানে r_{near}=20 m, r_{far}=1000 m। তাই [math]\Delta L=20\log_{10}\frac{1000}{20}=20\log_{10}50\approx33.98\ \text{dB}[/math], অর্থাৎ প্রায় 34 dB পার্থক্য।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 413814)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো কক্ষের শব্দের তীব্রতা [math]1 \times 10^{-7} \mathrm{Wm}^{-2}[/math]। শব্দের তীব্রতা দ্বিগুণ হলে নতুন তীব্রতা লেভেল নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]53.01 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :এখানে,শব্দের তীব্রতা, [math]\mathrm{I}=1 \times 10^{-7} \mathrm{Wm}^{-2}[/math]
+প্ৰমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+তীব্রতা লেভেল, [math]\beta=?[/math]
+যেহেতু শব্দের তীব্রতা দ্বিগুণ করা হল[math]\therefore[/math]
+ নতুন তীব্রতা,[math]\mathrm{I}^{\prime}=2 \mathrm{I}=2 \times 10^{-7} \mathrm{Wm}^{-2}[/math]
+আমরা জানি,[math]\begin{aligned}\beta & =10 \log \frac{\mathrm{I}^{\prime}}{\mathrm{I}_{0}} \\& =10 \log \frac{2 \times 10^{-7} \mathrm{Wm}^{-2}}{10^{-12} \mathrm{Wm}^{-2}} \mathrm{~dB} \\& =53.01 \mathrm{~dB} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দস্তর সূত্র [math]β=10\log_{10}\frac{I}{I_0}[/math] (এখানে [math]I_0=10^{-12}\ \mathrm{Wm^{-2}}[/math]) ব্যবহার করলে প্রথম স্তর [math]β_1=10\log_{10}\frac{1\times10^{-7}}{10^{-12}}=50\ \text{dB}[/math]। তীব্রতা দ্বিগুণ করলে স্তর বৃদ্ধি হবে [math]10\log_{10}2\approx3.01\ \text{dB}[/math], সুতরাং নতুন স্তর [math]β_2\approx53.01\ \text{dB}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 413816)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো শ্রেণিকক্ষের শব্দের তীব্রতা [math]10^{-8} \mathrm{Wm}^{-2}[/math]। শব্দের তীব্রতা লেভেল ডেসি বেলে নির্ণয় করো। শব্দের তীব্রতা দ্বিগুণ হলে নতুন তীব্রতা লেভেল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]40 \mathrm{~dB}, 43 \mathrm{~dB}[/math] )
+
+Explanation:
+ব্যাখ্যা: শব্দস্তরের সূত্র [math]L=10\log_{10}\frac{I}{I_0}[/math] যেখানে সাধারণত [math]I_0=10^{-12}\ \mathrm{Wm^{-2}}[/math] ধরা হয়।
+
+ক [math]L=10\log_{10}\frac{10^{-8}}{10^{-12}}=10\log_{10}(10^{4})=40\ \mathrm{dB}[/math]।
+
+খ দ্বিগুণ করলে [math]L'=10\log_{10}\frac{2\times10^{-8}}{10^{-12}}=10\log_{10}(2\times10^{4})=40+10\log_{10}2\approx43.0\ \mathrm{dB}[/math] (বৃদ্ধি ≈ [math]3.01\ \mathrm{dB}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 413817)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সঙ্গীতানুষ্ঠানের অ্যামপ্লিফায়ার থেকে 1W ক্ষমতার শব্দ উৎপন্ন হলে ঐ শব্দের তীব্রতা লেভেল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]120 \mathrm{~dB}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে, অ্যাম্প্লিফায়ারের ক্ষমতা, P = 1 Wআমরা জানি, [math]P_{0}=10^{-12} \mathrm{~W}[/math]
+শব্দের তীব্রতা লেভেল, [math]\beta=?[/math]
+এখন, [math]\beta=10 \log \frac{P}{P_{0}}[/math]
+ [math]=10 \log \frac{1 \mathrm{~W}}{10^{-12} \mathrm{~W}} \mathrm{~dB}=10 \times 12 \mathrm{~dB}=120^{} \mathrm{\ dB} \text { (Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দ শক্তির লেভেল বের করার সূত্র হল [math]L=10\log_{10}\frac{P}{P_0}[/math] যেখানে প্রতিসূচক শক্তি [math]P_0=10^{-12}\ \text{W}[/math]. এখানে [math]P=1\ \text{W}[/math] দিলে [math]L=10\log_{10}\frac{1}{10^{-12}}=10\log_{10}(10^{12})=120\ \text{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 413818)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো শব্দের তীব্রতা প্রমাণ তীব্রতার 100 গুণ হলে ঐ শব্দের তীব্রতার লেভেল কত ডেসিবেল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]20 \mathrm{~dB}[/math]
+)[math]\\[/math]
+Solution :এখানে,শব্দের তীব্রতা, [math]I=100 I_{0}[/math]
+তীব্রতা লেভেল, [math]\beta=\text { ? }[/math]
+আমরা জানি,[math]\begin{aligned}\beta & =10 \log \frac{1}{\mathrm{I}_{\mathrm{o}}} \mathrm{dB} \\& =10 \log \frac{100 \mathrm{I}_{\mathrm{o}}}{\mathrm{I}_{\mathrm{o}}} \mathrm{dB} \\& =10 \times 2 \mathrm{~dB}=20 \mathrm{~dB} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দের লেভেল পরিমাপের সূত্র [math]L=10\log_{10}\frac{I}{I_0}[/math]. যদি তীব্রতা 100 গুণ হয়, তবে [math]L=10\log_{10}100=10\times2=20\ \text{dB}[/math], তাই লেভেল 20 ডেসিবেল বেশি হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 413798)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+শাহীন তার কলেজের একটি অনুষ্ঠানে [math]4\ m[/math] দৈর্ঘ্যের স্টেজ তৈরি করল। স্টেজের এক প্রান্তে [math]1\ mW[/math] ক্ষমতার একটি স্পীকার [math]A[/math] স্থাপন করল, স্টেজের মধ্যবিন্দু [math]P[/math] সোজাসুজি [math]3\ m[/math] দূরে [math]O[/math] বিন্দুতে একজন শ্রোতার নিকট শব্দের তীব্রতা কম হওয়ায় সে স্টেজের মধ্যবিন্দু [math]P[/math] হতে অপর প্রান্তে একই দূরত্বে ও একই ক্ষমতার অপর একটি স্পীকার [math]B[/math] স্থাপন করল। নিচের চিত্রে তা দেখানো হলো :
+
+[Image]
+
+
+Options:
+ঘ. স্পীকার [math]A[/math] ও স্পীকার [math]B[/math] উভয়ের সুইচ অন করলে [math]O[/math] বিন্দুতে শব্দের তীব্রতা লেভেল পূর্বাপেক্ষা দ্বিগুণ হবে কি?— বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক থেকে পাই,স্পিকার [math]\rm{A}[/math]
+ এর ক্ষমতা, [math]\rm{P}=1 \mathrm{~mW}=1 \times 10^{-3} \mathrm{~W}[/math]
+ [math]\rm{A}[/math]
+ থেকে [math]\rm{O}[/math]
+ বিন্দুর দূরত্ব,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{r} & =\sqrt{\mathrm{AP}^{2}+\mathrm{OP}^{2}} \\ & =\sqrt{\left(\frac{4}{2}\right)^{2}+3^{2} \mathrm{~m}}=\sqrt{13} \mathrm{~m} \end{aligned}[/math]
+ [math]\rm{O}[/math]
+ বিন্দুতে শব্দের তীব্রতা [math]\rm{I}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned}\rm{I} & =\rm{\frac{P}{4 \pi r^{2}}} \\ & =\frac{1 \times 10^{-3} \mathrm{~W}}{4 \times 3.1416 \times(\sqrt{13} \mathrm{~m})^{2}} \\ & =6.12 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2} \end{aligned}[/math]
+অতএব, [math]\rm{O}[/math]
+ বিন্দুতে শব্দের তীব্রতা [math]6.12 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+।আমরা জানি, প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+এক্ষেত্রে শব্দের তীব্রতা লেভেল[math]\hspace{1.5 cm}\begin{aligned} \beta & =10 \log \rm{\frac{I}{I_{0}}} \\ & =10 \log \frac{6.12 \times 10^{-6}}{10^{-12}} \mathrm{~dB} \\ & =10 \log 6.12 \times 10^{6} \mathrm{~dB}=67.86 \mathrm{~dB} \end{aligned}[/math]
+এখন, [math]\rm{B}[/math]
+ স্পিকারটির ক্ষমতা [math]\rm{A}[/math]
+ স্পিকারের ক্ষমতার সমান এবং বিন্দু থেকে দূরত্ব ও সমান।[math]\therefore ~\rm{B}[/math]
+ স্পিকারের জন্য [math]\rm{O}[/math]
+ বিন্দুতে শব্দের তীব্রতা,[math]\hspace{1.5 cm}\mathrm{I}^{\prime}=6.12 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+ [math]\therefore \quad \mathrm{A} \text { ও B}[/math]
+ এর জন্য মোট তীব্রতা,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{I}_{1} & =\mathrm{I}+\mathrm{I}^{\prime} \\ & =6.12 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2}+6.12 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2} \\ & =1.224 \times 10^{-5} \mathrm{~W} \mathrm{~m} \end{aligned}[/math]
+এখন উভয় স্পিকারের সুইচ অন থাকলে [math]\rm{O}[/math]
+ বিন্দুতে শব্দের তীব্রতা লেবেল, 1.224 × 10-5[math]\hspace{1.5 cm}\begin{aligned} \beta_{1} & =10 \log \frac{1.224 \times 10^{-5}}{10^{-12}} \mathrm{~dB} \\ & =10 \log 1.224 \times 10^{7} \mathrm{~dB}=70.88 \mathrm{~dB} \end{aligned}[/math]
+এখন, পূর্বের তীব্রতা লেবেল এর দ্বিগুণ,[math]\hspace{1.5 cm}\begin{aligned} \beta_{2} & =2 \times 67.86 \mathrm{~dB} \\ & =135.72 \mathrm{~dB} \end{aligned}[/math]
+এখানে, [math]\beta_{1} 
+eq \beta_{2}[/math]
+অতএব, স্পিকার [math]\rm{A}[/math]
+ ও স্পিকার [math]\rm{B}[/math]
+ উভয়ের সুইচ অন করলে [math]\rm{O}[/math]
+ বিন্দুতে শব্দের তীব্রতা লেবেল পূর্বাপেক্ষা দ্বিগুণ হবে না।
+
+Explanation:
+ঘ কারণ উভয় স্পীকার O বিন্দু থেকে সমদূরে ও সমক্ষমতার, তাই প্রতিটির দ্বারা অর্জিত তীব্রতা সমান ও যোগ হয়, ফলে মোট তীব্রতা [math]I_{\rm tot}=2I[/math] হয়ে দ্বিগুণ হয়; কিন্তু শব্দের তীব্রতা লেভেল (ডেসিবেলে) দ্বিগুণ হয় না, বরং বৃদ্ধি হয় [math]\Delta L=10\log_{10}2\approx3.01\ \text{dB}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 413799)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2012-2013, 2007-2008, 2005-2006, 2003-2004 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology, Chittagong University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি ভ্যাকুয়াম ক্লনার ও একটি টেলিভিশনের শব্দের তীব্রতার মাত্রা যথাক্রমে [math]80\ \rm{dB}[/math] এ বং [math]78\ \rm{dB}[/math]. এদের সম্মিলিত তীব্রতার মাত্রা কত?[প্রমাণ তিব্রতা [math]10^{-12} \mathrm{wm}^{-2}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]82.124 \mathrm{~dB}[/math]
+)[math]\\[/math]
+Solution : [math]\beta_{\mathrm{V}. \mathrm{C}}=80 \mathrm{~dB} ; \beta_{\mathrm{T} . \mathrm{V}}=78 \mathrm{~dB}[/math]
+ [math]\text { Now, } 80=10 \log _{10}\left(\dfrac{I_\text{VC}}{I_{0}}\right) \Rightarrow I_{\mathrm{VC}}=10^{8} \mathrm{I}_{0}[/math]
+ [math]\text { Again, } 78=10 \log _{10}\left(\frac{I_{T V}}{I_{0}}\right) \Rightarrow \frac{I_{T V}}{I_{0}}=10^{7.4}\left[\text { Now, } I=I_{T V}+I_{VC}=10^{7 .8} I_{0}+10^{8} I_{0}=\left(10^{7.8}+10^{8}\right) I_{0}\right][/math]
+ [math]\beta=10 \log _{10} \frac{1}{I_{0}} \mathrm{~dB}=\left\{10 \log _{10}\left(\frac{10^{7.8}+10^{8}}{I_{0}}\right) \mathrm{I}_{0}\right\} \mathrm{dB}=82.124 \mathrm{~dB}[/math]
+
+
+Explanation:
+সমাধান: শব্দ স্তরের থেকে তীব্রতা বের করতে ব্যবহার করি [math]I=I_0\,10^{L/10}[/math] যেখানে [math]I_0=10^{-12}\ \rm Wm^{-2}[/math]. তাই [math]I_1=10^{-12}\times10^{80/10}=1.0\times10^{-4}\ \rm Wm^{-2}[/math], [math]I_2=10^{-12}\times10^{78/10}=6.3096\times10^{-5}\ \rm Wm^{-2}[/math], মোট [math]I_{\rm tot}=1.63096\times10^{-4}\ \rm Wm^{-2}[/math]. সম্মিলিত স্তর হচ্ছে [math]L=10\log_{10}(I_{\rm tot}/I_0)=10\log_{10}(1.63096\times10^{8})\approx82.12\ \rm dB[/math], তাই যোগফল প্রায় [math]82.1\ \rm dB[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 413800)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে শব্দের তীব্রতা স্তর যখন [math]1[/math] ডেসিবেল পরিবর্তিত হয় তখন শব্দ তীব্রতা শতকরা [math]26[/math] ভাগ পরিবর্তিত হয়।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : প্রাথমিক ও শেষ তীব্রতা স্তর যখন [math]I_1\ ও\ I_2[/math]
+, এবং তীব্রতা স্তর [math]S_1\ ও\ S_2[/math]
+ হলে[math]S_{1}=10 \log \dfrac{I_{1}}{I_{0}}, S_{2}=10 \log \dfrac{I_{2}}{I_{0}}[/math]
+ [math]S_{2}+S_{1}=10 \log \dfrac{I_{2}}{I_{1}} \Rightarrow 10 \log \dfrac{I_{2}}{I_{1}}=1 \Rightarrow \dfrac{I_{2}}{I_{1}}=1.26 \Rightarrow \dfrac{I_{2}-I_{1}}{I_{1}}=\dfrac{.26}{1}=26 \%[/math]
+ [math]\therefore[/math]
+ শতকরা পরিবর্তনের হার [math]= 26\% \text{(Shown).}[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দ তীব্রতা স্তরকে ডেসিবেলে প্রকাশ করলে [math]ΔL=10\log_{10}\frac{I_2}{I_1}[/math] হয়; তাই [math]ΔL=1[/math] হলে [math]\frac{I_2}{I_1}=10^{1/10}=10^{0.1}\approx1.2589[/math]. অর্থাৎ তীব্রতা প্রায় [math](1.2589-1)\times100\%=25.89\%\approx26\%[/math] পরিবর্তিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 413801)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+ফাঁকা মাঠে অনুষ্ঠিত কনসার্টে ব্যবহৃত একটি লাউডস্পীকার [math]250\ watt[/math] উৎপন্ন করে। লাউডস্পীকা র হতে [math]20m[/math] ও [math]30m[/math] দূরে শব্দের তীব্রতা কত হবে? এই [math]10m[/math] এর ব্যবধানে শব্দের ধ্বনি ডেসিবেলে কতটুকু হ্রাস পাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : আমরা জানি, [math]I=\dfrac{P}{4 \pi r^{2}}[/math]
+ তীব্রতার ডেসিবেলে হ্রাস,[math]20m[/math]
+ দূরে তীব্রতা, [math]I_{1}=\dfrac{250}{4 \pi \times(20)^{2}}=4.9 \times 10^{-2} \mathrm{wm}^{-2}[/math]
+ [math]30m[/math]
+ দূরে তীব্রতা, [math]I_{2}=\dfrac{250}{4 \pi \times(30)^{2}}=2.2 \times 10^{-2} \mathrm{wm}^{-2}[/math]
+ [math]\therefore[/math]
+ শব্দের ধ্বনির পরিবর্তন [math]=\mathrm{d} \beta[/math]
+ [math]\therefore \mathrm{d} \beta=10 \log \dfrac{I_{2}}{I_{1}}=10 \log \dfrac{2.2}{4.9} =-3.47[/math]
+ ডেসিবল।[math]\therefore 3.47 \mathrm{~d} \beta[/math]
+ হ্রাস পাবে।
+
+Explanation:
+ব্যাখ্যা: শব্দের তীব্রতা মুক্ত আকাশে বিন্দুয মূলে সংকীর্তিত হলে দূরত্বের বর্গের বিপরীত অনুপাতে থাকে, তাই [math]I=\frac{P}{4\pi r^2}[/math]. 
+[math]I(20)=\frac{250}{4\pi(20)^2}=\frac{250}{1600\pi}\approx0.0498\ \text{W/m}^2,\quad I(30)=\frac{250}{4\pi(30)^2}=\frac{250}{3600\pi}\approx0.0221\ \text{W/m}^2.[/math] 
+ডেসিবেলে হ্রাস হলো [math]\Delta L=10\log_{10}\frac{I(30)}{I(20)}=20\log_{10}\frac{20}{30}\approx-3.52\ \text{dB},[/math] অর্থাৎ প্রায় [math]3.52\ \text{dB}[/math] কমে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 413802)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একই কম্পাঙ্কের দুইটি পক্ষ তরঙ্গের তীব্রতা যথাক্রমে [math]10^{-12} \mathrm{Wm}^{-2}[/math] এবং [math]1 0^{-10} \mathrm{Wm}^{-2}[/math]। শব্দ তরঙ্গ দুটির তীব্রতা স্তরের পার্থক্য বেল ও ডেসিবেল এ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]20 \mathrm{~dB}[/math]
+)[math]\\[/math]
+Solution : তীব্রতা স্তরের পার্থক্য [math]\Delta \beta=\log \dfrac{P_{2}}{P_{1}} B=\log \dfrac{10^{-10} \mathrm{Wm}^{-2}}{10^{-12} \mathrm{Wm}^{-2}} B=2 B=20 \mathrm{~dB} \text { (Ans.) }[/math]
+
+
+Explanation:
+দুই তীব্রতার অনুপাত [math]\dfrac{10^{-10}}{10^{-12}}=10^2=100[/math] হওয়ায় তীব্রতা স্তরের পার্থক্য বেল এ হবে [math]\Delta L_{\text{bel}}=\log_{10}\!(100)=2\ \text{bel}[/math] এবং ডেসিবেলে [math]\Delta L_{\text{dB}}=10\log_{10}\!(100)=10\times2=20\ \text{dB}[/math]. এই ফলটি আসে কারণ ডেসিবেল গণনা করার সূত্র হল [math]10\log_{10}(I_2/I_1)[/math], এবং অনুপাত 100 হলে লঘুগণিত মান 2।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 413803)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+তরঙ্গের তীব্রতার গাণিতিক সংজ্ঞা দাও। শব্দের তীব্রতা [math]3[/math] গুণ হলে শব্দের তীব্রতা লেভেলের পরিব র্তন কত ডেসিবেল হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]4.77 \mathrm{~dB}[/math]
+)[math]\\[/math]
+Solution : তরঙ্গের তীব্রতা, [math]1=2 \pi^{2} f^{2} a^{2} \rho v[/math]
+যেখানে, [math]f =[/math]
+ কম্পাঙ্ক, [math]a =[/math]
+ তরঙ্গের বিস্তার [math]v =[/math]
+ তরঙ্গবেগ, [math]\rho =[/math]
+ মাধ্যমের ঘনত্বপ্রাথমিক তীব্রতা [math]I_1[/math]
+ হলে চূড়ান্ত তীব্রতা, [math]I_{2}=3 I_{1}[/math]
+তীব্রতা লেভেলের পরিবর্তন, [math]\Delta \beta=10 \log \dfrac{I_{2}}{I_{1}}=10 \log \dfrac{3 I_{1}}{I_{1}}=4.77 \mathrm{~dB} \text { (Ans.) }[/math]
+
+
+Explanation:
+তীব্রতার গাণিতিক সংজ্ঞা: তরঙ্গের তীব্রতা হলো একক ক্ষেত্রফল ও একক সময়ে পরিবহিত শক্তি, [math]I=\frac{P}{A}[/math]। তীব্রতা লেভেল (ডেসিবেলে) নির্ণয় করা হয় [math]\beta=10\log_{10}\frac{I}{I_0}[/math] দ্বারা, তাই তীব্রতা যদি [math]3[/math] গুণ বাড়ে তবে পরিবর্তিত লেভেল [math]\Delta\beta=10\log_{10}3\approx4.77\ \text{dB}[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 413804)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কোন শব্দের তীব্রতা প্রমাণ তীব্রতার [math]100[/math] গুণ হলে ঐ শব্দের তীব্রতার লেভেল কত ডেসিবেল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]20 \mathrm{~dB}[/math]
+)[math]\\[/math]
+Solution : [math]\beta=10 \log \dfrac{I}{I_{0}}=10 \log \dfrac{100 \times 10^{-12}}{10^{-12}} \mathrm{~dB}=20 \mathrm{~dB}[/math]
+
+
+Explanation:
+ব্যাখ্যা: শব্দ তীব্রতার লেভেল পরিবর্তন হয় লগারিদমিকভাবে: [math]ΔL=10\log_{10}\!\left(\dfrac{I}{I_0}\right)[/math]. এখানে [math]I/I_0=100[/math] হলে [math]ΔL=10\log_{10}100=10×2=20\ \text{dB}[/math], তাই লেভেল [math]20\ \text{dB}[/math] বেড়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 413797)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+শাহীন তার কলেজের একটি অনুষ্ঠানে [math]4\ m[/math] দৈর্ঘ্যের স্টেজ তৈরি করল। স্টেজের এক প্রান্তে [math]1\ mW[/math] ক্ষমতার একটি স্পীকার [math]A[/math] স্থাপন করল, স্টেজের মধ্যবিন্দু [math]P[/math] সোজাসুজি [math]3\ m[/math] দূরে [math]O[/math] বিন্দুতে একজন শ্রোতার নিকট শব্দের তীব্রতা কম হওয়ায় সে স্টেজের মধ্যবিন্দু [math]P[/math] হতে অপর প্রান্তে একই দূরত্বে ও একই ক্ষমতার অপর একটি স্পীকার [math]B[/math] স্থাপন করল। নিচের চিত্রে তা দেখানো হলো :
+
+[Image]
+
+
+Options:
+গ. স্পীকার [math]A[/math] এর জন্য [math]O[/math] বিন্দুতে শব্দের তীব্রতা কত?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক থেকে পাই,স্পিকার [math]\rm{A}[/math]
+ এর ক্ষমতা, [math]\rm{P}=1 \mathrm{~mW}=1 \times 10^{-3} \mathrm{~W}[/math]
+ [math]\rm{A}[/math]
+ থেকে [math]\rm{O}[/math]
+ বিন্দুর দূরত্ব,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{r} & =\sqrt{\mathrm{AP}^{2}+\mathrm{OP}^{2}} \\ & =\sqrt{\left(\frac{4}{2}\right)^{2}+3^{2} \mathrm{~m}}=\sqrt{13} \mathrm{~m} \end{aligned}[/math]
+ [math]\rm{O}[/math]
+ বিন্দুতে শব্দের তীব্রতা [math]\rm{I}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned}\rm{I} & =\rm{\frac{P}{4 \pi r^{2}}} \\ & =\frac{1 \times 10^{-3} \mathrm{~W}}{4 \times 3.1416 \times(\sqrt{13} \mathrm{~m})^{2}} \\ & =6.12 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2} \end{aligned}[/math]
+অতএব, [math]\rm{O}[/math]
+ বিন্দুতে শব্দের তীব্রতা [math]6.12 \times 10^{-6} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+।
+
+Explanation:
+গ AP = [math]2\ \text{m}[/math], OP = [math]3\ \text{m}[/math] হলে সরল-ত্রিভুজে [math]AO=\sqrt{2^2+3^2}=\sqrt{13}\ \text{m}[/math]. শব্দ তীব্রতা বিন্দু উৎসের জন্য ইনভার্স‑স্কয়ার নিয়ম অনুসারে [math]I=\dfrac{P}{4\pi r^2}=\dfrac{1\times10^{-3}}{4\pi(\sqrt{13})^2}=\dfrac{10^{-3}}{52\pi}\ \text{W/m}^2\approx6.12\times10^{-6}\ \text{W/m}^2.
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 413791)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]A,\ B,\ C[/math] এবং [math]D[/math] চারটি সুরশলাকা দেয়া আছে, যার মধ্যে [math]A[/math] শলাকাটি [math]1.3 \mathrm{~kg} \mathrm{~m}^{-3}[/math] ঘনত্বের মধ্যেমে [math]0.5m[/math] বিস্তারের শব্দ তরঙ্গ সৃষ্টি করে। শলাকাটির কম্পাঙ্ক [math]250\ Hz[/math] এবং মাধ্যমে শব্দের বেগ [math]345 \mathrm{~ms}^{-1}[/math]। [math]A[/math] শলাকাটি [math]B[/math] এবং [math]D[/math] এর সাথে যথাক্রমে প্রতি সেকেন্ডে ২টি এবং [math]6[/math]টি বীট উৎপন্ন করে এবং [math]B[/math] ও [math]D[/math] পরস্পরের সাথে প্রতি সেকেন্ডে [math]4[/math]টি বীট উৎপন্ন করে এবং [math]B,\ D,\ C[/math] এর সাথে দুটি বীট উৎ পন্ন করে।
+
+Options:
+গ. [math]A[/math] সুরশলাকার সৃষ্ট শব্দের তীব্রতা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+মাধ্যমের ঘনত্ব, [math]\rho=1.3 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+ [math]\hspace{1 cm}[/math]
+বিস্তার, [math]\rm{a}=0.5 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কম্পাঙ্ক, [math]f=250 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}[/math]
+শব্দের বেগ, [math]\mathrm{v}=345 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+শব্দের তীব্রতা, [math]\mathrm{I}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{I} & =2 \pi^{2} f^{2} \mathrm{a}^{2} \rho \mathrm{v} \\ & =2 \times 3.1416^{2} \times 250^{2} \times 0.5^{2} \times 1.3 \times 345 \mathrm{Wm}^{-2}\\ \therefore \quad \rm{I} & =138329321 \mathrm{~Wm}^{-2} \end{aligned}[/math]
+অতএব, [math]\rm{A}[/math]
+ সুরশলাকার সৃষ্ট শব্দের তীব্রতা [math]138329321 \mathrm{~Wm}^{-2}[/math]
+
+
+Explanation:
+গ ব্যবহারিক সূত্রটি হল [math]I=\tfrac{1}{2}\rho v \omega^2 s_m^2[/math], যেখানে [math]\omega=2\pi f[/math]। মান বসালে [math]\omega=500\pi\ \mathrm{rad/s}[/math] ও [math]I\approx1.38\times10^{8}\ \mathrm{W\,m^{-2}}[/math], কারণ অগ্রগামী শব্দ তরঙ্গের তীব্রতা এই সূত্রে নির্ণয় করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 413792)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি পোল্ট্রিফার্মে [math]400[/math] মুরগি আছে। পোল্ট্রিফার্মের বর্তমান শব্দের তীব্রতা [math]3.2 \times 10^{-4} \mathrm{Wm}^{-2}[/math]। পোল্ট্রিফার্মের মালিক মুরগির সংখ্যা বাড়িয়ে [math]2400[/math]টি করলেন । [শব্দের প্রমাণ তীব্রতা [math]10^{-12} \mathrm{Wm}^{-2}[/math]]
+
+Options:
+গ. উদ্দীপকের পোল্ট্রিফার্মের তীব্রতা লেভেল কত বেল ছিল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, পোল্ট্রি ফার্মের শব্দের তীব্রতা, [math]\mathrm{I}=3.2 \times 10^{-4} \mathrm{Wm}^{-2}[/math]
+শব্দের প্রমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+তীব্রতা লেভেল, [math]\beta=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\beta=\log \rm{\dfrac{I}{I_{0}}} \mathrm{~B}=\log \dfrac{3.2 \times 10^{-4}}{10^{-12}} \mathrm{~B}=8.5 \mathrm{~B}[/math]
+পোল্ট্রিফার্মের তীব্রতা লেভেল [math]8.5[/math]
+ বেল।
+
+Explanation:
+সমাধান: গ অনুসারে শব্দ তীব্রতা লেভেল বেলে হিসাব করা হয় [math]B=\log_{10}\frac{I}{I_0}[/math] যেখানে [math]I=3.2\times10^{-4}\,\mathrm{Wm^{-2}},\;I_0=10^{-12}\,\mathrm{Wm^{-2}}[/math].  
+অতএব [math]B=\log_{10}\frac{3.2\times10^{-4}}{10^{-12}}=\log_{10}(3.2\times10^{8})\approx8.505\ \text{bel}\approx8.51\ \text{bel}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 413793)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি পোল্ট্রিফার্মে [math]400[/math] মুরগি আছে। পোল্ট্রিফার্মের বর্তমান শব্দের তীব্রতা [math]3.2 \times 10^{-4} \mathrm{Wm}^{-2}[/math]। পোল্ট্রিফার্মের মালিক মুরগির সংখ্যা বাড়িয়ে [math]2400[/math]টি করলেন । [শব্দের প্রমাণ তীব্রতা [math]10^{-12} \mathrm{Wm}^{-2}[/math]]
+
+Options:
+ঘ. মুরগির সংখ্যা বাড়ানোর ফলে উদ্দীপকের ফার্মটিতে কী ধরনের সমস্যার সৃষ্টি হতে পারে? গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমুরগির সংখ্যা বাড়ানোর পর ফার্মের নতুন শব্দের তীব্রতা,[math]\hspace{1.5 cm}\mathrm{I}^{\prime}=\dfrac{2400}{400} \times 3.2 \times 10^{-4} \mathrm{Wm}^{-2}=1.92 \times 10^{-3} \mathrm{Wm}^{-2}[/math]
+শব্দের প্রমাণ তীব্রতা, [math]\rm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+নতুন শব্দের তীব্রতা লেভেল,[math]\hspace{1.5 cm}\begin{aligned} \beta^{\prime} & =10 \log \frac{\mathrm{I}^{\prime}}{\mathrm{I}_{0}} \mathrm{~dB} \\ & =10 \log \frac{1.92 \times 10^{-3}}{10^{-12}} \mathrm{~dB} \\ & =92.83 \mathrm{~dB} \end{aligned}[/math]
+অতএব, মুরগির সংখ্যা বাড়ানোর ফলে উদ্দীপকের ফার্মটিতে শব্দের তীব্রতা লেভেল বেড়ে গিয়ে [math]92.83 \mathrm{~dB}[/math]
+ হয়েছিল যা রীতিমতো শব্দ দূষণের পর্যায়ে পড়ে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ মুরগির সংখ্যা ছয়গুণ হলে তীব্রতাও ছয়গুণ হবে: [math]I_2=6I_1=6\times3.2\times10^{-4}=1.92\times10^{-3}\ \mathrm{Wm^{-2}}[/math]. শব্দস্তর হিসাব করলে [math]L_1=10\log_{10}\frac{I_1}{I_0}=10\log_{10}\frac{3.2\times10^{-4}}{10^{-12}}\approx85.0\ \mathrm{dB}[/math] এবং [math]L_2=10\log_{10}\frac{I_2}{I_0}=10\log_{10}\frac{1.92\times10^{-3}}{10^{-12}}\approx92.8\ \mathrm{dB}[/math], তাই বৃদ্ধি ≈[math]7.8\ \mathrm{dB}[/math]. এই ≈[math]8\ \mathrm{dB}[/math] বাড়তি শব্দ উল্লেখযোগ্য; [math]85\ \mathrm{dB}[/math] ছাপিয়ে স্থায়ী এক্সপোজার শ্রবণক্ষতি, কর্মী ও মুরগিদের মানসিক চাপ এবং শব্দদূষণের সমস্যা সৃষ্টি করতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 413794)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018, 2018, 2018 | Boards: Barisal Board, Chittagong Board | Tags: Barisal Board, Chattogram Board, Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+ব্যাডমিন্টন খেলার রেফারি বাঁশি বাজিয়ে [math]Y_1=10 \sin \pi\left(200 t-\dfrac{x}{3.4}\right)[/math] তরঙ্গের শব্দ সৃষ্টি করে খেলোয়াড়দের মনোযোগ আকর্ষণ করল। শব্দটি [math]40\ m[/math] দূরের একটি দেয়ালে প্রতিফলিত হয়ে রেফারির কাছে ফিরে আসল। রেফারি থেকে দেয়ালের দিকে [math]13.6\ m[/math] দূ রে রাঙা এবং [math]18.7\ m[/math] দূরে মিতা নামের খেলোয়াড় দাঁড়িয়ে ছিল।
+
+Options:
+ঘ. প্রতিফলনের পর রীতা ও মিতা উভয়েই কি সমান জোরালো শব্দ শুনতে পাবে? উদ্দীপকের আলোকে গাণিতিক বিশ্লেষণ করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+প্রতিফলক হতে রীতার দূরত্ব, [math]\rm{r}_{1}=(40-13.6) \mathrm{m}=26.4 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রতিফলক হতে মিতার দূরত্ব [math]\mathrm{r}_{2}=(40-18.7) \mathrm{m}=21.3 \mathrm{~m}[/math]
+এখন, প্রতিফলনের পর রীতা ও মিতার শ্রুত শব্দের তীব্রতা যথাক্রমে [math]\rm{I}_1[/math]
+ ও [math]\rm{I}_2[/math]
+ হলে,[math]\hspace{1.3 cm}\begin{array}{l}\quad \rm{\dfrac{I_{1}}{I_{2}}=\left(\dfrac{r_{2}}{r_{1}}\right)^{2}}\\ \Rightarrow \rm{\dfrac{I_{1}}{I_{2}}=\left(\dfrac{21.3}{26.4}\right)^{2}}\\ \Rightarrow \rm{\dfrac{I_{1}}{I_{2}}=0.65} \end{array}[/math]
+অর্থাৎ, [math]\rm{\dfrac{I_{1}}{I_{2}}<1}[/math]
+ [math]\quad\Rightarrow \quad \rm{I_1অতএব, প্রতিফলনের পর রীতা ও মিতা উভয়েই সমান জোরালো শব্দ শুনতে পাবে না— মিতা অধিক জোরালো শব্দ শুনতে পাবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ঘ প্রতিফলিত পথের দৈর্ঘ্য রীতার জন্য [math]80-13.6=66.4\ \text{m}[/math] এবং মিতার জন্য [math]80-18.7=61.3\ \text{m}[/math] (কারণ উৎস→দেয়াল=40 m এবং পরে দেয়াল→শ্রোতা)। তীব্রতা পথ দৈর্ঘ্যের বর্গের বিপরীতানুপাতে কমে, তাই অনুপাতটি প্রায় [math]\left(\dfrac{I_R}{I_M}\right)\approx\left(\dfrac{61.3}{66.4}\right)^2\approx0.85[/math]; সুতরাং রীতা মিতার তুলনায় প্রায় 15% দুর্বল প্রতিফলিত শব্দ শুনবে — সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 413795)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018, 2018, 2018 | Boards: Barisal Board, Chittagong Board | Tags: Barisal Board, Chattogram Board, Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+ব্যাডমিন্টন খেলার রেফারি বাঁশি বাজিয়ে [math]Y_1=10 \sin \pi\left(200 t-\dfrac{x}{3.4}\right)[/math] তরঙ্গের শব্দ সৃষ্টি করে খেলোয়াড়দের মনোযোগ আকর্ষণ করল। শব্দটি [math]40\ m[/math] দূরের একটি দেয়ালে প্রতিফলিত হয়ে রেফারির কাছে ফিরে আসল। রেফারি থেকে দেয়ালের দিকে [math]13.6\ m[/math] দূ রে রাঙা এবং [math]18.7\ m[/math] দূরে মিতা নামের খেলোয়াড় দাঁড়িয়ে ছিল।
+
+Options:
+ঘ. প্রতিফলনের পর রীতা ও মিতা উভয়েই কি সমান জোরালো শব্দ শুনতে পাবে? উদ্দীপকের আলোকে গাণিতিক বিশ্লেষণ করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+প্রতিফলক হতে রীতার দূরত্ব, [math]\rm{r}_{1}=(40-13.6) \mathrm{m}=26.4 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রতিফলক হতে মিতার দূরত্ব [math]\mathrm{r}_{2}=(40-18.7) \mathrm{m}=21.3 \mathrm{~m}[/math]
+এখন, প্রতিফলনের পর রীতা ও মিতার শ্রুত শব্দের তীব্রতা যথাক্রমে [math]\rm{I}_1[/math]
+ ও [math]\rm{I}_2[/math]
+ হলে,[math]\hspace{1.3 cm}\begin{array}{l}\quad \rm{\dfrac{I_{1}}{I_{2}}=\left(\dfrac{r_{2}}{r_{1}}\right)^{2}}\\ \Rightarrow \rm{\dfrac{I_{1}}{I_{2}}=\left(\dfrac{21.3}{26.4}\right)^{2}}\\ \Rightarrow \rm{\dfrac{I_{1}}{I_{2}}=0.65} \end{array}[/math]
+অর্থাৎ, [math]\rm{\dfrac{I_{1}}{I_{2}}<1}[/math]
+ [math]\quad\Rightarrow \quad \rm{I_1অতএব, প্রতিফলনের পর রীতা ও মিতা উভয়েই সমান জোরালো শব্দ শুনতে পাবে না— মিতা অধিক জোরালো শব্দ শুনতে পাবে।
+
+Explanation:
+ঘ ব্যাখ্যা: তরঙ্গের গতি ও ধাঁচ থেকে [math]\lambda=6.8\ \mathrm{m}[/math] পাওয়া যায়। প্রতিফলিত ও সরাসরি পথে পার্থক্য [math]\Delta L=80-2x[/math], তাই রীতা (x=13.6) এর জন্য [math]\Delta L=52.8\ \mathrm{m}[/math] এবং মিতার (x=18.7) জন্য [math]\Delta L=42.6\ \mathrm{m}[/math]। সমাগত ও প্রতিফলিত তরঙ্গের ফলিত প্রবলতা [math]\propto 2A\cos\!\left(\pi\frac{\Delta L}{\lambda}\right)[/math] হিসাব করলে রীতার জন্য ≈[math]1.48A[/math] এবং মিতার জন্য ≈[math]1.35A[/math], তাই তারা সমান জোরালো শব্দ শুনবে না (তীব্রতা ভিন্ন হবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 413796)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে দুটি শব্দ তরঙ্গের সমীকরণ হলো :
+
+[math]Y_1 = 0.25 \times 10^{-2} \sin 16.35\ (105.1 \pi t - x)[/math] [math]Y_2=0.25 \times 10^{-2} \sin 110\ (15.764 \pi t – 0.15 x)[/math]
+
+এখানে, সব কয়টি রাশি [math]SI[/math] এককে প্রকাশিত। বায়ুর ঘনত্ব [math]1.29\ kg\ m^3[/math]।
+
+Options:
+ঘ. দ্বিতীয় তরঙ্গের মাধ্যমে উৎপন্ন শব্দটি হাসপাতালের পরিবেশের জন্য উপযুক্ত হবে কি-না– তীব্রতার লেভেল নির্ণয়ের মাধ্যমে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,[math]\hspace{1 cm}\begin{aligned} \rm{Y}_{2} & =0.25 \times 10^{-2} \sin 110(15.764 \pi \mathrm{t}-0.15 \mathrm{x}) \\ & =0.25 \times 10^{-2} \sin 110 \times 0.15(105.09 \pi-\mathrm{x})\ldots\ldots\ldots \rm{(i)}\end{aligned}[/math]
+আমরা জানি, অগ্রগামী তরঙ্গের সাধারণ সমীকরণ,[math]\hspace{1 cm}\mathrm{Y}=\mathrm{a} \sin \dfrac{2 \pi}{\lambda}(\rm{v t}-\mathrm{x})\ldots\ldots\ldots\rm{(ii)}[/math]
+সমীকরণ [math]\rm{(i)}[/math]
+ ও [math]\rm{(ii)}[/math]
+ নং তুলনা করে পাই,তরঙ্গদৈর্ঘ্য,[math]\hspace{1.2 cm}\lambda=\dfrac{2 \pi}{110 \times 0.15} \mathrm{~m}=0.38 \mathrm{~m}[/math]
+তরঙ্গবেগ,[math]\hspace{1.2 cm}\rm{v}=105.09 \pi=330.15 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\therefore[/math]
+ কম্পাঙ্ক,[math]\hspace{1.2 cm}f=\dfrac{\mathrm{v}}{\lambda}=\dfrac{330.15}{0.38 \mathrm{~m}}=868.81 \mathrm{~Hz}[/math]
+বিস্তার,[math]\hspace{1.2 cm}\mathrm{a}=0.25 \times 10^{-2} \mathrm{~m}[/math]
+আমরা জানি, শব্দ তরঙ্গের তীব্রতা,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{I} & =2 \pi^{2} f^{2} \mathrm{a}^{2} \rho \rm{v} \\ & =2 \pi^{-2} \times(868.81)^{2} \times\left(0.25 \times 10^{-2}\right) \times 1.29 \times 330.15 \\ & =3.97 \times 10^{4} \mathrm{Wm}^{-2} \end{aligned}[/math]
+আবার, তীব্রতা লেভেল,[math]\hspace{1.5 cm}\begin{aligned} \beta & =10 \log \left(\rm{\frac{I}{I_{0}}}\right) \\ & =10 \log \left(\frac{3.97 \times 10^{4}}{10^{-12}}\right) \\ & =165.98 \mathrm{~dB} \end{aligned}\qquad[/math]
+ [ [math]\because[/math]
+ প্ৰমাণ তীব্রতা, [math]\mathrm{I}_{0}=10^{-12} \mathrm{Wm}^{-2}[/math]
+]কানে বেদনা সৃষ্টিকারী শব্দসমূহ সাধারণত [math]120 \mathrm{~dB}[/math]
+ এর ঊর্ধ্বে হয় তাই দ্বিতীয় তরঙ্গের মাধ্যমে উৎপন্ন শব্দটি হাসপাতালের পরিবেশের জন্য উপযুক্ত হবে না।
+
+Explanation:
+ব্যাখ্যা:
+
+ঘ দ্বিতীয় তরঙ্গের জন্য প্রথমে কোণীয় ভারতন ও তরঙ্গসংখ্যা বের করলে [math]\omega=110\times15.764\pi\approx5448.5\ \mathrm{rad/s},\quad k=110\times0.15=16.5\ \mathrm{m^{-1}}[/math] আর গতিবেগ [math]v=\omega/k\approx330\ \mathrm{m/s}[/math]; কম্পনের পরিমাণ [math]s_m=0.25\times10^{-2}=2.5\times10^{-3}\ \mathrm{m}[/math]। তীব্রতা সূত্রটি হলো [math]I=\tfrac{1}{2}\rho v \omega^2 s_m^2[/math] যার মান ≈ [math]3.95\times10^{4}\ \mathrm{W/m^2}[/math], সাউন্ড লেভেল [math]\beta=10\log_{10}(I/10^{-12})\approx166\ \mathrm{dB}[/math]। হাসপাতালের পরিবেশে সাধারণ অনুকূল শব্দস্তর ≈ [math]40\text{–}45\ \mathrm{dB}[/math] হওয়ায় এটি স্পষ্টতই অনুপযুক্ত।
+
+Sub-Questions:
+

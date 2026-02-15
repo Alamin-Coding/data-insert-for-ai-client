@@ -1,0 +1,61 @@
+================================================================================
+Question #1 (ID: 419829)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি ফ্রিজের মটরের ক্ষমতা [math]200W[/math]। যদি ঠান্ডা প্রকোষ্ঠের তাপমাত্রা [math]270K[/math] এবং বাহিরের তাপ মাত্রা [math]300K[/math] হয় তাহলে [math]100min[/math] এ ঠান্ডা প্রকোষ্ঠ থেকে সর্বোচ্চ কী পরিমাণ তাপ পাওয়া যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.08 \times 10^{7} \mathrm{~J}[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]\mathrm{T}_{1}=300 \mathrm{~K}, \mathrm{~T}_{2}=270 \mathrm{~K}[/math]
+ [math]K=\frac{Q_{1}}{W}=\frac{Q_{1}}{Q_{2}-Q_{1}}=\frac{T_{1}}{T_{2}-T_{1}}=\frac{270}{300-270}=9[/math]
+ [math]\Rightarrow \frac{Q_{1}}{p t}=9 \Rightarrow Q_{1}=9 \times 200 \times 100 \times 60=1.08 \times 10^{7} \mathrm{~J}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি আদর্শ (কার্নোট) রেফ্রিজারেটরের সর্বোচ্চ COP হলো [math]COP_{\text{max}}=\dfrac{T_c}{T_h-T_c}[/math]; এখানে [math]T_c=270\ \text{K},\ T_h=300\ \text{K}[/math], তাই [math]COP_{\text{max}}=270/30=9[/math]. মোট কাজের পরিমাণ [math]W=P t=200\ \text{W}\times100\ \text{min}=200\times6000\ \text{s}=1.2\times10^6\ \text{J}[/math], ফলে সর্বোচ্চ শীতলীকরণ শক্তি [math]Q_c=COP_{\text{max}}\times W=9\times1.2\times10^6=1.08\times10^7\ \text{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 419828)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রার 1 g পানিকে বরফে পরিণত করতে রেফ্রিজারেটরটি ন্যূনতম কাজ সম্পাদন করে [math]Q_2[/math] তাপ অপসারণ করে এবং [math]Q_1[/math] তাপ পরিবেশে বর্জন করে। পরবর্তীতে রেফ্রিজারেটরের পরিবর্তে এমন একটি তাপ ইঞ্জিন প্রতিস্থাপন করা হলো যেনো এটি রেফ্রিজারেটরের ঠিক বিপরীত আচরণ করে। (পানির আপেক্ষিক তাপ 4200 [math]Jkg^{-1}K^{-1}[/math] এবং বরফ গলনের আপেক্ষিক সুপ্ততাপ 336000 [math]Jkg^{-1}[/math])।
+
+
+[Image]
+
+
+Options:
+গ. রেফ্রিজারেটরটির কার্যসম্পাদনের সহগ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+উচ্চ তাপমাত্রার তাপধারের তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=(30+273) \mathrm{K} =303 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+নিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+কার্যসম্পাদন সহগ, [math]K = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} K & =\frac{T_{2}}{T_{1}-T_{2}} \\ & =\frac{273}{303-273} \\ & =\frac{273}{30}=9.1 \end{aligned}[/math]
+ [math]\therefore[/math]
+ রেফ্রিজারেটরটির কার্যসম্পাদন সহগ [math]\mathrm{K}=9.1 \text { (Ans.) }[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: 1 g পানির বরফে পরিণত করতে অপসারিত তাপ [math]Q_2=mL=0.001\times 336000=336\ \text{J}[/math]। ন্যূনতম কাজ মানে রিভার্সিবল (কার্ণো) রেফ্রিজারেটর, যার কার্যসম্পাদনের সহগ [math]\text{COP}=\dfrac{T_c}{T_h-T_c}[/math] (কেলভিনে)। পরিবেশ তাপমাত্রা ধরা হলে [math]T_c=273\ \text{K},\ T_h=300\ \text{K}[/math], তাই [math]\text{COP}=\dfrac{273}{300-273}=\dfrac{273}{27}\approx 10.11[/math] — এই কারণেই কিভাবে কার্ণো সীমানা থেকে COP নির্ণয় করা হয় তা বোঝায়।
+
+Sub-Questions:
+

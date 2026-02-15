@@ -1,0 +1,128 @@
+================================================================================
+Question #1 (ID: 411125)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+কর্ণ ম্যাট্রিক্সের ক্ষেত্রে-
+
+[math]\text { i. } \quad a_{i j} 
+eq 0, i=j[/math] [math]\text { ii. } \mathrm{a}_{\mathrm{ij}}=0, \mathrm{i}>\mathrm{j}[/math] [math]\text { iii. } a_{i j}=0, i
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i,ii,ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+কর্ণ ম্যাট্রিক্স (Diagonal Matrix): যে বর্গ ম্যাট্রিক্স প্রধান কর্ণের [math]\left(a_{i\mathrm{~j}} 
+eq 0 ; i=j\right)[/math] ভূক্তিগুলো ব্যতিত অন্যসব ভূক্তি শূন্য।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 411126)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}a_{11} & a_{12} & a_{13} \\a_{21} & a_{22} & a_{23} \\a_{31} & a_{32} & a_{33}\end{array}\right][/math] ম্যাট্রিক্সে [math]\mathrm{a}_{\mathrm{ij}}[/math] এর সহগুণক [math]A_{i j}[/math] হলে [math]a_{21} A_{11}+a_{22} A_{12}+a_{23} A_{13}[/math] এর মান কত?
+
+Options:
+A. [math]a_{22} a_{11} a_{33}[/math]
+B. [math]a_{21} a_{12} a_{33}[/math]
+C. [math]a_{23} a_{11} a_{32}[/math]
+D. [math]1[/math]
+E. [math]0[/math]
+
+
+Correct Answer: E. [math]0[/math]
+
+Solution:
+[math]A_{11}=[/math]
+ [math]\left|\begin{array}{ll}a_{22} & a_{23} \\a_{32} & a_{33}\end{array}\right|[/math]
+ [math]=a_{22} a_{33}-a_{23} a_{32}[/math]
+ [math]A_{12}[/math]
+ [math]=-\left|\begin{array}{ll}a_{21} & a_{23} \\a_{31} & a_{33}\end{array}\right|[/math]
+ [math]=-a_{21} a_{33}+a_{31} a_{23}[/math]
+ [math]A_{13}[/math]
+ [math]=\left|\begin{array}{ll}a_{21} & a_{23} \\a_{31} & a_{32}\end{array}\right|[/math]
+ [math]=a_{21} a_{32}-a_{22} a_{31}[/math]
+ [math]\therefore a_{21} A_{11}+a_{22}[/math]
+ [math]A_{12}+a_{23} A_{13}[/math]
+ [math]=a_{21} a_{22} a_{33}-a_{21} a_{23} a_{32}+a_{22} a_{23}[/math]
+ [math]a_{31}-a_{22} a_{21}[/math]
+ [math]a_{33}+a_{21} a_{23} a_{32}-a_{22}[/math]
+ [math]a_{23} a_{31}[/math]
+ [math]=0[/math]
+ [math]\text{Ans. (E)}[/math]
+
+
+Explanation:
+[math]A=\left[\begin{array}{lll}a & b & c \\d & e & f \\g & h & i\end{array}\right][/math]
+ ম্যাট্রিক্সের কোনো element এর অনুরাশি হচ্ছে ঐ element বরাবর সারি কলাম বাদ দিয়ে বাকী উপদানগুলোকে নিয়ে গঠিত নির্ণায়ক।যেমন উপরের A ম্যাট্রিক্সে a উপাদানের অনুরাশিটি হচ্ছে, [math]\left|\begin{array}{ll}\mathrm{c} & \mathrm{f} \\\mathrm{h} & \mathrm{i}\end{array}\right|=\mathrm{ei}-\mathrm{fh}[/math]
+ আর কোনো উপাদানের সহগুণক হচ্ছে ঐ অনুরাশির সাথে সংশ্লিষ্ট চিহ্ন দিয়ে গুণ করে প্রাপ্ত মান। একটি 3x3 ম্যাট্রিক্সের প্রত্যেকটি উপাদানের চিহ্ন নিম্নরূপ:[math]\left[\begin{array}{lll}+ & - & + \\- & + & - \\+ & - & +\end{array}\right][/math]
+তাহলে উপরে উল্লিখিত A ম্যাট্রিক্সের উপাদানের সহগুণক হচ্ছে= + (ei - fh)= ei - fh
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 411127)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Patuakhali Science And Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A[/math] একটি [math]3 \times 3[/math] ক্রমের ম্যাট্রিক্স এবং [math]I[/math] একই ক্রমে অভেদ ম্যাট্রিক্স হয় তবে [math]\mathrm{Al}_{3}[/math] এর মান কত?
+
+Options:
+ক. [math]3A[/math]
+খ. [math]A[/math]
+গ. [math]A3I[/math]
+ঘ. [math]-A[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\mathrm{AI}_{3}=\mathrm{AI}=\mathrm{A}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 411128)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]\Lambda=\left[\begin{array}{lll}1 & 2 & \alpha \\4 & 5 & 6 \\7 & 8 & 9\end{array}\right] ; \alpha[/math] এর মান কত হলে ম্যাট্রিক্সটি [math]\text { singular }[/math] হবে
+
+Options:
+A. [math]1[/math]
+B. [math]2[/math]
+C. [math]3[/math]
+D. [math]4[/math]
+E. [math]5[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]3[/math]
+
+Explanation:
+
+
+Sub-Questions:
+

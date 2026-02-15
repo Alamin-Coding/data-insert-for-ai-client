@@ -1,0 +1,220 @@
+================================================================================
+Question #1 (ID: 393953)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পরীক্ষার সাহায্যে দেখা যায় যে, সুরশলাকার কম্পাঙ্ক (n)-এর বাহুর দৈর্ঘ্য (I), ঘনত্ব (p) এবং পদার্থের ইয়ং-এর গুণাঙ্ক Y-এর ওপর নির্ভর করে। সুরশলাকার কম্পাঙ্কের সাথে উক্ত রাশিগুলোর সম্পর্কযুক্ত সমীকরণ প্রতিষ্ঠা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\mathrm{n}=\frac{\mathrm{k}}{l} \sqrt{\frac{\mathrm{Y}}{\rho}}[/math])
+
+Explanation:
+ধরা যাক [math]n \propto I^a p^b Y^c[/math]। মাত্রিক বিশ্লেষণে [math][n]=T^{-1},\;[I]=L,\;[p]=ML^{-3},\;[Y]=ML^{-1}T^{-2}[/math] দিলে পুরো শক্তির সমীকরণ থেকে পাওয়া যায় M: [math]b+c=0[/math], L: [math]a-3b-c=0[/math], T: [math]-2c=-1[/math] তাই [math]c=\tfrac{1}{2},\;b=-\tfrac{1}{2},\;a=-1[/math]। ফলে সম্পর্কটি হয় [math]n=K\,I^{-1}p^{-1/2}Y^{1/2}=K\frac{1}{I}\sqrt{\frac{Y}{p}}[/math], যেখানে [math]K[/math] একটি অসাম্যমাত্রিক ধ্রুবক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 393952)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক মোল বাস্তব গ্যাসের ক্ষেত্রে ভ্যান ডার ওয়ালস-এর সমীকরণ হলো: [math]\left(P+\frac{a}{V^{2}}\right)(V-b)=R T[/math], এখানে a ও b দুটি ধ্রুবক। a ও b এর S.I একক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : (a) [math]\mathrm{kgm}^{5} \mathrm{~s}^{-2}, (b) \mathrm{m}^3[/math]
+)সমীকরণটি,[math]\left(P+\frac{a}{V^{2}}\right)(V-b)=R T[/math]
+আমরা জানি, একই জাতীয় রাশি ছাড়া যোগ-বিয়োগ করা যায় না।[math]\therefore[/math]
+ P এবং [math]\frac{a}{v^{2}}[/math]
+ এর একক এবং মাত্রা একই।যেহেতু, চাপ,[math]\begin{aligned}& \mathrm{P}=\left[\mathrm{ML}^{-1} \mathrm{~T}^{-2}\right] \\\therefore & \frac{\mathrm{a}}{\mathrm{V}^{2}}=\left[\mathrm{ML}^{-1} \mathrm{~T}^{-2}\right]\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{a}}{\left[\mathrm{L}^{6}\right]}=\left[\mathrm{ML}^{-1} \mathrm{~T}^{-2}\right][/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{a}=\left[\mathrm{M L}^{5} \mathrm{~T}^{-2}\right][/math]
+ [math]\therefore[/math]
+ a এর একক [math]\text { kgm }^{5} s^{-2} \text { (Ans.) }[/math]
+আবার আয়তন (V) এর একক এবং b এর এককও একই[math]\therefore[/math]
+ b এর একক [math]\mathrm{m}^3[/math]
+ (Ans.)
+
+Explanation:
+V হলো মোলার ঘনফল যার একক [math]m^{3}\,mol^{-1}[/math] এবং P-এর একক [math]Pa[/math]. তাই [math]a[/math]-র একক হবে [math]Pa\times(m^{3}mol^{-1})^{2}=Pa\;m^{6}\;mol^{-2}[/math] (বা সমতুল্যভাবে [math]N\;m^{4}\;mol^{-2}[/math]) এবং [math]b[/math]-এর একক [math]m^{3}\;mol^{-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 393951)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বল 15 kg ভরের কোনো বস্তুর ওপর 1 মিনিট ক্রিয়া করে [math]4.6 \mathrm{\ kms}^{-1}[/math] বেগ উৎপন্ন করে। এই বলের মান নিউটনে প্রকাশ করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : 1150 N)এখানে,ভর, m = 15 Kgত্বরণ, [math]a=\frac{4.6 \mathrm{\ kms}^{-1}}{1 \mathrm{~min}}[/math]
+ [math]=\frac{4600 \mathrm{~ms}^{-1}}{60 \mathrm{~s}}=76.67 \mathrm{~ms}^{-2}[/math]
+বল, F = ?আমরা জানি,[math]\begin{aligned}\mathrm{F} & =\mathrm{ma} \\& =15 \times 76.67 \mathrm{~N} \\& =1150 \mathrm{~N} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বলকে শক্তি হিসেবে না দেখে বল (force) হিসাব করতে Newton-এর দ্বিতীয় সূত্র বা গতি পরিবর্তনের অনুপাত ব্যবহার করব, অর্থাৎ [math]F=m\frac{Δv}{Δt}[/math]. গতি পরিবর্তন [math]4.6\ \mathrm{km/s}=4600\ \mathrm{m/s}[/math] এবং সময় [math]60\ \mathrm{s}[/math], তাই [math]F=15\times\frac{4600}{60}=1150\ \mathrm{N}[/math]; কারণ বলই গতির পরিবর্তনের হার নির্ধারণ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 393950)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক পারমাণবিক ভর একক এর সমান ভর সম্পূর্ণরুপে শক্তিতে রূপান্তরিত হলে কী পরিমাণ শক্তি নির্গত হবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]932.7 \mathrm{\ MeV}[/math]
+)এখানে,ভরের পরিমাণ, m = 1 amu [math]=1.660539 \times 10^{-27} \mathrm{~kg}[/math]
+রূপান্তরিত শক্তি E = ?আমরা জানি,[math]E=\mathrm{m c}^{2}[/math]
+যেখানে ,c = আলোর বেগ ,[math]=3 \times 10^{8} \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+ [math]\therefore E=1.660539 \times 10^{-27} \mathrm{~kg} \times\left(3 \times 10^{\mathrm{8}} \mathrm{m} \cdot \mathrm{s}^{-1}\right)^{2}[/math]
+ [math]=14.94485 \times 10^{-11} \mathrm{~J}=\frac{14.94485 \times 10^{-11}}{1.60217687 \times 10^{-19} \mathrm{eV}}[/math]
+ [math]\begin{aligned}=9.327 \times 10^{8} \mathrm{eV} & =932.7 \times 10^{6} \mathrm{eV} \\& =932.7 \mathrm{\ MeV} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভর-শক্তির সম্পর্ক [math]E=mc^2[/math] ব্যবহার করে, 1 পারমাণবিক ভর একক [math]m=1.660539\times10^{-27}\,\text{kg}[/math] এবং [math]c=2.998\times10^8\,\text{m/s}[/math] ধরে, [math]E=(1.660539\times10^{-27})(2.998\times10^8)^2\approx1.493\times10^{-10}\,\text{J}\approx931.5\,\text{MeV}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 393949)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীর ব্যাসার্ধ 4,000 মাইল, এর পরিধি কত ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]40.4 \times 10^{3} \mathrm{~km}[/math]
+)এখানে,পৃথিবীর ব্যাসার্ধ, r = 4,000 mileপরিধি C = ?আমরা জানি,[math]\begin{aligned}C & =2 \pi r=2 \times 3.14 \times 4000 \text { mile } \\& =2 \times 3.14 \times 4000 \times 1.609 \mathrm{~km} \\& \quad[1 \text { mile }=1.609 \text { mile }] \\& =40418 \mathrm{~km}=40.4 \times 10^{3} \mathrm{~km} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বৃত্তের পরিধির সূত্র হলো [math]C=2\pi r[/math]। রেডিয়াস [math]r=4000\ \text{মাইল}[/math] প্রয়োগ করলে [math]C=2\pi(4000)=8000\pi\ \text{মাইল}\approx25133\ \text{মাইল}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 393948)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সাবান বুদবুদ সরল ছন্দিত স্পন্দনে দুলছে। বুদবুদটির দোলনকাল, [math]T=\mathrm{P}^{a} \mathrm{D}^{\mathrm{a} } \mathrm{S}^{\mathrm{a}}[/math] সমীকরণ দ্বারা প্রকাশ করা যায়; যেখানে P হল চাপ, D হল ঘনত্ব এবং S হল পৃষ্ঠটান, a, b ও c এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\mathrm{a}=-\frac{3}{2}, \mathrm{~b}=\frac{1}{2}, \mathrm{c}=1[/math]
+)এখানে ,চাপের মাত্রা, [math][P]=\left[M L^{-1} T^{-2}\right][/math]
+ঘনত্বের মাত্রা, [math][\mathrm{D}]=\left[\mathrm{ML}^{-3}\right][/math]
+পৃষ্ঠটানের মাত্রা, [math][\mathrm{S}]=\left[\mathrm{MT}^{-2}\right][/math]
+দোলন কালের মাত্রা, [math][T]=[T][/math]
+ [math]\begin{array}{l}a=? \\b=? \\c=?\end{array}[/math]
+প্রদত্ত সমীকরণ,[math]T=P^{a} D^{a} S^{a}[/math]
+T. P, D, S এর মাত্রিক মান বসিয়ে পাই,[math][T]=\left[M L^{-1} T^{-2}\right]^{a}\left[M L^{-3}\right]^{b}\left[M L^{-2}\right]^{c}[/math]
+ [math]\Rightarrow[/math]
+ [math][\mathrm{T}]=[\mathrm{M}]^{\mathrm{a}}[\mathrm{L}]^{-\mathrm{a}}[\mathrm{T}]^{-2a}[\mathrm{M}]^{b}[/math]
+ [math][\mathrm{L}]^{-3 b}[\mathrm{M}]^{\mathrm{c}}[\mathrm{T}]^{-2 \mathrm{c}}[/math]
+ [math]\Rightarrow[/math]
+ [math][T]=[\mathrm{M}]^{a+b+c}[\mathrm{~L}]^{-a-3 b}[T]^{-2 a-2 c}[/math]
+ [math]\begin{array}{l}\therefore a+b+c=0.......(1) \\-a-3 b=0 .......(2) \\-2 a-2 c=1.... \ldots(3)\end{array}[/math]
+(1). (2) ও (3)নং সমীকরণ সমাধান করে পাই,[math]a=-\frac{3}{2}, b=\frac{1}{2}, c=1 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: মাত্রাগত বিশ্লেষণে নেবে [math][T]=[P]^a[D]^b[S]^c[/math] এবং মাত্রা লিখে নাও: [math][P]=M L^{-1} T^{-2},\; [D]=M L^{-3},\; [S]=M T^{-2}[/math]. ফলে মোট মাত্রা হবে [math]M^{a+b+c}L^{-a-3b}T^{-2a-2c}=[T]^1[/math], যা থেকে সমীকরণগুলো পাওয়া যায়: [math]a+b+c=0,\;-a-3b=0,\;-2a-2c=1[/math]. এগুলো সমাধান করলে মিলবে [math]b=\tfrac{1}{2},\; a=-\tfrac{3}{2},\; c=1[/math], তাই [math]a=-\tfrac{3}{2},\; b=\tfrac{1}{2},\; c=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 393947)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল দোলকের দোলনকাল T, দোলকের ববের ভর m, দৈর্ঘ্য [math]l[/math] এবং অভিকর্ষীয় ত্বরণ g এর ওপর [math]\mathrm{T} \propto \mathrm{m}^{\mathrm{a}} l^{\mathrm{b}} \mathrm{g}^{\mathrm{c}}[/math] সমীকরণ দ্বারা নির্ভরশীল, যেখানে a, b ও c ধ্রুবরাশি। আবার, T এর সমীকরণ হলো, [math]T=2 \pi \sqrt{\frac{l}{g}}=2 \pi \sqrt{\frac{m}{k}}[/math]
+
+Options:
+গ. a, b ও c ধ্রুব রাশিগুলোর মান নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই,[math]T \propto \mathrm{m}^{\mathrm{a}} l^{\mathrm{b}} \mathrm{g}^{\mathrm{c}}[/math]
+ (i) এবং[math]\mathrm{T}=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}=2 \pi \mathrm{L}^{\frac{1}{2}} \times \mathrm{g}^{-\frac{1}{2}}[/math]
+ .....(ii)(i) ও (ii)নং সমীকরণের m, [math]l[/math]
+ ও g এর সূচক সমীকৃত করে পাই[math]a=0, b=\frac{1}{2}[/math]
+ এবং [math]c=-\frac{1}{2} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কারণ সরল দোলকের সূত্রে [math]T=2\pi\sqrt{\dfrac{l}{g}}[/math], ফলে T ভরের উপর নির্ভর করে না, তাই [math]a=0[/math]. এছাড়া [math]T\propto l^{1/2}g^{-1/2}[/math] হওয়ায় [math]b=\dfrac{1}{2}[/math] এবং [math]c=-\dfrac{1}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 393946)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীকে মোটামুটি [math]6.37 \times 10^{6} \mathrm{~m}[/math] ব্যাসার্ধের সুষম গোলক বিবেচনা করা যায়।
+
+Options:
+গ. পৃথিবী পৃষ্ঠের ক্ষেত্রফল কত বর্গ কিলোমিটার?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, পৃথিবীর ব্যাসার্ধ ,[math]\begin{aligned}\mathrm{R} & =6.37 \times 10^{6} \mathrm{~m} \\& =\frac{6.37 \times 10^{6}}{10^{3}} \mathrm{~km} \\& =6.37 \times 10^{3} \mathrm{~km}\end{aligned}[/math]
+ [math]\therefore[/math]
+ পৃথিবীর পৃষ্ঠের ক্ষেত্রফল ,[math]\begin{array}{l}=4 \pi \mathrm{R}^{2} \\=4 \times 3.146 \times\left(6.37 \times 10^{3}\right)^{2} \mathrm{~km}^{2} \\=509.91 \mathrm{~km}^{2} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পৃথিবীর পৃষ্ঠের ক্ষেত্রফল সূত্র [math]A=4\pi r^2[/math] দিয়ে পাওয়া যায়; এখানে [math]r=6.37\times10^6\ \mathrm{m}=6.37\times10^3\ \mathrm{km}[/math]. তাই [math]A=4\pi(6.37\times10^3)^2\ \mathrm{km}^2\approx5.10\times10^8\ \mathrm{km}^2[/math]. অতএব গ অপশনটি সঠিক।
+
+Sub-Questions:
+

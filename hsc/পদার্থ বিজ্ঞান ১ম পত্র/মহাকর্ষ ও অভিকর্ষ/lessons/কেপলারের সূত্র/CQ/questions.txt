@@ -1,0 +1,302 @@
+================================================================================
+Question #1 (ID: 410271)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূর্যের চারদিকে আবর্তনরত মঙ্গলগ্রহের কক্ষপথের ব্যাসার্ধ পৃথিবীর কক্ষপথের ব্যাসার্ধের 1.53 গুণ। পৃথিবীতে ৩৬৫ দিনে একবছর।
+
+Options:
+ক. কেপলারের উপবৃত্ত সূত্র কী ?
+খ. একটি যাত্রীপূর্ণ নৌকার যাত্রীদের দাঁড়াতে নিষেধ করা হয় কেন?- ব্যাখ্যা করো।
+গ. মঙ্গলগ্রহে কতদিনে এক বছর হবে? নির্ণয় করো।
+ঘ. পৃথিবী এবং সূর্যের মধ্যবর্তী দূরত্ব বর্তমান দূরত্বের দ্বিগুণ হলে গাণিতিকভাবে দেখাও যে, পৃথিবীতে বছরের দৈর্ঘ্য 1032 দিন হবে।
+
+
+Correct Answer: 
+
+Solution:
+ককেপলারের উপবৃত্ত সূত্র: প্রতিটি গ্রহ সূর্যকে উপবৃত্তের ফোকাসে রেখে একটি উপবৃত্তাকার পথে প্রদক্ষিণ করে। [math]\\[/math]
+ খযাত্রীরা বসা অবস্থায় নৌকার ভারকেন্দ্র যেখানে অবস্থিত থাকে যাত্রীরা দাঁড়ালে ওই অবস্থান তথা ভারকেন্দ্র কিছুটা উপরে উঠে যায়। ফলে যাত্রীপূর্ণ নৌকা অস্থির সাম্যাবস্থায় পৌঁছাবে। এতে নৌকাটি উল্টে গিয়ে বড় দুর্ঘটনা ঘটতে পারে। তাই যাত্রীদের দাঁড়াতে নিষেধ করা হয় যাতে নৌকা ভারসাম্যে থাকতে পারে। [math]\\[/math]
+ গএখানে,পৃথিবীর কক্ষপথের ব্যাসার্ধ [math]=\mathrm{R}_{1}[/math]
+হলে মঙ্গল গ্রহের কক্ষপথের ব্যাসার্ধ, [math]\mathrm{R}_{2}=1.53 \mathrm{R}_{1}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{R}_{2}}{\mathrm{R}_{1}}=1.53[/math]
+পৃথিবীর আবর্তনকাল, [math]\mathrm{T}_{1}=365 \text { day }[/math]
+মঙ্গলগ্রহের আবর্তনকাল, [math]\mathrm{T}_{2}=?[/math]
+আমরা জানি,[math]\frac{\mathrm{T}_{2}^{2}}{\mathrm{~T}_{1}^{2}}=\frac{\mathrm{R}_{2}^{3}}{\mathrm{R}_{1}^{3}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}^{2}=\left(\frac{\mathrm{R}_{2}}{\mathrm{R}_{1}}\right)^{3} \times \mathrm{T}_{1}^{2}[/math]
+ [math]\therefore \mathrm{T}_{2}=\left\{\left(\frac{\mathrm{R}_{2}}{\mathrm{R}_{1}}\right)^{3} \times \mathrm{T}_{1}^{2}\right\}^{\frac{1}{2}}[/math]
+ [math]\begin{array}{l}=\left\{(1.53)^{3} \times(365)^{3}\right\}^{\frac{1}{2}} \\=6980.76 \approx 691 \text { day }\end{array}[/math]
+ [math]\therefore[/math]
+ মঙ্গলগ্রহে 691 দিনে 1 বছর হবে (Ans.) [math]\\[/math]
+ ঘধরি, সূর্যের ভর M পৃথিবীর ভর m, সূর্য ও পৃথিবীর মধ্যবর্তী দূরত্ব rএবং পৃথিবীর কৌণিক বেগ [math]\omega=\frac{2 \pi}{\tau}[/math]
+যেহেতু পৃথিবী সূর্যের চারদিকে ঘোরে তাই প্রয়োজনীয় কেন্দ্রমুখী বল = পৃথিবীর উপর সূর্যের মহাকর্ষীয় বল [math]\therefore \frac{\mathrm{GMm}}{\mathrm{r}^{2}}=m \omega^{2} \mathrm{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega=\sqrt{\frac{G M}{r^{3}}}[/math]
+আবার, ধীর, পৃথিবী ও সূর্যের মধ্যবর্তী দূরত্ব 2r হলে পৃথিবীর কৌণিক বেগ [math]\omega^{\prime}[/math]
+ এবং আবর্তনকাল [math]\mathrm{T}^{\prime}[/math]
+ হয়, এক্ষেত্রে, [math]\frac{\mathrm{GMm}}{(2 \mathrm{r})^{2}}=\mathrm{m} \omega^{\prime 2} \times 2 \mathrm{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega^{\prime}=\frac{\mathrm{GM}}{8 \mathrm{r}^{3}}[/math]
+এখন, [math]\frac{\omega^{\prime}}{\omega}=\frac{\sqrt{\frac{\mathrm{GM}}{8 \mathrm{r}^{3}}}}{\sqrt{\frac{\mathrm{GM}}{\mathrm{r}^{3}}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\omega^{\prime}}{\omega}=\sqrt{\frac{G M}{8 r^{3}}} \times \sqrt{\frac{r^{3}}{G M}}=\frac{1}{2 \sqrt{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\frac{2 \pi}{T^{\prime}}}{\frac{2 \pi}{T}}=\frac{1}{2 \sqrt{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{T}{T^{\prime}}=\frac{1}{2 \sqrt{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}^{\prime}=\mathrm{T} \times 2 \sqrt{2}[/math]
+ [math]\begin{aligned}\therefore T^{\prime} & =365 \times 2 \sqrt{2} \\& =1032.376 \text { day }\end{aligned}[/math]
+ [math]\approx 1032[/math]
+ দিন[math]\therefore[/math]
+ পৃথিবীতে বছরের দৈর্ঘ্য 1032 দিন হবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক কেপলারের উপবৃত্ত সূত্র হল যে গ্রহের কক্ষপথের অবধি কাল (পিরিয়ড) [math]T[/math] এবং অর্ধ-মহাধিকর্ষক অক্ষরেখা (অর্ধ-মেজর অক্ষ) [math]a[/math] মধ্যে সম্পর্ক [math]T^2\propto a^3[/math] বা সমানভাবে [math]\dfrac{T_1^2}{T_2^2}=\dfrac{a_1^3}{a_2^3}[/math], যা কক্ষগঠনের গতি নির্ণয় করে। 
+
+খ যাত্রীদের দাঁড়াতে নিষেধ করা হয় কারণ নৌকায় দাঁড়িয়ে থাকা হলে ভারসাম্য সহজে হারিয়ে ফেলা যায় এবং হঠাৎ ঢেউ বা চলার সময়ে পড়ে যাওয়ার ফলে আঘাত বা দুর্ঘটনার ঝুঁকি বেড়ে যায়; বসে থাকা নিরাপদ করে কেন্দ্রীয় ভারবহুলতা ও স্থিতিশীলতা বজায় রাখে। 
+
+গ মঙ্গলগ্রহের বছরে সময় পেতে কেপলারের সূত্র প্রয়োগ করলে [math]T_{\text{Mars}}=365\times(1.53)^{3/2}[/math], তাই [math](1.53)^{3/2}\approx1.892[/math] এবং [math]T_{\text{Mars}}\approx365\times1.892\approx690.6\approx691\text{ দিন}[/math]। 
+
+ঘ যদি পৃথিবী-সূর্যের দূরত্ব দ্বিগুণ হয়, তাহলে [math]T'=365\times(2)^{3/2}=365\times2\sqrt{2}=365\times2.828427\approx1031.97\approx1032\text{ দিন}[/math], তাই বছরের দৈর্ঘ্য প্রায় 1032 দিন হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 410272)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+পৃথুলা ও মিথিলা দুই বোন মহাজগৎ নিয়ে গল্প করছিল। পৃথিবীর ঘূর্ণন ক্রিয়া নিয়েও তারা আলোচনা করছিল।
+
+Options:
+গ. সূর্য থেকে পৃথিবীর দূরত্ব যদি বর্তমান দূরত্বের অর্ধেক হয় তাহলে এক বছরে দিনের সংখ্যা বের ক র।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, সূর্য থেকে পৃথিবীর দূরত্ব [math]= 2\rm{R}[/math]
+এখন, পৃথিবী সূর্যকে কেন্দ্র করে [math]2\rm{R}[/math]
+ ব্যাসার্ধের বৃত্তপথে [math]\rm{v}[/math]
+ সমদ্রুতিতে পরিভ্রমণ করলে, যদি এর আবর্তনকাল [math]\rm{T}[/math]
+ হয়, তবে [math]\rm{T_{1}^{2} \propto(2 R)^{3}}[/math]
+ এখন, সূর্য থেকে পৃথিবীর দূরত্ব অর্ধেক অর্থাৎ [math]\dfrac{2 \mathrm{R}}{2}=\mathrm{R}[/math]
+ করা হলে যদি আবর্তনকাল [math]\rm{T}_2[/math]
+, হয় তবে [math]\mathrm{T}_{2} \propto \mathrm{R}^{3}[/math]
+এখন, [math]\rm{\dfrac{T_{1}^{2}}{(2 R)^{3}}=\dfrac{T_{2}^{2}}{R^{3}}}[/math]
+ [math]\qquad\Rightarrow \rm{\dfrac{T_{1}^{2}}{8 R^{3}}=\dfrac{T_{2}^{2}}{R^{3}}}[/math]
+ [math]\qquad\Rightarrow \rm{\dfrac{T_{1}^{2}}{8}=\dfrac{T_{2}^{2}}{1}}[/math]
+ [math]\qquad\Rightarrow \rm{T_{2}^{2}=\dfrac{(365)^{2}}{8}}[/math]
+ [ [math]\therefore[/math]
+পৃথিবী সূর্যকে [math]365[/math]
+ দিনে [math]1[/math]
+ বার আবর্তন করে][math]\qquad\Rightarrow \rm{T_{2}=129}[/math]
+ দিনঅতএব, পরিবর্তিত ক্ষেত্রে একবছরে [math]129[/math]
+ দিন হবে।
+
+Explanation:
+ব্যাখ্যা: গ সঠিক কারণ কেপলারের তৃতীয় নিয়ম অনুযায়ী কক্ষপথের কাল [math]T[/math] এবং অর্ধ-দৈর্ঘ্য [math]a[/math] সম্পর্কিত: [math]T^2\propto a^3[/math]. যদি [math]a[/math] অর্ধেক হয়, তবে নতুন কক্ষকাল হবে [math]T_{\rm new}=T_{\rm old}\,(1/2)^{3/2}=T_{\rm old}/(2\sqrt{2})[/math], তাই বছরের দিনের সংখ্যা হবে [math]365\times(1/2)^{3/2}=365/(2\sqrt{2})\approx129\text{ দিন}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 410273)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+কেপলারের প্রথম ও তৃতীয় সূত্র দুটি লেখ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Answer :
+
+প্রথম সূত্রঃ প্রতিটি গ্রহ সূর্যকে উপবৃত্তের ফোকাসে রেখে একটি উপবৃত্তাকার পথে প্রদক্ষিণ করে।
+
+তৃতীয় সূত্রঃ প্রতিটি গ্রহের পর্যায়কাল এর বর্গ সূর্য হতে তার গড় দূরত্বের ঘনফলের সমানুপাতিক।
+
+Explanation:
+ব্যাখ্যা:  
+ক কেপলারের প্রথম সূত্র: প্রতিটি গ্রহ সূর্যের চারপাশে একটি অনুনি (ellipse) কক্ষপথে ঘোরে এবং সেই অনুনির একটি ফোকাসে সূর্য অবস্থিত। এটা ব্রেহের পরীক্ষামূলক পর্যবেক্ষণের ফলাফল, পরে নিউটনের মহাকর্ষীয় আইন দ্বারা স্পষ্টভাবে ব্যাখ্যা করা যায়।  
+খ কেপলারের তৃতীয় সূত্র: কোনো গ্রহের কক্ষকাল [math]T[/math] ও কক্ষের অর্ধ-মহাদৈর্ঘ্য (semi-major axis) [math]a[/math]–এর মধ্যে সম্পর্ক [math]T^2 \propto a^3[/math] বা [math]\dfrac{T^2}{a^3}=\text{constant}[/math]। এটি দেখায় কক্ষ বড় হলে গতি ধীর হয়, এবং নিউটনের আইন থেকেও একই সম্পর্ক পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 410274)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Jessore University of Science & Technology (C Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি পৃথিবী হতে সূর্যের দূরত্ব বর্তমান দূরত্বের অর্ধেক করা হয় তাহলে এক বছরে দিনের সংখ্যা হবে প্রায়-
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]T_{1}=365 d, r_{2}=\frac{r_{1}}{2}, T_{2}=?[/math]
+ [math]\mathrm{T}^{2} \propto \mathrm{r}^{3} \quad \therefore\left(\frac{\mathrm{T}_{1}}{\mathrm{~T}_{2}}\right)^{2}=\left(\frac{\mathrm{r}_{1}}{\mathrm{r}_{2}}\right)^{3} \Rightarrow \frac{\mathrm{T}_{1}}{\mathrm{~T}_{2}}=\left(\frac{\mathrm{r}_{1}}{\mathrm{r}_{2}}\right)^{\frac{3}{2}}=2^{\frac{3}{2}} \quad \therefore \mathrm{T}_{2}=\frac{\mathrm{T}_{1}}{2^{\frac{3}{2}}}=\frac{365}{2^{\frac{3}{2}}}=129 \mathrm{~d}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কেপলারের তৃতীয় নিয়ম অনুযায়ী কক্ষকাল [math]T \propto a^{3/2}[/math]. যদি দূরত্ব আধা করা হয় [math]a' = a/2[/math], তাহলে [math]T' = T(1/2)^{3/2} = T/(2\sqrt{2})[/math]. বর্তমান [math]T \approx 365[/math] দিন হলে [math]T' \approx 365/(2\sqrt{2}) \approx 129[/math] দিন।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 410275)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূর্য থেকে পৃথিবী ও মঙ্গল গ্রহের দূরত্বের অনুপাত 3 : 4। সূর্যের চারদিকে পৃথিবী 365 দিনে একবার প্রদক্ষিণ করে। সূর্যের চারদিকে মঙ্গলের প্রদক্ষিণকাল নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]561.95 \text { day }[/math]
+ )[math]\\[/math]
+Solution :এখানে, সূর্য হতে পৃথিবী ও মঙ্গল গ্রহের দূরত্বের অনুপাত, [math]\frac{\mathrm{R}_{1}}{\mathrm{R}_{2}}=\frac{3}{4}[/math]
+পৃথিবীর পর্যায়কাল, [math]T_{1}=365 \text { day }[/math]
+মঙ্গলগ্রহের পর্যায়কাল, [math]T_{2}=?[/math]
+আমরা জানি,[math]\frac{T_{1}^{2}}{T_{2}{ }^{2}}=\frac{R_{1}{ }^{3}}{R_{2}{ }^{3}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\left(\frac{365 \text { day }}{T_{2}}\right)^{2}=\left(\frac{3}{4}\right)^{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{365 \text { day }}{T_{2}}=\left(\frac{3}{4}\right)^{\frac{3}{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{365 \text { day }}{T_{2}}=0.65[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\frac{365 \text { day }}{0.65}=561.95 \text { day (Ans.) }[/math]
+
+
+Explanation:
+Kepler-এর তৃতীয় নিয়ম অনুযায়ী কক্ষকাল এবং কক্ষের অর্ধব্যাসের সম্পর্ক [math]T^2\propto r^3[/math]। তাই মঙ্গলের কক্ষকাল হবে [math]T_M=365\left(\dfrac{r_M}{r_E}\right)^{3/2}=365\left(\dfrac{4}{3}\right)^{3/2}\approx365\times1.5396\approx562\text{ দিন}[/math]। বড় কক্ষবৃত্তির ফলে কক্ষকাল বাড়ে এবং সূচক [math]3/2[/math]ই সেই সম্পর্ক নির্ধারণ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 410276)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূর্যের চারপাশে আবর্তনরত পৃথিবীর আবর্তনকাল যেখানে 1 বছর, মঙ্গল গ্রহের আবর্তনকাল সেখানে 1.88 বছর।
+
+Options:
+গ. গ্রহগুলোর কক্ষপথ বৃত্তাকার ধরে মঙ্গল ও পৃথিবীর কক্ষপথের ব্যাসার্ধের অনুপাত বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,পৃথিবীর আবর্তনকাল, [math]\mathrm{T}_{\mathrm{e}}=1[/math]
+ বছর।মঙ্গলগ্রহের আবর্তনকাল,[math]\mathrm{T}_{\mathrm{m}}=1.88[/math]
+ বছরসূর্যের ভর [math]=M_{s}[/math]
+মহাকর্ষ ধ্রুবক, [math]\mathrm{G}=6.673 \times 10^{-11} \mathrm{Nm}^{2} \mathrm{~kg}^{-2}[/math]
+পৃথিবীর কক্ষপথের ব্যাসার্ধ [math]=\mathrm{R}_{\mathrm{e}}[/math]
+মঙ্গল গ্রহের কক্ষপথের ব্যাসার্ধ [math]=\mathrm{R}_{\mathrm{m}}[/math]
+পৃথিবীর ক্ষেত্রে,[math]\mathrm{R}_{\mathrm{e}}^{3}=\frac{\mathrm{GM}_{\mathrm{s}}}{4 \pi^{2}} \mathrm{~T}_{\mathrm{e}}^{2}[/math]
+মঙ্গল গ্রহের ক্ষেত্রে,[math]\begin{array}{l}\quad \mathrm{R}_{\mathrm{m}}^{3}=\frac{\mathrm{GM}_{\mathrm{s}}}{4 \pi^{2}} \mathrm{~T}_{\mathrm{m}}^{2} \\\therefore \frac{\mathrm{R}_{\mathrm{m}}{ }^{3}}{\mathrm{R}_{\mathrm{e}}{ }^{3}}=\frac{\mathrm{T}_{\mathrm{m}}^{2}}{\mathrm{~T}_{\mathrm{e}}^{2}}\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{R}_{\mathrm{m}}}{\mathrm{R}_{\mathrm{e}}}=\sqrt[3]{\frac{\mathrm{T}_{\mathrm{m}}^{2}}{\mathrm{~T}_{\mathrm{e}}^{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{R}_{\mathrm{m}}}{\mathrm{R}_{\mathrm{e}}}=\sqrt[3]{\frac{(1.88)^{2}}{(1)^{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{R}_{\mathrm{m}}}{\mathrm{R}_{\mathrm{e}}}=1.523[/math]
+ [math]\therefore R_{m}: R_{e}=1: 523: 1 \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কেপলারের তৃতীয় সূত্র অনুযায়ী [math]T^2\propto r^3[/math], তাই [math]\frac{r_M}{r_E}=\left(\frac{T_M}{T_E}\right)^{2/3}[/math]. এখানে [math]T_M=1.88,\ T_E=1[/math] হলে [math]\frac{r_M}{r_E}=(1.88)^{2/3}\approx 1.52[/math], অর্থাৎ মঙ্গলের কক্ষপথের ব্যাসার্ধ পৃথিবীর প্রায় 1.52 গুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 410277)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সূর্যের চারপাশে আবর্তনরত পৃথিবীর আবর্তনকাল যেখানে 1 বছর, মঙ্গল গ্রহের আবর্তনকাল সেখানে 1.88 বছর।
+
+Options:
+ঘ. বৃত্তাকার কক্ষপথ ধরে নিউটনের মহাকর্ষ সূত্র থেকে গাণিতিক বিশ্লেষণের মাধ্যমে কেপলারের তৃতী য় সূত্রটি প্রতিপাদন কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমহাকর্ষ সূত্র এবং কেন্দ্রমুখী বলের ধারণা ব্যবহার করে নিম্নে কেপলারের তৃতীয় সূত্র প্রমাণ করা হলো :মনে করি, সূর্যকে কেন্দ্র করে r ব্যাসার্ধের কক্ষপথে একটি গ্রহ’ v দ্রুতিতে আবর্তন করছে। সূর্যের ভর M, গ্রহের ভর m এবং গ্রহের পর্যায়কাল T হলে,নিউটনের মহাকর্ষ সূত্র অনুযায়ী দুটি বস্তুর মধ্যকার মহাকর্ষ বল,[math]\mathrm{F}_{\mathrm{g}}=\frac{\mathrm{GMm}}{{\mathrm{r}}^{2}}[/math]
+এখানে, G = মহাকর্ষীয় ধ্রুবকআবার, গ্রহের বৃত্তাকার গতির জন্য প্রয়োজনীয় কেন্দ্রমুখী বল,[math]\mathrm{F}_{\mathrm{C}}=\frac{\mathrm{mv^{2 }}}{\mathrm{r}}[/math]
+ .........(ii)গ্রহের ওপর সূর্যের আকর্ষণ বলই এই কেন্দ্রমুখী বলের যোগান দেয়,[math]\therefore \quad \mathrm{F}_{\mathrm{g}}=\mathrm{F}_{\mathrm{C}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{GMm}}{\mathrm{r}^{2}}=\frac{\mathrm{mv}^{2}}{\mathrm{r}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{GM}}{\mathrm{r}}=\mathrm{v}^{2}[/math]
+ ........(iii)গ্রহটির পর্যায়কাল T হলে অর্থাৎ r ব্যাসার্ধের কক্ষপথে সূর্যকে একবার আবর্তন করতে T সময় প্রয়োজন হলে এর রৈখিক বেগ হবে [math]\mathrm{v}=\frac{2 \pi \mathrm{r}}{\mathrm{T}}[/math]
+(iii) নং সমীকরণে v এর মান বসিয়ে পাই,[math]\frac{\mathrm{GM}}{\mathrm{r}}=\left(\frac{2 \pi \mathrm{r}}{\mathrm{T}}\right)^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{GM}}{\mathrm{r}}=\frac{4 \pi^{2} \mathrm{r}^{2}}{\mathrm{~T}^{2}}[/math]
+ [math]\therefore \mathrm{T}^{2}=\left(\frac{4 \pi^{2}}{\mathrm{GM}}\right) \times \mathrm{r}^{3}[/math]
+এই সমীকরণে [math]\left(\frac{4 \pi^{2}}{\mathrm{GM}}\right)[/math]
+ ধ্রুব রাশি[math]\therefore \quad T^{2}=[/math]
+ ধ্রুবক [math]\times \mathrm{r}^{3}[/math]
+ [math]\mathrm{T}^{2} \propto \mathrm{r}^{3}[/math]
+অর্থাৎ গ্রহের পর্যায়কালের বর্গ কক্ষপথের গ্রহ এবং সূর্যের মধ্যবর্তী দূরত্বের ঘন এর সমানুপাতিক।
+
+Explanation:
+ঘ ব্যাখ্যা: বৃত্তাকার কক্ষপথে কেন্দ্রীভূত বেগ ধরা হলে কেন্দ্রমুখী বল [math]m v^2/r[/math] এবং নিউটনের মহাকর্ষ বল [math]G M m/r^2[/math] সমান হবে, তাই [math]v^2=GM/r[/math]. পরিবর্তনের কাল [math]T=2\pi r/v[/math] বসিয়ে দিলে [math]T=\dfrac{2\pi r^{3/2}}{\sqrt{GM}}[/math] এবং ফলে [math]T^2=\dfrac{4\pi^2}{GM}\,r^3[/math], অর্থাৎ [math]T^2\propto r^3[/math], যা কেপলারের তৃতীয় সূত্রকে প্রতিপাদক করে (ধারণা: কেন্দ্রীয় ভর [math]M[/math] অনেক বড় ও কক্ষপথ বৃত্ত).
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 410278)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি কৃত্রিম উপগ্রহ পৃথিবীকে কেন্দ্র করে যথাক্রমে [math]\mathrm{r}_{1}[/math] ও [math]\mathrm{r}_{2}[/math] ব্যা সার্ধের বৃত্তাকার কক্ষপথে একই সমতলে ঘুরছে। যদি কৃত্রিম উপগ্রহদ্বয়ের আবর্তনকাল যথাক্রমে 1h ও ৪h এবং [math]r_{1}=10^{4} \mathrm{~km}[/math] হয়, তবে দ্বিতীয় কৃত্রিম উপগ্রহের কক্ষপথের ব্যাসার্ধ [math]\mathrm{r}_{2}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]4 \times 10^{4} \mathrm{~m}[/math]
+ )[math]\\[/math]
+Solution :এখানে,১ম গ্রহের আবর্তনকাল, [math]\mathrm{T}_{1}=1 \mathrm{hr}[/math]
+২য় গ্রহের আবর্তনকাল, [math]\mathrm{T}_{2}=8 \mathrm{hr}[/math]
+১ম গ্রহের ক্ষেত্রে, বৃত্তাকার কক্ষ পথের ব্যাসার্ধ, [math]r_{1}=10^{4} \mathrm{~km}[/math]
+২য় গ্রহের ক্ষেত্রে, বৃত্তাকার কক্ষ পথের ব্যাসার্ধ, [math]r_{2}=?[/math]
+আমরা জানি,[math]\left(\frac{\mathrm{T}_{1}}{\mathrm{~T}_{2}}\right)^{2}=\left(\frac{\mathrm{r}_{1}}{\mathrm{r}_{2}}\right)^{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{r}_{2}^{}=\left(\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}\right)^{\frac{2}{3}} \times \mathrm{r}_{1}[/math]
+ [math]\begin{array}{l}=\left(\frac{8}{1}\right)^{\frac{2}{3}} \times 10^{4} \\\left.=4 \times 10^{4} \mathrm{~m} \text { (Ans. }\right)\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কৃত্রিম উপগ্রহের বৃত্তীয় কক্ষপথে কেপলার-III অনুযায়ী [math]T^2 \propto r^3[/math] (অথবা [math]T=2\pi\sqrt{r^3/GM}[/math]) থাকে, তাই
+[math]\left(\dfrac{T_2}{T_1}\right)^2=\left(\dfrac{r_2}{r_1}\right)^3\Rightarrow r_2=r_1\left(\dfrac{T_2}{T_1}\right)^{2/3}[/math].
+এখানে [math]r_2=10^4\ \text{km}\times 4^{2/3}\approx10^4\times2.52\approx2.52\times10^4\ \text{km}[/math], তাই [math]r_2\approx2.52\times10^4\ \text{km}[/math].
+
+Sub-Questions:
+

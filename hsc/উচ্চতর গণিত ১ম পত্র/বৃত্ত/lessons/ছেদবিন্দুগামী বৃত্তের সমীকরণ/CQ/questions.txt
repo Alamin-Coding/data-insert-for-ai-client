@@ -1,0 +1,24 @@
+================================================================================
+Question #1 (ID: 406146)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+k এর মান কত হলে $(x - y + 3) ^ 2 + (kx + 2)(y - 1) = 0$ সমীকরণটি একটি বৃত্ত নির্দেশ করবে
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](x-y+3)^{2}+(k x+2)(y-1)=0[/math]
+ [math]\begin{array}{l}\Rightarrow x^{2}+y^{2}+9-2 x y+6 x-6 y+k x y-k x+2 y-2=0 \\\Rightarrow x^{2}+y^{2}+(k-2) x y+(6-k) x-4 y+7=0\end{array}[/math]
+বৃত্তে xy সংবলিত সহগ শূন্য হবে।[math]\therefore k-2=0 \Rightarrow k=2[/math]
+
+
+Explanation:
+ব্যাখ্যা: বৃত্তের সাধারণ উপবর্গীয় সমীকরণে [math]xy[/math] সহগ শূন্য এবং [math]x^2[/math], [math]y^2[/math] এর সহগ সমান হতে হয়। প্রসারিত করলে [math](k-2)xy[/math] পাওয়া যায়, তাই [math]k=2[/math]; এসময় [math]x^2[/math] ও [math]y^2[/math] উভয়ের সহগ [math]1[/math], সুতরাং সমীকরণটি বৃত্ত নির্দেশ করবে।
+
+Sub-Questions:
+

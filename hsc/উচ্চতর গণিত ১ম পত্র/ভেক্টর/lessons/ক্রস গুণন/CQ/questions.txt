@@ -1,0 +1,102 @@
+================================================================================
+Question #1 (ID: 408288)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\mathrm{A}=\hat{\mathrm{i}}+\hat{\mathrm{j}}+\hat{\mathrm{k}}, \mathrm{B}=2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}[/math] [math]A[/math] ও [math]B[/math] ভেক্টর যে সমতলে অবস্থিত তার উপর লম্ব ভেক্টর নিচের কোনটি?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]A[/math]
+ ও [math]B[/math]
+ যে সমতলে অবস্থিত তার উপর লম্ব ভেক্টর[math]\begin{array}{l}\Rightarrow\pm(\hat{A} \times \mathbf{B})= \pm\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & 1 & 1 \\2 & 3 & -2\end{array}\right| \\\Rightarrow \pm(-5 \hat{\mathrm{i}}+4 \hat{\mathrm{j}}+\hat{\mathrm{k}})\end{array}[/math]
+ [math](-)[/math]
+ চিহ্ন নিয়ে, [math]5 \hat{\mathrm{i}}-4 \hat{\mathrm{j}}-\hat{\mathrm{k}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\mathbf{A}=(1,1,1),\ \mathbf{B}=(2,3,-2)[/math] হলে তাদের ক্রস প্রোডাক্ট হল [math]\mathbf{A}\times\mathbf{B}=\begin{vmatrix}\hat{i}&\hat{j}&\hat{k}\\1&1&1\\2&3&-2\end{vmatrix}=-5\hat{i}+4\hat{j}+\hat{k}[/math], যা ঐ সমতলের উপর লম্ব। ফলে অপশন A-তে দেওয়া ভেক্টর (অথবা এর পরিমাপীয় গুণক) সঠিক লম্ব ভেক্টর।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408303)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math](a \hat{i}+b \hat{j}+\hat{k}) \times(2 \hat{i}+2 \hat{j}+3 \hat{k})=\hat{i}-\hat{j}[/math] হলে [math]a[/math] ও [math]b[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](b=1,a=1)[/math]
+ [math]\left|\begin{array}{lll}\hat{i} & \hat{j} & k \\a & b & 1 \\2 & 2 & 3\end{array}\right|=\hat{i}(3 b-2)-\hat{j}(-2+3 a)+\hat{k}(2 a-2 b)[/math]
+শর্তমতে [math]2 \mathrm{a}-2 \mathrm{~b}=0 \quad \therefore \mathrm{a}=\mathrm{b}[/math]
+ আবার, [math]3 b-2=1 \Rightarrow 3 b=3 \quad \therefore b=1[/math]
+আবার, [math]-2+3 a=1 \Rightarrow 3 a=3 \therefore a=1[/math]
+
+
+Explanation:
+প্রথমে ক্রস প্রোডাক্ট বের করলে [math](a\hat{i}+b\hat{j}+\hat{k})\times(2\hat{i}+2\hat{j}+3\hat{k})=(3b-2)\hat{i}-(3a-2)\hat{j}+2(a-b)\hat{k}[/math] পাওয়া যায়।  
+এটিকে [math]\hat{i}-\hat{j}[/math] এর সঙ্গে তুলনা করলে [math]3b-2=1,\;-(3a-2)=-1,\;2(a-b)=0[/math] হয় এবং সেখান থেকে [math]b=1,\;a=1[/math] পাওয়া যায়।  
+কেস-কম্পোনেন্টটি তৃতীয় সমীকরণে সন্তুষ্ট হয়, তাই উত্তর ঠিক আছে।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408302)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2000-2001 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\underline{a}=\hat{i}+2 \hat{j}+3 \hat{k}[/math] এবং [math]\underline{\mathrm{b}}=3 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}+3 \hat{\mathrm{k}}[/math] হয় তবে [math]\underline{a} \times \underline{b}[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\underline{a} \times \underline{b}=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\1 & 2 & 3 \\3 & -2 & 3\end{array}\right|=12 \hat{i}+6 \hat{j}-8 \hat{k} \therefore|\underline{a} \times \underline{b}|=\sqrt{12^{2}+6^{2}+(-8)^{2}}=\sqrt{244}=2 \sqrt{61}[/math]
+
+Explanation:
+ব্যাখ্যা: ক্রস প্রোডাক্ট ডিটারমিন্যান্ট দিয়ে হিসাব করতে হয়: [math]\underline{a}\times\underline{b}=\begin{vmatrix}\hat{i}&\hat{j}&\hat{k}\\1&2&3\\3&-2&3\end{vmatrix}[/math]. ডিটারমিন্যান্ট বের করলে [math]\hat{i}(2\cdot3-3\cdot(-2))-\hat{j}(1\cdot3-3\cdot3)+\hat{k}(1\cdot(-2)-2\cdot3)=12\hat{i}+6\hat{j}-8\hat{k}[/math], যা উভয় ভেক্টরের প্রতি লম্ব এবং সরাসরি গণনার ফল।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 408301)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math](a \underline{i}+b \underline{j}+\underline{k}) \times(2 \underline{i}+2 \und erline{j}+3 \underline{k})=\underline{i}-\underline{j}[/math] হয়, তবে a এবং b এর মান নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\left|\begin{array}{ccc}\underline{i} & \mathrm{j} & \underline{k} \\\mathrm{a} & \frac{\mathrm{b}}{} & 1 \\2 & 2 & 3\end{array}\right|=\underline{\mathrm{i}}(3 \mathrm{~b}-2)-\underline{\mathrm{j}}(3 \mathrm{a}-2)+\underline{k}(2 \mathrm{a}-2 \mathrm{~b}) \therefore \mathrm{i}(3 \mathrm{~b}-2)-\underline{\mathrm{j}}(3 \mathrm{a}-2)+\underline{\mathrm{k}}(2 \mathrm{a}-2 \mathrm{~b})=\underline{\mathrm{i}}-\underline{\mathrm{j}}[/math]
+উভয় পক্ষে i ও j এর সহগ সমীকৃত করলে, [math]3 b-2=1,3 a-2=1,2 a-2 b=0[/math]
+ [math]\Rightarrow \mathrm{b}=1, \mathrm{a}=1, \mathrm{a}=\mathrm{b}[/math]
+ 'প্রাপ্ত ফলগুলো সুসঙ্গত [math]\text { (coherent) [a=b=1] } \therefore \mathrm{a}=1, \mathrm{~b}=1 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ক্রস-গুণফল করলে [math](a i + b j + k)\times(2 i + 2 j + 3 k)=i(3b-2)-j(3a-2)+k(2a-2b)[/math] পাওয়া যায় এবং এটি [math]i-j[/math] এর সমান। তাই [math]3b-2=1,\;-(3a-2)=-1,\;2a-2b=0[/math] থেকে [math]a=1,\;b=1[/math]।
+
+Sub-Questions:
+

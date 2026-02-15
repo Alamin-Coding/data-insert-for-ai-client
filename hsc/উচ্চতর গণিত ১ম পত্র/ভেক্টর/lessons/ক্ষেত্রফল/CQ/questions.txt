@@ -1,0 +1,414 @@
+================================================================================
+Question #1 (ID: 408324)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2004-2005 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+ভেক্টর পদ্ধতিতে একটি ত্রিভুজের ক্ষেত্রফল নির্ণয় কর, যার শীর্ষবিন্দুত্রয় যথাক্রমে [math]A (1, 3, 2), B (2, -1, 1)[/math] এবং [math]C (–1, 2, 3).[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\overrightarrow{\mathrm{OA}}=\hat{\mathrm{i}}+3 \hat{\mathrm{j}}+2 \hat{\mathrm{k}}, \overrightarrow{\mathrm{OB}}=2 \hat{\mathrm{i}}-\hat{\mathrm{j}}+\hat{\mathrm{k}}, \overrightarrow{\mathrm{OC}}=-\hat{\mathrm{i}}+2 \hat{\mathrm{j}}+3 \hat{\mathrm{k}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{AB}}=\overrightarrow{\mathrm{OB}}-\overrightarrow{\mathrm{OA}}=\hat{\mathrm{i}}-4 \hat{\mathrm{j}}-\hat{\mathrm{k}}, \overrightarrow{\mathrm{BC}}=\overrightarrow{\mathrm{OC}}-\overrightarrow{\mathrm{OB}}=-3 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math]
+ [math]\Delta \mathrm{ABC}=\frac{1}{2}|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{BC}}| ; \overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{BC}}=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & -4 & -1 \\-3 & 3 & 2\end{array}\right|=-5 \hat{\mathrm{i}}+\hat{\mathrm{j}}-9 \hat{\mathrm{k}}[/math]
+ [math]\therefore \triangle \mathrm{ABC}=\frac{1}{2} \sqrt{25+1+81}=\frac{1}{2} \sqrt{107} \quad \text { (Ans.) }[/math]
+
+[Image]
+
+
+Explanation:
+ব্যাখ্যা: তিনটি বিন্দুর ত্রিভুজের ক্ষেত্রফল ভেক্টর পদ্ধতিতে [math]\tfrac{1}{2}\|\,\overrightarrow{AB}\times\overrightarrow{AC}\,\|[/math] দিয়ে পাওয়া যায়; এখানে [math]\overrightarrow{AB}=B-A=(1,-4,-1)[/math] এবং [math]\overrightarrow{AC}=C-A=(-2,-1,1)[/math]. ক্রস প্রডাক্ট হল [math]\overrightarrow{AB}\times\overrightarrow{AC}=(-5,1,-9)[/math] এবং এর দৈর্ঘ্য [math]\sqrt{(-5)^2+1^2+(-9)^2}=\sqrt{107}[/math]. তাই ত্রিভুজের ক্ষেত্রফল [math]\tfrac{1}{2}\sqrt{107}[/math], কারণ ক্রস প্রডাক্টের মান সমান্তরালচতুর্ভুজের ক্ষেত্রফল দেয় এবং ত্রিভুজ সেটার অর্ধেক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408323)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2009-2010, 2004-2005, 2013-2014 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{AB}}=3 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}-\hat{\mathrm{k}}[/math] এবং [math]\overrightarrow{\mathrm{AC}}=5 \hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math] হলে [math]AB[/math] ও [math]AC[/math] কে সন্নিহিত বাহু ধরে অংকিত সামান্তরিকের ক্ষেত্রফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\overrightarrow{\mathrm{AB}} \times\overrightarrow{\mathrm{AC}}=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\3 & 2 & -1 \\5 & -1 & 2\end{array}\right|=3 \hat{\mathrm{i}}-1 \hat{1 j}-13 \hat{\mathrm{k}}[/math]
+ [math]\therefore \mathrm{AB}[/math]
+ ও [math]AC[/math]
+ কে সন্নিহিত বাহু ধরে অংকিত সামান্তরিকের ক্ষেত্রফল, [math]|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AC}}|=\sqrt{3^{2}+(11)^{2}+(-13)^{2}}=\sqrt{299}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরিকের ক্ষেত্রফল দুই সন্নিহিত বাহুর ক্রস-প্রডাক্টের মান, তাই [math]A=|\overrightarrow{AB}\times\overrightarrow{AC}|[/math]. ক্রস-প্রডাক্টটি হলো [math]\overrightarrow{AB}\times\overrightarrow{AC}=(3,2,-1)\times(5,-1,2)=(3,-11,-13)[/math], ফলে ক্ষেত্রফল [math]|\,(3,-11,-13)\,|=\sqrt{3^2+(-11)^2+(-13)^2}=\sqrt{299}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408322)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] ত্রিভুজের শীর্ষত্রয় [math]A(1, 2, 3), B (2,3, 1 )[/math] এবং [math]C(3,1,2)[/math] হলে, ভেক্টর পদ্ধতিতে [math]ABC[/math] ত্রিভুজের ক্ষেত্রফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\overrightarrow{\mathrm{OA}}=\hat{i}+2 \hat{j}+3 \hat{k}, \overrightarrow{\mathrm{OB}}=2 \hat{i}+3 \hat{j}+\hat{k}, \overrightarrow{\mathrm{OC}}=3 \hat{i}+\hat{j}+2 \hat{k}[/math]
+ [math]\begin{array}{l}\overrightarrow{\mathrm{AB}}=\hat{\mathrm{i}}+\hat{\mathrm{j}}-2 \hat{\mathrm{k}} ; \overrightarrow{\mathrm{AC}}=2 \hat{\mathrm{i}}-\hat{\mathrm{j}}-\hat{\mathrm{k}} \\\therefore \Delta \mathrm{ABC}=\frac{1}{2}|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AC}}|\end{array}[/math]
+এখন [math]\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AC}}=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\1 & 1 & -2 \\2 & -1 & -1\end{array}\right|=\hat{i}(-1-2)-\hat{j}(-1+4)+\hat{k}(-1-2)=-3 \hat{i}-3 \hat{j}-3 \hat{k}[/math]
+ [math]\therefore \Delta A B C=\frac{1}{2} \cdot \sqrt{(-3)^{2}+(-3)^{2}+(-3)^{2}}[/math]
+ বর্গ একক [math]=\frac{3 \sqrt{3}}{2}[/math]
+ বর্গ একক
+
+Explanation:
+ব্যাখ্যা: ভেক্টর পদ্ধতিতে ত্রিভুজের ক্ষেত্রফল হল [math]\tfrac{1}{2}\|\overrightarrow{AB}\times\overrightarrow{AC}\|[/math]. এখানে [math]\overrightarrow{AB}=(1,1,-2),\ \overrightarrow{AC}=(2,-1,-1)[/math] এবং [math]\overrightarrow{AB}\times\overrightarrow{AC}=(-3,-3,-3)\ যার মান [math]\|(-3,-3,-3)\|=3\sqrt{3}[/math]. অতএব ক্ষেত্রফল = [math]\tfrac{1}{2}\cdot 3\sqrt{3}=\tfrac{3\sqrt{3}}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 408321)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}(3,-1,2),[/math] [math]\mathrm{B}(1,-1,-3)[/math] ও [math]C(4,-3,2)[/math] বিন্দুত্রয় শূন্যে অবস্থান করে।
+
+Options:
+ক. [math]H=[/math] [math]\left[\begin{array}{rr}3 & 2 \\-3 & -2\end{array}\right][/math] ম্যাট্রিক্সটি সমঘাতি কিনা যাচাই কর ।
+খ. [math]\overrightarrow{\mathrm{AB}}[/math] ও [math]\overrightarrow{\mathrm{AC}}[/math] কোনো সামন্তরিকের দুইটি সন্নিহিত বাহু নির্দেশ করলে, সামন্তরিকের ক্ষেত্রফল নির্ণয় কর।
+গ. [math]A, B[/math] ও [math]C[/math] এর উপাদানসমূহকে ভিন্ন ভিন্ন সারি বরাবর সাজিয়ে গঠিত ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]H=\left[\begin{array}{rr}3 & 2 \\-3 & -2\end{array}\right][/math]
+H ম্যাট্রিক্সটি সমঘাতি হবে যদি [math]\mathrm{H}^{2}=\mathrm{H}[/math]
+ হয়।[math]\therefore \mathrm{H}^{2} =\mathrm{H} \times \mathrm{H}[/math]
+ [math]=\left[\begin{array}{rr}3 & 2 \\-3 & -2\end{array}\right][/math]
+ [math]\left[\begin{array}{rr}3 & 2 \\-3 & -2\end{array}\right][/math]
+ [math]=\left[\begin{array}{rr}9-6 & 6-4 \\-9+6 & -6+4\end{array}\right][/math]
+ [math]=\left[\begin{array}{rr}3 & 2 \\-3 & -2\end{array}\right][/math]
+ [math]=\mathrm{H}[/math]
+ [math]\therefore H[/math]
+ ম্যাট্রিক্সটি সমঘাতি। [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]\overrightarrow{\mathrm{OA}}=3 \hat{\mathrm{i}}[/math]
+ [math]-\hat{\mathrm{j}}+2 \hat{\mathrm{k}},[/math]
+ [math]\overrightarrow{\mathrm{OB}}=\hat{\mathrm{i}}[/math]
+ [math]-\hat{\mathrm{j}}-3 \hat{\mathrm{k}},[/math]
+ [math]\overrightarrow{\mathrm{OC}}=4 \hat{\mathrm{i}}[/math]
+ [math]-3 \hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math]
+ [math]\overrightarrow{\mathrm{AB}}=\overrightarrow{\mathrm{OB}}-\overrightarrow{\mathrm{OA}}[/math]
+ [math]=-2 \hat{\mathrm{i}}-5 \hat{\mathrm{k}},[/math]
+ [math]\overrightarrow{\mathrm{AC}}=\overrightarrow{\mathrm{OC}}-\overrightarrow{\mathrm{OA}}[/math]
+ [math]=\hat{\mathrm{i}}-2 \hat{\mathrm{j}}[/math]
+ [math]\overrightarrow{\mathrm{AB}}[/math]
+ ও AC দ্বারা কোনো সামান্তরিকের দুইটি সন্নিহিত বাহু নির্দেশিত হলে, সামান্তরিকের ক্ষেত্রফল হবে [math]|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AC}}|[/math]
+ [math]\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AC}}[/math]
+ [math]=\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\-2 & 0 & -5 \\1 & -2 & 0\end{array}\right|[/math]
+ [math]=(0-10) \hat{\mathrm{i}}-(0 \hat{+}+5)[/math]
+ [math]\hat{\mathrm{j}}+(4-0)[/math]
+ [math]\hat{\mathrm{k}}[/math]
+ [math]=-10 \hat{\mathrm{i}}-5[/math]
+ [math]\hat{\mathrm{j}}+4 \hat{\mathrm{k}}[/math]
+ [math]\therefore|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AC}}|[/math]
+ [math]=\sqrt{(-10)^{2}+(-5)^{2}+4^{2}}[/math]
+ [math]=\sqrt{141}[/math]
+ বর্গ একক (Ans)[math]\\[/math]
+ গধরি, [math]F=[/math]
+ [math]\left[\begin{array}{rrr}3 & -1 & 2 \\1 & -1 & -3 \\4 & -3 & 2\end{array}\right][/math]
+ [math]\therefore|F| =\left|\begin{array}{rrr}3 & -1 & 2 \\4 & -1 & -3 \\4 & -3 & 2\end{array}\right|[/math]
+ [math]=3(-2-9)-(-1)[/math]
+ [math](2+12)+2(-3+4)[/math]
+ [math]=-33+14+2=-17[/math]
+ [math]F_{11}= (-1)^{1+1}\left|\begin{array}{rr}-1 & -3 \\-3 & 2\end{array}\right|[/math]
+ [math]=-2-9=-11[/math]
+ [math]F_{12}=(-1)^{1+2}\left|\begin{array}{lr}1 & -3 \\4 & 2\end{array}\right|[/math]
+ [math]=-(2+12)=-14[/math]
+ [math]F_{13}=(-1)^{1+3}\left|\begin{array}{ll}1 & -1 \\4 & -3\end{array}\right|[/math]
+=-3+4=1$[math]\mathrm{F}_{21}=(-1)^{2+1}=\left|\begin{array}{ll}-1 & 2 \\-3 & 2\end{array}\right|[/math]
+ [math]=-(-2+6)=-4[/math]
+ [math]\mathrm{~F}_{22}=(-1)^{2+2}=\left|\begin{array}{ll}3 & 2 \\4 & 2\end{array}\right|[/math]
+ [math]=6-8=-2[/math]
+ [math]\mathrm{~F}_{23}=(-1)^{2+3}\left|\begin{array}{rr}3 & -1 \\4 & -3\end{array}\right|[/math]
+ [math]=-(-9+4)=5[/math]
+ [math]\mathrm{~F}_{31}=(-1)^{3+1}\left|\begin{array}{rr}-1 & 2 \\-1 & -3\end{array}\right|[/math]
+ [math]=3+2=5[/math]
+ [math]\mathrm{~F}_{32}=(-1)^{3+2}\left|\begin{array}{rr}3 & 2 \\1 & -3\end{array}\right|[/math]
+ [math]=-(-9-2)=11[/math]
+ [math]\mathrm{~F}_{33}=(-1)^{3+3}\left|\begin{array}{rr}3 & -1 \\1 & -1\end{array}\right|[/math]
+ [math]=-3+1=-2[/math]
+ [math]\therefore \mathrm{F}^{-1}=\frac{1}{|\mathrm{~F}|} \text { adj } \mathrm{F}=\frac{1}{-17}[/math]
+ [math]\left[\begin{array}{rrr}-11 & -4 & 5 \\-14 & -2 & 11 \\1 & .5 & -2\end{array}\right] \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ম্যাট্রিক্স [math]H=\begin{pmatrix}3&2\\-3&-2\end{pmatrix}[/math] এর নির্ণায়ক হলো [math]\det H=3(-2)-2(-3)=-6+6=0[/math], তাই [math]H[/math] সমঘাতি।
+
+খ প্রথমে [math]\overrightarrow{AB}=(1-3,\,-1-(-1),\,-3-2)=(-2,0,-5)[/math] ও [math]\overrightarrow{AC}=(4-3,\,-3-(-1),\,2-2)=(1,-2,0)[/math]; ক্ষেত্রফল হবে ক্রস প্রোডাক্টের মাপ: [math]|\overrightarrow{AB}\times\overrightarrow{AC}|=|(-10,-5,4)|=\sqrt{100+25+16}=\sqrt{141}[/math]।
+
+গ সারিবদ্ধ ম্যাট্রিক্স [math]M=\begin{pmatrix}3&-1&2\\1&-1&-3\\4&-3&2\end{pmatrix}[/math] এর নির্ণায়ক [math]\det M=-17\neq0[/math], অতএব বিপরীতটি আছে এবং
+[math]M^{-1}=\frac{1}{-17}\begin{pmatrix}-11&-4&5\\-14&-2&11\\1&5&-2\end{pmatrix}
+=\begin{pmatrix}11/17&4/17&-5/17\\14/17&2/17&-11/17\\-1/17&-5/17&2/17\end{pmatrix}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 408320)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি আয়তাকার ইটের ধারগুলোকে [math]\mathbf{A}=2 \hat{\mathrm{i}}+4 \hat{\mathrm{j}}+\hat{\mathrm{k}}[/math] [math]\mathbf{B}=\hat{i}+\hat{j}+4 \hat{k}[/math] এবং [math]\mathrm{C}=-2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}[/math] দ্বারা সূচিত করা হলো ।
+
+Options:
+ক. [math]|2 \mathbf{A}+\mathbf{C}|[/math] নির্ণয় কর ।
+খ. [math]59000[/math] ঘন একক ইটের দাম [math]10000[/math] টাকা হলে প্রতিটি ইটের দাম কত?
+গ. উদ্দীপকের [math]A, B[/math] ও [math]C[/math] ভেক্টরত্রয়ের [math]\hat{\mathrm{i}}, \hat{\mathrm{j}}[/math] ও [math]\hat{k}[/math] এর সহগকে যথাক্রমে কলাম বরাবর নিয়ে গঠিত ম্যাট্রিক্সটি [math]E[/math] হলে [math]E^{3}-3 E^{2}-5I[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]2 \mathbf{A}+\mathbf{C}[/math]
+ [math]=2(2 \hat{i}+4 \hat{j}+\hat{k})[/math]
+ [math]-2 \hat{i}+3 \hat{j}+4 \hat{k}[/math]
+ [math]=4 \hat{i}+8 \hat{j}+2 \hat{k}-2 \hat{i}[/math]
+ [math]+3 \hat{j}+4 \hat{k}[/math]
+ [math]=2 \hat{i}+11 \hat{j}+6 \hat{k}[/math]
+ [math]\therefore \mid 2 A+C[/math]
+ [math]=\sqrt{2^{2}+11^{2}+6^{2}}[/math]
+ [math]=\sqrt{4+121+36}[/math]
+ [math]=\sqrt{161} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রতিটি ইটের আয়তন [math]\mathbf{A}(\mathbf{C} \times \mathbf{B})[/math]
+ [math]=\left|\begin{array}{rrr}2 & 4 & 1 \\-2 & 3 & 4 \\1 & 1 & 4\end{array}\right|[/math]
+ [math]=2(12-4)-4[/math]
+ [math](-8-4)+1(-2-3)[/math]
+ [math]=16+48-5=59[/math]
+ ঘন একক[math]\therefore[/math]
+ প্রতিটি ইটের দাম [math]=\frac{10000 \times 59}{59000}=10[/math]
+ টাকা (Ans.)[math]\\[/math]
+ গপ্রশ্নমতে [math]E=\left[\begin{array}{rrr}2 & 1 & -2 \\4 & 1 & 3 \\1 & 4 & 4\end{array}\right][/math]
+ [math]\therefore \mathrm{E}^{2} =\mathrm{E} \times \mathrm{E}[/math]
+ [math]=\left[\begin{array}{lll}2 & 1 & -2 \\4 & 1 & 3 \\1 & 4 & 4\end{array}\right][/math]
+ [math]\left[\begin{array}{rrr}2 & 1 & -2 \\4 & 1 & 3 \\1 & 4 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{rr}4+4-2 & 2+1-8 \\8+4+3 & 4+1+12 \\2+16+4 & 1+4+16\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{r}-4+3-8 \\-8+3+12 \\-2+12+16\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}6 & -5 & -9 \\15 & 17 & 7 \\22 & 21 & 26\end{array}\right][/math]
+ [math]\therefore \mathrm{E}^{3}[/math]
+ [math]=\mathrm{E}^{2} \times \mathrm{E}[/math]
+ [math]=\left[\begin{array}{rrr}6 & -5 & -9 \\15 & 17 & 7 \\22 & 21 & 26\end{array}\right][/math]
+ [math]\left[\begin{array}{rrr}2 & 1 & -2 \\4 & 1 & 3 \\1 & 4 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{r}12-20-9 \\30+68+7 \\44+84+26\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{r}6-5-36 \\15+17+28 \\22+21+104\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{r}-12-15-36 \\-30+51+28 \\-44+63+104\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}-17 & -35 & -63 \\105 & 60 & 49 \\154 & 147 & 123\end{array}\right][/math]
+ [math]\therefore E^{3}-3 E^{2}-5 I[/math]
+ [math]=\left[\begin{array}{rrr}-17 & -35 & -63 \\105 & 60 & 49 \\154 & 147 & 123\end{array}\right][/math]
+ [math]-\left[\begin{array}{rrr}18 & -15 & -27 \\45 & 51 & 21 \\66 & 63 & 78\end{array}\right][/math]
+ [math]-\left[\begin{array}{lll}5 & 0 & 0 \\0 & 5 & 0 \\0 & 0 & 5\end{array}\right][/math]
+ [math]=\left[\begin{array}{r}-17-18-5 \\105-45-0 \\154-66-0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{r}-35+15-0 \\60-51-5 \\147-63-0\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{r}-63+27-0 \\49-21-0 \\123-78-5\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}-40 & -20 & -36 \\60 & 4 & 28 \\88 & 84 & 40\end{array}\right] \text { (Ans.) }[/math]
+
+
+Explanation:
+ক [math]2\mathbf{A}+\mathbf{C}=(4-2)\hat{\imath}+(8+3)\hat{\jmath}+(2+4)\hat{k}=2\hat{\imath}+11\hat{\jmath}+6\hat{k}[/math], তাই মানটি [math]|2\mathbf{A}+\mathbf{C}|=\sqrt{2^{2}+11^{2}+6^{2}}=\sqrt{161}[/math]।
+
+খ মোট দামকে ইটের সংখ্যায় ভাগ করলে এক ইটের দাম হয় [math]\dfrac{10000}{59000}=\dfrac{10}{59}\text{ টাকা}\approx 0.1695\text{ টাকা}[/math]।
+
+গ কলাম হিসেবে নেওয়া ভেক্টরগুলোর থেকে [math]E=\begin{pmatrix}2&1&-2\\[4pt]4&1&3\\[4pt]1&4&4\end{pmatrix}[/math]। সরল গাণিতিকভাবে [math]E^{2}=\begin{pmatrix}6&-5&-9\\[4pt]15&17&7\\[4pt]22&21&26\end{pmatrix}[/math] এবং [math]E^{3}=\begin{pmatrix}-17&-35&-63\\[4pt]105&60&49\\[4pt]154&147&123\end{pmatrix}[/math], তাই [math]E^{3}-3E^{2}-5I=\begin{pmatrix}-40&-20&-36\\[4pt]60&4&28\\[4pt]88&84&40\end{pmatrix}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 408319)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{a}=2 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}, \mathbf{b}[/math] [math]=\hat{\mathrm{i}}+2 \hat{\mathrm{j}}-\hat{\mathrm{k}}[/math] ও [math]c=3 \hat{i}-\hat{j}+2 \hat{k}[/math] ভেক্টর তিনটি একটি ঘনবস্তুর ধার নির্দেশ করে।
+
+Options:
+ক. [math]|\mathbf{a}-\mathbf{b}-\mathbf{c}|[/math] নির্ণয় কর।
+খ. ঘনবস্তুটির আয়তন নির্ণয় কর।
+গ. ঘনবস্তুটির পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]\mathbf{a}=2 \hat{i}-3 \hat{j}+4 \hat{k}, \mathbf{b}[/math]
+ [math]=\hat{i}+2 \hat{j}-\hat{k}, \mathbf{c}[/math]
+ [math]=3 \hat{i}-\hat{j}+2 \hat{k}[/math]
+ [math]\therefore \mathbf{a}-\mathbf{b}[/math]
+ [math]-\mathbf{c}=2 \hat{i}-3[/math]
+ [math]\hat{j}+4 \hat{k}-\hat{i}-2 \hat{j}+\hat{k}-3[/math]
+ [math]\hat{i}+\hat{j}-2 \hat{k}[/math]
+ [math]=-2 \hat{i}-4 \hat{j}+3 \hat{k}[/math]
+ [math]\therefore|\mathbf{a}-\mathbf{b}-\mathbf{c}|[/math]
+ [math]=\sqrt{(-2)^{2}+(-4)^{2}+3^{2}}[/math]
+ [math]= \sqrt{4+16+9}[/math]
+ [math]=\sqrt{29} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]\mathbf{b} \times \mathbf{c}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\1 & 2 & -1 \\3 & -1 & 2\end{array}\right|[/math]
+ [math]=\hat{i}(4-1)[/math]
+ [math]-\hat{j}(2+3)[/math]
+ [math]+\hat{k}(-1-6)[/math]
+ [math]=3 \hat{i}-5 \hat{j}-7 \hat{k}[/math]
+ঘনবস্তুর আয়তন [math]=\mathbf{a} \cdot(\mathbf{b} \times \mathbf{c})[/math]
+ ঘন একক[math]\therefore \mathbf{a} \cdot(\mathbf{b} \times \mathbf{c})[/math]
+ [math]=(2 \hat{i}-3 \hat{j}+4 \hat{k})[/math]
+ [math]\cdot(3 \hat{i}-5 \hat{j}-7 \hat{k})[/math]
+ [math]=6+15-28=-7[/math]
+ [math]\therefore[/math]
+ নির্ণেয় ঘনবস্তুটির আয়তন [math]=|-7|=7[/math]
+ ঘন একক (Ans.)[math]\\[/math]
+ গ [math]\mathbf{a} \times \mathbf{b}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & -3 & 4 \\1 & 2 & -1\end{array}\right|[/math]
+ [math]=\hat{\mathrm{i}}(3-8)[/math]
+ [math]-\hat{\mathrm{j}}(-2-4)[/math]
+ [math]+\hat{\mathrm{k}}(4+3)[/math]
+ [math]=-5 \hat{i}+6 \hat{j}+7 \hat{k}[/math]
+ [math]\therefore|\mathbf{a} \times \mathbf{b}|[/math]
+ [math]=\sqrt{(-5)^{2}+6^{2}+7^{2}}[/math]
+ [math]=\sqrt{110}=10.49[/math]
+ [math]\therefore|\mathbf{b} \times \mathbf{c}|[/math]
+ [math]=\sqrt{9+25+49}[/math]
+ [math]=\sqrt{83}[/math]
+ [math]=9.11[/math]
+ [math]\mathbf{c} \times \mathbf{a}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \mathrm{k} \\3 & -1 & 2 \\2 & -3 & 4\end{array}\right|[/math]
+ [math]=\hat{\mathrm{i}}(-4+6)[/math]
+ [math]-\hat{\mathrm{j}}[/math]
+ [math](12-4)+\hat{k}(-9+2)[/math]
+ [math]=2 \hat{i}-8 \hat{j}[/math]
+ [math]-7 \hat{k}[/math]
+ [math]\therefore|c \times a|[/math]
+ [math]=\sqrt{4+64+49}=\sqrt{117}[/math]
+ [math]=10.82[/math]
+ঘনবস্তুটির পৃষ্ঠতলের ক্ষেত্রফল[math]=2(|\mathbf{a} \times \mathbf{b}|[/math]
+ [math]+|\mathbf{b} \times \mathbf{c}|[/math]
+ [math]+|\mathbf{c} \times \mathbf{a}|)[/math]
+ বর্গ একক[math]=2(10.49+9.11[/math]
+ [math]+10.82)[/math]
+ বর্গ একক[math]=2 \times 30.42[/math]
+ বর্গ একক[math]=60.84[/math]
+ বর্গ একক [math](Ans)[/math]
+
+
+Explanation:
+ক [math]\mathbf{a}-\mathbf{b}-\mathbf{c}=(2-1-3,\,-3-2+1,\,4+1-2)=(-2,-4,3)[/math] হওয়ায় তার মান [math]|\mathbf{a}-\mathbf{b}-\mathbf{c}|=\sqrt{(-2)^2+(-4)^2+3^2}=\sqrt{29}[/math]।  
+খ ঘনবস্তুর আয়তন হল স্কেলার ট্রিপল প্রোডাক্টের মান [math]|\mathbf{a}\cdot(\mathbf{b}\times\mathbf{c})|[/math]; এখানে [math]\mathbf{b}\times\mathbf{c}=(3,-5,-7)[/math] ও [math]\mathbf{a}\cdot(\mathbf{b}\times\mathbf{c})=2\cdot3+(-3)(-5)+4(-7)=-7[/math], সুতরাং আয়তন = [math]7[/math]।  
+গ পৃষ্ঠতলের মোট ক্ষেত্রফল হল দুইবার তিনটি যোজ্য প্যরালেলোগ্রামের ক্ষেত্রফল: [math]2\big(|\mathbf{a}\times\mathbf{b}|+|\mathbf{b}\times\mathbf{c}|+|\mathbf{c}\times\mathbf{a}|\big)[/math] যেখানে [math]|\mathbf{a}\times\mathbf{b}|=\sqrt{110},\;|\mathbf{b}\times\mathbf{c}|=\sqrt{83},\;|\mathbf{c}\times\mathbf{a}|=\sqrt{117}[/math], ফলে মোট পৃষ্ঠতল = [math]2\big(\sqrt{110}+\sqrt{83}+\sqrt{117}\big)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 408312)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\mathrm{ABCD}[/math] রম্বসের কর্ণদ্বয় যথাক্রমে [math]6 \hat{i}-6 \hat{j}+5 \hat{k}[/math] এবং [math]6 \hat{\mathrm{i}}+\hat{\mathrm{j}}-6 \hat{\mathrm{k}}[/math]
+
+রম্বসটির ক্ষেত্রফল কত বর্গ একক?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\frac{1}{2}[/math]
+ [math]\sqrt{(31)^{2}+(66)^{2}+(42)^{2}}[/math]
+ [math]=\frac{1}{2}[/math]
+ [math]\sqrt{961+4356+1764}[/math]
+ [math]=\frac{1}{2} \sqrt{7081}[/math]
+ [math]=\frac{1}{2} \times 84.14867[/math]
+ [math]=42.074[/math]
+
+
+Explanation:
+ব্যাখ্যা: রম্বসের ক্ষেত্রফল দুই কর্ণের ক্রস প্রডাক্টের আর্ধভাগ, অর্থাৎ [math]\text{Area}=\tfrac{1}{2}\,| \mathbf{d}_1\times\mathbf{d}_2 |[/math]. এখানে [math]\mathbf{d}_1=(6,-6,5),\ \mathbf{d}_2=(6,1,-6)[/math] হলে [math]\mathbf{d}_1\times\mathbf{d}_2=(31,66,42)[/math] এবং এর মান [math]\sqrt{31^2+66^2+42^2}=\sqrt{7081}[/math], তাই ক্ষেত্রফল [math]\tfrac{1}{2}\sqrt{7081}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 408308)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2012-2013, 2011-2012 | Boards:  | Tags: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit), Mymensingh Board, Hajee Mohammad Danesh Science & Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{AB}}=2 \hat{\mathrm{i}}+\hat{\mathrm{j}}[/math] এবং [math]\overrightarrow{\mathrm{AC}}=3 \hat{\mathrm{i}}-\hat{\mathrm{j}}+5 \hat{\mathrm{k}}[/math] ভেক্টর দুটিকে একটি সামন্তরিকের দুটি সন্নিহিত বাহু ধরে অংকিত সামন্তরিকের ক্ষেত্রফল কত?
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+ক্ষেত্রফল : [math]=|\overrightarrow{\mathrm{AB}} \times\overrightarrow{\mathrm{AC}}|[/math]
+ [math]=1\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & 1 & 0 \\3 & -1 & 5\end{array}\right|[/math]
+ [math]=1[/math]
+ [math]=|5 \hat{\mathrm{i}}-10 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}|[/math]
+ [math]=\sqrt{150}[/math]
+ [math]=5 \sqrt{6}[/math]
+ বর্গ একক
+
+Explanation:
+ব্যাখ্যা: সামান্তরিকের ক্ষেত্রফল হচ্ছে দুই সন্নিহিত বাহুর ক্রস প্রোডাক্টের ভেক্টরের মান, অর্থাৎ [math]|\overrightarrow{AB}\times\overrightarrow{AC}|[/math]. এখানে [math]\overrightarrow{AB}=(2,1,0),\ \overrightarrow{AC}=(3,-1,5)[/math] হলে [math]\overrightarrow{AB}\times\overrightarrow{AC}=5\hat{i}-10\hat{j}-5\hat{k}[/math] এবং এর মান [math]\sqrt{5^2+(-10)^2+(-5)^2}=\sqrt{150}=5\sqrt{6}[/math]. অতএব অপশন C সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 408305)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও : 
+
+[math]\overrightarrow{\mathrm{a}}=\hat{\mathrm{i}}+2 \hat{\mathrm{j}}, \overrightarrow{\mathrm{b}}=-\hat{\mathrm{i}}+3 \hat{\mathrm{j}}+\hat{\mathrm{k}}[/math] ভেক্টর দুটি কোনো সামন্তরিকের দুটি সন্নিহিত বাহু নির্দেশ করে ।
+
+সামন্তরিকটির ক্ষেত্রফল কত বর্গ একক?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\mathbf{a} \times \mathbf{b}=\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & 2 & 0 \\-1 & 3 & 1\end{array}\right|=\hat{\mathrm{i}}(2-0)+\hat{\mathrm{j}}(0-1)+\hat{\mathrm{k}}(3+2)=2 \hat{\mathrm{i}}-\hat{\mathrm{j}}+5 \hat{\mathrm{k}}[/math]
+ক্ষেত্রফল [math]=|\mathbf{a} \times \mathbf{b}|=\sqrt{2^{2}+(-1)^{2}+5^{2}}=\sqrt{30}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সামান্তরিকের ক্ষেত্রফল দুই সন্নিহিত বাহুর ক্রস-প্রডাক্টের মান, অর্থাৎ [math]|\overrightarrow{a}\times\overrightarrow{b}|[/math]। এখানে [math]\overrightarrow{a}=(1,2,0),\ \overrightarrow{b}=(-1,3,1)[/math] হলে [math]\overrightarrow{a}\times\overrightarrow{b}=(2,-1,5)[/math] এবং ক্ষেত্রফল [math]|\overrightarrow{a}\times\overrightarrow{b}|=\sqrt{2^2+(-1)^2+5^2}=\sqrt{30},[/math] সুতরাং অপশন D ঠিক।
+
+Sub-Questions:
+

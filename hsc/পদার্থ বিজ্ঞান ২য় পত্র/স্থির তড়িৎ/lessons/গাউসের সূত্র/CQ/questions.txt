@@ -1,0 +1,160 @@
+================================================================================
+Question #1 (ID: 421561)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023, 2023, 2023, 2023, 2022, 2022, 2017, 2016, 2015, 2015 | Boards: Dinajpur Board, Barisal Board, Sylhet Board, Dinajpur Board, Dhaka Board, Dinajpur Board, Dinajpur Board, Rajshahi Board | Tags: Dinajpur Board, Barisal Board, Jessore Board, Sylhet Board, Dinajpur Board, Cumilla Board, Dhaka Board, Dinajpur Board, Dinajpur Board, Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+গাউসের সূত্রটি লিখ-
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+তড়িৎক্ষেত্রে কোনো কল্পিত বদ্ধ তলের মধ্য দিয়ে অতিক্রান্ত মোট তড়িৎ ফ্লাক্সের [math]∈_o[/math] গুণ ঐ তল দ্বারা সীমাবদ্ধ চার্জের সমান ।
+
+Explanation:
+গাউসের সূত্র: [math]\oint_{\text{closed surface}}\mathbf{E}\cdot d\mathbf{A}=\dfrac{Q_{\rm enc}}{\varepsilon_0}[/math]. কারণ বন্ধ পৃষ্ঠির ওপর মোট বৈদ্যুতিক প্রবাহ (ক্ষেত্ররেখা পৃষ্ঠ‌্যকে ছাড়ার হার) ভিতরে থাকা মোট চার্জের অনুপাতেই নির্ভর করে, যা কুলম্বরের সূত্র এবং ডাইভার্জেন্স (গ্রীন) থিওরেম থেকে পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 421559)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+শূন্যস্থানে কোনো গাউসীয় তলের মধ্যে [math]+55 \ \mu C[/math] আধান আছে। ঐ তলের মধ্যদিয়ে তড়িৎ ক্ষেত্রের ফ্লাক্স কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](6.2 \times 10^{6}Nm^2 C)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ,[math]q=+55 \ \mu C[/math]
+ [math]=55 \times 10^{-6}C[/math]
+ফ্লাক্স [math]\phi = ?[/math]
+আমরা জানি,[math]\begin{aligned} \phi & =\frac{q}{\epsilon_{0}} \\ & =\frac{55 \times 10^{-6}}{8.854 \times 10^{-12}} \\ & =6.2 \times 10^{6} \mathrm{Nm}^{2} \mathrm{C} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গাউসের সূত্র অনুযায়ী বন্ধ গাউসীয় পৃষ্ঠের মধ্য দিয়ে মোট তড়িৎ ক্ষেত্রের ফ্লাক্স হল আবদ্ধ আধান ভাগ [math]\varepsilon_0[/math], তাই [math]\Phi=\dfrac{Q_{\rm enc}}{\varepsilon_0}[/math]. এখানে [math]Q=+55\times10^{-6}\,\mathrm{C}[/math] ও [math]\varepsilon_0=8.854\times10^{-12}\,\mathrm{C^2/(N\cdot m^2)}[/math], ফলে [math]\Phi\approx6.21\times10^{6}\,\mathrm{N\cdot m^2/C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 421558)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.6 \times 10^{-19}[/math] আধান বায়ুতে কোনো বিন্দুতে অবস্থিত। এর ফলে এর চারপাশে তড়িৎ বল অনুভূত হয় ।
+
+Options:
+ঘ. আমরা জানি, কোনো বিন্দু আধানের সৃষ্ট তড়িৎক্ষেত্রের মধ্যে কোনো তল কল্পনা করলে তার সাথে তড়িৎ ফ্লাক্স সংশ্লিষ্ট থাকে। গাণিতিক বিশ্লেষণের সাহায্যে দেখাও যে, কোনো তড়িৎক্ষেত্রে কোনো বদ্ধ কল্পিত তলের তড়িৎ ফ্লাক্সের En গুণ হবে ঐ তল দ্বারা আবদ্ধ মোট আধানের সমান।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরা যাক, যেকোনো আকৃতির একটির কাল্পনিক তল দ্বারা চার্জ সীমাবদ্ধ আছে। তলের যেকোনো বিন্দুতে তড়িৎ ক্ষেত্র E এর দিক হবে চার্জ থেকে ব্যাসার্ধ বরাবর বাইরের দিকে। কুলম্বের সূত্রানুযায়ী তলের P বিন্দুতে তড়িৎ প্রাবল্য [math]\vec{E}[/math]
+ এর মান হবে- [math]E=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q}{r^{2}}[/math]
+
+[Image]
+এখানে, r = g চার্জ থেকে P বিন্দুর দূরত্ব। P বিন্দুর চারদিকে অতি ক্ষুদ্র dA ক্ষেত্রফল জুড়ে সর্বত্র [math]\vec{E}[/math]
+ এর মান ও দিক একই ধরা যায়। সুতরাং dA ক্ষেত্রফলের মধ্য দিয়ে অতিক্রান্ত চৌম্বক ফ্লাক্স-[math]d \Phi_{E}=\vec{E} \cdot d \vec{A}=E \cos \theta d A=\frac{\mathrm{T}}{4 \pi \epsilon_{0}} \frac{\mathrm{q}}{2} \cos \theta d A[/math]
+কিন্তু, [math]\frac{\cos \theta \mathrm{dA}}{r^{2}}=d \Omega=d A[/math]
+ ক্ষেত্রফল দ্বারা চার্জের অবস্থানে উৎপন্নঘন কোণ। সুতরাং,[math]d \phi_{E}=\frac{q}{4 \pi_{0}} d \Omega[/math]
+সুতরাং চার্জ বেষ্টিত কল্পিত তলের মধ্যদিয়ে অতিক্রান্ত মোট তড়িৎ ফ্লাক্স-[math]\phi_{\varepsilon}=\oint \frac{\mathrm{q}}{4\pi \epsilon_{0}} \mathrm{~d} \Omega=\frac{\mathrm{q}}{4 \pi \epsilon_{0}} \mathrm{~d} \Omega[/math]
+কিন্তু কোনো বিন্দুতে [math]\oint \mathrm{d} \Omega=4 \pi \text { steradians }[/math]
+ যা তলের আকার ও আকৃতির ওপর নির্ভর করে না । সুতরাং,[math]\begin{array}{l}\Phi_{E}=\frac{\mathrm{q}}{\epsilon_{0}} \\\therefore \epsilon_{0} \Phi_{E}=q\end{array}[/math]
+সুতরাং কোনো তড়িৎ ক্ষেত্রে কোনো বদ্ধ কল্পিত তলের তড়িৎ ফ্লাক্সের [math]\epsilon_0[/math]
+ গুণ হচ্ছে ঐ তল দ্বারা আবদ্ধ মোট আধানের সমান । -
+
+Explanation:
+ব্যাখ্যা: ঘটি সঠিক কারণ একটি কেন্দ্রীয় বিন্দু আধান [math]q[/math]-এর ক্ষেত্রে ক্ষেত্রের মান [math]E=\dfrac{q}{4\pi\varepsilon_0 r^2}[/math] এবং বৃত্তাকার পৃষ্ঠফল [math]4\pi r^2[/math] হলে মোট ফ্লাক্স হবে [math]\Phi_E=E\cdot 4\pi r^2=\dfrac{q}{\varepsilon_0}[/math]. সাধারণভাবে সুপারপজিশন ও ডাইভার্জেন্স থিওরেম প্রয়োগ করলে যে কোনো বন্ধ তলের জন্য [math]\Phi_E=\dfrac{Q_{\rm enc}}{\varepsilon_0}[/math], অর্থাৎ [math]\varepsilon_0\Phi_E=Q_{\rm enc}[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 421557)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো গোলকের অভ্যন্তরে শূন্যস্থানে অবস্থিত আধানের জন্য গোলকের সমতলের মধ্যদিয়ে অতিক্রান্ত তড়িৎ ফ্লাক্স হলো [math]6.5 \times 10^3 \ Nm^2 C^{-1}[/math]। গোলকের অভ্যন্তরস্থ আধানের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5.75 \times 10^{-8}C)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তড়িৎ ফ্লাক্স, [math]\varphi=6.5 \times 10^{3} \mathrm{Nm}^{2} \mathrm{C}^{-1}[/math]
+আমরা জানি,তড়িৎ ফ্লাক্স, [math]\varphi=\frac{q}{\epsilon_{0}}[/math]
+ [math]\begin{array}{l} \Rightarrow 6.5 \times 10^{3} \mathrm{Nm}^{2} \mathrm{C}^{-1}=\frac{\mathrm{q}}{8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~m}^{-2} \mathrm{~N}^{-1}} \\ \therefore \mathrm{q}=5.75 \times 10^{-8} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গসের সূত্র অনুযায়ী গোলকের উপর দিয়ে মোট তড়িৎ ফ্লাক্স হলো [math]\Phi = Q/\epsilon_0[/math], তাই চার্জ [math]Q = \epsilon_0\Phi[/math]. এখানে [math]\epsilon_0 = 8.85\times10^{-12}\ \mathrm{C^2/(N\,m^2)}[/math] এবং [math]\Phi = 6.5\times10^3\ \mathrm{N\,m^2/C}[/math], ফলে [math]Q = 8.85\times10^{-12}\times6.5\times10^3 \approx 5.75\times10^{-8}\ \mathrm{C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 421555)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]q[/math] কুলম্ব তড়িৎ আধান একটি ঘনকের কেন্দ্রে থাকলে প্রতিসাম্যের জন্য ঘনকের প্রতি তলের মধ্য দিয়ে অতিক্রান্ত তড়িৎ ফ্লাক্স কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](=\frac{q}{6 \epsilon_0})[/math]
+ [math]\\[/math]
+ [math][/math]
+গাউসের সূত্রানুসারে [math]\epsilon_{0} \mathrm{E} \oint \mathrm{d} A=q[/math]
+এখানে, [math]\oint dA[/math]
+ হচ্চে আবদ্ধ অংশের ক্ষেত্রফলসুতরাং [math]E A=\frac{q}{\epsilon_{0}}[/math]
+ [math]\Rightarrow \phi=\frac{q}{\epsilon_{0}}[/math]
+যেহেতু ঘনকের 6টি তলসুতরাং প্রতি তলের মধ্য দিয়ে অতিক্রান্ত তড়িৎ ফ্লাক্স [math]=\frac{q}{6 \epsilon_0}(Ans.)[/math]
+
+
+Explanation:
+Gauss-এর সূত্র অনুযায়ী বন্ধ পৃষ্ঠির মোট বৈদ্যুতিক ফ্লাক্স [math]\Phi_{\text{total}}=q/\varepsilon_0[/math]. ঘনকের কেন্দ্রভাগে চার্জ থাকলে প্রতিটি ছয়টি তল সমসমভাবে ফ্লাক্স পায়, তাই প্রতিটি তলের ফ্লাক্স হবে [math]\Phi_{\text{face}}=\dfrac{q}{6\varepsilon_0}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 421554)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.2m[/math] ব্যাসার্ধের একটি গোলকীয় গাউসীয় তলের কেন্দ্রে [math]2.5 \times 10^{-6}C[/math] চার্জ স্থাপন ক রলে উত্ত তলে ফ্লাক্স কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2.82 \times 10^5 \ Nm^2 C^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: গাউসের আইনের মতে মোট বৈদ্যুতিক ফ্লাক্স [math]\Phi=\dfrac{Q_{\text{enc}}}{\varepsilon_0}[/math]. এখানে [math]Q=2.5\times10^{-6}\,\text{C}[/math] এবং [math]\varepsilon_0=8.854\times10^{-12}\,\text{F/m}[/math], তাই [math]\Phi=\dfrac{2.5\times10^{-6}}{8.854\times10^{-12}}\approx2.82\times10^{5}\ \mathrm{N\,m^2/C}[/math]. এই ফলাফল পৃষ্ঠের ব্যাসার্ধের উপর নির্ভর করে না, কারণ ফ্লাক্স কেবল বন্দী চার্জের উপর নির্ভর করে।
+
+Sub-Questions:
+

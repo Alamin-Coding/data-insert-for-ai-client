@@ -1,0 +1,1064 @@
+================================================================================
+Question #1 (ID: 420423)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]n[/math] মোল আদর্শ গ্যাসের আয়তনের সাথে চাপের পরিবর্তন দেখানো হয়েছে।
+
+
+[Image]
+
+
+Options:
+ঘ. লেখচিত্রে প্রদর্শিত গ্যাসের প্রসারণের ক্ষেত্রে কৃতকাজের রাশিমালা গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘসমোষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির থাকে বলে 'সিস্টেমের অন্তঃস্থ শক্তির কোনো পরিবর্তন হয় না, অর্থাৎ , [math]\Delta U=0[/math]
+ সুতরাং, তাপ গতিবিদ্যার প্রথম সূত্রানুসারে- Q= W । অর্থাৎ সমোষ্ণ প্রক্রিয়ায় সিস্টেমে সরবরাহকৃত তাপের সম্পূর্ণটাই কাজে রূপান্তরিত হয় ।আবার সমোষ্ণ প্রক্রিয়ায় গ্যাসের অবস্থা [math]\left(V_{1}, P_{1}\right)[/math]
+ হতে পরিবর্তিত হয়ে [math]\left(V_{2}, P_{2}\right)[/math]
+ হলে কৃতকাজ- [math]W=\int_{V_{1}}^{V_{2}} P d V[/math]
+ কিন্তু আদর্শ গ্যাসের ক্ষেত্রে,[math]P V=n R T[/math]
+ [math]\therefore P=\frac{n R T}{V}[/math]
+সুতরাং, [math]\mathrm{Q}=\mathrm{W}=\int_{\mathrm{V}_{1}}^{V_{2}} \frac{n R T}{V} d V=n R T[\log , V]_{V_{1}}^{V_{2}}=n R T \ln \frac{V_{2}}{V_{1}}[/math]
+-
+
+Explanation:
+ঘ ব্যাখ্যা: প্রসারণে কৃতকাজ হলো PV-লেখচিত্রের নিচে এলাকার সমাকলন, তাই [math]W=\int_{V_1}^{V_2}P\,dV[/math]. আদর্শ গ্যাসের জন্য [math]P=\dfrac{nRT}{V}[/math] ধরে (ইসোথার্মাল প্রক্রিয়া) সমাকলন করলে [math]W=nRT\ln\frac{V_2}{V_1}[/math], যেখানে [math]V_2>V_1[/math] হলে কাজ ধনাত্মক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 420424)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে একটি সিলিন্ডারে ঘর্ষণহীন পিস্টন দ্বারা 2 গ্রাম হিলিয়াম আবদ্ধ আছে। চাপ প্রয়োগে হিলিয়ামের আয়তন অর্ধেক করা হলো।
+
+Options:
+গ. হিলিয়ামের আয়তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গআদর্শ গ্যাসের সমীকরণ থেকেএখানে,গ্যাসের চাপ, [math]\mathrm{P}=1.013 \times 10^{5} \mathrm{~Pa}[/math]
+তাপমাত্রা, [math]T=273 \mathrm{~K}[/math]
+মোল সংখ্যা, [math]\mathrm{n}=\frac{\mathrm{m}}{\mathrm{M}}=\frac{2}{4}=0.5[/math]
+মোলার গ্যাস ধ্রুবক, R 8.314 Jআয়তন, v = ?আমরা জানি,[math]\begin{aligned} \mathrm{PV} & =\mathrm{nRT} \\ \therefore \mathrm{V} & =\frac{\mathrm{nRT}}{\mathrm{P}} \\ & =\frac{0.5 \times 8.314 \mathrm{~J} \times 273}{1.013 \times 10^{5}} \\ & =0.0112 \mathrm{~m}^{3} \text { (Ans.) } \end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ  সমাধান: হিলিয়ামের মোল সংখ্যা [math]n=\dfrac{2\ \text{g}}{4\ \text{g/mol}}=0.5\ \text{mol}[/math]. স্ট্যান্ডার্ড তাপমাত্রা ও চাপ (STP) এ 1 মোল গ্যাসের আয়তন [math]22.4\ \text{L}[/math], তাই প্রাথমিক আয়তন [math]V=0.5\times22.4=11.2\ \text{L}[/math] এবং আয়তন অর্ধেক করলে নতুন আয়তন [math]V'=5.6\ \text{L}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 420422)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রের পাত্রটি তাপ সুপরিবাহী পদার্থে তৈরি। এতে [math]0.1m^3[/math]পিস্টনের অবস্থান লক্ষ করলে দেখা গেল, পিস্টনের অবস্থান পুনরায় পরিবর্তিত হয়েছে। ঐ সময় বায়ুমণ্ডলের তাপমাত্রা [math]27°C[/math] ছিল।
+
+
+[Image]
+
+
+Options:
+ঘ. পরবর্তীতে পিস্টনের অবস্থানের কেন এবং কীরূপ পরিবর্তন হয়েছিল গাণিতিক বিশ্লেষণ করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘগ্যাসের আয়তন [math]0.2 \mathrm{~m}^{3}[/math]
+ হওয়ার পর কিছুক্ষণ পর পিস্টনের অবস্থান পুনরায় পরিবর্তিত হওয়ার অর্থ হচ্ছে গ্যাসের আয়তনের পরিবর্তন হওয়া। যেহেতু গ্যাসের আয়তনের পরিবর্তন নির্দিষ্ট পরিমাণ গ্যাসের ক্ষেত্রে কেবল তাপমাত্রা ও চাপের উপর নির্ভর করে। উদ্দীপক অনুযায়ী, ঐ সময়ের বায়ুমণ্ডলের তাপমাত্রা 27°C যা ধ্রুব এবং গ্যাসের ক্ষেত্রে তাপমাত্রাও একই হবে, যেহেতু পাত্রটি তাপ সুপরিবাহী। কিন্তু পিস্টন স্বতঃস্ফূর্তভাবে চলাচল করতে পারায় সমোষ্ণ প্রক্রিয়ায় [math]P_{1} V_{1}=P_{2} V_{2}[/math]
+ সূত্রানুসারে গ্যাসের চাপ কমার দরুন আয়তন প্রসারিতহবে। কেননা [math]\frac{P_{2}}{P_{1}}=\frac{V_{1}}{V_{2}}[/math]
+ অনুসারে, [math]P_{2} [math]V_{1}
+
+Explanation:
+ব্যাখ্যা: ঘ পাত্রটি তাপ সুপরিবাহী হওয়ার ফলে ভেতরের গ্যাস দ্রুত বায়ুমণ্ডলের তাপমাত্রা [math]27^\circ C = 300\ \mathrm{K}[/math]-এ পৌঁছে যায়; সমীকরণ অনুযায়ী [math]pV=nRT[/math], যদি বস্তুগত পরিমাণ [math]n[/math] এবং বাইরের চাপ [math]p_{atm}[/math] স্থায়ী থাকে তবে আয়তন [math]V[/math] নির্ধারিত থাকে। তাই প্রক্রিয়াটি সমাপ্ত হলে পিস্টন আবার সমতাবস্থায় এসে মূল অবস্থান [math]0.1\ \mathrm{m^3}[/math]-এ ফিরে আসে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 420419)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]50m^3[/math] আয়তনের একটি গ্যাসে স্বাভাবিক চাপে [math]4000J[/math] তাপ সরবরাহ করা হলে গ্যাসের আয়ত ন হল [math]52m^3[/math] গ্যাস দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2.026 \times 10^5J)[/math]
+
+Explanation:
+ব্যাখ্যা: স্থির চাপের অধীনে বিস্তারের কাজের সূত্র হল [math]W=P\Delta V[/math]। স্বাভাবিক চাপ ধরে নিলে [math]P=1.01\times10^5\ \text{Pa}[/math] এবং [math]\Delta V=52-50=2\ \text{m}^3[/math], তাই [math]W=(1.01\times10^5)(2)=2.02\times10^5\ \text{J}[/math] (গ্যাসের দ্বারা করা কাজ)।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 420421)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রের পাত্রটি তাপ সুপরিবাহী পদার্থে তৈরি। এতে [math]0.1m^3[/math]পিস্টনের অবস্থান লক্ষ করলে দেখা গেল, পিস্টনের অবস্থান পুনরায় পরিবর্তিত হয়েছে। ঐ সময় বায়ুমণ্ডলের তাপমাত্রা [math]27°C[/math] ছিল।
+
+
+[Image]
+
+
+Options:
+গ. [math]F[/math] প্রত্যাহারের পর অক্সিজেনের আয়তন কত হয়েছিল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ ব্যাখ্যা: পাত্রটি তাপ সুপরিবাহী হওয়ায় তাপমাত্রা স্থায়ী থাকে ([math]27^\circ C=300\ \text{K}[/math]) এবং পরিবর্তনটি সমতাপীয়, তাই বয়েলে’র নিয়ম প্রযোজ্য: [math]P_1V_1=P_2V_2[/math]. আরম্ভিক চাপ [math]P_1=P_{atm}+F/A[/math] ও শেষ চাপ [math]P_2=P_{atm}[/math], তাই শেষ আয়তন হবে [math]V_2=V_1\frac{P_1}{P_2}=V_1\frac{P_{atm}+F/A}{P_{atm}}[/math] (এখানে [math]V_1=0.1\ \mathrm{m^3}[/math]; F এবং A দিলে সংখ্যাগত মান পাওয়া যাবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 420420)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সিলিন্ডারে ঘর্ষণহীন পিস্টন দ্বারা 2 বায়ুমণ্ডলীয় চাপে ও 27°C তাপমাত্রায় 2gm হিলিয়াম আবদ্ধ আছে। ১মটি আদর্শ তাপ পরিবাহী এবং ২য়টি আদর্শ তাপ অপরিবাহী পদার্থে তৈরি। উভয় পিস্টন থেকে প্রযুক্ত বল অপসারণ করা হলো।
+
+Options:
+ঘ. উভয় ক্ষেত্রে হিলিয়াম কর্তৃক কৃতকাজের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ আইসোথার্মাল ক্ষেত্রে কাজ [math]W_{iso}=-nRT\ln(P_i/P_f)[/math] এবং অ্যাডিয়াবাটিক ক্ষেত্রে কাজ [math]W_{ad}=nC_v(T_i-T_f)[/math] (অথবা [math](P_iV_i-P_fV_f)/(\gamma-1)[/math]) দ্বারা প্রকাশ করা যায়। আইসোথার্মালে বাহির থেকে তাপ সরবরাহ/শোষিত হয়ে তাপমাত্রা স্থিত থাকে তাই গ্যাস বেশি কাজ করতে পারে, কিন্তু অ্যাডিয়াবাটিকে তাপ বিনিময় নেই ফলত তাপমাত্রা পড়ে এবং কাজ কম হয়। তাই আইসোথার্মালে হিলিয়াম কর্তৃক কৃতকাজ অ্যাডিয়াবাটিকের তুলনায় বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 420418)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.0 \times 10^5 \ Nm^{-2}[/math] স্থির চাপে কোনো গ্যাসের আয়তন [math]0.04 \ m^3[/math] থেকে [math]0.02 \ m^3[/math] হল। বদ্ধি কাজের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](-2 \times 10^3 \ J)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,গ্যাসের চাপ, [math]P=1.0 \times 10^{5} \ Nm^{-2}[/math]
+আদি আয়তন, [math]V_1=0.04 \ m^3[/math]
+শেষ আয়তন, [math]V_2=0.02 \ m^3[/math]
+বহিঃস্থ কাজ, [math]\Delta W=?[/math]
+আমরা জানি,[math]\begin{aligned} \Delta W & =P\left(V_{2}-V_{1}\right) \\ & =1.0 \times 10^{5} \times(0.02-0.04) \\ & =-2 \times 10^{3} \mathrm{~J} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: স্থির চাপের বদ্ধি কাজের সূত্র [math]W = P\Delta V[/math]. এখানে [math]P=1.0\times10^5\ Pa[/math], [math]\Delta V=V_f-V_i=0.02-0.04=-0.02\ m^3[/math], তাই [math]W=1.0\times10^5\times(-0.02)=-2000\ J[/math]. অর্থাৎ গ্যাস দ্বারা করা কাজ −2000 J (অর্থাৎ বাহ্যিক বল দ্বারা গ্যাসের উপর +2000 J কাজ করা হয়েছে)।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 420417)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.0 \times 10^5 \ Nm^{-2}[/math]স্থির চাপে কোনো আদর্শ গ্যাসের আয়তন [math]0.12 \ m^3[/math] থেকে [math]0.52 \ m^3[/math] হল। বহিঃস্থ কাজের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4 \times 10^4 \ J)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চাপ, [math]P=1.0 \times 10^5 \ Nm^{-2}[/math]
+চূড়ান্ত আয়তন, [math]V_2=0.52 \ m^3[/math]
+প্রাথমিক আয়তন, [math]V_1=0.12 \ m^3[/math]
+কৃতকাজ, [math]\Delta W=?[/math]
+আমরা জানি,[math]\begin{array}{l} \Delta W=P\left(V_{2}-V_{1}\right) \\ =1.0 \times 10^{5} \mathrm{Nm}^{-2} \times(0.52-0.12) \mathrm{m}^{3} \\ =4 \times 10^{4} \mathrm{~J} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: স্থির চাপে বহিঃস্থ কাজের সূত্র [math]W=P\Delta V[/math]. এখানে [math]W=1.0\times10^5\times(0.52-0.12)=4.0\times10^4\ \text{J}[/math], অর্থাৎ গ্যাসটি বাহ্যিকভাবে [math]4.0\times10^4\ \text{J}[/math] কাজ করে (বিস্তারণ হওয়ায় কাজ ধনাত্মক)।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 420416)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্থির চাপে [math]6gm[/math] হিলিয়ামে কী পরিমাণ তাপ শক্তি সরবরাহ করা হলে গ্যাস কর্তৃক কৃতকাজ হবে? [math]80J[/math]এতে হিলিয়ামের অন্তঃস্থ শক্তির পরিবর্তন কত হবে? হিলিয়ামের [math]C_p=13.2 \ J.mol^{-1}.K^{-1}[/math] এবং [math]R=8.314 \ J.mol^{-1}K^{-1}[/math]I
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 127.01J)[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে, হিলিয়াম ভর, [math]m=6gm=6\times 10^{-3}kg[/math]
+কৃতকাজ, [math]W=80J[/math]
+ [math]C_p=13.2 \ J.mol^{-1}K^{-1}[/math]
+অন্তঃস্থ শক্তির পরিবর্তন, [math]\Delta U=?[/math]
+তাপ শক্তি, [math]Q=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} W=n R \Delta T \\ \Rightarrow 80=\frac{6}{4} \times 8.314 \times \Delta T \end{array}[/math]
+ [math][{\because n=}[/math]
+মোল সংখ্যা [math]=\frac{m}{M}=\frac{6 \mathrm{gm}}{4 \mathrm{gn}}][/math]
+ [math]\Rightarrow \Delta T=6.41488K[/math]
+আবার,[math]\begin{aligned} Q & =n C_{p} \Delta T \\ & =\frac{6}{4} \times 13.2 \times 6.41488 \\ & =127.01 \mathrm{~J} \text { (Ans.) } \end{aligned}[/math]
+এবং [math]\Delta U=Q-W=127.01 \mathrm{~J}-80 \mathrm{~J}=47.01 \mathrm{~J} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: হিলিয়ামের মোল সংখ্যা [math]n=\dfrac{6\ \text{g}}{4\ \text{g/mol}}=1.5\ \text{mol}[/math] এবং স্থির চাপপ্রক্রিয়ায় কাজ [math]W=nR\Delta T[/math] হওয়ায় [math]\Delta T=\dfrac{W}{nR}[/math]।  
+ক তাপ: [math]Q=nC_p\Delta T=\dfrac{C_p}{R}\,W=80\times\dfrac{13.2}{8.314}\approx127\ \text{J}[/math].  
+খ অন্তঃস্থ শক্তির পরিবর্তন: [math]\Delta U=Q-W\approx127-80\approx47\ \text{J}[/math] (অথবা [math]\Delta U=nC_v\Delta T,\ C_v=C_p-R=4.886\ \text{J/mol·K}[/math] ব্যবহার করে একই ফল)।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 420415)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক চাপে [math]100 m^3[/math] আয়তনের একটি গ্যাসে কিছু পরিমাণ তাপ দিলে গ্যাসের আয়তন [math]10 0.2 m^3[/math] হয়। ঐ গ্যাসের কৃতকাজের মান নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 20260 \ J)[/math]
+ [math]\\[/math]
+Solution : এখানে, স্বাভাবিক চাপ, [math]P=1.013 \times 10^5 Nm^{-2}[/math]
+আদি আয়তন, [math]V_1=100 \ m^3[/math]
+শেষ আয়তন, [math]V_2=100.2 \ m^3[/math]
+কৃতকাজ, [math]\Delta W=?[/math]
+ [math]\\[/math]
+আমরা জানি, [math]\Delta W=P\Delta V[/math]
+ [math]=P(V_2-V_1)[/math]
+আমরা জানি, হিলিয়াম গ্রামআণবিক ভর,[math]\begin{aligned} M & =4 \mathrm{gm} \\ & =1.013 \times 10^{5}(100.2-100) \\ & =20260 \mathrm{~J} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+সমাধান: স্বাভাবিক চাপে কৃতকাজের সূত্র হলো [math]W=P\Delta V[/math]। এখানে [math]P=1.013\times10^5\ \mathrm{Pa}[/math] এবং [math]\Delta V=100.2-100=0.2\ \mathrm{m^3}[/math], তাই [math]W=(1.013\times10^5)(0.2)=2.026\times10^4\ \mathrm{J}[/math] (বিস্তারে গ্যাস কাজ করে, তাই কাজ ধনাত্মক)।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 420414)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি সিলিন্ডারে [math]300K[/math] তাপমাত্রায় ও [math]10^6[/math] Pa চাপে [math]0.001\ m^3[/math] গ্যাস আছে। গ্যাসটিকে প্রথমে সমোষ্ণ প্রসারণ করা হল এবং পরে রুদ্ধতাপীয় প্রক্রিয়ায় আবারও প্রসারণ করা হল, প্রতি ক্ষেত্রেই প্রসারণের অনুপাত [math]1:2[/math] প্রসারণে মোট কাজের পরিমাণ বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Answer : [math]1295.49\ J[/math]
+সমোজ্ঞ প্রসারণে কৃতকাজ [math]W_1 = nRTln\left(\frac{V_2}{V_1} \right)[/math]
+এখন, [math]PV=nRT \Rightarrow n = \frac{PV}{RT} = \dfrac{10^6\times 0.001}{8.314\times 300}=0.4 mole[/math]
+সুতরাং [math]W_1 = nRTln\left(\frac{V_2}{V_1} \right)=0.4\times 8.314 \times 300 ln \left( \frac{2}{1} \right) = 691.54\ J[/math]
+এখন রুদ্ধতাপীয় প্রক্রিয়ায় [math]T_1V_1^{\gamma-1}=T_2V_2^{\gamma-1} \Rightarrow T_2 = T_1 \left( \frac{V_1}{V_2} \right)^{\gamma-1}=300 \times \left( \frac{1}{2} \right)^{1.4-1} = 227.357\ K[/math]
+সুতরাং রুদ্ধতাপীয় প্রক্রিয়ায় কৃত কাজ [math]W_2=\dfrac{nR}{\gamma-1}(T_1-T_2)=\dfrac{0.4\times 8.314}{1.4-1}\times (300-227.357)=603.95\ J[/math]
+সুতরাং মোট কাজ [math]W=W_1 + W_2 = 1295.49\ J[/math]
+ (Ans. )
+
+Explanation:
+গরমসংহিত প্রক্রিয়ায় কাজটি হচ্ছে [math]W_{\rm iso}=p_1V_1\ln\!2=[10^6\times0.001]\ln2=1000\ln2\approx693.1\ \mathrm{J}[/math]. আর রুদ্ধতাপীয় (রিভার্সিবল অ্যাডিয়াব্যাটিক) প্রসারণে কাজ হয় [math]W_{\rm ad}=p_2V_2\frac{1-2^{\,1-\gamma}}{\gamma-1}[/math] এবং এখানে [math]p_2V_2=p_1V_1=1000\ \mathrm{J}[/math], তাই [math]W_{\rm ad}=1000\frac{1-2^{\,1-\gamma}}{\gamma-1}[/math]. ধরা যাক গ্যাসটি বায়ু (গ্রহনযোগ্যভাবে) যেখানে [math]\gamma=1.4[/math], তাহলে [math]W_{\rm ad}\approx605.3\ \mathrm{J}[/math] এবং মোট কাজ [math]W_{\rm tot}\approx693.1+605.3\approx1298.4\ \mathrm{J}\ (\approx1.30\ \mathrm{kJ})[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 420413)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+কার্নো ইঞ্জিনের প্রতি স্তরে সংকোচন বা প্রসারণের অনুপাত [math]1 : 2[/math]। এতে কার্যনির্বাহক বস্তু হিসাবে [math]3\ mole[/math] দ্বিপরমাণুক গ্যাস ব্যবহার করা হলো। [দ্বিপরমাণুক গ্যাসের [math]\gamma = 1.4[/math]]
+
+[Image]
+
+
+Options:
+গ. কার্নো-চক্রের লেখটি [math]A[/math] হতে [math]B[/math] বিন্দুতে আনতে কৃতকাজ হিসাব কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকে লক্ষণীয়, লেখটি [math]\text {A}[/math]
+ থেকে [math]\text {B}[/math]
+ তে পরিবর্তনের ক্ষেত্রে সমোষ্ণ প্রক্রিয়ায় পরিবর্তিত হয়।আবার, প্রতিস্তরে সংকোচন ও প্রসারণের অনুপাত [math]= 1 : 2[/math]
+এখন, [math]\text {A}[/math]
+ থেকে [math]\text {B}[/math]
+ তে আনতে চাপ ও আয়তন যথাক্রমে হ্রাস ও বৃদ্ধি পায়।[math]\therefore[/math]
+ প্রাথমিক আয়তন, [math]\rm{V_{1}=V}[/math]
+ (ধরি)[math]\therefore[/math]
+ চূড়ান্ত আয়তন, [math]\rm{V}_{2}=2 \mathrm{~V}[/math]
+এখন, সমোষ্ণ সম্প্রসারণ প্রক্রিয়ার ক্ষেত্রে কৃতকাজ [math]\rm{W}[/math]
+ হলে,এখানে,[math]\hspace{1 cm}\begin{array}{l} \mathrm{n}=3 \mathrm{~mol} \\ \mathrm{R}=8.316 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \\ \mathrm{T}=(30+273) \mathrm{K}=303 \mathrm{~K} \\ \end{array}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{nRT} \cdot \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\ & =\mathrm{nRT} \cdot \ln \frac{2 \mathrm{~V}_{1}}{\mathrm{~V}^{2}} \\ & =\mathrm{nRT} \cdot \ln 2 \\ & =3 \mathrm{~mol} \times 8.316 \mathrm{~J} \mathrm{mol}^{-1} \mathrm{~K}^{-1} \times 303 \mathrm{~K} \times \ln 2 \\ & =5239.67 \mathrm{~J} \end{aligned}[/math]
+অতএব, কৃতকাজ [math]5239.67 \mathrm{~J}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ A→B হলো উচ্চ তাপে সমতাপীয় প্রসারণ, সমতাপীয় হলে আদ্যন্ত অভ্যন্তরীণ শক্তির পরিবর্তন শূন্য তাই কাজ গ্রহণকৃত তাপের সমান। কাজের সূত্র হল [math]W_{AB}=nRT_H\ln\frac{V_B}{V_A}[/math], এখানে [math]V_B/V_A=2[/math] এবং [math]n=3[/math], ফলে [math]W_{AB}=3RT_H\ln 2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 420412)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি কফিপটে নাড়ানীর সাহায্যে খুব জোরে কফি নাড়া হলো। ফলে কফির আয়তন [math]50 \mathrm{~cm}^{3}[/math] বৃদ্ধি পেল। একই সময়ে কফিপট হতে [math]40\ J[/math] তাপ পরিবহন এবং পরিচলন পদ্ধতিতে নির্গত হলো। বায়ুর চাপ [math]=1 \times 10^{5} \mathrm{Nm}^{-2}[/math]।
+
+Options:
+গ. কফির উপর কতটুকু কাজ করা হলো?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, কফির উপর কৃতকাজের পরিমাণ [math]\rm{dW.}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+আয়তন বৃদ্ধি, [math]\mathrm{dV}=50 \mathrm{~cm}^{3}=50 \times 10^{-6} \mathrm{~m}^{3}[/math]
+ [math]\hspace{1 cm}[/math]
+বায়ুর চাপ, [math]\rm{P}=1 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dW} & =\mathrm{PdV} \\ & =1 \times 10^{5} \mathrm{Nm}^{-2} \times 50 \times 10^{-6} \mathrm{~m}^{3} \\ & =5 \mathrm{~J} \end{aligned}[/math]
+সুতরাং কফির উপর কৃতকাজ [math]5\rm{~J.}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ প্রসারণের ফলে পরিবেশকে কাজ করা হলো, যার পরিমাণ [math]W=P\Delta V=(1\times10^5)(50\times10^{-6})=5\ \text{J}[/math]. প্রশ্নে “কফির উপর কতটুকু কাজ করা হলো?” তাই কফির উপর কাজ হবে নেগেটিভ, অর্থাৎ [math]-5\ \text{J}[/math] (অর্থাৎ কফি নিজে [math]5\ \text{J}[/math] কাজ করেছে পরিবেশের বিরুদ্ধে)।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 420411)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+পিস্টনযুক্ত একটি সিলিন্ডারে কিছু গ্যাস আবদ্ধ আছে। [math]300\ Pa[/math] স্থির চাপে ধীরে ধীরে [math]600\ J[/math] তাপশক্তি সরবরাহ করায় সিস্টেম কর্তৃক সম্পাদিত কাজের পরিমাণ হলো [math]900\ J[/math]।
+
+Options:
+গ. গ্যাসের আয়তনের পরিবর্তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, গ্যাসের আয়তনের পরিবর্তন [math]\rm{dV}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+চাপের পরিমাণ, [math]\rm{P}=300 \mathrm{~Pa}[/math]
+ [math]\hspace{1 cm}[/math]
+সিস্টেম কর্তৃক সম্পাদিত কাজ, [math]\mathrm{dW}=900 \mathrm{~J}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{d W=P d V} \\ \Rightarrow \rm{d V=\dfrac{d W}{P}}=\dfrac{900 \mathrm{~J}}{300 \mathrm{~Pa}} \\ \therefore \rm{~d V}=3 \mathrm{~m}^{3} \end{array}[/math]
+সুতরাং গ্যাসের আয়তনের পরিবর্তন [math]3 \mathrm{~m}^{3} \text {. }[/math]
+
+
+Explanation:
+গ গ্যাসের আয়তন পরিবর্তন ধ্রুভ চাপের ক্ষেত্রে করা কাজে সম্পর্কিত: [math]W=P\Delta V[/math]। তাই [math]\Delta V=\dfrac{W}{P}=\dfrac{900}{300}=3\ \text{m}^3[/math] (কারণ [math]\text{Pa}\cdot\text{m}^3=\text{J}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 420410)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি ইঞ্জিনের সাহায্যে প্রমাণ তাপমাত্রা ও চাপে [math]16\ gm[/math] হাইড্রোজেন গ্যাসের আয়তন সমোষ্ণ ও রুদ্ধতাপীয় প্রক্রিয়ায় দ্বিগুণ করা হলো। ইঞ্জিনটি [math]227^{\circ} \mathrm{C}[/math] এবং [math]0^{\circ} \mathrm{C}[/math] তাপমাত্রায় কার্য সম্পাদন করতে পারে।
+
+Options:
+ঘ. একই পরিমাণ প্রসারণের জন্য উদ্দীপকের আলোকে কোন প্রক্রিয়ায় বেশি কাজ সম্পাদিত হবে তার গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘসমোষ্ণ প্রক্রিয়ার ক্ষেত্রে :এখানে,[math]\hspace{1 cm}\begin{array}{l} \mathrm{n}=\dfrac{16}{2} \text { mole }=8 \\ \mathrm{T}=227^{\circ} \mathrm{C}=500 \mathrm{~K} \\ \mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \\ \mathrm{V}_{2}=2 \mathrm{~V}_{1} \end{array}[/math]
+কৃতকাজ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{nRT}l\rm{n} \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\ & =8 \times 8.31 \times 500 \times \ln \left(\frac{2 \mathrm{~V}_{1}}{\mathrm{~V}_{1}}\right) \mathrm{J} \\ & =23040.2 \mathrm{~J} \end{aligned}[/math]
+রুদ্ধতাপীয় প্রক্রিয়ার ক্ষেত্রে :এখানে,[math]\hspace{1 cm}\begin{array}{l} \rm{T}_{1}=500 \mathrm{~K} \\ \rm{V_{2}=2 V_{1} }\\ \gamma=1.41 \end{array}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{1} \mathrm{~V}_{1}^{\gamma-1} & =\mathrm{T}_{2} \mathrm{~V}_{2}^{\gamma-1}\\ \Rightarrow \quad \mathrm{T}_{2} & =\left(\frac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}\right)^{\gamma-1} \times \mathrm{T}_{1} \\ & =\left(\frac{\mathrm{V}_{1}}{2 \mathrm{~V}_{1}}\right)^{\gamma-1} \times \mathrm{T}_{1} =\left(\frac{1}{2}\right)^{1.41-1} \times 500 \mathrm{~K}\\ \therefore \quad\mathrm{T}_{2}& =376.3 \mathrm{~K} \end{aligned}[/math]
+কৃতকাজ,[math]\hspace{1.5 cm}\begin{aligned}\mathrm{W}^{\prime}&=\frac{\mathrm{nR}}{\gamma -1}\left[\mathrm{T}_1-\mathrm{T}_2\right]=\frac{8\times 8.31}{1.41-1}\times [500-376.3]\\ \therefore \mathrm{~W}^{\prime}&=20057.5\mathrm{~J}\end{aligned}[/math]
+দেখা যাচ্ছে, [math]\mathrm{W}>\mathrm{W}^{\prime}[/math]
+ অর্থাৎ সমোষ্ণ প্রক্রিয়ায় কৃতকাজ রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ অপেক্ষা বেশি। অতএব, একই পরিমাণ প্রসারণের জন্য সমোষ্ণ প্রক্রিয়ায় বেশি কাজ সম্পাদিত হবে।
+
+Explanation:
+ঘ সমাধান: সমোষ্ণ প্রসারণে বেশি কাজ হয়। কারণ সমোষ্ণে কাজ [math]W_{\rm iso}=nRT\ln 2[/math] এবং রুদ্ধতাপীয় ক্ষেত্রে [math]TV^{\gamma-1}=\text{const} \Rightarrow T_f=T_i/2^{\gamma-1}[/math] তাই [math]W_{\rm ad}=nC_v(T_i-T_f)=\frac{nR}{\gamma-1}T_i\big(1-2^{\,1-\gamma}\big)[/math]. তুলনা করলে অনুপাত [math]\frac{W_{\rm iso}}{W_{\rm ad}}=\frac{(\gamma-1)\ln 2}{1-2^{\,1-\gamma}}, এবং ডায়াটমিক হাইড্রোজেনে [math]\gamma=7/5[/math] নিলে অনুপাত ≈[math]1.14>1[/math], তাই সমোষ্ণে কাজ বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 420409)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+তাসিন নিচের লেখচিত্রের চক্রটি বিশ্লেষণ করে বলল, এটি কার্নোর চক্র।
+
+
+[Image]
+
+
+মোলার গ্যাস ধ্রুবক [math]8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math] ।
+
+Options:
+গ. [math]1[/math] মোল আদর্শ গ্যাসের জন্য উদ্দীপকের [math]AB[/math] অংশে কৃতকাজ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের [math]\rm{AB}[/math]
+ অংশের সমোষ্ণ প্রসারণ সংঘটিত হয়েছে।এখানে,[math]\hspace{1 cm}[/math]
+মোল সংখ্যা, [math]\mathrm{n}=1[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক আয়তন, [math]\mathrm{V}_{1}=10 \mathrm{~cm}^{3}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত আয়তন, [math]\mathrm{V}_{2}=20 \mathrm{~cm}^{3}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক তাপমাত্রা, [math]\rm{T}_{1}=434 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]\mathrm{W}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{nRT}_{1} l\rm{n} \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\ & =1 \mathrm{~mol} \times 8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \times 434 \mathrm{~K} \times \ln \frac{20 \mathrm{~cm}^{3}}{10 \mathrm{~cm}^{3}} \\ & =2499.86 \mathrm{~J} \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ সঠিক কারণ চিত্রে AB অংশটি একটি সমতাপীয় (isothermal) প্রসারণ—তাপমাত্রা ধ্রুব থাকায় আদর্শ গ্যাসের অভ্যন্তরীণ শক্তির পরিবর্তন শূন্য, তাই শোষিত তাপ পুরোই কাজ হিসেবে করা হয়। কাজের সূত্র হল [math]W_{AB}=\int_{V_A}^{V_B} p\,dV = nRT_H\ln\frac{V_B}{V_A}[/math], এক মোলের জন্য [math]W_{AB}=RT_H\ln\frac{V_B}{V_A}[/math] (ভলিউম বা চাপের অনুপাতে সংখ্যাগত মান বসালে ফল পাওয়া যাবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 420406)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+STP তে 64 gm হিলিয়াম গ্যাসকে সমোষ্ণ প্রক্রিয়ায় এবং রুদ্ধতাপীয় প্রক্রিয়ায় আলাদা আলাদাভাবে প্রতি ধাপে আয়তন তিনগুণ প্রসারিত করা হলো। ফলে চাপ ও আয়তনের পরিবর্তন হয় এবং কাজ সম্পন্ন হয়। [R = 8.31 JK [math]^{-1}[/math] mol [math]^{-1}[/math], [math]\gamma[/math] = 1.40]
+
+বি.দ্র.: হিলিয়াম গ্যাস এক পরমাণুক হওয়ায় [math]\gamma[/math] = 1.67
+
+Options:
+ঘ. উভয়ক্ষেত্রে কৃতকাজ অভিন্ন হবে কি? গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম ক্ষেত্রে সমোষ্ণ প্রক্রিয়ার জন্য,এখানে,[math]\hspace{1 cm}[/math]
+He গ্যাস এর মোল সংখ্যা [math]n=\frac{64}{4} =16 \mathrm{~mol}[/math]
+ [math]\hspace{1 cm}[/math]
+STP তে তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি আয়তন, [math]V_{1}=V[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত আয়তন, [math]V_{2}=3 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.314 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math]
+আমরা জানি, কৃতকাজ,[math]\hspace{1.5 cm}\begin{array}{l} W_{1}=n R T \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\ \quad ~ =16 \times 8.314 \times 273 \times \ln \left(\frac{3 \mathrm{~V}}{\mathrm{~V}}\right) \\ \quad ~ =39896.7 \mathrm{~J} \end{array}[/math]
+২য় ক্ষেত্রে রুদ্ধতাপীয় প্রসারণের জন্য, nR কৃতকাজ W2 [T₁ - T₂]এখানে,[math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি আয়তন, [math]V_{1}=V[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত আয়তন, [math]\mathrm{V}_{2}=3 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}=?[/math]
+ [math]\hspace{1 cm}\gamma=1.67[/math]
+ (He গ্যাসের জন্য)[math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]W_{2}=\frac{n R}{\gamma-1}\left[T_{1}-T_{2}\right][/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{T}_{1} \mathrm{~V}_{1}^{\gamma-1}=\mathrm{T}_{2} \mathrm{~V}_{2}^{\gamma-1} \\ \Rightarrow \mathrm{T}_{1} \frac{\mathrm{V}_{1}^{\gamma-1}}{\mathrm{~V}_{2}^{\gamma-1}}=\mathrm{T}_{2} \\ \Rightarrow \mathrm{T}_{1}\left(\frac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}\right)^{\gamma-1}=\mathrm{T}_{2}\\ \begin{aligned} \Rightarrow \mathrm{T}_{2} & =273 \times\left(\frac{\mathrm{V}}{3 \mathrm{~V}}\right)^{1.67-1} \\ & =273 \times\left(\frac{1}{3}\right)^{0.67}=130.76 \mathrm{~K}\end{aligned} \end{array}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+He গ্যাস এর মোলসংখ্যা [math]n=\frac{64}{4}=16 \text { mole }[/math]
+ [math]\hspace{1 cm}\begin{array}{l}\mathrm{T}_{1}=273 \mathrm{~K} \\\mathrm{~T}_{2}=130.76 \mathrm{~K} \\ \gamma=1.67 \\ \mathrm{R}=8.314 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}\end{array}[/math]
+এখন,[math]\hspace{1.5 cm}\begin{aligned} W_{2} &=\frac{n R}{\gamma-1}\left[T_{1}-T_{2}\right] \\ &=\frac{16 \times 8.316}{1.67-1}[273-130.76] \\ &=28247.59 \mathrm{~J} \end{aligned}[/math]
+দেখা যাচ্ছে, [math]\mathrm{W}_{1} 
+eq \mathrm{W}_{2}[/math]
+সুতরাং উভয়ক্ষেত্রে কৃতকাজ অভিন্ন হবে না।
+
+Explanation:
+ঘ না — কৃতকাজ সমান নয়। নিহিত: [math]n=64/4=16\ \text{mol}[/math] ও [math]T_{STP}\approx273.15\ K[/math]। সমোষ্ণে: [math]W_{iso}=nRT\ln 3=16\times8.31\times273.15\times\ln3\approx3.99\times10^{4}\ \text{J}[/math]। রুদ্ধতাপীয় (যোগাযোগযোগ্য, [math]\gamma=1.67[/math]) হলে: [math]W_{ad}=\frac{nR\big(T_i-T_f\big)}{\gamma-1}=\frac{nRT_i\big[1-(1/3)^{\gamma-1}\big]}{\gamma-1}\approx2.82\times10^{4}\ \text{J}[/math]। তাই উভয়ের কাজ সমান নয় ও সমোষ্ণে বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 420403)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+তাপ সুপরিবাহী ও অপরিবাহী পদার্থের তৈরি দুটি ঘর্ষণহীন পিস্টনযুক্ত সিলিন্ডারে [math]3 \times 10^{5} \mathrm{~Pa}[/math] চাপে ও 750 K তাপমাত্রায় 1 mol নাইট্রোজেন গ্যাস আছে। অতঃপর উভয় সিলিন্ডারে চাপের পরিমাণ অর্ধেক করা হলো। নাইট্রোজেনের ক্ষেত্রে [math]\gamma=1.4[/math] এবং R = 8.3 1 [math]\mathrm{\ Jmol}^{-1} \mathrm{K}^{-1}[/math]।
+
+Options:
+ঘ. সিলিন্ডারের মধ্যে কৃতকাজের তুলনা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, উভয় গ্যাসের আদি চাপ, [math]P_{0}=3 \times 10^{5} \mathrm{~Pa}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{0}=750 \mathrm{~K}[/math]
+মোল সংখ্যা , n = 1 moleউভয় গ্যাসের শেষ চাপ, [math]\mathrm{P}=\frac{\mathrm{P}_{0}}{2}[/math]
+তাপ সুপরিবাহী সিলিন্ডারে সমোষ্ণ প্রক্রিয়া ঘটে। তাই শেষ তাপমাত্রা, [math]T_{0}= 750 \mathrm{~K}[/math]
+অপরিবাহী সিলিন্ডারে রুদ্ধতাপীয় প্রক্রিয়া ঘটে। তাই শেষ তাপমাত্রা, [math]T=615.25 \mathrm{~K}[/math]
+তাপ সুপরিবাহী সিলিন্ডারের ক্ষেত্রে কৃতকাজ [math]W_{1}=n R T_{0} \ln \left(\frac{V}{V_{0}}\right)[/math]
+ [math]=n R T_{0} \ln \left(\frac{P_{0}}{P}\right)[/math]
+ [ [math]\therefore[/math]
+ PV = ধ্রুবক ][math]=1 \times 8.31 \times 750 \times \ln \left(\frac{P_{0}}{\frac{P_{0}}{2}}\right)=4320 \mathrm{~J}[/math]
+অপরিবাহী সিলিন্ডারের ক্ষেত্রে কৃতকাজ, [math]W_{2}=-n C_{\mathrm{V}}\left(T-T_{0}\right)[/math]
+ [math]\begin{array}{l}=n C_{\mathrm{v}}\left(T_{0}-T\right)[\because d W=-d U) \\=1 \times 3 \times 8.31 \times(750-615.25)\end{array}[/math]
+[ [math]\therefore[/math]
+ নাইট্রোজেনের জন্য [math]C_{V}=3 R[/math]
+ ]=3359.32 J[math]\therefore W_{1}>W_{2}[/math]
+, অর্থাৎ তাপ সুপরিবাহী সিলিন্ডারের ক্ষেত্রে কৃতকাজ বেশি হবে।
+
+Explanation:
+ব্যাখ্যা: তাপ সুপরিবাহী হলে তাপমাত্রা ধ্রুব থাকে, তাই [math]V_2/V_1=P_1/P_2=2[/math] এবং কাজটি হবে [math]W_{\rm iso}=nRT\ln 2=[1\times8.3\times750\ln2]\approx4.31\times10^3\ {\rm J}[/math]. অপরদিকে আদিয়াব্যাটিক প্রক্রিয়ায় [math]V_2/V_1=2^{1/\gamma}\approx1.64[/math], ফলে [math]T_2\approx616\ {\rm K}[/math] এবং [math]W_{\rm ad}=nC_v(T_1-T_2)=\frac{nR}{\gamma-1}(T_1-T_2)\approx2.78\times10^3\ {\rm J}[/math]. তাই সিলিন্ডারে বেশি কাজ করে তাপ সুপরিবাহী (isothermal) প্রক্রিয়া।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 420404)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের ইঞ্জিনের সম্পাদিত কাজের পরিমাণ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকটি রেফ্রিজারেটর ইঞ্জিনের লেখচিত্র প্রকাশ করে।উদ্দীপকে দেখা যায়, যন্ত্রটি নিম্ন তাপমাত্রার বস্তু থেকে তাপ গ্রহণ করে উচ্চ তাপমাত্রার ভাপাধারে তাপ বর্জন করে। এখানে সিস্টেমের উপর কাজ সম্পাদিত হয় যেখানে আমরা জানি, তাপ ইঞ্জিনে সিস্টেম দ্বারা কাজ সম্পাদিত হয়।অর্থাৎ, উদ্দীপকের ইঞ্জিনটি সাধারণ তাপ ইঞ্জিনের বিপরীত বা রেফ্রিজারেটর ইঞ্জিন।রেফ্রিজারেটরের কার্যসম্পাদন সহগ K হলে,এখানে,[math]\hspace{1 cm}[/math]
+উচ্চ তাপমাত্রার তাপাধারের তাপমাত্রা, [math]T_{1}=110^{\circ} \mathrm{C}=(110+273) \mathrm{K}=383 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+নিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+কাজের পরিমাণ, W = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} K & =\frac{T_{2}}{T_{1}-T_{2}} \\ & =\frac{273}{383-273} \\ & =2.48 \end{aligned}[/math]
+আবার, তাপগ্রাহক থেকে গৃহীত তাপ [math]Q_2[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad K=\frac{Q_{2}}{W} \\ \Rightarrow 2.48=\frac{Q_{2}}{W} \\ \Rightarrow W=\frac{Q_{2}}{2.48}=0.4 Q_{2} \end{array}[/math]
+ [math]\therefore[/math]
+ উদ্দীপকের ইঞ্জিনের সম্পাদিত কাজ, [math]W=0.4 Q_{2} J \text { (Ans.) }[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: ইঞ্জিনে সম্পাদিত কাজ প্রথম সূত্র অনুযায়ী শোষিত তাপ ও পরিত্যক্ত তাপের পার্থক্য, তাই [math]W=Q_h-Q_c[/math]। বিকল্পভাবে যদি কার্যকারিতা [math]η[/math] জানা থাকে তাহলে [math]W=ηQ_h[/math] ব্যবহার করে দেওয়া মান বসালে প্রশ্নটিতে প্রদত্ত সংখ্যাসূচক কাজটি পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 420405)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+পরীক্ষাগারে 750 num পারদ চাপে এবং 30°C তাপমাত্রায় পিস্টনযুক্ত দুটি গ্যাস সিলিন্ডারের প্রতিটিতে 2 mol ত্রিপরমাণুক গ্যাস রাখা আছে। উভয় সিলিন্ডারে চাপ অপসারণ করে প্রথম সিলিন্ডারের গ্যাসের আয়তন দ্রুত দ্বিগুণ করা হয়। অপরদিকে দ্বিতীয় সিলিন্ডারে গ্যাসের আয়তন ধীরে ধীরে দ্বিগুণ হয়।
+
+Options:
+ঘ. উভয় সিলিন্ডারে চাপ অপসারণে কৃতকাজ সমান হবে কি? গাণিতিক বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রথম সিলিন্ডারে চাপ অপসারণে গ্যাসের আয়তন দ্রুত দ্বিগুণ অর্থাৎ এটি রুদ্ধতাপীয় প্রক্রিয়া।প্রথম সিলিন্ডারে গ্যাসের আয়তন দ্রুত দ্বিগুণ করা হয়, এজন্য এটি রুদ্ধতাপীয় প্রক্রিয়া।এখানে,[math]\hspace{1 cm}[/math]
+গ্যাসের আদি আয়তন, [math]V_{1}=V[/math]
+ [math]\hspace{1 cm}[/math]
+শেষ আয়তন, [math]V_{2}=2 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা,[math]\hspace{2.5 cm}\begin{array}{l} T_{1}=30^{\circ} \mathrm{C}\\ \quad ~ =(30+273) K\\ \quad ~ ={3 0} {3}\end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]T_{2}=?[/math]
+ [math]\hspace{1 cm}[/math]
+ত্রিপরমাণুক গ্যাসের জন্য, [math]\gamma=1.33[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{array}{l} \quad ~ T_{1} V_{1}^{\gamma-1}=T_{2} V_{2}^{\gamma-1} \\ \Rightarrow T_{1} \frac{V_{1}^{\gamma-1}}{V_{2}^{\gamma-1}}=T_{2} \\ \Rightarrow T_{1}\left(\frac{V_{1}}{V_{2}}\right)^{\gamma-1}=T_{2} \\ \Rightarrow T_{2}=303\left(\frac{V}{2 V}\right)^{1.33-1} \\ \qquad ~~=303\left(\frac{1}{2}\right)^{0.33} \\ \qquad ~~=241.05 \mathrm{~K} \\ \qquad ~~=(241.05-273)^{\circ} \mathrm{C} \\ \qquad ~~=-31.95^{\circ} \mathrm{C} \end{array}[/math]
+ [math]\therefore[/math]
+ প্রথম সিলিন্ডারের চূড়ান্ত তাপমাত্রা [math]-31.95^{\circ} \mathrm{C} \text { (Ans.) }[/math]
+ এখানে,[math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা,[math]\hspace{2.5 cm}\begin{array}{l} \mathrm{T}_{1}=30^{\circ} \mathrm{C}\\ \quad~ =(273+30) \mathrm{K} \\ \quad ~=303 \mathrm{~K} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+মোলসংখ্যা n = 2 mole[math]\hspace{1 cm}[/math]
+ত্রিপরমাণুক গ্যাসের জন্য [math]\gamma = 1.33[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক [math]\mathrm{R}=8.314 \mathrm{kJmol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]\mathrm{W}_{1}=?[/math]
+আমরা জানি, রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{W}_{1}&=\frac{\mathrm{nR}}{\gamma-1}\left[\mathrm{~T}_{1}-\mathrm{T}_{2}\right] \\ & =\frac{2 \times 8.314}{1.33-1}[303-241.05] \\ & =3121.53 \mathrm{~J}\end{aligned}[/math]
+দ্বিতীয় সিলিন্ডারে চাপ অপসারণে গ্যাসের আয়তন ধীরে ধীরে দ্বিগুণ হয়, অর্থাৎ এটি সমোষ্ণ প্রক্রিয়া।এখানে,[math]\hspace{1 cm}[/math]
+তাপমাত্রা,[math]\hspace{2.5 cm}\begin{aligned} \mathrm{T} & =30^{\circ} \mathrm{C} \\ & =(30+273) \mathrm{K} \\ & =303 \mathrm{~K} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি আয়তন, [math]V_{1}=V[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত আয়তন, [math]V_{2}=2 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+মোল সংখ্যা, [math]\mathrm{n}=2 \text { mole }[/math]
+আমরা জানি, সমোষ্ণ প্রক্রিয়ায় কৃতকাজ,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{W}_{2} & =\mathrm{nRT} l_{\mathrm{n}} \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\ &=2 \times 8.314 \times 303 \times \ln \frac{2 \mathrm{~V}}{\mathrm{~V}} \\ &=2 \times 8.314 \times 303 \times \ln 2 \\ &=3492.27 \mathrm{~J} \end{aligned}[/math]
+দেখা যাচ্ছে, রুদ্ধতাপীয় ও সমোষ্ণ প্রক্রিয়ায় কৃতকাজ সমান না।সুতরাং উভয় সিলিন্ডারে চাপ অপসারণে কৃতকাজ সমান হবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ দ্রুত (ফ্রি) বিস্তারে গ্যাস বাইরের চাপের বিরুদ্ধে কাজ করে না, তাই [math]w_{\rm irr}=0[/math]। ধীরে (উপসৌখ্যমূলক) সমতাপ বিস্তারে কাজ হবে [math]w_{\rm rev}=-nRT\ln 2[/math]; এখানে [math]n=2,\ T=30^\circ\mathrm{C}=303\ \mathrm{K}[/math], ফলে [math]w_{\rm rev}\approx -2\times8.314\times303\times\ln2\approx -3.49\times10^{3}\ \mathrm{J}[/math]। তাই উভয় সিলিন্ডারের কৃতকাজ সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 420407)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+তাপ পরিবাহী ও অপরিবাহী পদার্থের তৈরি দুটি ঘর্ষণহীন পিস্টনযুক্ত সিলিন্ডারে [math]2 \times 10^{5} \mathrm{~Pa}[/math] চাপে ও [math]600 \mathrm{~K}[/math] তাপমাত্রায় [math]1 \mathrm{~mol}[/math] হিলিয়াম গ্যাস আছে। পরবর্তীতে উভয় সিলিন্ডারে চাপের পরিমাণ অর্ধেক করা হলো । (হিলিয়ামের ক্ষেত্রে [math]\gamma=1.67[/math] এবং [math]\mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{k}^{-1}[/math])
+
+Options:
+ঘ. সিলিন্ডারদ্বয়ের মধ্যে কোনটির ক্ষেত্রে কৃতকাজ বেশি? যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+প্রাথমিক তাপমাত্রা, [math]\rm{T}_{1}=600 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক চাপ, [math]\mathrm{P}_{1}=2 \times 10^{5} \mathrm{~Pa}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত চাপ, [math]\rm{P_{2}=\dfrac{P_{1}}{2}}[/math]
+ [math]\hspace{1 cm}\gamma=1.67[/math]
+অপরিবাহী সিলিন্ডারে ঘটনাটি রুদ্ধতাপীয় প্রক্রিয়ায় সম্পন্ন হবে।আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad\mathrm{P}_{1}^{1-\gamma} \mathrm{T}_{1}^{\gamma}=\mathrm{P}_{2}^{1-\gamma} \mathrm{T}_{2}^{\gamma}\\ \Rightarrow \left(\dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}\right)^{\gamma}=\left(\dfrac{\mathrm{P}_{1}}{\mathrm{P}_{2}}\right)^{1-\gamma}\\ \Rightarrow \mathrm{T}_{2}=\left(\dfrac{\mathrm{P}_{1}}{\mathrm{P}_{2}}\right)^{\frac{1-\gamma}{\gamma}} \times \mathrm{T}_{1}=\left(\dfrac{\mathrm{P}_{1}}{\mathrm{P}_{1}}\right)^{\frac{1-1.67}{1.67}} \times 600 \mathrm{~K}=454.34 \mathrm{~K}\end{array}[/math]
+অতএব, উদ্দীপক অনুসারে অপরিবাহী সিলিন্ডারের চূড়ান্ত তাপমাত্রা [math]454.34 \mathrm{~K}[/math]
+Iএখানে,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{P}_{2}=\dfrac{\mathrm{P}_{1}}{2} \\ \mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \\ \mathrm{T}=600 \mathrm{~K} \\ \mathrm{n}=1 \mathrm{~mole}\end{array}[/math]
+পরিবাহী সিলিন্ডারের ক্ষেত্রে প্রক্রিয়াটি সমোষ্ণএক্ষেত্রে কৃতকাজ,[math]\hspace{1.5 cm}\begin{aligned} W_{1} & =\rm{n R T \ln \dfrac{P_{1}}{P_{2}}} \\ \Rightarrow \rm{W}_{1} & =1 \times 8.31 \times 600 \times \ln \dfrac{\rm{P}_{1}}{\dfrac{\rm{P}_{1}}{2}} \mathrm{~J} \\ \therefore \mathrm{W}_{1} & =3456.03 \mathrm{~J} \end{aligned}[/math]
+অপরিবাহী সিলিন্ডারটির ক্ষেত্রে প্রক্রিয়াটি রুদ্ধতাপীয়[math]\therefore[/math]
+ এক্ষেত্রে কৃতকাজ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W}_{2} & =\frac{\mathrm{R}}{\gamma-1}\left[\mathrm{~T}_{1}-\mathrm{T}_{2}\right] \\ & =\frac{8.31}{1.67-1}[600-454.34] \mathrm{J}\\ \therefore \mathrm{W}_{2} & =1806.62 \mathrm{~J} \end{aligned}[/math]
+উপরোক্ত গাণিতিক বিশ্লেষণে দেখা যাচ্ছে, [math]\mathrm{W}_{1}>\mathrm{W}_{2}[/math]
+ অর্থাৎ পরিবাহী সিলিন্ডারে কৃতকাজ অপরিবাহী সিলিন্ডারে কৃতকাজ অপেক্ষা বেশি।
+
+Explanation:
+ঘ তাপ পরিবাহী (ইসোথার্মাল) সিলিন্ডারে কৃতকাজ বেশি।  
+ব্যাখ্যা: ইসোথার্মালে [math]W_{\rm iso}=nRT\ln\frac{P_1}{P_2}[/math], তাই [math]W_{\rm iso}=1\times8.31\times600\ln2\approx3.46\times10^3\ \rm J[/math]. অ্যাডিয়াবাটিকে [math]V_2/V_1=2^{1/\gamma}[/math] হলে [math]W_{\rm ad}=(P_1V_1-P_2V_2)/(\gamma-1)\approx1.81\times10^3\ \rm J[/math], সুতরাং ইসোথার্মাল কাজ বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 420408)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+দ্বাদশ শ্রেণির বিজ্ঞান বিভাগের দু'জন শিক্ষার্থী, সুজন ও শৈলী, একটি আদর্শ গ্যাসকে [math]27^{\circ} \mathrm{C}[/math] তাপমাত্রা ও [math]300 \mathrm{~cm}[/math] পারদ চাপে যথাক্রমে সমোষ্ণ ও রুদ্ধতাপীয় প্রক্রিয়ায় গ্যাসের আয়তন অর্ধেক করল। গ্যাসটি দ্বিপরমাণুক ।
+
+Options:
+ঘ. উদ্দীপকের আলোকে সুজন ও শৈলীর মধ্যে কে বেশি কাজ সম্পাদন করবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+প্রাথমিক তাপমাত্রা, [math]\mathrm{T}_{1}=27^{\circ} \mathrm{C}=300 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক আয়তন [math]=\mathrm{V}_{1}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত আয়তন, [math]\rm{V_{2}=\dfrac{V_{1}}{2}}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}=?[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.314 \mathrm{~Jmol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}\gamma=1.41[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{1} \mathrm{~V}_{1}^{\gamma-1} &=\mathrm{T}_{2} \mathrm{~V}_{2}^{\gamma-1}\\ \Rightarrow \quad \rm{T}_{2} & =\rm{\left(\frac{V_{1}}{V_{2}}\right)^{\gamma-1} \times T_{1}} \\ & =\rm{\left(\frac{V_{1}}{\frac{V_{1}}{2}}\right)^{\gamma-1} \times T_{1}} \\ & =2^{1.41-1} \times 300 \mathrm{~K}=398.6 \mathrm{~K} \\ \therefore \quad \rm{T}_{2} &=125.6^{\circ} \mathrm{C} \end{aligned}[/math]
+অতএব, শৈলী কর্তৃক সংঘটিত তাপগতীয় পরিবর্তনে গ্যাসাটির তাপমাত্রা [math]125.6^{\circ} \mathrm{C}[/math]
+ হবে।সুজনের ক্ষেত্রে (সমোষ্ণ প্রক্রিয়ায়) :কৃতকাজ,[math]\hspace{1.5 cm}\mathrm{W}_{1}=\mathrm{nRT}_{1} \ln \dfrac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}=\mathrm{nRT}_{1} \ln \dfrac{\mathrm{V}_{1}}{\frac{\mathrm{V}_{1}}{2}}[/math]
+ [math]\hspace{1.5 cm}\therefore \quad \mathrm{W}_{1}=n \mathrm{RT}_{1} \ln (2)\ldots\ldots\ldots\rm{(i)}[/math]
+শৈলীর ক্ষেত্রে (রুদ্ধতাপীয় প্রক্রিয়ায়) :কৃতকাজ,[math]\hspace{1.5 cm}\mathrm{W}_{2}=\dfrac{\mathrm{nR}\left(\mathrm{T}_{2}-\mathrm{T}_{1}\right)}{\gamma-1} \ldots\ldots\ldots\rm{(ii)}[/math]
+ [math]\rm{(i)}~ও~\rm{(ii)}[/math]
+ করে পাই,[math]\hspace{1.5 cm}\begin{array}{l}\quad\dfrac{\mathrm{W}_{1}}{\mathrm{~W}_{2}}=\mathrm{nRT}_{1} \ln (2) \times \dfrac{\gamma-1}{\mathrm{nR}\left(\mathrm{T}_{2}-\mathrm{T}_{1}\right)}=\dfrac{-\mathrm{T}_{1} \ln (2) \times(\gamma-1)}{\mathrm{T}_{2}-\mathrm{T}_{1}}\\ \Rightarrow \dfrac{\mathrm{W}_{1}}{\mathrm{~W}_{2}}=\dfrac{300 \times \ln (2) \times(1.41-1)}{398.6-300}\\ \Rightarrow \dfrac{\mathrm{W}_{1}}{\mathrm{~W}_{2}}=0.86\end{array}[/math]
+সুতরাং, [math]\dfrac{\mathrm{W}_{1}}{\mathrm{~W}_{2}}<1[/math]
+বা, [math]\mathrm{W}_{1}<\mathrm{W}_{2}[/math]
+ অর্থাৎ শৈলী কর্তৃক কৃতকাজ সুমন কর্তৃক কৃতকাজ অপেক্ষা বেশী।অতএব, উদ্দীপক অনুসারে শৈলী বেশি কাজ সম্পাদন করবে।
+
+Explanation:
+ব্যাখ্যা: ঘ সমোষ্ণে কাজের পরিমাণ হলো [math]W_{\rm iso}=nRT\ln\frac{V_f}{V_i}=nRT\ln\frac{1}{2}=-nRT\ln 2[/math] তার পরিমাপমূল্য [math]nRT\ln2\approx 0.693\,nRT[/math]. রুদ্ধতাপীয় হলে [math]Q=0[/math], তাই [math]W=\Delta U=nC_V(T_f-T_i)[/math] এবং [math]T_f=T_i\left(\frac{V_i}{V_f}\right)^{\gamma-1}=T_i2^{\gamma-1}[/math] যেখানে দ্বিপরমাণুর জন্য [math]\gamma=7/5[/math], [math]C_V=\tfrac{5}{2}R[/math]. তাই [math]W_{\rm ad}=n\frac{5}{2}R T_i(2^{0.4}-1)\approx 0.799\,nRT[/math], যা [math]0.799>0.693[/math] হওয়ায় রুদ্ধতাপীয় প্রক্রিয়ায় (শৈলীর ক্ষেত্রে) বেশি কাজ সম্পাদিত হয়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 420402)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+ 
+
+চিত্রে P – V লেখচিত্র দ্বারা একটি চক্রীয় প্রক্রিয়া দেখানো হয়েছে।
+
+এখানে, A বিন্দুতে তাপমাত্রা = 300 K
+
+স্থির আয়তনে মোলার আঃতাপ [math]=20.78 \mathrm{Jmol}^{-1} \mathrm{~K}^{-1}[/math]
+
+মোল সংখ্যা = 1.6
+
+[math]\gamma=1.4[/math] এবং [math]1 \mathrm{~atm}=10^{5} \mathrm{Nm}^{-2}[/math]
+
+Options:
+গ. AB পথে কৃতকাজের মান নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গচিত্রে প্রদর্শিত P – V লেখটিতে A হতে B বিন্দুতে গ্যাসটি সমোষ্ণ প্রক্রিয়ায় সংকুচিত হয়। এক্ষেত্রে A বিন্দুতে গ্যাসটির চাপ ও আয়তন যথাক্রমে 2. atm ও 20 L এবং B বিন্দুতে গ্যাসটির চাপ ও আয়তন যথাক্রমে 4 atm 3 10 L।এখানে,মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.31 \mathrm{~J} \cdot \mathrm{mol}^{-1} \cdot \mathrm{K}^{-1}[/math]
+তাপমাত্রা, [math]\mathrm{T}_{1}=300 \mathrm{~K}[/math]
+অবস্থানে আয়তন, [math]V_{1}=20 \mathrm{~L}[/math]
+B অবস্থানে আয়তন, [math]\mathrm{V}_{2}=10 \mathrm{~L}[/math]
+মোল সংখ্যা, [math]\mathrm{n}=1.6 \text { mole }[/math]
+আমরা জানি,সমোষ্ণ প্রক্রিয়ায় কৃতকাজ,[math]\begin{aligned}{\mathrm{W}} & =-\mathrm{nRT}_{1} \ln \left(\frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}\right) \\& =-1.6 \times 8.31 \times 300 \times \ln \left(\frac{10}{20}\right)\end{aligned}[/math]
+ [math]=-2764.82 \mathrm{~J}[/math]
+ [ সিস্টেমের ওপর কাজ সম্পাদিত হওয়ায় কাজ ঋণাত্মক হবে ][math]\therefore 1.6 \text { mole }[/math]
+ গ্যাসের জন্য AB অংশে কৃতকাজ [math]=-2764.82 \mathrm{~J} \text { (Ans.) }[/math]
+
+
+Explanation:
+গ AB পথে কৃতকাজ হল P–V লেখচিত্রের নিচের ক্ষেত্রফল, অর্থাৎ [math]W=\int_{V_A}^{V_B}P\,dV[/math]; যদি AB ইসোথার্মাল হয় তখন [math]W=nRT\ln\frac{V_B}{V_A}[/math], আর যদি AB অ্যাডিয়াবেটিক হয় তাহলে [math]W=\frac{P_A V_A-P_B V_B}{\gamma-1}=nC_V(T_A-T_B)[/math]। সংখ্যাগত মান পেতে V বা P এর A ও B বিন্দুর মান (বা T_B) দরকার — অনুগ্রহ করে গ্রাফ থেকে সেই মানগুলো দেবেন যাতে আমি নির্দিষ্ট মানটি গণনা করতে পারি।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 420401)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+আদর্শ তাপমাত্রা ও চাপে একটি সিলিন্ডারে এক মোল হিলিয়াম গ্যাস রাখা আছে। পরবর্তীতে উক্ত হিলিয়ামের আয়তন প্ৰথমে সমোষ্ণ প্রক্রিয়ায় এবং পরে রুদ্ধতাপীয় প্রক্রিয়ায় 1.5 গুণ করা হলো।
+
+Options:
+ঘ. উদ্দীপক অনুযায়ী কোন প্রক্রিয়ায় বেশি কাজ সম্পন্ন হয়েছে? গাণিতিক বিশ্লেষণের মাধ্যমে বুঝিয়ে দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,তাপমাত্রা, T = 273 Kআদি আয়তন, [math]\mathrm{V}_{1}=\mathrm{V}[/math]
+চূড়ান্ত আয়তন, [math]\mathrm{V}_{2}=1.5 \mathrm{~V}[/math]
+মোল সংখ্যা, n = 1 moleআমরা জানি,সমোষ্ণ প্রক্রিয়ায় কৃতকাজ,[math]\begin{array}{l}{\mathrm{W}}_{1}=\mathrm{nRT} \operatorname{In} \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\=1 \times 8.314 \times 273 \times \ln \frac{1.5 \mathrm{~V}}{\mathrm{~V}} \\=1 \times 8.314 \times 273 \times \ln 1.5 \\=920.29 \mathrm{~J}\end{array}[/math]
+আবার, রুদ্ধতাপীয় প্রক্রিয়ার ক্ষেত্রে তাপমাত্রা ও আয়তনের সূত্র হতে আমরা পাই,[math]\mathrm{T}_{1} \mathrm{~V}_{1}^{\gamma-1}=\mathrm{T}_{2} \mathrm{~V}_{2}^{\gamma-1}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\mathrm{T}_{1} \times\left(\frac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}\right)^{\gamma-1}[/math]
+ [math]\begin{array}{l}=273 \times\left(\frac{\mathrm{V}}{1.5}\right)^{1.67-1} \\=273 \times\left(\frac{1}{1.5}\right)^{0.67}=208.06 \mathrm{~K}\end{array}[/math]
+এখানে,আদি তাপমাত্রা, [math]\mathrm{T}_{1}=273 \mathrm{~K}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}=208.06 \mathrm{~K}[/math]
+মোলসংখ্যা, [math]\mathrm{n}=1 \text { mole }[/math]
+ [math]\gamma=1.67[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8: 314 \mathrm{\ kJmol}^{-1} \mathrm{~K}^{-1}[/math]
+কৃতকাজ, [math]\mathrm{W}_{2}=?[/math]
+আমরা জানি,রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ,[math]\begin{array}{l}\mathrm{W}_{2}=\frac{\mathrm{nR}}{\gamma-1}\left[\mathrm{~T}_{1}-\mathrm{T}_{2}\right] \\=\frac{1 \times 8.314}{1.67-1}[273-208.06] \\=805.84 \mathrm{~J}\end{array}[/math]
+ [math]\therefore \mathrm{W}_{1}>\mathrm{W}_{2}[/math]
+, অর্থাৎ সমোষ্ণ প্রক্রিয়ায় বেশি কাজ সম্পন্ন হয়েছে ।
+
+Explanation:
+ঘ কারণ সমোষ্ণ প্রসারণে কাজ বেশি হয়। সমোষ্ণে: [math]W_{iso}=nRT\ln r[/math] যেখানে [math]r=V_f/V_i=1.5[/math]; সুতরাং [math]W_{iso}=RT\ln1.5\approx0.4055\,RT[/math]. রুদ্ধতাপীয়তে (γ=5/3, [math]C_v=3R/2[/math]): [math]W_{ad}=nC_vT\left(1-r^{-(\gamma-1)}\right)=\tfrac{3}{2}RT\left(1-1.5^{-2/3}\right)\approx0.356\,RT[/math], তাই [math]W_{iso}>W_{ad}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 420400)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\begin{array}{l}1 \mathrm{~atm}=10^{5} \mathrm{Nm}^{-2} \\\gamma=1.4\end{array}[/math]
+
+D বিন্দুতে তাপমাত্রা
+
+= 330 K
+
+Options:
+গ. DB সংকোচনে কৃতকাজের মান নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গলেখচিত্র থেকে পাওয়া যায়, D বিন্দুতে চাপ [math]P_{D}=2 \mathrm{~atm}=2 \times 10^{5} \mathrm{~Pa}[/math]
+,আয়তন, [math]V_{D}=1000 \mathrm{~m}^{3}[/math]
+ এবং B বিন্দুতে চাপ, [math]P_{B}=4 \mathrm{~atm}=4 \times 10^{5} pa[/math]
+আয়তন, [math]V_{B}=500 \mathrm{~m}^{3}[/math]
+এখন, [math]P_{D}+V_{D}=2 \times 10^{5} \times 1000=2 \times 10^{8} \mathrm{~J}[/math]
+ এবং [math]P_{B} V_{B}=4 \cdot \times 10^{5}\times 500=2 \times 10^{8} \mathrm{~J}[/math]
+যেহেতু, [math]P_{D} V_{D}=P_{B} {V}_{B}[/math]
+, তাই DB প্রক্রিয়াটি সমোষ্ণ প্রক্রিয়া।DB সংকোচনে কৃতকাজের মান W হলে,এখানে,গ্যাসের মোলসংখ্যা, [math]\mathrm{n}=1 \mathrm{~mole}[/math]
+(ধরে নিয়ে)D বিন্দুতে তাপমাত্রা, [math]\mathrm{T}=330 \mathrm{~K}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.314 \mathrm{~J} \mathrm{~mole}^{-1} \mathrm{~K}^{-1}[/math]
+আদি আয়তন, [math]\mathrm{V}_{1}=1000 \mathrm{~m}^{3}[/math]
+শেষ আয়তন, [math]V_{2}=500 \mathrm{~m}^{3}[/math]
+ [math]\begin{aligned}& W=-n R T \ln \frac{V_{2}}{V_{1}} \\= & -1 \times 8.314 \times 330 \times \ln \frac{500}{1000} \\= & -1901.732 \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+[ সিস্টেমের ওপর কাজ সম্পাদিত হওয়ায় কাজ ঋণাত্মক হবে ]
+
+Explanation:
+গ DB একটি আদিয়াবাটিক সংকোচন, তাই কৃত কাজ অভ্যন্তরীণ শক্তির পরিবর্তনের সমান: [math]W=nC_v(T_D-T_B)[/math] (সংকোচনে কৃত কাজ ধনাত্মক যখন গ্যাসের তাপমাত্রা বাড়ে)।  
+[C_v কে R ও γ দিয়ে প্রকাশ করলে] [math]W=\frac{nR}{\gamma-1}(T_D-T_B)=\frac{P_DV_D-P_BV_B}{\gamma-1}[/math], তাই দেয়া [math]\gamma=1.4[/math], [math]T_D=330\ \text{K}[/math] এবং [math]1\ \text{atm}=10^5\ \text{N/m}^2[/math] ব্যবহার করে উপযুক্ত P, V বা n মান প্রতিস্থাপন করলে সংখ্যাত্মক কাজের মান পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 420399)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. ইঞ্জিন কর্তৃক কৃত কাজের পরিমাণ নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,তাপ উৎসের [math]T_1[/math]
+ = 827 Kতাপ গ্রাহকের তাপমাত্রা, [math]T_2[/math]
+ = 387 Kগৃহীত তাপ, [math]Q_1[/math]
+ = 500 Jইঞ্জিন দ্বারা কৃতকাজ, w = ?ইঞ্জিনের তাপ গ্রাহকে বর্জিত তাপ [math]Q_2[/math]
+ হলেআমরা জানি,[math]\begin{array}{l}\frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\\therefore \mathrm{Q}_{2}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \times \mathrm{Q}_{1} \\\therefore=\frac{387}{827} \times 500=233.98 \mathrm{~J}\end{array}[/math]
+আবার, [math]\mathrm{W}=\mathrm{Q}_{1}-\mathrm{Q}_{2}=(500-233.98) \mathrm{J}=266.021 \mathrm{~J} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ এর কাজ নির্ণয় করতে ছবিতে দেয়া সংখ্যাগত মানগুলো (বল/শক্তি, সরণ/দূরত্ব, গতিবেগ বা উচ্চতার পরিবর্তন ইত্যাদি) প্রয়োজন; সেগুলি absent থাকলে কাজ নির্ণয় করা যাবে না। ছবিটি বা প্রশ্নের সংখ্যাগুলো আপলোড/শেয়ার করুন, তবেই সঠিক কাজের মান এবং সংক্ষিপ্ত হিসাব দেখিয়ে দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 420398)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+ক্লসিয়াস পিস্টন যুক্ত সিলিন্ডারে এক মোল হাইড্রোজেন গ্যাস নিয়ে P-V এর লেখচিত্র নিম্নে প্রদর্শিত চক্রটির অনুরূপ একটির চক্র পেলেন । ক্লসিয়াসের মতে এটি একটি প্রত্যাবর্তী চক্ৰ ।
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপক অনুসারে হাইড্রোজেন গ্যাসকে B হতে C তে আনতে কৃতকাজের পরিমাণ নির্ণয় করো
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,BC পর্যায়ে মোলসংখ্যা, n = 1 molআদি তাপমাত্রা, [math]T_1[/math]
+ = 600Kচূড়ান্ত তাপমাত্রা, [math]T_2[/math]
+ = 400K[math]\gamma=1.4[/math]
+BC অংশ রুদ্ধতাপীয় প্রক্রিয়া হওয়ায় রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ [math]W_{BC}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{W}_{\mathrm{BC}}=\frac{\mathrm{nR}}{\gamma-1}\left(\mathrm{~T}_{1}-\mathrm{T}_{2}\right) \\=\frac{1 \times 8.31}{1.4-1} \times(600-400)=4155 \mathrm{~J}\\\text{(Ans.)}\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: চক্রটিতে B→C অংশটি আদিয়াব্যাটিক (প্রত্যাবর্তী ও নিরোধক) প্রসেস, তাই তাপসঞ্চার [math]Q=0[/math] এবং কাজই অভ্যন্তরীণ শক্তির পরিবর্তন; তাই [math]W_{BC}=ΔU=nC_V(T_B-T_C)[/math]. এক মোল হাইড্রোজেনকে আদর্শ দ্বিপরমাণু গ্যাস ধরে নিলে [math]C_V=\tfrac{5}{2}R[/math] হবে, ফলে [math]W_{BC}=\tfrac{5}{2}R\,(T_B-T_C)[/math] (প্রয়োজনে চিত্র থেকে [math]T_B,T_C[/math] বা অন্যান্য দেওয়া মান বসান)।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 420397)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে গ্যাসের চাপ ও তাপমাত্রার পরিবর্তন দেখানো হয়েছে। এখানে, Q থেকে R এ যেতে তাপগতীয় ব্যবস্থায় 80 J তাপশক্তি সরবরাহ করা হয়েছে।
+
+Options:
+ঘ. উদ্দীপক অনুসারে, PQRP চক্রের প্রতিটি ধাপে কাজের তুলনা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম ধাপে: P থেকে Q অবস্থানে যাওয়ার সময় চাপ স্থির থাকে, তাই এটি সমচাপীয় প্রক্রিয়া।এখানে, P অবস্থানে, আয়তন, [math]V_1[/math]
+ = 4 [math]m^3[/math]
+চাপ, P = 20 PaQ অবস্থানে, আয়তন, [math]V_2 = 8 m^3[/math]
+চাপ, P = 20 Pa 3R অবস্থানে, আয়তন, [math]V_3 = 8 m^3[/math]
+চাপ, [math]P_3[/math]
+ = 40 Paএ প্রক্রিয়ায় কৃতকাজ [math]dW_1[/math]
+ হলে,[math]\begin{aligned}\mathrm{dW}_{1} & =\mathrm{P} \Delta \mathrm{V} \\& =\mathrm{P}\left(\mathrm{V}_{2}-\mathrm{V}_{1}\right) \\& =20(8-4) \\& =20 \times 4 \\& =80 \mathrm{~J}\end{aligned}[/math]
+২য় ধাপে: Q থেকে R অবস্থানে যাওয়ার সময় আয়তন স্থির থাকে, তাই এটি সমআয়তন প্রক্রিয়া। এ প্রক্রিয়ায় কৃতকাজ [math]dW_2[/math]
+ হলে,[math]d W_{2}=P \Delta V \cdot=P\left(V_{3}-V_{2}\right)=P(8-8)=0 J \bar{C}^{2}[/math]
+৩য় ধাপে: R থেকে P অবস্থানে যাওয়ার ক্ষেত্রে কৃতকাজ,এখানে,PS = P1 = 20 PaRT = P = 40 PaST = [math]V_2 - V_1 =(8-4) m^3[/math]
+ [math]\mathrm{dW}_{3}=\int_{\mathrm{v}_{1}}^{\mathrm{v}_{2}} \mathrm{PdV}[/math]
+= RPSTR ট্রাপিজিয়ামের ক্ষেত্রফল[math]\begin{array}{l}=\frac{1}{2}(\mathrm{PS}+\mathrm{RT})(\mathrm{ST}) \\=\frac{1}{2}(20+40) \times 4 \\=120 \mathrm{~J} .\end{array}[/math]
+যেহেতু, R থেকে P তে যেতে আয়তন হ্রাস পায়, তাই কৃতকাজ ঋণাত্মক[math]\therefore dW_3 = - 120 J[/math]
+এখন, শুধু মান নিলে, দেখা যাচ্ছে, [math]dW_3 > dW_1>dW_2.[/math]
+সুতরাং বলা যায়, R থেকে P তে নিতে কৃতকাজ সবচেয়ে বেশি এবং Q থেকে R এ নিতে কৃতকাজ সবচেয়ে কম।
+
+Explanation:
+ঘ PQ ও RP অংশগুলো হল উদ্যত রেখা (স্থির আয়তন), সেক্ষেত্রে কাজ [math]W=\int PdV=0[/math]; QR অংশটি তাপগতীয় (isothermal), আদর্শ গ্যাসের জন্য [math]\Delta U=0[/math] এবং [math]Q=\Delta U+W[/math] থেকে [math]W=Q=80\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 420396)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি লক্ষ্য করো:  
+
+
+[Image]
+
+
+চিত্রে গ্যাসের চাপ ও তাপমাত্রার পরিবর্তন দেখানো হয়েছে। এখানে Q থেকে R এ যেতে তাপগতীয় ব্যবস্থায় 80 J তাপশক্তি সরবরাহ করা হয়েছে।
+
+Options:
+ঘ. উদ্দীপক অনুসারে, PQRP চক্রের প্রতিটি ধাপে কাজের তুলনা করো ৷
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম ধাপে: P থেকে Q অবস্থানে যাওয়ার সময় চাপ স্থির থাকে, তাই এটি সমচাপীয় প্রক্রিয়া।এখানে, P অবস্থানে, আয়তন, [math]V_1[/math]
+ = 4 [math]m^3[/math]
+চাপ, P = 20 PaQ অবস্থানে, আয়তন, [math]V_2 = 8 m^3[/math]
+চাপ, P = 20 Pa 3R অবস্থানে, আয়তন, [math]V_3 = 8 m^3[/math]
+চাপ, [math]P_3[/math]
+ = 40 Paএ প্রক্রিয়ায় কৃতকাজ [math]dW_1[/math]
+ হলে,[math]\begin{aligned}\mathrm{dW}_{1} & =\mathrm{P} \Delta \mathrm{V} \\& =\mathrm{P}\left(\mathrm{V}_{2}-\mathrm{V}_{1}\right) \\& =20(8-4) \\& =20 \times 4 \\& =80 \mathrm{~J}\end{aligned}[/math]
+২য় ধাপে: Q থেকে R অবস্থানে যাওয়ার সময় আয়তন স্থির থাকে, তাই এটি সমআয়তন প্রক্রিয়া। এ প্রক্রিয়ায় কৃতকাজ [math]dW_2[/math]
+ হলে,[math]d W_{2}=P \Delta V \cdot=P\left(V_{3}-V_{2}\right)=P(8-8)=0 J \bar{C}^{2}[/math]
+৩য় ধাপে: R থেকে P অবস্থানে যাওয়ার ক্ষেত্রে কৃতকাজ,এখানে,PS = P1 = 20 PaRT = P = 40 PaST = [math]V_2 - V_1 =(8-4) m^3[/math]
+ [math]\mathrm{dW}_{3}=\int_{\mathrm{v}_{1}}^{\mathrm{v}_{2}} \mathrm{PdV}[/math]
+= RPSTR ট্রাপিজিয়ামের ক্ষেত্রফল[math]\begin{array}{l}=\frac{1}{2}(\mathrm{PS}+\mathrm{RT})(\mathrm{ST}) \\=\frac{1}{2}(20+40) \times 4 \\=120 \mathrm{~J} .\end{array}[/math]
+যেহেতু, R থেকে P তে যেতে আয়তন হ্রাস পায়, তাই কৃতকাজ ঋণাত্মক[math]\therefore dW_3 = - 120 J[/math]
+এখন, শুধু মান নিলে, দেখা যাচ্ছে, [math]dW_3 > dW_1>dW_2.[/math]
+সুতরাং বলা যায়, R থেকে P তে নিতে কৃতকাজ সবচেয়ে বেশি এবং Q থেকে R এ নিতে কৃতকাজ সবচেয়ে কম।
+
+Explanation:
+ঘ ব্যাখ্যা: কাজের মানে হলো [math]\displaystyle W=\int P\,dV[/math], সুতরাং কেবলই সেই ধাপে কাজ হবে যেখানে আয়তন পরিবর্তিত হয়। উদ্দীপকে PQ ধাপটি স্থির আয়তনের (isochoric) হওয়ায় [math]W=0[/math], QR ধাপে চাপ ধ্রুবক রেখে তাপ দেওয়ায় গ্যাস প্রসারিত হয় তাই কাজ ধনাত্মক (বৃহৎ), আর RP ধাপে গ্যাস সংকুচিত হলে কাজ ঋণাত্মক; পুরো চক্রের নেট কাজ হলো PV-ছেষ্টার ভিতরে আবদ্ধ এলাকার মান।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 420395)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Abdul Kadir Molla City College
+--------------------------------------------------------------------------------
+Question:
+চিত্রে [math]n[/math] মোল আদর্শ গ্যাসের আয়তনের সাথে চাপের পরিবর্তন দেখানো হয়েছে। যেখানে প্রাথমিক আয়তন, [math]V_{1}=100 \mathrm{cc}[/math], প্রাথমিক চাপ, [math]P_{1}=1.01 \times 10^{5} \mathrm{~Pa}[/math], চূড়ান্ত চাপ, [math]P_{2}=3 \times 10^{5} \mathrm{~Pa}[/math]
+
+[Image]
+
+
+Options:
+ক. তাপের যান্ত্রিক তুল্যাঙ্ক কী?
+খ. প্রেট্রোল ইঞ্জিন গ্রীষ্ম কালের তুলনায় শীতকালে কিছুটা বেশি কার্যকর— কার্ণো ইঞ্জিনের নীতির আলোকে ব্যাখ্যা কর ।
+গ. উদ্দীপকের আলোকে চূড়ান্ত আয়তন নির্ণয় কর।
+ঘ. লেখচিত্রে প্রদর্শিত গ্যাসের প্রসারণের ক্ষেত্রে কৃত কাজের গাণিতিকভাবে বিশ্লেষণ দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+কএক একক তাপ উৎপন্ন করতে যে পরিমাণ কাজ করতে হয় বা এক একক তাপ দ্বারা যে পরিমাণ কাজ করা যায়, তাকে তাপের যান্ত্রিক তুল্যাঙ্ক বলে ।খআমরা জানি, কার্নো ইঞ্জিনের দক্ষতা, [math]\eta=\left(1-\frac{T_{2}}{T_{1}}\right) \times 100 \%[/math]
+উপরোক্ত সম্পর্ক অনুসারে, [math]T_2[/math]
+ যত কম হবে ইঞ্জিনের দক্ষতা তত বৃদ্ধি পাবে। শীতকালে পরিবেশ তথা তাপগ্রাহকের তাপমাত্রা গ্রীষ্মকাল অপেক্ষা হ্রাস পায় তাই উপরোক্ত সম্পর্ক অনুসারে ইঞ্জিনের দক্ষতা বৃদ্ধি পায়। অতএব, কার্নো ইঞ্জিনের নীতি অনুসারে এটি স্পষ্ট পেট্রোল ইঞ্জিন গ্রীষ্মকালের তুলনায় শীতকালে কিছুটা বেশি কার্যকর।গউদ্দীপক হতে,[math]\begin{aligned}\mathrm{P}_{1} & =1.01 \times 10^{5} \mathrm{~Pa} \\\mathrm{~V}_{1} & =100 \mathrm{cc} \\& =100 \times 10^{-6} \mathrm{~m}^{3} \\\mathrm{P}_{2} & =3 \times 10^{5} \mathrm{~Pa} \\\mathrm{~V}_{2} & =?\end{aligned}[/math]
+আমরা জানি, প্রক্রিয়ার ক্ষেত্রে[math]P_{1} V_{1}=P_{2} V_{2}[/math]
+বা, [math]V_{2}=\frac{P_{1}}{P_{2}} \times V_{1}[/math]
+বা, [math]V_{2}=\frac{1.01 \times 10^{5} \mathrm{~Pa}}{3 \times 10^{5} \mathrm{~Pa}} \times 100 \times 10^{-6} \mathrm{~m}^{3}[/math]
+বা, [math]V_{2}=33.67 \mathrm{~m}^{3} \times 10^{-6} \mathrm{~m}^{3}[/math]
+ [math]V_2 = 33.67 cc[/math]
+সুতরাং [math]V_2[/math]
+ এর মান 33.67 ccঘলেখচিত্রে প্রদর্শিত গ্যাসের অর্থাৎ আদর্শ গ্যাসের প্রসারণের ক্ষেত্রে কৃত কাজের রাশিমালা নিচে গাণিতিকভাবে বিশ্লেষণ করা হলো- উদ্দীপকের লেখচিত্র হতে দেখা যাচ্ছে যে গ্যাসের প্রসারণের সময় তাপমাত্রা স্থির আছে। যেহেতু তাপমাত্রা স্থির সেহেতু সিস্টেমের অন্তঃস্থ শক্তির কোনো পরিবর্তন হবে না । অর্থাৎ, [math]\Delta[/math]
+U = 0 হবে ।তাপগতিবিদ্যার প্রথম সূত্রানুসারে,[math]Q = dU + W[/math]
+ [math]\therefore Q = W[/math]
+ সমোষ্ণ প্রক্রিয়ায় গ্যাসের অবস্থা [math](V_1, P_1)[/math]
+ হতে পরিবর্তিত হবে [math](V_2, P_2)[/math]
+হলে কৃতকাজ হবে, [math]\mathrm{W}=\int_{V_{i}}^{V^{2}} P d V[/math]
+..................... (১)কিন্তু আদর্শ গ্যাসের ক্ষেত্রে,[math]PV = nRT[/math]
+ [যেহেতু উদ্দীপকে n মোল আদর্শ গ্যাসের কথা বলা হয়েছে][math]\therefore \quad \mathrm{P}=\frac{\mathrm{nRT}}{\mathrm{V}}[/math]
+ ....................(২)P এর মান (১) নং সমীকরণে বসিয়ে পাই,[math]\mathrm{W}=\int_{\mathrm{V}_{1}}^{\mathrm{V}^{2}} \frac{\mathrm{nRT}}{\mathrm{V}} \mathrm{dV}[/math]
+বা, [math]\mathrm{W}=\mathrm{nRT} \int_{\mathrm{v}_{1}}^{\mathrm{V}^{2}} \frac{\mathrm{dV}}{\mathrm{V}}[/math]
+বা, [math]\mathrm{W}=\mathrm{nRT}\left[\log _{\mathrm{e}}\mathrm{V}\right]_{\mathrm{V}_{1}}^{\mathrm{V}^{2}}[/math]
+বা, [math]\mathrm{W}=\mathrm{nRT}\left[\log \mathrm{V}_{2}-\mathrm{V}_{1}\right][/math]
+ [math]\therefore\mathrm{W}=\mathrm{nRT} \log \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}[/math]
+..............( ৩ )(৩) নং সমীকরণই হলো লেখচিত্রে প্রদর্শিত n মোল আদর্শ গ্যাসের প্রসারণের ক্ষেত্রে কৃতকাজের রাশিমালা ।
+
+Explanation:
+ক তাপের যান্ত্রিক তুল্যাঙ্ক হল ১ ক্যালরি = [math]4.186\ \text{J}[/math] (প্রায় [math]4.18\ \text{J}[/math])।  
+
+খ কার্ণো নীতিতে দক্ষতা [math]\eta=1-\dfrac{T_C}{T_H}[/math]; শীতকালে বাইরের (ঠান্ডা) তাপমাত্রা [math]T_C[/math] কম থাকে, ফলে [math]\eta[/math] বড় হয় — তাই একই ইঞ্জিন শীতকালে সামান্য বেশি কার্যকর।  
+
+গ যদি গ্যাসটি সমতাপ (isothermal) ধাপে থাকে, তাহলে [math]P V=\text{const}[/math] থেকে [math]V_2=\dfrac{P_1V_1}{P_2}=\dfrac{1.01\times10^5\times100}{3\times10^5}=33.67\ \text{cc}[/math]।  
+
+ঘ isothermal কাজ হল [math]W=\int_{V_1}^{V_2}P\,dV=nRT\ln\frac{V_2}{V_1}=P_1V_1\ln\frac{V_2}{V_1}[/math]. এখানে [math]P_1V_1=1.01\times10^5\times100\times10^{-6}=10.1\ \text{J}[/math], তাই [math]W=10.1\ln\frac{33.67}{100}=10.1\ln(0.3367)\approx-11.0\ \text{J}[/math] (ঋণাত্মক মানে গ্যাসের উপর কাজ করা হয়েছে, অর্থাৎ সংকোচন)।
+
+Sub-Questions:
+

@@ -1,0 +1,808 @@
+================================================================================
+Question #1 (ID: 412387)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Rangpur Govt. College
+--------------------------------------------------------------------------------
+Question:
+যে কোন মুহূর্তে একটি কণার গতির সরণ [math]y=a\sin \ \omega t+b\ \cos \ \omega t[/math]।
+
+Options:
+ঘ. যদি [math]a = 5\ m[/math] এবং [math]b=5\sqrt{3}\ m[/math] তবে কণাটির বিস্তার নির্ণয় করা সম্ভব কিনা? গাণি তিক বিশ্লেষণের মাধ্যমে তোমার মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, [math]\mathrm a=\mathrm A \cos \delta[/math]
+এবং [math]\mathrm b =\mathrm A \sin \delta[/math]
+ [math]\begin{aligned}\therefore\quad\mathrm {y}&=\mathrm{a\sin\omega t+b\cos\omega t}\\&=\mathrm{a\sin\omega t\cos\delta+A\cos\omega t}\sin\delta\\&=\mathrm{A\sin(\omega t+\delta)}\end{aligned}[/math]
+অর্থাৎ, এখানে A সরল ছন্দিত স্পন্দন গতিটির বিস্তার ।এখন, [math]\mathrm{a^2+b^2}=\mathrm A^2\left(\cos^2\delta+\sin^2\delta\right)=\mathrm{A^2}[/math]
+ [math]\begin{aligned}\Rightarrow\mathrm A^{2} & =a^{2}+b^{2} \\\Rightarrow\mathrm A & =\sqrt{a^{2}+b^{2}} \\& =\sqrt{5^{2}+5(\sqrt{3})^{2}} \\& =\sqrt{25+75} \\& =10\end{aligned}[/math]
+ [math]\therefore[/math]
+ কণাটির সরল ছন্দিত স্পন্দন গতির বিস্তার 10m. [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ হ্যাঁ—কণাটির বিস্তার (অ্যামপ্লিটিউড) নির্ণয় করা যায়; [math]A=\sqrt{a^{2}+b^{2}}=\sqrt{5^{2}+(5\sqrt{3})^{2}}=\sqrt{25+75}=\sqrt{100}=10\ \text{m}[/math]. কারণ [math]a\sin\omega t+b\cos\omega t[/math] একক ফেজ সহ একটি সাইনোজয়ডে রূপান্তর করা যায়, তাই অ্যামপ্লিটিউড [math]\sqrt{a^{2}+b^{2}}[/math] হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 412388)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Rangpur Govt. College
+--------------------------------------------------------------------------------
+Question:
+যে কোন মুহূর্তে একটি কণার গতির সরণ [math]y=a\sin \ \omega t+b\ \cos \ \omega t[/math]।
+
+Options:
+গ. উদ্দীপকের কণাটির গতি সরল ছন্দিত স্পন্দন হবে কিনা? দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+গকণাটির গতির সরণ, [math]\mathrm y=\mathrm{a\sin\omega t+b}[/math]
+ [math]\therefore[/math]
+ বেগ, [math]\mathrm y=\mathrm{\frac{dy}{dt}}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}=\mathrm{\frac{d}{dt}(a\sin\omega t+b\cos\omega t)}\\=\mathrm{a\omega\cos\omega t-b\omega\sin\omega t}\end{array}[/math]
+আবার,ত্বরণ, [math]\mathrm{f}=\frac{\mathrm{dv}}{\mathrm{dt}}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}=\mathrm{\frac{d}{dt}(a\omega\cos\omega t-b\omega\sin\omega t)}\\=-\mathrm{a\omega^2\sin\omega t-b\omega^2\cos\omega t}\\=-\mathrm{\omega^2(a\sin\omega t+b\cos\omega t)}\end{array}[/math]
+ [math]\begin{array}{l}\Rightarrow f=-\omega^2\mathrm y\\\therefore f\propto-\mathrm{y}\end{array}[/math]
+এটা সরল ছন্দিত স্পন্দনের শর্ত ।[math]\therefore[/math]
+ উদ্দীপকের বর্ণিত কণাটির গতি সরল ছন্দিত গতি [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+গ কণার স্থান [math]y=a\sin\omega t+b\cos\omega t[/math]. তাই [math]\dot y=a\omega\cos\omega t-b\omega\sin\omega t[/math] এবং [math]\ddot y=-a\omega^2\sin\omega t-b\omega^2\cos\omega t=-\omega^2 y[/math], ফলে [math]\ddot y+\omega^2 y=0[/math] হয়। অতএব গতি সরল ছন্দিত স্পন্দন (SHM) হবে, কোণীয় ফ্রিকোয়েন্সি [math]\omega[/math] এবং পরাবৃত্তির অ্যামপ্লিটিউড [math]\sqrt{a^2+b^2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 412391)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+সরল ছন্দিত গতিসম্পন্ন কণার ত্বরণ সরণের বিপরীতমুখী-ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+[Image]
+ধরা যাক, m ভরের একটি বস্তুকণা [math]\mathrm{X}_{1}[/math]
+ এবং [math]\mathrm{X}_{1}[/math]
+ সীমার মধ্যে সরল ছন্দিত গতিতে স্পন্দনশীল (চিত্র) এবং O হচ্ছে তার সাম্যাবস্থান। F বল তার উপর ক্রিয়াশীল। যখন কণাটির সাম্যাবস্থানের ডানে তখন বল ক্রিয়া করছে তার বাম দিকে অর্থাৎ, O বিন্দুর দিকে আর যখন কণাটি O বিন্দুর বাম পাশে তখন বল ক্রিয়া করছে ডান দিকে অর্থাৎ, সাম্যাবস্থার দিকে।সাম্যাবস্থায় বলের মান শূন্য। এখন বস্তুটিকে সাম্যাবস্থান থেকে সামান্য টেনে ছেড়ে দিলে প্রত্যয়নী বল একে পুনরায় সাম্যাবস্থানে নিয়ে আসবে কিন্তু সাম্যাবস্থানে এসে গতি জড়তার কারণে বস্তুটি থামতে পারবে না, বিপরীত দিকে চলে যাবে। এভাবে বস্তুটি বিরামহীনভাবে সাম্যাবস্থানের উভয় পাশে দুলতে থাকে এবং সরল দোল গতির সৃষ্টি হয়। এই প্রত্যয়নী বল সর্বদা কণাটিকে সাম্যাবস্থায় আনতে ত্বরণ দেয় এবং সময়ের সাথে সাথে এ বলের মান ও দিক উভয়েরই পরিবর্তন ঘটে। গাণিতিকভাবে সরল ছন্দিত স্পন্দনের ক্ষেত্রে,[math]F \propto-x[/math]
+ [math]\Rightarrow \mathrm{ma} \propto-\mathrm{x}[/math]
+ [math]\Rightarrow a \propto-x[/math]
+[ [math]\therefore[/math]
+ m = ধ্রুব ]অর্থাৎ, সরল ছন্দিত গতিসম্পন্ন কণার ত্বরণ সাম্যাবস্থান থেকে কণাটির সরণের সমানুপাতিক ও বিপরীতমুখী।
+
+Explanation:
+কারণ সরল ছন্দিত গতিতে পুনঃপ্রাপ্ত বল স্থানচ্যুতি [math]x[/math] এর অনুপাতিক কিন্তু বিপরীত দিকের, অর্থাৎ [math]F=-kx[/math]; তাই [math]a=F/m=-\frac{k}{m}x=-\omega^2 x[/math], যা দেখায় ত্বরণ সবসময় সরণের বিপরীতমুখী এবং সমতলরেখার দিকে কাজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 412392)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+কম্পনশীল সুরশলাকার বাহুর স্পন্দন একটি সরল ছন্দিত স্পন্দন- ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, কোনো বস্তু কণার গতি যদি পর্যাবৃত্ত গতি হয়, স্পন্দন গতি হয়, সরলরৈখিক গতি হয়, ত্বরণ সাম্যাবস্থান থেকে এর সরণের সমানুপাতিক হয় এবং ত্বরণ সর্বদাই সাম্যাবস্থান অভিমুখী হয়, তাহলে তার গতিকে সরল ছন্দিত স্পন্দন গতি বলে। কম্পনশীল সুরশলাকার ক্ষেত্রেও দেখা যায়, এটি পর্যাবৃত্ত ও স্পন্দন গতি, গতিপথ সরলরৈখিক, ত্বরণ সরণের সমানুপাতিক ও দিক বিপরীত। অর্থাৎ সরল ছন্দিত স্পন্দন গতির সব বৈশিষ্ট্যই কম্পনশীল সুরশলাকার মধ্যে বিদ্যমান থাকায় কম্পনশীল সুরশলাকার বাহুর স্পন্দন সরল ছন্দিত স্পন্দন।
+
+Explanation:
+কম্পনশীল সুরশলাকার বাহুর ক্ষুদ্র কম্পনের ক্ষেত্রে ইলাস্টিক পুনরুদ্ধার টর্ক সরণ বা কোণের সাথে সমানুপাতিক থাকে, তাই [math]\tau=-k\theta[/math] ও গতি সমীকরণ থেকে [math]I\ddot{\theta}+k\theta=0[/math] পাওয়া যায়। এই সমীকরণটি সরল ছন্দিত স্পন্দনের মানক রূপ; ত্বরণ সরণের নেগেটিভ অনুপাতিক হওয়ায় স্পন্দনটি সরল ছন্দিত এবং কম্পাঙ্ক হবে [math]\omega=\sqrt{k/I}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 412393)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+সরল ছন্দিত গতিতে গতিশীল কণার বেগ শূন্য হলেও ত্বরণ থাকতে পারে— ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বাহ্যিক বল প্রয়োগ না করা হলে সরল ছন্দিত গতিতে গতিশীল কণা আজীবন একই গতিপথে একইভাবে গতিশীল থাকবে। কাজেই, সরল ছন্দিত গতিতে গতিশীল কোনো কণার বেগ শূন্য হলে ত্বরণ শূন্য হওয়া সম্ভব না। কারণ সেক্ষেত্রে, কণাটির গতি-ই রুদ্ধ হবে; কণাটি স্থির হয়ে যাবে। সরল ছন্দিত গতিতে গতিশীল কণা, যেমন সরলদোলকের বব, যখন তার বিস্তার বা সর্বোচ্চ সরণ সম্পন্ন করে। তখন তার বেগ 0 হয়। কিন্তু সে সময়-ই সাম্যাবস্থার দিকে একটি প্রত্যয়নী বল কাজ করে যার জন্য ববটি আবার সাম্যাবস্থান-এর দিকে যাত্রা শুরু করে। কাজেই, সরল ছন্দিত গতিতে গতিশীল কণার বেগ শূন্য হলেও ত্বরণ থাকতে পারে।
+
+Explanation:
+সরল ছন্দিত গতিতে ত্বরণ সরাসরি স্থানবিচ্যুতি উপর নির্ভর করে, বাস্তবে [math]a=-\omega^2 x[/math]। ফলে ধরা যাক কণা এসে অম্প্লিটিউডে থেমে গেলে বেগ শূন্য হলেও স্থানবিচ্যুতি সর্বাধিক হওয়ায় ত্বরন [math]-\omega^2 A[/math] নয়—শূন্য নয়—থেকে ফিরে কেন্দ্রদিকে চালিত করে।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 412394)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]x=A \sin (\omega t+\delta)[/math] সমীকরণ ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি,সরল দোলন গতির সরণের সমীকরণ, [math]x=A \sin (\omega t+\delta)[/math]
+এখানে, x = সরণA = বিস্তার[math]\omega[/math]
+ = কৌণিক কম্পাঙ্কt = সময়[math]\delta[/math]
+ = দশা ধ্রুবক
+
+Explanation:
+এই সমীকরণটি একটি সরল হারমোনিক কম্পন (SHM) নির্দেশ করে; এখানে [math]A[/math] হল কম্পনের সর্বোচ্চ অম্প্লিটিউড, [math]\omega[/math] হল কোণীয় কম্পন হার এবং [math]\delta[/math] হল প্রাথমিক পর্যায়ের ধাপ। এটি সত্য কারণ [math]x=A\sin(\omega t+\delta)[/math] হলো ডিফারেনশিয়াল সমীকরণ [math]\ddot x+\omega^2 x=0[/math] এর সাধারণ সমাধান, যা সময়ের সাথে সাইনুসয়েডাল স্থানচ্যুতি দেয়। কম্পনের অবর্তমানে সময়কাল ও ফ্রিকোয়েন্সি হল [math]T=2\pi/\omega[/math] এবং [math]f=\omega/(2\pi)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 412395)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022-2023 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+একটি সরল দোল গতিসম্পন্ন বস্তুর ব্যবকলনীয় সমীকরণ লিখ।
+
+দেখাও যে [math]x=A \sin (\omega t+\varphi)[/math] উক্ত সমীকরণের একটি সমাধান।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+একটি সরল দোল গতিসম্পন্ন বস্তুর ব্যবকলনীয় সমীকরণ হচ্ছে,[math]\frac{d^{2} x}{d t^{2}}+\omega^{2} x=0[/math]
+...............(i)[math]x=A \sin (\omega t+\varphi)[/math]
+ যে সরল দোল গতির ব্যবকলনীয় গতির একটি সমাধান তা নিম্নোক্ত উপায়ে বের করে করতে পারি।[math]\begin{array}{l}x=A \sin (\omega t+\varphi) \Rightarrow \frac{d x}{d t}=\omega A \cos (\omega t+\varphi) \\\Rightarrow \frac{d^{2} x}{d t^{2}}=-\omega^{2} A \sin (\omega t+\varphi) \Rightarrow \frac{d^{2} x}{d t^{2}}=-\omega^{2} x\end{array}[/math]
+ [math]\frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}[/math]
+ এর মান (i) নং সমীকরণের বামপক্ষে বসালে পাওয়া যায়,[math]\begin{array}{l}\text{L.H.S } =-\omega^{2} x+\omega^{2} x=0\\\therefore \text{ L.H.S } = \text{ R.H.S (Showed)}\end{array}[/math]
+সুতরাং [math]\frac{d^{2} x}{d t^{2}}+\omega^{2} x=0[/math]
+ সমীকরণে [math]x=A \sin (\omega t+\varphi)[/math]
+ বসালে সমীকরণটি সিদ্ধ হয়।তাই, [math]x=A \sin (\omega t+\varphi)[/math]
+ সরলদোল গতির ব্যবকলনীয় সমীকরণের সমাধান। (Showed)
+
+Explanation:
+সমীকরণ: সাধারণ সরল দোলকের ডিফারেনশিয়াল সমীকরণ হল [math]\ddot x+\omega^2 x=0[/math]. যদি [math]x=A\sin(\omega t+\varphi)[/math] ধরা হয়, তাহলে [math]\dot x=A\omega\cos(\omega t+\varphi)[/math] এবং [math]\ddot x=-A\omega^2\sin(\omega t+\varphi)=-\omega^2 x[/math]. অতএব [math]\ddot x+\omega^2 x=0[/math] মেটায়, তাই এটি সমাধান; এখানে [math]A[/math] অ্যাম্প্লিটিউড, [math]\omega[/math] কোণগতফ্রিকোয়েন্স ও [math]\varphi[/math] পর্যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 412386)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Patuakhali Government Mahila College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে সরল ছন্দিত গতিতে স্পন্দনরত [math]1\ kg[/math] ভরের বস্তুর শক্তি বনাম সরণ লেখচিত্র দেখানো হয়েছে। বস্তুর বিস্তার [math]0.01\ m[/math] এবং কম্পাঙ্ক [math]12\ Hz[/math]।
+
+Options:
+ঘ. [math]x=\dfrac{A}{2}[/math] এবং [math]x=A[/math] অবস্থানের জন্য বস্তুটির যান্ত্রিক শক্তির নিত্যতা সূত্র প্রযোজ্য হবে কি না? বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+বস্তুর ভর, [math]\mathrm{m}=1 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বিস্তার, [math]\rm{A}=0.01 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কম্পাঙ্ক, [math]f=12 \mathrm{~Hz}[/math]
+ [math]\rm{x=\dfrac{A}{2}}[/math]
+ অবস্থানে বিভবশক্তি,[math]\hspace{1.5 cm}\begin{array}{l} \rm{U}_{1}=\dfrac{1}{2} \mathrm{k x}^{2} \\ \quad =\dfrac{1}{2} \rm{m} \omega^{2} \mathrm{x}^{2}\left[\because \omega=\sqrt{\dfrac{\mathrm{K}}{\mathrm{m}}}\right]\\ \quad =\dfrac{1}{2} \mathrm{~m}(2 \pi f)^{2}\left(\dfrac{\mathrm{A}}{2}\right)^{2} \\ \quad=\dfrac{1}{2} \times 1 \times(2 \times 3.1416 \times 12)^{2} \times\left(\dfrac{0.01}{2}\right)^{2} \\ \quad=0.071 \mathrm{~J} \end{array}[/math]
+এবং গতিশক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{1} & =\frac{1}{2} \mathrm{mv}^{2} \\ & =\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{x}^{2}\right)=\frac{1}{2} \mathrm{~m}(2 \pi f)^{2}\left(\mathrm{~A}^{2}-\frac{\mathrm{A}^{2}}{4}\right) \\ & =\frac{1}{2} \mathrm{~m}(2 \pi f)^{2} \times \frac{3 \mathrm{~A}^{2}}{4} \\ & =\frac{1}{2} \times 1 \times(2 \times 3.1416 \times 12)^{2} \times \frac{3 \times(0.01)^{2}}{4} \\ & =0.213 \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore \mathrm{x}=\dfrac{\mathrm{A}}{2}[/math]
+ অবস্থানে মোট শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}_{1} & =\mathrm{U}_{1}+\mathrm{T}_{1} \\ & =(0.071+0.213) \mathrm{J}=0.284 \mathrm{~J} \end{aligned}[/math]
+আবার, [math]\rm{x=A}[/math]
+ অবস্থানে বিভশক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{U}_{2} & =\frac{1}{2} \mathrm{Kx}^{2} \\ & =\frac{1}{2} \mathrm{~m}^{2} \mathrm{x}^{2}\left[\because \omega=\sqrt{\frac{\mathrm{K}}{\mathrm{m}}}\right] \\ & =\frac{1}{2} \mathrm{~m}(2 \pi \mathrm{f})^{2}(\mathrm{~A})^{2} \\ & =\frac{1}{2} \times 1 \times(2 \times 3.1416 \times 12)^{2} \times(0.01)^{2} \\ & =0.284 \mathrm{~J} \end{aligned}[/math]
+এবং গতিশক্তি,[math]\hspace{1.5 cm}\rm{T_{2}=\dfrac{1}{2} m \omega^{2}\left(A^{2}-x^{2}\right)=\dfrac{1}{2} m \omega^{2}\left(A^{2}-A^{2}\right)=0}[/math]
+ [math]\therefore \quad \mathrm{x}=\mathrm{A}[/math]
+ অবস্থানে মোট শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}_{2} & =\mathrm{U}_{2}+\mathrm{T}_{2} \\ & =0.284 \mathrm{~J}+0=0.284 \mathrm{~J} \end{aligned}[/math]
+এখানে, [math]\mathrm{E}_{1}=\mathrm{E}_{2}[/math]
+অতএব, [math]\rm{x=\dfrac{A}{2}}[/math]
+ এবং [math]\rm{x}=\rm{A}[/math]
+ অবস্থানের জন্য বস্তুটির যান্ত্রিক শক্তির নিত্যতার সূত্র পালিত হবে।
+
+Explanation:
+ঘ হ্যাঁ — অভ্যন্তরীণ শক্তি বাদে কোনো অদক্ষ শক্তি কাজ না করলে সরল ছন্দিত গতিতে যান্ত্রিক শক্তি সংরক্ষিত থাকে; মোট শক্তি [math]E=\tfrac{1}{2}kA^2[/math]. যেখানে [math]U=\tfrac{1}{2}kx^2[/math] এবং [math]K=E-U[/math]; তাই [math]x=A[/math] এ [math]K=0,\;U=E[/math], এবং [math]x=\tfrac{A}{2}[/math] এ [math]U=\tfrac{1}{8}kA^2,\;K=\tfrac{3}{8}kA^2[/math], ফলে মোট শক্তি দুই অবস্থায়ই অপরিবর্তিত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 412385)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Patuakhali Government Mahila College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে সরল ছন্দিত গতিতে স্পন্দনরত [math]1\ kg[/math] ভরের বস্তুর শক্তি বনাম সরণ লেখচিত্র দেখানো হয়েছে। বস্তুর বিস্তার [math]0.01\ m[/math] এবং কম্পাঙ্ক [math]12\ Hz[/math]।
+
+Options:
+গ. [math]x=\dfrac{A}{2}[/math] অবস্থানে বস্তুটির বেগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+কম্পাঙ্ক, [math]f=12 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}[/math]
+বিস্তার, [math]\mathrm{A}=0.01 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+সরণ, [math]\rm{x=\dfrac{A}{2}}[/math]
+ [math]\hspace{1 cm}\dfrac{\mathrm{A}}{2}[/math]
+ অবস্থানে বস্তুটির বেগ, [math]\mathrm{v}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{v} & =\omega \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}}=2 \pi f \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}} \\ & =2 \times 3.1416 \times 12 \sqrt{(0.01)^{2}-\left(\frac{0.01}{2}\right)^{2}} \\ & =0.65 \mathrm{~m} \mathrm{~s}^{-1} \end{aligned}[/math]
+নির্ণেয় বেগ [math]0.65 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+। [math]\\[/math]
+
+
+Explanation:
+গ বেগ নির্ণয়: SHM-এ [math]v=ω\sqrt{A^2-x^2}[/math] এবং [math]ω=2πf=2π×12=24π\ \text{rad/s}[/math] ও [math]A=0.01\ \text{m},\ x=A/2[/math] হলে [math]v=ω\sqrt{A^2-(A/2)^2}=ω\frac{\sqrt{3}}{2}A[/math]. সংখ্যায় [math]v=24π×\frac{\sqrt{3}}{2}×0.01≈0.65\ \text{m/s}[/math], তাই বস্তুর বেগ ≈ [math]0.65\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 412381)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: শাহপরান সরকারি কলেজ, সিলেট
+--------------------------------------------------------------------------------
+Question:
+[math]0.5[/math] কেজি ভরের একটি বস্তু সরল ছন্দিত স্পন্দন গতিতে গতিশীল। বস্তুটির বিস্তার [math]0.02\ m[/math] ও কম্পাংক [math]1.5\ Hz[/math].
+
+Options:
+ঘ. বিস্তার বনাম শক্তির লেখচিত্র কেমন হতে তা উদ্দীপকের আলোকে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, ভর, m = 0.5 kgবিস্তার, [math]\mathrm A=0.02 \mathrm{~m}[/math]
+কম্পাঙ্ক, [math]f=1.5 \mathrm{~Hz}[/math]
+এখন, বিস্তারের সীমা – A হতে A এর মধ্যেঅর্থাৎ- [math]\mathrm{A,-\frac{A}{2} ; 0, \frac{A}{2}, A}[/math]
+ বিন্দুতে বিভব এবং গতি শক্তির পরিমাণ নির্ণয় করে X অক্ষ বরাবর বিস্তার এবং Y অক্ষ বরাবর শক্তির লেখ অঙ্কন কর।X = - A বিন্দুর ক্ষেত্রে,বিভব শক্তি, [math]\mathrm{U}_{1}=\frac{1}{2} \mathrm{kx}^{2}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2} \mathrm{x}^{2} \\=\frac{1}{2} \mathrm{~m} \omega^{2}(-\mathrm{A})^{2} \\=\frac{1}{2} \mathrm{~m} \omega^{2} \mathrm{~A}^{2} \\=\frac{1}{2} \mathrm{~m}(2 \pi f)^{2} \mathrm{~A}^{2} \\=\frac{1}{2} \times 0.5 \mathrm{~kg} \times(2 \times 3.1416 \times 1.5 \mathrm{~Hz})^{2} \times(0.02 \mathrm{~m})^{2} \\=8.88 \times 10^{-3} \mathrm{~J} .\end{array}[/math]
+গতিশক্তি, [math]\mathrm{T}_{1}=\frac{1}{2} \mathrm{mv}^{2}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{x}^{2}\right) \\=\frac{1}{2} \mathrm{~m} \times(2 \pi f)^{2} \times\left\{\mathrm{A}^{2}-(-\mathrm{A})^{2}\right\} \\=\frac{1}{2} \times \mathrm{m} \times(2 \pi f)^{2} \times\left(\mathrm{A}^{2}-\mathrm{A}^{2}\right) \\=0\end{array}[/math]
+ [math]\mathrm x=-\mathrm{\frac{A}{2}}[/math]
+ বিন্দুতে,গতিশক্তি, [math]\mathrm{T}_{2}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{x}^{2}\right)[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\left(\frac{-\mathrm{A}}{2}\right)^{2}\right) \\=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\frac{\mathrm{A}^{2}}{4}\right) \\=\frac{1}{2} \mathrm{~m}(2 \pi f)^{2} \times \frac{3 \mathrm{~A}^{2}}{4}\end{array}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \times 0.5 \mathrm{~kg} \times(2 \times 3.1416 \times 1.5 \mathrm{~Hz})^{2} \times \frac{3 \times(0.02 \mathrm{~m})^{2}}{4} \\=6.66 \times 10^{-3} \mathrm{~J}\end{array}[/math]
+বিভব শক্তি, [math]\mathrm{U}_{2}=\frac{1}{2} \mathrm{~m} \omega^{2} \mathrm{x}^{2}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \times \mathrm{m} \times(2 \pi f)^{2} \times\left(\frac{-\mathrm{A}}{2}\right)^{2} \\=\frac{1}{2} \times \mathrm{m}^{\prime}(2 \pi f)^{2} \times \frac{\mathrm{A}^{2}}{4} \\=\frac{1}{2} \times 0.5 \mathrm{~kg} \times(2 \times 3.1416 \times 1.5 \mathrm{~Hz})^{2} \times \frac{(0.02 \mathrm{~m})^{2}}{4} \\=2.22 \times 10^{-3} \mathrm{~J}\end{array}[/math]
+ [math]\text {x} = 0[/math]
+ বিন্দুতে,গতিশক্তি, [math]\mathrm{T}_{3}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{x}^{2}\right)[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2} \mathrm{~A}^{2} \\=\frac{1}{2} \times 0.5 \mathrm{~kg} \times(2 \times 3.1416 \times 1.5 \mathrm{~Hz})^{2} \times(0.02 \mathrm{~m})^{2} \\=8.88 \times 10^{-3} \mathrm{~J}\end{array}[/math]
+বিভব শক্তি, [math]\mathrm{U}_{3}=\frac{1}{2} \mathrm{kx}^{2}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \times \mathrm{k} \times(0)^{2} \\=0\end{array}[/math]
+ [math]\mathrm x=\mathrm{\frac{A}{2}}[/math]
+ বিন্দুতে,বিভব শক্তি, [math]\mathrm{U}_{4}=\frac{1}{2} \mathrm{~m} \omega^{2} \mathrm{x}^{2}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\frac{\mathrm{A}}{2}\right)^{2} \\=\frac{1}{2} \mathrm{~m} \omega^{2} \times \frac{\mathrm{A}^{2}}{4} \\=\mathrm{u}_{2} \\=2.22 \times 10^{-3} \mathrm{~J}\end{array}[/math]
+গতিশক্তি, [math]\mathrm{T}_{4}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{x}^{2}\right)[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2}\left\{\mathrm{~A}^{2}-\left(\frac{\mathrm{A}}{2}\right)^{2}\right\} \\=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\frac{\mathrm{A}^{2}}{4}\right) \\=\mathrm{T}_{2} \\=6.66 \times 10^{-3} \mathrm{~J}\end{array}[/math]
+ [math]\text {x} =\mathrm A[/math]
+ বিন্দুতে,বিভব শক্তি, [math]\mathrm{U}_{5}=\frac{1}{2} \mathrm{~m} \omega^{2} \mathrm{x}^{2}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2} \mathrm{~A}^{2} \\=\mathrm{u}_{1} \\=8.88 \times 10^{-3} \mathrm{~J}\end{array}[/math]
+গতিশক্তি, [math]\mathrm{T}_{5}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{x}^{2}\right)[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{A}^{2}\right) \\=\mathrm{T}_{1} \\=0\end{array}[/math]
+
+[Image]
+[math]\hspace{2.5cm}-\frac{\mathrm{A}}{2}=-0.01 \mathrm{~m}[/math]
+যেখানে, – A, A অবস্থানে বিভবশক্তি, [math]8.88 \times 10^{-3} \mathrm{~J}[/math]
+ [math]\hspace{4cm}[/math]
+ গতিশক্তি, 0 J[math]\frac{-\mathrm{A}}{2}, \frac{\mathrm{A}}{2}[/math]
+ অবস্থানে বিভবশক্তি, [math]6.66 \times 10^{-3} \mathrm{~J}[/math]
+ [math]\hspace{3cm}[/math]
+ গতিশক্তি, [math]2.22 \times 10^{-3} \mathrm{~J}[/math]
+এবং সকল ক্ষেত্রেই মোট শক্তি সমান ।অর্থাৎ মূলবিন্দু হতে সামনে বা পিছনে যে দিকেই বিস্তার হোক না কেন বিভব শক্তি যে হারে বাড়তে থাকবে ঠিক একই হারে গতিশক্তি কমতে থাকবে এবং শক্তির নিত্যতা সূত্র মেনে চলবে। [math]\\[/math]
+
+
+Explanation:
+ঘ বিস্তার (অ্যামপ্লিটিউড) ও মোট শক্তির সম্পর্ক হল [math]E=\tfrac{1}{2}kA^2=\tfrac{1}{2}m\omega^2A^2[/math], অতএব শক্তি অ্যামপ্লিটিউডের বর্গের অনুপাতিক। ফলে শক্তি বনাম বিস্তার লেখচিত্রটি অরিজিন থেকে শুরু করা উপরে খুলে যাওয়া পরাবোলা (শুধু ধনাত্মক অ্যামপ্লিটিউডের জন্য ডানদিকের শাখা দেখা যাবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 412382)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Feni Girls' Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]250\ gm[/math] ভরের কোনো বস্তু সরল ছন্দিত গতিতে স্পন্দনরত যার সমীকরণ [math]x=8\sin \ \left(\omega t+\delta \right);[/math] পর্যায়কাল [math]25\ s[/math] হলে আদি সরণ [math]0.05\ m[/math].
+
+Options:
+গ. কৌণিক কম্পাঙ্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, পর্যায়কাল, T = 25 s[math]\hspace{1.5cm}[/math]
+কৌণিক কম্পাঙ্ক, [math]\omega = ?[/math]
+আমরা জানি,[math]\hspace{1.5cm}\begin{aligned}\omega & =\frac{2 \pi}{T} \\& =\frac{2 \times 3.1416}{25 \mathrm{~s}}=0.2513 \mathrm{rad} \mathrm{s}^{-1}\end{aligned}[/math]
+অতএব, কৌণিক কম্পাঙ্ক [math]0.2513 \mathrm{rad} \mathrm{s}^{-1}[/math]
+ | [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কৌণিক কম্পাঙ্ক নির্ণয় কর: সরল ছন্দিত গতিতে [math]ω[/math] ও পর্যায়কাল [math]T[/math] এর সম্পর্ক [math]ω=\dfrac{2\pi}{T}[/math]. এখানে [math]T=25\ s[/math], তাই [math]ω=\dfrac{2\pi}{25}\ \text{rad/s}\approx0.2513\ \text{rad/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 412383)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Feni Girls' Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]250\ gm[/math] ভরের কোনো বস্তু সরল ছন্দিত গতিতে স্পন্দনরত যার সমীকরণ [math]x=8\sin \ \left(\omega t+\delta \right);[/math] পর্যায়কাল [math]25\ s[/math] হলে আদি সরণ [math]0.05\ m[/math].
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও উক্ত সমীকরণটি সরল ছন্দিত গতির সমীকরণ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\mathrm x=8 \sin (\omega\mathrm t+\delta)[/math]
+...................(১)১নং সমীকরণকে t এর সাপেক্ষে ব্যবকলন করে পাই,[math]\hspace{1cm}\frac{\mathrm{dx}}{\mathrm{dt}}=8 \omega \cos (\omega \mathrm{t}+\delta)[/math]
+...................(২)২নং সমীকরণকে t এর সাপেক্ষে ব্যবকলন করে পাই,[math]\hspace{1.5cm}\begin{aligned}\frac{\mathrm{d^2x}}{\mathrm{dt^2}}&=-8\omega ^2\sin (\omega \mathrm{t}+\delta )\\&=-\omega ^2\times 8\sin (\omega \mathrm{t}+\delta )\\&=-\omega ^2\mathrm{x}\end{aligned}[/math]
+এটি একটি সরল ছন্দিত গতিসম্পন্ন কণার গতির সমীকরণের শর্ত। সুতরাং [math]\mathrm x=8 \sin (\omega\mathrm t+\delta)[/math]
+ একটি সরল ছন্দিত গতির সমীকরণ [math]\\[/math]
+
+
+Explanation:
+ঘ গাণিতিক বিশ্লেষণ: দেওয়া [math]x=8\sin(\omega t+\delta)[/math] থেকে দ্বিগুণ সময়ে অনুপ্রবেশ করলে পাবো [math]\ddot x=-8\omega^2\sin(\omega t+\delta)=-\omega^2 x[/math]। তাই [math]\ddot x+\omega^2 x=0[/math], যেটি সরল ছন্দিত গতির সাধারণ সমীকরণ; এর জন্য [math]\omega=2\pi/T=2\pi/25[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 412384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Sylhet Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]50\ g[/math] ভরের একটি বস্তুকে স্প্রিং এর শেষ প্রান্তে ঝুলিয়ে দিলে বস্তুটি সরল ছন্দিত স্পন্দনে দোলতে থাকে যার বিস্তার এবং পর্যায়কাল যথাক্রমে [math]12\ cm[/math] এবং [math]1.7\ s[/math]।
+
+Options:
+গ. সরণ বিস্তারের অর্ধেক হলে বস্তুটির বেগ কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, পর্যায়কাল, T = 1.7 sবিস্তার, A = 12 cm = 0.12 mসরণ, [math]\mathrm x=\mathrm{\frac{A}{2}}=\frac{0.12 m}{2}=0.06 \mathrm{~m}[/math]
+বেগ, v = ?আমরা জানি, [math]\mathrm{v}=2 \pi f \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}}[/math]
+ [math]\hspace{2.7cm}\begin{array}{l}=\frac{2 \pi}{\mathrm T} \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}} \\=\frac{2 \times 3.1416}{1.7 \mathrm{~s}} \times \sqrt{(0.12 \mathrm{~m})^{2}-(0.06 \mathrm{~m})^{2}} \\=384.1 \times 10^{-3} \mathrm{~m} \mathrm{~s}^{-1}\end{array}[/math]
+অতএব, উল্লেখিত সরণকালে বেগ [math]384.1 \times 10^{-3} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ সরল সঞ্ছলনে বস্তুর বেগ [math]v=ω\sqrt{A^2-x^2}[/math] যেখানে [math]ω=2π/T[/math] এবং এখানে [math]x=A/2[/math]. তাই [math]v=ωA\sqrt{1-(1/2)^2}=ωA\frac{\sqrt{3}}{2}[/math], যেখানে [math]ω=2π/1.7\approx3.695\ \mathrm{rad/s}[/math] এবং [math]A=0.12\ \mathrm{m}[/math], ফলে [math]v\approx3.695×0.12×0.866\approx0.38\ \mathrm{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 412379)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Netrakona Govt. College, Netrakona
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে সরল ছন্দিত গতিতে স্পন্দনরত [math]0.5\ kg[/math] ভরের বস্তুর শক্তি বনাম সরণ লেখচিত্র দেখানো হলো। বস্তুটির বিস্তার [math]0.01\ m[/math] এবং কম্পাঙ্ক [math]16\ Hz[/math]।
+
+উদ্দীপকের [math]x=\dfrac{A}{2}[/math] ও [math]x=\dfrac{A}{4}[/math] অবস্থানের জন্য বস্তুটির যান্ত্রিক শক্তির নিত্যতা সূত্র মেনে চলে কি না? যাচাই করে দেখাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,বস্তুর ভর m = 0.5 kgবিস্তার, [math]\mathrm A=0.01 \mathrm{~m}[/math]
+কম্পাঙ্ক, [math]f=16 \mathrm{~Hz}[/math]
+কৌণিক বেগ, [math]\omega=32 \pi[/math]
+ [গ নং থেকে প্রাপ্ত][math]\mathrm x=\mathrm{\frac{A}{2}}[/math]
+ অবস্থানে বিভবশক্তি, [math]\mathrm{u}_{1}=\frac{1}{2} \mathrm{kx}^{2}[/math]
+ [math]\hspace{5cm}\begin{array}{l}=\frac{1}{2} \times \mathrm{m}^{2} \mathrm{x}^{2}\left[\because \omega=\sqrt{\frac{\mathrm{k}}{\mathrm{m}}}\right] \\=\frac{1}{2} \times \mathrm{m} \times \omega^{2} \times\left(\frac{\mathrm{A}}{2}\right)^{2} \\=\frac{1}{2} \times 0.5 \times(32 \pi)^{2} \times\left(\frac{0.01}{2}\right)^{2} \\=0.063 \mathrm{~J}\end{array}[/math]
+এবং গতিশক্তি, [math]\mathrm{T}_{1}=\frac{1}{2} \mathrm{mv}^{2}[/math]
+ [math]\hspace{3.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2}\left(\mathrm{~A}^{2}-\mathrm{x}^{2}\right) \\=\frac{1}{2} \mathrm{~m}(32 \pi)^{2} \cdot\left(\mathrm{A}^{2}-\frac{\mathrm{A}^{2}}{4}\right) \\=\frac{1}{2} \times 0.5 \times(32 \pi)^{2}\left\{(0.01)^{2}-\frac{(0.01)^{2}}{4}\right\} \\=0.189 \mathrm{~J}\end{array}[/math]
+ [math]\therefore\mathrm x=\mathrm{\frac{A}{2}}[/math]
+ অবস্থানে মোট শক্তি, [math]\mathrm{E}_{1}=\mathrm{u}_{1}+\mathrm{T}_{1}[/math]
+ [math]\hspace{6cm}\begin{array}{l}=(0.063+0.189) \mathrm{J} \\=0.252 \mathrm{~J}\end{array}[/math]
+আবার,[math]\hspace{1cm}\mathrm x=\mathrm{\frac{A}{4}}[/math]
+ অবস্থানে বিভব শক্তি, [math]\mathrm{u}_{2}=\frac{1}{2} \mathrm{kx}^{2}[/math]
+ [math]\hspace{6.5cm}\begin{array}{l}=\frac{1}{2} \times \mathrm{m} \omega^{2} \times\left(\frac{\mathrm{A}}{4}\right)^{2} \\=\frac{1}{2} \times 0.5 \times(32 \pi)^{2} \times\left(\frac{0.01}{4}\right)^{2} \\=0.016 \mathrm{~J}\end{array}[/math]
+এবং গতিশক্তি, [math]\mathrm{T}_{2}=\frac{1}{2} \mathrm{mv}^{2}[/math]
+ [math]\hspace{3.5cm}\begin{array}{l}=\frac{1}{2} \mathrm{~m} \omega^{2} \times\left(\mathrm{A}^{2}-\mathrm{x}^{2}\right) \\=\frac{1}{2} \mathrm{~m} \omega^{2} \times\left(\mathrm{A}^{2}-\frac{\mathrm{A}^{2}}{16}\right) \\=\frac{1}{2} \mathrm{~m} \omega^{2} \times \frac{15 \mathrm{~A}^{2}}{16} \\=\frac{1}{2} \times 0.5 \times(32 \pi)^{2} \times \frac{15(0.01)^{2}}{16} \\=0.236 \mathrm{~J}\end{array}[/math]
+ [math]\therefore\mathrm x=\mathrm{\frac{A}{2}}[/math]
+ অবস্থানে মোট শক্তি, [math]\mathrm{E}_{1}=\mathrm{u}_{2}+\mathrm{T}_{2}[/math]
+ [math]\hspace{6cm}\begin{array}{l}=(0.016+0.236) \\=0.025 \mathrm{~J}\end{array}[/math]
+সুতরাং [math]\mathrm x=\mathrm{\frac{A}{2}}[/math]
+ এবং [math]\mathrm x=\mathrm{\frac{A}{4}}[/math]
+ অবস্থানের জন্য বস্তুটি যান্ত্রিক শক্তির নিত্যতা মেনে চলে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমতল অসুরক্ষিত বল নেই ধরে সরল ছন্দিতে মোট যান্ত্রিক শক্তি ধ্রুবক এবং তা [math]E=\tfrac12 kA^2[/math]। 
+
+ক [math]x=\dfrac{A}{2}[/math]: প্রবলতা (potential) [math]U=\tfrac12 k\left(\dfrac{A}{2}\right)^2=\tfrac{1}{4}\left(\tfrac12 kA^2\right)=\dfrac{E}{4}[/math], গতিসাম্য (kinetic) [math]K=E-U=\dfrac{3E}{4}[/math] → মোট [math]K+U=E[/math], ধ্রুবক। 
+
+খ [math]x=\dfrac{A}{4}[/math]: [math]U=\tfrac12 k\left(\dfrac{A}{4}\right)^2=\dfrac{E}{16}[/math], তাই [math]K=E-\dfrac{E}{16}=\dfrac{15E}{16}[/math] এবং [math]K+U=E[/math], আবার ধ্রুবক।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 412380)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: শাহপরান সরকারি কলেজ, সিলেট
+--------------------------------------------------------------------------------
+Question:
+[math]0.5[/math] কেজি ভরের একটি বস্তু সরল ছন্দিত স্পন্দন গতিতে গতিশীল। বস্তুটির বিস্তার [math]0.02\ m[/math] ও কম্পাংক [math]1.5\ Hz[/math].
+
+Options:
+গ. [math]\dfrac{A}{2}[/math] বিস্তারে বস্তুটির বেগ কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, কম্পাঙ্ক, [math]f=1.5 \mathrm{~Hz}[/math]
+বিস্তার, [math]\mathrm A=0.02 \mathrm{~m}[/math]
+সরণ [math]\mathrm x=\mathrm{\frac{A}{2}}=\frac{0.02 \mathrm{~m}}{2}=0.01 \mathrm{~m}[/math]
+ [math]\mathrm{\frac{A}{2}}[/math]
+ অবস্থানে বেগ, v = ?আমরা জানি, [math]\mathrm v=\omega \mathrm{\sqrt{A^{2}-x^{2}}}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=2 \pi f \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}} \\=2 \times 3.1416 \times 1.5 \mathrm{~Hz} \sqrt{(0.02 \mathrm{~m})^{2}-(0.01 \mathrm{~m})^{2}} \\=0.1632 \mathrm{~m} \mathrm{~s}^{-1}\end{array}[/math]
+নির্ণেয় বেগ [math]0.1632 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বিস্তারে বেগ SHM-এ [math]v=ω\sqrt{A^2-x^2}[/math] দ্বারা দেওয়া। এখানে [math]ω=2πf=2π(1.5)=3π\ \text{rad/s}[/math] এবং [math]x=A/2[/math], তাই [math]v=3π\sqrt{A^2-(A/2)^2}=3π\cdot\frac{A\sqrt{3}}{2}=\frac{3πA\sqrt{3}}{2}[/math]. [math]A=0.02\ \text{m}[/math] বসালে [math]v\approx0.03π\sqrt{3}\approx0.163\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 412378)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Netrakona Govt. College, Netrakona
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে সরল ছন্দিত গতিতে স্পন্দনরত [math]0.5\ kg[/math] ভরের বস্তুর শক্তি বনাম সরণ লেখচিত্র দেখানো হলো। বস্তুটির বিস্তার [math]0.01\ m[/math] এবং কম্পাঙ্ক [math]16\ Hz[/math]।
+
+Options:
+গ. উদ্দীপকের চিত্রের [math]x=\dfrac{A}{3}[/math] অবস্থানে বস্তুটির ত্বরণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বিস্তার [math]\mathrm A=0.01 \mathrm{~m}[/math]
+কম্পাঙ্ক, [math]f=16 \mathrm{~Hz}[/math]
+ [math]\omega=2 \pi f=2 \pi \times 16=32 \pi[/math]
+এবং, [math]x=\frac{A}{3}=\frac{0.01}{3}[/math]
+আমরা জানি,ত্বরণ, [math]\mathrm a=-\omega^{2}\mathrm x[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}=-(32 \pi)^{2} \times \frac{0.01}{3} \\=-33.68 \mathrm{~m} \mathrm{~s}^{-2}\end{array}[/math]
+ [math]\therefore\mathrm x=\mathrm{\frac{A}{3}}[/math]
+ অবস্থানে বস্তুটির ত্বরণ [math]33.68 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+গ SHM-এ ত্বরণ [math]a=-\omega^2 x[/math] যেখানে [math]\omega=2\pi f=2\pi\times16=32\pi\ \text{rad/s}[/math], তাই [math]\omega^2\approx10106.5[/math]. এখানে [math]x=A/3=0.01/3=0.003333\ \text{m}[/math], ফলে [math]|a|=\omega^2 x\approx10106.5\times0.003333\approx33.7\ \text{m/s}^2[/math] এবং দিকটি সমীকেন্দ্রের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 412377)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Ideal School & College, Motijheel, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রের ব্যবস্থা দুটিকে মুক্তভাবে স্পন্দিত করা হলে এটি সরল ছন্দিত গতিতে স্পন্দিত হতে থাকে। এক্ষেত্রে সরল ছন্দিত গতিসম্পন্ন কণার সমীকরণটি হলো, [math]y=25 \sin (\omega t+\delta)[/math] , এবং পর্যায়কাল [math]40\ sec[/math] এবং আদিসরণ [math]8\ cm[/math]৷
+
+Options:
+ঘ. উদ্দীপকের কোন ব্যবস্থাটির পর্যায়কাল বেশি হবে? গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘচিত্র-১ এবং চিত্র-২ এর ব্যবস্থাদ্বয়ের তুল্য বল ধ্রুবক যথাক্রমে [math]\mathrm{k}_{\mathrm{s}}[/math]
+ এবং [math]\mathrm{k}_{\mathrm{p}}[/math]
+ হলে—[math]\hspace{1.5cm}\begin{array}{l}\therefore \frac{1}{\mathrm{k}_{\mathrm{s}}}=\frac{1}{\mathrm{k}_{1}}+\frac{1}{\mathrm{k}_{2}} \\\begin{aligned}\Rightarrow \mathrm{k}_{\mathrm{s}} & =\frac{\mathrm{k}_{1} \times \mathrm{k}_{2}}{\mathrm{k}_{1}+\mathrm{k}_{2}} \\& =\frac{1000 \times 2000}{1000+2000} \mathrm{~N} / \mathrm{m} \\\therefore \mathrm{k}_{\mathrm{s}} & =666.67 \mathrm{~N} / \mathrm{m}\end{aligned}\end{array}[/math]
+এবং [math]\mathrm{k}_{\mathrm{p}}=\mathrm{k}_{1}+\mathrm{k}_{2}[/math]
+ [math]\hspace{1.3cm}\begin{array}{l}=(1000+2000) \mathrm{N} / \mathrm{m} \\=3000 \mathrm{~N} / \mathrm{m}\end{array}[/math]
+এখন, চিত্র-১ এবং চিত্র-২ এর পর্যায়কাল যথাক্রমে [math]\mathrm{T}_{\mathrm{1}}[/math]
+ ও [math]\mathrm{T}_{\mathrm{2}}[/math]
+ হলে-[math]\hspace{1cm}\mathrm{T}_{1}=2 \pi \sqrt{\frac{\mathrm{k}_{\mathrm{s}}}{\mathrm{m}}}[/math]
+এবং [math]\mathrm{T_2}=\mathrm{2\pi\sqrt{\frac{k_p}{m}}}[/math]
+ [math]\begin{array}{l}\therefore \frac{T_{1}}{T_{2}}=\sqrt{\frac{k_{s}}{k_{p}}} \\\Rightarrow \frac{T_{1}}{T_{2}}=\sqrt{\frac{666.67}{3000}} \\\Rightarrow \frac{T_{1}}{T_{2}}=0.47\end{array}[/math]
+সুতরাং, [math]\frac{\mathrm{T}_{1}}{\mathrm{~T}_{2}}T_{1}}[/math]
+অতএব, উদ্দীপকের চিত্র-২ এর ব্যবস্থাটির পর্যায়কাল বেশি হবে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ উভয় ব্যবস্থার পর্যায়কাল সমান — কারণ সরল ছন্দিত গতির পর্যায়কাল [math]T=\frac{2\pi}{\omega}[/math] এবং দাঁড় করানো আছে [math]T=40\ \text{s}[/math], তাই [math]\omega=\frac{2\pi}{40}=\frac{\pi}{20}\ \text{rad/s}[/math]; ফলে দুʼটি ব্যবস্থারই একই [math]\omega[/math] ও একই [math]T[/math]। এছাড়া আদিসরণ সরল ছন্দনে পর্যায়কালে প্রভাব ফেলে না।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 412376)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Ideal School & College, Motijheel, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রের ব্যবস্থা দুটিকে মুক্তভাবে স্পন্দিত করা হলে এটি সরল ছন্দিত গতিতে স্পন্দিত হতে থাকে। এক্ষেত্রে সরল ছন্দিত গতিসম্পন্ন কণার সমীকরণটি হলো, [math]y=25 \sin (\omega t+\delta)[/math] , এবং পর্যায়কাল [math]40\ sec[/math] এবং আদিসরণ [math]8\ cm[/math]৷
+
+Options:
+গ. উদ্দীপকের সরল দোলন গতিসম্পন্ন কণার আদি দশা ও [math]7\ sec[/math] সময়ে দশা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে, কণার গতির সমীকরণ,[math]\mathrm y=25\sin(\omega\mathrm t+\delta)[/math]
+পর্যায়কাল, T = 40 sএবং আদি সরণ = 8 cmঅর্থাৎ, যখন, t = 0 তখন, y = 8 cm[math]\hspace{1cm}\begin{array}{l}\therefore 8=25 \sin (\omega \times 0+\delta) \\\Rightarrow \delta=\sin ^{-1}\left(\frac{8}{25}\right) \\\therefore \delta=18.66^{\circ}\end{array}[/math]
+আবার, 7 sec পর দশা [math]=\omega t+\delta[/math]
+ [math]\hspace{4cm}=\left(\frac{2 \pi}{T} \times 7+\frac{18.66}{180} \pi\right)[/math]
+ রেডিয়ান[math]\hspace{4cm}=\left(\frac{2 \pi}{40} \times 7+\frac{311}{3000} \pi\right)[/math]
+ রেডিয়ান[math]\hspace{4cm}=\frac{1361}{3000} \pi[/math]
+ রেডিয়ান = 81.66°অতএব, উদ্দীপকের সরল দোলন গতিসম্পন্ন কণার অদি দশা এবং 7 sec সময়ে দশা যথাক্রমে 18.66° এবং 81.66° । [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ দেনা তথ্যানুসারে উদ্দীপকের ক্ষেত্রে [math]A=8\ \text{cm}[/math] ও [math]T=40\ \text{s}[/math], তাই [math]ω=\dfrac{2π}{T}=\dfrac{π}{20}\ \text{rad/s}[/math] এবং চালক কণার সরল দোলনের রূপ হবে [math]y=8\sin(ωt+δ)[/math]. আদি দশা নির্ণয়ের জন্য আদি স্থানাঙ্ক ব্যবহার করে লিখুন [math]y(0)=A\sin δ\Rightarrow δ=\arcsin\frac{y(0)}{A}[/math] (আদি দিক জানলে চিহ্ন নিশ্চিত করুন)। এরপর [math]7\ \text{s}[/math] সময়ে দশা হবে [math]φ(7)=ω·7+δ=\dfrac{7π}{20}+δ[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 412356)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে একটি সরল ছন্দিত স্পন্দকের অবস্থানের পরিবর্তনে শক্তির পরিবর্তন দেখানো হয়েছে।
+
+
+[Image]
+
+
+Options:
+গ. x = 10 cm অবস্থানে বিভবশক্তি ও গতিশক্তি নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, সাম্যবস্থান হতে সর্বোচ্চ সরণ, [math]\mathrm{A}=15 \mathrm{~cm}=0.15 \mathrm{~m}[/math]
+মোট শক্তি [math]=\frac{1}{2} \mathrm{kA}^{2}=200 \mathrm{~J}[/math]
+ [k = বল ধ্রুবক ][math]\therefore \quad \mathrm{k}=\frac{2 \times 200 \mathrm{~J}}{\mathrm{~A}^{2}}=\frac{400 \mathrm{~J}}{(0.15 \mathrm{~m})^{2}}=17777.77 \mathrm{\ Nm}^{-1}[/math]
+ [math]\therefore \quad \mathrm{x}=10 \mathrm{~cm}=0.1 \mathrm{~m}[/math]
+ অবস্থানেবিভবশক্তি,[math]\begin{aligned}=\frac{1}{2} \mathrm{kx}^{2} & =\frac{1}{2} \times 17777.77 \mathrm{Nm}^{-1} \times(0.1 \mathrm{~m})^{2} \\& =81.89 \mathrm{~J}(\text { Ans. })\end{aligned}[/math]
+এবং x = 10 cm অবস্থানেগতিশক্তি,[math]\begin{array}{l}=\frac{1}{2} \mathrm{k}\left(\mathrm{A}^{2}-\mathrm{x}^{2}\right) \\=\frac{1}{2} \times 17777.77 \mathrm{Nm}^{-1} \mathrm{k} \times\left[(0.15 \mathrm{~m})^{2}-(0.1 \mathrm{~m})^{2}\right] \\=111.1 \mathrm{~J} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ বিভব শক্তি সরল দোলনের ক্ষেত্রে [math]U(x)\propto x^2[/math], তাই যদি গ্রাফ থেকে অনুক্রমে কম্পনের সর্বোচ্চ স্থানাঙ্ক (আ্যাম্প্লিটিউড) [math]A=20\ \text{cm}[/math] এবং মোট শক্তি [math]E[/math] জানা থাকে, তাহলে [math]U(10)=E\frac{10^2}{20^2}=E\frac{1}{4}[/math] এবং গতিশক্তি হবে [math]K=E-U=E\frac{3}{4}[/math]। এই সূত্রটাই কারণ: সম্ভাব্য শক্তি [math]U=\tfrac12 k x^2[/math] এবং মোট শক্তি স্থির হওয়ায় বাকি অংশ গতিশক্তি।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 412357)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো উৎসের সরল দোলগতির সমীকরণ [math]y=10 \sin (100 \pi t) m[/math]। উৎসের কম্পন থেকে সৃষ্ট তরঙ্গের বেগ 200.
+
+Options:
+ক. উৎপন্ন চল তরঙ্গের সমীকরণ বের করো।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,[math]y=10 \sin (100 \pi t) m[/math]
+ একে [math]y=A \sin \omega t[/math]
+ এর সাথে তুলনা করে, A = 10 m[math]\omega=100 \pi[/math]
+ [math]\Rightarrow[/math]
+ [math]2 \pi \mathrm{f}=100 \pi[/math]
+ [math]\therefore \mathrm{t}=50 \mathrm{~Hz}[/math]
+তরঙ্গ বেগ, [math]\mathrm{v}=200 \mathrm{~ms}^{-1}[/math]
+আমরা জানি, [math]\mathrm{v}=\mathrm{f} \lambda[/math]
+ [math]\Rightarrow[/math]
+ [math]200=500 \lambda[/math]
+ [math]\therefore \lambda=4 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ উৎপন্ন চল তরঙ্গ বা অগ্রগামী তরঙ্গের সমীকরণ,[math]y=A \sin \frac{2 \pi}{\lambda}(v t-x)[/math]
+ [math]\begin{aligned}& =10 \sin \frac{2 \pi}{4}(200 t-x) \\& =10 \sin \frac{\pi}{2}(200 t-x) \\y & =10 \sin \left(100 \pi t-\frac{\pi x}{2}\right) m(\text { Ans. })\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ক উৎসের কোণগত কম্পনসংখ্যা [math]ω=100π[/math], তাই [math]f=ω/(2π)=50\ \text{Hz}[/math], [math]λ=v/f=200/50=4\ \text{m}[/math] এবং [math]k=2π/λ=π/2\ \text{rad/m}[/math].  
+অতএব +x দিকে ছড়ানো চল তরঙ্গের সমীকরণ হবে [math]y(x,t)=10\sin\big(100π t-\tfrac{π}{2}x\big)\ \text{m}[/math], যা [math]x=0[/math]-এ উৎসের সমীকরণের সাথে মিলে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 412358)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো উৎসের সরল দোলগতির সমীকরণ [math]y=10 \sin (100 \pi t) m[/math]। উৎসের কম্পন থেকে সৃষ্ট তরঙ্গের বেগ 200.
+
+Options:
+খ. কম্পন শুরু হওয়ার t = 3s সময়ের মুহূর্তে উৎস থেকে 2 m দূরের কোনো বিন্দুর সাম্যাবস্থান থে কে সরণ ও ত্বরণ শূন্য হবে কি? গাণিতিক বিশ্লেষণসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+খ‘ক’ থেকে প্রাপ্ত চল তরঙ্গের সমীকরণ,[math]\mathrm{y}=10 \sin \left(100 \pi \mathrm{t}-\frac{\pi \mathrm{x}}{2}\right) \mathrm{m}[/math]
+এখন, t = 3s ও x = 2m হলে,[math]\begin{aligned}y=10 \sin & \left(100 \pi \times 3-\frac{\pi \times 2}{2}\right) \\& =10 \sin (300 \pi-\pi) \\& =10 \sin (299 \pi) \\& =0 \mathrm{~m}\end{aligned}[/math]
+ [math]\therefore[/math]
+ t = 3s পর x = 2m দূরে কোন বিন্দুর সাম্যাবস্থান থেকে সরণ y = 0 mএখন, বেগ,[math]\begin{aligned}v & =\frac{d y}{d t} \\& =\frac{d}{d t} 10 \sin \left(100 \pi t-\frac{\pi x}{2}\right) \\& =10 \cos \left(100 \pi t-\frac{\pi x}{2}\right) \times 100 \pi \\& =1000 \pi \cos \left(100 \pi t-\frac{\pi x}{2}\right)\end{aligned}[/math]
+ত্বরণ,[math]\begin{aligned}\mathrm{a} & =\frac{\mathrm{dv}}{\mathrm{dt}} \\& =\frac{\mathrm{d}}{\mathrm{dt}} 1000 \pi \cos \left(100 \pi \mathrm{t}-\frac{\pi \mathrm{x}}{2}\right) \\& =1000 \pi\left\{-\sin \left(100 \pi \mathrm{t}-\frac{\pi \mathrm{x}}{2}\right)\right\} \times 100 \pi \\& =-10^{5} \pi^{2} \sin \left(100 \pi \mathrm{t}-\frac{\pi \mathrm{x}}{2}\right)\end{aligned}[/math]
+এখন, t = 3s এবং x = 2m হলে,[math]\begin{aligned}a & =-10^{5} \pi^{2} \sin \left(100 \pi \times 3-\frac{\pi \times 2}{2}\right) \\& =-10^{5} \pi^{2} \sin (299 \pi) \\& =0\end{aligned}[/math]
+ [math]\therefore[/math]
+ কম্পন শুরু হওয়ার t = 3s পর উৎস থেকে x = 2 m দূরের কোন বিন্দুর সাম্যাবস্থান থেকে ত্বরণ ও সরণ উভয়ই শূন্য হবে। [math]\\[/math]
+
+
+Explanation:
+খ গাণিতিক বিশ্লেষণ: উৎসের কোণীয় কম্পনদৈর্ঘ্য [math]\omega=100\pi[/math] এবং তরঙ্গদৈর্ঘ্য সম্পর্কিত তরঙ্গসংখ্যক [math]k=\omega/v=(100\pi)/200=\pi/2[/math], তাই [math]x=2\ \text{m}[/math] এ ফেজ শিফট [math]kx=(\pi/2)\times2=\pi[/math] এবং তরঙ্গফাংশ্য [math]y(2,t)=10\sin(100\pi t-\pi)=-10\sin(100\pi t)[/math]. t=3 s এ [math]\sin(300\pi)=0[/math] হওয়ায় স্থানচ্যুতি [math]y=0[/math]; গতি [math]\dot y=1000\pi\cos(100\pi t-\pi)[/math] এ t=3 এ [math]\cos(299\pi)=-1[/math] হওয়ায় [math]\dot y=-1000\pi\neq0[/math]; ত্বরণ [math]\ddot y=-10(100\pi)^2\sin(100\pi t-\pi)[/math] হলে t=3 এ শূন্য। তাই স্থানচ্যুতি ও ত্বরণ শূন্য지만 গতি শূন্য নয়, ফলে প্রশ্নের বিবৃতি সঠিক নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 412360)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+250g ভরের একটি বস্তু সরল ছন্দিত গতিতে গতিশীল । মধ্যবস্থান হতে বস্তুটির যখন 0.15m সরণ হয় তখন এর উপর ক্লিয়ারত প্রত্যয়নী বলের মান 0.4N। গতির দোলনকাল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 1.92 sec )[math]\\[/math]
+Solution :দেওয়া আছে,ববের ভর, [math]\mathrm{m}=250 \mathrm{~g}=0.25 \mathrm{~kg}[/math]
+সরণ, [math]\mathrm{x}=0.15 \mathrm{~m}[/math]
+প্রত্যায়নী বল, [math]\mathrm{F}=0.4 \mathrm{~N}[/math]
+দোলনকাল, [math]\mathrm{T}=?[/math]
+আমরা জানি,[math]\mathrm{F}=\mathrm{kx}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{k}=\frac{\mathrm{F}}{\mathrm{x}}=\frac{0.4 \mathrm{~N}}{0 .15 \mathrm{~m}}[/math]
+ [math]\therefore \mathrm{k}=2.67 \mathrm{\ Nm}^{-1}[/math]
+আবার,দোলনকাল, [math]T=2 \pi \sqrt{\frac{\mathrm{m}}{\mathrm{k}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]T=2 \times 3.14 \times \sqrt{\frac{0.25}{2.67}}[/math]
+ [math]\therefore \mathrm{T}=1.92 \sec \text { (Ans.) }[/math]
+
+
+Explanation:
+বস্তুতে পুনরুদ্ধার শক্তি হুকের আইনের মতো কাজ করে, তাই [math]k=F/x=0.4/0.15=8/3\ \mathrm{N/m}[/math]. দোলনকাল হচ্ছে [math]T=2\pi\sqrt{m/k}=2\pi\sqrt{0.25/(8/3)}\approx1.92\ \mathrm{s}[/math], তাই উত্তর প্রায় 1.92 সেকেন্ড।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 412361)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল দোলগতি সম্পন্ন একটি কণার গতির সমীকরণ x = [math]20 \sin \left(31 \mathrm{t}-\frac{\pi}{6}\right)[/math]। এখানে x মিটারে ও t সেকেন্ডে প্রকাশিত । কণাটির নিম্নোক্ত রাশিমালা নির্ণয় করো:
+
+(ক) বিস্তার (খ) কম্পাঙ্ক (গ) পর্যায়কাল (ঘ) সর্বোচ্চ বেগ
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]20 \mathrm{~m}[/math]
+ (খ) [math]0.20 \mathrm{~s}[/math]
+ (গ) [math]5 \mathrm{~Hz}[/math]
+ (ঘ) [math]620 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,কণাটির গতির সমীকরণ, [math]x=20 \sin \left(31 t-\frac{\pi}{6}\right)[/math]
+আমরা জানি, কোনো সরল ছন্দিত স্পন্দন গতিসম্পন্ন কণার গতির সমীকরণ [math]x=A \sin (\omega t+\delta)[/math]
+ [ যেখানে A বিস্তার, [math]\omega[/math]
+ কৌণিক বেগ [math]\delta[/math]
+ আদি দশা ]সমীকরণ দুটি তুলনা করলে পাওয়া যায়,[math]\mathrm{A}=20 \mathrm{~m} \text { (Ans.) }[/math]
+এবং [math]\omega=31 \mathrm{\ rads}^{-1}[/math]
+এখন, আমরা জানি, পর্যায়কাল,[math]\begin{aligned}\mathrm{T} & =\frac{2 \pi}{\omega} \\& =\frac{2 \times 3.14 \mathrm{rad}}{31 \mathrm{rads}^{-1}} \\& =0.20 \mathrm{~s}(\text { Ans. })\end{aligned}[/math]
+কম্পাঙ্ক,[math]\begin{aligned}\mathrm{n} & =\frac{1}{\mathrm{~T}}=\frac{1}{0.20 \mathrm{~s}} \\& =5 \mathrm{~Hz}(\mathbf{A n s .})\end{aligned}[/math]
+আবার, সর্বোচ্চ বেগ,[math]\begin{aligned}\mathrm{v}_{\max } & =\omega \mathrm{A} \\& =31 \mathrm{rad} \mathrm{s}^{-1} \times 20 \mathrm{~m} \\& =620 \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সূত্রে সাইন ফাংশনের গুণকই বিস্তার এবং কৌণিক গুণকই কোণীয় কম্পাঙ্ক, তাই থেকে বাকি মানগুলো পাওয়া যায়।  
+ক বিস্তার: [math]20\ \mathrm{m}[/math]. খ কম্পাঙ্ক: [math]\nu=\frac{\omega}{2\pi}=\frac{31}{2\pi}\ \mathrm{Hz}[/math].  
+গ পর্যায়কাল: [math]T=\frac{1}{\nu}=\frac{2\pi}{31}\ \mathrm{s}[/math].  
+ঘ সর্বোচ্চ বেগ: [math]v_{\max}=A\omega=20\times31=620\ \mathrm{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 412362)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল ছন্দিত গতি রচনাকারী একটি কণার বিস্তার 0.025m ও পর্যায়কাল 1.05s হলে মধ্য অবস্থান দি য়ে যাওয়ার কালে কণাটির বেগ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.15 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,বিস্তার, [math]\mathrm{A}=0.025 \mathrm{~m}[/math]
+পর্যায়কাল, [math]\mathrm{A}=0.025 \mathrm{~m}[/math]
+সরণ, x =মধ্য অবস্থান = 0বেগ = ?আমরা জানি, [math]\mathrm{v}=\omega \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}}[/math]
+আবার,[math]\omega=\frac{2 \pi}{T}[/math]
+ [math]=\frac{2 \times 3.14 \mathrm{rad}}{1.05 \mathrm{~s}}=5.98 \mathrm{rad} . \mathrm{s}^{-1}[/math]
+ [math]\therefore[/math]
+ (i) নং সমীকরণ হইতে পাই,[math]\begin{aligned}\mathrm{v} & =5.98 \mathrm{rad} . \mathrm{s}^{-1} \times \sqrt{(0.025 \mathrm{~m})^{2}-0} \\& =0.15 \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+মাঝ অবস্থানে কণার বেগ সর্বোচ্চ এবং সরল ছন্দিত গতিতে তা [math]v_{\max}=A\omega[/math], যেখানে [math]\omega=\dfrac{2\pi}{T}[/math]. এখানে [math]A=0.025\ \text{m},\ T=1.05\ \text{s}[/math], তাই [math]v=0.025\times\frac{2\pi}{1.05}\approx0.15\ \text{m/s}[/math].
+
+Sub-Questions:
+

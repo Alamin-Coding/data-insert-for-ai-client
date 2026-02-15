@@ -1,0 +1,2796 @@
+================================================================================
+Question #1 (ID: 420831)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+চার্জিত গোলকের পৃষ্ঠে তড়িৎ প্রাবল্য সর্বোচ্চ – ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+[Image]
+ধরা যাক, একটি R ব্যাসার্ধের ফাঁপা গোলক যা K তড়িৎ মাধ্যমাঙ্কবিশিষ্ট কোনো মাধ্যমে অবস্থিত এবং এতে + q আধান সর্বদা পরিবাহীর পৃষ্ঠে অবস্থান করে। ফলে গোলকের পৃষ্ঠ থেকে বলরেখাসমূহ লম্বভাবে সকল দিকে নির্গত হবে (চিত্র-১)। গোলকের ভেতরে কোনো আধান না থাকার গোলকের ভেতরে যেকোনো বিন্দুতে প্রাবল্য, E = 0 হবে। গোলকের পৃষ্ঠে প্রাবল্যের মান হবে সর্বোচ্চ এবং তা হবে, [math]E=\frac{1}{4 \pi \epsilon_{0} K} \frac{q}{R^{2}}[/math]
+ গোলকের পৃষ্ঠ হতে দূরতম স্থানে তড়িৎ প্রাবল্যের মান কমতে থাকবে, এবং তা হবে গোলকের কেন্দ্র থেকে উক্ত দূরত্বের বর্গের ব্যস্তানুপাতিক। তখন দূরত্বে প্রাবল্য,[math]E=\frac{1}{4 \pi \epsilon_{0} K} \frac{q}{r^{2}}(r>R)[/math]
+গোলকের কেন্দ্র থেকে প্রাবল্য বনাম দূরত্ব এর লেখচিত্র চিত্র-২ এ দ্রষ্টব্য।
+[Image]
+সুতরাং, চার্জিত গোলকের পৃষ্ঠে তড়িৎ প্রাবল্য সর্বোচ্চ।
+
+Explanation:
+ব্যাখ্যা: গসের সূত্র প্রয়োগ করলে বাহিরে [math]r>R[/math] এ [math]E(r)=\dfrac{Q}{4\pi\varepsilon_0 r^2}[/math] যা [math]r[/math] বাড়লে কমে যায়, কন্ডাকটিং গোলকের ভিতরে [math]r<R[/math] এ [math]E=0[/math], আর সমঘন অপরিবাহী (solid) গোলকের ভিতরে [math]E=\dfrac{Q\,r}{4\pi\varepsilon_0 R^3}[/math] হিসেবে [math]r[/math] বাড়ালে বাড়ে। তাই অভ্যন্তর থেকে বাহিরে বেড়ে পরে কমতে থাকা কারণে সবচেয়ে বড় মান পায় পৃষ্ঠায় ([math]r=R[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 420832)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+অসীম দৈর্ঘ্যের চার্জিত পরিবাহক কর্তৃক সৃষ্ট তড়িৎক্ষেত্র প্রাবল্যের সাথে দূরত্বের সম্পর্ক কীরূপ? ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, অসীম দৈর্ঘ্যের চার্জিত পরিবাহক কর্তৃক সৃষ্ট তড়িৎপ্রাবল্য, [math]\mathrm{E}=\frac{\lambda}{2 \pi \epsilon_{0} \mathrm{r}}[/math]
+ যেখানে, [math]\lambda=[/math]
+ একক দৈর্ঘ্যের চার্জ এবং r =দূরত্ব। [math]\lambda[/math]
+ ধ্রুবক হলে, [math]E \propto \frac{1}{r}[/math]
+। অর্থাৎ, তড়িৎপ্রাবল্যের মান দূরত্বের ব্যস্তানুপাতিক। দূরত্ব যত কম, প্রাবল্য তত বেশি। দূরত্ব বেশি হলে প্রাবল্য কমে যায়। এজন্য অসীম দৈর্ঘ্যের চার্জিত পরিবাহীর ক্ষেত্রে কম দূরত্বে তড়িৎ প্রাবল্য বেশি ও বেশি দূরত্বে তড়িৎ প্রাবল্য কম।
+
+Explanation:
+ব্যাখ্যা: অসীম দৈর্ঘ্যের রেখাচার্জ বা পরিবাহকের ক্ষেত্র বিশ্লেষণে ঘনত্ব [math]\lambda[/math] ধরে সিলিন্ড্রিক গাউসীয় পৃষ্ঠি নেওলে গাউসের সূত্র থেকে পাওয়া যায় [math]E(2\pi r L)=\dfrac{\lambda L}{\varepsilon_0}[/math], তাই [math]E=\dfrac{\lambda}{2\pi\varepsilon_0 r}[/math]। ফলে তড়িৎক্ষেত্রের প্রবলতা দুরত্বের সাথে উলম্বমাত্রকভাবে হ্রাস পেয়ে [math]E\propto 1/r[/math] হয় (ধনাত্মক চার্জ হলে ত্তথ্য বাইরে দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 420833)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+একক চার্জ দ্বারা সৃষ্ট তড়িৎক্ষেত্র সুষম হয় না কেন?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+একক চার্জ দ্বারা সৃষ্ট তড়িৎক্ষেত্রের কোনো বিন্দুর প্রাবল্য,[math]\mathrm{E}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{g}}{\mathrm{r}^{2}}[/math]এখানে । হলো চার্জ হতে পরীক্ষাধীন বিন্দুর দূরত্ব। তড়িৎক্ষেত্রের বিভিন্ন অবস্থানের জন্য r -এর মান বিভিন্ন, তাই তড়িৎক্ষেত্রের বিভিন্ন স্থানে বিভিন্ন মানের তড়িৎপ্রাবল্য ও বলরেখাসমূহের বিভিন্ন ঘনত্বের প্যাটার্ন বিরাজ করে। এ সকল কারণেই একক চার্জ দ্বারা সৃষ্ট তড়িৎক্ষেত্র সুষম হয় না।
+
+Explanation:
+একক চার্জের তড়িৎক্ষেত্র সুষম নয় কারণ ক্ষেত্রের তীব্রতা কেন্দ্র থেকে দুরত্বের উপর পরিবর্তিত হয়; কুলম্বের সূত্র অনুযায়ী [math]E = kq/r^2[/math], অতএব দূরত্ব বাড়লে ক্ষেত্র দুর্বল হয় এবং ক্ষেত্রের দিক রেডিয়ালভাবে পরিবর্তিত হয়, ফলে এটি সারাবিশ্বে সমান থাকে না।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 420828)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2024 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+চার্জিত গোলকের পৃষ্ঠে তড়িৎ প্রাবল্য সর্বোচ্চ— ব্যাখ্যা করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+[Image]
+কোন পরিবাহীর চার্জ এর পৃষ্ঠে সুষমভাবে বিন্যস্ত থাকে। তাই পৃষ্ঠের সকল চার্জ-এর কেন্দ্রে পুঞ্জিভূত আছে কল্পনা করলেও এর ক্ষেত্রের (Field) কোন পরিবর্তন হয় না। পৃষ্ঠে অর্থাৎ কেন্দ্র হতে [math]r[/math]
+ দূরত্বেবিভব, [math]V=\frac{1}{4 \pi \epsilon_{0}} \frac{q}{r}[/math]
+ধারকত্ব, [math]C=\frac{q}{V}=\frac{q}{\frac{1}{4 \pi \epsilon_{0}} \times \frac{q}{r}}=4 \pi \varepsilon_{0} r[/math]
+গোলাকার পরিবাহীর ধারকত্ব, [math]C=4 \pi \epsilon_{0} r[/math]
+অর্থাৎ [math]C \propto r,[/math]
+ ধারকত্ব ব্যাসার্ধের সমানুপাতিক।চার্জ গোলকের বাইরের পৃষ্ঠে অবস্থান করে। ব্যাসার্ধ বেশি হলে, গোলকের পৃষ্ঠের ক্ষেত্রফল বেশি হয়। তাই গোলাকার পরিবাহীর ব্যাসার্ধ বাড়লে ধারকত্ব বৃদ্ধি পায়।
+
+Explanation:
+তर्क: বাহিরে গোলকের ক্ষেত্রটি বিন্দুচারের মতো আচরণ করে এবং বাহিরের স্থানে [math]E=\dfrac{1}{4\pi\varepsilon_0}\dfrac{Q}{r^2}[/math], তাই [math]r[/math] বাড়লে [math]E[/math] কমে এবং [math]r=R[/math] (পৃষ্ঠ) এ সর্বোচ্চ হয়। কন্ডাকটিং গোলকের ক্ষেত্রে অভ্যন্তরে [math]E=0[/math] থাকে, আর সমবহন ঘনত্ব বিশিষ্ট কঠিন গোলকের ক্ষেত্রে অভ্যন্তরের [math]E\propto r[/math] হওয়ায় তাও পৃষ্ঠেই সর্বোচ্চ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 420829)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023, 2016 | Boards: Dhaka Board | Tags: Jessore Board, Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+চার্জিত গোলকের কেন্দ্রে প্রাবল্য শূন্য" ব্যাখ্যা করো?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোনো চার্জিত পরিবাহী গোলকের অভ্যন্তরে কোনো চার্জ থাকে না, সমস্ত চার্জ অবস্থান করে এর পৃষ্ঠে। তড়িৎ বল রেখা নির্গত হয় চার্জ থেকে, তাই বলা যায় চার্জিত গোলাকার পরিবাহীর অভ্যন্তরে কোনো বল রেখা থাকে না। এজন্য চার্জিত পরিবাহী গোলকের কেন্দ্রে প্রাবল্য শূন্য হয়।
+
+Explanation:
+গোলকের প্রতিটি ছোট চার্জ উপাদান কেন্দ্রের দিকে সমভাগে-বিপরীত দিকে শক্তি দেয়, ফলে প্রতিটি দিকের অবদানগুলো পরস্পর বাতিল হয়ে যায়; তাই নেট প্রাবল্য শূন্য থাকে। পাশাপাশি গসের সূত্র বলছে সমগোলীয় বণ্টনের ক্ষেত্রে গোলকের অভ্যন্তরে আবদ্ধ চার্জ না থাকায় কেন্দ্রসহ অভ্যন্তরের যেকোনো বিন্দুতে [math]E=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 420830)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+চার্জিত গোলাকার পরিবাহীর কেন্দ্রে তড়িৎ প্রাবল্য শূন্য হয় কেন?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি তড়িৎ ক্ষেত্রের কোনো বিন্দুতে প্রাবল্য, [math]\mathrm{E}[/math]
+ [math]=-\frac{\mathrm{dV}}{\mathrm{dr}}[/math]
+চার্জিত গোলকের পৃষ্ঠ এবং অভ্যন্তরে সর্বত্র বিভব সমান। অর্থাৎ চার্জিত গোলাকার পরিবাহীর কেন্দ্রেও বিভবের মান ধ্রুব থাকবে। এখন, V ধ্রুবক হলে [math]\frac{\mathrm{dV}}{\mathrm{dr}}[/math]
+ তথা E এর মান শূন্য হবে। অন্যভাবে বলা যায়, গোলাকার পরিবাহীর অভ্যন্তরে কোনো তড়িৎ বলরেখা থাকে না তাই পরিবাহীর কেন্দ্রে প্রাবল্য শুন্য হয়।সুতরাং, চার্জিত গোলাকার পরিবাহীর কেন্দ্রে তড়িৎ প্রাবল্য শূন্য হয়।
+
+Explanation:
+কারণ স্থির বৈদ্যুতিক সমতায় পরিবাহীর সব চার্জ বাহিরের পৃষ্ঠে স্থানান্তরিত হয় এবং ভেতরের দিকে কোনো শূন্যচিহ্নিত চার্জ থাকে না, ফলে ভেতরে তড়িৎক্ষেত্র শূন্য হয়ে যায়। গাউসনের সূত্র অনুযায়ী ভিতরের কোনো গোলাকার গাউসীয় পৃষ্ঠায় আবদ্ধ চার্জ শূন্য হওয়ায় [math]E\cdot 4\pi r^2=0\Rightarrow E=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 420826)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Border Guard Public School & College
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দুটি বিন্দু চার্জ নির্দিষ্ট দূরত্বে শূন্য মাধ্যমে আছে ।
+
+[Image]
+
+
+Options:
+ঘ. চার্জদ্বয়ের সংযোজক রেখার উপর কোন বিন্দুতে বৈদ্যুতিক প্রাবল্য শূন্য হওয়া সম্ভব কি না— প্রয়োজনীয় গাণিতিক বিশ্লেষণসহ যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে, A বিন্দুর চার্জ, [math]q_{1}= 30 \times 10^{-7} \mathrm{C}[/math]
+B বিন্দুর চার্জ [math]q_{2}= -40 \times 10^{-7} \mathrm{C}[/math]
+A ও B বিন্দুর মধ্যবর্তী দূরত্ব r = 1 mএখন, ধরি, চার্জদ্বয়ের সংযোগ রেখার বর্ধিতাংশের উপর A বিন্দু থেকে x m দূরের কোনো বিন্দু P তে তড়িৎ প্রাবল্যের মান শূন্য হবে।A বিন্দুর আধানের জন্য P বিন্দুতে প্রাবল্য,[math]E_{1}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{x^{2}}[/math]
+আবার, B বিন্দুর আধানের জন্য P বিন্দুতে প্রাবল্য[math]E_{2}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{2}}{(r+x)^{2}}[/math]
+এখন, আধান বিপরীতমুখী হওয়ায় এদের মান সমান হলে P বিন্দুতে প্রাবল্য শূন্য হবে।[math]\therefore \quad E_{1}=E_{2}[/math]
+বা, [math]\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{x^{2}}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{2}}{(r+x)^{2}}[/math]
+বা, [math]\frac{q_{1}}{x^{2}}=\frac{q_{2}}{(r+x)^{2}}[/math]
+বা, [math]\frac{\mathrm{q}_{1}}{\mathrm{q}_{2}}=\frac{\mathrm{x}^{2}}{(\mathrm{r}+\mathrm{x})^{2}}[/math]
+বা, [math]\frac{30 \times 10^{-7}}{40 \times 10^{-7}}=\frac{x^{2}}{(1+x)^{2}}[/math]
+বা, [math]\frac{3}{4}=\frac{x^{2}}{(1+x)^{2}}[/math]
+বা, [math]\frac{\sqrt{3}}{2}=\frac{x}{1+x}[/math]
+বা, [math]\sqrt{3}+\sqrt{3} x=2 x[/math]
+বা, [math]x=\frac{\sqrt{3}}{2-\sqrt{3}}[/math]
+ [math]\therefore[/math]
+ x = 6.46অতএব, চার্জদ্বয়ের সংযোগ রেখার বর্ধিতাংশের উপর A বিন্দু থেকে 6.46 m দূরে অর্থাৎ B বিন্দু থেকে (1 + 6.46) m বা 7.46 m দূরে কোনো বিন্দুতে বৈদ্যুতিক প্রাবল্য শূন্য হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: ধরা যাক চার্জগুলো q_1 এবং q_2 বিন্দুতে যথাক্রমে x=0 ও x=d-এ আছে। মধ্যবর্তী স্থানে (0) ক্ষেত্রের মান শূন্য করতে মানের সমানতা লাগবে: [math]\frac{|q_1|}{x^2}=\frac{|q_2|}{(d-x)^2}[/math], ফলে [math]x=\frac{d}{1+\sqrt{|q_2/q_1|}}[/math]; তাই মধ্যবর্তী বিন্দুতে শূন্য হতে হলে চার্জদ্বয় একই চিহ্নের (like charges) হতে হবে। বিপরীত চিহ্নের হলে মধ্যবর্তী স্থানে দুই ক্ষেত্র একই দিক দেখায় এবং শূন্য হয় না; তখন শূন্য বিন্দু হতে পারে শুধুমাত্র সংযুক্ত রেখার বাহিরে, ছোট মানের চার্জের পার্শ্বে (উদাহরণস্বরূপ যদি |q_1|>|q_2| হয় এবং বিন্দু x>d হয়, তখন [math]x=\frac{d}{1-\sqrt{|q_2/q_1|}}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 420827)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2024 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+"চার্জিত গোলকের কেন্দ্রে প্রাবল্য শূন্য"- ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোনো চার্জিত পরিবাহী গোলকের অভ্যন্তরে কোনো চার্জ থাকে না, সমস্ত চার্জ অবস্থান করে এর পৃষ্ঠে। তড়িৎ বল রেখা নির্গত হয় চার্জ থেকে, তাই বলা যায় চার্জিত গোলাকার পরিবাহীর অভ্যন্তরে কোনো তড়িৎ বলরেখা থাকে না। এজন্য চার্জিত পরিবাহী গোলকের কেন্দ্রে প্রাবল্য শূন্য হয়।
+
+Explanation:
+ব্যাখ্যা: গোলকের প্রতিটি চার্জ উপাদান থেকে কেন্দ্রের দিকে তৈরি হওয়া ক্ষেত্রের সমকেন্দ্রিক প্রতিপক্ষ উপাদান একই মাত্রার কিন্তু বিপরীত দিকের ক্ষেত্র উৎপন্ন করে, ফলে সব ভেক্টর যোগে কেন্দ্রের নেট প্রাবল্য শূন্য হয়। বিশেষভাবে পরিবাহী গোলকের ক্ষেত্রে চার্জগুলি কেবল পৃষ্ঠে অবস্থান করে, তাই অভ্যন্তরে (কেন্দ্রে) ক্ষেত্র সম্পূর্ণরূপে শূন্য থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 420824)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Sylhet MC College
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] সমকোণী ত্রিভুজের [math]A[/math] ও [math]B[/math] বিন্দুতে [math]+ 5\ C[/math] ও [math]– 5\ C[/math] চার্জ রাখা হয়। পরবর্তীতে [math]B[/math] বিন্দুতে [math]+ 5\ C[/math] এর পরিবর্তে [math]- 5\ C[/math] চার্জ রাখা হয়।
+
+[Image]
+
+
+Options:
+ঘ. পরিবর্তিত চার্জের জন্য [math]C[/math] বিন্দুতে লব্ধি তড়িৎ প্রাবল্যের কীরূপ পরিবর্তন হবে? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ [math]\mathrm{E}_{\mathrm{AC}}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{g}_{\mathrm{A}}}{\mathrm{r}_{\mathrm{AC}}{ }^{2}}=9 \times 10^{9} \times \frac{5}{(\sqrt{2})^{2}}=2.25 \times 10^{10} \mathrm{NC}^{-1}[/math]
+এবং [math]\begin{aligned}\mathrm{E}_{\mathrm{BC}} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{9_{\mathrm{B}}}{\mathrm{r}_{\mathrm{BC}} \mathrm{C}^{2}}=9 \times 10^{9} \times \frac{5}{1^{2}} \\& =4.5 \times 10^{10} \mathrm{NC}^{-1}=2 \times 2.25 \times 10^{10} \mathrm{NC}^{-1}=2 \mathrm{E}_{\mathrm{AC}}\end{aligned}[/math]
+
+[Image]
+[math]\begin{aligned}\therefore \mathrm{E}_{\mathrm{C}}^{2} & =\mathrm{E}_{\mathrm{AC}}^{2}+\mathrm{E}_{\mathrm{BC}}^{2}+2 \mathrm{E}_{\mathrm{AC}} \mathrm{E}_{\mathrm{BC}} \cos 45^{\circ} \\& =\mathrm{E}_{\mathrm{AC}}^{2}+\left(2 \mathrm{E}_{\mathrm{AC}}\right)^{2}+2 \mathrm{E}_{\mathrm{AC}} \cdot 2 \mathrm{E}_{\mathrm{AC}} \times \frac{1}{\sqrt{2}}\end{aligned}[/math]
+বা, [math]\begin{aligned}\mathrm{E}_{\mathrm{C}} & =\mathrm{E}_{\mathrm{AC}} \sqrt{1+4+2 \sqrt{2}} \\& =2.25 \times 10^{10} \times \sqrt{5+2 \sqrt{2}} \\& =6.295 \times 10^{10} \mathrm{NC}^{-1}\end{aligned}[/math]
+যা BC এর সাথে [math]\theta[/math]
+ কোণে ক্রিয়া করে[math]\therefore \tan \theta=\frac{E_{A C} \sin 45^{\circ}}{E_{B C}+E_{A C} \cos 45^{\circ}}[/math]
+বা, [math]\theta=14.64^{\circ}[/math]
+
+[Image]
+এখন, B বিন্দুতে + 5C চার্জের স্থলে – 5C চার্জ স্থাপন করলে[math]\therefore \mathrm{E}_{\mathrm{C}}^{\prime 2}=\mathrm{E}_{\mathrm{AC}}^{\prime}{ }^{2}+\mathrm{E}_{\mathrm{BC}}^{\prime}{ }^{2}+2 \mathrm{E}_{\mathrm{AC}} \mathrm{E}_{\mathrm{BC}}^{\prime} \cos 135^{\circ}[/math]
+বা, [math]\begin{aligned}\mathrm{E}_{\mathrm{C}^{\prime}} & =\mathrm{E}_{\mathrm{AC}^{\prime}} \sqrt{5-2 \sqrt{2}} \\& =3.315 \times 10^{10} \mathrm{NC}^{-1}\end{aligned}[/math]
+যা CB এর সাথে [math]\theta[/math]
+' কোণে ক্রিয়া করে[math]\tan \theta^{\prime}=\frac{E_{A C^{\prime}} \sin 135^{\circ}}{E_{\mathrm{BC}^{\prime}}+E_{\mathrm{AC}}^{\prime} \cos 135^{\circ}}[/math]
+বা, [math]\theta=28.68^{\circ}[/math]
+যা BC এর দিকের সাথে (180° – 28.68° = 151.32° কোণে ক্রিয়াশীল হবে ।তাই B বিন্দুতে চার্জের পরিবর্তনে C বিন্দুতে প্রাবল্য [math]6.295 \times 10^{10} \mathrm{NC}^{-1}[/math]
+ হতে কমে [math]6.295 \times 10^{10} \mathrm{NC}^{-1}[/math]
+ হয় এবং দিক ঘড়ির কাঁটার দিকে 151.32° - 14.64° = 136.68° কোণে ঘুরে যায় ।
+
+Explanation:
+ঘ পরিবর্তন: B-তে +5C → −5C হলে Δq_B = −10 C। C-তে তড়িত ক্ষেত্রের পরিবর্তন হবে সেই অতিরিক্ত চার্জের সৃষ্টি ক্ষেত্র, অর্থাৎ
+[math]\Delta\vec E = k\,\frac{\Delta q_B}{r_{BC}^2}\,\hat r_{BC} = -\,k\frac{10}{r_{BC}^2}\,\hat r_{BC},[/math]
+যেখানে [math]r_{BC}[/math] হল B ও C এর দূরত্ব। ফলে B-দানের ক্ষেত্রের দিক উল্টে যায় এবং তীব্রতা মূল B-ক্ষেত্রের তুলনায় দ্বিগুণ পরিবর্তন ঘটে; C-তে মোট ক্ষেত্র A-এর ক্ষেত্রের সঙ্গে এই Δ\vec E যোগ/বিয়োগ করে নির্ধারিত হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 420825)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Carmichael College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+[math]5\ cm[/math] ও [math]15\ cm[/math] ব্যাসার্ধের [math]A[/math] ও [math]B[/math] দুটি গোলকের ওপর যথাক্রমে [math]+3.2 \times 10^{-9} \mathrm{C}[/math] ও [math]+8 \times 10^{-19} \mathrm{C}[/math] চার্জ ছেড়ে দেওয়া হলো। তারপর গোলক দুটিকে পরস্পরের পৃষ্ঠ থেকে [math]20\ cm[/math] দূরে শূন্য মাধ্যমে স্থাপন করা হলো।
+
+Options:
+ঘ. গোলকদ্বয়ের সংযোজক রেখার উপর [math]A[/math] গোলকের পৃষ্ঠ থেকে [math]5\ cm[/math] দূরের কোন বিন্দুতে প্রাবল্য শূন্য হবে কী? গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, গোলকদ্বয়ের মধ্যবর্তী দূরত্ব, r = 5 + 20 + 15 = 40 cm = 0.40mএখন, A গোলকের পৃষ্ঠ থেকে 5 cm দূরের অর্থাৎ A গোলকের কেন্দ্র থেকে 10 cm দূরের কোনো বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{A}}= & \frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}}{\mathrm{r}_{\mathrm{A}}^{2}} \\& =9 \times 10^{9} \times \frac{3.2 \times 10^{-19}}{(0.1)^{2}} \\& =28.80 \times 10^{-8} \mathrm{~N}\end{aligned}[/math]
+আবার, B গোলকের কেন্দ্র থেকে (40 – 10) = 30 cm দূরের কোনো বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{B}}= & \frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}}{\mathrm{r}_{\mathrm{B}}^{2}} \\& =9 \times 10^{9} \times \frac{8 \times 10^{-19}}{(0.3)^{2}} \\& =8 \times 10^{-8} \mathrm{~N}\end{aligned}[/math]
+যেহেতু [math]E_A ≠ E_B[/math]
+; সুতরাং গোলকদ্বয়ের সংযোজক রেখার উপর A গোলকের পৃষ্ট থেকে 5 cm দূরের কোন বিন্দুতে প্রাবল্য শূন্য হবে না ।
+
+Explanation:
+ঘ অবস্থানে A এবং B কেন্দ্রের মধ্যকার দুরত্ব হচ্ছে [math]5+15+20=40\ \text{cm}=[math]0.40\ \text{m}[/math], তাই পয়েন্টটি A কেন্দ্র থেকে [math]5+5=10\ \text{cm}=[math]0.10\ \text{m}[/math] এবং B কেন্দ্র থেকে [math]40-10=30\ \text{cm}=[math]0.30\ \text{m}[/math] দূরে।  
+বৈদ্যুতিক ক্ষেত্র শূন্য হলে চাই [math]\dfrac{q_A}{r_A^2}=\dfrac{q_B}{r_B^2}[/math]; এখানে [math]\dfrac{3.2\times10^{-9}}{(0.10)^2}=3.2\times10^{-7}[/math] কিন্তু [math]\dfrac{8\times10^{-19}}{(0.30)^2\ } \approx8.9\times10^{-18}[/math], যা সমান নয়। তাই ওই বিন্দুতে প্রাবল্য শূন্য হবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 420823)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Hazera Taju Degree College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]q_{A}=9 C, q_{B}=6 C[/math] এবং [math]A B=B C=18 \mathrm{~cm}[/math]
+
+Options:
+ঘ. [math]B[/math] বিন্দুতে [math]6\ C[/math] এর পরিবর্তে [math]-10\ C[/math] চার্জ স্থাপন করা [math]C[/math] বিন্দুতে তড়িৎ প্রাবল্যের কিরূপ পরিবর্তন হবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+[math]\begin{aligned}\mathrm{AC}^{2} & =\mathrm{AB}^{2}+\mathrm{BC}^{2} \\& =18^{2}+18^{2} \\& =648 \mathrm{~cm}^{2} \\& =6.48 \times 10^{-2} \mathrm{~m}^{2}\end{aligned}[/math]
+A বিন্দুর জন্য C বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{A}} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{\mathrm{A}}}{(\mathrm{AC})^{2}} \\& =9 \times 10^{9} \frac{9}{6.48 \times 10^{-2}} \\\mathrm{E}_{\mathrm{A}} & =1.25 \times 10^{12} \mathrm{NC}^{-1}\end{aligned}[/math]
+এর দিক AC বরাবরB বিন্দুর জন্য C বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{B}} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{\mathrm{B}}}{(\mathrm{BC})^{2}} \\& =9 \times 10^{9} \times \frac{6}{(0.18)^{2}}\end{aligned}[/math]
+ [math]\mathrm{E}_{\mathrm{B}}=1.67 \times 10^{12} \mathrm{NC}^{-1}[/math]
+ এর দিক BC বরাবর[math]\therefore[/math]
+ লব্ধি প্রাবল্য, [math]\mathrm{E}=\sqrt{\mathrm{E}_{\mathrm{A}}^{2}+\mathrm{E}_{\mathrm{B}}^{2}+2 \mathrm{E}_{\mathrm{A}} \mathrm{E}_{\mathrm{B}} \cos 45^{\circ}}[/math]
+ [math]=\sqrt{\left.\left(1.25 \times 10^{12}\right)^{2}+\left(1.67 \times 10^{12}\right)^{2}+2 \times 1.25 \times 10^{12} \times 1.67 \times 10^{12} \times \cos 45^{\circ}\right)}[/math]
+ [math]= 2.7 \times 10^{12} \mathrm{NC}^{-1}[/math]
+
+[Image]
+এখন B বিন্দুতে চার্জ - 10 C হলে, [math]q_{B}[/math]
+ = - 10 C তবে, B বিন্দুর জন্য C বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{B^{\prime}} & =\frac{1}{4 \pi \mathrm{E}_{0}}-\frac{9 \mathrm{~B}^{\prime}}{(\mathrm{BC})^{2}} \\& =9 \times 10^{9} \times \frac{(-10)}{(0.18)^{2}}=2.78 \times 10^{12} \mathrm{NC}^{-1}\end{aligned}[/math]
+এর দিক CB বরাবর[math]\therefore[/math]
+ লব্ধি প্রাবল্য, [math]\mathrm{E}^{\prime}=\sqrt{\mathrm{E}_{\mathrm{A}}^{2}+\mathrm{E}_{\mathrm{B}}{ }^{\prime 2}+2 \mathrm{E}_{\mathrm{A}} \mathrm{E}_{\mathrm{B}}^{\prime} \cos 135^{\circ}}[/math]
+বা, [math]\mathrm{E}^{\prime}=\sqrt{\left(1.25 \times 10^{12}\right)^{2}+\left(2.78 \times 10^{12}\right)^{2}+2 \times 1.25 \times 10^{12} \times 2.78 \times 10^{12} \times \cos 135^{2}}[/math]
+ [math]\therefore \mathrm{E}^{\prime}=2.09 \times 10^{12} \mathrm{NC}^{-1}[/math]
+ [math]\therefore[/math]
+ প্রাবল্যের পরিবর্তন হবে,[math]\begin{aligned}\Delta \mathrm{E} & =\mathrm{E}-\mathrm{E}^{\prime} \\& =2.7 \times 10^{12}-2.09 \times 10^{12} \\& =6.1 \times 10^{11} \mathrm{NC}^{-1}\end{aligned}[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: চার্জগুলোর মাধ্যমিকতা অনুসারে, সুপারপজিশন আইন প্রয়োগ করলে [math]A[/math]-এর ফলে [math]C[/math]-বে ক্ষেত্রটি হবে [math]E_A=k\frac{9}{(0.36)^2}[/math] (ডানদিকে), আর বদলি করা [math]-10\ C[/math] বস্তুর ফলে [math]C[/math]-বে ক্ষেত্রটির প্রবলতা হবে [math]E_B=k\frac{10}{(0.18)^2}[/math] কিন্তু বামদিকে (নেগেটিভ চার্জের দিকে)। যেহেতু [math]E_B>E_A[/math], ফলে মোট ক্ষেত্রটি বামদিকে পরিবর্তিত হবে এবং এর মান হবে [math]E_{\text{নতুন}}=k\Big(\frac{10}{0.18^2}-\frac{9}{0.36^2}\Big)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 420822)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Chittagong Cantonment Public School & College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. P বিন্দুতে তড়িৎ প্রাবল্যের মান কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গP বিন্দুতে তড়িৎ প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{p}} & =\frac{1}{4 \pi \epsilon_{0}} \frac{2 \mathrm{pr}}{\left(\mathrm{r}^{2}-l^{2}\right)^{2}} \\& =\frac{1}{4 \pi \in_{0}} \frac{2 \times \mathrm{q} \times 2 l \times \mathrm{r}}{\left(\mathrm{r}^{2}-l^{2}\right)^{2}} \\& =9 \times 10^{9} \times \frac{2 \times 10 \times 10^{-6} \times 2 \times 0.20 \times 0.25}{\left\{(0.25)^{2}-(0.2)^{2}\right\}^{2}} \\& =3.56 \times 10^{7} \mathrm{~N} / \mathrm{C}\end{aligned}[/math]
+অতএব, P বিন্দুতে তড়িৎ প্রাবল্যের মান [math]3.56 \times 10^{7} \mathrm{~N} / \mathrm{C}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ সঠিক কারণ P বিন্দুতে প্রতিটি চার্জ থেকে আসা তড়িৎ ক্ষেত্রের অনুভূমিক উপাদানগুলো সমান ও বিপরীত দিকের হওয়ায় বিলুপ্ত হয় এবং কেবল উল্লম্ব উপাদানগুলো যোগ হয়; কুলম্বের সূত্র [math]E=k\frac{q}{r^2}[/math] ব্যবহার করে উপাদানগুলোর যোগফল নেয়ালে বিকল্প গ-তে থাকা মানটি পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 420821)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Ispahani Public School And College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. [math]A[/math] বিন্দুতে চার্জের পরিবর্তন করে [math]P[/math] তে প্রাবল্য শূন্য করা সম্ভব। কি-না? গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, AB = BP = 10 cm = 0.1 m[math]\therefore[/math]
+ AP = AB + BP = (10+10) cm = 20 cm = 0.2 mধরি, A বিন্দুতে q চার্জ স্থাপন করলে P বিন্দুতে প্রাবল্য শূন্য হবেপ্রশ্নমতে, [math]\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}}{(0.2)^{2}}+\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{\mathrm{B}}}{(0.1)^{2}}=0[/math]
+বা, [math]\frac{1}{4 \pi \epsilon_{0}} \frac{q}{(0.2)^{2}}+\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{-8 \times 10^{-9}}{(0.1)^{2}}=0[/math]
+বা, [math]\frac{q}{(0.2)^{2}}=\frac{8 \times 10^{-9}}{(0.1)^{2}}[/math]
+বা, [math]\mathrm{q}=\frac{8 \times 10^{-9} \times(0.2)^{2}}{(0.1)^{2}}[/math]
+বা, [math]q=32 \times 10^{-9} \mathrm{C}[/math]
+সুতরাং, A বিন্দুতে [math]-6 \times 10^{-9} \mathrm{C}[/math]
+ এর পরিবর্তে [math]32 \times 10^{-9} \mathrm{C}[/math]
+ চার্জ স্থাপন করলে P বিন্দুতে প্রাবল্য শূন্য হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ সম্ভাব্য, কিন্তু শুধু তখনই যদি A থেকে P‑এর দিকে তৈরি ইলেকট্রিক ক্ষেত্রটির দিকটি অন্যান্য স্থির চার্জগুলোর ফলে P‑তে তৈরি ফলনক্ষেত্র [math]\mathbf{E}_0[/math]‑এর বিপরীত দিশায় থাকে। সূত্রগতভাবে A‑এর দূরত্ব [math]r_{AP}[/math] ধরা হলে A‑এর তৈরি ক্ষেত্রের ভেক্টর হলো [math]\mathbf{E}_A=k\,q_A\frac{\mathbf{r}_{PA}}{r_{PA}^3}; শূন্যের শর্তে [math]\mathbf{E}_A=-\mathbf{E}_0 হতে হবে। তাই দিকগুলো মিললে প্রয়োজনীয় চার্জ হবে
+[math]q_A=-\dfrac{E_0\,r_{AP}^2}{k},[/math]
+কিন্তু যদি [math]\mathbf{E}_0[/math]‑র দিক AP‑র সাথে সারিবদ্ধ না হয় তবে কোনো মানের [math]q_A[/math] দিয়ে P‑তে মোট ক্ষেত্র শূন্য করা যায় না।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 420820)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Comilla Cadet College
+--------------------------------------------------------------------------------
+Question:
+দুটি বিন্দু চার্জ [math]q_{1}=-1 \times 10^{-6} \mathrm{C}[/math] এবং [math]q_{2}=4 \times 10^{-6} \mathrm{C}[/math] পরস্পর হতে [math]3\ m[/math] দূরে অবস্থিত।
+
+Options:
+গ. কোথায় তড়িৎ ক্ষেত্র শূন্য হবে।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক অনুসারে চার্জদ্বয়ের মান, [math]q_{1}= -1 \times 10^{-6} \mathrm{C}[/math]
+এবং [math]q_{2}= 4 \times 10^{-6} \mathrm{C}[/math]
+চার্জদ্বয়ের মধ্যবর্তী দূরত্ব, r = 3 mনিচের চিত্রটি লক্ষ করি,
+[Image]
+ধরি, [math]q_{2}[/math]
+ চার্জ থেকে (x + 3) m দূরে (সামনে) তড়িৎ ক্ষেত্রের মান শূন্য হবে। এখন, [math]q_{2}[/math]
+ চার্জের জন্য P বিন্দুতে প্রাবল্য বা তড়িৎ ক্ষেত্রের মান,[math]\mathrm{E}_{1}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{2}}{(\mathrm{x}+3)^{2}}[/math]
+; [math]q_{2}[/math]
+ থেকে P এর দিকে।আবার, [math]q_{1}[/math]
+ চার্জের জন্য P বিন্দুর তড়িৎ ক্ষেত্র[math]E_{2}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{x^{2}}[/math]
+; P হতে [math]q_{1}[/math]
+ এর দিকে ।যেহেতু [math]E_{1}[/math]
+ ও [math]E_{2}[/math]
+ পরস্পর বিপরীতমূখী সেহেতু [math]E_{1} = E_{2}[/math]
+ হলে P বিন্দুর তড়িৎক্ষেত্র শূন্য হবে ।[math]\therefore \mathrm{E}_{2}=\mathrm{E}_{1}[/math]
+বা, [math]\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{x^{2}}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{g_{2}}{(3+x)^{2}}[/math]
+বা, [math]\frac{q_{1}}{x^{2}}=\frac{q_{2}}{(3+x)^{2}}[/math]
+বা, [math]\frac{(3+x)^{2}}{x^{2}}=\frac{q_{2}}{q_{1}}[/math]
+বা, [math]\frac{(3+x)^{2}}{x^{2}}=\frac{4 \times 10^{-6}}{2 \times 10^{-6}}[/math]
+বা, [math]\frac{3+x}{x}=2[/math]
+বা, 2x = 3 + xবা, x = 3 mঅর্থাৎ [math]q_{1}[/math]
+ চার্জ হতে 3m সামনে তড়িৎ ক্ষেত্রের মান শূন্য হবে।
+
+Explanation:
+ব্যাখ্যা: গ তড়িৎ ক্ষেত্র হবে কিউ১-এর বাম পাশে 3 মি দূরে (অর্থাৎ কিউ১ থেকে আরও 3 মি দূরে, কিউদের এক রেখার বাইরে)। কারণ মধ্যবর্তী অঞ্চলে উভয় ক্ষেত্র একই দিশায় কাজ করে, তাই বাতিল করতে পারে না; বাইরের দিকে বিরোধী দিশায় থাকে। ধরা যাক কিউ১ at [math]x=0[/math] এবং কিউ২ at [math]x=3\ \text{m}[/math], বামদিকের বিন্দুতে দূরত্ব [math]d[/math] নির্ধারণের জন্য [math]\frac{|q_1|}{d^2}=\frac{q_2}{(3+d)^2}[/math] দিলে [math]d=3\ \text{m}[/math] বেরায়।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 420819)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: DAWOOD PUBLIC SCHOOL & COLLEGE
+--------------------------------------------------------------------------------
+Question:
+চিত্রে [math]B[/math] এবং [math]D[/math] বিন্দুতে অবস্থিত দুটি চার্জের পরিমাণ যথাক্রমে– [math]5\mu C[/math] এবং [math]7\mu C[/math]
+
+[Image]
+
+
+Options:
+গ. [math]A[/math] বিন্দুতে তড়িৎ প্রাবল্যের দিক কোন দিকে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, B বিন্দুর চার্জ, [math]\mathrm{q}_{1}=-5 \mu \mathrm{C}=5 \times 10^{-6} \mathrm{C}[/math]
+D বিন্দুর চার্জ, [math]\mathrm{q}_{2}=7 \mu \mathrm{C}=7 \times 10^{-6} \mathrm{C}[/math]
+ [math]r_{1} = AB = 1 m, r_{2} = AD = 1.25 m[/math]
+
+[Image]
+এখন, [math]q_{1}[/math]
+ চার্জের জন্য A বিন্দুতে প্রাবল্যের মান,[math]\begin{aligned}\mathrm{E}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{g}_{1}}{\mathrm{r}_{1}^{2}} \\& =9 \times 10^{9} \times \frac{5 \times 10^{-6}}{(1)^{2}} \\& =45 \times 10^{3} \mathrm{NC}^{-1},\end{aligned}[/math]
+;এর দিক AB বরাবর[math]q_{2}[/math]
+ চার্জের জন্য A বিন্দুতে প্রাবল্যের মান-[math]\begin{aligned}\mathrm{E}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{g}_{2}}{\mathrm{r}_{2}^{2}} \\& =9 \times 10^{9} \times \frac{7 \times 10^{-6}}{(1.25)^{2}}=40.32 \times 10^{3} \mathrm{NC}^{-1}\end{aligned}[/math]
+;এর দিক DA বরাবরমনে করি, লব্ধি E, [math]E_{1}[/math]
+ এর সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করে[math]\therefore \tan \theta=\frac{E_{2} \sin \alpha}{E_{1}+E_{2} \cos \alpha}[/math]
+বা, [math]\tan \theta=\frac{40.32 \times 10^{3} \sin 90^{\circ}}{45 \times 10^{3}+40.32 \times 10^{3} \cos 90^{\circ}}[/math]
+ [math]\therefore \theta=41.86^{\circ}[/math]
+অতএব, A বিন্দুতে প্রাবল্যের দিক AB এর সাথে 41.86° কোণে ।
+
+Explanation:
+গ ব্যাখ্যা: উভয় চার্জই ধনাত্মক, তাই [math]B[/math] থেকে [math]A[/math] দিকে ক্ষেত্রটি বাম থেকে ডান (B থেকে দূরে) এবং [math]D[/math] থেকে [math]A[/math] দিকে ক্ষেত্রটি ডান থেকে বাম (D থেকে দূরে) নির্দেশ করে; যেহেতু [math]7\mu C[/math] বড়, তাই [math]D[/math]-এর সৃষ্টি বামমুখী অংশটি বেশি শক্তিশালী হবে, ফলে [math]A[/math]-তে কুলন ক্ষেত্রের মোট দিক বাম দিকে (অর্থাৎ B-এর দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 420818)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+সমবাহু ত্রিভুজের প্রতিটি কোণে [math]10\ C[/math] মানের চার্জ স্থাপন করা হয়েছে এবং ত্রিভুজের প্রতিটি বাহুর দৈর্ঘ্য [math]6m[/math]।
+
+[Image]
+
+
+Options:
+গ. উপরোক্ত চিত্রের আলোকে তড়িৎ ক্ষেত্রের তীব্রতা [math]E[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের অনুসারে,চার্জদ্বয়ের মধ্যবর্তী দূরত্ব, [math]2 l=6 \mathrm{~m}[/math]
+চার্জের মান, q = 10 Cঅর্থাৎ, দ্বিমেরু ভ্রামক,[math]\mathrm{P}=\mathrm{q} \times 2 l[/math]
+বা, P = 6 [math]\times[/math]
+ 10বা, P = 60m[math]r=\sqrt{6^{2}+3^{2}}=6.71 \mathrm{~m}[/math]
+এখন, উদ্দীপক অনুসারে, [math]\angle \mathrm{MPN}=90^{\circ}[/math]
+ [math]\therefore \quad \theta=\frac{\angle \mathrm{MPN}}{2}=\frac{90^{\circ}}{2}[/math]
+বা, [math]\theta[/math]
+ = 45°দ্বিমেরুর জন্য তড়িৎ ক্ষেত্রের তীব্রতা,[math]E=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{P}{r^{3}} \sqrt{1+3 \cos ^{2} \theta}[/math]
+বা, [math]E=9 \times 10^{9} \times \frac{60}{(6.71)^{3}} \times \sqrt{1+3\left(\cos 45^{\circ}\right)^{2}}[/math]
+বা, [math]\mathrm{E}=2.83 \times 10^{9} \mathrm{NC}^{-1}[/math]
+অর্থাৎ তড়িৎক্ষেত্রের তীব্রতা, [math]2.83 \times 10^{9} \mathrm{NC}^{-1}[/math]
+
+
+Explanation:
+গ  
+ব্যাখ্যা: সমবাহু ত্রিভুজের প্রতিটি কোণে সমান ধনাত্মক চার্জ থাকায় কেন্দ্র থেকে প্রতিটি চার্জ দ্বারা উৎপন্ন ক্ষেত্রের মান [math]E_0=kq/r^2[/math] (এখানে [math]r=a/\sqrt{3}[/math]) কিন্তু তারা ১২০° কোণে পৃথক হওয়ায় তিনটি ভেক্টরের যোগফল শূন্য হয়। তাই সমগ্র তড়িৎ ক্ষেত্রের তীব্রতা [math]E=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 420817)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Abdul Kadir Molla City College
+--------------------------------------------------------------------------------
+Question:
+[math]\Delta ABC[/math] একটি সমবাহু ত্রিভুজ। এর প্রতি বাহুর দৈর্ঘ্য [math]12\ cm[/math]। [math]A,\ B,\ C[/math] বিন্দু তিনটিতে চার্জ যথাক্রমে— [math]4 \times 10^{-8} \mathrm{C}, 3 \times 10^{-8} \mathrm{C}, 5 \times 10^{-8} \mathrm{C}[/math] স্থাপন করা হলো।
+
+Options:
+গ. [math]-4 \times 10^{-8} \mathrm{C}[/math] চার্জ না থাকলে [math]A[/math] বিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,[math]\begin{array}{l}\mathrm{q}_{1}=3 \times 10^{-8} \mathrm{C} \\\mathrm{q}_{2}=5 \times 10^{-8} \mathrm{C} \\\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \\\theta=60^{\circ} \\\mathrm{r}=12 \mathrm{~cm}=12 \times 10^{-2} \mathrm{~m}\end{array}[/math]
+ B বিন্দুর চার্জের দরুন A বিন্দুতে সৃষ্ট তড়িৎ প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{\mathrm{g}_{1}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{3 \times 10^{-8}}{\left(12 \times 10^{-2}\right)^{2}} \mathrm{NC}^{-1} \\& =18750 \mathrm{NC}^{-1}\end{aligned}[/math]
+C বিন্দুর চার্জের দরুণ A বিন্দুতে সৃষ্ট তড়িৎ প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{\mathrm{q}_{2}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{5 \times 10^{-8}}{\left(12 \times 10^{-2}\right)^{2}} \mathrm{NC}^{-1} \\\therefore \quad \mathrm{E}_{2} & =31250 \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ A বিন্দুতে নীট তড়িৎ প্রাবল্য,[math]\begin{aligned}\mathrm{E} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \cdot \mathrm{E}_{2} \cos \theta} \\& =\sqrt{(18750)^{2}+(31250)^{2}+2 \times 18750 \times 31250 \times \cos 60^{\circ}} \mathrm{NC}^{-1} \\\therefore \quad \mathrm{E} & =43750 \mathrm{NC}^{-1}\end{aligned}[/math]
+অতএব, [math]-4 \times 10^{-8} \mathrm{C}[/math]
+ চার্জ না থাকলে A বিন্দুতে তড়িৎ প্রাবল্য [math]43750 \mathrm{NC}^{-1} \text { । }[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: A-তে নিজস্ব চার্জ না থাকায় কেবল B ও C থেকে প্রেরিত ক্ষেত্রগুলো যোগ করতে হবে; যেখানে দূরত্ব [math]r=0.12\ \mathrm{m}[/math] থেকে [math]E_B=\dfrac{kq_B}{r^2}=\dfrac{9\times10^9\times3\times10^{-8}}{(0.12)^2}=1.875\times10^4\ \mathrm{N/C}[/math] এবং [math]E_C=\dfrac{kq_C}{r^2}=3.125\times10^4\ \mathrm{N/C}[/math]. দুটি ক্ষেত্রের মধ্যকার কোণ [math]60^\circ[/math] হওয়ায় ফলনাঞ্চ্য ধাতুগণিত সূত্র দিয়ে [math]E=\sqrt{E_B^2+E_C^2+2E_BE_C\cos60^\circ}=\sqrt{1.9140625\times10^9}\approx4.376\times10^4\ \mathrm{N/C}[/math]; দিকটি AB-এর থেকে AC-এর দিকে প্রায় [math]38.3^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 420816)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে, [math]A,\ B[/math] এবং [math]C[/math] তিনটি চার্জিত বল একটি তড়িৎ ক্ষেত্র সৃষ্টি করে যেখানে [math]C[/math] বলটি [math]A[/math] ও [math]B[/math] এর সাথে সমকোণে অবস্থিত এবং স্থানান্তর করা সম্ভব। [ দূরত্ব, [math]AC\ :\ BC\ =\ 2\ :\ 1[/math]]
+
+Options:
+গ. [math]C[/math] বলটি যে বিন্দুতে অবস্থিত সেখানে তড়িৎক্ষেত্রের তীব্রতা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে, AC : BC = 2 : 1ধরি, AC = 2x এবং BC = xএখন, সমকোণী ত্রিভুজ [math]\Delta[/math]
+ACB হতে পাই,[math]\mathrm{AC}^{2}+\mathrm{BC}^{2}=\mathrm{AB}^{2}[/math]
+বা, [math](2 x)^{2}+x^{2}=(1)^{2}[/math]
+বা, [math]x^{2}=\frac{1}{5}[/math]
+বা, [math]x=\frac{1}{\sqrt{5}}[/math]
+ [math]\therefore A C=\frac{2}{\sqrt{5}}[/math]
+ এবং [math]B C=\frac{1}{\sqrt{5}}[/math]
+
+[Image]
+এখন, A বিন্দুর চার্জের জন্য C বিন্দুতে প্রাবল্য[math]\begin{aligned}\mathrm{E}_{\mathrm{CA}} & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{\mathrm{q}_{\mathrm{A}}}{\mathrm{AC^{2 }}} \\& =9 \times 10^{9} \times \frac{60 \times 10^{-6}}{\left(\frac{2}{\sqrt{5}}\right)^{2}}\end{aligned}[/math]
+বা, [math]\mathrm{E}_{\mathrm{CA}}=6.75 \times 10^{5} \mathrm{NC}^{-1}[/math]
+এখন, B বিন্দুর চার্জের জন্য C বিন্দুতে প্রাবল্য[math]\mathrm{E}_{\mathrm{CB}}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{\mathrm{B}}}{\mathrm{x}^{2}}=9 \times 10^{9} \times \frac{30 \times 10^{-6}}{\left(\frac{1}{\sqrt{5}}\right)^{2}}[/math]
+বা, [math]\mathrm{E}_{\mathrm{CB}}=1.35 \times 10^{6} \mathrm{NC}^{-1}[/math]
+ [math]\therefore[/math]
+ C বিন্দুর লব্ধি প্রাবল্য বা তীব্রতা[math]\mathrm{E}=\sqrt{\mathrm{E}_{\mathrm{CA}}^{2}+\mathrm{E}_{\mathrm{CB}}^{2}}[/math]
+ [যেহেতু সমকোণেঅবস্থিত]বা, [math]E=\sqrt{\left(6.75 \times 10^{5}\right)^{2}+\left(1.35 \times 10^{6}\right)^{2}}[/math]
+বা, [math]\mathrm{E}=1.51 \times 10^{6} \mathrm{NC}^{-1}[/math]
+সুতরাং C বলটি যে বিন্দুতে অবস্থিত সেখানে তড়িৎক্ষেত্রের তীব্রতা [math]1.51 \times 10^{6} \mathrm{NC}^{-1}[/math]
+
+
+Explanation:
+গ তড়িৎ ক্ষেত্রের তীব্রতা হলো A ও B দ্বারা সৃষ্ট ক্ষেত্রদ্বয়ের ভেক্টর যোগ, এবং যেহেতু C‑তে দুই ক্ষেত্র পরস্পর লম্ব, তাই পার্শ্বিক যোগের মান [math]E=\sqrt{E_A^2+E_B^2}[/math]. এখানে [math]E_A=\dfrac{kq_A}{AC^2},\ E_B=\dfrac{kq_B}{BC^2}[/math] এবং [math]AC:BC=2:1[/math] ধরে [math]AC=2r,\ BC=r[/math] হলে  
+[math]E=\sqrt{\left(\dfrac{kq_A}{(2r)^2}\right)^2+\left(\dfrac{kq_B}{r^2}\right)^2}=\sqrt{\left(\dfrac{kq_A}{4r^2}\right)^2+\left(\dfrac{kq_B}{r^2}\right)^2}[/math].  
+দিক নির্ণয়ের জন্য [math]\tan\theta=E_A/E_B=q_A/(4q_B)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 420815)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Dhaka City College
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে চার্জদ্বয় শূন্য মাধ্যমে স্থাপন করা আছে।
+
+[Image]
+
+
+Options:
+ঘ. চার্জদ্বয়ের সংযোজক রেখার উপরস্থ কোনো. একটি নির্দিষ্ট বিন্দুতে তড়িৎ প্রাবল্য ও বিভব উভয়ই শূন্য হওয়া সম্ভব কি না? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, A বিন্দুর চার্জ, [math]\mathrm{q}_{1} = 20 \times 10^{-6} \mathrm{C}[/math]
+B বিন্দুর চার্জ, [math]\mathrm{q}_{2} = - 40 \times 10^{-6} \mathrm{C}[/math]
+A ও B বিন্দুর মধ্যবর্তী দূরত্ব r = 1 mএখন, ধরি, চার্জদ্বয়ের সংযোগ রেখার বর্ধিতাংশের উপর A বিন্দ থেকে x m দূরের কোনো বিন্দু P তে তড়িৎ প্রাবল্যের মান শূন্য হবে।A বিন্দুর আধানের জন্য P বিন্দুতে প্রাবল্য, [math]E_{1}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{x^{2}}[/math]
+আবার, B বিন্দুর আধানের জন্য P বিন্দুতে প্রাবল্য, [math]E_{2}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{g_{2}}{(r+x)^{2}}[/math]
+এখন, আধান বিপরীতমুখী হওয়ায় এদের মান সমান হলে P বিন্দুতে প্রাবল্য শূন্য হবে।[math]\therefore \quad \mathrm{E}_{1}=\mathrm{E}_{2}[/math]
+বা, [math]\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{x^{2}}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{2}}{(r+x)^{2}}[/math]
+বা, [math]\frac{q_{1}}{x^{2}}=\frac{q_{2}}{(r+x)^{2}}[/math]
+বা, [math]\frac{\mathrm{q}_{1}}{\mathrm{q}_{2}}=\frac{\mathrm{x}^{2}}{(\mathrm{r}+\mathrm{x})^{2}}[/math]
+বা, [math]\frac{20 \times 10^{-6}}{40 \times 10^{-6}}=\frac{x^{2}}{(1+x)^{2}}[/math]
+বা, [math]\frac{1}{2}=\frac{x^{2}}{1+x^{2}}[/math]
+বা, [math]\frac{1}{\sqrt{2}}=\frac{x}{1+x}[/math]
+বা, [math]\sqrt{2} x=1+x[/math]
+বা, [math]\sqrt{2} x-x=1[/math]
+বা, [math]x(\sqrt{2}-1)=1[/math]
+বা, [math]x=\frac{1}{\sqrt{2}-1}[/math]
+ [math]\therefore[/math]
+ x = 2.41 mঅতএব, চার্জদ্বয়ের সংযোগ রেখার বর্ধিতাংশের উপর A বিন্দু থেকে 2.41 m দূরে অর্থাৎ B বিন্দু থেকে (1 + 2.41) m বা 3.41 m দূরে কোনো বিন্দুতে তড়িৎ প্রাবল্য শূন্য হবে।এখন দেখা যাক P বিন্দুতে বিভব শূন্য হয় কি না—[math]\begin{aligned}\mathrm{V}_{\mathrm{P}} & =\frac{1}{4 \pi \epsilon_{0}}\left\{\frac{\mathrm{q}_{1}}{2.41 \mathrm{~m}}+\frac{\mathrm{q}_{2}}{3.41 \mathrm{~m}}\right\} \\& =9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{C}^{-2} \times\left\{\frac{20 \times 10^{-6} \mathrm{C}}{2.41 \mathrm{~m}}-\frac{40 \times 10^{-6} \mathrm{C}}{3.41 \mathrm{~m}}\right\} \\\therefore \quad \mathrm{V}_{\mathrm{P}} & =-3.09 \times 10^{4} \mathrm{~V}\end{aligned}[/math]
+সুতরাং দেখা যাচ্ছে চার্জদ্বয়ের সংযোজক রেখার উপরস্থ P বিন্দুতে তড়িৎ প্রাবল্য শূন্য হলেও বিভব শূন্য নয়।অতএব, চার্জদ্বয়ের সংযোজক রেখার উপরস্থ কোনো একটি নির্দিষ্ট বিন্দুতে তড়িৎ প্রাবল্য ও বিভব উভয়ই শূন্য হওয়া সম্ভব নয় ।
+
+Explanation:
+ব্যাখ্যা: ঘ অসম্ভব — দুই বিন্দু চার্জের কোনো নির্দিষ্ট বিন্দুতে তড়িৎ প্রাবল্য ও বিভব উভয়ই একসাথে শূন্য হতে পারে না (অন্তত চার্জের অবস্থান ছাড়া)। অক্ষ ধরে চার্জগুলি [math]x_1,\,x_2[/math]-এ থাকলে শর্তগুলো হল [math]\dfrac{q_1}{r_1}+\dfrac{q_2}{r_2}=0[/math] এবং [math]\dfrac{q_1(x-x_1)}{r_1^3}+\dfrac{q_2(x-x_2)}{r_2^3}=0[/math]; প্রথমটি থেকে [math]q_1=-q_2\,r_1/r_2[/math] বসালে দ্বিতীয়টি থেকে সরলীকরণে [math](x-x_1)(x-x_2)(x_2-x_1)=0[/math] পাওয়া যায়, যার অর্থ সমাধানগুলো কেবল চার্জের অবস্থান বা চার্জ একছত্র হলে সম্ভব—সুতরাং ভিন্ন কোনো বিন্দুতে উভয় শূন্য হবে না (অপব্যতীত অসীমে উভয়ই শূন্য)।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 420814)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Dhaka City College
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে চার্জদ্বয় শূন্য মাধ্যমে স্থাপন করা আছে।
+
+[Image]
+
+
+Options:
+গ. চার্জদ্বয়ের সংযোজক রেখার ঠিক মধ্যবিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, A বস্তুর চার্জ, [math]\mathrm{q}_{1} = 20 \times 10^{-6} \mathrm{C}[/math]
+B বস্তুর চার্জ, [math]\mathrm{q}_{2}= - 40 \times 10^{-6} \mathrm{C}[/math]
+ [math]\begin{array}{l}\mathrm{r}_{\mathrm{A}}=\mathrm{r}_{\mathrm{B}}=\mathrm{r}=\frac{1}{2} \mathrm{~m}=0.5 \mathrm{~m} \\\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{C}^{-2}\end{array}[/math]
+আমরা জানি, [math]\begin{aligned}E_{1} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{g_{1}}{r^{2}} \\& =9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{C}^{-2} \times \frac{20 \times 10^{-6}}{(0.5\mathrm{~m})^{2}}=7.2 \times 10^{5} \mathrm{~N} \mathrm{C}^{-1}\end{aligned}[/math]
+এর দিক A হতে B এর দিকেআবার, [math]\mathrm{E}_{2}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{g}_{2}}{\mathrm{r}^{2}}=9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{c}^{-2} \times \frac{40 \times 10^{-6} \mathrm{C}}{(0.5 \mathrm{~m})^{2}}[/math]
+ [math]\therefore \mathrm{E}_{2}=1.44 \times 10^{6} \mathrm{~N} \mathrm{C}^{-1}[/math]
+এর দিক A হতে B এর দিকেএখন, [math]E_1[/math]
+ ও [math]E_2[/math]
+ সমমূখী হওয়ায় A ও B এর সংযোগ রেখার মধ্যবিন্দুতে নিট তড়িৎ প্রাবল্য,[math]\begin{aligned}E & =E_{1}+E_{2} \\& =\left(7.2 \times 10^{5}+1.44 \times 10^{6}\right) \mathrm{N} \mathrm{C}^{-1} \\& =2.16 \times 10^{6} \mathrm{~N} \mathrm{C}^{-1}\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ মাঝবিন্দুতে দুই চার্জ থেকে আসা তড়িৎপ্রবণতা সমপরিমাণ কিন্তু বিপরীত দিকের হয়, তাই তারা একে অন্যকে নিকাশ করে এবং মোট তড়িৎপ্রাবল্য শূন্য হয়; এখানে প্রতিটি চার্জ থেকে প্রাপ্ত পরিমাপ [math]E_1=E_2=\dfrac{kq}{(d/2)^2}=\dfrac{4kq}{d^2}[/math] হলেও দিকগুলো বিপরীত হওয়ার কারণে ফলাফলি [math]E_{\text{net}}=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 420813)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. বর্ণিত চার্জের জন্য [math]O[/math] ও [math]P[/math] বিন্দুর তড়িৎ প্রাবল্য একই হবে কি না- তা গাণিতিক বিশ্লেষণসহ লিখ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, OA = OP = OB = 100 mm = 10 cm এবং OP [math]\perp[/math]
+AB[math]\begin{aligned}\therefore A P=B P & =\sqrt{\mathrm{OA}^{2}+\mathrm{OP}^{2}} \\& =\sqrt{10^{2}+10^{2}} \mathrm{~cm}=\sqrt{200} \mathrm{~cm}=0.14 \mathrm{~m}\end{aligned}[/math]
+ [math]{q}_{1}[/math]
+ ও [math]{q}_{2}[/math]
+ চার্জদ্বয় বিপরীতধর্মী হওয়ায় O বিন্দুতে তাদের প্রাবল্যদ্বয় সমমূখী ।[math]\therefore[/math]
+ O বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{0} & =\frac{1}{4 \pi \epsilon_{0}}\left(\frac{4 \times 10^{-6}}{0.1^{2}}+\frac{4 \times 10^{-6}}{0.1^{2}}\right) \\& =9 \times 10^{9} \times\left(\frac{4 \times 10^{-6}}{0.1^{2}}+\frac{4 \times 10^{-6}}{0.1^{2}}\right) \\& =7.2 \times 10^{6} \times \mathrm{NC}^{-1}\end{aligned}[/math]
+
+[Image]
+[math]\begin{array}{l}\mathrm{OP} \perp \mathrm{AB} \text {, } \\AO = OP = OB \\\therefore \angle \mathrm{APO}=\angle \mathrm{BPO} \\=45^{\circ}\\\therefore \angle \mathrm{APB}=90^{\circ} \\\therefore \angle \mathrm{DPB}=180^{\circ}-90^{\circ} \\=90^{\circ} \\\end{array}[/math]
+ [math]{q}_{1}[/math]
+ চার্জের দরুন P বিন্দুতে প্রাবল্য AP বরাবর এবং [math]{q}_{2}[/math]
+ চার্জের দরুন P বিন্দুতে প্রাবল্য PB বরাবর-[math]\begin{aligned}\therefore \mathrm{E}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{\mathrm{q}_{1}}{\mathrm{PA}^{2}} \\& =9 \times 10^{9} \times \frac{4 \times 10^{-6}}{0.14^{2}} \mathrm{NC}^{-1} \\& =1.84 \times 10^{6} \mathrm{NC}^{-1}\end{aligned}[/math]
+এর দিক AP বরাবর[math]\begin{aligned}\mathrm{E}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{\mathrm{g}_{2}}{\mathrm{OB}^{2}} \\& =9 \times 10^{9} \times \frac{4 \times 10^{-6}}{0.14^{2}} \mathrm{NC}^{-1} \\& =1.84 \times 10^{6} \mathrm{NC}^{-1}\end{aligned}[/math]
+এর দিক PB বরাবর[math]\therefore[/math]
+ P বিন্দুতে নিট প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{P}} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \cdot \mathrm{E}_{1} \cdot \mathrm{E}_{2} \cos (\angle \mathrm{DPB})} \\& =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \cdot \mathrm{E}_{1} \cdot \mathrm{E}_{2} \cos 90^{\circ}} \\& =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}}=\sqrt{\left(1.84 \times10^{6}\right)^{2}+\left(1.84 \times 10^{6}\right)^{2}} \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]\therefore E_{P}=2.6 \times 10^{6} \mathrm{NC}^{-1}[/math]
+ এর দিক PM বরাবরউপরোক্ত গাণিতিক বিশ্লেষণে দেখা যাচ্ছে, [math]\mathrm{E}_{0} 
+eq \mathrm{E}_{\mathrm{P}}[/math]
+অতএব, বর্ণিত চার্জদ্বয়ের জন্য O ও P বিন্দুতে তড়িৎ প্রাবল্য একই হবে না ।
+
+Explanation:
+ঘ না — গাণিতিক বিশ্লেষণ: কোনো বিন্দু [math]\vec r[/math]‑এ নেট তড়িৎ ক্ষেত্রের সূত্র হলো  
+[math]\vec E(\vec r)=\frac{1}{4\pi\epsilon_0}\sum_i q_i\frac{\vec r-\vec r_i}{|\vec r-\vec r_i|^3}[/math].  
+অতএব O ও P‑এর ক্ষেত্র সমান হবে শুধুমাত্র তখনই যখন প্রতিটি চার্জ [math]q_i[/math]‑এর জন্য [math]|\vec r_O-\vec r_i|=|\vec r_P-\vec r_i|[/math] এবং ভেক্টরসমষ্টির দিকগত সমতা থাকবে; শুধুমাত্র এই симেট্রি না থাকলে [math]|\vec E(\vec r_O)|\neq|\vec E(\vec r_P)|[/math]. প্রদত্ত বিন্যাসে এমন পারস্পরিক সমতা নেই, তাই O ও P‑তে তড়িৎ প্রাবল্য একই হবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 420812)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Viqarunnisa Noon School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+আধানদ্বয় পরস্পর হতে [math]10\ cm[/math] দূরত্বে অবস্থিত,
+
+এখানে, [math]AO = BO = 5cm[/math] এবং [math]BD = 4 cm[/math]
+
+Options:
+গ. উদ্দীপকে [math]O[/math] বিন্দুতে প্রাবল্য কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, A বিন্দুর চার্জ, [math]\mathrm{q}_{\Lambda}=12 \mu \mathrm{C}=12 \times 10^{-6} \mathrm{C}[/math]
+B বিন্দুর চার্জ, [math]\mathrm{q}_{\mathrm{B}}=4 \mu \mathrm{C}=4 \times 10^{-6} \mathrm{C}[/math]
+ [math]\begin{array}{l}\mathrm{AO}=\mathrm{OB}=\mathrm{r}=5 \mathrm{~cm}=5 \times 10^{-2} \mathrm{~m} \\\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}\end{array}[/math]
+যেহেতু A ও B দুটিই সমধর্মী চার্জ এবং O তাদের মাঝখানের কোনো বিন্দু, তাই O বিন্দুতে তাদের স্বতন্ত্র প্রাবল্যদ্বয় পরস্পর বিপরীতমুখী হবে।[math]\therefore[/math]
+ O বিন্দুতে প্রাবল্য,[math]\begin{aligned}E & =\frac{1}{4 \pi \epsilon_{0}} \cdot\left\{\frac{g_{A}}{r^{2}}-\frac{g_{B}}{r^{2}}\right\} \\& =9 \times 10^{9} \times \frac{1}{\left(5 \times 10^{-2}\right)^{2}} \times\left(12 \times 10^{-6}-4 \times 10^{-6}\right) \mathrm{N} \mathrm{C}^{-1} \\\therefore E & =2.88 \times 10^{7} \mathrm{NC}^{-1}\end{aligned}[/math]
+
+
+Explanation:
+গ O বিন্দুতে প্রাবল্য নির্ণয়ের জন্য আধানগুলোর মান ও চিহ্ন (ধনাত্মক/ঋণাত্মক) এবং প্রতিটি আধানের অবস্থান চিত্রে স্পষ্টভাবে প্রয়োজন। বর্তমানে শুধু দূরত্ব জানলে যথেষ্ট নয়, তাই দয়া করে আধানের মান/চিত্র প্রদান করুন যাতে সঠিকভাবে প্রাবল্য বের করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 420806)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সুষম তড়িৎ ক্ষেত্রের তড়িৎ প্রাবল্য, [math]\overrightarrow{\mathrm{E}}=(5 \hat{\mathr m{i}}+6 \hat{\mathrm{j}}+7\hat{k})NC^{-1}[/math]। তড়িৎ ক্ষেত্রের [math]XY[/math] তলে স্থাপিত [math]15m^2[/math] ক্ষেত্রফলবিশিষ্ট একটি তলে তড়িৎ ফ্লাক্স কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](105 \ Nm^2/C)[/math]
+ [math]\\[/math]
+ [math][/math]
+ [math]XY[/math]
+ তলের উলম্ব দিকে একক ভেক্টর [math]= \hat{k}(Z[/math]
+ অক্ষ বরাবর [math])[/math]
+এখন, [math]Z[/math]
+ অক্ষ বরাবর [math]E[/math]
+ এর
+[Image]
+উপাংশ[math]\begin{aligned} = & E \cdot \hat{k} \\ & =(5 \hat{i}+6 \hat{j}+7 \hat{k}) \cdot \hat{k} \\ & =7 \end{aligned}[/math]
+ [math]\therefore \ 15m^2[/math]
+ তলের লম্ব বরাবর অতিক্রান্ত তড়িৎ ফ্লাক্স হবে [math]=7 \times 15 = 105 \ Nm^2 /C \ (Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: XY তলের স্বাভাবিক একক ভেক্টর হল [math]\hat{k}[/math], তাই ফ্লাক্স [math]\Phi=\overrightarrow{E}\cdot\overrightarrow{A}=E_zA[/math]. এখানে [math]E_z=7[/math] এবং [math]A=15\ \mathrm{m^2}[/math], ফলে [math]\Phi=7\times15=105\ \mathrm{N\cdot m^2 C^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 420807)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]50cm[/math] দৈর্ঘ্যের একটি সরু দণ্ডে [math]150C[/math] আধান আছে। দণ্ডটির কেন্দ্র থেকে [math]1.5m[/math] দূরে কোনো বিন্দুতে প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.8 \times 10^{12}NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ, [math]q=150C[/math]
+দূরত্ব, [math]y=1.5m[/math]
+দৈর্ঘ্য, [math]l=50 cm=0.5m[/math]
+ [math]\\[/math]
+ [math]\oint \overrightarrow{\mathrm{E}} \cdot \overrightarrow{\mathrm{dS}}=\frac{q}{\epsilon_{0}}[/math]
+ [math]\begin{array}{l} \Rightarrow E. \pi y^{2} l=\frac{q}{\epsilon_{0}} \\ \begin{aligned} E & =\frac{q}{\pi \epsilon_{0} y^{2} l} \cdot \\ & =\frac{150}{3.1416 \times 8.854 \times 10^{-12} \times(1.5)^{2} \times 0.5} \\ & =4.8 \times 10^{12} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned} \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: লিনিয়ার আধানঘনত্ব [math]\lambda=Q/L=150/0.5=300\ \mathrm{C/m}[/math]. কেন্দ্র থেকে দূরত্ব [math]x=1.5\ \mathrm{m}[/math] হলে অক্ষ বরাবর ক্ষেত্রের পরিমাপ হলো [math]E=\frac{1}{4\pi\epsilon_0}\,\lambda\left(\frac{1}{x-L/2}-\frac{1}{x+L/2}\right)[/math]; সংখ্যায় বসালে [math]E\approx(8.988\times10^9)\times300\left(\frac{1}{1.25}-\frac{1}{1.75}\right)\approx6.16\times10^{11}\ \mathrm{N/C}[/math]. ক্ষেত্রের দিক রড থেকে বাইরে কেননা আধান ধনাত্মক।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 420808)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সুষম তড়িৎক্ষেত্রে [math]50 \ cm[/math] ব্যবধানে অবস্থিত দুটি বিন্দুর বিভব পার্থক্য [math]200V[/math]। তড়িৎ ক্ষেত্রের প্রাবল্য নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](400 \ Vm^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: সুষম তড়িৎক্ষেত্রে বিভব পার্থক্য ও ক্ষেত্রের সম্পর্ক [math]\Delta V = -E\,\Delta x[/math], ফলে ক্ষেত্রের মাত্রা [math]E=|\Delta V|/\Delta x[/math]. এখানে [math]\Delta V=200\ \text{V}[/math] এবং [math]\Delta x=50\ \text{cm}=0.50\ \text{m}[/math], তাই [math]E=200/0.50=400\ \text{V/m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 420809)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পরস্পর হতে [math]1.20m[/math] ব্যবধানে [math]30 \times 10^{-6}C[/math] ও [math]-60 \times 10^{-6}C[/math] এর দুটি চার্জের সংযোগ রেখার ঠিক মধ্য বিন্দুতে তড়িৎপ্রাবল্য কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]22.5 \times 10^5 \ NC^{-1},-60 \times 10^{-6}C[/math] আধানের।
+
+Explanation:
+ব্যাখ্যা: মধ্যবিন্দু থেকে প্রতিটি চার্জের দূরত্ব [math]0.60\,\text{m}[/math] এবং ধনাত্মক চার্জ থেকে ক্ষেত্রটি মধ্যবিন্দুতে বাহিরে (ডানদিকে) ও ঋণাত্মক চার্জ থেকে ক্ষেত্রটি মধ্যবিন্দুতে আকর্ষিতভাবে (ডানদিকে) হওয়ায় মান দুটি যোগ হবে। মোট ক্ষেত্রের মান হলো [math]E=\frac{k(30\times10^{-6}+60\times10^{-6})}{(0.60)^2}[/math] যা [math]=\frac{9\times10^9\times90\times10^{-6}}{0.36}=2.25\times10^6\ \text{N/C}[/math]। দিক: ঋণাত্মক চার্জের দিকে (ডানদিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 420810)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \ cm[/math] ব্যবধানে অবস্থিত [math]+1.0 \times 10^{-6}C[/math] ও [math]+2.0 \times 10^{-6}C[/math] এ দুটি চা র্জের সংযোগ রেখার কোথায় নিষ্ক্রিয় বা নিরপেক্ষ বিন্দু পাওয়া যাবে? কোথায় প্রাবল্য সমান হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]+1.0 \times 10^{-6}C[/math]
+ হতে [math]4.1425 \ cm[/math]
+ দূরে নিষ্ক্রিয় বিন্দু পাওয়া যাবে। প্রাবল্য সমান হবে [math]+1.0 \times 10^{-6}C[/math]
+ হতে [math]4.1425 \ cm[/math]
+ ডানে এবং [math]24.155 \ cm[/math]
+ বামে
+
+Explanation:
+ব্যাখ্যা: নিরপেক্ষ বিন্দুতে দুই দিকের তড়িতক্ষেত্রের মান সমান ও বিপরীত দিকের হবে, তাই
+[math]\frac{q_1}{x^2}=\frac{q_2}{(0.10-x)^2} \Rightarrow \frac{0.10-x}{x}=\sqrt{\frac{q_2}{q_1}}=\sqrt{2},[/math]
+ফলে [math]x=0.0414\ \mathrm{m}=4.14\ \mathrm{cm}[/math] (সামান্য চার্জ [math]+1.0\times10^{-6}C[/math] থেকে) — অর্থাৎ নিষ্ক্রিয় বিন্দু দুই চার্জের মধ্যেই।  
+যদি উদ্দেশ্য থাকে দুই চার্জের স্কেলার ভোল্টেজের অবদান সমান হওয়া, তবে
+[math]\frac{q_1}{r_1}=\frac{q_2}{r_2},\; r_1+r_2=0.10\ \mathrm{m} \Rightarrow r_1=0.0333\ \mathrm{m}=3.33\ \mathrm{cm},[/math]
+অর্থাৎ +1μC থেকে 3.33 cm (এবং +2μC থেকে 6.67 cm) এ তাদের প্রাবল্য সমান হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 420811)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে [math]8cm[/math] ব্যবধানে [math]+16 \times 10^{-6}C[/math] এবং [math]9 \times 10^{-6}C[/math] চার্জদ্বয়ের সংযো গ রেখার কোথায় নিষ্ক্রিয় বিন্দু পাওয়া যাবে? কোথায় তড়িৎপ্রাবল্য সমান হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-9 \times 10^{-6}C[/math]
+ হতে বাহিরে [math]24cm[/math]
+ দূরে নিষ্ক্রিয় বিন্দু পাওয়া যায়। [math]-9 \times 10^{-6}C[/math]
+ হতে বাহিরে [math]24cm[/math]
+ এবং ভিতরে [math]3.43 \ cm[/math]
+ দূরত্বে তড়িৎপ্রাবল্য সমান হবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক নিষ্ক্রিয় বিন্দু হবে সেই স্থানে যেখানে ক্ষেত্রদ্বয়ের মান সমান এবং দিক পরস্পরবিপরীত (মধ্যবর্তীতে), তাই [math]\dfrac{kq_1}{x^2}=\dfrac{kq_2}{(d-x)^2}[/math]। এখানে [math]q_1=+16\times10^{-6}\,\text{C},\;q_2=9\times10^{-6}\,\text{C},\;d=8\ \text{cm}[/math], তাই [math]\dfrac{d-x}{x}=\sqrt{\dfrac{q_2}{q_1}}=\tfrac{3}{4}[/math] থেকে [math]x=\dfrac{8}{1.75}\approx4.57\ \text{cm}[/math] (বড় চার্জের দিক থেকে) — অর্থাৎ ছোট চার্জ থেকে [math]8-4.57\approx3.43\ \text{cm}[/math] দূরে। 
+
+খ তড়িৎপ্রাবল্য (পটেনশিয়াল) সমান হবে সেই স্থানে যেখানে ভোল্টেজের মান সমান, তাই [math]\dfrac{q_1}{x}=\dfrac{q_2}{(d-x)}[/math]। এ থেকে [math]\dfrac{d-x}{x}=\dfrac{q_2}{q_1}=\dfrac{9}{16}[/math], ফলে [math]x=\dfrac{8\cdot16}{25}=5.12\ \text{cm}[/math] (বড় চার্জের দিক থেকে), অর্থাৎ ছোট চার্জ থেকে [math]8-5.12=2.88\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 420804)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2m[/math] বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজের দুই কৌণিক বিন্দুতে [math]2 C[/math] ধনাত্মক ও [math]2C[/math] ঋণাত্মক আধান স্থাপিত আছে। ত্রিভুজটির তৃতীয় কৌণিক বিন্দুতে প্রাবল্যের মান ও দিক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\theta = 60^{\circ} , R=4.5 \times 10^9 \ NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+মনে করি, [math]ABC[/math]
+ একটি সমবাহু ত্রিভুজ। এর [math]AB=BC=CA=2m[/math]
+ [math]B[/math]
+ ও [math]C[/math]
+ বিন্দুতে স্থাপিত যথাক্রমে [math](+2C)[/math]
+ ও [math](-2C)[/math]
+ চার্জের জন্য [math]A[/math]
+ বিন্দুতে লব্ধি প্রাবল্যের মান ও দিক নির্ণয় করতে হবে।এখন, [math]B[/math]
+ বিন্দুর [math](+2C)[/math]
+ চার্জের জন্য [math]A[/math]
+ বিন্দুর প্রাবল্য,[math]E=\frac{1}{4 \pi \epsilon_{0}} \times \frac{2 C}{(2 m)}[/math]
+ [math]\begin{array}{l} =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{2 \mathrm{C}}{4 \mathrm{~m}^{2}} \\ =4.5 \times 10^{9} \mathrm{NC}^{-1} \end{array}[/math]
+এর দিক হবে বরাবর [math]BA[/math]
+ বহির্মুখী।আবার, [math]C[/math]
+ বিন্দুতে স্থাপিত ঋণাত্মক আধান [math](-2C)[/math]
+ এর জন্য [math]A[/math]
+ বিন্দুতে প্রাবল্যের মান হবে [math]4.5 \times 10^9 \ NC^{-1}[/math]
+, কিন্তু এর দিক হবে [math]AC[/math]
+ বরাবর।অতএব, [math]A[/math]
+ বিন্দুতে লব্ধি প্রাবল্য [math]R,AE[/math]
+ বরাবর ক্রিয়া করবে।ধরা যাক, সমমানের প্রাবল্যদ্বয়ের মধ্যবর্তী কোণ [math]2\theta[/math]
+যেহেতু [math]\Delta ABC[/math]
+ সমবাহু ত্রিভুজ অতএব, [math]\theta =60^{\circ}(Ans.)[/math]
+ [math]\therefore \ R=E \ cos \theta + E \ cos\theta[/math]
+ [math]=2E \ cos 60^{\circ}= E=4.5 \times 10^9 \ NC^{-1}(Ans.)[/math]
+যেহেতু [math]\theta = 60^{\circ},[/math]
+ অতএব, লব্ধি প্রাবল্য [math]R[/math]
+, ঋণাত্মক চার্জ ও [math]A[/math]
+ বিন্দুর সংযোগকারী সরলরেখার সরলরেখার সাথে [math]60^{\circ}[/math]
+ কোণ করে থাকবে।
+
+Explanation:
+সমাধান: প্রতি চার্জ থেকে কোণিক বিন্দুতে ক্ষেত্রের মান [math]E_0=\dfrac{kq}{r^2}=\dfrac{9\times10^9\times2}{2^2}=4.5\times10^9\ \text{N/C}[/math]। সমবাহু ত্রিভুজে দুই চার্জের ক্ষেত্রের উল্লম্ব উপাদানসমূহ সমান ও বিপরীত হওয়ায় রদন হয় এবং অনুভূমিক উপাদানসমূহ যোগ করে ফলাফল থাকে [math]E_{\rm net}=E_0=4.5\times10^9\ \text{N/C}[/math]। দিকটি তৃতীয় শীর্ষবিন্দু থেকে অনুভূমিকভাবে ঋণাত্মক চার্জের দিকে (বাম/ডান নির্ভর করে চার্জের বিন্যাসে)।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 420805)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1200NC^{-1}[/math] তড়িৎ প্রাবল্যের কোনো তড়িৎ ক্ষেত্রের মধ্যে [math]50mm^2[/math] ক্ষেত্রফলের একটি বৃত্তা কার তল অবস্থিত। তড়িৎ বলরেখাগুলো তলটির বহির্মুখী অভিলম্বের সাথে [math]55°[/math] কোণ উৎপন্ন করে। তলের মধ্য দিয়ে অতিক্রান্ত তড়িৎ ফ্লাক্স নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.0344 \ NC^{-1}m^2)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রাবল্য, [math]E=1200N/C[/math]
+ [math]A=50mm^2[/math]
+ [math]\frac{50}{1000 \times 1000}[/math]
+ [math]5 \times 10^{-5}m^2[/math]
+ [math]\theta = 50^{\circ}[/math]
+ [math]\phi=?[/math]
+ [math]A[/math]
+ ক্ষেত্রফলের মধ্য দিয়ে অতিক্রান্ত ফ্লাক্স [math]\phi = EA[/math]
+যেহেতু, প্রাবল্যের দিকের সাথে তলটি অভিলম্বের সাথে [math]55^{\circ}[/math]
+ কোণে আছে,তাই,[math]\begin{aligned} \phi & =\mathrm{EA} \cos \theta \\ & =1200 \times 5 \times 10^{-5} \times \cos 55^{\circ} \\ & =0.0344 \mathrm{NC}^{-1} \mathrm{~m}^{2} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তড়িৎ প্রবাহের সূত্র [math]\Phi=EA\cos\theta[/math] (এখানে [math]\theta[/math] হলো তলের স্বাভাবিকের সঙ্গে ক্ষেত্রের কোণ)। ক্ষেত্র [math]E=1200\ \mathrm{N\,C^{-1}}[/math] এবং ক্ষেত্রফল [math]50\ \mathrm{mm^2}=5.0\times10^{-5}\ \mathrm{m^2}[/math] বসিয়ে,  
+[math]\Phi=1200\times5.0\times10^{-5}\times\cos55^\circ\approx3.44\times10^{-2}\ \mathrm{N\,m^2C^{-1}}[/math]। এই ফলটি কারণ প্রবাহে ক্ষেত্রের স্বাভাবিক উপাদানই কাজ করে, তাই [math]\cos\theta[/math] আসে।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 420790)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মাহিরের হাতে একটি চার্জিত বল [math]+q_0[/math] রয়েছে। ঐ চার্জিত বলের কেন্দ্র হতে দূরত্বে অবস্থিত [math]P[/math] বিন্দুতে তড়িৎ প্রাবল্য [math]E[/math] । এখানে [math]q_{0}=1.6 \times 10^{-8} C, r=0.15 \mathrm{~m}[/math]
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের ডাটা ব্যবহার করে মাহির কীভাবে তড়িৎ প্রাবল্যের মান নির্ণয় করবে?
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে, তড়িৎক্ষেত্র সৃষ্টিকারী চার্জ, [math]q_{o}=1.6 \times 10^{-8} \mathrm{C}[/math]
+তড়িৎক্ষেত্র সৃষ্টিকারী চার্জ হতে বিবেচনাধীন বিন্দুর (p) দূরত্ব, r = 0.15 mশূন্য স্থানের ক্ষেত্রে কুলম্বের সূত্রের ধ্রুবক, [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{c}^{-2}[/math]
+বের করতে হবে, P বিন্দুতে তড়িৎ প্রাবল্যের মান, E = ?আমরা জানি,[math]E=\frac{1}{4 \pi \epsilon_{0}} \frac{9}{2}=9 \times 10^{0} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{1.6 \times 10^{-2} \mathrm{C}}{\left(0.15 \mathrm{~m}^{2}\right.}=6400 \mathrm{NC}^{-1} \text { (Ans) }[/math]
+
+
+Explanation:
+গ মাহির ডাটা ব্যবহার করে কুলোনের সূত্র থেকে তড়িৎক্ষেত্রের মান পাওয়া যায়: [math]E=\dfrac{kq_0}{r^2}[/math] যেখানে [math]k=9.0\times10^9\ \rm N\,m^2/C^2[/math]. সংখ্যায় বসালে [math]E=\dfrac{9.0\times10^9\times1.6\times10^{-8}}{(0.15)^2}=6.4\times10^3\ \rm N/C[/math], এবং ধনাত্মক চার্জ হওয়ায় ক্ষেত্রের দিক কেন্দ্র থেকে বাহিরদিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 420791)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে [math]50C[/math] চার্জ হতে [math]2m[/math] দূরত্বে কোনো বিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](11.25 \times 10^{10}N/C)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ, [math]q=50 \ C[/math]
+দূরত্ব, [math]r=2m[/math]
+আমরা জানি,প্রাবল্য,[math]\begin{aligned} E & =\frac{1}{4 \pi \epsilon_{0}} \frac{q}{r^{2}} \\ & =9 \times 10^{9} \times \frac{50}{2^{2}} \\ & =11.25 \times 10^{10} \mathrm{~N} / \mathrm{C} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বায়ুতে পয়েন্ট চার্জের তড়িৎ প্রাবল্য কুলম্বের সূত্র অনুযায়ী [math]E=\dfrac{kQ}{r^2}[/math], যেখানে [math]k=9\times10^9\ \mathrm{N·m^2/C^2}[/math]. তাই [math]E=\dfrac{9\times10^9\times50}{2^2}=1.125\times10^{11}\ \mathrm{N/C}[/math], এবং ধনাত্মক চার্জ হলে ক্ষেত্রটি বিন্দু থেকে বাইরে দিকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 420792)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পরস্পর হতে [math]0.20m[/math] দূরে বায়ুতে অবস্থিত [math]40C[/math] এবং [math]60C[/math] দুটি চার্জের সংযোজক সরলরেখা র ঠিক মধ্যস্থলে প্রাবল্য কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.8 \times 10^{13}NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,উভয় চার্জ হতে এদের সংযোগ রেখার মধ্যবিন্দুর দূরত্ব, [math]r=\frac{0.20 \ m}{2}=0.10m[/math]
+প্রথম চার্জের মান, [math]q_1=40C[/math]
+দ্বিতীয় চার্জের মান, [math]q_2=60C[/math]
+প্রথম চার্জের জন্য মধ্যবিন্দুর প্রাবল্য,[math]\begin{aligned} E_{1} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{r^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{40 \mathrm{C}}{(0.10 \mathrm{~m})^{2}} \\ & =3.6 \times 10^{13} \mathrm{NC}^{-1} \end{aligned}[/math]
+এবং দ্বিতীয় চার্জের জন্য মধ্যবিন্দুর প্রাবল্য,[math]\begin{aligned} \mathrm{E}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{2}}{\mathrm{r}^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{60 \mathrm{C}}{(0.10 \mathrm{~m})^{2}} \\ & =5.4 \times 10^{13} \mathrm{NC}^{-1} \end{aligned}[/math]
+এখন, চার্জদ্বয় সমধর্মী হওয়ায় [math]\vec{E_1}[/math]
+ ও [math]\vec{E_2}[/math]
+ এর দিক বিপরীতমুখী হবে। সুতরাং মধ্যবিন্দুর লব্ধি [math]E[/math]
+ প্রাবল্য হলে আমরা পাই,[math]\begin{aligned} \mathrm{E} & =\mathrm{E}_{2}-\mathrm{E}_{1} \\ & =\left(5.4 \times 10^{13} \mathrm{NC}^{-1}\right)-\left(3.6 \times 10^{13} \mathrm{NC}^{-1}\right) \\ & =1.8 \times 10^{13} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুইটি ধনাত্মক চার্জে মাঝবিন্দুতে প্রতিটির ক্ষেত্র উল্টো দিকে কাজ করে এবং দূরত্ব [math]r=0.10\ \mathrm{m}[/math]. ক্ষেত্রের মান [math]E=kQ/r^2[/math] অনুযায়ী নিট ক্ষেত্রের মান হচ্ছে [math]E=k(60-40)/0.10^2=9\times10^9\times20/0.01=1.8\times10^{13}\ \mathrm{N/C}[/math]. দিক: বড় চার্জের বিপরীতে, অর্থাৎ মাঝবিন্দু থেকে [math]40\ C[/math] চার্জের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 420793)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]+1.5 \times 10^{-6}C[/math] এবং [math]+3 \times 10^{-6}C[/math] আধানের দূরত্ব [math]10m[/math]। তাদের সংযো জক সরলরেখার কোন কোন বিন্দুতে তড়িৎক্ষেত্রের পরিমাণ শূন্য হবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.14m)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জদ্বয়ের মধ্যবর্তী দূরত্ব [math]=10 \ m[/math]
+যেহেতু চার্জদ্বয় ধনাত্মক, সেহেতু বিন্দুটি উভয় চার্জের মধ্যবর্তী সংযোগ সরলরেখার কোনো বিন্দুতে পাওয়া যাবে।মনে করি, দুর্বল বা ক্ষুদ্র চার্জ হতে বিন্দুটির দূরত্ব [math]=x \ m[/math]
+ [math]\therefore[/math]
+ অপর চার্জ হতে বিন্দুটির দূরত্ব [math]=(10−x)m[/math]
+এখন, দুর্বল চার্জ বা ক্ষুদ্র চার্জ হতে বিন্দুটির প্রাবল্য,[math]E_{1}=\frac{1}{4 \pi \epsilon_{0}} \frac{1.5 \times 10^{-6} \mathrm{C}}{\mathrm{x}^{2}}[/math]
+এবং অপর জার্জের জন্য বিন্দুটির প্রাবল্য,[math]E_{2}=\frac{1}{4 \pi \epsilon_{0}} \frac{3 \times 10^{-6} \mathrm{C}}{(10-x)^{2}}[/math]
+কিন্তু যে বিন্দুতে তড়িৎক্ষেত্রের প্রাবল্য শূন্য হবে সেই বিন্দুতে, [math]E_1 =E_2[/math]
+ [math]\begin{array}{l}\therefore \frac{1}{4 \pi \epsilon_{0}} \cdot \frac{1.5 \times 10^{-6} \mathrm{C}}{\mathrm{x}^{2}}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{3 \times 10^{-6} \mathrm{C}}{(10-\mathrm{x})^{2}}\\\Rightarrow \frac{1}{x^{2}}=\frac{2}{(10-x)^{2}}\\\Rightarrow 2 x^{2}=(10-x)^{2}\\\Rightarrow \sqrt{2} x=10-x\\\Rightarrow x+\sqrt{2} x=10\\\Rightarrow \mathrm{x}(1+\sqrt{2})=10\\\Rightarrow x=\frac{10}{(1+\sqrt{2})}\\\therefore x=4.14 \mathrm{~m}\end{array}[/math]
+ [math]\therefore[/math]
+ দুর্বল চার্জ হতে সবল চার্জের দিকে [math]4.14 \ m[/math]
+ দূরে প্রাবল্য শূন্য হবে।
+
+Explanation:
+দুইটি ধনাত্মক আধানের ক্ষেত্র বাইরে একই দিকে হলে শূন্য বিন্দু কেবল তাদের মধ্যখানে থাকতে পারে কারণ সেখানে দুটির ক্ষেত্র বিপরীতদিকের। সমীকরণ থেকে [math]\frac{q_1}{r_1^2}=\frac{q_2}{r_2^2},\quad r_1+r_2=10\ \text{m}[/math], তাই [math]\frac{r_1}{r_2}=\sqrt{\frac{q_1}{q_2}}=\frac{1}{\sqrt{2}}, ফলে [math]r_1\approx4.142\ \text{m}[/math] (ছোট আধানের দিক থেকে) এবং [math]r_2\approx5.858\ \text{m}[/math] (বড় আধানের দিক থেকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 420794)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2m[/math] বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজের [math]A[/math] ও [math]B[/math] বিন্দুতে যথাক্রমে [math]+2C[/math] এবং [math]2C[/math] চার্জ স্থাপন করা হলো। [math]C[/math] বিন্দুতে ক্রিয়াশীল প্রাবল্যের মান ও দিক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](C[/math]
+বিন্দুতে ক্রিয়াশীল বলের মান [math]4.5 \times 10^9 NC^{-1}[/math]
+এবং উক্ত বিন্দুতে লব্দি প্রাবল্য [math]Ab[/math]
+ এর সমান্তরাল হবে। [math])[/math]
+
+
+Explanation:
+প্রতিটি সূত্রধারার ফলে C বিন্দুতে ক্ষেত্রের পরিমাণ [math]E_1=\dfrac{k\cdot 2}{2^2}=\dfrac{k}{2}[/math] হবে। সমমিতির কারণে অনুভূমিক উপাদানগুলো নিরসিত হয় এবং উল্লম্ব উপাদানগুলো যোগ হয়, তাই মোট [math]E=2E_1\cos30^\circ=2\cdot\dfrac{k}{2}\cdot\cos30^\circ=\dfrac{k\sqrt{3}}{2}[/math] (নিউটন/কুলম্ব). সংখ্যাগত মান নিয়ে [math]E=\dfrac{9\times10^9\sqrt{3}}{2}\approx7.79\times10^9\ \mathrm{N/C}[/math], এবং দিকটি AB এর মধ্যবিন্দু থেকে C এর দিকে (সমবাহু ত্রিভুজের ব্যাসরেখা বরাবর)।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 420795)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিরবচ্ছিন্নভাবে বণ্টিত অসীম রৈখিক আধান থেকে [math]2 \ cm[/math] দূরে [math]9 \times 10^4 NC^{-1}[/math] তড়িৎক্ষেত্র সৃষ্টি হয়েছে। আধানের রৈখিক ঘনত্ব নির্ণয়
+
+কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\lambda = 10^{-7}Cm^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তড়িৎ প্রাবল্য, [math]E=9 \times 10^4 NC^{-1}[/math]
+দূরত্ব, [math]r=2cm=0.02m[/math]
+আধানের রৈখিক ঘনত্ব, [math]\lambda = ?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} E=\frac{1}{2 \pi \epsilon_{0}} \frac{\lambda}{r} \\ \Rightarrow E=2 \times \frac{1}{4 \pi \epsilon_{0}} \frac{\lambda}{r} \\ \Rightarrow 9 \times 10^{4} \mathrm{NC}^{-1}=2 \times 9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \\ \times \frac{\lambda}{0.02 \mathrm{~m}} \end{array}[/math]
+সুতরাং [math]\lambda=10^{-7} \mathrm{Cm}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অসীম সরল আধানের ক্ষেত্রের সূত্র [math]E=\dfrac{λ}{2\pi\varepsilon_0 r}[/math], তাই [math]λ=E(2\pi\varepsilon_0 r)[/math]. এখানে [math]r=2\ \text{cm}=0.02\ \text{m}[/math], ফলে [math]λ=9\times10^4\times2\pi\times8.85\times10^{-12}\times0.02\approx1.0\times10^{-7}\ \text{C/m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 420796)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]12cm[/math] ব্যাসার্ধের একটি পরিবাহী গোলকের তল সুষমভাবে [math]1.6 \times 10^{-7}C[/math] আধানে আহিত। (i) গোলকের অভ্যন্তরে, (ii)
+
+গোলকের পৃষ্ঠে এবং (iii) গোলকের কেন্দ্র থেকে [math]18 \ cm[/math] দূরে কোনো বিন্দুতে তড়িৎ প্রাবল্য নি র্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](ii) 10^{5}NC^{-1},(iii) 4.44 \times 10^4 NC^{-1}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, ব্যাসার্ধ, [math]r=12 \ cm= 0.12 \ m[/math]
+আধান, [math]q=1.6 \times 10^{-7}C[/math]
+(i) আমরা জানি,যেহেতু গোলকের অভ্যন্তরে এবং গোলকের পৃষ্ঠে বিভব একই কারণ চার্জিত গোলকের অভ্যন্তরে কোনো তড়িৎ বলরেখা থাকে না'।সুতরাং গোলকের অভ্যন্তরে তড়িৎ প্রাবল্য শূন্য। [math](Ans.)[/math]
+(ii) গোলকের পৃষ্ঠে তড়িৎ প্রাবল্য,[math]\begin{aligned} \mathrm{E} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}}{\mathrm{r}^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{1.6 \times 10^{-7} \mathrm{C}}{(0.12 \mathrm{~m})^{2}} \\ & =10^{5} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+(iii) গোলকের কেন্দ্র থেকে [math]18 \ cm[/math]
+ দূরে কোনো বিন্দুতে প্রাবল্য,[math]\begin{aligned} E & =\frac{1}{4 \pi \epsilon_{0}} \frac{q}{r^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{1.6 \times 10^{-7} \mathrm{C}}{(0.18 \mathrm{~m})^{2}} \\ & =4.44 \times 10^{4} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পরিবাহী গোলকের সমস্ত ধারক পৃষ্ঠে সঞ্চিত থাকে, তাই অভ্যন্তরে তড়িৎ ক্ষেত্র শূন্য এবং বাইরের বিন্দুগুলির ক্ষেত্রে গাউসের সূত্র প্রযোজ্য।
+
+ক অভ্যন্তরে: [math]E=0[/math] (পরিবাহীর অভ্যন্তরে তড়িৎ ক্ষেত্র শূন্য)।  
+খ পৃষ্ঠে (রেডিয়াস [math]0.12\ \text{m}[/math]): [math]E=\dfrac{Q}{4\pi\epsilon_0 r^2}=\dfrac{1.6\times10^{-7}}{4\pi(8.85\times10^{-12})(0.12)^2}\approx 1.0\times10^{5}\ \text{N/C}[/math] (বাহ্যদিকে)।  
+গ কেন্দ্র থেকে [math]0.18\ \text{m}[/math] এ: একই সূত্রে [math]E=\dfrac{Q}{4\pi\epsilon_0(0.18)^2}\approx 4.44\times10^{4}\ \text{N/C}[/math] (বাহ্যদিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 420797)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সরু তারের দৈর্ঘ্য [math]2m[/math]। তারটি [math]3 \times 10^{-6}C[/math] চার্জে সুষমভাবে চার্জিত হলে (i) তারের একক দৈর্ঘ্যে চার্জের পরিমাণ ও (ii) [math]1.5m[/math] দূরের কোনো বিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]((i)1.5 \times 10^{-6}Cm^{-1}),(ii) 1.8 \times 10^4 NC^{-1}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তারের দৈর্ঘ্য, [math]l=2m[/math]
+চার্জ, [math]q=3 \times 10^{-6}C[/math]
+একক দৈর্ঘ্যে চার্জের পরিমাণ, [math]\lambda = ?[/math]
+তড়িৎ প্রাবল্য, [math]E=?[/math]
+(i) একক দৈর্ঘ্যে চার্জের পরিমাণ,[math]\begin{aligned} \lambda & =\frac{9}{l} \\ & =\frac{3 \times 10^{-6} \mathrm{C}}{2 \mathrm{~m}} \\ & =1.5 \times 10^{-6} \mathrm{Cm}^{-1} \text { (Ans.) } \end{aligned}[/math]
+(ii) আমরা জানি, চার্জিত সরু পরিবাহী দন্ডের নিকটে কোনো বিন্দুতে প্রাবল্য,[math]\begin{aligned} E & =\frac{1}{2 \pi \epsilon_{0}} \frac{\lambda}{r} \\ & =2 \times \frac{1}{4 \pi \epsilon_{0}} \frac{\lambda}{r} \\ & =2 \times 9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{1.5 \times 10^{-6}}{1.5} \\ & =1.8 \times 10^{4} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক একক দৈর্ঘ্যের চার্জ: [math]\lambda=\dfrac{Q}{L}=\dfrac{3\times10^{-6}}{2}=1.5\times10^{-6}\ \text{C/m}[/math].
+
+খ পয়েন্টটি তারটির মধ্যবিন্দু থেকে লম্বদূরত্ব [math]r=1.5\ \text{m}[/math] এ হলে লম্বদিকের তড়িৎ প্রাবল্য (সিমেট্রির কারণে) দেওয়া হয় [math]E=\dfrac{1}{4\pi\varepsilon_0}\dfrac{\lambda L}{r\sqrt{r^2+(L/2)^2}}[/math]; সংখ্যায় বসালে [math]E\approx \dfrac{8.99\times10^9\times3\times10^{-6}}{1.5\sqrt{1.5^2+1^2}}\approx9.99\times10^3\ \text{N/C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 420798)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \ cm[/math] ব্যাসার্ধের গোলীয় খোলককে [math]20 \mu c[/math] আধানে আহিত করা হলো। নিম্নলিখিত ক্ষেত্রগুলোতে তড়িৎ প্রাবল্য নির্ণয় কর। (i) খোলকের কেন্দ্র থেকে [math]15 \ cm[/math] দূরে এবং (ii) খোলকের কেন্দ্র থেকে [math]40cm[/math] দূরে ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](i)[/math]
+ শূন্য; [math](ii)1.125 \times 10^6 NC^{-1}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গাউস আইনের কারণে শূন্য পুরুত্বের গোলীয় খোলকের ভিতরে কোন চার্জ আবদ্ধ না থাকলে অভ্যন্তরে তড়িৎ প্রাবল্য শূন্য থাকে, এবং খোলকের বাইরের ক্ষেত্রটি যেন কেন্দ্রে অবস্থিত বিন্দু চার্জ দ্বারা সৃষ্ট।  
+ক খোলকের কেন্দ্র থেকে [math]15\ \text{cm}=0.15\ \text{m}[/math] এ [math]E=0[/math]।  
+খ কেন্দ্র থেকে [math]40\ \text{cm}=0.40\ \text{m}[/math] এ [math]E=\dfrac{1}{4\pi\varepsilon_0}\dfrac{Q}{r^2}=9\times10^9\cdot\dfrac{20\times10^{-6}}{(0.40)^2}=1.125\times10^6\ \text{N/C}[/math] (বাহ্যিক দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 420799)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তড়িৎক্ষেত্র প্রাবল্য [math]\overrightarrow{\mathrm{E}}=(5 \hat{\mathrm{i}}+3 \hat{\ mathbf{j}}+2 \hat{\mathrm{k}})[/math] একক দ্বারা প্রকাশিত। ওই ক্ষেত্রে [math]YZ[/math] তলে [math]200[/math] একক ক্ষেত্রফলবিশিষ্ট ক্ষেত্রের ভেতর দিয়ে তড়িৎ ফ্লাক্সের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1000[/math]
+ একক [math])[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, [math]\overrightarrow{\mathrm{E}}=(5 \hat{i}+3 \hat{j}+2 \hat{k})[/math]
+ [math]YZ[/math]
+ তলের অভিলম্ব বরাবর তড়িৎক্ষেত্র প্রাবল্যের উপাংশ [math]E_{x}=5 \hat{i}[/math]
+ [math]\therefore[/math]
+ তড়িৎক্ষেত্র প্রাবল্যের মান, [math]E = 5[/math]
+ একক।[math]\therefore \ YZ[/math]
+ তলে [math]200[/math]
+ একক ক্ষেত্রফলের মধ্য দিয়ে অতিক্রান্ত তড়িৎ ফ্লাক্স,[math]\begin{aligned} \varphi & =E \times 200 \\ & =5 \times 200=\end{aligned}[/math]
+ [math]=1000[/math]
+ একক
+
+Explanation:
+ব্যাখ্যা: তড়িৎ ফ্লাক্স হলো ক্ষেত্রের ভেক্টর এবং ক্ষেত্রফলের নর্মাল ভেক্টরের ডট প্রোডাক্ট, অর্থাৎ [math]\Phi=\overrightarrow{E}\cdot\overrightarrow{A}[/math]. YZ তলের নর্মাল +x দিকে হয় ([math]\hat{i}[/math]) তাই [math]\Phi=E_xA=5\times200=1000[/math]. (নর্মাল যদি −x দিকে নেওয়া হয় তাহলে চিহ্ন বদলাবে।)
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 420800)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] একটি [math]20 \ cm[/math] বাহুবিশিষ্ট সমবাহু ত্রিভুজ। এর দুটি কৌণিক বিন্দু [math]A[/math] ও [math]B[/math] তে [math]100 \ C[/math] করে আধান অবস্থিত।
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে C বিন্দুতে তড়িৎ প্রাবল্যের মান নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ঘ ব্যাখ্যা: প্রতিটি চার্জ থেকে C তে ক্ষেত্রের পরিমাণ [math]E_0=\dfrac{kq}{r^2}[/math] যেখানে [math]k=9\times10^9\ \mathrm{N·m^2/C^2}[/math], [math]q=100\ \mathrm{C}[/math] ও [math]r=20\ \text{cm}=0.2\ \text{m}[/math], ফলে [math]E_0=9\times10^9\times\dfrac{100}{(0.2)^2}=2.25\times10^{13}\ \mathrm{N/C}[/math]. দুইটি সমমান ভেক্টর যাদের মধ্যকার কোণ [math]60^\circ[/math], তাদের যোগফল [math]\sqrt{3}E_0[/math] হয়, তাই মোট ক্ষেত্র [math]E=\sqrt{3}\times2.25\times10^{13}\approx3.90\times10^{13}\ \mathrm{N/C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 420801)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.6 \times 10^{-9}[/math] আধানে আহিত একটি ক্ষুদ্র গোলককে বায়ুতে স্থাপন করা হলো। আহিত গো লকের কেন্দ্র হতে [math]0.14 \ m[/math] দূরে কোনো বিন্দুতে প্রাবল্য বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](734.69 \ NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,আধান, [math]q=1.6 \times 10^{-9}C[/math]
+দূরত্ব, [math]r=0.14 \ m[/math]
+প্রাবল্য, [math]E=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} E & =\frac{1}{4 \pi \epsilon_{0}} \frac{q}{r^{2}} \\ & =\left(9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}\right) \times \frac{1.6 \times 10^{-9} \mathrm{C}}{(0.14)^{2} \mathrm{~m}^{2}} \\ & =734.69 \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+সমাধান: বাহ্যিক বিন্দুতে গোলকটি পয়েন্ট চার্জের মতো আচরণ করে, তাই [math]E=\dfrac{kQ}{r^2}[/math]. এখানে [math]k=9.0\times10^9\ N\cdot m^2/C^2,\ Q=1.6\times10^{-9}\ C,\ r=0.14\ m[/math], তাই [math]E=\dfrac{9.0\times10^9\times1.6\times10^{-9}}{(0.14)^2}=\dfrac{14.4}{0.0196}\approx7.35\times10^2\ N/C[/math]. চার্জ ধনাত্মক হলে ক্ষেত্রের দিক কেন্দ্র থেকেই বহির্গামী।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 420802)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]+1.0 \times 10^{-6} \mathrm{C} B[/math] ও [math]+2.0 \times 10^{-6} \mathrm{C}[/math] দুটো আ ধান পরস্পর হতে [math]10m[/math] দূরে অবস্থিত। এদের সংযোগ সরলরেখার ওপর এমন একটা বিন্দু বের কর যেখানে প্রাবল্যদ্বয়ের মান সমান।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.14 \ cm)[/math]
+ [math]\\[/math]
+ [math][/math]
+মনে করি, ক্ষুদ্র চার্জ হতে বিন্দুটির দূরত্ব [math]=x \ m[/math]
+ [math]\therefore[/math]
+ অপর চার্জ হতে বিন্দুটির দূরত্ব [math]=(0.1-x)m[/math]
+এখন, ক্ষুদ্র চার্জের জন্যে বিন্দুটির প্রাবল্য,[math]\mathrm{E}_{1}=\frac{1}{4 \pi \mathrm{E}_{0}} \times \frac{1.0 \times 10^{-6}}{\mathrm{x}^{2}}[/math]
+এবং অপর চার্জের জন্যে বিন্দুটির প্রাবল্য,[math]\mathrm{E}_{2}=\frac{1}{4 \pi \epsilon_{0}} \times \frac{2.0 \times 10^{-6}}{(0.1-\mathrm{x})^{2}}[/math]
+কিন্তু , উক্ত বিন্দুতে [math]E_1=E_2[/math]
+ হওয়ায়,[math]\begin{array}{l} \frac{1}{4 \pi \epsilon_{0}} \times \frac{1.0 \times 10^{-6}}{\mathrm{x}^{2}}=\frac{1}{4 \pi \epsilon_{0}} \times \frac{2.0 \times 10^{-6}}{(0.1-\mathrm{x})^{2}} \\ \Rightarrow \frac{1}{\mathrm{x}^{2}}=\frac{2}{(0.1-\mathrm{x})^{2}} \\ \Rightarrow \frac{1}{\mathrm{x}}=\frac{\sqrt{2}}{0.1-\mathrm{x}} \\ \Rightarrow \sqrt{2} \mathrm{x}=0.1 \mathrm{x} \\ \Rightarrow 2.414 \mathrm{x}=0.1 \\ \therefore \mathrm{x}=0.0414 \mathrm{~m}=4.14 \mathrm{~cm} \end{array}[/math]
+ [math]\therefore[/math]
+ ক্ষুদ্র চার্জ হতে উক্ত বিন্দুর দূরত্ব [math]4.14 \ cm(Ans.)[/math]
+
+
+Explanation:
+প্রাবল্যদ্বয়ের মান সমান করার জন্য দুই চার্জের তৈরিকৃত ক্ষেত্রের মান সমান রেখে ধরা যাক ছোট চার্জ [math]+1.0\times10^{-6}\,C[/math] থেকে দূরত্ব [math]x[/math] এবং বড় চার্জ [math]+2.0\times10^{-6}\,C[/math] থেকে দূরত্ব [math]10-x[/math]; তাহলে [math]\dfrac{kq_1}{x^2}=\dfrac{kq_2}{(10-x)^2}[/math] ও থেকে [math]\dfrac{10-x}{x}=\sqrt{\dfrac{q_2}{q_1}}=\sqrt{2}, ফলে [math]x=\dfrac{10}{1+\sqrt{2}}\approx4.14\ \mathrm{m}[/math]. তাই সমমানের প্রাবল্যবিন্দুটি দুই চার্জের মধ্যে থাকে এবং ছোট চার্জের কাছে প্রায় [math]4.14\ \mathrm{m}[/math]-এ অবস্থিত।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 420803)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে [math]1.20 \ m[/math] ব্যবধানে রাখা [math]30 \times 10^{-6}[/math] এবং [math]- 60 \times 10^{-6}[/math] ঠিক ম ধ্যবিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](22.5 \times 10^{5}NC^{-1},-60 \times 10^{-6}C)[/math]
+
+Explanation:
+মধ্যবিন্দুতে প্রতি চার্জ থেকে দূরত্ব [math]0.60\ \text{m}[/math] এবং কুলমবলের সূত্র [math]E=\dfrac{k|q|}{r^2}[/math] প্রযোজ্য। তাই [math]E_1=\dfrac{8.99\times10^9\times30\times10^{-6}}{0.6^2}\approx7.49\times10^5\ \text{N/C}[/math] এবং [math]E_2=\dfrac{8.99\times10^9\times60\times10^{-6}}{0.6^2}\approx1.50\times10^6\ \text{N/C}[/math]। ঋণাত্মক চার্জের ক্ষেত্র মধ্যবিন্দুর দিকে হওয়ায় নিট ক্ষেত্র [math]E_{\text{net}}=E_2-E_1\approx7.49\times10^5\ \text{N/C}[/math] এবং এটি নেগেটিভ চার্জের দিকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 420785)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.03 \ m[/math] ব্যাসার্ধের একটি গোলকে [math]5 \ C[/math] চার্জ দেয়া আছে। গোলকের কেন্দ্র হতে [math]0.02m[/math] ও [math]0.10 \ m[/math] দূরে কোনো বিন্দুতে বৈদ্যুতিক প্রাবল্যের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.5 \times 10^{12}NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,গোলকের ব্যাসার্ধ , [math]r=0.03 \ m[/math]
+প্রথম দূরত্ব, [math]r_1 = 0.02 \ m[/math]
+দ্বিতীয় ক্ষেত্রে দূরত্ব , [math]r_2=0.1 \ m[/math]
+চার্জ , [math]q=5C[/math]
+প্রাবল্য, [math]E=?[/math]
+ [math]\\[/math]
+আমরা জানি, প্রাবল্য১ম ক্ষেত্রে, দূরত্ব,আমরা জানি, গোলকের অভ্যন্তরে কোনো বিন্দুতে প্রাবল্য শূন্য।যেহেতু, [math]0.02 \ m <0.03 \ m[/math]
+অতএব, ১ম ক্ষেত্রে প্রাবল্যের মান শূন্য।দ্বিতীয় ক্ষেত্রে,[math]\begin{aligned} E & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{q}{r_{2}^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{5 \mathrm{C}}{(0 \cdot 1 \mathrm{~m})^{2}} \\ & =4.5 \times 10^{12} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধরা যাক গোলকটি পরিবাহক; তখন সব চার্জ পৃষ্ঠায় থাকে এবং অভ্যন্তরে ক্ষেত্র শূন্য, আর বাইরে ক্ষেত্রটি কেন্দ্রিয়ভাবে একটি বিন্দু-চার্জের মতো আচরণ করে।
+
+ক [math]r=0.02\ \text{m}খ [math]r=0.10\ \text{m}>R[/math] হলে বাইরের ক্ষেত্র [math]E=\frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2}[/math], তাই [math]E=\frac{9\times10^9\times5}{(0.10)^2}=4.5\times10^{12}\ \mathrm{N/C}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 420786)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.24m[/math] ব্যাসের একটি গোলাকৃতি পরিবাহীর পৃষ্ঠে [math]33.3 \times 10^{-9} \ C[/math] চার্জ দেয়া হলো। গোলকের কেন্দ্র থেকে (ক) [math]0.5m[/math] দূরে এবং (খ) [math]0.06m[/math] দূরে কোনো বিন্দুর তড়িৎ প্রাবল্য ও বিভব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]([/math]
+(ক) [math]1198.8 \ NC^{-1}, 599.4 \ V[/math]
+ (খ) [math]0,2497.5 \ V)[/math]
+
+
+Explanation:
+ব্যাখ্যা: পরিবাহী গোলকের বাইরে ক্ষেত্রটি কেন্দ্রস্থ বিন্দুকে কেন্দ্র করে বিন্দু-চার্জের মতো হয় আর গোলকের অভ্যন্তরে তড়িৎ ক্ষেত্র শূন্য; বিভব অভ্যন্তরে সমান থাকে এবং পৃষ্ঠার ভরের সমান।  
+ক যেহেতু [math]r=0.5\ \text{m}>R=0.12\ \text{m}[/math], তাই [math]E=\frac{kQ}{r^2}[/math] এবং [math]V=\frac{kQ}{r}[/math]; সংখ্যায় [math]E\approx\frac{(9.0\times10^9)(33.3\times10^{-9})}{(0.5)^2}=1.20\times10^3\ \text{N/C}[/math], [math]V\approx\frac{(9.0\times10^9)(33.3\times10^{-9})}{0.5}=5.99\times10^2\ \text{V}[/math].  
+খ যেহেতু [math]r=0.06\ \text{m}<R[/math], তাই [math]E=0[/math] এবং বিভব পৃষ্ঠার সমান [math]V=\frac{kQ}{R}\approx\frac{(9.0\times10^9)(33.3\times10^{-9})}{0.12}=2.50\times10^3\ \text{V}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 420787)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \times 10^{-8}C[/math] এবং [math]-5 \times 10^{-8}C[/math] চার্জের দুটি বিন্দু চার্জ পরস্পর হতে [math]10 \ cm[/math] দূরে অবস্থিত হলে এদের সংযোগ রেখার ঠিক মাঝখানে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](9 \times 10^5 \ NC^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: দাঁড় করালে মাঝবিন্দুতে প্রতিটি চার্জ থেকে দূরত্ব [math]r=0.05\ \text{m}[/math] এবং ধনাত্মক চার্জ ধکیلতায় মাঝবিন্দু থেকে দূর দিকে, ঋণাত্মক চার্জ আকর্ষণে মাঝবিন্দুতে একই দিকে ক্ষেত্র উৎপন্ন করে, তাই জোড়া ক্ষেত্র যোগ হয়। সমীকরণগতভাবে, [math]E=9\times10^9\frac{20\times10^{-8}+5\times10^{-8}}{(0.05)^2}=9\times10^5\ \text{N/C}[/math], দিকটা ঋণাত্মক চার্জের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 420789)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পদার্থবিজ্ঞান ল্যাবরেটরীতে একজন ছাত্র [math]0.2m[/math] ও [math]0.3m[/math] ব্যাসার্ধের দুটি গোলককে চার্জিত করে, গোলক দুটির বিভব যথাক্রমে [math]5 V[/math] ও [math]10 V[/math]-এ উন্নীত করে পরস্পর হতে 1m দূরত্বে স্থাপন করল।
+
+Options:
+ঘ. গোলকদ্বয়ের সংযোগ সরলরেখার কোথায় প্রাবল্যের মান শূন্য হবে- গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, দ্বিতীয় গোলকের ব্যাসার্ধ, [math]r_2[/math]
+ = 0.3mদ্বিতীয় গোলকের বিভব, [math]V_2[/math]
+ = 10 Vগোলকটির চার্জ, [math]q_2[/math]
+ =?আমরা জানি,[math]\begin{array}{l}v_{2}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{2}}{r_{2}} \\\begin{aligned}\text {} q_{2} & =\frac{V_{2} r_{2}}{\frac{1}{4 \pi \epsilon_{0}}} \\& =\frac{(10 \mathrm{~V}) \times(0.3 \mathrm{~m})}{\left(9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}\right)} \\& =3.33 \times 10^{-10} \mathrm{C}\end{aligned}\end{array}[/math]
+ধরি, প্রথম গোলক হতে x দূরত্বে A বিন্দুতে প্রাবল্য শূণ্য হবে। অর্থাৎ, [math]E_1 = E_2[/math]
+ হবে।
+[Image]
+এখানে,[math]\begin{aligned}E_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{q_{1}}{x^{2}} \\\text { } E_{1} & =\left(9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}\right) \times \frac{1.11 \times 10^{-10} \mathrm{C}}{x^{2}}\end{aligned}[/math]
+আবার,[math]\begin{aligned}E_{2} & =\frac{1}{4 \pi \epsilon_{0}} \frac{4_{2}}{(1-x)^{2}} \\\text { } E_{2} & =\left(9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}\right) \times \frac{\left(3.33 \times 10^{-10} \mathrm{C}\right)}{(1-\mathrm{x})^{2}}\end{aligned}[/math]
+এখন,[math]\begin{array}{l}\mathrm{E}_{1}=\mathrm{E}_{2}\\\text{ } \frac{1.11 \times 10^{-10} \mathrm{C}}{\mathrm{x}^{2}}=\frac{\left(3.33 \times 10^{-10} \mathrm{C}\right)}{(1-\mathrm{x})^{2}}\\\text{} \frac{(1-x)^{2}}{x^{2}}=\frac{3.33 \times 10^{-10} \mathrm{C}}{1.11 \times 10^{-10} \mathrm{C}}\end{array}[/math]
+ [math]\begin{array}{l}\left(\frac{1-x}{x}\right)^{2}=3 . \\\frac{1-x}{x}=\sqrt{3} \\\frac{1}{x}-1=\sqrt{3} \\\frac{1}{x}=\sqrt{3}+1 \\x=\frac{1}{\sqrt{3}+1} \\=0.37 \mathrm{~m}\end{array}[/math]
+অর্থাৎ, প্রথম গোলকটি থেকে 0.37 m দূরত্বে প্রাবল্য শূন্য হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ দুইটি গোলকের চার্জ [math]Q_1=\dfrac{V_1 r_1}{k},\; Q_2=\dfrac{V_2 r_2}{k}[/math] এবং দুর্বলতার মানগুলো [math]V_1=5,\; r_1=0.2,\; V_2=10,\; r_2=0.3[/math] হওয়ায় উভয়ই ধনাত্মক। একটি বিন্দুতে মোট বিভব হল [math]V(x)=k\frac{Q_1}{x}+k\frac{Q_2}{1-x}=\frac{V_1 r_1}{x}+\frac{V_2 r_2}{1-x}[/math]। যদি [math]V(x)=0[/math] ধরা হয় তাহলে [math]\frac{V_1 r_1}{x}=-\frac{V_2 r_2}{1-x}[/math] হবে, যা [math]0<x<1[/math] এর জন্য অসম্ভব (বাম-হাত ও দান-হাতের চিহ্ন ভিন্ন)। তাই সংযোগ সরলরেখায় কোনো সীমিত স্থানে বিভব শূন্য হবে না; কেবল অসীমে [math]V\to0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 420783)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2m[/math] বায়ুবিশিষ্ট একটি সমবাহু ত্রিভূজের দুই কৌণিক বিন্দুতে [math]2 \ C[/math] এবং [math]C[/math] আধান স্থাপিত আছে। ত্রিভুজটির তৃতীয় কৌণিক বিন্দুতে প্রাবল্যের মান ও দিক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\theta = 60^{\circ} , R=4.5 \times 10^9 \ NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+মনে করি, [math]ABC[/math]
+ একটি সমবাহু ত্রিভুজ। এর [math]AB=BC=CA=2m[/math]
+ [math]B[/math]
+ ও [math]C[/math]
+ বিন্দুতে স্থাপিত যথাক্রমে [math](+2C)[/math]
+ ও [math](-2C)[/math]
+ চার্জের জন্য [math]A[/math]
+ বিন্দুতে লব্ধি প্রাবল্যের মান ও দিক নির্ণয় করতে হবে।এখন, [math]B[/math]
+ বিন্দুর [math](+2C)[/math]
+ চার্জের জন্য [math]A[/math]
+ বিন্দুর প্রাবল্য,[math]E=\frac{1}{4 \pi \epsilon_{0}} \times \frac{2 C}{(2 m)}[/math]
+ [math]\begin{array}{l} =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{2 \mathrm{C}}{4 \mathrm{~m}^{2}} \\ =4.5 \times 10^{9} \mathrm{NC}^{-1} \end{array}[/math]
+এর দিক হবে বরাবর [math]BA[/math]
+ বহির্মুখী।আবার, [math]C[/math]
+ বিন্দুতে স্থাপিত ঋণাত্মক আধান [math](-2C)[/math]
+ এর জন্য [math]A[/math]
+ বিন্দুতে প্রাবল্যের মান হবে [math]4.5 \times 10^9 \ NC^{-1}[/math]
+, কিন্তু এর দিক হবে [math]AC[/math]
+ বরাবর।অতএব, [math]A[/math]
+ বিন্দুতে লব্ধি প্রাবল্য [math]R,AE[/math]
+ বরাবর ক্রিয়া করবে।ধরা যাক, সমমানের প্রাবল্যদ্বয়ের মধ্যবর্তী কোণ [math]2\theta[/math]
+যেহেতু [math]\Delta ABC[/math]
+ সমবাহু ত্রিভুজ অতএব, [math]\theta =60^{\circ}(Ans.)[/math]
+ [math]\therefore \ R=E \ cos \theta + E \ cos\theta[/math]
+ [math]=2E \ cos 60^{\circ}= E=4.5 \times 10^9 \ NC^{-1}(Ans.)[/math]
+যেহেতু [math]\theta = 60^{\circ},[/math]
+ অতএব, লব্ধি প্রাবল্য [math]R[/math]
+, ঋণাত্মক চার্জ ও [math]A[/math]
+ বিন্দুর সংযোগকারী সরলরেখার সরলরেখার সাথে [math]60^{\circ}[/math]
+ কোণ করে থাকবে।
+
+Explanation:
+ব্যাখ্যা: দুই শক্তির মধ্যকার কোণ সমবাহু ত্রিভুজে [math]60^\circ[/math], একটি শক্তি ধরে x-অক্ষে রাখলে অন্যটির x-উপাদান [math]2C\cos60=C[/math] যোগ করে মোট x-উপাদান হবে [math]C+ C=2C[/math] এবং y-উপাদান হবে [math]2C\sin60=C\sqrt3[/math]. ফলে প্রাবল্যটির মান [math]\sqrt{(2C)^2+(C\sqrt3)^2}=C\sqrt7[/math]. দিক x-অক্ষের সাথে হবে [math]\tan^{-1}\!\big(\frac{C\sqrt3}{2C}\big)=\tan^{-1}\!\big(\frac{\sqrt3}{2}\big)[/math], অর্থাৎ [math]C[/math] শক্তির দিক থেকে উপরের দিকে অতিরিক্ত এই কোণটি।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 420784)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \times 10^{-8} \mathrm{C}[/math] এবং [math]-5 \times 10^{-8} \mathrm{C}[/math] চার্জবিশিষ্ট দুটি ক্ষুদ্রাকার গোলকের মধ্যবর্তী দূরত্ব [math]10 \ cm[/math] চার্জয়ের ঠিক মধ্যবিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5.4 \times 10^5 \ N.C^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,চার্জ, [math]q_1 = 10 \times 10^{-8}C[/math]
+চার্জ, [math]q_2=-5 \times 10^{-8}C[/math]
+দূরত্ব [math]=10 \ cm=0.1 \ m[/math]
+চার্জদ্বয়ের ঠিক মধ্যবিন্দুতে তড়িৎ প্রাবল্য [math]E=?[/math]
+
+[Image]
+ধরা যাক, A বিন্দুতে [math]10 \times 10^{-8}C[/math]
+ এবং [math]B[/math]
+ বিন্দুতে [math]-5 \times 10^{-8}C[/math]
+ আধান স্থাপিত আছে। [math]AB[/math]
+ এর মধ্যবিন্দু [math]P[/math]
+ তে লব্ধি প্রাবল্য বের করতে হবে।[math]\begin{aligned} & A B=0.1 \mathrm{~m} \\ \therefore & r=A P=\frac{A B}{2}=\frac{0.1}{2}=0.05 \mathrm{~m} \end{aligned}[/math]
+এখন,[math]A[/math]
+ বিন্দুর জন্য [math]P[/math]
+ বিন্দুর প্রাবল্য,[math]\begin{aligned} E_{1} & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{q_{1}}{r^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{10 \times 10^{-8} \mathrm{C}}{(0.05 \mathrm{~m})^{2}} \end{aligned}[/math]
+ [math]=3.6 \times 10^{5} \mathrm{NC}^{-1}[\mathrm{~PB}[/math]
+ বরাবর [math]][/math]
+আবার, [math]B[/math]
+ বিন্দুর আধানের জন্য [math]P[/math]
+ বিন্দুতে প্রাবল্য,[math]E_{2}=\frac{1}{4 \pi \epsilon_{0}} \times \frac{q_{1}}{r^{2}}[/math]
+ [math]\begin{array}{l} =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{-5 \times 10^{-8} \mathrm{C}}{(0.05 \mathrm{~m})^{2}} \\ =-1.8 \times 10^{5} \mathrm{~N} \cdot \mathrm{C}^{-1} \end{array}[/math]
+[ঋণাত্মক চিহ্ন অন্তর্মুখী বা আকর্ষণ বোঝাচ্ছে][math]=1.8 \times 10^{5} \text { N.C }{ }^{-1}[\mathrm{~PB}[/math]
+বরাবর [math]][/math]
+যেহেতু [math]E_1[/math]
+ ও [math]E_2[/math]
+ একই দিকে ক্রিয়া করে,অতএব,[math]\begin{aligned} E & =E_{1}+E_{2} \\ & =\left(3 \cdot 6 \times 10^{5}+1 \cdot 8 \times 10^{5}\right) ~ N \cdot C^{-1} \\ & =5 \cdot 4 \times 10^{5} \text { N.C }{ }^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কুলন সূত্র অনুযায়ী [math]E=\dfrac{k|q|}{r^2}[/math], এখানে মাঝবিন্দুতে প্রতিটি চার্জ থেকে দূরত্ব [math]r=0.05\ \text{m}[/math]. বড় ধনাত্মক চার্জ থেকে [math]E_1=\dfrac{9\times10^9\times10\times10^{-8}}{(0.05)^2}=3.6\times10^5\ \mathrm{N/C}[/math] এবং ঋণাত্মক চার্জ থেকে [math]E_2=\dfrac{9\times10^9\times5\times10^{-8}}{(0.05)^2}=1.8\times10^5\ \mathrm{N/C}[/math]. দুটো ক্ষেত্রই ধনাত্মক থেকে ঋণাত্মকের দিকে নির্দেশ করে, তাই যোগ করলে মোট ক্ষেত্র [math]E_{\text{মোট}}=5.4\times10^5\ \mathrm{N/C}[/math] হবে ঋণাত্মক চার্জের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 420779)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1 \ m[/math] ব্যাসার্ধের একটি পরিবাহী গোলকে [math]7.11 \ nC[/math] কুলম্ব ধনাত্মক চার্জ আছে।
+
+Options:
+ঘ. কেন্দ্র থেকে দূরত্বের সাথে প্রাবল্য কীভাবে পরিবর্তীত হবে লেখচিত্রের সাহায্যে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘকেন্দ্র হতে দূরত্বের সাথে প্রাবল্যের পরিবর্তন লেখচিত্রের সাহায্যে দেখানো হল:এখানে,ব্যাসার্ধ, r = 1 mচার্জ, [math]\mathrm{q}=7.11 \mathrm{nC}[/math]
+ধ্রুবক, [math]\frac{1}{4 \pi \epsilon_{0}}-9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+কেন্দ্র হতে দূরত্ব = xক্ষেত্র ১: x  । অর্থাৎ, গোলকের বাইরে। গোলকের বাইরে প্রাবল্য, E [math]=\frac{1}{4 \pi \epsilon_{0}} \times \frac{9}{x^{2}}[/math]
+অর্থাৎ গোলকের বাইরে দূরত্ব বাড়ার সাথে সাথে বিপরীত বর্গীয় হারে প্রাবল্য কমতে থাকে।
+[Image]
+
+
+Explanation:
+ঘ পরিবাহী গোলকের সব চার্জ বাইরের পৃষ্ঠে স্থানান্তরিত হয়, তাই ভিতরে [math](r<1\ \text{m})[/math] বৈদ্যুতিক ক্ষেত্র [math]E=0[/math] থাকে; গ্রাফে শূন্য রেখা ১ মিটার পর্যন্ত। বাইরে ক্ষেত্র একটি বিন্দু চার্জের মতো হয়: [math]E=\dfrac{kQ}{r^{2}}\ (\text{for }r\ge1\ \text{m})[/math], তাই [math]r=1\ \text{m}[/math] এ [math]E\approx kQ\approx63.9\ \text{N/C}[/math] এবং তারপর [math]1/r^{2}[/math] অনুসারে ক্রমশ কমে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 420780)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]6 \times 10^{-9}C[/math] চার্জে চার্জিত একটি ক্ষুদ্র গোলককে বায়ুতে স্থাপন করা হলো। গোলকের কে ন্দ্র হতে [math]0.24m[/math] দূরের কোনো বিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](937.5NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ, [math]q=6 \times 10^{-9}C[/math]
+দূরত্ব, [math]r=0.24m[/math]
+ [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{-2} \mathrm{C}^{-2}[/math]
+তড়িৎ প্রাবল্য, [math]E=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} E & =\frac{1}{4 \pi \epsilon_{0}} \frac{q}{r^{2}} \\ & =9 \times10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \frac{6 \times10^{-9} \mathrm{C}}{(0.24 \mathrm{m)^2}} \\ & =937.5 \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+চার্জের তড়িৎক্ষেত্র বিন্দুচুম্বকের সূত্র [math]E=\dfrac{kQ}{r^2}[/math] দ্বারা পাওয়া যায়; এখানে [math]k\approx9.0\times10^9\ \text{N·m}^2/\text{C}^2[/math]। সংখ্যাগতভাবে [math]E=\dfrac{(9.0\times10^9)(6.0\times10^{-9})}{(0.24)^2}=\dfrac{54}{0.0576}=9.375\times10^2\ \text{N/C}[/math] (প্রায় [math]9.38\times10^2\ \text{N/C}[/math])। ধনাত্মক চার্জ হওয়ায় ক্ষেত্রের দিক গোলকের কেন্দ্র থেকে বাহিরে।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 420781)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বাতাসে [math]100C[/math] চার্জ হতে [math]1m[/math] দূরে কোনো বিন্দুতে বৈদ্যুতিক প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](9 \times 10^{11} \ NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ, [math]q=100C[/math]
+দূরত্ব, [math]r=1 \ m[/math]
+ [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+প্রাবল্য, [math]E=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} E & =\frac{1}{4 \pi \epsilon_{0}} \frac{q}{r^{2}} \\ & =9 \times 10^{2} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{100 \mathrm{C}}{(1 \mathrm{~m})^{2}} \\ & =9 \times 10^{11} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিন্দু চার্জ থেকে দূরত্বে বৈদ্যুতিক প্রাবল্য কুলম্বের ধারা অনুযায়ী [math]E=\dfrac{kQ}{r^2}[/math] হয়, যেখানে [math]k=9\times10^9\ \mathrm{N\,m^2/C^2}[/math]; তাই [math]E=\dfrac{9\times10^9\times100}{1^2}=9\times10^{11}\ \mathrm{N/C}[/math]. ধন চার্জ হলে ক্ষেত্রের দিক ওই বিন্দু থেকে বাহিরের দিকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 420782)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কত প্রাবল্যের একটি বৈদ্যুতিক ক্ষেত্রে একটি ইলেকট্রন স্থাপন করলে ইলেকট্রনটি তার ওলনের সমা ন বল অনুভব করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5.57 \times 10^{-11}NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ইলেক্ট্রনের ভর , [math]m=9.1 \times 10^{-31}kg[/math]
+ইলেকট্রনের চার্জ, [math]q=1.6 \times 10^{-19}[/math]
+অভিকর্ষণ ত্বরণ, [math]g=9.8 \ ms^{-2}[/math]
+তড়িৎ প্রাবল্য, [math]E=?[/math]
+ [math]\\[/math]
+চার্জের ওপর ক্রিয়াশীল বল F হলে,[math]\begin{aligned} E & =\frac{F}{q} \\ & =\frac{\mathrm{mg}}{\mathrm{q}} \\ & =\frac{9.1 \times 10^{-31} \times 9.8}{1.6 \times 10^{-19}} \\ & =5.57 \times 10^{-11} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ইলেকট্রনের ওজনের সমান বৈদ্যুতিক বল পেতে বৈদ্যুতিক বল [math]qE[/math] কে [math]mg[/math] এর সমান করতে হবে, তাই [math]E=\dfrac{mg}{e}[/math]. এখানে [math]m=9.11\times10^{-31}\,\text{kg}[/math], [math]e=1.60\times10^{-19}\,\text{C}[/math], [math]g=9.8\,\text{m/s}^2[/math], ফলে [math]E\approx5.6\times10^{-11}\,\text{N/C}[/math]. ইলেকট্রন নেতিবাচক হওয়ায় ক্ষেত্রের দিকটি নিচের দিকে থাকা দরকার যাতে বৈদ্যুতিক বলটি উপরের দিকে কাঁশে এবং ওজন বন্ধ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 420778)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]q_{1}=8 \mu C, q_{2}=-12 \mu C[/math] এবং [math]d=1.2 \mathrm{~m}[/math] | নিচের প্রশ্নগুলোর উত্তর দাও।
+
+
+[Image]
+
+
+Options:
+গ. চার্জদ্বয়ের ঠিক মধ্যবিন্দুতে প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গ মাঝবিন্দুতে প্রতিটি চার্জ থেকে দূরত্ব [math]r=d/2=0.6\ \mathrm{m}[/math] এবং ক্ষেত্রের মানের সূত্র [math]E=k|q|/r^{2}[/math]। তাই [math]E_{1}=9\times10^{9}\times\frac{8\times10^{-6}}{0.6^{2}}=2.0\times10^{5}\ \mathrm{N/C}[/math] এবং [math]E_{2}=9\times10^{9}\times\frac{12\times10^{-6}}{0.6^{2}}=3.0\times10^{5}\ \mathrm{N/C}[/math]। q₁ ধনাত্মক হওয়ার কারণে তার ক্ষেত্র মাঝবিন্দুতে q₂-এর দিকে এবং q₂ ঋণাত্মক হওয়ায় তার ক্ষেত্রও মাঝবিন্দুতে q₂-এর দিকে নির্দেশ করে, তাই মোট ক্ষেত্র [math]E=E_{1}+E_{2}=5.0\times10^{5}\ \mathrm{N/C}[/math] এবং দিকটি q₂-এর দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 420777)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রের ত্রিভুজটির প্রতিটি বাহুর দৈর্ঘ্য [math]0.5 \ m[/math] এবং প্রতি কোণায় [math]+ \ 6 \ C[/math] চার্জ আছে।
+
+
+[Image]
+
+
+Options:
+ঘ. দেখাও যে, [math]C[/math] বিন্দুতে প্রাবল্য শূন্য কিন্তু বিভব শূন্য নয় ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,প্রতি বাহুর দৈর্ঘ্য, , a = 0.5 mপ্রতি কোণায় চার্জ, [math]q=+6 \mu \mathrm{C}[/math]
+ধ্রুবক, [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+C বিন্দুতে প্রাবল্য, E = ?C বিন্দুতে বিভব, V = ?
+[Image]
+চিত্র হতে, [math]\mathrm{PS}=\sqrt{\mathrm{PR}^{2}-\mathrm{RS}^{2}}[/math]
+ [math]\begin{array}{l}\text { } P S=\sqrt{(0.5)^{2}-\left(\frac{0.5}{2}\right)^{2}} \\\therefore P S=0.433 \mathrm{~m}\end{array}[/math]
+PQR ত্রিভুজের ভরকেন্দ্র C হওয়ায়,[math]\begin{array}{l}r=P C=P S \times \frac{2}{3} \\\text { } r=0.433 \times \frac{2}{3} \\\therefore r=0.29 \mathrm{~m}\end{array}[/math]
+প্রতি কোণায় চার্জের মান সমান এবং প্রতি কোণা হতে C বিন্দুর দূরত্ব সমান হওয়ায় যেকোনো একটি চার্জের দরুণ C বিন্দুতে প্রাবল্যের মান,[math]\begin{aligned}\mathrm{E}_{1}=\mathrm{E}_{2}&=\mathrm{E}_{3}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{6 \times 10^{-6}}{(0.29)^{2}} \\& =6.42 \times 10^{5} \mathrm{NC}^{-1}\end{aligned}[/math]
+PQR সমবাহু ত্রিভুজে,[math]\begin{array}{l}\angle \mathrm{PRS}=60^{\circ} \\\therefore \angle \mathrm{CRS}=\frac{60^{\circ}}{2}=30^{\circ} \\\therefore \angle\mathrm{RCS}=90^{\circ}-30^{\circ}=60^{\circ} \\\therefore \angle \mathrm{QCR}=2 \times 60^{\circ}=120^{\circ}\end{array}[/math]
+ [math]\overrightarrow{\mathrm{E}_{1}}[/math]
+ ও [math]\overrightarrow{\mathrm{E}_{2}}[/math]
+ এর লব্ধি,[math]\begin{array}{l}\quad E=\sqrt{E_{1}{ }^{2}+E_{2}^{2}+2 E_{1} E_{2} \cos 120^{\circ}} \\\text { } E=\sqrt{\left(6.42 \times 10^{5}\right)^{2}+\left(6.42 \times 10^{5}\right)^{2}+2 \times 6.42 \times 10^{5} \times 6.42 \times 10^{5} \cos 120^{\circ}} \\\therefore E=6.42 \times 10^{5} \mathrm{NC}^{-1}\end{array}[/math]
+ [math]\overrightarrow{\mathrm{E}_{1}}[/math]
+ ও [math]\overrightarrow{\mathrm{E}_{2}}[/math]
+ মানে সমান হওয়ায় এদের লব্ধি মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করবে তথা লব্ধি CS বরাবর ক্রিয়া করবে।আবার, [math]\overrightarrow{\mathrm{E}_{1}}[/math]
+ এবং [math]\overrightarrow{\mathrm{E}_{2}}[/math]
+ পরস্পর বিপরীতমুখী হওয়ায় এদের লব্ধি,[math]E_{R}=E-E_{1}=6.42 \times 10^{5}-6.42 \times 10^{5}=0 \mathrm{NC}^{-1}[/math]
+C. বিন্দুতে বিভব,[math]\begin{aligned}V & =\frac{q}{4 \pi \epsilon_{0} r}+\frac{q}{4 \pi \epsilon_{0} r}+\frac{q}{4 \pi \epsilon_{0} r} \\& =3 \times \frac{q}{4 \pi \epsilon_{0} r} \\& =3 \times 9 \times 10^{9} \times \frac{6 \times 10^{-6}}{029}\end{aligned}[/math]
+ [math]=5.59 \times 10^{5} \mathrm{~V} 
+eq 0[/math]
+সুতরাং বলা যায়, C বিন্দুতে প্রাবল্য শূন্য কিন্তু বিভব শূন্য নয় । -
+
+Explanation:
+ঘ প্রমাণ: সমকোণী ত্রিভুজের কেন্দ্র (গড়বিন্দু) থেকে তিন কোণের দূরত্ব সমান, তাই প্রতিটি চার্জ থেকে আসা ক্ষেত্রভেক্টরগুলোর যোগ [math]\vec{E}_1+\vec{E}_2+\vec{E}_3=0[/math] (তিনটি সমমান ভেক্টর ১২০° কোণে যোগ করলে শূন্য হয়), ফলে প্রাবল্য শূন্য। কিন্তু বিভব একটি স্কেলার যোগফল, তাই [math]V=\sum k\frac{q}{r}=3k\frac{q}{r}[/math] যেখানে [math]r=\frac{a}{\sqrt{3}}[/math]; ফলে [math]V=\frac{3\sqrt{3}kq}{a}\neq0[/math] (সংখ্যায় приблизительно [math]5.6\times10^{11}\ \mathrm{V}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 420776)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] পাতদ্বয় সমান কিন্তু বিপরীত চার্জে চার্জিত। পাতদ্বয়ের মধ্যবর্তী দূরত্ব। [math]1 \ cm[/math] এবং এদের মাঝে একটি প্রোটন স্থির অবস্থায় আছে। প্রোটনের ভর [math]1.672 \times 10^{-27}kg[/math] এবং চার্জ [math]1.6 \times 10^{-19}C[/math] ঐ স্থানের অভিকর্ষজ ত্বরণ [math]10m \ s^{-2}[/math]
+
+[Image]
+
+
+Options:
+গ. পাতদ্বয়ের মাঝে তড়িৎ প্রাবল্য কত- নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গযেহেতু প্রোটনটি পাতদ্বয়ের মাঝে স্থির আছে তাহলে এটির উপর ক্রিয়ারত ঊর্ধ্বমুখী তড়িৎ বল এটির ওজনের সমান । পাতদ্বয়ের মাঝে তড়িৎ প্রাবল্য E ও ক্রিয়ারত তড়িৎ বল, F হলেএখানে,প্রোটনের ভর, [math]\mathrm{m}=1.672 \times 10^{-27} \mathrm{~kg}[/math]
+প্রোটনের চার্জ, [math]\mathrm{q}=1.6 \times 10^{-19}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=10 \mathrm{~ms}^{-2}[/math]
+ [math]\begin{array}{l}\mathrm{F}=\mathrm{qE} \\\text { } \mathrm{mg}=\mathrm{qE} \\\begin{aligned}\text { } \mathrm{E} & =\frac{\mathrm{mg}}{\mathrm{q}} \\& =\frac{1.672\times 10^{-27} \times 10}{1.6 \times 10^{-19}} \\& =1.045 \times 10^{-7} \mathrm{NC}^{-1}\end{aligned}\end{array}[/math]
+ (Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ প্রোটনের উপর বিন্যস্ত বল [math]F=ma=[1.672\times10^{-27}\,\text{kg}]\times[10\,\text{m/s}^2]=1.672\times10^{-26}\,\text{N}[/math], এবং [math]F=qE[/math] হওয়ায় [math]E=F/q=1.672\times10^{-26}/1.6\times10^{-19}=1.045\times10^{-7}\,\text{N/C}\approx1.05\times10^{-7}\,\text{N/C}[/math]। দিক: প্রোটন ঋণাত্মক পাতার দিকে তাড়িত হবে (ঋণাত্মক পলের দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 420775)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]q_{1}=24 n C, q_{2}=-24 \mathrm{nc}[/math] এবং [math]d = 2 \ m[/math]
+
+
+[Image]
+
+
+Options:
+গ. [math]A[/math] বিন্দুতে তড়িৎ ক্ষেত্রের প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গB বিন্দুতে চার্জের জন্য A বিন্দুতে প্রাবল্যের মান,[math]\begin{aligned}\mathrm{E}_{1}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{g}_{1}}{\mathrm{~d}^{2}} & =9 \times 10^{9} \times \frac{24 \times 10^{-9}}{(2)^{2}} \mathrm{NC}^{-1} \\& =54 \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]\vec{E}_{1}[/math]
+ এর দিক B থেকে A এর দিকে।C বিন্দুতে চার্জের জন্য A বিন্দুতে প্রাবল্যের মান,[math]\begin{aligned}\mathrm{E}_{2}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{3}}{\mathrm{~d}^{2}} & =9 \times 10^{9} \times \frac{24 \times 10^{-9}}{(2)^{2}} \mathrm{NC}^{-} \\& =54 \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]\overrightarrow{\mathrm{E}}_{2}[/math]
+ এর দিক A থেকে C এর দিকে। নিচের চিত্রে বিষয়টি দেখানো হল-
+[Image]
+[math]\vec{E}_{1}[/math]
+ ও [math]\vec{E}_{2}[/math]
+ এর মধ্যবর্তী কোণ, [math]\alpha[/math]
+ = [math]120^{\circ}[/math]
+ [math]\therefore \overrightarrow{\mathrm{E}}_{1}[/math]
+ ও [math]\overrightarrow{\mathrm{E}}_{2}[/math]
+ এর লব্ধির মান E হলে,[math]\begin{aligned}\mathrm{E} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2} \cos \alpha} \\& =\sqrt{(54)^{2}+(54)^{2}+2 \times 54 \times 54 \times \cos 120^{\circ}} \\& =54 \mathrm{NC}^{-1} \text { (Ans.) }\end{aligned}[/math]
+ [math]\vec{E}_{1}[/math]
+ ও [math]\vec{E}_{2}[/math]
+ এর মান সমান হওয়ায় [math]\vec{E}_{1}[/math]
+ AC এর সাথে 60° কোণ তৈরি। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ A বিন্দু মাঝবিন্দু হওয়ায় প্রতিটি চার্জ থেকে দূরত্ব [math]r=d/2=1\ \mathrm{m}[/math]; প্রতিটি চার্জের থেকে তড়িৎ ক্ষেত্রের মান [math]E_1=\dfrac{k|q|}{r^2}[/math]। মোট ক্ষেত্র দুটি একই দিকে যোগ হবে, তাই [math]E=2\,\dfrac{kq}{r^2}=2\times9\times10^9\times24\times10^{-9}=432\ \mathrm{N/C}[/math], এবং দিকটি ধনাত্মক থেকে ঋণাত্মকের দিকে (ডানদিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 420774)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ধনাত্মকভাবে চার্জিত অসীম বিস্তৃতির একটি তল যার চার্জের তল ঘনত্ব [math]5 \ \mu C.m^{-2}[/math]। তল থেকে [math]0.2m[/math] লম্ব দূরত্বে [math]P[/math] একটি বিন্দু। ঐ স্থানের অভিকর্ষজ ত্বরণ [math]g=10m .s^{-2}[/math]
+
+
+[Image]
+
+
+Options:
+গ. [math]P[/math] বিন্দুতে তড়িৎ প্রাবল্যের মান নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+গআমরা জানি, চার্জিত অসীম বিস্তৃতির তলের জন্য কোনো বিন্দুতেএখানে,চার্জের তল ঘনত্ব,[math]\begin{aligned}\sigma & =5 \mu \mathrm{C} \cdot \mathrm{m}^{-2} \\& =5 \times 10^{-6} \mathrm{C} \cdot \mathrm{m}^{-2}\end{aligned}[/math]
+তড়িৎ ভেদনযোগ্যতা, [math]\epsilon_{0}=8.85 \times 10^{-12} \mathrm{C}^{2} \cdot \mathrm{N}^{-1} \cdot \mathrm{m}^{-.2}[/math]
+তড়িৎ প্রাবল্য, E= ?তড়িৎ প্রাবল্য,[math]\begin{array}{l}\begin{aligned}\mathrm{E} & =\frac{\sigma}{2 \epsilon_{0}} \\& =\frac{5 \times 10^{-6}}{2 \times 8.85 \times 10^{-12}} \\& =2.825 \times 10^{5} \mathrm{~N} \cdot \mathrm{C}^{-1}\end{aligned}\\\text{(Ans.)}\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ধনাত্মক অসীম তলের ক্ষেত্রে ক্ষেত্রের মান তল থেকে দূরত্বের ওপর নির্ভর করে না এবং [math]E=\dfrac{\sigma}{2\varepsilon_0}[/math] হয়; এখানে [math]\sigma=5\times10^{-6}\,C/m^2[/math] এবং [math]\varepsilon_0=8.85\times10^{-12}\,F/m[/math]. তাই [math]E=\dfrac{5\times10^{-6}}{2\times8.85\times10^{-12}}\approx2.8\times10^{5}\,N/C[/math]. ক্ষেত্রের দিক তল থেকে বাইরে, অর্থাৎ তল থেকে দূরে সরে যাওয়ার দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 420772)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] একটি সমবাহু ত্রিভুজ যার প্রতি বাহুর দৈর্ঘ্য [math]3[/math] মিটার। প্রথমে [math]A[/math] বিন্দুতে [math]250[/math] কুলম্ব চার্জ রাখা হলো। পরবর্তীতে [math]B[/math] বিন্দুতে [math]- 250[/math] কুলম্ব চার্জ রাখা হলো।
+
+Options:
+ঘ. [math]B[/math] বিন্দুতে চার্জ রাখার পূর্বে ও পরে [math]C[/math] বিন্দুতে তড়িৎ প্রাবল্যের কিরূপ পরিবর্তন হবে তার গাণিতিক প্রমাণ দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রথম ক্ষেত্রে,
+[Image]
+এখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ বিন্দুতে চার্জ, [math]\mathrm{q}_{1}=250 \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+দৈর্ঘ্য, [math]\mathrm{r}=\mathrm{AC}=3 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}\rm{C}[/math]
+ বিন্দুতে প্রাবল্য, [math]\rm{E_{1}=?}[/math]
+ [math]\hspace{1 cm}\dfrac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{E}_{1} & =\dfrac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{1}}{r^{2}} \\ & =9 \times 10^{9} \times \frac{250}{3^{2}} \mathrm{~N} \mathrm{C}^{-1} \\ & =2.5 \times 10^{11} \mathrm{~N} \mathrm{C}^{-1} \end{aligned}[/math]
+দ্বিতীয় ক্ষেত্রে, [math]\rm{B}[/math]
+ বিন্দুতে স্থাপিত চার্জের জন্য [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য,
+[Image]
+এখানে,[math]\hspace{1 cm}[/math]
+চার্জ, [math]\rm{q_{2}=-250 C}[/math]
+ [math]\hspace{1 cm}[/math]
+দূরত্ব, [math]\rm{r=B C}=3 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}\dfrac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{C}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাবল্য, [math]\rm{E}_2 =[/math]
+ কত?[math]\hspace{1.5 cm}\begin{aligned} \rm{E}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\rm{q}_{2}}{\mathrm{r}^{2}} \\ & =\frac{9 \times 10^{9} \times-250}{9} \mathrm{~N} \mathrm{C}^{-1} \\ & =-2.5 \times 10^{11} \mathrm{~N} \mathrm{C}^{-1} \end{aligned}[/math]
+ [math]\therefore \mathrm{E}_{1}=\mathrm{E}_{2}~[~\because(-)[/math]
+ চিহ্ন দ্বারা আকর্ষণধর্মী প্রাবল্য বোঝায় [math]][/math]
+ধরি, [math]\mathrm{E}_{1}=\mathrm{E}_{2}=\mathrm{x}[/math]
+ [math]\rm{C}[/math]
+ বিন্দুতে মোট প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned} \rm{E} & =\sqrt{\rm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2} \cos \theta} \\ & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2}\left(-\dfrac{1}{2}\right)} \\ & \rm{=\sqrt{x^{2}+x^{2}-x^{2}}=x=2.5 \times 10^{11} N C^{-1}} \end{aligned}\quad \vert ~[/math]
+এখানে, [math]~ ~\theta=120^{\circ}[/math]
+অতএব, [math]\rm{B}[/math]
+ বিন্দুতে চার্জ রাখার পূর্বে ও পরে [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য অভিন্ন।
+
+Explanation:
+ঘ ব্যাখ্যা: A বিন্দুতে থাকা [math]+250\ \text{C}[/math] চার্জ C বিন্দুতে একটি ক্ষেত্র দেয় যার মান [math]E=k\frac{250}{3^2}=k\frac{250}{9}[/math]। B বিন্দুতে [math]-250\ \text{C}[/math] রাখলে C তে A থেকে আসা ক্ষেত্র ও B থেকে আসা ক্ষেত্র দুটির মান সমান ([math]E[/math]) কিন্তু তাদের মধ্যকার কোণ [math]120^\circ[/math] (ত্রিভুজের শীর্ষকোণ [math]60^\circ[/math] এবং চারের চিহ্নের কারণেই একটির দিক উল্টে যায়), তাই resultant মান হবে  
+[math]E_{\rm net}=\sqrt{E^2+E^2+2E^2\cos120^\circ}=\sqrt{2E^2-E^2}=E[/math]। অতএব C বিন্দুতে তড়িৎক্ষেত্রের পরিমাণ বদলায় না; দিকটি হবে দুই ক্ষেত্রের মধ্যবর্তী সমদ্বিখণ্ডক (C থেকে AB এর মধ্যবিন্দুর দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 420773)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]20[/math] সে.মি. ব্যাসার্ধের একটি পরিবাহী গোলকের তল সুষমভাবে [math]3[/math] মাইক্রো-কুলম্ব আধানে আহিত । গোলকের পৃষ্ঠ এবং কেন্দ্র থেকে [math]30[/math] সে.মি. দূরে কোন বিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3 \times 10^{5} \mathrm{NC}^{-1}[/math]
+)[math]\\[/math]
+Solution : গোলাকের পৃষ্ঠে তড়িত প্রাবল্য, [math]E_{1}=\dfrac{1}{4 \pi \epsilon_{2}} \cdot \dfrac{9}{r_{1}^{2}}=9 \times 10^{9} \times \dfrac{3 \times 10^{-6}}{\left(20 \times 10^{-2}\right)^{2}}=6.75 \times 10^{5} \mathrm{NC}^{-1}[/math]
+কেন্দ্র হতে [math]30\text{ cm}[/math]
+ দূরে তড়িৎ প্রাবল্য, [math]E_{2}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q}{r_{2}^{2}}=9 \times 10^{9} \times \dfrac{3\times 10^{-6}}{\left(30 \times 10^{-2}\right)^{2}}=3 \times 10^{5} \mathrm{NC}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+গোলটি পরিবাহী হওয়ায় সকল চার্জ পৃষ্ঠে থাকে এবং বাইরের কোনও বিন্দুতে ক্ষেত্রটি কেন্দ্রে অবস্থানরত বিন্দু-চার্জের মতোই হয়; তাই ব্যবহার করতে হবে [math]E=\dfrac{kQ}{r^2}[/math]. এখানে [math]Q=3\times10^{-6}\ \mathrm{C}[/math], [math]k=9\times10^9\ \mathrm{N·m^2/C^2}[/math]. কেন্দ্র থেকে [math]30\ \mathrm{cm}[/math] দূরে ([math]r=0.30\ \mathrm{m}[/math]) হলে [math]E=\dfrac{9\times10^9\times3\times10^{-6}}{0.30^2}=3.0\times10^5\ \mathrm{N/C}[/math], এবং গোলকের পৃষ্ঠ থেকে [math]30\ \mathrm{cm}[/math] দূরে মানে [math]r=0.50\ \mathrm{m}[/math] হলে [math]E=\dfrac{9\times10^9\times3\times10^{-6}}{0.50^2}=1.08\times10^5\ \mathrm{N/C}[/math]; উভয় ক্ষেত্রেই ক্ষেত্রদিকটা কেন্দ্র থেকে বহিরীক দিকের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 420771)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ কর :
+
+[Image]
+
+
+উপরের চিত্রে A ও B উভয় বিন্দুতেই 100 C চার্জ দেওয়া আছে।
+
+Options:
+ঘ. ‘C’ বিন্দুর তড়িৎ প্রাবল্যের দিক কোন দিকে হবে? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ [math]\rm{A}[/math]
+ বিন্দুতে স্থাপিত চার্জের জন্য [math]\rm{E}_1[/math]
+ এর দিক [math]\rm{CD}[/math]
+ বরাবর। [math]\rm{B}[/math]
+ বিন্দুতে স্থাপিত চার্জের জন্য [math]\rm{E}_2[/math]
+ এর দিক [math]\rm{CF}[/math]
+ বরাবর। [math]\rm{E_1 ~ও~ E_2}[/math]
+ এর লব্ধি [math]\rm{E}[/math]
+ এর দিক [math]\rm{CDGF}[/math]
+ সামান্তরিক এর কর্ণ বরাবর।
+[Image]
+দিক :[math]\hspace{1.2 cm}\begin{aligned} \tan \theta & =\rm{\dfrac{E_{2} \sin \alpha}{E_{1}+E_{2} \cos \alpha}} \\ & =\rm{\dfrac{E_{1} \sin \alpha}{E_{1}+E_{1} \cos \alpha} =\dfrac{2 \sin \frac{\alpha}{2} \cos \frac{\alpha}{2}}{2 \cos ^{2} \frac{\alpha}{2}}=\tan \frac{\alpha}{2}=\tan 30^{\circ}} \\ \therefore \quad \theta & =30^{\circ} \end{aligned}[/math]
+ [math]\rm{E_1 ~ও~ E_2}[/math]
+ উভয়ের সাথে লব্ধি প্রাবল্য [math]\mathrm{E}, ~30^{\circ}[/math]
+ কোণে আনত।
+
+Explanation:
+ঘ ব্যাখ্যা: A ও B উভয়ই ধনাত্মক হওয়ায় প্রতিটি চার্জ C-তে তড়িৎ ক্ষেত্রকে নিজ দিক থেকে দূরে ঠেলে; তাদের অনুভূমিক উপাদানগুলো পরস্পর বিপরীত হয়ে নেমে যায়, কিন্তু উল্লম্ব উপাদানগুলো একত্রিত হয়—সুতরাং নিট ক্ষেত্রটি নিচের দিকে (AB রেখার দিকে) olacaktır।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 420770)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ কর :
+
+[Image]
+
+
+উপরের চিত্রে A ও B উভয় বিন্দুতেই 100 C চার্জ দেওয়া আছে।
+
+Options:
+গ. ‘C’ বিন্দুর তড়িৎ প্রাবল্যের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ বিন্দুর চার্জ [math]=\rm{B}[/math]
+ বিন্দুর চার্জ [math]\rm{=q=100 C}[/math]
+ [math]\hspace{1 cm}\mathrm{AB}=\mathrm{BC}=\mathrm{CA}=\mathrm{r}=10 \mathrm{~cm}=0.10 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}\rm{C}[/math]
+ বিন্দুতে প্রাবল্য [math]\rm{E}=[/math]
+ কত?[math]\hspace{1 cm}\rm{A}[/math]
+ বিন্দুর চার্জের জন্য [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1 cm}\rm{E_{1}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q}{r^{2}}}[/math]
+ [math]\rm{B}[/math]
+ বিন্দুর চার্জের জন্য [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{E_{2}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q}{2}} \\ \rm{\therefore E_{1}=E_{2}}\end{array}[/math]
+ [math]\rm{C}[/math]
+ বিন্দুতে লব্ধি প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned} \rm{E} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2} \cos 60^{\circ}} \\ & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{1}^{2}+2 \mathrm{E}_{1}^{2}\left(\frac{1}{2}\right)} \\ & =\sqrt{3} \mathrm{E}_{1}=\sqrt{3} \cdot \frac{1}{4 \pi \epsilon_{0}} \cdot \frac{9}{\mathrm{r}^{2}} \\ & =\frac{\sqrt{3} \times 9 \times 10^{9} \times 100}{(0.10)^{2}} \mathrm{~N} \mathrm{C}^{-1}=1.56 \times 10^{14} \mathrm{~N}\mathrm{C}^{-1} \end{aligned}[/math]
+ [math]\therefore ~\rm{C}[/math]
+ বিন্দুতে প্রাবল্যের মান [math]1.56 \times 10^{14} \mathrm{NC}^{-1}[/math]
+।
+
+Explanation:
+গ C বিন্দু A ও B থেকে সমদূরে আছে, ফলে প্রতিটি চার্জ থেকে প্রযোজ্য ক্ষেত্রের পরিমাপ সমান: [math]E_A=E_B=\dfrac{kq}{r^2}[/math]. কারণ উভয় চার্জ ধনাত্মক হলে ক্ষেত্রগুলোর দিক একে অপরের বিপরীত হওয়ায় তারা পরস্পর নিকুত করে এবং মোট তড়িৎ প্রাবল্য [math]E=0[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 420769)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+পদার্থবিজ্ঞান ল্যাবরেটরিতে একজন ছাত্র [math]0.2m[/math] ও [math]0.3m[/math] ব্যাসার্ধের দুটি গোলককে চার্জিত করে, গোলক দুটির বিভব যথাক্রমে [math]5\ V[/math] ও [math]10\ V\ -[/math]এ উন্নীত করে পরস্পর হতে [math]1m[/math] দূরত্বে স্থাপন করল।
+
+Options:
+ঘ. গোলকদ্বয়ের সংযোগ সরলরেখার কোথায় প্রাবল্যের মান শূন্য হবে গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, ১ম গোলকের চার্জ, [math]\rm{q}_1[/math]
+উদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+১ম গোলকের বিভব, [math]\rm{V}_{1}=5 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+১ম গোলকের ব্যাসার্ধ, [math]\mathrm{r}_{1}=0.2 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ধ্রুবক, [math]\dfrac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad \mathrm{V}_{1}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{\mathrm{q}_{1}}{\mathrm{r}_{1}}\\ \Rightarrow 5 \mathrm{~V}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \dfrac{\mathrm{q}_{1}}{0.2 \mathrm{~m}}\\ \Rightarrow \mathrm{q}_{1}=\dfrac{5 \mathrm{~V} \times 0.2 \mathrm{~m}}{9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}}=1.11 \times 10^{-10} \mathrm{C}\end{array}[/math]
+অতএব, ১ম গোলকের চার্জ [math]1.11 \times 10^{-10} \mathrm{C}[/math]
+।এখানে,[math]\hspace{1 cm}[/math]
+২য় গোলকের বিভব, [math]\rm{V}_{2}=10 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় গোলকের ব্যাসার্ধ, [math]\rm{r}_{2}=0.3 \mathrm{~m}[/math]
+এখন দ্বিতীয় গোলকের চার্জ [math]\rm{q_2}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l}\quad \rm{V_{2}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q_{2}}{r_{2}}}\\ \Rightarrow 10 \mathrm{~V}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \dfrac{\mathrm{q}_{2}}{0.3 \mathrm{~m}}\\ \Rightarrow \mathrm{q}_{2}=\dfrac{10 \mathrm{~V} \times 0.3 \mathrm{~m}}{9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}}=3.33 \times 10^{-10} \mathrm{C}\end{array}[/math]
+এখন, মনে করি, ১ম গোলক থেকে [math]\rm{x}[/math]
+ মিটার দূরে অর্থাৎ দ্বিতীয় গোলক থেকে [math](1-\rm{x}) \mathrm{m}[/math]
+ দূরে [math]\rm{O}[/math]
+ বিন্দুতে প্রাবল্য শূন্য হবে।
+[Image]
+এখন, [math]\rm{q}_1[/math]
+ চার্জের জন্য [math]\rm{O}[/math]
+ বিন্দুতে প্রাবল্য[math]\hspace{1 cm}\rm{E_{1}=\dfrac{1}{4 \pi E_{0}} \cdot \dfrac{q_{1}}{x^{2}}}[/math]
+ দিক ১ম গোলক থেকে [math]\rm{O}[/math]
+ এর দিকেআবার, [math]\rm{q}_2[/math]
+ চার্জের জন্য [math]\rm{O}[/math]
+ বিন্দুতে প্রাবল্য[math]\hspace{1 cm}\mathrm{E}_{2}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \rm{\dfrac{q_{2}}{(1-x)^{2}}}[/math]
+ দিক দ্বিতীয় গোলক থেকে [math]\rm{O}[/math]
+ এর দিকেএখন [math]\rm{E_{1}=E_{2}}[/math]
+ হলে লব্ধি প্রাবল্য শূন্য হবে,[math]\hspace{1.5 cm}\begin{array}{l} \Rightarrow \rm{\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q_{1}}{x^{2}}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q_{2}}{(1-x)^{2}}}\\ \Rightarrow \rm{\dfrac{g_{1}}{x^{2}}=\dfrac{q_{2}}{(1-x)^{2}}}\\ \Rightarrow \rm{\dfrac{(1-x)^{2}}{x^{2}}=\dfrac{q_{2}}{q_{1}}}\\ \Rightarrow \rm{\left(\dfrac{1-x}{x}\right)^{2}=\dfrac{3.33 \times 10^{-10} \mathrm{C}}{1.11 \times 10^{-10} \mathrm{C}}=3}\\ \Rightarrow \rm{\dfrac{1-x}{x}=\sqrt{3}}\\ \Rightarrow \mathrm{x}=\dfrac{1}{1+\sqrt{3}} \\ \therefore \quad \mathrm{x}=0.37 \mathrm{~m}\end{array}[/math]
+অতএব, গোলকদ্বয়ের সংযোগ রেখায় ১ম গোলক থেকে [math]0.37 \rm{~m}[/math]
+ দূরে অর্থাৎ দ্বিতীয় গোলক থেকে [math](1-0.37) \mathrm{m}=0.63 \mathrm{~m}[/math]
+ দূরবর্তী বিন্দুতে তড়িৎ প্রাবল্য শূন্য হবে।
+
+Explanation:
+ঘ সমাধান: একটি পরিবাহী গোলকের বহির্ভূত ক্ষেত্রকে কেন্দ্রবিন্দুতে স্বল্পবিন্দু চার্জ হিসেবে গণ্য করলে [math]E=\dfrac{aV}{r^2}[/math] হয় (এখানে [math]a[/math] হল গোলকের ব্যাসার্ধ, [math]V[/math] তার বিভব)। মধ্যবর্তী বিন্দুতে ক্ষেত্র শূন্য হওয়ায়
+[math]\dfrac{a_1V_1}{x^2}=\dfrac{a_2V_2}{(1-x)^2}[/math],
+তাহলে [math]\dfrac{1-x}{x}=\sqrt{\dfrac{a_2V_2}{a_1V_1}}[/math] এবং
+[math]x=\dfrac{1}{1+\sqrt{a_2V_2/(a_1V_1)}}=\dfrac{1}{1+\sqrt{3}}\approx0.366\ \text{m}[/math] (ছোট গোলকের কেন্দ্র থেকে), অন্য গোলকের কেন্দ্র থেকে দূরত্ব ≈ [math]0.634\ \text{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 420768)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]1m[/math] বাহুবিশিষ্ট [math]ABCD[/math] বর্গক্ষেত্রের [math]A,\ B[/math] ও [math]C[/math] বিন্দুতে যথাক্রমে [math]2\ C,\ – 2\ C[/math], ও [math]2\ C[/math] চার্জ আছে।
+
+[Image]
+
+
+Options:
+ঘ. [math]D[/math] বিন্দুতে প্রাবল্য বের করে এর দিক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{AB = BC=CD = AD=1~m}[/math]
+ [math]\hspace{1 cm}\mathrm{BD}=\sqrt{2} \mathrm{~m}[/math]
+ [গ হতে]এখন, [math]\rm{A}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{D}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}_{\mathrm{A}} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{2 \mathrm{C}}{\mathrm{AD}^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{2 \mathrm{C}}{(1 \mathrm{~m})^{2}} \end{aligned}[/math]
+ [math]\hspace{1.5 cm}\quad ~ =1.8 \times 10^{10} \mathrm{NC}^{-1}[/math]
+ দিক [math]\rm{DE}[/math]
+ বরাবরআবার, [math]\rm{B}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{D}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\rm{E_{B}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{2 C}{B D^{2}}}=9 \times 10^{9} \mathrm{Nm}^{2} \rm{C}^{-2} \times \dfrac{2 \rm{C}}{(\sqrt{2} \mathrm{~m})^{2}}[/math]
+ [math]\hspace{1.5 cm}\quad ~ =1.8 \times 10^{10} \mathrm{NC}^{-1}[/math]
+ দিক [math]\rm{DB}[/math]
+ বরাবরআবার, [math]\rm{C}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{D}[/math]
+ বিন্দুতে প্রাবল্য[math]\hspace{1.5 cm}\rm{E_{C}}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{2 \mathrm{C}}{\mathrm{CD}^{2}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \dfrac{2 \mathrm{C}}{(1 \mathrm{~m})^{2}}[/math]
+ [math]\hspace{1.5 cm}\quad ~ =1.8 \times 10^{10} \mathrm{NC}^{-1}[/math]
+ দিক [math]\rm{DF}[/math]
+ বরাবরএখন, [math]\rm{E_A ~ও~ E_C}[/math]
+ এর মধ্যবর্তী কোণ [math]90^\circ[/math]
+ এবং লব্ধি [math]\rm{E^\prime}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}^{\prime} & =\sqrt{\mathrm{E}_{\mathrm{A}}^{2}+\mathrm{E}_{\mathrm{C}}^{2}+2 \mathrm{E}_{\mathrm{A}} \mathrm{E}_{\mathrm{C}} \cos 90^{\circ}} \\ & =\sqrt{\left(1.8 \times 10^{10} \mathrm{NC}^{-1}\right)^{2}+\left(1.8 \times 10^{10} \mathrm{NC}^{-1}\right)^{2}+2 \mathrm{E}_{\mathrm{A}} \cdot \mathrm{E}_{\mathrm{B}} \cdot 0} \end{aligned}[/math]
+ [math]\hspace{1 cm}\therefore \mathrm{E}^{\prime}=2.55 \times 10^{10} \mathrm{NC}^{-1}[/math]
+ দিক [math]\rm{BD}[/math]
+ বরাবরএখন, [math]\rm{D}[/math]
+ বিন্দুতে লব্ধি প্রাবল্য হবে,[math]\hspace{1.5 cm}\mathrm{E}=\mathrm{E}^{\prime}-\mathrm{E}_{\mathrm{B}}=2.55 \times 10^{10} \mathrm{NC}^{-1}-9 \times 10^{9} \mathrm{NC}^{-1}[/math]
+ [math]\hspace{1.5 cm}\quad =16.5 \times 10^{9} \mathrm{NC}^{-1}[/math]
+ দিক [math]\rm{BD}[/math]
+ বরাবর।
+
+Explanation:
+ব্যাখ্যা: কোঅর্ডিনেট ধরে নিই A(0,0), B(1,0), C(1,1), D(0,1) এবং [math]k=\dfrac{1}{4\pi\epsilon_0}[/math]। A ও C থেকে ধাক্কা করে দুইটি অনুভূমিক/উল্লম্ব শক্তি প্রতিদিন: A থেকে উপরে [math]2k[/math], C থেকে বামে [math]2k[/math] এবং B থেকে আকর্ষণে দূরত্ব [math]\sqrt2[/math] হওয়ায় величина [math]k[/math] এবং দিক [math](-1,1)[/math]। ফলে অংশিক কম্পোনেন্টগুলো: [math]F_x=-2k-\dfrac{k}{\sqrt2}=-k\big(2+\dfrac{1}{\sqrt2}\big)[/math], [math]F_y=2k+\dfrac{k}{\sqrt2}=k\big(2+\dfrac{1}{\sqrt2}\big)[/math], তাই সমষ্টিগত ভেক্টর [math]\vec F=k\big(2+\dfrac{1}{\sqrt2}\big)(-\,\hat\imath+\hat\jmath)[/math] যার মান [math]F=k(2\sqrt2+1)[/math] এবং দিক [math](-1,1)[/math] (উত্তর-পশ্চিম, 45°)।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 420767)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকে [math]Q_{1}=-4.5\ \mathrm{nC}[/math] এবং [math]Q_{2}=+9.1\ \mathrm{nC}[/math], চার্জদ্বয়ের মধ্যবর্তী দূরত্ব [math]40\ cm[/math]।
+
+[Image]
+
+
+Options:
+ঘ. চার্জদ্বয়ের সংযোগ রেখার কোন বিন্দুতে তড়িৎ প্রাবল্য শূন্য হবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমনে করি, চার্জদ্বয়ের সংযোগ রেখার বর্ধিতাংশের উপর [math]\rm{Q}_1[/math]
+ চার্জ থেকে [math]\rm{x m}[/math]
+ দূরের [math]\rm{P}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য শূন্য হবে।এখানে,[math]\hspace{1 cm}[/math]
+১ম চার্জ [math]\rm{Q_{1}=-4.5 \times 10^{-9} C}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় চার্জ [math]\rm{Q}_{2}=9.1 \times 10^{-9} \mathrm{C}[/math]
+ [math]\hspace{1 cm}\mathrm{Q}_{1} ~ও~ \mathrm{Q}_{2}[/math]
+ এর মধ্যবর্তী দূরত্ব, [math]\rm{r}=0.4 \mathrm{~m}[/math]
+এখন, [math]\rm{Q}_1[/math]
+ চার্জের জন্য [math]\rm{P}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য,[math]\hspace{1.5 cm}\rm{E_{2}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{Q_{2}}{(r+x)^{2}}}[/math]
+ দিক [math]\rm{P}[/math]
+ থেকে [math]\rm{Q}_1[/math]
+ এর দিকেআবার, [math]\mathrm{Q}_{2}[/math]
+ চার্জের জন্য [math]\rm{P}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য[math]\hspace{1.5 cm}\rm{E_{2}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{Q_{2}}{(r+x)^{2}}}[/math]
+ দিক [math]\rm{Q}_2[/math]
+ থেকে [math]\rm{P}[/math]
+ এর দিকেএখন, [math]\rm{E_1 ~ও~ E_2}[/math]
+ এর দিক পরস্পর বিপরীত দিকে হওয়ায় তড়িৎ প্রাবল্য শূন্য হবে যখন,[math]\hspace{1.5 cm}\begin{array}{l} \qquad \rm{E_{1}=E_{2}} \\ \Rightarrow \rm{ \dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{Q_{1}}{x^{2}}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{Q_{2}}{(r+x)^{2}}} \\ \Rightarrow \rm{ \dfrac{Q_{1}}{x^{2}}=\dfrac{Q_{2}}{(r+x)^{2}}} \\ \Rightarrow \rm{ \dfrac{Q_{1}}{Q_{2}}=\dfrac{x^{2}}{(r+x)^{2}}} \\ \Rightarrow \rm{ \dfrac{4.5 \times 10^{-9} C}{9.1 \times 10^{-9} C}=\dfrac{x^{2}}{(0.4+x)^{2}}} \\ \Rightarrow \rm{\dfrac{45}{91}=\dfrac{x^{2}}{(0.4+x)^{2}}} \\ \Rightarrow \sqrt{\dfrac{45}{91}}=\dfrac{x}{0.4+x} \\ \Rightarrow 0.70=\dfrac{x}{0.4+x} \\ \Rightarrow \rm{x=0.28+0.7 x \\ \Rightarrow x-0.7 x=0.28} \\ \Rightarrow \rm{0.3 x=0.28} \\ \Rightarrow \rm{ x}=0.93 \mathrm{~m} \end{array}[/math]
+অতএব, [math]\rm{Q_{1}}[/math]
+ চার্জ থেকে [math]0.93 \mathrm{~m} \Rightarrow 93 \mathrm{~cm}[/math]
+ এবং [math]\rm{Q}_2[/math]
+ থেকে [math](40+ 93) \rm{cm} \Rightarrow 133 \rm{cm}[/math]
+ দূরবর্তী সংযোগ রেখার কোনো বিন্দুতে তড়িৎ প্রাবল্য শূন্য হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: দুই চার্জের মাঝখানে তড়িৎ ক্ষেত্র শূন্য হবে না কারণ [math]Q_1[/math] থেকে দিক এবং [math]Q_2[/math] থেকে দিক দুটিই মাঝখানে একই দিকে হয়। শূন্য বিন্দুটি ছোটমান চার্জের বাইরে থাকে; ধরা হলে [math]Q_1[/math] এ থেকে বাম দিকে দুরত্ব [math]s[/math] এ, শর্ত হচ্ছে [math]\dfrac{|Q_1|}{s^2}=\dfrac{|Q_2|}{(d+s)^2}[/math] যেখানে [math]d=0.40\ \mathrm{m}[/math]; ফলে [math]s\approx0.946\ \mathrm{m}[/math] (অর্থাৎ [math]Q_1[/math] থেকে প্রায় [math]94.6\ \mathrm{cm}[/math] বামে)।
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 420766)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকে [math]Q_{1}=-4.5\ \mathrm{nC}[/math] এবং [math]Q_{2}=+9.1 \mathrm{nC}[/math], চার্জদ্বয়ের মধ্যবর্তী দূরত্ব [math]40\ cm[/math]
+
+[Image]
+
+
+Options:
+গ. চার্জদ্বয়ের মধ্যবিন্দুতে তড়িৎ প্রাবল্য কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+১ম চার্জ [math]\rm{Q}_{1}=-4.5 \mathrm{nC}=-4.5 \times 10^{-9} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় চার্জ [math]\rm{Q}_{2}=9.1 \mathrm{nC}=9 \times 10^{-9} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+চার্জদ্বয়ের মধ্যবর্তী দূরত্ব, [math]\mathrm{r}=40 \mathrm{~cm}=0.4 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+চার্জদ্বয় থেকে মধ্যবিন্দুর দূরত্ব, [math]\rm{r}_{1}=\dfrac{0.4}{2} \mathrm{~m}=0.2 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ধ্রুবক, [math]\dfrac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{~Nm}^{2} \mathrm{C}^{2}[/math]
+এখন, [math]\rm{Q}_1[/math]
+ চার্জের জন্য মধ্যবিন্দুতে তড়িৎ প্রাবল্য,[math]\hspace{1.6 cm}\begin{aligned} \rm{E}_{1} & =\rm{\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{Q_{1}}{r_{1}^{2}}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{\left(-4.5 \times 10^{-9} \mathrm{C}\right)}{(0.2 \mathrm{~m})^{2}} \\ & =-1012.5 \mathrm{NC}^{-1} \end{aligned}[/math]
+ [math]\hspace{1.5 cm}\qquad=1012.5 \mathrm{~NC}^{-1}[/math]
+ দিক মধ্যবিন্দু থেকে [math]\rm{Q}_1[/math]
+ এর দিকেআবার, [math]\rm{Q}_1[/math]
+ চার্জের জন্য মধ্যবিন্দুতে তড়িৎ প্রাবল্য,[math]\hspace{1.6 cm}\begin{aligned} \rm{E}_{2} & =\rm{\dfrac{1}{4 \pi \epsilon_{0}} \cdot \frac{Q_{2}}{r_{1}^{2}} }\\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{9.1 \times 10^{-9} \mathrm{C}}{(0.2 \mathrm{~m})^{2}} \end{aligned}[/math]
+ [math]\hspace{1.5 cm}\qquad=2047.5[/math]
+ দিক [math]\rm{Q}_2[/math]
+ থেকে [math]\rm{Q}_1[/math]
+ এর দিকে[math]\therefore[/math]
+ মধ্যবিন্দুতে লব্ধি তড়িৎ প্রাবল্য,[math]\hspace{1.5 cm}\rm{E=E_{1}+E_{2}}=(1012.5+2047.5) \mathrm{~NC}^{-1}=3060 \mathrm{~NC}^{-1}[/math]
+নির্ণেয় তড়িৎ প্রাবল্য [math]3060 \mathrm{~NC}^{-1}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ মধ্যবিন্দুতে [math]r=0.20\ \mathrm{m}[/math] হওয়ায়
+
+[math]E_1=k\frac{|Q_1|}{r^2}=(8.99\times10^9)\frac{4.5\times10^{-9}}{(0.20)^2}\approx1.01\times10^3\ \mathrm{N/C},[/math]
+
+[math]E_2=k\frac{Q_2}{r^2}=(8.99\times10^9)\frac{9.1\times10^{-9}}{(0.20)^2}\approx2.05\times10^3\ \mathrm{N/C}.[/math]
+
+[math]E_1[/math] বামে (নেঘেটিভের দিকে) এবং [math]E_2[/math] ডানে (পজিটিভের দিকে) কাজ করে, তাই নেট [math]E=E_2-E_1\approx1.03\times10^3\ \mathrm{N/C}[/math] ডানের দিকে (পজিটিভ চার্জের দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 420765)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দুটি বিন্দু চার্জ নির্দিষ্ট দূরত্বে শূন্য মাধ্যমে আছে।
+
+[Image]
+
+
+Options:
+ঘ. চার্জদ্বয়ের সংযোজক রেখার উপর কোনো বিন্দুতে বৈদ্যুতিক প্রাবল্য শূন্য হওয়া সম্ভব কিনা তা গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ বিন্দুর চার্জ, [math]\mathrm{q}_{1}=20 \times 10^{-6} \mathrm{C}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ বিন্দুর চার্জ [math]\rm{q}_{2}=-40 \times 10^{-6} \mathrm{C}[/math]
+ [math]\hspace{1 cm}\text{A ও B}[/math]
+ বিন্দুর মধ্যবর্তী দূরত্ব [math]\mathrm{r}=1 \mathrm{~m}[/math]
+এখন, ধরি, চার্জদ্বয়ের সংযোগ রেখার বর্ধিতাংশের উপর [math]\rm{A}[/math]
+ বিন্দু থেকে [math]\rm{x m}[/math]
+ দূরের কোনো বিন্দু [math]\rm{P}[/math]
+ তে তড়িৎ প্রাবল্যের মান শূন্য হবে। [math]\rm{A}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{P}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\rm{E_{1}=\dfrac{1}{4 \pi E_{0}} \cdot \dfrac{q_{1}}{x^{2}}}[/math]
+আবার, [math]\rm{B}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{P}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\rm{E_{2}=\dfrac{1}{4 \pi E_{0}} \dfrac{q_{2}}{(r+x)^{2}}}[/math]
+এখন, আধান বিপরীতমুখী হওয়ায় এদের মান সমান হলে [math]\rm{P}[/math]
+ বিন্দুতে প্রাবল্য শূন্য হবে।[math]\hspace{1.5 cm}\begin{array}{l} \therefore \quad \rm{E_{1}=E_{2}} \\ \Rightarrow \rm{ \dfrac{1}{4 \pi E_{0}} \cdot \dfrac{q_{1}}{x^{2}}=\dfrac{1}{4 \pi E_{0}} \cdot \dfrac{q_{2}}{(r+x)^{2}}} \\ \Rightarrow \rm{\dfrac{q_{1}}{x^{2}}=\dfrac{q_{2}}{(r+x)^{2}}} \\ \Rightarrow \rm{\dfrac{q_{1}}{q_{2}}=\dfrac{x^{2}}{(r+x)^{2}}} \\ \Rightarrow \rm{ \dfrac{20 \times 10^{-6}}{40 \times 10^{-6}}=\dfrac{x^{2}}{(1+x)^{2}}} \\ \Rightarrow \rm{\dfrac{1}{2}=\dfrac{x^{2}}{1+x^{2}}} \\ \Rightarrow \rm{\dfrac{1}{\sqrt{2}}=\dfrac{x}{1+x}} \\ \Rightarrow \rm{\sqrt{2} x=1+x} \\ \Rightarrow \rm{\sqrt{2} x-x=1} \\ \Rightarrow \rm{x(\sqrt{2}-1)=1} \\ \Rightarrow \rm{x=\dfrac{1}{\sqrt{2}-1}} \\ \Rightarrow \rm{x}=2.41 \mathrm{~m}\end{array}[/math]
+অতএব, চার্জদ্বয়ের সংযোগ রেখার বর্ধিতাংশের উপর [math]\rm{A}[/math]
+ বিন্দু থেকে [math]241 \rm{~m}[/math]
+ দূরে অর্থাৎ [math]\rm{B}[/math]
+ বিন্দু থেকে [math](1+2.41) \mathrm{m} \Rightarrow 3.41 \mathrm{~m}[/math]
+ দূরে কোনো বিন্দুতে বৈদ্যুতিক প্রাবল্য শূন্য হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ দুই পয়েন্ট চার্জের মধ্যে মোট বৈদ্যুতিক ক্ষেত্রে শূন্য হতে পারে যদি তাদের ক্ষেত্রগুলো বিপরীণ দিক নির্দেশ করে, অর্থাৎ চার্জদ্বয় একই চিহ্নের হতে হবে। গণিতভাবে ধরুন বিন্দুটি দুই চার্জ থেকে যথাক্রমে দূরত্ব [math]r_1[/math] ও [math]r_2[/math] এ আছে এবং [math]r_1+r_2=d[/math], তখন শূন্য হওয়ার শর্ত হল [math]\frac{kQ_1}{r_1^2}=\frac{kQ_2}{r_2^2}[/math] যা দিয়ে পাওয়া যায় [math]\frac{r_1}{r_2}=\sqrt{\frac{Q_1}{Q_2}}[/math]। বিপরীত চিহ্নের চার্জের ক্ষেত্রে মধ্যবর্তী বিন্দুতে ক্ষেত্রগুলো একই দিকের হওয়ায় শূন্য সম্ভব নয় এবং শূন্য বিন্দুটি রেখার বাহিরে, ছোট মাত্রার চার্জের পাশে থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 420764)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+কেন্দ্র [math]0[/math] এবং [math]2\ cm[/math] বাহুবিশিষ্ট একটি বর্গক্ষেত্র [math]ABCD[/math]। বর্গক্ষেত্রটির প্রত্যেক বিন্দু [math]A,\ B,\ C[/math] ও [math]D[/math] তে [math]+7C[/math] চার্জ আছে।
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের [math]O[/math] বিন্দুতে প্রাবল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]\rm{A B=B C=C D=A D}=2 \mathrm{~cm}[/math]
+ [math]\therefore[/math]
+ প্রতিটি কৌণিক বিন্দু থেকে [math]\rm{O}[/math]
+ বিন্দুর দূরত্ব[math]\hspace{1.5 cm}\begin{aligned} \rm{r}&=\frac{1}{2} \sqrt{\mathrm{AB}^{2}+\mathrm{BC}^{2}}\\ & =\frac{1}{2} \sqrt{2^{2}+2^{2}} \mathrm{~cm}=\sqrt{2} \mathrm{~cm} \end{aligned}[/math]
+এখান, [math]\text{A, B, C ও D}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{O}[/math]
+ বিন্দুর প্রাবল্য যথাক্রমে [math]\rm{E_1, ~E_2, ~E_3 ~ও~ E_4}[/math]
+ হলে,[math]\rm{O}[/math]
+ বিন্দুর প্রাবল্য হলে,[math]\rm{E=E_{1}+E_{2}-E_{3}-E_{4}}[/math]
+ [math][ \because \rm{E_1~ ও~ E_2}[/math]
+ এবং [math]\rm{E_2 ~ও~ E_4}[/math]
+ এর দিক পরস্পর বিপরীত [math]][/math]
+ [math]\hspace{1.5 cm}\begin{aligned} \Rightarrow \rm{E} & =\rm{\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{A}}{r^{2}}+\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{B}}{r^{2}}-\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{C}}{r^{2}}-\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{p}}{r^{2}} }\\ & =\rm{\frac{1}{4 \pi \epsilon_{0}}\left(\frac{g_{A}}{r^{2}}+\frac{q_{B}}{r^{2}}-\frac{a_{C}}{r^{2}}-\frac{q_{p}}{r^{2}}\right)} \\ & =\rm{\frac{1}{4 \pi \epsilon_{0}}\left(\frac{7}{\left(\sqrt{2} \times 10^{-2}\right)^{2}}+\frac{7}{\left(\sqrt{2} \times 10^{-2}\right)^{2}}-\frac{7}{\left(\sqrt{2} \times 10^{-2}\right)^{2}}-\frac{7}{\left(\sqrt{2} \times 10^{-2}\right)^{2}}\right)} \\ & =\frac{1}{4 \pi \epsilon_{0}} \times 0=0 \end{aligned}[/math]
+অতএব, [math]\rm{O}[/math]
+ বিন্দুতে প্রাবল্যের মান শূন্য।
+
+Explanation:
+গ কেন্দ্র [math]O[/math]-তে মোট বৈদ্যুতিক ক্ষেত্র (প্রাবল্য) শূন্য, কারণ চতুর্ভুজের চার কোণে সমান ধনাত্মক চার্জগুলোর প্রতিটি ক্ষেত্রের মান সমান এবং বিপরীত কোনার জোড়া পরস্পরকে বিপরীত দিক থেকে নিরপেক্ষ করে; ফলে নেট ফলাফল শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 420763)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018, 2018, 2018 | Boards: Dinajpur Board, Dhaka Board, Sylhet Board | Tags: Dinajpur Board, Dhaka Board, Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]ABCD[/math] আয়তাকার ক্ষেত্রের [math]B[/math] ও [math]D[/math] বিন্দুতে যথাক্রমে [math]+5 \times 10^{-3} \mathrm{C}[/math] এবং [math]-2.25 \times 10^{-3} \mathrm{C}[/math] চার্জ স্থাপন করা হলো। (বায়ু মাধ্যম)
+
+[Image]
+
+
+Options:
+গ. [math]A[/math] বিন্দুতে প্রাবল্য কত?
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+[math]\mathrm{D}[/math]
+ বিন্দুর চার্জের দরুন [math]\mathrm{A}[/math]
+ বিন্দুতে প্রাবল্য।[math]\hspace{1.5 cm}\mathrm{E}_{\mathrm{D}}=\dfrac{1}{4 \pi \in_{0}} \cdot \dfrac{2.25 \times 10^{-3}}{0.8^{2}} \mathrm{NC}^{-1}=9 \times 10^{9} \times \dfrac{2.25 \times 10^{-3}}{0.8^{2}} \mathrm{NC}^{-1}[/math]
+ [math]\hspace{1.5 cm}\therefore \quad \rm{E_{D}}=31640625 \mathrm{~NC}^{-1}[/math]
+ এর দিক [math]\mathrm{A}[/math]
+ থেকে [math]\mathrm{D}[/math]
+-এর দিকে[math]\mathrm{B}[/math]
+ বিন্দুর চার্জের দরুন [math]\mathrm{A}[/math]
+ বিন্দুতে প্রাবল্য[math]\hspace{1.5 cm}\rm{E_{B}=\dfrac{1}{4 \pi E_{0}}}\cdot \dfrac{5 \times 10^{-3}}{1^{2}} \mathrm{NC}^{-1}=9 \times 10^{9} \times 5 \times 10^{-3} \mathrm{NC}^{-1}[/math]
+ [math]\hspace{1.5 cm}\therefore \quad \rm{E_{B}}=45000000 \mathrm{~NC}^{-1} .[/math]
+ এর দিক [math]\rm{B}[/math]
+ থেকে [math]\rm{A}[/math]
+-এর দিকে[math]\therefore \rm{~A}[/math]
+ বিন্দুতে নিট প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned}\mathrm{E} & =\sqrt{\mathrm{E}_{\mathrm{D}}{ }^{2}+\mathrm{E}_{\mathrm{B}}{ }^{2}} \\ & =\sqrt{31640625^{2}+45000000^{2}} \mathrm{NC}^{-1} \\ \therefore \mathrm{E} & =55010264.05 \mathrm{NC}^{-1} \end{aligned}[/math]
+লব্ধি প্রাবল্য [math]\rm{AD}[/math]
+ এর সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করলে,[math]\hspace{1.5 cm}\begin{aligned} \tan \theta & =\rm{\dfrac{E_{B}}{E_{D}}} \\ & =\dfrac{45000000}{31640625}=\dfrac{64}{45} \\ \therefore \quad \theta & =\tan ^{-1}\left(\frac{64}{45}\right)=54.89^{\circ} \end{aligned}[/math]
+অতএব, [math]\rm{A}[/math]
+ বিন্দুতে প্রাবল্য [math]55010264.05 \mathrm{~NC}^{-1}[/math]
+ এবং [math]\rm{AD}[/math]
+ এর সাথে বাইরের দিকে [math]54.89^\circ[/math]
+ কোণ উৎপন্ন করে।
+
+Explanation:
+ব্যাখ্যা: গ বিন্দুতে মোট প্রাবল্য পাওয়ার জন্য প্রথমে B ও D দ্বারা আলাদা আলাদা ইলেকট্রিক ক্ষেত্র বের করতে হবে: [math]E_B=k\frac{5\times10^{-3}}{AB^2}[/math] (ইতিবাচক চার্জ থেকে দূরত্বের দিকে) এবং [math]E_D=k\frac{2.25\times10^{-3}}{AD^2}[/math] (ঋণাত্মক চার্জের দিকে টানতে) যেখানে [math]k=9\times10^9\ \mathrm{N·m^2/C^2}[/math]. কারণ AB এবং AD পারস্পরিক লম্ব, মোট ক্ষেত্রের পরিমাণ হল তাদের যোগের ভেক্টর যোগ: [math]E=\sqrt{E_B^2+E_D^2}[/math] এবং দিক পাওয়া যাবে [math]\tan\theta=E_D/E_B[/math]; এখন AB ও AD এর মান বসিয়ে সংখ্যাত্মক উত্তর পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 420762)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+সমান ব্যাসার্ধের দুটি গোলক [math]A[/math] ও [math]B[/math] শূন্যস্থানে পরস্পর থেকে [math]15\ cm[/math] দূরে অবস্থিত। [math]A[/math] গোলকে চার্জ [math]+3 \times 10^{-12} \mathrm{C}[/math] এবং [math]B[/math] গোলকে চার্জ [math]+12 \times 10^{-12} \mathrm{C}[/math] আছে।
+
+[Image]
+
+
+Options:
+ঘ. [math]P[/math] বিন্দুতে তড়িৎ প্রাবল্য শূন্য হতে পারে কি? গাণিতিক বিশ্লেষণ করে যুক্তি উপস্থাপন কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ গোলকের চার্জ, [math]\rm{q_{A}}=3 \times 10^{-12} \mathrm{C}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ গোলকের চার্জ, [math]\rm{q_{B}}=12 \times 10^{-12} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+মধ্যবর্তী দূরত্ব, [math]\rm{r_{1}=A P}=5 \mathrm{~cm}=0.05 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+এবং [math]\mathrm{r}_{2}=\mathrm{BP}=10 \mathrm{~cm}=0.1 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ [math]\rm{P}[/math]
+ বিন্দুর প্রাবল্য, [math]\mathrm{E}=\text { ? }[/math]
+ [math]\rm{A}[/math]
+ বিন্দুর চার্জের দরুন [math]\rm{P}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\rm{E_{A}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q_{A}}{r_{1}^{2}}}=9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{C}^{-2} \times \dfrac{3 \times 10^{-12} \mathrm{C}}{(0.05 \mathrm{~m})^{2}}=10.8 \mathrm{NC}^{-1}[/math]
+B বিন্দুর চার্জের দরুন P বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned} \rm{E_{B}} & =\rm{\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{q_{B}}{r_{2}^{2}} }\\ & =9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{C}^{-2} \times \frac{12 \times 10^{-12} \mathrm{C}}{(0.1 \mathrm{~m})^{2}}=10.8 \mathrm{NC}^{-1} \end{aligned}[/math]
+লব্ধি প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned}\rm{E} & =\sqrt{\mathrm{E}_{\mathrm{A}}^{2}+\mathrm{E}_{\mathrm{B}}^{2}+2 \mathrm{E}_{\mathrm{A}} \mathrm{E}_{\mathrm{B}} \cos 180^{\circ}} \\ & =\sqrt{\mathrm{E}_{\mathrm{A}}^{2}+\mathrm{E}_{\mathrm{A}}^{2}-2 \mathrm{E}_{\mathrm{A}} \cdot \mathrm{E}_{\mathrm{A}}}\left[\because \mathrm{E}_{\mathrm{A}}=\mathrm{E}_{\mathrm{B}}\right] \\ & =\sqrt{2 \mathrm{E}_{\mathrm{A}}^{2}-2 \mathrm{E}_{\mathrm{A}}^{2}}=0 \end{aligned}[/math]
+অর্থাৎ, [math]\rm{P}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য শূন্য হতে পারে।
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ, মাঝখানে এমন একটি বিন্দু থাকতে পারে যেখানে তড়িৎ প্রাবল্য শূন্য। কারণ দুই ধনাত্মক চার্জের ক্ষেত্রে মধ্যবর্তী বিন্দুতে দু’টি ক্ষেত্র বিপরীত দিকের, এবং সমান হওয়ার শর্ত হলো [math]\frac{q_A}{x^2}=\frac{q_B}{(15-x)^2}[/math] যেখানে [math]q_A=3\times10^{-12}\,C[/math], [math]q_B=12\times10^{-12}\,C[/math]; তাই [math]\frac{15-x}{x}=\sqrt{\frac{q_B}{q_A}}=2[/math] থেকে [math]x=5\ cm[/math] (A থেকে) বা B থেকে 10 cm এ। অনুরোধ: এটি বাস্তবে বৈধ হবে কেবল তখনই যখন ঐ বিন্দু দুই গোলকের ভিতরে না (অর্থাৎ গোলকের ব্যাসার্ধ < 5 cm)।
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 420761)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] বিন্দুতে চার্জের পরিমাণ [math]q_{1}=-4 \times 10^{-6} \mathrm{C}[/math] এবং [math]B[/math] বিন্দুতে [math]q_{2}=-4 \times 10^{-6} \mathrm{C}[/math]। এখানে, [math]O P=O A=O B=10 \mathrm{~cm}, O P \perp A B[/math]
+
+[Image]
+
+
+Options:
+ঘ. বর্ণিত চার্জদ্বয়ের জন্য [math]O[/math] ও [math]P[/math] বিন্দুর তড়িৎ প্রাবল্য একই হবে কি না? যাচাই করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\mathrm{OA}=\mathrm{OP}=\mathrm{OB}=10 \mathrm{~cm}[/math]
+ এবং [math]\mathrm{OP} \perp \mathrm{AB}[/math]
+ [math]\begin{aligned} \therefore \mathrm{AP}=\mathrm{BP} & =\sqrt{\mathrm{OA}^{2}+\mathrm{OP}^{2}} \\ & =\sqrt{10^{2}+10^{2}} \mathrm{~cm}=\sqrt{200} \mathrm{~cm}=0.14 \mathrm{~m} \end{aligned}[/math]
+ [math]\rm{q_{1} ~ও~ q_{2}}[/math]
+ চার্জদ্বয় সমধর্মী হওয়ায় [math]\rm{O}[/math]
+ বিন্দুতে তাদের প্রাবল্যদ্বয় পরস্পর বিপরীতমূখী।[math]\therefore \rm{~O}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned} \rm{E}_{0} & =\dfrac{1}{4 \pi \epsilon_{0}}\left(\frac{4 \times 10^{-6}}{0.1^{2}}-\frac{4 \times 10^{6}}{0.1^{2}}\right) \\ & =9 \times 10^{9} \times\left(\frac{4 \times 10^{-6}}{0.1^{2}}-\frac{4 \times 10^{6}}{0.1^{2}}\right)=0 \end{aligned}[/math]
+
+[Image]
+[math]\hspace{1.2 cm}\begin{aligned} \therefore & \mathrm{E}_{0}=0 \\ & \mathrm{OP} \perp \mathrm{AB}, \\ & \mathrm{AO}=\mathrm{OP}=\mathrm{OB} \\ \therefore & \angle \mathrm{APO}=\angle \mathrm{BPO}=45^{\circ} \\ \therefore & \angle \mathrm{APB}=90^{\circ} \end{aligned}[/math]
+ [math]\rm{q_1}[/math]
+ চার্জের দরুন [math]\rm{P}[/math]
+ বিন্দুতে প্রাবল্য [math]\text {PA}[/math]
+ বরাবর এবং [math]\text {q}_2[/math]
+ চার্জের দরুন [math]\text {P}[/math]
+ বিন্দুতে প্রাবল্য [math]\text {PB}[/math]
+ বরাবর [math]-[/math]
+ [math]\hspace{1.2 cm}\begin{aligned} \therefore \mathrm{E}_{1} & =\frac{1}{4 \pi \mathrm{E}_{0}} \times \frac{\rm{q}_{1}}{\mathrm{PA}^{2}} \\ & =9 \times 10^{9} \times \frac{4 \times 10^{-6}}{0.14^{2}} \mathrm{NC}^{-1} \end{aligned}[/math]
+ [math]\hspace{1.2 cm}\qquad ~ =1.84 \times 10^{6} \mathrm{NC}^{-1}[/math]
+ এর দিক [math]\rm{PA}[/math]
+ বরাবর[math]\hspace{1.5 cm}\begin{aligned} \rm{E}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{\rm{q}_{2}}{\mathrm{OB}^{2}} \\ & =9 \times 10^{9} \times \frac{4 \times 10^{-6}}{0.14^{2}} \mathrm{NC}^{-1} \end{aligned}[/math]
+ [math]\hspace{1.2 cm}~\qquad=1.84 \times 10^{6} \mathrm{NC}^{-1}[/math]
+ এর দিক [math]\rm{PB}[/math]
+ বরাবর[math]\therefore ~\rm{P}[/math]
+ বিন্দুতে নিট প্রাবল্য,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}_{\mathrm{P}} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \cdot \mathrm{E}_{1} \cdot \mathrm{E}_{2} \cos (\angle \mathrm{APB})} \\ & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \cdot \mathrm{E}_{1} \cdot \mathrm{E}_{2} \cos 90^{\circ}} \\ & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}} \\ & =\sqrt{\left(1.84 \times 10^{6}\right)^{2}+\left(1.84 \times 10^{6}\right)^{2}} \mathrm{NC}^{-1} \end{aligned}[/math]
+ [math]\quad\therefore \mathrm{E}_{\mathrm{P}}=2.6 \times 10^{6} \mathrm{NC}^{-1}[/math]
+ এর দিক [math]\rm{PO}[/math]
+ বরাবরউপরোক্ত গাণিতিক বিশ্লেষণে দেখা যাচ্ছে, [math]\mathrm{E}_{0} 
+eq \mathrm{E}_{\mathrm{P}}[/math]
+অতএব, বর্ণিত চার্জদ্বয়ের জন্য [math]\rm{O ~ও~ P}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য একই হবে না।
+
+Explanation:
+ব্যাখ্যা: ঘ না — সমান নয়। কারণ O-তে প্রতিটি চার্জ থেকে দূরত্ব [math]r=10\ \text{cm}[/math] হলে একটার ক্ষেত্রফল [math]E=k|q|/r^{2}[/math] এবং O-এ মোট ক্ষেত্র [math]E_{O}=2k|q|/r^{2}\cos\theta[/math] (এখানে [math]\theta[/math] হচ্ছে [math]OA[/math] ও [math]OP[/math]–এর মধ্যকার কোণ)। P-তে প্রতিটি চার্জ থেকে দূরত্ব হবে [math]PA=2r\sin(\theta/2)[/math] হওয়ায় মোট ক্ষেত্রের মান হবে [math]E_{P}=k|q|/(2r^{2}\sin(\theta/2))[/math] এবং সাধারণভাবে [math]E_{O}\neq E_{P}[/math] (কেবল বিশেষ কোন জ্যামিতিক অবস্থায়ই সমান হতে পারে)।
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 420760)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে, A ও C বিন্দুতে বায়ু মাধ্যমে যথাক্রমে [math]-2 \times 10^{-9} \mathrm{C}[/math] এবং [math]+1.5 \times 10^{-9} \mathrm{C}[/math] চার্জ স্থাপন করা হলো:
+
+
+[Image]
+
+
+Options:
+গ. B বিন্দুতে প্রাবল্যের মান কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,A বিন্দুর চার্জ, [math]\mathrm{q}_{1}=-2 \times 10^{-9} \mathrm{C}[/math]
+C বিন্দুর চার্জ, [math]\mathrm{q}_{2}=1.5 \times 10^{-9} \mathrm{C}[/math]
+দূরত্ব, [math]\mathrm{AB}=\mathrm{r}_{1}=2 \mathrm{~m}[/math]
+দূরত্ব, [math]\mathrm{BC}=\mathrm{r}_{2}=1.5 \mathrm{~m}[/math]
+ [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+
+[Image]
+A বিন্দুর [math]\mathrm{q}_{1}[/math]
+ চার্জের জন্য B বিন্দুতে তড়িৎ প্রাবল্য,[math]E_{1}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{1}}{r_{1}^{2}}[/math]
+ [math]=9 \times 10^{9} \times \frac{2 \times 10^{-9}}{(2)^{2}}=4.5 \mathrm{NC}^{-1}[/math]
+ (B থেকে A এর দিকে)C বিন্দুর [math]\mathrm{q}_{2}[/math]
+ চার্জের জন্য B বিন্দুতে তড়িৎ প্রাবল্য, [math]\mathrm{E}_{2}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{2}}{\mathrm{r}_{2}^{2}}[/math]
+ [math]=9 \times 10^{9} \times \frac{1.5 \times 10^{-9}}{(1.5)^{2}}=6 \mathrm{NC}^{-1}[/math]
+ (B থেকে F এর দিকে)[math]\mathrm{E}_{1}[/math]
+ ও [math]\mathrm{E}_{2}[/math]
+ এর মধ্যবর্তী কোণ, [math]\theta=\angle A B F=90^{\circ}[/math]
+ [math]\mathrm{E}_{1}[/math]
+ ও [math]E_{2}[/math]
+ এর লব্ধি তড়িৎ প্রাবল্য,[math]\begin{aligned}\mathrm{E} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2} \cos 90^{\circ}} \\& =\sqrt{(4.5)^{2}+(6)^{2}} \\& =7.5 \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ B বিন্দুতে প্রাবল্যের মান [math]\text { 7.5 } \mathrm{NC}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বিন্দুতে মোট প্রাবল্য হচ্ছে A ও C থেকে পৃথকভাবে সৃষ্ট প্রাবল্যের যোগ (superposition)। প্রতিটি থেকে প্রাবল্য কূলম্বিত হয় কুলম্বর সূত্র অনুযায়ী, তাই
+[math]E_B = k\frac{2\times10^{-9}}{r_{AB}^2}+k\frac{1.5\times10^{-9}}{r_{CB}^2},[/math]
+এবং যদি AB=BC=r হয় তবে [math]E_B = k\frac{3.5\times10^{-9}}{r^2}[/math] এবং নির্দেশনা হবে ঋণাত্মক চার্জের দিকে (A-এর দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 420759)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের চিত্রে A ও B উভয় বিন্দুতেই 150 C চার্জ দেওয়া আছে।
+
+Options:
+ঘ. 'C' বিন্দুর তড়িৎ প্রাবল্যের দিক কোন দিকে হবে? গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘC বিন্দুতে লব্ধি প্রাবল্য [math]\overrightarrow{\mathrm{E}_{1}}[/math]
+ এর দিকের সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করলে,
+[Image]
+[math]\tan \theta=\frac{\left|\overrightarrow{\mathrm{E}_{2}}\right| \sin 60^{\circ}}{\left|\overrightarrow{\mathrm{E}}_{1}\right|+\left|\overrightarrow{\mathrm{E}_{2}}\right| \cos 60^{\circ}}[/math]
+ [math]=\frac{\left(3.3759 \times 10^{13} \mathrm{~N}\right) \sin 60^{\circ}}{\left(3.3759 \times 10^{13} \mathrm{~N}\right)+\left(3.3759 \times 10^{13} \mathrm{~N}\right) \cos 60^{\circ}}[/math]
+ [math]=\frac{\frac{\sqrt{3}}{2}}{1+\frac{1}{2}}=0.5773[/math]
+ [math]\begin{array}{r}\therefore \theta=\tan ^{-1}(0.5773)=30^{\circ} \\60^{\circ}-30^{\circ}=30^{\circ}\end{array}[/math]
+সুতরাং লব্ধি প্রাবল্য, [math]\overrightarrow{\mathrm{E}_{1}}[/math]
+ ও [math]\overrightarrow{\mathrm{E}_{2}}[/math]
+ উভয়ের সাথে সমান কোণ উৎপন্ন করে । তাই C বিন্দুতে তড়িৎ প্রাবল্যের দিক হবে C হতে AB এর ওপর লম্ব ও C হতে ওপরের দিকে।
+
+Explanation:
+ব্যাখ্যা: A ও B সমান ধনাত্মক চার্জ এবং C বিন্দু উভয় থেকে সমদূরে হলে প্রতিটি চার্জ C-তে তৈরি ইলেকট্রিক ক্ষেত্রের মান হবে [math]E=\dfrac{kq}{r^2}[/math] এবং দিক একটির বিপরীতে অপরটি (চার্জগুলো থেকে দূরত্বে সরে যাওয়ার দিক)। তাই দুইটির যোগফল শূন্য হবে এবং নেট ইলেকট্রিক ফিল্ড নেই — কোন নির্দিষ্ট দিক নেই।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 420758)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের চিত্রে A ও B উভয় বিন্দুতেই 150 C চার্জ দেওয়া আছে।
+
+Options:
+গ. 'C' বিন্দুর তড়িৎ প্রাবল্যের মান কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,A ও B বিন্দুতে চার্জ [math]\mathrm{q}_{1}=[/math]
+ [math]\mathrm{q}_{2}=150 \mathrm{C}[/math]
+দূরত্ব, r = 20 cm= 0.2 mA বিন্দুর চার্জের জন্য C বিন্দুতে প্রাবল্যের মান, [math]E_{1}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{1}}{r^{2}}[/math]
+ [math]\begin{array}{l}=9 \times 10^{9} \times \frac{150}{(0.2)^{2}} \\=3.375 \times 10^{13} \mathrm{NC}^{-1}\end{array}[/math]
+B বিন্দুতেও 150 C চার্জ থাকায় এ চার্জের দরুন C বিন্দুতে প্রাবল্যের মান, [math]\mathrm{E}_{2}=\mathrm{E}_{1}=3.375 \times 10^{13} \mathrm{NC}^{-1}[/math]
+তড়িৎ প্রাবল্য, [math]\overrightarrow{\mathrm{E}_{1}}[/math]
+ ক্রিয়া করে AC বরাবর এবং [math]\overrightarrow{\mathrm{E}}_{2}[/math]
+ ক্রিয়া করে BC বরাবর।[math]\overrightarrow{\mathrm{E}}_{1}[/math]
+ ও [math]\overrightarrow{\mathrm{E}}_{2}[/math]
+ এর মধ্যকার কোণ 60° হওয়ায় [ [math]\because \mathrm{ABC}[/math]
+ একটি সমবাহু ত্রিভুজ ] C বিন্দুতে লব্ধি প্রাবল্যের মান,[math]\begin{aligned}\mathrm{E} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2} \cos 60^{\circ}} \\& =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{1}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{1} \times \frac{1}{2}}\left[\because\mathrm{E}_{1}=\mathrm{E}_{2}\right]\end{aligned}[/math]
+ [math]\begin{array}{l}=\sqrt{E_{1}^{2}\left(1+1+2 \times \frac{1}{2}\right)} \\=3.375 \times 10^{13} \sqrt{1+1+2 \times \frac{1}{2}} \\=5.85 \times 10^{13} \mathrm{NC}^{-1} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ C বিন্দুতে A ও B থেকে উৎপন্ন তড়িৎ প্রাবল্য দুটোই সমান মানের কিন্তু বিপরীত দিশার, কারণ উভয় চার্জ একই এবং C থেকে সমদূর। তাই মোট তড়িৎ প্রাবল্য শূন্য (যেখানে [math]E_A=E_B=kQ/r^2[/math] এবং তারা পরস্পর বাতিল করে)।
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 420757)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+বায়ু মাধ্যমে কোনো ধারকের সমান্তরাল পাত দুটির প্রতিটির ক্ষেত্রফল [math]1 \times 10^{-4} \mathrm{~m}^{2}[/math] এবং তারা পরস্পর হতে [math]2 \times 10^{-3} \mathrm{~m}[/math] দূরে অবস্থিত। ধারকটিকে [math]2 \mu \mathrm{C}[/math] আধানে চার্জিত করলে পাতদ্বয়ের মধ্যে 4 mV বিভব পার্থক্যের সৃষ্টি হয়। পরবর্তীতে পাত দুটিকে সমদ্বিখণ্ডিত করে একই ব্যবধানে রেখে দুটি ধারক তৈরি করে শ্রেণি সমবায়ে সাজানো হলো।
+
+Options:
+গ. আদি অবস্থায় ধারকের পাতদ্বয়ের মধ্যবিন্দুতে তড়িৎ প্রবল্য নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+আমরা জানি, ধারকের পাতদ্বয় দুটি চার্জিত সমান্তরাল পরিবাহী হয়।ধরি,পাতদ্বয় M ও N যেখানে M ধনাত্মক চার্জ ও N ঋণাত্মক চার্জে চার্জিত। উভয় পাতই তল ঘনত্বে চার্জিত এবং চার্জের তল ঘনত্ব [math]\sigma[/math]
+। MN পাতের মধ্যবিন্দু P হলে, M পাতের জন্য P বিন্দুতে তড়িৎ প্রাবল্য, [math]\mathrm{E}_{1}=\frac{\sigma}{2 \epsilon_{0}}[/math]
+ এবং দিক হবে MN বরাবর।আবার, N পাতের জন্য P বিন্দুতে তড়িৎ প্রাবল্য, [math]E_{2}=\frac{\sigma}{2 \epsilon_{0}}[/math]
+ এবং N পাত ঋণাত্মক চার্জে চার্জিত হওয়ায় [math]\mathrm{E}_{2}[/math]
+ এর দিক MN বরাবর হবে।[math]\therefore[/math]
+ P বিন্দুতে মোট তড়িৎ প্রাবল্য, [math]E=E_{1}+E_{2}=\frac{\sigma}{2 \epsilon_{0}}+\frac{\sigma}{2 \epsilon_{0}}=\frac{\sigma}{\epsilon_{0}}[/math]
+এখানে,চার্জ,[math]\begin{aligned}Q & =2 \mu \mathrm{C} \\& =2 \times 10^{-6} \mathrm{C}\end{aligned}[/math]
+ক্ষেত্রফল [math]A=1 \times 10^{-4} \mathrm{~m}^{2}[/math]
+ [math]\epsilon_{0}=8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2}[/math]
+এখন, ধারকের প্রতিটি পাতের চার্জের তলঘনত্ব,[math]\begin{aligned}\sigma & =\frac{Q}{A} \\& =\frac{2 \times 10^{-6}}{1 \times 10^{-4}}=0.02 \mathrm{~cm}^{-2}\end{aligned}[/math]
+ [math]\therefore[/math]
+ পাতদ্বয়ের মধ্যবিন্দুতেতড়িৎ প্রাবল্য,[math]\begin{aligned}\mathrm{E} & =\frac{\sigma}{\epsilon_{0}}=\frac{0.02}{8.854 \times 10^{-12}} \\& =2.259 \times 10^{9} \mathrm{NC}^{-1} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+গ আদি অবস্থায় পাতদ্বয়ের মধ্যবিন্দুতে তড়িৎ ক্ষেত্র সমান ও অভিন্ন, মান দেওয়া বিভবপার্থক্যের ভিত্তিতে [math]E=\dfrac{V}{d}=\dfrac{4\times10^{-3}}{2\times10^{-3}}=2\ \mathrm{V/m}[/math]; দিশা ধনাত্মক প্লেট থেকে ঋণাত্মক প্লেটের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 420756)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে একটি বৃত্তাকার পথের A এবং B বিন্দুতে দুটি চার্জ স্থাপন করা হয়েছে।
+
+P বৃত্তের কেন্দ্র, বৃত্তের ব্যাসার্ধ 15 cm এবং AB = BC = CD = DA
+
+Options:
+গ. উদ্দীপকের P বিন্দুতে তড়িৎ প্রাবল্যের মান নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,A বিন্দুর চার্জ, [math]q_1 = 4nC = 4 × 10^{-9}[/math]
+cB বিন্দুর চার্জ, [math]q_2 = 8nC = 8 × 10^{-9}[/math]
+cবৃত্তের ব্যাসার্ধ, r = 15 cm = 0.15 mA বিন্দুর চার্জের জন্য P বিন্দুর প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{g}_{4}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{4 \times 10^{-9}}{(0.15)^{2}}, \\& =1600 \mathrm{NC}^{-1}[\mathrm{PC} \text { বরাবর }\end{aligned}[/math]
+এখন, [math]E_1[/math]
+ ও [math]E_2[/math]
+, P বিন্দুতে পরস্পর সমকোণে ক্রিয়া করায় এদের মধ্যবর্তী কোন, $\theta = 90°P বিন্দুর লব্ধি প্রাবল্য,[math]\begin{aligned}\mathrm{E} & =\sqrt{\mathrm{E}_{1}{ }^{2}+\mathrm{E}_{2}{ }^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2} \cos \theta} \\& =\sqrt{(1600)^{2}+(3200)^{2}+2 \times 1600 \times 3200 \cos 90^{\circ}} \\& =3577.71 \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+গ প্রতিটি চার্জ কেন্দ্র P-এ [math]E_1=E_2=\dfrac{kq}{r^2}[/math] মানের তড়িৎ ক্ষেত্র তৈরি করে (এখানে [math]r=15\ \text{cm}[/math])। A ও B বিন্দু পারস্পরিকভাবে কোণ [math]90^\circ[/math] এ 있으므로 두 সমমানের ভেক্টর যোগ করলে ফলাফল হয় [math]E_{\text{net}}=\sqrt{E_1^2+E_2^2}=\sqrt{2}\,\dfrac{kq}{r^2}[/math], এবং নির্দেশনা ওই দুই ক্ষেত্রের মধ্যে থাকা দ্বিমুখী বাইনসেকটর বরাবর।
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 420755)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+সমান ব্যাসার্ধের দুটি গোলক X ও Y শূন্যস্থানে পরস্পর থেকে 30.cm দূরে অবস্থিত। A গোলকে চার্জ + 6 × [math]10^{-12}[/math] C এবং B গোলকে চার্জ + 24 × [math]10^{-12}[/math] C আছে ।  
+
+
+[Image]
+
+
+Options:
+ঘ. R বিন্দুতে তড়িৎপ্রাবল্য শূন্য হতে পারে কিনা? গাণিতিক বিশ্লেষণ করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘA ও B গোলকের চার্জের জন্য যদি R বিন্দুতে তড়িৎ প্রাবল্যের মান সমান ও দিক বিপরীত হয়, তাহলে R বিন্দুতে তড়িৎ প্রাবল্য শূন্য হবেএখানে,A গোলকে চার্জ,[math]B গোলকে চার্জ,[/math]
+q_B = 24 × 10^{-12}C$দূরত্ব [math]r_1[/math]
+ = RX = 10 cm = 0.1 mদূরত্ব, [math]r_2[/math]
+ = RY = (30 – 10) cm = 20 cm = 0.2mA গোলকের চার্জের জন্য R বিন্দুতেপ্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{A}} & =\frac{1}{4 \pi \in_{0}} \frac{\mathrm{q}_{\mathrm{A}}}{\mathrm{r}_{1}^{2}} \\& =9 \times 10^{9} \times \frac{6 \times 10^{-12}}{(0.1)^{2}} \\& =5.4 \mathrm{NC}^{-1}, \mathrm{RY} \text { বরাবর }\end{aligned}[/math]
+B গোলকের চার্জের জন্য R বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{B}} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{\mathrm{B}}}{\mathrm{r}_{2}{ }^{2}}=9 \times 10^{9} \times \frac{24 \times 10^{-12}}{(0.2)^{2}} \\& =5.4 \mathrm{NC}^{-1}, \mathrm{RX} \text { বরাবর }\end{aligned}[/math]
+যেহেতু, [math]E_A[/math]
+ ও [math]E_B[/math]
+ এর দিক বিপরীত, তাই R বিন্দুতে লব্ধি প্রাবল্য,[math]\begin{aligned}\mathrm{E} & =\mathrm{E}_{\mathrm{A}}-\mathrm{E}_{\mathrm{B}} \\& =(5.4-5.4) \mathrm{NC}^{-1} \\& =0 \mathrm{NC}^{-1}\end{aligned}[/math]
+সুতরাং বলা যায়, R বিন্দুতে তড়িৎ প্রাবল্য শূন্য হতে পারে।
+
+Explanation:
+ঘ ব্যাখ্যা: দুইটি ধনাত্মক চার্জের ক্ষেত্রে মধ্যবর্তী কোনো বিন্দুতে ক্ষেত্রদিকগুলো বিপরীত হওয়ায় শূন্য হতে পারে; ধরা যাক A-এর কাছ থেকে দূরত্ব [math]r[/math], মোট কেন্দ্রদূরত্ব [math]d=30\ \text{cm}[/math]. ন্যূনতম শর্ত [math]\frac{q_A}{r^2}=\frac{q_B}{(d-r)^2}[/math], এখানে [math]\frac{r}{d-r}=\sqrt{\frac{q_A}{q_B}}=\sqrt{\frac{6}{24}}=\tfrac{1}{2}[/math} => [math]r=\tfrac{d}{3}=10\ \text{cm}[/math]. তাই R বিন্দুতে তড়িৎপ্রাবল্য শূন্য হতে পারে এবং তা A থেকে 10 cm (B থেকে 20 cm) দূরে অবস্থিত।
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 420754)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+সমান ব্যসার্ধের দুটি গোলক X ও Y শূন্যস্থানে পরস্পর থেকে 30 cm দূরে অবস্থিত। A গোলকে চার্জ [math]+ 6 \times 10^{-12} C[/math] এবং B গোলকে চার্জ [math]+ 24 × 10^{-12} C[/math] আছে।
+
+
+[Image]
+
+
+Options:
+ঘ. R বিন্দুতে তড়িৎ প্রাবল্য শূন্য হতে পারে কী? গাণিতিক বিশ্লেষণ করে যুক্তি উপস্থাপন করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘA ও B গোলকের চার্জের জন্য যদি R বিন্দুতে তড়িৎ প্রাবল্যের মান সমান ও দিক বিপরীত হয়, তাহলে R বিন্দুতে তড়িৎ প্রাবল্য শূন্য হবেএখানে,A গোলকে চার্জ,[math]B গোলকে চার্জ,[/math]
+q_B = 24 × 10^{-12}C$দূরত্ব [math]r_1[/math]
+ = RX = 10 cm = 0.1 mদূরত্ব, [math]r_2[/math]
+ = RY = (30 – 10) cm = 20 cm = 0.2mA গোলকের চার্জের জন্য R বিন্দুতেপ্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{A}} & =\frac{1}{4 \pi \in_{0}} \frac{\mathrm{q}_{\mathrm{A}}}{\mathrm{r}_{1}^{2}} \\& =9 \times 10^{9} \times \frac{6 \times 10^{-12}}{(0.1)^{2}} \\& =5.4 \mathrm{NC}^{-1}, \mathrm{RY} \text { বরাবর }\end{aligned}[/math]
+B গোলকের চার্জের জন্য R বিন্দুতে প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{B}} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{\mathrm{B}}}{\mathrm{r}_{2}{ }^{2}}=9 \times 10^{9} \times \frac{24 \times 10^{-12}}{(0.2)^{2}} \\& =5.4 \mathrm{NC}^{-1}, \mathrm{RX} \text { বরাবর }\end{aligned}[/math]
+যেহেতু, [math]E_A[/math]
+ ও [math]E_B[/math]
+ এর দিক বিপরীত, তাই R বিন্দুতে লব্ধি প্রাবল্য,[math]\begin{aligned}\mathrm{E} & =\mathrm{E}_{\mathrm{A}}-\mathrm{E}_{\mathrm{B}} \\& =(5.4-5.4) \mathrm{NC}^{-1} \\& =0 \mathrm{NC}^{-1}\end{aligned}[/math]
+সুতরাং বলা যায়, R বিন্দুতে তড়িৎ প্রাবল্য শূন্য হতে পারে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ হ্যাঁ—শূন্য তড়িৎক্ষেত্র দুই ধনাত্মক চার্জের মধ্যবর্তী একটি বিন্দুতে হতে পারে; ধরা যাক কণাগুলোর কেন্দ্রের দুরত্ব [math]d=30\ \text{cm}[/math] এবং শূন্য বিন্দুর দূরত্ব A(ছোট চার্জ [math]+6\times10^{-12}C[/math]) থেকে [math]x[/math]. মাপগুলি সমান হলে
+[math]\frac{k\cdot6\times10^{-12}}{x^2}=\frac{k\cdot24\times10^{-12}}{(30-x)^2}[/math]
+সরল করলে [math]\frac{30-x}{x}=2[/math] হয় এবং তাই [math]x=10\ \text{cm}[/math]. অতএব শূন্য ক্ষেত্রটি A থেকে 10 cm (B থেকে 20 cm) দূরে থাকবে — R যদি এ অবস্থায় থাকে তবেই তড়িৎপ্রাবল্য শূন্য হবে।
+
+Sub-Questions:
+

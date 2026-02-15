@@ -1,0 +1,262 @@
+================================================================================
+Question #1 (ID: 428452)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ু সাপেক্ষে পানি ও কাচের সংকট কোণ যথাক্রমে [math]48°[/math] ও [math]42°[/math] হলে পানি ও কাচের মধ্যকার সংকট কোণ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]64.2^{\circ}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বায়ুর সাপেক্ষে কাচের সংকট কোণ, [math]{}_a \theta_{g}=42^{\circ}[/math]
+বায়ুর সাপেক্ষে পানির সংকট কোণ, [math]{}_a \theta_{w}=48^{\circ}[/math]
+পানির সাপেক্ষে কাচের সংকট কোণ, [math]{}_w \theta_{g}=?[/math]
+ [math]\\[/math]
+ [math]{ }_{\mathrm{w}} \mu_{\mathrm{g}}=\frac{1}{\sin \theta_{\mathrm{g}}} \ldots \ldots \ldots (i)[/math]
+ [math]{ }_{\mathrm{a}} \mu_{\mathrm{g}}=\frac{1}{\sin _{\mathrm{a}} \theta_{\mathrm{g}}} \ldots \ldots \ldots (ii)[/math]
+এবং [math]{ }_{\mathrm{a}} \mu_{\mathrm{w}}=\frac{1}{\sin _{\mathrm{a}} \theta_{\mathrm{w}}} \ldots \ldots \ldots (iii)[/math]
+ [math]\text { (ii) } \div \text { (iii) }[/math]
+ করে,[math]\begin{array}{l} \frac{{ }_{\mathrm{a}} \mu_{\mathrm{a}}}{{ }_{\mathrm{a}} \mu_{\mathrm{w}}}=\frac{\sin {}_{a} \theta_{\mathrm{w}}}{\sin {}_{\mathrm{a}} \theta_{\mathrm{g}}} \\ {}_\mathrm{w} \mu_{\mathrm{g}}=\frac{\sin \theta_{\mathrm{a}} \theta_{\mathrm{w}}}{\sin {}_a \theta_{\mathrm{g}}} \ldots \ldots \ldots \text { (iv) } \end{array}[/math]
+ [math](i)[/math]
+ ও [math](iv)[/math]
+ থেকে,[math]\begin{array}{l} \frac{1}{\sin {}_{a}\theta_{w}}=\frac{\sin {}_{a} \theta_{w}}{\sin {}_{a} \theta_{g}} \\ \Rightarrow \sin {}_{w} \theta_{g}=\frac{\sin {}_{a} \theta {}_{\mathrm{g}}}{\sin {}_{a} \theta_{w}}=\frac{\sin 42^{\circ}}{\sin 48^{\circ}} \\ \Rightarrow \sin {} _{w} \theta_{g}=0.9 \\ \Rightarrow {}_{w} \theta_{g}=\sin ^{-1}(0.9)=64.2^{\circ} \end{array}[/math]
+ [math]\therefore[/math]
+ পানির সাপেক্ষে কাচের সংকট কোণ [math]=64.2^{\circ}[/math]
+ [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: বাতাসের نسبت যে কোনো মাধ্যমে সংকট কোণের সম্পর্ক হল [math]\sin C = 1/n[/math], তাই [math]n_{\text{পানি}}=1/\sin48^\circ[/math] এবং [math]n_{\text{কাচ}}=1/\sin42^\circ[/math]. কাচ থেকে পানিতে সংক্ষিপ্ত প্রতিফলনের সংকট কোণ হবে [math]\sin\theta_c=\dfrac{n_{\text{পানি}}}{n_{\text{কাচ}}}=\dfrac{\sin42^\circ}{\sin48^\circ}[/math], ফলে [math]\theta_c=\arcsin\!\big(\dfrac{\sin42^\circ}{\sin48^\circ}\big)\approx64.2^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 428458)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Sylhet MC College
+--------------------------------------------------------------------------------
+Question:
+একটি হীরকের প্রতিফলক পৃষ্ঠের উপর একটি আলোক রশ্মি [math]70^\circ[/math] কোণে আপতিত হলে হীরকের মধ্যে [math]22^\circ[/math] কোণে প্রতিসৃত হয়।
+
+Options:
+ঘ. উদ্দীপকে বর্ণিত হীরকের সমবর্তন কোণ [math]60^\circ[/math] হবে– উক্তিটির যথার্থতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘসমবর্তন কোণ [math]\theta_p[/math]
+ হলে- আমরা জানি,[math]\hspace{2cm}\begin{array}{l} { }_{\mathrm{a}} \mu_{\mathrm{b}}=\tan \theta_{\mathrm{p}}\\\Rightarrow \frac{\sin i}{\sin r}=\tan \theta_{p}\\\Rightarrow \frac{\sin 70^{\circ}}{\sin 22^{\circ}}=\tan \theta_{\mathrm{p}}\\\Rightarrow \theta_{p}=68.26^{\circ}\end{array}[/math]
+এখানে, [math]\theta_p 
+eq 60°[/math]
+অতএব, উক্তিটি যথার্থ নয় ৷
+
+Explanation:
+ব্যাখ্যা: ঘ উক্তিটি মিথ্যা। Snell আইন অনুযায়ী [math]\sin70^\circ = n\sin22^\circ \Rightarrow n=\dfrac{\sin70^\circ}{\sin22^\circ}\approx2.51[/math] এবং সমবর্তন কোণ [math]\theta_c=\sin^{-1}\left(\dfrac{1}{n}\right)\approx\sin^{-1}(0.398)\approx23.5^\circ[/math], যা [math]60^\circ[/math] নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 428457)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Sylhet MC College
+--------------------------------------------------------------------------------
+Question:
+একটি হীরকের প্রতিফলক পৃষ্ঠের উপর একটি আলোক রশ্মি [math]70^\circ[/math] কোণে আপতিত হলে হীরকের মধ্যে [math]22^\circ[/math] কোণে প্রতিসৃত হয়।
+
+Options:
+গ. উদ্দীপকে বর্ণিত হীরকের সংকট কোণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গসংকট কোণ [math]\theta_c[/math]
+ হলে,আমরা জানি,[math]\begin{array}{l}\quad{ }_{\mathrm{a}} \mu_{\mathrm{b}}=\frac{1}{\sin \theta_{\mathrm{c}}} \\\Rightarrow \frac{\sin \mathrm{i}}{\sin \mathrm{r}}=\frac{1}{\sin \theta_{\mathrm{c}}} \\\Rightarrow \sin \theta_{\mathrm{c}}=\frac{\sin \mathrm{r}}{\sin \mathrm{i}}=\frac{\sin 22^{\circ}}{\sin 70^{\circ}} \\\Rightarrow \theta_{\mathrm{c}}=23.49^{\circ}\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: বায়ুতে আপতিত রশ্মি ও হীরকের মধ্যে প্রতিসরণে স্নেল-এর সূত্র ব্যবহার করা যায়, যেখানে বায়ুর প্রতিসরণ সূচক [math]1[/math] ধরা হয়, তাই [math]\sin70^\circ = n\sin22^\circ[/math] থেকে [math]n=\dfrac{\sin70^\circ}{\sin22^\circ}\approx2.51[/math]. সংকট কোণ [math]\theta_c[/math] কল্পনা করলে [math]\sin\theta_c=\dfrac{1}{n}[/math] তথা [math]\theta_c=\arcsin\left(\dfrac{1}{2.51}\right)\approx23.5^\circ[/math]।  
+গ উত্তর: [math]23.5^\circ\ (\text{প্রায়})[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 428456)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Ispahani Public School And College. Chattogram
+--------------------------------------------------------------------------------
+Question:
+বায়ু সাপেক্ষে কাচ লেন্সের প্রতিসরাঙ্ক [math]1.5[/math] এবং বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক [math]1.33[/math]।
+
+Options:
+গ. কাচ ও পানির মধ্যকার সংকট কোণ কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, বায়ু সাপেক্ষে কাচের প্রতিসরণাঙ্ক, [math]{ }_{\mathrm{a}} \mu_{\mathrm{g}}=1.5[/math]
+বায়ু সাপেক্ষে পানির প্রতিসরণাঙ্ক, [math]{ }_{\mathrm{a}} \mu_{\mathrm{w}}=1.33[/math]
+পানি সাপেক্ষে কাচের প্রতিসরণাঙ্ক, [math]{ }_{w} \theta_{\mathrm{g}}[/math]
+ হলে,আমরা জানি, [math]{ }_{w} \mu_{g}=\frac{1}{\sin \theta_{g}}[/math]
+ এবং [math]{ }_{w} \mu_{g}=\frac{{ }_{a} \mu_{g}}{{ }_{a} \mu_{w}}[/math]
+ [math]\hspace{2cm}\begin{array}{l}\therefore \quad{ }_{w} \theta_{g}=\sin ^{-1}\left(\frac{\mathrm{a} \mu_{\mathrm{w}}}{\mathrm{a} \mu_{\mathrm{g}}}\right)=\sin ^{-1}\left(\frac{1.33}{1.5}\right) \\\Rightarrow { }_{w} \theta_{\mathrm{g}}=62.457^{\circ} \approx 62^{\circ} 27^{\prime}\end{array}[/math]
+নির্ণেয় সংকট কোণ [math]62°27'[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ কাচ থেকে পানিতে সংকট কোণ দেওয়া হয় [math]\sin\theta_c=\dfrac{n_{\text{water}}}{n_{\text{glass}}}[/math]; তাই [math]\sin\theta_c=\dfrac{1.33}{1.50}=0.8867[/math], ফলে [math]\theta_c\approx\sin^{-1}(0.8867)\approx62.5^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 428455)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কাচ ও পানির প্রতিসরাঙ্ক যথাক্রমে [math]\frac{3}{2}[/math] এবং [math]\frac{4}{3}[/math] । আলোক রশ্মি যখন কাচ থেকে পানির দিকে গমন করে তখন এর সংকট কোণ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]62^{\circ}734^{\prime}[/math]
+
+Explanation:
+ব্যাখ্যা: সংকট-কোণ শনাক্ত করার সূত্র [math]\sin\theta_c=\dfrac{n_{\text{পানী}}}{n_{\text{কাঁচ}}}[/math]। এখানে [math]n_{\text{কাঁচ}}=\frac{3}{2},\; n_{\text{পানী}}=\frac{4}{3}[/math] হলে [math]\sin\theta_c=\dfrac{4/3}{3/2}=\dfrac{8}{9}[/math], তাই [math]\theta_c=\arcsin\!\left(\dfrac{8}{9}\right)\approx62.7^\circ[/math] — এর চেয়ে বড় কোণে মোট অভ্যন্তরীণ প্রতিফলন ঘটে।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 428454)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো সমকোণী প্রিজম থেকে নির্গম রশ্মি পেতে হলে তার প্রতিসরাঙ্ক [math]\sqrt{2}[/math]-এর বেশি হলে চলবে না- প্রমাণ করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\mu \frac{A}{2}\end{array}[/math]
+ [math]\begin{array}{l}\Rightarrow \sin ^{-1}\left(\frac{1}{\mu}\right)>\frac{90^{\circ}}{2}\\\Rightarrow \sin ^{-1}\left(\frac{1}{\mu}\right)>45^{\circ}\\\Rightarrow \frac{1}{\mu}>\frac{1}{\sqrt{2}} \Rightarrow \therefore \mu<\sqrt{2}\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমকোণী সমদ্বিবাহু (45°–45°–90°) প্রিজমে আভ্যন্তরীণভাবে হাইপোটেনিউজে আপতিত কোণ সর্বনিম্ন [math]45^\circ[/math] হয়, সুতরাং বেরিয়ে আসার জন্য ক্রিটিক্যাল এঙ্গেল [math]\theta_c=\sin^{-1}(1/n)[/math] কমপক্ষে [math]45^\circ[/math] হতে হবে। তাই [math]\sin\theta_c\ge\sin45^\circ=1/\sqrt{2}[/math] হলে [math]1/n\ge1/\sqrt{2}[/math] বা [math]n\le\sqrt{2}[/math] হয়। ফলে যদি [math]n>\sqrt{2}[/math] হয়, ক্রিটিক্যাল এঙ্গেল [math]45^\circ[/math]−এর চেয়ে ছোট হয়ে সব রশ্মিই মোট অভ্যন্তরীণ পরাবর্তনে আটকে থাকবে এবং কোনো রশ্মি বেরোতে পারবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 428451)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+বায়ু ও কাচের মধ্যে সমতল বিভেদতল আছে। উক্ত বিভেদতলে আলো সংকট কোণের চেয়ে বড় আপ তন কোণে আপতিত হচ্ছে। প্রতিসরণ কোণ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Answer : কোন প্রতিসরণ ঘটবে না। কাজেই প্রতিসরণ কোণ অস্তিত্বহীন।
+
+Explanation:
+ব্যাখ্যা: সংকট কোণ হলো ঘন মাধ্যম থেকে কম ঘন মাধ্যমের দিকে সরে যাওয়ার সময় সর্বোচ্চ আপতিত কোণ; যদি আপতিত কোণ সংকট কোণের চেয়ে বড় হয় তবে প্রতিসরণ ঘটে না। এর পরিবর্তে সম্পূর্ণ অভ্যন্তরীণ প্রতিবিম্ব ঘটে, অর্থাৎ কোনো প্রতিসরণীয় রশ্মি নেই এবং প্রতিবিম্ব কোণ আপতিত কোণের সমান হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 428450)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]B[/math] মাধ্যম অপেক্ষা [math]A[/math] মাধ্যমে আলোকের বেগ [math]1.414[/math] গুণ এবং [math]C[/math] মাধ্যমে সেটি দ্বিগুণ। [math]C[/math] ও [math]A[/math] মাধ্যমের মধ্যকার সংকট কোণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]45^\circ[/math]
+)[math]\\[/math]
+Solution : ধরি, [math]B[/math]
+ মাধ্যমে আলোর বেগ [math]\rm{v} \quad \therefore \mathrm{C}_{\mathrm{A}}=1.414 \mathrm{~V}, \mathrm{C}_{\mathrm{C}}=2 \mathrm{~V}[/math]
+ [math]A[/math]
+ মাধ্যম, [math]C[/math]
+ মাধ্যমের চেয়ে ঘন [math]\therefore_{A} \mu_{C}=\dfrac{C_{A}}{C_{C}}=\dfrac{1.414}{2}=\dfrac{\sin \theta_{C}}{\sin 90} \therefore \theta_{C}=45^{\circ} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: আলোর বেগের সাথে প্রতিসরণসংখ্যা বিপরীতমুখী, তাই [math]n\propto 1/v[/math]. ফলে আপেক্ষিকভাবে [math]n_A=1/1.414=1/\sqrt{2}[/math] এবং [math]n_C=1/2[/math]; সংকট কোণ (ঘনmedium থেকে দ্রব medium এ, অর্থাৎ A→C) জন্য [math]\sin\theta_c=\dfrac{n_C}{n_A}=\dfrac{1/2}{1/\sqrt{2}}=\dfrac{1}{\sqrt{2}}[/math], ফলে [math]\theta_c=45^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 428448)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2012-2013 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+বায়ুর সাপেক্ষে কাঁচের সংকট কোণ [math]42^\circ[/math] এবং বায়ুর সাপেক্ষে পানির সংকট কোণ [math]48^\ci rc[/math] হলে পানির সাপেক্ষে কাঁচের সংকট কোণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]64.2^\circ[/math]
+)[math]\\[/math]
+Solution : [math]{ }_{a} \mu_{\mathrm{g}}=\dfrac{1}{\sin 42^{\circ}}=1.494 ;\ { }_{\mathrm{a}} \mu_{\mathrm{w}}=\dfrac{1}{\sin 48^{\circ}}=1.3456[/math]
+পানির সাপেক্ষে কাচের সংকট কোন [math]\theta[/math]
+ হলে [math]\sin\theta=\dfrac{1}{_{\mathrm{w}}\mu_{\mathrm{g}}}=\dfrac{1}{\dfrac{_{\mathrm{a}}\mu_{\mathrm{g}}}{_{\mathrm{a}}\mu_{\mathrm{w}}}}=\dfrac{_{\mathrm{a}}\mu_{\mathrm{w}}}{_{\mathrm{a}}\mu_{\mathrm{g}}}\Rightarrow\theta=\sin^{-1}\left(\dfrac{1.3456}{1.494}\right)=64.2^{\circ}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সংকট কোণের সূত্র হলো [math]\sin C=\dfrac{n_2}{n_1}[/math]. বায়ুর আপেক্ষিক কাঁচ ও পানির আপেক্ষিক সূচক থেকে [math]n_g=1/\sin42^\circ,\; n_w=1/\sin48^\circ[/math] হয়, তাই পানির সাপেক্ষে কাঁচের সংকটকোণের জন্য [math]\sin C_{g/w}=\dfrac{n_w}{n_g}=\dfrac{\sin42^\circ}{\sin48^\circ}[/math] এবং এ থেকে [math]C_{g/w}=\arcsin\!\big(\dfrac{\sin42^\circ}{\sin48^\circ}\big)\approx64^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 428449)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Jagannath University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+পানি ও গ্লিসারিনের প্রতিসরাঙ্ক (Refractive index) যথাক্রমে [math]1.33[/math] এবং [math]1.47[/math], এদের মধ্যকা র সংকট কোণ (Critical angle) কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Answer : [math]{ }_{\mathrm{g}} \mu_{\mathrm{w}}=\dfrac{1.33}{1.47}=0.90476 \therefore \sin \theta_{\mathrm{c}}=0.90476 \therefore \theta_{\mathrm{c}}=\sin ^{-1}(0.90476)=64.79^{\circ}[/math]
+
+Explanation:
+ব্যাখ্যা: সংকট কোণ তখনই নেয় যখন আলো ঘন মাধ্যম থেকে কম ঘন মাধ্যমে চলে এবং সূত্রটি হল [math]θ_c=\sin^{-1}\!\left(\frac{n_{\text{কম}}}{n_{\text{ঘন}}}\right)[/math], এখানে গ্লিসারিনই ঘন মাধ্যম ([math]n=1.47[/math]) এবং পানি কম ঘন ([math]n=1.33[/math])। তাই [math]θ_c=\sin^{-1}\!\left(\frac{1.33}{1.47}\right)\approx64.8^\circ[/math], এই কোণের ওপরে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে।
+
+Sub-Questions:
+

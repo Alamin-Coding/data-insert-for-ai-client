@@ -1,0 +1,534 @@
+================================================================================
+Question #1 (ID: 408422)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\mathbf{P}=\hat{i}-3 \hat{j}+5 \hat{k}[/math] এবং [math]\mathbf{Q}=3 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}[/math] দুটি একই সমতলে অবস্থিত ভেক্টর।
+
+[math]|\mathrm{PQ}|=[/math] কত?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\overrightarrow{P Q}[/math]
+ [math]=\overrightarrow{O Q}-\overrightarrow{O P}[/math]
+ [math]=(3 \hat{i}[/math]
+ [math]-2 \hat{\mathrm{j}}[/math]
+ [math]+4 \hat{\mathrm{k}})-(\hat{\mathrm{i}}[/math]
+ [math]-3 \hat{\mathrm{j}}[/math]
+ [math]+5 \hat{\mathrm{k}})[/math]
+ [math]\Rightarrow 2 \hat{\mathrm{i}}[/math]
+ [math]+\hat{\mathrm{j}}-\hat{\mathrm{k}}[/math]
+ [math]\therefore |\mathrm{PQ}|[/math]
+ [math]=\sqrt{2^{2}+1^{2}+(-1)^{2}}[/math]
+ [math]\Rightarrow \sqrt{4+1+1}[/math]
+ [math]\Rightarrow \sqrt{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\mathbf{PQ}=\mathbf{Q}-\mathbf{P}=(3-1)\hat{i}+(-2-(-3))\hat{j}+(4-5)\hat{k}=2\hat{i}+1\hat{j}-1\hat{k}[/math]. তাই [math]|\mathbf{PQ}|=\sqrt{2^2+1^2+(-1)^2}=\sqrt{6}[/math], ফলে উত্তরটি D সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408424)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সাকিব আল হাসান ক্রিকেট বলের উপর ব্যাট দিয়ে [math]\vec{F}=30 \hat{i}-2 \hat{j}+60 \hat{k}[/math] নিউটন বল প্রয়োগ করায় বলটির সরণ [math]\vec{d}=15 \hat{i}+4 \hat{j}+10 \hat{k}[/math] মিটার হলে প্রযুক্ত বল দ্বারা কাজের পরিমাণ কত জুল?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\mathbf{W}=\mathbf{F},[/math]
+ [math]\mathbf{d}[/math]
+ [math]=(30)(15)+(-2)(4)[/math]
+ [math]+(60)(10)[/math]
+ [math]\Rightarrow 450[/math]
+ [math]-8+600[/math]
+ [math]=1042[/math]
+ জুল
+
+Explanation:
+ব্যাখ্যা: কাজ হলো বল ও সরণের ডট প্রোডাক্ট, তাই [math]W=\vec{F}\cdot\vec{d}[/math]. এখানে [math]W=30\times15+(-2)\times4+60\times10=450-8+600=1042\ \text{J}[/math], তাই কাজ [math]1042\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408428)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]|\vec{a}|=1,|\vec{b}|=2[/math] এবং [math]\overrightarrow{\mathbf{A}}[/math] ও [math]\overrightarrow{\mathbf{B}}[/math] এর মধ্যবর্তী কোণ [math]30°[/math] হলে [math](\vec{a}. \vec{b})[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\mathbf{a} \cdot \mathbf{b}[/math]
+ [math]=|\mathbf{a}||\mathbf{b}| \cos \theta[/math]
+ [math]=1.2 \cos 30^{\circ}[/math]
+ [math]=2 \times \frac{\sqrt{3}}{2}[/math]
+ [math]=\sqrt{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরের ডট গুণ হল [math]|\vec a||\vec b|\cos\theta[/math], তাই [math]\vec a\cdot\vec b=1\times2\times\cos30^\circ=2\times\frac{\sqrt3}{2}=\sqrt3[/math], ফলে সঠিক উত্তর D।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 408442)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3 \hat{\mathrm i}[/math] এবং [math]6 \hat{\mathrm {i}}[/math] এর মধ্যবর্তী কোণ কত?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]\theta =\cos ^{-1}[/math]
+ [math]\left(\frac{3 \times 6}{\sqrt{9} \sqrt{36}}\right)[/math]
+ [math]=\cos ^{-1}[/math]
+ [math]\left(\frac{18}{18}\right)[/math]
+ [math]=0[/math]
+
+
+Explanation:
+ব্যাখ্যা: উভয় ভেক্টরই একই ইউনিট ভেক্টর [math]\hat{\mathrm{i}}[/math] এর দিকে নির্দেশ করে, তাই তাদের মধ্যবর্তী কোণ [math]0^\circ[/math]। গণনায়ও: [math]\mathbf{a}=3\hat{\mathrm{i}},\ \mathbf{b}=6\hat{\mathrm{i}},\ \cos\theta=\dfrac{\mathbf{a}\cdot\mathbf{b}}{|\mathbf{a}||\mathbf{b}|}=\dfrac{18}{3\cdot6}=1\Rightarrow\theta=0^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 408355)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020-2021 | Boards:  | Tags: Agriculture Cluster Admission System
+--------------------------------------------------------------------------------
+Question:
+[math]\alpha[/math] এর মান কত হলে [math]\alpha \hat{i}-2 \hat{j}+\hat{k}[/math] এবং [math]2 \alpha \hat{i}-\alpha \hat{j}-4 \hat{k}[/math] পরস্পর লম্ব হবে?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]\vec{A}=\alpha \hat{i}-2 \hat{j}+\hat{k}[/math]
+ [math]; \vec{B}=2[/math]
+ [math]\alpha \hat{i}-\alpha \hat{j}-4 \hat{k}[/math]
+লম্ব হলে, [math]\vec{A}[/math]
+ [math]\cdot \vec{B}=0[/math]
+ [math]\Rightarrow \alpha .2 \alpha+(-2)(-\alpha)-4=0[/math]
+ [math]\Rightarrow 2 \alpha^{2}+2 \alpha-4=0[/math]
+ [math]\therefore \alpha=1,-2[/math]
+
+
+Explanation:
+দুটি ভেক্টর পরস্পর লম্ব হলে তাদের ডট প্রোডাক্ট শূন্য হবে। ডট প্রোডাক্ট হল [math]\alpha(2\alpha)+(-2)(-\alpha)+1(-4)=2\alpha^2+2\alpha-4[/math], শূন্য করলে [math]\alpha^2+\alpha-2=0[/math] যা দিয়ে [math]\alpha=1\ \text{অথবা}\ \alpha=-2[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 408359)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]a \hat{i}-3 a \hat{j}-4 \hat{k}[/math] এবং [math]a \hat{i}+2 \hat{j}-2 \hat{k}[/math] ভেক্টরদ্বয় পরস্পর লম্ব হলে a এর মান -
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]a^{2}-6 a+8=0[/math]
+ [math]\Rightarrow(a-2)(a-4)=0[/math]
+ [math]\therefore a=2,4[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরদ্বয় লম্ব হলে তাদের ডট প্রডাক্ট শূন্য; তাই [math]a\cdot a+(-3a)\cdot2+(-4)\cdot(-2)=0[/math], যা সরল করে [math]a^2-6a+8=0[/math] হয়। সমাধান থেকে [math]a=2[/math] অথবা [math]a=4[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 408363)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]\bar{p}=24 \bar{i}+7 \bar{j}[/math] এবং [math]\overline{\mathrm{q}}=20 \overline{\mathrm{i}}+15 \overline{\mathrm{j}}[/math] হলে [math](\bar{p}+\bar{q})[/math] এবং [math](\bar{p}-\bar{q})[/math] এর অন্তবর্তী কোণ কত?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]\overline{\mathrm{A}}[/math]
+ [math]=\overline{\mathrm{p}}+\overline{\mathrm{q}}[/math]
+ [math]=44 \hat{\mathrm{i}}+22 \hat{\mathrm{j}} ;[/math]
+ [math]\overline{\mathrm{B}}[/math]
+ [math]=\overline{\mathrm{p}}-\overline{\mathrm{q}}=4 \hat{\mathrm{i}}-8 \hat{\mathrm{j}}[/math]
+ [math]\text { A. } \mathrm{B}[/math]
+ [math]=\mathrm{AB} \cos \theta \Rightarrow[/math]
+ [math](44 \times 4-22 \times 8)[/math]
+ [math]=\sqrt{44^{2}+22^{2}}[/math]
+ [math]\cdot \sqrt{4^{2}+8^{2}}[/math]
+ [math]\cos \theta \quad \therefore \theta=90^{\circ}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\bar{p}+\bar{q}=(24+20,\,7+15)=(44,22)\quad\text{এবং}\quad \bar{p}-\bar{q}=(24-20,\,7-15)=(4,-8)[/math]. এদের গুণফল [math](44)(4)+(22)(-8)=176-176=0[/math] হওয়ায় দুই ভেক্টর পরস্পর লম্ব, অতএব অন্তবর্তী কোণ [math]90^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 408370)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Hajee Mohammad Danesh Science & Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]2 \hat{i}+b \hat{j}+\hat{k}[/math] এবং [math]4 \hat{\mathrm{i}} \pm 2 \hat{\mathrm{j}} \pm \mathrm{k}[/math] ভেক্টর দুটি পরস্পর লম্ব হলে b এর মান কোনটি ?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]\vec{A}=2 \hat{i}+b \hat{j}+\hat{k},[/math]
+ [math]\quad \vec{B}[/math]
+ [math]=4 \hat{i}-2 \hat{j}-2 \hat{k} \quad \vec{A}[/math]
+ [math]\perp \vec{B}[/math]
+ হলে [math]\overrightarrow{\mathrm{A}}[/math]
+ [math]\cdot \overrightarrow{\mathrm{B}}=0[/math]
+ [math]\therefore 2 \times 4-2 \times b-2 \times 1=0[/math]
+ [math]\Rightarrow 2 b=8-2[/math]
+ [math]\Rightarrow b=3[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুটি ভেক্টর পরস্পর লম্ব হলে তাদের ডট প্রডাক্ট শূন্য, তাই [math](2\hat{i}+b\hat{j}+\hat{k})\cdot(4\hat{i}\pm2\hat{j}\pm\hat{k})=0[/math]. এ থেকে [math]8\pm2b\pm1=0[/math] পাওয়া যায়, ফলে [math]b=\pm\tfrac{9}{2}\text{ বা }b=\pm\tfrac{7}{2}[/math] যা সঠিক উত্তর নিশ্চিত করে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 408377)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{X}}[/math] [math]=4 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}+5 \hat{\mathrm{k}},[/math] [math]\overrightarrow{\mathrm{Y}}[/math] [math]=3 \hat{\mathrm{i}}+\hat{\mathrm{j}}-2 \hat{\mathrm{k}}[/math] ভেক্টরদ্বয়ের অন্তর্ভুক্ত কোণ কত?
+
+Options:
+
+
+Correct Answer: E.
+
+Solution:
+[math]\cos \theta[/math]
+ [math]=\frac{12+2-10}{\sqrt{4^{2}+2^{2}+5^{2}} \cdot \sqrt{3^{2}+1^{2}+2^{2}}}[/math]
+ [math]\therefore \theta=80.83^{\circ}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরদ্বয়ের ডট প্রোডাক্ট হলো [math]\overrightarrow X\cdot\overrightarrow Y=4\cdot3+2\cdot1+5\cdot(-2)=4[/math] এবং মডুলাসগুলো [math]|\overrightarrow X|=\sqrt{45},\;|\overrightarrow Y|=\sqrt{14}[/math]. তাই [math]\cos\theta=\dfrac{4}{\sqrt{45}\sqrt{14}}=\dfrac{4}{3\sqrt{70}}\approx0.1594[/math] ও [math]\theta\approx80.8^\circ[/math], যা অপশন E-এর সঙ্গে মেলে।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 408378)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Sylhet Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{p}}=3 \hat{\mathrm{i}}[/math] ও [math]\overrightarrow{\mathrm{Q}}[/math] [math]=-5 \hat{\mathrm{i}}[/math] হলে [math]\overrightarrow{\vec{P}}[/math] ও [math]\vec{Q}[/math] ভেক্টরদ্বয়ের অন্তর্গত কোণ কোনটি?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\vec{P} \cdot \vec{Q}[/math]
+ [math]=P Q \cos \theta[/math]
+ [math]\Rightarrow(3 \hat{i}) \cdot(-5 \hat {i})[/math]
+ [math]=3 \times 5 \cos \theta[/math]
+ [math]\Rightarrow \cos \theta[/math]
+ [math]=-1 \quad \therefore \theta[/math]
+ [math]=180^{\circ}[/math]
+
+
+Explanation:
+উভয় ভেক্টরই কেবল x-অক্ষ বরাবর: [math]\overrightarrow{p}=3\hat{i}[/math] ইতিবাচক দিশায় এবং [math]\overrightarrow{Q}=-5\hat{i}[/math] নেতিবাচক দিশায়, তাই তারা পরস্পরের বিপরীত দিকে আছে। সুতরাং তাদের মধ্যকার কোণ [math]180^\circ[/math] (তাই সঠিক উত্তর D)।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 408381)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: Jagannath University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]2 \hat{i}-\hat{j}+3 \hat{k}[/math] এবং [math]4 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}+6 \hat{k}[/math] ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\theta=\cos ^{-1} \frac{\vec{A} \cdot \vec{B}}{|\overrightarrow{\mathrm{A}}||\vec{B}|}=\cos ^{-1} \frac{2.4+1.2+3.6}{\sqrt{14} \sqrt{56}}=\cos ^{-1} \frac{28}{28}=0[/math]
+ [math]\text { Alternative: } 4 \hat{i}-2 \hat{j}+6 \hat{k}=2(2 \hat{i}-\hat{j}+3 \hat{k}) \quad \therefore[/math]
+ ভেক্টরদ্বয় সমান্তরাল।
+
+Explanation:
+ব্যাখ্যা: উভয় ভেক্টর অনুপাতিক কারণ [math]\mathbf a=2\hat{i}-\hat{j}+3\hat{k}[/math] এবং [math]\mathbf b=4\hat{i}-2\hat{j}+6\hat{k}=2\mathbf a[/math], তাই তাদের মধ্যবর্তী কোণ [math]0^\circ[/math]. বিকল্পভাবে ডট প্রোডাক্টে [math]\mathbf a\cdot\mathbf b=28,[/math] [math]|\mathbf a|=\sqrt{14},\;|\mathbf b|=2\sqrt{14}[/math] হলে [math]\cos\theta=28/( \sqrt{14}\cdot2\sqrt{14})=1[/math] এবং [math]\theta=0^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 408383)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017, 2016-2017 | Boards: Sylhet Board | Tags: Sher-e-Bangla Agricultural University, Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{A}=\hat{i}+2 \hat{j}-3 \hat{k}[/math] ও [math]\overrightarrow{\mathrm{B}}=3 \hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math] হলে [math]\vec{A}+\vec{B}[/math] ও [math]\vec{A}-\vec{B}[/math] ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত?
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]\overrightarrow{\mathrm{A}}+\overrightarrow{\mathrm{B}}[/math]
+ [math]=4 \hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{k} ;[/math]
+ [math]\overrightarrow{\mathrm{A}}-\overrightarrow{\mathrm{B}}[/math]
+ [math]=-2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-5 \hat{k}[/math]
+ [math](\vec{A}+\vec{B})[/math]
+ [math]\cdot(\vec{A}-\vec{B})[/math]
+ [math]=-8+3+5[/math]
+ [math]=0[/math]
+ [math]\therefore(\vec{A}+\vec{B})^{\wedge}(\vec{A}-\vec{B})[/math]
+ [math]=90^{\circ}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\vec{A}\cdot\vec{A}=1+4+9=14\quad\text{এবং}\quad\vec{B}\cdot\vec{B}=9+1+4=14[/math].  
+[math](\vec{A}+\vec{B})\cdot(\vec{A}-\vec{B})=\vec{A}\cdot\vec{A}-\vec{B}\cdot\vec{B}=14-14=0[/math], তাই ভেক্টরদ্বয় লম্ব; অতএব তাদের মধ্যবর্তী কোণ [math]90^\circ[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 408384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]2 \hat{i}+\hat j-3 \hat{k}[/math] এবং [math]3 \hat{i}-2 \hat{j}-\hat k[/math] ভেক্টরদ্বয়ের অন্তর্ভূক্ত কোণ-
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]\theta=\cos ^{-1}[/math]
+ [math]\frac{(2 \hat i+\hat j-3 \hat{k}) \cdot(3 \hat{i}-2 \hat{j}-\hat{k})}{\sqrt{2^{2}+1^{2}+(-3)^{2}} \cdot \sqrt{3^{2}+(-2)^{2}+(-1)^{2}}}[/math]
+ [math]=60^{\circ}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই ভেক্টরের ডট প্রোডাক্ট হল [math]2\cdot3+1\cdot(-2)+(-3)\cdot(-1)=7[/math] এবং প্রতিটি ভেক্টরের মাপ হলো [math]\sqrt{14}[/math], ফলে [math]\cos\theta=\dfrac{7}{\sqrt{14}\sqrt{14}}=\dfrac{1}{2}[/math], তাই [math]\theta=60^\circ[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 408391)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2010-2011 | Boards:  | Tags: Jahangirnagar University (A Unit), University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]\underline{A}=\hat{i}+2 \hat{j}-2 \hat{k}[/math] এবং [math]\underline{B}=6 \hat{i}-3 \hat{j}-2 \hat{k}[/math] ভেক্টর দু'টির মধ্যবর্তী কোণ হচ্ছে—
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\underline A.[/math]
+ [math]\underline{B}=1 \cdot 6+2(-3)+(-2) \cdot(-2)=6-6+4=4[/math]
+ [math]|\underline{A}|[/math]
+ [math]=\sqrt{1+2^{2}+2^{2}}[/math]
+ [math]=3[/math]
+ [math]|\underline{B}|[/math]
+ [math]=\sqrt{6^{2}+3^{2}+2^{2}}[/math]
+ [math]=7 ; \theta=\cos ^{-1}\left(\frac{4}{3.7}\right)[/math]
+ [math]=\cos ^{-1}\left(\frac{4}{21}\right)[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টর দুটির ডট প্রোডাক্ট হলো [math]\underline{A}\cdot\underline{B}=1\cdot6+2\cdot(-3)+(-2)\cdot(-2)=4[/math], এবং মডুলাসগুলো [math]|\underline{A}|=\sqrt{1+4+4}=3[/math], [math]|\underline{B}|=\sqrt{36+9+4}=7[/math]. তাই [math]\cos\theta=\dfrac{4}{3\cdot7}=\dfrac{4}{21}</math] এবং কোণটি [math]\theta=\cos^{-1}\!\left(\dfrac{4}{21}\right)</math], তাই উত্তরটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 408395)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+ভেক্টর দুইটির অন্তর্গত কোণ [math]A=\sqrt{2} \cos \alpha \hat{i}-\sqrt{2} \sin \alpha \hat{j} \quad B[/math] [math]=-\sqrt{2} \cos \alpha \hat{j}[/math] [math]+\sqrt{2} \sin \alpha \hat{k}(0<\alpha<\pi / 2)[/math]
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\cos \theta=\frac{\vec{A} \cdot \bar{B}}{A \cdot B}[/math]
+ [math]=\frac{(\sqrt{2} \cos \alpha \hat{i}-\sqrt{2} \sin \alpha \hat{j})(-\sqrt{2} \cos \alpha \hat{j}+\sqrt{2} \sin \alpha \hat{k})}{\sqrt{(\sqrt{2} \cos \alpha)^{2}+(-\sqrt{2} \sin \alpha)^{2}} \cdot \sqrt{(-\sqrt{2} \cos \alpha)^{2}+(\sqrt{2} \sin \alpha)^{2}}}[/math]
+ [math]\Rightarrow\frac{2 \sin \alpha \cos \alpha}{\sqrt{2} \cdot \sqrt{2}}[/math]
+ [math][\hat{i} . \hat{j}=0 ; \hat{i} \cdot \hat{k}=0 ; \hat{j} \cdot \hat{k}=0][/math]
+ [math]=\sin \alpha \cos \alpha \quad[/math]
+ [math]\therefore \theta[/math]
+ [math]=\cos ^{-1}(\sin \alpha \cos \alpha)[/math]
+
+
+Explanation:
+[math]\mathbf{A}\cdot\mathbf{B}= (\sqrt2\cos\alpha)\cdot0+(-\sqrt2\sin\alpha)(-\sqrt2\cos\alpha)+0\cdot(\sqrt2\sin\alpha)=2\sin\alpha\cos\alpha=\sin2\alpha[/math].  
+[math]|\mathbf{A}|=|\mathbf{B}|=\sqrt{2}[/math], তাই [math]\cos\theta=\dfrac{\mathbf{A}\cdot\mathbf{B}}{|\mathbf{A}||\mathbf{B}|}=\dfrac{\sin2\alpha}{2}[/math].  
+[math]00[/math], সুতরাং [math]\theta=\cos^{-1}\!\left(\dfrac{\sin2\alpha}{2}\right)[/math] যা অপশন ডি-এর সাথে মেলে।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 408398)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2010-2011 | Boards:  | Tags: Jahangirnagar University (A Unit), University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]\underline{A}=\hat{i}+2 \hat{j}-2 \hat{k}[/math] এবং [math]\underline{B}=6 \hat{i}-3 \hat{j}-2 \hat{k}[/math] ভেক্টর দু'টির মধ্যবর্তী কোণ হচ্ছে—
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\underline A.[/math]
+ [math]\underline{B}=1 \cdot 6+2(-3)+(-2) \cdot(-2)=6-6+4=4[/math]
+ [math]|\underline{A}|[/math]
+ [math]=\sqrt{1+2^{2}+2^{2}}[/math]
+ [math]=3[/math]
+ [math]|\underline{B}|[/math]
+ [math]=\sqrt{6^{2}+3^{2}+2^{2}}[/math]
+ [math]=7 ; \theta=\cos ^{-1}\left(\frac{4}{3.7}\right)[/math]
+ [math]=\cos ^{-1}\left(\frac{4}{21}\right)[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টর দুটির ডট প্রোডাক্ট [math]\underline{A}\cdot\underline{B}=1\cdot6+2\cdot(-3)+(-2)\cdot(-2)=4[/math], এবং [math]|\underline{A}|=\sqrt{1+4+4}=3,\;|\underline{B}|=\sqrt{36+9+4}=7[/math]. তাই [math]\cos\theta=\frac{4}{3\cdot7}=\frac{4}{21}[/math], অর্থাৎ [math]\theta=\cos^{-1}\!\left(\frac{4}{21}\right)[</math], ফলে উত্তর D সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 408328)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+[math]3 \hat{\mathbf{i}}+2 \hat{\mathbf{j}}+\mathbf{a \hat k}[/math] এবং [math]4 \hat{\mathbf{i}}-3 \hat{\mathbf{j}}+\hat{\mathbf{k}}[/math] ভেক্টরদ্বয় পরস্পর লম্ব হলে a এর মান কত?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+ভেক্টরদ্বয় পরস্পর লম্ব হলে, [math]3 \cdot 4+2 \cdot(-3)+a .1=0[/math]
+ [math]\Rightarrow[/math]
+ [math]12-6+a=0[/math]
+ [math]\therefore a=-6[/math]
+
+
+Explanation:
+ব ব্যাখ্যা: ভেক্টরগুলো পরস্পর লম্ব হলে তাদের ডট প্রডাক্ট শূন্য থাকে, তাই [math]3\cdot4+2\cdot(-3)+a\cdot1=0[/math], অর্থাৎ [math]12-6+a=0[/math] থেকে [math]a=-6[/math] — তাই অপশন A সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 408333)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{a}=2 \hat{\mathbf{i}}+3 \hat{\mathbf{j}}+5 \hat{k}[/math] ভেক্টরটি দ্বারা z-অক্ষের সাথে উৎপন্ন কোণের পরিমাণ নিচের কোনটি?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\theta_{z}[/math]
+ [math]=\cos ^{-1}[/math]
+ [math]\left(\frac{(2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}+5 \hat{\mathrm{k}}) \hat{\mathrm{k}}}{\sqrt{2^{2}+3^{2}+5^{2}} \cdot \sqrt{1^{2}}}\right)[/math]
+ [math]=\cos ^{-1}[/math]
+ [math]\left(\frac{5}{\sqrt{38}}\right)[/math]
+
+
+Explanation:
+ব্যাখ্যা: z-অক্ষের ইউনিট ভেক্টর [math]\hat{k}[/math] সঙ্গে কোণের জন্য [math]\cos\theta=\dfrac{\vec a\cdot\hat{k}}{|\vec a||\hat{k}|}=\dfrac{5}{\sqrt{38}}[/math], তাই [math]\theta=\cos^{-1}\!\left(\dfrac{5}{\sqrt{38}}\right)[/math]. সুতরাং সঠিক উত্তর হল খ.
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 408334)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]\bar{A}=\hat{i}-\hat{j}+\hat{k}[/math] এবং [math]\bar{B}=\hat{\mathrm{i}}+2 \hat{\mathrm{j}}-\hat{\mathrm{k}}[/math] [math]\overrightarrow{\mathbf{A B}}[/math] এর মান কত ?
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]|\overrightarrow{\mathrm{AB}}|=|\hat{\mathrm{i}}[/math]
+ [math]+2 \hat{\mathrm{j}}-\hat{\mathrm{k}}-\hat{\mathrm{i}}[/math]
+ [math]+\hat{\mathrm{j}}-\hat{\mathrm{k}}|[/math]
+ [math]=|3 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}|[/math]
+ [math]=\sqrt{3^{2}+(-2)^{2}}[/math]
+ [math]=\sqrt{13}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\overrightarrow{AB}=\bar{B}-\bar{A}=(1-1)\hat{i}+(2-(-1))\hat{j}+(-1-1)\hat{k}=0\hat{i}+3\hat{j}-2\hat{k}[/math], তাই মান [math]|\overrightarrow{AB}|=\sqrt{0^2+3^2+(-2)^2}=\sqrt{13}[/math]।
+
+Sub-Questions:
+

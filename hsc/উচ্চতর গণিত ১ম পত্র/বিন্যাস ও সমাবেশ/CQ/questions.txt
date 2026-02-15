@@ -1,0 +1,2361 @@
+================================================================================
+Question #1 (ID: 472706)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Agriculture Cluster Admission System
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{n} P_{4}=6^{n} P_{3}[/math] হলে [math]n[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]{ }^{n} P_{4}=6 \times{ }^{n} P_{3}[/math]
+ [math]\Rightarrow \frac{\ln }{\ln -4}=6[/math]
+ [math]\times \frac{\ln }{\ln -3}[/math]
+ [math]\Rightarrow \frac{1}{(n-4) !}[/math]
+ [math]=\frac{6}{(n-3)(n-4) !}[/math]
+ [math]\Rightarrow n-3=6[/math]
+ [math]\therefore n=9[/math]
+
+
+Explanation:
+কারণ [math]{}^{n}P_{4}=n(n-1)(n-2)(n-3)[/math] এবং ধরে নিতে হবে ডানপাশটি [math]{}^{6}P_{3}=6\cdot5\cdot4=120[/math]; তাই [math]n(n-1)(n-2)(n-3)=120[/math]। পরীক্ষা করলে [math]n=5[/math] হলে [math]5\cdot4\cdot3\cdot2=120[/math], অতএব [math]n=5[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 472674)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022-2023 | Boards:  | Tags: University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{n} C_{5}={ }^{n} C_{7}[/math] হলে, [math]{ }^{n} \mathrm{C}_{3}=[/math] কত?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]{ }^{n} C_{5}={ }^{n} C_{7}[/math]
+ [math]\Rightarrow n=5+7[/math]
+ [math]=12[/math]
+ [math]\therefore{ }^{n} C_{3}={ }^{12} C_{3}[/math]
+ [math]=220[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\binom{n}{5}=\binom{n}{7}[/math] এবং পরিচিত সূত্র [math]\binom{n}{k}=\binom{n}{n-k}[/math] থেকে প্রয়োজন যে [math]n-5=7[/math], সুতরাং [math]n=12[/math]. অতএব [math]\binom{n}{3}=\binom{12}{3}=\frac{12\cdot11\cdot10}{3\cdot2\cdot1}=220[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 472677)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021-2022, 2020-2021 | Boards:  | Tags: University of Chittagong (Unit A), Jahangirnagar University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{2 n} P_{3}=2 \times{ }^{n} P_{4}[/math] হলে, n এর মান কত?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]{ }^{2 \mathrm{n}} \mathrm{P}_{3}=2 \times{ }^{\mathrm{n}} \mathrm{P}_{4}[/math]
+ [math]\Rightarrow 2 n(2 n-1)(2 n-2)[/math]
+ [math]=2[/math]
+ [math]\times n(n-1)(n-2)(n-3)[/math]
+ [math]\Rightarrow 4 n(n-1)(2 n-1)[/math]
+ [math]=2 n(n-1)(n-2)(n-3)[/math]
+ [math]\Rightarrow 2(2 n-1)[/math]
+ [math]=(n-2)(n-3)[/math]
+ [math]\Rightarrow 4 n-2=n^{2}-3 n-2 n+6[/math]
+ [math]\Rightarrow n^{2}-3 n-2[/math]
+ [math]n-4 n+6+2=0[/math]
+ [math]\Rightarrow n^{2}-9 n+8=0[/math]
+ [math]\Rightarrow n^{2}-8[/math]
+ [math]n-n+8=0[/math]
+ [math]\Rightarrow n(n-8)-1(n-8)=0[/math]
+ [math]\Rightarrow(\mathrm{n}-8)(\mathrm{n}-1)=0[/math]
+ [math]\therefore \mathrm{n}=8[/math]
+ কিন্তু [math]\mathrm{n} 
+eq 1[/math]
+
+
+Explanation:
+সমাধান: [math]{}^{2n}P_3=(2n)(2n-1)(2n-2)[/math] এবং [math]{}^{n}P_4=n(n-1)(n-2)(n-3)[/math]। সমীকরণ [math](2n)(2n-1)(2n-2)=2n(n-1)(n-2)(n-3)[/math] থেকে সাধারণ [math]n(n-1)[/math] বাদ দিলে [math]4(2n-1)=2(n-2)(n-3)[/math] পাওয়া যায়, যা সরল করলে [math]n^2-9n+8=0[/math] হয় এবং সমাধানে [math]n=8[/math] (বা [math]1[/math]) আসে; কিন্তু [math]{}^{n}P_4[/math] থাকার জন্য [math]n\ge4[/math] হওয়া দরকার, তাই [math]n=8[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 472678)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020-2021 | Boards:  | Tags: Jahangirnagar University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{n}_{\mathrm{C}_{2}}=10[/math] হলে [math]n[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]{ }^{n} C_{2}=10 \Rightarrow \frac{n !}{2 !(n-2) !}=10[/math]
+ [math]\Rightarrow \frac{n(n-1)(n-2) !}{2 \times(n-2) !}=10[/math]
+ [math]\Rightarrow n^{2}-n=20[/math]
+ [math]\Rightarrow n^{2}-n-20[/math]
+ [math]=0[/math]
+ [math]\Rightarrow n^{2}-5 n+4 n-20=0[/math]
+ [math]\Rightarrow n(n-5)+4(n-5)=0[/math]
+ [math]\Rightarrow(n-5)(n+4)=0[/math]
+ [math]\therefore \mathrm{n}=5[\mathrm{n}=-4[/math]
+ গ্রহণযোগ্য নয়]
+
+Explanation:
+ব্যাখ্যা: [math]\binom{n}{2}=\frac{n(n-1)}{2}=10[/math] থেকে [math]n(n-1)=20[/math]. সমীকরণটি সমাধান করলে [math]n^2-n-20=0[/math], ফলে [math]n=(1\pm9)/2[/math] এবং ধনাত্মক সমাধান [math]n=5[/math]. অতএব সঠিক উত্তর খ (অর্থাৎ [math]5[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 472680)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020-2021 | Boards:  | Tags: University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+যদি, [math]{ }^{n} P_{r}=336[/math] এবং [math]{ }^{\mathrm{n}} \mathrm{C}_{\mathrm{r}}=56[/math] হয় তবে [math]' n^{\prime}=?[/math]
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]{ }^{{ }^{n}} P_{r}={ }^{n} C_{r} \times r ![/math]
+ [math]\Rightarrow 336=56 \times r ![/math]
+ [math]\Rightarrow r !=6: r r=3 ;{ }^{n} C_{3}=56[/math]
+ [math]\therefore n=8[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]{}^{n}P_{r}={}^{n}C_{r}\cdot r![/math], তাই [math]r!=\dfrac{336}{56}=6[/math] থেকে [math]r=3[/math]. এরপর [math]{}^{n}C_{3}=56\Rightarrow \dfrac{n(n-1)(n-2)}{6}=56\Rightarrow n(n-1)(n-2)=336[/math] এবং দেখা যায় [math]8\cdot7\cdot6=336[/math], সুতরাং [math]n=8[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 472628)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015 | Boards:  | Tags: University of Dhaka (A  Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]10[/math] জন বালক এবং [math]8[/math] জন বালিকা থেকে 2 জন বালক এবং 2 জন বালিকা কত বিভিন্ন উপায়ে বেছে নেওয়া যায়?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]{ }^{10} \mathrm{C}_{2} \times{ }^{8} \mathrm{C}_{2}=1260[/math]
+
+Explanation:
+বালক দু’জন বাছাই করার সংখ্যা [math]\binom{10}{2}=45[/math], বালিকা দু’জন বাছাই করার সংখ্যা [math]\binom{8}{2}=28[/math]. দুই নির্বাচন স্বাধীনভাবে মিলছে, তাই মোট উপায় [math]45\times28=1260[/math], তাই সঠিক উত্তর B।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 472569)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+শিক্ষক বোর্ডে অলিম্পিক লোগো আঁকলেন এবং [math]5[/math]টি পরস্পর অসমান্তরাল সরলরেখা আঁকলেন ।
+
+
+[Image]
+
+
+Options:
+ক. [math]m \hat{i}+2 \hat{j}-3 \hat{k}[/math] ও [math]4 \hat{i}-3 \hat{j}+6 \hat{k}[/math] ভেক্টরদ্বয় পরস্পর লম্ব হলে [math]m[/math] এর মান নির্ণয় কর।
+খ. অলিম্পিক লোগোর বৃত্ত সমূহের ছেদ বিন্দুগামী কয়টি সরলরেখা ও ত্রিভুজ পাওয়া যাবে?
+গ. মিজান বাসায় গিয়ে অলিম্পিক লোগোর বৃত্ত আঁকতে গিয়ে পাঁচটি পরস্পরচ্ছেদী বৃত্ত আঁকলে, বৃত্ত ও অসমান্তরাল সরলরেখা দ্বারা সর্বোচ্চ কতটি ছেদবিন্দু পাওয়া যাবে?
+
+
+Correct Answer: 
+
+Solution:
+কধরি, [math]\mathbf{P}=\mathrm{mi}+2 \hat{\mathrm{j}}-3 \hat{\mathrm{k}}[/math]
+ এবং [math]\mathbf{Q}=4 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+6 \hat{\mathrm{k}}[/math]
+ভেক্টরদ্বয় পরস্পর লম্ব হবে যদি [math]P. Q = 0[/math]
+ হয়।শর্তমতে, [math]\text { m. } 4+2 \cdot(-3)+(-3) \cdot 6=0[/math]
+ [math]= 4 \mathrm{~m}-6-18=0 = 4 \mathrm{~m}=24 \therefore \mathrm{m}=6 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খঅলিম্পিক লোগো নিম্নরূপ :
+[Image]
+অলিম্পিক লোগোতে মোট 5টি বৃত্ত আছে যার 8টি ছেদবিন্দু রয়েছেএবং 8টি বিন্দুর উপরের 4টি একই সরলরেখায় ও নিচের চারটিঅপর একটি সরলরেখায় অবস্থান করে।এখন 8টি বিন্দুর মধ্যে যে কোন 2টি বিন্দু দিয়ে অঙ্কিত সরলরেখারসংখ্যা হবে [math]={ }^{8} C_{2}-{ }^{4} C_{2}-{ }^{4} C_{2}+1+1=18[/math]
+ টি (Ans.)আবার 8টি বিন্দুর মধ্য দিয়ে যে কোন 3টি বিন্দু দিয়ে অঙ্কিতত্রিভুজ সংখ্যা হবে [math]={ }^{8} \mathrm{C}_{3} .[/math]
+কিন্তু উপরের চারটি বিন্দু একই সরলরেখায় বলে কোন ত্রিভুজপাওয়া যাবে না । অতএব ত্রিভুজ না পাওয়ার সংখ্যা [math]={ }^{4} \mathrm{C}_{3}[/math]
+একইভাবে নিচের চারটি দ্বারা ত্রিভুজ না পাওয়ার সংখ্যা [math]={ }^{4} C_{3}[/math]
+ [math]\therefore[/math]
+ প্রকৃত ত্রিভুজ সংখ্যা [math]={ }^{8} \mathrm{C}_{3}-{ }^{4} \mathrm{C}_{3}-{ }^{4} \mathrm{C}_{3}=48[/math]
+ টি (Ans)[math]\\[/math]
+ গমিজান অলিম্পিক লোগোর 5 টি বৃত্ত পরস্পরচ্ছেদী করে আঁকলো ।যে কোন 2টি বৃত্ত থেকে 2টি ছেদ বিন্দু পাওয়া যায় ৷5টি বৃত্ত থেকে 2টি বৃত্ত নেয়া যায় [math]={ }^{5} \mathrm{C}_{2}[/math]
+ উপায়ে ।সুতরাং ছেদবিন্দু পাওয়া যায় [math]={ }^{5} \mathrm{C}_{2} \times 2[/math]
+ টি।আবার 5 টি সরলরেখার মধ্যে যে কোন 2টি সরলরেখা নিয়ে ছেদ বিন্দুপাওয়া যাবে 1টি ।[math]\therefore[/math]
+ সরলরেখা (—) সরলরেখা ছেদবিন্দু সংখ্যা হবে [math]={ }^{5} \mathrm{C}_{2}[/math]
+ টি.আবার যে কোন 1টি সরলরেখা ও 1টি বৃত্ত থেকে সর্বোচ্চ 2টিছেদবিন্দু পাওয়া যায়।সুতরাং 5 টি সরলরেখা ও 5 টি বৃত্ত থেকে যে কোন 1টিবাছাইপূর্বক ছেদবিন্দু হবে [math]={ }^{5} \mathrm{C}_{1} \times{ }^{5} \mathrm{C}_{1} \times 2[/math]
+ টি[math]\therefore[/math]
+ মোট ছেদবিন্দু পাওয়া যাবে [math]={ }^{5} \mathrm{C}_{2} \times 2+{ }^{5} \mathrm{C}_{2}+{ }^{5} \mathrm{C}_{1} \times{ }^{5} \mathrm{C}_{1} \times 2[/math]
+ [math]= 80[/math]
+টি (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+
+ক ভেক্টরদ্বয়ের ডট প্রোডাক্ট শূন্য হলে [math](m,2,-3)\cdot(4,-3,6)=0[/math] ⇒ [math]4m-6-18=0[/math] ⇒ [math]4m-24=0[/math] ⇒ [math]m=6[/math]।
+
+খ অলিম্পিক লোগোতে উপযুক্ত জোড়াগুলো মিলিয়ে মোট [math]7[/math]টি বৃত্তজোড়া আছে এবং প্রত্যেক জোড়ার [math]2[/math]টি ছেদ থাকে, ফলে মোট [math]14[/math] ছেদবিন্দু; কোনো তিনটি ছেদবিন্দু সমরেখা না ধরে সরলরেখার সংখ্যা [math]\binom{14}{2}=91[/math] এবং ত্রিভুজের সংখ্যা [math]\binom{14}{3}=364[/math] হবে।
+
+গ পাঁচটি পরস্পরচ্ছেদী বৃত্তে বৃত্ত–বৃত্ত ছেদ সর্বোচ্চ [math]2\binom{5}{2}=20[/math], পাঁচটি অসমান্তরাল সরলরেখার ছেদ [math]\binom{5}{2}=10[/math], এবং প্রতিটি বৃত্ত ও প্রতিটি রেখার সর্বোচ্চ ছেদ [math]2[/math]টি হলে মোট বৃত্ত–রেখা ছেদ [math]5\times5\times2=50[/math]; সুতরাং সর্বোচ্চ মোট ছেদবিন্দু [math]20+10+50=80[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 472564)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কোম্পানিতে [math]14[/math]টি ভিন্ন ভিন্ন দপ্তরের জন্য [math]14[/math]জন কর্মকর্তা নিয়োগ করা হলো, যাদের মধ্যে [math]8[/math] জন পুরুষ এবং [math]6[/math] জন মহিলা । দুটি বিশেষ দপ্তরে মহিলা কর্মকর্তা পদায়ন বাধ্যতামূলক
+
+Options:
+ক. [math]\text { PENCIL }[/math] শব্দটির সবগুলি বর্ণ একত্রে নিয়ে কত রকমে পুনরায় সাজানো যেতে পারে?
+খ. নতুন নিয়োগপ্রাপ্ত কর্মকর্তাবৃন্দকে কতভাবে বিভিন্ন দপ্তরে পদায়ন করা যাবে?
+গ. নতুন নিয়োগপ্রাপ্ত কর্মকর্তাদের মধ্যে সর্বোচ্চ [math]5[/math] জন পুরুষ ও সর্বনিম্ন [math]3[/math] জন মহিলার সমন্বয়ে কত রকমে [math]8[/math] জনের একটি কমিটি গঠন করা যাবে?
+
+
+Correct Answer: 
+
+Solution:
+কPENCIL শব্দটিতে মোট বর্ণ [math]6[/math]
+ টি। প্রতিটি বর্ণই ভিন্ন।প্রদত্ত শব্দটির সবগুলি বর্ণ একত্রে নিয়ে পুনরায় বিন্যাস সংখ্যা [math]=6 !-1[/math]
+ টি (Ans.)[math]=719[/math]
+ টি[math]\\[/math]
+ খনতুন নিয়োগপ্রাপ্ত মোট কর্মকর্তা : [math]= 14[/math]
+ জনএদের মধ্যে পুরুষ [math]= 8[/math]
+ জন এবং মহিলা [math]= 6[/math]
+ জনদুটি বিশেষ দপ্তরে মহিলা কর্মকর্তা পদায়ন বাধ্যতামূলক।[math]6[/math]
+ জন মহিলা কর্মকর্তা থেকে [math]2[/math]
+ জনকে পদায়ন করা যাবে [math]{ }^{6} \mathrm{P}_{2}[/math]
+ উপায়ে।অবশিষ্ট [math](14 – 2) = 12[/math]
+ কর্মকর্তাকে অবশিষ্ট [math]12[/math]
+ টি দপ্তরে পদায়নকরা যাবে [math]12![/math]
+ উপায়ে ।সুতরাং মোট পদায়ন করা যাবে [math]{ }^{6} \mathrm{P}_{2} \times 12 ![/math]
+ উপায়ে। (Ans.)[math]\\[/math]
+ গ [math]8[/math]
+ জন পুরুষ এবং [math]6[/math]
+ জন মহিলা থেকে সর্বোচ্চ [math]5[/math]
+ জন পুরুষ ওসর্বনিম্ন [math]3[/math]
+ জন মহিলার সমন্বয়ে [math]8[/math]
+ জনের একটি কমিটি নিম্নরূপে গঠন করা যায় :
+[Image]
+মোট সম্ভাব্য কমিটির সংখ্যা [math]=1120+1050+336+28[/math]
+ [math]= 2534[/math]
+ টি (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+
+ক সব অক্ষর ভিন্ন হওয়ায় মোট পুনরায় সাজানোর সংখ্যা হল [math]6![/math], তাই [math]6! = 720[/math]।
+
+খ দুইটি নির্দিষ্ট দপ্তরে মহিলা থাকা বাধ্যতামূলক; প্রথমে ওই দুই দপ্তরের জন্য ক্রমানুসারে দুইজন মহিলা বাছাই করা যায় [math]{}_6P_2=6\times5[/math]ভাবে, বাকি [math]12[/math] জনকে বাকি [math]12[/math] দপ্তরে কোনো ক্রমে বসানো যায় [math]12![/math]ভাবে; ফলে মোট পথ হল [math]6\times5\times12![/math]।
+
+গ মোট [math]8[/math] জন কমিটিতে সর্বোচ্চ [math]5[/math] জন পুরুষ এবং অন্তত [math]3[/math] জন মহিলা হলে পুরুষের সংখ্যা হতে পারে [math]2,3,4,5[/math]; তাই মোট সংখ্যা হলো [math]\sum_{m=2}^{5}\binom{8}{m}\binom{6}{8-m}[/math] এবং এর মান হলো [math]28+336+1050+1120=2534[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 472565)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক ব্যক্তি তার জন্মদিনের অনুষ্ঠানে [math]12[/math] জন বন্ধু এবং [math]6[/math] জন পারিবারিক আত্মীয়কে আমন্ত্রণ জানানোর সিদ্ধান্ত নিলেন। পারিবারিক আত্মীয়দের মাঝে [math]3[/math] জন পুরুষ, [math]2[/math] জন মহিলা এবং [math]1[/math] জন শিশু ছিল। অনুষ্ঠানে আমন্ত্রিত প্রত্যেক ব্যক্তি প্রত্যেক ব্যক্তির সাথে একবার করে করমর্দন করলেন।
+
+Options:
+ক. [math]9[/math] বাহু বিশিষ্ট একটি সমতলিক ক্ষেত্রের কতগুলো কর্ণ আছে?
+খ. অনুষ্ঠানে মোট কতটি করমর্দন সম্পন্ন হবে এবং কতটি করমর্দন শুধুমাত্র বন্ধু ও পারিবারিক সদস্যের মাঝে সম্পন্ন হবে ?
+গ. পারিবারিক আত্মীয়দের জন্য কত উপায়ে [math]5[/math]টি আসন নির্ধারণ করা যাবে?
+
+
+Correct Answer: 
+
+Solution:
+ক [math]9[/math]
+ বাহু বিশিষ্ট একটি সমতলিক ক্ষেত্রের মোট কৌণিক বিন্দু [math]9[/math]
+টি ।[math]\therefore 9[/math]
+ টি কৌণিক বিন্দু থেকে 2টি করে বিন্দু বাছাই করে মোটসরলরেখা পাওয়া যাবে [math]{ }^{9} \mathrm{C}_{2} .[/math]
+আবার, বাহুগুলো যেহেতু কৰ্ণ নয় ।[math]\therefore[/math]
+ মোট কর্ণের সংখ্যা [math]={ }^{9} C_{2}-9=27[/math]
+ টি (Ans)[math]\\[/math]
+ খঅনুষ্ঠানে উপস্থিত অতিথি [math]= 12 + 6 = 18[/math]
+ জন[math]18[/math]
+ জনের মধ্য থেকে [math]2[/math]
+ জনকে করমর্দনের জন্য বাছাই করা যাবে[math]{ }^{18} \mathrm{C}_{2}[/math]
+ উপায়ে [math]= 153[/math]
+ উপায়ে[math]\therefore[/math]
+ মোট করমর্দন [math]153[/math]
+টি (Ans)আবার, বন্ধুর সংখ্যা [math]12[/math]
+ জন, পারিবারিক আত্মীয়ের সংখ্যা [math]= 6[/math]
+ জনবন্ধু ও পারিবারিক আত্মীয়দের মধ্যে একজন করে বাছাই করাযাবে যথাক্রমে [math]{ }^{12} \mathrm{C}_{1}[/math]
+ ও [math]{ }^{6} \mathrm{C}_{1}[/math]
+ উপায়েসুতরাং মোট করমর্দন হবে [math]\left({ }^{12} \mathrm{C}_{1} \times{ }^{6} \mathrm{C}_{1}\right)[/math]
+ টি [math]=12 \times 6[/math]
+ টি [math]= 72[/math]
+ টি(Ans.)[math]\\[/math]
+ গপাঁচটি আসন নির্ধারণ করার সম্ভাব্য উপায়[math]\quad[/math]
+ শিশু (1) [math]\quad[/math]
+মহিলা (2) [math]\quad[/math]
+ পুরুষ (3)(a) [math]\quad[/math]
+1 [math]\quad \quad \quad[/math]
+2 [math]\quad \quad \quad \quad \quad[/math]
+2(b) [math]\quad[/math]
+1 [math]\quad \quad \quad[/math]
+1 [math]\quad \quad \quad \quad \quad[/math]
+3(c) [math]\quad[/math]
+0 [math]\quad \quad \quad[/math]
+2 [math]\quad \quad \quad \quad \quad[/math]
+3(a) . উপায়ের ক্ষেত্রে আসনগুলো নির্ধারণ করা যাবে[math]{ }^{1} \mathrm{C}_{1} \times{ }^{2} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{2}=3[/math]
+ উপায়ে(b) উপায়ের ক্ষেত্রে আসনগুলো নির্ধারণ করা যাবে[math]{ }^{1} \mathrm{C}_{1} \times{ }^{2} \mathrm{C}_{1} \times{ }^{3} \mathrm{C}_{3}=2[/math]
+ উপায়ে(c) উপায়ের ক্ষেত্রে আসনগুলো নির্ধারণ করা যাবে[math]{ }^{1} \mathrm{C}_{0} \times{ }^{2} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{3}=1[/math]
+ উপায়ে[math]\therefore[/math]
+ আসনগুলোর মোট নির্ধারণ সংখ্যা[math](3+2+1)=6 \text { (Ans.) }[/math]
+বিকল্প: ৫টি আসনে [math]6[/math]
+ জন হতে [math]5[/math]
+ জনকে বাছাই করে বসানোরউপায় [math]{ }^{6} \mathrm{C}_{5}=6[/math]
+ টি
+
+Explanation:
+ব্যাখ্যা:
+ক একটি [math]n[/math]-বাহু বহুভুজের কর্ণের সংখ্যা হয় [math]\dfrac{n(n-3)}{2}[/math], সুতরাং [math]n=9[/math] হলে কর্ণের সংখ্যা [math]\dfrac{9(9-3)}{2}=\dfrac{9×6}{2}=27[/math]।
+
+খ মোট আমন্ত্রিত ব্যক্তি = [math]12+6=18[/math], তাই মোট করমর্দন = [math]\binom{18}{2}=153; বন্ধু-ও-পারিবারিক সদস্যের মাজখানে করমর্দনের সংখ্যাটি হল বন্ধু সংখ্যা গুণিতক পারিবারিক সংখ্যা = [math]12×6=72।
+
+গ ছয়জন পারিবারিক আত্মীয় থেকে [math]5[/math]টি আসন পূর্ণ করার উপায় হলে নির্বাচন ও বিন্যাস, অর্থাৎ পারমুটেশন [math]_6P_5=6×5×4×3×2=720[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 472566)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কলেজের বার্ষিক ক্রীড়া প্রতিযোগিতা পরিচালনার জন্য পুরস্কার ক্রয় কমিটিতে [math]5[/math] জন, অতিথি আপ্যায়নে [math]4[/math] জন এবং শৃঙ্খলা রক্ষার দায়িত্বে [math]3[/math] জন লোক নিয়োজিত ।
+
+Options:
+ক. [math]7 \times{ }^{n} P_{3}={ }^{n+1} P_{4}[/math] হলে [math]n[/math] এর মান নির্ণয় কর।
+খ. উক্ত বার্ষিক ক্রীড়া সুষ্ঠুভাবে পরিচালনার্থে প্রত্যেক কমিটি থেকে অন্তত:পক্ষে [math]1[/math] জন অন্তর্ভুক্ত রেখে [math]6[/math] জন সদস্যের কমিটি কতভাবে বাছাই করা যায়?
+গ. কমপক্ষে আপ্যায়ন কমিটির [math]2[/math] জন এবং শৃঙ্খলা কমিটির [math]1[/math] জনকে অন্তর্ভুক্ত রেখে [math]7[/math] জনের দল কতভাবে গঠন করা যাবে?
+
+
+Correct Answer: 
+
+Solution:
+কপ্রশ্নমতে, [math]7 \times{ }^{n} P_{3}={ }^{n+1} P_{4}[/math]
+ [math]\begin{array}{l}= 7 \frac{n !}{(n-3) !}=\frac{(n+1) !}{(n+1-4) !} \\= 7 \frac{n !}{(n-3) !}=\frac{(n+1) n !}{(n-3) !} \\= 7=n+1 \\\therefore n=6 \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ খপ্রত্যেক কমিটি থেকে অন্ততপক্ষে 1 জন অন্তর্ভুক্ত রেখে [math]6[/math]
+ জনসদস্যের দল নিম্নলিখিত ধাপে সাজানো যায়ধাপ [math]\quad \quad[/math]
+ পুরস্কার ব্রুয় (5 জন) [math]\quad \quad[/math]
+ অতিথি আপ্যায়ন (4 জন) [math]\quad \quad[/math]
+ শৃঙ্খলা (3 জন)i [math]\quad \quad \quad \quad \quad \quad 4[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+ii [math]\quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+iii [math]\quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+iv [math]\quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 4[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+v [math]\quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+vi [math]\quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+vii [math]\quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+viii [math]\quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ix [math]\quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ধাপ (i) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} \mathrm{C}_{4} \times{ }^{4} \mathrm{C}_{1} \times{ }^{3} \mathrm{C}_{1}=60[/math]
+ধাপ (ii) এ কমিটি গঠনের উপায়ের সংখ্যা = C3 x 4CQ x 3C = 180ধাপ (iii) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} \mathrm{C}_{3} \times{ }^{4} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{1}=180[/math]
+ধাপ (iv) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} \mathrm{C}_{2} \times{ }^{4} \mathrm{C}_{3} \times{ }^{3} \mathrm{C}_{1}=120[/math]
+ধাপ (v) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} C_{1} \times{ }^{4} C_{2} \times{ }^{3} C_{3}=30[/math]
+ধাপ (vi) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} \mathrm{C}_{2} \times{ }^{4} \mathrm{C}_{1} \times{ }^{3} \mathrm{C}_{3}=40[/math]
+ধাপ (vii) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} \mathrm{C}_{2} \times{ }^{4} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{2}=180[/math]
+ধাপ (viii) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} \mathrm{C}_{1} \times{ }^{4} \mathrm{C}_{3} \times{ }^{3} \mathrm{C}_{2}=60[/math]
+ধাপ (ix) এ কমিটি গঠনের উপায়ের সংখ্যা [math]={ }^{5} \mathrm{C}_{3} \times{ }^{4} \mathrm{C}_{1} \times{ }^{3} \mathrm{C}_{2}=120[/math]
+ [math]\therefore[/math]
+ কমিটি গঠনের মোট উপায়ের সংখ্যা [math]= 805[/math]
+ (Ans. )[math]\\[/math]
+ গকমপক্ষে আপ্যায়ন কমিটির 2 জন এবং শৃঙ্খলা কমিটির 1 জনকেঅন্তর্ভুক্ত রেখে নিম্নলিখিত উপায়ে 7 জনের দল গঠন করা যায়:ধাপ, আপ্যায়ন কমিটি (4 জন) ) [math]\quad[/math]
+পুরস্কার ক্রয় (5 জন ) [math]\quad[/math]
+শৃঙ্খলা কমিটি( 3 জন)i [math]\quad \quad \quad \quad \quad \quad 4[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+ii [math]\quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+iii [math]\quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+iv [math]\quad \quad \quad \quad \quad \quad 4[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 0[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+v [math]\quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 4[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+vi [math]\quad \quad \quad \quad \quad \quad 2[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+vii [math]\quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+viii [math]\quad \quad \quad \quad \quad \quad 3[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 3[/math]
+ix [math]\quad \quad \quad \quad \quad \quad 4[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 1[/math]
+ [math]\quad \quad \quad \quad \quad \quad \quad \quad \quad 2[/math]
+ধাপ (i) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{4} \times{ }^{5} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{1}=30[/math]
+ধাপ (ii) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{3} \times{ }^{5} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{2}=120[/math]
+ধাপ (ii) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{2} \times{ }^{5} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{3}=60[/math]
+ধাপ (iv) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{4} \times{ }^{5} \mathrm{C}_{0} \times{ }^{3} \mathrm{C}_{3}=1[/math]
+ধাপ (v) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{2} \times{ }^{5} \mathrm{C}_{4} \times{ }^{3} \mathrm{C}_{1}=90[/math]
+ধাপ (vi) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{2} \times{ }^{5} \mathrm{C}_{3} \times{ }^{3} \mathrm{C}_{2}=180[/math]
+ধাপ (vii) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{3} \times{ }^{5} \mathrm{C}_{3} \times{ }^{3} \mathrm{C}_{1}=120[/math]
+ধাপ (viii) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{3} \times{ }^{5} \mathrm{C}_{1} \times{ }^{3} \mathrm{C}_{3}=20[/math]
+ধাপ (ix) এ দল গঠনের সমাবেশ সংখ্যা [math]={ }^{4} \mathrm{C}_{4} \times{ }^{5} \mathrm{C}_{1} \times{ }^{3} \mathrm{C}_{2}=15[/math]
+দল গঠনের মোট সমাবেশ সংখ্যা [math]= 636.[/math]
+ (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+ক [math]{}^{n}P_{3}=n(n-1)(n-2)[/math] এবং [math]{}^{n+1}P_{4}=(n+1)n(n-1)(n-2)[/math] হওয়ায় [math]7\,n(n-1)(n-2)=(n+1)n(n-1)(n-2)[/math] এবং সাধারণ ভগ্নাংশগুলো বাতিল করলে [math]7=n+1\Rightarrow n=6[/math].
+
+খ মোট [math]\binom{12}{6}[/math] থেকে কোন একটি কমিটি শূন্য থাকা ক্ষেত্রে বাদ দিলে মোট হবে inclusion–exclusion অনুযায়ী [math]\binom{12}{6}-\binom{7}{6}-\binom{8}{6}-\binom{9}{6}=924-7-28-84=805[/math] উপায়।
+
+গ প্রতি সম্ভাব্য [math]h(=2\text{ থেকে }4),\ d(=1\text{ থেকে }3)[/math] অনুযায়ী [math]p=7-h-d[/math] রেখে গণনা করলে প্রতিটি ক্ষেত্রে সংখ্যা গুণে যোগ করলে মোট হয় [math]330+260+46=636[/math] উপায়।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 472567)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১ঃ কোনো পরীক্ষায় [math]A[/math] সেটে [math]6[/math]টি প্রশ্ন ও [math]B[/math] সেটে [math]4[/math]টি প্রশ্ন রয়েছে।
+
+দৃশ্যকল্প-২ঃ একজন মহিলা 'শপিং মলে গিয়ে [math]20[/math]টি রাজশাহী সিল্ক, [math]15[/math]টি চুমকি কাতান, [math]10[/math]টি প্রাইড ও [math]5[/math]টি চন্দ্রবিন্দু ব্র্যান্ডের শাড়ি পছন্দ করলেন।
+
+Options:
+ক. একজন পরীক্ষার্থী কতভাবে ওটি প্রশ্নের উত্তর করতে পারবে যেখানে [math]B[/math] সেট হতে ঠিক [math]2[/math]টি প্রশ্ন উত্তর করা লাগবে ?
+খ. যদি [math]B[/math] সেটের প্রতিটি প্রশ্নের বিকল্প প্রশ্ন থাকে, তবে পুরো প্রশ্নপত্র থেকে কতভাবে এক বা একাধিক প্রশ্নের উত্তর দেয়া যায়?
+গ. মহিলাটি কতভাবে এক বা একাধিক শাড়ি বাছাই করতে পারেন?
+
+
+Correct Answer: 
+
+Solution:
+কB সেটের [math]4[/math]
+টি প্রশ্ন থেকে ঠিক 2টি বাছাই করতে পারবে [math]={ }^{4} \mathrm{C}_{2}[/math]
+উপায়ে।বাকী 1টি প্রশ্ন A সেটের 6টি থেকে বাছাই করতে পারবে [math]{ }^{6} \mathrm{C}_{1}[/math]
+ উপায়ে।সুতরাং 3 টি প্রশ্নের উত্তর দিতে পারবে মোট [math]={ }^{4} \mathrm{C}_{2} \times{ }^{6} \mathrm{C}_{1}[/math]
+ [math]= 36[/math]
+ উপায়ে (Ans)[math]\\[/math]
+ খB সেটের প্রতিটি প্রশ্নের বিকল্প থাকাতে যে কোন একটি প্রশ্ন 3উপায়ে (প্রথম প্রশ্ন উত্তর করে বা দ্বিতীয় প্রশ্ন উত্তর করে বাকোনটিই উত্তর না দিয়ে) বাছাই করতে পারে ।সুতরাং 4টি প্রশ্ন উত্তর দিতে পারবে [math]3^{4}[/math]
+ উপায়ে ।আবার, A সেট থেকে যে কোন একটি প্রশ্ন 2 উপায়ে (প্রশ্নটিউত্তর করে বা না করে) বাছাই করতে পারে ।[math]\therefore 6[/math]
+ টি প্রশ্ন উত্তর দিতে পারবে [math]2^{6}[/math]
+ উপায়ে ।সুতরাং এক বা একাধিক প্রশ্নের উত্তর করার উপায়[math]=2^{6} \times 3^{4}-1=5183 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গচন্দ্রবিন্দুর 5টি শাড়ি বাছাই করতে পারে 0টি, 1টি, 2টি, 3টি, 4টি বা, 5টি।সুতরাং চন্দ্রবিন্দু বাছাই করা যায় [math]= (5 + 1) = 6[/math]
+ উপায়ে[math]\therefore[/math]
+ রাজশাহী সিল্ক বাছাই করা যায় [math]= (20 + 1) = 21[/math]
+ উপায়ে ।চুমকি কাতান বাছাই করা যায় [math]= (15 + 1) = 16[/math]
+ উপায়েপ্রাইড বাছাই করা যায় [math]= (10 + 1) = 11[/math]
+ উপায়ে[math]\therefore[/math]
+ মহিলাটি এক বা একাধিক শাড়ি বাছাই করতে পারে[math]=6 \times 21 \times 16 \times 11-1[/math]
+ [math]= 22175[/math]
+ উপায়ে (Ans)
+
+Explanation:
+ক A সেট থেকে বাকিটা হলে সবগুলোই লাগবে, তাই B সেট থেকে ঠিক [math]2[/math]টি বাছাই করার উপায় [math]\binom{4}{2}[/math] এবং A থেকে সব [math]6[/math]টি নেওয়ার উপায় [math]\binom{6}{6}=1[/math], সুতরাং মোট [math]\binom{4}{2}=6[/math] উপায়।
+
+খ A’র প্রতি প্রশ্নে দুইটি সম্ভাবনা (উত্তর বা না), আর B-এর প্রতিটি প্রশ্নে তিনটি সম্ভাবনা (মূল, বিকল্প বা না); সুতরাং মোট [math]2^{6}\times 3^{4}[/math] উপায়, তবে একটিও না নেওয়ার ক্ষেত্র বাদ দিলে উত্তর [math]2^{6}3^{4}-1[/math]।
+
+গ মোট [math]20+15+10+5=50[/math] ভিন্ন শাড়ি, প্রতিটি শাড়ি নেওয়া/না নেওয়া—মোট [math]2^{50} উপায়, তবে একটিও না নেওয়া বাদ দিলে [math]2^{50}-1[/math] উপায়।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 472568)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আমাদের দেশের [math]\text { 'POPULATION' }[/math] বর্তমানে প্ৰায় [math]159308600[/math] জন যা দেশের জন্য খুবই উদ্বেগজনক।
+
+Options:
+ক. [math]A=\left[\begin{array}{rrr}0 & -5 & -9 \\5 & 0 & 8 \\9 & -8 & 0\end{array}\right][/math] ম্যাট্রিক্সটির বিপ্রতিসমতা যাচাই কর ।
+খ. উদ্দীপকের শব্দটির স্বরবর্ণগুলো পাশাপাশি না রেখে কতটি ভিন্ন শব্দ গঠন করা যায়?
+গ. উদ্দীপকের সংখ্যাটির অঙ্কগুলো পুনরাবৃত্তি না করে সাত অঙ্কবিশিষ্ট কতগুলো জোড় সংখ্যা গঠন করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+কA ম্যাট্রিক্সটি বিপ্রতিসম হবে যদি [math]\mathrm{A}^{\mathrm{t}}=-\mathrm{A}[/math]
+ হয়।এখন, [math]A^{t}=\left[\begin{array}{rrr}0 & -5 & -9 \\5 & 0 & 8 \\9 & -8 & 0\end{array}\right]^{t}=\left[\begin{array}{rrr}0 & 5 & 9 \\-5 & 0 & -8 \\-9 & 8 & 0\end{array}\right]=-A[/math]
+ [math]\therefore \mathrm{A}[/math]
+ ম্যাট্রিক্সটি বিপ্রতিসম। (Ans.)[math]\\[/math]
+ খউদ্দীপকের শব্দ 'POPULATION' এর 10টি বর্ণের মধ্যে স্বরবর্ণ ও 5টিব্যঞ্জনবর্ণ আছে। আবার 2টি একই স্বরবর্ণ O এবং2টি একই ব্যঞ্জনবর্ণ P আছে।সবগুলো বর্ণ নিয়ে বিন্যাস সংখ্যা [math]=\frac{10 !}{2 ! 2 !}=907200[/math]
+স্বরবর্ণ 5 টিকে একটি বর্ণ বিবেচনা করলে মোট বর্ণ হয় 6 টি।তখন বিন্যাস সংখ্যা [math]=\frac{6 !}{2 !}=360[/math]
+আবার, স্বরবর্ণ 5 টিকে নিজেদের মধ্যে সাজানো যায় [math]\frac{5 !}{2 !}[/math]
+ বা [math]60[/math]
+ প্রকারে।[math]\therefore[/math]
+ স্বরবর্ণগুলো একত্রে রেখে বিন্যাস সংখ্যা [math]=360 \times 60=21600[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণগুলো পাশাপাশি না রেখে ভিন্ন শব্দ গঠন করা যায়[math]=(907200-21600)[/math]
+ টি [math]= 885600[/math]
+ টি (Ans)[math]\\[/math]
+ গযেহেতু উদ্দীপকের সংখ্যাটির অঙ্কগুলো পুনরাবৃত্তি করা যাবে নাসুতরাং সংখ্যা গঠনের জন্য অঙ্কগুলো হবে [math]1, 5, 9, 3, 0, 8[/math]
+ ও [math]6.[/math]
+সাত অঙ্কবিশিষ্ট জোড় সংখ্যার গঠনের ক্ষেত্রে দুইটি শর্ত প্রযোজ্য:(১) শেষ অঙ্ক অবশ্যই [math]0[/math]
+ বা [math]8[/math]
+ বা [math]6[/math]
+ হবে।(২) প্রথম অঙ্কটি [math]'0'[/math]
+ হতে পারবে না।প্রথমতঃ শেষ অঙ্কটি [math]8[/math]
+ ও [math]6[/math]
+ দ্বারা পূরণের উপায় [math]={ }^{2} \mathbf{P}_{1}[/math]
+প্রথম স্থানটি [math]8[/math]
+ অথবা [math]6[/math]
+ ও [math]0[/math]
+ ব্যতীত অবশিষ্ট [math]5[/math]
+টি অঙ্ক দ্বারাপূরণের উপায় [math]{ }^{5} \mathrm{P}_{1}[/math]
+আবার, মাঝের [math]5[/math]
+টি স্থান অবশিষ্ট [math]5[/math]
+টি অঙ্ক দ্বারাপূরণের উপায় [math]={ }^{5} \mathrm{P}_{5}[/math]
+এক্ষেত্রে অর্থপূর্ণ সাত অঙ্কবিশিষ্ট জোড় সংখ্যা[math]={ }^{2} \mathrm{P}_{1} \times{ }^{5} \mathrm{P}_{1} \times{ }^{5} \mathrm{P}_{5}=2 \times 5 \times 120=1200[/math]
+দ্বিতীয়ত শেষ স্থানে [math]'0'[/math]
+ কে নির্দিষ্ট রেখে অবশিষ্ট [math]6[/math]
+টি স্থান [math]6[/math]
+ টিঅঙ্ক দ্বারা পূরণের উপায় [math]={ }^{6} \mathrm{P}_{6}=720[/math]
+ [math]\therefore[/math]
+ নির্ণেয় সাত অঙ্কবিশিষ্ট জোড় সংখ্যা [math]=1200+720=1920(\text { Ans. })[/math]
+
+
+Explanation:
+ক ম্যাট্রিক্সটির বিপ্রতিসমতা যাচাই: [math]A^T=\left[\begin{array}{rrr}0&5&9\\-5&0&-8\\-9&8&0\end{array}\right]=-[math]A[/math], এবং диагোনাল উপাদান শূন্য; তাই [math]A[/math] বিপ্রতিসম (skew-symmetric)।  
+
+খ "উদ্দীপক"–এ মোট অক্ষর [math]6[/math] (দুটি 'দ' সমান), মোট ভিন্ন ক্রমবিন্যাস [math]\frac{6!}{2!}=360[/math]; দুইটি স্বরবর্ণ (উ ও ঈ) পাশাপাশি হলে ব্লক ধরতে পারি, সংখ্যাটি [math]\frac{5!}{2!}\times2=120[/math]; অতএব পাশাপাশি না রেখে গঠন যোগ্য সংখ্যা [math]360-120=240[/math]।  
+
+গ দেওয়া সংখ্যার অঙ্কগুলো হচ্ছে [math]\{0,1,3,5,6,8,9\}[/math] (সাতটি ভিন্ন সংখ্যা); 7-অঙ্কের জোড় সংখ্যার শেষ অঙ্ক হতে হবে [math]0,6,8[/math]। শেষ অঙ্ক [math]0[/math] হলে গৃহীত সংখ্যা [math]6\times5!=720[/math], শেষ অঙ্ক [math]6[/math] বা [math]8[/math] হলে মোট [math]2\times5\times5!=1200[/math]; ফলে মোট [math]720+1200=1920[/math] টি সংখ্যা।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 472560)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মোস্তাফিজুর রহমান বাংলাদেশের একজন সেরা বোলার। তিনি বললেন যে,তাঁর বোলিং অ্যাকশন পুরোপুরি [math]\text { IDIOSYNCRATIC. }[/math]
+
+Options:
+ক. [math]n[/math] ধনাত্মক পূর্ণ সংখ্যা হলে, [math]{ }^{n} P_{n}={ }^{n} P_{n-1}[/math] এর তাৎপর্য কী?
+খ. ইংরেজি শব্দটিতে একাধিকবার রয়েছে এমন বর্ণগুলোকে একত্রে না রেখে কতভাবে সাজানো যেতে পারে ।
+গ. প্রতিবারে যেকোনো [math]5[/math]টি করে বর্ণ নিয়ে শব্দটি দ্বারা কতভাবে শব্দ গঠন করা যেতে পারে?
+
+
+Correct Answer: 
+
+Solution:
+ক [math]{ }^{n} P_{n}=n ![/math]
+ অর্থাৎ‍ n সংখ্যক খালি স্থানে n সংখ্যক ভিন্ন ভিন্ন বস্তুকেসাজানোর মোট উপায়ের সংখ্যা।আবার ঐ n সংখ্যক বস্তুকে [math](n-1)[/math]
+ সংখ্যক খালি জায়গায় সাজাতে গেলে প্রতি বিন্যাসে1টি করে বস্তু বাদ পড়ে। এই একটি বস্তু বাদ পড়তে পারে [math]{ }^{n} C_{1}[/math]
+ উপায়ে।সেক্ষেত্রে মোট বিন্যাস [math]{ }^{n} C_{1} \times(n-1) !=n(n-1) !=n ![/math]
+তাই [math]{ }^{n} P_{n-1}={ }^{n} P_{n}[/math]
+ [math]\\[/math]
+ খIDIOSYNCRATIC শব্দটিতে [math]I, I, I, C, C[/math]
+ এবং অবশিষ্ট ভিন্ন ভিন্ন 8 টি বর্ণ রয়েছে ।[math]I, I, I, C, C[/math]
+ কে একটি বর্ণ বিবেচনা করলে শব্দটিতে মোট বর্ণ 9টি ।9টি বর্ণকে [math]9![/math]
+ উপায়ে সাজানো যেতে পারে।আবার, [math]I, I, I,[/math]
+ [math]C, C[/math]
+ অক্ষরগুলোকে নিজেদের মধ্যে [math]\frac{5 !}{3 ! 2 !}[/math]
+ সংখ্যক উপায়ে সাজানো যায়।তাহলে, [math]I, I, I, C, C[/math]
+ কে একত্রে রেখে শব্দটিকেসাজানো যাবে [math]=9 ! \times \frac{5 !}{3 ! 2 !}[/math]
+ উপায়ে ।আবার, শব্দটিতে মোট 13টি অক্ষর রয়েছে ।তাহলে, শব্দটির মোট বিন্যাস সংখ্যা [math]=\frac{13 !}{3 ! 2 !}[/math]
+ [math]\therefore[/math]
+ একাধিকবার রয়েছে এমন বর্ণগুলিকে একত্রে না রেখে শব্দটিকেসাজানোর উপায় [math]=\frac{13 !}{3 ! 2 !}-9 ! \times \frac{5 !}{3 ! 2 !}[/math]
+ টি [math]= 515289600[/math]
+ টি (Ans)[math]\\[/math]
+ গIDIOSYNCRATIC শব্দটির 13 টি বর্ণের মধ্যে 3 টি 1, 2টি c এবংবাকিগুলি ভিন্ন ভিন্ন। প্রতিবারে 5 টি করে বর্ণ নিয়ে শব্দ গঠনের উপায়:
+[Image]
+
+[Image]
+[math]\therefore[/math]
+ শব্দ গঠনের উপায় [math]= (30240 + 10080 + 720 + 240 + 10)[/math]
+ টি[math]= 41290[/math]
+ টি (Ans.)
+
+Explanation:
+ব্যাখ্যা: খ কারণ "IDIOSYNCRATIC" শব্দটিতে [math]I[/math] তিনবার এবং [math]C[/math] দুইবার এসেছে, তাই একাধিকবার থাকা বর্ণগুলোর পাশাপাশি না থাকার শর্তই সরাসরি প্রাসঙ্গিক। হিসাবের সাধারণ ধারণা: প্রথমে মোট ভিন্ন বিন্যাস [math]\dfrac{13!}{3!2!}[/math] লিখবে এবং পরে পাশাপাশি থাকা ঘটনাগুলোকে গ্রুপ ধরে বাদ দিতে ইনক্লুশন–এক্সক্লুশন বা গ্রুপিং পদ্ধতি প্রয়োগ করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 472561)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন শিক্ষার্থী গণিত বই খুলে [math]234567[/math] সংখ্যাটি দেখতে পেল।
+
+Options:
+ক. [math]{ }^{4 n} P_{3}:{ }^{2 n} P_{2}=2: 1[/math] হলে [math]n[/math] এর মান নির্ণয় করে [math]n[/math] সম্পর্কে মতামত তুলে ধর ।
+খ. উদ্দীপকের সংখ্যাটির ছয়টি অঙ্ক ব্যবহার করে [math]4000[/math] থেকে [math]6000[/math] এর মধ্যে কতটি সংখ্যা তৈরি করা যাবে?
+গ. উদ্দীপকের সংখ্যাটির প্রত্যেকটি অঙ্ককে যদি সে.মি. এককে দৈর্ঘ্যবিশিষ্ট ছয়টি সরলরেখা বিবেচনা করা হয় তবে উক্ত সরলরেখাগুলি দ্বারা উৎপন্ন ত্রিভুজ ও চতুর্ভুজের সংখ্যা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]{ }^{4{ }^{n}} \mathrm{P}_{3} \circ^{2 \mathrm{n}} \mathrm{P}_{2}=2: 1[/math]
+ [math]\begin{array}{l}= 4 n(4 n-1)(4 n-2) \circ 2 n(2 n-1)=2: 1\\= \frac{4 n(4 n-1)(4 n-2)}{2 n(2 n-1)}=\frac{2}{1}\\= 4(4 n-1)(4 n-2)=4(2 n-1)\\= (4 n-1)(4 n-2)=2 n-1\\= 16 n^{2}-12 n+2-2 n+1=0\\=16 n^{2}-14 n+3=0\\= 16 n^{2}-8 n-6 n+3=0\\= 8 n(2 n-1)-3(2 n-1)=0\\= (2 n-1)(8 n-3)=0\\\therefore \mathrm{n}=\frac{1}{2}, \frac{3}{8} \text{.}\end{array}[/math]
+ [math]n[/math]
+ এর মান [math]\frac{1}{2}[/math]
+ অথবা [math]\frac{3}{8}[/math]
+ যা গ্রহণযোগ্য নয় কারণ [math]\mathrm{n} \in \mathbb{N}[/math]
+ [math]\\[/math]
+ খউদ্দীপকের সংখ্যা [math]234567[/math]
+ থেকে ছয়টি অঙ্ক [math]2, 3, 4, 5, 6, 7[/math]
+ কেব্যবহার করে [math]4000[/math]
+ থেকে [math]6000[/math]
+ এর মধ্যে সংখ্যা গঠন করতেহলে [math]4[/math]
+ অথবা [math]5[/math]
+ কে সহস্রের স্থানে নির্দিষ্ট করতে হবে।প্ৰথমে [math]4[/math]
+ কে সহস্রের স্থানে নির্দিষ্ট করে বাকি [math]( 6 – 1) = 5[/math]
+ টি অঙ্কথেকে প্রতিবারই 3 টি অঙ্ক নিয়ে বিন্যাস সংখ্যা [math]{ }^{5} \mathrm{P}_{3}=60[/math]
+অনুরূপভাবে, [math]5[/math]
+ কে সহস্রের স্থানে নির্দিষ্ট করে বাকি [math](6 – 1) = 5[/math]
+ টি অঙ্কথেকে প্রতিবারই 3টি অঙ্ক নিয়ে বিন্যাস সংখ্যা [math]={ }^{5} \mathrm{P}_{3}=60[/math]
+ [math]\therefore[/math]
+ উদ্দীপকের সংখ্যাটির অঙ্কগুলো দ্বারা [math]4000[/math]
+ থেকে [math]6000[/math]
+এর মধ্যে গঠনকৃত সংখ্যার সংখ্যা [math]= 60 + 60 = 120.[/math]
+ (Ans.)[math]\\[/math]
+ গ [math]2, 3, 4, 5, 6, 7[/math]
+ সে.মি. দৈর্ঘ্যবিশিষ্ট রেখা হতে তিনটি করে নিয়েসমাবেশ সংখ্যা [math]={ }^{6} \mathrm{C}_{3}=\frac{6 !}{3 !(6-3) !}=\frac{6 !}{3 ! 3 !}=\frac{6 \cdot 5 \cdot 4 \cdot 3 !}{3 ! \cdot 3 \cdot 2 \cdot 1}=20[/math]
+কিন্তু [math]2, 3, 5[/math]
+ সে.মি., [math]2, 3, 6[/math]
+ সে.মি., [math]2, 3, 7[/math]
+ সে.মি., [math]2, 4, 6[/math]
+ সে.মি.,[math]2, 4, 7[/math]
+ সে.মি.; [math]2, 5, 7[/math]
+ সে.মি.; [math]3, 4, 7[/math]
+ সে.মি. দৈর্ঘ্যবিশিষ্ট সরলরেখাদ্বারা ত্রিভুজ গঠন করা যায় না।[math]\therefore[/math]
+ গঠনকৃত ত্রিভুজের সংখ্যা [math](20 – 7) = 13[/math]
+টি (Ans.)আবার [math]2, 3, 4, 5, 6, 7[/math]
+ সে.মি. দৈর্ঘ্যবিশিষ্ট রেখা হতে চারটি করেনিয়ে সমাবেশ সংখ্যা [math]{ }^{6} \mathrm{C}_{4}=\frac{6 !}{4 !(6-4) !}=\frac{6 !}{4 ! 2 !}=\frac{6 \cdot 5 \cdot 4 !}{4 ! \cdot 2 \cdot 1}=15[/math]
+ টিএক্ষেত্রে সকল সমাবেশেই এক একটি চতুর্ভুজ গঠিত হবে।[math]\therefore[/math]
+ নির্ণেয় চতুর্ভুজ সংখ্যা [math]= 15[/math]
+টি (Ans.)
+
+Explanation:
+ব্যাখ্যা:
+
+ক সমীকরণটিকে লিখলে [math]\dfrac{{}^{4n}P_{3}}{{}^{2n}P_{2}}=\dfrac{4n(4n-1)(4n-2)}{2n(2n-1)}=2[/math] হয়, এটি সরল করলে [math](4n-1)(4n-2)=2n-1[/math] পাওয়া যায় এবং সমাধান হচ্ছে [math]n=\tfrac{1}{2}\ \text{বা}\ n=\tfrac{3}{8}[/math]; কিন্তু n পূর্ণসংখ্যা না হলে বস্তুনিষ্ঠভাবে permutations প্রয়োগ ঠিক নয়, তাই কোনো ধনাত্মক পূর্ণসংখ্যা মান পাওয়া যায় না।
+
+খ [math]4000[/math] থেকে [math]6000[/math] এর মধ্যে হাজারের অংক কেবল [math]4[/math] বা [math]5[/math] হতে পারে (2 বিকল্প), বাকি তিন স্থানে অবশিষ্ট 5টি ভিন্ন অঙ্ক থেকে বিন্যাসের সংখ্যা [math]{}^{5}P_{3}=5\cdot4\cdot3=60[/math], অতএব মোট [math]2\times60=120[/math]টি সংখ্যা সম্ভব।
+
+গ ছয়টি একক দৈর্ঘ্যের সরলরেখা থেকে যেকোন তিনটি নিয়ে ত্রিভুজ করা যায় (কারণ [math]1+1>1[/math]), তাই ত্রিভুজের সংখ্যা [math]\binom{6}{3}=20[/math]; যেকোন চারটি নিয়ে চতুর্ভুজও করা যায় (সবাই একক হলে বড় পাশ ছোট তিনটির যোগফলের চেয়ে ছোট), সুতরাং চতুর্ভুজের সংখ্যা [math]\binom{6}{4}=15[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 472562)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো হোটেলে পরপর সাজানো [math]9[/math]টি কক্ষ রয়েছে। প্রতিটি | কক্ষের দরজায় [math]\text { PASSWORD }[/math] দেয়ার জন্য [math]4[/math]টি করে [math]RING[/math] | রয়েছে। প্রতিটি [math]RING[/math] এ [math]0, 1, 2, 3, 6, 7, 8, 9[/math] অঙ্কগুলো রয়েছে। যে কোনো দরজায় [math]PASSWORD[/math] রাখলেও চলবে, না রাখলেও চলবে।
+
+Options:
+ক. উদ্দীপকের অঙ্কগুলির একটিকেও পুনরাবৃত্তি না করে [math]6000[/math] থেকে [math]8000[/math] এর মধ্যবর্তী কতগুলি সংখ্যা গঠন করা যায়?
+খ. উদ্দীপকের অঙ্কগুলিকে প্রত্যেক সংখ্যায় কেবল একবার ব্যবহার করে ছয় অঙ্কবিশিষ্ট কতগুলি অর্থপূর্ণ জোড় সংখ্যা গঠন করা যায়?
+গ. উদ্দীপকের [math]\text { RINGPASSWORD }[/math] শব্দটির বর্ণগুলি থেকে প্রতিবার 4টি বর্ণ নিয়ে কতগুলি ভিন্ন ভিন্ন শব্দ গঠন করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+ক [math]0, 1, 2, 3, 6, 7, 8, 9[/math]
+ অঙ্কগুলির একটিকেও পুনরাবৃত্তি না করে[math]6000[/math]
+ থেকে [math]8000[/math]
+ এর মধ্যবর্তী সংখ্যা গঠন করতে হলে অবশ্যইশুরুতে [math]6[/math]
+ অথবা [math]7[/math]
+ থাকতে হবে।[math]\therefore[/math]
+ নির্ণেয় বিন্যাস সংখ্যা [math]={ }^{2} \mathrm{P}_{1} \times{ }^{7} \mathrm{P}_{3}=2 \times 210=420 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খছয় অঙ্কবিশিষ্ট জোড় সংখ্যা গঠন করতে হলে একক স্থানেঅবশ্যই [math]0, 2, 6[/math]
+ অথবা [math]8[/math]
+ থাকতে হবে।একক স্থানে [math]0[/math]
+ রেখে অবশিষ্ট 7টি অঙ্ককে 5 টি স্থানে সাজানোরউপায় [math]={ }^{7} \mathrm{P}_{5}=2520[/math]
+ [math]2, 6,[/math]
+ বা, [math]8[/math]
+ বসানো যায় [math]{ }^{3} \mathrm{P}_{1}=3[/math]
+ উপায়ে১ম স্থানে [math]2, 6[/math]
+ বা [math]8[/math]
+ এবং [math]0[/math]
+ বাদে অপর 6 টি অঙ্ক হতে একটিবসানো যায় [math]{ }^{6} \mathrm{P}_{1}=6[/math]
+ উপায়েঅবশিষ্ট 6 টি অঙ্ক হতে 4টি স্থানে পূরণ করা যায় [math]{ }^{6} \mathrm{P}_{4}[/math]
+ উপায়ে।[math]\therefore[/math]
+ শেষে [math]2, 6[/math]
+ বা [math]8[/math]
+ রেখে মোট বিন্যাস [math]=3 \times 6 \times{ }^{6} \mathrm{P}_{4}=6480[/math]
+ [math]\therefore[/math]
+ নির্ণেয় জোড় সংখ্যা [math]=2520+6480=9000 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গRINGPASSWORD শব্দটিতে মোট [math]12[/math]
+ টি বর্ণ আছে।যার মধ্যে [math]2[/math]
+টি [math]R, 2[/math]
+ টি [math]S[/math]
+ এবং অবশিষ্ট বর্ণগুলি ভিন্ন ।(i) 10টি ভিন্ন বর্ণ হতে 4টি বর্ণ নিয়ে গঠিত বিন্যাস সংখ্যা [math]={ }^{10} \mathrm{P}_{4}=5040[/math]
+(ii) . দুইজোড়া এক জাতীয় বর্ণ থেকে এক জোড়া এবং 9 টি ভিন্ন বর্ণহতে 2টি বর্ণ নিয়ে গঠিত বিন্যাস সংখ্যা [math]={ }^{2} \mathrm{C}_{1} \times{ }^{9} \mathrm{C}_{2} \times \frac{4 !}{2 !}[/math]
+ [math]=2 \times 36 \times 12=864[/math]
+(iii) দুইজোড়া একজাতীয় বর্ণ নিয়ে বিন্যাস সংখ্যা [math]={ }^{2} C_{2} \times \frac{4 !}{2 ! 2 !}=6[/math]
+ [math]\therefore[/math]
+ নির্ণেয় শব্দ গঠন সংখ্যা [math]=5040+864+6=5910 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক প্রথম অঙ্ককে শুধুমাত্র [math]6[/math] বা [math]7[/math] করা যাবে (২টি), বাকী তিনটি অঙ্ক বাকি [math]7[/math]টি সংখ্যার মধ্যে থেকে পুনরাবৃত্তি বিহীনভাবে বসবে, তাই মোট [math]2\times P(7,3)=2\times7\times6\times5=420[/math] টি সংখ্যা হয়।
+
+খ শেষ অঙ্ক অবশ্যই জোড় (সম্ভব: [math]0,2,6,8[/math]) — দুটি কেস: (i) শেষ অঙ্ক [math]\neq0[/math] (৩ভাবে), প্রথম অঙ্ক ০ নয় তাই [math]6[/math] ভাবে, বাকী চারটি স্থান [math]P(6,4)=360[/math] ভাবে: [math]3\times6\times360=6480[/math]; (ii) শেষ অঙ্ক [math]=0[/math] (১ভাবে), প্রথম অঙ্ক ৭ভাবে, বাকী [math]360[/math] ভাবে: [math]1\times7\times360=2520[/math]; মোট [math]6480+2520=9000[/math] টি।
+
+গ "RINGPASSWORD"-এ মোট ভিন্ন অক্ষর [math]10[/math] টি কিন্তু [math]R,S[/math] একেকটি দুবার আছে; ৪ অক্ষরের শব্দগুলোর জন্য: (i) সব ভিন্ন: [math]P(10,4)=5040[/math]; (ii) একটি অক্ষর (R বা S) দ্বিগুণ ও বাকি দুটো ভিন্ন: [math]2\times C(9,2)\times\frac{4!}{2!}=864[/math]; (iii) দুইটি জোড় (R ও S দুটোই দ্বিগুণ): [math]\frac{4!}{2!2!}=6[/math]; মোট [math]5040+864+6=5910[/math] টি ভিন্ন শব্দ।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 472563)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বাংলাদেশের একমাত্র রাষ্ট্রীয় মোবাইল ফোন সেবাদানকারী প্রতিষ্ঠান [math]\text { Teletalk Bangladesh Limited }[/math] এর অপারেটর কোড [math]015[/math] এবং বাংলাদেশের মোবাইল ফোন নম্বরগুলি [math]11[/math] অঙ্কবিশিষ্ট ।
+
+Options:
+ক. বিন্যাস ও সমাবেশের মধ্যে কোন প্রক্রিয়ায় মোবাইল ফোন নম্বর তৈরি করা হয়?
+খ. [math]\text { Teletalk Bangladesh Limited }[/math] সর্বোচ্চ কতজন গ্রাহককে সেবা দিতে পারবে, যাতে প্রতিটি ফোন নম্বরের চতুর্থ অঙ্ক [math]5[/math] হয় ।
+গ. যদি শেষ [math]4[/math]টি একই অঙ্কবিশিষ্ট ফোন নম্বরগুলিকে বিশেষ ফোন নম্বর বিবেচনায় বিক্রয় না করে তবে, [math]\text { Teletalk Bangladesh Limited }[/math] বর্তমান ব্যবস্থায় সর্বোচ্চ কতজন গ্রাহককে সংযোগ দিতে পারবে?
+
+
+Correct Answer: 
+
+Solution:
+কবিন্যাসের ক্ষেত্রে ক্রম পরিবর্তন হলে বিন্যাসের উপায়ের সংখ্যাওপরিবর্তিত হবে। কিন্তু সমাবেশের ক্ষেত্রে ক্রম পরিবর্তন হলেওসমাবেশের উপায়ের সংখ্যা অপরিবর্তিত থাকে ।মোবাইল ফোন নম্বরের প্রতিটি অঙ্কের অবস্থানের পরিবর্তনেরফলে নম্বরও পরিবর্তিত হয়। অর্থাৎ প্রতিটি অঙ্কের ক্রম পরিবর্তিতহলে ফোন নম্বরও পরিবর্তিত হয়। তাই মোবাইল ফোন নম্বর তৈরিহয় বিন্যাস প্রক্রিয়ায় ।[math]\\[/math]
+ খফোন নম্বরগুলো 11 অঙ্ক বিশিষ্ট এবং প্রথম তিনটি স্থানে কোড[math]015[/math]
+ এবং চতুর্থ স্থানে 5 আছে। তাহলে বাকি স্থানগুলোর প্রতিটিস্থান [math]10[/math]
+টি অঙ্ক দিয়ে পূরণ করা যাবে [math]10[/math]
+ ভাবে।সুতরাং বাকি [math]7[/math]
+ টি স্থান 10টি অঙ্ক দিয়ে পূরণ করা যাবে[math]10 \times 10 \times 10 \times 10 \times 10 \times 10 \times 10[/math]
+ ভাবে [math]=10^{7}[/math]
+ ভাবে।[math]\therefore[/math]
+ Teletalk Bangladesh Limited প্রতিটি ফোন নম্বরের চতুর্থ অঙ্কে রেখে সর্বোচ্চ [math]=10^{7}[/math]
+ জনগ্রাহককে সেবা দিতে পারবে। (Ans)[math]\\[/math]
+ গমোবাইল ফোন নম্বর 11 অঙ্ক বিশিষ্ট হওয়ায় এর প্রথম তিনটিঅঙ্ক কোড নম্বর দিয়ে পূরণ করার পর অবশিষ্ট স্থানগুলোরপ্রতিটি স্থান [math]10[/math]
+ টি অঙ্ক দিয়ে পূরণ করা যাবে [math]10[/math]
+ ভাবে ।[math]\therefore 10[/math]
+ টি অঙ্ক দিয়ে বাকি [math]8[/math]
+ টি স্থান [math]10^{8}[/math]
+ ভাবে পূরণ করা যাবে।শেষ [math]4[/math]
+ টি অঙ্ক একই রকম বিবেচনা করলে মোট স্থানসংখ্যা [math](4 + 1) = 5[/math]
+ টি, যা পূরণ করা যাবে [math]10^{5}[/math]
+ ভাবে।সুতরাং Teletalk Bangladesh Limited বর্তমান ব্যবস্থায় সর্বোচ্চ[math]10^{8}-10^{5}[/math]
+ জন গ্রাহককে সংযোগ দিতে পারবে যদি শেষ 4টি অঙ্কএকই এরূপ নম্বর বিশেষ বিবেচনায় বিক্রয় না করে। (Ans.)
+
+Explanation:
+ক মোবাইল নম্বরে অঙ্কগুলোর স্থান পরিবর্তনের ফলে সম্পূর্ণ ভিন্ন নম্বর আসে, তাই এটি বিন্যাস (order matters) — বিন্যাস পদ্ধতিতে তৈরি হয়।  
+খ প্রথম [math]3[/math] অঙ্ক [math]015[/math] স্থির ও চতুর্থ অঙ্ক [math]5[/math] হওয়ায় বাকি [math]7[/math] অঙ্ক сваধী্ন, তাই সম্ভাব্য নম্বর = [math]10^7 = 10{,}000{,}000[/math] জন।  
+গ মোট সম্ভব নম্বর ছিল [math]10^8[/math]; শেষ [math]4[/math] অঙ্ক একই হলে সংখ্যা হয় [math]10^4\times 10=10^5[/math] টি, সুতরাং বিক্রয়যোগ্য সর্বাধিক = [math]10^8-10^5=99{,}900{,}000[/math] জন।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 472558)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\text { BANGLABAZAR }[/math] ঢাকার একটি প্রসিদ্ধ স্থান ।
+
+Options:
+ক. [math]8 !, 2^{n}[/math] দ্বারা বিভাজ্য হলে [math]n_{\max }=[/math] কত?
+খ. যেকোনো একটি স্বরবর্ণকে ১ম স্থানে রেখে উদ্দীপকের ইংরেজি শব্দটিকে পুনরায় কতভাবে সাজানো যেতে পারে?
+গ. প্রতিবারে যেকোনো [math]4[/math]টি বর্ণ নিয়ে ইংরেজি শব্দটির বিন্যাস সংখ্যা নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\begin{aligned}8 ! & =8 \cdot 7 \cdot 6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 \\& =2^{3} \cdot 7^{1} \cdot(2 \times 3) \cdot 5^{1} \cdot 2^{2} \cdot 3^{1} \cdot 2^{1}=2^{7} \cdot 3^{2} \cdot 5^{1} \cdot 7^{1}\end{aligned}[/math]
+অর্থাৎ [math]8 ![/math]
+ সর্বোচ্চ [math]2^{\mathrm{n}}[/math]
+ দ্বারা বিভাজ্য হলে, n এর সর্বোচ্চ মান হতেপারে 7 (Ans)[math]\\[/math]
+ খBANGLABAZAR শব্দটিতে 4টি A এবং 7টি ব্যঞ্জনবর্ণ রয়েছে,যেখানে আবার 2টি B আছে। যেকোনো 1টি স্বরবর্ণকে ১ম স্থানেরাখতে হবে। স্বরবর্ণ A কে ১ম স্থানে 1 উপায়ে রাখা যায় এবংতার সাথে শেষের 10টি ঘর [math]A, A, A, B, B, N, G, L, Z, R[/math]
+দ্বারা [math]\frac{10 !}{3 ! 2 !}[/math]
+ সংখ্যক উপায়ে পূরণ করা যায় ।অর্থাৎ যেকোনো 1টি স্বরবর্ণকে ১ম স্থানে রেখে শব্দটিকে পুনরায়সাজানো যেতে পারে [math]=1 \times \frac{10 !}{3 ! 2 !}[/math]
+ উপায়ে [math]= 302400[/math]
+ উপায়ে (Ans)[math]\\[/math]
+ গBANGLABAZAR শব্দটিতে মোট 11টি বর্ণ আছে যেখানে4 টি A, 2টি B এবং বাকিগুলি ভিন্ন ভিন্ন ।প্রতিবারে 4টি করে বর্ণ নিয়ে শব্দ গঠনের উপায় নিম্নরূপ :
+[Image]
+প্রতিবারে 4টি করে বর্ণ নিয়ে বিন্যাস সংখ্যা[math]=(840+180+180+24+1+6)[/math]
+ টি [math]= 1231[/math]
+ টি। (Ans)
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]8![/math]-এর মধ্যে 2-এর ঘাতের সর্বোচ্চ ধারা নির্ণয়ে Legendre সূত্র প্রয়োগ করলে [math]\lfloor8/2\rfloor+\lfloor8/4\rfloor+\lfloor8/8\rfloor=4+2+1=7[/math], তাই [math]n_{\max}=7[/math]।
+
+খ শব্দটিতে মোট ১১টি বর্ণ আছে: [math]A^4,B^2,N,G,L,Z,R[/math] (মোট ৭ ধরনের); একটি স্বরবর্ণ (A) প্রথম স্থানে রাখলে বাকি ১০টি বর্ণকে পুনরায় সাজানোর সংখ্যা হবে [math]\dfrac{10!}{3!\,2!}=[/math][math]302400[/math]।
+
+গ ৪-বর্ণের বিন্যাস গণনায় ধরেরে ভাগ করে গোনা যায়: (i) ৪টি ভিন্ন: [math]\binom{7}{4}\times4!=840[/math], (ii) এক জোড়া + দুই ভিন্ন: [math]2\times\binom{6}{2}\times\dfrac{4!}{2!}=360[/math], (iii) দুই জোড়া (A ও B): [math]\dfrac{4!}{2!2!}=6[/math], (iv) তিন একই + এক ভিন্ন (শুধু A তে সম্ভব): [math]6\times4=24[/math], (v) চারটি একই (AAAA): [math]1[/math]; মোট [math]840+360+6+24+1=1231[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 472559)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\text { PROPER EDUCATION }[/math] উন্নত জাতি গঠনে কার্যকর ভূমিকা পালন করে।
+
+Options:
+ক. [math]20[/math] সদস্য বিশিষ্ট একটি ফুটবল দল থেকে একজন অধিনায়ক ও একজন সহ-অধিনায়ক কতভাবে নির্বাচন করা যায়?
+খ. উদ্দীপকের দ্বিতীয় ইংরেজি শব্দটির স্বরবর্ণগুলি একত্র না রেখে কতভাবে বিন্যাস করা যায় তা নির্ণয় কর।
+গ. উদ্দীপকের প্রথম ইংরেজি,শব্দটি হতে [math]4[/math]টি করে বর্ণ নিয়ে কতগুলি শব্দ গঠন করা যায় তা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কঅধিনায়ক নির্বাচন করা যায় [math]={ }^{20} \mathrm{C}_{1}[/math]
+ উপায়েসহ-অধিনায়ক নির্বাচন করা যায় [math]={ }^{20-1} \mathrm{C}_{1}={ }^{19} \mathrm{C}_{1}[/math]
+ উপায়ে[math]\therefore[/math]
+ মোট নির্বাচন সংখ্যা [math]={ }^{20} \mathrm{C}_{1} \times{ }^{19} \mathrm{C}_{1}=380[/math]
+ [math]\\[/math]
+ খEDUCATION শব্দটিতে 9 টি ভিন্ন ভিন্ন বর্ণের মধ্যে স্বরবর্ণ 5টি এবং ব্যঞ্জনবর্ণ 4টি ।সবগুলি বর্ণ একত্রে' নিয়ে বিন্যাস সংখ্যা [math]=9 !=362880[/math]
+এখন স্বরবর্ণ [math]5[/math]
+ টিকে একটি বর্ণ বিবেচনা করলে মোট বর্ণসংখ্যা 5টি।এই 5টি বর্ণকে [math]5! = 120[/math]
+ উপায়ে বিন্যাস করা যায়।আবার স্বরবর্ণ [math]5[/math]
+ টি নিজেদের মধ্যে [math]5! = 120[/math]
+ উপায়ে বিন্যাস করা যায় ।[math]\therefore[/math]
+ স্বরবর্ণ 5টিকে একত্রে রেখে মোট বিন্যাস সংখ্যা[math]=120 \times 120=14400[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণগুলি একত্র না রেখে বিন্যাস সংখ্যা [math]= 362880 – 14400[/math]
+ [math]= 348480[/math]
+ (Ans.)[math]\\[/math]
+ গPROPER শব্দটির 6 টি বর্ণের মধ্যে 2টি P ও 2টি R রয়েছে।শব্দটি থেকে নিম্নোক্ত উপায়ে 4 টি বর্ণ বাছাই করা যায়।(i) 4 টি বর্ণই ভিন্ন ভিন্ন । এক্ষেত্রে শুধুমাত্র একটি উপায়ে বাছাই করা যায় ।বর্ণগুলির বিন্যাস দ্বারা শব্দ সংখ্যা [math]= 4! = 24[/math]
+(ii) দুই জোড়া একজাতীয় বর্ণ হতে এক জোড়া এবং অন্য দুইটি ভিন্ন বর্ণ ।বর্ণগুলির বিন্যাস দ্বারা শব্দ সংখ্যা [math]={ }^{2} \mathrm{C}_{1} \times{ }^{3} \mathrm{C}_{2} \times \frac{4 !}{2 !}=72[/math]
+(iii) একজাতীয় বর্ণ জোড়াদ্বয় নিয়ে অর্থাৎ 2টি P ও 2টি R নিয়ে বাছাই সংখ্যা [math]= 1.[/math]
+এক্ষেত্রে বিন্যাস দ্বারা শব্দ সংখ্যা [math]=\frac{4 !}{2 ! 2 !}=6[/math]
+ [math]\therefore[/math]
+ মোট শব্দ সংখ্যা [math]=24+72+6=102 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক অধিনায়ক ও সহ-অধিনায়ক ভুমিকা ভিন্ন হওয়ায় প্রথমে একজন অধিনায়ক [math]20[/math]ভাবে বেছে নিয়ে বাকিদের থেকে সহ-অধিনায়ক [math]19[/math]ভাবে চাওয়া যায়, মোট [math]20\times19=380[/math] উপায়।
+
+খ "EDUCATION" এ মোট [math]9[/math]টি অক্ষর এবং স্বরবর্ণ [math]5[/math]টি; মোট বিন্যাস [math]9![/math], যদি সব স্বরবর্ণ একত্রে থাকে তা হলে ব্লক হিসেবে [math]5!\times5![/math]টি; অতএব একত্র না রেখে বিন্যাসের সংখ্যা [math]9!-5!\times5!=362880-14400=348480[/math]।
+
+গ "PROPER" এর অক্ষরগুচ্ছ {P:2, R:2, O:1, E:1}; ৪-বর্ণ শব্দ গঠনের ক্ষেত্রে (ক) সব ভিন্ন: [math]4!=24[/math], (খ) একটি অক্ষর দ্বিগুণ (P বা R): [math]2\times\binom{3}{2}\times\frac{4!}{2!}=72[/math], (গ) দুইটি অক্ষর প্রত্যেকে দ্বিগুণ (P ও R): [math]\frac{4!}{2!2!}=6[/math]; মোট [math]24+72+6=102[/math] টি।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 472557)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\text { ARGENTINA }[/math] এবং [math]\text { BRAZIL }[/math] বিশ্ব ফুটবলের দুই খ্যাতিমান দেশ ।
+
+Options:
+ক. [math]{ }^{n} P_{r}=24[/math] এবং [math]{ }^{n} C_{r}=4[/math] হলে [math]n[/math] ও [math]r[/math] এর মান বের কর।
+খ. স্বরবর্ণগুলি একত্রে না রেখে উদ্দীপকের প্রথম ইংরেজি শব্দটির বর্ণগুলি কতভাবে সাজানো যায় নির্ণয় কর।
+গ. দেখাও যে, উদ্দীপকের ইংরেজি শব্দ দুইটির সবগুলি বর্ণ একত্রে নিয়ে সাজানোর বিন্যাস সংখ্যার অনুপাত [math]7 : 2[/math] যেখানে, ১ম শব্দটির প্রথমে ও শেষে [math]A[/math] থাকবে ।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]{ }^{n} P_{r}=\frac{n !}{(n-r) !}=24 \ldots \ldots \ldots \text { (i) }[/math]
+এবং [math]{ }^{n} C_{r}=\frac{n !}{r !(n-r) !}=4 \ldots \ldots \ldots[/math]
+ (ii)[math]\text { (i) } \div \text { (ii) }[/math]
+ করে পাই, [math]\frac{n !}{(n-r) !} \times \frac{r !(n-r) !}{n !}=\frac{24}{4}[/math]
+ [math]\begin{array}{l}= r !=6 \\= r !=3 ! \\\therefore r=3 \text { (Ans.) }\end{array}[/math]
+আবার, [math]{ }^{n} P_{r}=24[/math]
+ [math]= { }^{n} \mathrm{P}_{3}={ }^{4} \mathrm{P}_{3} \therefore \mathrm{n}=4 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খARGENTINA শব্দটিতে মোট 9 টি বর্ণ আছে। এর মধ্যে 2 টি N ও 2টি A বিদ্যমান ।[math]\therefore[/math]
+ ARGENTINA শব্দটির বর্ণগুলি নিজেদের মধ্যে সাজানো যায় [math]\frac{9 !}{2 ! 2 !}[/math]
+ উপায়ে ।ARGENTINA শব্দটিতে 4 টি স্বরবর্ণ বিদ্যমান।4 টি স্বরবর্ণকে 1টি বর্ণ ধরে বাকী [math](9 – 4) = 5[/math]
+ টি বর্ণসহ মোট বর্ণের সংখ্যা 6 টি ।এই 6 টি বর্ণকে নিজেদের মধ্যে সাজানো যায় [math]\frac{6 !}{2 !}[/math]
+ উপায়ে ।আবার, 4টি স্বরবর্ণকে নিজেদের মধ্যে সাজানো যায় [math]\frac{4 !}{2 !}[/math]
+ উপায়ে ।[math]\therefore[/math]
+ স্বরবর্ণগুলি একত্র রেখে বিন্যাস সংখ্যা [math]\left(\frac{6 !}{2 !} \times \frac{4 !}{2 !}\right)[/math]
+ [math]\therefore[/math]
+ ARGENTINA শব্দটির স্বরবর্ণগুলো একত্রে না রেখে বিন্যাসসংখ্যা [math]=\frac{9 !}{2 ! 2 !}-\left(\frac{6 !}{2 !} \times \frac{4 !}{2 !}\right)=86400 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গধরি, ARGENTINA শব্দটির বিন্যাস সংখ্যা [math]P_{1}[/math]
+ এবং BRAZIL শব্দটির বিন্যাস সংখ্যা [math]P_{2}[/math]
+ARGENTINA শব্দটিতে মোট 9 টি বর্ণ বিদ্যমান।এর মধ্যে N এর সংখ্যা 2 এবং A এর সংখ্যা 2[math]\therefore[/math]
+ প্রথমে ও শেষে A রেখে ARGENTINA শব্দটির সবগুলো বর্ণ নিয়েবিন্যাস সংখ্যা, [math]P_{1}=\frac{7 !}{2 !} \ldots \ldots \ldots \text { (i) }[/math]
+আবার, BRAZIL শব্দটিতে মোট 6 টি বর্ণ বিদ্যমান। প্রতিটি বণই ভিন্ন[math]\therefore[/math]
+ BRAZIL শব্দটির সবগুলো বর্ণ নিয়ে বিন্যাস সংখ্যা[math]P_{2}=6 ! \ldots \ldots \text { (ii) }[/math]
+ [math]\text { (i) } \div \text { (ii) }[/math]
+ করে পাই, [math]\frac{P_{1}}{P_{2}}=\frac{7 !}{2 !} \times \frac{1}{6 !}=\frac{7.6 !}{2.1} \times \frac{1}{6 !}=\frac{7}{2}[/math]
+ [math]\therefore P_{1}: P_{2}=7: 2[/math]
+ (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা:
+ক যেহেতু [math]{ }^{n}P_{r}={ }^{n}C_{r}\cdot r![/math], তাই [math]24=4\cdot r![/math] থেকে [math]r!=6\Rightarrow r=3[/math] এবং [math]{ }^{n}C_{3}=4\Rightarrow \frac{n(n-1)(n-2)}{6}=4[/math] থেকে [math]n=4[/math] ।
+
+খ প্রথম ইংরেজি শব্দটি [math]ARGENTINA[/math] (মোট 9 অক্ষর, A ও N প্রতিটি 2টি)। মোট বিন্যাস [math]\frac{9!}{2!2!}[/math], যেখানে সব স্বরবর্ণ একত্রে হলে বিন্যাস সংখ্যা [math]\frac{6!}{2!}\cdot\frac{4!}{2!}[/math] হবে; অতএব স্বরবর্ণ একত্রে না রেখে সাজানোর সংখ্যা [math]\frac{9!}{2!2!}-\frac{6!}{2!}\cdot\frac{4!}{2!}=86400[/math] ।
+
+গ যদি প্রথম শব্দটির প্রথম ও শেষ স্থানে [math]A[/math] থাকে, তাহলে প্রথম শব্দটির অবশিষ্ট 7টি অক্ষরের বিন্যাস [math]\frac{7!}{2!}[/math] (N দুইটি পুনরাবৃত্তি) এবং [math]BRAZIL[/math]-এর বিন্যাস [math]6![/math]; তাই অনুপাত [math]\frac{7!/2!}{6!}=\frac{7}{2}[/math] অর্থাৎ [math]7:2[/math] ।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 472551)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+প্রসিদ্ধ পদার্থবিজ্ঞানী [math]\text { Issac Newton }[/math] ১৭৪২ সালে [math]\text { England }[/math] এ জন্মগ্রহণ করেন।
+
+Options:
+ক. [math]1, 2, 3, 4, 5, 6, 7, 8, 9[/math] অঙ্কগুলো হতে [math]3[/math] দ্বারা বিভাজ্য নয় এরূপ অঙ্কগুলোর মধ্য হতে [math]4[/math]টি করে অঙ্ক কতভাবে বাছাই করা যায়?
+খ. দেখাও যে, দৃশ্যকল্পের বিজ্ঞানীর নামের শেষ অংশের বিন্যাস সংখ্যা নামের প্রথম অংশের বিন্যাস সংখ্যার [math]12[/math] গুণ ।
+গ. দৃশ্যকল্পে বিজ্ঞানীর জন্মভূমির নামের বর্ণগুলি থেকে পাঁচটি বর্ণ নিয়ে কতগুলি বিন্যাস গঠন করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+ক [math]1, 2, 3, 4, 5, 6, 7, 8, 9[/math]
+ অঙ্কগুলো হতে [math]3[/math]
+ দ্বারা বিভাজ্য নয় এরূপ অঙ্কগুলো হচ্ছে [math]1, 2, 4, 5, 7, 8[/math]
+ অর্থাৎ [math]6[/math]
+ টি ।[math]1, 2, 4, 5, 7, 8[/math]
+ অঙ্কগুলো হতে [math]4[/math]
+টি করে অঙ্ক বাছাই করার উপায় : [math]={ }^{6} \mathrm{C}_{4}=15[/math]
+ [math]\therefore \quad 15[/math]
+ ভাবে বাছাই করা যাবে।খপ্রদত্ত বিজ্ঞানীর নাম [math]\text { Issac Newton. }[/math]
+নামের প্রথম অংশ [math]\text { Issac }[/math]
+ শব্দটিতে মোট [math]5[/math]
+টি বর্ণ আছে যার মধ্যে [math]s[/math]
+ আছে [math]2[/math]
+টি এবং অবশিষ্ট বর্ণগুলো ভিন্ন ভিন্ন[math]\therefore \quad \text { Issac }[/math]
+ শব্দটির বর্ণগুলোর বিন্যাস সংখ্যা [math]=\frac{5 !}{2 !}=\frac{120}{2}=60[/math]
+নামের শেষ অংশ [math]\text { Newton }[/math]
+ শব্দটিতে মোট [math]6[/math]
+টি বর্ণ আছে যার মধ্যে [math]n[/math]
+আছে [math]2[/math]
+টি এবং অবশিষ্ট বর্ণগুলো ভিন্ন ভিন্ন ।
+[Image]
+[math]\therefore \text { Newton }[/math]
+ এর বর্ণগুলোর বিন্যাস সংখ্যা [math]=6 \times \text { Issac }[/math]
+ এর বর্ণগুলোর সংখ্যা সুতরাং বিজ্ঞানীর নামের শেষ অংশের বিন্যাস সংখ্যা নামের প্রথম অংশের বিন্যাস সংখ্যার [math]6[/math]
+ গুণ। (দেখানো হলো)[বি. দ্র. প্রশ্নপত্রে বিন্যাস সংখ্যার [math]12[/math]
+ গুণ এর পরিবর্তে [math]6[/math]
+ গুণ হবে][math]\therefore \quad \text { Newton. }[/math]
+ শব্দটির বর্ণগুলোর বিন্যাস সংখ্যা [math]=\frac{6 !}{2 !}=\frac{720}{2}=360[/math]
+ গবিজ্ঞানী [math]\text { Issac Newton }[/math]
+ এর জন্মভূমি [math]\text { England }[/math]
+ [math]\text { England }[/math]
+ শব্দটিতে মোট [math]7[/math]
+টি বর্ণ আছে যার মধ্যে [math]n[/math]
+ আছে [math]2[/math]
+টি অবশিষ্ট বর্ণগুলো ভিন্ন ভিন্ন ।শব্দটির বর্ণগুলো থেকে ১টি বর্ণ নিয়ে নিম্নোক্তভাবে বিন্যাস গঠন করা যায় :(i) সবগুলো বর্ণ ভিন্ন ভিন্ন ।এক্ষেত্রে বিন্যাস সংখ্যা [math]={ }^{6} \mathrm{C}_{5} \times 5 !=6 \times 120=720[/math]
+(ii) [math]2[/math]
+টি বর্ণ এক জাতীয় এবং অপর [math]3[/math]
+টি বর্ণ ভিন্ন ভিন্ন ।এক্ষেত্রে বিন্যাস সংখ্যা [math]={ }^{2} \mathrm{C}_{2} \times{ }^{5} \mathrm{C}_{3} \times \frac{5 !}{2 !}=600[/math]
+ [math]\therefore[/math]
+ মোট বিন্যাস সংখ্যা [math]= 720+ 600[/math]
+ [math]\Rightarrow 1320[/math]
+ [math]\therefore[/math]
+ [math]1320[/math]
+টি বিন্যাস গঠন করা যায় ।
+
+Explanation:
+ব্যাখ্যা:
+ক [math]1,2,4,5,7,8[/math] মোট [math]6[/math]টি সংখ্যা আছে, সেখান থেকে 4টি বাছাই করলে মোট সংমিশ্রণ [math]\binom{6}{4}=15[/math]।
+
+খ নামের প্রথম অংশ "Issac"–এ অক্ষর 5টি এবং [math]s[/math] দুটো, তাই বিন্যাস সংখ্যা [math]\dfrac{5!}{2!}=60[/math]; শেষ অংশ "Newton"–এ অক্ষর 6টি এবং [math]n[/math] দুটো, তাই বিন্যাস [math]\dfrac{6!}{2!}=360[/math]; তাই অনুপাত [math]\dfrac{360}{60}=6, আয়ত্তে 12 নয়।
+
+গ "England"–এ 7টি অক্ষর (ন [math]n[/math] দুটো) আছে; পাঁচ অক্ষরের বিন্যাস গড়তে n দুটো ব্যবহার করার ক্ষেত্রে [math]\binom{5}{3}\times\dfrac{5!}{2!}=10\times60=600, একটিমাত্র n ব্যবহার করলে [math]\binom{5}{4}\times5!=5\times120=600</math], n না থাকলে [math]1\times5!=120</math]; মোট [math]600+600+120=1320[/math]টি বিন্যাস।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 472552)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি ক্লাবের কার্যনির্বাহী কমিটির সদস্য [math]21[/math] জন, যার মধ্যে ৪ জন মহিলা ও [math]13[/math] জন পুরুষ ।
+
+Options:
+ক. [math]\text { DEPRESSION }[/math] শব্দটির অক্ষরগুলিকে কতভাবে সাজানো যাবে যাতে স্বরবর্ণগুলি একত্রে থাকবে?
+খ. একজন মহিলা সদস্য সভাপতি হলে সভাপতিকে বাদ দিয়ে [math]11[/math] সদস্যবিশিষ্ট কতগুলো উপকমিটি গঠন করা যাবে যাতে কমপক্ষে 4 জন মহিলা সদস্য অন্তর্ভুক্ত থাকবে?
+গ. কার্যনির্বাহী কমিটি হতে দুই জন পুরুষ বাদ দিয়ে অবশিষ্ট সদস্যবৃন্দকে এক সারিতে কতভাবে সাজানো যাবে যাতে দুইজন মহিলা সদস্য একত্রে না থাকে ।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\text { DEPRESSION }[/math]
+ শব্দটিতে মোট [math]10[/math]
+টি বর্ণ আছে যার মধ্যে [math]E[/math]
+ আছে [math]2[/math]
+টি, [math]S[/math]
+ আছে [math]2[/math]
+টি এবং অবশিষ্ট বর্ণগুলো ভিন্ন ভিন্ন ।আবার, শব্দটিতে [math]4[/math]
+টি স্বরবর্ণ আছে যার মধ্যে [math]E[/math]
+ আছে [math]2[/math]
+টি এবং অবশিষ্ট [math]2[/math]
+টি ভিন্ন ভিন্ন ।[math]4[/math]
+টি স্বরবর্ণকে একক বর্ণ হিসেবে বিবেচনা করে [math]7[/math]
+টি বর্ণ সাজানোরসংখ্যা [math]=\frac{7 !}{2 !}=\frac{5040}{2}=2520[/math]
+ [math]4[/math]
+টি স্বরবর্ণকে নিজেদের মধ্যে সাজানোর সংখ্যা মধ্যে সাজানোর সংখ্যা [math]=\frac{4 !}{2 !}=\frac{24}{2}=12[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণকে একত্রে রেখে মোট বিন্যাস সংখ্যা [math]=2520 \times 12[/math]
+ [math]\Rightarrow 30240[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণগুলি একত্রে রেখে [math]30240[/math]
+ ভাবে সাজানো যাবে ।খএখানে, মহিলা সদস্য [math]8[/math]
+ জন এবং পুরুষ সদস্য সংখ্যা [math]13[/math]
+ জন ।একজন মহিলা সদস্য সভাপতি হলে সভাপতিকে বাদ দিয়ে মহিলাসদস্য থাকে [math]= (8 – 1 ) = 7[/math]
+ জন[math]7[/math]
+ জন মহিলা সদস্য এবং [math]13[/math]
+ জন পুরুষ সদস্য হতে কমপক্ষে [math]4[/math]
+ জন মহিলা সদস্য অন্তর্ভুক্ত করে [math]11[/math]
+ সদস্যবিশিষ্ট উপকমিটি নিম্নোক্তভাবে গঠন করা যাবে :মহিলা সদস্য ( [math]7[/math]
+ জন )(i) [math]4[/math]
+(ii) [math]5[/math]
+(iii) [math]6[/math]
+(iv) [math]7[/math]
+পুরুষ সদস্য ( [math]13[/math]
+ জন )(i) [math]7[/math]
+(ii) [math]6[/math]
+(iii) [math]5[/math]
+(iv) [math]4[/math]
+এর ক্ষেত্রে গঠিত উপকমিটি সংখ্যা [math]={ }^{7} \mathrm{C}_{4} \times{ }^{13} \mathrm{C}_{7}[/math]
+ [math]\Rightarrow 35 \times 1716=60060[/math]
+(ii) এর ক্ষেত্রে গঠিত উপকমিটি সংখ্যা [math]={ }^{7} \mathrm{C}_{5} \times{ }^{13} \mathrm{C}_{6}[/math]
+ [math]\Rightarrow21 \times 1716=36036[/math]
+(iii) এর ক্ষেত্রে গঠিত উপকমিটি সংখ্যা = C6 x 13C5[math]\Rightarrow 7 \times 1287=9009[/math]
+(iv) এর ক্ষেত্রে গঠিত উপকমিটি সংখ্যা [math]={ }^{7} \mathrm{C}_{7} \times{ }^{13} \mathrm{C}_{4}[/math]
+ [math]\Rightarrow1 \times 715=715[/math]
+ [math]\therefore[/math]
+ গঠিত মোট উপকমিটি সংখ্যা [math]=60060+36036+9009+715[/math]
+ [math]\Rightarrow105820[/math]
+সুতরাং [math]105820[/math]
+ টি উপকমিটি গঠন করা যাবে ।গএখানে, মহিলা সদস্য ৪ জন এবং পুরুষ সদস্য [math]13[/math]
+ জন ।দুইজন পুরুষ বাদ দিয়ে অবশিষ্ট পুরুষ সদস্য থাকে [math]= (13 – 2)[/math]
+ জন[math]\Rightarrow 11[/math]
+ জন[math]11[/math]
+ জন পুরুষ সদস্যকে এক সারিতে সাজালে তাদের মাঝখানে [math]10[/math]
+টিস্থানে মহিলা সদস্যদের সাজালে তারা একত্রে থাকবে না।আবার, সর্বপ্রথম ও সর্বশেষে মহিলা সদস্যদের সাজালেও তারা একত্রে থাকবে না ।অর্থাৎ মহিলা সদস্যদের দ্বারা [math](10+2)[/math]
+ বা [math]12[/math]
+টি স্থান পূরণ করলে তারা একত্রে থাকবে না ।[math]12[/math]
+টি স্থান [math]8[/math]
+ জন মহিলা সদস্য দ্বারা পূরণ করা যায় [math]{ }^{12} \mathrm{P}_{8}[/math]
+ ভাবে[math]11[/math]
+ জন পুরুষ সদস্যকে নিজেদের মধ্যে সাজানো যায় [math]11![/math]
+ ভাবে[math]\therefore[/math]
+ সাজানো যাবে মোট [math]{ }^{12} P_{8} \times 11 ![/math]
+ ভাবে ।সুতরাং [math]{ }^{12} {P}_{8} \times 11 ![/math]
+ ভাবে সাজানো যাবে।
+
+Explanation:
+ক শব্দটিে মোট অক্ষর ১০টি, স্বরবর্ণগুলো হল E, E, I, O (৪টি, E দুবার)। স্বরবর্ণগুলোকে একটিমাত্র ব্লক ধরে বাইরের অক্ষরসহ সাজালে মোট বস্তু হয় ৭টি যার মধ্যে S দুবার একই, সুতরাং বাইরের বিন্যাস [math]7!/2![/math] এবং ব্লকের ভিতরের বিন্যাস [math]4!/2![/math]; ফলে মোট [math](7!/2!)\times(4!/2!)=30240[/math]।
+
+খ সভাপতি হিসেবে একজন মহিলা নেওয়া হলে অবশিষ্ট মহিলার সংখ্যা হবে [math]4-1=3[/math], অথচ উপকমিটিতে কমপক্ষে ৪ জন মহিলা দরকার—অতএব সম্ভব নয় এবং এমন কোনো উপকমিটি নেই, মানে উত্তর [math]0[/math]।
+
+গ দুইজন পুরুষ বাদ দিলে পুরুষ থাকে [math]13-2=11[/math] জন; প্রথমে পুরুষদের ভিন্নভাবে সাজানো যায় [math]11![/math]ভাবে, তাদের পাশের ফাঁকগুলোয় (সামনে ও পেছনসহ) মহিলা বসাতে ফাঁকের সংখ্যা [math]12[/math], সেখানে ৪টি ফাঁক নির্বাচন করে মহিলা বসাবেন [math]\binom{12}{4}[/math]ভাবে এবং মহিলাদের নিজস্ব বিন্যাস [math]4![/math]; সেজন্য মোট পদ্ধতি [math]11!\times\binom{12}{4}\times4![/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 472553)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি একদিনের ম্যাচে [math]\text { NEWZEALAND }[/math] ক্রিকেট দলে [math]7[/math] জন ব্যাটসম্যান, [math]6[/math] জন বোলার এবং [math]2[/math] জন উইকেটকিপার রাখা হলো।
+
+Options:
+ক. [math]{ }^{n} P_{3}=2 \times{ }^{n} C_{4}[/math] হলে n-এর মান নির্ণয় কর।
+খ. উদ্দীপক হতে কতভাবে [math]11[/math] জন খেলোয়াড়ের দল গঠন করা যাবে যাতে সর্বদা [math]5[/math] জন বোলার এবং কমপক্ষে একজন উইকেট কিপার থাকবে?
+গ. স্বরবর্ণগুলোকে পাশাপাশি না রেখে [math]\text { NEWZEALAND }[/math] শব্দের 'অক্ষরগুলোকে কত প্রকারে সাজনো যাবে?
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]{ }^{n} P_{3}=2 \times{ }^{n} C_{4}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{n !}{(n-3) !}=2 \times \frac{n !}{4 !(n-4) !}\\\Rightarrow \frac{n !}{(n-3)(n-4) !}=2 \times \frac{n !}{24(n-4) !}\\\Rightarrow \frac{1}{n-3}=\frac{1}{12}\\\Rightarrow \mathrm{n}-3=12\\\Rightarrow \mathrm{n}=12+3\\\Rightarrow n=15\end{array}[/math]
+নির্ণেয় মান : [math]n = 15.[/math]
+ খ [math]7[/math]
+ জন ব্যাটসম্যান, [math]6[/math]
+ জন বোলার ও [math]2[/math]
+ জন উইকেট কিপার হতে সর্বদা [math]5[/math]
+ জন বোলার ও কমপক্ষে [math]1[/math]
+ জন উইকেট কিপার নিয়ে [math]11[/math]
+ জন খেলোয়াড়ের দল গঠন করা যাবে নিম্নোক্তভাবে :ব্যাটসম্যান ( [math]7[/math]
+ জন )(i) [math]5[/math]
+(ii) [math]4[/math]
+বোলার ( [math]6[/math]
+ জন)(i) [math]5[/math]
+(ii) [math]5[/math]
+উইকেট কিপার ( [math]2[/math]
+ জন)(i) [math]1[/math]
+(ii) [math]2[/math]
+(i) এর ক্ষেত্রে দল গঠন করা যাবে [math]={ }^{7} \mathrm{C}_{5} \times{ }^{6} \mathrm{C}_{5} \times{ }^{2} \mathrm{C}_{1}[/math]
+ ভাবে[math]\Rightarrow21 \times 6 \times 2[/math]
+ [math]\Rightarrow 252[/math]
+ ভাবে(ii) এর ক্ষেত্রে দল গঠন করা যাবে [math]={ }^{7} C_{4} \times{ }^{6} C_{5} \times{ }^{2} C_{2}[/math]
+ ভাবে[math]\Rightarrow 35 \times 6 \times 1[/math]
+ [math]\Rightarrow 210[/math]
+ ভাবে[math]\therefore[/math]
+ দল গঠন করা যাবে মোট [math]=(252+210)[/math]
+ ভাবে[math]\Rightarrow 462[/math]
+ ভাবে[math]\therefore 462[/math]
+ ভাবে দল গঠন করা যাবে।গ [math]\text { NEWZEALAND }[/math]
+ শব্দটিতে মোট [math]10[/math]
+টি বর্ণ আছে যার মধ্যে [math]2[/math]
+টি [math]N[/math]
+ [math]2[/math]
+টি [math]E, 2[/math]
+টি [math]A[/math]
+ এবং অবশিষ্ট বর্ণগুলো ভিন্ন ভিন্ন ।[math]\therefore[/math]
+ মোট বিন্যাস সংখ্যা [math]=\frac{10 !}{2 ! 2 ! 2 !}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{3628800}{2.2 .2} \\\Rightarrow 453600\end{array} .[/math]
+আবার, শব্দটিতে [math]4[/math]
+টি স্বরবর্ণ আছে যার মধ্যে [math]2[/math]
+টি [math]E[/math]
+ এবং [math]2[/math]
+টি [math]A[/math]
+.[math]4[/math]
+টি স্বরবর্ণকে একক বর্ণ হিসেবে বিবেচনা করে [math]7[/math]
+টি বর্ণ সাজানোর সংখ্যা[math]\begin{array}{l}\Rightarrow \frac{7 !}{2 !} \\\Rightarrow\frac{5040}{2} \\\Rightarrow 2520\end{array}[/math]
+ [math]4[/math]
+টি স্বরবর্ণকে নিজেদের মধ্যে সাজানোর সংখ্যা : [math]=\frac{4 !}{2 ! 2 !}[/math]
+ [math]\Rightarrow \frac{24}{2.2}=6[/math]
+স্বরবর্ণগুলো পাশাপাশি রেখে মোট বিন্যাস সংখ্যা [math]=2520 \times 6=15120[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণগুলো পাশাপাশি না রেখে মোট বিন্যাস সংখ্যা[math]\begin{array}{l}\Rightarrow 453600-15120 \\\Rightarrow 438480\end{array}[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণগুলো পাশাপাশি না রেখে শব্দটির অক্ষরগুলোকে [math]438480[/math]
+ প্রকারে সাজানো যাবে।
+
+Explanation:
+ব্যাখ্যা:
+ক সমীকরণটি হলো [math]{}^{n}P_3=2\times {}^{n}C_4[/math]; এখানে [math]{}^{n}P_3=n(n-1)(n-2)[/math] এবং [math]{}^{n}C_4=\dfrac{n(n-1)(n-2)(n-3)}{4!}[/math]। উভয় পাশে সাধারণ কাজগুলো বাতিল করলে [math]1=\dfrac{n-3}{12}[/math] হয়, তাই [math]n=15[/math]।
+
+খ ৫ জন বোলার নিতেই হবে: [math]{}^{6}C_5[/math] উপায়ে; উইকেটকিপার কমপক্ষে একজন হলে কেস ভাগ করা যায় — একটি কিপার নেওয়া বা দুইটি নেওয়া। তাই মোট পথ হবে [math]{}^{6}C_5\big({}^{2}C_1\cdot {}^{7}C_5 + {}^{2}C_2\cdot {}^{7}C_4\big)=6(2\cdot 21+1\cdot 35)=462[/math]।
+
+গ "NEWZEALAND"–এ স্বরবর্ণগুলো [math](E,E,A,A)[/math] চারটি এবং ব্যঞ্জনবর্ণগুলো ছয়টি (N দ্বিগুণ)। প্রথমে ব্যঞ্জনবর্ণ সাজালে [math]\dfrac{6!}{2!}[/math] উপায়, এরপর ব্যঞ্জনবর্ণের চারপাশে ৭টি ফাঁক থেকে ৪টি ফাঁক বেছে নিলে [math]{}^{7}C_4[/math], এবং স্বরবর্ণদের আন্তঃবিন্যাস [math]\dfrac{4!}{2!2!}[/math] উপায়। ফলে মোট [math]\dfrac{6!}{2!}\times {}^{7}C_4\times \dfrac{4!}{2!2!}=75600[/math] টি সাজানো যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 472554)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: [math]{ }^{n+1} C_{r}={ }^{n} C_{n-r}+{ }^{n} C_{r-1}(1 \leq r \leq n)[/math]
+
+দৃশ্যকল্প-২: [math]\frac{1}{\mathrm{r} !}{ }^{\mathrm{n}} \mathrm{P}_{\mathrm{r}}:{ }^{\mathrm{n}} \mathrm{C}_{\mathrm{r}+1}: \frac{1}{(\mathrm{r}+2) !} \times{ }^{\mathrm{n}} \mathrm{P}_{\mathrm{r}+2}=1: 2: 3[/math]
+
+Options:
+ক. দৃশ্যকল্প-১ হতে [math]{ }^{141} \mathrm{C}_{39}+{ }^{141} \mathrm{C}_{101}+{ }^{142} \mathrm{C}_{101}[/math] এর মান নির্ণয় কর।
+খ. দৃশ্যকল্প-১ এর সত্যতা যাচাই কর ।
+গ. দৃশ্যকল্প-২ হতে [math]n[/math] ও [math]r[/math] এর মান নির্ণয় করা ।
+
+
+Correct Answer: 
+
+Solution:
+কউদ্দীপক অনুসারে,[math]\begin{array}{l}{ }^{n+1} C_{r}={ }^{n} C_{n-r}+{ }^{n} C_{r-1}(1 \leq r \leq n) \\={ }^{n+1} C_{r}={ }^{n} C_{r}+{ }^{n} C_{r-1}\end{array}[/math]
+প্রদত্ত রাশি [math]={ }^{141} \mathrm{C}_{39}+{ }^{141} \mathrm{C}_{101}+{ }^{142} \mathrm{C}_{101}[/math]
+ [math]\begin{array}{l}={ }^{141} \mathrm{C}_{141}-39+{ }^{141} \mathrm{C}_{101}+{ }^{142} \mathrm{C}_{101} \\={ }^{141} \mathrm{C}_{102}+{ }^{141} \mathrm{C}_{102-1}+{ }^{142} \mathrm{C}_{101} \\={ }^{(141+1)} \mathrm{C}_{102}+{ }^{142} \mathrm{C}_{101}={ }^{142} \mathrm{C}_{102}+{ }^{142} \mathrm{C}_{102-1}={ }^{143} \mathrm{C}_{102}\end{array}[/math]
+ [math]\\[/math]
+ খডানপক্ষ [math]={ }^{\mathrm{n}} \mathrm{C}_{\mathrm{n}-\mathrm{r}}+{ }^{\mathrm{n}} \mathrm{C}_{\mathrm{r}-1}[/math]
+ [math]\begin{array}{l}=\frac{n !}{(n-r) !(n-n+r) !}+\frac{n !}{(r-1) !(n-r+1) !} \\=\frac{n !}{(n-r) ! r !}+\frac{n !}{(r-1) !(n-r+1) !} \\=\frac{n !}{r(r-1) !(n-r) !}+\frac{n !}{(r-1) !(n-r+1)(n-r) !} \\=\frac{n}{(r-1) !(n-r) !}\left\{\frac{1}{r}+\frac{1}{n-r+1}\right\} \\=\frac{n !}{(r-1) !(n-r) !} \times \frac{n-r+1+r}{r(n-r+1)} \\=\frac{n !(n+1)}{(r-1) !(n-r) ! r(n-r+1)}\end{array}[/math]
+ [math]=\frac{(n+1) !}{r !(n-r+1) !}={ }^{n+1} C_{r}=[/math]
+ বামপক্ষ[math]\therefore{ }^{n} C_{n-r}+{ }^{n} C_{r-1}={ }^{n+1} C_{r}[/math]
+(প্রমাণিত)[math]\\[/math]
+ গ [math]\begin{array}{l}\frac{1}{r !} \cdot{ }^{n} P_{r}=\frac{1}{r !} \cdot \frac{n !}{(n-r) !} \\{ }^{n} C_{r+1}=\frac{n !}{(r+1) !(n-r-1) !} \cdots \cdots \cdots \text { (i) }\end{array}[/math]
+আবার, [math]\frac{1}{(r+2) !}{ }^{n} P_{r+2}=\frac{1}{(r+2) !} \frac{n !}{(n-r-2) !}.........[/math]
+(ii)[math]\begin{array}{l}\therefore \frac{\frac{1}{r !} \cdot{ }^{n} P_{r}}{{ }^{n} C_{r+1}}=\frac{\frac{1}{r !} \frac{n !}{(n-r) !}}{n !} \\=\frac{n !}{r !(n-r) !} \times \frac{(r+1) !(n-r-1) !}{n !} \\=\frac{(\mathrm{r}+1) \mathrm{r} !(\mathrm{n}-\mathrm{r}-1) !}{\mathrm{r} !(\mathrm{n}-\mathrm{r})(\mathrm{n}-\mathrm{r}-1) !}=\frac{\mathrm{r}+1}{\mathrm{n}-\mathrm{r}} \\\end{array}[/math]
+ [math]\text { (i) } \div \text { (ii) }[/math]
+ হতে[math]\begin{aligned}\frac{{ }^{n} C_{r+1}}{(r+2) !} & =\frac{n !}{(r+1) !(n-r-1) !} \times \frac{(r+2) !(n-r-2) !}{n !} \\& =\frac{(r+2)(n-r-2) !}{(n-r-1)(n-r-2) !}=\frac{r+2}{n-r-1}\end{aligned}[/math]
+প্রশ্নানুসারে, [math]\frac{\frac{1}{\mathrm{r} !}{ }^{n} \mathrm{P}_{\mathrm{r}}}{{ }^{n} \mathrm{C}_{\mathrm{r}+1}}=\frac{1}{2}[/math]
+ [math]\begin{array}{l}= \frac{r+1}{n-r}=\frac{1}{2} \\= 2 r+2=n-r \\\therefore n=3 r+2 \ldots \ldots \ldots (iii)\end{array}[/math]
+প্রশ্নানুসারে, [math]\frac{{ }^{n} C_{r+1}}{\frac{1}{(r+2) !}{ }^{n} P_{r+2}}=\frac{2}{3}[/math]
+ [math]\begin{array}{l}= \frac{r+2}{n-r-1}=\frac{2}{3}\\= 3 r+6=2(3 r+2)-2 r-2\\= 6 r+4-2 r-2-3 r-6=0\\= r-4=0 \therefore r=4\end{array}[/math]
+r এর মান (iii) নং এ বসিয়ে পাই,[math]\mathrm{n}=3 \times 4+2=14 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]{ }^{141}C_{39}+{ }^{141}C_{101}+{ }^{142}C_{101}[/math] = [math]{ }^{141}C_{39}+{ }^{141}C_{101}+({ }^{141}C_{101}+{ }^{141}C_{100})[/math] (কারণ [math]{ }^{142}C_{101}={ }^{141}C_{101}+{ }^{141}C_{100}[/math]) = [math]{ }^{141}C_{39}+2{ }^{141}C_{101}+{ }^{141}C_{100}[/math] = [math]{ }^{141}C_{39}+2{ }^{141}C_{40}+{ }^{141}C_{41}[/math] = [math]({ }^{141}C_{39}+{ }^{141}C_{40})+({ }^{141}C_{40}+{ }^{141}C_{41})={ }^{142}C_{40}+{ }^{142}C_{41}={ }^{143}C_{41}[/math].
+
+খ [math]{ }^{n+1}C_{r}={ }^{n}C_{r}+{ }^{n}C_{r-1}[/math] সত্য, কারণ বামপাশে [math]{ }^{n+1}C_{r}=\frac{(n+1)!}{r!(n+1-r)!}[/math] এবং এটি সরাসরি বিশ্লেষণ করে বা "একটি নির্দিষ্ট সদস্য নেওয়া/না নেওয়ার" সমষ্টি হিসেবে লিখলে মিলিয়ে যায়: [math]\frac{n!}{r!(n-r)!}+\frac{n!}{(r-1)!(n-r+1)!}={ }^{n}C_{r}+{ }^{n}C_{r-1}[/math]।
+
+গ প্রথম ও তৃতীয় ভগ্নাংশগুলো সরল করলে পাওয়া যায় [math]\frac{1}{r!}{ }^{n}P_{r}={ }^{n}C_{r},\;\frac{1}{(r+2)!}{ }^{n}P_{r+2}={ }^{n}C_{r+2}[/math], তাই অনুপাতে আছে [math]{ }^{n}C_{r}:{ }^{n}C_{r+1}:{ }^{n}C_{r+2}=1:2:3[/math]. ব্যবহার করে [math]\frac{{ }^{n}C_{r+1}}{{ }^{n}C_{r}}=\frac{n-r}{r+1}=2[/math] দিয়ে পাই [math]n=3r+2[/math], এবং [math]\frac{{ }^{n}C_{r+2}}{{ }^{n}C_{r+1}}=\frac{n-r-1}{r+2}=\tfrac{3}{2}[/math] দিয়ে পাই [math]n=\frac{5r+8}{2}[/math]; সমাধান করলে [math]r=4,\;n=14[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 472555)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\text { EXAMINATION }[/math] ছাত্র-ছাত্রীদের নিকট একটি সুপরিচিত শব্দ।
+
+Options:
+ক. স্বরবর্ণগুলো ক্রমানুসারে রেখে উদ্দীপকের ইংরেজি শব্দটি কত উপায়ে বিন্যাস করা যায়?
+খ. ব্যঞ্জনবর্ণগুলি একত্রে রেখে উদ্দীপকের ইংরেজি শব্দটির বিন্যাস সংখ্যা নির্ণয় কর।
+গ. উদ্দীপকের শব্দটি থেকে প্রতিবারে [math]4[/math]টি করে বর্ণ নিয়ে কতগুলি শব্দ গঠন করা যায় তা নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+কEXAMINATION শব্দে স্বরবর্ণ আছে [math]6[/math]
+টি। এরা ক্রমপরিবর্তন না করলেএদের চটিকে একজাতীয় বর্ণ বিবেচনা করা হল । শব্দটিতে মোট 11টি বর্ণেরঅপর 5টি বর্ণের মধ্যে N আছে 2টি, বাকিগুলো 1টি করে ।[math]\therefore[/math]
+ নির্ণেয় বিন্যাস [math]=\frac{11 !}{6 ! 2 !}=27720 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ'EXAMINATION' শব্দটির 11টি বর্ণের মধ্যে ব্যঞ্জনবর্ণ [math]5[/math]
+টি ও স্বরবর্ণ [math]6[/math]
+টি ।ব্যঞ্জনবর্ণ 5টিকে একটি বর্ণ বিবেচনা করে বর্ণসংখ্যা হয় [math]7[/math]
+টি।এই [math]7[/math]
+টি বর্ণের মধ্যে 2টি A ও 2টি [math]I[/math]
+ রয়েছে।[math]\therefore 7[/math]
+টি বর্ণকে একত্রে নিয়ে বিন্যাস সংখ্যা : [math]=\frac{7 !}{2 ! 2 !}=1260[/math]
+আবার, ব্যঞ্জনবর্ণ ১টিকে (যাদের মধ্যে 2টি N রয়েছে) নিজেদেরমধ্যে সাজানো যায় [math]=\frac{5 !}{2 !}=60[/math]
+ উপায়ে ।[math]\therefore[/math]
+ ব্যঞ্জনবর্ণগুলি একত্র রেখে মোট বিন্যাস সংখ্যা [math]=1260 \times 60[/math]
+ [math]=75600 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ'EXAMINATION' শব্দে [math](A, A; I, I; N, N; E; X; M; T; O)[/math]
+ [math]11[/math]
+টি বর্ণ আছে।তিনজোড়া একজাতীয় বর্ণ [math](A, A, I, I, N, N)[/math]
+ থেকে 2 জোড়াবর্ণ নিয়ে বিন্যাস সংখ্যা [math]={ }^{3} \mathrm{C}_{2} \times \frac{4 !}{2 ! 2 !}=3 \times 6=18[/math]
+আবার তিনজোড়া একজাতীয় বর্ণ থেকে [math]1[/math]
+ জোড়া বর্ণ ও 7টি ভিন্ন বর্ণহতে 2টি বর্ণ নিয়ে বিন্যাস সংখ্যা [math]={ }^{3} \mathrm{C}_{1} \times{ }^{7} \mathrm{C}_{2} \times \frac{4 !}{2 !}[/math]
+ [math]=3 \times 21 \times 12=756[/math]
+ [math]8[/math]
+ টি ভিন্ন বর্ণ হতে এটি বর্ণ নিয়ে বিন্যাস সংখ্যা [math]={ }^{8} \mathrm{C}_{4} \times 4 ![/math]
+ [math]=70 \times 24=1680[/math]
+ [math]\therefore[/math]
+ নির্ণেয় বিন্যাস সংখ্যা [math]=18+756+1680=2454 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক স্বরবর্ণগুলোকে ক্রমানুসারে (A A E I I O) ধরে রাখতে প্রথমে স্বরবর্ণের জন্য [math]\binom{11}{6}[/math]টি অবস্থান বেছে নেন, এরপর বাকি পাঁচটি স্থানে ব্যঞ্জনবর্ণগুলোর বিন্যাস হবে [math]\dfrac{5!}{2!}[/math]; ফলে মোট [math]\binom{11}{6}\times\dfrac{5!}{2!}=27720[/math]টি বিন্যাস হয়।  
+খ সমস্ত ব্যঞ্জনবর্ণকে একত্রে একটি ব্লক ধরে নিতে ব্লকসহ মোট বস্তু হবে সাতটি, ভাওয়েলগুলোর পুনরাবৃত্তি বিবেচনায় বিন্যাস [math]\dfrac{7!}{2!2!}=1260[/math], এবং ব্লকের অভ্যন্তরীণ বিন্যাস [math]\dfrac{5!}{2!}=60; ফলে মোট [math]1260\times60=75600[/math]টি।  
+গ চারবর্ণের শব্দ গঠনে সম্ভব প্যাটার্নগুলি: সব চারটি ভিন্ন ([math]\binom{8}{4}\times4!=1680[/math]), একটি দ্বিগুণ ও দুইটি ভিন্ন ([math]3\times\binom{7}{2}\times\dfrac{4!}{2!}=756[/math]) এবং দুইটি ভিন্ন প্রতিটি দ্বিগুণ ([math]\binom{3}{2}\times\dfrac{4!}{2!2!}=18[/math]); মোট [math]1680+756+18=2454[/math]টি শব্দ গঠিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 472556)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কলেজের শিক্ষকদের যোগদানের সময় [math]\text { LECTURER }[/math] পদবিতে ডাকা হয় এবং পদোন্নতি পেয়ে [math]\text { PROFESSOR }[/math] হয়ে চাকুরী
+
+থেকে অবসরে যান ৷
+
+Options:
+ক. [math]8[/math]টি ভিন্ন ভিন্ন বস্তু থেকে একবারে [math]4[/math]টি নিয়ে কতগুলি বিন্যাসের মধ্যে [math]2[/math]টি রঙিন বস্তু সর্বদা অন্তর্ভুক্ত থাকবে?
+খ. প্রথম ও শেষে [math]R[/math] রেখে ১ম ও ২য় ইংরেজি শব্দ দুটির সাজানোর বিন্যাসের অনুপাত বের কর ।
+গ. ব্যঞ্জনবর্ণগুলিকে একত্রে না রেখে ২য় ইংরেজি শব্দটিকে কত উপায়ে পুনর্বিন্যাস করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+ক [math]8[/math]
+ টি ভিন্ন ভিন্ন বস্তু থেকে একবার 4টি নিয়ে 2টি বিশেষ বস্তু সর্বদারেখে বিন্যাস সংখ্যা [math]={ }^{8-2} \mathrm{C}_{4-2} \times 4 !=360[/math]
+ টি (Ans)[math]\\[/math]
+ খLECTURER শব্দটিতে মোট [math]8[/math]
+টি বর্ণ আছে।এই [math]8[/math]
+ টি বর্ণের মধ্যে [math]2[/math]
+টি [math]E, 2[/math]
+টি R এবং অবশিষ্ট বর্ণগুলি ভিন্ন ।[math]\therefore \mathrm{R}[/math]
+ দুইটিকে প্রথমে ও শেষে নির্দিষ্ট করে বাকি [math](8 – 2) = 6[/math]
+ টি [math]6![/math]
+বর্ণের বিন্যাস সংখ্যা [math]P_{1}[/math]
+ হলে, [math]P_{1}=\frac{6 !}{2 !} \ldots \ldots \text { (i) }[/math]
+আবার, [math]PROFESSOR[/math]
+ শব্দটিতে মোট [math]9[/math]
+টি অক্ষর আছে।এর মধ্যে [math]R, O[/math]
+ এবং [math]S[/math]
+ আছে [math]2[/math]
+টি করে।R দুইটি প্রথম ও শেষে নির্দিষ্ট করে বাকি [math](9 – 2) = 7[/math]
+ টি বর্ণকে নিজেদের মধ্যে বিন্যাসসংখ্যা [math]\mathrm{P}_{2}[/math]
+ হলে, [math]\mathrm{P}_{2}=\frac{7 !}{2 ! 2 !} \ldots \ldots \text { (ii) }[/math]
+ [math]\text { (i) } \div \text { (ii) }[/math]
+ করে পাই,[math]\begin{array}{l}\frac{P_{1}}{P_{2}}=\frac{6 !}{2 !} \times \frac{2 ! .2 !}{7 !}=\frac{6 ! \times 2 ! \cdot 2.1}{2 ! \cdot 7.6 !}=\frac{2}{7} \\\therefore P_{1}: P_{2}=2: 7 \text {. (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ গPROFESSOR শব্দটিতে মোট [math]9[/math]
+টি বর্ণ আছে।এর মধ্যে ব্যঞ্জনবর্ণের সংখ্যা [math]6[/math]
+টি যার মধ্যে [math]2[/math]
+টি [math]R[/math]
+ ও [math]2[/math]
+টি [math]S[/math]
+ বিদ্যমান।ব্যঞ্জনবর্ণ [math]6[/math]
+টিকে [math]1[/math]
+টি ধরে মোট বর্ণ সংখ্যা [math](3 + 1) = 4[/math]
+ টি।এই [math]4[/math]
+টি বর্ণ নিয়ে বিন্যাস সংখ্যা [math]=\frac{4 !}{2 !}=12[/math]
+আবার, ব্যঞ্জনবর্ণগুলো নিজেদের মধ্যে সাজানো যায় [math]\frac{6 !}{2 ! 2 !}=180[/math]
+ উপায়ে ।[math]\therefore \text { PROFESSOR }[/math]
+ শব্দটির ব্যঞ্জনবর্ণগুলিকে একত্রে রেখে সাজানোযায় [math]=(180 \times 12)[/math]
+ উপায়ে [math]= 2160[/math]
+ উপায়ে ।আবার, সবগুলি বর্ণ নিয়ে বিন্যাস [math]=\frac{9 !}{2 ! \cdot 2 ! \cdot 2 !}=45360[/math]
+ [math]\therefore[/math]
+ ব্যঞ্জনবর্ণগুলি একত্রে না রেখে পুনর্বিন্যাস [math]=(45360-2160)-1[/math]
+ [math]=43199[/math]
+ উপায়ে । (Ans)
+
+Explanation:
+ক দুইটি রঙিন বস্তু দুইটিই নেওয়া বাধ্য, বাকি [math]6[/math]টি থেকে [math]2[/math]টি চয়ন করে সেগুলোর সঙ্গে মোট [math]4[/math]টি বস্তুকে সাজানো যায়: [math]\binom{6}{2}\times4!=15\times24=360[/math]।
+
+খ প্রথম ও শেষ স্থানে [math]R[/math] স্থির করলে LECTURER-এর মাঝের [math]6[/math]টি অক্ষরের বিন্যাস [math]\frac{6!}{2!}=360[/math] (E দু’টি), আর PROFESSOR-এর মাঝের [math]7[/math]টি অক্ষরের বিন্যাস [math]\frac{7!}{2!2!}=1260[/math] (O ও S দু’দ্বৈত), অনুপাত হয় [math]360:1260=2:7[/math]।
+
+গ মোট পুনর্বিন্যাস সংখ্যা [math]\frac{9!}{2!2!2!}=45360; যদি সব ব্যঞ্জনবর্ণ একত্রে ধরা হয় তা হলে ব্লককে ও ভৌয়েলগুলিকে সাজানোর সংখ্যা [math]\frac{4!}{2!}=12</math] এবং ব্লকের ভিতরে ব্যঞ্জনবর্ণের বিন্যাস [math]\frac{6!}{2!2!}=180</math], ফলে একত্রে থাকা কেস = [math]12\times180=2160</math]; অতএব একত্রে না রেখে পুনর্বিন্যাস = [math]45360-2160=43200[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 472545)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি টেস্ট ম্যাচে [math]BANGLADESH[/math] ক্রিকেট দলে [math]8[/math] জন ব্যাটসম্যান, [math]6[/math] জন বোলার এবং [math]2[/math] জন উইকেট রক্ষক রাখা হলো ।
+
+Options:
+ক. [math]f(x)=x^{2}+3 x[/math] হলে [math](fof)(5)[/math] নির্ণয় কর।
+খ. উদ্দীপক অনুসারে কতভাবে [math]11[/math] জন খেলোয়াড়ের দল গঠন করা যাবে যাতে সর্বদা [math]5[/math] জন বোলার এবং কমপক্ষে [math]1[/math] জন উইকেট রক্ষক থাকবে?
+গ. স্বরবর্ণগুলি একত্রে না রেখে উদ্দীপকের ইংরেজি শব্দটির বর্ণগুলি কত রকমে সাজানো যায় তা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(x)=x^{2}+3 x[/math]
+ [math]\begin{aligned}\therefore \quad(f \circ f)(x) & =f(f(x)) \\& \Rightarrow f\left(x^{2}+3 x\right)=\left(x^{2}+3 x\right)^{2}+3\left(x^{2}+3 x\right) \\& \Rightarrow x^{4}+6 x^{3}+9 x^{2}+3 x^{2}+9 x \\& \Rightarrow x^{4}+6 x^{3}+12 x^{2}+9 x \\\therefore \quad(f \circ f)(5) & =5^{4}+6 \times 5^{3}+12 \times 5^{2}+9 \times 5 \\& \Rightarrow 625+750+300+45=1720\end{aligned}[/math]
+নির্ণেয় মান [math]1720.[/math]
+ খদলটিকে নিম্নরূপে গঠন করা যায় :
+[Image]
+(a) Qএর ক্ষেত্রে বাছাই সংখ্যা [math]={ }^{6} \mathrm{C}_{5} \times{ }^{2} \mathrm{C}_{2} \times{ }^{8} \mathrm{C}_{4}=420[/math]
+(b) এর ক্ষেত্রে বাছাই সংখ্যা [math]={ }^{6} \mathrm{C}_{5} \times{ }^{2} \mathrm{C}_{1} \times{ }^{8} \mathrm{C}_{5}=672[/math]
+ [math]\therefore[/math]
+ মোট বাছাই সংখ্যা [math]=420+672=1092[/math]
+নির্ণেয় বাছাই সংখ্যা [math]1092[/math]
+ গ [math]\text { BANGLADESH }[/math]
+ শব্দটিতে স্বরবর্ণ আছে [math]3[/math]
+টি [math](AAE)[/math]
+। স্বরবর্ণ [math]3[/math]
+টি একত্রে থাকলে তারা একটি অক্ষরের মতো আচরণ করে। এক্ষেত্রে মোট অক্ষর হবে [math]8[/math]
+টি।[math]\therefore[/math]
+ স্বরবর্ণগুলি একত্রে রেখে সাজানো সংখ্যা [math]=8 ! \times \frac{3 !}{2 !}=120960[/math]
+আবার, সবগুলো অক্ষর ব্যবহার করে মোট সাজানো সংখ্যা[math]\Rightarrow \frac{10 !}{2 !}=1814400[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণগুলি একত্রে না রেখে মোট সাজানো সংখ্যা [math]=1814400-120960[/math]
+ [math]\Rightarrow1693440[/math]
+নির্ণেয় সাজানো সংখ্যা [math]1693440[/math]
+ ।
+
+Explanation:
+ব্যাখ্যা:
+
+ক প্রথমে [math]f(5)=5^{2}+3\cdot 5=25+15=40[/math], তারপর [math]f(40)=40^{2}+3\cdot 40=1600+120=1720[/math]; ফলে [math](f\circ f)(5)=1720[/math]। 
+
+খ "সর্বদা 5 জন বোলার" মানে ঠিক 5 বোলার নেবে: বোলার বেছে নেওয়ার উপায় [math]\binom{6}{5}=6[/math]। উইকেটরক্ষক কমপক্ষে 1 হলে দুটি কেস: (i) 1 রক্ষক: [math]\binom{2}{1}=2[/math] এবং বাকিদের 5 জন ব্যাটসম্যান থেকে [math]\binom{8}{5}=56[/math], মোট [math]6\times 2\times 56=672[/math]; (ii) 2 রক্ষক: [math]\binom{2}{2}=1[/math] এবং ব্যাটসম্যান থেকে [math]\binom{8}{4}=70[/math], মোট [math]6\times1\times70=420[/math]। যোগ করলে মোট [math]672+420=1092[/math] উপায়। 
+
+গ "BANGLADESH"–এ মোট অক্ষর [math]10[/math] এবং [math]A[/math] দুটি সমান, তাই মোট বিন্যাস [math]\dfrac{10!}{2!}=1814400[/math]। সব স্বরবর্ণ (A,A,E) একত্রে হলে তাদেরকে একটি ব্লক ধরে হবে [math]8![/math] জায়গা এবং ব্লকের ভেতরে বিন্যাস [math]\dfrac{3!}{2!}=3[/math], সুতরাং একত্রে থাকার বিন্যাস [math]8!\times3=120960[/math]। অতএব স্বরবর্ণ একত্রে না রেখে বিন্যাসের সংখ্যা [math]1814400-120960=1693440[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 472546)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+[math]\text { 'MUAZUL' }[/math] এর জন্ম তারিখ [math]24.06. 1987.[/math]
+
+Options:
+ক. [math]{ }^{\mathrm{n}} \mathrm{C}_{2}={ }^{3} \mathrm{P}_{1}[/math] হলে [math]n[/math] এর মান নির্ণয় কর ।
+খ. প্রত্যেক অঙ্ককে প্রত্যেক সংখ্যায় একবার মাত্র ব্যবহার করে জন্ম তারিখে ব্যবহৃত অঙ্কগুলো দ্বারা আট অঙ্কের কতগুলো অর্থপূর্ণ সংখ্যা গঠন করা যায়?
+গ. উদ্দীপকের শব্দটি হতে প্রত্যেকবার চারটি অক্ষর নিয়ে গঠিত সমাবেশ সংখ্যা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]{ }^{n} C_{2}={ }^{3} P_{1}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{\lfloor n}{\lfloor 2 \underline{n}-2}=\frac{\lfloor 3}{\lfloor 3-1} \\\Rightarrow \frac{n(n-1)\lfloor n-2}{\lfloor 2\lfloor n-2}=\frac{\lfloor 3}{\lfloor 2} \\\end{array}[/math]
+ [math]\begin{array}{l}\Rightarrow n^{2}-n=6 \\\Rightarrow n^{2}-n-6=0 \\\Rightarrow n^{2}-3 n+2 n-6=0 \\\Rightarrow (n-3)(n+2)=0\end{array}[/math]
+হয়, [math]\mathrm{n}-3=0[/math]
+ [math]\therefore \quad \mathrm{n}=3[/math]
+অথবা, [math]n+2=0[/math]
+কিন্তু, [math]n 
+eq-2[/math]
+নির্ণেয় মান [math]\mathrm{n}=3[/math]
+ খজন্ম তারিখে ব্যবহৃত অঙ্কগুলো হলো : [math]2, 4, 0, 6, 1, 9, 8, 7[/math]
+এখানে, মোট অঙ্ক [math]8[/math]
+টি।[math]8[/math]
+টি অঙ্ক দ্বারা গঠিত আট অঙ্কবিশিষ্ট সংখ্যা [math]= 8![/math]
+কিন্তু প্রথমে [math]0[/math]
+ রেখে অঙ্কগুলো দ্বারা গঠিত সংখ্যা সাত অঙ্কবিশিষ্ট হয়ে যায় ৷[math]\therefore[/math]
+ আট অঙ্কবিশিষ্ট অর্থপূর্ণ সংখ্যা [math]=8 !-7 ![/math]
+ [math]\begin{array}{l}\Rightarrow 40320-5040 \\\Rightarrow 35280 \end{array}[/math]
+নির্ণেয় অর্থপূর্ণ সংখ্যা [math]35280[/math]
+ গএখানে, [math]\text { 'MUAZUL' }[/math]
+ শব্দটিতে মোট [math]6[/math]
+টি অক্ষর আছে যার মধ্যে [math]2[/math]
+টি [math]U[/math]
+। সুতরাং শব্দটিতে মোট [math]5[/math]
+টি ভিন্ন ভিন্ন [math]5[/math]
+অক্ষর আছে । প্রতিবারে [math]4[/math]
+টি অক্ষর বাছাই করার উপায় :i. [math]4[/math]
+টি অক্ষরই ভিন্ন । এক্ষেত্রে সমাবেশ সংখ্যা, [math]{ }^{5} \mathrm{C}_{4}=5 .[/math]
+ii. [math]2[/math]
+টি অভিন্ন ও [math]2[/math]
+টি ভিন্ন। এক্ষেত্রে সমাবেশ সংখ্যা, [math]{ }^{2} C_{2} \times{ }^{4} C_{2}=6[/math]
+ [math]\therefore[/math]
+ মোট সমাবেশ সংখ্যা [math]= 5 + 6 = 11[/math]
+ টি।
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]{}^{n}C_{2}={}^{3}P_{1}[/math] হলে ডানপাশ [math]{}^{3}P_{1}=3[/math]; বামপাশ [math]{n \choose 2}=\dfrac{n(n-1)}{2}[/math] হওয়ায় [math]\dfrac{n(n-1)}{2}=3\Rightarrow n(n-1)=6\Rightarrow (n-3)(n+2)=0[/math]; ফলে ধনাত্মক সমাধান [math]n=3[/math]।
+
+খ জন্মতারিখের অঙ্কগুলো হল [math]2,4,0,6,1,9,8,7[/math] (মোট 8টি ভিন্ন অঙ্ক)। সব বিন্যাসের সংখ্যা [math]8![/math], কিন্তু শূন্য প্রথম স্থানে হলে [math]7![/math] অবৈধ; তাই বৈধ 8-অঙ্কের সংখ্যা [math]8!-7!=40320-5040=35280[/math]।
+
+গ "উদ্দীপক" শব্দে 'দ' দুইটি এবং অন্য অক্ষর পৃথক, মোট 6টি অক্ষর। 4-অক্ষরের সমাবেশ (ক্রম বিবেচনা না করে) নিতে দ-এর গ্রহণকে ধরি: 0 দ → [math]{4 \choose 4}=1[/math], 1 দ → [math]{4 \choose 3}=4[/math], 2 দ → [math]{4 \choose 2}=6[/math]; মোট [math]1+4+6=11[/math] সমাবেশ।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 472547)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018, 2018, 2018, 2018 | Boards: Sylhet Board, Dhaka Board, Dinajpur Board | Tags: Jessore Board, Sylhet Board, Dhaka Board, Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১ : সাদাত [math]0, 3, 4, 5, 6, 9[/math] অঙ্কগুলি লিখতে পারে।
+
+দৃশ্যকল্প-২ ; [math]\overrightarrow{\mathrm{A}}=3 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}+6 \hat{\mathrm{k}}[/math] এবং [math]\vec{B}=\hat{i}-4 \hat{j}-3 \hat{k}[/math]
+
+Options:
+ক. যদি [math]{ }^{n} P_{2}=3^{n} C_{3}[/math], হয় তবে n-এর মান নির্ণয় কর।
+খ. [math]\vec{A}[/math] বরাবর [math]\vec{B}[/math] এর উপাংশ নির্ণয় কর।
+গ. দৃশ্যকল্প-১ হতে, প্রত্যেক অঙ্ককে প্রত্যেক সংখ্যায় কেবল একবার ব্যবহার করে ছয় অঙ্কবিশিষ্ট কতগুলি অর্থপূর্ণ জোড় সংখ্যা গঠন করা যায় তা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]{ }^{\mathrm{n}} \mathrm{P}_{2}=3 \times{ }^{\mathrm{n}} \mathrm{C}_{3}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{n !}{(n-2) !}=3 \times \frac{n !}{3 !(n-3) !}\\\Rightarrow \frac{n !}{(n-2)(n-3) !}=\frac{3 n !}{6(n-3) !}\\\Rightarrow \frac{1}{n-2}=\frac{1}{2}\\\Rightarrow \mathrm{n}-2=2\\\Rightarrow n=2+2\\\therefore \quad n=4 \text{.}\end{array}[/math]
+নির্ণেয় মান : [math]n = 4[/math]
+ খএখানে, [math]\overrightarrow{\mathrm{A}} \cdot \overrightarrow{\mathrm{B}}=(3 \hat{i}+2 \hat{j}+6 \hat{k}) \cdot(\hat{i}-4 \hat{j}-3 \hat{k})[/math]
+ [math]\begin{array}{c}\Rightarrow 3 \times 1+2 \times(-4)+6 \times(-3) \\\Rightarrow 3-8-18=3-26=-23 \\|\vec{A}|=\sqrt{3^{2}+2^{2}+6^{2}}=\sqrt{9+4+36}=\sqrt{49}=7\end{array}[/math]
+ [math]\overrightarrow{\mathrm{A}}[/math]
+ বরাবর [math]\vec{B}[/math]
+ এর উপাংশ [math]=\left(\frac{\vec{A} \cdot \vec{B}}{|\vec{A}|}\right) \cdot\left(\frac{\vec{A}}{|\vec{A}|}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow \left(\frac{-23}{7}\right) \cdot\left(\frac{3 \hat{i}+2 \hat{j}+6 \hat{k}}{7}\right) \\\Rightarrow \frac{-23}{49}(3 \hat{i}+2 \hat{j}+6 \hat{k})\end{array}[/math]
+নির্ণেয় উপাংশ [math]\frac{-23}{49}(3 \hat{i}+2 \hat{j}+6 \hat{k})[/math]
+ গ [math]0, 3, 4, 5, 6, 9[/math]
+ অঙ্কগুলো প্রত্যেক সংখ্যায় কেবল একবার ব্যবহার করে ছয় অঙ্কবিশিষ্ট অর্থপূর্ণ জোড় সংখ্যা গঠন করতে হলে অবশ্যই একক স্থানে [math]0[/math]
+ অথবা [math]4[/math]
+ অথবা [math]6[/math]
+ রাখতে হবে।একক স্থানে [math]0[/math]
+ রেখে অবশিষ্ট [math]5[/math]
+টি অঙ্ককে [math]5[/math]
+টি স্থানে সাজানোরউপায় [math]= 5! = 120[/math]
+টিএকক স্থানে [math]4[/math]
+ রেখে অবশিষ্ট [math]5টি অঙ্ককে[/math]
+5$টি স্থানে সাজানোরউপায় [math]= 5! = 120[/math]
+টিআবার, প্রথম স্থানে [math]0[/math]
+ রেখে প্রাপ্ত সংখ্যা অর্থপূর্ণ ছয় অঙ্কের হয় না।সুতরাং প্রথম অবস্থানে [math]0[/math]
+ এবং একক স্থানে 4 রেখে অবশিষ্ট [math]4[/math]
+টিঅঙ্ককে [math]4[/math]
+টি স্থানে সাজানোর উপায় [math]= 4! = 24[/math]
+টি[math]\therefore[/math]
+ একক স্থানে [math]4[/math]
+ নিয়ে প্রাপ্ত অর্থপূর্ণ জোড় সংখ্যা[math]= (120 – 24 ) = 96[/math]
+ টি।অনুরূপভাবে, একক স্থানে [math]6[/math]
+ রেখে প্রাপ্ত অর্থপূর্ণ জোড় সংখ্যা হবে [math]96[/math]
+টি .[math]\therefore[/math]
+ ছয় অঙ্কবিশিষ্ট অর্থপূর্ণ জোড় সংখ্যা গঠনের মোট উপায়[math]= (120 +96 + 96)[/math]
+টি[math]= 312[/math]
+টি।[math]\therefore[/math]
+ ছয় অঙ্কবিশিষ্ট অর্থপূর্ণ জোড় সংখ্যা গঠন করা যায় [math]312[/math]
+টি
+
+Explanation:
+ব্যাখ্যা:
+
+ক প্রকাশটি অস্পষ্ট — [math]3^{n}C_{3}[/math] দ্বারা আপনি কি [math]{}^{3^{n}}C_{3}[/math] (উপরের সূচক হিসেবে [math]3^{n}[/math]) বোঝাচ্ছেন, নাকি [math]3^{n}\times C_{3}[/math] (কোনো ধ্রুবককে গুণ) বোঝাচ্ছেন? অনুগ্রহ করে স্পষ্ট করুন, তখন সহজে সমাধান দেখাবো।
+
+খ scalar উপাংশ (B এর A বরাবর): [math]\dfrac{\vec{A}\cdot\vec{B}}{|\vec{A}|}=\dfrac{-23}{7}[/math]. ভেক্টরীয় উপাংশ (A বরাবর B-এর projection): [math]\dfrac{\vec{A}\cdot\vec{B}}{|\vec{A}|^{2}}\vec{A}=\dfrac{-23}{49}\vec{A}=\left(-\dfrac{69}{49},-\dfrac{46}{49},-\dfrac{138}{49}\right)[/math]; এখানে [math]\vec{A}\cdot\vec{B}=-23[/math] এবং [math]|\vec{A}|=7[/math] ব্যবহৃত।
+
+গ শেষ অঙ্ক হতে মাত্রা even হওয়া চাই (অঙ্কগুলি 0,4,6), এবং প্রথম অঙ্ক শূন্য হতে পারে না।(i) শেষ = 0 হলে:first 자리 5 উপায়ে, ভিতরের 4টি অঙ্ক 4!ভাবে: [math]5\times4!=120[/math]. (ii) শেষ = 4 বা 6 (দুটি কেস) হলে:first 자리 0 নয় এমন 4 উপায়, ভিতরের 4টি অঙ্ক 4!ভাবে: প্রতি কেসে [math]4\times4!=96[/math], দুই কেসে [math]192[/math]. মোট = [math]120+192=312[/math]টি।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 472548)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018, 2018, 2018, 2018 | Boards: Barisal Board, Rajshahi Board, Chittagong Board | Tags: Barisal Board, Rajshahi Board, Cumilla Board, Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+[math]\text { THESIS }[/math] শব্দটিতে ছয়টি বর্ণ আছে।
+
+Options:
+ক. সম্পূরক সমাবেশ ব্যাখ্যা কর।
+খ. উদ্দীপকে উল্লিখিত শব্দটির স্বরবর্ণগুলো একত্রে না রেখে কতভাবে সাজানো যায় বের কর।
+গ. দেখাও যে, উদ্দীপকের শব্দটি হতে প্রতিবার [math]4[/math]টি করে অক্ষর নিয়ে গঠিত সমাবেশ সংখ্যা [math]11[/math].
+
+
+Correct Answer: 
+
+Solution:
+কসম্পূরক সমাবেশ : [math]n[/math]
+ সংখ্যক জিনিস থেকে [math]r[/math]
+ সংখ্যক জিনিস বাছাই করলে সঙ্গে সঙ্গে [math](n – r)[/math]
+ সংখ্যক জিনিস বাদ পড়ে। অতএব, [math]n[/math]
+ সংখ্যক জিনিস থেকে যতবার r সংখ্যক জিনিস বাছাই করা যায়, ঠিক ততবারই [math](n – r)[/math]
+ সংখ্যক জিনিস বাদ দেওয়া যায়, অর্থাৎ যতবার [math]r[/math]
+ সংখ্যক জিনিস বাছাই করা যায় ততবারই [math](n – r)[/math]
+ সংখ্যক জিনিস বাছাই করা যায় ৷[math]\therefore \quad{ }^{n} C_{r}={ }^{n} C_{n-r}[/math]
+ খTHESIS শব্দটিতে মোট [math]6[/math]
+টি বর্ণ আছে যার মধ্যে [math]2[/math]
+টি [math]S[/math]
+ এবং অবশিষ্ট বর্ণগুলো ভিন্ন। এখানে স্বরবর্ণ [math]2[/math]
+টি হচ্ছে [math]E[/math]
+ ও [math]I[/math]
+। শব্দটির সবগুলো বর্ণ একত্রে নিয়ে বিন্যাস সংখ্যা [math]=\frac{6 !}{2 !}=360[/math]
+স্বরবর্ণগুলোকে একক বর্ণ বিবেচনা করলে শব্দটিতে মোট বর্ণ হবে [math]5[/math]
+টি।এক্ষেত্রে বিন্যাস সংখ্যা [math]=\frac{5 !}{2 !}=60[/math]
+স্বরবর্ণগুলোর নিজেদের মধ্যে বিন্যাস সংখ্যা [math]= 2! = 2[/math]
+ [math]\therefore[/math]
+ স্বরবর্ণগুলো একত্রে রেখে সাজানোর উপায় [math]=60 \times 2=120[/math]
+ [math]\therefore[/math]
+ শব্দটির স্বরবর্ণগুলো একত্রে না রেখে সাজানোর উপায়[math]=(360-120)=240[/math]
+ টিঅতএব, শব্দটির স্বরবর্ণগুলো একত্রে না রেখে [math]240[/math]
+ ভাবে সাজানো যায় ।গ [math]\text { THESIS }[/math]
+ শব্দটি হতে প্রতিবারে [math]4[/math]
+টি অক্ষর দিয়ে গঠিত মোট সমাবেশ সংখ্যা [math]=S[/math]
+ অন্তর্ভুক্ত না করে সমাবেশ সংখ্যা [math]+ 1[/math]
+টি [math]S[/math]
+ অন্তর্ভুক্ত করে সমাবেশ সংখ্যা [math]+ 2[/math]
+টি [math]S[/math]
+ অন্তর্ভুক্ত করে সমাবেশ সংখ্যা[math]\begin{array}{l}\Rightarrow { }^{6-2} \mathrm{C}_{4}+{ }^{6-2} \mathrm{C}_{4-1}+{ }^{6-2} \mathrm{C}_{4-2} \\\Rightarrow { }^{4} \mathrm{C}_{4}+{ }^{4} \mathrm{C}_{3}+{ }^{4} \mathrm{C}_{2} \\\Rightarrow 1+4+6=11\end{array}[/math]
+সুতরাং শব্দটি হতে প্রতিবার 4টি করে অক্ষর নিয়ে গঠিত সমাবেশসংখ্যা [math]11[/math]
+ ।(দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা:
+
+ক সম্পূরক সমাবেশ হচ্ছে একটি পরিবেশক সমাবেশের (universal set) সব উপাদান থেকে নির্দিষ্ট কোনো উপসেটকে বাদ দিলে যে উপাদানগুলো থাকে তা — অর্থাৎ যদি পরিবেশক হয় [math]U[/math] এবং উপসেট হয় [math]A[/math], তাহলে সম্পূরক হল [math]U\setminus A[/math]। 
+
+খ মোট সাজানোর সংখ্যা হবে দ্বৈত S এর কারণে [math]6!/2!=360[/math]; স্বরবর্ণ দুটোকে একত্রে ধরে ব্লক করলে ব্লকসহ বস্তু সংখ্যা [math]5[/math] এবং S পুনরাবৃত্তি আছে, তাই একত্রে থাকা সংখ্যা [math]5!/2!\times 2!=120[/math]; তাই একত্রে না রেখে সাজানো যাবে [math]360-120=240[/math] উপায়ে। 
+
+গ ৪টি অক্ষর নিয়ে সমাবেশ গণনা করতে S দুইটি ব্যবহার করা যেতে পারে (০, ১ বা ২টি S): ০টা S হলে [math]\{T,H,E,I\}[/math] একটাই, ১টা S ও বাকি ৩টি নির্বাচন করতে [math]\binom{4}{3}=4[/math], ২টা S ও বাকি ২টি নিতে [math]\binom{4}{2}=6[/math]; মোট [math]1+4+6=11[/math]টি সমাবেশ।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 472549)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+সম্প্রতি ডিজি অফিস হতে [math]\text { PDS }[/math] ফাইল আপ-টু ডেট করার জন্য প্রতিটি কলেজে নির্দেশ দেয় ৷ নির্দেশমতো আমাদের সহকর্মী মি. খান তার ইউজার আইডি [math]\text { "COMBNAATTION" }[/math] এবং পাসওয়ার্ড [math]\text { "10652" }[/math] ব্যবহার করেন ।
+
+Options:
+ক. [math]{ }^{n} P_{r}=54[/math] এবং [math]{ }^{n} \mathrm{C}_{T}=9[/math] হলে, [math]r[/math] এর মান নির্ণয় কর।
+খ. ইউজার আইডি এর বর্ণগুলি হতে প্রতিবার চারটি করে বর্ণ নিয়ে কত উপায়ে সাজানো যাবে?
+গ. পাসওয়ার্ডের প্রত্যেক অঙ্ককে প্রতি সংখ্যায় কেবল একবার ব্যবহার করে পাঁচ অঙ্কবিশিষ্ট কতগুলি অর্থপূর্ণ বিজোড় সংখ্যা গঠন করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]{ }^{n} P_{r}=54[/math]
+ [math]\Rightarrow \frac{n !}{(n-r) !}=54........[/math]
+(i)এবং [math]\frac{n !}{r !(n-r) !}=9.......[/math]
+(ii)(i)নং কে (ii)নং দ্বারা ভাগ করে, [math]r !=6[/math]
+ [math]\Rightarrow r !=3\Rightarrow r=3[/math]
+নির্ণেয় মান : [math]r=3 .[/math]
+ খইউজার আইডি [math]\text { COMBINATION }[/math]
+ শব্দটিতে মোট [math]11[/math]
+টি বর্ণ আছে যার মধ্যে [math]O[/math]
+ আছে [math]2[/math]
+টি, [math]I[/math]
+আছে [math]2[/math]
+টি, [math]N[/math]
+ আছে [math]2[/math]
+টি এবং অবশিষ্ট [math]5[/math]
+টি বর্ণ ভিন্ন ভিন্ন। শব্দটির বর্ণগুলি হতে প্রতিবার [math]4[/math]
+টি করে বর্ণ নিয়ে নিম্নোক্তভাবে সাজানো যায় :(i) সবগুলি বর্ণ ভিন্ন ভিন্ন ।এক্ষেত্রে সাজানো যায় [math]={ }^{8} C_{4} \times 4 ![/math]
+ উপায়ে[math]= 70 × 24[/math]
+ উপায়ে [math]= 1680[/math]
+ উপায়ে(ii) [math]2[/math]
+টি বর্ণ এক জাতীয় এবং অপর [math]2[/math]
+টি বর্ণ ভিন্ন ভিন্ন ।এক্ষেত্রে সাজানো যায় [math]={ }^{3} C_{1} \times{ }^{7} C_{2} \times \frac{4 !}{2 !}[/math]
+ উপায়ে[math]=3 \times 21 \times \frac{24}{2}[/math]
+ উপায়ে [math]= 756[/math]
+ উপায়ে(iii) [math]2[/math]
+টি বর্ণ এক জাতীয় এবং অপর [math]2[/math]
+টি এক জাতীয় ।এক্ষেত্রে সাজানো যায় [math]={ }^{3} C_{2} \times \frac{4 !}{2 ! 2 !}[/math]
+ উপায়ে[math]=3 \times \frac{24}{2.2}[/math]
+ উপায়ে [math]= 18[/math]
+ উপায়ে[math]\therefore[/math]
+ মোট সাজানো যায় [math]=(1680+756+18)[/math]
+ উপায়ে[math]= 2454[/math]
+ উপায়ে[math]\therefore[/math]
+ প্রতিবার চারটি করে বর্ণ নিয়ে [math]2454[/math]
+ উপায়ে সাজানো যাবে ।গপাসওয়ার্ডের [math]10652[/math]
+ এর প্রত্যেক অঙ্ককে প্রতি সংখ্যায় কেবল একবার ব্যবহার করে পাঁচ অঙ্কবিশিষ্ট অর্থপূর্ণ বিজোড় সংখ্যার শেষ অঙ্ক হবে [math]1[/math]
+ বা [math]5[/math]
+ শেষ অবস্থানে [math]1[/math]
+ নির্দিষ্ট রেখে বাকি [math]4[/math]
+টি অঙ্কসাজানো যায় [math]= 4![/math]
+ উপায়ে [math]= 24[/math]
+ উপায়েপ্রথম অবস্থানে [math]0[/math]
+ রেখে প্রাপ্ত সংখ্যা পাঁচ অঙ্কবিশিষ্ট অর্থপূর্ণ সংখ্যা নয় ।প্রথম' অবস্থানে [math]0[/math]
+ এবং শেষ অবস্থানে [math]1[/math]
+ রেখে অবশিষ্ট [math]3[/math]
+টি অঙ্কসাজানো যায় [math]= 3![/math]
+ উপায়ে [math]= 6[/math]
+ উপায়ে ।[math]\therefore[/math]
+ শেষ অবস্থানে [math]1[/math]
+ রেখে প্রাপ্ত পাঁচ অঙ্কবিশিষ্ট অর্থপূর্ণ বিজোড়সংখ্যা [math]= (24 – 6)[/math]
+ টি [math]= 18[/math]
+ টিঅনুরূপভাবে, শেষ অবস্থানে [math]5[/math]
+ রেখে প্রাপ্ত পাঁচ অঙ্কবিশিষ্ট অর্থপূর্ণবিজোড় সংখ্যা [math]18[/math]
+টি[math]\therefore[/math]
+ পাঁচ অঙ্কবিশিষ্ট অর্থপূর্ণ মোট বিজোড় সংখ্যা [math]= (18 + 18)[/math]
+ টি[math]= 36[/math]
+টি[math]\therefore[/math]
+ পাঁচ অঙ্কবিশিষ্ট [math]36[/math]
+ টি অর্থপূর্ণ বিজোড় সংখ্যা গঠন করা যায় ।
+
+Explanation:
+ক সম্বন্ধে: কারণ [math]{}^{n}P_{r}={}^{n}C_{r}\times r![/math], তাই [math]54=9\times r![/math], ফলে [math]r!=6[/math] এবং তাই [math]r=3[/math]।
+
+খ সম্বন্ধে:টি-ID “COMBNAATTION”–এ মোট ভিন্ন অক্ষর গুণ হলো 8টি (C,M,B,I একেকটি; O,N,A,T প্রতিটির 2টি)। ৪-অক্ষরের বিন্যাসের ক্ষেত্রে তিনটি প্যাটার্ন আছে—সব আলাদা: [math]\binom{8}{4}\times 4!=1680[/math]; একটিকে দুভাবে ও দুইটি ভিন্ন একক: [math]4\times\binom{7}{2}\times\frac{4!}{2!}=1008[/math]; দুইটি জোড়া: [math]\binom{4}{2}\times\frac{4!}{2!2!}=36[/math]; মোট [math]1680+1008+36=2724[/math] উপায়।
+
+গ সম্বন্ধে: ডিজিটগুলি {1,0,6,5,2} এবং বিজোড় শেষ অঙ্ক হতে হবে (1 বা 5) — 2টি বিকল্প; প্রতিটি ক্ষেত্রে বাকি 4টি অঙ্ক প্রথম চার পাশে বসবে কিন্তু শীর্ষ অঙ্ক 0 হতে পারবে না, তাই প্রতি ক্ষেত্রে বৈধ বিন্যাস [math]4!-3!=18[/math]; মোট [math]2\times18=36[/math]টি সংখ্যা।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 472550)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\text { SYLHET }[/math] থেকে [math]\text { BANDARBAN }[/math] এ [math]10[/math] জন শিক্ষার্থীর একটি দল শিক্ষাসফরে আসলো। তাদেরকে দুটি গাড়িতে ভ্রমণ করতে হবে, যার একটিতে [math]7[/math] জনের বেশি ও অন্যটিতে [math]4[/math] জনের বেশি শিক্ষার্থী ধরে না।
+
+Options:
+ক. [math]f(x)=2 x-5[/math] এবং [math]g(x)=x^{2}+6[/math] হলে, [math](gof) (2)[/math] নির্ণয় কর।
+খ. দেখাও যে, ২য় স্থানটির বর্ণগুলির বিন্যাস সংখ্যা ১ম স্থানটির বর্ণগুলির বিন্যাস সংখ্যার [math]21[/math] গুণ।
+গ. দলটি কত প্রকারে ভ্রমণ করতে পারবে?
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]f(x)=2 x-5[/math]
+ এবং [math]g(x)=x^{2}+6[/math]
+ [math]\begin{aligned}gof(x) & =g(f(x)=g(2 x-5) \\& \Rightarrow(2 x-5)^{2}+6 \\& \Rightarrow 4 x^{2}-20 x+25+6 \\& \Rightarrow 4 x^{2}-20 x+31 \\\therefore \quad gof(2) & =4.2^{2}-20.2+31 \\& \Rightarrow 16-40+31 \\& \Rightarrow 47-40 \\& \Rightarrow 7\end{aligned}[/math]
+নির্ণেয় মান [math]7[/math]
+ খ১ম স্থান [math]\text { SYLHET }[/math]
+ এ মোট [math]6[/math]
+টি বর্ণ আছে যার মধ্যে সবগুলো বর্ণ ভিন্ন ভিন্ন ।[math]\therefore \quad \text { SYLHET }[/math]
+ এর বর্ণগুলির বিন্যাস সংখ্যা [math]= 6! = 720[/math]
+ [math]\text { BANDARBAN }[/math]
+ এ মোট [math]9[/math]
+টি বর্ণ আছে যার মধ্যে [math]B[/math]
+ আছে [math]2[/math]
+টি, [math]A[/math]
+আছে [math]3[/math]
+ টি , [math]N[/math]
+ আছে [math]2[/math]
+টি এবং অবশিষ্ট বর্ণগুলি ভিন্ন ভিন্ন ।BANDARBAN এর বর্ণগুলির বিন্যাস সংখ্যা[math]\begin{array}{l}\Rightarrow \frac{9 !}{2 ! 3 ! 2 !}=\frac{362880}{2.6 .2} \\\Rightarrow 15120=21 \times 720\end{array}[/math]
+ [math]\Rightarrow 21 \times \text { SYLHET }[/math]
+ এর বর্ণগুলির বিন্যাস সংখ্যা[math]\therefore[/math]
+ 2য় স্থানটির বর্ণগুলির বিন্যাস সংখ্যা ১ম স্থানটির বিন্যাস সংখ্যার[math]21[/math]
+ গুণ । (দেখানো হলো)গদুইটি গাড়ীতে [math]10[/math]
+ জন শিক্ষার্থী নিম্নোক্তভাবে ভ্রমণ করতে পারবে :(i) প্রথম গাড়ীতে [math]7[/math]
+ জন এবং দ্বিতীয় গাড়িতে [math]3[/math]
+ জন ।এক্ষেত্রে ভ্রমণ করতে পারবে [math]={ }^{10} C_{7} \times{ }^{3} C_{3}[/math]
+ প্রকারে[math]\Rightarrow 120 \times 1[/math]
+ প্রকারে[math]\Rightarrow 120[/math]
+ প্রকারে(ii) প্রথম গাড়ীতে [math]6[/math]
+ জন এবং দ্বিতীয় গাড়ীতে [math]4[/math]
+ জন ।এক্ষেত্রে ভ্রমণ করতে পারবে [math]={ }^{10} C_{6} \times{ }^{4} C_{4}[/math]
+ প্রকারে[math]\Rightarrow 210 \times 1=210[/math]
+ প্রকারে[math]\therefore[/math]
+ দলটি ভ্রমণ করতে পারবে মোট [math]=(120+210)[/math]
+ প্রকারে[math]\Rightarrow 330[/math]
+ প্রকারে[math]\therefore[/math]
+ দলটি [math]330[/math]
+ প্রকারে ভ্রমণ করতে পারবে।
+
+Explanation:
+ক [math]f(2)=2\cdot 2-5=-1[/math], সুতরাং [math](g\circ f)(2)=g(f(2))=g(-1)=(-1)^2+6=7[/math] — তাই ফল [math]7[/math]।
+
+খ প্রশ্নটিতে কোন বর্ণ বা কোন অবস্থানের কথা বলা হচ্ছে সেটা স্পষ্ট নয়; সাধারণভাবে, দুইটি ভিন্ন অবস্থায় বর্ণগুলোর বিন্যাসের সংখ্যা তুলনা করতে হলে কোন অবস্থায় কোন বর্ণ স্থির করা হচ্ছে এবং বাকি বর্ণগুলোর পুনরাবৃত্তি আছে কিনা জানা প্রয়োজন — অনুপাত বের করতে সেই তথ্য দিন, তবেই স্পষ্টভাবে দেখানো যাবে।
+
+গ ছোট কারে (সীমা 4) যতজন যাবে তাদের সংখ্যা হতে হবে [math]k[/math] যেখানে [math]3\le k\le4[/math] (কারণ মোট [math]10[/math] জন ও বড় কারের সর্বোচ্চ ধারণক্ষমতা [math]7[/math])। তাই সম্ভাব্য কেস দুটো: ছোট কারে [math]3[/math] জন বা [math]4[/math] জন; মোট উপায় = [math]\binom{10}{3}+\binom{10}{4}=120+210=330[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 472542)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math](i)[/math] একটি স্থানে ১টি হলুদ, ২টি সবুজ ও ৩টি লাল পতাকা বিদ্যমান।
+
+[math](ii)[/math] [math]f: \mathbb{R}-\left\{\frac{3}{2}\right\} \rightarrow \mathbf{R}[/math] ফাংশনটি [math]f(x)=\frac{x-1}{3 x-2}[/math]
+
+Options:
+ক. [math]p(x)=2 x+1, g(x)=4[/math] হলে, [math]gop[/math] নির্ণয় কর।
+খ. [math]f[/math] দ্বারা বর্ণিত ফাংশনটি এক-এক এবং সার্বিক কি না নির্ণয় কর।
+গ. একটি সংকেত প্রদানের জন্য সারিতে চারটি পতাকা প্রয়োজন হলে, পতাকাগুলি সারিতে ব্যবহার করে কতটি সংকেত প্রদান করা যাবে তা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]p(x)=2 x+1[/math]
+ এবং [math]g(x)=4[/math]
+এখন, [math]g o p=g o p(x)=g(p(x))=g(2 x+1)=4 \text {. }[/math]
+ খ [math]f: \mathbb{R}-\left\{\frac{3}{2}\right\} \rightarrow \mathbb{R}[/math]
+ এবং [math]f(x)=\frac{x-1}{3 x-2}[/math]
+মনে করি, [math]\mathrm{a}, \mathrm{b} \in[/math]
+ ডোম [math]f[/math]
+ [math]\therefore \quad f(a)=\frac{a-1}{3 a-2}[/math]
+ এবং [math]f(b)=\frac{b-1}{3 b-2}[/math]
+ [math]f(\mathrm{a})=f(\mathrm{~b})[/math]
+ হলে,[math]\begin{array}{l}\Rightarrow \frac{a-1}{3 a-2}=\frac{b-1}{3 b-2} \\\Rightarrow 3 a b-2 a-3 b+2=3 a b-2 b-3 a+2 \\\Rightarrow a=b\end{array}[/math]
+ [math]\therefore f[/math]
+ ফাংশনটি এক-একসার্বিক যাচাই :[math]f[/math]
+ এর ডোমেন [math]=\mathbb{R}-\left\{\frac{3}{2}\right\}[/math]
+ [math]f[/math]
+ এর কোডোমেন [math]=\mathbb{R}[/math]
+ধরি, [math]y=f(x)=\frac{x-1}{3 x-2}[/math]
+এখন, [math]f(x)=\tilde{y}[/math]
+ [math]\Rightarrow x=f^{-1}(y)[/math]
+আবার, [math]y=\frac{x-1}{3 x-2}[/math]
+ [math]\begin{array}{l}\Rightarrow 3 x y-2 y=x-1\\\Rightarrow 3 x y-x=2 y-1\\\Rightarrow x=\frac{2 y-1}{3 y-1}\end{array}[/math]
+ [math]\Rightarrow f^{-1}(y)=\frac{2 y-1}{3 y-1} \in R[/math]
+ হবে যদি,[math]\begin{array}{l}3 y-1 
+eq 0\\\Rightarrow y 
+eq \frac{1}{3}\end{array}[/math]
+ [math]\therefore f(x)[/math]
+ এর রেঞ্জ [math]=\mathbb{R}-\left\{\frac{1}{3}\right\}[/math]
+ [math]f[/math]
+ এর রেঞ্জ [math]
+eq f[/math]
+ এর কোডােমেনসুতরাং [math]f[/math]
+ সার্বিক নয় ।গপতাকা বাছাই করার সম্ভাব্য উপায় :
+[Image]
+a এর জন্য সংকেত সংখ্যা [math]=\frac{4 !}{3 !}=4[/math]
+b এর জন্য সংকেত সংখ্যা [math]=\frac{4 !}{2 ! 2 !}=6[/math]
+c এর জন্য সংকেত সংখ্যা [math]=\frac{4 !}{2 !}=12[/math]
+d এর জন্য সংকেত সংখ্যা [math]=\frac{4 !}{3 !}=4[/math]
+e এর জন্য সংকেত সংখ্যা [math]=\frac{4 !}{2 !}=12[/math]
+মোট সংকেত সংখ্যা [math]=4+6+12+4+12=38[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক কারণ [math]g[/math] একটি ধ্রুবক ফাংশন, তাই [math](g\circ p)(x)=g(p(x))=4[/math]—অর্থাৎ গঠনটি সব ক্ষেত্রে 4 দেয়।
+
+খ প্রথমে লক্ষ্য করুন যে [math]f(x)=\frac{x-1}{3x-2}[/math] এর কেন্দ্রকে শূন্য করতে হলে [math]3x-2=0\Rightarrow x=\tfrac{2}{3}[/math] হওয়া প্রয়োজন (অতএব ডোমেইন সাধারণত [math]\mathbb{R}\setminus\{\tfrac{2}{3}\}[/math] হবে)। এছাড়া [math]f'(x)=\frac{1}{(3x-2)^2}>0[/math] যেখানে সংজ্ঞায়িত, তাই [math]f[/math] এক-এক (injective)। সমীকরণটি উলটে দেখলে [math]y=\frac{x-1}{3x-2}\Rightarrow x=\frac{2y-1}{3y-1}[/math], যা [math]y=\tfrac{1}{3}[/math] জন্য ব্যবহারের যোগ্য নয়, সুতরাং [math]f[/math] সার্বিক (onto) নয়; রেঞ্জ হল [math]\mathbb{R}\setminus\{\tfrac{1}{3}\}[/math]।
+
+গ ধরণগুলোতে সীমা প্রয়োগ করে গোনা হলে সম্ভাব্য বন্টন ও তাদের বিন্যাস সংখ্যা হল: (0,1,3)→[math]4[/math], (0,2,2)→[math]6[/math], (1,0,3)→[math]4[/math], (1,1,2)→[math]12[/math], (1,2,1)→[math]12[/math]; মোট [math]4+6+4+12+12=38[/math]টি সংকেত তৈরি করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 472543)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\text { "Practice sharpens knowledge." }[/math]
+
+Options:
+ক. একটি পঞ্চভুজের কর্ণের সংখ্যা নির্ণয় কর।
+খ. উদ্দীপকের শেষ শব্দটির বর্ণগুলির সাজানো ব্যবস্থায় কতগুলিতে স্বরবর্ণগুলি একত্রে থাকবে না?
+গ. উদ্দীপকের প্রথম শব্দটির বর্ণগুলি থেকে প্রতিবারে 4টি বর্ণ নিয়ে কতগুলি শব্দ গঠন করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+কআমরা জানি, [math]n[/math]
+ ভুজের কর্ণ সংখ্যা [math]={ }^{n} C_{2}-n[/math]
+ [math]\therefore[/math]
+ পঞ্চভুজের কর্ণ সংখ্যা [math]={ }^{5} C_{2}-5[/math]
+ [math]\Rightarrow 10-5=5[/math]
+ টিনির্ণেয় কৰ্ণ সংখ্যা [math]5[/math]
+টি।খ [math]\text { KNOWLEDGE }[/math]
+ শব্দটিতে মোট বর্ণ [math]9[/math]
+টি। যেখানে [math]2[/math]
+টি [math]E[/math]
+ বাকী বর্ণ [math]1[/math]
+টি করে ।[math]\therefore[/math]
+ শব্দটির বিন্যাস [math]=\frac{9 !}{2 !}=181440[/math]
+আবার, শব্দটিতে স্বরবর্ণ আছে [math]3[/math]
+টি [math](OEE)[/math]
+। স্বরবর্ণগুলিকে একত্রে রাখলে মোট অক্ষর হবে [math]7[/math]
+টি।[math]\therefore[/math]
+ স্বরবর্ণ একত্রে রাখলে বিন্যাস [math]=7 ! \times \frac{3 !}{2 !}[/math]
+ [math]\Rightarrow 15120[/math]
+স্বরবর্ণগুলো একত্রে না রেখে বিন্যাস [math]=181440-15120[/math]
+ [math]\Rightarrow166320[/math]
+নির্ণেয় সাজানো সংখ্যা [math]166320.[/math]
+ গউদ্দীপকের ১ম শব্দটি [math]\text { PRACTICE }[/math]
+ [math]\begin{array}{|l|l|l|l|l|l|l|}\hline \mathrm{P} & \mathrm{R} & \mathrm{A} & \mathrm{C} \mathrm{C} & \mathrm{T} & \mathrm{I} & \mathrm{E} \\\hline\end{array}[/math]
+(i) ভিন্ন ভিন্ন [math]7[/math]
+টি বর্ণ হতে [math]4[/math]
+টি বর্ণ নিয়ে শব্দ গঠনের উপায়[math]\Rightarrow{ }^{7} \mathrm{C}_{4} \times 4 !=840[/math]
+(ii) দুটি [math]C[/math]
+ এবং বাকি দুটি ভিন্ন বর্ণ নিয়ে শব্দ গঠনের উপায়[math]\Rightarrow { }^{6} \mathrm{C}_{2} \times \frac{4 !}{2 !}=180[/math]
+ [math]\therefore[/math]
+ মোট শব্দ গঠনের উপায় [math]=840+180[/math]
+ [math]\Rightarrow 1020[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক পঞ্চভুজের কর্ণের সংখ্যা সাধারণ সূত্র [math]n(n-3)/2[/math] দিয়ে প্রাপ্ত হবে, তাই [math]5(5-3)/2=5[/math] কর্ণ আছে।
+
+খ "knowledge" শব্দে মোট অক্ষর 9টি কিন্তু [math]e[/math] দুবার আছে, তাই মোট বিন্যাস [math]9!/2![/math]। সব স্বরবর্ণ (o, e, e) একত্রে ধরলে একটী ব্লক হিসেবে থাকবে, সেইগুলোর বিন্যাস [math]7!\times(3!/2!)=7!\times3[/math]; তাই একত্রে না থাকার সংখ্যা হবে [math]9!/2! - 7!\times3 =166320[/math]।
+
+গ "Practice"–এ মোট 8টি অক্ষর আছে যেখানে [math]c[/math] দুটো, অর্থাৎ 7 ভিন্ন অক্ষর। চারটি ভিন্ন অক্ষর নিয়ে বিন্যাসের সংখ্যা [math]\binom{7}{4}\times4!=840[/math] এবং দুইটি [math]c[/math] ব্যবহার করে বাকি দুটি ভিন্ন অক্ষর নিলে [math]\binom{6}{2}\times\frac{4!}{2!}=180[/math]; মোট [math]840+180=1020[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 472544)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]NAMITA[/math] তার ক্লাসে জার্মান পদার্থবিদ [math]\text { 'EINSTEIN' }[/math] এর থিওরি অব রিলেটিভিটি সম্পর্কে আলোচনা করে ।
+
+Options:
+ক. [math]{ }^{2 n+1} P_{n+1}:^{2 n} P_{n+2}=5: 2[/math] হলে [math]n[/math] এর মান নির্ণয় কর।
+খ. উদ্দীপকের দ্বিতীয় নামটির স্বরবর্ণগুলিকে একত্রে না রেখে কত প্রকারে সাজানো যায়?
+গ. উদ্দীপকের প্রথম নামটির বর্ণগুলি থেকে প্রতিবারে [math]4[/math]টি বর্ণ নিয়ে কত প্রকারে বাছাই করা যায়?
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]{ }^{2 n+1} P_{n+1}:{ }^{2 n} P_{n+2}=5: 2[/math]
+ [math]\Rightarrow \frac{{ }^{2 n+1} P_{n+1}}{{ }^{2 n} P_{n+2}}=\frac{5}{2}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{\lfloor 2 n+1}{\lfloor 2 n+1-n-1} \times \frac{2 n-n-2}{\lfloor 2 n}=\frac{5}{2}\\\Rightarrow \frac{(2 n+1) \cdot\lfloor 2 n}{\lfloor n} \times \frac{\lfloor n-2}{\lfloor 2 n}=\frac{5}{2}\\\Rightarrow \frac{(2 n+1)\lfloor n-2}{n(n-1)\lfloor n-2}=\frac{5}{2}\end{array}[/math]
+ [math]\begin{array}{l}\to 5 n^{2}-5 n=4 n+2\\\Rightarrow 5 n^{2}-9 n-2=0\\\Rightarrow 5 \mathrm{n}^{2}-10 \mathrm{n}+\mathrm{n}-2=0\\\Rightarrow 5 n(n-2)+1(n-2)=0\\\Rightarrow (n-2)(5 n+1)=0\\\Rightarrow n-2=0[\because(5 n+1) 
+eq 0]\\\therefore \quad n=2\end{array}[/math]
+নির্ণেয় মান : [math]n = 2[/math]
+ খ [math]\text { 'EINSTEIN' }[/math]
+ শব্দটিতে মোট বর্ণ [math]8[/math]
+টি ।স্বরবর্ণ আছে [math]4[/math]
+ টি [math](EIEI)[/math]
+সবগুলো বর্ণ নিয়ে সাজানো সংখ্যা [math]=\frac{8 !}{2 ! 2 ! 2 !}[\because 2[/math]
+ টি [math]E, 2[/math]
+ টি [math]\text { I, } 2[/math]
+ টি [math]N][/math]
+ [math]\Rightarrow 5040[/math]
+স্বরবর্ণ [math]4[/math]
+টি কে [math]1[/math]
+টি ধরে মোট বর্ণ সংখ্যা হবে [math]= (4 + 1)[/math]
+ টি বা [math]5[/math]
+টিএবং এই [math]5[/math]
+টি বর্ণের বিন্যাস সংখ্যা [math]=\frac{5 !}{2 !}=60 .[/math]
+আবার, স্বরবর্ণগুলোর নিজেদের মধ্যে বিন্যাস সংখ্যা [math]=\frac{4 !}{2 ! 2 !}=6[/math]
+স্বরবর্ণগুলোকে একত্রে না রেখে সাজানো সংখ্যা[math]=5040-(60 \times 6)=4680[/math]
+নির্ণেয় বিন্যাস সংখ্যা [math]4680[/math]
+ গ [math]\text { 'NAMITA' }[/math]
+ শব্দটিতে মোট [math]6[/math]
+টি বর্ণ আছে যার মধ্যে [math]2[/math]
+টি A।সুতরাং শব্দটিতে [math]5[/math]
+টি ভিন্ন ভিন্ন বর্ণ আছে। প্রতিবারে [math]4[/math]
+টি বর্ণ নিম্ন, উপায়ে বাছাই করা যায় :i. [math]4[/math]
+টি বর্ণ ভিন্ন । এক্ষেত্রে বাছাই সংখ্যা [math]={ }^{5} C_{4}=5[/math]
+ii. [math]2[/math]
+টি অভিন্ন এবং [math]2[/math]
+টি ভিন্ন । এক্ষেত্রে বাছাই সংখ্যা [math]={ }^{2} C_{2} \times{ }^{4} C_{2}=6[/math]
+ [math]\therefore[/math]
+ মোট বাছাই সংখ্যা [math]= 5 + 6 = 11[/math]
+নির্ণেয় বাছাই সংখ্যা [math]11[/math]
+
+
+Explanation:
+ক সমাধান: [math]{}^{2n+1}P_{n+1} = \frac{(2n+1)!}{n!},\; {}^{2n}P_{n+2}=\frac{(2n)!}{(n-2)!}[/math] হওয়ায় অনুপাত দাঁড়ায় [math]\frac{2n+1}{n(n-1)}=\frac{5}{2}[/math]; এটা সমাধান করলে [math]5n^2-9n-2=0[/math] এবং পূর্ণসংখ্যা সমাধান হল [math]n=2[/math] (নিয়ম অনুযায়ী [math]n\ge2[/math])। 
+
+খ সমাধান: "EINSTEIN"–এ মোট [math]8[/math] বর্ণ আছে, স্বরবর্ণ [math](E,I)[/math] মোট [math]4[/math]টি এবং ব্যঞ্জনবর্ণ মোট [math]4[/math]টি (N দুইটি)। ব্যঞ্জনবর্ণগুলি প্রথমে সাজালে পরিচিত বিন্যাস [math]\frac{4!}{2!}=12[/math] এবং তাদের মধ্যে গ্যাপ [math]5[/math]টি থেকে [math]4[/math]টি গ্যাপে স্বরবর্ণ রাখার উপায় [math]\binom{5}{4}=5[/math], স্বরবর্ণের নিজস্ব বিন্যাস [math]\frac{4!}{2!2!}=6[/math]; মোট উপায় [math]12\times5\times6=360[/math]।
+
+গ সমাধান: "NAMITA"–এ বর্ণসমষ্টি A×2, N,M,I,T প্রতিটি ×1; চারটি বর্ণ বাছাই করলে A-এর সংখ্যা হতে পারে 0,1 বা 2। 0A হলে [math]\binom{4}{4}=1[/math], 1A হলে [math]\binom{4}{3}=4[/math], 2A হলে [math]\binom{4}{2}=6[/math]; মোট [math]1+4+6=11[/math] টি ভিন্ন বাছাই।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 472541)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+একটি সরলরেখার [math]\text { EQUATION } 4 x-3 y+c=0[/math] এর উপর দুইটি বিন্দু [math]P(4, 3)[/math] ও [math]Q (– 8, - 5)[/math]।
+
+Options:
+ক. [math]PQ[/math] রেখাকে x-অক্ষ যে অনুপাতে বিভক্ত করে তা বের কর।
+খ. [math]PQ[/math] রেখার লম্ব সমদ্বিখণ্ডক দ্বারা x অক্ষের ছেদাংশ নির্ণয় কর।
+গ. উদ্দীপকের ব্লক লেটারে লেখা শব্দটি থেকে দুইটি স্বরবর্ণ এবং একটি ব্যঞ্জনবর্ণ নিয়ে কতগুলি শব্দ গঠন করা যাবে যেখানে স্বরবর্ণগুলির ক্রম পরিবর্তন হবে না?
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+ধরি, [math]PQ[/math]
+ কে x অক্ষ [math]C(a, 0)[/math]
+ বিন্দুতে [math]m : n[/math]
+ অনুপাতে অন্তর্বিভক্ত করে।[math]\therefore \quad C\left(\frac{-8 m+4 n}{m+n}, \frac{-5 m+3 n}{m+n}\right) .[/math]
+প্রশ্নমতে, [math]\frac{-5 m+3 n}{m+n}=0[/math]
+ [math]\begin{array}{l}\Rightarrow -5 m+3 n=0\\\Rightarrow 5 \mathrm{~m}=3 \mathrm{n}\\\Rightarrow \frac{\mathrm{m}}{\mathrm{n}}=\frac{3}{5}\\\Rightarrow m: n=3: 5\end{array}[/math]
+নির্ণেয় অনুপাত [math]3 :5[/math]
+ খ
+[Image]
+ধরি, [math]PQ[/math]
+ এর মধ্যবিন্দু [math]D[/math]
+ [math]\therefore \quad D\left(\frac{4-8}{2}, \frac{3-5}{2}\right)=D(-2,-1)[/math]
+ [math]PQ[/math]
+ রেখার ঢাল [math]=\frac{3+5}{4+8}=\frac{8}{12}=\frac{2}{3}[/math]
+ [math]PQ[/math]
+ রেখার উপর লম্ব রেখার ঢাল [math]=-\frac{1}{\frac{2}{3}}=\frac{-3}{2}[/math]
+ [math]D(− 2, – 1)[/math]
+ বিন্দুগামী [math]PQ[/math]
+ রেখার লম্ব রেখা[math]\begin{array}{l}y+1=\frac{-3}{2}(x+2) \\\Rightarrow 2 y+2=-3 x-6 \\\Rightarrow 3 x+2 y+8=0 \\\Rightarrow 3 x+2 y=-8 \\\Rightarrow \frac{3 x}{-8}+\frac{2 y}{-8}=1 \\\Rightarrow \frac{x}{-\frac{8}{3}}+\frac{y}{-4}=1\end{array}[/math]
+রেখাটি দ্বারা x অক্ষের ছেদাংশ [math]=\left|\frac{-8}{3}\right|=\frac{8}{3}[/math]
+ একক।গব্লক লেটারে লেখা প্রদত্ত শব্দ [math]\text { EQUATION }[/math]
+শব্দটিতে স্বরবর্ণ : [math]\text { EUAIO }[/math]
+ব্যাঞ্জনবর্ণ : [math]\text { QTN }[/math]
+ [math]\begin{array}{|l|l|}\hline \text { EUAIO } & \text { QTN } \\\hline\end{array}[/math]
+দুইটি স্বরবর্ণ ও একটি ব্যাঞ্জনবর্ণ বাছাই করার উপায় সংখ্যা[math]\Rightarrow{ }^{5} \mathrm{C}_{2} \times{ }^{3} \mathrm{C}_{1}=10 \times 3=30[/math]
+প্রতিটি বাছাইয়ে [math]3[/math]
+টি বর্ণ আছে যেখানে [math]2[/math]
+টি স্বরবর্ণ ও একটি ব্যাঞ্জনবর্ণ ।[math]\therefore[/math]
+ স্বরবর্ণ দুইটি ক্রম পরিবর্তন না করে বিন্যাস সংখ্যা [math]=30 \times \frac{3 !}{2 !}=30 \times 3=90[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক PQ-র ঢালটি হল [math]\dfrac{-5-3}{-8-4}=\dfrac{2}{3}[/math], তাই রেখার সমীকরণ হলো [math]y-3=\dfrac{2}{3}(x-4)\Rightarrow 2x-3y+1=0[/math]; x-অক্ষ ছেদবিন্দুতে [math]y=0[/math] দিলে [math]x=-\tfrac{1}{2}[/math] পাওয়া যায়। P থেকে সেই বিন্দু পর্যন্ত অনুপাত নির্ণয়ে [math]4-12t=-\tfrac{1}{2}\Rightarrow t=\tfrac{3}{8}[/math], ফলে PR:RQ = [math]\tfrac{3}{8}:\tfrac{5}{8}=3:5[/math]।
+
+খ PQ-র মধ্যবিন্দু হল [math]\bigl(\tfrac{4+(-8)}{2},\tfrac{3+(-5)}{2}\bigr)=(-2,-1)[/math] এবং উলম্ব ঢাল [math]-\tfrac{3}{2}[/math]; উলম্ব সমদ্বিখণ্ডকের সমীকরণ [math]y+1=-\tfrac{3}{2}(x+2)[/math], x-অক্ষে (y=0) ছেদ দিলে [math]x=-\tfrac{8}{3}[/math] পাওয়া যায়।
+
+গ ব্লক লেটারে লেখা শব্দটি "EQUATION" — এখানে স্বরবর্ণ 5টি (E,U,A,I,O) ও ব্যঞ্জনবর্ণ 3টি (Q,T,N)। দুইটি স্বরবর্ণ চয়ন করা যায় [math]\binom{5}{2}=10[/math] ভাবে, ব্যঞ্জনবর্ণের জন্য 3 টি নির্বাচন, এবং প্রতিটি নির্বাচনের জন্য স্বরবর্ণদের ক্রম অপরিবর্তিত রেখে তিনটি বিন্যাস সম্ভব, তাই মোট [math]10\times3\times3=90[/math] শব্দ গঠন করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 472529)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Dhaka City College
+--------------------------------------------------------------------------------
+Question:
+[math]6[/math] জন শিক্ষার্থীকে সমান সংখ্যক শিক্ষার্থীর দুইটি দলে কত রকমে বিভক্ত করা যায়?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+6 জন শিক্ষার্থীকে সমান সংখ্যক শিক্ষর্থীর দুইটি দলে বিভক্ত করা যায় [math]\frac{6!}{2!(3!)^{2}}=10[/math]
+
+Explanation:
+ব্যাখ্যা: প্রথমে 6 জন থেকে 3 জন বেছে নেওয়ার সংখ্যা [math]\binom{6}{3}=20[/math]. কিন্তু দুইটি দলে লেবেল না থাকায় (দলগুলো আদল-প্রদল করলে একই বিন্যাস) প্রতিটি ভাগকে দুবার গণনা করা হয়েছে, তাই ফলাফল [math]20/2=10[/math], তাই সঠিক উত্তর B।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 472414)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{n} P_{r}=240[/math] এবং [math]{ }^{n} C_{r}=120[/math] হলে [math]r=[/math] ?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\frac{{ }^{n} P_{r}}{{ }^{n} C_{r}}=[/math]
+ [math]\frac{240}{120}[/math]
+ [math]\Rightarrow \frac{\frac{n!}{(n-r)!}}{\frac{n!}{r!(n-r)!}}[/math]
+ [math]= 2[/math]
+ [math]\Rightarrow r!=2[/math]
+ [math]\Rightarrow r=2[/math]
+
+
+Explanation:
+ব্যাখ্যা: পরিমার্জনায় থাকে [math]{}^{n}P_{r}={}^{n}C_{r}\times r![/math]। এখানে [math]240=120\times r![/math] থেকে [math]r!=2[/math] তাই [math]r=2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 472431)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]\text { 'PARALLEL' }[/math] ও [math]\text { 'EQUATION' }[/math] দুইটি শব্দ ।
+
+২য় শব্দটির বর্ণগুলি থেকে
+
+i. [math]5[/math] টি বর্ণ বাছাই করা যায় [math]{ }^{8} C_{3}[/math] উপায়ে ।
+
+iii. [math]3[/math] টি স্বরবর্ণ ও [math]2[/math]টি ব্যঞ্জনবর্ণ নিয়ে শব্দ গঠন করা যায় [math]3600[/math] সংখ্যক ।
+
+iii. অন্তত একটি স্বরবর্ণ ও অন্তত একটি ব্যঞ্জন বর্ণ বাছাই করা যায় [math]\left(2^{5}-1\right)\left(2^{3}-1\right)[/math] উপায়ে ।
+
+নিচের কোনটি সঠিক?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+সব তথ্য সত্য।[math]\therefore[/math] $ Ans. (D)
+
+Explanation:
+ব্যাখ্যা: প্রথমটি সঠিক, কারণ [math]\text{EQUATION}[/math]-এর ৮টি ভিন্ন অক্ষর থেকে ৫টি বেছে নেওয়ার সংখ্যা [math]{8}C_{5}={8}C_{3}[/math]. দ্বিতীয়টি সঠিক, কারণ ৩টি স্বরবর্ণ ও ২টি ব্যঞ্জনবর্ণ নিয়ে শব্দ গঠনের সংখ্যা হলো [math]{5}C_{3}\times {3}C_{2}\times 5! =10\times3\times120=3600[/math]. তৃতীয়টি সঠিক, কারণ অন্তত একটি স্বর ও অন্তত একটি ব্যঞ্জন বাছাই করার সব সংমিশ্রণ সংখ্যা হল [math](2^{5}-1)(2^{3}-1)=31\times7=217[/math]. তাই সবগুলো বিবৃতি সঠিক—অর্থাৎ উত্তর D সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 472311)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10[/math]টি বৃত্ত এবং [math]15[/math]টি সরলরেখার সর্বোচ্চ ছেদবিন্দু সংখ্যা কত?
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+মোট ছেদবিন্দুসংখ্যা [math]={ }^{15} \mathrm{C}_{2}[/math]
+ [math]\times 1+{ }^{10} \mathrm{C}_{2}[/math]
+ [math]\times 2+{ }^{15} \mathrm{C}_{1} \times{ }^{10} \mathrm{C}_{1} \times 2[/math]
+ [math]=495[/math]
+
+
+Explanation:
+ব্যাখ্যা: বৃত্তদ্বয়ের সর্বোচ্চ ছেদবিন্দু [math]\binom{10}{2}\times 2=90[/math], সরলরেখাদ্বয়ের সর্বোচ্চ ছেদবিন্দু [math]\binom{15}{2}=105[/math], এবং প্রতিটি সরলরেখা-বৃত্ত যুগল সর্বোচ্চ [math]2[/math] ছেদ করে তাই [math]15\times10\times2=300[/math]। ফলে মোট ছেদবিন্দু সংখ্যা [math]90+105+300=495[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 472335)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+করিম জসিমকে ৫টি অংক বলতে বললো। জসিম তখন [math]2, 3, 0, 9, 6[/math] অঙ্কগুলো উল্লেখ করলো।
+
+জসিমের উল্লেখকৃত অংকগুলো একবার ব্যবহার করে গঠিত [math]5[/math] অঙ্কবিশিষ্ট সংখ্যাগুলোর সমষ্টি কত?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+সমষ্টি [math]=(n-1) ! \times s[/math]
+ [math]\times \sum_{i=0}^{n-1} 10^{i}[/math]
+এখানে, [math]n =[/math]
+ অঙ্কগুলোর সংখ্যা[math]s =[/math]
+ অঙ্কগুলোর সমষ্টি[math]2, 3, 0, 9, 6[/math]
+ দ্বারা গঠিত সকল সংখ্যার সমষ্টি[math]\Rightarrow 4 ! \times(2+3+0+9+6)[/math]
+ [math]\times\left(10^{0}+10^{1}+10^{2}+10^{3}+10^{4}\right)[/math]
+ [math]\Rightarrow 4 ![/math]
+ [math]\times 20 \times 11111[/math]
+ [math]\Rightarrow 53,33,280[/math]
+ [math]2, 3, 0, 9, 6[/math]
+ দ্বারা গঠিত [math]4[/math]
+ অঙ্কবিশিষ্ট সংখ্যার সমষ্টি[math]\Rightarrow 3 ! \times(2+3+9+6)[/math]
+ [math]\times 1111=1,33,320[/math]
+ [math]\therefore[/math]
+ শুধুমাত্র [math]5[/math]
+ অঙ্কবিশিষ্ট সংখ্যার সমষ্টি[math]\Rightarrow 53,33,280-1[/math]
+ [math],33,320[/math]
+ [math]=5199960[/math]
+
+
+Explanation:
+ব্যাখ্যা: পাঁচ অঙ্কের সব বিন্যাসের সংখ্যা মোট [math]5! = 120[/math]টি এবং প্রতিটি স্থানে প্রতিটি অঙ্ক উপস্থিত হয় [math](5-1)! = 24[/math] বার; অঙ্কগুলোয়ের যোগফল [math]2+3+0+9+6=20[/math]. তাই মোট সমষ্টি = [math]24\times20\times(1+10+100+1000+10000)=24\times20\times11111=480\times11111=5,333,280[/math], এবং এটাই সঠিক (B)।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 472272)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2007-2008 | Boards:  | Tags: Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math]z = x + iy[/math] হয়, তবে [math]| z+i | = 3[/math] নির্দেশ করে একটি-
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\text{} z=x+i y\\|z+i|=3[/math]
+ [math]\Rightarrow|x+i y+i|=3[/math]
+ [math]\Rightarrow|x+(y+1) i|=3[/math]
+ [math]\Rightarrow \sqrt{x^{2}+(y+1)^{2}}[/math]
+ [math]=3 \Rightarrow x^{2}+(y+1)^{2}[/math]
+ [math]=9[/math]
+ , যা একটি বৃত্তের সমীকরণ।
+
+Explanation:
+এখানে |z| = [math]\sqrt{}[/math]
+(বাস্তব অংশ²+ কাল্পনিক অংশ ²) তাই [math]iy + i[/math]
+ কে [math](y + 1)i[/math]
+ করে কাল্পনিক অংশকে একত্রিত করা হয়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 472152)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]{ }^{n} P_{r}=240[/math] এবং [math]{ }^{n} C_{r}=120[/math] হয়, তবে n ও r এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]{ }^{n} P_{r}=\frac{n !}{(n-r) !}=240[/math]
+ [math]\text { and }{ }^{n} C_{r}[/math]
+ [math]=\frac{n !}{r !(n-r) !}[/math]
+ [math]=120[/math]
+ [math]\mathrm{r} !=2 \text { or } r=2 \quad[/math]
+ [math]\therefore \mathrm{n}^{2}-\mathrm{n}=240[/math]
+ [math]\quad \therefore(\mathrm{n}-16)(\mathrm{n}+15)=0 \quad[/math]
+ [math]\therefore \mathrm{n}=16[/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]{}^{n}P_{r}={}^{n}C_{r}\cdot r![/math], তাই [math]240=120\cdot r!\Rightarrow r!=2\Rightarrow r=2[/math]. এরপর [math]{}^{n}C_{2}=120\Rightarrow \frac{n(n-1)}{2}=120\Rightarrow n(n-1)=240\Rightarrow n^2-n-240=0[/math], সমাধানে ধনাত্মক মূলটি [math]n=(1+31)/2=16[/math]; অতএব [math]n=16,\; r=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 471952)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Jessore University of Science & Technology (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]14[/math] জন ফুটবল খেলোয়াড় থেকে কয়জন খেলোয়াড় নিয়ে গঠিত সমাবেশ ও বিন্যাস সংখ্যা সমান হবে?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]{ }^{14} \mathrm{P}_{\mathrm{r}}={ }^{14} \mathrm{C}_{\mathrm{r}}[/math]
+ [math]\Rightarrow{ }^{14} \mathrm{C}_{\mathrm{r}} \cdot \mathrm{r} ![/math]
+ [math]={ }^{14} \mathrm{C}_{\mathrm{r}}[/math]
+ [math]\Rightarrow \mathrm{r} !=1[/math]
+ [math]\therefore \mathrm{r}=1[/math]
+ অথবা [math]0[/math]
+
+
+Explanation:
+সমাধান: সমাবেশের সংখ্যা [math]{}_{14}C_k=\dfrac{14!}{k!(14-k)!}[/math] এবং বিন্যাসের সংখ্যা [math]{}_{14}P_k=\dfrac{14!}{(14-k)!}[/math]. সমান হলে [math]\dfrac{14!}{(14-k)!}=\dfrac{14!}{k!(14-k)!}[/math] থেকে [math]k!=1[/math], অতএব [math]k=0[/math] বা [math]k=1[/math]; বাস্তবে ন্যূনতম ধনাত্মক সদস্য হলে [math]k=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 471965)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{n} C_{5}={ }^{n} C_{7}[/math] হলে [math]{ }^{n} C_{9}[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]{ }^{n} C_{5}={ }^{n} C_{7}[/math]
+ [math]\Rightarrow{ }^{n} C_{n-5}={ }^{n} C_{7}[/math]
+ [math]\Rightarrow n-5=7[/math]
+ [math]\Rightarrow n=12[/math]
+ [math]\therefore{ }^{n} C_{9}={ }^{12} C_{9}=220[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\binom{n}{5}=\binom{n}{7}[/math] হওয়ায় [math]\binom{n}{k}=\binom{n}{n-k}[/math] নীতির কারণে [math]5=n-7[/math] হলে [math]n=12[/math]. তাই [math]\binom{n}{9}=\binom{12}{9}=\binom{12}{3}=\frac{12\cdot11\cdot10}{3\cdot2\cdot1}=220[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 405295)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+তিনটি পুরষ্কারের একটি সদাচারের জন্য, একটি ক্রীড়ার জন্য এবং একটি সাধারণ উন্নতির জন্য। 10 জন বালকের মধ্যে এগুলো কতভাবে বিতরণ করা যেতে পারে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+পুরষ্কার বিতরণ করার উপায় [math]\mathrm{n}=\mathrm{n}^{\mathrm{r}}=10^{3}=1000[/math]
+
+Explanation:
+প্রতিটি পুরস্কার আলাদা হওয়ায় প্রথমে সদাচারের জন্য যাকে দেবেন তার 10টি সম্ভাবনা, তার পরে ক্রীড়ার জন্য বাকি 9টি এবং সাধারণ উন্নতির জন্য বাকি 8টি; তাই মোট উপায়গুলো গুণ করলে পাওয়া যায় [math]10 \times 9 \times 8 = 720[/math] (অথবা [math]P(10,3)=720[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 404097)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (C  Unit)
+--------------------------------------------------------------------------------
+Question:
+তিনটি পুরস্কারের একটি সদাচারের জন্য, একটি ক্রীড়ার জন্য এবং একটি সাধারণ উন্নতির জন্য। 10 জন বালকের মধ্যে এগুলো কতভাবে বিতরণ করা যেতে পারে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+পুরস্কার বিতরণ করার উপায় [math]=\mathrm{n}^{\mathrm{r}}=10^{3}=1000[/math]
+
+Explanation:
+ব্যাখ্যা: যদি ধরে নেওয়া হয় একজন একই সময়ে একাধিক পুরস্কার নিতে পারবেন না, তাহলে প্রথম পুরস্কারের জন্য 10 জনের মধ্যে কেউই, দ্বিতীয়ের জন্য বাকি 9 জন এবং তৃতীয়ের জন্য বাকি 8 জন—তাই মোট [math]10×9×8=720[/math] উপায় আছে।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 403126)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি TIME শব্দটির অক্ষরগুলো বিন্যাস করা হয়, তবে কতগুলো বিন্যাস স্বরবর্ণ দ্বারা শুরু হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+TIME শব্দটিতে মোট 4টি বর্ণ আছে যার মধ্যে ২টি স্বরবর্ণ I ও E বিদ্যমান। I কে প্রথমে স্থির রেখে নির্ণেয় বিন্যাস 3! = 6E কে প্রথমে স্থির রেখে নির্ণেয় বিন্যাস = 3! = 6[math]\therefore[/math] মোট বিন্যাস =6+6=12
+
+Explanation:
+ব্যাখ্যা: "TIME" শব্দে স্বরবর্ণ দুইটি—[math]I[/math] ও [math]E[/math]। প্রথম স্থানে স্বরবর্ণ নিলে বাকি তিনটি অক্ষর [math]3![/math]ভাবে বিন্যাস করা যাবে, তাই মোট [math]2 \times 3! = 12[/math]টি বিন্যাস।
+
+Sub-Questions:
+

@@ -1,0 +1,321 @@
+================================================================================
+Question #1 (ID: 400704)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উদ্ধারকারী উড়োজাহাজ সমুদ্র পৃষ্ঠের 500m উপর দিয়ে 198 km/h ধ্রুব বেগে চলার সময় পাইলট একটি দূর্ঘটনার শিকার নৌকাকে দেখতে পেল। পাইলট নৌকার যাত্রীর জন্য একটি উদ্ধারকারী ক্যাপসুল নামিয়ে দিল যেন ক্যাপসুলটি নৌকার খুব কাছে পতিত হয়।
+
+
+[Image]
+
+
+Options:
+গ. ক্যাপসুলটির অনুভূমিক সরণ কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,উচ্চতা, h = 500 mআদিবেগ,[math]\begin{aligned}\mathrm{v}_{\mathrm{x}_{0}} & =198 \mathrm{kmh}^{-1} \\& =\frac{198 \times 1000}{3600} \\& =55 \mathrm{~ms}^{-1}\end{aligned}[/math]
+অনুভূমিক ত্বরণ, [math]a_{x}=0[/math]
+উল্লম্ব ত্বরণ, [math]\mathrm{a}_{\mathrm{y}}=\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+উল্লম্ব আদিবেগ, [math]\mathrm{v}_{\mathrm{y}_{0}}=0[/math]
+আমরা জানি, [math]h=v_{y_{0}} t+\frac{1}{2} a_{y} t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]500=0+\frac{1}{2} \times 9.8 \times \mathrm{t}^{2}[/math]
+ [math]\therefore \mathrm{t}=10.1 \mathrm{~s}[/math]
+আবার, [math]\mathrm{x}-\mathrm{x}_{0}=\mathrm{d}[/math]
+ [math]=v_{x_{0}} t+\frac{1}{2} a_{x} t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]d=55 \times 10.1+0[/math]
+ [math]=555.5 \mathrm{~m}[/math]
+অতএব, ক্যাপসুলটির অনুভূমিক সরণ 555.5 m (Ans.) [math]\\[/math]
+
+
+Explanation:
+গ কারণ উল্লম্ব ও অনুভূমিক গতিধারা স্বাধীন; ক্যাপসুলটির অনুভূমিক বেগ ধ্রুব থাকায় অনুভূমিক সরণ হবে [math]x=v_x t[/math]। 
+গতি পরিবর্তন করে কিম্বা হাওয়ার প্রতিক্রিয়া না ধরে, [math]198\ \text{km/h}=55\ \text{m/s}[/math], [math]t=\sqrt{\tfrac{2h}{g}}=\sqrt{\tfrac{2\times500}{9.8}}\approx10.10\ \text{s}[/math], সুতরাং [math]x=55\times10.10\approx555.6\ \text{m}\ (\approx556\ \text{m}).[/math}
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 400705)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বস্তুকে অনুভূমিকের সাথে 30° কোণে নিচের দিকে 170m উঁচু কোন ভবনের শীর্ষ হতে 40 m/s দ্রুতিতে নিক্ষেপ করা হল।
+
+(ক) কত সময় পর গুলিটি ভূমিতে এসে আঘাত করবে?
+
+(খ) বস্তুটির অনুভূমিক সরণ কত হবে?
+
+(গ) ভূমিতে কত কোণে বস্তুটি আঘাত করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]8.27 \mathrm{sec}[/math]
+ (খ) [math]286.48 \mathrm{~m}[/math]
+ (গ) [math]71.08^{\circ}[/math]
+ )[math]\\[/math]
+Solution :এখানে,ভবনের উচ্চতা, h = 170 mনিক্ষেপণ বেগ, [math]v_{0}=40 \mathrm{~ms}^{-1}[/math]
+নিক্ষেপণ কোণ, [math]\theta_{\mathrm{o}}=30^{\circ}[/math]
+(ক)[math]\mathrm{h}=-\mathrm{v}_{0} \sin \theta_{0} \mathrm{t}+\frac{1}{2} g \mathrm{t}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]170=-40 \sin 30 t+\frac{1}{2} \times 9.8 t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]170=-20 t+4.9 t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]4.9+t^{2}-20 t-170=0[/math]
+ [math]\therefore \mathrm{t}=8.27,-4.193[/math]
+ [ঋণাত্মক মান গ্রহণযোগ্য নহে][math]\therefore[/math]
+ ভূমিতে আঘাত করার সময়, [math]t=8.27 \mathrm{sec} \text { (Ans.) }[/math]
+(খ) বস্তুটির অনুভূমিক সরণ,[math]\begin{aligned}x & =v_{0} \cos \theta t \\& =40 \cos 30^{\circ} \times 8.27 \\& =286.48 \mathrm{~m} \text { (Ans.) }\end{aligned}[/math]
+(গ) এখন, [math]v_{x}=v_{0} \cos \theta_{0}=40 \cos 30^{\circ}=34.64 \mathrm{~ms}^{-1}[/math]
+ [math]\begin{array}{l}v_{y}=v_{o} \sin \theta_{0}+g t=40 \sin 30^{\circ}+9.8 \times 8.27=101.046 \mathrm{~ms}^{-1} \\\therefore \mathrm{v}=\sqrt{v_{\mathrm{x}}^{2}+\mathrm{v}_{\mathrm{y}}^{2}}=\sqrt{(34.64)^{2}+(101.046)^{2}}=106.82 \mathrm{~ms}^{-1} \\\therefore \theta_{\mathrm{o}}=\tan ^{-1}\left(\frac{v_{y}}{v_{\mathrm{x}}}\right)=\tan ^{-1}\left(\frac{101.046}{34.64}\right)=71.08^{\circ}\end{array}[/math]
+সুতরাং বস্তুটি [math]106.82 \mathrm{~ms}^{-1}[/math]
+ বেগে 71.08° কোণে ভূমিতে আঘাত করবে।
+
+Explanation:
+ক অনুভূমিক ও উল্লম্ব গতি পৃথকভাবে বিবেচনা করলে উল্লম্বের জন্য [math]v_{0y}=40\sin30^\circ=20\ \text{m/s}[/math] এবং [math]170=20t+\tfrac{1}{2}(9.8)t^2[/math] হওয়ার ফলে [math]t=\frac{-20+\sqrt{20^2+4(4.9)(170)}}{2(4.9)}\approx4.19\ \text{s}[/math]। 
+
+খ অনুভূমিক গতি স্থির থাকে: [math]v_{0x}=40\cos30^\circ=20\sqrt{3}\ \text{m/s}[/math], ফলে সরণ [math]x=v_{0x}t=20\sqrt{3}\times4.19\approx145.3\ \text{m}[/math]। 
+
+গ প্রভাবের সময় উল্লম্ব বেগ [math]v_y=20+9.8\times4.19\approx61.09\ \text{m/s}[/math] এবং কোণ [math]\theta=\tan^{-1}\frac{v_y}{v_x}=\tan^{-1}\frac{61.09}{20\sqrt{3}}\approx60.4^\circ[/math], কারণ কোণ অনুভূমিক ও উল্লম্ব বেগের অনুপাত দ্বারা নির্ধারিত।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 400703)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জিসান 100 m উঁচু দালানের ছাদ থেকে অনুভূমিকের সাথে 60° কোণে নিচের দিকে একটি বস্তু নিক্ষেপ করলো।
+
+Options:
+ঘ. জিসান যদি বস্তুটিকে অনুভূমিক বরাবর নিক্ষেপ করতো তাহলে তার গতিপথ কীরূপ হতো বিশ্লেষ ণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+অনুভূমিকের সমান্তরালে নিক্ষিপ্ত কোনো বস্তুর আদিবেগ [math]V_{0}[/math]
+ হলে,অনুভূমিক বরাবর আদিবেগের উপাংশ,[math]\begin{aligned}\mathrm{v}_{\mathrm{y}_{0}} & =\mathrm{v}_{0} \cos 0^{\circ} \\& =\mathrm{v}_{0}\end{aligned}[/math]
+ও উল্লম্ব বরাবর আদিবেগের উপাংশ,[math]\begin{aligned}\mathrm{v}_{\mathrm{y}_{0}} & =\mathrm{v}_{0} \cos 0^{\circ} \\& =0\end{aligned}[/math]
+t সময়ে প্রাসটি x দূরত্ব অতিক্রম করলে,[math]x=v_{x_{0}} t=v_{0} t[/math]
+ [math]\Rightarrow[/math]
+ [math]t=\frac{x}{v_{0}}[/math]
+আবার, t সময়ে বস্তুটি y উচ্চতা অতিক্রম করলে,[math]y=v_{y_{0}} t+\frac{1}{2} g^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=0 \times t+\frac{1}{2} g t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{y}=\frac{1}{2} \mathrm{gt}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=\frac{1}{2} g\left(\frac{x}{v_{0}}\right)^{2}[/math]
+ [math]\therefore \quad \mathrm{y}=\frac{\mathrm{g}}{2 \mathrm{v}_{0}^{2}} \mathrm{x}^{2}[/math]
+এ সমীকরণ যে কোনো মুহূর্তে x ও y এর সম্পর্ক নির্দেশ করে। এই সমীকরণই হলো অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখের সমীকরণ।এখানে g ও [math]\mathrm{v}_{0}[/math]
+ ধ্রুবক বলে [math]\frac{\mathrm{g}}{2 \mathrm{v}_{0}^{2}}=\mathrm{c}[/math]
+ লিখলে,[math]y=c x^{2}[/math]
+যা একটি পরাবৃত্তের সমীকরণ অতএব, অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখ বা গতিপথ হচ্ছে একটি পরাবৃত্ত।
+
+Explanation:
+ঘ বস্তুটি অনুভূমিকভাবে নিক্ষেপ করলে প্রাথমিক খাড়া গতির উপাদান শূন্য থাকবে এবং অনুভূমিক গতির উপাদান স্থির থাকবে; ফলে তার পথ হবে একটি প্যারাবোলা যার শুরুতেই ঢাল শূন্য। পড়ার সময় কেবল উচ্চতার উপর নির্ভর করে [math]t=\sqrt{2h/g}[/math] হবে এবং আনুভূমিক পরিসর হলো [math]x=u_x\,t[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 400700)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Govt. Edward College, Pabna
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. গড় মুক্ত পথ কী?
+খ. মহাকর্ষীয় ধ্রুবক G কে সর্বজনীন বলা হয় কেন?
+গ. উদ্দীপক অনুসারে গোলা নিক্ষেপের মুহূর্তে বিমানের উচ্চতা কত ছিল?
+ঘ. উদ্দীপকের গোলাটি নিক্ষেপণ কোণের সমান কোণে ভূমিতে আঘাত করবে কি না— গাণিতিক বিশ্লেষণসহ যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো অণুর পর পর দুটি সংঘর্ষের মধ্যবর্তী দূরত্বগুলোর গড় নিলে যে দূরত্ব পাওয়া যায়, তাকেই গড় মুক্ত পথ বলে । [math]\\[/math]
+ খG হলো মহাকর্ষীয় ধ্রুবক। [math]m_1[/math]
+ ও [math]m_2[/math]
+ ভরের দুটি বস্তু r দূরত্বে থাকলে এবং এদের মধ্যকার বল F হলে, [math]\mathrm{G}=\frac{\mathrm{Fr}^{2}}{\mathrm{~m}_{1} \mathrm{~m}_{2}}[/math]
+ হয়। G এর মান বস্তু দুটির প্রকৃতি এবং এদের মধ্যকার মাধ্যমের প্রকৃতির উপর নির্ভর করে না। বস্তুর আকার, আকৃতি, ভর, দূরত্ব ইত্যাদির পরিবর্তন ঘটলেও G এর মানের কোনো তারতম্য ঘটে না। অর্থাৎ G এর মান সবসময় এবং সব জায়গার জন্য ধ্রুবক এবং এই মান [math]6.673\times10^{-11}\mathrm{Nm}^2\mathrm{~kg}^{-2}[/math]
+। এজন্য G কে সর্বজনীন ধ্রুবক বলা হয় । [math]\\[/math]
+ গ
+[Image]
+এখানে, [math]\mathrm v_{0}=255 \mathrm{~km} \mathrm{~h}^{-1}=70.8 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\begin{array}{l}A B=2560 \mathrm{~m}=x \\\mathrm v_{x_{0}}=\mathrm v_{0} \cos 33^{\circ}=70.8 \times \cos 33^{\circ} \\\mathrm v_{y_{0}}=\mathrm v_{0} \sin 35^{\circ}=70.8 \times \sin 33^{\circ}=38.56 \mathrm{~m} \mathrm{~s}^{-1}\end{array}[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{aligned}\mathrm{x} & =\mathrm{v}_{0} \cos \theta_{0} \mathrm{t} \\\therefore \quad \mathrm{t} & =\frac{\mathrm{x}_{1}}{\mathrm{v}_{0} \cos \theta_{0}}=\frac{2560}{59.38}=43 \mathrm{~s}\end{aligned}[/math]
+আবার, [math]Y=\mathrm y_{0}+\mathrm v_{y_{0}} t-\frac{1}{2} \mathrm g t^{2}[/math]
+ [math]\begin{array}{l}\Rightarrow 0=\mathrm y_{0}+38.56 \times 43-\frac{1}{2} \times 9.8 \times(43)^{2} \\\Rightarrow 0=\mathrm y_{0}-7402 \\\therefore \quad \mathrm y_{0}=7402 \mathrm{~m}\end{array}[/math]
+অতএব, গোলা নিক্ষেপের মুহূর্তে বিমানের উচ্চতা ছিল 7402 m (প্রায়) [math]\\[/math]
+ ঘএখানে, [math]\mathrm v_{x}=\mathrm v_{x_{0}}[/math]
+ [math]\hspace{2cm}=\mathrm v_{0} \cos \theta_{0}=70.8 \cos 33=59.38 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+
+[Image]
+[math]\begin{array}{l}\mathrm v_{\mathrm{y}}=\mathrm v_{\mathrm{y}_{0}}-\mathrm{gt} \\=38.56-9.8 \times 43=-382.84 \mathrm{~m} \mathrm{~s}^{-1} \\\therefore \tan \theta=\frac{\mathrm v_{\mathrm{y}}}{\mathrm v_{\mathrm{x}}} \\\quad \theta=\tan ^{-1}\left(\frac{382.84}{59.38}\right)=81.18^{\circ}\end{array}[/math]
+সুতরাং নিক্ষেপণ কোণের সমান কোণে ভূমিতে আঘাত করবে না। [math]\\[/math]
+
+
+Explanation:
+ক গড় মুক্ত পথ হল কণাগুলোর মধ্যে সংঘর্ষের আগে গড়ে তারা যে দূরত্ব যায়; গ্যাসের জন্য সাধারণ সূত্রটি [math]\lambda=\dfrac{1}{\sqrt{2}\,n\sigma}[/math], যেখানে [math]n[/math] কণার ঘনত্ব ও [math]\sigma[/math] সংঘর্ষ ক্ষেত্রফল।  
+
+খ মহাকর্ষীয় ধ্রুবক [math]G[/math]কে সর্বজনীন বলা হয় কারণ এটি নিউটনের মহাকর্ষণ আইনে সকল দেহ ও স্থানে একরকমভাবে প্রযোজ্য এবং ভর ও দূরত্বের সাথে সম্পর্ক স্থাপন করে (দেহের আবদ্ধ গুণমুগ্ধতার উপর নির্ভর করে না)।  
+
+গ বিমানের উচ্চতা বের করতে উল্লম্ব গতির সমীকরণ ব্যবহার করুন; যদি নিক্ষেপণের প্রাথমিক গতিমাত্রা [math]u[/math], কোণ [math]\theta[/math] এবং মাটি আঘাতের সময় [math]T[/math] হয়, তাহলে উচ্চতা [math]h=u\sin\theta\;T-\tfrac{1}{2}gT^{2}[/math]।  
+
+ঘ যদি বায়ু প্রতিরোধ না ধরা হয় এবং গোলাটি একই উচ্চতায় নিক্ষেপিত ও আঘাত করে, তবে আঘাতের কোণ নিক্ষেপণের কোণের সমকোণ (মাত্রার দিক উল্টো) হবে; কারণ টেকনিক্যালি শেষের উল্লম্ব দ্রুট [math]v_y=u\sin\theta-gT=-u\sin\theta[/math], ফলে [math]\tan\phi=\dfrac{v_y}{v_x}=\dfrac{-u\sin\theta}{u\cos\theta}=-\tan\theta[/math], অর্থাৎ কোণের মান সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 400701)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একদিন এক প্রীতি ম্যাচ খেলার সময় প্রিতম ব্যাট দিয়ে আঘাত করায় টি পার্শ্ববর্তী এ বলটি একটি উঁচু ভবনের ছাদে পড়ল। ডাক্তারের নিষেধ থাকায় প্রিতম 96 m এর বেশি উঁচুতে উঠতে অস্বীকৃতি জানিয়ে ছাদে বল আনতে গেল না। প্লাবন ছাদে উঠে বলটিকে উল্লম্বের সাথে 60° কোণে [math]5 \ m \ s^{-1}[/math] বেগে নিচে ফেলে দিল। বলটি ছুঁড়ে মারার 3 sec পরে ভূমি থেকে 2 m উঁচুতে প্রিতম বলটি ধরে ফেলল ।
+
+Options:
+ঘ. উদ্দীপকের তথ্য অনুসারে প্রিতম ছাদে উঠতে পারত কি না? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1.2 cm}[/math]
+নিক্ষেপণ বেগ, [math]\rm{v}_{0}=5 \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অনুভূমিকের সাথে নিক্ষেপণ কোণ, [math]\theta_{0}=30^{\circ}[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময়, [math]\rm{t = 3 s}[/math]
+ [math]\hspace{0.5 cm}[/math]
+ধরি, ভবনটির উচ্চতা [math]\rm{h}[/math]
+ [math]\therefore[/math]
+ উদ্দীপক অনুসারে,[math]\qquad\begin{aligned} \rm{h-2}&=\rm{v_{0} \sin \theta_{0} t+\frac{1}{2} g t^{2}}\\ \Rightarrow \rm{h}&=\left(5 \times \sin 30^{\circ} \times 3+\frac{1}{2} \times 9.8 \times 3^{2}+2\right) \mathrm{m}\\ \therefore\rm{h}&=53.6 \mathrm{~m}\end{aligned}[/math]
+উপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে ভবনটির উচ্চতা [math]53.6\rm{~m}[/math]
+ যা [math]96\rm{~m}[/math]
+ অপেক্ষা কম। অতএব, উদ্দীপকের তথ্য অনুসারে প্রিতম ছাদে উঠতে পারত।
+
+Explanation:
+ঘ প্রথমে উল্লম্ব ভরের উপাদান: [math]u_y=5\cos60^\circ=2.5\ \text{m/s}[/math]. 3 s পরে উল্লম্ব অবতরণ: [math]s=u_yt+\tfrac{1}{2}gt^2=2.5\times3+\tfrac{1}{2}\times9.8\times3^2=51.6\ \text{m}[/math]. ছাদটির মাটির উপরে উচ্চতা = [math]51.6+2=53.6\ \text{m}[/math], যা [math]96\ \text{m}[/math] থেকে অনেক কম, তাই প্রিতম 96 m সীমার ভেতরে থাকায় ছাদে উঠে নিতে পারতেন।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 400702)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জিসান 100 m উঁচু দালানের ছাদ থেকে অনুভূমিকের সাথে 60° কোণে নিচের দিকে একটি বস্তু নিক্ষেপ করলো।
+
+Options:
+গ. যদি জিসান বস্তুটিকে 50 [math]\mathrm{ms}^{-1}[/math] বেগে নিক্ষেপ করে তবে কত সময় পর সেটি ভূমিতে আঘাত করবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,নিক্ষেপণ বেগ, [math]\mathrm{v}=50 \mathrm{~ms}^{-1}[/math]
+নিক্ষেপণ কোণ, [math]\theta_{0}=-60^{\circ}[/math]
+ [ [math]\therefore[/math]
+ নিচের দিকে ]উচ্চতা, h = – 30 [ নিচের দিকে ]সময়কাল, t = ?আমরা জানি,[math]\mathrm{h}=\mathrm{v}_{0} \sin \theta_{0} \mathrm{t}-\frac{1}{2} g \mathrm{t}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]-30=-50 \sin 60 t-\frac{1}{2} \times 9.8 t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]-30=-25 \sqrt{3} t-4.9 t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]4.9 t^{2}+25 \sqrt{3} t-30=0[/math]
+ [math]\therefore \mathrm{t}=-9.483 \mathrm{sec}, 0.645 \mathrm{sec}[/math]
+সময় ঋণাত্মক হতে পারে না বিধায়[math]\therefore \mathrm{t}=0.645 \mathrm{sec}[/math]
+সুতরাং বস্তুটি 0.645 sec পরে ভূমিতে আঘাত করবে। (Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বেগের উল্লম্ব অংশ [math]v_y=50\sin60^\circ=25\sqrt{3}\ \mathrm{m/s}[/math] (নীচের দিকে)। উল্লম্ব সরে যাওয়া পূর্ণ করে [math]100= v_y t+\tfrac{1}{2}gt^2[/math] (নীচে ধনাত্মক ধরে), তাই [math]4.9t^2+25\sqrt{3}\,t-100=0[/math] এবং ইতিবাচক মূল থেকে [math]t\approx1.90\ \mathrm{s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 400699)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জিসান 100 m উঁচু দালানের ছাদ থেকে অনুভূমিকের সাথে 60° কোণে নিচের দিকে একটি বস্তু নিক্ষেপ করলো।
+
+Options:
+ক. প্রক্ষেপক কী?
+খ. অনুভূমিক পাল্লা বলতে কী বুঝ?
+গ. যদি জিসান বস্তুটিকে 50 [math]\mathrm{ms}^{-1}[/math] বেগে নিক্ষেপ করে তবে কত সময় পর সেটি ভূমিতে আঘাত করবে?
+ঘ. জিসান যদি বস্তুটিকে অনুভূমিক বরাবর নিক্ষেপ করতো তাহলে তার গতিপথ কীরূপ হতো বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+কঅভিকর্ষের প্রভাবে শূন্য স্থানে ভূমির সাথে তীর্যকভাবে নিক্ষিপ্ত বস্তুকে প্রক্ষিপ্ত বস্তু বা প্রাস বলে। [math]\\[/math]
+ খপ্রক্ষেপণ বিন্দুগামী অনুভূমিক তলের উপর প্রক্ষিপ্ত বস্তুটি যে বিন্দুতে পতিত হয় প্রক্ষেপণ বিন্দু হতে ওই বিন্দুর অনুভূমিক বরাবর দূরত্বকে প্রাসের অনুভূমিক পাল্লা বলে। অনুভূমিকের সাথে [math]\theta[/math]
+ কোণে প্রাসকে [math]\mathrm{v}_{0}[/math]
+ বেগে নিক্ষেপ করলে অনুভূমিক পাল্লা হবে [math]\mathrm{R}=\frac{\mathrm{v}_{0}^{2} \sin 2 \theta}{\mathrm{g}}[/math]
+ [math]\\[/math]
+ গএখানে,নিক্ষেপণ বেগ, [math]\mathrm{v}=50 \mathrm{~ms}^{-1}[/math]
+নিক্ষেপণ কোণ, [math]\theta_{0}=-60^{\circ}[/math]
+ [ [math]\therefore[/math]
+ নিচের দিকে ]উচ্চতা, h = – 30 [ নিচের দিকে ]সময়কাল, t = ?আমরা জানি,[math]\mathrm{h}=\mathrm{v}_{0} \sin \theta_{0} \mathrm{t}-\frac{1}{2} g \mathrm{t}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]-30=-50 \sin 60 t-\frac{1}{2} \times 9.8 t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]-30=-25 \sqrt{3} t-4.9 t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]4.9 t^{2}+25 \sqrt{3} t-30=0[/math]
+ [math]\therefore \mathrm{t}=-9.483 \mathrm{sec}, 0.645 \mathrm{sec}[/math]
+সময় ঋণাত্মক হতে পারে না বিধায়[math]\therefore \mathrm{t}=0.645 \mathrm{sec}[/math]
+সুতরাং বস্তুটি 0.645 sec পরে ভূমিতে আঘাত করবে। (Ans.) [math]\\[/math]
+ ঘ
+[Image]
+অনুভূমিকের সমান্তরালে নিক্ষিপ্ত কোনো বস্তুর আদিবেগ [math]V_{0}[/math]
+ হলে,অনুভূমিক বরাবর আদিবেগের উপাংশ,[math]\begin{aligned}\mathrm{v}_{\mathrm{y}_{0}} & =\mathrm{v}_{0} \cos 0^{\circ} \\& =\mathrm{v}_{0}\end{aligned}[/math]
+ও উল্লম্ব বরাবর আদিবেগের উপাংশ,[math]\begin{aligned}\mathrm{v}_{\mathrm{y}_{0}} & =\mathrm{v}_{0} \cos 0^{\circ} \\& =0\end{aligned}[/math]
+t সময়ে প্রাসটি x দূরত্ব অতিক্রম করলে,[math]x=v_{x_{0}} t=v_{0} t[/math]
+ [math]\Rightarrow[/math]
+ [math]t=\frac{x}{v_{0}}[/math]
+আবার, t সময়ে বস্তুটি y উচ্চতা অতিক্রম করলে,[math]y=v_{y_{0}} t+\frac{1}{2} g^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=0 \times t+\frac{1}{2} g t^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{y}=\frac{1}{2} \mathrm{gt}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=\frac{1}{2} g\left(\frac{x}{v_{0}}\right)^{2}[/math]
+ [math]\therefore \quad \mathrm{y}=\frac{\mathrm{g}}{2 \mathrm{v}_{0}^{2}} \mathrm{x}^{2}[/math]
+এ সমীকরণ যে কোনো মুহূর্তে x ও y এর সম্পর্ক নির্দেশ করে। এই সমীকরণই হলো অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখের সমীকরণ।এখানে g ও [math]\mathrm{v}_{0}[/math]
+ ধ্রুবক বলে [math]\frac{\mathrm{g}}{2 \mathrm{v}_{0}^{2}}=\mathrm{c}[/math]
+ লিখলে,[math]y=c x^{2}[/math]
+যা একটি পরাবৃত্তের সমীকরণ অতএব, অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখ বা গতিপথ হচ্ছে একটি পরাবৃত্ত।
+
+Explanation:
+ব্যাখ্যা:
+ক প্রক্ষেপক হল এমন একটি বস্তু যা প্রাথমিক অভিক্ষেপ বেগ পেয়ে কেবলমাত্র মহাকর্ষ দ্বারা নিয়ন্ত্রিত গতিপথে চলে; অর্থাৎ নিক্ষেপের পরে বায়ুপ্রতিবন্ধকতা উপেক্ষা করে গতি করে।  
+খ অনুভূমিক পাল্লা বলতে লঞ্চ পয়েন্ট থেকে ভূমিতে আঘাত করার সময় পর্যন্ত বস্তু যে অনুভূমিক দূরত্ব অতিক্রম করে তা বুঝায়; সাধারণত [math]R=v_x t[/math] দিয়ে হিসাব করা হয় যেখানে [math]v_x[/math] অনুভূমিক বেগ এবং [math]t[/math] পতনের সময়।  
+গ এখানে [math]v=50\ \mathrm{m/s}[/math] ও কোণ [math]60^\circ[/math] নিচের দিকে, তাই খাড়া উপাদান [math]v_{y0}=-50\sin60^\circ=-25\sqrt{3}\ \mathrm{m/s}[/math]. উচ্চতা [math]100\ \mathrm{m}[/math] মানে ভূমিতে পৌঁছানোর শর্ত: [math]100-25\sqrt{3}\,t-\tfrac{1}{2}(9.8)t^2=0[/math], এই সমীকরণ সমাধান করলে বাস্তব ধনাত্মক মূল হয় [math]t\approx1.90\ \mathrm{s}[/math]।  
+ঘ অনুভূমিক নিক্ষেপে খাড়া প্রাথমিক বেগ শূন্য হয়, অনুভূমিক বেগ স্থায়ী থাকে [math]v_x=50\cos60^\circ=25\ \mathrm{m/s}[/math] এবং পতনের সময় [math]t=\sqrt{2h/g}=\sqrt{200/9.8}\approx4.52\ \mathrm{s}[/math]; ফলে গতিপথ একটি ধনাত্মক পরাবৃত্ত (x বনাম y তে) যেখানে x সমানুপাতিকভাবে বাড়ে ও y গ্র্যাফ অ্যাক্সেলের নিচে-বক্ররেখা অনুসারে পড়ে।
+
+Sub-Questions:
+

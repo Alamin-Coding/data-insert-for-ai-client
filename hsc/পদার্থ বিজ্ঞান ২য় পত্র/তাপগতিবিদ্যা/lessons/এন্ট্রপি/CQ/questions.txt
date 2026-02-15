@@ -1,0 +1,2146 @@
+================================================================================
+Question #1 (ID: 419573)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচে কার্নো চক্রের চারটি ধাপ [math]P – V[/math] লেখচিত্রের মাধ্যমে প্রদর্শন করা হলো:
+
+[Image]
+
+
+Options:
+ঘ. চক্রটির প্রতি ধাপে এন্ট্রপির পরিবর্তন এর তুলনামূলক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+গৃহীত তাপ, [math]\mathrm{Q}_{1}=500 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্জিত তাপ, [math]\mathrm{Q}_{2}=?[/math]
+ [math]\hspace{1 cm}[/math]
+উৎসের তাপমাত্রা, [math]\rm{T}_{1}=1200 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=650 \mathrm{~K}[/math]
+আমরা জানি[math]\hspace{1.5 cm}\begin{array}{l}\quad \rm{\dfrac{Q_{1}}{T_{1}}=\dfrac{Q_{2}}{T_{2}}} \\ \Rightarrow \rm{Q_{2}=\dfrac{500 \mathrm{~J} \times 650 \mathrm{~K}}{1200 \mathrm{~K}}} \\ \Rightarrow \rm{Q}_{2}=270.83 \mathrm{~J} \end{array}[/math]
+১ম ক্ষেত্রে, এন্ট্রপি বৃদ্ধি[math]\hspace{1.5 cm}=+\rm{\dfrac{Q_{1}}{T_{1}}}=\dfrac{500 \mathrm{~J}}{1200 \mathrm{~K}}=0.4167 \mathrm{JK}^{-1}[/math]
+দ্বিতীয় ক্ষেত্রে, এন্ট্রপি হ্রাস[math]\hspace{1.5 cm}=-\rm{\dfrac{Q_{2}}{T_{2}}}=-\dfrac{270.83 \mathrm{~J}}{650 \mathrm{~K}}=-0.4167 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+দেখা যায়, সম্মুখ প্রক্রিয়ায় এন্ট্রপি যে পরিমাণ বৃদ্ধি পায়, বিপরীত প্রক্রিয়ায় সেই পরিমাণ এন্ট্রপি হ্রাস পায়। অর্থাৎ সম্পূর্ণ চক্রে এন্ট্রপির পরিবর্তন [math]=0.4167 \mathrm{JK}^{-1}+\left(-0.4167 \mathrm{JK}^{-1}\right)=0[/math]
+ (শূন্য)অতএব, চক্রটি প্রত্যাগামী চক্র, তাই এন্ট্রপি ধ্রুব থাকে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ কার্নো চক্রে উষ্ণ তাপে সমতাপীয় প্রসারণে তাপ [math]Q_h[/math] গ্রহণ করায় এন্ট্রপি বাড়ে: [math]\Delta S=Q_h/T_h[/math], ঠান্ডা তাপে সমতাপীয় সংকোচনে তাপ [math]Q_c[/math] ত্যাগের ফলে এন্ট্রপি কমে: [math]\Delta S=-Q_c/T_c[/math]. আদিয়াবেটিক (বিনা তাপবিনিময়ের) ধাপে তাপ বিনিময় নেই, সুতরাং [math]\Delta S=0[/math]. পূর্ণ চক্রে উলটো reversible ধরণ হওয়ায় মোট এন্ট্রপি পরিবর্তন শূন্য: [math]Q_h/T_h-Q_c/T_c=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 419574)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020-2021 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন [math]T_H = 900K[/math] এবং [math]T_L = 300K[/math] তাপমাত্রার মধ্যে কার্যরত। ইঞ্জিনটি প্রতি চক্রে [math]0.25s[/math] সময়ে [math]1200J[/math] কাজ করে। উচ্চ তাপমাত্রায় ধারক থেকে শক্তি স্থানাস্তরের ফলে এর কার্যকরী পদার্থের (অর্থাৎ আদর্শ গ্যাসের)এনট্রপি বৃদ্ধি বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2\ \mathrm{JK}^{-1}[/math]
+)[math]\\[/math]
+Solution : প্রতি চক্রে কাজ করে, [math]W= 1200\ J[/math]
+উচ্চ তাপমাত্রার ধারক থেকে গৃহীত তাপ [math]= Q_H[/math]
+নিম্ন তাপমাত্রার তাপ গ্রাহকে বর্জিত তাপ [math]= Q_L[/math]
+ [math]W=Q_{H}-Q_{L}\ \therefore Q_{L}=Q_{H}-1200 \\\dfrac{T_{H}}{T_{L}}=\dfrac{Q_{H}}{Q_{L}} \Rightarrow \dfrac{900}{300}=\dfrac{Q_{H}}{Q_{H}-1200} \Rightarrow 3 Q_{H}-3600=Q_{H} \\\therefore Q_{H}=1800 J\ \therefore \Delta S=\dfrac{Q_{H}}{T_{H}}=\dfrac{1800}{900} J K^{-1} \therefore \Delta S=2 J K^{-1} \text { (Ans) }[/math]
+
+
+Explanation:
+এই কার্নো ইঞ্জিনের দক্ষতা [math]\eta=1-\dfrac{T_L}{T_H}=1-\dfrac{300}{900}=\dfrac{2}{3}[/math], তাই প্রবেশকৃত তাপ [math]Q_H=\dfrac{W}{\eta}=\dfrac{1200}{2/3}=1800\ \text{J}[/math]।  
+কারণ কার্নো চক্রে উষ্ণতাস্ফূর্ত গ্রহণ প্রতিক্রিয়া রিবার্সিবল এবং সমতাপিয়, তাই এ সময় কার্যকরী পদার্থের এন্ট্রপির বৃদ্ধি [math]\Delta S=\dfrac{Q_H}{T_H}=\dfrac{1800}{900}=2\ \text{J/K}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 419575)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+এন্ট্রপি বলতে কি বুঝ? [math]100^\circ C[/math] তাপমাত্রার [math]4 kg[/math] পানিকে [math]100\circ C[/math] তাপমাত্রার বা ষ্পে পরিণত করা হল। এন্ট্রপির বৃদ্ধি বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এনট্রপি হচ্ছে এমন একটি আবদ্ধ কিন্তু পরিবর্তনশীল সিস্টেমের বিশৃঙ্খলার পরিমাপ যে সিস্টেমে শক্তি শুধুমাত্র একটি শৃঙ্খল অবস্থা থেকে একটি বিশৃঙ্খল অবস্থার দিকে একাধিক পরিবহন করা যায়।দেওয়া আছে, [math]m = 4kg,\quad I_v = 2.26 \times 10^6Jkg^{-1},\ T = 100^\circ C = 373K, \ \Delta Q=mlv[/math]
+এন্ট্রপির পরিবর্তন [math]\Delta S = \dfrac{\Delta Q}{T}=\dfrac{4\times 2.26\times 10^6}{373}=24235.924\ JK^{-1}[/math]
+ (Ans. )
+
+Explanation:
+ব্যাখ্যা: স্থিত তাপমাত্রায় বাষ্পায়নের সময় এন্ট্রপির পরিবর্তন রিভার্সিবল তাপের অনুপাতে হয়, তাই [math]\Delta S=\dfrac{Q_{\text{rev}}}{T}=\dfrac{mL}{T}[/math]. এখানে [math]m=4\ \text{kg},\ L\approx2.256\times10^{6}\ \text{J/kg},\ T=100^\circ\text{C}=373\ \text{K}[/math], সুতরাং [math]\Delta S=\dfrac{4\times2.256\times10^{6}}{373}\approx2.42\times10^{4}\ \text{J/K}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 419576)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2013-2014 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]0^\circ C[/math] তাপমাত্রায় [math]1 kg[/math] বরফকে [math]100^\circ C[/math] তাপমাত্রার পানিতে পরিণত করতে এনট্রপির বৃদ্ধি নির্ণয় কর। [বরফ গলনের সুপ্ততাপ [math]= 3.36\times 10^5Jkg^{-1}[/math], এবং পানির আপেক্ষিক তাপ [math]= 4.2\times 10^3Jkg^{-1}K^{-1}][/math].
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\Delta S = \dfrac{ml_f}{T_1}+ms\ ln \dfrac{T_2}{T_1} =\dfrac{1\times 336000}{273}+1\times 4200\times ln\dfrac{373}{273} =\boxed{2541.6171\ JK^{-1}}[/math]
+
+Explanation:
+বরফ গলে পানিতে আসা ও সেই পানিকে [math]0^\circ C[/math] থেকে [math]100^\circ C[/math] পর্যন্ত গরম করার জন্য মোট এনট্রপি পরিবর্তন দুটি অংশের যোগফল: গলনের সময়ের অংশ এবং তাপমাত্রা বৃদ্ধির সময়ের অংশ। গলনের এনট্রপি পরিবর্তন [math]\Delta S_{\text{মলন}}=\dfrac{L}{T}=\dfrac{3.36\times10^5}{273}\approx1.231\times10^3\ \mathrm{J/K}[/math], এবং গরম করার এনট্রপি পরিবর্তন [math]\Delta S_{\text{তাপন}}=mc\ln\frac{T_2}{T_1}=1\times4.2\times10^3\ln\frac{373}{273}\approx1.311\times10^3\ \mathrm{J/K}[/math]। তাই মোট এনট্রপি বৃদ্ধি [math]\Delta S_{\text{মোট}}\approx1.231\times10^3+1.311\times10^3\approx2.542\times10^3\ \mathrm{J/K}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 419577)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2011-2012, 2008-2009 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]10^\circ C[/math] তাপমাত্রার [math]5kg[/math] পানিকে [math]100^\circ C[/math] তাপমাত্রায় উন্নীত করতে এন্ট্রপির পরি বর্তন নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]5798.76JK^{-1}[/math]
+)এনট্রপির পরিবর্তন, [math]S=\int_{T=283}^{T=373} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}=283}^{T=373} \frac{\mathrm{msd} \mathrm{T}}{\mathrm{T}}=\mathrm{ms} \int_{28 \mathrm{3}}^{373} \frac{\mathrm{dT}}{\mathrm{T}}=\mathrm{ms}[\ln \mathrm{T}]_{283}^{373}=5 \times 4200 \times \ln \frac{373}{283}=5798.76 \mathrm{JK}^{-1}(Ans. )[/math]
+
+
+Explanation:
+ব্যাখ্যা: এন্ট্রপির পরিবর্তন ধরা হয় রিভার্সিবল তাপ সমবাহিতিতে [math]\Delta S=\int \frac{dQ_{\rm rev}}{T}=mc\ln\frac{T_2}{T_1}[/math] (তাপমাত্রা কেলভিনে)। এখানে [math]m=5\ \mathrm{kg},\ c\approx4186\ \mathrm{J\,kg^{-1}K^{-1}},\ T_1=283.15\ \mathrm{K},\ T_2=373.15\ \mathrm{K}[/math], ফলে  
+[math]\Delta S=5\times4186\ln\frac{373.15}{283.15}\approx5.76\times10^3\ \mathrm{J/K}[/math]. (ধাপটি ধরা হয়েছে যে [math]c[/math] প্রায় স্থির।)
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 419578)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]0^\circ C[/math] তাপমাত্রার 1kg বরফকে [math]100^\circ C[/math] তাপমাত্রার বাষ্পে পরিণত করা হলো। এন্ট্র পির পরিবর্তন নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\Delta S=\frac{ml_f}{T_1}+msln\frac{T_2}{T_1}+\frac{ml_v}{T_2}=\frac{1\times 336000}{273}+1\times 4200 \times ln\ \frac{373}{273}+\frac{1\times 2268000}{373}=8622.046 JK^{-1}\quad (Ans. )[/math]
+
+Explanation:
+ব্যাখ্যা: মোট এন্ট্রপির পরিবর্তন হচ্ছে বরফ গলানো, তরল গরম করা এবং বাষ্পে পরিণত করার কারণে যোগ হওয়া এন্ট্রপির যোগফল [math]ΔS=ΔS_1+ΔS_2+ΔS_3[/math], যেখানে [math]ΔS_1=\dfrac{L_f}{T_1},\;ΔS_2=c\ln\dfrac{T_2}{T_1},\;ΔS_3=\dfrac{L_v}{T_2}[/math]. গণনায় [math]ΔS_1=\dfrac{3.34\times10^5}{273.15}\approx1.22\times10^3\ \text{J/K},\;ΔS_2=4186\ln\dfrac{373.15}{273.15}\approx1.30\times10^3\ \text{J/K},\;ΔS_3=\dfrac{2.26\times10^6}{373.15}\approx6.06\times10^3\ \text{J/K}[/math]. অতএব মোট এন্ট্রপি পরিবর্তন [math]ΔS\approx8.58\times10^3\ \text{J/K}[/math], ধনাত্মক কারণ পুরো প্রক্রিয়ায় তাপ সিস্টেমে প্রবেশ করেছে ও অর্ডারহ্রাস (বিক্ষিপ্ততা) বেড়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 419579)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]0^\circ C[/math] তাপমাত্রার [math]5kg[/math] পানিকে [math]100^\circ C[/math] তাপমাত্রার পানিতে উত্তীর্ণ করতে এন্ট্রপি র পরিবর্তন নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\mathrm{6554.239JK^{-1}}[/math]
+ )[math]\mathrm{S}=\mathrm{ms} \ell n \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}=\left(5 \times 4200 \times \ln \frac{373}{273}\right)=6554.239 \mathrm{JK}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+পদ্ধতি: ঠান্ডা পানি–এর এন্ট্রপি পরিবর্তন [math]\Delta S_{\text{water}}=mc\ln\frac{T_f}{T_i}[/math] এবং বড় তাপমাত্রার রিজার্ভোয়ার–এর এন্ট্রপি পরিবর্তন [math]\Delta S_{\text{res}}=-\dfrac{Q}{T_{\text{res}}}=-\dfrac{mc(T_f-T_i)}{T_f}[/math] হবে। গণনা করে, [math]m=5\ \text{kg},\ c=4186\ \text{J/kg·K},\ T_i=273\ \text{K},\ T_f=373\ \text{K}[/math] হলে [math]\Delta S_{\text{water}}\approx6526\ \text{J/K},\ \Delta S_{\text{res}}\approx-5611\ \text{J/K}[/math] এবং মোট [math]\Delta S\approx6526-5611\approx9.15\times10^{2}\ \text{J/K}[/math]। তাই মোট এন্ট্রপি বেড়ে যায়, যা তাপের অমনোসম রূপান্তরের কারণে প্রত্যাশিত।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 419580)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+100°C তাপমাত্রার 400 gm পানিকে বাষ্পে পরিণত করা হলে এনট্রপির পরিবর্তন কত হবে? পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ [math]2260000 \ J.kg^{-1}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 2423.59 \ JK^{-1})[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে,ভর, [math]m=400 \ gm=0.4 \ kg[/math]
+বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ,[math]L_v=2260000 \ Jkg^{-1}[/math]
+ [math]=2.26 \times 10^6 Jkg^{-1}[/math]
+তাপমাত্রা, [math]T=100^{\circ}C=373K[/math]
+এনট্রপি পরিবর্তন, [math]dS=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]dS=\frac{dQ}{T}[/math]
+আবার,[math]\begin{aligned} \mathrm{dQ} & =\mathrm{mL}_{\mathrm{v}} \\ & =0.4 \times 2.26 \times 10^{6} \\ \therefore \mathrm{dS} & =\frac{0.4 \times 2.26 \times 10^{6}}{373} \\ & =2423.59 \mathrm{JK}^{-1}(\mathrm{~Ans.} \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বাষ্পীভবনের সময় তাপের প্রবাহ উষ্ণতার ধ্রুবক (রিভার্সিবল) হওয়ায় এন্ট্রপির পরিবর্তন [math]\Delta S=\dfrac{Q_{rev}}{T}=\dfrac{mL_v}{T}[/math]. এখানে [math]m=0.4\ kg,\ L_v=2260000\ J\cdot kg^{-1},\ T=100^\circ C=373\ K[/math], তাই [math]\Delta S=\dfrac{0.4\times2260000}{373}\approx2424\ J/K.[math]
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 419581)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রার 200 gm বরফকে 60° C তাপমাত্রার পানিতে পরিণত করা হলে এনট্রপির পরিবর্তন কত হবে? বরফ গলনের আপেক্ষিক সুপ্ততাপ [math]336000 J.kg^{-1}[/math] এবং পানির আপেক্ষিক তাপ [math]4200 \ J.kg^{-1}.K^{-1}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 413.03 \ JK^{-1})[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে,ভর, [math]m=200 \ gm=0.2 \ kg[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+শেষ তাপমাত্রা, [math]T_{2}=60^{\circ} \mathrm{C}=333 \mathrm{~K}[/math]
+বরফ গলনের আপেক্ষিক সুপ্ততাপ,[math]\begin{aligned} \mathrm{L}_{\mathrm{f}} & =336000 \mathrm{Jkg}^{-1} \\ & =3.36 \times 10^{5} \mathrm{Jkg}^{-1} \end{aligned}[/math]
+পানির আপেক্ষিক তাপ, [math]s=4200 \ Jkg^{-1}k^{-1}[/math]
+এন্ট্রপির পরিবর্তন, [math]dS=?[/math]
+আমরা জানি, [math]0^{\circ}C[/math]
+তাপমাত্রার [math]200 \ gm[/math]
+ বরফকে [math]0^{\circ}C[/math]
+তাপমাত্রার [math]200 \ gm[/math]
+ পানিতে পরিণত করতে এনট্রপির পরিবর্তন,[math]\mathrm{d} \mathrm{S}_{1}=\frac{\mathrm{dQ}}{\mathrm{T}}[/math]
+ [math]\begin{array}{l} =\frac{\mathrm{mL}}{\mathrm{T}_{1}} \\ =\frac{0.2 \mathrm{~kg} \times 3.36 \times 10^{5} \mathrm{Jkg}^{-1}}{273 \mathrm{~K}} \\ =246.15 \mathrm{JK}^{-1} \end{array}[/math]
+আবার, [math]0^{\circ}[/math]
+তাপমাত্রার পনিকে [math]60^{\circ}[/math]
+ তাপমাত্রার পানিতে পরিণত করতে এনট্রপির পরিবর্তন,[math]\begin{aligned} \mathrm{dS}_{2} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}} \\ & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \mathrm{mS} \frac{\mathrm{dT}}{\mathrm{T}}[\because \mathrm{dQ}=\mathrm{mSdT}] \\ & =\mathrm{mS}\left[\ln \mathrm{T}]_{\mathrm{T}_{1}}^{\mathrm{T}_{2}}\right.\\ & =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right] \\ & =0 \cdot 2 \mathrm{~kg} \times 4200 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1} \times [In \ 333-In \ 273]\\ & =166 \cdot 88 \mathrm{JK}^{-1} \end{aligned}[/math]
+ [math]\therefore[/math]
+মোট এনট্রপির পরিবর্তন,[math]\begin{aligned} \mathrm{dS} & =\mathrm{dS} \mathrm{S}_{1}+\mathrm{dS}_{2} \\ & =246 \cdot 15 \mathrm{JK}^{-1}+166.88 \mathrm{JK}^{-1} \\ & =413.03 \mathrm{JK}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পুরো প্রক্রিয়াটি দুই ধাপে ভাগ করা যায় — প্রথমে বরফ গলানো (0°C = [math]273\ K[/math]) এবং পরে পানিকে [math]0^\circ C \to 60^\circ C[/math] পর্যন্ত গরম করা। বরফ গলনে এনট্রপি পরিবর্তন [math]\Delta S_1=\frac{mL}{T}=\frac{0.2\times336000}{273}\approx246.15\ \text{J/K}[/math], এবং গরমকরণে [math]\Delta S_2=mc\ln\frac{T_2}{T_1}=0.2\times4200\ln\frac{333}{273}\approx167.92\ \text{J/K}[/math]. তাই মোট এনট্রপি পরিবর্তন [math]\Delta S=\Delta S_1+\Delta S_2\approx414.07\ \text{J/K}\ (\approx414\ \text{J/K})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 419582)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রার 1 kg বরফ 0°C তাপমাত্রার 1 kg পানিতে পরিণত হতে এনট্রপির পরিবর্তন কত হ য় নির্ণয় করো। (বরফ গলনের আপেক্ষিক সুপ্ততাপ [math]=33.4 \times 10^4 \ Jkg^{-1}[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.22 \times 10^3 JK^{-1})[/math]
+
+Explanation:
+বর্ণনা: বরফ গলনে প্রবেশ করা উষ্ণতা প্রত্যক্ষভাবে অবশোষিত হওয়ায় এন্ট্রপির পরিবর্তন [math]\Delta S=\dfrac{Q_{rev}}{T}=\dfrac{mL}{T}[/math]. এখানে [math]m=1\ \mathrm{kg},\ L=33.4\times10^{4}\ \mathrm{J\,kg^{-1}},\ T=273\ \mathrm{K}[/math], তাই [math]\Delta S=\dfrac{1\times3.34\times10^{5}}{273}\approx1.22\times10^{3}\ \mathrm{J\,K^{-1}}[/math]; গলন কালে তাপ শহীত তাপমাত্রায় প্রবেশ করায় অণুগুলোর বিশৃঙ্খলা বাড়ে, ফলে এন্ট্রপি বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 419570)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একটি প্রত্যাবর্তী তাপ ইঞ্জিনের, তাপ উৎস এবং তাপগ্রাহকের তাপমাত্রা যথাক্রমে [math]550^\circ C[/math] এবং [math]138^\circ C[/math]। সমোষ্ণ প্রসারণে গৃহীত তাপের পরিমাণ [math]750\ J[/math].
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের তাপ ইঞ্জিনের তৃতীয় ধাপে এনট্রপির পরিবর্তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, তাপ ইঞ্জিনের তৃতীয় ধাপে এনট্রপির পরিবর্তন [math]\dfrac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা,[math]\hspace{2.5 cm}\begin{aligned} \mathrm{T}_{1}=550^{\circ} \mathrm{C} & =(550+273) \mathrm{K} \\ & =823 \mathrm{~K} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+গৃহীত তাপের পরিমাণ, [math]\rm{Q}_{1}=750 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রত্যবর্তী ইঞ্জিনে এনট্রপির পরিবর্তন, [math]\mathrm{dS}=0[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad \mathrm{dS}=\rm{\dfrac{Q_{1}}{T_{1}}-\dfrac{Q_{2}}{T_{2}}} \\ \Rightarrow \rm{\dfrac{Q_{1}}{T_{1}}-\dfrac{Q_{2}}{T_{2}}=0} \\ \rm{\dfrac{Q_{2}}{T_{2}}=\dfrac{Q_{1}}{T_{1}}=\dfrac{750 \mathrm{~J}}{823 \mathrm{~K}}} =\dfrac{750}{823} \mathrm{JK}^{-1}\end{array}[/math]
+ [math]\hspace{1 cm}\therefore \ ~ \dfrac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}=0.911 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+সুতরাং তাপ ইঞ্জিনের তৃতীয় ধাপে দ্বাপর পরিবর্তন [math]0.911 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ একটি প্রত্যাবর্তী (কার্ণট) চক্রে সমোষ্ণ ধাপে এনট্রোপির পরিবর্তন হল [math]\Delta S=Q_{\text{rev}}/T[/math], এবং পুরো চক্রের জন্য [math]Q_H/T_H=Q_C/T_C[/math] হওয়ায় তৃতীয় ধাপের এনট্রোপি হল [math]\Delta S_3=-Q_C/T_C=-Q_H/T_H[/math]. এখানে [math]T_H=550+273=823\ \text{K}[/math] তাই [math]\Delta S_3=-\dfrac{750}{823}=-0.911\ \text{J/K}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 419571)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]0^{\circ} \mathrm{C}[/math] তাপমাত্রার [math]505g[/math] বরফকে [math]47.5^{\circ} \mathrm{C}[/math] তাপমাত্রার [math]4.8 kg[/math] পানির সাথে মেশানো হলো। [বরফ গলনে আপেক্ষিক সুপ্ততাপ [math]L_{f}=3,36,000 \mathrm{~J} \mathrm{~kg}^{-1}[/math], পানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math] ও পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]L_{v}=22,68,000 \mathrm{~J} \mathrm{~kg}^{-1}[/math]]
+
+Options:
+গ. উদ্দীপকে শুধুমাত্র বরফ গলার ফলে এন্ট্রপির কত পরিবর্তন হবে?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, বরফ গলার ফলে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+বরফের ভর, [math]\mathrm{m}_{1}=505 \mathrm{~g}=0.505 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বরফ গলনে আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{f}}=336000 \mathrm{~Jkg}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=(0+273) \mathrm{K}=273 \mathrm{~K}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{dS}_{1}=\dfrac{\mathrm{dQ}}{\mathrm{T}}=\dfrac{\mathrm{mL}_{\mathrm{f}}}{\mathrm{T}}=\dfrac{0.505 \mathrm{~kg} \times 336000 \mathrm{~J} \mathrm{~kg}^{-1}}{273 \mathrm{~K}} \\ \therefore \mathrm{dS}_{1}=621.54 \mathrm{~J} \mathrm{~K}^{-1} \end{array}[/math]
+সুতরাং শুধুমাত্র বরফ গলার ফলে এনট্রপির পরিবর্তন হবে [math]621.54 \mathrm{~JK}^{-1}[/math]
+।
+
+Explanation:
+গ বরফ গলতে গ্রহণ করা তাপ [math]Q=mL_{f}=0.505\times336000=169680\ \mathrm{J}[/math] এবং তাপমাত্রা [math]T=273\ \mathrm{K}[/math] হওয়ায় এন্ট্রপির পরিবর্তন [math]\Delta S=\dfrac{Q}{T}=\dfrac{169680}{273}\approx6.22\times10^{2}\ \mathrm{J\,K^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 419572)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]0^{\circ} \mathrm{C}[/math] তাপমাত্রার [math]505g[/math] বরফকে [math]47.5^{\circ} \mathrm{C}[/math] তাপমাত্রার [math]4.8 kg[/math] পানির সাথে মেশানো হলো। [বরফ গলনে আপেক্ষিক সুপ্ততাপ [math]L_{f}=3,36,000 \mathrm{~J} \mathrm{~kg}^{-1}[/math], পানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math] ও পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]L_{v}=22,68,000 \mathrm{~J} \mathrm{~kg}^{-1}[/math]]
+
+Options:
+ঘ. তুমি কীভাবে উদ্দীপকের মিশ্রণের মোট এন্ট্রপির পরিবর্তন নির্ণয় করবে তা গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+বরফের ভর, [math]\mathrm{m}=505 \mathrm{~g}=0.505 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}_{1}=4.8 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বরফের তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির তাপমাত্রা, [math]\mathrm{T}_{1}=47.5^{\circ} \mathrm{C}=(47.5+273) \mathrm{K}=320.5 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির আপেক্ষিক তাপ, [math]\rm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+বরফ গলনে আপেক্ষিক সুপ্ত তাপ, [math]\mathrm{L}_{\mathrm{f}}=336000 \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+ধরি, মিশ্রণের তাপমাত্রা, [math]\rm{T}_2[/math]
+পানির তাপমাত্রা [math]320.5\rm{~K}[/math]
+ হতে [math]\rm{T}_2[/math]
+ তে নামাতে বর্জিত তাপ[math]\hspace{1.5 cm}\begin{aligned} \rm{Q}_{1} & =\rm{m}_{1} \mathrm{~S}\left(\mathrm{~T}_{1}-\mathrm{T}_{2}\right) \\ & =4.8 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}\left(320.5 \mathrm{~K}-\mathrm{T}_{2}\right) \\ & =6461280 \mathrm{~J}-20160 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+ [math]273 \mathrm{~K}[/math]
+ তাপমাত্রার বরফকে [math]273 \mathrm{~K}[/math]
+ তাপমাত্রার পানিতে পরিণত করতে গৃহীত তাপ—[math]\hspace{1.3 cm}\mathrm{Q}_{2}=\mathrm{m}_{2} \mathrm{~L}_{f}=0.505 \mathrm{~kg} \times 336000 \mathrm{~J} \mathrm{~kg}^{-1}=169680 \mathrm{~J}[/math]
+ [math]273 \mathrm{~K}[/math]
+ তাপমাত্রার পানিকে [math]\mathrm{T}_2[/math]
+ তাপমাত্রায় পৌছাতে গৃহীত তাপ,[math]\hspace{1.5 cm}\begin{aligned} \rm{Q}_{3} & =\mathrm{mS}\left(\mathrm{T}_{2}-273 \mathrm{~K}\right) \\ & =0.505 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1} \times\left(\mathrm{T}_{2}-273 \mathrm{~K}\right) \\ & =2121 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1}-579033 \mathrm{~J} \end{aligned}[/math]
+ক্যালরিমিতি মূলনীতি অনুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{Q}_{1}=\rm{Q}_{2}+\rm{Q}_{3} \\ \Rightarrow 6461280 \mathrm{~J}-20160 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1}=169680 \mathrm{~J}+2121 \mathrm{~T}_{2} \mathrm{JK}^{-1}-579033 \mathrm{~J} \\ \Rightarrow \left(20160 \mathrm{~T}_{2}+2121 \mathrm{~T}_{2}\right) \mathrm{JK}^{-1}=(6461280+579033-169680) \mathrm{J} \\ \Rightarrow 22281 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1}=6870633 \mathrm{~J} \\ \Rightarrow \mathrm{~T}_{2}=\dfrac{6870633 \mathrm{~J}}{22281 \mathrm{~J} \mathrm{~K}^{-1}}=308.363 \mathrm{~K} \end{array}[/math]
+গ হতে, শুধুমাত্র বরফ গলাতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}=621.54 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+ [math]273 \mathrm{~K}[/math]
+ হতে বরফগলা পানিকে [math]308.363 \rm{~K}[/math]
+ তাপমাত্রায় উন্নীত করতেএনট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{2} & =\int_{\mathrm{T}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}}^{\mathrm{T}_{2}} \frac{\mathrm{mS} \mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}[\ln \mathrm{T}]_{\mathrm{T}}^{\mathrm{T}_{2}} \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}\right] \\ & =0.505 \mathrm{~kg}\times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[\ln 308.363-\ln 273] \\ \therefore \quad & \mathrm{dS}_{2}=258.35 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+পানির তাপমাত্রা [math]320.5 \mathrm{~K}[/math]
+ হতে [math]308.363 \mathrm{~K}[/math]
+ এ নামাতে এনট্রপির[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{3} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}}=\frac{\mathrm{mS} \Delta \mathrm{T}^{\prime}}{\mathrm{T}}=\mathrm{mS} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right] \\ & =4.8 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[\ln 308.363-\ln 320.5] \\ & =-778.269 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+ [math]\therefore[/math]
+ মোট এনট্রপির পরিবর্তন[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{S} =\mathrm{dS}_{1}+\mathrm{dS}_{2}+\mathrm{dS}_{3}\\ \quad=621.54 \mathrm{~J} \mathrm{~K}^{-1}+258.35 \mathrm{~J} \mathrm{~K}^{-1}-778.269 \mathrm{~J} \mathrm{~K}^{-1} \\ \quad =101.621 \mathrm{~J} \mathrm{~K}^{-1} \end{array}[/math]
+সুতরাং মোট এনট্রপির পরিবর্তন [math]101.621 \mathrm{~JK}^{-1}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: ঘ মিশ্রণের মোট এন্ট্রপির পরিবর্তন হিসাব করতে প্রত্যেক অংশের রিভার্সিবল তাপ পরিবর্তনের উপর ভিত্তি করে যোগ করতে হবে: বরফ গলনে [math]\Delta S_{\text{melt}}=m_{\text{ice}}\,L_f/T_m[/math] (এখানে [math]T_m=273.15\ \text{K}[/math]), গলিত বরফকে [math]T_f[/math] তাপমাত্রায় তাপ দিলে [math]\Delta S_{\text{ice,heat}}=m_{\text{ice}}\,c\ln\frac{T_f}{T_m}[/math], এবং গরম পানির(entropy) পরিবর্তন [math]\Delta S_{\text{water}}=m_{\text{water}}\,c\ln\frac{T_f}{T_i}[/math]; মোটে [math]\Delta S_{\text{total}}=\Delta S_{\text{melt}}+\Delta S_{\text{ice,heat}}+\Delta S_{\text{water}}[/math]. আগেই [math]T_f[/math] নির্ণয় করতে শক্তি ধ্রুবকতা ব্যবহার করুন: [math]m_{\text{ice}}L_f+m_{\text{ice}}c(T_f-T_m)=m_{\text{water}}c(T_i-T_f)[/math], এবং সব তাপমাত্রা কেলভিনে ব্যবহার করবেন; ধনাত্মক/ঋণাত্মক চিহ্নগুলো স্বাভাবিকভাবেই পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 419567)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি প্রত্যাবর্তী তাপ ইঞ্জিনের তাপ উৎস এবং তাপ গ্রাহকের তাপমাত্রা যথাক্রমে 550°C এবং 138°C। সমোষ্ণ প্রসারণে গৃহীত তাপের পরিমাণ 850 J।
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের AB অংশের এনট্রপি নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের AB অংশে এখানে, সমোষ্ণ প্রসারণ ঘটে।এখানে,[math]\hspace{1 cm}[/math]
+AB অংশের গৃহীত তাপ [math]d Q=850 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]T_{1}=550^{\circ} \mathrm{C}=(550+273) K=823 K[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপি dS = ?আমরা জানি,[math]\hspace{1.5 cm}\quad d S ~=\frac{d Q}{T}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \mathrm{dS}=\frac{850}{823}\quad[/math]
+ এখানে, [math]\left[\mathrm{T}=\mathrm{T}_{1}=823 \mathrm{~K}\right][/math]
+ [math]\hspace{1.5 cm}\qquad ~=1.0328 \mathrm{JK}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কারণ প্রত্যাবর্তী প্রক্রিয়ায় শোষিত তাপের ফলে এনট্রপির পরিবর্তন হয় [math]\Delta S=Q_{\rm in}/T_H[/math]. এখানে [math]T_H=550^\circ C=823\ \text{K}[/math], তাই [math]\Delta S=850/823\approx1.03\ \text{J/K}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 419568)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] প্রক্রিয়ার [math]2\ kg[/math] পানিকে [math]0^\circ C[/math] তাপমাত্রা থেকে বাষ্পে রূপান্তরিত করা হলো। অন্যদিকে [math]B[/math] প্রক্রিয়ায় [math]10^\circ C[/math] তাপমাত্রার [math]5\ kg[/math] পানিকে [math]100^\circ C[/math] তাপমাত্রার পানিতে পরিণত করা হলো। (পানির আপেক্ষিক তাপ [math]4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math] এবং পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ [math]2.26 \times 10^{6} \mathrm{~J} \mathrm{~kg}^{-1}[/math])
+
+Options:
+ঘ. উদ্দীপকে কোন প্রক্রিয়ায় বিশৃঙ্খলার মাত্রা বেশি? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ [math]\rm{A}[/math]
+ প্রক্রিয়ার ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}=2 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}=100^{\circ} \mathrm{C}=373 \mathrm{~K}[/math]
+ [math]0^{\circ} \mathrm{C}[/math]
+ তাপমাত্রার পানিকে [math]100^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় নিতেতাপের পরিমাণ, [math]\mathrm{dQ}_{2}=4.52 \times 10^{6} \mathrm{~J}[/math]
+ [math]100^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় পানিকে [math]100^{\circ} \mathrm{C}[/math]
+ তাপমাত্রার বাষ্পে পরিণত করতে তাপের পরিমাণ, [math]\mathrm{dQ}_{2}=4.52 \times 10^{6} \mathrm{~J}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{1} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}} \\ & =\mathrm{mS} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{\mathrm{T}_{1}}\right. \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right] \\ & =2 \mathrm{~kg} \times 4200 \mathrm{J~kg}^{-1} \mathrm{~K}^{-1}[\ln 373-\ln 273] \\ & =2621.7 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+আবার, [math]\mathrm{dS}_{2 .}=\dfrac{\mathrm{dQ}_{2}}{\mathrm{~T}_{2}}=\dfrac{4.52 \times 10^{6} \mathrm{~J}}{373 \mathrm{~K}}=12117.96 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+ [math]\therefore[/math]
+ মোট এনট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{\mathrm{A}} & =\mathrm{dS}_{1}+\mathrm{dS}_{2} \\ & =(26221.7+12117.96) \mathrm{J} \mathrm{K}^{-1} \\ & =14739.66 \mathrm{JK}^{-1} \end{aligned}[/math]
+ [math]\rm{B}[/math]
+ প্রক্রিয়ার ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}_{\mathrm{B}}=5 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}^{\prime}=10^{\circ} \mathrm{C}=(10+273) \mathrm{K}=283 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}^{\prime}=100^{\circ} \mathrm{C}=(100+273) \mathrm{K}=373 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\mathrm{dS}_{\mathrm{B}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{\mathrm{B}} & =\int_{\mathrm{T}_{1}^{\prime}}^{\mathrm{T}_{2}^{\prime}} \frac{\mathrm{dQ}_{\mathrm{B}}}{\mathrm{T}} \\ & =\mathrm{m}_{\mathrm{B}} \mathrm{S}_{\mathrm{T}_{1}}^{\mathrm{T}_{2}^{\prime}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{m}_{\mathrm{B}} \mathrm{S}\left[\ln \mathrm{T}_{\mathrm{T}_{2^{\prime}}}\right. \\ & =\mathrm{m}_{\mathrm{B}} \mathrm{S}\left[\ln \mathrm{T}_{2}^{\prime}-\ln \mathrm{T}_{1^{\prime}}\right]^{\prime} \\ & =5 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[\ln 373-\ln 283]\\ \therefore \quad \mathrm{dS}_{\mathrm{B}}&=5798.76 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+যেহেতু [math]\mathrm{dS}_{\mathrm{A}}>\mathrm{dS}_{\mathrm{B}}[/math]
+ সেহেতু [math]\rm{A}[/math]
+ প্রক্রিয়ায় বিশৃঙ্খলার মাত্রা বেশি।
+
+Explanation:
+ঘ A প্রক্রিয়ায় বিশৃঙ্খলার মাত্রা বেশি। হিসাব করে দেখা যায়: গরম করা অংশের জন্য [math]\Delta S_{A1}=2\times4200\ln(373/273)\approx2621\ \mathrm{J/K}[/math], বাষ্পীভবনের জন্য [math]\Delta S_{A2}=2\times2.26\times10^6/373\approx12115\ \mathrm{J/K}[/math], তাই [math]\Delta S_A\approx14736\ \mathrm{J/K}[/math]. আর B প্রক্রিয়ায় [math]\Delta S_B=5\times4200\ln(373/283)\approx5796\ \mathrm{J/K}[/math], সুতরাং [math]\Delta S_A>\Delta S_B[/math] (বাষ্পীভবনেই স্থির তাপে বড়ো তাপদান হওয়ায় বিশৃঙ্খলা বেশি বাড়ে)।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 419569)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+30°C তাপমাত্রার 0.05 kg পানিকে স্বাভাবিক চাপে 2 × 10-3 m3 আয়তনের বাষ্পে পরিণত করা হলো। এ প্রক্রিয়ায় সিস্টেমের অন্তঃস্থ শক্তির পরিবর্তন 1.28 x 104J । [পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, Lv = 2.26 × 106 J kg-1 এবং পানির আপেক্ষিক তাপ, S = 4200 J kg-1 K-1]
+
+Options:
+গ. উদ্দীপকের পানিকে বাষ্পে পরিণত করার জন্য এন্ট্রপির পরিবর্তন কত হবে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে বাষ্পায়ন ২টি ধাপে সম্পন্ন হবেএখানে,[math]\hspace{1 cm}\begin{array}{l} \mathrm{T}_{1}=30^{\circ} \mathrm{C}=303 \mathrm{~K} \\ \mathrm{~T}_{2}=100^{\circ} \mathrm{C}=373 \mathrm{~K} \\ \mathrm{~S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1} \\ \mathrm{~m}=0.05 \mathrm{~kg} \end{array}[/math]
+১ম ধাপ : [math]30^{\circ} \mathrm{C}[/math]
+ এর পানিকে [math]100^{\circ} \mathrm{C}[/math]
+ এর পানিতে রূপান্তর করতে এনট্রপির পরিবর্তন[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{1} & =\mathrm{mS} l\rm{n} \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\ & =0.05 \times 4200 \ln \frac{373}{303} \mathrm{JK}^{-1} \\ & =43.65 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+২য় ধাপ : [math]100^{\circ} \mathrm{C}[/math]
+ এর পানিকে [math]100^{\circ} \mathrm{C}[/math]
+ এর বাষ্পে রূপান্তর করতে এনট্রপির পরিবর্তন[math]\hspace{1.5 cm}\mathrm{dS}_{2}=\dfrac{\mathrm{m} {l}_{\mathrm{v}}}{\mathrm{T}}=\dfrac{0.05 \times 2.26 \times 10^{6}}{373} \mathrm{~J} \mathrm{~K}^{-1}=302.95 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+ [math]\therefore[/math]
+ মোট এনট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS} & =\mathrm{dS}_{1}+\mathrm{dS}_{2} \\ & =(43.65+302.95) \mathrm{J} \mathrm{K}^{-1} \\ & =346.599 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: উষ্ণতা প্রথমে তরলকে [math]T_1=303\,\text{K}[/math] থেকে উষ্ণ করে [math]T_b=373\,\text{K}[/math] করা এবং তারপর দুর্দম্পনীকরণ ধরা হলে এন্ট্রপির পরিবর্তন হবে
+[math]\Delta S=m c\ln\frac{373}{303}+ \frac{mL_v}{373}.[/math]
+উপযুক্ত মান বসালে [math]m=0.05\ \text{kg},\ c=4200\ \text{J kg}^{-1}\text{K}^{-1},\ L_v=2.26\times10^6\ \text{J kg}^{-1}[/math] পাওয়া যায়
+[math]\Delta S\approx 0.05\times4200\times\ln\frac{373}{303}+ \frac{0.05\times2.26\times10^6}{373}\approx 3.47\times10^2\ \text{J K}^{-1}.[/math]
+অতএব এন্ট্রপির পরিবর্তন ≈ [math]3.47\times10^2\ \text{J K}^{-1}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 419566)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রার 1 g পানিকে বরফে পরিণত করতে রেফ্রিজারেটরটি ন্যূনতম কাজ সম্পাদন করে [math]Q_2[/math] তাপ অপসারণ করে এবং [math]Q_1[/math] তাপ পরিবেশে বর্জন করে। পরবর্তীতে রেফ্রিজারেটরের পরিবর্তে এমন একটি তাপ ইঞ্জিন প্রতিস্থাপন করা হলো যেনো এটি রেফ্রিজারেটরের ঠিক বিপরীত আচরণ করে। (পানির আপেক্ষিক তাপ 4200 [math]Jkg^{-1}K^{-1}[/math] এবং বরফ গলনের আপেক্ষিক সুপ্ততাপ 336000 [math]Jkg^{-1}[/math])।
+
+
+[Image]
+
+
+Options:
+ঘ. তাপ ইঞ্জিনটি প্রত্যাগামী হবে কিনা? এন্ট্রপির সাহায্যে গাণিতিক বিশ্লেষণপূর্বক মন্তব্য করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+উচ্চ তাপমাত্রার তাপধারের তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=(30+273) \mathrm{K} =303 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+নিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+কার্যসম্পাদন সহগ, [math]K = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} K & =\frac{T_{2}}{T_{1}-T_{2}} \\ & =\frac{273}{303-273} \\ & =\frac{273}{30}=9.1 \end{aligned}[/math]
+ [math]\therefore[/math]
+ রেফ্রিজারেটরটির কার্যসম্পাদন সহগ [math]\mathrm{K}=9.1 \text { (Ans.) }[/math]
+ এখানে,[math]\hspace{1 cm}[/math]
+বরফের ভর, [math]\mathrm{m}=1 \mathrm{~g}=10^{-3} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+উচ্চ তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=(30+273) \mathrm{K}=303 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+নিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+রেফ্রিজারেটরটি 0°C তাপমাত্রার 1 g পানিকে বরফে পরিণত করে এক্ষেত্রে গৃহীত তাপ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{Q}_{2} & =\mathrm{ml}_{\mathrm{f}} \\ & =10^{-3} \times 336000 \\ & =336 \mathrm{~J} \end{aligned}[/math]
+রেফ্রিজারেটরের উপর কৃতকাজ W হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad K=\frac{Q_{2}}{W}\\ \Rightarrow \mathrm{W}=\frac{\mathrm{Q}_{2}}{\mathrm{~K}}=\frac{336}{9.1}=36.92 \mathrm{~J}\end{array}[/math]
+পরিবেশে বর্জিত তাপ [math]Q_1[/math]
+ হলে,[math]\hspace{1.5 cm}Q_{1}=Q_{2}+W=(336+36.92) \mathrm{J}=372.923 \mathrm{~J}[/math]
+এখন, তাপ ইঞ্জিনটি যেহেতু রেফ্রিজারেটরের ঠিক বিপরীত আচরণ করে, এটি [math]T_1[/math]
+ তাপমাত্রার তাপ উৎস থেকে [math]Q_1[/math]
+ তাপ গ্রহণ করে এবং [math]T_1[/math]
+ তাপমাত্রার তাপ গ্রাহকে [math]Q_2[/math]
+ তাপ ছেড়ে দেয়।এখানে,[math]\hspace{1 cm}[/math]
+গৃহীত তাপ, [math]\mathrm{d} \mathrm{Q}_{1}=372.923 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=303 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\Delta S_{1}=?[/math]
+
+[Image]
+এই প্রক্রিয়াকে উপরের ABCDকার্নো চক্রের সাহায্যে দেখানো যায়।AB সমোষ্ণ প্রসারণের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{aligned} \Delta S_{1} & =\frac{d Q_{1}}{T_{1}} \\ & =\frac{372923}{303} \\ & =1.23 \mathrm{JK}^{-1} \end{aligned}[/math]
+BC রুদ্ধতাপীয় প্রসারণের ক্ষেত্রে,[math]\Delta S_{2}=0[/math]
+ [ [math]\therefore[/math]
+ রুদ্ধতাপীয় প্রক্রিয়ায় এনট্রপির পরিবর্তন শূন্য]এখানে,[math]\hspace{1 cm}[/math]
+বর্জিত তাপ, [math]\mathrm{dQ}_2=-336 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, [math]T_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\Delta S_{3}=?[/math]
+CD সমোষ্ণ সংকোচনের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{aligned} \Delta S_{3} & =\frac{\mathrm{dQ}}{\mathrm{T}_{2}} \\ & =-\frac{336}{273} \\ & =-1.23 \mathrm{JK}^{-1} \end{aligned}[/math]
+DA রুদ্ধতাপীয় সংকোচনের ক্ষেত্রে,[math]\hspace{1.5 cm}\Delta S_{4}=0[/math]
+ [math]\therefore[/math]
+ মোট এনট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{array}{l} \Delta \mathrm{S}=\Delta \mathrm{S}_{1}+\Delta \mathrm{S}_{2}+\Delta \mathrm{S}_{3}+\Delta \mathrm{S}_{4} \\ \quad ~ =1.23+0-1.23+0 \\ \quad ~ =0 \mathrm{JK}^{-1} \end{array}[/math]
+যেহেতু তাপ ইঞ্জিনের মোট এনট্রপির পরিবর্তন শূন্য। তাই তাপ ইঞ্জিনটি প্রত্যাগামী হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: 1 g বরফ গঠনের জন্য [math]Q_2=mL=0.001\times336000= [math]336\ \rm J[/math]. যদি রেফ্রিজারেটরটি ন্যূনতম কাজ করে ছিল তা হলে তা প্রতিসংবর্তক, ফলে [math]\dfrac{Q_1}{T_h}=\dfrac{Q_2}{T_c}[/math]. প্রতিসংবর্তক প্রক্রিয়ার উল্টো দিক—তাপ ইঞ্জিন—চললে সার্বজনীন এন্ট্রপির পরিবর্তন হবে [math]\Delta S=-\dfrac{Q_1}{T_h}+\dfrac{Q_2}{T_c}=0[/math], তাই এটি সম্ভব্য (প্রত্যাগামী নয়), অর্থাৎ আদর্শভাবে চলতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 419563)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে 1 gm পানি তরল হতে বাষ্পীভূত হবার দুটি স্তর দেয়া আছে। D বিন্দুতে বাষ্পের আয়তন 1700 cc । (পানির আপেক্ষিক তাপ 4200 [math]\mathrm{Jkg}^{-1} \mathrm{~K}^{-1} \text { ) }[/math]।
+
+Options:
+গ. AB পথে এনট্রপির পরিবর্তন নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গAB পথে তাপমাত্রা একই থাকায় এটি সমোষ্ণ প্রক্রিয়া।আমরা জানি,dQ = dU + dWএখানে, dQ হলো তাপের পরিবর্তন, dU হলো অন্তঃস্থ শক্তির পরিবর্তনও dW হলো কৃতকাজের পরিবর্তন।সমোষ্ণ প্রক্রিয়ায় [math]\mathrm{dU}=0 \therefore \mathrm{dQ}=\mathrm{dW}[/math]
+আবার, সমোষ্ণ প্রক্রিয়ায় কৃতকাজ, [math]\mathrm{dW}=\mathrm{nRT} \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}[/math]
+AB পথে এনট্রপির পরিবর্তন dS হলে,এখানে,AB পথে গৃহীত তাপ [math]\mathrm{dQ}=\mathrm{dW}=\mathrm{nRT} \ln \left(\frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}\right)[/math]
+AB পথে তাপমাত্রা, [math]\mathrm{T}=50^{\circ} \mathrm{C}[/math]
+ [math]\begin{array}{l}=(273+50) \mathrm{K} \\=323 \mathrm{~K}\end{array}[/math]
+পানির ভর, W = 1 gmপানির আণবিক ভর, M = 18 gmA বিন্দুর আয়তন [math]=\mathrm{V}_{1}[/math]
+B বিন্দুর আয়তন [math]=V_{2}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.314 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\begin{aligned}\mathrm{dS} & =\frac{\mathrm{dQ}}{\mathrm{T}} \\& =\frac{\mathrm{nRT} \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}}{\mathrm{~T}} \\& =\mathrm{nR} \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\& =\frac{\mathrm{W}}{\mathrm{M}} \times \mathrm{R} \times \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\& =\frac{1}{18} \times 8.314 \times \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}\end{aligned}[/math]
+ [math]\therefore \mathrm{dS}=\left(0.462 \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}\right) \mathrm{JK}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:  
+গ AB পথে তরলকে রিভার্সিবলি [math]T_1=273\ \text{K}[/math] থেকে [math]T_2=373\ \text{K}[/math] পর্যন্ত গরম করলে এনট্রোপি পরিবর্তন হয় [math]\Delta S=\int \frac{dQ_{\rm rev}}{T}=\int m c\frac{dT}{T}=m c\ln\frac{T_2}{T_1}[/math]। এখানে [math]m=0.001\ \text{kg}[/math] এবং [math]c=4200\ \mathrm{J\,kg^{-1}K^{-1}}[/math], তাই [math]\Delta S=0.001\times4200\ln\frac{373}{273}=4.2\times0.311\approx1.31\ \mathrm{J/K}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 419564)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+সিয়াম 1 kg বরফকে 10°C তাপমাত্রা হতে 30°C তাপমাত্রার পানিতে পরিণত করে। সামির 30°C তাপমাত্রার 1 kg পানিকে 100°C তাপমাত্রার বাষ্পে পরিণত করে। সিয়াম দাবি করলো তার প্রক্রিয়াটি বেশি শৃঙ্খল।
+
+[math]S_{\mathrm{w}}=4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}, L_{\mathrm{f}}=3 .36 \times 10^{5} \mathrm{Jkg}^{-1}[/math] [math]S_{\mathrm{ice}}=2100 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math] এবং [math]\mathrm{L}_{\mathrm{v}}=2.26 \times 10^{6} \mathrm{Jkg}^{-1}[/math]
+
+Options:
+ঘ. সিয়ামের দাবি সঠিক কিনা— গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘকোনো প্রক্রিয়ার বিশৃঙ্খলার মাত্রা নির্ধারিত হয় এনট্রপির পরিবর্তনের দ্বারা। এনট্রপির পরিবর্তন বেশি হলে বিশৃঙ্খলার মাত্রা বেশি হয়। পক্ষান্তরে, এনট্রপির পরিবর্তন কম হলে প্রক্রিয়াটি বেশি শৃঙ্খল হয়।এখানে,বরফের ভর, m = 1 kgবরফের আপেক্ষিক তাপ, [math]S_{\text {ice }}=2100 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=-10^{\circ} \mathrm{C}[/math]
+ [math]=(273-10) \mathrm{K}=263 \mathrm{~K}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}[/math]
+ [math]=(273+0) \mathrm{K}=273 \mathrm{~K}[/math]
+সিয়ামের ক্ষেত্রেঃ1 kg বরফকে – 10°C তাপমাত্রা থেকে 0°C তাপমাত্রায় পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}[/math]
+ হলে,[math]\mathrm{dS}_{1}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{ice}} \mathrm{dT}}{\mathrm{T}}=\mathrm{ms}_{\mathrm{ice}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}}[/math]
+ [math]\begin{array}{l}=\mathrm{mS}_{\mathrm{ice}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\=1 \times 2100 \times \ln \left(\frac{273}{263}\right) \\=78.3673 \mathrm{\ JK}^{-1}\end{array}[/math]
+এখানে,ভর, m = 1 kgবরফ গলনের আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{f}}=3.36 \times 10^{5} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=(273+0) \mathrm{K}[/math]
+ [math]=273 \mathrm{~K}[/math]
+0°C তাপমাত্রার 1 kg বরফকে 0°C তাপমাত্রার 1 kg পানিতে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{2}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{dS}_{2}=\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{\mathrm{mL}_{\mathrm{f}}}{\mathrm{T}} \\=\frac{1 \times 3.36 \times 10^{5}}{273} \\=1230.769 \mathrm{\ JK}^{-1}\end{array}[/math]
+এখানে,ভর, m = 1 kgপানির আপেক্ষিক তাপ, [math]\mathrm{S}_{\mathrm{W}}=4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=0^{\circ} \mathrm{C}[/math]
+ [math]=(273+0) \mathrm{K}=273 \mathrm{~K}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=30^{\circ} \mathrm{C}[/math]
+ [math]=(273+30)=303 \mathrm{~K}[/math]
+0°C তাপমাত্রার 1kg পানিকে 30°C তাপমাত্রার 1kg পানিতে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{3}[/math]
+, হলে,[math]\mathrm{dS}_{3}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{w}} \mathrm{dT}}{\mathrm{T}}=\mathrm{mS}_{\mathrm{w}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{d} T}{\mathrm{~T}}[/math]
+ [math]\begin{array}{l}=\mathrm{mS}_{\mathrm{w}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\=1 \times 4200 \times \ln \left(\frac{303}{273}\right) \\=437.896 \mathrm{\ Jk}^{-1}\end{array}[/math]
+সিয়ামের প্রক্রিয়ায় এনট্রপির মোট পরিবর্তন,[math]\begin{aligned}\mathrm{dS} & =\mathrm{dS}_{1}+\mathrm{dS}_{2}+\mathrm{dS}_{3} \\& =(78.3673+1230.769+437.896) \mathrm{JK}^{-1} \\& =1747.033 \mathrm{\ JK}^{-1}\end{aligned}[/math]
+সামিরের ক্ষেত্রেঃএখানে,ভর, m = 1 kgপানির আপেক্ষিক তাপ, [math]S_{W}=4200 \mathrm{\ Jkg}^{-1} \mathrm{k}^{-1}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}[/math]
+ [math]=(273+30) \mathrm{K}=303 \mathrm{~K}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=100^{\circ} \mathrm{C}[/math]
+ [math]=(273+100) \mathrm{K}=373 \mathrm{~K}[/math]
+0°C তাপমাত্রার 1 kg পানিকে 100°C তাপমাত্রার 1kg পানিতে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}^{\prime}[/math]
+ হলে,[math]\mathrm{dS}_{1}^{\prime}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2} \frac{\mathrm{dQ}}{\mathrm{T}}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{W}} \mathrm{dT}}{\mathrm{T}}=\mathrm{mS}_{\mathrm{W}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}}[/math]
+ [math]\begin{array}{l}=\mathrm{mS}_{\mathrm{w}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\=1 \times 4200 \times \ln \left(\frac{373}{303}\right) \\=872.95 \mathrm{\ JK}^{-1}\end{array}[/math]
+এখানে,ভর, m = 1 kgপানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{v}}=2.26 \times 10^{6} \mathrm{Jkg}^{-1}[/math]
+তাপমাত্রা, [math]\mathrm{T}=100^{\circ} \mathrm{C}[/math]
+ [math]=(273+100) K=373 \mathrm{~K}[/math]
+100°C তাপমাত্রার 1kg পানিকে 100°C তাপমাত্রার 1kg বাষ্পে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{2}{ }^{\prime}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{dS}_{2}{ }^{\prime}=\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{\mathrm{mL}_{V}}{\mathrm{~T}} \\=\frac{1 \times 2.26 \times 10^{6}}{373} \\=6058.98 \mathrm{\ JK}^{-1}\end{array}[/math]
+সামিরের প্রক্রিয়ায় এনট্রপির মোট পরিবর্তন,[math]\begin{array}{l}\mathrm{dS}^{\prime}=\mathrm{dS}_{1}{ }^{\prime}+\mathrm{dS}_{2}{ }^{\prime} \\=(872.95+6058.98) \mathrm{JK}^{-1} \\=6931.93 \mathrm{JK}^{-1}\end{array}[/math]
+দেখা যাচ্ছে, [math]\mathrm{dS}<\mathrm{dS}^{\prime} \text {. }[/math]
+যেহেতু, সিয়ামের প্রক্রিয়ায় এনট্রপির পরিবর্তন সামিরের প্রক্রিয়ার থেকে কম, তাই তার প্রক্রিয়াটি বেশি শৃঙ্খল। এজন্য বলা যায় যে, সিয়ামের দারি সঠিক।
+
+Explanation:
+ব্যাখ্যা: ঘ সিয়ামের দাবি সঠিক না — গণনা করলে দেখা যায় স্যিয়ামের প্রক্রিয়ায় মোট এন্ট্রপি বৃদ্ধি
+[math]\Delta S_{\rm Siam}=2100\ln\frac{273.15}{263.15}+\frac{3.36\times10^{5}}{273.15}+4200\ln\frac{303.15}{273.15}\approx1.75\times10^{3}\ \mathrm{J/K}[/math] এবং সামির প্রক্রিয়ায়
+[math]\Delta S_{\rm Samir}=4200\ln\frac{373.15}{303.15}+\frac{2.26\times10^{6}}{373.15}\approx6.93\times10^{3}\ \mathrm{J/K}[/math] 
+অতএব সামির প্রক্রিয়া বেশি এন্ট্রপি সৃষ্টি করে এবং তাই আরো অনিয়মিত (irreversible)।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 419565)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি ইঞ্জিন। A ইঞ্জিনটি - 60°C তাপমাত্রার নিম্ন তাপাধার থেকে 2400 J তাপ গ্রহণ করে এবং উচ্চ তাপাধারে 3600 J তাপ বর্জন করে। অপরদিকে B ইঞ্জিন ১ম ধাপে 0°C তাপমাত্রার 5 kg বরফকে 0°C তাপমাত্রার পানিতে পরিণত করে এবং ২য় ধাপে O°C তাপমাত্রার 5 kg পানিকে 100°C তাপমাত্রার পানিতে পরিণত করে। বরফ গলনের আপেক্ষিক সুপ্তভাগ 336000 [math]Jkg^{-1}[/math] এবং পানির আঃ তাপ 4200 [math]Jkg^{-1}K^{-1}[/math]
+
+Options:
+ঘ. উদ্দীপকের ইঞ্জিনের ১ম ও ২য় ধাপে এনট্রপির পরিবর্তন সমান হবে কি? গাণিতিক মতামত উপস্থাপন করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম ধাপে 0°C তাপমাত্রার 5 kg বরফকে 0°C তাপমাত্রার পানিতে পরিণত করতে এনট্রপির পরিবর্তন [math]\Delta \mathrm{S}_{1}[/math]
+ হলে,এখানে,[math]\hspace{1 cm}[/math]
+বরফের ভর, m = 5 kg[math]\hspace{1 cm}[/math]
+বরফ গলনের আপেক্ষিক সুপ্ততাপ, [math]\mathrm{I}_{\mathrm{f}}=336000 \mathrm{Jkg}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+গৃহীত তাপ, [math]\mathrm{dQ}=\mathrm{ml}_{\mathrm{f}} =5 \times 336000=1.68 \times 10^{6} \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, T = 0°C = 273 K[math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\Delta \mathrm{S}_{1}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \Delta \mathrm{S}_{1} & =\frac{\mathrm{dQ}}{\mathrm{T}} \\ & =\frac{1.68 \times 10^{6}}{273} \\ & =6153.85 \mathrm{JK}^{-1} \end{aligned}[/math]
+আবার,এখানে,[math]\hspace{1 cm}[/math]
+পানির ভর, m = 5 kg[math]\hspace{1 cm}[/math]
+আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{Jkg}^{-1} \ \mathrm{K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=100^{\circ} \mathrm{C} =(100+273) K =373 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\Delta S_{2}=?[/math]
+২য় ধাপে 0°C তাপমাত্রার 5 kg পানিকে 100°C তাপমাত্রার পানিতে পরিণত করতে এনটুপির পরিবর্তন [math]\Delta S_{2}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} \Delta S_{2} & =\int_{T_{1}}^{T_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{T_{1}}^{T_{2}} \frac{\mathrm{msdT}}{\mathrm{T}} \\ & =m s \int_{T_{1}}^{T_{2}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =m s[\ln T]_{2} \\ & =m s\left[\ln T_{2}-\ln T_{1}\right] \\ \therefore \Delta S_{2} & =m s \ln \frac{T_{2}}{T_{1}} \\ & =5 \times 4200 \times \ln \frac{373}{273} \\ & =6554.24 \mathrm{JK}^{-1} \end{aligned}[/math]
+দেখা যাচ্ছে, [math]\Delta S_{1} 
+eq \Delta S_{2}[/math]
+ [math]\therefore[/math]
+ B ইঞ্জিনের ১ম ও ২য় ধাপে এনট্রপির পরিবর্তন সমান হবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ না, সমান হবে না। প্রথম ধাপে বরফ গলনে এনট্রপির পরিবর্তন হলো [math]\Delta S_1=\dfrac{mL}{T}=\dfrac{5\times336000}{273}\approx6154\ \mathrm{J/K}[/math] এবং দ্বিতীয় ধাপে পানিকে গরম করলে [math]\Delta S_2=mc\ln\frac{T_2}{T_1}=5\times4200\ln\frac{373}{273}\approx21000\times0.312\approx6552\ \mathrm{J/K}[/math]। তাই [math]\Delta S_1\neq\Delta S_2[/math] এবং [math]\Delta S_2>\Delta S_1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 419561)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Gazipur Cantonment College
+--------------------------------------------------------------------------------
+Question:
+চিত্রটি লক্ষ করে সংশ্লিষ্ট প্রশ্নগুলোর উত্তর দাও :
+
+[Image]
+
+
+Options:
+ক. রেফ্রিজারেটরের ক্রিয়া গুণাঙ্ক কাকে বলে?
+খ. [math]\mathrm{H}=0.24 I^{2} \mathrm{Rt}[/math] সমীকরণ অনুসারে [math]I[/math] ও [math]t[/math] স্থির থাকলে [math]H-R[/math] গ্রাফের প্রকৃতি কিরূপ হবে?
+গ. কার্নো ইঞ্জিনটি কর্তৃক সম্পন্ন কাজের পরিমাণ হিসাব কর।
+ঘ. চক্রটির প্রতি ধাপের এনট্রপির তুলনামূলক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+করেফ্রিজারেটরের ক্রিয়া গুণাঙ্ক হলো রেফ্রিজারেটর হতে অপসারিত তাপ ও কম্প্রেসার কর্তৃক সরবরাহকৃত যান্ত্রিক কাজের অনুপাত।খএখানে, H = 0.24 I 2 Rt সমীকরণে I ও t স্থির থাকলে H [math]\propto[/math]
+ R। ফলে H - R গ্রাফটি একটি মূলবিন্দুগামী সরলরেখা পাওয়া যাবে।
+[Image]
+গএখানে, গৃহীত তাপ, Q 1 = 550 Jআদি তাপমাত্রা, T 1 = 1150Kশেষ তাপমাত্রা, T 2 = 600Kবর্জিত তাপ Q 2 হলে,আমরা জানি, [math]\frac{\mathrm{Q}_{1}}{\mathrm{~T}_{1}}=\frac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}[/math]
+বা, [math]\begin{aligned}\mathrm{Q}_{2} & =\frac{\mathrm{Q}_{1} \mathrm{~T}_{2}}{\mathrm{~T}_{1}} \\& =\frac{550 \mathrm{~J} \times 600 \mathrm{~K}}{1150 \mathrm{~K}} \\& =286.95 \mathrm{~J}=\approx 287 \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore[/math]
+ কৃতকাজ, W = Q 1 - Q 2 = 550 J - 287 J = 263 Jঘএখানে,গৃহীত তাপ, Q 1 = 550 Jবর্জিত তাপ, Q 2 = 287 J [গ নং থেকে]উৎসের তাপমাত্রা, T 1 = 1150Kগ্রাহকের তাপমাত্রা, T 2 = 600Kযে ১ম ক্ষেত্রে,এন্ট্রপি বৃদ্ধি[math]\begin{array}{l}=+\frac{\mathrm{Q}_{\mathrm{l}}}{\mathrm{T}_{1}} \\=\frac{550 \mathrm{~J}}{1150 \mathrm{~K}} \\=0.48 \mathrm{~J} \mathrm{~K}^{-1}\end{array}[/math]
+দ্বিতীয় ক্ষেত্রে, এন্ট্রপি হ্ৰাস, [math]=-\frac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}=-\frac{287 \mathrm{~J}}{600 \mathrm{~K}}=-0.48 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+দেখা যায়, সম্মুখ প্রক্রিয়ায় এন্ট্রপি যে পরিমাণ বৃদ্ধি পায়, বিপরীত প্রক্রিয়ায় সেই পরিমাণ এন্ট্রপি হ্রাস পায়। অর্থাৎ সম্পূর্ণ চক্রে এন্ট্রপির পরিবর্তন = [math]0.48 \mathrm{~J} \mathrm{~K}^{-1}+\left(-0.48 \mathrm{~J} \mathrm{~K}^{-1}\right)[/math]
+ = 0 (শূন্য)।
+
+Explanation:
+ব্যাখ্যা:
+
+ক রেফ্রিজারেটরের ক্রিয়া গুণাঙ্ক হচ্ছে রেফ্রিজারেটর দ্বারা শীতল তাপক থেকে অপসারিত তাপের অনুপাত কাজের সঙ্গে, অর্থাৎ [math]\mathrm{COP}_{\rm ref}=\frac{Q_L}{W}[/math]। এটি কারণ রেফ্রিজারেটর কাজ ব্যবহার করে ঠাণ্ডা স্থান থেকে তাপ সরায়, তাই কর্মের তুলনায় অপসারিত তাপই পারফরম্যান্স মাপে নেয়া হয়।
+
+খ সমীকরণে [math]I[/math] ও [math]t[/math] ধ্রুবক থাকলে [math]H[/math] সরাসরি [math]R[/math]-এর তুল্যে অনুপাতিক, অর্থাৎ [math]H\propto R[/math]। ফলে [math]H-R[/math] গ্রাফ হলো সরলরেখা যা উৎপত্তি বিন্দু দিয়ে যায় এবং ঢাল হবে [math]0.24I^{2}t[/math]।
+
+গ কার্নো ইঞ্জিনের কার্যকারিতা [math]\eta=1-\frac{T_C}{T_H}[/math], তাই সম্পন্ন কাজ হবে উৎস থেকে প্রাপ্ত তাপের মধ্যে এই অনুপাতের গুণফল: [math]W=\eta Q_H=Q_H\left(1-\frac{T_C}{T_H}\right)[math]। প্রদত্ত মান থাকলে এখান থেকে সরাসরি সংখ্যা বের করা যাবে।
+
+ঘ কার্নো চক্রে প্রতিটি ধাপের এনট্রপি পরিবর্তন: উচ্চ তাপমাত্রায় সমতাপীয় প্রসারণে ΔS = [math]\frac{Q_H}{T_H}[/math] (ধনাত্মক), দুইটি অ্যাডিয়াবাটিকে ΔS = 0, এবং নিম্ন তাপমাত্রায় সমতাপীয় সংকোচনে ΔS = −[math]\frac{Q_C}{T_C}[/math] (ঋণাত্মক); পুরো চক্রে মোট এনট্রপি পরিবর্তন শূন্য (রিভার্সিবল চক্র)।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 419562)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রার 0.07 kg বরফকে একটি নির্দিষ্ট উচ্চতা থেকে ফেলে দেয়া হলো। এতে বিভব শক্তির 55% তাপে রূপান্তরিত হলো এবং এই তাপ সমস্ত বরফকে গলিয়ে দিলো। কিছু সময় পর বরফগলা পানির তাপমাত্রা 5°C এ উন্নীত হলো। দেয়া আছে, বরফ গলনের আপেক্ষিক সুপ্ততাপ [math]3.36 \times 10^{5} \mathrm{~J} \mathrm{~kg}^{-1}[/math] এবং পানির আপেক্ষিক তাপ [math]4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math]।
+
+Options:
+ঘ. বরফ গলন এবং বরফগলা পানির তাপমাত্রা বৃদ্ধি কোন ক্ষেত্রে পরিবেশের উপর অধিক প্রভাব পড়বে? এনট্রপির আলোকে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘবরফ গলন ও বরফ গলা পানির তাপমাত্রা বৃদ্ধি- এই প্রক্রিয়া দুইটির মধ্যে যেটির এনট্রপি বেশি সেটির বিশৃঙ্খলার মাত্রা বেশি হবে এবং তার জন্য পরিবেশের উপর অধিক প্রভাব পড়বে। বরফ গলনের ক্ষেত্রে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}[/math]
+ হলে,এখানে,বরফের ভর, m = 0.07 kgবরফ গলনের আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{f}}=3.36 \times 10^{5} \mathrm{Jkg}^{-1}[/math]
+তাপমাত্রা,[math]\begin{aligned}\mathrm{T} & =0^{\circ} \mathrm{C} \\& =27.3 \mathrm{~K}\end{aligned}[/math]
+ [math]\begin{array}{l} \mathrm{dS}_{1}=\frac{\mathrm{dQ}_{1}}{\mathrm{~T}}=\frac{\mathrm{mL}_{\mathrm{f}}}{\mathrm{T}} \\=\frac{0.07 \times 3.36 \times 10^{5}}{273} \\\therefore \mathrm{dS}_{1}=86.154 \mathrm{\ Jk}^{-1}\end{array}[/math]
+বরফগলা পানির তাপমাত্রা 0°C থেকে 5°C এ উন্নীত হওয়ায় এনট্রপির পরিবর্তন [math]\mathrm{d} \mathrm{S}_{2}[/math]
+ হলে,এখানে,পানির ভর, m = 0.07 kgআপেক্ষিক তাপ,[math]\begin{array}{l}\mathrm{S}=4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1} \\\mathrm{~T}_{1}=0^{\circ} \mathrm{C}=(273+0)=273 \mathrm{~K} \\\mathrm{~T}_{2}=5^{\circ} \mathrm{C}=(273+5)=278 \mathrm{~K}\end{array}[/math]
+ [math]\begin{aligned}\mathrm{dS}_{2}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \mathrm{~ms} \frac{\mathrm{dT}}{\mathrm{T}} \\& =\mathrm{ms} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{dS}_{2}=0.07 \times 4200 \times \ln \frac{278}{273}[/math]
+ [math]=5.336 \mathrm{\ Jk}^{-1}[/math]
+দেখা যাচ্ছে [math]\mathrm{dS}_{1}>\mathrm{dS}_{2}[/math]
+সুতরাং, বরফ গলনের ক্ষেত্রে এনট্রপির পরিবর্তন বেশি হওয়ায় এটির ক্ষেত্রে পরিবেশের উপর অধিক প্রভাব পড়বে।
+
+Explanation:
+ঘ বরফ গলনে পরিবেশে বেশি প্রভাব পড়ে—একারণ এনট্রপি বাড়া অনেক বেশি। হিসাব: গলনের জন্য উত্তাপ [math]Q_{\rm melt}=mL=0.07\times3.36\times10^{5}=23520\ \mathrm{J}[/math] এবং এনট্রপির পরিবর্তন [math]\Delta S_{\rm melt}=Q_{\rm melt}/T=23520/273\approx86.1\ \mathrm{J/K}[/math]. পানির তাপমাত্রা 0°C থেকে 5°C বাড়ালে [math]\Delta S_{\rm heat}=mc\ln(T_2/T_1)=0.07\times4200\ln(278/273)\approx5.34\ \mathrm{J/K}[/math]. তাই গলনকালে এনট্রপির বৃদ্ধি অনেক বড়, অর্থাৎ পরিবেশের উপর তার প্রভাব বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 419558)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Muminunisa Government Mohila College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে [math]A[/math] ও [math]B[/math] পাত্রে যথাক্রমে [math]80^\circ C[/math] ও [math]10^\circ C[/math] তাপমাত্রার [math]1\ kg[/math] করে পানি আছে ।
+
+Options:
+ক. হল ক্রিয়া কী?
+খ. এক ফ্যারাড ধারকত্ববিশিষ্ট গোলাকার পরিবাহী তৈরি করা সম্ভব নয় কেন?
+গ. [math]A[/math] ও [math]B[/math] কে ব্যবহার করে ইঞ্জিন তৈরি করলে সর্বাধিক দক্ষতা কত হবে?
+ঘ. উভয় পাত্রের পানি একত্রে মিশ্রিত করলে এনট্রপির কীরূপ পরিবর্তন হবে গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো তড়িৎবাহী পরিবাহীকে কোনো চৌম্বক ক্ষেত্রে অভিলম্ব বরাবর স্থাপন করলে তড়িৎপ্রবাহ ও চৌম্বক ক্ষেত্র উভয়ের উপর লম্ব বরাবর একটি বিভব পার্থক্যের সৃষ্টি হয়, এ ক্রিয়াই হলো হল ক্রিয়া ৷খকোনো পরিবাহীর বিভব এক ভোল্ট বাড়াতে যদি এক কুলম্ব আধানের প্রয়োজন হয়, তাহলে ঐ পরিবাহীর ধারকত্বকে এক ফ্যারাড বলে। এক ফ্যারাড বেশ বড় একক। এই পরিমাণ ধারকত্বের জন্য বিশাল আকারের পরিবাহীর প্রয়োজন । কারণ, [math]C=4 \pi \in_{0} r[/math]
+গোলকের ধারকত্ব এর ব্যাসার্ধের সমানুপাতিক। তাই 1F ধারকত্ব বিশিষ্ট পরিবাহী তৈরি করা অসম্ভব ৷গএখানে, 'A' পাত্রের পানির তাপমাত্রা, [math]T_A = 80 °C = (80 + 273) K = 353 K[/math]
+'B' পাত্রের পানির তাপমাত্রা, [math]T_B = 10 °C = (10+273 ) K = 283 K[/math]
+সর্বাধিক দক্ষতা, [math]\eta = ?[/math]
+আমরা জানি,[math]\begin{aligned}\eta & =\left(1-\frac{T_{B}}{T_{A}}\right) \times 100 \% \\& =\left(1-\frac{283}{353}\right) \times 100 \%=19.83 \%\end{aligned}[/math]
+A ও B কে ব্যবহার করে ইঞ্জিন তৈরি করলে সর্বাধিক দক্ষতা হবে 19.83% ৷ঘএখানে, পানির ভর, m = 1 kgপানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+এখন মিশ্রণের তাপমাত্রা Q হলে-আমরা জানি, গৃহীত তাপ, [math]Q_1 = mS\Delta \theta = 1 \times 4200 \times (80 - \theta) = 4200 (80 - \theta)[/math]
+বর্জিত তাপ, [math]Q_2 = mS \Delta \theta = 1 \times 4200 \times(\theta - 10) = 4200 (\theta -10)[/math]
+ক্যালরিমিতির মূলনীতি অনুসারে, গৃহীত তাপ = বৰ্জিত তাপবা, [math]4200 (80 – \theta) = 4200 (\theta – 10)[/math]
+বা, [math]80 - \theta = \theta - 10[/math]
+বা, [math]2\theta = 90[/math]
+বা, [math]\theta = 45°C[/math]
+বা, [math]\theta = (45+ 273 ) K = 318 K[/math]
+এখন, [math]\begin{aligned}\mathrm{dS}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}} & =\mathrm{mS} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}} \\& =\mathrm{mS}[\ln\mathrm{T}]_{\mathrm{T}_{1}}^{\mathrm{T}_{2}}=\mathrm{mS}\left(\ln \mathrm{T}_{2}-\ln\mathrm{T}_{1}\right)\end{aligned}[/math]
+ [math]\begin{aligned}\therefore \mathrm{dS}_{1}=1 \times 4200\{\ln (318)-\ln (353)\} & =-438.55 \mathrm{~J} \mathrm{~K}^{-1} \\\mathrm{dS}_{2}=1 \times 4200\{\ln (318)-\ln (353)\} & =489.74 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ এনট্রপি মোট পরিবর্তন,[math]\begin{array}{l}=\mathrm{dS}_{1}+\mathrm{dS}_{2} \\=-438.55 \mathrm{~J} \mathrm{~K}^{-1}+489.74 \mathrm{~J} \mathrm{~K}^{-1} \\=51.19 \mathrm{~J} \mathrm{~K}^{-1}\end{array}[/math]
+ [math]\therefore[/math]
+ এনট্রপি বৃদ্ধি পাবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক  এটি স্বতঃস্ফূর্ত তাপ-প্রবাহ (হট থেকে কোল্ড) এবং অবিবর্তনীয় (irreversible) — কারণ উষ্ণ থেকে শীতল দিকে তাপ নিকাশ স্বতঃ ঘটে এবং মোট এনট্রপি বাড়ে।
+
+খ এক ফ্যারাড ধারকত্ববিশিষ্ট একক গোলাকার পরিবাহী অসম্ভব কারণ একটি পৃথক গোলকের ধারকত্ব [math]C=4\pi\epsilon_0 R[/math]; তাই [math]R=\dfrac{C}{4\pi\epsilon_0}\approx\dfrac{1}{4\pi(8.85\times10^{-12})}\approx8.99\times10^{9}\ \text{m}[/math], যা বাস্তবে নির্মাণযোগ্য নয়।
+
+গ সর্বাধিক (কার্ণোট) দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}[/math]; এখানে [math]T_h=80^\circ C=353.15\ \text{K},\ T_c=10^\circ C=283.15\ \text{K}[/math], তাই [math]\eta=1-\dfrac{283.15}{353.15}\approx0.1987\approx19.9\%[/math]।
+
+ঘ শক্তি সংরক্ষণ থেকে ফলন তাপীয় সমতাপ [math]T_f=\dfrac{80+10}{2}=45^\circ C=318.15\ \text{K}[/math]। মোট এনট্রপির পরিবর্তন  
+[math]\Delta S=mc\ln\frac{T_f}{T_h}+mc\ln\frac{T_f}{T_c}=c\ln\frac{T_f^2}{T_hT_c}[/math] (প্রতিটি পানির ভর [math]m=1\ \text{kg}[/math])। [math]c\approx4184\ \text{J/kgK}[/math] বসালে [math]\Delta S\approx4184\ln\frac{(318.15)^2}{353.15\times283.15}\approx51\ \text{J/K}>0[/math], অর্থাৎ এনট্রপি বেড়েছে এবং প্রক্রিয়া অবিবর্তনীয়।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 419559)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: DAWOOD PUBLIC SCHOOL & COLLEGE
+--------------------------------------------------------------------------------
+Question:
+করিম [math]500\ g[/math] ভরের [math]0^\circ C[/math] তাপমাত্রার পানিকে বাষ্পে রূপান্তর করল এবং রহিম [math]100g[/math] ভরের [math]100^\circ C[/math] তাপমাত্রার বাম্পকে [math]0^\circ C[/math] তাপমাত্রার বরফে রূপান্তর করল।
+
+Options:
+ক. এন্ট্রপি কাকে বলে?
+খ. প্ৰত্যাগামী প্রক্রিয়ায় এন্ট্রপি স্থির থাকে- ব্যাখ্যা কর।
+গ. করিমের ক্ষেত্রে প্রয়োজনীয় তাপের মান বের কর।
+ঘ. কোন ক্ষেত্রে বিশৃঙ্খলার পরিমাণ বেশি হবে?
+
+
+Correct Answer: 
+
+Solution:
+করুদ্ধতাপীয় প্রক্রিয়ায় বস্তুর যে তাপীয় ধর্ম স্থির থাকে বা অপরিবর্তিত থাকে তাকে এন্ট্রপি বলে ।খমনে করি, একটি প্রত্যাবর্তী কার্নো ইঞ্জিন T 1 তাপমাত্রায় তাপ উৎস হতে Q 1 পরিমাণ তাপ গ্রহণ করল এবং T 2 তাপমাত্রায় তাপ গ্রাহকে Q 2 পরিমাণ তাপ বর্জন করল ৷তাহলে এন্ট্রপির মোট পরিবর্তন, [math]\Delta \mathrm{S}=\Delta \mathrm{S}_{1}+\Delta \mathrm{S}_{2}=\frac{\mathrm{Q}_{1}}{\mathrm{~T}_{1}}+\frac{-\mathrm{Q}_{2}}{\mathrm{~T}_{2}}[/math]
+= [math]\frac{Q_{1}}{T_{1}}-\frac{Q_{2}}{T_{2}}[/math]
+ ,কিন্তু প্রত্যাবর্তী কার্নো ইঞ্জিনের ক্ষেত্রে, [math]\frac{Q_{1}}{T_{1}}=\frac{Q_{2}}{T_{2}}[/math]
+ [math]\therefore[/math]
+ সিস্টেমের এন্ট্রপির নেট পরিবর্তন, [math]\Delta \mathrm{S}=\frac{\mathrm{Q}_{1}}{\mathrm{~T}_{1}}-\frac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}=0[/math]
+অর্থাৎ প্রত্যাবর্তী প্রক্রিয়ায় সিস্টেম আদি অবস্থায় ফিরে আসে বলে এক্ষেত্রে এন্ট্রপির পরিবর্তন শূন্য হয় এবং এন্ট্রপি স্থির থাকে ।গএখানে, পানির ভর, m = 500 g = 0.5 kgপানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+পানির তাপমাত্রা বৃদ্ধি, [math]\Delta \theta = (100 – 0) K[/math]
+পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]l_{\mathrm{v}}[/math]
+ = 2268000 J[math]\therefore[/math]
+ মোট প্রয়োজনীয় তাপ,[math]\begin{aligned}\mathrm{Q} & =\mathrm{Q}_{1}+\mathrm{Q}_{2} \\& =\mathrm{mS} \Delta \theta+\mathrm{m} l_{\mathrm{v}} \\& =0.5 \times 4200 \times(100-0)+0.5 \times 2268000 \\& =1344000 \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore[/math]
+ করিমের ক্ষেত্রে প্রয়োজনীয় তাপ 1344000 Jঘএখানে,[math]T_1 =0°C = 273 K[/math]
+ [math]T_2 = 100 °C = 373 K[/math]
+ [math]T = 100 °C = 373 K[/math]
+করিমের ক্ষেত্রে, মোট এন্ট্রপির পরিবর্তন,[math]\begin{array}{l}\begin{array}{rl|l}\mathrm{dS} & =\mathrm{dS}_{1}+\mathrm{dS}_{2} \\& =\mathrm{mS} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}+\frac{\mathrm{dQ}}{\mathrm{T}} \\& =\mathrm{mS} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}+\frac{\mathrm{m} l_{\mathrm{v}}}{\mathrm{T}} \end{array} \\=0.5 \times 4200 \ln \left(\frac{373}{273}\right)+\frac{0.5 \times 2268000}{373} \\=655.42+3040.2 \\=3695.63 \mathrm{~J} \mathrm{~K}^{-1} \\\end{array}[/math]
+রহিমের ক্ষেত্রে—১ম ধাপে,এখানে,T = 100 °C = 373 Kবাষ্পের ভর, m = 100 g = 0.1 kg[math]\begin{aligned}\mathrm{dS}_{1} & =-\frac{\mathrm{dQ}}{\mathrm{T}} \\& =-\frac{\mathrm{m} l_{\mathrm{v}}}{\mathrm{T}}=-\frac{0.1 \times 2268000}{373} \\& =-608.04 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+২য় ধাপে,এখানে,[math]T_1 = 100 °C = 373 K[/math]
+ [math]T_2 = 0°C = 273 K[/math]
+ [math]\begin{aligned}\mathrm{dS}_{2} & =\mathrm{mS} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\& =0.1 \times 4200 \times \ln \left(\frac{273}{373}\right) \\& =-131.08\mathrm{~J}\mathrm{~K}^{-1}\end{aligned}[/math]
+৩য় ধাপে,এখানে,T = 0°C = 273 K[math]l_{\mathrm{f}}[/math]
+ = 336000 J[math]\begin{aligned}\mathrm{dS}_{3} & =-\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{\mathrm{ml}_{\mathrm{f}}}{\mathrm{T}} \\& =-\frac{0.1 \times 336000}{273} \\& =-123.07 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ মোট পরিবর্তন,[math]\begin{aligned}\mathrm{dS'} &=\mathrm{dS}_{1}+\mathrm{dS}_{2}+\mathrm{dS}_{3} \\& =-608.04+(-131.08)+(-123.07) \\& =-862.19 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+যেহেতু [math]dS > dS'[/math]
+ সেহেতু করিমের ক্ষেত্রে বিশৃঙ্খলার পরিমাণ বেশি হবে।
+
+Explanation:
+ক এন্ট্রপি হলো একটি থার্মোডাইনামিক পরিমাপক যা পদার্থের অসম্প্রসারণ বা মাইক্রোস্টেটগুলোর সংখ্যা—অর্থাৎ অগণিত সম্ভাব্য বিন্যাসের পরিমাপ করে; গাণিতিকভাবে ছোট পরিবর্তনে [math]dS=\frac{\delta Q_{rev}}{T}[/math]। 
+
+খ কারণ প্রত্যাগামী (reversible) প্রক্রিয়ায় এন্ট্রপির পার্থক্যকে সংজ্ঞায়িত করা হয় [math]dS=\frac{\delta Q_{rev}}{T}[/math] এর মাধ্যমে; যদি প্রক্রিয়াটি আদিয়াবাটিক তথা তাপ বিনিময় না করে (অর্থাৎ [math]\delta Q_{rev}=0[/math]) তাহলে [math]dS=0[/math] অর্থাৎ এন্ট্রপি স্থির থাকে। 
+
+গ করিমের জন্য প্রয়োজনীয় তাপ হলো প্রথমে [math]0^\circ C[/math] থেকে [math]100^\circ C[/math] তাপ দিতে এবং পরে বাষ্পীতে রূপান্তর করার ল্যাটেন্ট তাপ দিতে: [math]Q=mc\Delta T+mL_v[/math], যেখানে [math]m=500\ g,\ c=4.2\ \text{J/g·°C},\ L_v=2260\ \text{J/g}[/math]. তাই [math]Q=500\times4.2\times100+500\times2260=2.10\times10^5+1.13\times10^6=1.34\times10^6\ \text{J}[/math]। 
+
+ঘ বিশৃঙ্খলার পরিমাণ বেশি হবে করিমের ক্ষেত্রে, কারণ বাষ্প (গ্যাস) কণাগুলো বেশি অনিয়মিত এবং মাইক্রোস্টেটের সংখ্যা সবচেয়ে বেশি হওয়ায় এন্ট্রপি সর্বোচ্চ।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 419560)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: CoWC
+--------------------------------------------------------------------------------
+Question:
+[math]0^\circ C[/math] তাপমাত্রায় [math]500 gm[/math] বরফকে [math]48^\circ C[/math] তাপমাত্রার [math]6 kg[/math] পানির সাথে মিশানো হলো। বরফ গলনের আপেক্ষিক সুপ্ততাপ [math]3.36 \times 10^{5} \mathrm{Jkg}^{-1}[/math] এবং পানির আপেক্ষিক তাপ [math]4200 \mathrm{Jkg}^{-1} K^{-1}[/math] ও পানির বাষ্পীভবনের আপেক্ষিক তাপ [math]2.236 \times \times 10^{6} \mathrm{Jkg}^{-1}[/math]।
+
+Options:
+ক. তাপগতিবিদ্যার শূন্যতম নিয়ম কি?
+খ. জগতের তথাকথিত “তাপীয় মৃত্যু” ব্যাখ্যা কর।
+গ. বরফ গলার ফলে এন্ট্রপির পরিবর্তন কত হবে?
+ঘ. উদ্দীপকের মিশ্রণের মোট এন্ট্রপির পরিবর্তন কী একই থাকবে? গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+কতাপগতিবিদ্যার শূন্যতম সূত্রটি হলো— দুটি বস্তু যদি তৃতীয় কোনো বস্তুর (তাপমান যন্ত্র) সাথে পৃথকভাবে তাপীয় সাম্যে থাকে তবে প্রথমোক্ত বস্তু দুটি পরস্পরের সাথে তাপীয় সাম্যে থাকবে ।খআমরা জানি, অপ্রত্যাগামী প্রক্রিয়ায় এন্ট্রপি বৃদ্ধি পায়। বিশ্ব জগতের অধিকাংশ প্রক্রিয়াই অপ্ৰত্যাগামী প্রক্রিয়া। সুতরাং বিশ্বজগতের এন্ট্রপি ক্রমাগত বৃদ্ধি পাচ্ছে।এভাবে এন্ট্রপি বৃদ্ধি পেতে পেতে যখন সর্বোচ্চ মানে পৌঁছাবে তখন বিশ্বের সকল ব্যবস্থা তাপীয় সাম্যাবস্থায় উপনীত হবে। তাপীয় সাম্যাবস্থায় পৌঁছলে তাপশক্তিকে ফলপ্রসূ কাজে পরিণত করা সম্ভব হবে না। ফলে কার্যকরী শক্তির দুষ্প্রাপ্যতা সৃষ্টি হবে। এমনভাবে চলতে থাকলে পৃথিবী এমন একটি ভয়াবহ অবস্থায় পৌছাবে যে তাপ শক্তি সরবরাহে অক্ষম হয়ে পড়বে। এটাই জগতের তাপীয় মৃত্যু বলে পরিচিত।গউদ্দীপক হতে বরফের ভর, m= 500gm = 0.5 kgবরফ গলনের আপেক্ষিক সুপ্ত তাপ, [math]\mathrm{L}_{f}=3.36 \times 10^{5} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+তাপমাত্রা, T = 273 Kআমরা জানি, এনট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS} & =\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{\mathrm{m} \times \mathrm{L}_{f}}{\mathrm{~T}} \\& =\frac{0.5 \times 3.36 \times 10^{5}}{273} \\& =615.38 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+সুতরাং বরফ গলার ফলে এন্ট্রপির পরিবর্তন 615.38 J K -1ঘধরি, মিশ্রণের চূড়ান্ত তাপমাত্রা = T 2 K273 K তাপমাত্রার 0.50 kg বরফ 273 K তাপমাত্রার পানিতে পরিণত হতে প্রয়োজনীয় তাপ,[math]\begin{aligned}\mathrm{Q}_{1} & =\mathrm{m}_{1} \times l_{f} \\& =0.50 \times 3.36 \times 10^{5}=168 \times 10^{3} \mathrm{~J}\end{aligned}[/math]
+273 K তাপমাত্রার বরফ গলা পানি T2 K তাপমাত্রায় পৌঁছাতে প্রয়োজনীয় তাপ,[math]\begin{aligned}\mathrm{Q}_{2} & =\mathrm{m}_{1} \mathrm{~S}\left(\mathrm{~T}_{2}-\mathrm{T}_{1}\right) \\\mathrm{Q}_{2} & =0.50 \times 4200\left(\mathrm{~T}_{1}-273\right) \\& =2100\left(\mathrm{~T}_{2}-273\right)\end{aligned}[/math]
+আবার, 45°C বা, 321 K তাপমাত্রার 6 kg পানি T 2 K তাপমাত্রায় নামাতে বর্জিত তাপ,[math]\begin{array}{l}\mathrm{Q}_{3}=\mathrm{m}_{2} \mathrm{~S}\left(321-\mathrm{T}_{2}\right) \\\mathrm{Q}_{3}=6 \times 4200\left(321-\mathrm{T}_{2}\right)\end{array}[/math]
+ক্যালরিমিতির নীতি অনুসারে,Q 1 + Q₂ = Q 3বা, [math]168 \times 10^{3}+2100\left(\mathrm{~T}_{2}-273\right)=6 \times 4200\left(321-\mathrm{T}_{2}\right)[/math]
+বা, [math]168 \times 10^{3}+2100 \mathrm{~T}_{2}-5.733 \times 10^{3}=25200\left(321-\mathrm{T}_{2}\right)[/math]
+বা, [math]168 \times 10^{3}+2100 \mathrm{~T}_{2}-5.733 \times 10^{5}=8.0892 \times 10^{6}-25200 \mathrm{~T}_{2}[/math]
+বা, [math]2100 \mathrm{~T}_{2}+25200 \mathrm{~T}_{2}=8.0892 \times 10^{6}+5.733 \times 10^{5}-168 \times 10^{3}[/math]
+বা, [math]27300 \mathrm{~T}_{2}=8.4945 \times 10^{6}[/math]
+ [math]\therefore[/math]
+ T 2 = 311.15 K‘গ' নং হতে বরফ গলার ফলে এন্ট্রপির পরিবর্তন, dS 1 = 615.38 J K -1273 K তাপমাত্রার বরফ গলা পানি 311.15 K তাপমাত্রায় উন্নীত করতে এন্ট্রপির পরিবর্তন,[math]\mathrm{dS}_{2}=\mathrm{m}_{1} \mathrm{~S} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}[/math]
+ [math]\mathrm{dS}_{2}=0.50 \times 4200 \ln \frac{311.15}{273}=274.687 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+321 K তাপমাত্রার 6 kg পানি 311.15 K তাপমাত্রায় নামাতে এন্ট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS}_{3} & =\mathrm{m}_{2} \mathrm{~S} \ln \frac{\mathrm{T}_{2}}{321} \\& =6 \times 4200 \ln \frac{311.15}{321}=-785.38 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ মোট এন্ট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS} & =\mathrm{dS}_{1}+\mathrm{dS}_{2}+\mathrm{dS}_{3} \\& =615.38+274.687-785.38 \\& =104.683 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+সুতরাং মিশ্রণে মোট এন্ট্রপি বৃদ্ধি পাবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপগতিবিদ্যার শূন্যতম নিয়ম বলে: যদি বস্তু [math]A[/math] ও [math]B[/math] তাপগতভাবে সমতলে থাকে এবং [math]B[/math] ও [math]C[/math] তাপগতভাবে সমতলে থাকে, তবে [math]A[/math] ও [math]C[/math] ও তাপগতভাবে সমতলে থাকবে — অর্থাৎ তাপমাত্রা একটি সম্পরকীয় সমতা (equivalence)।
+
+খ “তাপীয় মৃত্যু” হলো এমন এক চরম অবস্থান যেখানে জগতটি তাপগতিতে সর্বত্র সমতাপ (সমান তাপমাত্রা) হয়েছে এবং উপকারী কাজ করার জন্য মুক্ত উষ্ণ শক্তি থাকবে না, তাই নির্দিষ্ট কনফিগারেশনগুলোর মধ্যে কাজ করা সম্ভব হয় না।
+
+গ প্রথমে সমাধান করে চূড়ান্ত তাপমাত্রা: শক্তি সংরক্ষণে  
+[math]6\cdot4200(48-T_f)=0.5\cdot3.36\times10^5+0.5\cdot4200\,T_f[/math] সমাধান করলে [math]T_f\approx38.15^\circ C[/math] (অর্থাৎ [math]T_f\approx311.30\ \mathrm{K}[/math])। বরফ গলনের এন্ট্রপি পরিবর্তন = গলনের জন্য [math]\Delta S_1=\dfrac{mL}{T}=\dfrac{0.5\times3.36\times10^5}{273.15}\approx615\ \mathrm{J/K}[/math] এবং গলন্ত জলকে [math]0^\circ C[/math] থেকে [math]T_f[/math] পর্যন্ত উত্তপ্ত করার এন্ট্রপি = [math]\Delta S_2=mc\ln\frac{T_f}{T_i}=0.5\times4200\ln\frac{311.30}{273.15}\approx275\ \mathrm{J/K}[/math]। অতএব বরফের মোট এন্ট্রপি পরিবর্তন ≈ [math]615+275\approx890\ \mathrm{J/K}[/math]।
+
+ঘ মোট এন্ট্রপি পরিবর্তন সম্পূর্ণ সিস্টেমের জন্য হল বরফ/মিশ্রিত পানির এন্ট্রপি যোগ: ঠান্ডা অংশের ইতিবাচক পরিবর্তন এবং গরম পানির নেতিবাচক পরিবর্তন যোগ করলে (গরম পানির জন্য [math]\Delta S_{\text{hot}}=6\cdot4200\ln\frac{311.30}{321.15}\approx-784\ \mathrm{J/K}[/math]) মোট এন্ট্রপি ≈ [math]890-784\approx107\ \mathrm{J/K}>0[/math]। একটি বিচ্ছিন্ন সিস্টেমে মোট এন্ট্রপি পথনিরপেক্ষ ও ধনাত্মক হওয়াই দ্বিতীয় আইন নিশ্চিত করে।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 419553)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাসকে বুদ্ধতাপীয় প্রক্রিয়ায় সঙ্কুচিত করলে যে কাজ করা হয়, তার ফলে গ্যাসের অভ্যন্তরীণ শক্তি ও তাপমাত্রা বেড়ে যায়। আবার রুদ্ধতাপীয় প্রক্রিয়ায় কোনো গ্যাসকে প্রসারিত করলে কিছু কাজ করতে হয়। ফলে গ্যাসের অভ্যন্তরীণ শক্তি ও তাপমাত্রা কমে যায়। সুতরাং রুদ্ধতাপীয় প্রক্রিয়ায় গ্যাসের অভ্যন্তরীণ শক্তি ও তাপমাত্রা উভয়ই পরিবর্তিত হয়, কিন্তু কোনো একটি রাশি স্থির থাকে। ক্লসিয়াস এ রাশিটির নাম দেন এনট্রপি ।
+
+Options:
+ক. এনট্রপি কাকে বলে ?
+খ. “প্রত্যাবতী প্রক্রিয়ায় এনট্রপি স্থির থাকে কিন্তু অপ্রত্যাবর্তী প্রক্রিয়ায় এনট্রপি বৃদ্ধি পায়”- ব্যাখ্যা কর।
+গ. [math]0°C[/math] তাপমাত্রার [math]3 kg[/math] বরফকে [math]0°C[/math] তাপমাত্রার পানিতে পরিণত করতে এনট্রপির পরিবর্তন কত হবে নির্ণয় কর। বরফ গলনের আপেক্ষিক সুপ্ততাপ [math]3.36 \times 10^{5} \mathrm{Jkg}^{-1}[/math]।
+ঘ. এনট্রপির ধারণার আলোকে 'জগতের তথাকথিত তাপীয় মৃত্যু ঘটনাটি বিশ্লেষণ কর ।
+
+
+Correct Answer: 
+
+Solution:
+করুদ্ধতাপ প্রক্রিয়ায় বস্তুর যে তাপীয় ধর্ম স্থির থাকে, তাকে এনট্রপি বলে।[math]\\[/math]
+ খকার্নো চক্রে AB ও CD যথাক্রমে সমোষ্ণ প্রসারণ ও সংকোচন। অন্যদিকে BC ও DA দুটি রুদ্ধতাপীয় প্রসারণ ও সংকোচন বলে তাপের কোনো পরিবর্তন হয় না।
+[Image]
+AB সমোষ্ণ রেখা বরাবর এনট্রিপির পরিবর্তন = [math]=\frac{Q_{1}}{T_{1}}[/math]
+CD সমোষ্ণ রেখা বরাবর এনট্রিপির পরিবর্তন = [math]=\frac{Q_{2}}{T_{2}}[/math]
+কার্যনির্বাহক বস্তুর মোট এন্ট্রপির পরিবর্তন, [math]K=\frac{Q_{1}}{T_{1}}-\frac{Q_{2}}{T_{2}}[/math]
+কিন্তু কার্নো চক্রে (প্রত্যাবর্তী) [math]\frac{Q_{1}}{T_{1}}=\frac{Q_{2}}{T_{2}}[/math]
+ [math]\therefore \mathrm{dS}=0[/math]
+ সুতরাং, প্রত্যাবর্তী প্রক্রিয়ায় এনট্রপি স্থির থাকে ।আবার, কোনো অপ্রত্যাবর্তক ইঞ্জিন [math]T_{1}[/math]
+ তাপমাত্রা, [math]Q_{1}[/math]
+ তাপ শোষণ করে [math]\mathrm{T}_{2}[/math]
+ তাপমাত্রায় , [math]Q_{2}[/math]
+ তাপ বর্জন করলে এর দক্ষতা [math]\eta^{\prime}=\frac{Q_{1}-Q_{2}}{Q_{2}}[/math]
+কিন্তু, [math]T_{1}[/math]
+ এবং [math]T_{2}[/math]
+ তাপমাত্রার মধ্যে কার্যরত প্রত্যাবর্তী ইঞ্জিনের দক্ষতা [math]\eta=\frac{T_{1}-T_{2}}{T_{1}}[/math]
+ কিন্তু, [math]\eta>\eta^{\prime}[/math]
+ বলে, ৳\frac{Q_{1}-Q_{2}}{Q_{2}}\frac{Q_{1}}{T_{1}}[/math]
+ ফলে এনট্রপি বৃদ্ধি পায় ।[math]\\[/math]
+ গ [math]\\[/math]
+ ঘআমরা জানি, কোনো সিস্টেমের শক্তির রূপান্তরের অক্ষমতাকে এনট্রপি বলে। প্রকৃতির সবকিছুই সাম্যাবস্থান পেতে চেষ্টা করে । একটি সিস্টেম যতই সাম্যাবস্থার দিকে এগিয়ে যায় ততই তার কাজ করার সামর্থ্য কমে যায়। সাম্যাবস্থায় পৌঁছালে সিস্টেম থেকে আর কোনো কাজই পাওয়া যায় না। এই শক্তি রূপান্তরের অক্ষমতাই এনট্রপি । এক বা একাধিক সিস্টেম যতই সাম্যাবস্থার দিকে এগিয়ে যায় তাদের এনট্রপিও ততই বাড়তে থাকে এবং সাম্যাবস্থায় এনট্রপি সবচেয়ে বেশি হয়। অর্থাৎ যখন কোনো সিস্টেম হতে আর কাজ পাওয়া যায় না তখন তার এনট্রপি সর্বাধিক। আবার, প্রকৃতিতে স্বতঃস্ফূর্তভাবে ঘঠমান সকল পরিবর্তনই সাম্যাবস্থার দিকে পরিচালিত হচ্ছে। এতে এনট্রপি ক্রমাগত বাড়ছে। জগতের 'এনট্রপি যখন সর্বোচ্চ পৌঁছাবে তখন সবকিছুর তাপমাত্রা একই হয়ে যাবে। ফলে চারপাশে সর্বত্র তাপ থাকবে ঠিকই, কিন্তু তাপশক্তিকে আর যান্ত্রিক শক্তিতে রূপান্তরিত করা যাবে না। এই অবস্থাকে জগতের তথাকথিত তাপীয় মৃত্যু (Heat death of the universe) নামে অভিহিত করা হয়।-
+
+Explanation:
+ব্যাখ্যা:
+
+ক এনট্রপি হলো একটি তাপগত পরিমাপ যা সিস্টেমের অকেজোতা বা অগোছালো মাইক্রোঅবস্থার পরিমাণ নির্দেশ করে; থার্মোডায়নামিক্সে রিভার্সিবল তাপ বিনিময়ের জন্য এটি সংজ্ঞায়িত হয় [math]dS=\frac{\delta Q_{rev}}{T}[/math]—এই কারণে এটি তাপীয় অদলবদলের গণনা ও অসংগঠিততার পরিমাপ হিসেবে সঠিক।
+
+খ প্রত্যাবর্তী (reversible) প্রক্রিয়ায় সিস্টেম ও পরিবেশের মোট এনট্রপি পরিবর্তন শূন্য হয় কারণ সিস্টেমের গ্রহণ বা প্রদানকৃত তাপকে ঠিক উল্টো পথে ফেরত দেওয়া যায়; কিন্তু অপ্রত্যাবর্তী (irreversible) প্রক্রিয়ায় ঘর্ষণ, বিনিময় অসাম্য ইত্যাদি কারণে অভ্যন্তরীণ উৎপাদিত এনট্রপি থাকে, ফলে সার্বিক এনট্রপি বৃদ্ধি পায়।
+
+গ বরফ গলতে নেয়া তাপ [math]Q=mL=3\times 3.36\times10^{5}=1.008\times10^{6}\ \mathrm{J}[/math] এবং তাপমাত্রা ধ্রুবক [math]T=0^\circ\mathrm{C}=273.15\ \mathrm{K}[/math] হওয়ায় এনট্রপির পরিবর্তন হবে [math]\Delta S=\frac{Q}{T}=\frac{1.008\times10^{6}}{273.15}\approx 3.69\times10^{3}\ \mathrm{J\,K^{-1}}.[/math]
+
+ঘ এনট্রপির দৃষ্টিকোণ থেকে 'তাপীয় মৃত্যু' হলো দীর্ঘকালীন ভবিষ্যতে সারা বিশ্বে এনট্রপি সর্বাধিক অর্জিত অবস্থা যেখানে তাপমাত্রা সমান হয়ে যায় এবং কোনো কাজ করার উপযোগী তাপঅপচয়ন শূন্যে নেমে আসে—এটি এনট্রপির অবনতিহীন বৃদ্ধি এবং ব্যবহারযোগ্য শক্তির হারানোর সরল ফল।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 419554)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্থিরচাপে [math]( 1 \ atm ) 100°C[/math] তাপমাত্রার [math]2gm[/math] পানি তাপ শোষণ করে [math]3.34 \times 10^{-3} m^3[/math] আয়তনের জলীয় বাষ্পে রূপান্তরিত হলো। [math]1atm=1.013 \times 10^5 Pa,[/math] পানির বাষ্পীভবনের সুপ্ততাপ [math]2.26 \times 10^6 J/kg[/math] এবং পানির ঘনত্ব [math]=1000 kg m^{-3})[/math]
+
+Options:
+ক. তাপগতীয় সিস্টেম কী?
+খ. শুধু চাপ প্রয়োগে গ্যাসকে তরলে পরিণত করা যায় কি? ব্যাখ্যা কর।
+গ. পানির প্রসারণে কৃতকাজ নির্ণয় কর।
+ঘ. উদ্দীপকে উল্লিখিত পরিবর্তনের ক্ষেত্রে এনট্রপির কীরূপ পরিবর্তন হবে— গাণিতিক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+কতাপগতীয় স্থানাঙ্কের সাহায্যে যেসব সিস্টেমের অবস্থার বর্ণনা দেয়া যায় তাদেরকে তাপগতীয় সিস্টেম বলে।[math]\\[/math]
+ খশুধু চাপ প্রয়োগে গ্যাসকে তরলে পরিণত করা যায় না। কোনো গ্যাসকে বায়বীয় অবস্থা হতে তরল অবস্থায় আনতে হলে প্রথমে গ্যাসটিকে ক্রান্তি তাপমাত্রার নিচে আনতে হবে। পরবর্তিতে তাপমাত্রা হ্রাস করে অথবা চাপ বৃদ্ধি করে গ্যাসটিকে তরলে পরিণত করা যায়।[math]\\[/math]
+ গএখানে,পানির ভর,[math]\begin{aligned}\mathrm{m} & =2 \mathrm{~g} \\& =2 \times 10^{-3} \mathrm{~kg}\end{aligned}[/math]
+চাপ,[math]\begin{aligned}\mathrm{P} & =1 \mathrm{~atm} \\& =1.013 \times 10^{5} \mathrm{~Pa}\end{aligned}[/math]
+পানির ভর, [math]\rho=1000 \mathrm{kgm}^{-3}[/math]
+আয়তন, [math]\mathrm{V}^{\prime}=3.34 \times 10^{-3} \mathrm{~m}^{3}[/math]
+কৃতকাজ, [math]\Delta \mathrm{W}=\text { ? }[/math]
+আমরা জানি,[math]\begin{aligned}\rho & =\frac{\mathrm{m}}{\mathrm{V}} \\\text { বा, } \mathrm{V} & =\frac{\mathrm{m}}{\rho} \\& =\frac{2 \times 10^{-3}}{1000} \\\therefore\quad\mathrm{V}&=2\times10^{-6}\mathrm{~m}^{3}\end{aligned}[/math]
+আবার,[math]\begin{aligned}\Delta W & =P \Delta V \\& =P\left(V^{\prime}-V\right) \\& =1.013 \times10^{5}\left(3.34\times 10^{-3}-2 \times 10^{-6}\right) \\\Delta W & =3.38 \times 10^{2} J\end{aligned}[/math]
+অতএব, পানির প্রসারণে কৃতকাজ [math]3.38 \times 10^{2} \mathrm{~J} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ ঘউদ্দিপক হতে পাই,তাপমাত্রা, [math]\mathrm{T}=100^{\circ} \mathrm{C}=(100+273) \mathrm{K}=373 \mathrm{~K}[/math]
+পানির ভর, [math]\mathrm{m}=2 \mathrm{~g}=2 \times 10^{-3} \mathrm{~kg}[/math]
+পানির বাশপভবনের সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{v}}=2.26 \times 10^{6} \mathrm{Jkg}^{-1}[/math]
+dS = ?আমরা জানি,[math]\begin{aligned}\mathrm{dQ} & =m L_{\mathrm{v}}=2 \times 10^{-3} \times 2.26 \times10^{6}\\\mathrm{dQ} & =4520 \mathrm{~J} \\\mathrm{dS} & =\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{4520}{373} \\\therefore \quad\mathrm{dS} & =12.11 \mathrm{JK}^{-1}\end{aligned}[/math]
+-
+
+Explanation:
+ক তাপগতীয় সিস্টেম হলো পরীক্ষায় অবজার্ভ করা ২ গ্‌রাম পানির অংশ (প্রক্রিয়ার সময় সেই তরল ও হওয়া বাষ্প); কারণ তাপে এই অংশই পরিবর্তিত হচ্ছে এবং এটাই সিস্টেম হিসেবে বিশ্লেষিত হয়। 
+
+খ শুধু চাপ প্রয়োগ করে গ্যাস তরলে পরিণত করা যায় যদি তাপমাত্রা সংশ্লিষ্ট পদার্থের ক্রিটিক্যাল তাপমাত্রার নিচে থাকে — তখন পর্যাপ্ত চাপ দিলে বাষ্পের আণবিক ঘনত্ব বাড়ে ও তরল গঠন হয়; কিন্তু ক্রিটিক্যাল তাপমাত্রার উপরে চাপ দিয়েও তরল পাওয়া যায় না। (পানির ক্রিটিক্যাল তাপমাত্রা ≈ [math]374^\circ C[/math], তাই [math]100^\circ C[/math]-এ চাপ বাড়িয়ে তরল করা সম্ভব।)
+
+গ প্রসারণে কৃতকাজ [math]W=P\Delta V[/math], এখানে প্রথমে তরলের আয়তন [math]V_{liq}=m/\rho=0.002/1000=2.0\times10^{-6}\,m^3[/math], তাই [math]\Delta V=3.34\times10^{-3}-2.0\times10^{-6}=3.338\times10^{-3}\,m^3[/math] এবং [math]W=1.013\times10^5\times3.338\times10^{-3}\approx3.38\times10^{2}\,J\;(≈338\;J)[/math]। 
+
+ঘ এনট্রপির পরিবর্তন ফেজ তাপে উঠা সমতাপীয় প্রক্রিয়ায় [math]\Delta S=Q_{rev}/T[/math] দ্বারা দেওয়া; এখানে [math]Q_{rev}=mL=0.002\times2.26\times10^6=4520\;J[/math] এবং [math]T=100^\circ C=373.15\;K[/math], তাই [math]\Delta S=4520/373.15\approx12.12\;J/K[/math] (এনট্রপি বাড়ে)।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 419555)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Viqarunnisa Noon School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একজন শিক্ষার্থী তাপীয় বিশৃঙ্খলা পর্যবেক্ষণ করতে গিয়ে দেখলো [math]A[/math] ও [math]B[/math] দুটি তাপ উৎপাদক যন্ত্রের [math]A[/math] কে [math]750\ kJ[/math] শক্তি সরবরাহ করায় উহা [math]2\ kg[/math] পানিকে [math]25^\circ C[/math] হতে [math]100^\circ C[/math] তাপমাত্রায় উন্নীত করে এবং [math]B[/math] এর [math]2\ kg[/math] পানিকে [math]20^\circ C[/math] হতে [math]100^\circ C[/math] তাপমাত্রায় বাষ্পে পরিণত করে।
+
+Options:
+ক. তাপগতিবিদ্যার ১ম সূত্র বিবৃত কর।
+খ. একটি গতিশীল বুলেট থামিয়ে দেওয়া হলে শক্তির পরিবর্তন ব্যাখ্যা কর।
+গ. A যন্ত্রটির দক্ষতা নির্ণয় কর।
+ঘ. অনুচ্ছেদে উল্লেখিত তথ্য থেকে দুইটা যন্ত্রের এন্ট্রপির পরিবর্তনের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+কতাপগতিবিদ্যার প্রথম সূত্রটি হলো- যখন যান্ত্রিক শক্তিকে সম্পূর্ণরূপে তাপে বা তাপশক্তিকে সম্পূর্ণরূপে কাজে রূপান্তরিত করা হয় তখন যান্ত্রিক শক্তি ও তাপ পরস্পরের সমানুপাতিক হয় ।[math]\\[/math]
+ খএকটি গতিশীল বুলেট থামিয়ে দিলে এর গতিশক্তির কিছু অংশ তাপশক্তিতে রূপান্তরিত হয় এবং অবশিষ্ট শক্তি দ্বারা বুলেটটি প্রতিবন্ধক বলের বিরুদ্ধে কাজ করে। একটি গতিশীল বুলেটকে যদি = দূরত্ব অতিক্রম করতে না দিয়ে হঠাৎ থামিয়ে দেওয়া হয় তবে সম্পূর্ণ গতিশক্তিই তাপ শক্তিতে রূপান্তরিত হবে ।[math]\\[/math]
+ গএখানে, সরবরাহকৃত শক্তি, W = 750 kJপানির ভর, m = 2 kgপানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+এখানে,[math]\begin{array}{l}\theta_{1}=25^{\circ} \mathrm{C} \\\theta_{2}=100^{\circ} \mathrm{C}\end{array}[/math]
+প্রাপ্ত শক্তি, [math]\mathrm{W}^{\prime}=\mathrm{mS} \Delta \theta[/math]
+ [math]\begin{array}{l}=\mathrm{mS}\left(\theta_{2}-\theta_{1}\right) \\=2 \mathrm{~kg} \times 4200 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1} \times(100-25) \mathrm{K} \\=630000 \mathrm{~J}=630 \mathrm{~kJ}\end{array}[/math]
+সুতরাং, A যন্ত্রটির দক্ষতা,[math]\begin{aligned}\eta & =\frac{\mathrm{W}^{\prime}}{\mathrm{W}} \times 100 \%=\frac{630 \mathrm{~kJ}}{750 \mathrm{~kJ}} \times 100 \% \\\therefore \eta & =84 \% .\end{aligned}[/math]
+ ঘA যন্ত্রে প্রাথমিক তাপমাত্রা, [math]T_1 = 25 ° C = 298 K[/math]
+A যন্ত্রে চূড়ান্ত তাপমাত্রা, [math]T_2 = 100 °C = 373 K[/math]
+B যন্ত্রে প্রাথমিক তাপমাত্রা, [math]T'_1 = 20 °C = 293 K[/math]
+B যন্ত্রে চূড়ান্ত তাপমাত্রা, [math]T'_2 = 100 °C = 373 K[/math]
+A যন্ত্রে এন্ট্রপির পরিবর্তন, [math]\mathrm{dS}_{1}=\mathrm{mS} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}[/math]
+B যন্ত্রে এন্ট্রপির পরিবর্তন, [math]\mathrm{dS}_{2}=\mathrm{mS} \ln \frac{\mathrm{T}_{2}{ }^{\prime}}{\mathrm{T}_{1}{ }^{\prime}}[/math]
+ [math]\therefore \frac{\mathrm{dS}_{1}}{\mathrm{dS}_{2}}=\frac{\ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}}{\ln \frac{\mathrm{T}_{2}^{\prime}}{\mathrm{T}_{1}^{\prime}}}[/math]
+বা, [math]\frac{\mathrm{dS}_{1}}{\mathrm{dS}_{2}}=\frac{\ln \left(\frac{373}{298}\right)}{\ln \left(\frac{373}{293}\right)}[/math]
+বা, [math]\frac{\mathrm{d} S_{1}}{d S_{2}}=0.93[/math]
+বা, [math]\mathrm{dS}_{2}=1.075 \mathrm{dS}_{1}[/math]
+অতএব, B যন্ত্রে এন্ট্রপির পরিবর্তন A যন্ত্রের এন্ট্রপির পরিবর্তনের 1.075 গুণ। অর্থাৎ, উদ্দীপকের তথ্য অনুসারে B যন্ত্রে এন্ট্রপির পরিবর্তন A যন্ত্র অপেক্ষা 7.5% বেশি।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপগতিবিদ্যার প্রথম সূত্র: মোট তাপ যোগফল [math]Q[/math] দ্বারা সিস্টেমের অভ্যন্তরীণ শক্তির পরিবর্তন [math]\Delta U[/math] এবং সিস্টেমের কাজ [math]W[/math] সম্পর্কিতভাবে প্রকাশ করা যায়: [math]Q=\Delta U+W[/math] — অর্থাৎ যোগ হওয়া তাপের একটি অংশ সিস্টেমের অভ্যন্তরীণ শক্তি বাড়ায় এবং বাকিটি কাজ করে বেরিয়ে যায়।
+
+খ একটি চলমান বুলেট থামলে তার গতিশক্তি ঘর্ষণ ইত্যাদির মাধ্যমে উষ্মায় রূপান্তরিত হয়, ফলে পরিবেশের অভ্যন্তরীণ শক্তি বাড়ে এবং আনুপাতে এন্ট্রপিও বৃদ্ধি পায় (অর্থাৎ যান্ত্রিক শক্তি অপ্রত্যাহার্যভাবে বিক্ষিপ্ত তাপে পরিণত হয়)।
+
+গ A যন্ত্রে দরকারি তাপ: [math]Q_{\text{useful}}=mc\Delta T=2\times4.18\times(100-25)=627\ \text{kJ}[/math]; দক্ষতা [math]\eta=Q_{\text{useful}}/Q_{\text{supplied}}=627/750\approx0.836\approx83.6\%[/math]।
+
+ঘ A-র এন্ট্রপি পরিবর্তন (তাপমাত্রা বাড়ানো): [math]\Delta S_A=mc\ln\frac{T_f}{T_i}=2\times4.18\ln\frac{373}{298}\approx1.88\ \text{kJ/K}\ (\approx1880\ \text{J/K})[/math]. B-এ প্রথম তরলের উত্তাপ দিয়ে: [math]2\times4.18\ln\frac{373}{293}\approx2.01\ \text{kJ/K}[/math] এবং বাষ্পীভবনের এন্ট্রপি: [math]\Delta S_{\text{vap}}=\dfrac{mL_v}{T}= \dfrac{2\times2256}{373}\approx12.1\ \text{kJ/K}[/math], মোট [math]\Delta S_B\approx14.1\ \text{kJ/K}[/math]. তাই B-র এন্ট্রপি পরিবর্তন A-র চেয়ে বহু বড়, কারণ বাষ্পীভবন (latent heat) একই তাপে বড় এন্ট্রপি যোগ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 419556)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন উৎস হতে গৃহীত তাপের [math]\frac{1}{4}[/math] অংশ কাজে পরিণত করে। গ্রাহকের তাপমাত্রা [math]70^\circ C[/math] হ্রাস করলে ইঞ্জিনের কর্মদক্ষতা দ্বিগুণ হয়। কিন্তু কিছুদিন পর পর্যবেক্ষণ করে দেখা গেল যে এন্ট্রপিসহ ইঞ্জিনটির দক্ষতা কমে [math]20\%[/math] হয়ে গেছে।
+
+Options:
+ক. তাপ ইঞ্জিন কাকে বলে?
+খ. রেফ্রিজারেটরের কার্যকৃত সগহ [math]4.5[/math]–এর অর্থ কী?
+গ. উদ্দীপক অনুসারে তাপ উৎসের তাপমাত্রা নির্ণয় কর।
+ঘ. কর্মদক্ষতা হ্রাসের সাথে কিভাবে উপরোক্ত ইঞ্জিনের এন্ট্রপি পরিবর্তীত হয়? গাণিতিকভাবে তোমার মতামত ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+কযে যন্ত্র তাপশক্তির বিনিময়ে কাজ করতে পারে তাকে তাপ ইঞ্জিন বলেখরেফ্রিজারেটরের কার্যকৃত সহগ 4.5 এর অর্থ রেফ্রিজারেটরটির বাষ্পীভবন কুন্ডলী হতে অপসারিত তাপ এবং কম্প্রেসর কর্তৃকসরবরাহকৃত কাজ W এর অনুপাত 4.5 ।গধরি, উৎসের তাপমাত্ৰা = [math]\mathrm {T}_{1}[/math]
+গ্রাহকের তাপমাত্রা = [math]\mathrm {T}_{2}[/math]
+উদ্দীপক অনুসারে,ইঞ্জিনের দক্ষতা, [math]\eta=\frac{1}{4}[/math]
+গ্রাহকের তাপমাত্রা 70 °C কমালে, [math]\mathrm{T}_{2}^{\prime} = \mathrm {T}_{2} – 70[/math]
+ উদ্দীপক অনুসারে,[math]\eta^{\prime}=2 \eta[/math]
+বা, [math]1-\frac{T_{2}^{\prime}}{T_{1}}=2\left(1-\frac{T_{2}}{T_{1}}\right)[/math]
+বা, [math]1-\frac{T_{2}-70}{T_{1}}=2 \times \frac{1}{4}[/math]
+বা, [math]1-\left(\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}-\frac{70}{\mathrm{~T}_{1}}\right)=\frac{1}{2}[/math]
+বা, [math]1-\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}+\frac{70}{\mathrm{~T}_{1}}=\frac{1}{2}[/math]
+বা, [math]\frac{1}{4}+\frac{70}{T_{1}}=\frac{1}{2}[/math]
+বা, [math]\frac{70}{T_{1}}=\frac{1}{2}-\frac{1}{4}=\frac{1}{4}[/math]
+বা, [math]\mathrm{T}_{1}[/math]
+ = 70 [math]\times 4 = 280 K[/math]
+সুতরাং তাপ উৎসের তাপমাত্রা 280 K.ঘ‘গ' নং হতে পাই, উৎসের তাপমাত্রা, [math]{T}_{1} = 280 K[/math]
+এখন, [math]1-\frac{T_{2}}{T_{1}}=\frac{1}{4}[/math]
+বা, [math]\frac{T_{2}}{T_{1}}=\frac{3}{4}[/math]
+বা, [math]\mathrm{T}_{2}=\frac{3}{4} \times 280=210 \mathrm{~K}[/math]
+ক্ষমতা দ্বিগুণ করলে তাপ গ্রাহকের তাপমাত্রা,[math]\mathrm{T}_{2}^{\prime} = (210 - 70) K[/math]
+ [math]\therefore \mathrm{T}_{2}^{\prime} = 140 K[/math]
+দক্ষতা দ্বিগুণ করলে এন্ট্রপির পরিবর্তন,বা, [math]dS = m S ln \left(\frac{T_{2}^{\prime}}{T_{2}}\right)[/math]
+ বা, [math]dS = m S ln \left(\frac{140}{280}\right)[/math]
+ [math]\therefore dS = -0.693m S[/math]
+যেহেতু, m, S উভয়েই ধনাত্মক সেহেতু, dS ঋণাত্মক। dS ঋণাত্মক হওয়ার অর্থ এন্ট্রপি কমবে ৷অতএব, ইঞ্জিনের দক্ষতা দ্বিগুণ করা হলে এন্ট্রপি কমে যাবে ।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপ ইঞ্জিন হ'ল এমন যন্ত্র যা একটি উচ্চ তাপমাত্রার উৎস থেকে তাপ গ্রহণ করে কিছু অংশকে কাজ হিসেবে রূপান্তর করে এবং অবশিষ্ট তাপ নিম্ন তাপমাত্রার খালিতে প্রেরণ করে। এটি তাপকে কাজেই রূপান্তর করার চক্রগত প্রক্রিয়া।
+
+খ রেফ্রিজারেটরের কার্যকৃত সগহ (COP) [math]4.5[/math] মানে হলো একক কাজ ইনপুটে (এক জুল কাজ) রেফ্রিজারেটরটি [math]4.5[/math] জুল তাপ শীতলকভাবে সরবরাহ করে; অর্থাৎ প্রতি 1 একক কাজের বিনিময়ে 4.5 একক তাপ শীতলকৃত হয়।
+
+গ প্রাথমিক কর্মদক্ষতা [math]\eta=1/4[/math], তাই [math]\eta=1-\dfrac{T_c}{T_h} \Rightarrow \dfrac{T_c}{T_h}=3/4[/math] অর্থাৎ [math]T_c=0.75\,T_h[/math]. যখন খালের তাপমাত্রা [math]70^\circ\text{C}[/math] (=70 K) কমালে দক্ষতা দ্বিগুণ হয়ে [math]1/2[/math] হয়, তাই নতুন খাল [math]T_c'=0.5\,T_h=T_c-70[/math]. সুতরাং [math]0.75T_h-70=0.5T_h \Rightarrow 0.25T_h=70 \Rightarrow T_h=280\ \text{K} (=7^\circ\text{C}).
+
+ঘ আদর্শ (কার্নো) অবস্থায় তাপের বিনিময়ে নেট এন্ট্রপি পরিবর্তন শূন্য। কিন্তু দক্ষতা [math]0.25[/math] থেকে [math]0.2[/math] এ নেমে গেলে অপ্রতিসীমতায় এন্ট্রপি উৎপাদন হয়; প্রতিচক্রে নেট এন্ট্রপি পরিবর্তন হবে [math]\Delta S=-\dfrac{Q_h}{T_h}+\dfrac{Q_c}{T_c}=Q_h\Big(\dfrac{1-\eta}{T_c}-\dfrac{1}{T_h}\Big). এখানে [math]T_h=280\ \text{K},\ T_c=210\ \text{K},\ \eta=0.2[/math], তাই [math]\Delta S=Q_h\Big(\dfrac{0.8}{210}-\dfrac{1}{280}\Big)=\dfrac{Q_h}{4200} (জুল/কেলভিন), ধনাত্মক মান=এন্ট্রপি বেড়ে গেছে, যা অচাহিত তাপ-ক্ষয় বা অপ্রতিসীমতার পরিচায়ক।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 419557)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Shahid Syed Nazrul Islam College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+[math]24^\circ C[/math] তাপমাত্রায় [math]3\ kg[/math] পানিকে [math]100^\circ C[/math] তাপমাত্রার উত্তপ্ত বাষ্পে পরিণত করতে গিয়ে আবির লক্ষ্য করলো যে, প্রথম ধাপে (অর্থাৎ [math]100^\circ C[/math] তাপমাত্রার পানিতে পরিণত করতে) বাহির হতে [math]1200\ kJ[/math] তাপ-শক্তি সরবরাহ করতে হয়েছিল এবং ২য় ধাপে ঐ পানিকে বাষ্পে রূপান্তরিত করতে আরও কিছু তাপশক্তি প্রয়োজন হয়েছিল। দুটি ধাপে আবির যথাক্রমে 'ক' এবং ‘খ’ তাপ উৎপাদক যন্ত্র ব্যবহার করেছিল।
+
+Options:
+ক. তাপীয় সিস্টেম কাকে বলে?
+খ. প্রত্যাগামী এবং অপ্রত্যাগামী প্রক্রিয়ার পার্থক্য কর।
+গ. প্রথম ধাপের ব্যবহৃত যন্ত্রটির যান্ত্রিক দক্ষতা নির্ণয় কর।
+ঘ. আবিরের পর্যবেক্ষণে দুই ধাপে সৃষ্ট তাপীয় বিশৃঙ্খলার তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+কপরীক্ষা-নিরীক্ষার সময় আমরা জড় জগতের যে নির্দিষ্ট তাপীয় অংশ বিবেচনা করি তাকে তাপীয় সিস্টেম বলে ।খপ্রত্যাগামী প্রক্রিয়া ও অপ্রত্যাগামী প্রক্রিয়ার মধ্যে পার্থক্য নিচে দেওয়া হলো :
+[Image]
+গএখানে, সরবরাহকৃত তাপ, [math]Q_1 = 1200 kJ[/math]
+পানির ভর, m = 3 kgপানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+তাপমাত্রার পরিবর্তন, [math]\Delta \theta = (100 – 24 ) °C = 76 K[/math]
+ [math]\therefore[/math]
+ গৃহীত তাপ, [math]Q_2 = m S\Delta \theta[/math]
+ [math]\begin{array}{l}=3 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1} \times 76 \mathrm{~K} \\=957600 \mathrm{~J}=957.6 \mathrm{~kJ}\end{array}[/math]
+ [math]\therefore[/math]
+ ‘ক’ যন্ত্রটির কর্মদক্ষতা,[math]\begin{array}{l}\eta=\left(1-\frac{Q_{2}}{Q_{1}}\right) \times 100 \% \\=\left(1-\frac{957.6}{1200}\right) \times 100 \%=20.2 \%\end{array}[/math]
+ ঘএখানে, ‘ক’ যন্ত্রটির ক্ষেত্রে,আদি তাপমাত্রা, [math]T_1 = 24°C = (24+273) K = 297 K[/math]
+চূড়ান্ত তাপমাত্রা, [math]T_2 = 100°C = (100+273) K = 373 K[/math]
+পানির ভর, m = 3 kgপানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\therefore[/math]
+ এন্ট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS}_{1} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{2}}^{\mathrm{T}_{1}} \frac{\mathrm{mSdT}}{\mathrm{T}} \\& =\mathrm{mS} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}}=\mathrm{mS}[\mathrm{T}]_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \\& =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right] \\& =3 \mathrm{~kg} \times 4200 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1} \times[\ln 373-\ln 297] \\& =2870.86 \mathrm{JK}^{-1}\end{aligned}[/math]
+'খ' যন্ত্রের ক্ষেত্রে, পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]l_{\mathrm{v}}=2260000 \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+100 °C তাপমাত্রার পানিকে 100 °C তাপমাত্রার জলীয়বাষ্পে পরিণত করতে এন্ট্রপির পরিবর্তন—[math]\mathrm{dS}_{2}=\frac{\mathrm{ml} \mathrm{l}_{\mathrm{V}}}{\mathrm{T}_{2}}=\frac{3 \mathrm{~kg} \times 2260000 \mathrm{~J} \mathrm{~K}^{-1}}{373 \mathrm{~kg}}=18176.94 \mathrm{~J}\mathrm{~K}^{-1}[/math]
+এখানে, [math]\mathrm{dS}_{2}>\mathrm{dS}_{1}[/math]
+অতএব, 'খ' যন্ত্রের ক্ষেত্রে তাপীয় বিশৃঙ্খলা বেশি হবে ।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপীয় সিস্টেম হলো নির্দিষ্ট কোনো সীমার মধ্যে নেওয়া পদার্থ বা বস্তুর ব্যবস্থা যার সাথে পরিবেশের সাথে তাপ (এবং প্রয়োজনে কাজ বা পদার্থ) বিনিময় বিশ্লেষণ করা হয়।  
+
+খ প্রত্যাগামী (reversible) প্রক্রিয়া সেইসব প্রক্রিয়া যা উলটো করলেও পরিবেশ ও সিস্টেম মিলিয়ে কোনো নিট পরিবর্তন না রেখে পূর্বাবস্থায় ফিরিয়ে আনা যায়; অপ্রত্যাগামী (irreversible) প্রক্রিয়ায় নিট তাপীয় বিশৃঙ্খলা (এন্ট্রপির বৃদ্ধি) ঘটে এবং সেগুলো উলটো করা যায় না ছাড়া বাহ্যিক পরিবর্তনের।  
+
+গ প্রথম ধাপের জন্য ব্যবহার করা শক্তি থেকে পানিতে গ্রহনীয় তাপ হল [math]Q=mc\Delta T=3\times 4.2\times 76=957.6\ \text{kJ}[/math], সুতরাং যন্ত্রের দক্ষতা [math]\eta=\dfrac{957.6}{1200}=0.798\approx 79.8\%.[/math]  
+
+ঘ তাপীয় বিশৃঙ্খলা (এন্ট্রপি পরিবর্তন) তুলনা করলে প্রথম ধাপের এন্ট্রপি বৃদ্ধি হচ্ছে [math]\Delta S_1=mc\ln\frac{T_2}{T_1}=3\times4.2\times\ln\frac{373}{297}\approx 2.88\ \text{kJ/K},[/math] এবং বাষ্পায়নে (প্রায় [math]L\approx2256\ \text{kJ/kg}[/math]) [math]\Delta S_2=\dfrac{mL}{T}\approx \dfrac{3\times2256}{373}\approx 18.15\ \text{kJ/K}.[/math] তাই দ্বিতীয় ধাপে সৃষ্ট তাপীয় বিশৃঙ্খলা অনেক বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 419552)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B পাত্রে যথাক্রমে 100°C ও 0°C তাপমাত্রার 1 kg করে পানি আছে।
+
+
+[Image]
+
+
+Options:
+ক. ইঞ্জিনের দক্ষতা কী?
+খ. রুদ্ধতাপীয় লেখ সমোষ্ণ লেখ অপেক্ষা Y গুণ খাড়া কেন ব্যাখ্যা কর।
+গ. A ও B কে ব্যবহার করে ইঞ্জিন তৈরি করা হলে সর্বাধিক দক্ষতা কত হবে নির্ণয় কর।
+ঘ. A ও B পাত্রের পানি একত্রে মিশ্রিত করলে এন্ট্রপির কীরূপ 'পরিবর্তন হবে? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+কসরবরাহকৃত তাপের যতটুকু অংশ কোনো ইঞ্জিন কাজে রূপান্তরিত করতে পারে তা-ই হলো ইঞ্জিনের দক্ষতা।[math]\\[/math]
+ খসমোষ্ণ লেখের ক্ষেত্রে তাপমাত্রা স্থির থাকা সাপেক্ষে চাপের পরিবর্তন ধীরে ধীরে সংঘটিত হয়। সমোষ্ণ পরিবর্তনে (PV - ধ্রুবক), = গ্যাস প্রয়োজনমতো তাপ গ্রহণ বা বর্জন করে তাপমাত্রা স্থির রাখে। কিন্তু রুদ্ধতাপীয় লেখের ক্ষেত্রে রুদ্ধতাপীয় পরিবর্তনে (PV' = ধ্রুবক) তাপমাত্রার পরিবর্তন ঘটে এবং চাপ পরিবর্তন খুব দ্রুত করতে হয় যাতে বাইরের পরিবেশের সাথে তাপ আদান-প্রদানের সুযোগ না থাকে । এর ফলে দেখা যায় যে, রুদ্ধতাপীয় লেখ সমোষ্ণ লেখ অপেক্ষা খাড়া হয় ।সমোষ্ণ প্রক্রিয়ার ক্ষেত্রে, PV = ধ্রুবক এবং রুদ্ধতাপীয় প্রক্রিয়ার ক্ষেত্রে, [math]P V^{\lambda}=[/math]
+ = ধ্রুবক। ফলে এদের জন্য , [math]\left(\frac{\mathrm{dP}}{\mathrm{dV}}\right)_{\text {সমোষ্ণ }}=-\frac{\mathrm{P}}{\mathrm{V}}[/math]
+ এবং [math]\left(\frac{d P}{d V}\right)[/math]
+ রুদ্ধতাপীয় [math]=-\gamma \frac{\mathrm{P}}{\mathrm{V}}[/math]
+ তাই রুদ্ধতাপীয় রেখা রেখা সমোষ্ণ রেখা অপেক্ষা [math]\gamma[/math]
+ গুন খাড়া।[math]\\[/math]
+ গA ও B কে ব্যবহার করে ইঞ্জিন তৈরি করা হলে উৎসের তাপমাত্রা, [math]T_{A}=A[/math]
+ পাত্রের তাপমাত্রা,[math]\begin{aligned}= & 100^{\circ} \mathrm{C} \\& =(100+273) \mathrm{K} \\& =373 \mathrm{~K}\end{aligned}[/math]
+গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{\mathrm{B}}=\mathrm{B}[/math]
+ [math]\begin{aligned}=0^{\circ} \mathrm{C} & =(0+273) \mathrm{K} \\& =273 \mathrm{~K}\end{aligned}[/math]
+ইঙ্গিনের সর্দবাধিক দক্ষতা, [math]\eta=?[/math]
+আমরা জানি,[math]\begin{aligned}\eta & =\left(\frac{T_{A}-T_{B}}{T_{A}}\right) \times 100 \% \\& =\left(1-\frac{T_{B}}{T_{A}}\right) \times 100 \%=\left(1-\frac{273}{373}\right) \times 100 \% \\& =\frac{100}{373} \times 100 \%=26.81 \% \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+ ঘএখানে,পানির ভর, m=1kgA পাত্রের তাপমাত্রা, [math]\mathrm{T}_{\mathrm{A}}=100^{\circ} \mathrm{C}=373 \mathrm{~K}[/math]
+B পাত্রের তাপমাত্রা, [math]\mathrm{T}_{\mathrm{B}}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+পানির আপেক্ষিক তাপ, [math]5=4200 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1}[/math]
+A ও B পাত্রের পানি মিশ্রিত করলে মিশ্রণের চূড়ান্ত তাপমাত্রা = [math]\theta[/math]
+A এর ক্ষেত্রে,100°C তাপমাত্রার পানিকে B°C তাপমাত্রায় আনতে নির্গত তাপ,[math]\begin{aligned}Q_{1} & =m s i \theta \\& =1 \times 4200(100-\theta) \\& =4200(100-\theta)\end{aligned}[/math]
+আবার, B এর ক্ষেত্রে,0°C তাপমাত্রার পানিকে ৪°C তাপমাত্রায় আনতে গৃহীত তাপ,[math]\begin{aligned}Q_{2} & =m s \wedge \theta \\& =1 \times 4200 \times(\theta-0) \\& =42000 \theta\end{aligned}[/math]
+ক্যালরিমিতির সূত্র মতে,গৃহীত তাপ = নির্গত তাপ[math]\begin{array}{l}\text{} 4200 \theta=4200(100-\theta)\\\Rightarrow\text{ } 4200 \theta=4200 \times 100-4200 \times \theta\\41,4200 \theta+4200 \theta=4200 \times 100\\\text{ } 8400 \theta=4200 \times 100\\\text{} \theta=\frac{4200 \times 100}{8400}=50^{\circ} \mathrm{C}\end{array}[/math]
+অর্থাৎ, মিশ্রণের তাপমাত্রা 50°C = 323 Kএখানে, [math]T_{1}[/math]
+ তাপমাত্রার পানিকে [math]T_{2}[/math]
+ তাপমাত্রার পানিতে পরিণত করলে এনট্রপির পরিবর্তন যদি ds হয় তবে,[math]\begin{aligned}d S & =\int_{T_{1}}^{T_{2}} \frac{d Q}{T}=\int_{T_{1}}^{T_{2}} \frac{\text { msdT }}{T} \\& =m s \int_{T_{1}}^{T_{2} d T} \\& =m s\left(\ln T_{2}-\ln T_{1}\right)\end{aligned}[/math]
+তাহলে 100°C তাপমাত্রার পানিকে 50°C তাপমাত্রার পানিতে পরিণত করলে এনট্রপির পরিবর্তন,[math]=1 \times 4200(\ln 323-\ln 373)[/math]
+= [math]-604.49 \mathrm{~K}^{-1}[/math]
+ এক্ষেত্রে এনট্রপির হ্রাস হয় ।আবার, 0°C তাপমাত্রার পানিকে 50°C তাপমাত্রার পানিতে পরিণত করলে এন্ট্রপির পরিবর্তন,[math]\mathrm{dS}_{2}=1 \times 4200(\ln 323-\ln 273)[/math]
+ এক্ষেত্রে এনট্রপির বৃদ্ধি হয়।সুতরাং এনট্রপির মোট পরিবর্তন, [math]\begin{aligned}\mathrm{S} & =\mathrm{dS}_{1}+\mathrm{dS}_{2} \\& =-604.49+706.36 \\& =101.87 \mathrm{JK}^{-1}\end{aligned}[/math]
+অর্থাৎ A ও B পাত্রের পানি একত্রে মিশ্রিত করলে এনট্রপির পরিবর্তন ধনাত্মক হবে এবং তার মান [math]101.87 \mathrm{JK}^{-1}[/math]
+।-
+
+Explanation:
+ব্যাখ্যা:
+
+ক কনট্‌র্ট ইঞ্জিনের দক্ষতা = [math]\eta=1-\dfrac{T_c}{T_h}=1-\dfrac{273}{373}=\dfrac{100}{373}\approx0.268\;(26.8\%).[/math]
+
+খ কারণ কারনোট থিওরেম অনুযায়ী একই উষ্ণ ও ঠান্ডা তাপস্রোতির জন্য কোনো অপরিবর্তনীয় ইঞ্জিনের দক্ষতা reversible (কারনোট) ইঞ্জিনের দক্ষতার চেয়ে বেশি হতে পারে না; যদি অতো হয় তবে শূন্যতমকরণ দ্বিতীয় আইন লঙ্ঘিত হত।  
+
+গ A (100°C) ও B (0°C) ব্যবহার করলে সর্বোচ্চ (কারনোট) দক্ষতা একই হবে, অর্থাৎ [math]\eta_{\max}=1-\dfrac{273}{373}=\dfrac{100}{373}\approx0.268\;(26.8\%).[/math]
+
+ঘ মিলিয়ে চূড়ান্ত তাপমাত্রা [math]T_f=\dfrac{T_1+T_2}{2}=\dfrac{373+273}{2}=323\ \text{K}=50^\circ\text{C}.[/math] মোট এন্ট্রপি পরিবর্তন হলো [math]\Delta S=mc\ln\dfrac{T_f}{T_1}+mc\ln\dfrac{T_f}{T_2}=mc\ln\dfrac{T_f^2}{T_1T_2},[/math] যার মান m=1, [math]c\approx4186\ \mathrm{J/kgK}[/math] নিলে [math]\Delta S\approx4186\ln\frac{323^2}{373\cdot273}\approx1.06\times10^{2}\ \mathrm{J/K}, অর্থাৎ ধনাত্মক।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 419551)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচে কার্নো চক্রের চারটি ধাপ [math]P – V[/math] লেখচিত্রের মাধ্যমে প্রদর্শন করা হলো:
+
+[Image]
+
+
+Options:
+ক. তাপীয় সমতা কী?
+খ. তাপগতিবিদ্যার প্রথম সূত্রটি শক্তির নিত্যতা সূত্রের একটি বিশেষ রূপ— ব্যাখ্যা কর।
+গ. উল্লিখিত কার্নো ইঞ্জিনের দক্ষতা বের কর।
+ঘ. চক্রটির প্রতি ধাপে এন্ট্রপির পরিবর্তন এর তুলনামূলক বিশ্লেষণ কর ।
+
+
+Correct Answer: 
+
+Solution:
+কভিন্ন তাপমাত্রার দুটি বস্তু পরস্পর তাপীয় সংস্পর্শে আসার পর যখন সমতাপমাত্রায় উপনীত হয় তখন ঐ অবস্থাই হলো তাপীয় সমতা। [math]\\[/math]
+ খবিজ্ঞানী ক্লসিয়াসের মতে, কোনো সিস্টেমে তাপশক্তি অন্য কোনো শক্তিতে রূপান্তরিত হলে বা অন্য কোনো শক্তি তাপশক্তিতে রূপান্তরিত হলে সিস্টেমের মোট শক্তির পরিমাণ একই থাকে। অর্থাৎ তাপগতিবিদ্যার প্রথম সূত্রটি শক্তির নিত্যতা সূত্রের একটি বিশেষ রূপ। যখনই কোনো সিস্টেমে তাপ প্রয়োগ করা হয়, তখন তার কিছু অংশ বস্তুর অভ্যন্তরীণ শক্তি বৃদ্ধি করে এবং বাকি অংশ পরিবেশের উপর বাহ্যিক কার্য সম্পাদন করে। অর্থাৎ কোনো সিস্টেমে [math]\Delta \rm{Q}[/math]
+ তাপ প্রয়োগে অভ্যন্তরীণ শক্তি [math]\Delta \rm{U}[/math]
+ এবং বহিঃস্থ কাজ [math]\Delta \rm{W}[/math]
+ সম্পন্ন হলে, [math]\Delta \mathrm{Q}=\Delta \mathrm{U}+\Delta \mathrm{W.}[/math]
+ [math]\\[/math]
+ গধরি, উল্লিখিত কার্নো ইঞ্জিনের দক্ষতা, [math]\eta[/math]
+উদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=1200 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\rm{T}_{2}=650 \mathrm{~K}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \eta & =\left(1-\rm{\frac{T_{2}}{T_{1}}}\right) \times 100 \% \\ & =\left(1-\frac{650}{1200}\right) \times 100 \% \\ & =45.83 \% \end{aligned}[/math]
+ [math]\therefore[/math]
+ কার্নো ইঞ্জিনের দক্ষতা [math]45.83\%[/math]
+।[math]\\[/math]
+ ঘএখানে,[math]\hspace{1 cm}[/math]
+গৃহীত তাপ, [math]\mathrm{Q}_{1}=500 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্জিত তাপ, [math]\mathrm{Q}_{2}=?[/math]
+ [math]\hspace{1 cm}[/math]
+উৎসের তাপমাত্রা, [math]\rm{T}_{1}=1200 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=650 \mathrm{~K}[/math]
+আমরা জানি[math]\hspace{1.5 cm}\begin{array}{l}\quad \rm{\dfrac{Q_{1}}{T_{1}}=\dfrac{Q_{2}}{T_{2}}} \\ \Rightarrow \rm{Q_{2}=\dfrac{500 \mathrm{~J} \times 650 \mathrm{~K}}{1200 \mathrm{~K}}} \\ \Rightarrow \rm{Q}_{2}=270.83 \mathrm{~J} \end{array}[/math]
+১ম ক্ষেত্রে, এন্ট্রপি বৃদ্ধি[math]\hspace{1.5 cm}=+\rm{\dfrac{Q_{1}}{T_{1}}}=\dfrac{500 \mathrm{~J}}{1200 \mathrm{~K}}=0.4167 \mathrm{JK}^{-1}[/math]
+দ্বিতীয় ক্ষেত্রে, এন্ট্রপি হ্রাস[math]\hspace{1.5 cm}=-\rm{\dfrac{Q_{2}}{T_{2}}}=-\dfrac{270.83 \mathrm{~J}}{650 \mathrm{~K}}=-0.4167 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+দেখা যায়, সম্মুখ প্রক্রিয়ায় এন্ট্রপি যে পরিমাণ বৃদ্ধি পায়, বিপরীত প্রক্রিয়ায় সেই পরিমাণ এন্ট্রপি হ্রাস পায়। অর্থাৎ সম্পূর্ণ চক্রে এন্ট্রপির পরিবর্তন [math]=0.4167 \mathrm{JK}^{-1}+\left(-0.4167 \mathrm{JK}^{-1}\right)=0[/math]
+ (শূন্য)অতএব, চক্রটি প্রত্যাগামী চক্র, তাই এন্ট্রপি ধ্রুব থাকে।
+
+Explanation:
+ব্যাখ্যা:
+ক তাপীয় সমতা হলো এমন একটি অবস্থা যেখানে সিস্টেমের সব অংশে তাপমাত্রা ও অন্যান্য তাত্ত্বিক পরিমাপগুলি সমান থাকে এবং কোন কারণে নেট তাপ প্রবাহ বা স্বাভাবিক পরিবর্তন নেই — অর্থাৎ মাইক্রো/ম্যাক্রো স্তরে স্থিতিশীল অবস্থা। 
+
+খ তাপগতিবিদ্যার প্রথম সূত্র হল [math]\Delta U = Q - W[/math], যা সাধারণ শক্তি সংরক্ষণ নীতির থার্মোডাইনামিক রূপ: সিস্টেমের অভ্যন্তরীণ শক্তির পরিবর্তন সমান তাপ যোগ minus সিস্টেম কর্তৃক করা কাজ, তাই তাপ ও কাজকে শক্তির বিনিমেয় রূপ হিসেবে গণ্য করে মোট শক্তি সংরক্ষণ নিশ্চিত করে।
+
+গ কার্নো ইঞ্জিনের দক্ষতা হলো [math]\eta=\frac{W}{Q_h}=1-\frac{Q_c}{Q_h}[/math] এবং দ্রুতকার্যে রিভার্সিবল কার্নো ক্ষেত্রে [math]Q_h=T_h\Delta S,\;Q_c=T_c\Delta S[/math] হওয়ায় [math]\eta=1-\frac{T_c}{T_h}[/math] (শুধু তাপমাত্রার উপর নির্ভরশীল)। 
+
+ঘ চক্রের ধাপগুলিতে এন্ট্রপির পরিবর্তন: উচ্চ তাপমাত্রায় নির্গমন (isothermal expansion) এন্ট্রপি বাড়ে [math]\Delta S=Q_h/T_h>0[/math]; অ্যাডিয়াবাটিক ধাপে এন্ট্রপি স্থির থাকে [math]\Delta S=0[/math]; কম তাপমাত্রায় নির্গমন (isothermal compression) এন্ট্রপি কমে [math]\Delta S=-Q_c/T_c<0[/math]; আর শেষ অ্যাডিয়াবাটিক ধাপেও [math]\Delta S=0[/math]; রিভার্সিবল কার্নো চক্রে উপরের দুইটি সমান ও বিপরীত হওয়ায় মোট এন্ট্রপি পরিবর্তন শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 419549)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+তাসিন নিচের লেখচিত্রের চক্রটি বিশ্লেষণ করে বলল, এটি কার্নোর চক্র।
+
+
+[Image]
+
+
+মোলার গ্যাস ধ্রুবক [math]8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math] ।
+
+Options:
+ক. আধানের কোয়ান্টায়ন কী?
+খ. সমান্তরাল পাত ধারকের ধারকত্ব পাতদ্বয়ের মধ্যবর্তী মাধ্যমের উপর নির্ভর করে কি? ব্যাখ্যা কর।
+গ. [math]1[/math] মোল আদর্শ গ্যাসের জন্য উদ্দীপকের [math]AB[/math] অংশে কৃতকাজ নির্ণয় কর।
+ঘ. তাসিনের বিশ্লেষণ সঠিক ছিল কি না এন্ট্রপি পরিবর্তনের সাপেক্ষে গাণিতিক বিশ্লেষণসহ মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+কপরমাণুর তথা যেকোনো বস্তুর ন্যূনতম চার্জ ইলেকট্রনের চার্জের পূর্ণসংখ্যার গুণিতক হিসেবে চার্জিত হবে এবং চার্জের মান কখনো ভগ্নাংশ হবে না। এটিই চার্জের বা আধানের কোয়ান্টায়ন। [math]\\[/math]
+ খসমান্তরাল পাত ধারকের ধারকত্ব পাতদ্বয়ের মধ্যবর্তী মাধমের উপর নির্ভর করে।আমরা জানি, [math]\mathrm{C}=\dfrac{\in \mathrm{A}}{\mathrm{d}}[/math]
+পাতের ক্ষেত্রফল এবং দূরত্ব যদি নির্দিষ্ট হয় তবে [math]\rm{C }\propto \in[/math]
+ হবে। অর্থাৎ যে মাধ্যমের বা বস্তুর ডাই ইলেকট্রিক ধ্রুবকের মান বেশি হবে সে বস্তুর বা মাধ্যমের ধারকত্ব বেশি হবে। [math]\\[/math]
+ গউদ্দীপকের [math]\rm{AB}[/math]
+ অংশের সমোষ্ণ প্রসারণ সংঘটিত হয়েছে।এখানে,[math]\hspace{1 cm}[/math]
+মোল সংখ্যা, [math]\mathrm{n}=1[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক আয়তন, [math]\mathrm{V}_{1}=10 \mathrm{~cm}^{3}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত আয়তন, [math]\mathrm{V}_{2}=20 \mathrm{~cm}^{3}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক তাপমাত্রা, [math]\rm{T}_{1}=434 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]\mathrm{W}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{nRT}_{1} l\rm{n} \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\ & =1 \mathrm{~mol} \times 8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \times 434 \mathrm{~K} \times \ln \frac{20 \mathrm{~cm}^{3}}{10 \mathrm{~cm}^{3}} \\ & =2499.86 \mathrm{~J} \end{aligned}[/math]
+ [math]\\[/math]
+ ঘতাপগতিবিদ্যার ১ম সূত্রানুসারে,শোষণকৃত তাপ, [math]\mathrm{Q}_{1}=[/math]
+ সমোষ্ণ প্রসারণের জন্য কৃতকাজ [math]\mathrm{W}_{1}[/math]
+বর্জিত তাপ, [math]\rm{Q}_{2}=[/math]
+ সমোষ্ণ সংকোচনের জন্য কৃতকাজ [math]\mathrm{W}_{2}[/math]
+উদ্দীপক অনুসারে, [math]\mathrm{CD}[/math]
+ অংশে[math]\hspace{1 cm}[/math]
+গ্যাসের আয়তন, [math]\rm{V}_{3}=30 \mathrm{~cm}^{3}, \rm{~V} 4=15 \mathrm{~cm}^{3}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}=350 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1.5 cm}\begin{aligned} \therefore \rm{Q}_{2} & =\mathrm{W}_{3}=\mathrm{nRT}_{2} \ln \frac{\mathrm{V}_{4}}{\mathrm{~V}_{3}} \\ & =1 \times 8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \times 350 \mathrm{~K} \times \ln \frac{15 \mathrm{~cm}^{3}}{30 \mathrm{~cm}^{3}} \\ \therefore \rm{Q}_{2} & =-2016.02 \mathrm{~J}\end{aligned}[/math]
+'গ' হতে পাই, [math]\mathrm{Q}_{1}=\mathrm{W}_{1}=2499.86 \mathrm{~J}[/math]
+ [math]\rm{AB}[/math]
+ সমোষ্ণ রেখায় এন্ট্রপির পরিবর্তন[math]\hspace{1.5 cm}=\rm{\dfrac{Q_{1}}{T_{1}}}=\dfrac{2499.86 \cdot \mathrm{J}}{434 \mathrm{~K}}=5.76 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+ [math]\rm{CD}[/math]
+ সমোষ্ণ রেখায় এন্ট্রপির পরিবর্তন[math]\hspace{1.5 cm}\begin{array}{l} \rm{=\dfrac{Q_{2}}{T_{2}}} \\ =\dfrac{-2016.02 \mathrm{~J}}{350 \mathrm{~K}} \\ =-5.76 \mathrm{JK}^{-1} \end{array}[/math]
+মোট এন্ট্রপির পরিবর্তন[math]\hspace{1.5 cm}=\dfrac{\mathrm{Q}_{1}}{\mathrm{~T}_{1}}-\dfrac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}=5.76 \mathrm{~J} \mathrm{~K}^{-1}-5.76 \mathrm{~J} \mathrm{~K}=0[/math]
+যেহেতু এন্ট্রপির পরিবর্তন শূন্য সেহেতু তাসিনের বিশ্লেষণ সঠিক ছিল।
+
+Explanation:
+ব্যাখ্যা:
+
+ক আধানের কোয়ান্টায়ন কী?  
+আধান (তাপ) হল একটি শক্তি স্থানান্তর, এটি কোনো রাষ্ট্রের বৈশিষ্ট্য নয় এবং ক্লাসিকালি ম্যাক্রোস্কোপিকভাবে কোয়ান্টায়ন করা হয় না; তবে মাইক্রোস্কেলে শক্তি স্তর এবং তাপবিবরণের কারণগুলো কৌণিক বা ফোটনের কুয়ান্টায়েড বিনিময়ের মাধ্যমে ঘটে।  
+
+খ সমান্তরাল পাত ধারকের ধারকত্ব পাতদ্বয়ের মধ্যবর্তী মাধ্যমের উপর নির্ভর করে কি? ব্যাখ্যা কর।  
+হ্যাঁ, সমান্তরল পাত ধারকের ধারকত্ব নির্ভর করে মাধ্যমের প্রেমিয়াটিভিটি উপর এবং [math]C=\varepsilon\frac{A}{d}[/math] (এখানে [math]\varepsilon[/math] মাধ্যমের পারমিটিভিটি, [math]A[/math] পাতের ক্ষেত্রফল, [math]d[/math] পাতদ্বয়ের দুরত্ব)। ডাইইলেকট্রিক ধ্রুবক বাড়লে ধারকত্ব বাড়ে।  
+
+গ [math]1[/math] মোল আদর্শ গ্যাসের জন্য উদ্দীপকের [math]AB[/math] অংশে কৃতকাজ নির্ণয় কর।  
+যদি [math]AB[/math] অংশটি সমতাপীয় হয়, তবে কাজটি হবে [math]W_{AB}=nRT\ln\frac{V_B}{V_A}[/math] (অথবা [math]W_{AB}=nRT\ln\frac{P_A}{P_B}[/math]) যেখানে [math]n=1[/math], [math]R[/math] গ্যাস ধ্রুবক ও [math]T[/math] তাপমাত্রা।  
+
+ঘ তাসিনের বিশ্লেষণ সঠিক ছিল কি না এন্ট্রপি পরিবর্তনের সাপেক্ষে গাণিতিক বিশ্লেষণসহ মন্তব্য কর।  
+কার্নট চক্র একটি উল্টোদিকাশী (reversible) চক্র হলে মোট এন্ট্রপি পরিবর্তন শূন্য হয় কারণ দ্বৈত সমতাপীয় বিনিময়ে [math]\Delta S=\frac{Q_H}{T_H}-\frac{Q_C}{T_C}=0[/math] (অর্থাৎ [math]\frac{Q_H}{T_H}=\frac{Q_C}{T_C}[/math]) এবং আদিয়াব্যাটিক অংশগুলোতে এন্ট্রপি পরিবর্তন নেই; তাই যদি দেওয়া লেখচিত্রে দুটি সমতাপীয় ও দুটি আদিয়াব্যাটিক এবং সব প্রক্রিয়া বিপরীতনীয় হয় তাহলে তাসিন সঠিক, নচেৎ (অপ্রতিবর্তিত বা অসামঞ্জস্যপূর্ণ প্রক্রিয়া থাকলে) তাসিনের দাবি ভুল।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 419550)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]0^{\circ} \mathrm{C}[/math] তাপমাত্রার [math]505g[/math] বরফকে [math]47.5^{\circ} \mathrm{C}[/math] তাপমাত্রার [math]4.8 kg[/math] পানির সাথে মেশানো হলো। [বরফ গলনে আপেক্ষিক সুপ্ততাপ [math]L_{f}=3,36,000 \mathrm{~J} \mathrm{~kg}^{-1}[/math], পানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math] ও পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]L_{v}=22,68,000 \mathrm{~J} \mathrm{~kg}^{-1}[/math]]
+
+Options:
+ক. হল ক্রিয়া কী?
+খ. ধাতুসমূহের সূচন কম্পাঙ্ক না থাকলে কী ঘটত ব্যাখ্যা কর।
+গ. উদ্দীপকে শুধুমাত্র বরফ গলার ফলে এন্ট্রপির কত পরিবর্তন হবে?
+ঘ. তুমি কীভাবে উদ্দীপকের মিশ্রণের মোট এন্ট্রপির পরিবর্তন নির্ণয় করবে তা গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো তড়িত্বাহী পরিবাহীকে কোনো চৌম্বক ক্ষেত্রে অভিলম্ব বরাবর স্থাপন করলে তড়িৎপ্রবাহ ও চৌম্বক ক্ষেত্র উভয়ের উপর লম্ব বরাবর একটি বিভব পার্থক্যের সৃষ্টি হয়, এ ক্রিয়াই হলো হল ক্রিয়া। [math]\\[/math]
+ খযে সর্বনিম্ন কম্পাঙ্কে ধাতব পাত থেকে ইলেকট্রন নির্গত হয় তাই হলো সূচন কম্পাঙ্ক। সূচন কম্পাঙ্ক না থাকলে ধাতব পাত থেকে ইলেকট্রন নির্গত হতো না ফলে ফটোতড়িৎ ক্রিয়া সম্পন্ন হতো না। [math]\\[/math]
+ গধরি, বরফ গলার ফলে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+বরফের ভর, [math]\mathrm{m}_{1}=505 \mathrm{~g}=0.505 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বরফ গলনে আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{f}}=336000 \mathrm{~Jkg}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=(0+273) \mathrm{K}=273 \mathrm{~K}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{dS}_{1}=\dfrac{\mathrm{dQ}}{\mathrm{T}}=\dfrac{\mathrm{mL}_{\mathrm{f}}}{\mathrm{T}}=\dfrac{0.505 \mathrm{~kg} \times 336000 \mathrm{~J} \mathrm{~kg}^{-1}}{273 \mathrm{~K}} \\ \therefore \mathrm{dS}_{1}=621.54 \mathrm{~J} \mathrm{~K}^{-1} \end{array}[/math]
+সুতরাং শুধুমাত্র বরফ গলার ফলে এনট্রপির পরিবর্তন হবে [math]621.54 \mathrm{~JK}^{-1}[/math]
+।[math]\\[/math]
+ ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+বরফের ভর, [math]\mathrm{m}=505 \mathrm{~g}=0.505 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}_{1}=4.8 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বরফের তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির তাপমাত্রা, [math]\mathrm{T}_{1}=47.5^{\circ} \mathrm{C}=(47.5+273) \mathrm{K}=320.5 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির আপেক্ষিক তাপ, [math]\rm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+বরফ গলনে আপেক্ষিক সুপ্ত তাপ, [math]\mathrm{L}_{\mathrm{f}}=336000 \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+ধরি, মিশ্রণের তাপমাত্রা, [math]\rm{T}_2[/math]
+পানির তাপমাত্রা [math]320.5\rm{~K}[/math]
+ হতে [math]\rm{T}_2[/math]
+ তে নামাতে বর্জিত তাপ[math]\hspace{1.5 cm}\begin{aligned} \rm{Q}_{1} & =\rm{m}_{1} \mathrm{~S}\left(\mathrm{~T}_{1}-\mathrm{T}_{2}\right) \\ & =4.8 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}\left(320.5 \mathrm{~K}-\mathrm{T}_{2}\right) \\ & =6461280 \mathrm{~J}-20160 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+ [math]273 \mathrm{~K}[/math]
+ তাপমাত্রার বরফকে [math]273 \mathrm{~K}[/math]
+ তাপমাত্রার পানিতে পরিণত করতে গৃহীত তাপ—[math]\hspace{1.3 cm}\mathrm{Q}_{2}=\mathrm{m}_{2} \mathrm{~L}_{f}=0.505 \mathrm{~kg} \times 336000 \mathrm{~J} \mathrm{~kg}^{-1}=169680 \mathrm{~J}[/math]
+ [math]273 \mathrm{~K}[/math]
+ তাপমাত্রার পানিকে [math]\mathrm{T}_2[/math]
+ তাপমাত্রায় পৌছাতে গৃহীত তাপ,[math]\hspace{1.5 cm}\begin{aligned} \rm{Q}_{3} & =\mathrm{mS}\left(\mathrm{T}_{2}-273 \mathrm{~K}\right) \\ & =0.505 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1} \times\left(\mathrm{T}_{2}-273 \mathrm{~K}\right) \\ & =2121 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1}-579033 \mathrm{~J} \end{aligned}[/math]
+ক্যালরিমিতি মূলনীতি অনুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{Q}_{1}=\rm{Q}_{2}+\rm{Q}_{3} \\ \Rightarrow 6461280 \mathrm{~J}-20160 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1}=169680 \mathrm{~J}+2121 \mathrm{~T}_{2} \mathrm{JK}^{-1}-579033 \mathrm{~J} \\ \Rightarrow \left(20160 \mathrm{~T}_{2}+2121 \mathrm{~T}_{2}\right) \mathrm{JK}^{-1}=(6461280+579033-169680) \mathrm{J} \\ \Rightarrow 22281 \mathrm{~T}_{2} \mathrm{~J} \mathrm{~K}^{-1}=6870633 \mathrm{~J} \\ \Rightarrow \mathrm{~T}_{2}=\dfrac{6870633 \mathrm{~J}}{22281 \mathrm{~J} \mathrm{~K}^{-1}}=308.363 \mathrm{~K} \end{array}[/math]
+গ হতে, শুধুমাত্র বরফ গলাতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}=621.54 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+ [math]273 \mathrm{~K}[/math]
+ হতে বরফগলা পানিকে [math]308.363 \rm{~K}[/math]
+ তাপমাত্রায় উন্নীত করতেএনট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{2} & =\int_{\mathrm{T}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}}^{\mathrm{T}_{2}} \frac{\mathrm{mS} \mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}[\ln \mathrm{T}]_{\mathrm{T}}^{\mathrm{T}_{2}} \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}\right] \\ & =0.505 \mathrm{~kg}\times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[\ln 308.363-\ln 273] \\ \therefore \quad & \mathrm{dS}_{2}=258.35 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+পানির তাপমাত্রা [math]320.5 \mathrm{~K}[/math]
+ হতে [math]308.363 \mathrm{~K}[/math]
+ এ নামাতে এনট্রপির[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{3} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}}=\frac{\mathrm{mS} \Delta \mathrm{T}^{\prime}}{\mathrm{T}}=\mathrm{mS} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right] \\ & =4.8 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[\ln 308.363-\ln 320.5] \\ & =-778.269 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+ [math]\therefore[/math]
+ মোট এনট্রপির পরিবর্তন[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{S} =\mathrm{dS}_{1}+\mathrm{dS}_{2}+\mathrm{dS}_{3}\\ \quad=621.54 \mathrm{~J} \mathrm{~K}^{-1}+258.35 \mathrm{~J} \mathrm{~K}^{-1}-778.269 \mathrm{~J} \mathrm{~K}^{-1} \\ \quad =101.621 \mathrm{~J} \mathrm{~K}^{-1} \end{array}[/math]
+সুতরাং মোট এনট্রপির পরিবর্তন [math]101.621 \mathrm{~JK}^{-1}[/math]
+ ।
+
+Explanation:
+ব্যাখ্যা:
+
+ক এটি স্বতঃস্ফূর্ত ও অব্যবহারযোগ্য একটি প্রক্রিয়া; গরম পানির তাপ শীতল বরফের দিকে প্রবাহিত হয় এবং বরফ গলে তাপ বিনিময়ের ফলে সমতাপের দিকে যায়, ফলে মোট এন্ট্রপি বাড়ে।  
+
+খ যদি প্রাথমিক তাপমাত্রার পার্থক্য না থাকতো (অর্থাৎ উভয় অংশ সমতাপ থাকতো), তাপপ্রবাহ হতো না, বরফ গলত না এবং কোনো তাপ বিনিময় বা মোট এন্ট্রপির পরিবর্তন হত না (ΔS = 0)।  
+
+গ বরফ গলার কারণে এন্ট্রপির পরিবর্তন = [math]\dfrac{m_{\text{বরফ}}L_f}{T_{\text{গলন}}}[/math]; এখানে [math]m=0.505\ \mathrm{kg},\ L_f=336000\ \mathrm{J\,kg^{-1}},\ T=273.15\ \mathrm{K}[/math], তাই [math]\Delta S_{\text{বরফ}}=\dfrac{0.505\times336000}{273.15}\approx621\ \mathrm{J\,K^{-1}}.[/math]
+
+ঘ প্রথমে শক্তি সঞ্চয়-সমীকরণ থেকে অনন্তিম তাপমাত্রা [math]T_f[/math] নির্ণয় কর:  
+[math]m_w c (T_{w,i}-T_f)=m_{ice}L_f+m_{ice}c(T_f-T_{ice,i}).[/math] এরপর মোট এন্ট্রপি পরিবর্তন হবে তিনটি অংশের যোগফল: বরফ গলনের অব্যবহারযোগ্য অংশ, গলনো পানির উত্তাপ বৃদ্ধি এবং গরম পানির শীতলকরণ:  
+[math]\Delta S_{\text{tot}}=\dfrac{m_{ice}L_f}{T_{ice}}+m_{ice}c\ln\!\left(\dfrac{T_f}{T_{ice}}\right)+m_w c\ln\!\left(\dfrac{T_f}{T_{w,i}}\right),[/math]  
+এখানে প্রথমে [math]T_f[/math] শক্তি সমীকরণ থেকে পেয়ে এই সূত্রে প্রতিস্থাপন করলে মোট এন্ট্রপি পরিবর্তন পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 419546)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রার 1 g পানিকে বরফে পরিণত করতে রেফ্রিজারেটরটি ন্যূনতম কাজ সম্পাদন করে [math]Q_2[/math] তাপ অপসারণ করে এবং [math]Q_1[/math] তাপ পরিবেশে বর্জন করে। পরবর্তীতে রেফ্রিজারেটরের পরিবর্তে এমন একটি তাপ ইঞ্জিন প্রতিস্থাপন করা হলো যেনো এটি রেফ্রিজারেটরের ঠিক বিপরীত আচরণ করে। (পানির আপেক্ষিক তাপ 4200 [math]Jkg^{-1}K^{-1}[/math] এবং বরফ গলনের আপেক্ষিক সুপ্ততাপ 336000 [math]Jkg^{-1}[/math])।
+
+
+[Image]
+
+
+Options:
+ক. অন্তঃস্থ শক্তি কী?
+খ. সমোষ্ণ পরিবর্তনের ক্ষেত্রে গ্যাসের আপেক্ষিক তাপ ব্যাখ্যা করো।
+গ. রেফ্রিজারেটরটির কার্যসম্পাদনের সহগ নির্ণয় করো।
+ঘ. তাপ ইঞ্জিনটি প্রত্যাগামী হবে কিনা? এন্ট্রপির সাহায্যে গাণিতিক বিশ্লেষণপূর্বক মন্তব্য করো।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো সিস্টেমের সকল কণার মোট বিভব শক্তি ও গতি শক্তি যার বিনিময়ে সিস্টেম বাহ্যিক শক্তি সরবরাহ ছাড়া কাজ করতে পারে, তাই সিস্টেমের অন্তঃস্থ শক্তি। [math]\\[/math]
+ খ1 মোল গ্যাসের তাপমাত্রা 1 কেলভিন বাড়াতে প্রয়োজন হয় তাকে ওই গ্যাসের মোলার আপেক্ষিক যে পরিমাণ তাপের তাপ বলে।মোলার আপেক্ষিক তাপ, [math]C=\frac{\Delta Q}{n \Delta T}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+গৃহীত তাপ [math]= \Delta Q[/math]
+ [math]\hspace{1 cm}[/math]
+মোলসংখ্যা = n[math]\hspace{1 cm}[/math]
+তাপমাত্রার পরিবর্তন, [math]\Delta T[/math]
+আবার, যে তাপগতীয় পরিবর্তনে গ্যাসের তাপমাত্রা স্থির থাকে, তাই সমোষ্ণ পরিবর্তন। এক্ষেত্রে [math]\Delta \mathrm{T}=0 \mathrm{~K}[/math]
+ হয়। এক্ষেত্রে আপেক্ষিক তাপ,[math]\hspace{1.5 cm}C=\dfrac{\Delta Q}{n \times 0}=\infty[/math]
+ (অসীম)সুতরাং, সমোষ্ণ পরিবর্তনের ক্ষেত্রে গ্যাসের আপেক্ষিক তাপ অসীম হয়।[math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+উচ্চ তাপমাত্রার তাপধারের তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=(30+273) \mathrm{K} =303 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+নিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+কার্যসম্পাদন সহগ, [math]K = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} K & =\frac{T_{2}}{T_{1}-T_{2}} \\ & =\frac{273}{303-273} \\ & =\frac{273}{30}=9.1 \end{aligned}[/math]
+ [math]\therefore[/math]
+ রেফ্রিজারেটরটির কার্যসম্পাদন সহগ [math]\mathrm{K}=9.1 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ ঘএখানে,[math]\hspace{1 cm}[/math]
+বরফের ভর, [math]\mathrm{m}=1 \mathrm{~g}=10^{-3} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+উচ্চ তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=(30+273) \mathrm{K}=303 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+নিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+'গ' থেকে পাই,[math]\hspace{1 cm}[/math]
+রেফ্রিজারেটরের কার্যসম্পাদন সহগ, K = 9.1রেফ্রিজারেটরটি 0°C তাপমাত্রার 1 g পানিকে বরফে পরিণত করে এক্ষেত্রে গৃহীত তাপ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{Q}_{2} & =\mathrm{ml}_{\mathrm{f}} \\ & =10^{-3} \times 336000 \\ & =336 \mathrm{~J} \end{aligned}[/math]
+রেফ্রিজারেটরের উপর কৃতকাজ W হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad K=\frac{Q_{2}}{W}\\ \Rightarrow \mathrm{W}=\frac{\mathrm{Q}_{2}}{\mathrm{~K}}=\frac{336}{9.1}=36.92 \mathrm{~J}\end{array}[/math]
+পরিবেশে বর্জিত তাপ [math]Q_1[/math]
+ হলে,[math]\hspace{1.5 cm}Q_{1}=Q_{2}+W=(336+36.92) \mathrm{J}=372.923 \mathrm{~J}[/math]
+এখন, তাপ ইঞ্জিনটি যেহেতু রেফ্রিজারেটরের ঠিক বিপরীত আচরণ করে, এটি [math]T_1[/math]
+ তাপমাত্রার তাপ উৎস থেকে [math]Q_1[/math]
+ তাপ গ্রহণ করে এবং [math]T_1[/math]
+ তাপমাত্রার তাপ গ্রাহকে [math]Q_2[/math]
+ তাপ ছেড়ে দেয়।এখানে,[math]\hspace{1 cm}[/math]
+গৃহীত তাপ, [math]\mathrm{d} \mathrm{Q}_{1}=372.923 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=303 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\Delta S_{1}=?[/math]
+
+[Image]
+এই প্রক্রিয়াকে উপরের ABCDকার্নো চক্রের সাহায্যে দেখানো যায়।AB সমোষ্ণ প্রসারণের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{aligned} \Delta S_{1} & =\frac{d Q_{1}}{T_{1}} \\ & =\frac{372923}{303} \\ & =1.23 \mathrm{JK}^{-1} \end{aligned}[/math]
+BC রুদ্ধতাপীয় প্রসারণের ক্ষেত্রে,[math]\Delta S_{2}=0[/math]
+ [ [math]\therefore[/math]
+ রুদ্ধতাপীয় প্রক্রিয়ায় এনট্রপির পরিবর্তন শূন্য]এখানে,[math]\hspace{1 cm}[/math]
+বর্জিত তাপ, [math]\mathrm{dQ}_2=-336 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, [math]T_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\Delta S_{3}=?[/math]
+CD সমোষ্ণ সংকোচনের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{aligned} \Delta S_{3} & =\frac{\mathrm{dQ}}{\mathrm{T}_{2}} \\ & =-\frac{336}{273} \\ & =-1.23 \mathrm{JK}^{-1} \end{aligned}[/math]
+DA রুদ্ধতাপীয় সংকোচনের ক্ষেত্রে,[math]\hspace{1.5 cm}\Delta S_{4}=0[/math]
+ [math]\therefore[/math]
+ মোট এনট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{array}{l} \Delta \mathrm{S}=\Delta \mathrm{S}_{1}+\Delta \mathrm{S}_{2}+\Delta \mathrm{S}_{3}+\Delta \mathrm{S}_{4} \\ \quad ~ =1.23+0-1.23+0 \\ \quad ~ =0 \mathrm{JK}^{-1} \end{array}[/math]
+যেহেতু তাপ ইঞ্জিনের মোট এনট্রপির পরিবর্তন শূন্য। তাই তাপ ইঞ্জিনটি প্রত্যাগামী হবে।
+
+Explanation:
+ক  পানির ভিতরকার শক্তি (অন্তঃস্থ শক্তির পরিবর্তন) বরফে পরিণত হওয়ার সময় হ্রাস পায়; [math]ΔU=-mL=-0.001×336000=-336\ J[/math], অর্থাৎ অভ্যন্তরীণ শক্তি [math]336\ J[/math] কমে যায়।
+
+খ  সমোষ্ণ (isothermal) ক্ষেত্রে তাপমাত্রার পরিবর্তন [math]dT=0[/math], তাই বিশেষ তাপ [math]c=\dfrac{δQ}{m\,dT}[/math] অসীম বা অপ্রজ্ঞেয় হয়; আদর্শ গ্যাসের জন্য [math]ΔU=0[/math] হয় এবং প্রাপ্ত তাপ সম্পূর্ণ কাজ হিসেবে চলে যায় ( [math]Q=W[/math] )। 
+
+গ  রেফ্রিজারেটরের কার্যসক্ষমতার সহগ (COP) হচ্ছে নেয়া শীতল তাপের অনুপাত কাজের সাথে: [math]\text{COP}=\dfrac{Q_2}{W}=\dfrac{Q_2}{Q_1-Q_2}[/math]; এখানে [math]Q_2=mL=0.001×336000=336\ J[/math], তাই সংখ্যাগতভাবে [math]\text{COP}=\dfrac{336}{Q_1-336}[/math] (এখানে [math]Q_1[/math] জানা থাকলে নির্দিষ্ট সংখ্যা পাওয়া যাবে)।
+
+ঘ  এন্ট্রপির যোগে বিশ্লেষণে মোট এন্ট্রপি পরিবর্তন হবে [math]ΔS_{tot}=-\dfrac{Q_1}{T_h}+\dfrac{Q_2}{T_c}[/math]; যেহেতু রেফ্রিজারেটরটি ন্যূনতম কাজ করেছে, এটি প্রত্যাগত (reversible) ছিল এবং ফলে [math]ΔS_{tot}=0[/math], তাই এর বিপরীত আচরণকারী তাপ ইঞ্জিন (রিভার্সেবল ইঞ্জিন) সম্ভব এবং তাপগত second law লঙ্ঘন করবে না; যদি প্রক্রিয়া অভ্যাসিক না হয় তাহলে প্রয়োজন [math]ΔS_{tot}>0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 419547)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] প্রক্রিয়ার [math]2\ kg[/math] পানিকে [math]0^\circ C[/math] তাপমাত্রা থেকে বাষ্পে রূপান্তরিত করা হলো। অন্যদিকে [math]B[/math] প্রক্রিয়ায় [math]10^\circ C[/math] তাপমাত্রার [math]5\ kg[/math] পানিকে [math]100^\circ C[/math] তাপমাত্রার পানিতে পরিণত করা হলো। (পানির আপেক্ষিক তাপ [math]4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math] এবং পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ [math]2.26 \times 10^{6} \mathrm{~J} \mathrm{~kg}^{-1}[/math])
+
+Options:
+ক. আপেক্ষিক তাপ কাকে বলে?
+খ. তড়িৎ প্রবাহের ফলে পরিবাহীতে তাপ উৎপন্ন হয় কেন? ব্যাখ্যা কর।
+গ. উদ্দীপকে [math]A[/math] প্রক্রিয়ায় মোট প্রয়োজনীয় তাপ নির্ণয় কর।
+ঘ. উদ্দীপকে কোন প্রক্রিয়ায় বিশৃঙ্খলার মাত্রা বেশি? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]1 \rm{~kg}[/math]
+ ভরের কোনো বস্তুর তাপমাত্রা [math]1\rm{~K}[/math]
+ বৃদ্ধি করতে প্রয়োজনীয় তাপকে ঐ বস্তুর আপেক্ষিক তাপ বলে। [math]\\[/math]
+ খপরিবাহীর মধ্য দিয়ে তড়িৎ প্রবাহিত হলে পরিবাহীর মুক্ত ইলেকট্রনগুলো চলার সময় পরস্পরের সাথে সংঘর্ষে লিপ্ত হয়। এতে ব্যয়িত তড়িৎ শক্তির কিছু অংশ পরিবাহীর রোধ অতিক্রম করার কাজে ব্যয় হয়। এ ব্যয়িত শক্তি পরিবাহীতে তাপ শক্তিরূপে প্রকাশ পায়। এ কারণে তড়িৎ প্রবাহের ফলে পরিবাহীতে তাপ উৎপন্ন হয়। [math]\\[/math]
+ গএখানে, [math]\rm{A}[/math]
+ প্রক্রিয়ার ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+পানির ভর, [math]\rm{m_{A}}=2 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রার পরিবর্তন, [math]\Delta \mathrm{T}=(100-0)^{\circ} \mathrm{C}=100^{\circ} \mathrm{C}=100 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]\rm{L_{v}}=2.26 \times 10^{6} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dQ}_{1} & =\mathrm{mS} \Delta \mathrm{T} \\ & =2 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1} \times 100 \mathrm{~K} \\ & =8.4 \times 10^{5} \mathrm{~J} \end{aligned}[/math]
+আবার,[math]\hspace{1 cm}\mathrm{dQ}_{2}=\mathrm{m} \mathrm{L}_{\mathrm{v}}=2 \mathrm{~kg} \times 2.26 \times 10^{6} \mathrm{~J} \mathrm{~kg}^{-1}=4.52 \times 10^{6} \mathrm{~J}[/math]
+ [math]\hspace{1 cm}\therefore \mathrm{~dQ}_{\mathrm{A}}=8.4 \times 10^{5} \mathrm{~J}+4.52 \times 10^{6} \mathrm{~J}=5.36 \times 10^{6} \mathrm{~J}[/math]
+ [math]\therefore ~\rm{A}[/math]
+ প্রক্রিয়ায় মোট প্রয়োজনীয় তাপের পরিমাণ [math]5.36 \times 10^{6} \mathrm{~J}[/math]
+। [math]\\[/math]
+ ঘ [math]\rm{A}[/math]
+ প্রক্রিয়ার ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}=2 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}=100^{\circ} \mathrm{C}=373 \mathrm{~K}[/math]
+ [math]0^{\circ} \mathrm{C}[/math]
+ তাপমাত্রার পানিকে [math]100^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় নিতেতাপের পরিমাণ, [math]\mathrm{dQ}_{2}=4.52 \times 10^{6} \mathrm{~J}[/math]
+ [math]100^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় পানিকে [math]100^{\circ} \mathrm{C}[/math]
+ তাপমাত্রার বাষ্পে পরিণত করতে তাপের পরিমাণ, [math]\mathrm{dQ}_{2}=4.52 \times 10^{6} \mathrm{~J}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{1} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}} \\ & =\mathrm{mS} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{\mathrm{T}_{1}}\right. \\ & =\mathrm{mS}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right] \\ & =2 \mathrm{~kg} \times 4200 \mathrm{J~kg}^{-1} \mathrm{~K}^{-1}[\ln 373-\ln 273] \\ & =2621.7 \mathrm{~J} \mathrm{~K}^{-1} \end{aligned}[/math]
+আবার, [math]\mathrm{dS}_{2 .}=\dfrac{\mathrm{dQ}_{2}}{\mathrm{~T}_{2}}=\dfrac{4.52 \times 10^{6} \mathrm{~J}}{373 \mathrm{~K}}=12117.96 \mathrm{~J} \mathrm{~K}^{-1}[/math]
+ [math]\therefore[/math]
+ মোট এনট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{\mathrm{A}} & =\mathrm{dS}_{1}+\mathrm{dS}_{2} \\ & =(26221.7+12117.96) \mathrm{J} \mathrm{K}^{-1} \\ & =14739.66 \mathrm{JK}^{-1} \end{aligned}[/math]
+ [math]\rm{B}[/math]
+ প্রক্রিয়ার ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}_{\mathrm{B}}=5 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}^{\prime}=10^{\circ} \mathrm{C}=(10+273) \mathrm{K}=283 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\mathrm{T}_{2}^{\prime}=100^{\circ} \mathrm{C}=(100+273) \mathrm{K}=373 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\mathrm{dS}_{\mathrm{B}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{\mathrm{B}} & =\int_{\mathrm{T}_{1}^{\prime}}^{\mathrm{T}_{2}^{\prime}} \frac{\mathrm{dQ}_{\mathrm{B}}}{\mathrm{T}} \\ & =\mathrm{m}_{\mathrm{B}} \mathrm{S}_{\mathrm{T}_{1}}^{\mathrm{T}_{2}^{\prime}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{m}_{\mathrm{B}} \mathrm{S}\left[\ln \mathrm{T}_{\mathrm{T}_{2^{\prime}}}\right. \\ & =\mathrm{m}_{\mathrm{B}} \mathrm{S}\left[\ln \mathrm{T}_{2}^{\prime}-\ln \mathrm{T}_{1^{\prime}}\right]^{\prime} \\ & =5 \mathrm{~kg} \times 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[\ln 373-\ln 283]\\ \therefore \quad \mathrm{dS}_{\mathrm{B}}&=5798.76 \mathrm{~J} \mathrm{~K}^{-1}\end{aligned}[/math]
+যেহেতু [math]\mathrm{dS}_{\mathrm{A}}>\mathrm{dS}_{\mathrm{B}}[/math]
+ সেহেতু [math]\rm{A}[/math]
+ প্রক্রিয়ায় বিশৃঙ্খলার মাত্রা বেশি।
+
+Explanation:
+ব্যাখ্যা:
+
+ক আপেক্ষিক তাপ হলো একক ভরের কোনো বস্তুকে একক তাপমাত্রা বাড়াতে লাগা তাপমাত্রা-নির্ভর শক্তি; অর্থাৎ একটি কিলোগ্রাম পদার্থের তাপমাত্রা 1 K বাড়াতে লাগা তাপের পরিমাণ (একক [math]\mathrm{J\,kg^{-1}K^{-1}}[/math])।
+
+খ তড়িৎপ্রবাহ চলার সময় পরিবাহীর اندر ইলেকট্রনসমূহ অনিবার্যভাবে আণবিক/অ্যাটমগুলোর সাথে সংঘর্ষ করে গতি ক্ষয় করে; সেই হারানো বৈদ্যুতিক শক্তি তাপে রূপান্তরিত হয়—একে জয়লের তাপ বলা হয় এবং শক্তি হার কমপক্ষে [math]P=I^2R[/math] হিসেবে প্রকাশ করা যায়।
+
+গ প্রথমে 2 kg পানিকে [math]0^\circ C(=273.15\ \mathrm{K})[/math] থেকে [math]100^\circ C(=373.15\ \mathrm{K})[/math] তে উত্তপ্ত করতে লাগা তাপ: [math]Q_1=mc\Delta T=2\times4200\times(373.15-273.15)=2\times4200\times100=8.4\times10^5\ \mathrm{J}[/math]. বাষ্পীভবনের তাপ: [math]Q_2=mL=2\times2.26\times10^6=4.52\times10^6\ \mathrm{J}[/math]. মোট দরকারি তাপ: [math]Q=Q_1+Q_2=5.34\times10^6\ \mathrm{J}[/math]।
+
+ঘ বিশৃঙ্খলার (এন্ট্রপি) পরিবর্তন গণনা করলে: A প্রক্রিয়ায় উত্তপ্তকরণে [math]\Delta S_{heat}=mc\ln\frac{373.15}{273.15}=2\times4200\ln\!\left(\frac{373.15}{273.15}\right)\approx2.61\times10^3\ \mathrm{J/K}[/math], বাষ্পীভবনের এন্ট্রপি বদল [math]\Delta S_{vap}=\frac{mL}{T}= \frac{2\times2.26\times10^6}{373.15}\approx1.21\times10^4\ \mathrm{J/K}[/math], ফলে [math]\Delta S_A\approx1.47\times10^4\ \mathrm{J/K}[/math]. B প্রক্রিয়ায় [math]\Delta S_B=mc\ln\frac{373.15}{283.15}=5\times4200\ln\!\left(\frac{373.15}{283.15}\right)\approx5.8\times10^3\ \mathrm{J/K}[/math]. তাই A প্রক্রিয়ায় বিশৃঙ্খলার মাত্রা বেশি, কারণ বাষ্পীভবনের জন্য বড় পরিমাণ তাপ স্থায়ী তাপমাত্রায় যোগ হওয়ায় [math]\Delta S=L/T[/math] বৃহৎ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 419548)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একজন শিক্ষার্থী লিখন [math]84\ kJ[/math] তাপ সরবরাহ করে [math]30^{\circ} \mathrm{C}[/math] তাপমাত্রার [math]5\ kg[/math] পানিকে উত্তপ্ত করল। অপর শিক্ষার্থী নিয়ন তাপ সরবরাহ করে [math]100^{\circ} \mathrm{C}[/math] তাপমাত্রার পানিকে সম্পূর্ণরূপে বাষ্পে পরিণত করল। পানির আপেক্ষিক তাপ [math]4200 \mathrm{~J} \mathrm{~kg}^{-1} K^{-1}[/math] এবং বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ [math]2.26 \times 10^{6} \mathrm{Jkg}^{-1}[/math] |
+
+Options:
+ক. সমোষ্ণ প্রক্রিয়া কাকে বলে?
+খ. পৃথিবীর তড়িৎ বিভব শূন্য ধরা হয় কেন? ব্যাখ্যা কর ।
+গ. লিখন পানির তাপমাত্রা কতটুকু বৃদ্ধি করেছিল? নির্ণয় কর।
+ঘ. উদ্দীপকের কোন প্রক্রিয়াটি অধিক পরিবেশবান্ধব? তোমার উত্তরের সপক্ষে যুক্তি দাও ৷
+
+
+Correct Answer: 
+
+Solution:
+কযে পরিবর্তনে গ্যাসের তাপমাত্রা সর্বদা ধ্রুব থাকে তাকে সমোষ্ণ পরিবর্তন বলে। স্থির তাপমাত্রায় যদি কোনো গ্যাসকে প্রসারিত অথবা সঙ্কুচিত করা হয় তবে সেই পরিবর্তনকে সমোষ্ণ প্রসারণ বা সমোষ্ণ সঙ্কোচন বলে এবং যে প্রক্রিয়ায় এ পরিবর্তন ঘটে তাকে সমোষ্ণ প্রক্রিয়া বলে। [math]\\[/math]
+ খপৃথিবী একটি তড়িৎ পরিবাহক। ধনাত্মকভাবে আহিত বস্তুকে ভূ-সংযুক্ত করলে পৃথিবী থেকে ইলেকট্রন এসে বস্তুকে নিস্তড়িত করে। আর ঋণাত্মকভাবে আহিত বস্তুকে পৃথিবীর সাথে সংযুক্ত করলে বস্তু থেকে ইলেকট্রন ভূমিতে প্রবাহিত হয়, ফলে বস্তুটি নিস্তড়িত হয়। পৃথিবী এতো বিরাট যে, এতে আধান যোগ-বিয়োগ করলে এর বিভবের পরিবর্তন হয় না। পৃথিবী প্রতিনিয়ত বিভিন্ন বস্তু থেকে আধান গ্রহণ করে আবার সাথে সাথে অন্য বস্তুকে আধান সরবরাহও করে। ফলে এর আধানের কোনো পরিবর্তন হয় না। আধানের পরিবর্তন না হওয়ায় বিভবেরও কোনো পরিবর্তন হয় না। এজন্যই পৃথিবীর বিভবকে শূন্য ধরা হয়। [math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+সরবরাহকৃত তাপ, [math]\rm{Q}=84 \mathrm{~kJ}=84 \times 10^{3} \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}=5 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির আপেক্ষিক তাপ, [math]\mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad \mathrm{Q}=\mathrm{mS} \Delta \theta \\ \Rightarrow \Delta \theta=\dfrac{Q}{\mathrm{mS}}=\dfrac{84 \times 10^{3}}{5 \times 4200} \mathrm{~K}=4 \mathrm{~K} \\ \Delta \theta=4^{\circ} \mathrm{C} \end{array}[/math]
+অতএব, লিখন পানির তাপমাত্রা [math]4^{\circ} \mathrm{C}[/math]
+ বৃদ্ধি করেছিল।[math]\\[/math]
+ ঘলিখনের ক্ষেত্রে,এখানে,[math]\hspace{1 cm}\begin{array}{l} \mathrm{T}_{1}=30^{\circ} \mathrm{C}=(273+30) \\ \mathrm{K}=303 \mathrm{~K} \\ \mathrm{T}_{2}=303+4=307 \mathrm{~K} \\ \mathrm{m}=5 \mathrm{~kg} \\ \mathrm{S}=4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1} \end{array}[/math]
+এন্ট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{dS}_{1}=\mathrm{mS} l \mathrm{n} \dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}\\ \Rightarrow \mathrm{dS}_{1}=5 \times 4200 \times \ln \dfrac{307}{303} \mathrm{JK}^{-1} \\ \therefore \mathrm{dS}_{1}=275.4 \mathrm{~J} \mathrm{~K}^{-1} \end{array}[/math]
+নিয়নের ক্ষেত্রে :[math]\hspace{1 cm}[/math]
+ভর, [math]\mathrm{m}=5 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বাষ্পীভবনের আঃ সুপ্ততাপ, [math]l_{\mathrm{v}}=2.26 \times 10^{6} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা, [math]\mathrm{T}=100^{\circ} \mathrm{C}=373 \mathrm{~K}[/math]
+এন্ট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\begin{array}{l}\quad\mathrm{dS}_{2}=\dfrac{\mathrm{dQ}}{\mathrm{T}} \\ \Rightarrow \mathrm{dS}_{2}=\dfrac{\mathrm{m} l_{\mathrm{v}}}{\mathrm{T}}=\dfrac{5 \times 2.26 \times 10^{6}}{373} \mathrm{JK}^{-1} \\ \therefore \mathrm{dS}_{2}=30294.9 \mathrm{~J} \mathrm{~K}^{-1} \end{array}[/math]
+দেখা যাচ্ছে, [math]\mathrm{dS}_{2}>\mathrm{dS}_{1}[/math]
+ অর্থাৎ নিয়নের প্রক্রিয়ায় এন্ট্রপির বেশি বৃদ্ধি পেয়েছে। আমরা জানি, যে প্রক্রিয়ায় এন্ট্রপি যত কম বৃদ্ধি পায় সেটি তত পরিবেশ বান্ধব। অতএব, উদ্দীপকের লিখনের প্রক্রিয়াটি অধিক পরিবেশ বান্ধব।
+
+Explanation:
+ক সমোষ্ণ প্রক্রিয়া হলো এমন একটি তাপীয় প্রক্রিয়া যেখানে পদ্ধতির তাপমাত্রা ধ্রুব থাকে; বাইরে থেকে তাপ আদান-প্রদান করে তাপমাত্রা অপরিবর্তিত রাখা হয়।  
+
+খ তড়িৎ বিভব কেবল আপেক্ষিক পরিমাপ, তাই একটি রেফারেন্স দরকার; পৃথিবীকে শূন্য ধরা হয় কারণ এটি বিশাল কন্ডাক্টর হিসেবে চার্জ শোষণ করলে তার বিভবে পার্থক্য নগন্য হওয়ায় সুবিধাজনক এবং প্রচলিত রেফারেন্স হিসেবে ব্যবহার করা হয়।  
+
+গ ব্যবহার সূত্র [math]Q=mc\Delta T[/math]। এখানে [math]Q=84\ \text{kJ}=[math]84000\ \mathrm{J}[/math], [math]m=5\ \mathrm{kg}[/math], [math]c=4200\ \mathrm{J\,kg^{-1}\,K^{-1}}[/math], তাই [math]\Delta T=\dfrac{84000}{5\times4200}=4\ \mathrm{K}[/math] এবং চূড়ান্ত তাপমাত্রা [math]30^\circ\mathrm{C}+4^\circ\mathrm{C}=34^\circ\mathrm{C}[/math]।  
+
+ঘ উদ্দীপকের তাপ দেওয়ার প্রক্রিয়াগুলোর মধ্যে প্রথমটি (পানিকে শুধুমাত্র গরম করা) বেশি পরিবেশবান্ধব, কারণ এর খরচকৃত শক্তি [math]8.4\times10^{4}\ \mathrm{J}[/math] মাত্র; পূর্ণ বাষ্পীভবনের জন্য ৫ কেজির ক্ষেত্রে শক্তি দরকার [math]2.26\times10^{6}\times5=1.13\times10^{7}\ \mathrm{J}[/math], যা অনেক বেশি—অতএব জ্বালানি ও নির্গমন কম হয় প্রথম পদ্ধতিতে।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 419544)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে কার্নো ইঞ্জিনের কার্যকরী পদার্থের চারটি ধাপ দেখানো হলো-
+
+
+[Image]
+
+
+Options:
+ক. অভ্যন্তরীণ শক্তি কাকে বলে?
+খ. জগতের এনট্রপি বৃদ্ধি পাচ্ছে— ব্যাখ্যা করো
+গ. C বিন্দুতে চাপ নির্ণয় করো।
+ঘ. প্রতিটি ধাপে এনট্রপি হিসাব করে ইঞ্জিনটির প্রত্যাগামিতা কি যাচাই করা সম্ভব? গাণিতিক বিশ্লেষণপূর্বক তোমার মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রত্যেক সিস্টেমের মধ্যে এমন একটি নির্দিষ্ট পরিমাণ শক্তি সুপ্ত অবস্থায় থাকে যার দ্বারা সিস্টেমটি অবস্থা অনুযায়ী বিভিন্ন প্রকার শক্তি উৎপন্ন বা শক্তি রূপান্তর করতে পারে। সিস্টেমে সঞ্চিত এ শক্তিকে অভ্যন্তরীণ শক্তি বলে। [math]\\[/math]
+ খপ্রকৃতিতে সবকিছুই সাম্যাবস্থায় থাকতে চেষ্টা করে। একটি সিস্টেম যতই সাম্যাবস্থার দিকে এগিয়ে যায়, ততই তার কাছ থেকে কাজ পাওয়ার সম্ভাবনা কমে যায়। সাম্যাবস্থায় পৌঁছালে সিস্টেম থেকে আর কোনো কাজই পাওয়া যাবে না। সিস্টেমের এই শক্তির রূপান্তরের অক্ষমতা বা অসম্ভাব্যতাই হচ্ছে এনট্রপি। এক বা একাধিক সিস্টেম যত সাম্যাবস্থার দিকে এগিয়ে যায়, তাদের এনট্রপিও তত বাড়তে থাকে । সাম্যাবস্থায় এনট্রপি সবচেয়ে বেশি হয়। অর্থাৎ, যখন কোনো সিস্টেম থেকে আর কাজ পাওয়া যায় না, তখন তার এনট্রপি হয় সর্বাধিক। আমরা জানি, সকল স্বতঃস্ফূর্ত পরিবর্তন সর্বদা সাম্যাবস্থার দিকে পরিচালিত হয়। সুতরাং, সকল স্বতঃস্ফূর্ত পরিবর্তনেই এনট্রপি বৃদ্ধি পায়। যেহেতু প্রকৃতিতে সবকিছুই সাম্যাবস্থা পেতে চায়, তাই বলা যায় যে, জগতে এনট্রপি ক্রমাগত বাড়ছে। [math]\\[/math]
+ গচিত্রে, P [math]-[/math]
+V লেখ থেকে আমরা দেখতে পাই যে, BC প্রক্রিয়াটি রুদ্ধতাপীয় প্রক্রিয়া।এখানে,B বিন্দুতে চাপ, [math]\mathrm{P}_{1}=A .6 \times 10^{5} \mathrm{~m}^{-2}[/math]
+B বিন্দুতে তাপমাত্রা, [math]\mathrm{T}_{1}=1100 \mathrm{~K}[/math]
+C বিন্দুতে তাপমাত্রা, [math]\mathrm{T}_{2}=550 \mathrm{~K}[/math]
+C বিন্দুতে চাপ, [math]P_{2}=?[/math]
+ [math]\gamma=1.4[/math]
+ (ধরে নিয়ে)আমরা জানি, রুদ্ধতাপীয় প্রক্রিয়ার ক্ষেত্রে,[math]\mathrm{T}_{1} \mathrm{P}_{1}^{\frac{1-\gamma}{\gamma}}=\mathrm{T}_{2} \mathrm{P}_{2}^{\frac{1-\gamma}{\gamma}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{{T}_{1}}{T_{2}}=\left(\frac{P_{2}}{P_{1}}\right)^{\frac{1-\gamma}{\gamma}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{1100}{550}=\left(\frac{P_{2}}{4.6 \times 10^{5}}\right)^{\frac{1-1.4}{1.4}}[/math]
+ [math]\Rightarrow[/math]
+ [math]2=\left(\frac{P_{2}}{4.6 \times 10^{5}}\right)^{-\frac{2}{7}}[/math]
+ [math]\Rightarrow[/math]
+ [math]2=\left(\frac{4.6 \times 10^{5}}{P_{2}}\right)^{\frac{2}{7}}[/math]
+ [math]\Rightarrow[/math]
+ [math](2)^{\frac{7}{2}}=\frac{4.6 \times 10^{5}}{P_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]11.3137=\frac{4.6 \times 10^{5}}{P_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]P_{2}=\frac{4.6 \times 10^{5}}{11.3137}=4.0658 \times 10^{4} \mathrm{~Pa} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ ঘএখানে,উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=1100 \mathrm{~K}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=550 \mathrm{~K}[/math]
+উৎসের তাপ, [math]Q_{1}=500 \mathrm{~J}[/math]
+আমরা জানি,সমোষ্ণ প্রক্রিয়ায়, [math]\mathrm{dS}=\frac{\mathrm{Q}}{\mathrm{T}}[/math]
+ [math]\therefore[/math]
+ প্রথম ধাপে এনট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS}_{1} & =\frac{\mathrm{Q}_{1}}{T_{1}}=\frac{500}{1100} \\& =0.45 \mathrm{\ JK}^{-1}\end{aligned}[/math]
+যেহেতু চক্রের দ্বিতীয় ও চতুর্থ ধাপ রুদ্ধতাপীয় প্রক্রিয়ার মধ্য দিয়ে যায়, তাই এক্ষেত্রে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{2}=\mathrm{dS}_{4}=0[/math]
+ [math]\therefore[/math]
+ তৃতীয় ধাপে বর্জিত তাপ [math]\mathrm{Q}_{2}[/math]
+ হলে,[math]\frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{Q}_{2}=\frac{\mathrm{Q}_{1} \times \mathrm{T}_{2}}{\mathrm{~T}_{1}}=\frac{500 \times 550}{1100}=250 \mathrm{~J}[/math]
+ [math]\therefore[/math]
+ তৃতীয় ধাপে এনট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS}_{3} & =\frac{-\mathrm{Q}_{2}}{\mathrm{~T}_{2}}=-\frac{250}{550} \\& =-0.45 \mathrm{\ JK}^{-1}\end{aligned}[/math]
+ [math]\therefore[/math]
+ পূর্ণ চক্রের জন্য এনট্রপির পরিবর্তন,[math]\mathrm{dS} = \mathrm{dS}_{1}+\mathrm{d} S_{2}+\mathrm{d} S_{3}+\mathrm{d} S_{4}[/math]
+ [math]\begin{array}{l}=0.45+0+0-0.45 \\=0\end{array}[/math]
+ [math]\therefore[/math]
+ পূর্ণ চক্রের এনট্রপির পরিবর্তন শূন্য। প্রতিটি ধাপে এন্ট্রপি হিসাব করে ইঞ্জিনটির প্রত্যাগামিতা যাচাই করা সম্ভব এবং ইঞ্জিনটি প্রত্যাগামি।
+
+Explanation:
+ব্যাখ্যা:
+
+ক অভ্যন্তরীণ শক্তি হল একটি পদার্থের সমস্ত অণু বা কণার মাইক্রোস্কোপিক গতি ও অবস্থানগত শক্তির মোট; আদর্শ গ্যাসের জন্য এটি কেবল তাপমাত্রার উপর নির্ভর করে, [math]U = n C_V T[/math] (উদাহরণ: এক-পারমাণবিক গ্যাসে [math]U=\tfrac{3}{2}nRT[/math])। 
+
+খ জগতের (বহিরাগত) এনট্রপি বৃদ্ধি পাচ্ছে কারণ অসংরক্ষিত/অনিন্দ্রিয় প্রক্রিয়ায় তাপ বিচ্যুতি ঘটে এবং তাপ অবশোষণ-উৎসরণ মিশ্রন করে; ধ্রুবক তাপমাত্রায় তাপের স্থানান্তরে সাধারণভাবে [math]\Delta S_{\rm universe}\ge0[/math] হয় — বিপরীতমুখী প্রক্রিয়া ছাড়া সমান শূন্য হয় না। 
+
+গ C বিন্দুতে চাপ নির্ণয়ের জন্য প্রয়োজনীয় সম্পর্ক হলো আদর্শ গ্যাস ও আডিয়াব্যাটিক শর্ত: সহজভাবে [math]p_C=\dfrac{nRT_C}{V_C}[/math]; যদি B→C আডিয়াব্যাটিক হয় এবং [math]pV^{\gamma}=\text{const}[/math] প্রযোজ্য হয়, তবে [math]p_C=p_B\left(\dfrac{T_C}{T_H}\right)^{\gamma/(\gamma-1)}[/math] (এখানে [math]T_H=T_B[/math]) — সুতরাং সংখ্যাগত মান পেতে পি_B বা V_C জানা প্রয়োজন। 
+
+ঘ হ্যাঁ — প্রত্যেক ধাপের এনট্রপি পরিবর্তন গণনা করে ইঞ্জিনটি প্রত্যাগামী কি না তা যাচাই করা যায়: সমতাপীয় ধাপে [math]\Delta S=Q_{\rm rev}/T[/math], আডিয়াব্যাটিকভাবে প্রত্যাগামী হলে [math]\Delta S=0[/math]; সম্পূর্ণ চক্রের জন্য [math]\Delta S_{\rm universe}=Q_H/T_H - Q_C/T_C[/math] হবে, যদি এটি শূন্য হয় চক্রটি প্রত্যাগামী (এবং [math]\eta=1-T_C/T_H[/math]) অন্যথায় [math]\Delta S_{\rm universe}>0[/math] এবং চক্র অসমর্থনীয়।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 419545)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+সিয়াম 1 kg বরফকে -10°C তাপমাত্রা হতে 30°C তাপমাত্রার পানিতে পরিণত করে। সামির 30°C তাপমাত্রার 1 kg পানিকে 100°C তাপমাত্রার বাষ্পে পরিণত করে। সিয়াম দাবি করলো তার প্রক্রিয়াটি বেশি শৃঙ্খল।
+
+[math]S_{\mathrm{w}}=4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}, L_{\mathrm{f}}=3.36 \times 10^{5} \mathrm{Jkg}^{-1}[/math] [math]S_{\mathrm{ice}}=2100 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math] এবং [math]\mathrm{L}_{\mathrm{v}}=2.26 \times 10^{6} \mathrm{Jkg}^{-1}[/math]
+
+Options:
+ক. তাপগতিবিদ্যার প্রথম সূত্র বিবৃত করো।
+খ. রুদ্ধতাপীয় প্রসারণ এবং সংকোচনে অন্তঃস্থ শক্তির পরিবর্তন ব্যাখ্যা করো।
+গ. সামিরের প্রক্রিয়ায় মোট প্রয়োজনীয় তাপ নির্ণয় করো।
+ঘ. সিয়ামের দাবি সঠিক কিনা— গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+কযদি তাপকে সম্পূর্ণরূপে কাজে বা কাজকে সম্পূর্ণরূপে তাপে রূপান্তরিত করা যায়, তবে কাজ তাপের সমানুপাতিক হয়। [math]\\[/math]
+ খযে প্রক্রিয়ায় সিস্টেম থেকে তাপ বাইরে যায় না বা বাইরে থেকে কোন তাপ সিস্টেমে প্রবেশ করে না তাকে রূদ্ধতাপীয় প্রক্রিয়া বলে। যেহেতু রূদ্ধতাপীয় প্রক্রিয়ায় সিস্টেমে কোন তাপ প্রবেশ করতে পারে না বা সিস্টেম থেকে কোন তাপ বেরিয়ে যেতে পারে না, সুতরাং, dQ = 0 ।অতএব, তাপগতিবিদ্যার প্রথম সূত্র থেকে আমরা পাই[math]\mathrm{dQ}=0=\mathrm{dU}+\mathrm{dW}[/math]
+ [math]\therefore \mathrm{dW}=-\mathrm{dU}[/math]
+রুদ্ধতাপীয় প্রসারণের সময় সিস্টেম কর্তৃক সম্পাদিত কাজ (dW) সিস্টেমের অভ্যন্তরীণ শক্তি (dU) দ্বারা সম্পাদিত হয় বলে সিস্টেমের অভ্যন্তরীণ শক্তি তথা তাপমাত্রা হ্রাস পায় অর্থাৎ সিস্টেম শীতল হয়। পক্ষান্তরে রূদ্ধতাপীয় সংকোচনের সময় উল্টো ঘটনা ঘটে এবং সিস্টেম গরম হয় । অর্থাৎ রূদ্ধতাপীয় প্রসারণে অন্তঃস্থ শক্তির মান ঋণাত্মক ও রুদ্ধতাপীয় সংকোচণে অন্তঃস্থ শক্তির মান ধনাত্মক হয় । [math]\\[/math]
+ গএখানে,পানির ভর, [math]m=1 \mathrm{~kg}[/math]
+পানির আপেক্ষিক তাপ, [math]s=4200 \mathrm{~J} \cdot \mathrm{kg}^{-1} \cdot \mathrm{K}^{-1}[/math]
+পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]l_{\mathrm{v}}=2268000 \mathrm{~J} \cdot \mathrm{kg}^{-1}[/math]
+মোট প্রয়োজনীয় তাপ, Q = ?30°C তাপমাত্রার 1 kg পানিকে 100°C তাপমাত্রায় উন্নীত করতে প্রয়োজনীয় তাপ,[math]\begin{aligned}Q_{1} & =m s \Delta \theta \\& =1 \times 4200 \times(100-30) \\& =294000 \mathrm{~J}\end{aligned}[/math]
+100°C তাপমাত্রার 1 kg পানিকে 100°C তাপমাত্রার বাষ্পে পরিণত করতে প্রয়োজনীয় তাপ,[math]Q_{2}=m l_{\mathrm{v}}=1 \times 2268000=2268000 \mathrm{~J}[/math]
+মোট তাপ,[math]\begin{aligned}Q & =Q_{1}+Q_{2} \\& =294000 \mathrm{~J}+2268000 \mathrm{~J} \\& =2562000 \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+ ঘকোনো প্রক্রিয়ার বিশৃঙ্খলার মাত্রা নির্ধারিত হয় এনট্রপির পরিবর্তনের দ্বারা। এনট্রপির পরিবর্তন বেশি হলে বিশৃঙ্খলার মাত্রা বেশি হয়। পক্ষান্তরে, এনট্রপির পরিবর্তন কম হলে প্রক্রিয়াটি বেশি শৃঙ্খল হয়।এখানে,বরফের ভর, m = 1 kgবরফের আপেক্ষিক তাপ, [math]S_{\text {ice }}=2100 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=-10^{\circ} \mathrm{C}[/math]
+ [math]=(273-10) \mathrm{K}=263 \mathrm{~K}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}[/math]
+ [math]=(273+0) \mathrm{K}=273 \mathrm{~K}[/math]
+সিয়ামের ক্ষেত্রেঃ1 kg বরফকে – 10°C তাপমাত্রা থেকে 0°C তাপমাত্রায় পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}[/math]
+ হলে,[math]\mathrm{dS}_{1}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{ice}} \mathrm{dT}}{\mathrm{T}}=\mathrm{ms}_{\mathrm{ice}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}}[/math]
+ [math]\begin{array}{l}=\mathrm{mS}_{\mathrm{ice}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\=1 \times 2100 \times \ln \left(\frac{273}{263}\right) \\=78.3673 \mathrm{\ JK}^{-1}\end{array}[/math]
+এখানে,ভর, m = 1 kgবরফ গলনের আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{f}}=3.36 \times 10^{5} \mathrm{~J} \mathrm{~kg}^{-1}[/math]
+তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=(273+0) \mathrm{K}[/math]
+ [math]=273 \mathrm{~K}[/math]
+0°C তাপমাত্রার 1 kg বরফকে 0°C তাপমাত্রার 1 kg পানিতে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{2}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{dS}_{2}=\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{\mathrm{mL}_{\mathrm{f}}}{\mathrm{T}} \\=\frac{1 \times 3.36 \times 10^{5}}{273} \\=1230.769 \mathrm{\ JK}^{-1}\end{array}[/math]
+এখানে,ভর, m = 1 kgপানির আপেক্ষিক তাপ, [math]\mathrm{S}_{\mathrm{W}}=4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=0^{\circ} \mathrm{C}[/math]
+ [math]=(273+0) \mathrm{K}=273 \mathrm{~K}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=30^{\circ} \mathrm{C}[/math]
+ [math]=(273+30)=303 \mathrm{~K}[/math]
+0°C তাপমাত্রার 1kg পানিকে 30°C তাপমাত্রার 1kg পানিতে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{3}[/math]
+, হলে,[math]\mathrm{dS}_{3}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{w}} \mathrm{dT}}{\mathrm{T}}=\mathrm{mS}_{\mathrm{w}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{d} T}{\mathrm{~T}}[/math]
+ [math]\begin{array}{l}=\mathrm{mS}_{\mathrm{w}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\=1 \times 4200 \times \ln \left(\frac{303}{273}\right) \\=437.896 \mathrm{\ Jk}^{-1}\end{array}[/math]
+সিয়ামের প্রক্রিয়ায় এনট্রপির মোট পরিবর্তন,[math]\begin{aligned}\mathrm{dS} & =\mathrm{dS}_{1}+\mathrm{dS}_{2}+\mathrm{dS}_{3} \\& =(78.3673+1230.769+437.896) \mathrm{JK}^{-1} \\& =1747.033 \mathrm{\ JK}^{-1}\end{aligned}[/math]
+সামিরের ক্ষেত্রেঃএখানে,ভর, m = 1 kgপানির আপেক্ষিক তাপ, [math]S_{W}=4200 \mathrm{\ Jkg}^{-1} \mathrm{k}^{-1}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}[/math]
+ [math]=(273+30) \mathrm{K}=303 \mathrm{~K}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=100^{\circ} \mathrm{C}[/math]
+ [math]=(273+100) \mathrm{K}=373 \mathrm{~K}[/math]
+0°C তাপমাত্রার 1 kg পানিকে 100°C তাপমাত্রার 1kg পানিতে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}^{\prime}[/math]
+ হলে,[math]\mathrm{dS}_{1}^{\prime}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2} \frac{\mathrm{dQ}}{\mathrm{T}}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{W}} \mathrm{dT}}{\mathrm{T}}=\mathrm{mS}_{\mathrm{W}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}}[/math]
+ [math]\begin{array}{l}=\mathrm{mS}_{\mathrm{w}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\=1 \times 4200 \times \ln \left(\frac{373}{303}\right) \\=872.95 \mathrm{\ JK}^{-1}\end{array}[/math]
+এখানে,ভর, m = 1 kgপানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{v}}=2.26 \times 10^{6} \mathrm{Jkg}^{-1}[/math]
+তাপমাত্রা, [math]\mathrm{T}=100^{\circ} \mathrm{C}[/math]
+ [math]=(273+100) K=373 \mathrm{~K}[/math]
+100°C তাপমাত্রার 1kg পানিকে 100°C তাপমাত্রার 1kg বাষ্পে পরিণত করতে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{2}{ }^{\prime}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{dS}_{2}{ }^{\prime}=\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{\mathrm{mL}_{V}}{\mathrm{~T}} \\=\frac{1 \times 2.26 \times 10^{6}}{373} \\=6058.98 \mathrm{\ JK}^{-1}\end{array}[/math]
+সামিরের প্রক্রিয়ায় এনট্রপির মোট পরিবর্তন,[math]\begin{array}{l}\mathrm{dS}^{\prime}=\mathrm{dS}_{1}{ }^{\prime}+\mathrm{dS}_{2}{ }^{\prime} \\=(872.95+6058.98) \mathrm{JK}^{-1} \\=6931.93 \mathrm{JK}^{-1}\end{array}[/math]
+দেখা যাচ্ছে, [math]\mathrm{dS}<\mathrm{dS}^{\prime} \text {. }[/math]
+যেহেতু, সিয়ামের প্রক্রিয়ায় এনট্রপির পরিবর্তন সামিরের প্রক্রিয়ার থেকে কম, তাই তার প্রক্রিয়াটি বেশি শৃঙ্খল। এজন্য বলা যায় যে, সিয়ামের দারি সঠিক।
+
+Explanation:
+সমাধান:
+
+ক তাপগতিবিদ্যার প্রথম সূত্র: সিস্টেমে যোগ হওয়া তাপ সমান অন্তঃস্থ শক্তির পরিবর্তন ও সিস্টেমের কাজের সমষ্টি, [math]\Delta Q=\Delta U+W[/math]।
+
+খ রুদ্ধতাপীয় (adiabatic) প্রক্রিয়ায় তাপ বিনিময় নেই [math]\Delta Q=0[/math], তাই [math]\Delta U=-W[/math]; বিস্তারে সিস্টেম কাজ করে এবং অন্তঃস্থ শক্তি (তাপে) কমে, সংকোচনে বাইরে কাজ করা হলে অন্তঃস্থ শক্তি বাড়ে।
+
+গ সামিরের প্রয়োজনীয় মোট তাপ: প্রথমে গরম করা [math]Q_1=mc\Delta T=1\times4200\times(100-30)=2.94\times10^5\ \mathrm{J}[/math], বাষ্পীকরণে [math]Q_2=mL_v=2.26\times10^6\ \mathrm{J}[/math], মোট [math]Q=2.94\times10^5+2.26\times10^6=2.554\times10^6\ \mathrm{J}[/math]।
+
+ঘ সিয়ামের প্রক্রিয়ার তাপ এবং এন্ট্রপি: তাপ যোগ [math]Q=2100\times10+3.36\times10^5+4200\times30=4.83\times10^5\ \mathrm{J}[/math]। এন্ট্রপি পরিবর্তন (রিভার্সিবল ধাপে) হিসাব করলে সিয়ামের মোট [math]\Delta S\approx78.3+1230.7+439.3=1.748\times10^3\ \mathrm{J/K}[/math], সামিরের [math]\Delta S\approx4200\ln\frac{373.15}{303.15}+\frac{2.26\times10^6}{373.15}\approx6.929\times10^3\ \mathrm{J/K}[/math]। সুতরাং সিয়ামের প্রক্রিয়ায় এন্ট্রপি বৃদ্ধি ছোট হওয়ায় তার দাবিটি ঠিক — তার প্রক্রিয়াটি অপেক্ষাকৃত বেশি "শৃঙ্খল" (কম অসংগঠিত)।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 419543)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে P – V লেখচিত্র দ্বারা একটি চক্রীয় প্রক্রিয়া দেখানো হয়েছে।
+
+এখানে, A বিন্দুতে তাপমাত্রা = 300 K
+
+স্থির আয়তনে মোলার আঃতাপ [math]=20.78 \mathrm{Jmol}^{-1} \mathrm{~K}^{-1}[/math]
+
+মোল সংখ্যা = 1.6
+
+[math]\gamma=1.4[/math] এবং [math]1 \mathrm{~atm}=10^{5} \mathrm{Nm}^{-2}[/math]
+
+Options:
+ক. অন্তঃস্থ শক্তির সংজ্ঞা দাও ।
+খ. কার্নোর ইঞ্জিনের কার্যনির্বাহক বস্তু পরিবর্তন করলে ঐ ইঞ্জিনের দক্ষতার কোনরূপ পরিবর্তন হবে না কেন? ব্যাখ্যা করো ।
+গ. AB পথে কৃতকাজের মান নির্ণয় করো ।
+ঘ. উদ্দীপকের চক্রীয় প্রক্রিয়ায় এন্ট্রপির পরিবর্তন শূন্য হবে কিনা— গাণিতিক বিশ্লেষণের সাহায্যে মতামত দাও ৷
+
+
+Correct Answer: 
+
+Solution:
+ককোনো সিস্টেমের সকল কণার মোট বিভব শক্তি ও গতি শক্তি যার বিনিময়ে সিস্টেম বাহ্যিক শক্তি সরবরাহ ছাড়া কাজ করতে পারে, তাকে সিস্টেমের অন্তঃস্থ শক্তি বলে । [math]\\[/math]
+ খআমরা জানি, কার্নো ইঞ্জিনের দক্ষতা [math]\eta=\left(1-\frac{T_{2}}{T_{1}}\right) \times 100 \%=[/math]
+ [math]\left(\frac{\mathrm{T}_{1}-\mathrm{T}_{2}}{\mathrm{~T}_{1}}\right) \times 100 \%[/math]
+. দক্ষতার সমীকরণ থেকে দেখা যায়, ইঞ্জিনেরদক্ষতা কেবল তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা [math]\mathrm{T}_{1}[/math]
+ ও [math]\mathrm{T}_{2}[/math]
+ এর ওপর নির্ভর করে। কার্যনির্বাহী বস্তুর প্রকৃতির ওপর নির্ভর করে না। এজন্য, কার্নোর ইঞ্জিনের কার্যনির্বাহক বস্তু পরিবর্তন করলে ঐ ইঞ্জিনের দক্ষতার কোনোরূপ পরিবর্তন হবে না । [math]\\[/math]
+ গচিত্রে প্রদর্শিত P – V লেখটিতে A হতে B বিন্দুতে গ্যাসটি সমোষ্ণ প্রক্রিয়ায় সংকুচিত হয়। এক্ষেত্রে A বিন্দুতে গ্যাসটির চাপ ও আয়তন যথাক্রমে 2. atm ও 20 L এবং B বিন্দুতে গ্যাসটির চাপ ও আয়তন যথাক্রমে 4 atm 3 10 L।এখানে,মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.31 \mathrm{~J} \cdot \mathrm{mol}^{-1} \cdot \mathrm{K}^{-1}[/math]
+তাপমাত্রা, [math]\mathrm{T}_{1}=300 \mathrm{~K}[/math]
+অবস্থানে আয়তন, [math]V_{1}=20 \mathrm{~L}[/math]
+B অবস্থানে আয়তন, [math]\mathrm{V}_{2}=10 \mathrm{~L}[/math]
+মোল সংখ্যা, [math]\mathrm{n}=1.6 \text { mole }[/math]
+আমরা জানি,সমোষ্ণ প্রক্রিয়ায় কৃতকাজ,[math]\begin{aligned}{\mathrm{W}} & =-\mathrm{nRT}_{1} \ln \left(\frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}\right) \\& =-1.6 \times 8.31 \times 300 \times \ln \left(\frac{10}{20}\right)\end{aligned}[/math]
+ [math]=-2764.82 \mathrm{~J}[/math]
+ [ সিস্টেমের ওপর কাজ সম্পাদিত হওয়ায় কাজ ঋণাত্মক হবে ][math]\therefore 1.6 \text { mole }[/math]
+ গ্যাসের জন্য AB অংশে কৃতকাজ [math]=-2764.82 \mathrm{~J} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ ঘচিত্রে প্রদর্শিত P - V লেখচিত্রে [math]\mathrm{A} \rightarrow \mathrm{B} \rightarrow \mathrm{C} \rightarrow \mathrm{A}[/math]
+ চক্রীয় প্রক্রিয়ায়[math]A \rightarrow B[/math]
+ সমোষ্ণ (সংকোচন) প্রক্রিয়া, [math]B \rightarrow C[/math]
+ সমআয়তন প্রক্রিয়া,C → A রুদ্ধতাপীয় প্রসারণ প্রক্রিয়া।আমরা জানি, তাপ গতিবিদ্যার ১ম সূত্রানুসারে,[math]d Q=d U+d W[/math]
+এখানে, dQ হলো তাপের পরিবর্তন,dU হলো অন্তঃস্থ শক্তির পরিবর্তন ওdW হলো কৃতকাজের পরিবর্তন(i) (A → B) (সমোষ্ণ সংকোচন): আমরা জানি, সমোষ্ণ প্রক্রিয়ায়, du=0[math]\therefore[/math]
+ dQ = dw‘গ’ থেকে পাই, AB পথে কৃতকাজ dw = [math]-[/math]
+ 2764.82 Jএখন, AB পথে এনট্রপির পরিবর্তন [math]\mathrm{S}_{1}[/math]
+ হলে,এখানে,dQ = dW = -2764.82 Jতাপমাত্রা, T= 300 K[math]\begin{array}{l}\mathrm{dS}_{1}=\frac{\mathrm{dQ}}{\mathrm{T}}=\frac{-2764.82}{300} \\=-9.216 \mathrm{JK}^{-1}\end{array}[/math]
+(ii) (B → C) (সমআয়তন প্রক্রিয়া): আমরা জানি, সমআয়তন প্রক্রিয়ায়[math]\mathrm{dW}=0 \therefore \mathrm{dQ}=\mathrm{dU}[/math]
+এখানে,B বিন্দুতে চাপ, [math]P_{1}=4 \mathrm{~atm}[/math]
+তাপমাত্রা, [math]\mathrm{T}_{1}=300 \mathrm{~K}[/math]
+C বিন্দুতে চাপ, [math]P_{2}=5.28 \mathrm{~atm}[/math]
+তাপমাত্রা, [math]T_{2}=?[/math]
+C বিন্দুর তাপমাত্রা [math]\mathrm{T}_{2}[/math]
+ হলে, [math]\frac{P_{1}}{T_{1}}=\frac{P_{2}}{T_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{4}{300}=\frac{5.28}{\mathrm{~T}_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\frac{5.28 \times 300}{4}=396 \mathrm{~K}[/math]
+আবার, [math]\mathrm{dU}=\mathrm{nC}_{\mathrm{V}} \mathrm{dT}[/math]
+ [math]\therefore[/math]
+ BC পথে, dQ = nCvdT এখন, BC পথে এনট্রপির পরিবর্তন [math]\mathrm{S}_{2}[/math]
+ হলে,এখানে,গ্যাসের মোল সংখ্যা, n = 1.6স্থির আয়তনে মোলার আঃ তাপ,[math]\begin{array}{l}\mathrm{C}_{\mathrm{V}}=20.78 \mathrm{~J} \mathrm{~mol} \mathrm{~m}^{-1} \mathrm{~K}^{-1} \\\mathrm{~T}_{1}=300 \mathrm{~K}, \mathrm{~T}_{2}=396 \mathrm{~K}\end{array}[/math]
+ [math]\mathrm{dS}_{2}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{nC} \mathrm{v}_{\mathrm{v}} \mathrm{dT}}{\mathrm{T}}=\mathrm{nC}_{\mathrm{V}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}}=n C_{V} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}[/math]
+ [math]\begin{aligned}\therefore \mathrm{dS}_{2} & =\mathrm{nC}_{\mathrm{v}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\& =1.6 \times 20.78 \times \ln \frac{396}{300} \\& =9.23 \mathrm{\ bJK}^{-1}\end{aligned}[/math]
+(iii) (C → A) (রুদ্ধতাপীয় প্রক্রিয়া): আমরা জানি, রুদ্ধতাপীয় প্রক্রিয়ায় সিস্টেম থেকে কোনো তাপ বাইরে যায় না বা বাইরে থেকে কোনো তাপ সিস্টেমে আসে না। তাই dQ = 0, এজন্য CA পথে এনট্রপির পরিবর্তন, [math]\mathrm{dS}_{3}=0[/math]
+চক্রীয় প্রক্রিয়ায় এনট্রপির পরিবর্তন [math]\mathrm{dS}=\mathrm{d} S_{1}+\mathrm{d} S_{2}+\mathrm{d} S_{3}[/math]
+ [math]\begin{array}{l}=(-9.216+9.23+0) \mathrm{JK}^{-1} \\=0.014 \mathrm{\ JK}^{-1} \approx 0 \mathrm{\ JK}^{-1}\end{array}[/math]
+সুতরাং, উদ্দীপকের চক্রীয় প্রক্রিয়ায় এনট্রপির পরিবর্তন প্রায় শূন্য হবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক অন্তঃস্থ শক্তি হলো সিস্টেমের অণু ও পরমাণুদের সমস্ত আঁতপাতিক ও সম্ভাব্যতার অতিসূক্ষ্ম গতিশক্তি ও সম্ভাব্য শক্তির যোগফল; আদর্শ গ্যাসের জন্য এটি কেবল তাপমাত্রার উপর নির্ভর করে এবং [math]U=nC_VT[/math], পরিবর্তন হলে [math]\Delta U=nC_V\Delta T[/math]।
+
+খ কার্নো ইঞ্জিনের দক্ষতা কেবল তাপস্তরের উপর নির্ভর করে কারণ রিভার্সিবল কার্নো চক্রে তাপ-প্রবাহের অনুপাতগুলি তাপভাণ্ডারের তাপমাত্রার অনুপাত দিয়ে নির্ধারিত হয়: রিভার্সিবল হলে [math]\dfrac{Q_c}{T_c}=\dfrac{Q_h}{T_h}গ AB পথে যদি চার্টে রেখাটি স্থির আয়তন নির্দেশ করে (উল্লম্ব লাইন), তবে কাজ [math]W=\int P\,dV[/math] এবং স্থির আয়তনে [math]dV=0[/math] হওয়ায় AB পথে করা কাজ শূন্য: [math]W_{AB}=0[/math]।
+
+ঘ সিষ্টেমের ক্ষেত্রে চক্রীয় প্রক্রিয়ায় এন্ট্রপির পরিবর্তন শূন্য কারণ এন্ট্রপি হল রাষ্ট্র ফাংশন এবং চক্র শেষে শুরুস্থিতিতে ফিরে আসলে [math]\Delta S=S_{\rm final}-S_{\rm initial}=0</math]; তবে বাস্তবে যদি অপ্রতিসর ক্রিয়াযুক্ত থাকে তাহলে মহাবিশ্বের মোট এন্ট্রপি বৃদ্ধি পেতে পারে (অথবা সমান না হলে)।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 419541)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+ক্লসিয়াস পিস্টন যুক্ত সিলিন্ডারে এক মোল হাইড্রোজেন গ্যাস নিয়ে P v এর লেখচিত্র নিম্নে প্রদর্শিত চক্রটির অনুরূপ একটির চক্র পেলেন । ক্লসিয়াসের মতে এটি একটি প্রত্যাবর্তী চক্ৰ ।
+
+
+[Image]
+
+
+Options:
+ক. তাপগতিবিদ্যার ২য় সূত্র বিবৃত করো।
+খ. রুদ্ধতাপীয় প্রক্রিয়ায় গ্যাসকে সংকুচিত করলে তাপমাত্রা বৃদ্ধি পায় ব্যাখ্যা করো।
+গ. উদ্দীপক অনুসারে হাইড্রোজেন গ্যাসকে B হতে C তে আনতে কৃতকাজের পরিমাণ নির্ণয় করো ।
+ঘ. ক্লসিয়াসের দাবিটি যৌক্তিক কিনা ব্যাখ্যা করো ।
+
+
+Correct Answer: 
+
+Solution:
+কএমন একটি ইঞ্জিনের পরিকল্পনা কখনোই সম্ভব নয়, যার পূর্ণ আবর্তনে কেবল একটি তাপীয় উৎস হতে তাপ সংগৃহীত হবে এবং অন্যত্র কোনো পরিবর্তন ব্যতীত সংগৃহীত তাপের সবটুকুই কাজে রূপান্তরিত করা যাবে।[math]\\[/math]
+ খরুদ্ধতাপীয় সংকোচন এর ক্ষেত্রে সিস্টেমে কোনো রকম তাপে আদান প্রদান ঘটে না স্টিস্টেমের অভ্যন্তরীণ শক্তির ফলে কাজ হয় এবং সিস্টেমটি সংকচিত হয়। আমরা জানি, অভ্যন্তরীণ শক্তি তাপমাত্রার উপর নির্ভরশীল। অভ্যন্তরীণ শক্তি বৃদ্ধির ফলে তাপমাত্রা বৃদ্ধি পায়। যেহেতু রুদ্ধতাপীয় সংকোচন এর ক্ষেত্রে অভ্যন্তরীণ শক্তি বৃদ্ধি পায় সেহেতু রুদ্ধতাপীয় সংকোচনে সিস্টেমে উষ্ণ হয় ।[math]\\[/math]
+ গএখানে,BC পর্যায়ে মোলসংখ্যা, n = 1 molআদি তাপমাত্রা, [math]T_1[/math]
+ = 600Kচূড়ান্ত তাপমাত্রা, [math]T_2[/math]
+ = 400K[math]\gamma=1.4[/math]
+BC অংশ রুদ্ধতাপীয় প্রক্রিয়া হওয়ায় রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ [math]W_{BC}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{W}_{\mathrm{BC}}=\frac{\mathrm{nR}}{\gamma-1}\left(\mathrm{~T}_{1}-\mathrm{T}_{2}\right) \\=\frac{1 \times 8.31}{1.4-1} \times(600-400)=4155 \mathrm{~J}\\\text{(Ans.)}\end{array}[/math]
+ [math]\\[/math]
+ ঘউদ্দীপকের চক্রটি প্রত্যাবর্তী চক্র হলে এর সব ধাপের মোট এনট্রপির পরিবর্তন শূন্য হবেএখানে,A বিন্দুতে আয়তন, [math]V_1 =2.5 \times 10^{-3} m^3[/math]
+B বিন্দুতে আয়তন, [math]V_2 = 4.5 \times 10^{-3} m^3[/math]
+AB সমোষ্ণ প্রক্রিয়ার তাপমাত্রা, [math]T_1[/math]
+ = 600KCD সমোষ্ণ প্রক্রিয়ার তাপমাত্রা, [math]T_2[/math]
+ = 400Kমোল সংখ্যা, n = 1AB সমোষ্ণ প্রক্রিয়ার ক্ষেত্রে,[math]d Q=d U+d W[/math]
+সমোষ্ণ প্রক্রিয়ায়, dU = 0[math]\therefore \mathrm{dQ}_{1}=\mathrm{dW}=\mathrm{nRT}_{1} \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}[/math]
+AB প্রক্রিয়ায় এনট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS}_{1} & =\frac{\mathrm{dQ}_{1}}{\mathrm{~T}_{1}}=\frac{\mathrm{nRT} \mathrm{T}_{1} \ln\frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}}}{\mathrm{~T}_{1}} \\& =\mathrm{nR} \ln \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\& =1 \times 8.314 \times \ln \frac{4.5 \times 10^{-3}}{2.5 \times 10^{-3}} \\& =4.89 \mathrm{JK}^{-1}\end{aligned}[/math]
+BC রুদ্ধতাপীয় প্রসারণের ক্ষেত্রে এনট্রপির পরিবর্তন, [math]dS_2 = 0 JK^{-1}[/math]
+B বিন্দুতে, তাপমাত্রা, [math]T_1[/math]
+ = 600Kআয়তন, [math]V_2 = 4.5 \times 10^{-3} m^3[/math]
+C বিন্দুতে, তাপমাত্রা, [math]T_2[/math]
+ = 400KC বিন্দুতে আয়তন [math]V_3[/math]
+ হলে, B থেকে C রুদ্ধতাপীয় প্রসারণের ক্ষেত্রে,[math]\begin{array}{l}T_{1} V_{2}^{\gamma-1}=T_{2} V_{3}^{\gamma-1}\\\Rightarrow\text{ } \frac{T_{1}}{T_{2}}=\left(\frac{V_{3}}{V_{2}}\right)^{\gamma-1}\\\Rightarrow\text{ } \left(\frac{\mathrm{T}_{1}}{\mathrm{~T}_{2}}\right)^{\frac{1}{\gamma-1}}=\frac{\mathrm{V}_{2}}{\mathrm{~V}_{2}}\\\Rightarrow\text{ } V_{3}=V_{2}\left(\frac{T_{1}}{T_{2}}\right)^{\frac{1}{r-1}}\end{array}[/math]
+D বিন্দুর আয়তন [math]V_4[/math]
+ হলে,এখানে,D বিন্দুতে, চাপ [math]P_4 = 2.5 \times 10^5 Nm^{-2}[/math]
+A বিন্দুতে, চাপ [math]P_1 = 4 × 10^5 Nm^{-2}[/math]
+আয়তন, [math]V_1 = 2.5 \times 10^{- 3} m[/math]
+ [math]\lambda = 1.4[/math]
+D থেকে C রুদ্ধতাপীয় সংকোচনের ক্ষেত্রে,[math]\begin{array}{l}\mathrm{P}_{4}\mathrm{~V}_{4}^{\gamma}=\mathrm{P}_{1}\mathrm{~V}_{1}^{\gamma}\\\Rightarrow\text{ } \left(\frac{V_{4}}{V_{1}}\right)^{\gamma}=\frac{P_{1}}{P_{4}}\\\Rightarrow\text{ } \frac{V_{4}}{V_{1}}=\left(\frac{P_{1}}{P_{4}}\right)^{\frac{1}{\gamma}}\\\Rightarrow\text{ } V_{4}=V_{1} \times\left(\frac{P_{1}}{P_{4}}\right)^{\frac{1}{\gamma}}\end{array}[/math]
+ [math]\begin{array}{l}=2.5 \times 10^{-3} \times\left(\frac{4 \times 10^{5}}{2.5 \times 10^{5}}\right)^{\frac{1}{1.4}} \\=3.5 \times 10^{-3} \mathrm{~m}^{3}\end{array}[/math]
+CD সমোষ্ণ সংকোচনে এনট্রপির পরিবর্তন,[math]\begin{aligned}\mathrm{dS}_{3}=\frac{\mathrm{dQ}_{2}}{\mathrm{~T}_{2}} & =\frac{\mathrm{nRT}_{2} \ln\left(\frac{\mathrm{V}_{4}}{\mathrm{~V}_{3}}\right)}{\mathrm{T}_{2}}=\mathrm{nR} \ln \left(\frac{\mathrm{V}_{4}}{\mathrm{~V}_{3}}\right) \\& =1 \times 8.314 \times \ln \left(\frac{3.5 \times 10^{-3}}{0.0124}\right)=-10.52 \mathrm{JK}^{-1}\end{aligned}[/math]
+DA রুদ্ধতাপীয় সংকোচনে এনট্রপির পরিবর্তন, [math]dS_4 = 0 JK^{- 1}[/math]
+ [math]\therefore[/math]
+ ABCD প্রত্যাবতী চক্রে এনট্রপির মোট পরিবর্তন, [math]dS = dS_1 + dS_2 + dS_3 + dS_4 =4.89+0 10.52+0 - 5.63 JK^{-1}[/math]
+দেখা যাচ্ছে, [math]d S 
+eq 0[/math]
+সুতরাং উদ্দীপকের চক্রটি প্রত্যাবর্তী চক্র না। তাই বলা যায়, ক্লসিয়াসের দাবিটি যৌক্তিক না।-
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপগতিবিদ্যার ২য় সূত্র (ক্লসিয়াসের রূপ): "কোনো স্বতঃস্ফূর্ত প্রক্রিয়া থাকতে পারে না যার একমাত্র ফলশ্রুতি হলো তাপ শীতল উৎস থেকে নিয়ে তা উষ্ণ উৎসে স্থানান্তর করা।" (অর্থাৎ তাপ নিজে থেকেই শীতল থেকে উষ্ণ দিক যাচ্ছে না।)
+
+খ রুদ্ধতাপীয় (adiabatic) প্রক্রিয়ায় [math]Q=0[/math], তাই প্রথম সূত্রে [math]ΔU=Q-W= -W[/math] (এখানে [math]W[/math] ধরে নেওয়া হচ্ছে গ্যাসের করা কাজ), কিন্তু সংকোচনে বাহ্যিক কাজ গ্যাসের উপর করা হয় ফলে গ্যাসের অভ্যন্তরীণ শক্তি বাড়ে এবং [math]ΔU=nC_VΔT>0[/math], সুতরাং তাপমাত্রা বৃদ্ধি পায়।
+
+গ কাজের পরিমাণ সাধারণভাবে হলে: [math]W=\int_{V_B}^{V_C}P\,dV[/math]। যদি B→C প্রক্রিয়াটি সমতাপ (isothermal) হয় এবং নূন্য এক মোল গ্যাস হয়, তাহলে [math]W=RT\ln\frac{V_C}{V_B}[/math]; সংকোচনে [math]V_Cঘ ক্লসিয়াসের দাবি তখনই যৌক্তিক যদি চক্রের সব ধাপ সম্পূর্ণভাবে উল্টনীয় (reversible) হয় এবং সার্বিকভাবে বিশ্বব্যবস্থায় এন্ট্রোপির পরিবর্তন শূন্য থাকে; যদি কোনো ধাপে অপ্রত্যাবর্তনীয়তা বা তাপ স্বতঃস্ফূর্তভাবে ঠাণ্ডা থেকে গরমে যায়, তবে তা তাপগতিবিদ্যার ২য় সূত্রের বিরোধী এবং যৌক্তিক নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 419542)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রার 0.07 kg বরফকে একটি নির্দিষ্ট উচ্চতা থেকে ফেলে দেয়া হলো। এতে বিভব শক্তির 55% তাপে রূপান্তরিত হলো এবং এই তাপ সমস্ত বরফকে গলিয়ে দিলো। কিছু সময় পর বরফগলা পানির তাপমাত্রা 5°C এ উন্নীত হলো। দেয়া আছে, বরফ গলনের আপেক্ষিক সুপ্ততাপ [math]3.36 \times 10^{5} \mathrm{~J} \mathrm{~kg}^{-1}[/math] এবং পানির আপেক্ষিক তাপ [math]4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math]।
+
+Options:
+ক. তাপগতিবিদ্যার দ্বিতীয় সূত্রটি বিবৃত করো।
+খ. সমআয়তন প্রক্রিয়ায় কাজ শূন্য কেন? ব্যাখ্যা দাও।
+গ. বরফ খণ্ডটি কত উচ্চতা থেকে ফেলা হয়েছিল?
+ঘ. বরফ গলন এবং বরফগলা পানির তাপমাত্রা বৃদ্ধি কোন ক্ষেত্রে পরিবেশের উপর অধিক প্রভাব পড়বে? এনট্রপির আলোকে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+কএমন একটি ইঞ্জিনের পরিকল্পনা কখনোই সম্ভব নয়, যার পূর্ণ আবর্তনে কেবল একটি তাপীয় উৎস হতে তাপ সংগৃহীত হবে এবং অন্যত্র কোনো পরিবর্তন ব্যতীত সংগৃহীত তাপের সবটুকুই কাজে রূপান্তরিত করা যাবে। [math]\\[/math]
+ খগ্যাসের সমআয়তন প্রক্রিয়ায় কোনো কাজ হয় না। এর কারণ হলো, এ সময় গ্যাসের আয়তনের পরিবর্তন ঘটে না, ফলে চাপ ও বল প্রযুক্ত হওয়া সত্ত্বেও বলের প্রয়োগবিন্দুর সরণ ঘটে না। তাই, W= Fx (F = প্রযুক্তবল, x = বলের দিকে সরণ), সূত্রানুসারে `x = 0 হওয়ায় সমআয়তন প্রক্রিয়ায় গ্যাস কোনো কাজ করে না এবং এর ওপর বহিঃস্থ এজেন্ট দ্বারাও কোনো কাজ সম্পাদিত হয় না। [math]\\[/math]
+ গএখানে,বরফ খণ্ডের ভর, m = 0.07 kgবরফ গলনের আপেক্ষিক সুপ্ততাপ [math]\mathrm{L}_{\mathrm{f}}=3.36 \times 10^{5} \mathrm{Jkg}^{-1}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+উচ্চতা, h = ?ধরি, বরফ খণ্ডটি h উচ্চতা থেকে ফেলা হয়েছিল।[math]\therefore[/math]
+ বরফ খণ্ডের বিভবশক্তি, [math]E_{p}=m g h[/math]
+বরফ গলার জন্য প্রয়োজনীয় তাপQ হলে, [math]\mathrm{Q}=\mathrm{mL}_{\mathrm{f}}[/math]
+প্রশ্নমতে, [math]Q=E_{P} \times 55 \%[/math]
+[ [math]\therefore[/math]
+ বিভবশক্তির 55% তাপে রূপান্তরিত হয় ][math]\Rightarrow[/math]
+ [math]\mathrm{Q}=\mathrm{E}_{\mathrm{p}} \times 0.55[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{mL}_{\mathrm{f}}=\mathrm{mgh} \times 0.55[/math]
+ [math]\Rightarrow[/math]
+ [math]h=\frac{\mathrm{L}_{f}}{\mathrm{~g} \times 0.55}=\frac{3.36 \times 10^{5}}{9.8 \times 0.55}[/math]
+ [math]\begin{array}{l}\therefore \mathrm{h}=62337.66 \mathrm{~m} \\=62.33766 \mathrm{~km} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ ঘবরফ গলন ও বরফ গলা পানির তাপমাত্রা বৃদ্ধি- এই প্রক্রিয়া দুইটির মধ্যে যেটির এনট্রপি বেশি সেটির বিশৃঙ্খলার মাত্রা বেশি হবে এবং তার জন্য পরিবেশের উপর অধিক প্রভাব পড়বে। বরফ গলনের ক্ষেত্রে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{1}[/math]
+ হলে,এখানে,বরফের ভর, m = 0.07 kgবরফ গলনের আপেক্ষিক সুপ্ততাপ, [math]\mathrm{L}_{\mathrm{f}}=3.36 \times 10^{5} \mathrm{Jkg}^{-1}[/math]
+তাপমাত্রা,[math]\begin{aligned}\mathrm{T} & =0^{\circ} \mathrm{C} \\& =27.3 \mathrm{~K}\end{aligned}[/math]
+ [math]\begin{array}{l} \mathrm{dS}_{1}=\frac{\mathrm{dQ}_{1}}{\mathrm{~T}}=\frac{\mathrm{mL}_{\mathrm{f}}}{\mathrm{T}} \\=\frac{0.07 \times 3.36 \times 10^{5}}{273} \\\therefore \mathrm{dS}_{1}=86.154 \mathrm{\ Jk}^{-1}\end{array}[/math]
+বরফগলা পানির তাপমাত্রা 0°C থেকে 5°C এ উন্নীত হওয়ায় এনট্রপির পরিবর্তন [math]\mathrm{d} \mathrm{S}_{2}[/math]
+ হলে,এখানে,পানির ভর, m = 0.07 kgআপেক্ষিক তাপ,[math]\begin{array}{l}\mathrm{S}=4200 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1} \\\mathrm{~T}_{1}=0^{\circ} \mathrm{C}=(273+0)=273 \mathrm{~K} \\\mathrm{~T}_{2}=5^{\circ} \mathrm{C}=(273+5)=278 \mathrm{~K}\end{array}[/math]
+ [math]\begin{aligned}\mathrm{dS}_{2}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \mathrm{~ms} \frac{\mathrm{dT}}{\mathrm{T}} \\& =\mathrm{ms} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{dS}_{2}=0.07 \times 4200 \times \ln \frac{278}{273}[/math]
+ [math]=5.336 \mathrm{\ Jk}^{-1}[/math]
+দেখা যাচ্ছে [math]\mathrm{dS}_{1}>\mathrm{dS}_{2}[/math]
+সুতরাং, বরফ গলনের ক্ষেত্রে এনট্রপির পরিবর্তন বেশি হওয়ায় এটির ক্ষেত্রে পরিবেশের উপর অধিক প্রভাব পড়বে।
+
+Explanation:
+ব্যাখ্যা:
+ক তাপগতিবিদ্যার দ্বিতীয় সূত্র বলে যে কোনো বাস্তব পরিশিষ্ট প্রক্রিয়ায় সার্বিক এনট্রপির বদল শূন্য বা বেড়ে যায়, অর্থাৎ [math]\Delta S_{\text{total}} \ge 0[/math] (একান্ত বিপরীতমুখী প্রক্রিয়া ছাড়া) — এর ফলে তাপ সম্পূর্ণরূপে কাজে রূপান্তর করা যায় না।
+
+খ সমআয়তন (isochoric) প্রক্রিয়ায় আয়তন স্থির থাকে, কাজ হয় [math]W=\int P\,dV[/math] দ্বারা; এখানে [math]dV=0[/math] হলে কাজ শূন্য হয়, তাই কোনো পি–ভি কাজ করা হয় না।
+
+গ পড়ন্ত বস্তুর বিভবশক্তির ৫৫% তাপায়ন হিসেবে ধরা হলে [math]0.55\,mgh=mL+m c\Delta T[/math] থেকে [math]h=\dfrac{L+c\Delta T}{0.55\,g}[/math]; সংখ্যায় দখল করে [math]L+ c\Delta T=3.36\times10^{5}+4200\times5=3.57\times10^{5}\ \mathrm{J/kg}[/math], ফলে [math]h\approx\dfrac{3.57\times10^{5}}{0.55\times9.8}\approx6.62\times10^{4}\ \mathrm{m}[/math]।
+
+ঘ পরিবেশে অধিক প্রভাব (এনট্রপির ক্ষেত্রে) বরফ গলনের সময় পড়ে, কারণ গলনে লাগা তাপ [math]Q_{\text{melt}}=mL=0.07\times3.36\times10^{5}=23520\ \mathrm{J}[/math] খুব বড়, আর তাপমাত্রা বৃদ্ধির জন্য [math]Q_{\text{heat}}=m c\Delta T=0.07\times4200\times5=1470\ \mathrm{J}[/math]; পরিবেশের এনট্রপি পরিবর্তন প্রায় [math]\Delta S_{\text{env}}\approx -Q/T[/math] হলে গলনের ধাপের অবদান (প্রায় [math]-23520/273\approx-86\ \mathrm{J/K}[/math]) তাপ বৃদ্ধির ধাপের অবদানের (প্রায় [math]-1470/278\approx-5\ \mathrm{J/K}[/math]) তুলনায় অনেক বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 419536)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এনট্রপি—
+
+i. এটি একটি প্রাকৃতিক রশি যার মান চাপ ও আয়তনের অনুপাতের সমান
+
+ii. এটি বস্তুর একটি তাপীয় ধর্ম যা তাপ সশ্যালনের দিক নির্দেশ করে
+
+iii. এটি বস্তুর তাপীয় জড়তা হিসেবে বিবেচনা করা হয়
+
+নিচের কোনটি সঠিক?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: বিবৃতি (ii) সঠিক কারণ এনট্রপি একটি তাপীয় অবস্থা পরিমাপ যা প্রক্রিয়াগুলোর অদিকনীয়তা ও তাপ সঞ্চালনের স্বাভাবিক দিক (এনট্রপি বৃদ্ধি) নির্দেশ করে। বিবৃতি (i) ভুল — এনট্রপি চাপ ও আয়তনের অনুপাত নয়, এবং (iii) ভুল — তাপীয় জড়তা বলতে তাপধারণ ক্ষমতা (heat capacity) বোঝায়, যা এনট্রপি নয়।
+
+Sub-Questions:
+

@@ -1,0 +1,24 @@
+================================================================================
+Question #1 (ID: 410960)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}5 & 0 & 0 \\3 & 5 & 7 \\1 & 2 & 3\end{array}\right][/math] হলে, [math]\operatorname{det}(\mathrm{A})[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]\operatorname{det}(A)[/math]
+ [math]=5(15-14)[/math]
+ [math]=5[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম সারি দিয়ে বিস্তৃতি করলে কেবল প্রথম উপাদানই অশূন্য, সুতরাং [math]\det(A)=5\cdot\det\begin{pmatrix}5&7\\2&3\end{pmatrix}=5(5\cdot3-7\cdot2)=5(15-14)=5[/math]. ফলে সঠিক উত্তরটি C।
+
+Sub-Questions:
+

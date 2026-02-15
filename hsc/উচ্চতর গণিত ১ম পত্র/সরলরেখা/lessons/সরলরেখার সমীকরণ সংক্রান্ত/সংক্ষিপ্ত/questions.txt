@@ -1,0 +1,129 @@
+================================================================================
+Question #1 (ID: 420166)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]\cos \alpha+y \sin \alpha=k[/math] সরলরেখাটি x ও y অক্ষরেখা দুটিকে যথাক্রমে A এবং B বিন্দুতে ছেদ করে, এখানে [math]\alpha[/math] চলক এবং k ধ্রুবক। AB এর মধ্যবিন্দুর সঞ্চারপথের সমীকরণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]x \cos \alpha+y \sin \alpha=k \Rightarrow \frac{x}{\frac{k}{\cos \alpha}}+\frac{y}{\frac{k}{\sin \alpha}}=1[/math]
+ [math]\mathrm{A}=\left(\frac{\mathrm{k}}{\cos \alpha}, 0\right)[/math]
+, [math]B=\left(0, \frac{k}{\sin \alpha}\right)[/math]
+AB এর মধ্যবিন্দু O(x, y)[math]\begin{array}{l}x=\frac{\frac{k}{\cos \alpha}+0}{2}=\frac{k}{2 \cos \alpha} \\\Rightarrow \cos \alpha=\frac{\mathrm{k}}{2 \mathrm{x}} \text {. } \\y=\frac{0+\frac{k}{\cos \alpha}}{2}=\frac{k}{2 \sin \alpha} \\\Rightarrow \sin \alpha=\frac{k}{2 y}\end{array}[/math]
+ [math](i)^{2}+(i i)^{2} \Rightarrow \cos ^{2} \alpha+\sin ^{2} \alpha=\frac{\mathrm{k}^{2}}{4 \mathrm{x}^{2}}+\frac{\mathrm{k}^{2}}{4 \mathrm{y}^{2}}\\\Rightarrow k^2 (x62 + y^2) = 4 x^2 y^2 (Ans.)[/math]
+
+
+Explanation:
+সমাধান: রেখার x-চ্ছদ y=0 হলে A বিন্দু [math]\big(\dfrac{k}{\cos\alpha},0\big)[/math] এবং x=0 হলে B বিন্দু [math]\big(0,\dfrac{k}{\sin\alpha}\big)[/math]. তাদের মধ্যবিন্দু M হলো [math]\left(\dfrac{k}{2\cos\alpha},\dfrac{k}{2\sin\alpha}\right)[/math]. এখানে [math]x=\dfrac{k}{2\cos\alpha},\;y=\dfrac{k}{2\sin\alpha}[/math] ধরে [math]\cos^2\alpha+\sin^2\alpha=1[/math] প্রয়োগ করলে সারলীকরণে পাওয়া যায় [math]\dfrac{1}{x^2}+\dfrac{1}{y^2}=\dfrac{4}{k^2}[/math], যা মধ্যবিন্দুর সঞ্চারপথ।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 420160)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2011-2012 | Boards:  | Tags: Mymensingh Board, Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math](a, 0)[/math] এবং [math](0,b)[/math] বিন্দুগামী সরলরেখার উপর [math](1,1)[/math] একটি বিন্দু হলে-
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math](a, 0),(0, b),(1,1) ;[/math]
+ [math]\frac{y-b}{b-0}=\frac{x-0}{0-a}[/math]
+ [math]\Rightarrow \frac{y-b}{b}=\frac{x}{-a}[/math]
+ [math]\Rightarrow-y a+a b=b x[/math]
+ [math]\Rightarrow b x+a y=a b[/math]
+⇒ b + a = ab [x, y এর মান বসিয়ে] [math]\Rightarrow \frac{1}{a}+\frac{1}{b}[/math]
+ [math]=1[/math]
+
+
+Explanation:
+ব্যাখ্যা: সরলরেখা দুটি অক্ষচ্ছেদকের মাধ্যমে লেখা যায়: [math]\frac{x}{a}+\frac{y}{b}=1[/math]। (1,1) বসালে [math]\frac{1}{a}+\frac{1}{b}=1[/math] হয়, যা সরিয়ে লিখলে [math]a+b=ab[/math] আসে—এই সম্পর্কটি তাই সঠিক উত্তর (B)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 420163)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+(-1, 2) বিন্দু দিয়ে এবং 3x - y + 7 = 0 রেখার সাথে 45° কোণ উৎপন্ন করে এরূপ সরলরেখার সমীকরণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(-1, 2) বিন্দুগামী রেখার সমীকরণ, [math]y-2=m(x+1) \ldots \ldots \text { (i) } ; \\\quad 3 x-y+7=0 \\\Rightarrow y=3 x+7 \quad \\\therefore m_{1}=3[/math]
+প্রশ্নমতে,[math]\tan 45^{\circ}= \pm \frac{(m-3)}{1+3 m} \\\Rightarrow 1= \pm \frac{(m-3)}{1+3 m} \\\Rightarrow 1+3 m= \pm(m-3) \\\Rightarrow m=-2, \frac{1}{2}[/math]
+ [math]m=-2[/math]
+ (i) নং হতে পাই,[math]y-2=-2(x+1) \\\Rightarrow y-2=-2 x-2 \\\therefore y+2 x=0 \text { (Ans.) }[/math]
+আবার, [math]\mathrm{m}=\frac{1}{2}[/math]
+ হলে [math]y-2=\frac{1}{2}(x+1) \\\Rightarrow 2 y-4=x+1 \\\Rightarrow 2 y-x-4-1=0 \\\therefore x-2 y+5=0 (ans.)[/math]
+
+
+Explanation:
+প্রথমে রেখাটিকে [math]y=3x+7[/math] রূপে লিখলে ঢাল [math]m_1=3[/math]. রেখার মধ্যে কোণ নির্ণয়ের সূত্র হলো [math]\tan\theta=\left|\dfrac{m_2-m_1}{1+m_1m_2}\right|[/math] এবং [math]\theta=45^\circ,\ \tan45^\circ=1 দিয়ে সমীকরণ থেকে পাওয়া যায় [math]m_2=-2[/math] অথবা [math]m_2=\tfrac{1}{2}. (-1,2) বিন্দু দিয়ে সেই ঢালে সরলরেখাগুলি হল: ম্ [math]m=-2:\ y-2=-2(x+1)\Rightarrow y=-2x[/math] এবং ম্ [math]m=\tfrac{1}{2}:\ y-2=\tfrac{1}{2}(x+1)\Rightarrow x-2y+5=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 420164)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (C  Unit)
+--------------------------------------------------------------------------------
+Question:
+y = 7x + 9 রেখার সাথে লম্ব রেখার ঢাল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+y = 7x + 9 এর ঢাল, m = 7y = 7x + 9 রেখার সাথে লম্ব রেখার ঢাল m₁ হলে পাই,[math]\mathrm{m} \times \mathrm{m}_{1}=-1 \\\Rightarrow 7 \times \mathrm{m}_{1}=-1 \\\Rightarrow \mathrm{~m}_{1}=-\frac{1}{7}[/math]
+
+Explanation:
+[math]y = 7x + 9[/math] রেখার ঢাল হলো [math]7[/math]. লম্ব রেখার ঢাল হল মূল ঢালের উল্টো এবং বিপরীত চিহ্ন, অর্থাৎ [math]-\frac{1}{7}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 420165)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+(-1, 2) বিন্দু দিয়ে এবং 3x - y + 7 = 0 রেখার সাথে 45° কোণ উৎপন করে এরূপ সরলরেখার সমীকরণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(-1, 2) বিন্দুগামী রেখার সমীকরণ, y - 2 = m(x + 1) ....... (i)[math]3x - y + 7 = 0 \Rightarrow y = 3x + 7 \therefore m_{1} = 3[/math]
+প্রশ্নমতে,[math]\begin{array}{l}\tan 45^{\circ}= \pm \frac{(m-3)}{1+3 m} \\\Rightarrow 1= \pm \frac{(m-3)}{1+3 m} \\\Rightarrow 1+3 m= \pm(m-3) \\\Rightarrow m=-2,\frac{1}{2}\end{array}[/math]
+m = -2 হলে, (i) নং হতে পাই,[math]y-2=-2(x+1) \\\Rightarrow y-2=-2 x-2 \\\therefore y+2 x=0 \text { (Ans.) }[/math]
+আবার, [math]m = \frac {1}{2}[/math]
+ হলে [math]y-2=\frac{1}{2}(x+1) \\\Rightarrow 2 y-4=x+1[/math]
+ [math]\Rightarrow 2 y-x-4-1=0 \quad \\\therefore x-2 y+5=0 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: মূল রেখা থেকে [math]3x-y+7=0\Rightarrow y=3x+7[/math] তাই এর ঢাল [math]m_1=3[/math]. রেখা দুইটির ঢালের মধ্যে কোণ [math]45^\circ[/math] হলে [math]\tan45^\circ=1=\left|\dfrac{m-3}{1+3m}\right|[/math] হবে, যা সমাধান করলে [math]m=-2[/math] অথবা [math]m=\tfrac{1}{2}[/math] পাওয়া যায়। উক্ত ঢালে (-1,2) দিয়ে যাওয়া সরলরেখাসমূহ: [math]y-2=-2(x+1)\Rightarrow y=-2x[/math] এবং [math]y-2=\tfrac12(x+1)\Rightarrow x-2y+5=0[/math].
+
+Sub-Questions:
+

@@ -1,0 +1,1005 @@
+================================================================================
+Question #1 (ID: 424300)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পরস্পর সমকোণে স্থাপিত বিনতি বৃত্তের দুটি অবস্থানের জন্য কোনো স্থানের আপাত বিনতি যথাক্রমে [math]60°[/math] এবং [math]45^{\circ}[/math] ঐ স্থানের প্রকৃতি বিনতি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]40.89^{\circ}[/math]
+ [math]\\[/math]
+ [math][/math]
+কোনো স্থানের প্রকৃত বিনতি [math]\delta[/math]
+ হলে, আপাত বিনতি [math]\delta_{1}[/math]
+, এবং প্রথম তলের সাথে লম্বভাবে অবস্থিত অন্য তলে বিনতি [math]\delta_{2}[/math]
+ হলে, এদের অনুভূমিক ও উল্লম্ব ভূচৌম্বক উপাংশের অনুপাত হবে,[math]\begin{array}{l} \cot \delta=\frac{H}{V} \\ \cot \delta_{1}=\frac{H_{1}}{V_{1}} \\ \cot \delta_{2}=\frac{H_{2}}{V_{2}} \end{array}[/math]
+এদেরকে সমকোণী ত্রিভুজের বাহু ধরলে,
+[Image]
+[math][\because[/math]
+ পরস্পর সমকোণ অবস্থানের দুটি স্থান [math]][/math]
+তাহলে, [math]\cot ^{2} \delta=\cot ^{2} \delta_{1}+\cot ^{2} \delta_{2}[/math]
+ [পীথাগোরাসের উপপাদ্য অনুসারে]এখানে, [math]\delta_{1}=60^{\circ}[/math]
+ এবং [math]\delta_{2}=45^{\circ}[/math]
+তাহলে,[math]\begin{array}{l} \cot ^{2} \delta=\cot ^{2} \delta_{1}+\cot ^{2} \delta_{2} \\ =\cot ^{2} 60^{\circ}+\cot ^{2} 45^{\circ} \\ =\left(\frac{1}{\sqrt{3}}\right)^{2}+1 \\ =\frac{1}{3}+1 \\ \therefore \cot ^{2} \delta=\frac{4}{3} \\ \cot \delta=\frac{2}{\sqrt{3}}=1.157 \\ \therefore \delta=\cot ^{-1}(1.157)=40.89^{\circ} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+প্রশ্নটি অস্পষ্ট—দয়া করে জানান (ক) দুটি বৃত্তের পরস্পর সম্পর্ক কী (একই কেন্দ্রের, সমতলে না দুই সমতল পরস্পর সমকোণে?), এবং (খ) "আপাত বিনতি" বলতে আপনি ঠিক কোন কোণটি বোঝাচ্ছেন (বৃত্ত দ্বারা কোন বিন্দুতে অধরা কোণ/দৈর্ঘ্য?)। এসব স্পষ্ট হলে আমি সরাসরি সমীকরণসহ সংক্ষিপ্ত সমাধান দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 424301)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বিনতি বৃত্তকে এমনভাবে রাখা হলো যে তার চুম্বক দণ্ড দণ্ডায়মান অবস্থায় থাকে। বৃত্তটিকে এর পর উল্লম্ব অক্ষে [math]30°[/math] কোণে ঘুরানোতে [math]30°[/math] বিনতি পাওয়া গেল। প্রকৃত বিনতি নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](16.12^{\circ})[/math]
+ [math]\\[/math]
+ [math][/math]
+ধরা যাক,প্রকৃত বিনতি [math]\delta[/math]
+ । তাহলে, [math]tan \ \delta =\frac{V}{H}[/math]
+এরপর বৃত্তটিকে উল্লম্ব অক্ষে [math]30°[/math]
+ কোণে ঘুরালে চৌম্বক মধ্যতলের সাথে এর কৌণিক ব্যবধান হয় [math](90° – 30°) = 60°[/math]
+ । ফলে, নতুন অবস্থানের অনুভূমিক বরাবর ভূচৌম্বক ক্ষেত্রের উপাংশ [math]H[/math]
+-এর উপাংশ, [math]H_{1}=Hcos60^{\circ}[/math]
+। চুম্বক দণ্ড যেহেতু শুধু উল্লম্ব অক্ষে ঘুরতে পারে তাই [math]V[/math]
+ অপরিবর্তিত থাকবে। নতুন স্থানে, আপাত বিনতি [math]\delta_{1}[/math]
+, হলে,[math]\begin{array}{l} \tan \delta_{1}=\frac{V}{H_{1}}=\frac{\mathrm{V}}{\mathrm{H} \cos 60^{\circ}}=\frac{\tan \delta}{\cos 60^{\circ}} \\ \begin{aligned} \therefore \tan \delta=\tan \delta_{1} \times \cos 60^{\circ} & =\tan 30^{\circ} \times \cos 60^{\circ} \\ & =(0.577 \times 0.5) \\ & =0.289 \end{aligned} \end{array}[/math]
+তাহলে, [math]\delta=\tan ^{-1}(0.289)=16.12^{\circ} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্লেনটি চুম্বকীয় মেরিদিয়ান থেকে [math]\alpha[/math] কোণে ঘোরালে প্লেনে অনুভূত অনুভূমিক ক্ষেত্র হবে [math]H\cos\alpha[/math], তাই পর্যবেক্ষিত বিনতি [math]i'[/math] ও প্রকৃত বিনতি [math]I[/math] এর সম্পর্ক হয় [math]\tan i'=\dfrac{\tan I}{\cos\alpha}[/math]. এখানে [math]\alpha=30^\circ[/math] ও [math]i'=30^\circ[/math], তাই [math]\tan30^\circ=\dfrac{\tan I}{\cos30^\circ}[/math] এবং [math]\tan I=\tan30^\circ\cos30^\circ=\tfrac12[/math], ফলে [math]I=\arctan\frac12\approx26.57^\circ\ (\approx26^\circ34')[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 424302)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বকক্ষেত্রের অনুভূমিক উপাংশ [math]29.459 \ \mu T[/math] এবং [math]30^{\circ}[/math] বিনতি হলে, ঐ স্থানের ভূ-চৌম্বকক্ষে ত্রের (i). মান যে কর এবং (ii). লম্ব উপাংশের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](i)34.01 \ \mu T, (ii)17 \ \mu T[/math]
+
+Explanation:
+ব্যাখ্যা: ভূ‑চৌম্বকক্ষেত্রে অনুভূমিক উপাংশ [math]H[/math], মোট তীব্রতা [math]F[/math] ও ত্রের [math]I[/math]-এর মধ্যে সম্পর্ক [math]H=F\cos I[/math] এবং লম্ব উপাংশ [math]Z=F\sin I=H\tan I[/math].
+
+ক মোট তীব্রতা: [math]F=\dfrac{H}{\cos I}=\dfrac{29.459}{\cos30^\circ}=\dfrac{29.459}{0.8660254}\approx34.02\ \mu T[/math].
+
+খ লম্ব উপাংশ: [math]Z=H\tan I=29.459\tan30^\circ=29.459\times0.5773503\approx17.01\ \mu T[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 424303)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বকক্ষেত্রের সমান্তরাল পরিমাত্রা [math]19.1 \mu T[/math] এবং বিনতি [math]30°[/math] হলে, সে স্থানে পৃথিবীর চৌম্বকক্ষেত্রের পূ র্ণ মাত্রা কত ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]22.05 \ \mu T[/math]
+
+Explanation:
+ভুল কারণ নেই — ভূ-চৌম্বকক্ষেত্রের অনুভূমিক উপাদান [math]H[/math] ও পূর্ণ মাত্রার সম্পর্ক হল [math]H=B\cos I[/math], তাই [math]B=\dfrac{H}{\cos I}[/math]. এখানে [math]B=\dfrac{19.1\ \mu T}{\cos 30^\circ}=\dfrac{19.1}{\sqrt{3}/2}\approx22.06\ \mu T[/math], তাই পূর্ণ মাত্রা প্রায় [math]22.06\ \mu T[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 424304)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বকক্ষেত্রের মান [math]4 \times 10^{-6}T[/math] এবং বিনতি [math]45°[/math] হলে ঐ স্থানের ভূ-চৌম্বক্ষত্রের উল্লম্ব উপাংশ নির্ণ য় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.828 \times 10^{-6}T[/math]
+
+Explanation:
+ব্যাখ্যা: ভূপৃষ্ঠে চৌম্বকক্ষেত্রের উল্লম্ব উপাংশ হলো মোট চৌম্বকক্ষেত্রের মানের সাথে বিনতির sine এর গুণ, তাই [math]B_v=B\sin I[/math]. এখানে [math]B_v=4\times10^{-6}\times\sin45^\circ=4\times10^{-6}\times\frac{\sqrt2}{2}\approx2.83\times10^{-6}\ \mathrm{T}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 424305)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশের মান [math]23.89 \mu T[/math] এবং বিনতি [math]60°[/math] ঐ স্থানে ভূ-চৌম্বক ক্ষেত্রের উল্লম্ব উপাংশের মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]41.38 \ \mu T[/math]
+
+Explanation:
+ব্যাখ্যা: ভূ-চুম্বক ক্ষেত্রের ঢালের জন্য [math]\tan I=\dfrac{B_v}{B_h}[/math] তাই [math]B_v=B_h\tan I[/math]। সংখ্যা বসালে [math]B_v=23.89\times\tan60^\circ=23.89\times\sqrt{3}\approx41.38\ \mu T[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 424306)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক প্রাবল্যে মোট প্রাবল্যের অর্ধেক হলে ওই স্থানের বিনতি কোণ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]60^{\circ}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,অনুভূমিক প্রাবল্য, [math]H=\frac{1}{2} \times[/math]
+ মোট প্রাবল্য, [math]B[/math]
+ [math]\begin{array}{l}\Rightarrow \mathrm{B} \cos \delta=\mathrm{B} / 2\\\Rightarrow \cos \delta=\frac{1}{2}\\\therefore \quad \delta=\cos ^{-1}\left(\frac{1}{2}\right)=60^{\circ} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক অংশ ও মোট ক্ষেত্রের সম্পর্ক হলো [math]H = B\cos I[/math]। যদি [math]H = \tfrac{1}{2}B[/math] হয় তাহলে [math]\cos I = \tfrac{1}{2}[/math], তাই [math]I = \cos^{-1}\!\big(\tfrac{1}{2}\big) = 60^\circ[/math] (নীচের দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 424307)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বক ক্ষেত্রের মান [math]4 \times 10^{-4}T[/math] এবং বিনতি [math]60^{\circ}[/math]।ঐ স্থানের ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক ও উল্লম্ব উপাংশ বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2 \times 10^{-4},3.464 \times 10^{-4}T[/math]
+
+Explanation:
+ব্যাখ্যা: অনুভূমিক এবং উল্লম্ব উপাংশ পেতে মোট ক্ষেত্রকে বিনতির কোণের কসাইন ও সাইন দিয়ে বিভাজন করা হয়, তাই [math]B_h=B\cos I,\quad B_v=B\sin I[/math]. এখানে [math]B=4\times10^{-4}\,T,\ I=60^\circ[/math], ফলে [math]B_h=4\times10^{-4}\cos60^\circ=2\times10^{-4}\,T[/math] এবং [math]B_v=4\times10^{-4}\sin60^\circ\approx3.46\times10^{-4}\,T[/math]; ধনাত্মক বিনতির মান হলে উল্লম্ব উপাংশ নিচের দিকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 424308)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশের মান [math]30 \mu T[/math] এবং বিনতি [math]60°[/math]। ওই স্থানের ভূ-চৌম্বক ক্ষেত্রের উল্ল ম্ব উপাংশের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]51.96 \ \mu T[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,অনুভূমিক প্রাবল্য, [math]H=30 \ \mu T[/math]
+বিনতি, [math]\delta = 60^{\circ}[/math]
+উল্লম্ব উপাংশ, [math]V=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{V}{H}=\tan \delta \\ \Rightarrow \mathrm{V}=\mathrm{H} \tan \delta \\ =30 . \mu \mathrm{T} \times \tan 60^{\circ} \\ =51.96 \mu T \\ \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক ক্ষেত্রের উল্লম্ব উপাংশ [math]Z[/math] ও অনুভূমিক উপাংশ [math]H[/math]–এর সম্পর্ক [math]Z=H\tan I[/math]; তাই [math]Z=30\,\mu T\times\tan60^\circ=30\sqrt{3}\,\mu T\approx51.96\,\mu T\approx52\,\mu T.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 424309)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]28 \ Am^{-1}[/math] এবং বিনতি [math]30°[/math]। ঐ স্থানে ভূচৌম্বক ক্ষেত্রের মোট প্রাবল্য কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]32.33 \ Am^{-1}[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ,বিনতি, [math]\delta = 30^{\circ}[/math]
+মোট প্রাবল্য, [math]B=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\mathrm{H}=\mathrm{B} \cos \delta[/math]
+ [math]\begin{array}{l} \Rightarrow 28=\mathrm{B} \times \cos 30^{\circ} \\ \Rightarrow \mathrm{B}=\frac{28}{\cos 30^{\circ}} \\ =32.33 \mathrm{Am}^{-1} \text { (Ans.) } \\ \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশের সম্পর্ক [math]H=F\cos I[/math] হওয়ায় [math]F=\dfrac{H}{\cos I}[/math]। তাই [math]F=\dfrac{28}{\cos30^\circ}=\dfrac{28}{\sqrt{3}/2}=\dfrac{56}{\sqrt{3}}\approx32.3\ Am^{-1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 424311)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো এক জায়গায় পৃথিবীর চৌম্বক ক্ষেত্রের উল্লম্ব উপাংশ অনুভূমিক উপাংশের [math]\sqrt{3}[/math] গুণ। ওই জায়গার বিনতি কোণ কত ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]60^{\circ}[/math]
+ [math]\\[/math]
+ [math][/math]
+মনে করি,অনুভূমিক উপাংশ [math]= \ H \ T[/math]
+ [math]\therefore[/math]
+ উল্লম্ব উপাংশ , [math]V= \sqrt{3} \ H \ T[/math]
+বিনতি, [math]\delta = ?[/math]
+আমরা জানি,[math]\begin{aligned} \tan \delta & =\frac{\mathrm{V}}{\mathrm{H}} \\ \Rightarrow \delta & =\tan ^{-1} \frac{\mathrm{V}}{\mathrm{H}} \\ & =\tan -1 \frac{\sqrt{3} \mathrm{H}}{\mathrm{H}} \\ & =\tan -1(\sqrt{3}) \\ & =60^{\circ} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+বিনতি কোণ [math]I[/math]-এর জন্য সাধারণভাবে [math]\tan I=\dfrac{B_v}{B_h}[/math] হয়। এখানে [math]\dfrac{B_v}{B_h}=\sqrt{3}[/math] দেওয়া আছে, তাই [math]\tan I=\sqrt{3}\Rightarrow I=60^\circ[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 424312)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] স্থানে ভূ-চৌম্বকক্ষেত্র [math]98 \mu T[/math] ও বিনতি [math]45°[/math] এবং B স্থানে চৌম্বকক্ষেত্র ও বিনতি যথাক্রমে [math]50 \mu T[/math] ও [math]60°[/math]। ঐ দুই অনুভূমিক উপাংশের অনুপাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.77 :1[/math]
+
+Explanation:
+ব্যাখ্যা: অনুভূমিক উপাংশের সূত্র [math]H=B\cos I[/math]। তাই [math]H_A=98\cos45^\circ=98\cdot\frac{\sqrt{2}}{2}=49\sqrt{2}\ \mu T[/math] এবং [math]H_B=50\cos60^\circ=50\cdot\frac{1}{2}=25\ \mu T[/math]; অনুপাত হল [math]\frac{H_A}{H_B}=\frac{49\sqrt{2}}{25}\approx2.772[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 424313)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থনের ভূ-চৌম্বকক্ষেত্রের অনুভূমিক উপাংশ [math]40 \ \mu T[/math]। এবং উল্লম্ব উপাংশ [math]30 \ \mu T[/math] ঐ স্থানে ভূ-চৌম্বকক্ষেত্র এবং বিনতি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](50 \ \mu T)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ভূচৌম্বকক্ষেত্রের অনুভূমিক উপাংশ, [math]H=40 \ \mu T[/math]
+ভূচৌম্বকক্ষেত্রের উল্লম্ব উপাংশ, [math]V=30 \ \mu T[/math]
+বিনতি, [math]\delta = ?[/math]
+ভূচৌম্বকক্ষেত্রের মান, [math]B=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \tan \delta=\frac{V}{H} \\ \Rightarrow \delta=\tan ^{-1}\left(\frac{V}{H}\right) \\ =\tan ^{-1}\left(\frac{30 \mu \mathrm{T}}{40 \mu \mathrm{T}}\right) \\ =36.87^{\circ} \text { (Ans.) } \end{array}[/math]
+আবার,[math]\begin{aligned} \mathrm{H} & =\mathrm{B} \cos \delta \\ \Rightarrow \mathrm{B} & =\frac{\mathrm{H}}{\cos \delta} \\ & =\frac{(40 \mu \mathrm{T})}{\left(\cos 36.87^{\circ}\right)}=50 \mu \mathrm{T} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+সমাধান: অনুভূমিক উপাংশ [math]H=40\ \mu T[/math] এবং উল্লম্ব উপাংশ [math]Z=30\ \mu T[/math]. মোট ভূ-চৌম্বকক্ষেত্রের তীব্রতা [math]B=\sqrt{H^2+Z^2}=\sqrt{40^2+30^2}=\sqrt{2500}=50\ \mu T[/math]. বিনতি (inclination) [math]I=\tan^{-1}\!\left(\frac{Z}{H}\right)=\tan^{-1}\!\left(\frac{30}{40}\right)=\tan^{-1}(0.75)\approx36.87^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 424314)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বকক্ষেত্রের মান [math]36 \ \mu T[/math] এবং অনুভূমিক উপাংশ [math]18 \mu T[/math] । ঐ স্থানের বিনতি এবং উল্লম্ব উপাং শ বের কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]31.18 \ \mu T[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ভূ-চৌম্বকক্ষেত্রের মান, [math]B=36 \ \mu T[/math]
+অনুভূমিক উপাংশ, [math]H=18 \ \mu T[/math]
+বিনতি, [math]\delta = ?[/math]
+উলম্ব উপাংশ, [math]V=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} H=B \cos \delta \\ \Rightarrow \cos \delta=\frac{H}{B} \end{array}[/math]
+ [math]\begin{aligned} \Rightarrow \delta & =\cos ^{-1}\left(\frac{18 \mu \mathrm{T}}{36 \mu \mathrm{T}}\right) \\ & =60^{\circ} \text { (Ans.) } \end{aligned}[/math]
+আবার, উল্লম্ব উপাংশ,[math]\begin{aligned} \mathrm{V} & =\mathrm{H} \tan \delta \\ & =18 \times \tan 60^{\circ} \\ & =31.18 \mu \mathrm{T}(\text { Ans. }) \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: অনুভূমিক ও উল্লম্ব উপাংশের সম্পর্ক হল [math]B_h=B\cos I[/math] এবং [math]B_v=B\sin I[/math] যেখানে [math]B=36\ \mu T[/math] ও [math]B_h=18\ \mu T[/math]. তাই [math]\cos I=18/36=1/2\Rightarrow I=60^\circ[/math], এবং [math]B_v=36\sin60^\circ=36\times\frac{\sqrt3}{2}=18\sqrt3\ \mu T\approx31.18\ \mu T[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 424315)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোন স্থানে বিনতি এবং ভূ-চৌম্বক ক্ষেত্রের মোট প্রাবল্যের মান যথাক্রমে [math]60°[/math] এবং [math]30 \ Am^{-1}[/math] হলে, ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক প্রাবল্য কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে,[math]B=30 \ Am^{-1}[/math]
+ [math]\theta=60°[/math]
+ [math]H=?[/math]
+আমরা জানি,আনুভূমিক উপাংশ, [math]H= B cos \theta[/math]
+ [math]=30\times Cos60°[/math]
+ [math]= 15 \ Am^{-1}[/math]
+ [math]15 \ Am^{-1}[/math]
+
+
+Explanation:
+ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক প্রাবল্য মোট ক্ষেত্রের [math]\cos I[/math] গুণিতক, যেখানে [math]I[/math] হলো বিনতি; তাই [math]H=F\cos I[/math]. এখানে [math]H=30\cos60^\circ=30\times\frac{1}{2}=15\ \mathrm{A\,m^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 424316)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূ-পৃষ্ঠের কোন স্থানে ভূ-চৌম্বকের অনুভূমিক প্রাবল্য ও উল্লম্ব প্রাবল্য যথাক্রমে [math]4 \times 10^{-5} \mathrm{~T}[/math] ও [math]3 \tim es 10^{-5} \mathrm{~T}[/math] ঐ স্থানে ভূ-চৌম্বকের মোট প্রাবল্য ও বিনতি কোণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]5 \times 10^{-5}T;36.87^{\circ}[/math]
+
+Explanation:
+ব্যাখ্যা: ভৌত কারণেই খাড়া ও উল্লম্ব প্রাবল্য পরস্পর লম্ব, তাই মোট প্রাবল্য Pythagorean দেয়: [math]B=\sqrt{(4\times10^{-5})^2+(3\times10^{-5})^2}=\sqrt{25\times10^{-10}}=5\times10^{-5}\ \mathrm{T}[/math]. বিনতি কোণটি অনুভূমিকের প্রতি উল্লম্ব ও অনুভূমিকের অনুপাতে পাওয়া যায়: [math]\tan I=\dfrac{B_v}{B_h}=\dfrac{3}{4}\Rightarrow I=\arctan\left(\dfrac{3}{4}\right)\approx36.87^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 424317)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের বিনতি [math]60°[/math] এবং ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]30 \mu T[/math]। ঐ স্থানের উল্লম্ব উপাংশ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]51.96 \ \mu T[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,অনুভূমিক প্রাবল্য, [math]H=30 \ \mu T[/math]
+বিনতি, [math]\delta=60^{\circ}[/math]
+উল্লম্ব উপাংশ, [math]V=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\frac{\mathrm{V}}{\mathrm{H}}=\tan \delta[/math]
+ [math]\begin{aligned} \Rightarrow \mathrm{V} & =\mathrm{H} \tan \delta \\ & =30 . \mu \mathrm{T} \times \tan 60^{\circ} \\ & =51.96 \mu \mathrm{T} \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক বিনতি [math]I[/math] হলো ক্ষেত্ররেখা ও অনুভূিমাত্রার মধ্যে কোণ, তাই [math]\tan I = \dfrac{B_v}{B_h}[/math] এবং [math]B_v = B_h \tan I[/math]। গণনা করলে [math]B_v = 30\,\mu T \times \tan 60^\circ = 30\,\mu T \times \sqrt{3} \approx 51.96\,\mu T \ (\approx 52\,\mu T)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 424286)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]30 \ T[/math] এবং বিনতি [math]30°[/math] । ঐ স্থানে একটি কম্পাস রেখে চুম্বক শলাকা বরাবর [math]3 \ cm[/math] উপরে [math]5 \ A[/math] তড়িৎবাহী একটি লম্বা সোজা তার স্থাপন করা হলে শলাকাটি কিছুটা বিচ্যুত হয়ে স্থির হলো।
+
+Options:
+ঘ. চুম্বক শলাকাটি কতটুকু বিচ্যুত হয়ে স্থির হয়ে ছিল, গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘতড়িৎবাহী তারে প্রবাহের দরুন চুম্বক শলাকায় আবিষ্ট চৌম্বক ক্ষেত্ৰ (Bm) নিম্নে নির্ণয় করা হলো:এখানে,প্রবাহ, I = 5 Aতার হতে চুম্বকের দূরত্ব, d =3 cm = 0.03 mশূন্যস্থান বা বায়ুর চৌম্বক প্রবেশ্যতা [math]\mu_{0}=4 \pi \times 10^{-7} \mathrm{WbA}^{-1} \mathrm{~m}^{-\mathrm{1}}[/math]
+আবিষ্ট চৌম্বক ক্ষেত্র, [math]B_m[/math]
+=?এক্ষেত্রে,[math]\begin{array}{l}B_{m}=\frac{\mu_{0} I}{2 \pi d} \\=\frac{4 \pi \times 10^{-7} \times 5}{2 \pi \times 0.03} \\=33.33 \times 10^{-6} \mathrm{~T} \\=33.33 \mu \mathrm{T}\end{array}[/math]
+‘গ’ হতে পাই, চুম্বক শলাকার ওপর ভূ-চৌম্বক ক্ষেত্রের মান[math]\mathrm{B}_{e}=34.64 \mu \mathrm{T}[/math]
+ভূ-চুম্বকের দরুন শলাকাটি উত্তর-দক্ষিণ বরাবর থাকতে চাইবে। কিন্তু প্রবাহের দরুন সৃষ্ট চৌম্বক ক্ষেত্র শলাকাটিকে লম্বভাবে স্থাপনের চেষ্টা করবে। এ দুই চৌম্বক ক্ষেত্রের ক্রিয়ায় (মনে করি) শলাকাটি এর আদি দিকের সাথে [math]\theta[/math]
+ কোণে বিচ্যুত হয়ে সাম্যাবস্থায় থাকবে।
+[Image]
+তাহলে,[math]\begin{aligned}\tan \theta & =\frac{B_{m}}{B_{e}} \\& =\frac{33.33 \mu \mathrm{T}}{34.64 \mu \mathrm{T}} \\\therefore \theta &=43.9^{\circ}\end{aligned}[/math]
+সুতরাং চুম্বক শলাকাটি 43.9° পরিমাণ বিচ্যুত হয়ে স্থির হয়ে ছিল।
+
+Explanation:
+ঘ পারমাণবিক লাইন থেকে সৃষ্ট চৌম্বকক্ষেত্রের মান [math]B_{\text{wire}}=\dfrac{\mu_0 I}{2\pi r}[/math] যেখানে [math]\mu_0=4\pi\times10^{-7}\ \mathrm{T\,m/A}[/math], [math]I=5\ \mathrm{A}[/math], [math]r=0.03\ \mathrm{m}[/math], তাই [math]B_{\text{wire}}=3.33\times10^{-5}\ \mathrm{T}[/math].  
+কম্পাসে সৃষ্ট ্বিভ্রান্তির কোণ [math]\theta[/math] দেওয়া হবে [math]\tan\theta=\dfrac{B_{\text{wire}}}{B_h}[/math] যেখানে [math]B_h=30\ \mathrm{T}[/math], ফলে [math]\tan\theta\approx1.11\times10^{-6}[/math] এবং ছোট কোণের জন্য [math]\theta\approx1.11\times10^{-6}\ \mathrm{rad}\approx6.37\times10^{-5}^\circ\ (\approx0.23\ \text{arcsec})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 424287)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]25 \ T[/math] এবং বিনতি [math]23°[/math]। ঐ স্থানে একটি লম্বা তারের মধ্যদিয়ে উত্তর থেকে দক্ষিণ দিকে [math]10 \ A[/math] প্রবাহ চলছে। এর [math]3m[/math] নিচে এক ব্যাক্তি দিকদর্শন যন্ত্রের সাহায্যে দিক নির্ণয় করছে।
+
+Options:
+গ. পরীক্ষার স্থানে ভূ-চৌম্বক ক্ষেত্রের উলম্ব উপাংশের মান দ্বারা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+গ ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক ও উলম্ব উপাংশের মধ্যে সম্পর্ক [math]\tan I = \dfrac{B_v}{B_h}[/math] । তাই [math]B_v = B_h \tan I[/math] । এখানে [math]B_h=25\ T[/math] এবং [math]I=23^\circ[/math], ফলে [math]B_v=25\tan23^\circ \approx 10.6\ T[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 424288)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]25 \ T[/math] এবং বিনতি [math]23°[/math]। ঐ স্থানে একটি লম্বা তারের মধ্যদিয়ে উত্তর থেকে দক্ষিণ দিকে [math]10 \ A[/math] প্রবাহ চলছে। এর [math]3m[/math] নিচে এক ব্যাক্তি দিকদর্শন যন্ত্রের সাহায্যে দিক নির্ণয় করছে।
+
+Options:
+ঘ. দিক নির্ণয়ে কি কোনো সমস্যা হয়েছে বলে তুমি মনে কর? গাণিতিক বিশ্লেষণের সাহায্যে তোমার উত্তরের সপক্ষে যুক্তি দাও
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,তড়িৎ প্রবাহ, i = 10 Aদুরত্ব, a = 3 m= [math]\mu_{0}=4 \pi \times 10^{-7} \mathrm{~T} \cdot \mathrm{m} \cdot \mathrm{A}^{-1}[/math]
+আমরা জানি, লম্বা সোজা তারে তড়িৎ প্রবাহের জন্য সৃষ্ট চৌম্বক ক্ষেত্র,[math]B=\frac{\mu_{0} i}{2 \pi a}=\frac{4 \pi \times 10^{-7} \mathrm{~T} \cdot \mathrm{m} \cdot \mathrm{A}^{-1} \times 10 \mathrm{~A}}{2 \pi \times 3 \mathrm{~m}}=0.67 \mu \mathrm{T}[/math]
+ফ্লেমিংয়ের ডান হস্ত নিয়মানুসারে, এ চৌম্বক ক্ষেত্রের দিক হবে অনুভূমিক বরাবর পূর্ব থেকে পশ্চিম দিক। ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ দক্ষিণ থেকে উত্তর দিকে। এ দুটির লব্ধি উত্তর দিকের সাথে [math]\theta[/math]
+ কোণ করলে আমরা পাই,[math]\begin{array}{ll} & \tan \theta=\frac{B}{B_{H}}=\frac{0.67 \mu \mathrm{T}}{25 \mu \mathrm{T}}=0.0268 \\\therefore \quad &\theta=1.535^{\circ}\end{array}[/math]
+সুতরাং দিকদর্শন যন্ত্রটি প্রকৃত উত্তর দিকের সাথে 1.535° কোণে পশ্চিম দিককে উত্তর দিকে নির্দেশ করবে। সুতরাং আমরা বলতে পারি, দিক নির্ণয়ে কিছুটা হলেও সমস্যা হয়েছে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ হ্যাঁ—কিছুটা সমস্যা হবে কিন্তু খুব বড় নয়; তারের তৈরি চৌম্বক ক্ষেত্র কম্পাসকে সামান্য বদমেজাজ করবে। গাণিতিকভাবে [math]B_{\text{wire}}=\dfrac{\mu_0 I}{2\pi r}=\dfrac{4\pi\times10^{-7}\times10}{2\pi\times3}\approx6.67\times10^{-7}\ \mathrm{T}[/math] এবং ভূমধ্যচৌম্বক অনুভূমিক উপাংশ ধরলে [math]B_H=25\times10^{-6}\ \mathrm{T}[/math], তাই সূচকের বিচ্যুতি [math]\theta=\arctan\frac{B_{\text{wire}}}{B_H}\approx\arctan\frac{6.67\times10^{-7}}{25\times10^{-6}}\approx1.5^\circ[/math]—অর্থাৎ প্রায় [math]1.5^\circ[/math] বিকৃতি, সাধারণ দিকনির্ধারণের জন্য ন‌্যূনতম কিন্তু সূক্ষ্ম মাপে বিবেচ্য।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 424289)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূচৌম্বক ক্ষেত্রের মান [math]42 \ \mu T[/math] এবং বিনতি [math]32^{\circ}[/math]। এই স্থানের ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক ও উ ল্লম্ব উপাংশ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](22.26 \mu T)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ভূচৌম্বক ক্ষেত্রের মান, [math]B=42 \ \mu T[/math]
+বিনতি, [math]\delta=32^{\circ}[/math]
+ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ, [math]B_{H}=?[/math]
+ভূচৌম্বক ক্ষেত্রের উলম্ব উপাংশ, [math]B_{v}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{B}_{\mathrm{H}} & =\mathrm{B} \cos \delta \\ & =(42 \mu \mathrm{T}) \cdot\left(\cos 32^{\circ}\right) \\ & =35.62 \mu \mathrm{T} \text { (Ans.) } \end{aligned}[/math]
+আবার,[math]\begin{aligned} B_{V} & =B \sin \delta \\ & =(42 \mu \mathrm{T}) \cdot\left(\sin 32^{\circ}\right) \\ & =22.26 \mu \mathrm{T} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: মোট ভূচৌম্বক ক্ষেত্রকে অনুভূমিক ও উল্লম্ব উপাংশে বিভক্ত করলে সরল ত্রিভুজ তৈরি হয়, তাই [math]B_H=B\cos I[/math] এবং [math]B_V=B\sin I[/math]. এখানে [math]B=42\ \mu T,\, I=32^\circ[/math], ফলে [math]B_H=42\cos32^\circ\approx42\times0.8480\approx35.6\ \mu T[/math] এবং [math]B_V=42\sin32^\circ\approx42\times0.5299\approx22.3\ \mu T[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 424290)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বক ক্ষেত্রের মান [math]22.5 \ \mu T[/math] এবং বিনতি [math]30°[/math] । ঐ স্থানের ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশের মান বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1.95 \times 10^{-5} T[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,কোনো স্থানের ভূচৌম্বক ক্ষেত্রের মান, [math]B=22.5 \ \mu T[/math]
+বিনতি, [math]\delta = 30^{\circ}[/math]
+ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ, [math]B_{H}=?[/math]
+ [math]\\[/math]
+ [math]\begin{aligned} \mathrm{B}_{\mathrm{H}} & =\mathrm{B} \cos \delta \\ & =(22.5 \mu \mathrm{T}) \cdot\left(\cos 30^{\circ}\right) \\ & =19.49 \mu \mathrm{T} \\ & =1.95 \times 10^{-5} \mathrm{~T} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: অনুভূমিক উপাংশ মোট চৌম্বক ক্ষেত্রের [math]\cos I[/math] গুণের সমান। তাই [math]B_h=B\cos I=22.5\ \mu\text{T}\times\cos 30^\circ=22.5\times\frac{\sqrt{3}}{2}\ \mu\text{T}\approx19.5\ \mu\text{T}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 424291)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশের মান [math]28 \ \mu T[/math] এবং বিনতি [math]30°[/math] । ঐ স্থানে ভূচৌম্বক ক্ষেত্রের মোট প্রাবল্যের মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]32.33 \ \mu T[/math]
+
+Explanation:
+ব্যাখ্যা: ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]B_h[/math] ও বিনতি [math]I[/math] হলে [math]B_h=B\cos I[/math], তাই মোট প্রাবল্য [math]B=\dfrac{B_h}{\cos I}[/math]. এখানে [math]B_h=28\ \mu T[/math] এবং [math]I=30^\circ[/math], ফলে [math]B=\dfrac{28}{\cos30^\circ}=\dfrac{28}{\sqrt{3}/2}\approx32.3\ \mu T[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 424292)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূচৌম্বক ক্ষেত্রের মান [math]3.6 \times 10^{-5}T[/math] এবং অনুভূমিক উপাংশের মান [math]2.8 \times 10^{-5}T[/math]। ঐ স্থা নের বিনতি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]38.94^{\circ}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ভূচৌম্বক ক্ষেত্রের মান, [math]\mathrm{B}=3.6 \times 10^{-5} \mathrm{~T}[/math]
+ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ, [math]\mathrm{B}_{\mathrm{H}}=2.8 \times 10^{-5} \mathrm{~T}[/math]
+বিনতি, [math]\delta =?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \begin{aligned} \mathrm{B}_{\mathrm{H}} & =\mathrm{B} \cos \delta \\ \Rightarrow \cos \delta & =\frac{\mathrm{B}_{\mathrm{H}}}{\mathrm{B}} \end{aligned} \\ \begin{aligned} \Rightarrow \delta & =\cos ^{-1}\left(\frac{\mathrm{B}_{\mathrm{H}}}{\mathrm{B}}\right) \\ & =\cos ^{-1}\left(\frac{2.8 \times 10^{-5} \mathrm{~T}}{3.6 \times 10^{-5} \mathrm{~T}}\right) \\ & =38.94^{\circ} \text { (Ans.) } \end{aligned} \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রবণণ কোণ [math]I[/math] নির্ণয়ে অনুভূমিক উপাংশ ও মোট ক্ষেত্রের সম্পর্ক [math]\cos I=\dfrac{B_H}{B}[/math] ব্যবহার করা হয়। এখানে [math]B=3.6\times10^{-5}\,T,\;B_H=2.8\times10^{-5}\,T[/math], সুতরাং [math]I=\cos^{-1}\!\left(\dfrac{2.8}{3.6}\right)\approx39^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 424293)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে [math]B_{H}[/math]-এর মান [math]36 \mu T[/math] এবং বিনতি [math]45°[/math] হলে ঐ স্থানের ভূ-চৌম্বক ক্ষেত্র নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](50.91 \ \mu T)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ, [math]H=36 \ \mu T[/math]
+বিনতি, [math]\delta =45^{\circ}[/math]
+ভূচৌম্বক ক্ষেত্রের মান, [math]B=?[/math]
+ [math]\\[/math]
+ [math]\begin{array}{l} \mathrm{H}=\mathrm{B} \cos \delta \\ \Rightarrow \mathrm{B}=\frac{\mathrm{H}}{\cos \delta} \\ =\frac{(36 \mu \mathrm{T})}{\left(\cos 45^{\circ}\right)} \\ =50.91 \mu \mathrm{T} \text { (Ans.) } \\ \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাদান ও মোট ক্ষেত্রের সম্পর্ক [math]B_H = B\cos I[/math]। সুতরাং [math]B = \frac{B_H}{\cos I} = \frac{36\ \mu T}{\cos45^\circ} = 36\sqrt{2}\ \mu T \approx 50.9\ \mu T[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 424294)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] স্থানে ভূ-চৌম্বক ক্ষেত্র যথাক্রমে [math]98 \ \mu T[/math] ও [math]50 \mu T[/math] এবং বিনতি [math]45°[/math] ও [math]60°[/math] । ঐ দুই স্থানের ভূ -চৌম্বক ক্ষেত্রের অনুভূমিক ও উল্লম্ব উপাংশের অনুপাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.77:1,1.6:1[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]A[/math]
+ স্থানে ভূচৌম্বক ক্ষেত্র, [math]\mathrm{B}_{\mathrm{A}}=98 \mu \mathrm{T}[/math]
+ [math]B[/math]
+ স্থানে ভূচৌম্বক ক্ষেত্র, [math]\mathrm{B}_{\mathrm{B}}=50 \mu \mathrm{T}[/math]
+ [math]A[/math]
+ স্থানে বিনতি, [math]\delta_{\mathrm{A}}=45^{\circ}[/math]
+ [math]B[/math]
+ স্থানে বিনতি, [math]\delta_{B}=60^{\circ}[/math]
+আমরা জানি, [math]\mathrm{H}=\mathrm{B} \cos \delta[/math]
+ এবং [math]V=B \ sin \delta[/math]
+তাহলে,[math]A[/math]
+স্থানে ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ, [math]H_{A}=B_{A} \cos \delta_{A}[/math]
+এবং উল্লম্ব উপাংশ, [math]V_{A}=B_{A} \sin \delta_{A}[/math]
+আবার, [math]B[/math]
+ স্থানে ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ, [math]H_{B}=B_{B} \cos \delta_{B}[/math]
+এবং উল্লম্ব উপাংশ, [math]V_{B}=B_{B} \sin \delta_{B}[/math]
+দুই স্থানের ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশের অনুপাত,[math]\begin{aligned} \mathrm{H}_{\mathrm{A}}: \mathrm{H}_{\mathrm{B}} & =\mathrm{B}_{\mathrm{A}} \cos \delta_{\mathrm{A}}: \mathrm{B}_{\mathrm{B}} \cos \delta_{\mathrm{B}} \\ & =\frac{\mathrm{B}_{\mathrm{A}} \cos \delta_{A}}{\mathrm{~B}_{\mathrm{B}} \cos \delta_{B}} \\ & =\frac{(98 \mu \mathrm{T}) \cdot\left(\cos 45^{\circ}\right)}{(50 \mu \mathrm{T}) \cdot\left(\cos 60^{\circ}\right)} \\ & =2.77 \\ \therefore \mathrm{H}_{\mathrm{A}}: \mathrm{H}_{\mathrm{B}} & =2.77: 1 \text { (Ans.) } \end{aligned}[/math]
+দুই স্থানের ভূচৌম্বক ক্ষেত্রের উল্লম্ব উপাংশের অনুপাত,[math]\begin{array}{l} \mathrm{V}_{\mathrm{A}}: \mathrm{V}_{\mathrm{B}}=\mathrm{B}_{\mathrm{A}} \sin \delta_{\mathrm{A}}: \mathrm{B}_{\mathrm{B}} \sin \delta_{B} \\ =\frac{B_{\mathrm{A}} \sin \delta_{A}}{\mathrm{~B}_{\mathrm{B}} \sin \delta_{B}} \\ =\frac{(98 \mu \mathrm{T}) \cdot\left(\sin 45^{\circ}\right)}{(50 \mu \mathrm{T}) \cdot\left(\sin 60^{\circ}\right)} \\ =1.6 \\ \therefore \mathrm{V}_{\mathrm{A}}: \mathrm{V}_{\mathrm{B}}=1.6: 1 \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক ও উল্লম্ব উপাংশ হল [math]B_H=B\cos I,\;B_V=B\sin I[/math], তাই অনুপাত [math]\dfrac{B_H}{B_V}=\cot I[/math] (এটি মোট শক্তির মান [math]B[/math]-এর ওপর নির্ভর করে না)। A-তে [math]\cot45^\circ=1\Rightarrow B_H:B_V=1:1[/math] এবং B-তে [math]\cot60^\circ=1/\sqrt{3}\approx0.577\Rightarrow B_H:B_V=1:\sqrt{3}\ (\text{অথবা }B_H/B_V=1/\sqrt{3})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 424295)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বক ক্ষেত্রের মোট প্রাবল্য [math]15.923 \ \mu T[/math] এবং বিনতি [math]60°[/math] হলে ঐ স্থানে ভূ-চৌম্বক ক্ষেত্রের উল্লম্ব উ পাংশের মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](13.79 \mu T)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,কোনো স্থানের ভূচৌম্বক ক্ষেত্রের মোট প্রাবল্য, [math]B=15.923 \ \mu T[/math]
+বিনতি, [math]\delta=60^{\circ}[/math]
+ভূচৌম্বক ক্ষেত্রের উল্লম্ব উপাংশ, [math]V=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} V & =B \sin \delta \\ & =(15.923 \mu \mathrm{T})\left(\sin 60^{\circ}\right) \\ & =13.79 \mu \mathrm{T} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক বিনতি হলো ক্ষেত্রটি অনুভূমিকের সাথে গঠিত কোণ, তাই উল্লম্ব উপাংশের সূত্র [math]B_v=B\sin I[/math]. অতএব [math]B_v=15.923\times\sin60^\circ=15.923\times\frac{\sqrt3}{2}\approx13.79\ \mu T[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 424296)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের বিনতি [math]60°[/math] এবং ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]30 \ T[/math]। ঐ স্থানে ভূ-চৌম্বক ক্ষেত্রের উল্লম্ব উপাংশ কত ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]51.96 \ \mu T[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,অনুভূমিক প্রাবল্য, [math]H=30 \ \mu T[/math]
+বিনতি, [math]\delta = 60^{\circ}[/math]
+উল্লম্ব উপাংশ, [math]V=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{\mathrm{V}}{H}=\tan \delta \\ \begin{aligned} \Rightarrow \mathrm{V} & =\mathrm{H} \tan \delta \\ & =30 \cdot \mu \mathrm{T} \times \tan 60^{\circ} \\ & =51.96 \mu \mathrm{T} \end{aligned} \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক ক্ষেত্রের বিনতি [math]I[/math] হলে [math]\tan I = Z/H[/math] যেখানে [math]Z[/math] উল্লম্ব উপাংশ এবং [math]H[/math] অনুভূমিক উপাংশ; তাই [math]Z = H\tan I[/math]. এখানে [math]Z = 30\times \tan 60^\circ = 30\times \sqrt{3} \approx 51.96\ \mathrm{T}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 424297)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক ও উল্লম্ব উপাংশ যথাক্রমে [math]40 \ \mu T[/math] ও [math]30 \ \mu T[/math] । ঐ স্থানের বিনতি ও ভূ-চৌম্বক ক্ষেত্ৰ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](50 \ \mu T)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ভূচৌম্বকক্ষেত্রের অনুভূমিক উপাংশ, [math]H=40 \ \mu T[/math]
+ভূচৌম্বকক্ষেত্রের উল্লম্ব উপাংশ, [math]V=30 \ \mu T[/math]
+বিনতি, [math]\delta = ?[/math]
+ভূচৌম্বকক্ষেত্রের মান, [math]B=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \tan \delta=\frac{V}{H} \\ \Rightarrow \delta=\tan ^{-1}\left(\frac{V}{H}\right) \\ =\tan ^{-1}\left(\frac{30 \mu \mathrm{T}}{40 \mu \mathrm{T}}\right) \\ =36.87^{\circ} \text { (Ans.) } \end{array}[/math]
+আবার,[math]\begin{aligned} \mathrm{H} & =\mathrm{B} \cos \delta \\ \Rightarrow \mathrm{B} & =\frac{\mathrm{H}}{\cos \delta} \\ & =\frac{(40 \mu \mathrm{T})}{\left(\cos 36.87^{\circ}\right)}=50 \mu \mathrm{T} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: অনুভূমিক ও উল্লম্ব উপাংশ দুটি ভেক্টর উপাদান থেকে মোট চৌম্বক ক্ষেত্রের মান এবং অনুভূমিকের সঙ্গে ক্ষেত্রের কোণ (বিনতি) নির্ণয় করা যায়।  
+[math]B=\sqrt{(40\ \mu T)^2+(30\ \mu T)^2}=\sqrt{2500}\ \mu T=50\ \mu T[/math]  
+[math]I=\tan^{-1}\!\left(\frac{30}{40}\right)=\tan^{-1}(0.75)\approx36.87^\circ[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 424298)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানের ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশের মান 89μT এবং বিনতি 60°। ঐ স্থানে ভূ-চৌম্বক ক্ষেত্রের উল্লম্ব উপাংশের মা ন কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, আনুভূমিক উপাংশ, [math]H = 89[/math]
+বিনতি কোণ, [math]\delta[/math]
+ = 60°উল্লম্ব উপাংশ, [math]V = ?[/math]
+আমরা জানি,[math]V = H tan δ[/math]
+ [math]= 89 \times tan 60°[/math]
+ [math]= 154.15[/math]
+অতএব, ভূ-চৌম্বক ক্ষেত্রের উল্লম্ব উপাংশের মান [math]154.15 \ \mu T[/math]
+
+
+Explanation:
+উল্লম্ব ও অনুভূমিক উপাংশের সম্পর্ক হলো [math]\displaystyle \frac{B_v}{B_h}=\tan I\Rightarrow B_v=B_h\tan I[/math], তাই এখানে  
+[math]B_v=89\times\tan60^\circ=89\times\sqrt{3}\approx154.15\ \mu\text{T}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 424299)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বিনতি বৃত্ত চৌম্বক মধ্যতল থেকে [math]\theta[/math] কোণে রাখা হলে [math]\varphi[/math] বিনতি পাওয়া গেল। দেখাও যে, ঐ স্থানের প্রকৃ ত বিনতি, [math]\delta = tan^{-1}(cos \theta \ tan \varphi)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ধরা যাক,ঐ স্থানে প্রকৃত বিনতির মান [math]= \delta[/math]
+তাহলে, ভূচৌম্বকের অনুভূমিক ও উল্লম্ব উপাংশ যথাক্রমে [math]H[/math]
+ ও [math]V[/math]
+ হলে, [math]\tan \delta=\frac{V}{H}[/math]
+এখন, চৌম্বক মধ্যতলের সাথে [math]\theta[/math]
+ কোণে অনুভূমিক বরাবর [math]H[/math]
+ এর উপাংশ, [math]\mathrm{H}_{1}=\mathrm{H} \cos \theta[/math]
+চুম্বক শলাকা শুধু উল্লম্ব তলে ঘুরতে পারে বলে, উল্লম্ব উপাংশ পরিবর্তন হয় না।সুতরাং নতুন স্থানে আপাত বিনতি [math]\varphi[/math]
+ হলে,[math]\begin{aligned} \tan \varphi & =\frac{V}{H_{1}} \\ & =\frac{V}{H \cos \theta}=\frac{\tan \delta}{\cos \theta}\left[\because \tan \delta=\frac{V}{H}\right] \end{aligned}[/math]
+ [math]\begin{array}{l}\Rightarrow \tan \varphi \cdot \cos \theta=\tan \delta\\\Rightarrow \tan \delta=\tan \varphi \cdot \cos \theta\\\Rightarrow \delta=\tan ^{-1}(\cos \theta \cdot \tan \varphi)\end{array}[/math]
+ঐ স্থানে, প্রকৃত বিনতি, [math]\delta=\tan ^{-1}(\cos \theta \cdot \tan \varphi)[/math]
+ (দেখানো হল)
+
+Explanation:
+ব্যাখ্যা: বৃত্তটি θ কোণে টিল্ট করলে অনুভূমিক উপাদানটি পরিবীক্ষণে [math]\cos\theta[/math] অনুপাতে ক্ষীণ হয়; ক্ষেত্রের প্রকৃত উল্লম্ব ও অনুভূমিক উপাদান ধরা যাক [math]B_v[/math] ও [math]B_h[/math]। মাপা বিনতি হলে [math]\varphi=\tan^{-1}\frac{B_v}{B_h\cos\theta}[/math], তাই [math]\frac{B_v}{B_h}=\cos\theta\tan\varphi[/math] এবং প্রকৃত বিনতি হবে [math]\delta=\tan^{-1}\frac{B_v}{B_h}=\tan^{-1}(\cos\theta\tan\varphi)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 424284)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2006-2007 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি বিনতি বৃত্তকে এমনভাবে রাখা হল যাতে এর চৌম্বক শলাকা উল্লম্ব থাকে। পরে বিনতি বৃত্তকে এর উলম্বতলে [math]\alpha[/math] কো ণে ঘুরানো হলো। এই অবস্থানে আপাত বিনতি [math]\phi[/math] হলে দেখাও, [math]\tan \delta=\tan \phi \sin \alpha[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution :
+[Image]
+[math]\tan \phi=\frac{\mathrm{V}}{\mathrm{H}_{1}} ; \tan \delta=\frac{\mathrm{V}}{\mathrm{H}}[/math]
+যেখানে, [math]\theta =[/math]
+ চৌম্বক মধাতল থেকে পরিমাপকৃত কোণ[math]\tan \phi=\frac{V}{H \cos \theta}=\frac{V}{H} \cdot \frac{1}{\cos \left(90^{\circ}-\alpha\right)} \Rightarrow \tan \phi=\tan \delta \frac{1}{\sin \alpha}[/math]
+ [math]\Rightarrow \tan \delta=\tan \phi \sin \alpha[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূমির চৌম্বক ক্ষেত্রের উত্থানচ্যাল (vertical) ও অনুভূমিক (horizontal) উপাদানকে যথাক্রমে [math]V[/math] ও [math]H[/math] ধরে حقیقی ডিপের জন্য [math]\tan\delta=\dfrac{V}{H}[/math] হয়। বৃত্তটি এর উলম্বতলে [math]\alpha[/math] কোণে ঘুরালে সমতলটির মধ্যে পড়া অনুভূমিক উপাদান কার্যত [math]H/\sin\alpha[/math] হবে, ফলে আপাত বিনতি সন্তোষ করে [math]\tan\phi=\dfrac{V}{H/\sin\alpha}[/math]। উপরোক্ত দুইটি সমীকরণ থেকে সরলীকরণ করলে পাওয়া যায় [math]\tan\delta=\tan\phi\sin\alpha[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 424285)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]30 \ T[/math] এবং বিনতি [math]30°[/math] । ঐ স্থানে একটি কম্পাস রেখে চুম্বক শলাকা বরাবর [math]3 \ cm[/math] উপরে [math]5 \ A[/math] তড়িৎবাহী একটি লম্বা সোজা তার স্থাপন করা হলে শলাকাটি কিছুটা বিচ্যুত হয়ে স্থির হলো।
+
+Options:
+গ. ঐ স্থানের মোট ভূচৌম্বক ক্ষেত্রের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,ভূচৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ, H = 30 [math]\mu[/math]
+Tবিনতি কোণ, [math]\delta[/math]
+ = 30°মোট ভূচৌম্বক ক্ষেত্র, B=?আমরা জানি,[math]\begin{aligned}H=B \cos \delta \\\text { } B=\frac{H}{\cos \delta} \\=\frac{30}{\cos 30^{\circ}} \\\therefore B=34.64 \mu \mathrm{T} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ অনুভূমিক উপাংশ ও মোট ক্ষেত্রের সম্পর্ক হল [math]B_H = B\cos I[/math], তাই [math]B=\dfrac{B_H}{\cos I}=\dfrac{30}{\cos30^\circ}=\dfrac{30}{\sqrt{3}/2}=\dfrac{60}{\sqrt{3}}=20\sqrt{3}[/math]। ফলে মোট ভূচৌম্বক ক্ষেত্রের মান প্রায় [math]34.64\ \mathrm{T}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 424281)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কোনো স্থানে বিচ্যুতি কোণ [math]30^{\circ}[/math] বিনতি কোণ [math]45^{\circ}[/math] এবং ভূ-চৌম্বকক্ষেত্রের অনুভূমিক উপাংশ [math]31.85 \mu \ mathrm{T}[/math]। ঐ স্থানে ভৌগলিক মধ্যতলে ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক ও উল্লম্ব উপাংশ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]31.846 \mu \mathrm{T}[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]\delta=45^{\circ} ; \phi=30^{\circ}, \mathrm{H}=31.85 \mu \mathrm{T}[/math]
+ [math]\therefore \mathrm{H}_{1}=\mathrm{H} \cos \phi=(31.85 \times \cos 30) \mu \mathrm{T}=27.58 \mu \mathrm{T}\ ও\ \mathrm{V}=\mathrm{H} \tan \delta=31.846 \mu \mathrm{T} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অনুভূমিক উপাংশ [math]H[/math] থেকে ভূগোলিক অনুরূপ উপাদানগুলোর জন্য উত্তরদিক (X) এবং পূর্বদিক (Y) ব্যবহার করে [math]X=H\cos D,\;Y=H\sin D[/math] এবং উল্লম্ব উপাংশ [math]Z=H\tan I[/math]। তাই নির্ণয়গুলো হবে: [math]X=31.85\cos30^\circ\approx27.59\ \mu\mathrm{T},\quad Y=31.85\sin30^\circ\approx15.93\ \mu\mathrm{T},\quad Z=31.85\tan45^\circ=31.85\ \mu\mathrm{T}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 424282)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বিনতি বৃত্তকে এমনভাবে স্থাপন করা হল যেন চৌম্বক শলাকা পুরোপুরি উল্লখ থাকে। বিনতি বৃত্তকে অতঃপর উল্লম্ব অক্ষে [math]3 0^\circ[/math] কোণে ঘুরালে আপাত বিনতি কোণ [math]45^\circ[/math] হয়। বিনতি কোণের প্রকৃত মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]26.565^{\circ}[/math]
+)[math]\\[/math]
+Solution : ধরি, প্রকৃত বিনতি [math]=\delta[/math]
+ তাহলে [math]\tan \delta=\dfrac{V}{H}[/math]
+উল্লম্ব অক্ষে [math]30^\circ[/math]
+ কোণে ঘুরালে চৌম্বক মধ্যতলের সাথে উৎপন্ন কোণ [math]=90^{\circ}-30^{\circ}=60^{\circ}[/math]
+এখন, নতুন অবস্থানে অনুভূমিক বরাবর ভূচৌম্বক ক্ষেত্রের উপাংশ [math]\mathrm{H}_{1}=\mathrm{H} \cos 60^{\circ}[/math]
+এখন, [math]\tan \delta_{1}=\dfrac{V}{H_{1}}=\dfrac{V}{H \cos 60^{\circ}}=\dfrac{\tan \delta}{\cos 60^{\circ}} \quad [ \delta_{1}=[/math]
+ আপাত বিনতি [math]][/math]
+ [math]\tan \delta=\cos 60^{\circ} \times \tan \delta_{1}=\dfrac{1}{2} \times \tan 45^{\circ}=\dfrac{1}{2} \therefore \delta=26.565^{\circ} \text { [Ans] }[/math]
+
+
+Explanation:
+ব্যাখ্যা: উলম্ব অক্ষে [math]\phi[/math] করে ঘোরালে নিরিক্ষার সমতলে ভূ-অবিচলনীয় ক্ষেত্রের অনুভূমিক উপাদানটি [math]B_h\cos\phi[/math] হয়, তাই আপাত বিনতি [math]\delta'[/math] বাস্তব বিনতি [math]I[/math] এর সাথে সম্পর্ক রাখে: [math]\tan\delta'=\dfrac{\tan I}{\cos\phi}[/math]. এখানে [math]\phi=30^\circ,[\;]\delta'=45^\circ[/math] হলে [math]1=\dfrac{\tan I}{\cos30^\circ}[/math], সুতরাং [math]\tan I=\cos30^\circ=\dfrac{\sqrt{3}}{2}[/math] এবং [math]I=\tan^{-1}\!\big(\dfrac{\sqrt{3}}{2}\big)\approx40.9^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 424283)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009, 2005-2006 | Boards:  | Tags: Bangladesh University of Textiles, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কোন স্থানে ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ [math]27.87\mu T[/math] এবং বিনতি কোণ [math]30^\circ[/math] হলে ঐ স্থানে ভূ-চৌম্বক ক্ষেত্রে র মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]32.18 \mu \mathrm{T}[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]\mathrm{H}=27.87 \mu \mathrm{T}\quad \delta=30^{\circ}[/math]
+ [math]\text { We know, } \mathrm{H}=\mathrm{B} \cos \delta \Rightarrow \mathrm{B}=\dfrac{\mathrm{H}}{\cos \delta}=\dfrac{27.87 \times 10^{-6} \mathrm{~T}}{\cos 30^{\circ}}=32.18 \mu \mathrm{T}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ এবং সম্পূর্ণ ক্ষেত্রের সম্পর্ক [math]B_h = B\cos I[/math]; তাই [math]B = \dfrac{B_h}{\cos I}[/math]. এখানে [math]B = \dfrac{27.87\ \mu T}{\cos 30^\circ} = \dfrac{27.87}{0.8660254}\ \mu T \approx 32.18\ \mu T[/math].
+
+Sub-Questions:
+

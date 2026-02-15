@@ -1,0 +1,1053 @@
+================================================================================
+Question #1 (ID: 411268)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]3\times3[/math] আকারের একটি কর্ণ ম্যাট্রিক্স [math]D[/math] এর জন্য [math]| D | = 20[/math] হলে [math]\left|(2 D)^{-1}\right|[/math] এর মান কত?-
+
+Options:
+ক. [math]\frac{1}{160}[/math]
+খ. [math]\frac{1}{40}[/math]
+গ. [math]\frac{1}{10}[/math]
+ঘ. [math]-\frac{1}{160}[/math]
+ঙ. [math]-\frac{1}{40}[/math]
+
+
+Correct Answer: ক
+
+Solution:
+ধরি, [math]3\times3[/math]
+ আকারের কর্ণ ম্যাট্রিক্স [math]D[/math]
+ [math]=\left[\begin{array}{lll}a & 0 & 0 \\0 & b & 0 \\0 & 0 & c\end{array}\right][/math]
+ [math]\therefore 2 \mathrm{D}[/math]
+ [math]=\left[\begin{array}{ccc}2 \mathrm{a} & 0 & 0 \\0 & 2 \mathrm{~b} & 0 \\0 & 0 & 2 \mathrm{c}\end{array}\right] \therefore|\mathrm{D}|[/math]
+ [math]=\left[\begin{array}{lll}\mathrm{a} & 0 & 0 \\0 & \mathrm{~b} & 0 \\0 & 0 & \mathrm{c}\end{array}\right]=20[/math]
+ [math]\therefore|2 \mathrm{D}|[/math]
+ [math]=\left[\begin{array}{ccc}2 \mathrm{a} & 0 & 0 \\0 & 2 \mathrm{~b} & 0 \\0 & 0 & 2 \mathrm{c}\end{array}\right][/math]
+ [math]\Rightarrow2^{3}[/math]
+ [math]\left[\begin{array}{lll}a & 0 & 0 \\0 & b & 0 \\0 & 0 & c\end{array}\right][/math]
+ [math]=8 \times 20=160[/math]
+ এখন, জেনে রাখো, [math]\left|(2 D)^{-1}\right|[/math]
+ [math]=\frac{1}{|2 D|}[/math]
+ [math]=\frac{1}{160}[/math]
+
+
+Explanation:
+ম্যাট্রিক্সের সাথে কোন কিছু গুণ অবস্থায় থাকলে তা ম্যাট্রিক্সের প্রত্যেকটা ভুক্তির সাথে গুণ অবস্থায় থাকে। কিন্তু নির্ণায়কের সাথে কোন সংখ্যা গুণ অবস্থায় থাকার অর্থ হল সেটি কোন সারির সাথে অথবা কোন কলামের সাথে গুণ অবস্থায় আছে। |2D| এর ক্ষেত্রে প্রথম সারি [math]\left|\begin{array}{lll}2 a & 0 & 0\end{array}\right|[/math]
+ থেকে একটি 2; একইভাবে দ্বিতীয় সারি ও তৃতীয় সারি থেকে একটি একটি করে দুটি 2 নির্ণায়কের বাইরে এসেছে। ফলে মোট [math]2 \times 2 \times 2=2^{3}[/math]
+ বাইরে বের হয়ে এসেছে।Shortcut: n ক্রমের A ম্যাট্রিক্সটির জন্য, [math]|(\mathrm{mA})|=\mathrm{m}^{\mathrm{n}}|\mathrm{A}|[/math]
+এ প্রশ্নে ক্রম 3, তাহলে D ম্যাট্রিক্সটির জন্য, [math]\left|(2 D)^{-1}\right|=\frac{1}{|2 D|}[/math]
+ [math]=\frac{1}{2^{3}|D|}[/math]
+ [math]=\frac{1}{8 \times 20}=\frac{1}{160}[/math]
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 411267)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{X}=\left[\begin{array}{l}x \\y \\z\end{array}\right], Y=\left[\begin{array}{c}-a \\b \\c\end{array}\right][/math] এবং [math]z=\left[\begin{array}{ccc}-1 & 0 & 0 \\0 & 2 & 0 \\0 & 0 & -3\end{array}\right][/math] ম্যাট্রিক্সগুলো যদি [math]\mathrm{ZX}=\mathrm{Y}[/math] ম্যাট্রিক্স সমীকরণটি সিদ্ধ করে, তাহলে [math]X=?[/math]
+
+Options:
+A. [math]\left[\begin{array}{c}\mathrm{a} \\\mathrm{b} / 2 \\-\mathrm{c} /3\end{array}\right][/math]
+B. [math]\left[\begin{array}{c}-a \\b / 2 \\c / 3\end{array}\right][/math]
+C. [math]\left[\begin{array}{c}a \\-b / 2 \\c / 3\end{array}\right][/math]
+D. [math]\left[\begin{array}{l}-a \\-b \\-c\end{array}\right][/math]
+E. [math]-\left[\begin{array}{l}-a \\b 2 \\c / 3\end{array}\right][/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\mathrm{ZX}=\mathrm{Y}[/math]
+ [math]\left(\mathrm{Z}^{-1} \mathrm{Z}\right)[/math]
+ [math]\mathrm{x}=\mathrm{Z}^{-1} \mathrm{Y}[/math]
+ [math]X=Z^{-1} Y[/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}-1 & 0 & 0 \\0 & 0.5 & 0 \\0 & 0 & -\frac{1}{3}\end{array}\right][/math]
+ [math]\left[\begin{array}{c}-a \\b \\c\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}a \\0.5 b \\-\frac{c}{3}\end{array}\right][/math]
+বিঃদ্রঃ [math]\mathrm{z}^{-1}[/math]
+ এর মান [math]\text { Calculator }[/math]
+ এ নির্ণয় কর।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 411269)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি ঊর্ধ্ব ত্রিভুজাকার ম্যাট্রিক্স?
+
+Options:
+ক. [math]\left[\begin{array}{rrr}-1 & 0 & 0 \\3 & 4 & 0 \\2 & 9 & -7\end{array}\right][/math]
+খ. [math]\left[\begin{array}{lll}8 & 3 & 5 \\1 & 0 & 0 \\4 & 6 & 0\end{array}\right][/math]
+গ. [math]\left[\begin{array}{rrr}0 & 0 & -5 \\0 & 2 & 9 \\-1 & 4 & 3\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{lll}9 & 7 & 3 \\0 & 1 & 4 \\0 & 0 & 2\end{array}\right][/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+ত্রিভুজাকার ম্যাট্রিক্স (Triangular matrix): যে বর্গ ম্যাট্রিক্সের প্রধান কর্ণের নিচের অথবা উপরের ভুক্তিগুলি শূন্য তাকে ত্রিভুজাকার ম্যাট্রিক্স বলে। ত্রিভুজাকার ম্যাট্রিক্স দুই ধরনের হয়। যে বর্গ ম্যাট্রিক্সের প্রধান কর্ণের নিচের সকল ভুক্তি শূন্য তাকে ঊর্ধ্ব ত্রিভুজাকার ম্যাট্রিক্স (Upper triangular matrix) এবং যে বর্গ ম্যাট্রিক্সের প্রধান কর্ণের উপরের সকল ভুক্তি শূন্য তাকে নিম্ন ত্রিভুজাকার ম্যাট্রিক্স (Lower triangular matrix) বলে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 411270)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি উলম্ব ম্যাট্রিক্স?
+
+Options:
+ক. [math]\begin{bmatrix}\frac{1}{2} & \frac{\sqrt{3}}{2} \\\frac{\sqrt{3}}{2} & 1\end{bmatrix}[/math]
+খ. [math]\begin{bmatrix}\frac{1}{2} & -\frac{\sqrt{3}}{2} \\-\frac{\sqrt{3}}{2} & 1\end{bmatrix}[/math]
+গ. [math]\begin{bmatrix}\frac{\sqrt{3}}{2} & \frac{1}{2} \\\frac{1}{2} & -\frac{\sqrt{3}}{2}\end{bmatrix}[/math]
+ঘ. [math]\begin{bmatrix}\frac{\sqrt{3}}{2} & \frac{1}{2} \\-\frac{1}{2} & \frac{\sqrt{3}}{2}\end{bmatrix}[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]A \cdot A^{t} =1[/math]
+ যদি হয় তাহলে ওটা উলম্ব ম্যাট্রিক্স [math](I=[(1,0),(0,1)])||[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 411271)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{rrr}1 & -2 & -6 \\-3 & 2 & 9 \\2 & 0 & -3\end{array}\right][/math] এর পর্যায়কাল কত?
+
+Options:
+A. [math]2[/math]
+B. [math]3[/math]
+C. [math]4[/math]
+D. [math]5[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]A=\left[\begin{array}{ccc}1 & -2 & -6 \\-3 & 2 & 9 \\2 & 0 & -3\end{array}\right][/math]
+ [math]\rightarrow A^{3}=A^{2} \cdot A=A^{2+1}[/math]
+ [math]A^{K+1} \rightarrow K=[/math]
+ পর্যায়কাল
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 411272)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]|A|=\left|\begin{array}{rrr}2 & a & 3 \\0 & 4 & -3 \\5 & 12 & 6\end{array}\right|[/math] [math]\mathrm a[/math] এর মান কত?
+
+Options:
+ক. [math]\frac{-3a}{-12}[/math]
+খ. [math]15[/math]
+গ. [math]20[/math]
+ঘ. [math]-15[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+a এর সহগুণক [math]=-\{0 \times[/math]
+ [math]6-(-3) \times 5\}[/math]
+ [math]=-15[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 411273)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]A=\left[\begin{array}{ccc}6 & 12 & 7 \\8 & 18 & 10 \\10 & 21 & 12\end{array}\right][/math] [math]A[/math] ম্যাট্রিক্সের মুখ্য পদ কত?
+
+Options:
+ক. [math]6+18+12[/math]
+খ. [math]7+18+10[/math]
+গ. [math]6 \times 18 \times 12[/math]
+ঘ. [math]7 \times 18 \times 10[/math]
+
+
+Correct Answer: গ
+
+Solution:
+মুখ্যপদ = মুখ্য কর্ণের ভুক্তিগুলির গুণফল [math]=6 \times 18 \times 12[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 411274)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]A=\left[\begin{array}{rr}3 & -2 \\2 & 2\end{array}\right], B=\left|\begin{array}{ccc}p & 0 & 0 \\2 & 4 & 1 \\3 & -2 & 0\end{array}\right|[/math] [math]P[/math] এর কোন মানের জন্য [math]|\mathbf{A}|=\mathbf{B}[/math] হবে?
+
+Options:
+ক. [math]-5[/math]
+খ. [math]-1[/math]
+গ. [math]1[/math]
+ঘ. [math]5[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]|A|=B[/math]
+ [math]\Rightarrow 6+4=p(0+2)[/math]
+ [math]10=2 p[/math]
+ [math]\Rightarrow p=5[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 411275)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]A=\left[\begin{array}{rr}1 & -1 \\0 & 2\end{array}\right], B=\left[\begin{array}{lll}1 & 3 & 0 \\2 & 0 & 1\end{array}\right][/math]
+
+i. [math]A[/math] ম্যাট্রিক্সটির ভুক্তির সংখ্যা [math]4[/math]
+
+ii. [math]B[/math] ম্যাট্রিক্সটির ক্রম [math]3 \times 2[/math]
+
+iii. [math]|\mathrm A|=2[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i
+খ. ii
+গ. i ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+ii. সঠিক নয়। কারণ [math]B[/math]
+ ম্যাট্রিক্সটির ক্রম [math]2 \times 3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 411276)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]A=\left[\begin{array}{rr}3 & -1 \\9 & 5\end{array}\right],[/math] [math]B=\left|\begin{array}{ccc}0 & p & 0 \\8 & 5 & 4 \\3 & -7 & 0\end{array}\right|[/math] [math]p[/math] এর কোন মানের জন্য [math]|\mathrm A | = B[/math] হবে?
+
+Options:
+ক. [math]2[/math]
+খ. [math]-2[/math]
+গ. [math]\frac{1}{2}[/math]
+ঘ. [math]-\frac{1}{2}[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]|A|=B[/math]
+ [math]\Rightarrow 15+9[/math]
+ [math]=-p(0-12)[/math]
+ [math]\Rightarrow 12 p=24[/math]
+ [math]\Rightarrow p=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 411277)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ccc}10 & 4 & 6 \\7 & 9 & 8\end{array}\right], B=\left[\begin{array}{ccc}10 & 4 & 6 \\x+1 & 9 & 8\end{array}\right][/math] এবং [math]\mathrm{A}=\mathrm{B}[/math] হলে [math]\mathrm x[/math] এর মান কত ?
+
+Options:
+A. [math]6[/math]
+B. [math]7[/math]
+C. [math]8[/math]
+D. [math]9[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]A=\left[\begin{array}{ccc}10 & 4 & 6 \\7 & 9 & 8\end{array}\right],[/math]
+ [math]B[/math]
+ [math]=\left[\begin{array}{ccc}10 & 4 & 6 \\x+1 & 9 & 8\end{array}\right][/math]
+এবং [math]A = B[/math]
+ বলে, [math]x+1=7 \Rightarrow x=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 411278)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]A=\left[\begin{array}{rrr}-5 & 4 & -3 \\10 & -7 & 6 \\8 & -6 & 5\end{array}\right][/math] [math]|\mathrm{A}|[/math] এ [math]–6[/math] এর অনুরাশির মান কত?
+
+Options:
+ক. [math]3[/math]
+খ. [math]0[/math]
+গ. [math]-1[/math]
+ঘ. [math]-5[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]-6[/math]
+ এর অনুরাশির মান [math]=(-30+30)=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 411279)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি অভেদঘাতী ম্যাট্রিক্স?
+
+Options:
+ক. [math]\left[\begin{array}{ll}-2 & -3 \\-1 & -2\end{array}\right][/math]
+খ. [math]\left[\begin{array}{cc}-2 & 3 \\-1 & -2\end{array}\right][/math]
+গ. [math]\left[\begin{array}{cc}-2 & -3 \\-1 & 2\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{cc}2 & 3 \\-1 & -2\end{array}\right][/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+“অভেদঘাতী ম্যাট্রিক্স এর ক্ষেত্রে [math]A^{2}=I[/math]
+ [math]\begin{array}{l}{\left[\begin{array}{rr}2 & 3 \\-1 & -2\end{array}\right] \times\left[\begin{array}{rr}2 & 3 \\-1 & -2\end{array}\right]} \\\Rightarrow\left[\begin{array}{cc}2.2+3(-1) & 2.3+3(-2) \\-1.2+(-2)(-1) & -1.3+(-2)(-2)\end{array}\right]=\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right]\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 411280)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Dinajpur Govt. Women's College
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাওঃ
+
+[math]A=\left[\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6 \\8 & 9 & 7\end{array}\right], B=\left[\begin{array}{r}2 \\0 \\-1\end{array}\right][/math] [math]A[/math] এর [math]\text { trace }[/math] কত ?
+
+Options:
+ক. [math]13[/math]
+খ. [math]6[/math]
+গ. [math]16[/math]
+ঘ. [math]15[/math]
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 411281)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Shahid Syed Nazrul Islam College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}1 & 2 & 3 \\5 & a & 6 \\2 & 3 & 1\end{array}\right][/math] এর ১ম সারির ভুক্তিগুলোর সহগুণকগুলোর সমষ্টি [math]0[/math] হলে [math]a=[/math] কত?
+
+Options:
+ক. [math]4[/math]
+খ. [math]5[/math]
+গ. [math]6[/math]
+ঘ. [math]8[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\begin{array}{l}\left|\begin{array}{ll}a & 6 \\3 & 1\end{array}\right|-\left|\begin{array}{ll}5 & 6 \\2 & 1\end{array}\right|+\left|\begin{array}{ll}5 & a \\2 & 3\end{array}\right|=0 \\\Rightarrow a-18-5+12+15-2 a=0 \quad\Rightarrow -a+4=0 \therefore a=4\end{array}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 411282)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+যদি, [math]f(x)=x^{2}-3[/math] এবং [math]A=\left|\begin{array}{ccc}x & 1 & \ln z \\x & 1 & \ln 2 z \\x & 1 & \ln 3 z\end{array}\right|[/math] হয়, তবে [math]f^{-1}(\mathrm{~A})[/math] এর মান কত?
+
+Options:
+A. [math]-3[/math]
+B. [math]\ln \frac{x}{z}[/math]
+C. [math]0[/math]
+D. [math]\pm \sqrt{3}[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]A=\left|\begin{array}{ccc}x & 1 & \ln z \\x & 1 & \ln 2 z \\x & 1 & \ln 3 z\end{array}\right|=x\left|\begin{array}{ccc}1 & 1 & \ln z \\1 & 1 & \ln 2 z \\1 & 1 & \ln 3 z\end{array}\right|=x .0=0[/math]
+ধরি , [math]f^{-1}(A)=x[/math]
+ [math]\begin{array}{l}\Rightarrow A=f(x)\\\Rightarrow x^{2}-3=0\\\Rightarrow x^{2}=3 \Rightarrow x=\pm \sqrt{3} \therefore f^{-1}(A)=\pm \sqrt{3}\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 411258)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ccc}5 & 0 & 0 \\0 & 10 & 0 \\0 & 0 & 20\end{array}\right][/math] একটি-
+
+i. কর্ণ ম্যট্রিক্স
+
+ii.প্রতিসম ম্যাট্রিক্স
+
+iii. স্কেলার ম্যাট্রিক্স
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i,ii, ও iii
+
+
+Correct Answer: ক
+
+Solution:
+স্কেলার ম্যাট্রিক্স নয় কারণ প্রধান কর্ণের ভূক্তিগুলো সমান নয় ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 411250)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & 2 & 3 \\4 & 5 & -8 \\-5 & 6 & x\end{array}\right|[/math] –এর [math](1, 2)[/math] তম অনুরাশি ৪ হলে [math]x[/math]-এর মান কত?
+
+Options:
+A. [math]-8[/math]
+B. [math]-5[/math]
+C. [math]12[/math]
+D. [math]10[/math]
+
+
+Correct Answer: গ
+
+Solution:
+শর্তমতে, [math]\left|\begin{array}{rr}4 & -8 \\-5 & x\end{array}\right|=8 \Rightarrow 4 x-40=8[/math]
+ [math]\Rightarrow 4 \mathrm{x}=48[/math]
+ [math]\therefore \mathrm{x}=12[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 411251)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}1 & 2 & 5 \\0 & 1 & 2 \\3 & 1 & x\end{array}\right][/math] এর [math](2, 1)[/math] তম ভুক্তির সহগুণক 5 হলে [math]x[/math] এর মান কত ?
+
+Options:
+A. [math]0[/math]
+B. [math]\frac{5}{2}[/math]
+C. [math]5[/math]
+D. [math]10[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math](-1)^{2+1}\left|\begin{array}{ll}2 & 5 \\1 & x\end{array}\right|=5[/math]
+ [math]\Rightarrow 2 x-5=-5[/math]
+ [math]\therefore x=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 411252)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{P}=\left[\begin{array}{lll}3 & 0 & 0 \\0 & 4 & 0 \\0 & 0 & 5\end{array}\right][/math] হলে [math]|\mathrm{p}|[/math] এর মান কত?
+
+Options:
+A. [math]12[/math]
+B. [math]20[/math]
+C. [math]60[/math]
+D. [math]120[/math]
+
+
+Correct Answer: গ
+
+Solution:
+যেহেতু [math]p[/math]
+ একটি কর্ণ ম্যাট্রিক্স [math]|\mathbf{p}|[/math]
+ [math]=3 \times 4 \times 5=60[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 411253)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}x & 0 & 1 \\0 & 1 & 2 \\2 & 1 & 3\end{array}\right],|A|=0[/math] হলে [math]x[/math] এর মান কত?
+
+Options:
+A. [math]-2[/math]
+B. 0
+C. [math]\frac{2}{5}[/math]
+D. 2
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]|A|=\left|\begin{array}{lll}x & 0 & 1 \\0 & 1 & 2 \\2 & 1 & 3\end{array}\right|=0[/math]
+ [math]\Rightarrow \times(3-2)+1(0-2)=0[/math]
+ [math]\therefore x=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 411254)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\mathbf{A}=\left[\begin{array}{cc}3 & -2 \\2 & 2\end{array}\right], \mathrm{D}=\left[\begin{array}{rrr}\mathrm{x} & 0 & 0 \\2 & 4 & 1 \\3 & -2 & 0\end{array}\right][/math]
+
+x এর কোন মানের জন্য [math]|\mathbf{A}|=|\mathbf{D}|[/math] হবে?
+
+Options:
+ক. [math]-5[/math]
+খ. [math]-1[/math]
+গ. [math]1[/math]
+ঘ. [math]5[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]|A|=3.2-2(-2)=10[/math]
+ [math]|\mathrm{D}|=\left|\begin{array}{rrr}\mathrm{x} & 0 & 0 \\2 & 4 & 1 \\3 & -2 & 0\end{array}\right|[/math]
+ [math]=x\left|\begin{array}{cc}4 & 1 \\-2 & 0\end{array}\right|=x(0+2)=2 x[/math]
+প্রশ্নমতে , [math]2 x=10[/math]
+ [math]\therefore x=5[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 411255)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]A+B=\left[\begin{array}{ll}2 & -3 \\4 & -1\end{array}\right][/math] এবং [math]A-B=\left[\begin{array}{cc}4 & 5 \\-2 & 7\end{array}\right][/math] হলে নিম্নের কোনটি [math]B[/math] ম্যাট্রিক্স ?
+
+Options:
+A. [math]\left[\begin{array}{cc}-1 & -4 \\3 & -4\end{array}\right][/math]
+B. [math]\left[\begin{array}{cc}-1 & 1 \\3 & 3\end{array}\right][/math]
+C. [math]\left[\begin{array}{ll}6 & 2 \\2 & 6\end{array}\right][/math]
+D. [math]\left[\begin{array}{ll}3 & 1 \\1 & 3\end{array}\right][/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]A+B-(A-B)=2 B[/math]
+ [math]=\left[\begin{array}{ll}2 & -3 \\4 & -1\end{array}\right][/math]
+ [math]-\left[\begin{array}{cc}4 & 5 \\-2 & 7\end{array}\right][/math]
+ [math]\therefore B=\frac{1}{2}[/math]
+ [math]\left[\begin{array}{cc}-2 & -8 \\6 & -8\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}-1 & -4 \\3 & -4\end{array}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 411256)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+কর্ণ ম্যাট্রিক্সের ক্ষেত্রে-
+
+i. [math]a_{ ij} 
+eq 0, i=j[/math]
+
+ii. [math]a_{ij}=0, i>j[/math]
+
+iii. [math]a_{ij}=0, i
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+i, ii ও iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 411257)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]A+B=\left[\begin{array}{ll}2 & -3 \\4 & -1\end{array}\right][/math] এবং [math]A-B=\left[\begin{array}{cc}4 & 5 \\-2 & 7\end{array}\right][/math] হলে নিম্নের কোনটি [math]B[/math] ম্যাট্রিক্স?
+
+Options:
+A. [math]\left[\begin{array}{cc}-1 & -4 \\3 & -4\end{array}\right][/math]
+B. [math]\left[\begin{array}{cc}-1 & 1 \\3 & 3\end{array}\right][/math]
+C. [math]\left[\begin{array}{ll}6 & 2 \\2 & 6\end{array}\right][/math]
+D. [math]\left[\begin{array}{ll}3 & 1 \\1 & 3\end{array}\right][/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]A+B-(A-B)=2 B[/math]
+ [math]=\left[\begin{array}{cc}2 & -3 \\4 & -1\end{array}\right]-\left[\begin{array}{cc}4 & 5 \\-2 & 7\end{array}\right][/math]
+ [math]\therefore \mathrm{B}[/math]
+ [math]=\frac{1}{2}\left[\begin{array}{cc}-2 & -8 \\6 & -8\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}-1 & -4 \\3 & -4\end{array}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 411249)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & -2 & 0 \\2 & 0 & -3 \\3 & 0 & 4\end{array}\right|[/math] নির্ণায়কটির [math](2, 1)[/math] তম ভুক্তির সহগুণক কোনটি?
+
+Options:
+ক. [math]-17[/math]
+খ. [math]-8[/math]
+গ. [math]8[/math]
+ঘ. [math]17[/math]
+
+
+Correct Answer: গ
+
+Solution:
+প্রদত্ত নির্ণায়কটির [math](2, 1)[/math]
+-তম ভুক্তির সহগুণক[math]\Rightarrow(-1)^{2+1}\left|\begin{array}{rr}-2 & 0 \\0 & 4\end{array}\right|=-(-8-0)=8[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 411259)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left(\begin{array}{ll}3 & -4 \\2 & -3\end{array}\right)[/math] হলে [math]\operatorname{det}\left(2 A^{-1}\right)[/math] এর মান হলো-
+
+Options:
+A. [math]\frac{1}{4}[/math]
+B. [math]-4[/math]
+C. [math]4[/math]
+D. [math]-\frac{1}{4}[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]|A|=-9+8=-1[/math]
+ [math]\therefore A^{-1}[/math]
+ [math]=\frac{1}{-1}\left[\begin{array}{ll}-3 & 4 \\-2 & 3\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}3 & -4 \\2 & -3\end{array}\right][/math]
+ [math]\therefore 2 A^{-1}[/math]
+ [math]=\left[\begin{array}{ll}6 & -8 \\4 & -6\end{array}\right][/math]
+ [math]\therefore\left|2 \mathrm{~A}^{-1}\right| \text { or, }[/math]
+ [math]\operatorname{det}\left(2\mathrm{~A}^{-1}\right)[/math]
+ [math]=-36+32=-4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 411260)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011, 2018-2019 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]A,B[/math] এবং [math]C[/math] ম্যাট্রিক্সগুলোর মাত্রা যথাক্রমে [math]4 \times 5,5 \times 4[/math] এবং [math]4 \times 2[/math] হলে [math]\left(\mathrm{A}^{\top}+\mathrm{B}\right) \mathrm{C}[/math] ম্যাট্রিক্সের মাত্রা হবে-
+
+Options:
+ক. [math]5 \times 4[/math]
+খ. [math]4 \times 2[/math]
+গ. [math]5 \times 2[/math]
+ঘ. [math]2 \times 5[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]A^{\top}[/math]
+ এর মাত্রা [math]5 \times 4 ; \quad\left(A^{\top}+B\right)[/math]
+ এর মাত্রা [math]5 \times 4[/math]
+ [math]\therefore\left(A^{\top}+B\right) C[/math]
+ এর মাত্রা [math]5 \times 2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 411261)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020-2021 | Boards:  | Tags: University of Rajshahi (A Unit)
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি বিপ্রতীসম ম্যাট্রিক্স?
+
+Options:
+ক. [math]\left[\begin{array}{ccc}0 & -2 & 3 \\2 & 0 & 4 \\3 & -4 & 0\end{array}\right][/math]
+খ. [math]\left[\begin{array}{ccc}0 & -2 & 3 \\2 & 1 & 4 \\3 & -4 & 0\end{array}\right][/math]
+গ. [math]\left[\begin{array}{ccc}0 & -2 & -3 \\2 & 0 & 4 \\3 & -4 & 0\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{ccc}0 & -2 & -3 \\2 & 0 & -4 \\3 & -4 & 0\end{array}\right][/math]
+
+
+Correct Answer: গ
+
+Solution:
+যে বর্গ ম্যাট্রিক্সের সারি (গুলোকে) কলাম অথবা কলাম (গুলোকে) সারিতে রূপান্তরিত করলে ঐ ম্যাট্রিক্সের উপাদানের বিপরীত মান সংবলিত ম্যাট্রিক্স পাওয়া যায় তাকে বিপ্রতিসম ম্যাট্রিক্স বলে
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 411262)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020-2021 | Boards:  | Tags: University of Rajshahi (A Unit)
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি সমঘাতি ম্যাট্রিক্স ?
+
+Options:
+ক. [math]\left[\begin{array}{cc}-2 & 1 \\-2 & -1\end{array}\right][/math]
+খ. [math]\left[\begin{array}{cc}2 & 1 \\-2 & -1\end{array}\right][/math]
+গ. [math]\left[\begin{array}{cc}2 & 1 \\-2 & 1\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{ll}-2 & -1 \\-2 & -1\end{array}\right][/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left[\begin{array}{ll}a & b \\c & d\end{array}\right][/math]
+ [math]\left[\begin{array}{ll}a & b \\c &d\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}a^{2}+b c & a b+b d \\a c+d c & b c+d^{2}\end{array}\right][/math]
+ [math]\therefore \mathrm{a}=\mathrm{a}^{2}+\mathrm{bc}[/math]
+ [math]\therefore \mathrm{bc}=\mathrm{a}-\mathrm{a}^{2}[/math]
+ অর্থাৎ [math]\text { bc Negative. }[/math]
+ [math]2-2^{2}[/math]
+ [math]=-2[/math]
+ [math]=(-2) 1=-2[/math]
+ [math]\Rightarrow \mathrm{c}=\mathrm{c}(\mathrm{a}+\mathrm{d})[/math]
+ [math]\therefore \mathrm{a}+\mathrm{d}[/math]
+ [math]=1[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 411263)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: University of Rajshahi (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]A ও B[/math] দুইটি প্রতিসম ম্যাট্রিক্স হলে [math]AB – BA[/math] একটি-
+
+Options:
+ক. প্রতিসম ম্যাট্রিক্স
+খ. কর্ণ ম্যাট্রিক্স
+গ. বিপ্রতিসম ম্যাট্রিক্স
+ঘ. শূন্য ম্যাট্রিক্স
+
+
+Correct Answer: গ
+
+Solution:
+[math]\text { Let, } A=\left[\begin{array}{ll}a & b \\b & c\end{array}\right],[/math]
+ [math]B=\left[\begin{array}{ll}p & q \\q & r\end{array}\right][/math]
+ [math]\therefore A B=\left[\begin{array}{ll}a & b \\b & c\end{array}\right][/math]
+ [math]\left[\begin{array}{ll}p & q \\q & r\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}a p+b q & a q+b r \\b p+c q & b q+c r\end{array}\right][/math]
+ [math]\therefore \mathrm{BA}[/math]
+ [math]=\left[\begin{array}{ll}\mathrm{p} & \mathrm{q} \\\mathrm{q} & \mathrm{r}\end{array}\right][/math]
+ [math]\left[\begin{array}{ll}\mathrm{a} & \mathrm{b} \\\mathrm{b} & \mathrm{c}\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}\mathrm{ap}+\mathrm{qb} & \mathrm{bp}+\mathrm{cq} \\\mathrm{aq}+\mathrm{br} & \mathrm{bq}+\mathrm{cr}\end{array}\right][/math]
+ [math]\therefore \mathrm{AB}-\mathrm{BA}[/math]
+ [math]=\left[\begin{array}{cc}0 & \mathrm{aq}+\mathrm{br}-\mathrm{bp}-\mathrm{cq} \\\mathrm{bp}+\mathrm{cq}-\mathrm{aq}-\mathrm{br} & 0\end{array}\right][/math]
+ [math]\therefore \mathrm{AB}-\mathrm{BA}[/math]
+ একটি বিপ্রতিসম ম্যাট্রিক্স
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 411264)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Shahjalal University of Science & Technology (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}a_{11} & a_{12} & a_{13} \\a_{21} & a_{22} & a_{23} \\a_{31} & a_{32} & a_{33}\end{array}\right][/math] ম্যাট্রিক্স [math]a_{i j}[/math] এর সহগুনক [math]\mathrm{A}_{\mathrm{ij}}[/math] হলে [math]a_{21} A_{11}+a_{22} A_{12}+a_{23} A_{13}[/math] এর মান কত?
+
+Options:
+A. [math]a_{22} a_{11} a_{33}[/math]
+B. [math]\mathrm{a}_{21} \mathrm{a}_{12} \mathrm{a}_{33}[/math]
+C. [math]\mathrm{a}_{23} \mathrm{a}_{11} \mathrm{a}_{32}[/math]
+D. [math]1[/math]
+E. [math]0[/math]
+
+
+Correct Answer: E. [math]0[/math]
+
+Solution:
+[math]a_{21}\left|\begin{array}{ll}a_{22} & a_{23} \\a_{32} & a_{33}\end{array}\right|-a_{22}[/math]
+ [math]\left|\begin{array}{ll}a_{21} & a_{23} \\a_{31} & a_{33}\end{array}\right|[/math]
+ [math]+a_{23}[/math]
+ [math]\left|\begin{array}{ll}a_{21} & a_{22} \\a_{31} & a_{32}\end{array}\right|[/math]
+ [math]=a_{21}\left(a_{22} a_{33}-a_{23} a_{32}\right)[/math]
+ [math]-a_{22}\left(a_{21} a_{33}-a_{23} a_{31})\right.[/math]
+ [math]+a_{23}\left(a_{2} a_{32}-a_{22} a_{31}\right)[/math]
+ [math]=a_{21} a_{22} a_{33}-a_{21} a_{23} a_{32}[/math]
+ [math]-a_{22} a_{21} a_{33}+a_{22} a_{23} a_{31}[/math]
+ [math]+a_{23} a_{4} a_{32}-a_{23} a_{22} a_{1}[/math]
+ [math]=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 411265)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Khulna University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math] একটি -
+
+[math](i)[/math] কর্ণ ম্যাট্রিক্স
+
+[math](ii)[/math] স্কেলার ম্যাট্রিক্স
+
+[math](iii)[/math] অভেদক ম্যাট্রিক্স
+
+উপরের তথ্যের আলোকে নিচের কোনটি সত্য?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math] একটি কর্ণ ম্যাট্রিক্স (i) নং সত্যস্কেলার ম্যাট্রিক্স(ii) নং সত্য ম্যাট্রিক্সটি,অভেদক (iii) নং সত্য
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 411266)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+X এর কোন কোন মানের জন্য [math]\left[\begin{array}{cc}2-x & 13 \\5 & 10-x\end{array}\right][/math] ম্যাট্রিক্সটি একটি ব্যতিক্রমী [math](singular)[/math] ম্যাট্রিক্স হবে?
+
+Options:
+ক. [math]-15[/math] ও [math]-3[/math]
+খ. [math]-15[/math] ও [math]3[/math]
+গ. [math]15[/math] ও [math]-3[/math]
+ঘ. [math]13[/math] ও [math]5[/math]
+ঙ. [math]15[/math] ও [math]3[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\operatorname{det}[/math]
+ [math]\left(\left[\begin{array}{cc}2-x & 13 \\5 & 10-x\end{array}\right]\right)[/math]
+ [math]=0[/math]
+ [math]\Rightarrow\left|\begin{array}{cc}2-x & 13 \\5 & 10-x\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\Rightarrow x^{2}-12 x-45[/math]
+ [math]=0[/math]
+ [math]\Rightarrow x[/math]
+ [math]=15,-3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+

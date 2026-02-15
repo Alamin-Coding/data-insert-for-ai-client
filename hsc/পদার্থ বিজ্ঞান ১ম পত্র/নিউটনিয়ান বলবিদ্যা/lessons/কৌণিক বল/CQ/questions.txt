@@ -1,0 +1,707 @@
+================================================================================
+Question #1 (ID: 406366)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বোল্ট খোলার জন্য চিত্রের ন্যায় একটি রেঞ্জের সাহায্যে B বিন্দুতে [math]\vec{F}=5 \hat{i}+3 \hat{j} N[/math] বল প্রয়োগ করা হচ্ছে।
+
+এখানে [math]\hat{i}[/math] ও [math]\hat{j}[/math] দ্বারা যথাক্রমে X ও Y অক্ষ বরাবর একক ভেক্টর নির্দেশ করে। B বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=0.12 \hat{i}-0.07 \hat{j} m[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. চিত্রে প্রদর্শিত O, A ও B এর মধ্যে কোন বিন্দুতে কত কোণে বল প্রয়োগ করা হলে বোল্টটি খুলতে বেশি সুবিধা হবে? গাণিতিক ভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘস্কুটি খোলা কতটা সহজ হবে তা নির্ভর করে স্কুটির উপর প্রয়োগকৃত টর্কের মানের উপর।এখন আমরা জানি, [math]\tau=r F \sin \theta[/math]
+চিত্র হতে দেখা যায়- O, A ও B বিন্দু তিনটির মধ্যে B বিন্দুতে ব্যাসার্ধ ভেক্টর r এর মান সবচেয়ে বেশি। অর্থাৎ B বিন্দুতে টর্কের মান বেশি হবে। আবার, [math]\theta[/math]
+ এর মান 90° হলে [math]\sin \theta[/math]
+ এর মান সর্বোচ্চ +1 হয়। সুতরাং সর্বোচ্চ টর্ক পাওয়ার জন্য স্কুটিকে B বিন্দুতে 90° কোণে বল প্রয়োগ করতে হবে।
+
+Explanation:
+ঘ বলের ঘূর্ণন মুহূর্ত [math]\tau=|\vec r\times\vec F|=rF\sin\theta[/math] দ্বারা দেয়; তাই [math]\tau[/math] সর্বাধিক হবে যখন [math]r[/math] সর্বাধিক এবং [math]\theta=90^\circ[/math] (বল লিভারের প্রতি লম্ব)। তাই O, A, B থেকে সবচেয়ে দূরে থাকা বিন্দুতে (অর্থাৎ A) বল প্রয়োগ করে এবং বলটি লিভারের সাথে লম্বভাবে প্রয়োগ করলে বোল্ট খোলা সবচেয়ে সহজ হবে। উদাহরণস্বরূপ B-তে দেওয়া ভেক্টরের জন্য [math]|\vec r\times\vec F|=0.12\times3-(-0.07)\times5=0.71\ \mathrm{N\cdot m}[/math], যা A-র বড় রশ্মি হলে আরও বাড়বে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 406367)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি দরজার কব্জা থেকে 0.8m দূরে অনুভূমিকভাবে প্রস্থের সাথে 135° কোণে 20N বল প্রয়োগ করা হলো। দরজার ওপর ক্রিয়া শীল বলের ভ্রামক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]11.31 \mathrm{Nm}[/math]
+)[math]\\[/math]
+Solution :এখানে , বল, F = 20Nদূরত্ব, r = 0.8mকোণ, [math]\theta=135^{\circ}[/math]
+বলের ভ্রামক, [math]\tau=?[/math]
+আমরা জানি,[math]\begin{aligned}\tau & =\text { Frsing } \\& =20 \mathrm{~N} \times 0.8 \mathrm{~m} \times \sin 135^{\circ} \\& =11.31 \mathrm{Nm} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ভ্রামক নির্ণয়ের সূত্র [math]\tau=rF\sin\theta[/math]; এখানে [math]r=0.8\ \mathrm{m},\ F=20\ \mathrm{N},\ \theta=135^\circ[/math] এবং [math]\sin135^\circ=\sin45^\circ=\frac{\sqrt2}{2}[/math], তাই [math]\tau=0.8\times20\times\sin135^\circ=8\sqrt2\approx11.3\ \mathrm{N\cdot m}[/math]. দিক নির্ভর করবে বলের সুনির্দিষ্ট দিকের উপর, তবে ভ্রামকের মাত্রা প্রায় [math]11.3\ \mathrm{N\cdot m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 406368)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ফ্লাই হুইলের জড়তার ভ্রামক 100 [math]\mathrm{kgm}^{-2}[/math] । ফ্লাই হুইলটি প্রতি মিনিটে 50000 বার ঘুরছিল। সুষম ব্রেক প্রয়োগ করে একে 30 সেকেন্ডে থামানো হলো।
+
+Options:
+গ. ফ্লাই হুইলে প্রযুক্ত টর্কের মান কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,জড়তার ভ্রামক, [math]\mathrm{I}=100 \mathrm{\ kgm}^{2}[/math]
+আদি কৌণিক বেগ, [math]\omega_{0}[/math]
+ [math]\begin{array}{l}=\frac{50000 \times 2 \pi}{60} \mathrm{rads}^{-1} \\=5236 \mathrm{rad} / \mathrm{s}\end{array}[/math]
+শেষ কৌণিক বেগ, [math]\omega=0 \mathrm{\ rads}^{-1}[/math]
+সময়, t = 30sটর্ক [math]\tau=?[/math]
+আমরা জানি,[math]\omega=\omega_{0}+\alpha \mathrm{t}[/math]
+ [math]\therefore[/math]
+ [math]\alpha=\frac{\omega-\omega_{0}}{t}=\frac{0-5236}{30}[/math]
+ [math]\therefore \alpha=-174.5333 \mathrm{\ rads}^{-2}[/math]
+ [math]\therefore[/math]
+ টর্ক,[math]\begin{aligned}\tau & =\mathrm{I} \alpha \\& =100 \times 174.5333 \\\tau & =17453.33 \mathrm{Nm} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:  
+গ টর্ক পাওয়া যায় [math]\tau=I\alpha[/math] সূত্র থেকে। প্রথমে কোণগত গতি [math]\omega_0=\frac{50000}{60}\times2\pi=\frac{5000\pi}{3}\ \text{rad/s}[/math] হয় এবং সমান ত্বরণে থামাতে [math]\alpha=-\frac{\omega_0}{t}=-\frac{5000\pi}{3\times30}=-\frac{500\pi}{9}\ \text{rad/s}^2[/math] পাওয়া যায়। তাই টর্কের মান [math]|\tau|=I|\alpha|=100\times\frac{500\pi}{9}=\frac{50000\pi}{9}\approx1.745\times10^4\ \mathrm{N\!·\!m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 406369)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.250 kg ভরের কোনো বস্তুকে 75 cm লম্বা একটি সুতার সাহায্যে অনুভূমিক বৃত্তাকার পথে ঘুরানো হচ্ছে। এটি স্থির অবস্থা থেকে সমকৌণিক ত্বরণে ঘোরা আরম্ভ করে 3 মিনিট পর থেকে প্রতি মিনিটে 180 বার করে ঘুরছে।
+
+Options:
+গ. বস্তুটির উপর কী পরিমাণ টর্ক ক্রিয়া করেছে তার মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বস্তুর ভর, [math]\mathrm{M}=0.250 \mathrm{~kg}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=75 \mathrm{~cm}=0.75 \mathrm{~m}[/math]
+সময়, [math]\mathrm{t}=3 \mathrm{~min}=180 \mathrm{sec}[/math]
+আদি কৌণিক বেগ, [math]\omega_{0}=0[/math]
+শেষ কৌণিক বেগ, [math]\omega=\frac{2 \pi \mathrm{N}}{\mathrm{t}}[/math]
+ [math]\begin{array}{l}=\frac{2 \pi \times 180}{60} \mathrm{rad} / \mathrm{s} \\=18.85 \mathrm{rad} / \mathrm{s}\end{array}[/math]
+টর্ক, [math]\tau=?[/math]
+আমরা জানি,জড়তার ভ্রামক, [math]\mathrm{I}=\mathrm{Mr}^{2}[/math]
+ [math]\begin{array}{l}=0.250 \times(0.75)^{2} \\=0.1406 \mathrm{\ kgm}^{2}\end{array}[/math]
+আবার,কৌণিক ত্বরণ,[math]\begin{aligned}\alpha & =\frac{\omega-\omega_{0}}{t} \\& =\frac{18.85-0}{180} \\& =0.1047 \mathrm{rad} / \mathrm{s}^{2}\end{aligned}[/math]
+ [math]\therefore[/math]
+ টর্ক,[math]\begin{aligned}\tau & =\mathrm{I} \alpha \\& =0.1406 \times 0.1047 \quad 0.01472 \mathrm{\ Nm} \\& =14.72 \times 10^{-3} \mathrm{\ Nm} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: ঘূর্ণন তড়িৎ ত্বরণ আনয়নে টর্কের সম্পর্ক হল [math]\tau=I\alpha[/math], যেখানে বিন্দুবস্তুর জন্য [math]I=mr^2[/math] এবং [math]\alpha=\Delta\omega/\Delta t[/math]। এখানে [math]f=180\ \text{rpm}=3\ \text{Hz},\ \omega=2\pi f=6\pi\ \text{rad/s},\ t=3\ \text{min}=180\ \text{s}[/math], তাই [math]\alpha=6\pi/180=\pi/30\ \text{rad/s}^2[/math], [math]I=0.25\times(0.75)^2=0.140625\ \text{kg·m}^2[/math] এবং [math]\tau=I\alpha=0.140625\times\pi/30\approx0.0147\ \text{N·m}[/math]; অতএব টর্ক প্রায় [math]0.0147\ \text{N·m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 406370)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ঘূর্ণনরত কণার ব্যাসার্ধ ভেক্টর [math]\vec{r}=(2 \hat{i}+2 \hat{j}-\hat{k}) m[/math] এবং এ প্রযু ক্ত বল [math]\vec{F}=(6 \hat{i}+3 \hat{j}-3 \hat{k}) N[/math] হলে টর্কের মান ও দিক নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\sqrt{45}[/math]
+ )[math]\\[/math]
+Solution :এখানে, ব্যাসার্ধ ভেক্টর, [math]\overrightarrow{\mathrm{r}}=(2 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}-\hat{\mathrm{k}}) \mathrm{m}[/math]
+প্রযুক্ত বল, [math]\overrightarrow{\mathrm{F}}=\left(6 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}_{}-3 \hat{\mathrm{k}}\right) \mathrm{N}[/math]
+ [math]\therefore[/math]
+ টর্ক [math]\vec{r}=\vec{r} \times \vec{F}[/math]
+ [math]=\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & 2 & -1 \\6 & 3 & -3\end{array}\right|[/math]
+ [math]\begin{array}{l}=\hat{\mathrm{i}}(-6+3)-\hat{\mathrm{j}}(-6+6)+\hat{\mathrm{k}}(6-12) \\\therefore \vec{\tau}=-3 \hat{\mathrm{i}}-6 \hat{\mathrm{k}}=-(3 \hat{\mathrm{i}}+6 \hat{\mathrm{k}})\end{array}[/math]
+টর্কের মান ,[math]\begin{aligned}\vec{\tau} \mid & =\sqrt{(-3)^{2}+(-6)^{2}} \\& =\sqrt{45} \text { (Ans.) }\end{aligned}[/math]
+ব্যাসার্ধ ভেক্টর [math]\vec{r}[/math]
+ ও প্রযুক্ত বল [math]\vec{F}[/math]
+ যে তলে অবস্থিত টর্ক [math]\vec{\tau}[/math]
+ তার সাথে লম্বভাবে অবস্থান করছে। (Ans.)
+
+Explanation:
+ব্যাখ্যা: টর্ক ক্রস প্রোডাক্ট দিয়ে গণনা করা হয়; [math]\vec{\tau}=\vec{r}\times\vec{F}=\begin{vmatrix}\hat{i}&\hat{j}&\hat{k}\\2&2&-1\\6&3&-3\end{vmatrix}=(-3)\hat{i}+0\hat{j}+(-6)\hat{k}\ \mathrm{N\cdot m}[/math]. এর মান [math]|\vec{\tau}|=\sqrt{(-3)^2+0^2+(-6)^2}=3\sqrt{5}\ \mathrm{N\cdot m}[/math] এবং দিকটি নেতিবাচক x ও নেতিবাচক z অক্ষের দিকে (রাইট-হ্যান্ড রুল অনুযায়ী)।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 406371)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: BAF Shaheen College
+--------------------------------------------------------------------------------
+Question:
+একজন গাড়ির চালক গাড়ির চাকা খারাপ হলে চাকা পরিবর্তন করার জন্য রেঞ্জ দিয়ে জ্যাক স্ক্রুকে ঘুরানোর সময় কোন এক মুহূর্তে প্রযুক্ত বলকে [math]\vec{\mathrm{F}}=(8 \hat{\mathrm{i}}+5 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}) \mathrm{N}[/math] এবং ঘূর্ণন অক্ষ থেকে বলের ক্রিয়া বিন্দুর দূরত্ব [math]\vec{\mathrm{r}}=(\hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}}) \mathrm{m}[/math] দিয়ে প্রকাশ করা হয়। গাড়ির ভর 2000 kg। ঘটনা স্থলে রাস্তার বাঁকের ব্যাসার্ধ 5m এবং রাস্তার প্রস্থ 3m । রাস্তার সর্বোচ্চ ঘর্ষণ বল [math]4 \mathrm{~N} \mathrm{~kg}^{-1}[/math] ।
+
+Options:
+গ. স্ক্রুটিকে ঘুরানোর সময় প্রযুক্ত টর্ক কত?
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে, প্রযুক্ত বল, [math]\vec{F}=8 \hat{i}+5 \hat{j}-5 \hat{k}[/math]
+দূরত্ব, [math]\vec{r}=\hat{i}+\hat{j}-\hat{k}[/math]
+প্রযুক্ত টর্ক, [math]\vec{\tau}=?[/math]
+আমরা জানি, [math]\vec{\tau}=\vec{r} \times \vec{F}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\left|\begin{array}{rrr}\hat{\mathbf{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & 1 & -1 \\8 & 5 & -5\end{array}\right| \\=\hat{\mathrm{i}}(-5+5)-\hat{\mathrm{j}}(-5+8)+\hat{\mathrm{k}}(5-8) \\=-3 \hat{\mathrm{j}}-3 \hat{\mathrm{k}}\end{array}[/math]
+ [math]\therefore[/math]
+ টর্কের মান, [math]\tau=\sqrt{3^{2}+3^{2}}=\sqrt{9+9}=\sqrt{18} \mathrm{Nm}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ টর্ক পাওয়া যায় [math]\vec{\tau}=\vec r\times\vec F[/math] থেকে; যেখানে [math]\vec r=(\hat i+\hat j-\hat k)[/math] এবং [math]\vec F=(8\hat i+5\hat j-5\hat k)[/math]. ক্রস প্রডাক্ট করলে [math]\vec{\tau}=\begin{vmatrix}\hat i&\hat j&\hat k\\1&1&-1\\8&5&-5\end{vmatrix}=0\hat i-3\hat j-3\hat k=[math]-3(\hat j+\hat k)\,\mathrm{N\,m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 406372)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2024 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+টর্ক কী?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+যা কোনো অঘূর্ণনশীল বস্তুতে ঘুর্ণন সৃষ্টি করে বা করতে চায় বা ঘুর্ণায়মান বস্তুর কৌণিক বেগের পরিবর্তন করে তাকে টর্ক বলে। অন্যভাবে বলা যায়, যা বস্তুর কৌণিক ভরবেগের পরিবর্তন করতে পারে তা-ই টর্ক।
+
+Explanation:
+টর্ক হলো কোনো বলের ঘূর্ণনজনিত প্রভাবের পরিমাপ, যা নির্দিষ্ট পিভটের চারপাশে বস্তু ঘোরানোর প্রবণতা নির্দেশ করে। গণিতগতভাবে এটি অবস্থান ভেক্টর ও বলের ক্রস প্রোডাক্ট, সূত্র [math]\tau = rF\sin\theta[/math] (ভেক্টর আকারে [math]\boldsymbol{\tau}=\mathbf{r}\times\mathbf{F}[/math]) হওয়ায় টর্ক বলের মান, লিভার আর্ম এবং বলের দিকের উপর নির্ভর করে—এই কারণেই উপরের সংজ্ঞাটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 406373)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023, 2023, 2022, 2022, 2022, 2022, 2021, 2021, 2021, 2021, 2019, 2019, 2018, 2018, 2017, 2017 | Boards: Chittagong Board, Chittagong Board, Mymensingh Board, Sylhet Board, Dinajpur Board, Mymensingh Board, Dhaka Board, Rajshahi Board, Dhaka Board, Dinajpur Board, Sylhet Board | Tags: Chattogram Board, Jessore Board, Chattogram Board, Mymensingh Board, Cumilla Board, Sylhet Board, Dinajpur Board, Mymensingh Board, Dhaka Board, Rajshahi Board, Jessore Board, Dhaka Board, Dinajpur Board, Jessore Board, Sylhet Board, Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+টর্ক কী?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোনো বিন্দু বা অক্ষকে কেন্দ্র করে ঘূর্ণায়মান কোনো কণার ব্যাসার্ধ ভেক্টর এবং কণার উপর প্রযুক্ত বলের ভেক্টর গুণফলকে ঐ বিন্দু বা অক্ষের সাপেক্ষে কণাটির উপর প্রযুক্ত টর্ক বলে।
+
+Explanation:
+টর্ক হলো কোনো শক্তির ঘূর্ণন সৃষ্টির প্রবণতা, অর্থাৎ কোনো বিন্দু বা অক্ষের চারপাশে বস্তুকে ঘোরানোর ক্ষমতা; এটি নির্ভর করে শক্তির মান, লিভার আর্ম এবং শক্তি ও লিভার আর্মের মধ্যে কোঁণার উপর। সূত্রগতভাবে, টর্ককে লেখা যায় [math]\vec\tau=\vec r\times\vec F[/math] এবং তার মান [math]\tau=rF\sin\theta[/math], এবং একক হল নিউটন-মিটার (N·m)।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 406365)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বোল্ট খোলার জন্য চিত্রের ন্যায় একটি রেঞ্জের সাহায্যে B বিন্দুতে [math]\vec{F}=5 \hat{i}+3 \hat{j} N[/math] বল প্রয়োগ করা হচ্ছে।
+
+এখানে [math]\hat{i}[/math] ও [math]\hat{j}[/math] দ্বারা যথাক্রমে X ও Y অক্ষ বরাবর একক ভেক্টর নির্দেশ করে। B বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=0.12 \hat{i}-0.07 \hat{j} m[/math]
+
+
+[Image]
+
+
+Options:
+গ. বোল্টের উপর ক্রিয়াশীল টর্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\begin{array}{l}\vec{F}=-5 \hat{i}-3 \hat{j} \\\vec{r}=0.12 \hat{i}-0.07 \hat{j}\end{array}[/math]
+টর্ক [math]\vec{\tau}=?[/math]
+আমরা জানি,[math]\begin{aligned}\vec{\tau} & =\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}} \\& =\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\0.12 & -0.07 & 0 \\-5 & -3 & 0\end{array}\right|\end{aligned}[/math]
+ [math]\begin{aligned}& =\hat{\mathrm{i}}(0-0)+\hat{\mathrm{j}}(0-0)+\hat{\mathrm{k}}(-0.36-0.35) \\\therefore \quad \vec{\tau} & =-0.71 \hat{\mathrm{k}} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: টর্কের সূত্র [math]\vec{\tau}=\vec{r}\times\vec{F}[/math]; ফলে z-কম্পোনেন্ট হবে [math]\tau_z=r_xF_y-r_yF_x=0.12\times3-(-0.07)\times5=0.36+0.35=0.71\ \mathrm{N\,m}[/math]. তাই [math]\vec{\tau}=0.71\hat{k}\ \mathrm{N\,m}[/math], অর্থাৎ প্লাস z-অক্ষ (পৃষ্ঠার বাইরে) দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 406362)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রটি লক্ষ কর। এটি একটি পাহাড়। একজন সাইকেল চালক ইহার উপর [math]\vec{\mathrm{r}}=4 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}+12 \hat{\mathrm{k}}[/math] সাইকেল চালাচ্ছে। সাইকেলের চাকার ব্যাসার্ধ ভেক্টর [math]\vec{\mathrm{F}}=2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}[/math] এবং বলের ভেক্টর [math]\vec{\mathrm{F}}=2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}[/math]  
+
+
+[Image]
+
+
+Options:
+গ. সাইকেল চালকের টর্ক কত?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক থেকে পাই,[math]\hspace{1 cm}[/math]
+ব্যাসার্ধ ভেক্টর, [math]\overrightarrow{\rm{r}}=4 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}+12 \hat{\mathrm{k}}[/math]
+ [math]\hspace{1 cm}[/math]
+বলের ভেক্টর, [math]\rm{\overrightarrow{F}=2 \hat{i}+3 \hat{j}-5 \hat{k}}[/math]
+ধরি, সাইকেল চালকের টর্ক [math]\overrightarrow{\tau}[/math]
+আমরা জানি, টর্ক,[math]\hspace{1.6 cm}\begin{aligned} \overrightarrow{\tau} & =\overrightarrow{\rm{r}} \times \overrightarrow{\rm{F}} \\ & =(4 \hat{i}-6 \hat{j}+12 \hat{k}) \times(2 \hat{i}+3 \hat{j}-5 \hat{k}) \\ & =\left|\begin{array}{ccc} \hat{i} & \hat{j} & \hat{k} \\ 4 & -6 & 12 \\ 2 & 3 & -5 \end{array}\right| \\ & =(30-36) \hat{i}+(24+20) \hat{\mathrm{j}}+(12+12) \hat{k} \\ & =-6 \hat{i}+44 \hat{j}+24 \hat{k} \end{aligned}[/math]
+টর্কের মান [math]=\sqrt{(-6)^{2}+44^{2}+24^{2}}=50.48[/math]
+অতএব, সাইকেল চালকের টর্কের মান [math]50.48[/math]
+।
+
+Explanation:
+গ ব্যাখ্যা: টর্ক হল [math]\vec{\tau}=\vec{r}\times\vec{F}[/math], তাই ক্রস প্রোডাক্টের ডিটারমাইন্যান্ট নিলে [math]\vec{\tau}=\begin{vmatrix}\hat{i}&\hat{j}&\hat{k}\\4&-6&12\\2&3&-5\end{vmatrix}[/math] এবং গণনায় ফলাফল পাওয়া যায় [math]\vec{\tau}=-6\hat{i}+44\hat{j}+24\hat{k}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 406363)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নাট খুলতে 90 N.m মানের টর্কের প্রয়োজন। এক ব্যক্তি [math]\vec{F}=20 \vec{i}+15 \vec{j}[/math] বল প্রয়োগে একটি রেঞ্জের সাহায্যে একটি নাট খোলার চেষ্টা করছে। রেঞ্জের মধ্য বিন্দুর সাপেক্ষে বলের প্রয়োগ বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=3 \vec{i}-2 \vec{j}[/math] ।
+
+Options:
+গ. বল ও অবস্থান ভেক্টরের মধ্যবর্তী কোণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বল, [math]\overrightarrow{\mathrm{F}}=20 \hat{\mathrm{i}}+15 \hat{\mathrm{j}}[/math]
+অবস্থান ভেক্টর, [math]\overrightarrow{\mathrm{r}}=3 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}[/math]
+মধ্যবর্তী কোণ, [math]\theta=?[/math]
+আমরা জানি,[math]\overrightarrow{\mathrm{F}} \cdot \overrightarrow{\mathrm{r}}=\mathrm{Fr} \cos \theta[/math]
+ [math]\Rightarrow[/math]
+ [math]\cos \theta=\frac{\overrightarrow{\mathrm{F}} \cdot \overrightarrow{\mathrm{r}}}{\mathrm{Fr}}[/math]
+ [math]\begin{aligned}& =\frac{(20 \hat{\mathrm{i}}+15 \hat{\mathrm{j}}) \cdot(3 \hat{\mathrm{i}}-2 \hat{\mathrm{j}})}{\sqrt{20^{2}+15^{2}} \cdot \sqrt{3^{2}+(-2)^{2}}} \\& =\frac{60-30}{25 \times 3.60}=\frac{30}{90.14}=0.33 \\\therefore \theta & =\cos _{\mathrm{l}}^{-1}(0.33)=70.56^{\circ} \text { (Ans) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বল ও অবস্থান ভেক্টরের মধ্যবর্তী কোণ নির্ণয়ের জন্য ডট প্রডাক্ট ব্যবহার করা হয়। [math]\vec F\cdot\vec r=20\times3+15\times(-2)=30,\quad |\vec F|=\sqrt{20^2+15^2}=25,\quad |\vec r|=\sqrt{3^2+(-2)^2}=\sqrt{13}[/math]. তাই [math]\cos\theta=\dfrac{30}{25\sqrt{13}}=\dfrac{6}{5\sqrt{13}}[/math] এবং [math]\theta=\cos^{-1}\!\left(\dfrac{6}{5\sqrt{13}}\right)\approx70.6^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 406364)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নাট খুলতে 90 N.m মানের টর্কের প্রয়োজন। এক ব্যক্তি [math]\vec{F}=20 \vec{i}+15 \vec{j}[/math] বল প্রয়োগে একটি রেঞ্জের সাহায্যে একটি নাট খোলার চেষ্টা করছে। রেঞ্জের মধ্য বিন্দুর সাপেক্ষে বলের প্রয়োগ বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=3 \vec{i}-2 \vec{j}[/math]।
+
+Options:
+ঘ. নাটটি খোলা সম্ভব হবে কি না উপযুক্ত কারণসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,নাটের উপর ক্রিয়ারত টর্ক, [math]\tau=\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}}[/math]
+ [math]\begin{array}{l}=\mathrm{rF} \sin \theta \\=\sqrt{3^{2}+(-2)^{2}} \times \sqrt{20^{2}+15^{2}} \sin \left(70.56^{\circ}\right) \\=\sqrt{9+4} \times \sqrt{625} \sin \left(70.56^{\circ}\right) \\=85 \\\therefore \tau=85 \mathrm{Nm}\end{array}[/math]
+কিন্তু নাট খুলতে 900 Nm মানের টর্কের প্রয়োজন, যা এই প্রযুক্ত বল দ্বারা উৎপন্ন হয়নি। সুতরাং নাটটি খোলা সম্ভব নয়।
+
+Explanation:
+ব্যাখ্যা: ঘ না — কারণ [math]\tau=\vec r\times\vec F=(3)(15)-(-2)(20)=85\ \text{N·m}[/math]. এটি প্রয়োজনীয় [math]90\ \text{N·m}[/math] থেকে [math]5\ \text{N·m}[/math] কম, তাই নাটটি খোলা সম্ভব নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 406313)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বোল্ট খোলার জন্য চিত্রের ন্যায় একটি রেঞ্জের সাহায্যে B বিন্দুতে [math]\vec{F}=5 \hat{i}+3 \hat{j} N[/math] বল প্রয়োগ করা হচ্ছে।
+
+এখানে [math]\hat{i}[/math] ও [math]\hat{j}[/math] দ্বারা যথাক্রমে X ও Y অক্ষ বরাবর একক ভেক্টর নির্দেশ করে। B বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=0.12 \hat{i}-0.07 \hat{j} m[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. চিত্রে প্রদর্শিত O, A ও B এর মধ্যে কোন বিন্দুতে কত কোণে বল প্রয়োগ করা হলে বোল্টটি খুলতে বেশি সুবিধা হবে? গাণিতিক ভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘস্কুটি খোলা কতটা সহজ হবে তা নির্ভর করে স্কুটির উপর প্রয়োগকৃত টর্কের মানের উপর।এখন আমরা জানি, [math]\tau=r F \sin \theta[/math]
+চিত্র হতে দেখা যায়- O, A ও B বিন্দু তিনটির মধ্যে B বিন্দুতে ব্যাসার্ধ ভেক্টর r এর মান সবচেয়ে বেশি। অর্থাৎ B বিন্দুতে টর্কের মান বেশি হবে। আবার, [math]\theta[/math]
+ এর মান 90° হলে [math]\sin \theta[/math]
+ এর মান সর্বোচ্চ +1 হয়। সুতরাং সর্বোচ্চ টর্ক পাওয়ার জন্য স্কুটিকে B বিন্দুতে 90° কোণে বল প্রয়োগ করতে হবে।
+
+Explanation:
+ব্যাখ্যা: ঘূর্ণন শক্তিমত্তা (টর্ক) হচ্ছে [math]\vec{\tau}=\vec{r}\times\vec{F}[/math] এবং এর পরিমাণ [math]\tau=rF\sin\theta[/math], তাই টর্ক সর্বাধিক হবে যেখানে রেডিয়াস (r) সবচেয়ে বড় এবং বলটি রেডিয়াসের প্রতি লম্বভাবে (90°) প্রয়োগ করা হবে। B বিন্দুর জন্য [math]r=\sqrt{0.12^2+(-0.07)^2}\approx0.1389\ \mathrm{m}[/math], [math]|\vec{F}|=\sqrt{5^2+3^2}=\sqrt{34}\approx5.831\ \mathrm{N}[/math]; প্রাপ্ত টর্ক [math]\tau_z=0.12\times3-(-0.07)\times5=0.71\ \mathrm{N\cdot m}[/math] এবং যদি বলটি রেডিয়াসের প্রতি লম্বভাবে দেওয়া যায় তবে সর্বোচ্চ টর্ক [math]\tau_{\max}=r|\vec{F}|\approx0.81\ \mathrm{N\cdot m}[/math] হবে। সুতরাং বোল্ট খুলতে সর্বোত্তম হলো যে কোন বহির্গামী বিন্দু (O নয়) যেখানে রেডিয়াস বড় এবং বলটি রেডিয়াসের প্রতি লম্বভাবে প্রয়োগ করা — B এর ক্ষেত্রে সেই দিকের কোণ প্রায় [math]-30.2^\circ+90^\circ\approx59.8^\circ[/math] (ধনাত্মক x-অক্ষের সাথে)।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 406314)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি দরজার কব্জা থেকে 0.8m দূরে অনুভূমিকভাবে প্রস্থের সাথে 135° কোণে 20N বল প্রয়োগ করা হলো। দরজার ওপর ক্রিয়া শীল বলের ভ্রামক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]11.31 \mathrm{Nm}[/math]
+)[math]\\[/math]
+Solution :এখানে , বল, F = 20Nদূরত্ব, r = 0.8mকোণ, [math]\theta=135^{\circ}[/math]
+বলের ভ্রামক, [math]\tau=?[/math]
+আমরা জানি,[math]\begin{aligned}\tau & =\text { Frsing } \\& =20 \mathrm{~N} \times 0.8 \mathrm{~m} \times \sin 135^{\circ} \\& =11.31 \mathrm{Nm} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+[math]\tau = rF\sin\theta = 0.8\times20\times\sin135^\circ = 11.3\ \text{N·m}[/math]. কারণ ভ্রামকটি হয় অবস্থানের রেখা ও বলের মধ্যে কোণের সাইন গুণের সমান (অর্থাৎ বলের লম্বদিকের অঙ্গটি কার্যকর), এবং এটি দরজাকে ঘড়ির কাঁটার বিপরীতে ঘোরাতে চেষ্টা করে।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 406315)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ফ্লাই হুইলের জড়তার ভ্রামক 100 [math]\mathrm{kgm}^{-2}[/math] । ফ্লাই হুইলটি প্রতি মিনিটে 50000 বার ঘুরছিল। সুষম ব্রেক প্রয়োগ করে একে 30 সেকেন্ডে থামানো হলো।
+
+Options:
+গ. ফ্লাই হুইলে প্রযুক্ত টর্কের মান কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,জড়তার ভ্রামক, [math]\mathrm{I}=100 \mathrm{\ kgm}^{2}[/math]
+আদি কৌণিক বেগ, [math]\omega_{0}[/math]
+ [math]\begin{array}{l}=\frac{50000 \times 2 \pi}{60} \mathrm{rads}^{-1} \\=5236 \mathrm{rad} / \mathrm{s}\end{array}[/math]
+শেষ কৌণিক বেগ, [math]\omega=0 \mathrm{\ rads}^{-1}[/math]
+সময়, t = 30sটর্ক [math]\tau=?[/math]
+আমরা জানি,[math]\omega=\omega_{0}+\alpha \mathrm{t}[/math]
+ [math]\therefore[/math]
+ [math]\alpha=\frac{\omega-\omega_{0}}{t}=\frac{0-5236}{30}[/math]
+ [math]\therefore \alpha=-174.5333 \mathrm{\ rads}^{-2}[/math]
+ [math]\therefore[/math]
+ টর্ক,[math]\begin{aligned}\tau & =\mathrm{I} \alpha \\& =100 \times 174.5333 \\\tau & =17453.33 \mathrm{Nm} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে কোণগত গতি বের করি: [math]\omega_i=50000\times\frac{2\pi}{60}=1666.\overline{6}\pi\approx5236\ \mathrm{rad/s}[/math]। সমমাত্র ব্রেকিং-অ্যাক্সিলারেশন [math]\alpha=\Delta\omega/\Delta t=-\omega_i/30\approx-174.53\ \mathrm{rad/s^2}[/math]।  
+গ ফ্লাই হুইলে প্রযুক্ত টর্ক: [math]\tau=I\alpha=100\times(-174.53)\approx-1.745\times10^4\ \mathrm{N\,m}[/math] (মাত্রা [math]1.745\times10^4\ \mathrm{N\,m}[/math], দিক ঘূর্ণনের বিপরীত)।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 406316)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.250 kg ভরের কোনো বস্তুকে 75 cm লম্বা একটি সুতার সাহায্যে অনুভূমিক বৃত্তাকার পথে ঘুরানো হচ্ছে। এটি স্থির অবস্থা থেকে সমকৌণিক ত্বরণে ঘোরা আরম্ভ করে 3 মিনিট পর থেকে প্রতি মিনিটে 180 বার করে ঘুরছে।
+
+Options:
+গ. বস্তুটির উপর কী পরিমাণ টর্ক ক্রিয়া করেছে তার মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বস্তুর ভর, [math]\mathrm{M}=0.250 \mathrm{~kg}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=75 \mathrm{~cm}=0.75 \mathrm{~m}[/math]
+সময়, [math]\mathrm{t}=3 \mathrm{~min}=180 \mathrm{sec}[/math]
+আদি কৌণিক বেগ, [math]\omega_{0}=0[/math]
+শেষ কৌণিক বেগ, [math]\omega=\frac{2 \pi \mathrm{N}}{\mathrm{t}}[/math]
+ [math]\begin{array}{l}=\frac{2 \pi \times 180}{60} \mathrm{rad} / \mathrm{s} \\=18.85 \mathrm{rad} / \mathrm{s}\end{array}[/math]
+টর্ক, [math]\tau=?[/math]
+আমরা জানি,জড়তার ভ্রামক, [math]\mathrm{I}=\mathrm{Mr}^{2}[/math]
+ [math]\begin{array}{l}=0.250 \times(0.75)^{2} \\=0.1406 \mathrm{\ kgm}^{2}\end{array}[/math]
+আবার,কৌণিক ত্বরণ,[math]\begin{aligned}\alpha & =\frac{\omega-\omega_{0}}{t} \\& =\frac{18.85-0}{180} \\& =0.1047 \mathrm{rad} / \mathrm{s}^{2}\end{aligned}[/math]
+ [math]\therefore[/math]
+ টর্ক,[math]\begin{aligned}\tau & =\mathrm{I} \alpha \\& =0.1406 \times 0.1047 \quad 0.01472 \mathrm{\ Nm} \\& =14.72 \times 10^{-3} \mathrm{\ Nm} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘূর্ণনগতিতে টর্ক [math]τ=Iα[/math] এবং পয়েন্ট ভরের জন্য [math]I=mr^2[/math]। কৌণিক ত্বরণ [math]α=(ω-0)/t[/math] যেখানে [math]ω=180\ \text{rev/min}=3\ \text{rev/s}=6π\ \text{rad/s}[/math] এবং [math]t=3\ \text{min}=180\ \text{s}[/math], তাই [math]α=6π/180=π/30\ \text{rad/s}^2[/math]।  
+গ ফলাফল: [math]τ=mr^2α=(0.250)(0.75^2)(π/30)≈0.0147\ \text{N·m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 406317)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ঘূর্ণনরত কণার ব্যাসার্ধ ভেক্টর [math]\vec{r}=(2 \hat{i}+2 \hat{j}-\hat{k}) m[/math] এবং এ প্রযু ক্ত বল [math]\vec{F}=(6 \hat{i}+3 \hat{j}-3 \hat{k}) N[/math] হলে টর্কের মান ও দিক নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\sqrt{45}[/math]
+ )[math]\\[/math]
+Solution :এখানে, ব্যাসার্ধ ভেক্টর, [math]\overrightarrow{\mathrm{r}}=(2 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}-\hat{\mathrm{k}}) \mathrm{m}[/math]
+প্রযুক্ত বল, [math]\overrightarrow{\mathrm{F}}=\left(6 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}_{}-3 \hat{\mathrm{k}}\right) \mathrm{N}[/math]
+ [math]\therefore[/math]
+ টর্ক [math]\vec{r}=\vec{r} \times \vec{F}[/math]
+ [math]=\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & 2 & -1 \\6 & 3 & -3\end{array}\right|[/math]
+ [math]\begin{array}{l}=\hat{\mathrm{i}}(-6+3)-\hat{\mathrm{j}}(-6+6)+\hat{\mathrm{k}}(6-12) \\\therefore \vec{\tau}=-3 \hat{\mathrm{i}}-6 \hat{\mathrm{k}}=-(3 \hat{\mathrm{i}}+6 \hat{\mathrm{k}})\end{array}[/math]
+টর্কের মান ,[math]\begin{aligned}\vec{\tau} \mid & =\sqrt{(-3)^{2}+(-6)^{2}} \\& =\sqrt{45} \text { (Ans.) }\end{aligned}[/math]
+ব্যাসার্ধ ভেক্টর [math]\vec{r}[/math]
+ ও প্রযুক্ত বল [math]\vec{F}[/math]
+ যে তলে অবস্থিত টর্ক [math]\vec{\tau}[/math]
+ তার সাথে লম্বভাবে অবস্থান করছে। (Ans.)
+
+Explanation:
+ব্যাখ্যা: টর্কটি হলো [math]\vec{\tau}=\vec{r}\times\vec{F}[/math]। হিসাব করলে [math]\vec{\tau}=(2,2,-1)\times(6,3,-3)=(-3,0,-6)\ \mathrm{N\cdot m}[/math] (অর্থাৎ [math]-3\hat{i}-6\hat{k}[/math])। এর মান [math]|\vec{\tau}|=\sqrt{(-3)^2+(-6)^2}=3\sqrt{5}\ \mathrm{N\cdot m}[/math] এবং ইউনিট দিক [math]\hat{n}=(-1/\sqrt{5})\hat{i}+0\hat{j}+(-2/\sqrt{5})\hat{k}[/math]; রাইট-হ্যান্ড নিয়ম অনুযায়ী এই দিক বরাবর ঘূর্ণন সৃষ্টি করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 406318)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: BAF Shaheen College
+--------------------------------------------------------------------------------
+Question:
+একজন গাড়ির চালক গাড়ির চাকা খারাপ হলে চাকা পরিবর্তন করার জন্য রেঞ্জ দিয়ে জ্যাক স্ক্রুকে ঘুরানোর সময় কোন এক মুহূর্তে প্রযুক্ত বলকে [math]\vec{\mathrm{F}}=(8 \hat{\mathrm{i}}+5 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}) \mathrm{N}[/math] এবং ঘূর্ণন অক্ষ থেকে বলের ক্রিয়া বিন্দুর দূরত্ব [math]\vec{\mathrm{r}}=(\hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}}) \mathrm{m}[/math] দিয়ে প্রকাশ করা হয়। গাড়ির ভর 2000 kg। ঘটনা স্থলে রাস্তার বাঁকের ব্যাসার্ধ 5m এবং রাস্তার প্রস্থ 3m । রাস্তার সর্বোচ্চ ঘর্ষণ বল [math]4 \mathrm{~N} \mathrm{~kg}^{-1}[/math] ।
+
+Options:
+গ. স্ক্রুটিকে ঘুরানোর সময় প্রযুক্ত টর্ক কত?
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে, প্রযুক্ত বল, [math]\vec{F}=8 \hat{i}+5 \hat{j}-5 \hat{k}[/math]
+দূরত্ব, [math]\vec{r}=\hat{i}+\hat{j}-\hat{k}[/math]
+প্রযুক্ত টর্ক, [math]\vec{\tau}=?[/math]
+আমরা জানি, [math]\vec{\tau}=\vec{r} \times \vec{F}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=\left|\begin{array}{rrr}\hat{\mathbf{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & 1 & -1 \\8 & 5 & -5\end{array}\right| \\=\hat{\mathrm{i}}(-5+5)-\hat{\mathrm{j}}(-5+8)+\hat{\mathrm{k}}(5-8) \\=-3 \hat{\mathrm{j}}-3 \hat{\mathrm{k}}\end{array}[/math]
+ [math]\therefore[/math]
+ টর্কের মান, [math]\tau=\sqrt{3^{2}+3^{2}}=\sqrt{9+9}=\sqrt{18} \mathrm{Nm}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ প্রযুক্ত টর্ক হল ক্রস-পণ্য, তাই [math]\vec{\tau}=\vec{r}\times\vec{F}[/math]। এখানে [math]\vec{r}=(1,1,-1),\ \vec{F}=(8,5,-5)[/math] হলে গুণফল থেকে [math]\vec{\tau}=(0,-3,-3)\ \mathrm{N\,m}[/math] পাওয়া যায় (i-কম্পোনেন্ট = 0, j = −3, k = −3)। এটি নির্দেশ করে যে টর্কের দিক j ও k অক্ষের নেতিবাচক দিকে এবং মান হল ঐ ভেক্টর।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 406319)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2024 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+টর্ক কী?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+যা কোনো অঘূর্ণনশীল বস্তুতে ঘুর্ণন সৃষ্টি করে বা করতে চায় বা ঘুর্ণায়মান বস্তুর কৌণিক বেগের পরিবর্তন করে তাকে টর্ক বলে। অন্যভাবে বলা যায়, যা বস্তুর কৌণিক ভরবেগের পরিবর্তন করতে পারে তা-ই টর্ক।
+
+Explanation:
+টর্ক হচ্ছে কোনো বিন্দু বা অক্ষের চারপাশে বস্তুকে ঘূর্ণন করার ক্ষমতা বা বলের ঘূর্ণনাত্মক প্রভাব। এটি নির্ণয় করা হয় বল এবং কাজের হাতের দূরত্বের গুণফলে, যেমন [math]\tau = rF\sin\theta[/math] (ভেক্টর হিসেবে [math]\vec\tau=\vec r\times\vec F[/math]), অর্থাৎ একই বল বেশি দূরে বা বলটি অক্ষকে লম্বভাবে প্রয়োগ করলে টর্ক বেশি হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 406320)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023, 2023, 2022, 2022, 2022, 2022, 2021, 2021, 2021, 2021, 2019, 2019, 2018, 2018, 2017, 2017 | Boards: Chittagong Board, Chittagong Board, Mymensingh Board, Sylhet Board, Dinajpur Board, Mymensingh Board, Dhaka Board, Rajshahi Board, Dhaka Board, Dinajpur Board, Sylhet Board | Tags: Chattogram Board, Jessore Board, Chattogram Board, Mymensingh Board, Cumilla Board, Sylhet Board, Dinajpur Board, Mymensingh Board, Dhaka Board, Rajshahi Board, Jessore Board, Dhaka Board, Dinajpur Board, Jessore Board, Sylhet Board, Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+টর্ক কী?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোনো বিন্দু বা অক্ষকে কেন্দ্র করে ঘূর্ণায়মান কোনো কণার ব্যাসার্ধ ভেক্টর এবং কণার উপর প্রযুক্ত বলের ভেক্টর গুণফলকে ঐ বিন্দু বা অক্ষের সাপেক্ষে কণাটির উপর প্রযুক্ত টর্ক বলে।
+
+Explanation:
+টর্ক হল কোনো বলের ঘূর্ণন সৃষ্টির মাপক; এটি বলে কতটা প্রবণতা আছে একটি বস্তুকে ঘোরাতে। গণনায় এটি অবস্থান ভেক্টর এবং বলের ক্রস-প্রডাক্ট দ্বারা লেখা হয়: [math]\boldsymbol{\tau}=\boldsymbol{r}\times\boldsymbol{F}[/math] (মাত্রা [math]\tau=rF\sin\theta[/math]) এবং একক সাধারণত [math]\text{N·m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 406312)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বোল্ট খোলার জন্য চিত্রের ন্যায় একটি রেঞ্জের সাহায্যে B বিন্দুতে [math]\vec{F}=5 \hat{i}+3 \hat{j} N[/math] বল প্রয়োগ করা হচ্ছে।
+
+এখানে [math]\hat{i}[/math] ও [math]\hat{j}[/math] দ্বারা যথাক্রমে X ও Y অক্ষ বরাবর একক ভেক্টর নির্দেশ করে। B বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=0.12 \hat{i}-0.07 \hat{j} m[/math]
+
+
+[Image]
+
+
+Options:
+গ. বোল্টের উপর ক্রিয়াশীল টর্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\begin{array}{l}\vec{F}=-5 \hat{i}-3 \hat{j} \\\vec{r}=0.12 \hat{i}-0.07 \hat{j}\end{array}[/math]
+টর্ক [math]\vec{\tau}=?[/math]
+আমরা জানি,[math]\begin{aligned}\vec{\tau} & =\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}} \\& =\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\0.12 & -0.07 & 0 \\-5 & -3 & 0\end{array}\right|\end{aligned}[/math]
+ [math]\begin{aligned}& =\hat{\mathrm{i}}(0-0)+\hat{\mathrm{j}}(0-0)+\hat{\mathrm{k}}(-0.36-0.35) \\\therefore \quad \vec{\tau} & =-0.71 \hat{\mathrm{k}} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: টর্ক হয় ক্রস প্রোডাক্ট [math]\vec{τ}=\vec{r}\times\vec{F}[/math], যার z-কম্পোনেন্ট [math]\tau_z=r_xF_y-r_yF_x[/math]. তাই [math]\tau_z=(0.12)(3)-(-0.07)(5)=0.36+0.35=0.71\ \mathrm{N\!·\!m}[/math], অর্থাৎ [math]\vec{τ}=0.71\ \hat{k}\ \mathrm{N\!·\!m}[/math] (পজিটিভ z দিক — পৃষ্ঠের বাইরে)।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 406309)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রটি লক্ষ কর। এটি একটি পাহাড়। একজন সাইকেল চালক ইহার উপর [math]\vec{\mathrm{r}}=4 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}+12 \hat{\mathrm{k}}[/math] সাইকেল চালাচ্ছে। সাইকেলের চাকার ব্যাসার্ধ ভেক্টর [math]\vec{\mathrm{F}}=2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}[/math] এবং বলের ভেক্টর [math]\vec{\mathrm{F}}=2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}[/math]  
+
+
+[Image]
+
+
+Options:
+গ. সাইকেল চালকের টর্ক কত?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক থেকে পাই,[math]\hspace{1 cm}[/math]
+ব্যাসার্ধ ভেক্টর, [math]\overrightarrow{\rm{r}}=4 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}+12 \hat{\mathrm{k}}[/math]
+ [math]\hspace{1 cm}[/math]
+বলের ভেক্টর, [math]\rm{\overrightarrow{F}=2 \hat{i}+3 \hat{j}-5 \hat{k}}[/math]
+ধরি, সাইকেল চালকের টর্ক [math]\overrightarrow{\tau}[/math]
+আমরা জানি, টর্ক,[math]\hspace{1.6 cm}\begin{aligned} \overrightarrow{\tau} & =\overrightarrow{\rm{r}} \times \overrightarrow{\rm{F}} \\ & =(4 \hat{i}-6 \hat{j}+12 \hat{k}) \times(2 \hat{i}+3 \hat{j}-5 \hat{k}) \\ & =\left|\begin{array}{ccc} \hat{i} & \hat{j} & \hat{k} \\ 4 & -6 & 12 \\ 2 & 3 & -5 \end{array}\right| \\ & =(30-36) \hat{i}+(24+20) \hat{\mathrm{j}}+(12+12) \hat{k} \\ & =-6 \hat{i}+44 \hat{j}+24 \hat{k} \end{aligned}[/math]
+টর্কের মান [math]=\sqrt{(-6)^{2}+44^{2}+24^{2}}=50.48[/math]
+অতএব, সাইকেল চালকের টর্কের মান [math]50.48[/math]
+।
+
+Explanation:
+গ ব্যাখ্যা: টর্ক হচ্ছে [math]\vec{\tau}=\vec{r}\times\vec{F}[/math]। এখানে [math]\vec{r}=4\hat{\imath}-6\hat{\jmath}+12\hat{k}[/math] এবং [math]\vec{F}=2\hat{\imath}+3\hat{\jmath}-5\hat{k}[/math] হলে ক্রস প্রোডাক্ট করে পাওয়া যায় [math]\vec{\tau}=-6\hat{\imath}+44\hat{\jmath}+24\hat{k}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 406310)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নাট খুলতে 90 N.m মানের টর্কের প্রয়োজন। এক ব্যক্তি [math]\vec{F}=20 \vec{i}+15 \vec{j}[/math] বল প্রয়োগে একটি রেঞ্জের সাহায্যে একটি নাট খোলার চেষ্টা করছে। রেঞ্জের মধ্য বিন্দুর সাপেক্ষে বলের প্রয়োগ বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=3 \vec{i}-2 \vec{j}[/math] ।
+
+Options:
+গ. বল ও অবস্থান ভেক্টরের মধ্যবর্তী কোণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বল, [math]\overrightarrow{\mathrm{F}}=20 \hat{\mathrm{i}}+15 \hat{\mathrm{j}}[/math]
+অবস্থান ভেক্টর, [math]\overrightarrow{\mathrm{r}}=3 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}[/math]
+মধ্যবর্তী কোণ, [math]\theta=?[/math]
+আমরা জানি,[math]\overrightarrow{\mathrm{F}} \cdot \overrightarrow{\mathrm{r}}=\mathrm{Fr} \cos \theta[/math]
+ [math]\Rightarrow[/math]
+ [math]\cos \theta=\frac{\overrightarrow{\mathrm{F}} \cdot \overrightarrow{\mathrm{r}}}{\mathrm{Fr}}[/math]
+ [math]\begin{aligned}& =\frac{(20 \hat{\mathrm{i}}+15 \hat{\mathrm{j}}) \cdot(3 \hat{\mathrm{i}}-2 \hat{\mathrm{j}})}{\sqrt{20^{2}+15^{2}} \cdot \sqrt{3^{2}+(-2)^{2}}} \\& =\frac{60-30}{25 \times 3.60}=\frac{30}{90.14}=0.33 \\\therefore \theta & =\cos _{\mathrm{l}}^{-1}(0.33)=70.56^{\circ} \text { (Ans) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ ভেক্টরগুলোর মধ্যবর্তী কোণ নির্ণয়ের সূত্র [math]\cos\theta=\dfrac{\vec F\cdot\vec r}{|\vec F||\vec r|}[/math]; এখানে [math]\vec F\cdot\vec r=20\cdot3+15\cdot(-2)=30[/math], [math]|\vec F|=\sqrt{20^2+15^2}=25[/math], [math]|\vec r|=\sqrt{3^2+(-2)^2}=\sqrt{13}[/math], তাই [math]\cos\theta=\dfrac{30}{25\sqrt{13}}=\dfrac{6}{5\sqrt{13}}[/math]. ফলশ্রুতিতে [math]\theta=\cos^{-1}\!\left(\dfrac{6}{5\sqrt{13}}\right)\approx70.6^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 406311)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নাট খুলতে 90 N.m মানের টর্কের প্রয়োজন। এক ব্যক্তি [math]\vec{F}=20 \vec{i}+15 \vec{j}[/math] বল প্রয়োগে একটি রেঞ্জের সাহায্যে একটি নাট খোলার চেষ্টা করছে। রেঞ্জের মধ্য বিন্দুর সাপেক্ষে বলের প্রয়োগ বিন্দুর অবস্থান ভেক্টর, [math]\vec{r}=3 \vec{i}-2 \vec{j}[/math]।
+
+Options:
+ঘ. নাটটি খোলা সম্ভব হবে কি না উপযুক্ত কারণসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,নাটের উপর ক্রিয়ারত টর্ক, [math]\tau=\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}}[/math]
+ [math]\begin{array}{l}=\mathrm{rF} \sin \theta \\=\sqrt{3^{2}+(-2)^{2}} \times \sqrt{20^{2}+15^{2}} \sin \left(70.56^{\circ}\right) \\=\sqrt{9+4} \times \sqrt{625} \sin \left(70.56^{\circ}\right) \\=85 \\\therefore \tau=85 \mathrm{Nm}\end{array}[/math]
+কিন্তু নাট খুলতে 900 Nm মানের টর্কের প্রয়োজন, যা এই প্রযুক্ত বল দ্বারা উৎপন্ন হয়নি। সুতরাং নাটটি খোলা সম্ভব নয়।
+
+Explanation:
+ঘ নাটটি খোলা সম্ভব হবে না। ব্যাখ্যা: টর্কের মান [math]\tau=r_xF_y-r_yF_x[/math] এবং এখানে [math]\tau=3\times15-(-2)\times20=85\ \mathrm{N\cdot m}[/math], যা প্রয়োজনীয় [math]90\ \mathrm{N\cdot m}[/math] থেকে কম।
+
+Sub-Questions:
+

@@ -1,0 +1,2034 @@
+================================================================================
+Question #1 (ID: 422976)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]B[/math] বাল্বটি [math]A[/math] বাল্ব থেকে অধিক উজ্জ্বলতায় জ্বলছে।
+
+Options:
+ঘ. বাল্ব দ্বয় কে সমান্তরাল সমবায়ে যুক্ত করে একই উৎসের সাথে যুক্ত করা হলে কোনটি অধিক উজ্জ্বলতায় জ্বলবে- গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,A বাল্বের রোধ = [math]R_A[/math]
+B বাল্বের রোধ = [math]R_B[/math]
+(গ) হতে প্রাপ্ত, [math]R_A[/math]
+ \frac{V^{2}}{R_{B}}[/math]
+ হবে। অর্থাৎ, [math]P_{A}>P_{B}[/math]
+ হবে।অতএব, A বাল্বের ক্ষমতা B বাল্বের চেয়ে বেশি হওয়ায় A বাঘটি B বাল্ব অপেক্ষা বেশি উজ্জ্বলতায় জ্বলবে।
+
+Explanation:
+ঘ ব্যাখ্যা: সমান্তরাল সংযোগে উভয় বাল্বে ভোল্টেজ একই, তাই প্রতিটি বাল্বের শক্তি [math]P=\dfrac{V^2}{R}[/math]। যেহেতু প্রথমে [math]B[/math] অধিক উজ্জ্বল ছিল, তাই [math]R_BP_A=\dfrac{V^2}{R_A}[/math] — ফলে সমান্তরালেও [math]B[/math] বেশি উজ্জ্বল থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 422977)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তড়িৎ কোষের তড়িচ্চালক বল [math]1.5 \ V[/math] এবং অভ্যন্তরীণ রোধ [math]0.25\Omega[/math] । [math]6 \Omega[/math] এর একটি বহিঃস্থ রোধ এর সাথে যুক্ত করা হলো।
+
+Options:
+ঘ. বহিঃস্থ রোধের ক্ষমতা [math]24 \ W[/math] করতে হলে প্রদত্ত কোষের অনুরূপ কতটি কোষ কীভাবে ব্যব হার করবে, গাণিতিকভাবে বিশ্লেষণ কর ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,বহিঃস্থ রোধ, R = [math]6\Omega[/math]
+অভ্যন্তরীণ রোধ, r = 0.25 [math]\Omega[/math]
+প্রতিটি কোষের তড়িচ্চালক বল, E=-1.5Vবহিঃ রোধের ক্ষমতা, P = 24 W. তড়িৎ প্রবাহ,[math]\begin{aligned}I & =\sqrt{\frac{P}{R}} \\& =\sqrt{\frac{24 W}{6 \Omega}} \\& =2 \mathrm{~A}\end{aligned}[/math]
+মনে করি, n সংখ্যক অনুরূপ কোষ শ্রেণি সমবায়ে সংযোগ দিলে তড়িৎ প্রবাহের মান 2 A হবে[math]\begin{array}{l}\therefore \mathrm{I}=\frac{\mathrm{nE}}{\mathrm{R}+\mathrm{nr}}\\\text{} 2=\frac{n \times 1.5}{6+n \times 0.25}\\\text{, } 12+0.5 n=1.5 n\\\text{ } n=12\end{array}[/math]
+অতএব, বহিঃস্থ রোধের ক্ষমতা 24 W করতে হলে অনুরূপ 12টি কোষ শ্রেণি সমবায়ে সংযোগ দিতে হবে । -
+
+Explanation:
+সমাধান: ঘ nটি সমান সেল সিরিজে যুক্ত করলে মোট ইএমএফ [math]nE[/math] এবং অভ্যন্তরীণ রোধ [math]nr[/math] হয়; বহিঃস্থ রোধে শক্তি হবে [math]P=\dfrac{(nE)^2R}{(R+nr)^2}[/math]. এখানে [math]E=1.5\ V,\ r=0.25\Omega,\ R=6\Omega[/math] বসিয়ে [math]\dfrac{13.5\,n^2}{(6+0.25n)^2}=24[/math] পাওয়া যায়, যা সরলীকরণ করলে [math]n^2-6n-72=0[/math] এবং এর ধনাত্মক সমাধান [math]n=12[/math]. তাই 12টি সেল সিরিজে যুক্ত করলে বহিঃস্থ রোধে শক্তি [math]24\ W[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 422978)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীতে [math]100 \ \Omega[/math] রোধের ব্যয়িত ক্ষমতা [math]0.81 \ W[/math] হয়। আরো মনে কর, একজন ছাত্রের কাছে [math]100[/math] এর অনেকগুলো রোধ আছে।
+
+
+[Image]
+
+
+Options:
+গ. প্রতিটি রোধে তড়িৎ প্রবাহ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, রোধ, [math]R_1[/math]
+ = 100 [math]\Omega[/math]
+রোধ, [math]R_2 = R_3 = 25\Omega[/math]
+ [math]R_1[/math]
+ রোধের ব্যয়িত ক্ষমতা, [math]P_{R_1}[/math]
+ = 0.81 Wরোধ তিনটির মধ্য দিয়ে তড়িৎপ্রবাহ, [math]I_1 = ?, I_2 = ?, I_3 = ?[/math]
+আমরা জানি,ক্ষমতা, [math]P_{R_{1}}=I_{1}^{2} R_{1}[/math]
+ [math]\begin{array}{l}0.81=I_{1}^{2} \times 100 \\I_{1}^{2}=0.0081 \\I_{1}=\sqrt{0.0081}\end{array}[/math]
+ [math]\therefore \mathrm{I}_{1}=0.09 \text { A (Ans.) }[/math]
+ [math]R_2[/math]
+ ও [math]R_3[/math]
+ সমান্তরালে থাকায় তড়িৎ বিভাজন সূত্র হতে,[math]\mathrm{I}_{\mathrm{R}_{2}}=\frac{\frac{1}{\mathrm{R}_{2}}}{\frac{1}{\mathrm{R}_{2}}+\frac{1}{\mathrm{R}_{3}}} \times \mathrm{I}_{1}=\frac{\frac{1}{25}}{\frac{1}{25}+\frac{1}{25}} \times 0.09=0.045 \mathrm{~A} \text { (Ans.) }[/math]
+ [math]\mathrm{I}_{\mathrm{R}_{3}}=\frac{\frac{1}{\mathrm{R}_{3}}}{\frac{1}{\mathrm{R}_{2}}+\frac{1}{\mathrm{R}_{3}}} \times \mathrm{I}_{1}=\frac{\frac{1}{25}}{\frac{1}{25}+\frac{1}{25}} \times 0.09=0.045 \mathrm{~A} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ প্রতিটি রোধে তড়িৎ প্রবাহ হবে [math]I=\sqrt{P/R}=\sqrt{0.81/100}=\sqrt{0.0081}=0.09\ \text{A}=90\ \text{mA}[/math]. কারণ রোধে ব্যয়িত শক্তি সম্পর্কিত সূত্রটি হল [math]P=I^2R[/math], তাই [math]I[/math] বের করতে স্কয়ার রুট নেওয়া হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 422979)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পরিবাহীর দুই প্রান্তের বিভব পার্থক্য [math]210[/math] ভোল্ট। এর মধ্য দিয়ে [math]20[/math] কুলম্ব চার্জ প্রবাহিত হলে ব্যয়িত তড়িৎ শক্তি এবং উৎপন্ন তাপের পরিমাণ ক্যালরিতে নির্ণয় কর। [math](J=4.2Jcal^{-1})[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1000 \ cal)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিভব পার্থক্য, [math]V=210 \ volt[/math]
+চার্জ, [math]Q=20C[/math]
+যান্ত্রিক তুল্যাংক, [math]J=4.2 \ J \ cal^{-1}[/math]
+উৎপন্ন তাপ, [math]H=?[/math]
+আমরা জানি,ব্যায়তি শক্তি, [math]W=VQ=210 \ V \times 201=4200 \ J \ (Ans.)[/math]
+ব্যায়িত শক্তি = উৎপন্ন তাপ[math]W=JH[/math]
+ [math]\begin{aligned} \therefore \mathrm{H} & =\frac{\mathrm{W}}{\mathrm{J}} \\ & =\frac{4200 \mathrm{~J}}{4.2 \mathrm{~J} \mathrm{cal}^{-1}} \\ & =1000 \mathrm{cal} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তড়িৎ শক্তি = বিভব পার্থক্য × চার্জ, তাই [math]W=Vq=210\times20=4200\ \text{J}[/math]। ক্যালরিতে রূপান্তর করলে [math]1\ \text{cal}=4.2\ \text{J},\; Q=\dfrac{4200}{4.2}=1000\ \text{cal}[/math], তাই উৎপন্ন তাপ = [math]1000\ \text{cal}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 422980)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক বাতিকে [math]200 \ V[/math] সরবরাহ লাইনে যুক্ত করা হলে এর ক্ষমতা হয় [math]400[/math] ওয়াট এ সময় 'বাতির মধ্য দিয়ে তড়িৎ প্রবাহ ও বাতির রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2A, 100 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিভব পার্থক্য, [math]V=200 \ V[/math]
+ক্ষমতা [math]P=400 \ W[/math]
+তড়িৎ প্রবাহ, [math]I=?[/math]
+রোধ, [math]R=?[/math]
+আমরা জানি,[math]P=VI[/math]
+ [math]\Rightarrow \ I=\frac{P}{V}=\frac{400 \mathrm{~W}}{200 \mathrm{~V}}[/math]
+ [math]\therefore \ I=2A \ (Ans)[/math]
+আবার, [math]P=\frac{V^{2}}{R}[/math]
+ [math]\begin{array}{l} \Rightarrow R=\frac{V^{2}}{P}=\frac{(200 \mathrm{~V})^{2}}{400 \mathrm{~W}} \\ \therefore R=100 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পাওয়ার সূত্র [math]P=VI[/math] প্রয়োগ করলে প্রবাহ [math]I=\dfrac{P}{V}=\dfrac{400}{200}=2\ \text{A}[/math]. ওহমের সূত্র অনুযায়ী রোধ [math]R=\dfrac{V}{I}=\dfrac{200}{2}=100\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 422981)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হিটার [math]220 \ volt[/math] সরবরাহ লাইন হতে [math]2 \ amp[/math] প্রবাহ গ্রহণ করে। হিটারটি [math]400[/math] ঘণ্টা ব্যবহার করলে কত [math]kWh[/math] বার হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](176 \ kWh)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিভব পার্থক্য, [math]V=200V[/math]
+তড়িৎ প্রবাহ, [math]I=2 \ amp[/math]
+সময়, [math]t=400 \ hour[/math]
+ব্যয়িত শক্তি, [math]W=?[/math]
+ [math]\\[/math]
+আমরা জানি,ব্যায়িত শক্তি,[math]\begin{aligned} \mathrm{W} & =\mathrm{VIt} \\ & =220 \text { volt } \times 2 \mathrm{amp} \times 400 \text { hour } \\ & =176000 \mathrm{Wh} \\ & =176 \mathrm{kWh} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: হিটারের বিদ্যুৎ শক্তি পাওয়ার সূত্র [math]P=VI[/math] থেকে [math]P=220\times 2=440\ \text{W}=0.44\ \text{kW}[/math] পাওয়া যায়, এবং কিলোওয়াট-ঘণ্টায় শক্তি হল শক্তি গুণ সময়: [math]E=P\times t=0.44\times 400=176\ \text{kWh}[/math]; তাই মোট energy = [math]176\ \text{kWh}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 422982)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]100[/math] ওয়াট এর একটি নিমন্ত্রক হিটার [math]7[/math] মিনিটে [math]2[/math] লিটার পানির তাপমাত্রা [math]32°C[/math] থেকে [math]37^{\circ}C[/math] পর্যন্ত বৃদ্ধি করে। তাপের যান্ত্রিক তুল্যাঙ্কের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.2 \ J \ cal^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: বৈদ্যুতিক শক্তি তাপের সমতুল্য, তাই হিটার দ্বারা সরবরাহিত শক্তি ও পানির তাপ বৃদ্ধি থেকে J/Cal পাওয়া যায়। শক্তি: [math]E=Pt=100\times7\times60=42000\ \text{J}[/math]. পানির তাপ (1 cal/g°C ধরে): [math]Q=2000\ \text{g}\times1\ \text{cal/g°C}\times5°C=10000\ \text{cal}[/math]. তাই তাপের যান্ত্রিক তুল্যাঙ্ক = [math]42000/10000=4.2\ \text{J/cal}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 422983)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বাড়িতে [math]100[/math] ওয়াটের [math]3[/math]টি বাতি, [math]40[/math] ওয়াটের 4টি বাতি এবং [math]60[/math] ওয়াটের [math]5[/math]টি বৈ দ্যুতিক পাখা আছে। যদি [math]100[/math] ওয়াট এবং [math]40[/math] ওয়াটের বাতিগুলো গড়ে প্রতিদিন যথাক্রমে [math]3[/math] ঘন্টা ও [math]5[/math] ঘন্টা জ্বলে এবং পাখাগুলো গড়ে প্রতিদিন [math]10[/math] ঘণ্টা করে চলে তবে [math]30[/math] দিনের এক মাসে বৈদ্যুতিক বিল কত হবে? (প্রতি ইউনিট বিদ্যুতের মূল্য [math]1.25[/math] টাকা)
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](176.25 \ Tk)[/math]
+ [math]\\[/math]
+ [math][/math]
+$ 100$ ওয়াটের বাতির ব্যয়িত শক্তি,[math]\begin{aligned} W_{1} & =\frac{P t}{1000} \mathrm{~kW}-\mathrm{h} \\ & =\frac{100 \times 3^{2} \times 30}{1000} \mathrm{~kW}-\mathrm{h} \\ & =27 \mathrm{~kW}-\mathrm{h} \end{aligned}[/math]
+ [math]40[/math]
+ ওয়াটের বাতির ব্যয়িত শক্তি,[math]\begin{aligned} W_{2} & =\frac{P t}{1000} \mathrm{~kW}-\mathrm{h} \\ & =\frac{40 \times 4 \times 5 \times 30}{1000} \mathrm{~kW}-\mathrm{h} \\ & =24 \mathrm{~kW}-\mathrm{h} \end{aligned}[/math]
+ [math]60 \ W[/math]
+ এর বৈদ্যুতিক পাখার ব্যয়িত শক্তি,[math]W_{3}=\frac{P t}{1000} k W-h[/math]
+ [math]\begin{array}{l} =\frac{60 \times 5 \times 10 \times 30}{1000} \mathrm{~kW}-\mathrm{h} \\ =90 \mathrm{~kW}-\mathrm{h} \end{array}[/math]
+ [math]\therefore[/math]
+ ব্যায়িত মোট শক্তি,[math]\begin{aligned} W & =W_{1}+W_{2}+W_{3} \\ & =(27+24+90) \mathrm{kW}-\mathrm{h} \\ & =14 ! \mathrm{kW}-\mathrm{h} \end{aligned}[/math]
+ [math]\therefore[/math]
+ঐ মাসের বৈদ্যুতিক বিল[math]\begin{array}{l} =141 \times 1.25 \text { Tk } \\ =176 .25 \text { Tk (Ans.) } \end{array}[/math]
+
+
+Explanation:
+প্রতিদিন খরচ: তিনটি [math]100\text{ W}[/math] বাতি [math]3\times100\times3=900\text{ Wh}=0.9\text{ kWh}[/math], চারটি [math]40\text{ W}[/math] বাতি [math]4\times40\times5=800\text{ Wh}=0.8\text{ kWh}[/math], পাঁচটি [math]60\text{ W}[/math] পাখা [math]5\times60\times10=3000\text{ Wh}=3.0\text{ kWh}[/math].  
+প্রতি দিন মোট = [math]0.9+0.8+3.0=4.7\text{ kWh}[/math], এক মাস (30 দিন) = [math]4.7\times30=141\text{ kWh}[/math].  
+বিল = [math]141\times1.25=176.25\text{ টাকা}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 422984)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]100[/math] ওয়াটের একটি বৈদ্যুতিক বাতিকে প্রতিদিন [math]5[/math] ঘণ্টা করে জ্বালানো হয়। প্রতি কিলোওয়াট ঘণ্টা বৈদ্যুতিক শক্তির মূল্য [math]2.00[/math] টাকা হলে এক মাসে কত খরচ পড়বে? (এক মাস [math]30[/math] দিন)।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]30[/math] টাকা
+
+Explanation:
+শক্তির সূত্র হলো শক্তি (এনার্জি) = পাওয়ার × সময়; [math]100\ \text{W}=0.1\ \text{kW}[/math], তাই দৈনিক ব্যবহার = [math]0.1\times5=0.5\ \text{kWh}[/math] এবং মাসে = [math]0.5\times30=15\ \text{kWh}[/math]. খরচ = শক্তি × মূল্য = [math]15\times2.00=30\ \text{টাকা}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 422985)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বাড়িতে [math]6[/math] টি [math]60 \ watt[/math] এর বাতি এবং [math]2[/math] টি [math]40 \ watt[/math] এর পাখা প্রতিদিন [math]6[/math] ঘণ্টা ধরে চলে। প্রতি ইউনিট শক্তির ব্যয় [math]1.50[/math] টাকা হলে মাসিক ব্যয় কত? [ [math]1[/math] মাস [math]= 30[/math] দিন]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]118.8[/math] টাকা
+
+Explanation:
+বিষয়বস্তু: বিদ্যুৎশক্তি হলো শক্তি × সময় এবং মাপ কিলোওয়াট-ঘন্টা (kWh)। মোট পাওয়ার: [math]6\times60+2\times40=440\ \text{W}[/math] এবং দিনে খরচ হওয়া শক্তি: [math]440\ \text{W}\times6\ \text{h}=2640\ \text{Wh}=2.64\ \text{kWh}[/math]; মাসে ([math]30[/math] দিন) এটি হবে [math]2.64\times30=79.2\ \text{kWh}[/math]. মাসিক ব্যয়: [math]79.2\times1.50=118.8\ \text{টাকা}[/math], অর্থাৎ প্রায় [math]118.80\ \text{টাকা}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 422986)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো বাড়ির মেইন মিটার [math]6 \ amp-220 \ volt[/math] চিহ্নিত করা আছে। কতগুলো [math]60 \ watt[/math] এর বাতি ঐ বাড়িতে নিরাপত্তার সাথে ব্যবহার করা যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]22[/math]
+টি[math]\\[/math]
+ [math][/math]
+এখানে, মেইন মিটারের বিভব পার্থক্য, [math]V=220V[/math]
+মেইন মিটারে তড়িৎ প্রবাহ, [math]I=6A[/math]
+প্রতিটি বাতির ক্ষমতা, [math]P_1 = 60W[/math]
+বাতির সংখ্যা, [math]=?[/math]
+ [math]\\[/math]
+আমরা জানি, [math]P=VI[/math]
+ [math]\therefore[/math]
+ মেইন মিটারের মিটারের ক্ষমতা,[math]P=220 \times 6=1320 \mathrm{~W}[/math]
+কিন্তু প্রতিটি বাতির ক্ষমতা [math]=60W[/math]
+ [math]\therefore[/math]
+ব্যবহৃত বাতির সংখ্যা [math]=\frac{1320}{60}[/math]
+টি [math]=22[/math]
+টি
+
+Explanation:
+ব্যাখ্যা: মেইন মিটারের সর্বোচ্চ পাওয়ার হচ্ছে [math]P=V×I=220×6=1320\ \text{W}[/math] এবং প্রতিটি বাতি খরচ করে [math]60\ \text{W}[/math], সুতরাং ব্যবহার করা যাবে [math]1320/60=22[/math] টি বাতি; বেশি লাগালে অতি লোড হয়ে মিটার বা সার্কিট ঝুঁকিতে পড়বে।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 422987)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1 \ kW[/math] ক্ষমতার একটি ইলেকট্রিক কেটলিতে গ্রীষ্মকালে । লিটার পানি [math]5[/math] মিনিটে ফুটে। কিন্তু শীতকালে একই পরিমাণ ফুটতে। [math]1[/math] মিনিট সময় বেশি লাগে। কক্ষ তাপমাত্রার তারতম্যের কারণে এরূপ হয়ে থাকে।
+
+Options:
+ক. শীতকালে কেটলিটি কত ক্যালরি তাপ উৎপন্ন করে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ক শীতকালে উৎপন্ন তাপ: কেটলির শক্তি [math]P=1\ \text{kW}=1000\ \text{W}[/math] এবং সময় [math]6\ \text{min}=360\ \text{s}[/math], তাই জুলে শক্তি [math]E=Pt=1000\times360=360000\ \text{J}[/math]. ১ ক্যালরি ≈ [math]4.2\ \text{J}[/math] ধরে ক্যালরিতে [math]360000/4.2\approx8.57\times10^4\ \text{cal}[/math] (প্রায় [math]8.6\times10^4\ \text{cal}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 422988)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]100[/math] ওয়াট এর একটি নিমজ্জক [math]7[/math] মিনিটে [math]2[/math] লিটার পানির তাপমাত্রা [math]32°C[/math] থেকে [math]37°C[/math] পর্যন্ত বৃদ্ধি করে। তাপের যান্ত্রিক তুল্যাঙ্কের মান নির্ণয় কর। [1 লিটার [math]=1000g,S=1 \ caVg \ 1^{\circ}C[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.2 \ J \ cal^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: বিদ্যুৎ কাজ = [math]P t = 100\times 7\times 60 = 42000\ \text{J}[/math]। পানির তাপে বিস্তার = [math]Q = m c ΔT = 2000\times 1\times 5 = 10000\ \text{cal}[/math]। তাই যান্ত্রিক তুল্যাঙ্ক [math]J=\dfrac{42000\ \text{J}}{10000\ \text{cal}}=4.2\ \text{J/cal}[/math], অর্থাৎ প্রতিটি ক্যালোরির জন্য প্রায় [math]4.2\ \text{জুল}[/math] শক্তি লাগেছে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 422989)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক বাতির গায়ে লেখা আছে [math]220 volt -100 watt[/math]। বাতিটির রোধ কত? বাতিটিকে [math]200V[/math] সরবরাহ লাইনে যুক্ত করলে এর ক্ষমতা কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](484 \ Omega,82.64 \ W)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিভব পার্থক্য, [math]V_1=220 \ volt[/math]
+ক্ষমতা, [math]P_1 = 100 \ watt[/math]
+বাল্বের রোধ, [math]R=?[/math]
+বিভব পার্থক্য, [math]V_2=200 \ volt[/math]
+ হলেক্ষমতা, [math]P_2=?[/math]
+ [math]\\[/math]
+আমরা জানি,ক্ষমতা,[math]\begin{array}{l} P_{1}=\frac{V_{1}^{2}}{R}\\\Rightarrow R=\frac{V_{1}^{2}}{P_{1}}=\frac{(220 \text { volt })^{2}}{100 \mathrm{~W}}\\\therefore \mathrm{R}=484 \Omega \text{ (Ans.)}\end{array}[/math]
+আবার,[math]\begin{aligned} P_{2} & =\frac{V_{2}^{2}}{R}=\frac{(200 \mathrm{~V})^{2}}{484 \Omega} \\ & =82 \cdot 64 \mathrm{~W} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: 
+ক বাতির রোধ পাওয়ারের ও ভোল্টেজের সম্পর্ক [math]P=V^2/R[/math] থেকে পাওয়া যায়, তাই [math]R=\dfrac{V^2}{P}=\dfrac{220^2}{100}=484\ \Omega[/math]. 
+খ ২০০V এ ক্ষমতা হবে [math]P'=\dfrac{{V'}^2}{R}=\dfrac{200^2}{484}\approx82.64\ \text{W}[/math], কারণ রোধ স্থায়ী থাকলে শক্তি ভোল্টেজের বর্গের অনুপাতে পরিবর্তিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 422990)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো একটি বাড়িতে [math]100W[/math] এর [math]10[/math]টি, [math]60W[/math] এর দুটি বাতি এবং [math]3 \ kW[/math] এর একটি হিটার আছে। বাতিগুলো প্রতিদিন [math]6[/math] ঘণ্টা জ্বলে এবং হিটারটি দৈনিক [math]2[/math] ঘন্টা চলে। জানুয়ারি মাসে ঐ বাড়িতে কত ইউনিট বিদ্যুৎ ব্যয় হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](427.8 \ unit)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, [math]1[/math]
+টি বাতির ক্ষমতা, [math]P_1 = 100W[/math]
+ [math]\therefore \ 1[/math]
+ টি বাতির ব্যয়িত শক্তি[math]\begin{aligned} \mathrm{W}_{1} & \frac{100 \times 6 \times 31}{1000} \mathrm{~kW}-\mathrm{h} \\ & =18.6 \mathrm{~kW}-\mathrm{h} \end{aligned}[/math]
+ [math]therefore \ 10[/math]
+ টি বাতির মোট শক্তি,[math]\begin{array}{l} =(10 \times 18.6) \mathrm{kW}-\mathrm{h} \\ =186 \mathrm{~kW}-\mathrm{h} \end{array}[/math]
+আবার, [math]1[/math]
+টি বাতির ক্ষমতা, [math]P_2 =60 W[/math]
+ [math]\therefore \ 1[/math]
+ টি ব্যয়িত শক্তি,[math]\begin{aligned} \mathrm{W}_{2} & =\frac{60 \times 6 \times 31}{1000} \mathrm{~kW}-\mathrm{h} \\ & =11.16 \mathrm{~kW}-\mathrm{h} \end{aligned}[/math]
+ [math]\therefore \ 5[/math]
+ টি বাতির শক্তি[math]\begin{array}{l} =(5 \times 11.16) mathrm{kW}-\mathrm{h} \\ =55.8 \mathrm{~kW}-\mathrm{h} \end{array}[/math]
+হিটারের ক্ষমতা, [math]P_3 =3kW[/math]
+ [math]\therefore[/math]
+ হিটারের ব্যয়িত শক্তি [math]W_{3}=3 \times 2 \times 31=186 \mathrm{~kW}-\mathrm{h}[/math]
+ [math]\therefore[/math]
+ মোট বিদ্যুৎ ব্যায়[math]\begin{array}{l} =(186+55.8+186) \mathrm{kW}-\mathrm{h} \\ =427.8 \mathrm{~kW}-\mathrm{h} \\ =427.8 \text { unit (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে বাতি ও হিটারের শক্তি গণনা করি — [math]100\text{ W}\times 10=1000\text{ W}[/math], [math]60\text{ W}\times 2=120\text{ W}[/math], হিটার = [math]3\text{ kW}=3000\text{ W}[/math]. দৈনিক শক্তি = বাতি: [math](1000+120)\text{ W}\times 6\text{ h}=6720\text{ Wh}=6.72\text{ kWh}[/math], হিটার: [math]3000\text{ W}\times 2\text{ h}=6000\text{ Wh}=6\text{ kWh}[/math], মোট দৈনিক = [math]6.72+6=12.72\text{ kWh}[/math]. জানুয়ারি (31 দিন) হলে মোট = [math]12.72\times 31=394.32\text{ kWh}[/math], অর্থাৎ প্রায় [math]394.32[/math] ইউনিট।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 422991)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]500W[/math] ও [math]100V[/math]-এ ব্যবহারযোগ্য একটি বৈদ্যুতিক বাতিকে [math]200V[/math] সরবরাহের বর্তনীতে যুক্ত করা হলো। শ্রেণি সমবায়ে কত রোধ যুক্ত করতে হবে যাতে বাতির ক্ষমতা [math]500W[/math]-ই থাকে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](60 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+মনে করি, শ্রেণি সমবায়ে [math]R_s[/math]
+ রোধ যুক্ত করতে হবে এবং ঐ বাতির আদি রোধ [math]R[/math]
+তাহলে, [math]P=\frac{V^2}{R}[/math]
+ [math]\Rightarrow \mathrm{R}=\frac{\mathrm{V}^{2}}{\mathrm{P}}=\frac{(100 \mathrm{~V})^{2}}{500 \mathrm{~W}}=20 \Omega[/math]
+আবার,$\begin{array}{l} \Rightarrow 500 \mathrm{~W}=\frac{(200 \mathrm{~V})^{2}}{20 \Omega+\mathrm{R}_{\mathrm{s}}} \\ \quad \Rightarrow \dot{20 \Omega}+\mathrm{R}_{\mathrm{S}}=\frac{4 \times 10^{4} \mathrm{~V}^{2}}{500 \mathrm{~W}}=80 \Omega \\\therefore \mathrm{R}_{\mathrm{S}}=80 \Omega-20 \Omega=60 \Omega \text { (Ans.) } \end{array}$
+
+Explanation:
+বাতিটির অভিসর্বক রোধ হবে [math]R_b=\dfrac{V^2}{P}=\dfrac{100^2}{500}=20\ \Omega[/math] এবং বাতির through ধার্য ধারা হবে [math]I=\dfrac{P}{V}=\dfrac{500}{100}=5\ \text{A}[/math]; তাই সিরিজে যোগ করতে হবে এমন রোধ যাতে [math]200-100=100\ \text{V}[/math] ড্রপ করে, অর্থাৎ [math]R_s=\dfrac{100}{5}=20\ \Omega[/math] যাতে বাতির উপর একই [math]100\ \text{V}[/math] থাকে এবং শক্তি [math]500\ \text{W}[/math] অপরিবর্তিত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 422992)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2.2 \ KV[/math] বিভব পার্থক্যে [math]10\Omega[/math] রোধের লাইনের মাধ্যমে [math]2.2 kW[/math] ক্ষমতা সঞ্চালিত হ চ্ছে। লাইনে তাপক্ষয়ের হার কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](10 \ watt)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, বিভব পার্থক্য,লাইনের রোধ,[math]V=2.2 \ kV[/math]
+ [math]=2200V[/math]
+ক্ষমতা, [math]P=2.2 \ kW[/math]
+ [math]2200 \ watt[/math]
+তাপক্ষয়ের হার, [math]P' = ?[/math]
+ [math]\\[/math]
+লাইনের মধ্য দিয়ে অতিক্রান্ত তড়িৎ প্রবাহ,[math]\begin{aligned} I=\frac{P}{V} & =\frac{2200 W}{2200 V} \\ & =1 A \end{aligned}[/math]
+ [math]\therefore[/math]
+ লাইনে তাপক্ষয়ের হার,[math]\begin{aligned} P^{\prime} & =1^{2} R \\ & =(1 \mathrm{~A})^{2} \times 10 \Omega \\ & =10 \text { watt (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: লাইন দিয়ে প্রবাহিত প্রবাহ হবে [math]I=\dfrac{P}{V}=\dfrac{2200}{2200}=1\ \text{A}[/math]। তাই জুলের সূত্র অনুযায়ী লাইনের তাপক্ষয় হবে [math]P_{\text{loss}}=I^2R=1^2\times10=10\ \text{W}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 422993)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2\Omega[/math] ও [math]6 \Omega[/math] মানের দুটি রোধকে শ্রেণি সমবায়ে রেখে একটি [math]12V[/math] তড়িচ্চালক বলের উৎসের সঙ্গে যোগ করলে প্রতিটি রোধে কত ক্ষমতা ব্যয় হয়?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](13.5W)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,শ্রেণি সংযোগে সংযুক্ত রোধদ্বয়, [math]R_1 = 2\Omega, R_2 =6 \Omega[/math]
+তড়িৎচালক বল, [math]E=12V[/math]
+প্রতিটি রোধের ক্ষমতা, [math]P_1 = ?, P_2 = ?[/math]
+ [math]\\[/math]
+প্রতিটি রোধের মধ্যদিয়ে তড়িৎপ্রবাহ,[math]\therefore[/math]
+ ১ম রোধের মধ্য দিয়ে ব্যয়িত ক্ষমতা,[math]\begin{aligned} I & =\frac{E}{R_{1}+R_{2}} \\ & =\frac{12 V}{2 \Omega+6 \Omega}=1.5 \mathrm{~A} \end{aligned}[/math]
+ [math]\begin{aligned} P_{1} & =1^{2} R_{1} \\ & =(1.5 \mathrm{~A})^{2}+2 \Omega \\ & =4.5 \mathrm{~W} \text { (Ans.) } \end{aligned}[/math]
+২য় রোধের মধ্য দিয়ে ব্যয়িত ক্ষমতা,[math]\begin{aligned} P_{2}=\mathrm{I}^{2} \mathrm{R}_{2} & =(1.5 \mathrm{~A})^{2} \times 6 \Omega \\ & =13.5 \mathrm{~W} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+সিরিজে ধারা একই হওয়ার কারণে মোট বাধা [math]R_{\rm tot}=2+6=8\ \Omega[/math] এবং ধরা [math]I=\dfrac{12}{8}=1.5\ \text{A}[/math]। শক্তি হিসাবের সূত্র [math]P=I^2R[/math] ব্যবহার করলে [math]P_{2}=(1.5)^2\times2=4.5\ \text{W}[/math] এবং [math]P_{6}=(1.5)^2\times6=13.5\ \text{W}[/math] হয়। যাচাই হিসেবে ভোল্টেজগুলো [math]V_2=I\times2=3\ \text{V}[/math], [math]V_6=9\ \text{V}[/math] পাওয়া যায় যা শক্তির চেক হিসাবে মিলে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 422995)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.2 \ kW[/math] ক্ষমতার একটি বৈদ্যুতিক কেতলীতে গ্রীষ্মকালে [math]1.5[/math] লিটার পানি ফুটতে [math]5.5[/math] মিনিট সময় লাগে। কিন্তু শীতকালে ঐ কেতলীতে সমপরিমাণ পানি ফুটতে [math]7[/math] মিনিট লাগে ।
+
+Options:
+গ. গ্রীষ্মকালে কক্ষ তাপমাত্রা কত ছিল এবং পানি ফুটাতে কত তড়িৎ শক্তি ব্যয় হয়?
+
+
+Correct Answer: 
+
+Solution:
+গউত্তর: 1A [math]\\[/math]
+
+Explanation:
+গ সমাধান: শক্তি যোগের সমীকরণ অনুযায়ী কেতলীর দেওয়া শক্তি [math]E_s=Pt=1.2\ \text{kW}\times5.5\ \text{min}=1.2\times330\ \text{s}=396000\ \text{J}=396\ \text{kJ}.[/math] পানির তাপশক্তি বাড়ার সূত্রে [math]1.5\times4.2(100-T_s)=396\Rightarrow100-T_s=62.857\Rightarrow T_s\approx37.14^\circ\text{C}[/math], অতএব গ্রীষ্মকালে কক্ষ তাপমাত্রা ≈ [math]37.1^\circ\text{C}[/math], এবং ব্যয়কৃত তড়িৎ শক্তি = [math]396\ \text{kJ}=0.11\ \text{kWh}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 422996)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.2 \ kW[/math] ক্ষমতার একটি বৈদ্যুতিক কেতলীতে গ্রীষ্মকালে [math]1.5[/math] লিটার পানি ফুটতে [math]5.5[/math] মিনিট সময় লাগে। কিন্তু শীতকালে ঐ কেতলীতে সমপরিমাণ পানি ফুটতে [math]7[/math] মিনিট লাগে ।
+
+Options:
+ঘ. উদ্দীপকের আলোকে কক্ষ তাপমাত্রার পার্থক্য নির্ণয় করে শীতকালে বেশি সময় লাগার যথার্থতা যা চাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমনে করি,শীতকালে কক্ষের তাপমাত্রা তথা পানির আদি তাপমাত্রা [math]\theta[/math]
+°c[math]\therefore[/math]
+ . শীতকালে পানি কর্তৃক শোষিত তাপ[math]\begin{array}{l}=\operatorname{ms} \mathrm{LQ} \\=1.5 \mathrm{~kg} \times 4200 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1} \times(100-0) \mathrm{K} \\=1200 \times 7 \mathrm{~min} \\\Rightarrow\text { } 1.5 \times 4200 \times(100-0)-1200 \times 7 \times 60 \\\Rightarrow\text { } 100-\theta=\frac{1200 \times 7 \times 60}{1.5\times 4200} \\\Rightarrow\text { } 100-\theta=80^{\circ} \mathrm{C} \\\therefore \theta-20^{\circ} \mathrm{C}\end{array}[/math]
+সুতরাং গ্রীষ্মকাল ও শীতকালের কক্ষ তাপমাত্রার পার্থক্য[math]\begin{array}{l}=\left(37.14^{\circ}-20^{\circ}\right) \mathrm{C} \\=17.14^{\circ} \mathrm{C}\end{array}[/math]
+অতএব, উদ্দীপকের শেষোক্ত উক্তিটি সঠিক।
+
+Explanation:
+ব্যাখ্যা: ঘ সঠিক — একই কেতলীর একই ক্ষমতায় বেশি সময় লাগলে শুরুতে পানির তাপমাত্রা কম ছিল। P t = m c (100 − T) ধরে, তাপমাত্রার পার্থক্য হবে [math]\Delta T=\dfrac{P(t_2-t_1)}{mc}=\dfrac{1200\times(420-330)}{1.5\times4186}\approx17.2^\circ C[/math]। ফলে শীতকালে কক্ষ তাপমাত্রা প্রায় [math]17^\circ C[/math] কম ছিল।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 422997)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]100W[/math] এর দুটি বৈদ্যুতিক বাতি ও [math]50W[/math]-এর দুটি বৈদ্যুতিক পাখা প্রতিদিন [math]10[/math] ঘণ্টা ব্যবহৃত হলে জুন মাসে বৈদ্যুতিক বিলের হিসাব বের কর। প্রতি ইউনিটের মূল্য [math]3.00[/math] টাকা।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]270.00[/math] টাকা
+
+Explanation:
+ব্যাখ্যা: মোট শক্তি হলো দুইটি [math]100\text{ W}[/math] বাল্ব ও দুইটি [math]50\text{ W}[/math] পাখার যোগফল, অর্থাৎ [math]2\times100+2\times50=300\text{ W}=0.3\text{ kW}[/math]. প্রতিদিন খরচ হওয়া শক্তি = শক্তি×সময় = [math]0.3\text{ kW}\times10\text{ h}=3\text{ kWh}[/math], জুনে (৩০ দিন) মোট = [math]3\times30=90\text{ kWh}[/math]. প্রতি ইউনিট [math]3.00\text{ টাকা}[/math] হলে বিল = [math]90\times3=270\text{ টাকা}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 422998)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো বাড়িতে [math]100W[/math] এর [math]10[/math]টি ও [math]60W[/math] এর ১টি বাতি এবং [math]3kW[/math] এর একটি হিটার আ ছে। বাতিগুলো প্রতিদিন [math]6[/math] ঘণ্টা জ্বলে এবং হিটারটি দৈনিক [math]2[/math] ঘন্টা চলে। জানুয়ারি মাসে ঐ বাড়িতে কত ইউনিট বিদ্যুৎ ব্যয় হবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](427.8 \ unit)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, [math]1[/math]
+টি বাতির ক্ষমতা, [math]P_{1}=100 \mathrm{~W}[/math]
+ [math]\therefore[/math]
+ [math]1[/math]
+টি বাতির ব্যায়িত শক্তি, [math]\begin{aligned} \mathrm{W}_{1} & =\frac{100 \times 6 \times 31}{1000} \mathrm{~kW}-\mathrm{h} \\ & =18.6 \mathrm{~kW}-\mathrm{h} \end{aligned}[/math]
+ [math]\therefore \ 10[/math]
+টি বাতির মোট শক্তি $\begin{array}{l} =(10 \times 18.6) \mathrm{kW}-\mathrm{h} \\ =186 \mathrm{~kW}-\mathrm{h}\end{array}$আবার, [math]1[/math]
+টি বাতির ক্ষমতা, [math]P_{2}=60 \mathrm{~W}[/math]
+ [math]\therefore \ 1[/math]
+টি বাতির ব্যয়িত শক্তি[math]\begin{aligned} \mathrm{W}_{2} & =\frac{60 \times 6 \times 31}{1000} \mathrm{~kW}-\mathrm{h} \\ & =11.16 \mathrm{~kW}-\mathrm{h} \end{aligned}[/math]
+ [math]\therefore \ 5[/math]
+টি বাতির শক্তি [math]\begin{array}{l} =(5 \times 11.16) \mathrm{kW}-\mathrm{h} \\ =55.8 \mathrm{~kW}-\mathrm{h}\end{array}[/math]
+হিটারের ক্ষমতা, [math]P_{3}=3 \mathrm{~kW}[/math]
+ [math]\therefore[/math]
+ হিটারের ব্যয়িত শক্তি [math]\mathrm{W}_{3}=3 \times 2 \times 31=186 \mathrm{~kW}-\mathrm{h}[/math]
+ [math]\therefore[/math]
+ মোট বিদ্যুৎ ব্যায়[math]\begin{array}{l} =(186+55.8+186) \mathrm{kW}-\mathrm{h} \\ =427.8 \mathrm{~kW}-\mathrm{h} \\ =427.8 \text { unit (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিদ্যুতের ব্যবহার হিসাব করতে প্রতিটি যন্ত্রের শক্তি (কিলোওয়াট)কে সময় (ঘণ্টা) দিয়ে গুণ করে kWh (ইউনিট) বের করে যোগ করা হয়। যেমন বাতিগুলোর মোট ক্ষমতা [math]10×100W+60W=1060W=1.06kW[/math], তাই প্রতিদিন বাতিতে খরচ [math]1.06×6=6.36\ \text{kWh}[/math], হিটারের প্রতিদিনের খরচ [math]3×2=6\ \text{kWh}[/math]। মোট দৈনিক খরচ [math]6.36+6=12.36\ \text{kWh}[/math], জানুয়ারি (31 দিন) মাসে মোট খরচ [math]12.36×31=383.16\ \text{kWh}[/math] (প্রায় [math]383.16[/math] ইউনিট)।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 422999)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]250 \ g[/math] পানিকে [math]10°C[/math] উষ্ণতা থেকে স্ফুটনাঙ্ক ওঠাতে একটি [math]1000W[/math] হিটারের মধ্য দিয়ে [math]220V[/math] বিভব পার্থক্যে কত সময়ের জন্য প্রবাহ প্রেরণ করতে হবে? তাপের যান্ত্রিক সমতা [math]J = 4.2J (cal)^{-1}[/math] এবং পানির আপেক্ষিক তাপ [math]1 \ cal \ g^{-1}{}^{\circ}C^{-1}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](94.5 \ s)[/math]
+
+Explanation:
+প্রয়োজনীয় তাপ: [math]Q=mc\Delta T=250\times1\times(100-10)=22500\ \text{cal}=22500\times4.2=94500\ \text{J}[/math].  
+হিটারের শক্তি [math]P=1000\ \text{W}[/math] হলে সময় হবে [math]t=Q/P=94500/1000=94.5\ \text{s}\approx1.575\ \text{min}\ (\approx1\ \text{min}\ 34.5\ \text{s})[/math].  
+এখানে মূল ধারণা হল শক্তি প্রয়োজন নির্ণয় করে সেটিকে শক্তির হার (পাওয়ার) দিয়ে ভাগ করা: [math]P=E/t[/math]; দেওয়া ভোল্টেজ সময় হিসাবের জন্য সরাসরি প্রয়োজন হয়নি।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 423000)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]100[/math] ওয়াট এর একটি নিমজ্জক হিটার [math]7[/math] মিনিটে [math]2[/math] লিটার পানির তাপমাত্রা [math]32°C[/math] থেকে [math]37°C[/math] পর্যন্ত বৃদ্ধি করে। তাপের যান্ত্রিক সমতার মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.2J \ cal^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: বৈদ্যুতিক শক্তি [math]E=100\ \text{W}\times7\ \text{min}=100\times(7\times60)=42000\ \text{J}[/math]. পানির তাপ বৃদ্ধি থেকে তাপের পরিমাণ (শরীরে [math]c=1\ \text{cal/g}^\circ\text{C}[/math] ধরে) [math]Q=2000\ \text{g}\times5^\circ\text{C}=10000\ \text{cal}[/math]. তাপের যান্ত্রিক সমতা হলো [math]42000/10000=4.2\ \text{J/cal}[/math], যা প্রায় মানক [math]4.186\ \text{J/cal}[/math] এর কাছাকাছি।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 422975)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]B[/math] বাল্বটি [math]A[/math] বাল্ব থেকে অধিক উজ্জ্বলতায় জ্বলছে।
+
+Options:
+গ. বাহুদ্বয়ের মধ্য দিয়ে তড়িৎ প্রবাহ, এদের দুই প্রান্তের বিভব পার্থক্য ও এদের রোধের তুলনা কর ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, A বাল্বের রোধ = [math]R_A[/math]
+B বাল্বের রোধ = [math]R_B[/math]
+A. বাল্বের তড়িৎ প্রবাহ = [math]I_A[/math]
+B বাল্বের তড়িৎ প্রবাহ = [math]I_B[/math]
+A বান্ধের দুই প্রান্তের বিভব পার্থক্য = [math]V_A[/math]
+B বান্ধের দুই প্রান্তের বিভব পার্থক্য = [math]V_B[/math]
+A বাল্বের ক্ষমতা = [math]P_A[/math]
+B বাল্বের ক্ষমতা = [math]P_B[/math]
+বাহুদ্বয় শ্রেণিতে সংযুক্ত থাকায় এদের মধ্য দিয়ে একই পরিমাণ বিদ্যুৎ প্রবাহিত হবে অর্থাৎ, [math]I_{A}=I_{B}=[/math]
+B বাল্বটি A বান্ধ অপেক্ষা বেশি উজ্জ্বল হওয়ায়, B বাল্বের ক্ষমতা A বাল্বের চেয়ে বেশি ।[math]\begin{array}{l}\therefore P_{A}A বাল্বের দুই প্রান্তের বিভব পার্থক্য, [math]\begin{array}{l}V_{A}=I_{A} R_{A} \\V_{A}=I R_{A}\end{array}[/math]
+B বাঘের দুই প্রান্তের বিভব পার্থক্য, [math]\begin{array}{l}v_{B}=I_{B} R_{B} \\V_{B}=IR_{B}\end{array}[/math]
+ [math]R_A [math]IR_A [math]V_A < V_B[/math]
+ হবে। (Ans.)
+
+Explanation:
+গ সিরিজে থাকার কারণে উভয়ের মধ্য দিয়ে একি তড়িৎ প্রবাহ যায়। উজ্জ্বলতা বেশি হওয়ায় বাল্ব B-তে শক্তি উৎপাদন বেশি, এবং সিরিজে [math]P=I^{2}R[/math] হওয়ায় [math]R_{B}>R_{A}[/math]; ফলে [math]V_{B}=IR_{B}>V_{A}=IR_{A}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 422974)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো ঘরের তড়িৎ বর্তনীর এক অংশ চিত্রে দেখানো হয়েছে। [math]60 W[/math] ও [math]230 V[/math]-এর দুটি বাতি [math]A[/math] ও [math]B[/math] ফেজের সাথে [math]X[/math] ফিউজের মাধ্যমে যুক্ত, [math]750 W[/math] ও [math]230 V[/math]-এর একটি বৈদ্যুতিক কেটলি ফেজের সাথে [math]Y[/math] ফিউজের মাধ্যমে যুক্ত এবং [math]Z[/math] ফিউজ সম্পূর্ণ বর্তনীকে সেফ করে। বৈদ্যুতিক কেটলির ধাতব আবরণী ভূ-সংযুক্ত। মূল সরবরাহ লাইনের বিভব [math]230V X, Y[/math] ও [math]Z[/math] ফিউজ যথাক্রমে [math]3 A, 5 A[/math] ও [math]15 A[/math] তড়িৎ পরিবহনে সক্ষম।
+
+
+[Image]
+
+
+Options:
+ঘ. কোনো সমস্যার কারণে কেটলির মধ্য দিয়ে [math]10 A[/math] তড়িৎ প্রবাহ চললে [math]X, Y[/math] ও [math]Z[/math] ফিউজগুলোর অবস্থা কী হবে বর্ণনা ও ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘগ) হতে প্রাপ্ত সরল বর্তনী নিম্নরূপ,এখানে,(গ) হতে প্রাপ্ত,A ও B বাতিদ্বয়ের তুল্য রোধ, Rp = 440.835 [math]\Omega[/math]
+কেটলির রোধ, [math]R_c[/math]
+ = 70.53Aকেটলির মধ্য দিয়ে তড়িৎ প্রবাহ, [math]I_c=10A[/math]
+X ফিউজের মধ্য দিয়ে তড়িৎ প্রবাহ, [math]I_X[/math]
+ = ?Y ফিউজের মধ্য দিয়ে তড়িৎ প্রবাহ, [math]I_Y[/math]
+ = ?Z- ফিউজের মধ্য দিয়ে তড়িৎ প্রবাহ, [math]I_Z[/math]
+ = ?
+[Image]
+[math]R_P[/math]
+ [math]R_C[/math]
+ এর দুই প্রান্তের বিভব পার্থক্য একই হওয়ায়,[math]\begin{array}{l}I_{x} R_{r}=I_{C} R_{C} \\\text { } I_{x}=\frac{I_{c} R_{c}}{R_{p}} \\\text { } \mathrm{I}_{\mathrm{x}}=\frac{10 \times 70.53}{440.835} \\\therefore I \mathrm{x}=1.6 \mathrm{~A} 5AZ ফিউজের মধ্য দিয়ে তড়িৎ প্রবাহ, [math]I_Z[/math]
+ = [math]I_X + I_Y[/math]
+ [math]\Rightarrow, I_Z = 1.6 + 10[/math]
+ [math]I_Z = 11.6A < 15A[/math]
+অতএব, Y ফিউজের মধ্য দিয়ে তড়িৎপ্রবাহ এর সক্ষমতার চেয়ে বেশি হওয়ায় v ফিউজটি পুড়ে যাবে এবং X ও Z ফিউাহয় অক্ষত থাকবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ কেটলির মাধ্যমে [math]10\ \text{A}[/math] প্রবাহ হলে Y ফিউজের রেটিং [math]5\ \text{A}[/math] হওয়ায় তা ঝলসে যাবে; X ফিউজ শুধু দুইটি বাতির মোট [math]\approx 0.52\ \text{A}[/math] (প্রতি বাতি [math]60/230\approx0.26\ \text{A}[/math]) বহন করে তাই X নিরাপদ থাকবে; Z ফিউজের রেটিং [math]15\ \text{A}[/math] > মোট প্রবাহ [math]\approx 10.52\ \text{A}[/math] হওয়ায় Z-ও নিরাপদ থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 422973)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো ঘরের তড়িৎ বর্তনীর এক অংশ চিত্রে দেখানো হয়েছে। [math]60 W[/math] ও [math]230 V[/math]-এর দুটি বাতি [math]A[/math] ও [math]B[/math] ফেজের সাথে [math]X[/math] ফিউজের মাধ্যমে যুক্ত, [math]750 W[/math] ও [math]230 V[/math]-এর একটি বৈদ্যুতিক কেটলি ফেজের সাথে [math]Y[/math] ফিউজের মাধ্যমে যুক্ত এবং [math]Z[/math] ফিউজ সম্পূর্ণ বর্তনীকে সেফ করে। বৈদ্যুতিক কেটলির ধাতব আবরণী ভূ-সংযুক্ত। মূল সরবরাহ লাইনের বিভব [math]230V X, Y[/math] ও [math]Z[/math] ফিউজ যথাক্রমে [math]3 A, 5 A[/math] ও [math]15 A[/math] তড়িৎ পরিবহনে সক্ষম।
+
+
+[Image]
+
+
+Options:
+গ. বাতি দুটি ও কেটলির সুইচ যখন অন থাকে তখন [math]X, Y,[/math] ও [math]Z[/math] ফিউজের মধ্য দিয়ে তড়িৎ প্রবাহ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,লাইনের বিভব, V = 230 vA ও B বাতির ক্ষমতা, [math]P_A[/math]
+ = [math]P_B[/math]
+ = 60WA ও B বাতির বিভব, [math]V_A[/math]
+ = [math]V_B[/math]
+ = 230Vকেটলির ক্ষমতা, [math]P_c[/math]
+ = 750 Wকেটলির বিভব, [math]V_c[/math]
+ = 230 VA বাতির রোধ, [math]R_A[/math]
+ = ?B বাতির রোধ, [math]R_B[/math]
+ = ?কেটলির রোধ, [math]R_C[/math]
+ = ?x ফিউজের প্রবাহ, [math]I_x[/math]
+ - ?Y ফিউজের প্রবাহ, [math]I_y[/math]
+ = ?Z. ফিউজের প্রবাহ, [math]1_Z[/math]
+ = ?À বাতির রোধ,[math]\begin{aligned}R_{A} & =\frac{v_{A}^{2}}{P_{A}} \\& =\frac{(230)^{2}}{60} \\& =881.67 \Omega\end{aligned} = 70.53 \Omega[/math]
+সুতরাং, [math]R_{B}=R_{A}=881.67 \Omega[/math]
+কেটলির রোধ,[math]\begin{array}{l}R_{C}=\frac{V_{C}^{2}}{P_{C}} \\=\frac{(230)^{2}}{750}\end{array}[/math]
+
+[Image]
+উদ্দীপকের বর্তনীটির সরল বর্তনীটি হবে নিম্নরূপ:[math]\begin{aligned}\frac{1}{R_{eq}} & =\frac{1}{R_{A}}+\frac{1}{R_{B}}+\frac{1}{R_{C}} \\& =\frac{1}{881.67}+\frac{1}{881.67}+\frac{1}{70.53} \\& =\frac{1}{60.8}\end{aligned}[/math]
+ [math]R_eq = 60.8 \Omega[/math]
+ [math]I_{z}=\frac{V}{R_{eq}}=\frac{230}{60.8}-3.783 \mathrm{~A} \text { (Ans.) }[/math]
+ [math]R_A[/math]
+ ও [math]R_B[/math]
+ এর তুল্যরোধ,[math]\begin{aligned}\frac{1}{R_{P}} & =\frac{1}{R_{A}}+\frac{1}{R_{3}} \\& =\frac{1}{881.67}+\frac{1}{881.67} \\& =\frac{1}{440.835}\end{aligned}[/math]
+ [math]R_P = 440.835 \Omega[/math]
+তড়িৎ বিভাজন সূত্র হতে,[math]\begin{aligned}I_{x} & =\frac{\frac{1}{R_{p}}}{\frac{1}{R_{p}}+\frac{1}{R_{\mathrm{e}}}} \times I_{z} \\& =\frac{\frac{1}{440.835}}{\frac{1}{460.835}+\frac{1}{70.53}} \times 3.783 \\& =0.522 \mathrm{~A} \text { (Ans.) }\end{aligned}[/math]
+Y ফিউজের মধ্য দিয়ে প্রবাহ,[math]\begin{aligned}\mathrm{I}_{\mathrm{Y}} & =\mathrm{I}_{Z}-\mathrm{I}_{\mathrm{x}} \\& =3.783-0.522 \\& =3.261 \text { A (Ans) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ সমাধান: তড়িৎ প্রবাহ পাওয়ার সূত্র থেকে [math]I = P/V[/math]। একটি বাতির প্রবাহ [math]I_{ব} = 60/230 \approx 0.261\ \text{A}[/math], সুতরাং দুইটির জন্য [math]I_X = 2\times60/230 = 120/230 \approx 0.522\ \text{A}[/math]। কেটলির জন্য [math]I_Y = 750/230 \approx 3.26\ \text{A}[/math] এবং সম্পূর্ণ সার্কিটের মোট প্রবাহ [math]I_Z = (120+750)/230 = 870/230 \approx 3.78\ \text{A}[/math]; সব ফিউজের সক্ষমতার মধ্যে আছে।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 422972)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীতে [math]3 \ W[/math]- [math]9 \ V[/math] এর একটি বাল্ব যুক্ত আছে। ব্যাটারির তড়িচ্চালক শক্তি ও অভ্যন্তরীণ রোধ যথাক্রমে [math]9 \ V[/math] ও [math]1 \Omega[/math]।
+
+
+[Image]
+
+
+Options:
+ঘ. R এর দুটি ভিন্ন মানের জন্য তাপ বিকিরণের হার বনাম সময় লেখচিত্র অংকন কর এবং তোমার অংকিত গ্রাফ বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘবর্তনীর সুইচ অন করার সাথে সাথে তড়িৎ প্রবাহ শুরু হয় এবং সে সাথে ফিলামেন্টের তাপমাত্রাও বাড়তে থাকে। তাপমাত্রা বৃদ্ধির সাথে সাথে ফিলামেন্টের তাপ বিকিরণের হারও বাড়তে থাকে। এক সময় তাপ উৎপন্নের হার এবং তাপ বিকিরণের হার সমান হয়, ফলে তাপমাত্রা আর বৃদ্ধি পায় না সে সাথে বিকিরণের হারও আর বাড়ে না। লেখচিত্র থেকে দেখা যায়, সময়ের সাথে তাপ বিকিরণের হার প্রথমে বাড়তে থাকে এবং এক সময় আর বৃদ্ধি পায় না। রোধ R এর মান কম হলে বর্তনীতে প্রবাহ বেশি হবে ফলে ফিলামেন্টে তাপ উৎপন্নের হার বেশি হবে, তাই তাপ বিকিরণের হারও বেশি হবে। রোধ R এর মান বেশি হলে বর্তনীতে প্রবাহ কম হবে ফলে ফিলামেন্টে তাপ উৎপন্নের হার কম হবে তাই তাপ বিকিরণের হারও কম হবে ।
+[Image]
+
+
+Explanation:
+ব্যাখ্যা: বাল্বের প্রতিরোধ টাটকা অবস্থায় ছোট ও গরম অবস্থায় বড় হওয়ায় তড়িৎশক্তি যুক্ত হওয়ার পরে তাপের হার একটি আদি মান থেকে গরম অবস্থার স্থায়ী মানে পৌঁছায়; স্থায়ী শক্তি হবে [math]P_{\text{final}}=\dfrac{E^2R_{\text{hot}}}{(R+r+R_{\text{hot}})^2}[/math] এবং আদি-মান হবে [math]P_{\text{initial}}=\dfrac{E^2R_{\text{cold}}}{(R+r+R_{\text{cold}})^2}[/math]. তাই R ছোট হলে গ্রাফটি উভয়েই উচ্চ মানে উঠে এবং দ্রুত স্থায়ী মানে পৌঁছায়, আর R বড় হলে গ্রাফটি সাধারণত নিম্নমানের ও ধীরগতিতে বাড়ে; দুটো ক্ষেত্রে কৌশলে আদি থেকে স্থায়ী মানে মনোনীত উত্তরণ দেখা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 422971)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীতে [math]3 \ W[/math]- [math]9 \ V[/math] এর একটি বাল্ব যুক্ত আছে। ব্যাটারির তড়িচ্চালক শক্তি ও অভ্যন্তরীণ রোধ যথাক্রমে [math]9 \ V[/math] ও [math]1 \Omega[/math]।
+
+
+[Image]
+
+
+Options:
+গ. [math]R[/math] এর মান [math]27 \ \Omega[/math] হলে প্রতি সেকেন্ডে কী হারে তাপ উৎপন্ন হবে, নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, A বাল্বের রোধ = [math]R_A[/math]
+B বাল্বের রোধ = [math]R_B[/math]
+A. বাল্বের তড়িৎ প্রবাহ = [math]I_A[/math]
+B বাল্বের তড়িৎ প্রবাহ = [math]I_B[/math]
+A বান্ধের দুই প্রান্তের বিভব পার্থক্য = [math]V_A[/math]
+B বান্ধের দুই প্রান্তের বিভব পার্থক্য = [math]V_B[/math]
+A বাল্বের ক্ষমতা = [math]P_A[/math]
+B বাল্বের ক্ষমতা = [math]P_B[/math]
+বাহুদ্বয় শ্রেণিতে সংযুক্ত থাকায় এদের মধ্য দিয়ে একই পরিমাণ বিদ্যুৎ প্রবাহিত হবে অর্থাৎ, [math]I_{A}=I_{B}=[/math]
+B বাল্বটি A বান্ধ অপেক্ষা বেশি উজ্জ্বল হওয়ায়, B বাল্বের ক্ষমতা A বাল্বের চেয়ে বেশি ।[math]\begin{array}{l}\therefore P_{A}A বাল্বের দুই প্রান্তের বিভব পার্থক্য, [math]\begin{array}{l}V_{A}=I_{A} R_{A} \\V_{A}=I R_{A}\end{array}[/math]
+B বাঘের দুই প্রান্তের বিভব পার্থক্য, [math]\begin{array}{l}v_{B}=I_{B} R_{B} \\V_{B}=IR_{B}\end{array}[/math]
+ [math]R_A [math]IR_A [math]V_A < V_B[/math]
+ হবে। (Ans.)
+
+Explanation:
+ব্যাখ্যা: গ এখানে বাল্বের প্রতিরোধ [math]R=27\ \Omega[/math], ফলে সার্কিটে প্রবাহ [math]I=\dfrac{E}{R+r}=\dfrac{9}{27+1}=\dfrac{9}{28}[/math]। বাল্বে তাপ উৎপাদন দরুনের হার [math]P=I^2R=\left(\dfrac{9}{28}\right)^2\times27=\dfrac{2187}{784}\approx2.79\ \text{W}[/math], অর্থাৎ প্রতি সেকেন্ডে প্রায় [math]2.79\ \text{J}[/math] তাপ উৎপন্ন হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 422961)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বাড়িতে [math]100W,\ 220V[/math] এর ৪টি বাতি, [math]60W,\ 220V[/math] এর দুইটি পাখা এবং [math]250W,\ 220V[/math] এর একটি রেফ্রিজারেটর আছে। এই বৈদ্যুতিক যন্ত্রগুলির দৈনিক গড় ব্যবহার নিচের ছকে দেয়া হলো, প্রতি ইউনিট বিদ্যুৎ শক্তির মূল্য [math]2.50[/math] টাকা হলে, [math]5 \%[/math] ভ্যাটসহ মাসিক বিল নির্ণয় কর।
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]499.275\mathrm{Tk}[/math]
+)[math]\\[/math]
+Solution : দৈনিক ব্যবহৃত মোট ইউনিটের সংখ্যা [math]=\dfrac{100 \times 4}{1000} \times 6+\dfrac{60 \times 2}{1000} \times 12+\dfrac{250 \times 1}{1000} \times 10 \\ =2.4+1.44+2.5=6.34\ \mathrm{kWh}[/math]
+ [math]\therefore[/math]
+ মাসিক ব্যবহৃত ইউনিটের সংখ্যা [math]=6.34 \times 30=190.2\ \mathrm{kWh}[/math]
+ [math]\therefore[/math]
+ মাসিক বিল [math]=(190.2 \times 2.5)+\dfrac{190.2 \times 2.5 \times 5}{100} \mathrm{Tk}=499.275 \mathrm{Tk} \text { (Ans.) }[/math]
+
+
+Explanation:
+প্রথমে প্রতিটি যন্ত্রের দৈনিক শক্তি নির্ণয় করতে হবে: প্রতিটির ভিডিওশক্তি×সংখ্যা×দৈনিক চালনার সময় এবং সেগুলো যোগ করে মোট দৈনিক শক্তি পাওয়া যাবে, অর্থাৎ [math]E_{day}=\sum (P_i\times n_i\times t_i)[/math] (Wh), পরে kWh-এ পেতে ভাগ করুন: [math]E_{day(kWh)}=E_{day}/1000[/math]. মাসিক শক্তি হবে [math]E_{month}=30\times E_{day(kWh)}[/math], মাসিক খরচ আগাম ভ্যাট ছাড়া [math]C=E_{month}\times 2.50[/math] টাকা এবং ভ্যাট যোগ করলে চূড়ান্ত বিল [math]C_{vat}=C\times 1.05[/math] হবে. এই পদ্ধতিতে প্রতিটি ধাপে শক্তির একক রূপান্তর ও ইউনিট মূল্য প্রয়োগ করে সঠিক মাসিক বিল পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 422962)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2006-2007 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কলেজ অব টেক্সাটাইল টেকনোলজির কম্পিউটার ল্যাবে [math]28[/math] টি মিনি কম্পিউটার এবং [math]12[/math] টি মাইক্রো কম্পিউটার আছে। মিনি কম্পিউটার গুলির প্রতিটি [math]700\ W[/math] এর এবং মাইক্রো কম্পিউটার গুলি [math]40\ W[/math] এর। যদি কম্পিউটার গুলি প্রতিদিন সকাল [math]8[/math] টা থেকে বিকাল [math]5[/math] টা পর্যন্ত চালু থাকে তবে বছর শেষে বৈদ্যুতিক বিল কত আসবে? (এই বছর ছুটির সংখ্যা [math]85[/math] দিন; প্রতি ইউনিট এর বিল [math]2.50[/math] টাকা)
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1,26,504[/math]
+ টাকা)[math]\\[/math]
+Solution : মোট কার্যদিন [math]=365-85=280;\[/math]
+ কার্য ঘন্টা [math]/[/math]
+দিন [math]=[/math]
+ সকাল [math]8[/math]
+ টা থেকে বিকাল [math]5[/math]
+ টা [math]= 9[/math]
+ ঘন্টাপ্রতিটি মিনি কম্পিউটারে প্রতিদিন শক্তি খরচ [math]=\mathrm{pt}=700 \mathrm{w} \times 9 \mathrm{~h}=0.7 \times 9 \mathrm{kw} \mathrm{h}=6.3 \mathrm{kwh}[/math]
+প্রতিটি মাইক্রো কম্পিউটারে প্রতিদিন শক্তি খরচ [math]=\mathrm{pt}=40 \mathrm{w} \times 9 \mathrm{~h}=0.04 \times 9 \mathrm{kwh}=0.36 \mathrm{kwh}[/math]
+প্রতিদিনের মোট শক্তি খরচ [math]=6.3 \times 28+0.36 \times 12=180.72 \mathrm{kwh}[/math]
+বছরে মোট শক্তি খরচ [math]=180.72 \times 280=50601.6 \mathrm{kwh}[/math]
+প্রতিটি ইউনিট এর মূল্য [math]= 2.50[/math]
+ টাকা [math]\therefore[/math]
+ বছর শেষে বৈদ্যুতিক বিল [math]=50601.6 \times 2.50=1,26,504[/math]
+ টাকা
+
+Explanation:
+ব্যাখ্যা: মোট বিদ্যুতের শক্তি হলো মিনি ও মাইক্রো কম্পিউটারের শক্তির যোগ, তাই [math]28×700+12×40=19600+480=20080\ \text{W}=20.08\ \text{kW}[/math]. প্রতিদিন [math]9[/math] ঘন্টার জন্য ও বছরভর [math]365-85=280[/math] দিন চালালে মোট ব্যয়যোগ্য ইউনিট হবে [math]20.08×9×280=50601.6\ \text{kWh}[/math], এবং বিল হবে [math]50601.6×2.5=126504\ \text{টাকা}[/math]. এই উত্তরের তত্ত্ব হলো শক্তি = শক্তি-দর (কিলোওয়াট) × সময় (ঘণ্টা) এবং ব্যয় = ব্যবহৃত ইউনিট × প্রতি ইউনিট মূল্য।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 422963)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006, 2004-2005 | Boards:  | Tags: Bangladesh University of Textiles, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক ইস্ত্ৰিতে [math]220\ \mathrm{volt}[/math] এবং [math]1200\ \mathrm{watt}[/math] লেখা আছে। এর বোধ কত? যদি প্রতি ইস্ত্রি বিদ্যুৎ শক্তির মূল্য [math]1.00[/math] টাকা হয় তাহলে ইস্ত্রিটি [math]2[/math] ঘন্টা চালালে খরচ পড়বে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2.4\ \mathrm{taka}[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{P}=\dfrac{V^2}{\mathrm{R}}\Rightarrow \mathrm{\ R}=\dfrac{(220)^2}{1200}=40.33\Omega \text{ (Ans.) }[/math]
+ব্যায়িত শক্তি, [math]\mathrm{W}=\mathrm{pt}=1200 \times 2=2400=2.4 \mathrm{kWh}\quad \therefore[/math]
+ খরচ [math]=2.4 \times 1=2.4 \text { taka (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক বিদ্যুৎ শক্তি [math]P=VI[/math] সূত্র থেকে প্রবাহ [math]I=P/V=1200/220=5.45\ \mathrm{A}[/math]।
+খ শক্তি খরচ [math]E=1.2\ \mathrm{kW}\times2\ \mathrm{h}=2.4\ \mathrm{kWh}[/math], তাই ব্যয় [math]2.4\times1.00=2.4\ \text{টাকা}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 422964)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2004-2005 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বাড়ীতে [math]50\ watts[/math] এর একটি রেডিও, প্রতিটি [math]100\ watts[/math] এর দুইটি পাখা এবং প্রতি টি [math]1000\ ohm[/math] এর ছয়টি বাতি সংযুক্ত আছে। ঐগুলি গড়ে প্রতিদিন [math]6[/math] ঘন্টা চলে। বাড়ীটিতে [math]250\ volts[/math] এর সরবরাহ ব্যবস্থা আছে। [math]3.00Tk / kWh[/math] হারে [math]30[/math] দিনের এক মাসের জন্য বিদ্যুৎ বিল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]337.5[/math]
+ টাকা )[math]\\[/math]
+Solution : [math]\mathrm{W}=\mathrm{Pt}=(50\times 1+100\times 2+62.5\times 6)\times 6\times 30=112500\mathrm{watt}-\mathrm{hr}=112.5\mathrm{\ kw}\mathrm{\ hr}[/math]
+বাতির জন্য, [math]P=\dfrac{V^{2}}{R}=62.5[/math]
+ [math]\therefore[/math]
+ মোট বিদ্যুৎ বিল [math]= 112.5 × 3 = 337.5[/math]
+ টাকা। [math]\text{(Ans. )}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিটি বাতির শক্তি [math]P=\dfrac{V^2}{R}[/math] হওয়ায় এক বাতি হবে [math]P=\dfrac{250^2}{1000}=62.5\ W[/math] এবং ছয়টি হলে [math]6\times62.5=375\ W[/math]. মোট শক্তি = রেডিও [math]50\ W[/math] + দুই পাখা [math]2\times100=200\ W[/math] + বাতি [math]375\ W=[/math] মোট [math]625\ W=0.625\ kW[/math]. দৈনিক [math]6\ h[/math] ও ৩০ দিন পর মোট শক্তি ব্যবহার [math]0.625\times6\times30=112.5\ kWh[/math] এবং বিল = [math]112.5\times3.00=337.5\ Tk[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 422965)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]2000[/math] ওয়াটের একটি বৈদ্যুতিক হিটার [math]200V[/math] সরবরাহ লাইনের সহিত সংযোগ দিয়ে [math]6[/math] ঘন্টা রাখার পর হিটারটির অর্ধেক কেটে ফেলা হয়। হিটারটির অর্ধেক অংশ একই সরবরাহ লাইনে [math]8[/math] ঘন্টা সংযোগ দিয়ে রাখা হল। এক ইউনিট বিদ্যুৎ শক্তির দাম [math]2.75[/math] টাকা হলে হিটারটির জন্য মোট কত টাকার বিল পরিশোধ করতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]121[/math]
+ টাকা )[math]\\[/math]
+Solution : [math]W_1=\dfrac{2000\times 6}{1000}k\mathrm{Wh}=12\mathrm{kWh},\quad W_2=\dfrac{4000\times 8}{1000}\mathrm{kWh}=32\mathrm{kWh}[/math]
+ [math]W=12+32=44 \text { unit}[/math]
+ বিল, [math]B=44 \times 2.75=121[/math]
+ টাকা [math]\mathrm{(Ans.)}[/math]
+
+
+Explanation:
+ব্যাখ্যা: শক্তি = শক্তি খরচের হার × সময় অনুযায়ী হিসাব করলে প্রথম ৬ ঘন্টায় হিটার [math]2000\text{ W}=2\text{ kW}[/math] হওয়ায় খরচ হয় [math]2\times6=12\text{ kWh}[/math]। হিটারটির অর্ধেক হলে শক্তি [math]1000\text{ W}=1\text{ kW}[/math] এবং পরের ৮ ঘন্টায় খরচ হয় [math]1\times8=8\text{ kWh}[/math], মোট হয় [math]12+8=20\text{ kWh}[/math]। প্রতি ইউনিট [math]2.75\text{ টাকা}[/math] হলে মোট বিল [math]20\times2.75=55\text{ টকা}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 422966)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কোন বাড়ির মিটারে [math]6\ amp – 220\ Volt[/math] চিহ্নিত করা আছে। কতগুলো [math]60\ watt[/math] এর বা তি ঐ বাড়িতে নিরাপত্তার সাথে ব্যবহার করা যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]22[/math]
+ টি )[math]\\[/math]
+Solution : [math]P=V I=6 \times 220=1320 \text { watt }[/math]
+ [math]\therefore[/math]
+ বাতির সংখ্যা, [math]\mathrm{n}=\dfrac{\mathrm{P}}{60}=\dfrac{1320}{60}=22[/math]
+ টি [math]\text{(Ans. )}[/math]
+
+
+Explanation:
+মোট গ্রহণযোগ্য পাওয়ার হল ভোল্টেজ গুণ কারেন্ট: [math]P_{\text{max}}=220\times6=1320\ \text{W}[/math], তাই [math]60\ \text{W}[/math] বাতি কতটি লাগানো যাবে: [math]1320\div60=22[/math]. অতএব নিরাপদভাবে সর্বোচ্চ 22টি [math]60\ \text{W}[/math] বাতি ব্যবহার করা যায়, কারণ মোট লোড মিটারের ক্ষমতা অতিক্রম করতে পারবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 422967)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি তামার তারের মধ্যদিয়ে [math]0.001\ sec[/math] ধরে [math]0.001mA[/math] তড়িৎ চালনা করলে কতটি ইলেক ট্রন প্রবাহিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]6.25\times 10^9[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{q}=\mathrm{It},\mathrm{\ n}=\dfrac{\mathrm{q}}{1.6\times10^{-19}}=\dfrac{.001\times.001\times10^{-3}}{1.6\times10^{-19}}=6.25\times10^9\text{ (Ans.) }[/math]
+
+
+Explanation:
+কারেন্ট [math]0.001\ \text{mA}=10^{-6}\ \text{A}[/math] এবং সময় [math]0.001\ \text{s}=10^{-3}\ \text{s}[/math] হলে মোট চার্জ [math]Q=It=10^{-6}\times10^{-3}=10^{-9}\ \text{C}[/math]. একটি ইলেকট্রনের চার্জ [math]e=1.6\times10^{-19}\ \text{C}[/math] হওয়ায় ইলেকট্রন সংখ্যা [math]N=Q/e=10^{-9}/(1.6\times10^{-19})\approx6.25\times10^{9}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 422968)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি ছাত্রাবাসে [math]20[/math]টি কক্ষের প্রত্যেকটিতে [math]3[/math] টি করে [math]25\ watt[/math] প্যাম্প আছে। উহারা দৈনি ক [math]6[/math] টা হতে [math]11[/math] টা পর্যন্ত জ্বলে। ইহা ছাড়া [math]1000[/math] ওয়াটের একটি টেলিভিশন দৈনিক [math]2[/math] ঘন্টা চলে। এক কিলোওয়াট ঘন্টার জন্য যদি [math]30[/math] পয়সা খরচ হয়, তবে [math]30[/math] দিনে মোট কত খরচ হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]85.5\mathrm{Tk}.[/math]
+)[math]\\[/math]
+Solution : [math]W_{1}=\dfrac{25 \times 3 \times 5 \times 30 \times 20}{1000}=225\ \mathrm{kWh}\ ;\ \ \mathrm{W}_{1}=\dfrac{1000 \times 2 \times 30}{1000}=60 \mathrm{kWh}\\ \mathrm{W}=\mathrm{W}_1+\mathrm{W}_2=285\mathrm{~kW}\mathrm{h}\quad \therefore B=285\times 0.3=85.5\mathrm{Tk}.(Ans.)[/math]
+
+
+Explanation:
+প্রক্রিয়া সহজ: শক্তি = শক্তি-দর × সময়। মোট পাম্প শক্তি হল [math]20×3×25=1500[/math] ওয়াট = [math]1.5[/math] কিলোওয়াট, তাই পাম্প দৈনন্দিন ব্যবহার শক্তি [math]1.5×5=7.5[/math] কিলোওয়াট-ঘণ্টা এবং টিভি দেয় [math]1×2=2[/math] কিলোওয়াট-ঘণ্টা, মোট দৈনিক = [math]7.5+2=9.5[/math] কিলোওয়াট-ঘণ্টা। মাসে শক্তি হবে [math]9.5×30=285[/math] কিলোওয়াট-ঘণ্টা এবং খরচ [math]285×30=8550[/math] পয়সা = [math]85.50[/math] টাকা।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 422969)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি বাঘের গারো যথাক্রমে [math]220 \ V[/math]- [math]100 W[/math] ও [math]220V[/math]- [math]60 \ W[/math] লেখা।
+
+Options:
+গ. বাতি দুটি প্রতিদিন ১ ঘণ্টা করে জ্বালানো হলে 2016 সালের ফেব্রুয়ারি মাসে ব্যয়িত শক্তি হিসাব কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,১ম বাল্বের ক্ষমতা, [math]P_1[/math]
+ = 100 W২য় বাল্বের ক্ষমতা, [math]P_2[/math]
+ = 60Wপ্রতিদিন বাল্ব চলে, [math]t_1 = t_2[/math]
+= 5 Hoursপ্রতিদিন ব্যয়িত শক্তি,[math]\begin{aligned}\mathrm{E} & =\mathrm{P}_{1} \mathrm{t}_{1}+\mathrm{P}_{2} \mathrm{t}_{2} \\& =100 \times 5+60 \times 5 \\& =800 \mathrm{Wh} \\& =0.8 \mathrm{kWh} \\& \approx 0.8 \text { unit }\end{aligned}[/math]
+2016 সালের ফেব্রুয়ারি মাসে ব্যয়িত শক্তি, E - 0.8 x 29 23.2 unit (Ans. )[ 2016 সালে Leap year হওয়ায় ফেব্রুয়ারি মাস 29 দিনে] [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কারণ শক্তি = শক্তি দ্রব্য (power) × সময়; প্রতিদিন দুটো বাতির মোট শক্তি [math](100+60)=160\ \text{W}[/math] এবং দিনে ১ ঘণ্টা হলে দৈনিক খরচ [math]160\ \text{W}\times1\ \text{h}=160\ \text{Wh}=0.16\ \text{kWh}[/math]. ফেব্রুয়ারি ২০১৬ লিপ ইয়ার হওয়ায় ২৯ দিন, তাই মোট শক্তি [math]0.16\times29=4.64\ \text{kWh}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 422970)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি বাতির গায়ে যথাক্রমে [math]220 \ V[/math]- [math]100 W[/math] ও [math]220V[/math]- [math]60 \ W[/math] লেখা।
+
+Options:
+ঘ. বাতি দুটি শ্রেণিতে যুক্ত করলে কোনটি বেশি উজ্জ্বলতায় জ্বলবে- গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,১ম বাঘের ক্ষমতা, [math]P_1[/math]
+ = 100 W২য় বাঘের ক্ষমতা, [math]P_2[/math]
+, = 60 Wবাল্বদ্বয়ের প্রান্তীয় বিভব পার্থক্য, V = 220V১ম বাল্বের ক্ষেত্রে,রোধ,[math]\begin{aligned}R_{1} & =\frac{V^{2}}{P_{1}} \\& =\frac{(220)^{2}}{100} \\& =484 \Omega .\end{aligned}[/math]
+২য় বাঘের ক্ষেত্রে,[math]\begin{aligned}R_{1} & =\frac{V^{2}}{P_{1}} \\& =\frac{(220)^{2}}{60} \\& =484 \Omega .\end{aligned}[/math]
+শ্রেণি সমবায়ে বাল্বদ্বয়ের তুল্য রোধ,[math]\begin{aligned}R_{s}-R_{1}+R_{2} & =(464+806.57) \Omega \\& =1290.57 \Omega\end{aligned}[/math]
+শ্রেণি সমবায়ে বাল্বদ্বয়ের মধ্যকার তড়িৎ প্রবাহ,[math]\mathrm{I}=\frac{\mathrm{V}}{\mathrm{R_s}}=\frac{220}{1290.67}=0.1795 \mathrm{~A}[/math]
+শ্রেণি সমবায়ে ১ম বাঘের ক্ষমতা, [math]P_1^\prime = I^2R_1[/math]
+= [math](0.1705)^2 \times 484[/math]
+= 14.06 Wশ্রেণি সমবায়ে ২য় বাল্বের ক্ষমতা, [math]P_2^\prime = I^2R_2 = (0.1705)^2 \times 806.67 = 23.45W[/math]
+সুতরাং, [math]P_2^\prime > P_1^\prime[/math]
+ অর্থাৎ, ২য় বাল্বটি বা কম ক্ষমতার বাল্বটি বেশি উজ্জ্বলতায় জ্বলবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ সিরিজে একই করে প্রবাহ থাকে; রোধ গুলো হচ্ছে [math]R_1=\dfrac{220^2}{100}=484\ \Omega[/math] ও [math]R_2=\dfrac{220^2}{60}\approx806.67\ \Omega[/math]. সার্কিটের ধারা [math]I=\dfrac{220}{R_1+R_2}\approx0.1706\ \text{A}[/math], ফলে শক্তি [math]P_1=I^2R_1\approx14.1\ \text{W}[/math] ও [math]P_2=I^2R_2\approx23.5\ \text{W}[/math]. তাই উচ্চ রোধবিশিষ্ট 60 W বাতি বেশি শক্তি শোষণ করে এবং বেশি উজ্জ্বল জ্বলবে।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 422957)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]7\Omega[/math] রোধে এক মাসে কত ইউনিট বিদ্যুৎ শক্তি ব্যয় হবে?
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]666.54[/math]
+ ইউনিট)[math]\\[/math]
+Solution : তূল্য রোধ [math]=5 \Omega \quad \therefore \mathrm{I}=\dfrac{230}{5}=46 \mathrm{Amp}[/math]
+
+[Image]
+চিত্র হতে, [math]I_{2}=\dfrac{10}{20} \times 46=23 \mathrm{Amp}[/math]
+ এবং, [math]I_{4}=\dfrac{10}{20} \times 23=11.5 \mathrm{Amp}[/math]
+ [math]\therefore \ 7\Omega-[/math]
+এ [math]\text { current }=11.5 \text { Amp } \therefore P=1_{4}^{2} R t=(11.5)^{2} \times 7 \times 30 \times 24 \times 10^{-3}=666.54[/math]
+ ইউনিট।
+
+Explanation:
+ব্যাখ্যা: রোধে শক্তি খরচ বের করতে প্রথমে পাওয়ার ব্যবহার করি [math]P=\dfrac{V^2}{R}[/math] (মেইন ভোল্টেজ ধরে নিলে [math]V=220\ \text{V}[/math]), তাই [math]P=\dfrac{220^2}{7}\approx6914.3\ \text{W}\approx6.914\ \text{kW}[/math]. এক মাস (৩০ দিন = ৭২০ ঘন্টা) খরচ হবে [math]E=P\times t=(6.914\ \text{kW})\times720\ \text{h}\approx4978\ \text{kWh}[/math], অর্থাৎ প্রায় ৪৯৭৮ ইউনিট।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 422958)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+(ক) কোন বৈদ্যুতিক বাল্বে তড়িৎ প্রবাহ [math]1\%[/math] কমলে, ক্ষমতা কত [math]\%[/math] কমবে?
+
+(খ) একটি রোধের গায়ে যথাক্রমে হলুদ, বেগুনী, কমলা ও লাল রং দেয়া আছে। রোধের সবোর্চ্চ মান কত?
+
+(গ) একটি তারের মধ্যদিয়ে [math]45[/math] সেকেন্ড যাবৎ [math]7.5A[/math] মাত্রার বিদ্যুৎ প্রবাহ চালনা করা হল। কতগুলো ইলেকট্রন তারের মধ্য দিয়ে প্রবাহিত হল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : (ক) [math]1-(1-1\%)^2=1.99\%[/math]
+(খ) [math]R_{\max }=47\times 10^3+47\times 10^3[/math]
+ এর [math]2\%=47000+\dfrac{2}{100}\times 47000=47940\Omega[/math]
+(গ) [math]\mathrm{Q}=\mathrm{It}=45\times 7.5\mathrm{C}=337.5\mathrm{C}\text{; }\ 96500\mathrm{C}[/math]
+ পাওয়া যায় [math]1 \mathrm{~mol}[/math]
+ থেকে[math]\therefore e^-[/math]
+ সংখ্যা [math]=\dfrac{337.5\times 6.023\times 10^{23}}{96500}=2.11\times 10^{21}[/math]
+ টি।
+
+Explanation:
+ক তড়িৎ প্রবাহে [math]1\%[/math] কমার ফলে ক্ষমতা [math]P\propto I^2[/math], তাই [math]P_{\text{new}}/P_{\text{old}}=(0.99)^2=0.9801[/math], ক্ষয় = [math]1-0.9801=0.0199=1.99\%\approx2\%[/math]।
+
+খ রঙগুলো দিয়ে প্রথম দুটি সংখ্যা হল হলুদ=4, বেগুনী=7 → সংখ্যা [math]47[/math], তৃতীয় হল কমলা → গুণক [math]10^3[/math], তাই রোধ [math]47\times10^3\ \Omega[/math]; লাল থেকে সহনশীলতা ±[math]2\%[/math], সর্বোচ্চ মান [math]47\times10^3\times1.02=4.794\times10^4\ \Omega\ (47.94\ \text{k}\Omega)[/math]।
+
+গ মোট চার্জ [math]Q=It=7.5\times45=337.5\ \text{C}[/math]; ইলেকট্রনের সংখ্যা [math]n=Q/e=337.5/(1.6\times10^{-19})\approx2.11\times10^{21}[/math] ইলেকট্রন।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 422959)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বাসায় [math]100\ watt[/math] এর [math]15[/math] টি বাতি, [math]0.6amp[/math] এর [math]5[/math] টি পাখা এবং [math]0.75HP[/math] অ শ্বক্ষমতার [math]1[/math] টি মোটর পাম্প দৈনিক গড়ে [math]7[/math] ঘণ্টা চলে। প্রতি ইউনিটের দাম [math]2.85[/math] টাকা হলে, গত অক্টোবর মাসে কত টাকার বিল পরিশোধ করতে হবে? দেওয়া আছে, সরবরাহ লাইন [math]230V.[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1700.428[/math]
+ টাকা)[math]\\[/math]
+Solution : বাতির জন্য [math]\mathrm{w}_{1}=\mathrm{Pt}=\frac{100 \times 15}{1000} \times 7 \times 31 \mathrm{kWh}=325.5 \mathrm{kWh}[/math]
+পাখার জন্য [math]\mathrm{w}_2=\mathrm{V}\mathrm{It}=\frac{5\times 0.6\times 7\times 31\times 230}{1000}=149.73\mathrm{kWh[/math]
+মোটরের জন্য [math]\mathrm{w}_3=\mathrm{Pt}=\frac{0.75\times 746}{1000}\times 7\times 31\mathrm{\ kWh}=121.4115\mathrm{\ kWh}[/math]
+ [math]\therefore[/math]
+ মোট ব্যাবহার [math](325.5+149.73+121.4115)\mathrm{kWh}=596.64\mathrm{kWh}[/math]
+ [math]\therefore[/math]
+ মোট খরচ [math]=(596.64\times 2.85)=1700.428[/math]
+ টাকা [math]\left(\text{Ans. }\right)[/math]
+
+
+Explanation:
+প্রথমে মোট ক্ষমতা নির্ণয় করি: বাতিতে [math]15\times100=1500\ W=1.5\ kW[/math], প্রতিটি পাখার শক্তি [math]P=VI=230\times0.6=138\ W[/math] তাই ৫ পাখা = [math]5\times138=690\ W=0.69\ kW[/math], মোটর [math]0.75\times746=559.5\ W=0.5595\ kW[/math], মোট শক্তি [math]1.5+0.69+0.5595=2.7495\ kW[/math]।  
+মাসিক শক্তি ব্যবহার = [math]2.7495\ \text{kW}\times7\ \text{h/day}\times31\ \text{days}=596.6415\ \text{kWh}[/math]।  
+বিল = [math]596.6415\times2.85\approx1700.43\ \text{টাকা}[/math], অতএব প্রায় [math]1700.43\ \text{টাকা}[/math] দিতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 422960)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি [math]100\ watt[/math] এর নিমজ্জক উত্তাপক [math]7[/math] মিনিটে [math]1[/math] লিটার পানির তাপমাত্রা [math]30^\circ C[/math] থেকে [math]40^\circ C[/math] পর্যন্ত বৃদ্ধি করে। [math]J[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]4.2\mathrm{Jcal}^{-1}[/math]
+)[math]\\[/math]
+Solution : [math]J=\dfrac{W}{H}[/math]
+এখানে, [math]\mathrm{W}=\mathrm{pt},\mathrm{\ \ H}=\mathrm{ms}\Delta \theta \quad \quad \\ \therefore \mathrm{J}=\dfrac{100\times 7\times 60}{1000\times 1\times (40-30)}=4.2\mathrm{Jcal}^{-1}\text{ (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ইলেকট্রিক শক্তি [math]E = P t = 100 \times 7 \times 60 = 42000\ \text{J}[/math]. পানির তাপের পরিমাণ [math]Q = m c \Delta T = 1000 \times 1 \times 10 = 10000\ \text{cal}[/math]. তাই যান্ত্রিক সমতুল্য [math]J = \dfrac{E}{Q} = \dfrac{42000}{10000} = 4.2\ \text{J/cal}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 422955)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017-2018 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি [math]120W – 60V[/math] বাতিকে [math]100V\ DC[/math] লাইনে লাগানো হল। পূর্ণ উজ্জ্বলতার জন্য বাতির শ্রে ণী সমবায়ে কত বোধ লাগাতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]20\Omega[/math]
+)[math]\\[/math]
+Solution : বাতির রোধ [math]\mathrm{R}_{\mathrm{L}}=\dfrac{\mathrm{v}^2}{\mathrm{P}}=\dfrac{60^2}{120}=30\Omega[/math]
+
+[Image]
+[math]\qquad V_{AB}=60\mathrm{~V}\ ;\ \ I\times R_L=60\mathrm{V\ }\Rightarrow \ I=\dfrac{60}{30}=2\mathrm{~A}\\ \qquad V_{BC}=V-V_{AB}\ \Rightarrow \ I\times R_S=100-60\ \Rightarrow \ R_S=\dfrac{100-60}{2}=20\Omega \text{ (Ans.) }[/math]
+
+
+Explanation:
+প্রথমে বাতির রেটেড কারেন্ট নির্ণয় করি: [math]I = P/V = 120/60 = 2\ \text{A}[/math]. সিরিজ রেজিস্টরে পড়ার ভোল্টেজ হবে [math]100-60=40\ \text{V}[/math], তাই সিরিজ রেজিস্ট্যান্স [math]R = 40/2 = 20\ \Omega[/math]. এই রেজিস্টরে পাওয়ার ক্ষয় হবে [math]P=I^2R=2^2\times20=80\ \text{W}[/math], সুতরাং প্রয়োজনীয় রেজিস্ট্যান্স [math]20\ \Omega[/math] (প্রায় [math]80\ \text{W}[/math] রেটে)।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 422956)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2010-2011 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক বাতির রোধ [math]600\ ohm[/math]। একে [math]220\ volt[/math] সরবরাহ লাইনের সাথে যুক্ত করা হয়। যদি প্রতি ইউনিটের মূল্য [math]0.80[/math] টাকা হয়, তাহলে বাতিটি [math]18[/math] ঘন্টা ব্যবহৃত হলে কত খরচ পড়বে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : $ 1.1616 $ টাকা )[math]\\[/math]
+Solution : [math]\mathrm{P}=\dfrac{\mathrm{V}^{2}}{\mathrm{R}}=\dfrac{220^{2}}{600}=80.667 \mathrm{~W} \therefore \mathrm{W}=\dfrac{\mathrm{Pt}}{1000} \text { unit }=\dfrac{80.667 \times 18}{1000}=1.452 \text { unit }[/math]
+ [math]\therefore[/math]
+ খরচ [math]=1.452 \times 0.8=1.1616[/math]
+ টাকা [math]\text { (Ans.) } \ \ \mid \ \mathrm{V}=220 \mathrm{~V}, \mathrm{R}=600 \Omega, \mathrm{t}=18 \text { hour }[/math]
+
+
+Explanation:
+বাতিটির শক্তি [math]P=\frac{V^2}{R}=\frac{220^2}{600}=80.67\ \text{W}=0.08067\ \text{kW}[/math] হয়, এবং 18 ঘন্টার জন্য খরচ করা শক্তি [math]E=P\times t=0.08067\times18=1.452\ \text{kWh}[/math]. প্রতি ইউনিট মূল্য [math]0.80\ \text{টাকা}[/math] হলে মোট খরচ [math]\text{Cost}=1.452\times0.80=1.162\ \text{টাকা}\approx1.16\ \text{টাকা}[/math] — কারণ শক্তি (kWh) নির্ণয় করে সেটাকে ইউনিট মূল্যে গুণ করেই মোট বিল পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 422941)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]P[/math] ও [math]Q[/math] দুটি বর্তনী যার প্রত্যেকটিতে রোধযুক্ত তারের দৈর্ঘ্য [math]0.5\ m[/math] এবং ব্যাসার্ধ [math]0.2\ cm[/math]। বর্তনী দুটিতে একই সময় ধরে তড়িৎ প্রবাহিত হচ্ছে।
+
+Options:
+ঘ. [math]P[/math] ও [math]Q[/math] বর্তনীতে একই সময়ে সমপরিমাণ তাপ উৎপন্ন হতে হলে তড়িচ্চালক শক্তি [math]E_1[/math] এর মান [math]E_2[/math] এর চেয়ে বেশি না কম হবে –গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, রোধ [math]\rm{R_{1}=100 \Omega ; R_{2}=100 \Omega}[/math]
+ [math]\rm{P}[/math]
+ বর্তনীর তুল্যরোধ, [math]\rm{R_{s}=R_{1}+R_{2}}=(100+100) \Omega=200 \Omega[/math]
+ [math]\rm{Q}[/math]
+ বর্তনীর তুল্যরোধ,[math]\hspace{1.5 cm}\begin{array}{l}\quad\rm{\dfrac{1}{R_{p}} =\dfrac{1}{R_{1}}+\dfrac{1}{R_{2}}}\\ \Rightarrow \rm{ \dfrac{1}{R_{p}}=\dfrac{1}{100 \Omega}+\dfrac{1}{100 \Omega}=\dfrac{1+1}{100 \Omega}} \\ \Rightarrow \rm{ R_{p}=50 \Omega} \end{array}[/math]
+ [math]\text {P}[/math]
+ বর্তনীর তড়িচ্চালক শক্তি [math]\rm{=E_{1}}[/math]
+ [math]\text {Q}[/math]
+ বর্তনীর তড়িচ্চালক শক্তি [math]\rm{=E_{2}}[/math]
+ধরি, সময় [math]\rm{t}[/math]
+ [math]\therefore \quad \text {P}[/math]
+ বর্তনীতে উৎপন্ন তাপ, [math]\rm{H_{1}=\dfrac{E_{1}^{2} t}{R_{s}}}[/math]
+ [math]\qquad\text {Q}[/math]
+ বর্তনীতে উৎপন্ন তাপ, [math]\rm{H_{2}=\dfrac{E_{2}^{2} t}{R_{p}}}[/math]
+প্রশ্নমতে,[math]\hspace{1.5 cm}\begin{array}{l}\quad \mathrm{H}_{1}=\mathrm{H}_{2}\\ \Rightarrow \rm{ \dfrac{E_{1}^{2} t}{R_{1}}=\dfrac{E_{2}^{2} t}{R_{p}}}\\ \Rightarrow \rm{ \dfrac{E_{1}^{2}}{E_{2}^{2}}=\dfrac{R_{1}}{R_{p}}=\dfrac{200 \Omega}{50 \Omega}=4}\\ \Rightarrow \rm{\dfrac{E_{1}}{E_{2}}=2}\\ \Rightarrow \rm{E_{1}=2 E_{2}}\\ \therefore \quad\rm{ E_{1}>E_{2}}\end{array}[/math]
+ [math]\text {P ও Q}[/math]
+ বর্তনীতে একই সময়ে সমপরিমাণ তাপ উৎপন্ন হতে হলে তড়িচ্চালক শক্তি [math]\rm{E_1}[/math]
+ এর মান [math]\rm{E_2}[/math]
+ এর চেয়ে বেশি হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ কারণ তারের প্রতিরোধ [math]R=\rho\frac{L}{A}[/math] এবং উভয়ের জন্যই [math]L[/math] ও তারের ক্রস-অঞ্চল [math]A=\pi r^2[/math] সমান, তাই [math]R_1=R_2[/math]. একই প্রবাহ ও একটাই সময়ে তাপ [math]H=I^2Rt[/math] সমান হলে [math]R_1=R_2[/math] ধরে থাকে এবং তড়িচ্চালক শক্তি [math]E=IR[/math] হওয়ায় [math]E_1=I R_1,[\;]E_2=I R_2[/math] ফলে [math]E_1=E_2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 422942)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি [math]AC[/math] উৎসের বিস্তার [math]220\ V[/math] এবং কম্পাঙ্গ [math]50\ Hz[/math]। এর সাথে [math]1000\ \Omega[/math] এর একটি বৈদ্যুতিক রুম হিটার সংযুক্ত করা হলো। পরবর্তীতে ঐ হিটারকে [math]220\ V[/math] এর [math]DC[/math] উৎসের সাথে যুক্ত করা হলো।
+
+Options:
+গ. উদ্দীপকের পরবর্তী তড়িচ্চালক বলের সমীকরণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+গ এসি উৎসের জন্য তড়িচ্চালক বল হবে [math]v(t)=V_0\sin(ωt)[/math] যেখানে [math]V_0=220\ \text{V}[/math] এবং [math]ω=2πf=2π(50)=100π\ \text{rad/s}[/math], তাই [math]v(t)=220\sin(100\pi t)\ \text{V}[/math]. অপরদিকে ডিসি উৎসে একই মানের স্থায়ী ভোল্টেজ হবে [math]v(t)=220\ \text{V}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 422943)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি [math]AC[/math] উৎসের বিস্তার [math]220\ V[/math] এবং কম্পাঙ্গ [math]50\ Hz[/math]। এর সাথে [math]1000\ \Omega[/math] এর একটি বৈদ্যুতিক রুম হিটার সংযুক্ত করা হলো। পরবর্তীতে ঐ হিটারকে [math]220\ V[/math] এর [math]DC[/math] উৎসের সাথে যুক্ত করা হলো।
+
+Options:
+ঘ. কোন সংযোগে রুম হিটারটি বেশি কার্যকর- গাণিতিক বিশ্লেষণসহ তোমার উত্তরের পক্ষে যুক্তি দা ও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ উভয় সংযোগেই হিটার একই কার্যকর; কারণ রোধের ক্ষেত্রে ক্ষমতা নির্ণয় হয় ভোল্টেজের রুট-Mean-square মান দিয়ে। গাণিতিকভাবে, [math]P_{DC}=\frac{V^2}{R}[/math] এবং সাইন-ওয়েভ AC-এর জন্য [math]P_{AC}=\frac{V_{\text{rms}}^2}{R}[/math] যেখানে যদি AC ভোল্টেজের ঘোষিত মান [math]220\ V[/math] হল RMS, তখন উভয়েই [math]P=\frac{220^2}{1000}=48.4\ \text{W}[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 422944)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+জনাব আল আমিন তার শোবার ঘরে [math]1\ Ton[/math] এর একটি এয়ারকন্ডিশনার স্থাপন করলেন। এয়ার কন্ডিশনারটি চালানো [math]220V[/math] সাপ্লাই লাইন থেকে [math]6.5A[/math] কারেন্ট নেয়। তিনি গড়ে দৈনিক [math]8\ hrs[/math] করে এয়ার কন্ডিশনারটি ব্যবহার করেন। বিদ্যুতের বিল প্রতি [math]kWh[/math] এর জন্য [math]5\ Tk[/math] হয় তবে ঐ এয়ার কন্ডিশনারটি এপ্রিল মাসে ব্যবহারের জন্য বিদ্যুৎ বিল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1716 \text { Tk }[/math]
+)[math]\\[/math]
+Solution : [math]W=V I t=(220 \times 6.5 \times 8) W h=11.44 \mathrm{kWh}[/math]
+ (দৈনিক)এপ্রিল মাসের বিদ্যুৎ বিল [math]=11.44 \times 5 \times 30=1716 \text { Tk (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: এয়ারকন্ডিশনারের শক্তি পাওয়ার হলো [math]P=V\times I=220\times 6.5=1430\ \text{W}=1.43\ \text{kW}[/math]. প্রতিদিন ব্যবহারগত শক্তি হলো [math]1.43\ \text{kW}\times 8\ \text{h}=11.44\ \text{kWh}[/math], এপ্রিল মাসে (৩০ দিন ধরে) মোট শক্তি হবে [math]11.44\times 30=343.2\ \text{kWh}[/math]. বিল হবে [math]343.2\ \text{kWh}\times 5\ \text{Tk/kWh}=1716\ \text{Tk}[/math], তাই এপ্রিল মাসের বিল ≈ [math]1716\ \text{Tk}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 422945)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি [math]1.5KW[/math] ইলেক্ট্রিক কেতলীতে [math]2[/math] লিটার পানি নিয়ে গরম করলে তা [math]6\ min\ 20\ sec[/math] পর ফুটতে শুরু করে। প্রথমে কেবল পানির তাপমাত্রা কত ছিল? কেতলীতে পানি ফোটাতে কত [math]unit[/math] বিদ্যুৎ খরচ হয়েছে? (তাপক্ষয় নগণ্য ধরা যেতে পারে)
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]=0.158 \text { unit }[/math]
+)[math]\\[/math]
+Solutin : [math]V=2 \mathrm{~L}=2 \times 10^{-3} \mathrm{~m}^{3} \\ \mathrm{~m}=\mathrm{v} \rho=2 \times 10^{-3} \times 10^{3}=2 \mathrm{~kg} \\ \mathrm{p}=1.5 \times 10^{3} \mathrm{~W} \\ \mathrm{t}=(6 \times 60+20) \mathrm{s}=380 \mathrm{~s}=\dfrac{360}{3660} \mathrm{hr} \\ \theta_{0}=? \\ \theta=100^{\circ} \mathrm{C} \\ s =4200\ J \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\\[/math]
+এখন, [math]\mathrm{pt}=\mathrm{ms} \Delta \theta \Rightarrow \mathrm{pt}=\mathrm{ms}\left(\theta-\theta_{\mathrm{0}}\right)\\ \Rightarrow \theta-\theta_{0}=\dfrac{\mathrm{pt}}{\mathrm{ms}}=\dfrac{15 \times 10^{3} \times 380}{2 \times 4200}=67.86 \\ \Rightarrow \theta_{0}=\theta-67.86=32.14^{\circ} \mathrm{C}[/math]
+সুতরাং নির্ণেয় আদি তাপমাত্রা [math]\theta_{0}=32.14^{\circ} \mathrm{C}[/math]
+ [math]\qquad \ E=P t=1.5 \times \dfrac{380}{3600} \text { unit }=0.158 \text { unit }[/math]
+সুতরাং বিদ্যুৎ খরচ হয়েছে [math]=0.158 \text { unit }[/math]
+
+
+Explanation:
+ব্যাখ্যা: মোট দেওয়া শক্তি [math]P t=1.5\times10^3\times380=5.7\times10^5\ \text{J}[/math] এবং [math]Q=mc\Delta T[/math] অনুযায়ী [math]100-T_i=\dfrac{5.7\times10^5}{2\times4200}\approx67.857[/math], ফলে ক শুরুতে পানির তাপমাত্রা [math]T_i\approx32.14^\circ\text{C}[/math]।  
+খ খরচ হওয়া বিদ্যুৎ ইউনিট = [math]P(\text{kW})\times t(\text{h})=1.5\times\dfrac{380}{3600}\approx0.1583\ \text{kWh}[/math] (প্রায় [math]0.1583[/math] unit)।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 422946)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2014-2015 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]2.35m[/math] লম্বা এবং [math]1.63\ mm[/math] ব্যাস বিশিষ্ট এলুমিনিয়ামের তারের ভিতর দিয়ে [math]1.24\ A[/math] বি দ্যুৎ প্রবাহিত হচ্ছে। এই তারে কি পরিমাণ শক্তি ব্যয় হচ্ছে? [এলুমিনিয়াম এর রোধক, [math]\rho=2.80 \times 10^{-8} \Omega \mathrm{m}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.04848\text{ watt }[/math]
+)[math]\\[/math]
+Solution : [math]\text{We know, } R=p\cdot\dfrac{1}{A}=2.8\times10^{-8}\times\dfrac{235}{\pi\left(\frac{1.63\times10^{-3}}{2}\right)^2}=0.03153\Omega[/math]
+ [math]\therefore[/math]
+ প্রতি সেকেন্ডে ব্যয়িত শক্তি [math]=[/math]
+ ক্ষমতা [math]=I^2\mathrm{R}=(1.24)^2\times0.03153\mathrm{~W}=0.04848\text{ watt (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: তারের প্রতিরোধকে গণনা করতে আমরা ব্যবহার করি [math]R=\rho\frac{L}{A}[/math] যেখানে [math]A=\pi\left(\frac{d}{2}\right)^2[/math], এবং শকতি ব্যয় [math]P=I^2R[/math]।  
+হিসাব করলে [math]A=\pi\left(\frac{1.63\times10^{-3}}{2}\right)^2\approx2.09\times10^{-6}\ \mathrm{m^2}[/math], তাই [math]R=\frac{2.80\times10^{-8}\times2.35}{2.09\times10^{-6}}\approx3.15\times10^{-2}\ \Omega[/math]।  
+অতএব [math]P=(1.24)^2\times3.15\times10^{-2}\approx4.84\times10^{-2}\ \mathrm{W}\ (≈48.4\ \mathrm{mW})[/math], যা উত্তর।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 422947)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2014-2015 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]220\ V[/math] এ কার্যরত [math]100\ W[/math] এর একটি বাতির ফিলামেন্টের মধ্য দিয়ে প্রতি সেকেন্ডে প্রবাহি ত ইলেকট্রনের সংখ্যা নির্ণয় কর দেওয়া আছে, ইলেকট্রনের চার্জ [math]e=1.6 \times 10^{-19} \mathrm{C}.[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2.84\times10^{18}[/math]
+ টি)[math]\\[/math]
+Solution : [math]\text{ We know, }\mathrm{P}=\mathrm{VI}\Rightarrow 1=\dfrac{\mathrm{P}}{\mathrm{v}}=\dfrac{100}{220}...........\left(i\right)[/math]
+ [math]\text{ Now, }I=\dfrac{q}{t}\Rightarrow \dfrac{100}{220}=\dfrac{q}{1}\Rightarrow q=\dfrac{160}{220}[/math]
+ধরি, [math]1s[/math]
+ এ প্রবাহিত [math]e^-[/math]
+ সংখ্যা [math]= n[/math]
+ [math]\text{ Now, }n\times1.6\times10^{-19}=q=\dfrac{100}{220}\quad\therefore n=2.84\times10^{18}[/math]
+ টি [math]\text{ (Ans.) }[/math]
+
+
+Explanation:
+P=VI থেকে কারেন্ট হবে [math]I=\dfrac{P}{V}=\dfrac{100}{220}=0.4545\ \mathrm{A}[/math]. কারেন্ট হল প্রতি সেকেন্ডে প্রবাহিত মোট চার্জ, তাই ইলেকট্রনের সংখ্যা হবে [math]n=\dfrac{I}{e}=\dfrac{0.4545}{1.6\times10^{-19}}\approx2.84\times10^{18}[/math] ইলেকট্রন/সেকেন্ড।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 422948)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2012-2013 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+বিদ্যুতের ব্যবহার কমানোর লক্ষে একটি সাধারন [math]60\ W\ GSL[/math] বাতিকে একটি [math]13\ W\ CFL[/math] বাতি দিয়ে বদলানো হল। বল্ব দুটির মূল্য যথাক্রমে [math]Tk.\ 30[/math] এবং [math]Tk.\ 250[/math] প্রতি ইউনিট বিদ্যুতের দাম [math]Tk.\ 4[/math] হলে এক বছরের মধ্যে বাল্বটি বদলানোর খরচ প্রতিদিন গড়ে কত ঘণ্টা [math]CFL[/math] বাল্বটিকে জ্বালাতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.206 h[/math]
+)[math]\\[/math]
+Solution : [math]\text { Money required to replace the previous one }=(250-30) \mathrm{tk}=220 \mathrm{tk}[/math]
+ [math]\text{ So, }220=(0.047)\mathrm{kw}\times\mathrm{h}\text{ hour }\times365\times4\text{ [Basically how much energy you will save, }60-13=47\ W][/math]
+ [math]\Rightarrow h=\dfrac{220}{4 \times 0.047 \times 365}=3.206 h[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতি ঘন্টায় বিদ্যুতের সাশ্রয় হল শক্তির পার্থক্য [math](60-13)=47\ \text{W}=0.047\ \text{kW}[/math], তাই এক ঘন্টায় সাশ্রয়কৃত ऊर्जा = [math]0.047\ \text{kWh}[/math] এবং টাকায় সাশ্রয় = [math]0.047\times4=0.188\ \text{Tk.}[/math]. বাল্ব বদলানোর অতিরিক্ত খরচ = [math]250-30=220\ \text{Tk.}[/math], তাই বছরে প্রয়োজনীয় ঘন্টা = [math]220/0.188\approx1170.2\ \text{ঘণ্টা}[/math], যা দৈনিক হলে [math]1170.2/365\approx3.21\ \text{ঘণ্টা/দিন}[/math]. তাই প্রায় 3.2 ঘণ্টা প্রতিদিন CFL বাল্বটি জ্বালালেই খরচ ফেরা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 422949)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক ইস্ত্রীতে ' [math]220\ V – 1000\ W[/math]' লেখা আছে। ইস্ত্রীটি [math]200\ V[/math] লাইনে যুক্ত হয়ে [math]2[/math] ঘন্টা চললে কত ইউনিট বিদ্যুৎ শক্তি খরচ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.6529KWh[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{R}=\frac{\mathrm{V}^2}{\mathrm{P}}=48.4\Omega \quad \mathrm{\ \ \mid \ \ }\quad \mathrm{W}=\mathrm{Pt}=\frac{\mathrm{V}^2\mathrm{t}}{\mathrm{R}}\mathrm{Wh}=\frac{200^2}{48.4}\times \frac{2}{1000}\mathrm{KWh}=1.6529KWh[/math]
+
+
+Explanation:
+ব্যাখ্যা: ইস্ত্রির তড়িৎপ্রতিরোধ ধরলে প্রতিরোধ হবে [math]R=\dfrac{220^2}{1000}=48.4\ \Omega[/math]. ২০০V-এ শক্তি হবে [math]P'=\dfrac{200^2}{48.4}\approx 826.45\ W[/math] এবং দুই ঘন্টা চালালে খরচ হবে [math]E=P'\times 2\approx 1652.9\ Wh\approx 1.65\ kWh[/math], অর্থাৎ প্রায় [math]1.65[/math] ইউনিট।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 422950)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বানর [math]20[/math] মিটার উঁচু নারিকেল গাছ থেকে নারিকেল ফেলছে। প্রত্যেকটি নারিকেলের ভর [math]2\ kg[/math] এবং বানরটি প্রতি সেকেন্ডে 2টি করে নারিকেল ফেলছে। নারিকেলের সমস্ত স্থিতিশক্তি বিদ্যুৎশক্তিতে রূপান্তরিত হলে উক্ত বিদ্যুৎশক্তির সাহায্যে কতটি [math]60[/math] ওয়াট বৈদ্যুতিক বাতি প্রজ্জ্বলিত করা যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]13[/math]
+ টি)[math]\\[/math]
+Solution : [math]\mathrm{P}=\dfrac{\mathrm{mg}\mathrm{h}}{\mathrm{t}}=\dfrac{2\times 2\times 9.8\times 20}{\mathrm{l}}=784\mathrm{~W};\ P=\mathrm{nP}^{\prime}\quad \therefore \mathrm{n}=\dfrac{\mathrm{P}}{\mathrm{P}^{\prime}}=\dfrac{784}{60}=13.067\approx 13\mathrm{ }[/math]
+ টি।
+
+Explanation:
+ব্যাখ্যা: প্রতিটি নারিকেলের সম্ভাব্য শক্তি [math]E=mgh=2×10×20=400\ \text{J}[/math] (এখানে [math]g≈10\ \text{m/s}^2[/math] ধরা হয়েছে)। প্রতি সেকেন্ডে 2টি নারিকেল পড়লে পাওয়ার হয় [math]P=2×400=800\ \text{W}[/math] এবং তাই বাতির সংখ্যা [math]\frac{800}{60}\approx13.3[/math], অর্থাৎ পূর্ণভাবে 13টি 60 ওয়াট বাতি প্রজ্জ্বলিত করা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 422951)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2006-2007 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]27^\circ C[/math] তাপমাত্রায় [math]1\ kW[/math] একটি ইলেকট্রিক কেটলিতে [math]2\ litre[/math] পানি আছে। কেট লিটিকে [math]10[/math] মিনিটের জন্য সুইচ অন করা হলো। যদি চারপাশে তাপ হ্রাসের হার [math]160\ J/s[/math] হয় তবে [math]10[/math] মিনিটে কেটলির তাপমাত্রা কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]87^{\circ }\mathrm{C}[/math]
+)Solution : এখানে, শোষিত তাপ, [math]P=1000-160=840 \mathrm{~W}[/math]
+এখানে, [math]\mathrm{ms}\Delta \theta =\mathrm{Pt}\ \ \Rightarrow \ \Delta \theta =\dfrac{\mathrm{Pt}}{\mathrm{ms}}\ \Rightarrow \ \theta _2-300=\dfrac{840\times 10\times 60}{2\times 4200}=60\quad \ \therefore \theta _2=360\mathrm{k}=87^{\circ }\mathrm{C}[/math]
+
+
+Explanation:
+নির্ণয়টি শক্তির সুরক্ষার ওপর ভিত্তি করে: নিট শক্তি = [math]1000-160=840\ J/s[/math], এবং [math]600\ s[/math]-এ প্রবেশ করা তাপ = [math]Q=840\times600=504000\ J[/math]. পানির তাপমাত্রা বৃদ্ধি হবে [math]\Delta T=\dfrac{Q}{mc}=\dfrac{504000}{2\times4186}\approx60.2^\circ C[/math], সুতরাং চূড়ান্ত তাপমাত্রা = [math]27+60.2\approx87.2^\circ C[/math]. এটি পানির বিশিষ্ট তাপধারণ ক্ষমতা ব্যবহার করে এবং প্রবেশ করা শক্তি থেকে পরিবেশে হ্রাস হওয়া শক্তি বাদ দিয়ে পাওয়া ফল।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 422952)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Jagannath University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক বাল্বের গায়ে ' [math]40W-200V[/math]' লেখা আছে। বাল্বটির রোধ ( [math]Resistance[/math]) কত? এ র মধ্য দিয়ে কী পরিমাণ বিদ্যুৎ প্রবাহিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ক্ষমতা, [math]P=\dfrac{V^{2}}{R} \Rightarrow 40=\dfrac{(200)^{2}}{R} \therefore R=1000 \Omega[/math]
+আবার, [math]\mathrm{P}=\mathrm{VI} \therefore \text{I}=\dfrac{\mathrm{P}}{\mathrm{V}}=\dfrac{40}{200}=0.2 \mathrm{~A}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক বাল্বের রোধ: [math]R=\dfrac{V^2}{P}=\dfrac{200^2}{40}=\dfrac{40000}{40}=1000\ \Omega[/math].
+খ বাল্বের মধ্য দিয়ে পরিবাহিত ধারা: [math]I=\dfrac{P}{V}=\dfrac{40}{200}=0.2\ \text{A}[/math], যা [math]I=\dfrac{V}{R}=\dfrac{200}{1000}=0.2\ \text{A}[/math] দিয়ে মিলেছে।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 422953)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: University of Rajshahi (A Unit)
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক বাল্বকে [math]20W,\ 200 V[/math] এভাবে চিহ্নিত করা আছে। বাল্বটির রোধ কত হবে এবং এর মধ্য দিয়ে কত তড়িৎ প্রবাহ চলবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]0.1 \mathrm{~A}[/math]
+)[math]\\[/math]
+Solution : [math]P=\dfrac{V^{2}}{R} \Rightarrow R=\dfrac{V^{2}}{P}=\dfrac{200^{2}}{20}=2000 \Omega \\ P=V I \Rightarrow I=\dfrac{P}{V}=\dfrac{20}{200}=0.1 \mathrm{~A}[/math]
+
+
+Explanation:
+সমাধান: ক রোধ নির্ণয়ের জন্য [math]P=V^2/R[/math], সুতরাং [math]R=V^2/P=[200^2/20]=2000\ \Omega[/math]. খ ধারা পাওয়ার জন্য [math]I=P/V[/math] ব্যবহার করলে [math]I=20/200=0.1\ \text{A}[/math] (বা [math]I=V/R=200/2000=0.1\ \text{A}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 422954)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math](a)[/math] একটি বৈদ্যুতিক বাল্বের গায়ে [math]100\ W[/math] এবং [math]220V[/math] লেখা আছে। বায়টি [math]220V[/math] লাইনে সংযুক্ত আছে এবং প্রতিদিন [math]10[/math] ঘন্টা জ্বলে। [math]1kWh[/math] বৈদ্যুতিক শক্তির মূল্য [math]2.40[/math] টাকা হলে অক্টোবর মাসে বিল কত আসবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]74.4[/math]
+ টাকা)[math]\\[/math]
+Solution : [math](a)[/math]
+ কাজ [math]W=P t=100 \times 10^{-3} \times 10=1 \mathrm{kWh}[/math]
+দৈনিক বিল [math]2.40[/math]
+ টাকা, অক্টোবর মাসে বিল [math]31 \times 2.4=74.4[/math]
+ টাকা [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: বাল্বের ক্ষমতা [math]100\ W=0.1\ kW[/math], সুতরাং প্রতিদিন ব্যবহারে শক্তি [math]E_{day}=0.1\times10=1\ kWh[/math]. অক্টোবর মাসে (৩১ দিন) মোট শক্তি [math]E=31\times1=31\ kWh[/math]. প্রতি [math]1\ kWh[/math] দাম [math]2.40\ টাকা[/math] হলে বিল [math]31\times2.40=74.4\ টাকা[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 422940)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018, 2018, 2018, 2018, 2018 | Boards: Chittagong Board, Rajshahi Board, Barisal Board | Tags: Chattogram Board, Jessore Board, Rajshahi Board, Cumilla Board, Barisal Board
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকটি লক্ষ কর :
+
+[Image]
+
+
+Options:
+ঘ. ২নং চিত্রের [math]LED[/math] বাতিটি জ্বলবে কি-না ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ২নং চিত্র হতে দেখতে পাই বর্তনীতে একটি নট [math]\rm{(NOT)}[/math]
+ গেট বেং একটি অ্যান্ড [math]\rm{(AND)}[/math]
+ গেট রয়েছে। লজিক বর্তনীর ইনপুটে [math](3 - 5) \rm{V}[/math]
+ পাওয়ার অর্থ ইনপুট [math]1[/math]
+ দেওয়া হচ্ছে এবং [math]0 \rm{~V}[/math]
+ দেওয়ার অর্থ ইনপুটে [math]0[/math]
+ দেওয়া হচ্ছে। আউটপুটের ক্ষেত্রে অনুরূপ। লজিক বর্তনী হচ্ছে কতকগুলো ট্রানজিস্টরের সমন্বয়। ট্রানজিস্টরের মধ্যদিয়ে তড়িৎপ্রবাহ খুব কম হয় বলে ২নং চিত্রের মূলপ্রবাহ খুব কম হবে ফলে রোধের মধ্যে খুব সামান্য বিভব পতন হয়ে [math]\rm{AND}[/math]
+ গেটের ইনপুটে [math]5\rm{~V}[/math]
+ এর কাছাকাছি বিভব পাওয়া যাবে ফলে [math]\rm{AND~Gate}[/math]
+ ইনপুটে [math]1[/math]
+ পাবে ফলে এর আউটপুটে [math]1[/math]
+ তথা [math]\rm{(3V - 5V)}[/math]
+ পাওয়া যাবে। [math]\rm{AND}[/math]
+ গেটের আউটপুটের [math]\rm{1~ NOT}[/math]
+ গেটে পরিবর্তিত হয়ে এর আউটপুটে [math]0[/math]
+ আসবে তথা [math]\rm{NOT}[/math]
+ গেটের আউটপুটে [math]0\rm{~V}[/math]
+ পাওয়া যাবে। ফলে [math]\rm{LED}[/math]
+ এর দুই প্রান্তে কোনো বিভব পাওয়া যাবে না বিধায় এটি জ্বলবে না।
+
+Explanation:
+ব্যাখ্যা: ঘ ২নং চিত্রের LED জ্বলবে না, কারণ এটি ব্যাটারির বিপরীত দিকে সংযুক্ত (reverse biased) আছে; ফলে প্রয়োজনীয় ধারা প্রবাহিত হবে না। LED জ্বালাতে ফরোয়ার্ড‑দিক থেকে ভোল্টেজ ও বন্ধ সার্কিট থাকা প্রয়োজন।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 422938)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]60\ \Omega[/math] রোধের দুটি রোধক শ্রেণিতে যুক্ত করে [math]120\ V[/math] তড়িৎ উৎসের সাথে যুক্ত করা হলো। পরবর্তীতে রোধক দুটি সমান্তরালে যুক্ত করে একই উৎসের সাথে যুক্ত করা হলো।
+
+Options:
+ঘ. কোন সংযোগে একটি নির্দিষ্ট সময়ে বেশি তাপ উৎপন্ন হবে? গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\mathrm{R}_{1}=60 \Omega ; \mathrm{R}_{2}=60 \Omega;[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব, [math]\rm{V}=120 \mathrm{~V}[/math]
+শ্রেণিযুক্ত অবস্থায় তুল্যরোধ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{R}_{\mathrm{s}} & =\mathrm{R}_{1}+\mathrm{R}_{2} \\ & =60 \Omega+60 \Omega=120 \Omega \end{aligned}[/math]
+
+[Image]
+[math]\therefore[/math]
+ বর্তনীর প্রবাহমাত্রা,[math]\hspace{1.5 cm}\rm{I=\dfrac{V}{R_{s}}}=\dfrac{120}{120} \mathrm{~A}=1 \mathrm{~A}[/math]
+যেহেতু রোধদ্বয় শ্রেণীতে যুক্ত তাই উভয় রোধের মধ্য দিয়ে বর্তনীর প্রবাহমাত্রা [math]\rm{I = 1 A}[/math]
+ প্রবাহিত হবে।অতএব, শ্রেণীযুক্ত অবস্থায় [math]60~\Omega[/math]
+ রোধের মধ্য দিয়ে প্রবাহিত প্রবাহমাত্রা [math]1~\rm{A}[/math]
+l[math]\hspace{1 cm}[/math]
+এবং তুল্যরোধ, [math]\rm{R_{s}=120 \Omega}[/math]
+ [math]\therefore[/math]
+ একটি নির্দিষ্ট সময় [math]\rm{t}[/math]
+ তে উৎপন্ন তাপ,[math]\hspace{1.5 cm}\begin{array}{l} \quad \mathrm{H}_{\mathrm{s}}=\mathrm{I}^{2} \mathrm{R}_{\mathrm{s}} \mathrm{t}=\mathrm{1}^{2} \times 120 \times \mathrm{t} \\ \mathrm{H}_{\mathrm{s}}=120 \mathrm{t} \ldots \ldots \ldots \ldots \ldots \ldots \rm{(i)} \end{array}[/math]
+সমান্তরালে যুক্ত অবস্থায় :এখানে,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{R}_{1}=60 \Omega \\ \mathrm{R}_{2}=60 \Omega \end{array}[/math]
+এ অবস্থায় বর্তনীর তুল্যরোধ,[math]\hspace{1.5 cm}\begin{aligned} \rm{R_p}& =\frac{\mathrm{R}_{1} \times \mathrm{R}_{2}}{\mathrm{R}_{1}+\mathrm{R}_{2}}\\ & =\frac{60 \times 60}{60+60} \Omega\\ \therefore \rm{~R_p} & =30\Omega \end{aligned}[/math]
+
+[Image]
+[math]\therefore[/math]
+ সমান্তরালে যুক্ত অবস্থায় নির্দিষ্ট সময় [math]\rm{t}[/math]
+ তে উৎপন্ন তাপ,[math]\hspace{1.5 cm}\begin{aligned} \rm{H_{p}} & =\rm{\frac{V^{2}}{R_{p}} t=\frac{120^{2}}{30} \times t} \\ \therefore \quad \rm{H_{p}} & =\rm{480 ~t }\ldots \ldots \ldots \ldots \rm{(ii)} \end{aligned}[/math]
+ [math]\rm{(i)}\times\rm{(ii)}[/math]
+ করে পাই,[math]\hspace{1.5 cm}\dfrac{\mathrm{H}_{\mathrm{a}}}{\mathrm{H}_{\mathrm{p}}}=\dfrac{120 \mathrm{t}}{180 \mathrm{t}}=\dfrac{1}{4} \Rightarrow \mathrm{H}_{\mathrm{p}}=4 \mathrm{H}_{\mathrm{t}}[/math]
+সুতরাং দেখা যাচ্ছে, [math]\mathrm{H}_{\mathrm{p}}>\mathrm{H}_{\mathrm{s}}[/math]
+অতএব, সমান্তরাল সংযোগে একটি নির্দিষ্ট সময়ে বেশি তাপ উৎপন্ন হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ সমান্তরালে যুক্ত করলে বেশি তাপ উৎপন্ন হবে। সিরিজে সমতুল্য প্রতিরোধ [math]R_s=60+60=120\ \Omega[/math], প্রবাহ [math]I_s=120/120=1\ \mathrm{A}[/math], মোট তাপ [math]P_s=120\times1=120\ \mathrm{W}[/math]; সমান্তরালে [math]R_p=60/2=30\ \Omega[/math], [math]I_p=120/30=4\ \mathrm{A}[/math], মোট তাপ [math]P_p=120\times4=480\ \mathrm{W}[/math], তাই সমান্তরাল সংযোগে তাপ বেশি উৎপন্ন হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 422939)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রায় [math](25^\circ C)[/math] টাংস্টেন তারের রোধ [math]65\ \Omega[/math]। এরূপ তার দুটি বৈদ্যুতিক হিটারের কুণ্ডলী তৈরি করে বৈদ্যুতিক লাইনের সাথে [math](220V)[/math] সমান্তরালে যুক্ত করা হলো। এতে কুণ্ডলী তারের তাপমাত্রা [math]250^\circ C[/math]-এ উন্নীত হলো। ১ম কুণ্ডলী তারের দৈর্ঘ্য ও ব্যাস উভয়ই ২য় কুণ্ডলীর তুলনায় দ্বিগুণ রোধের উষ্ণতা গুণাঙ্ক, [math]\alpha=4.5 \times 10^{-3}{ }^{\circ} \mathrm{C}^{-1}[/math]।
+
+Options:
+ঘ. কোন কুণ্ডলীতে বেশি তাপ উৎপন্ন হবে? গাণিতিক বিশ্লেষণসহ মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, ১ম তারের দৈর্ঘ্য, [math]\rm{L_{1}=L}[/math]
+ [math]\therefore[/math]
+ ২য় তারের দৈর্ঘ্য, [math]\mathrm{L}_{2}=2 \mathrm{~L}[/math]
+১ম তারের প্রস্থচ্ছেদের ক্ষেত্রফল, [math]\rm{A_{1}=\dfrac{1}{4} \pi d^{2}}[/math]
+২য় তারের প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\hspace{1.5 cm}\rm{A_{2}=\dfrac{1}{4} \pi(2 d)^{2}=\dfrac{1}{4} \pi \cdot 4 d^{2}=\pi d^{2}}[/math]
+১ম তারের রোধ, [math]\rm{R_{1}=65 \Omega}[/math]
+আমরা জানি, [math]\rm{R_{1}=\dfrac{\rho L_{1}}{A_{1}}}[/math]
+এবং [math]\rm{R_{2}=\dfrac{\rho L_{2}}{A_{2}}}[/math]
+ [math]\hspace{1.5 cm}\begin{array}{l} \therefore ~\rm{\dfrac{R_{2}}{R_{1}}=\dfrac{\frac{L_{2}}{A_{2}}}{\frac{\rho L_{1}}{A_{1}}}=\dfrac{\rho L_{2}}{A_{2}} \times \dfrac{A_{1}}{\rho L_{1}}=\dfrac{2 L \times \dfrac{1}{4} \pi d^{2}}{\pi d^{2} \times L}} \\ \Rightarrow \rm{\dfrac{R_{2}}{R_{1}}}=\dfrac{1}{2} \\ \Rightarrow \rm{R_{2}=\dfrac{R_{1}}{2}} \end{array}[/math]
+বিভব পার্থক্য, [math]\rm{V}=220 \mathrm{~V}[/math]
+ধরি, ১ম তারের ক্ষেত্রে উৎপন্ন তাপ, [math]\rm{H_1}[/math]
+এবং ২য় তারের ক্ষেত্রে উৎপন্ন তাপ, [math]\rm{H_2}[/math]
+আমরা জানি, [math]\mathrm{H}_{1}=\dfrac{\mathrm{V}^{2}}{\mathrm{R}_{1}} \mathrm{t}[/math]
+ [math]\hspace{1.5 cm}\begin{array}{l} \quad \rm{H_{2}=\dfrac{V^{2}}{R_{2}} t} \\ \therefore \rm{ \dfrac{H_{1}}{H_{2}}=\dfrac{\frac{V^{2} t}{R_{1}}}{\frac{V^{2} t}{R_{2}}}=\dfrac{R_{2}}{R_{1}}} \\ \Rightarrow \dfrac{\mathrm{H}_{1}}{\mathrm{H}_{2}}=\dfrac{\frac{2}{\rm{R}_{1}}}{\mathrm{R}_{1}}=\dfrac{\mathrm{R}_{1}}{2} \times \dfrac{1}{\mathrm{R}_{1}} \\ \Rightarrow \dfrac{\mathrm{H}_{1}}{\mathrm{H}_{2}}=\dfrac{1}{2} \\ \therefore ~~ \mathrm{H}_{2}=2 \mathrm{H}_{1} \end{array}[/math]
+অর্থাৎ হয় কণ্ডলীতে বেশি তাপ উৎপন্ন হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ প্রথম কুণ্ডলীর রোধ লম্বা ও ব্যাসের অনুসারে হলো [math]R\propto L/A[/math], তাই যদি [math]L_1=2L_2,\,d_1=2d_2[/math] হলে [math]R_1=\dfrac{1}{2}R_2[/math]. উষ্ণতা বৃদ্ধিতে উভয়ের রোধ একই গুণকে বাড়ে, [math]R(T)=R_0(1+\alpha\Delta T),\ \Delta T=250-25=225^\circ C[/math], ফলে অনুপাত অপরিবর্তিত থাকে। যেহেতু উভয়ে একই ভোল্টেজে সংযুক্ত, [math]P=V^2/R[/math] হওয়ায় [math]P_1=V^2/R_1=2V^2/R_2=2P_2[/math]; তাই প্রথম কুণ্ডলী দ্বিগুণ তাপ উৎপন্ন করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 422937)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. বর্তনীর আউটপুটে [math](220 V - 100W)[/math] এর একটি বাল্ব সংযোজন - করা হলে বাল্বটির কোনো ক্ষতি হবে কি না যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{R_{1}=8 \Omega ; R_{2}=6 \Omega ; R_{3}=10 \Omega ; R_{4}=2 \Omega}[/math]
+ [math]\rm{R_1, R_2~ও~ R_3}[/math]
+ সমান্তরালে সমবায়ে সংযুক্ত। এদের তুল্যরোধ [math]\rm{R_p}[/math]
+ হলে[math]\hspace{1.5 cm}\begin{aligned} \rm{\frac{1}{R_{p}}} & =\rm{\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}} \\ & =\frac{1}{8 \Omega}+\frac{1}{6 \Omega}+\frac{1}{10 \Omega}=\frac{15+20+12}{120 \Omega}=\frac{120 \Omega}{47} \end{aligned}[/math]
+আবার, [math]\rm{R_p}[/math]
+ এবং [math]\rm{R}_4[/math]
+ শ্রেণি সমবায়ে সংযুক্ত। এদের তুল্যরোধ [math]\rm{R_s}[/math]
+ [math]\hspace{1.5 cm}\rm{R_{s}=R_{p}+R_{4}=\dfrac{120 \Omega}{47}+2 \Omega=4.55 \Omega}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+অভ্যন্তরীণ রোধ, [math]\rm{r}=1.2 \Omega[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িচ্চালক শক্তি, [math]\mathrm{E}=12 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িৎ প্রবাহ, [math]\rm{I}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\rm{I=\dfrac{E}{R_{s}+r}}=\dfrac{12 \mathrm{~V}}{4.55 \Omega+1.2 \Omega}=2.09 \mathrm{~A}[/math]
+আবার, বাল্বের বিভব পার্থক্য, [math]\mathrm{V}=220 \mathrm{~V}[/math]
+ক্ষমতা, [math]\rm{P=100 W}[/math]
+তড়িৎ প্রবাহ, [math]\rm{I}^\prime[/math]
+ হলে [math]-[/math]
+আমরা জানি,[math]\hspace{1.3 cm}\begin{array}{l} \quad ~\rm{P=V I^{\prime}} \\ \Rightarrow \rm{I^{\prime}=\dfrac{P}{V}=}=\dfrac{100 \mathrm{~W}}{220 \mathrm{~V}}=0.45 \mathrm{~A} \end{array}[/math]
+যেহেতু [math]\rm{I>I^\prime}[/math]
+ সেহেতু বর্তনীর আউটপুটে [math]220 \mathrm{~V}-100 \mathrm{~W}[/math]
+ এবং বাল্ব সংযোজন করা হলে বাল্বটির ক্ষতি হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ ইনক্যান্ডেসেন্ট বাল্ব মোটেই ক্ষতিগ্রস্ত হবে না কারণ তা মূলত রোধর যোগে কাজ করে এবং AC/উত্পাটিত (rectified) DC-তে একইভাবে তাপ উৎপন্ন করে; কেবল কিছু কন্ডিশনে উজ্জ্বলতা পরিবর্তিত হবে। পূর্ণ-তরঙ্গ রেকটিফিকেশন হলে RMS ভোল্টেজ একই থাকে [math]V_{rms}=220\ \text{V}[/math] তাই শক্তি অপরিবর্তিত থাকবে; অর্ধ-তরঙ্গ হলে RMS হবে [math]V_{rms}=V_m/2=220\sqrt{2}/2=110\sqrt{2}\approx155.6\ \text{V}[/math], ফলে পাওয়ার প্রায় অর্ধেক হবে এবং বাল্বটা ধোঁয়াশা/ফিককা জ্বলে, তবু ক্ষতি হবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 422936)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\hspace{1.5 cm}\rm{E}=5 \mathrm{~V}, \mathrm{r}=0.2 \Omega, \mathrm{R}=40 \Omega[/math]
+
+Options:
+ঘ. কোন বর্তনীতে বেশি শক্তি অপচয় হবে, গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+কোষের তড়িচ্চালক শক্তি, E = 5 V[math]\hspace{1 cm}[/math]
+অভ্যন্তরীণ রোধ, [math]r = 0.2\Omega[/math]
+ [math]\hspace{1 cm}[/math]
+কোষের সংখ্যা, n = 3[math]\hspace{1 cm}[/math]
+রোধ, [math]R = 40 \Omega[/math]
+ [math]\hspace{1 cm}[/math]
+‘ক’ বর্তনীর তড়িৎপ্রবাহমাত্রা, I = ?আমরা জানি, কোষের শ্রেণি সংযোগের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \mathrm{I}=\frac{\mathrm{nE}}{\mathrm{nr}+\mathrm{R}} \\ \Rightarrow \mathrm{I}=\frac{3 \times 5}{3 \times 0.2+40} \\ \therefore ~ \mathrm{I}=0.37 \mathrm{~A} \text { (Ans.) } \end{array}[/math]
+ এখানে,[math]\hspace{1 cm}[/math]
+কোষের তড়িচ্চালক শক্তি, E = 5 V[math]\hspace{1 cm}[/math]
+অভ্যন্তরীণ রোধ, r = 0.2 [math]\Omega[/math]
+ [math]\hspace{1 cm}[/math]
+রোধ, R = 40 [math]\Omega[/math]
+ [math]\hspace{1 cm}[/math]
+কোষের সংখ্যা, n = 3[math]\hspace{1 cm}[/math]
+'খ' বর্তনীর মুলপ্রবাহ, [math]I_2 = ?[/math]
+ [math]\hspace{1 cm}[/math]
+'ক' বর্তনীতে প্রতি সেকেন্ডে অপচয়কৃত শক্তি, [math]W_2= ?[/math]
+কোষের সমান্তরাল সংযোগের ক্ষেত্রে তড়িৎপ্রবাহ,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \mathrm{I}_{2}=\frac{\mathrm{nE}}{\mathrm{nR}+\mathrm{r}} \\ \Rightarrow \mathrm{I}_{2}=\frac{3 \times 5}{3 \times 40+0.2} \\ \therefore \mathrm{I}_{2}=0.125 \mathrm{~A} \end{array}[/math]
+'ক' বর্তনীতে প্রতি সেকেন্ডে অপচয়কৃত শক্তি,[math]\hspace{1.5 cm}\begin{array}{l} \therefore ~\mathrm{r}_{\mathrm{s}}=\mathrm{r}+\mathrm{r}+\mathrm{r} \\ \Rightarrow \mathrm{r}_{\mathrm{s}}=0.2+0.2+0.2 \\ \Rightarrow \mathrm{r}_{\mathrm{s}}=0.6 \Omega \end{array}[/math]
+'খ' বর্তনীর তুল্য অভ্যন্তরীণ রোধ,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{r_{p}} & =\frac{1}{r}+\frac{1}{r}+\frac{1}{r} \\ \Rightarrow \frac{1}{r_{p}} & =\frac{3}{r} \\ \Rightarrow r_{\mathrm{p}} & =\frac{r}{3} \\ \Rightarrow r_{p} & =\frac{0.2}{3}\\ \therefore~ \mathrm{r}_{\mathrm{p}} & =0.067 \Omega\end{aligned}[/math]
+'খ' বর্তনীতে অপচয়কৃত শক্তি,[math]\qquad \quad \begin{array}{l} \mathrm{W}_{2}=\mathrm{l}_{2}^{2} \mathrm{r}_{\mathrm{p}} \times 1 \\ \Rightarrow \mathrm{W}_{2}=(0.125)^{2} \times 0.067 \times 1 \\ \therefore \mathrm{W}_{2}=0.001047 \mathrm{~J} W_2[/math]
+ সেহেতু প্রথম বর্তনীতে বেশি শক্তি অপচয় হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ সার্কিটে বহিরাগত রেজিস্টরেই বেশি শক্তি অপচয় হবে, কারণ [math]I=\dfrac{E}{R+r}=\dfrac{5}{40+0.2}=\dfrac{5}{40.2}=0.1244\ \mathrm{A}[/math] এবং তাই বহিরাগত রেজিস্টরের শক্তি [math]P_R=I^2R=(0.1244)^2\times40\approx0.619\ \mathrm{W}[/math], অভ্যন্তরীণ রেজিস্টরের শক্তি [math]P_r=I^2r=(0.1244)^2\times0.2\approx0.00310\ \mathrm{W}[/math]; যেহেতু [math]R\gg r[/math], বহিরাগত রেজিস্টরে অনেক বেশি শক্তি নষ্ট হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 422935)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\text{A ও B}[/math] দুটি বৈদ্যুতিক বাল্ব যাদের গায়ে যথাক্রমে [math]120 \mathrm{~W}-220 \mathrm{~V}[/math] ও [math]60 \mathrm{~W}-220 \mathrm{~V}[/math] লেখা আছে। বাল্ব দুটিকে [math]220 \mathrm{~V}[/math] বিভব উৎসের সাথে প্রথমে সমান্তরালে ও পরে শ্রেণিতে যুক্ত করা হল।
+
+Options:
+ঘ. সংযোগের ধরন পরিবর্তনের ফলে বাল্ব দুটির উজ্জ্বলতার কোনো পরিবর্তন হবে কি-না- গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘবাল্ব দুইটির প্রদত্ত ক্ষমতা 220 V এ দেওয়া থাকায় 220 V এর সাথে সমান্তরাল সংযোগে বাল্ব দুইটির ক্ষমতা একই থাকবে। অর্থাৎ সমান্তরাল সংযোগে A বাল্বের ক্ষমতা 120 W এবং B বাল্বের ক্ষমতা 60 W হবে।এখানে,[math]\hspace{1 cm}[/math]
+A ও B বাল্বের বিভব, [math]\mathrm{V}_{\mathrm{b}}=220~V[/math]
+ [math]\hspace{1 cm}[/math]
+A বাল্বের ক্ষমতা, [math]\mathrm{P}_{\mathrm{A}}=120 \mathrm{~W}[/math]
+ [math]\hspace{1 cm}[/math]
+B বাল্বের ক্ষমতা, [math]P_{B}=60 \mathrm{~W}[/math]
+ [math]\hspace{1 cm}[/math]
+শ্রেণিতে যুক্ত বিভব উৎসের বিভব,V = 220 V[math]\hspace{1 cm}[/math]
+A বাল্বের রোধ, [math]R_A = ?[/math]
+ [math]\hspace{1 cm}[/math]
+B বাল্বের রোধ, [math]R_B = ?[/math]
+ [math]\hspace{1 cm}[/math]
+A বাল্বের কার্যকর ক্ষমতা, [math]P_{A}^{\prime}=?[/math]
+ [math]\hspace{1 cm}[/math]
+B বাল্বের কার্যকর ক্ষমতা, [math]\mathrm{P}_{\mathrm{B}}^{\prime}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ R_{A}=\frac{V_{b}^{2}}{P_{A}} \\ \Rightarrow R_{A}=\frac{(220)^{2}}{120} \\ \therefore ~ R_{A}=403.33 \Omega \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \mathrm{R}_{\mathrm{B}}=\frac{\mathrm{V}_{\mathrm{b}}^{2}}{\mathrm{P}_{\mathrm{B}}}\\ \Rightarrow R_{B}=\frac{(220)^{2}}{60}\\ \therefore ~ R_{B}=806.67 \Omega\end{array}[/math]
+বাল্ব দুটিকে 220V বিভব উৎসের সাথে শ্রেণিতে সংযুক্ত করলে বর্তনীটি হবে নিম্নরূপ :
+[Image]
+[math]\therefore[/math]
+ বর্তনীর তুল্যরোধ,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{R}_{\mathrm{eq}}=\mathrm{R}_{\mathrm{A}}+\mathrm{R}_{\mathrm{B}} \\ \Rightarrow \mathrm{R}_{\mathrm{eq}}=1210 \Omega \end{array}[/math]
+ [math]\therefore[/math]
+ বর্তনীর তড়িৎপ্রবাহ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{I} & =\frac{\mathrm{V}}{\mathrm{R}_{\mathrm{eq}}} \\ \Rightarrow \mathrm{I} & =\frac{220}{1210} \\ \therefore \mathrm{I} & =0.1818 \mathrm{~A} \end{aligned}[/math]
+A বাল্বের কার্যকর ক্ষমতা,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \mathrm{P}_{\mathrm{A}}^{\prime}=\mathrm{I}^{2} \mathrm{R}_{\mathrm{A}} \\ \Rightarrow \mathrm{P}_{\mathrm{A}}^{\prime}=(0.1818)^{2} \times 403.33 \\ \therefore ~\mathrm{P}_{\mathrm{A}}^{\prime}=13.33 \mathrm{~W}<\mathrm{P}_{\mathrm{A}} \end{array}[/math]
+B বাল্বের কার্যকর ক্ষমতা,[math]\hspace{1.5 cm}\begin{aligned} P_{B}^{\prime} & =I^{2} R_{B} \\ \Rightarrow P_{B}^{\prime} & =(0.1818)^{2} \times 806.67 \\ \therefore ~ P_{B}^{\prime} & =26.66 \mathrm{~W}অতএব, শ্রেণি সংযোগে বাল্বদ্বয়ের ক্ষমতা কম হওয়ায়, সমান্তরাল সংযোগের তুলনায় শ্রেণিসংযোগে বাল্ব দুটির উজ্জ্বলতা কম হবে।
+
+Explanation:
+ঘ হ্যাঁ—সংযোগ পরিবর্তন করলে উজ্জ্বলতা বদলে যায়: সমান্তরালে প্রতিটি বাল্বে রেটেড ভোল্টেজ [math]220\ \text{V}[/math] লাগে তাই শক্তি যথাক্রমে [math]P_A=120\ \text{W},\;P_B=60\ \text{W}।[/math] সিরিজে প্রতিরোধগুলো [math]R_A=220^2/120=1210/3\ \Omega\approx403.3\ \Omega,\;R_B=220^2/60=2420/3\ \Omega\approx806.7\ \Omega[/math] এবং ধার [math]I=220/(R_A+R_B)=220/1210=22/121\ \text{A}[/math]; তাই সিরিজে শক্তি হবে [math]P_A=I^2R_A=40/3\ \text{W}\approx13.33\ \text{W},\;P_B=80/3\ \text{W}\approx26.67\ \text{W}[/math]. ফলে দুটোই অনেকটাই ফিকে হবে এবং সম্পর্কিত উজ্জ্বলতাও পাল্টে যাবে (সিরিজে B উজ্জ্বলতর)।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 422934)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\text{A ও B}[/math] দুটি বৈদ্যুতিক বাল্ব যাদের গায়ে যথাক্রমে [math]120 \mathrm{~W}-220 \mathrm{~V}[/math] ও [math]60 \mathrm{~W}-220 \mathrm{~V}[/math] লেখা আছে। বাল্ব দুটিকে [math]220 \mathrm{~V}[/math] বিভব উৎসের সাথে প্রথমে সমান্তরালে ও পরে শ্রেণিতে যুক্ত করা হল।
+
+Options:
+গ. প্রথম ক্ষেত্রে [math]5 \mathrm{~sec}[/math] সময় ধরে তড়িৎ প্রবাহ চালনা করলে কী পরিমাণ তড়িৎ শক্তি ব্যয় হয় তা নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+A বাল্বের ক্ষমতা, [math]P_A[/math]
+ = 120 W[math]\hspace{1 cm}[/math]
+B বাল্বের ক্ষমতা, [math]P_B[/math]
+ = 60W[math]\hspace{1 cm}[/math]
+বাল্ব দুইটির মোট ক্ষমতা, [math]P=P_{A}+P_{B}=120+60 =180 \mathrm{~W}[/math]
+ [math]\hspace{1 cm}[/math]
+সময়, t = 5 s[math]\hspace{1 cm}[/math]
+বায়িত তড়িৎশক্তি, W = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~W=\mathrm{Pt} \\ \Rightarrow W=180 \times 5 \\ \therefore ~ W=900 \text { J (Ans.) } \end{array}[/math]
+
+
+Explanation:
+গ সমান্তরাল সংযোগে প্রতিটি বাল্বে পূর্ণ [math]220\ \text{V}[/math] পড়ে, তাই শক্তি হল [math]120\ \text{W}[/math] ও [math]60\ \text{W}[/math], মোট [math]180\ \text{W}[/math]. ৫ সেকেন্ডে খরচকৃত শক্তি [math]E=Pt=180\times5=900\ \text{J}[/math].
+
+Sub-Questions:
+

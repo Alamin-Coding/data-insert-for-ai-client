@@ -1,0 +1,107 @@
+================================================================================
+Question #1 (ID: 407826)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2006-2007 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] বিন্দুর অবস্থান ভেক্টর যথাক্রমে, [math]2 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-4 \hat{\mathrm{k}}[/math] ও [math]4 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+2 \hat{\mathrm{k}} \cdot \overrightarrow{\mathrm{AB}}[/math] এর মান এবং [math]\overrightarrow{\mathrm{AB}}[/math] বরাবর এক ভেক্টরের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\overline{\mathrm{AB}}=\overline{\mathrm{OB}}-\overline{\mathrm{OA}}=(4 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+2 \hat{\mathrm{k}})-(2 \hat{\mathrm{i}}+3 \hat{\mathrm{i}}-4 \hat{\mathrm{k}})=2 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}+6 \hat{\mathrm{k}}[/math]
+ [math]\therefore|\overrightarrow{A B}|=\sqrt{4+36+36}=\sqrt{76} \text { (Ans) }[/math]
+ [math]\overline{\mathrm{AB}}=[/math]
+ বরাবর একক ভেক্টর, [math]\mathrm{\hat a}=\frac{\overline{\mathrm{AB}}}{|\overrightarrow{\mathrm{AB}}|}=\frac{2 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}+6 \hat{\mathrm{k}}}{\sqrt{76}} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\overrightarrow{AB}=\overrightarrow{OB}-\overrightarrow{OA}=(4-2)\hat{i}+(-3-3)\hat{j}+(2-(-4))\hat{k}=2\hat{i}-6\hat{j}+6\hat{k}[/math]. তার মান [math]|\overrightarrow{AB}|=\sqrt{2^2+(-6)^2+6^2}=\sqrt{76}=2\sqrt{19}[/math]. AB বরাবর একক ভেক্টর হলো [math]\dfrac{\overrightarrow{AB}}{|\overrightarrow{AB}|}=\dfrac{1}{\sqrt{19}}(\hat{i}-3\hat{j}+3\hat{k})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 407825)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]P[/math] ও [math]Q[/math] বিন্দুর স্থানাংক যথাক্রমে [math](1,1,1)[/math] এবং [math](3,2,-1)[/math] হলে [math]\overrightarrow{\mat hrm{PQ}}[/math] ভেক্টরের সমান্তরালে একক ভেক্টর নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\overrightarrow{O P}=\hat{i}+\hat{j}+\hat{k} ; \overrightarrow{O Q}=3 \hat{i}+\hat{2 j}-\hat{k}[/math]
+ [math]\therefore \overrightarrow{P Q}=\overrightarrow{O Q}-\overrightarrow{O P}=(3 \hat{i}+\hat{2 j}-\hat{k})-(\hat{i}+\hat{j}+\hat{k})=2 \hat{i}+\hat{j}-2 \hat{k}[/math]
+নির্ণেয় একক ভেক্টর [math]\left.=\pm \frac{\overline{\mathrm{PQ}}}{|\overrightarrow{\mathrm{PQ}}|}=\pm \frac{\hat{2 \mathrm{i}}+\hat{\mathrm{j}}-2 \hat{\mathrm{k}}}{\sqrt{2^{2}+1^{2}+(-2)^{2}}}=\pm \frac{1}{3}(\hat{2} \mathrm{i}+\hat{j}-2 \hat{\mathrm{k}}) \text { (Ans}\right)[/math]
+
+
+Explanation:
+ব্যাখ্যা: P থেকে Q-তে ভেক্টরটি হচ্ছে [math]\overrightarrow{PQ}=(3-1,\,2-1,\,-1-1)=(2,1,-2)[/math] এবং এর দৈর্ঘ্য [math]|\overrightarrow{PQ}|=\sqrt{2^2+1^2+(-2)^2}=\sqrt{9}=3[/math]. তাই সমান্তরালে একক ভেক্টরটি হবে [math]\frac{\overrightarrow{PQ}}{|\overrightarrow{PQ}|}=\frac{1}{3}(2,1,-2)=(\tfrac{2}{3},\tfrac{1}{3},-\tfrac{2}{3})[/math] (দিক উল্টিয়ে নিলে নেতিবাচকটি ও সমান মানে গ্রহণযোগ্য)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 407796)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]\vec{a}[/math] [math]=\hat{i}+2 \hat{j},[/math] [math]\vec{b}[/math] [math]=-\hat{i}+3 \hat{j}[/math] [math]+\hat{k}[/math] ভেক্টর দুটি কোনো সামান্তরিকের দুটি সন্নিহিত বাহু নির্দেশ করে।
+
+সামান্তরিকটির কর্ণের সমান্তরাল একক ভেক্টর কোনটি?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+সামান্তরিকের কর্ণ = ভেক্টরদ্বয়ের লব্ধি [math]=\hat{i}[/math]
+ [math]+2 \hat{j}-\hat{i}+3 \hat{j}[/math]
+ [math]+\hat{k}[/math]
+ [math]=5 \hat{j}+\hat{k}[/math]
+ [math]\therefore[/math]
+ কর্ণ বরাবর একক ভেক্টর [math]=\frac{1}{\sqrt{5^{2}+1^{2}}}[/math]
+ [math](5 \hat{i}+\hat{k})[/math]
+ [math]=\frac{1}{\sqrt{26}}[/math]
+ [math](5 \hat{j}+\hat{k})[/math]
+
+
+Explanation:
+ব্যাখ্যা: সামান্তরিকের কর্ণদ্বয় হলো [math]\vec{a}+\vec{b}[/math] এবং [math]\vec{a}-\vec{b}[/math]; এখানে [math]\vec{a}+\vec{b}=(\hat{i}+2\hat{j})+(-\hat{i}+3\hat{j}+\hat{k})=5\hat{j}+\hat{k}[/math] এবং এর মাত্রা [math]\sqrt{5^2+1^2}=\sqrt{26}[/math]. তাই কর্ণের সমান্তরাল একক ভেক্টরটি হবে [math]\dfrac{5\hat{j}+\hat{k}}{\sqrt{26}},[/math] যা অপশন B-এর সঙ্গে মেলে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 407799)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\hat{\mathbf{i}}-\hat{\mathbf{j}}+\hat{\mathbf{k}}=[/math] বরাবর একক ভেক্টর কোনটি?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\hat{\mathrm{i}}-\hat{\mathrm{j}}+\hat{\mathrm{k}}[/math]
+ বরাবর একক ভেক্টর [math]=\frac{\hat{\mathrm{i}}-\hat{\mathrm{j}}+\hat{\mathrm{k}}}{\sqrt{1^{2}+(-1)^{2}+1^{2}}}[/math]
+ [math]=\frac{\hat{\mathrm{i}}-\hat{\mathrm{j}}+\hat{\mathrm{k}}}{\sqrt{3}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরের দৈর্ঘ্য হলো [math]\sqrt{1^2+(-1)^2+1^2}=\sqrt{3}[/math]; তাই একক ভেক্টর হবে [math](\hat{\mathbf{i}}-\hat{\mathbf{j}}+\hat{\mathbf{k}})/\sqrt{3}[/math], যা অপশন D।
+
+Sub-Questions:
+

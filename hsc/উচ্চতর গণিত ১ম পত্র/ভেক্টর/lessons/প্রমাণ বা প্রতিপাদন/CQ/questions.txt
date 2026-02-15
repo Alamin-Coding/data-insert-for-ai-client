@@ -1,0 +1,662 @@
+================================================================================
+Question #1 (ID: 408630)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2005-2006 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]\vec{r}=\hat{i}+\hat{j}+\hat{k}[/math] ভেক্টরটি অক্ষত্রয়ের সাথে সমান কোণে আনত।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরি, x-অক্ষ বরাবর একক ভেক্টর,[math]\begin{array}{l|l}\therefore \vec{r}=\hat{i}+\hat{j}+\hat{K......(i)} & |\vec{r}|=r=\sqrt{1^{2}+1^{2}+1^{2}}=\sqrt{3} \\\Rightarrow \cos \theta=\frac{\vec{r} \cdot \vec{a}}{r a}=\frac{1}{\sqrt{3} \cdot 1}=\frac{1}{\sqrt{3}} & |\vec{a}|=a=\sqrt{1^{2}}=1\end{array}[/math]
+ [math]\vec{a}=\hat{i}.....(ii)[/math]
+ [math]\Rightarrow \theta=\cos ^{-1}\left(\frac{1}{\sqrt{3}}\right)[/math]
+ অনুরূপভাবে, y ও z অক্ষের ক্ষেত্রে প্রমাণ করা যায়, [math]\begin{array}{l}\cos \theta=\frac{1}{\sqrt{3}} \Rightarrow 0=\cos ^{-1} \frac{1}{\sqrt{3}}\\\text{(Showed)}\end{array}[/math]
+
+
+Explanation:
+ভেক্টরটি হলো [math]\vec r=\hat i+\hat j+\hat k[/math] যার উপাদান [math](1,1,1)[/math] এবং দৈর্ঘ্য [math]|\vec r|=\sqrt{1^2+1^2+1^2}=\sqrt{3}[/math]. অতএব প্রতিটি অক্ষের সঙ্গে দিকজ্যামিতিক কোসাইনগুলো সমান: [math]\cos\alpha=\cos\beta=\cos\gamma=\dfrac{1}{\sqrt{3}}[/math], তাই ভেক্টরটি তিনটি অক্ষের সঙ্গে একই কোণে আনত (কোণটি [math]\cos^{-1}(1/\sqrt{3})[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408629)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011, 2007-2008, 2003-2004 | Boards:  | Tags: Bangladesh University of Textiles, Bangladesh University of Textiles, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]\overrightarrow{\mathrm{A}}=8 \hat{\mathrm{i}}+\hat{\mathrm{j}}-6 \hat{\mathrm{k}}[/math] এবং [math]\overrightarrow{\mathrm{B}}=4 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}+5 \hat{\mathrm{k}}[/math] ভেক্টর দুইটি পরস্পর লম্ব।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\vec{A} \cdot \vec{B}=(8 \hat{i}+\hat{j}-6 \hat{k}) \cdot(4 \hat{i}-2 \hat{j}+5 \hat{k})=8 \times 4+1 \times(-2)+(-6) \times 5=0[/math]
+ [math]\therefore \vec{A}[/math]
+ এবং [math]\overrightarrow{\mathrm{B}}[/math]
+ ভেক্টরদ্বয় পরস্পর লম্ব । [math]\text { (Showed) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুটি ভেক্টর পরস্পর লম্ব যদি তাদের ডট প্রোডাক্ট শূন্য হয়। গণনা করে দেখা যায় [math]\overrightarrow{A}\cdot\overrightarrow{B}=8\times4+1\times(-2)+(-6)\times5=32-2-30=0[/math]। তাই [math]\overrightarrow{A}[/math] এবং [math]\overrightarrow{B}[/math] পরস্পর লম্ব।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408628)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. [math]\vec{a}=\hat{i}+3 \hat{j}-2 \hat{k}, \vec{b}=4 \hat{i}-2 \hat{j}+4 \hat{k}[/math] হলে [math]|\vec{a}-3 \overrightarrow{\mathrm{b}}|[/math] এর মান নির্ণয় কর।
+খ. [math]OA, OB, OC[/math] একটি আয়তাকার ঘনবস্তুর ধার হলে ঘনবস্তুটির আয়তন নির্ণয় কর ।
+গ. [math]ABC[/math] ত্রিভুজের মধ্যমা তিনটি [math]AD, BE[/math] ও [math]CF[/math] হলে, [math]A, B, C[/math] এর স্থানাঙ্ক ব্যবহার করে প্রমাণ কর যে, [math]\overrightarrow{\mathbf{AD}}+\overrightarrow{\mathbf{BE}}+\overrightarrow{\mathbf{CF}}=\underline 0[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\vec{a}-3 \vec{b}[/math]
+ [math]=\hat{i}+3 \hat{j}-2 \hat{k}-3[/math]
+ [math](4 \hat{i}-2 \hat{j}+4 \hat{k})[/math]
+ [math]= \hat{i}+3 \hat{j}-2[/math]
+ [math]\hat{k}-12 \hat{i}+6 \hat{j}[/math]
+ [math]-12 \hat{k}[/math]
+ [math]=-11 \hat{i}+9 \hat{j}-14 \hat{k}[/math]
+ [math]\therefore|\vec{a}-3 \vec{b}|[/math]
+ [math]=|-11 \hat{i}+9 \hat{j}[/math]
+ [math]-14 \hat{k}|[/math]
+ [math]=\sqrt{(-11)^{2}+9^{2}+(-14)^{2}}[/math]
+ [math]=\sqrt{121+^{2} 81+196}[/math]
+ [math]=\sqrt{398} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]\overrightarrow{O A}=4 \hat{i}-2 \hat{j}+2 \hat{k},[/math]
+ [math]\overrightarrow{O B}=\hat{i}+\hat{j}-\hat{k}[/math]
+ এবং[math]\mathrm{OA}, \mathrm{OB}, \mathrm{OC}[/math]
+ একটি আয়তাকার ঘনবস্তুর ধার হলে ঘনবস্তুটিরআয়তন [math]=(\overrightarrow{\mathrm{OA}} \times \overrightarrow{\mathrm{OB}})[/math]
+ [math]\cdot \overrightarrow{\mathrm{OC}}[/math]
+ [math]=\left|\begin{array}{ccc}4 & -2 & 2 \\1 & 1 & -1 \\0 & 1 & 1\end{array}\right|[/math]
+ [math]=4(1+1)+2(1+0)[/math]
+ [math]+2(1-0)[/math]
+ [math]=8+2+2[/math]
+ [math]=12[/math]
+ ঘন একক [math](Ans)[/math]
+ [math]\\[/math]
+ গ [math]\overrightarrow{\mathrm{AB}}[/math]
+ [math]=(1-4) \hat{\mathrm{i}}+(1+2)[/math]
+ [math]\hat{\mathrm{j}}+(-1-2) \hat{\mathrm{k}}[/math]
+ [math]=-3 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}[/math]
+ [math]-3 \hat{\mathrm{k}}[/math]
+ [math]\overrightarrow{\mathrm{BC}}[/math]
+ [math]=(0-1) \hat{\mathrm{i}}+(1-1) \hat{\mathrm{j}}[/math]
+ [math]+(1+1) \hat{\mathrm{k}}[/math]
+ [math]=-\hat{\mathrm{i}}+0 \hat{\mathrm{j}}[/math]
+ [math]+2 \hat{\mathrm{k}}[/math]
+ [math]\overrightarrow{\mathrm{CA}}[/math]
+ [math]=(4-0) \hat{\mathrm{i}}+(-2-1)[/math]
+ [math]\hat{\mathrm{j}}+(2-1) \hat{\mathrm{k}}[/math]
+ [math]=4 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}[/math]
+ [math]+\hat{\mathrm{k}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{AD}}[/math]
+ [math]=\frac{1}{2}(\overrightarrow{\mathrm{AB}}[/math]
+ [math]+\overrightarrow{\mathrm{AC}})[/math]
+ [math]=\frac{1}{2}(\overrightarrow{\mathrm{AB}}[/math]
+ [math]-\overrightarrow{\mathrm{CA}})[/math]
+ [math]=\frac{1}{2}(-3 \hat{\mathrm{i}}[/math]
+ [math]+3 \hat{\mathrm{j}}-3 \hat{\mathrm{k}}[/math]
+ [math]-4 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}[/math]
+ [math]-\hat{\mathrm{k}})[/math]
+ [math]=\frac{1}{2}(-7 \hat{\mathrm{i}}[/math]
+ [math]+6 \hat{\mathrm{j}}-4 \hat{\mathrm{k}})[/math]
+ [math]\overrightarrow{B E}[/math]
+ [math]=\frac{1}{2}(\overrightarrow{B A}[/math]
+ [math]+\overrightarrow{B C})[/math]
+ [math]=\frac{1}{2}[/math]
+ [math](3 \hat{i}-3 \hat{j}[/math]
+ [math]+3 \hat{k}-\hat{i}+0 \hat{j}[/math]
+ [math]+2 \hat{k})[/math]
+ [math]=\frac{1}{2}[/math]
+ [math](2 \hat{i}-3 \hat{j}[/math]
+ [math]+5 \hat{k})[/math]
+ [math]\overrightarrow{C F} =\frac{1}{2}[/math]
+ [math](\overrightarrow{C A}[/math]
+ [math]+\overrightarrow{C B})[/math]
+ [math]=\frac{1}{2}[/math]
+ [math](4 \hat{i}-3 \hat{j}+\hat{k}[/math]
+ [math]+\hat{i}-0 \hat{j}-2 \hat{k})[/math]
+ [math]=\frac{1}{2}[/math]
+ [math](5 \hat{i}-3 \hat{j}[/math]
+ [math]-\hat{k})[/math]
+ [math]\text { L.H.S } =\overrightarrow{A D}+\overrightarrow{B E}[/math]
+ [math]+\overrightarrow{C F}[/math]
+ [math]=\frac{1}{2}[/math]
+ [math](-7 \hat{i}+6 \hat{j}-4 \hat{k}[/math]
+ [math]+2 \hat{i}-3 \hat{j}+5 \hat{k}[/math]
+ [math]+5 \hat{i}-3 \hat{j}-\hat{k})[/math]
+ [math]=\frac{1}{2}[/math]
+ [math](-7 \hat{i}+7 \hat{i}[/math]
+ [math]+6 \hat{j}-6 \hat{j}-5 \hat{k}[/math]
+ [math]+5 \hat{k})[/math]
+ [math]=\frac{1}{2}(\underline{0})[/math]
+ [math]=\underline{0}[/math]
+ [math]=\text { R.H.S }[/math]
+ (প্রমাণিত)
+
+Explanation:
+ক [math]\vec{a}-3\vec{b}=(1,3,-2)-3(4,-2,4)=(-11,9,-14)[/math] তাই [math]|\vec{a}-3\vec{b}|=\sqrt{(-11)^2+9^2+(-14)^2}=\sqrt{398}[/math].
+
+খ তিনটি সংলগ্ন ধার [math]\vec{OA},\vec{OB},\vec{OC}[/math] হলে ঘনবস্তুর আয়তন হল স্কেলার ট্রিপল প্রোডাক্টের পরিমাণ: [math]V=\big|\vec{OA}\cdot(\vec{OB}\times\vec{OC})\big|[/math]।
+
+গ স্থানাঙ্কধরা অবস্থার রশ্মি ধরলে নিন [math]\vec{A},\vec{B},\vec{C}[/math] তিনটির স্থানাঙ্ক-রশ্মি; এরপর মধ্যবিন্দুদের কারণে [math]\overrightarrow{AD}=\tfrac{\vec{B}+\vec{C}-2\vec{A}}{2},\ \overrightarrow{BE}=\tfrac{\vec{C}+\vec{A}-2\vec{B}}{2},\ \overrightarrow{CF}=\tfrac{\vec{A}+\vec{B}-2\vec{C}}{2}[/math] এবং যোগ করলে নিউমেরেটর শূন্য হয়, ফলে [math]\overrightarrow{AD}+\overrightarrow{BE}+\overrightarrow{CF}=\vec{0}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 408627)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] ত্রিভুজের [math]BC, CA, AB[/math] বাহুগুলির মধ্যবিন্দু যথাক্রমে [math]D, E, F[/math]
+
+Options:
+ক. [math]\hat{i}-\hat{j}+\hat{k}, 2 \hat{i}[/math] [math]+2 \hat{j}-\hat{k}, \lambda \hat{i}-\hat{j}[/math] [math]+\lambda \hat{k}[/math] ভেক্টর তিনটি সমতলীয় হলে [math]\lambda[/math] এর মান নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}+\overrightarrow{\mathrm{CF}}=\underline{0}[/math]
+গ. ভেক্টর পদ্ধতিতে দেখাও যে, [math]AD, BE[/math] ও [math]CF[/math] সমবিন্দু।
+
+
+Correct Answer: 
+
+Solution:
+কমনে করি, [math]\mathbf{M}=\hat{\mathrm{i}}-\hat{\mathrm{j}}[/math]
+ [math]+\hat{\mathrm{k}}, \mathbf{N}[/math]
+ [math]=2 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}[/math]
+ [math]-\hat{\mathrm{k}}[/math]
+ [math]\mathbf{P}=\lambda \hat{i}-\hat{j}+\lambda \hat{k}[/math]
+M, N, P ভেক্টর তিনটি সমতলীয় হলে[math]\left|\begin{array}{ccc}1 & -1 & 1 \\2 & 2 & -1 \\\lambda & -1 & \lambda\end{array}\right|[/math]
+ [math]=0[/math]
+ হবে ।[math]= 1(2 \lambda-1)[/math]
+ [math]-(-1)(2 \lambda+\lambda)[/math]
+ [math]+1(-2-2 \lambda)=0[/math]
+ [math]= 2 \lambda-1+3 \lambda[/math]
+ [math]-2-2 \lambda=0[/math]
+ [math]= 3 \lambda-3=0[/math]
+ [math]\therefore \lambda=1 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+[math]\triangle \mathrm{ABC}[/math]
+ এর [math]BC, CA[/math]
+ এবং [math]AB[/math]
+ বাহুর মধ্যবিন্দু যথাক্রমে [math]D, E,[/math]
+F; প্রমাণ করতে হবে [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}+\overrightarrow{\mathrm{CF}}[/math]
+ [math]=0[/math]
+যেহেতু [math]BC[/math]
+ এর মধ্যবিন্দু [math]D[/math]
+, সুতরাং [math]AD[/math]
+ একটি মধ্যমা।অতএব , [math]\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}}[/math]
+ [math]=(1+1) \overrightarrow{\mathrm{AD}}[/math]
+ [math]=2 \overrightarrow{\mathrm{AD}}[/math]
+ [math].........[/math]
+ (i) [অনুপাত সূত্র ]তদ্রুপ [math]\overrightarrow{\mathrm{BA}}+\overrightarrow{\mathrm{BC}}[/math]
+ [math]=2 \overrightarrow{\mathrm{BE}}[/math]
+ [math]..........[/math]
+(ii)এবং [math]\overrightarrow{C A}+\overrightarrow{C B}[/math]
+ [math]=2 \overrightarrow{C F}[/math]
+ [math]\ldots \ldots \text { (iii) }[/math]
+ [math]\text { (i) }+ \text { (ii) }+ \text { (iii) }[/math]
+ [math]\Rightarrow \overrightarrow{A B}+\overrightarrow{A C}[/math]
+ [math]+\overrightarrow{B A}[/math]
+ [math]+\overrightarrow{B C}+\overrightarrow{C A}[/math]
+ [math]+\overrightarrow{C B}[/math]
+ [math]=2[/math]
+ [math](\overrightarrow{A D}+\overrightarrow{B E}+\overrightarrow{C F})[/math]
+ [math]\Rightarrow(\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{BA}})+(\overrightarrow{\mathrm{AC}}+\overrightarrow{\mathrm{CA}})[/math]
+ [math]+(\overrightarrow{\mathrm{BC}}+\overrightarrow{\mathrm{CB}})[/math]
+ [math]=2(\overrightarrow{\mathrm{AD}}[/math]
+ [math]+\overrightarrow{\mathrm{BE}}[/math]
+ [math]+\overrightarrow{\mathrm{CF}})[/math]
+ [math]\Rightarrow \underline{0}=2(\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}[/math]
+ [math]+\overrightarrow{\mathrm{CF}})[/math]
+অতএব, [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}[/math]
+ [math]+\overrightarrow{\mathrm{CF}}[/math]
+ [math]=\underline{0}[/math]
+ যেহেতু [math]\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{BA}}[/math]
+ [math]=\underline{0}, \overrightarrow{\mathrm{AC}}+[/math]
+ [math]\overrightarrow{\mathrm{CA}}[/math]
+ [math]=\underline{0}[/math]
+ এবং [math]\overrightarrow{\mathrm{BC}}[/math]
+ [math]+\overrightarrow{\mathrm{CB}}[/math]
+ [math]=\underline{0} ][/math]
+ [math]\\[/math]
+ গমনে করি, G বিন্দু AD মধ্যমাকে [math]2: 1[/math]
+ অনুপাতে অন্তর্বিভক্ত করে।[math]\therefore \mathrm{G}[/math]
+ ধিন্দুর অবস্থান ভেক্টর: [math]=\frac{2 \cdot\left(\frac{\mathbf{b}+\mathbf{c}}{2}\right)+1 \cdot \mathbf{a}}{2+1}[/math]
+ [math]=\frac{\mathbf{a}+\mathbf{b}+\mathbf{c}}{3}[/math]
+আবার, যদি H ও I বিন্দু যথাক্রমে BE ও CF মধ্যমাকে যথাক্রমে [math]2 : 1[/math]
+ অনুপাতে অন্তর্বিভক্ত করে, তাহলে H বিন্দুর অবস্থান ভেক্টর[math]=\frac{2 \cdot\left(\frac{a+c}{2}\right)+1 \cdot b}{2+1}[/math]
+ [math]=\frac{a+b+c}{3}[/math]
+এবং I বিন্দুর অবস্থান ভেক্টর [math]=\frac{2 \cdot\left(\frac{a+b}{2}\right)+1 c}{2+1}[/math]
+ [math]=\frac{a+b+c}{3}[/math]
+ [math]\therefore \mathrm{G}, \mathrm{H}[/math]
+ ও I বিন্দুত্রয়ের অবস্থান ভেক্টর একই এবং তা হলো: [math]\frac{\mathbf{a}+\mathbf{b}+\mathbf{c}}{3}[/math]
+ [math]\therefore A B C[/math]
+ ত্রিভুজের মধ্যমাত্রয় সমবিন্দু । (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা:
+
+ক তিনটি ভেক্টর সমতলীয় হলে scalar triple product শূন্য, তাই [math](\hat{i}-\hat{j}+\hat{k})\cdot\{(2\hat{i}+2\hat{j}-\hat{k})\times(\lambda\hat{i}-\hat{j}+\lambda\hat{k})\}=0[/math]। হিসাব করলে ক্রস [math]=(2\lambda-1)\hat{i}-3\lambda\hat{j}+(-2-2\lambda)\hat{k}[/math] হয় এবং ডট দিলে [math]3\lambda-3=0[/math], সুতরাং [math]\lambda=1[/math]।
+
+খ অবস্থান ভেক্টর ধরে ধরা হলে [math]\vec{A}=\vec{a},\ \vec{B}=\vec{b},\ \vec{C}=\vec{c}[/math] এবং মধ্যবিন্দুগুলো [math]\vec{D}=(\vec{b}+\vec{c})/2,\ \vec{E}=(\vec{c}+\vec{a})/2,\ \vec{F}=(\vec{a}+\vec{b})/2[/math]। তখন [math]\vec{AD}+\vec{BE}+\vec{CF}=\tfrac{-2\vec{a}+\vec{b}+\vec{c}+\vec{a}-2\vec{b}+\vec{c}+\vec{a}+\vec{b}-2\vec{c}}{2}=\underline{0}[/math]।
+
+গ কেন্দ্রবিন্দু (centroid) [math]\vec{G}=(\vec{a}+\vec{b}+\vec{c})/3[/math] নিলে [math]\vec{AG}=\vec{G}-\vec{a}=\tfrac{-2\vec{a}+\vec{b}+\vec{c}}{3}=\tfrac{2}{3}\big(\tfrac{\vec{b}+\vec{c}}{2}-\vec{a}\big)=\tfrac{2}{3}\vec{AD}[/math], তাই [math]G[/math] সব-মধ্যরেখায় অবস্থান করে এবং [math]AD,\,BE,\,CF[/math] একবিন্দুকে ছেদ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 408626)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\underline{{a}}, \underline{\mathbf{b}}, \underline{c}[/math] এরূপ তিনটি ভেক্টর যেন [math]\underline{a}+\underline{b}+\underline{c}=0[/math]
+
+Options:
+ক. [math]|\underline a|=3,|\underline b|=5[/math] এবং [math]|\underline c|=7[/math] হলে, দেখাও যে, [math]\underline{\mathbf{a}}[/math] ও [math]\underline{\mathrm{b}}[/math] ভেক্টর দুইটির মধ্যবর্তী কোণ [math]\frac{2 \pi}{3}[/math] রেডিয়ান ।
+খ. প্রমাণ কর যে, [math]|\underline{a} \times \underline{b}|^{2}[/math] [math]+|\underline{a} \cdot \underline{b}|^{2}=|\mathrm{a}|^{2}|\underline{b}|^{2}[/math]
+গ. উদ্দীপকের [math]\triangle \mathrm{ABC}[/math] থেকে দেখাও যে, [math]a^{2}=b^{2}+c^{2}[/math] [math]-2 b c \cos A[/math]
+
+
+Correct Answer: 
+
+Solution:
+কআমরা জানি, যেকোনো ABC ত্রিভুজে,[math]c^{2}=a^{2}+b^{2}[/math]
+ [math]-2 a b \cos C[/math]
+ [math]= 2 a b \cos C[/math]
+ [math]=a^{2}+b^{2}-c^{2}[/math]
+ [math]= 30 \cos C[/math]
+ [math]=9+25-49[/math]
+ [math],[a, b, c[/math]
+ এর মান বসিয়ে ][math]= 30 \cos C=-15[/math]
+ [math]= \cos C=\frac{-15}{30}[/math]
+ [math]=\frac{-1}{2}[/math]
+ [math]=\cos \frac{2 \pi}{3}[/math]
+ [math]\therefore a[/math]
+ ও b ভেক্টর দুইটির মধ্যবর্তী কোণ [math]C=\frac{2 \pi}{3}[/math]
+ [math]\\[/math]
+ খআমরা জানি, [math]\underline{\mathrm{a}} \times \underline{\mathrm{b}}[/math]
+ [math]=\mathrm{ab} \sin \theta \hat{\eta}[/math]
+এবং [math]\underline{a} \cdot \underline{b}[/math]
+ [math]=a b \cos \theta[/math]
+ যখন [math]\underline{\mathrm{a}}[/math]
+ ও [math]\underline{\mathrm{b}}[/math]
+ এর মধ্যবর্তী কোণ [math]\theta \text {. }[/math]
+বামপক্ষ [math]=|\underline{a} \times \underline{b}|^{2}[/math]
+ [math]+|\underline{a} \cdot \underline{b}|^{2}[/math]
+ [math]=|a b \sin \theta \hat{\eta}|^{2}[/math]
+ [math]+|a b \cos \theta|^{2}[/math]
+ [math]=a^{2} b^{2} \sin ^{2} \theta[/math]
+ [math]+a^{2} b^{2} \cos ^{2} \theta[/math]
+ [math]=a^{2} b^{2}[/math]
+ [math]\left(\sin ^{2} \theta+\cos ^{2} \theta\right)[/math]
+ [math]=\mathrm{a}^{2} \mathrm{~b}^{2}[/math]
+ [math]=|\underline{\mathrm{a}}|^{2}|\underline{\mathrm{b}}|^{2}=[/math]
+ ডানপক্ষ। (প্রমাণিত)[math]\\[/math]
+ গদেওয়া আছে, ABC ত্রিভুজে, [math]\underline{\mathrm{a}}+\underline{\mathrm{b}}+\underline{\mathrm{c}}[/math]
+ [math]=\underline{0}[/math]
+ [math]= \underline{b}+\underline{c}=-a \Rightarrow(\underline{b}+\underline{c}) \cdot(\underline{b}+\underline{c})=(-a) \cdot(-\underline{a})[/math]
+ [math]= \underline{b} \cdot \underline{b}[/math]
+ [math]+\underline{c} \cdot \underline{b}+\underline{b} \cdot \underline{c}[/math]
+ [math]+\underline{c} \cdot \underline{c}[/math]
+ [math]=a^{2}[/math]
+ [math]= b^{2}+2 \cdot b[/math]
+ [math]\cdot c+c^{2}=a^{2}[/math]
+ যেহেতু [math]\underline{\mathrm{c}}[/math]
+ [math]\cdot \underline{\mathrm{b}}[/math]
+ [math]=\underline{\mathrm{b}}[/math]
+ [math]\cdot \underline{\mathrm{c}}[/math]
+ [math]= b^{2}+2 b c \cos[/math]
+ [math](\pi-A)+c^{2}=a^{2}[/math]
+ [math]= b^{2}-2 b c \cos[/math]
+ [math]A+c^{2}=a^{2}[/math]
+ [math]\therefore a^{2}=b^{2}+c^{2}-2 b c \cos A[/math]
+ (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা:
+
+ক যেহেতু [math]\underline a+\underline b+\underline c=0[/math], তাই [math]\underline c=-(\underline a+\underline b)[/math] এবং
+[math]|\underline c|^{2}=|\underline a+\underline b|^{2}=|\underline a|^{2}+|\underline b|^{2}+2\underline a\cdot\underline b[/math].
+সংখ্যাগুলো বসালে [math]49=9+25+2\underline a\cdot\underline b[/math] থেকে [math]\underline a\cdot\underline b=15/2[/math]. তিনটি ভেক্টর যেভাবে তির্যকভাবে গঠিত হয়, তাতে ত্রিভুজের অন্তর্গত কোণটি হলো [math]\angle(-\underline a,\underline b)[/math]; তাই
+[math]\cos\angle(-\underline a,\underline b)=-\dfrac{\underline a\cdot\underline b}{|\underline a||\underline b|}=-\dfrac{15/2}{3\cdot5}=-\tfrac12[/math],
+অতএব কোণটি [math]2\pi/3[/math] রেডিয়ান।
+
+খ যদি দুই ভেক্টরের মধ্যের কোণ [math]\theta[/math] হয়, তাহলে [math]|\underline a\times\underline b|=|\underline a||\underline b|\sin\theta[/math] এবং [math]\underline a\cdot\underline b=|\underline a||\underline b|\cos\theta[/math]; তাই
+[math]|\underline a\times\underline b|^{2}+|\underline a\cdot\underline b|^{2}=|\underline a|^{2}|\underline b|^{2}(\sin^{2}\theta+\cos^{2}\theta)=|\underline a|^{2}|\underline b|^{2}.[/math]
+
+গ এটি কোসাইন সূত্র: ত্রিভুজে দুই বাহু [math]b[/math] ও [math]c[/math] এবং তাদের মধ্যবর্তী কোণ [math]A[/math] হলে পার্শ্ব [math]a[/math] সম্পর্কে
+[math]a^{2}=b^{2}+c^{2}-2bc\cos A[/math] থাকে (ভৌগোলিকভাবে একটি বাহুকে অন্যটির প্রক্ষেপ এবং উচ্চতার যোগফল থেকে সরাসরি প্রমাণ করা যায়)।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 408625)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{ABC}[/math] ত্রিভুজের [math]\mathrm{BC}, \mathrm{CA}, \mathrm{AB}[/math] বাহুর মধ্যবিন্দু যথাক্রমে [math]\mathrm {D, E, F}[/math]
+
+Options:
+ক. [math]\hat{i}+2 \hat{j}-3 \hat{k}[/math] ও [math]\lambda \hat{i}-5 \hat{j}+\hat{k}[/math] পরস্পর লম্ব হলে [math]\lambda[/math] এর মান নির্ণয় কর ।
+খ. দেখাও যে, [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}[/math] [math]+\overrightarrow{\mathrm{CF}}=\underline{0}[/math]
+গ. উদ্দীপক থেকে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, [math]{A B^{2}}^{}+\mathrm{AC}^{2}[/math] [math]=2\left(\mathrm{AD}^{2}+\mathrm{BD}^{2}\right)[/math]
+
+
+Correct Answer: 
+
+Solution:
+কআমরা জানি, দুইটি ভেক্টর লম্ব হলে এদের ডট গুণফল [math]= 0[/math]
+সুতরাং [math](\hat{i}+2 \hat{j}-3 \hat{k})[/math]
+ [math]\cdot(\lambda \hat{i}-5 \hat{j}+\hat{k})[/math]
+ [math]=0[/math]
+ [math]\Rightarrow \lambda-10-3[/math]
+ [math]=0[/math]
+ [math]\Rightarrow \lambda=13 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ
+[Image]
+[math]\triangle \mathrm{ABC}[/math]
+ এর [math]BC, CA[/math]
+ এবং [math]AB[/math]
+ বাহুর মধ্যবিন্দু যথাক্রমে [math]D, E,[/math]
+ [math]F;[/math]
+ প্রমাণ করতে হবে [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}[/math]
+ [math]+\overrightarrow{\mathrm{CF}}=0[/math]
+যেহেতু [math]BC[/math]
+ এর মধ্যবিন্দু [math]D[/math]
+, সুতরাং [math]AD[/math]
+ একটি মধ্যমা।অতএব , [math]\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}}[/math]
+ [math]=(1+1) \overrightarrow{\mathrm{AD}}[/math]
+ [math]=2 \overrightarrow{\mathrm{AD}}[/math]
+ [math].........[/math]
+(i) [অনুপাত সূত্র ]তদ্রুপ [math]\overrightarrow{\mathrm{BA}}+\overrightarrow{\mathrm{BC}}[/math]
+ [math]=2 \overrightarrow{\mathrm{BE}}[/math]
+ [math]..........[/math]
+(ii)এবং [math]\overrightarrow{C A}+\overrightarrow{C B}[/math]
+ [math]=2 \overrightarrow{C F}[/math]
+ [math]\ldots \ldots \text { (iii) }[/math]
+ [math]\text { (i) }+ \text { (ii) }+ \text { (iii) }[/math]
+ [math]\Rightarrow \overrightarrow{A B}+\overrightarrow{A C}+\overrightarrow{B A}[/math]
+ [math]+\overrightarrow{B C}+\overrightarrow{C A}+\overrightarrow{C B}[/math]
+ [math]=2(\overrightarrow{A D}+\overrightarrow{B E}+\overrightarrow{C F})[/math]
+ [math]{l}\Rightarrow(\overrightarrow{\mathrm{AB}}[/math]
+ [math]+\overrightarrow{\mathrm{BA}})[/math]
+ [math]+(\overrightarrow{\mathrm{AC}}+\overrightarrow{\mathrm{CA}})[/math]
+ [math]+(\overrightarrow{\mathrm{BC}}+\overrightarrow{\mathrm{CB}})[/math]
+ [math]=2(\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}[/math]
+ [math]+\overrightarrow{\mathrm{CF}})[/math]
+ [math]\Rightarrow \underline{0}=2[/math]
+ [math](\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}+\overrightarrow{\mathrm{CF}})[/math]
+অতএব, [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{BE}}[/math]
+ [math]+\overrightarrow{\mathrm{CF}}[/math]
+ [math]=\underline{0}[/math]
+ যেহেতু [math]\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{BA}}[/math]
+ [math]=\underline{0}, \overrightarrow{\mathrm{AC}}+[/math]
+ [math]\overrightarrow{\mathrm{CA}}=\underline{0}[/math]
+ এবং [math]\overrightarrow{\mathrm{BC}}+\overrightarrow{\mathrm{CB}}=\underline{0} ][/math]
+ [math]\\[/math]
+ গ
+[Image]
+মনে করি, ABC ত্রিভুজের BC বাহুর মধ্যবিন্দু [math]D[/math]
+। [math]A D[/math]
+ যোগ করি।[math]\triangle \mathrm{ABD}[/math]
+ হতে ভেক্টর যোগের ত্রিভুজসুত্রানুসারে [math]\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{DB}}=\overrightarrow{\mathrm{AB}}[/math]
+স্ব-স্ব পক্ষের সাথে ডট গুণ করে,[math]\overrightarrow{\mathrm{AB}} \cdot \overrightarrow{\mathrm{AB}}[/math]
+ [math]=(\overrightarrow{\mathrm{AD}}[/math]
+ [math]+\overrightarrow{\mathrm{DB}}) \cdot(\overrightarrow{\mathrm{AD}}[/math]
+ [math]+\overrightarrow{\mathrm{DB}})[/math]
+ [math]=\mathrm{AB}^{2}[/math]
+ [math]=\mathrm{AD}^{2}+\mathrm{DB}^{2}[/math]
+ [math]+\overrightarrow{\mathrm{AD}}[/math]
+ [math]\cdot \overrightarrow{\mathrm{DB}}[/math]
+ [math]+\overrightarrow{\mathrm{DB}} \cdot \overrightarrow{\mathrm{AD}}[/math]
+ [math]\therefore \mathrm{AB}^{2}[/math]
+ [math]=\mathrm{AD}^{2}+\mathrm{DB}^{2}+2 \overrightarrow{\mathrm{AD}}[/math]
+ [math]\cdot \overrightarrow{\mathrm{DB}}[/math]
+ [math].............[/math]
+(i)অনুরূপভাবে, ACD ত্রিভুজে [math]\overrightarrow{\mathrm{AC}}[/math]
+ [math]=\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{DC}}[/math]
+ [math]\overrightarrow{A C} \cdot \overrightarrow{A C}[/math]
+ [math]=(\overrightarrow{A D}+\overrightarrow{D C})[/math]
+ [math]\cdot(\overrightarrow{A D}+\overrightarrow{D C})[/math]
+[ স্ব-স্ব পক্ষের সাথে ডটগুণন করে][math]= \mathrm{AC}^{2}[/math]
+ [math]=\mathrm{AD}^{2}+\mathrm{DC}^{2}+2[/math]
+ [math]\overrightarrow{\mathrm{AD}} \cdot \overrightarrow{\mathrm{DC}}[/math]
+ [math]\therefore \mathrm{AC}^{2}=\mathrm{AD}^{2}+\mathrm{DB}^{2}+2[/math]
+ [math]\cdot \overrightarrow{\mathrm{AD}}[/math]
+ [math]\cdot \overrightarrow{\mathrm{DC}}[/math]
+ [math]\left[\because \mathrm{DC}^{2}=\mathrm{DB}^{2}\right][/math]
+ [math].......(ii)[/math]
+(i) ও (ii) যোগ করে পাই,[math]\mathrm{AB}^{2}+\mathrm{AC}^{2}=2[/math]
+ [math]\mathrm{AD}^{2}+2 \mathrm{DB}^{2}[/math]
+ [math]+2 \overrightarrow{\mathrm{AD}}[/math]
+ [math]\cdot(\overrightarrow{\mathrm{DB}}+\overrightarrow{\mathrm{DC}})[/math]
+ [math]\therefore \mathrm{AB}^{2}+\mathrm{AC}^{2}=2[/math]
+ [math]\left(\mathrm{AD}^{2}+\mathrm{BD}^{2}\right)[/math]
+ [math]\cdot[\because \overrightarrow{\mathrm{DB}}+\overrightarrow{\mathrm{DC}}=0][/math]
+(প্রমাণিত)
+
+Explanation:
+ক দুই ভেক্টর পরস্পর লম্ব হলে তাদের ডট গুণ শূন্য: [math](1)(\lambda)+ (2)(-5)+(-3)(1)=0[/math] তাই [math]\lambda-10-3=0[/math] এবং [math]\lambda=13[/math]।
+
+খ অবস্থান ভেক্টর ধরে নেই [math]\vec{A}=\vec a,\ \vec{B}=\vec b,\ \vec{C}=\vec c[/math], আর মাঝবিন্দু [math]\vec D=(\vec b+\vec c)/2,\ \vec E=(\vec c+\vec a)/2,\ \vec F=(\vec a+\vec b)/2[/math]; তাহলে যোগ করলে [math]\overrightarrow{AD}+\overrightarrow{BE}+\overrightarrow{CF}=(\tfrac{\vec b+\vec c}{2}-\vec a)+(\tfrac{\vec c+\vec a}{2}-\vec b)+(\tfrac{\vec a+\vec b}{2}-\vec c)=\vec 0[/math] হয়।
+
+গ একইভাবে [math]\vec d=(\vec b+\vec c)/2[/math] নেওয়া হলে [math]\overrightarrow{AB}=\vec b-\vec a,\ \overrightarrow{AC}=\vec c-\vec a,\ \overrightarrow{AD}=\vec d-\vec a,\ \overrightarrow{BD}=\vec d-\vec b=(\vec c-\vec b)/2[/math]. সরাসরি বর্গ যোগ করলে দেখা যায়
+[math]|\vec b-\vec a|^2+|\vec c-\vec a|^2=2\big(|\vec d-\vec a|^2+|\tfrac{\vec c-\vec b}{2}|^2\big)=2(\mathrm{AD}^2+\mathrm{BD}^2)[/math], ফলে দাবি প্রমাণিত।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 408624)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]PQR[/math] ত্রিভুজের [math]S, T[/math] এবং [math]U[/math] যথাক্রমে [math]QR, RP[/math] এবং [math]PQ[/math] এর মধ্যবিন্দু।
+
+Options:
+ক. [math]\overrightarrow{\mathrm{OA}}=\mathbf{a}[/math] ও [math]\overrightarrow{\mathrm{OB}}=\mathbf{b}[/math] দুইটি অসমান্তরাল ভেক্টর হলে দেখাও যে, [math]\overrightarrow{B A}=a-b[/math]
+খ. উদ্দীপক থেকে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, [math]P Q^{2}+P R^{2}=2[/math] [math]\left(P S^{2}+QS^{2}\right)[/math]
+গ. দেখাও যে, [math]\overrightarrow{\mathrm{PS}}+\overrightarrow{\mathrm{QT}}+\overrightarrow{\mathrm{RU}}=\mathbf{0}[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+দেওয়া আছে, [math]\overrightarrow{O A}=a[/math]
+ এবং [math]\overrightarrow{\mathrm{OB}}=\mathbf{b}[/math]
+ দুইটি অসমান্তরাল ভেক্টর। এখানে a 3 b উভয়ের আদি বিন্দু O এবং প্রান্ত বিন্দু যথাক্রমে A ও B ;ভেক্টর যোগের ত্রিভুজ সূত্রের সাহায্যে পাই, [math]\overrightarrow{\mathrm{OB}}+\overrightarrow{\mathrm{BA}}=\overrightarrow{\mathrm{OA}}[/math]
+ [math]=\overrightarrow{\mathrm{OB}}+\overrightarrow{\mathrm{BA}}+\overrightarrow{\mathrm{BO}}[/math]
+ [math]=\overrightarrow{\mathrm{OA}}[/math]
+ [math]+\overrightarrow{\mathrm{BO}}[/math]
+ [উভয় পার্শ্বে [math]\overrightarrow{\mathrm{BO}}[/math]
+ যোগ করে][math]= \overrightarrow{\mathrm{OB}}+\overrightarrow{\mathrm{BA}}-\overrightarrow{\mathrm{OB}}[/math]
+ [math]=\overrightarrow{\mathrm{OA}}-\overrightarrow{\mathrm{OB}}[\overrightarrow{\mathrm{BO}}[/math]
+ [math]=-\overrightarrow{\mathrm{OB}}][/math]
+ [math]=\overrightarrow{\mathrm{BA}}[/math]
+ [math]=\overrightarrow{\mathrm{OA}}-\overrightarrow{\mathrm{OB}}[/math]
+ [math]= \overrightarrow{\mathrm{BA}}[/math]
+ [math]=\overrightarrow{\mathrm{OA}}-\overrightarrow{\mathrm{OB}}[/math]
+ [math]\therefore \overrightarrow{B A}=\mathbf{a}-\mathbf{b}[/math]
+ (দেখানো হলো)[math]\\[/math]
+ খ
+[Image]
+দেওয়া আছে, [math]S, QR[/math]
+ বাহুর মধ্যবিন্দু। [math]P, S[/math]
+যোগ করি । [math]\triangle \mathrm{PQS}[/math]
+ ত্রিভুজে ভেক্টর যোগের ত্রিভুজ সূত্র হতে পাই,[math]\overrightarrow{\mathrm{PQ}}=\overrightarrow{\mathrm{PS}}+\overrightarrow{\mathrm{SQ}}[/math]
+ [math]= \overrightarrow{\mathrm{PQ}} \cdot \overrightarrow{\mathrm{PQ}}[/math]
+ [math]=(\overrightarrow{\mathrm{PS}}[/math]
+ [math]+\overrightarrow{\mathrm{SQ}}) \cdot \overrightarrow{(\mathrm{PS}}[/math]
+ [math]+\overrightarrow{\mathrm{SQ}})[/math]
+ [math]\mathrm{PQ}^{2}=\mathrm{PS}^{2}+\mathrm{SQ}^{2}[/math]
+ [math]+\overrightarrow{\mathrm{PS}}[/math]
+ [math]\cdot \overrightarrow{\mathrm{SQ}}[/math]
+ [math]+\overrightarrow{\mathrm{SQ}} \cdot \overrightarrow{\mathrm{PS}}[/math]
+ [math]=\mathrm{PS}^{2}+\mathrm{QS}^{2}[/math]
+ [math]+2 \overrightarrow{\mathrm{PS}} \cdot \overrightarrow{\mathrm{SQ}}[/math]
+ [math]\ldots \ldots \ldots \text { (i) }[/math]
+ [math][\because \overrightarrow{\mathrm{PS}} \cdot \overrightarrow{\mathrm{SQ}}=\overrightarrow{\mathrm{SQ}} \cdot \overrightarrow{\mathrm{PS}}][/math]
+আবার, [math]\triangle \mathrm{PRS}[/math]
+ হতে [math]\overrightarrow{\mathrm{PR}}[/math]
+ [math]=\overrightarrow{\mathrm{PS}}[/math]
+ [math]+\overrightarrow{\mathrm{SR}}[/math]
+ [math]\overrightarrow{\mathrm{PR}} \cdot \overrightarrow{\mathrm{PR}}[/math]
+ [math]=(\overrightarrow{\mathrm{PS}}[/math]
+ [math]+\overrightarrow{\mathrm{SR}}) \cdot(\overrightarrow{\mathrm{PS}}[/math]
+ [math]+\overrightarrow{\mathrm{SR}})[/math]
+ [math]\mathrm{PR}^{2}=\mathrm{PS}^{2}+\mathrm{SR}^{2}[/math]
+ [math]+\overrightarrow{\mathrm{PS}}[/math]
+ [math]\cdot \overrightarrow{\mathrm{SR}}+\overrightarrow{\mathrm{SR}}[/math]
+ [math]\cdot \overrightarrow{\mathrm{PS}}[/math]
+ [math]=\mathrm{PS}^{2}+\mathrm{SR}^{2}[/math]
+ [math]+2 \overrightarrow{\mathrm{PS}} \cdot \overrightarrow{\mathrm{SR}}[/math]
+ [math]..........[/math]
+(ii)(i) ও (ii) যোগ করে পাই,[math]\mathrm{PQ}^{2}+\mathrm{PR}^{2}=2\left(\mathrm{PS}^{2}+\mathrm{QS}^{2}\right)+2 \overrightarrow{\mathrm{PS}} \cdot(\overrightarrow{\mathrm{SQ}}+\overrightarrow{\mathrm{SR}})[/math]
+ [math]\therefore \mathrm{PQ}^{2}+\mathrm{PR}^{2}[/math]
+ [math]=2\left(\mathrm{PS}^{2}+\mathrm{QS}^{2}\right)[/math]
+ [math][\because \overrightarrow{\mathrm{SQ}}+\overrightarrow{\mathrm{SR}}=\mathbf{0}][/math]
+(প্রমাণিত)[math]\\[/math]
+ গ
+[Image]
+দেওয়া আছে,[math]S, T, U[/math]
+ যথাক্রমে [math]QR, RP[/math]
+ ও [math]PQ[/math]
+ বাহুর মধ্যবিন্দু।[math]P, S; Q, T; R, U[/math]
+ যোগ করি ।এখন, [math]\triangle \mathrm{PQS}[/math]
+ হতে পাই, [math]\overrightarrow{\mathrm{PS}}=\overrightarrow{\mathrm{PQ}}+\overrightarrow{\mathrm{QS}}[/math]
+ [math]\ldots \ldots \ldots[/math]
+ (i)অনুরূপভাবে, [math]\overrightarrow{\mathrm{PS}}=\overrightarrow{\mathrm{PR}}+\overrightarrow{\mathrm{RS}}[/math]
+ [math]\ldots \ldots[/math]
+(ii) [math][\triangle \mathrm{PRS}[/math]
+ হতে ](i) নং ও (ii) নং যোগ করে পাই[math]2 \overrightarrow{\mathrm{PS}}=\overrightarrow{\mathrm{PQ}}+\overrightarrow{\mathrm{PR}}+(\overrightarrow{\mathrm{QS}}+\overrightarrow{\mathrm{RS}})[/math]
+ [math]=\overrightarrow{\mathrm{PQ}}+\overrightarrow{\mathrm{PR}}[/math]
+ [math][\because \overrightarrow{\mathrm{QS}}+\overrightarrow{\mathrm{RS}}=0][/math]
+অনুরূপভাবে, [math]2 \overrightarrow{\mathrm{QT}}=\overrightarrow{\mathrm{QP}}+\overrightarrow{\mathrm{QR}}[/math]
+ এবং [math]2 \overrightarrow{\mathrm{RU}}=\overrightarrow{\mathrm{RP}}+\overrightarrow{\mathrm{RQ}}[/math]
+যোগ করে,[math]2(\overrightarrow{\mathrm{PS}}+\overrightarrow{\mathrm{QT}}+\overrightarrow{\mathrm{RU}})[/math]
+ [math]=\overrightarrow{\mathrm{PQ}}+\overrightarrow{\mathrm{PR}}[/math]
+ [math]+\overrightarrow{\mathrm{QP}}[/math]
+ [math]+\overrightarrow{\mathrm{QR}}+\overrightarrow{\mathrm{RP}}+\overrightarrow{\mathrm{RQ}}[/math]
+ [math](\overrightarrow{\mathrm{PQ}}-\overrightarrow{\mathrm{PQ}})+(\overrightarrow{\mathrm{QR}}[/math]
+ [math]-\overrightarrow{\mathrm{QR}})+(\overrightarrow{\mathrm{RP}}[/math]
+ [math]-\overrightarrow{\mathrm{RP}})[/math]
+ [math]=\mathbf{0}[/math]
+ [math]\therefore \overrightarrow{\mathrm{PS}}+\overrightarrow{\mathrm{QT}}+\overrightarrow{\mathrm{RU}}=0[/math]
+ (দেখানো হলো)
+
+Explanation:
+ক কারণ [math]\overrightarrow{BA}=\overrightarrow{OA}-\overrightarrow{OB}[/math] এবং [math]\overrightarrow{OA}=\mathbf{a},\ \overrightarrow{OB}=\mathbf{b}[/math] হলে [math]\overrightarrow{BA}=\mathbf{a}-\mathbf{b}[/math]। 
+
+খ P-কে উৎস ধরে [math]\vec{PQ}=\mathbf{q},\ \vec{PR}=\mathbf{r}[/math] নিলে S-এর স্থানাঙ্ক [math]\mathbf{s}=(\mathbf{q}+\mathbf{r})/2[/math]; তাই
+[math]| \mathbf{q}|^{2}+|\mathbf{r}|^{2}=2\big(|\mathbf{s}|^{2}+|\mathbf{q}-\mathbf{s}|^{2}\big)[/math]
+কারণ বাম পাশের সরলীকরণ করলে ডট উৎপাদনের মাধ্যমে মধ্যবর্তী členগুলো বাতিল হয়ে সমান হয়। (এইই প্রদত্ত সমীকরণ।)
+
+গ P,Q,R-এর স্থানাঙ্ক যথাক্রমে [math]\mathbf{p},\mathbf{q},\mathbf{r}[/math] ধরে S,T,U হলে
+[math]\mathbf{s}=(\mathbf{q}+\mathbf{r})/2,\ \mathbf{t}=(\mathbf{r}+\mathbf{p})/2,\ \mathbf{u}=(\mathbf{p}+\mathbf{q})/2[/math],
+তাহলে
+[math]\overrightarrow{PS}+\overrightarrow{QT}+\overrightarrow{RU}=(\mathbf{s}-\mathbf{p})+(\mathbf{t}-\mathbf{q})+(\mathbf{u}-\mathbf{r})=\mathbf{0}[/math] কারণ উপাদানগুলো যোগ করলে শূন্য হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 408616)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]ABCDEF[/math] একটি সুষম ষড়ভুজ। [math]\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}}[/math] [math]+\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{AE}}[/math] [math]+\overrightarrow{\mathrm{AF}}=?[/math]
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+
+[Image]
+[math]|\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AF}}|[/math]
+ [math]=2 \mathrm{AB} \cos \left(\frac{120^{\circ}}{2}\right)[/math]
+ [math]=\mathrm{AB} ; \quad|\overrightarrow{\mathrm{AC}}+\overrightarrow{\mathrm{AE}}|[/math]
+ [math]=2 \mathrm{AC} \cos \left(\frac{60^{\circ}}{2}\right)[/math]
+ [math]=\sqrt{3} \mathrm{AC}[/math]
+ [math]\triangle A B C[/math]
+ এ [math]\frac{A B}{\sin 30^{\circ}}[/math]
+ [math]=\frac{A C}{\sin 120^{\circ}}[/math]
+ [math]\Rightarrow A B[/math]
+ [math]=\frac{1}{\sqrt{3}} A C[/math]
+আবার, [math]\triangle A C D[/math]
+ এ [math]\frac{A C}{\sin 60^{\circ}}[/math]
+ [math]=\frac{A D}{\sin 90^{\circ}}[/math]
+ [math]\Rightarrow A C[/math]
+ [math]=\frac{\sqrt{3}}{2} A D[/math]
+ [math]\therefore \overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}}+\overrightarrow{mathrm{AD}}+\overrightarrow{\mathrm{AE}}[/math]
+ [math]+\overrightarrow{\mathrm{AF}}[/math]
+ [math]=(\mathrm{AB}+\sqrt{3} \mathrm{AC}[/math]
+ [math]+\mathrm{AD}) \frac{\overrightarrow{\mathrm{AD}}}{\mathrm{AD}}[/math]
+ [math]=\left(\frac{1}{\sqrt{3}} \cdot \frac{\sqrt{3}}{2}+\sqrt{3} \cdot \frac{\sqrt{3}}{2}+1\right) \overrightarrow{\mathrm{AD}}[/math]
+ [math]=3 \mathrm{AD}[/math]
+ [math]\text { Alternate: } \overrightarrow{\mathrm{AB}}+[/math]
+ [math]\overrightarrow{\mathrm{AC}}[/math]
+ [math]+\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{AE}}[/math]
+ [math]+\overrightarrow{\mathrm{AF}}[/math]
+ [math]=\overrightarrow{\mathrm{AB}}+(\overrightarrow{\mathrm{AB}}[/math]
+ [math]+\overrightarrow{\mathrm{BC}})[/math]
+ [math]+\overrightarrow{\mathrm{AD}}+(\overrightarrow{\mathrm{AD}}[/math]
+ [math]+\overrightarrow{\mathrm{DE}})+(\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{EF}})[/math]
+ [math]\overrightarrow{\mathrm{AB}}[/math]
+ [math]+(\overrightarrow{\mathrm{AB}}[/math]
+ [math]+\overrightarrow{\mathrm{BC}})[/math]
+ [math]+\overrightarrow{\mathrm{AD}}+(\overrightarrow{\mathrm{AD}}[/math]
+ [math]+\overrightarrow{\mathrm{DE}})+[/math]
+ [math](\overrightarrow{\mathrm{AD}}[/math]
+ [math]+\overrightarrow{\mathrm{DE}}+\overrightarrow{\mathrm{EF}})[/math]
+ [math]=3 \overrightarrow{\mathrm{AD}}[/math]
+ [math]+2 \overrightarrow{\mathrm{AB}}[/math]
+ [math]+2 \overrightarrow{\mathrm{DE}}[/math]
+ [math]+\overrightarrow{\mathrm{BC}}[/math]
+ [math]+\overrightarrow{\mathrm{EF}}[/math]
+ [math]=3 \overrightarrow{\mathrm{AD}}[/math]
+কিন্তু [math]\mathrm{AB} \| \mathrm{DE}, \mathrm{AB}=\mathrm{DE}[/math]
+ কারণ সুষম ষড়ভুজ বলে [math]\therefore \overrightarrow{\mathrm{AB}}[/math]
+ [math]=-\overrightarrow{\mathrm{DE}}[/math]
+ এবং [math]\overrightarrow{\mathrm{BC}}[/math]
+ [math]=-\overrightarrow{\mathrm{EF}}][/math]
+
+
+Explanation:
+ব্যাখ্যা: কেন্দ্রীয় বিন্দু O-ধরে প্রতিটি শীর্ষের অবস্থান ভেক্টর নিয়ে [math]\vec a=\vec{OA},\ \vec b=\vec{OB},\dots,\vec f=\vec{OF}[/math] ধরা যায় এবং ছয়টি শীর্ষের যোগ শূন্য: [math]\vec a+\vec b+\vec c+\vec d+\vec e+\vec f=\vec0[/math]. তাই
+[math]\vec{AB}+\vec{AC}+\vec{AD}+\vec{AE}+\vec{AF}=(\vec b+\vec c+\vec d+\vec e+\vec f)-5\vec a=-6\vec a[/math],
+আর [math]\vec{AD}=\vec d-\vec a=-2\vec a, কাজেই সমষ্টি = [math]-6\vec a=3(\vec d-\vec a)=3\vec{AD}. অতএব (A) সঠিক।
+
+Sub-Questions:
+

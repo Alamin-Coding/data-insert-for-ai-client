@@ -1,0 +1,1508 @@
+================================================================================
+Question #1 (ID: 422596)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: কুমিল্লা সরকারি সিটি কলেজ
+--------------------------------------------------------------------------------
+Question:
+চিত্রে হুইটস্টোন ব্রীজের চার বাহুর রোধ যথাক্রমে [math]P=8 \Omega, Q=12 \Omega, R=18 \Omega[/math] এবং [math]S=22 \Omega[/math].
+
+[Image]
+
+
+Options:
+ঘ. বর্তনী হতে গ্যালভানোমিটারটি বিচ্ছিন্ন করলে [math]ABC[/math] পথে ও [math]ADC[/math] পথে তড়িৎ প্রবাহ সমান হবে কি না কার্শফের সূত্রের সাহায্যে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে, [math]P = 8\Omega[/math]
+ [math]Q = 12\Omega[/math]
+ [math]R = 18\Omega[/math]
+ [math]S_1 = 22\Omega[/math]
+ধরি, ABC ও ADC পথে প্রবাহমাত্রা যথাক্রমে [math]i_1[/math]
+ ও [math]i_2[/math]
+ তাহলে [math]i = \frac {E}{R}[/math]
+ হতে পাই,[math]\begin{aligned}i_{1} & =\frac{12 \mathrm{~V}}{(8+12) \Omega} \\& =\frac{12 \mathrm{~V}}{20 \Omega}=0.6 \mathrm{~A}\end{aligned}[/math]
+এবং [math]\begin{aligned}i_{2} & =\frac{12 \mathrm{~V}}{(18+22) \Omega} \\& =\frac{12 \mathrm{~V}}{40 \Omega}=0.3 \mathrm{~A}\end{aligned}[/math]
+কির্শফের সূত্র অনুসারে[math]\begin{array}{l}\quad \mathrm{i}_{1} \times 8+\mathrm{i}_{1} \times 12=12 \\\Rightarrow 20 \mathrm{i}_{1}=12 \\\Rightarrow \mathrm{i}_{1}=0.6 \mathrm{~A}\end{array}[/math]
+আবার, [math]i_{2} \times 18+i_{2} \times 22=12[/math]
+ [math]\begin{array}{l}\Rightarrow 40 \mathrm{i}_{2}=12 \\\Rightarrow \mathrm{i}_{2}=0.3 \mathrm{~A} \\\therefore \mathrm{i}_{1} 
+eq \mathrm{i}_{2}\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ এই শর্তের জন্য হুইটস্টোন ব্রীজ সমতুল্য হবে যদি [math]P/Q=R/S[/math] হয়; এখানে [math]8/12=2/3[/math] এবং [math]18/22=9/11[/math] যা সমান নয়। তাই ব্রীজ অমিলিত, B ও D-এর মধ্যকার বৈদ্যুতিক সম্ভাব্যতা ভিন্ন থাকবে এবং [math]ABC[/math] ও [math]ADC[/math] পথে তড়িৎ প্রবাহ সমান হবে না (গ্যাল্বানোমিটার বিচ্ছিন্ন করলে কেন্দ্রীয় শাখায় প্রবাহ শূন্য হয় শুধুমাত্র তখনই যখন অনুপাত সমান)।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 422595)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: কুমিল্লা সরকারি সিটি কলেজ
+--------------------------------------------------------------------------------
+Question:
+চিত্রে হুইটস্টোন ব্রীজের চার বাহুর রোধ যথাক্রমে [math]P=8 \Omega, Q=12 \Omega, R=18 \Omega[/math] এবং [math]S=22 \Omega[/math].
+
+[Image]
+
+
+Options:
+গ. চতুৰ্থ বাহুতে কত রোধ কিভাবে যুক্ত করলে ব্রীজটি সাম্যাবস্থা প্রাপ্ত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের তথ্যানুযায়ী,১ম বাহুর রোধ, [math]P = 8\Omega[/math]
+২য় বাহুর রোধ, [math]Q = 12\Omega[/math]
+৩য় বাহুর রোধ, [math]R = 18\Omega[/math]
+৪র্থ বাহুর রোধ, [math]S_1 = 22\Omega[/math]
+ধরি, চতুর্থ বাহুতে মোট S পরিমাণ রোধ থাকলে ব্রিজটি সাম্যাবস্থায় থাকবে।হুইটস্টোন ব্রিজের ভারসাম্য সূত্রটি হলো :[math]\begin{array}{l}\frac{P}{Q}=\frac{R}{S}\\\Rightarrow \frac{6}{12}=\frac{18}{\mathrm{~S}}\\\Rightarrow S=\left(\frac{12}{8} \times 18 \Omega\right)=27 \Omega\end{array}[/math]
+চতুর্থ বাহুতে প্রথমে রোধ ছিল, [math]S_1 = 22\Omega[/math]
+যেহেতু, [math]S > S_1[/math]
+, তাই চতুর্থ বাহুতে নতুন রোধটিকে শ্রেণিতে যুক্ত করতে হবে ।ধরি, চতুর্থ বাহুর নতুন রোধ = [math]S_2[/math]
+এখন, [math]S = S_1 + S_2[/math]
+বা, [math]\mathrm{S}_{2}=\mathrm{S}-\mathrm{S}_{1}=27 \Omega-22 \Omega=5 \Omega[/math]
+ [math]\therefore[/math]
+ চতুর্থ বাহুতে [math]5\Omega[/math]
+ মানের রোধ শ্রেণিতে যোগ করলে ব্রিজটি সাম্যাবস্থায় আসবে।
+
+Explanation:
+ব্যাখ্যা: গ হুইটস্টোন ব্রীজের সমতা শর্ত হল [math]\dfrac{P}{Q}=\dfrac{R}{S_{\text{equiv}}}[/math]। যদি চতুর্থ বাহুতে [math]x[/math] ধারা সিরিজে যোগ করা হয় তাহলে [math]S_{\text{equiv}}=S+x[/math] এবং [math]S+x=R\cdot\dfrac{Q}{P}[/math]; ফলে [math]x=18\cdot\dfrac{12}{8}-22=27-22=5\ \Omega[/math]। অতএব [math]5\ \Omega[/math] সিরিজে যোগ করলে ব্রীজটি সাম্যাবস্থা পাবেই (প্যারালাল এ যোগ করলে সমতাবস্থা সম্ভব নয় কারণ সমমূল্য [math]<22\ \Omega[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 422594)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: DAWOOD PUBLIC SCHOOL & COLLEGE
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি লক্ষ কর এবং নিচের প্রশ্নগুলোর উত্তর দাও।
+
+[Image]
+
+
+Options:
+ঘ. সাম্যাবস্থায় ২য় এবং ৪র্থ বাহুর মধ্য দিয়ে যে পরিমাণ তড়িৎ প্রবাহিত হবে তাদের অনুপাত কত?
+
+
+Correct Answer: 
+
+Solution:
+ঘসাম্যাবস্থায় [math]I_g = 0[/math]
+ হবে এবং তখন বর্তনীটি হবে-
+[Image]
+[math]\therefore[/math]
+ ২য় বাহুর মধ্য দিয়ে তড়িৎ প্রবাহের পরিমাণ,[math]\begin{aligned}I_{1} & =\frac{E}{P+Q} \\& =\frac{12}{20+80}=0.12 \mathrm{~A}\end{aligned}[/math]
+৪র্থ বাহুর ক্ষেত্রে, [math]I_{2}=\frac{E}{R+S}=\frac{12}{60+240}=0.04 \mathrm{~A}[/math]
+ [math]\begin{array}{l}\therefore \frac{I_{1}}{I_{2}}=\frac{0.12}{0.04}=3 \\\Rightarrow I_{1}: I_{2}=3: 1\end{array}[/math]
+নির্ণেয় অনুপাত 3 : 1।
+
+Explanation:
+ব্যাখ্যা:
+ঘ সাম্যাবস্থায় ক্যাপাসিটারগুলো অন্ততরঙ্গের মতো খোলা সার্কিট হিসেবে আচরণ করে, ফলে ২ ও ৪ নং বাহুর ধারা কেবল তাদের প্রতিরোধের উপর নির্ভর করে; ওহমের সূত্র অনুযায়ী ধারা হল চালকত্বের অনুপাত। তাই [math]\displaystyle \frac{I_2}{I_4}=\frac{1/R_2}{1/R_4}=\frac{R_4}{R_2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 422593)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: DAWOOD PUBLIC SCHOOL & COLLEGE
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি লক্ষ কর এবং নিচের প্রশ্নগুলোর উত্তর দাও।
+
+[Image]
+
+
+Options:
+গ. ১ম বাহুতে কত রোধ কিভাবে যুক্ত করলে ব্রীজটি সাম্যাবস্থায় থাকবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]P_1 = 90\Omega[/math]
+, [math]Q = 80\Omega[/math]
+, [math]R = 60\Omega[/math]
+, [math]S = 240\Omega[/math]
+, [math]P_2 = ?[/math]
+, [math]P = ?[/math]
+ [math]\begin{aligned}\frac{P}{Q} & =\frac{R}{S} \\\Rightarrow P & =\frac{R \times Q}{S} \\& =\frac{60 \times 80}{240} \\& =20 \Omega\end{aligned}[/math]
+যেহেতু [math]P < P_1[/math]
+ সেহেতু [math]P_2[/math]
+ কে [math]P_1[/math]
+ এর সাথে সমান্তরাল সমবায়ে সংযুক্ত করতে হবে।এবার, [math]\frac{1}{P}=\frac{1}{P_{1}}+\frac{1}{P_{2}}[/math]
+ [math]\begin{aligned} \Rightarrow \frac{1}{\mathrm{P}_{2}} & =\frac{1}{\mathrm{P}}-\frac{1}{\mathrm{P}_{1}} \\& =\frac{1}{20}-\frac{1}{90}=\frac{9-2}{180}=\frac{7}{180} \\\therefore \mathrm{P}_{2} & =\frac{180}{7}=25.714 \Omega\end{aligned}[/math]
+অতএব, ১ম বাহুতে [math]25.714 \Omega[/math]
+ রোধ সমান্তরালে যুক্ত করলে ব্রীজটি এই সাম্যাবস্থায় থাকবে।
+
+Explanation:
+ব্যাখ্যা: একটি সাম্যবস্থায় ব্রীজে দুই বাহুর অনুপাত সমান থাকতে হয়, অর্থাৎ [math]\dfrac{R_1'}{R_2}=\dfrac{R_3}{R_4}[/math]. তাই গ ক্ষেত্রে ১ম বাহুতে সিরিজে যে রোধ যোগ করতে হবে তা হবে [math]R_{\text{যোগ}}=\dfrac{R_2R_3}{R_4}-R_1[/math], যাতে নতুন প্রথম বাহুর রোধ [math]R_1'=R_1+R_{\text{যোগ}}=\dfrac{R_2R_3}{R_4}[/math] হয়ে সাম্যাবস্থা পূরণ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 422592)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Govt. Women's College. Rajshahi
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের চিত্র দেওয়া হলো :
+
+[Image]
+
+
+[math]\qquad[/math] [math]\begin{array}{l}P=2 \Omega, Q=4 \Omega \\R=3 \Omega, r=0.1 \Omega \\S=9 \Omega \& G=4 \Omega \\E=6 \mathrm{~V}\end{array}[/math]
+
+Options:
+ঘ. হুইটস্টোন ব্রীজের সাম্যাবস্থায় গ্যালভানোমিটারটিকে [math]A[/math] ও [math]C[/math] বিন্দুর মধ্যে এবং নতুন [math]2[/math] রোধ [math]F[/math] ও [math]K[/math] বিন্দুর মধ্যে যুক্ত করলে গ্যালভানোমিটারের মধ্যদিয়ে প্রবাহমাত্রা চলবে কি-না এবং চললে প্রবাহমাত্রা কত হবে? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+যেহেতু ব্রীজের সাম্যাবস্থায় গ্যালভানোমিটারের মধ্য দিয়ে তড়িৎ প্রবাহ চলে না, তাই গ্যালভানোমিটারকে A ও C বিন্দুর মধ্যে যুক্ত করলে A বিন্দুতে তড়িৎ প্রবাহ তিন ভাগে বিভক্ত হবে এবং গ্যালভানোমিটারের মধ্য দিয়ে তড়িৎ প্রবাহ চলবে ।এখন, [math]\frac{1}{R_{p}}=\frac{1}{2+4}+\frac{1}{4}+\frac{1}{3+6}=\frac{1}{6}+\frac{1}{4}+\frac{1}{9}[/math]
+ [math]\begin{aligned}& =\frac{6+9+4}{36} \\\frac{1}{R_{P}} & =\frac{19}{36} \\\therefore R_{P} & =\frac{36}{19} \Omega\end{aligned}[/math]
+আবার, [math]R_{S}=2+R_{P}=2+\frac{36}{19}=\frac{38+36}{19}[/math]
+ [math]\therefore \mathrm{R}_{\mathrm{s}}=\frac{74}{19} \Omega[/math]
+বর্তনীর মোট তড়িৎ প্রবাহ, [math]I=\frac{E}{R_{S}+r}=\frac{6}{\frac{74}{19}+0.1}=1.5 \mathrm{~A}[/math]
+এখন, [math]\mathrm{V}_{\mathrm{P}}=\mathrm{IR}_{\mathrm{P}}=1.5 \times \frac{36}{19}=\frac{54}{19}[/math]
+ [math]\begin{array}{l}\therefore \quad \mathrm{V}_{\mathrm{P}}=\mathrm{I}_{\mathrm{B}} \mathrm{G} \\\Rightarrow \mathrm{I}_{\mathrm{B}}=\frac{\mathrm{V}_{\mathrm{P}}}{\mathrm{G}}=\frac{\frac{54}{19}}{4}=\frac{27}{38}=0.71 \mathrm{~A}\end{array}[/math]
+সুতরাং গ্যালভানোমিটারের মধ্যদিয়ে 0.7 A প্রবাহ চলবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ঘ সাম্যাবস্থায় ব্রিজের দুই মাঝ বিন্দু [math]A[/math] ও [math]C[/math]-এর বৈদ্যুতিক সম্ভাব্যতা সমান থাকে (সাম্যাবস্থার শর্ত [math]\dfrac{P}{Q}=\dfrac{R}{S}[/math]) তাই গ্যালভানোমিটারের দুই প্রান্তে কোন ভোল্টেজ পার্থক্য থাকে না; ফলে গ্যালভানোমিটারের মধ্য দিয়ে কোনও প্রবাহ চলবে না। গাণিতিকভাবে [math]I_G=\dfrac{V_A-V_C}{G}=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 422591)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Govt. Women's College. Rajshahi
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের চিত্র দেওয়া হলো :
+
+[Image]
+
+
+[math]\qquad[/math] [math]\begin{array}{l}P=2 \Omega, Q=4 \Omega \\R=3 \Omega, r=0.1 \Omega \\S=9 \Omega \& G=4 \Omega \\E=6 \mathrm{~V}\end{array}[/math]
+
+Options:
+গ. চতুর্থ বাহুতে কত রোধ কিভাবে যুক্ত করলে ব্রীজটি সাম্যাবস্থা লাভ করবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]P = 2\Omega[/math]
+, [math]Q = 4\Omega[/math]
+, [math]R = 3\Omega[/math]
+, [math]S = 9\Omega[/math]
+, [math]S_1 = ?[/math]
+আমরা জানি,[math]\begin{array}{l}\frac{P}{Q}=\frac{R}{S_{1}}\\\Rightarrow S_{1}=\frac{Q \times R}{P}\\\Rightarrow S_{1}=\frac{4 \times 3}{2}\\\Rightarrow S_{1}=6 \Omega\end{array}[/math]
+যেহেতু [math]S_1 < S[/math]
+, সুতরাং S এর সাথে [math]S_2[/math]
+ মানের রোধ সমান্তরালে যুক্ত করতে হবে।এখন, [math]\frac{1}{S_{1}}=\frac{1}{S}+\frac{1}{S_{2}}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{1}{S_{2}}=\frac{1}{S_{1}}-\frac{1}{S}\\\Rightarrow \frac{1}{S_{2}}=\frac{1}{6}-\frac{1}{9}\\\Rightarrow \frac{1}{S_{2}}=\frac{3-2}{18}\\\Rightarrow \frac{1}{\mathrm{~S}_{2}}=\frac{1}{18}\\\therefore \quad \mathrm{S}_{2}=18 \Omega\end{array}[/math]
+সুতরাং ৪র্থ বাহুতে [math]18\Omega[/math]
+ রোধ সমান্তরালে যুক্ত করলে ব্রীজটি সাম্যাবস্থা লাভ করে।
+
+Explanation:
+ব্যাখ্যা:
+গ সাম্যাবস্থার শর্ত হল [math]\frac{P}{Q}=\frac{R}{S_{\text{eq}}}[/math], তাই [math]S_{\text{eq}}=\frac{R\,Q}{P}=\frac{3\times4}{2}=6\ \Omega[/math]. বর্তমানে [math]S=9\ \Omega[/math], তাই একটি [math]x[/math] রোধ সমান্তরালে যোগ করলে [math]\frac{9x}{9+x}=6[/math] থেকে [math]x=18\ \Omega[/math] পাওয়া যায়; অর্থাৎ 18Ω সমান্তরালভাবে যুক্ত করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 422590)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Govt. Tolaram College, Narayanganj
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকে গ্যালভানোমিটারের রোধ [math]100\ \Omega[/math]
+
+[Image]
+
+
+Options:
+গ. চতুর্থ বাহুতে কত রোধ কিভাবে যুক্ত করলে ব্রীজটি সাম্যাবস্থায় আসবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, ১ম বাহুর রোধ, [math]P = 20 \Omega[/math]
+২য় বাহুর রোধ, [math]Q = 30 \Omega[/math]
+৩য় বাহুর রোধ, [math]R = 50 \Omega[/math]
+৪র্থ বাহুর রোধ, [math]S_1 = 60 \Omega[/math]
+মনে করি, চতুর্থ বাহুর রোধের সাথে [math]S_2[/math]
+ মানের শান্ট যুক্ত করলে সমতুল্য রোধ হয় S এবং ব্রীজটি সাম্যাবস্থায় আসে ।আমরা জানি, [math]\frac{P}{Q}=\frac{R}{S}[/math]
+বা, [math]\mathrm{S}_{1}=\mathrm{R} \times \frac{\mathrm{Q}}{\mathrm{P}}=50 \Omega \times \frac{30 \Omega}{20 \Omega}[/math]
+বা, [math]\mathrm{S}_{1}=\left(50 \times \frac{30}{20}\right) \Omega=\frac{1500}{20} \Omega=75 \Omega[/math]
+এখন, [math]S_{1}=S+S_{2}[/math]
+বা, [math]\mathrm{S}_{2}=\mathrm{S}_{1}-\mathrm{S}=75 \Omega-60 \Omega=15 \Omega[/math]
+ [math]15 \Omega[/math]
+ মানের শান্ট শ্রেণিতে যুক্ত করতে হবে।
+
+Explanation:
+ব্যাখ্যা: গ ব্রীজের সাম্যাবস্থার শর্ত হলো বিপরীত দুশোদের গুণ সমান হওয়া, তাই চতুর্থ বাহুর রোধ হবে [math]R_4=\dfrac{R_2R_3}{R_1}[/math]। সাম্যাবস্থায় গ্যালভানোমিটারে কোন ধারাবাহিক ধারা যায় না, তাই তার রোধ [math]100\ \Omega[/math] এই শর্তকে প্রভাবিত করে না।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 422589)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: St. Gregory's High School and College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. সুইচ বন্ধ থাকা অবস্থায় [math]10\ \Omega[/math] এর সাথে অতিরিক্ত কত রোধ কীভাবে যুক্ত করলে গ্যালভানোমিটারের বিক্ষেপ শূন্য হবে?
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে, [math]\frac{1}{\mathrm{P}}=\frac{1}{\mathrm{P}_{1}}+\frac{1}{\mathrm{P}_{2}}[/math]
+ [math]\begin{array}{l}\frac{1}{P}=\frac{1}{1}+\frac{1}{1} \\P=\frac{1}{2}=0.5 \Omega \\Q=5 \Omega \\R=5 \Omega \\S^{\prime}=10 \Omega \\\frac{P}{Q}=\frac{R}{S} \\S=\frac{Q R}{P}=\frac{5 \times 5}{0.5}=50 \Omega\end{array}[/math]
+S > S' সুতরাং S" রোধ শ্রেণিতে যুক্ত করতে হবে।[math]\begin{array}{l}\therefore S=S^{\prime}+S^{\prime \prime} \\S^{\prime \prime}=S-S^{\prime}=50-10=40 \Omega\end{array}[/math]
+ [math]\therefore 40 \Omega[/math]
+ রোধ শ্রেণিতে যুক্ত করতে হবে।
+
+Explanation:
+ব্যাখ্যা: গ গ্যালভানোমিটার শূন্য থাকবে যখন ব্রিজটি সুষম হবে, অর্থাৎ দুইটি শাখার প্রতিরোধের অনুপাত সমান হবে: [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math]. তাই 10 Ω‑র সঙ্গে যোগ করতে হবে এমন অতিরিক্ত রোধ [math]R_x[/math] যাতে সেই সমানতা পূরণ করে (উদাহরণ: যদি অন্য শাখার মানগুলো জানা থাকে, তখন [math]10+R_x[/math] বা [math]10\parallel R_x[/math] অনুযায়ী সমীকরণ লিখে [math]R_x[/math] বের করা যাবে)। চিত্রের অন্যান্য প্রতিরোধের মান দিলে আমি নির্দিষ্ট সংখ্যাটি দ্রুত গণনা করে দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 422588)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Viqarunnisa Noon School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. চাবি বন্ধ অবস্থায় চতুর্থ বাহুতে কী পরিমাণ রোধ কীভাবে যুক্ত করলে গ্যালভানোমিটারের মধ্য দিয়ে কোনো তড়িৎ প্রবাহিত হবে না?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+১ম বাহুর রোধ, [math]\rm{P=4 \Omega}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় বাহুর রোধ, [math]\rm{Q=12 \Omega}[/math]
+ [math]\hspace{1 cm}[/math]
+৩য় বাহুর রোধ, [math]R=6 \Omega[/math]
+ [math]\hspace{1 cm}[/math]
+৪র্থ বাহুর রোধ, [math]\rm{S_{1}=20 \Omega}[/math]
+মনে করি, চতুর্থ বাহুর রোধ [math]\rm{S}[/math]
+ হলে গ্যালভানোমিটারের মধ্যদিয়ে কোনো তড়িৎ প্রবাহিত হবে না।আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{\dfrac{P}{Q}=\dfrac{R}{S}} \\ \Rightarrow \rm{S=\dfrac{Q R}{P}=\dfrac{12 \Omega \times 6 \Omega}{4}=18 \Omega} \end{array}[/math]
+এখানে, [math]\rm{Sএখন, ধরি, [math]\rm{S_2}[/math]
+ মানের রোধ [math]\rm{S_1}[/math]
+ এর সাথে সমান্তরালে যুক্ত করতে হবে,[math]\hspace{1.5 cm}\begin{array}{l} \therefore\rm{ \dfrac{1}{S}=\dfrac{1}{S_{1}}+\dfrac{1}{S_{2}} }\\ \Rightarrow \rm{\dfrac{1}{S_{2}}=\dfrac{1}{S}-\dfrac{1}{S_{1}}=\dfrac{1}{18 \Omega}-\dfrac{1}{20 \Omega}=-\dfrac{10-9}{180 \Omega}=\dfrac{1}{180 \Omega}} \\ \therefore \rm{~S}_{2}=180 \Omega \end{array}[/math]
+ [math]\therefore[/math]
+ চাবি বন্ধ অবস্থায় চতুর্থ বাহুতে [math]180~ \Omega[/math]
+ মানের রোধ সমান্তরাল সমবায়ে সংযুক্ত করলে গ্যালভানোমিটারের মধ্যদিয়ে কোনো তড়িৎ প্রবাহিত হবে না।
+
+Explanation:
+ব্যাখ্যা: গ গ্যালভনোমিটার শূন্য দেখালে এটি উইটস্টোন ব্রিজের সমতার অবস্থা, তাই বিপরীত বাহুর রোধগুলোর অনুপাত সমান হবে। যদি তিন বাহুর রোধ থাকে [math]R_1,\,R_2,\,R_3[/math] এবং চতুর্থটি [math]R_4[/math], তবে সমতা শর্ত [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math] হবে, অর্থাৎ [math]R_4=\dfrac{R_2R_3}{R_1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 422573)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের বর্তনী [math]P[/math] ও [math]Q[/math] বিন্দুর মাঝখানে একটি গ্যালভানোমিটার নগণ্য রোধের তার দ্বারা সংযুক্ত করলে কোন দিক হতে গ্যালভানোমিটারের মধ্যে তড়িৎ প্রবাহিত হবে? বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+P ও Q বিন্দুতে কিরশফের প্রথম সূত্রানুসারে,[math]\begin{array}{l}\mathrm{i}_{1}{ }^{*}=\mathrm{i}_{3}+\mathrm{i}_{\mathrm{g}} \\\mathrm{i}_{2}=\mathrm{i}_{4}-\mathrm{i}_{\mathrm{g}}\end{array}[/math]
+আবার, APQDA ও PBCQP লুপে দ্বিতীয় সূত্র প্রয়োগ করে পাই,[math]\begin{array}{l}\mathrm{R}_{1} \mathrm{i}_{1}+\mathrm{i}_{\mathrm{g}} \mathrm{G}^{-}-\mathrm{R}_{3} \mathrm{i}_{2}=0 \\\mathrm{R}_{2} \mathrm{i}_{3}-\mathrm{R}_{4} \mathrm{i}_{4}-\mathrm{i}_{\mathrm{g}} \mathrm{G}=0 \\\text { } \quad 4 \mathrm{i}_{1}+\mathrm{i}_{\mathrm{g}} \mathrm{G}-5 \mathrm{i}_{2}=0... ...(i)\\\text { } \quad 5 \mathrm{i}_{3}-4 \mathrm{i}_{4}-\mathrm{i}_{\mathrm{g}} \mathrm{G}=0 ... ... (ii)\end{array}[/math]
+(i) + (ii) নং করে পাই,[math]\begin{array}{l}4 \mathrm{i}_{1}+5 \mathrm{i}_{3}-5 \mathrm{i}_{2}-4 \mathrm{i}_{4}=0 \\4 \mathrm{i}_{3}+4 \mathrm{i}_{\mathrm{g}}+5 \mathrm{i}_{3}-5 \mathrm{i}_{4}+5 \mathrm{i}_{\mathrm{g}}-4 \mathrm{i}_{4}=0 \\9 \mathrm{i}_{3}+9 \mathrm{i}_{\mathrm{g}}-9 \mathrm{i}_{4}=0 \\\mathrm{i}_{\mathrm{g}}=\mathrm{i}_{4}-\mathrm{i}_{3}\end{array}[/math]
+যেহেতু [math]R_4  i_3[/math]
+সুতরাং, ধনাত্মক [math]i_g[/math]
+অর্থাৎ [math]i_g[/math]
+ এর দিক P থেকে Q এর দিকে
+
+Explanation:
+ঘ ব্যাখ্যা: গ্যালভানোমিটারে প্রবাহ সবসময় উচ্চ বৈদ্যুতিক বিভব থেকে নিম্ন বিভবে চলে, এবং বর্তনী বিশ্লেষণে P বিন্দুর বিভব Q-এর চেয়ে বেশি পাওয়া যায় (ভোল্টেজ ডিভাইডার সূত্র ব্যবহার করে)। তাই গ্যালভানোমিটারের মাধ্যমে প্রবাহ হবে P থেকে Q-র দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 422574)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চার বাহুতে যথাক্রমে [math]10 \Omega, 5 \Omega, 8 \Omega[/math] এবং [math]12\Omega[/math] এর চারটি রোধ আছে। চতুর্থ বাহুর রোগের সাথে মানের একটি শর্ট (সমান্তরাল) যুক্ত করলে ব্রিজটি সাম্যাবস্থা লাভ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]6 \Omega[/math]
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের সাম্যাবস্থা শর্ত হল বিপরীত বাহুগুলোর গুণ সমান, অর্থাৎ [math]R_1R_4'=R_2R_3[/math]. এখানে [math]10\times R_4'=5\times 8=40[/math] থেকে [math]R_4'=4\ \Omega[/math]. চতুর্থ বাহুতে থাকা [math]12\ \Omega[/math] এর সাথে ধরা সমান্তরাল প্রতিরোধকের মান [math]\dfrac{12R_p}{12+R_p}=4[/math] সমীকরণ থেকে [math]R_p=6\ \Omega[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 422575)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো মিটার ব্রিজের একটি ফাঁকে [math]2\Omega[/math] এবং অপর ফাঁকে [math]3\Omega[/math] রোধ যুক্ত করা হ লে নিস্পন্দ বিন্দু কোথায় পাওয়া যাবে? নিস্পন্দ বিন্দু তারের ঠিক মধ্যস্থলে পেতে হলে [math]3\Omega[/math] রোধের সাথে কত রোধ সমান্তরাল সমবায়ে যুক্ত করতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ [math]2 \ \Omega[/math]
+রোধ হতে [math]40 \ cm[/math]
+দূরে নিস্পন্দ বিন্দু পাওয়া যাবে, [math]6 \ \Omega[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রথম ক্ষেত্রে,[math]P=2 \ \Omega[/math]
+ [math]Q= 3 \ \Omega[/math]
+নিস্পন্দ বিন্দুর দূরত্ব, [math]\ell = ?[/math]
+দ্বিতীয় ক্ষেত্রে, [math]P=2 \Omega[/math]
+রোধ, [math]S_1 = ?[/math]
+ [math]\\[/math]
+প্রথম ক্ষেত্রে,[math]\begin{array}{l} \frac{\mathrm{P}}{\mathrm{Q}}=\frac{1}{100-1}\\\Rightarrow \frac{2}{3}=\frac{\ell}{100-\ell}\\\Rightarrow 3 \ell=200-2 \ell\\\Rightarrow 5 \ell=200\\\therefore \quad \ell=40 \mathrm{~cm}\end{array}[/math]
+অর্থাৎ [math]2 \ \Omega[/math]
+ রোধ হতে [math]40 \ cm[/math]
+ দূরে নিস্পন্দ বিন্দু পাওয়া যাবে। [math](Ans.)[/math]
+আবার দ্বিতীয় ক্ষেত্রে,[math]\begin{array}{l} \frac{\mathrm{P}}{\mathrm{Q}}=\frac{l}{100-l} \\ \Rightarrow \mathrm{Q}=\frac{l}{100-l} \times \mathrm{R}=\frac{100-50}{50} \times 2 \Omega=2 \Omega \end{array}[/math]
+সমান্তরাল সমবায়ের ক্ষেত্রে,[math]\frac{1}{2}=\frac{1}{3}+\frac{1}{S_{1}}[/math]
+[এখানে, [math]S_1[/math]
+হল সমান্তরাল যুক্ত রোধ][math]\begin{array}{l} \Rightarrow \frac{1}{S_{1}}=\frac{1}{2}-\frac{1}{3}=\frac{1}{6} \\ \therefore \quad S_{1}=6 \Omega \quad \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ক ব্রিজের সমতা শর্ত হলো [math]R_1/R_2 = l_1/l_2[/math]; এখানে [math]R_1=2\Omega,\,R_2=3\Omega[/math] হলে তারের মোট 100 cm ধরা হলে নলস্পন্দ বিন্দু হবে [math]l_1=\dfrac{2}{2+3}\times100=40\ \text{cm}[/math] (2Ω-র সাথে সংযুক্ত প্রান্ত থেকে)।  
+খ তারের ঠিক মধ্যস্থলে পেতে হলে দুইটি পর্যায়ে সমান রোধ চাই, তাই [math]3\Omega[/math]-এর সাথে এমন রোধ [math]r[/math] লাগাতে হবে যাতে সমান্তরাল সমবায়ে মোট রোধ [math]2\Omega[/math] হয়: [math]\dfrac{1}{2}=\dfrac{1}{3}+\dfrac{1}{r}\Rightarrow \dfrac{1}{r}=\dfrac{1}{6}\Rightarrow r=6\Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 422576)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চারটি বাহুতে যথাক্রমে [math]16, 12, 40[/math] এবং [math]25\Omega[/math] রোধ আছে। চ তুর্থ বাহুতে কত রোধ কীভাবে সংযুক্ত করলে ব্রিটি সাম্যাবস্থা লাভ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]5\Omega[/math]শ্রেণিতে।
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের সাম্যাবস্থার শর্ত হল [math]R_1/R_2=R_3/R_4[/math], তাই চতুর্থ বাহুর মান হবে [math]R_4=R_2R_3/R_1=12\times40/16=30\ \Omega[/math]. দেয়া [math]25\ \Omega[/math] কে [math]30\ \Omega[/math] করার জন্য একটি [math]5\ \Omega[/math] রোধ সিরিজে যোগ করতে হবে (প্যারালাল করলে রোধ কমে যাবে, তাই সিরিজই করতে হবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 422577)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চার বাহুতে যথাক্রমে [math]2\Omega, 4\Omega, 3\Omega[/math] এবং [math]9\Om ega[/math] রোধ যুক্ত আছে। চতুর্থ বাহুতে কত মানের রোধক কীভাবে যুক্ত করলে ব্রিজটি ভারসাম্য লাভ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]18 \Omega[/math]
+ এর রোধ সমান্তরালে যুক্ত করতে হবে।[math]\\[/math]
+ [math][/math]
+মনে করি, চতুর্থ বাহুর সাথে [math]S_2[/math]
+ মানের রোধ যুক্ত করলে সমতুল্য রোধ [math]S[/math]
+ হয় এবং ব্রিজটি সাম্যাবস্থায় থাকবে।আমরা জানি,[math]\begin{array}{c} \frac{\mathrm{P}}{\mathrm{Q}}=\frac{\mathrm{R}}{\mathrm{S}} \\ \Rightarrow \frac{2}{4}=\frac{3}{\mathrm{~S}} \\ \Rightarrow \mathrm{S}=3 \times \frac{4}{2} \\ \therefore \mathrm{S}=6 \Omega \end{array}[/math]
+যেহেতু, [math]S<9 \Omega[/math]
+ । সুতরাং কিছু রোধ [math]S_2[/math]
+ সমান্তরালে যুক্ত করতে হবে যাথে তুল্য রোধ [math]S=6\Omega[/math]
+ হয়।[math]\begin{array}{l}\therefore \quad \frac{1}{S}=\frac{1}{S_{1}}+\frac{1}{S_{2}}\\\Rightarrow \frac{1}{6}=\frac{1}{9}+\frac{1}{S_{2}}\\\Rightarrow \frac{1}{6}-\frac{1}{9}=\frac{1}{S_{2}}\end{array}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{1}{18}=\frac{1}{S_{2}} \\ \therefore \quad S_{2}=18 \Omega \end{array}[/math]
+ [math]\therefore \ 18\Omega[/math]
+ এর রোধ সমান্তরাল যুক্ত করতে হবে। [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের ভারসাম্যের শর্ত হল [math]\;R_1/R_2 = R_3/R_4'\;.[/math] এখানে [math]R_1=2\Omega,\;R_2=4\Omega,\;R_3=3\Omega\,$ হলে প্রয়োজনীয় চতুর্থ বাহুর সমতুল্য রোধ [math]R_4' = R_3/(R_1/R_2) = 3/(2/4) = 6\Omega\,.[/math] অতএব মূল [math]9\Omega[/math] কে [math]6\Omega[/math]-এ নামাতে সেটির সঙ্গে সমান্তরালে [math]18\Omega[/math] রোধক যুক্ত করলে সমতুল্য হবে [math](9\times18)/(9+18)=6\Omega\,) এবং ব্রিজ ভারসাম্য হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 422578)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মিটার ব্রীজ বর্তনীতে বাম ও ডান ফাঁকের রোধ যথাক্রমে [math]3\Omega[/math] ও [math]2\Omega[/math]। কো নো প্রান্তিক জুটি না থাকলে মিটার তারটির কত দৈর্ঘ্যে নিস্পন্দ বিন্দু পাওয়া যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+বাম প্রান্ত হতে [math]60 \ cm[/math]
+ দূরত্বে নিস্পন্দ বিন্দু পাওয়া যাবে।
+
+Explanation:
+ব্যাখ্যা: মিটার ব্রীজে ভারসাম্য হলে বাম ও ডান ফাঁকের রোধের অনুপাত তার তারের দৈর্ঘ্যের অনুপাতের সমান হয়, তাই [math]\dfrac{3}{2}=\dfrac{x}{100-x}[/math]. সমাধান করলে [math]2x=3(100-x)\Rightarrow5x=300\Rightarrow x=60\ \text{cm}[/math], অর্থাৎ বাম প্রান্ত থেকে 60 সেমি-তে নিস্পন্দ বিন্দু।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 422579)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মিটার ব্রিজের দুই শূন্য স্থানের একটিতে [math]8\Omega[/math] এবং অন্যটিতে [math]10\Omega[/math] রোধ যুক্ত করা হলো। ভারসাম্য বিন্দু কোথায় হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](44.44 \ cm)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]R=8 \ \Omega[/math]
+ [math]S=10 \ \Omega[/math]
+ভারসাম্য বিন্দু দূরত্ব, [math]l=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \quad \frac{\mathrm{R}}{\mathrm{S}}=\frac{l}{100-l} \\ \Rightarrow \frac{8}{10}=\frac{l}{100-l} \\ \Rightarrow 10 l=800-8 l \\ \Rightarrow \quad 18 l=800 \\ \Rightarrow \quad l=\frac{800}{18} \\ \therefore \quad l=44.44 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভারসাম্য অবস্থায় দুই প্রতিরোধের অনুপাত তারের দুই অংশের দৈর্ঘ্যের অনুপাতে থাকে, তাই [math]\frac{l}{100-l}=\frac{8}{10}[/math]। সমাধান করলে [math]l=100\times\frac{8}{8+10}=100\times\frac{8}{18}=44.\overline{4}\ \text{cm}[/math] (৮Ω যুক্ত প্রান্ত থেকে প্রায় 44.44 সেমি)।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 422580)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একট পোস্ট অফিস বাক্সের অনুপাত বাহু দুটিতে [math]1000\Omega[/math] এবং [math]10 \ \Omega[/math] রোধযুক্ত আছে। তৃতীয় বাহুতে [math]511 \ \Omega[/math] রোধ স্থাপন করা গ্যালভানোমিটারে শূন্য বিক্ষেপ পাওয়া গেল। চতুর্থ বাহুতে অজানা রোধ নির্ণয় কর ৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5.11 \Omega)[/math]
+
+Explanation:
+ব্যাখ্যা: ওয়াটস্টোন ব্রিজের সামঞ্জস্যশর্ত হল [math]R_1/R_2=R_3/R_x[/math]. এখানে [math]R_1=1000\ \Omega,\ R_2=10\ \Omega,\ R_3=511\ \Omega[/math], তাই [math]R_x=R_2R_3/R_1=10\times511/1000=5.11\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 422581)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মিটার ব্রীজের বাম ফাঁকের রোধ [math]6 \Omega[/math]। নিস্পন্দ বিন্দু তারের বাম প্রান্ত থেকে [math]60 \ cm[/math] দূরে গঠিত হলে ডান ফাঁকের রোধ কত? এখন রোধ দুটিকে অদল-বদল করলে নতুন নিস্পন্দ বিন্দু কোথায় গঠিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4 \Omega,40 \ cm)[/math]
+
+Explanation:
+ব্যাখ্যা: মিটার ব্রিজে ভারসাম্যের শর্ত হলো রোধের অনুপাত তারের দুই অংশের দৈর্ঘ্যের অনুপাতের সমান।
+
+ক ডান ফাঁকের রোধ: [math]\dfrac{6}{R}=\dfrac{60}{40}[/math] থেকে [math]R=6\times\dfrac{40}{60}=4\ \Omega[/math]।
+
+খ রোধগুলো বদলালে নতুন নিস্টপন্দ বিন্দু: এখন বাম রোধ [math]4\ \Omega[/math], তাই [math]\dfrac{4}{6}=\dfrac{l}{100-l}[/math] থেকে [math]l=40\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 422582)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের প্রথম, দ্বিতীয় ও চতুর্থ বাহুর রোধ যথাক্রমে [math]5, 20[/math] এবং [math]64\Omega[/math] । তৃতীয় বাহুর রোধ কত হলে ব্রিজটি সাম্যাবস্থায় থাকবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](16 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]\begin{array}{l} P=5 \Omega \\ Q=20 \Omega \\ S=64 \Omega \\ R=? \end{array}[/math]
+আমরা জানি,[math]\frac{\mathrm{P}}{\mathrm{Q}}=\frac{\mathrm{R}}{\mathrm{S}}[/math]
+ [math]\begin{aligned} \Rightarrow R & =\frac{P \times S}{Q} \\ & =\frac{5 \times 64}{20} \\ & =16 \Omega \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের সাম্যাবস্থার শর্ত হল [math]\frac{R_1}{R_2}=\frac{R_3}{R_4}[/math]. এখানে [math]R_1=5\Omega,\;R_2=20\Omega,\;R_4=64\Omega[/math], তাই [math]R_3=R_4\frac{R_1}{R_2}=64\times\frac{5}{20}=16\Omega[/math], অর্থাৎ তৃতীয় বাহুর রোধ [math]16\Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 422583)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চার বাহুতে যথাক্রমে [math]15, 45, 5[/math] এবং [math]24\Omega[/math] রোধ যুক্ত আছে। তৃতীয় বাহুতে কত মানের রোধ শ্রেণি সংযোগে যুক্ত করলে ব্রিজটি সাম্যাবস্থায় আসবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3 \Omega)[/math]
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের সাম্যাবস্থা হলে প্রথমদ্বয় ও তৃতীয়-চতুর্থ বাম্বু সম্পর্ক থাকে [math]R_1/R_2 = R_3^{\text{(total)}}/R_4[/math], এখানে [math]R_1=15,\;R_2=45,\;R_3=5,\;R_4=24[/math] এবং তৃতীয় বাহুতে সিরিজে [math]x[/math] যোগ করলে [math]15/45=(5+x)/24[/math]. ফলে [math]5+x=24\times(15/45)=8[/math] এবং [math]x=3\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 422584)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চার বাহুতে যথাক্রমে [math]6, 3, 4[/math] ও 6 ও'মের চারটি রোধ আছে। চতুর্থ বাহু র রোধের সাথে কত রোধের একটি শান্ট ব্যবহার করলে ব্রিজটি ভারসাম্য অবস্থা লাভ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3 \Omega)[/math]
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের ভারসাম্য শর্ত হল [math]R_1/R_2=R_3/R_4'[/math]. এখানে [math]R_1=6,\ R_2=3,\ R_3=4[/math] এবং চতুর্থ বাহুর সমতুল্য প্রতিরোধ শান্ট [math]S[/math] লাগালে [math]R_4'=\dfrac{6S}{6+S}[/math]. তাই [math]6/3=4/R_4'\Rightarrow R_4'=2[/math] এবং [math]\dfrac{6S}{6+S}=2\Rightarrow S=3\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 422585)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চারটি বাহুতে যথাক্রমে [math]5, 15, 20[/math] এবং [math]100[/math] ও'মের রোধ আছে। চতু র্থ বাহুতে কত রোধ কীভাবে সংযুক্ত করলে ব্রিজটি ভারসাম্য অবস্থায় আসবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ সমান্তরাল সংযোগে [math]150 \Omega[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের ভারসাম্য শর্ত হল [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math]; এখানে ধরে নিলে [math]R_1=5,\;R_2=15,\;R_3=20[/math], তাই [math]R_4=\dfrac{R_2R_3}{R_1}[/math]. ফলে [math]R_4=\dfrac{15\times20}{5}=60\ \Omega[/math], অর্থাৎ চতুর্থ বাহুতে [math]60\ \Omega[/math] সংযুক্ত করলে ব্রিজ ভারসাম্য হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 422586)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চার বাহুতে [math]100, 300, 24[/math] এবং [math]60[/math] ওমের রোধ আছে। প্রথম বাহুতে কত রোধ কীভাবে সংযুক্ত করলে ব্রিজটি ভারসাম্য অবস্থায় আসবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ শ্রেণি সংযোগে [math]20\Omega[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভারসাম্য শর্ত হল [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math]। অতএব প্রয়োজনীয় প্রথম বাহুর রোধ হবে [math]R_1=R_2\cdot\dfrac{R_3}{R_4}=300\cdot\dfrac{24}{60}=120\ \Omega[/math]। যেহেতু প্রথম বাহুতে বর্তমানে [math]100\ \Omega[/math] আছে, সুতরাং ব্রিজ ভারসাম্যের জন্য প্রথম বাহুতে [math]20\ \Omega[/math] সিরিজে যোগ করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 422587)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মিটার ব্রিজের দুই শূন্য স্থানের একটিতে [math]8 \Omega[/math] এবং অন্যটিকে [math]10 \Omega[/math] রোধ যুক্ত করা হলো। ভারসাম্য বিন্দু কোথায় হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](44.44 \ cm)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]\begin{array}{l} \mathrm{R}=8 \Omega \\ \mathrm{S}=10 \Omega \end{array}[/math]
+ভারসাম্য বিন্দুর দূরত্ব, [math]l=?[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{\mathrm{R}}{\mathrm{S}}=\frac{l}{100-l} \\ \Rightarrow \frac{8}{10}=\frac{l}{100-l} \\ \Rightarrow 10 l=800-8 l \\ \Rightarrow 18 l=800 \\ \Rightarrow l=\frac{800}{18} \\ \therefore \quad l=44.44 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: মিটার ব্রিজে ভারসাম্য হলে দুই প্রতিরোধের অনুপাত লম্বার অনুপাতের সমান থাকে, তাই [math]\dfrac{8}{10}=\dfrac{l}{100-l}[/math] এবং সমাধান করলে [math]5l=4(100-l)\Rightarrow l=\dfrac{400}{9}\ \text{cm}\approx44.44\ \text{cm}[/math]; এটি [math]8\Omega[/math] যুক্ত প্রান্ত থেকে মাপলে ভারসাম্য বিন্দু।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 422572)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের তিন বাহুর রোধ [math]10,100[/math] ও [math]60 \Omega[/math] ছিল এবং অজানা রোধ নির্ণয় করা হলো [math]6 \Omega[/math] । কোষের তড়িচ্চালক বল [math]1.5 \ V[/math] এবং অভ্যন্তরীণ রোধ [math]0.5 \ \Omega[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. গ্যালভানোমিটারের স্থানে ব্যাটারি এবং ব্যাটারির স্থানে গ্যালভানোমিটার স্থাপন করলে কি হুইটস্টোন ব্রীজ নীতির পরিবর্তন হবে? যুক্তিসহ উত্তর দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘগ্যালভানোমিটারের স্থানে ব্যাটারি এবং ব্যাটারির স্থানে গ্যাভানোমিটার স্থাপন করলে হুইটস্টোন ব্রীজ নীতির পরিবর্তন হবে না। এর সপক্ষে যুক্তি নিম্নরূপ :
+[Image]
+ধরি, B ও D বিন্দুর মধ্যকার বিভব পার্থক্য = vএবং গ্যালভানোমিটারটি সাম্যাবস্থায় আছে, অর্থাৎ [math]I_g[/math]
+ = 0তাহলে BAD এর মধ্য দিয়ে তড়িৎপ্রবাহ, [math]I_{1}=\frac{V}{P+R}[/math]
+এবং BCD এর মধ্য দিয়ে তড়িৎপ্রবাহ, [math]I_{2}=\frac{V}{Q+S}[/math]
+ [math]\therefore[/math]
+ A বিন্দুর বিভব, [math]\mathrm{V}_{1} {=} \mathrm{V}-\mathrm{I}_{1} \mathrm{P}=\mathrm{V}-\frac{\mathrm{V}}{\mathrm{P}+\mathrm{R}} \mathrm{P}[/math]
+এবং C বিন্দুর বিভব, [math]V_{2}=V-I_{2} Q=V-\frac{V}{Q+S} Q[/math]
+গ্যালভানোমিটারের তড়িৎপ্রবাহ শূন্য হওয়ায়, [math]V_{1}=V_{2}[/math]
+ [math]\begin{array}{l}V-\frac{V}{P+R} P=V-\frac{V}{Q+S} Q \\\Rightarrow-\frac{V}{P+R} P=-\frac{V}{Q+S} Q \\\Rightarrow\frac{P}{P+R}=\frac{Q}{Q+S}\end{array}[/math]
+ [math]\Rightarrow\frac{P+R}{P} {=} \frac{Q+S}{Q}[/math]
+ [math]\begin{array}{l}\Rightarrow\text { } 1+\frac{R}{P}=1+\frac{S}{Q} \\\Rightarrow\frac{R}{P}=\frac{S}{Q}\end{array}[/math]
+ [math]\frac{\mathrm{P}}{\mathrm{Q}}=\frac{\mathrm{R}}{\mathrm{S}}[/math]
+, যা হুইটস্টোন ব্রীজ নীতি ।সুতরাং গ্যালভানোমিটারের স্থানে ব্যাটারী এবং ব্যাটারির স্থানে গ্যালভানোমিটার স্থাপন করলে হুইটস্টোন ব্রীজ নীতির পরিবর্তন হবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ না — হুইটস্টোন ব্রিজের নীতি পরিবর্তিত হবে না; ভারসাম্য শর্তটি কেবল প্রতিরোধের অনুপাতে নির্ভর করে এবং তা [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_x}[/math]। ব্যাটারি ও গ্যালভানোমিটার বদলালে যদি সংযোগ একই থাকে, ভারসাম্যের সময় গ্যালভানোমিটারে কোন স্রোত নেই, ফলে ব্যাটারীর অভ্যন্তরীণ রোধও ভারসাম্য শর্ত বদলায় না।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 422571)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের তিন বাহুর রোধ [math]10,100[/math] ও [math]60 \Omega[/math] ছিল এবং অজানা রোধ নির্ণয় করা হলো [math]6 \Omega[/math] । কোষের তড়িচ্চালক বল [math]1.5 \ V[/math] এবং অভ্যন্তরীণ রোধ [math]0.5 \ \Omega[/math]
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকে উল্লিখিত কোষের মধ্য দিয়ে তড়িৎ প্রবাহ কত? নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, P = 100 [math]\Omega[/math]
+, Q = 60 [math]\Omega[/math]
+, R = 10 [math]\Omega[/math]
+, S = 6 [math]\Omega[/math]
+কোষের তড়িচ্চালক বল, E = 1.5 Vএবং অভ্যন্তরীণ রোধ, r = 0.5 [math]\Omega[/math]
+কোষের মধ্য দিয়ে তড়িৎপ্রবাহ, I = ?লক্ষ্য করি, [math]\frac{P}{Q}=\frac{100 \Omega}{60 \Omega}=\frac{5}{3}[/math]
+ এবং [math]\frac{R}{S}=\frac{10 \Omega}{6 \Omega}=\frac{5}{3}[/math]
+তাহলে , [math]\frac{P}{Q}=\frac{R}{S}[/math]
+ সুতরাং হুইটস্টোন ব্রীজটি সাম্যাবস্থায় আছে । Q S এক্ষেত্রে গ্যালভানোমিটারের মধ্য দিয়ে কোনো তড়িৎপ্রবাহিত হবে না এবং P, Q রোধদ্বয় তথা R, S রোধদ্বয় শ্রেণিতে যুক্ত ।P, Q এর তুল্যরোধ = P + Q = 100 [math]\Omega[/math]
+ + 60 [math]\Omega[/math]
+ = 160 [math]\Omega[/math]
+এবং R, S এর তুল্যরোধ = R + S = 10 [math]\Omega[/math]
+ + 6 [math]\Omega[/math]
+ = 16 [math]\Omega[/math]
+কোষের বহিঃস্থ. বর্তনীর তুল্য রোধ, R [math]\prime[/math]
+ = 160 [math]\Omega[/math]
+ এবং 16 [math]\Omega[/math]
+ এর সমান্তরাল সমবায়ে তুল্য রোধ[math]\begin{array}{l}=\left(\frac{1}{160 \Omega}+\frac{1}{16 \Omega}\right)^{-1}=\left(\frac{1+10}{160 \Omega}\right)^{-1} \\= \frac{160 \Omega}{11}\end{array}[/math]
+সুতরাং কোষের মধ্য দিয়ে তড়িৎপ্রবাহ,[math]\begin{array}{c}I=\frac{E}{R^{\prime}+r}=\frac{1.5 V}{\frac{160 \Omega}{11}+0.5 \Omega} \\=0.0997 \mathrm{~A}\end{array}[/math]
+ [math]\approx[/math]
+ 0.1A (প্রায়) (Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ হুইটস্টোন ব্যালান্স শর্তে [math]\dfrac{100}{10}=\dfrac{60}{6}[/math], তাই এক শাখার রোধ [math]100+60=160\ \Omega[/math] এবং অন্য শাখার রোধ [math]10+6=16\ \Omega[/math]। বাহ্যিক সমতুল্য রোধ [math]R_{ext}=\dfrac{160\times16}{160+16}=\dfrac{2560}{176}=\dfrac{160}{11}\ \Omega[/math], মোট রোধ হচ্ছে [math]R_{tot}=\dfrac{160}{11}+0.5\approx15.045\ \Omega[/math]। অতএব কোষের মধ্য দিয়ে প্রবাহ [math]I=\dfrac{1.5}{15.045}\approx0.10\ \text{A}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 422561)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকের বর্তনী হতে নিচের প্রশ্নগুলোর উত্তর দাও:
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের বর্তনীর [math]P[/math] ও [math]Q[/math] বিন্দুর মাঝখানে একটি গ্যালভানোমিটার নগণ্য রোধের তার দ্বারা 'সংযুক্ত করলে কোন দিক হতে গ্যালভানোমিটারের মধ্যে তড়িৎ প্রবাহিত হবে? বিশ্লেষণ কর ।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ঘ ব্যাখ্যা: গ্যালভানোমিটারে ধারাবাহিক প্রবাহ সবসময় উচ্চ সম্ভাব্যতা থেকে নিম্ন সম্ভাব্যতার দিকে হয়; প্রদত্ত বর্তনী বিশ্লেষণে P বিন্দুতে সম্ভাব্যতা Q থেকে বেশি থাকে, তাই গ্যালভানোমিটারের মধ্যে তড়িৎ প্রবাহ হবে P থেকে Q দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 422562)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের প্রথম ও দ্বিতীয় বাহুতে রোধের অনুপাত [math]2:3[/math]। তৃতীয় বাহুর রোধ [math]6 \ \Omega[/math] হলে চতুর্থ বাহুর রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](9 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+ধরি, হুইটস্টোন ব্রীজের প্রথম বাহুতে রোধ [math]P[/math]
+দ্বিতীয় বাহুতে রোধ [math]Q[/math]
+এখানে,[math]\frac{P}{Q}=\frac{2}{3}[/math]
+তৃতীয় বাহুতে রোধ, [math]R=6\Omega[/math]
+চতুর্থ বাহুতে রোধ [math]S=?[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{P}{Q}=\frac{R}{S} \\ \Rightarrow \frac{2}{3}=\frac{6}{S} \\ \therefore S=\frac{3 \times 6}{2} \\ S=9 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজে সমতুল্য হলে [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math] হয়; এখানে [math]R_1:R_2=2:3[/math] এবং [math]R_3=6\ \Omega[/math]। তাই [math]R_4=R_3\cdot\dfrac{R_2}{R_1}=6\cdot\dfrac{3}{2}=9\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 422563)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের চার বাহুতে যথাক্রমে [math]2 \Omega, 6 \Omega, 10 \Omega[/math] এবং [math]2 0 \Omega[/math] রোধ আছে। চতুর্থ বাহুতে কত রোধ কীভাবে যুক্ত করলে ব্রীজটি সাম্যাবস্থা লাভ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]10 \Omega[/math]
+ শ্রেণি সমবায়ে।[math]\\[/math]
+ [math][/math]
+এখানে,প্রথম বাহুতে রোধ, [math]P=2 \Omega[/math]
+দ্বিতীয় বাহুতে রোধ, [math]Q=6 \Omega[/math]
+তৃতীয় বাহুতে রোধ, [math]R= 10 \Omega[/math]
+চতুর্থ বাহুতে রোধ, [math]S_1 = 20 \Omega[/math]
+চতুর্থ বাহুতে প্রয়োজনীয় অতিরিক্ত রোধ, [math]S_2 =?[/math]
+ [math]\\[/math]
+সাম্যাবস্থায় চতুর্থ বাহুর রোধ [math]S[/math]
+ হলে ,[math]\begin{array}{l} \frac{P}{Q}=\frac{R}{S} \\ \Rightarrow S=\frac{Q}{P} \times R=\frac{6 \Omega}{2 \Omega} \times 10 \Omega \\ \Rightarrow S=30 \Omega \end{array}[/math]
+সাম্যাবস্থার রোধ S বর্তমান রোধ [math]S_1[/math]
+ এর চেয়ে বেশি। সেক্ষেত্রে আমাদের [math]S_2[/math]
+ পরিমাণ রোধ [math]S_1[/math]
+ এর সাথে শ্রেণিতে যুক্ত করতে হবে, যাতে তাদের তুল্য রোধ [math]S[/math]
+ এর সমান হয়। কারণ শ্রেণিতে যুক্ত করলে তুল্য রোধ বাড়ে।এখন,[math]\begin{array}{l} S=S_{1}+S_{2} \\ S_{2}=S-S_{1}=30 \Omega-20 \Omega \end{array}[/math]
+ [math]S_2=10 \Omega[/math]
+ শ্রেণি সমবায়ে [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজের সাম্যাবস্থা শর্ত হল [math]R_1/R_2=R_3/R_4[/math]. ধরা যাক চতুর্থ বাহুতে সিরিজে [math]x[/math] যোগ করলে [math]R_4'=20+x[/math], তাই [math]2/6=10/(20+x)[/math] থেকে [math]20+x=30[/math] এবং [math]x=10\ \Omega[/math]. অতএব চতুর্থ বাহুতে সিরিজে [math]10\ \Omega[/math] যুক্ত করলে ব্রিজটি সাম্যাবস্থা লাভ করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 422564)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রিজের চার বাহুতে যথাক্রমে [math]2\Omega,4\Omega,3\Omega[/math]এবং [math]9\Omeg a[/math] রোধ আছে। চতুর্থ বাহুতে কত রোধ কীভাবে যুক্ত করলে ব্রিজটি ভারসাম্য লাভ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]18 \Omega[/math]
+ এর রোধ সমান্তরালে যুক্ত করতে হবে।[math]\\[/math]
+ [math][/math]
+মনে করি, চতুর্থ বাহুর সাথে [math]S_2[/math]
+ মানের রোধ যুক্ত করলে সমতুল্য রোধ [math]S[/math]
+ হয় এবং ব্রিজটি সাম্যাবস্থায় থাকবে।আমরা জানি,[math]\begin{array}{c} \frac{\mathrm{P}}{\mathrm{Q}}=\frac{\mathrm{R}}{\mathrm{S}} \\ \Rightarrow \frac{2}{4}=\frac{3}{\mathrm{~S}} \\ \Rightarrow \mathrm{S}=3 \times \frac{4}{2} \\ \therefore \mathrm{S}=6 \Omega \end{array}[/math]
+যেহেতু, [math]S<9 \Omega[/math]
+ । সুতরাং কিছু রোধ [math]S_2[/math]
+ সমান্তরালে যুক্ত করতে হবে যাথে তুল্য রোধ [math]S=6\Omega[/math]
+ হয়।[math]\begin{array}{l}\therefore \quad \frac{1}{S}=\frac{1}{S_{1}}+\frac{1}{S_{2}}\\\Rightarrow \frac{1}{6}=\frac{1}{9}+\frac{1}{S_{2}}\\\Rightarrow \frac{1}{6}-\frac{1}{9}=\frac{1}{S_{2}}\end{array}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{1}{18}=\frac{1}{S_{2}} \\ \therefore \quad S_{2}=18 \Omega \end{array}[/math]
+ [math]\therefore \ 18\Omega[/math]
+ এর রোধ সমান্তরাল যুক্ত করতে হবে। [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রিজ ভারসাম্যের শর্ত হল বিপরীত বাহুদের গুণফল সমান, অর্থাৎ [math]R_1R_4=R_2R_3[/math]. এখানে [math]2\times R_4=4\times 3=12[/math] হওয়ার জন্য চাই যেখানে [math]R_4=6\Omega[/math]. বর্তমানে চতুর্থ বাহুতে [math]9\Omega[/math], তাই প্রয়োজনে সেটির সাথে সমান্তরালে একটি রোধ যোগ করলে সমবিস্তার R হবে: [math]\frac{9R_p}{9+R_p}=6[/math] থেকে [math]R_p=18\Omega[/math]. তাই [math]9\Omega[/math] রোধের সঙ্গে [math]18\Omega[/math] সমান্তরাল যুক্ত করলে ব্রিজ ভারসাম্য পাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 422565)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মিটার ব্রীজের ডান ফাঁকে [math]12[/math] ও'মের একটি আদর্শ রোধ এবং নাম ফাঁকে অজ্ঞাত রোধ যুক্ত করলে তারের বাম প্রান্ত থেকে
+
+[math]37.5 \ cm[/math] দূরে নিস্পন্দ বিন্দু পাওয়া গেল। অজ্ঞাত রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](7.2 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ডান ফাঁকে রোধ, [math]Q=12 \ \Omega[/math]
+বামপ্রান্ত হতে ভারসাম্য বিন্দুর দূরত্ব, [math]l=37.5 \ cm[/math]
+বাম ফাঁকে রোধ, [math]P=?[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{P}{Q}=\frac{l}{100-l} \\ \Rightarrow \frac{P}{12}=\frac{37.5 \mathrm{~cm}}{100 \mathrm{~cm}-37.5 \mathrm{~cm}} \\ \Rightarrow P=(12 \times 0.6) \Omega \\ \therefore P=7.2 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: মিটার ব্রিজের সুষম অবস্থায় দুই ফাঁকের প্রতিরোধের অনুপাত তারের দুই অংশের দৈর্ঘ্যের অনুপাতে থাকে, অর্থাৎ [math]\dfrac{R_{\text{অজানা}}}{12}=\dfrac{37.5}{100-37.5}=\dfrac{37.5}{62.5}=\dfrac{3}{5}[/math]. তাই [math]R_{\text{অজানা}}=12\times\dfrac{3}{5}=7.2\ \Omega[/math], যা সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 422566)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পোস্ট অফিস বক্সের অনুপাত বাহুদ্বয়ের রোধ যথাক্রমে [math]1000 \Omega[/math] ও [math]10 \Omega[/math] । তৃতীয় বাহুতে [math]536 \Omega[/math] রোধ দেয়া হলে গ্যালভানোমিটারের বিক্ষেপ শূন্য হয়। চতুর্থ বাহুতে অজানা রোধের মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5.36 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,অনুপাত বাহুদ্বয়ের রোধ যথাক্রমে,[math]P=1000 \Omega[/math]
+ [math]Q=10 \Omega[/math]
+তৃতীয় বাহুতে রোধ, [math]R=536 \Omega[/math]
+অজানা রোধ, [math]S=?[/math]
+আমরা জানি,[math]\begin{array}{l} \quad \frac{P}{Q}=\frac{R}{S} \\ \Rightarrow \frac{1000 \Omega}{10 \Omega}=\frac{536}{S} \Omega \\ \Rightarrow S=\frac{536}{100} \Omega \\ \therefore S=5.36 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভারসাম্য কন্ডিশন হলো [math]R_1/R_2 = R_3/R_4[/math] তাই [math]1000/10 = 536/R_4\Rightarrow R_4 = 536\times10/1000 = 5.36\ \Omega[/math]; অতএব অজানা রোধ [math]5.36\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 422567)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পটেনশিওমিটার দ্বারা কোনো কোষের তড়িচ্চালক বল নির্ণয়কালে পরীক্ষাধীন কোষ ও আদর্শ কোষের জন্য সাম্যবিন্দুর দূরত্ব যথাক্রমে [math]500 cm[/math]ও [math]400 cm[/math] পাওয়া গেল। আদর্শ কোষের তড়িচ্চালক বল [math]1.2 \ V[/math] হলে কোষটির তড়িচ্চালক বস নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.5 \ V)[/math]
+ [math]\\[/math]
+ [math][/math]
+ধরি, পটেনসিওমিটারের সম্পূর্ণ তারের দৈর্ঘ্য [math]L[/math]
+, এর রোধ [math]R[/math]
+ এবং স্থির তড়িৎ প্রবাহ [math]I[/math]
+এখানে,আদর্শ কোষের তড়িচ্চালক বল, [math]E_1 = 1.2 \ V[/math]
+আদর্শ কোষের জন্য সাম্যবিন্দুর দূরত্ব, [math]l_2=400 \ cm[/math]
+পরীক্ষাধীন কোষের জন্য সাম্যবিন্দুর দূরত্ব, [math]l_2=500 \ cm[/math]
+পরীক্ষাধীন কোষের তড়িচ্চালক বল, [math]E_2=?[/math]
+ [math]\\[/math]
+এখন,[math]\mathrm{E}_{1}=\frac{I l_{1} \mathrm{R}}{\mathrm{L}}[/math]
+এবং[math]E_{2}=\frac{I l_{2} R}{L}[/math]
+ [math]\begin{array}{l} \therefore \frac{E_{2}}{E_{1}}=\frac{l_{2}}{l_{1}} \\ \therefore \mathrm{E}_{2}=\frac{l_{2}}{l_{1}} \times \mathrm{E}_{1} \\ =\frac{500 \mathrm{~cm}}{400 \mathrm{~cm}} \times 1.2 \mathrm{~V} \\ =1.5 \mathrm{~V} \\ \end{array}[/math]
+ [math]\therefore[/math]
+ পরীক্ষাধীন কোষের মান [math]1.5 \ V \ (Ans.)[/math]
+
+
+Explanation:
+পটেনশিওমিটারে সাম্যবিন্দুর দূরত্ব সরাসরি তড়িচ্চালক বলের অনুপাতিক কারণ লাইন বরাবর ভোল্টেজ গ্রেডিয়েন্ট ধ্রুব। তাই [math]E_{\text{test}}=1.2\times\frac{500}{400}=[math]1.5\ \text{V}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 422568)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পটেনশিওমিটারের মধ্যে নির্দিষ্ট প্রবাহের জন্য একটি কোষের ক্ষেত্রে নিস্পন্দ বিন্দু [math]511 \ cm[/math] দূরে পাওয়া গেল। কোষটির সমান্তরালে [math]2 \ \Omega[/math] রোধ যুক্ত করলে [math]315 \ cm[/math] দূরে নিস্পন্দ বিন্দু পাওয়া যায়। কোষটির অভ্যন্তরীণ রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.24 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রথম নিস্পন্দ বিন্দুর দূরত্ব, [math]l_1=511 \ cm[/math]
+দ্বিতীয় নিস্পন্দ বিন্দুর দূরত্ব, [math]l_2=315cm[/math]
+সমান্তরালে সংযোগকৃত রোধ, [math]R=2\Omega[/math]
+কোষের অভ্যন্তরীণ রোধ, [math]r = ?[/math]
+আমরা জানি,অভ্যন্তরীণ রোধ,[math]\begin{aligned} \mathbf{r} & =\frac{l_{1}-l_{2}}{l_{2}} \mathbf{R} \\ & =\frac{511 \mathrm{~cm}-315 \mathrm{~cm}}{315 \mathrm{~cm}} \times 2 \Omega \\ & =1.24 \Omega \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পটেনশিওমিটারে দৈর্ঘ্য সরাসরি ভোল্টেজের অনুপাত দেখায়, তাই প্রথমে [math]L_1=511\ \text{cm}[/math] হলে [math]E∝L_1[/math] এবং রোধ [math]R=2\ \Omega[/math] সংযুক্ত করলে টার্মিনাল ভোল্টেজ [math]V=E\frac{R}{R+r}[/math], যেখানে নতুন দৈর্ঘ্য [math]L_2=315\ \text{cm}[/math]. ফলে [math]\frac{L_2}{L_1}=\frac{R}{R+r}[/math] থেকে সমাধান করলে [math]r=R\left(\frac{L_1}{L_2}-1\right)=2\left(\frac{511}{315}-1\right)=\frac{56}{45}\ \Omega\approx1.244\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 422569)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বরফগলা পানিতে রাখা একটি তারের কুণ্ডলীর রোধ মিটার ব্রীজের সাহায্যে নির্ণয় করে পাওয়া যায় [math]5 \ ohm[/math] যখন কুণ্ডলীটিকে [math]100°C[/math] তাপমাত্রায় উত্তপ্ত করা হয় এর সাথে [math]100 \ ohm[/math] রোধকে সমান্তরালে যুক্ত করা হলে ব্রীজের ভারসাম্য অবস্থা পুনঃস্থাপিত হয়।
+
+Options:
+গ. উদ্দীপকে উল্লিখিত কুণ্ডলী টির রোধের তাপমাত্রা সহগ নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,0°C তাপমাত্রায় রোধ, [math]R_0[/math]
+ = 5 [math]\Omega[/math]
+100°C তাপমাত্রায় রোধ, R = 5 [math]\Omega[/math]
+ এবং 100 [math]\Omega[/math]
+ এরসমান্তরালে তুল্যরোধ [math]=\left(\frac{1}{5 \Omega}+\frac{1}{100 \Omega}\right)^{-1}=\left(\frac{20+1}{100 \Omega}\right)^{-1}=[/math]
+ [math]\frac{100 \Omega}{21}=4.762 \Omega[/math]
+তাপমাত্রা বৃদ্ধি, [math]\Delta\theta[/math]
+ = 100°C – 0°C = 100°C = 100Kবের করতে হবে, রোধের তাপমাত্রা সহগ, [math]\alpha = ?[/math]
+আমরা জানি,[math]\begin{array}{l}\mathrm{R}=\mathrm{R}_{0}(1+\alpha \Delta \theta) \\1+\alpha \Delta \theta=\frac{\mathrm{R}}{\mathrm{R}_{0}}\end{array}[/math]
+ [math]\alpha \Delta \theta=\frac{R}{R_{0}}-1[/math]
+ [math]\therefore \quad \alpha=\frac{\frac{R}{R_{0}}-1}{\Delta \theta}=\frac{\frac{4.762 \Omega}{5 \Omega}-1}{100 \mathrm{~K}}=4.8 \times 10^{-4}\mathrm{~K}^{-1} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কুণ্ডলীর 0°C এ রোধ [math]R_0=5\ \Omega[/math], 100°C এ রোধ [math]R_{100}=R_0(1+100\alpha)[/math]। সমান্তরালে [math]100\ \Omega[/math] যুক্ত করলে সমতুল্য রোধটি আবারও [math]5\ \Omega[/math] হওয়ায়
+[math]\frac{R_{100}\times100}{R_{100}+100}=5[/math] থেকে [math]R_{100}=\frac{100}{19}\ \Omega[/math] পাওয়া যায়। তাই
+[math]1+100\alpha=\frac{R_{100}}{R_0}=\frac{100/19}{5}=\frac{20}{19}[/math], ফলে [math]\alpha=\frac{1}{1900}\ \mathrm{°C^{-1}}\approx5.26\times10^{-4}\ \mathrm{°C^{-1}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 422570)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বরফগলা পানিতে রাখা একটি তারের কুণ্ডলীর রোধ মিটার ব্রীজের সাহায্যে নির্ণয় করে পাওয়া যায় [math]5 \ ohm[/math] যখন কুণ্ডলীটিকে [math]100°C[/math] তাপমাত্রায় উত্তপ্ত করা হয় এর সাথে [math]100 \ ohm[/math] রোধকে সমান্তরালে যুক্ত করা হলে ব্রীজের ভারসাম্য অবস্থা পুনঃস্থাপিত হয়।
+
+Options:
+ঘ. মিটার ব্রীজের সাহায্যে অজানা রোধ নির্ণয়ের জন্য কোন সরাসরি [math](direct)[/math] এবং বিপরীতমুখী [math](reverse)[/math] তড়িৎ প্রবাহেরজন্য পাঠ নিতে বলা হয়? ব্রীজ তারের তাপমাত্রা সহগ কম হলে এ ক্ষেত্রে কী সুবিধা উত্তরের সপক্ষে যুক্তি দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘমিটার ব্রীজে এক মিটার দৈর্ঘ্যের তারটি যখন দু'প্রান্তে ঝালাই করা হয় তখন এতে কিছু প্রান্ত এটি অন্তর্ভুক্ত হয়। এছাড়া দীর্ঘদিন ব্যবহারের দরুন তারটিতে কোনো কোনো স্থানে ক্ষয় হয়ে যেতে পারে, অর্থাৎ দৈর্ঘ্য বরাবর তারের রোধের ধর্ম অসমরূপ হয়ে যেতে পারে। এরূপ ত্রুটিপূর্ণ তারের ব্যবহারের দ্বারা অজানা রোধ পরিমাপ করলে ভুল মান পাওয়া যেতে পারে।এ কারণে মিটার ব্রীজের সাহায্যে অজানা রোধ নির্ণয়ের জন্য সরাসরি (direct) এবং বিপরীতমুখী (reverse) তড়িৎপ্রবাহের জন্য পাঠ নিতে বলা হয় । তাতে ‘সরাসরি' পাঠে প্রাপ্ত মান অজানা রোধের প্রকৃত মানের চেয়ে কিছুটা বেশি হলেও ‘বিপরীতমুখী' পাঠে প্রাপ্তমান অজানা রোধের প্রকৃত মানের চেয়ে কিছুটা কম হয়। পরবর্তীতে এই পাঠের গড় অজানা রোধের শুদ্ধতর মান উপস্থাপন করে।ব্রীজ তারের তাপমাত্রা সহগ বেশি হলে কিছুক্ষণ তড়িৎপ্রবাহের ফলে তারটি উত্তপ্ত হয়ে পড়ে। তদুপরি তারটি অসমভাবে উত্তপ্ত হওয়ার সম্ভাবনা থাকে, যেমন- বাম দিকে বেশি উত্তপ্ত এবং ডান দিকে কম উত্তপ্ত)। ফলে এরূপ উত্তপ্ত তার ব্যবহারে অজানা রোধের মান নিৰ্ণয় করলে তা ত্রুটিপূর্ণ পাওয়ার সম্ভাবনা রয়েছে। এ কারণে ব্রীজ তারের তাপমাত্রা সহগ কম হলে এক্ষেত্রে বেশ সুবিধা পাওয়া যায় অর্থাৎ, অজানা রোধের শুদ্ধতর মান পাওয়া সম্ভব হয় ।
+
+Explanation:
+ঘ সরাসরি ও বিপরীত পাঠ বলতে বোঝায় একই অজানা এবং মান রোধের সংযুক্তি পরস্পর বিপরীত করে দুইবার ব্রীজের ভারসাম্য লেন্থ নেয়া (অর্থাৎ রোধদুটোর স্থান বা ব্যাটারি-কানেকশন উল্টে নেয়া) এবং ঐ দুই ফলাফলের গড় নেওয়া; এতে সিসটেম্যাটিক ত্রুটি কমে। সুবিধা: ব্রীজ তারের তাপমাত্রা সহগ কম হলে তার রোধ পরিবর্তন সামান্য হয়, তাই স্ব-তাপপ্রজনিত ভুল কমে এবং গড় [math]R=\frac{R_{\rm direct}+R_{\rm reverse}}{2}[/math] দ্বারা পাওয়া মান বেশি নির্ভরযোগ্য হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 422560)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. রোধগুলোর মধ্যে সম্পর্ক কেমন হলে মিলিঅ্যামিটারের শূন্য হবে- গাণিতিকভাবে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ 
+[Image]
+মনে করি, মিলিঅ্যামিটারের রোধ RABDCA লুপে কির্শফের দ্বিতীয় সূত্র প্রয়োগ করে পাই,[math]i_1R_1 + i_AR - i_3R_3 = 0[/math]
+... ... ... (i)আবার, BEFDB লুপে কির্শফের দ্বিতীয় সূত্র প্রয়োগ করে পাই,[math]i_2R_2 - i_4R_4 - i_AR = 0[/math]
+... ... ... (ii)B বিন্দুতে কির্শফের ১ম সূত্র প্রয়োগ করে পাই,D বিন্দুতে কির্শফের ১ম সূত্র প্রয়োগ করে পাই,[math]i_3 + i_A - i_4 = 0[/math]
+ ... ... ... (iv)মিলিঅ্যামিটারের পাঠ শূন্য হলে, [math]i_A[/math]
+ = 0:: (iii) নং থেকে পাই,$i_1 = i_2এবং (iv) নং থেকে পাই,[math]i_3 = i_4[/math]
+আবার, (i) নং থেকে পাই,$\begin{array}{l}\mathrm{i}_{1} \mathrm{R}_{1}=\mathrm{i}_{3} \mathrm{R}_{3} \\\frac{\mathrm{i}_{1}}{\mathrm{i}_{3}}=\frac{\mathrm{R}_{3}}{\mathrm{R}_{1}}\end{array}$(ii) নং থেকে পাই,$i_2R_2 = i_4R_4বা, i_1R_2 = i_3R_4 [ i_1 = i_2 এবং i_3 = i_4][math]\therefore \frac{i_{1}}{i_{3}}=\frac{R_{4}}{R_{2}}[/math]
+ [math]\therefore \frac {R_3}{R_1} = \frac{R_4}{R_2}[/math]
+এটাই রোধগুলোর মধ্যে নির্ণেয় সম্পর্ক ।
+
+Explanation:
+ঘ ব্যাখ্যা: মিলিঅ্যামিটার শূন্য হলে ব্রিজের দুই নোডের ভোল্টেজ সমান থাকে, তাই দুই ভাঁজের ভোল্টেজ বিভাজকের অনুপাত সমান হবে: [math]\frac{R_1}{R_1+R_2}=\frac{R_3}{R_3+R_4}[/math]; সরল করলে পাওয়া যায় [math]R_1R_4=R_2R_3[/math] বা সমতুল্যভাবে [math]\frac{R_1}{R_2}=\frac{R_3}{R_4}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 422559)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ্য কর এবং প্রশ্নগুলোর উত্তর দাও:
+
+
+[Image]
+
+
+Options:
+ঘ. [math]15 \ \Omega[/math] রোধের সাথে কত রোধ কীভাবে যুক্ত করলে গ্যালভানোমিটার বিক্ষেপ দিবে না, গাণিতিক যুক্তিসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ঘ ব্যাখ্যা: ওয়েটস্টোন ব্রিজের জন্য ব্যালেন্স শর্ত হলো [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math]; এখানে যদি উপরের শাখায় [math]10\ \Omega[/math], তার বিপরীতে [math]15\ \Omega[/math] এবং অন্য শাখায় উপরেরটি [math]6\ \Omega[/math] দেওয়া থাকে, তাহলে অপর নিচের রোধ [math]R[/math] পাওয়া যাবে: [math]\dfrac{10}{15}=\dfrac{6}{R}\Rightarrow R=\dfrac{6\times15}{10}=9\ \Omega[/math]। তাই 15 Ω রোধের বিপরীতে ব্রিজের সমানুপাত বজায় রাখতে [math]9\ \Omega[/math] সংযুক্ত করলে গ্যালভানোমিটার বিক্ষেপ দিবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 422555)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের বর্তনীর [math]P[/math] ও [math]Q[/math] বিন্দুর মাঝখানে একটি 'গ্যালভানোমিটার নগণ্য রোধের তার দ্বারা সংযুক্ত করলে কোন দিক হতে গ্যালভানোমিটারের মধ্যে তড়িৎ প্রবাহিত হবে? বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+P ও Q বিন্দুতে কিরশফের প্রথম সূত্রানুসারে,[math]\begin{array}{l}\mathrm{i}_{1}=\mathrm{i}_{3}+\mathrm{i}_{\mathrm{g}} \\\mathrm{i}_{2}=\mathrm{i}_{4}-\mathrm{i}_{\mathrm{g}}\end{array}[/math]
+আবার, APQDA ও PBCQP লুপে দ্বিতীয় সূত্র প্রয়োগ করে পাই,[math]\begin{array}{l}R_{1} i_{1}+i_{g} G-R_{3} i_{2}=0 \\R_{2} i_{3}-R_{4} i_{4}-i_{9} G=0\end{array}[/math]
+ [math]\begin{array}{ll}\text { } & 4 \mathrm{i}_{1}+\mathrm{i}_{8} \mathrm{G}-5 \mathrm{i}_{2}=0 \ldots \ldots \ldots . . . (i)\\\text { } & 5 \mathrm{i}_{3}-4 \mathrm{i}_{4}-\mathrm{i}_{2} \mathrm{G}=0 \ldots \ldots \ldots \ldots \text { (ii) }\end{array}[/math]
+(i) + (ii) নং করে পাই,[math]\begin{array}{l}4 i_{1}+5 i_{3}-5 i_{2}-4 i_{4}=0 \\4 i_{3}+4 i_{g}+5 i_{3}-5 i_{4}+5 i_{3}-4 i_{4}=0 \\9 i_{3}+9 i_{g}-9 i_{4}=0\end{array}[/math]
+ [math]\mathrm{i}_{\mathrm{g}}=\mathrm{i}_{4}-\mathrm{i}_{3}[/math]
+যেহেতু, [math]R_4  i_3[/math]
+সুতরাং, [math]i_g[/math]
+ ধনাত্নক[math]i_g[/math]
+ এর দিক P থেকে Q এর দিকে।
+
+Explanation:
+ব্যাখ্যা: গ্যালভানোমিটার শূন্য রোধের তার দিয়ে সংযুক্ত করলে ধারা সেই দিকে প্রবাহিত হবে যা উচ্চ সম্ভাবনা থেকে নিম্ন সম্ভাবনার দিকে; চিত্রে P‑এর সম্ভাবনা Q‑এর চেয়ে বেশি হওয়ায় গ্যালভানোমিটারে ধারা P থেকে Q দিকে প্রবাহিত হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 422556)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি পোটেনসিওমিটার তারে বিদ্যুৎ প্রবাহ নিয়ন্ত্রন করে কোন বিদ্যুৎ কোষের জন্য [math]6m[/math] দূরে নি স্পন্দ বিন্দু পাওয়া গেল। কোণটির দুপ্রান্তের সাথে
+[math]3[/math] ওহমের একটি রোধ যুক্ত করে [math]4m[/math] দূরে নিস্পন্দ বিন্দু পাওয়া যায়। কোণটির অভ্যন্তরীণ রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1.5 \Omega[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{r}=\dfrac{\ell_1-\ell_2}{\ell_2}\mathrm{R}=\dfrac{6-4}{4}R=\dfrac{1}{2}\times3=\dfrac{3}{2}\quad\mid\ \ell_1=6\mathrm{~m};\ \ell_2=4\mathrm{~m};\ R=3\Omega;\ r=? \\ \therefore r=1.5 \Omega[/math]
+
+
+Explanation:
+ব্যাখ্যা: পোটেনসিওমিটারে ব্যালান্স দৈর্ঘ্য সরাসরি টার্মিনাল ভোল্টেজের অনুপাতে থাকে, তাই খালি অবস্থায় [math]l_1=6\;m[/math] ইএমএফ [math]E[/math] কে প্রতিনিধিত্ব করে এবং লোড যুক্ত অবস্থায় [math]l_2=4\;m[/math] টার্মিনাল ভোল্টেজ [math]V[/math] নির্দেশ করে। তাই [math]\dfrac{l_2}{l_1}=\dfrac{V}{E}=\dfrac{3}{3+r}[/math] এবং [math]\dfrac{4}{6}=\dfrac{3}{3+r} \Rightarrow \dfrac{2}{3}=\dfrac{3}{3+r}[/math] থেকে সমাধান করলে [math]r=1.5\;\Omega[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 422557)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের বাহুর বোধ যথাক্রমে [math]8 \Omega,\ 12 \Omega,\ 16 \Omega \ ও \ 20 \Omega[/math]। চতুর্থ বাহুর সাথে কত রোধ যুক্ত করলে ব্রীজটি সাম্যাবস্থায় থাকবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]4\Omega[/math]
+ সিরিজে )[math]\\[/math]
+Solution : [math]\dfrac{P}{Q}=\dfrac{R}{S} \Rightarrow \dfrac{8}{12}=\dfrac{16}{S} \Rightarrow S=24\ ; \[/math]
+ রোধ যুক্ত করতে হবে [math]24-20=4 \Omega[/math]
+ সিরিজে। [math]\text{(Ans. )}[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুইটস্টোন ব্রীজ সাম্যায় থাকে যখন দুইটি বিপরীত বাহুর অনুপাত সমান হয়, তাই [math]\dfrac{8}{12}=\dfrac{16}{20+x}[/math]. সমাধান করলে [math]\dfrac{2}{3}=\dfrac{16}{20+x}\Rightarrow 2(20+x)=48\Rightarrow x=4\ \Omega[/math]. অতএব চতুর্থ বাহুর সাথে [math]4\ \Omega[/math] রোধ যোগ করলে ব্রীজটি সাম্যাবস্থা হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 422558)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি হুইটস্টোন ব্রীজের চারটি বাহুতে যথাক্রমে [math]10,\ 8,\ 20[/math] এবং [math]32\ ohms[/math] রোধ যুক্ত আ ছে। চতুর্থ বাহুতে কত মানের সমান্তরালভাবে যুক্ত করলে ব্রীজটি ভারসাম্য অবস্থায় আসবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]32\Omega[/math]
+)[math]\\[/math]
+Solution :[math]\text{Let,}[/math]
+ চতুর্থ বাহুতে [math]S_2=?[/math]
+ [math]\text{Given, }S_1=32[/math]
+ [math]\\[/math]
+ [math]\hspace{2cm}[/math]
+ [math]\dfrac{\mathrm{P}}{\mathrm{O}}=\dfrac{\mathrm{R}}{\mathrm{S}}\\ \Rightarrow \dfrac{10}{8}=\dfrac{20}{\mathrm{~S}}=\mathrm{S}=16[/math]
+ [math]\\[/math]
+ [math]\hspace{2cm}[/math]
+ [math]\dfrac{1}{S}=\dfrac{1}{S_{1}}+\dfrac{1}{S_{2}}\\ \Rightarrow \dfrac{1}{16}=\dfrac{1}{32}+\dfrac{1}{S_{2}}\\ \Rightarrow \dfrac{1}{S_{2}}=\dfrac{1}{16}-\dfrac{1}{32}\\ \Rightarrow S_{2}=32 \Omega \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্রিজ ভারসাম্যের শর্ত হলো [math]R_1/R_2 = R_3/R_4'[/math]। তাই [math]R_4' = 20\times8/10 = 16\ \Omega[/math] হওয়া চাই। বিদ্যমান [math]32\ \Omega[/math] কে সমানানুভূমিক প্রতিরোধক [math]R_p[/math] দিয়ে সমান্তরালে যোগ করলে [math]1/16 = 1/32 + 1/R_p[/math], থেকে [math]R_p = 32\ \Omega[/math] আসে। তাই আরেকটি [math]32\ \Omega[/math] প্রতিরোধক সমান্তরালে যুক্ত করলে ব্রিজ ভারসাম্য হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 422554)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীটি লক্ষ কর :
+
+[Image]
+
+
+Options:
+গ. চাবি বন্ধ অবস্থায় চতুর্থ বাহুতে কী পরিমাণ রোধ কীভাবে যুক্ত করলে গ্যালভানোমিটারের মধ্য দিয়ে কোনো তড়িৎ প্রবাহিত হবে না?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+১ম বাহুর রোধ, [math]\rm{P=4 \Omega}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় বাহুর রোধ, [math]\rm{Q=12 \Omega}[/math]
+ [math]\hspace{1 cm}[/math]
+৩য় বাহুর রোধ, [math]R=6 \Omega[/math]
+ [math]\hspace{1 cm}[/math]
+৪র্থ বাহুর রোধ, [math]\rm{S_{1}=20 \Omega}[/math]
+মনে করি, চতুর্থ বাহুর রোধ [math]\rm{S}[/math]
+ হলে গ্যালভানোমিটারের মধ্যদিয়ে কোনো তড়িৎ প্রবাহিত হবে না।আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{\dfrac{P}{Q}=\dfrac{R}{S}} \\ \Rightarrow \rm{S=\dfrac{Q R}{P}=\dfrac{12 \Omega \times 6 \Omega}{4}=18 \Omega} \end{array}[/math]
+এখানে, [math]\rm{Sএখন, ধরি, [math]\rm{S_2}[/math]
+ মানের রোধ [math]\rm{S_1}[/math]
+ এর সাথে সমান্তরালে যুক্ত করতে হবে,[math]\hspace{1.5 cm}\begin{array}{l} \therefore\rm{ \dfrac{1}{S}=\dfrac{1}{S_{1}}+\dfrac{1}{S_{2}} }\\ \Rightarrow \rm{\dfrac{1}{S_{2}}=\dfrac{1}{S}-\dfrac{1}{S_{1}}=\dfrac{1}{18 \Omega}-\dfrac{1}{20 \Omega}=-\dfrac{10-9}{180 \Omega}=\dfrac{1}{180 \Omega}} \\ \therefore \rm{~S}_{2}=180 \Omega \end{array}[/math]
+ [math]\therefore[/math]
+ চাবি বন্ধ অবস্থায় চতুর্থ বাহুতে [math]180~ \Omega[/math]
+ মানের রোধ সমান্তরাল সমবায়ে সংযুক্ত করলে গ্যালভানোমিটারের মধ্যদিয়ে কোনো তড়িৎ প্রবাহিত হবে না।
+
+Explanation:
+ব্যাখ্যা:
+গ গ্যালভানোমিটারে ধারা না থাকার জন্য দুই পাশের ভোল্টেজ বিভাজকের অনুপাত সমান থাকতে হবে, অর্থাৎ প্রথম ও দ্বিতীয় বাহুর অনুপাত দ্বিতীয় ও চতুর্থ বাহুর অনুপাতের সমান হবে। যদি উপরের বাম, নিচের বাম এবং উপরের ডান রোধ যথাক্রমে [math]R_1,R_2,R_3[/math] এবং চতুর্থ বাহুতে যোগ্য রোধ [math]R_x[/math] হয়, তাহলে শর্তটি হল [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_x}[/math], ফলে [math]R_x=\dfrac{R_2R_3}{R_1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 422553)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. ব্রীজের সাম্যাবস্থায় [math]ABC[/math] এবং [math]ADC[/math] অংশের প্রবাহমাত্রার অনুপাত এবং রোধের অনুপাতের মধ্যে সম্পর্ক কেমন হবে? গাণিতিক বিশ্লেষণের সাহায্যে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\rm{P=150 \Omega ; Q=100 \Omega ; R=20 \Omega ; S=10 \Omega}[/math]
+ব্রীজটির সাম্যাবস্থায়,[math]\hspace{1.5 cm}\begin{array}{l} \quad~\dfrac{\mathrm{P}}{\mathrm{Q}^{\prime}}=\dfrac{\mathrm{R}}{\mathrm{S}} \\ \Rightarrow \rm{Q^{\prime}=\dfrac{S}{R} \times P=\dfrac{10}{20} \times 150 \Omega }\\ \therefore \rm{Q}^{\prime}=75 \Omega \end{array}[/math]
+সাম্যাবস্থায় ব্রীজটির ২য় বাহুতে রোধের মান [math]75 \Omega[/math]
+ থাকা প্রয়োজন।এখন সাম্যবস্থায় [math]\mathrm{I}_{\mathrm{G}}=0[/math]
+সুতরাং সাম্যাবস্থায় ব্রীজটিতে কার্শফের ২য় সূত্র প্রয়োগ করলে সমীকরণটি দাঁড়ায়—[math]\hspace{1.5 cm}\begin{array}{l} \quad \rm{~150 I_{1}+75 I_{1}-10 I_{2}-20 I_{2}=0} \\ \Rightarrow \rm{225 I_{1}-30 I_{2}=0} \\ \Rightarrow \rm{\dfrac{I_{1}}{I_{2}}=\dfrac{30}{225}} \\ \therefore ~ \rm{\dfrac{I_{1}}{I_{2}}=\dfrac{2}{15}}\end{array}[/math]
+
+[Image]
+এখন [math]\rm{ABC ~ও~ ADC}[/math]
+ অংশের রোধের অনুপাত [math]\dfrac{\rm{R}_{\mathrm{ABC}}}{\mathrm{R}_{\mathrm{ADC}}}=\dfrac{225}{30}=\dfrac{15}{2}[/math]
+দেখা যাচ্ছে, [math]\rm{\dfrac{I_{\mathrm{ABC}}}{I_{\mathrm{ADC}}}=\dfrac{I_{1}}{I_{2}}=\dfrac{2}{15}=\dfrac{R_{\mathrm{ADC}}}{R_{\mathrm{ABC}}}}[/math]
+অতএব, ব্রীজটির সাম্যাবস্থায় [math]\rm{ABC~ ও ~ADC}[/math]
+ অংশের প্রবাহমাত্রার অনুপাত এই দুই অংশের রোধের অনুপাতের ব্যস্তানুপাতিক।
+
+Explanation:
+ব্যাখ্যা: ব্রীজ সমতল হলে মধ্যকার শাখায় কোন প্রবাহ নেই, তাই A→C পথ দুটো আলাদা সিরিজ শাখা; তাই [math]I_{ABC}=\dfrac{V}{R_{AB}+R_{BC}}[/math] এবং [math]I_{ADC}=\dfrac{V}{R_{AD}+R_{DC}}[/math], ফলে
+[math]\dfrac{I_{ABC}}{I_{ADC}}=\dfrac{R_{AD}+R_{DC}}{R_{AB}+R_{BC}}.[math]
+সমতাবস্থায় [math]\dfrac{R_{AB}}{R_{BC}}=\dfrac{R_{AD}}{R_{DC}}[/math] হওয়ায় উপরের অনুপাত সরলীকরণে পাওয়া যায়
+[math]\dfrac{I_{ABC}}{I_{ADC}}=\dfrac{R_{DC}}{R_{BC}}=\dfrac{R_{AD}}{R_{AB}},[/math]
+অর্থাৎ দুই শাখার প্রবাহের অনুপাত সম্পর্কিত থাকে সংশ্লিষ্ট রোধগুলোর অনুপাতের সাথে (পরোক্ষভাবে ব্যতিক্রমী সম্পর্ক)।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 422552)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. [math]Q[/math] রোধের সাথে কত মানের রোধ কীভাবে যুক্ত করলে ব্রীজটি সাম্যাবস্থা লাভ করবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]\rm{P=150 \Omega ; Q=100 \Omega ; R=20 \Omega ; S=10 \Omega}[/math]
+ব্রীজটির সাম্যাবস্থায়,[math]\hspace{1.5 cm}\begin{array}{l} \quad~\dfrac{\mathrm{P}}{\mathrm{Q}^{\prime}}=\dfrac{\mathrm{R}}{\mathrm{S}} \\ \Rightarrow \rm{Q^{\prime}=\dfrac{S}{R} \times P=\dfrac{10}{20} \times 150 \Omega }\\ \therefore \rm{Q}^{\prime}=75 \Omega \end{array}[/math]
+ [math]\because \mathrm{Q}^{\prime}<\mathrm{Q,}[/math]
+ সুতরাং সাম্যাবস্থা প্রতিষ্ঠার জন্য [math]\rm{Q}[/math]
+ রোধের সাথে সমান্তরালে একটি নির্দিষ্ট মানের রোধ যুক্ত করতে হবে যাতে তার এবং [math]\rm{Q}[/math]
+ রোধের তুল্যরোধ [math]\rm{Q}^\prime[/math]
+ হয়।ধরি, সেই রোধটি [math]\rm{x}\Omega[/math]
+।[math]\hspace{1.5 cm}\begin{array}{l} \therefore~ \dfrac{1}{\mathrm{x}}+\dfrac{1}{\mathrm{Q}}=\dfrac{1}{\mathrm{Q}^{\prime}} \\ \Rightarrow \dfrac{1}{\mathrm{x}}=\dfrac{1}{\mathrm{Q}^{\prime}}-\dfrac{1}{\mathrm{Q}} \\ \Rightarrow \dfrac{1}{\mathrm{x}}=\dfrac{1}{75}-\dfrac{1}{100} \\ \Rightarrow \mathrm{x}=\dfrac{75 \times 100}{100-75} \Omega=300 \Omega \end{array}[/math]
+অতএব, [math]\rm{Q}[/math]
+ রোধের সাথে [math]300\Omega[/math]
+ রোধ সমান্তরালে যুক্ত করলে ব্রীজটি সাম্যাবস্থায় থাকবে।
+
+Explanation:
+গ Wheatstone ব্রীজ সাম্যাবস্থায় বিরোধী দুই হাতের গুণফল সমান থাকে, অর্থাৎ [math]R_1R_4=R_2R_3[/math]। যদি Q একই হাতের অংশ হয়ে থাকুক এবং বিপরীত হাতে থাকে [math]R_3[/math] ও অপর দুই হাতে থাকে [math]R_1,R_2[/math], তাহলে Q-র সাথে ধারাবাহিকে একটি রোধ [math]r[/math] যোগ করে সাম্যাবস্থা আনতে হবে যেখানে [math](Q+r)R_3=R_1R_2[/math], তাই [math]r=\frac{R_1R_2}{R_3}-Q[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 422551)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে একটি হুইটস্টোন ব্রীজ দেখানো হয়েছে।
+
+Options:
+গ. গ্যালভানোমিটারের চাবি [math]\rm{K}[/math] সংযুক্ত করার পর [math]\rm{CD}[/math] অংশে কত মানের রোধ কীভাবে যুক্ত করলে গ্যালভানোমিটারের কাঁটার বিক্ষেপ শূন্য হবে?
+
+
+Correct Answer: 
+
+Solution:
+গউত্তর: সমান্তরালে 48 [math]\Omega[/math] রোধ যুক্ত করতে হবে।
+
+Explanation:
+গ ব্যাখ্যা: হুইটস্টোন ব্রিজের ভারসাম্য শর্ত অনুযায়ী বিপরীত বাহুগুলোর গুণ সমান থাকে, তাই [math]R_{AB}\times R_{CD}=R_{AD}\times R_{BC}[/math]। ফলে [math]R_{CD}=\dfrac{R_{AD}\,R_{BC}}{R_{AB}}[/math] হলে গ্যালভানোমিটারের কাঁটার বিক্ষেপ শূন্য হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 422550)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]\hspace{1 cm}[/math]চিত্রে অভ্যন্তরীণ রোধ, [math]\rm{r}=.2 \Omega[/math] [math]\hspace{1 cm}[/math]তড়িচ্চালক শক্তি, [math]\rm{E=8 V}[/math]
+
+Options:
+ঘ. সর্বোচ্চ রোধের সাথে কত মানের রোধ কীভাবে যুক্ত করলে ব্রিজটি ভারসাম্য অবস্থায় উপনীত হবে তা গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+রোধ,[math]\hspace{2.5 cm}\begin{array}{l}P=8 \Omega \\ Q=10 \Omega \\ R=15 \Omega \\ S=20 \Omega \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+সাম্যাবস্থার জন্য CD প্রয়োজনীয় রোধ, [math]S^\prime = ?[/math]
+আমরা জানি, সাম্যাবস্থায়,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{P}{Q}=\frac{R}{S^{\prime}} \\ \Rightarrow S^{\prime}=\frac{Q}{P} \times R \\ \Rightarrow S^{\prime}=\frac{10}{8} \times 15 \\ \therefore ~ S^{\prime}=18.75 \Omega \end{array}[/math]
+অর্থাৎ, S রোধের চেয়ে কম মানের রোধ লাগবে।ধরি, S রোধের সাথে x মানের রোধ সমান্তরালে যুক্ত করলে তিনটি ভারসাম্য অবস্থায় উপনীত হবে।[math]\hspace{1.5 cm}\begin{array}{l} \therefore ~ \frac{1}{\mathrm{~S}^{\prime}}=\frac{1}{\mathrm{~S}}+\frac{1}{\mathrm{x}} \\ \Rightarrow \frac{1}{18.75}=\frac{1}{20}+\frac{1}{\mathrm{x}} \\ \Rightarrow \frac{1}{\mathrm{x}}=\frac{1}{18.75}-\frac{1}{20} \\ \Rightarrow \frac{1}{\mathrm{x}}=\frac{1}{300} \\ \therefore ~ \mathrm{x}=300 \Omega \end{array}[/math]
+অতএব, CD অংশের রোধের সাথে [math]300 \Omega[/math]
+ মানের রোধ সমান্তরালে যুক্ত করলে ব্রিজটি ভারসাম্য অবস্থায় উপনীত হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ একটি উইটস্টোন ব্রিজ ভারসাম্য হলে গ্যালভানোमीटर দিয়ে ধারা প্রবাহ থাকবে না এবং ব্রিজের শর্ত হলো [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math]। তাই যদি কোনো বাহিকে একটি সর্বোচ্চ মানের প্রতিরোধক [math]R_x[/math] যোগ করে ভারসাম্য করতে হয় এবং বাকি তিনটি প্রতিরোধকের মান যথাক্রমে [math]R_1,R_2,R_3[/math] থাকে, তাহলে চাইলে সেটি নিরূপণ করা যাবে: [math]R_x=R_3\frac{R_2}{R_1}[/math]। অভ্যন্তরীণ রোধ [math]r[/math] (সোর্সের) ব্রিজ ভারসাম্যের অনুপাতগত শর্তে প্রভাব ফেলে না, তাই সেটিই ব্যবহার করলেই যথেষ্ট।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 422549)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের ‘X' [math]\Omega[/math] রোধটি, ব্রিজে প্রদত্ত কোনো একটি রোধের সাথে ব্যবহার করে সাম্যবস্থা সৃষ্টি সম্ভব কিনা? গাণিতিক ব্যাখ্যা দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে, P = 8 [math]\Omega[/math]
+Q=16 [math]\Omega[/math]
+R = 24 [math]\Omega[/math]
+S = 32 [math]\Omega[/math]
+এবং X = 16 [math]\Omega[/math]
+সাম্যাবস্থা সৃষ্টির জন্য, [math]\frac{\mathrm{P}}{\mathrm{Q}}=\frac{\mathrm{R}}{\mathrm{S}}[/math]
+হতে হবে।এই শর্ত পূরণ করতে হলে, s এর রোধের মানের পরিবর্তন করতে হবে । ধরে নিই, তা s'।এখন, [math]\frac{\mathrm{P}}{\mathrm{Q}}=\frac{\mathrm{R}}{\mathrm{S}^{\prime}}[/math]
+ [math]\Rightarrow\text { } S^{\prime}=\frac{Q R}{P}=\frac{16 \times 24}{8}=48 \Omega[/math]
+যেখানে, S এর মান 32 [math]\Omega[/math]
+s এর সাথে 'X' [math]\Omega[/math]
+ অর্থাৎ 16 [math]\Omega[/math]
+ শ্রেণিতে যুক্ত করলে তা (32 + 16) বা 48 [math]\Omega (S^\prime[/math]
+) এর সমান হবে।: 'X' [math]\Omega[/math]
+ রোধটিকে $ এর সাথে শ্রেণীতে যুক্ত করে সাম্যাবস্থা সৃষ্টি সম্ভব
+
+Explanation:
+ব্যাখ্যা:
+ঘ Wheatstone ব্রিজে সাম্যবস্থার শর্ত হলো [math]\dfrac{R_1}{R_2}=\dfrac{R_3}{R_4}[/math]. যদি X‑কে কোনো এক কাঁধে সিরিজে যোগ করা হয় (ধরা যাক সেই কাঁধের রোধ [math]R_1[/math]) তাহলে সাম্যতার শর্ত হবে [math]\dfrac{R_1+X}{R_2}=\dfrac{R_3}{R_4}[/math], ফলে [math]X=R_2\bigl(\dfrac{R_3}{R_4}\bigr)-R_1[/math]; অর্থাৎ কেবল তখনই সম্ভব যখন প্রদত্ত [math]X[/math] এই হিসাব থেকে পাওয়া মানের সমান। অন্য কোনো ক্ষেত্রে মাত্র একটি রোধের সাথে [math]X[/math] যোগ করে সাম্যবস্থা অর্জন করা যাবে না।
+
+Sub-Questions:
+

@@ -1,0 +1,30 @@
+================================================================================
+Question #1 (ID: 394880)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর, [math]\text { (i) }(\vec{A} \cdot \vec{B})^{2}+|(\vec{A} \times \vec{B})|^{2}=A^{2} B^{2}[/math] [math]\text { (ii) }(\vec{A} \cdot \vec{B})^{2}-|(\vec{A} \times \vec{B})|^{2}=A^{2} B^{2}\left(\cos ^{2} \theta-\sin ^{2} \theta\right)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution :(i) আমরা পাই, [math]\vec{A} \cdot \vec{B}=A B \cos \theta[/math]
+এবং [math]\vec{A} \times \vec{B}=A B \sin \theta \hat{n}[/math]
+ [math]\therefore \quad|\vec{\mathrm{A}} \times \vec{\mathrm{B}}|=\mathrm{AB} \sin \theta[/math]
+ [math]\therefore[/math]
+ বামপক্ষ ,[math]\begin{array}{l}=(\vec{\mathrm{A}} \cdot \vec{\mathrm{B}})^{2}+|\vec{\mathrm{A}} \times \vec{\mathrm{B}}|^{2} \\=\mathrm{A}^{2} \mathrm{~B}^{2} \cos ^{2} \theta+\mathrm{A}^{2} \mathrm{~B}^{2} \sin ^{2} \theta \\=\mathrm{A}^{2} \mathrm{~B}^{2}\left(\sin ^{2} \theta+\cos ^{2} \theta\right)\end{array}[/math]
+ [math]=A^{2} B^{2}=[/math]
+ ডানপক্ষ (প্রমাণিত)(ii ) বামপক্ষ [math]=(\vec{A} \cdot \vec{B})-|(\vec{A} \times \vec{B})|^{2}[/math]
+ [math]\begin{array}{l}=(A B \cos \theta)^{2}-|(\hat{n} A B \sin \theta)|^{2} \\=A^{2} B^{2} \cos ^{2} \theta-A^{2} B^{2} \sin ^{2} \theta \\=A^{2} B^{2}\left(\cos ^{2} \theta-\sin ^{2} \theta\right)\end{array}[/math]
+ [math]\therefore(\vec{A} \cdot \vec{B})^{2}-|(\vec{A} \times \vec{B})|^{2}=A^{2} B^{2}\left(\cos ^{2} \theta-\sin ^{2} \theta\right)[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা: ভেক্টর দুইটির মধ্যকার কোণ [math]\theta[/math] ধরে, [math]\vec{A}\cdot\vec{B}=AB\cos\theta[/math] এবং [math]|\vec{A}\times\vec{B}|=AB\sin\theta[/math] হয়। তাই (i) তে [math](\vec{A}\cdot\vec{B})^{2}+|(\vec{A}\times\vec{B})|^{2}=A^{2}B^{2}(\cos^{2}\theta+\sin^{2}\theta)=A^{2}B^{2}[/math] এবং (ii) তে [math](\vec{A}\cdot\vec{B})^{2}-|(\vec{A}\times\vec{B})|^{2}=A^{2}B^{2}(\cos^{2}\theta-\sin^{2}\theta)[/math] পাওয়া যায়।
+
+Sub-Questions:
+

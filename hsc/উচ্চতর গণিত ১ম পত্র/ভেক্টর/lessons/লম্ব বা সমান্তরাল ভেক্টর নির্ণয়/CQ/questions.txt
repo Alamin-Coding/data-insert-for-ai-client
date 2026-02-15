@@ -1,0 +1,150 @@
+================================================================================
+Question #1 (ID: 409012)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](5,3,-2)[/math] বিন্দুগামী এবং [math]A=2 \hat{i}+5 \hat{j}-6 \hat{k}[/math] ভেক্টরের সমান্তরাল রেখার সমীকরণ কোনটি?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+সরলরেখার সমীকরণ, [math]r=5[/math]
+ [math]\hat{i}+3 \hat{j}-2[/math]
+ [math]\hat{k}[/math]
+ [math]+t(2 \hat{i}+5 \hat{j}-6 \hat{k})[/math]
+ [math]\Rightarrow (5+2 t)[/math]
+ [math]\hat{i}+(3+5 t)[/math]
+ [math]\hat{j}-(2+6 t) \hat{k}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেখা যেকোনো বিন্দু [math](5,3,-2)[/math] দিয়ে এবং দিকভেক্টর [math]\mathbf{A}=2\hat{i}+5\hat{j}-6\hat{k}[/math] হলে তার ভেক্টরসমীকরণ হবে [math]\vec{r}=\langle5,3,-2\rangle+t\langle2,5,-6\rangle[/math], যা সমতুল্য স্বরূপিকরণে [math]\frac{x-5}{2}=\frac{y-3}{5}=\frac{z+2}{-6}[/math]; এইটাই অপশন D।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 409014)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{P}}=3 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}, \overrightarrow{\mathrm{Q}}=3[/math] [math]\hat{\mathrm{i}}-2 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}[/math] এবং [math]\overrightarrow{\mathrm{R}}=\hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{k}[/math]
+
+Options:
+ক. [math]\vec{P}[/math] বিন্দুগামী এবং [math]\vec{Q}[/math] ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।
+খ. দেখাও যে, [math]\overrightarrow{\mathrm{P}}-\overrightarrow{\mathrm{Q}}[/math] ভেক্টরটি [math]\overrightarrow{\mathbf{P}}[/math] এবং [math]\overrightarrow{\mathrm{Q}}[/math] ভেক্টর দ্বারা গঠিত - সমতলের উপর লম্ব ভেক্টরের সাথে লম্ব ।
+গ. উদ্দীপকে উল্লিখিত ভেক্টরগুলির [math]\hat{i}, \hat{j}, \hat{k}[/math] এর সহগ দ্বারা গঠিত ম্যাট্রিক্স [math]A[/math] হলে [math]\mathbf{A}^{-1}[/math]- নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]\overrightarrow{\mathrm{P}}=3 \hat{i}-3 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}[/math]
+ এবং [math]\vec{Q}=3 \hat{i}-2 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}[/math]
+ [math]\overrightarrow{\mathrm{P}}[/math]
+ বিন্দুগামী এবং [math]\overrightarrow{0}[/math]
+ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর সমীকরণ,[math]\vec{r}=\overrightarrow{\mathrm{P}}+\mathrm{tQ}[/math]
+ যেখানে [math]t[/math]
+ যেকোনো স্কেলার[math]\Rightarrow x \hat{i}+y \hat{j}+z \hat{k}=3 \hat{i}-3[/math]
+ [math]\hat{j}+4 \hat{k}+t(3 \hat{i}-2 \hat{j}+4 \hat{k})[/math]
+ [math]\Rightarrow x \hat{i}+y \hat{j}+z \hat{k}=(3+3 t)[/math]
+ [math]\hat{i}-(3+2 t) \hat{j}+(4+4 t) \hat{k}[/math]
+ [math]\Rightarrow \hat{i}+y \hat{j}+z \hat{k}=3(1+t)[/math]
+ [math]\hat{i}-(3+2 t) \hat{j}+4(1+t) \hat{k}[/math]
+নির্ণেয় সমীকরণ [math]x \hat{i}+y \hat{j}+z \hat{k}[/math]
+ [math]=3(1+t) \hat{i}-(3+2 t)[/math]
+ [math]\hat{j}+4(1+t) \hat{k}[/math]
+ খদেওয়া আছে, [math]\overrightarrow{\mathrm{p}}=3 \hat{i}-3 \hat{j}+4 \hat{k}[/math]
+ এবং [math]\vec{Q}=3 \hat{i}-2 \hat{j}+4 \hat{k}[/math]
+ [math]\overrightarrow{\mathrm{P}}[/math]
+ এবং [math]\overrightarrow{\mathrm{Q}}[/math]
+ ভেক্টর দ্বারা গঠিত সমতলের উপর লম্ব ভেক্টর [math]=\overrightarrow{\mathrm{P}} \times \vec{Q}[/math]
+এখন, [math]\vec{P}-\vec{Q}=3 \hat{i}-3 \hat{j}+4 \hat{k}-3 \hat{i}[/math]
+ [math]+2 \hat{j}-4 \hat{k}=-\hat{j}[/math]
+এবং [math]\overrightarrow{\mathrm{P}} \times \overrightarrow{\mathrm{Q}}=[/math]
+ [math]\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\3 & -3 & 4 \\3 & -2 & 4\end{array}\right|[/math]
+ [math]\Rightarrow\hat{i}(-12+8)+\hat{j}(12-12)[/math]
+ [math]+\hat{k}(-6+9)[/math]
+ [math]\Rightarrow -4 \hat{i}+3 \hat{k}[/math]
+ [math]\therefore (\vec{P}-\vec{Q}) \cdot(\vec{P} \times[/math]
+ [math]\vec{Q})=-\hat{j} \cdot(-4 \hat{i}+3 \hat{k})=0[/math]
+সুতরাং [math]\vec{P}-\vec{Q}[/math]
+ ভেক্টরটি [math]\overrightarrow{\mathrm{p}}[/math]
+ এবং [math]\vec{Q}[/math]
+ ভেক্টর দ্বারা গঠিত সমতলের উপর লম্ব ভেক্টরের সাথে লম্ব। (দেখানো হলো)গদেওয়া আছে, [math]\vec{P}=3 \hat{i}-3 \hat{j}+4 \hat{k},[/math]
+ [math]\vec{Q}=3 \hat{i}-2 \hat{j}+4 \hat{k}[/math]
+এবং [math]\overrightarrow{\mathrm{R}}=\hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math]
+ভেক্টরগুলির [math]\hat{\mathrm{i}}, \hat{\mathrm{j}}, \hat{\mathbf{k}}[/math]
+ এর সহগ দ্বারা গঠিত ম্যাট্রিক্স [math]A[/math]
+ হলে,][math]A =\left[\begin{array}{lll}3 & -3 & 4 \\3 & -2 & 4 \\1 & -1 & 2\end{array}\right][/math]
+ [math]\therefore \quad|A| =\left|\begin{array}{lll}3 & -3 & 4 \\3 & -2 & 4 \\1 & -1 & 2\end{array}\right|[/math]
+ [math]\Rightarrow 3(-4+4)-3(4-6)[/math]
+ [math]+4(-3+2)[/math]
+ [math]\Rightarrow3.0-3 \cdot(-2)+4 .(-1)[/math]
+ [math]=0+6-4=2[/math]
+A এর সহগুণকসমূহ :[math]A_{11}=\left|\begin{array}{ll}-2 & 4 \\-1 & 2\end{array}\right|[/math]
+ [math]=-4+4=0[/math]
+ [math]A_{12}=-\left|\begin{array}{ll}3 & 4 \\1 & 2\end{array}\right|[/math]
+ [math]=-(6-4)=-2[/math]
+ [math]A_{13}=\left|\begin{array}{ll}3 & -2 \\1 & -1\end{array}\right|[/math]
+ [math]=-3+2=-1[/math]
+ [math]A_{21}=-\left|\begin{array}{ll}-3 & 4 \\-1 & 2\end{array}\right|[/math]
+ [math]=-(-6+4)=2[/math]
+ [math]A_{22}=\left|\begin{array}{ll}3 & 4 \\1 & 2\end{array}\right|[/math]
+ [math]=6-4=2[/math]
+ [math]A_{23}=-\left|\begin{array}{ll}3 & -3 \\1 & -1\end{array}\right|[/math]
+ [math]=-(-3+3)=0[/math]
+ [math]A_{31}=\left|\begin{array}{ll}-3 & 4 \\-2 & 4\end{array}\right|[/math]
+ [math]=-12+8=-4[/math]
+ [math]A_{32}=-\left|\begin{array}{ll}3 & 4 \\3 & 4\end{array}\right|[/math]
+ [math]=-(12-12)=0[/math]
+ [math]A_{33}=\left|\begin{array}{ll}3 & -3 \\3 & -2\end{array}\right|[/math]
+ [math]=-6+9=3[/math]
+ [math]\operatorname{Adj} A =\left[\begin{array}{lll}A_{11} & A_{12} & A_{13} \\A_{21} & A_{22} & A_{23} \\A_{31} & A_{32} & A_{33}\end{array}\right] T[/math]
+ [math]\left[\begin{array}{rrr}0 & -2 & -1 \\2 & 2 & 0 \\-4 & 0 & 3\end{array}\right] \mathrm{T}[/math]
+ [math]=\left[\begin{array}{rrr}0 & 2 & -4 \\-2 & 2 & 0 \\-1 & 0 & 3\end{array}\right][/math]
+ [math]A^{-1}= \frac{\operatorname{Adj} A}{|A|^{-}}=\frac{1}{2}[/math]
+ [math]\left[\begin{array}{rrr}0 & 2 & -4 \\-2 & 2 & 0 \\-1 & 0 & 3\end{array}\right][/math]
+নির্ণেয় [math]A^{-1}=\frac{1}{2}\left[\begin{array}{rrr}0 & 2 & -4 \\-2 & 2 & 0 \\-1 & 0 & 3\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক রেখার ভেক্টর সমীকরণ হলো [math]\vec{r}=\overrightarrow{P}+t\overrightarrow{Q}[/math], তাই [math]\vec{r}=(3\hat{i}-3\hat{j}+4\hat{k})+t(3\hat{i}-2\hat{j}+4\hat{k})[/math]—কারণ কোনো বিন্দু দিয়ে এবং একটি ভেক্টরের সমান্তরাল সরলরেখার দিকনির্দেশক হিসেবে সেই ভেক্টর নেওয়া হয়। 
+
+খ [math]\overrightarrow{P}-\overrightarrow{Q}=(3-3,\,-3-(-2),\,4-4)=(0,-1,0)=-\hat{j}[/math] এবং [math]\overrightarrow{P}\times\overrightarrow{Q}=(-4,0,3)[/math]; এদের গুণফল [math](\overrightarrow{P}-\overrightarrow{Q})\cdot(\overrightarrow{P}\times\overrightarrow{Q})=0[/math] তাই [math]\overrightarrow{P}-\overrightarrow{Q}[/math] সমতলের সাধারণ স্বাভাবিক ভেক্টরের সাথে লম্ব।
+
+গ A ত্রৈমিতিক ম্যাট্রিক্স হলে (প্রতি সারি হলো [math]\hat{i},\hat{j},\hat{k}[/math] সহগ) [math]A=\begin{pmatrix}3&-3&4\\[4pt]3&-2&4\\[4pt]1&-1&2\end{pmatrix}[/math], det[math]A=2[/math] এবং ফলস্বরূপ
+[math]A^{-1}=\frac{1}{2}\begin{pmatrix}0&2&-4\\[4pt]-2&2&0\\[4pt]-1&0&3\end{pmatrix}=\begin{pmatrix}0&1&-2\\[4pt]-1&1&0\\[4pt]-\tfrac{1}{2}&0&\tfrac{3}{2}\end{pmatrix}[/math], যা সরাসরি কোফ্যাক্টর/অ্যাজাগেট ব্যবহার করে পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 409015)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\underline{a}=2 \hat{i}+\hat{j}-3 \hat{k}[/math] এবং [math]\underline{b}=\hat{i}-2 \hat{j}+\hat{k}[/math] ভেক্টর দুটির উপর লম্ব একটি ভেক্টর নির্ণয় কর যার মান 5 একক।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\underline{a} \times \underline{b}=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\2 & 1 & -3 \\1 & -2 & 1\end{array}\right|=\hat{i}(1-6)-\hat{j}(2+3)+\hat{k}(-4-1)=-5 \hat{i}-5 \hat{j}-5 \hat{k}[/math]
+ [math]\therefore \hat{\eta}=\frac{\underline{a} \times \underline{b}}{|\underline{a} \times \underline{b}|}=\pm \frac{-5 \hat{i}-5 \hat{j}-5 \hat{k}}{5 \sqrt{3}} \therefore \hat{\eta}=\pm \frac{1}{\sqrt{3}}(\hat{i}+\hat{j}+\hat{k})[/math]
+ [math]\therefore[/math]
+ নির্ণেয় ভেক্টর [math]=5 \hat{\eta}=\pm \frac{5}{\sqrt{3}}(\hat{\mathrm{i}}+\hat{\mathrm{j}}+\hat{\mathrm{k}})[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুইটি ভেক্টরের উপর লম্ব ভেক্টর হিসেবে প্রথমে ক্রস প্রডাক্ট নেওয়া যায়, এখানে [math]\underline{a}\times\underline{b}=(-5,-5,-5)[/math]। এর মান [math]|\underline{a}\times\underline{b}|=5\sqrt{3}[/math] হওয়ায় এককদিক ভেক্টর [math]\pm\frac{1}{\sqrt{3}}(1,1,1)[/math] এবং মান 5 থাকতে হলে ভেক্টর হবে [math]\pm\frac{5}{\sqrt{3}}(1,1,1)[/math]—এগুলোই দেওয়া শর্ত পূরণ করে।
+
+Sub-Questions:
+

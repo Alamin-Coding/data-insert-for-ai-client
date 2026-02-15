@@ -1,0 +1,940 @@
+================================================================================
+Question #1 (ID: 422406)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Carmichael College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকের আলোকে নিচের প্রশ্নগুলোর উত্তর দাও :
+
+[Image]
+
+
+Options:
+ঘ. কোন রোধটি অপসারণ করলে বর্তনীর মোট প্রবাহমাত্রা সর্বোচ্চ হবে-গাণিতিক বিশ্লেষণসহ দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘআমনা জানি, বর্তনীতে মোট তুল্যরোধ সর্বোচ্চ হলে প্রবাহ মাত্ৰা সর্বনিম্ন হয় এবং বর্তনীতে মোট তুল্যরোধ সর্বনিম্ন হলে প্রবাহ মাত্ৰা সর্বোচ্চ হয়।এবার বর্তনীর [math]P = 100\Omega[/math]
+ রোধকে অপসারণ করলে তুল্যরোধ,[math]R_{P} = 200 + 150 = 350 \Omega[/math]
+আবার, বর্তনীর [math]Q = 200\Omega[/math]
+ রোধকে অপসারণ করলে তুল্যরোধ,[math]R_{q}= 100 + 150 = 250 \Omega[/math]
+আবার, বর্তনীর [math]R = 150\Omega[/math]
+ রোধকে অপসারণ করলে তুল্য রোধ,[math]\begin{aligned}& \frac{1}{R_{\mathrm{r}}}=\frac{1}{100}+\frac{1}{200}=\frac{3}{200} \\\therefore & \mathrm{R}_{\mathrm{r}}=\frac{200}{3}=66.67 \Omega\end{aligned}[/math]
+উপরের হিসেব থেকে দেখা যায় যে, বর্তনীর [math]R = 150\Omega[/math]
+ রোধকে অপসারণ করলে তুল্য রোধ সর্বনিম্ন হয়।সুতরাং বর্তনীর [math]R = 150\Omega[/math]
+ রোধকে অপসারণ করলে বর্তনীর মোট প্রবাহমাত্রা সর্বোচ্চ হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ রোধটি অপসারণ করলে মোট প্রবাহ সর্বোচ্চ হবে, কারণ মোট প্রবাহ [math]I_{\rm tot}=\dfrac{V}{R_{\rm eq}}[/math]; তাই [math]I_{\rm tot}[/math] সর্বাধিক হবে যখন সমতুল্য প্রতিরোধ [math]R_{\rm eq}[/math] সর্বনিম্ন। অপসারণের পরে প্রতিটি কেসের জন্য নতুন [math]R_{\rm eq}[/math] বের করে তুলুন (সিরিজে যোগ, প্যারালেলে হলে [math]R_{\rm eq}=\dfrac{R_aR_b}{R_a+R_b}[/math]) এবং যার ফলশ্রুতিতে [math]R_{\rm eq}[/math] সবচেয়ে ছোট হয় সেই রোধ অপসারণ করলেই মোট প্রবাহ সর্বোচ্চ পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 422405)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Adarsha Degree Collge
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীটি লক্ষ কর।
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের বর্তনীর তুল্য রোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\begin{array}{l}R_{1}=40 \Omega \\R_{2}=40 \Omega \\R_{3}=40 \Omega \\R_{4}=40 \Omega \\R_{5}=40 \Omega\end{array}[/math]
+উদ্দীপকের বর্তনীর কোষের দুই প্রান্তের মধ্যে তুল্যরোধ,[math]\begin{aligned}R_{e q} & =\frac{R_{1} \times R_{3}}{R_{1}+R_{2}}+R_{3}+\frac{R_{4} \times R_{5}}{R_{4}+R_{5}} \\\Rightarrow R_{e q} & =\frac{40 \Omega \times 40 \Omega}{40 \Omega+40 \Omega}+40 \Omega+\frac{40 \Omega \times 40 \Omega}{40 \Omega+40 \Omega} \\\therefore R_{e q} & =80 \Omega\end{aligned}[/math]
+উদ্দীপকের বর্তনীর তুল্যরোধ [math]80\Omega[/math]
+.
+
+Explanation:
+দুঃখিত—আমি ছবিটি লোড করতে পারছি না, তাই নির্দিষ্ট সংখ্যাশ্রেণী বলতে পারছি না; তবে গ অংশের জন্য সমাধানের ধারণা হলো: প্রথমে উৎসকে নিষ্ক্রিয় করে ভোল্টেজ উৎসকে শর্ট সার্কিট করুন, তারপর উৎসের টার্মিনাল থেকে সার্কিটটি দেখলে রোধগুলোকে সিরিজ/সমান্তরালভাবে একত্র করে সরলীকরণ করুন; দরকার হলে ডেল্টা–ওয়াই রূপান্তর বা নোড/কিরচহফ পদ্ধতি ব্যবহার করবেন। সমাপ্তিতে যেটি পাওয়া যাবে সেটাই ওই উৎসের তুল্য রোধ।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 422404)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Chittagong Cantonment Public School & College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকে উভয় বর্তনীর তুল্য রোধের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+[math]\begin{array}{l}\therefore \mathrm{I}_{2}=(4-3) \mathrm{A}=1 \mathrm{~A} \\\mathrm{V}_{\mathrm{BE}}=\mathrm{V}_{\mathrm{CD}} \\\Rightarrow 3 \times \mathrm{R}_{1}=5 \times 1 \\\Rightarrow\mathrm{R}_{1}=1.66 \Omega \\\therefore \mathrm{R}_{\mathrm{cq}}=\frac{5 \times 1.66}{5+1.66}=1.25 \Omega\end{array}[/math]
+সম্পূর্ণ বর্তনীর তুল্যরোধ, [math]R^{\prime}=6+R_{e n}=6+1.25=7.25 \Omega[/math]
+‘গ’ নং থেকে পাই, ১ নং বর্তনীর তুল্যরোধ, [math]R_p = 1\Omega[/math]
+এখন, [math]\frac{\mathrm{R}^{\prime}}{\mathrm{R}_{\mathrm{p}}}=\frac{7.25}{1}[/math]
+ [math]\therefore \mathrm{R}^{\prime}=7.25 \mathrm{R}_{\mathrm{p}}[/math]
+অতএব, ২ নং বর্তনীর তুল্যরোধ ১ নং বর্তনীর তুল্যরোধের 7.25 গুণ।
+
+Explanation:
+ব্যাখ্যা: যে বর্তনীতে রোধগুলি সমান্তরাল রয়েছে তার সমতুল্য রোধ ছোট হয়, আর সিরিজে থাকলে বড় হয়। উদাহরণস্বরূপ যদি প্রতিটি রোধ [math]R[/math] হয়, তাহলে সিরিজে [math]R_{\text{series}}=R+R=2R[/math] এবং সমান্তরালে [math]R_{\text{parallel}}=\frac{1}{\frac{1}{R}+\frac{1}{R}}=\frac{R}{2}[/math], তাই [math]R_{\text{parallel}}<R_{\text{series}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 422403)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: CoWC
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের বর্তনীর রোধ, [math]R_{1}=100 \Omega, R_{2}=R_{3}=50 \Omega, R_{4}=75 \Omega[/math] এবং তড়িচ্চালক বল, [math]E = 6 V[/math]।
+
+Options:
+গ. বর্তনীর তুল্য রোধ কত?,
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে,[math]R_1 = 100\Omega[/math]
+ [math]R_2 = R_3 = 50\Omega[/math]
+ [math]R_4 = 75\Omega[/math]
+ [math]\begin{array}{l}\frac{1}{\mathrm{R}_{\mathrm{p}}}=\frac{1}{\mathrm{R}_{2}}+\frac{1}{\mathrm{R}_{3}}+\frac{1}{\mathrm{R}_{4}}=\frac{1}{50}+\frac{1}{50}+\frac{1}{75} \\\frac{1}{\mathrm{R}_{\mathrm{p}}}=\frac{4}{75} \\\therefore \mathrm{R}_{\mathrm{p}}=18.75 \Omega\end{array}[/math]
+ [math]\therefore[/math]
+ তুল্যরোধ [math]R=R_{1}+R_{p}=100+18.75=118.75 \Omega[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ এখানে [math]R_{2}[/math] ও [math]R_{3}[/math] একই দুই নোডে যুক্ত থাক므로 তারা সমান্তরাল, তাই তাদের সমতুল্য রোধ [math]R_{23}=\dfrac{50\times50}{50+50}=25\ \Omega[/math]। এরপর [math]R_{1}[/math] ও [math]R_{4}[/math] ওই সমান্তরাল শাখার সাথে ধারাবাহিকভাবে যুক্ত, তাই মোট রোধ [math]R_{eq}=100+25+75=200\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 422402)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Ispahani Public School And College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. বর্তনীর তুল্যরোধ কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]R_1 = 5\Omega[/math]
+, [math]R_2 = 5\Omega[/math]
+, [math]R_3 = 10\Omega[/math]
+, [math]R_4 = 10\Omega[/math]
+, [math]R_5 = 10\Omega[/math]
+বহিঃস্থ রোধের তুল্যরোধ,[math]\begin{aligned}R & =\left(\frac{1}{R_{1}+R_{2}}+\frac{1}{R_{3}+R_{4}}\right)^{-1}+R_{5} \\& =\left(\frac{1}{5+5}+\frac{1}{10+10}\right)^{-1}+10 \\& =\left(\frac{1}{10}+\frac{1}{20}\right)^{-1}+10 \\& =\frac{20}{3}+10 \\& =\frac{50}{3} \Omega\end{aligned}[/math]
+ [math]\therefore[/math]
+ বর্তনীর তুল্যরোধ[math]\begin{array}{l}=\left(\frac{50}{3}+1+1\right) \Omega \\=\frac{56}{3} \Omega \\=18.67 \Omega \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ছবিটি স্পষ্টভাবে দেখা যাচ্ছে না, তাই বর্তনীর তুল্যরোধ নির্ণয়ের জন্য রোধগুলোর মান এবং তাদের সংযোগ (সিরিজ বা প্যারালাল) জানতে হবে; অনুগ্রহ করে রোধগুলোর মান বা উচ্চ রেজলিউশনের ছবি আপলোড করুন।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 422401)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+বর্তনীটি লক্ষ কর এবং নিচের প্রশ্নগুলোর উত্তর দাও।
+
+[Image]
+
+
+Options:
+গ. [math]A[/math] ও [math]B[/math] টার্মিনালের মধ্যে তুল্য রোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের বর্তনীটি নিম্নরূপভাবে সরলীকরণ করা যায়—
+[Image]
+উপরোক্ত সরলকৃত বর্তনীর FDE পথে তুল্যরোধ, [math]\mathrm{R}_{1}=\mathrm{R}+\frac{\mathrm{R}}{3}=\frac{4 \mathrm{R}}{3}[/math]
+FCE পথে তুল্যরোধ, [math]\mathrm{R}_{2}=\frac{\mathrm{R}}{3}+\mathrm{R}=\frac{4}{3} \mathrm{R}[/math]
+ [math]\therefore[/math]
+ A ও B বিন্দুর মধ্যে তুল্যরোধ,[math]\begin{aligned}R_{e q} & =\frac{R_{1} \times R_{2}}{R_{1}+R_{2}}+\frac{R}{3} \\& =\frac{\frac{4}{3} R \times \frac{4}{3} R}{\frac{4}{3} R+\frac{4}{3} R}+\frac{R}{3} \\\therefore R_{\text {eq }} & =R\end{aligned}[/math]
+অতএব, উদ্দীপকের বর্তনীর A ও B টার্মিনালের মধ্যে তুল্যরোধ R
+
+Explanation:
+ব্যাখ্যা: ছবি পরিষ্কার না থাকায় নেটওয়ার্ক দেখে গ‑র সমতুল্য রোধ সরাসরি নির্ণয় করা যাচ্ছে না; রোধের মান এবং তাদের সংযোগ (সিরিজ/প্যারালেল বা কোনো ত্রিভুজ/তারকা বিন্যাস) জানালে নির্দিষ্ট মান দেয়া যাবে। অনুগ্রহ করে উচ্চ রেজলিউশনের সার্কিট চিত্র আপলোড করুন বা প্রতিটি রোধের মান ও নোড সংযোগ লিখে দিন — সাধারণভাবে সিরিজ রোধ যোগ এবং প্যারালেল রোধের জন্য [math]R_{eq}=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}}[/math] সূত্র প্রয়োগ করা হয়, এবং জটিল ক্ষেত্রে নোড/মেস্কি ক্যানোনিকাল বস্তু (delta-star) রূপান্তর ব্যবহার করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 422400)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের বর্তনীটির [math](Network)A[/math] ও [math]B[/math] বিন্দুর মধ্যে তুল্য রোধ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](=\frac{R}{3})[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+
+[Image]
+[math]\left[\frac{1}{R}=\frac{1}{R}+\frac{1}{R}+\frac{1}{R}=\frac{3}{R}\right][/math]
+ [math]\therefore[/math]
+ নির্ণেয় তুল্যরোধ [math]=\frac{R}{3} \text { (Ans.) }[/math]
+
+
+Explanation:
+দুঃখিত — প্রদত্ত চিত্রের কনটেন্ট আমি দেখতে পারছি না। অনুগ্রহ করে বর্তনীটির রিগিস্টরগুলোর মান ও তাদের সংযোগ (যেমন সিরিজ/প্যারালাল বা ব্রিজের বিবরণ) লিখে দিন, অথবা উচ্চ রেজোলিউশনের ছবি আপলোড করুন—তবে তারা হলে আমি তৎক্ষণাৎ AB বিন্দুর তুল্য রোধ বের করে সংক্ষিপ্ত ব্যাখ্যা দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 422398)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের বর্তনীর [math]A[/math] ও [math]B[/math] বিন্দুর মধ্যে তুল্য রোধ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+ [math]P=Q=R=S=5 \Omega[/math]
+ [math]\therefore \ \frac{P}{Q}=\frac{R}{S};[/math]
+সুতরাং ব্রিজটি সাম্যাবস্থায় থাকবে।
+[Image]
+তাই মাঝের [math]5\Omega[/math]
+ রোধের মধ্য দিয়ে তড়িৎ প্রবাহিত হবে না। ফলে সমতূল্য বর্তনী হবে নিম্নরূপ-উপরের [math]5\Omega[/math]
+ মানের রোধ দুটি শ্রেণিতে যুক্ত থাকায় এদের তুল্যরোধ,[math]R_{s_{1}}=5 \Omega+5 \Omega=10 \Omega[/math]
+অনুরূপে, নিচের [math]5\Omega[/math]
+ মানের রোধদ্বয়ে তুল্যরোধ, [math]R_{s_{2}}=10 \Omega[/math]
+ [math]R_{s_{1}}[/math]
+ ও [math]R_{s_{2}}[/math]
+ সমান্তরাল যুক্ত থাক্য বর্তনীর সর্বমোট তুল্যরোধ [math]R_{p}[/math]
+ হলে,[math]\begin{array}{l} \frac{1}{R_{p}}=\frac{1}{R_{s_{1}}}+\frac{1}{R_{s_{2}}}=\frac{1}{10 \Omega}+\frac{1}{10 \Omega}=\frac{1+1}{10 \Omega}=\frac{2}{10 \Omega} \\ \therefore R_{p}=\frac{10 \Omega}{2}=5 \Omega \end{array}[/math]
+
+
+Explanation:
+দুঃখিত, আমি ওই ছবিটি দেখতে পারছি না; অনুগ্রহ করে সার্কিটের রেজিস্টরের মান ও সংযোগ (যেমন সিরিজ/প্যারালাল বা ব্রিজ কনফিগারেশন) আপলোড বা টেক্সটে বর্ণনা করুন, তখন আমি A ও B-এর মধ্যে তুল্য রোধ সহজভাবে ব্যাখ্যা করে দিব।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 422397)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পাশের চিত্রে (i) [math]B[/math] ও [math]D[/math] বিন্দুর এবং (ii) [math]A[/math] ও [math]B[/math] বিন্দুর মধ্যবর্তী তুল্য রোধ নির্ণয় করো।
+
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](i) \frac{R}{2},(ii) \ \frac{5R}{8}[/math]
+ [math]\\[/math]
+ [math][/math]
+(i)
+[Image]
+[math]\left[\frac{1}{R_{p}}=\frac{1}{2 R}+\frac{1}{R}+\frac{1}{2 R}=\frac{1+2+1}{2 R}=\frac{4}{2 R}=\frac{2}{R} \therefore R_{p}=\frac{R}{2}\right][/math]
+
+[Image]
+[math]\therefore \ B[/math]
+ ও [math]D[/math]
+ বিন্দুর তুল্যরোধ [math]=\frac{\mathrm{R}}{2} \text { (Ans.) }[/math]
+(খ)
+[Image]
+
+[Image]
+[math]\left[\frac{1}{R_{p_{1}}}=\frac{1}{R}+\frac{1}{2 R}=\frac{3}{2 R} \therefore R_{P_{2}}=\frac{2 R}{3}\right][/math]
+
+[Image]
+
+[Image]
+[math]\left[\frac{1}{R_{p_{2}}}=\frac{1}{R}+\frac{1}{5 R / 3}=\frac{1}{R}+\frac{3}{5 R}=\frac{5+3}{5 R} \therefore R_{p_{2}}=\frac{5 R}{8}\right][/math]
+ [math]\therefore \ A[/math]
+ ও [math]B[/math]
+ বিন্দুর তুল্যরোধ [math]=\frac{5 R}{8} \text { (Ans.) }[/math]
+
+
+Explanation:
+ছবিটি আমার কাছে স্পষ্টভাবে দেখা যাচ্ছে না, তাই সঠিক সমাধান দিতে রোধগুলোর মান ও তাদের সংযোগ (কোনগুলো সিরিজ, প্যারালেল বা ব্রিজে রয়েছে) জানতে হবে; অনুগ্রহ করে রোধগুলোর মান বা উচ্চ রেজোলিউশনের ছবি/সংক্ষিপ্ত বর্ণনা দিন, তখন আমি (ক) [math]B–D[/math] ও (খ) [math]A–B[/math] এর তুল্য রোধ স্পষ্টভাবে ব্যাখ্যা করে দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 422394)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীটি লক্ষ করো:
+
+
+[Image]
+
+
+Options:
+ঘ. উক্ত বর্তনীর [math]R_3[/math] এর সাথে [math]5 \Omega[/math] রোধ একবার শ্রেণিতে আরেকবার সমান্তরালে যুক্ত করলে কোন ক্ষেত্রে বর্তনীর প্রবাহ বেশি হবে? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ5 [math]\Omega[/math]
+ রোধ [math]R_3[/math]
+ এর সাথে শ্রেণিতে যুক্ত করলে,[math]\begin{array}{l}\frac{1}{R_{p}^{\prime \prime}}=\frac{1}{5+5}+\frac{1}{15}=\frac{3+2}{30}=\frac{5}{30} \\R_{p}^{\prime \prime}=\frac{30}{5}=6 \Omega\end{array}[/math]
+এক্ষেত্রে কোষের বহিঃস্থ বর্তনীর তুল্যরোধ,[math]\begin{aligned}R_{e q}^{\prime} & =R_{1}+R_{p}^{\prime \prime} \\& =6 \Omega+6 \Omega=12 \Omega\end{aligned}[/math]
+এবং বর্তনীর মূল প্রবাহ [math]I^{\prime}=\frac{E}{R_{e q}^{\prime}+r}=\frac{10 V}{12 \Omega+0.25 \Omega}=0.816 A[/math]
+গ' অংশে পাই, [math]\mathrm{R}_{\mathrm{P}}=3.75 \Omega[/math]
+5 [math]\Omega[/math]
+ রোধ [math]R_3[/math]
+ -এর [math]\therefore \mathrm{R}_{\mathrm{p}}^{\prime}=\left(3.75^{-1}+5^{-1}\right)^{-1}=2.143 \Omega[/math]
+ সাথে সমান্তরালে যুক্ত করলে,[math]\frac{1}{R_{p}^{\prime}}=\frac{1}{R_{p}}+\frac{1}{5 \Omega}=\frac{1}{3.75 \Omega}+\frac{1}{5 \Omega}[/math]
+ [math]\therefore \mathrm{R}_{\mathrm{p}}^{\prime}=\left(3.75^{-1}+5^{-1}\right)^{-1}=2.143 \Omega[/math]
+এক্ষেত্রে কোষের বহিঃস্থ বর্তনীর সর্বমোট তুল্যরোধ,[math]R_{e q}=R_{1}+R_{p}^{\prime}=6 \Omega+2.143 \Omega=8.143 \Omega[/math]
+এর মূল প্রবাহ, [math]\begin{aligned}I=\frac{E}{R_{\varphi q}+r} & =\frac{10 V}{8.143 \Omega+0.25 \Omega} \\& =1.191 \mathrm{~A}\end{aligned}[/math]
+লক্ষ করি, [math]1.191 \mathrm{~A}>0.816 \mathrm{~A}[/math]
+বা, [math]I>I^{\prime}[/math]
+অর্থাৎ 5 [math]\Omega[/math]
+ রোধটি [math]R_3[/math]
+ রোধের সাথে সমান্তরালে যুক্ত করলে মূল প্রবাহ বেশি হবে।
+
+Explanation:
+ব্যাখ্যা: শ্রেণিতে যুক্ত হলে সমতুল্য রোধ হবে [math]R_{series}=R_3+5[/math] এবং সমান্তরালে যুক্ত হলে [math]R_{parallel}=\dfrac{R_3\cdot5}{R_3+5}[/math]. ধনাত্মক [math]R_3[/math] জন্য সহজ গণনায় দেখা যায় [math]R_{parallel}5R_3[/math] সব সময় সত্য), তাই মোট সরবরাহিত প্রবাহ [math]I=\dfrac{V}{R_{total}}[/math] সমান্তরালে যুক্ত করার ক্ষেত্রে বেশি হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 422395)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3.5 \Omega[/math] এবং [math]12 \Omega[/math] রোধবিশিষ্ট দুটি তার শ্রেণিবদ্ধ সংযুক্ত করে [math]4 \ V[/math] তড়িচ্চালক শক্তিবিশিষ্ট একটি ব্যাটারির সাথে সংযুক্ত করা হলো।ব্যাটারির সাথে সংযুক্ত করা হলো। ব্যাটারির অভ্যন্তরীণ রোধ [math]0.5 \Omega[/math] হলে প্রত্যেক তারের দুই প্রান্তের বিভব পার্থক্য নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.875 \ V,3V)[/math]
+
+Explanation:
+ব্যাখ্যা: তিনটি রোধ ধারাবাহিকভাবে সংযুক্ত থাকায় সার্কেলে একই ধারা প্রবাহ করে, তাই [math]I=\dfrac{4}{3.5+12+0.5}=\dfrac{4}{16}=0.25\ \text{A}[/math]. প্রতিটি রোধে বিভব পার্থক্য [math]V=IR[/math]; তাই [math]3.5\ \Omega[/math]-এ [math]0.25\times3.5=0.875\ \text{V}[/math] এবং [math]12\ \Omega[/math]-এ [math]0.25\times12=3.00\ \text{V}[/math] (অভ্যন্তরীণ [math]0.5\ \Omega[/math]-এ [math]0.125\ \text{V}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 422396)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]5\Omega[/math] ও [math]7\Omega[/math] এর দুটি রোধককে শ্রেণি সমবায়ে যুক্ত কর সমবায়টিকে [math]2.6 \ V[/math] তড়িচ্চালক শক্তি এবং [math]1\Omega[/math] অভ্যন্তরীণ রোধের এক কোষের সাথে যুক্ত করে বর্তনী পূর্ণ করা হলো। প্রত্যেকটি রোধকে প্রান্তীয় বিভব পার্থক্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1V;4V)[/math]
+
+Explanation:
+ব্যাখ্যা: শ্রেণি-সমবায়ে যুক্ত রোধকগুলোতে একই প্রান্তীয় বিভব থাকে। সমতুল্য রোধ [math]R_p=\frac{5\times7}{5+7}=\frac{35}{12}\ \Omega[/math], মোট রোধ [math]R_{tot}=1+\frac{35}{12}=\frac{47}{12}\ \Omega[/math] হওয়ায় ধারা [math]I=\frac{2.6}{47/12}=\frac{31.2}{47}\ \text{A}[/math] এবং প্রান্তীয় বিভব [math]V=2.6-I\cdot1=2.6-\frac{31.2}{47}=\frac{91}{47}\ \text{V}\approx1.936\ \text{V}[/math]। তাই প্রতিটি রোধকের উপর প্রান্তীয় বিভব প্রায় [math]1.94\ \text{V}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 422393)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি তারের প্রতিটির রোধ [math]20\Omega[/math]। এদেরকে সমান্তরাল সমবায়ে যুক্ত করা হলো। পরে একে [math]6V[/math] বিদ্যুচ্চালক শক্তি ও [math]5\Omega[/math] অভ্যন্তরীণ রোধের একটি বিদ্যুৎ কোষের দুই প্রান্তের সাথে যুক্ত কর হলো। কোষের প্রান্তীয় বিভব পার্থক্য ও প্রতিটি তারে বিদ্যুৎ প্রবাহের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4V,0.2A)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,১ম রোধ, [math]R_1 =20 \Omega[/math]
+২য় রোধ, [math]R_2 = 20 \Omega[/math]
+বিদ্যুচ্চালক শক্তি, [math]E=6V[/math]
+অভ্যন্তরীণ রোধ, [math]r=5\Omega[/math]
+তারের প্রবাহমাত্রাদ্বয়, [math]I_1,I_2=?[/math]
+বিভব পার্থক্য, [math]V=?[/math]
+
+[Image]
+যেহেতু রোধদ্বয় সমান্তরাল সমবায়ে যুক্ত তাই সমান্তরাল সমবায়ের ক্ষেত্রে,[math]\begin{array}{c} \begin{aligned} \frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}} & =\frac{1}{20 \Omega}+\frac{1}{20 \Omega} \\ & =\frac{1+1}{20 \Omega} \end{aligned} \\ \therefore R_{p}=\frac{20 \Omega}{2}=10 \Omega^{*} \end{array}[/math]
+আবার প্রবাহমাত্রা, [math]I=\frac{E}{R_{P}+r}=\frac{6 V}{10 \Omega+5 \Omega}=\frac{6}{15} A[/math]
+এখন কোষের প্রান্তীয় বিভব পার্থক্য [math]V[/math]
+ হলে আমরা জানি,[math]V=R_{p} \times 1=10 \Omega \times \frac{6}{15} A=4 V \text { (Ans.) }[/math]
+আবার, প্রথম তারের প্রবাহমাত্রা ও দ্বিতীয় তারের প্রবাহমাত্রা,[math]I_{1}=I_{2}=\frac{V}{R_{1}}=\frac{4 V}{20}=0.2 \mathrm{~A} \text { (Ans.) }[/math]
+
+
+Explanation:
+দুটি [math]20\ \Omega[/math] রোধ সমান্তরালে যোগ করলে সমবায় রোধ হয় [math]R_{\text{parallel}}=(1/20+1/20)^{-1}=10\ \Omega[/math]। সমগ্র প্রকৃতির রোধ [math]R_{\text{total}}=10+5=15\ \Omega[/math] হওয়ায় সেল থেকে প্রবাহ [math]I=\dfrac{6}{15}=0.4\ \text{A}[/math] এবং প্রান্তীয় বিভব পার্থক্য [math]V_{\text{term}}=6-0.4\times5=4\ \text{V}[/math]। প্রতিটি তারে একই বিভব পড়ে, সেহেতু প্রতিটি তারের প্রবাহ [math]I_{\text{each}}=4/20=0.2\ \text{A}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 422391)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. বর্তনীর তুল্যরোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,বর্তনীর রোধসমূহ, [math]R_1 = 3\Omega[/math]
+, [math]R_2 = 6\Omega[/math]
+, [math]R_3 = 10\Omega[/math]
+বর্তনীর তুল্যরোধ, [math]R_eq[/math]
+ = ?[math]R_1[/math]
+ ও [math]R_2[/math]
+ সমান্তরালে যুক্ত বিধায় এদের তুল্যরোধ [math]R_P[/math]
+ হলে,[math]\begin{aligned}\quad & \frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}=\frac{1}{3 \Omega}+\frac{1}{6 \Omega}=\frac{2+1}{6\Omega}=\frac{3}{6 \Omega} \\\therefore \quad R_{p} & =\frac{6 \Omega}{3}=2 \Omega\end{aligned}[/math]
+ [math]R_p[/math]
+ এর সাথে [math]R_3[/math]
+ শ্রেণিতে যুক্ত, এদের তুল্যরোধ, [math]R_s = R_p + R_3 = 2\Omega + 10\Omega = 12\Omega[/math]
+সুতরাং বর্তনীর তুল্যরোধ = 12 [math]\Omega[/math]
+ (Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ ছবিতে সমান্তরালে থাকা রোধদ্বয়ের সমতুল্য রোধ হবে [math]R_p=\frac{R_1R_2}{R_1+R_2}[/math], এবং তা যদি কোনো রোধের সাথে সিরিজে থাকে তাহলে মোট তুল্যরোধ হবে [math]R_{eq}=R_p+R_3[/math]। চিত্রে প্রদত্ত রোধের মানগুলো এই সূত্রে বসিয়ে সরলীকরণ করলে প্রশ্নের উত্তরটি পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 422390)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \Omega, 50 \Omega[/math] এবং [math]190 \Omega[/math] রোগের তিনটি পরিবাহীকে শ্রেণিতে সংযুক্ত করে সমষ্টির দুপ্রান্তে [math]250 \ V[/math] প্রয়োগ করা হয়েছে। পরিবাহী তিনটির প্রত্যেকটির দুপ্রান্তের বিভব পার্থক্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](10V,50V,190V)[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+এখানে,[math]\begin{array}{ll} R_{1}=10 \Omega & V_{1}=? \\ R_{2}=50 \Omega & V_{2}=? \\ R_{3}=190 \Omega & V_{3}=? \end{array}[/math]
+তুল্য রোধ,[math]\begin{aligned} R_{4} & =R_{1}+R_{2}+R_{3} \\ & =(10+50+190) \Omega \\ & =250 \Omega \end{aligned}[/math]
+আমরা জানি,[math]\begin{array}{l} V=I R_{s} \\ I=\frac{V}{R_{i}}=\frac{250 V}{250 \Omega}=1 A \end{array}[/math]
+এখানে,[math]\begin{array}{l} V_{1}=I R_{1}=1 \mathrm{~A} \times 10 \Omega=10 \mathrm{~V} \text { (Ans.) } \\ V_{2}=I R_{2}=1 \mathrm{~A} \times 50 \Omega=50 \mathrm{~V} \text { (Ans.) } \\ \mathrm{V}_{3}=I R_{3}=1 \mathrm{~A} \times 190 \Omega=190 \mathrm{~V} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যেহেতু তিনটি প্রতিরোধক সমান্তরালে সংযুক্ত, প্রতিটি শাখার উপর একই বিভব থাকে যা সরবরাহ ভোল্টেজের সমান। তাই প্রতিটি প্রতিরোধকের দুপ্রান্তের বিভব পার্থক্য হবে [math]250\ \text{V}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 422388)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীতে [math]100 \ \Omega[/math] রোধের ব্যয়িত ক্ষমতা [math]0.81 \ W[/math] হয়। আরো মনে কর, একজন ছাত্রের কাছে [math]100[/math] এর অনেকগুলো রোধ আছে।
+
+
+[Image]
+
+
+Options:
+ঘ. [math]100 \ \Omega[/math]এর রোধগুলোর সাহায্যে কীভাবে [math]200 \Omega , 50 \Omega[/math] ও [math]40 \ \Omega[/math] রোধ তৈরি করবে বর্তনীর সাহায্যে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ100 [math]\Omega[/math]
+ এর রোধগুলোর সাহায্যে 200 [math]\Omega[/math]
+, 50 [math]\Omega[/math]
+ ও 40 [math]\Omega[/math]
+ রোধ তৈরি করে বর্তনীর সাহায্যে দেখানো হলো:200 [math]\Omega[/math]
+ রোধ তৈরি: 100 [math]\Omega[/math]
+ এর দুটি রোধ শ্রেণিতে সংযুক্ত করলে 200 [math]\Omega[/math]
+ রোধ তৈরি হবে ।
+[Image]
+বর্তনীর তুল্য রোধ, [math]R_s[/math]
+ = 100 + 100[math]R_s = 200 \Omega[/math]
+ [math]50 \Omega[/math]
+ রোধ তৈরি: 100 [math]\Omega[/math]
+ এর দুটি রোধ সমান্তরালে সংযুক্ত করলে [math]50\Omega[/math]
+ রোধ তৈরি হবে।
+[Image]
+বর্তনীর তুল্য রোধ, [math]R_{p}=\left(\frac{1}{100}+\frac{1}{100}\right)^{-1}[/math]
+ [math]\therefore \mathrm{R}_{\mathrm{p}}=50 \Omega[/math]
+40 [math]\Omega[/math]
+ রোধ তৈরি: লক্ষ্য করি, 40 = 50 || 200 = (100 || 100) || 200= 100 || 100 || (100+ 100)সুতরাং 40 [math]\Omega[/math]
+ রোধ পেতে 100 [math]\Omega[/math]
+ এর চারটি রোধকে নিম্নোক্ত সমবায়ে সংযুক্ত করা হয়:
+[Image]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ [math]200\ \Omega[/math] করতে দুইটি [math]100\ \Omega[/math] রোধ সরাসরি সিরিজে যোগ করলে [math]100+100=200\ \Omega[/math] হয়। দুইটি [math]100\ \Omega[/math] রোধ প্যারালেলে যুক্ত করলে সমমান [math](100^{-1}+100^{-1})^{-1}=50\ \Omega[/math] হয়। [math]40\ \Omega[/math] করতে তিনটি শাখায় যুক্ত করো: দুটি শাখায় একেকটি [math]100\ \Omega[/math] এবং তৃতীয় শাখায় দুইটি সিরিজে ([math]200\ \Omega[/math]); তখন সমান রোধ [math]R=(100^{-1}+100^{-1}+200^{-1})^{-1}=\bigl(\tfrac{1}{100}+\tfrac{1}{100}+\tfrac{1}{200}\bigr)^{-1}=40\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 422389)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]12 \ \Omega[/math] ও [math]18 \ \Omega[/math] রোধবিশিষ্ট দুটি পরিবাহীকে শ্রেণি ও সমান্তরালে যুক্ত করা হলো। তুল্য রোধের অনুপাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](25:66)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,একটি রোধ, [math]R_1 =12 \ \Omega[/math]
+অপর রোধ, [math]R_2 =18 \ \Omega[/math]
+শ্রেণি সমবায়ে তুল্য রোধ, [math]=R_s[/math]
+সমান্তরাল সমবায়ে তুল্য রোধ, [math]=R_p[/math]
+আমরা জানি,শ্রেণি সমবায়ে তুল্য রোধের ক্ষেত্রে,[math]\begin{aligned} R_{s} & =R_{1}+R_{2} \\ & =(12+18) \Omega \\ & =30 \Omega \end{aligned}[/math]
+সমান্তরাল সমবায়ের ক্ষেত্রে,[math]\begin{array}{l} \quad \frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}} \\ =\frac{1}{12}+\frac{1}{18}=\frac{3+2}{36} \\ \Rightarrow \frac{1}{R_{p}}=\frac{5}{36} \\ \therefore R_{p}=\frac{36}{5}=7.2 \Omega \\ \therefore \frac{R_{4}}{R_{p}}=\frac{30}{7.2}=\frac{25}{6} \\ \therefore R_{s}: R_{p}=25: 66 \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+শ্রেণি যোগে রোধগুলো যোগ হয়, তাই [math]R_s=12+18=30\ \Omega[/math]; সমান্তরালে দুই রোধের সমতুল্য জন্য সূত্র [math]R_p=\dfrac{R_1R_2}{R_1+R_2}[/math] প্রয়োগ করলে [math]R_p=\dfrac{12\times18}{12+18}=\dfrac{216}{30}=7.2\ \Omega[/math]. তাই তুল্য রোধের অনুপাত হচ্ছে [math]R_s:R_p=30:7.2=25:6\ (\text{বা }{25\over6})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 422384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. বর্তনীর তুল্যরোধ বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গবর্তনীতে [math]\mathrm{R}_{3} ~ও~ \mathrm{R}_{4}[/math]
+ শ্রেণিতে যুক্ত আছে এবং [math]\rm{R_{5}}[/math]
+ এদের সাথে সমান্তরালে সংযুক্ত আছে।এখানে, বর্তনীর রোধসমূহ,[math]\hspace{1 cm}\begin{array}{l} \rm{R}_{1}=10 \Omega ; \\ \rm{R}_{2}=10 \Omega \\ \rm{R}_{3}=10 \Omega \\ \rm{R}_{4}=20 \Omega \\ \rm{R}_{5}=20 \Omega \end{array}[/math]
+তড়িচ্চালক শক্তি, [math]\rm{E=3~V}[/math]
+ধরা যাক, [math]\rm{R_3 ~ও~ R_4}[/math]
+ -এর তুল্যরোধ [math]\rm{R_s}[/math]
+ এবং এদের সাথে সমান্তরালে যুক্ত [math]\rm{R_5}[/math]
+ রোধের তুল্যরোধ [math]\rm{R_p}[/math]
+ [math]\hspace{1.5 cm}\begin{aligned} \therefore \rm{R}_{\rm{S}} & =\rm{R}_{3}+\rm{R}_{4} \\ & =(10+20) \Omega \\ & =30 \Omega \end{aligned}[/math]
+এবং[math]\hspace{1.5 cm}\begin{array}{l} \quad \rm{\dfrac{1}{R_{P}}=\dfrac{1}{R_{s}}+\dfrac{1}{R_{5}}=\dfrac{1}{30 \Omega}+\dfrac{1}{20 \Omega}=\dfrac{2+3}{60 \Omega}=\dfrac{5}{60} \Omega^{-1}} \\ \therefore ~\rm{R_{P}}=\dfrac{60}{5} \Omega=12 \Omega \end{array}[/math]
+আবার, [math]\rm{R_1~ ও~ R_2}[/math]
+ রোধদ্বয়ের সাথে [math]\rm{R_p}[/math]
+ রোধ শ্রেণিতে যুক্ত।সুতরাং এদের তুল্য রোধ [math]\rm{R_s^\prime}[/math]
+ হলে,[math]\hspace{1.5 cm}\rm{R_{s}^{\prime}=R_{1}+R_{2}+R_{p}}=(10+10+12) \Omega=32 \Omega[/math]
+
+
+Explanation:
+দুঃখিত—আমি প্রদত্ত চিত্রটি দেখতে পাচ্ছি না, তাই গ-এর সমতুল্য রোধ নির্ণয়ের জন্য রোধগুলোর মান এবং তাদের সংযোগ (সিরিজ বা প্যারালেল) বা স্পষ্ট চিত্র দরকার। সাধারণত সিরিজে যোগফল হয়: [math]R_{eq}=R_1+R_2+\dots[/math] এবং প্যারালেলে হয়: [math]\dfrac{1}{R_{eq}}=\dfrac{1}{R_1}+\dfrac{1}{R_2}+\dots[/math] — এই তথ্য দিলে আমি সমতুল্য রোধ দ্রুত বের করে ব্যাখ্যা করে দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 422385)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+শ্রেণী সমবায়ে সজ্জিত দুটি পরিবাহীর রোধ [math]40\ ohm[/math] যা সমান্তরাল সমবায়ে [math]7.5\ ohm[/math] হয়। প্রতিটি পরিবাহীর রোধ বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]30 \Omega,\ 10 \Omega[/math]
+)[math]\\[/math]
+Solution : [math]R_{1}+R_{2}=40..........(i)[/math]
+ [math]\dfrac{1}{R_{1}}+\dfrac{1}{R_{2}}=\dfrac{1}{7.5} \Rightarrow \dfrac{R_{1}+R_{2}}{R_{1} R_{2}}=\dfrac{1}{7.5} \Rightarrow \dfrac{40}{R_{1} R_{2}}=\dfrac{1}{7.5}[/math]
+ [( [math]i[/math]
+) থেকে][math]\Rightarrow R_{1} R_{2}=300 \Rightarrow R_{2}=\frac{300}{R_{1}}........(ii)[/math]
+ [math]\text { (i) } \Rightarrow R_{1}+\dfrac{300}{R_{1}}=40 \Rightarrow R_{1}{ }^{2}-40 R_{1}+300=0 \Rightarrow\left(R_{1}-30\right)\left(R_{1}-10\right)=0 \Rightarrow R_{1}=30,10[/math]
+ [math]\therefore[/math]
+ পরিবাহীর রোধ [math]30 \Omega,\ 10\Omega \text { (Ans.) }[/math]
+
+
+Explanation:
+দুই রোধকে [math]R_1,R_2[/math] ধরে সিরিজে মোট [math]R_1+R_2=40\ \Omega[/math] এবং সমান্তরালে সমতুল্য [math]\dfrac{R_1R_2}{R_1+R_2}=7.5\ \Omega[/math] হওয়ায় [math]R_1R_2=7.5\times40=300\ \Omega^2[/math]. এসব থেকে দ্বিপদী সমীকরণ [math]R^2-40R+300=0[/math] পাওয়া যায়, বিচ্ছেদ [math]=400[/math] হলে মুলদ্বয় হল [math]R_1=30\ \Omega[/math] ও [math]R_2=10\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 422386)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2012-2013 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]5\Omega,\ 10\Omega[/math] এবং [math]15\Omega[/math] এর তিনটি রোধ শ্রেণি সমান্তরাল সমবায়ে সাজা নো আছে। উভয় ক্ষেত্রে তুল্য রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]30[/math]
+)[math]\\[/math]
+Solution : [math]R_{p}=\left(\dfrac{1}{R_{1}}+\dfrac{1}{R_{2}}+\dfrac{1}{R_{3}}\right)^{-1}=\left(\dfrac{1}{5}+\dfrac{1}{10}+\dfrac{1}{15}\right)^{-1}[/math]
+ [math]R_p=\dfrac{30}{11};\ R_s=R_1+R_2+R_3=5+10+15;\ R_s=30[/math]
+
+
+Explanation:
+ব্যাখ্যা: যতগুলো রোধ ধারাবাহিকভাবে যুক্ত হলে তাদের মানগুলো সরাসরি যোগ হয় এবং সমান্তরালে যুক্ত হলে তাদের বৈদ্যুতিক প্রতিরোধের মূলের যোগফল হয়।
+
+ক ধারাবাহিক: [math]R=5+10+15=30\ \Omega[/math]
+
+খ সমান্তরাল: [math]\frac{1}{R}=\frac{1}{5}+\frac{1}{10}+\frac{1}{15}=\frac{11}{30}\Rightarrow R=\frac{30}{11}\approx2.73\ \Omega[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 422387)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]8\Omega[/math] ও [math]12\Omega[/math] এর দুটি রোধকে একবার শ্রেণী সমবায়ে এবং পরে সমান্তরাল সমবা য়ে যুক্ত করে [math]12V[/math] এর একটি বিদ্যুৎ কোষের সহিত সংযুক্ত করা হলে, প্রত্যেক ক্ষেত্রে বিদ্যুৎ কোষ বাহকের সরবরাহকৃত প্রবাহের মান নির্ণয় কর। বিদ্যুৎ কোষের অভ্যন্তরীণ রোধ [math]0.5\Omega[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : শ্রেণী সমবায়ে যুক্ত করলে তুল্যবোধ, [math]\mathrm{R}_{1}=8+12=20 \Omega[/math]
+এক্ষেত্রে সরবরাহকৃত প্রবাহের মান, [math]I_{1}=\frac{E}{R_{1}+r}=\frac{12}{20+0.5}=0.5854 A \text { (Ans.) }[/math]
+রোদ্বয় সমান্তরালে যুক্ত করলে তুল্যরোধ, [math]\mathrm{R}_{2}=\dfrac{8 \times 12}{8+12}=4.8 \Omega[/math]
+সেক্ষেত্রে, প্রবাহমাত্রা, [math]\mathrm{I}_{2}=\dfrac{12}{4.8+0.5}=2.264\mathrm{A}[/math]
+
+
+Explanation:
+প্রথমে সিরিজ সংযোগে বাহ্যিক প্রতিরোধ [math]R_{ext}=8+12=20\Omega[/math], মোট প্রতিরোধসহ সেলটির অভ্যন্তরীণ রোধ [math]R_{tot}=20+0.5=20.5\Omega[/math] তাই প্রবাহ [math]I=\dfrac{12}{20.5}=0.585\ \text{A}[/math]। পরবর্তীতে সমান্তরাল সংযোগে বাহ্যিক সমতুল প্রতিরোধ [math]R_{ext}=\dfrac{8\times12}{8+12}=4.8\Omega[/math], মোট [math]R_{tot}=4.8+0.5=5.3\Omega[/math] এবং প্রবাহ [math]I=\dfrac{12}{5.3}=2.26\ \text{A}[/math]। সারাংশ: সিরিজে মোট প্রতিরোধ বেশি হওয়ায় স্রোত ছোট এবং সমান্তরালে প্রতিরোধ কম হওয়ায় স্রোত বেশি হয়; অভ্যন্তরীণ রোধ সবসময় মোট প্রতিরোধ বাড়িয়ে স্রোত কমায়।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 422383)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+প্রদত্ত বর্তনীতে [math]R_{1}=75 \Omega, R_{2}=25 \Omega, R_{3}=90 \Omega, R_{4}=50 \Omega[/math] এবং [math]R_{5}=75 \Omega[/math] উল্লেখ্য, তড়িচ্চালক বল [math]E = 6 V.[/math]
+
+[Image]
+
+
+Options:
+গ. [math]C[/math] ও [math]E[/math] বিন্দুর মধ্যবর্তী তুল্যরোধ হিসাব কর।
+
+
+Correct Answer: 
+
+Solution:
+গবর্তনীটিতে [math]\rm{C ~ও~ E}[/math] বিন্দুর মধ্যে রোধ সংযুক্ত নেই। কাজেই এ দু'বিন্দুর মধ্যবর্তী তুল্যরোধ শূন্য।
+
+Explanation:
+ব্যাখ্যা: গ R3 ও R4 একে অপরের ধারাবাহিকভাবে C থেকে E পর্যন্ত যুক্ত (সিরিজ) এবং R5 সরাসরি C ও E এর মধ্যে আছে, তাই R5 সমতলভাবে (প্যারালাল) রয়েছে সিরিজ R3+R4 এর সঙ্গে। অতএব তুল্যরোধ [math]R_{\text{eq}}=\frac{(R_3+R_4)R_5}{R_3+R_4+R_5}=\frac{(90+50)\times75}{90+50+75}=\frac{2100}{43}\ \Omega\approx48.84\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 422382)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. বর্তনীর তুল্য রোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]\rm{R_1~ ও~ R_2}[/math]
+ সমান্তরাল সমবায়ে যুক্তউদ্দীপক হতে রোধসমূহ,[math]\hspace{1 cm}\begin{array}{l} \rm{R}_{1}=3 \Omega \\ \rm{R}_{2}=6 \Omega ~ও\\ \rm{R}_{3}=10 \Omega \end{array}[/math]
+এদের তুলারোধ, [math]\rm{R_p}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} \therefore \rm{\frac{1}{R_{P}} }& =\rm{\frac{1}{R_{1}}+\frac{1}{R_{2}}} \\ & =\frac{1}{3 \Omega}+\frac{1}{6 \Omega}=\frac{2+1}{6 \Omega}=\frac{3}{6} \Omega^{-1}=\frac{1}{2} \Omega^{-1} \\ \therefore \rm{R_{P}} & =2 \Omega \end{aligned}[/math]
+এবার, [math]\rm{R_p}[/math]
+ এর সাথে [math]\rm{R_3}[/math]
+ শ্রেণিতে যুক্ত।[math]\therefore[/math]
+ বর্তনীর তুল্যরোধ, [math]\rm{R_{S}=R_{P}+R_{3}=(2+10) \Omega=12 \Omega}[/math]
+অতএব, বর্তনীর তুল্যরোধ [math]12 \Omega[/math]
+।
+
+Explanation:
+ছবিটি স্পষ্টভাবে দেখা যাচ্ছে না, তাই তুল্য রোধ নির্ণয়ের জন্য রোধগুলির মান ও তাদের সিরিজ/প্যারালেল সংযোগের বিবরণ বা একটি স্পষ্ট ছবি প্রয়োজন; অনুগ্রহ করে রোধের মান এবং সংযোগের ধরন বা ক্লিয়ার ছবি পুনরায় আপলোড করুন।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 422381)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. চিত্রে উল্লিখিত রোধগুলোকে শ্রেণি সমবায়ে সাজিয়ে চিত্র অঙ্কন কর এবং মূল প্রবাহের পরিবর্তন কিরূপ হবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘরোধগুলোকে শ্রেণি সমবায়ে সজ্জিত করে পাই,
+[Image]
+এখানে রোধগুলোর তুল্যরোধ [math]\rm{R_s}[/math]
+ হলে,[math]\hspace{1.5 cm}\rm{R_{s}=R_{1}+R_{2}+R_{3}=12 \Omega+6 \Omega+3 \Omega=21 \Omega}[/math]
+এখন বর্তনীর প্রবাহ [math]\rm{I_1}[/math]
+ হলে,[math]\hspace{1.5 cm}\rm{I}_{1}=\dfrac{8 \mathrm{~V}}{21 \Omega}=0.38 \mathrm{~A}[/math]
+উদ্দীপক হতে পাই,[math]\hspace{1 cm}\rm{R_{1}=12 \Omega ; R_{2}=6 \Omega ; R_{3}=3 \Omega}[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িচ্চালক বল, [math]\rm{V=8 V}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্তনীর মূল প্রবাহ, [math]\rm{I=?}[/math]
+ [math]\hspace{1 cm}[/math]
+রোধ তিনটি সমান্তরালে সংযুক্ত।[math]\therefore[/math]
+ তুল্যরোধ [math]\rm{R_p}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} & \rm{\frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}} }\\ \Rightarrow & \rm{\frac{1}{R_{p}}=\frac{1}{12 \Omega}+\frac{1}{6 \Omega}+\frac{1}{3 \Omega}=\frac{1+2+4}{12 \Omega}=\frac{7}{12 \Omega}} \\ \therefore ~& \rm{R_{p}=\frac{12}{7} \Omega} \end{aligned}[/math]
+বর্তনীর মূল প্রবাহ,[math]\hspace{1.5 cm}\rm{I=\dfrac{V}{R_{p}}}=\dfrac{8 \mathrm{~V}}{\frac{12}{7} \Omega}=\dfrac{14}{3} \mathrm{~A}=4,67 \mathrm{~A}[/math]
+অতএব, বর্তনীর মূলপ্রবাহ [math]4.67 \mathrm{~A}[/math]
+।এখানে, [math]\mathrm{I}_{1}<\mathrm{I}[/math]
+অতএব, বর্তনীর মূল প্রবাহ হ্রাস পাবে।
+
+Explanation:
+ঘ ব্যাখ্যা: চিত্রের রোধগুলোকে পুনরায় সাজালে দেখা যাবে কিছু রোধ সমান্তরালে এবং বাকিগুলো শ্রেণিতে যুক্ত—সমান্তরাল রোধগুলি একত্র করলে মোট প্রতিরোধ কমে যায়। উৎসে সরবরাহ ভোল্টেজ অপরিবর্তিত থাকলে সমতুল্য প্রতিরোধ [math]R_{eq}[/math] কমলে প্রধান প্রবাহ [math]I=\frac{V}{R_{eq}}[/math] বেড়ে যায় (বিশেষ ক্ষেত্রে সমান রোধ থাকলে সমান্তরালে দোরা হলে প্রতিরোধ অর্ধেক হয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 422380)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. বর্তনীর তুল্য রোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}\rm{R_{1}=8 \Omega ; R_{2}=6 \Omega ; R_{3}=10 \Omega ; R_{4}=2 \Omega}[/math]
+ [math]\rm{R_1, R_2~ও~ R_3}[/math]
+ সমান্তরালে সমবায়ে সংযুক্ত। এদের তুল্যরোধ [math]\rm{R_p}[/math]
+ হলে[math]\hspace{1.5 cm}\begin{aligned} \rm{\frac{1}{R_{p}}} & =\rm{\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}} \\ & =\frac{1}{8 \Omega}+\frac{1}{6 \Omega}+\frac{1}{10 \Omega}=\frac{15+20+12}{120 \Omega}=\frac{120 \Omega}{47} \end{aligned}[/math]
+আবার, [math]\rm{R_p}[/math]
+ এবং [math]\rm{R}_4[/math]
+ শ্রেণি সমবায়ে সংযুক্ত। এদের তুল্যরোধ [math]\rm{R_s}[/math]
+ [math]\hspace{1.5 cm}\rm{R_{s}=R_{p}+R_{4}=\dfrac{120 \Omega}{47}+2 \Omega=4.55 \Omega}[/math]
+ [math]\therefore[/math]
+ অভ্যন্তরীণ রোধসহ বর্তনীর তুল্যরোধ [math]=(4.55+1.2) \Omega=5.75 \Omega[/math]
+।
+
+Explanation:
+দুঃখিত—আমি দেওয়া ছবিটি পড়তে পারছি না। অনুগ্রহ করে সার্কিটের রোধগুলোর মান ও তাদের সংযোগ (কোনগুলো সিরিজ/প্যারালেল, বা নোডগুলোর বিবরণ) লিখে দিন অথবা একটি স্পষ্ট ছবি আপলোড করুন, তাহলেই আমি গ এর তুল্য রোধ গণনা করে সংক্ষিপ্ত ব্যাখ্যা দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 422379)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকের বর্তনীটির প্রবাহমাত্রা নির্ণয়ের জন্য অ্যামিটারের পাঠ নেয়া হলো। পরবর্তীতে [math]\Omega[/math] রোধের একটি পরিবাহী তারকে B ও C বিন্দুতে যুক্ত করে পুনরায় অ্যামিটারের পাঠ নেওয়া হলো।
+
+
+[Image]
+
+
+Options:
+ঘ. কোন ক্ষেত্রে অ্যামিটারের পাঠ বেশি হবে? গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+রোধ,[math]\hspace{2.5 cm}[/math]
+ [math]\begin{array}{l} \rm{R}_{1}=10 \Omega \\ \mathrm{R}_{2}=20 \Omega \\ \mathrm{R}_{3}=30 \Omega \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্তনীর তুল্যরোধ, [math]\mathrm{R}_{\text {eq }}=\text { ? }[/math]
+ [math]R_1[/math]
+ ও [math]R_2[/math]
+ রোধদ্বয় সমান্তরালে থাকায়, এদের তুল্যরোধ [math]R_p[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}} \\ \Rightarrow \frac{1}{R_{p}}=\frac{1}{10}+\frac{1}{20} \\ \Rightarrow \frac{1}{R_{p}}=\frac{3}{20} \\ \therefore ~ R_{q}=6.67 \Omega \end{array}[/math]
+আবার, [math]R_p[/math]
+ ও [math]R_3[/math]
+ শ্রেণিতে থাকায় বর্তনীর তুল্যরোধ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{R}_{\mathrm{eq}} & =\mathrm{R}_{\mathrm{p}}+\mathrm{R}_{3} \\ \Rightarrow \mathrm{R}_{\mathrm{eq}} & =6.67+30 \\ \therefore \mathrm{R}_{\mathrm{eq}} & =36.67 \Omega \text { (Ans.) } \end{aligned}[/math]
+ B ও C বিন্দুতে 5 [math]\Omega[/math]
+ মানের রোধ যুক্ত করার পূর্বে :এখানে,[math]\hspace{1 cm}[/math]
+মোট তড়িচ্চালক শক্তি,[math]\hspace{2.5 cm}\begin{aligned} E & =E_{1}+E_{2} \\ & =E_{3}+E_{4} \\ & =(2+3) V \\ & =5 \mathrm{~V} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্তনীর মূলপ্রবাহ = অ্যামিটারের মধ্যনিয়ে প্রবাহ, [math]I_{A}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{I}_{\mathrm{A}}=\frac{5}{36.67} \\ \therefore \mathrm{I}_{\mathrm{A}}=0.14 \mathrm{~A} \end{array}[/math]
+B ও C বিন্দুতে 5 [math]\Omega[/math]
+ মানের রোধ শ্রেণিতে যুক্ত করলে বর্তনীটি হবে নিম্নরূপ :
+[Image]
+এখানে,[math]\hspace{1 cm}[/math]
+বর্তনীর তুলারোধ, [math]R_{eq}^\prime =?[/math]
+ [math]\hspace{1 cm}[/math]
+অ্যামিটারের মধ্যদিয়ে প্রবাহ, [math]I_A^\prime =?[/math]
+এক্ষেত্রে, বর্তনীর তুল্যরোধ, [math]R_1[/math]
+ ও [math]R_2[/math]
+ সমান্তরালে থাকায় এদের তুল্যরোধ,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{R_{p_{1}}}=\frac{1}{R_{1}}+\frac{1}{R_{2}} \\ \Rightarrow \frac{1}{R_{p_{1}}}=\frac{1}{10}+\frac{1}{20} \\ \Rightarrow \frac{1}{R_{p_{1}}}=\frac{3}{20} \\ \therefore R_{p_{1}}=6.67 \mathrm{~A} \end{array}[/math]
+ [math]R_3[/math]
+ ও [math]R_4[/math]
+ সমান্তরালে থাকায় এদের তুল্যরোধ,[math]\hspace{1.5 cm}\begin{array}{l} ~\quad \frac{1}{\mathrm{R}_{\mathrm{P}_{2}}}=\frac{1}{\mathrm{R}_{3}}+\frac{1}{\mathrm{R}_{4}} \\ \Rightarrow \frac{1}{\mathrm{R}_{\mathrm{P}_{2}}}=\frac{1}{30}+\frac{1}{5} \\ \Rightarrow \frac{1}{\mathrm{R}_{\mathrm{p}_{2}}}=\frac{7}{30} \\ \therefore ~\mathrm{R}_{\mathrm{P}_{2}}=4.29 \Omega \end{array}[/math]
+বর্তনীর তুল্যরোধ,[math]\hspace{1.5 cm}\begin{aligned} R_{\mathrm{eq}}^{\prime} & =R_{\mathrm{p}_{1}}+\mathrm{R}_{\mathrm{P}_{2}} \\ \Rightarrow \mathrm{R}_{\mathrm{eq}}^{\prime} & =6.67+4.29 \\ \therefore \mathrm{R}_{\mathrm{cq}} & =10.96 \Omega \end{aligned}[/math]
+বর্তনীর মূলপ্রবাহ,[math]\hspace{1.5 cm}\begin{array}{l}\mathrm{I}^{\prime}=\frac{E}{R_{\mathrm{eq}}^{\prime}}\\ \Rightarrow I^{\prime}=\frac{5}{10.96}\\ \therefore \mathrm{I}^{\prime}=0.456 \mathrm{~A}\end{array}[/math]
+ [math]\therefore[/math]
+ অ্যামিটারের মধ্যদিয়ে প্রবাহ,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \mathrm{I}_{\mathrm{A}}^{\prime}=\frac{\mathrm{R}_{4}}{\mathrm{R}_{3}+\mathrm{R}_{4}} \mathrm{I}^{\prime}\\ \Rightarrow I_{A}^{\prime}=\frac{5}{30+5} \times 0.456\\ \therefore ~ \mathrm{I}_{\mathrm{A}}^{\prime}=0.065 \mathrm{~A}\end{array}[/math]
+যেহেতু [math]\mathrm{I}_{\mathrm{A}}^{\prime}<\mathrm{I}_{\mathrm{A}}[/math]
+ সেহেতু প্রথম ক্ষেত্রে তথা B ও C বিন্দুতে 5 [math]\Omega[/math]
+ রোধ যুক্ত করার পূর্বে অ্যামিটারের পাঠ বেশি হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ যখন B ও C এর মধ্যে পরিবাহী তার যোগ করা হয় (অর্থাৎ রোধ [math]Ω[/math] শর্ট-circuit করা হয়) অ্যামিটারের পাঠ বেশি হবে, কারণ মোট প্রতিরোধ কমে যায়। ধরা যাক উৎসের ইএমএফ [math]E[/math], রোধ [math]R(=Ω)[/math], উৎসের অভ্যন্তরীণ রোধ ও অ্যামিটার প্রতিরোধ মিলিয়ে [math]r[/math] হয়; প্রথম অবস্থায় [math]I_1=\dfrac{E}{R+r}[/math], শর্ট করে দিলে [math]I_2=\dfrac{E}{r}[/math] হয় এবং স্পষ্টই [math]I_2>I_1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 422378)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকের বর্তনীটির প্রবাহমাত্রা নির্ণয়ের জন্য অ্যামিটারের পাঠ নেয়া হলো। পরবর্তীতে [math]\Omega[/math] রোধের একটি পরিবাহী তারকে B ও C বিন্দুতে যুক্ত করে পুনরায় অ্যামিটারের পাঠ নেওয়া হলো।
+
+
+[Image]
+
+
+Options:
+গ. প্রথম ক্ষেত্রে বর্তনীর তুল্যরোধ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+রোধ,[math]\hspace{2.5 cm}[/math]
+ [math]\begin{array}{l} \rm{R}_{1}=10 \Omega \\ \mathrm{R}_{2}=20 \Omega \\ \mathrm{R}_{3}=30 \Omega \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্তনীর তুল্যরোধ, [math]\mathrm{R}_{\text {eq }}=\text { ? }[/math]
+ [math]R_1[/math]
+ ও [math]R_2[/math]
+ রোধদ্বয় সমান্তরালে থাকায়, এদের তুল্যরোধ [math]R_p[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}} \\ \Rightarrow \frac{1}{R_{p}}=\frac{1}{10}+\frac{1}{20} \\ \Rightarrow \frac{1}{R_{p}}=\frac{3}{20} \\ \therefore ~ R_{q}=6.67 \Omega \end{array}[/math]
+আবার, [math]R_p[/math]
+ ও [math]R_3[/math]
+ শ্রেণিতে থাকায় বর্তনীর তুল্যরোধ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{R}_{\mathrm{eq}} & =\mathrm{R}_{\mathrm{p}}+\mathrm{R}_{3} \\ \Rightarrow \mathrm{R}_{\mathrm{eq}} & =6.67+30 \\ \therefore \mathrm{R}_{\mathrm{eq}} & =36.67 \Omega \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ ছবিতে থাকা রোধমান না দেখে নির্দিষ্ট সংখ্যাসূচক উত্তর দেওয়া যাবে না; সাধারণ নিয়ম হলো সারির রোধগুলোকে যোগ করা [math]R_{\text{series}}=R_1+R_2+\dots[/math] এবং সমান্তর রোধের জন্য [math]\dfrac{1}{R_{\text{parallel}}}=\dfrac{1}{R_1}+\dfrac{1}{R_2}+\dots[/math] ব্যবহার করে ধাপে ধাপে সরলীকরণ করা। যদি উৎসের ভোল্টেজ [math]V[/math] এবং অ্যামিটার পাঠ [math]I[/math] দেওয়া থাকে তখন সরাসরি [math]R_{\text{eq}}=V/I[/math] থেকে তুল্যরোধ পাওয়া যাবে।
+
+Sub-Questions:
+

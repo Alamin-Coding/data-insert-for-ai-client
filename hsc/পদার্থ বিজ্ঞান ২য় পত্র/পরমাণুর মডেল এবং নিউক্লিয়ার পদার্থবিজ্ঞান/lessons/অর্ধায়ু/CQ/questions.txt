@@ -1,0 +1,2480 @@
+================================================================================
+Question #1 (ID: 436567)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020-2021 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]14[/math] মিনিট পরে একটি তেজস্ক্রিয় মৌলের [math]1/16[/math] অংশ অবশিষ্ট থাকে। এর অর্ধায়ু হবে–
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]\lambda=\dfrac{1}{t} \ln \dfrac{N_{0}}{N}=\dfrac{1}{14} \ln 16=\dfrac{1}{14} \cdot 4 \cdot \ln 2=\dfrac{2}{7} \ln 2 \min ^{-1} \therefore T_{\dfrac{1}{2}}=\dfrac{\ln 2}{\lambda}=\dfrac{\ln 2}{\dfrac{2}{7} \ln 2}=\dfrac{7}{2} \mathrm{~min}[/math]
+
+Explanation:
+ব্যাখ্যা: অবশিষ্ট অংশ [math]1/16 = (1/2)^n[/math] হলে [math]n=4[/math], অর্থাৎ 14 মিনিটে চারটি অর্ধায়ু ঘটেছে; তাই অর্ধায়ু [math]14/4 = 3.5[/math] মিনিট।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 436536)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]10[/math] বছরের জন্য একটি পারমাণবিক চুল্লিতে [math]1000\ MW[/math] শক্তি উৎপাদনের জন্য [math]U^{235}[/math] ব্যবহার করা হয় যার দক্ষতা [math]10\%[/math] এবং এর জন্য [math]3.84 \times 10^{3} \mathrm{~kg}[/math] ভরের [math]U^{235}[/math] ব্যবহার করার সিদ্ধান্ত নেওয়া হলো। পৃথিবীর সৃষ্টির শুরুতে [math]U^{235}[/math] ও [math]U^{238}[/math] উভয়ের ভর সমান।
+
+[Image]
+
+
+Options:
+গ. উপরের তথ্যের আলোকে পৃথিবীর বয়স কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\begin{array}{l}\mathrm{T}_{\frac{1}{2}}=7.13 \times 10^{8} \mathrm{~yr} \\\mathrm{T}_{\frac{1}{2}}^{\prime}=4.5 \times 10^{9} \mathrm{~yr}\end{array}[/math]
+ [math]U^{235}[/math]
+ ও [math]U^{238}[/math]
+ এর অর্ধায়ু যথাক্রমে [math]\mathrm{T}_{\frac{1}{2}}[/math]
+ ও [math]\mathrm{T'}_{\frac{1}{2}}[/math]
+ এবং ক্ষয় ধ্রুবক যথাক্রমে [math]\lambda[/math]
+ ও [math]\lambda'[/math]
+ হলে[math]\begin{aligned}\lambda & =\frac{0.693}{\mathrm{~T}_{\frac{1}{2}}} \\& =\frac{0.693}{7.13 \times 10^{8} \mathrm{~yr}} \\& =9.72 \times 10^{-10} \mathrm{~yr}^{-1}\end{aligned}[/math]
+এবং [math]\lambda^{\prime}=\frac{0.693}{\frac{\mathrm{T}_{1}}{2}}=\frac{0.693}{4.5 \times 10^{9} \mathrm{~yr}}=1.54 \times 10^{-10} \mathrm{~yr}^{-1}[/math]
+উদ্দীপক অনুসারে, [math]N: N^{\prime}=1: 140[/math]
+ [math]\hspace{3cm}\Rightarrow \frac{N^{\prime}}{N}=140[/math]
+এখন, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda t}\\\Rightarrow \lambda \mathrm{t}=\ln \frac{\mathrm{N}_{0}}{\mathrm{~N}}................(i)\end{array}[/math]
+এবং [math]\mathrm{N}^{\prime}=\mathrm{N}_{0} \mathrm{e}^{-\lambda^{\prime} \mathrm{t}}[/math]
+ [math]\Rightarrow \lambda^{\prime} \mathrm{t}=\ln \frac{\mathrm{N}_{0}}{\mathrm{~N}^{\prime}}..................(ii)[/math]
+(i) – (ii) করে পাই,[math]\begin{array}{l}\quad\left(\lambda-\lambda^{\prime}\right) \mathrm{t}=\ln \left(\frac{\mathrm{N}_{0}}{\mathrm{~N}} \times \frac{\mathrm{N}^{\prime}}{\mathrm{N}_{0}}\right) \\\Rightarrow \mathrm{t}=\frac{\ln \left(\frac{\mathrm{N}^{\prime}}{\mathrm{N}}\right)}{\lambda-\lambda}=\frac{\ln (140)}{\left(9.72 \times 10^{-10}-1.54 \times 10^{-10}\right)} \mathrm{yr}^{-1} \\\therefore \mathrm{t}=6.04 \times 10^{9} \mathrm{yr}\end{array}[/math]
+অতএব, উদ্দীপকের আলোকে পৃথিবীর বয়স, [math]6.04 \times 10^{9}[/math]
+ বছর [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ ভূমি গ্রহণ করলে U‑235 ও U‑238 শুরুতে সম ভর হলে ভগ্নত্ব সূত্র অনুযায়ী
+[math]M_{235}=M_0e^{-λ_{235}t},\;M_{238}=M_0e^{-λ_{238}t}[/math] তাই
+[math]\frac{M_{235}}{M_{238}}=e^{-(λ_{235}-λ_{238})t}[/math] এবং [math]λ=\ln2/t_{1/2}[/math]। প্রাকৃতিক বর্তমান অনুপাত [math]M_{235}/M_{238}≈0.00725[/math] এবং [math]t_{1/2}(^{235}U)=7.04×10^8\ yr,\;t_{1/2}(^{238}U)=4.47×10^9\ yr[/math] ব্যবহার করলে
+[math]t\approx\frac{\ln(1/0.00725)}{λ_{235}-λ_{238}}\approx5.9×10^9\ \text{বছর}[/math], যা প্রশ্নের উত্তরের কারণটি ব্যাখ্যা করে।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 436537)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+তিনটি তেজস্ক্রিয় পদার্থ [math]A,\ B\ ও\ C[/math] এর প্রারম্ভিক ভর [math]30\ g[/math]। পরীক্ষাগারে রেখে দেয়ার [math]3[/math] বছর পর এদের অবশিষ্ট ভর যথাক্রমে [math]7.5\ gm,\ 4.8\ gm[/math] এবং [math]19.2\ g[/math] পাওয়া গেল।
+
+Options:
+ঘ. [math]A[/math] মৌলের [math]30\%[/math] এবং [math]B[/math] মৌলের [math]24\%[/math] ক্ষয় হতে সমান সময় লাগবে কি-না গাণিতি কভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]N_{0}=30 \mathrm{gm} ; N_{A}=7.5 \mathrm{gm} ; N_{B}=4.8 \mathrm{gm} ; \mathrm{t}=3 \mathrm{yrs}[/math]
+এখন,[math]\hspace{1cm}\begin{array}{l} \quad N_{A}=N_{0} \mathrm{e}^{-\lambda_{A} t} \\ \Rightarrow \lambda_{A}=-\frac{\ln \left(\frac{N_{A}}{N_{0}}\right)}{t}=-\frac{\ln \left(\frac{7.5}{30}\right)}{3} \mathrm{yr}^{-1}=0.46 \mathrm{yr}^{-1} \end{array}[/math]
+অনুরূপভাবে,[math]\hspace{1.5 cm}\lambda_{B}=-\frac{\ln \left(\frac{N_{B}}{N_{0}}\right)}{t}=-\frac{\ln \left(\frac{4.8}{30}\right)}{3} \mathrm{yr}^{-1}=0.6 \mathrm{yr}^{-1}[/math]
+A মৌলের 30% ক্ষয় হতে প্রয়োজনীয় সময়,[math]\hspace{1.5 cm}t_{A}=-\frac{\ln \left(\frac{70}{100}\right)}{\lambda_{A}}=-\frac{\ln \left(\frac{70}{100}\right)}{0.46} \mathrm{yr}=0.8 \mathrm{yr}[/math]
+B মৌলের 24% ক্ষয় হতে প্রয়োজনীয় সময়,[math]\hspace{1.5 cm}t_{B}=-\frac{\ln \left(\frac{76}{100}\right)}{\lambda_{B}}=-\frac{\ln \left(\frac{76}{100}\right)}{0.6} \mathrm{yr}=0.46 \mathrm{yr}[/math]
+উপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে, [math]t_{A} 
+eq t_{B}[/math]
+অতএব, A মৌলের 30% এবং B মৌলের 24% ক্ষয় হতে সমান সময় লাগবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ A-এর 3 বছরে অবশিষ্ট অনুপাত [math]7.5/30=0.25[/math], ফলে বার্ষিক অনুপাত [math]r_A=0.25^{1/3}[/math]; B-এর জন্য [math]r_B=0.16^{1/3}[/math]. A-তে 30% ক্ষয়ের সময়: [math]0.7=r_A^{t_A}\Rightarrow t_A=\dfrac{\ln 0.7}{\ln r_A}\approx0.77\ \text{বছর}[/math], B-তে 24% ক্ষয়ের সময়: [math]0.76=r_B^{t_B}\Rightarrow t_B=\dfrac{\ln 0.76}{\ln r_B}\approx0.45\ \text{বছর}[/math]. তাই সময় সমান নয় (A-কে বেশি সময় লাগে)।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 436538)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+একটি রেডিয়াম দণ্ড [math]5000[/math] বছরে তেজষ্ক্রিয় বিকিরণের মাধ্যমে এক পঞ্চমাংশে পরিণত হয়। কিন্তু [math]20 \times 10^{-3} \mathrm{~kg}[/math] ভরের অন্য একটি তেজষ্ক্রিয় পদার্থ [math]A[/math] এর [math]10[/math] বছর পর [math]5 \times 10^{-3} \mathrm{~kg}[/math] অবশিষ্ট থাকে।
+
+Options:
+গ. উল্লিখিত তত্বের ভিত্তিতে রেডিয়ামের অবক্ষয় ধ্রুবকের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক অনুসারে, তেজস্ক্রিয়তার সময় [math]= 5000 \mathrm{~yr}[/math]
+অবশিষ্ট রেডিয়াম, [math]\mathrm{N}=\frac{\mathrm{N}_{0}}{5}[/math]
+আমরা জানি, [math]\lambda=\frac{1}{t} \ln \left(\frac{N_{0}}{N}\right)[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}\Rightarrow \lambda=\frac{1}{5000} \times \ln \left(\frac{N_{0}}{\frac{N_{0}}{5}}\right)\\\Rightarrow \lambda=\frac{1}{5000} \times \ln (5)\\\Rightarrow \lambda=3.22 \times 10^{-4} \mathrm{~yr}^{-1}\end{array}[/math]
+সুতরাং উদ্দীপক অনুসারে রেডিয়ামের অবক্ষয় ধ্রুবক [math]3.22 \times 10^{-4} \mathrm{~yr}^{-1}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: তেজষ্ক্রিয় অবক্ষয় সূত্র [math]N=N_0e^{-λt}[/math]. রেডিয়ামের জন্য [math]N/N_0=1/5[/math] যখন [math]t=5000[/math], তাই [math]e^{-λ(5000)}=1/5[/math] এবং [math]λ=\frac{1}{5000}\ln 5\approx3.22\times10^{-4}\ \text{বছর}^{-1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 436539)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি পারমাণবিক বিদ্যুৎ কেন্দ্রের উৎপাদন ক্ষমতা [math]4000\ MW[/math], এতে জ্বালানি হিসেবে [math]U_{235}[/math] ব্যবহৃত হয়। প্রতিটি ফিশান হতে [math]200\ MeV[/math] শক্তি পাওয়া যায় [math]U_{235}[/math] এর অর্ধায়ু [math]4.5 \times 10^{9}[/math] বছর। ( [math]1[/math] কুরী [math]=3.7 \times 10^{10}[/math] ভাঙন/সেকেন্ড।)
+
+Options:
+গ. [math]U_{235}[/math] এর কী পরিমাণ ভর থেকে এক কুরী তেজস্ক্রিয়তা পাওয়া যাবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=4.5 \times 10^{9} \mathrm{yr}[/math]
+ভাঙ্গনের হার, [math]\frac{\mathrm{dN}}{\mathrm{dt}}=3.7 \times 10^{10}[/math]
+ ভাঙ্গন/ সেআমরা জানি,[math]\hspace{.5cm}\begin{aligned}\mathrm{T}_{\frac{1}{2}} & =\frac{0.693}{\lambda} \\\Rightarrow \lambda & =\frac{0.693}{4.5 \times 10^{9} \mathrm{yr}} \\\Rightarrow \lambda & =1.54 \times 10^{-10} \mathrm{yr}^{-1} \\\therefore \lambda & =4.88 \times 10^{-18} \mathrm{~s}^{-1}\end{aligned}[/math]
+আবার, [math]\frac{\mathrm{dN}}{\mathrm{dt}}=\lambda \mathrm{N}_{0}[/math]
+ [math]\hspace{.5cm}\begin{aligned}\Rightarrow \mathrm{N}_{0} & =\frac{\frac{\mathrm{dN}}{\mathrm{dt}}}{\lambda} \\\Rightarrow \mathrm{N}_{0} & =\frac{3.7 \times 10^{10}}{4.88 \times 10^{-18}}\end{aligned}[/math]
+ [math]\\[/math]
+ [math]\hspace{.5cm}\mathrm{N}_{0}=7.577 \times 10^{27}[/math]
+ টি[math]\hspace{.5cm}\begin{array}{l}\Rightarrow \mathrm{N}_{0}=12579.83 \mathrm{~mol} \\\Rightarrow \mathrm{N}_{0}=2956259.88 \mathrm{~g} \\\therefore \mathrm{N}_{0}=2956.26 \mathrm{~kg}\end{array}[/math]
+অতএব, [math]\mathrm{U}_{235}[/math]
+ এর 2956.26 kg ভর থেকে 1 কুরী তেজস্ক্রিয়তা পাওয়া যাবে। [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: প্রথমে অবনমন ধ্রুবক হিসাব করি: [math]\lambda=\ln2/t_{1/2}=0.693/(4.5\times10^{9}\ \text{yr}\times3.15576\times10^{7}\ \text{s/yr})=4.88\times10^{-18}\ \text{s}^{-1}[/math]. এক কুরী কার্যক্রম পেতে পরমাণুর সংখ্যা হবে [math]N=A/\lambda=3.7\times10^{10}/4.88\times10^{-18}=7.58\times10^{27}[/math]. সেই অনুযায়ী ভর হবে [math]m=N\times(235\ \text{g/mol})/N_A=7.58\times10^{27}\times235/6.022\times10^{23}\approx2.96\times10^{6}\ \text{g}=2.96\times10^{3}\ \text{kg}[/math], অর্থাৎ প্রায় [math]3.0\times10^{3}\ \text{kg}[/math] U-235 থেকে এক কুরী তেজস্ক্রিয়তা পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 436540)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Dr. Mahbubur Rahman Mollah College
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দুটি তেজস্ক্রিয় মৌল। [math]A[/math] এর অর্ধায়ু [math]3.82[/math] দিন এবং [math]B[/math] এর গড় আয়ু [math]2341[/math] বছর।
+
+Options:
+ঘ. প্রারম্ভিক অবস্থার [math]A[/math] বস্তুখন্ডে [math]10^8[/math] সংখ্যক পরমাণু থাকলে এক দিনে কত পরমাণু ভেঙে যা বে? গাণিতিক বিশ্লেষণ করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে,A বস্তু খন্ডের [math]\mathrm{N}_{0}=10^{8}[/math]
+অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=3.82 \text { day }[/math]
+সময়, t = 1 dayঅক্ষয় পরমাণুর সংখ্যা = Nআমরা জানি,[math]\hspace{1.5cm}\begin{array}{l}T_{\frac{1}{2}}=\frac{0.693}{\lambda} \\\Rightarrow \lambda=\frac{0.693}{T_{\frac{1}{2}}}=\frac{0.693}{3.82} \text { day }^{-1}\end{array}[/math]
+ [math]\hspace{1cm}\therefore \lambda=0.1814 \mathrm{day}^{-1}[/math]
+এখন, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda \mathrm{t}}=10^{8} \mathrm{e}^{(-0.1814 \times 1)}[/math]
+ [math]\therefore \mathrm{N}=8.341 \times 10^{7}[/math]
+ [math]\therefore[/math]
+ 1 দিনে পরমাণু ভেঙে যাবে [math]=\left(\mathrm{N}_{0}-\mathrm{N}\right)[/math]
+ টি[math]\hspace{5cm}=\left(10^{8}-8.341 \times 10^{7}\right)[/math]
+ টি[math]\hspace{5cm}=1.6591 \times 10^{7}[/math]
+ টি
+
+Explanation:
+ঘ প্রথমে অবক্ষয়ের ধ্রুবক [math]λ=\ln2/T_{1/2}=\ln2/3.82\approx0.1815\ \text{day}^{-1}[/math]. এক দিনে ভাঙা পরমাণু সংখ্যার সূত্র [math]ΔN=N_0(1-e^{-λ·1})[/math] হলেfraction [math]1-e^{-0.1815}\approx0.1661[/math] এবং পরিমাণ [math]10^8\times0.1661\approx1.66\times10^7[/math] পরমাণু (প্রায় [math]1.7\times10^7[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 436541)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: St. Gregory's High School and College
+--------------------------------------------------------------------------------
+Question:
+তেজস্ক্রিয় পদার্থ [math]R a^{228}[/math] এর অর্ধায়ু [math]1600[/math] বছর এবং [math]R_{0}=1.4 \mathrm{fm}[/math]। অপর একটি তেজস্ক্রিয় পদার্থ ' [math]x[/math]' এর প্রারম্ভিক অবস্থার পরমাণুর সংখ্যা [math]10^8[/math] এবং এর অর্ধায়ু [math]2.8\ day[/math]।
+
+Options:
+ঘ. তেজষ্ক্রিয় পদার্থ ' [math]x[/math]' এর ক্ষেত্রে ১ম দিনে এবং ২য় দিনে সমান সংখ্যক পরমাণু ভাঙবে কী? গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, প্রারম্ভিক পরমাণুর সংখ্যা, [math]N_0 = 10^8[/math]
+ [math]\hspace{2.5cm}[/math]
+ অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=2.8 \mathrm{day}[/math]
+আমরা জানি, ক্ষয় ধ্রুবক,[math]\hspace{2.5cm}\begin{aligned}\lambda & =\frac{0.693}{T_{\frac{1}{2}}} \\& =\frac{0.693}{2.8}=0.2475 \text { day }^{-1}\end{aligned}[/math]
+১ম দিন পর অবশিষ্ট, [math]\mathrm{N}_{1}=\mathrm{N}_{0} \mathrm{e}^{-\lambda \mathrm{t}_{1}}[/math]
+ [math]\hspace{4cm}=10^{8} \times \mathrm{e}^{-0,2475 \times 1}=7.8 \times 10^{7}[/math]
+ টি[math]\therefore[/math]
+ ১ম দিনে ভেঙে যাবে, [math]\Delta \mathrm{N}_{1}=\mathrm{N}_{0}-\mathrm{N}_{1}[/math]
+ [math]\hspace{4.5cm}=10^{8}-7.8 \times 10^{7}[/math]
+ [math]\hspace{4.5cm}=2.2 \times 10^{7}[/math]
+ টি২য় দিন পর অবশিষ্ট, [math]N_{2}=N_{0} e^{-\lambda t_{2}}[/math]
+ [math]\hspace{4cm}=10^{8} \times \mathrm{e}^{-0.2475 \times 2}[/math]
+ [math]\hspace{4cm}=6.1 \times 10^{7}[/math]
+ টি২য় দিনে ভেঙে যাবে, [math]\Delta N_{2}=N_{1}-N_{2}[/math]
+ [math]\hspace{4.3cm}=7.8 \times 10^{7}-6.1 \times 10^{7}[/math]
+ [math]\hspace{4.3cm}=1.7 \times 10^{7}[/math]
+ টিএখানে, [math]\Delta \mathrm{N}_{1} 
+eq \Delta \mathrm{N}_{2}[/math]
+ [math]\therefore[/math]
+ ১ম ও ২য় দিনে সমান সংখ্যক পরমাণু ভাঙবে না ।
+
+Explanation:
+ঘ না — প্রথম এবং দ্বিতীয় দিনে ভাঙা পরমাণু সমান হবে না। কারণ বিচ্ছুরণের সূত্র [math]N(t)=N_0\left(\tfrac{1}{2}\right)^{t/T}[/math] অনুযায়ী, প্রথম দিনে ভাঙা পরমাণু সংখ্যা [math]\Delta N_1=N_0\Big(1-\left(\tfrac{1}{2}\right)^{1/2.8}\Big)[/math] এবং দ্বিতীয় দিনে [math]\Delta N_2=N_0\Big(\left(\tfrac{1}{2}\right)^{1/2.8}-\left(\tfrac{1}{2}\right)^{2/2.8}\Big)[/math] হবে। সংখ্যায় [math]\Delta N_1\approx2.19\times10^7[/math] এবং [math]\Delta N_2\approx1.71\times10^7[/math], তাই দ্বিতীয় দিনে কম ভাঙে কারণ অবশিষ্ট পরমাণু কমে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 436542)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Govt. Tolaram College, Narayanganj
+--------------------------------------------------------------------------------
+Question:
+একটি তেজস্ক্রিয় পরীক্ষার জন্য [math]150\ gm[/math] ভরের দুটি তেজস্ক্রিয় পদার্থ রাখা হয়। [math]A[/math] মৌলের অর্ধায়ু [math]20[/math] দিন এবং [math]B[/math] মৌলের গড় আয়ু [math]25[/math] দিন।
+
+Options:
+গ. [math]A[/math] মৌলের ক্ষয় ধ্রুবক কত?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে, A মৌলের অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=20 \mathrm{~d}[/math]
+ [math]\hspace{2.5cm}[/math]
+ ক্ষয়ধ্রুবক, [math]\lambda_{\mathrm{A}}=?[/math]
+আমরা জানি, [math]\lambda_{A}=\frac{0.693}{T_{\frac{1}{2}}}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow \lambda_{\mathrm{A}}=\frac{0.693}{20 \mathrm{~d}} \\\therefore \lambda_{\mathrm{A}}=0.03465 \mathrm{~d}^{-1}\end{array}[/math]
+সুতরাং A মৌলের ক্ষয়ধ্রুবক [math]0.03465 \mathrm{~d}^{-1}[/math]
+। [math]\\[/math]
+
+
+Explanation:
+গ ক্ষয় ধ্রুবক এবং অর্ধায়ু সম্পর্ক: [math]\lambda=\dfrac{\ln 2}{t_{1/2}}[/math]। তাই [math]t_{1/2}=20\ \text{দিন}[/math] হলে [math]\lambda=\dfrac{\ln 2}{20}\approx0.03466\ \text{দিন}^{-1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 436543)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Govt. Tolaram College, Narayanganj
+--------------------------------------------------------------------------------
+Question:
+একটি তেজস্ক্রিয় পরীক্ষার জন্য [math]150\ gm[/math] ভরের দুটি তেজস্ক্রিয় পদার্থ রাখা হয়। [math]A[/math] মৌলের অর্ধায়ু [math]20[/math] দিন এবং [math]B[/math] মৌলের গড় আয়ু [math]25[/math] দিন।
+
+Options:
+ঘ. ছয় মাস পর পরীক্ষাটি সম্পন্ন করার সময় কোন পদার্থের পরিমাণ কম ছিল? গাণিতিক বিশ্লেষণপূ র্বক যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, A মৌলের প্রারম্ভিক ভর, [math]N_0 = 150~gm[/math]
+A মৌলের অর্ধায়ু, [math]T_{\frac{1}{2} A}=20[/math]
+ দিনA মৌলের ক্ষয় ধ্রুবক, [math]\lambda_{\mathrm{A}}=0.03465 \mathrm{~d}^{-1}[/math]
+ [গ হতে]সময়, t = 6 মাস = 180 dএখন, A মৌলের অক্ষত পরিমাণ [math]N_A[/math]
+ হলে,[math]\hspace{2cm}\begin{array}{l} \mathrm{N}_{\mathrm{A}}=\mathrm{N}_{0} \mathrm{e}^{-\lambda_{\mathrm{A}} \mathrm{t}} \\\Rightarrow \mathrm{N}_{\mathrm{A}}=150 \mathrm{gm} \times \mathrm{e}^{-(0.03465) \mathrm{d}^{-1} \times 180 \mathrm{~d}} \\\Rightarrow \mathrm{N}_{\mathrm{A}}=150 \mathrm{gm} \times \mathrm{e}^{-6.237} \\\Rightarrow \mathrm{N}_{\mathrm{A}}=0.293 \mathrm{gm}\end{array}[/math]
+আবার, B মৌলের প্রারম্ভিক ভর, [math]N'_0 = 150 ~gm[/math]
+ [math]\therefore[/math]
+ B মৌলের গড় আয়ু, [math]\tau^{\prime}=25 \mathrm{~d}[/math]
+ [math]\therefore[/math]
+ B মৌলের ক্ষয় ধ্রুবক, [math]\lambda_{\mathrm{B}}=\frac{1}{\tau^{\prime}}=\frac{1}{25 \mathrm{~d}}=0.04 \mathrm{~d}^{-1}[/math]
+সময়, t = 6 মাস = 180 d[math]\therefore[/math]
+ B মৌলের অক্ষত পরিমাণ [math]N_B[/math]
+ হলে,[math]\hspace{2cm}\begin{array}{l} \mathrm{N}_{\mathrm{B}}=\mathrm{N}_{0}{ }^{\prime} \mathrm{e}^{-\lambda_{\mathrm{B}} \mathrm{t}} \\\Rightarrow \mathrm{N}_{\mathrm{B}}=150 \mathrm{gm} \times \mathrm{e}^{-0.04 \mathrm{~d}^{-1} \times 180 \mathrm{~d}} \\\Rightarrow \mathrm{N}_{\mathrm{B}}=0.15 \mathrm{~kg} \times \mathrm{e}^{-7.2} \\\Rightarrow \mathrm{N}_{\mathrm{B}}=0.112 \mathrm{gm}\end{array}[/math]
+এখানে, [math]N_B < N_A[/math]
+ [math]\therefore[/math]
+ ছয় মাস পর পরীক্ষাটি সম্পন্ন করার সময় B মৌলের পরিমাণ কম ছিল ।
+
+Explanation:
+ব্যাখ্যা: বর্ণনামতে অবশিষ্ট পরিমাণ [math]N=N_0e^{-\lambda t}[/math], যেখানে [math]\lambda[/math] হলো অবক্ষয় ধ্রুবক। A ও B-এর ধ্রুবক হল [math]\lambda_A=\dfrac{\ln2}{20},\ \lambda_B=\dfrac{1}{25}[/math], তাই [math]\lambda_B\approx0.04>\lambda_A\approx0.03466[/math] এবং B দ্রুত বেশি ক্ষয়ে যায়। ছয় মাস = 180 দিন ধরে A-এর অর্ধ-জীবন সূত্র থেকে অবশিষ্ট অনুপাত [math](1/2)^{180/20}=(1/2)^9=1/512\approx1.95\times10^{-3}[/math], আর B-এর ক্ষেত্রে [math]e^{-180/25}=e^{-7.2}\approx7.5\times10^{-4}[/math], অতএব ঘ B-এর পরিমাণ কম ছিল।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 436544)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: GRCF
+--------------------------------------------------------------------------------
+Question:
+একজন রোগীর শরীরে [math]1\ \mu gm[/math] (মাইক্রোগ্রাম)-এর একটি [math]{ }^{238} R a[/math] ট্যাবলেট রাখা হলো। পরীক্ষা করে দেখা গেছে, [math]2.23 \times 10^{13}[/math] টি পরমাণু বিয়োজিত হলে রোগী বিপদগ্রস্ত হবে। [math]{ }^{238} R a[/math]-এর অর্ধায়ু [math]1600[/math] বছর এবং অন্য একটি তেজস্ক্রিয় পদার্থ [math]X[/math] -এর অর্ধায়ু [math]{ }^{238} R a[/math] এর অর্ধায়ুর [math]2.5[/math] গুণ।
+
+Options:
+গ. তেজস্ক্রিয় পদার্থ [math]x[/math] এর ক্ষয় ধ্রুবক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,x তেজস্ক্রিয় পদার্থের অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=2.5 \times 1600=4000[/math]
+ বছরঅবক্ষয় ধ্রুবক, [math]\lambda_{x}=?[/math]
+আমরা জানি,[math]\hspace{.5cm}\begin{aligned}\lambda_{x} & =\frac{0.693}{T_\frac{1}{2}} \\& =\frac{0.693}{4000} \\& =1.73 \times 10^{-4} y\end{aligned}[/math]
+অর্থাৎ x এর ক্ষয় ধ্রুবক [math]1.73 \times 10^{-4} \mathrm{y}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ সমাধান: [math]T_{1/2}(X)=2.5\times1600=4000[/math] বছর, এবং ক্ষয় ধ্রুবক [math]\lambda=\dfrac{\ln2}{T_{1/2}}=\dfrac{\ln2}{4000}\approx1.73\times10^{-4}\ \text{বছর}^{-1}[/math]; কারণ অর্ধায়ু ও ক্ষয় ধ্রুবক সম্পর্কিত।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 436545)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: GRCF
+--------------------------------------------------------------------------------
+Question:
+একজন রোগীর শরীরে [math]1\ \mu gm[/math] (মাইক্রোগ্রাম)-এর একটি [math]{ }^{238} R a[/math] ট্যাবলেট রাখা হলো। পরীক্ষা করে দেখা গেছে, [math]2.23 \times 10^{13}[/math] টি পরমাণু বিয়োজিত হলে রোগী বিপদগ্রস্ত হবে। [math]{ }^{238} R a[/math]-এর অর্ধায়ু [math]1600[/math] বছর এবং অন্য একটি তেজস্ক্রিয় পদার্থ [math]X[/math] -এর অর্ধায়ু [math]{ }^{238} R a[/math] এর অর্ধায়ুর [math]2.5[/math] গুণ।
+
+Options:
+ঘ. [math]24[/math] ঘণ্টা পর উদ্দীপকের রোগী নিরাপদ থাকবে কি না গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]{ }^{228} \mathrm{Ra}[/math]
+ এর [math]1 ~\mu \mathrm{gm}[/math]
+ এ পরমাণুর সংখ্যা,[math]\mathrm{N}_{0}=\frac{10^{-6} \times 6.023 \times 10^{23}}{228}[/math]
+ [math]\hspace{1cm}=1.7325 \times 10^{-4} \times 10^{23}=1.7325 \times 10^{19}[/math]
+ টি[math]\begin{array}{l}\lambda_{\mathrm{Ra}}=\frac{0.693}{1600 \times 365 \times 24}=4.94 \times 10^{-8} \mathrm{~h} \\\mathrm{t}=24 \mathrm{hr}\end{array}[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=1.7325 \times 10^{19} \times \mathrm{e}^{-4.94 \times 10^{-8} \times 24} \\=1.7325 \times 0.999 \times 10^{19}\end{array}[/math]
+ [math]\hspace{2.5cm}=1.7325 \times 10^{19}[/math]
+ টিএই সময় পরে পরমাণু ভাঙে নাই বলা চলে[math]\therefore[/math]
+ 24 ঘণ্টা পর রোগী নিরাপদ থাকবে।
+
+Explanation:
+ব্যাখ্যা: প্রথমে প্রাথমিক পরমাণু সংখ্যা [math]N_0=\frac{1\times10^{-6}\ \text{g}}{238\ \text{g mol}^{-1}}\times6.022\times10^{23}\approx2.53\times10^{15}[/math]. ২৪ ঘণ্টায় ক্ষয়ের ভগ্নাংশ [math]1-e^{-\lambda t}\approx\lambda t, \ \lambda=\frac{\ln2}{1600\ \text{yr}},\ t=\frac{1}{365}\ \text{yr}[/math] এবং তাই [math]\lambda t\approx\frac{\ln2}{1600\times365}\approx1.19\times10^{-6}[/math], ফলে ক্ষয়কৃত পরমাণু ≈ [math]2.53\times10^{15}\times1.19\times10^{-6}\approx3.0\times10^{9}[/math]. ঘ এর বিপদসীমা [math]2.23\times10^{13}[/math]-এর তুলনায় এটি অনেক কম, তাই রোগী ২৪ ঘণ্টা পর নিরাপদ; পদার্থ [math]X[/math]-এর অর্ধায়ু বেশি হওয়ায় সেখানে ক্ষয় আরও কম হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 436546)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: NGDCR
+--------------------------------------------------------------------------------
+Question:
+[math]X[/math] তেজস্ক্রিয় নমুনার ভর [math]20\ gm[/math] এবং অর্ধায়ু [math]30\ day[/math]. [math]Y[/math] তেজস্ক্রিয় নমুনার ভর [math]100\ gm[/math] এবং অবক্ষয় ধ্রুবক [math]0.0924 \text { day }^{-1}[/math]।
+
+Options:
+গ. উদ্দীপকের [math]X[/math] নমুনার অর্ধায়ুর সময়ে স্ব নমুনার কী পরিমাণ অবশিষ্ট থাকবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, X নমুনার অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=30 \text { day }[/math]
+Y নমুনা ক্ষয়প্রাপ্ত হয়, [math]\mathrm{t}=\mathrm{T}_{\frac{1}{2}}=30 \text { day }[/math]
+ [math]\therefore[/math]
+ অবক্ষয় ধ্রুবক, [math]\lambda_{Y}=0.0924 \text { day }^{-1}[/math]
+আমরা জানি, [math]\frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda t}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow \frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-0.0924 \times 30} \\\Rightarrow \frac{\mathrm{N}}{\mathrm{N}_{0}}=0.0625\end{array}[/math]
+এখানে, [math]\frac{\mathrm{N}}{\mathrm{N}_{0}}=\frac{\mathrm{M}_{\mathrm{Y}}}{\mathrm{M}_{\mathrm{Y}_{0}}}=0.0625[/math]
+ [math]\therefore Y[/math]
+ নমুনার অবশিষ অংশ, [math]M_{Y}=(100 \times 0.0625) \mathrm{gm}=6.25 \mathrm{gm}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ অর্ধায়ু বলতে বোঝায় নির্দিষ্ট সময়ে আদ্য কণার অর্ধেক অবশিষ্ট থাকে, তাই [math]20\ \text{g}\div 2 = 10\ \text{g}[/math] অবশিষ্ট থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 436547)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: NGDCR
+--------------------------------------------------------------------------------
+Question:
+[math]X[/math] তেজস্ক্রিয় নমুনার ভর [math]20\ gm[/math] এবং অর্ধায়ু [math]30\ day[/math]. [math]Y[/math] তেজস্ক্রিয় নমুনার ভর [math]100\ gm[/math] এবং অবক্ষয় ধ্রুবক [math]0.0924 \text { day }^{-1}[/math]।
+
+Options:
+ঘ. উদ্দীপকের [math]X[/math] নমুনার [math]40\%[/math] ক্ষয়ের সময়ে [math]Y[/math] নমুনার [math]60\%[/math] ক্ষয়ের সম্ভাবনা— গাণিতি ক যুক্তিসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘX-এর ক্ষেত্রে, [math]\lambda_{x}=\frac{0.693}{T_{\frac{1}{2}}}=\frac{0.693}{30}=0.0231 \text { day }^{-1}[/math]
+অক্ষত পরমাণু, [math]\mathrm{N}=\mathrm{N}_{0}[/math]
+ এর [math]60\%[/math]
+ [math]\hspace{2cm}\Rightarrow \mathrm{N}=0.6 \mathrm{~N}_{0}[/math]
+আমরা জানি,[math]\hspace{1.5cm}\begin{array}{l}\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda \mathrm{t}} \\\Rightarrow 0.6 \mathrm{~N}_{0}=\mathrm{N}_{0} \mathrm{e}^{-0.0231 \times \mathrm{t}} \\\Rightarrow \mathrm{t}=\frac{\ln (0.6)}{-0.0231}=22.11 \text { day }\end{array}[/math]
+Y নমুনার ক্ষেত্রে, [math]\lambda=0.0924 \text { day }^{-1}[/math]
+ [math]\hspace{2.8cm}t=22.11 \text { day }[/math]
+অক্ষত পরমাণু, [math]N = ?[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\quad \mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda . t} \\\Rightarrow \mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-0.0924 \times 22.11} \\\quad \mathrm{~N}=\mathrm{N}_{0} \times 0.13 \\\therefore \mathrm{N}=\mathrm{N}_{0} \times 13 \%\end{array}[/math]
+অর্থাৎ X মোলটি ক্ষয়প্রাপ্ত হয় [math]= (100 - 13) \% = 87\%[/math]
+অতএব, X নমুনার [math]40\%[/math]
+ ক্ষয়ের সময়ে Y নমুনার [math]60\%[/math]
+ এর বেশি ক্ষয় হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ X-এর 40% ক্ষয়ের সময় [math]e^{-λ_X t}=0.6[/math] যেখানে [math]λ_X=\ln2/30[/math], তাই [math]t_X=\dfrac{\ln(1/0.6)}{λ_X}=\dfrac{\ln(5/3)}{\ln2/30}\approx22.11\ \text{day}[/math]. Y-এর 60% ক্ষয়ের সময় [math]e^{-λ_Y t}=0.4[/math] এবং [math]λ_Y=0.0924\ \text{day}^{-1}[/math], তাই [math]t_Y=\dfrac{\ln(1/0.4)}{0.0924}=\dfrac{\ln(2.5)}{0.0924}\approx9.92\ \text{day}[/math]. যেহেতু [math]t_X\neq t_Y[/math], একই মুহূর্তে Y-এর 60% ক্ষয় ঘটবে না, তাই সম্ভাবনা শূন্য (0)।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 436548)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Govt. Women's College. Rajshahi
+--------------------------------------------------------------------------------
+Question:
+তেজস্ক্রিয়তার কারণে একটি তেজস্ক্রিয় মৌলের প্রারম্ভিক পরমাণুর সংখ্যা অর্ধেকে পরিণত হলো। এর জন্য সময় লাগল [math]3.82[/math] দিন।
+
+Options:
+গ. তেজস্ক্রিয় মৌলের [math]25\%[/math] ক্ষয় হতে কত সময় লাগবে?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, t সময় লাগেএখানে অর্ধায়ু [math]\mathrm{T}_{\frac{1}{2}}=3.82[/math]
+ দিনএখন, [math]\mathrm{T}_{\frac{1}{2}}=\frac{0.693}{\lambda}=\frac{0.693}{\mathrm{~T}_{\frac{1}{2}}}=\frac{0.693}{3.82}[/math]
+ [math]\hspace{1cm}\therefore \lambda=0.1814 \mathrm{~d}^{-1}[/math]
+আবার, [math]N = N_0[/math]
+ এর [math](100 - 25)\%[/math]
+ [math]\hspace{1.5cm}[/math]
+ [math]= N_0[/math]
+ এর [math]\frac{75} {100}[/math]
+ [math]\hspace{1.5cm}\therefore \mathrm{N}=\frac{3 \mathrm{~N}_{0}}{4}[/math]
+আমরা জানি,[math]\hspace{1.5cm}\begin{array}{l}\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t} \\\Rightarrow \frac{3 \mathrm{~N}_{0}}{4}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t} \\\Rightarrow \frac{3}{4}=\mathrm{e}^{-0.1814 ~t} \\\Rightarrow \ln \left(\frac{3}{4}\right)=\ln \mathrm{e}^{-0.1814 \mathrm{~t}} \\\therefore \quad \mathrm{t}=1.585 \mathrm{~d}\end{array}[/math]
+অতএব, তেজস্ক্রিয় মৌলটির [math]25\%[/math]
+ ক্ষয় হতে [math]1.585 ~d[/math]
+ সময় লাগবে। [math]\\[/math]
+
+
+Explanation:
+গ সঠিক, কারণ বর্ধন-ক্ষয় সূত্রে [math]\dfrac{N}{N_0}=(1/2)^{t/T_{1/2}}[/math] ও এখানে [math]N/N_0=0.75[/math] এবং [math]T_{1/2}=3.82\ \text{দিন}[/math]। তাই [math]t=T_{1/2}\dfrac{\ln 0.75}{\ln 0.5}=3.82\times\frac{\ln 0.75}{\ln 0.5}\approx 1.58\ \text{দিন}[/math], অর্থাৎ প্রায় [math]1.58[/math] দিন লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 436549)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Govt. Women's College. Rajshahi
+--------------------------------------------------------------------------------
+Question:
+তেজস্ক্রিয়তার কারণে একটি তেজস্ক্রিয় মৌলের প্রারম্ভিক পরমাণুর সংখ্যা অর্ধেকে পরিণত হলো। এর জন্য সময় লাগল [math]3.82[/math] দিন।
+
+Options:
+ঘ. [math]25\%[/math] ক্ষয় হতে যে সময় লাগে, [math]50\%[/math] ক্ষয় হতে তার দ্বিগুণ সময় লাগে কি-না গাণিতিক বি শ্লেষণের মাধ্যমে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ'গ' হতে প্রাপ্ত [math]25\%[/math]
+ ক্ষয় হতে সময় লাগে [math]t = 1.585[/math]
+ দিন[math]\hspace{.5cm}\therefore 2 \mathrm{t}=2 \times 1.585 \mathrm{~d}=3.17 \mathrm{~d}[/math]
+ধরি [math]50\%[/math]
+ ক্ষয় হতে সময় লাগে [math]t_1[/math]
+ দিনএখানে,[math]N = N_0[/math]
+ এর [math]50\%[/math]
+ [math]\hspace{.5cm}=\frac{N_{0}}{2}[/math]
+ [math]\lambda=0.1814 \mathrm{~d}^{-1}[/math]
+ ['গ' নং থেকে]আমরা জানি, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t_{1}}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow \frac{\mathrm{N}_{0}}{2}=\mathrm{N}_{0} \mathrm{e}^{-0.1814 \mathrm{~t}_{1}}\\\Rightarrow \frac{1}{2}=\mathrm{e}^{-0.1814 \mathrm{~t}_{1}}\\\Rightarrow \ln \frac{1}{2}=\ln -0.1814 ~t_{1}\end{array}[/math]
+ [math]\hspace{1cm}\therefore t_{1}=3.82[/math]
+ দিনএখানে, [math]t_{1} 
+eq 2 t[/math]
+সুতরাং বিশ্লেষণ হতে দেখা যাচ্ছে যে, [math]25\%[/math]
+ ক্ষয় হতে যে সময় লাগে [math]50\%[/math]
+ ক্ষয় হতে তার দ্বিগুণ সময় লাগে ।
+
+Explanation:
+ঘ ব্যাখ্যা: ক্ষয়নের ধারা হল [math]N=N_0e^{-λt}[/math] এবং অর্ধায়ু [math]t_{1/2}=\ln2/λ=3.82\ \text{day}[/math], তাই [math]λ=\ln2/3.82[/math]. ২৫% ক্ষয় হলে অবশিষ্টাংশ [math]0.75=e^{-λt} \Rightarrow t=\dfrac{-\ln(0.75)}{λ}=\dfrac{\ln(4/3)}{λ}[/math]. ফলে نسبت [math]\dfrac{t_{25}}{t_{1/2}}=\dfrac{\ln(4/3)}{\ln2}\approx0.415[/math], অর্থাৎ [math]t_{25}\approx1.59\ \text{day}[/math], যা অর্ধায়ুর দ্বিগুণ নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 436534)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]10[/math] বছরের জন্য একটি পারমাণবিক চুল্লিতে [math]1000\ \mathrm{MW}[/math] শক্তি উৎপাদনের জন্য [math]\rm{U}^{235}[/math] ব্যবহার করা হয় যার দক্ষতা [math]10\%[/math] এবং এর জন্য [math]3.84 \times 10^{3} \mathrm{~kg}[/math] ভরের [math]\rm{U}^{235}[/math] ব্যবহার করার সিদ্ধান্ত নেওয়া হলো। পৃথিবীর সৃষ্টির শুরুতে [math]\rm{U}^{235}[/math] ও [math]\rm{U}^{238}[/math] উভয়ের ভর সমান।
+
+[Image]
+
+
+Options:
+গ. উপরের তথ্যের আলোকে পৃথিবীর বয়স কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\begin{array}{l}\mathrm{T}_{\frac{1}{2}}=7.13 \times 10^{8} \mathrm{~yr} \\\mathrm{T}_{\frac{1}{2}}^{\prime}=4.5 \times 10^{9} \mathrm{~yr}\end{array}[/math]
+ [math]U^{235}[/math]
+ ও [math]U^{238}[/math]
+ এর অর্ধায়ু যথাক্রমে [math]\mathrm{T}_{\frac{1}{2}}[/math]
+ ও [math]\mathrm{T'}_{\frac{1}{2}}[/math]
+ এবং ক্ষয় ধ্রুবক যথাক্রমে [math]\lambda[/math]
+ ও [math]\lambda'[/math]
+ হলে[math]\begin{aligned}\lambda & =\frac{0.693}{\mathrm{~T}_{\frac{1}{2}}} \\& =\frac{0.693}{7.13 \times 10^{8} \mathrm{~yr}} \\& =9.72 \times 10^{-10} \mathrm{~yr}^{-1}\end{aligned}[/math]
+এবং [math]\lambda^{\prime}=\frac{0.693}{\frac{\mathrm{T}_{1}}{2}}=\frac{0.693}{4.5 \times 10^{9} \mathrm{~yr}}=1.54 \times 10^{-10} \mathrm{~yr}^{-1}[/math]
+উদ্দীপক অনুসারে, [math]N: N^{\prime}=1: 140[/math]
+ [math]\hspace{3cm}\Rightarrow \frac{N^{\prime}}{N}=140[/math]
+এখন, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda t}\\\Rightarrow \lambda \mathrm{t}=\ln \frac{\mathrm{N}_{0}}{\mathrm{~N}}................(i)\end{array}[/math]
+এবং [math]\mathrm{N}^{\prime}=\mathrm{N}_{0} \mathrm{e}^{-\lambda^{\prime} \mathrm{t}}[/math]
+ [math]\Rightarrow \lambda^{\prime} \mathrm{t}=\ln \frac{\mathrm{N}_{0}}{\mathrm{~N}^{\prime}}..................(ii)[/math]
+(i) – (ii) করে পাই,[math]\begin{array}{l}\quad\left(\lambda-\lambda^{\prime}\right) \mathrm{t}=\ln \left(\frac{\mathrm{N}_{0}}{\mathrm{~N}} \times \frac{\mathrm{N}^{\prime}}{\mathrm{N}_{0}}\right) \\\Rightarrow \mathrm{t}=\frac{\ln \left(\frac{\mathrm{N}^{\prime}}{\mathrm{N}}\right)}{\lambda-\lambda}=\frac{\ln (140)}{\left(9.72 \times 10^{-10}-1.54 \times 10^{-10}\right)} \mathrm{yr}^{-1} \\\therefore \mathrm{t}=6.04 \times 10^{9} \mathrm{yr}\end{array}[/math]
+অতএব, উদ্দীপকের আলোকে পৃথিবীর বয়স, [math]6.04 \times 10^{9}[/math]
+ বছর [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ প্রাথমিকভাবে উভয় ইউরেনিয়ামের ভর সমান হলে ন্যূনতম অনুপাত সময়ের সাথে নিউক্লিয়ার পদার্থক্ষয়ের সূত্র থেকে হবে [math]\dfrac{M_{235}}{M_{238}}=e^{-(\lambda_{235}-\lambda_{238})t}[/math] যেখানে [math]\lambda=\dfrac{\ln2}{T_{1/2}}[/math] এবং [math]T_{1/2}^{235}\approx7.04\times10^8\ \text{yr},\ T_{1/2}^{238}\approx4.468\times10^9\ \text{yr}[/math]. বর্তমান ভরের অনুপাতকে প্রায় [math]R\approx0.00725[/math] ধরে (প্রাকৃতিক ইউরেনিয়ামে [math]\mathrm{U}^{235}[/math]–এর ভাগ ≈0.72%), সমাধান করলে [math]t=-\ln R/(\lambda_{235}-\lambda_{238})\approx5.9\times10^9\ \text{yr}\approx6\times10^9\ \text{বছর}[/math] ফলস্বরূপ পৃথিবীর বয়স প্রায় [math]6\times10^9[/math] বছর।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 436535)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+তিনটি তেজস্ক্রিয় পদার্থ [math]A,\ B\ ও\ C[/math] এর প্রারম্ভিক ভর [math]30\ g[/math]। পরীক্ষাগারে রেখে দেয়ার [math]3[/math] বছর পর এদের অবশিষ্ট ভর যথাক্রমে [math]7.5\ gm,\ 4.8\ gm[/math] এবং [math]19.2\ g[/math] পাওয়া গেল।
+
+Options:
+ঘ. [math]A[/math] মৌলের [math]30\%[/math] এবং [math]B[/math] মৌলের [math]24\%[/math] ক্ষয় হতে সমান সময় লাগবে কি-না গাণিতি কভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]N_{0}=30 \mathrm{gm} ; N_{A}=7.5 \mathrm{gm} ; N_{B}=4.8 \mathrm{gm} ; \mathrm{t}=3 \mathrm{yrs}[/math]
+এখন,[math]\hspace{1.5 cm}\begin{array}{l} \quad N_{A}=N_{0} \mathrm{e}^{-\lambda_{A} t} \\ \Rightarrow \lambda_{A}=-\frac{\ln \left(\frac{N_{A}}{N_{0}}\right)}{t}=-\frac{\ln \left(\frac{7.5}{30}\right)}{3} \mathrm{yr}^{-1}=0.46 \mathrm{yr}^{-1} \end{array}[/math]
+অনুরূপভাবে,[math]\hspace{1.5 cm}\lambda_{B}=-\frac{\ln \left(\frac{N_{B}}{N_{0}}\right)}{t}=-\frac{\ln \left(\frac{4.8}{30}\right)}{3} \mathrm{yr}^{-1}=0.6 \mathrm{yr}^{-1}[/math]
+A মৌলের 30% ক্ষয় হতে প্রয়োজনীয় সময়,[math]\hspace{1.5 cm}t_{A}=-\frac{\ln \left(\frac{70}{100}\right)}{\lambda_{A}}=-\frac{\ln \left(\frac{70}{100}\right)}{0.46} \mathrm{yr}=0.8 \mathrm{yr}[/math]
+B মৌলের 24% ক্ষয় হতে প্রয়োজনীয় সময়,[math]\hspace{1.5 cm}t_{B}=-\frac{\ln \left(\frac{76}{100}\right)}{\lambda_{B}}=-\frac{\ln \left(\frac{76}{100}\right)}{0.6} \mathrm{yr}=0.46 \mathrm{yr}[/math]
+উপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে, [math]t_{A} 
+eq t_{B}[/math]
+অতএব, A মৌলের 30% এবং B মৌলের 24% ক্ষয় হতে সমান সময় লাগবে না।
+
+Explanation:
+ঘ ব্যাখ্যা: প্রথমে অবশিষ্ট ভর থেকে क्षয়ধ্রুবকগুলি বের করি: [math]e^{-λ_A\cdot3}=7.5/30=0.25\Rightarrow λ_A=\tfrac{1}{3}\ln4[/math], এবং [math]e^{-λ_B\cdot3}=4.8/30=0.16\Rightarrow λ_B=\tfrac{1}{3}\ln\!\tfrac{25}{4}[/math]. উভয়ের জন্য সময় হিসাব করলে [math]t_A=\dfrac{-\ln0.7}{λ_A}\approx0.77\ \text{বছর}[/math] এবং [math]t_B=\dfrac{-\ln0.76}{λ_B}\approx0.45\ \text{বছর}[/math] হয়, ফলে এগুলো সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 436491)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উদ্দীপকের চিত্রে একটি তেজস্ক্রিয় [math]X[/math] - পরমাণুর তেজস্ক্রিয় ক্ষয়ের চিত্র দেখানো হয়েছে। যার গড় আয়ু [math]2294[/math] বছর।
+
+Options:
+গ. উদ্দীপকে বর্ণিত [math]X[/math]-পরমাণুটির অর্ধায়ু বের কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গ অর্ধায়ু ও গড় আয়ুর সম্পর্ক হল [math]\tau=\dfrac{t_{1/2}}{\ln 2}[/math], তাই [math]t_{1/2}=\tau\ln 2[/math]. এখানে [math]\tau=2294\ \text{বছর}[/math], তাই [math]t_{1/2}=2294\times\ln 2\approx2294\times0.693147\approx1590\ \text{বছর}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 436492)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সুমি একদিন নিউক্লিয়ার পদার্থবিজ্ঞান ল্যাবরেটরিতে [math]15[/math] দিন পূর্বে কেনা রেডনের দুটি নমুনা নিয়ে কাজ করছিল। নমুনা দুটি যখন কেনা হয় তখন ১ম ও ২য় নমুনায় অক্ষত পরমাণুর সংখ্যা ছিল যথাক্রমে [math]10^{12}[/math] টি ও [math]10^{10}[/math]টি। সে জানে রেডনের ক্ষয় ধ্রুবক [math]0.181d^{-1}[/math]। তার ধারণা ছিল গত [math]15[/math] দিনে দুটি নমুনাতে সমান সংখ্যক পরমাণু ক্ষয়প্রাপ্ত হয়েছে। .
+
+Options:
+গ. প্রথম নমুনার অক্ষত পরমাণুর সংখ্যা অর্ধেক হতে কত সময় লাগবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ ব্যাখ্যা: বিক্ষয় সূত্র [math]N=N_0 e^{-λt}[/math] অনুযায়ী অর্ধেক হওয়ার সময়ে [math]N=N_0/2[/math], তাই [math]t_{1/2}=\ln 2/λ[/math]. এখানে [math]λ=0.181\ d^{-1}[/math], ফলে [math]t_{1/2}=\ln 2/0.181\approx 3.83\text{ দিন}[/math], অর্থাৎ প্রথম নমুনার পরমাণু অর্ধেক হতে প্রায় 3.83 দিন লাগে।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 436494)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো তেজস্ক্রিয় পদার্থের অর্ধায়ু [math]15[/math] ঘণ্টা। ঐ বস্তুর প্রারম্ভিক ভর [math]2 \ gm[/math] হলে [math]45[/math] ঘণ্টা প র এর কতটুকু অবশিষ্ট থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.25 \ gm[/math]
+
+Explanation:
+ব্যাখ্যা: অর্ধায়ু [math]15[/math] ঘণ্টা হলে [math]45[/math] ঘণ্টায় তিনটি অর্ধায়ু হবে, তাই ভর হয় [math]2\times(1/2)^3[/math]। ফলে অবশিষ্ট ভর = [math]2\times\frac{1}{8}=\frac{1}{4}\ \text{g}=0.25\ \text{g}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 436495)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1 \ gm[/math] ভরের কোনো তেজস্ক্রিয় পদার্থ [math]50 \ sec[/math] সময়ে [math]0.01 \ gm[/math] ভর হারায়। ঐ পদা র্থের অর্ধায়ু কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]57 \ min \ s[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,[math]N_{0}=1 \ gm[/math]
+অবশিষ্ট পদার্থ,[math]\begin{aligned} \mathrm{N} & =(1-0.01) \mathrm{gm} \\ & =0.99 \mathrm{gm} \end{aligned}[/math]
+ [math]t=50 \ s[/math]
+অর্ধায়ু, [math]T=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} N=N_{0} e^{-\lambda t} \\ \Rightarrow 0.99=\mathrm{e}^{-\lambda .50} \\ \Rightarrow -50 \lambda=\ln (0.99) \\ \therefore \lambda=\frac{\ln (0.99)}{-50}=\frac{-0.01}{-50} \\ =0.0002 \mathrm{~s}^{-1} \\ \end{array}[/math]
+আবার,[math]\begin{aligned} \mathrm{T}=\frac{0.693}{0.0002 \mathrm{~s}^{-1}} & =3465 \mathrm{~s} \\ & =57 \mathrm{~min} 45 \mathrm{~s} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয় ক্ষয়নের সূত্র [math]N=N_0e^{-λt}[/math] প্রয়োগ করলে বাকি ভর [math]0.99= e^{-λ\cdot50}[/math] পাওয়া যায়, তাই [math]λ=-(1/50)\ln(0.99)[/math]। অর্ধায়ু [math]T_{1/2}=\ln2/λ=50\ln2/[-\ln(0.99)]\approx3449\ \text{sec}\ (\approx57.5\ \text{min})[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 436498)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তেজস্ক্রিয় মৌলিক পদার্থের অর্ধায়ু [math]4d[/math]। পদার্থটির ক্ষয় ধ্রুবক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে,[math]T_\frac{1}{2}[/math]
+ হলো অর্ধায়ু, যা এখানে 4 দিন(ln)2 [math]\approx[/math]
+ 0.693ক্ষয় ধ্রুবক নির্ণয় ,[math]\lambda = \frac{0.693}{4} = 0.173 d^{-1}[/math]
+ [math]0.173 \ d^{-1}[/math]
+
+
+Explanation:
+অর্ধায়ু ও ক্ষয় ধ্রুবকের সম্পর্ক হল [math]\lambda=\dfrac{\ln 2}{T_{1/2}}[/math], কারণ অর্ধায়ু সেই সময় যখন আরভাগ পদার্থ অর্ধেকে নেমে আসে। এখানে [math]T_{1/2}=4\ \text{d}[/math], তাই [math]\lambda=\dfrac{\ln2}{4}\approx0.1733\ \text{d}^{-1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 436499)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]{ }_{88} R a^{226}[/math] এর অর্ধজীবন [math]1600 \ yrs[/math]।
+
+Options:
+ঘ. [math]{ }_{88} R a^{226}[/math] এর তেজস্ক্রিয় ভাঙনের লেখচিত্র অঙ্কন কর এবং [math]\frac{1}{8}[/math] এর অং শ রূপান্তরের সময় নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘ [math]{ }_{88} \mathrm{Ra}^{226}[/math]
+ এর ক্ষেত্রেt=0 সময়ে অক্ষত পরমাণুর সংখ্যা, [math]N_1 = N_0[/math]
+t = [math]2T\frac {1}{2}[/math]
+ সময়ে অক্ষত পরমাণুর সংখ্যা [math]\mathrm{N}_{2}=\frac{\mathrm{N}_{1}}{2}=\frac{\mathrm{N}_{0}}{2}[/math]
+আবার, t = [math]2T\frac {1}{2}[/math]
+ সময়ে অক্ষত পরমাণুর সংখ্যা,[math]\begin{aligned}N_{3} & =\frac{N_{2}}{2} \\& =\frac{\frac{N_{0}}{2}}{2}=\frac{N_{0}}{4}\end{aligned}[/math]
+'গ' হতে, ক্ষয় ধ্রুবক, [math]\lambda = 4.33125 \times 10^{-4} y^{-1}[/math]
+ধরি, [math]{ }_{83} \mathrm{Ra}^{226}[/math]
+ এর প্রাথমিক পরমাণুর সংখ্যা [math]N_0[/math]
+ এবং অক্ষত পরমানুর সংখ্যা N.প্রশ্নমতে, [math]\mathrm{N}=\frac{\mathrm{N}_{0}}{8}[/math]
+আমরা জানি,[math]\begin{array}{l}\frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda t \mathrm{}} \\\Rightarrow\text { } \frac{\mathrm{N}_{0}}{8 \mathrm{~N}_{0}}=\mathrm{e}^{-\lambda t \mathrm{}} \\\Rightarrow\text { } \ln \left(\frac{1}{8}\right)=-\lambda \mathrm{t} \\\Rightarrow\text { }-2.079=-4.33125 \times 10^{-4} \mathrm{y}^{-1} \times \mathrm{t} \\\Rightarrow\text { } \mathrm{t}=\frac{-2.079}{-4.33125 \times 10^{-4} \mathrm{y}^{-1}}\end{array}[/math]
+= 4800 yসুতরাং [math]\frac{1}{8}[/math]
+ অংশ রূপান্তরের সময় 4800yr.
+
+Explanation:
+ঘ তেজস্ক্রিয় অবনমন অনুচ্ছেদ [math]N=N_0\left(\tfrac{1}{2}\right)^{t/T_{1/2}}[/math] যেখানে [math]T_{1/2}=1600\ \text{yrs}[/math]। সমীকরণ থেকে [math]\left(\tfrac{1}{2}\right)^{t/1600}=\tfrac{1}{8}=\left(\tfrac{1}{2}\right)^3[/math] হওয়ায় [math]t/1600=3[/math] এবং তাই [math]t=4800\ \text{yrs}[/math]। লেখচিত্র হবে একটি অপরাবর্তিত হ্রাসকারী ঘনঘাত রেখা: [math]N_0[/math] এ শুরু করে [math]t=1600[/math]-এ [math]N_0/2[/math], [math]t=3200[/math]-এ [math]N_0/4[/math] ও [math]t=4800[/math]-এ [math]N_0/8[/math] পয়েন্টে পৌঁছে।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 436500)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি তেজস্ক্রিয় মৌল [math]A[/math] ও [math]B[/math] এর ক্ষয় ধ্রুবক যথাক্রমে [math]0.18 d^{-}[/math] এবং [math]0.257 d^{-}[/math]।
+
+Options:
+গ. [math]B[/math] তেজস্ক্রিয় মৌলের অর্ধায়ু [math]10[/math] দিন। কত দিনে ওই মৌলের [math]75 \%[/math] ক্ষয় প্রাপ্ত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গউত্তর: 20 দিন ।[math]\\[/math]
+
+Explanation:
+ব্যাখ্যা: গ অর্ধায়ু [math]T_{1/2}=10[/math] দিন হওয়ায় ক্ষয় ধ্রুবক [math]\lambda=\ln2/10[/math]. ৭৫% ক্ষয় মানে অবশিষ্টাংশ [math]0.25[/math], তাই [math]e^{-\lambda t}=1/4[/math] এবং [math]t=\ln4/\lambda=(\ln4)/(\ln2/10)=2\times10=20[/math] দিন।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 436501)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি তেজস্ক্রিয় মৌল [math]A[/math] ও [math]B[/math] এর ক্ষয় ধ্রুবক যথাক্রমে [math]0.18 d^{-}[/math] এবং [math]0.257 d^{-}[/math]।
+
+Options:
+ঘ. [math]A[/math] মৌলটি যদি [math]75 \%[/math] ক্ষয়প্রাপ্ত হয় তাহলে উভয় ক্ষেত্রে একই সময় লাগবে কি?- গাণিতিক ভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, X ও Y মৌলের 75% ক্ষয় হতে যথাক্রমে [math]t_x[/math]
+ ও [math]t_y[/math]
+ সময় লাগবে ।এখানে,X মৌলের ক্ষয় ধ্রুবক, [math]\lambda_x = 0.181 d^{-l}[/math]
+Y মৌলের ক্ষয় ধ্রুবক, [math]\lambda_y = 0.257 d^{-1}[/math]
+প্রাথমিক পরমাণুর পরিমাণ, [math]N_0[/math]
+ = 100%অক্ষত পরমাণুর পরিমাণ, N = (100 – 75) % = 25%X মৌলের ক্ষেত্রে, [math]\frac{N}{N_{0}}=e^{-\lambda} x^{t} x[/math]
+ [math]\begin{array}{l}\text { } \ln (0.25)=-0.181 \times \mathrm{t}_{\mathrm{X}} \\\therefore \mathrm{t}_{\mathrm{X}}=7.659 \text { day }\end{array}[/math]
+আবার, Y মৌলের ক্ষেত্রে,[math]\begin{array}{l}\quad \frac{N}{N_{0}}=e^{-\lambda \mathrm{Y}^{\mathrm{t}} \mathrm{Y}} \\\text { } \ln (0.25)=-0.257 \times \mathrm{t}_{\mathrm{Y}} \\\therefore \mathrm{t}_{\mathrm{y}}=5.394 \text { day }\end{array}[/math]
+যেহেতু [math]t_x > t_y[/math]
+। সুতরাং Y মৌলটি আগে ক্ষয় হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: বিকিরণ-ক্ষয়ের সূত্র [math]N=N_0 e^{-\lambda t}[/math]; 75% ক্ষয় মানে [math]N/N_0=0.25=e^{-\lambda t}[/math], সুতরাং [math]t=\ln 4/\lambda[/math]. তাই [math]t_A=\ln4/0.18\approx7.70\ \text{d}[/math] এবং [math]t_B=\ln4/0.257\approx5.40\ \text{d}[/math], ফলে একই সময় লাগবে না — [math]A[/math] ক্ষেত্রে দীর্ঘ সময় লাগে।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 436502)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি তেজস্ক্রিয় মৌল [math]A[/math] ও [math]B[/math]-এর ক্ষয় ধ্রুবক যথাক্রমে [math]0.181 \ d^{-}[/math] এবং [math]0.257 \ d^{-}[/math]
+
+Options:
+ঘ. মৌলদ্বয়ের [math]75 \%[/math] ক্ষয় হতে প্রয়োজনীয় সময় একই হবে কিনা? গাণিতিক বিশ্লেষণসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, X ও Y মৌলের 75% ক্ষয় হতে যথাক্রমে [math]t_x[/math]
+ ও [math]t_y[/math]
+ সময় লাগবে ।এখানে,X মৌলের ক্ষয় ধ্রুবক, [math]\lambda_x = 0.181 d^{-l}[/math]
+Y মৌলের ক্ষয় ধ্রুবক, [math]\lambda_y = 0.257 d^{-1}[/math]
+প্রাথমিক পরমাণুর পরিমাণ, [math]N_0[/math]
+ = 100%অক্ষত পরমাণুর পরিমাণ, N = (100 – 75) % = 25%X মৌলের ক্ষেত্রে, [math]\frac{N}{N_{0}}=e^{-\lambda} x^{t} x[/math]
+ [math]\begin{array}{l}\text { } \ln (0.25)=-0.181 \times \mathrm{t}_{\mathrm{X}} \\\therefore \mathrm{t}_{\mathrm{X}}=7.659 \text { day }\end{array}[/math]
+আবার, Y মৌলের ক্ষেত্রে,[math]\begin{array}{l}\quad \frac{N}{N_{0}}=e^{-\lambda \mathrm{Y}^{\mathrm{t}} \mathrm{Y}} \\\text { } \ln (0.25)=-0.257 \times \mathrm{t}_{\mathrm{Y}} \\\therefore \mathrm{t}_{\mathrm{y}}=5.394 \text { day }\end{array}[/math]
+যেহেতু [math]t_x > t_y[/math]
+। সুতরাং Y মৌলটি আগে ক্ষয় হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ না — সমান হবে না। 75% ক্ষয়ের জন্য অবশিষ্ট অংশ [math]0.25[/math], তাই [math]0.25=e^{-λt}\Rightarrow t=\dfrac{\ln4}{λ}[/math]. ফলে [math]t_A=\dfrac{\ln4}{0.181}\approx7.66\ \text{d}[/math] এবং [math]t_B=\dfrac{\ln4}{0.257}\approx5.39\ \text{d}[/math], যা ভিন্ন।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 436507)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ট্রিটিয়ামের অর্ধায়ু [math]12.5[/math] বছর। [math]25[/math] বছর পর একটি নির্দিষ্ট ট্রিটিয়াম বস্তুখণ্ডের কত অংশ অবশিষ্ট থাকৰে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+এখানে,অর্ধায়ু, [math]T=12.5 \ y[/math]
+সময়, [math]t=25 \ y[/math]
+ [math]25[/math]
+ বছর পর ট্রিটিয়ামের অবশিষ্টাংশ, [math]N=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{T} & =\frac{0.693}{\lambda} \\ \therefore \lambda & =\frac{0.693}{\mathrm{~T}} \\ & =\frac{0.693}{12.5 \mathrm{y}}=5.544 \times 10^{-2} \mathrm{y}^{-1} \end{aligned}[/math]
+ধরি, ট্রিটিয়ামের প্রারম্ভিক পরমাণুর সংখ্যা [math]N_{0}[/math]
+ এবং [math]t=25[/math]
+ বছর পর এতে [math]N[/math]
+ সংখ্যক পরমাণু অবশিষ্ট থাকবে।[math]\begin{array}{l} \therefore \quad N=N_{0} e^{-\lambda t} \\ \Rightarrow \quad \frac{N}{N_{0}}=e^{-5.544 \times 10^{-2} \times 25}=e^{-1.38}=0.25=\frac{1}{4} \\ \therefore \quad N=\frac{N_{0}}{4} \end{array}[/math]
+ [math]\therefore[/math]
+ এক চতুর্থাংশ অবশিষ্ট থাকবে। [math](Ans.)[/math]
+
+
+Explanation:
+ট্যুটিয়ামের অর্ধায়ু [math]12.5[/math] বছর হলে [math]25[/math] বছরে অর্ধায়ুর সংখ্যা হবে [math]25/12.5=2[/math], তাই অবশিষ্ট অংশ [math](1/2)^2=1/4[/math]। অর্ধায়ু মানে প্রতিটি [math]12.5[/math] বছরে পরিমাণ অর্ধেক হয়, দুইবার অর্ধায়িত হলে মোট পরিমাণ [math]1/2\times1/2=1/4[/math] হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 436508)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]Po^{210}[/math] এর অর্ধায়ু [math]140 \ d[/math]। [math]1 \ g \ Po^{210}[/math]-এ প্রতি সেকেন্ডে কতগুলো পরমাণুর ক্ষয় ঘটবে এবং প্রতি সপ্তাহে এর তেজস্ক্রিয় কার্যকারিতা শতকরা কত হারে হ্রাস পাবে? (অ্যাভোগ্যাড্রোর সংখ্যা, [math]N = 6.023 \times 10^{23}[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3.4 \%[/math]
+ [math]\\[/math]
+ [math][/math]
+ এখানে, অর্ধায়ু,[math]\begin{aligned} \mathrm{T}_{\frac{1}{2}}=140 \mathrm{~d} & =140 \times 24 \times 3600 \mathrm{~s} \\ & =12096000 \mathrm{~s} \end{aligned}[/math]
+ [math]{ }^{210} \mathrm{Po}[/math]
+ এর [math]1g[/math]
+ এ পরমাণু সংখ্যা ,[math]N_{1}=\frac{N}{210}[/math]
+ টি[math]=\frac{6.023 \times 10^{23}}{210}[/math]
+ টি[math]=2.868 \times 10^{21}[/math]
+ টিআমরা জানি,[math]\lambda=\frac{0.693}{T_{\frac{1}{2}}}=\frac{0.693}{12096000} \mathrm{~s}^{-1}=5.73 \times 10^{-8} \mathrm{~s}^{-1}[/math]
+প্রতি সেকেন্ডে ক্ষয়প্রাপ্ত পরমাণু সংখ্যা,[math]\frac{d N}{d t}=\lambda N_{1}=5.73 \times 10^{-8} \times 2.868 \times 10^{21}[/math]
+ [math]=1.6 \times 10^{14}[/math]
+ টি [math](Ans.)[/math]
+আবার,[math]\frac{d N}{d t}=-\lambda N[/math]
+ সূত্র হতে পাই,[math]\frac{d N}{d t} \propto N[/math]
+ধরি,সপ্তাহের শুরুতে পরমাণুর সংখ্যা ছিল [math]N_{0}[/math]
+এবং এক সপ্তাহ পর পরমাণুর সংখ্যা [math]N[/math]
+।সুতরাং তেজস্ক্রিয় সূত্র হতে পাই,[math]\begin{array}{l} \mathbf{N}=\mathbf{N}_{0} \mathrm{e}^{-\lambda t} \\ \Rightarrow \frac{N}{N_{0}}=\mathrm{e}^{-\lambda t} \\ =\mathrm{e}^{-5.73 \times 10^{-8} \times 7 \times 86400} \\ =0.966 \\ =96.6 \% \\ \end{array}[/math]
+ [math]\therefore[/math]
+ তেজস্ক্রিয় কার্যাকারিতা শতকরা হ্রাস পাবে [math]=100 \%-96.6 \%=3.4 \% \text { (Ans.) }[/math]
+
+
+Explanation:
+[math]N=\frac{1\ \text{g}}{210\ \text{g mol}^{-1}}\times 6.023\times10^{23}=2.87\times10^{21}\ \text{atoms}[/math]।  
+[math]\lambda=\frac{\ln 2}{T_{1/2}}=\frac{0.693}{140\times86400\ \text{s}}=5.73\times10^{-8}\ \text{s}^{-1}[/math], তাই কার্যকারিতা [math]A=\lambda N\approx5.73\times10^{-8}\times2.87\times10^{21}=1.64\times10^{14}\ \text{decays/s}[/math]।  
+এক সপ্তাহে অনুপাতিক হ্রাস = [math]1-2^{-7/140}=1-e^{-\lambda(7\times86400)}\approx0.0341=3.41\%[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 436509)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তেজস্ক্রিয় উৎস [math]10^{-6} \ g \ Pu^{239}[/math]। এই উৎসটি সেকেন্ডে [math]2200 \ \alpha[/math]-ক ণা নিঃসৃত করে। প্লুটোনিয়ামের অর্ধায়ু নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.52 \times 10^{4}yr[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, [math]10^{-6} \mathrm{~g} \ \mathrm{Pu}[/math]
+ এ আদিতে অণুর সংখ্যা,[math]\mathrm{N}_{0}=\frac{10^{-6} \times 6.02 \times 10^{23}}{239}[/math]
+ [math]=2.52 \times 10^{15}[/math]
+ টি ।একটি [math]\alpha[/math]
+- কণার ভর [math]6.64 \times 10^{-24}gm[/math]
+ [math]\therefore[/math]
+ অবশিষ্ট অণুর সংখ্যা[math]\begin{array}{l} =\left(\mathrm{N}_{0}-\frac{6.64 \times 10^{-24} \times 6.02 \times 10^{22}}{239}\right) \\ =\left(\mathrm{N}_{0}-36.81\right) \end{array}[/math]
+ [math]2.52 \times 10^{-15}[/math]
+ টিঅর্ধায়ু, [math]T=?[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{\mathrm{dN}}{\mathrm{dt}}=\lambda \mathrm{N} \\ \Rightarrow \lambda=\frac{\mathrm{dN} / \mathrm{dt}}{\mathrm{N}}=\frac{2200}{2.52 \times 10^{15}}=8.73 \times 10^{-13} \mathrm{~s} \end{array}[/math]
+অর্ধায়ু,[math]\begin{aligned} \mathrm{T}=\frac{\ln _{2}}{\lambda} & =\frac{0.693}{8.73 \times 10^{-13}} \\ & =7.94 \times 10^{11} \mathrm{~s} \end{aligned}[/math]
+ [math]\therefore \mathrm{T}=2.52 \times 10^{4} \text { yr (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: তড়িৎ ক্রিয়ার সূত্রগুলো হচ্ছে [math]A=\lambda N[/math] এবং অর্ধায়ু [math]t_{1/2}=\ln2/\lambda[/math]; এখানে প্রতিটি α নির্গমন একটি পরমাণুর ক্ষয় নির্দেশ করে। প্রথমে পরমাণু সংখ্যা: [math]N=\dfrac{10^{-6}\ \text{g}}{239\ \text{g/mol}}\times 6.022\times10^{23}\approx 2.52\times10^{15}[/math], সুতরাং [math]\lambda=\dfrac{A}{N}=\dfrac{2200}{2.52\times10^{15}}\approx 8.73\times10^{-13}\ \text{s}^{-1}[/math]. অতএব [math]t_{1/2}=\dfrac{\ln2}{\lambda}\approx \dfrac{0.693}{8.73\times10^{-13}}\approx 7.94\times10^{11}\ \text{s}\approx 2.52\times10^{4}\ \text{বছর}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 436512)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]5[/math] মিলি-কুরি শক্তি সম্পন্ন -রশ্মির উৎস তৈরি করতে কী পরিমাণ ${}_{884}Po^{210}-এর প্রয়ো জন হবে? পোলোনিয়ামের অর্ধায়ু 138 দিন।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1.11 \times 10^{-6}g[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]\begin{array}{l}\frac{\mathrm{dN}}{\mathrm{dt}}=-5 \mathrm{mci}=-5 \times 3.7 \times 10^{7} \text{decay } \mathrm{s}^{-1}\end{array}[/math]
+অর্ধায়ু,[math]\begin{aligned} T_{\frac{1}{2}} & =138 \text { day } \\ & =138 \times 86400 \mathrm{~s} \\ & =11923200 \mathrm{~s} \end{aligned}[/math]
+ [math]N_{A}=6.02 \times 10^{23}[/math]
+পোলোনিয়ামের পারমাণবিক ভর, [math]M=210[/math]
+পোলোনিয়ামের ভর, [math]m=?[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{T_{1}}{2}=\frac{0.693}{\lambda} \\ \Rightarrow \lambda=\frac{0.693}{T_{\frac{1}{2}}^{2}} \\ \Rightarrow \lambda=\frac{0.693}{11923200} \\ \therefore \lambda=5.8122 \times 10^{-8} \mathrm{~s}^{-1} \end{array}[/math]
+আবার,[math]\begin{array}{l} \begin{aligned} \frac{d N}{d t} & =-\lambda N \\ \Rightarrow \mathrm{N} & =\frac{-\frac{d N}{d t}}{\lambda} \\ & =\frac{5 \times 3.7 \times 10^{7}}{5.8122 \times 10^{-8}} \end{aligned} \\ \Rightarrow \mathrm{N}=3.183 \times 10^{15} \end{array}[/math]
+ [math]\therefore[/math]
+ পোলোনিয়ামের ভর,[math]\begin{aligned} \mathrm{m} & =\frac{\mathrm{N}}{\mathrm{N}_{\mathrm{A}}} \times \mathrm{M} \\ \Rightarrow\mathrm{m} & =\frac{3.183 \times 10^{15}}{6.02 \times 10^{23}} \times 210 \end{aligned}[/math]
+ [math]\therefore \mathrm{m}=1.11 \times 10^{-6} \mathrm{~g}[/math]
+ [math]\therefore[/math]
+ পোলোনিয়াম প্রয়োজন [math]1.11 \times 10^{-6} \mathrm{~g} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: কাঙ্ক্ষিত কার্যকলাপ [math]A=5\ \mathrm{mCi}=5\times10^{-3}\times3.7\times10^{10}=1.85\times10^{8}\ \mathrm{s^{-1}}[/math] এবং অর্ধায়ু দিয়ে [math]\lambda=\ln2/T_{1/2}=\ln2/(138\times86400)=0.693/1.19232\times10^{7}=5.81\times10^{-8}\ \mathrm{s^{-1}}[/math], তাই পরমাণুর সংখ্যা [math]N=A/\lambda=1.85\times10^{8}/5.81\times10^{-8}\approx3.18\times10^{15}[/math]।  
+এটি ভর হিসেবে হিসাব করলে [math]m=N\times\frac{210\ \mathrm{g/mol}}{6.022\times10^{23}}\approx3.18\times10^{15}\times3.49\times10^{-22}\approx1.11\times10^{-6}\ \mathrm{g}\approx1.11\ \mu\mathrm{g}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 436514)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+রেডিয়াম ধাতুর অর্ধায়ু [math]1500 \ y[/math]। কত বছরে [math]1 \ g[/math] বিশুদ্ধ রেডিয়ামের ভর [math]1 \ mg[/math] কমে যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.16 \ y[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,রেডিয়ামের অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=1500 \mathrm{y}[/math]
+ক্ষয় ধ্রুবুক,[math]\begin{array}{l} \text { } \lambda=\frac{\ln 2}{\mathrm{~T}_{\frac{1}{2}}^{2}}=\frac{\ln 2}{1500}=4.62 \times 10^{-4} \mathrm{y}^{-1} \\ \frac{\mathrm{N}}{\mathrm{N}_{0}}=\left(\frac{1-1 \times 10^{-3}}{1}\right)=0.999 \end{array}[/math]
+সময়, [math]t=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{c} \frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda t} \\ \Rightarrow-\lambda \mathrm{t}=\ln \left(\frac{\mathrm{N}}{\mathrm{N}_{0}}\right) \\ \Rightarrow \mathrm{t}=-\frac{1}{\lambda} \ln \left(\frac{\mathrm{N}}{\mathrm{N}_{0}}\right) \end{array}[/math]
+ [math]\begin{aligned} \quad & =-\frac{1}{4.62 \times 10^{-4}} \times \ln (0.999) \\ \therefore \mathrm{t} & =2.16 \mathrm{y} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেডিয়ামের ঘনাপাক উত্তরণ বিশেষভাবে হ্রাস পায়, তাই ভর সময়ের সঙ্গে [math]m=m_0\,(1/2)^{t/T_{1/2}}[/math] সূত্রে বিবেচিত হয় যেখানে [math]T_{1/2}=1500\ \text{বছর}[/math]. এখানে [math]m/m_0=0.999[/math], তাই [math](0.999)=(1/2)^{t/1500}[/math] থেকে [math]t=1500\frac{\ln(0.999)}{\ln(1/2)}\approx2.16\ \text{বছর}[/math]. অর্থাৎ প্রায় [math]2.16[/math] বছরে [math]1\ \text{g}[/math] থেকে [math]1\ \text{mg}[/math] ক্ষয় ঘটবে।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 436521)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একখণ্ড রেডিয়াম [math]4000[/math] বছর তেজস্ক্রিয় বিকিরণ নিঃসরণ করে এক পঞ্চমাংশে পরিণত হয়। রেডি য়ামের অবক্ষয় ধ্রুবক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4.02 \times 10^{-4}y^{-1}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,সময়, [math]t=4000[/math]
+ বছরঅবক্ষয় ধ্রুবক [math]\lambda = ?[/math]
+ [math]\\[/math]
+ধরি,রেডিয়ামের প্রাথমিক পরমাণুর সংখ্যা [math]=N_{0}[/math]
+ [math]4000[/math]
+ বছর পর উপ্সথিত পরমাণুর সংখ্যা [math]=N[/math]
+ [math]\therefore \mathrm{N}=\frac{\mathrm{N}_{0}}{5}[/math]
+আবার, [math]N=N_{0} e^{-\lambda t}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{N_{0}}{5}=\frac{N_{0}}{e^{\lambda t}} \\ \Rightarrow \mathrm{e}^{\lambda t}=5 \\ \Rightarrow \lambda t=\ln 5 \\ \therefore \lambda=\frac{\ln 5}{t}=\frac{1.6094}{4000}=4.02 \times 10^{-4} \mathrm{y}^{-1} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয় অবক্ষয়ের সূত্র [math]N=N_0e^{-λt}[/math] থেকে [math]\frac{N}{N_0}=\frac{1}{5}=e^{-λ(4000)}[/math]. তাই [math]λ=-\frac{\ln(1/5)}{4000}=\frac{\ln 5}{4000}\approx4.02\times10^{-4}\ \text{বছর}^{-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 436522)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো তেজস্ক্রিয় পদার্থের অর্ধজীবন [math]5[/math] বছর। [math]20 \times 10^{-3} kg[/math] ভরের পদার্থটিতে [math]1 0[/math] বছর পর কত কিলোগ্রাম পদার্থ থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]5 \times 10^{-3}kg[/math]
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয় পদার্থের পরিমাণের সময়ানুগ হ্রাসকে [math]N=N_0\left(\tfrac{1}{2}\right)^{t/T_{1/2}}[/math] সূত্র দিয়ে প্রকাশ করা হয়; এখানে [math]t=10[/math] বছর ও [math]T_{1/2}=5[/math] বছর হলে দুইটি অর্ধজীবন হয় এবং পরিমাণ [math]\left(\tfrac{1}{2}\right)^2=\tfrac{1}{4}[/math] গুণে কমে যায়।  
+এবং [math]N=20\times10^{-3}\times\left(\tfrac{1}{2}\right)^{2}=5\times10^{-3}\ \text{kg}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 436526)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো পদার্থের অর্ধজীবন [math]5[/math] বছর। ঐ পদার্থের কোনো বস্তু খণ্ডের [math]15[/math] বছর পর কত অংশ ক্ষয় পাৰে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]87.5 \%[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,কোন তেজষ্ক্রিয়া পদার্থের অর্ধজীবন, [math]\mathrm{T}_{\frac{1}{2}}=5 \mathrm{y}[/math]
+সময়, [math]t=15y[/math]
+ [math]\therefore[/math]
+ ক্ষয়প্রাপ্ত পরমাণুর সংখ্যা, [math]\Delta N=?[/math]
+অবশিষ্ট পরমাণুর সংখ্যা [math]N[/math]
+ হলে [math]\Delta \mathbf{N}=\mathbf{N}_{0}-\mathbf{N}[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\mathbf{N}=\mathbf{N}_{0} \mathrm{e}^{-\lambda t}[/math]
+অবক্ষয় ধ্রুবক,[math]\begin{array}{l} \therefore \mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda \mathrm{t}}=1 \times \mathrm{e}^{-(0.1386 \times 15)} \\ =0.125 \\ \therefore \Delta \mathrm{N}=\mathrm{N}_{0}-\mathrm{N} \\ =1-0.125=0.8749 \\ \end{array}[/math]
+ [math]\therefore \ 15[/math]
+ বছর পর ক্ষয় পাবে [math](0.8749 \times 100)\% = 87.5 \% (Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: অর্ধজীবন [math]5[/math] বছর হলে [math]15[/math] বছর অর্থাৎ [math]3[/math]টি অর্ধজীবন। বেঁচে থাকা অংশ [math](1/2)^3 = 1/8[/math], তাই ক্ষয়কৃত অংশ [math]1 - 1/8 = 7/8[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 436528)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+র‍্যাডনের অর্ধজীবন [math]3.36[/math] দিন। র‍্যাডনের তেজস্ক্রিয় ক্ষয় ধ্রুবকের মান কত এবং কত দিন পর রে ডনের প্রারম্ভিক মানের [math]\frac{1}{20}[/math] অংশ অপরিবর্তিত থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.173 \mathrm{~d}^{-1}, 17.32 \text { days }[/math]
+
+Explanation:
+ব্যাখ্যা: র‍্যাডনের ক্ষয় ধ্রুবক পাওয়া যায় [math]\lambda=\ln 2/3.36[/math] তাই [math]\lambda\approx0.2064\ \text{day}^{-1}[/math]. প্রাথমিক মানের [math]\tfrac{1}{20}[/math] অংশ অবশিষ্ট থাকবে যখন [math]e^{-\lambda t}=1/20[/math], ফলে [math]t=\ln 20/\lambda\approx2.9957/0.2064\approx14.51\ \text{days}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 436531)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রাথমিক অবস্থায় কোনো বস্তুখণ্ডে যদি [math]10^{8}[/math] সংখ্যক রেডন পরমাণু থাকে, তাহলে একদিনে কত সংখ্যক পরমাণু ভেঙে যাবে? রেডনের অর্ধজীবন [math]4[/math] দিন।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1.6 \times 10^{7}[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,প্রারম্ভিক পরমাণুর সংখ্যা, [math]N_{0}=10^{8}[/math]
+সময়, [math]t=1d[/math]
+অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=4 \mathrm{~d}[/math]
+ভেঙ্গে যাওয়া পরমাণুর সংখ্যা, [math]\Delta N=?[/math]
+ [math]\\[/math]
+আমরা জানি,অবশিষ্ট পরমাণুর সংখ্যা [math]N[/math]
+ হলে [math]\Delta N=N_{0}-N[/math]
+আবার, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{\lambda \mathrm{t}}[/math]
+ক্ষয় ধ্রুবক,[math]\begin{array}{l} \lambda=\frac{0 \cdot 693}{4}=0.1732 \mathrm{~d} \\ \therefore \mathrm{N}=10^{8} \times \mathrm{e}^{(-0.1732 \times 1)} \\ =10^{8} \times 0.840 \\ \therefore \Delta \mathrm{N}=10^{8}-10^{8} \times 0.840=1.6 \times 10^{7} (Ans.) \\ \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেডিওধর্মী পতনের সূত্র হল [math]N(t)=N_0e^{-λt}[/math] যেখানে [math]λ=\ln2/T_{1/2}=\ln2/4[/math]; এক দিনে ভাঙা পরমাণু হবে [math]N_0(1-e^{-λ·1})=N_0(1-2^{-1/4})[/math]. তাই সংখ্যাগতভাবে [math]10^8(1-2^{-1/4})\approx10^8(1-0.8409)\approx1.59\times10^7[/math] পরমাণু ভেঙে যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 436532)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দুটি তেজস্ক্রিয় মৌল। এদের অর্ধায়ু যথাক্রমে ৪ দিন এবং 10 দিন।
+
+Options:
+ঘ. A মৌলের [math]60 \%[/math] এবং [math]B[/math] মৌলের [math]35 \%[/math] ক্ষয় হতে সমান সময় লাগবে কিনা— গাণিতি কভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, A মৌলের 60% ক্ষয় হতে [math]t_A[/math]
+ ও B মৌলের ক্ষয় হতে [math]t_B[/math]
+ সময় লাগবে ।A. মৌলের ক্ষেত্রে:উদ্দীপক হতে পাই, অর্ধায়ু, [math]T_A[/math]
+ = 8 dপ্রাথমিক পরমাণুর পরিমাণ, [math]N_0[/math]
+ = 100%অক্ষত পরমাণুর পরিমাণ, N = (100 – 60)% = 40%আমরা জানি,[math]\begin{aligned}\mathrm{T}_{\mathrm{A}} & =\frac{0.693}{\lambda_{\mathrm{A}}} \\\text { } \lambda_{\mathrm{A}} & =\frac{0.693}{\mathrm{~T}_{\mathrm{A}}}=\frac{0.693}{8} \\\therefore \quad \lambda_{\mathrm{A}} & =0.0866 \mathrm{~d}^{-1}\end{aligned}[/math]
+আবার,[math]\begin{array}{l}N=N_{0} e^{-\lambda} A^{t} A \\\frac{N}{N_{0}}=e^{-\lambda} A^{t} A^{t} \\\ln \frac{N}{N_{0}}=-\lambda_{A} t_{A} \\\ln \frac{40}{100}=-0.0866 \times t_{A} \\0.9163=-0.0866 t_{A}\end{array}[/math]
+ [math]t_{A}=\frac{0.9163}{0.0866}[/math]
+ [math]t_A = 10.85 d[/math]
+B মৌলের ক্ষেত্রে:উদ্দীপক হতে পাই,অর্ধায়ু, [math]T_B[/math]
+ = 10 dপ্রাথমিক পরমাণুর পরিমাণ, [math]N_0[/math]
+ = 100%অক্ষত পরমাণুর পরিমাণ, N = (100 – 55) % = 45%আমরা জানি,[math]\begin{aligned}\mathrm{T}_{\mathrm{B}} & =\frac{0.693}{\lambda_{\mathrm{B}}} \\\text { } \lambda_{\mathrm{B}} & =\frac{0.693}{\mathrm{~T}_{\mathrm{B}}}=\frac{0.693}{10} \\\therefore \quad \lambda_{\mathrm{B}} & =0.0693 \mathrm{~d}^{-1}\end{aligned}[/math]
+আবার, [math]N=N_{0} e^{-\lambda} B^{t} B[/math]
+ [math]\begin{array}{l}\text{ } \frac{N}{N_{0}}=e^{-\lambda} B^{t} B\\\text{ } \ln \frac{N}{N_{0}}=-\lambda_{B} t_{B}\\\text{ } \ln \frac{45}{100}=-0.0693 \times t_{B}\end{array}[/math]
+ [math], -0.7985 =-0.0693[/math]
+t_B$[math]\begin{aligned}\mathrm{t}_{\mathrm{B}} & =\frac{0.7985}{0.0693} \\& =11.52 \mathrm{~d}\end{aligned}[/math]
+অর্থাৎ, [math]t_{A} 
+eq t_{B}[/math]
+সুতরাং A মৌলের 60% এবং B মৌলের 55% ক্ষয় হতে সমান সময় লাগবে না ।
+
+Explanation:
+ব্যাখ্যা: অপশন ঘ — না, সমান সময় লাগবে না। বাষ্পীয় ক্ষয়ের জন্য [math]\lambda=\ln2/T_{1/2}[/math] এবং সময় [math]t=-\ln(\text{বাকি অংশ})/\lambda[/math] হয়। তাই
+
+[math]t_A=\frac{-\ln(0.40)}{\ln2/4}=\frac{4(-\ln0.40)}{\ln2}\approx5.29\ \text{দিন},[/math]
+[math]t_B=\frac{-\ln(0.65)}{\ln2/10}=\frac{10(-\ln0.65)}{\ln2}\approx6.22\ \text{দিন},[/math]
+
+অতএব দুটি সময় সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 436533)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Viqarunnisa Noon School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]{ }_{82} P B^{224}[/math]-এর অর্ধায়ু [math]23.4[/math] মিনিট।
+
+Options:
+ঘ. কি পরিমাণ লেড থেকে [math]1 \text { curie }[/math] তেজস্ক্রিয়তা পাওয়া যায়?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, লেডের অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=23.4 \mathrm{~min}[/math]
+ [math]1 \mathrm{ci}=3.7 \times 10^{10} \text { decay s}^{-1}[/math]
+আমরা জানি, [math]\mathrm{T}_{\frac{1}{2}}=\frac{0.693}{\lambda}[/math]
+বা, [math]\lambda=\frac{0.693}{\mathrm{~T}_{\frac{1}{2}}}=\frac{0.693}{23.4 \mathrm{~m}}=0.03 \mathrm{~min}^{-1}=4.94 \times 10^{-4} \mathrm{~s}^{-1}[/math]
+আবার, [math]\frac{\mathrm{dN}}{\mathrm{dt}}=\lambda \mathrm{N}_{0}[/math]
+বা, [math]\mathrm{N}_{0}=\frac{\mathrm{dN} / \mathrm{dt}}{\lambda}=\frac{3.7 \times 10^{10} \text { decay s}^{-1}}{4.94 \times 10^{-4} \mathrm{~s}^{-1}}=7.5 \times 10^{13}[/math]
+অতএব, [math]7.5 \times 10^{13}[/math]
+ টি লেড পরমাণু থেকে 1 Curie তেজস্ক্রিয়তা পাওয়া যাবে
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয়তা A = [math]\lambda N[/math] এবং [math]\lambda = \ln2 / t_{1/2}[/math]; এখানে [math]t_{1/2}=23.4\ \text{min}=1404\ \text{s}[/math], তাই [math]\lambda\approx4.94\times10^{-4}\ \text{s}^{-1}[/math]. [math]1\ \text{Ci}=3.7\times10^{10}\ \text{decays/s}[/math] হলে [math]N=A/\lambda\approx7.49\times10^{13}[/math] অণু দরকার। অণু সংখ্যাকে ভরতে রূপান্তর করলে [math]m=N\times(224\ \text{g/mol})/N_A\approx2.8\times10^{-8}\ \text{g}\approx28\ \text{ng}[/math]। তাই ঘ সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 436487)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+তেজস্ক্রিয় মৌলের যে কোনো পরমাণু যে কোনো সময় ভাঙতে পারে। এটি কখন এবং কেন ভাঙবে তা নির্দিষ্ট করে বলা কঠিন। তেজস্ক্রিয়তার নিয়ম পরিসংখ্যানের সম্ভাবনা সূত্রের উপর প্রতিষ্ঠিত। চিত্রে [math]Th^{234}[/math] হতে তেজস্ক্রিয় ভাঙনের হার দেখানো হয়েছে।
+
+Options:
+ঘ. এর তেজস্ক্রিয় ভাঙনের লেখচিত্রটি অঙ্কন কর এবং এর এক-অষ্টমাংশে রূপান্তরিত হতে প্রয়োজনীয় সময় নির্ণয়ের রাশিমালা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক মতে, তেজস্ক্রিয় পদার্থটির অর্ধায়ু, T = 24d বের করতে হবে, ক্ষয় ধ্রুবক, [math]\lambda = ?[/math]
+ এবং গড় আয়ু [math]\tau=?[/math]
+আমরা জানি, [math]\lambda=\frac{0.693}{T}=\frac{0.693}{24 \mathrm{~d}}=0.0289 \mathrm{~d}^{-1} \text { (Ans.) }[/math]
+গড় আয়ু, [math]\tau=\frac{1}{\lambda}=\frac{1}{0.0289 \mathrm{~d}^{-1}}=34.63 \text { day (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ঘ তেজস্ক্রিয় বীজচিত্রটি একটি নিরবচ্ছিন্ন অবর্ণমান হ্রাসকারী বক্ররেখা; গ্রাফে প্রথমে অর্ধেক হওয়ার সময়টি (half‑life) চিহ্ন করে তিনটি এমন ধাপে পয়েন্ট রাখলে পরমাণুটি [math]1/8[/math] এ পৌঁছায়। কারণ, [math]N=N_0e^{-λt}[/math] ও [math]T_{1/2}=\frac{\ln2}{λ}[/math] হলে [math]\frac{N}{N_0}=\frac{1}{8}=(\tfrac{1}{2})^3\Rightarrow t=3T_{1/2}[/math] (অর্থাৎ তিনটি অর্ধায়ন সময়)।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 436488)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক খণ্ড রেডিয়ামে [math]6.023 \times 10^{23}[/math] টি অক্ষত পরমাণু ছিল। এক বছর পরে দেখা গেল [math]6.000 \times 10^{23}[/math] টি পরমাণু ভেঙ্গে গেছে ।
+
+Options:
+গ. রেডিয়াম মৌলটির অর্ধায়ু বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, রেডিয়ামের,প্রাথমিক পরমাণুর সংখ্যা, [math]N_0 = 6.023 x 10^23[/math]
+ টি ভেঙ্গে যাওয়া পরমাণুর সংখ্যা = 6.000 × [math]10^23[/math]
+ টি . অবশিষ্ট পরমাণুর সংখ্যা, N = (6.023 - 6.000) × [math]10^23[/math]
+ টি = 2.3 [math]\times 10^21[/math]
+ টিসময়, t = 1yরেডিয়ামের অবক্ষয় ধ্রুবক [math]\lambda[/math]
+ হলে আমরা জানি,[math]\begin{array}{l}\frac{N}{N_{0}}=e^{-\lambda t} \\\Rightarrow\text { } \ln \left(\frac{\mathrm{N}}{\mathrm{N}_{\mathrm{o}}}\right)=-\lambda \mathrm{t} \\\Rightarrow\text { } \lambda=\frac{\ln \left(\frac{\mathrm{N}}{\mathrm{N}_{0}}\right)}{-\mathrm{t}} \\=\frac{\ln \left(\frac{2.3 \times 10^{21}}{6.023 \times 10^{23}}\right)}{-1 \mathrm{y}} \\=5.568 \mathrm{y}^{-1} \\\end{array}[/math]
+আবার, আমরা জানি,অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=\frac{0.693}{\lambda}=\frac{0.693}{5.568 \mathrm{y}^{-1}}=0.124 \mathrm{y}[/math]
+অতএব, রেডিয়াম মৌলটির অর্ধায়ু 0.124 বছর (Ans) [math]\\[/math]
+
+
+Explanation:
+সমাধান:
+
+গ প্রাথমিক [math]N_0=6.023\times10^{23}[/math] থেকে ভাঙা পরমাণু [math]6.000\times10^{23}[/math] হলে অবশিষ্ট [math]N=6.023\times10^{23}-6.000\times10^{23}=2.3\times10^{21}[/math], তাই অনুপাত [math]\dfrac{N}{N_0}=\dfrac{2.3\times10^{21}}{6.023\times10^{23}}\approx0.0038187[/math].  
+রেডিওঅ্যাকটিভ ক্ষয়নের সূত্র [math]N=N_0e^{-\lambda t}[/math] থেকে [math]e^{-\lambda}=0.0038187\Rightarrow \lambda=-\ln(0.0038187)\approx5.568\ \text{year}^{-1}[/math].  
+অর্ধায়ু [math]T_{1/2}=\dfrac{\ln 2}{\lambda}\approx\dfrac{0.6931}{5.568}\approx0.1245\ \text{year}\approx45.5\ \text{দিন}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 436489)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক খণ্ড রেডিয়ামে [math]6.023 \times 10^{23}[/math] টি অক্ষত পরমাণু ছিল। এক বছর পরে দেখা গেল [math]6.000 \times 10^{23}[/math] টি পরমাণু ভেঙ্গে গেছে ।
+
+Options:
+ঘ. গাণিতিক যুক্তি দিয়ে দেখাও যে, পরবর্তী এক বছরে ভেঙ্গে যাওয়া পরমাণুর সংখ্যা পূর্ববর্তী এক ব ছরে ভেঙ্গে যাওয়া পরমাণু সংখ্যার বেশি হবে না ।
+
+
+Correct Answer: 
+
+Solution:
+ঘদ্বিতীয় বছরের শুরুতে অক্ষত পরমাণু সংখ্যা, [math]N^\prime_0 = 2.3 × 10^21[/math]
+টিএ সময় থেকে 1 বছর পর পরমাণু সংখ্যা N' হলে,এখানে,[math]\lambda=5.568 \mathrm{y}^{-1}[/math]
+ [math]\begin{aligned}\mathrm{N}^{\prime} & =\mathrm{N}^{\prime}{ }_{0} \mathrm{e}^{-\lambda t} \\& =2.3 \times 10^{-21} \mathrm{e}^{-5.568 \mathrm{y}^{-1} \times 1 \mathrm{y}} \\& =8.78 \times 10^{18}\end{aligned}[/math]
+সুতরাং দ্বিতীয় বছরে ভেঙ্গে যাওয়া পরমাণু সংখ্যা,[math]\mathrm{N}_{0}^{\prime}-\mathrm{N}^{\prime}=2.3 \times 10^{21}-8.78 \times 10^{18}=2.29 \times 10^{21}[/math]
+এখানে, প্রথম এক বছরের তুলনায় পরবর্তী এক বছরে ভেঙ্গে যাওয়া পরমাণুর সংখ্যা কম ।অতএব, পরবর্তী এক বছরে ভেঙ্গে যাওয়া পরমাণুর সংখ্যা পূর্ববর্তী একবছরে ভেঙ্গে যাওয়া পরমাণুর সংখ্যার বেশি হবে না।
+
+Explanation:
+ব্যাখ্যা: এক বছরে ভাঙা পরমাণু সংখ্যা [math]6.000\times10^{23}[/math] হলে বাকি পরমাণু হবে [math]6.023\times10^{23}-6.000\times10^{23}=0.023\times10^{23}=2.3\times10^{21}[/math]। পরবর্তী বছরে ভাঙতে পারে সর্বাধিক এই বাকি পরমাণুকেই, অর্থাৎ [math]2.3\times10^{21}[/math], যা প্রথম বছরের ভাঙা [math]6.000\times10^{23}[/math]‑এর চেয়ে অনেক কম। অতএব ঘ সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 436490)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x[/math] ও [math]y[/math] দুটি তেজস্ক্রিয় মৌল। এদের অর্ধায়ু যথাক্রমে [math]6[/math] দিন ও [math]9[/math] দিন ।
+
+Options:
+ঘ. উভয় মৌলের [math]60 \%[/math] ক্ষয় হতে কোন মৌলটির অধিক সময় লাগবে গাণিতিক যুক্তিসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ধরি, A ও B মৌলের 60% ক্ষয় হতে [math]t_A ও t_B[/math]
+ সময় লাগবে । উদ্দীপক হতে, A মৌলের অর্ধায়ু, [math]T_B[/math]
+ = 6 day-B মৌলের অর্ধায়ু, [math]T_B[/math]
+ = 9 dayপ্রাথমিক পরমাণুর পরিমাণ, [math]N_0[/math]
+ = 100% অক্ষত পরমাণুর পরিমাণ, N = (100-60) % = 40%A মৌলের ক্ষয় ধ্রুবক, [math]\lambda_A[/math]
+ = ?B মৌলের ক্ষয় ধ্রুবক, [math]\lambda_B[/math]
+ = ?আমরা জানি, [math]T_A =\frac {0.693}{\lambda_A}[/math]
+ [math]\lambda_{\mathrm{A}}=\frac{0.693}{\mathrm{~T}_{\mathrm{A}}}=\frac{0.693}{6 \text { day }}=0.1155 \mathrm{day}^{-1}[/math]
+ [math]\lambda_{\mathrm{B}}=\frac{0.693}{\mathrm{~T}_{\mathrm{B}}}=\frac{0.693}{6 \text { day }}=0.077 \mathrm{day}^{-1}[/math]
+আবার, A মৌলের ক্ষেত্রে, [math]\frac{N}{N_{0}}=e^{-\lambda A^{t} A}[/math]
+ [math]\begin{array}{l}\text{ } \ln \frac{\mathrm{N}}{\mathrm{N}_{0}}=-\lambda_{\mathrm{At}}\\\Rightarrow\text{ } \ln \frac{40}{100}=-0.1155 \mathrm{day}^{-1} \times \mathrm{t}_{\mathrm{A}}\\\Rightarrow\text{ } -0.9163=-0.1155 \text{ day } ^{-1} \times \mathrm{t}_{\mathrm{A}}\\\therefore \quad t_{A}=\frac{0.9163}{0.1155^{\prime} \text { day }^{-1}}=7.93 \text{ day}\end{array}[/math]
+B মৌলের ক্ষেত্রে, [math]\ln \frac{N}{N_{0}}=-\lambda_{B} t_{B}[/math]
+ [math]\begin{array}{l}\text{ } \quad \ln \frac{40}{100}=-0.077 \mathrm{day}^{-1} \times \mathrm{t}_{\mathrm{B}}\\\text{ } -0.9163=-0.077 \text{ day } ^{-1} \times t_{B}\\\therefore \quad t_{B}=\frac{0.9163}{0.077 \mathrm{day}^{-3}}=11.9 \text{ day}\end{array}[/math]
+যেহেতু [math]t_B > t_A[/math]
+ ; সেহেতু উভয় মৌলের 60% ক্ষয় হতে B মৌলের অধিক সময় লাগবে ।
+
+Explanation:
+ঘ ব্যাখ্যা: অর্ধায়ু [math]T[/math] হলে অবশিষ্টাংশের সূত্র [math]N(t)=N_0(1/2)^{t/T}[/math]. ৬০% ক্ষয়ের মানে [math]N/N_0=0.4=(1/2)^{t/T}[/math], তাই [math]t=T\frac{\ln 0.4}{\ln(1/2)}[/math], যেখানে গুণক [math]\frac{\ln 0.4}{\ln(1/2)}[/math] উভয়ের জন্য একই। তাই সময় অনুপাতে থাকবে এবং যেহেতু [math]y[/math]-র অর্ধায়ু ([math]9[/math] দিন) বড়, [math]y[/math] তে ৬০% ক্ষয়ে অধিক সময় লাগে (প্রায় [math]11.9[/math] দিনে বনাম [math]7.9[/math] দিন)।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 436449)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+দুটি তেজস্ক্রিয় পদার্থ [math]X[/math] ও [math]Y[/math] এর পরমাণু সংখ্যা বনাম সময় গ্রাফ নিম্নরূপ যেখানে [math]X[/math] মৌলটির ক্ষয় ধ্রুবক [math]\lambda=6.93 \times 10^{-3} y^{-1}[/math]।
+
+[Image]
+
+
+Options:
+গ. [math]X[/math] মৌলটির অর্ধায়ু কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+ক্ষয় ধ্রুবক, [math]\lambda=6.93 \times 10^{-3} y^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+অর্ধায়ু, [math]T_{\frac{1}{2}}=[/math]
+ কত?আমরা জানি, অর্ধায়ু[math]\hspace{1.5 cm}\begin{array}{l} \quad ~~\mathrm{T}_{\frac{1}{2}}=\frac{0.693}{\lambda} \\ \Rightarrow ~ \mathrm{T}_{\frac{1}{2}}=\frac{0.693}{6.93 \times 10^{-3}} \mathrm{y} \\ \therefore ~ \ \mathrm{T}_{\frac{1}{2}}=100 \mathrm{y}\end{array}[/math]
+ [math]\therefore[/math]
+ অর্ধায়ু = 100 y (বছর)।
+
+Explanation:
+ব্যাখ্যা: গ অর্ধায়ু নির্ণয় করতে ব্যবহার করি [math]t_{1/2}=\frac{\ln2}{\lambda}[/math]; এখানে [math]\ln2\approx0.693[/math], তাই [math]t_{1/2}=\frac{0.693}{6.93\times10^{-3}}=100\ \text{বছর}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 436450)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+দুটি তেজস্ক্রিয় মৌল [math]A[/math] এবং [math]B[/math] এর ক্ষয় ধ্রুবক যথাক্রমে [math]0.181 d^{-1}[/math] এবং [math]0.257 d^{-1}[/math]।
+
+Options:
+ঘ. মৌলদ্বয়ের [math]75\%[/math] ক্ষয় হতে প্রয়োজনীয় সময় একই হবে কি না— গাণিতিক বিশ্লেষণসহ মতাম ত দাও৷
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+A মৌলের ক্ষয় ধ্রুবক, [math]\lambda=0.181 \mathrm{~d}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+মৌলটির 75% ক্ষয় হলে অক্ষত থাকে 25% অর্থাৎ‍ [math]\frac{N}{N_{0}}=25 \%=\frac{1}{4}[/math]
+আমরা জানি,A মোলের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda \mathrm{t}} \\ \Rightarrow \mathrm{t}=-\frac{1}{\lambda} \ln \frac{\mathrm{N}}{\mathrm{N}_{0}} \\ \Rightarrow \mathrm{t}=\frac{-1}{0.181} \ln \frac{1}{4} \\ \therefore \mathrm{~t}=7.66 \mathrm{~d} \end{array}[/math]
+ [math]\therefore[/math]
+ A মৌলের 75% ক্ষয় হতে সময় লাগে 7.66 dB মৌলের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ t=-\frac{1}{\lambda} \ln \frac{N}{N_{0}} \\ \Rightarrow t=-\frac{1}{0.257} \ln \frac{1}{4}=5.39 \mathrm{~d} \end{array}[/math]
+ [math]\therefore[/math]
+ B মৌলের 75% ক্ষয় হতে সময় লাগে 5.39 d।উদ্দীপক অনুসারে মৌলদ্বয়ের 75% ক্ষয় হতে ভিন্ন সময় লাগবে।
+
+Explanation:
+ঘ না, একই হবে না। 75% ক্ষয়ের মানে অবশিষ্ট অংশ [math]0.25[/math], তাই [math]t=\frac{\ln(0.25)}{-\lambda}=\frac{\ln4}{\lambda}[/math]; ফলে [math]t_A=\frac{\ln4}{0.181}\approx7.66\ \text{দিন}[/math] এবং [math]t_B=\frac{\ln4}{0.257}\approx5.40\ \text{দিন}[/math], তাই [math]B[/math]‑এর জন্য সময় কম লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 436451)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]2000[/math] সালে কোনো স্থানে [math]20\ g[/math] পরিমাণ এর একটি তেজস্ক্রিয় পদার্থ ছিল। যার গড় আয়ু [math]10.82[/math] বছর। [math]2015[/math] সালে দেখা গেল ঐ পদার্থের মাত্র [math]5\ g[/math] অবশিষ্ট আছে।
+
+Options:
+গ. তেজস্ক্রিয় পদার্থটির অর্ধায়ু কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+গড় আয়ু, [math]\tau=10.82[/math]
+ বছর[math]\hspace{1 cm}[/math]
+বছর অর্ধায়ু, [math]T_{\frac{1}{2}}=[/math]
+ কত?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} T_{\frac{1}{2}} & =0.693 \tau \\ \Rightarrow ~~~ T_{\frac{1}{2}} & =(0.693 \times 10.82) \text { বছর } \\ \therefore \quad T_{\frac{1}{2}} & =7.5 \text { বছর } \end{aligned}[/math]
+অতএব, তেজস্ক্রিয় পদার্থটির অর্ধায়ু 7.5 বছর।
+
+Explanation:
+গ অর্ধায়ু হলো [math]t_{1/2}=\tau\ln 2[/math] তাই [math]t_{1/2}=10.82\times\ln 2\approx10.82\times0.6931\approx7.50\ \text{বছর}[/math].  
+কারণ গড় আয়ু [math]\tau=1/λ[/math] এবং অর্ধায়ু [math]t_{1/2}=\ln2/λ=\tau\ln2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 436452)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+সুমি একদিন নিউক্লিয়ার পদার্থবিজ্ঞান ল্যাবরেটরিতে [math]15[/math] দিন পূর্বে কেনা রেডনের দুটি নমুনা নিয়ে কাজ করছিল। নমুনা দুটি যখন কেনা হয় তখন ১ম ও ২য় নমুনায় অক্ষত পরমাণুর সংখ্যা ছিল যথাক্রমে [math]10^{12}[/math] টি ও [math]10^{10}[/math] টি । সে জানে রেডনের ক্ষয় ধ্রুবক [math]0.181 d^{-1}[/math]। তার ধারণা ছিল গত [math]15[/math] দিনে দুটি নমুনাতে সমান সংখ্যক পরমাণু ক্ষয়প্রাপ্ত হয়েছে।
+
+Options:
+গ. প্রথম নমুনার অক্ষত পরমাণুর সংখ্যা অর্ধেক হতে কত সময় লাগবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, প্রথম নমুনার প্রারম্ভিক পরমাণুর সংখ্যা, [math]\mathrm{N}_{0}=10^{12}[/math]
+ধরা যাক, t সময় পরে রেডনের অক্ষত পরমাণুর সংখ্যা অর্ধেক হয়।[math]\hspace{1.1 cm}\therefore \mathrm{N}=\dfrac{\mathrm{N}_{0}}{2}=\dfrac{10^{12}}{2}=5 \times 10^{11}[/math]
+ক্ষয় ধ্রুবক, [math]\lambda=0.181 \mathrm{~d}^{-1}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{N}{N_{0}} & =e^{-\lambda t}\\ \Rightarrow -\lambda \mathrm{t} & =\ln \frac{\mathrm{N}}{\mathrm{N}_{0}} \\ & =\ln \frac{5 \times 10^{11}}{10^{12}} \\ & =\ln 0.5=-0.693 \\ \therefore \quad ~ \mathrm{~t} & =\frac{-0.693}{-0.181} \mathrm{~d}=3.83 \mathrm{~d} \end{aligned}[/math]
+অর্থাৎ 3.83 দিন পর রেডনের অক্ষত পরমাণুর সংখ্যা অর্ধেক হয়।
+
+Explanation:
+গ অর্ধায়নকাল পাবার সূত্র [math]t_{1/2}=\ln 2/\lambda[/math] ব্যবহার করলে [math]t_{1/2}=0.6931/0.181\approx 3.83\ \text{দিন}[/math]. রেডিওঅ্যাকটিভ ক্ষয়নতন্ত্রের জন্য অর্ধায়নকাল প্রাথমিক পারমাণবিক সংখ্যার উপর নির্ভর করে না, তাই প্রথম নমুনার অক্ষত পরমাণু অর্ধে নামতে প্রায় [math]3.83[/math] দিন লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 436453)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+তেজস্ত্রিয় আইসোটোপের [math]8.60\ \mu \mathrm{Ci}[/math] পরিমাণ একটি ডোজ একজন রোগীকে সে কশনের মাধ্যমে প্রদান করা হয়। আইনোটোপটির অর্ধ জীবন [math]3h[/math]। আইসোটোপটির কতগুলো আদি নিউক্লিয়াস ইঞ্জেকশনের মাধ্যমে প্রদান করা হয়েছিল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]4.958 \times 10^{9}[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{\mathrm{dN}}{\mathrm{dt}}=\lambda \mathrm{N} \Rightarrow 8.6 \times 10^{-6} \times 3.7 \times 10^{10}=\dfrac{\ln 2}{3 \times 3600} \times \mathrm{N}\left[\because 1 \mathrm{Ci}=3.7 \times 10^{10} \mathrm{~Bq}\right][/math]
+ [math]\hspace{1.5 cm} \therefore \mathrm{N}=4.958 \times 10^{9}[/math]
+ টি
+
+Explanation:
+ব্যাখ্যা: বিষয়টি হলো ক্রিয়াশীলতা [math]A[/math] এবং নিউক্লিয়াস সংখ্যা [math]N[/math] এর মধ্যে সম্পর্ক [math]A=\lambda N[/math], যেখানে [math]\lambda=\ln2/t_{1/2}[/math]. এখানে [math]8.60\ \mu Ci=8.60\times3.7\times10^4\ s^{-1}=3.182\times10^5\ s^{-1}[/math] এবং [math]\lambda=\ln2/(3\ h)=\ln2/10800\ s=6.4186\times10^{-5}\ s^{-1}[/math]; তাই [math]N=A/\lambda=3.182\times10^5/6.4186\times10^{-5}\approx4.96\times10^9[/math] নিউক্লিয়াস।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 436454)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি রেডন নমুনার [math]60\%[/math] ক্ষয় হতে কত সময় লাগবে? [রেডনের অর্ধায়ু [math]3.8\ \rm{days}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]5.02 \text { days}[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{N}=0.4 \mathrm{~N}_{0} \\ \mathrm{~T}_{\frac{1}{2}}=3.8 \text { days }[/math]
+ [math]\hspace{1.5 cm} \lambda=\dfrac{\ln 2}{T_{1 / 2}}=0.1824 \text { day }^{-1} ; \ln \left(\dfrac{N_{0}}{0.4 \mathrm{~N}_{0}}\right)=\lambda t\\ \hspace{1.5 cm} t=5.02 \text { days (Ans.) }[/math]
+
+
+Explanation:
+[math]0.4=(1/2)^{t/3.8}[/math] ধরে নিলে (কারণ [math]60\%[/math] ক্ষয়ে বাকি থাকে [math]40\%[/math]=[math]0.4[/math]) সমাধান করলে [math]t=3.8\frac{\ln 0.4}{\ln 0.5}\approx 5.02\ \text{days}[/math]. এই ফল হল কারণ রেডন ঘাটতি একটি ঘাতীয় হারে হয় এবং অর্ধায়ু মানে প্রতি [math]3.8[/math] দিনে পরিমাণ আধা হয়ে যায়, তাই [math]40\%[/math] বাকি হতে ≈[math]1.322[/math] অর্ধায়ু বা ≈[math]5.02[/math] দিন লাগে।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 436455)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+কোন তেজষ্ক্রিয় পদার্থের অর্ধায়ু [math]1000[/math] বছর। কত বছর পর উহার তেজষ্ক্রিয়তা ক্ষয়প্রাপ্ত হয়ে [math]1/1 0\ \rm{th}[/math] হবে? ঐ তেজস্ক্রিয় পদার্থের গড় আয়ু কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]3321.928 \text { years}[/math]
+)[math]\\[/math]
+Solution : দেওয়া আছে [math]T_{\frac{1}{2}}=1000 \text { years }[/math]
+আমরা জানি, গড় আয়ু [math]T=\dfrac{T_{\frac{1}{2}}}{\ln (2)}=\dfrac{1000}{0.693}=1442.69 . \text { years (Ans.) }[/math]
+ক্ষারধ্রুবক, [math]\lambda=\dfrac{\ln 2}{T_{\frac{1}{2}}} \quad \mid \mathrm{N}=\mathrm{N}_{0} \times \dfrac{1}{10}[/math]
+ [math]N=N_{0} \cdot e^{-\lambda t} \Rightarrow \dfrac{N_{0}}{10}=N_{0} \cdot e^{\dfrac{\ln 2}{T_{\frac{1}{2}}} t} \Rightarrow-\ln (10)=\dfrac{-\ln (2)}{1000} t \times \ln (e)[/math]
+ [math]\Rightarrow t=1000 \times \dfrac{\ln (10)}{\ln (2)}=3321.928 \text { years (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক তেজস্ক্রিয়তার সূক্ষ্মনিয়ম অনুযায়ী [math](1/2)^{t/1000}=1/10[/math], তাই [math]t=1000\frac{\ln(1/10)}{\ln(1/2)}=1000\frac{\ln 10}{\ln 2}\approx 3321.9[/math], অর্থাৎ প্রায় [math]3322\ \text{বছর}[/math] পর কার্যতা [math]1/10[/math] হবে।
+
+খ গড় আয়ু (mean life) অর্ধায়ু ও লঘুজাতক নিয়ে: [math]\tau=\dfrac{T_{1/2}}{\ln 2}=\dfrac{1000}{\ln 2}\approx 1442.7[/math], অর্থাৎ প্রায় [math]1443\ \text{বছর}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 436456)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016-2017 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+রেডিয়ামের অর্ধায়ু [math]1620[/math] বছর [math]1- gram[/math] ভরের রেডিয়াম হতে প্রতি সেকেন্ডে কতগুলো রেডিয়া ম পরমাণু নির্গত হবে? [ রেডিয়ামের পারমাণবিক ভর [math]= 226kg/kmol[/math] অ্যাভোগাড্রো নম্বর [math]=6.02 \times 10^{26} \mathrm{atoms} / \mathrm{kmol}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.61 \times 10^{10}[/math]
+ পরমাণু [math]/sec[/math]
+ )[math]\\[/math]
+Solution : [math]1gm[/math]
+ রেডিয়ামে পরমাণুর সংখ্যা, [math]\mathrm{N}=\dfrac{1 \times 10^{-3}}{226} \times 6.02 \times 10^{26}=2.66 \times 10^{21}[/math]
+ [math]\therefore \dfrac{d N}{d t}=\lambda N=\dfrac{\ln 2}{\frac{t_1 }{2}} \times N=\dfrac{\ln 2}{1620 \times 365 \times 86400} \times 2.66 \times 10^{21}=3.61 \times 10^{10}[/math]
+ পরমাণু [math]/ sec[/math]
+
+
+Explanation:
+প্রথমে 1 গ্রাম রেডিয়ামে পরমাণুর সংখ্যা: [math]N=\frac{0.001\ \mathrm{kg}}{226\ \mathrm{kg/kmol}}\times6.02\times10^{26}\ \mathrm{atoms/kmol}\approx2.66\times10^{21}[/math]. অবচয় ধ্রুবক: [math]\lambda=\frac{\ln2}{T_{1/2}}=\frac{0.693}{1620\times365\times24\times3600}\approx1.36\times10^{-11}\ \mathrm{s^{-1}}[/math]. তাই প্রতি সেকেন্ডে নির্গত পরমাণু সংখ্যা (চলতি ক্রিয়াশীলতা): [math]A=\lambda N\approx1.36\times10^{-11}\times2.66\times10^{21}\approx3.6\times10^{10}\ \mathrm{atoms/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 436457)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2014-2015 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]U^{238}[/math] এর অর্ধায়ু [math]1.42 \times 10^{17} \mathrm{s.} 1 \mathrm{~g} \mathrm{U} ^{238}[/math] থেকে প্রতি সেকেন্ডে কতগুলো পরমাণু ভেঙ্গে যাবে? [ অ্যাভোগেড্রো সংখ্যা, [math]\mathrm{N}_{\mathrm{A}}=6.02 \times 10^{23} \mathrm{~mol}^{-1}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1.235 \times 10^{4} \text { atom } \mathrm{s}^{-1}[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{N}=\dfrac{6.02 \times 10^{23} \times 1}{238}=2.53 \times 10^{21} \quad \\ \therefore \dfrac{\mathrm{dN}}{\mathrm{dt}}=\lambda \mathrm{N}=\dfrac{\ln 2}{1.42 \times 10^{17}} \times 2.53 \times 10^{21}=1.235 \times 10^{4} \mathrm{atom}\ \mathrm{s}^{-1}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে পরমাণু সংখ্যা নির্ণয় করি: [math]N=\frac{1\ \mathrm{g}}{238\ \mathrm{g\;mol^{-1}}}N_A=\frac{1}{238}\times6.02\times10^{23}=2.53\times10^{21}[/math]. পরমাণুর ক্ষয়ন ধ্রুবক [math]\lambda=\ln2/T_{1/2}=0.693/(1.42\times10^{17}\ \mathrm{s})=4.88\times10^{-18}\ \mathrm{s^{-1}}[/math]. গতিতে ভাঙার সংখ্যা (অ্যাক্টিভিটি) হবে [math]A=\lambda N=(4.88\times10^{-18})(2.53\times10^{21})\approx1.23\times10^{4}\ \mathrm{s^{-1}}[/math], অর্থাৎ প্রায় [math]1.2\times10^{4}[/math]টি পরমাণু প্রতি সেকেন্ডে ভাঙবে।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 436458)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+কোন একটি তেজষ্ক্রিয় পদার্থের অর্ধায়ু [math]3.8[/math] দিন। আট দিন পর এই পদার্থের শতকরা কত অংশ অ বশিষ্ট থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]23.248 \%[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{T}_{1 / 2}=\dfrac{0.693}{\lambda} \Rightarrow \lambda=\dfrac{0.693}{3.8}=0.182 \mathrm{~d}^{-1} \quad\\ \therefore\left(\dfrac{\mathrm{N}}{\mathrm{N}_{\mathrm{o}}}\right)=\mathrm{c}^{-\lambda . t}=\mathrm{e}^{-.182 \times 8}=0.23248[/math]
+ [math]\therefore[/math]
+ শতকরা অবশিষ্ট থাকবে [math]=23.248 \%[/math]
+
+
+Explanation:
+অর্ধায়ু অনুসারে অবশিষ্ট অংশ = [math]\left(\tfrac{1}{2}\right)^{8/3.8} \approx 0.232 \;(\approx 23.2\%)[/math]. কারণ প্রতি [math]3.8[/math] দিনে পরিমাণ অর্ধেক হয়ে যায়, তাই আট দিনে প্রায় [math]8/3.8[/math]টি অর্ধায়ু হয় এবং ফলে উৎসের প্রায় [math]23.2\%[/math]ই বাকি থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 436459)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+কাউন্ট রেট মিটারের সাহায্যে কোন তেজষ্ক্রিয় বস্তুর সক্রিয়তা মাপা যায়। কোন মুহুর্তে কাউন্ট মিটারে [math]4750[/math] কাউন্ট প্রতি মিনিট পাঠ দেয়। পাঁচ মিনিট পর এটি [math]2700[/math] কাউন্ট প্রতি মিনিট পাঠ দেখায়। তেজস্ক্রীয় বস্তুটির অর্ধায়ু এবং ক্ষয় ধ্রুবক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]6.134 \mathrm{~min}[/math]
+)[math]\\[/math]
+Solution : [math]{l}A_{1}=A^{-\lambda t}\dots \dots .. (i)\\ \text{(i) } \mathrm{A}_{2}=\mathrm{Ae}^{-\lambda(1+5)}\dots \dots .. (ii)[/math]
+ [math]\therefore\{(\mathrm{i}) \div(\mathrm{ii})\} \Rightarrow \frac{\mathrm{A}_{1}}{\mathrm{~A}_{2}}=\frac{\mathrm{e}^{-\lambda t}}{\mathrm{e}^{-\lambda(1+5)}} \Rightarrow \frac{4750}{2700}=\mathrm{e}^{-\lambda t+\lambda(t+5)}=\mathrm{e}^{5 \lambda} \Rightarrow 5 \lambda=\ln \left(\frac{4750}{2700}\right)[/math]
+ [math]\therefore \lambda=0.1129 \mathrm{~min}^{-1} \quad \therefore \mathrm{t}_{1 / 2}=\frac{0.693}{\lambda}=6.134 \mathrm{~min}\\ \text { Alternate: } \mathrm{t}_{\frac{1}{2}} \times \log _{0.5}^{\frac{2700}{4750}}=5 \mathrm{~min} \Rightarrow \mathrm{t}_{\frac{1}{2}}=6.13[/math]
+
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয়ার কার্যক্রম সূচকীয় হারে কমে, তাই [math]N(t)=N_0 e^{-λt}[/math] ধরা হয়; অতএব [math]λ=-\frac{1}{t}\ln\frac{N(t)}{N_0}=-\frac{1}{5}\ln\frac{2700}{4750}\approx0.113\ \text{min}^{-1}[/math]. অর্ধায়ু হয় [math]t_{1/2}=\frac{\ln 2}{λ}\approx\frac{0.693}{0.113}\approx6.14\ \text{min}[/math], অর্থাৎ অর্ধায়ু ≈ [math]6.14[/math] মিনিট।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 436460)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+এক গ্রাম রেডিয়াম [math]5[/math] বৎসর [math]\alpha -[/math]কণা বিকিরণের ফলে [math]2.1\ \text{mg}[/math] কমে যায়। রেডিয়ামের অর্ধায়ু বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1648.27 \text { years.}[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]\mathrm{N}_{0}=[/math]
+ প্রারম্ভিক পরমাণু সংখ্যা[math]\hspace{2.1 cm} \rm{N}=[/math]
+ চূড়ান্ত পরমাণু সংখ্যা[math]\hspace{2.1 cm}[/math]
+ [math]\therefore \dfrac{\mathrm{N}}{\mathrm{N}_{0}}=\dfrac{1-0.0021}{\mathrm{I}}=0.9979 \\ \mathrm{t}=5 \mathrm{yr}, \lambda=?[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda \cdot t}\\ \Rightarrow \lambda=-\dfrac{\ln \frac{\mathrm{N}}{\mathrm{N}_{0}}}{\mathrm{t}}=-\dfrac{\ln 0.9979}{5}=\left(4.2 \times 10^{-4} \mathrm{y}^{-1}\right) \\ \therefore \mathrm{T}=\dfrac{0.693}{\lambda}=\dfrac{0.693}{4.2 \times 10^{-4}} \\ =1648.27 \text { years. (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেডিয়েশন সমীকরণ [math]N=N_0e^{-λt}[/math] প্রয়োগ করলে বাকি ভর [math]=1000-2.1=997.9\ \text{mg}[/math] হওয়ায় অনুপাত [math]=0.9979[/math], তাই [math]λ=-\frac{1}{5}\ln(0.9979)\approx4.204\times10^{-4}\ \text{yr}^{-1}[/math] এবং অর্ধায়ু [math]t_{1/2}=\frac{\ln2}{λ}\approx1.65\times10^{3}\ \text{বছর}\ (\approx1650\ \text{বছর})[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 436461)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি তেজস্ক্রিয় বস্তুতে [math]10^{18}[/math] পরমাণু আছে। বস্তুটির অর্ধায়ু হচ্ছে [math]2000[/math] দিন। [math]5000[/math] দিন পর কত ভগ্নাংশ অবশেষ থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.177[/math]
+)[math]\\[/math]
+Solution : ভগ্নাংশ [math]=\dfrac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda \mathrm{t}}=\mathrm{e}^{-\dfrac{0.693}{\mathrm{~T}_{1 / 2}} \mathrm{t}}=\mathrm{e}^{-\dfrac{0.693}{2000} \times 5000}=0.177\rm{(Ans. )}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয় ক্ষয় অনুযায়ী অবশিষ্ট ভগ্নাংশ সাধারণভাবে [math]2^{-t/T_{1/2}}[/math] দিয়ে দেওয়া হয়; এখানে [math]t=5000[/math] দিন এবং [math]T_{1/2}=2000[/math], তাই অবশিষ্ট ভগ্নাংশ [math]2^{-5000/2000}=2^{-2.5}=1/(4\sqrt{2})\approx0.1768[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 436462)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2000-2001 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]{ }^{214} \mathrm{~Pb}_{82}[/math] এর অর্ধায়ু [math]26.8[/math] মিনিট। কি পরিমাণ ভর থেকে এক কুরী তেজক্রিয়তা পাওয়া যাবে তা বের কর। [অ্যাভোগেড্রোর সংখ্যা [math]=6.023 \times 10^{23}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]3.05 \times 10^{-8} \mathrm{gm}[/math]
+)[math]\\[/math]
+Solution : [math]\text {Here, } \dfrac{\mathrm{dN}}{\mathrm{dt}}=1\text { curie }=1 \mathrm{~Bq}=3.7 \times 10^{10} \mathrm{decay} / \mathrm{sec}\\ \mathrm{T}_{1 / 2}=26.8 \mathrm{~min}=1608 \mathrm{sec} \\ \therefore \lambda=4.3106 \times 10^{-4} \mathrm{~s}^{-1}\left[\lambda=\dfrac{\ln 2}{\mathrm{~T}_{1 / 2}}\right][/math]
+আমরা জানি, [math]\dfrac{\mathrm{dN}}{\mathrm{dt}}=\lambda \mathrm{N}\\ \Rightarrow 3.7 \times 10^{10}=4.3106 \times 10^{-4} \times \mathrm{N} \Rightarrow \mathrm{N}=8.58 \times 10^{13}[/math]
+ [math]\therefore[/math]
+ যখন [math]\mathrm{N}=6.023 \times 10^{23}[/math]
+ তখন, [math]\mathrm{m}=214 \mathrm{gm}[/math]
+ [math]\therefore[/math]
+ যখন [math]\mathrm{N}=8.58 \times 10^{13}[/math]
+ তখন, [math]\mathrm{m}=\dfrac{214 \times 8.58 \times 10^{13}}{6.023 \times 10^{23}}\\ \quad =3.05 \times 10^{-8} \mathrm{gm} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: তেজক্রিয়তা [math]A=\lambda N[/math] এবং দ্রাঘবগতি ধ্রুবক [math]\lambda=\ln2/T_{1/2}[/math] হওয়ায়, [math]T_{1/2}=26.8\ \text{min}=1608\ \text{s}[/math] থেকে [math]\lambda=\ln2/1608=4.309\times10^{-4}\ \text{s}^{-1}[/math]. ১ কিউরি = [math]3.7\times10^{10}\ \text{decays/s}[/math] হওয়ায় সংখ্যার পরিমাণ [math]N=A/\lambda=3.7\times10^{10}/4.309\times10^{-4}=8.58\times10^{13}[/math] অণু। মোল সংখ্যা [math]=N/N_A=8.58\times10^{13}/6.023\times10^{23}=1.43\times10^{-10}\ \text{mol}[/math], অতএব ভর = মোল×অণুগরত্ব = [math]1.43\times10^{-10}\times214=3.05\times10^{-8}\ \text{g}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 436463)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Jagannath University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+রেডনের অর্ধায়ু [math]\text{(Half-life)}\ 3.8 \text{days}[/math] হলে এর ক্ষয় ধ্রুবক [math]\text{(Decay c onstant)}[/math] বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]\mathrm{T}_{\frac{1}{2}}=3.8 \text { days } ; \mathrm{T}_{\frac{1}{2}}=\dfrac{0.693}{\lambda} \therefore \lambda=0.182368 \text { day }^{-1}[/math]
+
+Explanation:
+ব্যাখ্যা: রেডিওঅ্যাকটিভ ক্ষয়ে [math]N=N_0e^{-\lambda t}[/math] হয় এবং অর্ধায়ুতে [math]N/N_0=1/2[/math], তাই [math]e^{-\lambda T_{1/2}}=1/2[/math] থেকে [math]\lambda=\dfrac{\ln 2}{T_{1/2}}[/math]. এখানে [math]T_{1/2}=3.8\ \text{days}[/math], তাই [math]\lambda=\dfrac{\ln 2}{3.8}\approx0.1824\ \text{day}^{-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 436464)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2013-2014 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+অর্ধায়ু ও অবক্ষয় ধ্রুবক এর পারস্পরিক সম্পর্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\dfrac{0.693}{\lambda}[/math]
+)[math]\\[/math]
+Solution : আমরা জানি, [math]N=N_{0} e^{-\lambda t}[/math]
+যখন, [math]\mathrm{t}=\frac{\mathrm{T}_{1}}{2}, \mathrm{~N}=\frac{\mathrm{N}_{\mathrm{o}}}{2} \therefore \frac{\mathrm{N}_{\mathrm{o}}}{2}=\mathrm{N}_{\mathrm{o}} \mathrm{e}^{-\lambda \mathrm{T}_{\frac{1}{2}}}\\ \Rightarrow \ln \left(\frac{1}{2}\right)=-\lambda \mathrm{T}_{\frac{1}{2}} \Rightarrow \mathrm{T}_{\frac{1}{2}}=\frac{\ln 2}{\lambda}=\frac{0.693}{\lambda}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেডিওঅ্যাকটিভ অবক্ষয় আইন হল [math]N=N_0e^{-\lambda t}[/math]; অর্ধায়ুতে [math]N=N_0/2[/math] ধরা হলে [math]e^{-\lambda t_{1/2}}=1/2[/math] হয়, ফলে [math]t_{1/2}=\ln2/\lambda[/math]. অতএব অবক্ষয় ধ্রুবক [math]\lambda[/math] হবে [math]\lambda=\ln2/t_{1/2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 436465)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010, 2006-2007, 2005-2006, 2004-2005 | Boards:  | Tags: Chittagong University of Engineering & Technology, Bangladesh University of Textiles, Chittagong University of Engineering & Technology, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কোন একটি তেজস্ক্রিয় বস্তুর অর্ধায়ু [math]6.93[/math] দিন। কতদিন পরে এই তেজক্রিয়ের মাত্র [math]\dfrac{1}{ 10} \text { th }[/math] অবশিষ্ঠ থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]23.026 \text { days. }[/math]
+)[math]\\[/math]
+Solution : [math]T_{1 / 2}=\dfrac{\ln _{2}}{\lambda} ; \lambda=\dfrac{0.693}{T_{1 /2}}=\dfrac{0.693}{6.93}=0.1 \text { day }^{-1}[/math]
+ [math]\hspace{1.5 cm}[/math]
+ [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda \mathrm{t}}\\ \Rightarrow \dfrac{\mathrm{N}_{0}}{10}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t}\left[\because \mathrm{N}=\dfrac{1}{10} \mathrm{~N}_{0}\right] \\ \Rightarrow \dfrac{1}{10}=\mathrm{e}^{-\lambda \mathrm{t}}[/math]
+ [math]\hspace{1.5 cm}[/math]
+ [math]\text { In } 0.1=-\lambda \mathrm{t} \Rightarrow 2.3025=\lambda \mathrm{t} \Rightarrow \mathrm{t}=\dfrac{2.3026}{0.1}=23.026 \text { days. }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অবশিষ্ট অংশ [math](1/2)^{t/6.93}[/math] হবে, তাই [math](1/2)^{t/6.93}=1/10[/math] ধরে লগ নিয়ে পাওয়া যাবে [math]t=6.93\frac{\log(1/10)}{\log(1/2)}\approx6.93\times3.3219\approx23.04\text{ দিন.}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 436466)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একখন্ড রেডনের [math]60\%[/math] ক্ষয় হতে কতদিন লাগবে? রেডনের অর্ধায়ু [math]4[/math] দিন।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]5.288 \text { days }[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{t}_{\frac{1}{2}}=4 \text { days } \therefore \lambda=\dfrac{0.693}{4}=0.17325 \mathrm{day}^{-1}[/math]
+এখন, [math]\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t} \Rightarrow \dfrac{40}{100} \mathrm{~N}_{0}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t}[/math]
+ অবশিষ্ট [math]40 \% \text { ] }[/math]
+ [math]\Rightarrow \dfrac{2}{5}=\mathrm{e}^{-\lambda t} \Rightarrow \ln \dfrac{2}{5}=-\lambda \mathrm{t} \Rightarrow \lambda \mathrm{t}=0.91629 \therefore \mathrm{t}=5.288 \text { days [Ans] }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অর্ধায়ু [math]4[/math] দিন হলে পরিমাণ সময়[math]t[/math] এ রেখে যাবে [math]\left(\tfrac{1}{2}\right)^{t/4}[/math], 60% ক্ষয়ের মানে বাকি থাকবে 40% তাই [math]\left(\tfrac{1}{2}\right)^{t/4}=0.4[/math]; অতএব [math]t=4\frac{\ln(0.4)}{\ln(1/2)}\approx4\times1.32193\approx5.29\ \text{দিন}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 436467)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বস্তুতে যদি প্রারম্ভিক অবস্থায় [math]10^9[/math] সংখ্যাক [math]\mathrm{Au}^{198}[/math] এর পরমাণু থাকে তবে কত সময়ে তার [math]3 \times 10^{8}[/math] সংখ্যক পরমাণু ভেঙ্গে যাবে? [ [math]\mathrm{Au}^{198}[/math] এর অর্ধায়ু [math]2.70\ \rm{d}.[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1.39 \mathrm{~d}[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{N}_{0}=10^{9} \\ \lambda=\dfrac{0.693}{2.7}=0.257 \mathrm{~d}^{-1}[/math]
+ [math]\hspace{1.5 cm} \mathrm{N}=10^{9}-3 \times 10^{8}=7 \times 10^{8}[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{N}_{\circ} \mathrm{e}^{-\lambda \mathrm{t}} \Rightarrow 7 \times 10^{8}=10^{9} \mathrm{e}^{-0.257 t} \\ \therefore t=1.39 d \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অবশিষ্ট পরমাণু হবে [math]10^9-3\times10^8=7\times10^8[/math], তাই ভগ্নাংশ = [math]0.7[/math]. রেডিওঅ্যাকটিভ ক্ষয়নীতিতে [math]N=N_0e^{-λt}[/math] এবং [math]λ=\ln2/T_{1/2}[/math] হওয়ায়
+[math]t=\frac{T_{1/2}}{\ln2}\ln\frac{N_0}{N}=\frac{2.70}{\ln2}\ln\frac{1}{0.7}\approx1.39\ \text{d}[/math], অর্থাৎ প্রায় [math]1.39[/math] দিন।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 436468)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দুটি তেজস্ক্রিয় মৌল। [math]A[/math] এর অধায়ু [math]12[/math] দিন যা [math]B[/math] এর গড় আয়ুর সমান।
+
+Options:
+গ. [math]A[/math] মৌলের [math]60 \%[/math] ক্ষয় হতে কত সময় লাগবে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গ A মৌলের 60% ক্ষয়ের মানে অবশিষ্ট আছে 40%, তাই [math]N/N_0=0.4=e^{-λt}[/math] এবং আধায়ু থেকে [math]λ=\ln2/12[/math]. তুলনা করে পাওয়া যায় [math]t=-\ln(0.4)/λ=12\frac{\ln(1/0.4)}{\ln2}\approx15.87\ \text{দিন}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 436469)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দুটি তেজস্ক্রিয় মৌল। [math]A[/math] এর অধায়ু [math]12[/math] দিন যা [math]B[/math] এর গড় আয়ুর সমান।
+
+Options:
+ঘ. উভয় মৌলের প্রাথমিক সংখ্যা সমান ধরে সময়ের সাথে অক্ষত পরমাণুসংখ্যা লেখচিত্র অংকন করে তুলনামূলক আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, A ও B মৌলের 60% ক্ষয় হতে [math]t_A ও t_B[/math]
+ সময় লাগবে । উদ্দীপক হতে, A মৌলের অর্ধায়ু, [math]T_B[/math]
+ = 6 day-B মৌলের অর্ধায়ু, [math]T_B[/math]
+ = 9 dayপ্রাথমিক পরমাণুর পরিমাণ, [math]N_0[/math]
+ = 100% অক্ষত পরমাণুর পরিমাণ, N = (100-60) % = 40%A মৌলের ক্ষয় ধ্রুবক, [math]\lambda_A[/math]
+ = ?B মৌলের ক্ষয় ধ্রুবক, [math]\lambda_B[/math]
+ = ?আমরা জানি, [math]T_A =\frac {0.693}{\lambda_A}[/math]
+ [math]\lambda_{\mathrm{A}}=\frac{0.693}{\mathrm{~T}_{\mathrm{A}}}=\frac{0.693}{6 \text { day }}=0.1155 \mathrm{day}^{-1}[/math]
+ [math]\lambda_{\mathrm{B}}=\frac{0.693}{\mathrm{~T}_{\mathrm{B}}}=\frac{0.693}{6 \text { day }}=0.077 \mathrm{day}^{-1}[/math]
+আবার, A মৌলের ক্ষেত্রে, [math]\frac{N}{N_{0}}=e^{-\lambda A^{t} A}[/math]
+ [math]\begin{array}{l}\text{ } \ln \frac{\mathrm{N}}{\mathrm{N}_{0}}=-\lambda_{\mathrm{At}}\\\Rightarrow\text{ } \ln \frac{40}{100}=-0.1155 \mathrm{day}^{-1} \times \mathrm{t}_{\mathrm{A}}\\\Rightarrow\text{ } -0.9163=-0.1155 \text{ day } ^{-1} \times \mathrm{t}_{\mathrm{A}}\\\therefore \quad t_{A}=\frac{0.9163}{0.1155^{\prime} \text { day }^{-1}}=7.93 \text{ day}\end{array}[/math]
+B মৌলের ক্ষেত্রে, [math]\ln \frac{N}{N_{0}}=-\lambda_{B} t_{B}[/math]
+ [math]\begin{array}{l}\text{ } \quad \ln \frac{40}{100}=-0.077 \mathrm{day}^{-1} \times \mathrm{t}_{\mathrm{B}}\\\text{ } -0.9163=-0.077 \text{ day } ^{-1} \times t_{B}\\\therefore \quad t_{B}=\frac{0.9163}{0.077 \mathrm{day}^{-3}}=11.9 \text{ day}\end{array}[/math]
+যেহেতু [math]t_B > t_A[/math]
+ ; সেহেতু উভয় মৌলের 60% ক্ষয় হতে B মৌলের অধিক সময় লাগবে । -
+
+Explanation:
+ঘ A-র আধায়ু [math]T_{1/2}=12\ \text{দিন}\Rightarrow λ_A=\frac{\ln2}{12}[/math], B-র গড় আয়ু [math]\tau_B=12\ \text{দিন}\Rightarrow λ_B=\frac{1}{12}[/math]. কারণ [math]λ_B=1/12>λ_A=\ln2/12[/math], B দ্রুত বেশি হারে क्षয় হয়, তাই সম শুরু সংখ্যার জন্য [math]N_A=N_0e^{-λ_A t}[/math] গ্রাফটি নরমাল (ধীর পতন) এবং [math]N_B=N_0e^{-λ_B t}[/math] গ্রাফটি তীব্রভাবে নিম্নমুখী হবে; ফলে [math]t>0[/math] হলে [math]N_A>N_B[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 436470)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পারমাণবিক বিদ্যুৎ কেন্দ্রের উৎপাদন ক্ষমতা [math]400 \ MW[/math]। এতে জ্বালানি হিসেবে [math]U-235[/math] ব্যবহৃত হয়। প্রতিটি ফিশান হতে [math]200 \ MeV[/math] শক্তি পাওয়া যায়। দেখা গেল ব্যবহারের জন্য রক্ষিত [math]U-235[/math] এক বছরে মোল প্রতি [math]9.2577 \times 10^{13}[/math] টি পরমাণুর ভাঙ্গন ঘটে।
+
+Options:
+গ. [math]U-235[/math] এর অর্ধায়ু নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:  
+গ নিউক্লিয়ন ক্ষয়ের হার [math]\lambda[/math] পাওয়া যাবে [math]\lambda=\dfrac{\text{বর্ষে ক্ষয়িত পরমাণু/মোল}}{N_A}=\dfrac{9.2577\times10^{13}}{6.022\times10^{23}}=1.536\times10^{-10}\ \text{yr}^{-1}[/math]। তাই অর্ধায়ু হবে [math]t_{1/2}=\dfrac{\ln 2}{\lambda}=\dfrac{\ln 2\times6.022\times10^{23}}{9.2577\times10^{13}}\approx4.51\times10^{9}\ \text{বছর}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 436471)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পারমাণবিক বিদ্যুৎ কেন্দ্রের উৎপাদন ক্ষমতা [math]400 \ MW[/math]। এতে জ্বালানি হিসেবে [math]U-235[/math] ব্যবহৃত হয়। প্রতিটি ফিশান হতে [math]200 \ MeV[/math] শক্তি পাওয়া যায়। দেখা গেল ব্যবহারের জন্য রক্ষিত [math]U-235[/math] এক বছরে মোল প্রতি [math]9.2577 \times 10^{13}[/math] টি পরমাণুর ভাঙ্গন ঘটে।
+
+Options:
+গ. [math]U-235[/math] এর অর্ধায়ু নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গআমরা জানি, এক মোলে পরমাণু সংখ্যা 6.02 × [math]10^23[/math]
+ টি শর্তানুসারে কোনো সময় পরমাণুর সংখ্যা 6.02 × [math]10^23[/math]
+ হলে এক বছরে ভেঙ্গে যাওয়া পরমাণুর সংখ্যা 9.2577 × [math]10^13[/math]
+। অর্থাৎ N = 6.02 × [math]10^23[/math]
+ হলে, [math]\frac{d N}{d t}=-9.2577 \times 10^{13 t} \mathrm{y}^{-1}[/math]
+ তেজস্ক্রিয় ক্ষয়ের সূত্র থেকে আমরা জানি,[math]\begin{array}{l}\frac{d N}{d t}=-N \lambda \\\text { }-9.2577 \times 10^{13} \mathrm{y}^{-1}=-6.02 \times 10^{23} \times \lambda \\\therefore \lambda=\frac{9.2577 \times 10^{13}}{6.02 \times 10^{23}} \mathrm{y}^{-1}=1.5378 \times 10^{-10} \mathrm{y}^{-1}\end{array}[/math]
+আবার, অর্ধায়ু,[math]T_{1 / 2}=\frac{0.693}{\lambda}=\frac{0.693}{1.5378 \times 10^{-10}}=45.06 \times 10^{8} \mathrm{y} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ U-235 এর অর্ধায়ু নির্ণয়:
+
+ব্যবহার করি যে ভাঙন সংখ্যার অনুপাত [math]\Delta N/N_0 = 1-e^{-\lambda t}[/math], যেখানে [math]\Delta N=9.2577\times10^{13}[/math] এবং [math]N_0=N_A=6.022\times10^{23}[/math], [math]t=1\ \text{year}=3.1536\times10^7\ \text{s}[/math]; ফলে
+[math]\lambda=-\frac{1}{t}\ln\!\left(1-\frac{\Delta N}{N_0}\right)\approx\frac{9.2577\times10^{13}}{6.022\times10^{23}\times3.1536\times10^7}\approx4.88\times10^{-18}\ \text{s}^{-1}[/math].
+অর্ধায়ু [math]T_{1/2}=\frac{\ln2}{\lambda}\approx\frac{0.693}{4.88\times10^{-18}}\approx1.42\times10^{17}\ \text{s}\approx4.51\times10^9\ \text{বছর}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 436472)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো তেজস্ক্রিয় পদার্থের ক্ষয় ধ্রুবকের মান [math]0.00385 / sec[/math] এর অর্ধায়ু কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3 \ min[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,ক্ষয় ধ্রুবক, [math]\lambda = 0.00385/sec[/math]
+অর্ধায়ু, [math]T=?[/math]
+ [math]\\[/math]
+এখন,[math]\begin{aligned} \mathrm{T} & =\frac{0.693}{\lambda} \\ & =\frac{0.693}{0.00385 \mathrm{sec}^{-1}} \\ & =180 \mathrm{sec} \\ & =3 \mathrm{~min} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয় ক্ষয়ের অর্ধায়ু নির্ণয়ের সূত্র [math]t_{1/2}=\dfrac{\ln 2}{\lambda}[/math]; এখানে [math]\lambda=0.00385\ \text{/s}[/math] বসালে [math]t_{1/2}=\dfrac{\ln 2}{0.00385}\approx180.3\ \text{s}\ (\approx3.00\ \text{min}).[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 436477)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+রেডনের অর্ধায়ু [math]3.82[/math] দিন। রেডনের তেজস্ক্রিয় ধ্রুবকের মান কত এবং কত দিন পর রেডনের প্রা রম্ভিক মানের [math]\frac{1}{20}[/math] অংশ অপরিবর্তিত থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]16.51 \ d[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,অর্ধায়ু, [math]T_{\frac{1}{2}}=3.82[/math]
+দিনতেজস্ক্রিয় ধ্রুবক [math]\lambda = ?[/math]
+অবশিষ্ট পরমাণুর সংখ্যা [math]N=\frac{N_{0}}{20}[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \lambda & =\frac{0.693}{\mathrm{~T}_{\frac{1}{2}}^{2}} \\ & =\frac{0.693}{3.82} \mathrm{~d}^{-1} \\ & =0.1814 \mathrm{~d}^{-1} \text { (Ans.) } \end{aligned}[/math]
+জানা আছে, [math]N=N_{0}e^{-\lambda t}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{N_{0}}{20}=N_{0} \mathrm{e}^{-0.1814 \mathrm{t}} \\ \Rightarrow \frac{-1}{20}=\mathrm{e}^{-0.1814 \mathrm{t}} \\ \Rightarrow -0.1814 \mathrm{t}=\ln 1-\ln 20 \\ \Rightarrow -0.1814 \mathrm{t}=0-\ln 20 \\ \Rightarrow \quad \mathrm{t}=\frac{\ln 20}{0.1814} \\ \therefore \quad \mathrm{t}=16.51 \mathrm{~d} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেডনের অর্ধায়ু থেকে তেজস্ক্রিয় ধ্রুবক পাওয়া যায় [math]\lambda=\dfrac{\ln 2}{3.82}\approx0.1814\ \text{দিন}^{-1}[/math]. প্রাথমিক মানের [math]\tfrac{1}{20}[/math] অংশ থাকতে হলে [math]N=N_0e^{-\lambda t}[/math] থেকে [math]t=\dfrac{\ln 20}{\lambda}\approx\dfrac{2.9957}{0.1814}\approx16.52\ \text{দিন}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 436478)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একখণ্ড রেডিয়াম [math]4000[/math] বছর তেজস্ক্রিয় বিকিরণ নিঃসরণ করে এক পঞ্চমাংশে পরিণত হয়। রেডি য়ামের অবক্ষয় ধ্রুবক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4.02 \times 10^{-4}y^{-1}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,সময়, [math]t=4000[/math]
+ বছরঅবক্ষয় ধ্রুবক [math]\lambda = ?[/math]
+ [math]\\[/math]
+ধরি,রেডিয়ামের প্রাথমিক পরমাণুর সংখ্যা [math]=N_{0}[/math]
+ [math]4000[/math]
+ বছর পর উপ্সথিত পরমাণুর সংখ্যা [math]=N[/math]
+ [math]\therefore \mathrm{N}=\frac{\mathrm{N}_{0}}{5}[/math]
+আবার, [math]N=N_{0} e^{-\lambda t}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{N_{0}}{5}=\frac{N_{0}}{e^{\lambda t}} \\ \Rightarrow \mathrm{e}^{\lambda t}=5 \\ \Rightarrow \lambda t=\ln 5 \\ \therefore \lambda=\frac{\ln 5}{t}=\frac{1.6094}{4000}=4.02 \times 10^{-4} \mathrm{y}^{-1} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেডিয়ামের অবক্ষয়কে [math]N=N_0e^{-λt}[/math] ধরা হয়, তাই [math]e^{-λ(4000)}=\tfrac{1}{5}[/math]। লগ নিয়ে সমাধান করলে [math]-λ(4000)=\ln(1/5)=-\ln5[/math], ফলে [math]λ=\dfrac{\ln5}{4000}\approx\dfrac{1.60944}{4000}\approx4.02\times10^{-4}\ \text{বছর}^{-1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 436479)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক গ্রাম থোরিয়াম থেকে প্রতি সেকেন্ডে [math]4500[/math] টি আলফা কণিকা নির্গত হয়। এক গ্রাম থোরিয়ামে পরমাণুর সংখ্যা [math]2.61 \times 10^{2}[/math] টি হলে থোরিয়ামের অর্ধায়ু কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1.275 \times 10^{10}[/math]
+ বছর[math]\\[/math]
+ [math][/math]
+এখানে,এক গ্রাম থোরিয়ামে পরমাণুর সংখ্যা,এখানে,এখন, আমরা জানি, তেজষ্ক্রিয় ধ্রুবক [math]\lambda[/math]
+ হলে,[math]\begin{aligned} & \mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda t} \\ \therefore & \frac{\mathrm{dN}}{\mathrm{dt}}=-\lambda N_{0} \mathrm{e}^{-\lambda t}=-\lambda \mathrm{N} \end{aligned}[/math]
+ [math]\frac{\mathrm{dN}}{\mathrm{dt}}=\lambda \mathrm{N}[/math]
+ [ [math]-[/math]
+ চিহ্ন বাদ দিয়ে ][math]\begin{array}{l} \therefore 4500 \mathrm{~s}^{-1}=\lambda \times 2.61 \times 10^{21} \\ \therefore \lambda=\frac{4500 \mathrm{~s}^{-1}}{2.61 \times 10^{21}}=1.724 \times 10^{-18} \mathrm{~s}^{-1} \end{array}[/math]
+ [math]\therefore[/math]
+ অর্ধায়ু,[math]\mathrm{T}_{\frac{1}{2}}=\frac{0.693}{\lambda}=\frac{0.693}{1.724 \times 10^{-18} \mathrm{~s}^{-1}}=4.02 \times 10^{17} \mathrm{~s}[/math]
+ [math]=1.275 \times 10^{10}[/math]
+বছর [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি নিউক্লিয়ারের ক্রিয়া‑হার ও পরমাণুসংখ্যার সম্পর্ক হল [math]A=\lambda N[/math], যেখানে [math]A[/math] কার্যকরী সংখ্যা, [math]\lambda[/math] অবক্ষয় ধ্রুবক। এখানে [math]\lambda=\dfrac{4500}{2.61\times10^{2}}=17.24\ \text{s}^{-1}[/math] এবং অর্ধায়ু [math]t_{1/2}=\dfrac{\ln 2}{\lambda}=\dfrac{0.693}{17.24}=0.0402\ \text{s}\ (\approx4.02\times10^{-2}\ \text{s})[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 436480)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রাথমিক অবস্থায় কোনো বস্তুখন্ডে যদি [math]10^{8}[/math] সংখ্যক রেডন পরমাণু থাকে, তাহলে একদিনে কত সংখ্যক পরমাণু ভেঙ্গে যাবে ? রেডনের অর্ধায়ু [math]7[/math] দিন ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]9.43 \times 10^{6}[/math]
+
+Explanation:
+ব্যাখ্যা: অর্ধায়ু সূত্র অনুযায়ী [math]N(t)=N_0\left(\tfrac{1}{2}\right)^{t/T_{1/2}}[/math], তাই এক দিন পরে অবশিষ্ট থাকবে [math]N(1)=10^8\left(\tfrac{1}{2}\right)^{1/7}[/math] এবং ভেঙে যাওয়া পরমাণু সংখ্যা হবে [math]10^8\left[1-\left(\tfrac{1}{2}\right)^{1/7}\right]\approx9.43\times10^6[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 436482)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+রেডনের অর্ধজীবন [math]4[/math] দিন। রেডনের তেজস্ক্রিয় ক্ষয় ধ্রুবকের মান কত এবং কত দিন পর রেডনে র প্রারম্ভিক মানের [math]\frac{1}{20}[/math] অংশ - অপরিবর্তিত থাকবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]17.32 \mathrm{~d} ; 0.173 \mathrm{~d}^{-1}[/math]
+
+Explanation:
+ব্যাখ্যা: অর্ধজীবন [math]T_{1/2}=4[/math] দিন হলে ক্ষয় ধ্রুবক [math]\lambda=\dfrac{\ln 2}{T_{1/2}}=[\frac{\ln 2}{4}]\approx[0.1733\ \text{day}^{-1}][/math]. আর পরিমাণ [math]\dfrac{1}{20}[/math] হলে [math]e^{-\lambda t}=\dfrac{1}{20}</math] থেকে [math]t=\dfrac{\ln 20}{\lambda}=\dfrac{\ln 20}{\ln 2}\times 4\approx[17.3\ \text{days}][/math], তাই প্রায় 17.3 দিন পর অবশিষ্ট থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 436484)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রাথমিক অবস্থায় কোনো বস্তু খণ্ডে যদি [math]10^{8}[/math] সংখ্যক রেডন পরমাণু থাকে, তাহলে একদিনে ক ত সংখ্যা পরমাণু ভেঙ্গে যাবে? রেডনের অর্ধজীবন [math]4[/math] দিন ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1.6 \times 10^{7}[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,প্রারম্ভিক পরমাণুর সংখ্যা, [math]N_{0}=10^{8}[/math]
+সময়, [math]t=1d[/math]
+অর্ধায়ু, [math]\mathrm{T}_{\frac{1}{2}}=4 \mathrm{~d}[/math]
+ভেঙ্গে যাওয়া পরমাণুর সংখ্যা, [math]\Delta N=?[/math]
+ [math]\\[/math]
+আমরা জানি,অবশিষ্ট পরমাণুর সংখ্যা [math]N[/math]
+ হলে [math]\Delta N=N_{0}-N[/math]
+আবার, [math]N=N_{0} e^{-\lambda t}[/math]
+ক্ষয় ধ্রুবক,[math]\begin{aligned} \lambda & =\frac{0.693}{4}=0.1732 \mathrm{~d}^{-1} \\ \therefore \mathrm{N} & =10^{8} \times \mathrm{e}^{(-0.1732 \times 1)} \\ & =10^{8} \times 0.840 \end{aligned}[/math]
+ [math]\therefore \Delta \mathrm{N}=10^{8}-10^{8} \times 0.840=1.6^{\circ} \times 10^{7} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেডন পরমাণুর ক্ষয়ন হারে হ্রাস পাওয়ায় [math]N(t)=N_0\left(\tfrac{1}{2}\right)^{t/T_{1/2}}[/math], তাই এক দিনে ভাঙা পরমাণু হবে [math]N_{\rm decay}=N_0\Big(1-\Big(\tfrac{1}{2}\Big)^{1/4}\Big)=10^8\Big(1-2^{-1/4}\Big)\approx1.59\times10^7[/math]. কারণ অর্ধজীবন 4 দিন হলে এক দিনে অবশিষ্ট অংশ [math](1/2)^{1/4}\approx0.8409</math], ফলে প্রায় [math]15.9\%[/math] বা [math]1.59\times10^7[/math] পরমাণু ভেঙ্গে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 436485)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]{}_{11}Na^{24}[/math] এর অর্ধায়ু [math]15[/math] ঘণ্টা ।
+
+Options:
+গ. মৌলটির অবক্ষয় ধ্রুবক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউত্তর: 0.0462 [math]h^{-1}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ আলোকপাত: কৃত্রিমভাবে ব্যাখ্যা করা হলে অবক্ষয় ধ্রুবকটি অর্ধায়ুর সাথে সম্পর্কিত, তাই [math]\lambda=\dfrac{\ln2}{T_{1/2}}[/math]. এখানে [math]T_{1/2}=15\ \text{ঘণ্টা}[/math], ফলে [math]\lambda=\dfrac{0.693}{15}=0.0462\ \text{hr}^{-1}[/math], যা সেই পরমাণুর অবক্ষয় ধ্রুবক।
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 436486)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]{}_{11}Na^{24}[/math] এর অর্ধায়ু [math]15[/math] ঘণ্টা ।
+
+Options:
+ঘ. [math]60[/math] ঘণ্টায় [math]1gm \ {}_{11}Na^{24}[/math]-এর কতটুকু অপরিবর্তিত থাকবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, অর্ধায়ু, [math]T_\frac{1}{2}[/math]
+ = 15 hrআদিভর, [math]m_0[/math]
+ = 1gআদি পরমাণুর সংখ্যা,[math]\begin{array}{l}\mathrm{N}_{0}=\frac{6.02 \times 10^{23}}{\cdot 24} \\\mathrm{~N}_{0}=2.51 \times 10^{22} \text { } \end{array}[/math]
+টিসময়, t = 60 hrঅক্ষত পরমাণুর সংখ্যা, N = ?অবক্ষয় ধ্রুবক [math]\lambda[/math]
+ হলে,[math]\lambda=\frac{0.693}{\mathrm{~T}_{\frac{1}{2}}}=0.0462 \mathrm{hr}^{-1}[/math]
+আমরা জানি,[math]\begin{array}{l}\mathrm{N}=\mathrm{N}_{0} \mathrm{e}^{-\lambda \mathrm{t}} \\\Rightarrow\text { } \mathrm{N}=2.51 \times 10^{22} \times \mathrm{e}^{-0.0462 \times 60} \\\cdot \mathrm{N}=1.57 \times 10^{21} \text (Ans.) \end{array}[/math]
+ টি
+
+Explanation:
+ব্যাখ্যা: ঘ কারণ অর্ধায়ু প্রতিটি [math]15[/math] ঘণ্টায় পরিমাণটি অর্ধেক হয়, তাই [math]60/15=4[/math] অর্ধায়ু পার হয়েছে। ফলে অবশিষ্ট অংশ [math](1/2)^4=1/16[/math], অর্থাৎ [math]1\times\frac{1}{16}=0.0625\ \text{g}[/math] অপরিবর্তিত থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 436441)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উদ্দীপকের চিত্রে একটি তেজস্ক্রিয় [math]X-[/math]পরমাণুর তেজস্ক্রিয় ক্ষয়ের চিত্র দেখানো হয়েছে। যার গড় আয়ু [math]2294[/math] বছর।
+
+Options:
+গ. উদ্দীপকে বর্ণিত [math]X-[/math]পরমাণুটির অর্ধায়ু বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, [math]X[/math]
+ পরমাণুর অর্ধায়ু [math]T_{1 / 2}[/math]
+উদ্দীপক হতে, গড় আয়ু, [math]\tau=2294 y[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{1 / 2} & =0.693 \tau \\ & =0.693 \times 2294 \mathrm{y}=1589.742 \mathrm{y} \end{aligned}[/math]
+সুতরাং X পরমাণুটির অর্ধায়ু 1589.742 বছর।
+
+Explanation:
+ব্যাখ্যা: তেজস্ক্রিয় ক্ষয়ে গড় আয়ু [math]\tau=1/\lambda[/math] এবং অর্ধায়ু [math]t_{1/2}=\ln2/\lambda=\tau\ln2[/math] হয়।  
+গ উত্তর: [math]t_{1/2}=2294\times\ln2\approx2294\times0.6931\approx1590\ \text{বছর (প্রায়)}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 436442)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দুটি তেজস্ক্রিয় মৌল। এদের অর্ধায়ু যথাক্রমে [math]6[/math] দিন ও [math]9[/math] দিন।
+
+Options:
+ঘ. উভয় মৌলের [math]60\%[/math] ক্ষয় হতে কোন মৌলটির অধিক সময় লাগবে? গাণিতিকভাবে বিশ্লেষণ ক র।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, A ও B মৌলের 60% ক্ষয় হতে যথাক্রমে [math]t_A[/math]
+ ও [math]t_B[/math]
+ সময় লাগবে।উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+A মৌলের অর্ধায়ু, [math]\mathrm{T}_{\mathrm{B}}=6 \text { day }[/math]
+ [math]\hspace{1 cm}[/math]
+B মৌলের অর্ধায়ু, [math]\mathrm{T}_{\mathrm{B}}=9 \text { day }[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক পরমাণুর পরিমাণ, [math]\mathrm{N}_{0}=100 \%[/math]
+ [math]\hspace{1 cm}[/math]
+অক্ষত পরমাণুর পরিমাণ, [math]\mathrm{N}=(100-60) \%=40 \%[/math]
+ [math]\hspace{1 cm}[/math]
+A মৌলের ক্ষয় ধ্রুবক, [math]\lambda_{\mathrm{A}}=?[/math]
+ [math]\hspace{1 cm}[/math]
+B মৌলের ক্ষয় ধ্রুবক, [math]\lambda_{\rm{B}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~\mathrm{T}_{\mathrm{A}}=\frac{0.693}{\lambda_{\mathrm{A}}}\\ \Rightarrow \lambda_{A}=\frac{0.693}{T_{A}}=\frac{0.693}{6 \text { day }}=0.1155 \mathrm{day}^{-1}\end{array}[/math]
+এবং [math]\lambda_{B}=\frac{0.693}{T_{B}}=\frac{0.693}{9 \text { day }}=0.077 \mathrm{day}^{-1}[/math]
+আবার, A মৌলের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \frac{N}{N_{0}}=\mathrm{e}^{-\lambda_{A} t_{A}} \\ \Rightarrow \ln \frac{N}{N_{0}}=-\lambda_{A} t_{A} \\ \Rightarrow \ln \frac{40}{100}=-0.1155 \text { day }^{-1} \times t_{A} \\ \Rightarrow -0.9163=-0.1155 \text { day }^{-1} \times t_{A} \\ \therefore ~ t_{A}=\frac{0.9163}{0.1155 \text { day }^{-1}}=7.93 \text { day }\end{array}[/math]
+B মৌলের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{aligned} & \ln \frac{N}{N_{0}}=-\lambda_{B} t_{B} \\ \Rightarrow ~ & \ln \frac{40}{100}=-0.077 \text { day }^{-1} \times t_{B} \\ \Rightarrow ~ & -0.9163=-0.077 \text { day }^{-1} \times \mathrm{t}_{B} \\ \therefore ~& t_{B}=\frac{0.9163}{0.077 \text { day }^{-1}}=11.9 \text { day. }\end{aligned}[/math]
+যেহেতু [math]t_{B}>t_{A}[/math]
+ সেহেতু উভয় মৌলের 60% ক্ষয় হতে B মৌলের অধিক সময় লাগবে।
+
+Explanation:
+ঘ ব্যাখ্যা: অবশিষ্ট অংশ [math](1/2)^{t/T}[/math] হয়, 60% ক্ষয়ে মানে অবশিষ্ট 40% = 0.4, তাই [math](1/2)^{t/T}=0.4 \Rightarrow t=T\frac{\ln(0.4)}{\ln(1/2)}[/math]. ln(0.4)/ln(1/2) একই সবার জন্য হওয়ায় সময় [math]t[/math] অর্ধায়ুর অনুপাতে; ফলে [math]t_B=9\cdot\frac{\ln(0.4)}{\ln(1/2)}>t_A=6\cdot\frac{\ln(0.4)}{\ln(1/2)}[/math], তাই মৌল B-র জন্য বেশি সময় লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 436443)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+সৌভিক [math]A,\ B\ ও\ C[/math] তিনটি তেজস্ক্রিয় পদার্থকে গবেষণাগারে রেখে দিলেন। পদার্থগুলোর প্রতিটির ভর ছিল [math]50\ g[/math]। [math]1.5[/math] বছর পর তিনি এদের ভর পরিমাপ করলেন যথাক্রমে [math]20\ g,\ 25\ g\ ও\ 40\ g[/math]।
+
+Options:
+গ. উদ্দীপকে [math]B[/math] মৌলটির অবক্ষয় ধ্রুবক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, B মৌলের 50 g 1.5 বছর পর এর 25 g অবশিষ্ট থাকে। আমরা জানি, যে সময়ে কোনো তেজস্ক্রিয় পদার্থের মোট পরমাণুর ঠিক অর্ধেক পরিমাণ ভেঙে যায়, তাকে ঐ পদার্থের অর্ধায়ু বলে। এখানে, B মৌলটি যেহেতু 1.5 বছরে তার মোট ভর 50 g এর ঠিক অর্ধেক ভেঙে 25 g-এ পরিণত হয় সেজন্য B মৌলটির অর্ধায়ু, [math]T_{\frac{1}{2}}=1.5 \text { year. }[/math]
+ধরি, B এর অবক্ষয় ধ্রুবক [math]= \lambda_B[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\mathrm{T}_{\frac{1}{2}}=\frac{0.693}{\lambda_{\mathrm{B}}} \\ \therefore \ \lambda_{\mathrm{B}}=\frac{0.693}{T_{\frac{1}{2}}}=\frac{0.693}{1.5}=0.462 \text { year }^{-1}\end{array}[/math]
+B এর অবক্ষয় ধ্রুবক, [math]0.462 \text { year }^{-1}[/math]
+।
+
+Explanation:
+গ কারণ অবক্ষয় সমীকরণ [math]N=N_0e^{-λt}[/math] প্রয়োগ করলে [math]50e^{-1.5λ}=25\Rightarrow e^{-1.5λ}=0.5[/math]. অতএব [math]λ=\frac{\ln 2}{1.5}\approx0.462\ \text{yr}^{-1}[/math], যা অবক্ষয় ধ্রুবক।
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 436444)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+সৌভিক [math]A,\ B\ ও\ C[/math] তিনটি তেজস্ক্রিয় পদার্থকে গবেষণাগারে রেখে দিলেন। পদার্থগুলোর প্রতিটির ভর ছিল [math]50\ g[/math]। [math]1.5[/math] বছর পর তিনি এদের ভর পরিমাপ করলেন যথাক্রমে [math]20\ g,\ 25\ g\ ও\ 40\ g[/math]।
+
+Options:
+ঘ. [math]A[/math] মৌলের [math]20\%[/math] এবং [math]C[/math] মৌলের [math]10\%[/math] ক্ষয় হতে একই লাগবে কি? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, A মৌলের জন্য অবক্ষয় ধ্রুবক [math]\lambda_A[/math]
+. 1.5 বছর পর এর ভর 50 g থেকে 20 g হয়।অর্থাৎ, [math]\frac{\mathrm{N}}{\mathrm{N}_{0}}=\frac{20}{50}=\frac{2}{5}[/math]
+এখন,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\frac{N}{N_{0}}=\mathrm{e}^{-\lambda_{A} \times \mathrm{t}} \\ \Rightarrow \frac{2}{5}=\mathrm{e}^{-\lambda_{\mathrm{A}} \times 1.5} \\ \Rightarrow \lambda_{\mathrm{A}} \times 1.5=-\ln \left(\frac{2}{5}\right) \\ \Rightarrow \lambda_{A}=\frac{1}{1.5} \ln \left(\frac{2}{5}\right)=0.61086 \mathrm{year}^{-1} \end{array}[/math]
+এখন, 20% ক্ষয় এর জন্য, [math]\frac{N}{N_{0}}=\frac{100-20}{100}=\frac{4}{5}[/math]
+ [math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{N}{N_{0}}=e^{-\lambda_{N} \times 1} \\ \Rightarrow \frac{4}{5}=e^{-0.61086 \times 1} \\ \therefore \ t=0.3653 \text { vear }^{-1} \end{array}[/math]
+আবার, C মৌলের জন্য অবক্ষয় ধ্রুবক [math]\lambda_C[/math]
+। 1.5 বছর পর 50g থেকে 40 g হয় অর্থাৎ, [math]\frac{N}{N_{0}}=\frac{40}{50}=\frac{4}{5}[/math]
+এখন,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{N}{N_{0}}=\frac{4}{5}=e^{-\lambda_{C} \times t} \\ \Rightarrow \frac{4}{5}=\mathrm{e}^{-\lambda_{C} \times 1.5} \\ \therefore \lambda_{C}=0.14876 \text { year }^{-1} \end{array}[/math]
+এখন, 10% ক্ষয় এর জন্য, [math]\frac{N}{N_{0}}=\frac{100-10}{100}=\frac{9}{10}[/math]
+ [math]\hspace{1.5 cm}\begin{aligned} & \frac{N}{N_{0}}=e^{-\lambda_{C} \times t} \\ \Rightarrow ~ & \frac{9}{10}=e^{-0.14876 \times t} \\ \therefore ~~ & t=0.70825 \mathrm{year}^{-1} \end{aligned}[/math]
+A এর 20% এবং C-এর 10% ভাঙতে ভিন্ন ভিন্ন সময় লাগবে।
+
+Explanation:
+ঘ না — কারণ A ও C-এর অবশিষ্ট ভর 1.5 বছরে যথাক্রমে [math]20/50=0.4[/math] ও [math]40/50=0.8[/math], তাই [math]\lambda_A=-(1/1.5)\ln 0.4,\ \lambda_C=-(1/1.5)\ln 0.8[/math]. A-র ২০% ক্ষয়ের সময় হলো [math]t_A=-(1/\lambda_A)\ln 0.8\approx 0.366\ \text{বছর}[/math] এবং C-র ১০% ক্ষয়ের সময় হলো [math]t_C=-(1/\lambda_C)\ln 0.9\approx 0.708\ \text{বছর}[/math], তাই সময় সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 436445)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+এক খণ্ড রেডিয়ামে [math]6.023 \times 10^{23}[/math] টি অক্ষত পরমাণু ছিল। এক বছর পরে দেখা গেল [math]6.000 \times 10^{23}[/math] টি পরমাণু ভেঙে গেছে।
+
+Options:
+গ. রেডিয়াম মৌলটির অর্ধায়ু বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, রেডিয়ামের অর্ধায়ু [math]T_{1/2}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+প্রাথমিক পরমাণুর সংখ্যা, [math]N_{0}=6.023 \times 10^{23}[/math]
+ [math]\hspace{1 cm}[/math]
+অক্ষত পরমাণুর সংখ্যা, [math]\mathrm{N}=6.023 \times 10^{23}-6.000 \times 10^{23}=0.023 \times 10^{23}[/math]
+ [math]\hspace{1 cm}[/math]
+সময়, t = 1 yআমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda t}\\ \Rightarrow \ln \frac{\mathrm{N}}{\mathrm{N}_{0}}=-\lambda t\\ \Rightarrow \ln \left(\frac{0.023 \times 10^{23}}{6.023 \times 10^{23}}\right)=-\lambda .1 \mathrm{y}\\ \Rightarrow -\lambda=-5.568 \mathrm{y}^{-1}\\ \therefore \quad \lambda=5.568 \mathrm{y}^{-1}\end{array}[/math]
+আবার, [math]\mathrm{T}_{1 / 2}=\dfrac{0.693}{\lambda}=\dfrac{0.693}{5.568 \mathrm{y}^{-1}}=0.124 \mathrm{y}[/math]
+সুতরাং রেডিয়াম মৌলের অর্ধায়ু 0.124 y।
+
+Explanation:
+গ ব্যাখ্যা: প্রথম বছরে অবশিষ্ট পরমাণু হলো [math]N=6.023\times10^{23}-6.000\times10^{23}=2.3\times10^{21}[/math], তাই [math]N/N_0=2.3\times10^{21}/6.023\times10^{23}\approx3.819\times10^{-3}[/math]. রেডিওঅ্যাকটিভ অবচয় সূত্র [math]N=N_0e^{-λt}[/math] থেকে [math]λ=-\ln(N/N_0)/t\approx5.569\ \text{yr}^{-1}[/math], এবং অর্ধায়ু [math]T_{1/2}=\ln2/λ\approx0.1245\ \text{yr}\approx45.4\ \text{দিন}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 436446)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+এক খণ্ড রেডিয়ামে [math]6.023 \times 10^{23}[/math] টি অক্ষত পরমাণু ছিল। এক বছর পরে দেখা গেল [math]6.000 \times 10^{23}[/math] টি পরমাণু ভেঙে গেছে।
+
+Options:
+ঘ. গাণিতিক যুক্তি দিয়ে দেখাও যে, পরবর্তী এক বছরে ভেঙে যাওয়া পরমাণুর সংখ্যা পূর্ববর্তী এক ব ছরে ভেঙে যাওয়া পরমাণু সংখ্যার বেশি হবে না।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, রেডিয়ামের অর্ধায়ু [math]T_{1/2}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+প্রাথমিক পরমাণুর সংখ্যা, [math]N_{0}=6.023 \times 10^{23}[/math]
+ [math]\hspace{1 cm}[/math]
+অক্ষত পরমাণুর সংখ্যা, [math]\mathrm{N}=6.023 \times 10^{23}-6.000 \times 10^{23}=0.023 \times 10^{23}[/math]
+ [math]\hspace{1 cm}[/math]
+সময়, t = 1 yআমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \frac{\mathrm{N}}{\mathrm{N}_{0}}=\mathrm{e}^{-\lambda t}\\ \Rightarrow \ln \frac{\mathrm{N}}{\mathrm{N}_{0}}=-\lambda t\\ \Rightarrow \ln \left(\frac{0.023 \times 10^{23}}{6.023 \times 10^{23}}\right)=-\lambda .1 \mathrm{y}\\ \Rightarrow -\lambda=-5.568 \mathrm{y}^{-1}\\ \therefore \quad \lambda=5.568 \mathrm{y}^{-1}\end{array}[/math]
+উদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+সময়, t=1y[math]\hspace{1 cm}[/math]
+প্রাথমিক পরমাণুর সংখ্যা, [math]N_{0}=6.023 \times 10^{23}[/math]
+ [math]\hspace{1 cm}[/math]
+১ম বছরে ভেঙে যাওয়া পরমাণুর সংখ্যা, [math]N_{1}=6.000 \times 10^{23}[/math]
+ [math]\therefore[/math]
+ ১ম বছরের অক্ষত পরমাণুর সংখ্যা,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{N}_{0}{ }^{\prime} & =6.023 \times 10^{23}-6.000 \times 10^{23} \\ & =0.023 \times 10^{23} \end{aligned}[/math]
+২য় বছরের অক্ষত পরমাণুর সংখ্যা, N=?আমরা জানি,[math]\hspace{1.2 cm}\begin{array}{l} \quad ~ \frac{N}{N_{0}^{\prime}}=\mathrm{e}^{-\lambda t}=\mathrm{e}^{-5.568 \mathrm{y}^{-1} \times 1 \mathrm{y}}=\mathrm{e}^{-5.568}\\ \Rightarrow \mathrm{~N}=3.818 \times 10^{-3} \times \mathrm{N}_{\mathrm{o}}{ }^{\prime}\\ \qquad ~=3.818 \times 10^{-3} \times 0.023 \times 10^{23}=8.78 \times 10^{18}\end{array}[/math]
+ [math]\therefore[/math]
+ ২য় বছরে ভেঙে যাওয়া পরমাণুর সংখ্যা, N = ?[math]\hspace{1.5 cm}\begin{aligned} \mathrm{N}_{2} & =0.023 \times 10^{23}-8.78 \times 10^{18} \\ & =2.291 \times 10^{21} \end{aligned}[/math]
+অর্থাৎ‍ [math]\mathrm{N}_{2}<\mathrm{N}_{1}[/math]
+উপরের গাণিতিক বিশ্লেষণ হতে বলা যায় যে, পরবর্তী এক বছরে ভেঙে যাওয়া পরমাণুর সংখ্যা পূর্ববর্তী এক বছরে ভেঙে যাওয়া পরমাণুর সংখ্যার বেশি নয়।
+
+Explanation:
+ব্যাখ্যা: ঘ প্রথম বছরে ভাঙা পরমাণু [math]B_1=6.000\times10^{23}[/math], আর শুরুতে মোট ছিল [math]N=6.023\times10^{23}[/math], তাই বাকি আছে [math]R=N-B_1=6.023\times10^{23}-6.000\times10^{23}=0.023\times10^{23}=2.3\times10^{21}[/math]. পরবর্তী বছরে সর্বাধিক ভাঙতে পারে এই বাকি [math]R[/math]টির চেয়ে বেশি নয়, সুতরাং [math]B_2\le R=2.3\times10^{21}<6.000\times10^{23}=B_1[/math]; ফলে পরের বছরে ভাঙা পরমাণুর সংখ্যা পূর্ববর্তী বছরের তুলনায় বেশি হতে পারে না।
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 436447)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+রাজা দুটি তেজস্ক্রিয় মৌল [math]A[/math] এবং [math]B[/math] নিয়ে কাজ করছিল। মৌলদ্বয়ের অর্ধায়ুর যোগফল [math]15[/math] বছর। [math]A[/math] এর অর্ধায়ু [math]B[/math] এর দ্বিগুণ।
+
+Options:
+গ. [math]A[/math] মৌলের ক্ষয় ধ্রুবক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গA ও B মৌলের অর্ধায়ুর যোগফল = 15A মৌলের অর্ধায়ু B মৌলের অর্ধায়ুর দ্বিগুণ।[math]\therefore ~[/math]
+ A মৌলের অর্ধায়ু = 10 yএবং B মৌলের অর্ধায়ু = 5 yএখানে,[math]\hspace{1 cm}[/math]
+A মৌলের অর্ধায়ু, [math]\mathrm{T}_{1 / 2}=10 \mathrm{y}[/math]
+ [math]\hspace{1 cm}[/math]
+ক্ষয় ধ্রুবক, [math]\lambda[/math]
+ = কত?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\mathrm{T}_{1/2}=\frac{0.693}{\lambda} \\ \Rightarrow \lambda=\frac{0.693}{\mathrm{~T}_{1 / 2}} \\ \Rightarrow \lambda=\frac{0.693}{10} \mathrm{y}^{-1}=0.0693 \mathrm{y}^{-1} \end{array}[/math]
+অতএব, A মৌলের ক্ষয় ধ্রুবক [math]0.0693 \mathrm{y}^{-1}[/math]
+।
+
+Explanation:
+ব্যাখ্যা:
+গ ধরা যাক [math]B[/math]-এর অর্ধায়ু [math]t[/math], তখন [math]A[/math]-এর অর্ধায়ু [math]2t[/math] এবং [math]2t+t=15[/math] থেকে [math]t=5[/math], ফলে [math]t_A=10\ \text{বছর}[/math]. ক্ষয় ধ্রুবক [math]\lambda_A=\dfrac{\ln 2}{t_A}=\dfrac{\ln 2}{10}\ \text{বছর}^{-1}[/math], কারণ অর্ধায়ু ও ক্ষয় ধ্রুবকের সংযোগ [math]t_{1/2}=\ln2/\lambda[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 436448)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+রাজা দুটি তেজস্ক্রিয় মৌল [math]A[/math] এবং [math]B[/math] নিয়ে কাজ করছিল। মৌলদ্বয়ের অর্ধায়ুর যোগফল [math]15[/math] বছর। [math]A[/math] এর অর্ধায়ু [math]B[/math] এর দ্বিগুণ।
+
+Options:
+ঘ. উভয় মৌলের [math]40\%[/math] ক্ষয় হতে ভিন্ন সময় লাগে– গাণিতিক বিশ্লেষণসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘA মৌলের ক্ষেত্রে,এখানে,[math]\hspace{1 cm}[/math]
+অক্ষত পরমাণু, [math]\frac{N}{N_{0}}=60 \%=\frac{60}{100}=\frac{3}{5}[/math]
+ [math]\hspace{1 cm}[/math]
+ক্ষয় ধ্রুবক, [math]\lambda=0.0693 \mathrm{y}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+সময়, [math]t_A =[/math]
+ কত?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{N}{N_{0}} & =\mathrm{e}^{-\lambda t_{A}} \\ \Rightarrow-\lambda t_{A} & =\ln \frac{N}{N_{0}} \\ \Rightarrow ~~\quad t_{A} & =-\frac{1}{\lambda} \ln \frac{N}{N_{0}} =-\frac{1}{0.0693} \ln \frac{3}{5}\\ \therefore \quad ~~ \mathfrak{t}_{\mathrm{A}} &=7.37 \text { বছর }\end{aligned}[/math]
+আবার, B মৌলের ক্ষেত্রে,এখানে,[math]\hspace{1 cm}[/math]
+অক্ষত পরমাণু, [math]\frac{\mathrm{N}}{\mathrm{N}_{0}}=60 \%=\frac{60}{100}=\frac{3}{5}[/math]
+ [math]\hspace{1 cm}[/math]
+অর্ধায়ু, [math]\mathrm{T}_{1 / 2}=5 \mathrm{yr}[/math]
+ [math]\hspace{1 cm}[/math]
+সময়, [math]t_B =[/math]
+ কত?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\frac{N}{N_{0}}=\mathrm{e}^{-\lambda t_{B}} \\ \Rightarrow -\lambda t_{\mathrm{B}}=\ln \frac{N}{N_{0}}\\ \Rightarrow t_{B}=-\frac{1}{\lambda} \ln \frac{N}{N_{0}} \\ \Rightarrow t_{B}=\frac{T_{1 / 2}}{0.693} \ln \frac{N}{N_{0}}=-\frac{5}{.693} \ln \frac{3}{5} \\ \therefore~~ t_{B}=3.6856 \text { বছর }=\frac{t_{A}}{2}\end{array}[/math]
+দেখা যাচ্ছে A ও B উভয় মৌলের 40% ক্ষয় হতে সময় ভিন্ন এবং A মৌলের ক্ষয়ের সময় B মৌলের ক্ষয়ের সময়ের দ্বিগুণ।
+
+Explanation:
+ব্যাখ্যা: ঘ ধরো [math]T_B=t[/math] এবং [math]T_A=2t[/math]; তাহলে [math]2t+t=15\Rightarrow t=5[/math], সুতরাং [math]T_B=5[/math] বছর, [math]T_A=10[/math] বছর। ৪০% ক্ষয় মানে অবশিষ্ট ফracশন [math]0.6[/math], এবং সাধারণ ঘন্‌পতনের সূত্রে [math]0.6=(1/2)^{\,\tau/T}[/math] হওয়ায় [math]\tau=T\frac{\ln 0.6}{\ln 0.5}\approx0.737T[/math]। তাই সময়টি হাফ-লাইফের অনুপাতে এবং [math]T_A=2T_B[/math] হওয়ায় [math]\tau_A=2\tau_B[/math] (প্রায় [math]7.37[/math] বছর বনাম [math]3.69[/math] বছর), অর্থাৎ উভয়ের জন্য ৪০% ক্ষয় হতে ভিন্ন সময় লাগে।
+
+Sub-Questions:
+

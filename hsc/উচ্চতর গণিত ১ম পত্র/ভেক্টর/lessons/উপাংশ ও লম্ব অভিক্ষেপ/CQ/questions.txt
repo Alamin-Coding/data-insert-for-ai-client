@@ -1,0 +1,674 @@
+================================================================================
+Question #1 (ID: 407689)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\bar{a}=\hat{i}+\hat{j}+\hat{k}, \bar{b}=\sqrt{3} \hat{i}+3 \hat{j}-2 \hat{k}[/math] হয় তাহলে [math]\overline{\bar{b}}[/math] ভেক্টরের উপর [math]\overline{\mathrm{a}}[/math] ভেক্টরের অভিক্ষেপ বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\frac{\sqrt{3}+1}{4})[/math]
+ [math]\bar{a}=\hat{i}+\hat{j}+\hat{k}, \bar{b}=\sqrt{3} \hat{i}+3 \hat{j}-2 \hat{k}[/math]
+ [math]\frac{(\hat{\mathrm{i}}+\hat{\mathrm{j}}+\hat{\mathrm{k}})(\sqrt{3} \hat{\mathrm{i}}+3 \hat{\mathrm{j}}-2 \hat{\mathrm{k}})}{\sqrt{(\sqrt{3})^{2}+3^{2}+2^{2}}}=\frac{\sqrt{3}+3-2}{\sqrt{16}}=\frac{\sqrt{3}+1}{4} \text { (Ans.) }[/math]
+
+[Image]
+
+
+Explanation:
+ব্যাখ্যা: অভিক্ষেপের স্কেলার মান দেওয়া সূত্র [math]\text{comp}_{\bar b}\bar a=\dfrac{\bar a\cdot\bar b}{|\bar b|}[/math]; এখানে [math]\bar a\cdot\bar b=1\cdot\sqrt{3}+1\cdot3+1\cdot(-2)=\sqrt{3}+1[/math] এবং [math]|\bar b|=\sqrt{(\sqrt{3})^2+3^2+(-2)^2}=\sqrt{16}=4[/math], ফলে স্কেলার অভিক্ষেপ [math]\dfrac{\sqrt{3}+1}{4}[/math]. যদি ভেক্টর অভিক্ষেপ চান তাহলে [math]\mathrm{proj}_{\bar b}\bar a=\dfrac{\bar a\cdot\bar b}{|\bar b|^2}\,\bar b=\dfrac{\sqrt{3}+1}{16}\,\bar b[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 407688)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\underline{\mathrm{a}}+\underline{\mathrm{b}}+\underline{\mathrm{c}}=\underline{0}[/math] এবং [math]|\underline{\mathrm{a}}|=3,|\underline{\mathrm{b}}|=5,|\underline{\mathrm{c}}|=7[/math] হয়, তাহলে [math]\underline{\mathbf{a}}[/math] এবং [math]\underline{b}[/math] এর মধ্যবর্তী কোণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে [math]\underline{a}+\underline{b}+\underline{c}=0 \Rightarrow \underline{a}+\underline{b}=-\underline{c}[/math]
+ধরি, [math]\underline{\mathbf{a}}[/math]
+ ও [math]\underline{\mathrm{b}}[/math]
+ এর মধ্যবর্তী কোণ [math]=\theta[/math]
+সুতরাং [math](|\mathrm{a}|)^{2}+(|\mathrm{b}|)^{2}+2 \cdot|\mathrm{a}| \cdot|\mathrm{b}| \cdot \cos \theta=(|\mathrm{c}|)^{2} \Rightarrow 3^{2}+5^{2}+2 \times 3 \times 5 \cos \theta=7^{2}[/math]
+ [math]\Rightarrow \cos \theta=\frac{7^{2}-3^{2}-5^{2}}{2 \times 3 \times 5}=\frac{1}{2} \Rightarrow \theta=\cos ^{-1}\left(\frac{1}{2}\right)=\frac{\pi}{3} \text { (Aus.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\underline{\mathbf{c}}=-(\underline{\mathbf{a}}+\underline{\mathbf{b}})[/math] হওয়ায় [math]|\underline{\mathbf{c}}|^2=|\underline{\mathbf{a}}+\underline{\mathbf{b}}|^2=|\underline{\mathbf{a}}|^2+|\underline{\mathbf{b}}|^2+2\underline{\mathbf{a}}\cdot\underline{\mathbf{b}}[/math]. এখানে সংখ্যাগুলি বসালে [math]49=9+25+2\underline{\mathbf{a}}\cdot\underline{\mathbf{b}}[/math], তাই [math]\underline{\mathbf{a}}\cdot\underline{\mathbf{b}}=\tfrac{15}{2}[/math]. অতএব [math]\cos\theta=\dfrac{\underline{\mathbf{a}}\cdot\underline{\mathbf{b}}}{|\underline{\mathbf{a}}||\underline{\mathbf{b}}|}=\dfrac{15/2}{3\cdot5}=\tfrac{1}{2}[/math] এবং [math]\theta=60^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 407687)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+ধনাত্মক x-অক্ষের সঙ্গে ভেক্টর [math]\bar{A}=-\sqrt{3} i+j[/math] যে কোণ উৎপন্ন করে তা নির্ণয় কর । -
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\theta=\cos ^{-1}\left(\frac{A_{x}}{\sqrt{A_{x}^{2}+A_{y}^{2}}}\right)=\cos ^{-1}\left(\frac{-\sqrt{3}}{\sqrt{3+1}}\right)=\cos ^{-1}\left(\frac{-\sqrt{3}}{2}\right) ; \theta=150^{\circ}[/math]অবস্থান ২য় চতুর্ভাগে
+[Image]
+
+
+Explanation:
+সমীকরণ অনুযায়ী [math]\theta=\tan^{-1}\left(\frac{1}{-\sqrt{3}}\right)=-\frac{\pi}{6}[/math], কিন্তু ভেক্টরের x-ঘটক নেগেটিভ এবং y-ঘটক ধনাত্মক হওয়ায় ভেক্টরটি দ্বিতীয় চতুর্ভূজে আছে। অতএব কোণটি [math]\theta=\pi-\frac{\pi}{6}=\frac{5\pi}{6}[/math] (বা [math]150^\circ[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 407685)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{B}=2 \hat{i}-4 \hat{j}+3 \hat{k}[/math] ভেক্টর এর লম্ব দিক বরাবর [math]\vec{A}=-\hat{i}-\hat{j}+2 \hat{k}[/math] ভেক্টর এর অংশক [math]\overrightarrow{\mathrm{W}}[/math] নির্ণয় কর। অত:পর [math]\overrightarrow{\mathrm{W}}[/math] ভেক্টরের - উপর [math]\vec{A}[/math] ভেক্টরের অভিক্ষেপ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\overrightarrow{\mathrm{B}}[/math]
+ বরাবর [math]\vec{A}[/math]
+ এর অংশক, [math]\overrightarrow{A_{\mathrm{x}}}=\frac{\vec{A} \vec{B}}{|\vec{B}|} \cdot \frac{\vec{B}}{|\vec{B}|}=\frac{-2+4+6}{\sqrt{29}} \cdot \frac{2 \hat{i}-4 \hat{j}+3 \hat{k}}{\sqrt{29}}=\frac{8}{29}(2 \hat{i}-4 \hat{j}+3 \hat{k})[/math]
+ [math]\therefore \overrightarrow{\mathrm{B}}[/math]
+ এর লম্ব বরাবর [math]\vec{A}[/math]
+ এর অংশক [math]\overrightarrow{\mathrm{A}_{y}}[/math]
+এখন [math]\vec{A}=\overrightarrow{A_{x}}+\overrightarrow{A_{y}}[/math]
+ [math]\therefore \overrightarrow{\mathrm{W}}=\overrightarrow{\mathrm{A}_{\mathrm{y}}}=\overrightarrow{\mathrm{A}}-\overrightarrow{\mathrm{A}_{\mathrm{x}}}=(-\hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}})-\frac{8}{29}(2 \hat{\mathrm{i}}-4 \hat{\mathrm{j}}+3 \hat{\mathrm{k}})=-\frac{45}{29} \hat{\mathrm{i}}+\frac{3}{29} \hat{\mathrm{j}}+\frac{34}{29} \mathrm{\hat k} \text { (Ans.) }[/math]
+ [math]\overrightarrow{\mathrm{W}}[/math]
+ এর উপর [math]\overrightarrow{\mathrm{A}}[/math]
+ এর অভিক্ষেপ [math]=\frac{\overrightarrow{\mathrm{W}} \cdot \overrightarrow{\mathrm{A}}}{|\overrightarrow{\mathrm{W}}|}=\frac{\frac{45}{29}-\frac{3}{29}+\frac{68}{29}}{\frac{\sqrt{3190}}{29}}=\frac{110}{\sqrt{3190}} \text { (Ans.) }[/math]
+
+
+Explanation:
+প্রথমে [math]\overrightarrow{W}[/math] হলো [math]\vec{A}[/math]-এর [math]\vec{B}[/math] দিকের অংশ: [math]\overrightarrow{W}=\mathrm{proj}_{\vec{B}}\vec{A}=\frac{\vec{A}\cdot\vec{B}}{|\vec{B}|^2}\,\vec{B}[/math]. এখানে [math]\vec{A}\cdot\vec{B}=8[/math] এবং [math]|\vec{B}|^2=29[/math], তাই [math]\overrightarrow{W}=\frac{8}{29}(2\hat{i}-4\hat{j}+3\hat{k})=\frac{16}{29}\hat{i}-\frac{32}{29}\hat{j}+\frac{24}{29}\hat{k}[/math]. যেহেতু [math]\overrightarrow{W}[/math]ই [math]\vec{A}[/math]-এর সেই সমান্তরাল অংশ, সেটির উপর [math]\vec{A}[/math]-এর অভিক্ষেপ আবারও [math]\overrightarrow{W}[/math]ই হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 407684)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\bar{P}=x \hat{i}+y \hat{j}+2 z \hat{k},[/math] [math]\bar{Q}=y \hat{i}+3 z \hat{j}-2 x \hat{k}[/math]
+
+এবং [math]R=[/math] [math]\left[\begin{array}{ccc}x-2 y & z-y & y \\y & -z & z-y-1 \\y-1 & z-2 & x-3\end{array}\right][/math]
+
+Options:
+ক. ভেক্টর পদ্ধতিতে [math]\mathrm{A}(0,1,2)[/math] ও [math]\mathrm{B}(-1,3,0)[/math] বিন্দু দুইটির দূরত্ব নির্ণয় কর।
+খ. [math]\left[\begin{array}{cc}x-1 & 3 \\z & y+1\end{array}\right][/math] [math]=\left[\begin{array}{cc}2 & 3 \\2-z & 5-y\end{array}\right][/math]হলে, [math]\overline{\mathbf{P}}[/math] ও [math]\overline{\mathbf{Q}}[/math] এর লব্ধি ভেক্টরের উপর [math]\overline{\mathbf{P}}[/math] ভেক্টরের অভিক্ষেপ নির্ণয় কর ।
+গ. [math]x=4, y=2, z=3[/math] হলে [math]\mathrm{R}^{-1}[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\overrightarrow{\mathrm{AB}}[/math]
+ [math]=(-1-0) \hat{\mathrm{i}}+(3-1)[/math]
+ [math]\hat{\mathrm{j}}+(0-2) \hat{\mathrm{k}}[/math]
+ [math]=-\hat{\mathrm{i}}+2 \hat{\mathrm{j}}-2[/math]
+ [math]\hat{\mathrm{k}}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় দূরত্ব [math]=|\overrightarrow{\mathrm{AB}}|[/math]
+ [math]=\sqrt{(-1)^{2}+2^{2}+(-2)^{2}}=3[/math]
+ একক[math]\\[/math]
+ খদেওয়া আছে, [math]\left[\begin{array}{cc}x-1 & 3 \\z & y+1\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}2 & 3 \\2-z & 5-y\end{array}\right][/math]
+ম্যাট্রিক্সের সমতা অনুসারে, [math]x-1=2 \therefore x=3[/math]
+এবং [math]z=2-z[/math]
+ বা [math]2 z=2 \therefore z=1[/math]
+এবং [math]y+1=5-y[/math]
+ বা [math]2 y=4 \therefore y=2[/math]
+ [math]\therefore \vec{P}=3 \hat{i}+2 \hat{j}+2 \hat{k},[/math]
+ [math]\vec{Q}=2 \hat{i}+3 \hat{j}[/math]
+ [math]\cdot-6 \hat{k}[/math]
+ [math]\therefore[/math]
+ লদ্ধির ভেক্টর [math]\vec{R}[/math]
+ [math]=\vec{P}+\vec{Q}[/math]
+ [math]=3 \hat{i}+2 \hat{j}[/math]
+ [math]+2 \hat{k}+2 \hat{i}+3 \hat{j}[/math]
+ [math]-6 \hat{k}[/math]
+ [math]=5 \hat{i}+5[/math]
+ [math]\hat{j}-4 \hat{k}[/math]
+ [math]\therefore \vec{R}[/math]
+ ভেক্টরের উপর [math]\overrightarrow{\mathrm{p}}[/math]
+ ভেক্টরের অভিক্ষেপ [math]=|\overrightarrow{\mathrm{P}}| \cos \theta[/math]
+ [math]=\frac{\overrightarrow{\mathrm{R}}: \overrightarrow{\mathrm{P}}}{\overrightarrow{|\vec{R}|}}[/math]
+ [math]=\frac{15+10-8}{\sqrt{5^{2}+5^{2}+(-4)^{2}}}[/math]
+ [math]=\frac{17}{\sqrt{66}}[/math]
+ [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ [math]x=4, y=2, z=3[/math]
+ হলে [math]R=\left[\begin{array}{rrr}0 & 1 & 2 \\2 & -3 & 0 \\1 & 1 & 1\end{array}\right][/math]
+ [math]\therefore|R|[/math]
+ [math]=\left|\begin{array}{rrr}0 & 1 & 2 \\2 & -3 & 0 \\1 & 1 & 1\end{array}\right|[/math]
+ [math]=0-1(2-0)+2(2+3)[/math]
+ [math]=-2+10=8 
+eq 0[/math]
+ [math]\therefore \operatorname{adjR}[/math]
+ [math]=\begin{bmatrix}\left|\begin{array}{cc}-3 & 0 \\1 & 1\end{array}\right|-\left|\begin{array}{ll}2 & 0 \\1 & 1\end{array}\right| \quad\left|\begin{array}{cc}2 & -3 \\1 & 1\end{array}\right| \\ -\left|\begin{array}{ll}1 & 2 \\1 & 1\end{array}\right| \quad\left|\begin{array}{ll}0 & 2 \\1 & 1\end{array}\right|-\left|\begin{array}{ll}0 & 1 \\1 & 1\end{array}\right| \\ \left|\begin{array}{cc}1 & 2 \\-3 & 0\end{array}\right|-\left|\begin{array}{ll}0 & 2 \\2 & 0\end{array}\right| \quad\left|\begin{array}{cc}0 & 1 \\2 & -3\end{array}\right| \end{bmatrix}^t[/math]
+ [math]=\left[\begin{array}{rrr}-3 & -2 & 5 \\1 & -2 & 1 \\6 & 4 & -2\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rrr}-3 & 1 & 6 \\-2 & -2 & 4 \\5 & 1 & -2\end{array}\right][/math]
+ [math]\therefore \mathrm{R}^{-1}[/math]
+ [math]=\frac{\operatorname{adj} \mathrm{R}}{|\mathrm{R}|}=\frac{1}{8}[/math]
+ [math]\left[\begin{array}{rrr}-3 & 1 & 6 \\-2 & -2 & 4 \\5 & 1 & -2\end{array}\right][/math]
+ [math]\text{(Ans.)}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক দুটো বিন্দুর মধ্যে ব্যবধান হল [math]\sqrt{(-1-0)^2+(3-1)^2+(0-2)^2}=\sqrt{1+4+4}=\sqrt{9}=3[/math], তাই দূরত্ব [math]3[/math]।
+
+খ ম্যাট্রিক্সের সদৃশতা থেকে [math]x-1=2,\;z=2-z,\;y+1=5-y[/math] ফলে [math]x=3,\;z=1,\;y=2[/math]. তখন [math]\overline{P}=3\hat{i}+2\hat{j}+2\hat{k},\;\overline{Q}=2\hat{i}+3\hat{j}-6\hat{k},\;\overline{R}=\overline{P}+\overline{Q}=5\hat{i}+5\hat{j}-4\hat{k}[/math]; অভিক্ষেপ = [math]\mathrm{proj}_{\overline{R}}\overline{P}=\frac{\overline{P}\cdot\overline{R}}{\overline{R}\cdot\overline{R}}\overline{R}=\frac{17}{66}(5\hat{i}+5\hat{j}-4\hat{k})[/math]।
+
+গ [math]x=4,y=2,z=3[/math] বসালে [math]R=\begin{pmatrix}0&1&2\\2&-3&0\\1&1&1\end{pmatrix}[/math], [math]\det R=8[/math] এবং সহগ ও পরিবর্তিতকরণে পাওয়া যায় [math]R^{-1}=\frac{1}{8}\begin{pmatrix}-3&1&6\\-2&-2&4\\5&1&-2\end{pmatrix}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 407683)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ABCD একটি সামান্তরিক।
+
+
+[Image]
+
+
+Options:
+ক. ভেক্টর [math]R[/math] এর দিক বরাবর [math]Q[/math] এর অভিক্ষেপ নির্ণয় কর ৷
+খ. চিত্রে কোণ [math]\alpha[/math] এর মান নির্ণয় কর।
+গ. [math]P[/math] ভেক্টর বরাবর [math]R[/math] এর উপাংশ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কQ এর অভিক্ষেপ [math]=\mathbf{Q} \cos \theta[/math]
+ [math]=\frac{\mathbf{R} \cdot \mathbf{Q}}{\mathbf{R}}[/math]
+ [math]=\frac{(5)(3)+(3)(4)+1(-1)}{\sqrt{5^{2}+3^{2}+1^{2}}}[/math]
+ [math]=\frac{15+12-1}{\sqrt{35}}[/math]
+ [math]=\frac{26}{\sqrt{35}} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খএখন [math]\mathbf{P} \cdot \mathbf{Q}[/math]
+ [math]=(2 \hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}})[/math]
+ [math]\cdot(3 \hat{\mathrm{i}}+4 \hat{\mathrm{j}}-\hat{\mathrm{k}})[/math]
+ [math]6-4-2=0[/math]
+সুতরাং [math]\alpha=90^{\circ}[/math]
+ [math]\\[/math]
+ গভেক্টর বরাবর R এর উপাংশ [math](\mathbf{R} \cos \theta) \hat{\mathrm{P}}[/math]
+ [math]=(\mathrm{R} . \mathrm{P}) \hat{\mathrm{P}}[/math]
+ যখন [math]\hat{\mathrm{P}}[/math]
+ [math]=\frac{P}{|\mathbf{P}|}[/math]
+ [math]=\frac{2 \mathrm{i}-\mathrm{j}+2 \mathrm{k}}{3}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় উপাংশ [math]=(\mathbf{R} \cdot \mathbf{P}) \hat{\mathrm{P}}[/math]
+ [math]=\frac{(5 \mathrm{i}+3 \mathrm{j}+\mathrm{k}) \cdot(2 \mathrm{i}-\mathrm{j}+2 \mathrm{k})}{3} \hat{\mathrm{P}}[/math]
+ [math]=\left(\frac{10-3+2}{3}\right)[/math]
+ [math]\hat{\mathrm{P}}=3 \hat{\mathrm{P}}[/math]
+ [math]=2 \hat{\mathrm{i}}-\hat{\mathrm{j}}[/math]
+ [math]+2 \hat{\mathrm{k}} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ভেক্টর [math]R[/math] এর দিক বরাবর [math]Q[/math] এর স্কেলার অভিক্ষেপ হচ্ছে [math]\dfrac{Q\cdot R}{|R|}[/math] এবং ভেক্টরীয় অভিক্ষেপ হচ্ছে [math]\dfrac{Q\cdot R}{|R|^2}\,R[/math]; কারণ ডট প্রোডাক্টই কোনো ভেক্টরের অন্যটির দিকে পতনের মাত্রা নির্ণয় করে। 
+
+খ চিত্রে কোণ [math]\alpha[/math] নির্ণয় করতে ব্যবহার করো [math]\cos\alpha=\dfrac{P\cdot R}{|P|\,|R|}গ [math]P[/math] ভেক্টর বরাবর [math]R[/math] এর স্কেলার উপাংশ হচ্ছে [math]\dfrac{R\cdot P}{|P|}[/math] এবং ভেক্টরীয় উপাংশ হচ্ছে [math]\dfrac{R\cdot P}{|P|^2}\,P[/math]; এটি [math]R[/math] কে [math]P[/math]-এর দিকভাগে ভাগ করার সরাসরি সূত্র।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 407682)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\text { OACB }[/math] একটি সামান্তরিক । যেখানে [math]P=6 \hat{i}+5 \hat{j}-3 \hat{k}[/math] এবং [math]Q=4 \hat{i}-3 \hat{j}+2 \hat{k}[/math]
+
+
+[Image]
+
+
+Options:
+ক. [math]P – Q[/math] এর দিক বরাবর একক ভেক্টর নির্ণয় কর।
+খ. [math]P[/math] এবং [math]Q[/math] এর মধ্যবর্তী কোণ নির্ণয় কর ।
+গ. [math]P[/math] বরাবর [math]R[/math] এর অংশক নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\mathbf{P}=6 \hat{\mathrm{i}}+5 \hat{\mathrm{j}}[/math]
+ [math]-3 \hat{\mathrm{k}}, \mathbf{Q}[/math]
+ [math]=4 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}[/math]
+ [math]+2 \hat{\mathrm{k}}[/math]
+ [math]\therefore \mathbf{P}-\mathbf{Q}[/math]
+ [math]=6 \hat{\mathrm{i}}+5 \hat{\mathrm{j}}-3 \hat{k}[/math]
+ [math]-4 \hat{\mathrm{i}}+3 \hat{j}[/math]
+ [math]-2 \hat{k}[/math]
+ [math]=2 \hat{i}[/math]
+ [math]+8 \hat{j}[/math]
+ [math]-5 \hat{k}[/math]
+ [math]\therefore \mathbf{P}-\mathbf{Q}[/math]
+ এর একক ভেক্টর [math]=\frac{\mathbf{P}-\mathbf{Q}}{|\mathbf{P}-\mathbf{Q}|}[/math]
+ [math]=\frac{2 \hat{\mathrm{i}}+8 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}}{\sqrt{4+64+25}}[/math]
+ [math]=\frac{2 \hat{i}+8 \hat{j}-5 \hat{k}}{\sqrt{93}}[/math]
+ [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খআমরা জানি, [math]\mathbf{P} \cdot \mathbf{Q}=|\mathbf{P}||\mathbf{Q}| \cos \theta[/math]
+যেখানে [math]P[/math]
+ ও [math]Q[/math]
+ এর মধ্যবর্তী কোণ [math]\theta[/math]
+এখন, [math]P \cdot Q[/math]
+ [math]=(6 \hat{i}+5 \hat{j}-3 \hat{k})[/math]
+ [math]\cdot(4 \hat{i}-3 \hat{j}+2 \hat{k})[/math]
+ [math]=24-[/math]
+ [math]15-6=3[/math]
+ [math]|\mathrm{P}|[/math]
+ [math]=\sqrt{6^{2}+5^{2}+(-3)^{2}}[/math]
+ [math]=\sqrt{70}[/math]
+এবং [math]|Q|[/math]
+ [math]=\sqrt{4^{2}$$+(-3)^{2}+2^{2}}[/math]
+ [math]=\sqrt{29}[/math]
+ [math]\therefore 3[/math]
+ [math]=\sqrt{70} \cdot \sqrt{29}[/math]
+ [math]\cdot \cos \theta[/math]
+ [math]=\cos \theta=\frac{3}{\sqrt{2030}}[/math]
+ [math]= \theta[/math]
+ [math]=\cos ^{-1}\left(\frac{3}{\sqrt{2030}}\right)[/math]
+ [math]\therefore[/math]
+ নির্ণেয় মধ্যবর্তী কোণ [math]=\cos ^{-1}[/math]
+ [math]\left(\frac{3}{\sqrt{2030}}\right)[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]P=6 \hat{i}+5 \hat{j}-3 \hat{k}[/math]
+ এবং [math]Q=4 \hat{i}-3 \hat{j}+2 \hat{k}[/math]
+এখানে, [math]P[/math]
+ ও [math]Q[/math]
+ এর লব্ধি [math]= R[/math]
+ [math]\therefore \mathbf{R}[/math]
+ [math]=\mathbf{P}+\mathbf{Q}[/math]
+ [math]=(6 \hat{i}+5 \hat{j}-3 \hat{k})[/math]
+ [math]+(4 \hat{i}[/math]
+ [math]-3 \hat{j}+2 \hat{k})[/math]
+ [math]=10 \hat{i}+2[/math]
+ [math]\hat{j}-\hat{k}[/math]
+ [math]\therefore \mathbf{P}[/math]
+ বরাবর R এর অভিক্ষেপ : [math]=\frac{\mathbf{R} \mathbf{P}}{|\mathbf{P}|}[/math]
+ [math]=\frac{(10 \hat{i}+2 \hat{j}-\hat{k}) \cdot(6 \hat{i}+5 \hat{j}-3 \hat{k})}{\sqrt{36+25+9}}[/math]
+ [math]=\frac{60+10+3}{\sqrt{70}}[/math]
+ [math]=\frac{73}{\sqrt{70}}[/math]
+ [math]\therefore[/math]
+ P বরাবর R এর অংশক [math]=\frac{73}{\sqrt{70}}[/math]
+ [math]\left(\frac{\mathbf{P}}{|\mathbf{P}|}\right)[/math]
+ [math]=\frac{73}{\sqrt{70}}\left(\frac{6 \hat{i}+5 \hat{j}-3 \hat{k}}{\sqrt{70}}\right)[/math]
+ [math]=\frac{73}{70}(6 \hat{i}+5 \hat{j}-3 \hat{k})[/math]
+ [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক প্রথমে [math]P-Q=(6-4)\hat{i}+(5-(-3))\hat{j}+(-3-2)\hat{k}=2\hat{i}+8\hat{j}-5\hat{k}[/math] এবং এর মান [math]\sqrt{2^2+8^2+(-5)^2}=\sqrt{93}[/math]; তাই একক ভেক্টর [math]\frac{1}{\sqrt{93}}(2\hat{i}+8\hat{j}-5\hat{k})[/math]।
+
+খ ডট প্রোডাক্ট [math]P\cdot Q=6\times4+5\times(-3)+(-3)\times2=3[/math], মানগুলো [math]|P|=\sqrt{70},\ |Q|=\sqrt{29}[/math]; অতএব কোণ [math]\cos\theta=\dfrac{3}{\sqrt{70}\sqrt{29}}=\dfrac{3}{\sqrt{2030}}[/math], কিংবা [math]\theta=\cos^{-1}\!\left(\dfrac{3}{\sqrt{2030}}\right)[/math]।
+
+গ OACB সামান্তরিক হলে [math]R=OC=OA+OB=P+Q[/math], তাই [math]R=P+Q=10\hat{i}+2\hat{j}-\hat{k}[/math]; R-এর P বরাবর স্কেলার অংশক (scalar component) [math]\dfrac{R\cdot P}{|P|}=\dfrac{73}{\sqrt{70}}[/math] এবং ভেক্টর প্রজেকশন (component vector) [math]\dfrac{R\cdot P}{|P|^2}P=\dfrac{73}{70}P[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 407656)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{a}=-5 \hat{i}+4 \hat{k}+3 \hat{j}[/math] ভেক্টরের উপর [math]\vec{b}=\hat{i}-\hat{k}+2 \hat{j}[/math] ভেক্টরের অভিক্ষেপ কত হবে?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+a ভেক্টরের উপর b ভেক্টরের অভিক্ষেপ[math]\Rightarrow b \cos \theta[/math]
+ [math]=\frac{a \cdot b}{|a|}[/math]
+ [math]=\frac{(-5) \cdot 1+4(-1)+3(2)}{\sqrt{(-5)^{2}+4^{2}+3^{2}}}[/math]
+ [math]=\frac{-3}{\sqrt{50}}[/math]
+ [math]=\frac{-3}{5 \sqrt{2}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরের উপর অন্য ভেক্টরের অভিক্ষেপের সূত্র [math]\text{proj}_{\vec a}\vec b=\frac{\vec b\cdot\vec a}{|\vec a|^2}\vec a[/math]। এখানে [math]\vec a=(-5)\hat i+3\hat j+4\hat k,\ \vec b=1\hat i+2\hat j-1\hat k[/math], তাই [math]\vec b\cdot\vec a=-3[/math] এবং [math]|\vec a|^2=50[/math], ফলে গুণক [math]-3/50[/math] এবং [math]\text{proj}_{\vec a}\vec b=\frac{-3}{50}\vec a=\frac{3}{10}\hat i-\frac{9}{50}\hat j-\frac{6}{25}\hat k[/math]; অতএব উত্তর B সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 407667)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{B}=2 \hat{\mathbf{i}}-2 \hat{\mathbf{j}}+\hat{\mathbf{k}}[/math] ভেক্টরের উপর [math]A=6 \hat{i}+3 \hat{j}+2 \hat{k}[/math] ভেক্টরের অভিক্ষেপ কত?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\text { Projection }[/math]
+ [math]=\frac{\vec{A} \cdot \vec{B}}{|\vec{B}|}[/math]
+ [math]=\frac{6 \times 2-3 \times 2+2}{3}[/math]
+ [math]=\frac{8}{3}[/math]
+
+
+Explanation:
+ভেক্টরের উপর অভিক্ষেপের সূত্র হল [math]\text{proj}_{\mathbf{B}}\mathbf{A}=\frac{\mathbf{A}\cdot\mathbf{B}}{\mathbf{B}\cdot\mathbf{B}}\mathbf{B}[/math]; এখানে [math]\mathbf{A}\cdot\mathbf{B}=6\cdot2+3\cdot(-2)+2\cdot1=8[/math] এবং [math]\mathbf{B}\cdot\mathbf{B}=2^2+(-2)^2+1^2=9[/math].  
+অতএব অভিক্ষেপটি হচ্ছে [math]\frac{8}{9}\mathbf{B}=\frac{8}{9}(2\hat{i}-2\hat{j}+\hat{k})=\frac{16}{9}\hat{i}-\frac{16}{9}\hat{j}+\frac{8}{9}\hat{k}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 407661)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{P}}=\hat{\mathbf{i}}-3 \hat{\mathbf{j}}+\hat{\mathbf{k}}[/math] এবং [math]\vec{Q}[/math] [math]=2 \hat{i}+3 \hat{j}-2 \hat{k}[/math] হলে, [math]\mathrm {\overrightarrow{\mathbf{P}} \times \overrightarrow{\mathbf{Q}}=}[/math] কত?
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]\overrightarrow{\mathbf{P}} \times \overrightarrow{\mathbf{Q}}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & -3 & 1 \\2 & 3 & -2\end{array}\right|[/math]
+ [math]\Rightarrow \hat{\mathrm{i}}(6-3)[/math]
+ [math]+\hat{\mathrm{j}}(2+2)[/math]
+ [math]+\hat{\mathrm{k}}(3+6)[/math]
+ [math]=3 \hat{i}+4 \hat{j}[/math]
+ [math]+9 \hat{k}[/math]
+
+
+Explanation:
+[Pmath]\overrightarrow{P}=\hat{i}-3\hat{j}+\hat{k}[/Pmath] এবং [Pmath]\overrightarrow{Q}=2\hat{i}+3\hat{j}-2\hat{k}[/Pmath] হলে ক্রস প্রোডাক্ট ডিটারমিন্যান্ট হিসেবে হিসাব করলে:
+[Pmath]\overrightarrow{P}\times\overrightarrow{Q}=\begin{vmatrix}\hat{i}&\hat{j}&\hat{k}\\1&-3&1\\2&3&-2\end{vmatrix}
+=\hat{i}(6-3)-\hat{j}(-2-2)+\hat{k}(3+6)=3\hat{i}+4\hat{j}+9\hat{k}.[/Pmath]
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 407681)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: [math]A=[/math] [math]\left[\begin{array}{rrr}1 & 2 & 0 \\-1 & 1 & 3 \\2 & -3 & 1\end{array}\right][/math]
+
+দৃশ্যকল্প-২: [math]\mathbf{a}=\hat{\mathrm{i}}+2 \hat{\mathrm{j}}[/math] এবং [math]\mathbf{b}=-\hat{\mathrm{i}}+\hat{\mathrm{j}}+3 \hat{\mathrm{k}}[/math]
+
+Options:
+ক. [math]a[/math] ভেক্টর বরাবর [math]b[/math] ভেক্টরের অভিক্ষেপ নির্ণয় কর।
+খ. [math]|A+x| \mid=0[/math] হলে x এর মান নির্ণয় কর ।
+গ. [math]a[/math] ও [math]b[/math] এর ওপর লম্ব এরূপ একক ভেক্টর নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কa ভেক্টর বরাবর b ভেক্টরের অভিক্ষেপ [math]=\mathrm{b} \cos \theta[/math]
+ [math]=\frac{a \cdot b}{a}=\frac{(\hat{i}+2 \hat{j}) \cdot(-\hat{i}+\hat{j}+3 \hat{k})}{\sqrt{1^{2}+2^{2}}}[/math]
+ [math]=\frac{-1+2+0}{\sqrt{5}}[/math]
+ [math]=\frac{1}{\sqrt{5}}[/math]
+ [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A=[/math]
+ [math]\left[\begin{array}{rrr}1 & 2 & 0 \\-1 & 1 & 3 \\2 & -3 & 1\end{array}\right][/math]
+ [math]\therefore A+x I =\left[\begin{array}{rrr}1 & 2 & 0 \\-1 & 1 & 3 \\2 & -3 & 1\end{array}\right][/math]
+ [math]+x\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}1 & 2 & 0 \\-1 & 1 & 3 \\2 & -3 & 1\end{array}\right][/math]
+ [math]+\left[\begin{array}{lll}x & 0 & 0 \\0 & x & 0 \\0 & 0 & x\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}1+x & 2 & 0 \\-1 & 1+x & 3 \\2 & -3 & 1+x\end{array}\right][/math]
+প্রশ্নমতে, [math]|A+x I|=0[/math]
+ [math]= \left|\begin{array}{ccc}1+x & 2 & 0 \\-1 & 1+x & 3 \\ 2 & -3 & 1+x\end{array}\right|=0[/math]
+ [math]= (1+x)\left\{(1+x)^{2}+9\right\}[/math]
+ [math]-2(-1-x-6)+0=0[/math]
+ [math]= (1+x)^{3}[/math]
+ [math]+9(1+x)[/math]
+ [math]-2(-x-7)=0[/math]
+ [math]= 1+3 x+3 x^{2}[/math]
+ [math]+x^{3}+9[/math]
+ [math]+9 x+2 x+14=0[/math]
+ [math]= x^{3}+3 x^{2}[/math]
+ [math]+14 x+24=0[/math]
+ [math]= x^{3}+2 x^{2}+x^{2}[/math]
+ [math]+2 x+12 x+24=0[/math]
+ [math]= \mathrm{x}^{2}(\mathrm{x}+2)+\mathrm{x}(\mathrm{x}+2)[/math]
+ [math]+12(\mathrm{x}+2)=0[/math]
+ [math]\therefore(x+2)[/math]
+ [math]\left(x^{2}+x+12\right)=0[/math]
+হয়, [math]\mathrm{x}+2=0 \therefore \mathrm{x}=-2[/math]
+অথবা, [math]x^{2}+x+12=0[/math]
+ [math]\therefore x=\frac{-1 \pm \sqrt{(1)^{2}-4.1 .12}}{2.1}[/math]
+ [math]=\frac{-1 \pm \sqrt{-47}}{2}[/math]
+ইহা গ্রহণযোগ্য নয় ।কারণ x এর মান কাল্পনিক ।[math]\therefore[/math]
+ নির্ণেয় মান, [math]x=-2 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ [math]\mathbf{a} \times \mathbf{b}[/math]
+ [math]=\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & 2 & 0 \\-1 & 1 & 3\end{array}\right|[/math]
+ [math]=6 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}[/math]
+ [math]+(1+2)[/math]
+ [math]\hat{\mathrm{k}}=6 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+3 \hat{\mathrm{k}}[/math]
+ [math]\therefore \mathbf{a}[/math]
+ ও b এর ওপর লম্ব এরূপ একক ভেক্টর [math]= \pm \frac{\mathbf{a} \times \mathbf{b}}{|\mathbf{a} \times \mathbf{b}|}[/math]
+ [math]= \pm \frac{6 \hat{i}-3 \hat{j}+3 \hat{k}}{\sqrt{6^{2}+(-3)^{2}+3^{2}}}[/math]
+ [math]= \pm \frac{6 \hat{i}-3 \hat{j}+3 \hat{k}}{3 \sqrt{6}}[/math]
+ [math]= \pm \frac{1}{\sqrt{6}}[/math]
+ [math](2 \hat{i}-\hat{j}+\hat{k})[/math]
+ [math]\text { (Áns.) }[/math]
+
+
+Explanation:
+ক অভিক্ষেপের সূত্র হচ্ছে [math]\mathrm{proj}_{\mathbf a}\mathbf b=\frac{\mathbf b\cdot\mathbf a}{\mathbf a\cdot\mathbf a}\mathbf a[/math]; এখানে [math]\mathbf b\cdot\mathbf a=(-1)\cdot1+1\cdot2+3\cdot0=1[/math] এবং [math]\mathbf a\cdot\mathbf a=1^2+2^2=5[/math], তাই অভিক্ষেপ [math]\frac{1}{5}\mathbf a=\frac{1}{5}\hat{\imath}+\frac{2}{5}\hat{\jmath}[/math]।
+
+খ শর্ত [math]\det(A+xI)=0[/math] দিলে নির্ণায়ক গণনা করে পাওয়া যায় [math]x^3+3x^2+14x+24=0[/math], যার একটি বাস্তব মূল [math]x=-2[/math] (বাকি দুটি মূল জটিল: [math]x=\frac{-1\pm i\sqrt{47}}{2}[/math])।
+
+গ লম্ব একক ভেক্টর পাওয়া যায় [math]\mathbf a\times\mathbf b=(6,-3,3)=3(2,-1,1)[/math] থেকে; এর মাপ [math]3\sqrt{6}[/math], সুতরাং একক ভেক্টরগুলো হল [math]\pm\frac{1}{\sqrt{6}}(2,-1,1)=\pm\frac{2\hat{\imath}-\hat{\jmath}+\hat{\mathbf k}}{\sqrt{6}}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 407640)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Sylhet Agricultural University
+--------------------------------------------------------------------------------
+Question:
+এক বিন্দুতে [math]45^{\circ}[/math] কোণে ক্রিয়ারত [math]P[/math] ও [math]\sqrt{2} \mathrm{~N}[/math] বলের লব্ধি [math]\sqrt{10} \mathrm{~N}[/math] হলে [math]P[/math] এর মান কোনটি?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\sqrt{10}[/math]
+ [math]=\sqrt{P^{2}+2+2 \cdot P \cdot \sqrt{2} \cos 45^{\circ}}[/math]
+ [math]\Rightarrow 10[/math]
+ [math]=P^{2}+2+2 P[/math]
+ [math]\Rightarrow \mathrm{P}^{2}+2 \mathrm{P}-8[/math]
+ [math]=0 \quad[/math]
+ [math]\therefore \mathrm{P}[/math]
+ [math]=2,-4 \quad \therefore \mathrm{P}[/math]
+ [math]=2[/math]
+
+
+Explanation:
+ব্যাখ্যা: লব্ধির সূত্র (কসাইন আইন) ব্যবহার করলে [math]R^2 = P^2 + (\sqrt{2})^2 + 2P\sqrt{2}\cos45^\circ[/math], যা সরলীকরণে হয় [math]R^2 = P^2 + 2 + 2P[/math]. এখানে [math]R=\sqrt{10}[/math] দিলে [math]P^2+2P+2=10 \Rightarrow P^2+2P-8=0[/math], সমাধানে [math]P=2[/math] (ধনাত্মক মান), তাই [math]P=2\ \text{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 407622)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathbf{A}}=2 \hat{\mathbf{i}}+\hat{\mathbf{j}}+\hat{\mathbf{k}}, \overrightarrow{\mathbf{B}}=\hat{\mathbf{i}}-\hat{\mathbf{j}}+2 \hat{\mathbf{k}}[/math] হলে [math]\overrightarrow{\mathbf{A}}[/math] এর উপর [math]\vec{B}[/math] এর লম্ব অভিক্ষেপ কত?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]\vec{A}[/math]
+ ভেক্টরের উপর [math]\vec{B}[/math]
+ ভেক্টরের অভিক্ষেপ [math]=B \cos \theta[/math]
+ [math]=\frac{\vec{A} \cdot \vec{B}}{|\vec{A}|}[/math]
+ [math]\Rightarrow\frac{2-1+2}{\sqrt{2^{2}+1^{2}+1^{2}}}[/math]
+ [math]=\frac{3}{\sqrt{6}}[/math]
+ [math]=\frac{3}{\sqrt{2} \cdot \sqrt{3}}[/math]
+ [math]=\sqrt{\frac{3}{2}}[/math]
+
+
+Explanation:
+ব্রহ্মাঙ্কগুলো গণনা করলে [math]\overrightarrow{A}\cdot\overrightarrow{B}=3[/math] ও [math]\overrightarrow{A}\cdot\overrightarrow{A}=6[/math], তাই সমান্তরাল অবয়ব [math]\frac{3}{6}\overrightarrow{A}=\tfrac12\overrightarrow{A}=(1,\tfrac12,\tfrac12)[/math]. লম্ব অংশ হবে [math]\overrightarrow{B}-\tfrac12\overrightarrow{A}=(0,-\tfrac32,\tfrac32)[/math] এবং তার দৈর্ঘ্য [math]\sqrt{0^2+(-\tfrac32)^2+(\tfrac32)^2}=\tfrac{3\sqrt{2}}{2}[/math], অতএব উত্তর A সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 407624)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{A}=2 \hat{\mathbf{i}}+\hat{\mathbf{j}}+\hat{\mathbf{k}}, \overrightarrow{\mathbf{B}}=\hat{\mathbf{i}}-\hat{\mathbf{j}}+2 \hat{\mathbf{k}}[/math] হলে [math]\overrightarrow{\mathrm{A}}[/math] এর উপর [math]\overrightarrow{\mathrm{B}}[/math] এর লম্ব অভিক্ষেপ কত?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+[math]\vec{A}[/math]
+ ভেক্টরের উপর [math]\vec{B}[/math]
+ ভেক্টরের অভিক্ষেপ [math]=B \cos \theta=\frac{\vec{A} \cdot \vec{B}}{|\vec{A}|}[/math]
+ [math]=\frac{2-1+2}{\sqrt{2^{2}+1^{2}+1^{2}}}[/math]
+ [math]=\frac{3}{\sqrt{6}}[/math]
+ [math]=\frac{3}{\sqrt{2} \cdot \sqrt{3}}[/math]
+ [math]=\sqrt{\frac{3}{2}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\mathbf A\cdot\mathbf B=3[/math] এবং [math]|\mathbf A|^2=6[/math], তাই A তে B-র সমান্তরাল অভিক্ষেপ [math]\mathrm{proj}_A\mathbf B=\frac{3}{6}\mathbf A=\frac{1}{2}\mathbf A=[1,\tfrac{1}{2},\tfrac{1}{2}][/math]; ফলে লম্ব অংশটি হলো [math]\mathbf B-\mathrm{proj}_A\mathbf B=(1,-1,2)-(1,\tfrac{1}{2},\tfrac{1}{2})=(0,-\tfrac{3}{2},\tfrac{3}{2}).[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 407631)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020, 2022-2023 | Boards:  | Tags: University of Dhaka (A Unit), University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{b}}=6 \hat{\mathrm{i}}+7 \hat{\mathrm{j}}-6 \hat{\mathrm{k}}[/math] ভেক্টর বরাবর [math]\vec{a}=2 \hat{i}-2 \hat{j}+\hat{k}[/math] ভেক্টরের উপাংশ হলো-
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\text { Component of } \vec{a} \text { along } \vec{b}[/math]
+ [math]=\frac{\vec{a} \cdot \vec{b}}{|\vec{b}|} \hat{b}=\frac{\vec{a} \cdot \vec{b}}{|\vec{b}|}[/math]
+ [math]\times \frac{\vec{b}}{|\vec{b}|}[/math]
+ [math]=\frac{\vec{a} \cdot \vec{b}}{b^{2}} \vec{b}[/math]
+ [math]=\frac{6 \times 2-7 $$\times 2-6 \times 1}{6^{2}+7^{2}+(-6)^{2}} \vec{b}=\frac{-8}{121} \vec{b}[/math]
+ [math]\overrightarrow{\mathrm{b}}[/math]
+ ভেক্টর বরাবর [math]\overrightarrow{\mathrm{a}}[/math]
+ ভেক্টরের উপাংশ[math]=\frac{\overrightarrow{\mathrm{a}} \cdot \overrightarrow{\mathrm{b}}}{(|\overrightarrow{\mathrm{b}}|)^{2}}[/math]
+ [math]\overrightarrow{\mathrm{b}}=\frac{12-14-6}{\left(\sqrt{6^{2}+7^{2}+(-6)^{2}}\right)^{2}}[/math]
+ [math]\overrightarrow{\mathrm{b}}[/math]
+ [math]=\frac{-8}{121} \overrightarrow{\mathrm{b}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরের উপাংশ (scalar component) পাওয়ার সূত্র [math]\text{comp}_{\mathbf b}\mathbf a=\dfrac{\mathbf a\cdot\mathbf b}{|\mathbf b|}[/math]. এখানে [math]\mathbf a\cdot\mathbf b=2·6+(-2)·7+1·(-6)=-8[/math] এবং [math]|\mathbf b|=\sqrt{36+49+36}=11[/math], তাই উপাংশ = [math]-\dfrac{8}{11}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 407635)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+ভেক্টর [math]\overrightarrow{\mathrm{B}}=2 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+\hat{k}[/math] বরাবর ভেক্টর [math]\vec{A}=-\hat{i}+2 \hat{k}[/math] এর উপাংশ কত?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\text { Solve: }|\vec{A}| \cos \theta[/math]
+ [math]=\frac{\vec{A} \cdot \vec{B}}{|\vec{B}|}[/math]
+ [math]=\frac{-2+2}{\sqrt{(-1)^{2}+2^{2}}}[/math]
+ [math]=\frac{0}{\sqrt{5}}=0[/math]
+
+
+Explanation:
+A·B = [math](-1,0,2)\cdot(2,-3,1)= -2+0+2=0[/math], তাই ভেক্টরের B বরাবর scalar উপাংশ [math]\frac{A\cdot B}{|B|}=\frac{0}{|B|}=0[/math]; অর্থাৎ A এবং B পরস্পর লম্ব, ফলে উপাংশ শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 407636)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]4 \hat{\mathrm{i}}-4 \hat{\mathrm{j}}+7 \hat{\mathrm{k}}[/math] এর উপর [math]\hat{i}-2 \hat{j}+k[/math] এর লম্ব অভিক্ষেপ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\frac{19}{9})[/math]
+ [math]\frac{\vec{A} \cdot \vec{B}}{|\vec{A}|}=\frac{4+8+7}{\sqrt{4^{2}+4^{2}+7^{2}}}=\frac{19}{9}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টর [math]\mathbf{a}=4\hat{i}-4\hat{j}+7\hat{k}[/math] এর উপর ভেক্টর [math]\mathbf{b}=\hat{i}-2\hat{j}+\hat{k}[/math] এর লম্ব অভিক্ষেপের স্কেলার মান হল [math]\dfrac{\mathbf{b}\cdot\mathbf{a}}{|\mathbf{a}|}[/math]. এখানে [math]\mathbf{b}\cdot\mathbf{a}=19[/math] এবং [math]|\mathbf{a}|=\sqrt{81}=9[/math], অতএব লম্ব অভিক্ষেপের মান = [math]\dfrac{19}{9}[/math].
+
+Sub-Questions:
+

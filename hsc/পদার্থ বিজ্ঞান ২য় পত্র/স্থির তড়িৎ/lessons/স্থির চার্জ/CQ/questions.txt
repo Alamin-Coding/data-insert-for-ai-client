@@ -1,0 +1,305 @@
+================================================================================
+Question #1 (ID: 420719)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1 \ m[/math] ও [math]3 \ m[/math] ব্যাসার্ধ বিশিষ্ট দুটি তামার গোলককে যথাক্রমে [math]2 \ mC[/math] ও [math]-5 \ mC[/math] চার্জে চার্জিত করে পরস্পরের সংস্পর্শে রাখা হলো। তামারা আঃ তাপ [math]380 \ Jkg^{-1}K^{-1}[/math] ও ঘনত্ব [math]8950 \ kgm^{-3}[/math]
+
+Options:
+ঘ. গোলকদ্বয়কে সংযুক্ত করায় পূর্বের ও পরের তাপমাত্রার পার্থক্য নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ঘ স্পিয়ারগুলো সংস্পর্শ করলে সম্ভাব্যতা সমান হয় এবং মোট ধনাত্মক চার্জ ধ্রুব থাকে, তাই [math]Q_{\text{total}}=2-5=-3\ \text{mC}[/math] ও [math]Q_1:Q_2=R_1:R_2=1:3[/math], ফলে [math]Q_{1f}=-0.75\times10^{-3}\ \text{C},\;Q_{2f}=-2.25\times10^{-3}\ \text{C}[/math]. মুক্ত শক্তি পরিবর্তনটি স্ব-শক্তির যোগফল থেকে বের করা হয় যেখানে [math]U=\sum \dfrac{Q^2}{8\pi\varepsilon_0 R}[/math]; গণনায় মুক্ত শক্তি ≈ [math]4.53\times10^{4}\ \text{J}[/math] বের হয় যা তাপে রূপান্তরিত হয়। তাপগত উষ্ণতার পরিবর্তন [math]\Delta T=\dfrac{\Delta U}{(m_1+m_2)c}[/math] ব্যবহার করে (মাসগুলো = [math]\rho\cdot\frac{4}{3}\pi R^3[/math]) হিসাব করলে পাওয়া যায় প্রায় [math]\Delta T\approx 1.14\times10^{-4}\ \text{K}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 420716)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]q_{1}=24 n C, q_{2}=-24 \mathrm{nc}[/math] এবং [math]d = 2 \ m[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. [math]A[/math] বিন্দুতে [math]q_3=12 \ nC[/math] চার্জ রাখা হলে সিস্টেমটিতেশক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+ধরা যাক, প্রথমে B বিন্দুতে ৭, চার্জ স্থাপন করা হলো। আগে থেকে আশপাশে কোনো চার্জ না থাকায় এ চার্জ স্থাপন করতে কোনো কাজ হবে না। B বিন্দুতে ৭, চার্জের জন্য C বিন্দুতে বিভব,[math]\mathrm{V}_{1}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{1}}{\mathrm{~d}}[/math]
+এখন, C বিন্দুতে q, চার্জ স্থাপন করতে কৃত কাজ বা সঞ্চিত শক্তি,[math]\begin{aligned}\mathrm{U}_{\mathrm{BC}} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{1} \mathrm{q}_{2}}{\mathrm{~d}} \\& =\left(9 \times 10^{9} \mathrm{~N} \cdot \mathrm{m}^{2} \cdot \mathrm{C}^{-2}\right) \frac{\left(24 \times 10^{-9} \mathrm{C}\right)\left(-24 \times 10^{-9} \mathrm{C}\right)}{2 \mathrm{~m}} \\& =-2592 \times 10^{-6} \mathrm{~J}\end{aligned}[/math]
+সুতরাং, সিস্টেমটিতে সঞ্ছিত শক্তির পরিমাণ ,[math]\begin{aligned}\mathrm{U} & =\mathrm{U}_{\mathrm{BC}}+\mathrm{U}_{\mathrm{BA}}+\mathrm{U}_{\mathrm{CA}} \\& =-2.592 \times 10^{-6} \mathrm{~J}+1.296 \times 10^{-6} \mathrm{~J}-1.296 \times 10^{-6} \mathrm{~J} \\& =-2.592 \times 10^{-6} \mathrm{~J} .\end{aligned}[/math]
+ঋণাত্মক চিহ্নের অর্থ হলো এখানে সমগ্র প্রক্রিয়ায় কোনো শক্তি ব্যয় হবে না, বরং শক্তি পাওয়া যাবে । -
+
+Explanation:
+ঘ কারণ A হচ্ছে q1 ও q2 এর মাঝবিন্দু হলে q3 থেকে q1 ও q2-র সঙ্গে হওয়া শক্তি সমান মাত্রা-প্রতীক বিপরীতভাবে বাতিল হয়, তাই মোট শক্তি কেবল q1 ও q2-র অন্তর্গত থাকে। 
+[math]U=k\frac{q_1q_2}{d}=9\times10^{9}\frac{(24\times10^{-9})(-24\times10^{-9})}{2}=-2.59\times10^{-6}\ \mathrm{J}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 420717)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি চার্জিত গোলাকার পরিবাহীর ব্যাস [math]1 \ m[/math] এবং এতে চার্জের পরিমাণ [math]6 \mu C[/math]।
+
+Options:
+গ. গোলকের পৃষ্ঠে চার্জের তল ঘনত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গগোলকের পৃষ্ঠে চার্জের তল ঘনত্ব [math]\sigma[/math]
+ হলে,এখানে, গোলকের চার্জ,[math]\begin{array}{l}q=6 \mu \mathrm{C} \\=6 \times 10^{-5} \mathrm{C}\end{array}[/math]
+গোলকের ব্যাসার্ধ, [math]\begin{array}{l}r=\frac{1}{2} m \\=0.5 \mathrm{~m}\end{array}[/math]
+ [math]\begin{aligned}\sigma & =\frac{\mathrm{Q}}{\mathrm{A}} \\& =\frac{\mathrm{g}}{4 \pi \mathrm{r}^{2}} \\& =\frac{5 \times 10^{-6}}{4 \pi \times\left(\frac{1}{2}\right)^{2}} \\& =1.91 \times 10^{-6} \mathrm{Cm}^{-2} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: পরিবাহী গোলকের সব চার্জ তার পৃষ্ঠে থাকে এবং পৃষ্ঠ তল ঘনত্ব [math]\sigma=Q/A[/math] যেখানে [math]A=4\pi R^2[/math].  
+গ তাই [math]R=0.5\ \mathrm{m}[/math], [math]A=4\pi(0.5)^2=\pi\ \mathrm{m^2}[/math], ফলে [math]\sigma=\dfrac{6\times10^{-6}}{\pi}\ \mathrm{C/m^2}\approx1.91\times10^{-6}\ \mathrm{C/m^2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 420718)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1 \ m[/math] ও [math]3 \ m[/math] ব্যাসার্ধ বিশিষ্ট দুটি তামার গোলককে যথাক্রমে [math]2 \ mC[/math] ও [math]-5 \ mC[/math] চার্জে চার্জিত করে পরস্পরের সংস্পর্শে রাখা হলো। তামারা আঃ তাপ [math]380 \ Jkg^{-1}K^{-1}[/math] ও ঘনত্ব [math]8950 \ kgm^{-3}[/math]
+
+Options:
+গ. পরস্পর সংযুক্ত অবস্থায় গোলকদ্বয়ে সঞ্চিত মোট শক্তি কত?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+গ সংস্পর্শে এলে মোট চার্জ [math]Q_{\rm tot}=2\times10^{-3}+(-5\times10^{-3})=-3\times10^{-3}\ \mathrm{C}[/math] এবং সমষ্টি ধারকত্ব [math]C=4\pi\epsilon_0(R_1+R_2)=16\pi\epsilon_0[/math] হয়। সঞ্চিত শক্তি হয় [math]U=\dfrac{Q_{\rm tot}^2}{2C}=\dfrac{(3\times10^{-3})^2}{2\cdot16\pi\epsilon_0}\approx1.0\times10^4\ \mathrm{J}[/math], যেখানে চারের চিহ্ন গুরুত্বপূর্ণ নয় কারণ বর্গ করলে ধনাত্মক পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 420720)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.4 \ m[/math] ব্যাসসম্পন্ন একটি অত্যন্ত নমনীয় বেলুনের পৃষ্ঠে কিছু ধনাত্মক চার্জ ও অভ্যন্তরে [math]27^{\circ}[/math] তাপমাত্রায় এক মোল কোনো আদর্শ গ্যাস রাখা আছে। বায়ুমন্ডলের চাপ [math]10^{5}Pa[/math]
+
+Options:
+গ. বেলুনের পৃষ্ঠে চার্জ ঘনত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ ব্যাখ্যা: প্রথমে গ্যাসের অভ্যন্তরীণ চাপ হিসাব করি [math]T=27^\circ\mathrm{C}=300\ \mathrm{K}[/math] ও [math]R=0.2\ \mathrm{m}[/math], তাই
+[math]p_{in}=\frac{nRT}{V}=\frac{1\times8.314\times300}{\tfrac{4}{3}\pi(0.2)^3}\approx7.44\times10^{4}\ \mathrm{Pa}.[/math]
+বাহ্যিক চাপ [math]p_{out}=10^{5}\ \mathrm{Pa}[/math], অতএব বৈদ্যুতিক চাপ [math]\frac{\sigma^2}{2\epsilon_0}=p_{out}-p_{in}\approx2.56\times10^{4}\ \mathrm{Pa}[/math]; সমাধান করে
+[math]\sigma=\sqrt{2\epsilon_0(p_{out}-p_{in})}\approx6.7\times10^{-4}\ \mathrm{C/m^2}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 420715)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+দ্বাদশ শ্রেণির ছাত্রী লাবিবা বলল, A বিন্দুতে স্থাপিত P বস্তুটি ঝুলবে। কিন্তু তার বান্ধবী লামিসা বলল, এটি সম্ভব নয়
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত দুই জনের মধ্যে কার উক্তিটি সঠিক? গাণিতিকভাবে যাচাই করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, A বিন্দুতে স্থাপিত P বস্তুটিতে +1 C চার্জ রয়েছে।
+[Image]
+এখানে,B বিন্দুর চার্জ, [math]q_B[/math]
+ = 11 1.676 CC বিন্দুর চার্জ, [math]q_C[/math]
+ = 1.676 CA বিন্দুর চার্জ, [math]q_A[/math]
+ = 1 cদূরত্ব, AB = BC = CA =r=2mP বস্তুর ভর, m = 2 kgএখন, A ও B বিন্দুর চার্জের মধ্যকার ক্রিয়াশীল তড়িৎ বল,[math]\begin{aligned}\mathrm{F}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{\Delta} \mathrm{g}_{\mathrm{n}}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{1.676 \times 1}{2^{2}} \\& =3.77 \times 10^{9} \mathrm{~N} \text { [AD বরাবর] }\end{aligned}[/math]
+একইভাবে, A ও C বিন্দুর চার্জের মধ্যকার ক্রিয়াশীল তড়িৎ বল,[math]\begin{array}{l}F_{2}=\frac{1}{4 \pi \epsilon_{0}} \frac{g_{\Delta} g_{c}}{r^{2}} \\=9 \times 10^{9} \times \frac{1 \times 1,676}{2^{2}} \\=3.77 \times 10^{9} \mathrm{~N} \text { [AE বরাবর] } \\\end{array}[/math]
+এখন, [math]F_1[/math]
+ ও [math]F_2[/math]
+ এর মধ্যবর্তী কোণ [math]\angle EAD = \theta =60^\circ[/math]
+সুতরাং, P বস্তুর উপর ক্রিয়াশীল লব্ধি বল,[math]\begin{aligned}\mathrm{F} & =\sqrt{\mathrm{F}_{1}^{2}+\mathrm{F}_{2}^{2}+2 \mathrm{~F}_{1} \mathrm{~F}_{2} \cos 60^{\circ}}\left[\text { এখানে, }\mathrm{F}_{1}=\mathrm{F}_{2}\right] \\& =\sqrt{\mathrm{F}_{1}^{2}+\mathrm{F}_{1}^{2}+2 \mathrm{~F}_{1} \cdot \mathrm{F}_{1} \cdot \frac{1}{2}}=\sqrt{3 \mathrm{~F}_{1}^{2}} \\& =\sqrt{3 \mathrm{~F}_{1}}=\sqrt{3} \times 3.77 \times 10^{9} \mathrm{~N}\end{aligned}[/math]
+= [math]6.53 × 10^9 N[/math]
+ [খাড়া উপরের দিকে]আবার, P বস্তুর ওজন, W = mg = 2 × 9.8 = 19.6 N [নিচের দিকে দেখা যাচ্ছে, F > Wসুতরাং, P বস্তুটি ওপরের দিকে উঠে যাবে, ঝুলবে না। তাই বলা যায়, উল্লিখিত দুই জনের মধ্যে লামিসার বক্তব্য সঠিক ।
+
+Explanation:
+দুঃখিত, আমি দেওয়া ছবিটি এখানে দেখতে পাচ্ছি না; তাই নির্দিষ্টভাবে বলা সম্ভব হচ্ছে না। অনুগ্রহ করে ছবি আবার আপলোড করুন বা A বিন্দুর ভূস্থান, তন্মাত্রা/দড়ির দিক, কোণ (যদি থাকে), ভরের মান ও ঘর্ষণ/তানির তথ্যগুলি লিখে দিন—তারপর গাণিতিকভাবে যাচাই করে বলব কার উক্তি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 420714)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে একটি বৃত্তাকার পথের A এবং B বিন্দুতে দুটি চার্জ স্থাপন করা হয়েছে।
+
+P বৃত্তের কেন্দ্র, বৃত্তের ব্যাসার্ধ 15 cm এবং AB = BC = CD = DA
+
+Options:
+ঘ. C ও D বিন্দুর সাথে একটি পরিবাহী তার যুক্ত করলে, পরিবাহীর মুক্ত ইলেকট্রনগুলো কোন দিকে গতিশীল হবে? গাণিতিকভাবে মতামত দাও ৷
+
+
+Correct Answer: 
+
+Solution:
+ঘC ও D বিন্দুর সাথে একটি পরিবাহী তার যুক্ত করলে, পরিবাহীর মুক্ত ইলেকট্রন নিম্ন বিভব থেকে উচ্চ বিভবের দিকে গতিশীল হবে।
+[Image]
+[math]\begin{aligned}\triangle \mathrm{PCB}-এ & \\\mathrm{BC} & =\sqrt{\mathrm{PC}^{2}+\mathrm{PB}^{2}} \\& =\sqrt{\mathrm{r}^{2}+\mathrm{r}^{2}}[\because \mathrm{PB}=\mathrm{PC}=\mathrm{r}] \\& =\sqrt{2 \mathrm{r}^{2}} \\& =\mathrm{r} \sqrt{2}=(0.15 \times \sqrt{2}) \mathrm{m} \\& =0.212 \mathrm{~m}\end{aligned}[/math]
+এখানে,A বিন্দুর চার্জ, [math]q_1 = 4nC = 4 × 10^{-9}C[/math]
+B বিন্দুর চার্জ, [math]q_2 = 8nC = 8 \times 10^{-9}C[/math]
+ব্যাসার্ধ, r = 15 cm = 0.15 mদূরত্ব, ACBD = 2rঅনুরূপভাবে, AD = BC= 0.212 mএখন,A বিন্দুর [math]q_1[/math]
+ চার্জের জন্য C বিন্দুর বিভব,[math]\begin{aligned}V_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{1}}{\mathrm{AC}} \\& =9 \times 10^{9} \times \frac{4 \times 10^{-9}}{0.3} \\& =120 \mathrm{~V}\end{aligned}[/math]
+B বিন্দুর [math]q_2[/math]
+ চার্জের জন্য C বিন্দুর বিভব,[math]\begin{aligned}V_{1}^{\prime} & =\frac{1}{4 \pi \in_{0}} \frac{q_{2}}{B C} \\& =9 \times 10^{9} \times \frac{8 \times 10^{-9}}{0.212}\end{aligned}[/math]
+ [math]\therefore \mathrm{V}_{1}^{\prime}=339.6 \mathrm{~V}[/math]
+C বিন্দুর মোট বিভব , [math]\begin{aligned}\mathrm{V}_{\mathrm{C}}=\mathrm{V}_{1}+\mathrm{V}_{1}^{\prime} & =(120+339.6) \mathrm{V} \\& =459.6 \mathrm{~V}\end{aligned}[/math]
+আবার, B বিন্দুর [math]q_2[/math]
+ চার্জের জন্য D বিন্দুর বিভব,[math]V_{2}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{2}}{B D}=9 \times 10^{9} \times \frac{8 \times 10^{-9}}{0.3}=240 \mathrm{~V}[/math]
+A বিন্দুর [math]q_1[/math]
+ চার্জের জন্য D বিন্দুর বিভব,[math]V_{2}^{\prime}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{1}}{A D}=9 \times 10^{9} \times \frac{4 \times 10^{-9}}{0.212}=169.8 \mathrm{~V}[/math]
+D বিন্দুর মোট বিভব ,[math]\begin{aligned}\mathrm{V}_{\mathrm{D}}=\mathrm{V}_{2}+\mathrm{V}_{2}{ }^{\prime} & =(240+169.8) \mathrm{V} \\& =409.8 \mathrm{~V}\end{aligned}[/math]
+দেখা যাচ্ছে, [math]V_D < V_C[/math]
+। অর্থাৎ D বিন্দু নিম্ন বিভব ও C বিন্দু উচ্চ বিভব রয়েছে। যেহেতু ইলেকট্রন নিম্ন বিভব থেকে উচ্চ বিভবের দিকে যায়, তাই পরিবাহীর মুক্ত ইলেকট্রনগুলো D থেকে C এর দিকে গতিশীল হবে।
+
+Explanation:
+ঘ ধরা যাক A‑তে +q এবং B‑তে −q; বৃত্তের ব্যাসার্ধ [math]r=15\ \text{cm}[/math], তাই [math]AC=2r=30\ \text{cm}[/math] এবং [math]BC=AD=15\sqrt{2}\ \text{cm}[/math]।  
+C ও D‑র বৈদ্যুতিক বিভবগুলো: [math]V_C=k\!\left(\frac{q}{30}-\frac{q}{15\sqrt{2}}\right),\quad V_D=k\!\left(\frac{q}{15\sqrt{2}}-\frac{q}{30}\right)=-V_C</math], এখানে গাণিতিকভাবে [math]1/30<1/(15\sqrt{2})[/math] হওয়ায় [math]V_C<V_D[/math]।  
+কারণইলেকট্রনগুলি নিম্ন বিভব থেকে উচ্চ বিভবের দিকে সরে যায়, ফলে পরিবাহী তারে ইলেকট্রনগুলো C থেকে D‑এর দিকে চলবে।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 420713)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে দুটি ফাঁপা গোলকের পৃষ্ঠে চার্জ প্রদান করা হয়েছে
+
+Options:
+ঘ. গোলকদ্বয় একটি পরিবাহী তার দ্বারা সংযুক্ত করা হলে গোলকদ্বয়ে চূড়ান্ত চার্জের পরিমাণের তূলনামূলক বিশ্লেষণ করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘগোলকদ্বয় একটি পরিবাহী তার দ্বারা সংযুক্ত করা হলে, গোলকদ্বয়ের মধ্যে চার্জের প্রবাহ চলবে যতক্ষণ পর্যন্ত না উভয় গোলকের তড়িৎ বিভব সমান হয় ।এখানে,১ম গোলকের ব্যাসার্ধ, [math]r_1[/math]
+ = 15 cm = 0.15m২য় গোলকের ব্যাসার্ধ, [math]r_2[/math]
+ = 25 cm = 0.25 m১ম গোলকের চার্জ, [math]Q_1 = - 2.25 nC = - 2.25 × 10^{-9}[/math]
+ c২য় গোলকের চার্জ, [math]Q_2 = - 6nC = - 6 \times 10^{-9}[/math]
+ Cএখন,[math]Q_1[/math]
+ চার্জের গোলকের ধারকত্ব [math]C_1[/math]
+ হলে,[math]\begin{aligned}C_{1} & =4 \pi \epsilon_{0} r_{1} \\& =\frac{1}{9 \times 10^{9}} \times 0.15 \\& =1.667 \times 10^{-11} \mathrm{~F}\end{aligned}[/math]
+ [math]Q_2[/math]
+ চার্জের গোলকের ধারকত্ব [math]C_2[/math]
+ হলে,[math]\begin{aligned}\mathrm{C}_{2} & =4 \pi \in_{0} \mathrm{r}_{2} \\& =\frac{1}{9 \times 10^{9}} \times 0.25 \\& =2.778 \times 10^{-11} \mathrm{~F}\end{aligned}[/math]
+এখন, পূর্বে গোলকদ্বয়ের মোট চার্জ,[math]\begin{array}{l}Q=Q_{1}+Q_{2} \\=(-2.25-6) \mathrm{nC} \\=-8.25 \mathrm{nC} \\=-8.25 \times 10^{-9} \mathrm{C}\end{array}[/math]
+ধরি, গোলকদ্বয় পরিবাহী তার দ্বারা সংযুক্ত করা হলে গোলকদ্বয়ের চূড়ান্ত চার্জ [math]Q_1^\prime[/math]
+ ও [math]Q_2^\prime[/math]
+১ম গোলকের বিভব [math]V_1[/math]
+ ও ২য় গোলকের বিভব [math]V_2[/math]
+ হলে,[math]Q_{1}^{\prime}=C_{1} V_{1} \Rightarrow\text { } V_{1}=\frac{Q_{1}^{\prime}}{C_{1}}[/math]
+আবার, [math]\mathrm{Q}_{2}{ }^{\prime}=\mathrm{C}_{2} \mathrm{~V}_{2} \Rightarrow\text { } \mathrm{V}_{2}=\frac{\mathrm{Q}_{2}^{\prime}}{\mathrm{C}_{2}}[/math]
+শর্তমতে, [math]V_1 = V_2[/math]
+ [math]\begin{array}{l}\Rightarrow\text{ } \frac{\mathrm{Q}_{1}^{\prime}}{1.667 \times 10^{-11}}=\frac{\mathrm{Q}_{2}^{\prime}}{2.778 \times 10^{-11}}\\\Rightarrow\text{ } \mathrm{Q}_{1}{ }^{\prime}=\frac{1.667}{2.778} \mathrm{Q}_{2}{ }^{\prime}=0.6 \mathrm{Q}_{2}{ }^{\prime}\end{array}[/math]
+আবার,[math]\begin{array}{l}\text{ } Q_{1}{ }^{i}+Q_{2}{ }^{\prime}=Q=-8.25 \times 10^{-9}\\\Rightarrow\text{ } 0.6 \mathrm{Q}_{2}{ }^{\prime}+\mathrm{Q}_{2}{ }^{\prime}=-8.25 \times 10^{-9}\\\Rightarrow\text{ } 1.6 \mathrm{Q}_{2}{ }^{\prime}=-8.25 \times 10^{-9}\\\therefore \mathrm{Q}_{2}^{\prime}=-5.156 \times 10^{-9} \mathrm{C}=5.156 \mathrm{nC}\end{array}[/math]
+এবং , [math]\mathrm{Q}_{1}{ }^{\prime}=0.6 \mathrm{Q}_{2}{ }^{\prime}=0.6 \times(-5.156) \mathrm{nC}=-3.1 \mathrm{nC}[/math]
+এখন, [math]\frac{\mathrm{Q}_{2}^{\prime}}{\mathrm{Q}_{1}^{\prime}}=\frac{-5.156 \mathrm{nC}}{-3.1 \mathrm{nC}}=1.667[/math]
+সুতরাং বলা যায়, গোলকদ্বয় একটি পরিবাহী তার দ্বারা যুক্ত করলে ২য় গোলকের চূড়ান্ত চার্জ ১ম গোলকের 1.667 গুণ হবে ।
+
+Explanation:
+ব্যাখ্যা:
+ঘ গোলকদ্বয় যখন একটি পরিবাহী তার দিয়ে সংযুক্ত হয়, তখন তাদের ভোল্টেজ সমান হয়; কারণ প্রত্যেকের ভোল্টেজ [math]V=kQ/R[/math] হওয়ায় [math]\dfrac{Q_1}{R_1}=\dfrac{Q_2}{R_2}[/math]. মোট চার্জ রক্ষা পায় [math]Q_1+Q_2=Q_{\rm মোট}[/math] থেকে ফল হয় [math]Q_1=\dfrac{R_1}{R_1+R_2}Q_{\rm মোট}[/math] এবং [math]Q_2=\dfrac{R_2}{R_1+R_2}Q_{\rm মোট}[/math], অর্থাৎ চূড়ান্ত চার্জগুলো গোলকের ব্যাসার্ধের অনুপাতে বিভক্ত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 420712)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দুটি ফাঁপা গোলকের পৃষ্ঠে চার্জ প্রদান করা হয়েছে
+
+
+[Image]
+
+
+Options:
+গ. গোলকদ্বয়ের সংযোজক সরলরেখা বরাবর নিরপেক্ষ বিন্দুর অবস্থান নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, গোলদ্বয়ের সংযোজক সরলরেখা বরবার নিরপেক্ষ বিন্দুর অবস্থান P। অর্থাৎ P বিন্দুতে চার্জিত গোলদ্বয়ের জন্য তড়িৎ প্রাবল্য শূন্য হবে।এখানে,১ম গোলকের চার্জ,[math]\begin{aligned}Q_{1} & =-2.25 \mathrm{nC} \\& =-2.25 \times 10^{-9} \mathrm{C}\end{aligned}[/math]
+২য় গোলকের চার্জ,[math]\begin{aligned}Q_{2} & =-6 n C \\& =-6 \times 10^{-9} \mathrm{C}\end{aligned}[/math]
+দূরত্ব, AB = r = 2 mদূরত্ব, [math]r_1[/math]
+ = AP = x[math]দূরত্ব, r2 = BP = 2 − x[/math]
+এখন, [math]Q_1[/math]
+ গোলক থেকে P বিন্দুর দূরত্ব AP = xm হলে, [math]Q_2[/math]
+ গোলক থেকে P বিন্দুর দূরত্ব, BP = (2x) m১ম গোলকের [math]Q_1[/math]
+ চার্জের জন্য P বিন্দুরপ্রাবল্য,[math]\begin{aligned}E_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{Q_{1}}{r_{1}{ }^{2}} \\& =9 \times 10^{9} \times \frac{2.25 \times 10^{-9}}{x^{2}},\end{aligned}[/math]
+দিক PA বরাবর২য় গোলকের [math]Q_2[/math]
+ চার্জের জন্য P বিন্দুর প্রাবল্য[math]\begin{aligned}E_{2} & =\frac{1}{4 \pi \epsilon_{0}} \frac{Q_{2}}{r_{2}^{2}} \\& =9 \times 10^{9} \times \frac{6 \times 10^{-9}}{(2-x)^{2}}\end{aligned}[/math]
+দিক PB বরাবর[math]E_1[/math]
+ ও [math]E_2[/math]
+ এর দিক বিপরীত, এখন P বিন্দুর প্রাবল্য শূন্য হলে[math]\begin{array}{l}E_{1}=E_{2}\\\Rightarrow\text{ } 9 \times 10^{9} \times \frac{2.25 \times 10^{-9}}{x^{2}}=9 \times 10^{9} \times \frac{6 \times 10^{-9}}{(2-x)^{2}} \text{.}\\\Rightarrow\text{ } \frac{2.25}{x^{2}}=\frac{6}{(2-x)^{2}}\\\Rightarrow\text{ } \left(\frac{2-x}{x}\right)^{2}=\frac{6}{2.25}\\\Rightarrow\text{ } \frac{2-x}{x}=1.633\\\Rightarrow\text{ } \frac{2}{x}-1=1.633\\\Rightarrow\text{ } \frac{2}{x}=2.633\\\therefore \mathrm{x}=\frac{2}{2.633}=0.76 \mathrm{~m}\end{array}[/math]
+সুতরাং, [math]Q_1[/math]
+ চার্জবিশিষ্ট গোলক থেকে 0.76 m দূরে গোলকদ্বয়েরসংযোজক সরলরেখা বরাবর নিরপেক্ষ বিন্দু অবস্থিত। ( Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ দুইটি ফাঁপা গোলকের বাইরের ক্ষেত্র তাদের কেন্দ্রবিন্দুতে সঙ্কুচিত চাইত করা যায়, তাই সংযোজক সরলরেখায় নিরপেক্ষ বিন্দু পেতে একটির ক্ষেত্রের মান আর অন্যটির মান সমান করতে হবে। যদি কেন্দ্রদ্বয়ের দুরত্ব [math]d[/math] এবং নিরপেক্ষ বিন্দু বাম কেন্দ্র থেকে [math]x[/math] দূরে হয়, তবে [math]\dfrac{Q_1}{x^2}=\dfrac{Q_2}{(d-x)^2}[/math] থেকে পাই [math]x=\dfrac{\sqrt{Q_1}}{\sqrt{Q_1}+\sqrt{Q_2}}\,d[/math]। চিহ্ন অনুসারে অবস্থান বদলায়: একই চারের ক্ষেত্রে বিন্দুটি কেন্দ্রদ্বয়ের মধ্যেই থাকে, বিপরীত চারের ক্ষেত্রে বাহিরে ছোট চারের পাশে থাকে।
+
+Sub-Questions:
+

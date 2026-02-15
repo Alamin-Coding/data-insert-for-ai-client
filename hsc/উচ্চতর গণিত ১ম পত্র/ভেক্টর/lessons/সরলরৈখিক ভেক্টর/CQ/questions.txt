@@ -1,0 +1,52 @@
+================================================================================
+Question #1 (ID: 409950)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]\underline{\mathrm{A}}=3 \mathrm{i}-2 \mathrm{j}+\underline{\mathrm{k}}, \underline{\mathrm{B}}=\mathrm{i}-3 \mathrm{j}+5 \underline{\mathrm{k}}[/math] ও [math]\underline{\mathrm{C}}=2 \underline{\mathrm{i}}+\mathrm{j}-4 \underline{\mathrm{k}}[/math] ভেক্টরসমূহ দ্বারা একটি সমকোণী ত্রিভুজ তৈরি করা কি সম্ভব?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে [math]\vec{B}+\vec{C}=\hat{i}-3 \hat{j}+5 \hat{k}+2 \hat{i}+\hat{j}-4 \hat{k}=3 \hat{i}-2 \hat{j}+\hat{k}=\vec{A}[/math]
+ [math]\therefore \vec{A}, \vec{B} \& \vec{C}[/math]
+ ত্রিভুজ গঠন করে ।[math]|\underline{A}|^{2}=9+4+1=14 ;|\underline{\mathrm{B}}|^{2}=1+9+25=35 \quad|\underline{C}|^{2}=4+1+16=21[/math]
+ [math]\therefore|\underline{\mathrm{B}}|^{2}=|\underline{\mathrm{A}}|^{2}+|\underline{\mathrm{C}}|^{2}=35[/math]
+ আবার [math]\underline{A} \cdot \underline{C}=6-2-4=0 \therefore[/math]
+ সমকোণী ত্রিভুজ গঠন করা সম্ভব।
+
+Explanation:
+ব্যাখ্যা: গণনা করলে [math]\underline{A}\cdot\underline{C}=3\cdot2+(-2)\cdot1+1\cdot(-4)=0[/math], অতএব [math]\underline{A}\perp\underline{C}[/math]. একইভাবে [math]\underline{A}-\underline{C}=(3-2,\,-2-1,\,1+4)=(1,-3,5)=\underline{B}, অর্থাৎ [math]\underline{A}=\underline{B}+\underline{C}</math] এবং [math]\underline{B}+\underline{C}-\underline{A}=0</math], তাই এগুলো একটি ত্রিভুজ গঠন করে এবং [math]\underline{A}[/math] ও [math]\underline{C}[/math] পারস্পরিক লম্ব হওয়ায় ত্রিভিটিটি সমকোণী।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 409929)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{2} \hat{i}+\frac{1}{3} \hat{\mathbf{j}}+\hat{\mathbf{k}}[/math] এর মান কোনটি ?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]\sqrt{\left(\frac{1}{2}\right)^{2}+\left(\frac{1}{3}\right)^{2}+1^{2}}[/math]
+ [math]=\sqrt{\frac{1}{4}+\frac{1}{9}+1}[/math]
+ [math]=\sqrt{\frac{9+4+36}{36}}[/math]
+ [math]=\sqrt{\frac{49}{36}}[/math]
+ [math]=\frac{7}{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরের মান হচ্ছে উপাদানগুলোর বর্গের যোগফলের বর্গমূল, তাই [math]\sqrt{\left(\tfrac{1}{2}\right)^2+\left(\tfrac{1}{3}\right)^2+1^2}[/math]. এটি সরল করলে [math]\sqrt{\tfrac{1}{4}+\tfrac{1}{9}+1}=\sqrt{\tfrac{49}{36}}=\tfrac{7}{6}[/math], যা অপশন A-এর সাথে মেলে।
+
+Sub-Questions:
+

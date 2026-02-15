@@ -1,0 +1,894 @@
+================================================================================
+Question #1 (ID: 412086)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি ধাতব তারে 10 kg ভর ঝুলানোর ফলে এর দৈর্ঘ্য দ্বিগুণ ও ব্যাস তিন-চতুর্থাংশ হয় । তারের ব্যাস [math]4.22 \times 10^{-2} \mathrm{~mm}[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপক অনুসারে ধাতব তারটি কী দিয়ে তৈরি? গাণিতিক বিশ্লেষণপূর্বক তোমার মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,ঝুলানো ভর, m = 10 kgতারের আদি দৈর্ঘ্য = Lদৈর্ঘ্য বৃদ্ধি, [math]l=2 L-L=L[/math]
+তারের ব্যাসার্ধ,[math]\begin{aligned}r=\frac{D}{2} & =\frac{4.22 \times 10^{-2}}{2} \mathrm{~mm} \\& =2.11 \times 10^{-5} \mathrm{~m}\end{aligned}[/math]
+অভিকর্ষজ ত্বরণ, [math]g=9.8 \mathrm{~ms}^{-2}[/math]
+আমরা জানি,ইয়ং-এর গুণাঙ্ক,[math]\begin{aligned}Y & =\frac{m g L}{\pi r^{2} l} \\& =\frac{10 \times 9.8 \times L}{3.1416 \times\left(2.11 \times 10^{-5}\right)^{2} \times L} \\& =\frac{98}{1.398 \times 10^{-9}} \\& =7 \times 10^{10} \mathrm{Nm}^{-2}\end{aligned}[/math]
+তারের ইয়ং এর গুণাঙ্কের মান প্রদত্ত উপাদানগুলোর মধ্যে অ্যালুমিনিয়ামের ইয়ং এর গুণাঙ্কের সাথে মিলে যায় । সুতরাং তারটি অ্যালুমিনিয়ামের তৈরি।
+
+Explanation:
+ঘ লম্বা বৃদ্ধি থেকে অক্ষীয় চাপানুপাত [math]ε=(ΔL)/L=1[/math] এবং ব্যাসের পরিবর্তন থেকে पार্শ্বিক চাপানুপাত [math]ε_l=(Δd)/d=-1/4=-0.25[/math]; তাই পোয়াসঁ অনুপাত হবে [math]ν=-ε_l/ε=0.25[/math]. এই মানটি সাধারণত কিছু লৌহীয় ধাতু/কার্বন ইস্পাতের মানের কাছাকাছি, তাই ধারনাগতভাবে তারটি সম্ভবত ইস্পাত বা সাধারণ লৌহীয় উপাদান দ্বারা তৈরি।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 412087)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি ইস্পাতের তারের দৈর্ঘ্য 2 m, প্রস্থচ্ছেদের ক্ষেত্রফল [math]1 \ \mathrm{mm}^{2}[/math] এবং অসহ পীড়ন [math]4.76 \times 10^{7} \mathrm{Nm}^{2}[/math] । তারটির এক প্রান্তে 2 kg ভর ঝুলালে তারের দৈর্ঘ্য [math]2 \times 10^{-4} \mathrm{m}[/math] বৃদ্ধি পায়। এই ভরসহ তারটিকে এর আদি দৈর্ঘ্যের সমান ব্যাসার্ধবিশিষ্ট বৃত্তাকার পথে [math]4\ \mathrm{rads}^{-1}[/math] বেগে ঘুরাতে গেলে তারটি ছিঁড়ে যায়।
+
+Options:
+গ. তারটির ইয়ং-এর গুণাঙ্ক নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,তারের দৈর্ঘ্য, L = 2 mদৈর্ঘ্য বৃদ্ধি, [math]l=2 \times 10^{-4} \mathrm{~m}[/math]
+ভর, m = 2 kgক্ষেত্রফল, [math]A=1 \mathrm{~mm}^{2}=10^{-6} \mathrm{~m}^{2}[/math]
+তারের ইয়ং এর গুণাঙ্ক,[math]\begin{array}{l}\begin{aligned}Y & =\frac{m g L}{A l} \\& =\frac{2 \times 9.8 \times 2}{10^{-6} \times 2^{1} \times 10^{-4}} \\& =1.96 \times 10^{11} \mathrm{Nm}^{-2}\end{aligned}\\\text{(Ans.)}\end{array}[/math]
+
+
+Explanation:
+গ সমাধান: ইয়ং-এর গুণাঙ্কে ব্যবহার করি [math]E=\dfrac{FL}{A\Delta L}[/math], যেখানে [math]F=mg=2\times9.8=19.6\ \mathrm{N}[/math], [math]L=2\ \mathrm{m}[/math], [math]A=1\times10^{-6}\ \mathrm{m}^2[/math], [math]\Delta L=2\times10^{-4}\ \mathrm{m}[/math].  
+তাই [math]E=\dfrac{19.6\times2}{1\times10^{-6}\times2\times10^{-4}}=\dfrac{39.2}{2\times10^{-10}}=1.96\times10^{11}\ \mathrm{N/m^2}[/math], যা ইস্পাতের স্বাভাবিক মানের সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 412088)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি ইস্পাতের তারের দৈর্ঘ্য 2 m, প্রস্থচ্ছেদের ক্ষেত্রফল [math]1 \ \mathrm{mm}^{2}[/math] এবং অসহ পীড়ন [math]4.76 \times 10^{7} \mathrm{Nm}^{2}[/math] । তারটির এক প্রান্তে 2 kg ভর ঝুলালে তারের দৈর্ঘ্য [math]2 \times 10^{-4} \mathrm{m}[/math] বৃদ্ধি পায়। এই ভরসহ তারটিকে এর আদি দৈর্ঘ্যের সমান ব্যাসার্ধবিশিষ্ট বৃত্তাকার পথে [math]4\ \mathrm{rads}^{-1}[/math] বেগে ঘুরাতে গেলে তারটি ছিঁড়ে যায়।
+
+Options:
+ঘ. তারটি কেন ছিঁড়ে গেলো তা উদ্দীপক অনুসারে গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,তারের ক্ষেত্রফল, [math]\mathrm{A}=10^{-6} \mathrm{~m}^{2}[/math]
+অসহ পীড়ন, [math]\mathrm{P}=4.76 \times 10^{7} \mathrm{Nm}^{-2}[/math]
+ভর, m = 2 kgতারের দৈর্ঘ্য, [math]l=2 \mathrm{~m}[/math]
+সর্বোচ্চ কৌণিক বেগ, [math]\omega_{\mathrm{m}}=?[/math]
+কৌণিক বেগ [math]\omega_{\mathrm{m}}[/math]
+ এবং অসহ বল F হলে,[math]\mathrm{F}=\mathrm{m} \omega_{\mathrm{m}}^{2} l[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega_{\mathrm{m}}^{2}=\frac{\mathrm{F}}{\mathrm{m} l}[/math]
+ [math]\begin{array}{l}=\frac{\mathrm{PA}}{\mathrm{m} l} \\=\frac{4.76 \times 10^{7} \times 1 \times 10^{-6}}{2 \times 2}\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega_{\mathrm{m}}^{2}=11.9[/math]
+ [math]\therefore \omega_{\mathrm{m}}=3.45 \mathrm{\ rads}^{-1}[/math]
+ [math]\therefore[/math]
+ ভরসহ তারটি বৃত্তাকার পথে সর্বোচ্চ [math]3.45 \mathrm{\ rads}^{-1}[/math]
+ কৌণিক বেগে ঘুরানো যাবে। যেহেতু উদ্দীপক অনুযায়ী কৌণিক বেগ [math]4 \ \mathrm{rads}^{-1}[/math]
+ যা [math]3.45 \mathrm{\ rads}^{-1}[/math]
+ থেকে বেশি তাই তারটি ছিঁড়ে গেল।
+
+Explanation:
+ব্যাখ্যা:
+ঘ ঝুলন্ত অবস্থায় বস্তুটির দ্বারা সৃষ্টি রাবার সুসংহতক (spring constant) [math]k = \dfrac{mg}{\Delta L} = \dfrac{2\times 9.8}{2\times 10^{-4}} = 9.8\times 10^{4}\ \mathrm{N/m}[/math], এবং কেন্দ্রৃতিক বল যখন ঘুরানো হলো [math]F_c = m\omega^{2}r = 2\times 4^{2}\times 2 = 64\ \mathrm{N}[/math]. তাই মোট তারকাঠিন্য প্রায় [math]T\approx mg+F_c=19.6+64=83.6\ \mathrm{N}[/math], যার ফলে অতিরিক্ত বৃদ্ধি [math]\Delta = F_c/k \approx 6.53\times 10^{-4}\ \mathrm{m}[/math] এবং মোট পরিবর্ধন প্রায় [math]8.53\times 10^{-4}\ \mathrm{m}[/math], যা প্রথমের [math]2\times10^{-4}\ \mathrm{m}[/math] থেকে অনেক বড় — অর্থাৎ তারের উপর চাহিদা এত বেড়ে গেল যে এটি তার বহনক্ষমতা অতিক্রম করে ছেঁড়ে গেছে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 412089)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি ইস্পাতের তারের দৈর্ঘ্য 2 m এবং ব্যাস 1 mm তারটির উপর 10 N বল প্রয়োগ করার ফলে এর দৈর্ঘ্য বৃদ্ধি পায়। ইস্পাত তারের ইয়ং এর গুণাঙ্ক [math]Y=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]।
+
+Options:
+গ. উদ্দীপক অনুসারে তারটির দৈর্ঘ্য বৃদ্ধির পরিমাণ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,আদি দৈর্ঘ্য, L = 2 mব্যাস, [math]\mathrm{d}=1 \mathrm{~mm}=10^{-3} \mathrm{~m}[/math]
+প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\begin{aligned}A & =\frac{\pi}{4} d^{2}=\frac{\pi}{4} \times\left(10^{-3}\right)^{2} \\& =7.85 \times 10^{-7} \mathrm{~m}^{2}\end{aligned}[/math]
+ইয়ং এর গুণাংক, [math]\mathrm{Y}=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]
+প্রযুক্ত বল, F = 10 Nদৈর্ঘ্য বৃদ্ধি, [math]l=?[/math]
+আমরা জানি,[math]\begin{array}{l} \quad Y=\frac{\mathrm{FL}}{\mathrm{A} l} \\\therefore l=\frac{\mathrm{FL}}{\mathrm{AY}}\end{array}[/math]
+ [math]\begin{array}{l}=\frac{10 \times 2}{7.85 \times 10^{-7} \times 2 \times 10^{11}} \\=1.27 \times 10^{-4} \mathrm{~m} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+গ ইয়ংয়ের সংজ্ঞা থেকে [math]Y=\frac{F/A}{\Delta L/L}[/math], তাই [math]\Delta L=\frac{FL}{AY}[/math]। এখানে [math]A=\pi r^2=\pi(0.5\times10^{-3})^2=7.85398\times10^{-7}\,\mathrm{m^2}[/math], ফলে [math]\Delta L=\frac{10\times2}{7.85398\times10^{-7}\times2\times10^{11}}\approx1.27\times10^{-4}\,\mathrm{m}=0.127\,\mathrm{mm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 412090)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি ইস্পাতের তারের দৈর্ঘ্য 2 m এবং ব্যাস 1 mm তারটির উপর 10 N বল প্রয়োগ করার ফলে এর দৈর্ঘ্য বৃদ্ধি পায়। ইস্পাত তারের ইয়ং এর গুণাঙ্ক [math]Y=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]।
+
+Options:
+ঘ. তারটির প্রসারণে মোট কৃতকাজ, একক আয়তনে সঞ্জিত শক্তি অপেক্ষা কীরূপ হবে গাণিতিকভাবে বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ'গ' থেকে পাই, তারের দৈর্ঘ্য বৃদ্ধি [math]\ell=1.27 \times 10^{-4} \mathrm{~m}[/math]
+তারের দৈর্ঘ্য প্রসারণে মোট কৃতকাজ W হলে,[math]\begin{array}{l}W=\frac{Y A \ell^{2}}{2 \mathrm{~L}}=\frac{2 \times 10^{11} \times \pi \times\left(0.5 \times 10^{-3}\right)^{2} \times\left(1.27 \times 10^{-4}\right)^{2}}{2 \times 2} \\=6.3338 \times 10^{-4} \mathrm{~J}\end{array}[/math]
+এখানে,তারের দৈর্ঘ্য, L = 2 mতারের ব্যাসার্ধ,[math]\begin{aligned}r & =\frac{1}{2} \mathrm{~mm}=0.5 \mathrm{~mm} \\& =0.5 \times 10^{-3} \mathrm{~m}\end{aligned}[/math]
+ইয়ং গুণাঙ্ক, [math]\mathrm{Y}=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]
+প্রযুক্ত বল, F = 10 Nতারের একক আয়তনে সঞ্চিত শক্তি,[math]U=\frac{1}{2} \times[/math]
+ পীড়ন [math]\times[/math]
+ বিকৃতি[math]=\frac{1}{2} \times \frac{F}{A} \times \frac{\ell}{L}[/math]
+ [math]=\frac{1}{2} \times \frac{10}{\pi \times\left(0.5 \times 10^{-3}\right)^{2}}[/math]
+ [math]\times \frac{1.27 \times 10^{-4}}{2}[/math]
+ [math]=404.253[/math]
+দেখা যাচ্ছে, [math]\mathrm{W}<\mathrm{U}[/math]
+ এবং [math]\frac{\mathrm{W}}{\mathrm{U}}=\frac{6.3638 \times 10^{-4}}{404.253}=1.57 \times 10^{-6}[/math]
+অর্থাৎ তারটির প্রসারণে মোট কৃতকাজ, একক আয়তনে সঞ্চিত শক্তি অপেক্ষা [math]1.57 \times 10^{-6}[/math]
+ গুণ ছোট হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ টান দিয়ে ধীরে–ধীরে প্রসারণ করলে বাহ্যিক কৃতকাজই লবণীয় কণার আচ্ছাদিত স্থিতিস্থাপক শক্তি হয়, তাই [math]W=\tfrac{1}{2}F\Delta L[/math] এবং একক আয়তনে শক্তি [math]u=\frac{W}{V}=\tfrac{1}{2}\sigma\epsilon[/math]. এখানে [math]A=\pi d^2/4=\pi(1\times10^{-3})^2/4=7.854\times10^{-7}\,\mathrm{m^2}[/math], [math]\Delta L=\frac{FL}{AY}=\frac{10\times2}{7.854\times10^{-7}\times2\times10^{11}}=1.273\times10^{-4}\,\mathrm{m}[/math], তাই [math]W=\tfrac12\times10\times1.273\times10^{-4}=6.366\times10^{-4}\,\mathrm{J}[/math]. ভলিউম [math]V=AL=1.571\times10^{-6}\,\mathrm{m^3}[/math] হলে [math]u=W/V\approx405\,\mathrm{J\,m^{-3}}[/math] এবং স্পষ্টতই [math]W=uV[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 412091)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+6m দৈর্ঘ্যের এবং 0.6 mm ব্যাসার্ধের একটি ইস্পাতের এবং অপর একটি সীসার তারের শেষ প্রান্তে 25 kg ভর ঝুলিয়ে দিলে তারের দৈর্ঘ্য প্রসারণ যথাক্রমে 0.026 m এবং 0.325 m পাওয়া গেল। ইস্পাতের তারের ইয়ং এর গুণাঙ্ক [math]2 \times 10^{11} \mathrm{Nm}^{-2}[/math].
+
+Options:
+ঘ. উদ্দীপকের তারদ্বয়ের মধ্যে কোনটি বেশি স্থিতিস্থাপক? গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,সীসার তারের ক্ষেত্রেআদি দৈর্ঘ্য, L = 6 mব্যাসার্ধ , [math]\mathrm{r}=\frac{0.6 \mathrm{~mm}}{2}=3 \times 10^{-4} \mathrm{~m}[/math]
+দৈর্ঘ্য বৃদ্ধি, [math]l_{\mathrm{Pb}}=0.325 \mathrm{~m}[/math]
+নিম্ন প্রান্তে ঝুলানো ভর [math]\mathrm{m}=25 \mathrm{~kg}[/math]
+ইস্পাতের ইয়ং এর গুণাঙ্ক, [math]Y_{s}=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]
+সীসার ইয়ং এর গুণাঙ্ক,[math]\begin{aligned}\mathrm{Y}_{\mathrm{Pb}} & =\frac{\mathrm{FL}}{\mathrm{A} l_{\mathrm{Pb}}} \\& =\frac{\mathrm{mgL}}{\pi \mathrm{r}^{2} l_{\mathrm{Pb}}} \\& =\frac{25 \times 9.8 \times 6}{\pi \times\left(3 \times 10^{-4}\right)^{2} \times 0.325} \\& =1.6 \times 10^{10} \mathrm{Nm}^{-2}\end{aligned}[/math]
+লক্ষ্য করি , [math]2 \times 10^{11} \mathrm{Nm}^{-2}>1.6 \times 10^{10} \mathrm{Nm}^{-2}[/math]
+ অর্থাৎ [math]Y_{s}>Y_{P b}[/math]
+ [math]\therefore[/math]
+ সীসার তুলনায় ইস্পাত বেশি স্থিতিস্থাপক।
+
+Explanation:
+ঘ স্টীল তারটি বেশি স্থিতিস্থাপক কারণ একই বল প্রয়োগে স্টীলের প্রসারণ ছোট। কারণ স্থিতিস্থাপকতা (কঠোরতা) [math]k=F/ΔL[/math], তাই অনুপাত [math]\dfrac{k_{\text{steel}}}{k_{\text{lead}}}=\dfrac{ΔL_{\text{lead}}}{ΔL_{\text{steel}}}=\dfrac{0.325}{0.026}\approx12.5[/math], অর্থাৎ স্টীল প্রায় 12.5 গুণ বেশি কঠিন। আরো যাচাই করতে সীসার ইয়ংের গুণাঙ্ক হিসাব করলে [math]Y=\dfrac{FL}{AΔL},\;A=\pi r^2[/math] দিয়ে প্রাপ্ত মান প্রায় [math]4.0\times10^9\ \mathrm{N/m^2}[/math], যা স্টীলের [math]2\times10^{11}\ \mathrm{N/m^2}[/math]‑এর তুলনায় অনেক ছোট।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 412092)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি পিতলের তার A যার অসহ ভার [math]9.23 \times 10^{4} \mathrm{~N}[/math]। এই তারের দৈর্ঘ্য বরাবর বল প্রয়োগ করা হলে এর দৈর্ঘ্য 10% বৃদ্ধি পায় এবং ব্যাস 5% হ্রাস পায়। অপর একটি পিতলের তার B যার প্রস্থচ্ছেদের ক্ষেত্রফল [math]10^{-6} \mathrm{~m}^{2}[/math] এবং দৈর্ঘ্য 0.3 m। B তারের এক প্রান্তে 10 kg ভরের বস্তু বেঁধে সর্বোচ্চ [math]4 \mathrm{\ rads}^{-1}[/math] কৌণিক দ্রুতিতে ঘুরানো সম্ভব হয়।
+
+Options:
+ঘ. A ও B তারের মধ্যে কোনটি অধিকতর মোটা? গাণিতিক বিশ্লেষণের সাহায্যে মন্তব্য করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,B তারের প্রস্থচ্ছেদের ক্ষেত্রফল [math]A_{B}=10^{-6} \mathrm{~m}^{2}[/math]
+B তারের ব্যাসার্ধ [math]r_{B}=[/math]
+ হলে,প্রস্থচ্ছেদের ক্ষেত্রফল, [math]A_{B}= \pi \mathrm{r}_{\mathrm{B}}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\pi \mathrm{r}_{\mathrm{B}}^{2}=10^{-6}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{r}_{\mathrm{B}}^{2}=\frac{10^{-6}}{\pi}[/math]
+ [math]\Rightarrow[/math]
+ [math]r_{B}=\sqrt{\frac{10^{-6}}{\pi}}[/math]
+ [math]\begin{array}{l}=5.642 \times 10^{-4} \mathrm{~m} \\=0.564 \mathrm{~mm}\end{array}[/math]
+A ও B উভয় তার পিতলের তৈরি ।আমরা জানি, পিতলের ইয়ং গুণাঙ্ক [math]Y=10^{11} \mathrm{Nm}^{-2}[/math]
+A তারের প্রস্থচ্ছেদের ক্ষেত্রফল A হলে,এখানে,অসহ ভার, [math]F=9.23 \times 10^{4} \mathrm{~N}[/math]
+দৈর্ঘ্য বৃদ্ধি, [math]\frac{\ell}{L}=10 \%=0.1[/math]
+ইয়ং গুণাঙ্ক, [math]\mathrm{Y}=10^{11} \mathrm{Nm}^{-2}[/math]
+ [math]\mathrm{Y}=\frac{\frac{F}{A}}{\frac{\ell}{L}}[/math]
+ [math]\Rightarrow[/math]
+ [math]Y \frac{\ell}{L}=\frac{F}{A}[/math]
+ [math]\Rightarrow[/math]
+ [math]10^{11} \times 0.1=\frac{9.23 \times 10^{4}}{\mathrm{~A}}[/math]
+ [math]\Rightarrow[/math]
+ [math]A=\frac{9.23 \times 10^{4}}{0.1 \times 10^{11}}[/math]
+ [math]=9.23 \times 10^{-6} \mathrm{~m}^{2}[/math]
+A তারের ব্যাসার্ধ [math]\mathrm{r}_{\mathrm{A}}[/math]
+ হলে[math]\pi \mathrm{r}_{\mathrm{A}}^{2}=9.23 \times 10^{-6}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{r}_{\mathrm{A}}^{2}=\frac{9.23 \times 10^{-6}}{\pi}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{r}_{\mathrm{A}}=\sqrt{\frac{9.23 \times 10^{-6}}{\pi}}=1.714 \times 10^{-3} \mathrm{~m}[/math]
+ [math]=1.714 \mathrm{~mm}[/math]
+যেহেতু, [math]\mathrm{r}_{\mathrm{A}}>\mathrm{r}_{\mathrm{B}}[/math]
+তাই A ও B তারের মধ্যে A তার অধিকতর মোটা।
+
+Explanation:
+ব্যাখ্যা:
+
+ঘ A তারটি অধিকতর মোটা। B তারে টেনশন হচ্ছে [math]T_B=mr\omega^2=10\times0.3\times4^2=48\ \mathrm{N}[/math], তাই B-এর চাপমাত্রা [math]\sigma_B=\dfrac{48}{10^{-6}}=4.8\times10^7\ \mathrm{Pa}[/math]. A-এর দৈর্ঘ্য বৃদ্ধির ক্রমানুপাতিক বিকৃতি [math]\epsilon=0.10[/math] হওয়ায় Hooke‑এর সূত্র প্রয়োগ করে (ব্রাসের জন্য সাধারণত [math]E\approx1.0\times10^{11}\ \mathrm{Pa}[/math]) পাই [math]\sigma_A\approx E\epsilon\approx1.0\times10^{10}\ \mathrm{Pa}[/math], সুতরাং A‑এর ক্ষেত্রফল [math]A_A=\dfrac{9.23\times10^4}{1.0\times10^{10}}\approx9.23\times10^{-6}\ \mathrm{m^2},[/math] যা B‑এর [math]10^{-6}\ \mathrm{m^2}[/math] অপেক্ষা অনেক বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 412093)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একটি দৃঢ় অবলম্বন হতে [math]200 1 \mathrm{~cm}^{2}[/math] দৈর্ঘ্য ও [math]1 \mathrm{~mm}^{2}[/math] প্রস্থচ্ছেদবিশিষ্ট দুটি ভিন্ন উপাদানের তার [math]\mathrm{A}[/math] ও [math]\mathrm{B}[/math] ঝুলিয়ে তারদ্বয়ের নিচে [math]10 \mathrm{~kg}[/math] করে ভর ঝুলানো হলো। ফলে [math]\mathrm{A}[/math] তারটির দৈর্ঘ্য [math]7\%[/math] ও [math]\mathrm{B}[/math] তারটির দৈর্ঘ্য [math]8\%[/math] বৃদ্ধি পেল। [math]\rm{g}=9.8 \mathrm{~m} / \mathrm{s}^{2}[/math]
+
+Options:
+ঘ. সমান বল প্রয়োগে বস্তুর দৈর্ঘ্য বৃদ্ধির সাথে ইয়ং-এর গুণাঙ্কের মধ্যে সম্পর্ক উদ্দীপকের আলোকে গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+তারের দৈর্ঘ্য, [math]\rm{L}=200 \mathrm{~cm}=2 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+তারের প্রস্থচ্ছেদের ক্ষেত্রফল, [math]\rm{A}=1 \mathrm{~mm}^{2}=1 \times 10^{-6} \mathrm{~m}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+ভর, [math]\rm{m}=10 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}\therefore[/math]
+ বল, [math]\mathrm{F}=\mathrm{mg}=10 \mathrm{~kg} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2}=98 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}[/math]
+দৈর্ঘ্য বৃদ্ধি, [math]l=0.08 \times \mathrm{L}=0.08 \mathrm{~L}[/math]
+ [math]\hspace{1 cm} \rm{B}[/math]
+ তারের ইয়ং-এর গুণাঙ্ক ঙ্ক, [math]\rm{Y_B = ? }[/math]
+ [math]\hspace{1 cm}[/math]
+একক আয়তনে বিভবশক্তি, [math]\mathrm{U}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{Y_B} & =\frac{\mathrm{FL}}{\mathrm{Al}}=\frac{98 \mathrm{~N} \times \mathrm{L}}{1 \times 10^{-6} \times 0.08 \mathrm{~L}} \\ & =12.25 \times 10^{8} \mathrm{Nm}^{-2} \end{aligned}[/math]
+ [math]\rm{B}[/math]
+ তারের ইয়ং-এর গুণাঙ্ক, [math]\rm{Y_{B}}=12.25 \times 10^{8} \mathrm{Nm}^{-2}[/math]
+ [math]\rm{A}[/math]
+ তারের ইয়ং-এর গুণাঙ্ক, [math]\rm{Y_{A}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\rm{Y_{A}}=\rm{\dfrac{F L}{\mathrm{Al}^{\prime}}}=\dfrac{98 \mathrm{~N} \times \mathrm{L}}{1 \times 10^{-6} \times 0.07 \mathrm{~L}}=14 \times 10^{8} \mathrm{Nm}^{-2}[/math]
+এখন,[math]\hspace{1.2 cm}\quad \dfrac{\rm{Y_{\mathrm{B}}}}{\mathrm{Y}_{\mathrm{A}}}=\dfrac{12.25 \times 10^{8} \mathrm{Nm}^{-2}}{14 \times 10^{8} \mathrm{Nm}^{-2}}\\ \qquad\rm{\therefore Y_{B}=0.875 Y_{A}}[/math]
+অতএব, উপরের গাণিতিক বিশ্লেষণ হতে বলা যায় যে, [math]\rm{B}[/math]
+ তারে দৈর্ঘ্য বৃদ্ধি বেশি কিন্তু ইয়ং-এর গুণাঙ্ক [math]\rm{A}[/math]
+ তারের চেয়ে কম । অর্থাৎ ইয়ং এর গুণাঙ্ক দৈর্ঘ্য বৃদ্ধির সাথে ব্যস্তানুপাতে পরিবর্তিত হয়।
+
+Explanation:
+ব্যাখ্যা: কোন তারে লাঘবক বল [math]F[/math] হলে তাতে সৃষ্ট চাপ [math]\sigma=F/A[/math] এবং দৈর্ঘ্য বৃদ্ধির হার (strain) [math]\epsilon=\Delta L/L=\sigma/E=F/(AE)[/math] হয়, তাই [math]E=F/(A\epsilon)[/math]. একই বল ও একই প্রস্থচ্ছেদে [math]E\propto 1/\epsilon[/math], ফলে দুই উপাদানের ইয়ং-এর অনুপাত হবে [math]E_A/E_B=\epsilon_B/\epsilon_A=0.08/0.07=8/7\approx1.143[/math]. অর্থাৎ A উপাদানটি B-র চেয়ে প্রায় [math]8/7[/math] গুণ কঠিন (stiffer)।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 412094)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+রাফি পরীক্ষাগারে একটি তার ইস্পাতের তৈরি কি না যাচাই করছিল। এজন্য সে [math]2\mathrm{~m}[/math] দীর্ঘ এবং [math]1.12 \mathrm{~mm}[/math] ব্যাসবিশিষ্ট একটি তার নিল। তারটিতে [math]25\mathrm{~J}[/math] বিভবশক্তি প্রয়োগ করায় তারটির দৈর্ঘ্য [math]3\mathrm{~cm}[/math] বৃদ্ধি পায় এবং ব্যাস [math]5 \times 10^{-3} \mathrm{~mm}[/math] হ্রাস পায়। বিশুদ্ধ ইস্পাতের ইয়ং-এর গুণাঙ্ক [math]2 \times 10^{11} \mathrm{Nm}^{-2}[/math]।
+
+Options:
+ঘ. রাফির ব্যবহৃত তারটি ইস্পাতের ছিল কি? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+বিভব শক্তি, [math]\mathrm{U}=25 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি দৈর্ঘ্য, [math]\mathrm{L}=2 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+দৈর্ঘ্য বৃদ্ধি, [math]l=3 \mathrm{~cm}=3 \times 10^{-2} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=\dfrac{1.12}{2} \mathrm{~mm}=5.6 \times 10^{-4} \mathrm{~m}[/math]
+প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{A} & =\pi\rm{r}^{2} \\ & =3.1416 \times\left(5.6 \times 10^{-4}\right)^{2} \mathrm{~m}^{2} \\ & =9.85 \times 10^{-7} \mathrm{~m}^{2} \end{aligned}[/math]
+ইস্পাতের ইয়াংয়ের গুণাঙ্ক, [math]\mathrm{Y}_{\mathrm{s}}=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]
+ধরি, রাফির ব্যবহৃত তারটির ইয়ং গুণাঙ্ক [math]\rm{Y}[/math]
+সুতরাং,[math]\hspace{1.5 cm}\begin{array}{l}\quad \mathrm{U}=\dfrac{1}{2} \dfrac{\mathrm{YA} l^{2}}{\mathrm{~L}}\\ \Rightarrow \mathrm{Y}=\dfrac{2 \mathrm{UL}}{\mathrm{A} l^{2}}=\dfrac{2 \times 25 \times 2}{9.85 \times 10^{-7} \times\left(3 \times 10^{-2}\right)^{2}} \mathrm{Nm}^{-2} \\ \therefore \mathrm{Y}=1.13 \times 10^{11} \mathrm{Nm}^{-2} \end{array}[/math]
+উপরিউক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে, [math]\mathrm{Y} 
+eq \mathrm{Y}_{\mathrm{s}}[/math]
+অর্থাৎ রাফির তারের ইয়ং গুণাঙ্ক এবং ইস্পাতের ইয়ং গুণাঙ্ক এক নয়। অতএব, রাফির ব্যবহৃত তারটি ইস্পাতের ছিল না।
+
+Explanation:
+ঘ প্রথমে বল পাবার জন্য [math]U=\tfrac{1}{2}F\Delta L\Rightarrow F=\tfrac{2U}{\Delta L}=\tfrac{2\times25}{0.03}=1.67\times10^3\ \mathrm{N}.[/math] তারটির ক্ষেতফল এবং গুণাঙ্ক হিসাব করলে [math]A=\pi(0.56\times10^{-3})^2\approx9.84\times10^{-7}\ \mathrm{m^2},\ \sigma=F/A\approx1.7\times10^9\ \mathrm{Pa},\ \varepsilon=\Delta L/L=0.03/2=0.015[/math] এবং তাই [math]E=\sigma/\varepsilon\approx1.13\times10^{11}\ \mathrm{Pa}.[/math] বিশুদ্ধ ইস্পাতের [math]E=2\times10^{11}\ \mathrm{Pa}[/math] হওয়ায় পরিমাপিত মান অনেক কম—অতএব তারটি ইস্পাত নয় (বাইরে থেকে পাওয়া পয়সন অনুপাত ≈0.298 ইস্পাতের মত হলেও Young's modulus মিলছে না)।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 412095)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+দীপ গবেষণাগারে [math]6\mathrm{~m}[/math] দৈর্ঘ্যের এবং [math]0.6\mathrm{~mm}[/math] ব্যাসের একটি ইস্পাতের এবং আরেকটি সীসার তারের শেষ প্রান্তে পর্যায়ক্রমে [math]25\mathrm{~kg}[/math] তর ঝুলিয়ে দেওয়ার পর উভয় তারের দৈর্ঘ্য প্রসারণ পেল যথাক্রমে [math]0.026\mathrm{~m}[/math] এবং [math]0.325\ma thrm{~m}\ \left[Y_{s}=2 \times 10^{11} \mathrm{Nm}^{-2}\right][/math]
+
+Options:
+গ. প্রসারিত অবস্থায় ইস্পাত তারটির মধ্যে স্থিতিস্থাপক বিভবশক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+তারের দৈর্ঘ্য, [math]\mathrm{L}=6 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=\dfrac{0.6}{2} \mathrm{~mm}=0.3 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\hspace{1.5 cm}\begin{aligned} \rm{A} & =\pi\rm{r}^{2} \\ & =3.1416 \times\left(0.3 \times 10^{-3}\right)^{2} \mathrm{~m}^{2} \\ & =2.83 \times 10^{-7} \mathrm{~m}^{2} \end{aligned}[/math]
+ইস্পাতের ইয়ং গুণাঙ্ক, [math]\rm{Y_{s}}=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]
+দৈর্ঘ্য প্রসারণ, [math]l_{1}=0.026 \mathrm{~m}[/math]
+আমরা জানি, স্থিতিস্থাপক বিভব শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{U} & =\frac{1}{2} \frac{\rm{Y}_{\mathrm{s}} \mathrm{A} l_{1}^{2}}{\mathrm{~L}}=\frac{1}{2} \times \frac{2 \times 10^{11} \times 2.83 \times 10^{-7} \times 0.026^{2}}{6} \mathrm{~J} \\ \therefore \mathrm{U} & =3.19 \mathrm{~J} \end{aligned}[/math]
+অতএব, প্রসারিত অবস্থায় ইস্পাত তারটির মধ্যে স্থিতিস্থাপক বিভবশক্তি [math]3.19 \rm{J}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ ইস্পাত তারটির স্থিতিস্থাপক বিভবশক্তি হলো [math]U=\tfrac{1}{2}F\Delta L[/math] কারণ বল ধীরে বাড়লে কশোর্বলীয় ব্লুৎন অনুযায়ী বল সরলরেখায় বাড়ে। এখানে [math]F=mg=25\times 9.8=245\ \mathrm{N}[/math] ও [math]\Delta L=0.026\ \mathrm{m}[/math], তাই [math]U=\tfrac{1}{2}\times 245\times 0.026=3.185\ \mathrm{J}\approx 3.19\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 412096)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+দীপ গবেষণাগারে [math]6\mathrm{~m}[/math] দৈর্ঘ্যের এবং [math]0.6\mathrm{~mm}[/math] ব্যাসের একটি ইস্পাতের এবং আরেকটি সীসার তারের শেষ প্রান্তে পর্যায়ক্রমে [math]25\mathrm{~kg}[/math] তর ঝুলিয়ে দেওয়ার পর উভয় তারের দৈর্ঘ্য প্রসারণ পেল যথাক্রমে [math]0.026\mathrm{~m}[/math] এবং [math]0.325\ma thrm{~m}\ \left[Y_{s}=2 \times 10^{11} \mathrm{Nm}^{-2}\right][/math]
+
+Options:
+ঘ. উদ্দীপকের কোন তারটির ভার নেওয়ার সামর্থ্য বেশি? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+সীসার তারের দৈর্ঘ্য, [math]\mathrm{L}=6 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+বল, [math]\mathrm{F}=\mathrm{mg}=25 \times 9.8 \mathrm{~N}=245 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}[/math]
+সীসার তারের দৈর্ঘ্য প্রসারণ, [math]l_{2}=0.325 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=\dfrac{0.6}{2} \mathrm{~mm}=0.3 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ইস্পাতের ইয়ং গুণাঙ্ক, [math]\rm{Y}_{\mathrm{s}}=2 \times 10^{11} \mathrm{Nm}^{-2}[/math]
+ [math]\therefore[/math]
+ প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\hspace{1.5 cm}\begin{aligned} \rm{A} & =\pi\rm{r}^{2} \\ & =3.1416 \times\left(0.3 \times 10^{-3}\right)^{2} \mathrm{~m}^{2} \\ & =2.83 \times 10^{-7} \mathrm{~m}^{2} \end{aligned}[/math]
+সীসার তারের প্রস্থচ্ছেদের ক্ষেত্রফল [math]\rm{A} =[/math]
+ ইম্পাতের তারের প্রস্থচ্ছেদের ক্ষেত্রফল [math]=2.83 \times 10^{-7} \mathrm{~m}^{2}[/math]
+ধরি, সীসার তারের উপাদানের ইয়াং গুণাঙ্ক, [math]\rm{Y_L}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\mathrm{Y}_{\mathrm{L}}=\dfrac{\frac{\text{F}}{\text{A}}}{\frac{\ l_2}{L}}=\dfrac{\mathrm{FL}}{\mathrm{A}l_2}=\dfrac{245\times6}{2.83\times10^{-7}\times0.325}\mathrm{Nm}^{-2}[/math]
+দেখা যাচ্ছে, [math]\rm{Y_{s}>Y_{L}}[/math]
+ অর্থাৎ ইস্পাতের ইয়ং গুণাঙ্কের মান সীসা অপেক্ষা বেশি। অতএব, উদ্দীপকের ইস্পাতের তারটির ভার নেওয়ার সামর্থ্য বেশি।
+
+Explanation:
+ঘ স্টীল তারটির ভার নেওয়ার সামর্থ্য বেশি, কারণ এর স্টিফনেস বা ইয়াংস মডুলাস সীসার চেয়ে অনেক বড়। ব্যাখ্যা: ইয়াংস মডুলাস [math]Y=\dfrac{FL}{A\Delta L}[/math] যেখানে [math]F=25\times 9.8=245\ \mathrm{N}[/math], [math]A=\pi(0.0003)^2\approx 2.827\times 10^{-7}\ \mathrm{m^2}[/math]। সীসার জন্য [math]Y\approx \dfrac{245\times 6}{2.827\times 10^{-7}\times 0.325}\approx 1.6\times 10^{10}\ \mathrm{N/m^2}[/math], যা স্টীলের [math]2\times 10^{11}\ \mathrm{N/m^2}[/math] থেকে অনেক কম; তাই স্টীল বেশি ভার বহন করে।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 412097)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি স্টীল তারের উপর [math]10 \mathrm{~N}[/math] বল প্রয়োগে তারের দৈর্ঘ্য বৃদ্ধি হয় [math]0.1 \mathrm{~mm}[/math]। বলের পরিবর্তন করার ফলে একই দৈর্ঘ্যের এবং দ্বিগুণ ব্যাসার্ধের অন্য একটি তারে সমপরিমাণ দৈর্ঘ্য বৃদ্ধি ঘটে।
+
+Options:
+গ. উদ্দীপকের প্রথম তারের দৈর্ঘ্য বিকৃতিতে কৃতকাজ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+প্রযুক্ত বল, [math]\rm{F}=10 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}[/math]
+দৈর্ঘ্য বৃদ্ধি, [math]l=0.1 \mathrm{~mm}=0.1 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]\mathrm{W}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\mathrm{W}=\mathrm{F}l=10 \times 0.1 \times 10^{-3} \mathrm{~J}=10^{-3} \mathrm{~J}[/math]
+অতএব, উদ্দীপকের ১ম তারের দৈর্ঘ্য বিকৃতিতে কৃতকাজ [math]10^{-3} \mathrm{~J}[/math]
+।
+
+Explanation:
+গ স্টীল তারে চাপ ও বিস্তার অনুপাতিক (Hooke’s law), তাই কাজ = গড় বল × বিস্তার = [math]\tfrac{1}{2}F\Delta x[/math]; তাই [math]W=\tfrac{1}{2}\times10\ \mathrm{N}\times0.1\ \mathrm{mm}=\tfrac{1}{2}\times10\times0.0001\ \mathrm{m}=5\times10^{-4}\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 412082)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+গবেষণাগারে ব্যবহারের জন্য বিশেষভাবে নির্মিত দুটি তার P ও Q নেয়া হল । পরীক্ষায় প্রাপ্ত বিভিন্ন রাশির মান নিম্নরূপ:  
+
+
+[Image]
+
+
+Options:
+ঘ. কোন তারটি বেশি স্থিতিস্থাপক, গাণিতিকভাবে বিশ্লেষণ করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, P তারের ক্ষেত্রে, আদি দৈর্ঘ্য, [math]L_p[/math]
+ = 2.80mব্যাসার্ধ, [math]r_p[/math]
+ = 0.50 cm = 0.005.m 1দৈর্ঘ্য বৃদ্ধি, [math]l_p = 3.2 mm = 3.2 \times 10^{-3}[/math]
+ mঝুলানো ভর, [math]M_p[/math]
+ = 0.50 kgP-তারের ইয়ংয়ের গুণাঙ্ক, [math]Y_p[/math]
+ = ?Q তারের ক্ষেত্রে, আদি দৈর্ঘ্য, [math]L_Q[/math]
+ = 2.75 mব্যাসার্ধ, [math]r_Q[/math]
+ = 0.60 cm 0.60 cm = 0.006.mদৈর্ঘ্য বৃদ্ধি, [math]l_Q[/math]
+ = 3 mm = 3 × [math]10^{-3}[/math]
+ mঝুলানো ভর, [math]M_Q[/math]
+ = 0.75 kgQ-তারের ইয়ংয়ের গুণাঙ্ক, [math]Y_Q[/math]
+ = ?অভিকর্ষজ ত্বরণ, g = 9.8 m [math]s^{-2}[/math]
+আমরা জানি, ইয়ংয়ের গুণাঙ্ক,[math]\begin{array}{l}\mathrm{Y}=\frac{\mathrm{FL}}{\mathrm{A} l} \\\therefore \mathrm{Y}_{\mathrm{P}}=\frac{\mathrm{F}_{\mathrm{P}} \mathrm{L}_{\mathrm{P}}}{\mathrm{A}_{\mathrm{P}}l_{\mathrm{P}}}\\=\frac{\mathrm{M}_{\mathrm{P}} \mathrm{L}_{\mathrm{P}}}{\pi \mathrm{r}_{\mathrm{P}}{ }^{2} l_{\mathrm{P}}} \\=\frac{0.5 \times 9.8 \times 2.8}{3.14 \times(0.005)^{2} \times 3.2 \times 10^{-3}}\end{array}[/math]
+আবার,[math]\begin{array}{l}\mathrm{Y}_{\mathrm{Q}}=\frac{\mathrm{M}_{\mathrm{Q}} \mathrm{gL}_{\mathrm{Q}}}{\pi \mathrm{r}_{\mathrm{Q}}{ }^{2} l_{\mathrm{Q}}} \\=\frac{0.75 \times 9.8 \times 2.75}{3.14 \times(0.006)^{2} \times 3 \times 10^{-3}} \\=5.96 \times 10^{7} \mathrm{Nm}^{-2}\end{array}[/math]
+যেহেতু, [math]Y_Q > Y_P[/math]
+ অতএব Q তারের ইয়ংয়ের গুণাঙ্ক বেশি। অর্থাৎ Q তারটি বেশি স্থিতিস্থাপক ।
+
+Explanation:
+ব্যাখ্যা: ঘ কারণ স্থিতিস্থাপক ধ্রুবক [math]k=F/x[/math]; যদি গ্রাফে y-অক্ষে বল (F) ও x-অক্ষে প্রসারণ (x) দেখানো থাকে তাহলে রেখার ঢালই [math]k[/math]. গ্রাফ থেকে P-এর ঢাল Q-র চেয়ে বেশি হওয়ায় [math]k_P>k_Q[/math], তাই P তারটি বেশি স্থিতিস্থাপক।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 412083)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+A ও B দুইটি ধাতব তার। তাদের দৈর্ঘ্য যথাক্রমে 2 m ও 2.05 m এবং তাদের ব্যাস যথাক্রমে 2 mm ও 5 mm। তার দুইটিতে সমান ভরের বস্তু ঝুলালে A তারের প্রসারণ B তারের প্রসারণ অপেক্ষা দ্বিগুণ হয়। A তারের পয়সনের অনুপাত 0.4।
+
+Options:
+ঘ. উদ্দীপকের কোন তারটির স্থিতিস্থাপকতা বেশি— গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,A তারের দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{A}}=2 \mathrm{~m}[/math]
+B তারের দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{B}}=2.05 \mathrm{~m}[/math]
+A তারের ব্যাসার্ধ [math]\mathrm{r}_{\mathrm{A}}=\frac{2}{2} \mathrm{~mm}[/math]
+ [math]=1 \mathrm{~mm}[/math]
+ [math]=10^{-3} \mathrm{~m}[/math]
+B তারের ব্যাসার্ধ ,[math]\begin{array}{l}r_{B}=\frac{5}{2} \mathrm{~mm} \\=2.5 \mathrm{~mm} \\=2.5 \times 10^{-3} \mathrm{~m}\end{array}[/math]
+ধরি,B তারের দৈর্ঘ্য বৃদ্ধি, [math]\Delta \mathrm{L}_{\mathrm{B}}=l[/math]
+ [math]\therefore[/math]
+ A তারের দৈর্ঘ্য বৃদ্ধি [math]\Delta \mathrm{L}_{\mathrm{A}}=2 l[/math]
+A ও B তারের ইয়ংয়ের গুণাংক . যথাক্রমে [math]Y_{A}[/math]
+ ও [math]Y_{\mathrm{B}}[/math]
+ হলে আমরা পাই,[math]Y_{A}=\frac{\frac{\mathrm{F}}{\mathrm{r}_{\mathrm{A}}^{2}}}{\frac{\Delta \mathrm{L}_{\mathrm{A}}}{\mathrm{L}_{\mathrm{A}}}}[/math]
+এবং [math]Y_{B}=\frac{\mathrm{F}}{\pi \mathrm{r}_{\mathrm{B}}^{2}} / \frac{\Delta L_{\mathrm{B}}}{L_{\mathrm{B}}}[/math]
+এখন [math]\frac{Y_{A}}{Y_{B}}=\frac{r_{B}{ }^{2}}{r_{A}^{2}} \times \frac{\Delta L_{B}}{\Delta L_{A}} \times \frac{L_{A}}{L_{B}}[/math]
+ [math]\begin{aligned}= & \left(\frac{2.5 \times 10^{-3}}{10^{-3}}\right)^{2} \times \frac{l}{2 l} \times \frac{2}{2.05} \\= & 6.25 \times \frac{1}{2} \times \frac{2}{2.05} \\= & 3.049 \\\therefore & \mathrm{Y}_{\mathrm{A}}=3.049 \times \mathrm{Y}_{\mathrm{B}} \end{aligned}[/math]
+সুতরাং A তারের স্থিতিস্থাপকতা B তার অপেক্ষা বেশি।
+
+Explanation:
+ঘ উত্তর: B তারের স্থিতিস্থাপকতা বেশি। ব্যাখ্যা: [math]\Delta=\frac{F L}{E A}[/math] এবং [math]k=\frac{E A}{L}[/math], তাই [math]\Delta=\frac{F}{k}[/math]; একই বল ও [math]\Delta_A=2\Delta_B[/math] হওয়ায় [math]\frac{F}{k_A}=2\frac{F}{k_B}\Rightarrow k_B=2k_A[/math], অর্থাৎ B তারের স্থিতিস্থাপকের মান A-র দ্বিগুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 412084)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+সুমন 2 বর্গমিলিমিটার প্রস্থচ্ছেদের ক্ষেত্রফল এবং 9 m দীর্ঘ একটি, তার নিয়ে নিচের প্রান্তে 12 kg ভর ঝুলিয়ে দিলো। এতে তারের দৈর্ঘ্য বৃদ্ধি ঘটলো আদি দৈর্ঘ্যের 0.001%। ইস্পাতের ইয়ং এর গুণাঙ্ক [math]20 \times 10^{10} \mathrm{Nm}^{-2}[/math]।
+
+Options:
+ঘ. উদ্দীপকে সুমনের ব্যবহৃত তারটি ইস্পাত ছিল কিনা যাচাই করো ৷
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,তারের দৈর্ঘ্য, L = 9 mদৈর্ঘ্য বৃদ্ধি,[math]\begin{aligned}l & =9 \times \frac{0. 001}{100} \\& =9 \times 10^{-5} \mathrm{~m}\end{aligned}[/math]
+'ভর, m = 12 kgক্ষেত্রফল, [math]\mathrm{A}=2 \times 10^{-6} \mathrm{~m}^{2}[/math]
+ইস্পাতের ইয়ং এর গুণাঙ্ক [math]Y_{s}=20 \times 10^{10} \mathrm{Nm}^{-2}[/math]
+তারের ইয়ং এর গুণাঙ্ক, Y = ?আমরা জানি,[math]\begin{aligned}Y^{} & =\frac{\mathrm{mgL}}{\mathrm{Al}} \\& =\frac{12 \times 9.8 \times 9}{2 \times 10^{-6} \times 9 \times 10^{-5}} \\& =5.88 \times 10^{12} \mathrm{Nm}^{-2}\end{aligned}[/math]
+যেহেতু, [math]Y 
+eq Y_{s},[/math]
+ সুতরাং, সুমনের ব্যবহৃত তারটি ইস্পাত নয়। (Ans. )
+
+Explanation:
+ব্যাখ্যা:
+ঘ প্রথমে প্রসারণের অনুপাত [math]\epsilon=0.001\%=1\times10^{-5}[/math]। বস্তুগত বল [math]F=mg=12\times9.8=117.6\ \mathrm{N}[/math] এবং ক্ষেত্রফল [math]A=2\ \mathrm{mm}^2=2\times10^{-6}\ \mathrm{m}^2[/math] হলে ইয়ংস মডিউল হবে [math]E=\dfrac{F/A}{\epsilon}=\dfrac{117.6/(2\times10^{-6})}{1\times10^{-5}}=5.88\times10^{12}\ \mathrm{N/m^2}[/math]। এটি প্রদত্ত ইস্পাতের [math]2.0\times10^{11}\ \mathrm{N/m^2}[/math] থেকে অনেক বেশী, তাই তারটি ইস্পাত ছিল না।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 412085)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি অ্যালুমিনিয়ামের তারের দৈর্ঘ্য 2 m, প্রস্থচ্ছেদের ক্ষেত্রফল [math]1 \mathrm{mm}^{2}[/math] এবং অপর একটি কার্বন মিশ্রিত অ্যালুমিনিয়ামের তারের দৈর্ঘ্য 2.25 m, প্রস্থচ্ছেদের ক্ষেত্রফল [math]0.90 \mathrm{~mm}^{2}[/math]। তার দুটির প্রত্যেকটিতে 20 N বল প্রয়োগ করলে যথাক্রমে 0.2 mm ও 0.19 mm দৈর্ঘ্য বৃদ্ধি পায়।
+
+Options:
+ঘ. অ্যালুমিনিয়ামের সাথে কার্বন মেশানোর ফলে স্থিতিস্থাপকতার কীরূপ পরিবর্তন ঘটে? গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,বল, F = 20 Nঅ্যালুমিনিয়াম তারের ক্ষেত্রে,আদি দৈর্ঘ্য, [math]\mathrm{L}_{1}=2 \mathrm{~m}[/math]
+প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\begin{aligned}A_{1} & =1 \mathrm{~mm}^{2} \\& =10^{-6} \mathrm{~m}^{2}\end{aligned}[/math]
+দৈর্ঘ্য বৃদ্ধি,[math]\begin{aligned}\ell_{1} & =0.2 \mathrm{~mm} \\& =0.2 \times 10^{-3} \mathrm{~m}\end{aligned}[/math]
+অ্যালুমিনিয়াম তারের ইয়ং গুণাঙ্ক [math]Y_{1}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{Y}_{1}=\frac{\mathrm{FL}_{1}}{\mathrm{~A}_{1} l_{1}} \\=\frac{20 \times 2}{1 \times 10^{-6} \times 0.2 \times 10^{-3}} \\=2 \times 10^{11} \mathrm{Nm}^{-2}\end{array}[/math]
+এখানে,বল, F = 20 Nকার্বন মিশ্রিত অ্যালুমিনিয়াম তারের ক্ষেত্রে,আদি দৈর্ঘ্য, [math]\mathrm{L}_{2}=2.25 \mathrm{~m}[/math]
+প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\begin{aligned}\mathrm{A}_{2} & =0.9 \mathrm{~mm}^{2} \\& =0.9 \times 10^{-6} \mathrm{~m}^{2}\end{aligned}[/math]
+দৈর্ঘ্য বৃদ্ধি,[math]\begin{aligned}\ell_{2} & =0.19 \mathrm{~mm} \\& =0.19 \times 10^{-3} \mathrm{~m}\end{aligned}[/math]
+কার্বন মিশ্রিত অ্যালুমিনিয়াম তারের ইয়ং গুণাঙ্ক [math]Y_{2}[/math]
+ হলে,[math]\begin{array}{l}Y_{2}=\frac{F L_{2}}{\mathrm{~A}_{2} \mathrm{l}_{2}} \\=\frac{20 \times 2.25}{0.9 \times 10^{-6} \times 0.19 \times 10^{-3}} \\=2.63 \times 10^{11} \mathrm{Nm}^{-2}\end{array}[/math]
+দেখা যাচ্ছে, [math]Y_{2}>Y_{1}[/math]
+ এবং [math]\frac{\mathrm{Y}_{2}}{\mathrm{Y}_{1}}=\frac{2.63 \times 10^{11}}{2 \times 10^{11}}=1.32[/math]
+সুতরাং বলা যায়, অ্যালুমিনিয়ামের সাথে কার্বন মেশানোর ফলে স্থিতিস্থাপকতা বৃদ্ধি পেয়ে পূর্বের 1.32 গুণ হয় ৷
+
+Explanation:
+ঘ ব্যাখ্যা: স্থিতিস্থাপকতা মাপার সূত্র [math]E=\dfrac{FL}{A\Delta L}[/math] প্রয়োগ করলে অ্যালুমিনিয়ামের জন্য [math]E_{Al}=\dfrac{20\times2}{1\times10^{-6}\times2\times10^{-4}}=2.00\times10^{11}\,\text{Pa}[/math] এবং কার্বন-মিশ্রিত অ্যালুমিনিয়ামের জন্য [math]E_{mix}=\dfrac{20\times2.25}{0.9\times10^{-6}\times1.9\times10^{-4}}=2.63\times10^{11}\,\text{Pa}[/math] পাওয়া যায়। তাই কার্বন মেশানোর ফলে ইয়াংস মডিউল প্রায় [math]\dfrac{2.63-2.00}{2.00}\times100\%=31.6\%[/math] বৃদ্ধি পেয়েছে, অর্থাৎ তার কঠিনত্ব ও স্থিতিস্থাপকতা বৃদ্ধি পায় কারণ কার্বন উপাদানটি ধাতুটির মাইক্রোস্ট্রাকচারে শক্ত বন্ধন ও কম বিচ্যুতি তৈরি করে।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 412080)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে 1.5 m আদি দৈর্ঘ্যের A ও B দুইটি একই উপাদানের তার । প্রযুক্ত বলের সাথে তার দুইটির দৈর্ঘ্য বৃদ্ধির লেখচিত্র উপরে প্রদর্শিত হয়েছে । [math]Y_A = 2 × 10^{11} N/m^2[/math]
+
+Options:
+ঘ. 10 cm দৈর্ঘ্য প্রসারণে উভয় তারে কৃতকাজ সমান হবে কিনা তা গাণিতিকভাবে যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘযেহেতু তার দুইটি একই উপাদানের তৈরি সেহেতু তার দুইটির ইয়ংয়ের গুণাঙ্ক একই হবে। অর্থাৎ, [math]Y_A = Y_B = 2 × 10^{11} N/m^2[/math]
+এখানে,বল, [math]F_A[/math]
+ = 15 Nদৈর্ঘ্য বৃদ্ধি, 1 = 0.02 mআদি দৈর্ঘ্য, [math]L_A[/math]
+ = 1.5mক্ষেত্রফল, [math]A_1[/math]
+ ?10 cm বা 0.1 m দৈর্ঘ্য বৃদ্ধির জন্য কৃতকাজ, [math]W_A[/math]
+ = ?A তারের ক্ষেত্রে, [math]\mathrm{Y}_{\mathrm{A}}=\frac{\mathrm{F}_{\mathrm{A}} \mathrm{L}_{\mathrm{A}}}{\mathrm{A}_{\mathrm{l}} l}[/math]
+ [math]\begin{array}{l}\Rightarrow\text { } A_{1}=\frac{F_{A} L_{A}}{Y_{A} l} \\=\frac{15 \times 1.5}{2 \times 10^{11} \times 0.02} \\=5.625 \times 10^{-9}\end{array}[/math]
+আবার, [math]l_1[/math]
+ - 10 cm বা, 0.1 m হলে,[math]\mathrm{W}_{\mathrm{A}}=\frac{1}{2} \frac{\mathrm{Y}_{\mathrm{A}} \mathrm{A}_{1} l_{1}^{2}}{\mathrm{~L}_{\mathrm{A}}}=\frac{1}{2} \times \frac{2 \times 10^{11} \times 5.625 \times 10^{-9} \times(0.1)^{2}}{1.5}=3.75 \mathrm{~J}[/math]
+এখানে, বল, [math]F_B[/math]
+ = 7Nদৈর্ঘ্য বৃদ্ধি, l = 0.02আদি দৈর্ঘ্য, [math]L_B[/math]
+ = 1.5mক্ষেত্রফল, [math]A_2[/math]
+ = 210cm বা 0.1m দৈর্ঘ্য বৃদ্ধির জন্য কৃতকাজ, [math]W_B[/math]
+ = ?B তারের ক্ষেত্রে,[math]\begin{array}{l}Y_{B}=\frac{F_{B} L_{B}}{A_{2} l} \\\Rightarrow\text { } A_{2}=\frac{F_{B} L_{B}}{Y_{B} l} \\=\frac{7 \times 1.5}{2 \times 10^{11} \times 0.02} \\=2.625 \times 10^{-9}\end{array}[/math]
+আবার, 2 = 10 cm বা, 0.1 m হলে,[math]W_{B}=\frac{1}{2} \frac{Y_{B} A_{2} l_{2}^{2}}{L_{B}}=\frac{1}{2} \times \frac{2 \times 10^{11} \times 2.625 \times 10^{-9} \times(0.1)^{2}}{1.5}=1.75 \mathrm{~J}[/math]
+অতএব 10cm দৈর্ঘ্য প্রসারণে উভয় তারে, কৃতকাজ সমান হবে না। বরং A তারের কৃতকাজ [math]W_A[/math]
+ > B তারের কৃতকাজ [math]W_B[/math]
+ হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ দুই তারের জন্য কাজ হচ্ছে F–x লেখচিত্রের নিচে ক্ষেত্রফল, যেখানে [math]W=\tfrac{1}{2}kx^2[/math] এবং স্থিতিস্থাপক ধ্রুবক [math]k=\dfrac{YA}{L}[/math]. তাই
+[math]W=\tfrac{1}{2}\dfrac{Y A}{L}x^2[/math],
+এখানে [math]Y, L, x[/math] উভয়ের জন্য সমান হলে কাজ অনুপاتی হয় কেবলমাত্র ক্রস-অঞ্চলফল [math]A[/math]-এর; অর্থাৎ কাজ একই হবে কেবলমাত্র যখন [math]A_A=A_B[/math]। সাধারণত গ্রাফের ঢাল ভিন্ন হলে (অর্থাৎ [math]A[/math] ভিন্ন হলে) 10 cm প্রসারণে কাজ সমান হবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 412081)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি তার। A তারের দৈর্ঘ্য [math]l_1[/math], ও ব্যাসার্ধ [math]r_1[/math], অন্যদিকে B তারের দৈর্ঘ্য [math]l_2[/math] ও ব্যাসার্ধ [math]r_2[/math]। উভয় তারে 7 kg ভর উল্লম্বভাবে নিচে চাপানো হলে A তারের দৈর্ঘ্য বৃদ্ধি পায় 1 mm। B তারেরও দৈর্ঘ্য বৃদ্ধি পায়।
+
+Options:
+গ. A তারে কৃতকাজের পরিমাণ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,A তারের দৈর্ঘ্য বৃদ্ধি, l = 1mm = $10^{-3} mA তারে প্রযুক্ত বল, F = mg = 7 × 2.8 = 68.6 Nআমরা জানি,কৃতকাজ,[math]\begin{aligned}\mathrm{W} & =\frac{1}{2} \times \mathrm{F} \times \mathrm{l} \\& =\frac{1}{2} \times 68.6 \times 10^{-3}\end{aligned}[/math]
+= 0.0343 J [math]\\[/math]
+
+
+Explanation:
+গ  
+ব্যাখ্যা: তারে কৃতকাজ বা সংরক্ষিত স্থিতিস্থাপক শক্তি হলো [math]W=\int_0^{\Delta l}F\,dx=\tfrac{1}{2}F_{\text{final}}\Delta l=\tfrac{1}{2}mg\Delta l[/math], এখানে [math]\Delta l=1\ \text{mm}=1\times10^{-3}\ \text{m}[/math]. তাই, [math]W=\tfrac{1}{2}\times7\times9.8\times1\times10^{-3}=0.0343\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 412079)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে 1.5 m আদি দৈর্ঘ্যের A ও B দুইটি একই উপাদানের তার । প্রযুক্ত বলের সাথে তার দুইটির দৈর্ঘ্য বৃদ্ধির লেখচিত্র উপরে প্রদর্শিত হয়েছে । [math]Y_A = 2 × 10^{11} N/m^2[/math]
+
+Options:
+গ. A তারের ব্যাসার্ধ নির্ণয় করো
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,A তারের আদি দৈর্ঘ্য, L = 1.5mদৈর্ঘ্য বৃদ্ধি, 1 = 2 cm= 0.02 mবল, F = 15 Nইয়ং এর গুণাঙ্ক, [math]Y_A = 2 × 10^{11} N/m^2[/math]
+A তারের ব্যাসার্ধ, r =?আমরা জানি, ইয়ংয়ের গুণাঙ্ক,[math]\begin{array}{l}\mathrm{Y}_{\mathrm{A}}=\frac{\mathrm{FL}}{\mathrm{A} l}=\frac{\mathrm{FL}}{\pi \mathrm{r}^{2} l} \\\Rightarrow\text { } \mathrm{r}=\frac{\mathrm{FL}}{\mathrm{Y}_{\mathrm{A}} \pi l} \\\Rightarrow\text { } \mathrm{r}=\sqrt{\frac{\mathrm{FL}}{\mathrm{Y}_{\mathrm{A}} \pi l}} \\=\sqrt{\frac{15 \times 1.5}{2 \times 10^{11} \times 3.14 \times 0.02}} \\=4.23 \times 10^{-5} \mathrm{~m} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: তানবর্ধন সূত্র [math]\Delta L = \dfrac{F L}{A Y}[/math] থেকে ঢাল [math]s_A=\dfrac{\Delta L}{F}=\dfrac{L}{A Y}[/math] হয়, তাই ক্ষেত্রফল [math]A=\dfrac{L}{Y s_A}[/math] এবং ব্যাসার্ধ [math]r=\sqrt{\dfrac{A}{\pi}}=\sqrt{\dfrac{L}{\pi Y s_A}}[/math] হবে। এখানে [math]L=1.5\ \text{m}[/math] এবং [math]Y_A=2\times10^{11}\ \text{N/m}^2[/math]; গ্রাফ থেকে [math]s_A[/math] নিয়ে এই সূত্রে বসালে [math]r[/math] এর মান পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 412078)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি স্থিতিস্থাপক বস্তুর পীড়ন বনাম বিকৃতি এর লেখচিত্র নিচে দেখানো হলো ।
+
+
+[Image]
+
+
+Options:
+ঘ. লেখচিত্রের যে কোনো বিন্দুর ঢাল থেকে ইয়ং এর গুণাঙ্ক নির্ণয় করা সম্ভব নয়— যৌক্তিক ব্যাখ্যা উপস্থাপন করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘস্থিতিস্থাপক সীমার মধ্যে পীড়ন ও বিকৃতি পরস্পরের সমানুপাতিক এটি হুকের সূত্রঅর্থাৎ, পীড়ন ∝ বিকৃতি ।বা, পীড়ন /বিকৃতি = ধ্রুবকএখন বলের দরুন যদি শুধুমাত্র দৈর্ঘ্যের পরিবর্তন হয় তখন উক্ত ধ্রুবককে ইয়ংয়ের গুণাঙ্ক বলা হয় ।অর্থাৎ, দৈর্ঘ্য পীড়ন / দৈর্ঘ্য বিকৃতি = ইয়ং এর গুণাঙ্ক (Y)হুকের সূত্রানুযায়ী, দৈর্ঘ্য পীড়ন ও দৈর্ঘ্য বিকৃতি সমানুপাতিক অর্থাৎ, X- অক্ষে পীড়ন বা প্রযুক্ত ভার এবং Y-অক্ষে বরাবর বিকৃতি বা দৈর্ঘ্য বৃদ্ধির মান বসিয়ে লেখচিত্র অঙ্কন করলে তা একটি সরলরেখা হবে এবং মূলবিন্দু দিয়ে যাবে। স্থিতিস্থাপক সীমা অতিক্রম করলে বস্তুর স্থায়ী বিকৃতি শুরু হয়। আর স্থায়ী বিকৃতির কারণে বস্তুর অভ্যন্তরীণ 'গঠনের পরিবর্তন হয় তাই, বিভিন্ন বিকৃতির মানের জন্য বক্ররেখায় ঢাল এর পরিবর্তন ঘটে। সুতরাং নির্দিষ্ট মানের ইয়ং এর গুণাঙ্ক নির্ণয় করা সম্ভব হয় না ।
+
+Explanation:
+ব্যাখ্যা: ঘটি সঠিক নয়—ইয়ং এর গুণাঙ্ক(definition অনুযায়ী) চাপ ও বিকৃতির অনুপাত এবং তা গ্রাফের লিনিয়ার ইলাস্টিক অংশের ঢাল দ্বারা নির্ণীত হয়; অর্থাৎ [math]E=\sigma/\varepsilon[/math]. গ্রাফের কোনো একমাত্র (অপ্রারম্ভিক বা বক্র) বিন্দুর ঢাল সাধারণত পরিবর্তনশীল হওয়ায় সেটি সবসময় ইয়ং-এর গুণাঙ্ক দেবে না—শুধুমাত্র প্রাথমিক সরল অংশের ধ্রুবক ঢালই E।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 412077)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি স্থিতিস্থাপক বস্তুর পীড়ন বনাম বিকৃতি এর লেখচিত্র নিচে দেখানো হলো ।
+
+
+[Image]
+
+
+Options:
+গ. বস্তুটির স্থিতিস্থাপক গুণাঙ্ক নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,পীড়ন = [math]2\times 10^8 Nm^{- 2}[/math]
+বিকৃতি = 0.4স্থিতিস্থাপক গুণাঙ্ক = ?আমরা জানি,স্থিতিস্থাপক গুণাঙ্ক = পীড়ন/বিকৃতি[math]\begin{array}{l}=\frac{2 \times 10^{8}}{0.4} \\=5 \times 10^{9} \mathrm{Nm}^{-2} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: হুকের আইন অনুযায়ী বল এবং বিকৃতি সম্পর্ক হল [math]F = kx[/math], তাই স্থিতিস্থাপক গুণাঙ্ক হলো রেখাচিত্রের ঢাল।  
+গ রেখাচিত্র থেকে কোনো দুটি স্পষ্ট বিন্দু নিলে [math]k = \dfrac{\Delta F}{\Delta x} = \dfrac{F_2 - F_1}{x_2 - x_1}[/math] দ্বারা নির্ণয় করতে হবে (রেখার ঢালই k)।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 411876)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Birsrestha Noor Mohammad Public College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. [math]X[/math] ও [math]Y[/math] দুটি তারের মধ্যে কোনটি বেশি স্থিতিস্থাপ গাণিতিক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, X তারের আদি দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{A}}=0.8 \mathrm{~m}[/math]
+ [math]\hspace{1.2cm}\mathrm {Y}[/math]
+ তারের আদি দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{B}}=0.75 \mathrm{~m}[/math]
+ [math]\hspace{1.2cm}\mathrm {X}[/math]
+ তারের ব্যাসার্ধ [math]\mathrm{r}_{\mathrm{A}}=0.5 \mathrm{~mm}=0.5 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1.2cm}\mathrm {Y}[/math]
+ তারের ব্যাসার্ধ [math]\mathrm{r}_{\mathrm{B}}=0.6 \mathrm{~mm}=0.6 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1.2cm}\mathrm {X}[/math]
+ তারে প্রযুক্ত বল, [math]\mathrm{F}_{\mathrm{A}}=5 \mathrm{~N}[/math]
+ [math]\hspace{1.2cm}\mathrm {Y}[/math]
+ তারে প্রযুক্ত বল, [math]\mathrm{F}_{\mathrm{B}}=6 \mathrm{~N}[/math]
+ [math]\hspace{1.2cm}\mathrm {X}[/math]
+ তারের দৈর্ঘ্য বৃদ্ধি [math]l_{\mathrm{A}}=7 \mathrm{~mm}=7 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1.2cm}\mathrm {Y}[/math]
+ তারের দৈর্ঘ্য বৃদ্ধি [math]l_{\mathrm{B}}=8 \mathrm{~mm}=8 \times 10^{-3} \mathrm{~m}[/math]
+এখন, X তারের ইয়ং গুণাঙ্ক [math]\mathrm{Y}_{\mathrm{A}}[/math]
+ হলে,[math]\hspace{1.5cm}\begin{aligned}\mathrm{Y}_{\mathrm{A}} & =\frac{\mathrm{F}_{\mathrm{A}} \mathrm{L}_{\mathrm{A}}}{\pi \mathrm{r}_{\mathrm{A}}{ }^{2} l_{\mathrm{A}}} \\& =\frac{5 \mathrm{~N} \times 0.8 \mathrm{~m}}{\pi \times\left(0.5 \times 10^{-3} \mathrm{~m}\right)^{2} \times 7 \times 10^{-3} \mathrm{~m}}=7.27 \times 10^{8} \mathrm{~N} \mathrm{~m}^{-2}\end{aligned}[/math]
+Y তারের ইয়ং গুণাঙ্ক [math]\mathrm{Y}_{\mathrm{B}}[/math]
+ হলে,[math]\hspace{1.5cm}\begin{aligned}\mathrm{Y}_{\mathrm{B}}&=\frac{\mathrm{F}_{\mathrm{B}}\mathrm{L}_{\mathrm{B}}}{\pi\mathrm{r}_{\mathrm{B}}^2l_{\mathrm{B}}}\\&=\frac{6\mathrm{~N}\times0.75\mathrm{~m}}{\pi\times\left(0.6\times10^{-3}\mathrm{~m}\right)^2\times8\times10^{-3}\mathrm{~m}}=4.97\times10^8\mathrm{~N}\mathrm{~m}^{-2}\end{aligned}[/math]
+এখানে, [math]\mathrm{Y_A>Y_B}[/math]
+অতএব, X ও Y তারের মধ্যে X তারটি বেশি স্থিতিস্থাপক। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: তারের স্থিতিস্থাপক ধ্রুবক নির্ণায়ক সূত্র হলো [math]k=\dfrac{YA}{L}[/math], যেখানে [math]Y[/math] হলো ইয়ং মডিউল, [math]A[/math] কাটা পৃষ্ঠের ক্ষেত্রফল ও [math]L[/math] দৈর্ঘ্য। তাই দুইটি তারের তুলনায়
+
+[math]\dfrac{k_X}{k_Y}=\dfrac{A_X/L_X}{A_Y/L_Y}=\dfrac{A_X\,L_Y}{A_Y\,L_X}[/math].
+
+যদি চিত্রে দেখা যায় যে [math]X[/math]‑এর ক্রস‑অঞ্চল বৈশিষ্ট্যত: বড় বা দৈর্ঘ্য ছোট, তাহলে [math]k_X>k_Y[/math] অর্থাৎ [math]X[/math] এর স্থিতিস্থাপকতা বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 411877)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: সফিউদ্দিন সরকার একাডেমি এন্ড কলেজ
+--------------------------------------------------------------------------------
+Question:
+ইমা তার ল্যাবে [math]1\ \rm{m}[/math] লম্বা ও [math]4 \mathrm{~mm}^{2}[/math] প্রস্থচ্ছেদের একটি তারের নিচ প্রান্তে ভর ঝুলিয়ে এর দৈর্ঘ্য পরিবর্তন ও পার্শ্ব পরিবর্তনের পাঠ নিল এবং তার বান্ধবী তিশাকে বলল যে, তার পরীক্ষায় দৈর্ঘ্য পরিবর্তন ও পার্শ্ব পরিবর্তন যথাক্রমে [math]5\%[/math] ও [math]8\%[/math] পাওয়া গেছে। এটা শুনে তিশা বলল হতে পারে না। তোমার উপাত্ত সংগ্রহ ভুল হয়েছে। (তারের ইয়ং-এর গুণাঙ্ক [math]2 \times 10^{11} \mathrm{~N} / \mathrm{m}^{2}[/math] )
+
+Options:
+ঘ. তিশার উক্তির যথার্থতা গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, পার্শ্ববিকৃতি [math]=8 \%=\frac{8}{100}[/math]
+ [math]\hspace{1.5cm}[/math]
+দৈর্ঘ্য বিকৃতি [math]=5 \%=\frac{5}{100}[/math]
+ [math]\therefore[/math]
+ তারের পয়সনের অনুপাত, [math]\sigma =[/math]
+ পার্শ্ব বিকৃতি [math]\div[/math]
+দৈর্ঘ্য বিকৃতি[math]\hspace{5.5cm}\begin{array}{l}=\frac{\frac{8}{100}}{\frac{5}{100}} \\=\frac{8}{100} \times \frac{100}{5}=1.6\end{array}[/math]
+কিন্তু, আমরা জানি, পয়সনের অনুপাতের মান – 1 থেকে [math]\frac{1}{2}[/math]
+এর মধ্যে।অর্থাৎ [math]-1<\sigma<\frac{1}{2}[/math]
+এখানে, [math]\sigma[/math]
+ এর মান 1.6 যা পয়সনের অনুপাতের সীমার বাইরে ।অতএব, আমরা বলতে পারি ইমার উপাত্ত সংগ্রহ ভুল ছিল অর্থাৎ তিশার উক্তিটি যথার্থ ছিল। [math]\\[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: লম্বাগত প্রতিাত্তর [math]\varepsilon_{axial}=0.05[/math] ও পার্শ্বিক পরিবর্তনের পরিমাপ [math]0.08[/math] হলে পয়সনের অনুপাত হবে [math]\nu=-\varepsilon_{lat}/\varepsilon_{axial}=1.6[/math], যা বাস্তব ইসোট্রপিক কঠিনের সর্বোচ্চ মান [math]\nu\le0.5[/math] ছাড়ায়—অতএব মাপটি অসম্ভব এবং তিশা সঠিক। আরও দেখা যায় যে এই স্ট্রেনের জন্য চাপ [math]\sigma=E\varepsilon=2\times10^{11}\times0.05=1\times10^{10}\,\rm Pa[/math] এবং প্রয়োজনীয় বল [math]F=\sigma A=1\times10^{10}\times4\times10^{-6}=4\times10^{4}\,\rm N</math] (প্রায় [math]4.1\times10^{3}\,\rm kg</math] ভর), যা ল্যাবে পাওয়া বাস্তবসম্মত নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 411878)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Monipur Uchcha Vidyalaya and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]4\mathrm{~mm}[/math] ও [math]6\mathrm{~mm}[/math] ব্যাসের দুটি সমান দৈর্ঘ্যের তারকে সমান বলা দ্বারা টানলে প্রথমটির দৈর্ঘ্য বৃদ্ধি দ্বিতীয়টির [math]2.25[/math] গুণ। প্রথম তারটির দৈর্ঘ্য বৃদ্ধি [math]10\%[/math] এবং পয়সনের অনুপাত [math]0.5[/math]।
+
+Options:
+ঘ. তার দু'টি একই উপাদানের কি না? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএক্ষেত্রে আমাদেরকে দেখতে হবে তার দুটির ইয়ং এর গুণাঙ্ক সমান কি না। তার দুটি একই উপাদানের হলে এদের ইয়ং এর গুণাঙ্ক সমান হবে।ধরি, দ্বিতীয় তারের দৈর্ঘ্য বৃদ্ধি, [math]l_{2}= l[/math]
+ [math]\therefore[/math]
+ প্রথম তারের দৈর্ঘ্য বৃদ্ধি, [math]l_{1}=2.25 l[/math]
+প্রথম তারের ব্যাসার্ধ, [math]\mathrm r_{1}=2 \mathrm{~mm}[/math]
+দ্বিতীয় তারের ব্যাসার্ধ, [math]\mathrm r_{2}=3 \mathrm{~mm}[/math]
+প্রথম তারের ক্ষেত্রে, [math]\mathrm Y_1=\mathrm{\frac{FL}{\pi r_1^2l_1}}[/math]
+দ্বিতীয় তারের ক্ষেত্রে, [math]\mathrm{Y}_{2}=\frac{\mathrm{FL}}{\pi \mathrm{r}_{2}{ }^{2} l_{2}}[/math]
+সুতরাং, [math]\frac{\mathrm{Y}_{1}}{\mathrm{Y}_{2}}=\frac{\mathrm{FL}}{\pi \mathrm{r}_{1}{ }^{2} l_{1}} \times \frac{\pi \mathrm{r}_{2}{ }^{2} l_{2}}{\mathrm{FL}}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow \frac{\mathrm{Y}_{1}}{\mathrm{Y}_{2}}=\frac{\mathrm{r}_{2}{ }^{2} l_{2}}{\mathrm{r}_{1}{ }^{2} l_{1}} \\\Rightarrow \frac{\mathrm{Y}_{1}}{\mathrm{Y}_{2}}=\frac{3^{2} \times 1}{2^{2} \times 2.25 l}=1 \\\therefore \mathrm{Y}_{1}=\mathrm{Y}_{2}\end{array}[/math]
+অতএব তার দুটি একই উপাদানের তৈরি। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ, দু'টি তারই একই উপাদান। কারণ সমান বল ও সমান দৈর্ঘ্যে [math]\Delta L\propto\frac{1}{AY}[/math], তাই
+[math]\frac{\Delta L_1}{\Delta L_2}=\frac{A_2Y_2}{A_1Y_1}.[math]
+দুটি তারের ব্যাস 4 mm ও 6 mm হলে [math]\frac{A_2}{A_1}=\frac{6^2}{4^2}=2.25[/math], আর প্রদত্ত অনুযায়ী [math]\frac{\Delta L_1}{\Delta L_2}=2.25[/math], ফলে [math]Y_2/Y_1=1[/math] এবং দুইটির Young's modulus সমান, অর্থাৎ একই উপাদান।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 411879)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি তারের দৈর্ঘ্য [math]2 \mathrm{~m}[/math] ও প্রস্থচ্ছেদের ক্ষেত্রফল [math]1 \mathrm{~mm}^{2}[/math]। তারটি উল্লম্ব বরাবর দৃঢ়ভাবে আটকিয়ে নিচে [math]20 \mathrm{~kg}\text{-}\mathrm{W}[/math] ভার চাপানো হলে তারটির দৈর্ঘ্য [math]1 \times 10^{-3} \mathrm{~m}[/math] বৃদ্ধি পায়। তারটির ইয়ং গুণাংকের মান [math]2 \times 10^{11} \mathrm{Nm}^{-2}[/math]। ইস্পাতের ঘনত্ব [math]9000\ \mathrm{kgm}^{-3}[/math] এবং আপেক্ষিক তাপ [math]S=100\ \mathrm{Jkg}^{-1} \mathrm{~K}^ {-1}[/math]
+
+Options:
+গ. তারটির প্রসারণে কৃতকাজের পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, ক্ষেত্রফল, [math]\mathrm{A}=1 \mathrm{~mm}^{2}=1 \times 10^{-6} \mathrm{~m}^{2}[/math]
+দৈর্ঘ্য, L = 2 mদৈর্ঘ্যবৃদ্ধি, [math]l=1 \times 10^{-3} \mathrm{~m}[/math]
+কৃতকাজ, W= ?আমরা জানি,[math]\hspace{1.5cm}\begin{array}{l}\mathrm{W}=\frac{\mathrm{YA} l^{2}}{2 \mathrm{~L}} \\\Rightarrow\mathrm{~W}=\frac{2 \times 10^{11} \times 1 \times 10^{-6} \times\left(1 \times 10^{-3}\right)^{2}}{2 \times 2} \\\Rightarrow\mathrm{~W}=0.05 \mathrm{~J}\end{array}[/math]
+নির্ণেয় কৃত কাজ 0.05 J [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: তানের প্রসারণের সময় বলটি শূন্য থেকে চূড়ান্ত মান (F = mg) পর্যন্ত লিনিয়ারভাবে বাড়ে, তাই কৃতকাজ বা স্থিতিস্থাপক শক্তি হিসেবে জমা শক্তি [math]W=\tfrac{1}{2}F\Delta L[/math]। এখানে [math]F=mg=20\times 9.8=196\ \mathrm{N}[/math] হলে [math]W=\tfrac{1}{2}\times 196\times 1\times 10^{-3}=0.098\ \mathrm{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 411880)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি তারের দৈর্ঘ্য [math]2 \mathrm{~m}[/math] ও প্রস্থচ্ছেদের ক্ষেত্রফল [math]1 \mathrm{~mm}^{2}[/math]। তারটি উল্লম্ব বরাবর দৃঢ়ভাবে আটকিয়ে নিচে [math]20 \mathrm{~kg}\text{-}\mathrm{W}[/math] ভার চাপানো হলে তারটির দৈর্ঘ্য [math]1 \times 10^{-3} \mathrm{~m}[/math] বৃদ্ধি পায়। তারটির ইয়ং গুণাংকের মান [math]2 \times 10^{11} \mathrm{Nm}^{-2}[/math]। ইস্পাতের ঘনত্ব [math]9000\ \mathrm{kgm}^{-3}[/math] এবং আপেক্ষিক তাপ [math]S=100\ \mathrm{Jkg}^{-1} \mathrm{~K}^ {-1}[/math]
+
+Options:
+ঘ. উদ্দীপকের তারটি হঠাৎ ছিড়ে গেলে তাপ উৎপন্ন হবে গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে, ইস্পাতের ঘনত্ব, [math]\rho=9000 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+তারের ভর, [math]\mathrm m=\mathrm V \rho=\mathrm{A L} \rho[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=1 \times 10^{-6} \mathrm{~m}^{2} \times 2 \mathrm{r} \\=1.8 \times 10^{-2} \mathrm{~kg}\end{array}[/math]
+আপেক্ষিক তাপ, [math]\mathrm{S}=100 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}[/math]
+কৃতকাজ, [math]\mathrm{W}=0.05 \mathrm{~J}[/math]
+ ['গ' নং থেকে প্রাপ্ত][math]\hspace{1cm}\begin{array}{l}\therefore0.05=\mathrm{mS}\Delta\theta\\\begin{aligned}\Rightarrow\Delta\theta&=\frac{0.05}{1.8\times10^{-2}\times100}\\&=2.78\times10^{-2}\mathrm{~K}\end{aligned}\end{array}[/math]
+এখানে, [math]\Delta \theta>0[/math]
+ [math]\therefore[/math]
+ তাপ উৎপন্ন হবে । [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ হ্যাঁ — তারটি ছিড়ে গেলে তারের মধ্যে সঞ্চিত স্থিতিস্থাপক শক্তি আংশিকভাবে তাপে (ও শব্দ/কিনেটিক শক্তিতে) রূপান্তরিত হয়; সঞ্চিত শক্তি [math]U=\tfrac{1}{2}F\Delta L=\tfrac{1}{2}\times(20\times9.8)\times10^{-3}\approx0.098\ \mathrm{J}[/math]. তারের ভর নির্ণয় করে ভলিউম [math]=A L=1\times10^{-6}\times2=2\times10^{-6}\ \mathrm{m}^3[/math], ভর [math]=9000\times2\times10^{-6}=0.018\ \mathrm{kg}[/math]; তাই তাপমাত্রা বৃদ্ধि হবে [math]\Delta T=U/(mS)\approx0.098/(0.018\times100)\approx0.054\ \mathrm{K}[/math]. অর্থাৎ তাপ উৎপন্ন হবে কিন্তু মাত্রই খুব সামান্য।
+
+Sub-Questions:
+

@@ -1,0 +1,2939 @@
+================================================================================
+Question #1 (ID: 413745)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে কোনো এক পরীক্ষাগারে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] কে শব্দায়িত করলে যে তরঙ্গ উৎপন্ন হয় তার লেখচিত্র দেখনো হলো :
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের সুরশলাকা দুটি একত্রে বাজালে বীট উৎপন্ন করবে কি না তা গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘচিত্র হতে,[math]\hspace{1 cm}\rm{A}[/math]
+ শলাকার তরঙ্গের তরঙ্গদৈর্ঘ্য, [math]\lambda_{\mathrm{A}}=3.2 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}\rm{A}[/math]
+ শলাকার তরঙ্গের পর্যায়কাল, [math]\mathrm{T}_{\mathrm{A}}=0.01 \mathrm{~s}[/math]
+আমরা জানি,[math]\hspace{1.2 cm}\begin{aligned} \rm{v_{A}} & =\rm{f_{A}} \lambda_{\mathrm{A}}=\frac{1}{\mathrm{~T}_{\mathrm{A}}} \lambda_{\mathrm{A}}=\frac{3.2 \mathrm{~m}}{0.01 \mathrm{~s}} \\ \therefore \quad \rm{v}_{\mathrm{A}} & =320 \mathrm{~m} \mathrm{~s}^{-1} \end{aligned}[/math]
+অতএব, পরীক্ষাগারে [math]\rm{A}[/math]
+ শলাকার দ্বারা সৃষ্ট শব্দের বেগ [math]320 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+।[math]\rm{B}[/math]
+ শলাকা নিঃসৃত তরঙ্গের তরঙ্গদৈর্ঘ্য, [math]\lambda_{\mathrm{B}}=3.05 \mathrm{~m}[/math]
+ [math]\rm{A}[/math]
+ শলাকা নিঃসৃত তরঙ্গের কম্পাঙ্ক, [math]f_{\mathrm{A}}=\dfrac{1}{\rm{T}_{\mathrm{A}}}=\dfrac{1}{0.01 \mathrm{~s}}=100 \mathrm{~Hz}[/math]
+ [math]\rm{B}[/math]
+ শলাকা নিঃসৃত তরঙ্গের কম্পাঙ্ক,[math]\hspace{1.3 cm}\begin{aligned} & f_{\mathrm{B}}=\frac{\mathrm{v}}{\lambda_{\mathrm{B}}}=\frac{320 \mathrm{~m} \mathrm{~s}^{-1}}{3.05 \mathrm{~m}}=104.92 \mathrm{~Hz} \\ \therefore~ & f_{\mathrm{B}}-f_{\mathrm{A}}=(104.92-100) \mathrm{Hz}=4.92 \mathrm{~Hz} \end{aligned}[/math]
+শলাকাদ্বয়ের কম্পাঙ্কের পার্থক্য [math]4.92 \rm{~Hz}[/math]
+। যা [math]10 \rm{~Hz}[/math]
+ অপেক্ষা কম। অতএব, উদ্দীপকের সুরশলাকা দুটি একত্রে বাজালে বীট উৎপন্ন করবে।
+
+Explanation:
+ঘ দুটি সুরশলাকার তরঙ্গ ধরা যাক [math]y_1=A\sin(\omega_1 t)[/math] ও [math]y_2=A\sin(\omega_2 t)[/math]; তাদের যোগ দিলে পাওয়া যায় [math]y=2A\cos\big(\tfrac{\omega_1-\omega_2}{2}t\big)\sin\big(\tfrac{\omega_1+\omega_2}{2}t\big)[/math]। এখানে ধীরগতিতে বদলানো এনভেলপ [math]2A\cos\big(\tfrac{\omega_1-\omega_2}{2}t\big)[/math] বীট সৃষ্টি করে, তাই যদি [math]f_1\neq f_2[/math] (অর্থাৎ [math]\omega_1\neq\omega_2[/math]) বীট হবে এবং বীট-ঘনত্ব হবে [math]|f_1-f_2|[/math]; যদি ফ্রিকোয়েন্সি সমান হয় তবে বীট হবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 413746)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] তারকে কম্পিত করে নিম্নের তরঙ্গদ্বয় উৎপন্ন হয় :
+
+[math]\quad\begin{array}{l} Y_{A}=0.1 \sin (200 \pi t-10 \pi x) m \\ Y_{B}=0.1 \sin (208 \pi t-16 \pi x) m \end{array}[/math]
+
+তরঙ্গদ্বয় একইদিকে গমন করে পরস্পর উপরিপাতিত হয়।
+
+Options:
+ঘ. উদ্দীপকের তারদ্বয়ের কম্পনে বীট সৃষ্টি সম্ভব কি না গাণিতিক তত্ত্বসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{Y_{A}=0.1 \sin (200 \pi t-10 \pi x) m}[/math]
+ [math]\hspace{1 cm}\rm{Y_{B}=0.1 \sin (208 \pi t-16 \pi x) m}[/math]
+এখন, [math]\rm{A}[/math]
+ ও [math]\rm{B}[/math]
+ তারে সৃষ্ট তরঙ্গদ্বয়ের কম্পাঙ্ক যথাক্রমে [math]f_{\mathrm{A}}[/math]
+ ও [math]f_{\mathrm{B}}[/math]
+ হলে— [math]\mathrm{Y}_{\mathrm{A}}[/math]
+ ও [math]\mathrm{Y}_{\mathrm{B}}[/math]
+ তরঙ্গদ্বয়কে অগ্রগামী তরঙ্গের আদর্শ সমীকরণ [math]\rm{y=a \sin \dfrac{2 \pi}{\lambda}(v t-x)}[/math]
+ এর সাথে তুলনা করে পাই,[math]\hspace{1.5 cm}\begin{array}{l}\quad\dfrac{2\pi \mathrm{v}_{\mathrm{A}}}{\lambda _{\mathrm{A}}}=200\pi \\ \Rightarrow \ 2\pi f_{\mathrm{A}}=200\pi \\ \Rightarrow \ f_{\text{A}}=100\\ \therefore \ f_{\mathrm{A}}=100\mathrm{~Hz}\end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l}\quad\dfrac{2\pi\text{v}_{\text{B}}}{\lambda_{\text{B}}}=208\pi\\ \Rightarrow\ 2\pi f_{\text{B}}=208\pi\\ \Rightarrow\ f_{\text{B}}=104\\ \therefore f_{\text{B}}=104\mathrm{~Hz}\end{array}[/math]
+প্রতি সেকেন্ডে উৎপন্ন বীট [math]=(104-100)[/math]
+ টি [math]= 4[/math]
+ টিপরপর দুটি বিটের মধ্যবর্তী সময় ব্যবধান [math]=\dfrac{1}{4} \mathrm{~s}=0.25 \mathrm{~s}[/math]
+যা শব্দানুভূতির স্থায়িত্বকাল [math]0.1 \mathrm{~s}[/math]
+ অপেক্ষা বড়। অতএব উদ্দীপকের তারদ্বয়ের কম্পনে বীট সৃষ্টি সম্ভব।
+
+Explanation:
+ঘ সম্ভাব্য — কারণ দুই তরঙ্গকে যোগ করলে ট্রিগোনোমেট্রিক পরিচয় দিয়ে পাওয়া যাবে: 
+[math]Y=0.1[\sin(200\pi t-10\pi x)+\sin(208\pi t-16\pi x)]=0.2\sin(204\pi t-13\pi x)\cos(4\pi t-3\pi x).[/math]  
+এখানে গড় দোলন কারিগরি তরঙ্গ হলো [math]\sin(204\pi t-13\pi x)[/math] এবং ধীর পরিবর্তনশীল লকিত-এনভেলপ হলো [math]\cos(4\pi t-3\pi x)[/math]; এজন্য নির্দিষ্ট স্থানে বীট শোনা যাবে যার বীট-ফ্রিকোয়েন্সি [math]f_{beat}=\dfrac{\omega_2-\omega_1}{2\pi}=\dfrac{8\pi}{2\pi}=4\ \text{Hz}[/math] (এনভেলপ স্থান নীর্ভরও হওয়ায় অবস্থানের ওপর বীটের ধারা পরিবর্তিত হতে পারে)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 413747)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] সুরশলাকা দ্বারা সৃষ্ট শব্দ তরঙ্গের সমীকরণটি হলো [math]y=0.7 \sin \pi(500 t-1.47 x)[/math]। সমীকরণটিতে উল্লিখিত সকল রাশি [math]SI[/math] এককে প্রকাশ করা হয়েছে। অপর একটি [math]B[/math] সুরশলাকা সনোমিটারের তারের [math]0.25\ m[/math] দৈর্ঘ্যে সৃষ্ট মূল সুরের সাথে ঐকতান সৃষ্টি করে। সনোমিটারের তা রটি [math]5\ kg[/math]- [math]wt[/math] বল দ্বারা টানা এবং তারটির [math]1\ m[/math] দৈর্ঘ্যের ভর [math]3\ gm[/math]।
+
+Options:
+ঘ. [math]A[/math] ও [math]B[/math] কে একত্রে কাঁপানো হলে বীট শোনা যাবে কি না তা বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+তারের টান, [math]\mathrm{T}=5 \mathrm{~kg}-\omega \mathrm{t}=5 \times 9.8 \mathrm{~N}=49 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}[/math]
+তারের দৈর্ঘ্য, [math]l=0.25 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+একক দৈর্ঘ্যের ভর, [math]\mu=\dfrac{3 \mathrm{gm}}{1 \mathrm{~m}}=3 \times 10^{-3} \mathrm{~kg} \mathrm{~m}^{-1}[/math]
+উদ্দীপক অনুসারে,[math]\rm{B}[/math]
+ শলাকার কম্পাঙ্ক,[math]\hspace{1.5 cm}\begin{aligned} f_{\mathrm{B}} & =\dfrac{1}{2 l} \sqrt{\frac{\mathrm{T}}{\mu}} \\ & =\frac{1}{2 \times 0.25} \times \sqrt{\frac{49}{3 \times 10^{-3}}} \mathrm{~Hz} \end{aligned}[/math]
+ [math]\quad\therefore \quad f_{\mathrm{B}}=255.6 \mathrm{~Hz}[/math]
+এখন, [math]\rm{A}[/math]
+ শলাকার ক্ষেত্রে, [math]\rm{y=0.7 \sin \pi(500 t-1.47 x)}[/math]
+সমীকরণটি অগ্রগামী তরঙ্গের আদর্শ সমীকরণ[math]\rm{y=a \sin \dfrac{2 \pi}{\lambda}(v t-x)}[/math]
+ এর সাথে তুলনা করে পাই,[math]\hspace{1.5 cm}\begin{aligned} \dfrac{2 \rm{v}}{\lambda} & =500 \\ \Rightarrow \dfrac{\rm{v}}{\lambda} & =\dfrac{500}{2} \\ \therefore \quad f_{\rm{A}} & =250 \mathrm{~Hz} \end{aligned}[/math]
+এখন, [math]f_{\mathrm{B}}-f_{\mathrm{A}}=(255.6-250) \mathrm{Hz}=5.6 \mathrm{~Hz}[/math]
+ [math]\rm{A}[/math]
+ ও [math]\rm{B}[/math]
+ এর কম্পাঙ্কের পার্থক্য [math]5.6 \mathrm{~Hz}[/math]
+ যা [math]10 \mathrm{~Hz}[/math]
+ অপেক্ষা কম।অতএব, [math]\rm{A}[/math]
+ ও [math]\rm{B}[/math]
+ কে একত্রে কাঁপানো হলে বীট শোনা যাবে।
+
+Explanation:
+ঘ প্রথমত [math]y=0.7\sin\pi(500t-1.47x)[/math] থেকে [math]\pi(500)t=2\pi f t[/math] হওয়ায় [math]f_A=250\ \text{Hz}[/math].  
+B তালের জন্য [math]\mu=0.003\ \text{kg/m},\ T=5\ \text{kgf}=5g\approx49\ \text{N}[/math] এবং [math]f_1=\frac{1}{2L}\sqrt{\frac{T}{\mu}}=\frac{1}{2(0.25)}\sqrt{\frac{49}{0.003}}\approx255.7\ \text{Hz}[/math].  
+অতএব ব্যবধান [math]|f_B-f_A|\approx5.7\ \text{Hz}[/math], তাই একত্রে কাঁপালে প্রায় [math]5.7\ \text{Hz}[/math] বীট শোনা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 413748)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018, 2018, 2018, 2018, 2018 | Boards: Rajshahi Board, Sylhet Board, Dinajpur Board, Dhaka Board | Tags: Rajshahi Board, Jessore Board, Sylhet Board, Dinajpur Board, Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+প্রতি সেকেন্ডে [math]5[/math]টি বীট সৃষ্টি করার লক্ষ্যে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] নেওয়া হলো। [math]A[/math] সুরশলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]1.01 \times 10^{5} \mathrm{Wm}^{-2}[/math] এবং বিস্তার [math]0.02\ m[/math]। [math]B[/math] সুরশলাকার কম্পাঙ্ক [math]161\ Hz[/math]। (মাধ্যমের ঘনত্ব [math]1.25 \mathrm{~kg} \mathrm {~m}^{-3}[/math] এবং শব্দের বেগ [math]350 \mathrm{~ms}^{-1}[/math])।
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে হলে [math]A[/math] সুরশলাকার কী পরিবর্তন আনা প্রয়োজন গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ শলাকার শব্দের তীব্রতা, [math]\mathrm{I}=1.01 \times 10^{5} \mathrm{Wm}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+বিস্তার, [math]\rm{A}=0.02 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+মাধ্যমের ঘনত্ব, [math]\rho=1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+ [math]\hspace{1 cm}[/math]
+ শব্দের বেগ, [math]\rm{v}=350 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+শব্দের কম্পাঙ্ক, [math]f_{\mathrm{A}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad\mathrm{I}=2 \pi^{2} f_{\mathrm{A}}{ }^{2} \mathrm{~A}^{2} \rho \mathrm{v}\\ \Rightarrow f_{\mathrm{A}}^{2}=\dfrac{\mathrm{I}}{2 \pi^{2} \mathrm{~A}^{2} \rho \mathrm{v}}\\ \Rightarrow f_{\rm{A}}=\sqrt{\dfrac{1.01 \times 10^{5}}{2 \times 3.1416^{2} \times 0.02^{2} \times 1.25 \times 350}}=171\\ \therefore ~ f_{\mathrm{A}}=171 \mathrm{~Hz} \end{array}[/math]
+বর্তমানে [math]\rm{A}[/math]
+ ও [math]\rm{B}[/math]
+ শলাকাদ্বয়ের মধ্যে কম্পাঙ্কের পার্থক্য [math]171-161 = 10 \mathrm{~Hz}[/math]
+ এবং [math]f_{\rm{A}}>f_{\rm{B}}[/math]
+। সুতরাং উদ্দীপকে উল্লিখিত সংখ্যক বীট তথা [math]5[/math]
+টি বীট উৎপন্ন করতে হলে তাদের কম্পাঙ্কের পার্থক্য কমাতে হবে অর্থাৎ, [math]\rm{A}[/math]
+ সুর শলাকার কম্পাঙ্ক কমাতে হবে। অতএব, উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে হলে [math]\rm{A}[/math]
+ সুরশলাকায় মোম লাগিয়ে এর ভর বাড়াতে হবে।[math]5[/math]
+টি বীট উৎপন্ন করতে হলে [math]\rm{A}[/math]
+ সুরশলাকার কম্পাঙ্ক [math]161+5=166 \mathrm{~Hz}[/math]
+ করতে হবে।[math]\hspace{1.5 cm}\begin{array}{l} \dfrac{f_{\mathrm{A}}^{\prime}}{f_{\mathrm{A}}}=\sqrt{\dfrac{\mathrm{m}_{\mathrm{A}}}{m_{\mathrm{A}}^{\prime}}} \\ \Rightarrow\dfrac{\mathrm{m}_{\mathrm{A}}}{\mathrm{m}_{\mathrm{A}}^{\prime}}=\left(\dfrac{f_{\mathrm{A}}^{\prime}}{f_{\mathrm{A}}}\right)^{2} \\ \Rightarrow \mathrm{m}_{\mathrm{A}}^{\prime}=\mathrm{m}_{\mathrm{A}} \times\left(\dfrac{f_{\mathrm{A}}}{f_{\mathrm{A}}^{\prime}}\right)^{2}=\mathrm{m}_{\mathrm{A}} \times\left(\dfrac{171}{166}\right)^{2} \\ \therefore \quad \mathrm{m}_{\mathrm{A}}^{\prime}=1.06 \mathrm{~m}_{\mathrm{A}} \\ \therefore \quad \Delta \mathrm{m}_{\mathrm{A}}=0.06 \mathrm{~m}_{\mathrm{A}}=6 \% \mathrm{~m}_{\mathrm{A}} \end{array}[/math]
+অতএব, উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে [math]\rm{A}[/math]
+ সুরশলাকায় মোম লাগিয়ে এর ভর [math]6\%[/math]
+ বাড়াতে হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ A–র কম্পাঙ্ক নির্ণয়ের জন্য [math]I=\tfrac{1}{2}\rho v \omega^{2}s_{m}^{2}[/math] ব্যবহার করলে [math]\omega=\sqrt{\dfrac{2I}{\rho v s_{m}^{2}}}[/math] থেকে [math]f_A=\dfrac{\omega}{2\pi}\approx171\ \text{Hz}[/math]. বিটের মান [math]f_{\text{beat}}=|f_A-f_B|[/math] হলে এখন [math]|171-161|=10\ \text{Hz}[/math]; কার্যকর বিট 5 হারের জন্য প্রয়োজন [math]|f_A'-161|=5[/math], অর্থাৎ [math]f_A'=156\ \text{Hz বা }166\ \text{Hz}[/math]. যেহেতু A বর্তমানে ≈171 Hz, তাই A–র কম্পাঙ্ককে 5 Hz কমিয়ে [math]166\ \text{Hz}[/math] করলে প্রতি সেকেন্ডে 5টি বিট পাওয়া যাবে (অ্যাম্প্লিটিউড/তিব্রতা বিটের হার নির্ধারণ করে না)।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 413690)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Monipur Uchcha Vidyalaya and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে কোন এক পরীক্ষাগারে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] কে শব্দায়িত করলে যে তরঙ্গ উৎপন্ন হয় তার লেখচিত্র দেখানো হলো :
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের সুরশলাকা দুটি একত্রে বাজালে বীট উৎপন্ন হবে কি না তা গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘA সুরশলাকার কম্পাঙ্ক, [math]f_{\mathrm{A}}=\frac{1}{\mathrm{~T}_{\mathrm{A}}}[/math]
+ [math]\hspace{4.8cm}=\frac{1}{0.002}=500 \mathrm{~Hz}[/math]
+B সুরশলাকার কম্পাঙ্ক, [math]f_{\mathrm{B}}=\frac{\mathrm{v}}{\lambda_{\mathrm{B}}}[/math]
+ [math]\hspace{4.8cm}=\frac{350}{0.693}=505 \mathrm{~Hz}[/math]
+বীট, [math]\mathrm{N}=f_{\mathrm{B}}-f_{\mathrm{A}}=505-500=5[/math]
+ টি।অতএব, উদ্দীপকের সুরশলাকা দুটি একত্রে বাজলে বীট উৎপন্ন হবে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ যদি দুইটি তরঙ্গ হয় [math]y_1=A\cos(ω_1 t)[/math] এবং [math]y_2=A\cos(ω_2 t)[/math], তাদের যোগফল হয় [math]y=2A\cos\Bigl(\frac{ω_1+ω_2}{2}t\Bigr)\cos\Bigl(\frac{ω_1-ω_2}{2}t\Bigr)[/math] — যেখানে ধীর ভরাটকারী কোসাইনটি এনভেলপ তৈরি করে এবং তীব্রতা পড়া-উঠা দেখায়। তাই দুইটি সুরশলাকা একটু ভিন্ন ফ্রিকোয়েন্সিতে বাজলে বিট তৈরি হয় এবং তার ফ্রিকোয়েন্সি হলো [math]f_{beat}=|f_1-f_2|[/math], যা প্রদত্ত লেখচিত্রের এনভেলপে প্রতিফলিত।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 413691)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]60\ cm[/math] এবং [math]60.5\ cm[/math] তরঙ্গদৈর্ঘ্যের দুটি শব্দ একটি গ্যাসে প্রতি [math]4\ s[/math] এ [math]19[/math] টি বীট তৈরি করে। শব্দদ্বয়ের তীব্রতা লেভেল যথাক্রমে [math]92\ dB\ ও\ 386\ dB[/math]।
+
+Options:
+গ. গ্যাসটিতে শব্দের বেগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, গ্যাসে শব্দের বেগ, v১ম শলাকার শব্দের তরঙ্গদৈর্ঘ্য, [math]\lambda_{1}=60 \mathrm{~cm}=0.6 \mathrm{~m}[/math]
+২য় শলাকার শব্দের তরঙ্গদৈর্ঘ্য, [math]\lambda_{2}=60.5 \mathrm{~cm}=0.605 \mathrm{~m}[/math]
+শব্দদ্বয়ের কম্পাঙ্ক যথাক্রমে [math]f_1[/math]
+ এবং [math]f_2[/math]
+ হলে,[math]\hspace{1.5cm}\begin{array}{l}\quad \mathrm{v}=f_{1} \lambda_{1} \\\Rightarrow f_{1}=\frac{\mathrm{v}}{\lambda_{1}} \\\Rightarrow \mathrm{v}=f_{2} \lambda_{2} \\\Rightarrow f_{2}=\frac{\mathrm{v}}{\lambda_{2}}\end{array}[/math]
+আবার, [math]\mathrm N=f_{1}-f_{2} \quad\left[\because \lambda_{2}>\lambda_{1}\right][/math]
+ [math]\hspace{.5cm}\begin{aligned}\Rightarrow\mathrm{N} & =\frac{\mathrm{v}}{\lambda_{1}}-\frac{\mathrm{v}}{\lambda_{2}} \\\Rightarrow\mathrm{~N} & =\mathrm{v}\left(\frac{1}{\lambda_{1}}-\frac{1}{\lambda_{2}}\right) \\\Rightarrow\mathrm{v} & =\frac{\mathrm{N}}{\left(\frac{1}{\lambda_{1}}-\frac{1}{\lambda_{2}}\right)} \\& =\frac{\frac{19}{4}}{\left(\frac{1}{0.6}-\frac{1}{0.605}\right)} \\& =\frac{19}{4 \times 0.01378} \\& =344.70 \mathrm{~m} \mathrm{~s}^{-1}\end{aligned}[/math]
+অতএব, গ্যাসটিতে শব্দের বেগ [math]344.70 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ | [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ বীট ফ্রিকোয়েন্সি [math]f_b=19/4=4.75\ \text{Hz}[/math]। কারণ [math]f=v/λ[/math] হলে [math]f_b=v\left|{1/λ_1-1/λ_2}\right|[/math], তাই [math]v=\dfrac{4.75}{\left|1/0.6-1/0.605\right|}\approx3.45\times10^2\ \text{m/s}\ (\approx345\ \text{m/s})[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 413692)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]60\ cm[/math] এবং [math]60.5\ cm[/math] তরঙ্গদৈর্ঘ্যের দুটি শব্দ একটি গ্যাসে প্রতি [math]4\ s[/math] এ [math]19[/math] টি বীট তৈরি করে। শব্দদ্বয়ের তীব্রতা লেভেল যথাক্রমে [math]92\ dB\ ও\ 386\ dB[/math]।
+
+Options:
+ঘ. শব্দদ্বয়ের সম্মিলিত তীব্রতা লেভেল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,, ১ম শব্দের তীব্রতা লেভেল, [math]\beta_{1}=92 \mathrm{~dB}[/math]
+২য় শব্দের তীব্রতা লেভেল, [math]\beta_{2}=86 \mathrm{~dB}[/math]
+১ম শব্দের তীব্রতা, [math]\mathrm I_1[/math]
+ এবং ২য় শব্দের তীব্রতা, [math]\mathrm I_2[/math]
+ হলে,[math]\hspace{1cm}\begin{aligned}\beta_1&=10\log\mathrm{\frac{I_1}{I_0}}\\\Rightarrow 92&=10\log\mathrm{\frac{I_1}{I_0}}\\\Rightarrow 9.2&=\log\mathrm{\frac{I_1}{I_0}}\\\Rightarrow \mathrm{I_1}&=10^{9.2}\times10^{-12}\mathrm{~W}\mathrm{~m}^{-2}\\&=1.585\times10^{-3}\mathrm{~W}\mathrm{~m}^{-2}\end{aligned}[/math]
+এবং [math]\beta_{2}=10 \log \mathrm{\frac{I_{2}}{I_{0}}}[/math]
+ [math]\hspace{.5cm}\begin{aligned}\Rightarrow 86 & =10 \log \frac{\mathrm{I}_{2}}{\mathrm{I}_{0}} \\\Rightarrow \mathrm{I}_{2} & =10^{8.6} \times 10^{-12} \mathrm{~W} \mathrm{~m}^{-2} \\& =3.981 \times 10^{-4} \mathrm{~W} \mathrm{~m}^{-2}\end{aligned}[/math]
+ [math]\therefore[/math]
+ সম্মিলিত তীব্রতা, [math]\mathrm{I}=\mathrm{I}_{1}+\mathrm{I}_{2}[/math]
+ [math]\hspace{3.5cm}\begin{array}{l}=\left(1.585 \times 10^{-3}+3.931 \times 10^{-4}\right) \mathrm{W} \mathrm{m}^{-2} \\=1.9831 \times 10^{-3} \mathrm{~W} \mathrm{~m}^{-2}\end{array}[/math]
+ [math]\therefore[/math]
+ সম্মিলিত তীব্রতা লেভেল,[math]\hspace{1.5cm}\begin{aligned}\beta & =10 \log \frac{I}{I_{0}} \\& =10 \log \left(\frac{1.9831 \times 10^{-3}}{10^{-12}}\right) \\& =92.973 \\& =93 \mathrm{~dB}\end{aligned}[/math]
+অতএব, শব্দদ্বয়ের মিলিত তীব্রতা লেভেল 93 dB (প্রায়)। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ সম্মিলিত তীব্রতা লেভেল পেতে ইনটেনসিটি যোগ করে এবং ডেসিবেলে রূপান্তর করি: [math]I_{\text{tot}}=I_1+I_2,\quad L_{\text{tot}}=10\log_{10}\big(10^{L_1/10}+10^{L_2/10}\big)[/math]. এখানে [math]L_1=92\ dB,\ L_2=386\ dB[/math], তাই [math]10^{(92-386)/10}=10^{-29.4}[/math] অত্যন্ত ক্ষুদ্র এবং ফলস্বরূপ [math]L_{\text{tot}}\approx386\ dB[/math]. বিটের তথ্য ফ্রিকোয়েন্সির পার্থক্য জানায় কিন্তু তীব্রতা যোগ করতে দরকার হয়নি।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 413693)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Govt. Edward College, Pabna
+--------------------------------------------------------------------------------
+Question:
+জনৈক ছাত্র একটি সুরশলাকায় আঘাত করায় [math]512\ Hz[/math] কম্পাঙ্কবিশিষ্ট শব্দ উৎপন্ন হয়। পরবর্তীতে জনৈক ছাত্রী অজ্ঞাত কম্পাঙ্কবিশিষ্ট আরেকটি সুরশলাকায় আঘাত করলে সেকেন্ডে এটি বিট শোনা যায় ৷ ছাত্রীর সুরশলাকায় মোম লাগিয়ে আঘাত করায় বিট [math]1[/math] সংখ্যা কমে যায়। শ্রেণিকক্ষে উপস্থিত জনৈক শিক্ষক ধারণা করেন দুটি সুরশলাকা একত্রে শব্দায়িত করায় উৎপন্ন তীব্রতা লেভেল একটি সুরশলাকা দ্বারা উৎপন্ন, তীব্রতা লেভেলের দ্বিগুণ হবে। উভয় সুরশলাকা দ্বারা উৎপন্ন শব্দের তীব্রতা [math]10^{-8} W m^{-2}.[/math]
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত শিক্ষকের ধারণা সঠিক কি না– গাণিতিক বিশ্লেষণসহ যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, প্রথম সুরশলাকার তীব্রতা, [math]\mathrm{I}_{1}=10^{-8} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+ [math]\hspace{1cm}[/math]
+ দ্বিতীয় সুরশলাকার তীব্রতা, [math]\mathrm{I}_{2}=10^{-8} \mathrm{~W} \mathrm{~m}^{-2}[/math]
+ [math]\therefore[/math]
+ সুরশলাকাদ্বয়ের মোট তীব্রতা, [math]\mathrm{I}=\mathrm{I}_{1}+\mathrm{I}_{2}[/math]
+ [math]\hspace{5.5cm}\begin{array}{l}=10^{-8}+10^{-8} \\=2 \times 10^{-8} \mathrm{~W} \mathrm{~m}^{-2}\end{array}[/math]
+যেকোনো একটি সুরশলাকার তীব্রতা লেভেল, [math]\beta=10 \log \frac{I_{1}}{I_{0}}[/math]
+ [math]\hspace{7.8cm}\begin{array}{l}=10 \log \frac{10^{-8}}{10^{-12}} \\=40 \mathrm{~dB}\end{array}[/math]
+সুরশলাকাদ্বয় একত্রে শব্দায়িত করলেতীব্রতা লেভেল, [math]\beta_{1}=10 \log \frac{I}{I_{0}}=10 \log \frac{2 \times 10^{-8}}{10^{-12}} \mathrm{~dB}=43 \mathrm{~dB}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\therefore\quad\frac{\beta_1}{\beta}=\frac{43}{40}=1.075\\\Rightarrow\beta_1=1.075\beta\end{array}[/math]
+অর্থাৎ উদ্দীপকে উল্লিখিত শিক্ষকের ধারণা সঠিক নয় । [math]\\[/math]
+
+
+Explanation:
+ঘ শিক্ষকের ধারণা সঠিক নয়—কারণ তীব্রতা লেভেল ডেসিবেলে সরলভাবে দ্বিগুণ হয় না। প্রতি সুরশলাকার তীব্রতা [math]I=10^{-8}\ \mathrm{W\,m^{-2}}[/math], একসাথে [math]I_{\rm tot}=2\times10^{-8}\ \mathrm{W\,m^{-2}}[/math]; এবং [math]\beta=10\log_{10}(I/I_0)\,,\ I_0=10^{-12}\ \mathrm{W\,m^{-2}}[/math] হলে [math]\beta_1=10\log_{10}(10^{-8}/10^{-12})=40\ \mathrm{dB}[/math] ও [math]\beta_{\rm tot}=10\log_{10}(2\times10^{-8}/10^{-12})\approx43.01\ \mathrm{dB}[/math] হয়। তাই লেভেল দ্বিগুণ না হয়ে মাত্র প্রায় [math]3.01\ \mathrm{dB}[/math] বৃদ্ধি পেয়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 413694)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Bhola Govt College, Bhola
+--------------------------------------------------------------------------------
+Question:
+দুটি বাদ্যযন্ত্র হতে নির্গত তরঙ্গের সমীকরণ :
+
+[math]y_{1}=0.7 \sin \pi\left(100 t-\dfrac{x}{3.65}\right) \\ y_{2}=0.71 \sin \pi\left(110 .03 t-\dfrac{x}{3.15}\right)[/math]
+
+Options:
+ঘ. উদ্দীপকের তরঙ্গ দুটির উপরিপাতনে বীট সৃষ্টি হবে কিনা তা বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ'গ' নং হতে পাই,১ম তরঙ্গের কম্পাঙ্ক [math]f_{1}=50 \mathrm{~Hz}[/math]
+২য় তরঙ্গটি, [math]\mathrm{y}_{2}=0.71 \sin \pi\left(110.03 \mathrm{t}-\frac{\mathrm{x}}{3.15}\right)[/math]
+এ তরঙ্গটিকে আদর্শ সমীকরণ, [math]\mathrm{y}=\mathrm{a} \sin \left(\omega \mathrm{t}-\frac{2 \pi}{\lambda} \mathrm{x}\right)[/math]
+এর সাথে তুলনা করে পাই, [math]\omega=2 \pi f_{2}=110.03 \pi[/math]
+ [math]\hspace{3.5cm}\Rightarrow f_{2}=55.015 \mathrm{~Hz}[/math]
+ [math]\therefore[/math]
+ কম্পাঙ্কের পার্থক্য, [math]f_{2}-f_{1}=(55.015-50) \mathrm{Hz}[/math]
+ [math]\hspace{5.3cm}=5.015 \mathrm{~Hz}=5 \mathrm{~Hz}[/math]
+ [math]\therefore[/math]
+ তরঙ্গ দুটির উপরিপাতনে 5 টি বীট উৎপন্ন হবে। [math]\\[/math]
+
+
+Explanation:
+ঘ দুই তরঙ্গের কোণগত শব্দদ্বয়ের থেকে ফ্রিকোয়েন্সি বের করলে [math]f_1=\dfrac{100\pi}{2\pi}=50\ \text{Hz},\quad f_2=\dfrac{110.03\pi}{2\pi}=55.015\ \text{Hz}[/math]. কারণ amplitudes প্রায় সমান (0.7 ও 0.71) এবং উভয় তরঙ্গ একই দিকে চলেছে, তাই সুপারপজিশনে বিট তৈরি হবে এবং বিট ফ্রিকোয়েন্সি হবে [math]|f_2-f_1|=5.015\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 413695)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Jalalabad Cantonment Public School And College, Sylhet
+--------------------------------------------------------------------------------
+Question:
+একটি শ্রেণিকক্ষে শব্দের তীব্রতা [math]10^{-7} W m^{-2}[/math]। শ্রেণিকক্ষে [math]70\ cm[/math] এবং [math]80\ cm[/math] দৈর্ঘ্যের দুটি তার ঝুলানো আছে। তার দুটির ভর যথাক্রমে [math]5\ gm[/math] এবং [math]6\ gm[/math]। তার দুটিতে যথাক্রমে [math]100\ N[/math] এবং [math]120\ N[/math] টান প্রয়োগ করে কম্পন সৃষ্টি করা হলো।
+
+Options:
+ঘ. তার দুটির কম্পনের ফলে বীট শোনা যাবে কী? গাণিতিক ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, তার দুটির দৈর্ঘ্য যথাক্রমে, [math]l_{1}=70 \mathrm{~cm}=0.7 \mathrm{~m}[/math]
+এবং [math]l_{2}=80 \mathrm{~cm}=0.8 \mathrm{~m}[/math]
+টান, [math]\mathrm{T}_{1}=100 \mathrm{~N}[/math]
+ এবং [math]\mathrm{T}_{2}=120 \mathrm{~N}[/math]
+ভর, [math]\mu_{1}=5 \mathrm{gm}=5 \times 10^{-3} \mathrm{~kg}[/math]
+ [math]\hspace{1cm}\mu_{2}=6 \mathrm{gm}=6 \times 10^{-3} \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ ১ম তারের একক দৈর্ঘ্যের ভর [math]\mu_{1}=\frac{\mu_{1}}{l_{1}}=\frac{5 \times 10^{-3} \mathrm{~kg}}{0.7 \mathrm{~m}}=\frac{1}{140} \mathrm{~kg} \mathrm{~m}^{-1}[/math]
+ [math]\therefore[/math]
+ ২য় তারের একক দৈর্ঘ্যের ভর [math]\mu_2=\frac{\mu_2}{l_2}=\frac{6\times10^{-3}\mathrm{~kg}}{0.8\mathrm{~m}}=\frac{3}{400}\mathrm{~kg}\mathrm{~m}^{-1}[/math]
+এখন, তারদ্বয়ের কম্পাঙ্ক যথাক্রমে [math]f_1[/math]
+ ও [math]f_2[/math]
+ হলে,[math]\hspace{1cm}\begin{aligned}f_{1} & =\frac{1}{2 l_{1}} \sqrt{\frac{T_{1}}{\mu_{1}}} \\& =\frac{1}{2 \times 0.7 \mathrm{~m}} \sqrt{\frac{100 \mathrm{~N}}{\frac{1}{140} \mathrm{~kg} \mathrm{~m}^{-1}}} \\& =84.52 \mathrm{~Hz} \approx 85 \mathrm{~Hz}\end{aligned}[/math]
+আবার,[math]\hspace{1cm}\begin{aligned}f_{2} & =\frac{1}{2 l_{2}} \sqrt{\frac{\mathrm{T}_{2}}{\mu_{2}}} \\& =\frac{1}{2 \times 0.8 \mathrm{~m}} \sqrt{\frac{\frac{120 \mathrm{~N}}{3}}{400}} \mathrm{~kg} \mathrm{~m}^{-1} \\& =79 \mathrm{~Hz}\end{aligned}[/math]
+তার দুটির কম্পনে সৃষ্ট বীট সংখ্যা [math]\mathrm{N}=f_{1}-f_{2}[/math]
+ [math]\hspace{6.3cm}=(85-79) \mathrm{Hz}=6 \mathrm{~Hz}[/math]
+পর পর দুটি সর্বোচ্চ তীব্রতা বা সর্বনিম্ন তীব্রতার শব্দের মধ্যে সময় পার্থক্য [math]=\frac{1}{6}\mathrm{s}=0.167\mathrm{~s}>0.1\mathrm{~s}[/math]
+অতএব, তার দুটির কম্পনের ফলে বীট শোনা যাবে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ হ্যাঁ, বীট শোনা যাবে কারণ দুই তারের মূল কম্পনফ্রিকোয়েন্সি ঘনিষ্ঠ কিন্তু সমান নয়। ফর্মুলা: [math]f=\frac{1}{2L}\sqrt{\frac{T}{\mu}},\quad \mu=\frac{m}{L}[/math]. হিসাব করলে প্রথম তারের জন্য [math]\mu_1=\frac{0.005}{0.7}=0.00714\ \text{kg/m},\; f_1=\frac{1}{2\times0.7}\sqrt{\frac{100}{0.00714}}\approx84.5\ \text{Hz}[/math], দ্বিতীয়টির জন্য [math]\mu_2=\frac{0.006}{0.8}=0.0075\ \text{kg/m},\; f_2=\frac{1}{2\times0.8}\sqrt{\frac{120}{0.0075}}\approx79.0\ \text{Hz}[/math]; তাই বীটফ্রিকোয়েন্সি [math]|f_1-f_2|\approx5.5\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 413696)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Rangpur Govt. College
+--------------------------------------------------------------------------------
+Question:
+একটি গিটারের তিনটি সদৃশ এবং সমদৈর্ঘ্যের তার [math]A,\ B[/math] ও [math]C[/math] কে যথাক্রমে [math]100\ N,\ 200\ N[/math] ও [math]300\ N[/math] মানের বল দ্বারা টানা আছে। [math]A[/math] তারে আঙ্গুল দিয়ে [math]50\ Hz[/math] কম্পাংকের শব্দ উৎপন্ন করলো। অনুরূপভাবে [math]B[/math] ও [math]C[/math] তারে কম্পাংক সৃষ্টি করলো।
+
+Options:
+ঘ. [math]B[/math] এবং [math]C[/math] তার দুটিতে কম্পনের ফলে কোনো বীট উপলব্ধি। করা যাবে কি? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ'গ' নং হতে, [math]f_{\mathrm{B}}=70.71 \mathrm{~Hz}[/math]
+আবার, [math]\frac{f_{\Delta}}{f_{\mathrm{C}}}=\sqrt{\mathrm{\frac{T_A}{T_C}}}[/math]
+ [math]\hspace{.5cm}\begin{array}{l}\Rightarrow\frac{50}{f_{\mathrm{C}}}=\frac{1}{\sqrt{3}}\\\Rightarrow f_{\mathrm{C}}=50 \sqrt{3}=86.6 \mathrm{~Hz}\end{array}[/math]
+প্রতি সেকেন্ডে উৎপন্ন বীট সংখ্যা উৎসগুলোর কম্পাঙ্কের পার্থক্যের সমান ।[math]\therefore[/math]
+ B ও C তার দুটি কর্তৃক প্রতি সেকেন্ডে উৎপন্ন বীট সংখ্যা, [math]86.6-70.71=15.89[/math]
+ টিকিন্তু আমাদের শ্রবণানুভূতির স্থায়ীত্বকাল 0.1 sec। তাই প্রতি সেকেন্ডে 10 বা এর অধিক সংখ্যক বীট অনুধাবনযোগ্য নয় ।অর্থাৎ, B ও C তার দুটির কম্পনে কোনো বীট উপলব্ধি করা যাবে না। [math]\\[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: তারের মৌলিক ফ্রিকোয়েন্সি তানের বর্গমূলানুপাতে পরিবর্তিত হয়, অর্থাৎ [math]f\propto\sqrt{T}[/math]. তাই [math]f_B=50\sqrt{200/100}=50\sqrt{2}\approx70.71\ \text{Hz}[/math] এবং [math]f_C=50\sqrt{300/100}=50\sqrt{3}\approx86.60\ \text{Hz}[/math], তাদের পার্থক্য [math]\Delta f\approx15.9\ \text{Hz}[/math]. এত বড় পার্থক্যে পরিষ্কার ধীর বীট নয়—বরং দ্রুত রফন বা দুটি আলাদা টোন শোনা যাবে, তাই স্বচ্ছ বিট অনুভব করা কঠিন।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 413697)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Gazipur Govt. Mohila College,
+--------------------------------------------------------------------------------
+Question:
+প্রতি সেকেন্ডে [math]5[/math] টি বীট সৃষ্টি করার লক্ষ্যে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] নেওয়া হলো। [math]A[/math] সুরশলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]1.01 \times 10^{5} \ {Wm}^{-2}[/math] এবং বিস্তার [math]0.02\ m[/math]। [math]B[/math] সুরশলাকার কম্পাঙ্ক [math]161\ Hz[/math]। (মাধ্যমের ঘনত্ব [math]1.25 {~kg} {~m}^{-3}[/math] এবং শব্দের বে গ [math]350\ m s^{-1}[/math])।
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে হলে [math]A[/math] সুরশলাকার কী পরিবর্তন আনা প্রয়োজন গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, A শলাকার শব্দের তীব্রতা, [math]\mathrm{I}=1.01 \times 10^{5} \mathrm{Wm}^{-2}[/math]
+বিস্তার, A = 0.02 mমাধ্যমের ঘনত্ব, [math]\rho=1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+শব্দের বেগ, [math]\mathrm{v}=350 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+শব্দের কম্পাঙ্ক, [math]f_{\mathrm{A}}=?[/math]
+আমরা জানি, [math]\mathrm{I}=2 \pi^{2} f_{\mathrm{A}}^{2} \mathrm{~A}^{2} \rho \mathrm{v}[/math]
+ [math]\hspace{.5cm}\begin{array}{l}\Rightarrow f_{\mathrm{A}}{ }^{2}=\frac{\mathrm{I}}{2 \pi^{2} \mathrm{~A}^{2} \rho \mathrm{v}} \\\Rightarrow f_{\mathrm{A}}=\sqrt{\frac{1.01 \times 10^{5}}{2 \times 3.1416^{2} \times 0.02^{2} \times 1.25 \times 350}}=171 \\\therefore f_{\mathrm{A}}=171 \mathrm{~Hz}\end{array}[/math]
+বর্তমানে A ও B শলাকাদ্বয়ের মধ্যে কম্পাঙ্কের পার্থক্য 171 – 161 = 10 Hz এবং $$। সুতরাং উদ্দীপকে উল্লিখিত সংখ্যক বীট তথা 5টি বীট উৎপন্ন করতে হলে তাদের কম্পাঙ্কের পার্থক্য কমাতে হবে অর্থাৎ, A সুর শলাকার কম্পাঙ্ক কমাতে হবে। অতএব, উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে হলে A সুরশলাকায় মোম লাগিয়ে এর ভর বাড়াতে হবে।5টি বীট উৎপন্ন করতে হলে A সুরশলাকার কম্পাঙ্ক 161 + 5 = 166Hz করতে হবে।[math]\hspace{.5cm}\begin{array}{l}\ \ \ \ \frac{f_A^{\prime}}{f_A}=\sqrt{\frac{m_A}{m_A^{\prime}}}\\\Rightarrow\frac{\mathrm{m}_{\mathrm{A}}}{\mathrm{m}_{\mathrm{A}}^{\prime}}=\left(\frac{f_{\mathrm{A}}}{f_{\mathrm{A}}}\right)^2\\\Rightarrow\mathrm{m}_{\mathrm{A}}^{\prime}=\mathrm{m}_{\mathrm{A}}\times\left(\frac{f_{\mathrm{A}}}{f_{\mathrm{A}}^{\prime}}\right)^2=\mathrm{m}_{\mathrm{A}}\times\left(\frac{171}{166}\right)^2\\\therefore\quad\mathrm{m}_{\mathrm{A}}^{\prime}=1.06\mathrm{~m}_{\mathrm{A}}\\\therefore\quad\Delta\mathrm{m}_{\mathrm{A}}=0.06\mathrm{~m}_{\mathrm{A}}=6\%\mathrm{~m}_{\mathrm{A}}\\\end{array}[/math]
+অতএব, উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে A সুরশলাকায় মোম লাগিয়ে এর ভর 6% বাড়াতে হবে। [math]\\[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: শব্দের তীব্রতার সূত্র [math]I=\tfrac{1}{2}\rho v \omega^{2} s_{m}^{2}[/math] থেকে [math]\omega^{2}= \dfrac{2I}{\rho v s_{m}^{2}}[/math] হয়, ফলে [math]\omega\approx 1074.5\ {\rm rad/s}</math] এবং [math]f_{A}=\omega/2\pi\approx 171.1\ Hz[/math]. বীটের শর্ত হল [math]|f_{A}-f_{B}|=5\ Hz[/math], তাই প্রয়োজনীয় [math]f_{A}=161\pm5=156\ {\rm বা}\ 166\ Hz[/math]; ন্যূনতম পরিবর্তন করতে বর্তমান থেকে [math]171.1\to166\ Hz[/math] করে প্রায় [math]5.1\ Hz[/math] কমাতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 413700)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+প্রতি সেকেন্ডে বীট 6 বলতে কী বুঝ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রতি সেকেন্ডে বীট 6 বলতে বুঝায়, মূল শব্দ তরঙ্গদ্বয়ের উপরিপাতনের ফলে লব্ধি তরঙ্গের শব্দের তীব্রতা প্রতি সেকেন্ডে 6 বার হ্রাস-বৃদ্ধি ঘটে। অর্থাৎ প্রতি সেকেন্ডে 6টি তীব্র শব্দ শোনা যায় এবং 6 টি নিঃশব্দ সৃষ্টি হয়।
+
+Explanation:
+প্রতি সেকেন্ডে বীট 6 মানে এক সেকেন্ডে মোট 6টি ছন্দ বা স্পন্দন হচ্ছে, অর্থাৎ ফ্রিকোয়েন্সি [math]6\ \text{Hz}[/math]. প্রতিটি বীটের সময়কাল (পিরিয়ড) হয় [math]T=\tfrac{1}{6}\ \text{s}\approx 0.167\ \text{s}[/math], তাই প্রতিটি বীট প্রায় [math]0.167\ \text{সেকেন্ড}[/math] পরে আসে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 413744)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]A,\ B,\ C[/math] এবং [math]D[/math] চারটি সুরশলাকা দেয়া আছে, যার মধ্যে [math]A[/math] শলাকাটি [math]1.3 \mathrm{~kg} \mathrm{~m}^{-3}[/math] ঘনত্বের মধ্যেমে [math]0.5m[/math] বিস্তারের শব্দ তরঙ্গ সৃষ্টি করে। শলাকাটির কম্পাঙ্ক [math]250\ Hz[/math] এবং মাধ্যমে শব্দের বেগ [math]345 \mathrm{~ms}^{-1}[/math]। [math]A[/math] শলাকাটি [math]B[/math] এবং [math]D[/math] এর সাথে যথাক্রমে প্রতি সেকেন্ডে ২টি এবং [math]6[/math]টি বীট উৎপন্ন করে এবং [math]B[/math] ও [math]D[/math] পরস্পরের সাথে প্রতি সেকেন্ডে [math]4[/math]টি বীট উৎপন্ন করে এবং [math]B,\ D,\ C[/math] এর সাথে দুটি বীট উৎ পন্ন করে।
+
+Options:
+ঘ. “বীট গণনা করে অজানা সুরশলাকার কম্পাঙ্ক নির্ণয় করা সম্ভব”— [math]C[/math] সুরশলাকার কম্পাঙ্ক নির্ণয় করে উক্তিটির যথার্থতা বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]f_{\mathrm{A}}=250 \mathrm{~Hz}[/math]
+উদ্দীপক অনুসারে,[math]\hspace{1 cm}\begin{array}{l} f_{\mathrm{B}}-f_{\mathrm{D}}= \pm 4 \\ f_{\mathrm{A}}-f_{\mathrm{B}}= \pm 2 \\ f_{\mathrm{A}}-f_{\mathrm{D}}= \pm 6 \\ f_{\mathrm{B}}-f_{\mathrm{C}}= \pm 2 \\ f_{\mathrm{C}}-f_{\mathrm{D}}= \pm 2 \end{array}[/math]
+ [math](+)[/math]
+ নিয়ে : [math]f_{\rm{B}}=f_{\rm{A}}-2 \mathrm{~Hz}=250 \mathrm{~Hz}-2 \mathrm{~Hz}=248 \mathrm{~Hz}[/math]
+ [math]\hspace{1.5 cm}\begin{aligned} \therefore f_{\rm{C}} & =f_{\mathrm{B}}-2 \mathrm{~Hz} \\ & =(248-2) \mathrm{Hz} \\ & =246 \mathrm{~Hz} \end{aligned}[/math]
+ [math](-)[/math]
+ নিয়ে :[math]\hspace{1.5 cm}\begin{aligned} f_{\mathrm{B}} & =f_{\mathrm{A}}+2 \mathrm{~Hz} \\ & =250 \mathrm{~Hz}+2 \mathrm{~Hz} \\ & =252 \mathrm{~Hz} \end{aligned}[/math]
+ [math]\hspace{1.5 cm}\begin{aligned} \therefore f_{\mathrm{C}} & =f_{\mathrm{B}}+2 \mathrm{~Hz} \\ & =(252+2) \mathrm{Hz} \\ & =254 \mathrm{~Hz} \end{aligned}[/math]
+ [math]\therefore \rm{~C}[/math]
+ সুর শলাকার কম্পাঙ্ক [math]246 \mathrm{~Hz}[/math]
+ অথবা [math]254 \mathrm{~Hz}[/math]
+অতএব, “বীট গণনা করে অজানা সুর শলাকার কম্পাঙ্ক নির্ণয় করা সম্ভব”। উক্তিটি যথার্থ।
+
+Explanation:
+ব্যাখ্যা: বীট সংখ্যা দিয়ে কেবলমাত্র কমপাংকের পার্থক্যের পরিমাণ জানা যায়, নির্দেশক (কোনটি বেশি) নয়; তাই থেকে আমরা পাই [math]|f_A-f_B|=2,\ |f_A-f_D|=6,\ |f_B-f_D|=4[/math] ফলে [math]f_B=248\ \text{বা}\ 252,\ f_D=244\ \text{বা}\ 256[/math] এবং সামঞ্জস্য বজায় রাখলে (252,256) বা (248,244) এই দুটি জোড়া পাওয়া যায়। এরপর [math]|f_C-f_B|=2,\ |f_C-f_D|=2[/math] হলে প্রথম জোড়া থেকে [math]f_C=254[/math] এবং দ্বিতীয় জোড়া থেকে [math]f_C=246[/math] পাওয়া যায়, তাই [math]f_C[/math] এককভাবে নির্ণয় করা যায় না। অতএব ঘ উক্তিটি সঠিক নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 413689)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: National Ideal College, Khilgaon, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে, বায়ু মাধ্যমে কম্পনরত তিনটি সুরশলাকা দেখানো হয়েছে। ৩য় সুরশলাকা হতে উৎপন্ন শব্দ ১ম ও ২য় উভয় সুরশলাকার সাথে ১টি করে বীট উৎপন্ন করে।
+
+Options:
+ঘ. ‘৩য় সুরশলাকাটির কম্পাঙ্ক কেবল [math]380[/math] হার্জ হলে ১ম ও ২য় উভয় সুরশলাকার সাথে ১টি করে বীট উৎপন্ন করতে পারে' গাণিতিক বিশ্লেষণের মাধ্যমে উক্তিটির যৌক্তিকতা তুলে ধর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম সুরশলাকার সৃষ্ট তরঙ্গের তরঙ্গ দৈর্ঘ্য,[math]\lambda=\frac{4}{3} \mathrm{~m}[/math]
+ [গ নং থেকে প্রাপ্ত]বেগ, [math]\mathrm{v}=513.33 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\therefore[/math]
+ কম্পাঙ্ক, [math]f=\frac{\mathrm{v}}{\lambda}=\frac{513.33 \mathrm{~m} \mathrm{~s}^{-1}}{\frac{4}{3} \mathrm{~m}}=385 \mathrm{~Hz}[/math]
+২য় সুরশলাকার সৃষ্ট তরঙ্গের সমীকরণ,[math]\hspace{1.5cm}\begin{aligned}\mathrm{y}_{2} & =0.9 \sin 10 \pi(75 \mathrm{t}-0.2 \mathrm{x}) \\& =0.9 \sin (750 \pi \mathrm{t}-2 \pi \mathrm{x})\end{aligned}[/math]
+এই সমীকরণকে, [math]\mathrm{y}=\mathrm{a} \sin \left(\frac{2 \pi}{\lambda} \mathrm{vt}-\frac{2 \pi}{\lambda} \mathrm{x}\right)[/math]
+ সমীকরণের সাথে তুলনা করে পাই,[math]\hspace{1.5cm}\begin{array}{l}\ \ \frac{2\pi}{\lambda}=2\pi\\\Rightarrow\lambda=1\mathrm{~m}\end{array}[/math]
+আবার, [math]\frac{2 \pi}{\lambda} \mathrm{v}=750 \pi[/math]
+ [math]\hspace{1.5cm}\mathrm{v}=\frac{750 \lambda}{2}=\frac{750 \times 1}{2} \mathrm{~m} \mathrm{~s}^{-1}=375 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\therefore[/math]
+ কম্পাঙ্ক, [math]f_{2}=\frac{375}{1} \mathrm{~Hz}=375 \mathrm{~Hz}[/math]
+এখানে, সৃষ্ট বীট N = 5এখন, তৃতীয় সুরশলাকার কম্পাঙ্ক [math]f_3[/math]
+ হলে,[math]\hspace{1cm}f_{3}=f \pm N=385 \pm 5=390[/math]
+ অথবা 380আবার, [math]f_{3}=f_{2} \pm N=375 \pm 5=380[/math]
+ অথবা 370[math]\therefore f_3[/math]
+ এর গ্রহণযোগ্য মান 380 Hzঅতএব, তৃতীয় সুরশলাকাটির কম্পাঙ্ক কেবল 380 Hz হলে ১ম ও ২য় সুরশলাকার সাথে 5টি করে বীট উৎপন্ন করতে পারে— উক্তিটি যৌক্তিক। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: বীটের শর্ত অনুযায়ী [math]|f_3-f_1|=1[/math] এবং [math]|f_3-f_2|=1[/math], তাই [math]f_1,f_2=f_3\pm1[/math] এবং ফলে [math]f_3=(f_1+f_2)/2[/math]. সেজন্য কেবল তখনই [math]f_3=380[/math] সত্য হবে যখন [math]f_1+f_2=760[/math] (উদাহরণস্বরূপ [math]f_1=379,\,f_2=381[/math])—অন্যথায় ৩য় সুরশলাকা ভিন্ন মানেও এই শর্ত পূরণ করতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 413640)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুইটি বন্ধ অর্গান নল একত্রে বাজালে প্রতি সেকেন্ডে 5 বীট শোনা যায়। এদের দৈর্ঘ্যের অনুপাত 50: 51 হলে এদের কম্পাঙ্ক নির্ণয় করো৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]250 \mathrm{~Hz}[/math]
+ , [math]255 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,বীটের হার, [math]{\mathrm{N}}=5 \mathrm{~s}^{-1}=5 {\mathrm{Hz}}[/math]
+
+[Image]
+১ম নলের কম্পাঙ্ক, [math]\mathrm{f}_{1}=?[/math]
+২য় নলের কম্পাঙ্ক, [math]\mathrm{f}_{2}=?[/math]
+বন্ধ নলের ক্ষেত্রে, শব্দের বেগ v হলে,আমরা জানি, [math]\mathrm{f}=\frac{\mathrm{v}}{4 l}[/math]
+V স্থির হলে, [math]\mathrm{f} \propto \frac{1}{l}[/math]
+ [math]\therefore \frac{\mathrm{f}_{1}}{\mathrm{f}_{2}}=\frac{l_{2}}{l_{1}}=\frac{51}{50}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{f}_{1}=1.02 \mathrm{f}_{2}[/math]
+আবার, যেহেতু, [math]l_{1}সেহেতু, [math]f_{1}>f_{2}[/math]
+ [math]\therefore \quad \mathrm{f}_{1}-\mathrm{f}_{2}=\mathrm{N}=5 \mathrm{~Hz}[/math]
+ [math]\Rightarrow[/math]
+ [math]1.02 \mathrm{f}_{2}-\mathrm{f}_{2}=5 \mathrm{~Hz}[/math]
+ [math]\begin{array}{ll}\therefore & \mathrm{f}_{2}=\frac{5 \mathrm{~Hz}}{0.02}=250 \mathrm{~Hz} \text { (Ans.) } \\\therefore & \mathrm{f}_{1}=250 \mathrm{~Hz}+5 \mathrm{~Hz}=255 \mathrm{~Hz} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ফ্লুটের বন্ধ নলগুলিতে বেসিক কম্পাঙ্ক দৈর্ঘ্যের বিপরীত অনুপাতে হয়, তাই ধরা যাক [math]f=\dfrac{C}{L}[/math]. দুইটির দৈর্ঘ্য অনুপাত [math]50:51[/math] হলে বিট = |ফারাক| = [math]|f_1-f_2|=C\Big(\dfrac{1}{50}-\dfrac{1}{51}\Big)=\dfrac{C}{50\cdot51}=5[/math], থেকে [math]C=5\times50\times51=12750[/math]. তাই [math]f_1=\dfrac{12750}{50}=255\ \text{Hz}[/math] এবং [math]f_2=\dfrac{12750}{51}=250\ \text{Hz}[/math।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 413641)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অজানা কম্পাঙ্কের সুরশলাকাকে 512 Hz কম্পাঙ্কের সুরশলাকার সাথে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বিট সৃষ্টি হয়। এক টুকরা তারের সাহায্যে অজানা সুরশলাকার ভর বাড়িয়ে পুনরায় শব্দারিত করলে 8 টি বিট উৎপন্ন হয়।
+
+Options:
+গ. উদ্দীপকে উল্লেখিত অজানা সুরশলাকার কম্পাঙ্ক কত? একে তুমি কীভাবে ব্যাখ্যা করবে?
+
+
+Correct Answer: 
+
+Solution:
+গধরি,B সুরশলাকার কম্পাঙ্ক, [math]f_{\mathrm{B}}=512 \mathrm{~Hz}[/math]
+ভর বাড়ানোর পূর্বে প্রতি সেকেন্ডে বীট সংখ্যা, [math]N=5[/math]
+A সুরশলাকার কম্পাঙ্ক, [math]f_{\mathrm{A}}=?[/math]
+ [math]\begin{aligned}\therefore f_{\mathrm{A}} & =f_{\mathrm{B}} \pm \mathrm{N} \\& =512 \mathrm{~Hz} \pm 5\end{aligned}[/math]
+ [math]=517 \mathrm{~Hz}[/math]
+ বা [math]507 \mathrm{~Hz}[/math]
+আমরা জানি, ভর বাড়লে সুরশলাকার কম্পাঙ্ক কমে যায়।যেহেতু A সুরশলাকার ভর বাড়ানোর পর বীট সংখ্যা ৪টি হয় অর্থাৎ বীট সংখ্যা বেড়ে যায়, সেহেতু A সুরশলাকার কম্পাঙ্ক B সুরশলাকা অপেক্ষা কম হবে।অতএব, A সুরশলাকার কম্পাঙ্ক হবে 507 Hz (Ans. ) [math]\\[/math]
+
+
+Explanation:
+গ প্রথমে [math]|f-512|=5[/math] হওয়ায় [math]f=507\ \text{Hz}[/math] অথবা [math]517\ \text{Hz}[/math]। ভর বাড়ালে কম্পাঙ্ক কমে এবং নতুনভাবে [math]|f'-512|=8[/math] হওয়ায় [math]f'=504\ \text{Hz}[/math] (অন্য বিকল্প [math]520\ \text{Hz}[/math] অসম্ভব)। তাই অজানা কম্পাঙ্ক হতে পারে [math]507\ \text{Hz}[/math] বা [math]517\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 413642)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অজানা কম্পাঙ্কের সুরশলাকাকে 512 Hz কম্পাঙ্কের সুরশলাকার সাথে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বিট সৃষ্টি হয়। এক টুকরা তারের সাহায্যে অজানা সুরশলাকার ভর বাড়িয়ে পুনরায় শব্দারিত করলে 8 টি বিট উৎপন্ন হয়।
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের সাহায্যে দেখাও যে, বিটের হার উৎসস্থয়ের কম্পাঙ্কের পার্থক্যের সমান।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরা যাক, [math]f_{1}[/math]
+ ও [math]f_{2}\left(f_{1}>f_{2}\right)[/math]
+ কম্পাঙ্কবিশিষ্ট দুটি শব্দ তরঙ্গ একসাথে একই সরলরেখায় একই দিকে একই বেগে সঞ্চালিত হচ্ছে। এবং [math]f_{1}[/math]
+ ও [math]f_{2}[/math]
+ এর পার্থক্য খুব কম। হিসাবের সুবিধার্থে ধরা যাক, উভয় তরঙ্গের বিস্তার সমান। তরঙ্গদ্বয়ের জন্য যেকোনো সময় t তে কোনো কণার সরণ যথাক্রমে [math]y_{1}[/math]
+ ও [math]y_{2}[/math]
+ হলে আমরা লিখতে পারি,[math]\begin{array}{l}y_{1}=a \sin 2 \pi f_{1} t \\y_{2}=a \sin 2 \pi f_{2} t\end{array}[/math]
+এখানে, তরঙ্গের বিস্তার [math]a[/math]
+।এখন, তরঙ্গের উপরিপাতনের নীতি অনুসারে কণার লব্ধি সরণ:[math]\begin{aligned}y & =y_{1}+y_{2}=a\left(\sin 2 \pi f_{1} t+\sin 2 \pi f_{2} t\right) \\& =2 a \sin 2 \pi\left(\frac{f_{1}+f_{2}}{2}\right) t \cos 2 \pi\left(\frac{f_{1}-f_{2}}{2}\right) t\end{aligned}[/math]
+ [math]\therefore y=A \sin 2 \pi f t[/math]
+ .........(১)(১) নং সমীকরণটি একটি সরল ছন্দিত স্পন্দনের সমীকরণ যার বিস্তার:[math]A=2 a \cos 2 \pi\left(\frac{f_{1}-f_{2}}{2}\right) t=2 a \cos \pi\left(f_{1}-f_{2}\right) t[/math]
+ ........(২)এবং কম্পাঙ্ক [math]f=\left(\frac{f_{1}+f_{2}}{2}\right)[/math]
+ .......(৩)(৩) নং সমীকরণ থেকে দেখা যায়, লব্ধি তরঙ্গের কম্পাঙ্ক উপাংশ তরঙ্গদ্বয়ের কম্পাঙ্কের গড় মানের সমান । এবং (২) নং সমীকরণ থেকে দেখা যায়, লব্ধি তরঙ্গের বিস্তার সময়ের অপেক্ষক। লব্ধি তরঙ্গের বিস্তার সর্বোচ্চ [math]A=2 a[/math]
+ হবে যদি,[math]\cos \pi\left(f_{1}-f_{2}\right) t= \pm 1[/math]
+ হয়।[math]\Rightarrow[/math]
+ [math]\pi\left(f_{1}-f_{2}\right) t=n \pi[/math]
+ এখানে n = 0, 1, 2, 3, . . . . . . . ইত্যাদি।[math]\therefore t=\frac{n}{f_{1}-f_{2}}=0, \frac{1}{f_{1}-f_{2}}, \frac{2}{f_{1}-f_{2}}, \frac{3}{f_{1}-f_{2}}[/math]
+ ........সুতরাং [math]0, \frac{1}{f_{1}-f_{2}}, \frac{2}{f_{1}-f_{2}}, \frac{3}{f_{1}-f_{2}}[/math]
+ ....... ইত্যাদি সময়ে লব্ধিতরঙ্গের বিস্তার সর্বোচ্চ 2a হবে এবং ঐ সময়সমূহে শব্দ জোরে শোনা যাবে।পরপর দুটি জোরালো শব্দের মধ্যবর্তী সময়ের ব্যবধান [math]=\frac{1}{f_{1}-f_{2}}[/math]
+ [math]\therefore \frac{1}{f_{1}-f_{2}}[/math]
+ সেকেন্ডে উৎপন্ন বীট সংখ্যা =1টি।অতএব, 1 সেকেন্ডে উৎপন্ন বীট সংখ্যা [math]=f_{1}-f_{2}[/math]
+ টিসুতরাং প্রতি সেকেন্ডে সৃষ্ট বীট সংখ্যা উৎসদ্বয়ের কম্পাঙ্কের পার্থক্যের সমান।
+
+Explanation:
+ব্যাখ্যা: ঘ দুটি সমতুল্য হার সহ তরঙ্গ যোগ করলে
+[math]\cos(2\pi f_1 t)+\cos(2\pi f_2 t)=2\cos\big(2\pi\frac{f_1-f_2}{2}t\big)\cos\big(2\pi\frac{f_1+f_2}{2}t\big)[/math].
+এখানে গড়-আবর্তকারী দ্রাবকের ঘনীভূত অংশ [math]\cos\big(2\pi\frac{f_1-f_2}{2}t\big)[/math]–এর সর্বোচ্চ মানগুলি তখনই আসে যখন তার যুক্তি [math]=n\pi[/math], অর্থাৎ সময় ব্যবধান [math]\Delta t=1/|f_1-f_2|[/math]; ফলে প্রতি সেকেন্ডে বিটের সংখ্যা বা বিট হারে হয় [math]|f_1-f_2|[/math], অর্থাৎ উৎসস্থয়ের কম্পাঙ্কের পার্থক্যের সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 413643)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকা একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বিট সৃষ্টি হয়। কিন্তু A তে খানিকটা মোম লাগালে বিট সংখ্যা কমে যায়।
+
+Options:
+গ. B এর কম্পাঙ্ক 480 Hz হলে A এর কম্পাঙ্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গ485 Hz [math]\\[/math]
+
+Explanation:
+ব্যাখ্যা: গ প্রথমে [math]|f_A-480|=5[/math] থেকে [math]f_A=475[/math] বা [math]485[/math] হতে পারে। মোম লাগালে A-এর কম্পাঙ্ক কমে এবং প্রশ্নে বিট সংখ্যা কমেছে বলে A-এর মূল কম্পাঙ্ক B-এর চেয়ে বেশি ছিল, তাই [math]f_A=485\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 413644)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকা একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বিট সৃষ্টি হয়। কিন্তু A তে খানিকটা মোম লাগালে বিট সংখ্যা কমে যায়।
+
+Options:
+ঘ. বিট গণনার সাহায্যে কীভাবে উক্ত সুরশলাকার কম্পাঙ্ক নির্ণয় করা যায় আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘবিট গণনার মাধ্যমে একটি সুরশলাকার অজানা কম্পাঙ্ক নির্ণয় করতে হলে অপর সুরশলাকার কম্পাঙ্ক জানা থাকতে হবে।ধরি, জানা সুরশলাকার কম্পাঙ্ক x Hz এবং সুরশলাকাদ্বয়কে একত্রে শব্দায়িত করা হলে প্রতি সেকেন্ডে শ্রুত বিট সংখ্যা [math]=\mathrm{y}(\mathrm{y} \leq 10 \mathrm{~Hz})[/math] তাহলে অজানা সুরশলাকার কম্পাঙ্ক = (x + y) Hz.এখন, অজানা সুরশলাকার কম্পাঙ্ক অপরটির তুলনায় বেশি না কম তা জানার জন্য এতে সামান্য মোম লাগিয়ে শলাকাদ্বয়কে আবার একসাথে শব্দায়িত করা হয়। মোম লাগানোর ফলে এর ভর বাড়বে, ফলে কম্পাঙ্ক কমবে। এমতাবস্থায় যদি পূর্বের বারের চেয়ে বেশি বিট শোনা যায়, তাহলে বুঝতে হবে, অজানা সুরশলাকার প্রকৃত কম্পাঙ্ক জানা সুরশলাকা হতে কম। সেক্ষেত্রে নির্ণেয় কম্পাঙ্ক = (x - y) Hz। আর যদি বিট সংখ্যা কমে যায়, তাহলে বুঝতে হবে, অজানা সুরশলাকার প্রকৃত কম্পাঙ্ক বেশি। সেক্ষেত্রে নির্ণেয় কম্পাঙ্ক = (x + y) Hz।
+
+Explanation:
+ঘ ব্যাখ্যা: বীটের সংখ্যা দুই সুরশলাকার কম্পাঙ্কের পার্থক্যের সমান, তাই [math]|f_A-f_B|=5[/math]। মোম লাগালে বীটের সংখ্যা কমলে বোঝা যায় A-এর কম্পাঙ্ক কমেছে এবং তাই মূলত [math]f_A-f_B=5[/math] (অর্থাৎ [math]f_A>f_B[/math])। যদি মোমের পরে নতুন বীটসংখ্যা [math]n(<5)[/math] হয়, তাহলে [math]f'_A-f_B=n[/math] এবং A-এর কম্পাঙ্কে পতন [math]f_A-f'_A=5-n[/math] হবে; একমাত্র বীটগণনায়ও পার্থক্য ও পরিবর্তন নির্ণয় করা যায়, কিন্তু চূড়ান্ত মান বের করতে একটি রেফারেন্স ফ্রিকোয়েন্সি লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 413645)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকা। শলাকাদ্বয় একটি গ্যাসে 50 cm এবং 50.5 cm দৈর্ঘ্যের তরঙ্গ উৎপন্ন করে। A ও B শলাকা দুটিকে একরে শব্দায়িত করলে প্রতি সেকেন্ডে 5টি বিট সৃষ্টি হয়। B এর কম্পাঙ্ক 510 Hz
+
+Options:
+গ. উক্ত গ্যাসে শব্দের বেগ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে, [math]\lambda_{\mathrm{A}}=0.5 \mathrm{~m}[/math]
+ এবং [math]\lambda_{\mathrm{B}}=0.505 \mathrm{~m}[/math]
+ [math]\because \lambda_{\mathrm{B}}>\lambda_{\mathrm{A}}[/math]
+ তাই[math]\begin{array}{l}\mathrm{f}_{\mathrm{A}}>\lambda_{\mathrm{B}} \therefore \mathrm{f}_{\mathrm{A}}-\mathrm{f}_{\mathrm{B}}=\mathrm{N}=5 \\\Rightarrow \frac{\mathrm{v}}{\lambda_{\mathrm{A}}}-\frac{\mathrm{v}}{\lambda_{\mathrm{B}}}=5 \\\Rightarrow \mathrm{v}\left(\frac{\lambda_{\mathrm{B}}-\lambda_{\mathrm{A}}}{\lambda_{\mathrm{A}} \lambda_{\mathrm{B}}}\right)=5 \\\Rightarrow \mathrm{v}=\frac{5 \lambda_{\mathrm{A}} \lambda_{\mathrm{B}}}{\lambda_{\mathrm{B}}-\lambda_{\mathrm{A}}}=\frac{5 \times 0.5 \times 0.505}{0.505-0.5} \\\quad=252.5 \mathrm{~ms}^{-1} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিট ফ্রিকোয়েন্সি হল দুই সুরশলাকার ফ্রিকোয়েন্সির পার্থক্য, তাই যদি B = [math]510\ \text{Hz}[/math] হয় এবং বিট = [math]5\ \text{Hz}[/math], তাহলে A = [math]515\ \text{Hz}[/math].  
+গ গ্যাসে শব্দের বেগ: [math]v = f_B\lambda_B = 510\times0.505 = 257.55\ \text{m/s}\approx257.6\ \text{m/s}[/math] (A-এর জন্য [math]515\times0.5=257.5\ \text{m/s}[/math] মিল আছে)।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 413646)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকা। শলাকাদ্বয় একটি গ্যাসে 50 cm এবং 50.5 cm দৈর্ঘ্যের তরঙ্গ উৎপন্ন করে। A ও B শলাকা দুটিকে একরে শব্দায়িত করলে প্রতি সেকেন্ডে 5টি বিট সৃষ্টি হয়। B এর কম্পাঙ্ক 510 Hz
+
+Options:
+ঘ. A কে একটু ঘষে পুনরায় ধ্বনিত করলে একই সংখ্যক বিট উৎপন্ন হয়। ঘষার পূর্বে ও পরে A এর কম্পাঙ্ক নির্ণয় কর এবং ঘটনাটি ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,বিট সংখ্যা, N = 5B এর কম্পাংক, [math]\mathrm{f}_{\mathrm{B}}=510 \mathrm{~Hz}[/math]
+A এর কম্পাংক, [math]\mathrm{f}_{\mathrm{A}}=\text { ? }[/math]
+আমরা জানি, [math]f_{A}=f_{B} \pm N[/math]
+ [math]\Rightarrow[/math]
+ [math]f_{A}=510 \pm 5=515[/math]
+ অথবা, 505যেহেতু A এর ভর হ্রাস পেলে বিট সংখ্যা অপরিবর্তিত থাকে তাই A এর কম্পাংক পূর্বে কম ছিল এবং পরে বৃদ্ধি পায়৷[math]\therefore[/math]
+ ঘষার পূর্বে A এর কম্পাংক = 505 Hz এবং ঘষার পরে A এর কম্পাংক = 515 Hz.ঘষার পূর্বে A এর ভর বেশি থাকায় কম্পাংক কম হবে এবং ঘষার পর A এর ভর হ্রাস পাওয়ায় কম্পাংক বৃদ্ধি পাবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ একই গ্যাসে তরঙ্গগত বেগ সমান হলে [math]f∝1/λ[/math], তাই
+[math]f_A=f_B\frac{λ_B}{λ_A}=510\times\frac{0.505}{0.50}=515.1\ \text{Hz}\approx515\ \text{Hz}[/math], ফলে বিটের সংখ্যা [math]|515-510|=5[/math]. ঘষলে সাধারণত কম্পাঙ্ক বদলায় না (শুধু দমন বা আয়তন পড়ে), তাই পরে ও A-এর কম্পাঙ্ক প্রায় [math]515\ \text{Hz}[/math] থাকবে এবং বিট সংখ্যা অপরিবর্তিত থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 413647)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরশলাকা একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বিট উৎপন্ন হয়। একটি সুরশলাকা কোনো টানা তারের 1.18 m দৈর্ঘ্যের সাথে এবং অপরটি একই তারের 1.20m দৈর্ঘ্যের সাথে ধ্বনি সমন্বয় করে।
+
+Options:
+গ. সুরশলাকাদ্বয়ের কম্পাঙ্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গমনে করি, সুর শলাকাদ্বয়ের কম্পাঙ্ক [math]f_{1}[/math]
+ ও [math]f_{2}[/math]
+তাহলে, [math]f_{1} \sim f_{2}=[/math]
+ প্রতি সেকেন্ডে উৎপন্ন বীট সংখ্যা [math]=5 \mathrm{~s}^{-1}=5 \mathrm{~Hz}[/math]
+ ....(i)টানাতারের টান (T) এবং একক দৈর্ঘ্যের ভর [math](\mu)[/math]
+ অপরিবর্তিত থাকায়,[math]f_{1}=\frac{1}{2 l_{1}} \sqrt{\frac{\mathrm{T}}{\mu}}[/math]
+ এবং [math]f_{2}=\frac{1}{2 l_{2}} \sqrt{\frac{\mathrm{T}}{\mu}}[/math]
+ [math]\therefore \frac{f_{1}}{f_{2}}=\frac{l_{2}}{l_{1}}=\frac{1.2 \mathrm{~m}}{1.18 \mathrm{~m}}=1.017[/math]
+ [math]\Rightarrow[/math]
+ [math]f_{1}=1.017 f_{2}[/math]
+ ........(ii)তাহলে [math]f_{1}>f_{2}[/math]
+ ; সুতরাং (i) নং হতে পাই,[math]f_{1}-f_{2}=5 \mathrm{~Hz}[/math]
+ [math]\Rightarrow[/math]
+ [math]1.017 f_{2}-f_{2}=5 \mathrm{~Hz}[/math]
+ [(ii) হতে][math]\therefore f_{2}=\frac{5 \mathrm{~Hz}}{0.017}=294 \mathrm{~Hz}[/math]
+ এবং [math]f_{1} = f_{2}+5 \mathrm{~Hz}=294 \mathrm{~Hz}+5 \mathrm{~Hz}[/math]
+ [math]=299 \mathrm{~Hz}[/math]
+সুতরাং সুরশলাকাদ্বয়ের কম্পাঙ্ক 294 Hz এবং 299 Hz। [math]\\[/math]
+
+
+Explanation:
+গ  
+ব্যাখ্যা: সতের সমীকরণে তন্তুর মূল কম্পাঙ্ক [math]f=\dfrac{v}{2L}[/math] এবং বিট সংখ্যা [math]|f_1-f_2|=\dfrac{v}{2}\Big|\dfrac{1}{1.18}-\dfrac{1}{1.20}\Big|=5[/math]। এখান থেকে [math]v\approx707.1\ \text{m/s}[/math] পাওয়া যায় এবং তাই [math]f_1=\dfrac{v}{2(1.18)}\approx300\ \text{Hz}[/math], [math]f_2=\dfrac{v}{2(1.20)}\approx295\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 413648)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরশলাকা একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বিট উৎপন্ন হয়। একটি সুরশলাকা কোনো টানা তারের 1.18 m দৈর্ঘ্যের সাথে এবং অপরটি একই তারের 1.20m দৈর্ঘ্যের সাথে ধ্বনি সমন্বয় করে।
+
+Options:
+ঘ. প্রথম সুরশলাকার কম্পাঙ্ক আরো 10 Hz বৃদ্ধি করতে হলে তারের দৈর্ঘ্যে কী পরিবর্তন আনতে হবে গাণিতিক বিশ্লেষণ করে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রথম সুরশলাকাটি প্রকৃতপক্ষে 1.18 m দৈর্ঘ্যের তারের সাথে ঐকতান সৃষ্টি করে। তাই [math]\mathrm{f} \propto \frac{1}{l}[/math]
+ সূত্রানুসারে, এর কম্পাঙ্ক বেশি, অর্থাৎ [math]\mathrm{f}=300 \mathrm{~Hz}[/math]
+.তারের দৈর্ঘ্য হ্রাস করে এর কম্পাঙ্ক বৃদ্ধি করা যায়।ধরি, এক্ষেত্রে তারের দৈর্ঘ্য হবে [math]l^{\prime}=\mathrm{x} \mathrm{m}[/math]
+ এবং কম্পাঙ্ক হবে, [math]\mathrm{f}=300+10=310 \mathrm{~Hz}[/math]
+তাহলে উপর্যুক্ত সূত্রানুযায়ী, [math]\frac{\mathrm{f}^{\prime}}{\mathrm{f}}=\frac{l}{l^{\prime}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{310}{300}=\frac{1.18}{x}[/math]
+ [math]\therefore x=\frac{300}{310} \times 1.18=1.142 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ দৈর্ঘ্য কমাতে হবে [math]=1.18-1.142=0.038 \mathrm{~m}=3.8 \mathrm{~cm}[/math]
+সুতরাং গাণিতিক বিশ্লেষণে দেখা গেল যে, কম্পাঙ্ক 10 Hz বৃদ্ধি করতে হলে প্রথম তারের দৈর্ঘ্য 3.8 cm পরিমাণ কমাতে হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: তারের একক মোডে ফ্রিকোয়েন্সি দৈর্ঘ্যের বিপরীতানুপাতী, তাই ধরে নিই [math]f=k/L[/math]. দুটি ফর্কের বিটের শর্ত থেকে [math]k\left(\frac{1}{1.18}-\frac{1}{1.20}\right)=5\Rightarrow k\approx354.17[/math]. প্রথম ফর্কের মূল ফ্রিকোয়েন্সি [math]f_1=k/1.18\approx300.14\,Hz[/math], প্রয়োজনীয় নতুন ফ্রিকোয়েন্সি [math]f_1'=310.14\,Hz[/math], ফলে নতুন দৈর্ঘ্য [math]L_1'=k/f_1'\approx1.1419\,m[/math] এবং দৈর্ঘ্যে পরিবর্তন [math]\Delta L\approx1.1419-1.18=-0.0381\,m[/math], অর্থাৎ প্রায় 3.8 সেন্টিমিটার কমাতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 413649)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরেলী কাঁটা একত্রে শব্দায়িত করলে 3 সেকেন্ডে 15টি বিট উৎপন্ন হয়। একটি সুরেলী কাঁটার ক ম্পাঙ্ক প্রতি সেকেন্ডে 252 Hz হলে, অপরটির কম্পাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]247 \mathrm{~Hz}[/math]
+ , [math]257 \mathrm{~Hz}[/math]
+)[math]\\[/math]
+Solution :এখানে,বিটের হার, [math]\mathrm{N}=\frac{15}{3} \mathrm{~Hz}=5 \mathrm{~Hz}[/math]
+একটির কম্পাঙ্ক, [math]\mathrm{n}_{1}=252 \mathrm{~Hz}[/math]
+অপরটির কম্পাঙ্ক, [math]\mathrm{n}_{2}=\text { ? }[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{n}_{1}-\mathrm{n}_{2}[/math]
+সুতরাং, [math]\mathrm{N}=\mathrm{n}_{1}-\mathrm{n}_{2}[/math]
+অথবা, [math]N=n_{2}-n_{1}[/math]
+ [math]\mathrm{N}=\mathrm{n}_{1}-\mathrm{n}_{2}[/math]
+ হলে[math]\begin{aligned}\mathrm{n}_{2} & =\mathrm{n}_{1}-\mathrm{N}=252 \mathrm{~Hz}-5 \mathrm{~Hz} \\& =247 \mathrm{~Hz} \text { (Ans.) }\end{aligned}[/math]
+ [math]\mathrm{N}=\mathrm{n}_{2}-\mathrm{n}_{1}[/math]
+ হলে[math]\begin{aligned}\mathrm{n}_{2} & =\mathrm{N}+\mathrm{n}_{1}=5 \mathrm{~Hz}+252 \mathrm{~Hz} \\& =257 \mathrm{~Hz} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+বিটের হার হলো [math]15/3=5\ \text{Hz}[/math], তাই দুই কাঁটার কম্পাঙ্কের পার্থক্য [math]5\ \text{Hz}[/math]. একটির কম্পাঙ্ক [math]252\ \text{Hz}[/math] হলে অন্যটি হতে পারে [math]252+5=257\ \text{Hz}[/math] বা [math]252-5=247\ \text{Hz}[/math], কারণ বিটফ্রিকোয়েন্সি দুটি কম্পাঙ্কের পার্থক্যকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 413650)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকাকে একত্রে শব্দারিত করলে প্রতি সেকেন্ডে এটি বিট উৎপন্ন হয়। A এর বাহু তে মোম লাগালে বিটের সংখ্যা 4টি হয়। B এর কম্পাঙ্ক 380 Hz হলে A এর কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]385 \mathrm{~Hz} .[/math] )
+
+Explanation:
+ব্যাখ্যা: দুই সুরশলাকার মধ্যে বিট সংখ্যা হল তাদের কম্পাঙ্কের পার্থক্যের মান। প্রশ্নে একসঙ্গে বাজালে প্রতি সেকেন্ডে 6টি বিট হলে এবং মোম লাগালে বিট সংখ্যা 4টি হলে A’র কম্পাঙ্ক B (380 Hz)-এর চেয়ে 6 Hz বেশি ছিল, তাই [math]f_A-380=6\Rightarrow f_A=386\ \text{Hz}[/math]; মোম লাগালে A’র কম্পাঙ্ক 2 Hz কমে পার্থক্য 4 Hz হয়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 413651)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরশলাকা A ও B একত্রে কম্পিত হলে প্রতি সেকেন্ডে 4টি বিট উৎপন্ন হয়। কিন্তু A-তে খানিক টা মোম লাগালে বিট সংখ্যা কমে যায়। B-এর কম্পাঙ্ক 256 Hz হলে, A-এর কম্পাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]260 \mathrm{~Hz}[/math] )
+
+Explanation:
+ব্যাখ্যা: দুটো সুরশলাকার একসঙ্গে তৈরী হওয়া বিট সংখ্যা তাদের কম্পাঙ্কের পার্থক্যের পরিমাণ, তাই [math]|f_A - f_B| = 4[/math]. A-তে মোম লাগালে বিটের সংখ্যা কমছে বলে A-এর কম্পাঙ্ক হ্রাস পেয়েছে এবং B-এর দিকে অনুশূন্য হচ্ছে, তাই শুরুতে A-এর কম্পাঙ্ক B-এর চেয়ে বেশি ছিল এবং [math]f_A = 256 + 4 = 260\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 413652)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকাকে এক সাথে বাজালে প্রতি সেকেন্ডে ১টি বিট শোনা যায়। A-এর ভর কমালে বিট কমে যায়। B-এর কম্পাঙ্ক 430 Hz হলে A-এর কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]425 \mathrm{~Hz}[/math])
+
+Explanation:
+Beats-এর সংখ্যা [math]=|f_A-f_B|] তাই [math]|f_A-430|=1\Rightarrow f_A=429\ \text{বা}\ 431\ \text{Hz}[/math]. কম ভর করলে A-এর কম্পাঙ্ক বেড়ে যায়; যেহেতু বিট কমেছে, A-এর কম্পাঙ্ককে 430-এর দিকে নিয়ে আসা হয়েছে, তাই শুরুতে [math]f_A=429\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 413653)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকা একত্রে শব্দায়িত করলে 3 সেকেন্ডে 15টি বিট শোনা যায়। A-এর বাহুতে ভর লাগালে বিট বাড়ে। A-এর কম্পাঙ্ক 300 Hz হলে B এর কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]305 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,বীটের হার, [math]\mathrm{N}=5 \mathrm{~s}^{-1}=5 \mathrm{~Hz}[/math]
+A এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{A}}=300 \mathrm{~Hz}[/math]
+B এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{B}}=?[/math]
+আমরা জানি,বীট, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+যেহেতু A ভর বাড়ালে, অর্থাৎ কম্পাঙ্ক কমলে বীট বাড়ে সেহেতু B এর কম্পাঙ্ক A এর অপেক্ষা বড়।অর্থাৎ [math]\mathrm{n}_{\mathrm{B}}>\mathrm{n}_{\mathrm{A}}[/math]
+সুতরাং, [math]\mathrm{N}=\mathrm{n}_{\mathrm{B}}-\mathrm{n}_{\mathrm{A}}[/math]
+ [math]\therefore \mathrm{n}_{B}=\mathrm{N}+\mathrm{n}_{\mathrm{A}}=5 \mathrm{~Hz}+300 \mathrm{~Hz}=305 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: একসঙ্গে 3 সেকেন্ডে 15টি বিট মানে বিট ফ্রিকোয়েন্সি = [math]15/3=5\ \text{Hz}[/math]. বিট হল দুইটি কম্পাঙ্কের পার্থক্য, তাই [math]|f_B-300|=5[/math] থেকে [math]f_B=305\ \text{Hz} \ \text{অথবা}\ 295\ \text{Hz}[/math]. A-তে ভর লাগালে A-এর কম্পাঙ্ক কমে এবং প্রশ্নে বিট বাড়ছে, এ থেকে বোঝা যায় B-এর কম্পাঙ্ক A-এর চেয়ে বেশি; অতএব [math]f_B=305\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 413654)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো মাধ্যমে A ও B দুটি সুরশলাকা একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 7টি বিট উৎপন্ন হয়। A-এর ভর কমালে বিট কমে। A-এর কম্পাঙ্ক 450 Hz হলে B-এর কম্পাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]457 \mathrm{~Hz}[/math] )
+
+Explanation:
+কেনটা সঠিক: বিটের সংখ্যা হল দুইটি কম্পাঙ্কের পরম মানের পার্থক্য, অর্থাৎ [math]|f_A-f_B|=7[/math]. ভর কমালে A-এর কম্পাঙ্ক বৃদ্ধি পায়, এবং বিট কমেছে মানে A-এর কম্পাঙ্ক B-র দিকে নড়েছে, তাই [math]f_B=450+7=457\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 413655)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরেলী কাঁটা এক সাথে ধ্বনিত হলে প্রতি সেকেন্ডে ১টি বিট উৎপন্ন করে। A-কে একটু ঘষা হলো। এতে বিটের সংখ্যা বৃদ্ধি পেল। B-এর কম্পাঙ্ক 510 Hz হলে ঘষার পূর্বে A এর কম্পাঙ্ক কত ছিল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]515 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,বীটের হার, [math]\mathrm{N}=5 \mathrm{~s}^{-1}=5 \mathrm{~Hz}[/math]
+B এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{B}}=510 \mathrm{~Hz}[/math]
+A এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{A}}=?[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}} {-} \mathrm{n}_{\mathrm{B}}[/math]
+যেহেতু A এর ভর কমালে বীট বাড়ে সেহেতু A এর কম্পাঙ্ক B অপেক্ষা বেশি ।অর্থাৎ, [math]\mathrm{n}_{\mathrm{A}}>\mathrm{n}_{\mathrm{B}}[/math]
+সুতরাং, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+ [math]\begin{aligned}\therefore \mathrm{n}_{\mathrm{A}} & =\mathrm{N}+\mathrm{n}_{\mathrm{B}}=5 \mathrm{~Hz}+510 \mathrm{~Hz} \\& =515 \mathrm{~Hz} \text { (Ans) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই সুরেলীর মধ্যে বিটের হার [math]|f_A - f_B| = 1[/math]. যেহেতু [math]f_B = 510\ \text{Hz}[/math], শুরুতে [math]f_A = 509\ \text{Hz}[/math] বা [math]511\ \text{Hz}[/math]; কিন্তু A-কে একটু ঘষলে কম্পাঙ্ক বাড়লে বিটের সংখ্যা বাড়ছে, যা কেবলই সম্ভব যখন [math]f_A > f_B[/math], তাই আগের কম্পাঙ্ক ছিল [math]511\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 413656)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরেলী কাঁটা এক সাথে ধ্বনিত হলে প্রতি সেকেন্ডে ১টি বিট উৎপন্ন হয়। A-কে একটু ঘষা হলে বিট সংখ্যা বৃদ্ধি পায়। B-এর কম্পাঙ্ক 515 Hz হলে ঘষার পূর্বে A-এর কম্পাঙ্ক কত ছিল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]520 \mathrm{~Hz}[/math] )
+
+Explanation:
+ব্যাখ্যা: দুই সুরেলী কাঁটার বিট সংখ্যা তাদের কম্পাঙ্কের পার্থক্যের মান, তাই [math]|f_A-515|=1[/math] হলে [math]f_A=514\ \text{Hz}\ \text{বা}\ 516\ \text{Hz}[/math]. A-কে ঘষলে তার কম্পাঙ্ক বাড়ে; ক্ষুদ্র বৃদ্ধি বিট সংখ্যা বাড়ায় শুধুমাত্র যদি শুরুতে A-এর কম্পাঙ্ক B-এর চেয়ে বেশি থাকে, তাই শুরুতে [math]f_A=516\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 413657)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A সুরশলাকার কম্পাঙ্ক 288 Hz। A এবং B সুরশলাকাদ্বয়কে একই সাথে বাজালে প্রতি সেকেন্ডে 4টি বীট শোনা যায়। A-কে কিছু ঘষে A এবং B-কে পুনরায় একই সাথে বাজালে প্রতি সেকেন্ডে ১টি বীট শোনা যায়। B সুরশলাকার কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]284 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,A এর কম্পাঙ্ক [math]\mathrm{n}_{\mathrm{A}}=288 \mathrm{~Hz}[/math]
+বীট এর হার, [math]\mathrm{N}=4 \mathrm{~Hz}[/math]
+এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{B}}=?[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+A কে ঘষলে বীট সংখ্যা বেড়ে যায় অর্থাৎ [math]\mathrm{n}_{\mathrm{A}}>\mathrm{n}_{\mathrm{B}}[/math]
+আমরা পাই, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+ [math]\therefore \mathrm{n}_{\mathrm{B}}=\mathrm{n}_{\mathrm{A}}-\mathrm{N}[/math]
+ [math]=(288-4) \mathrm{Hz}=284 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিটসের সংখ্যা দুই সুরশলাকার কম্পাঙ্কের পার্থক্য, তাই [math]|288 - f_B| = 4[/math], ফলে [math]f_B = 284\ \text{বা}\ 292[/math]. ঘষলে A-র কম্পাঙ্ক সাধারণত বৃদ্ধি পায়, এবং নতুন বিট সংখ্যা 1 হলে [math]f_B=292[/math] (উদাহরণ: A হতে 291 বা 293 হলে [math]|291-292|=1[/math])। অতএব B এর কম্পাঙ্ক [math]292\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 413658)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরেলী কাঁটা একত্রে ধ্বনিত করলে প্রতি সেকেন্ডে 5 টি বিট উৎপন্ন হয়। A-কে একটু ঘষে পুনরায় ধ্বনিত করলে একই সংখ্যক বীট উৎপন্ন হয়। B-এর কম্পাঙ্ক 510 Hz। ঘষার পূর্বে ও পরে A-এর কম্পাঙ্ক নির্ণয় করো এবং ঘটনাটি ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]505 \mathrm{~Hz}[/math]
+ , [math]515 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,বীটের হার, [math]\mathrm{N}=5 \mathrm{~Hz}[/math]
+B এর কম্পাংক, [math]\mathrm{n}_{2}=510 \mathrm{~Hz}[/math]
+A এর কম্পাংক, [math]\mathrm{n}_{1}=?[/math]
+আমরা জানি,[math]\begin{aligned}n_{1} & =n_{2} \pm N \\& =510 \pm 5\end{aligned}[/math]
+= 515 অথবা 505যেহেতু A এর ভর হ্রাসের ফলে বীট অপরিবর্তিত থাকে তাই A এর কম্পাংক পূর্বে কম ছিল এবং পরে বৃদ্ধি পায় ।[math]\therefore[/math]
+ ঘষার পূর্বে কম্পাংক = 505 Hzঘষার পরে কম্পাংক = 515 Hz
+
+Explanation:
+ব্যাখ্যা: বিটের হার হচ্ছে কম্পাঙ্কের পার্থক্যের মডুলো, তাই [math]|f_A-510|=5[/math] থেকে [math]f_A=505 \text{ বা } 515\text{ Hz}[/math]. ঘষলে কাঁটার তাপমাত্রা বাড়ে এবং ধাতব কাঁটায় ইয়ংস মডিউল কমে যেয়ে কম্পাঙ্ক সাধারণত হ্রাস পায়, তাই সুযুক্ত মান হবে ঘষার আগে [math]515\text{ Hz}[/math] এবং ঘষার পরে [math]505\text{ Hz}[/math], ফলে বিটের হার সংকেতিতভাবে একই থাকে ([math]5\text{ Hz}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 413659)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরশলাকা A ও B একই সময়ে শব্দায়িত হওয়ায় প্ৰতি সেকেন্ডে 5 টি বিট সৃষ্টি করে। A-এর বাহুতে একখন্ড তার জড়ালে আবার তারা প্রতি সেকেন্ডে 5 টি বিট সৃষ্টি করে। B-এর কম্পাঙ্ক 320 Hz হলে A-এর কম্পাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]325 \mathrm{~Hz}[/math] )
+
+Explanation:
+প্রধান ধারণা: বিটের সংখ্যা দুই কম্পাঙ্কের পার্থক্যের মানের সমান, তাই [math]|f_A - f_B| = 5[/math]। যেহেতু A‑তে তার জুড়ে দিলে তার কম্পাঙ্ক কমে, বিট সংখ্যা আবার 5 হতে হলে A‑র কম্পাঙ্ক B‑এর উপরে থেকে B‑এর নিচে গেলে হয়; তাই প্রথমে [math]f_A = 320 + 5 = 325\ \text{Hz}[/math] (পরবর্তীতে এটি কমে [math]315\ \text{Hz}[/math] হলে আবার 5 বিট হবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 413661)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ওয়াসিফ 320 Hz কম্পাঙ্কের একটি সুর শলাকা নিয়ে বায়ুতে ও পানিতে শব্দ উৎপন্ন করল। সে উৎপন্ন তরঙ্গদ্বয়ের তরঙ্গদৈর্ঘ্যের পার্থক্য 3.9 m এবং বায়ুতে শব্দের বেগ 345 m/s পরিমাপ করল। অতঃপর সে পানিতে দ্বিতীয় শলাকার তরঙ্গদৈর্ঘ্য প্রথম শলাকার চেয়ে 1m বেশি পেল এবং প্রাপ্ত উপা ত্তসমূহ হতে পানিতে শব্দের বেগ নির্ণয় করল।
+
+Options:
+ঘ. ওয়াসিফের উৎসদ্বয় দ্বারা সৃষ্ট বিট ওয়াসিফ শুনতে পারবে কি-না সে সম্পর্কে গাণিতিক ব্যাখ্যাসহ তোমার যুক্তিসঙ্গত মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘপানিতে ১ম শলাকার তরঙ্গদৈর্ঘ্য,[math]\begin{aligned}\lambda_{\mathrm{w}_{1}}=\frac{\mathrm{V}_{\mathrm{w}}}{f_{1_{r}}} & =\frac{1593 \mathrm{~ms}^{-1}}{320 \mathrm{~Hz}} \\& =4.98 \mathrm{~m}\end{aligned}[/math]
+পানিতে ২য় শলাকার তরঙ্গদৈর্ঘ্য,[math]\begin{aligned}\lambda_{\mathrm{w}_2^{ }}=\lambda_{\mathrm{w}_1}+1\mathrm{~m}&=4.98\mathrm{~m}+1\mathrm{~m}\\&=5.98\mathrm{~m}\end{aligned}[/math]
+ [math]\therefore[/math]
+ ২য় শলাকার কম্পাঙ্ক,[math]f_{2}=\frac{V_{\mathrm{w}}}{\lambda_{\mathrm{w} 2}}=\frac{1593 \mathrm{~ms}^{-1}}{5.98 \mathrm{~m}}=266 \mathrm{~Hz}[/math]
+তাহলে সুরশলাকাদ্বয়ের কম্পাঙ্কের পার্থক্য,[math]\begin{array}{l}=f_{1}-f_{2} \\=320 \mathrm{~Hz}-266 \mathrm{~Hz} \\=54 \mathrm{~Hz}\end{array}[/math]
+ [math]\therefore[/math]
+ দুটো বীট শুনার মধ্যবর্তী সময় [math]\frac{1}{54}=0.0185 \mathrm{~s}<0.1 \mathrm{~s}[/math]
+যা শব্দানুতির স্থায়িত্বকালের চেয়ে অনেক কম।[math]\therefore[/math]
+ ওয়াসিফ বীট শুনতে পারবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ বিটের ফ্রিকোয়েন্সি হলো [math]|f_1-f_2|[/math]। উৎস একই সুরশলাকা হওয়ায় উভয় ক্ষেত্রেই ফ্রিকোয়েন্সি অপরিবর্তিত [math]f_1=f_2=320\ \text{Hz}[/math] (মাধ্যম পরিবর্তন করলে তরঙ্গদৈর্ঘ্য বদলায় কিন্তু উৎস-ফ্রিকোয়েন্সি নয়), তাই [math]|f_1-f_2|=0[/math] এবং কোনো বিট শোনা যাবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 413662)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন শিক্ষার্থী 256 Hz কম্পাঙ্কের একটি কম্পমান সুরশলাকা নিয়ে একটি দেয়ালের দিকে 1.33 m/s সমদ্রুতিতে হাঁটতে শুধু করল। এ অবস্থায় সে প্রতি সেকেন্ডে উৎপন্ন বিটের সংখ্যা গণনা করল। অতঃপর সে তার হাঁটার দ্রুতি এমনভাবে বৃদ্ধি করল যেন প্রতি সেকেন্ডে 5টি বিট শুনতে পায়।
+
+Options:
+গ. প্রথম ক্ষেত্রে সে প্রতি সেকেন্ডে কয়টি বিট গণনা করেছিল?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ সে প্রথম ক্ষেত্রে প্রায় 2টি বিট/সেকেন্ড গণনা করেছিল।  
+
+ব্যাখ্যা: দেয়াল থেকে প্রতিফলিত তরঙ্গ দুবার ডপলার শিফটের সম্মিলিত ফল; বিট-ফ্রিকোয়েন্সি [math]N=f\frac{2v_s}{v-v_s}[/math]। যদি [math]v\approx340\ \text{m/s},\ f=256\ \text{Hz},\ v_s=1.33\ \text{m/s}[/math], তাহলে [math]N\approx256\times\frac{2\times1.33}{340}\approx2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 413663)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন শিক্ষার্থী 256 Hz কম্পাঙ্কের একটি কম্পমান সুরশলাকা নিয়ে একটি দেয়ালের দিকে 1.33 m/s সমদ্রুতিতে হাঁটতে শুধু করল। এ অবস্থায় সে প্রতি সেকেন্ডে উৎপন্ন বিটের সংখ্যা গণনা করল। অতঃপর সে তার হাঁটার দ্রুতি এমনভাবে বৃদ্ধি করল যেন প্রতি সেকেন্ডে 5টি বিট শুনতে পায়।
+
+Options:
+ঘ. দ্বিতীয়ক্ষেত্রে তার হাঁটার দ্রুতি কেন এবং কত বৃদ্ধি করেছিল সে সম্পর্কে যথাযথ গাণিতিক বিশ্লেষ ণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: ঘ কারণ সোর্স (টিউনিং ফর্ক) ও শ্রোতা উভয়েই দেয়ালের দিকে সমদ্রুতিতে চলছে, প্রতিফলিত তরঙ্গের ফ্রিকোয়েন্সি হবে [math]f' = f\frac{v+v_o}{\,v-v_o\,}[/math], ফলে বিটের হার [math]b = f\frac{2v_o}{\,v-v_o\,}[/math]. ধরা হল শব্দের বেগ [math]v=343\ \text{m/s}[/math]; প্রাথমিক ক্ষেত্রে [math]v_o=1.33\ \text{m/s}[/math] দিলে [math]b\approx256\times\frac{2(1.33)}{343-1.33}\approx2\ \text{s^{-1}}[/math]; বিট বাড়িয়ে [math]b=5[/math] করলে সমাধান করে [math]v_o\approx3.32\ \text{m/s}[/math]. তাই তার হাঁটার দ্রুতি প্রায় [math]3.32-1.33\approx1.99\ \text{m/s}[/math] দিয়ে বৃদ্ধি পেয়েছিল।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 413664)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন শিক্ষার্থী পরীক্ষাগারে একটি নির্দিষ্ট সুরশলাকা নিয়ে পরীক্ষা করছিল। প্রথমে সে 512 Hz কম্পাঙ্কের অন্য একটি সুর শলাকার সাথে তার শলাকাটিকে কম্পিত করে দেখল, প্রতি সেকেন্ড 4টি বিট উৎপন্ন হয়। অতঃপর 514 Hz কম্পাঙ্কের জন্য আরেকটি সুর শলাকার সাথে তার শলাকাটিকে কম্পি ত করে প্রতি সেকেন্ডে 6 টি বিট পর্যবেক্ষণ করল।
+
+Options:
+গ. শিক্ষার্থীর শলাকাটির কম্পাঙ্ক কত ছিল?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, সুরশলাকার কম্পাঙ্ক, [math]f=256 \mathrm{~Hz}[/math]
+দেয়ালের দিকে শিক্ষার্থীর দ্রুতি, [math]\mathrm{x}=1.33 \mathrm{~ms}^{-1}[/math]
+কক্ষ তাপমাত্রা 20°C এ বাতাসের বেগ, [math]v=344 \mathrm{~ms}^{-1}[/math]
+দেয়ালের সাপেক্ষে সুরশলাকার আপাত কম্পাঙ্ক, f =?শিক্ষার্থীর সাপেক্ষে প্ৰতিফলিত তরঙ্গের কম্পাঙ্ক, [math]\mathrm{f}^{\prime \prime}=\text { ? }[/math]
+প্রতি সেকেন্ডে বিট, n = ?256Hz কম্পাঙ্কের সুরশলাকা দেয়ালের দিকে যাচ্ছে। সুতরাং, ডপলার প্রভাব অনুসারে, দেয়ালের সাপেক্ষে সুরশলাকার আপাত কম্পাঙ্ক,[math]\mathrm{f}^{\prime}=\mathrm{f} \times \frac{v}{v-y_{\mathrm{s}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{f}^{\prime}=\mathrm{f} \times \frac{v}{v-\mathrm{x}}[/math]
+অতএব, দেয়াল থেকে প্রতিফলিত তরঙ্গের কম্পাঙ্ক f।আবার, শিক্ষার্থীর সাপেক্ষে প্রতিফলিত তরঙ্গে আপাত কম্পাঙ্ক,[math]\begin{aligned}\mathrm{f}^{\prime} & =\mathrm{f}^{\prime} \times \frac{v+\mathrm{v}_{0}}{v} \\& =\mathrm{f} \times \frac{v}{v-x} \times \frac{v+\mathrm{x}}{v} \\& =\mathrm{f} \times \frac{v+\mathrm{x}}{v-\mathrm{x}}\end{aligned}[/math]
+প্রতি সেকেন্ডে উৎপন্ন বিট, [math]n=f^{\prime}-f[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}=\mathrm{f} \times \frac{v+\mathrm{x}}{v-\mathrm{x}}-\mathrm{f}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}=\mathrm{f}\left(\frac{v+\mathrm{x}}{v-\mathrm{x}}-1\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}=\mathrm{f}\left(\frac{v+\mathrm{x}-(v-\mathrm{x})}{v-\mathrm{x}}\right)[/math]
+ [math]\begin{array}{l}=f \times \frac{2 x}{v-x} \\=256 \times \frac{2 \times 1.33}{344-1.33}\end{array}[/math]
+ [math]=1.99 \approx 2[/math]
+ টি (Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিট ফ্রিকোয়েন্সি হলো দুই সুরশলাকার ফ্রিকোয়েন্সির পার্থক্যের মূলমান, তাই এখানে [math]|f-512|=4[/math] এবং [math]|f-514|=6[/math]. দুইটি সমীকরণ মিলিয়ে দেখা যায় সম্ভাব্য মানগুলো [math]508,516[/math] এবং [math]508,520[/math]; সাধারণ মান হলো [math]f=508\ \text{Hz}[/math], তাই শলাকারটির কম্পাঙ্ক [math]508\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 413665)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন শিক্ষার্থী পরীক্ষাগারে একটি নির্দিষ্ট সুরশলাকা নিয়ে পরীক্ষা করছিল। প্রথমে সে 512 Hz কম্পাঙ্কের অন্য একটি সুর শলাকার সাথে তার শলাকাটিকে কম্পিত করে দেখল, প্রতি সেকেন্ড 4টি বিট উৎপন্ন হয়। অতঃপর 514 Hz কম্পাঙ্কের জন্য আরেকটি সুর শলাকার সাথে তার শলাকাটিকে কম্পি ত করে প্রতি সেকেন্ডে 6টি বিট পর্যবেক্ষণ করল।
+
+Options:
+ঘ. উভয় ক্ষেত্রে প্রাপ্ত বিটের সংখ্যার কেন তারতম্য ঘটেছিল সে সম্পর্কে তোমার যুক্তিসঙ্গত মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,সুরশলাকার কম্পাঙ্ক, f = 256 Hz30°C তাপমাত্রায় ( স্বাভাবিক ) বাতাসে শব্দের বেগ, [math]v=332+0.6 \times 30=350 \mathrm{~m} / \mathrm{s}[/math]
+প্রতি সেকেন্ডে উৎপন্ন বীট সংখ্যা, n = 5শিক্ষার্থীর দ্রুতি, x = ?শিক্ষার্থী x দ্রুতিতে দেয়ালের দিকে গেলে, দেয়ালের সাপেক্ষে সুরশলাকার আপাত কম্পাঙ্ক,[math]\mathrm{f}^{\prime}=\mathrm{f} \times \frac{v}{v-v_{\mathrm{s}}}[/math]
+[ডপলার প্রভাব অনুসারে][math]\therefore \mathrm{f}^{\prime}=\mathrm{f} \times \frac{v}{v-\mathrm{x}}[/math]
+দেয়াল হতে প্রতিফলিত 'তরঙ্গের কম্পাক [math]\mathrm{f}^{\prime}[/math]
+শিক্ষার্থীর সাপেক্ষে প্রতিফলিত তরঙ্গের আপাত কম্পাঙ্ক ডপলার প্রভাব অনুসারে,[math]\mathrm{f}^{\prime \prime}=\mathrm{f}^{\prime} \times \frac{v+v_{0}}{v}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{f}^{\prime \prime}=\mathrm{f} \times \frac{v}{v-\mathrm{x}} \times \frac{v+\mathrm{x}}{v^{.}}[/math]
+ [math]\therefore \mathrm{f}^{\prime}=\mathrm{f} \times \frac{v+\mathrm{x}}{v-\mathrm{x}}[/math]
+প্রতি সেকেন্ডে উৎপন্ন বিট, n = x[math]\Rightarrow[/math]
+ [math]\mathrm{f}^{\prime \prime}-\mathrm{f}=5[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{f} \times \frac{v+\mathrm{x}}{v-\mathrm{x}}-\mathrm{f}=5[/math]
+ [math]\Rightarrow[/math]
+ [math]f\left(\frac{v+\mathrm{x}-(v-\mathrm{x})}{v-\mathrm{x}}\right)=5[/math]
+ [math]\Rightarrow[/math]
+ [math]f\left(\frac{2 x}{v-x}\right)=5[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{2 x}{v-x}=\frac{5}{256}[/math]
+ [math]\Rightarrow[/math]
+ [math]512 \mathrm{x}=5 v-5 \mathrm{x}[/math]
+ [math]\Rightarrow[/math]
+ [math]517 \mathrm{x}=5 v[/math]
+ [math]\Rightarrow[/math]
+ [math]x=\frac{5 \times 350}{517}[/math]
+ [math]\therefore \mathrm{x}=3.38 \mathrm{~ms}^{-1}[/math]
+অতএব, শিক্ষার্থী হাঁটার দ্রুতি বৃদ্ধি করে [math]3.38 \mathrm{~ms}^{-1}[/math]
+ করেছিল। ফলে সুরশলাকার কম্পাঙ্ক ও দেয়াল হতে প্রতিফলিত তরঙ্গের আপাত কম্পাঙ্কের পার্থক্য বৃদ্ধি পায় এবং বেশি বিট উৎপন্ন হয়।
+
+Explanation:
+ঘ ব্যাখ্যা: বিটের সংখ্যা দুইটি ধ্বনির কম্পাঙ্কের পার্থক্যের উৎপন্ন মান, অর্থাৎ [math]|f_s-512|=4[/math] থেকে [math]f_s=516[/math] বা [math]508[/math] হওয়ার সম্ভাবনা আছে; কিন্তু অন্যটি থেকে [math]|f_s-514|=6[/math] হলে কেবল [math]f_s=508\ \text{Hz}[/math] সঙ্গতিপূর্ণ। তাই বিটের সংখ্যার তফাৎ ঘটেছিল কারণ তুলনা করা ফর্কগুলোর কম্পাঙ্ক আলাদা ছিল এবং ছাত্রের ফর্কটির আসল কম্পাঙ্ক [math]508\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 413666)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরশলাকার কম্পাঙ্কের পার্থক্য 118 Hz । বাতাসে শলাকা দুটি যে তরঙ্গ উৎপন্ন করে, তাদের এ কটির দুটি পূর্ণ তরঙ্গদৈর্ঘ্য অপরটির তিনটি পূর্ণ তরঙ্গদৈর্ঘ্যের সমান। শলাকা দুটির কম্পাঙ্ক বের করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]354 \mathrm{~Hz}[/math]
+ , [math]236 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :মনে করি, সুরশলাকা দুটির কম্পাঙ্ক [math]\mathrm{n}_{1}[/math]
+ এবং [math]\mathrm{n}_{2}[/math]
+ এবং তরঙ্গদৈর্ঘ্য [math]\lambda_{1}[/math]
+ এবং [math]\lambda_{2}[/math]
+ ।প্রশ্নমতে, [math]\mathrm{n}_{2}-\mathrm{n}_{1}=118 \mathrm{~Hz}[/math]
+এবং [math]2 \lambda_{1}=3 \lambda_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\lambda_{1}=\frac{3}{2} \lambda_{2}[/math]
+আমরা জানি, [math]\frac{\mathrm{n}_{1}}{\mathrm{n}_{2}}=\frac{\lambda_{2}}{\lambda_{1}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{n}_{1}}{\mathrm{n}_{2}}=\frac{\lambda_{2}}{\frac{3}{2} \lambda_{2}}=\frac{2}{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]3 \mathrm{n}_{1}=2 \mathrm{n}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{1}=\frac{2}{3} \mathrm{n}_{2}[/math]
+এখন , [math]\mathrm{n}_{2}-\mathrm{n}_{1}=118[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{2}-\frac{2}{3} \mathrm{n}_{2}=118[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{2}=3 \times 118[/math]
+ [math]\therefore \mathrm{n}_{2}=354 \mathrm{~Hz} \text { (Ans.) }[/math]
+আবার , [math]\mathrm{n}_{1}=354-118[/math]
+ [math]\therefore \quad \mathrm{n}_{1}=236 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+যে শর্ত দেয়া আছে তাতে [math]2\lambda_1=3\lambda_2[/math] হওয়ায় [math]\lambda_1=\tfrac{3}{2}\lambda_2[/math] এবং একই মাধ্যমের জন্য [math]f=v/\lambda[/math] হলে [math]f_1=\tfrac{2}{3}f_2[/math]. পার্থক্য অনুযায়ী [math]f_2-f_1=118\ \text{Hz}[/math] হওয়ায় [math]f_2-\tfrac{2}{3}f_2=\tfrac{1}{3}f_2=118[/math] ⇒ [math]f_2=354\ \text{Hz}[/math]. তাই [math]f_1=\tfrac{2}{3}\times354=236\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 413667)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরশলাকার কম্পাঙ্কের পার্থক্য 118Hz । বাতাসে শলাকা দুটি যে তরঙ্গ উৎপন্ন করে, তাদের এ কটির দুটি পূর্ণ তরঙ্গদৈর্ঘ্য অপরটির তিনটি পূর্ণ তরঙ্গদৈর্ঘ্যর সমান। শলাকাদ্বয়ের কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]354 \mathrm{~Hz}[/math]
+ , [math]354 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :মনে করি, সুরশলাকা দুটির কম্পাঙ্ক [math]\mathrm{n}_{1}[/math]
+ এবং [math]\mathrm{n}_{2}[/math]
+ এবং তরঙ্গদৈর্ঘ্য [math]\lambda_{1}[/math]
+ এবং [math]\lambda_{2}[/math]
+প্রশ্নমতে, [math]\mathrm{n}_{2}-\mathrm{n}_{1}=118 \mathrm{~Hz}[/math]
+এবং [math]2 \lambda_{1}=3 \lambda_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\lambda_{1}=\frac{3}{2} \lambda_{2}[/math]
+আমরা জানি, [math]\frac{\mathrm{n}_{1}}{\mathrm{n}_{2}}=\frac{\lambda_{2}}{\lambda_{1}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{n}_{1}}{\mathrm{n}_{2}}=\frac{\lambda_{2}}{\frac{3}{2} \lambda_{2}}=\frac{2}{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]3 \mathrm{n}_{1}=2 \mathrm{n}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{1}=\frac{2}{3} \mathrm{n}_{2}[/math]
+এখন , [math]\mathrm{n}_{2}-\mathrm{n}_{1}=118[/math]
+ [math]\Rightarrow[/math]
+ [math]n_{2}-\frac{2}{3} n_{2}=118[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{2}=3 \times 118[/math]
+ [math]\therefore \mathrm{n}_{2}=354 \mathrm{~Hz} \text { (Ans.) }[/math]
+আবার , [math]\mathrm{n}_{1}=354-118[/math]
+ [math]\therefore \quad \mathrm{n}_{1}=236 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+সমাধান: বাতাসে তরঙ্গগত গতি এক তাই [math]f=v/λ[/math] এবং [math]2λ_1=3λ_2\Rightarrow \lambda_1/\lambda_2=3/2[/math], ফলে [math]f_1/f_2=\lambda_2/\lambda_1=2/3[/math]. যদি [math]f_1=2k,\;f_2=3k[/math] ধরা হয়, তাহলে তাদের পার্থক্য [math]f_2-f_1=k=118\;Hz[/math] থেকে [math]k=118[/math]. অতএব [math]f_1=236\;Hz\] এবং [math]f_2=354\;Hz[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 413668)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+তিনটি সুর শলাকা যাদের প্রথম দুটির গায়ে কম্পাংক 450 Hz লেখা আছে যার একটি বাহু কিছুটা ক্ষয়ে গেছে। তৃতীয় সুর শলাকার গায়ে কম্পাংকের মান লিখা নেই। তৃতীয় সুরশলাকাটিকে পৃথকভাবে অপর দুটির সাথে স্পন্দিত করলে প্রতি সেকেন্ডে একই সংখ্যক বীট সৃষ্টি হয়। আবার প্রথম দুটি একই সাথে, স্পন্দিত করলে প্রতি সেকেন্ডে 6 টি বীট সৃষ্টি হয়। [১ম সুর শলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]10^{-7} \mathrm{wm}^{-2}[/math] ]
+
+Options:
+ঘ. উদ্দীপকের তথ্যসমূহ হতে ৩য় সুর শলাকাটির কম্পাংক নির্ণয় করা সম্ভব কিনা গাণিতিক বিশ্লেষণের সাহায্যে তোমার মতামত লিখ।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রথম সুরশলাকার কম্পাঙ্ক, [math]f_{1}=450 \mathrm{~Hz}[/math]
+দ্বিতীয় সুরশলাকার কম্পাঙ্ক, [math]f_{2}>450 \mathrm{~Hz}\left[\because f_{2}\right.[/math]
+ এর বাহু ক্ষয়ে গেছে ]যেহেতু প্রথম সুরশলাকা দুটি একই সাথে স্পন্দিত করলে প্রতি সেকেন্ডে N = 6 টি বীট উৎপন্ন হয়।সুতরাং দ্বিতীয় সুরশলাকার কম্পাঙ্ক,[math]\begin{aligned}f_{2} & =f_{1}+N \\& =450 \mathrm{~Hz}+6 \mathrm{~Hz}=456 \mathrm{~Hz}\end{aligned}[/math]
+এক্ষেত্রে তৃতীয় সুরশলাকার কম্পাঙ্ক 450 Hz হতে বৃহত্তর কিন্তু 456 Hz হতে ক্ষুদ্রতর।এর কম্পাঙ্ক [math]f_{3}[/math]
+ হলে, প্রদত্ত শর্তমতে, উৎপন্ন বীট সংখ্যা [math]=f_{3} \sim f_{1}=f_{3} \sim f_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]f_{3}-f_{1}=f_{2}-f_{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]2 f_{3}=f_{1}+f_{2}[/math]
+ [math]\begin{aligned}\therefore \quad f_{3}=\frac{f_{1}+f_{2}}{2} & =\frac{450 \mathrm{~Hz}+456 \mathrm{~Hz}}{2} \\& =453 \mathrm{~Hz}\end{aligned}[/math]
+সুতরাং উদ্দীপকের তথ্যসমূহ হতে ৩য় সুরশলাকাটির কম্পাঙ্ক নির্ণয় করা সম্ভব।
+
+Explanation:
+ব্যাখ্যা: ঘ সমান বীট শর্ত থেকে [math]|f_1-f_2|=6[/math] এবং [math]|f_3-f_1|=|f_3-f_2|[/math] হওয়ায় সরলভাবে পাওয়া যায় [math]f_3=\frac{f_1+f_2}{2}[/math] (অর্থাৎ তৃতীয়টি প্রথম দুইটির মধ্যবিন্দু)। তবে প্রদত্ত তথ্য থেকে আসল [math]f_1,\,f_2[/math] কোন দিক দিয়ে পরিবর্তিত তা অজানা (দুটি প্লেনে লেবেল দুটোই 450 লিখা থাকলেও কোনটি ক্ষতিগ্রস্ত ও কতটা পরিবর্তিত তা জানা নেই), তাই কেবল মাঝবিন্দু সমীকরণ পাওয়া গেলেও তৃতীয় শলাকার মান এককভাবে নির্ণয় করা যায় না — কেবল এটি প্রথম দুইটির গড়। উদাহরণস্বরূপ, যদি একজন 450 Hz ও অন্যজন 456 Hz হয় তাহলে [math]f_3=453[/math], আর যদি অন্যটি 444 Hz হয় তাহলে [math]f_3=447[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 413669)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+1 m ও 1.01 m তরঙ্গদৈর্ঘ্যের দুটি শব্দ তরঙ্গ কোনো গ্যাসীয় মাধ্যমে 6টি বীট উৎপন্ন করে। উক্ত গ্যা সীয় মাধ্যমে শব্দের বেগ নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]606 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: বীট সংখ্যা হল দুই তরঙ্গের ফ্রিকোয়েন্সির পার্থক্য, এবং প্রতিটি ফ্রিকোয়েন্সি [math]f=\dfrac{v}{\lambda}[/math] দ্বারা দেয়া হয়; তাই
+[math]6=\left|\dfrac{v}{1}-\dfrac{v}{1.01}\right|=v\left|\dfrac{1}{1}-\dfrac{1}{1.01}\right|.[math]
+এবং তাই [math]v=\dfrac{6}{0.00990099}\approx 606\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 413670)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+24 টি সুর শলাকা ক্রমবর্ধমান কম্পাঙ্কে সাজানো আছে। যে কোনো একটি সুর শলাকা এর পূর্ববর্তী শ লাকার সাথে সেকেন্ডে 4টি বীট উৎপন্ন করে এবং শেষ সুর শলাকা যদি প্রথমটির অষ্টক হয় তাহলে প্রথম ও শেষ শলাকা দুটির কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]92 \mathrm{~Hz}[/math]
+ , [math]184 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে, [math]\mathrm{n}_{2}=2 \mathrm{n}_{1}[/math]
+বীট, N = 4 Hz১ম শলাকার, [math]\mathrm{n}_{1}=?[/math]
+২য় শলাকার, [math]\mathrm{n}_{2}=?[/math]
+আমরা পাই,[math]\mathrm{n}_{2}=\mathrm{n}_{1}+(24-1) \times \mathrm{N}[/math]
+ [math]\Rightarrow[/math]
+ [math]2 \mathrm{n}_{1}=\mathrm{n}_{1}+23 \times 4[/math]
+ [math]\therefore \mathrm{n}_{1}=92 \mathrm{~Hz} \text { (Ans.) }[/math]
+এবং [math]\left.\mathrm{n}_{2}=2 \times 92 \mathrm{~Hz}=184 \mathrm{~Hz} \text { (Ans. }\right)[/math]
+
+
+Explanation:
+কারণ দুটি পাশের সুরের মধ্যে উৎপন্ন বীটের সংখ্যা তাদের কম্পাঙ্কের পার্থক্যের সমান, সুতরাং প্রতিবেশী শলাকাগুলোর কম্পাঙ্কের পার্থক্য [math]=4\ \text{Hz}[/math]। মোট [math]24[/math] শলাকার মাঝে [math]23[/math]টি ক্ষুদ্র ব্যবধান থাকায় প্রথম ও শেষের মধ্যে পার্থক্য [math]23×4=92\ \text{Hz}[/math]। শেষটি যদি প্রথমের অষ্টক হয় ([math]f_{24}=2f_1[/math]) তাহলে [math]f_{24}-f_1=f_1=92\ \text{Hz}[/math], ফলে [math]f_1=92\ \text{Hz}[/math] এবং [math]f_{24}=184\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 413671)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরশলাকার কম্পাঙ্কের পার্থক্য 118Hz । বাতাসে শলাকা দুটি যে তরঙ্গ উৎপন্ন করে, তাদের এ কটির দুটি পূর্ণ তরঙ্গদৈর্ঘ্য অপরটির তিনটি পূর্ণ তরঙ্গদৈর্ঘ্যর সমান। শলাকাদ্বয়ের কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]354 \mathrm{~Hz}[/math]
+ , [math]354 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :মনে করি, সুরশলাকা দুটির কম্পাঙ্ক [math]\mathrm{n}_{1}[/math]
+ এবং [math]\mathrm{n}_{2}[/math]
+ এবং তরঙ্গদৈর্ঘ্য [math]\lambda_{1}[/math]
+ এবং [math]\lambda_{2}[/math]
+প্রশ্নমতে, [math]\mathrm{n}_{2}-\mathrm{n}_{1}=118 \mathrm{~Hz}[/math]
+এবং [math]2 \lambda_{1}=3 \lambda_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\lambda_{1}=\frac{3}{2} \lambda_{2}[/math]
+আমরা জানি, [math]\frac{\mathrm{n}_{1}}{\mathrm{n}_{2}}=\frac{\lambda_{2}}{\lambda_{1}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{n}_{1}}{\mathrm{n}_{2}}=\frac{\lambda_{2}}{\frac{3}{2} \lambda_{2}}=\frac{2}{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]3 \mathrm{n}_{1}=2 \mathrm{n}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{1}=\frac{2}{3} \mathrm{n}_{2}[/math]
+এখন , [math]\mathrm{n}_{2}-\mathrm{n}_{1}=118[/math]
+ [math]\Rightarrow[/math]
+ [math]n_{2}-\frac{2}{3} n_{2}=118[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{2}=3 \times 118[/math]
+ [math]\therefore \mathrm{n}_{2}=354 \mathrm{~Hz} \text { (Ans.) }[/math]
+আবার , [math]\mathrm{n}_{1}=354-118[/math]
+ [math]\therefore \quad \mathrm{n}_{1}=236 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+তথ্য থেকে [math]2\lambda_1=3\lambda_2[/math] হওয়ায় [math]\lambda_1/\lambda_2=3/2[/math] এবং তরঙ্গের গতি ধ্রুবক হওয়ায় [math]f_1/f_2=\lambda_2/\lambda_1=2/3[/math।] তাই ধরা যাক [math]f_1=2k,\;f_2=3k[/math] এবং তাদের পার্থক্য [math]3k-2k=k=118\ \text{Hz}[/math]. ফলে [math]f_1=236\ \text{Hz}[/math] এবং [math]f_2=354\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 413672)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুরেলী কাঁটা একত্রে শব্দায়িত করলে 3 সেকেন্ডে 15টি বিট উৎপন্ন হয়। একটি সুরেলী কাঁটার ক ম্পাঙ্ক প্রতি সেকেন্ডে 252 Hz হলে, অপরটির কম্পাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]247 \mathrm{~Hz}[/math]
+ , [math]257 \mathrm{~Hz}[/math]
+)[math]\\[/math]
+Solution :এখানে,বিটের হার, [math]\mathrm{N}=\frac{15}{3} \mathrm{~Hz}=5 \mathrm{~Hz}[/math]
+একটির কম্পাঙ্ক, [math]\mathrm{n}_{1}=252 \mathrm{~Hz}[/math]
+অপরটির কম্পাঙ্ক, [math]\mathrm{n}_{2}=\text { ? }[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{n}_{1}-\mathrm{n}_{2}[/math]
+সুতরাং, [math]\mathrm{N}=\mathrm{n}_{1}-\mathrm{n}_{2}[/math]
+অথবা, [math]N=n_{2}-n_{1}[/math]
+ [math]\mathrm{N}=\mathrm{n}_{1}-\mathrm{n}_{2}[/math]
+ হলে[math]\begin{aligned}\mathrm{n}_{2} & =\mathrm{n}_{1}-\mathrm{N}=252 \mathrm{~Hz}-5 \mathrm{~Hz} \\& =247 \mathrm{~Hz} \text { (Ans.) }\end{aligned}[/math]
+ [math]\mathrm{N}=\mathrm{n}_{2}-\mathrm{n}_{1}[/math]
+ হলে[math]\begin{aligned}\mathrm{n}_{2} & =\mathrm{N}+\mathrm{n}_{1}=5 \mathrm{~Hz}+252 \mathrm{~Hz} \\& =257 \mathrm{~Hz} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুটি সুরেলী কাঁটার মিলিত থেকে প্রতি সেকেন্ডে শুনা বিট সংখ্যা তাদের কম্পাঙ্কের পার্থক্য হয়, এখানে [math]15/3=5\ \text{Hz}[/math]. তাই অপর কাঁটির কম্পাঙ্ক হবে [math]252\pm5=257\ \text{Hz}\ \text{বা}\ 247\ \text{Hz}[/math], কারণ বিটের হারটি আপ বা ডাউন উভয় পার্থক্যেই পাওয়া যেতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 413673)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সুর-শলাকা A ও B প্রতি সেকেন্ডে দুটি বীট উৎপন্ন করে। A এর কম্পাঙ্ক 512 Hz। B কে ঘষা হলে পুনরায় প্রতি সেকেন্ডে ১টি বীট উৎপন্ন হয়। ঘষিবার পূর্বে ও পরে B এর কম্পাঙ্ক নির্ণয় কর ৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]507 \mathrm{~Hz}, 517 \mathrm{~Hz}[/math])
+
+Explanation:
+ব্যাখ্যা: বীটের হার সমান f পার্থক্যের মান, তাই প্রথমে [math]|512 - f_B| = 2[/math] থেকে [math]f_B = 510 \text{ বা } 514\,\text{Hz}[/math]. পরে [math]|512 - f'_B| = 1[/math] থেকে [math]f'_B = 511 \text{ বা } 513\,\text{Hz}[/math]. ঘষিলে সাধারণত কম্পাঙ্ক বাড়ে, তাই সঙ্গত জোড়া হল [math]510 \to 511\,\text{Hz}[/math].
+
+ক পূর্বে: [math]510\,\text{Hz}[/math]  
+খ পরে: [math]511\,\text{Hz}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 413674)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সুর 512 Hz কম্পাংকের একটি সুর শলাকার সাথে প্রতি সেকেন্ডে 4টি বীট উৎপন্ন করে এবং 514 Hz কম্পাংকের সুর শলাকার সাথে প্রতি সেকেন্ডে 6টি বীট উৎপন্ন করে। সুর শলাকাটির কম্পাঙ্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]508 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :মনে করি, সুরশলাকাটির কম্পাঙ্ক = nদেওয়া আছে, ১ম সুর শলাকাটির কম্পাঙ্ক, [math]\mathrm{n}_{1}=512 \mathrm{~Hz}[/math]
+এবং ১ম সুর শলাকাটির সাথে বীট উৎপন্ন করে [math]\mathrm{N}_{1}=4[/math]
+২য় সুর শলাকাটির কম্পাঙ্ক, [math]\mathrm{n}_{2}=514 \mathrm{~Hz}[/math]
+এবং বীট উৎপন্ন করে [math]\mathrm{N}_{2}=6[/math]
+যেহেতু কম্পাঙ্ক বাড়ার সাথে সাথে বীট বাড়ছে-[math]\therefore \mathrm{n}<\mathrm{n}_{1}[/math]
+ এবং [math]\mathrm{n}<\mathrm{n}_{2}[/math]
+সুতরাং, [math]\mathrm{n}_{1}-\mathrm{n}=4[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}=\mathrm{n}_{1}-4[/math]
+ [math]=512-4=508 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+বীটের হার হলো দুই কম্পাংকের ফ্রিকোয়েন্সির পার্থক্য। 512 Hz‑এর সঙ্গে 4 বীট হলে [math]|f-512|=4[/math] এবং 514 Hz‑এর সঙ্গে 6 বীট হলে [math]|f-514|=6[/math]। উভয় শর্ত থেকে মিলিত সমাধানটি হলো [math]f=508\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 413675)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুর শলাকাকে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে দুটি বীট শোনা যায়। A এর বাহু তে মোম লাগালে বীট সংখ্যা কমে যায়। B এর কম্পাঙ্ক 380 Hz হলে A এর কম্পাঙ্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]508 \mathrm{~Hz}[/math] )
+
+Explanation:
+ব্যাখ্যা: দুটি শলাকা একসঙ্গে দিলে শোনা যাওয়া বিটের হার তাদের কম্পাঙ্কের পার্থক্যের মান, তাই [math]|f_A - 380| = 2[/math]. মোম লাগালে A‑র কম্পাঙ্ক কমে বিটের সংখ্যা কমেছে, ফলে A প্রথমে B‑এর চেয়ে বেশি ছিল এবং [math]f_A = 380 + 2 = 382\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 413676)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুর শলাকাকে একত্রে শব্দায়িত করলে 3s এ 15টি বীট শোনা যায়। A এর বাহুতে ভর লাগালে বীট বাড়ে। A-এর কম্পাঙ্ক 300Hz হলে B এর কম্পাঙ্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]305 \mathrm{~Hz}[/math] )
+
+Explanation:
+ব্যাখ্যা: একসাথে 3 সেকেন্ডে 15টি বীট মানে বীট ফ্রিকোয়েন্সি [math]15/3 = 5\ \text{Hz}[/math], তাই [math]|300 - f_B| = 5[/math] হলে [math]f_B = 295\ \text{Hz}[/math] অথবা [math]305\ \text{Hz}[/math]. A-তে ভর লাগালে A-এর কম্পাঙ্ক কমে যায়; বীটের সংখ্যা বেড়েছে মানে ভরের ফলে A ও B-এর ফ্রিকোয়েন্সির দূরত্ব বাড়ছে, তাই B-এর ফ্রিকোয়েন্সি 300-এর উপরে হবে। অতএব [math]f_B = 305\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 413677)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরেলী কম্পাঙ্ক 288Hz। A ও B সুর শলাকাদ্বয়কে একই সাথে বাজালে প্রতি সেকেন্ডে 4টি বীট শোনা যায় ৷ A কে ঘষে A এবং B কে পুনরায় একই সাথে বাজালে প্রতি সেকেন্ডে ১টি বীট শোনা যায়। B সুরশলাকার কম্পাঙ্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]284 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,A এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{A}}=288 \mathrm{~Hz}[/math]
+বীট এর হার, [math]\mathrm{N}=4 \mathrm{~Hz}[/math]
+B এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{B}}=?[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+A কে ঘষলে বীট সংখ্যা বেড়ে যায় অর্থাৎ [math]\mathrm{n}_{\mathrm{A}}>\mathrm{n}_{\mathrm{B}}[/math]
+আমরা পাই, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+ [math]\begin{aligned}\therefore \quad \mathrm{n}_{\mathrm{B}} & =\mathrm{n}_{\mathrm{A}}-\mathrm{N} \\& =(288-4) \mathrm{Hz} \\& =284 \mathrm{~Hz} \text { (Ans. })\end{aligned}[/math]
+
+
+Explanation:
+A ও B‑এর প্রাথমিক বিট সংখ্যা থেকে [math]|288 - f_B| = 4[/math] হওয়ায় [math]f_B = 284\text{ বা }292\text{ Hz}[/math]. ঘষলে A‑র কম্পাঙ্ক 3 Hz কমে গিয়ে হয় [math]f_A' = 288 - 3 = 285\text{ Hz}[/math], এবং পুনরায় শুনা বিট‑এর শর্তে [math]|285 - f_B| = 1[/math] হওয়ায় কেবল [math]f_B = 284\text{ Hz}[/math] সন্তুষ্ট করে। তাই B‑এর কম্পাঙ্ক [math]284\text{ Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 413678)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরেলী কাঁটা একত্রে ধ্বনিত হলে প্রতি সেকেন্ডে 5টি বীট উৎপন্ন কর। A কে একটু ঘষে পুনরায় ধ্বনিত করলে একই সংখ্যক বীট উৎপন্ন হয়। B এর কম্পাঙ্ক 510Hz। ঘষার পূর্বে ও পরে A এর কম্পাঙ্ক নির্ণয় কর এবং ঘটনাটি ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]505 \mathrm{~Hz}[/math]
+ , [math]515 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,বীটের হার, [math]\mathrm{N}=5 \mathrm{~Hz}[/math]
+B এর কম্পাংক, [math]\mathrm{n}_{2}=510 \mathrm{~Hz}[/math]
+A এর কম্পাংক, [math]\mathrm{n}_{1}=?[/math]
+আমরা জানি,[math]\begin{aligned}n_{1} & =n_{2} \pm N \\& =510 \pm 5\end{aligned}[/math]
+= 515 অথবা 505যেহেতু A এর ভর হ্রাসের ফলে বীট অপরিবর্তিত থাকে তাই A এর কম্পাংক পূর্বে কম ছিল এবং পরে বৃদ্ধি পায় ।[math]\therefore[/math]
+ ঘষার পূর্বে কম্পাংক = 505 Hzঘষার পরে কম্পাংক = 515 Hz
+
+Explanation:
+ব্যাখ্যা: দুইটি কাঁটার বীটফ্রিকোয়েন্সি [math]|f_A-f_B|=5[/math], তাই A-এর কম্পাঙ্ক হতে পারে [math]505\ \text{Hz}[/math] বা [math]515\ \text{Hz}[/math] (B = [math]510\ \text{Hz}[/math])। ঘষলে কাঁটার তাপমাত্রা বাড়ে এবং কম্পাঙ্ক সাধারণত বাড়ে, তাই A প্রথমে ছিল [math]505\ \text{Hz}[/math] এবং ঘষার পরে হয়ে গেল [math]515\ \text{Hz}[/math], ফলে বীটফ্রিকোয়েন্সিও থাকে [math]|515-510|=5\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 413680)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুর শলাকাকে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে ১টি বীট শোনা যায়। A এর বাহু তে মোম লাগালে বীট সংখ্যা কমে যায়। B এর কম্পাঙ্ক 380Hz হলে A এর কম্পাঙ্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]385 \mathrm{~Hz}[/math] )
+
+Explanation:
+বিট ফ্রিকোয়েন্সি হল দুই সুতার ফ্রিকোয়ন্সির পার্থক্যের মান, তাই [math]|f_A - f_B| = 1[/math]. মোম লাগালে A-এর ফ্রিকোয়েন্সি কমে এবং বিট সংখ্যা ছোটেছে, অর্থাৎ মূলত A-এর ফ্রিকোয়েন্সি B-এর চেয়ে বেশি ছিল, তাই [math]f_A = f_B + 1 = 380 + 1 = 381\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 413681)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুর শলাকাকে একসাথে বাজালে প্রতি সেকেন্ডে 5টি বীট শোনা যায়। A এর ভর কমালে বীট কমে যায়। B এর কম্পাঙ্ক 430Hz হলে A এর কম্পাঙ্ক নির্ণয় কর ৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]425 \mathrm{~Hz}[/math] )
+
+Explanation:
+ব্যাখ্যা: বিটের হার = [math]|f_A - f_B| = 5[/math]. A-এর ভর কমালে তার কম্পাঙ্ক বাড়ে; বিট কমছে মানে পার্থক্য কমছে, তাই প্রাথমিকভাবে [math]f_A < f_B[/math]. দেয় সংক্ষেপে, [math]f_A = 430 - 5 = 425\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 413682)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুর শলাকাকে একত্রে শব্দায়িত করলে 3 s এ 15টি বীট শোনা যায়। A এর বাহুতে ভর লাগালে বীট বাড়ে। A-এর কম্পাঙ্ক 300Hz হলে B এর কম্পাঙ্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]305 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,বীটের হার, [math]\mathrm{N}=5 \mathrm{~s}^{-1}=5 \mathrm{~Hz}[/math]
+A এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{A}}=300 \mathrm{~Hz}[/math]
+B এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{B}}=?[/math]
+আমরা জানি,বীট, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+যেহেতু A ভর বাড়ালে, অর্থাৎ কম্পাঙ্ক কমলে বীট বাড়ে সেহেতু B এর কম্পাঙ্ক A এর অপেক্ষা বড়।অর্থাৎ [math]\mathrm{n}_{\mathrm{B}}>\mathrm{n}_{\mathrm{A}}[/math]
+সুতরাং, [math]\mathrm{N}=\mathrm{n}_{\mathrm{B}}-\mathrm{n}_{\mathrm{A}}[/math]
+ [math]\therefore \mathrm{n}_{B}=\mathrm{N}+\mathrm{n}_{\mathrm{A}}=5 \mathrm{~Hz}+300 \mathrm{~Hz}=305 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুইটি সুরশলাকা 3 s-এ 15টি বীট দিলে বীট ফ্রিকোয়েন্সি [math]15/3 = 5\ \text{Hz}[/math], অর্থাৎ [math]|f_A - f_B| = 5[/math] এবং [math]f_A = 300\ \text{Hz}[/math]. A-র বাহুতে ভর দিলে A-এর কম্পাঙ্ক কমে; বীট বাড়ছে মানে পার্থক্য বেড়েছে, সুতরাং B-এর কম্পাঙ্ক A-র চেয়ে বড়। তাই [math]f_B = 300 + 5 = 305\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 413683)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো মাধ্যমে A ও B দুটি সুরশলাকা একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 7টি বীট উৎপন্ন হয়। A-এর ভর কমালে বীট কমে। A এর কম্পাঙ্ক 450Hz হলে B এর কম্পাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]457 \mathrm{~Hz}[/math] )
+
+Explanation:
+ব্যাখ্যা: বীটের হার হল দুইটির কম্পাঙ্কের পার্থক্য, অর্থাৎ [math]|f_B-f_A|=7[/math]. A-এর ভর কমালে তার কম্পাঙ্ক বেড়ে বীট কমেছে মানে A-এর কম্পাঙ্ক B-এর চেয়ে কম ছিল, তাই [math]f_B=450+7=457\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 413684)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরেলী কাঁটা একসাথে ধ্বনিত হলে প্রতি সেকেন্ডে ১টি বীট উৎপন্ন করে'। A কে একটু ঘষা হল। এতে বীটের সংখ্যা বৃদ্ধি পেল। B এর কম্পাঙ্ক 510Hz হলে ঘষার পূর্বে A এর কম্পাঙ্ক কত ছিল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]515 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,বীটের হার, [math]\mathrm{N}=5 \mathrm{~s}^{-1}=5 \mathrm{~Hz}[/math]
+B এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{B}}=510 \mathrm{~Hz}[/math]
+A এর কম্পাঙ্ক, [math]\mathrm{n}_{\mathrm{A}}=?[/math]
+আমরা জানি, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}} {-} \mathrm{n}_{\mathrm{B}}[/math]
+যেহেতু A এর ভর কমালে বীট বাড়ে সেহেতু A এর কম্পাঙ্ক B অপেক্ষা বেশি ।অর্থাৎ, [math]\mathrm{n}_{\mathrm{A}}>\mathrm{n}_{\mathrm{B}}[/math]
+সুতরাং, [math]\mathrm{N}=\mathrm{n}_{\mathrm{A}}-\mathrm{n}_{\mathrm{B}}[/math]
+ [math]\begin{aligned}\therefore \mathrm{n}_{\mathrm{A}} & =\mathrm{N}+\mathrm{n}_{\mathrm{B}}=5 \mathrm{~Hz}+510 \mathrm{~Hz} \\& =515 \mathrm{~Hz} \text { (Ans) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে [math]|f_A-510|=1[/math] হওয়ায় [math]f_A=509[/math] কিংবা [math]511[/math] Hz হতে পারে। ঘষলে A-র কম্পাঙ্ক বেড়েছে; যদি তা [math]509[/math] থেকে বাড়ত তবে [math]510[/math]-এর দিকে এসে বীট কমতো, কিন্তু বীট বেড়েছে বলে মূল কম্পাঙ্কটি [math]511[/math] Hz ছিল।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 413685)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরেলী কাঁটা একত্রে ধ্বনিত হলে প্রতি সেকেন্ডে 5টি বীট উৎপন্ন করে। A কে একটু ঘ ষে পুনরায় ধ্বনিত করলে একই সংখ্যক বীট উৎপন্ন হয়। B এর কম্পাঙ্ক 510Hz। ঘষার পূর্বে ও পরে A এর কম্পাঙ্ক নির্ণয় কর এবং ঘটনাটি ব্যাখ্যা কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]505 \mathrm{~Hz}[/math]
+ , [math]515 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,বীটের হার, [math]\mathrm{N}=5 \mathrm{~Hz}[/math]
+B এর কম্পাংক, [math]\mathrm{n}_{2}=510 \mathrm{~Hz}[/math]
+A এর কম্পাংক, [math]\mathrm{n}_{1}=?[/math]
+আমরা জানি,[math]\begin{aligned}n_{1} & =n_{2} \pm N \\& =510 \pm 5\end{aligned}[/math]
+= 515 অথবা 505যেহেতু A এর ভর হ্রাসের ফলে বীট অপরিবর্তিত থাকে তাই A এর কম্পাংক পূর্বে কম ছিল এবং পরে বৃদ্ধি পায় ।[math]\therefore[/math]
+ ঘষার পূর্বে কম্পাংক = 505 Hzঘষার পরে কম্পাংক = 515 Hz
+
+Explanation:
+বীটের সংখ্যা হল দুটি ধ্বনির কম্পাঙ্কের পার্থক্যের আবশ্যিক মান, তাই [math]|f_A-510|=5[/math] থেকে [math]f_A=510\pm5[/math], অর্থাৎ শুরুতে A হতে পারে [math]505\ \text{Hz}[/math] বা [math]515\ \text{Hz}[/math]. ঘষলে সাধারণত তন্তুর টান বেড়ে কম্পাঙ্ক বাড়ে, তাই যদি শুরুতে [math]505\ \text{Hz}[/math] হয়ে থাকে ঘষার পরে তা [math]515\ \text{Hz}[/math] হয়ে যায় এবং পার্থক্য এখনো 5Hz থাকায় বীট অপরিবর্তিত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 413686)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি শব্দ তরঙ্গের দৈর্ঘ্য 1m 3 1.01m। তরঙ্গ দুটি একটি গ্যাস 6 সেকেন্ডে 20টি বীট উৎপন্ন করে। শব্দের বেগ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]336.36 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,তরঙ্গদৈর্ঘ্য, [math]\lambda_{1}=1 \mathrm{~m}[/math]
+তরঙ্গদৈর্ঘ্য, [math]\lambda_{2}=1.01 \mathrm{~m}[/math]
+বিটের হার, [math]\mathrm{N}=\frac{20}{6}=3.33 \mathrm{~Hz}[/math]
+শব্দের বেগ, v =?এক্ষেত্রে, [math]\lambda_{2}>\lambda_{1}[/math]
+ এবং [math]\mathrm{n} \propto \frac{1}{\lambda}[/math]
+সুতরাং, [math]\mathrm{n}_{1}>\mathrm{n}_{2}[/math]
+ [math]\therefore[/math]
+ আমরা পাই, [math]\mathrm{n}_{1}-\mathrm{n}_{2}=\mathrm{N}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{v}}{\lambda_{1}}-\frac{\mathrm{v}}{\lambda_{2}}=3.33[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{v}\left(\frac{1}{\lambda_{1}}-\frac{1}{\lambda_{2}}\right)=3.33[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{v}\left(1-\frac{1}{1.01}\right)=3.33[/math]
+ [math]\Rightarrow[/math]
+ [math]0.0099 \mathrm{v}=3.33[/math]
+ [math]\Rightarrow[/math]
+ [math]v=\frac{3.33}{0.0099}=336.36 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিট ফ্রিকোয়েন্সি [math]=\dfrac{20}{6}=\dfrac{10}{3}[/math] Hz। বিট ফ্রিকোয়েন্সি হলো দুইটি তরঙ্গের ফ্রিকোয়েন্সির পার্থক্য, তাই [math]\dfrac{10}{3}=v\Big|\dfrac{1}{1}-\dfrac{1}{1.01}\Big|=v\cdot\dfrac{1}{101}[/math] হয়ে, ফলস্বরূপ [math]v=\dfrac{10}{3}\times101=\dfrac{1010}{3}\ \text{m/s}\approx336.7\ \text{m/s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 413687)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+দুটি অগ্রগামী তরঙ্গের সমীকরণ হলো
+
+[math]Y_{1}=0.5 \sin \pi\left(100 t-\dfrac{x}{3.4}\right) \\ Y_{2}=0.5 \sin \pi\left(110 t-\dfrac{x}{3.09}\right)[/math]
+
+এখানে, রাশিগুলো [math]S.I.[/math] একত্রে আছে। শব্দ তরঙ্গ দুটি একই সময়ে উৎপন্ন হয়।
+
+Options:
+ঘ. তরঙ্গ দুটি বীট উৎপন্ন করবে কি না– গাণিতিকভাবে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ'গ' হতে, [math]\mathrm{v}=340 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+এবং [math]\frac{2 \pi}{\lambda}=\frac{\pi}{3.4}[/math]
+ [math]\hspace{1cm}\lambda=6.8 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ কম্পাঙ্ক, [math]f_{1}=\frac{\mathrm{v}}{\lambda}=\frac{340}{6.8}=50 \mathrm{~Hz}[/math]
+২য় সমীকরণ হতে,[math]\hspace{1.5cm}\begin{array}{l}\mathrm{Y_2}=\mathrm{0.5\sin\pi\left(110t-\frac{x}{3.09}\right)}\\\mathrm{Y_2}=\mathrm{0.5\sin\frac{\pi}{3.09}(339.9t-x)}\end{array}[/math]
+আমরা জানি, [math]\mathrm{Y_2}=\mathrm{a\sin\frac{2\pi}{\lambda}(vt-x)}[/math]
+ [math]\hspace{1.5cm}\therefore \mathrm{v}_{2}=339.9 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+এবং, [math]\frac{2 \pi}{\lambda}=\frac{\pi}{3.09}[/math]
+ [math]\hspace{.5cm}\begin{array}{l}\Rightarrow\lambda_2=6.18\\\begin{array}{l}\therefore f_2=\frac{v_2}{\lambda_2}=55\mathrm{~Hz}\\\begin{aligned}\therefore f_2-f_1&=55-50\\&=5\mathrm{~Hz}\end{aligned}\end{array}\end{array}[/math]
+অর্থাৎ বীট উৎপন্ন হবে। [math]\\[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: দুইটি কোণের নামে লিখলে [math]A=\pi(100t-\frac{x}{3.4}),\;B=\pi(110t-\frac{x}{3.09})[/math] এবং যোগফল থেকে sum-to-product প্রয়োগ করলে
+[math]Y=Y_1+Y_2=0.5\sin A+0.5\sin B=\sin\frac{A+B}{2}\cos\frac{A-B}{2}.[/math]
+এখানে [math]\frac{A-B}{2}=\pi(-5t-\tfrac{x}{2}(\tfrac{1}{3.4}-\tfrac{1}{3.09}))[/math]-এর সময়নির্ভর অংশ [math]\cos(5\pi t+\text{phase})[/math] হওয়ায় অ্যামপ্লিটিউড মডুলেশন ঘটবে এবং বীট ফ্রিকোয়েন্সি হবে [math]|f_2-f_1|=55-50=5\ \text{Hz}[/math] (অতএব বীট উৎপন্ন হয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 413688)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Mymensingh Girl's Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] এবং [math]B[/math] দুটি সুরশলাকায় বাতাসে উৎপন্ন শব্দের তরঙ্গের সমীকরণ।
+
+[math]Y_{1}=0.5 \sin \pi\left(100 t-\dfrac{x}{3.4}\right) ; Y_{2}=0.5 \sin \pi\left(110.03 t-\dfrac{x}{3.09}\right)[/math] এককসমূহ SI পদ্ধতিতে প্রকাশিত। [বাতাসের ঘনত্ব [math]\rho = 1.293 kgm^{-3}[/math]]
+
+Options:
+ঘ. দুটি সুরশলাকা একই সাথে বাজালে বীট উৎপন্ন হবে কি না— গাণিতিক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\mathrm{Y_1}=\mathrm{0.5\sin\pi\left(100t-\frac{x}{3.4}\right)}=\mathrm{0.5\sin\left(100\pi t-\frac{\pi x}{3.4}\right)}[/math]
+এবং [math]\mathrm{Y_2}=\mathrm{0.5\sin\pi\left(110.03t-\frac{x}{3.09}\right)}=\mathrm{0.5\sin\left(110.03\pi t-\frac{\pi x}{3.09}\right)}[/math]
+অগ্রগামী তরঙ্গের সমীকরণ [math]\mathrm{Y}=\mathrm{a} \sin \left(2 \pi f t-\frac{2 \pi}{\lambda} \cdot \mathrm{x}\right)[/math]
+ এর সাথেতুলনা করে পাই,[math]\hspace{1.5cm}\begin{array}{l}\quad 2 \pi f_{1} \mathrm{t}=100 \pi \mathrm{t} \\\Rightarrow f_{1}=50 \mathrm{~Hz}\end{array}[/math]
+এবং, [math]2\pi f_2\mathrm{t}=110.03\pi\mathrm{t}[/math]
+ [math]\hspace{1.5cm}f_2=\frac{110.03\pi\mathrm{t}}{2\pi\mathrm{t}}=55.015\mathrm{~Hz}[/math]
+ [math]\therefore[/math]
+ বীট সংখ্যা [math]\mathrm{N}=f_{2}-f_{1}=55.015-50[/math]
+ [math]\hspace{5cm} = 5.015[/math]
+ [math]\hspace{5cm} = 5[/math]
+ টি, প্রতি সেকেন্ডেঅতএব, তরঙ্গদ্বয় দ্বারা বীট উৎপাদন সম্ভব। [math]\\[/math]
+
+
+Explanation:
+ঘ হ্যাঁ, বীট উৎপন্ন হবে; কারণ দুই তরঙ্গের মানদণ্ডগত ফ্রিকোয়েন্সি ভিন্ন। গণনা করে দেখা যায় [math]f_1=\dfrac{\pi\times100}{2\pi}=50\ \text{Hz}[/math] এবং [math]f_2=\dfrac{\pi\times110.03}{2\pi}=55.015\ \text{Hz}[/math], তাই বীট ফ্রিকোয়েন্সি [math]f_{\text{beat}}=|f_2-f_1|=5.015\ \text{Hz}[/math] (এটি শোনাযೋಗ্য), এবং একই মাধ্যমেই থাকা থেকে এগুলো ইন্টারফিয়ার করে বীট তৈরি করে।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 413609)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018, 2018, 2018, 2018, 2018 | Boards: Dhaka Board, Dinajpur Board, Sylhet Board, Rajshahi Board | Tags: Dhaka Board, Dinajpur Board, Sylhet Board, Jessore Board, Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+প্রতি সেকেন্ডে [math]5[/math]টি বীট সৃষ্টি করার লক্ষ্যে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] নেওয়া হলো। [math]A[/math] সুরশলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]1.01 \times 10^{5} \mathrm{Wm}^{-2}[/math] এবং বিস্তার [math]0.02\ m[/math]। [math]B[/math] সুরশলাকার কম্পাঙ্ক [math]161\ Hz[/math]। (মাধ্যমের ঘনত্ব [math]1.25 \mathrm{~kg} \mathrm {~m}^{-3}[/math] এবং শব্দের বেগ [math]350 \mathrm{~ms}^{-1}[/math])।
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে হলে [math]A[/math] সুরশলাকার কী পরিবর্তন আনা প্রয়োজন গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ শলাকার শব্দের তীব্রতা, [math]\mathrm{I}=1.01 \times 10^{5} \mathrm{Wm}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+বিস্তার, [math]\rm{A}=0.02 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+মাধ্যমের ঘনত্ব, [math]\rho=1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+ [math]\hspace{1 cm}[/math]
+ শব্দের বেগ, [math]\rm{v}=350 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+শব্দের কম্পাঙ্ক, [math]f_{\mathrm{A}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad\mathrm{I}=2 \pi^{2} f_{\mathrm{A}}{ }^{2} \mathrm{~A}^{2} \rho \mathrm{v}\\ \Rightarrow f_{\mathrm{A}}^{2}=\dfrac{\mathrm{I}}{2 \pi^{2} \mathrm{~A}^{2} \rho \mathrm{v}}\\ \Rightarrow f_{\rm{A}}=\sqrt{\dfrac{1.01 \times 10^{5}}{2 \times 3.1416^{2} \times 0.02^{2} \times 1.25 \times 350}}=171\\ \therefore ~ f_{\mathrm{A}}=171 \mathrm{~Hz} \end{array}[/math]
+বর্তমানে [math]\rm{A}[/math]
+ ও [math]\rm{B}[/math]
+ শলাকাদ্বয়ের মধ্যে কম্পাঙ্কের পার্থক্য [math]171-161 = 10 \mathrm{~Hz}[/math]
+ এবং [math]f_{\rm{A}}>f_{\rm{B}}[/math]
+। সুতরাং উদ্দীপকে উল্লিখিত সংখ্যক বীট তথা [math]5[/math]
+টি বীট উৎপন্ন করতে হলে তাদের কম্পাঙ্কের পার্থক্য কমাতে হবে অর্থাৎ, [math]\rm{A}[/math]
+ সুর শলাকার কম্পাঙ্ক কমাতে হবে। অতএব, উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে হলে [math]\rm{A}[/math]
+ সুরশলাকায় মোম লাগিয়ে এর ভর বাড়াতে হবে।[math]5[/math]
+টি বীট উৎপন্ন করতে হলে [math]\rm{A}[/math]
+ সুরশলাকার কম্পাঙ্ক [math]161+5=166 \mathrm{~Hz}[/math]
+ করতে হবে।[math]\hspace{1.5 cm}\begin{array}{l} \dfrac{f_{\mathrm{A}}^{\prime}}{f_{\mathrm{A}}}=\sqrt{\dfrac{\mathrm{m}_{\mathrm{A}}}{m_{\mathrm{A}}^{\prime}}} \\ \Rightarrow\dfrac{\mathrm{m}_{\mathrm{A}}}{\mathrm{m}_{\mathrm{A}}^{\prime}}=\left(\dfrac{f_{\mathrm{A}}^{\prime}}{f_{\mathrm{A}}}\right)^{2} \\ \Rightarrow \mathrm{m}_{\mathrm{A}}^{\prime}=\mathrm{m}_{\mathrm{A}} \times\left(\dfrac{f_{\mathrm{A}}}{f_{\mathrm{A}}^{\prime}}\right)^{2}=\mathrm{m}_{\mathrm{A}} \times\left(\dfrac{171}{166}\right)^{2} \\ \therefore \quad \mathrm{m}_{\mathrm{A}}^{\prime}=1.06 \mathrm{~m}_{\mathrm{A}} \\ \therefore \quad \Delta \mathrm{m}_{\mathrm{A}}=0.06 \mathrm{~m}_{\mathrm{A}}=6 \% \mathrm{~m}_{\mathrm{A}} \end{array}[/math]
+অতএব, উদ্দীপকে উল্লিখিত বীট উৎপন্ন করতে [math]\rm{A}[/math]
+ সুরশলাকায় মোম লাগিয়ে এর ভর [math]6\%[/math]
+ বাড়াতে হবে।
+
+Explanation:
+ব্যাখ্যা: A সুরশলাকার বর্তমান কম্পাঙ্ক [math]f_A = v/λ = 350/0.02 = 17500\ \text{Hz}[/math]। বীটের শঙ্করার জন্য প্রয়োজন [math]|f_A - 161| = 5[/math], ফলে [math]f_A = 166\ \text{Hz}\ \text{অথবা}\ 156\ \text{Hz}[/math]। তাই A-র কম্পাঙ্ককে অত্যন্ত কমিয়ে প্রায় [math]166\ \text{Hz}\ \text{অথবা}\ 156\ \text{Hz}[/math] করা প্রয়োজন; তীব্রতা পরিবর্তন বীট ফ্রিকুয়েন্সির জন্য প্রাসঙ্গিক নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 413610)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+বায়ু মাধ্যমে [math]C[/math] সুরশলাকাটি [math]A[/math] ও [math]B[/math] দুটি সুরশলাকার বীট উৎপন্ন করে। [math]A[/math] সুরশলাকার কম্পাঙ্ক [math]385\ Hz[/math]। [math]B[/math] সুরশলাকা হতে বায়ু মাধ্যমে নির্গত তরঙ্গের সমীকরণ হলো–
+
+[math]Y=0.9 \sin 10 \pi\left(\dfrac{30 t}{0.4}-\dfrac{x}{4.8}\right)[/math]
+
+Options:
+ঘ. [math]C[/math] সুরশলাকার কম্পাঙ্ক কীভাবে নিশ্চিত হওয়া যায় তা গাণিতিক যুক্তিসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,[math]\rm{B}[/math]
+ সুরশলাকা হতে বায়ু মাধ্যমে নির্গত তরঙ্গের সমীকরণ,[math]\hspace{1.5 cm}\begin{aligned} \rm{y} & =\rm{0.9 \sin 10 \pi\left(\frac{30 t}{0.4}-\frac{x}{4.8}\right)} \\ & =\rm{0.9 \sin \left(\frac{300 \pi t}{0.4}-\frac{10 \pi x}{4.8}\right)} \end{aligned}[/math]
+আমরা জানি, অগ্রগামী তরঙ্গের সাধারণ সমীকরণ[math]\hspace{1.5 cm}\rm{y=a \sin \left(2 \pi f-\dfrac{2 \pi x}{\lambda}\right)}[/math]
+সমীকরণ [math]\rm{(i)~ ও ~(ii)}[/math]
+ নং তুলনা করে পাই,[math]\hspace{1.5 cm}\begin{array}{l} \quad2\pi f =\dfrac{300 \pi}{0.4}\\ \Rightarrow f=\dfrac{300 \pi}{2 \pi \times 0.4}=375 \mathrm{~Hz}\end{array}[/math]
+মনে করি, [math]\rm{C}[/math]
+ সুরশলাকাটির কম্পাঙ্ক [math]=f_{\mathrm{C}}[/math]
+ [math]\rm{ A}[/math]
+ সুরশলাকার কম্পাঙ্ক, [math]f_{\mathrm{A}}=385 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}\therefore \quad f_{\mathrm{A}} \pm f_{\mathrm{C}}=5 \ldots\ldots\ldots \rm{(iii)}[/math]
+আবার, [math]f \pm f_{\mathrm{C}}=5\ldots\ldots\ldots\rm{(iv)}[/math]
+সমীকরণ [math]\rm{(i)}[/math]
+ নং হতে পাই,[math]\hspace{1 cm}f_{\mathrm{C}}=385 \mathrm{~Hz}-5 \mathrm{~Hz}=380 \mathrm{~Hz}[/math]
+অথবা, [math]f_{\mathrm{C}}=385 \mathrm{~Hz}+5 \mathrm{~Hz}=390 \mathrm{~Hz}[/math]
+আবার, সমীকরণ [math]\rm{(ii)}[/math]
+ নং হতে পাই,[math]\hspace{1 cm}f_{\mathrm{C}}=375 \mathrm{~Hz}-5 \mathrm{~Hz}=370 \mathrm{~Hz}[/math]
+অথবা, [math]f_{\mathrm{C}} = 375 \mathrm{~Hz}+5 \mathrm{~Hz}=380 \mathrm{~Hz}[/math]
+অতএব, [math]\rm{C}[/math]
+ সুরশলাকাটি [math]\rm{A}[/math]
+ ও [math]\rm{B}[/math]
+ উভয় সুরশলাকার সাথেই [math]5[/math]
+ টি করে বিট উৎপন্ন করে,[math]\therefore\rm{~C}[/math]
+ সুরশলাকার কম্পাঙ্ক [math]380 \mathrm{~Hz}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: সমীকরণ থেকে কোণগত কম্পাঙ্ক [math]\omega=10\pi\times(30/0.4)=750\pi\ \text{rad/s}[/math], তাই [math]f_B=\omega/(2\pi)=750\pi/(2\pi)=375\ \text{Hz}[/math]. বিটের কম্পাঙ্ক হলো দুই সুরশলাকার ফ্রিকোয়েন্সির পার্থক্য, তাই [math]f_{\text{beat}}=|f_A-f_B|=|385-375|=10\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 413611)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে দুটি শব্দ তরঙ্গের সমীকরণ হলো :
+
+[math]Y_1 = 0.25 \times 10^{-2} \sin 16.35\ (105.1 \pi t - x)[/math] [math]Y_2=0.25 \times 10^{-2} \sin 110\ (15.764 \pi t – 0.15 x)[/math]
+
+এখানে, সব কয়টি রাশি [math]SI[/math] এককে প্রকাশিত। বায়ুর ঘনত্ব [math]1.29\ kg\ m^3[/math]।
+
+Options:
+গ. তরঙ্গদ্বয় একই সময়ে শব্দায়িত করা হলে প্রতি সে. উৎপন্ন বীট নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই,[math]\hspace{1 cm}\rm{Y}_{1}=0.25 \times 10^{-2} \sin 16.35(105.1 \pi \mathrm{t}-\mathrm{x})\dots\dots\dots\rm{(i)}[/math]
+এবং [math]\mathrm{Y}_{2}=0.25 \times 10^{-2} \sin 110(15.764 \pi \mathrm{t}-0.15 \mathrm{x})\ldots\ldots\ldots\rm{(ii)}[/math]
+সমীকরণ [math]\rm{(i)}[/math]
+ ও [math]\rm{(ii)}[/math]
+ নং কে [math]\rm{Y=a \sin \dfrac{2 \pi}{\lambda}(v t-x)}[/math]
+ এর সাথে তুলনা - করে পাই,প্রথম তরঙ্গের ক্ষেত্রে,বেগ,[math]\hspace{1.2 cm}\mathrm{v}_{1}=105.1 \pi=330.18 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+তরঙ্গদৈর্ঘ্য,[math]\hspace{1.2 cm}\lambda_{1}=0.384 \mathrm{~m}[/math]
+কম্পাঙ্ক,[math]\hspace{1.2 cm}f_{1}=\dfrac{\mathrm{v}_{1}}{\lambda_{1}}=\dfrac{330.18 \mathrm{~ms}^{-1}}{0.384 \mathrm{~m}}=859.84 \mathrm{~Hz}[/math]
+দ্বিতীয় তরঙ্গের ক্ষেত্রে,বেগ,[math]\hspace{1.2 cm}\mathrm{v}_{2}=15.764 \pi=49.53 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+তরঙ্গদৈর্ঘ্য,[math]\hspace{1.2 cm}\lambda_{2}=0.057121 \mathrm{~M}[/math]
+কম্পাঙ্ক,[math]\hspace{1.2 cm}f_{2}=\dfrac{49.53 \mathrm{~m} \mathrm{~s}^{-1}}{0.0571 \Omega \mathrm{m}}=867.12 \mathrm{~Hz}[/math]
+ [math]\rm{Y}_1[/math]
+ ও [math]\rm{Y}_2[/math]
+ তরঙ্গদ্বয়কে একই সময়ে শব্দায়িত করা হলে, প্রতি সেকেন্ডে উৎপন্ন বিট, [math]\mathrm{N}=f_{2}-f_{1}=(867.12-859.84)=7.28 \approx 8 .[/math]
+ নির্ণেয় বীটের সংখ্যা [math]8[/math]
+।
+
+Explanation:
+সমাধান:
+গ প্রথম তরঙ্গে কোণগত হার [math]\omega_1=16.35\times105.1\pi=1718.385\pi\ \mathrm{rad/s}[/math], তাই [math]f_1=\omega_1/(2\pi)=1718.385/2=859.19\ \mathrm{Hz}[/math]; দ্বিতীয়টির জন্য [math]\omega_2=110\times15.764\pi=1734.04\pi\ \mathrm{rad/s}[/math], তাই [math]f_2=1734.04/2=867.02\ \mathrm{Hz}[/math]. অতএব বিট ফ্রিকোয়েন্সি [math]f_{beat}=|f_2-f_1|=|867.02-859.19|=7.83\ \mathrm{Hz}[/math]. বিট্‌গুলো দুটি কাছাকাছি ফ্রিকোয়েন্সির ধকল থেকে হয়; বায়ুর ঘনত্ব এখানে প্রয়োজনীয় নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 413612)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি সনোমিটারে সদৃশ ও সমদৈর্ঘ্যের তিনটি তার [math]A,\ B\ ও\ C[/math]-এ যথাক্রমে [math]200,\ 225\ ও\ 250\ N[/math] বল ঝুলিয়ে টানটান করা হলো। [math]A[/math] তারটিকে শব্দায়িত করায় [math]100\ Hz[/math] কম্পাঙ্কের শব্দ উৎপন্ন হলো। দুটি করে তার একসাথে শব্দায়িত করলে বিট উৎপন্ন হয় কি-না পরীক্ষা করা হলো ।
+
+Options:
+ঘ. বিট উৎপন্নের পরীক্ষার ফলাফল গাণিতিক বিশ্লেষণপূর্বক আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে,[math]\hspace{1 cm}\rm{A}[/math]
+ তারের টান, [math]\mathrm{T}_{1}=200 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ তারের টান, [math]\mathrm{T}_{2}=225 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}\mathrm{A} \text { ও } \mathrm{B}[/math]
+ তারের দৈর্ঘ্য [math]= l[/math]
+ [math]\hspace{1 cm}\mathrm{A} \text { ও } \mathrm{B}[/math]
+ তারের একক দৈর্ঘ্যের ভর [math]= \mu[/math]
+ [math]\hspace{1 cm}\rm{A}[/math]
+ তারের কম্পাঙ্ক, [math]f_{1}=100 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ তারের কম্পাঙ্ক, [math]f_{2}=?[/math]
+আমরা জানি,[math]\hspace{1 cm}f_{1}=\dfrac{1}{2 l} \sqrt{\dfrac{\mathrm{T}_{1}}{\mu}} \ldots\ldots\ldots\rm{(i)}[/math]
+এবং [math]f_{2}=\dfrac{1}{2 l} \sqrt{\dfrac{\mathrm{T}_{2}}{\mu}}\ldots\ldots\ldots\rm{(ii)}[/math]
+সমীকরণ [math]\rm{(ii)}[/math]
+ নং কে [math]\rm{(i)}[/math]
+ নং দ্বারা ভাগ করে পাই,[math]\hspace{1.5 cm}\begin{array}{l}\quad \dfrac{f_{2}}{f_{1}}=\sqrt{\dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}} \\ \Rightarrow f_{2}=f_{1} \times \sqrt{\dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}}=100 \mathrm{~Hz} \times \sqrt{\dfrac{225 \mathrm{~N}}{200 \mathrm{~N}}}=106.06 \mathrm{~Hz} \end{array}[/math]
+দেওয়া আছে,[math]\hspace{1 cm}\rm{A}[/math]
+ তারের টান, [math]\mathrm{T}_{1}=200 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}\rm{C}[/math]
+ তারের টান, [math]\mathrm{T}_{3}=250 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}\rm{A}[/math]
+ তারের কম্পাঙ্ক, [math]f_{1}=100 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ তারের কম্পাঙ্ক, [math]f_{2}=106.06 \mathrm{~Hz}[/math]
+ [গ থেকে প্রাপ্ত][math]\hspace{1 cm}\rm{C}[/math]
+ তারের কম্পাঙ্ক, [math]f_{3}=?[/math]
+আমরা জানি,[math]\hspace{1 cm}f_{1}=\dfrac{1}{2 l} \sqrt{\dfrac{\mathrm{T}_{1}}{\mu}}\ldots\ldots\ldots\rm{(i)}[/math]
+এবং [math]f_{3}=\frac{1}{2 l} \sqrt{\frac{\mathrm{T}_{3}}{\mu}}\ldots\ldots\ldots\rm{(ii)}[/math]
+সমীকরণ [math]\rm{(ii)}[/math]
+ নং কে [math]\rm{(i)}[/math]
+ নং দ্বারা ভাগ করে পাই,[math]\hspace{1.2 cm}\begin{aligned} \frac{f_{3}}{f_{1}} & =\sqrt{\frac{\mathrm{T}_{3}}{\mathrm{~T}_{1}}} \\ \Rightarrow f_{3} & =f_{1} \times \sqrt{\frac{\mathrm{T}_{3}}{\mathrm{~T}_{1}}} \\ & =100 \mathrm{~Hz} \times \sqrt{\frac{250 \mathrm{~N}}{200 \mathrm{~N}}}=111.8 \mathrm{~Hz} \end{aligned}[/math]
+ [math]\rm{A}~ও~\rm{B}[/math]
+ তার একসাথে শব্দায়িত করলে উৎপন্ন বিট,[math]\hspace{1.5 cm}\mathrm{N}_{1}=f_{2}-f_{1}=106.06 \mathrm{~Hz}-100 \mathrm{~Hz}=6.06 \mathrm{~Hz}[/math]
+ [math]\rm{A}~ও~\rm{C}[/math]
+ তার একসাথে শব্দায়িত করলে উৎপন্ন বিট,[math]\hspace{1.5 cm}\mathrm{N}_{2}=f_{3}-f_{\mathrm{i}}=111.8 \mathrm{~Hz}-100 \mathrm{~Hz}=11.8 \mathrm{~Hz}[/math]
+ [math]\rm{B}~ও~\rm{C}[/math]
+ তার একসাথে শব্দায়িত করলে উৎপন্ন বিট,[math]\hspace{1.5 cm}\mathrm{N}_{3}=f_{3}-f_{2}=111.8 \mathrm{~Hz}-106.06 \mathrm{~Hz}=5.74 \mathrm{~Hz}[/math]
+আমরা জানি, মানব কর্ণ প্রতি সেকেন্ডে [math]10[/math]
+ টির বেশি বিট শুনতে পায় না।এখানে,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{~N}_{1}10 \\ \mathrm{~N}_{3}<10 \end{array}[/math]
+তাই বলা যায়, [math]\rm{A}~ও~\rm{B}[/math]
+ তার এবং [math]\rm{B}~ও~\rm{C}[/math]
+ তার একসাথে শব্দায়িত করলে উৎপন্ন বিট শোনা যাবে এবং [math]\rm{A}~ও~\rm{C}[/math]
+ তার একসাথে শব্দায়িত করলে উৎপন্ন বিট শোনা যাবে না।
+
+Explanation:
+তারের কম্পাংক তানের বর্গমূলের অনুপাতেই পরিবর্তিত হয়, অর্থাৎ [math]f\propto\sqrt{T}[/math]; A-এর জন্য [math]f_A=100\ \text{Hz}[/math] এবং [math]T_A=200\ \text{N}[/math] হলে সাধারণীকরণে [math]f=100\sqrt{T/200}[/math]। তাই [math]f_B=100\sqrt{225/200}\approx106.07\ \text{Hz}[/math] এবং [math]f_C=100\sqrt{250/200}\approx111.80\ \text{Hz}[/math]। বিট ফ্রিকোয়েন্সি হলো দুই কম্পাংকের পার্থক্য, তাই A ও B-এর মধ্যে [math]|f_B-f_A|\approx6.07\ \text{Hz}[/math], A ও C-এর মধ্যে [math]\approx11.80\ \text{Hz}[/math], এবং B ও C-এর মধ্যে [math]\approx5.74\ \text{Hz}[/math]; অর্থাৎ যেকোনো দুটি তার একসাথে বাজালে বিট উৎপন্ন হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 413613)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+পদার্থবিজ্ঞানের শিক্ষার্থী লিয়ানা দুটি মুরশলাকা দিয়ে দেখল যে, একটির গায়ে [math]312\ Hz[/math] লেখা আছে। সে শলাকা দুটি একত্রে শব্দায়িত করে প্রতি সেকেন্ডে [math]6[/math]টি বাঁট শুনতে পেল। এবার সে অজানা মুরশলাকার গায়ে তার পেঁচিয়ে একইভাবে শব্দাহিত করে প্রতি সেকেন্ডে একই সংখ্যক বীট শুনতে পে ল। এখানে জানা সুরশলাকা থেকে সৃষ্ট শব্দের বেগ [math]340 {~ms}^{-1}[/math]।
+
+Options:
+ঘ. লিয়ানা স্তর বাড়ানোর পূর্বে ও পরে নির্ণীত অজানা কম্পাঙ্কের মধ্যে কোনো পার্থক্য পেয়েছিল কি না গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি,[math]\hspace{1 cm}[/math]
+ভর বাড়ানোর পূর্বে সুরশলাকার কম্পাঙ্ক [math]=f_{1}[/math]
+ [math]\hspace{1 cm}[/math]
+ভর বাড়ানোর পরে সুরহ্মাকার কম্পাঙ্ক [math]f=312 \mathrm{~Hz}[/math]
+আমরা জানি, ভর বৃদ্ধি করলে সুরশলাকার কম্পাঙ্ক হ্রাস পায়, যেহেতু ভর বাড়ানোর পূর্বে এবং পরে বিট সংখ্যা সমান তাই ভর বাড়ানোর পূর্বে [math]f_{1}>f[/math]
+ এবং ভর বাড়ানোর পরে [math]f>f_{2}[/math]
+এখন,[math]\hspace{1.2 cm}f_{1}-f=6\Rightarrow f_{1}=f+6=312+6=318 \mathrm{~Hz}[/math]
+আবার,[math]\hspace{1.2 cm}f-f_{2}=6\Rightarrow f_{2}=f-6=312-6=306 \mathrm{~Hz}[/math]
+ [math]\therefore[/math]
+ স্তর বাড়ানোর পূর্বে ও পরে অজানা কম্পাঙ্কের মধ্যে পার্থক্য,[math]\hspace{1.2 cm}\Delta f=f_{1}-f_{2}=(318-306) \mathrm{Hz}=12 \mathrm{~Hz}[/math]
+উপরের গাণিতিক বিশ্লেষণ থেকে বলা যায়, তর বাড়ানোর অজানা কম্পাঙ্কের সুরশলাকার কম্পাঙ্ক [math]12 \rm{~Hz}[/math]
+ হ্রাস পেয়েছে।
+
+Explanation:
+ঘ ব্যাখ্যা: বীট ফ্রিকোয়েন্সি হলো দুটি তরঙ্গের কম্পাঙ্কের পার্থক্যের অভিব্যক্তি, তাই [math]|f_{unk}-312|=6[/math] থেকে [math]f_{unk}=312\pm6=[306\ \text{Hz}\ \text{or}\ 318\ \text{Hz}][/math]. যেহেতু স্তর বাড়ানোর পরে বীটের হার অপরিবর্তিত রইল, কম্পাঙ্কের পার্থক্য অপরিবর্তিত ছিল এবং তাই অজানা কম্পাঙ্কেও কোনো পরিবর্তন ঘটেনি।
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 413614)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দুটি সুর শলাকা একটি গ্যাসে [math]50\ cm[/math] ও [math]51\ cm[/math] তরঙ্গ দৈর্ঘ্যের শব্দ উৎপন্ন করে। শলাকা দুটিকে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে [math]6[/math]টি বিট শোনা যায়। [math]A[/math]-এর কম্পাঙ্ক [math]500\ Hz[/math]।
+
+Options:
+গ. গ্যাসটিতে শব্দের বেগ কত হবে হিসাব কর।
+
+
+Correct Answer: 
+
+Solution:
+গউল্লিখিত গ্যাসে [math]\rm{A}[/math]
+ সুরশলাকা দ্বারা সৃষ্ট তরঙ্গের তরঙ্গদৈর্ঘ্য,[math]\hspace{1.5 cm}\lambda=50 \mathrm{~cm}=\dfrac{50}{100} \mathrm{~m}=0.5 \mathrm{~m}[/math]
+কম্পাঙ্ক, [math]f=500 \mathrm{~Hz}[/math]
+শব্দের বেগ, [math]\mathrm{v}=\text { ? }[/math]
+আমরা জানি, [math]\rm{v}=f \lambda=500 \times 0.5[/math]
+ [math]\hspace{1.5 cm}\therefore \quad \rm{v}=250 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+অতএব, গ্যাসটিতে শব্দের বেগ [math]250 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+।
+
+Explanation:
+ব্যাখ্যা:
+গ A-এর তরঙ্গদৈর্ঘ্য [math]50\ cm=0.5\ m[/math], তাই শব্দের বেগ [math]v=f\lambda=500\times0.5=250\ m/s[/math] (বিট‑সংক্রান্ত তথ্য এই অংশের জন্য প্রয়োজন নেই)।
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 413615)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দুটি সুর শলাকা একটি গ্যাসে [math]50\ cm[/math] ও [math]51\ cm[/math] তরঙ্গ দৈর্ঘ্যের শব্দ উৎপন্ন করে। শলাকা দুটিকে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে [math]6[/math]টি বিট শোনা যায়। [math]A[/math]-এর কম্পাঙ্ক [math]500\ Hz[/math]।
+
+Options:
+ঘ. [math]B[/math] শলাকাটিকে একটু ঘষে পুনরায় শব্দায়িত করলে বীট সংখ্যার কোনো পরিবর্তন হয় না- ঘটনাটি ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\rm{A}[/math]
+ এর কম্পাঙ্ক, [math]f_{\mathrm{A}}=500 \mathrm{~Hz}[/math]
+ [math]\text {B}[/math]
+ শলাকাটিকে একটু ঘষে পুনরায় শব্দায়িত করলে বীটের হার, [math]\rm{N=6 s^{-1}}[/math]
+ [math]\quad[/math]
+ঘষার পূর্বে, [math]\text {B}[/math]
+ এর কম্পাঙ্ক, [math]f_{\mathrm{B}}=f_{\mathrm{A}}-\mathrm{N}=(500-6) \mathrm{Hz}=494 \mathrm{~Hz}[/math]
+ [math]\quad[/math]
+ঘষার পরে, [math]\text {B}[/math]
+ এর কম্পাঙ্ক, [math]f_{\mathrm{B}}=f_{\mathrm{A}}+\mathrm{N}=(500+6) \mathrm{Hz}=506 \mathrm{~Hz}[/math]
+এখানে ঘষার পূর্বে [math]\text {B}[/math]
+ এর কম্পাঙ্ক [math]\text {A}[/math]
+ এর কম্পাঙ্কের চেয়ে কম ছিল। এরপর [math]\text {B}[/math]
+ এর শলাকাটি ঘষার ফলে এর ভর হ্রাস পেয়েছে। আবার আমরা জানি, ভর হ্রাস পেলে কম্পাঙ্ক বৃদ্ধি পায়। ফলে [math]\text {B}[/math]
+ এর কম্পাঙ্ক বৃদ্ধি পেয়েছে এবং [math]\text {A}[/math]
+ এর কম্পাঙ্ক হ্রাস পেয়েছে। প্রথম ক্ষেত্রে [math]\text {B}[/math]
+ এর কম্পাঙ্কের চেয়ে [math]\text {A}[/math]
+ এর কম্পাঙ্ক যত বেশি ছিল এক্ষেত্রে [math]\text {B}[/math]
+ এর কম্পাঙ্কের চেয়ে [math]\text {A}[/math]
+ এর কম্পাঙ্ক ততটাই কম হয়। অর্থাৎ উভয় ক্ষেত্রেই কম্পাঙ্কের পার্থক্য সমান হয়। ঐ কারণে [math]\text {B}[/math]
+ শলাকাটিকে একটু ঘষে পুনরায় শব্দায়িত করলে বীট সংখ্যার কোনো পরিবর্তন হয় না।
+
+Explanation:
+ব্যাখ্যা: ঘ বীটের সংখ্যাটি নির্ভর করে কেবল দুই শলাকার কম্পাঙ্কের পার্থক্যের উপর, না যে শব্দের তীব্রতার উপর; ঘষলে কেবল B-এর কম্পন তীব্রতা (আাম্পলিটিউড) বাড়ে বা সামান্য পরিবর্তন হতে পারে, কিন্তু শলাকার ভৌত আয়তন ও স্থিতিস্থাপকতা অপরিবর্তিত থাকায় তার প্রাকৃতিক কম্পাঙ্ক প্রায় পরিবর্তন হয় না, তাই বীটের সংখ্যা বদলায় না।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 413616)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] এবং [math]B[/math] দুটি সুরশলাকা একটি গ্যাসে [math]1\ m[/math] এবং [math]1.01\ m[/math] তরঙ্গদৈর্ঘ্য বিশিষ্ট শব্দ উৎপন্ন করে। [math]A[/math] ও [math]B[/math] একত্রে শব্দায়িত করলে প্রতি সেকেণ্ডে [math]6[/math]টি বীট উৎপন্ন হয়। [math]B[/math] এর কম্পাঙ্ক [math]512\ Hz[/math]. ' [math]A[/math]' শলাকার বাহুতে মোম লাগিয়ে পুনরায় একত্রে শব্দায়িত করলে একই সং খ্যক বীট উৎপন্ন হয়।
+
+Options:
+গ. গ্যাসে শব্দের বেগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউল্লেখিত গ্যাসে [math]\rm{B}[/math]
+ সুরশলাকা দ্বারা সৃষ্ট তরঙ্গের,[math]\hspace{1 cm}[/math]
+তরঙ্গদৈর্ঘ্য, [math]\lambda=1.01 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কম্পাঙ্ক, [math]f=512 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}[/math]
+শব্দের বেগ, [math]\mathrm{v}=?[/math]
+আমরা জানি, [math]\mathrm{v}=f \lambda=(512 \times 1.01) \mathrm{m} \mathrm{s}^{-1}=517.12 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+
+
+Explanation:
+সমাধান:
+গ গ্যাসে শব্দের বেগ হলো [math]v=f_B\lambda_B=512\times1.01=517.12\ \text{m/s}[/math]. কারণ একই গ্যাসে শব্দের গতি উৎসের কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্যের গুণফল, তাই [math]B[/math]-এর দেওয়া মান ব্যবহার করলেই যথেষ্ট; মোম লাগানোর তথ্য গতি নির্ধারণে প্রয়োজনীয় নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 413617)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] এবং [math]B[/math] দুটি সুরশলাকা একটি গ্যাসে [math]1\ m[/math] এবং [math]1.01\ m[/math] তরঙ্গদৈর্ঘ্য বিশিষ্ট শব্দ উৎপন্ন করে। [math]A[/math] ও [math]B[/math] একত্রে শব্দায়িত করলে প্রতি সেকেণ্ডে [math]6[/math]টি বীট উৎপন্ন হয়। [math]B[/math] এর কম্পাঙ্ক [math]512\ Hz[/math]. ' [math]A[/math]' শলাকার বাহুতে মোম লাগিয়ে পুনরায় একত্রে শব্দায়িত করলে একই সং খ্যক বীট উৎপন্ন হয়।
+
+Options:
+ঘ. উদ্দীপকের ' [math]A[/math]' সুর শলাকার কম্পাঙ্ক ভর বৃদ্ধির পূর্বে না পরে ' [math]B[/math]' এর চেয়ে বেশি ছিল? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, [math]\rm{A}[/math]
+ সুরশলাকার কম্পাঙ্ক [math]f_1[/math]
+বীটের হার [math]\mathrm{N}=6 \mathrm{~s}^{-1}=6 \mathrm{~Hz}[/math]
+ [math]\rm{B}[/math]
+ সুরশলাকার কম্পাঙ্ক [math]f_{2}=512 \mathrm{~Hz}[/math]
+যেহেতু মোম লাগিয়ে ভর বৃদ্ধি করার পর সুরশলাকার কম্পাঙ্ক হ্রাস পেয়ে পুনরায় [math]6[/math]
+টি বিট উৎপন্ন হয়।[math]\hspace{1.5 cm}\begin{array}{l} \therefore~ f_{1}>f_{2} \\ \therefore \ \mathrm{N}=f_{1}-f_{2} \\ \Rightarrow f_{1}=\mathrm{N}+f_{2}=6+513=518 \mathrm{~Hz} \end{array}[/math]
+অতএব, [math]\rm{A}[/math]
+ সুরশলাকার কম্পাঙ্ক ভর বৃদ্ধি করার পূর্বে [math]\rm{B}[/math]
+ এর চেয়ে বেশি ছিল।
+
+Explanation:
+ঘ হ্যাঁ — একই গ্যাসে শব্দের বেগ একই হওয়ায় কম তরঙ্গদৈর্ঘ্য বেশি কম্পাঙ্ক দেয়। তাই [math]f=\dfrac{v}{\lambda}[/math] অনুযায়ী [math]f_A=\dfrac{v}{1},\ f_B=\dfrac{v}{1.01} \Rightarrow f_A>f_B[/math]. যদি [math]f_B=512\ \text{Hz}[/math], তাহলে [math]v=512\times1.01=517.12\ \text{m/s}[/math] এবং [math]f_A=517.12\ \text{Hz}>512\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 413618)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একটি গিটারের তিনটি সদৃশ এবং সমদৈর্ঘ্যের তার [math]A,\ B,\ C[/math]-কে যথাক্রমে [math]100\ N,\ 200\ N\ ও\ 250\ N[/math] মানের বল দ্বারা টানা আছে। [math]A[/math] তারটি [math]50\ Hz[/math] কম্পাঙ্কের শব্দ উৎপন্ন করে। রিপন অবাক হয়ে লক্ষ করল [math]B[/math] ও [math]C[/math] একত্রে কম্পিত করলে বীট শোনা যাচ্ছে কিন্তু [math]A[/math] ও [math]C[/math] তারকে একত্রে কম্পিত করলে বীট শোনা যাচ্ছে না।
+
+Options:
+গ. [math]B[/math] তারের কম্পাঙ্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, [math]\rm{B}[/math]
+ তারের কম্পাঙ্ক, [math]f_{\mathrm{B}}=?[/math]
+উভয়ের দৈর্ঘ্য ও ভর যথাক্রমে [math]\ell[/math]
+ ও [math]\rm{m}[/math]
+ হলে,উদ্দীপক থেকে পাই,[math]\hspace{1 cm}\rm{A}[/math]
+ তারের টান, [math]\mathrm{T}_{\mathrm{A}}=100 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}\rm{A}[/math]
+ তারের কম্পাঙ্ক, [math]f_{\mathrm{A}}=50 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ তারের টান, [math]\mathrm{T}_{\mathrm{B}}=200 \mathrm{~N}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\quad f_{\mathrm{A}}=\dfrac{1}{2 \ell} \sqrt{\dfrac{\rm{T}_{\mathrm{A}}}{\mathrm{m}}}[/math]
+এবং [math]f_{\mathrm{B}}=\dfrac{1}{2 l} \sqrt{\dfrac{\rm{T}_{\mathrm{B}}}{\mathrm{m}}}[/math]
+ [math]\hspace{1.5 cm}\therefore ~\dfrac{f_{\mathrm{A}}}{f_{\mathrm{B}}}=\sqrt{\dfrac{\mathrm{T}_{\mathrm{A}}}{\mathrm{T}_{\mathrm{B}}}}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow f_{\mathrm{B}}=f_{\mathrm{A}} \sqrt{\frac{\mathrm{T}_{\mathrm{B}}}{\mathrm{T}_{\mathrm{A}}}}=50 \mathrm{~Hz} \times \sqrt{\frac{200}{100}}=70.71 \mathrm{~Hz}[/math]
+অতএব, [math]\rm{B}[/math]
+ তারের কম্পাঙ্ক [math]70.71 \mathrm{~Hz}[/math]
+।
+
+Explanation:
+গ ব্যাখ্যা: একই ধরনের ও সমদৈর্ঘ্যের তারগুলোর কম্পাঙ্ক টেনশনের বর্গমূলের অনুপাতে, তাই [math]f\propto\sqrt{T}[/math]. A থেকে [math]k=f_A/\sqrt{T_A}=50/\sqrt{100}=5[/math], অতএব [math]f_B=k\sqrt{200}=5\sqrt{200}=50\sqrt{2}\approx70.7\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 413619)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একটি গিটারের তিনটি সদৃশ এবং সমদৈর্ঘ্যের তার [math]A,\ B,\ C[/math]-কে যথাক্রমে [math]100\ N,\ 200\ N\ ও\ 250\ N[/math] মানের বল দ্বারা টানা আছে। [math]A[/math] তারটি [math]50\ Hz[/math] কম্পাঙ্কের শব্দ উৎপন্ন করে। রিপন অবাক হয়ে লক্ষ করল [math]B[/math] ও [math]C[/math] একত্রে কম্পিত করলে বীট শোনা যাচ্ছে কিন্তু [math]A[/math] ও [math]C[/math] তারকে একত্রে কম্পিত করলে বীট শোনা যাচ্ছে না।
+
+Options:
+ঘ. [math]A[/math] ও [math]C[/math] তারকে একত্রে কম্পিত করলে বীট শোনা যায় না কেন— গাণিতিকভাবে ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, [math]\rm{B}[/math]
+ তারের কম্পাঙ্ক, [math]f_{\mathrm{B}}=?[/math]
+উভয়ের দৈর্ঘ্য ও ভর যথাক্রমে [math]\ell[/math]
+ ও [math]\rm{m}[/math]
+ হলে,উদ্দীপক থেকে পাই,[math]\hspace{1 cm}\rm{A}[/math]
+ তারের টান, [math]\mathrm{T}_{\mathrm{A}}=100 \mathrm{~N}[/math]
+ [math]\hspace{1 cm}\rm{A}[/math]
+ তারের কম্পাঙ্ক, [math]f_{\mathrm{A}}=50 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ তারের টান, [math]\mathrm{T}_{\mathrm{B}}=200 \mathrm{~N}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\quad f_{\mathrm{A}}=\dfrac{1}{2 \ell} \sqrt{\dfrac{\rm{T}_{\mathrm{A}}}{\mathrm{m}}}[/math]
+এবং [math]f_{\mathrm{B}}=\dfrac{1}{2 l} \sqrt{\dfrac{\rm{T}_{\mathrm{B}}}{\mathrm{m}}}[/math]
+ [math]\hspace{1.5 cm}\therefore ~\dfrac{f_{\mathrm{A}}}{f_{\mathrm{B}}}=\sqrt{\dfrac{\mathrm{T}_{\mathrm{A}}}{\mathrm{T}_{\mathrm{B}}}}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow f_{\mathrm{B}}=f_{\mathrm{A}} \sqrt{\frac{\mathrm{T}_{\mathrm{B}}}{\mathrm{T}_{\mathrm{A}}}}=50 \mathrm{~Hz} \times \sqrt{\frac{200}{100}}=70.71 \mathrm{~Hz}[/math]
+অতএব, [math]\rm{B}[/math]
+ তারের কম্পাঙ্ক [math]70.71 \mathrm{~Hz}[/math]
+।এখানে,[math]\hspace{1 cm}\text {B}[/math]
+ তারের কম্পাঙ্ক, [math]f_{\mathrm{B}}=70.71 \mathrm{~Hz}[/math]
+ [গ থেকে প্রাপ্ত][math]\hspace{1 cm}\text {C}[/math]
+ তারের টান, [math]\rm{T_{C}}=250 \mathrm{~N}[/math]
+ধরি, [math]\text {C}[/math]
+ তারের কম্পাঙ্ক [math]=f_{\rm{C}}[/math]
+এখন, [math]\rm{B}[/math]
+ ও [math]\rm{C}[/math]
+ একত্রে কম্পিত করলে,আমরা পাই,[math]\hspace{1.5 cm}\begin{array}{l} \quad \dfrac{f_{\rm{B}}}{f_{\rm{C}}}=\sqrt{\rm{\dfrac{T_{B}}{T_{C}}}} \\ \Rightarrow f_{\rm{C}}=f_{\rm{B}} \sqrt{\rm{\dfrac{T_{C}}{T_{B}}}}=70.71 \mathrm{~Hz} \times \sqrt{\dfrac{250 \mathrm{~N}}{200 \mathrm{~N}}}=79.05 \mathrm{~Hz} \end{array}[/math]
+এক্ষেত্রে [math]\rm{B}[/math]
+ ও [math]\rm{C}[/math]
+ তারের কম্পাঙ্কের পার্থক্য[math]\hspace{1.5 cm}\begin{array}{l} =(79.05-70.71) \mathrm{Hz} \\ =8.34 \mathrm{~Hz} \end{array}[/math]
+আবার, [math]\rm{A}[/math]
+ ও [math]\rm{C}[/math]
+ তারকে একত্রে কম্পিত করলে,[math]\hspace{1.5 cm}\begin{aligned} \frac{f_{\mathrm{A}}}{f_{\mathrm{C}}} & =\sqrt{\frac{\mathrm{T}_{\mathrm{A}}}{T_{\mathrm{C}}}} \\ \Rightarrow f_{\mathrm{C}} & =f_{\mathrm{A}} \sqrt{\frac{\mathrm{T}_{\mathrm{C}}}{\mathrm{T}_{\mathrm{A}}}} \\ & =50 \mathrm{~Hz} \times \sqrt{\frac{250 \mathrm{~N}}{100 \mathrm{~N}}}=79.05 \mathrm{~Hz} \end{aligned}[/math]
+এক্ষেত্রে, [math]\rm{A}[/math]
+ ও [math]\rm{C}[/math]
+ তারের কম্পাঙ্কের পার্থক্য[math]\hspace{1.5 cm}\begin{array}{l} =(79.05-50) \mathrm{Hz} \\ =29.05 \mathrm{~Hz} \end{array}[/math]
+আমরা জানি, বীট সৃষ্টির শর্ত হলো কম্পাঙ্ক দুটির মান প্রায় সমান হতে হবে। এক্ষেত্রে [math]\rm{B}[/math]
+ ও [math]\rm{C}[/math]
+ তারের ক্ষেত্রে কম্পাঙ্কের পার্থক্য অনেক কম। এবং [math]\rm{A}[/math]
+ ও [math]\rm{C}[/math]
+ তারের ক্ষেত্রে কম্পাঙ্কের পার্থক্য [math]29.05 \mathrm{~Hz}[/math]
+। এজন্যই [math]\rm{A}[/math]
+ ও [math]\rm{C}[/math]
+ তারকে একত্রে কম্পিত করলে বীট শোনা যাবে না। কারণ কম্পাঙ্কের পার্থক্য [math]10 \rm{~Hz}[/math]
+ এর বেশি হলে বীট গণনা করা যায় না।
+
+Explanation:
+ব্যাখ্যা: ঘ تارগুলোর কম্পাঙ্ক [math]f∝\sqrt{T}[/math] হওয়ায় [math]k= f_A/\sqrt{T_A}=50/\sqrt{100}=5[/math]। তাই [math]f_B=5\sqrt{200}\approx70.71\ \text{Hz}[/math] ও [math]f_C=5\sqrt{250}\approx79.06\ \text{Hz}[/math]। [math]|f_B-f_C|\approx8.35\ \text{Hz}[/math] হলে বীট শোনা যায়, কিন্তু [math]|f_A-f_C|\approx79.06-50\approx29.06\ \text{Hz}[/math] অনেক বেশি হওয়ায় তা বীট হিসেবে দেখা না দিয়ে আলাদা দুই সুর হিসেবে শোনা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 413620)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+তিনটি সুর শলাকা যাদের প্রথমে দুটির গায়ে কম্পাঙ্ক [math]450\ \rm{Hz}[/math] লেখা আছে যার একটির বাহু কিছুটা ক্ষয়ে গেছে। তৃতীয় সুর শলাকার গায়ে কম্পাঙ্কের মান লিখা নেই। তৃতীয় সুরশলাকাটিকে পৃথকভাবে অপর দুটির সাথে স্পন্দিত করলে প্রতি সেকেন্ডে একই সংখ্যক বীট সৃষ্টি হয়। আবার প্রথম দুটি একই সাথে স্পন্দিত করলে প্রতি সেকেন্ডে এটি বীট সৃষ্টি হয়। [১ম সুর শলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]10^{-7} \mathrm{Wm}^{-2}[/math]]
+
+Options:
+ঘ. উদ্দীপকের তথ্যসমূহ হতে ৩য় সুর শলাকাটির কম্পাঙ্ক নির্ণয় করা সম্ভব কি-না পাণিতিক বিশ্লেষণের সাহায্যে তোমার মতামত লিখ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+১ম সুর শলাকার কম্পাঙ্ক, [math]f_{1}=450 \mathrm{~Hz}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় সুর শলাকার কম্পাঙ্ক [math]=f_2[/math]
+ধরি, ২য় সুর শলাকাটির একটি বাহু সামান্য ক্ষয়ে গেছে, ফলে ২য় সুর শলাকাটির কম্পাঙ্ক বেশি হবে।[math]\therefore[/math]
+ ২য় সুর শলাকার কম্পাঙ্ক, [math]f_{2}=f_{1}+6=(450+6) \mathrm{~Hz}=456 \mathrm{~Hz}[/math]
+ধরি, ৩য় সুর শলাকাটির কম্পাঙ্ক [math]=f_{3}[/math]
+এখন ৩য় সুর শলাকাকে পৃথকভাবে ১ম দুটির সাথে স্পন্দিত করলে প্রাপ্ত বীটের সংখ্যা [math]\rm{N}[/math]
+ হলে, [math]f_{3}=f_{1} \pm \rm{N}[/math]
+আবার, [math]f_{3}=f_{2} \pm \rm{N}[/math]
+এখানে, ১ম সুর শলাকার কম্পাঙ্ক ২য় সুর শলাকার কম্পাঙ্ক অপেক্ষা বেশি। আবার উভয়ই তৃতীয় সুর শলাকার সাথে সমান বীট উৎপন্ন করে।[math]\hspace{1.5 cm}\begin{array}{ll} \therefore & f_{3}=f_{1}+\mathrm{N} \\ \text { & } & f_{3}=f_{2}-\mathrm{N} \\ \therefore & f_{1}+\mathrm{N}=f_{2}-\mathrm{N} \\ \Rightarrow & 2 \mathrm{N}=f_{2}-f_{1}=(456-450)=6 \\ \therefore & \mathrm{N}=3 \\ \therefore & f_{3}=f_{1}+\mathrm{N}=(450+3) \mathrm{Hz}=453 \mathrm{~Hz} \end{array}[/math]
+অতএব, তৃতীয় সুর শলাকার কম্পাঙ্ক [math]453 \mathrm{~Hz}[/math]
+। অর্থাৎ, কম্পাঙ্ক নির্ণয় করা সম্ভব।
+
+Explanation:
+ব্যাখ্যা: ঘ গাণিতিকভাবে যদি তৃতীয়টির বিরুদ্ধে প্রতিটি প্রথম দুইটির সাথে বীটের হার একই হয়, তাহলে [math]|f_3-f_1|=|f_3-f_2| \Rightarrow f_3=\frac{f_1+f_2}{2}[/math]. এখানে [math]f_1=450[/math] এবং প্রথম দুইটির বীটের হার ধারণ করলে [math]f_2=450\pm n[/math], ফলে [math]f_3=450\pm\frac{n}{2}[/math]; তাই সম্পর্ক নির্ণয় করা যায়, কিন্তু প্রথম দুইটির বীটের সংখ্যা [math]n[/math] স্পষ্ট না থাকায় তৃতীয়টির নির্দিষ্ট সংখ্যাগত কম্পাঙ্ক জানা যায় না।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 413621)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] কে একই সাথে কাঁপালে প্রতি সেকেন্ডে [math]5[/math] টি স্বরকম্পের সৃষ্টি হয়। যদি [math]A[/math] এর উ পর কিছুটা ওজন দেয়া যায়, তবে স্বরকম্পের সংখ্যা কমে যায়। যদি [math]B[/math] এর কম্পাঙ্ক প্রতি সেকেন্ডে [math]256[/math] হয়, তবে [math]A[/math] এর কম্পাঙ্ক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : দেওয়া আছে, [math]B-[/math]
+ কম্পাঙ্ক, [math]\mathrm{N}_{\mathrm{B}}=256 \mathrm{~s}^{-1}[/math]
+ স্বরকম্পের সংখ্যা [math]N=5 s^{-1}[/math]
+ধরি, [math]A -[/math]
+এর কম্পাঙ্ক [math]=\mathbf{N}_{\mathbf{A}} \quad \therefore\left|\mathbf{N}_{\mathbf{B}}-\mathbf{N}_{\mathbf{A}}\right|=\mathbf{N}[/math]
+ [math]\therefore A-[/math]
+তে ওজন দিলে স্বরকম্পের সংখ্যা কমে যায় কাজেই, [math]N_{A}>N_{B}[/math]
+ [math]\therefore N_{A}-256=5 \Rightarrow N_{A}=261 \mathrm{~s}^{-1}=261 \mathrm{~Hz}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঢেউয়ের বিট সংখ্যা হলো [math]|f_B - f_A| = 5[/math] এবং [math]f_B = 256[/math] Hz। A-তে ওজন বাড়ালে তার কম্পাঙ্ক घटে এবং বিট সংখ্যা কমেছে, তাই মূলত [math]f_A[/math] সর্বপ্রথম [math]f_B[/math]-এর চেয়ে বড় ছিল; সুতরাং [math]f_A = 256 + 5 = 261\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 413622)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Jagannath University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+0.50m এবং 0.51m দৈর্ঘ্য বিশিষ্ট বন্ধ নলে প্রতি সেকেন্ডে 3 টি বীট (beat) সৃষ্টি করে। শব্দের বেগ (velocity of sound) বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]f \propto \frac{1}{\lambda} \propto \frac{1}{1} \therefore \frac{f_{2}}{f_{2}}=\frac{l_{1}}{l_{2}} \Rightarrow \frac{f_{2}}{f_{1}}=\frac{0.5}{0.51}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{f_{2}}{f_{1}-r_{2}}=\frac{0.5}{0.51-0.5} \Rightarrow \frac{f_{2}}{3}=\frac{0.5}{0.01} \therefore f_{2}= 50 \mathrm{~Hz} \\ \therefore \mathrm{v}=4 l_{2} f_{2}=4 \times 0.51 \times 150=306 \mathrm{~ms}^{-1} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ধরুন দুইটি বন্ধ নল একমাত্র প্রথম হরমোনিকে অনুরণন করে, তখন প্রতিটি নলের ভিত্তি ফ্রিকোয়েন্সি [math]f=\dfrac{v}{4L}[/math] হয় এবং বীট ফ্রিকোয়েন্সি হল উভয় ফ্রিকোয়েন্সির পার্থক্য: [math]3=\left|\dfrac{v}{4L_1}-\dfrac{v}{4L_2}\right|=\dfrac{v}{4}\left(\dfrac{1}{0.50}-\dfrac{1}{0.51}\right)[/math]. সমাধান করলে [math]v=\dfrac{12}{2-1.960784}\approx\dfrac{12}{0.0392157}\approx306\ \text{m/s}[/math], তাই শব্দের বেগ প্রায় [math]306\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 413623)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2008-2009, 2006-2007 | Boards:  | Tags: Bangladesh University of Textiles, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]0.50m[/math] এবং [math]0.51m[/math] দৈর্ঘ্য বিশিষ্ট একমুখ বন্ধ দলে প্রতি সেকেন্ডে [math]3[/math] টি বীট সৃষ্টি করে, বায়ু তে শব্দের বেগ বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]306 \mathrm{~ms}^{-1}[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{\lambda_{1}}{4}=0.5, \dfrac{\lambda_{2}}{4}=0.51 \therefore \lambda_{1}=2 \mathrm{~m}, \lambda_{2}=2.04 \mathrm{~m} ; \lambda_{2}>\lambda_{1}[/math]
+ বলে [math]\mathrm{f}_{1}>\mathrm{f}_{2}[/math]
+ [math]\therefore \mathrm{f}_{1}-\mathrm{f}_{2}=3 ; \dfrac{\mathrm{v}}{\lambda_{1}}-\dfrac{\mathrm{v}}{\lambda_{2}}=3 \Rightarrow \rm{v}\left(\dfrac{1}{2}-\dfrac{1}{2.04}\right)=3 \therefore \mathrm{v}=306 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: একমুখ-বন্ধ নলের প্রতিটি অনুরণনাঙ্কের বিন্যাস [math]f_n=\dfrac{v(2n-1)}{4L}[/math]. একই হর্মোনিকে ধরে নিলে বিট ফ্রিকোয়েন্স হল দুটি ফ্রিকোয়েন্সের পার্থক্য, তাই [math]3=\dfrac{v}{4}\Big(\dfrac{1}{0.51}-\dfrac{1}{0.50}\Big)[/math] (ন=1 ধরলে), যা থেকে হিসাব করলে [math]v=306\ \text{m/s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 413624)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2005-2006 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+দুইটি একই ধরনের তার সমকম্পাংকে তির্যক কম্পনে কম্পিত হচ্ছে। যখন একটি তারের টান [math]2.0 1\%[/math] বৃদ্ধি করা হয় এবং তার দুইটিকে একরো কম্পিত করা হয়, তখন প্রতি সেকেণ্ডে [math]3[/math]টি স্বরকম্প উৎপন্ন হয়। তার দুইটির প্রারম্ভিক কম্পাংক নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]303 \mathrm{~Hz}[/math]
+)[math]\\[/math]
+Solution : [math]T_{2}=T_{1}+\dfrac{2.01}{100} \times T_{1} \quad \therefore T_{2}=1.020 IT_{1}[/math]
+ [math]\dfrac{f_{2}}{f_{1}}=\sqrt{\dfrac{T_{2}}{T_{1}}}=\sqrt{1.0201} \Rightarrow f_{2}=1.01 f_{1} \quad \therefore f_{2}>f_{1}[/math]
+ [math]\therefore f_{2}-f_{1}=3 \Rightarrow 1.01 f_{1}-f_{1}=3 \Rightarrow .01 f_{1}=3 \Rightarrow f_{1}=300 \mathrm{~Hz}[/math]
+ এবং [math]f_{2}=303 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+তারের কম্পাংক টানের বর্গমূলের অনুপাতে চলে, তাই যদি টান [math]\Delta=0.0201[/math] দ্বারা বাড়ে তাহলে নতুন কম্পাংক [math]f' = f\sqrt{1+\Delta}\approx f\left(1+\tfrac{\Delta}{2}\right)[/math] (ছোট পরিবর্তনের আনুমানিকতা)। বীট সংখ্যা [math]|f'-f|\approx f\frac{\Delta}{2}=3[/math] থেকে [math]f=\dfrac{3}{\Delta/2}=\dfrac{3}{0.01005}\approx 298.5\ \text{Hz}[/math] (প্রায় [math]299\ \text{Hz}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 413625)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]20[/math] শব্দের তরঙ্গ দৈর্ঘ্য [math]1m[/math] ও [math]1.01m[/math], যারা একসাথে একটি গ্যাসে [math]6[/math] সেকেন্ডে [math]20[/math]টি বী ট উৎপন্ন করে ঐ মাধ্যমে শব্দের বেগ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]336.67 \mathrm{~ms}^{-1}[/math]
+)[math]\\[/math]
+Solution : [math]N=\dfrac{20}{6}, n_{1}-n_{2}=N \Rightarrow V\left(\dfrac{1}{\lambda_{1}}-\dfrac{1}{\lambda_{2}}\right)=N \Rightarrow V=\dfrac{20}{6} \times \dfrac{1.01}{0.01}=336.67 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: বীট ফ্রিকোয়েন্সি = মোট বীট/সময় = [math]20/6 = 10/3\ \text{Hz}[/math], আর প্রতিটি তরঙ্গের ফ্রিকোয়েন্সি [math]f=v/λ[/math] হলে বীট ফ্রিকোয়েন্সি হবে [math]|f_1-f_2|=v\left|\frac{1}{λ_1}-\frac{1}{λ_2}\right|[/math]. তাই [math]v=\frac{10/3}{\left|\frac{1}{1}-\frac{1}{1.01}\right|}=\frac{10/3}{1/101}=\frac{1010}{3}\ \text{m/s}\approx 336.67\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 413626)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কোন গ্যাসে [math]0.7\ m[/math] এবং [math]0.71\ m[/math] তরঙ্গ দৈর্ঘ্যে দুইটি শব্দ তরঙ্গ প্রতি সেকেন্ডে [math]7[/math] টি বীট উৎপন্ন করে। গ্যাসটিতে শব্দের বেগ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]347.9 \mathrm{~ms}^{-1}[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]\lambda_{1}=0.70 \mathrm{~m}, \lambda_{2}=0.71 \mathrm{~m}[/math]
+ [math]f_{1}-f_{2}=\dfrac{v}{\lambda_{1}}-\dfrac{v}{\lambda_{2}} \Rightarrow 7=v\left(\dfrac{1}{0.7}-\dfrac{1}{0.71}\right) \Rightarrow 7=v\left(\dfrac{0.71-0.7}{0.7 \times 0.71}\right)[/math]
+ [math]\Rightarrow v=\dfrac{7 \times 0.497}{0.01} \Rightarrow v=347.9 \mathrm{~ms}^{-1} \quad \therefore v=347.9 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+বীট ফ্রিকোয়েন্সি দুই তরঙ্গের ফ্রিকোয়েন্সির পার্থক্যের সমান, তাই [math]|f_1-f_2|=7\ \text{Hz}[/math]. তরঙ্গগতি ও তরঙ্গদৈর্ঘ্যের সম্পর্ক [math]f=v/λ[/math] থেকে [math]|v(1/0.7-1/0.71)|=7\Rightarrow v=\dfrac{7}{|1/0.7-1/0.71|}[/math]. এখানে [math]1/0.7\approx1.428571,\ 1/0.71\approx1.408451[/math], তাই [math]v\approx\frac{7}{0.0201205}\approx348\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 413627)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2000-2001 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি সাইরেনের চাকতি প্রতি সেকেন্ডে [math]7[/math] বার ঘুরে। চাকতিটিতে কতটি ছিদ্র করলে এটি [math]300[/math] সাইকেল/সেকেন্ড কম্পাংকের একটি শব্দায়মান সুর শলাকার সাথে প্রতি সেকেন্ডে [math]6[/math] টি বীট উৎপন্ন করবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : সাইকেল চাকতি হতে উৎপন্ন শব্দের কম্পাংক [math]=300 \pm 6=294,306[/math]
+ দেওয়া আছে [math]=\mathrm{n}=\mathrm{7}[/math]
+ [math]m \times n=306 \quad \Rightarrow m=43.7 \text { Ans. }[/math]
+[ [math]m =[/math]
+ ছিদ্র সংখ্যা [math]n =[/math]
+ দুর্ণন সংখ্যা]এখন, [math]m \times n=294 \Rightarrow m=42[/math]
+ [math]\therefore[/math]
+ চাকতিতে ছিদ্র সংখ্যা [math]= 42[/math]
+ টি। [math]\ \ \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: চাকতিতে [math]N[/math]টা ছিদ্র থাকলে ঘূর্ণনের হার [math]7[/math] সেকেন্ড⁻¹ হওয়ায় সৃষ্ট সূর্যের ফ্রিকোয়েন্সি হবে [math]7N[/math] হির্জ; বীটের হার হল পার্থক্য, তাই [math]|7N-300|=6[/math]. এটি থেকে [math]7N=306[/math] বা [math]294[/math] হয়, যেখানে কেবল [math]7N=294[/math] থেকে পূর্ণসংখ্যা পাওয়া যায়, তাই [math]N=42[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 413628)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো একটি মাধ্যমে x অক্ষের দিকে [math]3 \mathrm{~ms}^{-1}[/math] বেগে দুইটি অগ্রগামী তরঙ্গ সঞ্চালিত হচ্ছে। x = 0 স্থানাঙ্কের একটি কণার t সময়ে তরঙ্গদ্বয়ের জন্য সরণ যথাক্রমে [math]\mathrm{y}_{1}=5 \sin (400 \pi \mathrm{t}) \mathrm{m}[/math] এবং [math]\mathrm{y}_{2 }[/math] [math]=5 \sin (404 \pi t) \mathrm{m}[/math]।
+
+Options:
+ঘ. তরঙ্গদ্বয় মাধ্যমের কণার মধ্য দিয়ে একই সাথে আপতিত হলে গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, [math]\frac{1}{4}[/math] এর বিজোড় গুণিতক সময়ে শব্দের প্রাবল্য কম হয়।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে, দুটি তরঙ্গের সমীকরণ,[math]\begin{array}{l}\mathrm{y}_{1}=5 \sin 400 \pi \mathrm{t} \\\mathrm{y}_{2}=5 \sin 404 \pi \mathrm{t}\end{array}[/math]
+মনেকরি, তরঙ্গদ্বয়ের উপরিপাতনে সৃষ্ট তরঙ্গের লব্ধি সরণ y।[math]\begin{aligned}\therefore \mathrm{y} & =\mathrm{y}_{1}+\mathrm{y}_{2} \\& =5 \sin 400 \pi \mathrm{t}+5 \sin 404 \pi \mathrm{t}\end{aligned}[/math]
+ [math]\begin{array}{l}=2 \times 5 \sin \left\{2 \pi\left(\frac{200+202}{2}\right) \mathrm{t}\right\} \cos \left\{2 \pi\left(\frac{202-200}{2}\right) \mathrm{t}\right\} \\=10 \cos \{2 \pi \times 1 \times \mathrm{t}\} \sin \{2 \pi \times 201 \mathrm{t}\} \\=10 \cos 2 \pi \mathrm{t} \sin (402 \pi \mathrm{t})\end{array}[/math]
+লব্ধি তরঙ্গের বিস্তার [math]A=10 \cos 2 \pi t[/math]
+ [math]\mathrm{t}=\frac{1}{4}, \frac{3}{4}, \frac{5}{4}[/math]
+ সময়ে,[math]A=10 \cos 2 \pi \times \frac{1}{4}, 10 \cos 2 \pi \frac{3}{4}, 10 \cos 2 \pi \frac{5}{4}[/math]
+ ....[math]\Rightarrow[/math]
+ [math]A=10 \cos \frac{\pi}{2}, 10 \cos \frac{3 \pi}{2}, 10 \cos \frac{5 \pi}{2}[/math]
+ [math]\therefore \mathrm{A}=0,0,0,0[/math]
+ ........... হয়এজন্য [math]\frac{1}{4}[/math]
+ এর বিজোড় গুণিতক সময় পরপর লব্ধি তরঙ্গের বিস্তার শূন্য হওয়ায় শব্দ শোনা যায় না।
+
+Explanation:
+ঘ সমাধান: দুইটি তরঙ্গ যোগ করলে [math]\mathrm{y}=5[\sin(400\pi t)+\sin(404\pi t)]=10\cos(2\pi t)\sin(402\pi t)[/math]. এখানে প্রবলতা-আবেশ (envelope) হচ্ছে [math]10\cos(2\pi t)[/math], যা শূন্য হয় যখন [math]\cos(2\pi t)=0[/math], অর্থাৎ [math]t=(2n+1)/4\ \mathrm{s}[/math]. তাই [math]1/4[/math] এর বিজোড় গুণিতক সময়গুলোতে প্রাবল্য কমে (শূন্য হয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #83 (ID: 413629)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কয়েকজন ছাত্রকে সুরশলাকার সাহায্যে বীট সৃষ্টি করতে বলা হলো। একজন ছাত্র 460 Hz কম্পাঙ্কের একটি ও অপর একটি সুরশলাকা একত্রে কম্পিত করে প্রতি সেকেণ্ডে 6 টি বীট শুনতে পেল। অপর একজন ছাত্র দুটি সুরশলাকাকে একত্রে কম্পিত করলো, কোনো বীট সৃষ্টি হলো না। কিন্তু এক টির বাহুতে একটু মোম লাগিয়ে কম্পিত করলে বীট সৃষ্টি হলো।
+
+Options:
+গ. প্রথম ছাত্র 460 Hz কম্পাকের সুরশলাকার গায়ে কিছুটা মোম লাগিয়ে পুনরায় শব্দায়িত করে দেখলো বীট সংখ্যা বেড়ে গেছে। অপর সুরশলাকাটির কম্পাঙ্ক কত ছিল নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, A এর কম্পাংক, [math]f_{\mathrm{A}}=460 \mathrm{~Hz}[/math]
+A শলাকার গায়ে মোমের প্রলেপ লাগানোর পূর্বে বীটের হার, [math]\mathrm{N}=6 \mathrm{~s}^{-1}[/math]
+ [math]=6 \mathrm{~Hz}[/math]
+B এর কম্পাংক যদি [math]f_{\mathrm{B}}[/math]
+ হয়, তাহলে,[math]\begin{aligned}f_{\mathrm{B}} & =f_{\mathrm{A}} \pm \mathrm{N} \\& =460 \mathrm{~Hz} \pm 6 \mathrm{~Hz}\end{aligned}[/math]
+ [math]=466 \mathrm{~Hz}[/math]
+ বা [math]454 \mathrm{~Hz}.[/math]
+মোমের প্রলেপ লাগালে সুরশলাকার কম্পাংক কমে যায়৷ যেহেতু A শলাকার গায়ে মোমের প্রলেপ লাগানোর পর বীট সংখ্যা বেড়ে যায়, সেহেতু A শলাকার কম্পাংক B-এর কম্পাংকের চেয়ে কম হবে। অর্থাৎ, B শলাকার কম্পাংক A এর কম্পাংকের চেয়ে বেশি হবে।[math]\therefore 466 \mathrm{~Hz}>f_{\mathrm{A}}[/math]
+ [math]\therefore[/math]
+ B শলাকার কম্পাংক [math]f_{\mathrm{B}}=466 \mathrm{~Hz} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ কারণ বীট সংখ্যা হল দুই কম্পাঙ্কের পার্থক্যের মান, তাই প্রথমেই [math]|460 - f| = 6[/math] থেকে [math]f = 454 \text{ বা } 466\ \text{Hz}[/math]। মোম লাগিয়ে [math]460\ \text{Hz}[/math] কমে গেলে যদি অপরটি [math]454\ \text{Hz}[/math] হতো পার্থক্য কমত, কিন্তু বীট বেড়েছে; অতএব অপর সুরশলাকার কম্পাঙ্ক [math]466\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #84 (ID: 413630)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কয়েকজন ছাত্রকে সুরশলাকার সাহায্যে বীট সৃষ্টি করতে বলা হলো। একজন ছাত্র 460 Hz কম্পাঙ্কের একটি ও অপর একটি সুরশলাকা একত্রে কম্পিত করে প্রতি সেকেণ্ডে 6 টি বীট শুনতে পেল। অপর একজন ছাত্র দুটি সুরশলাকাকে একত্রে কম্পিত করলো, কোনো বীট সৃষ্টি হলো না। কিন্তু এক টির বাহুতে একটু মোম লাগিয়ে কম্পিত করলে বীট সৃষ্টি হলো।
+
+Options:
+ঘ. দ্বিতীয় ছাত্রের ক্ষেত্রে প্রথমে বীট সৃষ্টি না হওয়া এবং মোম লাগানোর পর বীট সৃষ্টি হওয়ার পেছনে কী কী কারণ থাকতে পারে বলে তুমি মনে কর, যুক্তিসহ আলোচনা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘদ্বিতীয় ছাত্র দুটি সুরশলাকা একত্রে কম্পিত করলে, প্রথমে কোনো বীট সৃষ্টি হয় না, এর দুটি কারণ হতে পারে। প্রথম কারণ, শলাকা দুটির কম্পাঙ্ক সমান। আমরা জানি, প্রতি সেকেন্ডে বীটের সংখ্যা সুরশলাকাদ্বয়ের তরঙ্গের কম্পাঙ্কের পার্থক্যের সমান। কম্পাঙ্কদ্বয় সমান হলে পার্থক্য শূন্য হবে এবং বীট উৎপন্ন হবে না। দ্বিতীয় কারণ, শলাকা দুটির কম্পাঙ্কের ব্যবধান অনেক বেশি হলে কোনো বীট উৎপন্ন হবে না। আমরা জানি, যে তরঙ্গদ্বয়ের উপরিপাতনের ফলে বীট সৃষ্টি করা হয় তাদের কম্পাঙ্ক কাছাকাছি মানের হতে হয়, যাতে প্রতি সেকেন্ডে বীটের সংখ্যা 10 এর বেশি না হয়। বীট সংখ্যা প্রতি সেকেন্ডে 10 এর বেশি হলে আমরা তা শুনতে পাই না। তাই বলা যায়, শলাকাদ্বয় হয় সমান কম্পাঙ্ক নিয়ে কম্পিত হচ্ছিল নয়তো, তাদের ব্যবধান অনেক বেশি ছিল, এজন্য কোনো বীট উৎপন্ন হয়নি বলে মনে হয়েছে। পরবর্তিতে, একটি শলাকায় কিছুটা মোম লাগিয়ে নেয়ার পর বীট সৃষ্টি হলো, এর কারণ শলাকার ভর বাড়িয়ে তার কম্পাঙ্ক কমিয়ে আনা হয়েছে। ফলে পূর্বের ন্যায় সমান কম্পাঙ্কে কম্পিত না হয়ে শলাকা দুটি কাছাকাছি ব্যবধানের কম্পাঙ্কে কম্পিত হয়, ফলে বীট সৃষ্টি হয়।
+
+Explanation:
+ঘ শুরুতে কোনো বীট শোনা না যাওয়ার মানে হলো দুটো সুরশলাকার কম্পাঙ্ক সমান বা পার্থক্য এতই ক্ষুদ্র যে তা শোনা যাচ্ছিল না; মোম লাগালে একটির প্রাংয়ের ভর বাড়ে এবং তার স্বাভাবিক কম্পাঙ্ক কমে যায়, ফলে দুইটির মধ্যে কম্পাঙ্ক পার্থক্য তৈরি হয়। বীটের হার হয় [math]|f_1-f_2|[/math], তাই মোম লাগানোর পর সেই পার্থক্যের কারণে সময় অনুযায়ী উচ্চতা ওঠা‑নামা (বীট) শোনা যায়; এছাড়া পর্যাপ্ত কম্পন শক্তি (অম্লানতা) না থাকলে বীট অশ্রুতিও হতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #85 (ID: 413631)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে দুটি সুরেলী কাঁটা A ও B একত্রে ধ্বনিত করলে উৎপন্ন তরঙ্গের সমীকরণ যথাক্রমে, [math]y_{A}=10 \sin \pi\left(200 t-\frac{x}{3.24}\right)[/math] ও [math]y_{B}=10 \sin \pi\left(210.03 \mathrm{t}-\frac{x}{3.09}\right)[/math] । এখানে সব কয়টি রাশি এস আই এককে প্রদত্ত।
+
+Options:
+ঘ. A ও B সুরেলী কাঁটার তরঙ্গদ্বয় বীট তৈরি করেছিল কি না গাণিতিক বিশ্লেষণের সাহায্যে মতামত দাও৷
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম সুরশলাকা হতে উৎপন্ন শব্দ তরঙ্গের সমীকরণ,[math]y=10 \sin \pi\left(200 t-\frac{x}{3.24}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]y=10 \sin \left(200 \pi t-\frac{\pi x}{3.24}\right)[/math]
+ [math]\therefore[/math]
+ কম্পাঙ্ক, [math]f_{1}=100 \mathrm{~Hz}[/math]
+দ্বিতীয় সুরশলাকার, B থেকে নিঃসৃত শব্দ তরঙ্গের সমীকরণ:[math]\begin{array}{l}\mathrm{y}_{\mathrm{B}}=10 \sin \pi\left(210.03 \mathrm{t}-\frac{\mathrm{x}}{3.09}\right) \\\because=10 \sin \left(210.03 \pi \mathrm{t}-\frac{\pi \mathrm{x}}{3.09}\right)\end{array}[/math]
+একে, [math]\mathrm{y}=\mathrm{a} \sin \left(2 \pi f \mathrm{t}-\frac{2 \pi}{\lambda} \mathrm{x}\right)[/math]
+ সমীকরণের সাথে তুলনা করে পাই,কম্পাঙ্ক, [math]f_{2}[/math]
+ হলে, [math]2 \pi f_{2} \mathrm{t}=210.03 \pi \mathrm{t}[/math]
+ [math]\therefore f_{2}=\frac{210.03 \pi \mathrm{t}}{2 \pi \mathrm{t}}=105.015 \mathrm{~Hz} \approx 105 \mathrm{~Hz}[/math]
+ [math]\therefore[/math]
+ সুর শলাকাদ্বয় হতে নিঃসৃত শব্দ তরঙ্গদ্বয়ের কম্পাঙ্কের পার্থক্য[math]=f_{2}-f_{1}=105 \mathrm{~Hz}-100 \mathrm{~Hz}=5 \mathrm{~Hz}[/math]
+সুতরাং শব্দ তরঙ্গদ্বয়ের উপরিপাতনের ফলে প্রতি সেকেন্ডে ৫টি বীট উৎপন্ন হয়।
+
+Explanation:
+ঘ ব্যাখ্যা: হ্যাঁ—কারণ টাইম-অ্যাঙ্গুলার ফ্রিকোয়েন্সি থেকে সময়গত ফ্রিকোয়েন্সি পাওয়া যায়: [math]\omega_A=\pi\cdot200\Rightarrow f_A=\frac{\omega_A}{2\pi}=100\ \text{Hz}[/math], [math]\omega_B=\pi\cdot210.03\Rightarrow f_B=\frac{\omega_B}{2\pi}=105.015\ \text{Hz}[/math]. ফলে বীট ফ্রিকোয়েন্সি [math]|f_B-f_A|=5.015\ \text{Hz}[/math] হবে, তাই একই বিন্দুতে সময়ে সময়ে এমপ্লিটিউড মডুলেশন (বীট) দেখা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #86 (ID: 413632)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B সুরশলাকাদ্বয় একত্রে শব্দায়িত করা হলে প্রতি সেকেন্ডে এটি বীট সৃষ্টি হয়। B এর কম্পাঙ্ক 356 Hz হলে A এর কম্পাঙ্ক কত? যদি
+
+(ক) B এর বাহুতে কিছু মোম লাগালে বীট সংখ্যা বৃদ্ধি পায়
+
+(খ) A এর বাহুতে কিছু মোম লাগালে বীট সংখ্যা বৃদ্ধি পায়
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]360 \mathrm{~Hz}[/math]
+ (খ) [math]352 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,B এর কম্পাঙ্ক, [math]\mathrm{f}_{\mathrm{B}}=356 \mathrm{~Hz}[/math]
+বিটের হার, [math]\mathrm{N}=4 \mathrm{~s}^{-1}=4 \mathrm{~Hz}[/math]
+A এর কম্পাঙ্ক, [math]f_{\mathrm{A}}=\text { ? }[/math]
+(ক) যেহেতু B এর বাহুতে কিছু মোম লাগালে অর্থাৎ কম্পাঙ্ক কমালে বীট সংখ্যা বৃদ্ধি পায়,অর্থাৎ কম্পাঙ্কের পার্থক্য বৃদ্ধি পায় সেহেতু B এর কম্পাঙ্ক A এর কম্পাঙ্কের চেয়ে বেশি হবে[math]\therefore \mathrm{f}_{\mathrm{A}}=356+4=360 \mathrm{~Hz}[/math]
+(খ) যেহেতু A এর বাহুতে কিছু মোম লাগালে অর্থাৎ কম্পাঙ্ক কমালে বীট সংখ্যা বৃদ্ধি পায়, অর্থাৎ কম্পাঙ্কের পার্থক্য বৃদ্ধি পায় । সেহেতু A এর কম্পাঙ্ক B এর কম্পাঙ্কের চেয়ে কম হবে।[math]\therefore \quad f_{A}=356-4=352 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শুরুতে বীটের সংখ্যা [math]|f_A - f_B| = 1[/math] এবং [math]f_B = 356\ \text{Hz}[/math] হওয়ায় [math]f_A = 355\ \text{Hz} বা\ 357\ \text{Hz}[/math] হতে পারে।  
+ক B-এর বাহুতে মোম লাগালে [math]f_B[/math] ছোটে; বীট বাড়তে থাকলে পার্থক্য বড়ে মানে [math]f_A > f_B[/math], সুতরাং [math]f_A = 357\ \text{Hz}[/math]।  
+খ A-এর বাহুতে মোম লাগালে [math]f_A[/math] ছোটে; বীট বাড়লে পার্থক্য বড়ে মানে [math]f_A < f_B[/math], সুতরাং [math]f_A = 355\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #87 (ID: 413633)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B সুরশলাকাদ্বয় একত্রে শব্দায়িত করা হলে 2 সেকেন্ডে 12টি বীট শোনা যায়। A এর কম্পাঙ্ক 428 Hz হলে B এর কম্পাঙ্ক কত? যদি-
+
+(ক) B এর বাহু কিছুটা ঘষা হলে বীট সংখ্যা বৃদ্ধি পায়
+
+(খ) A এর বাহু কিছুটা ঘষা হলে বীট সংখ্যা বৃদ্ধি পায় ৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]434 \mathrm{~Hz}[/math]
+ (খ) [math]422 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,A এর কম্পাঙ্ক, [math]\mathrm{f}_{\mathrm{A}}=428 \mathrm{~Hz}[/math]
+বিটের হার, [math]\mathrm{N}=\frac{12}{2} \mathrm{~s}^{-1}=6 \mathrm{~Hz}[/math]
+B এর কম্পাঙ্ক, [math]\mathrm{f}_{\mathrm{B}}=?[/math]
+(ক) যেহেতু B এর বাহু কিছুটা ঘষা হলে অর্থাৎ কম্পাঙ্ক বাড়ালে বীট সংখ্যা বৃদ্ধি পায়, অর্থাৎ কম্পাঙ্কের পার্থক্য বাড়ে সেহেতু B এর কম্পাঙ্ক A এর কম্পাঙ্কের চেয়ে বেশি হবে ।[math]\therefore \mathrm{f}_{\mathrm{B}}=328+6=434 \mathrm{~Hz}[/math]
+(খ) যেহেতু A এর বাহুতে কিছুটা ঘষা হলে অর্থাৎ কম্পাঙ্ক বাড়ালে বীট সংখ্যা বৃদ্ধি পায়, অর্থাৎ কম্পাঙ্কের পার্থক্য বাড়ে সেহেতু A এর কম্পাঙ্ক B এর কম্পাঙ্কের চেয়ে কম হবে । অর্থাৎ B এর কম্পাঙ্ক A এর কম্পাঙ্কের চেয়ে কম হবে।[math]\therefore \mathrm{f}_{\mathrm{B}}=328-6=422 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিট সংখ্যা = [math]12/2 = 6[/math] Hz, তাই দুই সুরশলাকার কম্পাঙ্কের পার্থক্য [math]|f_A - f_B| = 6[/math]। তাই [math]f_B = 428 \pm 6 = 422 \text{Hz বা }434 \text{Hz}[/math].
+
+ক B-র বাহু ঘষলে B-এর কম্পাঙ্ক বাড়ে; বিট বাড়তে হলে A থেকে B’র পার্থক্য বাড়তে হবে, সেজন্য প্রাথমিকভাবে B বেশি হতে হবে — [math]434\text{ Hz}[/math]।  
+খ A-র বাহু ঘষলে A-এর কম্পাঙ্ক বাড়ে; বিট বাড়তে হলে A-B পার্থক্য বাড়তে হবে, সেজন্য প্রাথমিকভাবে B কম হতে হবে — [math]422\text{ Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #88 (ID: 413634)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A ও B দুটি সুরশলাকা একত্রে বাজালে প্রতি সেকেন্ডে 4টি বীট শোনা যায়। A এর ভর কমালে বীট কমে। B এর কম্পাঙ্ক 430 Hz হলে A এর কম্পাঙ্ক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]426 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :এখানে,B এর কম্পাঙ্ক, [math]\mathrm{f}_{\mathrm{B}}=430 \mathrm{~Hz}[/math]
+বিটের হার, [math]\mathrm{N}=4 \mathrm{~Hz}[/math]
+A এর কম্পাঙ্ক, [math]\mathrm{f}_{\mathrm{A}}=?[/math]
+যেহেতু A এর ভর কমালে অর্থাৎ কম্পাঙ্ক বাড়ালে বীট সংখ্যা কমে অর্থাৎ কম্পাঙ্কের পার্থক্য কমে ।সেহেতু A এর কম্পাঙ্ক B এর কম্পাঙ্কের চেয়ে কম হবে।[math]\begin{aligned}\therefore \mathrm{f}_{\mathrm{A}} & =430-4 \\& =426 \mathrm{~Hz} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বীটের হার দুই কম্পাঙ্কের পার্থক্য, তাই [math]|f_A - f_B| = 4[/math]. A-এর ভর কমলে তার কম্পাঙ্ক বেড়ে যায় এবং বীট কমলে বোঝা যায় A প্রথমে B-এর থেকে কম ছিল, তাই [math]f_A = f_B - 4 = 430 - 4 = 426\ \text{Hz}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #89 (ID: 413637)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো মাধ্যমে দুটি উৎস থেকে নির্গত শব্দের তরঙ্গদৈর্ঘ্য যথাক্রমে 1m এবং 1.01m। ঐ মাধ্যমে উৎ স দুটি 3 সেকেন্ড 10টি বীট উৎপন্ন করে। শব্দের দ্রুতি নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]336.67 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: তিন সেকেন্ডে 10টি বীট মানে বীট ফ্রিকোয়েন্সি [math]f_b=10/3\ \text{Hz}[/math], এবং বীট ফ্রিকোয়েন্সি দুই তরঙ্গফ্রিকোয়েন্সের পার্থক্য। তরঙ্গদৈর্ঘ্য দিয়ে [math]f=v/λ[/math] হওয়ায় [math]|v/1 - v/1.01|=v\,(0.01/1.01)=v/101[/math] হবে। এইটি [math]f_b[/math] সমান করে সমাধান করলে [math]v/101=10/3\Rightarrow v=1010/3\approx 336.67\ \text{m/s}[/math], তাই উক্ত মান সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #90 (ID: 413638)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো মাধ্যমে দুটি উৎস থেকে নির্গত শব্দের তরঙ্গদৈর্ঘ্য যথাক্রমে 50 cm এবং 50.5 cm । ঐ মাধ্য মে উৎস দুটি 4 সেকেন্ডে 19টি বীট উৎপন্ন করে। শব্দের দ্রুতি নির্ণয় করো
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]239.875 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: দুই উৎস মিলিয়ে 4 সেকেন্ডে 19টি বীট হলে বীট-ঘনত্ব [math]f_b=\dfrac{19}{4}=4.75\ \text{Hz}[/math], এবং বীট-ঘনত্ব হলো তুল্যতায় বিভেদ [math]|f_1-f_2|[/math]. শব্দের ফ্রিকোয়েন্সি হলো [math]f=\dfrac{v}{\lambda}[/math], তাই
+[math]v\left|\dfrac{1}{\lambda_1}-\dfrac{1}{\lambda_2}\right|=4.75[/math]
+এবং [math]\lambda_1=0.50\ \text{m},\ \lambda_2=0.505\ \text{m}[/math] ব্যবহার করলে
+[math]v=\dfrac{4.75}{\dfrac{1}{0.50}-\dfrac{1}{0.505}}\approx 240\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #91 (ID: 413639)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+24 টি সুর শলাকা ক্রমবর্ধমান কম্পনাঙ্ক হিসেবে পরপর সাজানো আছে। যে কোনো সুর শলাকা তার পরবর্তী সুর শলাকার সাথে 4 টি বীট তৈরি করে এবং শেষ সুর শলাকাটি যদি প্রথমটির অষ্টক হয়, তবে প্রথম ও শেষ শলাকা দুইটির কম্পাঙ্ক নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]92 \mathrm{~Hz}[/math]
+ , [math]184 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে, [math]\mathrm{n}_{2}=2 \mathrm{n}_{1}[/math]
+বীট, N = 4 Hz১ম শলাকার, [math]\mathrm{n}_{1}=?[/math]
+২য় শলাকার, [math]\mathrm{n}_{2}=?[/math]
+আমরা পাই,[math]\mathrm{n}_{2}=\mathrm{n}_{1}+(24-1) \times \mathrm{N}[/math]
+ [math]\Rightarrow[/math]
+ [math]2 \mathrm{n}_{1}=\mathrm{n}_{1}+23 \times 4[/math]
+ [math]\therefore \mathrm{n}_{1}=92 \mathrm{~Hz} \text { (Ans.) }[/math]
+এবং [math]\left.\mathrm{n}_{2}=2 \times 92 \mathrm{~Hz}=184 \mathrm{~Hz} \text { (Ans. }\right)[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমান অনুপাত ধরে ২৪টি সুরশ্রেণি জ্যামিতিক প্রগতিতে হলে পরপর সহগ [math]r[/math], এবং [math]f_{24}=f_1 r^{23}=2f_1[/math] থেকে [math]r^{23}=2\Rightarrow r=2^{1/23}[/math]. প্রতি পরবর্তী শলাকার সাথে বিটের হার হলো ফ্রিকোয়েন্সি পার্থক্য, তাই [math]f_2-f_1=f_1(r-1)=4\Rightarrow f_1=\dfrac{4}{r-1}[/math], যেখানে [math]r=2^{1/23}[/math]। সংখ্যাগতভাবে [math]f_1\approx130.7\ \text{Hz}[/math] এবং [math]f_{24}=2f_1\approx261.4\ \text{Hz}[/math।
+
+Sub-Questions:
+

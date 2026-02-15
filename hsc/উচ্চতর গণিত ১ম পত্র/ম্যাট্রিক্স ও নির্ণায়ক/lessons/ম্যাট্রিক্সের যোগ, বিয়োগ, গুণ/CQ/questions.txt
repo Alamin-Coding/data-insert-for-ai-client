@@ -1,0 +1,541 @@
+================================================================================
+Question #1 (ID: 414630)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]f(x)=x^{2}+3 x, g(x)=2 x-3[/math] এবং [math]A=\left[\begin{array}{rrr}3 & 1 & -1 \\2 & 3 & 4 \\-4 & 5 & 6\end{array}\right][/math]
+
+Options:
+ক. নির্ণায়কের সাহায্যে সমাধান কর : [math]x+3 y+2=0,2 x+y+3=0[/math]
+খ. [math]f(\mathrm{~A})+\mathrm{I}[/math] নির্ণয় কর ।
+গ. [math]gof(x)[/math] এর লেখচিত্র অঙ্কন কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে , [math]x+3 y+2=0[/math]
+ [math]x+3 y=-2...........[/math]
+(i)এবং [math]2 x+y+3=0[/math]
+ [math]\therefore \quad 2 x+y=-3......[/math]
+(ii)[math]\begin{array}{l}D=\left|\begin{array}{ll}1 & 3 \\2 & 1\end{array}\right|=1-6=-5 \\D_{x}=\left|\begin{array}{ll}-2 & 3 \\-3 & 1\end{array}\right|=-2+9=7 \\D_{y}=\left|\begin{array}{ll}1 & -2 \\2 & -3\end{array}\right|=-3+4=1 \\\end{array}[/math]
+ [math]x=\frac{D_{x}}{D}=\frac{7}{-5}[/math]
+ এবং [math]y=\frac{D_{y}}{D}=-\frac{1}{5}[/math]
+নির্ণেয় সমাধান, [math](x, y)=\left(-\frac{7}{5},-\frac{1}{5}\right)[/math]
+ খদেওয়া আছে, [math]f(x)=x^{2}+3 x[/math]
+ [math]\therefore f(A)=A^{2}+3 \mathrm{~A}[/math]
+এবং [math]A=\left[\begin{array}{rrr}3 & 1 & -1 \\2 & 3 & 4 \\-4 & 5 & 6\end{array}\right][/math]
+ [math]A^{2}=A \cdot A=\left[\begin{array}{rrr}3 & 1 & -1 \\2 & 3 & 4 \\-4 & 5 & 6\end{array}\right][/math]
+ [math]\times\left[\begin{array}{rrr}3 & 1 & -1 \\2 & 3 & 4 \\-4 & 5 & 6\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{c}9+2+4 \\6+6-16 \\-12+10-24\end{array}\right.[/math]
+ [math]\begin{array}{c}3+3-5 \\2+9+20 \\-4+15+30\end{array}[/math]
+ [math]\left.\begin{array}{c}-3+4-6 \\-2+12+24 \\4+20+36\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}15 & 1 & -5 \\-4 & 31 & 34 \\-26 & 41 & 60\end{array}\right][/math]
+ [math]3 A=3\left[\begin{array}{rrr}3 & 1 & -1 \\2 & 3 & 4 \\-4 & 5 & 6\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}9 & 3 & -3 \\6 & 9 & 12 \\-12 & 15 & 18\end{array}\right][/math]
+ [math]f(A)+I=A^{2}+3 \mathrm{~A}+\mathrm{I}[/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}15 & 1 & -5 \\-4 & 31 & 34 \\-26 & 41 & 60\end{array}\right][/math]
+ [math]+\left[\begin{array}{ccc}9 & 3 & -3 \\6 & 9 & 12 \\-12 & 15 & 18\end{array}\right][/math]
+ [math]+\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}25 & 4 & -8 \\2 & 41 & 46 \\-38 & 56 & 79\end{array}\right][/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]f(x)=x^{2}+3 x[/math]
+এবং [math]g(x)=2 x-3[/math]
+এখন [math]gof(x)=g\left(x^{2}+3 x\right)[/math]
+ [math]=2\left(x^{2}+3 x\right)-3[/math]
+ [math]=2 x^{2}+6 x-3[/math]
+ধরি, [math]y=gof(x)=2 x^{2}[/math]
+ [math]+6 x-3[/math]
+x এর বিভিন্ন মানের জন্য y-এর সংশ্লিষ্ট মান নির্ণয় করি :
+[Image]
+ছক কাগজের X-অক্ষ ও Y -অক্ষ বরাবর ক্ষুদ্রতম বর্গের [math]1[/math]
+ ঘর [math]= 1[/math]
+ একক ধরে প্রদত্ত বিন্দুগুলো স্থাপন করি। অতঃপর বিন্দুগুলো যোগ করে লেখচিত্র অঙ্কন করি ।
+[Image]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক সমাধানটি নির্ণায়কের (Cramér) নিয়মে সহজ: কোঅফিসিয়েন্ট ম্যাট্রিক্সের নির্ণায়ক [math]D=\begin{vmatrix}1 & 3\\[4pt]2 & 1\end{vmatrix}=1-6=-5[/math], এবং [math]D_x=\begin{vmatrix}-2 & 3\\[4pt]-3 & 1\end{vmatrix}=7,\;D_y=\begin{vmatrix}1 & -2\\[4pt]2 & -3\end{vmatrix}=1[/math] তাই [math]x=D_x/D=-7/5,\;y=D_y/D=-1/5[/math]।
+
+খ এখানে [math]f(A)=A^2+3A[/math] হওয়ায় প্রথমে [math]A^2=\begin{bmatrix}15&1&-5\\[4pt]-4&31&34\\[4pt]-26&41&60\end{bmatrix}[/math], তারপর [math]3A=\begin{bmatrix}9&3&-3\\[4pt]6&9&12\\[4pt]-12&15&18\end{bmatrix}[/math] যোগ করে ও একক ম্যাট্রিক্স যোগ করলে শেষ ফল হলো [math]f(A)+I=\begin{bmatrix}25&4&-8\\[4pt]2&41&46\\[4pt]-38&56&79\end{bmatrix}[/math]।
+
+গ এখানে [math]g\circ f(x)=g(f(x))=2\big(x^2+3x\big)-3=2x^2+6x-3[/math], যা একটি উপরের দিকে উন্মুক্ত পরাবোলা; শীর্ষ বিন্দু (vertex) [math]\big(-\tfrac{3}{2},-\tfrac{15}{2}\big)[/math], এবং y-অন্তরক [math]-3[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 414631)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]P=\left[\begin{array}{rrr}1 & 2 & -1 \\3 & -4 & 1 \\4 & -9 & -3\end{array}\right] ;[/math] [math]X=\left[\begin{array}{l}x_{1} \\x_{2} \\x_{3}\end{array}\right][/math] ও [math]Q=\left[\begin{array}{r}-2 \\0 \\8\end{array}\right][/math]
+
+Options:
+ক. এককের জটিল ঘনমূল [math]\mathrm a[/math] (যেখানে [math]\left.\mathrm a^{3}=1\right)[/math] এবং [math]\left|\begin{array}{ll}a & a^{4} \\a^{3} & a^{3}\end{array}\right|=\left|\begin{array}{cc}\frac{1}{a} & \frac{1}{a^{3}} \\\frac{1}{a^{4}} & \frac{1}{a^{2}}\end{array}\right|[/math] হলে [math]\mathrm a[/math] এর মান কত?
+খ. [math]P X=Q[/math] হলে নির্ণায়কের মাধ্যমে [math]X[/math] নির্ণয় কর।
+গ. [math]\mathrm{PM}=\mathrm{I}_{3}[/math] হলে [math]\text { M }[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]\left|\begin{array}{ll}a & a^{4} \\a^{3} & a^{3}\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ll}\frac{1}{a} & \frac{1}{a^{3}} \\\frac{1}{a^{4}} & \frac{1}{a^{2}}\end{array}\right|[/math]
+ [math]= \left|\begin{array}{ll}a & a^{3} \cdot a \\a^{3} & a^{3}\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ll}\frac{1}{a} & \frac{1}{a^{3}} \\\frac{1}{-a \cdot a^{3}} & \frac{1}{a^{2}}\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ll}\mathrm{a} & \mathrm{a} \\1 & 1\end{array}\right|=\left|\begin{array}{cc}\frac{1}{\mathrm{a}} & 1 \\\frac{1}{\mathrm{a}} & \frac{1}{\mathrm{a}^{2}}\end{array}\right|[/math]
+ [math]\left[\because \mathrm{a}^{3}=1\right][/math]
+ [math]\begin{array}{l}=a-a=\frac{1}{a^{3}}-\frac{1}{a} \\=0=1-\frac{1}{a} \\=\frac{1}{a}=1 \\\therefore \mathrm{a}=1 \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]PX = Q[/math]
+ [math]= \left[\begin{array}{rrr}1 & 2 & -1 \\3 & -4 & 1 \\4 & -9 & -3\end{array}\right]\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}-2 \\ 0 \\ 8\end{array}\right][/math]
+ [math]= \left[\begin{array}{c}x+2 y-z \\3 x-4 y+z \\ 4 x-9 y-3 z\end{array}\right]=\left[\begin{array}{c}-2 \\0 \\8\end{array}\right][/math]
+ম্যাট্রিক্সের সমতা অনুসারে পাই,[math]\begin{array}{l}x+2 y-z=-2 \\3 x-4 y+z=0 \\4 x-9 y-3 z=8\end{array}[/math]
+এখানে, x, y ও z এর সহগগুচ্ছ নিয়ে গঠিত নির্ণায়ক,[math]\mathrm{D}=\left|\begin{array}{rrr}1 & 2 & -1 \\3 & -4 & 1 \\4 & -9 & -3\end{array}\right|[/math]
+ [math]=1(12+9)-2(-9-4)-1(-27+16)[/math]
+ [math]=21+26+11=58 
+eq 0[/math]
+ [math]D_{x}=\left|\begin{array}{rrr}-2 & 2 & -1 \\0 & -4 & 1 \\8 & -9 & -3\end{array}\right|[/math]
+ [math]=-2(12+9)-2(0-8)-1(0+32)[/math]
+ [math]=-42+16-32=-58[/math]
+ [math]D_{y}=\left|\begin{array}{rrr}1 & -2 & -1 \\3 & 0 & 1 \\4 & 8 & -3\end{array}\right|[/math]
+ [math]=1(0-8)+2(-9-4)-1(24-0)[/math]
+ [math]=-8-26-24=-58[/math]
+ [math]D_{z}=\left|\begin{array}{rrr}1 & 2 & -2 \\3 & -4 & 0 \\4 & -9 & 8\end{array}\right|[/math]
+ [math]=1(-32-0)-2(24-0)-2(-27+16)[/math]
+ [math]=-32-48+22=-58[/math]
+ [math]\therefore x=\frac{D_{x}}{D}=\frac{-58}{58}=-1,[/math]
+ [math]y=\frac{D_{y}}{D}=\frac{-58}{58}=-1[/math]
+এবং [math]z=\frac{D_{z}}{D}[/math]
+ [math]=\frac{-58}{58}=-1[/math]
+ [math]\therefore X=\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}-1 \\-1 \\-1\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]\mathrm{PM}=\mathrm{I}_{3}[/math]
+ [math]\begin{array}{l}= P^{-1}(P M)=P^{-1} \cdot I_{3}\\= \left(\mathrm{P}^{-1} \mathrm{P}\right) \mathrm{M}=\mathrm{P}^{-1}\\= 1 . \mathrm{M}=\mathrm{P}^{-1}\\\therefore M=\mathrm{P}^{-1}\end{array}[/math]
+ [math]\therefore|P|=\left|\begin{array}{rrr}1 & 2 & -1 \\3 & -4 & 1 \\4 & -9 & -3\end{array}\right|[/math]
+ [math]=1\left(12^{\prime}+9\right)-2(-9-4)[/math]
+ [math]-1(-27+16)[/math]
+ [math]=21+26+11=58 
+eq 0[/math]
+ [math]\therefore \operatorname{adjp}=[/math]
+ [math]\begin{bmatrix}\left|\begin{array}{rr}-4 & 1 \\-9 & -3\end{array}\right|-\left|\begin{array}{ll}3 & 1 \\4 & -3\end{array}\right| \quad\left|\begin{array}{ll}3 & -4 \\4 & -9\end{array}\right| \\ \left|\begin{array}{rr}2 & -1 \\-9 & -3\end{array}\right| \quad\left|\begin{array}{ll}1 & -1 \\4 & -3\end{array}\right|-\left|\begin{array}{rr}1 & 2 \\4 & -9\end{array}\right|\\ \left|\begin{array}{rr}2 & -1 \\-4 & 1\end{array}\right|-\left|\begin{array}{rr}1 & -1 \\3 & 1\end{array}\right| \quad\left|\begin{array}{rr}1 & 2 \\3 & -4\end{array}\right|\end{bmatrix} ^t[/math]
+ [math]=\left[\begin{array}{rrr}21 & 13 & -11 \\15 & 1 & 17 \\-2 & -4 & -10\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rrr}21 & 15 & -2 \\13 & 1 & -4 \\-11 & 17 & -10\end{array}\right][/math]
+ [math]\therefore M=P^{-1}=\frac{\operatorname{adjp}}{|P|}=\frac{1}{58}[/math]
+ [math]\left[\begin{array}{rrr}21 & 15 & -2 \\13 & 1 & -4 \\-11 & 17 & -10\end{array}\right] \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]a^3=1[/math] হলে বামদিকের নির্ণায়কটি [math]\left|\begin{array}{cc}a & a^{4} \\ a^{3} & a^{3}\end{array}\right|=a\cdot a^{3}-a^{4}\cdot a^{3}=a^{4}(1-a^{3})=0[/math]; তাই ডানদিক থেকে [math]0=1-\dfrac{1}{a^{4}}[/math] হবে, ফলে [math]a^{4}=1[/math]। একযোগে [math]a^{3}=1[/math] হলে কেবল [math]a=1[/math] সমাধান মানানসই।
+
+খ সমীকরণগুলো সলভ করলে পাওয়া যায় [math]x_{1}=x_{2}=x_{3}=-1[/math], অর্থাৎ [math]X=\left[\begin{array}{r}-1\\-1\\-1\end{array}\right][/math] (Cramer's rule বা সরল গাউস সদ্ধান্ত দিয়ে একই ফল পাওয়া যায়)।
+
+গ [math]PM=I_{3}[/math] মানে [math]M=P^{-1}[/math]; হিসাব করে পাওয়া যায়
+[math]M=\dfrac{1}{58}\begin{pmatrix}21 & 15 & -2\\[4pt]13 & 1 & -4\\[4pt]-11 & 17 & -10\end{pmatrix},[/math]
+যা প্রত্যেক কলামকে [math]P[/math]-এর সাহায্যে একক মানে সমাধান করে পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 414632)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6\end{array}\right],[/math] [math]B=\left[\begin{array}{r}4 \\6 \\-1\end{array}\right][/math] এবং [math]C=\left[\begin{array}{llll}1 & 2 & -5 & 6\end{array}\right][/math] তিনটি ম্যাট্রিক্স ।
+
+Options:
+ক. [math]A[/math] থেকে কি নির্ণায়ক গঠন করা সম্ভব? তোমার উত্তর না সূচক হলে, তবে কেন?
+খ. [math]AB[/math] নির্ণয় কর।
+গ. [math](AB)C[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]A=\left[\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6\end{array}\right][/math]
+A থেকে নির্ণায়ক গঠন করা সম্ভব নয়। কারণ, আমরা জানি, যেকোনো বর্গ ম্যাট্রিক্সের নির্ণায়ক নির্ণয় করা সম্ভব।এখানে [math]\mathrm{A}_{2 \times 3}[/math]
+ বর্গ ম্যাট্রিক্স নয় ।[math]\\[/math]
+ খদেওয়া আছে, [math]A=\left[\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6\end{array}\right][/math]
+ এবং [math]B=\left[\begin{array}{r}4 \\6 \\-1\end{array}\right][/math]
+ [math]\therefore \mathrm{AB}[/math]
+ [math]=\left[\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{c}4 \\6 \\-1\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}1 \times 4+2 \times 6+3(-1) \\4 \times 4+5 \times 6+6(-1)\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}4+12-3 \\16+30-6\end{array}\right]=\left[\begin{array}{c}13 \\40\end{array}\right] \text { (Ans) }[/math]
+ [math]\\[/math]
+ গখ’ থেকে পাই, [math]A B=\left[\begin{array}{l}13 \\40\end{array}\right][/math]
+দেওয়া আছে[math]C=\left[\begin{array}{llll}1 & 2 & -5 & 6\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}13 \times 1 & 13 \times 2 \\40 \times 1 & 40 \times 2\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ll}13(-5) & 13 \times 6 \\40(-5) & 40 \times 6\end{array}\right][/math]
+ [math]=\left[\begin{array}{llll}13 & 26 & -65 & 78 \\40 & 80 & -200 & 240\end{array}\right] \text { (Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]A[/math] একটি [math]2\times3[/math] ম্যাট্রিক্স, নির্ণায়ক কেবল বর্গাকার (যেমন [math]n\times n[/math]) ম্যাট্রিক্সের জন্য সংজ্ঞায়িত; তাই [math]A[/math] থেকে নির্ণায়ক গঠন করা যায় না।
+
+খ গুণফল হিসেবে [math]AB[/math] একটি [math]2\times1[/math] ভেক্টর এবং গণনা করলে [math]1\cdot4+2\cdot6+3\cdot(-1)=13[/math], [math]4\cdot4+5\cdot6+6\cdot(-1)=40[/math], তাই [math]AB=\begin{bmatrix}13\\40\end{bmatrix}[/math]।
+
+গ [math](AB)C[/math] এ [math]AB[/math] হল [math]2\times1[/math] এবং [math]C[/math] হল [math]1\times4[/math], তাই ফলাফল [math]2\times4[/math] হয়; গণনা করে [math](AB)C=\begin{bmatrix}13\\40\end{bmatrix}\begin{bmatrix}1&2&-5&6\end{bmatrix}=\begin{bmatrix}13&26&-65&78\\40&80&-200&240\end{bmatrix}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 414633)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left(\begin{array}{ccc}3+a & 4 & 2 \\4 & 2+a & 3 \\2 & 3 & 4+a\end{array}\right),[/math] [math]B=\left(\begin{array}{l}x \\y \\z\end{array}\right)[/math] এবং [math]C=\left(\begin{array}{l}3 \\2 \\2\end{array}\right)[/math]
+
+Options:
+ক. [math]a=0[/math] হলে, [math]|\mathrm{A}|[/math] নির্ণয় কর ।
+খ. ম্যাট্রিক্সটি ব্যতিক্রমী হলে [math]a[/math] এর মান নির্ণয় কর ।
+গ. [math]a=-2[/math] এবং [math]A B=C[/math] হলে [math]B[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে,[math]A=\left(\begin{array}{ccc}3+a & 4 & 2 \\4 & 2+a & 3 \\2 & 3 & 4+a\end{array}\right)[/math]
+ [math]a=0[/math]
+ হলে,[math]|\mathrm{A}|=\left|\begin{array}{ccc}3+0 & 4 & 2 \\4 & 2+0 & 3 \\2 & 3 & 4+0\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}3 & 4 & 2 \\4 & 2 & 3 \\2 & 3 & 4\end{array}\right|[/math]
+ [math]=3(8-9)+4(6-16)[/math]
+$$+2(12-4)$[math]\begin{array}{l}=3 \times(-1)+4(-10) 2 \times 8 \\=-3-40+16=-27\end{array}[/math]
+নির্ণেয় [math]|A|=-27[/math]
+ [math]\\[/math]
+ খদেওয়া আছে,[math]A=\left(\begin{array}{ccc}3+a & 4 & 2 \\4 & 2+a & 3 \\2 & 3 & 4+a\end{array}\right)[/math]
+ [math]A[/math]
+ ম্যাট্রিক্সটি ব্যতিক্রমী হলে [math]|A|=0[/math]
+ [math]\Rightarrow \left|\begin{array}{ccc}3+a & 4 & 2 \\4 & 2+a & 3 \\2 & 3 & 4+a\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\Rightarrow (3+a) \cdot\{(2+a)(4+a)-9\}^{4}-4(16+4 a-6) +2(12-4-2 a)=0[/math]
+ [math]\Rightarrow(3+a) \cdot\{(2+a)(4+a)-9\}^{4}[/math]
+ [math]-4(16+4 a-6)+2(12-4-2 a)=0[/math]
+ [math]\Rightarrow(3+a)\left(a^{2}+6 a+8-9\right)[/math]
+ [math]-4(4 a+10)+2(8-2 a)=0[/math]
+ [math]\Rightarrow a^{3}+6 a^{2}-a+3 a^{2}+18 a-[/math]
+ [math]3-16 a-40+16-4 a=0[/math]
+ [math]\begin{array}{l}\Rightarrow a^{3}+9 a^{2}-3 a-27=0 \\\Rightarrow a^{2}(a+9)-3(a+9)=0 \\\Rightarrow(a+9)\left(a^{2}-3\right)=0\end{array}[/math]
+হয়, [math]a+9=0[/math]
+ [math]\begin{array}{l}\Rightarrow a=-9\\\Rightarrow a= \pm \sqrt{3}\end{array}[/math]
+অথবা, [math]a^{2}-3=0[/math]
+ [math]\Rightarrow a^{2}=3[/math]
+নির্ণেয় মান [math]a=-9, \pm \sqrt{3}[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\left(\begin{array}{ccc}3+a & 4 & 2 \\4 & 2+a & 3 \\2 & 3 & 4+a\end{array}\right),[/math]
+ [math]B=\left(\begin{array}{l}x \\y \\z\end{array}\right)[/math]
+ এবং [math]C=\left(\begin{array}{l}3 \\2 \\2\end{array}\right)[/math]
+এখন, [math]a = − 2[/math]
+ এবং [math]AB = C[/math]
+ হলে,[math]\left(\begin{array}{crc}3-2 & 4 & 2 \\4 & 2-2 & 3 \\2 & 3 & 4-2\end{array}\right)[/math]
+ [math]\left(\begin{array}{l}x \\y \\z\end{array}\right)[/math]
+ [math]=\left(\begin{array}{l}3 \\2 \\2\end{array}\right)[/math]
+ [math]\Rightarrow\left(\begin{array}{l}x+4 y+2 z \\4 x+0 . y+3 z \\2 x+3 y+2 z\end{array}\right)[/math]
+ [math]=\left(\begin{array}{l}3 \\2 \\2\end{array}\right)[/math]
+ [math]\begin{array}{l}\therefore \quad x+4 y+2 z=3 \\4 x+0 y+3 z=2 \\2 x+3 y+2 z=2\end{array}[/math]
+y, z এর সহগগুলো নিয়ে গঠিত নির্ণায়ক[math]D=\left|\begin{array}{lll}1 & 4 & 2 \\4 & 0 & 3 \\2 & 3 & 2\end{array}\right|[/math]
+ [math]=1(0-9)+4(6-8)[/math]
+ [math]+2(12-0)[/math]
+ [math]=-9-8+24=7[/math]
+ [math]\therefore \quad D_{\mathrm{x}}=\left|\begin{array}{lll}3 & 4 & 2 \\2 & 0 & 3 \\2 & 3 & 2\end{array}\right|[/math]
+ [math]=3(0-9)+4(6-4)[/math]
+ [math]+2(6-0)[/math]
+ [math]=-27+8+12=-7[/math]
+ [math]D_{y}=\left|\begin{array}{lll}1 & 3 & 2 \\4 & 2 & 3 \\2 & 2 & 2\end{array}\right|[/math]
+ [math]=1(4-6)+3(6-8)[/math]
+ [math]+2(8-4)[/math]
+ [math]=-2-6+8=0[/math]
+ [math]D_{z}=\left|\begin{array}{lll}1 & 4 & 3 \\4 & 0 & 2 \\2 & 3 & 2\end{array}\right|[/math]
+ [math]=1(0-6)+4(4-8)[/math]
+ [math]+3(12-0)[/math]
+ [math]=-6-16+36=14[/math]
+ [math]\therefore \quad x=\frac{D_{x}}{D}[/math]
+ [math]=\frac{-7}{7}=-1 ;[/math]
+ [math]y=\frac{D_{y}}{D}[/math]
+ [math]=\frac{0}{7}=0 ;[/math]
+ [math]z=\frac{D_{z}}{D}[/math]
+ [math]=\frac{14}{7}=2[/math]
+ [math]\therefore \quad \mathrm{x}=-1, \mathrm{y}=0, \mathrm{z}=2[/math]
+নির্ণেয় [math]B=\left(\begin{array}{c}-1 \\0 \\2\end{array}\right)[/math]
+
+
+Explanation:
+সমাধান:
+
+ক [math]a=0[/math] হলে ম্যাট্রিক্সটি [math]\begin{pmatrix}3&4&2\\4&2&3\\2&3&4\end{pmatrix}[/math] এবং নির্ণায়ক গণনা করলে [math]|\!A\!|=3(2\cdot4-3\cdot3)-4(4\cdot4-3\cdot2)+2(4\cdot3-2\cdot2)=-27[/math].
+
+খ সাধারণভাবে [math]|\!A\!|=a^3+9a^2-3a-27=(a+9)(a^2-3)[/math], তাই ব্যতিক্রমী (singular) হলে [math]a=-9,\;a=\sqrt3,\;a=-\sqrt3[/math]।
+
+গ [math]a=-2[/math] হলে [math]A=\begin{pmatrix}1&4&2\\4&0&3\\2&3&2\end{pmatrix}[/math] এবং সমীকরণ সেট সমাধান করলে পাই [math]B=\begin{pmatrix}-1\\0\\2\end{pmatrix}[/math] (x=−1, y=0, z=2)।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 414634)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A^{-1}=\left[\begin{array}{ll}\frac{5}{7} & \frac{1}{7} \\\frac{3}{7} & \frac{2}{7}\end{array}\right][/math] হয় তাহলে [math]A^{2}+2 A[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\therefore A^{2}+2 A=\left[\begin{array}{cc}11 & -9 \\-27 & 38\end{array}\right][/math]
+সমাধানঃ[math]A^{-1}=\left[\begin{array}{ll}\frac{5}{7} & \frac{1}{7} \\\frac{3}{7} & \frac{2}{7}\end{array}\right] \Rightarrow\left|A^{-1}\right|=\frac{1}{7} 
+eq 0 \therefore A[/math]
+ বিদ্যমান[math]\therefore A=\frac{1}{\frac{1}{7}}\left[\begin{array}{cc}\frac{2}{7} & -\frac{1}{7} \\-\frac{3}{7} & \frac{5}{7}\end{array}\right]=\left[\begin{array}{cc}2 & -1 \\-3 & 5\end{array}\right][/math]
+ [math]\therefore A^{2}=\left[\begin{array}{cc}2 & -1 \\-3 & 5\end{array}\right]\left[\begin{array}{cc}2 & -1 \\-3 & 5\end{array}\right]=\left[\begin{array}{cc}7 & -7 \\-21 & 28\end{array}\right][/math]
+ [math]2 A=\left[\begin{array}{cc}4 & -2 \\-6 & 10\end{array}\right][/math]
+ [math]\therefore A^{2}+2 A=\left[\begin{array}{cc}11 & -9 \\-27 & 38\end{array}\right][/math]
+
+
+Explanation:
+সমাধান: প্রথমে [math]A=({A^{-1}})^{-1}[/math] হিসেব করলে পাই [math]A=\begin{pmatrix}2 & -1\\ -3 & 5\end{pmatrix}[/math]. দ্বিতীয় ধাপে [math]A^2=\begin{pmatrix}7 & -7\\ -21 & 28\end{pmatrix}[/math] এবং [math]2A=\begin{pmatrix}4 & -2\\ -6 & 10\end{pmatrix}[/math]। ফলে [math]A^2+2A=\begin{pmatrix}11 & -9\\ -27 & 38\end{pmatrix}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 414635)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\left[\begin{array}{l}4 \\1 \\3\end{array}\right] A=\left[\begin{array}{lll}-4 & 8 & 4 \\-1 & 2 & 1 \\-3 & 6 & 3\end{array}\right][/math] হয়, তাহলে A ম্যাট্রিক্সটি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সুতরাং নির্ণেয় [math]A=\left[\begin{array}{lll}x & y & z\end{array}\right]=\left[\begin{array}{lll}-1 & 2 & 1\end{array}\right][/math]
+সমাধান:[math]=\left[\begin{array}{l}4 \\1 \\3\end{array}\right] ; \quad C=\left[\begin{array}{lll}-4 & 8 & 4 \\-1 & 2 & 1 \\-3 & 6 & 3\end{array}\right][/math]
+সুতরাং [math]B \times A=C[/math]
+এখন B এর ক্রম [math]3 \times 1 ; C[/math]
+ এর ক্রম [math]=3 \times 3[/math]
+সুতরাং A এর ক্রম [math]=1 \times 3[/math]
+ [math]\left[\because B_{(3 \times 1)} \times A_{(1 \times 3)}=C_{(3 \times 3)}\right][/math]
+ধরি [math]A=\left[\begin{array}{lll}x & y & z\end{array}\right][/math]
+ [math]\left[\begin{array}{l}4 \\1 \\3\end{array}\right] \times\left[\begin{array}{lll}x & y & z\end{array}\right]=\left[\begin{array}{lll}-4 & 8 & 4 \\-1 & 2 & 1 \\-3 & 6 & 3\end{array}\right][/math]
+........(i)(i) নং সমীকরণ থেকে পাই, [math]4 x=-4 \Rightarrow x=-1 ; 4 y=8 \Rightarrow y=2 ; 4 z=4 \Rightarrow z=1[/math]
+সুতরাং নির্ণেয় রাং [math]A=\left[\begin{array}{lll}x & y & z\end{array}\right]=\left[\begin{array}{lll}-1 & 2 & 1\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা: এখানে [math]\left[\begin{pmatrix}4\\1\\3\end{pmatrix}\right]A[/math] হলে A কে [math]\begin{bmatrix}a&b&c\end{bmatrix}[/math] ধরলে গুণফলটি হবে [math]\begin{bmatrix}4a&4b&4c\\a&b&c\\3a&3b&3c\end{bmatrix}[/math]। প্রথম সারি থেকে [math]4a=-4,\ 4b=8,\ 4c=4[/math] পাওয়া যায়, তাই [math]a=-1,\ b=2,\ c=1[/math] এবং [math]A=\begin{bmatrix}-1&2&1\end{bmatrix}[/math], যা বাকি সারি-মানগুলোর সাথেও খায়।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 414636)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017, 2009-2010 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A=\left[\begin{array}{ll}1 & 3 \\2 & 1\end{array}\right][/math] এবং [math]A B=\left[\begin{array}{cc}10 & 17 \\4 & 7\end{array}\right][/math] হয় তবে B ম্যাট্রিক্স এর উপাদানসমূহ বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\therefore \mathrm{B}=\left[\begin{array}{ll}1 & 2 \\2 & 3\end{array}\right][/math]
+সমাধান:[math]B=\left[\begin{array}{ll}a & b \\c & d\end{array}\right][/math]
+এখন [math]A B=\left[\begin{array}{cc}10 & 17 \\4 & 7\end{array}\right] \Rightarrow\left[\begin{array}{ll}4 & 3 \\2 & 1\end{array}\right]\left[\begin{array}{ll}a & b \\c & d\end{array}\right]=\left[\begin{array}{cc}10 & 17 \\4 & 7\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{cc}4 a+3 c & 4 b+3 d \\2 a+c & 2 b+d\end{array}\right]=\left[\begin{array}{cc}10 & 17 \\4 & 7\end{array}\right][/math]
+ [math]\begin{array}{rlrl}4 a+3 c & =10 & 4 b+3 d & =17 \\2 a+c & =4 & 2 b+d & =7\end{array}[/math]
+সমাধান করে পাই [math]\begin{array}{ll}a=1 & b=2 \\c=2 & d=3\end{array}[/math]
+ [math]\therefore B=\left|\begin{array}{ll}1 & 2 \\2 & 3\end{array}\right|[/math]
+ [math]Alternate A=\left[\begin{array}{ll}4 & 3 \\2 & 1\end{array}\right] \therefore A^{-1}=\left[\begin{array}{cc}-\frac{1}{2} & \frac{3}{2} \\1 & -2\end{array}\right][/math]
+এখন [math]A B=\left[\begin{array}{cc}10 & 17 \\4 & 17\end{array}\right] \Rightarrow A^{-1}[/math]
+ [math]\mathrm{AB}=\mathrm{A}^{-1} \cdot\left[\begin{array}{cc}10 & 17 \\4 & 7\end{array}\right][/math]
+ [math]\Rightarrow I \cdot B=B=A^{-1} \cdot\left[\begin{array}{cc}10 & 17 \\4 & 7\end{array}\right]:\left[\because \begin{array}{c}A^{-1} \cdot A=1 \\1 \cdot B=B\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{cc}-\frac{1}{2} & \frac{3}{2} \\1 & -2\end{array}\right] \cdot\left[\begin{array}{cc}10 & 17 \\4 & 7\end{array}\right]=\left[\begin{array}{ll}1 & 2 \\2 & 3\end{array}\right][/math]
+মান নির্ণয় কর [math]\left|\begin{array}{ccccc}3 & 0 & 0 & -2 & 4 \\0 & 2 & 0 & 0 & 0 \\0 & -1 & 0 & 5 & -3 \\-4 & 0 & 1 & 0 & 6 \\0 & -1 & 0 & 3 & 2\end{array}\right|[/math]
+৩য় কলাম বরাবর বিস্তার করে,[math]\Rightarrow-1\left|\begin{array}{cccc}3 & 0 & -2 & 4 \\0 & 2 & 0 & 0 \\0 & -1 & 5 & -3 \\0 & -1 & 3 &2\end{array}\right|=(-1) \times 3[/math]
+ [math]\Rightarrow\left|\begin{array}{ccc}2 & 0 & 0 \\-1 & 5 & -3 \\-1 & 3 & 2\end{array}\right|=(-1) \times 3 \times 2[/math]
+ [math]\Rightarrow\left|\begin{array}{cc}5 & -3 \\3 & 2\end{array}\right|=-6(10+9)[/math]
+ [math]\Rightarrow-114[/math]
+
+
+Explanation:
+সমাধান: কারণ [math]A B=M[/math] হলে বাম থেকে [math]A^{-1}[/math] गुण করলে [math]B=A^{-1}M[/math] পাওয়া যায়; এখানে [math]\det A=1\cdot1-3\cdot2=-5[/math], তাই [math]A^{-1}=\frac{1}{-5}\begin{pmatrix}1 & -3\\-2 & 1\end{pmatrix}=\begin{pmatrix}-\tfrac{1}{5} & \tfrac{3}{5}\\ \tfrac{2}{5} & -\tfrac{1}{5}\end{pmatrix}[/math]. ফলত [math]B=A^{-1}\begin{pmatrix}10 & 17\\4 & 7\end{pmatrix}=\begin{pmatrix}\tfrac{2}{5} & \tfrac{4}{5}\\[4pt]\tfrac{16}{5} & \tfrac{27}{5}\end{pmatrix}[/math], যা চূড়ান্ত উত্তর।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 414637)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2009-2010 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A=\left(\begin{array}{rr}\cos \theta & -\sin \theta \\\sin \theta & \cos \theta\end{array}\right)[/math] এবং [math]A^{2}=\frac{1}{2}\left(\begin{array}{cc}1 & -\sqrt{3} \\\sqrt{3} & 1\end{array}\right) ; \theta[/math] এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\begin{array}{l}\theta=\mathrm{n}\pi\pm\frac{\pi}{6}\end{array}[/math]
+ [math]A^{2}=A A=\left[\begin{array}{rr}\cos \theta & -\sin \theta \\\sin 0 & \cos \theta\end{array}\right]\left[\begin{array}{rr}\cos \theta & -\sin \theta \\\sin \theta & \cos \theta\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ll}\cos ^{2} \theta-\sin ^{2} \theta & -2 \sin \theta \cos \theta \\2 \cos 0 \sin \theta & \cos ^{2} \theta-\sin ^{2} \theta\end{array}\right][/math]
+আবার, [math]A^{2}=\left|\begin{array}{cc}\frac{1}{2} & -\frac{\sqrt{3}}{2} \\\frac{\sqrt{3}}{2} & \frac{1}{2}\end{array}\right| \quad \therefore \cos ^{2} 0-\sin ^{2} \theta=\frac{1}{2}[/math]
+ [math]\Rightarrow \cos 2 \theta=\cos 60^{\circ}=\cos \frac{\pi}{3} \Rightarrow 2 \theta=2 n \pi \pm \frac{\pi}{3}[/math]
+ [math]\Rightarrow\theta=\mathrm{n}\pi\pm\frac{\pi}{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ম্যাট্রিক্স [math]A[/math] হল [math]\theta[/math] দ্বারা ঘূর্ণনের ম্যাট্রিক্স, সুতরাং [math]A^{2}[/math] হচ্ছে [math]2\theta[/math] দ্বারা ঘূর্ণন; তাই [math]\cos2\theta=\tfrac{1}{2}[/math] এবং [math]\sin2\theta=\tfrac{\sqrt{3}}{2}[/math]. অতএব [math]2\theta=\pi/3+2k\pi[/math] এবং ফলে [math]\theta=\pi/6+k\pi[/math] (অর্থাৎ [math]30^\circ+k\cdot180^\circ[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 414638)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2005-2006 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A=\left[\begin{array}{lll}1 & 2 & 2 \\2 & 1 & 2 \\2 & 2 & 1\end{array}\right][/math] হয়, মান নির্ণয় কর [math]A^{2}-4 A-5 I[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]=\left[\begin{array}{lll}9-4-5 & 8-8-0 & 8-8-0 \\8-8-0 & 9-4-5 & 8-8-0 \\8-8-0 & 8-8-0 & 9-4-5\end{array}\right]=\left[\begin{array}{lll}0 & 0 & 0 \\0 & 0 & 0 \\0 & 0 & 0\end{array}\right][/math]
+ [math]A \cdot A=A^{2}\left[\begin{array}{lll}1 & 2 & 2 \\2 & 1 & 2 \\2 & 2 & 1\end{array}\right]\left[\begin{array}{lll}1 & 2 & 2 \\2 & 1 & 2 \\2 & 2 & 1\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}1+4+4 & 2+2+4 & 2+4+2 \\2+2+4 & 4+1+4 & 4+2+2 \\2+4+2 & 4+2+2 & 4+4+1\end{array}\right]=\left[\begin{array}{lll}9 & 8 & 8 \\8 & 9 & 8 \\8 & 8 & 9\end{array}\right][/math]
+ [math]A^{2}-4 A-5 I=\left[\begin{array}{lll}9 & 8 & 8 \\8 & 9 & 8 \\8 & 8 & 9\end{array}\right]-\left[\begin{array}{lll}4 & 8 & 8 \\8 & 4 & 8 \\8 & 8 & 4\end{array}\right]-\left[\begin{array}{lll}5 & 0 & 0 \\0 & 5 & 0 \\0 & 0 & 5\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}9-4-5 & 8-8-0 & 8-8-0 \\8-8-0 & 9-4-5 & 8-8-0 \\8-8-0 & 8-8-0 & 9-4-5\end{array}\right]=\left[\begin{array}{lll}0 & 0 & 0 \\0 & 0 & 0 \\0 & 0 & 0\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা: ধরা যাক [math]J[/math] হলো সব উপাদান 1 বিশিষ্ট [math]3\times3[/math] ম্যাট্রিক্স, তাহলে [math]A=2J-I[/math] এবং [math]J^2=3J[/math]. ফলে [math]A^2=(2J-I)^2=4J^2-4J+I=8J+I[/math], এবং তাই [math]A^2-4A-5I=(8J+I)-4(2J-I)-5I=0[/math]. অতএব ফলাফল শূন্য ম্যাট্রিক্স।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 414639)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2004-2005 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A=\left(\begin{array}{ll}3 & -2 \\1 & -2\end{array}\right), B=\left(\begin{array}{lll}1 & 2 & 3 \\0 & 1 & 5\end{array}\right)[/math] এবং [math]C=\left(\begin{array}{r}2 \\-3 \\0\end{array}\right)[/math] হয় তবে দেখাও যে, [math](A B) C=A(B C)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\therefore \text { L.H.S }=\text { R.H.S } \therefore \text { (AB) } \mathrm{C}=\mathrm{A}(\mathrm{BC}) \text { (Showed) }[/math]
+সমাধান:[math]\mathrm{AB}=\left(\begin{array}{ll}3 & -2 \\1 & -2\end{array}\right)\left(\begin{array}{lll}1 & 2 & 3 \\0 & 1 & 5\end{array}\right)[/math]
+ [math]\Rightarrow\left(\begin{array}{lll}3-0 & 6-2 & 9-10 \\1-0 & 2-2 & 3-10\end{array}\right)=\left(\begin{array}{lll}3 & 4 & -1 \\1 & 0 & -7\end{array}\right)[/math]
+ [math]B C=\left(\begin{array}{lll}1 & 2 & 3 \\0 & 1 & 5\end{array}\right)\left(\begin{array}{r}2 \\-3 \\0\end{array}\right)[/math]
+ [math]\Rightarrow\left(\begin{array}{l}2-6+0 \\0-3+0\end{array}\right)=\left(\begin{array}{l}-4 \\-3\end{array}\right)[/math]
+ [math]\therefore \text { L.H.S } \Rightarrow(A B) C=\left(\begin{array}{lll}3 & 4 & -1 \\1 & 0 & -7\end{array}\right)\left(\begin{array}{r}2 \\-3 \\0\end{array}\right)[/math]
+ [math]\Rightarrow\left(\begin{array}{c}6-12-0 \\2-0-0\end{array}\right)=\left(\begin{array}{c}-6 \\2\end{array}\right)[/math]
+ [math]\therefore \text { R.H.S } \Rightarrow A(B C)=\left(\begin{array}{ll}3 & -2 \\1 &-2\end{array}\right)\left(\begin{array}{l}-4 \\-3\end{array}\right)[/math]
+ [math]\Rightarrow\left(\begin{array}{c}-12+6 \\-4+6\end{array}\right)=\left(\begin{array}{r}-6 \\2\end{array}\right)[/math]
+ [math]\therefore \text { L.H.S }=\text { R.H.S } \therefore(\mathrm{AB}) \mathrm{C}=\mathrm{A}(\mathrm{BC}) \text { (Showed) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে গুণ করে পাই [math]AB=\begin{pmatrix}3&4&-1\\1&0&-7\end{pmatrix}[/math] এবং [math]BC=\begin{pmatrix}-4\\-3\end{pmatrix}[/math]. তারপর [math](AB)C=\begin{pmatrix}3&4&-1\\1&0&-7\end{pmatrix}\begin{pmatrix}2\\-3\\0\end{pmatrix}=\begin{pmatrix}-6\\2\end{pmatrix}[/math] এবং [math]A(BC)=\begin{pmatrix}3&-2\\1&-2\end{pmatrix}\begin{pmatrix}-4\\-3\end{pmatrix}=\begin{pmatrix}-6\\2\end{pmatrix}[/math], তাই [math](AB)C=A(BC)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 414609)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]A=\left[\begin{array}{ll}1 & 2 \\3 & 4\end{array}\right], B=\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math] [math]\mathrm{A B}=[/math] কত ?
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]\mathrm{AI}=\mathrm{A}, \mathrm{A} \pm \mathrm{I}[/math]
+ এর ক্ষেত্রে এর মূখ্য কর্ণের ভুক্তির সাথে 1 করে যথাক্রমে যোগ ও বিয়োগ করতে হবে।[math]B=\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right]=I_{2}[/math]
+ বলে [math]\mathrm{AB}=\mathrm{A}[/math]
+ [math]=\left[\begin{array}{ll}1 & 2 \\3 & 4\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা: কারণ [math]B[/math] হল ২×২ একক (identity) ম্যাট্রিক্স, তাই [math]AB=A[/math]. সরাসরি গুণ করলে [math]AB=\left[\begin{array}{ll}1 & 2 \\3 & 4\end{array}\right][/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 414611)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{c}1 \\2 \\-3\end{array}\right],[/math] [math]B=[3-2-1][/math] এবং [math]C=\left[\begin{array}{lll}1 & 0 & 3 \\0 & 9 & 4 \\5 & 0 & 1\end{array}\right][/math] হলে কোনটি নির্ণয়যোগ্য ?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+দুইটি ম্যাট্রিক্সের যোগ বা বিয়োগের ক্ষেত্রে তাদের ক্রম অবশ্যই সমান হতে হবে। আবার দুইটি ম্যাট্রিক্সের গুণের ক্ষেত্রে ১ম ম্যাট্রিক্সের কলাম সংখ্যা ২য় ম্যাট্রিক্সের সারি সংখ্যার সমান হতে হবে।[math]\therefore A B \text {}[/math] নির্ণয়যোগ্য
+
+Explanation:
+ব্যাখ্যা: নির্ণায়ক কেবল বর্গাকার ম্যাট্রিক্সের জন্য সংজ্ঞায়িত, অর্থাৎ [math]n\times n[/math] রূপরেখার জন্য। এখানে শুধুমাত্র [math]A[/math] একটি বর্গাকার ম্যাট্রিক্স হওয়ায় সেটিই নির্ণয়যোগ্য, অন্যগুলো তেমন নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 414530)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { If } A=\left[\begin{array}{ll}1 & 2 \\a & b\end{array}\right] \text { and } A^{2}=\left[\begin{array}{ll}0 & 0 \\0 & 0\end{array}\right] \text {, then the values of } a \text { and } b \text { are: }[/math]
+
+Options:
+
+
+Correct Answer: C.
+
+Solution:
+[math]A^{2}=[/math]
+ [math]\left[\begin{array}{cc}1+2 a & 2+2 b \\a+a b & 2 a+b^{2}\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}0 & 0 \\0 & 0\end{array}\right];[/math]
+ [math]1+2 a 2+2 b=0[/math]
+ [math]a=-\frac{1}{2} b=-1[/math]
+
+
+Explanation:
+Multiplying gives [math]A^{2}=\begin{pmatrix}1+2a & 2+2b \\ a(1+b) & 2a+b^{2}\end{pmatrix}[/math], so each entry must be zero: [math]1+2a=0,\;2+2b=0,\;a(1+b)=0,\;2a+b^{2}=0[/math]. From the first two [math]a=-\tfrac{1}{2},\;b=-1[/math], and these values satisfy the remaining two equations, so [math]a=-\tfrac{1}{2},\;b=-1[/math].
+
+Sub-Questions:
+

@@ -1,0 +1,3430 @@
+================================================================================
+Question #1 (ID: 410945)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]{D}=\left[\begin{array}{rrr}1 & 1 & 1 \\x & y & z \\x^{3} & y^{3} & z^{3}\end{array}\right][/math] [math]|\mathbf{D}|[/math] এর [math](2, 3)[/math] তম ভুক্তির সহগুণক কত?
+
+Options:
+ক. [math]y^{3}-x^{3}[/math]
+খ. [math]x^{3}-y^{3}[/math]
+গ. [math]x^{3}+y^{3}[/math]
+ঘ. [math]-\left(x^{3}+y^{3}\right)[/math]
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 410946)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & 2 & 3 \\-4 & 5 & 8 \\2 & 4 & 6\end{array}\right|[/math] এর মান-
+
+Options:
+A. [math]-5[/math]
+B. [math]10[/math]
+C. [math]0[/math]
+D. [math]8[/math]
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 410947)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}\mathbf{a} & \mathbf{a} & \mathbf{x} \\\mathbf{b} & \mathbf{b} & \mathbf{b} \\\mathbf{c} & \mathbf{x} & \mathbf{c}\end{array}\right|=\mathbf{0}[/math] হলে x এর সমান—
+
+Options:
+A. [math]a, b, c[/math]
+B. [math]a, c[/math]
+C. [math]\mathrm{b}, \mathrm{c}[/math]
+D. [math]a, b[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left|\begin{array}{lll}\mathrm{a} & \mathrm{a} & \mathrm{x} \\\mathrm{b} & \mathrm{b} & \mathrm{b} \\\mathrm{c} & \mathrm{x} & \mathrm{c}\end{array}\right|=[/math]
+ [math]0[/math]
+ [math]\Rightarrow \left|\begin{array}{ccc}0 & \mathrm{a}-\mathrm{x} & \mathrm{x} \\0 & 0 & \mathrm{~b} \\\mathrm{c}-\mathrm{x} & \mathrm{x}-\mathrm{c} & \mathrm{c}\end{array}\right|[/math]
+ [math]=0\left[\mathrm{c}_{1}-\mathrm{c}_{2}^{\prime}=\mathrm{c}_{1}^{\prime},\mathrm{c}_{2}-\mathrm{c}_{3}=\mathrm{c}_{2}^{\prime}\right][/math]
+ [math]\Rightarrow (\mathrm{c}-\mathrm{x})[/math]
+ [math]\{\mathrm{b}(\mathrm{a}-\mathrm{x})-0\}[/math]
+ [math]=0[/math]
+ [math]\Rightarrow (c-x)(a-x)[/math]
+ [math]=0[/math]
+ [math][b 
+eq 0] \quad[/math]
+ [math]\therefore x=a, c[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 410948)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}\mathbf{a} & \mathbf{1} & \mathbf{b}+\mathbf{c} \\\mathbf{b} & \mathbf{1} & \mathbf{c}+\mathbf{a} \\\mathbf{c} & \mathbf{1} & \mathbf{a}+\mathbf{b}\end{array}\right|[/math] এর মান-
+
+Options:
+A. [math]a b c(a+b)(b+c)(c+a)[/math]
+B. [math](a+b)(b+c)(c+a)[/math]
+C. [math]0[/math]
+D. [math]\mathrm{abc}[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left|\begin{array}{lll}a & 1 & b+c \\b & 1 & c+a \\c & 1 & a+b\end{array}\right|[/math]
+ [math]\left|\begin{array}{lll}a & 1 & a+b+c \\b & 1 & a+b+c \\c & 1 & a+b+c\end{array}\right|[/math]
+ [math]\left[c_{3}^{\prime}=c_{3}+c_{1}\right][/math]
+ [math]=(a+b+c)\left|\begin{array}{lll}a & 1 & 1 \\b & 1 & 1 \\c & 1 & 1\end{array}\right|[/math]
+ [math]\begin{array}{l}=(a+b+c) \times 0 \\=0 \mathrm{}\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 410949)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ccc}3 & 2 & 4 \\0 & 3 & 6 \\1 & -1 & -2\end{array}\right][/math] নির্ণায়কটির-
+
+(i) মান 0
+
+(ii) (2, 3) তম ভুক্তির অনুরাশি 5
+
+(iii) (2, 1) তম ভুক্তির সহগুণক 0
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও iii
+B. i ও ii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+i ও iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 410950)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A=\left|\begin{array}{cc}5 & -4 \\6 & 3\end{array}\right|[/math] হয়, তাহলে-
+
+i. [math]- 4[/math] এর অনুরাশি [math]= 6[/math]
+
+ii. [math]3[/math] এর সহগুণক [math]= -5[/math]
+
+iii. [math]|A|=39[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: খ
+
+Solution:
+3 এর সহগুণক [math]= 5[/math] তাই (ii) হবে না।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 410951)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]\left|\begin{array}{rrr}0 & 2 & 1 \\5 & 6 & 3 \\-1 & 0 & 7\end{array}\right|[/math] একটি নির্ণায়ক ।
+
+[math]3[/math] এর অনুরাশির মান = কত?
+
+Options:
+ক. [math]2[/math]
+খ. [math]42[/math]
+গ. [math]6[/math]
+ঘ. [math]10[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]3[/math]
+ এর অনুরাশি [math]=\left|\begin{array}{cc}0 & 2 \\-1 & 0\end{array}\right|=0-(-2)=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 410952)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+[math]\left|\begin{array}{rrr}0 & 2 & 1 \\5 & 6 & 3 \\-1 & 0 & 7\end{array}\right|[/math] একটি নির্ণায়ক ।
+
+[math]2[/math] এর সহগুণকের মান = কত?
+
+Options:
+ক. [math]38[/math]
+খ. [math]42[/math]
+গ. [math]-38[/math]
+ঘ. [math]42[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\Rightarrow-(5 \times 7-(-1) \times 3)[/math]
+ [math]=-38[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 410953)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}5 & 0 & 1 \\-3 & 2 & 3 \\6 & 7 & -1\end{array}\right|[/math] নির্ণায়কের [math](2, 1)[/math] তম ভুক্তির সহগুণক কত?
+
+Options:
+A. [math]-7[/math]
+B. [math]-3[/math]
+C. [math]3[/math]
+D. [math]7[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](2,1)[/math]
+ তম জুটি ভুক্তি [math]=(-3)[/math]
+ যার সহগুণক [math]-(0-7 \times 1)=7[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 410954)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & -2 & 3 \\0 & 1 & -2 \\-1 & 0 & 2\end{array}\right|[/math] এ [math](1,2)[/math] তম ভুক্তির সহগুণক কোনটি?
+
+Options:
+A. [math]-4[/math]
+B. [math]-2[/math]
+C. [math]2[/math]
+D. [math]4[/math]
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 410955)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}5 & 6 & 7 \\1 & 2 & 3 \\3 & 2 & 1\end{array}\right|[/math] এর মান হবে-
+
+Options:
+A. [math]-96[/math]
+B. [math]-22[/math]
+C. [math]0[/math]
+D. [math]40[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left|\begin{array}{lll}5 & 6 & 7 \\1 & 2 & 3 \\3 & 2 & 1\end{array}\right|[/math]
+ [math]=5(2-6)[/math]
+ [math]-6(1-9)[/math]
+ [math]+7(2-6)[/math]
+ [math]\Rightarrow -20+48-28[/math]
+ [math]=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 410956)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ll}\mathbf{a} & \mathbf{b} \\\mathbf{c} & \mathbf{d}\end{array}\right|[/math] নির্ণায়কটিতে-
+
+i. [math]a[/math] এর সহগুণক [math]d[/math]
+
+ii. [math]b[/math] এর অনুরাশি [math]c[/math]
+
+iii. নির্ণায়কের মান [math]\mathrm {a d-b c}[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+সব তথ্যই সত্য
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 410957)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left|\begin{array}{ccc}1 & -2 & 0 \\-3 & 4 & -2 \\6 & 7 & -5\end{array}\right|[/math] নির্ণায়কে [math](2, 3)[/math] তম ভুক্তির সহগুণক কত?
+
+Options:
+A. -19
+B. 19
+C. 38
+D. -38
+
+
+Correct Answer: ক
+
+Solution:
+[math](2,3)[/math]
+ তম ভুক্তির সহগুণক [math]=(-1)^{2+3}[/math]
+ [math]\left|\begin{array}{cc}1 & -2 \\6 & 7\end{array}\right|[/math]
+ [math]=-(7+12)[/math]
+ [math]=-19[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 410958)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{cc}3 & 0 \\-2 & -2\end{array}\right|[/math] নির্ণায়কের-
+
+i. [math](1, 2)[/math] তম ভুক্তির সহগুণক – [math]2[/math]
+
+ii. [math](2, 2)[/math] তম ভুক্তির অনুরাশি [math]3[/math]
+
+iii. মান – [math]6[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+i. সঠিক নয়। কারণ [math](1, 2)[/math]
+-তম ভুক্তির সহগুণক[math]\stackrel{=}{=}(-1)^{1+2}(-2)=(-1)(-2)=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 410959)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left|\begin{array}{ccc}2 & -1 & 0 \\-4 & 3 & -5 \\7 & 6 & -8\end{array}\right|[/math] নির্ণায়কে [math](2, 3)[/math] তম ভুক্তির সহগুণক কত?
+
+Options:
+A. [math]-19[/math]
+B. [math]19[/math]
+C. [math]-95[/math]
+D. [math]95[/math]
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 410961)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}1 & 2 & 1 \\1 & 2 & 2 \\1 & 2 & 4\end{array}\right|=?[/math]
+
+Options:
+A. [math]-8[/math]
+B. [math]0[/math]
+C. [math]8[/math]
+D. [math]12[/math]
+
+
+Correct Answer: খ
+
+Solution:
+১ম ও ২য় কলামের অনুরূপ ভূত্তির অনুপাত সমান [math](1/2)[/math] বলে নির্ণয়কের মান শূন্য।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 410962)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}5 & 2 & 5 \\-3 & 1 & 6 \\9 & 1 & 3\end{array}\right|[/math] নির্ণায়কের [math](1, 2)[/math] তম ভুক্তির সহগুণক কত?
+
+Options:
+A. [math]-63[/math]
+B. [math]-1[/math]
+C. [math]1[/math]
+D. [math]63[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 410963)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rr}1 & 0 \\-2 & 5\end{array}\right|[/math] নির্ণায়কের—
+
+i. [math](1, 2)[/math] তম ভুক্তির সহগুণক [math]– 2[/math]
+
+ii. [math](2. 2 )[/math] তম ভুক্তির অনুরাশি 1
+
+iii. মান [math]5[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+[math](1, 2)[/math]
+ তম ভুক্তির সহগুণক [math]-(-2)=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 410964)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ll}5 & 2 \\1 & 4\end{array}\right|[/math] নির্ণায়কটির [math](2, 1)[/math] তম ভুক্তির সহগুণক কোনটি?
+
+Options:
+ক. [math]-2[/math]
+খ. [math]-1[/math]
+গ. [math]1[/math]
+ঘ. [math]2[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math](2, 1)[/math]
+ তম ভুক্তির সহগুণক [math]= -2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 410965)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+কোনটি নির্ণায়ক?
+
+Options:
+ক. [math]\left(\begin{array}{ll}a_{1} & b_{1} \\a_{2} & b_{2}\end{array}\right)[/math]
+খ. [math]\left|\begin{array}{lll}a_{2} & b_{1} & c_{1} \\a_{2} & b_{2} & c_{2}\end{array}\right|[/math]
+গ. [math]|| \begin{array}{ll}a_{1} & b_{1} \\a_{2} & b_{2}\end{array}||[/math]
+ঘ. [math]\left|\begin{array}{ll}a_{1} & b_{1} \\a_{2} & b_{2}\end{array}\right|[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 410966)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6 \\1 & 2 & 3\end{array}\right|[/math] এর-
+
+i. মান = [math]0[/math]
+
+ii. (1, 2) তম অনুরাশি [math]=-6[/math]
+
+iii. (1,2) তম সহগুণক [math]=-6[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: খ
+
+Solution:
+[math](1, 2)[/math]
+ তম অনুরাশি [math]=12-6=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 410967)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}a_{1} & b_{1} & c_{1} \\a_{2} & b_{2} & c_{2} \\a_{3} & b_{3} & c_{3}\end{array}\right|[/math] হলে [math](1, 2)[/math] তম ভুক্তির সহগুণক কোনটি?
+
+Options:
+A. [math]a_{2} c_{3}-a_{3} c_{2}[/math]
+B. [math]a_{3} c_{2}-a_{2} c_{3}[/math]
+C. [math]b_{1} c_{3}-b_{3} c_{1}[/math]
+D. [math]b_{3} c_{1}-b_{1} c_{3}[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math](1, 2)[/math]
+ তম ভুক্তির সহগুণক [math]=-\left(a_{2} c_{3}-a_{3} c_{2}\right)[/math]
+ [math]=\mathrm{a}_{3} \mathrm{c}_{2}-\mathrm{a}_{2} \mathrm{c}_{3}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 410968)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ll}2 & 3 \\5 & 4 \end{array}\right][/math] হলে-
+
+i. [math]|\mathrm{A}|[/math] এর মান [math]-7[/math]
+
+ii. [math](1, 2)[/math] তম ভুক্তির সহগুণক [math]5[/math]
+
+iii. [math](2, 1)[/math] তম ভুক্তির অনুরাশি [math]3[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: খ
+
+Solution:
+কারণ [math](1,2)[/math]
+ তম ভুক্তির সহগুণক [math]-5[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 410969)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left|\begin{array}{ccc}\alpha_{1} & \beta_{1} & \gamma_{1} \\\alpha_{2} & -\beta_{2} & \gamma_{2} \\-\alpha_{3} & \beta_{3} & -\gamma_{3}\end{array}\right|[/math] এর মান-
+
+[math]\text { i. } \quad\left|\begin{array}{rrr}\alpha_{1} & \alpha_{2} & -\alpha_{3} \\\beta_{1} & -\beta_{2} & \beta_{3} \\\gamma_{1} & \gamma_{2} & -\gamma_{3}\end{array}\right|[/math] এর মানের সমান ।
+
+[math]\text { ii. } \quad\left|\begin{array}{ccc}\alpha_{1}+c \alpha_{2} & \alpha_{2} & -\alpha_{3} \\\beta_{1}-c \beta_{2} & -\beta_{2} & \beta_{3} \\\gamma_{1}+c \gamma_{2} & \gamma_{2} & -\beta_{3}\end{array}\right|[/math] এর মানের সমান ।
+
+[math]\text { iii. }-\left|\begin{array}{rrr}\alpha_{1} & \beta_{1} & \gamma_{1} \\-\alpha_{3} & \beta_{3} & -\gamma_{3} \\\alpha_{2} & -\beta_{2} & \gamma_{2}\end{array}\right|[/math] এর মানের সমান ।
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i
+B. ii
+C. i ও iii
+D. i, ii ও iii
+
+
+Correct Answer: .
+
+Solution:
+[বিশেষ দ্রষ্টব্য: ক ও খ উভয়ই সঠিক।]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 410970)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Cantonment College Jashore
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{cc}a-3 & -1 \\-8 & a+4\end{array}\right|[/math] এর মান শূন্য হলে [math]\mathbf{a}=[/math] কত ?
+
+Options:
+A. [math]0[/math]
+B. [math]4,-5[/math]
+C. [math]5,-4[/math]
+D. [math]3[/math]
+
+
+Correct Answer: খ
+
+Solution:
+প্রশ্নমতে, [math](a-3)(a+4)-(-8)(-1)=0[/math]
+ [math]\begin{array}{l}\Rightarrow a^{2}+a-12-8=0 \Rightarrow a^{2}+a-20=0\\\Rightarrow a^{2}+5 a-4 a-20=0 \Rightarrow a(a+5)-4(a+5)=0\\\Rightarrow (a+5)(a-4)=0 \quad \therefore a=4,-5\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 410971)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Patuakhali Government Girls' High School
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}\mathbf{a}-\mathbf{b} & \mathbf{a} & \mathbf{b} \\\mathbf{b}-\mathbf{c} & \mathbf{b} & \mathbf{c} \\\mathbf{c}-\mathbf{a} & \mathbf{c} & \mathbf{a}\end{array}\right][/math] এর মান কত ?
+
+Options:
+A. [math]1[/math]
+B. [math]4 a b c[/math]
+C. [math]\frac{\mathrm{abc}(\mathrm{a}+\mathrm{b}+\mathrm{c})^{2}}{2}[/math]
+D. [math]0[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 410972)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Comilla Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}=\left[\begin{array}{ccc}l & \mathrm{~m} & \mathrm{n} \\\mathrm{s} & \mathbf{q} & \mathbf{r} \\l & \mathrm{~m} & \mathrm{~s}\end{array}\right][/math] হলে [math]s[/math] এর কোন মানের জন্য [math]|{A}|=0[/math] হবে ?
+
+Options:
+A. [math]0[/math]
+B. [math]1[/math]
+C. [math]n[/math]
+D. [math]p[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]s = n[/math]
+ হলে ১ম ও ৩য় সারি একই হয়।ফলে তখন [math]|A|=0[/math]
+ হয় ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 410973)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}0 & 3 & 2 x+7 \\2 & 7 x & 9+5 x \\0 & 0 & 2 x+5\end{array}\right|=0[/math] হলে [math]x[/math] এর মান কত ?
+
+Options:
+A. [math]-\frac{9}{5}[/math]
+B. [math]-\frac{7}{2}[/math]
+C. [math]-\frac{5}{2}[/math]
+D. [math]0[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\begin{array}{l}\left|\begin{array}{ccc}0 & 3 & 2 x+7 \\2 & 7 x & 9+5 x \\0 & 0 & 2 x+5\end{array}\right|=0 \\\Rightarrow-3(4 x+10)=0 \Rightarrow 4 x+10=0 \quad \therefore x=-\frac{5}{2}\end{array}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 410974)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Joypurhat Girls’ Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}0 & 0 & 0 \\\mathbf{a}+\mathbf{b} & \mathbf{b} & \mathbf{2} \mathbf{c} \\\mathbf{a} & \mathbf{a}+\mathbf{c} & \mathbf{c}\end{array}\right|=[/math] কত ?
+
+Options:
+A. [math]0[/math]
+B. [math]b c-2 c a-2 c^{2}[/math]
+C. [math]\mathrm{ca}-\mathrm{bc}[/math]
+D. [math](a+b)(a-c)-a b[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]0[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 410975)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Noakhali Govt. College
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}2 & 1 & -4 \\-1 & 3 & k \\1 & 0 & -3\end{array}\right|[/math] নির্ণায়কটির [math](1,2)[/math]-তম অনুরাশি [math]9[/math] হলে, [math]k[/math] এর মান কত ?
+
+Options:
+A. [math]12[/math]
+B. [math]6[/math]
+C. [math]-6[/math]
+D. [math]-12[/math]
+
+
+Correct Answer: গ
+
+Solution:
+প্ৰশ্নমতে, [math]\left|\begin{array}{cc}-1 & k \\1 & -3\end{array}\right|=9 \Rightarrow 3-k=9 \therefore k=-6[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 410877)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}2 & 3 & 5 \\5 & 0 & 1 \\2 & 0 & 4\end{array}\right|[/math] নির্ণায়কটির (1, 2) তম ভুক্তির সহগুণক কোনটি?
+
+Options:
+ক. -18
+খ. -12
+গ. 12
+ঘ. 18
+
+
+Correct Answer: ক
+
+Solution:
+প্রদত্ত নির্ণায়ক [math]\left|\begin{array}{lll}2 & 3 & 5 \\5 & 0 & 1 \\2 & 0 & 4\end{array}\right|[/math]
+(1, 2) তম ভুক্তির সহগুণক[math]\begin{array}{l}=(-1)^{1+2}\left|\begin{array}{ll}5 & 1 \\2 & 4\end{array}\right| \\=(-1)^{3} \times(20-2) \\=-1 \times 18=-18\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 410878)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}3 & -2 & 5 \\4 & 0 & 6 \\-1 & 7 & 10\end{array}\right|[/math] নির্ণায়কের (2,3) তম ভুক্তির সহগুণক কত?
+
+Options:
+A. 114
+B. 19
+C. -19
+D. -114
+
+
+Correct Answer: গ
+
+Solution:
+প্রদত্ত নির্ণায়ক [math]\left|\begin{array}{ccc}3 & -2 & 5 \\4 & 0 & 6 \\-1 & 7 & 10\end{array}\right|[/math]
+(2, 3) 3) তম ভুক্তির সহগুণক[math]\begin{array}{l}=(-1)^{2+3}\left|\begin{array}{rr}3 & -2 \\-1 & 7\end{array}\right| \\=(-1)^{5} \times(21-2) \\=-1 \times 19=-19\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 410879)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}x & y+z & 1 \\y & x+z & 1 \\z & x+y & 1\end{array}\right|[/math] নির্ণায়কের মান কোনটি?
+
+Options:
+A. [math]4 x^{2} y^{7} z^{2}[/math]
+B. [math]4 x y z[/math]
+C. [math]1[/math]
+D. [math]0[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{lll}x & y+z & 1 \\y & x+z & 1 \\z & x+y & 1\end{array}\right|[/math]
+ [math]\Rightarrow[/math]
+ [math]\left|\begin{array}{lll}x+y+z & y+z & 1 \\y+x+z & x+z & 1 \\z+x+y & x+y & 1\end{array}\right|[/math]
+ [math]\left [c_{1}=c_{1}+c_{2}\right][/math]
+ [math]\Rightarrow (x+y+z)[/math]
+ [math]\left|\begin{array}{lll}1 & y+z & 1 \\1 & x+z & 1 \\1 & x+y & 1\end{array}\right|[/math]
+ [math]\Rightarrow (x+y+z) .0[/math]
+ কোনো নির্ণায়কের দুইটি সারি (বা কলাম) একই হলে, নির্ণায়কটির মান শূন্য হয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 410880)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}x & 0 & 1 \\0 & 1 & 2 \\2 & 1 & 3\end{array}\right],|A|=0[/math] হলে [math]x[/math] এর মান কত ?
+
+Options:
+A. 1
+B. -1
+C. -2
+D. 2
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\text {}[/math]
+ [math]|A|=\left|\begin{array}{lll}x & 0 & 1 \\0 & 1 & 2 \\2 & 1 & 3\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\Rightarrow x(3-2)[/math]
+ [math]+1(0-2)=0[/math]
+ [math]\therefore x=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 410881)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & 2 & 3 \\4 & 5 & -8 \\-5 & 6 & x\end{array}\right|[/math] এর [math](1, 2)[/math] তম অনুরাশি [math]8[/math] হলে x এর মান কত?
+
+Options:
+A. -8
+B. -5
+C. 12
+D. 13
+
+
+Correct Answer: গ
+
+Solution:
+শর্তমতে [math]\left|\begin{array}{rr}4 & -8 \\-5 & x\end{array}\right|[/math]
+ [math]=8 \Rightarrow 4 x-40[/math]
+ [math]=8[/math]
+ [math]\Rightarrow 4 x=48[/math]
+ [math]\therefore x=12[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 410882)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}2 & 5 & 4 \\y & 6 & x \\-3 & 7 & -1\end{array}\right|[/math] নির্ণায়কের [math](3, 2)[/math] তম অনুরাশির মান [math]2[/math] হলে [math]x[/math] ও [math]y[/math]এর মধ্যে সম্পর্কটি—
+
+Options:
+ক. [math]2 x+5 y=2[/math]
+খ. [math]3 x+y=2[/math]
+গ. [math]x-2 y=2[/math]
+ঘ. [math]x-2 y=1[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\text {}[/math]
+ [math](3,2)[/math]
+ তম অনুরাশি [math]\left|\begin{array}{ll}2 & 4 \\y & x\end{array}\right|=2[/math]
+ [math]\Rightarrow 2 x-4 y=2 \therefore x-2 y=1[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 410883)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & 2 & 3 \\0 & 3 & 6 \\1 & -x & -2\end{array}\right|[/math] নির্ণায়কটির [math](2, 3)[/math] তম ভুক্তির সহগুণক [math]0[/math] হলে [math]x[/math] এর মান কত?
+
+Options:
+ক. [math]-2[/math]
+খ. [math]-1[/math]
+গ. [math]1[/math]
+ঘ. [math]2[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\text {}[/math]
+প্রশ্নমতে [math](-1)^{2+3}\left|\begin{array}{rr}1 & 2 \\1 & -x\end{array}\right|=0[/math]
+ [math]\Rightarrow-(-x-2)=0 \Rightarrow x+2=0 \therefore x=-2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 410884)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}1 & 0 & 0 \\2 & 3 & 5 \\1 & 2 & 3\end{array}\right|[/math] নির্ণায়কের-
+
+i. [math](2, 3)[/math] তম ভুক্তির অনুরাশি [math]+2[/math]
+
+ii. [math](2, 2)[/math] তম ভুক্তির সহগুণক [math]3[/math]
+
+iii. নির্ণায়কটির মান [math]-1[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+i, ii ও iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 410885)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]2\left|\begin{array}{lll}2 & 5 & x \\3 & 6 & y \\4 & 7 & z\end{array}\right|[/math] নির্ণায়কের সমান কোনটি?
+
+Options:
+A. [math]\left|\begin{array}{lll}4 & 10 & \mathrm{x} \\6 & 12 & \mathrm{y} \\8 & 14 & \mathrm{z}\end{array}\right|[/math]
+B. [math]\left|\begin{array}{lll}4 & 10 & 2 x \\6 & 12 & 2 y \\8 & 14 & 2 z\end{array}\right|[/math]
+C. [math]\left|\begin{array}{lll}4 & 7 & x+2 \\6 & 8 & y+2 \\8 & 9 & z+2\end{array}\right|[/math]
+D. [math]\left|\begin{array}{lll}2 & 10 & x \\3 & 12 & y \\4 & 14 & z\end{array}\right|[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]2\left|\begin{array}{lll}2 & 5 & x \\3 & 6 & y \\4 & 7 & z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}2 & 2.5 & x \\3 & 2.6 & y \\4 & 2.7 & z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}2 & 10 & x \\3 & 12 & y \\4 & 14 & z\end{array}\right|[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 410886)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}a & 0 & 0 \\0 & b & 0 \\0 & 0 & c\end{array}\right|[/math] = ?
+
+Options:
+A. [math]a[/math]
+B. [math]ab[/math]
+C. [math]-abc[/math]
+D. [math]abc[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{lll}a & 0 & 0 \\0 & b & 0 \\0 & 0 & c\end{array}\right|[/math]
+ [math]= {a(b.c - 0.0) - 0(0.c - 0.0) + 0(0.0 - b.0)}[/math]
+ [math]= abc (Ans.)[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 410887)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}2 & -4 & 6 \\3 & x & -5 \\5 & -10 & 9\end{array}\right|=0[/math] হলে, [math]x[/math] এর মান কোনটি?
+
+Options:
+A. [math]-4[/math]
+B. [math]-6[/math]
+C. [math]5[/math]
+D. [math]6[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]2(9 x-50)-(-4)(27+25)[/math]
+ [math]+6(-30-5 x)=0[/math]
+ [math]\Rightarrow[/math]
+ [math]18 x-100+208[/math]
+ [math]-180-30 x=0[/math]
+ [math]\Rightarrow-[/math]
+ [math]72-12 x[/math]
+ [math]\therefore x[/math]
+ [math]=-6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 410888)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}p & 2 & q+r \\q & 2 & r+p \\r & 2 & p+q\end{array}\right|[/math] নির্ণায়কটির মান কত?
+
+Options:
+A. [math]0[/math]
+B. [math]1[/math]
+C. [math]pqr[/math]
+D. [math]p+q+r[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{lll}p & 2 & q+r \\q & 2 & r+p \\r & 2 & p+q\end{array}\right|[/math]
+ [math]=2\left|\begin{array}{lll}p+q+r & 1 & q+r \\p+q+r & 1 & r+p \\p+q+r & 1 & p+q\end{array}\right|[/math]
+ [math]\left[C_{1}^{\prime}=C_{1}+C_{3}\right][/math]
+ [math]\Rightarrow 2(p+q+r)\left|\begin{array}{lll}1 & 1 & q+r \\1 & 1 & r+p \\1 & 1 & p+{q}\end{array}\right|[/math]
+ [math]\Rightarrow 2(p+q+r) \times 0[/math]
+ [math]=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 410889)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের কোন নির্ণায়কের মান শূন্য?
+
+Options:
+ক. [math]\left|\begin{array}{lll}1 & 0 & 2 \\2 & 0 & 1 \\1 & 3 & 0\end{array}\right|[/math]
+খ. [math]\left|\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right|[/math]
+গ. [math]\left|\begin{array}{lll}4 & 0 & 8 \\2 & 3 & 4 \\1 & 5 & 2\end{array}\right|[/math]
+ঘ. [math]\left|\begin{array}{lll}0 & 0 & 1 \\1 & 2 & 3 \\0 & 6 & 0\end{array}\right|[/math]
+
+
+Correct Answer: গ
+
+Solution:
+অপশন (B) হতে,[math]\left|\begin{array}{lll}4 & 0 & 8 \\2 & 3 & 4 \\1 & 5 & 2\end{array}\right|[/math]
+ [math]=2\left|\begin{array}{lll}4 & 0 & 4 \\2 & 3 & 2 \\1 & 5 & 1\end{array}\right|=0[/math]
+[দুটি কলাম সমান]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 410890)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের কোন নির্ণায়কের মান শূন্য?
+
+Options:
+ক. [math]\left|\begin{array}{lll}1 & 0 & 2 \\2 & 0 & 1 \\1 & 3 & 0\end{array}\right|[/math]
+খ. [math]\left|\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right|[/math]
+গ. [math]\left|\begin{array}{lll}4 & 0 & 8 \\2 & 3 & 4 \\1 & 5 & 2\end{array}\right|[/math]
+ঘ. [math]\left|\begin{array}{lll}0 & 0 & 1 \\1 & 2 & 3 \\0 & 6 & 0\end{array}\right|[/math]
+
+
+Correct Answer: গ
+
+Solution:
+i. এর মান [math]=-3\left|\begin{array}{ll}1 & 2 \\2 & 1\end{array}\right|[/math]
+ [math]=-3(1-4)=9[/math]
+ii. এর মান [math]=1[/math]
+ [math]\left|\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right|[/math]
+ [math]=1(1-0)=1[/math]
+iii. এর মান [math]=\left|\begin{array}{lll}4 & 0 & 8 \\2 & 3 & 4 \\1 & 5 & 2\end{array}\right|[/math]
+ [math]=2\left|\begin{array}{lll}4 & 0 & 4 \\2 & 3 & 2 \\1 & 5 & 1\end{array}\right|[/math]
+ [math]=2 \times 0=0[/math]
+ [math]\quad\left[\because c 1=c_{3}\right][/math]
+[C₁ থেকে 2 কমন নিয়ে]iv. এর মান [math]=1\left|\begin{array}{ll}1 & 2 \\0 & 6\end{array}\right|[/math]
+ [math]=1 \times 6=6[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 410891)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+p এর কোন মানের জন্য [math]\left|\begin{array}{lll}1 & 2 & 3 \\1 & 2 & p \\3 & 4 & 0\end{array}\right|[/math] নির্ণায়কটির মান শূন্য হবে?
+
+Options:
+ক. [math]-\frac{3}{5}[/math]
+খ. [math]\frac{3}{5}[/math]
+গ. [math]-3[/math]
+ঘ. [math]3[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{lll}1 & 2 & 3 \\1 & 2 & p \\3 & 4 & 0\end{array}\right|=0[/math]
+ [math]\Rightarrow 1(0-4 p)-2(0-3 p)+3(4-6)=0[/math]
+ [math]\Rightarrow -4 p+6 p-6=0[/math]
+ [math]\therefore p=3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 410892)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}\mathbf{p} & \mathbf{2} & \mathbf{q}+\mathbf{r} \\\mathbf{q} & \mathbf{2} & \mathbf{r}+\mathbf{p} \\\mathbf{r} & \mathbf{2} & \mathbf{p}+\mathbf{q}\end{array}\right|[/math] নির্ণায়কটির মান কত ?
+
+Options:
+A. [math]0[/math]
+B. [math]1[/math]
+C. [math]\text { pqr }[/math]
+D. [math]p+q+r[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\text {}[/math]
+ [math]\left|\begin{array}{lll}p & 2 & q+r \\q & 2 & r+p \\r & 2 & p+q\end{array}\right|[/math]
+ [math]=2\left|\begin{array}{lll}p+q+r & 1 & q+r \\p+q+r & 1 & r+p \\p+q+r & 1 & p+q\end{array}\right|[/math]
+ [math]\left[C_{1}=C_{1}+C_{3}\right][/math]
+ [math]\Rightarrow2(p+q+r)[/math]
+ [math]\left|\begin{array}{lll}1 & 1 & q+r \\1 & 1 & r+p \\1 & 1 & p+q\end{array}\right|[/math]
+ [math]\Rightarrow2(p+q+r)[/math]
+ [math]\times 0=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 410893)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]p[/math] এর কোন মানের জন্য [math]\left|\begin{array}{lll}1 & 2 & 3 \\1 & 2 & p \\3 & 4 & 0\end{array}\right|[/math] নির্ণায়কটির মান শূন্য হবে?
+
+Options:
+ক. [math]-\frac{3}{5}[/math]
+খ. [math]\frac{3}{5}[/math]
+গ. [math]-3[/math]
+ঘ. [math]3[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\text {}[/math]
+ [math]\left|\begin{array}{lll}1 & 2 & 3 \\1 & 2 & p \\3 & 4 & 0\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\Rightarrow 1(0-4 p)[/math]
+ [math]-2(0-3 p)+3(4-6)=0[/math]
+ [math]\Rightarrow -4 p+6 p-6=0[/math]
+ [math]\therefore p=3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 410894)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]k[/math] এর কোন মানের জন্য [math]\left|\begin{array}{ccc}1 & 1 & 1 \\1 & k & k^{2} \\1 & k^{2} & k^{4}\end{array}\right|[/math] নির্ণায়কটির মান শূন্য হবে না?
+
+Options:
+ক. [math]k=1[/math]
+খ. [math]k=-1[/math]
+গ. [math]\mathrm{k}=3[/math]
+ঘ. k=0$
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left|\begin{array}{ccc}0 & 0 & 1 \\1-k & k(1-k) & k^{2} \\1-k^{2} & k^{2}\left(1-k^{2}\right) & k^{4}\end{array}\right|[/math]
+ [math]=k(1-k)^{2}[/math]
+ [math]\left|\begin{array}{ccc}0 & 0 & 1 \\1 & 1 & k^{2} \\1+k & k(1+k) & k^{4}\end{array}\right|[/math]
+ [math]=k(1-k)^{2}[/math]
+ [math](1+k)(k-1)[/math]
+ [math]\therefore k=0,1,-1[/math]
+ এর জন্য নির্ণায়কের মান [math]0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 410895)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}\alpha & \alpha & x \\\beta & \beta & \beta \\\theta & x & \theta\end{array}\right|=0, x=?[/math]
+
+Options:
+A. [math]\alpha, \beta, \theta[/math]
+B. [math]\alpha, \theta[/math]
+C. [math]\beta, \theta[/math]
+D. [math]\alpha, \beta[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left|\begin{array}{lll}\alpha & \alpha & x \\\beta & \beta & \beta \\\theta & x & \theta\end{array}\right|[/math]
+ [math]=\beta\left|\begin{array}{lll}\alpha & \alpha & x \\1 & 1 & 1 \\\theta & x & \theta\end{array}\right|[/math]
+ [math]=\beta\left|\begin{array}{lll}0 & \alpha & x-\alpha \\0 & 1 & 0 \\\theta-x & x & \theta-x\end{array}\right|[/math]
+ [math]\Rightarrow-\beta(\theta-x)(x-\alpha)[/math]
+ [math]=\beta(x-\alpha)(x-\theta)=0[/math]
+ [math]\therefore x=\alpha \text { or, } x=\theta[/math]
+[বি.দ্র. [math]\mathrm{MCQ}[/math]
+ এর জন্য [math]\text { Option }[/math]
+ এর মান গুলো বসিয়ে [math]\text { Chek }[/math]
+ করলেই হবে।][math]x=\alpha[/math]
+ হলে [math]\left|\begin{array}{lll}\alpha & \alpha & \alpha \\\beta & \beta & \beta \\\theta & \alpha & \theta\end{array}\right|[/math]
+ [math]=\alpha \beta\left|\begin{array}{lll}1 & 1 & 1 \\1 & 1 & 1 \\\theta & \alpha & \theta\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]x=\theta[/math]
+ হলে [math]\left|\begin{array}{lll}\alpha & \alpha & \theta \\\beta & \beta & \beta \\\theta & \theta & \theta\end{array}\right|[/math]
+ [math]=\beta \theta\left|\begin{array}{lll}\alpha & \alpha & \theta \\1 & 1 & 1 \\1 & 1 & 1\end{array}\right|=0[/math]
+ [math]x=\beta[/math]
+ হলে [math]\left|\begin{array}{lll}\alpha & \alpha & \beta \\\beta & \beta & \beta \\\theta & \beta & \theta\end{array}\right|[/math]
+ [math]=\beta(\beta-\alpha)(\beta-\theta) 
+eq 0[/math]
+ [math]\therefore \text { Ans; } x=\alpha \text { or, } x=\theta[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 410896)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2009-2010, 2019-2020, 2017-2018 | Boards:  | Tags: University of Dhaka (A Unit), Jessore University of Science & Technology (A Unit), Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}1 & \omega & \omega^{2} \\\omega & \omega^{2} & 1 \\\omega^{2} & 1 & \omega\end{array}\right|=?[/math]
+
+Options:
+A. [math]1[/math]
+B. [math]\omega[/math]
+C. [math]\omega^{2}[/math]
+D. [math]0[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{ccc}1 & \omega & \omega^{2} \\\omega & \omega^{2} & 1 \\\omega^{2} & 1 & \omega\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}1+\omega+\omega^{2} & \omega & \omega^{2} \\\omega+\omega^{2}+1 & \omega^{2} & 1 \\\omega^{2}+1+\omega & 1 & \omega\end{array}\right|[/math]
+ [math]\quad\left[c_{1}^{\prime}=c_{1}+c_{2}+c_{3}\right][/math]
+ [math]=\left|\begin{array}{ccc}0 & \omega & \omega^{2} \\0 & \omega^{2} & 1 \\0 & 1 & \omega\end{array}\right|=0[/math]
+ [math]\left[\therefore 1+\omega+\omega^{2}=0\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 410897)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2002-2003 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}0 & 3 & 2 x+7 \\2 & 7 x & 9+5 x \\0 & 0 & 2 x+5\end{array}\right|=0[/math] হলে, [math]x[/math] এর মান কত?
+
+Options:
+A. [math]\frac{3}{2}[/math]
+B. 0
+C. [math]-\frac{5}{2}[/math]
+D. [math]\frac{5}{2}[/math]
+
+
+Correct Answer: গ
+
+Solution:
+তৃতীয় [math]\text { Row }[/math]
+তে দুইটি [math]0[/math]
+ থাকায় এই বরাবর বিস্তার করে, [math]2 x+5\left|\begin{array}{cc}0 & 3 \\2 & 7 x\end{array}\right|[/math]
+ [math]\Rightarrow 6(2 x+5)=0:[/math]
+ [math]x=-\frac{5}{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 410898)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2002-2003, 2011-2012, 2011-2012, 2010-2011, 2010-2011, 2010-2011, 2009-2010, 2006-2007 | Boards:  | Tags: University of Dhaka (A Unit), Jahangirnagar University (A Unit), University of Rajshahi (C Unit), Jagannath University (A Unit), University of Rajshahi (C Unit), Jahangirnagar University (A Unit), Jagannath University (A Unit), University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}10 & 13 & 16 \\11 & 14 & 17 \\12 & 15 & 18\end{array}\right|[/math] নির্ণায়কের মান-
+
+Options:
+A. [math]0[/math]
+B. [math]1[/math]
+C. [math]10[/math]
+D. [math]5[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{lll}10 & 13 & 16 \\11 & 14 & 17 \\12 & 15 & 18\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}10 & 13 & 16 \\1 & 1 & 1 \\2 & 2 & 2\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}10 & 13 & 16 \\1 & 1 & 1 \\0 & 0 & 0\end{array}\right|=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 410899)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011, 2008-2009, 2006-2007 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Shahjalal University of Science & Technology (B Unit), Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\omega[/math] যদি [math]1[/math] এর একটি জটিল ঘনমূল হয়,তবে [math]\left|\begin{array}{ccc}1 & -\omega & \omega^{2} \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|[/math] নির্ণায়কটির মান কত?
+
+Options:
+A. [math]4[/math]
+B. [math]2[/math]
+C. [math]3[/math]
+D. [math]\text { None of the above }[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{ccc}1 & -\omega & \omega^{2} \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|[/math]
+ [math]=-\omega^{3}-1+\omega\left(\omega^{2}-\omega^{2}\right)[/math]
+ [math]+\omega^{2}\left(-\omega-\omega^{4}\right)[/math]
+ [math]\Rightarrow-2+0+\omega^{2} -2 \omega[/math]
+ [math]=-2-2 \omega^{3}[/math]
+ [math]=-4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 410900)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2009-2010, 2011-2012, 2007-2008 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { The value of }[/math] [math]\left|\begin{array}{ccc}\log x & \log y & \log z \\\log 2 x & \log 2 y & \log 2 z \\\log 3 x & \log 3 y & \log 3 z\end{array}\right|[/math] [math]\text { is - }[/math]
+
+Options:
+A. [math]\log \frac{2}{3}[/math]
+B. [math]0[/math]
+C. [math]\log \frac{3}{2}[/math]
+D. [math]1[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\text { (b); }\left|\begin{array}{lll}\log x & \log y & \log z \\\log 2 x & \log 2 y & \log 2 z \\\log 3 x & \log 3 y & \log 3 z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log z \\\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log 2 z \\\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log 3 z\end{array}\right|[/math]
+ [math]\left[c_{1}^{\prime}=c_{1}-c_{2}, c_{2}^{\prime}=c_{2}-c_{3}\right][/math]
+ [math]=\log \left(\frac{x}{x}\right) \log \left(\frac{y}{z}\right)[/math]
+ [math]\left|\begin{array}{ccc}1 & 1 & \log z \\1 & 1 & \log 2 z \\1 & 1 & \log 3 z\end{array}\right|[/math]
+ [math]=0[/math]
+ [নির্ণায়কের দুইটি কলাম একই হওয়ায় নির্ণায়কটির মান শূন্য
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 410901)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2005-2006, 2010-2011 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]X[/math] এর কোন কোন মানের জন্য নিম্নলিখিত নির্ণায়কের মান শূন্য হবে? [math]\left|\begin{array}{ccc}x^{2} & x & 2 \\2 & 1 & 1 \\0 & 0 & -5\end{array}\right|[/math]
+
+Options:
+ক. [math]x=0,-2[/math]
+খ. [math]x=1,2[/math]
+গ. [math]x=0,1[/math]
+ঘ. [math]x=0,2[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{ccc}x^{2} & x & 2 \\2 & 1 & 1 \\0 & 0 & -5\end{array}\right|[/math]
+ [math]=-5\left|\begin{array}{cc}x^{2} & x \\2 & 1\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\Rightarrow\left(x^{2}-2 x\right)[/math]
+ [math]=0[/math]
+ [math]\Rightarrow x(x-2)=0[/math]
+ [math]\therefore x=0,2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 410902)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021-2022 | Boards:  | Tags: General and Science Technology (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]i^{2}=-1[/math] হলে [math]\left|\begin{array}{ccc}i & i^{3} & i+i^{3} \\i^{3} & i^{5} & i^{3}+i^{5} \\i^{5} & i^{7} & i^{5}+i^{7}\end{array}\right|=?[/math]
+
+Options:
+A. [math]-1[/math]
+B. [math]0[/math]
+C. [math]1[/math]
+D. [math]i[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]i^{2}=-1, i^{3}[/math]
+ [math]=-i, i^{4}=i,[/math]
+ [math]i^{5}=i, i^{7}=-i[/math]
+ [math]\left|\begin{array}{ccc}i & i^{3} & i+i^{3} \\i^{3} & i^{5} & i^{3}+i^{5} \\i^{5} & i^{7} & i^{5}+i^{7}\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}i & -i & 0 \\-i & i & 0 \\i & -i & 0\end{array}\right|=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 410903)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Jahangirnagar University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\left|\begin{array}{cc}\beta-2 & 1 \\-5 & \beta+4\end{array}\right|=0[/math] হয় [math]\beta[/math] এর মান কোনটি?
+
+Options:
+A. 3,3
+B. 2,1
+C. 3,1
+D. 1, -3
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](\beta-2)(\beta+4)+5=0[/math]
+ [math]\Rightarrow \beta^{2}+2 \beta-3=0[/math]
+ [math]\therefore \beta=1,-3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 410904)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019, 2011-2012 | Boards:  | Tags: Jessore University of Science & Technology (A Unit), Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{vmatrix}x+y & x & y \\x & x+z & z \\ y & z & y+z \end{vmatrix}[/math] =?
+
+Options:
+A. 4xyz
+B. 3xyz
+C. 2xyz
+D. xyz
+
+
+Correct Answer: ক
+
+Solution:
+সমাধানঃ(a)[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]=2\left|\begin{array}{ccc}x+y & x & y \\x+z & x+z & z \\y+z & z & y+z\end{array}\right|[/math]
+ [math]\left[c_{1}^{\prime}=c_{1}+c_{2}+c_{3}\right][/math]
+ [math]=2\left|\begin{array}{ccc}y & x & y \\0 & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\left[c_{1}{ }^{\prime}=c_{1}-c_{2}\right]=2[/math]
+ [math]\left|\begin{array}{ccc}y & x & 0 \\0 & x+z & z \\y & z & z\end{array}\right|[/math]
+ [math]\left[c_{3}{ }^{\prime}=c_{3}-c_{1}\right][/math]
+ [math]=2\left|\begin{array}{lll}y & x & 0 \\0 & x & z \\y & 0 & z\end{array}\right|[/math]
+ [math]\left[c_{2}^{\prime}=c_{2}-c_{3}\right]=2 x y z[/math]
+ [math]\left|\begin{array}{lll}1 & 1 & 0 \\0 & 1 & 1 \\1 & 0 & 1\end{array}\right|=4 \mathrm{xyz}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 410905)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Jahangirnagar University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+নির্ণায়ক [math]\left|\begin{array}{lll}1 & a & b+c \\1 & b & c+a \\1 & c & a+b\end{array}\right|[/math] এর মান কোনটি?
+
+Options:
+A. a+b+c
+B. [math]( a + b + c )^ 2[/math]
+C. 0
+D. 1+a+b+c
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left|\begin{array}{lll}1 & a & b+c \\1 & b & c+a \\1 & c & a+b\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}1 & a & a+b+c \\1 & b & a+b+c \\1 & c & a+b+c\end{array}\right|[/math]
+ [math]\Rightarrow(a+b+c) \times 0=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 410906)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}1 & -\omega & \omega^{2} \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|=[/math] কত?
+
+Options:
+A. -4
+B. 4
+C. 8
+D. ω
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{ccc}1 & -\omega & \omega^{2} \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|[/math]
+ [math]=1\left(-\omega^{3}-1\right)-\omega\left(\omega^{2}-\omega^{2}\right)[/math]
+ [math]+\omega^{2}[/math]
+ [math]\left(-\omega\omega^{4}\right)[/math]
+ [math]=-2-2 \omega^{3}[/math]
+ [math]=-2-2=-4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 410907)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019, 2011-2012 | Boards:  | Tags: Jessore University of Science & Technology (C Unit), Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|=?[/math]
+
+Options:
+A. [math]4 x y z[/math]
+B. [math]3 x y z[/math]
+C. [math]2 x y z[/math]
+D. [math]x y z[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]x=1, y=2[/math]
+ [math]z=3[/math]
+ ধরে [math]\text { Option check }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 410908)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}265 & 240 & 219 \\240 & 225 & 198 \\219 & 198 & 181\end{array}\right|[/math] এর মান কোনটি?
+
+Options:
+A. [math]11[/math]
+B. [math]9[/math]
+C. [math]8[/math]
+D. [math]10[/math]
+E. [math]0[/math]
+
+
+Correct Answer: E. [math]0[/math]
+
+Solution:
+সমাধান: Use Calculator
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 410909)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018, 2014-2015, 2012-2013, 2010-2011, 2008-2009, 2008-2009 | Boards:  | Tags: Khulna University of Engineering & Technology, Islamic University of Technology, Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology, Khulna University of Engineering & Technology, Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math] এর মান কত?
+
+Options:
+A. [math]4xyz[/math]
+B. [math]2xyz[/math]
+C. [math]2xyz^2[/math]
+D. [math]xy^2z[/math]
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ এ [math](x, y, z)[/math]
+ [math]\Rightarrow(1,2,3)[/math]
+ বসিয়ে পাই [math]\left|\begin{array}{lll}3 & 1 & 2 \\1 & 4 & 3 \\2 & 3 & 5\end{array}\right|[/math]
+ [math]=24[/math]
+ [math]\text { (a) } 4 x y z[/math]
+ [math]=4[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=24[/math]
+ [math]\text { (b) } \frac{1}{2} x y z[/math]
+ [math]=\frac{1}{2}[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=3[/math]
+ [math]\text { (c) } \frac{1}{7} x y z[/math]
+ [math]=\frac{1}{7}[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=\frac{6}{7}[/math]
+ [math]\text { (d) } 11 \mathrm{xyz}[/math]
+ [math]=11.1 .2 .3[/math]
+ [math]=66[/math]
+ [math]\text { (e) } 13 x y z[/math]
+ [math]=13[/math]
+ [math]\cdot 1 \cdot 2.3=78[/math]
+ [math]\text { Alternate: }[/math]
+ [math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}0 & -2 z & -2 z \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\Rightarrow-2 z\left|\begin{array}{ccc}0 & 1 & 1 \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\Rightarrow-2 z[/math]
+ [math]\left|\begin{array}{ccc}0 & 0 & 1 \\x & x & z \\y & -y & y+z\end{array}\right|[/math]
+ [math]=-2 z(-x y-x y)[/math]
+ [math]=4 x y z[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 410910)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { If }\left|\begin{array}{ccc}1+x & x & 2 \\3 & 2 & 1 \\2 & 5 & 7\end{array}\right|=0 \text { then, } x=\text { ? }[/math]
+
+Options:
+A. [math]\frac{5}{2}[/math]
+B. [math]-\frac{31}{10}[/math]
+C. [math]\frac{3}{37}[/math]
+D. [math]\text { None }[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]x=\frac{31}{10}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 410911)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2002-2003, 2011-2012, 2011-2012, 2010-2011, 2010-2011, 2010-2011, 2009-2010, 2006-2007 | Boards:  | Tags: University of Dhaka (A Unit), University of Rajshahi (C Unit), Jahangirnagar University (A Unit), Jagannath University (A Unit), University of Rajshahi (C Unit), Jahangirnagar University (A Unit), Jagannath University (A Unit), University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}10 & 13 & 16 \\11 & 14 & 17 \\12 & 15 & 18\end{array}\right|[/math] নির্ণায়কের মান-
+
+Options:
+A. [math]0[/math]
+B. [math]1[/math]
+C. [math]10[/math]
+D. [math]5[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{lll}10 & 13 & 16 \\11 & 14 & 17 \\12 & 15 & 18\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}10 & 13 & 16 \\1 & 1 & 1 \\2 & 2 & 2\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}10 & 13 & 16 \\1 & 1 & 1 \\0 & 0 & 0\end{array}\right|=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 410912)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2009-2010, 2011-2012, 2007-2008 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { The value of }[/math] [math]\left|\begin{array}{ccc}\log x & \log y & \log z \\\log 2 x & \log 2 y & \log 2 z \\\log 3 x & \log 3 y & \log 3 z\end{array}\right|[/math] [math]\text { is - }[/math]
+
+Options:
+A. [math]\log \frac{2}{3}[/math]
+B. [math]0[/math]
+C. [math]\log \frac{3}{2}[/math]
+D. [math]1[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\text { (b); }\left|\begin{array}{lll}\log x & \log y & \log z \\\log 2 x & \log 2 y & \log 2 z \\\log 3 x & \log 3 y & \log 3 z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log z \\\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log 2 z \\\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log 3 z\end{array}\right|[/math]
+ [math]\left[c_{1}^{\prime}=c_{1}-c_{2}, c_{2}^{\prime}=c_{2}-c_{3}\right][/math]
+ [math]=\log \left(\frac{x}{x}\right) \log \left(\frac{y}{z}\right)[/math]
+ [math]\left|\begin{array}{ccc}1 & 1 & \log z \\1 & 1 & \log 2 z \\1 & 1 & \log 3 z\end{array}\right|[/math]
+ [math]=0[/math]
+ [নির্ণায়কের দুইটি কলাম একই হওয়ায় নির্ণায়কটির মান শূন্য
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 410913)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2005-2006, 2010-2011 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]X[/math] এর কোন কোন মানের জন্য নিম্নলিখিত নির্ণায়কের মান শূন্য হবে? [math]\left|\begin{array}{ccc}x^{2} & x & 2 \\2 & 1 & 1 \\0 & 0 & -5\end{array}\right|[/math]
+
+Options:
+ক. [math]x=0,-2[/math]
+খ. [math]x=1,2[/math]
+গ. [math]x=0,1[/math]
+ঘ. [math]x=0,2[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{ccc}x^{2} & x & 2 \\2 & 1 & 1 \\0 & 0 & -5\end{array}\right|[/math]
+ [math]=-5\left|\begin{array}{cc}x^{2} & x \\2 & 1\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\Rightarrow\left(x^{2}-2 x\right)[/math]
+ [math]=0[/math]
+ [math]\Rightarrow x(x-2)=0[/math]
+ [math]\therefore x=0,2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 410914)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019, 2011-2012 | Boards:  | Tags: Jessore University of Science & Technology (A Unit), Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{vmatrix}x+y & x & y \\x & x+z & z \\ y & z & y+z \end{vmatrix}[/math] =?
+
+Options:
+A. 4xyz
+B. 3xyz
+C. 2xyz
+D. xyz
+
+
+Correct Answer: ক
+
+Solution:
+সমাধানঃ(a)[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]=2\left|\begin{array}{ccc}x+y & x & y \\x+z & x+z & z \\y+z & z & y+z\end{array}\right|[/math]
+ [math]\left[c_{1}^{\prime}=c_{1}+c_{2}+c_{3}\right][/math]
+ [math]=2\left|\begin{array}{ccc}y & x & y \\0 & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\left[c_{1}{ }^{\prime}=c_{1}-c_{2}\right]=2[/math]
+ [math]\left|\begin{array}{ccc}y & x & 0 \\0 & x+z & z \\y & z & z\end{array}\right|[/math]
+ [math]\left[c_{3}{ }^{\prime}=c_{3}-c_{1}\right][/math]
+ [math]=2\left|\begin{array}{lll}y & x & 0 \\0 & x & z \\y & 0 & z\end{array}\right|[/math]
+ [math]\left[c_{2}^{\prime}=c_{2}-c_{3}\right]=2 x y z[/math]
+ [math]\left|\begin{array}{lll}1 & 1 & 0 \\0 & 1 & 1 \\1 & 0 & 1\end{array}\right|=4 \mathrm{xyz}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 410915)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019, 2011-2012 | Boards:  | Tags: Jessore University of Science & Technology (C Unit), Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|=?[/math]
+
+Options:
+A. [math]4 x y z[/math]
+B. [math]3 x y z[/math]
+C. [math]2 x y z[/math]
+D. [math]x y z[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]x=1, y=2[/math]
+ [math]z=3[/math]
+ ধরে [math]\text { Option check }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 410916)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018, 2014-2015, 2012-2013, 2010-2011, 2008-2009, 2008-2009 | Boards:  | Tags: Khulna University of Engineering & Technology, Islamic University of Technology, Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology, Khulna University of Engineering & Technology, Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math] এর মান কত?
+
+Options:
+A. [math]4xyz[/math]
+B. [math]2xyz[/math]
+C. [math]2xyz^2[/math]
+D. [math]xy^2z[/math]
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ এ [math](x, y, z)[/math]
+ [math]\Rightarrow(1,2,3)[/math]
+ বসিয়ে পাই [math]\left|\begin{array}{lll}3 & 1 & 2 \\1 & 4 & 3 \\2 & 3 & 5\end{array}\right|[/math]
+ [math]=24[/math]
+ [math]\text { (a) } 4 x y z[/math]
+ [math]=4[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=24[/math]
+ [math]\text { (b) } \frac{1}{2} x y z[/math]
+ [math]=\frac{1}{2}[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=3[/math]
+ [math]\text { (c) } \frac{1}{7} x y z[/math]
+ [math]=\frac{1}{7}[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=\frac{6}{7}[/math]
+ [math]\text { (d) } 11 \mathrm{xyz}[/math]
+ [math]=11.1 .2 .3[/math]
+ [math]=66[/math]
+ [math]\text { (e) } 13 x y z[/math]
+ [math]=13[/math]
+ [math]\cdot 1 \cdot 2.3=78[/math]
+ [math]\text { Alternate: }[/math]
+ [math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}0 & -2 z & -2 z \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\Rightarrow-2 z\left|\begin{array}{ccc}0 & 1 & 1 \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\Rightarrow-2 z[/math]
+ [math]\left|\begin{array}{ccc}0 & 0 & 1 \\x & x & z \\y & -y & y+z\end{array}\right|[/math]
+ [math]=-2 z(-x y-x y)[/math]
+ [math]=4 x y z[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 410917)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Patuakhali Science And Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}1 & -1 & 5 \\0 & 1 & x \\2 & -3 & 4\end{array}\right|[/math] নির্ণায়কটির [math](1,2)[/math]- তম অনুরাশি [math]– 6[/math] হলে [math]x[/math] এর মান কত ?
+
+Options:
+A. [math]-2[/math]
+B. [math]-3[/math]
+C. [math]3[/math]
+D. [math]6[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left|\begin{array}{ll}0 & x \\2 & 4\end{array}\right|=-6[/math]
+ [math]\Rightarrow-2 x=-6[/math]
+ [math]\Rightarrow x=3[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 410918)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]D=\left|\begin{array}{ccc}-a^{2} & a b & a c \\a b & -b^{2} & b c \\a c & b c & -c^{2}\end{array}\right|[/math] হলে [math]D[/math] এর মান কত?
+
+Options:
+A. [math]4abc[/math]
+B. [math]abc[/math]
+C. [math]4 a^{2} b^{2} c^{2}[/math]
+D. [math]\mathrm{a}^{2} \mathrm{~b}^{2} \mathrm{c}^{2}[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\Rightarrow\mathrm{D}=\left|\begin{array}{ccc}-\mathrm{a}^{2} & \mathrm{ab} & \mathrm{ac} \\\mathrm{ab} & -\mathrm{b}^{2} & \mathrm{bc} \\\mathrm{ac} & \mathrm{bc} & -\mathrm{c}^{2}\end{array}\right|[/math]
+ [math]\Rightarrow a b c\left|\begin{array}{ccc}-a & b & c \\a & -b & c \\a & b & -c\end{array}\right|[/math]
+ [math]\Rightarrow a^{2} b^{2} c^{2}\left|\begin{array}{ccc}-1 & 1 & 1 \\1 & -1 & 1 \\1 & 1 & -1\end{array}\right|[/math]
+ [math]\Rightarrow 4 a^{2} b^{2} c^{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 410919)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: Khulna University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ll}3 & x \\2 & 1\end{array}\right|[/math] নির্ণায়কটির মান [math](-1)[/math] হলে [math]x[/math] এর মান কত ?
+
+Options:
+A. [math]-2[/math]
+B. [math]0[/math]
+C. [math]2[/math]
+D. [math]4[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]3-2 x=-1 \Rightarrow 4=2 x[/math]
+ [math]\therefore x=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 410920)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}1 & a & b+c \\1 & b & c+a \\1 & c & a+b\end{array}\right|[/math] নির্ণায়কের মান কত?
+
+Options:
+A. [math]a+b+c[/math]
+B. [math]0[/math]
+C. [math]1[/math]
+D. [math]abc[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left|\begin{array}{lll}1 & a & b+c \\1 & b & c+a \\1 & c & n+b\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}1 & a & a+b+c \\1 & b & a+b+c \\1 & c & a+b+c\end{array}\right|[/math]
+ [math]\left[C_{3}^{\prime}=C_{3}+C_{2}\right][/math]
+ [math]\Rightarrow(a+b+c)[/math]
+ [math]\left|\begin{array}{lll}1 & a & 1 \\1 & b & 1 \\1 & c & 1\end{array}\right|[/math]
+ [math]\Rightarrow(a+b+c)[/math]
+ [math]\times 0=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 410921)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\omega[/math] যদি [math]I[/math] এর একটি জটিল ঘনমূল হয়, তবে [math]\left|\begin{array}{ccc}1 & -\omega & \omega^2 \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|[/math] নির্ণায়কটির মান নিচের কোনটি?
+
+Options:
+A. [math]4[/math]
+B. [math]3[/math]
+C. [math]-3[/math]
+D. [math]-4[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{ccc}1 & -\omega & \omega^{2} \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|[/math]
+ [math]=1 \times\left(-\omega^{3}-1\right)[/math]
+ [math]+\omega\left(\omega^{2}-\omega^{2}\right)+\omega^{2}\left(-\omega-\omega^{4}\right)[/math]
+ [math]=1 \times(-2)+\omega^{3}[/math]
+ [math]\times(0)+\omega^{3}[/math]
+ [math]\times(-2)=-4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 410922)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}\ln x & \ln y & \ln z \\\ln 2 x & \ln 2 y & \ln 2 z \\\ln 3 x & \ln 3 y & \ln 3 z\end{array}\right|=[/math] কত?
+
+Options:
+A. [math]0[/math]
+B. [math]\ln (x+y+z)[/math]
+C. [math]\ln (2 x+2 y+2 z)[/math]
+D. [math]x+y+z[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]0[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 410923)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2011-2012 | Boards:  | Tags: Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+নিচের নির্ণায়কে [math](-2a)[/math] এর সহগুণক কত?
+
+[math]\left\lvert\, \begin{array}{cc}1+a^{2}-b^{2} & 2 a \\2 a b & 1-a^{2}+b^{2} \\2 b & -2 a\end{array}\right.[/math] [math]\quad[/math] [math]\left.\begin{array}{ccc}-2b \\2a \\ 1-a^{2}-b^{2}\end{array}\right|[/math]
+
+Options:
+ক. [math]\left(1-a^{4}\right)-b^{2}\left(4-b^{2}\right)[/math]
+খ. [math]2 a\left(1+a^{2}+b^{2}\right)[/math]
+গ. [math]\left(1+a^{2}+b^{2}\right)^{3}[/math]
+ঘ. [math]\left(1+a^{2}+b^{2}\right)[/math]
+ঙ. [math]-2 a\left(1+a^{2}+b^{2}\right)[/math]
+
+
+Correct Answer: E. [math]-2 a\left(1+a^{2}+b^{2}\right)[/math]
+
+Solution:
+[math](-1)^{3+2}[/math]
+ [math]\left|\begin{array}{cc}1+\mathrm{a}^{2}-\mathrm{b}^{2} & -2 \mathrm{~b} \\2 \mathrm{ab} & 2 \mathrm{a}\end{array}\right|[/math]
+ [math]\Rightarrow(-1)[/math]
+ [math]\left[2 a+2 a^{3}-2 a b^{2}+4 a b^{2}\right][/math]
+ [math]\Rightarrow-2 a[/math]
+ [math]\left(1+a^{2}+b^{2}\right)[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 410924)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { If }\left|\begin{array}{lll}a & b & c \\d & e & f \\g & h & i\end{array}\right|[/math] [math]=-6 \text { then }[/math] [math]\left|\begin{array}{ccc}3 a & 3 b & 3 c \\-d & -e & -f \\4 g & 4 h & 4 i\end{array}\right|[/math] [math]=\text { ? }[/math]
+
+Options:
+A. [math]76[/math]
+B. [math]-72[/math]
+C. [math]6[/math]
+D. [math]24[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{lll}a & b & c \\d & e & f \\g & h & i\end{array}\right|[/math]
+ [math]=-6 \Rightarrow\left|\begin{array}{ccc}3 a & 3 b & 3 c \\-d & -e & -f \\4 g & 4 h & 4 i\end{array}\right|[/math]
+ [math]=(-6) \times 3 \times(-1) \times 4[/math]
+ [math]=72[/math]
+ [math]\left[r_{1}^{\prime}:=3 r_{1}, r_{2}^{\prime}=-r_{2}, r_{3}^{\prime}=4 r_{3}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 410925)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}1 & 1 & 1 \\1 & 1+x & 1 \\1 & 1 & 1+y\end{array}\right|[/math] নির্ণায়কটির মান নির্ণয় কর।
+
+Options:
+A. [math]xy[/math]
+B. [math]x^{2} y[/math]
+C. [math]x+y[/math]
+D. [math]x y^{2}[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{ccc}1 & 1 & 1 \\1 & 1+x & 1 \\1 & 1 & 1+y\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}0 & -x & 0 \\0 & x & -y \\1 & 1 & 1+y\end{array}\right|[/math]
+ [math]=x y[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 410926)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left|\begin{array}{lll}2 & 3 & 1 \\4 & 5 & 9 \\6 & 7 & 8\end{array}\right|[/math] হলে [math]7[/math] উপাদানটির অনুরাশি = ?
+
+Options:
+A. [math]14[/math]
+B. [math]-4[/math]
+C. [math]-14[/math]
+D. [math]32[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\mathrm{A}=\left|\begin{array}{lll}2 & 3 & 1 \\4 & 5 & 9 \\6 & 7 & 8\end{array}\right| 7[/math]
+ এর অনুরাশি [math]=2 \times 9-1 \times 4=14[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 410927)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Pabna University of Science and Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}1 & 1 & 1 \\1 & 2 & 3 \\1 & 4 & k\end{array}\right|[/math] নির্ণায়কটির মান [math]2; k[/math] এর মান কত?
+
+Options:
+A. [math]9[/math]
+B. [math]8[/math]
+C. [math]7[/math]
+D. [math]6[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\left|\begin{array}{ccc}0 & 1-2 & 1-3 \\0 & 2-4 & 3-k \\1 & 4 & k\end{array}\right|[/math]
+ [math]=\left|\begin{array}{cc}-1 & -2 \\-2 & 3-k\end{array}\right|[/math]
+ [math]\therefore \mathrm{k}[/math]
+ [math]-3-4=0[/math]
+ [math]\Rightarrow \mathrm{k}=7[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 410928)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2007-2008 | Boards:  | Tags: Sher-e-Bangla Agricultural University, Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}4 & 8 & 12 \\4 & 4 & 6 \\1 & 2 & 3\end{array}\right|[/math] এর মান কত?
+
+Options:
+A. [math]-1[/math]
+B. [math]0[/math]
+C. [math]1[/math]
+D. [math]2[/math]
+
+
+Correct Answer: খ
+
+Solution:
+মান [math]=4(12-12)[/math]
+ [math]-8(12-6)[/math]
+ [math]+12(8-4)[/math]
+ [math]=0-48+48=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #83 (ID: 410929)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2011-2012 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+নির্ণায়কটির মান বের কর: [math]\left|\begin{array}{ccc}1 & \mathrm{a} & \mathrm{a}^{2} \\1 & \mathrm{~b} & \mathrm{~b}^{2} \\1 & \mathrm{c} & \mathrm{c}^{2}\end{array}\right|[/math]
+
+Options:
+A. [math](a-c)(a-b)(b-c)[/math]
+B. [math](a-b)(b-c)(c-a)[/math]
+C. [math](\mathrm{a}-\mathrm{b})(\mathrm{c}-\mathrm{b})(\mathrm{c}-\mathrm{a})[/math]
+D. [math](a-b)(a-c)(a-b)[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\left|\begin{array}{lll}1 & \mathrm{a} & \mathrm{a}^{2} \\\mathrm{l} & \mathrm{b} & \mathrm{b}^{2} \\\mathrm{l} & \mathrm{c} & \mathrm{c}^{2}\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}0 & \mathrm{a}-\mathrm{b} & \mathrm{a}^{2}-\mathrm{b}^{2} \\0 & \mathrm{~b}-\mathrm{c} & \mathrm{b}^{2}-\mathrm{c}^{2} \\1 & \mathrm{c} & \mathrm{c}^{2}\end{array}\right|[/math]
+ [math]\Rightarrow(a-b)\left(b^{2}-c^{2}\right)[/math]
+ [math]-(b-c)[/math]
+ [math]\left(a^{2}-b^{2}\right)[/math]
+ [math]\Rightarrow(\mathrm{a}-\mathrm{b})(\mathrm{b}-\mathrm{c})[/math]
+ [math](\mathrm{b}+\mathrm{c}-\mathrm{a}-\mathrm{b})[/math]
+ [math]=(\mathrm{a}-\mathrm{b})(\mathrm{b}-\mathrm{c})(\mathrm{c}-\mathrm{a})[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #84 (ID: 410930)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { If } \omega \text { is a complex cube root of unity, then the value of the determinant }[/math] [math]\left|\begin{array}{ccc}1 & \omega & \omega^{2} \\\omega & \omega^{2} & 1 \\\omega^{2} & 1 & \omega\end{array}\right| \text { will be- }[/math]
+
+Options:
+A. [math]0[/math]
+B. [math]1[/math]
+C. [math]\omega[/math]
+D. [math]\omega^{2}[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{ccc}1 & \omega & \omega^{2} \\\omega & \omega^{2} & 1 \\\omega^{2} & 1 & \omega\end{array}\right|[/math]
+ [math]\text { applying } R_{1}[/math]
+ [math]\rightarrow R_{1}+R_{2}+R_{3}[/math]
+ [math]\text { gives }[/math]
+ [math]\left|\begin{array}{ccc}0 & 0 & 0 \\\omega & \omega^{2} & 1 \\\omega^{2} & 1 & \omega\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\left(\because 1+\omega+\omega^{2}=0\right)[/math]
+ [math]\begin{array}{l}\therefore\left|\begin{array}{ccc}1 & \omega & \omega^{2} \\\omega & \omega^{2} & 1 \\\omega^{2} & 1 & \omega\end{array}\right|=0\\\text{}\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #85 (ID: 410931)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2002-2003, 2011-2012, 2011-2012, 2010-2011, 2010-2011, 2010-2011, 2009-2010, 2006-2007 | Boards:  | Tags: University of Dhaka (A Unit), University of Rajshahi (C Unit), Jahangirnagar University (A Unit), University of Rajshahi (C Unit), Jagannath University (A Unit), Jahangirnagar University (A Unit), Jagannath University (A Unit), University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}10 & 13 & 16 \\11 & 14 & 17 \\12 & 15 & 18\end{array}\right|[/math] নির্ণায়কের মান-
+
+Options:
+A. [math]0[/math]
+B. [math]1[/math]
+C. [math]10[/math]
+D. [math]5[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{lll}10 & 13 & 16 \\11 & 14 & 17 \\12 & 15 & 18\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}10 & 13 & 16 \\1 & 1 & 1 \\2 & 2 & 2\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}10 & 13 & 16 \\1 & 1 & 1 \\0 & 0 & 0\end{array}\right|=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #86 (ID: 410932)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011, 2008-2009, 2006-2007 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Shahjalal University of Science & Technology (B Unit), Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\omega[/math] যদি [math]1[/math] এর একটি জটিল ঘনমূল হয়,তবে [math]\left|\begin{array}{ccc}1 & -\omega & \omega^{2} \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|[/math] নির্ণায়কটির মান কত?
+
+Options:
+A. [math]4[/math]
+B. [math]2[/math]
+C. [math]3[/math]
+D. [math]\text { None of the above }[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left|\begin{array}{ccc}1 & -\omega & \omega^{2} \\-\omega & \omega^{2} & 1 \\\omega^{2} & 1 & -\omega\end{array}\right|[/math]
+ [math]=-\omega^{3}-1+\omega\left(\omega^{2}-\omega^{2}\right)[/math]
+ [math]+\omega^{2}\left(-\omega-\omega^{4}\right)[/math]
+ [math]\Rightarrow-2+0+\omega^{2} -2 \omega[/math]
+ [math]=-2-2 \omega^{3}[/math]
+ [math]=-4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #87 (ID: 410933)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2009-2010, 2011-2012, 2007-2008 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { The value of }[/math] [math]\left|\begin{array}{ccc}\log x & \log y & \log z \\\log 2 x & \log 2 y & \log 2 z \\\log 3 x & \log 3 y & \log 3 z\end{array}\right|[/math] [math]\text { is - }[/math]
+
+Options:
+A. [math]\log \frac{2}{3}[/math]
+B. [math]0[/math]
+C. [math]\log \frac{3}{2}[/math]
+D. [math]1[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\text { (b); }\left|\begin{array}{lll}\log x & \log y & \log z \\\log 2 x & \log 2 y & \log 2 z \\\log 3 x & \log 3 y & \log 3 z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log z \\\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log 2 z \\\log \left(\frac{x}{y}\right) & \log \left(\frac{y}{z}\right) & \log 3 z\end{array}\right|[/math]
+ [math]\left[c_{1}^{\prime}=c_{1}-c_{2}, c_{2}^{\prime}=c_{2}-c_{3}\right][/math]
+ [math]=\log \left(\frac{x}{x}\right) \log \left(\frac{y}{z}\right)[/math]
+ [math]\left|\begin{array}{ccc}1 & 1 & \log z \\1 & 1 & \log 2 z \\1 & 1 & \log 3 z\end{array}\right|[/math]
+ [math]=0[/math]
+ [নির্ণায়কের দুইটি কলাম একই হওয়ায় নির্ণায়কটির মান শূন্য
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #88 (ID: 410934)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018, 2014-2015, 2012-2013, 2010-2011, 2008-2009, 2008-2009 | Boards:  | Tags: Khulna University of Engineering & Technology, Islamic University of Technology, Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology, Khulna University of Engineering & Technology, Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math] এর মান কত?
+
+Options:
+A. [math]4xyz[/math]
+B. [math]2xyz[/math]
+C. [math]2xyz^2[/math]
+D. [math]xy^2z[/math]
+
+
+Correct Answer: ক
+
+Solution:
+সমাধান:[math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ এ [math](x, y, z)[/math]
+ [math]\Rightarrow(1,2,3)[/math]
+ বসিয়ে পাই [math]\left|\begin{array}{lll}3 & 1 & 2 \\1 & 4 & 3 \\2 & 3 & 5\end{array}\right|[/math]
+ [math]=24[/math]
+ [math]\text { (a) } 4 x y z[/math]
+ [math]=4[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=24[/math]
+ [math]\text { (b) } \frac{1}{2} x y z[/math]
+ [math]=\frac{1}{2}[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=3[/math]
+ [math]\text { (c) } \frac{1}{7} x y z[/math]
+ [math]=\frac{1}{7}[/math]
+ [math]\cdot 1 \cdot 2 \cdot 3=\frac{6}{7}[/math]
+ [math]\text { (d) } 11 \mathrm{xyz}[/math]
+ [math]=11.1 .2 .3[/math]
+ [math]=66[/math]
+ [math]\text { (e) } 13 x y z[/math]
+ [math]=13[/math]
+ [math]\cdot 1 \cdot 2.3=78[/math]
+ [math]\text { Alternate: }[/math]
+ [math]\left|\begin{array}{ccc}x+y & x & y \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{ccc}0 & -2 z & -2 z \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\Rightarrow-2 z\left|\begin{array}{ccc}0 & 1 & 1 \\x & x+z & z \\y & z & y+z\end{array}\right|[/math]
+ [math]\Rightarrow-2 z[/math]
+ [math]\left|\begin{array}{ccc}0 & 0 & 1 \\x & x & z \\y & -y & y+z\end{array}\right|[/math]
+ [math]=-2 z(-x y-x y)[/math]
+ [math]=4 x y z[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #89 (ID: 410935)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2007-2008 | Boards:  | Tags: Sher-e-Bangla Agricultural University, Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}4 & 8 & 12 \\4 & 4 & 6 \\1 & 2 & 3\end{array}\right|[/math] এর মান কত?
+
+Options:
+A. [math]-1[/math]
+B. [math]0[/math]
+C. [math]1[/math]
+D. [math]2[/math]
+
+
+Correct Answer: খ
+
+Solution:
+মান [math]=4(12-12)[/math]
+ [math]-8(12-6)[/math]
+ [math]+12(8-4)[/math]
+ [math]=0-48+48=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #90 (ID: 410936)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2008-2009 | Boards:  | Tags: Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}0 & 0 & 1 \\a-b & b-c & c \\a^{2}-b^{2} & b^{2}-c^{2} & c^{2}\end{array}\right|=?[/math]
+
+Options:
+A. [math](a-b)(b-c)(c-a)[/math]
+B. [math](b-a)(b-c)(c-a)[/math]
+C. [math](a-b)(c-b)(c-a)[/math]
+D. [math](a-b)(b-c)(a-c)[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math]\left|\begin{array}{ccc}0 & 0 & 1 \\a-b & b-c & c \\a^{2}-b^{2} & b^{2}-c^{2} & c^{2}\end{array}\right|[/math]
+ [math]=(a-b)(b-c)[/math]
+ [math]\left|\begin{array}{cc}1 & 1 \\a+b & b+c\end{array}\right|[/math]
+ [math]=(a-b)[/math]
+ [math](b-c)[/math]
+ [math](c-a)[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #91 (ID: 410937)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}-3 & 0 & -2 \\7 & -6 & 3 \\-4 & 7 & 1\end{array}\right|=[/math] কত ?
+
+Options:
+A. [math]85[/math]
+B. [math]56[/math]
+C. [math]41[/math]
+D. [math]31[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]-3\left|\begin{array}{rr}-6 & 3 \\7 & 1\end{array}\right|-0[/math]
+ [math]+(-2)\left|\begin{array}{rr}7 & -6 \\-4 & 7\end{array}\right|[/math]
+ [math]\Rightarrow[/math]
+ [math]-3(-6-21)-2(49-24)[/math]
+ [math]=81-50[/math]
+ [math]=31[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #92 (ID: 410938)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}4 & 5 & 2 \\-m & -3 & 1 \\6 & -2 & 4\end{array}\right|[/math] নির্ণায়কটির [math](3, 2)[/math] তম ভুক্তির সহগুণক [math]–8[/math] হলে [math]\mathrm {m}=[/math] কত?
+
+Options:
+A. [math]-6[/math]
+B. [math]-2[/math]
+C. [math]2[/math]
+D. [math]6[/math]
+
+
+Correct Answer: গ
+
+Solution:
+প্রদত্ত নির্ণায়কটির [math](3, 2)[/math]
+-তম ভুক্তির সহগুণক[math]=(-1)^{3+2}[/math]
+ [math]\left|\begin{array}{rr}4 & 2 \\-m & 1\end{array}\right|[/math]
+ [math]=-(4+2 m)[/math]
+প্রশ্নমতে, [math]-(4+2 m)=-8[/math]
+ [math]\Rightarrow 4+2 m=8[/math]
+ [math]\Rightarrow 2 m=8-4[/math]
+ [math]\Rightarrow 2 m=4[/math]
+ [math]\therefore m=2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #93 (ID: 410939)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & 3 & 4 \\3 & -1 & -6 \\-1 & 5 & 2\end{array}\right|[/math] নির্ণায়কটির [math](2, 3)[/math]-তম ভুক্তির অনুরাশি নিচের কোনটি?
+
+Options:
+ক. [math]8[/math]
+খ. [math]2[/math]
+গ. [math]-2[/math]
+ঘ. [math]-8[/math]
+
+
+Correct Answer: ক
+
+Solution:
+প্রদত্ত নির্ণায়কটির [math](2, 3)[/math]
+ তম ভুক্তির অনুরাশি [math]=\left|\begin{array}{rr}1 & 3 \\-1 & 5\end{array}\right|=5-(-3[/math]
+ [math]\Rightarrow 5+3=8[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #94 (ID: 410940)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]W=\left[\begin{array}{rrr}-1 & 4 & 2 \\0 & 3 & -4 \\5 & -2 & 1\end{array}\right][/math] হলে-
+
+i. [math]|\mathrm{W}|[/math] এর [math]( 3, 1)[/math]-তম ভুক্তির সহগুণক [math]22[/math]
+
+ii. [math]|\mathrm{W}|[/math] এর [math](2, 2)[/math]-তম ভুক্তির অনুরাশি - [math]11[/math]
+
+iii. [math]W_{12}-4 W_{33}=0[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i, ii ও iii
+
+
+Correct Answer: গ
+
+Solution:
+[math]\text { (1) }|w|[/math]
+ এর [math](3,1)[/math]
+ তম ভুক্তির অনুরাশি [math]=\left|\begin{array}{cc}4 & 2 \\3 & -4\end{array}\right|=-22[/math]
+ [math]\therefore[/math]
+ সহগুনক [math]=(-1)^{3+1} \mathrm x[/math]
+ অনুরাশি[math]= -22[/math]
+ (সঠিক)[math]\text { (ii) }|w|[/math]
+ এর [math](2,2)[/math]
+ তম ভুক্তির অনুরাশি [math]=\left|\begin{array}{cc}-1 & 2 \\5 & 1\end{array}\right|=-11[/math]
+ (সঠিক)[math]\text { (iii) } w_{12}-4 w_{33}=0[/math]
+ (সঠিক)[math]\text { Here } w_{12}=\left|\begin{array}{cc}0 & -4 \\5 & 1\end{array}\right|[/math]
+ [math]; w_{33}=\left|\begin{array}{cc}-1 & 4 \\0 & 3\end{array}\right|[/math]
+ [math]4 w_{33}=\left|\begin{array}{rr}-4 & 16 \\0 & 12\end{array}\right|[/math]
+ [math]\therefore w_{12}-4 w_{33}=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #95 (ID: 410941)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]|A|=\left|\begin{array}{rrr}2 & a & 3 \\0 & 4 & -3 \\5 & 12 & 6\end{array}\right|[/math] [math]\mathrm a[/math] এর সহগুণকের মান কত?
+
+Options:
+ক. [math]-3 a-12[/math]
+খ. [math]15[/math]
+গ. [math]20[/math]
+ঘ. [math]-15[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+a এর সহগুণক [math]=-\{0 \times[/math]
+ [math]6-(-3) \times 5\}[/math]
+ [math]=-15[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #96 (ID: 410942)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}\mathbf{p} & \mathbf{q} & \mathbf{p}+\mathbf{q} \\\mathbf{p} & \mathbf{q} & \mathbf{q}+\mathbf{r} \\\mathbf{p} & \mathbf{q} & \mathbf{q}+\mathbf{p}\end{array}\right|[/math] নির্ণায়কের মান কত?
+
+Options:
+A. [math]p+q^{}+r[/math]
+B. [math]0[/math]
+C. [math]\text { pqr }[/math]
+D. [math]1[/math]
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #97 (ID: 410943)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}(1+a)^{3} & 0 & 0 \\0 & (1+a)^{2} & 0 \\0 & 0 & (1+a)\end{array}\right|=0[/math] হলে, [math]\mathrm {a}[/math] এর মান কত?
+
+Options:
+A. [math]-1[/math]
+B. [math]0[/math]
+C. [math]1[/math]
+D. [math]3[/math]
+
+
+Correct Answer: ক
+
+Solution:
+[math](1+a)^{6}=0 \Rightarrow 1+a=0 \therefore a=-1[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #98 (ID: 410944)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}2 & 1 & 1 \\0 & -5 & -2 \\1 & -3 & 4\end{array}\right|[/math] নির্ণায়কটিতে [math](– 2)[/math] এর সহগুণক কত?
+
+Options:
+A. [math]-7[/math]
+B. [math]-\frac{1}{7}[/math]
+C. [math]\frac{1}{7}[/math]
+D. [math]7[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math](-2)[/math]
+ এর সহগুণক [math]=(-1)^{2+3}[/math]
+ [math]\left|\begin{array}{rr}2 & 1 \\1 & -3\end{array}\right|[/math]
+ [math]=-(-6-1)=7[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #99 (ID: 410863)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}-2 & 4 & 5 \\0 & 1 & 2 \\3 & -2 & 5\end{array}\right|[/math] নির্ণায়কের (2, 3) তম ভুক্তির সহগুণক কত?
+
+Options:
+A. [math]-8[/math]
+B. [math]-4[/math]
+C. [math]4[/math]
+D. [math]8[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\therefore[/math]
+ প্রদত্ত নির্ণায়কের (2, 3) তম ভুক্তির সহগুণক [math]=(-1)^{2+3}\left|\begin{array}{rr}-2 & 4 \\3 & -2\end{array}\right|[/math]
+ [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\begin{array}{l}=(-1)^{5} \times(4-12) \\=-1 \times(-8)=8\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #100 (ID: 410864)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}13 & 0 & 2 \\3 & 1 & 1 \\7 & -2 & 0\end{array}\right|[/math] এর (1, 3) তম ভূক্তির সহগুণক কত?
+
+Options:
+A. [math]-13[/math]
+B. [math]-2[/math]
+C. [math]2[/math]
+D. [math]13[/math]
+
+
+Correct Answer: ক
+
+Solution:
+প্রদত্ত নির্ণায়ক, [math]\left|\begin{array}{ccc}13 & 0 & 2 \\3 & 1 & 1 \\7 & -2 & 0\end{array}\right|[/math]
+ [math]\therefore(1,3)[/math]
+ তম ভূক্তির সহগুণক [math]=(-1)^{1+3}\left|\begin{array}{cc}3 & 1 \\7 & -2\end{array}\right|[/math]
+ [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\begin{array}{l}=(-1)^{4} \times(-6-7) \\=1 \times(-13) \\=-13\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #101 (ID: 410865)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}2 & 2 & 5 \\2 & 2 & 6 \\2 & 2 & 7\end{array}\right|[/math] এর (2, 3) তম ভুক্তির অনুরাশি নিচের কোনটি?
+
+Options:
+A. [math]2[/math]
+B. [math]0[/math]
+C. [math]5[/math]
+D. [math]7[/math]
+
+
+Correct Answer: খ
+
+Solution:
+প্রদত্ত নির্ণায়ক, [math]\left|\begin{array}{lll}2 & 2 & 5 \\2 & 2 & 6 \\2 & 2 & 7\end{array}\right|[/math]
+ [math]\therefore(2,3)[/math]
+ তম ভুক্তির অনুরাশি [math]=\left|\begin{array}{ll}2 & 2 \\2 & 2\end{array}\right|[/math]
+ [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=4-4=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #102 (ID: 410866)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}+7 & -7 & 0 \\-1 & 2 & -1 \\5 & P & 3\end{array}\right|[/math] এ এর সহগুণক কোনটি?
+
+Options:
+A. [math]-7[/math]
+B. [math]-6[/math]
+C. [math]6[/math]
+D. [math]7[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+প্রদত্ত নির্ণায়ক [math]\left|\begin{array}{rrr}+7 & -7 & 0 \\-1 & 2 & -1 \\5 & \mathrm{P} & 3\end{array}\right|[/math]
+ [math]\therefore \mathrm{P}[/math]
+ এর সহগুণক [math]=(-1)^{3+2}\left|\begin{array}{cc}+7 & 0 \\-1 & -1\end{array}\right|[/math]
+ [math]~~~~~~~~~~~~~~~~~~~~~~~~~~\begin{array}{l}=(-1)^{5} \times(-7+0) \\=-1 \times(-7)\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #103 (ID: 410867)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}0 & 1 & \omega \\1 & \omega & \omega^{2} \\\omega & 1 & \omega^{2}\end{array}\right|[/math] এর মান কত?
+
+Options:
+A. [math]\omega-\omega^{2}[/math]
+B. [math]\omega^{2}[/math]
+C. [math]\omega+\omega^{2}[/math]
+D. [math]\omega^{2}-\omega[/math]
+
+
+Correct Answer: ক
+
+Solution:
+প্রদত্ত নির্ণায়ক,[math]\begin{array}{l}\left|\begin{array}{ccc}0 & 1 & \omega \\1 & \omega & \omega^{2} \\\omega & 1 & \omega^{2}\end{array}\right| \\= 0-1\left(\omega^{2}-\omega^{3}\right)+\omega\left(1-\omega^{2}\right) \\=-\omega^{2}+\omega^{3}+\omega-\omega^{3}\end{array}[/math]
+ [math]=\omega-\omega^{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #104 (ID: 410868)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{rrr}6 & 0 & -3 \\0 & 7 & 0 \\-3 & 0 & 5\end{array}\right][/math] একটি-
+
+i. বর্গ ম্যাট্রিক্স
+
+ii. প্রতিসম ম্যাট্রিক্স
+
+iii. ব্যতিক্রমী ম্যাটিক্স
+
+Options:
+A. [math]i[/math] ও [math]ii[/math]
+B. [math]i~ও ~iii[/math]
+C. ii ও iii
+D. [math]i, ii ~ও ~iii[/math]
+
+
+Correct Answer: ক
+
+Solution:
+মনে করি, [math]A=\left[\begin{array}{rrr}6 & 0 & -3 \\0 & 7 & 0 \\-3 & 0 & 5\end{array}\right][/math]
+• বর্গ ম্যাট্রিক্স (Square Matrix): কোন ম্যাট্রিক্সের সারি এবং কলামের সংখ্যা সমান হলে তাকে বর্গ ম্যাট্রিক্স বলে।এখানে, ম্যাট্রিক্সের সারি এবং কলাম সংখ্যা সমান অর্থাৎ ম্যাট্রিক্সের ক্রম [math]3 \times 3[/math]
+ ।তাই A একটি বর্গ ম্যাট্রিক্স।[math]\therefore \text { (i) }[/math]
+ নং সঠিক।• প্রতিসম ম্যাট্রিক্স (Symmetric Matrix): একটি বর্গ ম্যাট্রিক্স A কে প্রতিসম ম্যাট্রিক্স বলা হবে যদি [math]A^{T}=A[/math]
+ হয়।এখানে [math]A^{T}=\left[\begin{array}{ccc}6 & 0 & -3 \\0 & 7 & 0 \\-3 & 0 & 5\end{array}\right]^{T}=\left[\begin{array}{ccc}6 & 0 & -3 \\0 & 7 & 0 \\-3 & 0 & 5\end{array}\right]=A[/math]
+ [math]\therefore \text { (ii) }[/math]
+ নং সঠিক।• ব্যতিক্রমী ম্যাট্রিক্স (Singular Matrix): কোনো ম্যাট্রিক্স A এর নির্ণায়কের মান অর্থাৎ [math]|A|=0[/math]
+ হলে A কে ব্যতিক্রমী ম্যাট্রিক্স বলে।[math]\begin{aligned}\therefore|A|=\left|\begin{array}{rrr}6 & 0 & -3 \\0 & 7 & 0 \\-3 & 0 & 5\end{array}\right| & =6(35-0)-0(0-0)-3(0+21) \\& =210-0-63=147 
+eq 0\end{aligned}[/math]
+ [math]\therefore \text { (iii) }[/math]
+ নং সঠিক নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #105 (ID: 410869)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}6 & 0 & 0 \\0 & 7 & 0 \\0 & 0 & 8\end{array}\right][/math] একটি [math]-[/math]
+
+i. কর্ণ ম্যাট্রিক্স
+
+ii. বর্গ ম্যাট্রিক্স
+
+iii. ফেলার ম্যাট্রিক্স
+
+Options:
+A. [math]i \text { ও ii }[/math]
+B. [math]i~ও ~iii[/math]
+C. [math]i i \text { ও iii }[/math]
+D. [math]i, ii ~ও ~iii[/math]
+
+
+Correct Answer: ক
+
+Solution:
+• কর্ণ ম্যাট্রিক্স (Diagonal Matrix): কোনো বর্গ ম্যাট্রিক্সের প্রধান কর্ণের ভুক্তি ব্যতীত অপর সকল ভুক্তি শূন্য হলে তা কর্ণ ম্যাট্রিক্স হবে।এখানে, প্রদত্ত ম্যাট্রিক্সের প্রধান কর্ণের ভুক্তি ব্যতীত সকল ভুক্তি শূন্য। তাই, ইহা একটি কর্ণ ম্যাট্রিক্স।[math]\therefore \text { (i) }[/math]
+ নং সঠিক।• বর্গ ম্যাট্রিক্স (Square Matrix): কোনো ম্যাট্রিক্সের সারি এবং কলামের সংখ্যা সমান হলে তাকে বর্গ ম্যাট্রিক্স বলে।এখানে, প্রদত্ত ম্যাট্রিক্সের সারি এবং কলাম সংখ্যা সমান অর্থাৎ ম্যাট্রিক্সের ক্রম [math]3 \times 3[/math]
+ । তাই, ইহা একটি বর্গ ম্যাট্রিক্স।[math]\therefore \text { (ii) }[/math]
+ নং সঠিক।• ফেলার ম্যাট্রিক্স (Scalar Matrix): কোনো কর্ণ ম্যাট্রিক্সের অশূন্য ভুক্তিগুলো সমান হলে তাকে স্কেলার ম্যাট্রিক্স বলে।এখানে, প্রদত্ত ম্যাট্রিক্স একটি কর্ণ ম্যাট্রিক্স। যার প্রধান কর্ণের ভুক্তিগুলো সমান নয়। তাই, ইহা স্কেলার ম্যাট্রিক্স নয়।[math]\therefore \text { (iii) }[/math]
+ নং সঠিক নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #106 (ID: 410870)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ccc}1 & 2 & 3 \\4 & 5 & -6 \\2 & 4 & 6\end{array}\right][/math] হলে, [math]\operatorname{Det}(A)[/math] এর মান কত?
+
+Options:
+A. [math]-48[/math]
+B. [math]0[/math]
+C. [math]48[/math]
+D. [math]60[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]\text {}[/math]
+ [math]\operatorname{Dct}(A)=\left|\begin{array}{ccc}1 & 2 & 3 \\4 & 5 & -6 \\2 & 4 & 6\end{array}\right|=2\left|\begin{array}{ccc}1 & 2 & 3 \\4 & 5 & -6 \\1 & 2 & 3\end{array}\right|[/math]
+ [math]=2 \times 01 [ \because[/math]
+ ১ম ও ৩য় সারি একই][math]=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #107 (ID: 410871)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ccc}1 & 1 & 1 \\e & \pi & \sqrt{3} \\3 & 3 & 3\end{array}\right][/math] হলে [math]|A|=\text { ? }[/math]
+
+Options:
+A. [math]e[/math]
+B. [math]\pi[/math]
+C. [math]2(e-\pi+\sqrt{3})[/math]
+D. [math]0[/math]
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #108 (ID: 410872)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}1 & 4 & -3 \\2 & -1 & x \\6 & 2 & 8\end{array}\right|[/math] এর [math](1, 1)[/math] তম ভুক্তির অনুরাশি [math]-4[/math] হলে x এর মান কত?
+
+Options:
+A. 6
+B. 2
+C. -2
+D. -6
+
+
+Correct Answer: গ
+
+Solution:
+[math]\text {}[/math]
+ [math](1, 1)[/math]
+ তম ভুক্তির অনুরাশি [math]\left|\begin{array}{cc}-1 & x \\2 & 8\end{array}\right|[/math]
+ [math]=-4[/math]
+ [math]\Rightarrow -8-2 x=-4[/math]
+ [math]\Rightarrow-2 x=4[/math]
+ [math]\therefore x=-2[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #109 (ID: 410873)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{ccc}3 & -2 & 5 \\4 & 0 & 6 \\-1 & 7 & 10\end{array}\right|[/math] নির্ণায়কের [math](2, 3)[/math] তম ভুক্তির সহগুণক কত?
+
+Options:
+A. [math]114[/math]
+B. [math]19[/math]
+C. [math]-19[/math]
+D. [math]-114[/math]
+
+
+Correct Answer: গ
+
+Solution:
+[math]\text {}[/math]
+ [math](2, 3)[/math]
+ তম ভুক্তির সহগুণক[math]\Rightarrow (-1)^{2+3}\left|\begin{array}{cc}3 & -2 \\-1 & 7\end{array}\right|=-(21-2)=-19[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #110 (ID: 410874)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}3 & 2 & 4 \\0 & 3 & 6 \\1 & -1 & -2\end{array}\right|[/math] নির্ণায়কটির-
+
+i. মান [math]= 0[/math]
+
+ii. [math](2, 3)[/math] তম ভুক্তির অনুরাশি [math]= 5[/math]
+
+iii. [math](2, 1 )[/math] তম ভুক্তির সহগুণক [math]= 0[/math]
+
+নিচের কোনটি সঠিক
+
+Options:
+A. i ও ii
+B. i ও iii
+C. ii ও iii
+D. i,ii ও iii
+
+
+Correct Answer: খ
+
+Solution:
+i ও iii
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #111 (ID: 410875)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{rrr}1 & 2 & 3 \\0 & 1 & -2 \\-1 & 0 & 2\end{array}\right|[/math] নির্ণায়কটির (1.2) তম ভুক্তির সহগুণক কোনটি?
+
+Options:
+ক. [math]4[/math]
+খ. [math]2[/math]
+গ. [math]-2[/math]
+ঘ. [math]-4[/math]
+
+
+Correct Answer: খ
+
+Solution:
+প্রদত্ত নির্ণায়ক [math]\left|\begin{array}{rrr}1 & 2 & 3 \\0 & 1 & -2 \\-1 & 0 & 2\end{array}\right|[/math]
+ [math]\therefore(1,2)[/math]
+ তম ভুক্তির সহগুণক [math]=(-1)^{1+2}\left|\begin{array}{rr}0 & -2 \\-1 & 2\end{array}\right|[/math]
+ [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\begin{array}{l}=(-1)^{3} \times(0-2) \\=-1 \times(-2) \\=2\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #112 (ID: 410876)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left|\begin{array}{lll}1 & 2 & 3 \\2 & 3 & 4 \\1 & 5 & 7\end{array}\right|[/math] নির্ণায়কের (3, 2) তম সহগুণক কোনটি?
+
+Options:
+A. 2
+B. 3
+C. 4
+D. 5
+
+
+Correct Answer: ক
+
+Solution:
+প্রদত্ত নির্ণায়ক [math]\left|\begin{array}{lll}1 & 2 & 3 \\2 & 3 & 4 \\1 & 5 & 7\end{array}\right|[/math]
+(3, 2) তম ভুক্তির সহগুণক[math]\begin{array}{l}=(-1)^{3+2}\left|\begin{array}{ll}1 & 3 \\2 & 4\end{array}\right| \\=(-1)^{5} \times(4-6) \\=-1 \times(-2)=2\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+

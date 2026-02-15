@@ -1,0 +1,979 @@
+================================================================================
+Question #1 (ID: 428369)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]20\ cm[/math] ফোকাস দূরত্ব বিশিষ্ট দুটি সমোত্তল লেন্স পরস্পর স্পর্শ করে আছে। লেন্স দুটির মধ্যস্থান পানি দ্বারা পূর্ণ। কাচের প্রতিসরাংক [math]=\dfrac{3}{2}[/math] পানির প্রতিসরাংক [math]=\dfrac{4}{3}[/math]।
+
+Options:
+ঘ. লেন্সদ্বয়ের মাঝখানে পানি রাখার পর লেন্স সংযোগের ফোকাস দূরত্ব কোন ধরনের লেন্সের ন্যায় আচরণ করবে গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ‘গ' হতে পাই, লেন্সের বক্র পৃষ্ঠের বক্রতার ব্যাসার্ধ, r = 20 cm এখন, লেন্সদ্বয়ের মাঝখানে পানি রাখলে সেটি একটি পানির তৈরি অবতল লেন্স হিসাবে কাজ করবে। তার ফোকাস দূরত্ব, [math]f'[/math]
+ হলে-
+[Image]
+[math]\begin{array}{l}\frac{1}{f^{\prime}}=\left(\mu_{\mathrm{w}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right)\\\Rightarrow \frac{1}{f^{\prime}}=\left(\mu_{\mathrm{w}}-1\right)\left(\frac{1}{-\mathrm{r}}-\frac{1}{\mathrm{r}}\right) \quad\left[\mathrm{r}_{1}=-\mathrm{r}, \mathrm{r}_{2}=\mathrm{r}\right]\\\Rightarrow \frac{1}{f^{\prime}}=\left(\frac{4}{3}-1\right) \times\left\{\frac{-2}{r}\right\}\\\Rightarrow \frac{1}{f^{\prime}}=\frac{-1}{3} \times \frac{2}{20 \mathrm{~cm}}\\\Rightarrow \frac{1}{f^{\prime}}=\frac{-2}{60 \mathrm{~cm}}\\\Rightarrow \frac{1}{f^{\prime}}=-\frac{1}{30 \mathrm{~cm}}\end{array}[/math]
+এখন লেন্স সংযোগের তুল্য ফোকাস দূরত্ব F হলে-[math]\hspace{1cm}\begin{array}{l}\frac{1}{\mathrm{~F}}=\frac{1}{f}+\frac{1}{f}+\frac{1}{f^{\prime}}\\\Rightarrow \frac{1}{\mathrm{~F}}=\frac{1}{20 \mathrm{~cm}}+\frac{1}{20 \mathrm{~cm}}-\frac{1}{30 \mathrm{~cm}}\\\Rightarrow \frac{1}{F}=\frac{3+3-2}{60 \mathrm{~cm}} \\\therefore F=15 \mathrm{~cm}\end{array}[/math]
+ [math]\hspace{1.5cm}[/math]
+[এখানে, [math]f = 20~cm[/math]
+]যেহেতু F ধনাত্মক সেহেতু এটি উত্তল লেন্সের ফোকাস দূরত্ব।অতএব, লেন্সের মাঝখানে পানি রাখার পর লেন্স সংযোগের ফোকাস দূরত্ব উত্তল লেন্সের মত আচরণ করবে।
+
+Explanation:
+ঘ লেন্স-মেকারের সূত্র অনুযায়ী [math]\frac{1}{f_{air}}=(n_g-1)S[/math] যেখানে [math]S=(\frac{1}{R_1}-\frac{1}{R_2})[/math]; এখানে [math]n_g=\tfrac{3}{2}[/math] ও [math]f_{air}=20\ \text{cm}[/math] হলে [math]S=\dfrac{1}{(n_g-1)f_{air}}=\dfrac{1}{0.5\times20}=0.1\ \text{cm}^{-1}[/math]. পানির মধ্যে প্রতিসরাংক বদলায়: [math]\frac{1}{f_{water}=\big(\frac{n_g}{n_w}-1\big)S}[/math] যেখানে [math]n_w=\tfrac{4}{3}[/math], ফলে [math]\frac{1}{f_{water}}=0.125\times0.1=0.0125[/math] এবং [math]f_{water}=80\ \text{cm}[/math]. দুইটি সমান লেন্স সংস্পর্শে থাকায় মোট শক্তি যোগ হবে: [math]\frac{1}{F}=\frac{1}{80}+\frac{1}{80}=\frac{1}{40}[/math], তাই [math]F=40\ \text{cm}[/math] (ধনাত্মক), অর্থাৎ এটি একটি ন্যায় আচরণ করবে কনভার্জিং (সংকেন্দ্রকারী) লেন্সের।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 428363)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. উল্লিখিত লেন্সের ক্ষমতা নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই,লক্ষ্যবস্তুর দূরত্ব, u = 15 cmলক্ষ্যবস্তুর দৈর্ঘ্য, [math]l[/math]
+ = 5 cmবিম্বের দৈর্ঘ্য, [math]l'[/math]
+ = 10 cmআমরা জানি,[math]|\mathrm{M}|=\frac{\ell^{\prime}}{\ell}=\frac{10 \mathrm{~cm}}{5 \mathrm{~cm}}=2 .[/math]
+আবার, [math]|M|=\frac{v}{u}[/math]
+ [math]\begin{array}{l}\text { } 2=\frac{v}{u} \\\therefore v=2 u\end{array}[/math]
+যেহেতু বিম্বটি অবাস্তব, [math]\therefore \mathrm{v}=-2 \mathrm{u}=-2 \times 15 \mathrm{~cm}=-30 \mathrm{~cm}[/math]
+আমরা জানি,[math]\begin{array}{l}\frac{1}{f}=\frac{1}{u}+\frac{1}{v}=\frac{1}{15}-\frac{1}{30}=\frac{1}{30} \\ f=30 \mathrm{~cm}=0.3 \mathrm{~m}\end{array}[/math]
+আবার, [math]\mathrm{P}=\frac{1}{\mathrm{f}}=\frac{1}{0.3}=+3.33 \mathrm{D} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: লেন্সের ক্ষমতা নির্দেশ করে ফোকাল দৈর্ঘ্যের বিপরীত; তাই [math]P=\dfrac{1}{f}[/math] (SI এককে, যেখানে [math]f[/math] মিটারে নেওয়া)। ছবিতে দেওয়া ফোকাল দৈর্ঘ্যকে মিটারে বদলে সূত্রে বসালে পাওয়ার মিলবে — উদাহরণস্বরূপ, যদি [math]f=20\ \text{cm}=0.20\ \text{m}[/math] হয় তবে [math]P=\dfrac{1}{0.20}=5\ \text{D}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 428364)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো লেন্স থেকে একটি বস্তু [math]16 \ cm[/math] দূরে অবস্থিত। লেন্সটি তা থেকে [math]24 \ cm[/math] দূরে অবাস্তব বিম্ব গঠন করল। লেন্সের ক্ষমতা কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.083 \ D[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বস্তুর দূরত্ব, [math]u=16 \ cm=0.16 \ m[/math]
+বিম্বের দূরত্ব,[math]v=-24 \ cm[/math]
+ [math]=-0.24 \ m[/math]
+ক্ষমতা, [math]P=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{1}{f}=\frac{1}{u}+\frac{1}{v} \\ \Rightarrow P=\frac{1}{0.16}+\frac{1}{(-0.24)} \\ =2.083 \ \mathrm{D} \text { (Ans.) } \\ \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বস্তু ও অবাস্তব বিম্ব একই পাশে থাকায় সাইন কনভেনশন অনুযায়ী [math]u=-16\ \text{cm}[/math] এবং [math]v=-24\ \text{cm}[/math]. পাতলা লেন্স সূত্রে [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}=-\frac{1}{24}-\frac{1}{16}=-\frac{5}{48}[/math], ফলে [math]f=-\frac{48}{5}\ \text{cm}=-9.6\ \text{cm}[/math]. লেন্সের ক্ষমতা [math]P=\frac{1}{f\ (\text{m})}=\frac{1}{-0.096}\approx-10.42\ \text{D}\ (\approx-10.4\ \text{D})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 428365)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.15 \ m[/math] ফোকাস দূরত্ববিশিষ্ট একটি উত্তল লেন্সকে [math]9 \ cm[/math] ফোকাস দূরত্ববিশিষ্ট একটি অবতল লেন্সের সংস্পর্শে রাখা হল । তুল্য লেন্সের ফোকাস দূরত্ব ও ক্ষমতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-2.25 \ m , -4.44 \ rad \ m^{-1}[/math]
+বা [math]D[/math]
+
+
+Explanation:
+ব্যাখ্যা: সংস্পর্শে থাকা লেন্সগুলোর ক্ষমতা যোগ হয়, তাই প্রথম লেন্সের ক্ষমতা [math]P_1=1/f_1=1/0.15=6.666\ldots\ \mathrm{D}[/math] এবং দ্বিতীয় (অবতল) লেন্সের ক্ষমতা [math]P_2=1/f_2=1/(-0.09)=-11.111\ldots\ \mathrm{D}[/math]. সমতুল্য ক্ষমতা [math]P_{\text{eq}}=P_1+P_2=-4.444\ldots\ \mathrm{D}[/math], সুতরাং সমতুল্য ফোকাস দূরত্ব [math]f_{\text{eq}}=1/P_{\text{eq}}=-0.225\ \mathrm{m}=-22.5\ \mathrm{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 428367)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: DAWOOD PUBLIC SCHOOL & COLLEGE
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে একটি অবতল লেন্সের প্রতিসরাঙ্ক [math]\dfrac{3}{2}[/math] এবং লেন্সের ১ম ও ২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ যথাক্রমে [math]30\ cm[/math] ও [math]20\ cm[/math]। বায়ুর সাপেক্ষে পানির প্রতিসরাঙ্ক [math]\dfrac{4}{3}[/math]।
+
+Options:
+ঘ. লেন্সটিকে পানিতে ডুবানো হলে এর ক্ষমতার কিরূপ পরিবর্তন হবে? গাণিতিক যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘবায়ুতে ফোকাস দূরত্ব, [math]f_a = - 24 cm = - 0.24 m[/math]
+ [গ হতে প্রাপ্ত][math]\therefore[/math]
+ ক্ষমতা, [math]\mathrm{P}_{\mathrm{a}}=\frac{1}{f_{\mathrm{a}}}=\frac{1}{-0.24}=-4.16 \mathrm{D}[/math]
+পানির ক্ষেত্রে,[math]\begin{aligned}\frac{1}{f_{\mathrm{w}}} & =\left({ }_{\mathrm{w}} \mu_{\mathrm{g}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\& =\left(\frac{\mu_{\mathrm{g}}}{\mu_{\mathrm{w}}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\& =\left(\frac{\frac{3}{2}}{\frac{4}{3}-1}\right)\left(-\frac{1}{30}-\frac{1}{20}\right) \\& =\left(\frac{9}{8}-1\right)\left(\frac{-5}{60}\right)=\frac{1}{8} \times\left(\frac{-5}{60}\right) \\\therefore f_{\mathrm{w}}=-96 \mathrm{~cm} & =-0.96 \mathrm{~m}\end{aligned}[/math]
+ [math]\therefore[/math]
+ ক্ষমতা [math]\mathrm{P}_{\mathrm{w}}=\frac{1}{f_{\mathrm{w}}}=\frac{1}{-0.96}=-1.041 \mathrm{D}[/math]
+ [math]\begin{array}{l}\therefore \frac{\mathrm{P}_{\mathrm{a}}}{\mathrm{P}_{\mathrm{w}}}=\frac{-4.16}{-1.041} \\\Rightarrow \frac{\mathrm{P}_{\mathrm{a}}}{\mathrm{P}_{\mathrm{w}}}=4 \\\Rightarrow \mathrm{P}_{\mathrm{w}}=\frac{1}{4} \mathrm{P}_{\mathrm{a}}\end{array}[/math]
+অতএব, লেন্সটিকে পানিতে ডুবানো হলে এর ক্ষমতা বায়ুতে ক্ষমতার এক-চতুর্থাংশ হবে ।
+
+Explanation:
+ঘ ব্যাখ্যা: লেন্স‑মেকারের সূত্র অনুযায়ী [math]P=\Big(\dfrac{n_{\ell}}{n_{m}}-1\Big)\Big(\dfrac{1}{R_1}-\dfrac{1}{R_2}\Big)[/math]. বায়ুতে [math]n_m=1,\;n_{\ell}=3/2[/math] হলে [math]P_{air}=0.5\Big(\dfrac{1}{R_1}-\dfrac{1}{R_2}\Big)[/math], পানিতে [math]n_m=4/3[/math] হলে [math]P_{water}= \big(1.125-1\big)\Big(\dfrac{1}{R_1}-\dfrac{1}{R_2}\Big)=0.125\Big(\dfrac{1}{R_1}-\dfrac{1}{R_2}\Big)[/math]. তাই [math]P_{water}=\dfrac{1}{4}P_{air}[/math] — ক্ষমতার পরিমাণ চারগুণ কমে যাবে (চিহ্ন অপরিবর্তিত)।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 428368)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Hazera Taju Degree College
+--------------------------------------------------------------------------------
+Question:
+একটি অপসারী লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে [math]20\ cm[/math] এবং [math]40\ cm[/math]। লেন্সটির [math]40\ cm[/math] সামনে বস্তু রাখলে লেন্সের [math]10\ cm[/math] সামনে প্রতিবিম্ব সৃষ্ট হয়।
+
+Options:
+গ. লেন্সটির ক্ষমতা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,u = 40 cm = 0.4 mv = -10 cm = -0.1 mP = ?আমরা জানি,[math]\hspace{2cm}\begin{array}{l}\frac{1}{f}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}} \\\Rightarrow \frac{1}{f}=\frac{1}{0.4}-\frac{1}{0.1}=-7.5 \\\therefore \quad \mathrm{P}=\frac{1}{f}=-7.5 \mathrm{D} \\\end{array}[/math]
+সুতরাং লেন্সটির ক্ষমতা = - 7.5 D. [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ লেন্স সূত্রে নেওয়া হবে; বস্তুদূর [math]u= -40\ \text{cm}[/math] (বাম দিকে) এবং প্রতিবিম্বদূর ভার্চুয়াল হওয়ায় [math]v= -10\ \text{cm}[/math]. তাই
+[math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}=\frac{1}{-10}+\frac{1}{-40}=-\frac{1}{8}[/math]
+অর্থাৎ [math]f=-8\ \text{cm}[/math]. লেন্সের ক্ষমতা হবে
+[math]P=\frac{1}{f(\text{m})}=\frac{1}{-0.08}=-12.5\ \text{diopter}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 428366)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+একজন ভদ্র মহিলা চোখের সামনে স্পষ্ট দর্শনের ন্যূনতম দূরত্বে বস্তু দেখার জন্য [math]+1.5\ D[/math] ক্ষমতার চশমা ব্যবহার করেন। তিনি একটি বস্তু দেখার জন্য সরল অণুবীক্ষণ যন্ত্র হিসেবে [math]20\ D[/math] এর লেন্স ব্যবহার করেন।
+
+Options:
+গ. তিনি অণুবীক্ষণ যন্ত্র এবং চশমা একত্রে ব্যবহার করলে সর্বোচ্চ বিবর্ধন ক্ষমতা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক অনুসারে, চশমাটির অভিনেত্র এবং বিবর্ধক কাচটি অণুবীক্ষণ যন্ত্রের অভিলক্ষ হিসাবে কাজ করে।এখানে, চশমার ক্ষমতা, [math]P_e = 1.5 D[/math]
+ [math]\therefore[/math]
+ ফোকাস দূরত্ব,[math]\hspace{1.5 cm}\begin{array}{c} f_{\mathrm{c}}=\frac{1}{\mathrm{P}_{\mathrm{e}}}=\frac{1}{1.5} \\\Rightarrow f_{\mathrm{c}}=0.67 \mathrm{~m}\end{array}[/math]
+আবার, বিবর্ধক কাঁচের ক্ষমতা, [math]P_0 = 20 D[/math]
+ [math]\therefore[/math]
+ ফোকাস দূরত্ব, [math]f_{0}=\frac{1}{20}=0.05 \mathrm{~m}[/math]
+প্রতিবিম্বের দূরত্ব, V = 25 cm = 0.25mসুতরাং উল্লিখিত দূরত্বে প্রতিবিম্ব দেখতে হলে লেন্স দুটিকে একত্রে ব্যবহার করলে,বিবর্ধন,[math]\hspace{1.5 cm}\begin{aligned}\mathrm{m} & =\left(1-\frac{\mathrm{v}}{f_{0}}\right)\left(1+\frac{\mathrm{D}}{f_{\mathrm{e}}}\right) \\& =\left(1-\frac{0.25}{0.05}\right)\left(1+\frac{0.25}{0.67}\right)=-5.5\end{aligned}[/math]
+সুতরাং সর্বোচ্চ বিবর্ধন ক্ষমতা – 5.5. [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ চশমার ক্ষমতা [math]+1.5\ D[/math] হলে তার ন্যূনতম দৃষ্টি দূরত্ব হবে [math]D=\tfrac{1}{1.5}=\tfrac{2}{3}\ \text{m}\approx0.667\ \text{m}[/math]. সরল অণুবীক্ষকের সর্বোচ্চ বিবর্ধন হয় [math]M_{\max}=1+P_{\text{lens}}\times D[/math]। এখানে [math]P_{\text{lens}}=20\ D[/math], তাই [math]M_{\max}=1+20\times0.667\approx14.33[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 428356)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.25m[/math]ফোকাস দূরত্বের একটি উত্তল লেন্স [math]0.75m[/math] ফোকাস দূরত্বের একটি অবতল লেন্সের সংস্পর্শে রাখা হলো। এ সমবায়টি তুল্য ফোকাস দূরত্ব ও ক্ষমতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.375 \ m,+2.667 \ D[/math]
+
+Explanation:
+ব্যাখ্যা: সংস্পর্শে থাকা পাতলা লেন্সের ক্ষমতা যোগ হয়, তাই [math]\frac{1}{f}=\frac{1}{0.25}+\frac{1}{-0.75}=4-\tfrac{4}{3}=\tfrac{8}{3}[/math], ফলে [math]f=\tfrac{3}{8}=0.375\ \text{m}[/math]. এই সমবায়ের ক্ষমতা [math]P=\tfrac{1}{f}=\tfrac{8}{3}\ \text{D}\approx 2.67\ \text{D}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 428354)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. উল্লিখিত লেন্সটির ক্ষমতা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,লক্ষ্যবস্তুর দূরত্ব, u = 15 cmলক্ষ্যবস্তুর দৈর্ঘ্য, e = 5 cmবিম্বের দৈর্ঘ্য, l' = 10 cmআমরা জানি,[math]|\mathrm{M}|=\frac{\ell^{\prime}}{\ell}=\frac{10 \mathrm{~cm}}{5 \mathrm{~cm}}=2 .[/math]
+আবার,[math]\begin{array}{l}|M|=\frac{v}{u} \\2=\frac{v}{u}\end{array}[/math]
+ [math]\therefore v=2 u[/math]
+যেহেতু বিম্বটি অবাস্তবv = -2u = -2 x 15 cm = - 30cmআমরা জানি,[math]\begin{array}{l}\frac{1}{\mathrm{f}}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}}=\frac{1}{15}-\frac{1}{30}=\frac{1}{30} \\\therefore \mathrm{f}=30\mathrm{~cm}=0.3 \mathrm{~m}\end{array}[/math]
+আবার,[math]\begin{array}{l}\frac{1}{\mathrm{f}}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}}=\frac{1}{15}-\frac{1}{30}=\frac{1}{30} \\\therefore \mathrm{f}=30\mathrm{~cm}=0.3 \mathrm{~m}\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ সঠিক কারণ লেন্সের ক্ষমতা হলো focal length-এর প্রতিলোম্ব, অর্থাৎ [math]P=\dfrac{1}{f\;(\text{m})}[/math]; যদি focal length সেন্টিমিটারে দেওয়া থাকে তাহলে [math]P=\dfrac{100}{f\;(\text{cm})}\ \text{D}[/math]। চিত্র থেকে লেন্সের প্রকৃত focal length জানান, তাহলে উপরোক্ত সূত্রে বসিয়ে সরাসরি ক্ষমতা গণনা করা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 428355)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জেমিমা বায়ুতে একটি কাচের উত্তল লেন্স নিয়ে কাজ করছিল যার তলদ্বয়ের বক্রতার ব্যাসার্ধ যথাক্রমে [math]15 \ cm[/math] এবং [math]30 \ cm[/math]। [math]{ }_{a} \mu_{g}=\frac{3}{2}[/math]এবং [math]{ }_{a} \mu_{w}=\frac{4}{3}[/math]
+
+Options:
+ঘ. লেন্সটিকে পানিতে নিমজ্জিত করলে এর ক্ষমতার কোনো পরিবর্তন হবে কি না - বিশ্লেষণসহ মতামত দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]{ }_{a} \mu_{w}=\frac{4}{3}[/math]
+পানিতে লেন্সটির ফোকাস দূরত্ব [math]f^\prime[/math]
+ হলে[math]\begin{array}{l}\frac{1}{f^{\prime}}=\left({ }_{w} \mu_{\mathrm{g}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right)=\left(\frac{\mathrm{a}\mu_{\mathrm{g}}}{{ }_{\mathrm{a}} \mu_{\mathrm{w}}}\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\\quad=\left(\frac{3 / 2}{4 / 3}-1\right)\left(\frac{1}{15 \mathrm{~cm}}-\frac{1}{-30 \mathrm{~cm}}\right)=0.0125 \mathrm{~cm}^{-1} \\\therefore f^{\prime}=\left(0.0125 \mathrm{~cm}^{-1}\right)^{-1}=80 \mathrm{~cm}=0.80 \mathrm{~m}\end{array}[/math]
+পানিতে লেন্সের ক্ষমতা, [math]\mathrm{P}^{\prime}=\frac{1}{f^{\prime}}=\frac{1}{0.80 \mathrm{~m}}=+1.25 \mathrm{D}[/math]
+বায়ুতে লেন্সের ক্ষমতা, [math]P=\frac{1}{f^{\prime}}=\frac{1}{0.2 m}=+5 D[/math]
+যেহেতু, [math]+5D> +1.25D[/math]
+সুতরাং লেন্সটিকে পানিতে নিমজ্জিত করলে এর ক্ষমতার পরিবর্তন হবে (হ্রাস পাবে)।
+
+Explanation:
+ব্যাখ্যা: ঘ লেন্স‑মেকারের সূত্র ব্যবহার করে ক্ষমতা দেওয়া যায়: [math]P=\left(\frac{\mu_{\text{lens}}}{\mu_{\text{medium}}}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math]. এখানে [math]\frac{1}{R_1}-\frac{1}{R_2}=\frac{1}{15}+\frac{1}{30}=\frac{1}{10}\ \text{cm}^{-1}[/math]. কাচের বাতাসীয় অনুপাত [math]\mu_{g/a}=3/2[/math] হলে [math]P_{air}=(3/2-1)\times\frac{1}{10}=\frac{1}{20}\ \text{cm}^{-1}=5\ \text{D}[/math], এবং পানিতে নিমজ্জিত হলে কাচ‑পানির আপেক্ষিক অনুপাত [math]\mu_{g/w}=\dfrac{3/2}{4/3}=\dfrac{9}{8}[/math] তাই [math]P_{water}=(9/8-1)\times\frac{1}{10}=\frac{1}{80}\ \text{cm}^{-1}=1.25\ \text{D}[/math]. অতএব ক্ষমতা পরিবর্তিত হয় — পানিতে নিমজ্জিত হলে তা কমে যায় (5 D → 1.25 D)।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 428357)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অবতল লেন্সের ফোকাস দূরত্ব [math]50 \ cm[/math] । লেন্সটির ক্ষমতা কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.50m[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,অভিসারী বা উত্তল লেন্সের ক্ষমতা, [math]P_{1}=+3.5 \ D[/math]
+এবং অপসারী বা অবতল লেন্সের ক্ষমতা, [math]P_{2}=-1.5D[/math]
+তুল্য লেন্সের ক্ষমতা , [math]P=?[/math]
+এবং এর ফোকাস দূরত্ব, [math]F=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} P & =P_{1}+P_{2} \\ & =3 \cdot 5 \mathrm{D}-1.5 \mathrm{D} \\ & =2 \mathrm{D}(\text { Ans. }) \end{aligned}[/math]
+আবার,[math]\begin{array}{l} p=\frac{1}{F} \\ F=\frac{1}{p} m=\frac{1}{2} m=0: 50 m \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: লেন্সের ক্ষমতা সূত্র হলো [math]P=\dfrac{1}{f}[/math] (ফোকাল দৈর্ঘ্য মিটারে), অবতল লেন্সের ফোকাল দৈর্ঘ্য নেতিবাচক হয়, তাই [math]f=-0.50\ \text{m}[/math] এবং [math]P=\dfrac{1}{-0.50}=-2\ \text{ডাইপ্ট্রি}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 428358)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \ cm[/math] ফোকাস দূরত্বের একটি উত্তল লেন্স এবং অন্য একটি অবতল লেন্স নিয়ে সমবায় গঠন করা হলো। সমতুল্য লেন্সের ক্ষ মতা [math]3D[/math] হলে, অবতল লেন্সটির ফোকাস দূরত্ব কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-0.5 \ m[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,উত্তল লেন্সের ফোকাস দূরত্ব, [math]f_{1}=20 \ cm=0.20 \ m[/math]
+সমতুল্য লেন্সের ক্ষমতা, [math]P=3D[/math]
+অবতল লেন্সের ফোকাস দূরত্ব, [math]f_{2}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} P & =\frac{1}{F} \\ \Rightarrow F & =\frac{1}{3} \mathrm{~m} \ldots \text { (i) } \end{aligned}[/math]
+ [math]\begin{array}{l}\frac{1}{\mathrm{~F}}=\frac{1}{\mathrm{f}_{1}}+\frac{1}{\mathrm{f}_{2}}\\\Rightarrow \frac{1}{\frac{1}{3}}=\frac{1}{0.20}+\frac{1}{\mathrm{f}_{2}}\end{array}[/math]
+[ [math](i)[/math]
+নং হতে [math]F[/math]
+ এর মান বসিয়ে][math]\begin{array}{l} \Rightarrow 3=\frac{1}{0.20}+\frac{1}{f_{2}} \\ \Rightarrow \frac{1}{f_{2}}=3-\frac{1}{0.20}=-2 \\ \therefore \mathrm{f}_{2}=-\frac{1}{2}=-0.5 \mathrm{~m} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পাতলা লেন্সের ক্ষমতা যোগ হয়, তাই [math]P_{eq}=P_1+P_2[/math]. এখানে [math]P_{eq}=3\ \text{D}[/math] এবং উত্তল লেন্সের ফোকাস [math]20\ \text{cm}=0.20\ \text{m}[/math] হওয়ায় [math]P_1=1/0.20=5\ \text{D}[/math], তাই [math]P_2=3-5=-2\ \text{D}[/math]. সুতরাং অবতল লেন্সের ফোকাস [math]f_2=1/P_2= -0.5\ \text{m}=-50\ \text{cm}[/math] (ঋণাত্মক মানটি অবতল লেন্স নির্দেশ করে)।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 428359)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]-2.5[/math] ডায়প্টার ও [math]3.5[/math] ডায়প্টর ক্ষমতা বিশিষ্ট দুটি লেন্সকে পরস্পরের সংস্পর্শে স্থাপ্ন করা হলো। তুল্য লেন্সের ফোকাস দূরত্ব ও ক্ষমতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ ফোকাস দূরত্ব [math]1m;[/math]
+ ক্ষমতা [math]1D[/math]
+
+
+Explanation:
+ব্যাখ্যা: সংস্পর্শে থাকা পাতলা লেন্সগুলোর ক্ষমতা বিয়োজগে যোগ হয়, তাই সমতুল্য ক্ষমতা হবে [math]P_{\text{eq}}=-2.5+3.5=+1.0\ \text{D}[/math]. ফোকাস দূরত্ব হলো ক্ষমতার প্রতিলব্ধি, তাই [math]f=1/P_{\text{eq}}=1/1.0=1\ \text{m}=100\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 428360)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \ cm[/math] ফোকাস দূরত্বের একটি উত্তল এবং [math]30 \ cm[/math] ফোকাস দূরত্বের একটি অবতল লেন্স নিয়ে সমবায়ে গঠন করা হলো । দেখাও যে, সমবায়টি উত্তল লেন্সের ন্যায় ক্রিয়া করবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]60 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+তুল্য লেন্সের ফোকাস দূরত্ব [math]f[/math]
+ হলে,এখানে,উত্তল লেন্সের ফোকাস দূরত্ব, [math]f_{1}=20 \ cm[/math]
+অবতল লেন্সের ফোকাস দূরত্ব, [math]f_{2}=30 \ cm[/math]
+ফোকাস দূরত্ব, [math]f=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \frac{1}{f} & =\frac{1}{f_{1}}+\frac{1}{f_{2}} \\ \frac{1}{f} & =\frac{1}{20 \mathrm{~cm}}+\frac{1}{-30 \mathrm{~cm}} \\ & =\frac{1}{60 \mathrm{~cm}} \\ \therefore f & =60 \mathrm{~cm} \end{aligned}[/math]
+যেহেতু ফোকাস দূরত্ব ধনাত্মক, সেহেতু লেন্সের সমবায়টি উত্তল লেন্সের ন্যায় ক্রিয়া করবে।
+
+Explanation:
+দুই পাতলা লেন্স একত্রে থাকলে সমদৃষ্টি সূত্র হলো [math]1/F=1/f_1+1/f_2[/math]. এখানে [math]f_1=+20\ \text{cm},\ f_2=-30\ \text{cm}[/math], তাই [math]1/F=1/20-1/30=1/60[/math] ও [math]F=60\ \text{cm}[/math] ধনাত্মক, অর্থাৎ সমবায়টি উত্তল (কনভার্জিং) লেন্সের মতো কাজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 428361)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অবতল লেন্সের ফোকাস দূরত্ব [math]50 \ cm[/math] লেন্সটির ক্ষমতা কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.50m[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,অভিসারী বা উত্তল লেন্সের ক্ষমতা, [math]P_{1}=+3.5 \ D[/math]
+এবং অপসারী বা অবতল লেন্সের ক্ষমতা, [math]P_{2}=-1.5 \ D[/math]
+তুল্য লেন্সের ক্ষমতা, [math]P=?[/math]
+এবং এর ফোকাস দূরত্ব, [math]F=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} P & =P_{1}+P_{2} \\ & =3.5 \mathrm{D}-1.5 \mathrm{D} \\ & =2 \mathrm{D} \text { (Ans.) } \end{aligned}[/math]
+আবার,[math]\begin{array}{l} p=\frac{1}{F} \\ \therefore F=\frac{1}{p} m=\frac{1}{2} m=0: 50 m \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: অবতল লেন্সের ফোকাস দৈর্ঘ্য নেতিবাচক, তাই [math]f=-50\ \text{cm}=-0.50\ \text{m}[/math]; লেন্সের ক্ষমতা [math]P=\frac{1}{f}=\frac{1}{-0.50}=-2\ \text{D}[/math]. নেতিবাচক চিহ্নটি নির্দেশ করে লেন্সটি বিচ্ছুরক (diverging)।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 428362)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \ cm[/math] ফোকাস দূরত্বের একটি উত্তল এবং [math]30 \ cm[/math] ফোকাস দূরত্বের একট অবতল লেন্স নিয়ে সমবায় গঠন করা হলো। দেখাও যে, সমবায়টি উত্তল লেন্সের ন্যায় ক্রিয়া করবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]60 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+তুল্য লেন্সের ফোকাস দূরত্ব [math]f[/math]
+ হলে,এখানে,উত্তল লেন্সের ফোকাস দূরত্ব, [math]f_{1}=20 \ cm[/math]
+অবতল লেন্সের ফোকাস দূরত্ব, [math]f_{2}=30 \ cm[/math]
+ফোকাস দূরত্ব, [math]f=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \frac{1}{f} & =\frac{1}{f_{1}}+\frac{1}{f_{2}} \\ \frac{1}{f} & =\frac{1}{20 \mathrm{~cm}}+\frac{1}{-30 \mathrm{~cm}} \\ & =\frac{1}{60 \mathrm{~cm}} \\ \therefore f & =60 \mathrm{~cm} \end{aligned}[/math]
+যেহেতু ফোকাস দূরত্ব ধনাত্মক, সেহেতু লেন্সের সমবায়টি উত্তল লেন্সের ন্যায় ক্রিয়া করবে।
+
+Explanation:
+ব্যাখ্যা: সংস্পর্শে থাকা পাতলা লেন্সগুলোর সমবায় ফোকাসদূরত্বের সূত্র হল [math]1/F=1/f_1+1/f_2[/math]. এখানে [math]f_1=+20\ \text{cm}[/math] (উত্তল) ও [math]f_2=-30\ \text{cm}[/math] (অবতল), ফলে [math]1/F=1/20-1/30=(3-2)/60=1/60[/math] এবং তাই [math]F=+60\ \text{cm}[/math]. ধনাত্মক ফোকাসদূরত্ব হওয়ায় সমবায়টি উত্তল লেন্সের রূপে কাজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 428352)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \ cm[/math] এবং [math]20 \ cm[/math] ফোকাস দূরত্ব বিশিষ্ট দুটি উত্তল লেন্সকে পরস্পরের সংস্পর্শে রাখা হলো। সংযোজনের ফোকাস দূরত্ব ও ক্ষমতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]15D[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রতম লেন্সের ফোকাস দূরত্ব,দ্বিতীয় লেন্সের ফোকাস দূরত্ব, [math]f_{1}=10 \ cm=0.1 \ m[/math]
+সংযোজিত ফোকাস দূরত্ব, [math]f_{2}=20 \ cm=0.2 \ m[/math]
+ক্ষমতা, [math]P=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{1}{f}=\frac{1}{f_{1}}+\frac{1}{f_{2}} \\ \Rightarrow \frac{1}{f}=\frac{1}{0.1 \mathrm{~m}}+\frac{1}{0.2 \mathrm{~m}} \\ \Rightarrow f=\frac{1}{15} \mathrm{~m}=0.0666 \mathrm{~m} \\ =6.66 \mathrm{~cm} \text { (Ans.) } \\ \end{array}[/math]
+আবার, [math]\mathrm{P}=\frac{1}{f}=\frac{1}{\frac{1}{15^{\mathrm{m}}}}=15 \mathrm{~m}^{-1}=15 \mathrm{D} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সংস্পর্শে থাকা লেন্সগুলোর সহফলক তাৎক্ষণিকভাবে তাদের শক্তির যোগফল, তাই [math]\dfrac{1}{f}=\dfrac{1}{f_1}+\dfrac{1}{f_2}[/math]. এখানে [math]\dfrac{1}{f}=\dfrac{1}{10}+\dfrac{1}{20}=\dfrac{3}{20}[/math] তাই [math]f=\dfrac{20}{3}\ \text{cm}\approx 6.67\ \text{cm}[/math]. শক্তি নিতে হলে মিটারে নেওয়া হয়; মোট শক্তি [math]P= \dfrac{1}{0.10}+\dfrac{1}{0.20}=10+5=15\ \text{D}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 428351)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]6 \ cm[/math] লম্বা একটি বস্তুকে একটি লেন্সের সামনে রাখা হলো । লেন্সের পিছনে [math]1 \ m[/math] দূরে স্থা পিত একটি পর্দায় [math]3 \ cm[/math] লম্বা প্রতিবিম্বের সৃষ্টি হলো। লেন্সের ক্ষমতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](+1.5 \ D)[/math]
+ [math]\\[/math]
+ [math][/math]
+যেহেতু বিম্ব পর্দায় ফেলা হয়েছে, তাই এটি বাস্তব।এখানে,বস্তুর দৈর্ঘ্য, [math]\ell = 6 \ cm=0.06 \ m[/math]
+বিম্বের দৈর্ঘ্য, [math]\ell^{\prime}=3 \ cm = 0.03 \ m[/math]
+বিম্বের দূরত্ব, [math]v=1 \ m[/math]
+ক্ষমতা, [math]P=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \mathrm{m}=\frac{\mathrm{v}}{\mathrm{u}} \\ \Rightarrow \frac{\ell^{\prime}}{\ell}=\frac{\mathrm{v}}{\mathrm{u}} \\ \Rightarrow \frac{0 \cdot 03 \mathrm{~m}}{0 \cdot 06 \mathrm{~m}}=\frac{\mathrm{v}}{\mathrm{u}} \\ \Rightarrow \mathrm{v}=\frac{\mathrm{u}}{2} \\ \Rightarrow \mathrm{u}=2 \mathrm{v} \end{array}[/math]
+আবার,[math]\begin{array}{l} \frac{1}{v}+\frac{1}{u}=\frac{1}{f} \\ \Rightarrow \frac{1}{v}+\frac{1}{2 v}=\frac{1}{f} \\ \Rightarrow 1+\frac{1}{2}=\frac{1}{f} \end{array}[/math]
+ [math]\Rightarrow \frac{3}{2}=\text { P } \quad[\because[/math]
+লেন্সের ক্ষমতা, [math]\left.\mathrm{P}=\frac{1}{f}\right][/math]
+ [math]\Rightarrow \ \mathrm{P}=+1.5 \mathrm{D}[/math]
+ [math]\therefore[/math]
+ লেন্সের ক্ষমতা, [math]\mathrm{P}=+1.5 \mathrm{D} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: চিত্রের অনুপাত [math]m=\dfrac{3}{6}=\tfrac{1}{2}[/math] এবং লেন্সের জন্য [math]m=-\dfrac{v}{u}[/math] হওয়ায়, [math] \tfrac{1}{2}=-\dfrac{1}{u}[/math] (কারণ [math]v=1\,\text{m}[/math]) থেকে [math]u=-2\,\text{m}[/math]. লেন্সের সূত্রে [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}=\!1-\tfrac{1}{2}=\tfrac{1}{2}[/math] কর্তৃক [math]f=2\,\text{m}[/math]. অতএব ক্ষমতা [math]P=\dfrac{1}{f}=0.5\,\text{D}[/math] (বা +0.5 ডায়প্ট্রি)।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 428345)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010, 2006-2007 | Boards:  | Tags: Chittagong University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]20cm[/math] ফোকাস দূরত্বের একটি উত্তল লেগকে [math]30 cm[/math] ফোকাস দূরত্বের একটি অবতল লেন্সের সংস্পর্শে রাখা হল। তুল্য লেন্সের ফোকাস দূরত্ব নির্ণয় কর। তুল্য লেন্সটি কোন ধরনের লেন্সের মত আচরণ করবে এবং এর ক্ষমতা কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.66 \mathrm{D}[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{1}{F}=\dfrac{1}{f_{1}}+\dfrac{1}{f_{2}}=\dfrac{1}{0.2}-\dfrac{1}{0.3}=1.66 \mathrm{D} \Rightarrow F=0.6=60 \mathrm{~cm}[/math]
+আচরণ উত্তল লেন্সের মত, [math]\mathrm{P}=\dfrac{1}{\mathrm{~F}}=\dfrac{1}{0.6}=1.66 \mathrm{D} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সংস্পর্শে থাকা পাতলা লেন্সের ক্ষমতা যোগ হয়, তাই [math]P_{\text{eq}}=P_1+P_2[/math] যেখানে [math]P=\dfrac{1}{f}[/math] (মিটার অনুযায়ী)। এখানে [math]f_1=20\ \text{cm}=0.20\ \text{m}[/math] থেকে [math]P_1=1/0.20=5\ \text{D}[/math], এবং [math]f_2=-30\ \text{cm}=-0.30\ \text{m}[/math] থেকে [math]P_2=1/(-0.30)=-3.333\ \text{D}[/math]; অতএব [math]P_{\text{eq}}=5-3.333=1.667\ \text{D}[/math]. সমতুল্য ফোকাস দূরত্ব [math]f_{\text{eq}}=1/P_{\text{eq}}=0.60\ \text{m}=60\ \text{cm}[/math], ধনাত্মক হওয়ায় এটি একটি উত্তল (কনভার্জিং) লেন্স-এর মতো আচরণ করবে এবং ক্ষমতা প্রায় [math]1.67\ \text{D}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 428348)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]20 \ cm[/math] । লেন্সটির এক পাশে একটি বস্তু স্থাপন করায় অপর পাশে দ্বিগুণ আকারের একটি বিম্ব পাওয়া গেল। [math]20 \ cm[/math] ও [math]30 \ cm[/math] বক্রতার ব্যাসার্ধ এবং [math]1.5[/math] উপাদানের প্রতিসরাঙ্ক বিশিষ্ট অপর একটি উভাবোতল লেন্স উত্তল লেন্সটির সংস্পর্শে সমা ক্ষভাবে স্থাপন করা হলো ।
+
+Options:
+ঘ. লেন্সদ্বয়ের সংযোজনে তুল্য লেন্সের প্রকৃতি কীরূপ হবে, গাণিতিকভাবে বিশ্লেষণ কর ।
+
+
+Correct Answer: 
+
+Solution:
+ঘ২য় লেন্সের ফোকাস দূরত্ব,[math]\begin{array}{l}\frac{1}{f_{2}}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\\text { } \frac{1}{f_{2}}=(1.5-1)\left(\frac{1}{-20}-\frac{1}{30}\right) \\\text { } \frac{1}{f_{2}}=0.5 \times\left(-\frac{1}{12}\right) \\\text { } \frac{1}{f_{2}}=-\frac{1}{24} \\\therefore f_{2}=-24 \mathrm{~cm}\end{array}[/math]
+সুতরাং,[math]\begin{aligned}\frac{1}{f} & =\frac{1}{f_{1}}+\frac{1}{f_{2}}=\frac{1}{20}+\frac{1}{-24} \\& =\frac{4}{20 \times 24}=\frac{1}{120}\end{aligned}[/math]
+ [math]\therefore \mathrm{f}=120 \mathrm{~cm}[/math]
+লেন্সদ্বয়ের সংযোজনে তুল্য লেন্সের ফোকাস দূরত্ব ধনাত্মক হওয়ায়, তুল্য লেন্সের প্রকৃতি হবে উত্তল।
+
+Explanation:
+ব্যাখ্যা: ঘ লেন্সমেকারের সূত্র থেকে দ্বিতীয় লেন্সের ফোকাল দৈর্ঘ্য হল [math]\frac{1}{f_2}=(n-1)\Big(\frac{1}{R_1}-\frac{1}{R_2}\Big)=0.5\Big(\frac{1}{20}+\frac{1}{30}\Big)=\frac{1}{24}[/math], অতএব [math]f_2=24\ \text{cm}[/math]. সংস্পর্শে থাকা দুইটি পাতলা লেন্সের সমতুল্য ফোকাল দৈর্ঘ্য হয় [math]\frac{1}{f_{\rm eq}}=\frac{1}{20}+\frac{1}{24}=\frac{11}{120}[/math], তাই [math]f_{\rm eq}=\frac{120}{11}\approx10.9\ \text{cm}>0[/math]. ফোকাল দৈর্ঘ্য ধনাত্মক হওয়ায় সংযোজিত লেন্সের তুল্য প্রকৃতি উত্তল (converging)।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 428347)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]60cm[/math] ফোকাস দূরত্বের একটি অবতল লেন্স [math]45 cm[/math] ফোকাস দূরত্বের একটি উত্তল লেন্স পরস্প রের সংস্পর্শে একটি সমন্বয় গঠন করে। এই সমন্বয়ের [math]350 cm[/math] সামনে এটি বস্তুর বিম্বের অবস্থান ও প্রকৃতি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]370.6 \mathrm{~cm}[/math]
+ বাস্তব ও উল্টা )[math]\\[/math]
+Solution : [math]\dfrac{1}{\mathrm{f}}=\dfrac{1}{\mathrm{f}_{1}}+\dfrac{1}{\mathrm{f}_{2}}=\dfrac{1}{45}-\dfrac{1}{60} \Rightarrow \dfrac{1}{\mathrm{f}}=\dfrac{1}{180} \Rightarrow \mathrm{f}=180 \mathrm{~cm}[/math]
+ [math]\therefore \dfrac{1}{\mathrm{v}}+\dfrac{1}{\mathrm{u}}=\dfrac{1}{\mathrm{f}} \Rightarrow \dfrac{1}{\mathrm{v}}+\dfrac{1}{350}=\dfrac{1}{180} \Rightarrow \mathrm{v}=370.6 \mathrm{~cm}[/math]
+ বাস্তব ও উল্টা। [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+সংস্পর্শে থাকা দুই লেন্সের সমতুল্য ফোকাস হল [math]1/f_{\rm eq}=1/f_1+1/f_2[/math]; এখানে অবতলটির [math]f_1=-60\ \text{cm}[/math], উত্তলের [math]f_2=+45\ \text{cm}[/math], তাই [math]1/f_{\rm eq}=1/45-1/60=1/180\Rightarrow f_{\rm eq}=180\ \text{cm}[/math]. অবজেক্ট দূরত্ব [math]u=350\ \text{cm}[/math] হলে লেন্স সূত্রে [math]1/v=1/f_{\rm eq}-1/u=1/180-1/350=170/63000[/math], ফলে [math]v\approx370.6\ \text{cm}\approx371\ \text{cm}</math]. তাই ছবিটি লেন্সের বিপরীত পাশে বাস্তব ও উল্টো অবস্থায় তৈরি হয় এবং আয়তন [math]m=v/u\approx1.06[/math] হওয়ায় সামান্য বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 428346)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+(ক) একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]25[/math] সে.মি.। লেন্সের ক্ষমতা কত?
+
+(খ) একটি লেন্সে ক্ষমতা [math]–5D[/math]। লেন্সটি কি প্রকৃতির? এর ফোকাস দূরত্ব কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : (ক) [math]+4D[/math]
+ এবং (খ) [math]-20cm[/math]
+(অবতল) )[math]\\[/math]
+Solution : (ক) [math]p=\dfrac{1}{f}=\dfrac{1}{0.25}=+4 D[/math]
+ [math]\hspace{2.1 cm}[/math]
+(খ) [math]\mathrm{f}=\dfrac{1}{\mathrm{p}}=\dfrac{1}{-5}=-0.2 \mathrm{~m}=-20 \mathrm{~cm}[/math]
+ অবতল [math]\text{(Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ফোকাস দূরত্ব [math]25\ \text{সে.মি.}=0.25\ \text{m}[/math] হলে ক্ষমতা [math]P=\frac{1}{f}=\frac{1}{0.25}=4\ \text{D}[/math] হবে; ধনাত্মক মান দেখায় লেন্সটি সমাহিত (convex)।
+
+খ ক্ষমতা [math]-5\ \text{D}[/math] ধনাত্মক হলে না, বরং ঋণাত্মক হওয়ায় লেন্সটি বিক্ষিপ্ত (diverging/concave)। ফোকাস দূরত্ব [math]f=\frac{1}{P}=\frac{1}{-5}=-0.2\ \text{m}=-20\ \text{সে.মি.}[/math] (ঋণাত্মক চিহ্ন মানে ভার্চুয়াল ফোকাস)।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 428344)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]1:2[/math] বিচ্ছুরণ ক্ষমতা বিশিষ্ট ক্রাউন কাঁচের একটি উত্তল ও ফ্লিন্ট কাঁচের একটি অবতল লেন্স সংলগ্ন রেখে [math]30cm[/math] ফোকাস দূরত্বের একটি অবার্ন অবতল লেন্স তৈরী করতে হলে লেন্সদ্বয়ের ফোকাস দূরত্ব কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]15 \mathrm{~cm}[/math]
+)[math]\\[/math]
+Solution : দেয়া আছে, [math]\dfrac{\omega_{1}}{\omega_{2}}=\dfrac{1}{2}[/math]
+অবার্ণ সমন্বয়ে শর্তানুযায়ী, [math]\dfrac{\omega_{1}}{f_{1}}+\dfrac{\omega_{2}}{f_{2}}=0 \Rightarrow \dfrac{\omega_{1}}{\omega_{2}}=-\dfrac{f_{1}}{f_{2}} \Rightarrow \dfrac{f_{1}}{f_{2}}=-\dfrac{1}{2} \Rightarrow f_{1}=-\dfrac{1}{2} f_{2}[/math]
+আবার, [math]\dfrac{1}{f_{1}}+\dfrac{1}{f_{2}}=\dfrac{1}{f} \Rightarrow \dfrac{-2}{f_{2}}+\dfrac{1}{f_{2}}=\dfrac{1}{30} \Rightarrow -\dfrac{1}{f_{2}}=\dfrac{1}{30}[/math]
+ [math]\therefore \mathrm{f}_{2}=-30 \mathrm{~cm} . \quad \therefore \mathrm{f}_{1}=15 \mathrm{~cm} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অবার্ন (অ্যাচ্রম্যাটিক) যুক্তির জন্য লেন্সের মোট শক্তি [math]φ=1/f[/math] এবং অ্যাক্রোম্যাটিক শর্ত হলো [math]φ_c ω_c+φ_f ω_f=0[/math]. দেওয়া অনুপাত [math]ω_c:ω_f=1:2[/math] ধরা হলে [math]φ_f=-(1/2)φ_c[/math] এবং মোট শক্তি [math]φ_c+φ_f=1/30[/math] থেকে [math](1-1/2)φ_c=1/30\Rightarrow φ_c=1/15\,[math] ফলে ক্রাউন লেন্সের ফোকাস [math]f_c=15\ \text{cm}[/math] এবং ফ্লিন্ট লেন্সের ফোকাস [math]φ_f=-1/30\Rightarrow f_f=-30\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 428343)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010, 2006-2007 | Boards:  | Tags: Chittagong University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]20cm[/math] ফোকাস দূরত্বের একটি উত্তল লেগকে [math]30 cm[/math] ফোকাস দূরত্বের একটি অবতল লেন্সের সংস্পর্শে রাখা হল। তুল্য লেন্সের ফোকাস দূরত্ব নির্ণয় কর। তুল্য লেন্সটি কোন ধরনের লেন্সের মত আচরণ করবে এবং এর ক্ষমতা কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.66 \mathrm{D}[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{1}{F}=\dfrac{1}{f_{1}}+\dfrac{1}{f_{2}}=\dfrac{1}{0.2}-\dfrac{1}{0.3}=1.66 \mathrm{D} \Rightarrow F=0.6=60 \mathrm{~cm}[/math]
+আচরণ উত্তল লেন্সের মত, [math]\mathrm{P}=\dfrac{1}{\mathrm{~F}}=\dfrac{1}{0.6}=1.66 \mathrm{D} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+দুটি লেন্স সংস্পর্শে থাকলে তাদের ক্ষমতা যোগ হয়: [math]P=P_1+P_2[/math], যেখানে [math]P=1/f[/math] (মিটারে)। এখানে [math]f_1=20\text{ cm}=0.20\text{ m}[/math] থেকে [math]P_1=1/0.20=5\text{ D}[/math] এবং [math]f_2=-30\text{ cm}=-0.30\text{ m}[/math] (অবতল) থেকে [math]P_2=1/(-0.30)=-3.333\text{ D}[/math]. তাই সমতুল্য ক্ষমতা [math]P=5-3.333=1.667\text{ D}=[\tfrac{5}{3}\text{ D}][/math], ফলে [math]f_{\text{eq}}=1/P=0.60\text{ m}=60\text{ cm}[/math]; কারণ [math]f_{\text{eq}}>0[/math], এটি উত্তল (সংযোজক) লেন্সের মতো আচরণ করবে এবং এর ক্ষমতা প্রায় [math]+1.67\text{ D}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 428342)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2011-2012 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি লেন্সের ক্ষমতা [math]+ 2D[/math]. লেন্সটি উত্তল নাকি অবতল? এর ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]0.5 m[/math]
+)[math]\\[/math]
+Solution : [math]P=+2D\ \ \therefore[/math]
+ লেন্সটি উত্তল [math]f=\dfrac{1}{P}=\dfrac{1}{2}m=0.5\ m[/math]
+
+
+Explanation:
+লেন্সের ধনাত্মক ক্ষমতা মানে সেটি উত্তল (converging) লেন্স। ফোকাল দৈর্ঘ্য সূত্র [math]P=1/f[/math] হওয়ায় [math]f=1/P=1/2=0.5\ \text{m}=50\ \text{cm}[/math], অর্থাৎ ফোকাস দূরত্ব 50 সেমি।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 428341)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি লেন্সের ক্ষমতা [math]4D[/math]। লেন্সটি থেকে কত দূরে বস্তু রাখলে প্রতিবিম্বের আকার অর্ধেক হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]0.75m[/math]
+)[math]\\[/math]
+Solution : [math]P=4 \Rightarrow \dfrac{1}{\mathrm{f}}=4 \Rightarrow \mathrm{f}=\dfrac{1}{4}=0.25 \mathrm{~m}[/math]
+লেন্সটি উত্তল এবং প্রতিবিম্ব খর্বিত। তাহলে প্রতিবিম্ব অবশ্যই বাস্তব ও উল্টা।[math]m=-\dfrac{v}{u}=-\dfrac{1}{2} \Rightarrow v=\dfrac{u}{2}[/math]
+এখন, [math]\dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{f} \Rightarrow \dfrac{1}{u}+\dfrac{2}{u}=4 \Rightarrow \dfrac{3}{u}=4 \Rightarrow u=\dfrac{3}{4}=0.75 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ লেন্স থেকে [math]0.75m[/math]
+ দূরে রাখলে প্রতিবিম্বের আকার অর্ধেক হবে। [math]\text{(Ans. )}[/math]
+
+
+Explanation:
+প্রথমে [math]f=1/P=1/4=0.25\ \text{m}[/math]. আকারের অনুপাত থেকে [math]|m|=|v/u|=1/2[/math] হওয়ায় [math]v=u/2[/math], লেন্স সূত্রে [math]1/f=1/v+1/u=1/(u/2)+1/u=3/u[/math] ফলে [math]u=3f=3×0.25=0.75\ \text{m}=75\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 428340)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016-2017 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্স থেকে [math]90cm[/math] দূরে একটি বস্তুকে রাখা হলে [math]45cm[/math] দূরের পর্দায় একটি বাস্তব প্রতিচ্ছবি তৈরী করে। এই লেন্সের গা ঘেঁষে একটি অবতল লেন্স লাগানো হলে আরও [math]75cm[/math] দূরে একটি বাস্তব প্রতিচ্ছবি সৃষ্টি হয়। অবতল লেন্সের ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]-72cm[/math]
+)[math]\\[/math]
+Solution : ধরি, উত্তল লেন্সের ফোকাস দূরত্ব [math]f[/math]
+এবং অবতল লেন্সের ফোকাস দূরত্ব [math]f^\prime[/math]
+ ।[math]\therefore \dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{f} \Rightarrow \dfrac{1}{f}=\dfrac{1}{90}+\dfrac{1}{45}=\dfrac{1}{30}[/math]
+ধরি, সমবায় লেন্সের ফোকাস দূরত্ব [math]F.[/math]
+।[math]\therefore \dfrac{1}{F}=\dfrac{1}{90}+\dfrac{1}{(45+75)} \Rightarrow \dfrac{1}{f}+\dfrac{1}{f^{\prime}}=\dfrac{7}{360} \Rightarrow \dfrac{1}{f^{\prime}}=\dfrac{7}{360}-\dfrac{1}{30}=-\dfrac{1}{72} \therefore f^{\prime}=-72 \mathrm{~cm}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে উত্তল লেন্সের জন্য লেন্স সূত্র প্রয়োগ করলে [math]1/f_1=1/90+1/45=1/30[/math] তাই [math]f_1=30\text{ cm}[/math]. গা-ঘেঁষে থাকা লেন্সগুলোর সমষ্টি শক্তি যোগ হয়; সমষ্টি লেন্সের জন্য [math]1/f_{eq}=1/90+1/75=11/450[/math] তাই [math]f_{eq}=450/11\approx40.91\text{ cm}[/math]. অবতল লেন্সের ফোকাল দৈর্ঘ্য পাওয়া যায় [math]1/f_2=1/f_{eq}-1/f_1=11/450-1/30=-2/225[/math], ফলে [math]f_2=-112.5\text{ cm}[/math] (নেতিবাচক মান বিভাজক লেন্স নির্দেশ করে), অর্থাৎ ফোকাস দূরত্বের পরিমাপ [math]112.5\text{ cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 428339)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+জেমিমা বায়ুতে একটি কাচের উত্তল লেন্স নিয়ে কাজ করছিল যার তলদ্বয়ের [math]3[/math] বক্রতার ব্যাসার্ধ যথাক্রমে [math]15\ cm[/math] এবং [math]30\ cm[/math]। [math]{ }_{a} \mu_{g}=\dfrac{3}{2}[/math] এবং [math]{ }_{a} \mu_{w}=\dfrac{4}{3}[/math]।
+
+Options:
+ঘ. লেন্সটিকে পানিতে নিমজ্জিত করলে এর ক্ষমতার কোনো পরিবর্তন হবে কি-না- বিশ্লেষণসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, ফোকাস দূরত্ব, [math]f_a[/math]
+এখানে, উভোত্তল লেন্সের প্রথম ও দ্বিতীয় পৃষ্ঠের বক্রতার ব্যাসার্ধ যথাক্রমে,[math]\hspace{1.5 cm}\hspace{1 cm}\begin{array}{l} \mathrm{r}_{1}=15 \mathrm{~cm}=0.15 \mathrm{~m} \\ ও~ \mathrm{r}_{2}=-30 \mathrm{~cm}=-0.30 \mathrm{~m} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+লেন্সের উপাদানের প্রতিসরাঙ্ক, [math]{ }_{\mathrm{a}} \mu_{\mathrm{g}}=\dfrac{3}{2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f_{\mathrm{a}}} & =\left({}_\mathrm{a} \mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ & =\left(\frac{3}{2}-1\right)\left(\frac{1}{0.15}+\frac{1}{0.30}\right) \\ & =(.5)\left(\frac{2+1}{0.30}\right)=5 \\ \therefore ~ f_{\mathrm{a}} & =\frac{1}{5} \mathrm{~m}=0.2 \mathrm{~m}\end{aligned}[/math]
+অতএব, লেন্সটির ফোকাস দূরত্ব 0.2 m।[math]\therefore[/math]
+ ক্ষমতা, [math]\mathrm{P}_{0}=\dfrac{1}{f_{\mathrm{a}}} \mathrm{D}=\dfrac{1}{0.2} \mathrm{D}=5 \mathrm{D}[/math]
+এখানে,[math]\hspace{1.5 cm}\begin{array}{l} {}_\mathrm{a} \mu_{\mathrm{g}}=\frac{3}{2} \\ {}_\mathrm{a} \mu_{\mathrm{w}}=\frac{4}{3} \\ \mathrm{r}_{1}=0.15 \mathrm{~m} \\ \mathrm{r}_{2}=-0.30 \mathrm{~m} \\ f_{\mathrm{w}}=? \\ \mathrm{P}=? \end{array}[/math]
+পানিতে ফোকাস দূরত্ব,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f_{\mathrm{w}}} & =\left({ }_{w} \mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ & =\left(\frac{{}_\mathrm{a} \mu_{\mathrm{g}}}{{}_\mathrm{a}\mu_{\mathrm{w}}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ & =\left(\frac{\frac{3}{2}}{\frac{4}{3}}-1\right)\left(\frac{1}{0.15}+\frac{1}{.30}\right) \\ & =\left(\frac{9}{8}-1\right)\left(\frac{3}{.30}\right)=\frac{1}{8} \times \frac{3}{.30}\\ \therefore~ \frac{1}{f_{\mathrm{w}}} & =1.25=0.8 \mathrm{~m} \end{aligned}[/math]
+ [math]\therefore[/math]
+ ক্ষমতা, [math]\mathrm{P}=\dfrac{1}{f_{\mathrm{w}}}=\dfrac{1}{0.8} \mathrm{D}=1.25 \mathrm{D}[/math]
+দেখা যাচ্ছে পানিতে লেন্সের ক্ষমতা কমবে এবং তা বায়ুর এক চতুর্থাংশ।
+
+Explanation:
+ব্যাখ্যা: ঘ লেন্সের ক্ষমতা সূত্রটি [math]P=\left(\frac{n_{lens}}{n_{medium}}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math]। বাতাসে [math]\frac{n_{lens}}{n_{air}}=\tfrac{3}{2}[/math] হলে গুণকটি [math]\tfrac{1}{2}[/math], কিন্তু পানিতে [math]\frac{n_{lens}}{n_{water}}=\tfrac{9}{8}[/math] হলে গুণকটি [math]\tfrac{1}{8}[/math] হয়ে যায়, ফলে ক্ষমতা কমে যায়। সংখ্যাগতভাবে (যদি [math]R_1=+0.15\ m,\ R_2=-0.30\ m[/math]) [math]P_{air}=5\ \mathrm{D}[/math] এবং [math]P_{water}=1.25\ \mathrm{D}[/math]—অর্থাৎ ক্ষমতা এক-চতুর্থাংশে নেমে আসে, কিন্তু লেন্স এখনও সংকেন্দ্রীক থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 428338)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. উল্লিখিত লেন্সটির ক্ষমতা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, লেন্সটির ক্ষমতা Pউদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 15 cm = 0.15 m[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দৈর্ঘ্য, [math]l=5 \mathrm{~cm}=0.05 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রতিবিম্বের দৈর্ঘ্য, [math]l^{\prime}=10 \mathrm{~cm}=0.10 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+বিবর্ধন, m = ?[math]\hspace{1 cm}[/math]
+প্রতিবিম্বের দূরত্ব, u =?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\mathrm{m}=\frac{l^{\prime}}{l} \\ \Rightarrow \mathrm{m}=\frac{0.10 \mathrm{~m}}{0.05 \mathrm{~m}} \\ \Rightarrow \mathrm{m}=2 \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \mathrm{m}=-\frac{\mathrm{v}}{\mathrm{u}}\\ \Rightarrow 2=-\frac{v}{u} \\ \therefore \mathrm{v}=-2 \mathrm{u}=-2 \times 0.15 \mathrm{~m}=-0.3 \mathrm{~m} \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l}\quad~ \frac{1}{f}=\frac{1}{u}+\frac{1}{v}=\frac{1}{0.15 \mathrm{~m}}-\frac{1}{0.3 \mathrm{~m}}=\frac{2-1}{0.3 \mathrm{~m}}=\frac{1}{0.3 \mathrm{~m}} \\ \therefore f=\frac{0.3 \mathrm{~m}}{1}=0.3 \mathrm{~m} \end{array}[/math]
+আবার, [math]\mathrm{P}=\frac{1}{f}=\frac{1}{0.3 \ \mathrm{m}}=3.33 \mathrm{D}[/math]
+
+
+Explanation:
+ব্যাখ্যা: লেন্সের ক্ষমতা হলো তার ফোকাল দৈর্ঘ্যের বিপরীত, তাই [math]P=\frac{1}{f}[/math] (এখানে [math]f[/math] মিটারে)। ছবিতে দেয়া ফোকাল দৈর্ঘ্যকে মিটারে বসিয়ে সূত্রে হিসাব করলে পাওয়া মানই গ অংশের উত্তর (ইউনিট: ডাইঅপ্টার বা D)।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 428337)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি সুইমিং পুল বেগুনি আলো দ্বারা আলোকিত। বেগুনি আলোর জন্য কাচের প্রতিসরণাঙ্ক [math]1.5[/math] এবং লাল আলোর জন্য প্রতিসরণাঙ্ক [math]1.48[/math]। একজন লোক [math]20\ cm[/math] বক্রতার ব্যাসার্ধবিশিষ্ট উভোত্তল লেন্সের চশমা পড়ে পানিতে ডুব দিলেন। তিনি [math]5\ cm[/math] সামনে বস্তু রেখে [math]25\ cm[/math] দূরে বিম্ব দেখতে পেলেন। কিন্তু বেগুনি আলো নিভিয়ে লাল আলো জ্বলতেই বিম্বের দূরত্বের পরিবর্তন হলো। পানির প্রতিসরণাঙ্ক [math]1.33[/math]।
+
+Options:
+গ. উদ্দীপকে উল্লিখিত বেগুনি আলোতে আলোকিত পানি মাধ্যমে লেন্সের ক্ষমতা কত?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, বেগুনি আলোতে কাচ লেন্সের ফোকাস দূরত্ব [math]f_v[/math]
+এবং লেন্সের ক্ষমতা, Pউদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+বেগুনি আলোতে কাচের লেন্সের প্রতিসরণাঙ্ক, [math]\mu_{\mathrm{g}_{\mathrm{v}}}=1.5[/math]
+ [math]\hspace{1 cm}[/math]
+পানির প্রতিসরণাঙ্ক, [math]\mu_w[/math]
+ = 1.33[math]\hspace{1 cm}[/math]
+পানি সাপেক্ষে কাচের লেন্সের প্রতিসরণাঙ্ক,[math]\hspace{2.5 cm}{ }_{\mathrm{w}} \mu_{\mathrm{g}}=\frac{\mu_{\mathrm{g}_{\mathrm{V}}}}{\mu_{\mathrm{w}}}=\frac{1.5}{1.33}=1.128[/math]
+ [math]\hspace{1 cm}[/math]
+লেন্সের ১ম পৃষ্ঠের বক্তৃতার ব্যাসার্ধ, [math]r_1[/math]
+ = 20cm[math]\hspace{1 cm}[/math]
+লেন্সের ২য় পৃষ্ঠের বক্তৃতার ব্যাসার্ধ, [math]r_2[/math]
+ = – 20 cmআমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f_{\mathrm{v}}} & =\left({ }_{\mathrm{w}} \mu_{\mathrm{g}_{\mathrm{v}}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ & =(1.128-1)\left(\frac{1}{20 \mathrm{~cm}}-\frac{1}{-20 \mathrm{~cm}}\right) \\ & =(0.128)\left(\frac{1}{20 \mathrm{~cm}}+\frac{1}{20 \mathrm{~cm}}\right) \\ \therefore \frac{1}{f_{\mathrm{v}}} & =\frac{0.128}{10 \mathrm{~cm}} \end{aligned}[/math]
+আবার, [math]\mathrm{P}=\frac{1}{f_{\mathrm{v}}}=\frac{0.128}{10 \mathrm{~cm}}=\frac{0.128}{0.1 \mathrm{~m}}=1.28 \mathrm{D}[/math]
+।
+
+Explanation:
+গ লেন্স-মেকার সূত্র পানি-মধ্যের জন্য ব্যবহার করলে [math]\frac{1}{f}=\left(\frac{n_{\ell}}{n_{w}}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math] হয়; উভোত্তলের জন্য [math]R_1=R,\;R_2=-R[/math] তাই [math]\frac{1}{f}=\left(\frac{1.5}{1.33}-1\right)\frac{2}{0.20}=1.2782\ \text{m}^{-1}[/math]. ফলে লেন্সের ক্ষমতা [math]P=1/f\approx1.28\ \text{diopter}[/math], অর্থাৎ প্রায় [math]1.28\ \text{D}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 428336)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+[math]15\ cm[/math] ও [math]3\ cm[/math] বক্রতার ব্যাসার্ধবিশিষ্ট একটি উভোত্তল লেন্সের সামনে [math]60\ cm[/math] দূরে একটি বস্তু স্থাপন করলে [math]30\ cm[/math] পিছনে প্রতিবিম্ব পাওয়া যায়।
+
+Options:
+ঘ. উদ্দীপকের অন্যান্য শর্তাবলি ঠিক রেখে কী ব্যবস্থা নিলে লেন্সটির ক্ষমতা [math]1.54\ D[/math] করা যায়? গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রাথমিক অবস্থায় লেন্সের ফোকাস দূরত্ব,[math]\hspace{1 cm}\begin{aligned} & \frac{1}{f}=\frac{1}{u}+\frac{1}{v}=\frac{1}{60}+\frac{1}{30}=\frac{3}{60} \\ \therefore ~& f=20 \mathrm{~cm}=0.20 \mathrm{~m} \end{aligned}[/math]
+ [math]\hspace{1 cm}\therefore[/math]
+ ক্ষমতা, [math]\mathrm{P}=\dfrac{1}{f}=\dfrac{1}{0.20}=5 \mathrm{D}[/math]
+পরবর্তী অবস্থায় ক্ষমতা, [math]P_{1}=1.54 \mathrm{D}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}P=(\mu-1)\left(\dfrac{1}{r_{1}}-\dfrac{1}{r_{2}}\right)[/math]
+সবকিছু অপরিবর্তিত থাকলে [math]P \infty \mu[/math]
+ অর্থাৎ সবকিছু অপরিবর্তিত রেখে লেন্সটির ক্ষমতা পরিবর্তন করতে চাইলে লেন্সটিকে ভিন্ন কোনো মাধ্যমে স্থাপন করতে হবে যাতে ঐ মাধ্যমের সাপেক্ষে লেন্সের উপাদানের প্রতিসরাঙ্ক কমেধরি, প্রাথমিক অবস্থায়, [math]P=(\mu-1)\left(\dfrac{1}{r_{1}}-\dfrac{1}{r_{2}}\right)[/math]
+এবং পরবর্তী অবস্থায়, [math]P_{1}=\left(\mu_{1}-1\right)\left(\dfrac{1}{r_{1}}-\dfrac{1}{r_{2}}\right)[/math]
+ [math]\hspace{1.5 cm}\begin{array}{l}\therefore ~ \frac{P}{P_{1}}=\frac{\mu-1}{\mu_{1}-1}\\ \Rightarrow \frac{5}{1.54}=\frac{1.5-1}{\mu_{1}-1}\\ \Rightarrow \mu_{1}-1=\frac{0.5}{3.25}\\ \Rightarrow \mu_{1}=1.154\end{array}[/math]
+নতুন মাধ্যমের সাপেক্ষে লেন্সের উপাদানের প্রতিসরাঙ্ক [math]{}_m\mu_l[/math]
+ হলেএখানে, [math]{ }_{m} \mu_{l}=\mu_{1}=1.154[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ {}_\mathrm{m} \mu_{\mu}=\dfrac{\mu_l}{\mu_{m}}\\ \Rightarrow 1.154=\frac{1.5}{\mu_{m}} \\ \Rightarrow \mu_{\mathrm{m}}=\frac{1.5}{1.154}=1.30 \end{array}[/math]
+ [math]\therefore[/math]
+ অন্যান্য শর্তাবলি অপরিবর্তিত রেখে লেন্সটির ক্ষমতা 1.54 D করতে হলে লেন্সটিকে 1.30 প্রতিসরণাঙ্কবিশিষ্ট মাধ্যমে ডুবাতে হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ লেন্স সূত্র থেকে [math]1/f=1/v+1/u[/math] হলে (নেগেটিভ সাইন কনভেনশন ব্যবহার করে) [math]1/f=1/30-1/60=1/60[/math] তাই [math]f=60\ cm[/math] এবং বর্তমান ক্ষমতা [math]P=1/0.6=1.6667\ D[/math]. লেন্স-মেকারের সূত্রে [math]P=(n-1)\left(\dfrac{1}{R_1}-\dfrac{1}{R_2}\right)[/math] যেখানে [math]R_1=0.15\ m,\ R_2=-0.03\ m[/math] হলে গুণকটি [math]40\ m^{-1}[/math] হয়, তাই কাঙ্ক্ষিত [math]P'=1.54\ D[/math] পেতে [math]n'=1+\dfrac{1.54}{40}=1.0385[/math] হতে হবে; অর্থাৎ লেন্সের প্রতিফলন সূচক সামান্য কমিয়ে [math]n\approx1.0385[/math] করা দরকার (উদাহরণস্বরূপ উপযুক্ত কাচ বা লেন্সটি কোনো তরলে ভাসিয়ে কার্যকর n পাওয়া)।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 428335)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+লেন্স প্রস্তুত কারখানায় সমবক্রতার ব্যাসার্ধের [math]25\ cm[/math] ফোকাস দূরত্বের একটি উভোত্তল লেন্স তৈরি করা হলো। যার উপাদানের প্রতিসরাঙ্ক [math]1.6[/math]। পরে এটিকে [math]1.16,\ 1.33[/math] ও [math]1.4[/math] প্রতিসরাঙ্কের মাধ্যমে আতশী কাচ হিসেবে ব্যবহার করা হলো।
+
+Options:
+ঘ. কোন মাধ্যমে লেন্সটি সর্বাধিক ক্ষমতায় ব্যবহৃত হয়েছিল তার গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{0.9 cm}\begin{array}{l}r_{1}=30 \mathrm{~cm}=r_{2}=-30 \mathrm{~cm} ;\\ \mu=1.6 ; \mu_{1}=1.16 ; \mu_{2}=1.33 ; \mu_{3}=1.4 \\ \frac{1}{f}=\left(\frac{\mu}{\mu_{1}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \end{array}[/math]
+ [math]\hspace{1.5 cm}\begin{aligned} \Rightarrow P_{1} & =\left(\frac{1.6}{1.16}-1\right) \times\left(\frac{1}{30 \mathrm{~cm}}+\frac{1}{30 \mathrm{~cm}}\right) \\ & =\frac{11}{29} \times \frac{2}{30 \mathrm{~cm}}=\frac{2 \times \frac{11}{29}}{30 \times 10^{-2} \mathrm{~m}}=2.53 \mathrm{D} \end{aligned}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l} \frac{1}{f}=\left(\frac{\mu}{\mu_{2}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)\\ \Rightarrow P_{2}=\left(\frac{1.6}{1.33}-1\right) \times \frac{2}{30 \times 10^{-2} \mathrm{~m}} \\ \therefore ~P_{2}=1.35 \mathrm{D} \end{array}[/math]
+অনুরূপভাবে,[math]\hspace{1.5 cm}\begin{aligned} P_{3} & =\left(\frac{\mu}{\mu_{3}}-1\right) \times\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ & =\left(\frac{1.6}{1.4}-1\right) \times\left(\frac{1}{30 \mathrm{~cm}}+\frac{1}{30 \mathrm{~cm}}\right) \\ & =\frac{1}{7} \times \frac{2}{30 \times 10^{-2} \mathrm{~m}} \\ & =0.95 \mathrm{D} \end{aligned}[/math]
+দেখা যাচ্ছে, [math]P_{1}>P_{2}>P_{3}[/math]
+অতএব, 1.16 প্রতিসরাঙ্কের মাধ্যমে লেন্সটি সর্বাধিক ক্ষমতায় ব্যবহৃত হয়েছিল।
+
+Explanation:
+ব্যাখ্যা: লেন্স-মেকার সূত্র (মাধ্যমে) হল [math]\frac{1}{f}=\left(\frac{n_l}{n_m}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math], এবং উভোত্তল পদার্থে [math]R_1=R,\ R_2=-R[/math] হলে [math]\frac{1}{f}=\left(\frac{n_l}{n_m}-1\right)\frac{2}{R}[/math]. এখানে [math]n_l=1.6,\ R=25\ \text{cm}[/math], তাই শক্তি প্রকাশ পায় [math]P\propto\left(\frac{1.6}{n_m}-1\right)\times0.08[/math]; n_m=1.16,1.33,1.4 হলে কন্সট্যান্টগুলি যথাক্রমে [math]0.3793,\ 0.2030,\ 0.1429[/math] এবং শক্তিগুলি [math]0.03034,\ 0.01624,\ 0.01143\ (\text{cm}^{-1})[/math]. দ্রুততর বিশ্লেষণে দেখা যায় সর্বাধিক শক্তি সর্বনিম্ন পরিবেশের আপবিত্রাঙ্কে (অর্থাৎ [math]n_m=1.16[/math]) হয়, তাই উত্তর ঘ।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 428334)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]15\ cm[/math] ও [math]30\ cm[/math] বক্রতার ব্যাসার্ধবিশিষ্ট একটি উভোত্তল লেন্সের সামনের [math]60\ cm[/math] দূরে একটি বস্তু স্থাপন করলে [math]30\ cm[/math] পিছনে প্রতিবিম্ব পাওয়া যায়।
+
+Options:
+ঘ. উদ্দীপকের অন্যান্য শর্তাবলি ঠিক রেখে কী ব্যবস্থা নিলে লেন্সটির ক্ষমতা [math]1.54\ D[/math] করা যায়? গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+লেন্সের ক্ষমতা, P = 1.54 D[math]\therefore[/math]
+ ফোকাস দূরত্ব, [math]f^{\prime}=\dfrac{1}{P}=\dfrac{1}{1.54}=64.94 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+লেন্সের প্রথম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_1[/math]
+ = 15 cm[math]\hspace{1 cm}[/math]
+লেন্সের ২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_2[/math]
+ = -30 cmএখানে,[math]\hspace{1 cm}[/math]
+লেন্সের প্রথম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_1[/math]
+ = 15 cm[math]\hspace{1 cm}[/math]
+লেন্সের ২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_2[/math]
+ = − 30 cm[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 60 cm[math]\hspace{1 cm}[/math]
+বিম্বের দূরত্ব, v = 30 cm[math]\hspace{1 cm}[/math]
+লেন্সের উপাদানের প্রতিসরণাঙ্ক, [math]\mu[/math]
+ = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\dfrac{1}{u}+\frac{1}{v}=(\mu-1)\left(\dfrac{1}{r_{1}}-\dfrac{1}{r_{2}}\right) \\ \Rightarrow \mu-1=\dfrac{\frac{1}{u}+\dfrac{1}{v}}{\frac{1}{r_{1}}-\frac{1}{r_{2}}} \\ \Rightarrow \mu=\dfrac{\frac{1}{u}+\frac{1}{v}}{\frac{1}{r_{1}}-\frac{1}{r_{2}}}+1=\dfrac{\frac{1}{60}+\frac{1}{30}}{\frac{1}{15}+\frac{1}{30}}+1=\dfrac{3}{2} \end{array}[/math]
+অতএব, উদ্দীপকের লেন্সটির উপাদানের প্রতিসরাঙ্ক [math]\dfrac{3}{2}[/math]
+।ধরি, লেন্সটিকে [math]\mu_{1}[/math]
+ প্রতিসরাঙ্কের মাধ্যমে নিয়ে গেলে এর ক্ষমতা 1.54 D হবে।[math]\therefore[/math]
+ শর্তানুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad \dfrac{1}{64.94}=\left(\dfrac{\mu}{\mu_{1}}-1\right)\left(\dfrac{1}{r_{1}}-\dfrac{1}{r_{2}}\right) \\ \Rightarrow \dfrac{\mu}{\mu_{1}}-1=\dfrac{\frac{1}{64.94}}{\frac{1}{15}+\frac{1}{30}} \\ \Rightarrow \dfrac{\mu}{\mu_{1}}=1.154 \\ \Rightarrow \mu_{1}=\dfrac{\mu}{1.154}=\dfrac{\frac{3}{2}}{1.154}=1.3 \end{array}[/math]
+অতএব, লেন্সটিকে 1.3 প্রতিসরাঙ্কের মাধ্যমে নিয়ে গেলে এর ক্ষমতা 1.54 D হবে।
+
+Explanation:
+ঘ সাম্যের সূত্র থেকে [math]1/f=1/v+1/u=1/30+1/60=1/20[/math] তাই [math]f=20\ cm=0.20\ m[/math] এবং বর্তমান লেন্সের ক্ষমতা [math]P=1/f=5\ D[/math]; লেন্সমেকারের সূত্র [math]1/f=(n-1)\bigl(1/R_1-1/R_2\bigr)[/math] ব্যবহার করে, [math]R_1=0.15\ m,\ R_2=-0.30\ m[/math] দিলে [math](n-1)\times 10=5[/math] থেকে [math]n=1.5[/math].  
+চাহিত ক্ষমতা [math]1.54\ D[/math] হলে [math]f=1/1.54\approx0.64935\ m[/math]; একই [math]n=1.5,R_1=0.15\ m[/math] ধরে লেন্সমেকারে বসালে [math]1/R_2=1/R_1-2(1/f)=6.6667-3.078\approx 3.5887\ m^{-1}</math] ফলে [math]R_2\approx -0.2787\ m\approx -27.9\ cm[/math]. অর্থাৎ পিছনের বক্রতার ব্যাসার্ধকে প্রায় [math]30\ cm[/math] থেকে [math]27.9\ cm[/math] (অভ্যন্তরীণ চিহ্ন বজায় রেখে) কমালে ক্ষমতা [math]1.54\ D[/math] হয়ে যাবে।
+
+Sub-Questions:
+

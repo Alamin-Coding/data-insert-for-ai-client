@@ -1,0 +1,190 @@
+================================================================================
+Question #1 (ID: 411231)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+যদি [math]P[/math] পীড়ন এবং [math]Y[/math] কোন তারের উপাদানের ইয়াং-এর গুণাঙ্ক হয় তবে তারের প্রতি একক আয়তনে সঞ্চিত শক্তি–
+
+Options:
+ক. [math]1P^2Y[/math]
+খ. [math]\dfrac{P^2}{2Y}[/math]
+গ. [math]\dfrac{2Y}{P^2}[/math]
+ঘ. [math]\dfrac{P}{2Y}[/math]
+
+
+Correct Answer: খ
+
+Solution:
+[math]W=\dfrac{1}{2} \times[/math]
+ পীড়ন [math]\times[/math]
+ বিকৃতি [math]=\dfrac{1}{2} \times P \times \dfrac{P}{Y}=\dfrac{P^{2}}{2 Y} \quad \mid \quad y=\dfrac{P}{\frac{I}{L}} \Rightarrow \dfrac{I}{L}=\dfrac{P}{Y}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 411236)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+5m দৈর্ঘ্য এবং 1 mm ব্যাসবিশিষ্ট তারে 1000 kg ভর চাপালে দৈর্ঘ্য 0.3 mm প্রসারিত হয়। তারটির সঞ্চিত শক্তির পরিমাণ কত ?
+
+Options:
+ক. 0.0147 J
+খ. 0.03 J
+গ. 0.147 J
+ঘ. 100 J
+
+
+Correct Answer: গ
+
+Solution:
+সঠিক উত্তরটি হলো 0.0147 J।প্রথমে, তারটির ক্ষেত্রফল (area) নির্ণয় করতে হবে। ব্যাস [math]d = 1[/math]
+ mm [math]= 1 \times 10^{-3}[/math]
+ m। ব্যাসার্ধ [math]r = d/2 = 0.5 \times 10^{-3}[/math]
+ m। ক্ষেত্রফল [math]A = \pi r^2 = \pi (0.5 \times 10^{-3})^2 = \pi \times 0.25 \times 10^{-6}[/math]
+ m [math]^2[/math]
+।তারটির স্থিতিস্থাপক গুণাঙ্ক (Young's Modulus, [math]Y[/math]
+) নির্ণয় করতে হবে। বল [math]F = mg = 1000 \times 9.8[/math]
+ N। আদি দৈর্ঘ্য [math]L = 5[/math]
+ m। দৈর্ঘ্য প্রসারণ [math]\Delta L = 0.3[/math]
+ mm [math]= 0.3 \times 10^{-3}[/math]
+ m।[math]Y = \frac{FL}{A\Delta L} = \frac{(1000 \times 9.8) \times 5}{(\pi \times 0.25 \times 10^{-6}) \times (0.3 \times 10^{-3})}[/math]
+ [math]Y = \frac{49000}{\pi \times 0.75 \times 10^{-9}} \approx \frac{49000}{2.356 \times 10^{-9}} \approx 2.079 \times 10^{13}[/math]
+ Pa।সঞ্চিত শক্তি (stored energy) [math]U[/math]
+ নিম্নলিখিত সূত্র দ্বারা গণনা করা হয়:[math]U = \frac{1}{2} \times \text{বল} \times \text{দৈর্ঘ্য প্রসারণ} = \frac{1}{2} F \Delta L[/math]
+ [math]U = \frac{1}{2} \times (1000 \times 9.8) \times (0.3 \times 10^{-3})[/math]
+ [math]U = \frac{1}{2} \times 9800 \times 0.0003[/math]
+ [math]U = 4900 \times 0.0003 = 1.47[/math]
+ J।তবে, প্রশ্নে সঞ্চিত শক্তি [math]0.3[/math]
+ mm প্রসারণের জন্য জানতে চেয়েছে, এবং আমরা এটিকে একটি প্রসারণের অংশ হিসেবে দেখছি। অন্যভাবে, সঞ্চিত শক্তির পরিমাণ [math]U = \frac{1}{2} Y A \frac{(\Delta L)^2}{L}[/math]
+ সূত্র থেকেও গণনা করা যেতে পারে।[math]U = \frac{1}{2} \times (2.079 \times 10^{13}) \times (\pi \times 0.25 \times 10^{-6}) \times \frac{(0.3 \times 10^{-3})^2}{5}[/math]
+ [math]U = \frac{1}{2} \times (2.079 \times 10^{13}) \times (0.785 \times 10^{-6}) \times \frac{0.09 \times 10^{-6}}{5}[/math]
+ [math]U = \frac{1}{2} \times 1.632 \times 10^7 \times 1.8 \times 10^{-8}[/math]
+ [math]U = \frac{1}{2} \times 0.029376 \approx 0.014688[/math]
+ J।সুতরাং, সঞ্চিত শক্তির পরিমাণ প্রায় [math]0.0147[/math]
+ J।এই ধরণের সমস্যাগুলি স্থিতিস্থাপকতা (elasticity) এবং পদার্থের ধর্মের (properties of materials) সাথে সম্পর্কিত। সঞ্চিত শক্তি একটি বস্তুর বিকৃতির (deformation) সময় তার অভ্যন্তরে জমা হওয়া শক্তি। Young's Modulus বস্তুর কাঠিন্য (stiffness) পরিমাপ করে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 411235)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+টান করা তারে একক আয়তনে সঞ্চিত স্থিতিশক্তি হল—
+
+Options:
+ক. [math]\frac{Y l}{2 \mathrm{~L}^{2}}[/math]
+খ. [math]\frac{l}{2 \mathrm{~L}^{2}}[/math]
+গ. [math]\frac{\mathrm{L}^{2}}{2 Y l}[/math]
+ঘ. [math]\frac{Y l^{2}}{2 \mathrm{~L}^{2}}[/math]
+
+
+Correct Answer: D.[math]\frac{Y l^{2}}{2 \mathrm{~L}^{2}}[/math]
+
+Solution:
+প্রসারিত তারে একক আয়তনে সঞ্চিত স্থিতিশক্তি হলো [math]\frac{1}{2} \times \text{পীড়ন} \times \text{বিকৃতি}[/math]
+। আমরা জানি, Young's modulus ( [math]Y[/math]
+) = [math]\frac{\text{পীড়ন}}{\text{বিকৃতি}}[/math]
+, তাই পীড়ন = [math]Y \times \text{বিকৃতি}[/math]
+। এখানে, মনে করি তারের দৈর্ঘ্য [math]L[/math]
+ এবং প্রসারিত দৈর্ঘ্য [math]l[/math]
+, তাই বিকৃতি = [math]\frac{l}{L}[/math]
+। অতএব, পীড়ন = [math]Y \frac{l}{L}[/math]
+।সুতরাং, একক আয়তনে সঞ্চিত স্থিতিশক্তি = [math]\frac{1}{2} \times \left(Y \frac{l}{L}\right) \times \left(\frac{l}{L}\right) = \frac{1}{2} Y \frac{l^2}{L^2}[/math]
+।এই রাশিটি, [math]Y \frac{l^2}{2 L^2}[/math]
+, শক্তির একটি পরিমাপ। এটি তারের স্থিতিস্থাপকতার সাথে সম্পর্কিত।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 411234)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+5m দৈর্ঘ্য এবং 1mm ব্যাস বিশিষ্ট তারে 100 kg ভর চাপালে দৈর্ঘ্য 0.3mm প্রসারিত হয়। তারটির সঞ্চিত শক্তির পরিমান কত?
+
+Options:
+ক. 0.0147 J
+খ. 0.03J
+গ. 0.147J
+ঘ. 5J
+ঙ. 100 J
+
+
+Correct Answer: গ
+
+Solution:
+[math]\mathrm{W}=\frac{1}{2} \mathrm{Fx}=\frac{1}{2} \mathrm{mgx}=\frac{1}{2} \times 100 \times 9.8 \times 0.3 \times 10^{-3}=0.147 \mathrm{~J}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 411233)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: University of Rajshahi (A Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি P পীড়ন এবং Y কোন তারের উপাদানের ইয়াং -এর গুণাঙ্ক হয় তবে তারের প্রতি একক আয়তনে সঞ্চিত শক্তি:
+
+Options:
+ক. [math]2P^2Y[/math]
+খ. [math]\frac{P^{2}}{2 Y}[/math]
+গ. [math]\frac{2 Y}{P^{2}}[/math]
+ঘ. [math]\frac{P}{2 Y}[/math]
+
+
+Correct Answer: খ
+
+Solution:
+একক আয়তনে সঞ্চিত শক্তি:[math]=\frac{P^{2}}{2 Y}=\frac{1}{2} \times[/math]
+ × (পীড়ন)² × বিকৃতি/ সায়ন[math]= \frac{1}{2}[/math]
+ × পীড়ন × বিকৃতি
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 411232)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Jessore University of Science & Technology (C Unit)
+--------------------------------------------------------------------------------
+Question:
+5m দৈর্ঘ্য ও 1mm ব্যাসবিশিষ্ট তারে 25kg ভরের ফলে দৈর্ঘ্য 0.1mm প্রসারিত হলে তারটির সঞ্চিত শক্তির পরিমাণ কত?
+
+Options:
+ক. 0.01225kJ
+খ. 0.1225J
+গ. 0.01225 J
+ঘ. 0.1225KJ
+
+
+Correct Answer: গ
+
+Solution:
+[math]w=\frac{1}{2} F l=\frac{1}{2} \times 25 \times 9.8 \times 0.1 \times 10^{-3} J=0.01225 J[/math]
+
+Explanation:
+
+
+Sub-Questions:
+

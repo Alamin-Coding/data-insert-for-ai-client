@@ -1,0 +1,727 @@
+================================================================================
+Question #1 (ID: 405367)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+500 kg ভরের একটি রকেট উৎক্ষেপন করা হবে। গ্যাসের নির্গমন বেগ [math]100 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math] হলে নিম্নলিখিত ক্ষেত্রে প্রয়োজনীয় ধাক্কা প্রদানের জন্য জ্বালানি নির্গমন হার নির্ণয় কর।
+
+i. রকেটের ওজনের সমান বল প্রয়োগের জন্য
+
+ii. 2g মানের প্রারম্ভিক ত্বরণ প্রদানের জন্য।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (i) [math]49 \mathrm{\ kgs}^{-1}[/math]
+ (ii) [math]147 \mathrm{\ kgs}^{-1}[/math]
+ )[math]\\[/math]
+Solution :i. রকেটের ওজন ,[math]\begin{array}{l}=\mathrm{m}_{0} \mathrm{~g} \\=5000 \times 9.8=49,000 \mathrm{~N}\end{array}[/math]
+ধরি, প্রতি সেকেন্ডে x kg গ্যাস নির্গত হয়।[math]\begin{array}{l}\therefore x_{\mathrm{e}}=\mathrm{m}_{0} \mathrm{~g} \\\therefore \mathrm{x}=\frac{\mathrm{m}_{0} \mathrm{~g}}{\mathrm{v}_{\mathrm{e}}}=\frac{49,000}{1000}=49 \mathrm{kgs}^{-1}\end{array}[/math]
+ii. ঊর্ধ্বমুখী ত্বরণ, a = 2gঊর্ধ্বমুখী ধাক্কা, [math]\mathrm{F}=\mathrm{m}_{0} \mathrm{~g}=\mathrm{m}_{0}(2 \mathrm{~g})=2 \mathrm{~m}_{0} \mathrm{~g}[/math]
+রকেটের ওজন, [math]\mathrm{W}=\mathrm{m}_{\mathrm{o}} \mathrm{g}[/math]
+মোট বল [math]\mathrm{F}+\mathrm{W}=2 \mathrm{~m}_{0} \mathrm{~g}+\mathrm{m}_{\mathrm{o}} \mathrm{g}=3 \mathrm{~m}_{0} \mathrm{~g}[/math]
+ধরি, x kg গ্যাস প্রতি সেকেন্ডে নির্গত হয়।[math]\therefore \mathrm{x}^{\prime} \mathrm{v}_{\mathrm{e}}=3 \mathrm{~m}_{\mathrm{o}} \mathrm{g}[/math]
+ [math]\Rightarrow[/math]
+ [math]1000 x^{\prime}=147,000[/math]
+ [math]\Rightarrow[/math]
+ [math]x^{\prime}=147 \mathrm{\ kgs}^{-1}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রকেটের থ্রাস্ট এবং জ্বালানি নির্গমন হারের সম্পর্ক হলো [math]T = v_e\dot m[/math], এবং মোট প্রয়োজনীয় থ্রাস্ট ওজন ও প্রয়োজনীয় ত্বরণ মিলিয়ে [math]T = m(g+a)[/math] দিয়ে নির্ণয় করা হয়।
+
+ক রকেটের ওজনের সমান বল দিতে থ্রাস্ট হবে [math]T=mg=500\times9.8=4900\ \mathrm{N}[/math], সুতরাং নির্গমন হার [math]\dot m=T/v_e=4900/100=49\ \mathrm{kg/s}[/math]।
+
+খ প্রারম্ভিক ত্বরণ [math]a=2g[/math] হলে থ্রাস্ট হবে [math]T=m(g+2g)=3mg=3\times500\times9.8=14700\ \mathrm{N}[/math], ফলে নির্গমন হার [math]\dot m=14700/100=147\ \mathrm{kg/s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 405359)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+উৎক্ষেপণের পূর্বমুহূর্তে রকেট এবং তার জ্বালানির ভর যথাক্রমে [math]1 \times 10^{3} \mathrm{~kg}[/math] এবং [math]0.9 \times 10^{3} \mathrm{~kg}[/math] । গ্যাসের নির্গমনের হার এবং বেগ যথাক্রমে [math]7.4 \mathrm{~kg} \mathrm{~s}^{-1}[/math] এবং [math]2.5 \times 10^{3} \mathrm{~m} \mathrm{~s}^{-1}[/math]।
+
+Options:
+ক. ঘাতবল কী?
+খ. ভরবেগের সংরক্ষণ সূত্র বিবৃত এবং ব্যাখ্যা কর।
+গ. উদ্দীপকের সংশ্লিষ্ট নিউটনের গতি সূত্রের গাণিতিক ব্যাখ্যা দাও।
+ঘ. রকেট কত ত্বরণে উপরের দিকে এগিয়ে যাবে তা বের কর।
+
+
+Correct Answer: 
+
+Solution:
+কখুব অল্প সময়ের জন্য খুব বড় মানের যে বল কোনো বস্তুর উপর প্রযুক্ত হয় তাকে ঘাতবল বলে।[math]\\[/math]
+ খদুই বা ততোধিক বস্তুতে ক্রিয়া-প্রতিক্রিয়া ছাড়া অন্যকোনো বাহ্যিক বল ক্রিয়া না করলে কোনো নির্দিষ্ট দিকে ঐ বস্তুগুলোর মোট রৈখিক ভরবেগের কোনো পরিবর্তন হবে না।ব্যাখ্যা: মনে করি, m₁ ও m₂ ভরের দুটি বস্তু u₁ ও [math]\overrightarrow{\mathrm{u}}_{2}[/math]
+ বেগে গতিশীল থাকা অবস্থায় এদের মধ্যে সংঘর্ষ হলো। সংঘর্ষের ফলে বস্তুদ্বয়ের বেগ পরিবর্তিত হয়ে যথাক্রমে [math]\overrightarrow{\mathrm{v}}_{1}[/math]
+ ও [math]\overrightarrow{\mathrm{v}}_{2}[/math]
+ হলো।সুতরাং ভরবেগের নিত্যতার সূত্র অনুসারে, সংঘর্ষের পূর্বে মোট ভরবেগ = সংঘর্ষের পরে মোট ভরবেগ[math]\Rightarrow\text { } m_{1} \overrightarrow{u_{1}}+m_{2} \vec{u}_{2}^{\prime}=m_{1} \vec{v}_{1}+m_{2} \vec{v}_{2}[/math]
+ [math]\\[/math]
+ গউদ্দীপকের ঘটনাটি নিউটনের গতির তৃতীয় সূত্রকে সমর্থন করে। নিচে এ সূত্রটির গাণিতিক ব্যাখ্যা দেওয়া হলো-নিউটনের গতির তৃতীয় সূত্র। যার ফলে রকেটের চলন সম্ভব হয়।মনে করি, রকেটের ভর = M এবং বেগ = vঅতিক্ষুদ্র সময় [math]\Delta[/math]
+t ব্যবধানে নির্গত গ্যাসের ভর = [math]\Delta[/math]
+m[math]\therefore[/math]
+ গ্যাস নির্গমনের হার, [math]=\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+রকেট থেকে গ্যাস যখন একটি নির্দিষ্ট হারে নির্গত হয়, তখন গ্যাসের গতির বিপরীত দিকে রকেটটি একটি স্থির বল লাভ করে। এই বলকে ধাক্কা বলে।এখন নির্গত গ্যাসের বেগ v হলে, নির্গত গ্যাসের ভরবেগ = ( [math]\Delta[/math]
+ m) v আবার, রকেটের উপর প্রযুক্ত বল F হলে বলের ঘাত, [math]\mathrm{J}=\mathrm{F}(\Delta \mathrm{t})[/math]
+কিন্তু আমরা জানি, কোনো বস্তুর ভরবেগের পরিবর্তন তার উপর প্রযুক্ত বলের ঘাতের সমান।[math]\begin{array}{ll}\therefore & (\Delta \mathrm{m}) \mathrm{v}=\mathrm{F}(\Delta \mathrm{t}) \\\Rightarrow\text { } & \mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}\end{array}[/math]
+এখানে, [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+ হলো জ্বালানি ব্যবহারের হার।যেকোনো মুহূর্তে রকেটের তাৎক্ষণিক ত্বরণ a হলে, F = Ma[math]\Rightarrow\text { } \mathrm{a}=\frac{\mathrm{F}}{\mathrm{M}}=\frac{1}{\mathrm{M}}\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+রকেটের ত্বরণ, [math]=a-g=\frac{1}{M}\left(\frac{\Delta m}{\Delta t}\right) v-g[/math]
+আবার, রকেটের ওজন, W = Mgসুতরাং রকেটের লব্ধি বল = রকেটের ঊর্ধ্বমুখী ধাক্কা – ওজন[math]=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}-\mathrm{Mg}[/math]
+মহাশূন্যে g এর মান প্রায় শূন্য, তাই রকেটের ত্বরণ, [math]=\frac{1}{M} \cdot\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এবং রকেটের লব্ধি বল , [math]=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+অর্থাৎ গাণিতিক প্রতিপাদন করে দেখা যায় রকেটের উপর প্রযুক্ত বাহ্যিক বল এবং রকেটের লব্ধি বল সমান এটিই নিউটনের তৃতীয় সূত্র।[math]\\[/math]
+ ঘএখানে, রকেটের ভর, M = নিজস্ব ভর + জ্বালানির ভর[math]\begin{array}{l}=1 \times 10^{3} \mathrm{~kg}+0.9 \times 10^{3} \mathrm{~kg} \\=1.9 \times 10^{3} \mathrm{~kg}\end{array}[/math]
+জ্বালানির নির্গমন বেগ, v = 2.5 × [math]10^3 ms^-1[/math]
+দহনের হার, [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}=7.4 \mathrm{~kg} \mathrm{~s}^{-1}[/math]
+[অভিকর্ষজ বলের প্রভাব উপেক্ষা করে][math]\begin{array}{l}=\frac{1}{1.9 \times 10^{3} \mathrm{~kg}} \times 7.4 \mathrm{~kg} \mathrm{~s}^{-1} \times 2.5 \times 10^{-3} \mathrm{~m} \mathrm{~s}^{-1} \\=\frac{185}{19} \mathrm{~m} \mathrm{~s}^{-2}=9.739 \mathrm{~m} \mathrm{~s}^{-2}\end{array}[/math]
+অতএব, রকেটটি 9.739 m [math]s^-2[/math]
+ বেগে সামনের দিকে এগিয়ে চলবে।-
+
+Explanation:
+ক ঘাতবলটি হলো গ্যাস নির্গমনের হার ও নির্গমন বেগের গুণ: [math]F=\dot m\,u=7.4\times(2.5\times10^3)=1.85\times10^4\ \mathrm{N}[/math]—এটি রকেটকে সামনে ঠেলতে কাজ করে।
+
+খ ভরবেগের সংরক্ষণ সূত্র: বিচ্ছিন্ন সিস্টেমে মোট ভরবেগ স্থির থাকে; রকেট ও বের হওয়া গ্যাসের মোট ভরবেগের পরিবর্তন শূন্য, অর্থাৎ বের হওয়া গ্যাস যে ভরবেগ হারায় তা রকেট বিপরীত দিকে অর্জন করে।
+
+গ নিউটনের গতি সূত্রের গাণিতিক ব্যাখ্যা (রকেট): একটি ক্ষুদ্র সময়ে বের হওয়া ভরের [math]dm[/math] জন্য ভরবেগ সুষম রাখলে পাওয়া যায় [math]m\,dv=-u\,dm[/math] (এখানে [math]u[/math] হলো রকেটের অপেক্ষায় নির্গত গ্যাসের বেগ), তাই [math]m\frac{dv}{dt}=-u\frac{dm}{dt}[/math]; বাইরের বল থাকলে ডান পাশে সেই বল যোগ হয়।
+
+ঘ প্রাথমিক মোট ভর [math]m=1.0\times10^3+0.9\times10^3=1.9\times10^3\ \mathrm{kg}[/math] এবং গ্র্যাভিটি বল [math]mg=1.9\times10^3\times9.8=1.862\times10^4\ \mathrm{N}[/math]; সুতরাং ত্বরণ [math]a=(F-mg)/m=(1.85\times10^4-1.862\times10^4)/1.9\times10^3\approx-6.3\times10^{-2}\ \mathrm{m/s^2}[/math], অর্থাৎ উপরের দিকে নয়—সামান্যভাবে নীচের দিকে ত্বরণ আছে।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 405360)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+5000 kg ভরের একটি বালুভর্তি ট্রাক ঘণ্টায় 72 km বেগে চলছে । ট্রাক হতে প্রতি সেকেন্ডে 200gm বালু ছিদ্র পথে পড়ে যাচ্ছে। ব্রেক চেপে 20 min পরে ট্রাকটিতে 20 m দূরত্বে থামানো হলো।
+
+Options:
+গ. যাত্রা শুরুর 15 min পরে ট্রাকের বেগের মান বের করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,সময়, t = 15 min= (15 ×, 60) s = 900 s পূর্বে ট্রাকের ভর, M = 5000 kg.পূর্বে গাড়ির বেগ,[math]\begin{aligned}v=72 \mathrm{kmhr}^{-1} & =\frac{72 \times 1000}{3600} \\& =20 \mathrm{~ms}^{-1}\end{aligned}[/math]
+প্রতি সেকেন্ডে 200 gm বা 0.2 kg বালু ছিদ্র পথে পড়ে গেলে 15 min এ পড়ে যাওয়া বালুর পরিমাণ[math]\begin{array}{l} \mathrm{m}=900 \times 0.2 \\=180 \mathrm{~kg} \\\therefore 15 \mathrm{~min} \text { }\end{array}[/math]
+ পর ট্রাকের ভর[math]\begin{aligned}\mathrm{m}^{\prime} & =\mathrm{M}-\mathrm{m} \\& =(5000-180) \mathrm{kg} \\& =4820 \mathrm{~kg}\end{aligned}[/math]
+15 min পর ট্রাকের বেগ [math]v^\prime[/math]
+ হলে, ভরবেগের সংরক্ষণ সূত্রানুসারে,[math]\begin{array}{l}\quad M v=m^{\prime} v^{\prime} \\\Rightarrow\text { } v^{\prime}=\frac{M v}{m^{\prime}}=\frac{5000 \times 20}{4820} \\\therefore v^{\prime}=20.75 \text { ms }^{-1} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ বেগ একই থাকবে: [math]72\ \text{km/h}=20\ \text{m/s}.[/math]
+
+ব্যাখ্যা: বালু নিচে পড়লেও অনুভূমিক দিকে কোনো বাহ্যিক বল না হলে ট্রাকের অনুভূমিক বেগ অপরিবর্তিত থাকে; বালু লম্বাভাবে পড়লে অনুভূমিক ইমপালস শেয়ার করা হয় না, তাই গতি অপরিবর্তিত।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 405361)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+10,000 kg জ্বালানীসহ একটি রকেটের ভর 15,000kg। রকেটের জ্বালানী 200 kg/s হারে পুড়ে এ বং গ্যাস 2000 m/s বেগে হয়। রকেটের উপরের দিকে থাকা কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]F=V_{r} \frac{d m}{d t}-M_{g} \Rightarrow F=2000 \times 200-(15,000) \times 9.8 \Rightarrow F=25.3 \times 10^{4} \mathrm{~N}[/math]
+
+Explanation:
+ব্যাখ্যা: রকেটের থ্রাস্ট (উপরের দিকে থাকা বল) হচ্ছে জ্বালানীর ভর প্রবাহ গুণ গ্যাসের নির্গমন বেগ, অর্থাৎ [math]F=\dot m v_{e}[/math]. এখানে [math]\dot m=200\ \text{kg/s}[/math] ও [math]v_{e}=2000\ \text{m/s}[/math], সুতরাং [math]F=200\times2000=4.0\times10^{5}\ \text{N}[/math] (উপরের দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 405362)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2008-2009 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+মহাকাশে অবস্থিত একটি শাটল মহাকাশ যানের ভর [math]3 \times 10^3[/math] এবং জ্বালানীর ভর 50,000 gm । জ্বালানী [math]15kgs^{-1}[/math] হারে ব্যবহৃত হলে এবং [math]150ms^{-1}[/math] সুষম দ্রুতিতে নির্গত হলে শাটল যানের উপর ধাক্কা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}=15 \mathrm{kgs}^{-1} \times 150 \mathrm{~ms}^{-1}=2250 \mathrm{kgms}^{-2}=2250 \mathrm{~N}[/math]
+
+Explanation:
+ব্যাখ্যা: ধাক্কা (thrust) নির্ণয় করা হয় নির্গত গ্যাসের ভর প্রবাহের এবং নির্গত বেগের গুণফল হিসেবে, অর্থাৎ [math]F=\dot m v_e[/math]. এখানে [math]\dot m=15\ \mathrm{kg\,s^{-1}},\ v_e=150\ \mathrm{m\,s^{-1}}[/math], তাই [math]F=15\times150=2250\ \mathrm{N}[/math]. শাটলের মোট ভর বা মজুত জ্বালানীর পরিমাণ এখানে তাৎক্ষণিক ধাক্কার মান পরিবর্তন করে না—ধাক্কা নির্ভর করে কেবল ভর প্রবাহ ও নিষ্কাশিত গ্যাসের বেগের উপর।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 405363)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আমরা জানি যে, প্রপেলার প্লেন যখন ওড়ে তখন বাতাসে চাপ দেয়। বাতাস উল্টা চাপ দেয় বলে এই প্লেন চলতে পারে, কিন্তু রকেট চলে মহাশূন্যে যেখানে কোনো বাতাস নেই। রকেট যখন চলে তখন রকেট থেকে নির্দিষ্ট হারে গ্যাস নির্গত হতে থাকে। এই গ্যাসনির্গত না হলে রকেট চলতো না আর মহাশূন্যের অনেক কিছুই আমাদের জানা হতো না।
+
+Options:
+ঘ. বাতাস না থাকলেও রকেট কেন চলছে? কোন নীতির উপর ভিত্তি করে চলছে? এ নীতির সাহায্যে কোনো নির্দিষ্ট মুহূর্তের রকেটের ত্বরণ বের কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘবাতাস না থাকলেও রকেটের পিছনের সরু পথ দিয়ে উচ্চ চাপের গ্যাস অত্যন্ত জোরে নির্গমনের ফলে রকেট সামনের দিকে ধাবিত হয়৷ ছিদ্র পথে গ্যাস নির্গমন হলো ক্রিয়া এবং এর ফলে যে প্রতিক্রিয়া সৃষ্টি হয় তা রকেটেকে গ্যাস প্রবাহের বিপরীত দিকে চালিত করে। রকেট ভরবেগের সংরক্ষণশীলতা নীতি অনুসরণ করে চলছে। ধরি, রকেট থেকে জ্বালানি তথা গ্যাস ধ্রুব v বেগে নির্গত হচ্ছে। [math]\Delta t[/math]
+ সময়ে নির্গত গ্যাসের ভর [math]\Delta \mathrm{m}[/math]
+ হলে, নির্গত গ্যাসের ভরবেগ, [math]\Delta \mathrm{p}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+নির্গত গ্যাসের এই ভরবেগ রকেটস্থ জ্বালানির ভরবেগের পরিবর্তনের সমান। ভরবেগের সংরক্ষণ সূত্র অনুসারে জ্বালানির ভরবেগের এই পরিবর্তন রকেটটির ভরবেগের পরিবর্তনের সমান। কোনো বস্তুর ভরবেগের পরিবর্তন তার ওপর প্রযুক্ত বল এবং বলের ক্রিয়াকালের গুণফলের সমান । সুতরাং রকেটের ওপর প্রযুক্ত বল F হলে, [math]\Delta \mathrm{P}=\mathrm{F} \Delta \mathrm{T}[/math]
+ [math]\therefore \mathrm{F} \Delta \mathrm{t}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+ [math]\therefore[/math]
+ [math]\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এখানে [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+ হচ্ছে জ্বালানি ব্যবহারের হার। কোনো মুহূর্তে রকেটের ভরM হলে এবং ঐ মুহূর্তে তার ত্বরণ a হলে ত্বরণ, [math]a=\frac{F}{M}=\left(\frac{\Delta m}{\Delta t}\right) v[/math]
+।
+
+Explanation:
+ব্যাখ্যা: ঘ রকেট বাতাস না থাকলেও চলে কারণ গ্যাস নিক্ষেপের ফলে রকেট–গ্যাস সমন্বয়ের মোট গতি রক্ষিত থাকে (নিউটন-এর তৃতীয় নীতি/সংরক্ষণীয় গতি). যদি গ্যাস আপেক্ষিক বেগ হয় [math]v_e[/math] এবং নিক্ষেপের ভরপ্রবাহ হয় [math]\dot m[/math] (ধনাত্মক মান), তৎক্ষণাৎ থ্রাস্ট হবে [math]F=v_e\dot m[/math] এবং মহাশূন্যে তৎক্ষণাৎ ত্বরণ হবে [math]a=\dfrac{v_e\dot m}{m}[/math] (যেখানে [math]m[/math] হচ্ছে রকেটের তত্ক্ষণিক ভর); যদি বাইরের বল (যেমন গравিটি) থাকে, তাহলে উপযুক্তভাবে যোগ/বিয়োগ করতে হবে (উদাহরণ: [math]a=\dfrac{v_e\dot m}{m}-g[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 405364)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভরবেগের নিত্যতা সূত্র আমাদের জীবনে অনেক গুরুত্বপূর্ণ। এর উপর ভিত্তি করে সম্ভব হয়েছে মহাকাশ অভিযান। একটি শাটল মহাকাশ যানের ভর [math]3 \times 10^{3} \mathrm{~kg}[/math] এবং জ্বালানির ভর 50kg। এতে জ্বালানি [math]5 \mathrm{kgs}^{-1}[/math] হারে ব্যবহৃত হয় এবং [math]150 \mathrm{~ms}^{-1}[/math] সুষম দ্রুতিতে নির্গত হয় ।
+
+Options:
+গ. উদ্দীপকে উল্লেখিত শাটল যানের উপর ধাক্কা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, মহাযানের ভর, [math]\mathrm{M}=3 \times 10^{3} \mathrm{~kg}[/math]
+জ্বালানির ভর, m = 50kgজ্বালানি নির্গমনের হার, [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}=5 \mathrm{kgs}^{-1}[/math]
+জ্বালানির বেগ, [math]\mathrm{v}=150 \mathrm{~ms}^{-1}[/math]
+শাটল যানের ওপর ধাক্কা, F = ?আমরা জানি, শাটল যানের ওপর ধাক্কা, [math]F=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+ [math]=5 \mathrm{kgs}^{-1} \times 150 \mathrm{~ms}^{-1}=750 \mathrm{~N}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধাক্কা (thrust) নির্ণয় করা হয় মোমেন্টামের নিত্যতা থেকে — জ্বালানির ভরপ্রবাহ এবং নির্গত গতির গুণফলই প্রতিক্রিয়া শক্তি দেয়।  
+গ তাই [math]F=\dot m\,v=5\ \mathrm{kg/s}\times150\ \mathrm{m/s}=[math]750\ \mathrm{N}[/math] — শাটলের উপর ধাক্কা [math]750\ \mathrm{N}[/math] (পিছন দিকে নির্গত গ্যাসের বিপরীত দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 405365)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অ্যাপোলো ও স্কাই ল্যাব মিশনের মহাকাশযানগুলো। উৎক্ষেপণের জন্য ব্যবহৃত স্যাটার্ন-৫ রকেটের জ্বালানির নির্গমন বেগ [math]3.10 \times 10^{3} \mathrm{~ms}^{-1}[/math] মহাশূন্যযানসহ রকেটের মোট ভর [math]2.45 \times 10^{6} \mathrm{~kg}_{\mathrm{}}[/math] যার [math]1.70 \times 10^{6} \mathrm{~kg}[/math] জ্বালানির ভর।
+
+Options:
+গ. স্যাটার্ন-৫ কে উৎক্ষেপণ মঞ্চ থেকে কেবল উত্তোলনের জন্য প্রয়োজনীয় ধাক্কা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গ [math]2.401 \times 10^{7} \mathrm{~N}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ স্যাটার্ন-৫ কে কেবল উত্তোলনের জন্য প্রয়োজনীয় নূন্যতম ধাক্কা তার ওজনের সমান, তাই [math]F_{\min}=mg=2.45\times10^{6}\,\mathrm{kg}\times9.8\,\mathrm{m/s^2}=2.401\times10^{7}\,\mathrm{N}\approx2.40\times10^{7}\,\mathrm{N}[/math]। এটি কেবল স্থিরভাবে উঠতে যথেষ্ট বল; উত্সর্জন বেগ এবং জ্বালানির ভর ত্বরক ও জ্বালানি খরচে প্রভাব ফেলে কিন্তু নূন্যতম ধাক্কা পরিবর্তন করে না।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 405366)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অ্যাপোলো ও স্কাই ল্যাব মিশনের মহাকাশযানগুলো। উৎক্ষেপণের জন্য ব্যবহৃত স্যাটার্ন-৫ রকেটের জ্বালানির নির্গমন বেগ [math]3.10 \times 10^{3} \mathrm{~ms}^{-1}[/math] মহাশূন্যযানসহ রকেটের মোট ভর [math]2.45 \times 10^{6} \mathrm{~kg}_{\mathrm{}}[/math] যার [math]1.70 \times 10^{6} \mathrm{~kg}[/math] জ্বালানির ভর।
+
+Options:
+ঘ. রকেটের ত্বরণের জন্য একটি রাশিমালা নির্ণয় করে উৎক্ষেপণের মুহূর্তে তার ত্বরণ নির্ণয় কর এবং গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, উৎক্ষেপণের পর তার ত্বরণ বাড়তে থাকে।
+
+
+Correct Answer: 
+
+Solution:
+ঘবাতাস না থাকলেও রকেটের পিছনের সরু পথ দিয়ে উচ্চ চাপের গ্যাস অত্যন্ত জোরে নির্গমনের ফলে রকেট সামনের দিকে ধাবিত হয়৷ ছিদ্র পথে গ্যাস নির্গমন হলো ক্রিয়া এবং এর ফলে যে প্রতিক্রিয়া সৃষ্টি হয় তা রকেটেকে গ্যাস প্রবাহের বিপরীত দিকে চালিত করে। রকেট ভরবেগের সংরক্ষণশীলতা নীতি অনুসরণ করে চলছে। ধরি, রকেট থেকে জ্বালানি তথা গ্যাস ধ্রুব v বেগে নির্গত হচ্ছে। [math]\Delta t[/math]
+ সময়ে নির্গত গ্যাসের ভর [math]\Delta \mathrm{m}[/math]
+ হলে, নির্গত গ্যাসের ভরবেগ, [math]\Delta \mathrm{p}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+নির্গত গ্যাসের এই ভরবেগ রকেটস্থ জ্বালানির ভরবেগের পরিবর্তনের সমান। ভরবেগের সংরক্ষণ সূত্র অনুসারে জ্বালানির ভরবেগের এই পরিবর্তন রকেটটির ভরবেগের পরিবর্তনের সমান। কোনো বস্তুর ভরবেগের পরিবর্তন তার ওপর প্রযুক্ত বল এবং বলের ক্রিয়াকালের গুণফলের সমান। সুতরাং রকেটের ওপর প্রযুক্ত বল F হলে, [math]\Delta \mathrm{P}=\mathrm{F} \Delta \mathrm{T}[/math]
+ [math]\therefore \mathrm{F} \Delta \mathrm{t}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+ [math]\therefore[/math]
+ [math]\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এখানে [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+ হচ্ছে জ্বালানি ব্যবহারের হার। কোনো মুহূর্তে রকেটের ভরM হলে এবং ঐ মুহূর্তে তার ত্বরণ a হলে ত্বরণ, [math]a=\frac{F}{M}=\left(\frac{\Delta m}{\Delta t}\right) v[/math]
+।এখানে ,[math]\mathrm{v}=3.10 \times 10^{3} \mathrm{~ms}^{-1}[/math]
+ [math]\mathrm{F}=2,4 \times 10^{7} \mathrm{~N}[/math]
+ [গ হতে পাই][math]\mathrm{M}=2.45 \times 10^{6} \mathrm{~kg}[/math]
+২য় অংশএখন, আমরা জানি,[math]\begin{array}{l}\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v} \\\therefore \frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}=\frac{\mathrm{F}}{\mathrm{V}}=\frac{2.4 \times 10^{7} \mathrm{~N}}{3.10 \times 10^{3} \mathrm{~ms}^{-1}}\end{array}[/math]
+ [math]=7.74 \times 10^{3} \mathrm{kgs}^{-1}[/math]
+ [math]\therefore[/math]
+ ত্বরণ, [math]\mathrm{a}=\frac{1}{\mathrm{M}}=\frac{1}{\mathrm{M}}\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+ [math]=\frac{1}{2.45 \times 10^{6} \mathrm{~kg}} \times 7.74 \times 10^{3} \mathrm{kgs}^{-1} \times 3.10 \times 10^{3} \mathrm{~ms}^{-1}[/math]
+ [math]\therefore \mathrm{a}=9.79 \mathrm{~ms}^{-2}[/math]
+সুতরাং উৎক্ষেপণের মুহূর্তে তার ত্বরণ [math]9.79 \mathrm{~ms}^{-2}[/math]
+ত্বরণ, [math]\mathrm{a}=\frac{\mathrm{F}}{\mathrm{M}}=\frac{1}{\mathrm{M}}\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এখন, উৎক্ষেপণের পর জ্বালানির ভর আস্তে আস্তে কমতে থাকলে রকেটের ভর M কমতে থাকবে। উপর্যুক্ত সমীকরণ থেকে দেখা যায়, M যত কম হবে a এর মান তত বাড়তে থাকবে। সুতরাং রকেট উৎক্ষেপণের পর M কমতে থাকায় তার ত্বরণ বাড়তে থাকবে।
+
+Explanation:
+ঘ ধরা যাক ইঞ্জিনের বার্ণ টাইম প্রায় [math]168\ \text{s}[/math] (প্রায় মান), তাই জ্বালানির ভর প্রবাহ [math]\dot m=\dfrac{1.70\times10^{6}}{168}\approx1.0119\times10^{4}\ \text{kg/s}[/math]. রাশিমালা (thrust) [math]F=\dot m\,v_{e}=(1.0119\times10^{4})(3.10\times10^{3})\approx3.14\times10^{7}\ \text{N}[/math], কর্তনের মুহূর্তে ত্বরণ [math]a=\dfrac{F}{m}=\dfrac{3.14\times10^{7}}{2.45\times10^{6}}\approx12.8\ \text{m/s}^2[/math] এবং মাধ্যাকর্ষিক ত্বরণ বাদ দিলে নেট ত্বরণ প্রায় [math]12.8-9.8\approx3.0\ \text{m/s}^2[/math]. যেহেতু [math]F[/math] ইঞ্জিন স্থির ধারের, কিন্তু রকেটের মোট ভর [math]m(t)[/math] জ্বালানি খরচের সাথে কমে, তাই [math]a(t)=F/m(t)[/math] বৃদ্ধি পায় — তাই উৎক্ষেপণের পর ত্বরণ বাড়তে থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 405358)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অ্যাপোলো ও স্কাই ল্যাব মিশনের মহাকাশযানগুলো। উৎক্ষেপণের জন্য ব্যবহৃত স্যাটার্ন-৫ রকেটের জ্বালানির নির্গমন বেগ [math]3.10 \times 10^{3} \mathrm{~ms}^{-1}[/math] মহাশূন্যযানসহ রকেটের মোট ভর [math]2.45 \times 10^{6} \mathrm{~kg}_{\mathrm{}}[/math] যার [math]1.70 \times 10^{6} \mathrm{~kg}[/math] জ্বালানির ভর।
+
+Options:
+ক. কৌণিক ত্বরণ কী?
+খ. কৌণিক ভরবেগের দিক কীভাবে পাওয়া যায়?
+গ. স্যাটার্ন-৫ কে উৎক্ষেপণ মঞ্চ থেকে কেবল উত্তোলনের জন্য প্রয়োজনীয় ধাক্কা নির্ণয় কর।
+ঘ. রকেটের ত্বরণের জন্য একটি রাশিমালা নির্ণয় করে উৎক্ষেপণের মুহূর্তে তার ত্বরণ নির্ণয় কর এবং গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, উৎক্ষেপণের পর তার ত্বরণ বাড়তে থাকে।
+
+
+Correct Answer: 
+
+Solution:
+কসময় ব্যবধান শূন্যের কাছাকাছি হলে সময়ের সাথে বস্তুর কৌণিক বেগের পরিবর্তনের হারকে কৌণিক ত্বরণ বলে। [math]\\[/math]
+ খকৌণিক ভরবেগ, [math]\overrightarrow{\mathrm{L}}=\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{p}}[/math]
+ ; এখানে r হলো ব্যাসার্ধ ভেক্টর এবং [math]\overrightarrow{\mathrm{p}}[/math]
+ হলো রৈখিক ভরবেগ।কৌণিক ভরবেগের দিক [math]\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{p}}[/math]
+ এর দিকে একটি ডানহাতি স্কুকে। [math]\overrightarrow{\mathrm{r}}[/math]
+ ও [math]\overrightarrow{\mathrm{p}}[/math]
+ এর সমতলে লম্বভাবে স্থাপন করে [math]\overrightarrow{\mathrm{r}}[/math]
+ থেকে [math]\vec{p}[/math]
+ এর দিকে ক্ষুদ্রতর কোণে ঘুরালে যেদিকে অগ্রসর হয়, তা-ই হলো কৌণিক ভরবেগের দিক। [math]\\[/math]
+ গ [math]2.401 \times 10^{7} \mathrm{~N}[/math]
+ [math]\\[/math]
+ ঘবাতাস না থাকলেও রকেটের পিছনের সরু পথ দিয়ে উচ্চ চাপের গ্যাস অত্যন্ত জোরে নির্গমনের ফলে রকেট সামনের দিকে ধাবিত হয়৷ ছিদ্র পথে গ্যাস নির্গমন হলো ক্রিয়া এবং এর ফলে যে প্রতিক্রিয়া সৃষ্টি হয় তা রকেটেকে গ্যাস প্রবাহের বিপরীত দিকে চালিত করে। রকেট ভরবেগের সংরক্ষণশীলতা নীতি অনুসরণ করে চলছে। ধরি, রকেট থেকে জ্বালানি তথা গ্যাস ধ্রুব v বেগে নির্গত হচ্ছে। [math]\Delta t[/math]
+ সময়ে নির্গত গ্যাসের ভর [math]\Delta \mathrm{m}[/math]
+ হলে, নির্গত গ্যাসের ভরবেগ, [math]\Delta \mathrm{p}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+নির্গত গ্যাসের এই ভরবেগ রকেটস্থ জ্বালানির ভরবেগের পরিবর্তনের সমান। ভরবেগের সংরক্ষণ সূত্র অনুসারে জ্বালানির ভরবেগের এই পরিবর্তন রকেটটির ভরবেগের পরিবর্তনের সমান। কোনো বস্তুর ভরবেগের পরিবর্তন তার ওপর প্রযুক্ত বল এবং বলের ক্রিয়াকালের গুণফলের সমান । সুতরাং রকেটের ওপর প্রযুক্ত বল F হলে, [math]\Delta \mathrm{P}=\mathrm{F} \Delta \mathrm{T}[/math]
+ [math]\therefore \mathrm{F} \Delta \mathrm{t}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+ [math]\therefore[/math]
+ [math]\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এখানে [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+ হচ্ছে জ্বালানি ব্যবহারের হার। কোনো মুহূর্তে রকেটের ভরM হলে এবং ঐ মুহূর্তে তার ত্বরণ a হলে ত্বরণ, [math]a=\frac{F}{M}=\left(\frac{\Delta m}{\Delta t}\right) v[/math]
+।এখানে ,[math]\mathrm{v}=3.10 \times 10^{3} \mathrm{~ms}^{-1}[/math]
+ [math]\mathrm{F}=2,4 \times 10^{7} \mathrm{~N}[/math]
+ [গ হতে পাই][math]\mathrm{M}=2.45 \times 10^{6} \mathrm{~kg}[/math]
+২য় অংশএখন, আমরা জানি,[math]\begin{array}{l}\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v} \\\therefore \frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}=\frac{\mathrm{F}}{\mathrm{V}}=\frac{2.4 \times 10^{7} \mathrm{~N}}{3.10 \times 10^{3} \mathrm{~ms}^{-1}}\end{array}[/math]
+ [math]=7.74 \times 10^{3} \mathrm{kgs}^{-1}[/math]
+ [math]\therefore[/math]
+ ত্বরণ, [math]\mathrm{a}=\frac{1}{\mathrm{M}}=\frac{1}{\mathrm{M}}\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+ [math]=\frac{1}{2.45 \times 10^{6} \mathrm{~kg}} \times 7.74 \times 10^{3} \mathrm{kgs}^{-1} \times 3.10 \times 10^{3} \mathrm{~ms}^{-1}[/math]
+ [math]\therefore \mathrm{a}=9.79 \mathrm{~ms}^{-2}[/math]
+সুতরাং উৎক্ষেপণের মুহূর্তে তার ত্বরণ [math]9.79 \mathrm{~ms}^{-2}[/math]
+ত্বরণ, [math]\mathrm{a}=\frac{\mathrm{F}}{\mathrm{M}}=\frac{1}{\mathrm{M}}\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এখন, উৎক্ষেপণের পর জ্বালানির ভর আস্তে আস্তে কমতে থাকলে রকেটের ভর M কমতে থাকবে। উপর্যুক্ত সমীকরণ থেকে দেখা যায়, M যত কম হবে a এর মান তত বাড়তে থাকবে। সুতরাং রকেট উৎক্ষেপণের পর M কমতে থাকায় তার ত্বরণ বাড়তে থাকবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক কৌণিক ত্বরণ হল রকেটের আপেক্ষিক জ্বালানি নির্গমনের গতি (effective exhaust velocity), অর্থাৎ গ্যাসগুলো রকেটের তুলনায় কত দ্রুত বেরিয়ে যায়; এখানে [math]v_e=3.10\times10^{3}\ \mathrm{m/s}[/math]। এটি রকেটকে প্রাপ্ত ধাক্কা (thrust) নির্ধারণ করে।
+
+খ কৌণিক ভরবেগের দিক হচ্ছে উড়িয়ে প্রবাহিত গ্যাসের গতির দিক; রকেটের চালনাবলয় (thrust) গ্যাস বেরোনোর বিপরীত দিকে কাজ করে, তাই গ্যাসের গতিবেগ রকেটের গতির বিপরীতমুখী।
+
+গ কেবল উত্তোলনের জন্য প্রয়োজনীয় ধাক্কা হল রকেটের ওজন, তাই [math]T_{\rm required}=Mg=(2.45\times10^{6}\ \mathrm{kg})(9.81\ \mathrm{m/s^{2}})=2.40345\times10^{7}\ \mathrm{N}\approx2.40\times10^{7}\ \mathrm{N}[/math]।
+
+ঘ ধাক্কার সম্পর্ক দিয়ে ত্বরণ: যদি ইঞ্জিনের ধাক্কা [math]T=v_e\dot m[/math] (এখানে [math]\dot m[/math] হলো গ্যাস নির্গমনের হার), এবং সময়ের [math]t[/math]-এ রকেটের ভর [math]M(t)=M_0-\dot m\,t[/math], তাহলে ত্বরণ হবে [math]a(t)=\dfrac{T}{M(t)}-g=\dfrac{v_e\dot m}{M_0-\dot m t}-g[/math]। উৎক্ষেপণের মুহূর্তে [math]t=0[/math] হলে [math]a(0)=\dfrac{v_e\dot m}{M_0}-g[/math]; যদি ধাক্কা ঠিক ওজনের সমান হয় (কেবল উত্তোলনের শর্ত), তাহলে [math]a(0)=0[/math]। গাণিতিকভাবে তীব্রতার সময়াঙ্ক বের করে দেখা যায় [math]\dfrac{da}{dt}=\dfrac{v_e\dot m^{2}}{(M_0-\dot m t)^{2}}>0[/math], তাই জ্বালানি ভর কমার সঙ্গে সঙ্গে denominator ছোট হয় এবং ত্বরণ বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 405368)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+উৎক্ষেপণের পূর্বে একটি রকেট ও তার জ্বালানির ভর 1.9 [math]\times 10^{3} \mathrm{~kg}[/math] । রকেটের সাপেক্ষে জ্বালানি [math]2.5 \times 10^{3} \mathrm{~ms}^{-1}[/math] বেগে নির্গত হলে এবং জ্বালানি [math]7.4 \mathrm{~kg} \mathrm{~s}^{-1}[/math] হারে ব্যয়িত হলে রকেটের উপর ধাক্কা নির্ণয় করো ৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.85 \times 10^{4} \mathrm{~N}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,জ্বালানি খরচের হার, [math]\frac{\mathrm{dm}}{\mathrm{dt}}=7.4 \mathrm{~kg} \mathrm{~s}^{-1}[/math]
+উৎক্ষেপণ বেগ, [math]\mathrm{v}=2.5 \times 10^{3} \mathrm{~ms}^{-1}[/math]
+ধাক্কা, F = ?[math]\begin{aligned}\mathrm{F} & =\mathrm{v} \frac{\mathrm{dm}}{\mathrm{dt}} \\& =2.5 \times 10^{3} \mathrm{~ms}^{-1} \times 7.4 \mathrm{~kg} \mathrm{~s}^{-1} \\& =1.85 \times 10^{4} \mathrm{~N} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রকেটের উপর ধাক্কা (থ্রাস্ট) জ্বালানির ভর প্রবাহ হার ও নির্গত বেগের গুণফল, কারণ এটি নির্গত ভরের মাধ্যমে রকেটকে উল্টো দিকে ধাক্কা দেয়; তাই [math]F=\dot{m}v[/math]. এখানে [math]\dot{m}=7.4\ \mathrm{kg/s}[/math] এবং [math]v=2.5\times10^{3}\ \mathrm{m/s}[/math], ফলে [math]F=7.4\times2.5\times10^{3}=1.85\times10^{4}\ \mathrm{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 405369)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+4g বায়ুপূর্ণ একটি বেলুন থেকে ছিদ্র পথে [math]5 \mathrm{~ms}^{-1}[/math] বেগে বায়ু নির্গত হয় এবং 0 .5's সময়ে সম্পূর্ণ বায়ু শূন্য হয়। বেলুনের ওপর কত বল ক্রিয়া করে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 0.04 N )[math]\\[/math]
+Solution :এখানে,বেলুনের ভর,[math]\begin{aligned}\mathrm{m} & =4 \mathrm{~g} \\& =4 \times 10^{-3} \mathrm{~kg}\end{aligned}[/math]
+বেলুনের আদিবেগ, u = — নির্গত বায়ুর বেগ [math]=-5 \mathrm{~ms}^{-1}[/math]
+বেলুনের শেষ বেগ, [math]\mathrm{v}=0 \mathrm{~ms}^{-1}[/math]
+সময়, t = 0.5 sবেলুনের ওপর ক্রিয়ারত বল,[math]\begin{aligned}\mathrm{F} & =\mathrm{ma} \\& =\mathrm{m} \frac{\mathrm{v}-\mathrm{u}}{\mathrm{t}} \\& =4 \times \frac{0-(-5)}{0.5} \\& =0.04 \mathrm{~N} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বেলুন থেকে বের হওয়া বায়ুর মোট ভর [math]m=0.004\ \text{kg}[/math], বেগ [math]v=5\ \text{m/s}[/math], সময় [math]t=0.5\ \text{s}[/math] হলে বলটি পাওয়া যায় [math]F=\Delta p/\Delta t=mv/t=(0.004\times5)/0.5=0.04\ \text{N}[/math]. বলটি বেলুনের উপর বায়ুর বিপরীত দিকে (প্রতিক্রিয়া হিসাবে) কাজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 405370)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি রকেট প্রতি সেকেন্ডে 200 kg জ্বালানি ব্যয় করে। এই জ্বালানি দহনের ফলে উৎপন্ন গ্যাস [math]50 00 \mathrm{~ms}^{-1}[/math] বেগে রকেট থেকে নির্গত হয়। রকেটের ওপর কত বল ক্রিয়া করে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1 \times 10^{6} \mathrm{~N}[/math] )
+
+Explanation:
+রকেটের থ্রাস্ট হবে প্রতি সেকেন্ডে বের হওয়া ভরের গতি পরিবর্তনের হার, তাই [math]F=\dot m v[/math] যেখানে [math]\dot m=200\ \mathrm{kg/s}[/math] এবং [math]v=5000\ \mathrm{m/s}[/math]; তাই [math]F=200\times5000=1{,}000{,}000\ \mathrm{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 405371)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+উৎক্ষেপণের মুহূর্তে রকেটের ভর 150 kg এবং এর মধ্যে জ্বালানির ভর 450 kg । নির্গত গ্যাসের সর্বাধিক বেগ [math]2 \mathrm{\ kms}^{-1}[/math] । জ্বালানি ক্ষয়ের হার কত হলে রকেট প্রাথমিক ত্বরণ [math]30 \mathrm{~ms}^{-2}[/math] সহ উৎক্ষিপ্ত হবে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]11.94 \mathrm{~kg} \mathrm{~s}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে, জ্বালানিসহ রকেটের ভর,[math]\begin{aligned}M & =(150+450) \mathrm{kg} \\& =600 \mathrm{~kg}\end{aligned}[/math]
+গ্যাসের বেগ, [math]\mathrm{v}=2 \mathrm{kms}^{-1}=2 \times 10^{3} \mathrm{~ms}^{-1}[/math]
+রকেটের ত্বরণ [math]a=30 \mathrm{~ms}^{-2}[/math]
+জ্বালানি ক্ষয়ের হার, [math]\frac{\mathrm{dm}}{\mathrm{dt}}=?[/math]
+আমরা জানি,[math]a=\frac{v}{M} \times \frac{d m}{d t}-g[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{dm}}{\mathrm{dt}}=(\mathrm{a}+\mathrm{g}) \frac{\mathrm{M}}{v}[/math]
+ [math]\begin{array}{l}=(30+9.8) \times \frac{600}{2 \times 10^{3}} \\=11.94 \mathrm{~kg} \mathrm{~s}^{-1} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+রকেটের মোট প্রাথমিক ভর হলো খালি অংশ [math]150\ \mathrm{kg}[/math] ও জ্বালানি [math]450\ \mathrm{kg}[/math] যোগ করলে [math]600\ \mathrm{kg}[/math]। থ্রাস্ট = নিঃসৃত গ্যাসের বেগ × জ্বালানি ক্ষয়ের হার, এবং ত্বরণ [math]a = \dfrac{v_e\dot m}{m}[/math] অনুযায়ী [math]\dot m = \dfrac{am}{v_e} = \dfrac{30\times600}{2000} = 9\ \mathrm{kg/s}[/math]। তাই জ্বালানি ক্ষয়ের হার প্রায় [math]9\ \mathrm{kg/s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 405372)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি রকেট [math]300 \mathrm{\ kgs}^{-1}[/math] হারে জ্বালানি দহন করে এবং দহনের ফলে উৎপন্ন গ্যাস [math]5000 \mathrm{~ms}^{-1}[/math] বেগে নির্গত হয়। রকেটটির প্রাথমিক স্তর 5000 kg হলে, 10s পরে রকেটটির ত্বরণ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]740.2 \mathrm{~ms}^{-2}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে, প্রাথমিক ভর , [math]M_{0}=5000 \mathrm{~kg}[/math]
+10s পরে ভর, [math]M=M_{0}-\Delta M[/math]
+ [math]\begin{array}{l}=M_{0}-\frac{d m}{d t} \times t \\=(5000-300 \times 10) \mathrm{kg} \\=2000 \mathrm{~kg}\end{array}[/math]
+উৎপন্ন গ্যাসের বেগ, [math]v_{r}=5000 \mathrm{~ms}^{-1}[/math]
+জ্বালানি দহনের হার , [math]\frac{\mathrm{dm}}{\mathrm{dt}}=300 \mathrm{\ kgs}^{-1}[/math]
+আমরা জানি,কার্যকরী ত্বরণ, [math]{a}=\frac{v_{r}}{M} \frac{d m}{d t}-g[/math]
+ [math]\begin{array}{l}=\frac{5000}{2000} \times 300-9.8 \\=740.2 \mathrm{~ms}^{-2} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রকেটের থ্রাস্ট হচ্ছে জ্বালানির প্রবাহ গুণ বহির্গত গ্যাসের বেগ, [math]F=\dot m v_e=300\times5000=1.5\times10^6\ \mathrm{N}[/math]. ১০ s পরে ভর হবে [math]m=5000-300\times10=2000\ \mathrm{kg}[/math], তাই ত্বরণ [math]a=F/m=1.5\times10^6/2000=750\ \mathrm{m/s^2}[/math]. থ্রাস্ট ধ্রুবক থাকায় ভর কমার সঙ্গে ত্বরণ বাড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 405373)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+উৎক্ষেপণের পূর্বমুহূর্তে রকেট এবং তার জ্বালানির ভর যথাক্রমে [math]1 \times 10^{3} \mathrm{~kg}[/math] এবং [math]0.9 \times 10^{3} \mathrm{~kg}[/math] । গ্যাসের নির্গমনের হার এবং বেগ যথাক্রমে [math]7.4 \mathrm{~kg} \mathrm{~s}^{-1}[/math] এবং [math]2.5 \times 10^{3} \mathrm{~m} \mathrm{~s}^{-1}[/math] ।
+
+Options:
+গ. উদ্দীপকের সংশ্লিষ্ট নিউটনের গতি সূত্রের গাণিতিক ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের ঘটনাটি নিউটনের গতির তৃতীয় সূত্রকে সমর্থন করে।নিচে এ সূত্রটির গাণিতিক ব্যাখ্যা দেওয়া হলো-নিউটনের গতির তৃতীয় সূত্র। যার ফলে রকেটের চলন সম্ভব হয় ।মনে করি, রকেটের ভর = M এবং বেগ = vঅতিক্ষুদ্র সময় [math]\Delta \mathrm{t}[/math]
+ ব্যবধানে নির্গত গ্যাসের ভর [math]=\Delta \mathrm{m}[/math]
+ [math]\therefore[/math]
+ গ্যাস নির্গমনের হার [math]=\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+রকেট থেকে গ্যাস যখন একটি নির্দিষ্ট হারে নির্গত হয়, তখন গ্যাসের গতির বিপরীত দিকে রকেটটি একটি স্থির বল লাভ করে। এই বলকে ধাক্কা বলেএখন নির্গত গ্যাসের বেগ v হলে, নির্গত গ্যাসের ভরবেগ [math]=(\Delta \mathrm{m}) \mathrm {v}[/math]
+আবার, রকেটের উপর প্রযুক্ত বল F হলে বলের ঘাত, [math]\mathrm{J}=\mathrm{F}(\Delta \mathrm{t})[/math]
+কিন্তু আমরা জানি, কোনো বস্তুর ভরবেগের পরিবর্তন তার উপর প্রযুক্ত বলের ঘাতের সমান ।[math]\hspace{1.5cm}\begin{array}{l}\therefore \quad(\Delta \mathrm{m}) \mathrm{v}=\mathrm{F}(\Delta \mathrm{t}) \\\Rightarrow F=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}\end{array}[/math]
+এখানে, [math]=\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+ হলো জ্বালানি ব্যবহারের হার।যেকোনো মুহূর্তে রকেটের তাৎক্ষণিক ত্বরণ a হলে, F = M a[math]\hspace{3.5cm}\Rightarrow\mathrm{a}=\frac{\mathrm{F}}{\mathrm{M}}=\frac{1}{\mathrm{M}}\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+ [math]\therefore[/math]
+ রকেটের ত্বরণ [math]=\mathrm{a}-\mathrm{g}=\frac{1}{\mathrm{M}}\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}-\mathrm{g}[/math]
+আবার, রকেটের ওজন, W = Mgসুতরাং রকেটের লব্ধি বল = রকেটের ঊর্ধ্বমুখী ধাক্কা – ওজন[math]\hspace{4cm}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}-\mathrm{Mg}[/math]
+মহাশূন্যে g এর মান প্রায় শূন্য, তাই রকেটের ত্বরণ [math]=\frac{1}{\mathrm{M}} \left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এবং রকেটের লব্ধি বল [math]=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+অর্থাৎ গাণিতিক প্রতিপাদন করে দেখা যায় রকেটের উপর প্রযুক্ত বাহ্যিক বল এবং রকেটের লব্ধি বল সমান এটিই নিউটনের তৃতীয় সূত্র [math]\\[/math]
+
+
+Explanation:
+গ নিউটনের গতির সূত্র অনুযায়ী জ্বালানি-গ্যাস বের হওয়ার জন্য রকেটকে বিপরীত অভিমুখে প্রতিক্রিয়া বল (থ্রাস্ট) লাগে, এবং থ্রাস্টের পরিমাণ হল বের হওয়া গ্যাসের ভরের প্রবাহগত হার গুণ আইতিহ্যিক নির্গমন বেগ, অর্থাৎ [math]F=\dot m v_e[/math]. এখানে [math]\dot m=7.4\ \mathrm{kg\,s^{-1}}[/math] এবং [math]v_e=2.5\times10^3\ \mathrm{m\,s^{-1}}[/math], তাই [math]F=7.4\times2.5\times10^3=1.85\times10^4\ \mathrm{N}[/math]. এই ফলটি নিউটনের তৃতীয় সূত্র–প্রতিক্রিয়ার কারণ: গ্যাস পিছনের দিকে যত তাড়নায় বের হয়, রকেটকেও সামনের দিকে একই পরিমাণ বল লাগে।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 405374)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Pabna Cadet College
+--------------------------------------------------------------------------------
+Question:
+উৎক্ষেপণের পূর্বমুহূর্তে রকেট এবং তার জ্বালানির ভর যথাক্রমে [math]1 \times 10^{3} \mathrm{~kg}[/math] এবং [math]0.9 \times 10^{3} \mathrm{~kg}[/math] । গ্যাসের নির্গমনের হার এবং বেগ যথাক্রমে [math]7.4 \mathrm{~kg} \mathrm{~s}^{-1}[/math] এবং [math]2.5 \times 10^{3} \mathrm{~m} \mathrm{~s}^{-1}[/math]।
+
+Options:
+ঘ. রকেট কত ত্বরণে উপরের দিকে এগিয়ে যাবে তা বের কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, রকেটের ভর, M = নিজস্ব ভর + জ্বালানির ভর[math]\hspace{4cm}\begin{array}{l}=1 \times 10^{3} \mathrm{~kg}+0.9 \times 10^{3} \mathrm{~kg} \\=1.9 \times 10^{3} \mathrm{~kg}\end{array}[/math]
+জ্বালানির নির্গমন বেগ, [math]\mathrm{v}=2.5 \times 10^{3} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+দহনের হার [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}=7.4 \mathrm{~kg} \mathrm{~s}^{-1}[/math]
+রকেটের ত্বরণ, [math]a=\frac{1}{M}\left(\frac{\Delta m}{\Delta t}\right) \times v[/math]
+ [math]\hspace{2.8cm}\begin{array}{l}=\frac{1}{1.9 \times 10^{3} \mathrm{~kg}} \times 7.4 \mathrm{~kg} \mathrm{~s}^{-1} \times 2.5 \times 10^{-3} \mathrm{~m} \mathrm{~s}^{-1} \\=\frac{185}{19} \mathrm{~m} \mathrm{~s}^{-2}=9.739 \mathrm{~m} \mathrm{~s}^{-2}\end{array}[/math]
+[অভিকর্ষজ বলের প্রভাব উপেক্ষা করে]অতএব, রকেটটি [math]9.739 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ বেগে সামনের দিকে এগিয়ে চলবে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ ধোঁয়া বের হওয়ার বল বা thrust হচ্ছে [math]F=\dot m v_e=7.4\times(2.5\times10^3)=1.85\times10^4\ \text{N}[/math] এবং মোট ভর [math]M=1.0\times10^3+0.9\times10^3=1.9\times10^3\ \text{kg}[/math] থেকে ওজন [math]W=Mg=1.9\times10^3\times9.8=1.862\times10^4\ \text{N}[/math]. তাই নেট ত্বরণ [math]a=(F-W)/M=(1.85\times10^4-1.862\times10^4)/(1.9\times10^3)=-6.3\times10^{-2}\ \text{m/s}^2[/math], অর্থাৎ thrust ওজনকে অতিক্রম করতে পারছে না এবং রকেট উপরের দিকে নয় বরং সামান্য নিচের দিকে ত্বরিত হবে (ম্যাগনিটিউড [math]6.3\times10^{-2}\ \text{m/s}^2[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 405357)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভরবেগের নিত্যতা সূত্র আমাদের জীবনে অনেক গুরুত্বপূর্ণ। এর উপর ভিত্তি করে সম্ভব হয়েছে মহাকাশ অভিযান। একটি শাটল মহাকাশ যানের ভর [math]3 \times 10^{3} \mathrm{~kg}[/math] এবং জ্বালানির ভর 50kg। এতে জ্বালানি [math]5 \mathrm{kgs}^{-1}[/math] হারে ব্যবহৃত হয় এবং [math]150 \mathrm{~ms}^{-1}[/math] সুষম দ্রুতিতে নির্গত হয় ।
+
+Options:
+ক. নিউটন কে?
+খ. কৌণিক ভরবেগের নিত্যতার সূত্রটি ব্যাখ্যা কর।
+গ. উদ্দীপকে উল্লেখিত শাটল যানের উপর ধাক্কা নির্ণয় কর।
+ঘ. ভরবেগের নিত্যতার সূত্রটি প্রতিপাদন করে শাটল যানের উপর ধাক্কার রাশিমালাটি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কস্যার আইজ্যাক নিউটন ছিলেন ইংরেজ গণিতবিদ ও পদার্থবিজ্ঞানী। তিনি ক্যালকুলাস ও বলবিদ্যা · আবিষ্কার করেন এবং পদার্থবিজ্ঞানের ইতিহাসে সর্বকালের সেরাদের একজন। [math]\\[/math]
+ খকৌণিক ভরবেগের নিত্যতার সূত্রটি হলো কোনো কণার ওপর প্রযুক্ত নিট টর্ক শূন্য হলে কণাটির কৌণিক ভরবেগ সংরক্ষিত থাকে।ব্যাখ্যা : মনে করি, কোনো কণার জড়তার ভ্রামক I, কৌণিক বেগ [math]\omega[/math]
+ এবং কৌণিক ভরবেগ Lআমরা জানি, [math]\mathrm{L}=\mathrm{I} \omega[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{dL}}{\mathrm{dt}}=\frac{\mathrm{d}}{\mathrm{dt}}(\mathrm{I} \omega)=\mathrm{I} \frac{\mathrm{d} \omega}{\mathrm{dt}}=\mathrm{I} \alpha[/math]
+কিন্তু প্রযুক্ত টর্ক [math]\tau[/math]
+ হলে [math]\tau=\mathrm{I} \alpha[/math]
+ [math]\therefore \frac{\mathrm{dL}}{\mathrm{dt}}=\tau[/math]
+এখন [math]\tau=0[/math]
+ হলে, [math]\frac{\mathrm{dL}}{\mathrm{dt}}=0[/math]
+ বা, L = ধ্রুবক।অর্থাৎ প্রযুক্ত টর্ক শূন্য হলে কৌণিক ভরবেগ ধ্রুবক থাকে। [math]\\[/math]
+ গএখানে, মহাযানের ভর, [math]\mathrm{M}=3 \times 10^{3} \mathrm{~kg}[/math]
+জ্বালানির ভর, m = 50kgজ্বালানি নির্গমনের হার, [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}=5 \mathrm{kgs}^{-1}[/math]
+জ্বালানির বেগ, [math]\mathrm{v}=150 \mathrm{~ms}^{-1}[/math]
+শাটল যানের ওপর ধাক্কা, F = ?আমরা জানি, শাটল যানের ওপর ধাক্কা, [math]F=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+ [math]=5 \mathrm{kgs}^{-1} \times 150 \mathrm{~ms}^{-1}=750 \mathrm{~N}[/math]
+ [math]\\[/math]
+ ঘ
+[Image]
+ধরি, একটি সরলরেখায় [math]\mathrm{m}_{1}[/math]
+ এবং [math]\mathrm{m}_{2}[/math]
+ ভরের দুটি বস্তুকণা যথাক্রমে [math]\overrightarrow{\mathrm{u}_{1}}[/math]
+ ও [math]\overrightarrow{\mathrm{u}_{2}}[/math]
+ বেগে একই দিকে চলছে। এখানে, [math]\overrightarrow{\mathrm{u}_{1}}>\overrightarrow{\mathrm{u}_{2}}[/math]
+। সুতরাং কোনো এক সময় প্রথম বস্তুকণাটি পিছনের দিক হতে দ্বিতীয় বস্তুকণাটিকে ধাক্কা দিবে এবং সংঘর্ষের পর বস্তুকণা দুইটি একই সরলরেখায় ও একই দিকে যথাক্রমে [math]\overrightarrow{v_{1}}[/math]
+ ও [math]\overrightarrow{v_{2}}[/math]
+ বেগে চলতে থাকবে।মনে করি, ধাক্কাজনিত ক্রিয়া ও প্রতিক্রিয়ার কার্যকাল।তাহলে বস্তুকণা দুটির আদি ভরবেগের সমষ্টি [math]=\mathrm{m}_{1} \overrightarrow{\mathrm{u}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}[/math]
+বস্তুকণা দুইটির শেষ ভরবেগের সমষ্টি [math]=\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{2}}[/math]
+প্রথম বস্তুকণার ভরবেগের পরিবর্তনের হার [math]\frac{\mathrm{m}_{1} \overrightarrow{\mathrm{v}}_{1}-\mathrm{m}_{1} \overrightarrow{\mathrm{u}}_{\mathrm{l}}}{\mathrm{t}}=\overrightarrow{\mathrm{F}_{1}}[/math]
+= প্রথম বস্তুকণার ওপর দ্বিতীয় বস্তুকণার প্রতিক্রিয়া বলদ্বিতীয় বস্তুকণার ভরবেগের পরিবর্তনের হার [math]=\frac{\mathrm{m}_{2} \overrightarrow{\mathrm{v}}_{2}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}}{\mathrm{t}}=\overrightarrow{\mathrm{F}_{2}}[/math]
+ = দ্বিতীয় বস্তুকণার ওপর প্রথম বস্তুকণার প্রযুক্ত বলকিন্তু বস্তুকণা দুইটির ওপর প্রযুক্ত ক্রিয়া বল ও প্রতিক্রিয়া বল পরস্পর সমান ও বিপরীত।অর্থাৎ [math]\overrightarrow{\mathrm{F}_{2}}=-\overrightarrow{\mathrm{F}_{2}}[/math]
+ [math]\therefore \frac{\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{2}}-\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}}{\mathrm{t}}=-\frac{\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{1}}}{\mathrm{t}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{2}}-\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}=\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{1}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{m}_{1} \overrightarrow{\mathrm{u}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}=\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{1}}[/math]
+ [math]\therefore[/math]
+ বস্তকণা দুটির আদি ভরবেগের সমষ্টি = বস্তুকণা দুটির শেষ ভরবেগের সমষ্টি।এরপর,ধরা যাক, রকেট থেকে জ্বালানি তথা গ্যাস v ধ্রুব বেগে নির্গত হচ্ছে। [math]\Delta \mathrm{t}[/math]
+ সময়ে নির্গত গ্যাসের ভর [math]\Delta \mathrm{m}[/math]
+ হলে, নির্গত গ্যাসের ভরবেগের পরিবর্তন হবে, [math]\Delta \mathrm{P}=(\Delta \mathrm{m}) \cdot \mathrm{V}[/math]
+নির্গত গ্যাসের এই ভরবেগ রকেটস্থ জ্বালানির ভরবেগের পরিবর্তনের সমান। ভরবেগের সংরক্ষণ সূত্রানুসারে জ্বালানির ভরবেগের এই পরিবর্তন রকেটটির ভরবেগের পরিবর্তনের সমান। আমরা জানি, কোনো বস্তুর ভরবেগের পরিবর্তন তার ওপর প্রযুক্ত বলের ঘাতের সমান । সুতরাং, রকেটের ওপর বল F হলে, [math]\Delta \mathrm{P}=\mathrm{F} \Delta \mathrm{t}[/math]
+ [math]\therefore \mathrm{F} \Delta \mathrm{t}=(\Delta \mathrm{m}) . \mathrm{v}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এখানে [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+ হচ্ছে জ্বালানি ব্যবহারের হার।
+
+Explanation:
+গ সঠিক, কারণ ধাক্কা (thrust) নির্ণয় করা যায় জ্বালানির ভরপ্রবাহ ও নির্গত গ্যাসের গতি দিয়ে।  
+[math]F=\dot m v_{\rm ex}=5\ \mathrm{kg/s}\times150\ \mathrm{m/s}=750\ \mathrm{N}[/math]।  
+এই সূত্র ভরবেগের নিত্যতা থেকে আসে: প্রতি সেকেন্ডে বেরোয়া গ্যাসের ভরবেগ পরিবর্তন শাটলের বিপরীত দিকে একটি ধাক্কার সৃষ্টি করে।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 405356)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আমরা জানি যে, প্রপেলার প্লেন যখন ওড়ে তখন বাতাসে চাপ দেয়। বাতাস উল্টা চাপ দেয় বলে এই প্লেন চলতে পারে, কিন্তু রকেট চলে মহাশূন্যে যেখানে কোনো বাতাস নেই। রকেট যখন চলে তখন রকেট থেকে নির্দিষ্ট হারে গ্যাস নির্গত হতে থাকে। এই গ্যাস নির্গত না হলে রকেট চলতো না আর মহাশূন্যের অনেক কিছুই আমাদের জানা হতো না।
+
+Options:
+ক. ভরবেগ কী?
+খ. ভরবেগের নিত্যতা সূত্র ব্যাখ্যা কর।
+গ. বাহ্যিক বলের প্রভাব ছাড়া দুটি বস্তু একে অপরের উপর বল প্রয়োগ করতে পারে। কোনো এক সময়ে এরা একে অপরের উপর বল প্রয়োগ করায় এদের সংঘর্ষ ঘটল। দেখাও যে, এদের সংঘর্ষ-পূর্ব ভরবেগ ও সংঘর্ষ পরবর্তী ভরবেগ সমান।
+ঘ. বাতাস না থাকলেও রকেট কেন চলছে? কোন নীতির উপর ভিত্তি করে চলছে? এ নীতির সাহায্যে কোনো নির্দিষ্ট মুহূর্তের রকেটের ত্বরণ বের কর।
+
+
+Correct Answer: 
+
+Solution:
+কবস্তুর ভর ও বেগের গুণফলকে ভরবেগ বলে। কোনো বস্তুর ভর m এবং বেগ v হলে, ভরবেগ p = mv। [math]\\[/math]
+ খধরা যাক, একই সরলরেখায় [math]\mathrm{m}_{1}[/math]
+ ও [math]\mathrm{m}_{2}[/math]
+ ভরের দুটি বস্তু [math]\mathrm{v}_{1 \mathrm{i}}[/math]
+ ও [math]\mathrm{v}_{2 \mathrm{i}}[/math]
+ বেগে চলছে। এক সময়ে এদের মধ্যে সংঘর্ষ ঘটল এবং সংঘর্ষের পর এদের বেগ হলো [math]\mathrm{v}_{1 \mathrm{f}}[/math]
+ ও [math]\mathrm{v}_{2 \mathrm{f}}[/math]
+। সংঘর্ষের সময় ক্রিয়া-প্রতিক্রিয়া ভিন্ন অন্য কোনো বল ক্রিয়া না করলে ভরবেগের সংরক্ষণ সূত্রানুসারে-[math]m_{1} v_{1 i}+m_{2} v_{2 i}=\cdot m_{1} v_{1 f}+m_{2} v_{2 f}[/math]
+ [math]\\[/math]
+ গ
+[Image]
+ধরি, একটি সরলরেখায় [math]\mathrm{m}_{1}[/math]
+ এবং [math]\mathrm{m}_{2}[/math]
+ ভরের দুটি বস্তুকণা যথাক্রমে [math]\overrightarrow{\mathrm{u}_{1}}[/math]
+ ও [math]\overrightarrow{\mathrm{u}_{2}}[/math]
+ বেগে একই দিকে চলছে। এখানে, [math]\overrightarrow{\mathrm{u}_{1}}>\overrightarrow{\mathrm{u}_{2}}[/math]
+। সুতরাং কোনো এক সময় প্রথম বস্তুকণাটি পিছনের দিক হতে দ্বিতীয় বস্তুকণাটিকে ধাক্কা দিবে এবং সংঘর্ষের পর বস্তুকণা দুইটি একই সরলরেখায় ও একই দিকে যথাক্রমে [math]\overrightarrow{v_{1}}[/math]
+ ও [math]\overrightarrow{v_{2}}[/math]
+ বেগে চলতে থাকবে।মনে করি, ধাক্কাজনিত ক্রিয়া ও প্রতিক্রিয়ার কার্যকাল।তাহলে বস্তুকণা দুটির আদি ভরবেগের সমষ্টি [math]=\mathrm{m}_{1} \overrightarrow{\mathrm{u}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}[/math]
+বস্তুকণা দুইটির শেষ ভরবেগের সমষ্টি [math]=\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{2}}[/math]
+প্রথম বস্তুকণার ভরবেগের পরিবর্তনের হার [math]\frac{\mathrm{m}_{1} \overrightarrow{\mathrm{v}}_{1}-\mathrm{m}_{1} \overrightarrow{\mathrm{u}}_{\mathrm{l}}}{\mathrm{t}}=\overrightarrow{\mathrm{F}_{1}}[/math]
+= প্রথম বস্তুকণার ওপর দ্বিতীয় বস্তুকণার প্রতিক্রিয়া বলদ্বিতীয় বস্তুকণার ভরবেগের পরিবর্তনের হার [math]=\frac{\mathrm{m}_{2} \overrightarrow{\mathrm{v}}_{2}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}}{\mathrm{t}}=\overrightarrow{\mathrm{F}_{2}}[/math]
+ = দ্বিতীয় বস্তুকণার ওপর প্রথম বস্তুকণার প্রযুক্ত বলকিন্তু বস্তুকণা দুইটির ওপর প্রযুক্ত ক্রিয়া বল ও প্রতিক্রিয়া বল পরস্পর সমান ও বিপরীত।অর্থাৎ [math]\overrightarrow{\mathrm{F}_{2}}=-\overrightarrow{\mathrm{F}_{2}}[/math]
+ [math]\therefore \frac{\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{2}}-\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}}{\mathrm{t}}=-\frac{\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{1}}}{\mathrm{t}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{2}}-\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}=\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{1}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{m}_{1} \overrightarrow{\mathrm{u}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{u}_{2}}=\mathrm{m}_{1} \overrightarrow{\mathrm{v}_{1}}+\mathrm{m}_{2} \overrightarrow{\mathrm{v}_{1}}[/math]
+ [math]\therefore[/math]
+ বস্তকণা দুটির আদি ভরবেগের সমষ্টি = বস্তুকণা দুটির শেষ ভরবেগের সমষ্টি। [math]\\[/math]
+ ঘবাতাস না থাকলেও রকেটের পিছনের সরু পথ দিয়ে উচ্চ চাপের গ্যাস অত্যন্ত জোরে নির্গমনের ফলে রকেট সামনের দিকে ধাবিত হয়৷ ছিদ্র পথে গ্যাস নির্গমন হলো ক্রিয়া এবং এর ফলে যে প্রতিক্রিয়া সৃষ্টি হয় তা রকেটেকে গ্যাস প্রবাহের বিপরীত দিকে চালিত করে। রকেট ভরবেগের সংরক্ষণশীলতা নীতি অনুসরণ করে চলছে। ধরি, রকেট থেকে জ্বালানি তথা গ্যাস ধ্রুব v বেগে নির্গত হচ্ছে। [math]\Delta t[/math]
+ সময়ে নির্গত গ্যাসের ভর [math]\Delta \mathrm{m}[/math]
+ হলে, নির্গত গ্যাসের ভরবেগ, [math]\Delta \mathrm{p}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+নির্গত গ্যাসের এই ভরবেগ রকেটস্থ জ্বালানির ভরবেগের পরিবর্তনের সমান। ভরবেগের সংরক্ষণ সূত্র অনুসারে জ্বালানির ভরবেগের এই পরিবর্তন রকেটটির ভরবেগের পরিবর্তনের সমান। কোনো বস্তুর ভরবেগের পরিবর্তন তার ওপর প্রযুক্ত বল এবং বলের ক্রিয়াকালের গুণফলের সমান । সুতরাং রকেটের ওপর প্রযুক্ত বল F হলে, [math]\Delta \mathrm{P}=\mathrm{F} \Delta \mathrm{T}[/math]
+ [math]\therefore \mathrm{F} \Delta \mathrm{t}=(\Delta \mathrm{m}) \mathrm{v}[/math]
+ [math]\therefore[/math]
+ [math]\mathrm{F}=\left(\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}\right) \mathrm{v}[/math]
+এখানে [math]\frac{\Delta \mathrm{m}}{\Delta \mathrm{t}}[/math]
+ হচ্ছে জ্বালানি ব্যবহারের হার। কোনো মুহূর্তে রকেটের ভরM হলে এবং ঐ মুহূর্তে তার ত্বরণ a হলে ত্বরণ, [math]a=\frac{F}{M}=\left(\frac{\Delta m}{\Delta t}\right) v[/math]
+।
+
+Explanation:
+ব্যাখ্যা:
+ক ভরবেগ হল একটি বস্তুর ভর ও গতি-দিকের বেগের গুণফল, গাণিতিকভাবে [math]\mathbf{p}=m\mathbf{v}[/math]। এটি বস্তুর চলনের পরিমাপ এবং দিক নির্দেশ করে।
+
+খ ভরবেগের নিত্যতা: বন্ধ সিস্টেমে বাহ্যিক বল না থাকলে মোট ভরবেগ সময়ের সাথে অপরিবর্তিত থাকে—অর্থাৎ মোট ভরবেগ সংরক্ষিত থাকে; এটি নিউটনের তৃতীয় সূত্র ও বল-সমীকরণের উপর ভিত্তি করে সত্য।
+
+গ দুইটি বস্তু একে অন্যের ওপর প্রতিক্রিয়া বল প্রয়োগ করলে সংঘর্ষ কালে প্রতিটি বস্তুর ভরবেগের পরিবর্তন হল অবস্থিতিকালীন অভ্যন্তরীণ বলের প্রক্ষেপ; কিন্তু [math]F_{12}=-F_{21}[/math] হওয়ায় একটিসহ অন্যটির পরিবর্তন যোগ করলে শূন্য হয়, তাই [math]m_1v_1+m_2v_2=m_1v_1'+m_2v_2'[/math]—সংঘর্ষ-পূর্ব ও পরবর্তী মোট ভরবেগ সমান।
+
+ঘ রকেট মহাশূন্যে গ্যাস তাড়িত করে বিপরীত দিকে গতি দেয়, ফলে রকেটকে সামনে ঠেলে দেয়—এটি ভরবেগ সংরক্ষণ ও নিউটনের তৃতীয় সূত্রের ফল। যদি প্রতি সেকেন্ডে [math]\dot{m}_g[/math] গণ পরিমাণ গ্যাস পিছু দিকে ছাড়া হয় এবং তার আপেক্ষিক বেগ [math]u[/math] হয়, তাহলে থ্রাস্ট [math]F=\dot{m}_g\,u[/math] এবং রকেটের ত্বরণ হবে [math]a=\dfrac{F}{m}=\dfrac{\dot{m}_g\,u}{m}[/math] (এখানে [math]m[/math] হলো ঐ মুহুর্তের রকেটের ভর)।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 405349)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Jessore University of Science & Technology (A Unit)
+--------------------------------------------------------------------------------
+Question:
+একটি রকেট ঊর্ধ্বমুখি যাত্রায় প্রথম সেকেন্ডে এর ভরের [math]\frac{1}{60}[/math] অংশ হারায়। রকেট হতে নিস্ক্রিয় গ্যাসের গতিবেগ [math]3600 \mathrm{~ms}^{-1}[/math] হলে রকেটের ত্বরণ কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]a=\frac{v}{M}\left(\frac{d m}{d t}\right)-g=\frac{1}{60}\left(\frac{3600}{2}\right)-9.8=20.2 \mathrm{~ms}^{-2}[/math]
+Shortcut[math]a=(v / m)-g=(3600 / 60,2)-9.8=20.2 \mathrm{~ms}^{-2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধাক্কা (thrust) হলো নির্গত গ্যাসের গতি ও ভরের হার গুণ, তাই ত্বরণ হবে [math]a=\frac{u\,(Δm/Δt)}{m}=u\left(\frac{Δm}{m}\right) বিঃপ্রতি সেকেন্ডে।[/math] এখানে ভরের হার [math]Δm/m=1/60[/math] প্রতি সেকেন্ড এবং [math]u=3600\ \mathrm{m/s}[/math], ফলে [math]a=3600\times\frac{1}{60}=60\ \mathrm{m/s^2}[/math].
+
+Sub-Questions:
+

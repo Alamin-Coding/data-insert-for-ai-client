@@ -1,0 +1,44 @@
+================================================================================
+Question #1 (ID: 397623)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\lim _{x \rightarrow \infty} x \sin \left(\frac{2}{x}\right)=?[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\begin{array}{l}\lim _{x \rightarrow \infty} \frac{x \sin _{x}^{2}}{x}=\lim _{x \rightarrow \infty} \frac{\sin \frac{2}{x}}{\frac{2}{x}} \times 2 \\=\lim _{\theta \rightarrow 0} \frac{\sin \theta}{\theta} \times 2 \\=1 \times 2-2\end{array}[/math]
+
+Explanation:
+As [math]x\to\infty[/math], [math]\frac{2}{x}\to0[/math], and using the small-angle limit [math]\lim_{t\to0}\frac{\sin t}{t}=1[/math] we get [math]\sin\left(\frac{2}{x}\right)\sim\frac{2}{x}[/math], so [math]\lim_{x\to\infty}x\sin\left(\frac{2}{x}\right)=\lim_{x\to\infty}x\cdot\frac{2}{x}=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 397624)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\lim _{x \rightarrow \infty} x \sin \left(\frac{2}{x}\right)=?[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\lim _{x \rightarrow \infty} x \sin \frac{2}{x}=\lim _{x \rightarrow \infty} \frac{\sin \frac{2}{x}}{\frac{2}{x}} \times 2[/math]
+ [math]\begin{array}{l}=\lim _{\theta \rightarrow 0} \frac{\sin \theta}{\theta} \times 2 \\=1 \times 2=2\end{array}[/math]
+
+
+Explanation:
+Let [math]t=\tfrac{2}{x}[/math], so as [math]x\to\infty[/math] we have [math]t\to 0[/math] and [math]x\sin\left(\tfrac{2}{x}\right)=2\frac{\sin t}{t}[/math]. Since [math]\lim_{t\to 0}\frac{\sin t}{t}=1[/math], the given limit equals [math]2[/math].
+
+Sub-Questions:
+

@@ -1,0 +1,2621 @@
+================================================================================
+Question #1 (ID: 417033)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Milestone College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+কর্ণফুলী নদীর তলদেশে নির্মাণাধীন টিউব টানেল, সড়ক যোগাযোগের এক নতুন দিগন্ত। সেখানে ঝালাই কাজে ব্যবহৃত দুই ধরনের গ্যাস সিলিন্ডারের গায়ে লেখা তথ্য দেখে ইঞ্জিনিয়ার নিধি বললো, ১ম সিলিন্ডারের গ্যাসীয় কণাগুলো ২য়টির তুলনায় বেশি বেগে ছুটাছুটি করছে। প্রত্যেক সিলিন্ডারের আয়তন [math]10 \times 10^3\ m^3[/math] এবং তাপমাত্রা [math]27^\circ C[/math]।
+
+Options:
+ঘ. নিধির মন্তব্য সঠিক ছিলো কী? গাণিতিকভাবে বুঝিয়ে দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,[math]\hspace{1.5cm}\mathrm{T}=27^{\circ} \mathrm{C}=300 \mathrm{~K}[/math]
+এখন, আরগন (Ar) এর ক্ষেত্রে, [math]\mathrm{C_{Ar}}=\sqrt{\mathrm{\frac{3RT}{M_{Ar}}}}...................\text{(i)}[/math]
+এবং He এর ক্ষেত্রে [math]\mathrm{C_{He}}=\sqrt{\mathrm{\frac{3RT}{M_{He}}}}...................\text{(ii)}[/math]
+(i) নং [math]\div[/math]
+ (ii) নং হতে পাই,[math]\hspace{1.5cm}\begin{array}{l}\ \ \ \ \frac{\mathrm{C}_{\mathrm{Ar}}}{\mathrm{C}_{\mathrm{He}}}=\sqrt{\frac{\mathrm{M}_{\mathrm{Hc}}}{\mathrm{M}_{\mathrm{Ar}}}}=\sqrt{\frac{4\times10^{-3}}{40\times10^{-3}}}\\\Rightarrow\frac{\mathrm{C}_{\mathrm{Ar}}}{\mathrm{C}_{\mathrm{He}}}=\sqrt{\frac{1}{10}}\\\Rightarrow\frac{\mathrm{C}_{\mathrm{Ar}}}{\mathrm{C}_{\mathrm{He}}}=0.316\\\Rightarrow\mathrm{C}_{\mathrm{Ar}}=0.316\mathrm{C}_{\mathrm{He}}\end{array}[/math]
+যেহেতু [math]\mathrm{C}_{\mathrm{Ar}}<\mathrm{C}_{\mathrm{He}}[/math]
+সুতরাং, নিধির মন্তব্যটি সঠিক ছিল। [math]\\[/math]
+
+
+Explanation:
+ঘ মন্তব্যটি সঠিক — একই তাপমাত্রায় অণুগুলোর গড়ত্বর বা rms বেগ কেবল তাদের আণবিক ভরের বিপরীত বর্গমূল অনুযায়ী নির্ধারিত হয়: [math]v_{rms}=\sqrt{\frac{3RT}{M}}[/math]. যদি প্রথম সিলিন্ডারে অ্যাসিটিলিন (M=26 g·mol⁻¹) এবং দ্বিতীয়টিতে অক্সিজেন (M=32 g·mol⁻¹) থাকে, তবে [math]\dfrac{v_1}{v_2}=\sqrt{\dfrac{M_2}{M_1}}=\sqrt{\dfrac{32}{26}}\approx1.11[/math], তাই প্রথমটির অণুগুলো প্রায় 1.11 গুণ দ্রুত চলছে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 417034)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: GRCF
+--------------------------------------------------------------------------------
+Question:
+একটি [math]50\ m[/math] গভীর হ্রদের তলদেশের পানির তাপমাত্রা [math]12^\circ C[/math]। [math]4[/math] লিটার অক্সিজেন গ্যাস ভর্তি বেলুনকে পৃষ্ঠ থেকে হ্রদের তলদেশে নিয়ে তাতে আরও [math]2[/math] লিটার গ্যাস ভর্তি করা হলো এবং বেলুনটি সর্বোচ্চ [math]15[/math] লিটার গ্যাস ধারণ করতে পারে। হ্রদের পৃষ্ঠদেশে বায়ুর চাপ [math]1.01 \times 10^5\ Pa[/math] এবং অভিকর্ষজ ত্বরণ [math]g = 9.8\ m s^{-2}[/math]। হ্রদের পৃষ্ঠে বেলুনের মধ্যে অক্সিজেনের মূল গড় বর্গবেগের মান [math]483.44\ ms^{-1}[/math] (পানির ভিতরের সকল অবস্থানের তাপমাত্রা সমান বিবেচনা কর)
+
+Options:
+ঘ. হ্রদের তলদেশ থেকে পৃষ্ঠদেশে আসার আগেই বেলুনটি ফেটেছিলো কি না তা গাণিতিক ভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘতলদেশে আয়তন, [math]\mathrm{V_{1}}=6\mathrm L[/math]
+বায়ুচাপ, [math]\mathrm{P_2}=1.01 \times 10^{5}[/math]
+তলদেশে চাপ, [math]\mathrm{P_1}=\mathrm{hg}\rho+[/math]
+ বায়ুচাপ[math]\hspace{3cm}\begin{array}{l}=50 \times 9.8 \times 1000+1.01 \times 10^{5} \\=5.91 \times 10^{5} \mathrm{~Pa}\end{array}[/math]
+ভূ-পৃষ্ঠে আয়তন, [math]\mathrm{V_{2}}=?[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{array}{l}\mathrm{\ \ \ \ \ \ \ P}_1\mathrm{~V}_1=\mathrm{P}_2\mathrm{~V}_2\\\Rightarrow6\times5.91\times10^5=\mathrm{V}_2\times1.01\times10^5\\\Rightarrow\mathrm{V}_2=\frac{6\times5.91}{1.01}\\\qquad \ \ =35\mathrm{~L}\end{array}[/math]
+ধরি, h গভীরতায় আয়তন, V = 15 L ছাড়িয়ে যাবে।তাহলে, [math]\mathrm{P}_{1} \mathrm{~V}_{1}=(\mathrm{h} \rho \mathrm{g}+[/math]
+ বায়ুচাপ) [math]\times 15[/math]
+ [math]\hspace{1cm}\Rightarrow\mathrm{h} \rho \mathrm{g}+[/math]
+ বায়ুচাপ [math]=\frac{6 \times 5.91 \times 10^{5}}{15}[/math]
+ [math]\hspace{1cm}\Rightarrow \mathrm{h \rho g}=2.364 \times 10^{5}-[/math]
+ বায়ুচাপ[math]\hspace{1cm}\begin{array}{l}\Rightarrow \mathrm{h} \rho \mathrm{g}=2.364 \times 10^{5}-1.01 \times 10^{5} \\\Rightarrow \mathrm{hpg}=1.35 \times 10^{5} \\\therefore \mathrm{h}=\frac{1.35 \times 10^{5}}{\rho \mathrm{g}}=\frac{1.35 \times 10^{5}}{1000 \times 9.8}=\frac{135000}{9800}=13.77\end{array}[/math]
+অতএব, তলদেশ থেকে ( 50 – 13.77) m = 36.23 m এর বেশি উচ্চতায় পৌঁছালে বেলুনটি ফেটে যাবে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ সমাধানটি বোঝার জন্য বোয়েলের আইন প্রযোজ্য: সমষ্টি [math]PV[/math] ধ্রুব থাকে। গভীরে চাপ [math]P_d=P_0+\rho g h=1.01\times10^5+1000\times9.8\times50=5.91\times10^5\ Pa[/math] এবং প্রথমে [math]4\ L[/math] পৃষ্ঠের গ্যাসটির ঘনীভবিত আয়তন হবে [math]V_1=4\times\frac{P_0}{P_d}\approx0.684\ L[/math]; অতঃপর [math]2\ L[/math] যোগ করলে গভীরের মোট আয়তন [math]V_d\approx2.684\ L[/math]। উপরে আসলে সেই গ্যাস বিস্তৃত হয়ে পৃষ্ঠে দাঁড়াবে [math]V_s=V_d\times\frac{P_d}{P_0}\approx15.7\ L</math] যা বেলুনের সর্বোচ্চ [math]15\ L[/math] ছাড়িয়ে যায়, তাই বেলুন পৃষ্ঠে পৌঁছার আগেই ফেটে যাবে; সঠিক ফাটার চাপ [math]P_{burst}=P_dV_d/15\approx1.058\times10^5\ Pa</math] এবং এটি প্রায় [math]0.49\ m[/math] গভীরে ঘটে (পৃষ্ঠ থেকে নিম্নে)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 417035)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Feni Girls' Cadet College
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে নাইট্রোজেন গ্যাসের ঘনত্ব [math]1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]।
+
+Options:
+গ. উদ্দীপকের গ্যাসটির মূল গড় বর্গবেগের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, স্বাভাবিক চাপ, [math]\mathrm{P}=1 \mathrm{atm}=101325 \mathrm{Nm}^{-2}[/math]
+ [math]\hspace{1.5cm}[/math]
+ঘনত্ব, [math]\rho=1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+ [math]\hspace{1.5cm}[/math]
+মূল গড় বৰ্গবেগ, [math]c_{\mathrm{rms}}=?[/math]
+আমরা জানি,[math]\hspace{1.5cm}\begin{aligned}\mathrm C_{\mathrm{rms}} & =\sqrt{\frac{2 \mathrm{P}}{\mathrm{P}}} \\& =\sqrt{\frac{3 \times 101325 \mathrm{~N} \mathrm{~m}^{-2}}{1.25 \mathrm{~kg} \mathrm{~m}^{-3}}} \\& =493 \mathrm{~m} \mathrm{~s}^{-1}\end{aligned}[/math]
+অতএব, উদ্দীপকের গ্যাসটির বর্গমূল গড় বর্গবেগ [math]493 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ । [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: আদর্শ গ্যাসে [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] এবং [math]\dfrac{RT}{M}=\dfrac{p}{\rho}[/math] হওয়ায় [math]v_{rms}=\sqrt{\dfrac{3p}{\rho}}[/math]। স্ট্যান্ডার্ড চাপে [math]p\approx1.01\times10^5\ \mathrm{Pa}[/math] ও [math]\rho=1.25\ \mathrm{kg\ m^{-3}}[/math] রেখে, [math]v_{rms}=\sqrt{\dfrac{3\times1.01\times10^5}{1.25}}\approx4.92\times10^2\ \mathrm{m\ s^{-1}}[/math] — তাই উত্তরটি ঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 417036)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Feni Girls' Cadet College
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে নাইট্রোজেন গ্যাসের ঘনত্ব [math]1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]।
+
+Options:
+ঘ. তাপমাত্রা [math]100^\circ C[/math] বৃদ্ধি করলে উক্ত অণুর গড় বর্গবেগের বর্গমূল-মান প্রমাণ তাপমাত্রা অপেক্ষা কত বৃদ্ধি পাবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, 'গ' হতে,প্রমাণ তাপমাত্রায়, [math]\mathrm C_{\mathrm{rms}}=493 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+স্বাভাবিক চাপ, [math]\mathrm{P}=101325 \mathrm{~N} \mathrm{~m}^{-2}[/math]
+স্বাভাবিক তাপমাত্রা, T = 273 KT তাপমাত্রায় ঘনত্ব, [math]\rho_{\mathrm{T}}=1.25 \mathrm{~kg} \mathrm{~m}^{-1}[/math]
+নতুন তাপমাত্রা, [math]\mathrm{T}_{2}=(273+100) \mathrm{K}=373 \mathrm{~K}[/math]
+ [math]\mathrm N_2[/math]
+ এর গড় বর্গবেগের বর্গমূল [math]\mathrm C_{\mathrm{rms}}[/math]
+ হলে,[math]\hspace{1.5cm}\begin{aligned}\mathrm{C_{\text {rms }}} & =\sqrt{\frac{3 \mathrm{PT}_{2}}{\rho_{\mathrm{T}} \mathrm{T}}} \\& =\sqrt{\frac{3 \times 101325 \mathrm{~N} \mathrm{~m}^{-2} \times 373 \mathrm{~K}}{1.25 \times 273 \mathrm{~K}}} \\& =576.417 \mathrm{~m} \mathrm{~s}^{-1}\end{aligned}[/math]
+অতএব, [math]\mathrm C_{\mathrm{rms}}[/math]
+ বৃদ্ধি [math]=(576.417-493) \mathrm{m} \mathrm{s}^{-1} =83.417 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+অতএব, তাপমাত্রা 100°C বৃদ্ধিতে [math]\mathrm C_{\mathrm{rms}}=83.417 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ বৃদ্ধি পায়। [math]\\[/math]
+
+
+Explanation:
+ঘ কারণ [math]v_{rms}\propto\sqrt{T}[/math], তাই
+[math]\dfrac{v_2}{v_1}=\sqrt{\dfrac{T_2}{T_1}}=\sqrt{\dfrac{273+100}{273}}=\sqrt{\dfrac{373}{273}}\approx1.169[/math]. ফলে গড় বর্গবেগের বর্গমূল মান প্রমাণ তাপমাত্রার তুলনায় আনুমানিক [math]16.9\%[/math] বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 417037)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Scholars Home, Sylhet
+--------------------------------------------------------------------------------
+Question:
+[math]2\ atm[/math] চাপে এবং [math]17^\circ C[/math] তাপমাত্রায় একটি সিলিন্ডারে [math]1[/math] মোল [math]N_2[/math] গ্যাস আছে। [math]N_2[/math] অণুর ব্যাসার্ধ [math]0.75\ A[/math] এবং আণবিক ভর [math]28\ gm[/math].
+
+Options:
+গ. [math]N_2[/math] অণুর গড় বর্গের বর্গমূল মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, তাপমাত্রা, [math]\mathrm{T}=17^{\circ} \mathrm{C}=(273+17) \mathrm{K}=290 \mathrm{~K}[/math]
+আণবিক ভর, [math]\mathrm{M}=28 \mathrm{gm}=28 \times 10^{-3} \mathrm{~kg}[/math]
+গড় বর্গের বর্গমূল মান, [math]\mathrm{C}_{\mathrm{rms}}=?[/math]
+আমরা জানি,[math]\hspace{1.5cm}\mathrm C_{\mathrm{rms}}=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}}}=\sqrt{\frac{3 \times 8.314 \times 290}{28 \times 10^{-3}}}=508.259 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ গড় বর্গের বর্গমূল বেগের সূত্র [math]v_{rms}=\sqrt{3RT/M}[/math]. এখানে [math]T=17^\circ C=290\ K[/math], [math]M=28\ g=0.028\ kg[/math], [math]R=8.314\ J\,mol^{-1}K^{-1}[/math], তাই [math]v_{rms}=\sqrt{\frac{3\times8.314\times290}{0.028}}\approx5.08\times10^{2}\ \text{m/s}[/math]. চাপ দেওয়া মানটি গুরুত্বপূর্ণ নয় কারণ আইডিয়াল গ্যাসের rms বেগ কেবল তাপমাত্রার উপর নির্ভর করে।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 417038)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Scholars Home, Sylhet
+--------------------------------------------------------------------------------
+Question:
+[math]2\ atm[/math] চাপে এবং [math]17^\circ C[/math] তাপমাত্রায় একটি সিলিন্ডারে [math]1[/math] মোল [math]N_2[/math] গ্যাস আছে। [math]N_2[/math] অণুর ব্যাসার্ধ [math]0.75\ A[/math] এবং আণবিক ভর [math]28\ gm[/math].
+
+Options:
+ঘ. দুটো সংঘর্ষের মধ্যবর্তী সময়ের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,ব্যাস, [math]\sigma=2 \mathrm{r}[/math]
+ [math]\hspace{1.2cm}\begin{array}{l}=2 \times 0.75 \times 10^{-10} \mathrm{~m} \\=1.5 \times 10^{-10} \mathrm{~m}\end{array}[/math]
+অণুর সংখ্যা, [math]\mathrm{n}=\frac{6.023 \times 10^{23}}{22.4 \times 10^{-3}}[/math]
+ [math]\hspace{2.6cm}=2.69 \times 10^{25}[/math]
+গড়মুক্ত পথ, [math]\lambda=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{aligned}\lambda & =\frac{1}{\sqrt{2} \mathrm{n} \pi \sigma^{2}} \\& =\frac{1}{\sqrt{2} \times 2.69 \times 10^{25} \cdot 3.1416 \times\left(1.5 \times 10^{-10}\right)^{2}} \\& =3.718 \times 10^{-7} \mathrm{~m}\end{aligned}[/math]
+'গ' নং হতে পাই,[math]\hspace{1.5cm}\mathrm{C}_{\mathrm{rms}}=508.259 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ [math]\therefore[/math]
+ দুটি সংঘর্ষের মধ্যবর্তী সময়,[math]\hspace{1.5cm}\mathrm{t}=\frac{\lambda}{\mathrm{C}_{\mathrm{rms}}}=\frac{3.718 \times 10^{-7}}{508.259}=7.316 \times 10^{10} \mathrm{~s}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ গড় সংঘর্ষ সময় [math]\tau[/math] হল গড় মুক্ত পথ (mean free path) ভাগ করা গড় বেগ দিয়ে, অর্থাৎ [math]\tau=\lambda/\bar v[/math]; এখানে [math]n=p/(kT)[/math] ও [math]\sigma=\pi d^2[/math] (এখানে [math]d=2\times0.75\ \mathring A=1.5\times10^{-10}\ m[/math]) ব্যবহৃত হয়। গণনা করলে [math]n\approx5.06\times10^{25}\ m^{-3},\ \sigma\approx7.07\times10^{-20}\ m^{2}[/math], ফলে [math]\lambda=1/(\sqrt2\,n\sigma)\approx1.98\times10^{-7}\ m[/math] এবং [math]\bar v=\sqrt{8kT/(\pi m)}\approx4.68\times10^{2}\ m/s[/math]। তাই [math]\tau=\lambda/\bar v\approx4.2\times10^{-10}\ s[/math], অর্থাৎ প্রায় [math]4.2\times10^{-10}\ s[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 417039)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Dinajpur Govt. College
+--------------------------------------------------------------------------------
+Question:
+কোন একটি পাত্রে গ্যাসাণুর সংখ্যা [math]1.0 \times 10^{20}[/math] টি এবং প্রতিটি গ্যাসাণুর ভর [math]3.5 \times 10^{-26}[/math] কেজি। গ্যাসের তাপমাত্রা [math]30^\circ[/math]।
+
+Options:
+গ. [math]30^\circ C[/math] তাপমাত্রায় উক্ত গ্যাসাণুর মূল গড় বর্গবেগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, অণুর সংখ্যা [math]=1 \times 10^{20}[/math]
+ টিগ্যাসের ভর, [math]\mathrm{M}=3.5 \times 10^{-26} \mathrm{~kg}[/math]
+তাপমাত্রা, [math]\mathrm{T}=30^{\circ} \mathrm{C}=(273+30) \mathrm{K}=303 \mathrm{~K}[/math]
+মূল গড় বর্গ বেগ, [math]\sqrt{\overline{\mathrm{C}}^{2}}=\sqrt{\frac{3 \pi \mathrm{RT}}{\mathrm{M}}}[/math]
+ [math]\hspace{4.5cm}\begin{array}{l}=\sqrt{\frac{3 \times\left(\frac{1 \times 10^{20}}{6.023 \times 10^{23}}\right) \times 8.314 \times 303}{3.5 \times 10^{-26} \times 1 \times 10^{20}}} \\=\sqrt{\frac{1.25476}{3.5 \times 10^{-6}}} \\=598.75 \mathrm{~m} \mathrm{~s}^{-1}\end{array}[/math]
+নির্ণেয় মূল গড় বৰ্গবেগ, [math]598.75 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ্যাস অণুর মূল গড় বর্গবেগ কাইনেটিক তত্ত্ব অনুসারে তাপমাত্রার সঙ্গে সম্পর্কিত এবং সূত্রটি হলো [math]v_{\rm rms}=\sqrt{\dfrac{3kT}{m}}[/math] যেখানে [math]k[/math] বোলোৎসম্যান ধ্রুবক। গ তাই [math]T=30^\circ C=303\ \text{K}[/math] ও [math]m=3.5\times10^{-26}\ \text{kg}[/math] রেখে, 
+[math]v_{\rm rms}=\sqrt{\dfrac{3\times1.38\times10^{-23}\times303}{3.5\times10^{-26}}}\approx5.98\times10^{2}\ \text{m/s}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 417040)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023, 2023, 2022 | Boards: Mymensingh Board, Dinajpur Board, Rajshahi Board | Tags: Mymensingh Board, Dinajpur Board, Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+শক্তির সমবিভাজন নীতি কী?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোনো তাপগতীয় সংস্থার মোট শক্তি তাপীয় সাম্যাবস্থায় প্রতিটি স্বাধীনতার মাত্রার মধ্যে সমভাবে বণ্টিত হয় এবং প্রতিটি স্বাধীনতার মাত্রার শক্তির পরিমাণ [math]=\frac{1}{2} \mathrm{kT}[/math]।
+
+Explanation:
+শক্তির সমবিভাজন নীতি বলেন যে কোনো একক বলকে এমন দুটি বা ততোধিক উপাদানে ভাঙা যায় যাদের ভেক্টর যোগফল মূল বলের সমান এবং কণার উপর তাদের সম্মিলিত প্রভাব মূল বলের মতোই। এই নীতির কারণে দুর্জনীয় সমস্যাগুলোকে সহজভাবে লম্ব এবং অনুভূমিক উপাদানে বিভক্ত করে বিশ্লেষণ করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 417031)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+[math]X[/math] ও [math]Y[/math] পাত্রের দুটি পরিচিত গ্যাস এর [math]C^2_{ms}\ vs\ T[/math] লেখচিত্রে দেখানো হয়েছে।
+
+[Image]
+
+
+Options:
+ঘ. পাত্র দুটির কোনটিতে গ্যাসের ঘনত্ব বেশি— গাণিতিকভাবে যাচাই কর
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\begin{array}{l}\mathrm{n}=1 \mathrm{~mol} \\\mathrm{R}=8.316 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \\\mathrm{~T}_{\mathrm{A}}=373 \mathrm{~K} \\\mathrm{C}_{\text {rms }}=3.32 \times 10^{5} \mathrm{~m}^{2} \cdot \mathrm{s}^{-2} \\\mathrm{~T}_{\mathrm{B}}=426.15 \mathrm{~K}\end{array}[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{array}{l}\mathrm{\ \ \ \ nRT}=\frac{1}{3}\mathrm{mN}\mathrm{C}^{-2}\\\Rightarrow\mathrm{nRT}=\frac{1}{3}{\mathrm{MC_{rms}}}^2\\\Rightarrow\mathrm{M}=\frac{3\mathrm{nRT}}{{\mathrm{C_{rms}}}^2}\end{array}[/math]
+ [math]\therefore[/math]
+ X পাত্রে গ্যাসের ভর, [math]\mathrm{M}_{\mathrm{x}}=\frac{3 \mathrm{nRT}_{\mathrm{A}}}{\mathrm{C}_{\mathrm{mms}}{ }^{2}}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow \mathrm{M_x}=\frac{3\times1\times8.316\times373}{3.32\times10^5}\mathrm{~kg}\\\therefore\quad\mathrm{M_x}=0.028\mathrm{~kg}\end{array}[/math]
+Y পাত্রে গ্যাসের ভর, [math]\mathrm{M}_{\mathrm{y}}=\frac{3 \mathrm{nRT}_{\mathrm{B}}}{\mathrm{C}_{\mathrm{rms}}{ }^{2}}=\frac{3 \times 1 \times 8.316 \times 426.15}{3.32 \times 10^{5}} \mathrm{~kg}[/math]
+ [math]\therefore \mathrm{M}_{\mathrm{y}}=0.032 \mathrm{~kg}[/math]
+ [math]\therefore \frac{\mathrm{\rho _x}}{\mathrm{\rho _y}}=\frac{\mathrm{\frac{M_x}{V}}}{\mathrm{\frac{M_y}{V}}}[/math]
+ [x ও y পাত্রের আয়তন v][math]\begin{array}{ll}\Rightarrow &\mathrm{\frac{\rho_x}{\rho_y}=\frac{M_x}{M_y}}\\\Rightarrow &\mathrm{\rho_x}=\frac{0.028}{0.032}\\\Rightarrow &\mathrm{\rho_x}=\frac{7}{8}\\\therefore\quad&\mathrm{\rho_y}>\mathrm{\rho_x}\end{array}[/math]
+অতএব, Y পাত্রে গ্যাসের ঘনত্ব বেশি। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ দুই পাত্রেই একই চাপে থাকলে গ্যাসের ঘনত্বের জন্য আমরা ব্যবহার করি [math]c^2=\gamma RT/M[/math] ও [math]\rho=pM/(RT)\Rightarrow \rho=\dfrac{p\gamma}{c^2}[/math]. তাই
+[math]\dfrac{\rho_X}{\rho_Y}=\dfrac{\gamma_X\,c_Y^2}{\gamma_Y\,c_X^2}[/math]. চিত্রে একই তাপে [math]c_X^2\rho_Y[/math];অতএব X পাত্রে ঘনত্ব বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 417032)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+কোনো ঘরের তাপমাত্রা [math]30^\circ[/math] এবং শিশিরাঙ্ক [math]15^\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]50\%[/math]। ঐ সময়ে ঘরের বাইরের তাপমাত্রা [math]12^\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]65\%[/math]। [math]30^\circ C[/math] ও [math]12^\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]31.83\ mm\ Hgp\ ও\ 10.52\ mm\ HgP[/math]. [math]30^\circ C[/math] তাপমাত্রায় গ্লেইসারের ধ্রুবক [math]1.65[/math]।
+
+Options:
+ঘ. যদি ঘরের একটি জানালা খুলে দেয়া হয় তাহলে জলীয় বাষ্প কোন দিকে চলাচল করবে— গাণিতিক বিশ্লেষণসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,30°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ, [math]\mathrm{F}_{1}=31.63 \mathrm{~mm} \mathrm{Hg}[/math]
+ঘরের আপেক্ষিক আর্দ্রতা, [math]\mathrm{R}_{1}=50 \%[/math]
+ [math]\hspace{1.5cm}\begin{aligned}\therefore \quad \mathrm{F}_{1} & =\mathrm{R}_{1} \times \mathrm{F}_{1} \\& =50 \% \times 31.83 \\& =15.915 \mathrm{~mm} \mathrm{HgP}\end{aligned}[/math]
+ঘরের বাইরে 12 °C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ [math]\mathrm{F}_{2}=10.52 \mathrm{~mm} \mathrm{Hg}[/math]
+ঘরের বাইরের আপেক্ষিক আর্দ্রতা, [math]\mathrm{R}_{2}=65 \%[/math]
+ [math]\hspace{1.5cm}\begin{aligned}\therefore \mathrm{F}_{2} & =\mathrm{R}_{2} \times \mathrm{F}_{2} \\& =0.65 \times 10.52 \\& =6.838 \mathrm{~mm} \mathrm{HgP}\end{aligned}[/math]
+এখানে,[math]\therefore \mathrm{F}_{1}>\mathrm{F}_{2}[/math]
+জলীয় বাষ্প ঘর থেকে বাইরের দিকে প্রবাহিত হবে। [math]\\[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: ঘরের আসল বাষ্পচাপ [math]p_{in}=0.50\times31.83=15.915\ mmHg[/math] এবং বাইরে [math]p_{out}=0.65\times10.52=6.838\ mmHg[/math]; যেহেতু ঘরের আংশিক বাষ্পচাপ বাইরের চেয়ে বেশি, জলীয় বাষ্প আংশিক চাপের বেশি থেকে কমের দিকে সরে যাবে—অর্থাৎ ভিতর থেকে বাইরে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 417012)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে A ও B দুটি পাত্রে একটির মধ্যে নাইট্রোজেন গ্যাস ও অপরটিতে একটি অজানা গ্যাস রয়েছে।
+
+
+[Image]
+
+
+Options:
+ঘ. কোন পাত্রে জানা গ্যাসটি আছে বলে তুমি মনে কর? উদ্দীপকের তথ্য হতে তোমার গাণিতিকভাবে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,A পাত্রে গ্যাসের চাপ, [math]P_{1}=42 \mathrm{\ MPa}=42 \times 10^{6} \mathrm{~Pa}[/math]
+আয়তন, [math]\mathrm{V}_{1}=10^{-3} \mathrm{~m}^{3}[/math]
+মোল সংখ্যা, [math]\mathrm{n}=2 \mathrm{~mol}[/math]
+মূল গড় বৰ্গবেগ, [math]\mathrm{C}_{\mathrm{rms}_{1}}=1500 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+আমরা জানি, [math]\mathrm{P}_{1} \mathrm{~V}_{1}=\mathrm{nRT}_{1}[/math]
+ [math]\begin{array}{l}\therefore \mathrm{RT}_{1}=\frac{\mathrm{P}_{1} \mathrm{~V}_{1}}{\mathrm{n}}=\frac{42 \times 10^{6} \times 10^{-3}}{2}=21 \times 10^{3} \mathrm{~J} \cdot \mathrm{mol}^{-1} \\\therefore \mathrm{C}_{\mathrm{rms}_{1}}=\sqrt{\frac{3 \mathrm{RT}_{1}}{\mathrm{M}_{1}}}\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math](1500)^{2}=\frac{3 \times 2}{M_{1}} \frac{1 \times 10^{3}}{M_{1}}[/math]
+ [math]\therefore M_{1}=0.028 \mathrm{~kg}=28 \mathrm{\ gm}[/math]
+ [math]\therefore[/math]
+ A পাত্রে রক্ষিত গ্যাসের গ্রাম আণবিক ভর = 28 gmঅনুরূপভাবে পাওয়া যায়, B পাত্রে রক্ষিত গ্যাসের গ্রাম আণবিক ভর = 30.47 gmআমরা জানি,নাইট্রোজেন গ্যাসের গ্রাম আণবিক ভর 28 gm এবং A পাত্রে রক্ষিত গ্যাসের গ্রাম আণবিক ভরও 28 gm.অতএব A পাত্রে নাইট্রোজেন গ্যাস আছে।
+
+Explanation:
+নির্ণায়ক ধারণা: দ্রবণীয় গ্যাসের জন্য [math]PV=nRT[/math] এবং ভর [math]m=nM[/math] হওয়ায় একই চাপ, তাপমাত্রা ও আয়তনের ক্ষেত্রে পাত্রের ভর মোলার ভরের অনুপাতের সঙ্গে সরাসরি সাপেক্ষ। তাই
+
+[math]m=\dfrac{PMV}{RT} \quad\Rightarrow\quad \dfrac{m_A}{m_B}=\dfrac{M_A}{M_B}.[/math]
+
+অতএব যেই পাত্রের ভর/ঘনত্ব অপেক্ষাকৃত কম সেটিতেই নাইট্রোজেন থাকবে (নাইট্রোজেনের মোলার ভর [math]28\ \text{g/mol}[/math]); বেশি ভরের পাত্রে অজানা, ভারী গ্যাস আছে।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 417013)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি আদর্শ চাপ ও তাপমাত্রায় হাইড্রোজেন গ্যাসের ঘনত্ব [math]0.09 \mathrm{\ kgm}^{-3}[/math] হয়, ত বে আদর্শ তাপমাত্রা ও চাপে হাইড্রোজেন অণুর মূল গড় বৰ্গবেগ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1837.57 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,হাইড্রোজেনের ঘনত্ব, [math]\rho=0.09 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+স্বাভাবিক চাপ, [math]\mathrm{P}=101.3 \times 10^{3} \mathrm{Nm}^{-2}[/math]
+মূল গড় রগবেগ, [math]\mathrm{C}=\text { ? }[/math]
+আমরা জানি,[math]\begin{aligned}C & =\sqrt{\frac{3 P}{\rho}} \\& =\sqrt{\frac{3 \times 101.3 \times 10^{3}}{0.09}}\end{aligned}[/math]
+ [math]=1837.57 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: আদর্শ গ্যাসের জন্য [math]v_{\rm rms}=\sqrt{\dfrac{3RT}{M}}[/math] এবং [math]p=\rho R_{\rm spec}T[/math] থেকে [math]v_{\rm rms}=\sqrt{\dfrac{3p}{\rho}}[/math] পাওয়া যায়। এখানে [math]p=1.013\times10^5\ \mathrm{Pa}[/math] (স্ট্যান্ডার্ড) ও [math]\rho=0.09\ \mathrm{kg\,m^{-3}}[/math] বসিয়ে, [math]v_{\rm rms}=\sqrt{\dfrac{3\times1.013\times10^5}{0.09}}\approx1.84\times10^3\ \mathrm{m/s}[/math] হয়। তাই হাইড্রোজেন অণুর মূল গড় বৰ্গবেগ প্রায় [math]1.84\times10^3\ \mathrm{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 417014)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে অক্সিজেনের ঘনত্ব হাইড্রোজেনের ঘনত্বের 16 গুণ, হলে অক্সিজেন অণুর গড় বর্গবেগের বর্গমূলীয় মান নির্ণয় করো। [ হাইড্রোজেনের ঘনত্ব [math]=0.0898 \mathrm{kgm}^{-3}[/math] ]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]456.9 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,S.T.P তে অক্সিজেনের ঘনত্ব, [math]\rho=16 \times 0.0898 \mathrm{\ kgm}^{-3}[/math]
+জানা আছে, S.T.P তে চাপ, [math]\mathrm{P}=1 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+মূল গড় বর্গ বেগ, C = ?আমরা জানি, [math]P=\frac{1}{3} \rho C^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]C^{2}=\frac{3 P}{\rho}[/math]
+ [math]\therefore C=\sqrt{\frac{3 P}{\rho}}[/math]
+ [math]=\sqrt{\frac{3 \times 1 \times 10^{5} \mathrm{Nm}^{-2}}{16 \times 0.0898 \mathrm{~kg} \mathrm{~m}^{-3}}}=456.9 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+একই তাপমাত্রা ও চাপে ঘনত্ব মোলার ভরের অনুপাত নির্দেশ করে, তাই যদি অক্সিজেনের ঘনত্ব হাইড্রোজেনের 16 গুণ হয় তাহলে মোলার ভরও 16 গুণ এবং [math]v_{rms}\propto 1/\sqrt{M}[/math] অনুযায়ী অক্সিজেনের গতি হবে হাইড্রোজেনের [math]1/4[/math]। সূত্রে গণনা করলে [math]v_{rms}=\sqrt{\frac{3RT}{M}}[/math] এবং [math]M_{O_2}=0.032\ \mathrm{kg\,mol^{-1}},\ T=273.15\ \mathrm{K}[/math] হলে [math]v_{rms,O_2}=\sqrt{\frac{3\times8.314\times273.15}{0.032}}\approx4.61\times10^{2}\ \mathrm{m\,s^{-1}}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 417015)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে হাইড্রোজেনের ঘনত্ব [math]0.09 \mathrm{\ kgm}^{-3}[/math]। হাইড্রোজেন অ ণুর গড় বর্গবেগের বর্গমূল নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1837.57 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,হাইড্রোজেনের ঘনত্ব, [math]\rho=0.09 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+স্বাভাবিক চাপ, [math]\mathrm{P}=101.3 \times 10^{3} \mathrm{Nm}^{-2}[/math]
+মূল গড় বর্গবেগ C = ?আমরা জানি,[math]\begin{aligned}\mathrm{C} & =\sqrt{\frac{3 \mathrm{P}}{\rho}} \\& =\sqrt{\frac{3 \times 101.3 \times 10^{3}}{0.09}} \\& =1837.57 \mathrm{~ms}^{-1}(\text { Ans. })\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘনত্ব [math]0.09\ \mathrm{kg\,m^{-3}}[/math] STP-এর (T = [math]273\ \mathrm{K}[/math]) ঘনত্বের সমান হওয়ায় আমরা [math]T=273\ \mathrm{K}[/math] গ্রহণ করি। গড় বর্গবেগের সূত্র [math]v_{rms}=\sqrt{\frac{3RT}{M}}[/math] যেখানে [math]R=8.314\ \mathrm{J\,mol^{-1}K^{-1}}[/math], [math]M=0.002\ \mathrm{kg\,mol^{-1}}[/math]; তাই [math]v_{rms}=\sqrt{\frac{3\times8.314\times273}{0.002}}\approx1.85\times10^3\ \mathrm{m\,s^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 417016)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে অক্সিজেন গ্যাসের অণুগুলোর গড় বর্গবেগের বর্গমূল নির্ণয় করো। স্বাভাবি ক চাপ ও তাপমাত্রায় অক্সিজেনের ঘনত্ব [math]1.43 \mathrm{\ kgm}^{-3}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]461.34 \mathrm{~ms}^{-1}[/math])
+
+Explanation:
+অ্যাসিস্টেন্ট:
+
+কাইনেটিক থিওরির সূত্র অনুযায়ী গ্রাসগত গড় বর্গবেগের বর্গমূল (rms) নির্ণয়ের সম্পর্ক হল [math]P=\tfrac{1}{3}\rho v_{rms}^2[/math], তাই [math]v_{rms}=\sqrt{\dfrac{3P}{\rho}}[/math]। নর্মাল চাপকে [math]P=1.01325\times10^5\ \mathrm{Pa}[/math] এবং ঘনত্ব [math]\rho=1.43\ \mathrm{kg\,m^{-3}}[/math] ধরি, তাহলে [math]v_{rms}=\sqrt{\dfrac{3\times1.01325\times10^5}{1.43}}\approx4.61\times10^2\ \mathrm{m/s}[/math]। এই মানটি সঠিক কারণ এটি গ্যাস কাইনেটিক তত্ত্বের মৌলিক সমীকরণ থেকে অভিভূতভাবে পাওয়া।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 417018)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+1092°C তাপমাত্রায় বায়ুর অণুগুলোর গড় বর্গবেগের বর্গমূলীয় মান নির্ণয় করো । [ স্বাভাবিক চাপ ও তাপমাত্রায় বায়ুর ঘনত্ব [math]=1.296 \mathrm{\ kgm}^{-3} \mathrm{}[/math] ]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.08 \times 10^{3} \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: বায়ুর রুট-মীন-স্কোয়্যার বেগ সূত্র [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] থেকে পাওয়া যায়; এখানে [math]R=8.314\ \mathrm{J/(mol\cdot K)}[/math], [math]T=1092+273.15=1365.15\ \mathrm K[/math], এবং বায়ুর মোলার ভর [math]M\approx0.02897\ \mathrm{kg/mol}[/math]. গণনা করলে [math]v_{rms}\approx\sqrt{\dfrac{3\times8.314\times1365.15}{0.02897}}\approx1084\ \mathrm{m/s}[/math]. তাই উচ্চ তাপে অণুগুলোর গড় কাইনেটিক শক্তি বাড়ে, ফলে গড় বর্গবেগও বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 417019)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রায় নাইট্রোজেন গ্যাসের গড় বর্গবেগের বর্গমূলীয় মান [math]493 \mathrm{~ms}^{-1}[/math]। স্বাভাবিক চাপ ও তাপমাত্রায় নাইট্রোজেনের ঘনত্ব নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.25 \mathrm{\ kgm}^{-3}[/math]
+ )[math]\\[/math]
+Solution :এখানে,0°C তাপমাত্রায় মূল গড় ব গবেগ, [math]C=493 \mathrm{~ms}^{-1}[/math]
+স্বাভাবিক চাপ, [math]\mathrm{P}=1.013 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+স্বাভাবিক তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ঘনত্ব, [math]\rho=?[/math]
+আমরা জানি ,[math]C=\sqrt{\frac{3 P}{\rho}}[/math]
+ [math]\Rightarrow[/math]
+ [math]493=\sqrt{\frac{3 \times 1.013 \times 10^{5}}{\rho}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\rho=\frac{3 \times 1.013 \times 10^{5}}{(493)^{2}}[/math]
+ [math]\therefore \rho=1.25 \mathrm{\ kgm}^{-3} \text { (Ans.) }[/math]
+
+
+Explanation:
+[math]u_{\mathrm{rms}}^2=3RT/M[/math] এবং [math]p=\rho (R/M)T[/math] থেকে [math](R/M)T=u_{\mathrm{rms}}^2/3[/math] হওয়ায় [math]\rho=\dfrac{p}{(R/M)T}=\dfrac{3p}{u_{\mathrm{rms}}^2}[/math]। এখন [math]p=1.013\times10^5\ \mathrm{Pa}[/math], [math]u_{\mathrm{rms}}=493\ \mathrm{m\,s^{-1}}[/math] বসিয়ে পাই [math]\rho=\dfrac{3\times1.013\times10^5}{493^2}\approx1.25\ \mathrm{kg\,m^{-3}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 417020)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রায় একটি হাইড্রোজেন অণুর গতিশক্তি [math]5.64 \times[/math] [math]10^{-21} \mathrm{~J}[/math] এবং [math]R=8320 \mathrm{\ Jkmol}^{-1} \mathrm{~K}^{-1}[/math] ধরে অ্যাভোগ্যাড্রো সংখ্যা নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]6.04 \times 10^{23} \mathrm{~mol}^{-1}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,গড় গতিশক্তি, [math]\mathrm{E}=5.64 \times 10^{-21} \mathrm{~J}[/math]
+উষ্ণতা, [math]\mathrm{T}=273 \mathrm{~K}[/math]
+মোলার ধ্রুবক, [math]\mathrm{R}=8.32 \mathrm{\ JK}^{-1} \mathrm{~mol}^{-1}[/math]
+অ্যাভোগ্যাড্রোর সংখ্যা, N = ?আমরা জানি,[math]\begin{array}{l}\mathrm{E}=\frac{3}{2} \frac{\mathrm{RT}}{\mathrm{N}} \\\therefore \mathrm{N}=\frac{3}{2} \frac{\mathrm{RT}}{\mathrm{E}}\end{array}[/math]
+ [math]=\frac{3}{2} \times \frac{8.32 \times 273}{5.64 \times 10^{-21}}[/math]
+ [math]=6.04 \times 10^{23} \mathrm{~mol}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমীকরণ অনুযায়ী গড় অনুবাহী গতিশক্তি [math]E=\tfrac{3}{2}kT[/math], তাই [math]k=\dfrac{2E}{3T}[/math] এবং অ্যাভোগ্যাড্রো সংখ্যা [math]N_A=\dfrac{R}{k}=\dfrac{3RT}{2E}[/math]। দেওয়া [math]R=8320\ \mathrm{J\,kmol^{-1}K^{-1}}[/math] হল প্রতিমোলে [math]8.32\ \mathrm{J\,mol^{-1}K^{-1}}[/math], [math]T=273\ \mathrm{K}[/math] ও [math]E=5.64\times10^{-21}\ \mathrm{J}[/math] বসালে [math]N_A=\dfrac{3\times8.32\times273}{2\times5.64\times10^{-21}}\approx6.04\times10^{23}\ \mathrm{mol^{-1}}[/math], যা প্রত্যাশিত অ্যাভোগ্যাড্রো সংখ্যার কাছাকাছি।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 417021)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চারটি গ্যাস অণুর বেগ যথাক্রমে 0.5, 2.5, 4.0 এবং [math]6 \mathrm{\ kms}^{-1}[/math] হলে গ্যাস অণুর--
+
+(i) গড় গতিবেগ, (ii) rms বেগ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (i) [math]3.25 \mathrm{\ kms}^{-1}[/math]
+ (ii) [math]\text { 3. } 82 \mathrm{\ kms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে, 4 টি অণুর বেগ যথাক্রমে 6.5, 2.5, 4.0 এবং [math]6 \mathrm{\ kms}^{-1}[/math]
+(i) [math]\therefore[/math]
+ গড় বেগ, [math]\overline{\mathrm{v}}=\frac{0.5+2.5+4.0+6}{4}=3.25 \mathrm{\ kms}^{-1} \text { (Ans.) }[/math]
+(ii) [math]\therefore[/math]
+ rms বেগ,[math]\begin{aligned}C & =\sqrt{\frac{(0.5)^{2}+(2.5)^{2}+(4.0)^{2}+(6)^{2}}{4}} \\& =3.82 \mathrm{\ kms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+গড় গতিবেগকে গণনা করা হয়: [math]\bar v=\dfrac{0.5+2.5+4+6}{4}=3.25\ \mathrm{km\,s^{-1}}[/math], এবং rms বেগ হলো [math]v_{\rm rms}=\sqrt{\dfrac{0.5^2+2.5^2+4^2+6^2}{4}}=\sqrt{14.625}\approx3.82\ \mathrm{km\,s^{-1}}[/math]. RMS বেগ গড়ের চেয়ে বড় থাকে কারণ বেগগুলোর বর্গ করার ফলে বড় মানগুলোর ওজন বেশি হয়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 417022)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ উষ্ণতা ও চাপে হাইড্রোজেন অণুর rms বেগ [math]1600 \mathrm{ms}^{-1}[/math] হলে এই অবস্থা য় অক্সিজেন অণুর rms বেগ কত? হাইড্রোজেন ও অক্সিজেন অণুর আণবিক ভর যথাক্রমে 2 এবং 32।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]400 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,প্রমাণ উষ্ণতা ও চাপে হাইড্রোজেন অণুরrms বেগ, [math]\mathrm{C}_{1}=1600 \mathrm{~ms}^{-1}[/math]
+হাইড্রোজেনের মোলার ভর, [math]{M}_{1}=2 \times 10^{-3}[/math]
+অক্সিজেনের মোলার ভর, [math]\mathrm{M}_{2}=32 \times 10^{-3}[/math]
+প্রমাণ উষ্ণতা ও চাপে অক্সিজেন অণুরrms বেগ, [math]\mathrm{C}_{2}=?[/math]
+আমরা জানি,[math]\begin{array}{l} C= \sqrt{\frac{3 R T}{M}} \\\therefore \frac{C_{2}}{C_{1}}=\frac{\sqrt{\frac{3 R T}{M_{2}}}}{\sqrt{\frac{3 R T}{M_{1}}}}\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{C_{2}}{C_{1}}=\frac{\sqrt{M_{1}}}{\sqrt{M_{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]C_{2}=\sqrt{\frac{2 \times 10^{-3}}{32 \times 10^{-3}}} \times 1600=400 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+একই তাপমাত্রা ও চাপে rms বেগ কণার ভরের বিপরীত বর্গমূলানুপাতিক, কারণ [math]v_{rms}\propto\frac{1}{\sqrt{m}}[/math]. তাই [math]v_O=1600\sqrt{\frac{2}{32}}=1600\sqrt{\frac{1}{16}}=1600\times\frac{1}{4}=400\ \mathrm{ms}^{-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 417023)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোন উষ্ণতায় নাইট্রোজেন অণুর rms বেগ পৃথিবী থেকে মুক্তিবেগের সমান? নাইট্রোজেনের ভর [math]=4 .65 \times 10^{-23} \mathrm{~g}[/math]। পৃথিবীর ব্যাসার্ধ 6370 km এবং বোলজম্যান ধ্রুবক [math]\mathrm{K}=1.37 \times 10^{-23} \mathrm{JK}^{-1}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.41 \times 10^{5} \mathrm{~K}[/math]
+ )[math]\\[/math]
+Solution :এখানে,নাইট্রোজেনের ভর,[math]\begin{aligned}\mathrm{m} & =4.65 \times 10^{-23} \mathrm{~g} \\& =4.65 \times 10^{-26} \mathrm{~kg}\end{aligned}[/math]
+পৃথিবীর ব্যাসার্ধ,[math]\begin{aligned}\mathrm{R} & =6370 \mathrm{~km} \\& =6.37 \times 10^{6} \mathrm{~m}\end{aligned}[/math]
+বোলজম্যান ধ্রুবক, [math]\mathrm{K}=1.37 \times 10^{-23} \mathrm{JK}^{-1}[/math]
+নাইট্রোজেন অণুর rms বেগ= পৃথিবীর মুক্তিবেগ[math]\Rightarrow[/math]
+ [math]\sqrt{^{ }\frac{\mathrm{3KT}}{\mathrm{m}}}=\sqrt{2\mathrm{gR}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\sqrt{\frac{3 \mathrm{KT}}{\mathrm{m}}}=\sqrt{2 \times 9.8 \times 6.37 \times 10^{6}}[/math]
+ [math]=11173.7[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}=\frac{(11173.7)^{2} \times \mathrm{m}}{3 \mathrm{~K}}[/math]
+ [math]=\frac{(11173.7)^{2} \times 4.65 \times 10^{-26}}{3 \times 1.37 \times 10^{-23}}[/math]
+ [math]=1.41 \times 10^{5} \mathrm{~K} \text { (Ans.) }[/math]
+
+
+Explanation:
+সমাধান: rms বেগকে পৃথিবীর মুক্তিবেগের সমান ধরে [math]\sqrt{3kT/m}=v_{esc}[/math], ফলে [math]T=\dfrac{m\,v_{esc}^2}{3k}[/math]. বস্তুগত মান বসালে (নাইট্রোজেনের ভর [math]m=4.65\times10^{-26}\,\mathrm{kg}[/math], [math]k=1.37\times10^{-23}\,\mathrm{J/K}[/math], পৃথিবীর মুক্তিবেগ [math]v_{esc}\approx11.2\times10^3\,\mathrm{m/s}[/math]) পাই [math]T\approx\dfrac{4.65\times10^{-26}\times(1.12\times10^4)^2}{3\times1.37\times10^{-23}}\approx1.4\times10^5\ \mathrm{K}[/math]. ব্যাখ্যা: অর্থাৎ নাইট্রোজেন অণুদের rms বেগ পৃথিবীর মুক্তিবেগের সমান করার জন্য অত্যন্ত উচ্চ তাপমাত্রা (~10^5 K) প্রয়োজন, তাই সাধারণ অ্যাটমোস্ফিয়ারিক তাপমাত্রায় নাইট্রোজেন থার্মালভাবে পালিয়ে যাবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 417024)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাসের ৪ টি অণুর বেগ যথাক্রমে 2, 3, 4, 4, 5, 7, 7 এবং [math]8 \mathrm{\ kms}^{-1}[/math] । ওই গ্যাসের অণুগুলির গড়বেগ, গড় বর্গবেগ এবং গড় বর্গবেগের বর্গমূল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]5 \mathrm{\ kms}^{-1}[/math]
+ , [math]29 \mathrm{~km}^{2} \mathrm{~s}^{-2}[/math]
+ , [math]5.385 \mathrm{\ kms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে, ৪ টি অণুর বেগ যথাক্রমে 2, 3, 4, 4, 5, 7, 7 এবং 8 [math]\mathrm{\ kms}^{-1}[/math]
+ [math]\therefore[/math]
+ গড়বেগ, [math]\overline{\mathrm{v}}=\frac{2+3+4+4+5+7+7+8}{8} \mathrm{kms}^{-1}[/math]
+ [math]=5 \mathrm{\ kms}^{-1} \text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ গড় বৰ্গবেগ, [math]\bar{v}^{2}=\frac{2^{2}+3^{2}+4^{2}+4^{2}+5^{2}+7^{2}+7^{2}+8^{2}}{8}[/math]
+ [math]=29 \mathrm{~km}^{2} \mathrm{~s}^{-2} \text { (Ans.) }[/math]
+ [math]\therefore[/math]
+ গড় বর্গবেগের বর্গমূল,[math]\begin{aligned}\mathrm{C} & =\sqrt{\frac{2^{2}+3^{2}+4^{2}+4^{2}+5^{2}+7^{2}+7^{2}+8^{2}}{8}} \\& =5.385 \mathrm{\ kms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গড়বেগে ব্যবহার করা সূত্র [math]\bar v=\frac{\sum v}{N}[/math], গড় বর্গবেগে [math]\overline{v^2}=\frac{\sum v^2}{N}[/math] এবং RMS-এ [math]v_{\rm rms}=\sqrt{\overline{v^2}}[/math] প্রয়োগ করলে ফল পাওয়া যায়।
+
+ক গড়বেগ: [math]\bar v=\frac{2+3+4+4+5+7+7+8}{8}=\frac{40}{8}=5\ \mathrm{km\,s^{-1}}[/math].
+
+খ গড় বর্গবেগ: [math]\overline{v^2}=\frac{2^2+3^2+4^2+4^2+5^2+7^2+7^2+8^2}{8}=\frac{232}{8}=29\ \mathrm{(km\,s^{-1})^2}[/math].
+
+গ গড় বর্গবেগের বর্গমূল (RMS): [math]v_{\rm rms}=\sqrt{29}\approx5.39\ \mathrm{km\,s^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 417025)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রা এবং [math]1.0 \times 10^{5} \mathrm{Nm}^{-2}[/math] চাপে কাৰ্বন ডাই- অক্সাইড গ্যা সের ঘনত্ব [math]1.98 \mathrm{\ kgm}^{-3}[/math], সমচাপে তাপমাত্রায় উক্ত গ্যাস অণুর মূল 'গড় বর্গবেগ বের কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]410.075 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,আদি তাপমাত্রা, [math]\mathrm{T}_{1} 0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+আদি ঘনত্ব, [math]\rho_{1}=1.98 \mathrm{\ kgm}^{-3}[/math]
+শেষ তাপমাত্রা, [math]\mathrm{T}_{2}=30^{\circ} \mathrm{C}[/math]
+= 304 Kঘনত্ব, [math]P_{2}=?[/math]
+এখানে,চাপ, [math]\mathrm{P}=1 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+ঘনত্ব, [math]\rho=1.784 \mathrm{\ kgm}^{-3}[/math]
+বর্ণমূল গড় বর্গবেগ, [math]\mathrm{C}_{\mathrm{rms}}=?[/math]
+আমরা জানি,[math]\mathrm{P}_{1} \mathrm{~T}_{1}=\mathrm{P}_{2} \mathrm{~T}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]P_{2}=\frac{P_{1} T_{1}}{T_{2}}[/math]
+ [math]=\frac{1.98 \times 273}{303}[/math]
+ [math]=1.784 \mathrm{\ kgm}^{-3}[/math]
+আবার, [math]c_{\mathrm{rms}}=\sqrt{\frac{3 P}{\rho}}[/math]
+ [math]=\sqrt{\frac{3 \times 1 \times 10^{5}}{1.784}}[/math]
+ [math]=410.075 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: কাইনেটিক তত্ত্ব অনুযায়ী চাপ ও ঘনত্বের সম্পর্ক [math]p=\tfrac{1}{3}\rho v_{\text{rms}}^{2}[/math] তাই [math]v_{\text{rms}}=\sqrt{\dfrac{3p}{\rho}}[/math]। এখানে [math]p=1.0\times10^{5}\ \mathrm{Pa}[/math] এবং [math]\rho=1.98\ \mathrm{kg\,m^{-3}}[/math] বসালে [math]v_{\text{rms}}=\sqrt{\dfrac{3\times10^{5}}{1.98}}\approx 3.89\times10^{2}\ \mathrm{m\,s^{-1}}[/math], অর্থাৎ প্রায় [math]3.9\times10^{2}\ \mathrm{m/s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 417027)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে নাইট্রোজেনের ঘনত্ব [math]1.25 \mathrm{\ kgm}^{-3}[/math] হলে 100°C তা পমাত্রায় নাইট্রোজেন অণুর গড় বর্গবেগের বর্গমূল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]576.41 \mathrm{~ms}^{-1}[/math]
+)[math]\\[/math]
+Solution :এখানে,স্বাভাবিক চাপ, [math]\mathrm{P}=1.0325 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+স্বাভাবিক তাপমাত্রা, [math]T_{1}=273 \mathrm{~K}[/math]
+ঘনত্ব, [math]\rho=1.25 \mathrm{~kg} \mathrm{~ms}^{-3}[/math]
+পরবর্তী তাপমাত্রা, [math]\mathrm{T}_{2}=100^{\circ} \mathrm{C}=373 \mathrm{~K}[/math]
+নাইট্রোজেনের আণবিক ভর, M = ?স্বাভাবিক তাপমাত্রায় গড় বর্গবেগের বর্গমূল, [math]C_{1}=?[/math]
+100°C তাপমাত্রায় গড় বর্গ বেগের বর্গমূল, [math]C_{2}=?[/math]
+স্বাভাবিক তাপমাত্রায় গড় বর্গবেগের বর্গমূল,[math]C_{1}=\sqrt{\frac{3 P}{\rho}}[/math]
+ [math]\Rightarrow[/math]
+ [math]C_{1}=\sqrt{\frac{3 \times 1.01325 \times 10^{5}}{1.25}}[/math]
+ [math]\therefore C_{1}=493.13 \mathrm{~ms}^{-1}[/math]
+আবার,[math]C_{1}=\sqrt{\frac{3 \mathrm{RT}_{1}}{\mathrm{M}}}[/math]
+100°C তাপমাত্রায়, [math]C_{2}=\sqrt{\frac{3 R T_{2}}{M}}[/math]
+ [math]\therefore \frac{C_{2}}{C_{1}}=\sqrt{\frac{T_{2}}{T_{1}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]C_{2}=\sqrt{\frac{373}{273}} \times 493.13[/math]
+ [math]\therefore \mathrm{C}_{2}=576.41 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: নাইট্রোজেনের গড় বর্গবেগের বর্গমূলের সূত্র হল [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math], যেখানে [math]M[/math] মোলার ভর (নাইট্রোজেনের জন্য [math]0.028\ \mathrm{kg\,mol^{-1}}[/math]) এবং [math]T=100^\circ\mathrm{C}=373\ \mathrm{K}[/math]।  
+[math]v_{rms}=\sqrt{\dfrac{3\times 8.314\times 373}{0.028}}\approx\sqrt{332241}\approx 5.76\times 10^{2}\ \mathrm{m\,s^{-1}}[/math], তাই প্রায় [math]5.76\times10^{2}\ \mathrm{m\,s^{-1}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 417028)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোন গ্যাস অণুর গড় মুক্ত পথ [math]2.2 \times 10^{-8} \mathrm{~m}[/math] ও আণবিক ব্যাস [math]2 \ti mes 10^{-10} \mathrm{~m}[/math] হলে প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2.55 \times 10^{26}[/math] )
+
+Explanation:
+ব্যাখ্যা: গড় মুক্ত পথ এবং অণু ঘনত্বের সম্পর্ক হলো [math]\lambda = \dfrac{1}{\sqrt{2}\pi d^{2} n}[/math], সুতরাং [math]n=\dfrac{1}{\sqrt{2}\pi d^{2}\lambda}[/math]. সংখ্যাগুলো বসালে [math]n=\dfrac{1}{\sqrt{2}\pi(2\times10^{-10})^{2}(2.2\times10^{-8})}\approx2.56\times10^{26}\ \text{m}^{-3}\approx2.56\times10^{20}\ \text{molecules cm}^{-3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 417029)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0°C তাপমাত্রায় অক্সিজেনের মূল গড় বর্গ বেগের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]461.29 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+অক্সিজেনের আণবিক ভর [math]\mathrm{M}=32 \mathrm{~g}=32 \times 10^{-3} \mathrm{~kg}[/math]
+আদর্শ গ্যাস ধ্রুবক, [math]\mathrm{R}=8.314 \mathrm{\ Jmol}^{-1} \mathrm{~K}^{-1}[/math]
+মূল গড় বর্গবেগ, C=?আমরা জানি,মূলগড় বৰ্গবেগ, [math]\mathrm{C}=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]C=\sqrt{\frac{3 \times 8.314 \times 273}{32 \times 10^{-3}}}[/math]
+ [math]\therefore \mathrm{C}=461.29 \mathrm{~ms}^{-1}[/math]
+
+
+Explanation:
+কিনেটিক তত্ত্যায় গড় কাইনেটিক শক্তি থেকে [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] দাঁড়ায়, যেখানে [math]R=8.314\ \text{J mol}^{-1}\text{K}^{-1}[/math], [math]T=273.15\ \text{K}[/math], এবং অক্সিজেনের মোলার ভর [math]M=0.032\ \text{kg mol}^{-1}[/math]. তাই [math]v_{rms}=\sqrt{\dfrac{3\times8.314\times273.15}{0.032}}\approx4.61\times10^{2}\ \text{m/s}\ (\approx461\ \text{m/s}).
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 417030)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক চাপ ও তাপমাত্রায় হাইড্রোজেনের অণুর মূল গড় বর্গবেগ নির্ণয় কর। স্বাভাবিক চাপ ও তাপ মাত্রায় হাইড্রোজেনের ঘনত্ব [math]=0.09 \mathrm{kgm}^{-3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1837.79 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: গ্যাসের কাইনেটিক তত্ত্ব অনুযায়ী [math]p=\tfrac{1}{3}\rho\langle v^2\rangle[/math]। তাই [math]\langle v^2\rangle=3p/\rho[/math]; স্বাভাবিক চাপ [math]p=1.013\times10^5\ \mathrm{Pa}[/math] ও [math]\rho=0.09\ \mathrm{kg\,m^{-3}}[/math] দিলে [math]\langle v^2\rangle\approx3.377\times10^6\ \mathrm{m^2s^{-2}}[/math] এবং [math]v_{\rm rms}=\sqrt{\langle v^2\rangle}\approx1.84\times10^3\ \mathrm{m\,s^{-1}}[/math]। এটি সঠিক কারণ আমরা কাইনেটিক সমীকরণ ব্যবহার করে প্রদত্ত ঘনত্ব ও চাপ থেকে সরাসরি গড় বর্গবেগ নির্ণয় করেছি।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 417009)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2 \mathrm{~cm}^{3}[/math] আয়তনের দুটি অভিন্ন পাত্র A ও B। A পাত্রে [math]\mathrm{O}_{2}[/math] ও B পাত্রে [math]\mathrm{N}_{2}[/math] নিয়ে নিচের চিত্রে প্রদর্শিত চাপ পাওয়া গেল : [math]P=3 \times 10^{5} \mathrm{Nm}^{-2} \mathrm{P}=3.66 \times 10^{5} \cdot \mathrm{Nm}^{-2}[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. পাত্র A ও পাত্র B এর মধ্যে কোনটি বেশি উত্তপ্ত হবে-- গাণিতিক বিশ্লেষণ করে মতামত দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘপাত্র B এর ক্ষেত্রে, চাপ, [math]P=3.66 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+এবং আয়তন, [math]\mathrm{V}=2 \times 10^{-6} \mathrm{~m}^{3}[/math]
+পাত্র B এর গ্যাসের গতিশক্তি,[math]\begin{aligned}=\frac{3}{2} \mathrm{PV} & =1.5 \times 3.66 \times 10^{5} \mathrm{Nm}^{-2} \times 2 \times 10^{-6} \mathrm{~m}^{3} \\& =1.098 \mathrm{~J}\end{aligned}[/math]
+এই গতিশক্তি তাপরূপে দেখা দিবে, যা স্বস্ব পাত্রকে উত্তপ্ত করবে।যদি [math]\mathrm{N}_{2}[/math]
+ গ্যাসের পাত্রের মোট গতিশক্তি [math]\mathrm{O}_{2}[/math]
+ পাত্রের তুলনায় বেশি, কিন্তু উদ্দীপকে তাদের মোল সংখ্যা অনুপস্থিত। তাই তাদের তাপমাত্রা নির্ণয় অসম্ভব। উভয় ক্ষেত্রে nmole গ্যাস বিবেচনা করলে,[math]\begin{aligned}& \mathrm{P}_{\mathrm{A}} \mathrm{V}_{\mathrm{A}}=\mathrm{nRT}_{\mathrm{A}} \\& \mathrm{P}_{\mathrm{B}} \mathrm{V}_{\mathrm{B}}=\mathrm{n} \mathrm{RT}_{\mathrm{B}} \\\therefore & \frac{\mathrm{P}_{\mathrm{A}}}{\mathrm{P}_{\mathrm{B}}} \cdot \frac{\mathrm{V}_{\mathrm{A}}}{\mathrm{V}_{\mathrm{B}}}=\frac{\mathrm{T}_{\mathrm{A}}}{\mathrm{T}_{\mathrm{B}}}\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{T_{A}}{T_{B}}=\frac{P_{A}}{P_{B}}[/math]
+ [math]=\frac{3}{3.66}[/math]
+ [math]\therefore \quad \mathrm{T}_{\mathrm{B}}>\mathrm{T}_{\mathrm{A}} ;[/math]
+অতএব, সমপরিমাণ গ্যাস বিবেচনা করলে B পাত্রটি বেশি উত্তপ্ত হবে।
+
+Explanation:
+ব্যাখ্যা: আদর্শ গ্যাস সমীকরণ ব্যবহার করে [math]PV=nRT[/math]. অভিন্ন আয়তন এবং একই পরিমাণ (একই [math]n[/math]) ধরে নিলে [math]T\propto P[/math]. যেহেতু [math]3.66\times10^{5}\,>\,3\times10^{5}[/math], তাই ঘ পাত্র B (প্রেসার [math]3.66\times10^{5}\,{\rm N/m^{2}}[/math]) বেশি উত্তপ্ত।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 417010)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে 1 mole করে দুটি গ্যাস একই আয়তনের ছিপিযুক্ত দুটি পাত্রে রক্ষিত আছে। গ্যাস দুটির আণবিক ভর যথাক্রমে 2gm ও 32 gm. পাত্র দুটির মুখের ছিপি একই সাথে খুলে দেয়া হলো । [অ্যাভোগেড্রোর সংখ্যা [math]={6} .023 \times 10^{23}[/math] এবং [math]\mathrm{R}=8.31[/math] [math]\text { Jole mole }{ }^{-1} \mathrm{~K}^{-1}[/math] ]
+
+Options:
+ঘ. পাত্র দুটি একই সাথে খালি হতে হলে দ্বিতীয় পাত্রের তাপমাত্রার কিরূপ পরিবর্তন হবে গাণিতিক বিশ্লেষণ এর সাহায্যে লিখ ৷
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ঘ ব্যাখ্যা: ছিদ্রের মাধ্যমে নির্গমনের হার ঘনত্বের সঙ্গে গড় গতির অনুপাত, এবং প্রথমে ঘনত্ব সমান থাকার ফলে খালি হওয়ার সময় অনুপাতে উল্টা গড় গতি; তাই একই সময়ে খালি হতে হলে [math]\bar v_1=\bar v_2[/math] হতে হবে। এখানে [math]\bar v=\sqrt{\dfrac{8RT}{\pi M}}[/math] তাই
+[math]\sqrt{\dfrac{8RT_1}{\pi M_1}}=\sqrt{\dfrac{8RT_2}{\pi M_2}}\Rightarrow T_2=T_1\frac{M_2}{M_1}.$$ 
+অতএব [math]T_2=T_1\frac{32}{2}=16T_1[/math], অর্থাৎ দ্বিতীয় পাত্রের তাপমাত্রা প্রথম পাত্রের 16 গুণ (বা প্রাথমিক তাপমাত্রা থেকে 15T_1 만큼 বৃদ্ধি) হতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 417011)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\begin{array}{}\boxed{\begin{array}{l}P_{x}=4 \times 10^{5} \mathrm{~N}-\mathrm{m}^{2} \\V_{\mathrm{x}}=4 \text { litre } \\T_{\mathrm{x}}=600 \mathrm{k}\end{array}} & \quad & \boxed{\begin{array}{l}P_{y}=8 \times 10^{5} \mathrm{~N}-\mathrm{m}^{2} \\V_{y}=8 \text { litre } \\T_{y}=650 \mathrm{k}\end{array}}\\ X & \quad & Y \\\end{array}[/math]
+
+চিত্রে X ও Y সিলিন্ডারে কিছু গ্যাস আছে। যাদের ঘনত্ব [math]\rho \mathrm{kg} / \mathrm{m}^ {3}[/math] এবং ভর সমান।
+
+Options:
+গ. X ও Y সিলিন্ডারের গ্যাসের গড় বর্গমূল বেগের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,X সিলিন্ডারে গ্যাসের চাপ, [math]P_{x}=4 \times 10^{5} \mathrm{~N} \cdot \mathrm{m}^{-2}[/math]
+Y সিলিন্ডারে গ্যাসের চাপ, [math]P_{y}=8 \times 10^{5} \mathrm{~N} \cdot \mathrm{m}^{-2}[/math]
+বের করতে হবে, এদের গড় বর্গমূল বেগের তুলনা বা অনুপাত,[math]\sqrt{\overline{C_{x}^{2}}}: \sqrt{\overline{C_{y}^{2}}}=?[/math]
+গ্যাসদ্বয়ের ঘনত্ব সমান বিধায় এরা মূলত একই গ্যাস অর্থাৎ গ্রাম আণবিক ভর M এর মান উভয়ক্ষেত্রে সমান।আমরা জানি, [math]\sqrt{\overline{C_{x}^{2}}}=\sqrt{\frac{3 P_{x}}{\rho}}[/math]
+ এবং [math]\sqrt{\overline{C_{y}^{2}}}=\sqrt{\frac{3 P_{y}}{\rho}}[/math]
+ [math]\begin{array}{l}\therefore \frac{\sqrt{\overline{C_{x}^{2}}}}{\sqrt{\overline{\bar{C}_{y}^{2}}}}=\sqrt{\frac{P_{x}}{P_{y}}}=\sqrt{\frac{4 \times 10^{5} \mathrm{~N} \cdot \mathrm{m}^{-2}}{8 \times 10^{5} \mathrm{~N} \cdot \mathrm{m}^{-2}}}=0.707 \\\therefore \sqrt{\overline{C_{y}^{2}}}>\sqrt{\overline{C_{x}^{2}}}\end{array}[/math]
+অতএব, Y সিলিন্ডারের গ্যাসের গড় বর্গমূল বেগের মান বেশি। [math]\\[/math]
+
+
+Explanation:
+গ একই ধরনের গ্যাস হওয়ায় অণুর ভর সমান, তাই [math]v_{\rm rms}=\sqrt{3RT/M}[/math] শুধুই তাপমাত্রার উপর নির্ভর করে; তাই [math]\dfrac{v_{Y}}{v_{X}}=\sqrt{\dfrac{T_{Y}}{T_{X}}}=\sqrt{\dfrac{650}{600}}=\sqrt{\dfrac{13}{12}}\approx1.041[/math], অর্থাৎ Y-র গড় বর্গমূল বেগ প্রায় 4.1% বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 417003)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে P ও Q দুটি ঘনকাকৃতি গ্যাস পাত্র যাদের প্রতিটি বাহুর দৈর্ঘ্য 10cm এবং গ্যাসের চাপ যথাক্রমে [math]12 \times 10^{5} \mathrm{Nm}^{-2}[/math] |
+
+Options:
+ঘ. P ও Q উভয় পাত্রের গ্যাসের [math]\mathrm{c}_{\text {rms }}[/math] নির্ণয় কর এবং [math]\mathrm{c}_{\text {rms }}[/math] বেগ তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউভয় গ্যাসের চাপ এবং ঘনত্ব একই হওয়ায় উভয় গ্যাসের rms বেগও একই হবে।এখানে,গ্যাসের চাপ, [math]\mathrm{P}=12 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+ঘনত্ব,[math]\begin{aligned}\rho & =\frac{16 \times 10^{-3}}{(0.1)^{3}} \\& =16 \mathrm{~kg} \mathrm{~m}^{-3}\end{aligned}[/math]
+P পাত্রের গ্যাসের rms বেগ, [math]\mathrm{C}_{\mathrm{rms}, \mathrm{P}}=?[/math]
+Q পাত্রের গ্যাসের rms বেগ, [math]\mathrm{C}_{\mathrm{rms}, \mathrm{Q}}=?[/math]
+ [math]\begin{aligned}\therefore \mathrm{C}_{\mathrm{rms}, \mathrm{P}} & =\mathrm{C}_{\mathrm{rms}, \mathrm{Q}} \\& =\sqrt{\frac{3 \mathrm{P}}{\rho}} \\& =\sqrt{\frac{3 \times 12 \times 10^{5}}{16}} \\& =474 \mathrm{~ms}^{-1}\end{aligned}[/math]
+অতএব, উভয় গ্যাসের Cms বেগ সমান এবং এর মান [math]474 \mathrm{~ms}^{-1}[/math]
+।
+
+Explanation:
+ব্যাখ্যা:
+ঘ কাইনেটিক থিওরির সূত্র অনুযায়ী [math]P=\tfrac{1}{3}\rho c_{\text{rms}}^{2}[/math], তাই [math]c_{\text{rms}}=\sqrt{\dfrac{3P}{\rho}}[/math]. দুই পাত্রের চাপ এবং আয়তন এক স্বাভাবিক অনুমান করলে (এবং একই ধরনের গ্যাস হলে) তাদের ঘনত্ব সমান ধরে নেওয়া যায়, ফলে [math]c_{\text{rms}}[/math] উভয় পাত্রেই সমান হবে; নির্দিষ্ট সংখ্যাগত মান বের করতে গ্যাসের ঘনত্ব বা অণুর ভর/তাপমাত্রা জানতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 417004)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নির্দিষ্ট তাপমাত্রায় কোনো অক্সিজেন গ্যাস অণুর গড় বর্গবেগের বর্গমূল মান [math]11.2 \mathrm{\ kms}^{-1}[/math]। ঘনত্বের পরিবর্তন না করে গ্যাসকে এমনভাবে ঠান্ডা করা হল যেন এর চাপ অর্ধেক হয়।
+
+Options:
+গ. ঠান্ডা করার পরে অক্সিজেন গ্যাস অণুর শেষ গড় বর্গবেগের বর্গমূল মান কত?
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,গড় বর্গবেগের বর্গমূলের আদি মান, [math]\sqrt{\overline{{c}_12}}=11.2\mathrm{~km}\cdot\mathrm{s}^{-1}[/math]
+আদি চাপ [math]P_{1}[/math]
+, হলে পরিবর্তিত চাপ, [math]P_{2}=P_{1} / 2[/math]
+বের করতে হবে, গড় বর্গবেগের বর্গমূলের পরিবর্তিত মান, [math]\sqrt{\overline{c_{2}^{2}}}=?[/math]
+আমরা পাই, [math]\sqrt{\overline{c_{1}^{2}}}=\sqrt{\frac{3 P_{1}}{\rho}}[/math]
+ এবং [math]\sqrt{\overline{c_{2}^{2}}}=\sqrt{\frac{3 P_{2}}{\rho}}[/math]
+ [math]\begin{array}{l}\therefore \frac{\sqrt{\overline{c_{2}^{2}}}}{\sqrt{\overline{c_{1}^{2}}}}=\sqrt{\frac{3 P_{2}}{\rho}} \times \sqrt{\frac{\rho}{3 P_{1}}}=\sqrt{\frac{P_{2}}{P_{1}}}=\sqrt{\frac{P_{1}}{2 P_{1}}}=0.707 \\\therefore \sqrt{\overline{c_{2}^{2}}}=0.707 \times \sqrt{\overline{c_{1}^{2}}}=0.707 \times 11.2 \mathrm{~km} \cdot \mathrm{s}^{-1}=7.92 \mathrm{~km} \cdot \mathrm{s}^{-1} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ চাপ অর্ধেক হলে ঘনত্ব অপরিবর্তিত থাকায় তাপমাত্রাও অর্ধেক হবে এবং [math]v_{\rm rms}\propto\sqrt{T}[/math]; তাই নতুন গড় বর্গবেগের বর্গমূল হবে [math]v_{\rm new}=11.2\sqrt{\tfrac{1}{2}}=\dfrac{11.2}{\sqrt{2}}\approx 7.92\ \mathrm{km\,s^{-1}}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 417005)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নির্দিষ্ট তাপমাত্রায় কোনো অক্সিজেন গ্যাস অণুর গড় বর্গবেগের বর্গমূল মান [math]11.2 \mathrm{\ kms}^{-1}[/math]। ঘনত্বের পরিবর্তন না করে গ্যাসকে এমনভাবে ঠান্ডা করা হল যেন এর চাপ অর্ধেক হয়।
+
+Options:
+ঘ. নাইট্রোজেন অণুর গড় বর্গবেগের বর্গমূল মান 27°C তাপমাত্রায় অক্সিজেন অণুর গড় বর্গবেগের ব র্গমূল মানের সমান হতে হলে, তাপমাত্রার ধারণা থেকে গাণিতিক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘঅক্সিজেনের মোলার আণবিক ভর, [math]M_{1}=32 \mathrm{gm}[/math]
+নাইট্রোজেনের মোলার আণবিক ভর, [math]M_{2}=28 \mathrm{\ gm}[/math]
+বর্গবেগের বর্গমূল, [math]\sqrt{\overline{c_{1}{ }^{2}}}=\sqrt{\frac{3 R T_{1}}{M_{1}}}[/math]
+এবং [math]T_{2}[/math]
+ তাপমাত্রায় নাইট্রোজেন অণুর গড় বর্গবেগের বর্গমূল,[math]\sqrt{\overline{c_{2}^{2}}}=\sqrt{\frac{3 R T_{2}}{M_{2}}}[/math]
+প্রশ্নমতে [math]\sqrt{\overline{c_{2}^{2}}}=\sqrt{\overline{c_{1}^{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\sqrt{\frac{3 R T_{2}}{M_{2}}}=\sqrt{\frac{3 R T_{1}}{M_{1}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\sqrt{\frac{3 R T_{2}}{M_{2}}}=\sqrt{\frac{3 R T_{1}}{M_{1}}}[/math]
+ [math]\frac{T_{2}}{M_{2}}=\frac{T_{1}}{M_{1}}[/math]
+ [math]\therefore T_{2}=\frac{T_{1}}{M_{1}} \times M_{2}=300 \mathrm{~K} \times \frac{28}{32}=262.5 \mathrm{~K}[/math]
+সুতরাং 262.5 K বা, – 10°C তাপমাত্রায় নাইট্রোজেন অণুর গড় বর্গবেগের বর্গমূল মান 27°C তাপমাত্রায় অক্সিজেন অণুর গড় বর্গবেগের বর্গমূল মানের সমান হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: RMS গতি হলো [math]v_{\rm rms}\propto\sqrt{T/m}[/math]। তাই যদি নাইট্রোজেন 27°C ([math]T_N=300\ \rm K[/math]) এ অক্সিজেনের গতি সমান করতে হয়, তখন [math]\sqrt{T_O/m_O}=\sqrt{T_N/m_N}[/math] থেকে [math]T_O=T_N\,(m_O/m_N)=300\times(32/28)=300\times(8/7)=342.86\ \rm K\approx70^\circ C[/math] — অর্থাৎ অক্সিজেনের তাপমাত্রা প্রায় [math]70^\circ C[/math] হলে তারা সমান হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 417006)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাস অণুর ব্যাস [math]3 \times 10^{-10} \mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]6 \times 10^{20}[/math]। স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূলগড় বৰ্গবেগ [math]500 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+গ. N.T.P তে গ্যাসের ঘনত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,গ্যাস অণুগুলোর মূল গড় বৰ্গ বেগ, [math]\sqrt{\overline{c^{2}}}=c=500 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+গ্যাসের চাপ, [math]P=101325 \mathrm{~N} \cdot \mathrm{m}^{-2}[/math]
+গ্যাসের ঘনত্ব, [math]\rho=?[/math]
+আমরা জানি,[math]c=\sqrt{\frac{3 P}{\rho}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\rho=\frac{3 P}{c^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]{\rho}=\frac{3 \times 101325}{(500)^{2}}[/math]
+ [math]\therefore \quad \rho=1.2159 \mathrm{~kg} \cdot \mathrm{m}^{-3} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ্যাসের কাইনেটিক থিওরিতে চাপ এবং ঘনত্বের সম্পর্ক হচ্ছে [math]p=\tfrac{1}{3}\rho v_{\rm rms}^2[/math], তাই ঘনত্ব [math]\rho=\dfrac{3p}{v_{\rm rms}^2}[/math]. গ অনুযায়ী N.T.P.-তে [math]p=1.013\times10^5\ \text{Pa}[/math] এবং [math]v_{\rm rms}=500\ \text{m/s}[/math] বসালে [math]\rho=\dfrac{3\times1.013\times10^5}{(500)^2}\approx1.22\ \text{kg/m}^3[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 417007)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাস অণুর ব্যাস [math]3 \times 10^{-10} \mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]6 \times 10^{20}[/math]। স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূলগড় বৰ্গবেগ [math]500 \mathrm{~ms}^{-1}[/math] ।
+
+Options:
+ঘ. উদ্দীপকের তথ্য থেকে প্রতি সেকেন্ডে সংঘটিত সংঘর্ষের সংখ্যা কোন ক্ষেত্রে বেশি? ক্লসিয়াস ও বোলজম্যানের সমীকরণ ব্যবহার করে তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে,গ্যাস অণুর ব্যাস [math]\sigma=3 \times 10^{-10} \mathrm{~m}[/math]
+একক আয়তনে অণুর সংখ্যা [math]n=6 \times 10^{20} \mathrm{~cm}^{-3}=6 \times 10^{26} \mathrm{~m}^{-3}[/math]
+স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূল গড় বৰ্গবে [math]500 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+।ক্লসিয়াসের পদ্ধতিতে, গড়মুক্ত পথ [math]\lambda_{C}=\frac{1}{n \pi \sigma^{2}}[/math]
+ [math]\begin{array}{l}=\frac{1}{6 \times 10^{26} \times 3.1416 \times\left(3 \times 10^{-10}\right)^{2}} \\=5.89 \times 10^{-9} \mathrm{~m}\end{array}[/math]
+বোলজম্যানের পদ্ধতিতে,[math]\begin{aligned}\lambda_{B} & =\frac{3}{4 n \pi \sigma^{2}}=\frac{3}{4} \times \lambda_{C} \\& =\frac{3}{4} \times 5.89 \times 10^{-9} \mathrm{~m} \\& =4.42 \times 10^{-9} \mathrm{~m}\end{aligned}[/math]
+কোনো অণুর একক সময়ে অতিক্রান্ত দূরত্ব,[math]l=v t=c t=500 \mathrm{~m} \cdot \mathrm{s}^{-1} \times 1 \mathrm{~s}=500 \mathrm{~m}[/math]
+কোনো অণু [math]l[/math]
+ দূরত্ব অতিক্রম করতে N সংখ্যক ধাক্কা খায় তবে গড় মুক্ত পথ, [math]\lambda=\frac{l}{N}[/math]
+ [math]\Rightarrow[/math]
+ [math]N=\frac{l}{\lambda}[/math]
+ [math]\therefore[/math]
+ ক্লসিয়াসের পদ্ধতিতে ধাক্কা সংখ্যা, [math]N_{C}=\frac{l}{\lambda_{C}}=\frac{500 \mathrm{~m}}{5.89 \times 10^{-9} \mathrm{~m}}[/math]
+ [math]=8.48 \times 10^{10}[/math]
+ টিবোলজম্যানের পদ্ধতিতে ধাক্কার সংখ্যা, [math]N_{B}=\frac{l}{\lambda_{\mathrm{B}}}=\frac{500 \mathrm{~m}}{4.42 \times 10^{-9} \mathrm{~m}}[/math]
+ [math]=1.13 \times 10^{11}[/math]
+ টিসুতরাং বলা যায়, বোলজম্যানের সমীকরণ অনুযায়ী প্রতি সেকেন্ডে ধাক্কার সংখ্যা ক্লসিয়াসের সমীকরণ অনুযায়ী ধাক্কার সংখ্যা অপেক্ষা বেশি।
+
+Explanation:
+ব্যাখ্যা: ঘ ক্লসিয়াস সূত্রে প্রতি কণার সংঘর্ষফ্রিকোয়েন্সি নেওয়া হয় [math]Z_C=n\pi d^2\sqrt{2}\,v[/math] whereas বলৎসম্যান (পেয়ার-রেট) গণনায় প্রতি কণার হার হয় [math]Z_B=\tfrac{1}{2}n\pi d^2\sqrt{2}\,v[/math] কারণ প্রতিটি সংঘর্ষ দ্বিগুণভাবে গণনা এড়াতে 1/2 গুণ লাগে। তাই ক্লসিয়াস অনুযায়ী সংঘর্ষের সংখ্যা দুগুণ বেশি হবে; সংখ্যাগতভাবে [math]Z_C\approx1.2\times10^{11}\,\mathrm{s^{-1}}[/math] এবং [math]Z_B\approx6.0\times10^{10}\,\mathrm{s^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 417008)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে 1 mole করে দুটি গ্যাস একই আয়তনের ছিপিযুক্ত দুটি পাত্রে রক্ষিত আছে। গ্যাস দুটির আণবিক ভর যথাক্রমে 2g ও 32g। পাত্র দুটির মুখের ছিপি একই সাথে খুলে দেওয়া হলো। (অ্যাভোগেড্রোর সংখ্যা [math]6.023 \times 10^{23}[/math] এবং [math]R=8.31[/math] [math]\text { Joule mole }{ }^{-1} \mathrm{~K}^{-1} \text { ) }[/math]
+
+Options:
+ঘ. পাত্র দুটি একই সাথে খালি হতে হলে দ্বিতীয় পাত্রের তাপমাত্রার কীরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণের সাহায্যে লিখ ।
+
+
+Correct Answer: 
+
+Solution:
+ঘস্বাভাবিক তাপমাত্রা ও চাপে 1 mole করে দুটি গ্যাস একই আয়তনের ছিপিযুক্ত দুইটি পাত্রে রক্ষিত আছে। গ্যাস দুটির গ্রাম আণবিক ভর যথাক্রমে [math]\mathrm{M}_{1}=2 \mathrm{~g}, \mathrm{M}_{2}=32 \mathrm{gm} .[/math]
+ পাত্র দুটির ছিপি একই সাথে খুলে দেয়া হলো। পাত্র দুইটি একই সাথে খালি হতে হলে তাদের গড় বর্গবেগের বর্গমল একই হতে হবে।আমরা জানি, [math]C=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}}}[/math]
+এখানে, [math]C_{1}=C_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\sqrt{\frac{3 \mathrm{RT}_{1}}{\mathrm{M}_{1}}}=\sqrt{\frac{3 \mathrm{RT}_{2}}{\mathrm{M}_{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{T_{1}}{M_{1}}=\frac{T_{2}}{M_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\frac{\mathrm{M}_{2}}{\mathrm{M}_{1}} \times \mathrm{T}_{1}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\frac{32}{2} \times \mathrm{T}_{1}[/math]
+ [math]\therefore \mathrm{T}_{2}=16 \mathrm{~T}_{1}[/math]
+স্বাভাবিক তাপমাত্রা ও চাপে রক্ষিত গ্যাসগুলো একই সময়ে খালি হতে হলে দ্বিতীয় পাত্রের তাপমাত্রা 16 গুণ করতে হবে।
+
+Explanation:
+ঘ
+ব্যাখ্যা: খোলা ছিদ্র দিয়ে গ্যাসের effusion দ্রুততা কণার গড় গতি [math]\bar v\propto\sqrt{T/M}[/math]-এর সমান হয় এবং খালি হওয়ার সময় [math]\tau\propto1/\bar v\propto\sqrt{M/T}[/math]। সমান সময় পেতে [math]\tau_1=\tau_2</math] হলে [math]\sqrt{M_1/T_1}=\sqrt{M_2/T_2}[/math] থেকে [math]T_2=(M_2/M_1)T_1[/math]। এখানে [math]M_1=2,\;M_2=32[/math] হলে [math]T_2=16T_1[/math], অর্থাৎ দ্বিতীয় পাত্রের তাপমাত্রা মূলত 16 গুণ বাড়াতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 416995)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূপৃষ্ঠের নিকট 0°C তাপমাত্রায় একটি অক্সিজেন অণু কত rms দ্রুতিতে গতিশীল থাকে তা পরিমাপ করা হল। অতঃপর অণুটিকে ভূপৃষ্ঠ হতে সোজা উপরের দিকে উঠতে দেয়া হল যেন অন্য অণুর সাথে তার সংঘর্ষ না ঘটে।
+
+Options:
+ঘ. অণুটি ভূপৃষ্ঠ হতে কত উচ্চতায় উঠেছিল এবং সে ক্ষেত্রে শক্তির নিত্যতা কীভাবে সংরক্ষিত হয়েছিল বলে তোমার ধারণা?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+(গ) হতে প্রাপ্ত ভূ-পৃষ্ঠে rms বেগ,[math]C_{\mathrm{rms}}=461.29 \mathrm{~ms}^{-1}[/math]
+শেষবেগ, v = 0উচ্চতা, h = ?গতির সূত্র হতে,[math]v=C_{\mathrm{rms}}^{2}-2 \mathrm{gh}[/math]
+ [math]\Rightarrow[/math]
+ [math]0=C_{\mathrm{rms}}^{2}-2 \mathrm{gh}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{h}=\frac{\mathrm{C}_{\mathrm{rms}}^{2}}{2 \mathrm{~g}}[/math]
+ [math]\Rightarrow[/math]
+ [math]h=\frac{(461.29)^{2}}{2 \times 9.8}[/math]
+ [math]\therefore \mathrm{h}=10856.55 \mathrm{~m}[/math]
+ভূ-পৃষ্ঠে বিভব শক্তি শূন্য হওয়ায় মোট শক্তি, [math]\mathrm{E}=\frac{1}{2} \mathrm{~m} \mathrm{C}_{\mathrm{rms}}^{2}[/math]
+ [math]=\frac{1}{2} \mathrm{~m} \times(461.29)^{2}=106394.23 \mathrm{~m} \mathrm{~J}[/math]
+h উচ্চতায় গতিশক্তি শূন্য হওয়ায় মোট শক্তি,[math]\begin{aligned}\mathrm{E} & =\mathrm{mgh}=\mathrm{m} \times 9.8 \times 10856.55 \\& =106394.19 \mathrm{~m} \mathrm{~J}\end{aligned}[/math]
+অতএব, অণুটির ক্ষেত্রে শক্তির নিত্যতা সংরক্ষিত হয়েছিল। অণুটি উপরে উঠার সময় এর গতিশক্তি বিভবশক্তিতে রূপান্তরিত হয়েছিল।
+
+Explanation:
+ঘ অণুটির [math]v_{rms}=\sqrt{\frac{3RT}{M}}[/math] প্রয়োগ করলে (T=273.15 K, M=0.032 kg/mol) [math]v_{rms}\approx4.62\times10^2\ \text{m/s}[/math]. তারপর শক্তি সংরক্ষণ থেকে [math]\tfrac12 m v^2 = m g h\Rightarrow h=\tfrac{v^2}{2g}\approx\frac{(4.62\times10^2)^2}{2\times9.8}\approx1.09\times10^4\ \text{m}[/math]. এখানে আদি অনুকৈনিক গতিশক্তি গ্র্যাভিটেশনাল পটেনশিয়াল শক্তিতে রূপান্তরিত হয়েছে (মাস m উভয় পাশে বাতিল), কিন্তু বাস্তবে অনুভবে সংঘর্ষ থাকলে এমন উচ্চতায় ওঠা সম্ভব হয় না।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 416996)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে হাইড্রোজেনের ঘনত্ব [math]0.09 \mathrm{\ kgm}^{-3}[/math] হাইড্রোজেনের অণুর মূল গড় বর্গবেগ নির্ণয় করো?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1837.57 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: কাইনেটিক থিওরিতে চাপ ও ঘনত্বের সম্পর্ক [math]p=\tfrac{1}{3}\rho\overline{v^2}[/math] হওয়ায় [math]\overline{v^2}=\dfrac{3p}{\rho}[/math] এবং [math]v_{\rm rms}=\sqrt{\overline{v^2}}=\sqrt{\dfrac{3p}{\rho}}[/math]. নরমাল চাপ [math]p=1.01\times10^5\ \mathrm{Pa}[/math] ও [math]\rho=0.09\ \mathrm{kg\,m^{-3}}[/math] নিলে [math]v_{\rm rms}=\sqrt{\dfrac{3(1.01\times10^5)}{0.09}}\approx1.84\times10^3\ \mathrm{m\,s^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 416997)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সম আয়তনের দুটি পাত্রে যথাক্রমে 48 gm ও 8 gm [math]\mathrm{O}_{2}[/math] ও He গ্যাস রাখা আছে । পাত্রদ্বয়ের তাপমাত্রা যথাক্রমে 60° C ও 20° C । একটি উপেক্ষণীয় আয়তনের নল যারা পাত্রদ্বয়কে সংযুক্ত করলে সাম্যাস্থায় সমগ্র ব্যবস্থাটির তাপমাত্রা বের করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]42.22^{\circ} \mathrm{C}[/math]
+ )[math]\\[/math]
+Solution :এখানে,[math]\mathrm{O}_{2}[/math]
+ এর মোলসংখ্যা, [math]\mathrm{n}_{1}=\frac{48}{32}=1.5[/math]
+He এর মোলসংখ্যা, [math]\mathrm{n}_{2}=\frac{8}{4}=2[/math]
+ [math]\mathrm{O}_{2}[/math]
+ এর তাপমাত্রা, [math]\mathrm{T}_{1}=60^{\circ} \mathrm{C}=333 \mathrm{~K}[/math]
+He এর তাপমাত্রা, [math]\mathrm{T}_{2}=20^{\circ} \mathrm{C}=293 \mathrm{~K}[/math]
+দ্বি-পরমাণুক [math]\mathrm{O}_{2}[/math]
+ গ্যাসের ক্ষেত্রে, [math]C_{1}=\frac{5}{2} R[/math]
+এবং এক পরমাণুক He গ্যাসের ক্ষেত্রে, [math]\mathrm{C}_{2}=\frac{3}{2} \mathrm{R}[/math]
+এখানে, [math]V_{1}=V_{2}=V[/math]
+সুতরাং পাত্রদ্বয়কে সংযুক্ত করলে সমগ্র ব্যবস্থার আয়তনের কোন পরিবর্তন হয় না। এক্ষেত্রে গ্যাসের অভ্যন্তরীণ শক্তি তাপমাত্রা পরিবর্তনেব্যবহৃত হয়।ধরি, ব্যবস্থাটির তাপমাত্রা Tসুতরাং, [math]\mathrm{n}_{1} \mathrm{C}_{1} \Delta \mathrm{T}_{1}=\mathrm{n}_{2} \mathrm{C}_{2} \Delta \mathrm{T}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]1.5 \times \frac{5}{2} R\left(T_{1}-T\right)=2 \times \frac{3}{2} R\left(T-T_{2}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{14}{4}\left(T_{1}-T\right)=3\left(T-T_{2}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]6.75 \mathrm{~T}_{1}-3.75 \mathrm{~T}=3 \mathrm{~T}-3 \mathrm{~T}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]6.75 \mathrm{~T}=3.75 \mathrm{~T}_{1}+3 \mathrm{~T}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}=\frac{3.75 \times 333+3 \times 293}{6.75}[/math]
+ [math]=315.22 \mathrm{~K}=42.22^{\circ} \mathrm{C} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমগ্র ব্যবস্থা নিরোধক হওয়ায় অভ্যন্তরীণ শক্তি সংরক্ষিত, তাই শেষ তাপমাত্রা বের করতে মোট অভ্যন্তরীণ শক্তির সমতা ব্যবহার করা যায়। দেখতে পাই [math]n_{O_2}=48/32=1.5\ \text{mol}[/math], [math]n_{He}=8/4=2\ \text{mol}[/math], [math]C_{v,O_2}=\tfrac{5}{2}R,\; C_{v,He}=\tfrac{3}{2}R[/math], এবং [math]T_1=333\ \text{K},\; T_2=293\ \text{K}[/math]. তাই
+[math]T_f=\frac{n_{O_2}C_{v,O_2}T_1+n_{He}C_{v,He}T_2}{n_{O_2}C_{v,O_2}+n_{He}C_{v,He}}
+=\frac{1.5\cdot\frac{5}{2}R\cdot333+2\cdot\frac{3}{2}R\cdot293}{1.5\cdot\frac{5}{2}R+2\cdot\frac{3}{2}R}\approx315.22\ \text{K}[/math],
+অতএব শেষ তাপমাত্রা প্রায় [math]315.2\ \text{K}\approx42.1^\circ\text{C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 416998)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি পাত্রে একই তাপমাত্রায় কিছু [math]\mathrm{O}_{2}[/math] ও কিছু [math]\mathrm{CO}_{2}[/math] গ্যাস রাখা আছে। এদের r.m.s বেগের অণুপাত কত? গ্যাসদ্বয়ের অণুসমূহের গড় অভ্যন্তরীণ শক্তির তুলনা করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.17: 1[/math]
+ , [math]5: 6[/math]
+ )[math]\\[/math]
+Solution :এখানে,[math]\mathrm{O}_{2}[/math]
+ গ্যাসের আণবিক ভর,[math]\mathrm{M}_{\mathrm{O}_{2}}=32[/math]
+ [math]\mathrm{CO}_{2}[/math]
+ গ্যাসের আণবিক ভর, [math]\mathrm{M}_{\mathrm{CO}_{2}}=44[/math]
+এখন,[math]\frac{\mathrm{C}_{\mathrm{O}_{2}}}{\mathrm{C}_{\mathrm{CO}_{2}}}=\frac{\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}_{\mathrm{O}_{2}}}}}{\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}_{\mathrm{CO}_{2}}}}}=\sqrt{\frac{\mathrm{M}_{\mathrm{CO}_{2}}}{\mathrm{M}_{\mathrm{O}_{2}}}}[/math]
+ [math]=\sqrt{\frac{44}{32}}=1.17: 1 \text { (Ans.) }[/math]
+আবার, দ্বি-পরমাণুক গ্যাসের ক্ষেত্রে স্বাধীনতার মাত্রা 5 এবং বহু পরমাণুক গ্যাসের ক্ষেত্রে স্বাধীনতার মাত্রা 6[math]\therefore \quad \frac{\mathrm{E}_{\mathrm{O}_{2}}}{\mathrm{E}_{\mathrm{CO}_{2}}}=\frac{5 \times \frac{1}{2} \mathrm{KT}}{6 \times \frac{1}{2} \mathrm{KT}}=5: 6(\text { Ans. })[/math]
+
+
+Explanation:
+ব্যাখ্যা: রূট-মিন-স্কোয়ার বেগ [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] হওয়ায়
+[math]\dfrac{v_{rms}(\mathrm{O}_2)}{v_{rms}(\mathrm{CO}_2)}=\sqrt{\dfrac{M_{\mathrm{CO}_2}}{M_{\mathrm{O}_2}}}=\sqrt{\dfrac{44}{32}}=\sqrt{\dfrac{11}{8}}\approx1.17[/math]। একই তাপমাত্রায় প্রতিটি অণুর গড় অনুবাংগতিক শক্তি (ট্রান্সলেশনাল kinetic energy) সমান, [math]\bar{E}=\tfrac{3}{2}kT[/math] (অর্থাৎ এই দিক থেকে O2 ও CO2 সমউচ্চ)।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 417002)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোন তাপমাত্রায় আর্গন গ্যাসের অণুগুলোর rms দ্রুতি –20°C তাপমাত্রায় হিলিয়াম গ্যাসের অণুগুলো র rms দ্রুতির সমান হবে? (আর্গন ও হিলিয়াম গ্যাসের আণবিক ভর যথাক্রমে 39.9 এবং 4.0 ।)
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2523.7 \mathrm{~K}[/math]
+ )[math]\\[/math]
+Solution :এখানে,আর্গনের গ্রাম আণবিক ভর, [math]\mathrm{M}_{1}=39.9 \mathrm{gm}[/math]
+হিলিয়ামের গ্রাম আণবিক ভর, [math]\mathrm{M}_{2}=4.0 \mathrm{gm}[/math]
+হিলিয়ামের ক্ষেত্রে তাপমাত্রা,[math]\begin{aligned}\mathrm{T}_{2} & =(273-20) \mathrm{K} \\& =253 \mathrm{~K}\end{aligned}[/math]
+আর্গনের ক্ষেত্রে তাপমাত্রা, [math]\mathrm{T}_{1}=?[/math]
+আর্গনের ক্ষেত্রে,গড় মূল বৰ্গবেগ, [math]C_{1}=\sqrt{\frac{3 \mathrm{RT}_{1}}{\mathrm{M}_{1}}}[/math]
+হিলিয়ামের ক্ষেত্রে,গড় মূল বর্গবেগ, [math]\mathrm{C}_{2}=\sqrt{\frac{3 \mathrm{RT}_{2}}{\mathrm{M}_{2}}}[/math]
+এখন, [math]C_{1}=C_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\sqrt{\frac{3 \mathrm{RT}_{1}}{\mathrm{M}_{1}}}=\sqrt{\frac{3 \mathrm{RT}_{2}}{\mathrm{M}_{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{T}_{1}}{\mathrm{M}_{1}}=\frac{\mathrm{T}_{2}}{\mathrm{M}_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{1}=\frac{\mathrm{T}_{2}}{\mathrm{M}_{2}} \times \mathrm{M}_{1}=\frac{253}{4.0} \times 39.9=2523.7 \mathrm{~K} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: rms গতি [math]v_{\rm rms}\propto\sqrt{T/M}[/math] হওয়ায় সমান রাখতে হবে [math]\sqrt{T_{Ar}/M_{Ar}}=\sqrt{T_{He}/M_{He}}[/math], ফলে [math]T_{Ar}=T_{He}\,(M_{Ar}/M_{He})[/math]. হিলিয়ামের তাপমাত্রা [math]-20^\circ C=253.15\ K[/math], তাই [math]T_{Ar}=253.15\times(39.9/4.0)\approx253.15\times9.975\approx2525\ K\approx2252^\circ C[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 416987)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রানুযায়ী একটি গ্যাস-নিরুদ্ধ পিস্টন সংবলিত সিরিঞ্জকে সেন্টিমিটারে দাগাঙ্কিত করা হয়েছে। সিরিঞ্জের প্রস্থচ্ছেদের ক্ষেত্রফল [math]10 \mathrm{~cm}^{2}[/math] । সিরিঞ্জে 80 kPa চাপে কিছু গ্যাস রাখা হলে সিরিঞ্জের স্কেলে 1.00 cm পাঠ প্রদর্শন করে। অতঃপর চাপ কমিয়ে 20k Pa করে স্কেলের পাঠ পর্যবেক্ষণ করা হল।
+
+
+[Image]
+
+
+Options:
+ঘ. গাড়ির সিলিন্ডারে গ্যাস বহন করে যখন গাড়ি চালানো হয় — গাড়ির গতির সাথে সিলিন্ডারের গ্যাসের চাপ, তাপমাত্রা ও অণুর গতিশক্তির কীরূপ পরিবর্তন হবে যুক্তিসহ ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘগাড়ি চালানোর জন্য গাড়িতে রাখা একটি সিলিন্ডারে গ্যাস বহন করা হয়। সিলিন্ডারটি খুব মজবুত স্টিলের তৈরি এবং বাইরের ও ভেতরের চাপ সহনশীল অর্থাৎ বাইরে ও ভেতরে চাপ যাই হোক না কেন আমরা এর আয়তন ধ্রুব ধরে নিতে পারি। সিলিন্ডারে যখন গ্যাস ভর্তি করা হয় তখন অধিক চাপে গ্যাস তরলে পরিণত হয়ে সিলিন্ডারে অবস্থান করে। তরল অবস্থায় গ্যাসের অণুগুলো খুব বেশি গতিশীল হতে পারে না। যখন গাড়ি চলতে আরম্ভ করে তখন সিলিন্ডারে গ্যাসের পরিমাণ কমতে থাকে ফলে অভ্যন্তরীণ চাপ কমতে থাকে। কারণ সিলিন্ডারের আয়তন ধ্রুব, গ্যাসের পরিমাণ কমার ফলে পুরো সিলিন্ডারজুড়েই গ্যাস অবস্থান করে। তাই গ্যাসের অন্তস্থ চাপের পরিমাণ কমতে থাকে। আবার চাপ কমলে তাপমাত্রা কমবে কারণ চাপের সূত্র থেকে আমরা জানি, ধ্রুব আয়তনে নির্দিষ্ট ভরের কোনো গ্যাসের চাপ তার পরম তাপমাত্রার সমানুপাতিক। আবার চাপ কমার ফলে গ্যাসের গতিশক্তি বৃদ্ধি পাবে কেননা মুক্ত অবস্থায় গ্যাসের অণুগুলো বেশি ছোটাছুটি করে।
+
+Explanation:
+ব্যাখ্যা: ঘ যদি সিলিন্ডারটি গাড়ির সঙ্গে সমগতিতে (ধ্রুব গতি, কোনো ত্বরণ নেই) চলে, তাহলে সিলিন্ডারের অভ্যন্তরে থাকা গ্যাসের চাপ, তাপমাত্রা ও অণুদের গড় গতিশক্তি পরিবর্তিত হবে না, কারণ গ্যাস কণাগুলোর আপেক্ষিক গতি এবং অভ্যন্তরীণ শক্তি অপরিবর্তিত থাকে। কেবল তখনই পরিবর্তন হবে যদি তাপ যোগ/উপশম, ত্বরণ বা দৃঢ় কম্পনের ফলে সিলিন্ডারে অন্দরগত অবস্থায় পরিবর্তন ঘটে।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 416988)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জারিফ X এবং Y পাত্রদ্বয়ে STP তে যথাক্রমে 25 gm অজানা গ্যাস ও [math]30\mathrm{gm}\mathrm{\ N}_2[/math] গ্যাস ছিল। অজানা গ্যাস ও [math]\mathrm{N}_{2}[/math] গ্যাসের ঘনত্ব যথাক্রমে [math]1.415 \mathrm{~kg} / \mathrm{m}^{3}[/math] ও [math]1.245 \mathrm{~kg} / \mathrm{m}^{3}[/math] । জারিফ চিন্তা করল, “উভয় পাত্রে গ্যাসের অণুর গতিশক্তি ভিন্ন হলেও গড় গতিশক্তি সমান হবে।
+
+Options:
+গ. X পাত্রের অজানা গ্যাসটির নাম শনাক্ত করো।
+
+
+Correct Answer: 
+
+Solution:
+গSTP তে অজানা গ্যাসের ঘনত্ব [math]1.415 \mathrm{\ kgm}^{-3}[/math]
+অর্থাৎ STP তে [math]1 \mathrm{~m}^{3}[/math]
+ বা 1000 L গ্যাসের ভর = 1.415 kg[math]\therefore[/math]
+ STP তে 22.4 L গ্যাসের ভর [math]=\frac{1.415 \times 22.4}{1000} \mathrm{~kg}[/math]
+ [math]\begin{array}{l}=0.0317 \mathrm{~kg} \\\approx 32 \mathrm{gm}\end{array}[/math]
+আমরা জানি, STP তে যেকোনো গ্যাসের 1 মোলের আয়তন 22.4 Lসুতরাং ঐ গাসটির 1 মোল বা গ্রাম আণবিক ভর = 32 gm।[math]\therefore[/math]
+ গ্যাসটি অক্সিজেন, কারণ অক্সিজেনের গ্রাম আণবিক ভর 32 gm। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: একই চাপ ও তাপমাত্রায় গ্যাসের ঘনত্ব তাদের মোলার ভরের অনুপাতে থাকে, তাই [math]M_X = M_{\mathrm{N}_2}\times\frac{\rho_X}{\rho_{\mathrm{N}_2}}[/math]. এখানে [math]M_{\mathrm{N}_2}=28\ \mathrm{g/mol}[/math] এবং [math]\frac{\rho_X}{\rho_{\mathrm{N}_2}}=\frac{1.415}{1.245}\approx1.1365[/math], ফলে [math]M_X\approx28\times1.1365\approx32\ \mathrm{g/mol}[/math], যা [math]\mathrm{O}_2[/math] (অক্সিজেন)–এর মোলার ভর। গ X পাত্রের গ্যাস: অক্সিজেন।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 416989)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জারিফ X এবং Y পাত্রদ্বয়ে STP তে যথাক্রমে 25 gm অজানা গ্যাস ও [math]30\mathrm{gm}\mathrm{\ N}_2[/math] গ্যাস ছিল। অজানা গ্যাস ও [math]\mathrm{N}_{2}[/math] গ্যাসের ঘনত্ব যথাক্রমে [math]1.415 \mathrm{~kg} / \mathrm{m}^{3}[/math] ও [math]1.245 \mathrm{~kg} / \mathrm{m}^{3}[/math] । জারিফ চিন্তা করল, “উভয় পাত্রে গ্যাসের অণুর গতিশক্তি ভিন্ন হলেও গড় গতিশক্তি সমান হবে।
+
+Options:
+ঘ. উদ্দীপকে জারিফের চিন্তা সঠিক ছিল কিনা তা গাণিতিকভাবে প্রমাণ করে তোমার মতামত ব্যক্ত করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘX পাত্রের আয়তন [math]\mathrm{V}_{1}=\frac{\mathrm{m}_{1}}{\rho_{1}}=\frac{25 \times 10^{-3} \mathrm{~kg}}{1.415 \mathrm{\ kgm}^{-3}}=0.017668 \mathrm{~m}^{3}[/math]
+Y পাত্রের আয়তন, [math]\mathrm{V}_{2}=\frac{\mathrm{m}_{2}}{\rho_{2}}=\frac{30 \times 10^{-3} \mathrm{~kg}}{1.245 \mathrm{\ kgm}^{-3}}=0.02409 \mathrm{~m}^{3}[/math]
+ [math]\therefore[/math]
+ X পাত্রের গ্যাসের মোট গতিশক্তি, [math]{\mathrm{E}}_{1}=\frac{3}{2} \times \mathrm{PV}_{1}[/math]
+ [math]\begin{array}{l}=\frac{3}{2} \times 101325 \mathrm{\ Nm}^{-2} \times 0.017668 \mathrm{~m}^{3} \\=2685.3 \mathrm{~J}\end{array}[/math]
+এবং Y পাত্রের গ্যাসের মোট গতিশক্তি, [math]\mathrm{E}_{2}=\frac{3}{2} \times \mathrm{PV}_{2}[/math]
+ [math]\begin{array}{l}=\frac{3}{2} \times 1.01325 \mathrm{\ Nm}^{-2} \times 0.024096 \mathrm{~m}^{3} \\=3662.3 \mathrm{~J}\end{array}[/math]
+X পাত্রে অণুর সংখ্যা, [math]\mathrm{N}_{1}=\frac{25 \mathrm{gm}}{32 \mathrm{gm}} \times 6.023 \times 10^{23}[/math]
+ [math]=4.70547 \times 10^{23}[/math]
+Y পাত্রে অণুর সংখ্যা,[math]\begin{aligned}\mathrm{N}_{2} & =\frac{30 \mathrm{gm}}{28 \mathrm{gm}} \times 6.023 \times 10^{23} \\& =6.4532 \times 10^{23}\end{aligned}[/math]
+X পাত্রের প্রতিটি অণুর গড় গতিশক্তি,[math]\begin{array}{l}=\frac{E_{1}}{N_{1}}=\frac{2685.3 \mathrm{~J}}{4.70547 \times 10^{23}} \\=5.7068 \times 10^{-21} \mathrm{~J}\end{array}[/math]
+Y পাত্রের প্রতিটি অণুর গড় গতিশক্তি,[math]\begin{array}{l}=\frac{E_{2}}{N_{2}}=\frac{3662.3 \mathrm{~J}}{6.4532 \times 10^{23}} \\=5.6752 \times 10^{-21} \mathrm{~J}\end{array}[/math]
+লক্ষ্য করি যে [math]\frac{E_{1}}{N_{1}} \approx \frac{E_{2}}{N_{2}}[/math]
+সুতরাং উভয় পাত্রে গ্যাসের অণুর মোট গতিশক্তি ভিন্ন হলেও গড় গতিশক্তি সমান হবে। অর্থাৎ জারিফের চিন্তা সঠিক ছিল।
+
+Explanation:
+ব্যাখ্যা: ঘ জারিফের চিন্তা সঠিক — একই তাপমাত্রায় গড় অণু গতিশক্তি কেবল তাপমাত্রার উপর নির্ভর করে এবং STP-এ উভয় পাত্রের তাপমাত্রা একই। গাণিতিকভাবে [math]\tfrac{1}{2}m\overline{v^2}=\tfrac{3}{2}kT[/math] হওয়ায় [math]\overline{E}=\tfrac{3}{2}kT[/math], যা আণবিক ভরের উপর নির্ভর করে না; তাই ঘনত্ব বা ভরের পার্থক্য থাকলেও গড় গতিশক্তি সমান থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 416990)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ল্যাবরেটরিতে STP অবস্থায় একজন ছাত্র দুটি আদর্শ পাত্রে [math]\mathrm{O}_{2}[/math] এবং [math]\mathrm{H}_{2}[/math] গ্যাস নিয়ে গ্যাস দুটির rms দ্রুতি পর্যবেক্ষণ করেছিল। উভয় পাত্রে প্রথমে 1 mole করে গ্যাস রাখা ছিল। ছাত্রটি [math]\mathrm{H}_{2}[/math] এর rms দ্রুতি [math]\mathrm{O}_{2}[/math] এর rms দ্রুতি হতে বেশি পেল। উভয় গ্যাসের rms দ্রুতি সমান করার জন্য একটি গ্যাসের পরিমাণ বাড়িয়ে কাজ করল এবং সফল হল।
+
+Options:
+গ. প্রথম ক্ষেত্রে [math]\mathrm{H}_{2}[/math] এর rms দ্রুতি [math]\mathrm{O}_{2}[/math] হতে কত বেশি ছিল?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,তাপমাত্রা, T = 273 K[math]\mathrm{H}_{2}[/math]
+ এর আণবিক ভর[math]\mathrm{M}_{\mathrm{H}_{2}}=2 \mathrm{~g}=2 \times 10^{-3} \mathrm{~kg}[/math]
+ [math]Q_{2}[/math]
+ এর আণবিক ভর,[math]\mathrm{M}_{\mathrm{O}_{2}}=32 \mathrm{~g}=32 \times 10^{-3} \mathrm{~kg}[/math]
+আদর্শ গ্যাস ধ্রুবক,[math]\mathrm{R}=8.314 \mathrm{\ Jmol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\mathrm{H}_{2}[/math]
+ এর r.m.s দ্রুতি,[math]\mathrm{C}_{\text {r.m.s, } \mathrm{H}_{2}=\text { ? }}[/math]
+ [math]\mathrm{O}_{2}[/math]
+ এর r.m.s দ্রুতি, [math]\mathrm{C}_{\mathrm{r} . \mathrm{ms}, \mathrm{O}_{2}}=\text { ? }[/math]
+ [math]\mathrm{H}_{2}[/math]
+ এর r.m.s দ্রুতি,[math]C_{\text {r.m.s }, H_{2}}=\sqrt{\frac{3 R T}{M_{H_{2}}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{C}_{\text {r.m.s, } \mathrm{H}_{2}}=\sqrt{\frac{3 \times 8.314 \times 273}{2 \times 10^{-3}}}[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{rms}, \mathrm{H}_{2}}=1845.15 \mathrm{~ms}^{-1}[/math]
+ [math]\mathrm{O}_{2}[/math]
+ এর rms দ্রুতি,[math]\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}_{\mathrm{O}_{2}}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{C}_{\mathrm{ms}, \mathrm{O}_{2}}=\sqrt{\frac{3 \times 8.314 \times 273}{32 \times 10^{-3}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}=461.29 \mathrm{~ms}^{-1}[/math]
+ [math]\therefore[/math]
+ প্রথমক্ষেত্রে [math]\mathrm{H}_{2}[/math]
+ এর rms দ্রুতি বেশি ছিল [math]=(1845.15-461.29) \mathrm{ms}^{-1}=1383.86 \mathrm{~ms}^{-1}[/math]
+ পরিমাণ (Ans.)[math]\\[/math]
+
+
+Explanation:
+গ উত্তর: [math]v_{\rm rms}\propto\frac{1}{\sqrt{M}}[/math] হওয়ায় [math]\frac{v_{\rm H_2}}{v_{\rm O_2}}=\sqrt{\frac{M_{\rm O_2}}{M_{\rm H_2}}}=\sqrt{\frac{32}{2}}=4[/math]। তাই [math]\mathrm{H}_2[/math]–এর rms দ্রুতি [math]\mathrm{O}_2[/math]–এর চেয়ে ৪ গুণ বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 416991)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ল্যাবরেটরিতে STP অবস্থায় একজন ছাত্র দুটি আদর্শ পাত্রে [math]\mathrm{O}_{2}[/math] এবং [math]\mathrm{H}_{2}[/math] গ্যাস নিয়ে গ্যাস দুটির rms দ্রুতি পর্যবেক্ষণ করেছিল। উভয় পাত্রে প্রথমে 1 mole করে গ্যাস রাখা ছিল। ছাত্রটি [math]\mathrm{H}_{2}[/math] এর rms দ্রুতি [math]\mathrm{O}_{2}[/math] এর rms দ্রুতি হতে বেশি পেল। উভয় গ্যাসের rms দ্রুতি সমান করার জন্য একটি গ্যাসের পরিমাণ বাড়িয়ে কাজ করল এবং সফল হল।
+
+Options:
+ঘ. উভয় গ্যাসের rms দ্রুতি সমান করার জন্য সে যে ব্যবস্থা নিয়েছিল তা যৌক্তিকভাবে বর্ণনা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘউভয় গ্যাসের rms দ্রুতি সমান করার জন্য সে [math]\mathrm{H}_{2}[/math]
+ গ্যাসের পরিমাণ বৃদ্ধি করেছিল, ফলে এর তাপমাত্রা হ্রাস পেয়েছিল। এতে [math]\mathrm{H}_{2}[/math]
+ গ্যাসের rms দ্রুতিও হ্রাস পেয়েছিল।এখানে,[math]\mathrm{H}_{2}[/math]
+ এর আণবিক ভর,(গ) হতে প্রাপ্ত,[math]\mathrm{O}_{2}[/math]
+ এর rms বেগ,[math]\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}=461.29 \mathrm{~ms}^{-1}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=273 \mathrm{~K}[/math]
+ [math]\mathrm{H}_{2}[/math]
+ এর পরিবর্তিতrms বেগ, [math]\mathrm{C}_{\mathrm{rms}, \mathrm{H}_{2}}=\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}[/math]
+ [math]=461.29 \mathrm{~ms}^{-1}[/math]
+আদি মোল সংখ্যা, [math]\mathrm{n}_{1}=1 \mathrm{~mol}[/math]
+পরবর্তী মোল সংখ্যা, [math]\mathrm{n}_{2}=?[/math]
+পরবর্তী তাপমাত্রা, [math]\mathrm{T}_{2}=?[/math]
+আমরা জানি,[math]\mathrm{C}_{\mathrm{rms}, \mathrm{H}_{2}}=\sqrt{\frac{3 \mathrm{RT}_{2}}{\mathrm{M}_{\mathrm{H}_{2}}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{C}_{\mathrm{rms}, \mathrm{H}_{2}}^{2}=\frac{3 \mathrm{RT}_{2}}{\mathrm{M}_{\mathrm{H}_{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\frac{\mathrm{M}_{\mathrm{H}_{2}} \cdot \mathrm{C}_{\mathrm{rms}, \dot{\mathrm{H}}_{2}}^{2}}{3 \mathrm{R}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\frac{2 \times 10^{-3} \times(461.29)^{2}}{3 \times 8.314}[/math]
+ [math]\therefore \mathrm{T}_{2}=17.06 \mathrm{~K}[/math]
+আবার, আয়তন ও চাপ অপরিবর্তিত থাকায় [math]\mathrm{PV}=\mathrm{n}_{1} \mathrm{RT}_{1}[/math]
+ এবং [math]\text { PV }=[/math]
+ [math]\begin{array}{l}\mathrm{n}_{2} \mathrm{RT}_{2} \\\therefore \mathrm{n}_{1} \mathrm{RT}_{1}=\mathrm{n}_{2} \mathrm{RT}_{2}\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{2}=\frac{\mathrm{n}_{1} \mathrm{~T}_{1}}{\mathrm{~T}_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{n}_{2}=\frac{1 \times 273}{17.06}[/math]
+ [math]\therefore \mathrm{n}_{2}=16[/math]
+অর্থাৎ উভয়গ্যাসের r.ms দ্রুতি সমান করার জন্য সে [math]\mathrm{H}_{2}[/math]
+ গ্যাসের পরিমাণ বৃদ্ধি করে পূর্বের তুলনায় 16 গুণ করেছিল।
+
+Explanation:
+ব্যাখ্যা: গড় দ্বিচল গতির সূত্র হলো [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math], তাই একই তাপমাত্রায় হাইড্রোজেনের (অল্প ভরের) [math]v_{rms}[/math] অক্সিজেনের তুলনায় বেশি হয়। সমান করতে হলে ভারি গ্যাসটির তাপমাত্রা বাড়াতে হবে, কারণ সমতা থেকে [math]T_{O_{2}}=\dfrac{M_{O_{2}}}{M_{H_{2}}}\,T_{H_{2}}[/math] পাওয়া যায় (এখানে [math]M_{O_{2}}/M_{H_{2}}=32/2=16[/math])। তাই শিক্ষার্থীটি ভারি গ্যাস (অক্সিজেন) এর পরিমাণ বাড়িয়ে সেটিকে সংকুচিত/তাপায়িত করে তার তাপমাত্রা বাড়িয়ে নিল যাতে [math]v_{rms}(O_{2})=v_{rms}(H_{2})[/math] হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 416992)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমুদ্রপৃষ্ঠের 45° অক্ষাংশে 0°C তাপমাত্রায় 1টি নাইট্রোজেন অণু গতিশীল থাকা অবস্থায় অণুটিকে মুক্তভাবে উপরের দিকে উঠতে দেয়া হল। অণুটি [math]\mathrm{h}_{1}[/math] পর্যন্ত উঠে থেমে গেল। অতঃপর একই অবস্থান হতে একটি অক্সিজেন অণু [math]\mathrm{h}_{2}[/math] পর্যন্ত উঠে থেমে গেল ।
+
+Options:
+গ. [math]\mathrm{h}_{1}[/math] ও [math]\mathrm{h}_{2}[/math] এর মান নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,নাইট্রোজেনের আণবিক ভর, [math]\mathrm{M}_{\mathrm{N}_{2}}=28 \mathrm{~g}=28 \times 10^{-3} \mathrm{~kg}[/math]
+অক্সিজেনের আণবিক ভর, [math]\mathrm{M}_{\mathrm{O}_{2}}=32 \mathrm{~g}=32 \times 10^{-3} \mathrm{~kg}[/math]
+তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+আদর্শ গ্যাস ধ্রুবক [math]\mathrm{R}=8.314 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+নাইট্রোজেনের rms বেগ, [math]\mathrm{C}_{\mathrm{rms}, \mathrm{N}_{2}}=?[/math]
+অক্সিজেনের rms বেগ, [math]\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}=\text { ? }[/math]
+শেষবেগ, [math]v=0[/math]
+উচ্চতা, [math]\mathrm{h}_{1}=?[/math]
+ [math]\mathrm{h}_{2}=?[/math]
+নাইট্রোজেনের rms বেগ,[math]C_{\mathrm{rms}, \mathrm{N}_{2}}=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}_{\mathrm{N}_{2}}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]C_{\mathrm{rms}, \mathrm{N}_{2}}=\sqrt{\frac{3 \times 8.314 \times 273}{28 \times 10^{-3}}}[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{rms}, \mathrm{N}_{2}}=493.14 \mathrm{~ms}^{-1}[/math]
+অক্সিজেনের rms বেগ,[math]C_{\text {rms, }}=\sqrt{\frac{3 R T}{M_{O_{2}}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}=\sqrt{\frac{3 \times 8.314 \times 273}{32 \times 10^{-3}}}[/math]
+ [math]\therefore[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}=461.29 \mathrm{~ms}^{-1}[/math]
+নাইট্রোজেনের ক্ষেত্রে,[math]v^{2}=\mathrm{C}_{\mathrm{rms}, \mathrm{N}_{2}}^{2}-2 \mathrm{gh}_{1}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{h}_{1}=\frac{\mathrm{C}_{\mathrm{rms}, \mathrm{N}_{2}}^{2}}{2 \mathrm{~g}}[/math]
+ [math]\Rightarrow[/math]
+ [math]h_{1}=\frac{(493.14)^{2}}{2 \times 9.8}[/math]
+ [math]\therefore \mathrm{h}_{1}=12407.5 \mathrm{~m}[/math]
+অক্সিজেনের ক্ষেত্রে,[math]v^{2}=\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}^{2}-2 \mathrm{gh}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{h}_{2}=\frac{\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}^{2}}{2 \mathrm{~g}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{h}_{2}=\frac{(461.29)^{2}}{2 \times 9.8}[/math]
+ [math]\begin{array}{l}\therefore \mathrm{h}_{2}=10856.55 \mathrm{~m} \\\therefore \mathrm{h}_{1}=12407.5 \mathrm{~m}, \mathrm{~h}_{2}=10856.55 \mathrm{~m} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: উর্ধ্বগামী অণুর থামা পর্যন্ত উচ্চতা নির্ণয়ে উল্লম্ব কাইনেটিক শক্তি সমান থাকে গ্রাভিটেশনের ভরবৃদ্ধি শক্তির সঙ্গে, আর একটি দিকের গড় কাইনেটিক শক্তি [math]\tfrac{1}{2}kT[/math]। তাই [math] \tfrac{1}{2}m v_z^2 = mgh = \tfrac{1}{2}kT \Rightarrow h=\dfrac{kT}{2mg}[/math]। 
+
+গ গণনা: [math]m_{N_2}=28\times1.66\times10^{-27}=4.648\times10^{-26}\,\text{kg}[/math], তাই [math]h_1=\dfrac{1.38\times10^{-23}\times273}{2\times4.648\times10^{-26}\times9.8}\approx4.14\times10^{3}\,\text{m}[/math]; [math]m_{O_2}=32\times1.66\times10^{-27}=5.312\times10^{-26}\,\text{kg}[/math], তাই [math]h_2\approx3.62\times10^{3}\,\text{m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 416993)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমুদ্রপৃষ্ঠের 45° অক্ষাংশে 0°C তাপমাত্রায় 1টি নাইট্রোজেন অণু গতিশীল থাকা অবস্থায় অণুটিকে মুক্তভাবে উপরের দিকে উঠতে দেয়া হল। অণুটি [math]\mathrm{h}_{1}[/math] পর্যন্ত উঠে থেমে গেল। অতঃপর একই অবস্থান হতে একটি অক্সিজেন অণু [math]\mathrm{h}_{2}[/math] পর্যন্ত উঠে থেমে গেল ।
+
+Options:
+ঘ. উদ্দীপক অনুযায়ী নাইট্রোজেন অণু এবং অক্সিজেন অণুর অতিক্রান্ত উল্লম্ব দূরত্ব যথাক্রমে [math]\math rm{h}_{1}[/math] ও [math]\mathrm{h}_{2}[/math] সমান না-কি ভিন্ন ভিন্ন হয়েছিল তা যথাযথ যুক্তিসহ বর্ণনা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুযায়ী নাইট্রোজেন অণু ও অক্সিজেন অণুর অতিক্রান্ত উল্লম্ব দূরত্ব [math]\mathrm{h}_{1}[/math]
+ ও [math]\mathrm{h}_{1}[/math]
+ ভিন্ন ভিন্ন হয়েছিল। কারণ বর্ণনা করা হলো:(গ) হতে প্রাপ্ত, নাইট্রোজেন অণুরrms বেগ, [math]\mathrm{C}_{\mathrm{rms}, \mathrm{N}_{2}}=493.14 \mathrm{~ms}^{-1}[/math]
+অক্সিজেন অণুরrms বেগ, [math]\mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}=461.29 \mathrm{~ms}^{-1}[/math]
+নাইট্রোজেন অণুর ভর,[math]\begin{aligned}\mathrm{m}_{\mathrm{N}_{2}} & =\frac{28 \times 10^{-3}}{6.023 \times 10^{23}} \\& =4.65 \times 10^{-26} \mathrm{~kg}\end{aligned}[/math]
+অক্সিজেন অণুর ভর,[math]\begin{aligned}\mathrm{m}_{\mathrm{O}_{2}} & =\frac{32 \times 10^{-3}}{6.023 \times 10^{23}} \\& =5.31 \times 10^{-26} \mathrm{~kg}\end{aligned}[/math]
+নাইট্রোজেনের গতিশক্তি, [math]\mathrm{E}_{\mathrm{k}, \mathrm{N}_{2}}=?[/math]
+অক্সিজেনের গতিশক্তি, [math]\mathrm{E}_{\mathrm{k}, \mathrm{O}_{2}}=?[/math]
+নাইট্রোজেনের গতিশক্তি,[math]\mathrm{E}_{\mathrm{k}, \mathrm{N}_{2}}=\frac{1}{2} \mathrm{~m}_{\mathrm{N}_{2}} \mathrm{C}_{\mathrm{rms}, \mathrm{N}_{2}}^{2}[/math]
+ [math]\mathrm{E}_{\mathrm{k}, \mathrm{N}_{2}}=\frac{1}{2} \times 4.65 \times 10^{-26} \times (493.14)^{2}[/math]
+ [math]\therefore \mathrm{E}_{\mathrm{k}, \mathrm{N}_{2}}=5.654 \times 10^{-21} \mathrm{~J}[/math]
+অক্সিজেনের গতিশক্তি,[math]\mathrm{E}_{\mathrm{k}, \mathrm{O}_{2}}=\frac{1}{2} \mathrm{~m}_{\mathrm{O}_{2}} \mathrm{C}_{\mathrm{rms}, \mathrm{O}_{2}}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{E}_{\mathrm{k}, \mathrm{O}_{2}}=\frac{1}{2} \times 5.31 \times 10^{-26} \times (461.29)^{2}[/math]
+ [math]\therefore \mathrm{E}_{\mathrm{k}, \mathrm{O}_{2}}=5.6495 \times 10^{-21} \mathrm{~J}[/math]
+উৎক্ষেপণের সময় যার গতিশক্তি বেশি হবে সে তত উপরে উঠবে। অতএব, উভয়ের আদি গতিশক্তি ভিন্ন হওয়ায় তাদের উচ্চতা [math]\mathrm{h}_{1}[/math]
+ ও [math]\mathrm{h}_{2}[/math]
+ ভিন্ন হবে।
+
+Explanation:
+ব্যাখ্যা: একই তাপমাত্রায় প্রতিটি অণুর গড় কাইনেটিক শক্তি সমান, [math]\langle\tfrac{1}{2}mv^2\rangle=\tfrac{3}{2}kT[/math]. উপরে ওঠার জন্য শক্তি সংরক্ষণ করলে [math]\tfrac{1}{2}mv^2=mgh[/math] বা [math]h=\dfrac{\text{KE}}{mg}[/math] হয়, তাই একই কাইনেটিক শক্তি থাকলে উল্লম্ব উচ্চতা [math]h\propto 1/m[/math]; নাইট্রোজেনের ভর অক্সিজেনের চেয়ে ছোট হওয়ায় [math]h_{1}>h_{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 416994)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূপৃষ্ঠের নিকট 0°C তাপমাত্রায় একটি অক্সিজেন অণু কত rms দ্রুতিতে গতিশীল থাকে তা পরিমাপ করা হল। অতঃপর অণুটিকে ভূপৃষ্ঠ হতে সোজা উপরের দিকে উঠতে দেয়া হল যেন অন্য অণুর সাথে তার সংঘর্ষ না ঘটে।
+
+Options:
+গ. ভূপৃষ্ঠে অণুটির rms দ্রুতি কত ছিল?
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ (যেহেতু প্ৰমাণ তাপমাত্রা)জানা আছে, আদর্শ গ্যাস ধ্রুবক, [math]\mathrm{R}=8.314 \mathrm{\ Jmole}^{-1} \mathrm{~K}^{-1}[/math]
+অক্সিজেনের মোলার আণবিক ভর, [math]\mathrm{M}=32 \mathrm{gm}=32 \times 10^{-3} \mathrm{~kg}[/math]
+বের করতে হরে মূল গড় বৰ্গবেগ, [math]\mathrm{C}_{\mathrm{rms}}=?[/math]
+আমরা জানি,[math]C_{\mathrm{rms}}=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}}}[/math]
+ [math]\begin{array}{l}=\sqrt{\frac{3 \times 8.314 \mathrm{\ Jmol}^{-1} \mathrm{~K}^{-1} \times 273 \mathrm{~K}}{32 \times 10^{-3} \mathrm{~kg}}} \\=461.3 \mathrm{~ms}^{-1} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: rms দ্রুতির সূত্র [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] প্রয়োগ করলে, এখানে [math]R=8.314\ \mathrm{J/(mol\cdot K)},\ T=273.15\ \mathrm{K},\ M=0.032\ \mathrm{kg/mol}[/math]. তাই [math]v_{rms}\approx\sqrt{\dfrac{3\times8.314\times273.15}{0.032}}\approx4.61\times10^{2}\ \mathrm{m/s}[/math], অর্থাৎ প্রায় [math]461\ \mathrm{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 416970)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে একটি সিলিন্ডার পিস্টন ব্যবস্থায় কিছু গ্যাস আবদ্ধ আছে।
+
+সিলিন্ডারের ভিতরের গ্যাসের চাপ [math]1.0 \times 10^{5} \mathrm{~Pa}[/math] |
+
+Options:
+ঘ. পিস্টনটি যখন স্থির তখন পিস্টন ও বন্ধ প্রান্তে চাপ সমান হয়, যদিও পিস্টনের ক্ষেত্রফল বদ্ধ প্রান্তের ক্ষেত্রফল অপেক্ষা বেশি। গ্যাসের গতিতত্ত্ব থেকে ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ-গ্যাসের গতিতত্ত্ব অনুসারে, চাপ, [math]\mathrm{P}=\frac{1}{3} \rho \overline{\mathrm{c}^{2}}[/math]
+এখানে, [math]\rho=[/math]
+ গ্যাসের ঘনত্ব এবং [math]\overline{c^{2}}[/math]
+ গড় বর্গবেগএই সূত্রানুসারে গ্যাসের চাপ ক্ষেত্রফলের উপর নির্ভর করে না। তাই পিস্টনটি যখন স্থির তখন সিলিন্ডারের সর্বত্র একটি চাপ থাকে। কারণ গ্যাসের গতিতত্ত্ব অনুসারে গ্যাসের অণুগুলো অবিরাম গতিতে ছোটাছুটি করছে এবং পরস্পরের সাথে ও পাত্রের দেয়ালের সাথে অনবরত ধাক্কা খাচ্ছে। এ ধাক্কাজনিত বলই গ্যাসের চাপের কারণ। তাই পিস্টনটি যখন স্থির তখন পিস্টন ও বদ্ধ প্রান্তের চাপ সমান হয় যদিও পিস্টনের ক্ষেত্রফল বদ্ধ প্রান্তের ক্ষেত্রফল অপেক্ষা বেশি।
+
+Explanation:
+ঘ গ্যাসের চাপ অণুদের অনিয়মিত সংঘর্ষ থেকে প্রতিটি একক ক্ষেত্রফলে গতি পরিবর্তনের হারে নির্ধারিত হয়, তাই স্থিতিশীল অবস্থায় একই গ্যাসের সব অভ্যন্তরীণ পৃষ্ঠে প্রতি একক ক্ষেত্রফলে চাপ সমান থাকে। পিস্টনের মোট বল ক্ষেত্রফলের অনুপাতে বেশি বা কম হতে পারে, কিন্তু প্রতি একক ক্ষেত্রফল যে চাপ সেইজন্যই উভয় স্থানে [math]1.0\times10^{5}\ \mathrm{Pa}[/math] সমানভাবে প্রযোজ্য।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 416971)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে অক্সিজেন গ্যাসের অণুগুলোর গড় বর্গবেগের বর্গমূল নির্ণয় করো। প্রমাণ চাপ ও তাপমাত্রায় অক্সিজেনের ঘনত্ব [math]1.43 \mathrm{~kg} \cdot \mathrm{m}^{-3}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1837.57 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,হাইড্রোজেনের ঘনত্ব, [math]\rho=0.09 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+স্বাভাবিক চাপ, [math]\mathrm{P}=101.3 \times 10^{3} \mathrm{Nm}^{-2}[/math]
+মূল গড় রগবেগ, C = ?আমরা জানি,[math]\begin{aligned}C & =\sqrt{\frac{3 P}{\rho}} \\& =\sqrt{\frac{3 \times 101.3 \times 10^{3}}{0.09}} \\& \left.=1837.57 \mathrm{~ms}^{-1} \text { (Ans. }\right)\end{aligned}[/math]
+
+
+Explanation:
+কিনেটিক তত্ত্ব অনুযায়ী [math]p=\tfrac{1}{3}\rho v_{\rm rms}^2[/math], তাই [math]v_{\rm rms}=\sqrt{\tfrac{3p}{\rho}}[/math]। আইডিয়াল গ্যাস থেকে ঘনত্ব [math]\rho=\tfrac{pM}{RT}[/math] এবং স্ট্যান্ডার্ড শর্তে ( [math]p=1.013\times10^5\ \mathrm{Pa},\ T=273\ \mathrm{K},\ M=0.032\ \mathrm{kg/mol}[/math]) এইটির মান [math]\rho=\tfrac{1.013\times10^5\times0.032}{8.314\times273}\approx1.43\ \mathrm{kg\,m^{-3}}[/math] পাওয়া যায়। তাই [math]v_{\rm rms}=\sqrt{\tfrac{3\times1.013\times10^5}{1.43}}\approx4.61\times10^2\ \mathrm{m/s}[/math] (এটি একইভাবে [math]v_{\rm rms}=\sqrt{\tfrac{3RT}{M}}[/math] থেকে পাওয়া যায়)।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 416972)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ চাপ [math]1.013 \times 10^{5} \mathrm{Nm}^{-2}[/math] এবং বায়ুর ঘনত্ব 1.293 [math]\mathrm {kgm}^{-3}[/math] হলে প্রমাণ তাপমাত্রা ও চাপের বায়ুর অণুগুলোর গড় বর্গবেগের বর্গমূল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]484.8 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: গ্যাসের কাইনেটিক তত্ত্ব অনুযায়ী চাপ ও ঘনত্বের মধ্যে সম্পর্ক [math]p=\tfrac{1}{3}\rho v_{\text{rms}}^{2}[/math], সুতরাং [math]v_{\text{rms}}=\sqrt{\dfrac{3p}{\rho}}[/math]. এখানে [math]p=1.013\times10^{5}\,\text{N/m}^{2}[/math] ও [math]\rho=1.293\,\text{kg/m}^{3}[/math], তাই [math]v_{\text{rms}}=\sqrt{\dfrac{3\times1.013\times10^{5}}{1.293}}\approx4.85\times10^{2}\,\text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 416973)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+STP তে কোনো গ্যাসের অণুগুলোর গড় বর্গবেগের বর্গমূল নির্ণয় করো। STP তে ঐ গ্যাসের ঘনত্ব [math]1.4 \mathrm{~kg} \cdot \mathrm{m}^{-3}[/math] |
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]466.03 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: আদর্শ গ্যাস সূত্র ও ঘনত্ব সম্পর্ক থেকে পাওয়া যায় [math]\rho=PM/(RT)[/math] এবং [math]v_{\rm rms}=\sqrt{3RT/M}[/math], যা মিলিয়ে সরলীকরণ করলে [math]v_{\rm rms}=\sqrt{3P/\rho}[/math] হয়। STP এ [math]P=1.01\times10^5\ \mathrm{Pa}[/math] ও [math]\rho=1.4\ \mathrm{kg\,m^{-3}}[/math] ব্যবহারে [math]v_{\rm rms}=\sqrt{\dfrac{3\times1.01\times10^5}{1.4}}\approx4.65\times10^2\ \mathrm{m\,s^{-1}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 416974)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে কোনো গ্যাসের [math]1.25 \mathrm{\ kgm}^{-3}[/math] ঘনত্ব -3 হলে ঐ গ্যাসে র অণুগুলোর মূল গড় বর্গবেগ নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]493.2 \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+দেয়া সূত্র থেকে কাইনেটিক তত্ত্বে [math]p=\tfrac{1}{3}\rho\langle v^2\rangle[/math]. স্ট্যান্ডার্ড চাপ ধরে [math]p=1.013\times10^5\ \mathrm{Pa}[/math] এবং [math]\rho=1.25\ \mathrm{kg\,m^{-3}}[/math] হলে
+[math]\langle v^2\rangle=\dfrac{3p}{\rho}=\dfrac{3\times1.013\times10^5}{1.25}=2.4312\times10^5\ \mathrm{m^2s^{-2}}[/math].
+অতএব মূল-গড় বর্গবেগ [math]\langle v^2\rangle\approx2.43\times10^5\ \mathrm{m^2s^{-2}}[/math] এবং মূল-গড় বেগ (rms) প্রায় [math]\sqrt{\langle v^2\rangle}\approx493\ \mathrm{m\,s^{-1}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 416976)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+75 cm পারদ চাপে ও 35°C তাপমাত্রায় অক্সিজেনের ঘনত্ব [math]2.45 \mathrm{~kg} \cdot \mat hrm{m}^{-3}[/math] হলে ঐ তাপমাত্রা ও চাপে অক্সিজেনের অণুগুলির মূল গড় বর্গবেগ নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]349.93 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,চাপ, [math]P=0.75 \times 13600 \times 9.81[/math]
+ [math]\mathrm{Nm}^{-2}=10^{5} \mathrm{Nm}^{-2}[/math]
+ঘনত্ব, [math]\rho=2.45 \mathrm{\ kgm}^{-3}[/math]
+মূলবৰ্গ গড় বর্গবেগ, C = ?আমরা জানি,[math]\begin{aligned}C & =\sqrt{\frac{3 P}{\rho}} \\& =\sqrt{\frac{3 \times 10^{5}}{2.45}} \\& =349.93 \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+যেহেতু [math]v_{\rm rms}=\sqrt{\dfrac{3RT}{M}}[/math] এবং [math]p=\rho\dfrac{R}{M}T[/math] হওয়ায় [math]v_{\rm rms}=\sqrt{\dfrac{3p}{\rho}}[/math] হয়। পারদের ঘনত্ব [math]\rho_{\rm Hg}=13600\ \mathrm{kg\,m^{-3}}[/math] ও [math]g=9.8\ \mathrm{m\,s^{-2}}[/math] ধরে [math]p=\rho_{\rm Hg}gh=13600\times9.8\times0.75\approx9.996\times10^4\ \mathrm{Pa}[/math] । তাই [math]v_{\rm rms}=\sqrt{\dfrac{3\times9.996\times10^4}{2.45}}\approx3.50\times10^2\ \mathrm{m\,s^{-1}}[/math] (প্রায় [math]350\ \mathrm{m/s}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 416977)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো একটি গ্যাসের অণুগুলোর গড় মুক্ত পথ [math]2.6 \times 10^{-8} \mathrm{~m}[/math] এবং অণুর ব্যাস [math]2.2 \times 10^{-10} \mathrm{~m}[/math] হলে প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.79 \times 10^{20}[/math] (ম্যাক্সওয়েলের সমীকরণ অনুসারে) )
+
+Explanation:
+ব্যাখ্যা: গড় মুক্ত পথের সূত্র [math]\lambda=\dfrac{1}{\sqrt{2}\pi n d^{2}}[/math] থেকে সংখ্যা ঘনত্ব [math]n[/math] পাওয়া যায়: [math]n=\dfrac{1}{\sqrt{2}\pi d^{2}\lambda}[/math]. এখানে [math]d=2.2\times10^{-10}\,\text{m}[/math] ও [math]\lambda=2.6\times10^{-8}\,\text{m}[/math] বসালে [math]n\approx1.79\times10^{26}\,\text{m}^{-3}[/math], অর্থাৎ প্রতি ঘন সেন্টিমিটারে [math]1.79\times10^{20}\ \text{অণু}[/math] (প্রায় [math]1.8\times10^{20}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 416978)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.5m বাহুবিশিষ্ট একটি ঘনাকৃতি পাত্রে 0°C তাপমাত্রায় 11.25 g গ্যাস অণু আছে। এই অণুর মূল গড়, বৰ্গবেগ [math]1837.5 \mathrm{~ms}^{-1}[/math] ।
+
+Options:
+গ. গ্যাসটির চাপ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,গ্যাস অণুর ভর,[math]\begin{aligned}\mathrm{M} & =11.25 \mathrm{~g} \\& =11.25 \times 10^{-3} \mathrm{~kg}\end{aligned}[/math]
+তাপমাত্রা, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{k}[/math]
+মূল গড় বৰ্গবেগ, [math]\mathrm{c}=1837.5 \mathrm{~ms}^{-1}[/math]
+দৈর্ঘ্য, [math]l=0.5 \mathrm{~m}[/math]
+আয়তন, [math]\mathrm{V}=l^{3}=(0.5 \mathrm{~m})^{3}=0.125 \mathrm{~m}^{3}[/math]
+চাপ, P = ?আমরা জানি,[math]\begin{aligned}\mathrm{PV} & =\frac{1}{3} \mathrm{mnc}^{2} \\& =\frac{1}{3} \mathrm{Mc}^{2}\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]P=\frac{M}{3 V} c^{2}[/math]
+ [math]\begin{array}{l}=\frac{1}{3} \times \frac{11.25 \times 10^{-3}}{0.125} \\\times(1837.5)^{2} \\=1.013 \times 10^{5} \mathrm{Nm}^{-2}\end{array}[/math]
+সুতরাং, গ্যাসটির চাপ [math]1.013 \times 10^{5} \mathrm{Nm}^{-2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: কাইনেটিক তত্ত্ব অনুযায়ী চাপ [math]p=\tfrac{1}{3}\rho v_{\rm rms}^2[/math], যেখানে [math]\rho=m/V[/math]. এখানে [math]m=0.01125\ \mathrm{kg},\ V=0.5\ \mathrm{m^3} \Rightarrow \rho=0.0225\ \mathrm{kg\,m^{-3}}[/math], তাই [math]p=\tfrac{1}{3}\times0.0225\times(1837.5)^2\approx2.53\times10^{4}\ \mathrm{Pa}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 416979)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.5m বাহুবিশিষ্ট একটি ঘনাকৃতি পাত্রে 0°C তাপমাত্রায় 11.25 g গ্যাস অণু আছে। এই অণুর মূল গড়, বৰ্গবেগ [math]1837.5 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+ঘ. গ্যাসটিতে কতটি অণু আছে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘআমরা জানি, [math]\mathrm{PV}=\frac{1}{3} \mathrm{mnc}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{P}=\frac{\mathrm{mn}}{3 \mathrm{~V}} \mathrm{c}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{P}=\frac{1}{3} \rho \mathrm{c}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{P}=\frac{2}{3} \cdot \frac{1}{2} \rho \mathrm{c}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{P}=\frac{2}{3} \mathrm{E}[/math]
+ [math]\Rightarrow[/math]
+ [math]E=\frac{3 \rho}{2}[/math]
+এখানে, [math]\mathrm{P}=1.013 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+ (গ হতে)[math]\therefore[/math]
+ গ্যাস অণুগুলোর মোট গতিশক্তি, [math]\mathrm{E}=\frac{3 \times 1.013 \times 10^{5}}{2}=151950 \mathrm{~J}[/math]
+আবার, আমরা জানি, প্রতি অণু গ্যাসের গতিশক্তি [math]\overline{\mathrm{E}}=\frac{3}{2} \mathrm{kT}[/math]
+এখানে, [math]\mathrm{T}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+এবং বোলজম্যান ধ্রুবক, [math]\mathrm{k}=1.38 \times 10^{-23} \mathrm{JK}^{-1}[/math]
+ [math]\therefore \overline{\mathrm{E}}=\frac{3}{2} \times 1.38 \times 10^{-23} \mathrm{JK}^{-1} \times 273 \mathrm{~K}=5.6511 \times 10^{-21} \mathrm{~J}[/math]
+ [math]\therefore[/math]
+ গ্যাস অণুর সংখ্যা,[math]\begin{aligned}\mathrm{n} \equiv & \frac{\mathrm{E}}{\overline{\mathrm{E}}}=\frac{151950 \mathrm{~J}}{5.6511 \times 10^{-21} \mathrm{~J}} \\& =2.688 \times 10^{25}\end{aligned}[/math]
+ [math]\therefore[/math]
+ প্রদত্ত গ্যাসটিতে অণু আছে [math]2.688 \times 10^{25}[/math]
+ টি।
+
+Explanation:
+ব্যাখ্যা: ঘ রুট-গতি সূত্র থেকে মোলার ভর পাওয়া যায়: [math]v_{\rm rms}=\sqrt{\dfrac{3RT}{M}}\Rightarrow M=\dfrac{3RT}{v_{\rm rms}^2}\approx0.002016\ \mathrm{kg\,mol^{-1}}(=2.016\ \mathrm{g\,mol^{-1}}), তাই গ্যাসটি [math]\mathrm{H_2}[/math]। ফলে মোল সংখ্যা [math]n=\dfrac{11.25}{2.016}\approx5.579\ \mathrm{mol}[/math] এবং অণু সংখ্যা [math]N=nN_A\approx5.579\times6.022\times10^{23}\approx3.36\times10^{24}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 416980)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে নাইট্রোজেনের ঘনত্ব [math]1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]।
+
+Options:
+গ. নাইট্রোজেন অণুগুলোর মূল গড় বর্গবেগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,নাইট্রোজেনের ঘনত্ব, [math]\rho=1.25 \mathrm{kgm}^{-3}[/math]
+জানা আছে, স্বাভাবিক বায়ুচাপ, [math]\mathrm{P}=101325 \mathrm{\ Nm}^{-2}[/math]
+বের করতে হবে, গড় বর্গবেগের বর্গমূল, [math]\mathrm{C}_{\mathrm{rms}}=?[/math]
+আমরা জানি,[math]\begin{aligned}C_{\mathrm{rms}} & =\sqrt{\frac{3 \mathrm{P}}{\rho}}=\sqrt{\frac{3 \times 101325 \mathrm{Nm}^{-2}}{1.25 \mathrm{kgm}^{-3}}} \\& =493 \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ নাইট্রোজেনের মূল গড় বর্গবেগ [math]v_{\rm rms}=\sqrt{3RT/M}[/math] এবং ঘনত্ব সম্পর্ক [math]\rho=\dfrac{pM}{RT}[/math] ব্যবহার করে [math]T[/math] বাদ দিলে [math]v_{\rm rms}=\sqrt{\dfrac{3p}{\rho}}[/math] পাওয়া যায়। স্থায়ী চাপ [math]p=1.01\times10^5\ \mathrm{Pa}[/math] ও ঘনত্ব [math]\rho=1.25\ \mathrm{kg\,m^{-3}}[/math] বসিয়ে [math]v_{\rm rms}=\sqrt{3(1.01\times10^5)/1.25}\approx4.92\times10^2\ \mathrm{m\,s^{-1}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 416981)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে নাইট্রোজেনের ঘনত্ব [math]1.25 \mathrm{~kg} \mathrm{~m}^{-3}[/math]।
+
+Options:
+ঘ. 100°C তাপমাত্রায় মূল গড় বৰ্গবেগ প্রমাণ তাপমাত্রার মূল গড় বর্ণবেগের চেয়ে কত বৃদ্ধি পাবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘতাপমাত্রা বৃদ্ধি করে স্বাভাবিকের চেয়ে 100°C বেশি করা হলে অর্থাৎ তাপমাত্রা [math]\mathrm{T}=(100+273) \mathrm{K}=373 \mathrm{~K}[/math]
+ হলে,গড় বর্গবেগের বর্গমূল, [math]\mathrm{C}_{\mathrm{rms}}=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}}}=\sqrt{\frac{3 \times 8.314 \mathrm{Jmole}^{-1} \mathrm{~K}^{-1} \times 373 \mathrm{~K}}{28 \times 10^{-3} \mathrm{Kg}}}=576.4 \mathrm{~ms}^{-1}[/math]
+সুতরাং তাপমাত্রা বৃদ্ধি করে স্বাভাবিকের চেয়ে 100°C বেশি করা হলে গড় বর্গবেগের বর্গমূল বৃদ্ধি পাবে [math]=(576.4-493) \mathrm{ms}^{-1}=83.4 \mathrm{~ms}^{-1}[/math]
+।
+
+Explanation:
+ঘ ব্যাখ্যা: নাইট্রোজেনের মূল গড় বর্গবেগ তাপমাত্রার বর্গমূলের অনুপাতে, তাই [math]v_{\rm rms}\propto\sqrt{T}[/math]. মানক তাপমাত্রা [math]T_1=273\ \rm K[/math] এবং [math]T_2=373\ \rm K[/math] হলে গুণক [math]\sqrt{T_2/T_1}=\sqrt{373/273}\approx1.169[/math], অর্থাৎ প্রায় [math]16.9\%[/math] বৃদ্ধি হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 416982)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে কোনো পাত্রে অক্সিজেন গ্যাস আছে। গ্যাসের আণবিক গতিতত্ত্ব অনুসারে তাপমাত্রা বাড়লে গ্যাসের মধ্যকার অণুগুলোর বেগ বৃদ্ধি পায়।
+
+Options:
+গ. উদ্দীপকে উল্লেখিত গ্যাসের মূল গড় বর্গবেগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,পরম তাপমাত্রা,T = প্ৰমাণতাপমাত্রা = 273 Kমোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.314 \mathrm{Jmol}^{-1} \mathrm{~K}^{-1}[/math]
+অক্সিজেনের গ্রাম আণবিক ভর,[math]\begin{array}{l}\mathrm{M}=32 \mathrm{gm} \\=32 \times 10^{-3} \mathrm{~kg}\end{array}[/math]
+গ্যাসের মূল গড় বর্গবেগ, [math]\sqrt{\bar{c}^{2}}=?[/math]
+আমরা জানি,[math]\begin{aligned}\sqrt{\bar{c}^{2}} & =\sqrt{\frac{3 R T}{M}} \\& =\sqrt{\frac{3 \times 8.314 \times 273}{32 \times 10^{-3}}} \\& =461.29 \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ উত্তর: গ্যাসের মূল গড় বর্গবেগ দেওয়া হয় [math]v_{\rm rms}=\sqrt{\dfrac{3RT}{M}}=\sqrt{\dfrac{3k_B T}{m}}[/math], যেখানে [math]M[/math] মোলার ভর (O₂-এর জন্য [math]M=0.032\ \text{kg mol}^{-1}[/math]) এবং [math]m[/math] একক অণুর ভর। তাপমাত্রা বাড়লে [math]v_{\rm rms}\propto\sqrt{T}[/math] হওয়ায় অণুগুলোর গড় বেগ বেড়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 416983)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ তাপমাত্রা ও চাপে কোনো পাত্রে অক্সিজেন গ্যাস আছে। গ্যাসের আণবিক গতিতত্ত্ব অনুসারে তাপমাত্রা বাড়লে গ্যাসের মধ্যকার অণুগুলোর বেগ বৃদ্ধি পায়।
+
+Options:
+ঘ. গ্যাসটির মূল গড় বর্ণবেগ 5 গুণ করতে হলে গ্যাসের তাপমাত্রা কত বাড়াতে হবে গাণিতিক বিশ্লেষ ণের সাহায্যে নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘগ্যাসটির মূল গড় বর্গবেগ 5 গুণ করা হলে,[math]\left(\sqrt{\bar{c}^{2}}\right)^{\prime}=5 \times \sqrt{\bar{c}^{2}}=5 \times 461.29 \mathrm{~ms}^{-1}=2306.45 \mathrm{~ms}^{-1}[/math]
+মনে করি, [math]\mathrm{T}^{\prime}[/math]
+ পরম তাপমাত্রায় মূল গড় বর্গবেগের মান [math]2306.45 \mathrm{~ms}^{-1}[/math]
+ হবে।আমরা জানি, [math]\sqrt{\bar{c}^{2}}=\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}}}[/math]
+R ধ্রুবক এবং M ধ্রুবমানের হওয়ায় (অক্সিজেনের গ্যাসের জন্য),[math]\begin{array}{l}\sqrt{\bar{c}^{2}} \propto \sqrt{T} \\\therefore \frac{\left(\sqrt{\bar{c}^{2}}\right)^{\prime}}{\sqrt{\bar{c}^{2}}}=\sqrt{\left(\frac{T^{\prime}}{T}\right)}\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{5 \sqrt{\bar{c}^{2}}}{\sqrt{\bar{c}^{2}}}=\sqrt{\frac{\mathrm{T}^{\prime}}{273}}[/math]
+ [math]\Rightarrow[/math]
+ [math]5=\sqrt{\frac{T^{\prime}}{273}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}^{\prime}=25 \times 273=6825 \mathrm{~K}[/math]
+সুতরাং গ্যাসটির মূল গড় বর্গবেগ 5 গুণ করতে হলে, তাপমাত্রা বাড়াতে হবে [math]=6825 \mathrm{~K}-273 \mathrm{~K}=6552 \mathrm{~K}=6552 \mathrm{C}^{\circ}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ্যাসের মূল গড় বর্ণবেগ তাপমাত্রার বর্গমূলের অনুপাতিক, অর্থাৎ [math]v_{rms}\propto\sqrt{T}[/math]. ঘ এ চাইলে [math]5=\sqrt{T_2/T_1}[/math], তাই [math]T_2=25T_1[/math] — অর্থাৎ চূড়ান্ত তাপমাত্রা প্রাথমিক তাপমাত্রার ২৫ গুণ করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 416986)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্থির চাপে কোন তাপমাত্রায় কোনো গ্যাসের অণুর মূল গড় বর্গবেগ প্রমাণ চাপ ও তাপমাত্রার মূল গড় বর্গবেগের অর্ধেক হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]68.25 \mathrm{~K}[/math]
+ )[math]\\[/math]
+Solution :এখানে, প্রাথমিক তাপমাত্রা, [math]\mathrm{T}_{1}=273 \mathrm{~K}[/math]
+প্রাথমিক মূল গড় বর্গবেগ, [math]\mathrm{C}_{\mathrm{rms}}[/math]
+ হলে চূড়ান্ত মূল গড় বৰ্গবেগ [math]\mathrm{C}_{\mathrm{rms}}^{\prime}=\frac{1}{2}\mathrm{C}_{\mathrm{rms}}[/math]
+চূড়ান্ত তাপমাত্রা, [math]T_{2}=?[/math]
+আমরা জানি, [math]C \propto \sqrt{T}[/math]
+ [math]\therefore \quad \frac{C_{\mathrm{rms}}^{\prime}}{\mathrm{C}_{\mathrm{rms}}}=\sqrt{\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{T_2}{T_1}=\left(\frac{C_{\mathrm{rms}}^{\prime}}{C_{\mathrm{rms}}}\right)^2=\left(\frac{\frac{1}{2}\times\mathrm{C}_{\mathrm{rms}}}{\mathrm{C}_{\mathrm{rms}}}\right)^2=\frac{1}{4}[/math]
+ [math]\therefore \mathrm{T}_{2}=\frac{\mathrm{T}_{1}}{4}=\frac{273 \mathrm{k}}{4}=68.25 \mathrm{~K} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: অণুর মূল গড় বর্গবেগ [math]v_{rms}=\sqrt{3kT/m}[/math] হওয়ায় এটি তাপমাত্রার বর্গমূলের অনুপাতে চলে, তাই যদি [math]v'_{rms}=\tfrac{1}{2}v_{rms}[/math] হয় তাহলে [math]\sqrt{T'}=\tfrac{1}{2}\sqrt{T}\Rightarrow T'=\tfrac{1}{4}T[/math]; অর্থাৎ চাপ স্থির রেখে তাপমাত্রা মূল তাপমাত্রার এক‑চতুর্থাংশ হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 416962)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে [math]X[/math] ও [math]Y[/math] সিলিন্ডারে কিছু গ্যাস আছে। যাদের ঘনত্ব [math]\rho \ kg/m^3[/math] এবং ভর সমান।
+
+[math]\begin{array}{ll} \boxed{\begin{array}{l} P_{x}=4 \times 10^{5} \mathrm{Nm}^{2} \\ V_{x}=4 \text { litre } \\ T_{x}=600 \mathrm{~K} \end{array}} \hspace{1 cm}&\hspace{1 cm} \boxed{\begin{array}{l} P_{y}=8 \times 10^{5} \mathrm{Nm}^{2} \\ V_{y}=8 \text { litre } \\ T_{y}=650 \mathrm{~K} \end{array}}\\ \hsp ace{1.8 cm}\text{X} \hspace{1 cm}&\hspace{2.8 cm} \text{Y} \\ \boxed{\begin{array}{l}P_{x}=4 \times 10^{5} \mathrm{N} \mathrm{m}^{2} \\V_{\mathrm{x}}=4 \text { litre } \\ T_{\mathrm{x}}=600 \mathrm{~K}\end{array}} \hspace{1 cm} &\hspace{1 cm}\boxed{\begin{array}{l} P_{y}=8 \times 10^{5} \mathrm{N} \mathrm{m}^{2} \\ V_{y}=8 \text { litre } \\ T_{y}=650 \mathrm{~K} \end{array}} \\ \hspace{1.8 cm}\text{X} \hspace{1 cm}&\hspace{2.8 cm} \text{Y} \end{array}[/math]
+
+Options:
+গ. [math]X[/math] ও [math]Y[/math] সিলিন্ডারের গ্যাসের গড় বর্গমূল বেগের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}\rm{x}[/math]
+ সিলিন্ডারের গ্যাসের তাপমাত্রা, [math]\mathrm{T}_{\mathrm{x}}=600 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}\rm{y}[/math]
+ সিলিন্ডারের গ্যাসের তাপমাত্রা, [math]\rm{T_{y}}=650 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক [math]= \rm{R}[/math]
+ [math]\rm{x}[/math]
+ সিলিন্ডারের গ্যাসের ভর [math]=\rm{y}[/math]
+ সিলিন্ডারের গ্যাসের ভর [math]=\mathrm{m}_{\mathrm{x}}=\mathrm{m}_{\mathrm{y}}[/math]
+ [math]\therefore ~\rm{x}[/math]
+ সিলিন্ডারের গ্যাসের গড় বর্গমূল বেগ,[math]\hspace{1.5 cm}\rm{\overline{c}_{{x}}=\sqrt{\dfrac{3 R T_{x}}{m_{x}}}}[/math]
+ [math]\rm{y} ~[/math]
+ সিলিন্ডারের গ্যাসের গড় বর্গমূলবেগ,[math]\hspace{1.5 cm}\rm{\overline{c}_{y}=\sqrt{\dfrac{3 R T_{y}}{m_{y}}}=\sqrt{\dfrac{3 R T_{y}}{m_{x}}}}[/math]
+এখন, [math]\rm{\dfrac{\bar{c}_{x}}{\bar{c}_{y}}=\sqrt{\dfrac{3 R T_{x}}{m_{x}} \times \dfrac{m_{x}}{3 R T_{y}}}=\sqrt{\dfrac{T_{x}}{T_{y}}}=\sqrt{\dfrac{600 \mathrm{~K}}{650 \mathrm{~K}}}=0.96 \quad\left[\because \mathrm{m}_{\mathrm{x}}=\mathrm{m}_{\mathrm{y}}\right]}[/math]
+ [math]\hspace{1.1 cm}\Rightarrow \quad \rm{\overline{c}_{x}=0.96 \bar{c}_{y}}[/math]
+ [math]\hspace{1.1 cm}\therefore \quad \rm{\overline{c}_{y}>\bar{c}_{x}}[/math]
+অতএব, [math]\rm{Y}[/math]
+ সিলিন্ডারের গ্যাসের গড় বর্গমূলবেগের মান বেশি।
+
+Explanation:
+গ ব্যাখ্যা: যেহেতু গ্যাসগুলো একই প্রকার (একই মৌলিক ভর/মোলার মাস) ধরে নেয়া হচ্ছে, তাই গড় বর্গমূল বেগ [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] কেবলমাত্র তাপমাত্রার উপর নির্ভর করে; অতএব সম্পর্ক [math]v_{rms}\propto\sqrt{T}[/math]. তাই [math]\dfrac{v_{Y}}{v_{X}}=\sqrt{\dfrac{650}{600}}=\sqrt{\dfrac{13}{12}}\approx1.04[/math], অর্থাৎ [math]Y[/math]-এর গড় বর্গমূল বেগ সামান্য বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 416963)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীর পৃষ্ঠে একটি নাইট্রোজেন অণুর বেগ [math]0^\circ C[/math] তাপমাত্রায় উক্ত গ্যাসের [math]\rm{r.m.s}[/math] বেগের সমান। যদি নাইট্রোজেন অণুটি অন্যান্য অনুর সাথে সংঘর্ষ ছাড়া সোজা উপরের দিকে উঠে, তাহলে অনুটি কত উচ্চতায় উঠৰে? [দেওয়া আছে, নাইট্রোজেন অণুর স্তর [math]\mathrm{m}=4.65 \t imes 10^{-26} \mathrm{~kg}[/math] এবং [math]\text{Boltzmann}[/math] ধ্রুবক, [math]K=1.38 \times 10^{-23} \mathrm{K}^{-1}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]12.457 \mathrm{~km}[/math]
+)[math]\\[/math]
+Solution : [math]C_{r m s}=\sqrt{\dfrac{3 K T}{m}}=493.01 \mathrm{~ms}^{-1}[/math]
+শক্তির সংরক্ষণশীলতা অনুসারে, [math]\dfrac{1}{2} m v^{2}-\dfrac{G M m}{R}=-\dfrac{G M m}{R+h}[/math]
+ [math]\Rightarrow \dfrac{1}{2} \times(493.01)^{2}=\dfrac{6.673 \times 10^{-11} \times 6 \times 10^{24}}{6.4 \times 10^{6}}-\dfrac{6.673 \times 10^{-11} \times 6 \times 10^{24}}{6.4 \times 10^{6}+h}[/math]
+ [math]\therefore h=12457 \mathrm{~m}=12.457 \mathrm{~km} \text { (Ans.) }[/math]
+
+
+Explanation:
+বেগের জন্য [math]v_{\rm rms}=\sqrt{\dfrac{3kT}{m}}[/math] এবং শক্তি সংরক্ষণে [math]mgh=\tfrac12 m v^2[/math] হওয়ায় সর্বোচ্চ উচ্চতা হবে [math]h=\dfrac{v^2}{2g}=\dfrac{3kT}{2mg}[/math]. সংখ্যায় বসালে [math]h=\dfrac{3\times1.38\times10^{-23}\times273}{2\times4.65\times10^{-26}\times9.8}\approx1.24\times10^{4}\ \text{m}[/math] (প্রায় 12.4 km)।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 416964)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017-2018, 2000-2001 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+লসিয়াস তাপমাত্রার অক্সিজেন অণুর মূল গড় বৰ্গবেগ [math]– 100^\circ C[/math] তাপমাত্রার হাইড্রোজেন অ ণুর মূল গড় বর্গবেগের সমান হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]2495^{\circ} \mathrm{C}[/math]
+)[math]\\[/math]
+Solution : আমরা জানি, [math]C_{r m s}=\sqrt{\dfrac{3 R T}{M}} \Rightarrow M=\dfrac{3 R}{C_{rm s}^{2}} T[/math]
+সুতরাং [math]M \propto T[/math]
+এখন [math]M_{\mathrm{O}_{2}}=32 \mathrm{~g}, \mathrm{~T}_{\mathrm{O}_{2}}=?, \mathrm{M}_{\mathrm{H}_{2}}=2 \mathrm{~g}[/math]
+ [math]\mathrm{T}_{\mathrm{H}_{2}}=-100^{\circ} \mathrm{C}=-100+273=173 \mathrm{~K}[/math]
+সুতরাং [math]\dfrac{M_{O_{2}}}{T_{\mathrm{O}_{2}}}=\dfrac{M_{\mathrm{H}_{2}}}{T_{\mathrm{H}_{2}}} \Rightarrow T_{\mathrm{O}_{2}}=\dfrac{M_{\mathrm{O}_{2}}}{M_{\mathrm{H}_{2}}} \times T_{\mathrm{H}_{2}} \Rightarrow T_{\mathrm{O}_{2}}=\dfrac{32}{2} \times 173 \Rightarrow T_{\mathrm{O}_{2}}=2768 \mathrm{~K}=2495^{\circ} \mathrm{C} \text { (Ans.) }[/math]
+
+
+Explanation:
+[math]v_{\text{rms}}\propto\sqrt{\dfrac{T}{M}}[/math] তাই  
+[math]\sqrt{\dfrac{T_O}{M_O}}=\sqrt{\dfrac{T_H}{M_H}}\Rightarrow T_O=T_H\frac{M_O}{M_H}.[/math]  
+[math]M_{O_2}=32,\ M_{H_2}=2,\ T_H=100^\circ C=373\ \text{K},[/math] ফলে  
+[math]T_O=373\times\frac{32}{2}=373\times16=5968\ \text{K}=5695^\circ C.[/math
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 416965)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2006-2007 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]0^{\circ} \mathrm{C}[/math] তাপমাত্রা এবং [math]1.0 \times 10^{5} \mathrm{~N} / \mathrm{m}^{2}[/math] চাপে কাৰ্বন ডাই-অ ক্সাইড গ্যাসের ঘনত্ব [math]1.98 \mathrm{~kg} / \mathrm{m}^{3}[/math]. সমচাপে [math]0^{\circ} \mathrm{C}[/math] ও [math]30^{\circ} \mathrm{C}[/math] তাপমাত্রায় উক্ত গ্যাস অণুর মূল গড় বর্গবেগ বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]410.08 \mathrm{~ms}^{-1}[/math]
+)[math]\\[/math]
+Solution : [math]C_{1}=\sqrt{\dfrac{3 P}{\rho}}=\sqrt{\dfrac{3 \times 10^{5}}{1.98}}=389.25 \mathrm{~ms}^{-1}[/math]
+আবার, [math]\dfrac{C_{2}}{C_{1}}=\dfrac{T_{2}}{T_{1}}=\sqrt{\dfrac{303}{273}} \quad \therefore C_{2}=\sqrt{\dfrac{303}{273}} \times 389.25=410.08 \mathrm{~ms}^{-1}\left[\because C_{r m s} \propto \sqrt{T}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা: গ্যাসের মূল গড় বর্গবেগ (rms) সূত্র [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] যেখানে [math]R=8.314\ \mathrm{J\,mol^{-1}K^{-1}}[/math] এবং কার্বন ডাইঅক্সাইডের আণবিক ওজন [math]M=0.044\ \mathrm{kg\,mol^{-1}}[/math]. 0°C ([math]273.15\ \mathrm{K}[/math]) এ [math]v_{rms}=\sqrt{3\times 8.314\times 273.15/0.044}\approx 3.94\times 10^{2}\ \mathrm{m/s}[/math], এবং 30°C ([math]303.15\ \mathrm{K}[/math]) এ [math]v_{rms}\approx\sqrt{3\times 8.314\times 303.15/0.044}\approx 4.15\times 10^{2}\ \mathrm{m/s}[/math]. তাপমাত্রা বাড়লে [math]v_{rms}\propto\sqrt{T}[/math] হওয়ায় বেগ বাড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 416966)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]27^\circ[/math] তাপমাত্রায় গ্যাসকে কত তাপমাত্রায় নেওয়া হলে গড়বেগ দ্বিগুণ হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1200 \mathrm{~K} \Rightarrow 927^{\circ} \mathrm{C}[/math]
+)[math]\\[/math]
+Solution : গ্যাসের গড় দ্রুতি, [math]C=\sqrt{\dfrac{B R T}{\pi M}} \therefore C \propto \sqrt{T}\[/math]
+ ( [math]M[/math]
+ স্থির থাকলে)[math]\dfrac{c_{2}}{C_{1}}=\sqrt{\dfrac{T_{2}}{T_{1}}} \Rightarrow \dfrac{T_{2}}{T_{1}}=\left(\dfrac{C_{2}}{C_{1}}\right)^{2} \Rightarrow \dfrac{T_{2}}{27+273}=2^{2} \Rightarrow T_{2}=4 \times 300=1200 \mathrm{~K}[/math]
+ [math]\therefore \ 1200K[/math]
+ বা [math]927^\circ C[/math]
+ তাপমাত্রায় গড় বেগ দ্বিগুণ হবে।
+
+Explanation:
+ব্যাখ্যা: গ্যাসের গড়বেগ তাপমাত্রার বর্গমূলের অনুপাতে হয়, অর্থাৎ [math]v\propto\sqrt{T}[/math], তাই গড়বেগ দ্বিগুণ করতে [math]T_2=4T_1[/math] হতে হবে। শুরুতে [math]T_1=27^\circ C=300\ \text{K}[/math] হলে [math]T_2=4\times300=1200\ \text{K}=927^\circ C[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 416967)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক মোল অক্সিজেন গ্যাসের ভর 32 গ্রাম। অক্সিজেনকে আদর্শ গ্যাস বিবেচনা করা যায়। আদর্শ গ্যাসের চাপ P এর সাথে এর ঘনত্ব [math]\rho[/math] ও অণুগুলোর গড় বর্গ বেগ [math]\overline{c^{2}}[/math] এর সম্পর্ক হচ্ছে, [math]P \propto \rho \overline{c^{2}}[/math]
+
+Options:
+ঘ. উল্লিখিত সম্পর্ক ব্যবহার করে দেখাও যে, আদর্শ গ্যাসের অণুগুলোর গড় গতিশক্তি এর পরম তাপমাত্রার সমানুপাতিক।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,c = অনুগুলোর গড় বেগ[math]\rho=[/math]
+ গ্যাসের অণুর ঘনত্বP = চাপএকটি অণুর ভর = mপ্রদত্ত সম্পর্ক [math]\mathrm{P_0}\propto\rho\overline{\mathrm{c}^2}[/math]
+সমানুপাতিক ধ্রুবক k হলে, [math]\mathrm{P}=\mathrm{k} \rho \overline{\mathrm{c}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\overline{c^{2}}=\frac{P}{k \rho}[/math]
+ [math]\therefore[/math]
+ গড় গতিশক্তি,[math]\overline{\mathrm{E}}_{\mathrm{k}}=\frac{1}{2} \mathrm{mc}^{\overline2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\overline{\mathrm{E}}_{\mathrm{k}}=\frac{1}{2} \mathrm{~m}=\frac{\mathrm{P}}{\mathrm{k} \rho}[/math]
+ [math]\Rightarrow[/math]
+ [math]\overline{\mathrm{E}}_{\mathrm{k}}=\frac{1}{2} \mathrm{~m} \frac{\mathrm{P}}{\mathrm{k} \frac{\mathrm{m}}{\mathrm{V}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\overline{\mathrm{E}}_{\mathrm{k}}=\frac{1}{2} \frac{\mathrm{PV}}{\mathrm{k}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\overline{\mathrm{E}}_{\mathrm{k}}=\frac{1}{2 \mathrm{k}} \mathrm{nRT}[/math]
+ [ যেহেতু [math]\mathrm{PV}=\mathrm{nRT}[/math]
+ ]k, n এবং R ধ্রুবক হওয়ায়[math]\overline{\mathrm{E}}_{\mathrm{k}} \propto \mathrm{T}[/math]
+অর্থাৎ আদর্শ গ্যাসের অণুগুলোর গড় গতিশক্তি এর পরম তাপমাত্রার সমানুপাতিক।
+
+Explanation:
+ঘ কারণ আদর্শ গ্যাসের চাপকে দুইভাবে লেখা যায়: মাইক্রোস্কিপিকভাবে [math]P \propto \rho \overline{c^{2}}[/math] এবং থার্মোডাইনামিকভাবে [math]P = n k T[/math] যেখানে [math]\rho = n m[/math]. তাই [math]n k T \propto n m \overline{c^{2}} \Rightarrow \overline{c^{2}} \propto T[/math], ফলে অণুগুলোর গড় গতিশক্তি [math]\tfrac{1}{2}m\overline{c^{2}} \propto T[/math], অর্থাৎ গড় গতিশক্তি তাপমাত্রার সমানুপাতিক।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 416968)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাস অণুর ব্যাস [math]3 \times 10^{-10} \mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]6 \times 10^{20}[/math] । স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূলগড় বর্গবেগ [math]500 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+গ. N.T.P তে গ্যাসের ঘনত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,গ্যাস অণুগুলোর মূল গড় বৰ্গ বেগ, [math]\sqrt{\overline{c^{2}}}=c=500 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+গ্যাসের চাপ, [math]P=101325 \mathrm{~N} \cdot \mathrm{m}^{-2}[/math]
+গ্যাসের ঘনত্ব, [math]\rho=?[/math]
+আমরা জানি,[math]c=\sqrt{\frac{3 P}{\rho}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\rho=\frac{3 P}{c^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]{\rho}=\frac{3 \times 101325}{(500)^{2}}[/math]
+ [math]\therefore \quad \rho=1.2159 \mathrm{~kg} \cdot \mathrm{m}^{-3} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ N.T.P.-এ অণুর ভর কাইনেটিক শক্তির সমীকরণ থেকে নির্ণয় করি: [math]\tfrac{1}{2}m v_{\rm rms}^2=\tfrac{3}{2}kT\Rightarrow m=\dfrac{3kT}{v_{\rm rms}^2}[/math]. এখানে [math]k=1.38\times10^{-23}\ \mathrm{J/K},\ T=273\ \mathrm{K},\ v_{\rm rms}=500\ \mathrm{m/s}[/math], তাই [math]m\approx4.52\times10^{-26}\ \mathrm{kg}[/math]. অণু সংখ্যার ঘনত্ব [math]n=6\times10^{20}\ \mathrm{cm^{-3}}=6\times10^{26}\ \mathrm{m^{-3}}[/math], ফলে ঘনত্ব [math]\rho=nm\approx6\times10^{26}\times4.52\times10^{-26}\approx27\ \mathrm{kg\;m^{-3}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 416969)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাস অণুর ব্যাস [math]3 \times 10^{-10} \mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]6 \times 10^{20}[/math] । স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূলগড় বর্গবেগ [math]500 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+ঘ. উদ্দীপকের তথ্য থেকে প্রতি সেকেন্ডে সংঘটিত সংঘর্ষের সংখ্যা কোন ক্ষেত্রে বেশি? ক্লসিয়াস ও বোলজম্যানের সমীকরণ ব্যবহার করে তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে,গ্যাস অণুর ব্যাস [math]\sigma=3 \times 10^{-10} \mathrm{~m}[/math]
+একক আয়তনে অণুর সংখ্যা [math]n=6 \times 10^{20} \mathrm{~cm}^{-3}=6 \times 10^{26} \mathrm{~m}^{-3}[/math]
+স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূল গড় বৰ্গবে [math]500 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+।ক্লসিয়াসের পদ্ধতিতে, গড়মুক্ত পথ [math]\lambda_{C}=\frac{1}{n \pi \sigma^{2}}[/math]
+ [math]\begin{array}{l}=\frac{1}{6 \times 10^{26} \times 3.1416 \times\left(3 \times 10^{-10}\right)^{2}} \\=5.89 \times 10^{-9} \mathrm{~m}\end{array}[/math]
+বোলজম্যানের পদ্ধতিতে,[math]\begin{aligned}\lambda_{B} & =\frac{3}{4 n \pi \sigma^{2}}=\frac{3}{4} \times \lambda_{C} \\& =\frac{3}{4} \times 5.89 \times 10^{-9} \mathrm{~m} \\& =4.42 \times 10^{-9} \mathrm{~m}\end{aligned}[/math]
+কোনো অণুর একক সময়ে অতিক্রান্ত দূরত্ব,[math]l=v t=c t=500 \mathrm{~m} \cdot \mathrm{s}^{-1} \times 1 \mathrm{~s}=500 \mathrm{~m}[/math]
+কোনো অণু [math]l[/math]
+ দূরত্ব অতিক্রম করতে N সংখ্যক ধাক্কা খায় তবে গড় মুক্ত পথ, [math]\lambda=\frac{l}{N}[/math]
+ [math]\Rightarrow[/math]
+ [math]N=\frac{l}{\lambda}[/math]
+ [math]\therefore[/math]
+ ক্লসিয়াসের পদ্ধতিতে ধাক্কা সংখ্যা, [math]N_{C}=\frac{l}{\lambda_{C}}=\frac{500 \mathrm{~m}}{5.89 \times 10^{-9} \mathrm{~m}}[/math]
+ [math]=8.48 \times 10^{10}[/math]
+ টিবোলজম্যানের পদ্ধতিতে ধাক্কার সংখ্যা, [math]N_{B}=\frac{l}{\lambda_{\mathrm{B}}}=\frac{500 \mathrm{~m}}{4.42 \times 10^{-9} \mathrm{~m}}[/math]
+ [math]=1.13 \times 10^{11}[/math]
+ টিসুতরাং বলা যায়, বোলজম্যানের সমীকরণ অনুযায়ী প্রতি সেকেন্ডে ধাক্কার সংখ্যা ক্লসিয়াসের সমীকরণ অনুযায়ী ধাক্কার সংখ্যা অপেক্ষা বেশি।
+
+Explanation:
+ব্যাখ্যা:
+ঘ ক্লসিয়াসে সংঘর্ষ-ফ্রিকোয়েন্সি নেওয়া হয় [math]z_C = n\sigma\bar v[/math], جبکہ বোলজমানের বিবেচনায় গড় আপেক্ষিক বেগ ধরা হয় [math]\langle v_{rel}\rangle=\sqrt{2}\,\bar v[/math], তাই [math]z_B = n\sigma\langle v_{rel}\rangle = n\sigma\sqrt{2}\,\bar v[/math]. ফলত [math]z_B/z_C=\sqrt{2}\approx1.41[/math], অর্থাৎ বোলজমানের সূত্র অনুযায়ী সংঘর্ষের সংখ্যা বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 416959)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]3 \mathrm{~cm}^{3}[/math] আয়তনের দুটি অভিন্ন পাত্র [math]A[/math] ও [math]B[/math]। [math]A[/math] পাত্রে [math]O_2[/math], এবং [math]B[/math] পাত্রে [math]N_2[/math] গ্যাস নিয়ে চিত্রে প্রদর্শিত চাপ পাওয়া গেল ।
+
+[Image]
+
+
+Options:
+ঘ. [math]A[/math] ও [math]B[/math] পাত্রের মধ্যে কোনটি বেশি উত্তপ্ত হবে? গাণিতিক বিশ্লেষণের মাধ্যমে তোমার মতামত প্রদান কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমনে করি, [math]\text {A ও B}[/math]
+ পাত্রের গ্যাসের তাপমাত্রা যথাক্রমে [math]\mathrm{T}_{1}[/math]
+ ও [math]\mathrm{T}_{2}[/math]
+এখানে,[math]\hspace{1 cm}\mathrm{A}[/math]
+ পাত্রের গ্যাসের আয়তন, [math]\rm{V}_{1}=3 \mathrm{~cm}^{3}=3 \times 10^{-6} \mathrm{~m}^{3}[/math]
+ [math]\hspace{1 cm}\mathrm{A}[/math]
+ পাত্রের গ্যাসের চাপ, [math]\rm{P}_{1}=4 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+ [math]\hspace{1 cm}\mathrm{B}[/math]
+ পাত্রের গ্যাসের আয়তন, [math]\rm{V}_{2}=3 \mathrm{~cm}^{3}=3 \times 10^{-6} \mathrm{~m}^{3}[/math]
+ [math]\hspace{1 cm}\mathrm{B}[/math]
+ পাত্রের গ্যাসের চাপ, [math]\rm{P}_{2}=4.7 \times 10^{5} \mathrm{Nm}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad \rm{\dfrac{P_{1} V_{1}}{T_{1}}=\dfrac{P_{2} V_{2}}{T_{2}}}\\ \Rightarrow\dfrac{4 \times 10^{5} \times 3 \times 10^{-6}}{\rm{T}_{1}}=\dfrac{4.7 \times 10^{5} \times 3 \times 10^{-6}}{\rm{T}_{2}} \\ \Rightarrow \dfrac{1.2}{\rm{T}_{1}}=\dfrac{1.41}{\rm{T}_{2}} \\ \Rightarrow 1.41 \mathrm{~T}_{1}=1.2 \mathrm{~T}_{2} \\ \Rightarrow \mathrm{~T}_{1}=\dfrac{1.2}{1.41} \mathrm{~T}_{2}=0.85 \mathrm{~T}_{2} \\ \Rightarrow \mathrm{~T}_{2}>\mathrm{T}_{1} \end{array}[/math]
+অতএব, [math]\mathrm{B}[/math]
+ পাত্রের গ্যাসটি বেশি উত্তপ্ত হবে।
+
+Explanation:
+সমাধান: আইডিয়াল গ্যাস সূত্র [math]pV=nRT[/math]; দুই পাত্রের আয়তন সমান এবং ধরা হচ্ছে উভয়েই একই সংখ্যক মোল আছে, তাই তাপমাত্রা চাপের অনুপাতেই নির্ধারিত হবে। তাই
+[math]\frac{T_A}{T_B}=\frac{p_A}{p_B},[/math]
+অতএব যে পাত্রে চিত্রে বেশি চাপ দেখানো আছে তা বেশি উত্তপ্ত হবে (যদি চিত্রে A–র চাপ বেশি থাকে তবে A বেশি উত্তপ্ত)।
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 416960)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+নির্দিষ্ট তাপমাত্রায় কোনো অক্সিজেন গ্যাস অণুর গড় বর্গবেগের বর্গমূল মান [math]11.2 \mathrm{~km} \mathrm{~s}^{-1}[/math]। ঘনত্বের পরিবর্তন না করে গ্যাসকে এমনভাবে ঠান্ডা করা হলো যেন এর চাপ অর্ধেক হয়।
+
+Options:
+গ. ঠাণ্ডা করার পরে অক্সিজেন গ্যাস অণুর শেষ গড় বর্গবেগের বর্গমূল মান কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, প্রাথমিক অবস্থায় গড় বর্গবেগের বর্গমূল [math]\sqrt{\overline{\mathrm{c}}_{1}^{2}}=11.2 \mathrm{~km} \mathrm{~s}^{-1}[/math]
+ধরি,[math]\hspace{1 cm}[/math]
+প্রাথমিক অবস্থায় চাপ, [math]\rm{P_{1}=P}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রাথমিক অবস্থায় ঘনত্ব, [math]\rho_{1}=\rho[/math]
+ [math]\hspace{1 cm}[/math]
+পরিবর্তিত অবস্থায় চাপ, [math]\rm{P_{2}=\dfrac{P}{2}}[/math]
+ [math]\hspace{1 cm}[/math]
+পরিবর্তিত অবস্থায় ঘনত্ব, [math]\rho_{2}=\rho[/math]
+ [math]\hspace{1 cm}[/math]
+পরিবর্তিত অবস্থায় গড় বর্গবেগের বর্গমূল, [math]\sqrt{\bar{\rm{c}}_{2}^{2}}=?[/math]
+এখন, আমরা জানি,[math]\hspace{1.5 cm}\rm{\sqrt{\bar{c}_{1}^{2}}=\sqrt{\dfrac{3 P_{1}}{\rho_{1}}}=\sqrt{\dfrac{3 P}{\rho}}}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l} \sqrt{\bar{c}_{2}^{2}}=\sqrt{\dfrac{3 \mathrm{P}_{2}}{\rho_{2}}}=\sqrt{\dfrac{3 \dfrac{\mathrm{P}}{2}}{\rho}}\left[\begin{array}{r} \because \mathrm{P}_{2}=\dfrac{\mathrm{P}}{2} \\ \rho_{2}=\rho \end{array}\right] \\ \therefore \dfrac{\sqrt{\bar{c}_{2}^{2}}}{\sqrt{\bar{c}_{1}^{2}}}=\sqrt{\dfrac{3 \mathrm{P}}{2 \rho} \times \dfrac{\rho}{3 \mathrm{P}}} \\ \Rightarrow \sqrt{\bar{c}_{2}^{2}}=\sqrt{\bar{c}_{1}^{2}} \times \sqrt{\dfrac{1}{2}}=11.2 \mathrm{~km} \mathrm{~s}^{-1} \times \sqrt{\dfrac{1}{2}}=7.92 \mathrm{~km} \mathrm{~s}^{-1} \end{array}[/math]
+অতএব, ঠাণ্ডা করার পরে অক্সিজেন গ্যাসের অণুর শেষ গড় বর্গবেগের বর্গমূল মান [math]7.92 \mathrm{~km} \mathrm{~s}^{-1}[/math]
+ হবে।
+
+Explanation:
+গ কারণ ঘনত্ব অপরিবর্তিত থাকলে আইডিয়াল গ্যাস সমীকরণে [math]p\propto T[/math], তাই চাপ অর্ধে গেলে তাপমাত্রা অর্ধে হবে; এবং [math]v_{\rm rms}\propto\sqrt{T}[/math], ফলে নতুন গড় বর্গবেগের বর্গমূল হবে [math]v'=\dfrac{v}{\sqrt{2}}=\dfrac{11.2}{\sqrt{2}}\approx 7.91\ \text{km s}^{-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 416961)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+নির্দিষ্ট তাপমাত্রায় কোনো অক্সিজেন গ্যাস অণুর গড় বর্গবেগের বর্গমূল মান [math]11.2 \mathrm{~km} \mathrm{~s}^{-1}[/math]। ঘনত্বের পরিবর্তন না করে গ্যাসকে এমনভাবে ঠান্ডা করা হলো যেন এর চাপ অর্ধেক হয় ।
+
+Options:
+ঘ. নাইট্রোজেন অণুর গড় বর্গবেগের বর্গমূল মান [math]27^\circ C[/math] তাপমাত্রায় অক্সিজেন অণুর গড় বর্গমূল মানের সমান হতে হলে, তাপমাত্রার ধারণা থেকে গাণিতিক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+তাপমাত্রা [math]\mathrm{T}=27^{\circ} \mathrm{C}=(273+27) \mathrm{K}=300 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+মোলার গ্যাস ধ্রুবক, [math]\mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+অক্সিজেনের আণবিক ভর, [math]\mathrm{M}=32 \mathrm{~g}=32 \times 10^{-3} \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ এ তাপমাত্রায় অক্সিজেনের মূল গড় বর্গবেগ,[math]\hspace{1.5 cm}\bar{\rm{c}}_{1}=\sqrt{\dfrac{3 \mathrm{RT}}{\mathrm{M}}}=\sqrt{\dfrac{3 \times 8.31 \times 300}{32 \times 10^{-3}}} \mathrm{~m} \mathrm{~s}^{-1}=483.44 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+আবার, নাইট্রোজেনের আণবিক ভর, [math]\mathrm{M}=28 \mathrm{~g}=28 \times 10^{-3} \mathrm{~kg}[/math]
+এখন, নাইট্রোজেনের বর্গমূল গড় বর্গবেগ, [math]\overline{\mathrm{c}}_{2}=483.44 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ হলে এবং প্রয়োজনীয় তাপমাত্রা [math]\rm{T_1}[/math]
+ কেলভিন হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad \bar{\rm{c}}_{2}=\sqrt{\dfrac{3 \mathrm{RT}_{1}}{\mathrm{M}}} \Rightarrow \overline{\mathrm{c}}_{2}{ }^{2}=\dfrac{3 \mathrm{RT}_{1}}{\mathrm{M}} \\ \Rightarrow \mathrm{T}_{1}=\dfrac{\overline{\mathrm{c}}_{2}{ }^{2} \times \mathrm{M}}{3 \mathrm{R}}=\dfrac{(483.44)^{2} \times 28 \times 10^{-3}}{3 \times 8.31} \mathrm{~K}=262.5 \mathrm{~K} \end{array}[/math]
+অতএব, [math]262.5 \mathrm{~K}[/math]
+ তাপমাত্রায় নাইট্রোজেন অণুর গড় বর্গবেগের বর্গমূল মান, [math]27^{\circ} \mathrm{C} \Rightarrow 300 \mathrm{~K}[/math]
+ তাপমাত্রার অক্সিজেন অণুর গড় বর্গবেগের বর্গমূল মানের সমান হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ গড় বর্গবেগের বর্গমূলের সূত্র [math]v_{\rm rms}\propto\sqrt{T/M}[/math] হওয়ায় দুই গ্যাসের গতি সমান হলে [math]\sqrt{T_{N}/M_{N_2}}=\sqrt{T_{O}/M_{O_2}}[/math], ফলে [math]T_{N}=(M_{N_2}/M_{O_2})\,T_{O}[/math]. এখানে [math]M_{N_2}=28\ \mathrm{g\,mol^{-1}},\ M_{O_2}=32\ \mathrm{g\,mol^{-1}},\ T_{O}=27^\circ C=300\ \mathrm{K}[/math], তাই [math]T_{N}=(28/32)\times300=262.5\ \mathrm{K}\approx -10.5^\circ C[/math]. তাই নাইট্রোজেনকে প্রায় [math]-10.5^\circ C[/math] করা লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 416951)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রা ও চাপে একটি খোলা লিটার ফ্লাস্কের মধ্যে 1.32 × [math]10^{-3}[/math] kg. নাইট্রোজেন গ্যাস থাকতে পারে। 90°C তাপমাত্রার গরম পানি দ্বারা ফ্লাস্কটি অর্ধপূর্ণ করা হলে গ্যাস পানির সাথে তাপীয় সাম্যাবস্থায় থাকে ।
+
+Options:
+ঘ. গরম পানি দ্বারা অর্ধপূর্ণ করার পর পূর্বের অর্ধেক পরিমাণ গ্যাস ধারণ করবে না— উক্তিটির যথার্থতা যাচাই করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, স্বাভাবিক তাপমাত্রা ও চাপে খোলা লিটার ফ্লাস্কে বিদ্যমান নাইট্রোজেন গ্যাসের ভর, [math]m_1 = 1.32 × 10^{-3}[/math]
+ kg90°C তাপমাত্রার গরম পানি দ্বারা ফ্লাস্কটি অর্ধপূর্ণ করা হলে গ্যাস পানির সাথে তাপীয় সাম্যাবস্থায় থাকায়, গ্যাসের তাপমাত্রা, T = 90°C = (273 + 90) = 363 Kগ্যাসের আয়তন, V = 0.5 L = 0.5 × [math]10^{-3} m^3[/math]
+ফ্লাস্কটি খোলা থাকায় গ্যাসের চাপ, P = 1.013 × [math]10^5[/math]
+ Paনাইট্রোজেন গ্যাসের আণবিক ভর, M = 28 g = 28 × $10^{-3} kgগ্যাসের ভর [math]m_2[/math]
+ হলে,আমরা জানি,[math]\begin{array}{l}\quad \mathrm{PV}=\mathrm{nRT} \\\text { } \mathrm{PV}=\frac{\mathrm{m}_{2}}{\mathrm{M}} \mathrm{RT} \\\text { } \mathrm{m}_{2}=\frac{\mathrm{PVM}}{\mathrm{RT}} \\\text { } \mathrm{m}_{2}=\frac{1.03 \times 10^{5} \times 0.5, \times 10^{-3} \times 28 \times 10^{-3}}{8.314 \times 363} \\\therefore \mathrm{m}_{2}=4.7 \times 10^{-4} \mathrm{~kg} \\\Rightarrow\text { এथन, } \frac{\mathrm{m}_{1}}{2}=\frac{1.32 \times 10^{-5}}{2}=6.6 \times 10^{-4} \mathrm{~kg}\end{array}[/math]
+দেখা যাচ্ছে, [math]m_{2} 
+eq \frac{m_{1}}{2}[/math]
+সুতরাং বলা যায়, গরম পানি দ্বারা অর্ধপূর্ণ করার পর পূর্বের অর্ধেক পরিমান গ্যাস ধারণ করবে না -
+
+Explanation:
+ব্যাখ্যা: ঘ উক্তি সঠিক। কারণ ফ্লাস্কটি খোলা থাকায় চাপ ধ্রুব (বায়ুচাপ) ধরে রাখা হয়, তাই আইডিয়াল গ্যাস সূত্র অনুযায়ী গ্যাসের ভর অনুপাতে হয় ভলিউমের এবং উল্টো অনুপাতে তাপমাত্রার, ফলে অর্ধেক ভলিউমে ও তাপমাত্রা বাড়লে নতুন ভর হবে [math]m_2 = m_1\cdot\frac{1}{2}\cdot\frac{T_1}{T_2}[/math] এবং যেহেতু [math]T_2>T_1[/math], তাই [math]m_2<\tfrac{1}{2}m_1[/math] — অর্থাৎ আগের অর্ধেকের থেকেও কম।
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 416952)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+নাইট্রোজেন গ্যাস দ্বারা একটি পাত্র 20 atm চাপে 27°C তাপমাত্রায় ভর্তি করা হলো। এরপর অর্ধেক ভরের গ্যাস বের করে দেয়া হলো এবং অবশিষ্ট গ্যাসের তাপমাত্রা 87°C এ বাড়ানো হলো।
+
+Options:
+গ. প্রাথমিক অবস্থায় নাইট্রোজেন গ্যাসের অণুগুলোর মূল গড় বর্গবেগ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, তাপমাত্রা, T = 27°C= (273 + 27) K= 300 K[math]\mathrm{N}_{2}[/math]
+ (নাইট্রোজেন) গ্যাসের আণবিক ভর,[math]\mathrm{M}=28 \mathrm{~g}=0.028 \mathrm{~kg}[/math]
+ [math]\mathrm{N}_{2}[/math]
+ গ্যাসের মূল গড় বৰ্গবেগ, [math]\mathrm{C}_{\mathrm{rms}}=?[/math]
+সর্বজনীন গ্যাস ধ্রুবক [math]\mathrm{R}=8.314 \mathrm{~J} \mathrm{mol}^{-1} \mathrm{~K}^{-1}[/math]
+আমরা জানি,[math]\begin{aligned}\mathrm{C}_{\mathrm{rms}} & =\sqrt{\frac{3 \mathrm{RT}}{\mathrm{M}}} \\& =\sqrt{\frac{3 \times 8.314 \times 300}{0.028}} \\& =516.948 \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ নাইট্রোজেনের মূল গড় বর্গবেগের সূত্র [math]v_{rms}=\sqrt{\dfrac{3RT}{M}}[/math] ব্যবহার করা হয়। এখানে [math]R=8.314\ \text{J mol}^{-1}\text{K}^{-1},\ T=27^\circ\text{C}=300\ \text{K},\ M\approx0.02802\ \text{kg mol}^{-1}[/math], তাই  
+[math]v_{rms}=\sqrt{\dfrac{3\times8.314\times300}{0.02802}}\approx\sqrt{2.67\times10^{5}}\approx5.17\times10^{2}\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 416953)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]1 \times 10^{-2} \mathrm{~m}^{3}[/math] আয়তনের সিলিন্ডারে 300 K তাপমাত্রায় ও [math]2.5 \times 10^{5} \mathrm{Nm}^{-2}[/math] চাপে অক্সিজেন গ্যাস ভর্তি করা আছে। তাপমাত্রা অপরিবর্তিত রেখে কিছু পরিমাণ অক্সিজেন ব্যবহার করার পর চাপ [math]1.3 \times 10^{5} \mathrm{Nm}^{-2}[/math] পাওয়া গেল। অক্সিজেনের আণবিক ভর [math]32\ \mathrm{gmol}^{-1}[/math]
+
+Options:
+গ. উদ্দীপকে বর্ণিত অক্সিজেন গ্যাস ব্যবহারের পূর্বে এর অণুগুলোর মূল গড় বর্গবেগ কত ছিল নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গAnswer : [math]483.561 \mathrm{~ms}^{-1}[/math]
+
+Explanation:
+ব্যাখ্যা: গ অণুগুলোর মূল গড় বর্গবেগ নির্ণয়ে ব্যবহার করি [math]v_{\rm rms}=\sqrt{3RT/M}[/math], কারণ [math]v_{\rm rms}[/math] কেবল তাপমাত্রা ও আণবিক ভরের উপর নির্ভর করে এবং চাপ তাপমাত্রা অপরিবর্তিত থাকলে প্রভাব ফেলে না। মান বসালে [math]v_{\rm rms}=\sqrt{\dfrac{3\times 8.314\times 300}{0.032}}\approx 4.84\times10^{2}\ \mathrm{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 416954)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একজন ছাত্র পরীক্ষাগারে স্থির চাপে প্রমাণ তাপমাত্রার কিছু পরিমাণ [math]O_2[/math] গ্যাসের তাপমাত্রা বৃদ্ধি করায় গ্যাসের আয়তন দ্বিগুণ হলো। এতে তার বন্ধু মন্তব্য করল পরীক্ষাধীন গ্যাসের অণুগুলোর গড় বর্গবেগও দ্বিগুণ হবে।
+
+Options:
+গ. চূড়ান্ত তাপমাত্রা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+আদি আয়তন [math]=\mathrm{V}_{1}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত আয়তন, [math]\rm{V_{2}=2 V_{1}}[/math]
+ [math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\rm{T}_{1}=273 \mathrm{~K}[/math]
+ [প্রমাণ তাপমাত্রা][math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]\rm{T}_{2}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{\dfrac{V_{1}}{T_{1}}=\dfrac{V_{2}}{T_{2}} }\\ \Rightarrow \rm{T_{2}=\dfrac{V_{2}}{V_{1}} \times T_{1}=\dfrac{2 V_{1}}{V_{1}}} \times 273 \mathrm{~K}=546 \mathrm{~K} \end{array}[/math]
+অতএব, চূড়ান্ত তাপমাত্রা [math]546 \mathrm{~K}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ ধ্রুব চাপের অধীনে আইডিয়াল গ্যাসে ভলিউম ও তাপমাত্রা সম্পর্কিত: [math]\dfrac{V_1}{T_1}=\dfrac{V_2}{T_2}[/math]. যদি [math]V_2=2V_1[/math], তাহলে [math]T_2=2T_1[/math] অর্থাৎ চূড়ান্ত তাপমাত্রা দ্বিগুণ। গড় বর্গগত গতি [math]\overline{v^2}\propto T[/math] (বিশেষ করে [math]\overline{v^2}=3kT/m[/math]) হওয়ায় বন্ধুর মন্তব্যও সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 416955)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একজন ছাত্র পরীক্ষাগারে স্থির চাপে প্রমাণ তাপমাত্রার কিছু পরিমাণ [math]O_2[/math] গ্যাসের তাপমাত্রা বৃদ্ধি করায় গ্যাসের আয়তন দ্বিগুণ হলো। এতে তার বন্ধু মন্তব্য করল পরীক্ষাধীন গ্যাসের অণুগুলোর গড় বর্গবেগও দ্বিগুণ হবে।
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে তার বন্ধুর মন্তব্যের যথার্থতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে,[math]\hspace{1 cm}[/math]
+আদি তাপমাত্রা, [math]\mathrm{T}_{1}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}\rm{O}_2[/math]
+ এর আণবিক ভর, [math]\mathrm{M}=32 \mathrm{gm}=32 \times 10^{-3} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+সার্বজনীন গ্যাস ধ্রুবক, [math]\mathrm{R}=8.316 \mathrm{Jk}^{-1} \mathrm{~mol}^{-1}[/math]
+আমরা জানি, [math]\rm{O}_2[/math]
+ গ্যাসের গড় বর্গবেগ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{C}_{1}^{2} & =\left(\sqrt{\frac{3 \mathrm{R} \mathrm{T}}{\mathrm{M}}}\right)^{2} \\ & =\left(\sqrt{\frac{3 \times 8.314 \times 273}{32 \times 10^{-3}}}\right)^{2} \mathrm{~ms}^{-1} \\ & =(461.34)^{2} \mathrm{~ms}^{-1}=212834.595 \mathrm{~ms}^{-1} \end{aligned}[/math]
+আবার, তাপমাত্রা বৃদ্ধি করা হলে, চূড়ান্ত তাপমাত্রা, [math]\rm{T}_{2}=546 \mathrm{~K}[/math]
+আমরা জানি, [math]\rm{O}_2[/math]
+ গ্যাসের গড় বর্গ বেগ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{C}_{2}{ }^{2} & =\left(\sqrt{\frac{3 \mathrm{RT}_{2}}{\mathrm{M}}}\right)^{2} \\ & =\left(\sqrt{\frac{3 \times 8.316 \times 546}{32 \times 10^{-3}}}\right)^{2} \mathrm{~m} \mathrm{~s}^{-1} \\ & =(652.44)^{2} \mathrm{~m} \mathrm{~s}^{-1}=425677.95 \mathrm{~m} \mathrm{~s}^{-1} \end{aligned}[/math]
+এখানে, [math]\mathrm{C}_{2}^{2}=2 \mathrm{C}_{1}^{2}[/math]
+অতএব, উপরের গাণিতিক বিশ্লেষণ থেকে দেখা যায় যে, বন্ধুর মন্তব্যটি সঠিক।
+
+Explanation:
+ঘ সমাধান: অন্তর্গত গ্যাসের জন্য স্থির চাপে [math]pV=nRT[/math] হওয়ায় [math]V\propto T[/math], ফলে [math]V_2=2V_1\Rightarrow T_2=2T_1[/math]. কাইনেটিক তত্ত্ব অনুযায়ী [math]\tfrac{1}{2}m\overline{c^2}=\tfrac{3}{2}kT\Rightarrow\overline{c^2}=\tfrac{3kT}{m}[/math], তাই [math]T[/math] দ্বিগুণ হলে [math]\overline{c^2}[/math]ও দ্বিগুণ হয়। অতএব বন্ধুর মন্তব্য সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 416956)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+কোনো ঘরের তাপমাত্রা [math]32^\circ C[/math], শিশিরাঙ্ক [math]14^\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]48\%[/math]। ঐ সময় ঘরের বাইরে তাপমাত্রা [math]11^\circ C[/math] ও আপেক্ষিক আর্দ্রতা [math]70\%[/math]। [math]32^\circ C[/math] ও [math]11^\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]33.6\ mmHg\ ও\ 9.8 mmHg.[/math] [math]30^\circ C[/math]-এ গ্রেইসারের ধ্রুবক [math]1.63[/math]।
+
+Options:
+ঘ. যদি ঘরের একটি জানালা খুলে দেওয়া হয় তাহলে জলীয় বাষ্প কোন দিকে চলাচল করবে গাণিতিক বিশ্লেষণসহ মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে,[math]\hspace{1 cm}[/math]
+ঘরের তাপমাত্রা [math]=32^{\circ} \mathrm{C}[/math]
+ [math]\hspace{1 cm}32^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ, [math]\mathrm{F}_{1}=33.6 \mathrm{~mm} \mathrm{Hg}[/math]
+ [math]\hspace{1 cm}[/math]
+আপেক্ষিক আর্দ্রতা, [math]\mathrm{R}_{1}=48 \%[/math]
+ [math]\hspace{1 cm}[/math]
+ঘরের বাইরের তাপমাত্রা [math]=11^{\circ} \mathrm{C}[/math]
+ [math]\hspace{1 cm}11^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ, [math]\mathrm{F}_{2}=9.8 \mathrm{~mm} \mathrm{Hg}[/math]
+ [math]\hspace{1 cm}[/math]
+আপেক্ষিক আর্দ্রতা, [math]\mathrm{R}_{2}=70 \%[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{R}_{1}=\dfrac{f_{1}}{\rm{F}_{1}} \times 100 \% \\ \Rightarrow 48 \%=\dfrac{f_{1}}{33.6 \mathrm{~mm} \mathrm{Hg}} \times 100 \% \\ \therefore ~ f_{1}=16.128 \mathrm{~mm} \mathrm{Hg} \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l} \rm{R}_{2}=\dfrac{f_{2}}{\rm{F}_{2}} \times 100 \%\\ \Rightarrow 70 \%=\dfrac{f_{2}}{9.8 \mathrm{~mm} \mathrm{Hg}} \times 100 \% \\ f_{2}=6.86 \mathrm{~mm} \mathrm{Hg} \end{array}[/math]
+উপরের গাণিতিক বিশ্লেষণ থেকে দেখা যায়, [math]f_{1}>f_{2}[/math]
+ তাই জলীয় বাষ্প ঘরের ভেতর থেকে বাইরে বের হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ ঘরের আসল বাষ্পচাপ [math]e_{in}=0.48\times33.6=16.13\ mmHg[/math] এবং বাইরের আসল বাষ্পচাপ [math]e_{out}=0.70\times9.8=6.86\ mmHg[/math]. যেহেতু ঘরের বাষ্পচাপ বাইরের তুলনায় বেশি, ফলে জলীয় বাষ্প অভিকর্ষ দ্বারা ঘর থেকে বাইরে দিকে চলে যাবে (উচ্চ আংশিক চাপ থেকে নিম্ন আংশিক চাপের দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 416957)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাস অণুর ব্যাস [math]3 \times 10^{-10} \mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]6 \times 10^{26}[/math]। স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূলগড় বর্গবেগ [math]500 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+গ. [math]N.T.P[/math] তে গ্যাসের ঘনত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, [math]\rm{NTP}[/math]
+ তে গ্যাসের ঘনত্ব [math]\rho[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+মূল গড় বর্গবেগ, [math]\mathrm{C}_{\mathrm{rm.s}}=500 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+স্বাভাবিক চাপ, [math]\rho=101325 \mathrm{~Nm}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{C}_{\text {r.m.s }}=\sqrt{\dfrac{3 \rho}{\rho}}\\ \Rightarrow \rm{C}_{\text {r.m.s }}^{2}=\dfrac{3 \rho}{\rho} \\ \Rightarrow \rho=\dfrac{3 \rho}{C_{\text {r.m.s }}^{2}}=\dfrac{3 \times 101325 \mathrm{Nm}^{-2}}{\left(500 \mathrm{~ms}^{-1}\right)^{2}}=1.216 \mathrm{kgm}^{-3} \end{array}[/math]
+অর্থাৎ [math]\rm{NTP}[/math]
+ তে গ্যাসের ঘনত্ব [math]1.216 \mathrm{~kg} \mathrm{~m}^{-3}.[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ N.T.P.-এ সংখ্যা ঘনত্ব আইডিয়াল গ্যাস সূত্র থেকে [math]n=\dfrac{P}{kT}[/math] দ্বারা পাওয়া যায়। তাই [math]n=\dfrac{1.013\times10^{5}}{1.38\times10^{-23}\times273}\approx2.69\times10^{25}\ \mathrm{m^{-3}}=2.69\times10^{19}\ \mathrm{cm^{-3}}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 416958)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+কোনো গ্যাস অণুর ব্যাস [math]3 \times 10^{-10} \mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]6 \times 10^{26}[/math]। স্বাভাবিক তাপমাত্রা ও চাপে অণুগুলোর মূলগড় বর্গবেগ [math]500 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+ঘ. উদ্দীপকের তথ্য থেকে প্রতি সেকেন্ডে সংঘটিত সংঘর্ষের সংখ্যা কোন ক্ষেত্রে বেশি? ক্লসিয়াস ও বোল্জম্যানের সমীকরণ ব্যবহার করে তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+অণুর ব্যাস [math]\sigma=3 \times 10^{-10} \mathrm{~m}=3 \times 10^{-8} \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা, [math]\mathrm{n}=6 \times 10^{20}[/math]
+ধরি, ক্লসিয়াসের ক্ষেত্রে, গড় মুক্ত পথ [math]\lambda_\rm{C}[/math]
+এবং বোলজম্যানের ক্ষেত্রে, গড় মুক্ত পথ [math]\lambda_\rm{B}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad\lambda_{C}=\dfrac{1}{\pi \sigma^{2} \mathrm{n}}=\dfrac{1}{3.1416 \times\left(3 \times 10^{-8} \mathrm{~cm}\right)^{2} \times 6 \times 10^{20} \mathrm{~cm}^{-3}} \\ \therefore \lambda_{C}=5.89 \times 10^{-7} \mathrm{~cm}=5.89 \times 10^{-9} \mathrm{~m} \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\lambda_{B}=\dfrac{3}{4} \cdot \dfrac{1}{\pi \sigma^{2} \mathrm{n}}=\dfrac{3}{4} \times 5.89 \times 10^{-9} \mathrm{~m}=4.42 \times 10^{-9} \mathrm{~m}[/math]
+আবার, গড়মুক্ত পথ, [math]\lambda =[/math]
+ { (অতিক্রান্ত দূরত্ব) [math]\div[/math]
+(অণুর ধাক্কার সংখ্যা) } [math]=\dfrac{\mathrm{L}}{\mathrm{N}}[/math]
+অতিক্রান্ত দূরত্ব নির্দিষ্ট হলে, [math]\lambda \propto \dfrac{1}{\rm{N}}[/math]
+অর্থাৎ গড় মুক্তপথ সংঘর্ষ সংখ্যার ব্যস্তানুপাতিক। এক্ষেত্রে [math]\lambda_\rm{C}[/math]
+ ও [math]\lambda_\rm{B}[/math]
+ এর মধ্যে যার মান বেশি প্রতি সেকেন্ডে তার সংঘর্ষ সংখ্যা কম। যেহেতু [math]\rm{\lambda_{C}>\lambda_{B}}[/math]
+ সেহেতু বোলজম্যানের সমীকরণের ক্ষেত্রে সংঘর্ষের সংখ্যা বেশি হবে।
+
+Explanation:
+কollision ফ্রিকোয়েন্সি per molecule সাধারণভাবে হয় [math]z=n\sigma \bar v_{rel}[/math] যেখানে [math]\sigma=\pi d^2[/math]. ক্লসিয়াস ধরলে [math]\bar v_{rel}\approx \bar v (উদাহরণস্বরূপ, দেওয়া মানগুলো দিয়ে [math]z_C\approx8.5\times10^{10}\,s^{-1}).
+
+Sub-Questions:
+

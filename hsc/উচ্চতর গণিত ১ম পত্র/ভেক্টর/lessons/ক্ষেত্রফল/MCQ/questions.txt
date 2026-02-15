@@ -1,0 +1,371 @@
+================================================================================
+Question #1 (ID: 408314)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{A B}=2 \hat{i}-3 \hat{j}+4 \hat{k}[/math] এবং [math]\overrightarrow{A C}=4 \hat{i}-3 \hat{j}+2 \hat{k}[/math] ভেক্টর দুইটি যে সামান্তরিকের সন্নিহিত বাহু তার ক্ষেত্রফল হবে—
+
+Options:
+A. [math]3 \sqrt{3}[/math]
+B. [math]2 \sqrt{5}[/math]
+C. [math]5 \sqrt{6}[/math]
+D. [math]6 \sqrt{6}[/math]
+
+
+Correct Answer: D.[math]6 \sqrt{6}[/math]
+
+Solution:
+[math]\vec{a} \times \vec{b}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\4 & -3 & 2 \\2 & -3 & 4\end{array}\right|[/math]
+ [math]=-6 \hat{i}-12 \hat{j}-6 \hat{k}[/math]
+এখন, [math]|\vec{a} \times \vec{b}|[/math]
+ [math]=\sqrt{6^{2}+12^{2}+6^{2}}[/math]
+ [math]=6 \sqrt{6}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408318)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: National Ideal School & college, Dhaka
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]ABCD[/math] সামন্তরিকের [math]\overrightarrow{\mathrm{AB}}=2 \hat{\mathrm{i}}-3 \hat{\mathrm{k}}[/math] এবং [math]\overrightarrow{A D}=\hat{\mathrm{j}}+\hat{\mathrm{k}}[/math]
+
+সামন্তরিকটির ক্ষেত্রফল কত বর্গ একক?
+
+Options:
+ক. [math]17[/math]
+খ. [math]8.5[/math]
+গ. [math]\sqrt{17}[/math]
+ঘ. [math]\frac{1}{2} \sqrt{17}[/math]
+
+
+Correct Answer: C.[math]\sqrt{17}[/math]
+
+Solution:
+সামন্তরিকের ক্ষেত্রফল [math]=|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AD}}|[/math]
+ [math]\overrightarrow{A B} \times \overrightarrow{A D}=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & 0 & -3 \\0 & 1 & 1\end{array}\right|=\hat{\mathrm{i}} \cdot 3+\hat{\mathrm{j}}(-2)+\hat{\mathrm{k}} \cdot 2[/math]
+ [math]|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AD}}|=\sqrt{3^{2}+(-2)^{2}+2^{2}}=\sqrt{17}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408317)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]2 \hat{\mathbf{i}}-\hat{\mathbf{j}}+\hat{\mathbf{k}}[/math] এবং [math]\hat{\mathbf{i}}+3 \hat{\mathbf{j}}-2 \hat{\mathbf{k}}[/math] ভেক্টরদ্বয় কোন সামান্তরিকের দুটি সন্নিহিত বাহু নির্দেশ করলে, তার ক্ষেত্রফল কত হবে?
+
+Options:
+ক. [math]3 \sqrt{3}[/math]
+খ. [math]5 \sqrt{3}[/math]
+গ. [math]5 \sqrt{5}[/math]
+ঘ. [math]3 \sqrt{5}[/math]
+
+
+Correct Answer: B.[math]5 \sqrt{3}[/math]
+
+Solution:
+ক্ষেত্রফল [math]\begin{aligned}& {\left[\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & -1 & 1 \\1 & 3 & -2\end{array}\right]=\hat{\mathrm{i}}(2-3)-\hat{\mathrm{j}}(-41)+\hat{\mathrm{k}}(6+1) } \\\Rightarrow & -\hat{\mathrm{i}}+5 \hat{\mathrm{j}}+7 \hat{\mathrm{k}} \therefore|\overrightarrow{\mathrm{A}} \times \overrightarrow{\mathrm{B}}|=\sqrt{(-1)^{2}+5^{2}+7^{2}}=5 \sqrt{3}\end{aligned}[/math]
+ [math]\therefore[/math]
+ সামান্তরিকের ক্ষেত্রফল [math]=|-\hat{\mathrm{i}}+5 \hat{\mathrm{j}}+7 \hat{\mathrm{k}}|=\sqrt{(-1)^{2}+5^{2}+7^{2}}[/math]
+ [math]=\sqrt{1+25+49}=\sqrt{75}=5 \sqrt{3}[/math]
+ বর্গএকক।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 408316)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Patuakhali Government Girls' High School
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{A B}=3 \hat{i}+2 \hat{j}-\hat{k}[/math] এবং [math]\overrightarrow{\mathrm{AC}}=5 \hat{\mathbf{i}}-\hat{\mathbf{j}}+2 \hat{\mathbf{k}} ; \overrightarrow{\mathrm{AB}}[/math] ও [math]\overrightarrow{\mathrm{AC}}[/math] সামান্তরিকের দুটি সন্নিহিত বাহু হলে, ক্ষেত্রফল কত?
+
+Options:
+A. [math]\sqrt{279}[/math]
+B. [math]\sqrt{289}[/math]
+C. [math]\sqrt{299}[/math]
+D. [math]10 \sqrt{3}[/math]
+
+
+Correct Answer: C.[math]\sqrt{299}[/math]
+
+Solution:
+[math]\begin{aligned}\overrightarrow{A B} \times \overrightarrow{A C} & =\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\3 & 2 & -1 \\5 & -1 & 2\end{array}\right| \\& \Rightarrow\hat{\mathrm{i}}(4-1)-\hat{\mathrm{j}}(6+5)+\hat{\mathrm{k}}(-3-10)=3 \hat{\mathrm{i}}-11 \hat{\mathrm{j}}-13 \hat{\mathrm{k}}\end{aligned}[/math]
+ [math]\therefore[/math]
+ ক্ষেত্রফল [math]=|\overrightarrow{\mathrm{AB}} \times \overrightarrow{\mathrm{AC}}|=\sqrt{3^{2}+(-11)^{2}+(-13)^{2}}=\sqrt{299}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 408315)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]\overrightarrow{O P}=2 \hat{i}+3 \hat{j}-2 \hat{k}, \overrightarrow{O Q}=4 \hat{i}-3 \hat{j}+2 \hat{k}[/math] [math]\triangle O P Q[/math] এর ক্ষেত্রফল কোনটি?
+
+Options:
+ক. [math]\sqrt{85}[/math] বর্গ একক
+খ. [math]\sqrt{117}[/math] বর্গ একক
+গ. [math]\sqrt{340}[/math] বর্গ একক
+ঘ. [math]\sqrt{488}[/math] বর্গ একক
+
+
+Correct Answer: B.[math]\sqrt{117}[/math] বর্গ একক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 408304)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]\vec{a}=\hat{i}+2 \hat{j}, \vec{b}=-\hat{i}+3 \hat{j}+\hat{k}[/math] ভেক্টর দুটি কোনো সামান্তরিকের দুটি সন্নিহিত বাহু নির্দেশ করে।
+
+সামান্তরিকটির ক্ষেত্রফল কত বর্গ একক?
+
+Options:
+ক. [math]30[/math]
+খ. [math]15[/math]
+গ. [math]\frac{1}{2} \sqrt{30}[/math]
+ঘ. [math]\sqrt{30}[/math]
+
+
+Correct Answer: D.[math]\sqrt{30}[/math]
+
+Solution:
+[math]\mathbf{a} \times \mathbf{b}=\left|\begin{array}{rrr}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\1 & 2 & 0 \\-1 & 3 & 1\end{array}\right|[/math]
+ [math]=\hat{i}(2-0)+\hat{j}(0-1)+\hat{k}(3+2)[/math]
+ [math]=2 \hat{i}-\hat{j}+5[/math]
+ [math]\hat{k}[/math]
+ক্ষেত্রফল [math]=|\mathbf{a} \times \mathbf{b}|[/math]
+ [math]=\sqrt{2^{2}+(-1)^{2}+5^{2}}[/math]
+ [math]=\sqrt{30}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 408313)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{A B}=3 \hat{i}-\hat{j}+5 \hat{k}[/math] এবং [math]\overrightarrow{\mathrm{AC}}=2 \hat{\mathbf{i}}+\hat{\mathbf{j}}[/math] ভেক্টর দুইটি যে সামান্তরিকের সন্নিহিত বাহু তার ক্ষেত্রফল কত বর্গ একক?
+
+Options:
+A. [math]3 \sqrt{5}[/math]
+B. [math]4 \sqrt{6}[/math]
+C. [math]5 \sqrt{6}[/math]
+D. [math]6[/math]
+
+
+Correct Answer: C.[math]5 \sqrt{6}[/math]
+
+Solution:
+[math]\overrightarrow{A B} \times \overrightarrow{A C}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\3 & -\hat{1} & 5 \\2 & 1 & 0\end{array}\right|[/math]
+ [math]=\hat{i}(0-5)-\hat{j}[/math]
+ [math](0-10)+\hat{k}[/math]
+(3+2) $[math]=-5 \hat{i}+10 \hat{j}[/math]
+ [math]+5 \hat{k}[/math]
+ [math]|\overrightarrow{A B} \times| \overrightarrow{A C} \mid[/math]
+ [math]=\sqrt{25+100+25}[/math]
+ [math]=5 \sqrt{6}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 408311)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{P}}=-4 \hat{\mathrm{i}}+\hat{\mathrm{k}}[/math] এবং [math]\overrightarrow{\mathrm{Q}}=2 \hat{\mathrm{i}}-\underline{\mathrm{j}}+2 \hat{\mathrm{k}}[/math] সামান্তরিকের দুটি সন্নিহিত বাহু নির্দেশ করলে এর ক্ষেত্রফল কত বর্গ একক?
+
+Options:
+A. [math]\sqrt{83}[/math]
+B. [math]\sqrt{101}[/math]
+C. [math]\sqrt{53}[/math]
+D. [math]\sqrt{117}[/math]
+
+
+Correct Answer: D.[math]\sqrt{117}[/math]
+
+Solution:
+[math]\mathbf{P} \times \mathbf{Q}=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\-4 & 0 & 1 \\2 & -1 & 2\end{array}\right|[/math]
+ [math]=(0+1) \hat{\mathrm{i}}-(-8-2)[/math]
+ [math]\hat{\mathrm{j}}+(4-0) \hat{\mathrm{k}}[/math]
+ [math]=\hat{\mathrm{i}}+10 \hat{\mathrm{j}}[/math]
+ [math]+4 \hat{\mathrm{k}}[/math]
+ [math]\therefore[/math]
+ সামান্তরিকের ক্ষেত্রফল [math]=|\mathbf{P} \times \mathbf{Q}|[/math]
+ [math]\Rightarrow \sqrt{1^{2}+10^{2}+4^{2}}[/math]
+ [math]=\sqrt{117}[/math]
+ বর্গ একক
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 408310)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ত্রিভুজের দুইটি বাহু যথাক্রমে [math]5 \hat{\mathbf{i}}+7 \hat{\mathbf{j}}-2 \hat{\mathbf{k}}[/math] এবং [math]-3 \hat{i}-8 \hat{j}+\hat{k}[/math] হলে ত্রিভুজটির ক্ষেত্রফল কত?
+
+Options:
+ক. [math]\frac{\sqrt{443}}{2}[/math]
+খ. [math]\sqrt{443}[/math]
+গ. [math]\frac{73}{2}[/math]
+ঘ. [math]73[/math]
+
+
+Correct Answer: A.[math]\frac{\sqrt{443}}{2}[/math]
+
+Solution:
+[math]\text { Given, }[/math]
+ [math]\vec{p}=5 \hat{i}+7 \hat{j}-2 \hat{k}[/math]
+ এবং [math]\vec{Q}=-3 \hat{i}-8 \hat{j}+\hat{k}[/math]
+ [math]\therefore[/math]
+ ক্ষেত্রফল [math]\frac{1}{2}|\vec{P} \times \vec{Q}|[/math]
+ [math]=\frac{1}{2}\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\5 & 7 & -2 \\-3 & -8 & 1\end{array}\right|[/math]
+ [math]=\frac{1}{2}|-9 \hat{i}+\hat{j}-19 \hat{k}|[/math]
+ [math]=\frac{\sqrt{443}}{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 408309)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো সামান্তরিকের সন্নিহিত বাহুদ্বয় [math]P=2 \hat{i}+3 \hat{j}-\hat{k}[/math] এবং [math]\mathrm{Q}=3 \hat{\mathrm{k}}[/math] হলে সামান্তরিকের ক্ষেত্রফল কত বর্গ একক?
+
+Options:
+ক. [math]\sqrt{13}[/math]
+খ. [math]\sqrt{14}[/math]
+গ. [math]\sqrt{117}[/math]
+ঘ. [math]13[/math]
+
+
+Correct Answer: C.[math]\sqrt{117}[/math]
+
+Solution:
+[math]\mathbf{P} \times \mathbf{Q}=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & 3 & -1 \\0 & 0 & 3\end{array}\right|=9 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 408307)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]2 \hat{i}-\hat{j}+\hat{k}[/math] এবং [math]\hat{\mathrm{i}}+3 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}[/math] ভেক্টরদ্বয় কোন সামান্তরিকের দুটি সন্নিহিত বাহু নির্দেশ করলে, তার ক্ষেত্রফল হবে-
+
+Options:
+ক. [math]3 \sqrt{3}[/math]
+খ. [math]5 \sqrt{3}[/math]
+গ. [math]5 \sqrt{5}[/math]
+ঘ. [math]3 \sqrt{5}[/math]
+
+
+Correct Answer: B.[math]5 \sqrt{3}[/math]
+
+Solution:
+[math]\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\2 & -1 & 1 \\1 & 3 & -2\end{array}\right|[/math]
+ [math]=-\hat{i}+5 \hat{j}+7 \hat{k} \quad[/math]
+ [math]\therefore[/math]
+ ক্ষেত্রফল [math]=\sqrt{1+25+49}[/math]
+ [math]=\sqrt{75}[/math]
+ [math]=5 \sqrt{3}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 408306)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{a}=4 \hat{i}-3 \hat{j}+2 \hat{k}[/math] ও [math]\overrightarrow{\mathrm{b}}=2 \hat{\mathrm{i}}-3 \hat{\mathrm{j}}+4 \hat{\mathrm{k}}[/math] ভেক্টর দুইটি যে সামান্তরিকের সন্নিহিত বাহু তার ক্ষেত্রফল হবে-
+
+Options:
+A. [math]3 \sqrt{3} \text { sq unit }[/math]
+B. [math]6 \sqrt{3} \text { sq unit }[/math]
+C. [math]6 \sqrt{6} \text { sq unit }[/math]
+D. [math]3 \sqrt{6} \text { sq unit }[/math]
+
+
+Correct Answer: C.[math]6 \sqrt{6} \text { sq unit }[/math]
+
+Solution:
+[math]\overrightarrow{\mathrm{a}} \times \overrightarrow{\mathrm{b}}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{k} \\4 & -3 & 2 \\2 & -3 & 4\end{array}\right|[/math]
+ [math]=-6 \hat{i}-12 \hat{j}-6 \hat{k}[/math]
+এখন, [math]|\vec{a} \times \vec{b}|[/math]
+ [math]=\sqrt{6^{2}+12^{2}+6^{2}}[/math]
+ [math]=6 \sqrt{6}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+

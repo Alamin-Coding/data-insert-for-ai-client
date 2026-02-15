@@ -1,0 +1,2472 @@
+================================================================================
+Question #1 (ID: 407025)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. প্রথম চিত্রের PQ অক্ষ AB দণ্ডের একপ্রান্তে নিলে দণ্ডটি অক্ষের সাপেক্ষে ঘুরানো সুবিধা হবে কিনা? গাণিতিক যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+চিত্রানুসারে,PQ অক্ষের সাপেক্ষে জড়তার ভ্রামক, [math]\mathrm{I}_{\mathrm{PQ}}=\frac{1}{12} \mathrm{M} \ell^{2}[/math]
+এবং [math]P^{\prime} Q^{\prime}[/math]
+ অক্ষের সাপেক্ষে জড়তার ভ্রামক,[math]\begin{aligned}\mathrm{I}_{\mathrm{P}^{\prime} \mathrm{Q}^{\prime}} & =\frac{1}{3} \mathrm{P}^{\prime} \mathrm{Q}^{\prime 2} \\& =4 \mathrm{I}_{\mathrm{PQ}}\end{aligned}[/math]
+সমান পরিমাণ কৌণিক ত্বরণ [math](\alpha)[/math]
+ সৃষ্টি করতে প্রয়োজনীয় টর্ক [math](\tau)[/math]
+ যথাক্রমে [math]\tau_{\mathrm{PQ}}[/math]
+ ও [math]\tau_{P^{\prime} Q^{\prime}}[/math]
+ হলে,[math]\frac{\tau_{\mathrm{PQ}}}{\tau_{\mathrm{P}^{\prime} \mathrm{Q}^{\prime}}}=\frac{\tau_{\mathrm{PO}} \alpha}{\tau_{\mathrm{P}^{\prime} \mathrm{Q}^{\prime}} \alpha}=\frac{1}{4}[/math]
+ [math]\Rightarrow[/math]
+ [math]\tau_{\mathrm{P}^{\prime} \mathrm{Q}^{\prime}}=4 \tau_{\mathrm{PQ}}[/math]
+অর্থাৎ [math]\tau_{\mathrm{PQ}}<\tau_{\mathrm{P}^{\prime} \mathrm{Q}^{\prime}}[/math]
+গাণিতিক বিশ্লেষণের মাধ্যমে দেখা যায়, [math]\mathrm{P}^{\prime} \mathrm{Q}^{\prime}[/math]
+ অক্ষ সাপেক্ষে AB সুষমদণ্ডটি ঘুরাতে অধিকতর বেশি মানের টর্ক [math](\tau)[/math]
+ প্রয়োগ করতে হয়। সুতরাং প্রথম চিত্রের PQ অক্ষ AB দণ্ডের একপ্রান্তে নিলে দণ্ডটি অক্ষের সাপেক্ষে ঘুরানো সুবিধা হবে না।
+
+Explanation:
+ঘ না — একপ্রান্তে ধরে ঘুরানো কঠিন হবে। কেন্দ্রভিত্তিক মুহূর্ত [math]I_{CM}=\tfrac{1}{12}mL^2[/math], প্যারালাল অক্ষ থেকে একপ্রান্তে স্থানান্তর করলে [math]I_{end}=I_{CM}+m\left(\tfrac{L}{2}\right)^2=\tfrac{1}{3}mL^2[/math]. একই কোণগত ত্বরণ পেতে টর্ক [math]\tau=I\alpha[/math] চারগুণ বেশি লাগবে, তাই ঘুরানো কম সুবিধাজনক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 407026)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক পাখা মিনিটে 1200 বার ঘুরে। সুইচ বন্ধ করার 3 মিনিট পর পাখাটি বন্ধ হয়ে গেল। পাখাটির কৌণিক ত্বরণ কত? থেমে যাওয়ার আগে পাখাটি কত বার ঘুরবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-0.7 \mathrm{rads}^{-2} ; .1800 \mathrm{rev}[/math] )
+
+Explanation:
+ব্যাখ্যা: গতিবেগকে প্রথমে একক পরিবর্তন করে নেওয়া হলে [math]1200\ \text{rev/min}=20\ \text{rev/s}=40\pi\ \text{rad/s}[/math] এবং সময় [math]3\ \text{min}=180\ \text{s}[/math]. ধ্রুব কৌণিক ত্বরণ পাই [math]\alpha=-\dfrac{\omega_0}{t}=-\dfrac{40\pi}{180}=-\dfrac{2\pi}{9}\ \text{rad/s}^2[/math] (নেগেটিভ মান মানে ধীরকরণ)। থামার আগ পর্যন্ত ঘূর্ণনের সংখ্যা হলো গড় কৌণিক গতি × সময় = [math]\dfrac{\omega_0}{2}\,t=20\times\dfrac{180}{2}=1800[/math] ফেরা (revolutions)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 407027)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক পাখা প্রতি মিনিটে 600 বার ঘুরছে। সুইচ বন্ধ করার পর 1000 পাক ঘুরে পাখাটি বন্ধ হয়ে গেল। পাখাটির কৌণিক ত্বরণ কত? পাখাটি থামতে কত সময় লেগেছিল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\text { }-0.314 \mathrm{rad} / \mathrm{s}^{2}, 200 \mathrm{~s} \text {. }[/math]
+ )[math]\\[/math]
+Solution :এখানে,পাখাটির আদি কম্পাঙ্ক [math]\mathrm{f}_{0}=\frac{600}{60}=10 \mathrm{~Hz}[/math]
+পাখাটির আদি কৌণিক বেগ, [math]\omega_{0}=2 \pi f_{0}[/math]
+ [math]\begin{array}{l}=2 \pi \times 10 \\=20 \pi=62.83 \mathrm{rad} / \mathrm{s}\end{array}[/math]
+শেষ কৌণিক বেগ, [math]\omega=0 \mathrm{rad} / \mathrm{s}[/math]
+কৌণিক সরণ,[math]\begin{aligned}\theta & =2 \pi \times 1000 \\& =2000 \pi \mathrm{rad} \\& =6283.19 \mathrm{rad}\end{aligned}[/math]
+কৌণিক ত্বরণ, [math]\alpha[/math]
+ = ?সময়, [math]t=?[/math]
+আমরা জানি,[math]\omega^{2}=\omega_{0}^{2}+2 \alpha \theta[/math]
+ [math]\Rightarrow[/math]
+ [math]0^{2}=(62.83)^{2}+2 \alpha \times 6283.19[/math]
+ [math]\Rightarrow[/math]
+ [math]\alpha=-\frac{(62.83)^{2}}{2 \times 6283.19}[/math]
+ [math]\therefore \alpha=-0.314 \mathrm{rad} / \mathrm{s}^{2}[/math]
+সময়, [math]t=\frac{\omega-\omega_{0}}{\alpha}[/math]
+ [math]\Rightarrow[/math]
+ [math]t=\frac{0-62.83}{-0.314}[/math]
+ [math]\therefore t=200 s[/math]
+ [math]\text { Ans: }-0.314 \mathrm{rad} / \mathrm{s}^{2}, 200 \mathrm{~s} \text {. }[/math]
+
+
+Explanation:
+প্রশ্নের সমাধানে আমরা ঘূর্ণনগত সমীকরণ ব্যবহার করি: শুরুতে কোণীয় গতি [math]\omega_0=600\times\frac{2\pi}{60}=20\pi\ \text{rad/s}[/math] এবং মোট কোণীয় স্থানান্তর [math]\theta=1000\times2\pi=2000\pi\ \text{rad}[/math]। স্থিতঘর্ম কৌণিক ত্বরণের জন্য [math]0=\omega_0^2+2\alpha\theta\Rightarrow \alpha=-\frac{\omega_0^2}{2\theta}=-\frac{(20\pi)^2}{2\cdot2000\pi}=-\frac{\pi}{10}\ \text{rad/s}^2\approx-0.314\ \text{rad/s}^2[/math]। থামতে সময় পাওয়া যায় [math]t=\frac{-\omega_0}{\alpha}=\frac{20\pi}{\pi/10}=200\ \text{s}[/math] — অর্থাৎ ধীরত্বপূর্ণ কৌণিক বেকারত্ব নিয়ে এই ফলাফল আসে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 407028)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ঘূর্ণায়মান বস্তুর ভর 2kg। ঘূর্ণন অক্ষ থেকে এর দূরত্ব 1m। বস্তুটির জড়তার ভ্রামক নির্ণয় কর । বস্তুটি [math]5 \mathrm{rads}^{-1}[/math] কৌণিক বেগে ঘুরলে এর ঘূর্ণন গতিশক্তি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2 \mathrm{kgm}^{2}, 25 \mathrm{~J}[/math])
+
+Explanation:
+ব্যাখ্যা: ঘূর্ণায়মান কণার জন্য জড়তার ভ্রামক [math]I=mr^2[/math] হয়, তাই [math]I=2\times1^2=2\ \mathrm{kg\,m^2}[/math]. কণাটিকে কেবল একটি বিন্দু ভর ধরে দূরত্ব [math]r[/math] এ থাকা হিসেবে এই সূত্র প্রযোজ্য। ঘূর্ণন গতিশক্তি [math]K=\tfrac{1}{2}I\omega^2[/math], তাই [math]K=\tfrac{1}{2}\times2\times5^2=25\ \mathrm{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 407029)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সিলিন্ডারের ভর 50kg এবং ব্যাসার্ধ 0.20m । সিলিন্ডারটির অক্ষের সাপেক্ষে এর জড়তার ভ্রা মক [math]1.0 \mathrm{kgm}^{2}[/math]। সিলিন্ডারটি যখন [math]2 \mathrm{~ms}^{-1}[/math] বেগে অনুভূমিকভাবে গড়াতে থাকে তখন তার মোট গতিশক্তি কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 150 J)[math]\\[/math]
+Solution :এখানে,সিলিন্ডারের ভর, m = 50kgব্যাসার্ধ, r = 0.20mজড়তার ভ্রামক, [math]I=1 \mathrm{~kg} \mathrm{~m}^{2}[/math]
+রৈখিক বেগ , [math]\mathrm{v}=2 \mathrm{~ms}^{-1}[/math]
+কৌণিক বেগ, [math]\omega=\frac{v}{r}=\frac{2}{0.20}=10 \mathrm{rads}^{-1}[/math]
+মোট গতিশক্তি, [math]E_{k}=?[/math]
+মোট গতিশক্তি, ,[math]\mathrm{E}_{\mathrm{k}}=\frac{1}{2} m v^{2}+\frac{1}{2} \mathrm{I} \omega^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]E_{k}=\frac{1}{2} \times 50 \times 2^{2}+\frac{1}{2} \times 1 \times[/math]
+ [math](10)^{2}[/math]
+ [math]\therefore E_{\mathrm{k}}=150 \mathrm{~J} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: মোট গতিশক্তি = অনুবাহিক শক্তি + ঘূর্ণন শক্তি; অনুবাহিক শক্তি [math]\tfrac{1}{2}mv^{2}=\tfrac{1}{2}\times50\times2^{2}=100\ \mathrm{J}[/math]. ঘূর্ণন শক্তির জন্য [math]\omega=v/r=2/0.2=10\ \mathrm{rad/s}[/math], তাই [math]\tfrac{1}{2}I\omega^{2}=\tfrac{1}{2}\times1.0\times10^{2}=50\ \mathrm{J}[/math]. মোট গতিশক্তি = [math]100+50=150\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 407013)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনিক 0.6 kg ভরের একটি গোলককে ভূমি থেকে 2 m ওপরে অনুভূমিক তলে 2.2 m রশির সাহায্যে ঘোরাচ্ছে। গোলকটি প্রতি মিনিটে 25 বার আবর্তন করে। ঘূর্ণায়মান অবস্থায় হঠাৎ রশিটি ছিড়ে গেল।
+
+ঘ: অনিকের গোলকটি 4m দূরে অবস্থিত একটা দেওয়ালে আঘাত করবে কি না গাণিতিকভাবে বিশ্লেষণ করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ঘঅনিকের গোলকটির ক্ষেত্রে, ঘূর্ণায়ামান অবস্থায় রশিটি ছিড়ে গেলে গোলকটির গতিপথ হবে অনুভূমিক বরাবর নিক্ষিপ্ত বস্তু বা প্রাসের গতিপথের অনুরূপ। এর বেগ হবে ঘূর্ণায়মান অবস্থায় গোলকটির সরলরৈখিক বেগের অনুরূপ।মনে করি, এখানে A বিন্দু হতে y = 2m উপরে O বিন্দু হতে গোলকটি নিক্ষিপ্ত হবে এবং ভূমিতে B বিন্দুতে পতিত হবে—
+[Image]
+এখানে,t = 1 min = 60 sr =2.2 m[math]\begin{aligned}v_{0} & =\omega r \\& =\frac{2 \pi N}{t} \times r \\& =\frac{2 \pi \times 25}{60} \times 2.2 \\& =5.76 \mathrm{~ms}^{-1}\end{aligned}[/math]
+আমরা জানি, আনুভূমিক বরাবর নিক্ষিপ্ত বস্তুর গতিপথের সমীকরণ,[math]y=\frac{1}{2} g \frac{x^{2}}{v_{0}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]{x}^{2}=\frac{2 v_{0}^{2}}{g} y[/math]
+ [math]\Rightarrow[/math]
+ [math]x=\sqrt{\frac{2 \times(5.76)^{2}}{9.8}} \times 2[/math]
+ [math]\Rightarrow[/math]
+ [math]x=3.68 \mathrm{~m}[/math]
+এখানে, দেয়ালটি যেহেতু 4 m দূরে অবস্থিত এবং গোলকটি অনুভূমিক বরাবর সর্বোচ্চ 3.68 m দূরত্বে যেতে পারে তাই গোলকটি দেয়ালে আঘাত করতে পারবে না।
+
+Explanation:
+ঘ বলটির গতিসূত্র: [math]v=2\pi r f=2\pi(2.2)\times\frac{25}{60}\approx5.76\ \text{m/s}[/math]. মাটিতে পড়ার সময়: [math]t=\sqrt{\frac{2h}{g}}=\sqrt{\frac{2\times2}{9.8}}\approx0.639\ \text{s}[/math]. তাই অনুভূমিক দূরত্ব: [math]x=vt\approx5.76\times0.639\approx3.68\ \text{m}[/math], যা 4 m-এর চেয়ে কম, তাই এটি 4 m দূরে থাকা দেয়ালে না পৌঁছিয়ে মাটিতে পড়বে।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 407014)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+5 kg ভরের একটি দৃঢ় বস্তু ঘূর্ণন অক্ষ থেকে 1.5 m দূরে 5 [math]\text { rad } s^{-1}[/math] কৌণিক দ্রুতি তে ঘুরছে। এর জড়তার ভ্রামক এবং গতিশক্তি নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]140.625 \mathrm{~J}[/math]
+ )[math]\\[/math]
+Solution :এখানে,ভর, m= 5 kgঘূর্ণন অক্ষ থেকে দূরত্ব, r = 1.5 mকৌণিক দ্রুতি, [math]\omega=5 \mathrm{\ rad} \mathrm{s}^{-1}[/math]
+জড়তার ভ্রামক, [math]I=?[/math]
+ঘূর্ণন গতিশক্তি, E = ?আমরা জানি,[math]\begin{array}{l}\mathrm{I}=\mathrm{mr}^{2}=5 \mathrm{~kg} \times(1.5 \mathrm{~m})^{2} \\=11.25 \mathrm{~kg} \mathrm{~m}^{2}\end{array}[/math]
+আবার,[math]\begin{aligned}\mathrm{E} & =\frac{1}{2} 1 \omega^{2} \\& =\frac{1}{2} \times\left(11.25 \mathrm{~kg} \mathrm{~m}^{2}\right) \times\left(5 \mathrm{rad} \mathrm{s}^{-1}\right)^{2} \\& =140.625 \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+জড়তার ভ্রামক বৈধানিক বিন্দু ভরের জন্য [math]I=mr^2[/math], ফলে [math]I=5\times(1.5)^2=11.25\ \mathrm{kg\;m^2}[/math]। ঘূর্ণনগতিশক্তি [math]K=\tfrac{1}{2}I\omega^2[/math], তাই [math]K=\tfrac{1}{2}\times11.25\times5^2=140.625\ \mathrm{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 407015)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ফ্লাই হুইলের জড়তার ভ্রামক [math]0.05 \mathrm{\ kgm}^{2}[/math] । এ কৌণিক বেগ ৪ সেকেন্ডে 60 rpm হতে 300 rpm পর্যন্ত বৃদ্ধি পেলে হুইলের উপর ক্রিয়ারত টর্কের মান নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.15 \text { N.m }[/math]
+ )[math]\\[/math]
+Solution :এখানে,জড়তার ভ্রামক, [math]I=0.05[/math]
+ [math]\mathrm{kg}-\mathrm{m}^{2}[/math]
+আদি কৌণিক বেগ, [math]\omega_{1}=60 \mathrm{rmm}=\frac{60}{60} \times 2 \pi \mathrm{rads}^{-1}[/math]
+ [math]=2 \pi \operatorname{rad} \mathrm{s}^{-1}[/math]
+শেষ কৌণিক বেগ, [math]\omega_{f}=\frac{300}{60}=10 \pi \mathrm{\ rad} \mathrm{s}^{-1}[/math]
+সময়, t = 8sটর্ক [math]\tau[/math]
+ = ?আমরা জানি, [math]\alpha=\frac{\omega_{f}-\omega_{1}}{t}[/math]
+ [math]=\pi \mathrm{rad} \mathrm{s}^{-2}[/math]
+ [math]\therefore[/math]
+ টর্ক [math]\tau=0.05 \mathrm{~kg} \mathrm{~m}^{2} \times \pi \mathrm{rad} \mathrm{s}[/math]
+ [math]=0.15 \mathrm{~N} . \mathrm{m} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: টর্ক নির্ণয়ের সূত্র [math]\tau=I\alpha[/math], যেখানে কৌণিক ত্বরণ [math]\alpha=\Delta\omega/\Delta t[/math] এবং rpm থেকে rad/s-এ রূপান্তর করতে [math]2\pi/60[/math] ব্যবহার করা হয়। এখানে [math]\omega_1=60\times\frac{2\pi}{60}=2\pi\ \mathrm{rad/s},\ \omega_2=300\times\frac{2\pi}{60}=10\pi\ \mathrm{rad/s}[/math], তাই [math]\Delta\omega=8\pi\ \mathrm{rad/s}[/math] এবং [math]\alpha=\frac{8\pi}{4}=2\pi\ \mathrm{rad/s^2}[/math]. অতএব [math]\tau=I\alpha=0.05\times 2\pi=0.1\pi\approx 0.314\ \mathrm{N\!m}[/math], যা সঠিক উত্তর।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 407016)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বৃত্তাকার পথে [math]72 \mathrm{kmh}^{-1}[/math] সমদ্রুতিতে চলমান কোনো গাড়ির কেন্দ্রমুখী ত্বরণ [math]1 \mathrm{~ms}^{-2}[/math] হলে বৃত্তাকার পথের ব্যাসার্ধ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 400 m )[math]\\[/math]
+Solution :এখানে,দ্রুতি,[math]\begin{aligned}v & =72 \mathrm{kmh}^{-1} \\& =\frac{72 \times 1000}{3600} \mathrm{~ms}^{-1} \\& =20 \mathrm{~ms}^{-1}\end{aligned}[/math]
+কেন্দ্রমুখী ত্বরণ, [math]\mathrm{a}=1 \mathrm{~ms}^{-2}[/math]
+ব্যাসার্ধ, r = ?আমরা জানি,[math]\mathrm{a}=\frac{v^{2}}{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]r=\frac{v^{2}}{a}[/math]
+ [math]\begin{array}{l}=\frac{(20)^{2}}{1} \\=400 \mathrm{~m} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে গতিকে এককে পরিবর্তন করলে [math]72\ \mathrm{km\ h^{-1}}=72\times\frac{1000}{3600}=20\ \mathrm{m\ s^{-1}}[/math]. কেন্দ্রমুখী ত্বরণের সূত্র [math]a_c=\dfrac{v^2}{r}[/math] থেকে [math]r=\dfrac{v^2}{a}=\dfrac{20^2}{1}=400\ \mathrm{m}[/math], তাই ব্যাসার্ধ [math]400\ \mathrm{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 407017)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কী পরিমাণ টর্কের ক্রিয়ায় [math]250 \mathrm{~kg} \mathrm{~m}^{2}[/math] জড়তার ভ্রামকের কৌণি ক ত্বরণ [math]4 \mathrm{rads}^{-2}[/math] হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 1000 Nm )[math]\\[/math]
+Solution :এখানে,জড়তার ভ্রামক, [math]\mathrm{I}=250 \mathrm{~kg} \mathrm{~m}^{2}[/math]
+কৈণিক ত্বরণ, [math]\alpha=4 \mathrm{\ rad} \mathrm{s}^{-2}[/math]
+টর্ক, [math]\tau=?[/math]
+আমরা জানি,টর্ক,[math]\begin{aligned}\tau & =1 \alpha \\& =\left(250 \mathrm{~kg} \mathrm{~m}^{2}\right) \times 4 \mathrm{rads}^{-2} \\& =1000 \mathrm{Nm} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+টর্ক ও কৌণিক ত্বরণ সম্পর্কিত সমীকরণ হলো [math]\tau = I\alpha[/math], যেখানে [math]\tau[/math] টর্ক, [math]I[/math] ভ্রামকের জড়তার মুহূর্ত এবং [math]\alpha[/math] কৌণিক ত্বরণ। এখানে [math]\tau=250\times4=1000\ \text{N·m}[/math], তাই টর্ক হবে [math]1000\ \text{N·m}[/math] — কারণ একই কৌণিক ত্বরণ তৈরির জন্য ভরবহুল ভ্রামককে বেশি টর্ক লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 407018)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি গ্রামোফোন রেকর্ড সমকৌণিক বেগে ঘুরছে। রেকর্ডের উপর কেন্দ্র হতে 0.12 ও 0.18 m দূরে র বিন্দুতে রৈখিক বেগের অনুপাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 2:3 )[math]\\[/math]
+Solution :এখানে,[math]\begin{array}{l}r_{1}=0.12 \mathrm{~m} \\r_{2}=0.18 \mathrm{~m}\end{array}[/math]
+আমরা জানি, কৌণিক বেগ ধ্রুব হলে,[math]\frac{v_{1}}{v_{2}}=\frac{r_{1}}{r_{2}}[\because \mathrm{v}=\omega r][/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{v_{1}}{v_{2}}=\frac{0.12}{0.18}[/math]
+ [math]\therefore \quad v_{1}: v_{2}=2: 3 \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমকৌণিক বেগ স্থির থাকলে রৈখিক বেগের সূত্র হচ্ছে [math]v=\omega r[/math], তাই একই ω-তে রৈখিক বেগের অনুপাত উপরের ব্যাসার্ধের অনুপাতের সমান। তাই [math]v_1:v_2=r_1:r_2=0.12:0.18=2:3[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 407019)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বৃত্তাকার পথে [math]3.14 \mathrm{~ms}^{-1}[/math] সমদ্রুতিতে একটি কণা প্রতি সেকেন্ডে 10টি পূর্ণ আব র্তন সম্পন্ন করে। বৃত্তাকার পথের ব্যাসার্ধ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 0.05 m )[math]\\[/math]
+Solution :এখানে,দ্রুতি, [math]\mathrm{v}=3.14 \mathrm{~ms}^{-1}[/math]
+ঘূর্ণনসংখ্যা, n = 10সময়, t = 1sআমরা জানি, [math]\mathrm{v}=\omega \mathrm{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]v=\frac{2 \pi n}{t} \times r[/math]
+ [math]\Rightarrow[/math]
+ [math]3.14=\frac{2 \pi \times 10}{1} \times r[/math]
+ [math]\therefore \quad \mathrm{r}=\frac{3.14}{20 \pi}=\frac{3.14}{20 \times 3.14}=\frac{1}{20}=0.05 \mathrm{~m}[/math]
+
+
+Explanation:
+কারণ প্রতিটি আবর্তনে কণার অতিক্রান্ত পথ হয় [math]2\pi r[/math] এবং প্রতি সেকেন্ডে 10টি আবর্তন থাকায় [math]v=2\pi f r[/math]। তাই [math]r=\dfrac{v}{2\pi f}=\dfrac{3.14}{2\pi\times10}=\dfrac{3.14}{62.8}=0.05\ \mathrm{m}=5\ \mathrm{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 407020)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.250 kg ভরের একটি পাথরখণ্ডকে 0.75 m লম্বা একটি সুতার এক প্রান্তে বেঁধে বৃত্তাকার পথে প্র তি মিনিটে 90 বার ঘোরালে সুতার ওপর টান নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]16.64 \mathrm{~N}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে, পাথর খণ্ডের ভর, m = 0.250 kgবৃত্তপথের ব্যাসার্ধ, r = 0.75 mসময়, t=1 min= 60 sঘূর্ণন সংখ্যা, N = 90সুতার টান, F =?আমরা জানি,[math]\begin{aligned}\mathrm{F} & =\mathrm{m} \omega^{2} \mathrm{r} \\& =\mathrm{m} \times\left(\frac{2 \pi \mathrm{N}}{\mathrm{t}}\right)^{2} \times 0.75 \mathrm{~m}\left[\because \omega=\frac{2 \pi \mathrm{N}}{\mathrm{t}}\right]\end{aligned}[/math]
+ [math]\begin{array}{l}=0.25 \mathrm{~kg} \times\left(\frac{2 \times 3.14 \times 90}{60 \mathrm{~s}}\right)^{2} \times 0.75 \mathrm{~m} \\=16.64 \mathrm{~N} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+প্রথমে বেগের কোণগত গতি নির্ণয় করি: [math]90\ \text{rev/min}=1.5\ \text{rev/s},\ \omega=2\pi f=2\pi(1.5)=3\pi\ \text{rad/s}[/math]. সুতার টান (কেন্দ্রমুখী বল) হল [math]F=mr\omega^2=0.25\times0.75\times(3\pi)^2\approx16.65\ \text{N}[/math]. এই টানই পাথরকে বৃত্তীয় পথে কেন্দ্রে দিকে বাঁকানোর জন্য প্রয়োজনীয় কেন্দ্রমুখী বল সরবরাহ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 407021)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+4 kg ভরবিশিষ্ট একটি বস্তুকে 1.5 mm দীর্ঘ সুতার সাহায্যে বৃত্তাকার পথে ঘুরানো হচ্ছে। বস্তুটি 5 সেকেন্ডে 20 বার পূর্ণ আবর্তন করছে। সুতার টান নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.789 \times 10^{3} \mathrm{~N}[/math])
+
+Explanation:
+ব্যাখ্যা: বৃত্তীয় গতিতে কেন্দ্রে থাকা তড়িকা (সুতার টান) হলে তা কেন্দ্রীগীয় বল, এবং এর মান [math]F=m\omega^2 r[/math] দ্বারা দেওয়া হয়। এখানে ঘূর্ণনের হার [math]f=\dfrac{20}{5}=4\ \text{rev/s}[/math] এবং [math]\omega=2\pi f=8\pi\ \text{rad/s}[/math]। সুতার দৈর্ঘ্য [math]r=1.5\ \text{mm}=1.5\times10^{-3}\ \text{m}[/math] ও ভর [math]m=4\ \text{kg}[/math] রেখে, [math]F=4(8\pi)^2(1.5\times10^{-3})\approx3.79\ \text{N}[/math] (কেন্দ্রে দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 407023)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ফ্লাই হুইল স্থিরাবস্থা থেকে সমকৌণিক ত্বরণে ঘুরতে শুরু করল। 30 sec পরে 1500 rpm কৌণিক বেগ অর্জন করল। হুইলটির কেন্দ্র থেকে 50 cm দূরে অবস্থিত কোনো কণার কৌণিক ত্বরণ এবং রৈখিক ত্বরণ নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]=\frac{5}{3} \pi \mathrm{rads}^{-1}[/math]
+ , [math]2.617 \mathrm{~ms}^{-2}[/math]
+ )[math]\\[/math]
+Solution :এখানে,আদি কৌণিক বেগ, [math]\omega_{0}=0 \mathrm{rads}^{-1}[/math]
+শেষ কৌণিক বেগ,[math]\begin{aligned}\omega & =1500 \mathrm{rpm} \\& =\frac{1500 \times 2 \pi}{60} \mathrm{rads}^{-1} \\& =50 \pi \mathrm{rads}^{-1}\end{aligned}[/math]
+সময়, t = 30'sকেন্দ্র থেকে দূরত্ব, r = 50 cm = 0.5mকৌণিক ত্বরণ [math]\alpha=?[/math]
+রৈখিক ত্বরণ, a = ?আমরা জানি,কৌণিক ত্বরণ,[math]\begin{aligned}\alpha & =\frac{\omega-\omega_{0}}{\mathrm{t}} \\& =\frac{50 \pi \mathrm{rads}^{-1}-0 \mathrm{rads}^{-1}}{30 \mathrm{~s}} \\& =\frac{5}{3} \pi \mathrm{rads}^{-1} \text { (Ans.) }\end{aligned}[/math]
+আবার, রৈখিক ত্বরণ, [math]a=\alpha r[/math]
+ [math]\Rightarrow[/math]
+ [math]a=\frac{5}{3} \pi \times 0.5[/math]
+ [math]=2.617 \mathrm{~ms}^{-2} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমকৌণিক ত্বরণ ধ্রুব ধরে কৌণিক বেগকে রেড/সে‑তে রূপান্তর করলে [math]\omega=1500\ \text{rpm}=1500\times\frac{2\pi}{60}=50\pi\ \text{rad/s}[/math]. তাই কৌণিক ত্বরণ [math]\alpha=\Delta\omega/\Delta t=(50\pi-0)/30=\frac{5\pi}{3}\ \text{rad/s}^2\approx5.236\ \text{rad/s}^2[/math]. কণার রৈখিক (স্পর্শকীয়) ত্বরণ [math]a_t=\alpha r=\frac{5\pi}{3}\times0.5=\frac{5\pi}{6}\ \text{m/s}^2\approx2.618\ \text{m/s}^2[/math], যেখানে ব্যবহার করা সূত্রটি হলো [math]a_t=\alpha r[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 407024)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কৃত্রিম উপগ্রহ 7000 km ব্যাসার্ধবিশিষ্ট বৃত্তাকার কক্ষপথে পৃথিবীকে প্রদক্ষিণ করছে। উপগ্রহে র পর্যায়কাল 2h হলে কেন্দ্রমুখী ত্বরণ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]5.325 \mathrm{~ms}^{-2}[/math]
+ )[math]\\[/math]
+Solution :এখানে,ব্যাসার্ধ, r = 7000 km[math]=7000 \times 10^{3} \mathrm{~m}[/math]
+ [math]\begin{aligned}\mathrm{T} & =2 \mathrm{~h} \\& =3600 \times 2 \mathrm{~s} \\& =7200 \mathrm{~s}\end{aligned}[/math]
+কেন্দ্রমুখী ত্বরণ, [math]\alpha=?[/math]
+আমরা জানি,[math]\begin{aligned}\alpha & =\omega^{2} \mathrm{r} \\& =\left(\frac{2 \pi}{\mathrm{T}}\right)^{2} \cdot \mathbf{r} \\& =\left(\frac{2 \pi}{7200}\right)^{2} \times 7000 \times 10^{3} \\& =5.325 \mathrm{~ms}^{-2} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ব্যবহার করি [math]a=\dfrac{4\pi^2 r}{T^2}[/math], যেখানে [math]r=7000\ \text{km}=7.0\times10^6\ \text{m}[/math] এবং [math]T=2\ \text{h}=7200\ \text{s}[/math]; তাই [math]a=\dfrac{4\pi^2(7.0\times10^6)}{7200^2}\approx5.33\ \text{m/s}^2[/math]. এই ত্বরণটি উপগ্রহের বৃত্তীয় গতির কন্দ্রমুখী ত্বরণ (কেন্দ্রের দিকে) এবং সাধারণভাবে [math]a=v^2/r[/math] অথবা উপরোক্ত সূত্র থেকে পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 407010)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে M বস্তুটি AB অক্ষের চারদিকে সমকৌণিক বেগে ঘুরছে। বস্তুটির ওপর একটি যুগল বল প্রয়োগ করায় এতে ⍺ কৌণিক ত্বরণ সৃষ্টি হলো।
+
+
+[Image]
+
+
+Options:
+ঘ. বস্তুটির ওপর ক্রিয়ারত টর্ক তার জড়তার ভ্রামক ও কৌণিক ত্বরণের গুণফলের সমান– গাণিতিক বিশ্লেষণের মাধ্যমে প্রমাণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘআমরা জানি, ঘূর্ণন অক্ষের সাপেক্ষে ঘূর্ণনরত বস্তুর ওপর যে বিন্দুতে বল ক্রিয়াশীল ঐ বিন্দুর অবস্থান ভেক্টর ও প্রযুক্ত বলের ভেক্টর গুণফল দ্বারা টর্ক পরিমাপ করা হয়।অর্থাৎ [math]\vec{\tau}=\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}}[/math]
+ঘূর্ণন গতি বা বৃত্তাকার গতির ক্ষেত্রে [math]\overrightarrow{\mathrm{r}}[/math]
+ এবং [math]\overrightarrow{\mathrm{F}}[/math]
+ এর মধ্যকার কোণ, [math]\alpha=90^{\circ}[/math]
+ [math]\therefore[/math]
+ টর্কের মান, [math]\tau=\mathrm{rF} \sin 90^{\circ}=\mathrm{rF}=[/math]
+ বৃত্তাকার পথের ব্যাসার্ধ [math]\times[/math]
+ বলের মান বস্তুর ওপর সামগ্রিকভাবে যে বল প্রযুক্ত হয় তা বস্তুর অভ্যন্তরস্থ কণাসমূহের উপর প্রযুক্ত ক্ষুদ্র বলসমূহের সমষ্টির সমান।অর্থাৎ [math]\overrightarrow{\mathrm{F}}=\overrightarrow{\mathrm{F}_{1}}+\overrightarrow{\mathrm{F}_{2}}+\overrightarrow{\mathrm{F}_{3}}+[/math]
+ .......... [math]+\overrightarrow{F_{n}}[/math]
+এখানে, [math]\overrightarrow{\mathrm{F}}=\overrightarrow{\mathrm{F}_{1}}+\overrightarrow{\mathrm{F}_{2}}+\overrightarrow{\mathrm{F}_{3}}[/math]
+ ........ [math]+\overrightarrow{F_{n}}[/math]
+ হলো বস্তুটির [math]\mathrm{m}_{1}, \mathrm{~m}_{2}\mathrm{m}_{3}[/math]
+............. [math]\mathrm{m}_{n}[/math]
+ ভরের কণাসমূহের ওপর প্রযুক্ত বল। ঘূর্ণন অক্ষ হতে কণাসমূহের দূরত্ব যথাক্রমে [math]r_{1}, r_{2}, r_{3}[/math]
+......... [math]r_{n}[/math]
+।[math]\overrightarrow{\mathrm{F}}, \overrightarrow{\mathrm{F}_{1}}, \overrightarrow{\mathrm{F}_{2}}, \overrightarrow{\mathrm{F}_{3}}[/math]
+.............. [math]\overrightarrow{\mathrm{F}_{\mathrm{n}}}[/math]
+ বলসমূহের দিক অভিন্ন হওয়ায়[math]\mathrm{F}=\mathrm{F}_{1}+\mathrm{F}_{2}+\mathrm{F}_{3}+[/math]
+............ [math]+F_{n}[/math]
+ [math]=m_{1} a_{1}+m_{2} a_{2}+m_{2} a_{3}+[/math]
+....... [math]m_{n} a_{n}[/math]
+ [a দ্বারা রৈখিক ত্বরণ বুঝায়][math]=m_{1} \alpha r_{1}+m_{2} \alpha r_{2}+m_{3} \alpha r_{3}+[/math]
+............ [math]+m_{n} \alpha r_{n}[/math]
+[ [math]\alpha[/math]
+ হলো সকল কণার সাধারণ কৌণিক ত্বরণ][math]\therefore[/math]
+ বস্তুটির ওপর সামগ্রিক টর্ক,[math]\tau=\tau_{1}+\tau_{2}+\tau_{3}+[/math]
+ ....... [math]+\tau_{\mathrm{n}}[/math]
+ [math]=\mathrm{r}_{1} \mathrm{~F}_{1}+\mathrm{r}_{2} \mathrm{~F}_{2}+\mathrm{r}_{3} \mathrm{~F}_{3}+[/math]
+ ....... [math]+r_{n} F_{n}[/math]
+ [math]=r_{1}\left(m_{1} \alpha r_{1}\right)+r_{2}\left(m_{2} \alpha r_{2}\right)+r_{3}\left(m_{3} \alpha r_{3}\right)+[/math]
+.......... [math]+r_{n}\left(r_{n} \alpha r_{n}\right)[/math]
+ [math]=\mathrm{m}_{1} \mathrm{r}_{1}^{2} \alpha+\mathrm{m}_{2} \mathrm{r}_{2}^{2} \alpha+\mathrm{m}_{3} \mathrm{r}_{3}^{2} \alpha+[/math]
+ ........ [math]+m_{n} r_{n}^{2} \alpha[/math]
+ [math]=\left(\mathrm{m}_{1} \mathrm{r}_{1}^{2}+\mathrm{m}_{2} \mathrm{r}_{2}^{2}+\mathrm{m}_{3} \mathrm{r}_{3}^{2}+\right.[/math]
+ ........ [math]\left.+m_{r} r_{n}^{2}\right) \alpha[/math]
+ [math]=\mathrm{I} \alpha[\mathrm{I}=[/math]
+ সমগ্র বস্তুটির জড়তার ভ্রামক ]সুতরাং বস্তুটির ওপর ক্রিয়ারত টর্ক তার জড়তার ভ্রামক ও কৌণিক ত্বরণের গুণফলের সমান।
+
+Explanation:
+ব্যাখ্যা: ঘ একটি কণার জন্য টর্কের সংজ্ঞা [math]\tau = \mathbf{r}\times\mathbf{F}[/math]। যদি কণাটি কৌণিক ত্বরণ [math]\alpha[/math] পায় তবে স্পর্শকীয় ত্বরণ [math]a_t=r\alpha[/math] এবং [math]F=ma_t=mr\alpha[/math] হবে, ফলে টর্কের মান [math]\tau=rF= r(mr\alpha)=mr^2\alpha[/math]। একটি সিস্টেমের সব কণার জন্য যোগ করলে [math]\tau_{\rm net}=\sum mr^2\alpha=I\alpha[/math], তাই [math]\tau=I\alpha[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 407011)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+8 kg ভরের একটি বস্তুকে 0.2m লম্বা দড়ি দিয়ে একটি নির্দিষ্ট অক্ষের চারিদাকে [math]2 \mathrm{rads}^{-1}[/math] বেগে ঘুরান হচ্ছে।
+
+Options:
+ঘ. বস্তুটির ভর অর্ধেক হলে টর্কের কীরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর ।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,বস্তুর প্রাথমিক ভর, [math]m_{1}=8 \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ বস্তুর পরিবর্তিত ভর, [math]m_{2}=\frac{8}{2}=4 \mathrm{~kg}[/math]
+ঘূর্ণন অক্ষ থেকে বস্তুর দূরত্ব, [math]r=0.2 \mathrm{~m}[/math]
+ধরি, কৌণিক ত্বরণ [math]=\alpha[/math]
+প্রাথমিক টর্ক, [math]\tau_{1}=I_{1} \alpha=m_{1} r^{2} \alpha=8 \times(0.2)^{2} \alpha=0.32 \alpha \mathrm{N} \cdot \mathrm{m}[/math]
+পরিবর্তিত টর্ক, [math]\tau_{2}=I_{2} \alpha=m_{2} r^{2} \alpha=4 \times(0.2)^{2} \alpha=0.16 \alpha \mathrm{N} \cdot \mathrm{m}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\tau_{2}}{\tau_{1}}=\frac{1}{2}[/math]
+ [math]\therefore \quad \tau_{2}=\frac{1}{2} \times \tau_{1}[/math]
+অতএব, বস্তুটির ভর অর্ধেক করা হলে টর্ক অর্ধেক হয়ে যাবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ কোণগত গতি স্থির থাকায় কোণীয় ত্বরণ [math]α=0[/math], তাই মোট টর্ক [math]τ=Iα=0[/math] যেখানে [math]I=mr^2[/math]; ফলে ভর অর্ধেক হলেও টর্কের মান অপরিবর্তিত এবং শূন্য থাকবে। বিকল্পভাবে, টেনশন রেডিয়াল হওয়ায় লিভার-আর্ম শূন্য থাকে এবং [math]τ=\mathbf{r}\times\mathbf{F}=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 407012)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনিক 0.6 kg ভরের একটি গোলককে ভূমি থেকে 2 m ওপরে অনুভূমিক তলে 2.2 m রশির সাহায্যে ঘোরাচ্ছে। গোলকটি প্রতি মিনিটে 25 বার আবর্তন করে। ঘূর্ণায়মান অবস্থায় হঠাৎ রশিটি ছিড়ে গেল।
+
+Options:
+গ. উদ্দীপকের আলোকে কেন্দ্রমুখী বলের মান নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গ9.047 N [math]\\[/math]
+
+Explanation:
+গ কেন্দ্রমুখী বল নির্ণয়: [math]f=25/60=5/12\ \text{s}^{-1}[/math], [math]v=2\pi r f=2\pi(2.2)(5/12)=\tfrac{11\pi}{6}\approx5.76\ \text{m/s}[/math], তাই [math]F_c=\dfrac{mv^2}{r}=\dfrac{0.6\times(5.76)^2}{2.2}\approx9.05\ \text{N}[/math]. ব্যাখ্যা: কেন্দ্রমুখী বল হল বৃত্তাকার গতির জন্য অপরিহার্য অভ্যন্তরীণ বল যা স্ট্রিং দ্বারা সরবরাহ করা হয়, এখানে তার মান প্রায় [math]9.05\ \text{N}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 407001)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+একটি L দৈর্ঘ্যের এবং m ভরের সুষম দণ্ডের একটি প্রান্ত একটি ঘর্ষণহীন পিন (O বিন্দু) দ্বারা আটকানো দণ্ডটির অনুভূমিক অবস্থান হতে ছেড়ে দেয়া হল (চিত্রানুযায়ী) যেন তার সর্বনিম্ন অবস্থানে ভারকেন্দ্র O বিন্দু হয়।
+
+Options:
+ঘ. সর্বনিম্ন অবস্থানে দণ্ডের ভারকেন্দ্রের ও দণ্ডের সর্বনিম্ন বিন্দুদ্বয়ের রৈখিক দ্রুতি নির্ণয় করে প্রাপ্ত ফলাফলের তারতম্যের কারণ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,সর্বনিম্ন অবস্থানে ভারকেন্দ্রের জন্যL বৃত্তাকার পথের ব্যাসার্ধ, [math]r_{1}=\frac{L}{2}[/math]
+দণ্ডের সর্বনিম্ন বিন্দুর জন্য বৃত্তাকার পথের ব্যাসার্ধ, [math]\mathrm{r}_{2}=\mathrm{L}[/math]
+কৌণিক দ্রুতি, [math]\omega=\sqrt{\frac{3 g}{L}}[/math]
+ [‘গ’ হতে প্রাপ্ত ]আমরা জানি, রৈখিক দ্রুতি, [math]\mathrm{v}=\omega \mathrm{r}[/math]
+সর্বনিম্ন অবস্থানে ভারকেন্দ্রের রৈখিক দ্ৰুতি,[math]\begin{array}{l}\mathrm{v}_{1}=\omega \mathrm{r}_{1} \\\quad=\sqrt{\frac{3 \mathrm{~g}}{\mathrm{~L}} \times \frac{\mathrm{L}}{2}} \\\therefore \mathrm{v}_{1}=\frac{1}{2} \sqrt{3 \mathrm{gL}}\end{array}[/math]
+এবং সর্বনিম্ন অবস্থানে দন্ডের সর্বনিম্ন বিন্দুর রৈখিক দ্রুতি,[math]\begin{array}{l}\mathrm{v}_{2}=\omega \mathrm{r}_{2}=\sqrt{\frac{3 \mathrm{~g}}{\mathrm{~L}}} \times \mathrm{L} \\\therefore \mathrm{v}_{2}=\frac{\mathrm{v}}{2} \sqrt{3 \mathrm{gL}}\end{array}[/math]
+ [math]\mathbf{V}_{1}[/math]
+ ও [math]\mathbf{V}_{2}[/math]
+ ভিন্ন হওয়ার কারণ হলো, ঘূর্ণনকেন্দ্র হতে দণ্ডের ভারকেন্দ্র ও দণ্ডের সর্বনিম্ন বিন্দুর দূরত্বের তারতম্য হওয়া৷
+
+Explanation:
+ব্যাখ্যা: রডটি ঘূর্ণন করলে সব বিন্দুর অ্যাংগুলার দ্রুততা [math]\omega[/math] সমান হয় কিন্তু রৈখিক গতিবেগ দূরত্বের উপর নির্ভর করে: [math]v=\omega r[/math], তাই কেন্দ্রকেন্দ্র (দূরত্ব [math]L/2[/math]) এবং নিচের চূড়াবিন্দু (দূরত্ব [math]L[/math])–এর গতি আলাদা হবে। শক্তি সংরক্ষণ থেকে, পতনের উচ্চতা [math]L/2[/math] দিয়ে মাধ্যাকর্ষণ সম্ভাব্য শক্তি রোটেশনাল কাইনেটিক শক্তিতে রূপান্তরিত হলে [math]mg(L/2)=(1/2)I\omega^2[/math] এবং [math]I=(1/3)mL^2[/math] বসালে [math]\omega=\sqrt{3g/L}[/math] পাওয়া যায়। তাই [math]v_{cm}=\omega(L/2)=(1/2)\sqrt{3gL}[/math] এবং [math]v_{tip}=\omega L=\sqrt{3gL}[/math], ফলে নিচের বিন্দু গতি কেন্দ্রকের দ্বিগুণ হওয়াই পার্থক্যের কারণ।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 407002)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তড়িৎ মোটরের সাহায্যে কোনো একটি m = 10 kg ভরের পাতলা চাকাকে সুষম 100 rev/min কৌণিক দ্রুতিতে তার অক্ষের সাপেক্ষে ঘুরানো হচ্ছিল। এ অবস্থায় সুইচ বন্ধ করে দেয়ায় চাকাটি [math]2 \mathrm{rad} / \mathrm{s}^{2}[/math] সমকৌণিক মন্দন প্রাপ্ত হলো এবং কিছুক্ষণ পর থেমে গেল ।
+
+Options:
+গ. চাকাটি থামতে কত সময় লেগেছিল?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই,আদি কৌণিক বেগ,[math]\begin{array}{l}\omega_{0}=100 \mathrm{rev} / \mathrm{min} \\=\frac{2 \pi \times 100}{60} \mathrm{rads}^{-1} \\=10.47 \mathrm{rads}^{-1}\end{array}[/math]
+শেষ কৌণিক বেগ, [math]\omega=0 \mathrm{rads}^{-1}[/math]
+সমকৌণিক মন্দন, [math]\alpha=2 \operatorname{rad~s}^{-2}[/math]
+সময়, t = ?আমরা জানি,[math]\omega=\omega_{0}-\alpha t[/math]
+ [math]\Rightarrow[/math]
+ [math]0=10.47-2 t[/math]
+ [math]\Rightarrow[/math]
+ [math]2 \mathrm{t}=10.47[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{t}=\frac{10.47}{2}[/math]
+ [math]\therefore \mathrm{t}=5.24 \mathrm{~s} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ চাকাটির প্রাথমিক কোণীয় বেগ [math]\omega_0=100\ \text{rev/min}=100\times\frac{2\pi}{60}=\frac{10\pi}{3}\ \text{rad/s}[/math] এবং সমকৌণিক মন্দন [math]\alpha=2\ \text{rad/s}^2[/math] হলে থামতে লাগা সময় [math]t=\omega_0/\alpha=\frac{10\pi/3}{2}=\frac{5\pi}{3}\ \text{s}\approx5.24\ \text{s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 407003)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তড়িৎ মোটরের সাহায্যে কোনো একটি m = 10 kg ভরের পাতলা চাকাকে সুষম 100 rev/min কৌণিক দ্রুতিতে তার অক্ষের সাপেক্ষে ঘুরানো হচ্ছিল। এ অবস্থায় সুইচ বন্ধ করে দেয়ায় চাকাটি [math]2 \mathrm{rad} / \mathrm{s}^{2}[/math] সমকৌণিক মন্দন প্রাপ্ত হলো এবং কিছুক্ষণ পর থেমে গেল ।
+
+Options:
+ঘ. চাকাটি থামার পূর্বে কত কৌণিক সরণ হয়েছিল তা যথাযথ। যুক্তিসহ উপস্থাপন করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,আদি কৌণিক বেগ, [math]\omega_{0}=10.47 \mathrm{\ rads}^{-1}[/math]
+সমকৌণিক মন্দন, [math]\alpha=2 \mathrm{\ rads}^{-2}[/math]
+‘গ’ অংশ হতে পাই, সময়, [math]\mathrm{t}=5.24 \mathrm{~s}[/math]
+কৌণিক সরণ, [math]\theta=?[/math]
+আমরা জানি,[math]\begin{aligned}\theta & =\omega_{0} \mathrm{t}-\frac{1}{2} \alpha \mathrm{t}^{2} \\& =10.47 \times 5.24-\frac{1}{2} \\& =27.4 \mathrm{rad}\end{aligned}[/math]
+
+
+Explanation:
+ঘ
+ব্যাখ্যা: শুরুতে কৌণিক বেগ [math]\omega_0=100\ \text{rev/min}=\dfrac{100\times2\pi}{60}=\dfrac{10\pi}{3}\ \text{rad/s}[/math]. থামার কৌণিক সরণ [math]\theta[/math] নির্ণয়ের জন্য [math]0=\omega_0^2+2\alpha\theta[/math] ব্যবহার করলে, [math]\alpha=-2\ \text{rad/s}^2[/math] হওয়ায় [math]\theta=\dfrac{\omega_0^2}{4}=\dfrac{(10\pi/3)^2}{4}=\dfrac{25\pi^2}{9}\ \text{rad}\approx27.4\ \text{rad}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 407004)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.1kg ভরের একটি পাথরকে 0.5m লম্বা একটি সুতার সাহায্যে বৃত্তপথে ঘুরানো হচ্ছে। পাথরটি প্র তি মিনিটে বৃত্তপথে 30 বার পূর্ণ ঘূর্ণন সম্পন্ন করে। সুতার টান কত নিউটন?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 0.493 N)
+
+Explanation:
+ব্যাখ্যা: ঘূর্ণন ফ্রিকোয়েন্সি [math]f=30/60=0.5\ \text{Hz}[/math] তাই কোণীয় বেগ [math]\omega=2\pi f= \pi\ \text{rad/s}[/math]. শর্তীয় টান হল কেন্দ্রক বল, তাই [math]T=m r \omega^2=0.1\times0.5\times\pi^2=0.05\pi^2\approx0.49\ \text{N}[/math], এই কারণেই উত্তরটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 407005)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+5 kg ভরের একটি দৃঢ় বস্তু ঘূর্ণন অক্ষ থেকে 1.5 m দূরে 5 [math]\text { rads }^{-1}[/math] কৌণিক দ্রুতি তে ঘুরছে। এর জড়তার ভ্রামক এবং ঘূর্ণন গতিশক্তি নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 140.625 J)
+
+Explanation:
+একটি বিন্দু ভরের জন্য জড়তার ভ্রামক [math]I=mr^2[/math], তাই [math]I=5\times(1.5)^2=11.25\ \text{kg·m}^2[/math]. ঘূর্ণন গতিশক্তি [math]K=\tfrac{1}{2}I\omega^2[/math], ফলে [math]K=\tfrac{1}{2}\times11.25\times5^2=140.625\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 407006)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.05kg ভরের একটি লোহার বলকে 2m দীর্ঘ একটি সুতার এক প্রান্তে বেঁধে ঘুরানো হচ্ছে।
+
+(ক) ঘূর্ণন অক্ষ সাপেক্ষে এর জড়তার ভ্রামক কত?
+
+(খ) চক্রগতির ব্যাসার্ধ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]0.2 \mathrm{~kg} \mathrm{~m}^{2}[/math]
+ (খ) 2m )[math]\\[/math]
+Solution :এখানে,বস্তুর ভর m = 0.05kgবৃত্তের ব্যাসার্ধ, r = 2mজড়তার ভ্রামক, [math]I=?[/math]
+চক্রগতির ব্যাসার্ধ, K = ?আমরা জানি,[math]\begin{aligned}\mathrm{I} & =\mathrm{mr}^{2} \\& =0.05 \mathrm{~kg} \times(2 \mathrm{~m})^{2} \\& =0.2 \mathrm{~kg} \mathrm{~m}^{2} \text { (Ans.) }\end{aligned}[/math]
+আবার, [math]\mathrm{I}=\mathrm{mK}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]K=\sqrt{\frac{\mathrm{I}}{\mathrm{m}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{K}=\sqrt{\frac{0.2 \mathrm{kgm^{2 }}}{0.05 \mathrm{~kg}}}=2 \mathrm{~m} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক লোহার বলটিকে বিন্দু ভরের মতো ধরা হলে ঘূর্ণন অক্ষ সাপেক্ষে জড়তার ভ্রামক [math]I=mr^2[/math], তাই [math]I=0.05\times(2)^2=0.2\ \text{kg·m}^2[/math]।
+
+খ চক্রগতির ব্যাসার্ধ [math]k[/math] হলে [math]I=mk^2[/math], সুতরাং [math]k=\sqrt{I/m}=\sqrt{0.2/0.05}=2\ \text{m}[/math], যা সরাসরি বলের দূরত্বের সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 407007)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+400 kg ভর ও 1m ব্যাসার্ধের একটি নিরেট গোলক 2m/sec বেগে গড়িয়ে চলছে। এর মোট গতিশ ক্তি কত? (যে কোনো ব্যাসের সাপেক্ষে, [math]I=\frac{2}{5} M r^{2}[/math] )
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 1120 J )[math]\\[/math]
+Solution :এখানে,গোলকের ভর, M = 400kgব্যাসার্ধ, r = 1mরৈখিক বেগ, [math]\mathrm{v}=2 \mathrm{~ms}^{-1}[/math]
+গতিশক্তি, E = ?আমরা জানি,ঘূর্ণন গতিশক্তি, [math]E_{1}=\frac{1}{2} I \omega^{2}[/math]
+আবার,[math]\begin{aligned}\mathrm{I} & =\frac{2}{5} \mathrm{Mr}^{2} \\& =\frac{2}{5} \times 400 \mathrm{~kg} \times(1 \mathrm{~m})^{2} \\& =160 \mathrm{kgm}^{2}\end{aligned}[/math]
+এবং [math]\omega=\frac{v}{r}=\frac{2 \mathrm{~ms}^{-1}}{1 \mathrm{~m}^{-1}}=2 \mathrm{rads}^{-1}[/math]
+সুতরাং [math]E_{1}=\frac{1}{2} I \omega^{2}[/math]
+ [math]=\frac{1}{2} \times 160 \mathrm{kgm}^{2} \times\left(2 \mathrm{rad} \mathrm{s}^{-1}\right)^{2}=320 \mathrm{~J}[/math]
+রৈখিক গতিশক্তি, [math]\mathrm{E}_{2}=\frac{1}{2} \mathrm{Mv}^{2}=\frac{1}{2} \times 400 \mathrm{~kg} \times\left(2 \mathrm{~ms}^{-1}\right)^{2}=800[/math]
+ [math]\therefore[/math]
+ মোট গতিশক্তি, [math]E=E_{1}+E_{2}=320 \mathrm{~J}+800 \mathrm{~J}=1120 \mathrm{~J} \text { (Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: মোট গতিশক্তি = অনুবাহী + ঘূর্ণন = [math]\frac{1}{2}Mv^{2}+\frac{1}{2}I\omega^{2}[/math], এবং [math]\omega=\frac{v}{r}[/math]. এখানে [math]\frac{1}{2}Mv^{2}=\frac{1}{2}\times400\times2^{2}=800\ \text{J}[/math] এবং [math]\frac{1}{2}I\omega^{2}=\frac{1}{2}\times\frac{2}{5}Mr^{2}\times\left(\frac{v}{r}\right)^{2}=\frac{1}{5}Mv^{2}=320\ \text{J}[/math], সুতরাং মোট = [math]800+320=1120\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 407008)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কেন্দ্রগামী ও লম্ব বরাবর অক্ষের সাপেক্ষে একটি চাকার জড়তার ভ্রামক [math]500 \mathrm{~kg} \c dot \mathrm{m}^{2}[/math]। চাকাটিতে [math]2.5 \mathrm{rad} / \mathrm{sec}^{2}[/math] কৌণিক ত্বরণ সৃষ্টি করতে হলে কী পরিমাণ টর্ক প্রয়োগ করতে হবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 1250 J )[math]\\[/math]
+Solution :এখানে,জড়তার ভ্রামক, [math]\mathrm{I}=500 \mathrm{\ kgm}^{2}[/math]
+কৌণিক ত্বরণ, [math]\alpha=2.5 \mathrm{\ rads}^{-2}[/math]
+টর্ক = ?আমরা জানি,[math]\begin{aligned}\tau & =\mathrm{I} \alpha \\& =500 \mathrm{kgm}^{2} \times 2.5 \mathrm{rads}^{-2} \\& =1250 \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘূর্ণনগতিতে টর্ক এবং কৌণিক ত্বরণের সম্পর্ক হল [math]τ=Iα[/math], যেখানে [math]I[/math] হলো জড়তার ভ্রামক এবং [math]α[/math] কৌণিক ত্বরণ। তাই [math]τ=500\times2.5=1250\ \mathrm{N\!·m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 407009)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ বালতিকে উল্লম্বতলে বৃত্তাকার পথে ঘুরানো হবে। বৃত্তাকার পথটির ব্যাসার্ধ 0.600 m । সর্বনিম্ন কত দ্রুতিতে ঘুরালে সর্বোচ্চ অবস্থানেও পানি বালতি থেকে পড়বে না?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2.42 \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে, বৃত্তাকার পথের ব্যাসার্ধ, r = 0.6mঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+বালতির বেগ, v = ?উল্লম্ব তলে ঘূর্ণায়মান বালতির প্রয়োজনীয় কেন্দ্রমুখী ত্বরণ , অভিকর্ষজ ত্বরণের সমান হলে বালতি হতে পানি পড়বে না।[math]\therefore g=\frac{v^{2}}{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]v^{2}=r g[/math]
+ [math]\Rightarrow[/math]
+ [math]v=\sqrt{r g}[/math]
+ [math]\Rightarrow[/math]
+ [math]v=\sqrt{0.6 \times 9.8)}[/math]
+ [math]\therefore \mathrm{v}=2.42 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: বৃত্তের শীর্ষে পানি পড়বে না যদি সেখানে কেন্দ্রীয় ত্বরণ কমপক্ষে [math]g[/math] হয়, কারণ তখন মাধ্যাকর্ষণকেই কেন্দ্রীয় বল হিসেবে পূরণ করা যায়। শীর্ষে বলরেখা থেকে [math]m v^2/r = mg + N[/math] এবং সর্বনিম্নে [math]N=0[/math] হলে [math]v^2 = gr[/math], অতএব [math]v_{\min}=\sqrt{gr}[/math]. সংখ্যায়, [math]v_{\min}=\sqrt{9.8\times0.600}\approx2.43\ \text{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 407000)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+একটি L দৈর্ঘ্যের এবং m ভরের সুষম দণ্ডের একটি প্রান্ত একটি ঘর্ষণহীন পিন (O বিন্দু) দ্বারা আটকানো দণ্ডটির অনুভূমিক অবস্থান হতে ছেড়ে দেয়া হল (চিত্রানুযায়ী) যেন তার সর্বনিম্ন অবস্থানে ভারকেন্দ্র O বিন্দু হয়।
+
+Options:
+গ. সর্বনিম্ন অবস্থানে দণ্ডটির কৌণিক দ্রুতি কত?
+
+
+Correct Answer: 
+
+Solution:
+গসুষম দণ্ডের প্রান্তবিন্দুগামী অক্ষের সাপেক্ষে জড়তার ভ্রামক,[math]\mathrm{I}=\frac{\mathrm{mL}^{2}}{3}[/math]
+এখন, সর্বোচ্চ অবস্থানে বিভব শক্তি = সর্বনিম্ন অবস্থানে গতিশক্তি,এখানে,দণ্ডটির দৈর্ঘ্য = Lদণ্ডের ভর = mঅভিকর্ষজ ত্বরণ = gভারকেন্দ্রের সরণ, [math]h=\frac{L}{2}[/math]
+কৌণিক দ্রুতি, [math]\omega=?[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{mgh}=\frac{1}{2} \mathrm{I} \omega^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{mg} \cdot \frac{\mathrm{L}}{2}=\frac{1}{2} \cdot \frac{\mathrm{mL}^{2}}{3} \cdot \omega^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{gL}=\frac{\mathrm{L}^{2} \omega^{2}}{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega^{2}=\frac{3 \mathrm{gL}}{\mathrm{L}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega^{2}=\frac{3 \mathrm{~g}}{\mathrm{~L}} \quad \therefore \omega=\sqrt{\frac{3 \mathrm{~g}}{\mathrm{~L}}}[/math]
+ [math]\therefore[/math]
+ সর্বনিম্ন অবস্থানে দণ্ডটির কৌণিক দ্রুতি [math]=\sqrt{\frac{3 g}{L}} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: 
+গ সঠিক — শক্তি সংরক্ষণ অনুযায়ী ডানদিকে ভরকেন্দ্র [math]\displaystyle \frac{L}{2}[/math] নিচে নেমে হারানো গ্রহণযোগ্য বলীয় শক্তি [math]mg\frac{L}{2}[/math] সম্পূর্ণ রূপে ঘূর্ণনগত কাইনেটিক শক্তিতে রূপান্তর হয়: [math]mg\frac{L}{2}=\tfrac{1}{2}I\omega^2[/math] এবং অধিকারের জন্য [math]I=\tfrac{1}{3}mL^2[/math]। সুতরাং [math]mg\frac{L}{2}=\tfrac{1}{6}mL^2\omega^2\Rightarrow\omega=\sqrt{\tfrac{3g}{L}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 406988)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আমরা জানি যে, কোনো বস্তুর উপর বল প্রয়োগে ত্বরণ সৃষ্টি হয়, কিন্তু আমাদের দৈনন্দিন অভিজ্ঞতা বলে যে, কৌণিক ত্বরণের সাথে সংশ্লিষ্ট রাশি বল নয়। দেখা গেছে যে, কোনো দরজার উপর প্রযুক্ত বল যে কৌণিক ত্বরণ সৃষ্টি করে তা নির্ভর করে শুধুমাত্র বলের উপর নয়, এটা নির্ভর করে বল এবং বল কোথায় প্রয়োগ করা হয়েছে আর কোনদিকে প্রয়োগ করা হয়েছে তার উপর। দরজার কবজার উপর সরাসরি প্রযুক্ত বল কোনো কৌণিক ত্বরণই সৃষ্টি করে না, কিন্তু একই মানের বল যদি দরজার বাইরের প্রান্তে দরজার সাথে লম্বভাবে প্রয়োগ করা হয়, তাহলে সর্বোচ্চ কৌণিক ত্বরণ সৃষ্টি করে।
+
+Options:
+ঘ. টর্ক ও কৌণিক ত্বরণের সম্পর্ক বের কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, একটি বস্তু একটি নির্দিষ্ট অক্ষ XY-এর চারদিকে [math]\omega[/math]
+ সমকৌণিক বেগে ঘুরছে [চিত্র-২]।
+[Image]
+বস্তুটির ঘূর্ণন কেন্দ্র O।বস্তুটির উপর [math]\overrightarrow{\mathrm{F}}[/math]
+ যুগল বল প্রয়োগে তার কৌণিক বেগ বৃদ্ধি পাবে অর্থাৎ বস্তুতে কৌণিক ত্বরণ সৃষ্টি হবে। বস্তুতে সৃষ্ট এই কৌণিক ত্বরণ [math](\alpha)[/math]
+ তার প্রত্যেকটি কণার কৌণিক ত্বরণের সমান। কিন্তু ভিন্ন ভিন্ন কণাতে রৈখিক ত্বরণ ভিন্ন ভিন্ন।ধরি, বস্তুটি [math]\mathrm{m}_{1}, \mathrm{~m}_{2}, \mathrm{~m}_{3}[/math]
+ --------ইত্যদি ভরের কণার সমন্বয়ে গঠিত এবং ঘূর্ণন অক্ষ হতে কণাগুলোর দূরত্ব যথাক্রমে [math]r_{1}, r_{2}, r_{3}[/math]
+ --- ইত্যাদি।[math]\therefore[/math]
+ প্রত্যেকটি কণার কৌণিক ত্বরণ, [math]\alpha=\frac{\mathrm{d} \omega}{\mathrm{dt}}[/math]
+এখন, [math]\mathrm{m}_{1}[/math]
+ ভরের কণার রৈখিক ত্বরণ [math]=r_{1} \frac{d \omega}{d t}[/math]
+এবং [math]\mathrm{m}_{1}[/math]
+ কণার উপর প্রযুক্ত বল [math]=\mathrm{m}_{1} \mathrm{r}_{1} \frac{\mathrm{d} \omega}{\mathrm{dt}}[/math]
+ [math]\therefore[/math]
+ ঘূর্ণন অক্ষের সাপেক্ষে কণাটির উপর ক্রিয়াশীল বলের ভ্রামক = বল [math]\times[/math]
+ ঘূর্ণন অক্ষ হতে কণার দূরত্ব,[math]=\mathrm{m}_{1} \mathrm{r}_{1} \frac{\mathrm{d} \omega}{\mathrm{dt}} \times \mathrm{r}_{1}=\mathrm{m}_{1} \mathrm{r}_{1}^{2} \frac{\mathrm{d} \omega}{\mathrm{dt}} \times \mathrm{m}_{1} \mathrm{r}_{1}^{2} \alpha[/math]
+একইভাবে [math]\mathrm{m}_{2}, \mathrm{~m}_{3}, \mathrm{~m}_{4}[/math]
+, ----- ইত্যাদি ভরের কণার জন্য ক্রিয়ারত বলের ভ্রামক যথাক্রমে [math]\mathrm{m}_{2} \mathrm{r}_{2}^{2} \alpha, \mathrm{m}_{3} \mathrm{r}_{3}^{2} \alpha, \mathrm{m}_{4} \mathrm{r}_{4}^{2} \alpha[/math]
+ ইত্যাদি।তাহলে উপরোক্ত বলের ভ্রামকগুলোর সমষ্টিই উক্ত বস্তুর ওপর ক্লিয়ারত বলের ভ্রামক বা টর্ক।[math]\therefore[/math]
+ টর্ক, [math]\tau=\mathrm{m}_{1} \mathrm{r}_{1}^{2} \alpha+\mathrm{m}_{2} \mathrm{r}_{2}^{2} \alpha+\mathrm{m}_{3} \mathrm{r}_{3}^{2} \alpha+[/math]
+ ........[math]=\left(m_{1} r_{1}^{2}+m_{2} r_{2}^{2}+m_{3} r_{3}^{2}+\right.[/math]
+............) [math]\alpha[/math]
+ [math]\begin{array}{l}=\left(\sum \mathrm{mr}^{2}\right) \cdot \alpha \\=\mathrm{I} \alpha\left[\because \mathrm{I}=\sum \mathrm{mr}^{2}\right]\end{array}[/math]
+ [math]\therefore \tau=\mathrm{I} \alpha[/math]
+ [math]\Rightarrow[/math]
+, টর্ক = জড়তার ভ্রামক [math]\times[/math]
+ কৌণিক ত্বরণ, ইহাই নির্ণেয় সম্পর্ক।
+
+Explanation:
+ব্যাখ্যা:
+ঘ টর্ক হল অবস্থান ভেক্টর এবং বলের ক্রস প্রোডাক্ট, যার পরিমাণ [math]\tau = rF\sin\theta[/math]; তাই দরজার কবজায় (প্রায় [math]r=0[/math]) একই বল দিয়ে টর্ক শূন্য হয় কিন্তু দরজার প্রান্তে বড় [math]r[/math] হলে টর্ক বেশি হয়। নেট টর্কই কৌণিক ত্বরণ নির্ধারণ করে এবং তাদের সম্পর্ক হলো [math]\tau_{net}=I\alpha[/math], যেখানে [math]I[/math] জড়ত্ব মুহূর্ত; তাই বড় টর্কে একই [math]I[/math] জন্য বড় কৌণিক ত্বরণ [math]\alpha[/math] আসে।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 406989)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বৈদ্যুতিক মোটরের সাহায্যে r ব্যাসার্ধের একটি বৃত্তাকার চাকতিকে তার কেন্দ্র দিয়ে অভিলম্বভাবে গমনকারী অক্ষের সাপেক্ষে ω সমকৌণিক বেগে ঘুরানো হচ্ছিল। সুইচ বন্ধ করায় এটি [math]\alpha[/math] সমকৌণিক মন্দনে চলে স্থির হয়ে গেল।
+
+Options:
+গ. চাকতিটি থেমে যাওয়ার আগে এর প্রান্তের কোনো কণা রৈখিক দূরত্ব অতিক্রম করে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,চাকতির ব্যাসার্ধ = rআদি কৌণিক বেগ, [math]\omega_{i}=\omega[/math]
+সমকৌণিক মন্দন, [math]=\alpha[/math]
+শেষ কৌণিক বেগ, [math]\omega_{\mathrm{f}}=0[/math]
+কৌণিক সরণ, [math]\theta=?[/math]
+আমরা জানি,সমকৌণিক মন্দনের জন্য,[math]\omega_{\mathrm{f}}^{2}=\omega_{\mathrm{i}}^{2}-2 \alpha \theta[/math]
+ [math]\Rightarrow[/math]
+ [math]0^{2}=\omega^{2}-2 \alpha \theta[/math]
+ [math]\Rightarrow[/math]
+ [math]\theta=\frac{\omega^{2}}{2 \alpha}[/math]
+ [math]\therefore[/math]
+ অতিক্রান্ত রৈখিক দূরত্ব,[math]\begin{array}{l}\mathrm{s}=\mathrm{r} \theta=\mathrm{r} \times \frac{\omega^{2}}{2 \alpha} \\\therefore \mathrm{s}=\frac{\omega^{2} \mathrm{r}}{2 \alpha}\end{array}[/math]
+ [math]\therefore[/math]
+ চাকতিটি থেমে যাওয়ার আগে এর প্রান্তের কোনো কণা [math]\frac{\omega^{2} \mathrm{r}}{2 \alpha}[/math]
+ রৈখিক দূরত্ব অতিক্রম করে। (Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ চাকতির কোন প্রান্তিক কণার মোট কোণীয় পরিবর্তন পাওয়া যায় ঘর্ষণহীন ঘূর্ণনের সমীকরণ থেকে [math]0=\omega^2-2\alpha\theta[/math], তাই [math]\theta=\dfrac{\omega^2}{2\alpha}[/math]। তাই রৈখিক দূরত্ব হবে [math]s=r\theta=\dfrac{r\omega^2}{2\alpha}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 406990)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বৈদ্যুতিক মোটরের সাহায্যে r ব্যাসার্ধের একটি বৃত্তাকার চাকতিকে তার কেন্দ্র দিয়ে অভিলম্বভাবে গমনকারী অক্ষের সাপেক্ষে ω সমকৌণিক বেগে ঘুরানো হচ্ছিল। সুইচ বন্ধ করায় এটি [math]\alpha[/math] সমকৌণিক মন্দনে চলে স্থির হয়ে গেল।
+
+Options:
+ঘ. চাকতি থামার সময় তার (i) প্রান্তের কোনো বিন্দুতে এবং (ii) প্রান্ত ও কেন্দ্রের ঠিক মধ্যবিন্দুতে কত টর্ক প্রযুক্ত হয়েছিল। গাণি তিক বিশ্লেষণের মাধ্যমে বের কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, চাকতির প্রতিটি বিন্দুকণার ভর = mএখানে,বৃত্তাকার চাকতির ব্যাসার্ধসমকৌণিক বেগ [math]=\omega[/math]
+সমমন্দন [math]=\alpha[/math]
+i. চাকতির প্রান্তের 'কোনো বিন্দুর জন্য ঘূর্ণন অক্ষ হতে বিন্দুকণার দূরত্ব = r[math]\therefore[/math]
+ জড়তার ভ্রামক, [math]\mathrm{I}=\mathrm{mr^{2 }}[/math]
+প্রান্তের কোনো বিন্দুতে ক্রিয়াশীল টর্ক, [math]\tau_{1}=I_{1} \alpha[/math]
+ [math]\therefore \tau_{1}=\mathrm{mr}^{2} \alpha[/math]
+ii. প্রান্ত ও কেন্দ্রের ঠিক মধ্যবর্তী বিন্দুর জন্য, ঘূর্ণন অক্ষ হতে বিন্দুকণার দূরত্ব [math]=\frac{r}{2}[/math]
+ [math]\therefore[/math]
+ জড়তার ভ্রামক, [math]\mathrm{I}_{2}=\mathrm{m} \cdot\left(\frac{\mathrm{r}}{2}\right)^{2}=\frac{1}{4} \mathrm{mr}^{2}[/math]
+কেন্দ্র ও প্রান্তের ঠিক মধ্যবর্তী বিন্দুতে ক্রিয়াশীল টর্ক,[math]\begin{aligned}\tau_{2} & =\mathrm{I}_{2} \alpha \\\tau_{2} & =\frac{1}{4} \mathrm{mr}^{2} \alpha\end{aligned}[/math]
+ [math]\therefore \tau_{1}, \tau_{2}[/math]
+ এর 4 গুণ অর্থাৎ প্রান্তের বিন্দুতে ক্রিয়াশীল টর্ক বেশি।
+
+Explanation:
+ব্যাখ্যা: একটি দূরত্ব [math]s[/math] এ থাকা ক্ষুদ্র ভর [math]m[/math]–বিন্দুর কক্ষীয় (তাংজেন্টিয়াল) ত্বরণ হবে [math]a_t=\alpha s[/math], তাই তাংজেন্টিয়াল বল [math]F_t=m\alpha s[/math] এবং ওই বিন্দুতে অক্ষের প্রতি টর্ক হবে [math]\tau=sF_t=m\alpha s^2[/math]। অতএব (i) প্রান্তে [math]s=r[/math] হলে [math]\tau=m\alpha r^2[/math], এবং (ii) কেন্দ্র ও প্রান্তের মধ্যবিন্দুতে [math]s=r/2[/math] হলে [math]\tau=m\alpha\left(\dfrac{r}{2}\right)^2=m\alpha r^2/4[/math] (টর্কের অনুপাত 4:1)।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 406991)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ফ্লাই হুইলের জড়তার ভ্রামক 100 [math]\mathrm{kgm}^{-2}[/math] । ফ্লাই হুইলটি প্রতি মিনিটে 50000 বার ঘুরছিল। সুষম ব্রেক প্রয়োগ করে একে 30 সেকেন্ডে থামানো হলো।
+
+Options:
+ঘ. থেমে যাওয়ার আগে ফ্লাই হুইলটির পক্ষে 25000 বার ঘুরা সম্ভব কি না গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,আদি কৌণিক বেগ, [math]\omega_{0}=5236 \mathrm{\ rads}^{-1}[/math]
+ [‘গ’ হতে]শেষ কৌণিক বেগ, [math]\omega=0 \mathrm{rads}^{-1}[/math]
+সময়, t = 30sকৌণিক ত্বরণ, [math]\alpha=-174.5333 \mathrm{\ rads}^{-2}[/math]
+ [‘গ’ হতে]ঘূর্ণন সংখ্যা, n=?আমরা জানি,[math]\begin{aligned}\theta & =\omega_{0} \mathrm{t}+\frac{1}{2} \alpha \mathrm{t}^{2} \\& =5236 \times 30-\frac{1}{2} \times \\& 174.5333 \times(30)^{2} \\= & 78540.015\end{aligned}[/math]
+ [math]\therefore[/math]
+ ঘূর্ণন সংখ্যা, [math]\mathrm{n}=\frac{\theta}{2 \pi}[/math]
+ [math]\begin{array}{l}=\frac{78540.015}{2 \times 3.1416} \\=12500<25000\end{array}[/math]
+সুতরাং, ব্রেক করা থেকে থামা পর্যন্ত ফ্লাই হুইলটি 25000 বার ঘুরবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ না — থেমে যাওয়ার আগে কেবল [math]12500[/math] বার ঘুরবে। কারণ ফ্রিকোয়েন্সি [math]f=50000/60\approx833.33\ \text{rev/s}[/math] এবং সমবিন্যস্ত অবচলনে মোট ঘূর্ণন সংখ্যা [math]N=\tfrac{1}{2}ft=\tfrac{1}{2}\times833.33\times30=12500[/math], যা [math]25000[/math]-এর চেয়ে কম।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 406992)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মিন্টু একটি সুতলীর এক প্রান্তে 1 kg ভরের একটি বস্তু বেঁধে অনুভূমিকভাবে বৃত্তাকার পথে প্রতি মিনিটে 75 বার ঘুরাচ্ছে। সুতলীর দৈর্ঘ্য 1 m এবং এটি সর্বোচ্চ 100N টান সহ্য করতে পারে। মিন্টু যখন বস্তুটিকে ক্রমশ জোরে ঘুরাতে শুরু করল, এক সময় সুতলী ছিড়ে গেল।
+
+Options:
+গ. মিন্টু যখন প্রতি মিনিটে 75 বার ঘুরাচ্ছিল তখন সুতলীর উপর কত টান পড়েছিল?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, ভর, m = 1kgব্যাসার্ধ, r = 1mসময়, t = 1 min = 60sকেন্দ্রমুখী বল, F = ?আমরা জানি,[math]\begin{aligned}\omega & =2 \pi \frac{\mathrm{N}}{\mathrm{t}} \\& =2 \pi \frac{75}{60 \mathrm{~s}} \\& =7.854 \mathrm{\ rads}^{-1}\end{aligned}[/math]
+আবার,কেন্দ্ৰমুখী বল,[math]\begin{aligned}\mathrm{F} & =\mathrm{m} \omega^{2} \mathrm{r} \\& =1 \mathrm{~kg} \times\left(7.854 \mathrm{rads}^{-1}\right)^{2} \times 1 \mathrm{~m} \\& =61.685 \mathrm{~N}^{} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ সুতলীর উপর কেন্দ্রগত বল (টান) হবে [math]T=mrω^2[/math] যেখানে [math]f=75/60=1.25\ \text{Hz}[/math] এবং [math]ω=2πf=2.5π\ \text{rad/s}[/math]. তাই [math]T=1×1×(2.5π)^2=6.25π^2≈61.7\ \text{N}[/math], অর্থাৎ টান প্রায় [math]61.7\ \text{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 406993)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মিন্টু একটি সুতলীর এক প্রান্তে 1 kg ভরের একটি বস্তু বেঁধে অনুভূমিকভাবে বৃত্তাকার পথে প্রতি মিনিটে 75 বার ঘুরাচ্ছে। সুতলীর দৈর্ঘ্য 1 m এবং এটি সর্বোচ্চ 100N টান সহ্য করতে পারে। মিন্টু যখন বস্তুটিকে ক্রমশ জোরে ঘুরাতে শুরু করল, এক সময় সুতলী ছিড়ে গেল।
+
+Options:
+ঘ. সুতলী ছেঁড়ার মুহূর্তে বস্তুর রৈখিক বেগ ও কৌণিক বেগ নির্ণয় করা সম্ভব কি না যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘসুতলি ছেঁড়ার মুহূর্তে বস্তুর রৈখিক বেগ ও কৌণিক বেগ নির্ণয় করা সম্ভব।সেই মুহূর্তে সুতলিটির টান অর্থাৎ কেন্দ্রমুখী বল, F = 100Nএখানে,ভর, m = 1 kgব্যাসার্ধ, r = r=1mরৈখিক বেগ, v=?কৌণিক বেগ, W =?কেন্দ্রমুখী বল বা সুতার টান,[math]\mathrm{F}=\mathrm{m} \omega^{2} \mathrm{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega=\sqrt{\frac{\mathrm{F}}{\mathrm{mr}}}[/math]
+ [math]=\sqrt{\frac{100 \mathrm{~N}}{1 \mathrm{~kg} \omega \times 1 \mathrm{~m}}}=10 \mathrm{rads}^{-1}[/math]
+আবার, রৈখিক বেগ v হলে, [math]\mathrm{v}=\omega \mathrm{r}=10 \mathrm{rads}^{-1} \times 1 \mathrm{~m}=10 \mathrm{~ms}^{-1}[/math]
+সুতরাং, সুতলি ছেঁড়ার মুহূর্তে রৈখিক বেগ ও কৌণিক বেগ নির্ণয় করা সম্ভব।
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ, নির্ণয় করা যায় — টেনশন সর্বোচ্চ হলে সেটি কেন্দ্রবিন্দু বল, তাই [math]T=mv^2/r[/math] থেকে [math]v=\sqrt{Tr/m}=\sqrt{100\times1/1}=10\ \text{m/s}[/math] এবং কোণগত বেগ [math]\omega=v/r=10\ \text{rad/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 406994)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চারজন বালক সাইকেল চালিয়ে যাচ্ছিল। হঠাৎ একটি রাস্তার বাক অতিক্রম করতে গিয়ে তিনজন উল্টে পড়ে গেল। একজন পড়ল। না। লোকজন দৌড়ে এসে তিনজনকে ওঠাল। একজন লোক ঐ তিনজনকে বলল যে, সাইকেল চালিয়ে রাস্তার বাঁক অতিক্রম করার কায়দা জানতে হয়, নইলে উল্টেতো পড়বেই। তার কথা শুনে অন্যরা তার মুখের দিকে অবাক হয়ে তাকিয়ে থাকলো।
+
+Options:
+গ. প্রমাণ কর যে, কোনো স্থির অক্ষের চারদিকে ঘূর্ণ একটি বস্তুর টর্ক তার জড়তার ভ্রামক ও কৌণিক ভরণের গুণফলের সমান।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, একটি দৃঢ় বস্তুর ওপর F বল প্রয়োগ করায় বস্তুটি কোনো একটি অক্ষেরে সাপেক্ষে [math]\alpha[/math]
+ সমকৌণিক ত্বরণে ঘূর্ণায়মান। উক্ত বস্তুর যে কোনো একটি কণার ভর [math]\mathrm{m}_{1}[/math]
+, ঘূর্ণন অক্ষ থেকে কণাটির লম্ব দূরত্ব [math]\mathrm{r}_{1}[/math]
+ এবং কণাটির ত্বরণ [math]\alpha_{1}[/math]
+ হলে- ঘূর্ণন অক্ষের সাপেক্ষে কণাটির ওপর প্রযুক্তি টর্ক,[math]\begin{aligned}\tau_{1} & =\mathrm{Fr}_{1} \\& =\mathrm{m}_{1} \mathrm{a}_{1} \mathrm{r}_{1} \\& =\mathrm{m}_{1} \alpha \mathrm{r}_{1}^{2},\left[\because \mathrm{a}_{1}=\mathrm{r}_{1} \alpha\right] \\& =\alpha \mathrm{m}_{1} \mathrm{r}_{1}^{2}\end{aligned}[/math]
+অনুরূপভাবে ঘূর্ণন অক্ষের সাপেক্ষে [math]\mathrm{m}_{2}[/math]
+ ভরের কণাটির ওপর প্রযুক্ত টর্ক,[math]\tau_{2}=\alpha m_{2} r_{2}^{2}[/math]
+এভাবে প্রতিটি বস্তুকণার ওপর প্রযুক্তি টর্ক বের করে তাদের সমষ্টি নিলে সম্পূর্ণ বস্তুটির টর্ক [math]\tau[/math]
+ পাওয়া যাবে।[math]\tau=\tau_{1}+\tau_{2}+\tau_{3}+[/math]
+ ............[math]=\alpha \mathrm{m}_{1} \mathrm{r}_{1}^{2}+\alpha \mathrm{m}_{2} \mathrm{r}_{2}^{2}+\alpha \mathrm{m}_{3} \mathrm{r}_{3}^{2}+[/math]
+ ...........[math]=\alpha\left(\mathrm{m}_{1} \mathrm{r}_{1}^{2}+\mathrm{m}_{2} \mathrm{r}_{2}^{2}+\mathrm{m}^{3} \mathrm{r}_{3}^{2}+\right.[/math]
+ ...........)[math]=\alpha \sum \mathrm{m}_{1} \mathrm{r}_{1}^{2}[/math]
+ হলো ঘূর্ণন অক্ষের সাপেক্ষ জড়তার ভ্রামক।[math]\therefore \tau=\mathrm{I} \alpha[/math]
+টর্ক = জড়তার ভ্রামক [math]\times[/math]
+ কৌণিক ত্বরণ।সুতরাং, বস্তুটির উপর ক্রিয়ারত টর্ক তার জড়তার ভ্রামক ও কৌণিক ত্বরণের গুণফলের সমান। [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: কোনো কঠোর বস্তুকে অক্ষের চারদিকে কণা নিয়ে ধরে নিচ্ছি; প্রতিটি কণার স্পর্শকীয় ত্বরণ হবে [math]a_i=r_i\alpha[/math], তাই তাতে লেগে থাকা শক্তি হবে [math]F_i=m_i a_i=m_i r_i\alpha[/math]. মোট টর্ক হবে [math]\tau=\sum r_iF_i=\sum r_i(m_i r_i\alpha)=(\sum m_i r_i^2)\alpha=I\alpha[/math]; ধারাবাহিক বস্তুর জন্য একই যুক্তি দিয়ে [math]\tau=\int r\,dF=\alpha\int r^2\,dm=I\alpha[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 406995)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি গাড়ি রাস্তার 50 m ব্যাসার্ধবিশিষ্ট অংশে নিরাপদে সর্বোচ্চ [math]25 \mathrm{\ kmh}^{-1}[/math] বেগে বাঁক নিতে পারে।
+
+Options:
+ঘ. বৃত্তাকার পথে সাইকেল চালানোর সময় আরোহীকে সাইকেলসহ কেন্দ্রের দিকে হেলে পড়তে হয় কেন যথাযথ যুক্তি ও সমীকরণ সহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘবৃত্তাকার পথে সাইকেলসহ আরোহীকে বৃত্তের কেন্দ্রের দিকে অনুভূমিক বরাবর একটি কেন্দ্রমুখী বলের প্রয়োজন হয়। এই কেন্দ্রমুখী বলের যোগান দিতে সাইকেলসহ আরোহীকে কেন্দ্রের দিকে হেলতে হয়।যদি আরোহী উল্লম্বের সাথে [math]\theta[/math]
+ কোণে হেলে থাকে তবে, প্রতিক্রিয়া বল R উল্লম্বের সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করবে। এখন R এর উল্লম্ব উপাংশ [math]\mathrm{R} \cos \theta[/math]
+ আরোহীর ওজন প্রশমিত করবে।
+[Image]
+[math]\therefore \mathrm{R} \cos \theta=\mathrm{mg}[/math]
+ ........(1)এবং অনভূমিক উপাংশ [math]\mathrm{R} \sin \theta[/math]
+, প্রয়োজনীয় কেন্দ্রমুখী বল [math]\frac{\mathrm{mv}^{2}}{\mathrm{r}}[/math]
+ সরবরাহ করবে।[math]\therefore \mathrm{R} \sin \theta=\frac{\mathrm{m} \mathrm{v}^{2}}{\mathrm{r}}[/math]
+ .............(2)সমীকরণ (2) কে (1) দ্বারা ভাগ করে পাই,[math]\begin{array}{l}\tan \theta=\frac{\mathrm{v}^{2}}{\mathrm{rg}} \\\therefore \theta=\tan ^{-1}\left(\frac{\mathrm{v}^{2}}{\mathrm{rg}}\right)\end{array}[/math]
+আরোহীকে v বেগে r ব্যাসার্ধের বাঁকে মোড় নিতে হলে উল্লম্বের সাথে [math]\theta[/math]
+ কোণে হেলতে হবে।
+
+Explanation:
+ঘ কেন্দ্রাগ্রহণের বল (centripetal force) পেতে আরোহীকে সাইকেলসহ কেন্দ্রের দিকে হেলতে হয় যাতে চাকা-সড়কের মধ্যকার নরমাল রিয়্যাকশন ও ওজনের ফলফলক কেন্দ্রের দিকে নির্দেশ করে। সমীকরণগুলো: [math]N\sin\theta=\dfrac{mv^2}{r},\quad N\cos\theta=mg[/math] থেকে [math]\tan\theta=\dfrac{v^2}{rg}[/math], অর্থাৎ নির্দিষ্ট বেগে নির্দিষ্ট কোণে হেলে নিলেই কেন্দ্রাগ্রহণ বজায় থাকে এবং উল্টে পড়ে না।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 406996)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি চাকার ভর 6 kg এবং চক্রগতির ব্যাসার্ধ 40cm । চাকাটি প্রতি মিনিটে 300 বার ঘুরে। এর জড়তার ভ্রামক এবং ঘূর্ণন গতি শক্তি বের করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.96 \mathrm{~kg} \mathrm{~m}^{2}[/math]
+ , [math]473.26 \mathrm{~J}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,চাকার ভর; M = 6 kgচক্রগতির ব্যাসার্ধ, [math]\mathrm{K}=40 \mathrm{~cm}=0.4 \mathrm{~m}[/math]
+চাকার কৌণিক বেগ,[math]\begin{aligned}\omega & =\frac{300 \times 2 \pi}{60} \mathrm{rads}^{-1} \\& =31.4 \mathrm{rad} \mathrm{s}^{-1}\end{aligned}[/math]
+জড়তার ভ্রামক, [math]I=\text { ? }[/math]
+ঘূর্ণন গতিশক্তি, E = ?আমরা জানি,[math]\begin{aligned}\mathrm{I}=\mathrm{MK}^{2} & =6 \mathrm{~kg} \times(0.4 \mathrm{~m})^{2} \\& =0.96 \mathrm{~kg} \mathrm{~m}\end{aligned}[/math]
+এবং [math]E=\frac{1}{2} I \omega^{2}[/math]
+ [math]\begin{array}{l}=\frac{1}{2} \times 0.96 \mathrm{~kg} \mathrm{~m}^{2} \times\left(31.4 \mathrm{rad} \mathrm{s}^{-1}\right)^{2} \\=473.26 \mathrm{~J} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: চাকা যদি সমতল কঠিন ডিস্ক ধরা হয় তবেঃ জড়তার ভ্রামক [math]I=\tfrac{1}{2}mr^2[/math] এবং ঘূর্ণন শক্তি [math]K=\tfrac{1}{2}I\omega^2[/math], যেখানে [math]\omega=2\pi(300/60)=10\pi\ \text{rad/s}[/math]।  
+এখানে [math]I=\tfrac{1}{2}\times6\times(0.4)^2=0.48\ \text{kg·m}^2[/math]।  
+তাই [math]K=\tfrac{1}{2}\times0.48\times(10\pi)^2=24\pi^2\ \text{J}\approx236.9\ \text{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 406997)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নির্দিষ্ট অক্ষকে কেন্দ্র করে [math]13 \mathrm{\ rad} \mathrm{s}^{-1}[/math] কৌণিক বেগে ঘূর্ণনরত একটি চাকার গতিশক্তি 2 9 J। ঘূর্ণন অক্ষের সাপেক্ষে চাকাটির জড়তার ভ্রামক নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.34 \mathrm{~kg} \mathrm{~m}^{2}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে ,কৌণিক বেগ , [math]\omega=13 \mathrm{rad} \mathrm{s}{ }^{-1}[/math]
+গতিশক্তি, E = 29 Jজড়তার ভ্রামক, [math]I=?[/math]
+আমরা জানি, [math]\mathrm{E}=\frac{1}{2} \mathrm{I} \omega^{2}[/math]
+ [math]\therefore \quad I=\frac{2 E}{\omega^{2}}[/math]
+ [math]=\frac{2 \times 29 \mathrm{~J}}{\left(13 \mathrm{rad} \mathrm{s}^{-1}\right)^{2}}=0.34 \mathrm{~kg} \mathrm{~m}^{2} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘূর্ণনগতিশক্তি সূত্র হলো [math]K=\tfrac{1}{2}I\omega^2[/math], তাই জড়তার ভ্রামক [math]I[/math] বের করতে হবে: [math]I=\dfrac{2K}{\omega^2}[/math]. সংখ্যাসূত্রে বসালে [math]I=\dfrac{2\times 29}{13^2}=\dfrac{58}{169}\approx 0.343\ \mathrm{kg\,m^2}[/math]. তাই চাকাটির জড়তার ভ্রামক প্রায় [math]0.343\ \mathrm{kg\,m^2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 406998)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+5 kg ভরের একটি দৃঢ় বস্তু ঘূর্ণন অক্ষ থেকে 1.5 m দূরে 5 [math]\text { rads }^{-1}[/math] কৌণিক দ্রুতিতে ঘুরছে। এর জড়তার ভ্রামক এবং ঘূর্ণন গতিশক্তি নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 140.625 J)
+
+Explanation:
+বস্তুকে অক্ষ থেকে নির্দিষ্ট দূরত্বে কেন্দ্রীভূত বিন্দু ভরের মতো ধরা হয়, তাই জড়তার ভ্রামক [math]I=mr^2[/math]; এখানে [math]I=5\times(1.5)^2=11.25\ \mathrm{kg\,m^2}[/math]. ঘূর্ণনগতিশক্তি হলো [math]K=\tfrac{1}{2}I\omega^2[/math], তাই [math]K=\tfrac{1}{2}\times11.25\times5^2=140.625\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 406999)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+6000 [math]\mathrm{rad} \mathrm{s}^{-1}[/math] কৌণিক বেগে ঘূর্ণনরত একটি ঢাকার জড়তার ভ্রামক [math]80 \mathrm{\ kgm}^{2}[/math]। সুষম ব্রেক প্রয়োগ করে একে 30s এ থামানো হল ।
+
+(ক) ব্রেক প্রয়োগ করা হলে এর কৌণিক ত্বরণ কত?
+
+(খ) এই সময়ে এটি কতবার ঘুরবে?
+
+(গ) ব্রেকটি কত টর্ক সরবরাহ করে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]-200 \mathrm{\ rad} \mathrm{s}^{-2}[/math]
+ (খ) [math]14324 \mathrm{\ rev}[/math]
+ (গ) [math]16000 \mathrm{Nm}[/math]
+ )[math]\\[/math]
+Solution :এখানে,আদি কৌণিক বেগ, [math]\omega_{0}=6000 \mathrm{rad} \mathrm{s}^{-1}[/math]
+শেষ কৌণিক বেগ, [math]\omega_{\mathrm{f}}=0[/math]
+জড়তার ভ্রামক, [math]I=80 \mathrm{~kg} \mathrm{~m}^{2}[/math]
+সময়, t = 30 s:(ক) কৌণিক ত্বরণ, [math]\alpha=?[/math]
+(খ) ঘূর্ণন সংখ্যা = ?(গ) টর্ক, [math]\tau[/math]
+ = ?(ক) আমরা জানি, [math]\omega_{\mathrm{f}}=\omega_{0}+\alpha t[/math]
+ [math]\Rightarrow[/math]
+ [math]0=\omega_{0}+\alpha t[/math]
+ [math]\therefore \alpha=-\frac{\omega_{0}}{t}[/math]
+ [math]\begin{array}{l}=-\frac{6000 \mathrm{rad} \mathrm{s}^{-1}}{30 \mathrm{~s}} \\=-200 \mathrm{rad} \mathrm{s}^{-2} \text { (Ans.) }\end{array}[/math]
+(খ) আমরা জানি, [math]\omega_{f}^{2}=\omega_{0}^{2}+2 \alpha \theta[/math]
+ [math]\Rightarrow[/math]
+ [math]0=\left(6000 \mathrm{rads}^{-1}\right)^{2}-2 \times 200 \theta \mathrm{rad} \mathrm{s}^{-2}[/math]
+ [math]\begin{aligned}\therefore \theta & =\frac{\left(6000 \mathrm{rads}^{-1}\right)^{2}}{2 \times 200 \mathrm{rads}^{-2}} \\& =90000 \mathrm{rad} \\& =\frac{90000}{2 \pi} \mathrm{rev} \\& =14324 \mathrm{rev} \text { (Ans.) }\end{aligned}[/math]
+(গ) আবার, [math]\tau=I \alpha[/math]
+ [math]\begin{array}{l}=80 \mathrm{~kg} \mathrm{~m}^{2} \times 200 \mathrm{rad} \mathrm{s}^{-2} \\=16000 \mathrm{Nm} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক কৌণিক ত্বরণ পাওয়া যায় [math]\alpha = \frac{\omega_{\text{final}}-\omega_0}{t}=\frac{0-6000}{30}=-200\ \mathrm{rad\ s^{-2}}[/math], অর্থাৎ ঘূর্ণনগত ত্বরণ বিপরীত দিকের এবং মান [math]200\ \mathrm{rad\ s^{-2}}[/math]।
+
+খ ঘূর্ণনের কোণ্মাত্রা [math]\theta=\omega_0 t+\tfrac{1}{2}\alpha t^2=6000\times30+\tfrac{1}{2}(-200)\times30^2=90000\ \mathrm{rad}[/math], ফলে ঘূর্ণনের সংখ্যা = [math]\frac{\theta}{2\pi}=\frac{90000}{2\pi}\approx14324\ \text{বার}[/math]।
+
+গ ব্রেকের টর্ক = ইনর্শিয়া × কৌণিক ত্বরণ, তাই [math]\tau=I\alpha=80\times(-200)=-16000\ \mathrm{Nm}[/math] (চিহ্নটি নির্দেশ করে টর্কটি ঘূর্ণনের বিপরীত দিকের)।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 406986)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+R ব্যাসার্ধের একটি মসৃণ গোলকের সর্বোচ্চ বিন্দুতে একটি বস্তুকণা স্থাপন করে এটি অতি ক্ষুদ্র সরণ দিয়ে ছেড়ে দেয়া হলো। কোন বিন্দুতে বস্তুকণাটি গোলককে ছেড়ে যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\frac{\mathrm{R}}{3}[/math]
+ )[math]\\[/math]
+Solution :ধরি,O কেন্দ্রবিশিষ্ট R ব্যাসার্ধের একটি গোলকের সর্বোচ্চ বিন্দু A তে m ভরের কোনো বস্তুকণা অবস্থিত। এখন, বস্তুটি A বিন্দু থেকে B বিন্দুতে বৃত্তচাপ বরাবর গড়িয়ে যাচ্ছে যেখানে পৃষ্ঠ বরাবর অতিক্রান্ত অংশ h। ফলে OB ব্যাসার্ধ OA সরলরেখার সাথে g কোণ উৎপন্ন করে।
+[Image]
+এখন, B বিন্দুতে কেন্দ্রমুখী বল [math]\frac{m v^{2}}{\mathrm{R}}[/math]
+ যেখানে v হচ্ছে B বিন্দুতে বস্তুটির বেগ।বস্তুটির ওজন mg সরাসরি উলম্ব বরাবর নিচের দিকে ক্রিয়া করে। ফলে BO বরাবর ওজনের উপাংশ হবে [math]\mathrm{mg} \cos \theta .[/math]
+এখন যদি [math]\mathrm{mg} \cos \theta>\frac{\mathrm{mv}^{2}}{\mathrm{R}}[/math]
+ হয় তবেবস্তুটি পৃষ্ঠ বরাবর আটকে থাকবে। বস্তুটি পৃষ্ঠ বরাবর চলতে থাকবে যখন ,[math]m g \cos \theta=\frac{m v^{2}}{R}[/math]
+ [math]\therefore \cos \theta=\frac{v^{2}}{g R}[/math]
+ ........(1)এখন, A অবস্থান থেকে B অবস্থানে আসার সময় স্থিতিশক্তি গতিশক্তিতে রূপান্তরিত হবে। অর্থাৎ,[math]\mathrm{mgh}=\frac{1}{2} m v^{2}[/math]
+ [math]\therefore \frac{v^{2}}{g}=2 h[/math]
+ ...........(2)এখন, (1) ও (2) থেকে পাই,[math]\cos \theta=\frac{2 h}{R}[/math]
+ ............(3)এখন, AO এর উপর BC লম্বরেখা টানি।[math]\therefore \cos \theta=\frac{\mathrm{OC}}{\mathrm{OB}}=\frac{\mathrm{R}-\mathrm{h}}{\mathrm{R}}[/math]
+ ..........(4)(3) এবং (4) থেকে পাই,[math]\begin{array}{l}\frac{2 \mathrm{~h}}{\mathrm{R}}=\frac{\mathrm{R}-\mathrm{h}}{\mathrm{R}} \\\therefore \mathrm{h}=\frac{\mathrm{R}}{3}\end{array}[/math]
+সুতরাং, উলম্ব বরাবর যখন গোলকটি উলম্ব বরাবর [math]\frac{\mathrm{R}}{3}[/math]
+ করবে তখন বস্তুটি গোলকের পৃষ্ঠ থেকে বিচ্যুত হবে। (Ans)
+
+Explanation:
+বস্তুকণা তখনই গোলককে ছেড়ে যায় যখন গোলকের উপর সাধারণ বল (normal) শূন্য হয়, তাই [math]N=0[/math] নিয়ে কেন্দ্রাত্মক ত্বরক সরবরাহ করে মানে [math]mg\cos\theta=\dfrac{mv^2}{R}[/math]। শক্তি সংরক্ষণ থেকে [math]mgR(1-\cos\theta)=\tfrac12mv^2[/math] বসিয়ে দিলে দাঁড়ায় [math]\cos\theta=2/3[/math], অর্থাৎ শীর্ষ থেকে কোণ [math]\theta=\cos^{-1}(2/3)[/math] এ (নিম্নে নামার উচ্চতা [math]R/3[/math]) ছেড়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 406987)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সিলিন্ডারের ভর 50 kg এবং ব্যাসার্ধ 0.20 m । সিলিন্ডারটির অক্ষের সাপেক্ষে এর জড়তার ভ্রামক [math]1 \mathrm{\ kgm}^{2}[/math] সিলিন্ডারটি [math]2 \mathrm{~ms}^{-1}[/math] বেগে অনুভূমিকভাবে গড়াচ্ছিল ।
+
+Options:
+ঘ. সিলিন্ডারটির মোট গতিশক্তি জানা সম্ভব কি না গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘসিলিন্ডারটির ভর, m = 50 kgরৈখিক বেগ, [math]\mathrm{v}=2 \mathrm{~ms}^{-1}[/math]
+যেহেতু সিলিন্ডারটি তার অক্ষের সাপেক্ষে [math]2 \mathrm{~ms}^{-1}[/math]
+ বেগে অনুভূমিকভাবে গড়াচ্ছিল। সুতরাং এক্ষেত্রে সিলিন্ডারটির রৈখিক ও কৌণিক উভয় গতিশক্তিই থাকবে ।সুতরাং এর রৈখিক গতিশক্তি,[math]\begin{aligned}\mathrm{E}_{\mathrm{K}_{1}} & =\frac{1}{2} \mathrm{mv}^{2} \\& =\frac{1}{2} \times 50 \mathrm{~kg} \times\left(2 \mathrm{~ms}^{-1}\right)^{2} \\& =100 \mathrm{~J}\end{aligned}[/math]
+অক্ষ সাপেক্ষে সিলিন্ডারটির জড়তার ভ্রামক, [math]\mathrm{I}=1 \mathrm{kgm}^{2}[/math]
+এর কৌণিক বেগ, [math]\omega=10 \mathrm{\ rad} \cdot \mathrm{s}^{-1}[/math]
+সুতরাং এর কৌণিক বা ঘূর্ণন গতিশক্তি,[math]\begin{aligned}\mathrm{E}_{\mathrm{K}_{2}} & =\frac{1}{2} \mathrm{I}^{}ω^2 \\& =\frac{1}{2} \times 1 \mathrm{kgm}^{2} \times\left(10 \mathrm{rads}^{-1}\right)^{2} \\& =50 \mathrm{~J}\end{aligned}[/math]
+সুতরাং সিলিন্ডারটির সর্বমোট গতিশক্তি,[math]\begin{aligned}\mathrm{E}_{\mathrm{k}} & =\mathrm{E}_{\mathrm{K}_{1}}+\mathrm{E}_{\mathrm{K}_{2}} \\& =100 \mathrm{~J}+50 \mathrm{~J} \\& =150 \mathrm{~J}\end{aligned}[/math]
+অর্থাৎ, সিলিন্ডারটির মোট গতিশক্তি জানা সম্ভব।
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ, মোট গতিশক্তি নির্ণয় করা যায়; স্লিপ ছাড়া গড়ানোর ফলে [math]\omega=v/r=2/0.2=10\ \mathrm{rad/s}[/math]. একটি সিলিন্ডারের অনুদৈর্ঘ্যগত গতিশক্তি [math]K_t=\tfrac12 mv^2=\tfrac12\cdot50\cdot2^2=100\ \mathrm{J}[/math] এবং ঘূর্ণনগত গতিশক্তি [math]K_r=\tfrac12 I\omega^2=\tfrac12\cdot1\cdot10^2=50\ \mathrm{J}[/math]; তাই মোট [math]K=K_t+K_r=150\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 406979)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+3 kg ও 5 kg ভরের দুটি গোলক 1m দৈর্ঘ্যের নগণ্য ভরের একটি দন্ডের দুপ্রান্তে যুক্ত । দন্ডটিকে ঘুরিয়ে দিলে গোলকদ্বয় যে বিন্দু কে কেন্দ্র করে ঘুরবে তার অবস্থান নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : 0.625 m)[math]\\[/math]
+Solution :
+[Image]
+এখানে, 3 kg এবং 5 kg ভরের জন্য যে বিন্দুতে ভরদ্বয়ের সাপেক্ষে মোমেন্টের ভর সমান হবে ঐ বিন্দুর অবস্থান।ধরি, 3 kg বস্তুর ভর থেকে xm দূরত্বে ঘুরবে।[math]\therefore[/math]
+ 5 kg বস্তুর ভর থেকে (I - x)m দূরত্বে ঘুরবে3 kg ভরের জন্য মোমেন্ট = 3x5 kg ভরের জন্য মোমেন্ট = 3x5 kg ভরের জন্য মোমেন্ট = 5 ( 1 − x )[math]\therefore \quad 3 x=5(1-x)[/math]
+ [math]\Rightarrow[/math]
+ 3x = 5 - 5x[math]\Rightarrow[/math]
+ 8x = 5[math]\Rightarrow[/math]
+ [math]x=\frac{5}{8}=0.625 m[/math]
+ [math]\therefore[/math]
+ 3kg ভরের বস্তু হতে 0.625 m দূরে অবস্থান। (Ans.)
+
+Explanation:
+ব্যাখ্যা: দুইটি বস্তুর ঘূর্ণনের কেন্দ্র তাদের কেন্দ্রকেন্দ্রিক দণ্ডের ভরকেন্দ্র (center of mass)। 3 kg কে [math]x=0[/math] এবং 5 kg কে [math]x=1\ \text{m}[/math] ধরা হলে [math]x_{CM}=\frac{3\cdot0+5\cdot1}{3+5}=\frac{5}{8}=0.625\ \text{m}[/math]। ফলে 3 kg গোলকের দিক থেকে [math]0.625\ \text{m}[/math] (অথবা 5 kg থেকে [math]0.375\ \text{m}[/math]) দূরিতে ঘূর্ণনের কেন্দ্র থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 406980)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.250 kg ভরের একটি পাথরখণ্ডকে 0.75 m লম্বা একটি সুতার এক প্রান্তে বেঁধে বৃত্তাকার পথে প্রতি মিনিটে 90 বার ঘোরালে সুতা র ওপর কত টান পরবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]16.64 \mathrm{~N}[/math]
+)[math]\\[/math]
+Solution :দেওয়া আছে,পাথর খণ্ডের ভর, m = 0.250 kgবৃত্তপথের ব্যাসার্ধ, r = 0.75mসময়, t=1min= 60 sঘূর্ণন সংখ্যা, N = 90সুতার টান, F =?শর্তমতে, সুতার টান হবে ঘূর্ণায়মান বস্তুর কেন্দ্রমুখী বলের সমানআমরা জানি,[math]\begin{aligned}\mathrm{F} & =\mathrm{m} \omega^{2} \mathrm{r} \\& =\mathrm{m} \times\left(\frac{2 \pi \mathrm{N}}{\mathrm{t}}\right)^{2} \times 0.75 \mathrm{~m}\left[\because \omega=\frac{2 \pi \mathrm{N}}{\mathrm{t}}\right] \\& =0.25 \mathrm{~kg} \times\left(\frac{2 \times 3.14 \times 90}{60 \mathrm{~s}}\right)^{2} \times 0.75 \mathrm{~m} \\& =16.64 \mathrm{~N} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+টানটি কেন্দ্রীভূত বলের সমান, যেখানে [math]F_c=m\omega^2 r[/math] এবং [math]\omega=2\pi f, \; f=90/60=1.5\ \text{Hz}[/math], তাই [math]\omega=3\pi\ \text{rad/s}[/math]. ফলে [math]F=0.250\times(3\pi)^2\times0.75\approx16.7\ \text{N}[/math]; কারণ সুতা পাথরটিকে বৃত্তে ঘোরাতে মধ্যবিন্দুর দিকে এই বলটি সরবরাহ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 406981)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সুতা সর্বোচ্চ 5N টান সহ্য করতে পারে। 1.2 kg ভরের একটি ঢিলকে ঐ সুতায় বেঁধে 2 m ব্যাসার্ধের বৃত্তাকার পথ প্রতি মি নিটে সর্বোচ্চ কত বার ঘুরানো সম্ভব?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]13.78 \mathrm{\ rev} \mathrm{\ min}^{-1}[/math]
+)[math]\\[/math]
+Solution :এখানে,সুতার টান, F = 5Nভর, m = 1.2 kgব্যাসার্ধ, r = 2mকৌণিক বেগ, [math]\omega=?[/math]
+আমরা জানি,[math]\mathrm{F}=\mathrm{m} \omega^{2} \mathrm{r}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega^{2}=\frac{F}{m r}=\frac{5 \mathrm{~N}}{1: 2 \mathrm{~kg} \times 2 \mathrm{~m}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega^{2}=2.08 \mathrm{~s}^{-2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\omega=1.44 \mathrm{\ rads}^{-1}[/math]
+ [math]=\frac{1.44 \mathrm{rad}}{1 \mathrm{~s}} \times \frac{60 \mathrm{sec}}{1 \mathrm{~min}} \times \frac{1 \mathrm{rev}}{2 \pi \mathrm{rad}}[/math]
+ [math]=13.78 \mathrm{\ rev} \mathrm{\ min}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+কেন্দ্রীয় শক্তি সরবরাহ করে সুতার টান, তাই সর্বোচ্চ টান 5 N হলে [math]\dfrac{m v^2}{r}=5[/math] থেকে [math]v_{\max}=\sqrt{\dfrac{5r}{m}}=\sqrt{\dfrac{5\times2}{1.2}}=\sqrt{8.333}=2.887\ \text{m/s}[/math]. তারপর ঘূর্ণনের হার [math]f=\dfrac{v}{2\pi r}=\dfrac{2.887}{4\pi}=0.2298\ \text{s}^{-1}[/math], অর্থাৎ প্রতি মিনিটে [math]60f\approx13.8\ \text{rev/min}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 406982)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি চাকার ভর 4 kg এবং চক্রগতির ব্যাসার্ধ 25 cm । এর ঘূর্ণন জড়তা কত? চাকাটিতে [math]2 \mathrm{\ rads}^{-2}[/math] কৌণি ক ত্বরণ সৃষ্টি করতে কত মানের টর্ক প্রয়োগ করতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.25 \mathrm{\ kgm}^{2}, 0.5 \mathrm{\ Nm}[/math])
+
+Explanation:
+ব্যাখ্যা: চাকাটিকে পাতলা রিং ধরা হলে ঘূর্ণন জড়তা [math]I=mr^{2}[/math]. ক তাই [math]I=4\times(0.25)^{2}=0.25\ \mathrm{kg\,m^{2}}[/math]. খ টর্কের জন্য [math]\tau=I\alpha=0.25\times2=0.5\ \mathrm{N\,m}[/math] প্রযোজ্য হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 406983)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পাতের দৈর্ঘ্য 0.3m, প্রস্থ 0.2m এবং ভর 2 kg। পাতের ওপর লম্ব ভরকেন্দ্রগামী অক্ষের সাপেক্ষে এর ঘূর্ণন জড়তা নির্ণয় ক রো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.0217 \mathrm{\ kgm}^{2}[/math]
+)[math]\\[/math]
+Solution :এখানে, ভর, m = 2kgপাতের দৈর্ঘ্য, [math]\ell=0.3 \mathrm{~m}[/math]
+প্রস্থ, b = 0.2mঘূর্ণন জড়তা, I =?আমরা জানি, সুষম পাতলা আয়তাকার পাতের জন্য,[math]\begin{aligned}I^{} & =\frac{\mathrm{m}}{12}\left(\ell^{2}+\mathrm{b}^{2}\right) \\& =\frac{2 \mathrm{~kg}}{12}\left\{(0.3 \mathrm{~m})^{2}+(.2 \mathrm{~m})\right\}^{2} \\& =0.0217 \mathrm{kgm}^{2} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমতল আয়তাকার পাতার ভরকেন্দ্র দিয়ে তার সমতলকে লম্বভাবে কাটা অক্ষের সাপেক্ষে ঘূর্ণনজড়তা হচ্ছে [math]I=\frac{1}{12}m(a^2+b^2)[/math], যেখানে [math]a[/math] ও [math]b[/math] হল দৈর্ঘ্য ও প্রস্থ। তাই এখানে [math]I=\frac{1}{12}\times2\big(0.3^2+0.2^2\big)=\frac{2}{12}\times0.13=0.021666\ldots\approx0.02167\ \mathrm{kg\,m^2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 406984)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+40 cm ব্যাসার্ধের একটি বৃত্তাকার পথে একটি বিন্দু [math]10 \mathrm{~cm.s}^{-2}[/math] সমস্পর্শীয় ত্বরণে চলমান। কত সময় পর বি ন্দুটির সাধারণ ত্বরণ এবং স্পর্শীয় ত্বরণ সমান হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 2 s)[math]\\[/math]
+Solution :এখানে,পথের ব্যাসার্ধ, r = 40cmস্পর্শীয় ত্বরণ, [math]\mathrm{a}_{\mathrm{T}}=10 \mathrm{~cm} / \mathrm{s}^{2}[/math]
+সাধারণ ত্বরণ [math]=\mathrm{a}_{\mathrm{N}}[/math]
+সময় t = ?আমরা জানি,[math]a_{N}=\omega^{2} r[/math]
+এখানে [math]\mathbf{a}_{\mathbf{N}}=\mathbf{a}_{\mathbf{T}}[/math]
+অর্থাৎ, [math]a_{T}=\omega^{2} r[/math]
+ [math]\begin{aligned}\therefore \omega & =\sqrt{\frac{a_{1}}{r}} \\& =\sqrt{\frac{10}{40}}=0.5 \mathrm{rad} / \mathrm{s}\end{aligned}[/math]
+আবার,[math]\begin{array}{l}\omega=\omega_0+\alpha t\\\omega=0+\frac{\mathrm{a}_{\mathrm{T}}}{\mathrm{r}}\cdot\mathrm{t}\left[\because\mathrm{a}_{\mathrm{T}}\stackrel{ }{=}\alpha\mathrm{r}\right]\\\therefore\mathrm{t}=\frac{\omega\cdot\mathrm{r}}{\mathrm{a}_{\mathrm{T}}}\cdot\mathrm{t}\left[\because\mathrm{a}_{\mathrm{T}}=\alpha\mathrm{r}\right]\\\therefore\mathrm{t}=\frac{\omega.\mathrm{r}}{\mathrm{a}_{\mathrm{T}}}\\=\frac{0.5\times40}{10}\text{. }\\=2\mathrm{~s}\text{ (Ans.) }\\\end{array}[/math]
+
+
+Explanation:
+স্পর্শীয় ত্বরণ [math]a_t=10\ \mathrm{cm\,s^{-2}}[/math] এবং ব্যাসার্ধ [math]r=40\ \mathrm{cm}[/math]; সাধারণ (কেন্দ্রগামী) ত্বরণ হচ্ছে [math]a_n=rω^2[/math] যেখানে [math]ω=αt[/math] ও [math]α=a_t/r[/math], তাই [math]a_n=r(αt)^2=\dfrac{a_t^2}{r}t^2[/math]. সমান করলে [math]a_n=a_t\Rightarrow t^2=\dfrac{r}{a_t}[/math], ফলে [math]t=\sqrt{\dfrac{40}{10}}=2\ \mathrm{s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 406985)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ঘূর্ণায়মান একটি গ্রামোফোন রেকর্ডের কেন্দ্র থেকে r দূরত্বে একটি কয়েন স্থাপন করা হলো। সর্বোচ্চ কম্পাঙ্ক নির্ণয় কর যেন কয়েন টি পিছলে না যায়, যেখানে [math]\mu[/math] হচ্ছে ঘর্ষণ গুণাঙ্ক ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\frac{1}{2 \pi} \sqrt{\frac{\mu g}{r}}[/math]
+ )[math]\\[/math]
+Solution :সাম্যাবস্থায় থাকাকালে গ্রামোফোনের কেন্দ্রমুখী বল = ঘর্ষণ বল।অর্থাৎ, [math]\mathrm{m} \omega_{\max }^{2} \mathrm{r}=\mu \mathrm{mg}[/math]
+ [math]\therefore \omega_{\max }=\sqrt{\frac{\mu \mathrm{g}}{\mathrm{r}}}[/math]
+ ..........(1)এখন, [math]\mathrm{f}_{\max }=\frac{\omega}{2 \pi}=\frac{1}{2 \pi} \sqrt{\frac{\mu \mathrm{g}}{\mathrm{r}}} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: কেন্দ্রগামী বল হিসেবে ঘর্ষণই কাজ করে, তাই সর্বোচ্চ স্থির ঘর্ষণ [math]μmg[/math] কমপক্ষে কেন্দ্রগামী বল [math]mω^2r[/math] হতে হবে। তাই [math]μmg=mω^2r\Rightarrow ω_{\max}=\sqrt{\dfrac{μg}{r}}[/math] এবং কম্পাঙ্কে পরিবর্তন করলে [math]f_{\max}=\dfrac{ω_{\max}}{2π}=\dfrac{1}{2π}\sqrt{\dfrac{μg}{r}}[/math]; এখানে ভর [math]m[/math] কেটে যায়, তাই উত্তর ভরের উপর নির্ভর করে না।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 406978)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রের পাতলা বৃত্তাকার চাকতির ভর 2 kg এবং ব্যাসার্ধ 20 cm। চাকতিটিকে এর কেন্দ্রগামী লম্ব অক্ষের সাপেক্ষে ঘুরানো যায়। চাকতির কেন্দ্র থেকে 15 cm দূরে m ভরের একটি ক্ষুদ্র বস্তু রাখা আছে। চাকতির সাথে বস্তুর সর্বোচ্চ স্থিতি ঘর্ষণ বল F এবং এর ওজন W-এর মধ্যে সম্পর্ক হচ্ছে F = 0.6 W। চাকতিটির কৌণিক বেগ ক্রমান্বয়ে বৃদ্ধি করা হচ্ছে। দেখা গেল, এক সময় বস্তুটি ছিটকে পড়ে গেল।
+
+
+[Image]
+
+
+Options:
+ঘ. চাকতি থেকে বস্তুটি পড়ে যাওয়ার আগে সর্বোচ্চ কত বেগে ঘুরানো সম্ভব গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,স্থিতি ঘর্ষণ গুণাঙ্ক, [math]\mu=\frac{F}{W}=0.6[/math]
+চাকতি থেকে বস্তুটি পড়ে যাওয়ার আগে সর্বোচ্চ যে বেগে ঘুরানো সম্ভবতা v হলে, [math]\mu=\tan \theta=\frac{\mathrm{v}^{2}}{\mathrm{rg}}[/math]
+ [math]\mathrm{v}=(\mu \mathrm{rg})^{\frac{1}{2}}[/math]
+ [math]=(0.6 \times 0.15 \times 9.8)^{\frac{1}{2}}[/math]
+ [‘গ’ হতে মান নিয়ে][math]\therefore \mathrm{v}=0.94 \mathrm{~ms}^{-1}[/math]
+অর্থাৎ বস্তুটিকে [math]0.94 \mathrm{~ms}^{-1}[/math]
+ এর বেশি বেগে ঘুরানো যাবে না।
+
+Explanation:
+ঘ চাকতির উপর বসা বস্তুটি ছিটকে পড়ার শর্ত হল কেন্দ্রাগ্রাহী বলের চাহিদা সর্বোচ্চ ঘর্ষণ ক্ষমতার সমান হলে, তাই [math]mω^{2}r=0.6\,mg[/math] হয়; এখানে [math]m[/math] কেটে যায় এবং [math]ω=\sqrt{\dfrac{0.6g}{r}}[/math]. r = 0.15 m ও g = 9.8 m/s² বসিয়ে পাই [math]ω=\sqrt{\dfrac{0.6×9.8}{0.15}}\approx 6.26\ \text{rad/s}[/math], যা বস্তুটি পড়ে যাওয়ার আগে সর্বোচ্চ কোণগত গতি; এখানে ফল m ও চাকতির ভরের ওপর নির্ভর করে না।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 406976)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কৌণিক বেগ ভেক্টর, রৈখিক বেগ ভেক্টর ও ব্যাসার্ধ ভেক্টর এর মধ্যে সম্পর্ক স্থাপন কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+[Image]
+ধরা যাক, একটি বস্তু প্রসঙ্গ কাঠামোর Z অক্ষের উপর অবস্থিত O' বিন্দুকে কেন্দ্র করে, XY সমতলে ঘড়ির কাঁটার বিপরীত দিকে বৃত্তাকার পথে ঘুরছে। যে কোন মুহূর্তে তার রৈখিক বেগ [math]\vec{v}[/math]
+ বৃত্তাকার পথের ঐ বিন্দুতে অংকিত স্পর্শক বরাবর গতির অভিমুখে। আরো ধরা যাক, বস্তুটির কৌণিক বেগ [math]\vec{\omega}[/math]
+ ডানহাতি স্ক্রু নিয়ম থেকে যার দিক ধনাত্মক Z অক্ষ বরাবর। ধরা যাক, প্রসঙ্গ কাঠামোর মূলবিন্দু সাপেক্ষে যে কোন মুহূর্তে বস্তুটির অবস্থান ভেক্টর [math]\vec{r}[/math]
+ যা ধনাত্মক Z অক্ষের সাথে তথা [math]\vec{\omega}[/math]
+ এর দিকের সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করে।[math]\therefore[/math]
+ বৃত্তাকার পথের ব্যাসার্ধ [math]r sin \theta[/math]
+ বস্তুর পর্যায় কাল T হলে, [math]v=\frac{2 \pi r \sin \theta}{T}=\omega r \sin \theta[/math]
+কিন্তু, [math]\omega[/math]
+ এবং [math]r[/math]
+ হচ্ছে যথাক্রমে দুটি ভেক্টর কৌণিক বেগ [math]\vec{\omega}[/math]
+ এবং অবস্থান ভেক্টর [math]\vec{r}[/math]
+এর মান এবং [math]\theta[/math]
+ তাদের অন্তর্ভুক্ত ক্ষুদ্রতর কোণ। [math]\therefore v=\omega r \sin 0=|\vec{\omega} \times \vec{r}|=|\vec{r} \times \vec{\omega}|[/math]
+কিন্তু, বর্ণনা ও চিত্র থেকে দেখা যায়, [math]\vec{\omega}[/math]
+ ও [math]\vec{r}[/math]
+ এর সমতলে একটি ডানহাতি থকে লম্বভাবে স্থাপন করে শুধুমাত্র ঐ [math]\vec{\omega}[/math]
+ থেকে [math]\vec{r}[/math]
+ দিকে ঘুরালেই [math]\vec{v}[/math]
+ এর দিকে অগ্রসর হয়। [math]\therefore \vec{v} 
+eq \vec{r} \times \vec{\omega} \quad \therefore \vec{v}=\vec{\omega} \times \vec{r}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কৌণিক বেগ ভেক্টর, ব্যাসার্ধ ভেক্টর ও রৈখিক বেগের সম্পর্ক হলো [math]\mathbf{v}=\boldsymbol{\omega}\times\mathbf{r}[/math]। এই ক্রস প্রোডাক্ট থেকে মান পাওয়া যায় [math]v=\omega r_{\perp}[/math] (এখানে [math]r_{\perp}[/math] হলো কৌণিক অক্ষের প্রতি লম্ব সরাসরি অংশ), এবং যদি [math]\mathbf{r}[/math] সম্পূর্ণভাবে অক্ষের সমতলে থাকে (অর্থাৎ লম্ব), তখন [math]v=\omega r[/math] হবে; দিক নির্ণয় হয় ডানহাতের নিয়মে ক্রস প্রোডাক্ট অনুযায়ী।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 406977)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি বৈদ্যুতিক পাখা মিনিটে 1200 বার ঘুরে। সুইচ বন্ধ করার 3 মিনিট পরে পাখাটি বন্ধ হয়ে গেল । পাখাটির কৌণিক ত্বরণ কত? থেমে যাওয়ার পূর্বে পাখাটি কতবার ঘুরবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1)=\frac{2 \pi N}{t}=\frac{2 \times 3.14 \times 1200}{60}=125.6 \mathrm{rads}^{-1}\left[\omega=\omega_{\mathrm{0}}+\alpha t \therefore \alpha=\frac{\omega-\omega_{0}}{t}=\frac{0-125.6}{180}=-0.7 \mathrm{rad} / \mathrm{s}^{2}\right][/math]
+ [math]0=\omega_{\omega} t+\frac{1}{2} \alpha t^{2}=125.6 \times 180-\frac{1}{2} \times 0.7 \times 180^{2}=11268 \mathrm{rad} ; \mathrm{N}=\frac{0}{2 \pi}=\frac{11268}{2 \times 3.14}=1800[/math]
+বার (প্রায়)
+
+Explanation:
+ব্যাখ্যা: প্রথমে [math]1200\ \text{rpm}=20\ \text{rev/s}=40\pi\ \text{rad/s}[/math] পাওয়া যায়। থামতে সময় [math]3\ \text{min}=180\ \text{s}[/math], তাই কৌণিক ত্বরণ [math]\alpha=\frac{0-\omega_0}{t}=-\frac{40\pi}{180}=-\frac{2\pi}{9}\ \text{rad/s}^2[/math] (নেগেটিভ মান মানে ধীরগতি)। থেমে যাওয়ার আগে গড় ঘূর্ণনকোনীয় বেগ [math]\omega_{avg}=\omega_0/2=10\ \text{rev/s}[/math] হবে, তাই মোট ঘূর্ণন সংখ্যা [math]10\times180=1800\ \text{rev}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 406975)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+তিনটি স্থির বস্তু ; একটি রিং, একটি নিরেট সিলিন্ডার এবং একটি নিরেট গোলক একই বাঁকা তলের উপর দিয়ে না পিছলিয়ে নিচের দিকে পড়তে থাকে। তিনটি বস্তুর ব্যাসার্ধ একই। কোন বস্তুটি সবচেয়ে বেশি বেগে ভূমিতে পৌঁছাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+[Image]
+রিং, [math]m g h=\frac{1}{2} m v_{R}^{2}+\frac{1}{2} l \omega^{2} \Rightarrow m g h=\frac{1}{2} m v_{R}^{2}+\frac{1}{2} M r^{2} \omega^{2}[/math]
+ [math]\Rightarrow g h=\frac{1}{2} v_{\mathrm{R}}^{2}+\frac{1}{2} v_{\mathrm{R}}^{2}[\because v=\omega r] \Rightarrow g h=v^{2} \Rightarrow v_{\mathrm{R}}=\sqrt{g h}[/math]
+নিরেট সিলিন্ডার, [math]m g h=\frac{1}{2} m v_{c}^{2}+\frac{1}{2} I \omega^{2} \Rightarrow m g h=\frac{1}{2} m v_{c}^{2}+\frac{1}{2} \times \frac{1}{2} M r^{2} \omega^{2} \Rightarrow g h=\frac{1}{2} v_{c}^{2}+\frac{1}{4} v_{c}^{2} \Rightarrow v_{c}=\sqrt{\frac{4}{3} g h}[/math]
+নিরেট গোলক, [math]m g h=\frac{1}{2} m v_{s}^{2}+\frac{1}{2} \times \frac{2}{5} m r^{2} \omega^{2} \Rightarrow g h=\frac{1}{2} v_{s}^{2}+\frac{1}{5} v_{s}^{2} \Rightarrow v_{s}=\sqrt{\frac{10}{7} g h}[/math]
+ [math]\therefore[/math]
+দেখা যাচ্ছে, [math]v_{s}>v_{c}>v_{R}[/math]
+ [math]\therefore[/math]
+গোল্ক সবচেয়ে বেশি বেগে ভূমিতে পৌছাবে (Ans.)
+
+Explanation:
+ব্যাখ্যা: উচ্চতা থেকে পতনের সময় গравিটেশনাল শক্তি ট্রান্সলেশন এবং রোটেশনাল kinetic শক্তিতে যায়, তাই [math]mgh=\tfrac{1}{2}mv^2+\tfrac{1}{2}I\omega^2[/math] এবং [math]\omega=v/R[/math] নিলে [math]v=\sqrt{\dfrac{2gh}{1+I/(mR^2)}}[/math]. রিংয়ে [math]I/(mR^2)=1[/math], ঘন সিলিন্ডারে [math]1/2[/math], গোলকে [math]2/5[/math]; ছোটটিই গতিবিধির বাধা কমায়। তাই সর্বোচ্চ গতি পেলো গোলক, তার পরে সিলিন্ডার, সবচেয়ে ধীর রিং।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 406971)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রটি লক্ষ কর :  
+
+
+[Image]
+
+
+Options:
+গ. AB ঘূর্ণন অক্ষের চারদিকে PQ দণ্ডটির টর্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, [math]\mathrm{AB}[/math]
+ ঘূর্ণন অক্ষের চারদিকে [math]\mathrm{PQ}[/math]
+ দণ্ডটির টর্ক, [math]\tau[/math]
+ঘূর্ণন অক্ষ থেকে বলের প্রয়োগ বিন্দুর দূরত্ব, [math]\mathrm{r = 1~m}[/math]
+,বল, [math]\mathrm{F = 500 ~N}[/math]
+ [math]\overrightarrow{\rm{r}}\text{ ও }\overrightarrow{\rm{F}}[/math]
+ এর মধ্যবর্তী কোণ [math]\theta=90^{\circ}[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \tau=\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}} & =\mathrm{rF} \sin \theta=1 \mathrm{~m} \times 500 \mathrm{~N} \times \sin 90^{\circ} \\ & =500 \mathrm{~N}-\mathrm{m} \end{aligned}[/math]
+অতএব, টর্ক [math]500 \mathrm{~N}\text{-}\mathrm{m}[/math]
+।
+
+Explanation:
+গ PQ দণ্ডটির টর্ক নির্ণয়ে মূল নীতি: টর্ক হল লেভার আর্মের সাথে রেজাল্ট্যান্ট ফোর্সের গুণফল, অর্থাৎ [math]\tau=F\times d[/math] যেখানে [math]d[/math] হচ্ছে শক্তির রেখা থেকে ঘূর্ণন অক্ষ পর্যন্ত লম্ব দূরত্ব। যদি দণ্ডটির ওজন [math]W[/math] ধরে এবং তার ভরকেন্দ্র AB অক্ষ থেকে লম্ব দূরত্ব [math]r_{cm}[/math] হয়, তাহলে মোট টর্ক হবে [math]\tau=W\,r_{cm}</math]; বণ্টিত লোড হলে ব্যবহার করবেন [math]\tau=\int r\,dF[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 406972)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একজন সার্কাসের খেলোয়াড় মাথার উপরে উল্লম্ব তলে কোনো বস্তুকে একটি দীর্ঘ সুতায় 90 cm দূরত্বে বেঁধে প্রতি মিনিটে 100 বার ঘুরাচ্ছে। হঠাৎ করে ঘূর্ণায়মান বস্তুটির এক তৃতীয়াংশ খুলে পড়ে গেল। এতে খেলোয়াড় ভীত না হয়ে প্রতি মিনিটে ঘূর্ণন সংখ্যা একই রাখার জন্য প্রয়োজনমতো সুতার দৈর্ঘ্য বাড়িয়ে দিল।
+
+Options:
+গ. বস্তুটির ভর কমে যাবার পূর্বে ইহার কেন্দ্রমুখী ত্বরণ কত ছিল হিসাব কর ।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক থেকে পাই,[math]\hspace{1.2 cm}[/math]
+সুতার দৈর্ঘ্য, [math]\mathrm{r}=90 \mathrm{~cm}=0.9 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময়, [math]\rm{t}=1 \mathrm{~min}=60 \mathrm{~s}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ঘূর্ণন সংখ্যা, [math]\rm{N}=100[/math]
+ধরি, কেন্দ্রমুখী ত্বরণ, [math]\rm{a}[/math]
+আমরা জানি, কৌণিক বেগ,[math]\hspace{1.6 cm}\begin{aligned} \omega & =\frac{2 \pi \mathrm{N}}{\mathrm{t}} \\ & =\frac{2 \times 3.1416 \times 100}{60 \mathrm{~s}} \\ & =10.472 \mathrm{rad} \mathrm{s}^{-1} \end{aligned}[/math]
+আবার, আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{a} & =\omega^{2} \mathrm{r} \\ & =\left(10.472 \mathrm{rad} \mathrm{s}^{-1}\right)^{2} \times 0.9 \mathrm{~m}=98.7 \mathrm{~m} \mathrm{~s}^{-2} \end{aligned}[/math]
+অতএব, বস্তুটির ভর কমে যাওয়ার পূর্বে কেন্দ্রমুখী ত্বরণ [math]98.7 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: কেন্দ্রমুখী ত্বরণ ভরের উপর নির্ভর করে না, সুতরাং আগের ত্বরণই পড়বে; এটি ঘূর্ণন হার ও ব্যাসার্ধ ব্যবহার করে হিসাব করি।  
+গ হিসাব: ঘূর্ণন ফ্রিকোয়েন্সি [math]f=100/60=5/3\ \text{Hz}[/math], ব্যবস্থিক কোণীয় গতি [math]\omega=2\pi f=2\pi(5/3)=10\pi/3\ \text{rad/s}[/math], ফলে কেন্দ্রমুখী ত্বরণ [math]a=\omega^2 r=\left(\tfrac{10\pi}{3}\right)^2(0.9)=10\pi^2\ \text{m/s}^2\approx98.7\ \text{m/s}^2.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 406973)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একজন সার্কাসের খেলোয়াড় মাথার উপরে উল্লম্ব তলে কোনো বস্তুকে একটি দীর্ঘ সুতায় 90 cm দূরত্বে বেঁধে প্রতি মিনিটে 100 বার ঘুরাচ্ছে। হঠাৎ করে ঘূর্ণায়মান বস্তুটির এক তৃতীয়াংশ খুলে পড়ে গেল। এতে খেলোয়াড় ভীত না হয়ে প্রতি মিনিটে ঘূর্ণন সংখ্যা একই রাখার জন্য প্রয়োজনমতো সুতার দৈর্ঘ্য বাড়িয়ে দিল।
+
+Options:
+ঘ. সার্কাসের খেলোয়াড় সুতার দৈর্ঘ্যের যে পরিবর্তন এনেছিলেন গাণিতিক বিশ্লেষণের মাধ্যমে এর সঠিকতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমনে করি, প্রথম অবস্থায় বস্তুটির ভর [math]\rm{m}[/math]
+প্রথম অবস্থায় বস্তুটির কৌণিক বেগ, [math]\omega_{1}=10.472 \mathrm{~rad} \mathrm{s}^{-1}[/math]
+সুতার দৈর্ঘ্য, [math]\rm{r}_{1}=90 \mathrm{~cm}=0.9 \mathrm{~m}[/math]
+এখন, ১ম ক্ষেত্রে, কেন্দ্রমুখী বল [math]\rm{F}_1[/math]
+ হলে, [math]\rm{F}_{1}=\rm{m} \omega_{1}^{2} \mathrm{r}_{1}[/math]
+আবার, পরিবর্তিত অবস্থায় ভর, [math]\rm{m_{2}=\left(m-\dfrac{m}{3}\right)=\dfrac{2 m}{3}}[/math]
+সুতার দৈর্ঘ্য, [math]\rm{r}_2[/math]
+কৌণিক বেগ ও কেন্দ্রমুখী বলের মান যথাক্রমে [math]\omega[/math]
+ ও [math]\rm{F}_2[/math]
+ ধরি,এখন, প্রতি সেকেন্ডে ঘূর্ণন সংখ্যা সমান হলে কৌণিক বেগ ও কেন্দ্রমুখী বলের মান সমান হতে হবে,অর্থাৎ, [math]\omega_{2}=\omega_{1}[/math]
+ এবং [math]\rm{F_{2}=F_{1}}[/math]
+ হলেএখন, [math]\mathrm{F}_{2}=\mathrm{m}_{2} {\omega}_{2}^{2} \mathrm{r}_{2}[/math]
+ [math]\Rightarrow \rm{F_{2}=\dfrac{2 m}{3} \omega_{1}^{2} r_{2} \qquad\left[\because \omega_{2}=\omega_{1}\right]}[/math]
+আবার,[math]\hspace{1.3 cm}\begin{array}{l}\qquad\mathrm{F}_{1}=\mathrm{m} \omega_{1}^{2} \rm{r}_{1}\\ \therefore \rm{m \omega_{1}^{2} r_{1}=\dfrac{2 m}{3} \omega_{1}^{2} r_{2}} \qquad\left[\because \mathrm{F}_{1}=\mathrm{F}_{2}\right] \\ \Rightarrow \rm{r_{1}=\frac{2}{3} r_{2}} \\ \Rightarrow \rm{2 r_{2}=3 r_{1} }\\ \Rightarrow \rm{r_{2}=\dfrac{3}{2} r_{1}=1.5 r_{1}} \\ \therefore \rm{r_{2}>r_{1}} \end{array}[/math]
+অতএব, প্রতি মিনিটে ঘূর্ণন সংখ্যা সমান রাখতে হলে সুতার দৈর্ঘ্য পূর্বের থেকে দেড়গুণ করতে হবে। অর্থাৎ সার্কাসের খেলোয়াড় সুতার দৈর্ঘ্যের যে পরিবর্তন এনেছিলেন তা সঠিক ছিল।
+
+Explanation:
+ব্যাখ্যা:
+ঘ শুরুতে কেন্দ্রগামী বল [math]F=m\omega^2 r[/math] যেখানে [math]\omega[/math] একই থাকবে। বস্তুটির ভর [math]m[/math] থেকে হয়ে গেল [math]\tfrac{2}{3}m[/math], একই বল রাখার জন্য চাইলে [math]\tfrac{2}{3}m\omega^2 r' = m\omega^2 r[/math] থেকে [math]r'=\tfrac{3}{2}r=\tfrac{3}{2}\times 90\ \text{cm}=135\ \text{cm}</math]; অর্থাৎ সুতার দৈর্ঘ্য 90 cm থেকে 135 cm (45 cm বেশি) করতে হবে, যা দেওয়া পরিবর্তনটি সঠিক প্রমাণ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 406974)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2004-2005 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+7 metre উঁচু হতে 2kg ভরের একটি পিতলের নীরেট গোলক একটি নতি তলে গড়াতে গড়াতে ভূমি তে এসে পড়ে। ভূমি স্পর্শ করার মুহুর্তে গোলকটির ভরকেন্দ্রের গতিশক্তি ও কৌণিক গতিশক্তি কত ছিল? [math][g = 9.8ms^{-2}][/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ভূমি স্পর্শ করার মুহুর্তে গতিশক্তি [math]\mathrm{K} . E=m g h=2 \times 9.8 \times 7=137.2 \text { joules (Ans.) }[/math]
+গোলকের জন্য [math]I=\frac{2}{5} M r^{2}[/math]
+ কৌণিক গতিশক্তি [math]=\frac{1}{2} I \omega^{2}=\frac{1}{2} \times \frac{2}{5} M r^{2}\omega^2=\frac{1}{5} \mathrm{mV}^{2}[/math]
+ [math]\text { Again, } \frac{1}{2} \mathrm{mV}^{2}+\frac{1}{5} \mathrm{mV}^{2}=137.2 \Rightarrow \mathrm{V}=9.89 \mathrm{~ms}^{-1}[/math]
+ [math]\therefore[/math]
+ কৌণিক গতিশক্তি [math]=\frac{1}{5} \mathrm{mV}^{2}=\frac{1}{5} \times 2 \times(9.89)^{2}=39.2 \text { Joules. (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শক্তির সংরক্ষণ অনুযায়ী [math]mgh=\tfrac{1}{2}mv^2+\tfrac{1}{2}I\omega^2[/math]; কঠিন গোলকের জন্য [math]I=\tfrac{2}{5}mr^2[/math] এবং [math]\omega=v/r[/math], তাই ঘূর্ণনগত শক্তি হচ্ছে [math]\tfrac{1}{5}mv^2[/math]. ফলে [math]mgh=\tfrac{7}{10}mv^2\Rightarrow v^2=\tfrac{10}{7}gh[/math], তাই রৈখিক গতিশক্তি [math]\tfrac{1}{2}mv^2=\tfrac{5}{7}mgh=98\ \text{J}[/math] এবং কৌণিক গতিশক্তি [math]\tfrac{1}{5}mv^2=\tfrac{2}{7}mgh=39.2\ \text{J}[/math] (সর্বমোট [math]137.2\ \text{J}=mgh[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 406958)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্র-১ এ একটি বৃত্তাকার চাকতির কেন্দ্র দিয়ে পাতের অভিলম্বভাবে [math]\rm{AB}[/math] অক্ষ দণ্ডটি এবং চিত্র-২ চাকতির পাতের সমতলে ব্যাসের মধ্য দিয়ে [math]\rm{PQ}[/math] অক্ষ দণ্ডটি আছে। প্রতিটি পাতের ভর [math]\mathrm{m}=2 \mathrm{~kg}[/math] এবং ব্যাসার্ধ [math]\mathrm{r}=1 \mathrm{~m}[/math]।
+
+[Image]
+
+
+Options:
+ঘ. পাত দুটিতে সমপরিমাণ টর্ক প্রয়োগ করলে এদের মধ্যে একই ঘূর্ণন সৃষ্টি হবে কি? গাণিতিক ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপকের AB অক্ষটি চিত্র-১ এর বৃত্তকার চাকতির কেন্দ্রগামী ও তলের সাথে অভিলম্বভাবে অবস্থিত।এখানে,[math]\hspace{1 cm}[/math]
+ভর, [math]\mathrm{M}=2 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যাসার্ধ, r = 1 m[math]\hspace{1 cm}[/math]
+জড়তার ভ্রামক, [math]\mathrm{I}_{\mathrm{AB}}=\text { ? }[/math]
+ [math]\hspace{1 cm}[/math]
+জড়তার ভ্রামক, [math]\mathrm{I}_{\mathrm{PQ}}=?[/math]
+আমরা জানি[math]\hspace{1.5 cm}\begin{aligned} \mathrm{I}_{\mathrm{AB}} & =\frac{M r^{2}}{2} \\ & =\frac{1}{2} \times(2) \times(1)^{2}\\ \therefore \mathrm{I}_{\mathrm{AB}} & =1 \mathrm{~kgm}^{2} \text { (Ans.) }\end{aligned}[/math]
+ চিত্র-২ এর চাতকির পাতের সমতলে ব্যাসের মধ্যদিয়ে গমণকৃত PQ অক্ষের সাপেক্ষে জড়তার ভ্রামক,[math]\hspace{1.5 cm}\begin{aligned} I_{P Q} & =\frac{M r^{2}}{4} \\ & =\frac{1}{4} \times 2 \times(1)^{2}=\frac{1}{2} \mathrm{kgm}^{2} \end{aligned}[/math]
+উভয়য়ের ক্ষেত্রে সমান টর্ক প্রয়োগ করা হলে,[math]\hspace{1.5 cm}\begin{array}{l} \tau=I_{\mathrm{AB}} \times \alpha_{\mathrm{AB}} \ldots \ldots \ldots \text { (i) } \\\tau=\mathrm{I}_{\mathrm{PQ}} \times \alpha_{\mathrm{PQ}} \ldots \ldots \ldots \text { (ii) }\end{array}[/math]
+ [math]\text { (i) } \div \text { (ii) }[/math]
+ হতে পাই,[math]\hspace{1.5 cm}\begin{array}{l} ~~ \frac{\tau}{\tau}=\frac{I_{\mathrm{AB}} \times \alpha_{\mathrm{AB}}}{\mathrm{I}_{\mathrm{PQ}} \times \alpha_{\mathrm{PQ}}} \\ ~~ \frac{\alpha_{\mathrm{AB}}}{\alpha_{\mathrm{PO}}}=\frac{I_{\mathrm{PO}}}{I_{\mathrm{AB}}}=\frac{\frac{1}{2}}{1}=\frac{1}{2} \\ \therefore \alpha_{P O}=2 \times \alpha_{A B} \end{array}[/math]
+সুতরাং সমান টর্ক প্রয়োগ করা হলে একই ঘূর্ণন সৃষ্টি হবে না বরং PQ অক্ষের সাপেক্ষে ঘূর্ণনরত চিত্র-২ এর চাতকিটি, AB অক্ষের সাপেক্ষে ঘূর্ণনরত চিত্র-১ এর চাতকি অপেক্ষা দ্বিগুণ কৌণিক ত্বরণে ঘুরবে।
+
+Explanation:
+ঘ না—সমান টর্ক দিলে সমান ঘূর্ণন হবে না। ব্যাখ্যা: একটি পাতের জন্য কেন্দ্র দিয়ে লম্ব অক্ষের বিশ্লেষণীয় জড়ত্ব [math]I_{AB}=\tfrac{1}{2}mr^2[/math] এবং পাতের সমতলে ব্যাসের অক্ষের জড়ত্ব [math]I_{PQ}=\tfrac{1}{4}mr^2[/math]. তাই [math]\alpha_{AB}=\tau/I_{AB}=\tfrac{2\tau}{mr^2}[/math] এবং [math]\alpha_{PQ}=\tfrac{4\tau}{mr^2}[/math]; m=2, r=1 দিলে [math]\alpha_{AB}=\tau[/math], [math]\alpha_{PQ}=2\tau[/math], অর্থাৎ PQ অক্ষের ঘূর্ণন দ্বিগুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 406959)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একজন চালক গাড়ির চাকা খারাপ হলে চাকা পরিবর্তন করার জন্য রেঞ্জ দিয়ে জ্যাক-স্ক্রুকে ঘুরানোর সময় কোনো এক মুহূর্তে প্রযুক্ত বলকে [math]\vec{F}=(8 \hat{i}+5 \hat{j}-5 \hat{k}) N[/math] এবং ঘূর্ণন অক্ষ হতে বলের ক্রিয়া বিন্দুর দূরত্ব [math]\vec{\mathrm{r}}=(\hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}}) \mathrm{m}[/math] দ্বারা প্রকাশ করা হলো। গাড়ির ভর 2000 kg। ঘটনাস্থলে রাস্তার বাঁকের ব্যাসার্ধ 5 m এবং রাস্তার প্রস্থ 3m । রাস্তার সর্বোচ্চ ঘর্ষণ বল [math]40 \mathrm{~N} \mathrm{~kg}^{-1}[/math] ।
+
+Options:
+গ. স্ক্রুটি ঘোরানোর সময়ে প্রযুক্ত টর্ক কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1.2 cm}[/math]
+বল [math]\overrightarrow{\rm{F}}=(8 \hat{\mathrm{i}}+5 \hat{\mathrm{j}}-5 \hat{\mathrm{k}}) \mathrm{N}[/math]
+ [math]\hspace{1.2 cm}[/math]
+দূরত্ব [math]\rm{\overrightarrow{r}=(\hat{i}+\hat{j}-\hat{k}) m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+টর্ক [math]\overrightarrow{\tau}=?[/math]
+আমরা জানি,[math]\hspace{2 cm}\begin{aligned} \overrightarrow{\tau} & =\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}} \\ & =\left|\begin{array}{ccc} \hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\ 1 & 1 & -1 \\ 8 & 5 & -5 \end{array}\right| \\ & =\hat{\mathrm{i}}(-5+5)-\hat{\mathrm{j}}(-5+8)+\hat{\mathrm{k}}(5-8) \\ & =(-3 \hat{\mathrm{i}}-3 \hat{\mathrm{k}}) \mathrm{Nm} \end{aligned}[/math]
+ [math]\therefore[/math]
+ টর্কের মান [math]=\sqrt{(-3)^{2}+(-3)^{2}} \mathrm{Nm}=\sqrt{18} \mathrm{Nm}=3 \sqrt{2} \mathrm{Nm}[/math]
+সুতরাং, ত্রুটি ঘোরানোর সময় প্রযুক্ত টর্ক [math]3 \sqrt{2} \mathrm{Nm}[/math]
+।
+
+Explanation:
+ব্যাখ্যা:
+গ টর্ক হচ্ছে [math]\boldsymbol{\tau}=\mathbf{r}\times\mathbf{F}[/math], তাই
+[math]\boldsymbol{\tau}=(\hat{i}+\hat{j}-\hat{k})\times(8\hat{i}+5\hat{j}-5\hat{k})
+=0\hat{i}-3\hat{j}-3\hat{k}\ \mathrm{N\cdot m}.[/math]
+এর পরিমাণ [math]|\boldsymbol{\tau}|=\sqrt{0^2+(-3)^2+(-3)^2}=3\sqrt{2}\ \mathrm{N\cdot m}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 406960)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+1 m এবং 0.707 m দৈর্ঘ্যের দুটি সরু সুষম দণ্ডের ভরদ্বয় যথাক্রমে 10 kg এবং 20 kg এদের উভয়ই দৈর্ঘ্যের সাথে লম্বভাবে স্থাপিত এবং মধ্যবিন্দুগামী অক্ষের সাপেক্ষে প্রতিমিনিটে যথাক্রমে 300 বার এবং 360 বার একটি মোটরের সাহায্যে সম-কৌণিক বেগে ঘুরছে। মোটরটি বন্ধ হয়ে গেলে ১ম দণ্ডটি 20s সময়ের মধ্যে থেমে যায়।
+
+Options:
+গ. মোটরটি বন্ধ হয়ে যাবার পর ১ম দণ্ডটি কতটি পূর্ণ ঘূর্ণন সম্পন্ন করবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1.2 cm}[/math]
+আদি ঘূর্ণন বেগ, [math]\omega_{0} =\frac{300 \times 2 \pi}{60} \mathrm{rad} \mathrm{s}^{-1} =31.416 \mathrm{rad} \mathrm{s}[/math]
+ [math]\hspace{1.2 cm}[/math]
+শেষ ঘূর্ণন বেগ, [math]\omega=0[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময়, [math]t=20 \mathrm{~s}[/math]
+ [math]\hspace{1.2 cm}[/math]
+কৌণিক ত্বরণ, [math]\alpha=\frac{\omega-\omega_{0}}{t}=\frac{-31.416}{20} \mathrm{rad} \mathrm{s}^{-2}=-1.57 \mathrm{rad} \mathrm{s}^{-2}[/math]
+আমরা জানি,[math]\hspace{2 cm}\begin{aligned}\quad \omega^{2} &=\omega_{0}^{2}+2 \alpha \theta \\ \Rightarrow\theta &=\frac{\omega^{2}-\omega_{0}^{2}}{2 \alpha}=\frac{0^{2}-31.416^{2}}{2 \times(-1.57)} \mathrm{rad}=314.16 \mathrm{rad} \end{aligned}[/math]
+ [math]\therefore[/math]
+ ঘূর্ণন সংখ্যা, [math]\mathrm{n}=\dfrac{\theta}{2 \pi}=\dfrac{314.16}{2 \times 3.1416}[/math]
+ টি [math]=50[/math]
+ টি।অতএব, মোটরটি বন্ধ হয়ে যাওয়ার পর ১ম দণ্ডটি [math]50[/math]
+টি পূর্ণ ঘূর্ণন সম্পন্ন করবে।
+
+Explanation:
+গ মোটর বন্ধ হলে ক্রমহ্রাস ধ্রুব ধারা; তাই [math]α=ω/t[/math] এবং ঘূর্ণন কোণ [math]θ=\tfrac{1}{2}ωt[/math] হবে, ফলে পূর্ণ ঘূর্ণনের সংখ্যা [math]N=θ/(2π)=\tfrac{1}{2}\dfrac{ωt}{2π}[/math]. প্রথম দণ্ডটির জন্য [math]ω=300\ \text{rpm}=5×2π=10π\ \text{rad/s}[/math] ও [math]t=20\ \text{s}[/math], তাই [math]N=\tfrac{1}{2}\dfrac{10π×20}{2π}=50[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 406961)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+রহিম 80 cm দৈর্ঘ্যের একখণ্ড সুতার এক প্রান্তে 200g ভরের একটি বস্তু বেঁধে বৃত্তাকার পথে প্রতি মিনিটে 90 বার ঘুরাচ্ছে। অপরদিকে করিম 60 cm দৈর্ঘ্যের অপর একখণ্ড সুতার এক প্রান্তে 150 g ভরের একটি বস্তু বেঁধে একইভাবে প্রতি মিনিটে 120 বার ঘুরাচ্ছে।
+
+Options:
+ঘ. উদ্দীপকের ঘটনায় রহিম ও করিম সুতায় সমান টান পেয়েছিল কি? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘরহিমের ক্ষেত্রে :এখানে,[math]\hspace{1.2 cm}[/math]
+ঘূর্ণন ব্যাসার্ধ, [math]\mathrm{r}_{1}=0.8 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ভর, [math]\mathrm{m}_{1}=0.2 \mathrm{~kg}[/math]
+ 'গ' হতে পাই,[math]\hspace{1.2 cm}[/math]
+রৈখিক বেগ, [math]\mathrm{v}_{1}=7.54 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+রহিমের সুতার টান,[math]\hspace{2 cm}\begin{array}{l}\quad \mathrm{T}_{1}=\mathrm{m}_{1} \dfrac{\mathrm{v}_{1}^{2}}{\mathrm{~T}_{1}}=0.2 \times \dfrac{7.54^{2}}{0.8} \mathrm{~N} \\ \therefore \mathrm{T}_{1}=14.21 \mathrm{~N} \end{array}[/math]
+করিমের ক্ষেত্রে:এখানে,[math]\hspace{1.2 cm}[/math]
+ঘূর্ণন ব্যাসার্ধ, [math]\rm{r}_{2}=60 \mathrm{~cm}=0.6 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ভর, [math]\mathrm{m}_{2}=150 \mathrm{~g}=0.15 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ঘূর্ণন সংখ্যা [math]\mathrm{n}_{2}=120[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময়, [math]\rm{t}=1 \mathrm{~min}=60 \mathrm{~s}[/math]
+রৈখিক বেগ,[math]\hspace{2 cm}\begin{aligned} \mathrm{v}_{2}=\frac{\mathrm{n}_{2} \times 2 \pi \mathrm{I}_{2}}{\mathrm{t}} & =\frac{120 \times 2 \times 3.1416 \times 0.6}{60} \mathrm{~m} \mathrm{~s}^{-1} \\ & =7.54 \mathrm{~m} \mathrm{~s}^{-1} \end{aligned}[/math]
+ [math]\therefore[/math]
+ টান, [math]\mathrm{T}_{2}=\mathrm{m}_{2} \dfrac{\mathrm{v}_{2}^{2}}{\mathrm{I}_{2}}=0.15 \times \dfrac{7.54^{2}}{0.6} \mathrm{~N}=14.21 \mathrm{~N}[/math]
+উপরিউক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে, [math]\rm{T_{1}=T_{2}}[/math]
+অতএব, উদ্দীপকের ঘটনায় রহিম ও করিম সুতার সমান টান পেয়েছিল।
+
+Explanation:
+ঘ ব্যাখ্যা: কেন্দ্রে টান বা কেন্দ্রগামী বলের সূত্র [math]T=mr\omega^2[/math] এবং [math]\omega=2\pi f[/math] (এখানে [math]f[/math]=rev/min ÷ 60)। রহিমের ক্ষেত্রে [math]m=0.2\ \text{kg},\ r=0.8\ \text{m},\ f=90/60=1.5\ \text{Hz}\Rightarrow \omega=3\pi[/math], তাই [math]T_R=0.2\times0.8\times(3\pi)^2=1.44\pi^2[/math]. করিমের ক্ষেত্রে [math]m=0.15\ \text{kg},\ r=0.6\ \text{m},\ f=120/60=2\ \text{Hz}\Rightarrow \omega=4\pi[/math], তাই [math]T_K=0.15\times0.6\times(4\pi)^2=1.44\pi^2[/math]; ফলে উভয়ের টান সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 406962)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018, 2018, 2018, 2018, 2018 | Boards: Dhaka Board, Sylhet Board, Dinajpur Board, Rajshahi Board | Tags: Dhaka Board, Sylhet Board, Jessore Board, Dinajpur Board, Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+অপু 20 m ব্যাসবিশিষ্ট একটি বৃত্তাকার মাঠের চতুর্পার্শ্বে সর্বোচ্চ 30° কোণে কেন্দ্রের দিকে হেলানো অবস্থায় নিরাপদে সাইকেল চালাতে পারে। সে [math]20 \ km \ h^{-1}[/math] বেগে সাইকেল চালাচ্ছিল।
+
+Options:
+গ. বৃত্তাকার পথে 5 km এর সমান পথ অতিক্রম করতে কতবার মাঠ প্রদক্ষিণ করতে হবে?
+
+
+Correct Answer: 
+
+Solution:
+গমাঠের পরিধি,[math]\hspace{2 cm}\begin{aligned} \mathrm{C} & =2 \pi \mathrm{r} \\ & =2 \times 3.1416 \times 10 \mathrm{~m} \\ & =62.832 \mathrm{~m} \end{aligned}\qquad[/math]
+ [এখানে, মাঠের ব্যাসার্ধ, [math]r=\dfrac{2}{20}=10 \mathrm{~m}[/math]
+][math]\therefore ~5 \mathrm{~km}[/math]
+ এর সমান পথ অতিক্রম করতে মাঠের চারদিকে প্রদক্ষিণ সংখ্যা[math]\hspace{2 cm}=\dfrac{5 \times 10^{3}}{C}[/math]
+ বার [math]=\dfrac{5 \times 10^{3}}{62832}[/math]
+ বার [math]=79.58[/math]
+ বারঅতএব, [math]5 \rm{~km}[/math]
+ এর সমান পথ অতিক্রম করতে [math]79.58[/math]
+ অর্থাৎ প্রায় [math]80[/math]
+ বার মাঠ প্রদক্ষিণ করতে হবে।
+
+Explanation:
+গ ব্যাখ্যা: বৃত্তের ব্যাস [math]20\ \text{m}[/math] হলে ব্যাসার্ধ [math]r=10\ \text{m}[/math] এবং পরিধি [math]2πr=20π\ \text{m}[/math]। তাই দৌড়াতে হবে [math]N=\dfrac{5000}{20π}=\dfrac{250}{π}≈79.58[/math], অর্থাৎ কমপক্ষে পুরো ৫ কিমি অতিক্রম করতে প্রায় 80 বার মাঠ প্রদক্ষিণ করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 406963)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+142 cm এবং 122 cm ব্যাসের দুটি বৈদ্যুতিক পাখা বানানো হলো। প্রথমটি মিনিটে 150 বার ও দ্বিতীয়টি মিনিটে 180 বার ঘুরে। সুইচ বন্ধ করার 2s পর উভয় পাখা থেমে যায়।
+
+Options:
+গ. প্রথম পাখাটির প্রান্তবিন্দুতে কেন্দ্রমুখী ত্বরণ হিসাব কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1.2 cm}[/math]
+প্রথম পাখার ব্যাস [math]=142 \mathrm{~cm}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ [math]\therefore[/math]
+ ব্যাসার্ধ, [math]\mathrm{r}=\dfrac{\mathrm{142}}{2} \mathrm{~cm}=71 \mathrm{~cm}=0.71 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ঘূর্ণন সংখ্যা, [math]\rm{N}=150[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময়, [math]\rm{t}=1 \mathrm{~min}=60 \mathrm{~s}[/math]
+ [math]\therefore[/math]
+ কৌণিক বেগ, [math]\omega_{0}=\rm{\dfrac{2 \pi N}{t}}=\dfrac{2 \pi \times 150}{60 \mathrm{~s}}=5 ~\pi \mathrm{rad} \mathrm{s}^{-1}[/math]
+ [math]\therefore[/math]
+ কেন্দ্রমুখী ত্বরণ, [math]\rm{a=\omega_{0}^{2} r}=(5 \pi)^{2} \times 0.71=175.19 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+অতএব, প্রথম পাখাটির প্রান্তবিন্দুতে কেন্দ্রমুখী ত্বরণ [math]175.19 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+।
+
+Explanation:
+ব্যাখ্যা:
+গ কেন্দ্রমুখী ত্বরণ সূত্র [math]a_c=ω^2 r[/math]। এখানে [math]150\ \text{rev/min}=2.5\ \text{rev/s}=5π\ \text{rad/s}[/math] এবং [math]r=142/2=71\ \text{cm}=0.71\ \text{m}[/math] হলে
+[math]a_c=(5π)^2(0.71)\approx175\ \text{m/s}^2[/math] — তাই প্রান্তবিন্দুতে কেন্দ্রমুখী ত্বরণ প্রায় [math]175\ \text{m/s}^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 406964)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+142 cm এবং 122 cm ব্যাসের দুটি বৈদ্যুতিক পাখা বানানো হলো। প্রথমটি মিনিটে 150 বার ও দ্বিতীয়টি মিনিটে 180 বার ঘুরে। সুইচ বন্ধ করার 2s পর উভয় পাখা থেমে যায়।
+
+Options:
+ঘ. সুইচ বন্ধ করার পর থেমে যাওয়ার আগ পর্যন্ত উভয় পাখাই কি সমান সংখ্যকবার ঘুরে থেমেছে— যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, প্রথম পাখার কৌণিক বেগ, [math]\omega_{0}=5 \pi \mathrm{rad} \mathrm{s}^{-1}[/math]
+ ['গ' নং থেকে প্রাপ্ত]সময়, [math]\rm{t}=2 \mathrm{~s}[/math]
+প্রথম পাখার শেষ কৌণিক বেগ, [math]\omega=0[/math]
+ [math]\therefore[/math]
+ প্রথম পাখার কৌণিক সরণ, [math]\theta=\left(\dfrac{\omega_{0}+\omega}{2}\right) \mathrm{t}=\left(\dfrac{5 \pi \mathrm{rad} \mathrm{s}^{-1}+0}{2}\right) \times 2 \mathrm{~s}=5 \pi \mathrm{rad}[/math]
+ [math]\therefore[/math]
+ থেমে যাওয়ার আগে প্রথম পাখাটির ঘূর্ণন সংখ্যা, [math]\mathrm{N}_{1}=\dfrac{\theta}{2 \pi}=\dfrac{5 \pi}{2 \pi}=2.5 \mathrm{~rev}[/math]
+২য় পাখাটির ব্যাস [math]=122 \mathrm{~cm}[/math]
+ [math]\therefore[/math]
+ ব্যাসার্ধ, [math]\mathrm{r}=\dfrac{122}{2} \mathrm{~cm}=61 \mathrm{~cm}=0.61 \mathrm{~m}[/math]
+ঘূর্ণন সংখ্যা, [math]\rm{N}^{\prime}=180;[/math]
+ সময়, [math]\mathrm{t}^{\prime}=60 \mathrm{~s}[/math]
+ [math]\therefore[/math]
+ ২য় পাখাটির আদি কৌণিক বেগ, [math]\omega_{0}^{\prime}=\dfrac{2 \pi \mathrm{N}^{\prime}}{\mathrm{t}^{\prime}}=\dfrac{2 \pi \times 180}{60 \mathrm{~s}^{2}}=6 \pi \mathrm{rad} \mathrm{s}^{-1}[/math]
+২য় পাখার শেষ কৌণিক বেগ, [math]\omega^{\prime}=0[/math]
+ [math]\therefore[/math]
+ ২য় পাখাটির কৌণিক সরণ, [math]\theta^{\prime} =\left(\dfrac{\omega_{0}^{\prime}+\omega^{\prime}}{2}\right) t =\left(\dfrac{6 \pi \mathrm{rad} \mathrm{s}^{-1}+0}{2}\right) \times 2=6 \pi \mathrm{rad}[/math]
+ [math]\therefore[/math]
+ থেমে যাওয়ার আগে ২য় পাখাটির ঘূর্ণন সংখ্যা, [math]\mathrm{N}_{2}=\dfrac{\theta^{\prime}}{2 \pi}=\dfrac{6 \pi}{2 \pi}=3 \mathrm{rev}[/math]
+এখানে, [math]\mathrm{N}_{1} 
+eq \mathrm{N}_{2}[/math]
+অতএব, থেমে যাওয়ার আগ পর্যন্ত উভয় পাখা সমান সংখ্যক বার ঘুরেনি।
+
+Explanation:
+ব্যাখ্যা:
+ঘ প্রথমটির প্রারম্ভিক ঘূর্ণনগত হার [math]150/60=2.5[/math] rev/s এবং দ্বিতীয়টির [math]180/60=3[/math] rev/s; সমান ত্বরণের ধীরে থামে ধরলে থামার সময়কালে ঘূর্ণনসংখ্যা = (প্রারম্ভিক/2)×সময়। তাই প্রথমটির ঘূর্ণনসংখ্যা [math](2.5/2)×2=2.5[/math] rev এবং দ্বিতীয়টির [math](3/2)×2=3[/math] rev, অতএব উভয় সমানভাবে ঘুরেনি (দ্বিতীয়টি বেশি)।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 406965)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+রেকর্ডিং কাজে ব্যবহৃত একটি গ্রামোফোন রেকর্ড প্রতি মিনিটে 10টি ঘূর্ণন সম্পন্ন করে। এতে ২টি ট্র্যাক এর ব্যাসার্ধ যথাক্রমে 6 cm এবং 8 cm ।
+
+Options:
+গ. গ্রামোফোন এর ট্র্যাক দুটির রৈখিক দ্রুতি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1.2 cm}[/math]
+ঘূর্ণন সংখ্যা, [math]\rm{N}=10[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময়, [math]\mathrm{t}=1 \mathrm{~min}=60 \mathrm{~s}[/math]
+ [math]\hspace{1.2 cm}[/math]
+১ম ট্র্যাকের ব্যাসার্ধ, [math]\rm{r}_{1}=6 \mathrm{~cm}=0.06 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+২য় ট্র্যাকের ব্যাসার্ধ, [math]\rm{r}_{2}=8 \mathrm{~cm}=0.08 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ গ্রামোফোনে রেকর্ডটির কৌণিক দ্রুতি,[math]\hspace{2 cm}\begin{aligned} \omega & =\rm{\dfrac{2 \pi N}{t} }\\ & =\dfrac{2 \pi \times 10}{60 \mathrm{~s}}=\frac{\pi}{3} \mathrm{rad} \mathrm{s}^{-1} \end{aligned}[/math]
+ [math]\therefore[/math]
+ ১ম ট্র্যাকের রৈখিক দ্রুতি,[math]\hspace{2 cm}\begin{aligned} \mathrm{v}_{1} & =\omega \mathrm{r}_{1} \\ & =\left(\dfrac{\pi}{3} \times 0.06\right) \mathrm{m} \mathrm{s}^{-1}=0.0628 \mathrm{~m} \mathrm{~s}^{-1} \end{aligned}[/math]
+২য় ট্র্যাকের রৈখিক দ্রুতি,[math]\hspace{2 cm}\begin{aligned} \rm{v}_{2} & =\omega \rm{r}_{2} \\ & =\left(\frac{\pi}{3} \times 0.08\right) \mathrm{m} \mathrm{s}^{-1}=0.0838 \mathrm{~m} \mathrm{~s}^{-1} \end{aligned}[/math]
+অতএব, গ্রামোফোন এর ট্র্যাক দুটির রৈখিক দ্রুতি যথাক্রমে [math]0.0628 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ ও [math]0.0838 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: ঘূর্ণন হার 10 প্রতি মিনিট হলে কোণগত দ্রুতি [math]ω=10\times2π=20π\ \text{rad/min}[/math]. রৈখিক দ্রুতি সূত্র [math]v=ωr[/math] অনুযায়ী গ ট্র্যাকগুলোর জন্য [math]v_1=20π\times6=120π\ \text{cm/min}[/math] এবং [math]v_2=20π\times8=160π\ \text{cm/min}[/math]. সেকেন্ডে প্রকাশ করলে [math]v_1=2π\ \text{cm/s}[/math] এবং [math]v_2=\tfrac{8π}{3}\ \text{cm/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 406966)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+রেকর্ডিং কাজে ব্যবহৃত একটি গ্রামোফোন রেকর্ড প্রতি মিনিটে 10টি ঘূর্ণন সম্পন্ন করে। এতে ২টি ট্র্যাক এর ব্যাসার্ধ যথাক্রমে 6 cm এবং 8 cm ।
+
+Options:
+ঘ. যদি গ্রামোফোন রেকর্ডটি 10% বেশি কৌণিক দ্রুতিতে ঘুরে তবে শব্দের তীব্রতার কোনো পরিবর্তন হবে কি? বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রথম ক্ষেত্রে, কৌণিক দ্রুতি, [math]\omega=\dfrac{\pi}{3} \operatorname{rad} \mathrm{s}^{-1}[/math]
+ [গ হতে]কৌণিক দ্রুতি [math]10\%[/math]
+ বৃদ্ধি পেয়ে হবে,[math]\hspace{2 cm}\omega^{\prime}=\left(\dfrac{\pi}{3}+\dfrac{\pi}{3} \text { এর } 10 \%\right) \mathrm{rad} \mathrm{s}=\dfrac{11 \pi}{30} \mathrm{rad} \mathrm{s}^{-1}[/math]
+এখন,[math]\hspace{1.2 cm}\begin{array}{l} \quad \dfrac{\omega^{\prime}}{\omega}=\dfrac{2 \pi f^{\prime}}{2 \pi f}=\dfrac{f^{\prime}}{f}\\ \Rightarrow \dfrac{f^{\prime}}{f}=\dfrac{11 \pi}{30} \times \dfrac{3}{\pi}=\dfrac{11}{10} \\ \Rightarrow f^{\prime}>f \\ \Rightarrow f^{\prime 2}>f^{2} \end{array}[/math]
+আমরা জানি,[math]\hspace{2 cm}\rm{I \propto f^{2}}\ldots\ldots\ldots(1)[/math]
+ [math]\hspace{1.2 cm}[/math]
+এবং [math]\rm{I^{\prime} \propto f^{\prime 2}} \ldots\ldots\ldots(2)[/math]
+ [math]\hspace{2 cm}\begin{array}{l} \therefore \quad \dfrac{\mathrm{I}^{\prime}}{\mathrm{I}}=\dfrac{f^{\prime 2}}{f^{2}}=\dfrac{121}{100} \\ \Rightarrow \mathrm{I}^{\prime}=\dfrac{121}{100} \mathrm{I} \end{array}[/math]
+ [math]\therefore[/math]
+ তীব্রতার পরিবর্তন [math]\rm{=I^\prime-I=\dfrac{121}{100} I-I=\dfrac{21}{100} I=I \text { এর } 21 \%}[/math]
+ [math]\therefore[/math]
+ শব্দের তীব্রতা [math]21\%[/math]
+ বৃদ্ধি পাবে।
+
+Explanation:
+ব্যাখ্যা: ঘ অ্যাঞ্জুলার গতি 10% বাড়লে [math]\omega' = 1.1\omega[/math] হওয়ায় প্লেব্যাক ফ্রিকোয়েন্সিও 10% বাড়ে ([math]f' = 1.1f[/math]) এবং লিনিয়ার গতি প্রতিটি ট্র্যাকে [math]v=\omega r[/math] অনুযায়ী 10% বৃদ্ধি পায়। গ্রামোফোনে গ্রোভের অ্যাম্প্লিটিউড অপরিবর্তিত ধরে নিলে প্রতি সাইকেলে সঞ্চিত শক্তি একই থাকে, কেবল সেকেন্ডপ্রতি সাইকেলের সংখ্যা 10% বেড়ে যাওয়ায় পাওয়ার/শব্দ তীব্রতাও 10% বৃদ্ধি পায় — ফলে উভয় ট্র্যাকে তীব্রতা 10% বেশি হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 406967)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+নয়ন 25 g ভরের একটি পাথরখণ্ডকে 1m দীর্ঘ একটি সুতার সাহায্যে বৃত্তাকার পথে ঘুরাচ্ছে। পাথর খণ্ডটি প্রতি সেকেন্ডে ১ বার ঘুরছে। পাথরের ঘূর্ণন সংখ্যা একই রেখে সুতার দৈর্ঘ্য দ্বিগুণ করা হলো। সুতা সর্বাধিক 40 N বল সহ্য করতে পারে।
+
+Options:
+ঘ. নয়ন সুতার দৈর্ঘ্য দ্বিগুণ করে ঘূর্ণন সফলভাবে সম্পন্ন করতে পারবে কি-না- গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1.2 cm}[/math]
+পাথরের ভর, [math]\rm{m= 25 ~g = 0.025 ~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময়, [math]\rm{ t = 1~ s}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ঘূর্ণন সংখ্যা, [math]\rm{N = 5 }[/math]
+ [math]\hspace{1.2 cm}[/math]
+সুতার সহনশীল টান, [math]\rm{T = 40 ~N }[/math]
+ [math]\hspace{1.2 cm}[/math]
+সুতার দৈর্ঘ্য, [math]\rm{r = 1 × 2 ~m = 2 ~m}[/math]
+আমরা জানি,[math]\hspace{2 cm}\begin{aligned} \mathrm{T} & =\mathrm{m} \omega^{2} \mathrm{r} \\ & =\mathrm{m}\left(\frac{2 \pi \mathrm{N}}{\mathrm{t}}\right)^{2} \times \mathrm{r} \\ & =0.025 \times\left(\frac{2 \times 3.1416 \times 5}{1}\right)^{2} \times 2 \\ & =49.348 \mathrm{~N}>40 \mathrm{~N} \end{aligned}[/math]
+যেহেতু, সুতার সর্বাধিক [math]40 \rm{~N }[/math]
+ বল সহ্য করতে পারে। তাই সুতার দৈর্ঘ্য দ্বিগুণ করলে ঘূর্ণন সফলভাবে সম্পন্ন করা যাবে না।
+
+Explanation:
+ব্যাখ্যা: ঘ পাথরের ভর [math]m=25\ \text{g}=0.025\ \text{kg}[/math], কোণগত বেগ [math]\omega=2\pi f=2\pi\times1=2\pi\ \text{rad/s}[/math]. কেন্দ্রীয় বল [math]T=m\omega^2 r[/math] তাই প্রথমে [math]T_1=0.025(2\pi)^2(1)\approx0.99\ \text{N}[/math] এবং দৈর্ঘ্য দ্বিগুণ হলে [math]T_2=0.025(2\pi)^2(2)\approx1.97\ \text{N}[/math]. যেহেতু [math]1.97\ \text{N} \ll 40\ \text{N}[/math], সুতা দ্বিগুণ করেও ঘূর্ণন সফলভাবে এবং নিরাপদে করা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 406968)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+8 kg ভরের একটি বস্তুকে 0.2 m লম্বা দড়ি দিয়ে একটি নির্দিষ্ট অক্ষের চারিদিকে [math]2 \ rad \ s^{-1}[/math] বেগে ঘুরানো হচ্ছে।
+
+Options:
+ঘ. বস্তুটির ভর অর্ধেক হলে টর্কের কিরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1.2 cm}[/math]
+বস্তুর প্রাথমিক ভর, [math]\mathrm{m}_{1}=8 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+দড়ির দৈর্ঘ্য, [math]\rm{r}=0.2 \mathrm{~m}[/math]
+ধরি, বস্তুটির কৌণিক ত্বরণ [math]=\rm{a}[/math]
+ [math]\therefore[/math]
+ বস্তুর উপর ক্রিয়াশীল টর্ক [math]\tau_1[/math]
+ হলে,[math]\hspace{2 cm}\begin{aligned} \tau_{1} & =\mathrm{I}_{1} \alpha \\ & =\mathrm{m}_{1} \mathrm{r}^{2} \alpha \\ & =8 \mathrm{~kg} \times(0.2 \mathrm{~m})^{2} \times \alpha \\ \therefore ~\tau_{1} &= 0.32 \alpha \mathrm{Nm} \end{aligned}[/math]
+বস্তুর ভর অর্ধেক করা হলে, [math]\rm{m}_{2}=\dfrac{8 \mathrm{~kg}}{2}=4 \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ বস্তুর উপর প্রযুক্ত টর্ক [math]\tau_2[/math]
+ হলে,[math]\hspace{2 cm}\begin{aligned} \tau_{2} & =\mathrm{I}_{2} \alpha=\mathrm{m}_{2} \mathrm{r}^{2} \alpha=4 \mathrm{~kg} \times(0.2 \mathrm{~m})^{2} \times \alpha \\ \therefore \quad \tau_{2} & =0.16 \alpha \mathrm{Nm} \end{aligned}[/math]
+এখন,[math]\hspace{1 cm}\rm{\dfrac{\tau_{2}}{\tau_{1}}=\dfrac{0.16 \alpha}{0.32 \alpha}=0.5} \Rightarrow \tau_{2}=\dfrac{\tau_{1}}{2}[/math]
+অতএব, বস্তুর ভর অর্ধেক হলে টর্কের মানও অর্ধেক হবে।
+
+Explanation:
+ঘ বস্তুর জন্য কেন্দ্রীয় বল [math]F_c = m\omega^2 r[/math] এবং টর্ক [math]\tau = rF_c = m\omega^2 r^2[/math], তাই টর্ক সরাসরি ভরের অনুপাতেই পরিবর্তিত হয়। ভর অর্ধেক করলে [math]\tau' = \tfrac{m}{2}\omega^2 r^2 = \tfrac{1}{2}\tau[/math], অর্থাৎ টর্ক অর্ধেক হয়ে যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 406969)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+সার্কাস পার্টিতে একজন পারফরমার 5 kg ভরের একটি গোলককে ভূমি হতে 1.5 m উপরে অনুভূমিক তলে 2 mm লম্বা রশির সাহায্যে বৃত্তাকার পথে ঘোরাচ্ছেন। গোলকটি প্রতি মিনিটে 20 বার আবর্তন করে। ঘূর্ণায়মান অবস্থায় হঠাৎ রশিটি ছিঁড়ে যায়।
+
+Options:
+গ. আবর্তনশীল গোলকটি কেন্দ্রের দিকে কত বল অনুভব করবে?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক থেকে পাই,[math]\hspace{1.2 cm}[/math]
+গোলকটির ভর, [math]\mathrm{m}=5 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ব্যাসার্ধ, [math]\rm{r}=2 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ঘূর্ণন সংখ্যা, [math]\mathrm{N}=20[/math]
+ [math]\hspace{1.2 cm}[/math]
+সময় [math]\rm{t}=60 \mathrm{~s}[/math]
+ধরি, কেন্দ্রের দিকে অনুভূত বল, [math]\rm{F}[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \rm{F} &=\rm{m \omega^{2} r} \\ &=m\left(\frac{2 \pi \mathrm{N}}{\mathrm{t}}\right)^{2} \mathrm{r} \\ &=5 \mathrm{~kg} \times\left(\frac{2 \times 3.1416 \times 20}{60 \mathrm{~s}}\right)^{2} \times 2 \mathrm{~m} \\ &=43.87 \mathrm{~N} \end{aligned}[/math]
+অতএব, আবর্তনশীল গোলকটি কেন্দ্রের দিকে [math]43.87 \rm{~N}[/math]
+ বল অনুভব করবে।
+
+Explanation:
+ব্যাখ্যা:
+গ কেন্দ্রের দিকে আবর্তনশীল বল সেন্ট্রিপিটাল বল এবং এটি [math]F_c=mω^2r[/math] বা [math]F_c=m(2πf)^2r[/math] দিয়ে নির্ণয় করা যায়; এখানে [math]m=5\ \text{kg},\ f=20/60=1/3\ \text{Hz},\ r=2\ \text{m}[/math]. তাই [math]F_c=5\bigl(2π/3\bigr)^2×2=\dfrac{40π^2}{9}≈43.9\ \text{N}[/math], কেন্দ্রের দিকে প্রায় [math]43.9\ \text{N}[/math] বল কাজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 406970)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+সার্কাস পার্টিতে একজন পারফরমার 5 kg ভরের একটি গোলককে ভূমি হতে 1.5 m উপরে অনুভূমিক তলে 2 mm লম্বা রশির সাহায্যে বৃত্তাকার পথে ঘোরাচ্ছেন। গোলকটি প্রতি মিনিটে 20 বার আবর্তন করে। ঘূর্ণায়মান অবস্থায় হঠাৎ রশিটি ছিঁড়ে যায়।
+
+Options:
+ঘ. পারফরমার হতে দর্শক সারির দূরত্ব কেমন হলে গোলকটি কোনো দর্শককে আঘাত করবে না? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যা খ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+কৌণিক বেগ, [math]\omega=\dfrac{2 \pi \mathrm{N}}{\mathrm{t}}=\dfrac{2 \times 3.1416 \times 20}{60 \mathrm{~s}}=2.0944 \mathrm{~s}^{-1}[/math]
+ [math]\hspace{0.9 cm}[/math]
+ [math]\therefore[/math]
+ রৈখিক বেগ, [math]\mathrm{v}=\omega \mathrm{r}=(2.0944 \times 2) \mathrm{m} \mathrm{s}^{-1}=4.1888 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+এখন, গোলকটির রশি ছিঁড়ে গেলে এর উল্লম্ব সরণ হবে [math]\mathrm{y}=1.5 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অনুভূমিক আদিবেগ [math]\rm{v_{x_{0}}}=\rm{v}=4.1888 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1.2 cm}[/math]
+উল্লম্ব ত্বরণ, [math]\rm{a_{y}}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অনুভূমিক ত্বরণ [math]\mathrm{a}_{\mathrm{x}}=0[/math]
+ [math]\hspace{1.2 cm}[/math]
+উল্লম্ব আতিবেগ [math]\rm{v_{y_{0}}}=0[/math]
+গোলকটি মাটিতে পড়ার সময় [math]\rm{t}[/math]
+ হলে,[math]\hspace{1.6 cm}\begin{array}{l} \quad \mathrm{y}=\mathrm{v}_{\mathrm{y}_{0}} \mathrm{t}+\dfrac{1}{2} \mathrm{a}_{\mathrm{y}} \mathrm{t}^{2} \\ \Rightarrow \quad 1.5 \mathrm{~m}=0+\dfrac{1}{2} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times \mathrm{t}^{2} \\ \Rightarrow \quad 1.5 \mathrm{~m}=4.9 \mathrm{~m} \mathrm{~s}^{-2} \times \mathrm{t}^{2} \\ \Rightarrow \quad \mathrm{t}^{2}=\dfrac{1.5 \mathrm{~m}}{4.9 \mathrm{~m} \mathrm{~s}^{-2}} \\ \therefore \quad \mathrm{t}=0.5533 \mathrm{~s} \end{array}[/math]
+আবার, গোলকটির অতিক্রান্ত অনুভূমিক দূরত্ব [math]\rm{x}[/math]
+ হলে[math]\hspace{1.6 cm}\begin{aligned} \mathrm{x} & =\mathrm{v}_{\mathrm{x}_{0}} \mathrm{t}+\frac{1}{2} \mathrm{a}_{\mathrm{x}} \mathrm{t}^{2} \\ \Rightarrow \mathrm{x} & =4.1888 \mathrm{~m} \mathrm{~s}^{-1} \times 0.5533 \mathrm{~s}+\frac{1}{2} \times 0 \times \mathrm{t}^{2}=2.32 \mathrm{~m} \end{aligned}[/math]
+অতএব, পারফর্মার হতে দর্শক সারির দূরত্ব [math](2+2.32) \mathrm{m} =4.32 \mathrm{~m}[/math]
+ এর বেশি হলে গোলকটি কোনো দর্শককে আঘাত করবে না।
+
+Explanation:
+ঘ ব্যাখ্যা: রশি ছিঁড়লে গোলকটি তত্ক্ষণাত্ স্পর্শক (tangential)ভাবে চলে যায়, তাই প্রথমে তার গতিবেগ [math]v=2\pi r f[/math] নিয়ে হিসাব করি; এখানে [math]f=20/60=1/3\ \text{Hz}[/math] এবং ধরে নিচ্ছি রশির দৈর্ঘ্য [math]r=2\ \text{m}[/math], তাই [math]v=\frac{4\pi}{3}\approx4.19\ \text{m/s}[/math]. মাটিতে পড়তে সময় [math]t=\sqrt{\tfrac{2h}{g}}=\sqrt{\tfrac{2\times1.5}{9.8}}\approx0.553\ \text{s}[/math] এবং অনুভেড়িত দূরত্ব [math]x=v t\approx4.19\times0.553\approx2.32\ \text{m}[/math]. তাই পারফরমার থেকে দর্শক সারি কমপক্ষে প্রায় [math]2.32\ \text{m}[/math] দূরে থাকলে কেউ আঘাত পাবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 406954)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+সুতার সাহায্যে [math]500 \mathrm{~gm}[/math] ভরের একটি বস্তুকে উলম্বতলে [math]5 \rm{~ms}^{-1}[/math] ধ্রুব বেগে [math]60 \rm{~cm}[/math] ব্যাসের বৃত্তাকার পথে ঘুরানো হলো। [math]\left[\mathrm{g}=9.8 \mathrm{~ms}^{-2}\right][/math]
+
+Options:
+ঘ. [math]+\rm{X}[/math] অক্ষ হতে [math]30^\circ[/math] অবস্থানে এবং [math]90^\circ[/math] অবস্থানে সুতার টান গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+ভর, m = 0.5 kg[math]\hspace{1 cm}[/math]
+বেগ, [math]\mathrm{v}=5 \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যাসার্ধ, r = 0.3 m[math]\hspace{1 cm}[/math]
+কোণ, [math]\theta=30^{\circ}[/math]
+ [math]\hspace{1 cm}\therefore[/math]
+ সুতার টান, [math]T=?[/math]
+ [math]+X[/math]
+ অক্ষের সাথে [math]30^\circ[/math]
+ কোণে (ঘড়ির কাটার বিপরীত দিকে) অবস্থান কালে,
+[Image]
+সুতার টান,[math]\hspace{1.5 cm}\begin{aligned} T_{1} & =\frac{m v^{2}}{r}-m g \sin \theta \\ & =\frac{0.5^{\circ} \times(5)^{2}}{0.3}-\left(0.5 \times 9.8 \times \sin 30^{\circ}\right) \\ \therefore \mathrm{T}_{1} & =39.22 \mathrm{~N} \end{aligned}[/math]
+আবার, [math]+X[/math]
+ অক্ষের সাথে [math]90^\circ[/math]
+ কোণে (ঘড়ির কাটার বিপরীত দিকে) অবস্থান করলে,
+[Image]
+সুতার টান,[math]\hspace{1.5 cm}\begin{array} {l|l} \begin{aligned} \mathrm{T}_{2} & =\frac{\mathrm{mv}^2}{\mathrm{r}}-\mathrm{mg} \\ & =\frac{0.5 \times(5)^{2}}{0.3}-(0.5 \times 9.8) \\ \therefore \mathrm{T}_{2} & =36.77 \mathrm{~N} \end{aligned} \qquad & \begin{aligned} \mathrm{T}+\mathrm{mg}&=\frac{m v^{2}}{r} \\ \Rightarrow \quad \mathrm{T} &=\left(\frac{m v^{2}}{r}-m g\right) \end{aligned} \end{array}[/math]
+অর্থাৎ, [math]\mathrm{T}_{1}>\mathrm{T}_{2}[/math]
+আবার, যদি [math]+X[/math]
+ অক্ষের সাথে [math]30^\circ[/math]
+ কোণে (ঘড়ির কাটার দিকে) অবস্থান করলে,
+[Image]
+সুতার টান,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{3} & =\frac{\mathrm{mv}}{\mathrm{r}}+\mathrm{mg} \sin \theta \\ & =\frac{0.5 \times 5^{2}}{0.3}+\left(0.5 \times 9.8 \times \sin 30^{\circ}\right) \\ \therefore \mathrm{T}_{3} &=44.12 \mathrm{~N}\end{aligned}[/math]
+আবার, যদি [math]+X[/math]
+ অক্ষের সাথে [math]90^\circ[/math]
+ কোণে (ঘড়ির কাটার দিকে) অবস্থান করলে,
+[Image]
+সুতার টান,[math]\hspace{1.5 cm}\begin{aligned} t_{4} & =\frac{m v^{2}}{r}+m g \\ & =\frac{0.5 \times 5^{2}}{0.3}+(0.5 \times 9.8) \\ \therefore \mathrm{T}_{4} & =46.57 \mathrm{~N}\end{aligned}[/math]
+অর্থাৎ, [math]\mathrm{T}_{4}>\mathrm{T}_{3}[/math]
+সুতরাং, ঘড়ির কাটার দিকে [math]+X[/math]
+ অক্ষের সাথে [math]90^\circ[/math]
+ কোণে অবস্থান কালে সুতার টান সর্বোচ্চ হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: উলম্ব বৃত্তে তম্ববের দিকে লাগাম তানের সাথে ওজনের রেডিয়াল ইনকাম্পোনেন্ট মিলিয়ে কেন্দ্রগত বল দিতে হবে, তাই [math]T+mg\sin\theta=\dfrac{mv^2}{r}\;\Rightarrow\;T=\dfrac{mv^2}{r}-mg\sin\theta[/math]. এখানে [math]m=0.5\ \rm kg,\ v=5\ \rm m/s,\ r=0.6\ \rm m,\ g=9.8\ \rm m/s^2[/math] হলে [math]\dfrac{mv^2}{r}=20.8333\ \rm N[/math] ও [math]mg=4.9\ \rm N[/math]. সুতরাং [math]\theta=30^\circ[/math]-এ [math]T=20.8333-4.9\sin30^\circ=18.38\ \rm N[/math] এবং [math]\theta=90^\circ[/math]-এ [math]T=20.8333-4.9=15.93\ \rm N[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 406955)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+আরিতার ভর [math]40 \mathrm{~kg}[/math]। সে একটি ঘর্ষণহীন উলম্ব অক্ষের সাপেক্ষে অনুভূমিকভাবে ঘূর্ণায়মান নাগরদোলার প্রান্তবিন্দুতে চড়ে [math]25 \rm{~m}[/math] ব্যাসবিশিষ্ট বৃত্তাকার পথে প্রতি মিনিটে [math]10[/math] বার ঘুরছে। আরিতা ধীরে ধীরে কেন্দ্রের দিকে আসতে থাকে এবং কেন্দ্র থেকে [math]6\rm{~m}[/math] দূরে বিন্দুতে পৌঁছায়।
+
+Options:
+গ. প্রান্তবিন্দুতে থাকা অবস্থায় আরিতার রৈখিক বেগ কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+ব্যাসার্ধ,[math]\hspace{2 cm}\begin{aligned} r & =\frac{25}{2 } \mathrm{m} \\ & =12.5 \mathrm{~m} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+কৌণিক বেগ,[math]\hspace{2 cm}\begin{aligned} \omega & =\frac{2 \pi N}{t} \\ & =\frac{2 \pi \times 10}{60} \mathrm{rads}^{-1} \\ & =\frac{\pi}{3} \mathrm{rads}^{-1} \end{aligned}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned}v & =\omega r \\ & =\frac{\pi}{3} \times 12.5 \\ & =\frac{25 \pi}{6}=13.09 \mathrm{~ms}^{-1} \text{(Ans. )} \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ প্রান্তবিন্দুর ব্যাস [math]25\ \mathrm{m}[/math] হলে ত্রিজ্যা [math]r=12.5\ \mathrm{m}[/math], এবং ঘূর্ণনের হার [math]10/\text{min}=1/6\ \text{s}^{-1}[/math]। তাই রৈখিক বেগ [math]v=2\pi r f=12.5\times2\pi\times\frac{1}{6}=\frac{25\pi}{6}\ \mathrm{m/s}\approx13.09\ \mathrm{m/s}[/math] (ভর অপ্রাসঙ্গিক)।
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 406956)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি ভারি ঢাকার ভর [math]40 \mathrm{~kg}[/math] এবং জড়তার ভ্রামক [math]4000 ~\mathrm{kgm}^{2}[/math]। চাকাটি মিনিটে [math]120[/math] বার ঘুরছে। এক ব্যক্তি চাকাটিকে [math]1.5[/math] মিনিটে থামানোর জন্য [math]400 \rm{~Nm}[/math] বাধাদানকারী টর্ক প্রয়োগ করলেন।
+
+Options:
+ঘ. ঐ ব্যক্তি উদ্দীপকে উল্লিখিত নির্দিষ্ট সময়ে চাকাটি থামাতে সক্ষম হবে কি? গাণিতিকভাবে যাচাই করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, চাকাটি থামাতে t সময় লাগবে।এখানে,[math]\hspace{1 cm}[/math]
+টর্ক, [math]\tau=400 \mathrm{~Nm}[/math]
+ [math]\hspace{1 cm}[/math]
+জড়তার ভ্রামক, [math]\mathrm{I}=4000 \mathrm{~kgm}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+কৌণিক ত্বরণ, [math]\alpha = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \tau & =I \alpha \\ \Rightarrow \alpha & =\frac{\tau}{I}=\frac{400}{4000} \\ \therefore ~\alpha & =0.1 \mathrm{rads}^{-2}\end{aligned}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+আদি কৌণিক বেগ,[math]\hspace{1.5 cm}\begin{aligned} \omega_{0}=\frac{2 \pi \mathrm{N}}{\mathrm{t}} & =\frac{2 \pi \times 120}{60} \\ & =4 \pi \mathrm{rads}^{-1} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+শেষ কৌণিক বেগ, [math]\omega=0 \mathrm{rads}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+কৌণিক ত্বরণ, [math]\alpha=0.1 \mathrm{~rads}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+সময় t = ?আবার,[math]\hspace{1.5 cm}\begin{aligned} \omega & =\omega_{0}-\alpha \mathrm{t} \\ \Rightarrow \mathrm{t} & =\frac{\omega_{0}-\omega}{\alpha} \\ \Rightarrow \mathrm{t} & =\left(\frac{4 \pi-0}{0.1}\right) \\ \therefore ~ \mathrm{t} & =40 \pi=125.67 \mathrm{sec} \\ & =2 \mathrm{~min} 5.67 \mathrm{sec}>1.5 \mathrm{~min} \end{aligned}[/math]
+সুতরাং, ব্যক্তিটি 1.5 মিনিটে চাকাটি থামাতে চাইলেও সক্ষম হবেন না। চাকাটি থামাতে তার 2 মিনিট 5.67 সেকেন্ড প্রয়োজন।
+
+Explanation:
+ব্যাখ্যা:
+ঘ প্রথমে কোণের বেগ [math]\omega=120\ \text{rpm}=2\ \text{rev/s}=4\pi\ \text{rad/s}[/math] এবং কোণীয় ত্বরণ [math]\alpha=\tau/I=-400/4000=-0.1\ \text{rad/s}^2[/math]. থামাতে সময় লাগবে [math]t=\omega/|\alpha|=(4\pi)/0.1=40\pi\approx125.7\ \text{s}[/math], যা দেওয়া [math]1.5\ \text{min}=90\ \text{s}[/math] থেকে বেশি; তাই তিনি নির্দিষ্ট সময়ে চাকাটি থামাতে পারবেন না। দরকারী টর্ক হলোগত [math]\tau=I\omega/t=4000\times4\pi/90\approx559\ \text{Nm}[/math], যা [math]400\ \text{Nm}[/math]-এর চেয়ে বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 406957)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]5 \mathrm{~kg}[/math] ভর ও [math]30 \rm{~cm}[/math] ব্যাসার্ধের একটি চাকা মিনিটে [math]60[/math] বার ঘুরছে। চাকাটিতে [math]5 \rm{~sec}[/math] এ থামানোর জন্য [math]0.45 \mathrm{~N}\text{-}\mathrm{m}[/math] টর্ক প্রয়োগ করা হলো ।
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত সময়ে চাকাটিকে থামানো যাবে কি না যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘউত্তর: থামানো যাবে।
+
+Explanation:
+ঘ প্রথমে [math]ω_0=60\ \text{rev/min}=1\ \text{rev/s}=2π\ \text{rad/s}[/math] ও একটি কঠিন চাকার জন্য [math]I=\tfrac{1}{2}mr^2=\tfrac{1}{2}×5×(0.30)^2=0.225\ \mathrm{kg·m^2}[/math] পাওয়া যায়; প্রয়োজনীয় ঘূর্ণনজনিত ত্বরণ [math]α=-ω_0/t=-(2π)/5[/math], তাই প্রয়োজনীয় টর্ক [math]τ_{req}=I|α|=0.225×(2π/5)≈0.284\ \mathrm{N·m}[/math]. প্রদত্ত টর্ক [math]0.45\ \mathrm{N·m}>0.284\ \mathrm{N·m}[/math], তাই থামানো সম্ভব — প্রকৃত ত্বরণ [math]α=0.45/0.225=2\ \mathrm{rad/s^2}[/math] হলে থেমে যেতে সময় [math]t=ω_0/α=(2π)/2=π≈3.14\ \text{s}<5\ \text{s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 406953)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি লক্ষ করো :
+
+[Image]
+
+
+100 gm ভরের একটি পাথরখণ্ডকে 4 [math]ms^{-1}[/math] বেগে উলম্বতলে উপরে বর্ণিত চিত্র মতেI m ব্যাসার্ধের বৃত্তাকার পথে ঘুরানো হচ্ছে।
+
+Options:
+ঘ. উদ্দীপকে বর্ণিত A, B ও C বিন্দুগুলোর মধ্যে কোনটিতে সুতার টান সবচেয়ে বেশি হবে? গাণিতিক বিশ্লেষণের মাধ্যমে নির্ধারণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,বস্তুর ভর, [math]\mathrm{m}_{\mathrm{A}}=100 \mathrm{gm} =0.1 \mathrm{~kg}[/math]
+বেগ, [math]v=4 \mathrm{~ms}^{-1}[/math]
+বৃত্তাকার পথের ব্যাসার্ধ, r = 1 mA বিন্দুতে সূতার টান [math]T_A[/math]
+ হলে, [math]\Sigma \mathrm{F}_{\mathrm{A}}=\mathrm{ma}[/math]
+
+[Image]
+[math]\Rightarrow \mathrm{mg}+\mathrm{T}_{\mathrm{A}}=\frac{\mathrm{mv}^{2}}{\mathrm{r}}[/math]
+[ [math]\because[/math]
+ কেন্দ্রমুখী ত্বরণ, [math]a=\frac{v^{2}}{r}[/math]
+][math]\Rightarrow \mathrm{T}_{\mathrm{A}}=\frac{\mathrm{mv}^{2}}{\mathrm{r}}-\mathrm{mg}=\frac{0.1 \times(4)^{2}}{1}-0.1 \times 9.8=0.62 \mathrm{~N}[/math]
+
+[Image]
+B বিন্দুতে সূতার টান [math]T_B[/math]
+ হলে,[math]\begin{array}{l} \Sigma \mathrm{F}_{\mathrm{B}}=\mathrm{ma} \\ \Rightarrow \mathrm{T}_{\mathrm{B}}-\mathrm{mg}=\frac{\mathrm{mv}^{2}}{\mathrm{r}} \\ \Rightarrow \mathrm{T}_{\mathrm{B}}=\frac{\mathrm{mv}^{2}}{\mathrm{r}}+\mathrm{mg} \\ =\frac{(0.1) \times(4)^{2}}{1}+0.1 \times 9.8=2.58 \mathrm{~N} \end{array}[/math]
+
+[Image]
+C বিন্দুতে সূতার টান [math]T_C[/math]
+ হলে,[math]\begin{array}{l}\Sigma F=m a\\ \Rightarrow \mathrm{T}_{\mathrm{C}}-\mathrm{mg} \cos 60^{\circ}=\frac{\mathrm{mv}^{2}}{\mathrm{r}}\\ \Rightarrow \mathrm{T}_{\mathrm{C}}=\frac{\mathrm{mv}^{2}}{\mathrm{r}}+\mathrm{mg} \cos 60^{\circ}\\ =\frac{(0.1) \times(4)^{2}}{1}+0.1 \times 9.8 \times \frac{1}{2}=2.09 \mathrm{~N}\end{array}[/math]
+দেখা যাচ্ছে, [math]\mathrm{T}_{\mathrm{B}}>\mathrm{T}_{\mathrm{C}}>\mathrm{T}_{\mathrm{A}}[/math]
+ [math]\therefore[/math]
+ A, B, C বিন্দুগুলোর মধ্যে B বিন্দুতে সুতার টান সবচেয়ে বেশি হবে।
+
+Explanation:
+ব্যাখ্যা: বৃত্তীয় গতি-এ সুতার মান কেন্দ্রাত্মক বল ও ওজনের যোগ-বিয়োগের উপর নির্ভর করে; সাধারণভাবে উপরের বিন্দুতে [math]T=m\frac{v^2}{r}-mg[/math], নিচের বিন্দুতে [math]T=m\frac{v^2}{r}+mg[/math] এবং মধ্যবর্তী (কক্ষীয়) অবস্থায়মাত্রা [math]T=\sqrt{\left(m\frac{v^2}{r}\right)^2+(mg)^2}[/math]. এখানে [math]m=0.1\ \text{kg},\ v=4\ \text{m/s},\ r=1\ \text{m}[/math] হলে [math]m\frac{v^2}{r}=1.6\ \text{N}[/math] এবং [math]mg=0.98\ \text{N}[/math]. তাই উপরের বিন্দুতে [math]T=0.62\ \text{N}[/math], সাইডে [math]T\approx1.88\ \text{N}[/math] এবং নিচে [math]T\approx2.58\ \text{N}[/math]; সুতরাং সুতার টান সবচেয়ে বেশি নিচের বিন্দুতে (C)।
+
+Sub-Questions:
+

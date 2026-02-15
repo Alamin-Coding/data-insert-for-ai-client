@@ -1,0 +1,113 @@
+================================================================================
+Question #1 (ID: 395626)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\varphi=2 x z^{4}-x^{2} y[/math] হয় তবে [math](2,-2,-1)[/math] বিন্দুতে [math]\vec{
+abla}_{\varphi}[/math] এবং এর মান বের কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: ∇φ এর উপাদানগুলো আংশিক ডেরিভেটিভ দিয়ে পাওয়া যায়: [math]\partial_x\varphi=2z^4-2xy,\;\partial_y\varphi=-x^2,\;\partial_z\varphi=8xz^3[/math]. (2,-2,-1)-এ এগুলো হিসেব করলে [math]\nabla\varphi(2,-2,-1)=\langle10,-4,-16\rangle[/math] এবং এর মান [math]\sqrt{10^2+(-4)^2+(-16)^2}=\sqrt{372}=2\sqrt{93}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 395629)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\vec{r}=\left(3 y^{2} z\right) \hat{i}+\left(2 x^{3} z\right) \hat{j}-\left(x^{3} y^{2}\right) \hat{k}[/math] হলে, দেখাও যে, [math]\vec{r}[/math] ভেক্টরটি সলিনয়ডাল।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরটির ডাইভার্জেন্স হলো [math]\nabla\cdot\vec{r}=\frac{\partial}{\partial x}(3y^{2}z)+\frac{\partial}{\partial y}(2x^{3}z)+\frac{\partial}{\partial z}(-x^{3}y^{2})[/math], যেখানে প্রতিটি আংশে সংশ্লিষ্ট পরিবর্তক নেই, ফলে প্রতিটি আংশের জন্য অংশীয় ডেরিভেটিভ শূন্য। তাই [math]\nabla\cdot\vec{r}=0[/math], অর্থাৎ ভেক্টরটি সলিনয়ডাল (divergence-free)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 395646)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\varnothing=6 x^{2} y^{2} z[/math] হয় [math]\vec{
+abla} \cdot(\vec{
+abla} \varnoth ing)[/math] তবে নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]36 x y^{2} z+12 x^{3} z[/math])
+
+Explanation:
+ব্যাখ্যা: [math]\nabla\cdot(\nabla\phi)=\nabla^{2}\phi[/math] হলে প্রতিটি পরিবর্তনশীল অনুযায়ী দ্বিতীয় আংশিক যোগ করতে হবে। [math]\phi=6x^{2}y^{2}z\Rightarrow \frac{\partial^{2}\phi}{\partial x^{2}}=12y^{2}z,\ \frac{\partial^{2}\phi}{\partial y^{2}}=12x^{2}z,\ \frac{\partial^{2}\phi}{\partial z^{2}}=0[/math]; তাই [math]\nabla^{2}\phi=12z(x^{2}+y^{2})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 395662)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\varphi=2 x y^{4}-x^{2} z[/math] হলে, (2, -1, -2 ) বিন্দুতে [math]\vec{
+abla}_{\varphi}[/math] নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+প্রথমে আংশিক উৎপন্নকারীগুলো নিলে [math]\frac{\partial\varphi}{\partial x}=2y^{4}-2xz,\quad \frac{\partial\varphi}{\partial y}=8xy^{3},\quad \frac{\partial\varphi}{\partial z}=-x^{2}[/math]. ঐ বিন্দুতে বসালে [math]\nabla\varphi(2,-1,-2)=(10,\,-16,\,-4)[/math], তাই উত্তরটি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 395669)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\vec{
+abla} \cdot(\vec{
+abla} \times \vec{A})=0[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ত্রুটি নেই — সমাধানটি নিচে সংক্ষিপ্তভাবে প্রদর্শন করা হলো:
+
+[math]\nabla\cdot(\nabla\times\vec{A})=\partial_x(\partial_y A_z-\partial_z A_y)+\partial_y(\partial_z A_x-\partial_x A_z)+\partial_z(\partial_x A_y-\partial_y A_x)[/math] এবং মিশ্র আন্তর্গত ডেরিভেটিভসমূহের কমিউটেটিভিটি অনুযায়ী [math]\partial_i\partial_j=\partial_j\partial_i[/math], ফলে সমস্ত টার্ম জোড়ায় জোড়ায় বাতিল হয়ে যায়; তাই [math]\nabla\cdot(\nabla\times\vec{A})=0[/math].
+
+Sub-Questions:
+

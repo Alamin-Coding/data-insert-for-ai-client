@@ -1,0 +1,298 @@
+================================================================================
+Question #1 (ID: 411152)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+নির্ণায়কের সাহায্যে সমাধান কর : [math]x+2 y-z=5,3 x-y+3 z=7,2 x+3 y+z=11[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\therefore x=2, y=2, z=1[/math]
+ [math]\text { Weknow; } x=\frac{D x}{D} ; y=\frac{D y}{D} ; x=\frac{D z}{D}[/math]
+ [math]\therefore x=\frac{\left|\begin{array}{ccc}5 & 2 & -1 \\7 & -1 & 3 \\11 & 3 & 1\end{array}\right|}{\left|\begin{array}{ccc}1 & 2 & -1 \\3 & -1 & 3 \\2 & 3 & 1\end{array}\right|}=\frac{\left|\begin{array}{ccc}5 & 2 & -1 \\7 & -1 & 3 \\11 & 3 & 1\end{array}\right|}{-15}=\frac{-30}{-15}=2[/math]
+ [math]\therefore y=\frac{\left|\begin{array}{ccc}1 & 5 & -1 \\3 & 7 & 3 \\2 & 11 & 1\end{array}\right|}{-15}=\frac{-30}{-15}=2[/math]
+ [math]\therefore z=\frac{\left|\begin{array}{ccc}1 & 2 & 5 \\3 & -1 & 7 \\2 & 3 & 11\end{array}\right|}{-15}=\frac{-15}{-15}=1[/math]
+ [math]\therefore x=2, y=2, z=1 \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: Cramer's rule প্রয়োগ করলে মূল নির্ণায়ক [math]D=\begin{vmatrix}1&2&-1\\3&-1&3\\2&3&1\end{vmatrix}=-15\neq0[/math], তাই সমাধান একক; প্রতিস্থাপন করে পাওয়া নির্ণায়কের মানগুলো হল [math]D_x=-30,\;D_y=-30,\;D_z=-15[/math], ফলে [math]x=D_x/D=2,\;y=2,\;z=1[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 411151)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Barisal Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{rrr}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right],[/math] [math]X=\left[\begin{array}{l}x \\y \\z\end{array}\right],[/math] [math]B=\left[\begin{array}{l}2 \\4 \\6\end{array}\right][/math]
+
+এবং [math]f(x)=x^{3}-2 x^{2}+x-2 I[/math]
+
+Options:
+ক. [math]|\mathrm{A}|[/math] এর [math](3,2)[/math] তম ভুক্তি নির্ণয় কর।
+খ. [math]f(\mathrm{~A})[/math] নির্ণয় কর ।
+গ. যদি [math]\mathrm{AX}=\mathrm{B}[/math] হয়, তবে ক্রেমারের নিয়মের সাহায্যে সমীকরণ জোটটি সমাধান কর ।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]A=\left[\begin{array}{rrr}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right][/math]
+ [math]|A|=\left[\begin{array}{ccc}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right][/math]
+ [math]\therefore|\mathrm{A}|[/math]
+ এর [math](3, 2)[/math]
+ তম ভুক্তি [math]= - 4[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A=\left[\begin{array}{rrr}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right][/math]
+এবং [math]f(x)=x^{3}-2 x^{2}+x-2 I[/math]
+ [math]\therefore f(A)=A^{3}-2 A^{2}+A-2 I[/math]
+এখন, [math]A^{2}=A . A[/math]
+ [math]=\left[\begin{array}{rrr}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{ccc}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}16-2+15 & 4-1-20 \\-8+2-9 & -2+1+12 \\12+8-27 & 3+4+36\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}20-3-45 \\-10+3+27 \\15+12+81\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}29 & -17 & -28 \\-15 & 11 & 20 \\-7 & 43 & 108\end{array}\right][/math]
+ [math]A^{3}=A^{2} \cdot A[/math]
+ [math]=\left[\begin{array}{ccc}29 & -17 & -28 \\-15 & 11 & 20 \\-7 & 43 & 108\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{ccc}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}116+34-84 & 29+17+112 \\-60-22+60 & -15-11-80 \\-28-86+324 & -7-43-432\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}145+51+252 \cdot \\-75-33-180 \\-35-129-972\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}66 & 158 & 448 \\-22 & -106 & -288 \\210 & -482 & -1136\end{array}\right][/math]
+ [math]\therefore \quad f(A)=A^{3}-2 A^{2}+A-2 I[/math]
+ [math]=\left[\begin{array}{ccc}66 & 158 & 448 \\-22 & -106 & -288 \\210 & -482 & -1136\end{array}\right][/math]
+ [math]-2\left[\begin{array}{ccc}29 & -17 & -28 \\-15 & 11 & 20 \\-7 & 43 & 108\end{array}\right][/math]
+ [math]+\left[\begin{array}{ccc}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right][/math]
+ [math]-2\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}66-58+4-2 & 158+34+1-0 \\-22+30-2-0 & -106-22-1-2 \\210+14+3-0 & -482-86-4-0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}448+56+5-0 \\-288-40-3-0 \\-1136-216-9-2\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}10 & 193 & 509 \\6 & -131 & -331 \\227 & -572 & -1363\end{array}\right][/math]
+ [math]\therefore \quad f(A)=\left[\begin{array}{ccc}10 & 193 & 509 \\6 & -131 & -331 \\227 & -572 & -1363\end{array}\right][/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\left[\begin{array}{ccc}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right],[/math]
+ [math]X=\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+এবং [math]B=\left[\begin{array}{l}2 \\4 \\6\end{array}\right][/math]
+এখন, [math]\mathrm{AX}=\mathrm{B}[/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}4 & 1 & 5 \\-2 & -1 & -3 \\3 & -4 & -9\end{array}\right]\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}2 \\4 \\6\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{c}4 x+y+5 z \\-2 x-y-3 z \\3 x-4 y-9 z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}2 \\4 \\6\end{array}\right][/math]
+ [math]4 x+y+5 z=2[/math]
+তাহলে[math]\begin{array}{l}2 x+y+3 z=-4 \\3 x-4 y-9 z=6\end{array}[/math]
+এখন, [math]D=\left|\begin{array}{rrr}4 & 1 & 5 \\2 & 1 & 3 \\3 & -4 & -9\end{array}\right|[/math]
+ [math]=4(-9+12)-(-18-9)[/math]
+ [math]+5(-8-3)[/math]
+ [math]=12+27-55=-16[/math]
+ [math]D_{x}=\left|\begin{array}{rrr}2 & 1 & 5 \\-4 & 1 & 3 \\6 & -4 & -9\end{array}\right|[/math]
+ [math]=2(-9+12)-1(36-18)[/math]
+ [math]+5(16-6)[/math]
+ [math]=6-18+50=38[/math]
+ [math]D_{y}=\left|\begin{array}{ccc}4 & 2 & 5 \\2 & -4 & 3 \\3 & 6 & -9\end{array}\right|[/math]
+ [math]=4(36-18)-2(-18-9)[/math]
+ [math]+5(12+12)[/math]
+ [math]=72+54+120=246[/math]
+ [math]D_{z}=\left|\begin{array}{ccc}4 & 1 & 2 \\2 & 1 & -4 \\3 & -4 & 6\end{array}\right|[/math]
+ [math]=4(6-16)-1(12+12)[/math]
+ [math]+2(-8-3)[/math]
+ [math]=-40-24-22=-86[/math]
+ [math]\therefore \quad x=\frac{D_{x}}{D}[/math]
+ [math]=\frac{38}{-16}[/math]
+ [math]=-\frac{19}{8}[/math]
+ [math]\begin{array}{l}y=\frac{D_{x}}{D}=\frac{246}{-16}=-\frac{123}{8} \\z=\frac{D_{z}}{D}=\frac{-86}{-16}=\frac{43}{8}\end{array}[/math]
+নির্ণেয় সমাধান [math](x, y, z)[/math]
+ [math]=\left(-\frac{19}{8}, \frac{-123}{8}, \frac{43}{8}\right)[/math]
+
+
+Explanation:
+সমাধান:
+
+ক (ভুক্তি/মাইনর ও সহগ): (3,2) তম মাইনর পেতে তৃতীয় সারি ও দ্বিতীয় কলাম বাদ দিলে বাকী 2×2 সূক্ষ্ম(det) হল [math]\begin{vmatrix}4 & 5\\ -2 & -3\end{vmatrix}=4(-3)-5(-2)=-12+10=-2[/math]; তাই মাইনর = [math]-2[/math] এবং আলজেব্রিক সহগ (cofactor) = [math](-1)^{3+2}(-2)=2[/math]।
+
+খ (ফাংশনটি ম্যাট্রিক্সে প্রয়োগ): প্রথমে [math]A^2=\begin{pmatrix}29&-17&-28\\-15&11&20\\-7&43&108\end{pmatrix}[/math] ও [math]A^3=\begin{pmatrix}66&158&448\\-22&-106&-288\\210&-482&-1136\end{pmatrix}[/math] গণনা করে [math]f(A)=A^3-2A^2+A-2I[/math] প্রয়োগ করলে ফল পাওয়া যায়: [math]f(A)=\begin{pmatrix}10&193&509\\6&-131&-331\\227&-572&-1363\end{pmatrix}[/math]।
+
+গ (ক্রেমারের নিয়ম): প্রথমে [math]\det(A)=16[/math] পাওয়া যায়; কলাম পরিবর্তন করে পাওয়া ডিটারমিনেন্টগুলো হল [math]\det(A_x)=-38,\ \det(A_y)=-246,\ \det(A_z)=86[/math], তাই ক্রেমারের সূত্রে [math]x=\dfrac{-38}{16}=-\dfrac{19}{8},\ y=\dfrac{-246}{16}=-\dfrac{123}{8},\ z=\dfrac{86}{16}=\dfrac{43}{8}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 411150)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Ananda Mohan College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}=\left[\begin{array}{rrr}2 & 1 & 1 \\1 & -1 & 2 \\3 & 1 & 1\end{array}\right],[/math] [math]\mathrm{X}=\left[\begin{array}{l}\mathrm{x} \\\mathrm{y} \\\mathrm{z}\end{array}\right],[/math] [math]\mathrm{C}=\left[\begin{array}{l}3 \\9 \\0\end{array}\right][/math]
+
+Options:
+ক. প্রতিসম ম্যাট্রিক্স কি ব্যাখ্যা কর।
+খ. [math]A^{-1}[/math] নির্ণয় কর ।
+গ. [math]\mathrm{AX}=\mathrm{C}[/math] সমীকরণ জোটটি সমাধান কর ।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রতিসম ম্যাট্রিক্স : একটি বর্গ ম্যাট্রিক্স [math]A[/math]
+ কে প্রতিসম বলা হয়।যদি [math]A^{T}=A[/math]
+ হয় ।[math]A=\left[\begin{array}{lll}a & x & y \\x & b & z \\y & z & c\end{array}\right]^{T}[/math]
+ হলে,[math]A^{T}=\left[\begin{array}{lll}a & x & y \\x & b & z \\y & z & c\end{array}\right]=A[/math]
+ [math]\therefore \mathbf{A}[/math]
+ একটি প্রতিসম ম্যাট্রিক্স।[math]\\[/math]
+ খদেওয়া আছে, [math]A=\left[\begin{array}{rrr}2 & 1 & 1 \\1 & -1 & 2 \\3 & 1 & 1\end{array}\right][/math]
+ [math]\therefore |A|=\left[\begin{array}{rrr}2 & 1 & 1 \\1 & -1 & 2 \\3 & 1 & 1\end{array}\right][/math]
+ [math]=2(-1-2)-(1-6)[/math]
+ [math]+1(1+3)[/math]
+ [math]=-6+5+4=3 
+eq 0[/math]
+যেহেতু [math]|A| 
+eq 0[/math]
+ সেহেতু [math]\mathbf{A}^{-1}[/math]
+ বিদ্যমান ।এখন, [math]A_{11}=\left|\begin{array}{rr}-1 & 2 \\1 & 1\end{array}\right|[/math]
+ [math]=-1-2=-3[/math]
+ [math]A_{12}=-\left|\begin{array}{ll}1 & 2 \\3 & 1\end{array}\right|[/math]
+ [math]=-(1-6)=5[/math]
+ [math]A_{13}=\left|\begin{array}{rr}1 & -1 \\3 & 1\end{array}\right|[/math]
+ [math]=1+3=4[/math]
+ [math]A_{21}=-\left|\begin{array}{ll}1 & 1 \\1 & 1\end{array}\right|[/math]
+ [math]=-(1-1)=0[/math]
+ [math]A_{22}=\left|\begin{array}{ll}2 & 1 \\3 & 1\end{array}\right|=2-3=-1[/math]
+ [math]A_{23}=-\left|\begin{array}{ll}2 & 1 \\3 & 1\end{array}\right|[/math]
+ [math]=-(2-3)=1[/math]
+ [math]A_{31}=\left|\begin{array}{rr}1 & 1 \\-1 & 2\end{array}\right|[/math]
+ [math]=2+1=3[/math]
+ [math]A_{33}=\left|\begin{array}{rr}2 & 1 \\1 & -1\end{array}\right|[/math]
+ [math]=-2-1=-3[/math]
+ [math]\therefore \quad \operatorname{Adj} A[/math]
+ [math]=\left[\begin{array}{lll}A_{11} & A_{12} & A_{13} \\A_{21} & A_{22} & A_{23} \\A_{31} & A_{32} & A_{33}\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{rrr}-3 & 5 & 4 \\0 & -1 & 1 \\3 & -3 & -3\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{rrr}-3 & 0 & 3 \\5 & -1 & -3 \\4 & 1 & -3\end{array}\right][/math]
+ [math]A^{-1}=\frac{1}{|A|} \operatorname{Adj} A[/math]
+ [math]\begin{array}{l}=\frac{1}{3}\left[\begin{array}{rrr}-3 & 0 & 3 \\5 & -1 & -3 \\4 & 1 & -3\end{array}\right] \\=\left[\begin{array}{ccc}-1 & 0 & 1 \\\frac{5}{3} & \frac{-1}{3} & -1 \\\frac{4}{3} & \frac{1}{3} & -1\end{array}\right]\end{array}[/math]
+নির্ণেয় [math]A^{-1}=\left[\begin{array}{ccc}-1 & 0 & 1 \\\frac{5}{3} & \frac{-1}{3} & -1 \\\frac{4}{3} & \frac{1}{3} & -1\end{array}\right][/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\left[\begin{array}{rrr}2 & 1 & 1 \\1 & -1 & 2 \\3 & 1 & 1\end{array}\right],[/math]
+ [math]X=\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ এবং [math]C=\left[\begin{array}{l}3 \\9 \\0\end{array}\right][/math]
+খ-হতে প্রাপ্ত, [math]A^{-1}[/math]
+ [math]=\left[\begin{array}{ccc}-1 & 0 & 1 \\\frac{5}{3} & \frac{-1}{3} & -1 \\\frac{4}{3} & \frac{1}{3} & -1\end{array}\right][/math]
+এখানে, [math]A X=C[/math]
+ [math]\begin{array}{l}\Rightarrow \mathrm{A}^{-1} \cdot \mathrm{AX}=\mathrm{A}^{-1} \cdot \mathrm{C} \\\Rightarrow \mathrm{IX}=\mathrm{A}^{-1} \cdot \mathrm{C}\end{array}[/math]
+ [math]\Rightarrow X=\left[\begin{array}{ccc}-1 & 0 & 1 \\\frac{5}{3} & \frac{-1}{3} & -1 \\\frac{4}{3} & \frac{1}{3} & -1\end{array}\right][/math]
+ [math]\left[\begin{array}{l}3 \\9 \\0\end{array}\right][/math]
+ [math]\Rightarrow X=\left[\begin{array}{c}-3+0+0 \\5-3-0 \\4+3-0\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{r}-3 \\2 \\7\end{array}\right][/math]
+ [math]\therefore \quad x=-3, y=2[/math]
+ এবং [math]\mathbf{z}=7[/math]
+নির্ণেয় সমাধান [math](x, y, z)=(-3,2,7)[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক প্রতিসম (symmetric) ম্যাট্রিক্সের সংজ্ঞা হল [math]A^T=A[/math]; এখানে [math]A^T\neq A[/math] কারণ উদাহরণস্বরূপ [math]a_{13}=1\ne a_{31}=3[/math], তাই দেওয়া ম্যাট্রিক্সটি প্রতিসম নয়।
+
+খ নির্ণয় করতে প্রথমে [math]\det A=3[/math] পাওয়া যায় এবং adjugate ব্যবহার করে
+[math]A^{-1}=\frac{1}{3}\begin{pmatrix}-3&0&3\\[4pt]5&-1&-3\\[4pt]4&1&-3\end{pmatrix}
+=\begin{pmatrix}-1&0&1\\[4pt]5/3&-1/3&-1\\[4pt]4/3&1/3&-1\end{pmatrix}[/math]।
+
+গ সমাধান পাওয়া যায় [math]\mathbf{X}=A^{-1}\mathbf{C}[/math] ব্যবহার করে, ফলে
+[math]\mathbf{X}=\begin{pmatrix}-3\\[4pt]2\\[4pt]7\end{pmatrix},[/math]
+যা যাচাই করলে [math]A\mathbf{X}=\mathbf{C}[/math] সত্যি হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 411149)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left.\begin{array}{r}2 x+y+z=0 \\x+y-3 z=0 \\3 x+2 y-3 z=1\end{array}\right\}[/math] একটি তিন চলকবিশিষ্ট সমীকরণ জোট ।
+
+Options:
+ক. [math]k[/math] এর মান কত হলে, [math]\left[\begin{array}{lll}2 & 4 & 1 \\2 & \mathrm{k} & 3 \\0 & 0 & 2\end{array}\right][/math] একটি ব্যতিক্রমী ম্যাট্রিক্স হবে?
+খ. ক্রেমারের নিয়ম অনুযায়ী উদ্দীপকের সমীকরণ জোটের সমাধানের সম্ভাব্যতা যাচাই কর ।
+গ. ক্রেমারের নিয়মে উদ্দীপকের সমীকরণ জোটের সমাধান কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\left[\begin{array}{ccc}2 & 4 & 1 \\2 & \mathrm{k} & 3 \\0 & 0 & 2\end{array}\right][/math]
+ ব্যতিক্রমী ম্যাট্রিক্স হলে, [math]\left|\begin{array}{lll}2 & 4 & 1 \\2 & \mathrm{k} & 3 \\0 & 0 & 2\end{array}\right|=0[/math]
+ [math]= 2(2 k-0)-4(4-0)+0=0[/math]
+ [math]= 4 \mathrm{k}-16=0[/math]
+ [math]=4 \mathrm{k}=16[/math]
+ [math]\therefore \mathrm{k}=4 \text{ (Ans.)}[/math]
+ [math]\\[/math]
+ খদেওয়া আছে,[math]\begin{array}{l}2 x+y+z=0 \\x+y-3 z=0 \\3 x+2 y-3 z=1\end{array}[/math]
+এখন, প্রদত্ত সমীকরণ তিনটির সহগগুলো দ্বারা গঠিত ম্যাট্রিক্সেরনির্ণায়ক, [math]\Delta=\left|\begin{array}{lll}2 & 1 & 1 \\1 & 1 & -3 \\3 & 2 & -3\end{array}\right|[/math]
+ [math]=2(-3+6)-1(-3+9)[/math]
+ [math]+1(2-3)[/math]
+ [math]=6-6-1=-1 
+eq 0[/math]
+সুতরাং ক্রেমারের নিয়ম অনুযায়ী সমীকরণ জোটের অনন্য সমাধান আছে।[math]\\[/math]
+ গ‘খ' থেকে পাই, [math]\Delta=-1[/math]
+ [math]\Delta_{\mathrm{x}}=\left|\begin{array}{lll}0 & 1 & 1 \\0 & 1 & -3 \\1 & 2 & -3\end{array}\right|[/math]
+ [math]=1\left|\begin{array}{ll}1 & 1 \\1 & -3\end{array}\right|[/math]
+ [math]=-3-1=-4[/math]
+ [math]\Delta_{\mathrm{y}}=\left|\begin{array}{lll}2 & 0 & 1 \\1 & 0 & -3 \\3 & 1 & -3\end{array}\right|[/math]
+ [math]=(-1)^{3+2} \cdot 1\left|\begin{array}{ll}2 & 1 \\1 & -3\end{array}\right|[/math]
+ [math]=-(-6-1)=7[/math]
+ [math]\Delta_{\mathrm{z}}=\left|\begin{array}{lll}2 & 1 & 0 \\1 & 1 & 0 \\3 & 2 & 1\end{array}\right|[/math]
+ [math]=1\left|\begin{array}{ll}2 & 1 \\1 & 1\end{array}\right|[/math]
+ [math]=2-1=1[/math]
+ [math]\therefore \mathrm{x}=\frac{\Delta_{\mathrm{x}}}{\Delta}=\frac{-4}{-1}=4[/math]
+ [math]; \mathrm{y}=\frac{\Delta_{\mathrm{y}}}{\Delta}=\frac{7}{-1}=-7[/math]
+ এবং [math]\mathrm{z}=\frac{\Delta_{z}}{\Delta}=\frac{1}{-1}=-1[/math]
+ [math]\therefore[/math]
+ নির্ণেয় সমাধান: [math](x, y, z)[/math]
+ [math]=(4,-7,-1)[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ম্যাট্রিক্সটির ডিটারমিন্যান্ট হলো [math]\det=2\cdot\det\begin{pmatrix}2&4\\2&k\end{pmatrix}=2\cdot(2k-8)=4(k-4)[/math], সুতরাং ব্যতিক্রমী (singular) হবে যখন [math]k=4[/math]।
+
+খ মূল সমীকরণ জোটের সহগ ম্যাট্রিক্সটির ডিটারমিন্যান্ট গণনা করলে [math]\det A=-1\neq0[/math], ফলে ক্রেমারের নিয়ম প্রযোজ্য এবং সমাধান একক (unique)।
+
+গ ক্রেমারের নিয়মে কীঘটলে [math]D_x=-4,\;D_y=7,\;D_z=1[/math] এবং [math]\det A=-1[/math], তাই [math]x=D_x/\det=4,\;y=D_y/\det=-7,\;z=D_z/\det=-1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 411147)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{cc}2 & x+y \\x-y & 3\end{array}\right]=\left[\begin{array}{ll}2 & 4 \\2 & 3\end{array}\right][/math] হলে [math](x, y)[/math] কত?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]x+y=4, x-y=2[/math]
+ [math]\Rightarrow 2 x=6,2[/math]
+ [math]y=2[/math]
+ [math]\therefore(x, y)[/math]
+ [math]=(3,1)[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমতুল্য ম্যাট্রিক্সের সমান স্থানে থাকা উপাদানগুলো সমান হয়, তাই [math]x+y=4[/math] এবং [math]x-y=2[/math]; যোগ করলে [math]2x=6\Rightarrow x=3[/math] এবং এরপর [math]y=1[/math]। তাই [math](x,y)=(3,1)[/math]।
+
+Sub-Questions:
+

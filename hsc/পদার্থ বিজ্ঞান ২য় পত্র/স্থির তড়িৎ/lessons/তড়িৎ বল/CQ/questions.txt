@@ -1,0 +1,2115 @@
+================================================================================
+Question #1 (ID: 421657)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Govt. Tolaram College, Narayanganj
+--------------------------------------------------------------------------------
+Question:
+[math]ABCD[/math] বর্গক্ষেত্রের প্রত্যেক বাহুর দৈর্ঘ্য [math]1m[/math]। এর তিনটি কৌণিক বিন্দু [math]B,\ C[/math] ও [math]D[/math] বিন্দুতে যথাক্রমে [math]+ 5C, - 10 C[/math] এবং [math]+ 5C[/math] আধান আছে।
+
+[Image]
+
+
+Options:
+ঘ. [math]A[/math] বিন্দুতে [math]2\ \mu C[/math] মানের একটি আধান স্থাপন করা হলে এর উপর কোনো বল ক্রিয়া করবে কি? গাণিতিক বিশ্লেষণপূর্বক ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে, AB = BC = CD = DA = 1m[math]\begin{array}{l}q_{B}=q_{D}=+5 C, q_{C}=-10 C, q_{A}=2 \mu C=2 \times 10^{-6} C \\C A=\sqrt{2}\end{array}[/math]
+B বিন্দুস্থ চার্জের জন্য A বিন্দুতে আকর্ষণ বল,[math]\begin{aligned}F_{B} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{g_{B} q_{A}}{B C^{2}} \\& =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{+5 \mathrm{C} \times 2 \times 10^{-6} \mathrm{C}}{1^{2}}=9 \times 10^{4} \mathrm{~N}\end{aligned}[/math]
+D বিন্দুস্থ চার্জের জন্য A বিন্দুতে আকর্ষণ বল, [math]F_{D}=9 \times 10^{4} N[/math]
+ [math]\mathrm{F}_{\mathrm{B}}[/math]
+ ও [math]\mathrm{F}_{\mathrm{D}}[/math]
+ লব্ধি বল,[math]\begin{aligned}\mathrm{F}_{\mathrm{BD}} & =\sqrt{\mathrm{F}_{\mathrm{B}}^{2}+\mathrm{F}_{\mathrm{D}}^{2}+2 \mathrm{~F}_{\mathrm{B}} \mathrm{F}_{\mathrm{D}} \cos 90^{\circ}} \\& =\sqrt{\mathrm{F}_{\mathrm{B}}^{2}+\mathrm{F}_{\mathrm{B}}^{2}+0} \\& =\sqrt{2 \mathrm{~F}_{\mathrm{B}}^{2}}=\sqrt{2} \mathrm{~F}_{\mathrm{B}} \\& =\sqrt{2} \times 9 \times 10^{4} \mathrm{~N} \\& =1.27 \times 10^{5} \mathrm{~N}\end{aligned}[/math]
+দিক CA বরাবরC বিন্দুস্থ চার্জের জন্য A বিন্দুতে আকর্ষণ বল,[math]\begin{aligned}\mathrm{F}_{\mathrm{C}} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{g}_{\mathrm{C}} \cdot \mathrm{q}_{\mathrm{A}}}{\mathrm{CA}^{2}} \\& =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{10 \mathrm{C} \times 2 \times 10^{-6} \mathrm{C}}{(\sqrt{2})^{2}} \\& =9 \times 10^{4} \mathrm{~N} \end{aligned}[/math]
+দিক AC বরাবর[math]\begin{aligned}\therefore \mathrm{F} & =\mathrm{F}_{\mathrm{BD}}-\mathrm{F}_{\mathrm{C}} \\& =1.27 \times 10^{5} \mathrm{~N}-9 \times 10^{4} \mathrm{~N}=3.7 \times 10^{4} \mathrm{~N}\end{aligned}[/math]
+সুতরাং A বিন্দুতে 2 [math]\mu[/math]
+C মানের আধান স্থাপন করলে সেটি [math]3.7 \times 10^{4} \mathrm{~N}[/math]
+ বল লাভ করবে ।
+
+Explanation:
+ব্যাখ্যা: ঘ এ বল থাকবে। B ও D থেকে A তে প্রতিটি ক্ষেত্রের মান [math]E_B=E_D=5k[/math] (বাম ও নিচে) এবং C থেকে [math]E_C=\dfrac{10k}{(\sqrt{2})^2}=5k[/math] (45° এ, প্রতি অংশে [math]5k/\sqrt{2}[/math]) হওয়ায় মোট অনুভূমিক ও উল্লম্ব ক্ষেত্র দুটোই [math]5k(1/\sqrt{2}-1)\neq0[/math]। তাই টেস্ট চার্জ [math]q=2\times10^{-6}\,C[/math] থাকলে [math]\mathbf{F}=q\mathbf{E}_{\text{net}}\neq0[/math] —অর্থাৎ বল ক্রিয়া করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 421658)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023, 2023 | Boards: Mymensingh Board, Rajshahi Board | Tags: Mymensingh Board, Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+তড়িৎ ক্ষেত্রের ধারণা ব্যাখ্যায় কুলম্বের সূত্রের সীমাবদ্ধতা ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কুলম্বের সূত্র দুটি বিন্দু চার্জের মধ্যে আকর্ষণ বা বিকর্ষণ বল নির্ণয় করতে পারলেও এটি তড়িৎ ক্ষেত্রের ধারণা সঠিকভাবে ব্যাখ্যা করতে পারে না।
+
+এর সীমাবদ্ধতাগুলো নিম্নরূপ-
+
+• এটি কেবলমাত্র বিন্দু চার্জের জন্য প্রযোজ্য।
+
+• এটি কেবল সুষম আকৃতির চার্জিত বস্তুর ক্ষেত্রে প্রযোজ্য।
+
+• শুধুমাত্র স্থির চার্জের ক্ষেত্রে প্রযোজ্য। চার্জসমূহের মধ্যে আপেক্ষিক বেগ বিদ্যমান থাকলে এদের মধ্যে তড়িৎ ক্ষেত্রের পাশাপাশি চৌম্বকক্ষেত্র ক্রিয়াশীল হয়।
+
+তখন কুলম্বের সূত্র দ্বারা তড়িৎক্ষেত্র ব্যাখ্যা করা যায় না।
+
+Explanation:
+ব্যাখ্যা: কুলম্বের সূত্র কেবল বিন্দু আকৃতির, স্থির চার্জ এবং শূন্য মাধ্যম (ভ্যাকুয়াম)–এ প্রযোজ্য হওয়ায় এটি ক্ষেত্রের সাধারণ ধারণা ব্যাখ্যার ক্ষেত্রে সীমাবদ্ধ; বিস্তৃত চার্জ বণ্টন হলে ক্ষেত্র পেতে ইন্টিগ্রেশন বা গাউসের সূত্র দরকার। গতিশীল চার্জ বা তড়িৎ-চৌম্বকীয় প্রক্রিয়ায় স্থূল কুলম্ব সূত্র তৎক্ষণাৎ বল ধরে, অথচ বাস্তবে আপেক্ষিকতা ও রিটার্ডেড পোটেনশিয়াল বিবেচনা করা প্রয়োজন। এছাড়া ডাইইলেকট্রিক বা কনডাক্টরের উপস্থিতিতে মাধ্যমের পোলারাইজেশন এবং সীমানা শর্ত কুলম্ব সূত্রে দেওয়া নেই, তাই ম্যাক্সওয়েল সমীকরণগুলি বেশি সার্বজনীন।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 421659)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+একই দূরত্বে অবস্থিত দুটি চার্জের ক্রিয়াশীল বল পরাবৈদ্যুতিক মাধ্যম দ্বারা কীভাবে প্রভাবিত হয়— ব্যা খ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা জানি, কুলম্বের সূত্রানুযায়ী দুটি চার্জ [math]\mathrm{q}_{1}[/math]
+ ও [math]\mathrm{q}_{2}[/math]
+ কে শূন্য মাধ্যমে রাখলে এদের মধ্যে ক্রিয়াশীল বল, [math]\mathrm{F}_{0}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{1} \mathrm{q}_{2}}{\mathrm{r}^{2}}[/math]
+ যেখানেr = দূরত্ব এবং [math]\epsilon_{0}=[/math]
+ শূন্য মাধ্যমের ভেদনযোগ্যতা। ওই দুটি চার্জকে আবার অন্য মাধ্যমে রাখলে তাদের মধ্যে ক্রিয়াশীল বল [math]F=\frac{1}{4 \pi \epsilon} \frac{q_{1} q_{2}}{r^{2}}[/math]
+যেখানে, [math]\in=[/math]
+ ঐ মাধ্যমের তড়িৎ ভেদনযোগ্যতা । এখন, [math]\frac{\mathrm{F}_{0}}{\mathrm{~F}} = \frac{\epsilon}{\epsilon_{0}}=\epsilon_{\mathrm{r}}[/math]
+যেখানে, [math]\epsilon_{r}=[/math]
+ মাধ্যমের পরাবৈদ্যুতিক ধ্রুবক। সুতরাং, [math]F_{0}=\in_{\mathrm{r}} \mathrm{F}[/math]
+ বা [math]F =\frac{\mathrm{F}_{0}}{\epsilon_{\mathrm{r}}}[/math]
+। যেহেতু [math]\epsilon_{\mathrm{r}}>1,[/math]
+ তাই [math]\mathrm{E}<\mathrm{F}_{0}[/math]
+ অর্থাৎ, একই দূরত্বে অবস্থিত দুটি চার্জের ক্রিয়াশীল বল শূন্য মাধ্যম ছাড়া অন্য পরাবৈদ্যুতিক মাধ্যমে রাখলে কমে যায় বা হ্রাস পায়।
+
+Explanation:
+পরাবৈদ্যুতিক মাধ্যমে দুই চার্জের মধ্যকার বল [math]F[/math] কুলম্বের সূত্র অনুযায়ী হ্রাস পায় এবং হয়ে যায় [math]F=\dfrac{1}{4\pi\varepsilon_0\varepsilon_r}\,\dfrac{q_1q_2}{r^2}[/math], যেখানে [math]\varepsilon_r[/math] হচ্ছে মাধ্যমের আপেক্ষিক ধ্রুবক (dielectric constant)। কারণ মাধ্যম পোলারাইজেড হয়ে সীমাবদ্ধ বিসতি চার্জ সৃষ্টি করে যা মূল ক্ষেত্রকে আংশিকভাবে নিরসন করে, ফলে বল [math]\varepsilon_r[/math] দ্বারা ভাগ হয়ে ছোটে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 421660)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+সমধর্মী চার্জ পরস্পরকে বিকর্ষণ করে কেন? ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+প্রকৃতিগতভাবেই দেখা যায়, সমধর্মী চার্জ পরস্পরকে বিকর্ষণ করে এবং বিপরীতধর্মী চার্জ পরস্পরকে আকর্ষণ করে। এর মূল কারণ হলো এদের মধ্যে ক্রিয়াশীল তাড়িতচৌম্বক বল। দুটি চার্জ স্থির অবস্থায় থাকলে এদের মধ্যে তড়িৎ বল কাজ করে। বিজ্ঞানীরা ধারণা করেন, ফোটন নামক ভরহীন, চার্জহীন কণার 'পারস্পরিক বিনিময়ের দ্বারা এই বল কার্যকর হয়। এ জন্যই সমধর্মী চার্জ পরস্পরকে বিকর্ষণ করে।
+
+Explanation:
+সমধর্মী চার্জ পরস্পরকে বিকর্ষণ করে কারণ প্রতিটি চার্জ একটি বৈদ্যুতিক ক্ষেত্র তৈরি করে এবং অন্য চার্জ সেই ক্ষেত্রে বল অনুভব করে। কুলনের সূত্র অনুযায়ী চার্জগুলোর গুণফল একই চিহ্নে ধনাত্মক হওয়ায় বলটি একে অপরকে ঠেলে দূরে সরিয়ে দেয় (বিকর্ষণ)।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 421656)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Border Guard Public School & College
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দুটি বিন্দু চার্জ নির্দিষ্ট দূরত্বে শূন্য মাধ্যমে আছে।
+
+[Image]
+
+
+Options:
+গ. চার্জ দুটির মধ্যে ক্রিয়াশীল কুলম্ব বলের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, ১ম চার্জ, [math]q_{1}= 30 \times 10^{-7} \mathrm{C}[/math]
+২য় চার্জ, [math]q_{2}= -40 \times 10^{-7} \mathrm{C}[/math]
+মধ্যবর্তী দূরত্ব, r = 1 m; ধ্রুবক, [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+ক্রিয়াশীল বল, F = ?আমরা জানি,[math]\begin{aligned}\mathrm{F} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{g}_{1} \mathrm{~g}_{2}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{30 \times 10^{-7} \mathrm{C} \times\left(-40 \times 10^{-7}\right)}{(1 \mathrm{~m})^{2}} \\& =-0.108 \mathrm{~N}\end{aligned}[/math]
+অতএব, চার্জ দুটির মধ্যে ক্রিয়াশীল কুলম্ব বলের মান 0.108 N।
+
+Explanation:
+ব্যাখ্যা:
+গ কুলম্বের সূত্র অনুযায়ী বলের পরিমাণ হচ্ছে [math]F=\frac{1}{4\pi\epsilon_0}\frac{|q_1 q_2|}{r^2}[/math], যেখানে সাধারণত [math]k=\frac{1}{4\pi\epsilon_0}=9\times10^9\ \text{N·m}^2/\text{C}^2[/math] ব্যবহার করে হিসাব করা হয় তাই [math]F=k\frac{|q_1 q_2|}{r^2}[/math] বসিয়ে সংখ্যাগত মান পাওয়া যাবে। চিহ্ন বিবেচনা করলে ভিন্ন স্বাক্ষরের চার্জ হলে বল আকর্ষণ (opposite), একই স্বাক্ষরের হলে প্রতিকর্ষণ (repulsion)।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 421655)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Saidpur
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রের আয়তক্ষেত্রের দুটি বিন্দুতে দুটি চার্জ রাখা আছে।
+
+Options:
+গ. [math]A[/math] ও [math]D[/math] বিন্দুর মধ্যবর্তী তড়িৎ বল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,A বিন্দুর চার্জ, [math]q_1[/math]
+ = 4CD বিন্দুর চার্জ, [math]q_2[/math]
+ = 2 CA ও D বিন্দুর মধ্যবর্তী দূরত্ব, d = √5 mA ও D বিন্দুর মধ্যবর্তী তড়িৎ বল,[math]\begin{aligned}\mathrm{F} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{1} \mathrm{q}_{2}}{\mathrm{~d}^{2}} \\& =9 \times 10^{9} \times \frac{4 \times 2}{(\sqrt{5})^{2}} \mathrm{~N} \\\therefore \quad \mathrm{F} & =1.44 \times 10^{10} \mathrm{~N}\end{aligned}[/math]
+এটি বিকর্ষণ বল ।অতএব, A ও D বিন্দুর মধ্যবর্তী তড়িৎ বলের মান [math]1.44 \times 10^{10} \mathrm{~N}[/math]
+. এটি বিকর্ষণধর্মী বল ।
+
+Explanation:
+ব্যাখ্যা:  
+গ কেসে A ও D এর মধ্যে তড়িৎ বল কুলম্বের সূত্রে দেয়া, মান [math]F = k\frac{|q_A q_D|}{AD^2}[/math] হবে। দিকটি দুই বিন্দুর সংযোগরেখার বরাবর হবে — চার্জ একই চিহ্ন হলে বলটি বিপর্যাস (দূরে ঠেলে), এবং বিপরীত চিহ্ন হলে আকর্ষণ করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 421654)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Gazipur Cantonment College
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকের চিত্রটি লক্ষ কর :
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের [math]C[/math] বিন্দুতে একটি একক ধনাত্মক আধান রাখলে এটি কোন দিকে গতিশীল হবে? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে, [math]Q_{1}=2 \times 10^{-9} \mathrm{C}[/math]
+ [math]\begin{aligned}\mathrm{Q}_{2} & =-3 \times 10^{-9} \mathrm{C} \\\mathrm{BC} & =6 \sqrt{3} \mathrm{~m} ; \mathrm{AB}=6 \sqrt{3} \mathrm{~m} \\\mathrm{AC} & =\sqrt{\mathrm{AB}^{2}+\mathrm{BC}^{2}} \\& =\sqrt{(6 \sqrt{3})^{2}+(6 \sqrt{3})^{2}} \mathrm{~m} \\& =\sqrt{108+108} \mathrm{~m}=6 \sqrt{6} \mathrm{~m}\end{aligned}[/math]
+এখন, আমরা জানি, কোনো বিন্দুতে একক আধান বা চার্জের উপর ক্রিয়াশীল বলকে তড়িৎক্ষেত্রের প্রাবল্য বলা হয়।এখন, [math]Q_1[/math]
+ আধানের জন্য C বিন্দতে প্রাবল্য[math]E_{1}=\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{Q_{1}}{\mathrm{AC}^{2}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{2 \times 10^{-9} \mathrm{C}}{(6 \sqrt{6} \mathrm{~m})^{2}}[/math]
+ [math]=0.0833 \mathrm{NC}^{-1}[/math]
+ দিক AC বরাবরআবার, [math]Q_2[/math]
+ চার্জের জন্য C বিন্দুতে প্রাবল্য[math]\begin{aligned}E_{2}= & \frac{1}{4 \pi \epsilon_{0}} \cdot \frac{Q_{2}}{\mathrm{BC}^{2}} \\& =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \cdot \frac{-3 \times 10^{-9} \mathrm{C}}{(6 \sqrt{3} \mathrm{~m})^{2}}\end{aligned}[/math]
+ [math]= - 0.25 \mathrm{NC}^{-1}[/math]
+ দিক BC বরাবর[math]=0.25 \mathrm{NC}^{-1}[/math]
+ দিক CB বরাবরএখন, [math]\tan \angle \mathrm{ACB}=\frac{\mathrm{AB}}{\mathrm{BC}}=\frac{6 \sqrt{3} \mathrm{~m}}{6 \sqrt{3}}[/math]
+বা, [math]\angle A C B=\tan ^{-1} \sqrt{1}=45^{\circ}[/math]
+ [math]\therefore \quad \angle B C F=180^{\circ}-45^{\circ}=135^{\circ}[/math]
+এখন লব্ধি প্রাবল্য [math]E_2[/math]
+ এর সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করলে,[math]\tan \theta=\frac{E_{1} \sin 135^{\circ}}{E_{2}+E_{1} \cos 135^{\circ}}=\frac{0.0833 \sin 135^{\circ}}{0.25+0.0833 \cos 135^{\circ}}[/math]
+ [math]\therefore \theta=17.14^{\circ}[/math]
+ প্ৰায়অতএব, C বিন্দুতে স্থাপিত একক ধনাত্মক চার্জটি CB এর সাথে 17.14° কোণে CD বরাবর গতিশীল হবে ।
+
+Explanation:
+ঘ ব্যাখ্যা: একটি ধনাত্মক চার্জের উপরে বল ইলেকট্রিক ফিল্ডের দিকেই কাজ করে এবং [math]\vec{E}=-\nabla V[/math], তাই [math]\vec{F}=q\vec{E}=-q\nabla V[/math]। যেহেতু [math]q>0[/math], বল ও গতি সম্ভাব্যতার নিম্নমুখী দিকে হবে—অর্থাৎ C বিন্দু থেকে কম ভোল্টেজের দিকে (ইলেকট্রিক ফিল্ডের দিকে) সরবে।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 421653)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]ABC[/math] সমবাহু ত্রিভুজের শীর্ষ বিন্দুতে যথাক্রমে– [math]4q,\ 2q[/math] ও [math]3q[/math] চার্জ স্থাপন করা আছে। ত্রিভুজের কেন্দ্র বিন্দুতে একটি ধনাত্মক [math]1\ coul[/math] চার্জ স্থাপন করা হলে এটি [math]A[/math] শীর্ষ বিন্দুর দিকে গতিশীল হয়। ত্রিভুজের প্রতি বাহুর দৈর্ঘ্য [math]10\ cm[/math] এবং [math]q=1.0 \times 10^{-7} \mathrm{c oul}[/math]
+
+Options:
+ঘ. [math]A[/math] শীর্ষ বিন্দুর চার্জের কিরূপ পরিবর্তন করলে কেন্দ্রে স্থাপিত চার্জটি স্থির থাকবে, তার গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘA তে যদি এমন একটি চার্জ স্থাপন করা যায় যাতে ত্রিভুজটির কেন্দ্রে নিট তড়িৎ প্রাবল্য শূন্য হয় তবে কেন্দ্রে স্থাপিত চার্জটি স্থির থাকবে ।এখানে, কেন্দ্র থেকে শীর্ষের দূরত্ব,[math]r=\frac{10}{\sqrt{3}} \times 10^{-2} \mathrm{~m}[/math]
+ ['গ' নং থেকে]ধরি, A শীর্ষে + q চার্জ স্থাপন করলে কেন্দ্রে নিট তড়িৎ প্রাবল্য শূন্য হবে ।[math]\therefore[/math]
+ চিত্রানুসারে,
+[Image]
+[math]\mathrm{E}=\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \cdot \mathrm{E}_{2} \cos 120^{\circ}}[/math]
+বা, [math]q^{\prime 2}=q_{B}^{2}+q_{C}^{2}+2 q_{B} q_{C} \cos 120^{\circ}[/math]
+বা, [math]\mathrm{q}^{\prime}=\sqrt{\left(2 \times 10^{-7}\right)^{2}+\left(3 \times 10^{-7}\right)^{2}+2 \times\left(2 \times 10^{-7}\right)\left(3 \times 10^{-7}\right) \cos 120}[/math]
+[[ এখানে, B বিন্দুর চার্জ, [math]\mathrm{q}_{\mathrm{B}}=2 \mathrm{q}=2 \times 10^{-7} \mathrm{C}[/math]
+,C বিন্দুর চার্জ, [math]\mathrm{q}_{\mathrm{C}}=3 \mathrm{q}=3 \times 10^{-7} \mathrm{C}[/math]
+,[math]q=1 \times 10^{-7} C[/math]
+ ]]বা, [math]\mathrm{q}^{\prime}=2.646 \times 10^{-7} \cdot \mathrm{C}[/math]
+বা, [math]\mathrm{q}^{\prime}=2.646^{\circ} \mathrm{q}[/math]
+অতএব, উদ্দীপক অনুসারে, A শীর্ষ বিন্দুতে – 4 q চার্জের পরিবর্তে + 2.646 q চার্জ স্থাপন করলে কেন্দ্রে স্থাপিত চার্জটি স্থির থাকবে।
+
+Explanation:
+ব্যাখ্যা: কেন্দ্রবিন্দুতে থাকা একক ধনাত্মক চার্জ স্থির থাকতে হলে শীর্ষ [math]A[/math] থেকে নিচের দিকে আসা ধাক্কা এবং [math]B,C[/math] থেকে উপরের দিকে আসা ধাক্কাগুলোর আনুভাগিক অংশ সমান হতে হবে; [math]B[/math] ও [math]C[/math] থেকে কেন্দ্রের প্রতি রেখার দিক [math]A[/math]-দিকের সাথে কোণ [math]60^\circ[/math] ফলে তাদের এনভর্তির সম্মুখ অবস্থান ভগ্নাংশ [math]\cos60^\circ=1/2[/math] হবে। তাই স্থিতির শর্ত হল [math]Q_A=\tfrac{1}{2}(Q_B+Q_C)[/math] । এখানে [math]Q_B=2q,\ Q_C=3q[/math] হওয়ায় [math]Q_A=\tfrac{1}{2}(5q)=2.5q=[2.5\times10^{-7}\,\mathrm{C}][/math], সুতরাং [math]A[/math]-র চার্জকে [math]4q[/math] থেকে [math]2.5q[/math] এ নামাতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 421652)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Holy Cross College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+একই ভর [math](0.2\ g)[/math] এবং একই পরিমাণ চার্জ সমন্বিত দুটি চার্জিত বল কে [math]A[/math] বিন্দু থেকে একই দৈর্ঘ্যের [math](50\ cm)[/math] সুতা দ্বারা ঝুলানো হলে চার্জ ব্যবস্থাটি চিত্রানুসারে সাম্যবস্থায় থাকে। [এখানে [math]F,\ T,\ m[/math] যথাক্রমে চার্জদ্বয়ের মধ্যকার বিকর্ষণ বল এবং সুতার টান বল, চার্জিত বলের ভর]
+
+Options:
+গ. উদ্দীপকের বল দুটির প্রত্যেকটিতে চার্জের পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের সূত্রানুসারে, [math]\angle \mathrm {ABC} = 90^\circ - 37^\circ = 53^\circ[/math]
+এখানে, [math]\frac{1}{4 \pi \epsilon_{0}}=\mathrm{k}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+চার্জদ্বয়ের মধ্যবর্তী দূরত্ব, r = 60 cm = 0.6.mবলের ভর, m = 0.2 g = 0.2 [math]\times 10^3[/math]
+ kgএখন, লামির উপপাদ্য অনুসারে,[math]\frac{F}{\sin \left(90^{\circ}+53^{\circ}\right)}=\frac{\mathrm{mg}}{\sin (180-53)^{\circ}}[/math]
+বা, [math]\mathrm{F}=\frac{0.2 \times 10^{-3} \times 9.8 \times \sin 143^{\circ}}{\sin 127^{\circ}}[/math]
+বা, [math]\mathrm{k} \cdot \frac{\mathrm{q}^{2}}{\mathrm{r}^{2}}=1.477 \times 10^{-3}[/math]
+বা, [math]q=\sqrt{\frac{1.477 \times 10^{-3}}{k}} \times r[/math]
+বা, [math]q=\sqrt{\frac{1.477 \times 10^{-3}}{9 \times 10^{9}}} \times 0.6 \mathrm{C}[/math]
+ [math]\therefore \quad \mathrm{q}=2.43 \times 10^{-7} \mathrm{C}[/math]
+অতএব, উদ্দীপকের বল দুটির প্রত্যেকটিতে চার্জের পরিমাণ [math]2.43 \times 10^{-7} \mathrm{C }[/math]
+
+
+Explanation:
+গ সমাধান: প্রতিটি বলের জন্য টানের উপাদানগুলি ও বৈদ্যুতিক বিকর্ষণ সমতুল্য করে: [math]T\cos\theta=mg,\quad T\sin\theta=F_{\rm e}=\dfrac{kq^2}{r^2}[/math], যেখানে [math]r=2L\sin\theta[/math]. তাই [math]F_{\rm e}=mg\tan\theta[/math] এবং [math]q=\sqrt{\dfrac{mg\tan\theta\;r^2}{k}}=\sqrt{\dfrac{mg\tan\theta\;(2L\sin\theta)^2}{k}}[/math]. এখন এখানে [math]m=0.2\ g[/math], [math]L=50\ cm[/math] ও ছবিতে দেওয়া কোণ [math]\theta[/math] সঠিক SI এককে রূপান্তর করে উপরে দেওয়া সূত্রে বসালে প্রতিটি বলের চার্জ সংখ্যা বের হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 421651)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে, [math]A,\ B[/math] এবং [math]C[/math] তিনটি চার্জিত বল একটি তড়িৎ ক্ষেত্র সৃষ্টি করে যেখানে [math]C[/math] বলটি [math]A[/math] ও [math]B[/math] এর সাথে সমকোণে অবস্থিত এবং স্থানান্তর করা সম্ভব। [ দূরত্ব, [math]AC\ :\ BC\ =\ 2\ :\ 1[/math]]
+
+Options:
+ঘ. বর্তমান অবস্থা হতে [math]C[/math] বলটি [math]A[/math] ও [math]B[/math] এর সংযোগ সরল রেখার কোন দিকে ধাবিত হবে?-গাণিতিকভাবে তোমার উত্তরের যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘনিচের চিত্রটি লক্ষ করি
+[Image]
+ধরি, লব্ধি প্রাবল্য, E, [math]E_{CB}[/math]
+ এর সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করে ।[math]\therefore \quad \tan \theta=\frac{E_{C A} \sin \alpha}{E_{C B}+E_{C A} \cos \alpha}[/math]
+বা, [math]\tan \theta=\frac{E_{C A} \sin 90^{\circ}}{E_{C B}+E_{C A} \cos 90^{\circ}}[/math]
+ [এখানে, [math]\alpha[/math]
+ = 90°]বা, [math]\tan \theta=\frac{6.75 \times 10^{5}}{1.35 \times 10^{6}}=0.5[/math]
+বা, [math]\theta = 26.56^\circ[/math]
+সুতরাং তড়িৎ প্রাবল্যের লব্ধি BC এর বর্ধিত অংশের সাথে [math]26.56^\circ[/math]
+ কোণ উৎপন্ন করে। এখন লব্ধি প্রাবল্য যেদিকে হবে C বিন্দুর চার্জটির ঠিক সেই দিকে সরণ ঘটবে। অর্থাৎ চার্জটি BC-এর বর্ধিতাংশের সাথে [math]26.56^\circ[/math]
+ কোণে প্রবাহিত হয়। তবে চার্জ সরিয়ে নিলে বলটি যদি নিচে ধাবিত হয় তবে তা AB এর সংযোগ রেখার উপরে ধাবিত হবে ।
+
+Explanation:
+ব্যাখ্যা: ঘ C বলটি AB সংযোগরেখার দিকে A এর দিকে ধাবিত হবে। ধরুন AC = 2, BC = 1 এবং সব বলগুলোর চার্জ সমান [math]q[/math]; A থেকে C তে প্ররোচক বলের মান [math]F_A=k\frac{q^2}{2^2}=\frac{kq^2}{4}[/math] এবং B থেকে C তে [math]F_B=k\frac{q^2}{1^2}=kq^2[/math]। C তে মোট বলের ভেক্টর [math](-F_A,-F_B)[/math] এবং AB এর দিকে (A থেকে B) ভেক্টর ধরা হলে [math](-2,1)[/math] এর সাথে ডট প্রোডাক্ট নেগেটিভ আসে, ফলে উপাদানটি A এর দিকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 421650)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Adamjee Cantonment Public School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. ভূমিতে অবস্থিত [math]D[/math] বিন্দুতে থাকা [math]+ 2\ \mu C[/math] লোহার গোলকের ভর [math]200\ gm[/math] হলে তা [math]A[/math] ও [math]B[/math] তে থাকা চার্জের দরুন শূন্যে ভাসবে কি না গাণিতিক ভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে, [math]\mathrm{q}_{\mathrm{A}}=\mathrm{q}_{\mathrm{B}}=-4 \times 10^{-6} \mathrm{C}[/math]
+ [math]r_{A B}=r_{A D}=r_{B D}=20 \mathrm{~cm}=0.2 \mathrm{~m}[/math]
+A বিন্দুর দরুণ D বিন্দুতে প্রাবল্য,[math]\begin{aligned}E_{\mathrm{A}} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{\mathrm{A}}}{\mathrm{r}_{\mathrm{AD}}^{2}} \\& =9 \times 10^{9} \times \frac{4 \times 10^{-6}}{(0.2)^{2}} \mathrm{NC}^{-1} \\& =9 \times 10^{5} \mathrm{NC}^{-1} \end{aligned}[/math]
+যা DA বরাবরঅনুরূপভাবে, B বিন্দুর দরুণ D বিন্দুতে প্রাবল্য,[math]\mathrm{E}_{\mathrm{B}}=9 \times 10^{5} \mathrm{NC}^{-1}[/math]
+ ; যা DB বরাবর[math]\therefore[/math]
+ লন্ধি প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{\mathrm{R}} & =\sqrt{\mathrm{E}_{\mathrm{A}}^{2}+\mathrm{E}_{\mathrm{B}}^{2}+2 \cdot \mathrm{E}_{\mathrm{A}} \cdot \mathrm{E}_{\mathrm{B}} \cos \angle \mathrm{ADB}} \\& =\sqrt{\left(9 \times 10^{5}\right)^{2}+\left(9 \times 10^{5}\right)^{2}+2 \times 9 \times 10^{5} \times 9 \times 10^{5} \times \cos 60^{\circ}} \\& =1.56 \times 10^{6} \mathrm{NC}^{-1}\end{aligned}[/math]
+2 [math]\mu[/math]
+C লোহার গোলকের উপর উর্ধ্বমুখী ক্রিয়াশীল বল,[math]\begin{aligned}\mathrm{F} & =\mathrm{qE} \mathrm{E}_{\mathrm{R}} \\& =\left(2 \times 10^{-6} \times 1.56 \times 10^{6}\right) \mathrm{N} \\& =3.12 \mathrm{~N}\end{aligned}[/math]
+লোহার গোলকের ওজন, [math]\mathrm{F}^{\prime}=\mathrm{mg}=200 \times 10^{-3} \times 9.8=1.96 \mathrm{~N}[/math]
+এখানে, F > F'[math]\therefore[/math]
+ লোহার গোলকটি শূন্যে ভাসবে ।
+
+Explanation:
+ঘ না — ভাসবে না; কারণ এর ওজন [math]mg=0.2\times9.8=1.96\ \text{N}[/math] এবং ভরকে সমর্থন করতে প্রয়োজনীয় বৈদ্যুতিক ক্ষেত্র হবে [math]E=\dfrac{F}{q}=\dfrac{1.96}{2\times10^{-6}}=9.8\times10^{5}\ \text{N/C}[/math]. A ও B থেকে প্রাপ্ত মোট ক্ষেত্র কুলম্ব সূত্র [math]E=kQ/r^{2}[/math] প্রয়োগ করলে এই মাত্রার অনেক কম পাওয়া যায়, সুতরাং বৈদ্যুতিক বল ওজনকে বাদ দিতে পর্যাপ্ত নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 421649)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+চিত্রে উল্লম্ব তলে [math]q_1,\ q_2[/math] ও [math]q_3[/math] চার্জ দ্বারা [math]P[/math] বিন্দুতে [math]q_0[/math] মানের একটি [math]m[/math] ভরের চার্জিত বস্তুকে শূন্যে ভাসমান রাখার ব্যবস্থা করা হলো। [math]\left(\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}\right)[/math]
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের চার্জিত বস্তুকে শূন্যে ভাসমান রাখা সম্ভব হবে কী? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে,[math]\begin{array}{l}\mathrm{q}_{1}=10 \mu \mathrm{C}=10 \times 10^{-6} \mathrm{C} \\\mathrm{q}_{2}=-5 \times 10^{-6} \mathrm{C} \\\mathrm{q}_{3}=-15 \times 10^{-6} \mathrm{C} \\\mathrm{q}_{0}=10 \mu \mathrm{C}=10 \times 10^{-6} \mathrm{C} \\\mathrm{m}=245 \mathrm{~g} \\\quad=245 \times 10^{-3} \mathrm{~kg} \\\mathrm{r}=1 \mathrm{~m} \\\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}\end{array}[/math]
+ [math]\mathrm{q}_{0}[/math]
+ চার্জটির উপর PC বরাবর ক্রিয়াশীল বল,[math]\begin{array}{l}\mathrm{F}_{1}=\frac{1}{4 \pi \epsilon_{0}}\left\{\frac{g_{1} g_{0}}{r^{2}}+\frac{g_{2} q_{0}}{r^{2}}\right\} \\=\frac{9 \times 10^{9} \times 10 \times 10^{-6}}{1^{2}}\left\{10 \times 10^{-6}+5 \times 10^{-6}\right\} \\\therefore F_{1}=1.35 \mathrm{~N}\end{array}[/math]
+ [math]\mathrm{q}_{0}[/math]
+ চার্জটির উপর PB বরাবর ক্রিয়াশীল বল,[math]\begin{aligned}\mathrm{F}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{g}_{3} \mathrm{G}_{0}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{15 \times 10^{-6} \times 10 \times 10^{-6}}{1^{2}} \mathrm{~N} \\& =1.35 \mathrm{~N}\end{aligned}[/math]
+ [math]\therefore \mathrm{q}_{0}[/math]
+ চার্জের উপর খাড়া উপরের দিকে ক্রিয়াশীল লব্ধি বল,[math]F=\sqrt{F_{1}^{2}+F_{2}^{2}+2 F_{1} \cdot F_{2} \cos 90^{\circ}}[/math]
+বা, [math]\mathrm{F}=\sqrt{1.35^{2}+1.35^{2}+2 \times 1.35 \times 1.35 \times \cos 90^{\circ}}[/math]
+ [math]\therefore \mathrm{F}=1.91 \mathrm{~N} .[/math]
+ [math]\mathrm{q}_{0}[/math]
+ চার্জটির ওজান, [math]\mathrm{W}=\mathrm{mg}=245 \times 10^{-3} \times 9.8 \mathrm{~N}=2.4 \mathrm{~N}[/math]
+দেওয়া আছে, F < Wঅতএব, উদ্দীপকের চার্জিত বস্তুটিকে P বিন্দুতে শূন্যে ভাসমান রাখা সম্ভব নয় ।
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ — ভাসমান রাখা সম্ভব যদি বৈদ্যুতিক বল ও ভারজনিত বল সমান ও বিপরীত দিকের হয়। শর্ত: [math]q_0E=mg[/math], যেখানে [math]E=\sum_{i=1}^3\frac{1}{4\pi\epsilon_0}\frac{q_i}{r_i^2}(\text{দিকসহ})[/math]। সুতরাং যথাযথ চিহ্ন ও মানের [math]q_i[/math] নির্বাচন করলে [math]E=mg/q_0[/math] পূরণ করে বস্তুটি শূন্যে ভাসমান রাখা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 421636)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে এবং দুটি বিন্দু চার্জ পরস্পর হতে। দূরত্বে অবস্থিত। এরা পরস্পরের উপর । পরিমাণ বল প্রয়োগ করে। এখানে, [math]q_{1}=q_{2}=1.6 \times 10^{-19} \mathrm{C}, r=4 \times 10^{-15} \mathrm{~m}[/math] |
+
+
+[Image]
+
+
+Options:
+ঘ. চার্জদ্বয়ের মধ্যবর্তী দূরত্ব অর্ধেক হলে ক্রিয়াশীল বলের পরিবর্তন গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘচার্জদ্বয়ের মধ্যবর্তী দূরত্ব অর্ধেক হলে,[math]\begin{aligned}r^{\prime} & =\frac{r}{2}=\frac{4 \times 10^{-15} \mathrm{~m}}{2} \\& =2 \times 10^{-15} \mathrm{~m}\end{aligned}[/math]
+সেক্ষেত্রে চার্জদ্বয়ের মধ্যকার ক্রিয়াশীল বল,[math]\begin{aligned}F^{\prime}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{1} g_{2}}{r^{2}} & =9 \times 10^{5}\mathrm{Nm}^{2}\mathrm{C}^{-2} \times \frac{\left(1.6 \times 10^{-19} \mathrm{C}\right)^{2}}{\left(2 \times10^{-13} \mathrm{~m}\right)^{2}} \\& =57.6 \mathrm{~N} .\end{aligned}[/math]
+লক্ষ্য করি , [math]\frac{F^{\prime}}{F}=\frac{57.6 \mathrm{~N}}{14.4 \mathrm{~N}}=4[/math]
+অর্থাৎ চার্জদ্বয়ের মধ্যকার দূরত্ব পূর্বের তুলনায় অর্ধেক হলে এদের মধ্যকার বল পূর্বের তুলনায় চারগুণ হবে। -
+
+Explanation:
+ঘ ব্যাখ্যা: কোলম্বের সূত্র অনুযায়ী [math]F=\dfrac{kq_1q_2}{r^2}[/math], যদি [math]r[/math] অর্ধেক করা হয় তখন [math]F'=\dfrac{kq_1q_2}{(r/2)^2}=\dfrac{kq_1q_2}{r^2}\times4=4F[/math], অর্থাৎ বল চার গুণ বাড়ে। সংখ্যাগতভাবে, এখানে [math]F\approx \dfrac{8.99\times10^9(1.6\times10^{-19})^2}{(4\times10^{-15})^2}\approx14.4\ \mathrm{N}[/math], তাই অর্ধেক দূরত্বে [math]F'\approx57.6\ \mathrm{N}[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 421637)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমভাবে আহিত দুটি শোলা বল বায়ুতে [math]3.0 \ cm[/math] ব্যবধানে রাখলে পরস্পরকে [math]4 \times 10^{ -5}N[/math] বলে বিকর্ষণ করে। প্রত্যেক শোলা বলের আধান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2 \times 10^{-9}[/math]
+ এবং [math]-2 \times 10^{-9}C)[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমভাবে আহিত দুই আধানের মধ্যে কুলম্ব সূত্র প্রযোজ্য, [math]F=k\frac{q^2}{r^2}[/math]. তাই [math]q=\sqrt{\dfrac{Fr^2}{k}}=\sqrt{\dfrac{(4\times10^{-5})(0.03)^2}{9\times10^9}}=2\times10^{-9}\ \text{C}[/math] — প্রত্যেক শোলা বলের আধান [math]2\times10^{-9}\ \text{C}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 421638)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.02 \ m[/math] এবং [math]0.04m[/math] ব্যাসার্ধের দুটি গোলককে পরস্পরের পৃষ্ঠ হতে [math]0.14m[/math] দূরত্বে রাখা হলো। প্রতিটি গোলককে [math]40C[/math] চার্জ প্রদান করা হলে তাদের মধ্যে কত বল ক্রিয়া করবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3.6 \times 10^{14}N)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,গোলকদ্বয়ের কেন্দ্রদ্বয়ের দূরত্ব, [math]r=(0.14+0.02+0.04)m=0.20 \ m[/math]
+চার্জ, [math]q_1=q_2=40C[/math]
+ [math]F=?[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{F} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\mathrm{q}_{1} \times \mathrm{q}_{2}}{\mathrm{r}^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \cdot \frac{40 \mathrm{C} \times 40 \mathrm{C}}{(0.20 \mathrm{~m})^{2}} \\ & =3.6 \times 10^{14} \mathrm{~N} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই গোলকের কেন্দ্রের দূরত্ব হচ্ছে [math]r=0.14+0.02+0.04=0.20\ \text{m}[/math]। কুলঁর সূত্র প্রয়োগ করলে [math]F=k\frac{q_1q_2}{r^2}=9\times10^9\frac{40\times40}{0.2^2}=3.6\times10^{14}\ \text{N}[/math] পাওয়া যায়; উভয় চার্জ ধনাত্মক হওয়ায় বলটি প্রতিকর্ষক (repulsive)।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 421639)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে দুটি ধন চার্জের মধ্যবর্তী দূরত্ব [math]0.1m[/math] এবং এদের মধ্যে পারস্পরিক বিকর্ষণ বল [math]9 \tim es 10^{-5}N[/math]। চার্জ দুটির একটি অপরটির চারগুণ হলে তাদের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5nC,20nC)[/math]
+
+Explanation:
+ব্যাখ্যা: বিকর্ষণ বল হওয়ায় দুইটি চার্জ একই স্বরের এবং ধরুন ছোট চার্জটি [math]q[/math] ও বড়টি [math]4q[/math]। কুলম্বের সূত্র অনুযায়ী [math]F=\dfrac{k q_1 q_2}{r^2}=\dfrac{k\cdot q\cdot4q}{r^2}[/math], তাই [math]q^2=\dfrac{F r^2}{4k}[/math]. সংখ্যায় বসালে [math]q^2=\dfrac{9\times10^{-5}\times(0.1)^2}{4\times9\times10^9}=2.5\times10^{-17}[/math], ফলে [math]q=5.0\times10^{-9}\ \mathrm{C}[/math] এবং বড় চার্জটি [math]4q=2.0\times10^{-8}\ \mathrm{C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 421640)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]5 \times 10^{-9}C[/math] চার্জ বহনকারী একটি ক্ষুদ্র বস্তু তড়িৎ ক্ষেত্রের একটি বিন্দুতে রাখা হলে এ টি নিচের দিকে [math]20 \times 20^{-9}N[/math] পরিমাণ বলের ক্রিয়া অনুভব করে। (i) ঐ বিন্দুতে তড়িৎক্ষেত্রের প্রাবল্য কত? (ii). ঐ বিন্দুতে স্থাপিত একটি ইলেকট্রনের ওপর ক্রিয়াশীল বলের মান ও দিক কী হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](i) 4n/C, (ii) 6.4 \times 10^{-19}N[/math]
+ [math]\\[/math]
+ [math][/math]
+(ক)এখানে,চার্জ,বল,প্রাবল্য,আমরা জানি,[math]\begin{aligned} E & =\frac{F}{q} \\ & =\frac{20 \times 10^{-9} \mathrm{~N}}{5 \times 10^{-9} \mathrm{C}} \\ & =4 \mathrm{~N} / \mathrm{C} \text { (Ans.) } \end{aligned}[/math]
+(খ)এখানে,ইলেকট্রনের চার্জ, [math]q=e=1.6 \times 10^{-19}C[/math]
+(ক) হতে পাই, বৈদু্যতিক প্রাবল্য, [math]E=4N/C[/math]
+ক্রিয়াশীল বল, [math]F'=?[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{E} & =\frac{\mathrm{F}^{\prime}}{\mathrm{q}} \\ \Rightarrow \mathrm{F}^{\prime} & =\mathrm{qE} \\ & =1.6 \times 10^{-19} \mathrm{C} \times 4 \mathrm{~N} / \mathrm{C} \\ & =6.4 \times 10^{-19} \mathrm{~N} \text { (Ans.) } \end{aligned}[/math]
+ [math]\therefore[/math]
+ বল [math]6.4 \times 10^{-19}N[/math]
+ এবং দিক হবে ঊর্ধ্বমুখী।
+
+Explanation:
+ব্যাখ্যা: তড়িৎক্ষেত্রের প্রাবল্য পাওয়া যায় [math]E=F/q=(20\times10^{-9})/(5\times10^{-9})=4\ \text{N/C}[/math], এবং ধনাত্মক চার্জে নিচের দিকে বল ক্রিয়া করায় ক্ষেত্রের দিকও নিচের দিকে। ইলেকট্রনের চার্জ [math]q_e=-1.6\times10^{-19}\ \text{C}[/math] হলে তার ওপর বল [math]F_e=q_eE=(-1.6\times10^{-19})(4)=-6.4\times10^{-19}\ \text{N}[/math], অর্থাৎ মান [math]6.4\times10^{-19}\ \text{N}[/math] এবং দিক ক্ষেত্রের বিপরীতে (উপরে)।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 421641)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+তড়িৎ বিভব [math]V=5 + 4x^2[/math] সম্পর্ক দ্বারা নির্দেশিত। [math]V[/math] কে [math]volt[/math] এককে এবং [math]x[/math] কে [math]me tre[/math] এককে প্রকাশ করা হলে [math]x = 0.5[/math] অবস্থানে [math]- 2 \times 10^{-6}C[/math] আধান কত বল অনুভব করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](8 \times 10^{-6}N)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তড়িৎ বিভব, [math]V=5+4x^2[/math]
+চার্জ, [math]Q=-2 \times 10^{-6}C[/math]
+ [math]\\[/math]
+আমরা জানি,[math]E=-\frac{d V}{d x}=\frac{-d}{d x}\left(5+4 x^{2}\right)=-8 x[/math]
+ [math]x=0.5m[/math]
+হলে,[math]E=-8 \times(0.5)=-4[/math]
+আবার, আমরা জানি, বল[math]\begin{aligned} F & =Q E \\ & =\left(-2 \times 10^{-6}\right) \times(-4) \\ & =8 \times 10^{-6} \mathrm{~N} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ভিত্তি: তড়িৎ ক্ষেত্রটি বিভবের স্থানীয় ঢালকে ধনাত্মকভাবে বিপরীত হয়, তাই [math]E=-\frac{dV}{dx}[/math]। এখানে [math]V=5+4x^2\Rightarrow \frac{dV}{dx}=8x[/math] ও [math]E=-8x[/math]। x=0.5 m এ [math]E=-8(0.5)=-4\ \text{V/m}[/math], এবং [math]q=-2\times10^{-6}\ \text{C}[/math] হলে [math]F=qE=(-2\times10^{-6})(-4)=8\times10^{-6}\ \text{N}[/math], অর্থাৎ বলটির মান [math]8\times10^{-6}\ \text{N}[/math] এবং এটি ধনাত্মক x-দিকায় নির্দেশিত।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 421642)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.6 \times 10^{-19}[/math] আধান বায়ুতে কোনো বিন্দুতে অবস্থিত। এর ফলে এর চারপাশে তড়িৎ বল অনুভূত হয় ।
+
+Options:
+গ. উদ্দীপকে উল্লিখিত আধান থেকে 0.15 m দূরে কোনো বিন্দুতে একটি ইলেকট্রন স্থাপন করলে সে টি কত বল লাভ করবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গ ইলেকট্রনের উপর তড়িৎ বল কুলম্বের সূত্র দিয়ে পাওয়া যায়: [math]F=k\frac{|q_{\text{source}}\,q_{\text{electron}}|}{r^2}[/math] যেখানে [math]k=9.0\times10^9\,,\;q_{\text{source}}=1.6\times10^{-19}\,\text{C}\,,\;q_{\text{electron}}=-1.6\times10^{-19}\,\text{C}\,,\;r=0.15\,\text{m}[/math]; তাই [math]F=9.0\times10^9\frac{(1.6\times10^{-19})^2}{(0.15)^2}=1.02\times10^{-26}\,\text{N}[/math]. দিকটি আকর্ষণীয় হবে (ইলেকট্রন ধনাত্মক আদের দিকে টেনে নেবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 421643)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমভাবে আহিত দুটি শোলাবল বায়ুতে [math]2mm[/math] ব্যবধানে রাখলে পরস্পরকে [math]4.0 \times 10^{-5} N[/math] বলে বিকর্ষণ করে। প্রত্যেক শোলাবলের আধান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.33 \times 10^{-10}C)[/math]
+
+Explanation:
+ব্যাখ্যা: সমভাবে আধান হলে কুলম্বের সূত্র প্রযোজ্য: [math]F=k\frac{q^2}{r^2}[/math], তাই [math]q=\sqrt{\dfrac{Fr^2}{k}}[/math]. সংখ্যাগতভাবে [math]q=\sqrt{\dfrac{4.0\times10^{-5}\times(2.0\times10^{-3})^2}{9.0\times10^9}}\approx1.33\times10^{-10}\ \text{C}[/math]. প্রতিটি শোলাবলের আধান সমান এবং একরকম সাইন (একই চিহ্ন) কারণ তারা একে অপরকে বিকর্ষণ করছে।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 421644)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.002 \ kg[/math] ভরের একটি শোলাবল [math]10 \ C[/math] আধানে আহিত। শোলা বলটিকে অভিকর্ষীয় ক্ষেত্রে স্থির রাখতে কী পরিমাণ তড়িৎক্ষেত্রের প্রয়োজন?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](196 \ NC^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: স্থিতিস্থাপক অবস্থায় তড়িৎ বলটি বরের ওজনের সমান ও বিপরীত হবে, তাই [math]qE=mg[/math]. ফলে [math]E=\dfrac{mg}{q}=\dfrac{0.002\times9.8}{10}=1.96\times10^{-3}\ \mathrm{N/C}[/math] (ধনাত্মক চার্জ হলে ক্ষেত্রের দিশা উপরের দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 421645)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কত প্রাবল্যের একটি বৈদ্যুতিক ক্ষেত্রের মধ্যে একটি ইলেকট্রন | স্থাপন করলে ইলেকট্রনটি তার ওজ নের সমান বল অনুভব করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5.57 \times 10^{-11} \ NC^{-1})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ইলেকট্রন ভর, [math]m=9.1 \times 10^{-31}kg[/math]
+ইলেকট্রন চার্জ, [math]q=1.6 \times 10^{-19}[/math]
+অভিকর্ষজ ত্বরণ, [math]g=9.8 \ ms^{-2}[/math]
+তড়িৎ প্রাবল্য, [math]E=?[/math]
+ [math]\\[/math]
+চার্জের ওপর ক্রিয়াশীল বল F হলে,[math]\begin{aligned} \mathrm{E} & =\frac{\mathrm{F}}{\mathrm{q}} \\ & =\frac{\mathrm{mg}}{\mathrm{q}} \\ & =\frac{9.1 \times 10^{-31} \times 9.8}{1.6 \times 10^{-19}} \\ & =5.57 \times 10^{-11} \mathrm{NC}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ইলেকট্রিক বল [math]F_e=|q|E[/math] এবং ওজন [math]mg[/math]; সমতা দিলে [math]E=\dfrac{mg}{|q|}=\dfrac{(9.11\times10^{-31}\ \text{kg})(9.8\ \text{m/s}^2)}{1.602\times10^{-19}\ \text{C}}\approx5.6\times10^{-11}\ \text{N/C}[/math]. ইলেকট্রনের চার্জ নেতিবাচক হওয়ায় সমান ও উপরের দিকে শক্তি পেতে ক্ষেত্রটির দিক নিচের দিকে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 421646)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.6g[/math] ভরের একটি ক্ষুদ্র বল [math]8.0 \mu C[/math] আধান বহন করে। বলটিকে একটি সুতার সাহায্যে নি ম্নমুখী তড়িৎক্ষেত্রে বুলিয়ে দেওয়া হলো। তড়িৎক্ষেত্রের প্রাবল্য [math]300NC^{-1}[/math] হলে সুতার উপর টান নির্ণয় কর। (i) যখন বল ধনাত্মক আধান এবং (ii) যখন বলে ঋণাত্মক আধান।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](i) 8.28 \times 10^{-3}N,(ii) 3.48 \times 10^{-3}N[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,ভর, [math]m=0.6g=0.6 \times 10^{-3}kg[/math]
+আধান, [math]q=8.0 \mu C=8 \times 10^{-6}C[/math]
+প্রাবল্য, [math]E=300NC^{-1}[/math]
+টান [math]F=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{F}_{1} & =\mathrm{qE}=8 \times 10^{-6} \times 300 \\ & =2.4 \times 10^{-3} \mathrm{~N} \\ \mathrm{~F}_{2} & =\mathrm{mg}=0.6 \times 10^{-3} \times 9.8 \\ & =5.88 \times 10^{-3} \mathrm{~N} \end{aligned}[/math]
+(ক) আধান ধনত্মক হলে,টান,[math]\begin{aligned} \mathrm{F} & =\mathrm{F}_{1}+\mathrm{F}_{2} \\ & =2.4 \times 10^{-3}+5.88 \times 10^{-3} \\ & =8.28 \times 10^{-3} \mathrm{~N} \end{aligned}[/math]
+(খ) আধান ঋণাত্মক হলে,টান,[math]\begin{aligned} \mathrm{F}=\mathrm{F}_{2}-\mathrm{F}_{1} & =5.88 \times 10^{-3}-2.4 \times 10^{-3} \\ & =3.48 \times 10^{-3} \mathrm{~N} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তড়িৎবেগের কারণে বলের উপর স্থিরভাবে কাজ করে [math]F_e=qE[/math]; এখানে [math]q=8.0\times10^{-6}\,C,\;E=300\,N/C,\;mg=0.0006\times9.8=0.00588\,N[/math]. ধনাত্মক আধান হলে তড়িৎবলটি নিম্নমুখী হওয়ায় সুতা তার ওজনসহ সেটিকে তুলতে হবে, তাই [math]T=mg+qE=0.00588+0.0024=0.00828\,N[/math]. ঋণাত্মক আধান হলে তড়িৎবলটি উর্ধ্বমুখী হওয়ায় সুতার টান কমে: [math]T=mg-|q|E=0.00588-0.0024=0.00348\,N[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 421647)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি আর্গন নিউক্লিয়াসের মধ্যবর্তী দূরত্ব [math]1 \ nm(10^{-9}m)[/math] । প্রতিটি আর্গন নিউক্লিয়াসের চার্জ যদি ' [math]+18e[/math] হয় তবে এদের মধ্যকার বিকর্ষণজনিত বল নির্ণয় করো। [math]e = 1.6 \times 10^{-9} C[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](74.65 \ nN)[/math]
+
+Explanation:
+দ্বি-আর্গন নিউক্লিয়াসের মধ্যে বল কুলম্বের সূত্র থেকে: [math]F=k\frac{q_1q_2}{r^2}[/math] যেখানে [math]q=18e=18\times1.6\times10^{-9}=2.88\times10^{-8}\,C[/math] এবং [math]r=1\times10^{-9}\,m[/math]। স substitute করে পাওয়া যায়: [math]F=9\times10^{9}\frac{(2.88\times10^{-8})^2}{(1\times10^{-9})^2}\approx7.46\times10^{12}\,N[/math]। উভয় চার্জ ধনাত্মক হওয়ায় বলটি বিকর্ষণজনিত (প্রতিরোধী) হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 421648)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]8.4 \times 10^{-16}kg[/math] ভরের একটি চার্জিত প্লাস্টিক বল [math]2.6 \times 10 Vm^{-1}[/math] মানে র সুষম তড়িৎক্ষেত্রে ঝুলন্ত অবস্থায় আছে। বলটির চার্জ কত? [math][g = 10ms^{-2}][/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3.23 \times 10^{-19C})[/math]
+ [math]\\[/math]
+ [math][/math]
+ এখানে,প্লাস্টিক বলের ভর, [math]m=8.4 \times 10^{-16}kg[/math]
+বৈদ্যুতিক প্রাবল্য, [math]\mathrm{E}=2.6 \times 10^{4} \mathrm{Vm}^{-1}[/math]
+ত্বরণ, [math]g=10 \ ms^{-1}[/math]
+চার্জ, [math]q=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} E=\frac{F}{q} \\ \Rightarrow q=\frac{F}{E}=\frac{m g}{E} \\ =\frac{8.4 \times 10^{-16} \times 10}{2.6 \times 10^{4}} \\ =3.23 \times 10^{-19} \mathrm{C} \text { (Ans.) } \\ \end{array}[/math]
+
+
+Explanation:
+ব্বলটি স্থির অবস্থায় থাকায় বৈদ্যুতিক শক্তি ও ওজন সমতুল্য: [math]qE=mg[/math], তাই [math]q=\dfrac{mg}{E}[/math]. সংখ্যাসহ বসিয়ে দিলে [math]q=\dfrac{8.4\times10^{-16}\times10}{2.6\times10}= \dfrac{8.4\times10^{-15}}{26}\approx3.2\times10^{-16}\ \text{C}[/math] (মান)।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 421635)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে এবং দুটি বিন্দু চার্জ পরস্পর হতে। দূরত্বে অবস্থিত। এরা পরস্পরের উপর । পরিমাণ বল প্রয়োগ করে। এখানে, [math]q_{1}=q_{2}=1.6 \times 10^{-19} \mathrm{C}, r=4 \times 10^{-15} \mathrm{~m}[/math] |
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের চিত্রের ডাটা থেকে চার্জদ্বয়ের মধ্যে পারস্পরিক ক্রিয়াশীল বলের মান বের কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ ব্যাখ্যা: পারস্পরিক বল কুলম্বের সূত্র থেকে পাওয়া যায় [math]F=\dfrac{kq_1q_2}{r^2}[/math]; তাই [math]F=\dfrac{8.99\times10^9\,(1.6\times10^{-19})^2}{(4\times10^{-15})^2}\approx14.4\ \text{N}[/math]. মান ধনাত্মক হওয়ায় একই চিহ্নের চার্জদুটি পরস্পরকে ঠেলে (repulsive)।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 421627)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+দুটি বিন্দু চার্জ A ও B এর মধ্যে দূরত্ব [math]0.72 nm.[/math] [math]A[/math] এর চার্জ [math]+ \ 3.2 \times 10^{-19}C[/math] এবং [math]B[/math] এর চার্জ [math]-1.6 \times 10^{-19}C[/math]
+
+Options:
+গ. [math]B[/math] এর উপর [math]A[/math] কত বল প্রয়োগ করে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ ব্যাখ্যা: দুই চার্জের মধ্যে আকর্ষণী বলের মাত্রা কুলম্বের সূত্র দ্বারা [math]F=k\frac{|q_A q_B|}{r^2}[/math] যেখানে [math]k=8.99\times10^9\ \mathrm{N·m^2/C^2}.[/math]  
+সমীকরণে মান বসালে [math]F=8.99\times10^9\frac{(3.2\times10^{-19})(1.6\times10^{-19})}{(0.72\times10^{-9})^2}\approx8.9\times10^{-10}\ \mathrm{N}.[/math]  
+কারণ চার্জদুটি বিপরীত চিহ্নের, সেই বলটি আকর্ষণী (B‑কে A-এর দিকে টানে)।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 421628)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে [math]4C[/math] ও [math]5C[/math] দুটি চার্জের মধ্যে দূরত্ব অসীম। এদের মধ্যে ক্রিয়াশীল বল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0N)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ, [math]q_1=4C[/math]
+চার্জ, [math]q_2=5C[/math]
+দূরত্ব, [math]r=\infty[/math]
+ক্রিয়াশীল বল, [math]F=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} F & =\frac{1}{4 \pi \epsilon_{0}} \frac{q_{1} q_{2}}{r^{2}} \\ & =9 \times 10^{9} \frac{4 C \times 5 C}{(\infty)^{2}} \\ & =0 \mathrm{~N} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বায়ুতে কুলম্বের সূত্র [math]F = k\frac{q_1 q_2}{r^2}[/math] প্রযোজ্য; এখানে [math]q_1=4\,C,\,q_2=5\,C[/math] এবং [math]r \to \infty[/math] হলে ভগ্নাংশ শূন্য হয়ে যায়, ফলে ক্রিয়াশীল বল [math]F=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 421630)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমপরিমাণ চার্জে চার্জিত দুটি গোলককে পরস্পর হতে [math]\frac{1}{2}m[/math] দূরে স্থাপন করলে [math]6 \ g m-wt[/math] বল দ্বারা বিকর্ষণ করে। প্রত্যেক গোলকে চার্জের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](12.8 \times 10^{-7}C)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিকর্ষণ বল, [math]F=6 \ gm- \omega f[/math]
+ [math](6 \times 10^{-3} \times 9.8)N[/math]
+ [math]=0.0588 \ N[/math]
+চার্জিত গোলকদ্বয়ের মধ্যবর্তী দূরত্ব, [math]r=\frac{1}{2}m[/math]
+চার্জ, [math]q_1=q_2=q=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \mathrm{F}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{1} \mathrm{q}_{2}}{r^{2}} \\ \Rightarrow 0.0588=9 \times 10^{9} \times \frac{\mathrm{q}^{2}}{\left(\frac{1}{2}\right)^{2}} \\ \Rightarrow \mathrm{q}^{2}=\frac{0.0588}{9 \times 10^{9} \times 4} \\ \Rightarrow \mathrm{q}^{2}=1.633 \times 10^{-12} \\ \therefore \mathrm{q}=1.28 \times 10^{-6} \mathrm{C} \\ =12.8 \times 10^{-7} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই সমপরিমাণ চার্জিত গোলকের মধ্যে কুলম্ব বল [math]F=k\frac{q^2}{r^2}[/math] প্রযোজ্য; এখানে [math]r=\tfrac{1}{2}\ \text{m}[/math] এবং [math]F=6\ \text{g-wt}=6\times10^{-3}\ \text{kg}\times9.8\ \text{m/s}^2=0.0588\ \text{N}[/math]. তাই
+
+[math]q=\sqrt{\dfrac{Fr^2}{k}}=\sqrt{\dfrac{0.0588\times(0.5)^2}{9\times10^9}}\approx1.28\times10^{-6}\ \text{C}[/math].
+
+অতএব প্রত্যেক গোলকের চার্জ প্রায় [math]1.28\times10^{-6}\ \text{C}[/math] (প্রায় [math]1.28\ \mu\text{C}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 421631)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে [math]5 \times 10^{-4}C[/math] ও [math]8 \times 10^{-4}C[/math] দুটি চার্জের মধ্যে দূরত্ব [math]2m[/math] হলে, এ রা একে অপরের ওপর কত বল প্রয়োগ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](900 \ N)[/math]
+
+Explanation:
+ব্যাখ্যা: কুলম্বের আইন অনুযায়ী [math]F=k\frac{q_1q_2}{r^2}[/math] যেখানে [math]k=9\times10^9\ \text{N·m}^2/\text{C}^2[/math]. এখানে [math]q_1=5\times10^{-4}\,\text{C},\ q_2=8\times10^{-4}\,\text{C},\ r=2\ \text{m}[/math] বসালে [math]F=9\times10^9\frac{(5\times10^{-4})(8\times10^{-4})}{2^2}=900\ \text{N}[/math]. উভয় চার্জ ধনাত্মক হওয়ায় তারা একে অপরকে প্রত্যাহারক (repulsive) বল প্রয়োগ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 421632)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হাইড্রোজেন পরমাণুর ইলেকট্রন ও প্রোটনের মধ্যবর্তী দূরত্ব প্রায় [math]5.3 \times 10^{-11}m[/math]। এদের মধ্যকার আকর্ষণ বল নির্ণয় কর।
+
+[প্রতিটি প্রোটন বা ইলেকট্রনের চার্জ [math]1.6 \times 10^{-19}C[/math] (মান)]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](8.2 \times 10^{-8}N)[/math]
+
+Explanation:
+ইলেকট্রন ও প্রোটনের মধ্যে আকর্ষণ কুলম্‌বের সূত্র দিয়ে নির্ণয় করা যায়: [math]F=k\frac{q^2}{r^2}[/math] যেখানে [math]k=8.99\times10^9\ \mathrm{N\,m^2/C^2}[/math], [math]q=1.6\times10^{-19}\ \mathrm{C}[/math], [math]r=5.3\times10^{-11}\ \mathrm{m}[/math].  
+[math]F=8.99\times10^9\times\frac{(1.6\times10^{-19})^2}{(5.3\times10^{-11})^2}\approx8.2\times10^{-8}\ \mathrm{N}[/math], ফলে আকর্ষণ প্রায় [math]8.2\times10^{-8}\ \mathrm{N}[/math] এবং এটি ইলেকট্রনকে প্রোটনের দিকে টানে।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 421633)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক অ্যাংস্ট্রম দূরত্বে অবস্থিত দুটি ইলেকট্রনের মধ্যে বল নির্ণয় কর। ( [math]1[/math] অ্যাংস্ট্রম [math]=10^{-10}m[/math] এবং [math]1e = 1.6 \times 10^{-19}C)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](23.04 \times 10^{-9}N)[/math]
+
+Explanation:
+ব্যাখ্যা: দুই ইলেকট্রনের মধ্যে কুলম্ব সূত্র প্রযোজ্য: [math]F=k\frac{q_1q_2}{r^2}[/math], যেখানে [math]k=8.99\times10^9\ \mathrm{N\,m^2/C^2}[/math], [math]q_1=q_2=-e,\ e=1.6\times10^{-19}\ \mathrm{C}[/math] ও [math]r=1\ \text{Å}=1\times10^{-10}\ \mathrm{m}[/math]; তাই [math]F=(8.99\times10^9)\frac{(1.6\times10^{-19})^2}{(1\times10^{-10})^2}\approx2.30\times10^{-8}\ \mathrm{N}[/math]. দুইটি চার্জই ঋণাত্মক হওয়ায় বলটি প্রতিসরণী (ধাক্কা দেওয়া) 방향ে কাজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 421634)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]8.4 \times 10^{-16}[/math] কিলোগ্রাম ভরের একটি চার্জিত প্লাস্টিক বল [math]2.6 \times 10^4 \ Vol ts/m[/math] মানের সুষম বৈদ্যুতিক ক্ষেত্রে ঝুলন্ত অবস্থায় আছে। বলটির চার্জ নির্ণয় কর। [math][g=10 \ ms^{-2}][/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3.23 \times 10^{-19C})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্লাস্টিক বলের ভর, [math]m=8.4 \times 10^{-16}kg[/math]
+বৈদ্যুতিক প্রাবল্য, [math]\mathrm{E}=2.6 \times 10^{4} \mathrm{Vm}^{-1}[/math]
+ত্বরণ, [math]g=10 \ ms^{-1}[/math]
+চার্জ, [math]q=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} E=\frac{F}{q} \\ \Rightarrow q=\frac{F}{E}=\frac{m g}{E} \\ =\frac{8.4 \times 10^{-16} \times 10}{2.6 \times 10^{4}} \\ =3.23 \times 10^{-19} \mathrm{C} \text { (Ans.) } \\ \end{array}[/math]
+
+
+Explanation:
+বলটি স্থির থাকায় বৈদ্যুতিক বল [math]qE[/math] ওজন [math]mg[/math] এর সমান; তাই [math]qE=mg\Rightarrow q=\frac{mg}{E}[/math]. সংখ্যাগুলো বসালে [math]q=\frac{8.4\times10^{-16}\times10}{2.6\times10^{4}}=3.23\times10^{-19}\ \text{C}[/math]. অতএব বলটির চার্জ [math]3.23\times10^{-19}\ \text{কুলম্ব}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 421626)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রটি লক্ষ্য কর। [math]P[/math] পাতটির বিভব [math]+400V[/math] এবং [math]Q[/math] পাত্রটির বিভব [math]-400V[/math], পাত দুটির মধ্যবর্তী দুরত্ব [math]20 \ Electron \ gan[/math] থেকে দ্রুত গতিশীল একটি ইলেকট্রন পাত দুটির দিে নিক্ষেপ করা ঘনো।
+
+Options:
+গ. দুটি পাতের মধ্যবর্তী স্থানে ইলেকট্রনের উপর ক্রিয়াশী নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,পাতদ্বয়ের মধ্যকার বিভব পার্থক্য, V = 400V - ( - 400V) = 800 পাতদ্বয়ের মধ্যকার দূরত্ব, d = 20 mm = [math]20 × 10^-3[/math]
+ m র দুটি পাতের মধ্যবর্তী স্থানে তড়িৎক্ষেত্র প্রাবল্য, E = ?ইলেকট্রনের ওপর ক্রিয়াশীল বল, F = ?আমরা জানি, [math]E=\frac{V}{d}=\frac{800 V}{20 \times 10^{-3} \mathrm{~m}}=40000 \mathrm{NC}^{-1} \text { (Ans.) }[/math]
+ইলেকট্রনের ওপর ক্রিয়াশীল বল, F = qE [q = ইলেকট্রনের চার্জ][math]\begin{array}{l}=1.6 \times 10^{-19} \mathrm{C} \times 40000 \mathrm{NC}^{-1} \\=6.4 \times 10^{-15} \mathrm{~N} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ইলেকট্রদের ওপর ফোর্স বের করতে প্রথমে ক্ষেত্র নির্ণয় করি: বিভব পার্থক্য [math]ΔV=400-(-400)=800\ \text{V}[/math] এবং ধরি দূরত্ব [math]d=20\ \text{mm}=0.02\ \text{m}[/math], তাই [math]E=\frac{ΔV}{d}=\frac{800}{0.02}=4.0\times10^{4}\ \text{V/m}[/math]. ইলেকট্রনের চার্জ [math]e=1.6\times10^{-19}\ \text{C}[/math] হলে বলের মান [math]F=eE=(1.6\times10^{-19})(4.0\times10^{4})=6.4\times10^{-15}\ \text{N}[/math], দিকটি ধনাত্মক পাতের (P) দিকে, কারণ ইলেকট্রন নেতিবাচক হয়ে ক্ষেত্রের বিপরীত দিকে ধাবিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 421618)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]q_{1}=8 \mu C, q_{2}=-12 \mu C[/math] এবং [math]d=1.2 \mathrm{~m}[/math] | নিচের প্রশ্নগুলোর উত্তর দাও।
+
+
+[Image]
+
+
+Options:
+ঘ. দেখাও যে, অসীম ব্যতীত এর আশেপাশে একটি মাত্র বিন্দু আছে, যেখানে একটি চার্জ রাখলে এর ওপর কোনো বল অনুভূত হবে না।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,চার্জ, [math]q_{1}=8 \mu \mathrm{C}[/math]
+চার্জ, [math]\mathrm{q}_{2}=-12 \mu \mathrm{C}[/math]
+দূরত্ব, [math]\mathrm{d}=1.2 \mathrm{~m}[/math]
+ধ্রুবক, [math]\frac{1}{4 \pi \epsilon_{6}}-9 \times 10^{2} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+O বিন্দুতে [math]q_{1}[/math]
+ এর জন্যপ্রাবল্যের মান, E = ?O বিন্দুতে [math]q_{2}[/math]
+ এর জন্যপ্রাবল্যের মান, [math]E_{2}[/math]
+ = ?মনে করি, [math]q_{1}[/math]
+ হতে বাম দিকে x m দূরে O বিন্দুতে কোনো চার্জ বল লাভ করবে না ।
+[Image]
+O বিন্দুতে [math]q_{1}[/math]
+ জন্য প্রাবল্যের মান, [math]E_{1}=\frac{1}{4 \pi \epsilon_{0}} \frac{q_{1}}{x}[/math]
+O বিন্দুতে [math]q_{2}[/math]
+ জন্য প্রাবল্যের মান,[math]E_{2}-\frac{1}{4 \pi \epsilon_{\mathrm{o}}} \frac{\mathrm{q}_{2}}{(x+d)^{2}}[/math]
+O বিন্দুতে রাখা কোনো চার্জে বল অনুভূত না হলে, [math]\overrightarrow{\mathrm{E}}_{1}[/math]
+ ও [math]\overrightarrow{\mathrm{E}}_{2}[/math]
+ এর লব্ধি শূন্য হবে ।[math]\begin{array}{l}\therefore E_{1}-E_{2}=0\\\Rightarrow\text{ } \frac{1}{4 \pi \epsilon_{\mathrm{o}}} \frac{\mathrm{g}_{1}}{\mathrm{x}^{2}}-\frac{1}{4 \pi \epsilon_{\mathrm{o}}} \cdot \frac{\mathrm{q}_{2}}{(\mathrm{x}+\mathrm{d})^{2}}=0\\\Rightarrow\text{} \frac{1}{4 \pi \epsilon_{\mathrm{o}}} \frac{g_{1}}{x^{2}}=\frac{1}{4 \pi \epsilon_{\mathrm{o}}} \frac{q_{2}}{(x+d)^{2}}\\\Rightarrow\text{, } \frac{8 \times 10^{-6}}{x^{2}}=\frac{12 \times 10^{-6}}{(x+1.2)^{2}}\\\Rightarrow\text{} \frac{(x+1.2)^{2}}{x^{2}}=\frac{12 \times 10^{-6}}{8 \times 10^{-6}}\\\Rightarrow\text{ } \frac{(x+1.2)^{2}}{x^{2}}=\frac{12}{8}\\\Rightarrow\text{} \frac{x+1.2}{x}=\sqrt{\frac{12}{8}}\\\Rightarrow\text{ } \frac{x+1.2}{x}=1.22\\\Rightarrow\text{ } 1.22 x=x+1.2\\\text{ } 0.22 x=1.2\\\Rightarrow\text{ } x=\frac{1.2}{0.22}\end{array}[/math]
+ [math]\begin{array}{l}\Rightarrow\text{ } 1.22 x=x+1.2\\\Rightarrow\text{ } 0.22 x=1.2\\\Rightarrow\text{} x=\frac{1.2}{0.22}\\\therefore \mathrm{x}=5.45 \mathrm{~m}\end{array}[/math]
+যেহেতু x এর একটি মাত্র মান পাওয়া গেছে, সেহেতু অসীম ব্যতীত শুধুমাত্র q। এর বামপাশে 5.45 m দূরত্বে কোনো চার্জ বল অনুভব করবে না। -
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 421619)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+হাইড্রোজেন পরমাণুর ব্যাসার্ধ [math]0-53 \times 10^{-10}m[/math] ।ইলেকট্রনের ওপর নিউক্লিয়াসের আকর্ষ ণ বল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](8.202 \times 10^{-8}N)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ব্যাসার্ধ, [math]r=0.53 \times 10^{-10}m[/math]
+ইলেকট্রন চার্জ এবং প্রোটনের চার্জের মান , [math]q=1.6 \times 10^{-19}C[/math]
+ইলেকট্রনের উপর নিউক্লিয়াসের আকর্ষণ বল, [math]F=?[/math]
+ [math]\\[/math]
+আমরা জানি, আকর্ষণ বল,[math]\begin{aligned} F= & \frac{1}{4 \pi \epsilon_{0}} \times \frac{q^{2}}{r^{2}} \\ = & 9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{\left(1.6 \times 10^{49} \mathrm{C}\right)^{2}}{\left(0.53 \times 10^{-10} \mathrm{~m}\right)^{2}} \\ = & 8.202 \times 10^{-8} \mathrm{~N} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ইলেকট্রিক নিয়ম (কুলম্বের কনস্ট্যান্ট) ব্যবহার করে আকর্ষণ বল [math]F = k\frac{e^2}{r^2}[/math] যেখানে [math]k=8.99\times10^9\ \mathrm{N\,m^2/C^2},\ e=1.602\times10^{-19}\ \mathrm{C},\ r=0.53\times10^{-10}\ \mathrm{m}[/math].  
+প্রয়োগ করলে [math]F=(8.99\times10^9)\frac{(1.602\times10^{-19})^2}{(0.53\times10^{-10})^2}\approx 8.2\times10^{-8}\ \mathrm{N}[/math], যা ইলেকট্রনকে পরমাণুতে বেঁধে রাখে।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 421620)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি হিলিয়াম নিউক্লিয়াসের মধ্যবর্তী দূরত্ব এক অ্যাংস্ট্রম [math](1Å = 10^{-10}m)[/math] হলে এদের মধ্যবর্তী কুলম্ব বল কত হবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](9.22 \times 10^{-8}N)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,হিলিয়াম নিউক্লিয়াসের চার্জ,[math]\begin{aligned} \mathrm{q} & =2 \times 1.6 \times 10^{-19} \mathrm{C} \\ & =3.2 \times 10^{-19} \mathrm{C} \end{aligned}[/math]
+মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=1Å=10^{-10} \mathrm{~m}[/math]
+মধ্যবর্তী কুলম্ব বল, [math]F=?[/math]
+আমরা জানি,[math]\begin{aligned} F & =\frac{1}{4 \pi \epsilon_{o}} \times \frac{\text { q.q }}{\mathrm{d}^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \\ & \frac{3.2 \times 10^{-19} \mathrm{C} \times 3.2 \times 10^{-19} \mathrm{C}}{\left(10^{-10} \mathrm{~m}\right)^{2}} \\ & =9.22 \times 10^{-8} \mathrm{~N} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+কুলম্ব আইনের মতে [math]F=k\frac{q_1q_2}{r^2}[/math], যেখানে [math]q_1=q_2=2e=2\times1.602\times10^{-19}\,\mathrm{C}[/math] এবং [math]r=1Å=10^{-10}\,\mathrm{m}[/math]. গণনা করলে [math]F\approx9.2\times10^{-8}\,\mathrm{N}[/math], অর্থাৎ দুই হিলিয়াম নিউক্লিয়াসের মধ্যে প্রতিকর্ষী কুলম্ব বল প্রায় [math]9.2\times10^{-8}\,\mathrm{N}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 421621)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি সমান ও সমধর্মী চার্জ পরস্পর হতে [math]0.25 \ m[/math] দূরত্বে স্থাপন করলে এদের মধ্যে বিকর্ষণ বল [math]0.5N[/math] হয়। প্রত্যেকটি চার্জের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Q=\pm 1.86 \times 10^{-6} \mathrm{C})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,দূরত্ব, [math]r= 0.25[/math]
+বিকর্ষণ বল, [math]F=0.5 \ N[/math]
+প্রত্যেক চার্জের পরিমাণ, [math]Q=?[/math]
+ [math]\\[/math]
+আমরা জানি,বিকর্ষণ বল,[math]\begin{array}{l} \mathrm{F}=\frac{1}{4 \pi \mathrm{E}_{0}} \times \frac{\mathrm{Q}^{2}}{\mathrm{r}^{2}} \\ \Rightarrow 0.5 \mathrm{~N}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \frac{\mathrm{Q}^{2}}{0.25 \mathrm{~m}^{2}} \\ \Rightarrow \mathrm{Q}^{2}=\frac{0.5 \mathrm{~N} \times(0.25 \mathrm{~m})^{2}}{9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}} \\ \Rightarrow \mathrm{Q}^{2}=3.472 \times 10^{-12} \mathrm{C}^{2} \\ \therefore \mathrm{Q}=\pm 1.86 \times 10^{-6} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দুটি সমান চার্জের মধ্যে বিকর্ষণ কুলম্বের সূত্র অনুযায়ী [math]F = k\frac{q^2}{r^2}[/math] হয়, তাই [math]q^2=\frac{F r^2}{k}[/math]. সংখ্যা বসালে [math]q^2=\frac{0.5\times(0.25)^2}{9\times10^9}=3.4722\times10^{-12}[/math], ফলে [math]q\approx1.86\times10^{-6}\ \text{C} \ (\approx1.86\ \mu\text{C})[/math]; বিকর্ষণ হওয়ায় দুইটি চার্জের চিহ্ন একরকম।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 421622)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমভাবে চার্জিত দুটি শোলাবলের প্রত্যেকটির ভর [math]1 \ g[/math] এবং [math]80 \ cm[/math] দৈর্ঘ্যের সিল্কের সুতা দ্বারা একই বিন্দু থেকে ঝুলন্ত। এরা একে অন্যকে [math]4 \ cm[/math] দূরত্বে বিকর্ষণ করে। প্রত্যেকটি বলের চার্জ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](6.6 \times 10^{-9}C)[/math]
+
+Explanation:
+ব্যাখ্যা: প্রতিটি বলের অনুভূমিক স্থানান্তর [math]0.02\ \text{m}[/math], তাই [math]\sin\theta=\dfrac{0.02}{0.8}=0.025[/math] এবং ছোট কোণে [math]\tan\theta\approx0.025[/math]. বলগুলোর অনুভূমিক সমতুল্য হতে পূর্ণবজ্রীয় বল [math]F_e=\dfrac{kq^2}{r^2}[/math] এবং উল্লম্বভাবে ওজন থাকে, তাই [math]\tan\theta=\dfrac{F_e}{mg}=\dfrac{kq^2}{mg\,r^2}, ফলে [math]q^2=\dfrac{mg\,r^2}{k}\tan\theta[/math]. সংখ্যাগতভাবে [math]m=1\times10^{-3}\,\text{kg},\ g=9.8\ \text{m/s}^2,\ r=0.04\ \text{m},\ k=9\times10^9[/math] বসালে [math]q\approx6.6\times10^{-9}\ \text{C} (প্রতিটি বলের চার্জ)।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 421623)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.1 \ g[/math] ভরের একটি শোলার বলে [math]- 6.67 \times 10 \ C[/math] চার্জ দেয়া আছে। কত চার্জযুক্ত একটি বস্তু [math]2 \ cm[/math] উপরে থেকে বলকে শূন্যে স্থির অবস্থায় রাখতে পারবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](6.53 \times 10^{-9}C)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,শোলার বলের ভর, [math]\mathrm{m}=0.1 \mathrm{~g}=0.1 \times 10^{-3} \mathrm{~kg}[/math]
+দূরত্ব, [math]q_{1}=-6.67 \times 10^{-9} \mathrm{C}[/math]
+চার্জ, [math]\mathrm{r}=2 \mathrm{~cm}=0.02 \mathrm{~m}[/math]
+এখানে, শোলার বলকে শূন্যে স্থির অবস্থায় রাখতে হলে শোলার বলের ওজন চার্জিত বস্তুর আকর্ষণ বল দ্বারা নিষ্ক্রিয় হতে হবে।[math]\begin{array}{l} \therefore \mathrm{F}=\mathrm{mg} \\ \Rightarrow \frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{1} \mathrm{q}_{2}}{\mathrm{r}^{2}}=\mathrm{mg} \\ \Rightarrow 9 \times 10^{9} \times \frac{-6.67 \times 10^{-9} \times \mathrm{q}_{2}}{(0.02)^{2}}=-0.1 \times 10^{-3} \times 9.8 \\ \Rightarrow \mathrm{q}_{2}=\frac{-0.1 \times 10^{-3} \times 9.8 \times(0.02)^{2}}{6 \cdot 67 \times 10^{-9} \times 9 \times 10^{9}} \\ \therefore \mathrm{q}_{2}=6.53 \times 10^{-9} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: স্থিতাবস্থায় গুরত্বকরন বলকে বৈদ্যুতিক আকর্ষণ সমতুল্য হবে, তাই [math]k\frac{|qQ|}{r^2}=mg[/math] থেকে [math]Q=\frac{mgr^2}{k|q|}[/math]. এখানে [math]m=0.1\ \text{g}=1.0\times10^{-4}\ \text{kg},\ r=2\ \text{cm}=2.0\times10^{-2}\ \text{m},\ g=9.8\ \text{m/s}^2,\ k=9.0\times10^9\ \text{N·m}^2\!/ \text{C}^2,\ |q|=6.67\times10^{-9}\ \text{C}[/math] হলে [math]Q=\dfrac{(1.0\times10^{-4})(9.8)(4.0\times10^{-4})}{(9.0\times10^9)(6.67\times10^{-9})}\approx6.53\times10^{-9}\ \text{C}[/math]. যেহেতু বলের চার্জ ঋণাত্মক, তাই উপরের বস্তুটির চার্জ ধনাত্মক হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 421624)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3.23 \times 10^{-19}C[/math] চার্জের একটি প্লাস্টিক বল কোনো স্থানে [math]2.6 \times 10^4 V.m^{- 1}[/math] প্রাবল্যের একটি সুষম বৈদ্যুতিক ক্ষেত্রে ঝুলন্ত অবস্থায় রাখা হল। উক্ত স্থানে অভিকর্ষজ ত্বরণের মান [math]10 \ m.s^{-2}[/math] হলে বলটির ভর কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](8.4 \times 10^{-16}kg)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ, [math]q=3.23 \times 10^{-19}C[/math]
+প্রাবল্য,[math]E=2.6 \times 10^4 \ Vm^{-1}[/math]
+ত্বরণ, [math]g=10ms^{-2}[/math]
+ভর, [math]m=?[/math]
+ [math]\\[/math]
+আমরা জানি,প্রাবল্য,[math]E=\frac{F}{q}[/math]
+ [math]\begin{array}{l} \Rightarrow F=q E \\ \Rightarrow \mathrm{mg}=\mathrm{qE} \\ \Rightarrow \mathrm{m}=\frac{\mathrm{qE}}{\mathrm{g}}=\frac{3.23 \times 10^{-19} \mathrm{C} \times 2.6 \times 10^{4} \mathrm{Vm}^{-1}}{10 \mathrm{~ms}^{-2}} \\ \therefore \mathrm{m}=8.4 \times 10^{-16} \mathrm{~kg} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বল ভারসাম্যে থাকায় বৈদ্যুতিক বল ও ওজন সমতুল্য হবে, তাই [math]qE = mg[/math]. এখানে [math]q=3.23\times10^{-19}\ \text{C},\ E=2.6\times10^4\ \text{V·m}^{-1},\ g=10\ \text{m·s}^{-2}[/math], ফলে [math]m=\dfrac{qE}{g}=\dfrac{3.23\times10^{-19}\times2.6\times10^4}{10}=8.398\times10^{-16}\ \text{kg}\approx8.4\times10^{-16}\ \text{kg}[/math]. এই সমীকরণটি ব্যবহার করে ন্যূনতম তথ্য থেকে ভর সরাসরি পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 421625)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি প্রোটন [math]A[/math] ও [math]B[/math] পাতের মধ্যে [math]2.8 \times 10^5 \ NC^{-1}[/math] তড়িৎ প্রাবল্য বিশিষ্ট সুষম তড়িৎ ক্ষেত্রে আছে। পাত দুটির মধ্যে ব্যবধান [math]0.75cm[/math]
+
+
+[Image]
+
+
+Options:
+গ. প্রোটিন চার্জটি [math]A[/math] থেকে [math]B[/math] তে স্থানান্তরিত হতে প্রোটনটির উপর ক্ষেত্রে কর্তৃক কৃতকাল কত হবে এবং প্রোটনটি নত গতিশক্তি লাভ করবে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, A ও B পাতের মধ্যে তড়িৎপ্রাবল্য[math]\mathrm{E}=2.8 \times 10^{5} \mathrm{NC}^{-1}[/math]
+A ও B পাতের দূরত্ব, d = 0.75 cm = [math]0.75 \times 10^{-2} \mathrm{~m}[/math]
+জানা আছে, প্রোটনের চার্জ, [math]q=1.6 \times 10^{-19} \mathrm{C}[/math]
+A ও B পাতের মধ্যকার বিভব পার্থক্য, V = Ed[math]\begin{array}{l}=2.8 \times 10^{3} \mathrm{NC}^{-1} \times 0.75 \times 10^{-2} \mathrm{~m} \\=2100 \text { volt }\end{array}[/math]
+: প্রোটন চার্জটি A থেকে B-তে স্থানান্তরিত হতে প্রোটনটির ওপরক্ষেত্র কর্তৃক কৃতকাজ,[math]\begin{array}{l}W=\mathrm{qV}=1.6 \times 10^{-15} \mathrm{C} \times 2100 \mathrm{volt} \\=3.36 \times 10^{-16} \mathrm{~J}\end{array}[/math]
+কাজ শক্তি উপপাদ্য অনুসারে কোনোরূপ ঘর্ষণ বল ক্রিয়া না করায় প্রোটনটির অর্জিত গতিশক্তি Ex = প্রোটনটির ওপর কৃতকাজ,[math]\begin{aligned}& =3.36 \times 10^{-16} \mathrm{~J} \\\therefore W & =3.36 \times 10^{-16} \mathrm{~J}, \mathrm{E}_{\mathrm{x}}=3.36 \times 10^{-16} \mathrm{t}\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ক্ষেত্র কর্তৃক কৃত কাজ [math]W=qEd[/math] যেখানে [math]q=1.6\times10^{-19}\ C,\ E=2.8\times10^{5}\ N\,C^{-1},\ d=0.75\ \text{cm}=0.0075\ \text{m}[/math]। তাই [math]W=1.6\times10^{-19}\times2.8\times10^{5}\times0.0075=3.36\times10^{-16}\ J[/math]। ক্ষেত্র ইতিবাচক কাজ করলে প্রোটনটি সমপরিমাণ গতিশক্তি অর্জন করে, তাই গতিশক্তি বৃদ্ধি [math]3.36\times10^{-16}\ J[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 421616)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]ABCD[/math] আয়তাকার ক্ষেত্রের [math]B[/math] ও [math]D[/math] বিন্দুতে যথাক্রমে [math]+5 \times 10^{-3}C[/math] এবং [math]- 2.25 \times 10^{-3}C[/math] চার্জ স্থাপন করা হলো ( বায়ুর মাধ্যমে )
+
+
+[Image]
+
+
+Options:
+গ. [math]A[/math] বিন্দুতে বল কত?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+গ কারণ A বিন্দুতে মোট বল হল B ও D চার্জের কুলম্বীয় বলের ভেক্টর যোগফল; প্রতিটি বল কুলম্ব সূত্র থেকে পাওয়া যায়: [math]F=k\frac{|q_A q|}{r^2}[/math] (এখানে [math]r=AB[/math] বা [math]AD[/math]) এবং B-এর চার্জ থেকে A তে প্রতিরোধ (পুশ) এবং D থেকে আকর্ষণ (পুল) নির্দেশিত। AB ও AD অনুযায়ী তাদের উপাদানগুলো যোগ করলে নেট বলের মাত্রা ও দিকটি গ-তে দেয়া মানের সাথে মিলায়।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 421615)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পড়া একটি দৃঢ় অবলম্বন থেকে একটি চার্জিত গোলক ঝুলানো আছে। গোলক থেকে [math]1.5 cm[/math] নিচে [math]P[/math] একটি বিন্দু। ঐ স্থানে অভিকর্ষজ ত্বরণের মান $10 ms^{-2}।
+
+
+[Image]
+
+
+Options:
+ঘ. কী ব্যবস্থা গ্রহণ করলে কোনো কিছুর সাথে না আটকিয়ে [math]P[/math] বিন্দুতে [math]10 \ mg[/math] ভরের একটি শোলাবল স্থির রাখা যাবে? গাণিতিক যুক্তিসহ উত্তর দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘP বিন্দুতে ধনাত্মক চার্জ প্রয়োগ করে সৃষ্ট ঊর্ধ্বমুখী বলের মান, নিম্নমুখী ওজনের সমান করা গেলে শোলা বলটি শূন্যে স্থির রাখা যাবে ।এখানে,গোলকের চার্জ, Q [math]=12 \cdot \mu \mathrm{C}[/math]
+দূরত্ব, [math]\mathrm{r}=1.5 \mathrm{~cm}=0.015 \mathrm{~m}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=10 \mathrm{~ms}^{-2}[/math]
+ধ্রুবক, [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+শোলাবলের ভর, [math]\begin{aligned}\mathrm{m} & =10 \mathrm{mg} \\& =10^{-5} \mathrm{~kg}\end{aligned}[/math]
+P বিন্দুতে চার্জ, q = ?[math]\mathrm{F}_{\mathrm{e}}=\mathrm{W}[/math]
+ [math]\begin{array}{l}\text { } \frac{Q q}{4 \pi \epsilon_{0} r^{2}}=\mathrm{mg} \\\text { } 9 \times 10^{9} \times \frac{12 \times 10^{-6} \times \mathrm{q}}{(0.015)^{2}} \\\quad=10^{-5} \times 10 \\\text { } q=\frac{10^{-5} \times(0.015)^{2} \times 10}{9 \times 10^{9} \times 12 \times 10^{-6}} \\\therefore \mathrm{q}=2.083 \times 10^{-13} \mathrm{C}\end{array}[/math]
+গোলকের সাথে ঊর্ধ্বমুখী তড়িৎ আকর্ষণ বল লাভের জন্য চার্জ ঋণাত্মক হতে হবে।অতএব, শোলায় , [math]2.083 \times 10^{-13} \mathrm{C}[/math]
+ চার্জ প্রয়োগ করলে শোলা বলটিকে কেনো কিছুর সাথে না আটকিয়ে স্থির রাখা যাবে। -
+
+Explanation:
+ব্যাখ্যা: ঘ কোনো বস্তুকে স্পর্শ না করে P বিন্দুতে স্থির রাখতে তার উপর উপরের দিকে বৈদ্যুতিক বল তার ওজনের সমান হতে হবে, অর্থাৎ [math]qE=mg[/math]। এখানে [math]m=10\,\text{mg}=1.0\times10^{-5}\,\text{kg}[/math] হলে [math]mg=1.0\times10^{-4}\,\text{N}[/math] হয়, তাই উপরের দিকে [math]1.0\times10^{-4}\,\text{N}[/math] বল দেওয়ার জন্য পছন্দকৃত চার্জ ও ক্ষেত্রকে সন্তুষ্ট করতে হবে: [math]E=\dfrac{mg}{q}[/math] অথবা যদি [math]E[/math] জানা থাকে তাহলে [math]q=\dfrac{mg}{E}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 421613)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি একটি ইংক জেট প্রিন্টারের ডিফ্লেকটিং সিস্টেমের। [math]m=1.3 \times 10^{-10}kg[/math] ভরের এবং [math]q =1.5 \times 10^{-13}C[/math] চার্জযুক্ত একটি কালির ফোঁটা [math]v = 18ms^{-1}[/math] বেগে ডিফ্লেকটিং সিস্টেমের প্লেটদ্বয়ের মধ্যে [math]x[/math] অক্ষ বরাবর প্রবেশ করে। এই প্লেটের দৈর্ঘ্য [math]L = 1.6 cm[/math] এবং এর মাঝে নিচের দিকে তড়িৎ ক্ষেত্রের মান [math]E=1.4 \times 10^{6}N.C[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. অভিকর্ষ প্রভাব নগণ্য ধরে গ্রেটদ্বয়ের মাঝে কালির ফোঁটার গতিপথ কেমন হবে? গাণিতিকভাবে মতামত দাও এবং প্লেটের অপর প্রান্তে ।' অক্ষের দিকে সরণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রেটদ্বয়ের মাঝে কালির ফোঁটার ওপর তাড়িত বল Eq। এ বলের ক্রিয়ায় ত্বরণ সৃষ্টি হলে, বা, ma = Eq[math]\therefore a=\frac{E_{9}}{m}=\frac{\left(1.4 \times 10^{6} \mathrm{~N} \cdot \mathrm{C}^{-1}\right)\left(-1.5 \times 10^{-13} \mathrm{C}\right)}{1.3 \times 10^{-10} \mathrm{~kg}}[/math]
+এ ত্বরণ ওপরের দিকে অর্থাৎ y অক্ষের ধনাত্মক দিকে ক্রিয়া করবে। সুতরাং , [math]a_{x}=0[/math]
+ এবং [math]a_{y}=1.6 \times 10^{3} \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+t সময় পর ফোটার অবস্থান (x, y) হলে, [math]x=v_{x} t[/math]
+ [math]\therefore \mathrm{t}=\frac{\pi}{v_{x}}[/math]
+ [math]y=\frac{1}{2} a, r^{2}=\frac{1}{2} a, \times \frac{x^{2}}{v_{z}^{2}}=\frac{a_{y}}{2 v_{t}^{2}} \times x^{2}[/math]
+ [math]=\mathrm{kx}^{2}\left[\frac{\mathrm{k}}{2 \mathrm{v}_{\mathrm{k}}^{2}}-\mathrm{k}\right.[/math]
+ ধ্রুবক ধরে]ইহা একটি পরাবৃত্তের সমীকরণ। সুতরাং, কালির ফোঁটার গতিপথ একটি পরাবৃত্ত । অপর প্রান্তে, [math]\mathrm{x}=\mathrm{L}=1.6 \mathrm{~cm}=1.6 \times 10^{-2} \mathrm{~m}[/math]
+ [math]\begin{array}{l}\therefore \mathrm{t}=\frac{1.6 \times 10^{-2} \mathrm{~m}}{18 \mathrm{~ms}^{-1}}=8.89 \times 10^{-4} \mathrm{~s} \\\begin{aligned}\therefore \mathrm{y} & =\frac{1.6 \times 10^{3} \mathrm{~m} \cdot \mathrm{s}^{-2}}{2} \times\left(8.89 \times 10^{-4} \mathrm{~s}\right)^{2} \\& =6.3 \times 10^{-4} \mathrm{~m}=0.63 \mathrm{~mm}\end{aligned}\end{array}[/math]
+ইহাই প্লেটের অপর প্রান্তে y অক্ষের দিকে নির্ণেয় সরণ ।-
+
+Explanation:
+ঘ ব্যাখ্যা: প্লেটগুলোর মধ্যে ইলেকট্রিক ফোর্স ধ্রুবভাবে নীচের দিকে কাজ করে, তাই কালি কণার গতিপথ প্লেটে থাকা অংশে একটি ধরণাকার (parabolic) বক্ররেখা হবে এবং প্লেটের পরে কোনও বাহ্যিক শক্তি না থাকলে তা সোজা রেখায় (constant vx ও স্থায়ী vy) চলতে থাকবে। এখানে [math]a=\dfrac{qE}{m}=\dfrac{1.5\times10^{-13}\times1.4\times10^{6}}{1.3\times10^{-10}}\approx1.62\times10^{3}\,{\rm m/s^2}[/math], [math]t=\dfrac{L}{v}=\dfrac{0.016}{18}\approx8.89\times10^{-4}\,{\rm s}[/math], তাই প্লেটের এক প্রান্তে অবতলন [math]y=\tfrac{1}{2}at^2\approx\tfrac{1}{2}\times1.62\times10^{3}\times(8.89\times10^{-4})^2\approx6.4\times10^{-4}\,{\rm m}\;(0.64\,{\rm mm})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 421614)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ধনাত্মকভাবে চার্জিত অসীম বিস্তৃতির একটি তল যার চার্জের তল ঘনত্ব [math]5 \ \mu C.m^{-2}[/math]। তল থেকে [math]0.2m[/math] লম্ব দূরত্বে [math]P[/math] একটি বিন্দু। ঐ স্থানের অভিকর্ষজ ত্বরণ [math]g=10m .s^{-2}[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. কোনো রকম অবলম্বন ছাড়া কী ব্যবস্থা গ্রহণ করলে [math]2 \ mg[/math] ভরের একটি শোলা বল । বিন্দুতে স্থির রাখা যাবে? বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘবস্তুর ওজন নিচের দিকে ক্রিয়া করবে। সুতরাং বস্তুটিকে কোনো রকম অবলম্বন ছাড়া স্থির রাখতে হলে ওজনের সমপরিমাণ বল উপরের দিকে সৃষ্টি করতে হবে। যেহেতু পাতটি ধানাত্মকভাবে চার্জিত সেহেতু P বিন্দুতে প্রাবল্যের দিক হবে উপরের দিকে। এখন, বস্তুটির ওপর উপরের দিকে বল সৃষ্টি করতে হলে বস্তুটিতে ধনাত্মক চার্জ দিতে হবে।ধরা যাক, বস্তুটিতে এ ধনাত্মক চার্জ প্রদান করলে বস্তুটি স্থির থাকবে।বস্তুর ওজন = তড়িৎ বল । বা, mg=qEএখানে বস্তুর ভর, [math]\mathrm{m}=2 \mathrm{mg}=2 \times 10^{-6} \mathrm{~kg}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=10 \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+তড়িৎ প্রাবল্য, [math]\mathrm{E}=2.825 \times 10^{5} \mathrm{~N} \cdot \mathrm{C}^{-1}[/math]
+সুতরাং,[math]\begin{aligned}\mathrm{q}=\frac{\mathrm{mg}}{\mathrm{E}} & =\frac{\left(2 \times 10^{-6} \mathrm{~kg}\right)\left(10 \mathrm{~m} \cdot \mathrm{s}^{-2}\right)}{\left(2.825 \times 10^{5} \mathrm{~N} \cdot \mathrm{C}^{-1}\right)} \\& =7.079 \times 10^{-11} \mathrm{C}\end{aligned}[/math]
+সুতরাং, বস্তুটিতে , [math]7.079 \times 10^{-11} \mathrm{C}[/math]
+ ধনাত্মক চার্জ প্রদান করলে P বিন্দুতে স্থির থাকবে।-
+
+Explanation:
+ঘ ব্যাখ্যা: অনন্ত তলের ক্ষেত্রের মান [math]E=\dfrac{σ}{2ε_0}=\dfrac{5\times10^{-6}}{2\times8.85\times10^{-12}}\approx2.82\times10^{5}\ \mathrm{N/C}[/math], ওজন [math]W=mg=(2\times10^{-6}\ \mathrm{kg})\times10=2.0\times10^{-5}\ \mathrm{N}[/math]; তাই সমতুল্য ইলেকট্রিক বল দেওয়ার জন্য প্রয়োজনীয় চার্জ [math]q=\dfrac{W}{E}\approx7.1\times10^{-11}\ \mathrm{C}[/math]. তল ধনাত্মক হওয়ায় উপরের দিকে ক্ষেত্র থাকে, তাই বলটিকে স্থির রাখতে ইতিবাচক চার্জ দেওয়া গেলে সম্ভব।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 421612)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি একটি ইংক জেট প্রিন্টারের ডিফ্লেকটিং সিস্টেমের। [math]m=1.3 \times 10^{-10}kg[/math] ভরের এবং [math]q =1.5 \times 10^{-13}C[/math] চার্জযুক্ত একটি কালির ফোঁটা [math]v = 18ms^{-1}[/math] বেগে ডিফ্লেকটিং সিস্টেমের প্লেটদ্বয়ের মধ্যে [math]x[/math] অক্ষ বরাবর প্রবেশ করে। এই প্লেটের দৈর্ঘ্য [math]L = 1.6 cm[/math] এবং এর মাঝে নিচের দিকে তড়িৎ ক্ষেত্রের মান [math]E=1.4 \times 10^{6}N.C[/math]
+
+
+[Image]
+
+
+Options:
+গ. কালির ফোঁটাটিকে দুই প্লেটের মাঝে স্থির রাখতে হলে এতে কত চার্জ থাকতে হবে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গআমরা জানি, কালির ফোঁটার ওজন, w = mg এবং এতে চার্জের পরিমাণ q হলে এর ওপর ক্রিয়াশীল তড়িৎ বল, F = Eq। ফোঁটাটি স্থির থাকতে হলে নিট বল শূন্য হতে হবে অর্থাৎ mg Eq + = 0এখানে, কালির ফোঁটার ভর, [math]\mathrm{m}=1.3 \times 10^{-10} \mathrm{~kg}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+তড়িৎক্ষেত্র, [math]\mathrm{E}=1.4 \times 10^{6} \mathrm{~N} \cdot \mathrm{C}^{-1}[/math]
+কালির ফোঁটাটিকে দুই প্লেটের মধ্যে স্থির রাখতে প্রয়োজনীয় চার্জ, q = ?[math]\begin{array}{l}\therefore \mathrm{Eq}=-\mathrm{mg} \\\begin{aligned}\text { } q=-\frac{\mathrm{mg}}{\mathrm{E}} & =-\frac{\left(1.3 \times 10^{-10}\mathrm{~kg}\right)\left(9.8 \mathrm{~m} . \mathrm{s}^{-2}\right)}{1.4 \times 10^{6} \mathrm{~N} . \mathrm{C}^{-1}} \\& \left.=-9.1 \times 10^{-16} \mathrm{C} \text{(Ans, }\right)\end{aligned}\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ স্থিরভাবে রাখতে উল্লম্ব বলগুলোর সমতা লাগবে, তাই মানসম্মতভাবে [math]|q|E=mg[/math] এবং ফলে [math]|q|=\dfrac{mg}{E}=\dfrac{1.3\times10^{-10}\times9.8}{1.4\times10^{6}}=9.1\times10^{-16}\,\text{C}[/math]. কারণ ক্ষেত্রের দিশা নিচের দিকে, বিদ্যুত্ বল উপরের দিকে পেতে চার্জটি নেতিবাচক হতে হবে, তাই [math]q=-9.1\times10^{-16}\,\text{C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 421610)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+পৃথিবী-পৃষ্ঠের সন্নিকটে বায়ুশূন্য স্থানে [math]y[/math] অক্ষের, [math]y = 10m[/math] বিন্দুতে একটি ইলেকট্রন অবস্থিত। [math]y[/math] অক্ষের কোন বিন্দুতে প্রথম ইলেকট্রনের সাপেক্ষে দ্বিতীয় ইলেকট্রন রাখলে, তাদের মধ্যস্থিত স্থিরবিদ্যুতীয় বল, প্রথম ইলেকট্রনের উপর ক্রিয়াশীল মাধ্যাকর্ষণ বলের ভারসাম্য রক্ষা করবে? [ [math]g=9.8\ m / sec^{2}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]4.92\mathrm{~m}[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+[math]F_{e}=F_{g} \Rightarrow \dfrac{1}{4 \pi \epsilon_{0} } \dfrac{q^{2}}{a^2}=m_{e}g[/math]
+ [math]\begin{array}{l}\Rightarrow \mathrm{a}^{2}=\dfrac{9 \times 10^{9} \times\left(1.6 \times 10^{-19}\right)^{2}}{9.11 \times 10^{-31} \times 9.8}=25.8 \mathrm{~m}^{2} \\ \mathrm{a}=5.08 \mathrm{~m} \\ \therefore \mathrm{y}=10-5.08=4.92 \mathrm{~m} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: স্থিতাবস্থায় বৈদ্যুতিক দ্বন্দ্ব শক্তির পরিমাণ ও ভরের দ্বারা গঠিত গরুত্বক্ষেত্রের বল সমান হবে, তাই [math]\dfrac{k e^2}{r^2}=mg \Rightarrow r=\sqrt{\dfrac{k e^2}{mg}}[/math]. সংখ্যাগতভাবে [math]r=\sqrt{\dfrac{(8.99\times10^9)(1.602\times10^{-19})^2}{(9.11\times10^{-31})(9.8)}}\approx5.09\ \mathrm{m}[/math]. ইলেকট্রনদ্বয় একই ধনাত্মক প্রতিক্রিয়া করে একে অন্যকে ধাক্কা দেয়, কাজেই প্রথম ইলেকট্রনের উপর উপরের দিকে বল পেতে দ্বিতীয়টি প্রথমের নিচে স্থাপন করতে হবে: [math]y=10-5.09\approx4.91\ \mathrm{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 421611)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে [math]A[/math] ও [math]B[/math] বিন্দুতে যথাক্রমে [math]+6 \ C[/math] ও [math]-3 \ C[/math] চার্জ আছে। [math]AB = 1.5 m[/math] । [math]A[/math] ও [math]B[/math] গামী সরলরেখা [math]PQ[/math] ।
+
+
+[Image]
+
+
+Options:
+গ. চার্জদ্বয়ের মধ্যবর্তী ক্রিয়াশীল বল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+গ কুলম্বের সূত্র ব্যবহার করলে বলের মান হবে [math]F=k\frac{|q_1q_2|}{r^2}=9\times10^9\frac{6\times3}{1.5^2}=9\times10^9\times8=7.2\times10^{10}\ \mathrm{N}[/math]. দুই চার্জের চিহ্ন বিপরীত হওয়ায় বলটি আকর্ষণাত্মক এবং রেখা [math]PQ[/math] বরাবর একে অপরের প্রতি নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 421609)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]A[/math] ও [math]B[/math] কেন্দ্র বিশিষ্ট দুটি গোলক বায়ু মাধ্যমে স্থাপন করা হয়েছে; যেখানে [math]Q_{1}=2 \times 10^{-9} \mathrm{C}, C_{2}=-3 \times 10^{-9} \mathrm{C}, r_{1}=1 \mathrm{~m}, r_{2}=2 \mathrm{~m}[/math] এবং [math]A B=4 \sqrt{3} \mathrm{~m}.[/math]
+
+[Image]
+
+
+Options:
+ঘ. [math]C[/math] বিন্দুতে একটি একক ধনাত্মক আধান স্থাপন করলে উহা কোনদিকে গতিশীল হবে? –গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে,[math]\hspace{1 cm}\begin{aligned} \rm{Q}_{1}~ &=2 \times 10^{-9} \mathrm{C} \\ \mathrm{Q}_{2}~ & =-3 \times 10^{-9} \mathrm{C} \\ \mathrm{BC} & =4 \mathrm{~m} ; \mathrm{AB}=4 \sqrt{3} \mathrm{~m} \\ \mathrm{AC} & =\sqrt{\mathrm{AB}^{2}+\mathrm{BC}^{2}} \\ & =\sqrt{(4 \sqrt{3})^{2}+4^{2}} \mathrm{~m} \\ & =\sqrt{48+16 \mathrm{~m}}=8 \mathrm{~m} \end{aligned}[/math]
+এখন, আমরা জানি, কোনো বিন্দুতে একক আধান বা চার্জের উপর ক্রিয়াশীল বলকে তড়িৎক্ষেত্রের প্রাবল্য বলা হয়।এখন, [math]\rm{Q}_1[/math]
+ আধানের জন্য [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য[math]\hspace{1.5 cm}\mathrm{~E}_{1}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{\mathrm{Q}_{1}}{\mathrm{AC}^{2}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \dfrac{2 \times 10^{-9} \mathrm{C}}{(8 \mathrm{~m})^{2}}[/math]
+ [math]\hspace{1.5 cm}\quad ~ =0.28 \mathrm{~NC}^{-1}[/math]
+ দিক [math]\rm{AC}[/math]
+ বরাবরআবার, [math]\rm{Q}_2[/math]
+ চার্জের জন্য [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য[math]\hspace{1.5 cm}\begin{aligned} \rm{E}_{2}&= \frac{1}{4 \pi \epsilon_{0}} \cdot \frac{\rm{Q}_{2}}{\mathrm{BC}^{2}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \cdot \frac{-3 \times 10^{-9} \mathrm{C}}{(4 \mathrm{~m})^{2}} \end{aligned}[/math]
+ [math]\hspace{1.5 cm}\quad ~ =-1.69 \mathrm{~NC}^{-1}[/math]
+ দিক [math]\rm{BC}[/math]
+ বরাবর[math]\hspace{1.5 cm}\quad ~ =1.69 \mathrm{~NC}^{-1}[/math]
+ দিক [math]\rm{CB}[/math]
+ বরাবরএখন,[math]\hspace{1.5 cm}\begin{array}{l}\qquad \tan \angle \mathrm{ACB}=\dfrac{\mathrm{AB}}{\mathrm{BC}}=\dfrac{4 \sqrt{3} \mathrm{~m}}{4} \\ \Rightarrow \quad \angle \mathrm{ACB}=\tan ^{-1} \sqrt{3}=60^{\circ} \\ \therefore \quad \angle B C F=180^{\circ}-60^{\circ}=120^{\circ} \end{array}[/math]
+এখন লব্ধি প্রাবল্য [math]\rm{E}_2[/math]
+ এর সাথে [math]\theta[/math]
+ কোণ উৎপন্ন করলে,[math]\hspace{1.5 cm}\rm{\tan \theta=\dfrac{E_{1} \sin 120^{\circ}}{E_{2}+E_{1} \cos 120^{\circ}}=\dfrac{0.28 \sin 120^{\circ}}{1.69+0.28 \cos 120^{\circ}}}[/math]
+ [math]\hspace{1.5 cm}\therefore ~ \theta=8.89^{\circ}[/math]
+ প্ৰায়অতএব, [math]\rm{C}[/math]
+ বিন্দুতে স্থাপিত একক ধনাত্মক চার্জটি [math]\rm{CB}[/math]
+ এর সাথে [math]8.89^\circ[/math]
+ কোণে [math]\rm{CD}[/math]
+ বরাবর গতিশীল হবে।
+
+Explanation:
+ঘ C বিন্দুতে একক ধনাত্মক আধান রাখলে তা B-দিকেই গমন করবে। কারণ C A ও B-র মধ্যবিন্দু হলে দুটির প্রতি দূরত্ব [math]2\sqrt{3}[/math] ও ক্ষেত্রের মানগুলি: [math]E_1=k\frac{2\times10^{-9}}{(2\sqrt{3})^2}=k\frac{2\times10^{-9}}{12}=k\frac{1\times10^{-9}}{6}[/math], [math]E_2=k\frac{3\times10^{-9}}{12}=k\frac{1\times10^{-9}}{4}[/math]; যেহেতু [math]E_2>E_1[/math], নেট ক্ষেত্র এবং ফলে আকর্ষণমূলকভাবে B-দিকেই হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 421608)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+দুটি ক্ষুদ্র গোলক [math]A[/math] ও [math]B[/math] তে যথাক্রমে [math]+ 9C[/math] এবং [math]+ 16 C[/math] চার্জ প্রদান করা হলো। গোলক দুটির মধ্যবর্তী দূরত্ব [math]0.28 m[/math]।
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের [math]C[/math] বিন্দুতে [math]1C[/math] চার্জ রাখলে চার্জটি কোনো বল অনুভব করবে কি? –গাণিতিক যুক্তি দিয়ে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ এর আধান, [math]\rm{q}_{1}=9 \mathrm{C}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ এর আধান, [math]\rm{q}_{2}=16 \mathrm{C}[/math]
+ [math]\hspace{1 cm}\rm{A~ ও~ B}[/math]
+ এর মধ্যবর্তী দূরত্ব, [math]\mathrm{r}=0.28 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}\rm{A ~ও~ C}[/math]
+ এর মধ্যবর্তী দূরত্ব, [math]\rm{r}_{1}=0.12 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}\therefore ~\rm{B ~ও~ C}[/math]
+ এর মধ্যবর্তী দূরত্ব, [math]\mathrm{r}_{2}=(0.28-0.12) \mathrm{m}=0.16 \mathrm{~m}[/math]
+ [math]\therefore \rm{~A}[/math]
+ বিন্দুর চার্জের জন্য [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\mathrm{E}_{1}=\dfrac{1}{4 \pi \mathrm{E}_{0}} \cdot \rm{\dfrac{q_{1}}{r_{1}^{2}}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \dfrac{9 \mathrm{C}}{(0.12 \mathrm{~m})^{2}}[/math]
+ [math]\hspace{1.5 cm}\qquad=5.625 \times 10^{12} \mathrm{NC}^{-1}[/math]
+ দিক [math]\rm{AC}[/math]
+ বরাবরআবার, [math]\rm{B}[/math]
+ বিন্দুর চার্জের জন্য [math]\rm{C}[/math]
+ বিন্দুতে প্রাবল্য,[math]\hspace{1.5 cm}\rm{E}_{2}=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \rm{\dfrac{q_{2}}{r_{2}^{2}}}=9 \times 10^{9} \mathrm{~N} \mathrm{~m}^{2} \mathrm{C}^{-2} \times \dfrac{16 \mathrm{C}}{(0.16 \mathrm{~m})^{2}}[/math]
+ [math]\hspace{1.5 cm}\qquad =5.625 \times 10^{12} \mathrm{NC}^{-1}[/math]
+ দিক [math]\rm{BC}[/math]
+ বরাবরএখানে, [math]\rm{E_1 ~ও~ E_2}[/math]
+ এর মান সমান কিন্তু দিক পরস্পর বিপরীত। ফলে [math]\rm{C}[/math]
+ বিন্দুতে লব্ধি প্রাবল্য শূন্য, অর্থাৎ [math]\rm{C}[/math]
+ বিন্দুতে [math]1\rm{~C}[/math]
+ চার্জ রাখলে চার্জটি কোনো বল অনুভব করবে না।
+
+Explanation:
+ঘ ব্যাখ্যা: C বিন্দুতে 1 C চার্জ কোনো বল অনুভব করবে না, কারণ A ও B থেকে আসা ক্ষেত্রের মান সমান এবং বিপরীত দিকের হবে; গণনা করে দেখা যায় [math]\frac{9}{x^2}=\frac{16}{(0.28-x)^2}[/math] → [math]\frac{3}{x}=\frac{4}{0.28-x}[/math] → [math]x=\frac{3\times0.28}{7}=0.12\ \text{m}[/math], অর্থাৎ A থেকে 0.12 m স্থানে (C) ক্ষেত্র শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 421607)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+দুটি ক্ষুদ্র গোলক [math]A[/math] ও [math]B[/math] তে যথাক্রমে [math]+ 9C[/math] এবং [math]+ 16 C[/math] চার্জ প্রদান করা হলো। গোলক দুটির মধ্যবর্তী দূরত্ব [math]0.28 m[/math]।
+
+[Image]
+
+
+Options:
+গ. [math]A[/math] এর উপর [math]B[/math] এর বল কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}\rm{A}[/math]
+ বিন্দুর আধান [math]\rm{q_{1}=9 C}[/math]
+ [math]\hspace{1 cm}\rm{B}[/math]
+ বিন্দুর আধান [math]\rm{q_{2}=16 C}[/math]
+ [math]\hspace{1 cm}[/math]
+মধ্যবর্তী দূরত্ব [math]\rm{r}=0.28 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ধ্রুবক [math]\dfrac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+ক্রিয়াশীল বল, [math]\mathrm{F}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{F} & =\rm{\dfrac{1}{4 \pi \epsilon_{0}} \cdot \dfrac{q_{1} q_{2}}{r^{2}} }\\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{9 \mathrm{C} \times 16 \mathrm{C}}{(0.28 \mathrm{~m})^{2}}=1.65 \times 10^{13} \mathrm{~N} \end{aligned}[/math]
+নির্ণেয় বল, [math]1.65 \times 10^{13} \mathrm{~N}[/math]
+।
+
+Explanation:
+গ [math]F = k\frac{q_A q_B}{r^2} = 9\times10^9\frac{(9)(16)}{(0.28)^2}\approx 1.65\times10^{13}\ \text{N}[/math]. দুইটি ধনাত্মক চার্জ হওয়ায় বলটি প্রতিকর্ষণ—অর্থাৎ A-কে B থেকে দূরে ঠেলে।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 421605)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে প্রদর্শিত উল্লম্বতলে রক্ষিত বর্গাকার ক্ষেত্রের চার কৌণিক বিন্দুতে চারটি চার্জ স্থাপন করা হলো। দ্বিতীয় ক্ষেত্রে বর্গক্ষেত্রের কেন্দ্রে [math]2 \times 10^{-6} \mathrm{C}[/math] মানের চার্জযুক্ত [math]2.5 \times 10^{-4} \mathrm{~kg}[/math] ভরের একটি বস্তু শূন্যে স্থাপন করা হয়। ( [math]\mathrm{g}=10 \mathrm{~m} \mathrm{~s}^{-2}[/math])
+
+Options:
+ঘ. উদ্দীপকে কৌণিক বিন্দুগুলোর চার্জসমূহ পুনর্বিন্যস্ত করে কেন্দ্রের চার্জিত বস্তুটিকে ভাসমান রাখা সম্ভব —গাণিতিক বিশ্লেষণের সাহায্যে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+বস্তুর ভর [math]\mathrm{m}=2.5 \times 10^{-4} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ [math]\rm{g}=10 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+বস্তুর আধান, [math]\rm{q}=2 \times 10^{-6} \mathrm{C}[/math]
+বস্তুর ওজন[math]\hspace{1.5 cm}\begin{array}{l}\mathrm{W}=\mathrm{mg} \\ \quad=2.5 \times 10^{-4} \mathrm{~kg} \times 10 \mathrm{~m} \mathrm{~s}^{-2}=2.5 \times 10^{-3} \mathrm{~N}\end{array}[/math]
+এখন বস্তুটিকে ভাসমান রাখতে প্রয়োজনীয় সর্বনিম্ন তড়িৎ প্রাবল্য [math]\rm{E}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad\mathrm{W}=\mathrm{qE} \\ \Rightarrow \mathrm{E}=\dfrac{\mathrm{W}}{\mathrm{q}}=\dfrac{2.5 \times 10^{-3} \mathrm{~N}}{2 \times 10^{-6} \mathrm{C}}=1250 \mathrm{NC}^{-1} \end{array}[/math]
+এখন, [math]\rm{Q_1 ~ও~ Q_2}[/math]
+ কে পরস্পর স্থান বিনিময় করলে কেন্দ্রের প্রাবল্য যদি [math]\rm{E}_1[/math]
+, হয়, তাহলে[math]\hspace{1.35 cm}\begin{aligned} \rm{E}_1 & \rm{=\frac{1}{4 \pi \epsilon_{0}}\left(\frac{Q_{4}}{r_{2}}+\frac{Q_{1}}{r^{2}}-\frac{Q_{3}}{r^{2}}-\frac{Q_{2}}{r^{2}}\right)} \\ & =\frac{1}{4 \pi \epsilon_{0}} \cdot \frac{1}{2^{2}}\left(Q_{4}+Q_{1}-Q_{3}-Q_{2}\right) \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{\left(4 \times 10^{-6}-2 \times 10^{-6}-4 \times 10^{-6}-2 \times 10^{-6}\right) \mathrm{C}}{(2 \sqrt{2} \mathrm{~m})^{2}} \\ & =-4500 \mathrm{NC}^{-1}\\ \therefore \quad|\overline{\mathrm{E}}| & =4500 \mathrm{~NC}^{-1} \end{aligned}[/math]
+এখানে, [math]\mathrm{E}_{1}>\mathrm{E}[/math]
+অতএব, কৌণিক বিন্দুগুলোর চার্জসমূহ পূর্ণ বিন্যস্ত করে কেন্দ্রের চার্জিত বস্তুটিকে ভাসমান রাখা সম্ভব।
+
+Explanation:
+ঘ বাম-ডান দিকের বিভাজন করে উপর দুই কোণে বিপরীত চিহ্নের (নেগেটিভ) এবং নিচের দুই কোণে ধনাত্মক একই মানের চার্জ রাখলে সাথে সাথে অনুভূমিক ক্ষেত্রের অংশ cancel হয়ে যায় এবং উল্লম্ব ক্ষেত্র সমষ্টিবদ্ধ হয়। কেন্দ্রে থাকা চার্জ [math]q[/math] উপর মোট বৈদ্যুতিক বল হবে [math]F_e=q\cdot\frac{2\sqrt{2}\,kQ}{r^2}[/math] (প্রতি কোণের দূরত্ব [math]r=a/\sqrt{2}[/math]) এবং ভরকে ভাসমান রাখার শর্ত [math]F_e=mg[/math] থেকে পাওয়া যায় [math]Q=\dfrac{mg\,r^2}{2\sqrt{2}\,kq}=\dfrac{mg\,a^2}{4\sqrt{2}\,kq}[/math]। তাই উপরের চিহ্ন-সম্ভব্যতা ও উপযুক্ত পরিমাণের [math]Q[/math] নির্ধারণ করে কেন্দ্রীয় বস্তুটিকে ভাসমান রাখা সম্ভব।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 421606)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দুটি বিন্দু চার্জ নির্দিষ্ট দূরত্বে শূন্য মাধ্যমে আছে।
+
+[Image]
+
+
+Options:
+গ. চার্জ দুটির মধ্যে ক্রিয়াশীল কুলম্ব বলের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+১ম চার্জ [math]\mathrm{q}_{1}=20 \times 10^{-6} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় চার্জ [math]\rm{q_{2}=-40 \times 10^{-6} C}[/math]
+ [math]\hspace{1 cm}[/math]
+মধ্যবর্তী দূরত্ব [math]\rm{r}=1 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ধ্রুবক, [math]\dfrac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+ক্রিয়াশীল বল, [math]\mathrm{F}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \rm{F} &=\dfrac{1}{4 \pi \epsilon_{0}} \cdot \rm{\dfrac{q_{1} q_{2}}{r^{2}}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \dfrac{20 \times 10^{-6} \mathrm{C} \times\left(-40 \times 10^{-6}\right)}{(1 \mathrm{~m})^{2}}=7.2 \mathrm{~N} \end{aligned}[/math]
+অতএব, চার্জ দুটির মধ্যে ক্রিয়াশীল কুলম্ব বলের মান [math]7.2 \mathrm{~N}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ দুই বিন্দু-চার্জের মধ্যে কুলম্ব বলের পরিমাণ কুলম্বের সূত্র অনুযায়ী হবে [math]F = k\frac{|q_1 q_2|}{r^2}[/math] যেখানে [math]k=\dfrac{1}{4\pi\epsilon_0}\approx 9\times 10^9\ \mathrm{N\,m^2/C^2}[/math] এবং [math]r[/math] হলো দুই চার্জের মধ্যকার দুরত্ব; এখানে সূত্রে উপযোগী মান বসিয়ে সংখ্যা নির্ণয় করবেন। বলের দিক নির্ভর করবে চার্জগুলোর চিহ্নে—একই চিহ্ন হলে অপরিবর্তক (প্রতিরোধী), বিপরীত চিহ্ন হলে আকর্ষণী।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 421604)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+চিত্র (i) এ [math]W[/math] এবং [math]X[/math] বিন্দুতে দু'টি বিন্দুচার্জ স্থির রয়েছে।
+
+[Image]
+
+
+Options:
+গ. [math]+ 2\ \mu C[/math] চার্জটির উপর ক্রিয়াশীল বল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}\rm{~q}_{1}=2 \mu \mathrm{C}=2 \times 10^{-6} \mathrm{C}[/math]
+ [math]\hspace{1 cm}\rm{~q}_{2}=4 \mu \mathrm{C}=4 \times 10^{-6} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+ধ্রুবক, [math]\dfrac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+মধ্যবর্তী দূরত্ব, [math]\mathrm{r}=2 \mathrm{~mm}=2 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ক্রিয়াশীল বল, [math]\mathrm{F}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{F} & =\frac{1}{4 \pi \epsilon_{0}} \cdot \rm{\frac{q_{1} q_{2}}{r^{2}}} \\ & =9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2} \times \frac{2 \times 10^{-6} \mathrm{C} \times 4 \times 10^{-6} \mathrm{C}}{\left(2 \times 10^{-3} \mathrm{~m}\right)^{2}} \\ & =1.8 \times 10^{4} \mathrm{~N} \end{aligned}[/math]
+অতএব, [math]+2 \mu \mathrm{C}[/math]
+ চার্জটির উপর ক্রিয়াশীল বল [math]1.8 \times 10^{4} \mathrm{~N}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ সঠিক কারণ W ও X-এ থাকা চার্জ দুটি +2 μC চার্জের দুপাশে সমদূরে এবং সমমাত্রার বল উৎপন্ন করে; কুলম্বের সূত্র [math]F=k\frac{q_1q_2}{r^2}[/math] অনুযায়ী প্রতিটি চার্জ থেকে প্রাপ্ত বলের মান সমান কিন্তু বিপরীত দিকের হওয়ায় ভেক্টর যোগে মোট বল শূন্য হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 421603)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+পরবর্তীতে বর্গক্ষেত্রের কেন্দ্র [math](O)[/math] তে [math]+ 1\ C[/math] চার্জে চার্জিত [math]9.8\ kg[/math] ভরের একটি বস্তু রাখা হলো।
+
+Options:
+ঘ. ২য় ক্ষেত্রে বস্তুটি সাম্যাবস্থায় থাকবে কি-না গাণিতিক বিশ্লেষণের মাধ্যমে মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\rm{r}=\dfrac{\sqrt{4^{2}+4^{2}}}{2} \mathrm{~m}=2 \sqrt{2} \mathrm{~m}[/math]
+ [math]\rm{A}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{O}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য,[math]\hspace{1 cm}\mathrm{E}_{1}=9 \times 10^{9} \dfrac{4}{(2 \sqrt{2})^{2}} \mathrm{NC}^{-1}=4.5 \times 10^{9} \mathrm{NC}^{-1}, \mathrm{OC}[/math]
+ বরাবর
+[Image]
+[math]\rm{D}[/math]
+ বিন্দুর আধানের জন্য [math]\rm{O}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য,[math]\hspace{1.5 cm}\mathrm{E}_{2}=9 \times 10^{9} \times \dfrac{4}{(2 \sqrt{2})^{2}} \mathrm{NC}^{-1}=4.5 \times 10^{9} \mathrm{NC}^{-1}, \mathrm{OB}[/math]
+ বরাবর[math]\mathrm{C}[/math]
+ বিন্দুর আধানের জন্য [math]\mathrm{O}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য,[math]\hspace{1.5 cm}\mathrm{E}_{3}=9 \times 10^{9} \times \dfrac{2}{(2 \sqrt{2})^{2}} \mathrm{NC}^{-1}=2.25 \times 10^{9} \mathrm{NC}^{-1}, \mathrm{OA}[/math]
+ বরাবর[math]\mathrm{B}[/math]
+ বিন্দুর আধানের জন্য [math]\mathrm{O}[/math]
+ বিন্দুতে তড়িৎ প্রাবল্য,[math]\hspace{1.5 cm}\mathrm{E}_{4}=9 \times 10^{9} \times \dfrac{2}{(2 \sqrt{2})^{2}} \mathrm{NC}^{-1}=2.25 \times 10^{9} \mathrm{NC}^{-1}, \mathrm{OD}[/math]
+ বরাবরএখানে, [math]\mathrm{E_1}[/math]
+ এবং [math]\mathrm{E_3}[/math]
+ এর লব্ধি,[math]\hspace{1.5 cm}\mathrm{E}^{\prime}=\mathrm{E}_{1}-\mathrm{E}_{3}\left[\because \alpha=180^{\circ}\right] =2.25 \times 10^{9} \mathrm{NC}^{-1}, \mathrm{OC}[/math]
+ বরাবরআবার, [math]\mathrm{E_2}[/math]
+ এবং [math]\mathrm{E_4}[/math]
+ এর লব্ধি,[math]\hspace{1.5 cm}\mathrm{E}^{\prime \prime}=\mathrm{E}_{2}-\mathrm{E}_{4}=2.25 \times 10^{9} \mathrm{NC}^{-1}, \mathrm{OB}[/math]
+ বরাবর[math]\therefore[/math]
+ আবার, [math]\mathrm{E}^{\prime\prime}[/math]
+ এবং [math]\mathrm{E}^\prime[/math]
+ এর মধ্যবর্তী কোণ, [math]\alpha=90^\circ[/math]
+ [math]\therefore[/math]
+ চূড়ান্তলব্ধি, [math]\mathrm{E}=\sqrt{\mathrm{E}^{\prime 2}+\mathrm{E}^{\prime \prime 2}}=3.18 \times 10^{9} \mathrm{NC}^{-1}[/math]
+আবার, [math]\mathrm{F}_{\mathrm{g}}=\mathrm{mg}=(9.8 \times 9.8) \mathrm{N}=9.6 \times 10^{1} \mathrm{~N}[/math]
+আমরা পাই, [math]\mathrm{F}_{\mathrm{E}}=\mathrm{qE}=1 \times 3.18 \times 10^{9} \mathrm{~N} 
+eq \mathrm{F}_{\mathrm{g}}[/math]
+ [math]\therefore[/math]
+ ২য় ক্ষেত্রে বস্তুটি সাম্যবস্থায় থাকবে না।
+
+Explanation:
+ঘ বর্গক্ষেত্রের চার কোণে সমবিমীয় চার্জ থাকলে কেন্দ্র O-তে বৈদ্যুতিক ক্ষেত্র শূন্য হওয়ায় নিট বৈদ্যুতিক বল [math]F_{\rm net}=0[/math], তাই এটি সাম্যাবস্থাই। তবে ছোট একটি পরিব্যক্তিতে প্রতি কোণের প্রতিক্রিয়ায় নিট বল ছোট পরিব্যক্তির অনুপাত হিসেবে থাকে, অর্থাৎ [math]F_{\rm net}\propto x[/math] এবং চিহ্ন এমন যে বল পরিব্যক্তিকে কেন্দ্র থেকে আরও দূরে ঠেলে—অতএব কেন্দ্রের সাম্যাবস্থা অস्थিতিশীল।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 421602)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে ভূমির উল্লম্ব বরাবর [math]ABC[/math] একটি সমবাহু ত্রিভুজ।
+
+[math]\hspace{2cm}[/math] [math]\begin{array}{l}q_{1}=3 \times 10^{-9} \mathrm{C} \\q_{2}=3 \times 10^{-9} \mathrm{C}\end{array}[/math]
+
+Options:
+ঘ. [math]A[/math] বিন্দুতে [math]2\ kg[/math] ভরের একটি বস্তু ঝুলিয়ে রাখতে হলে বৈদ্যুতিক ব্যবস্থা নিতে হবে? বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, ভর, [math]\mathrm{m}=2 \mathrm{~kg}[/math]
+বস্তুটি ঝুলিয়ে রাখতে প্রয়োজনীয় বল,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{F}=\mathrm{mg}=(2 \times 9.8)=19.6 \mathrm{~N} \\ \Rightarrow \mathrm{~F}=\sqrt{\mathrm{F}_{1}{ }^{2}+\mathrm{F}_{1}^{2}+2 \cdot \mathrm{F}_{1} \cdot \mathrm{F}_{1} \cos 60^{\circ}} \\ \Rightarrow \mathrm{F}^{2}=3 \mathrm{~F}_{1}{ }^{2} \\ \Rightarrow \mathrm{~F}_{1}=\sqrt{\dfrac{\mathrm{F}^{2}}{3}}=\dfrac{\mathrm{F}}{\sqrt{3}}=\dfrac{19.6}{\sqrt{3}} \mathrm{~N}=11.32 \mathrm{~N} \end{array}[/math]
+
+[Image]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l} \quad \rm{q^{2}=\dfrac{F_{1} \times r^{2}}{\frac{1}{4 \pi \epsilon_{0}}}} \\ \Rightarrow \rm{q=\sqrt{\dfrac{11.32 \times 2^{2}}{9 \times 10^{9}}} \mathrm{C} }\\ \Rightarrow \rm{q=\sqrt{5.03 \times 10^{-9}} \mathrm{C}} \\ \Rightarrow \rm{q=7.09 \times 10^{-5} \mathrm{C}} \end{array}[/math]
+অতএব, [math]\rm{B ~ও~ C}[/math]
+ বিন্দুতে [math]7.09 \times 10^{-5} \mathrm{C}[/math]
+ মানের দুটি সমধর্মী চার্জ স্থাপন করে [math]2 \rm{~kg}[/math]
+ ভরের বস্তুটিকে [math]7.09 \times 10^{5} \mathrm{C}[/math]
+ মানের একইধর্মী চার্জে চার্জিত করে [math]\rm{A}[/math]
+ বিন্দুতে স্থাপন করলে তা ঝুলে থাকবে।
+
+Explanation:
+ঘ ব্যাখ্যা: দুটি সমমান ধনাত্মক চার্জের কারণে [math]B[/math] ও [math]C[/math] থেকে [math]A[/math] তে বিদ্যুৎক্ষেত্রের অনুভূমিক উপাদানগুলো পরস্পরকে বাতিল করে, উল্লম্ব উপাদানগুলো যোগ হয়ে উপরের দিকে কাজ করে; 따라서 ভরের ওজন [math]mg[/math] সাম্যের জন্য বস্তুটিকে ধনাত্মক চার্জ দিতে হবে যাতে ধনাত্মক বৈদ্যুতিক প্রতিসরণ উপরের দিকে তোলা শক্তি দেয়। প্রয়োজনীয় চার্জের মান হবে [math]E_{\rm net}=2\left(\dfrac{kq_1}{s^2}\right)\cos30^\circ=\dfrac{kq_1\sqrt{3}}{s^2} থেকে [math]q_A=\dfrac{mg}{E_{\rm net}}=\dfrac{mg\,s^2}{kq_1\sqrt{3}}[/math], যেখানে [math]s[/math] ত্রিভুজের পার্শ্বদৈর্ঘ্য এবং [math]k=1/(4\pi\varepsilon_0)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 421601)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে 100 g ভর এবং [math]1 \mu \mathrm{C}[/math] চার্জের একটি গোলক ভূমির উপর D বিন্দুতে অবস্থিত। এখানে AB = AD = BD এবং [math]\angle \mathrm{ACB}=90^{\circ}[/math] । সমগ্র ব্যবস্থাটি উলম্ব অবস্থায় রাখা আছে।
+
+Options:
+ঘ. D বিন্দুর গোলকটি উপরে উঠবে কিনা— গাণিতিকভাবে যাচাই করো৷
+
+
+Correct Answer: 
+
+Solution:
+ঘবস্তুটিকে সাম্যাবস্থায় রাখতে হলে D বিন্দুতে স্থাপিত গোলকটির ওপর ক্রিয়াশীল বলগুলোর লব্ধি শূন্য হতে হবে ।এখানে, [math]Q_{\mathrm{A}}=-2 \times 10^{-6} \mathrm{C}[/math]
+ বা, [math]Q_{\mathrm{B}}=-2 \times 10^{-6} \mathrm{C}[/math]
+ চার্জের জন্য D বিন্দুতে স্থাপিত [math]Q=1 \mu \mathrm{C}[/math]
+ যথাক্রমে [math]\mathrm{F}_{1}[/math]
+ ও [math]\mathrm{F}_{2}[/math]
+ হলে, C চার্জের ওপর ক্রিয়াশীল বলের মান,
+[Image]
+[math]\begin{aligned}F_{1}=F_{2} & =\frac{1}{4 \pi \in_{0}} \frac{Q_{A} Q}{r^{2}}\left[\because \mathrm{Q}_{\mathrm{A}}=\mathrm{Q}_{\mathrm{B}}\right] \\& =9 \times 10^{9} \times \frac{-2 \times 10^{-6} \times 1 \times 10^{-6}}{(0.1)^{2}} \\& =-1.8 \mathrm{~N}\end{aligned}[/math]
+এখানে,[math]\begin{array}{l}\mathrm{AB}=\mathrm{AD}=\mathrm{BD}=10 \mathrm{~cm} \\\therefore \angle \mathrm{ADC}=60^{\circ}\end{array}[/math]
+ [math]F_{1}[/math]
+ ও [math]F_{2}[/math]
+ বলের জন্য লব্ধি বল F হলে,[math]\begin{aligned}F & =\sqrt{F_{1}^{2}+F_{2}^{2}+2 F_{1} F_{2} \cos 60^{\circ}} \\& =\sqrt{F_{1}^{2}+F_{2}^{2}+F_{1} F_{2}}\end{aligned}[/math]
+ [math]\begin{array}{l}=\sqrt{3} F_{1} \\=\sqrt{3} \times 1,8=3.1177 \mathrm{~N}\end{array}[/math]
+ [math]\left[\because F_{1}=F_{2}\right][/math]
+এখানে,বস্তুটির ভর, m = 100 g= 0.1 kgঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\mathrm{F}_{1}[/math]
+ ও [math]\mathrm{F}_{2}[/math]
+ এর লব্ধি তড়িৎ বল F উল্লম্বভাবে উপরের দিকে ক্রিয়া করে।বস্তুটির ওজন Fw হলে,[math]\begin{aligned}F_{\mathrm{w} } & =m g \\& =0.1 \times 9.8 \\& =0.98 \mathrm{~N}\end{aligned}[/math]
+এখন, লব্ধি তড়িৎ বল (F) ও বস্তুর ওজন [math]\left(F_{\mathrm{w}}\right)[/math]
+ পরস্পর বিপরীতে ক্রিয়া করলেও [math]F>F_{\mathrm{w}}[/math]
+ হওয়ায় বস্তুটির ওপর নিট বল উপরের দিকে কাজ W করবে। সুতরাং D বিন্দুর গোলকটি উপরে উঠবে।
+
+Explanation:
+ব্যাখ্যা: A ও B থেকে D-এ আসা বৈদ্যুতিক বলগুলো সমান ও বিপরীত দিকে সমমিত হওয়ায় তাদের উর্ধ্বাধারী উপাদানগুলি পরস্পরকে শূন্য করে দেয়, তাই মোট বৈদ্যুতিক বল [math]F_{\text{net}}=0[/math]; আর দেহের ওজন [math]mg=[math]0.1\times 9.8=0.98\ \text{N}[/math] (অপেক্ষাকৃত) থাকে, অতএব বলের দিক থেকে তুলে নোয় কোনো কারণ নেই — গোলকটি উঠবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 421598)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে 1 m দৈর্ঘ্যের একটি বর্গাকার টেবিল । টেবিল এর চারটি কোণা A, B, C এবং D তে যথাক্রমে [math]4 \times 10^{-12} \mathrm{C}, 4 \times 10^{-12} \mathrm{C}, 2 \times 10^{-12} \mathrm{C}[/math] এবং [math]2 \times 10^{-12} \mathrm{C}[/math] চার্জ স্থাপন করা হলো এবং পরবর্তীতে 10 gm ভরের + 1 C মানের চার্জিত একটি শোলা বল বর্গাকার তলের কেন্দ্রে স্থাপন করা হলো।
+
+Options:
+ঘ. শোলা বলের উপর ক্রিয়াশীল তড়িৎ বল ও অভিকর্ষজ বলের মান ভিন্ন— গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+A বিন্দুর [math]\mathrm{q}_{1}[/math]
+ চার্জের জন্য O বিন্দুতে q চার্জের ওপর ক্রিয়াশীল বল,
+[Image]
+এখানে,প্রতি বাহুর দৈর্ঘ্য, a =1mবর্গের প্রতিটি কৌণিক বিন্দুথেকে O বিন্দুর দূরত্ব, [math]\mathrm{r}=\frac{\sqrt{2}}{2}=\frac{1}{\sqrt{2}} \mathrm{~m}=0.707 \mathrm{~m}[/math]
+A বিন্দুর চার্জ, [math]\mathrm{q}_{1}=4 \times 10^{-12} \mathrm{C}[/math]
+B বিন্দুর চার্জ, [math]\mathrm{q}_{2}=4 \times 10^{-12} \mathrm{C}[/math]
+C বিন্দুর চার্জ, [math]\mathrm{q}_{3} = 2 \times 10^{-12} \mathrm{C}[/math]
+D বিন্দুর চার্জ, [math]\mathrm{q}_{4}=2 \times 10^{-12} \mathrm{C}[/math]
+O বিন্দুর চার্জ, [math]q=1 C[/math]
+ [math]\frac{1}{4 \pi \epsilon_{0}}=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}[/math]
+শোলা বলের ভর, m = 10 gm= 0.01kgঅনুরূপভাবে, B বিন্দুর চার্জ [math]\mathrm{q}_{2}=\mathrm{q}_{1}[/math]
+হওয়ায় [math]\mathrm{q}_{2}[/math]
+ চার্জের জন্য O বিন্দুতে ক্রিয়াশীল বল, [math]\mathrm{F}_{2}=\mathrm{F}_{1}=0.072 \mathrm{~N}[/math]
+(OD বরাবর)C বিন্দুর [math]\mathrm{q}_{3}[/math]
+ চার্জের জন্য O বিন্দুতে 93 ক্রিয়াশীল বল,[math]\begin{array}{l}\mathrm{F}_{3}=\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{3} \mathrm{q}}{\mathrm{r}^{2}} \\=9 \times 10^{9} \times \frac{2 \times 10^{-12} \times 1}{(0.707)^{2}}\end{array}[/math]
+= 0.036N (OA বরাবর।)অনুরূপভাবে, D বিন্দুর চার্জ [math]\mathrm{q}_{4}=\mathrm{q}_{3}[/math]
+ হওয়ায় [math]\mathrm{q}_{4}[/math]
+ চার্জের জন্য O বিন্দুতে =ক্রিয়াশীল বল, [math]\mathrm{F}_{4}=\mathrm{F}_{3}=0.036 \mathrm{~N}[/math]
+ (OB বরাবর )এখন, [math]\mathrm{F}_{1}[/math]
+ ও [math]\mathrm{F}_{3}[/math]
+ এর দিক বিপরীত হওয়ায় এদের লব্ধি[math]\mathrm{F}_{13}=\mathrm{F}_{1}-\mathrm{F}_{3}=(0.072-0.036) \mathrm{N}=0.036 \mathrm{~N}, \mathrm{OC}[/math]
+ বরাবর,একইভাবে, [math]\mathrm{F}_{2}[/math]
+ ও [math]\mathrm{F}_{2}[/math]
+ এর লব্ধি [math]\mathrm{F}_{24}=\mathrm{F}_{2}-\mathrm{F}_{4}=(0.072-0.036) \mathrm{N}[/math]
+ [math]=0.036 \mathrm{~N}, \mathrm{OD}[/math]
+ বরাবর[math]\mathrm{F}_{13}[/math]
+ ও [math]\mathrm{F}_{24}[/math]
+ এর লব্ধি বল F হলে,[math]\mathrm{F}=\sqrt{\left(\mathrm{F}_{13}\right)^{2}+\left(\mathrm{F}_{24}\right)^{2}+2 \times \mathrm{F}_{13} \times \mathrm{F}_{24} \times \cos 90^{\circ}}[/math]
+ [ এদের মধ্যবর্তী কোণ 6 = 90° ][math]\begin{array}{l}=\sqrt{(0.036)^{2}+(0.036)^{2}} \\=0.0509 \mathrm{~N}\end{array}[/math]
+ [math]\therefore[/math]
+ শোলা বলের উপর ক্রিয়াশীল তড়িৎ বল F = 0.0509Nআবার, শোলা বলের ওজন, [math]\mathrm{W}=\mathrm{mg}=0.01 \times 9.8=0.098 \mathrm{~N}[/math]
+দেখা যাচ্ছে, [math]F 
+eq W[/math]
+সুতরাং বলা যায়, শোলা বলের উপর ক্রিয়াশীল তড়িৎ বল ও অভিকর্ষজ বলের মান ভিন্ন।
+
+Explanation:
+ব্যাখ্যা:
+ঘ টেবিলের কেন্দ্রে কোণগুলোর দূরত্ব [math]r=1/\sqrt{2}\,\text{m}[/math] তাই এক কোণীয় চার্জ থেকে ক্ষেত্রের পরিমাপ হলো [math]E_i=\dfrac{kq}{r^2}=\dfrac{9\times10^9\times4\times10^{-12}}{1/2}=0.072\ \text{N/C}[/math] এবং এর উর্ধ্বাংশীয় घटক [math]0.072\times\cos45^\circ=0.051\ \text{N/C}[/math]। দুইটি [math]4\times10^{-12}\,\text{C}[/math] চার্জ মিলিয়ে উপরের দিকে মোট ক্ষেত্র [math]0.102\ \text{N/C}[/math] দেয় এবং দুইটি [math]2\times10^{-12}\,\text{C}[/math] নিচের দিকে মিলিয়ে [math]0.051\ \text{N/C}[/math] দেয়, সুতরাং নিট তড়িৎ ক্ষেত্র [math]E=0.051\ \text{N/C}[/math] এবং তড়িৎ বল [math]F_e=q_0E=1\times0.051=0.051\ \text{N}[/math]। তুলনায় অভিকর্ষজ বল [math]F_g=mg=0.01\times9.8=0.098\ \text{N}[/math] — ফলে মানগতভাবে [math]F_e=0.051\ \text{N}[/math] ও [math]F_g=0.098\ \text{N}[/math] ভিন্ন।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 421599)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+দুটি একই রকমের ক্ষুদ্র বলে যথাক্রমে + 3nC এবং -12 nC আধান আছে। এরা বায়ুতে 3 cm ব্যবধানে থাকলে এদের মধ্যে -তড়িৎ আকর্ষণ বল ক্রিয়া করে। পরবর্তীতে বল দুটি পরস্পরের সাথে স্পর্শ করে পুনরায় 3 cm ব্যবধানে রাখা হলো।
+
+Options:
+গ. প্রথম ক্ষেত্রে তড়িৎ আকর্ষণ বলের মান নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,১ম বলের চার্জ, [math]q_{1}=+3 \mathrm{nC}=+3 \times 10^{-9} \mathrm{C}[/math]
+২য় বলের চার্জ, [math]q_{2}=-12 \mathrm{nC}=-12 \times 10^{-9}[/math]
+মধ্যবর্তী দূরত্ব, [math]r=3 \mathrm{~cm}=0.03 \mathrm{~m}[/math]
+বল দুটির মধ্যে ক্রিয়াশীল কুলম্ব বল, F = ?আমরা জানি,[math]\begin{aligned}F & =\frac{1}{4 \pi \epsilon_{0}} \times \frac{q_{1} q_{2}}{r^{2}} \\& =9 \times 10^{9} \times \frac{3 \times 10^{-9} \times\left(-12 \times 10^{-9}\right)}{(0.03)^{2}} \\& =-3.6 \times 10^{-4} \mathrm{~N}\end{aligned}[/math]
+( [math]-[/math]
+) চিহ্ন দ্বারা আকর্ষণ বল বুঝায়। সুতরাং, নির্ণেয় কুলম্বীয় বলের মান [math]3.6 \times 10^{-4} \mathrm{~N} \text { (Ans.) }[/math]
+
+
+Explanation:
+গ তড়িৎ বল কুলম্বের সূত্রে নির্ণয় করা হয়: [math]F=k\frac{|q_1q_2|}{r^2}[/math]; এখানে [math]q_1=3\times10^{-9}\,C,\;q_2=-12\times10^{-9}\,C,\;r=0.03\,m,\;k=8.99\times10^9\,N·m^2/C^2[/math], ফলে [math]F\approx3.6\times10^{-4}\,N[/math] এবং চিহ্ন অনুযায়ী এটি আকর্ষণীয়।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 421600)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+দুটি একই রকমের ক্ষুদ্র বলে যথাক্রমে + 3nC এবং -12 nC আধান আছে। এরা বায়ুতে 3 cm ব্যবধানে থাকলে এদের মধ্যে -তড়িৎ আকর্ষণ বল ক্রিয়া করে। পরবর্তীতে বল দুটি পরস্পরের সাথে স্পর্শ করে পুনরায় 3 cm ব্যবধানে রাখা হলো।
+
+Options:
+ঘ. উদ্দীপকের দ্বিতীয় ক্ষেত্রে তড়িৎ বলের প্রকৃতি পূর্বের সমান না ভিন্ন— গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও৷
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\mathrm{q}_{1}=+3 \mathrm{nC}[/math]
+ [math]\mathrm{q}_{2}=-12 \mathrm{nC}[/math]
+দূরত্ব, r = 3 cm,[math]\begin{array}{l}=0.03 \mathrm{~m} \frac{1}{4 \pi \in_{0}} \\=9 \times 10^{9} \mathrm{Nm}^{2} \mathrm{C}^{-2}\end{array}[/math]
+দ্বিতীয় ক্ষেত্রে বল দুটি পরস্পরের সাথে স্পর্শ করায় এবং বল দুটি একই রকমের হওয়ায় প্রতিটি বলে চার্জের পরিমান , [math]\mathrm{q}=\frac{\mathrm{q}_{1}+\mathrm{q}_{2}}{2}=\frac{3-12}{2}[/math]
+ [math]=-4.5 \mathrm{nC}=-4.5 \times 10^{-9} \mathrm{C}[/math]
+দ্বিতীয় ক্ষেত্রে, তড়িৎ বলের মান,[math]\begin{aligned}\mathrm{F} & =\frac{1}{4 \pi \in_{0}} \frac{\mathrm{q} \times \mathrm{q}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{\left(-4.5 \times 10^{-9}\right)^{2}}{(0.03)^{2}} \\& =2.025 \times 10^{-4} \mathrm{~N}\end{aligned}[/math]
+এখানে, F এর মান ধনাত্মক, তাই তড়িৎ বলের প্রকৃতি বিকর্ষণধর্মী। ‘গ’ থেকে পাই, স্পর্শ করার পূর্বে তড়িৎ বলের প্রকৃতি আকর্ষণধর্মী। সুতরাং বলা যায়, উদ্দীপকের দ্বিতীয় ক্ষেত্রে তড়িৎ বলের প্রকৃতি পূর্বের চেয়ে ভিন্ন।
+
+Explanation:
+ব্যাখ্যা: মোট আধান সংরক্ষিত থাকে, তাই [math]+3+(-12)=-9\ \text{nC}[/math] এবং প্রতিটি বলে পড়ে [math]-4.5\ \text{nC}[/math]. কুলম্বের সূত্র [math]F=k\frac{|q_1q_2|}{r^2}[/math] অনুযায়ী প্রথম কেসে গুণফল proportional to [math]|3×(-12)|=36[/math] (একক = [math]10^{-18}\ \text{C}^2[/math]) কিন্তু স্পর্শের পরে proportional to [math](4.5)^2=20.25[/math], ফলে দিক পরিবর্তিত হয়ে আকর্ষণ থেকে প্রতিকর্ষণ হয়েছে এবং বলের পরিমাণও কমে গেছে।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 421597)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে 100 g ভর এবং [math]1 \mu \mathrm{C}[/math] চার্জের একটি গোলক ভূমির উপর D বিন্দুতে অবস্থিত। এখানে AB = AD = BD এবং [math]\angle \mathrm{ACB}=90^{\circ}[/math] । সমগ্র ব্যবস্থাটি উলম্ব অবস্থায় রাখা আছে।
+
+Options:
+ঘ. D বিন্দুর গোলকটি উপরে উঠবে কিনা— গাণিতিকভাবে যাচাই করো৷
+
+
+Correct Answer: 
+
+Solution:
+ঘবস্তুটিকে সাম্যাবস্থায় রাখতে হলে D বিন্দুতে স্থাপিত গোলকটির ওপর ক্রিয়াশীল বলগুলোর লব্ধি শূন্য হতে হবে ।এখানে, [math]Q_{\mathrm{A}}=-2 \times 10^{-6} \mathrm{C}[/math]
+ বা, [math]Q_{\mathrm{B}}=-2 \times 10^{-6} \mathrm{C}[/math]
+ চার্জের জন্য D বিন্দুতে স্থাপিত [math]Q=1 \mu \mathrm{C}[/math]
+ যথাক্রমে [math]\mathrm{F}_{1}[/math]
+ ও [math]\mathrm{F}_{2}[/math]
+ হলে, C চার্জের ওপর ক্রিয়াশীল বলের মান,
+[Image]
+[math]\begin{aligned}F_{1}=F_{2} & =\frac{1}{4 \pi \in_{0}} \frac{Q_{A} Q}{r^{2}}\left[\because \mathrm{Q}_{\mathrm{A}}=\mathrm{Q}_{\mathrm{B}}\right] \\& =9 \times 10^{9} \times \frac{-2 \times 10^{-6} \times 1 \times 10^{-6}}{(0.1)^{2}} \\& =-1.8 \mathrm{~N}\end{aligned}[/math]
+এখানে,[math]\begin{array}{l}\mathrm{AB}=\mathrm{AD}=\mathrm{BD}=10 \mathrm{~cm} \\\therefore \angle \mathrm{ADC}=60^{\circ}\end{array}[/math]
+ [math]F_{1}[/math]
+ ও [math]F_{2}[/math]
+ বলের জন্য লব্ধি বল F হলে,[math]\begin{aligned}F & =\sqrt{F_{1}^{2}+F_{2}^{2}+2 F_{1} F_{2} \cos 60^{\circ}} \\& =\sqrt{F_{1}^{2}+F_{2}^{2}+F_{1} F_{2}}\end{aligned}[/math]
+ [math]\begin{array}{l}=\sqrt{3} F_{1} \\=\sqrt{3} \times 1,8=3.1177 \mathrm{~N}\end{array}[/math]
+ [math]\left[\because F_{1}=F_{2}\right][/math]
+এখানে,বস্তুটির ভর, m = 100 g= 0.1 kgঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\mathrm{F}_{1}[/math]
+ ও [math]\mathrm{F}_{2}[/math]
+ এর লব্ধি তড়িৎ বল F উল্লম্বভাবে উপরের দিকে ক্রিয়া করে।বস্তুটির ওজন Fw হলে,[math]\begin{aligned}F_{\mathrm{w} } & =m g \\& =0.1 \times 9.8 \\& =0.98 \mathrm{~N}\end{aligned}[/math]
+এখন, লব্ধি তড়িৎ বল (F) ও বস্তুর ওজন [math]\left(F_{\mathrm{w}}\right)[/math]
+ পরস্পর বিপরীতে ক্রিয়া করলেও [math]F>F_{\mathrm{w}}[/math]
+ হওয়ায় বস্তুটির ওপর নিট বল উপরের দিকে কাজ W করবে। সুতরাং D বিন্দুর গোলকটি উপরে উঠবে।
+
+Explanation:
+ব্যাখ্যা: ঘ সমমিতির কারণে A ও B থেকে অনুভূত অনুভূমিক উপাদানগুলো একে অপরকে বাতিল করে এবং তাদের উল্লম্ব উপাদানগুলো যোগ হবে; উঠার শর্ত হল [math]qE_z>mg[/math]. তাই প্রয়োজনীয় ক্ষেত্রের মান [math]E_z>\dfrac{mg}{q}=\dfrac{0.1\times9.8}{1\times10^{-6}}=9.8\times10^{5}\ \mathrm{N/C}[/math]. চিত্রে দেওয়া স্থির চার্জগুলো থেকে গণনা করলে উলম্ব ক্ষেত্র এই মানের তুলনায় ছোট হওয়ায় গোলকটি উঠবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 421596)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রানুযায়ি বর্গক্ষেত্রের কেন্দ্র -তে চার্জে ভরের একটি ধাতব গোলক রাখা হল
+
+ঘ ধাতব গোলকটিকে সাম্যাবস্থায় রাখতে কী পরিমাণ বল কোনদিকে প্রয়োগ করতে হবে? গাণিতিকভাবে যাচাই কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে, C বিন্দুর চার্জ, D বিন্দুর চার্জ, 'গ' থেকে পাই,[math]q_1[/math]
+ = 4 C[math]q_2[/math]
+ = 4 Cদূরত্ব, OC = OD = r = √2mO বিন্দুর ধাতব গোলকের, ভর;, m = 12 kgচার্জ, [math]q = 1 \mu c = 10^{-6} C[/math]
+C বিন্দুর + 4 C চার্জের জন্য o বিন্দুর প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{q}_{4}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{4}{(\sqrt{2})^{2}} \\& =7.8 \times 10^{10} \mathrm{NC}^{-1}\end{aligned}[/math]
+[OA বরাবর] D বিন্দুর + 4C চার্জের জন্য o বিন্দুর প্রাবল্য,[math]\begin{aligned}\mathrm{E}_{2} & =\frac{1}{4 \pi \in_{0}} \frac{\mathrm{q}_{2}}{\mathrm{r}^{2}} \\& =9 \times 10^{9} \times \frac{4}{(\sqrt{2})^{2}} \\& =1.8 \times 10^{10} \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]E_1[/math]
+ ও [math]E_2[/math]
+ এর মধ্যবর্তী কোণ[math]\angle AOB = \theta = 90°[/math]
+.O বিন্দুতে [math]E_1[/math]
+ ও [math]E_2[/math]
+ এর লব্ধি প্রাবল্য[math]\begin{aligned}\mathrm{E} & =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{2}^{2}+2 \mathrm{E}_{1} \mathrm{E}_{2} \cos 90^{\circ}} \\& =\sqrt{\mathrm{E}_{1}^{2}+\mathrm{E}_{1}^{2}} \quad \quad\left[\mathrm{E}_{1}=\mathrm{E}_{2}\right] \\& =\mathrm{E}_{1} \sqrt{2}=1.8 \times 10^{10} \times \sqrt{2}=2.55 \times 10^{10} \mathrm{NC}^{-1}\end{aligned}[/math]
+ [math]E_1 = E_2[/math]
+ হওয়ায় এদের লব্ধি E, [math]\angle AOB[/math]
+ কে সমদ্বিখণ্ডিত করে, তাই, E এর দিক OP বরাবর খাড়া উপরের দিকে o বিন্দুর গোলকের উপর ক্রিয়াশীল তড়িৎ বল,[math]\mathrm{F}=\mathrm{qE}=10^{-6} \times 2.55 \times 10^{10}=2.55 \times 10^{4} \mathrm{~N}[/math]
+ [উপরের দিকে)ধাতব গোলকের ওজন, W = mg = 12 ×9.8 = 117.6 N [নিচের দিকে]দেখা যাচ্ছে, [math]F > W[/math]
+ ধাতব গোলকের উপর ক্রিয়াশীল লব্ধি বল, [math]F_1 = F-W = (2.55 × 10^4 - 117.6 ) N = 2.538 \times 10^4 N[/math]
+ [উপরের দিকে সুতরাং, O বিন্দুর ধাতব গোলকটি ওপরের দিকে [math]F_1[/math]
+, এর সমান লব্ধি বল অনুভব করবে। তাই বলা যায়, ধাতব গোলকটিকে সাম্যাবস্থায় রাখতে [math]_1[/math]
+ F এর সমান মানের [math]2.538 \times 10^4 N[/math]
+ বল নিচের দিকে প্ৰয়োগ করতে হবে।
+
+Explanation:
+ঘ কোনো বাহ্যিক বল লাগবে না — নেট বল শূন্য। প্রতিটি কর্ণের চার্জ থেকে কেন্দ্রের গোলকে আধারিত কুলম্ব বলের পরিমাণ [math]F=k\frac{Qq}{r^2}[/math] যেখানে কর্ণ পর্যন্ত দুরত্ব [math]r=\frac{a}{\sqrt2}[/math] (a = বর্গক্ষেত্রের বাহু)। চারটি সমসমমিত বলের উপরোক্ত x ও y উপাদান জোড়াগুলোতে পরস্পরবিরোধী হলে বন্ধ হয়ে যায়, ফলে সকল উপাদানের ভেক্টর যোগফল শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 421595)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রের B ও C বিন্দুতে যথাক্রমে +9 nC ও −16 nC আধানযুক্ত দুটি বিন্দু বস্তু দৃঢ়ভাবে রাখা আছে। AD 12 cm; B, AD এর মধ্যবিন্দু এবং C = বিন্দু AD কে 2 : 1 অনুপাতে অন্তর্বিভক্ত করে ।
+
+Options:
+ঘ. তৃতীয় একটি একক ধনাত্মক আধানযুক্ত বিন্দু বস্তুকে A বিন্দুতে স্থাপন করলে বস্তুটি কোন দিকে গতিশীল হবে? গাণিতিক বিশ্লেষণসহ নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানেB বিন্দুর চার্জ, [math]q_1[/math]
+ = 9 nCC বিন্দুর চার্জ, [math]q_2[/math]
+ = 16 nC‘গ' থেকে পাই,দূরত্ব, AB = [math]r_1[/math]
+ = 6 cm = 0.6mদূরত্ব, AC = [math]r_2[/math]
+ = 8 cm = 0.08mA বিন্দুর চার্জ, q + 1 CB বিন্দুর চার্জের জন্য A বিন্দুর চার্জের উপর তড়িৎ বল,[math]\begin{aligned}\mathrm{F}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{qq}_{1}}{\mathrm{r}_{1}{ }^{2}} \\& =9 \times 10^{9} \times \frac{1 \times 9 \times 10^{-9}}{(0.06)^{2}} \\& =22500 \mathrm{~N} \text { [AE বরাবর]}\end{aligned}[/math]
+C বিন্দুর চার্জের জন্য A বিন্দুর চার্জের উপর তড়িৎ বল,[math]\begin{aligned}\mathrm{F}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \frac{q q_{1}}{r_{2}^{2}} \\& =9 \times 10^{9} \times \frac{1 \times 16 \times 10^{-9}}{(0.08)^{2}} \\& =22500 \mathrm{~N}[\mathrm{AB বরাবর} \text { }]\end{aligned}[/math]
+দেখা যাচ্ছে, [math]F_1 = F_2[/math]
+ এবং এদের দিক পরস্পর বিপরীত,তাই A বিন্দুর চার্জের উপর লব্ধি তড়িৎ বল,F = [math]F_1 - F_2[/math]
+ = 22500 - 22500 = 0 Nসুতরাং বলা যায়, A বিন্দুতে স্থাপিত আধানটি সাম্যাবস্থায় থাকবে এবং কোনো দিকে গতিশীল হবে না ।
+
+Explanation:
+ব্যাখ্যা:
+ঘ B থেকে A দূরত্ব [math]=0.06\ \text{m}[/math], C থেকে A দূরত্ব [math]=0.08\ \text{m}[/math]. B থেকে প্রতিকর্ষণ এবং C থেকে আকর্ষণের মাত্রা তুলনায়: [math]F_B\propto\frac{9}{(0.06)^2}=2500[/math] এবং [math]F_C\propto\frac{16}{(0.08)^2}=2500[/math], তাই দুইটি বিপরীত দিকের বল সমান ও বিপরীত হওয়ায় মোট বল শূন্য এবং একক ধনাত্মক কণাটি কোন দিকে গতি করবে না।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 421594)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রের B ও C বিন্দুতে যথাক্রমে +9 nC ও −16 nC আধানযুক্ত দুটি বিন্দু বস্তু দৃঢ়ভাবে রাখা আছে। AD 12 cm; B, AD এর মধ্যবিন্দু এবং C = বিন্দু AD কে 2 : 1 অনুপাতে অন্তর্বিভক্ত করে ।
+
+Options:
+ঘ. তৃতীয় একটি একক ধনাত্মক আধানযুক্ত বিন্দু বস্তুকে A বিন্দুতে স্থাপন করলে বস্তুটি কোন দিকে গতিশীল হবে? গাণিতিক বিশ্লেষণসহ নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানেB বিন্দুর চার্জ, [math]q_1[/math]
+ = 9 nCC বিন্দুর চার্জ, [math]q_2[/math]
+ = 16 nC‘গ' থেকে পাই,দূরত্ব, AB = [math]r_1[/math]
+ = 6 cm = 0.6mদূরত্ব, AC = [math]r_2[/math]
+ = 8 cm = 0.08mA বিন্দুর চার্জ, q + 1 CB বিন্দুর চার্জের জন্য A বিন্দুর চার্জের উপর তড়িৎ বল,[math]\begin{aligned}\mathrm{F}_{1} & =\frac{1}{4 \pi \epsilon_{0}} \frac{\mathrm{qq}_{1}}{\mathrm{r}_{1}{ }^{2}} \\& =9 \times 10^{9} \times \frac{1 \times 9 \times 10^{-9}}{(0.06)^{2}} \\& =22500 \mathrm{~N} \text { [AE বরাবর]}\end{aligned}[/math]
+C বিন্দুর চার্জের জন্য A বিন্দুর চার্জের উপর তড়িৎ বল,[math]\begin{aligned}\mathrm{F}_{2} & =\frac{1}{4 \pi \epsilon_{0}} \frac{q q_{1}}{r_{2}^{2}} \\& =9 \times 10^{9} \times \frac{1 \times 16 \times 10^{-9}}{(0.08)^{2}} \\& =22500 \mathrm{~N}[\mathrm{AB বরাবর} \text { }]\end{aligned}[/math]
+দেখা যাচ্ছে, [math]F_1 = F_2[/math]
+ এবং এদের দিক পরস্পর বিপরীত,তাই A বিন্দুর চার্জের উপর লব্ধি তড়িৎ বল,F = [math]F_1 - F_2[/math]
+ = 22500 - 22500 = 0 Nসুতরাং বলা যায়, A বিন্দুতে স্থাপিত আধানটি সাম্যাবস্থায় থাকবে এবং কোনো দিকে গতিশীল হবে না ।
+
+Explanation:
+ঘ ব্যাখ্যা: AD = 12 cm হলে AB=6\ \text{cm} এবং C AD-কে 2:1 অনুপাতে বিভক্ত করলে AC=(2/3)AD=8\ \text{cm}. B থেকে ধনাত্মকটি A-কে ধাক্কা দেবে এবং C (ঋণাত্মক) থেকে A-কে টানবে; তাদের বলের পরিমাপ অনুপাত দেখলেই পাওয়া যায় F_B\propto\dfrac{9}{6^2}=\dfrac{1}{4} ও F_C\propto\dfrac{16}{8^2}=\dfrac{1}{4}, অর্থাৎ মান সমান কিন্তু বিপরীত দিকে, সুতরাং মোট বল শূন্য এবং চার্জটি অচল থাকবে (কোনো দিকে গতি করবে না)।
+
+Sub-Questions:
+

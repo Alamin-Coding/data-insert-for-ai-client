@@ -1,0 +1,923 @@
+================================================================================
+Question #1 (ID: 406856)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+50 g ভরের একটি বুলেট [math]400 \mathrm{~ms}^{-1}[/math] প্রাথমিক বেগে একটি দেয়ালকে [math]4 \times 10^{4} \mathrm{~N}[/math] গড় বলের সাহায্যে ভেদ করে [math]50 \mathrm{~ms}^{-1}[/math] বেগে তা দেয়াল থেকে বের হয়ে যায়। দেওয়ালটির বেধ কত? অপেক্ষাকৃত কম ভরের অন্য একটি বুলেট একই প্রাথমিক বেগ ও একই বল নিয়ে দেয়ালটিকে ভেদ করতে পারে না। দ্বিতীয় বুলেটটির ভর কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 9.84 cm , 49.2 g )[math]\\[/math]
+Solution :১ম অংশ :দেওয়া আছে,প্রাথমিক বেগ, [math]\mathrm{u}=400 \mathrm{~ms}^{-1}[/math]
+বুলেটের ভর,[math]\begin{array}{l}\mathrm{m}=50 \mathrm{~g} \\=0.05 \mathrm{~kg}\end{array}[/math]
+গড় বল, [math]\mathrm{F}=4 \times 10^{4} \mathrm{~N}[/math]
+চূড়ান্ত বেগ, [math]\mathrm{v}=50 \mathrm{~ms}^{-1}[/math]
+দেয়ালের বেধ x = ?দেয়ালের মধ্যে বুলেটটির মন্দন,[math]\begin{aligned}a & =\frac{F}{\mathrm{~m}} \\& =\frac{4 \times 10^{4}}{0.05} \\& =8 \times 10^{5} \mathrm{~ms}^{-2}\end{aligned}[/math]
+আবার, [math]{\mathrm{v}}^{2}=\mathrm{u}^{2}-2 \mathrm{ax}[/math]
+ [math]\Rightarrow[/math]
+ [math]x=\frac{u^{2}-v^{2}}{2 a}[/math]
+ [math]\begin{array}{l}=\frac{(400)^{2}-(50)^{2}}{2 \times 8 \times 10^{5}} \\=0.0984 \mathrm{~m} \\=9.84 \mathrm{~cm} \text { (Ans.) }\end{array}[/math]
+দ্বিতীয় অংশ:ধরা যাক, দ্বিতীয় বুলেটটির ভর [math]=\mathrm{m}_{1}[/math]
+এবং চূড়ান্ত বেগ, [math]\mathrm{v}_{1}=0[/math]
+ [math]\therefore[/math]
+ দ্বিতীয় ক্ষেত্রে মন্দন, [math]\mathrm{a}_{1}=\frac{\mathrm{u}^{2}}{2 \mathrm{x}}[/math]
+এবং বুলেটটির ভর, [math]\mathrm{m}_{1}=\frac{\mathrm{F}}{\mathrm{a}_{1}}=\frac{\mathrm{F}}{\frac{\mathrm{u}^{2}}{2 \mathrm{x}}}=\frac{\mathrm{F} \times 2 \mathrm{x}}{\mathrm{u}^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{m}_{1}=\frac{4 \times 10^{4} \times 2 \times 0.0984}{(400)^{2}}[/math]
+ [math]\begin{array}{l}=0.0492 \mathrm{~kg} \\=49.2 \mathrm{~g}(\mathrm{Ans} .)\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ক দেয়ালে কাজ = বল × বেধ এবং এটি গতিশক্তির হ্রাস, তাই [math]F d=\tfrac{1}{2}m(v_i^2-v_f^2)[/math]; এখানে [math]m=0.05\ \mathrm{kg},\ v_i=400\ \mathrm{m/s},\ v_f=50\ \mathrm{m/s},\ F=4\times10^4\ \mathrm{N}[/math], ফলে [math]d=\dfrac{0.5\times0.05(400^2-50^2)}{4\times10^4}=0.09844\ \mathrm{m}\approx9.84\ \mathrm{cm}[/math]. খ যদি পরের বুলেটটি ভেদ করতে না পারে তবে তার সমস্ত গতিশক্তি দেয়ালে কাজ করে খরচ হবে, তাই [math]\tfrac{1}{2}m v^2=F d[/math] দিয়ে [math]m=\dfrac{2Fd}{v^2}=\dfrac{2\times4\times10^4\times0.0984375}{400^2}=0.04922\ \mathrm{kg}\approx49.2\ \mathrm{g}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 406866)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+50g ভরের একটি মার্বেল 5 m উচ্চতা থেকে একটি অনুভূমিক তলে পড়ল এবং প্রতিক্ষিপ্ত হয়ে 32 m উচুতে উঠল। সংঘর্ষটি [math]\frac{1}{10} s[/math] স্থায়ী হলে তল দ্বারা প্রযুক্ত বল ও ওই বলের ঘাত কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 0.9 Ns)
+
+Explanation:
+ব্যাখ্যা: অপর্যাপ্ত উচ্চতা থেকে পড়ার গতি [math]v_1=\sqrt{2gh}=\sqrt{2\times9.8\times5}=9.90\ \text{m/s (নীচে)}[/math] এবং প্রতিক্ষিপ্ত হওয়ার প্রারম্ভিক গতি [math]v_2=\sqrt{2gh'}=\sqrt{2\times9.8\times32}=25.04\ \text{m/s (উপরে)}[/math]. ফলে ইমপাল্স বা বলের ঘাত [math]J=m(v_2-(-v_1))=0.05\times34.943=1.747\ \text{N·s}[/math], এবং তলে থেকে গড় প্রতিক্রিয়া বল (কলিজিওন চলাকালীন) [math]F=\frac{J}{\Delta t}+mg=\frac{1.747}{0.1}+0.05\times9.8=17.96\ \text{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 406865)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন ব্যাটসম্যান একটি ক্রিকেট বলকে এর প্রাথমিক বেগের মান অপরিবর্তিত রেখে 45° কোণে বি ক্ষেপিত করল। যদি বলের প্রাথমিক বেগ [math]54 \mathrm{\ kmhr}^{-1}[/math] হয়, তবে ওই বলের ওপর প্রযুক্ত ঘাত নির্ণয় করো। (বলের ভর 0.15 kg)
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]4.156 \mathrm{~kg} \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,প্রাথমিক বেগ,[math]\begin{aligned}\mathrm{u} & =54 \mathrm{kmh}^{-1} \\& =15 \mathrm{~ms}^{-1}\end{aligned}[/math]
+বলের ভর, m= 0.15 kg45° কোণে বিক্ষিপ্ত হলেঅনুভূমিক উপাংশ, [math]v_{x}=-15 \cos 45^{\circ}[/math]
+ [ প্রাথমিক বেগের সাপেক্ষে ][math]=-10.6 \mathrm{~ms}^{-1}[/math]
+উলম্ব উপাংশ,[math]\begin{aligned}v_{y} & =15 \sin 45^{\circ} \\& =10.6 \mathrm{~ms}^{-1}\end{aligned}[/math]
+অনুভূমিক দিক বরাবর ভরবেগের পরিবর্তন,[math]\begin{aligned}p_{\mathrm{x}} & =\mathrm{m}\left(\mathrm{u}+\mathrm{v}_{\mathrm{x}}\right) \\& =0.15(15+10.6) \mathrm{kg} \mathrm{ms}^{-1} \\& =3.84 \mathrm{~kg} \mathrm{~ms}^{-1}\end{aligned}[/math]
+উলম্ব দিক বরাবর ভরবেগের পরিবর্তন,[math]\begin{aligned}\mathrm{p}_{y} & =\mathrm{m}\left(0+\mathrm{v}_{\mathrm{x}}\right) \\& =0.15 \times 10.6 \\& =1.59 \mathrm{~kg} \mathrm{~ms}^{-1}\end{aligned}[/math]
+ [math]\therefore p=\sqrt{p_{x}{ }^{2}+p_{y}{ }^{2}}=\sqrt{(3.84)^{2}+(1.59)^{2}}[/math]
+ [math]=4.156 \mathrm{~kg} \mathrm{~ms}^{-1}[/math]
+ [বলের ঘাত = ভরবেগের পরিবর্তন ] (Ans.)
+
+Explanation:
+ব্যাখ্যা: বলের গতি মাত্রা অপরিবর্তিত রেখে দিক পরিবর্তন হলে প্রযুক্ত ঘাত হলো ভর গুণ পরিবর্তিত ভ্রমণরাশি, অর্থাৎ [math]\vec J=m(\vec v_f-\vec v_i)[/math]; যদি প্রাথমিক গতি অনুভূমিক ধরে নেওয়া হয় তখন [math]\vec v_i=v\hat i,\ \vec v_f=v(\cos45^\circ\hat i+\sin45^\circ\hat j)[/math] এবং ঘাতের পরিমাণ হচ্ছে [math]J=mv\sqrt{2-\sqrt2}[/math]. এখানে [math]v=54\ \mathrm{km/h}=15\ \mathrm{m/s}[/math] ও [math]m=0.15\ \mathrm{kg}[/math], ফলে [math]J=0.15\times15\times\sqrt{2-\sqrt2}\approx1.72\ \mathrm{N\cdot s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 406864)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.15 g ভরের আগত একটি বলের প্রাথমিক দ্রুতি [math]12 \mathrm{~ms}^{-1}[/math]। একজন ব্যাটসম্যান আগত বলের দ্রুতি পরিবর্তন না ঘটিয়ে বলের গতি ব্যাটের সাহায্যে বিপরীত দিকে চালিত করলে ওই বলের ওপর প্রযুক্ত ঘাত নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.6 \mathrm{~kg} \mathrm{~ms}^{-1}[/math] )
+
+Explanation:
+ব্যাখ্যা: ঘাত (impulse) হলো ভরের সঙ্গে দ্রুতি পরিবর্তন, তাই [math]\Delta p=m(v_f-v_i)[/math]। এখানে [math]m=0.15\ \text{g}=0.00015\ \text{kg},\ v_i=12\ \text{m/s},\ v_f=-12\ \text{m/s}[/math], ফলে [math]\Delta p=0.00015(-12-12)=0.00015(-24)=-0.0036\ \text{N·s}[/math]; শূন্যচিহ্নটি দেখায় ঘাতটি বলের প্রাথমিক দিকে বিপরীতে প্রয়োগ হয়েছে এবং এর পরিমাপ [math]0.0036\ \text{N·s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 406863)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ক্রিকেট বলের ভর 30g । [math]60 \mathrm{~ms}^{-1}[/math] বেগে গতিশীল বলটি একটি ক্রিকেট ব্যাট দ্বারা আঘাত পেয়ে [math]30 \mathrm{~ms}^{-1}[/math] বেগে ফিরে এল। ব্যাট দ্বারা ক্রিকেট বলের ওপর প্রযুক্ত বলের ঘাত নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 2.7 Ns )
+
+Explanation:
+ব্যাখ্যা: ঘাত (ইম্পাল্স) হল ভর × গতিবেগের পরিবর্তন, তাই [math]\Delta p = m(v_f - v_i)[/math]. এখানে [math]m=0.03\ \mathrm{kg},\ v_i=+60\ \mathrm{m/s},\ v_f=-30\ \mathrm{m/s}[/math], ফলে [math]\Delta p=0.03(-30-60)=0.03(-90)=-2.7\ \mathrm{kg\,m/s}[/math]. সুতরাং ব্যাট দ্বারা বলের ওপর প্রযুক্ত ঘাতের পরিমাণ [math]2.7\ \mathrm{N\!s}[/math] (চিহ্ন সহ [math]-2.7\ \mathrm{kg\,m/s}[/math]), যা প্রাথমিক গতির বিপরীতে।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 406862)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.6 kg ভরের একটি ফুটবলকে [math]25 \mathrm{~ms}^{-1}[/math] বেগে গতিশীল থাকা অবস্থায় একজন খেলোয়াড় সজোরে লাথি মারল, ফলে বলটি একই দিকে [math]40 \mathrm{~ms}^{-1}[/math] বেগ প্রাপ্ত হলো। খেলোয়াড়ের পা কর্তৃক প্রযুক্ত বলের ঘাত কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]9 \mathrm{~kg} \mathrm{~ms}^{-1}[/math])
+
+Explanation:
+ব্যাখ্যা: ঘাত (impulse) হলো ভরগতীয় প্রবণতার পরিবর্তন [math]\Delta p[/math], তাই [math]I=\Delta p=m(v_f-v_i)=0.6(40-25)=9\ \text{kg·m/s}[/math] (বা [math]9\ \text{N·s}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 406861)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \mathrm{~ms}^{-1}[/math] বেগে আগত 0.2 kg ভরের একটি ক্রিকেট বলকে একজন খেলোয়াড় ক্যাচ (catch) ধরে 0.1 s সময়ের মধ্যে থামিয়ে দিল। খেলোয়াড় কর্তৃক প্রযুক্ত গড় বল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-40[/math]
+ N)[math]\\[/math]
+Solution :এখানে,বলের আদি বেগ, [math]\mathrm{v}_{0}=20 \mathrm{~ms}^{-1}[/math]
+শেষ বেগ, v = 0সময়, t = 0.1sভর, m = 0.2 kgপ্রযুক্ত গড় বল, F = ?আমরা জানি,[math]\begin{aligned}v & =v_{0}+\text { at } \\a & =\frac{v-v_{0}}{t^{}} \\& =\frac{0-20}{0.1} \mathrm{~ms}^{-2} \\& =-200 \mathrm{~ms}^{-2}\end{aligned}[/math]
+আবার, F = ma[math]=(.2) \times(-200) \mathrm{N}=-40 \mathrm{~N} \text { (Ans.) }[/math]
+সুতরাং, খেলোয়াড় কর্তৃক প্রযুক্ত বল 40 N ।
+
+Explanation:
+ব্যাখ্যা: গড় বল পেয়েছেন ইমপালস-মোমেন্টাম সূত্র থেকে, গড় বল = ভর পরিবর্তনকৃত ভরবেগ / সময়। এখানে [math]p_i = m v = 0.2\times 20 = 4\ \text{kg·m/s}[/math], শেষ ভেগ শূন্য হলে পরিবর্তন [math]\Delta p=4\ \text{kg·m/s}[/math], সুতরাং গড় বল [math]\bar{F}=\Delta p/\Delta t=4/0.1=40\ \text{N}[/math] (গতি বিরোধী দিক).
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 406860)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিক দিকে গতিশীল 2 kg ভরের একটি লৌহ গোলক 5 [math]\mathrm{ms}^{-1}[/math] বেগে একটি দেয়ালে লম্বভাবে ধাক্কা খেয়ে [math]3 \mathrm{~ms}^{-1}[/math] বেগে বিপরীত দিকে ফিরে গেল। বলের ঘাত কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]16 \mathrm{\ kgms}^{-1}[/math])
+
+Explanation:
+ব্যাখ্যা: বলের ঘাত (ইমপালস) হলো ভর দ্বারা গতি পরিবর্তন [math]Δp=m(v_f-v_i)[/math]। এখানে [math]Δp=2(-3-5)=2(-8)=-16\ \mathrm{kg·m/s}[/math], তাই ঘাতের মাত্রা [math]16\ \mathrm{N·s}[/math] এবং এটি প্রাথমিক গতি-বিশিষ্ট দিকের বিপরীতে নির্দেশিত।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 406859)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+4 kg ভরের একটি বস্তু 6m উঁচু স্থান হতে পতিত হয়ে কাদায় 5 cm প্রবেশ করে স্থির হয়ে গেলে। বস্তুর ওপর কাদার গড় ধাক্কার পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 4743.2 N )[math]\\[/math]
+Solution :এখানে,বস্তুর ভর m = 4 kgবস্তুর উচ্চতা, h = 6mকাদার ভেতরে অতিক্রান্ত দূরত্ব, [math]x=5 \mathrm{~cm}=0.05 \mathrm{~m}[/math]
+কাদার গড় ধাক্কার পরিমাণ, F = ?এখানে,পতনশীল বস্তুর স্থিতিশক্তি = গড় ধাক্কার বিরুদ্ধে কাজ বস্তুটি কাদার ভেতরে প্রবেশ করায় মোট পতন = h + x[math]\therefore[/math]
+ আমরা জানি, [math]\mathrm{mg}(\mathrm{h}+\mathrm{x})=\mathrm{Fx}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{F}=\frac{{\mathrm{mg}}(\mathrm{h}+\mathrm{x})}{\mathrm{x}}[/math]
+ [math]\begin{array}{l}=\frac{4 \times 9.8(6+0.05)}{0.05} \\=4743.2 \mathrm{~N} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ভরটির ভরাকর্ষণ সম্ভাব্য শক্তি [math]mgh[/math] কাদার বিরুদ্ধে কাজ করে নষ্ট হয়, তাই [math]mgh=F_{\text{avg}}d[/math]. অতএব [math]F_{\text{avg}}=\dfrac{mgh}{d}=\dfrac{4\times9.8\times6}{0.05}=4704\ \text{N}\approx4.7\times10^3\ \text{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 406858)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি হাতুড়ির ভর 1 kg । এটি [math]10 \mathrm{~ms}^{-1}[/math] বেগে একটি পেরেকের ওপর আপতিত হলো। এতে পেরেকটি একটি কাঠের তক্তার ভেতর 2 cm ঢুকে গেল।
+
+(i) হাতুড়ি প্রদত্ত ঘাত,
+
+(ii) প্রযুক্ত বল এবং
+
+(iii) কতক্ষণ হাতুড়িটি পেরেকের সংস্পর্শে ছিল নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (i) 10 Ns (ii) 2500 N (iii) [math]4 \times 10^{-3} \mathrm{~s}[/math]
+ )[math]\\[/math]
+Solution :দেওয়া আছে,হাতুড়ির ভর, m=1 kgহাতুড়ির আদিবেগ, [math]\mathrm{u}=10 \mathrm{~ms}^{-1}[/math]
+হাতুড়ির শেষবেগ, [math]\mathrm{v}=0 \mathrm{~ms}^{-1}[/math]
+সরণ, [math]\mathrm{s}=2 \mathrm{~cm}=0.02 \mathrm{~m}[/math]
+আমরা জানি,[math]\mathrm{s}=\left(\frac{\mathrm{u}+\mathrm{v}}{2}\right) \mathrm{t}[/math]
+ [math]\Rightarrow[/math]
+ [math]\begin{aligned}\mathrm{t} & =\frac{2 \mathrm{~s}}{\mathrm{u}+\mathrm{v}}=\frac{2 \times 0.02}{10+0} \\& =4 \times 10^{-3} \mathrm{~s}\end{aligned}[/math]
+ [math]=4 \times 10^{-3} \mathrm{~s}[/math]
+আবার মন্দন,[math]\begin{aligned}\mathrm{a} & =\frac{\mathrm{u}-\mathrm{v}}{\mathrm{t}} \\& =\frac{10-0}{4 \times 10^{-3}} \\& =2500 \mathrm{~ms}^{-2}\end{aligned}[/math]
+ [math]\therefore[/math]
+ প্রযুক্ত গড় বল,[math]\begin{aligned}\mathrm{F} & =\mathrm{ma}=1 \mathrm{~kg} \times 2500 \mathrm{~ms}^{-2} \\& =2500 \mathrm{~N}\end{aligned}[/math]
+(i) হাতুড়ি প্রদত্ত ঘাত বা বলের ঘাত ,[math]\begin{aligned}J & =F \times t \\& =2500 \mathrm{~N} \times 4 \times 10^{-3} \mathrm{~s} \\& =10 \mathrm{Ns}(\text { Ans.) }\end{aligned}[/math]
+(ii) প্রযুক্ত বল, F = 2500 N (Ans.)(iii) বলের ক্রিয়াকাল অর্থাৎ হাতুড়িটি পেরেকের সংস্পর্শে ছিল [math]4 \times 10^{-3} s \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক হাতুড়ির প্রদত্ত ঘাত Impulse হল গতি পরিবর্তনের মাত্রা, তাই [math]J=\Delta p=mv=1\times10=10\ \text{kg·m/s}[/math]।
+
+খ প্রযুক্ত বল কাইনেটিক শক্তি কাজ করে পেরেককে ঢুকায়, তাই [math]F_{\text{avg}}=\dfrac{\tfrac{1}{2}mv^2}{s}=\dfrac{0.5\times1\times10^2}{0.02}=2500\ \text{N}[/math]।
+
+গ স্পর্শকালের সময় Impulse = Force × time দ্বারা পাওয়া যায়, তাই [math]t=\dfrac{J}{F}=\dfrac{10}{2500}=0.004\ \text{s}=4\times10^{-3}\ \text{s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 406857)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+2.5 kg ভরের একটি হাতুড়ি 5 m উঁচু থেকে একটি পেরেকের ওপর পড়ল এবং [math]\frac{1}{10}[/math] সেকেন্ড সময়ে স্থির হলো। পেরেকের ওপর কত বল প্রযুক্ত হলো? [math]\left(g=10 \mathrm{~ms}^{-2}\right)[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 250 N )[math]\\[/math]
+Solution :এখানে,হাতুড়ির ভর, m = 2.5 kgউচ্চতা, h = 5mসময়, [math]\mathrm{t}=\frac{1}{10} \mathrm{~s}=0.1 \mathrm{~s}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=10 \mathrm{~ms}^{-2}[/math]
+এখন, হাতুড়িটি পেরেকটিকে যে বেগে আঘাত করবে পেরেকটি সেই বেগে গতিশীল হবে।আমরা জানি, [math]\mathrm{v}^{2}=\mathrm{u}^{2}+2 \mathrm{gh}\left[\therefore \mathrm{u}=0 \mathrm{~ms}^{-1}\right][/math]
+ [math]\Rightarrow[/math]
+ [math]v=\sqrt{2 \mathrm{gh}}[/math]
+ [math]=\sqrt{2 \times 10 \times 5}=10 \mathrm{~ms}^{-1}[/math]
+ [math]\therefore[/math]
+ পেরেকের আদিবেগ, [math]\mathrm{u}=10 \mathrm{~ms}^{-1}[/math]
+এবং শেষ বেগ, [math]v=0 \mathrm{~ms}^{-1}[/math]
+ [math]\therefore[/math]
+ মন্দন, [math]\mathrm{a}=\frac{\mathrm{u}-\mathrm{v}}{\mathrm{t}}=\frac{10-0}{0.1}=100 \mathrm{~ms}^{-2}[/math]
+ [math]\therefore[/math]
+ পেরেকের উপর প্রযুক্ত বল,[math]\begin{aligned}F & =m a \\& =2.5 \times 100 \\& =250 \mathrm{~N}(\text { Ans. })\end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে পতনের শেষ বেগ হয় [math]v=\sqrt{2gh}=\sqrt{2\times10\times5}=10\ \mathrm{m/s}[/math]। হাতুড়ির গতিপরিবর্তন [math]m\Delta v=2.5\times10=25\ \mathrm{kg\,m/s}[/math] এবং গড় নেট বল [math]F_{net}=\dfrac{m\Delta v}{\Delta t}=\dfrac{25}{0.1}=250\ \mathrm{N}[/math]। এখানে স্পর্শ বল (পেরেকের কর্তৃক প্রয়োগিত প্রতিক্রিয়া) হবে [math]F_{contact}=F_{net}+mg=250+2.5\times10=275\ \mathrm{N}[/math] (মাত্রা 275 N)।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 406855)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিক দিকে গতিশীল 0.05kg ভরের একটি গোলক [math]0.2 \mathrm{~ms}^{-1}[/math] বেগে একটি দেয়ালে লম্বভাবে ধাক্কা খেয়ে [math]0.2 \mathrm{~ms}^{-1}[/math] বেগে বিপরীত দিকে ফিলে গেল। গোলকটি দেয়ালের সংস্পর্শে 0.025 সময় থাকলে দেয়াল কর্তৃক প্রযুক্ত বলের গড় মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 1 N)[math]\\[/math]
+Solution :দেওয়া আছে,গোলকের 'ভর, m = 0.05 kgআদিবেগ, [math]\mathrm{u}=0.2 \mathrm{~ms}^{-1}[/math]
+শেষ বেগ, [math]\mathrm{v}=-0.2 \mathrm{~ms}^{-1}[/math]
+ক্রিয়াকাল, [math]t=0.02 \mathrm{~s}[/math]
+দেয়াল কর্তৃক প্রযুক্ত বলের গড় মান [math]=?[/math]
+এখন,[math]\begin{aligned}\mathrm{J} & =\mathrm{m}(\mathrm{v}-\mathrm{u}) \\& =0.05(-0.2-0.2) \\& =0.02 \mathrm{~kg} \mathrm{\textrm {ms } ^ { - 1 }}\end{aligned}[/math]
+আবার, গড় বল ,[math]\begin{array}{l}=\frac{\mathrm{J}}{\mathrm{t}}=\frac{0.02}{0.02} \\=1 \mathrm{~N} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ইম্পাল্স–গতি সূত্রানুসারে পরিবর্তনশীল ভরার বলনির্ভর গতি পরিবর্তন [math]\Delta p=m(v_f-v_i)=0.05(-0.2-0.2)= -0.02\ \mathrm{kg\,m/s}[/math]. তাই গড় বল [math]F_{\text{avg}}=\Delta p/\Delta t=-0.02/0.025=-0.8\ \mathrm{N}[/math], অর্থাৎ বলের মান 0.8 N এবং দিকটি দেয়াল থেকে দূরের দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 406854)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিক দিকে গতিশীল 2kg ভরের একটি লৌহ গোলক [math]5 \mathrm{~ms}^{-1}[/math] বেগে একটি দেয়ালে লম্বভাবে ধাক্কা খেয়ে [math]3 \mathrm{~ms}^{-1}[/math] বেগে বিপরীত দিকে ফিরে গেল। বলের ঘাত কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-16 \mathrm{kgms}^{-1}[/math])
+
+Explanation:
+ব্যাখ্যা: বলের ঘাত বা ইমপাল্স হল ভরগতিকে পরিবর্তনের পরিমাণ, তাই [math]\Delta p = m(v_f - v_i)[/math]। এখানে [math]\Delta p = 2(-3 - 5) = -16\ \mathrm{kg\,m/s}[/math], মানে ইমপাল্সের মান 16 N·s এবং চিহ্নটি দেখায় ইমপাল্সটি বলের মূল গতি-বিষয়ের বিপরীত দিকে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 406853)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.5kg ভরের একটি ফুটবল [math]30 \mathrm{~ms}^{-1}[/math] বেগে গতিশীল থাকা অবস্থায় কিক মারা হল। এর ফলে ফুটবলটি একই দিকে [math]60 \mathrm{~ms}^{-1}[/math] বেগ প্রাপ্ত হল। কিকের সময়কাল 0.01 sec হলে পা কর্তৃক প্রযুক্ত গড় বল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 1500 N)[math]\\[/math]
+Solution :দেওয়া আছে,বস্তুর ভর m = 0.5 kgফুটবলের আদিবেগ, [math]\mathrm{u}=30 \mathrm{~ms}^{-1}[/math]
+ফুটবলের শেষবেগ, [math]\mathrm{v}=60 \mathrm{~ms}^{-1}[/math]
+সময় t = 0.01sপ্রযুক্ত গড় বল, F = ?আমরা জানি,[math]\begin{aligned}v & =u+a t \\\therefore \quad a & =\frac{v-u}{t} \\& =\frac{60 \mathrm{~ms}^{-1}-30 \mathrm{~ms}^{-1}}{0.01 \mathrm{~s}} \\& =3000 \mathrm{~ms}^{-2}\end{aligned}[/math]
+এখন ,[math]\begin{aligned}\mathrm{F} & =\mathrm{ma} \\& =0.5 \mathrm{~kg} \times 3000 \mathrm{~ms}^{-2} \\& =1500 \mathrm{~N} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ফুটবলকে কিক দেওয়ার সময় импালস = গতিসংক্রান্ত পরিবর্তন, তাই [math]\Delta p=m(v_f-v_i)=0.5(60-30)=15\ \mathrm{kg\cdot m/s}[/math]. গড় বল [math]F=\Delta p/\Delta t=15/0.01=1500\ \mathrm{N}[/math] এবং এটি গতিরই দিকে কাজ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 406852)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+100 N বল 10 kg ভরের একটি বস্তুর উপর 10 sec ক্রিয়া করে। নিম্নোক্ত ক্ষেত্রসমূহে ভরবেগের পরিবর্তন কত হবে?
+
+(ক) বল প্রয়োগের সময় বস্তুটির বেগ শূন্য।
+
+(খ) বল প্রয়োগের সময় বস্তুটির বেগ 20 m/sec.
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]1000 \mathrm{\ kgms}^{-1}[/math]
+ (খ) [math]1000 \mathrm{~kg} . \mathrm{m} \cdot \mathrm{s}^{-1}[/math]
+ )[math]\\[/math]
+Solution :এখানে,বস্তুর ভর m = 10 kgবল F = 100 Nক্রিয়াকাল, t =10sভরবেগের পরিবর্তন, [math]\Delta \mathrm{p}=?[/math]
+(ক) যখন আদিবেগ, [math]\mathrm{u}_{1}=0[/math]
+(খ) যখন আদিবেগ, [math]\mathrm{u}_{2}=20 \mathrm{~ms}^{-1}[/math]
+(ক) মনে করি, [math]u_{1}=0[/math]
+ আদিবেগে থাকা অবস্থায় 100 N বল 10s ক্রিয়া করায় বস্তুটি [math]\mathrm{v}_{1}[/math]
+ শেষ বেগ প্রাপ্ত হয় ।আমরা জানি; [math]\Delta p=m v_{1}-m u_{1}[/math]
+ [math]\begin{array}{l}=\frac{\mathrm{m}\left(\mathrm{v}_{1}-\mathrm{u}_{1}\right)}{\mathrm{t}} \times \mathrm{t}=\mathrm{ma} \times \mathrm{t}=\mathrm{Ft}=100 \times 10 \\=1000 \mathrm{kgms}^{-1} \text { (Ans.) }\end{array}[/math]
+খ. [math]\Delta {\mathrm{p}}=\mathrm{Ft}[/math]
+ সমীকরণ অনুসারে ভর বেগের পরিবর্তন প্রযুক্ত বল F এবং সময়কাল t-এর ওপর নির্ভর করে, আদিবেগ বা শেষবেগের ওপর নির্ভর করে না। সুতরাং আদিবেগ যখন [math]20 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+ তখন 100N বল 10s সময় ধরে ক্রিয়া করায় ভরবেগের পরিবর্তন, [math]\Delta \mathrm{p}=\mathrm{Ft}=100 \times 10[/math]
+ [math]=1000 \mathrm{~kg} \cdot \mathrm{m} \cdot \mathrm{s}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভরবেগের পরিবর্তন (ইমপালস) = বল × সময় = [math]100\times 10 = 1000\ \mathrm{kg\cdot m/s}[/math], এবং এটি ভরের উপর নির্ভর করে গতি পরিবর্তনও দেয়: [math]Δv=Δp/m=1000/10=100\ \mathrm{m/s}[/math]. বল প্রয়োগের সময় গতি শূন্য হোক বা [math]20\ \mathrm{m/s}[/math], ভরবেগের পরিবর্তন একই হয় কারণ ইমপালস কেবল বল ও সময়ের উপর নির্ভর করে।
+
+ক ভরবেগের পরিবর্তন = [math]1000\ \mathrm{kg\cdot m/s}[/math].  
+খ ভরবেগের পরিবর্তন = [math]1000\ \mathrm{kg\cdot m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 406851)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+40 N বল 5 kg ভরের একটি বস্তুর উপর 1 min. ক্রিয়া করে।
+
+Options:
+গ. বস্তুটির ভরবেগের পরিবর্তন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গপ্রযুক্ত বল, F = 40N,সময়কাল, t = 1 min = 60 sআমরা জানি, F = ma[math]\Rightarrow[/math]
+ [math]\mathrm{F}=\mathrm{m} \frac{\mathrm{v}-\mathrm{u}}{\mathrm{t}}[/math]
+ [math]\therefore[/math]
+ ভর বেগের পরিবর্তন ,[math]\begin{array}{l}=\mathrm{m}(\mathrm{v}-\mathrm{u}) \\=\mathrm{Ft}=40 \mathrm{~N} \times 60 \mathrm{~s}=2400 \mathrm{kgm} \cdot \mathrm{s}^{-1} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: বলের প্ররোচন ভরবেগের পরিবর্তনের সমান (impulse–momentum theorem), তাই গ বস্তুটির ভরবেগের পরিবর্তন হবে [math]\Delta p=F\Delta t=40\times60=2400\ \mathrm{kg\cdot m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 406850)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+টেনিস খেলোয়াড় মামুন প্রতিপক্ষের ধ্রুব বেগে আসা 300 g ভরের টেনিস বলের উপর র‍্যাকেট দিয়ে 24 N বল 1s ধরে প্রয়োগ করে। ফলে বলটি [math]50 \mathrm{~ms}^{-1}[/math] বেগে প্রতিপক্ষের কাছে ফিরে গেল।
+
+Options:
+ঘ. “বলের ঘাত ভরবেগের পরিবর্তনের সমান”। উদ্দীপকের তথ্য থেকে গাণিতিকভাবে এর যথার্থতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই, টেনিস বলটির ভর, [math]\mathrm{m}=300 \mathrm{~g}=0.3 \mathrm{~kg}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পূর্বে বেগ, [math]\mathrm{u}=-30 \mathrm{~ms}^{-1}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পরের বেগ, [math]\mathrm{v}=50 \mathrm{~ms}^{-1}[/math]
+বল, F = 24 Nসময়, t =1 sটেনিস বলটির র‍্যাকেটে আঘাত করার পূর্বে ভরবেগ, [math]\mathrm{mu}=0.3 \mathrm{~kg} \times\left(-30 \mathrm{~ms}^{-1}\right)=-9 \mathrm{kgms}^{-1}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পরে ভরবেগ, [math]\mathrm{mv}=0.3 \mathrm{~kg} \times 50 \mathrm{~ms}^{-1}=15 \mathrm{kgms}^{-1}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পরে ভরবেগ, [math]\mathrm{mv}=0.3 \mathrm{~kg} \times 50 \mathrm{~ms}^{-1}=15 \mathrm{kgms}^{-1}[/math]
+ [math]\therefore[/math]
+ ভরবেগের পরিবর্তন,[math]\begin{array}{l}=\mathrm{mv}-\mathrm{mu} \\=15 \mathrm{kgms}^{-1}-\left(-9 \mathrm{kgms}^{-1}\right) \\=15 \mathrm{kgms}^{-1}+9 \mathrm{kgms}^{-1} \\=24 \mathrm{kgms}^{-1}\end{array}[/math]
+আমরা জানি, বলের ঘাত = বল [math]\times[/math]
+ সময় [math]=24 \mathrm{~N} \times 1 \mathrm{~s}=24 \mathrm{kgms}^{-1}[/math]
+সুতরাং “বলের ঘাত ভরবেগের পরিবর্তনের সমান।
+
+Explanation:
+ব্যাখ্যা: ঘ সঠিক, কারণ ঘাত = [math]F\Delta t=24\times1=24\ \mathrm{Ns}[/math] এবং ভরবেগের পরিবর্তন = [math]\Delta p=m(v_f-v_i)=0.3\big(50-(-30)\big)=0.3\times80=24\ \mathrm{Ns}[/math], তাই ঘাত এবং ভরবেগের পরিবর্তন সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 406849)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+টেনিস খেলোয়াড় মামুন প্রতিপক্ষের ধ্রুব বেগে আসা 300 g ভরের টেনিস বলের উপর র‍্যাকেট দিয়ে 24 N বল 1s ধরে প্রয়োগ করে। ফলে বলটি [math]50 \mathrm{~ms}^{-1}[/math] বেগে প্রতিপক্ষের কাছে ফিরে গেল।
+
+Options:
+গ. টেনিস বলটি মামুনের র‍্যাকেটে কত বেগে আঘাত করেছিল?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বলটির শেষ বেগ, [math]\mathrm{v}=50 \mathrm{~ms}^{-1}[/math]
+বলটির ভর, [math]\mathrm{m}=300 \mathrm{~g}=0.3 \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ বলটির শেষ ভরবেগ,[math]\begin{aligned}\mathrm{mv} & =0.3 \mathrm{~kg} \times 50 \mathrm{~ms}^{-1} \\& =15 \mathrm{kgms}^{-1}\end{aligned}[/math]
+সময়, t = 1sবল, F = 24 Nবলটি মামুনের র‍্যাকেটে আঘাত করার সময় বেগ, u = ?আমরা জানি,ভরবেগের পরিবর্তন = বলের ঘাত[math]\therefore \mathrm{mv}-\mathrm{mv}=\mathrm{F} \times \mathrm{t}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{u}=\frac{\mathrm{mv}-\mathrm{Ft}}{\mathrm{m}}[/math]
+ [math]\begin{array}{l}=\frac{15-(24 \times 1)}{0.3 \mathrm{~kg}} \\\therefore \mathrm{u}=-30 \mathrm{~ms}^{-1}\end{array}[/math]
+সুতরাং টেনিস বলটি [math]30 \mathrm{~ms}^{-1}[/math]
+ বেগে মামুনের র‍্যাকেটে আঘাত করবে। (Ans.) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বলটির ভর [math]0.3\ \mathrm{kg}[/math] এবং র‌্যাকেটের দেয়া প্রেরণ [math]F\Delta t=24\times1=24\ \mathrm{N\cdot s}[/math]. মোমেন্টামের পরিবর্তন থেকে [math]m(v_f-v_i)=24[/math] বা [math]0.3(50-v_i)=24[/math] হলে [math]v_i=-30\ \mathrm{m/s}[/math], তাই বলটি মামুনের র‌্যাকেটে মুখোমুখি দিকে [math]30\ \mathrm{m/s}[/math] বেগে আঘাত করেছিল।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 406848)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ক্যারম খেলার সময় রিনা ক্যারম বোর্ডে 12 গ্রাম ভরের একটি গুটির উপর আরেকটি গুটি রেখে 150 গ্রাম ভরের স্ট্রাইকার দিয়ে গুটিটিকে আঘাত করলো। স্ট্রাইকারটি নিচের গুটিটিকে 0.75 N বলে আঘাত করে। ফলে নিচের গুটি সরে গেল এবং ওপরের গুটি স্থির থাকে এবং নিচের গুটির স্থান দখল করে ।
+
+Options:
+গ. স্ট্রাইকারটি 3s পরে গুটিকে কত বেগে আঘাত করবে? উদ্দীপকের আলোকে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, স্ট্রাইকারটি v বেগে গুটিকে আঘাত করবে।বল, F = 0.75 Nস্টাইকারের ভর,m = 150 g = 0.15 kgসময়, y = 3 sআদি বেগ, u = 0আমরা জানি,[math]\mathrm{F}=\mathrm{ma}=\mathrm{m}\left(\frac{\mathrm{v}-\mathrm{u}}{\mathrm{t}}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{m}(\mathrm{v}-\mathrm{u})=\mathrm{Ft}[/math]
+ [math]\Rightarrow[/math]
+ [math]0.15 \mathrm{~kg}(\mathrm{v}-0)=0.75 \mathrm{~N} \times 35 \mathrm{~s}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{v}=\frac{2.25 \mathrm{~N} \mathrm{~s}}{0.15 \mathrm{~kg}}=15 \mathrm{~ms}^{-1}[/math]
+সুতরাং স্ট্রাইকারটি গুটিকে [math]15 \mathrm{~ms}^{-1}[/math]
+সুতরাং স্ট্রাইকারটি গুটিকে [math]15 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ বেগে আঘাত করে। [math]\\[/math]
+
+
+Explanation:
+গ উত্তর: নিউটনের দ্বিতীয় নিয়ম অনুযায়ী [math]a=F/m=0.75/0.012=62.5\ \text{m/s}^2[/math]। যদি বলটি ধ্রুব ধরে 3 সেকেন্ড পরে গুটির বেগ হয়, তাহলে [math]v=at=62.5\times3=187.5\ \text{m/s}[/math] হবে, এবং এখানে স্ট্রাইকারের ভর নিযুক্ত হিসেবেই প্রভাব ফেলেনি।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 406847)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \mathrm{~ms}^{-1}[/math] বেগে চলমান 2000 kg ভরের একটি ট্রাক একটি ভারী দেওয়ালে ধাক্কা দেয়। দেওয়ালে আঘাত খেয়ে ট্রাকটি পিছন দিকে [math]1.3 \mathrm{~ms}^{-1}[/math] বেগে ফিরে আসে। আঘাতের সময়কাল 0.15s হলে ঘাত কত ? ট্রাকটির ওপর প্রযুক্ত গড় বল কত ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]-4.26 \times 10^{4} \mathrm{~kg} \mathrm{~ms}^{-1}[/math]
+ , [math]-2.84 \times 10^{5} \mathrm{~N}[/math]
+)[math]\\[/math]
+Solution :দেওয়া আছে,বস্তুর ভর, m = 2000 kgআদি বেগ, [math]\mathrm{v}_{1}=20 \mathrm{~ms}^{-1}[/math]
+শেষ বেগ, [math]\mathrm{v}_{2}=-1.3 \mathrm{~ms}^{-1}[/math]
+ক্রিয়াকাল, t = 0.15 sবলের ঘাত, J = ?গড় বল, F = ?আমরা জানি,[math]\begin{aligned}\mathrm{J} & =\mathrm{m}\left(\mathrm{v}_{2}-\mathrm{v}_{1}\right) \\& =2000 \mathrm{~kg} \times\left(-1.3 \mathrm{~ms}^{-1}-20 \mathrm{~ms}^{-1}\right) \\& =2000 \mathrm{~kg} \times-21.3 \mathrm{~ms}^{-1} \\& =-4.26 \times 10^{4} \mathrm{~kg} \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+আবার, [math]\mathrm{F}=\frac{\mathrm{mv}_{2}-\mathrm{mv}_{1}}{\mathrm{t} \cdot}[/math]
+ [math]=\frac{-4.26 \times 10^{4} \mathrm{~kg} \mathrm{~ms}^{-1}}{0.15 \mathrm{~s}}[/math]
+ [math]=-2.84 \times 10^{5} \mathrm{~N} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ট্রাকের ভর [math]m=2000\ \mathrm{kg}[/math], প্রাথমিক বেগ [math]u=+20\ \mathrm{m/s}[/math] (দেওয়ালের দিকে) এবং শেষ বেগ [math]v=-1.3\ \mathrm{m/s}[/math] (পিছন দিকে)। তাই ঘাত বা সহগতি হলো [math]\Delta p=m(v-u)=2000(-1.3-20)=2000(-21.3)=-42600\ \mathrm{kg\,m/s}[/math], মানে ঘাত = [math]42600\ \mathrm{Ns}[/math] (প্রারম্ভিক গতির বিপরীত দিকে)। গড় বল [math]\bar F=\Delta p/\Delta t=-42600/0.15=-284000\ \mathrm{N}[/math], মানে গড় বলের মান = [math]284000\ \mathrm{N}[/math] (প্রারম্ভিক গতির বিপরীত দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 406846)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+৪m উপর থেকে 80g ভরের একটি টেনিস বল ছেড়ে দেয়া হলো। ভূমিতে পড়ে তা আবার 6m পর্যন্ত উপরে উঠল। ভূমিতে সংঘর্ষ কালে বলের ঘাত কত? সংঘর্ষকাল 0.04s হলে গড় বল নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.87 \mathrm{~kg} \mathrm{~ms}^{-1}[/math]
+ , [math]46.75 \mathrm{~N}[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+এখানে ভর, [math]\mathrm{m}=80 \mathrm{~g}=0.08 \mathrm{~kg}[/math]
+সংঘৰ্ষকাল, [math]\mathrm{t},=0.04 \mathrm{~s}[/math]
+ধরি, বলটি 8m উপর থেকে পড়ে u বেগে ভূমিতে আঘাত করে।[math]\begin{array}{l}\therefore \mathrm{u}=\sqrt{2 \mathrm{gh}}=\sqrt{2 \times 9.8 \times 8} \\\therefore 12.52 \mathrm{~ms}^{-9}\end{array}[/math]
+আবার যদি বলটি v বেগে 6m উপরে উঠে , তবে[math]\mathrm{v}=\sqrt{2 \mathrm{gh}}=\sqrt{2 \times 9.8 \times 6}=10.84 \mathrm{~ms}^{-1}[/math]
+এখন যদি উপরে ওঠার বেগ ধনাত্মক ধরি তবে নিচে নামার বেগ অপারক হবে। যেহেতু বেগময় বিপরিতমুখী।অর্থাৎ যদি [math]v=10.84 \mathrm{~ms}^{-1}[/math]
+ হয় তবে [math]\mathrm{u}=-12.52 \mathrm{~ms}^{-1}[/math]
+এখন, বলের ঘাত[math]\begin{aligned}J & =m v-m u \\& =m(v-u) \\& =m\{10.84-(-12.52)\} \\& =0.08(10.84+12.52) \\& =1.87 \mathrm{~kg} \mathrm{~ms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+এখন গড় বল,[math]\begin{aligned}F=\frac{\mathrm{J}}{\mathrm{t}} & =\frac{1.87}{0.04} \\& =46.75 \mathrm{~N} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+পতন ও পুনরোত্তরণের উচ্চতা থেকে গতি-পদার্থবিদ্যার সূত্র ব্যবহার করে প্রথমে সংঘর্ষের আগে ও পরে বলের গতি নির্ণয় করি: [math]v_1=\sqrt{2gh}=\sqrt{2\times9.8\times4}=8.857\ \text{m/s (নীচে)}[/math], [math]v_2=\sqrt{2gh}=\sqrt{2\times9.8\times6}=10.844\ \text{m/s (উপর)}[/math]. সংঘর্ষে গতিপদ পরিবর্তন (ঘাত) হল [math]\Delta p=m(v_2-(-v_1))=m(v_1+v_2)=0.08\times(8.857+10.844)=1.58\ \text{N·s}[/math]. গড় বল [math]F_{avg}=\Delta p/\Delta t=1.58/0.04=39.5\ \text{N}[/math]; সূত্রগতভাবে এটিই কারণ—গতি পরিবর্তনের জন্যই নির্দিষ্ট ঘাত ও গড় বল লাগে।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 406868)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+0.5kg ভরের একটি ফুটবল [math]30 \mathrm{~ms}^{-1}[/math] বেগে গতিশীল থাকা অবস্থায় কিক মারা হলো। এর ফলে ফুটবলটি একই দিকে [math]60 \mathrm{~ms}^{-1}[/math] বেগ প্রাপ্ত হয়। কিকের সময়কাল 0.01s হলে পা কর্তৃক প্রযুক্ত গড় বল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 1500 N)
+
+Explanation:
+ব্যাখ্যা: কিকটি বলের গতিমাত্রা পরিবর্তন ঘটায় এবং গড় বল (ইম্পাল্স-গতি সমীকরণ) থেকে পাওয়া যায় যে গড় বল = গতিমাত্রার পরিবর্তন / সময়। এখানে [math]\Delta p = m(v_f - v_i) = 0.5\times(60-30)=15\ \mathrm{kg\,m/s}[/math], তাই গড় বল [math]F_{\text{avg}}=\Delta p/\Delta t=15/0.01=1500\ \mathrm{N}[/math] এবং এটা গতির দিকেই।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 406867)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন খেলোয়াড়ের দিকে [math]20 \mathrm{~ms}^{-1}[/math] বেগে আসা 200 g ভরের একটি ফুটবলকে কিক করে [math]20 \mathrm{~ms}^{-1}[/math] বেগে ভূমির সাথে 45° .কোণে ফেরৎ পাঠালো। খেলোয়াড়ের গায়ের সাথে বলের সংস্পর্শকাল 0.1 s হলে -
+
+(i) বলটির ওপর প্রযুক্ত বলের ঘাত এবং
+
+(ii) বলটির ওপর প্রযুক্ত গড় বলের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : প্রশ্নে খোলোয়াড়ের নিকট কত কোণে বলটি এসেছে, তার উল্লেখ নেই । তবে অনুভূমিক বরাবর ধরে নিলে (i) বলের ঘাত 7.39 Ns ও (ii) গড় বলের মান 7.39 N পাওয়া যায় ।)
+
+Explanation:
+ব্যাখ্যা: বলটির ভর [math]m=0.2\ \mathrm{kg}[/math]. প্রাথমিক বেগ ধরে নিই [math]\vec u=20\hat i\ \mathrm{m/s}[/math] এবং শেষ বেগ [math]\vec v=-20\cos45^\circ\hat i+20\sin45^\circ\hat j=-10\sqrt2\hat i+10\sqrt2\hat j\ \mathrm{m/s}[/math], সুতরাং পরিবর্তিত গতি [math]\Delta\vec v=\vec v-\vec u=-(20+10\sqrt2)\hat i+10\sqrt2\hat j[/math] এবং বলের ঘাত (ইম্পালস) হচ্ছে
+[math]\vec J=m\Delta\vec v=-(4+2\sqrt2)\hat i+2\sqrt2\hat j\ \mathrm{N\cdot s}\approx -6.828\hat i+2.828\hat j\ \mathrm{N\cdot s}.[/math]
+এই ইম্পালসের পরিমাপ হল [math]|\vec J|=4\sqrt{2+\sqrt2}\approx7.39\ \mathrm{N\cdot s}[/math]. সংস্পর্শকাল [math]\Delta t=0.1\ \mathrm{s}[/math] হওয়ায় গড় বলের মান হচ্ছে
+[math]\bar{\vec F}=\vec J/\Delta t\approx -68.28\hat i+28.28\hat j\ \mathrm{N},\quad |\bar{\vec F}|\approx73.9\ \mathrm{N}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 406843)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2008-2009, 2007-2008 | Boards:  | Tags: Rajshahi University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+25gm ভরের একটি বুলেট 100 cm / sec বেগে 15cm পুরু একটি কাঠের দেয়ালে প্রবেশ করে ও দেওয়াল ভেদ করে 75cm / see বেগে বেরিয়ে যায়। বুলেটের গড় বল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে, m= 25 mg = 0.025kg[math]\mathrm{v}^{2}=\mathrm{u}^{2}-2 \mathrm{as} ; \quad \mathrm{a}=\frac{\mathrm{u}^{2}-\mathrm{v}^{2}}{2 \mathrm{~s}}=\frac{(1)^{2}-(0.75)^{2}}{2 \times 0.15}=1.4583 \mathrm{~ms}^{-2} \quad \therefore \mathrm{F}=\mathrm{ma}=0.0365 \mathrm{~N}[/math]
+
+Explanation:
+ব্যাখ্যা: বুলেটের গড় বল কাজ-শক্তি সূত্র ব্যবহার করে পাওয়া যায়: [math]F_{\text{avg}}\,d=\tfrac{1}{2}m(v^2-u^2)[/math]. এখানে [math]m=0.025\ \text{kg},\ u=1.00\ \text{m/s},\ v=0.75\ \text{m/s},\ d=0.15\ \text{m}[/math], তাই [math]\Delta KE=\tfrac{1}{2}\times0.025(0.75^2-1^2)=-0.00546875\ \text{J}[/math] এবং [math]F_{\text{avg}}=\Delta KE/d=-0.00546875/0.15\approx -0.03646\ \text{N}[/math]. নেতিবাচক চিহ্ন দেখায় বলটি বুলেটের গতির বিপরীতে কাজ করেছে, মানে গড় প্রতিরোধী বল ≈ [math]0.0365\ \text{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 406845)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2004-2005 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+200 m/sec বেগে আগত 0.2 kg ভরের ক্রিকেট বলকে একজন খেলোয়াড় ক্যাচ ধরে 0.1 সেকেন্ড সময়ের মধ্যে থামিয়ে দিল। খেলোয়াড় কর্তৃক প্রযুক্ত গড় বল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\mathrm{m}=0.2 \mathrm{~kg}, \mathrm{v}_{0}=200 \mathrm{~ms}^{-1}[/math]
+ [math]v=0 \mathrm{~ms}^{-1}[/math]
+ [math]t=0 . I \sec , \mathrm{F}=\text { ? }[/math]
+ [math]\\[/math]
+ [math]F=m a=\frac{m\left(v_{0}-v\right)}{t}[/math]
+ [math]=\frac{0.2 \times(200-0)}{0.1}=400 \mathrm{~N} \text {. (Ans.) }[/math]
+
+
+Explanation:
+প্রথমে বলের গতি পরিবর্তন থেকে ভরবেগ পরিবর্তন বের করি: [math]Δp = m v = 0.2\times200 = 40\ \text{kg·m/s}[/math], তাই গড় বল [math]F_{avg} = Δp/Δt = 40/0.1 = 400\ \text{N}[/math]। ব্যাখ্যা: ইমপালস–মোমেন্টাম সূত্র অনুযায়ী গড় বল হল ভরবেগ পরিবর্তনের হার, তাই ফলাফল 400 N।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 406844)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2005-2006 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+স্থির পানির উপর ভাসমান একটি নৌকা হতে একজন লোক আনুভূমিক দিকে লাফ দিয়ে তীরে পৌছা ল। বাকী লোকসহ নৌকার ভর 300 kg লাফদেয়া লোকের ভর 60 kg। লাফের বেগ [math]20 \ ms^{-1}[/math]। এমতাবস্থায় নৌকায় অবস্থিত 0.75 kg ভরের একটি স্থির বলকে কিক মারা হলো। ফলে ফুটবলটি একই দিকে [math]18ms^{-1}[/math] বেগ প্রাপ্ত হলো। পা কর্তৃক প্রযুক্ত বলের ঘাত নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরি, নৌকার পশ্চাৎ বেগ [math]=\mathrm{v} \therefore \mathrm{v} \times 300=60 \times 20 \Rightarrow \mathrm{v}=4 \mathrm{~ms}^{-1}[/math]
+আবার, কিকের আগে ভরবেগ [math]\mathrm{mv}_{1}=-4 \times 0.75=-3 \mathrm{kgms}^{-1}[/math]
+কিকের পরে ভরবেগ [math]\mathrm{mv}_{2}=18 \times 0.75=13.5 \mathrm{kgms}^{-1}[/math]
+ [math]\therefore[/math]
+ ভরবেগের পরিবর্তন [math]F_{1}=m v_{1}-m v_{2}=(-3-13.5) \mathrm{kgms}^{-1}=-16.5 \mathrm{kgms}^{-1}[/math]
+ [math]\therefore[/math]
+ পা কর্তৃক প্রযুক্ত বলের মাত [math]F_{i}=16.5 \mathrm{kgms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: লাফদেওয়ার আগে সিস্টেম বিশ্রামে থাকায় সঞ্চারকরণ বজায় থাকবে, তাই [math]60\times20 + 300V = 0 \Rightarrow V = -4\ \text{m/s}[/math] (নৌকা লাফদাতার বিপরীত দিকে 4 m/s গমন করে)। বলটি নৌকের সঙ্গে গতিশীল ছিল তাই শুরুতে তার বেগ [math]-4\ \text{m/s}[/math], শেষ বেগ [math]+18\ \text{m/s}[/math]; তাই ঘাত = ভর×বেগ পরিবর্তন = [math]0.75(18-(-4)) = 0.75\times22 = 16.5\ \text{N·s}[/math], লাফদাতার দিকেই।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 406841)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022-2023 | Boards:  | Tags: Military Institute of Science and Technology
+--------------------------------------------------------------------------------
+Question:
+0.50 kg ভরের একটি বাস্কেট বল ইটের প্রাচীরে নিক্ষেপ করা হলো যা চিত্রে দেখানো হলো। প্রাচীরে সংঘর্ষের সময় বাস্কেট বলটির ওপর বলের ঘাত বের কর।
+
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\mathrm{J}=\mathrm{m} \Delta \mathrm{V}=\mathrm{m}\left(\mathrm{V}_{2 \mathrm{x}}-\mathrm{V}_{1 \mathrm{x}}\right)=0.5(-20-30)=-25 \mathrm{~kg} \mathrm{~ms}^{-1}[/math]
+ঋণাত্মক চিহ্ন প্রমাণ করে । ও V এর অভিমুখ ভিন্ন।[math]|\mathrm{J}|=|-25|=25 \mathrm{~kg} \mathrm{~ms}^{-1} \text { Ans. }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সংঘর্ষের সময় বলের ঘাত হল ভরাগুণের পরিবর্তন, অর্থাৎ [math]I=\Delta p=m(v_f-v_i)[/math]. যদি বলটি প্রাচীরে ধাক্কায় একই গতি দিয়ে বিপরীত দিকেও ফিরে আসে (মানে [math]v_f=-v_i=-v[/math]), তাহলে [math]I=m(-v-v)=-2mv[/math] এবং মান হবে [math]2mv[/math]; m=0.50 kg বসালে পরিমাপের মান পেতে চিত্রে দেওয়া v মূল্যটি স্থাপন করুন।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 406840)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+150g ভরের একটি ক্রিকেট বল 12m/s বেগে গতিশীল হয়ে একটি ব্যাট দ্বারা আঘাত করার ফলে বলটি 20 m/s বেগে ফিরে আসে। বলটির উপর ক্রিয়ারত বলের আঘাতের সময়কাল 0.01 s, বলটির উপর ব্যাটের গড় বল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\mathrm{m}(\mathrm{v}-\mathrm{u})=\mathrm{Ft} \Rightarrow \mathrm{F}=\frac{\mathrm{m}(\mathrm{v}-\mathrm{u})}{\mathrm{t}}=\frac{0.15 \times(12+20)}{0.01} \mathrm{~N}=480 \mathrm{~N}[/math]
+
+Explanation:
+ব্যাখ্যা: আঘাতের সময় গড় বল হলো গতিকৈনিক পরিবর্তন ভাগ করে সময় (ঊষ্মা: বল = Δp/Δt)। এখানে ভর [math]0.15\ \text{kg}[/math], গতি বিপরীত দিক থেকে ফিরে এসেছে তাই গতির পরিবর্তন [math]\Delta v=20-(-12)=32\ \text{m/s}[/math] এবং [math]\Delta p=0.15\times 32=4.8\ \text{kg·m/s}[/math]। ফলে গড় বল [math]F_{\text{avg}}=\Delta p/\Delta t=4.8/0.01=480\ \text{N}[/math] (ফেরানোর দিকেই কাজ করে)।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 406839)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Noakhali Govt. College
+--------------------------------------------------------------------------------
+Question:
+[math]4.5 \times 10^{4} \mathrm{mg}[/math] ভরের একটি মার্বেল [math]15 \mathrm{~m} \mathrm{~s}^{-1}[/math] বেগে সোজা গিয়ে অপর একটি স্থির মার্বেলকে ধাক্কা দেয়। ধাক্কার ক্রিয়াকাল 2 s । ধাক্কার পর প্রথম মার্বেলটি তার তিন চতুর্থাংশ বেগ হারায়। স্থির মার্বেলটি [math]12 \mathrm{~m} \mathrm{~s}^{-1}[/math] বেগ লাভ করে একটি 1.1 m পুরু বালির স্তুপকে আঘাত করে। বালির বাধা দানকারী বল 2.5 N।
+
+Options:
+ক. স্থিতিস্থাপক ক্লান্তি কাকে বলে?
+খ. নৃত্যশিল্পী নাচতে গিয়ে ঘূর্ণনের সময় হাত ভাঁজ করে রাখে কেন?
+গ. ধাক্কার সময় বলের ঘাত নির্ণয় কর।
+ঘ. মার্বেলটি বালির স্তুপ ভেদ করতে পারবে কি না— গাণিতিকভাবে ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো বস্তু বা তারের উপর ক্রমাগত পীড়নের হ্রাস বৃদ্ধি করলে স্থিতিস্থাপকতা ধর্ম হ্রাস পায়। এর ফলে বল অপসারণের সাথে সাথে বস্তু পূর্বের অবস্থা ফিরে পায় না। কিছুটা দেরী হয়। বস্তুর এই অবস্থাই স্থিতিস্থাপক ক্লান্তি । [math]\\[/math]
+ খএকজন নৃত্যশিল্পী নাচতে গিয়ে বৃত্তাকার পথে ঘুরে। বৃত্তাকার পথে ঘুর্ণনরত বস্তুর উপর ক্রিয়ারত কেন্দ্রমুখী বলের একটি সমান ও বিপরীত প্রতিক্রীয়া বল থাকবে। এই প্রতিক্রীয়াই হলো কেন্দ্রভিমুখী বল বা অপকেন্দ্রে বল। অপকেন্দ্র বল বস্তুকণাকে বৃত্তাকার পথ হতে ছিটকে ফেলতে চায়। কেন্দ্রমুখী বল জোগান দেওয়ার জন্য একজন নৃত্যশিল্পী নাচতে গিয়ে ঘূর্ণনের সময় দুই হাত ভাঁজ করেন। [math]\\[/math]
+ গএখানে, মার্বেলটির ভর, [math]\mathrm{m}=4.5 \times 10^{4} \mathrm{mg}[/math]
+ [math]\hspace{4.2cm}\begin{array}{l}=4.5 \times 10^{4} \times 10^{-6} \mathrm{~kg} \\=0.045 \mathrm{~kg}\end{array}[/math]
+আদি বেগ, [math]\mathrm v_{0}=15 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+শেষ বেগ, [math]\mathrm{v}=\left(1-\frac{3}{4}\right) \mathrm{v}_{0}=\frac{1}{4} \times 15=3.75 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+বলের ঘাত, J = ?আমরা জানি [math]\mathrm{J}=\mathrm{mv}_{0}-\mathrm{mv}[/math]
+ [math]\hspace{2.5cm}\begin{array}{l}=m\left(\mathrm {v_{0}-v}\right) \\=0.045(15-3.75)=0.045 \times 11.25=0.506 \mathrm{~N} \mathrm{~s}\end{array}[/math]
+ [math]\therefore[/math]
+ ধাক্কার সময় বলের ঘাত 0.51 Ns. [math]\\[/math]
+ ঘএখানে, ১ম মার্বেলের ভর, [math]\mathrm{m}_{1}=0.045 \mathrm{~kg}[/math]
+ [math]\hspace{1cm}[/math]
+১ম মার্বেলের আদিবেগ, [math]\mathrm{u}_{1}=15 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1cm}[/math]
+১ম মার্বেলের শেষবেগ, [math]\mathrm{v}_{1}=3.75 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1cm}[/math]
+২য় মার্বেলের আদিবেগ, [math]\mathrm{u}_{2}=0[/math]
+ [math]\hspace{1cm}[/math]
+২য় মার্বেলের শেষবেগ, [math]\mathrm{v}_{2}=12 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1cm}[/math]
+২য় মার্বেলের ভর, [math]\mathrm{m}_{2}=?[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{array}{ll}\mathrm{\ \ \ \ \ \ \ \ \ m}_1\mathrm{v}_1+\mathrm{m}_2\mathrm{u}_2=\mathrm{m}_1\mathrm{v}_1+\mathrm{m}_2\mathrm{v}_2\\\Rightarrow\mathrm{m}_2\mathrm{u}_2-\mathrm{m}_2\mathrm{v}_2=\mathrm{m}_1\mathrm{v}_1-\mathrm{m}_1\mathrm{u}_1\\\Rightarrow\mathrm{m}_2\left(\mathrm{u}_2-\mathrm{v}_2\right)=\mathrm{m}_1\left(\mathrm{v}_1-\mathrm{u}_1\right)\\\Rightarrow\mathrm{m}_2=\frac{\mathrm{m}_1\left(\mathrm{v}_1-\mathrm{u}_1\right)}{\mathrm{u}_2-\mathrm{v}_2}\\\quad=\frac{0.045(3.75-15)}{0-12}=\frac{0.045(-11.25)}{-12}=0.0422\mathrm{~kg}\end{array}[/math]
+এখানে,বাধাদানকারী বল, F = 2.5 Nমার্বেলের ত্বরণ, a = ?এখন, – F = ma[math]\begin{array}{l}\Rightarrow -2.5=0.042\times\mathrm{a}\\\Rightarrow\mathrm{a}=-\frac{2.5}{0.042}=-59.5\mathrm{~m}\mathrm{~s}^{-2}\end{array}[/math]
+এখানে,মার্বেলের শেষবেগ, v = 0প্রাপ্ত বেগ, [math]\mathrm{u}=12 \mathrm{~m} \mathrm{~s}^{-1}[/math]
+অতিক্রান্ত দূরত্ব, S = ?আমরা জানি,[math]\hspace{1cm}\begin{array}{l}\quad\mathrm v^2=\mathrm {u^2+2as}\\\Rightarrow \quad0^2=(12)^2+2(-59.5)\times5\\\Rightarrow \quad0=144-119\mathrm{~s}\\\Rightarrow -119\mathrm{~s}=-144\\\Rightarrow \mathrm s=\frac{144}{119}=1.21\mathrm{~m}\\\because\mathrm{s}>1.1\mathrm{~m}\end{array}[/math]
+সুতরাং মার্বেলটি বালির স্তূপ ভেদ করতে পারবে। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক স্থিতিস্থাপক ধাক্কা সে ধাক্কা যেখানে মোট গতি রক্ষার পাশাপাশি মোট কাইনেটিক শক্তিও রক্ষিত থাকে, অর্থাৎ অপরিবর্তিত মোট শক্তি ও ভরবর্গমুহুর্তে ভরকেন্দ্রগত গতিশক্তি ।
+
+খ নর্তকী হাতে ভাঁজ করে কারণ আভ্যন্তরীণ ঘর্ষণ ছাড়া কোণীয় ভরবেগ রক্ষা পায়; হাতে ভাঁজ করলে ভরবর্গ (moment of inertia) ছোট হয় এবং ঘূর্ণনগতিবেগ বাড়ে (কোণীয় গতি বাড়ে)।
+
+গ প্রথম মার্বেলের ভর [math]m=4.5\times10^{4}\,\mathrm{mg}=4.5\times10^{-2}\,\mathrm{kg}[/math], শুরু বেগ [math]15\ \mathrm{m/s}[/math], শেষ বেগ [math]15\times\frac{1}{4}=3.75\ \mathrm{m/s}[/math] হলে বলের ঘাত (ইমপালস) [math]\Delta p=m(v_f-v_i)=0.045(3.75-15)=-0.50625\ \mathrm{N\cdot s}[/math] (ম্যাগনিচিউড ≈ [math]0.506\ \mathrm{N\cdot s}[/math]) — চিহ্নী মানটি প্রথম মার্বেলের গতি-দিকের বিপরীত দিকের ইমপালস নির্দেশ করে।
+
+ঘ অপর মার্বেলের কাইনেটিক শক্তি [math]K=\tfrac{1}{2}mv^2=\tfrac{1}{2}\times0.045\times12^2=3.24\ \mathrm{J}[/math] এবং বালির বাধাবলে কাজ [math]W=Fd=2.5\times1.1=2.75\ \mathrm{J}[/math]; কারণ [math]K>W[/math], মার্বেলটি 1.1 m বালি ভেদ করতে পারবে। (স্টপিং দুরত্ব [math]s=K/F=3.24/2.5=1.296\ \mathrm{m}>1.1\ \mathrm{m}[/math])
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 406838)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+টেনিস খেলোয়াড় মামুন প্রতিপক্ষের ধ্রুব বেগে আসা 300 g ভরের টেনিস বলের উপর র‍্যাকেট দিয়ে 24 N বল 1s ধরে প্রয়োগ করে। ফলে বলটি [math]50 \mathrm{~ms}^{-1}[/math] বেগে প্রতিপক্ষের কাছে ফিরে গেল।
+
+Options:
+ক. ভরবেগের নিত্যতার সূত্রটি বিবৃত কর।
+খ. অস্থিতিস্থাপক সংঘর্ষ বলতে কী বুঝ?
+গ. টেনিস বলটি মামুনের র‍্যাকেটে কত বেগে আঘাত করেছিল?
+ঘ. “বলের ঘাত ভরবেগের পরিবর্তনের সমান”। উদ্দীপকের তথ্য থেকে গাণিতিকভাবে এর যথার্থতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+কযখন কোনো ব্যবস্থার ওপর প্রযুক্ত নিট বাহ্যিক বল বা টর্ক শূন্য হয়, তখন ব্যবস্থাটির যথাক্রমে মোট রৈখিক ভরবেগ বা কৌণিক ভরবেগ সংরক্ষিত থাকে। [math]\\[/math]
+ খদুটি বস্তুর মধ্যে ধাক্কা লাগলে বা সংঘর্ষ হলে যদি বস্তুগুলোর মোট গতিশক্তি সংরক্ষিত না হয় অর্থাৎ সংঘর্ষের পূর্বের ও পরের গতিশক্তি যদি সমান না হয় তাহলে সেই সংঘর্ষকে অস্থিতিস্থাপক সংঘর্ষ বলে। যেমন: কতকগুলো বস্তুর মধ্যকার সংঘর্ষের ফলে যদি এরা মিলিত বা একীভূত হয়ে যায় তবে সংঘর্ষের ফলে মোট গতিশক্তি সংরক্ষিত থাকবে না। এটি অস্থিতিস্থাপক সংঘর্ষ। [math]\\[/math]
+ গএখানে,বলটির শেষ বেগ, [math]\mathrm{v}=50 \mathrm{~ms}^{-1}[/math]
+বলটির ভর, [math]\mathrm{m}=300 \mathrm{~g}=0.3 \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ বলটির শেষ ভরবেগ,[math]\begin{aligned}\mathrm{mv} & =0.3 \mathrm{~kg} \times 50 \mathrm{~ms}^{-1} \\& =15 \mathrm{kgms}^{-1}\end{aligned}[/math]
+সময়, t = 1sবল, F = 24 Nবলটি মামুনের র‍্যাকেটে আঘাত করার সময় বেগ, u = ?আমরা জানি,ভরবেগের পরিবর্তন = বলের ঘাত[math]\therefore \mathrm{mv}-\mathrm{mv}=\mathrm{F} \times \mathrm{t}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{u}=\frac{\mathrm{mv}-\mathrm{Ft}}{\mathrm{m}}[/math]
+ [math]\begin{array}{l}=\frac{15-(24 \times 1)}{0.3 \mathrm{~kg}} \\\therefore \mathrm{u}=-30 \mathrm{~ms}^{-1}\end{array}[/math]
+সুতরাং টেনিস বলটি [math]30 \mathrm{~ms}^{-1}[/math]
+ বেগে মামুনের র‍্যাকেটে আঘাত করবে। (Ans.) [math]\\[/math]
+ ঘউদ্দীপক হতে পাই, টেনিস বলটির ভর, [math]\mathrm{m}=300 \mathrm{~g}=0.3 \mathrm{~kg}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পূর্বে বেগ, [math]\mathrm{u}=-30 \mathrm{~ms}^{-1}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পরের বেগ, [math]\mathrm{v}=50 \mathrm{~ms}^{-1}[/math]
+বল, F = 24 Nসময়, t =1 sটেনিস বলটির র‍্যাকেটে আঘাত করার পূর্বে ভরবেগ, [math]\mathrm{mu}=0.3 \mathrm{~kg} \times\left(-30 \mathrm{~ms}^{-1}\right)=-9 \mathrm{kgms}^{-1}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পরে ভরবেগ, [math]\mathrm{mv}=0.3 \mathrm{~kg} \times 50 \mathrm{~ms}^{-1}=15 \mathrm{kgms}^{-1}[/math]
+টেনিস বলটির র‍্যাকেটে আঘাত করার পরে ভরবেগ, [math]\mathrm{mv}=0.3 \mathrm{~kg} \times 50 \mathrm{~ms}^{-1}=15 \mathrm{kgms}^{-1}[/math]
+ [math]\therefore[/math]
+ ভরবেগের পরিবর্তন,[math]\begin{array}{l}=\mathrm{mv}-\mathrm{mu} \\=15 \mathrm{kgms}^{-1}-\left(-9 \mathrm{kgms}^{-1}\right) \\=15 \mathrm{kgms}^{-1}+9 \mathrm{kgms}^{-1} \\=24 \mathrm{kgms}^{-1}\end{array}[/math]
+আমরা জানি, বলের ঘাত = বল [math]\times[/math]
+ সময় [math]=24 \mathrm{~N} \times 1 \mathrm{~s}=24 \mathrm{kgms}^{-1}[/math]
+সুতরাং “বলের ঘাত ভরবেগের পরিবর্তনের সমান।
+
+Explanation:
+ব্যাখ্যা:
+
+ক কোনো বিচ্ছিন্ন সিস্টেমে বাহ্যিক বল না থাকলে বা বাহ্যিক ঘাত শূন্য হলে সিস্টেমের মোট ভরবেগ স্থির থাকে (মোট ভরবেগ সংরক্ষিত থাকে)।
+
+খ অস্থিতিস্থাপক সংঘর্ষ হলো এমন সংঘর্ষ যেখানে মোট ভরবেগ সংরক্ষিত থাকে কিন্তু মোট কাইনেটিক শক্তি সম্পূর্ণরূপে সংরক্ষিত হয় না (কিছু শক্তি বিকৃতির বা তাপের আকারে চলে যায়)।
+
+গ বলের ভর [math]m=300\ \mathrm{g}=0.3\ \mathrm{kg}[/math], র‌্যাকেটের ঘাত [math]F\Delta t=24\times1=24\ \mathrm{N\cdot s}[/math]। ধরে নেই আঘাতকালে বেগ [math]v_i[/math] এবং ফিরে যাওয়ার বেগ [math]v_f=50\ \mathrm{m/s}[/math] (বিপরীত দিক ধরা হলে চিহ্ন অনুক্রমিক), তাহলে [math]m(v_f-v_i)=24[/math] => [math]0.3(50-v_i)=24\Rightarrow v_i=-30\ \mathrm{m/s}[/math]. সুতরাং আঘাতের বেগের পরিমাণ ছিল [math]30\ \mathrm{m/s}[/math] এবং দিকটি ফিরে যাওয়ার বেগের বিপরীত।
+
+ঘ গাণিতিকভাবে যাচাই: ঘাত [math]=24\ \mathrm{N\cdot s}[/math], ভরবেগের পরিবর্তন [math]\Delta p=m(v_f-v_i)=0.3[50-(-30)]=0.3\times80=24\ \mathrm{N\cdot s}[/math]; তাই ঘাত এবং ভরবেগের পরিবর্তন সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 406831)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিক দিকে গতিশীল 50 g ভরের একটি বল [math]20 \mathrm{~cm} \mathrm{~s}^{-1}[/math] বেগে একটি দেয়ালে লম্বভাবে ধাক্কা খেয়ে [math]10 \mathrm{\ cms}^{-1}[/math] বেগে বিপরীত নিয়ে ফিরে গেলে বলের ঘাত কত হবে?
+
+Options:
+
+
+Correct Answer: A.
+
+Solution:
+
+
+Explanation:
+বলের ভর [math]0.05\ \mathrm{kg}[/math], প্রাথমিক গতি [math]v_i=+0.2\ \mathrm{m/s}[/math] এবং প্রত্যাবর্তন গতি [math]v_f=-0.1\ \mathrm{m/s}[/math] হলে ইমপালস [math]\Delta p=m(v_f-v_i)=0.05(-0.1-0.2)=-0.015\ \mathrm{kg\,m/s}[/math]. অতএব ঘাতের মান [math]0.015\ \mathrm{N\,s}[/math] এবং এটি প্রাথমিক গতির বিপরীত দিকে।
+
+Sub-Questions:
+

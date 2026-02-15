@@ -1,0 +1,2831 @@
+================================================================================
+Question #1 (ID: 428073)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পাশের চিত্রে একটি বিবর্ধক কাচ দেখানো হয়েছে। সাধারণত যেখানে খুব বেশি বিবর্ধনের প্রয়োজন হয় না সেখানে এটি ব্যবহৃত হয় । যেমন -লেখা, হাতের ছাপ, অতি ক্ষুদ্র যন্ত্রপাতি ইত্যাদি দেখার কাজে এটি ব্যবহার করা হয়।
+
+
+[Image]
+
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, বিবর্ধক কাচের ফোকাস দূরত্ব যত কম হবে তার বিবর্ধন ক্ষমতা তত বৃদ্ধি পাবে।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরা যাক, একটি সরল অণুবীক্ষণ যন্ত্রের উত্তল লেন্স এর ফোকাস দূরত্ব f অপেক্ষা কম দূরত্বে প্রধান অক্ষের ওপর লম্বভাবে একটি বস্তু স্থাপন করা হয়েছে। এখন লেন্সের পিছনে বস্তুটি রাখলে চোখের স্পষ্ট দৃষ্টির নিকট বিন্দুতে তার সিধা, অবাস্তব ও আকারে বড় প্রতিবিম্ব গঠিত হয়। এখন লেন্সের সাধারণ সমীকরণ হতে অবাস্তব প্রতিবিম্বের ক্ষেত্রে লেখা যায় ।[math]-\frac{1}{v}+\frac{1}{u}=\frac{1}{f}[/math]
+ [:: উত্তল লেন্সে f (+ve)][বিম্ব অবাস্তব বলে v ঋণাত্মক]অথবা, [math]\frac{1}{u}=\frac{1}{v}+\frac{1}{f}[/math]
+ [math]\frac{\mathrm{v}}{\mathrm{u}}=1+\frac{\mathrm{v}}{\mathrm{f}}[/math]
+ [উভয় পক্ষকে v দ্বারা গুণ করে][math]\therefore m=\frac{v}{u}=1+\frac{v}{f}[/math]
+সমীকরণ হতে দেখা যায়, লেন্সের ফোকাস দূরত্ব যত কম হবে তার বিবর্ধন ক্ষমতা তত বৃদ্ধি পাবে।
+
+Explanation:
+ঘ যদি লেন্স ব্যবহার করে চিত্রটি অনন্তে রাখা হয়, তাহলে চোখে পড়ার কোণীয় আকার হবে [math]\theta \approx y/f[/math] এবং স্বাভাবিক দূরত্বে (দৃষ্টিসীমা [math]D=25\,cm[/math]) একই বস্তুর কোণীয় আকার [math]\theta_0 \approx y/D[/math], সুতরাং বিবর্ধন [math]M=\theta/\theta_0=(y/f)/(y/D)=D/f[/math]. তাই [math]M\propto 1/f[/math], অর্থাৎ ফোকাস দূরত্ব [math]f[/math] যত ছোট হবে বিবর্ধন ক্ষমতা তত বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 428074)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.05m[/math] দীর্ঘ একটি বস্তু একটি উত্তল লেন্সের সামনে অবস্থিত এবং লেন্সের অপর পার্শ্বে [math]1m[/math] দূরে একটি পর্দার উপর [math]0.25m[/math] দীর্ঘ একটি প্রতিবিম্ব পাওয়া গেল। লেন্সের ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.166m[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,লক্ষ্যবস্তুর দৈর্ঘ্য, [math]l=0.05m[/math]
+প্রতিবিম্বের দৈর্ঘ্য, [math]l^{\prime}=0.25 \ m[/math]
+প্রতিবিম্বের দূরত্ব, [math]v=1m \ [ \because[/math]
+ বিম্ব বাস্তব [math]][/math]
+লেন্সের ফোকাস দূরত্ব, [math]f=?[/math]
+ [math]\\[/math]
+আমরা জানি,রৈখিক বিবর্ধন,[math]\begin{array}{c} m=\frac{l^{\prime}}{l}=\frac{v}{u} \\ \frac{v}{u}=\frac{0.25 \mathrm{~m}}{0.05 \mathrm{~m}}=5 \\ \therefore \mathrm{v}=5 \mathrm{u} \Rightarrow \mathrm{u}=\frac{\mathrm{v}}{5} \end{array}[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{1}{f}=\frac{1}{v}+\frac{1}{u}=\frac{1}{v}+\frac{1}{\frac{v}{5}} \\ \therefore \begin{aligned} \therefore \frac{1}{f} & =\frac{6}{v}=\frac{6}{1 m} \\ \therefore f & =\frac{1}{6} \mathrm{~m} \\ & =0.166 \mathrm{~m} \text { (Ans.) } \end{aligned} \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিচ্ছবি/বস্তু অনুপাত m = প্রতিচ্ছবি দৈর্ঘ্য / বস্তু দৈর্ঘ্য = [math]0.25/0.05=5[/math], তাই [math]u=v/m=1/5=0.2\ \text{m}[/math]. লেন্স সূত্র ব্যবহার করলে [math]\tfrac{1}{f}=\tfrac{1}{v}+\tfrac{1}{u}=1+\!5=6[/math], তাই [math]f=\tfrac{1}{6}\ \text{m}\approx0.167\ \text{m}=16.7\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 428075)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নভোদূরবীক্ষণ যন্ত্রের স্বাভাবিক ফোকাসিং এর ক্ষেত্রে বিবর্ধন ক্ষমতা [math]8[/math] এবং দৈর্ঘ্য [math]36cm[/math] লেন্সদ্বয়ের ফোকাস দূরত্ব বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]f_{e}=4 \ cm,f_{o} = 32 \ cm[/math]
+
+Explanation:
+ব্যাখ্যা: নভোদূরবীক্ষণে স্বাভাবিক ফোকাসিং হলে বিবর্ধনগত অনুপাত [math]M=\dfrac{f_{o}}{f_{e}}=8[/math] এবং যন্ত্রের দৈর্ঘ্য [math]f_{o}+f_{e}=36\ \text{cm}[/math]. তাই [math]f_{o}=8f_{e}[/math], [math]9f_{e}=36[/math] থেকে [math]f_{e}=4\ \text{cm}[/math] এবং [math]f_{o}=32\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 428076)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+লেন্স থেকে [math]30 \ cm[/math] দূরে কোনো বস্তুকে রাখলে অবাস্তব বিম্ব গঠিত হয়। প্রতিবিম্বের বিবর্ধন [math]\frac{2}{3}[/math] হলে প্রতিবিম্বের অবস্থান, লেন্সের ফোকাস দূরত্ব নির্ণয় করো। লেন্সটির প্রকৃতি কী?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-20 \ cm,-60 \ cm,[/math]
+লেন্সটি অবতল[math]\\[/math]
+ [math][/math]
+এখানে,বিবর্ধন, [math]m=\frac{2}{3}[/math]
+বস্তুর দূরত্ব, [math]u=30 \ cm[/math]
+প্রতিবিম্বের অবস্থান, [math]v=?[/math]
+ফোকাস দূরত্ব, [math]f=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{c} |\mathrm{m}|=\frac{\mathrm{v}}{\mathrm{u}} \\ \Rightarrow \left|\frac{2}{3}\right|=\frac{\mathrm{v}}{30} \\ \therefore \mathrm{v}=\pm 20 \mathrm{~cm} \end{array}[/math]
+কিন্তু প্রশ্নমতে, বিম্ব অবাস্তব।[math]\therefore \mathrm{v}=-20 \mathrm{~cm} \text { (Ans.) }[/math]
+আবার,[math]\begin{array}{c} \frac{1}{u}+\frac{1}{v}=\frac{1}{f} \\ \Rightarrow \frac{1}{30}-\frac{1}{20}=\frac{1}{f} \\ \therefore f=-60 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+এখান, ফোকাস দূরত্ব, [math]f=(-ve)[/math]
+ [math]\therefore[/math]
+ লেন্সটি অবতল [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: লিনিয়ার বিবর্ধন থেকে [math]|m|=\dfrac{|v|}{|u|}[/math], তাই [math]|v|=\tfrac{2}{3}\times30=20\ \text{cm}[/math]; ছবিটি অবাস্তব হওয়ায় এটি বস্তু-পাশেই থাকে, তাই [math]v=-20\ \text{cm}[/math] (লেন্স থেকে 20 cm, একই পাশে)। লেন্স সূত্রে [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}=\dfrac{1}{-20}+\dfrac{1}{-30}=-\dfrac{1}{12}[/math], ফলে [math]f=-12\ \text{cm}[/math]। ঋণাত্মক ফোকাস দূরত্ব দেখায় লেন্সটি বিকেন্দ্রীক (concave/diverging)।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 428077)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উভোতল লেন্সের [math](\mu = 1.56)[/math] উভয় তলের ব্যাসার্ধ [math]20 \ cm[/math] লেন্স থেকে [math]20 \ cm[/math] দূরে একটি বস্তু রাখলে প্রতি বিম্ব কোথায় গঠিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]166.915 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,লেন্সের উপাদানের প্রতিসরাংক, [math]\mu = 1.56[/math]
+এক তলের ব্যাসার্ধ, [math]r_{1}=20 \ cm[/math]
+অন্য তলের ব্যাসার্ধ, [math]r_{2}=-20 \ cm[/math]
+লেন্সের ফোকাস দূরত্ব, [math]=f[/math]
+বস্তুর দূরত্ব, [math]u=20 \ cm[/math]
+বিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \frac{1}{f} & =(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ \Rightarrow \frac{1}{f} & =(1.56-1)\left(\frac{1}{20}-\frac{1}{-20}\right) \\ \Rightarrow f & =17.86 \mathrm{~cm} \end{aligned}[/math]
+আবার,[math]\frac{1}{\mathrm{f}}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}}[/math]
+$ ⇒ 1 v = 1 f − 1 u ⇒ 1 v = 1 17.86 − 1 20 ∴ v = 166.915  c m (Ans.)
+
+Explanation:
+প্রথমে লেন্সমেকারের সূত্র প্রয়োগ করলে [math]\frac{1}{f}=(\mu-1)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)=(1.56-1)\left(\frac{1}{20}-\frac{-1}{20}\right)=0.56\cdot\frac{1}{10}=0.056[/math], তাই [math]f\approx17.86\ \text{cm}[/math]. তারপর লেন্স সূত্রে [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}[/math] (যেখানে বস্তু দুরত্ব [math]u=20\ \text{cm}[/math]) দিলে [math]\frac{1}{v}=0.056-0.05=0.006[/math], ফলে [math]v\approx166.7\ \text{cm}[/math]; কাজেই প্রতিম্ব লেন্সের বিপরীত পাশে বাস্তব (inverted) এবং প্রায় [math]166.7\ \text{cm}[/math] দূরে গঠিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 428078)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+উত্তল লেন্স থেকে [math]15 \ cm[/math] দূরে বস্তু রাখলে দ্বিগুণ বিবর্ধিত বাস্তব বিম্ব গঠিত হয়। বস্তুটিকে লেন্স থেকে কত দূরে রাখলে [math]2[/math] গুণ বিবর্ধিত অবাস্তব বিম্ব গঠিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]5 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিবর্ধন, [math]m=2[/math]
+বস্তুর প্রথম দূরত্ব, [math]u_{1}=15 \ cm[/math]
+১ম ক্ষেত্রে,বিম্বের দূরত্ব, [math]=v[/math]
+ফোকাস দূরত্ব, [math]=f[/math]
+বস্তুর পরবর্তী দূরত্ব, [math]u_{2}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l}|m|=\frac{v}{u_{1}}\\\Rightarrow |2|=\frac{v}{15}\end{array}[/math]
+ [math]\Rightarrow \ v=30 \ cm[/math]
+[বিম্ব বাস্তব]আমরা জানি,[math]\begin{aligned} \frac{1}{f} & =\frac{1}{u_{1}}+\frac{1}{v} \\ \Rightarrow & =\left(\frac{1}{15}+\frac{1}{30}\right)^{-1} \\ \therefore f & =10 \mathrm{~cm} \end{aligned}[/math]
+মনে করি, বস্তুটিকে [math]u_{2}[/math]
+দূরত্বে স্থাপন করলে দ্বিগুণ বিবাধিত অবাস্তব প্রতিবিম্ব গঠিত হয়।[math]v_{2}=-2u_{2}[/math]
+ [ [math]\because[/math]
+ বিম্ব অবাস্তব][math]\begin{array}{l} \quad \frac{1}{\mathrm{u}_{2}}+\frac{1}{\mathrm{v}_{2}}=\frac{1}{f} \\ \Rightarrow \frac{1}{\mathrm{u}_{2}}-\frac{1}{2 \mathrm{u}_{2}}=\frac{1}{\mathrm{f}} \\ \Rightarrow \mathrm{u}_{2}=\frac{\mathrm{f}}{2} \\ \Rightarrow \mathrm{u}_{2}=\frac{10}{2} \mathrm{~cm} \\ \therefore \mathrm{u}_{2} = 5 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+প্রথমে দেখা যায় বাস্তব দ্বিগুণ বিম্বের জন্য (মাপ হিসেবে) [math]v=2u=30\ \text{cm}[/math], সুতরাং লেন্স সূত্রে [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}=\frac{1}{30}+\frac{1}{15}=\frac{1}{10}[/math] থেকে [math]f=10\ \text{cm}[/math]. অবাস্তব (উঠতি) দ্বিগুণ বিম্বের জন্য [math]v=-2u[/math] ধরে লেন্স সূত্র দেয় [math]\frac{1}{f}=\frac{1}{-2u}+\frac{1}{u}=\frac{1}{2u}, তাই [math]u=\frac{f}{2}=\frac{10}{2}=5\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 428079)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{3}{2}[/math] প্রতিসরণাঙ্কের একটি উত্তল লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে [math]30 \ cm[/math] ও [math]60cm[/math] । লেন্সের [math]50cm[/math] সামনে বস্তু রাখলে [math]200 cm[/math] পেছনে বিম্ব সৃষ্টি হয়। পানির প্রতিসরণাঙ্ক 43।
+
+Options:
+গ. বাতাসে লেন্সটির ফোকাস দূরত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ ব্যাখ্যা: লেন্স-মেকারের সূত্র অনুযায়ী [math]\frac{1}{f}=(n-1)\!\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math] যেখানে [math]n=\tfrac{3}{2},\;R_1=30\ \text{cm},\;R_2=-60\ \text{cm}[/math], ফলে [math]\frac{1}{f}=\tfrac{1}{2}\left(\frac{1}{30}+\frac{1}{60}\right)=\frac{1}{40}[/math] এবং [math]f=40\ \text{cm}[/math]. এছাড়া পাতলা লেন্স সূত্রে [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}=\frac{1}{200}+\frac{1}{50}=\frac{1}{40}[/math] হওয়ায় একই ফল মেলে।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 428080)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{3}{2}[/math] প্রতিসরণাঙ্কের একটি উত্তল লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে [math]30 \ cm[/math] ও [math]60cm[/math] । লেন্সের [math]50cm[/math] সামনে বস্তু রাখলে [math]200 cm[/math] পেছনে বিম্ব সৃষ্টি হয়। পানির প্রতিসরণাঙ্ক [math]\frac{4}{3}[/math]।
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, পানিতেডুবালে লেন্সটির ফোকাস দূরত্ব চারগুণ হয়ে যায়।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ঘ ব্যাখ্যা: লেন্সমেকারের সূত্র অনুযায়ী [math]\frac{1}{f}=(n-1)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math]; এখানে [math]n=\frac{3}{2},\ R_1=30\ \text{cm},\ R_2=-60\ \text{cm}[/math], তাই [math]\frac{1}{f}=\frac{1}{2}\left(\frac{1}{30}-\frac{1}{-60}\right)=\frac{1}{40}[/math] এবং [math]f=40\ \text{cm}[/math]. পানিতে লেন্সের আপেক্ষিক প্রদাহিতা [math]n'=\frac{n_{\text{lens}}}{n_{\text{water}}}=\frac{3/2}{4/3}=\frac{9}{8}[/math] হলে [math]\frac{1}{f'}=(n'-1)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)=\frac{1}{8}\cdot\frac{1}{20}=\frac{1}{160}[/math], ফলে [math]f'=160\ \text{cm}=4f[/math], অর্থাৎ ফোকাস দূরত্ব চারগুণ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 428081)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \ cm[/math] ফোকাস দূরত্ববিশিষ্ট একটি উত্তল লেন্স থেকে [math]10cm[/math] দূরে একটি বস্তু স্থাপন করা হলো। বিম্বের অবস্থান, প্রকৃতি ও বিবর্ধন বের করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]20 \ cm[/math] সামনে, অবাস্তব, সোজা; ২।
+
+Explanation:
+ব্যাখ্যা: লেন্স সূত্র ব্যবহার করি: [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}[/math] এখানে [math]f=20\ cm[/math], [math]u=10\ cm[/math], তাই [math]\dfrac{1}{v}=\dfrac{1}{f}-\dfrac{1}{u}=\dfrac{1}{20}-\dfrac{1}{10}=-\dfrac{1}{20}[/math] ⇒ [math]v=-20\ cm[/math], অর্থাৎ বিম্ব লেন্সের একই পাশে 20 cm স্থানে (ভার্চুয়াল)। বিবর্ধন [math]m=-\dfrac{v}{u}=-\dfrac{-20}{10}=2[/math], তাই বিম্বটি উত্থিত (erect) ও 2 গুণ বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 428082)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]0.10 m[/math] লেন্সটির [math]0.28 \ m[/math] সামনে একটি বস্তু রাখা হলো। বিম্বের অবস্থান ও প্রকৃতি নি র্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.16 \ m[/math] পিছনে বাস্তব ও উল্টা।
+
+Explanation:
+ব্যাখ্যা: উত্তল লেন্সের সূত্র [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}[/math] প্রয়োগ করলে [math]\frac{1}{v}=\frac{1}{f}-\frac{1}{u}=10-\tfrac{25}{7}=\tfrac{45}{7}\ \text{m}^{-1}[/math], তাই [math]v=\tfrac{7}{45}\ \text{m}\approx0.156\ \text{m}[/math]। ফলে বিম্ব লেন্সের পিছনে বাস্তব ও উল্টানো হবে এবং মানগত আকার [math]m=-\dfrac{v}{u}\approx-0.556[/math], অর্থাত্ চিত্রটি উল্টানো ও ছোট (প্রায় 0.56 গুণ)।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 428083)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে একটি কাচ লেন্সের ফোকাস দূরত্ব [math]20cm[/math] হলে পানিতে এর ফোকাস দূরত্ব কত? বায়ুর সাপেক্ষে কাচের প্রতিসরণাঙ্ক [math]\f rac{3}{2}[/math] ও পানির প্রতিসরণাঙ্ক [math]\frac{4}{3}[/math] ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]80cm[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে, লেন্সের প্রতিসরাঙ্ক, [math]\mu_{2}=\frac{3}{2}[/math]
+ধরি, যখন [math]\mu_{1}=1[/math]
+ (বাতাসে), তখন ফোকাস দূরত্ব, [math]f_{1}=20 \mathrm{~cm}[/math]
+যখন, [math]\mu_{1}=\frac{4}{3}[/math]
+ (পানিতে), তখন ফোকাস দূরত্ব, [math]=f_{2}=?[/math]
+লেন্সের দুই পৃষ্ঠের বক্রতার ব্যাসার্ধ [math]r_{1}[/math]
+ এবং [math]r_{2}[/math]
+ হলে,আমরা জানি,[math]\frac{1}{f}=\left(\frac{\mu_2}{\mu_{1}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)[/math]
+বাতাসের ক্ষেত্রে,[math]\begin{aligned} \frac{1}{f_{1}} & =\left(\frac{\frac{3}{2}}{1}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ & =\left(\frac{3}{2}-1\right) \cdot\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \ldots \ldots \ldots . (ii)\end{aligned}[/math]
+পানির ক্ষেত্রে,[math]\begin{aligned} \frac{1}{f_{1}} & =\left(\frac{\frac{3}{2}}{\frac{4}{3}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ & =\left(\frac{9}{8}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \end{aligned}[/math]
+ [math](i) \div (ii)[/math]
+ করে পাই,[math]\begin{aligned} \frac{f_{2}}{f_{1}}=\frac{8}{2} & =4 \\ \Rightarrow f_{2}=4 f_{1} & =4 \times 20 \mathrm{~cm} \\ & =80 \mathrm{~cm} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পাতলা লেন্সের যে সমীকরণটি মাধ্যম অনুযায়ী প্রযোজ্য তা হল [math]\frac{1}{f_m}=\left(\frac{n_{\text{lens}}}{n_m}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math]। বাতাসে ([math]n_{\text{air}}=1[/math]) ও পানিতে focal length’র অনুপাত থেকে পাওয়া যায় [math]f_{\text{water}}=f_{\text{air}}\frac{(n_{\text{lens}}-1)}{(n_{\text{lens}}/n_{\text{water}}-1)}[/math]। এখানে [math]n_{\text{lens}}=3/2,\;n_{\text{water}}=4/3[/math] হলে [math]n_{\text{lens}}/n_{\text{water}}=9/8[/math], ফলে [math]f_{\text{water}}=20\times\frac{1/2}{1/8}=20\times4=80\text{ cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 428085)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নভো-দূরবীক্ষণ যন্ত্রের বিবর্ধন [math]20[/math] এবং দৈর্ঘ্য [math]16 \ cm[/math] । লেন্স দুটির ফোকাস দূরত্ব নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.761 \ cm,15.22 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,বিবর্ধন, [math]m=20[/math]
+যন্ত্রের দৈর্ঘ্য, [math]L=16 \ cm[/math]
+ [math]f_{o}[/math]
+ এবং [math]f_{e}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{r} m=\frac{\mathrm{f}_{0}}{\mathrm{f}_{e}} \\ \Rightarrow 20=\frac{\mathrm{f}_{0}}{\mathrm{f}_{e}} \\ \therefore \mathrm{f}_{0}=20 \mathrm{f}_{e} \ldots \ldots \ldots \end{array}[/math]
+আবার, [math]L=f_{o}+f_{e}[/math]
+ [math]\begin{array}{l} \Rightarrow 16=20 f_{e}+f_{e}=21 f_{e} \\ \therefore f_{e}=0.761 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+ [math](i)[/math]
+ নং হতে, [math]f_{o}=15.22 \mathrm{~cm} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি সাধারণ নভো-দূরবীক্ষণে বিবর্ধন এবং টিউব‑দৈর্ঘ্য সম্পর্ক দিয়ে নেওয়া হয়: [math]M=\dfrac{f_{\rm objective}}{f_{\rm eyepiece}}=20[/math] এবং [math]L=f_{\rm objective}+f_{\rm eyepiece}=16\ \text{cm}[/math]। প্রথম থেকে [math]f_{\rm objective}=20\,f_{\rm eyepiece}[/math] এবং বসিয়ে দিলে [math]21\,f_{\rm eyepiece}=16[/math], ফলে [math]f_{\rm eyepiece}=\dfrac{16}{21}\ \text{cm}\approx0.762\ \text{cm}[/math] এবং [math]f_{\rm objective}=20\times\dfrac{16}{21}=\dfrac{320}{21}\ \text{cm}\approx15.238\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 428087)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ু মাধ্যমে একটি কাচের লেন্সের ফোকাস দূরত্ব [math]25 \ cm[/math] | পানি মাধ্যমে এর ফোকাস দূরত্ব বের কর। পানি ও কাচের প্রতিস রাঙ্ক যথাক্রমে [math]\frac{4}{3}[/math] এবং [math]\frac{3}{2}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1m[/math]
+
+Explanation:
+ব্যাখ্যা: লেন্সের ক্ষমতা (power) মধ্যমে থাকা অনুপাতে পরিবর্তিত হয় এবং [math]\phi\propto\left(\frac{n_{\text{lens}}}{n_{\text{medium}}}-1\right)[/math] হয়।  
+অতএব বায়ুতে [math]\phi_{\text{air}}=\left(\frac{3/2}{1}-1\right)K=(1/2)K[/math] এবং পানিতে [math]\phi_{\text{water}}=\left(\frac{3/2}{4/3}-1\right)K=(1/8)K[/math], ফলে [math]f_{\text{water}}=f_{\text{air}}\frac{\phi_{\text{air}}}{\phi_{\text{water}}}=25\cdot\frac{1/2}{1/8}=100\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 428088)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক দর্শনের জন্য একটি নভো দূরবীক্ষণ যন্ত্রের লেন্স দুটির মধ্যকার দূরত্ব [math]0.18 \ m[/math] এবং এর বিবর্ধন ক্ষমতা [math]8[/math], লেন্স দু টির ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.16m[/math]
+ [math]\\[/math]
+ [math][/math]
+প্রশ্নমতে, [math]f_{o}+f_{c}=0.18 \mathrm{~m}[/math]
+এবং [math]\frac{\mathrm{f}_{\mathrm{o}}}{\mathrm{f}_{\mathrm{c}}}=8[/math]
+ [math]\therefore \quad f_{o}=8 f_{e} \ldots \ldots \ldots (ii)[/math]
+ [math](ii)[/math]
+ নং সমীকরণ হতে [math]f_{o}[/math]
+ এর মান [math](i)[/math]
+ নং সমীকরণে বসিয়ে পাই,[math]\begin{array}{l} \quad 8 f_{e}+f_{c}=0.18 \\ \Rightarrow 9 f_{e}=0.18 \\ \therefore f_{c}=0.02 \mathrm{~m} \quad \text { (Ans.) } \end{array}[/math]
+ [math](ii)[/math]
+ নং সমীকরণে [math]f_{e}[/math]
+ এর মান বসিয়ে পাই,[math]\mathrm{f}_{\mathrm{o}}=8 \times 0.02 \mathrm{~m}=0.16 \mathrm{~m} \text { (Ans.) }[/math]
+
+
+Explanation:
+স্বাভাবিক দর্শনের জন্য শেষ চিত্র অনন্তে হওয়ায় বিবর্ধন ও লেন্স-দূরত্বের সমীকরণ হল [math]M=\frac{f_o}{f_e}=8[/math] এবং [math]f_o+f_e=0.18\ \text{m}[/math]. এর থেকে [math]f_o=8f_e[/math] বসালে [math]9f_e=0.18[/math], ফলে [math]f_e=0.02\ \text{m}[/math] এবং [math]f_o=0.16\ \text{m}[/math]. তাই চশমা (eyepiece) ফোকাস [math]0.02\ \text{m}[/math] এবং উদ্দেশ্য (objective) ফোকাস [math]0.16\ \text{m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 428089)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য এবং অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]2 cm[/math] এবং [math]7cm[/math] এবং তাদের মধ্যবর্তী দূরত্ব [math]2 0 \ cm[/math] । অভিলক্ষ্যের সামনে কত দূরে কোনো বস্তু স্থাপন করলে অভিনেত্র হতে [math]25 \ cm[/math] দূরে তার প্রতিবিম্ব দেখা যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.48 \ cm[/math]
+
+Explanation:
+ব্যাখ্যা: চশমার সূত্র [math]1/f=1/v+1/u[/math] প্রয়োগ করে প্রথমে অভিনেত্রের জন্য অবজেক্ট দুরুত্ব বের করি; চূড়ান্ত প্রতিবিম্ব অভিনেত্রের বাম পাশে [math]25\ cm[/math] (অর্থাৎ [math]v_e=-25\ cm[/math]) হলে
+
+[math]\frac{1}{u_e}=\frac{1}{f_e}-\frac{1}{v_e}=\frac{1}{7}-\frac{1}{-25}=\frac{32}{175}\ \Rightarrow\ u_e=\frac{175}{32}\ cm.</math]
+
+এ থেকে অভিলক্ষ্য দ্বারা গঠিত আন্তঃচিত্রের অবস্থান [math]s'_o=20-u_e=\frac{465}{32}\ cm[/math]; অভিলক্ষ্যের ক্ষেত্রে [math]1/f_o=1/s'_o+1/u_o[/math] বসালে পাওয়া যায় [math]u_o=\frac{930}{401}\ cm\approx2.32\ cm[/math]. তাই অভিলক্ষ্যের সামনে বস্তুটি প্রায় [math]2.32\ cm[/math] দূরে স্থাপন করলে অভিনেত্র থেকে [math]25\ cm[/math] দূরে তার প্রতিবিম্ব দেখা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 428090)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3[/math] বিবর্ধন ক্ষমতা বিশিষ্ট একটি নভো-দূরবীক্ষণ যন্ত্রের দৈর্ঘ্য [math]40 \ cm[/math] । অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]10 \ cm,30 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিবর্ধন,যন্ত্রের দৈর্ঘ্য, [math]m=3[/math]
+যন্ত্রের দৈর্ঘ্য, [math]L=40 \ cm[/math]
+অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{o}=?[/math]
+অভিনেত্রের ফোকাস দূরত্ব, [math]f_{e}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \mathrm{m}=\frac{f_{o}}{f_{\mathrm{e}}} \\ \Rightarrow 3=\frac{L_{o}}{f_{\mathrm{c}}} \\ \Rightarrow f_{\mathrm{o}}=3 f_{\mathrm{e}} \end{array}[/math]
+আবার,[math]\begin{array}{l} \mathrm{L}=f_{\mathrm{o}}+f_{\mathrm{c}} \\ \Rightarrow 40=3 f_{\mathrm{e}}+f_{\mathrm{c}} \\ \Rightarrow 4 f_{\mathrm{e}}=40 \\ \therefore f_{\mathrm{e}}=10 \mathrm{~cm} \text { (Ans.) } \\ \therefore f_{\mathrm{o}}=3 \times 10=30 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+সমাধান: নভো-দূরবীক্ষণে সাধারন সমন্বয়ে দৈর্ঘ্য [math]L=f_o+f_e[/math] এবং বিবর্ধন ক্ষমতা (মাত্রা) [math]M=\dfrac{f_o}{f_e}[/math]. এখানে [math]M=3[/math] এবং [math]L=40\ \text{cm}[/math], তাই [math]f_o=3f_e[/math] এবং [math]3f_e+f_e=40\ \text{cm}[/math]. সমাধান দিলে [math]f_e=10\ \text{cm},\quad f_o=30\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 428091)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+স্লাইড পর্যবেক্ষণের জন্য জটিল অণুবীক্ষণ যন্ত্র ব্যবহার করা হচ্ছে যার অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]0.4\ cm[/math] ও [math]5\ cm[/math] এতে প্রথম বিশ্ব লেন্স হতে [math]20\ cm[/math] দূরে এবং চূড়ান্ত বিম্ব চোখের নিকট বিন্দুতে তৈরি হয়। ক্ষুদে বিজ্ঞানী লেন্স দুটির অবস্থান বিনিময় করে দূরবীক্ষণ যন্ত্র বানিয়ে [math]0.5626\ D[/math] ক্ষমতার একটি উত্তল লেন্স অভিনেত্রের সাথে যুক্ত করে দাবী করল চূড়ান্ত বিবর্ধন একই এবং চূড়ান্ত বিম্ব নিকট বিন্দুতে আছে।
+
+Options:
+গ. স্লাইডটি অভিলক্ষ্য হতে কত দূরে আছে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{0}=0.4 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিলক্ষ্য হতে বিশ্বের দূরত্ব, [math]v_{0}=20 \mathrm{~cm}[/math]
+আমরা জানি,[math]\begin{array}{l} \quad ~\frac{1}{f_{0}}=\frac{1}{u_{0}}+\frac{1}{v_{0}}\\ \Rightarrow \frac{1}{u_{0}}=\frac{1}{f_{0}}-\frac{1}{v_{0}} \\ \Rightarrow \frac{1}{u_{0}}=\frac{1}{0.4 \mathrm{~cm}}-\frac{1}{20 \mathrm{~cm}} \\ \Rightarrow u_{0}=0.41 \mathrm{~cm}\end{array}[/math]
+অতএব, স্লাইডটি অভিলক্ষ্য হতে 0.41 cm দুরে আছে।
+
+Explanation:
+গ ব্যাখ্যা: লেন্স সূত্র প্রয়োগ করলে [math]\tfrac{1}{f}=\tfrac{1}{v}+\tfrac{1}{u}[/math], এখানে [math]f=0.4\ \text{cm}[/math], [math]v=20\ \text{cm}[/math], সুতরাং [math]\tfrac{1}{u}=\tfrac{1}{0.4}-\tfrac{1}{20}=2.5-0.05=2.45\ \text{cm}^{-1}[/math]. ফলে [math]u=\tfrac{1}{2.45}\approx0.408\ \text{cm}[/math], অর্থাৎ স্লাইডটি অভিলক্ষ্য থেকে প্রায় [math]0.408\ \text{cm}[/math] দূরে।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 428092)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Notre Dame College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+স্লাইড পর্যবেক্ষণের জন্য জটিল অণুবীক্ষণ যন্ত্র ব্যবহার করা হচ্ছে যার অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]0.4\ cm[/math] ও [math]5\ cm[/math] এতে প্রথম বিশ্ব লেন্স হতে [math]20\ cm[/math] দূরে এবং চূড়ান্ত বিম্ব চোখের নিকট বিন্দুতে তৈরি হয়। ক্ষুদে বিজ্ঞানী লেন্স দুটির অবস্থান বিনিময় করে দূরবীক্ষণ যন্ত্র বানিয়ে [math]0.5626\ D[/math] ক্ষমতার একটি উত্তল লেন্স অভিনেত্রের সাথে যুক্ত করে দাবী করল চূড়ান্ত বিবর্ধন একই এবং চূড়ান্ত বিম্ব নিকট বিন্দুতে আছে।
+
+Options:
+ঘ. ক্ষুদে বিজ্ঞানীর দাবী যৌক্তিক কী না? গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+দূরবীক্ষণ যন্ত্রের অভিনেত্রের ফোকাস দূরত্ব, [math]f_{\mathrm{e}}^{\prime}=0.4 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+সংযুক্ত লেন্সের ক্ষমতা,[math]\hspace{2.5 cm}\begin{array}{l} \quad ~\mathrm{P}=0.5626 \mathrm{D} \\ \therefore ~\frac{1}{f}=0.5626 \\ \Rightarrow f=1.78 \mathrm{~m} \\ \therefore ~ f=178 \mathrm{~cm} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+দূরবীক্ষণ যন্ত্রের অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{0}^{\prime}=5 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+অনুবীক্ষণ যন্ত্রের অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{0}=0.4 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+অনুবীক্ষণ যন্ত্রের অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{\mathrm{e}}=5 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিলক্ষ্য হতে বিশ্বের দূরত্ব, [math]v_{0}=20 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+স্পষ্টদর্শনের নিকট বিন্দু, D = 25cm[math]\hspace{1 cm}[/math]
+অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{0}=0.4 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিলক্ষ্য হতে বিশ্বের দূরত্ব, [math]v_{0}=20 \mathrm{~cm}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\frac{1}{f_{0}}=\frac{1}{u_{0}}+\frac{1}{v_{0}}\\ \Rightarrow \frac{1}{u_{0}}=\frac{1}{f_{0}}-\frac{1}{v_{0}} \\ \Rightarrow \frac{1}{u_{0}}=\frac{1}{0.4 \mathrm{~cm}}-\frac{1}{20 \mathrm{~cm}} \\ \Rightarrow u_{0}=0.41 \mathrm{~cm}\end{array}[/math]
+অতএব, স্লাইডটি অভিলক্ষ্য হতে 0.41 cm দুরে আছে।এখন, অভিনেত্রের তুল্য ফোকাস দূরত্ব [math]F_e[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\frac{1}{\mathrm{~F}_{\mathrm{e}}}=\frac{1}{f_{\mathrm{c}}^{\prime}}+\frac{1}{f} \\ \Rightarrow \frac{1}{\mathrm{~F}_{\mathrm{e}}}=\frac{1}{0.4 \mathrm{~cm}}+\frac{1}{178 \mathrm{~cm}} \\ \Rightarrow \mathrm{~F}_{\mathrm{e}}=0.4 \mathrm{~cm} \end{array}[/math]
+ [math]\therefore[/math]
+ দূরবীক্ষণ যন্ত্রের বিবর্ধন,[math]\hspace{1.5 cm}\begin{aligned} M^{\prime} & =\frac{f_{0}^\prime}{F_{e}}\left(1+\frac{F_{\mathrm{e}}}{D}\right) \\ \Rightarrow M^{\prime} & =\frac{5}{0.4} \times\left(1+\frac{0.4}{25}\right)=12.7 \end{aligned}[/math]
+এখন, অনুবীক্ষণ যন্ত্রের বীবর্ধন,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ M \frac{-\mathrm{v}_{0}}{\mathrm{u}_{0}} \times\left(1+\frac{\mathrm{D}}{f_{c}}\right) \\ \Rightarrow M=-\frac{20}{0.41} \times\left(1+\frac{25}{5}\right) \\ \Rightarrow M=-292.68 \\ \therefore\left|M^{\prime}\right|=292.68 \end{array}[/math]
+সুতরাং দেখা যাচ্ছে [math]\mathrm{M}^{\prime} 
+eq|\mathrm{M}|[/math]
+অর্থাৎ চূড়ান্ত বিবর্ধনের মান একই নয়।অতএব, ক্ষুদে বিজ্ঞানীর দাবি যৌক্তিক নয়।
+
+Explanation:
+ঘ না — যৌক্তিক নয়। প্রথমে 1/5=1/(-25)+1/u_e থেকে u_e=25/6 এবং লেন্স ভেদ L=20+25/6=145/6\ \text{cm}; উদ্দেশ্য লেন্সের জন্য 1/0.4=1/20+1/u_o থেকে u_o\approx0.408\ \text{cm}. লেন্স দুটি বদলে দিলে নতুন (ফ=5 cm) উদ্দেশ্য থেকে ভের্চুয়াল ইমেজ পাওয়া যায় v\approx-0.444\ \text{cm}, ফলে নতুন অক্ষের জন্য অবজেক্ট দূরত্ব u'\approx24.61\ \text{cm}; যোগ করা লেন্সসহ আইপিস ফোকাল লম্বা হবে f'=(250+0.5626)^{-1}\ \text{m}\approx0.3991\ \text{cm}, এবং লেন্স সূত্রে শেষ ইমেজের অবস্থান ফলায় v'\approx+0.406\ \text{cm} — অর্থাৎ এটি বাস্তব ইমেজ এবং নিকটবিন্দুতে নয় এবং বিবর্ধনও ভিন্ন।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 428093)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+একজন ব্যক্তির স্পষ্ট দর্শনের ন্যূনতম দূরত্ব [math]40\ cm[/math] সে স্পষ্ট দর্শনের ন্যূনতম দূরত্বে একট চিকন বস্তুকে বিবর্ধিত করে দেখার জন্য [math]2\ cm[/math] ফোকাস দূরত্বের একটি উত্তল লেন্স ব্যবহার করে। কিন্তু অধিক বিবর্ধনের জন্য একই ফোকাস দূরত্বের অভিনেত্র বিশিষ্ট একটি অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য হিসাবে উক্ত লেন্সটি ব্যবহার করেন। অবশেষে তিনি স্পষ্ট দর্শনের ন্যূনতম দূরত্বে পূর্বের তুলনায় দ্বিগুণ বিবর্ধিত প্রতিবিম্ব দেখতে পান।
+
+Options:
+গ. উদ্দীপক অনুসারে ব্যক্তির ন্যূনতম দূরত্বে প্রতিবিম্ব সৃষ্টির ক্ষেত্রে বিবর্ধনের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে, ব্যক্তির স্পষ্ট দর্শনের নূন্যতম দূরত্ব[math]\qquad \qquad D = 40 ~cm = 0.4 ~m[/math]
+ব্যবহৃত লেন্সের ফোকাস দূরত্ব, [math]f_{\mathrm{e}}=2 \mathrm{~cm}=0.02 \mathrm{~m}[/math]
+অর্থাৎ বিবর্ধন,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\mathrm{m}=1+\frac{\mathrm{D}}{f_{\mathrm{e}}} \\ \Rightarrow \mathrm{m}=1+\frac{0.4}{0.02} \\ \Rightarrow \mathrm{~m}=21 \end{array}[/math]
+সুতরাং ঐ ব্যক্তির ন্যূনতম দূরত্বে প্রতিবিম্ব সৃষ্টির জন্য বিবর্ধন m = 21
+
+Explanation:
+গ ব্যাখ্যা: একটি লেন্স যখন চিত্রকে ন্যূনতম দর্শনের দূরত্বে (D) নিয়ে আসে তখন তার বিবর্ধন হয় [math]M=1+\frac{D}{f}[/math]। এখানে [math]D=40\ \text{cm}[/math] ও [math]f=2\ \text{cm}[/math], সুতরাং [math]M=1+\frac{40}{2}=1+20=21[/math] — তাই বিবর্ধন হচ্ছে [math]21[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 428094)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Holy Cross College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একটি উভোত্তল লেন্সের বক্রতার ব্যাসার্ধদ্বয় [math]5\ cm[/math] করে এবং উপাদানের প্রতিসরাঙ্ক [math]1.5[/math]। উক্ত লেন্সটি একটি যৌগিক অণুবীক্ষণ যন্ত্রের অভিনেত্রে স্থাপন করে, [math]5\ cm[/math] ফোকাস দূরত্বের অপর একটি লেন্স অভিলক্ষ্যে স্থাপন করলে যন্ত্রে [math]300[/math] গুণ বিবর্ধিত বিম্ব পাওয়া সম্ভব।
+
+Options:
+গ. উদ্দীপকে উল্লিখিত অভিনেত্রের লেন্সটির ফোকাস দূরত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, অভিনেত্রের লেন্সের ফোকাস দূরত্ব, [math]f_e[/math]
+এখানে,[math]\hspace{1 cm}\begin{array}{l} \mu=1.5 \\ r_{1}=5 \mathrm{~cm} \\ I_{2}=-5 \mathrm{~cm} \end{array}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{f_{\mathrm{e}}}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ \Rightarrow \frac{1}{f_{\mathrm{e}}}=(1.5-1)\left(\frac{1}{5 \mathrm{~cm}}-\frac{1}{-5 \mathrm{~cm}}\right) \\ \Rightarrow \frac{1}{f_{\mathrm{e}}}=0.5 \times \frac{2}{5 \mathrm{~cm}} \\ \therefore ~f_{\mathrm{e}}=5 \mathrm{~cm}\end{array}[/math]
+অতএব, উদ্দীপকে উল্লেখিত অভিনেত্রের লেন্সটির ফোকাস দূরত্ব 5 cm।
+
+Explanation:
+ব্যাখ্যা: গ লেন্সমেকারের সূত্র অনুযায়ী [math]\frac{1}{f}=(n-1)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math] । এখানে [math]n=1.5,\ R_1=5\ cm,\ R_2=-5\ cm[/math] হলে [math]\frac{1}{f}=0.5\left(\frac{1}{5}-\frac{-1}{5}\right)=0.2[/math] এবং তাই [math]f=5\ cm[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 428095)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Holy Cross College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+একটি উভোত্তল লেন্সের বক্রতার ব্যাসার্ধদ্বয় [math]5\ cm[/math] করে এবং উপাদানের প্রতিসরাঙ্ক [math]1.5[/math]। উক্ত লেন্সটি একটি যৌগিক অণুবীক্ষণ যন্ত্রের অভিনেত্রে স্থাপন করে, [math]5\ cm[/math] ফোকাস দূরত্বের অপর একটি লেন্স অভিলক্ষ্যে স্থাপন করলে যন্ত্রে [math]300[/math] গুণ বিবর্ধিত বিম্ব পাওয়া সম্ভব।
+
+Options:
+ঘ. অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য হতে বাস্তব বিম্ব দূরত্ব কত হলে উদ্দীপকে উল্লিখিত বিবর্ধনের সঠিক মান পাওয়া সম্ভব— গাণিতিক যুক্তিসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, অভিনেত্রের লেন্সের ফোকাস দূরত্ব, [math]f_e[/math]
+এখানে,[math]\hspace{1 cm}\begin{array}{l} \mu=1.5 \\ r_{1}=5 \mathrm{~cm} \\ I_{2}=-5 \mathrm{~cm} \end{array}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{f_{\mathrm{e}}}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ \Rightarrow \frac{1}{f_{\mathrm{e}}}=(1.5-1)\left(\frac{1}{5 \mathrm{~cm}}-\frac{1}{-5 \mathrm{~cm}}\right) \\ \Rightarrow \frac{1}{f_{\mathrm{e}}}=0.5 \times \frac{2}{5 \mathrm{~cm}} \\ \therefore ~f_{\mathrm{e}}=5 \mathrm{~cm}\end{array}[/math]
+অতএব, উদ্দীপকে উল্লেখিত অভিনেত্রের লেন্সটির ফোকাস দূরত্ব 5 cm।এখানে,[math]\hspace{1 cm}[/math]
+স্পষ্ট দর্শনের নিকট বিন্দুর দূরত্ব, D=25 cmঅভিলক্ষ্য ও অভিনেত্রের বিবর্ধন যথাক্রমে [math]m_1[/math]
+ ও [math]m_2[/math]
+ হলে [math]-[/math]
+ [math]\hspace{1.5 cm}\begin{aligned} \mathrm{m}_{1} & \times \mathrm{m}_{2}=300 \ldots\ldots\ldots\rm{(i)} \\ \Rightarrow \mathrm{~m}_{2} & =1+\frac{\mathrm{D}}{f_{\mathrm{e}}} \\ \Rightarrow \mathrm{m}_{2} & =1+\frac{25 \mathrm{~cm}}{5 \mathrm{~cm}} \\ & =6 \mathrm{~cm} \end{aligned}[/math]
+এখানে,অভিলক্ষ্যের ফোকাস দূরত্ব [math]f_{0}=5 \mathrm{~mm}[/math]
+ [math]\therefore ~\text{(i)}[/math]
+ নং সমীকরণ অনুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\mathrm{m}_{1}=\frac{300}{6} \\ \Rightarrow \mathrm{~m}_{1}=50 \\ \Rightarrow 1+\frac{\mathrm{v}_{0}}{f_{0}}=50 \\ \Rightarrow 1+50=\frac{v_{0}}{f_{0}} \\ \Rightarrow \mathrm{v}_{0}=49 \times f_{0} \\ \Rightarrow \mathrm{v}_{0}=49 \times 5 \mathrm{~mm} \\ \Rightarrow \mathrm{v}_{0}=245 \mathrm{~mm} \\ \therefore ~\mathrm{v}_{0}=24.5 \mathrm{~cm} \end{array}[/math]
+অতএব, অনুবীক্ষণ যন্ত্রের অভিলক্ষ্য হতে বাস্তব বিম্ব দূরত্ব 24.5 cm হলে উদ্দীপকে উল্লিখিত বিবর্ধনের সঠিক মান পাওয়া সম্ভব।
+
+Explanation:
+ঘ ব্যাখ্যা: লেন্স সূত্র থেকে বায়োকনভেক্স লেন্সের ফোকাসদূরত্ব [math]1/f=(n-1)(1/R_1+1/R_2)=2(0.5)/5=1/5[/math], অতএব [math]f_o=5\ cm[/math]. যৌগিক অণুবীক্ষণ যন্ত্রে লক্ষ্য্য ও অভিলক্ষ্য মিলিয়ে মোট বিবর্ধন প্রায় [math]M=\dfrac{25L}{f_o f_e}[/math] (এখানে [math]L[/math] হলো অভিলক্ষ্য থেকে বাস্তব বিম্ব পর্যন্ত দূরত্ব), ধরে নিলে [math]f_o=f_e=5\ cm[/math] হলে [math]M=L[/math] (সেমি-তে)। তাই [math]M=300[/math] পেতে থাকতে হবে [math]L=300\ cm[/math] — অর্থাৎ অভিলক্ষ্য থেকে বাস্তব বিম্বের দূরত্ব হওয়া উচিত [math]300\ cm[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 428096)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: St. Gregory's High School and College
+--------------------------------------------------------------------------------
+Question:
+একটি জটিল অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]1\ cm[/math] ও [math]8\ cm[/math]। দুটি লেন্সের মধ্যবর্তী দূরত্ব [math]14\ cm[/math] এবং অভিলক্ষ্য হতে বস্তুর দূরত্ব [math]1.1\ cm[/math]।
+
+Options:
+গ. উদ্দীপক অনুসারে বিবর্ধন কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, যন্ত্রের দৈর্ঘ্য, L = 14 cmলক্ষ্যবস্তুর দূরত্ব, [math]u_0 = 1.1 cm[/math]
+অভিলক্ষ্য লেন্সের ফোকাস দূরত্ব, [math]f_0 = 1 cm[/math]
+অভিনেত্র লেন্সের ফোকাস দূরুত্ব, [math]f_e = 8 cm[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{1}{f_{0}}=\frac{1}{v_{0}}+\frac{1}{u_{0}} \Rightarrow v_{0}=\frac{f_{0} u_{0}}{u_{0}-f_{0}}=\frac{1 \times 1.1}{1.1-1}=11 \mathrm{~cm}\\\begin{aligned}\mathrm{L} &=\mathrm{v}_{0}+\mathrm{u}_{\mathrm{e}} \\\therefore \mathrm{u}_{\mathrm{c}} & =\mathrm{L}-\mathrm{v}_{0}=14-11=3 \mathrm{~cm} \\\therefore \frac{1}{\mathrm{v}_{e}} & =\frac{1}{f_{e}}-\frac{1}{\mathrm{u}_{\mathrm{e}}} \\\Rightarrow \mathrm{v}_{0} & =-4.8 \mathrm{~cm} \\M & =-\frac{\mathrm{v}_{0}}{\mathrm{u}_{0}}\left(1+\frac{\mathrm{v}_{c}}{f_{c}}\right)=-\frac{11}{1.1}\left\{1+\frac{-4.8}{8}\right\}=-4\end{aligned}\end{array}[/math]
+অতএব, উদ্দীপক অনুসারে বিবর্ধন হবে – 4 [math]\\[/math]
+
+
+Explanation:
+অবজেকটিভের লেন্স সূত্র ব্যবহার করে মধ্যবর্তী চিত্রদূরত্ব পাই: [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}\Rightarrow \frac{1}{1}=\frac{1}{v}+\frac{1}{1.1}\Rightarrow v=11\ cm[/math].  
+অতএব অবজেকটিভের সূত্রীয় বিবর্ধন [math]m_o=\frac{v}{u}=\frac{11}{1.1}=10[/math] এবং আনমুখী নজরে আনতে ব্যবহৃত অভিনেতার আনুকূলিক বিবর্ধন ধরা হলে [math]M_e\approx\frac{25}{f_e}=\frac{25}{8}=3.125[/math]. ফলে মোট বিবর্ধন [math]M=m_oM_e=10\times3.125=31.25[/math] — তাই গ সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 428097)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: St. Gregory's High School and College
+--------------------------------------------------------------------------------
+Question:
+একটি জটিল অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]1\ cm[/math] ও [math]8\ cm[/math]। দুটি লেন্সের মধ্যবর্তী দূরত্ব [math]14\ cm[/math] এবং অভিলক্ষ্য হতে বস্তুর দূরত্ব [math]1.1\ cm[/math]।
+
+Options:
+ঘ. বস্তুর দূরত্ব অপরিবর্তিত রেখে স্পষ্ট দর্শনের ন্যূনতম দূরত্বে দ্বিগুণ বিবর্ধিত বিম্ব পেতে হলে কী প রিবর্তন আনতে হবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, বিবর্ধন দ্বিগুণ হলে, [math]M' = 2M = -8[/math]
+স্পষ্ট দর্শনের ন্যূনতম দূরত্ব, [math]v_e = -25 cm[/math]
+আমরা জানি,[math]\begin{array}{l}\begin{aligned}\mathrm{M}^{\prime} & =-\frac{\mathrm{v}_{0}}{\mathrm{u}_{0}}\left(1+\frac{\mathrm{v}_{\mathrm{g}}}{f_{0}}\right) \\\Rightarrow -8 & =-\frac{\mathrm{v}_{0}}{\mathrm{u}_{0}}\left(1+\frac{-25}{8}\right)\end{aligned}\\\Rightarrow v_{0}=4.14\end{array}[/math]
+এখন,[math]\begin{array}{l}\quad \frac{1}{f_{0}^{\prime}}=\frac{1}{v_{0}}+\frac{1}{u_{0}}=\frac{1}{4.14}+\frac{1}{1.1} \\\therefore f_{0}^{\prime}=0.86 \mathrm{~cm}\end{array}[/math]
+উদ্দীপকে প্রদত্ত [math]f_0 = 1 ~cm[/math]
+ [math]\therefore[/math]
+ অভিলক্ষ্যের ফোকাস দূরত্ব পরিবর্তন করতে হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ প্রথমে অভিলক্ষ্য পর্যন্ত বিম্বের দূরত্ব বের করি: [math]\frac{1}{v_o}=\frac{1}{f_o}-\frac{1}{p_{\text{obj}}}=\frac{1}{1}-\frac{1}{1.1}=\frac{1}{11},\; v_o=11\ \text{cm}[/math]. স্পষ্ট দর্শনের ন্যূনতম দূরত্ব [math]D=25\ \text{cm}[/math] এ অভিনেত্রের জন্য প্রয়োজনীয় বস্তুর দূরত্ব হবে [math]u_e=\frac{f_eD}{D+f_e}=\frac{8\times25}{25+8}=\frac{200}{33}\approx6.06\ \text{cm}[/math]. তাই নতুন লেন্স-মধ্যবর্তী দূরত্ব [math]p'=v_o+u_e=11+6.06\approx17.06\ \text{cm}[/math], অর্থাৎ বর্তমান [math]14\ \text{cm}[/math] থেকে প্রায় [math]3.06\ \text{cm}[/math] বৃদ্ধি করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 428098)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: GRCF
+--------------------------------------------------------------------------------
+Question:
+একটি জটিল অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]5\ cm[/math] ও [math]8\ cm[/math]। প্রথম লেন্সটিকে পানিতে স্থাপন করলে ফোকাস দূরত্ব [math]4[/math] গুণ বৃদ্ধি পায় এবং লেন্সটিকে অপর একটি তরলে স্থাপন করলে ফোকাস দূরত্ব [math]5[/math] গুণ বৃদ্ধি পায়। একজন ব্যক্তি উক্ত অণুবীক্ষণ যন্ত্রের মাধ্যমে [math]4[/math] গুণ বিবর্ধন পাওয়ার জন্য লেন্স দুটিকে [math]20\ cm[/math] দূরত্বে স্থাপন করলেন। (বস্তুর অবস্থান ও অভিনেত্রের অবস্থান অপরিবর্তনীয়) বায়ুর সাপেক্ষে অভিলক্ষ্যের উপাদানের প্রতিসরাঙ্ক [math]= 1.5[/math]।
+
+Options:
+গ. পানির সাপেক্ষে তরলের প্রতিসরাঙ্ক কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বায়ুতে লেন্সের ফোকাস দূরত্ব, [math]f_a = 5 cm[/math]
+তরলে ফোকাস দূরত্ব, [math]f_l = 5 \times 5 = 25~cm[/math]
+প্রিজমের উপাদানের প্রতিসরাঙ্ক, [math]\mu_g = 1.5[/math]
+পানির প্রতিসরাংক, [math]\mu_l = ?[/math]
+আমরা জানি,বায়ুর ক্ষেত্রে,[math]\frac{1}{f_{a}}=\left(\mu_{g}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)................(i)[/math]
+এবং পানির ক্ষেত্রে,[math]\frac{1}{f_{l}}=\left(\frac{\mu_{2}}{\mu_{1}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)................(ii)[/math]
+(i) নং কে (ii) নং দ্বারা ভাগ করে পাই,[math]\hspace{1 cm}\begin{array}{l}\frac{f_{l}}{f_{2}}=\frac{\left(\mu_{g}-1\right) \times \dot{\mu}_{I}}{\left(\mu_{g}-\mu_{l}\right)}\\\Rightarrow \frac{25}{5}=\frac{(1.5-1) \times \mu_{l}}{\left(1.5-\mu_{l}\right)}\\\Rightarrow 5=\frac{0.5 \times \mu_{l}}{1.5-\mu_{l}}\\\Rightarrow 7.5-5 \mu_{l}=0.5 \mu_{l}\\\Rightarrow 5.5 \mu_{l}=7.5\\\Rightarrow \mu_{l}=\frac{7.5}{5.5}=1.36\end{array}[/math]
+তরলের প্রতিসরাংক 1.36 ।আবার বায়ুতে ফোকাস দূরত্ব, [math]f_a = 5~cm[/math]
+ [math]\hspace {1.2 cm}[/math]
+ পানিতে ফোকাস দূরত্ব, [math]f_{\mathrm{w}}=4 \times 5 \mathrm{~cm}=20 \mathrm{~cm}[/math]
+এখন, [math]\frac{f_{w}}{f_{z}}=\frac{\left(\mu_{g}-1\right) \times \mu_{w}}{\left(\mu_{g}-\mu_{w}\right)}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{20}{5}=\frac{(1.5-1) \times \mu_{\mathrm{w}}}{\left(1.5-\mu_{\mathrm{w}}\right)} \\\Rightarrow 4=\frac{0.5 \times \mu_{\mathrm{w}}}{1.5-\mu_{\mathrm{w}}} \\\Rightarrow 6-4 \mu_{\mathrm{w}}=0.5 \mu_{\mathrm{w}} \\\Rightarrow -4.5 \mu_{\mathrm{w}}=-6 \\\therefore \mu_{\mathrm{w}}=\frac{6}{4.5}=1.33\end{array}[/math]
+এখন, [math]\mu_{l}=1.36[/math]
+এবং [math]\mu_{w}=1.33[/math]
+ [math]\therefore{ }_{w} \mu_{l}=\frac{\mu_{l}}{\mu_{w}}=\frac{1.36}{1.33}=1.02[/math]
+ [math]\therefore[/math]
+ পানির সাপেক্ষে তরলের প্রতিসরাংক 1.02 [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: তরলে লেন্সের ফোকাস বদলের সূত্র থেকে [math]\dfrac{f_m}{f_{air}}=\dfrac{n_m(n_L-1)}{\,n_L-n_m\,}[/math] এবং [math]n_L=1.5[/math] হলে পানির জন্য [math]4=\dfrac{0.5\,n_w}{1.5-n_w}\Rightarrow n_w=\dfrac{4}{3}[/math], অন্য তরলের জন্য [math]5=\dfrac{0.5\,n_x}{1.5-n_x}\Rightarrow n_x=\dfrac{15}{11}[/math] তাই পানির সাপেক্ষে প্রতিসরাঙ্ক [math]\dfrac{n_x}{n_w}=\dfrac{15/11}{4/3}=\dfrac{45}{44}\approx1.023.
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 428099)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajshahi Cadet College
+--------------------------------------------------------------------------------
+Question:
+একজন ভদ্র মহিলা চোখের সামনে স্পষ্ট দর্শনের ন্যূনতম দূরত্বে বস্তু দেখার জন্য [math]+1.5\ D[/math] ক্ষমতার চশমা ব্যবহার করেন। তিনি একটি বস্তু দেখার জন্য সরল অণুবীক্ষণ যন্ত্র হিসেবে [math]20\ D[/math] এর লেন্স ব্যবহার করেন।
+
+Options:
+ঘ. চশমা ছাড়া অণুবীক্ষণ যন্ত্রের সাহায্যে কোন বস্তু দেখতে হলে গ্লাসের পরিবর্তন ছাড়া পরিষ্কারভাবে দেখা সম্ভব কি না— গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ'গ' নং হতে,অভিনেত্রের ফোকাস দূরত্ব, [math]f_e = 0.67 m[/math]
+অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_0 = 0.02 m[/math]
+এখন, শুধুমাত্র অনুবীক্ষণ যন্ত্র ব্যবহার করতে হবে ।উদ্দীপক অনুসারে প্রতিবিম্বের দূরত্ব, [math]v_e = 25 ~cm = 0.25 ~m[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\frac{1}{v_{e}}+\frac{1}{u_{e}}=\frac{1}{f_{0}}\\\Rightarrow \frac{1}{u_{\mathrm{e}}}=\frac{1}{f_{\mathrm{e}}}-\frac{1}{\mathrm{v}_{\mathrm{e}}}=\frac{\mathrm{v}_{\mathrm{e}}-\mathrm{f}_{\mathrm{e}}}{\mathrm{v}_{\mathrm{e}} f_{\mathrm{e}}}\\\Rightarrow \quad u_{e}=\frac{v_{f} f_{e}}{v_{e}-f_{e}}=\frac{0.25 \times 0.67}{0.25-0.67}=-0.4 \mathrm{~m}\end{array}[/math]
+যেহেতু [math]u_e[/math]
+ এর মান ঋণাত্মক সেহেতু বস্তুটিকে লেন্সের পেছনে রাখতে হবে। কিন্তু অনুবীক্ষণ যন্ত্রের ক্ষেত্রে তা কখনই সম্ভব নয়।
+
+Explanation:
+ঘ ব্যাখ্যা: চশমা লাগিয়ে ন্যূনতম দর্শনের দূরত্ব [math]0.25\ \text{m}[/math] ধরে এবং চশমার ক্ষমতা [math]+1.5\ D[/math] হলে
+[math]\frac{1}{0.25}-\frac{1}{N}=1.5\Rightarrow \frac{1}{N}=2.5\Rightarrow N=0.4\ \text{m}.[/math]
+অণুবীক্ষণের লেন্সের ক্ষমতা [math]20\ D[/math] হলে ভার্চুয়াল ছবি যদি তার নিজস্ব নিকট বিন্দুতে ([math]N=0.4\ \text{m}[/math]) হয়, লেন্স সমীকরণ থেকে
+[math]\frac{1}{u}=20-\left(-\frac{1}{0.4}\right)=22.5\Rightarrow u\approx0.0444\ \text{m}=4.44\ \text{cm},[/math]
+যা ফোকাল দৈর্ঘ্য [math](f=0.05\ \text{m})[/math] থেকে ছোট; অর্থাৎ লেন্সের অক্ষের উপর এই অবজেক্ট দূরত্বে বস্তু রেখে পরিষ্কার ভার্চুয়াল ছবি দেখা সম্ভব। তাই চশমা বদল না করেই অণুবীক্ষণে স্পষ্ট দেখা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 428100)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Comilla Cadet College
+--------------------------------------------------------------------------------
+Question:
+একটি জটিল অণুবীক্ষণ যন্ত্রের অভিলক্ষ্যের ফোকাস দূরত্ব [math]5\ mm[/math] এবং অভিনেত্রের ফোকাস দূরত্ব [math]4\ cm[/math]। লেন্সদ্বয়ের মধ্যবর্তী দূরত্ব [math]24.5\ cm[/math].
+
+Options:
+ঘ. লক্ষ্যবস্তু কোথায় রাখলে চূড়ান্ত প্রতিবিম্বটি অসীমে সৃষ্টি হবে? গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে, অভিনেত্রের ফোকাস দূরত্ব, [math]f_e = 4 cm = 0.04 m[/math]
+অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_0 = 0.005 m[/math]
+যন্ত্রের দৈর্ঘ্য, L = 24.5 cm = 0.245 mঅভিনেত্রের ক্ষেত্রে,প্রশ্নমতে, [math]v_e = \alpha[/math]
+ [math]\hspace{1cm}\begin{array}{l}\frac{1}{u_{e}}+\frac{1}{v_{e}}=\frac{1}{f_{e}}\\\Rightarrow\frac{1}{\mathrm{u}_{\mathrm{e}}}+\frac{1}{\alpha}=\frac{1}{f_{\mathrm{e}}}\\\Rightarrow \frac{1}{u_{c}}=\frac{1}{f_{c}}\\\Rightarrow f_{\mathrm{e}}=\mathrm{u}_{\mathrm{e}}\\\Rightarrow \mathrm{u}_{\mathrm{e}}=0.04 \mathrm{~m}\end{array}[/math]
+এখন, অভিলক্ষ্যের প্রতিবিম্বের দুরত্ব,[math]v_0[/math]
+ = যন্ত্রের দৈর্ঘ্য (L) – অভিনেত্রে বস্তুর দূরত্ব ( [math]u_e[/math]
+)[math]\begin{array}{l}\Rightarrow v_{0}=L-u_{e} \\\Rightarrow v_{0}=0.245-0.04 \\\therefore v_{0}=0.205 \mathrm{~m}\end{array}[/math]
+অভিলক্ষ্যের ক্ষেত্রে,[math]\begin{array}{l}\frac{1}{f_{0}}=\frac{1}{u_{0}}+\frac{1}{v_{0}}\\\Rightarrow \frac{1}{u_{0}}=\frac{1}{f_{0}}-\frac{1}{v_{0}}\\\Rightarrow \mathrm{u}_{0}=\frac{f_{0} \mathrm{v}_{0}}{\mathrm{v}_{0}-f_{0}}=5.125 \times 10^{-3} \mathrm{~m}\end{array}[/math]
+অর্থাৎ অভিলক্ষ্যের সামনে [math]5.125 \times 10^{-3} m[/math]
+ দূরে বস্তু রাখতে হবে ।
+
+Explanation:
+গ চূড়ান্ত প্রতিবিম্ব অসীমে হলে অপটিক দ্বারা তৈরি মধ্যবর্তী প্রতিবিম্বটি অভিনেত্রের ফোকাস পৃষ্ঠায় থাকতে হবে। অতএব [math]v_o=24.5-4=20.5\ \text{cm}[/math]; লেন্স সূত্র [math]\frac{1}{f_o}=\frac{1}{v_o}+\frac{1}{u_o}[/math] এবং [math]f_o=5\ \text{mm}=0.5\ \text{cm}[/math] ব্যবহার করে [math]\frac{1}{u_o}= \frac{1}{0.5}-\frac{1}{20.5}\Rightarrow u_o\approx0.512\ \text{cm}[/math]. সুতরাং লক্ষ্যবস্তুকে অপটিক্যাল অভিলক্ষ্যের সামনের প্রায় [math]5.12\ \text{mm}[/math] স্থানে রাখতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 428101)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Govt. Hazi Mohammad Mohsin College, Chottogram
+--------------------------------------------------------------------------------
+Question:
+একটি চিরের প্রস্থ [math]6 \times 10^{-4} {~cm}[/math]. একটি পরীক্ষাগারে [math]16\ cm[/math] এবং [math]20\ cm[/math] বক্রতার ব্যাসার্ধ এবং [math]1.45[/math] প্রতিসরাঙ্কের একটি উভোত্তল লেন্সে [math]6 \times 10^{14} \ {Hz}[/math] কম্পাঙ্কের আলো ফেলে অপবর্তন পর্যবেক্ষণ করা হল। এতে ১ম ও ২য় অবমের মধ্যেকার কৌণিক ব্য বধান পাওয়া গেল [math]4.8^\circ[/math]।
+
+Options:
+গ. লেন্সটির ফোকাস দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, প্রতিসরাঙ্ক, [math]\mu = 1.45[/math]
+১ম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_1 = 16 cm = 0.16~m[/math]
+২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_2 = 20 cm = 0.20~m[/math]
+ফোকাস দূরত্ব, [math]f = ?[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{array}{l}\quad \frac{1}{f}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\\Rightarrow \frac{1}{f}=(1.45-1)\left(\frac{1}{0.16}-\frac{1}{0.20}\right) \\\Rightarrow \frac{1}{f}=0.5625 \\\therefore f=1.78 \mathrm{~m}\end{array}[/math]
+অতএব, লেন্সটির ফোকাস দূরত্ব 1.78 m। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: উভোত্তল পাতলা লেন্সের ফোকাস দূরত্ব লেন্সমেকারের সূত্র দ্বারা নির্ণয় হয় যা হলো [math]1/f=(n-1)\bigl(1/R_1+1/R_2\bigr)[/math]. এখানে [math]n=1.45,\ R_1=16\ \text{cm},\ R_2=20\ \text{cm}[/math], তাই [math]1/f=0.45\bigl(\tfrac{1}{16}+\tfrac{1}{20}\bigr)=0.050625\ \text{cm}^{-1}[/math]. গ অতএব [math]f=1/0.050625\approx19.75\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 428102)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Govt. Hazi Mohammad Mohsin College, Chottogram
+--------------------------------------------------------------------------------
+Question:
+একটি চিরের প্রস্থ [math]6 \times 10^{-4} {~cm}[/math]. একটি পরীক্ষাগারে [math]16\ cm[/math] এবং [math]20\ cm[/math] বক্রতার ব্যাসার্ধ এবং [math]1.45[/math] প্রতিসরাঙ্কের একটি উভোত্তল লেন্সে [math]6 \times 10^{14} \ {Hz}[/math] কম্পাঙ্কের আলো ফেলে অপবর্তন পর্যবেক্ষণ করা হল। এতে ১ম ও ২য় অবমের মধ্যেকার কৌণিক ব্য বধান পাওয়া গেল [math]4.8^\circ[/math]।
+
+Options:
+ঘ. পরীক্ষণটিতে ১ম ও ২য় চরমের ক্ষেত্রে মধ্যবর্তী কৌণিক ব্যবধান প্রাপ্ত অবমের মানের সমান হবে কি না— গাণিতিক যুক্তিসহকারে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, আলোর তরঙ্গদৈর্ঘ্য, [math]\lambda=\frac{\mathrm{c}}{f}=\frac{3 \times 10^{8}}{6 \times 10^{14}} \mathrm{~m}=5 \times 10^{-7} \mathrm{~m}[/math]
+চিরের প্রস্থ, [math]\mathrm{d}=6 \times 10^{-4} \mathrm{~cm}=6 \times 10^{-6} \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ প্রতি মিটারে রেখার সংখ্যা, [math]\mathrm{N}=\frac{1}{\mathrm{~d}}=\frac{1}{6 \times 10^{-6}}=1.67 \times 10^{5}[/math]
+আমরা জানি, চরমের জন্য,[math]\hspace{3cm}\begin{array}{l} \mathrm{d} \sin \theta=\mathrm{n} \lambda\\\Rightarrow \sin \theta=\frac{1}{d} \cdot n \lambda\\\Rightarrow \theta=\sin ^{-1}(\mathrm{Nn} \lambda)\end{array}[/math]
+১ম ক্রমের জন্য, [math]\theta_{1}=\sin ^{-1}\left(1.67 \times 10^{5} \times 1 \times 5 \times 10^{-7}\right)=4.79^{\circ}[/math]
+২য় ক্রমের জন্য, [math]\theta_{2}=\sin ^{-1}\left(1.67 \times 10^{5} \times 2 \times 5 \times 10^{-7}\right)=9.61^{\circ}[/math]
+ [math]\therefore[/math]
+ কৌণিক ব্যবধান, [math]\Delta \theta=\theta_{2}-\theta_{1}=9.61^{\circ}-4.79^{\circ}=4.8^{\circ}[/math]
+যা অবমের ক্ষেত্রে প্রাপ্ত ব্যবধানের জন্য সমান ।
+
+Explanation:
+ঘ λ নির্ণয়: [math]\lambda=\dfrac{c}{\nu}=\dfrac{3\times10^8}{6\times10^{14}}=5\times10^{-7}\ \text{m}[/math], এবং চিরের প্রস্থ [math]a=6\times10^{-4}\ \text{cm}=6\times10^{-6}\ \text{m}[/math]. মিনিমার অবস্থান দেয় [math]a\sin\theta_m=m\lambda[/math], তাই [math]\theta_1=\arcsin\frac{\lambda}{a}=\arcsin\frac{1}{12}\approx4.78^\circ[/math] এবং [math]\theta_2=\arcsin\frac{2\lambda}{a}=\arcsin\frac{1}{6}\approx9.59^\circ[/math], ফলে পার্থক্য [math]\theta_2-\theta_1\approx4.81^\circ\approx4.8^\circ[/math]. লেন্সটি কেবল প্যাটার্নকে ফোকাস করে; কোণগত বিভাজন নির্ধারণ করে না, তাই প্রাপ্ত মানের সাথে মিল রয়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 428103)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Hazera Taju Degree College
+--------------------------------------------------------------------------------
+Question:
+একটি অপসারী লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে [math]20\ cm[/math] এবং [math]40\ cm[/math]। লেন্সটির [math]40\ cm[/math] সামনে বস্তু রাখলে লেন্সের [math]10\ cm[/math] সামনে প্রতিবিম্ব সৃষ্ট হয়।
+
+Options:
+ঘ. লেন্সটির প্রথম পৃষ্ঠ সমতল হলে প্রতিবিম্বের অবস্থানের কিরূপ পরিবর্তন হবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে দেওয়া আছে,অপসারী লেন্সের, [math]r_1 = 20~cm = - 0.2~m[/math]
+ [math]\hspace{2.5cm}r_2 = 40 cm = 0.4 m[/math]
+১ম ক্ষেত্রে, [math]\frac{1}{f}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)[/math]
+ [math]\begin{array}{l}\Rightarrow -7.5=(\mu-1)\left(\frac{1}{-0.2}-\frac{1}{0.4}\right) \\\Rightarrow -7.5=(\mu-1)(-7.5) \\\Rightarrow \mu-1=1 \\\therefore \quad \mu=2\end{array}[/math]
+২য় ক্ষেত্রে লেন্সটির প্রথম পৃষ্ঠ সমতল হলে, [math]r_1 = \alpha[/math]
+ [math]\begin{array}{l}\therefore \quad \frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}^{\prime}}=(\mu-1)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\\begin{array}{l}\Rightarrow \frac{1}{\mathrm{v}^{\prime}}=(2-1)\left(\frac{1}{\alpha}-\frac{1}{0.4}\right)-\frac{1}{0.4} \\=1 .(-2.5)-2.5\end{array} \\\Rightarrow \frac{1}{\mathrm{v}^{\prime}}=-2.5-2.5=-5 \\\therefore \mathrm{v}^{\prime}=\frac{-1}{5}=-0.2 \mathrm{~m} \\\therefore \mathrm{v}^{\prime}=-20 \mathrm{~cm}\end{array}[/math]
+ [math]\therefore[/math]
+ প্রতিবিম্বের অবস্থানের পরিবর্তন হবে,[math]\begin{array}{l|l}\Delta \mathrm{v}=\mathrm{v}^{\prime}-\mathrm{v} & \mathrm{v}=-10 \mathrm{~cm} \\=-20-(-10)=-10 \mathrm{~cm} & \mathrm{v}^{\prime}=-20 \mathrm{~cm}\end{array}[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: পাতলা লেন্স সূত্রে [math]1/f=1/v+1/u[/math] প্রয়োগ করলে [math]u=-40\ cm,\ v=-10\ cm[/math] হওয়ায় [math]1/f=-0.1-0.025=-0.125[/math] এবং [math]f=-8\ cm[/math]. লেন্সমেকারের সূত্র [math]1/f=(n-1)(1/R_1-1/R_2)[/math] ধরে প্রথম পৃষ্ঠের কেন্দ্র বামে ([math]R_1=-20\ cm[/math]) এবং দ্বিতীয়টির কেন্দ্র ডানে ([math]R_2=+40\ cm[/math]) হলে [math]-1/8=(n-1)(-1/20-1/40)=-(3/40)(n-1)[/math] থেকে [math]n=8/3[/math]. প্রথম পৃষ্ঠ সমতল করলে [math]1/f'=(n-1)(0-1/40)=-(n-1)/40[/math] ফলে [math]f'=-24\ cm[/math], এবং নতুন চিত্রের জন্য [math]1/v'=1/f'-1/u=-1/24-1/40=-1/15[/math] থেকে [math]v'=-15\ cm[/math]; অর্থাৎ চিত্র লেন্সের সামনে [math]10\ cm[/math] থেকে [math]15\ cm[/math] হলে আরও দূরে (ভার্চুয়াল) তৈরি হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 428104)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Government Syed Hatem Ali College
+--------------------------------------------------------------------------------
+Question:
+একটি চিরের বেধ [math]0.5\ mm[/math]। এটি দ্বারা অপবর্তনের একটি পরীক্ষায় [math]40\ cm[/math] বক্রতার ব্যাসার্ধ বিশিষ্ট একটি উভত্তোল লেন্স ব্যবহার করা হয়। পানি ও কাচের প্রতিসরণাঙ্ক যথাক্রমে [math]1.33[/math] ও [math]1.5[/math]। আলোর তরঙ্গ দৈর্ঘ্য [math]5890\ \mathring{\rm{A}}[/math]।
+
+Options:
+ঘ. অক্ষ থেকে প্রথম এবং পরবর্তী উজ্জ্বল পট্টির মধ্যবর্তী কৌণিক ব্যবধান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, অক্ষ থেকে ১ম ও পরবর্তী উজ্জ্বল পট্টির কৌণিক ব্যবধান যথাক্রমে [math]\theta_1[/math]
+ ও [math]\theta_2[/math]
+ [math]\begin{array}{l}\therefore \text { a } \sin \theta_{1}=(2.1+1) \frac{\lambda}{2} \\\Rightarrow \sin \theta_{1}=\frac{3 \lambda}{2 \mathrm{a}} \\\Rightarrow \theta_{1}=\sin ^{-1}\left(\frac{3 \times 5890 \times 10^{-10}}{2 \times 0.5 \times 10^{-3}}\right) \\\therefore \theta_{1}=0.1^{\circ}\end{array}[/math]
+অনুরূপভাবে, [math]\text { a } \sin \theta_{2}=\frac{5 \lambda}{2}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow \theta_{2}=\sin ^{-1}\left(\frac{5 \times 5890 \times 10^{-10}}{2 \times 0.5 \times 10^{-3}}\right) \\\therefore \theta_{2}=0.17^{\circ}\end{array}[/math]
+ [math]\therefore[/math]
+ ১ম ও পরবর্তী উজ্জ্বল পট্টির মধ্যবর্তী কৌণিক ব্যবধান, [math]\Delta \theta=\theta_{2}-\theta_{1}=0.17-0.1^{\circ}=0.07^{\circ}[/math]
+অতএব, উদ্দীপকের ঘটনায় ১ম ও পরবর্তী উজ্বল পট্টির মধ্যবর্তী কৌণিক ব্যবধান [math]0.07^\circ[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 428105)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+একটি জটিল অণুবিক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]2\ cm[/math] এবং [math]16\ cm[/math] লেন্সদ্বয়ের মধ্যকার দূরত্ব [math]16.5\ cm[/math]। অভিলক্ষ্যের [math]3.2\ cm[/math] সামনে [math]0.5\ mm[/math] দৈর্ঘ্যের একটি লক্ষ্যবস্ত রাখা হলো।
+
+Options:
+গ. উদ্দীপকের যন্ত্রটির মোট বিবর্ধন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]f_0 = 2 ~cm[/math]
+ [math]u_0 = 3.2 ~cm[/math]
+ [math]f_e = 16 ~cm[/math]
+আমরা জানি,[math]\begin{aligned}\frac{1}{f_{0}} & =\frac{1}{\mathrm{v}_{0}}+\frac{1}{\mathrm{u}_{0}} \\\Rightarrow \frac{1}{\mathrm{v}_{0}} & =\frac{1}{f_{0}}-\frac{1}{\mathrm{u}_{0}}=\frac{1}{2 \mathrm{~cm}}-\frac{1}{3.2 \mathrm{~cm}} \\\therefore \mathrm{v}_{0} & =5.33 \mathrm{~cm}\end{aligned}[/math]
+ [math]u_{c}=16.5 \mathrm{~cm}-v_{0}=16.5 \mathrm{~cm}-5.33 \mathrm{~cm}=11.17 \mathrm{~cm}[/math]
+আাবার, [math]\frac{1}{f_{\mathrm{e}}}=\frac{1}{\mathrm{v}_{\mathrm{e}}}+\frac{1}{\mathrm{u}_{\mathrm{e}}}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{1}{v_{e}}=\frac{1}{f_{e}}-\frac{1}{u_{e}}=\frac{1}{16 \mathrm{~cm}}-\frac{1}{11.17 \mathrm{~cm}} \\\therefore v_{\mathrm{e}}=-37 \mathrm{~cm}\end{array}[/math]
+ [math]\therefore[/math]
+ যন্ত্রটির মোট বিবর্ধন,[math]\hspace{1cm}\begin{aligned}\mathrm{M} & =-\frac{\mathrm{v}_{0}}{\mathrm{u}_{0}} \times \frac{-\mathrm{v}_{\mathrm{e}}}{\mathrm{u}_{\mathrm{e}}}=\frac{-5.33}{3.2} \times \frac{-(-37)}{11.17} \\\therefore \quad M & =-5.52\end{aligned}[/math]
+অতএব, উদ্দীপকের যন্ত্রটির মোট বিবর্ধনের মান 5.52 [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ প্রথমে অভিলক্ষ্যের লেন্স সূত্র থেকে ছবি দূরত্ব নির্ণয় করি: [math]\frac{1}{2}=\frac{1}{v}+\frac{1}{3.2}\Rightarrow v=5.333\ \text{cm}[/math], সুতরাং অভিলক্ষ্যের ল্যাটেরাল বিবর্ধন [math]m_o=\frac{v}{u}=\frac{5.333}{3.2}=1.667[/math]. চোখের বিশ্রাম অবস্থার জন্য আয়পিস লেন্সের কোণীয় বিবর্ধন ধরা হলে [math]M_e=\frac{25}{f_e}=\frac{25}{16}=1.5625[/math], ফলে মোট বিবর্ধন [math]m_{\text{tot}}=m_o\times M_e\approx1.667\times1.5625\approx2.60[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 428106)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+একটি জটিল অণুবিক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]2\ cm[/math] এবং [math]16\ cm[/math] লেন্সদ্বয়ের মধ্যকার দূরত্ব [math]16.5\ cm[/math]। অভিলক্ষ্যের [math]3.2\ cm[/math] সামনে [math]0.5\ mm[/math] দৈর্ঘ্যের একটি লক্ষ্যবস্ত রাখা হলো।
+
+Options:
+ঘ. অভিনেত্রের ফোকাস দূরত্ব অর্ধেক করা হলে, পূর্বের তুলনায় কতটা কম বা বেশি মানের বিবর্ধন পাওয়া যাবে, গাণিতিক বিশ্লেষণপূর্বক তোমার মতামত উপস্থাপন কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ‘গ’ হতে পাই, পূর্বে বিবর্ধন |M| = 5.52অভিনেত্রের ফোকাস দূরত্ব অর্ধেক করা হলে এর ফোকাস দূরত্ব দাড়ায়- [math]f_{\mathrm{e}}^{\prime}=\frac{16 \mathrm{~cm}}{2}=8 \mathrm{~cm}[/math]
+এখানে, [math]\mathrm{u}_{0}=3.2 \mathrm{~cm}[/math]
+ [math]\begin{aligned}f_{0} & =2 \mathrm{~cm} \\\mathrm{u}_{\mathrm{e}} & =16.5 \mathrm{~cm}-\mathrm{v}_{0} \\& =16.5 \mathrm{~cm}-5.33 \mathrm{~cm} \\& =11.17 \mathrm{~cm}\end{aligned}[/math]
+এখন, [math]\frac{1}{f_{0}}=\frac{1}{\mathrm{v}_{0}}+\frac{1}{\mathrm{u}_{0}}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{1}{v_{0}}=\frac{1}{2 \mathrm{~cm}}-\frac{1}{3.2 \mathrm{~cm}} \\\therefore \mathrm{v}_{0}=5.33 \mathrm{~cm}\end{array}[/math]
+আবার, [math]\frac{1}{f_{\mathrm{e}}^{\prime}}=\frac{1}{\mathrm{v}_{\mathrm{e}}{ }^{\prime}}+\frac{1}{\mathrm{u}_{\mathrm{e}}{ }^{\prime}}[/math]
+ [math]\begin{array}{l}\Rightarrow \frac{1}{\mathrm{v}_{\mathrm{e}}^{\prime}}=\frac{1}{8 \mathrm{~cm}}-\frac{1}{11.17 \mathrm{~cm}} \\\therefore \mathrm{v}_{\mathrm{e}}^{\prime}=28.19 \mathrm{~cm}\end{array}[/math]
+ [math]\therefore[/math]
+ এক্ষেত্রে যন্ত্রটির মোট বিবর্ধন,[math]\begin{aligned} \mathrm{M}^{\prime} & =-\frac{\mathrm{v}_{0}}{\mathrm{u}_{0}} \times \frac{-\mathrm{v}_{\mathrm{e}}}{\mathrm{u}_{\mathrm{e}}} \\& =-\frac{5.33}{3.2} \times-\frac{28.19}{11.17} \\\therefore \mathrm{M}^{\prime} & =4.2\end{aligned}[/math]
+অতএব, দেখা যাচ্ছে, [math]|M'| < |M|[/math]
+ [math]\therefore \Delta \mathrm{M} = 5.52 - 4.2 = 1.32[/math]
+সুতরাং অভিনেত্রের ফোকাস দূরত্ব অর্ধেক করা হলে পূর্বের চেয়ে 1.32 কম মানের বিবর্ধন পাওয়া যাবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ কারণ কৌণিক সম্মুখীকার (eyepiece) এর মনোণন ক্ষমতা প্রায় বিপরীতভাবে নির্ভর করে তার ফোকাস দৈর্ঘ্যের উপর এবং মোট বিবর্ধন হলো অভিলক্ষ্য ও অভিনেত্রের গুণফল। তাই
+[math]M \approx m_o\,M_e,\quad M_e\propto\frac{1}{f_e},\quad \frac{M_2}{M_1}=\frac{f_{e1}}{f_{e2}}=\frac{16}{8}=2.[math]
+অর্থাৎ актерের ফোকাস অর্ধেক করলে মোট বিবর্ধন দ্বিগুণ হবে (১০০% বেশি)।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 428107)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Saidpur
+--------------------------------------------------------------------------------
+Question:
+বায়ুতে কাচের তৈরি একটি উত্তল লেন্সের উপাদানের প্রতিসরাঙ্ক [math]\sqrt{2}[/math] এবং দুই তলের ফোকাস দূরত্ব যথাক্রমে [math]50\ cm[/math] ও [math]30\ cm[/math].
+
+Options:
+ঘ. লেন্সটিকে [math]1.63[/math] প্রতিসরাঙ্কের কোন তরলে নিমজ্জিত করলে এর প্রকৃতির কোন পরিবর্তন হবে কি? গাণিতিক যুক্তিসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, তরলে লেন্সটির ফোকাস দূরত্ব [math]f_2[/math]
+উদ্দীপক অনুসারে,লেন্সের ১ম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{1}=(2 \times 50) \mathrm{cm}=100 \mathrm{~cm}[/math]
+ [math]\quad \quad[/math]
+২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{2}=-(2 \times 30) \mathrm{cm}=-60 \mathrm{~cm}[/math]
+ [math]\quad \quad[/math]
+ তরলের প্রতিসরণাঙ্ক, [math]\mu_L = 1.63[/math]
+লেন্সের উপাদানের প্রতিসরণাঙ্ক, [math]\mu_g = √2[/math]
+ [math]\therefore[/math]
+ তরল সাপেক্ষে লেন্সের উপাদানের প্রতিসরণাঙ্ক, [math]_{L} \mu_{g}=\frac{\mu g}{\mu_{L}}=\frac{\sqrt{2}}{1.63}[/math]
+আমরা জানি, [math]\frac{1}{f_{L}}=\left({ }_{L} \mu_{g}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)[/math]
+ [math]\hspace{1.5cm}\begin{aligned}& =\left(\frac{\sqrt{2}}{1.63}-1\right)\left(\frac{1}{100 \mathrm{~cm}}-\frac{1}{-60 \mathrm{~cm}}\right)=-3.53 \times 10^{-3} \\\therefore f_{\mathrm{L}} & =-283.27 \mathrm{~cm}\end{aligned}[/math]
+যেহেতু লেন্সের ফোকাস দূরত্ব ঋণাত্মক সেহেতু লেন্সটির প্রকৃতি হবে অবতল।অর্থাৎ তরলে নিমজ্জিত করার পর লেন্সটি অবতল লেন্সের ন্যায় ক্রিয়া করবে
+
+Explanation:
+ব্যাখ্যা:
+ঘ লেন্সের মোট অপার (power) সাধারণ সূত্রে লেখা যায় [math]P=\Big(\dfrac{n_{\text{lens}}}{n_{\text{med}}}-1\Big)\Big(\dfrac{1}{R_1}-\dfrac{1}{R_2}\Big)[/math], যেখানে কাঁচের প্রতিসরাঙ্ক [math]n_{\text{lens}}=\sqrt{2}\approx1.414[/math]. বায়ুতে [math]n_{\text{med}}=1[/math] হলে গুণক [math](1.414/1-1)=0.414[/math] ধনাত্মক হয়, কিন্তু তরলে [math]n_{\text{med}}=1.63[/math] হলে গুণক [math](1.414/1.63-1)\approx-0.133[/math] ঋণাত্মক হয়ে যায়; ফলে ক্ষমার চিহ্ন উল্টে যাবে এবং লেন্সের প্রকৃতি পরিবর্তিত হয়ে সংকেন্দ্রীক (converging) থেকে বিকেন্দ্রীক (diverging) হয়ে যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 428109)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+লেন্সের ফোকাস দূরত্ব আপতিত আলোর বর্ণের উপর নির্ভরশীল- ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+লেন্স প্রস্তুতকারী সমীকরণ অনুসারে,আমরা জানি, [math]f=(\mu-1)\left(\dfrac{1}{r_{1}}-\dfrac{1}{r_{2}}\right)[/math] এই সম্পর্ক থেকে দেখা যাচ্ছে যে, লেন্সের ফোকাস দূরত্ব লেন্সের প্রতিসরাঙ্কের উপর নির্ভর করে। আবার, জানা আছে— প্রতিসরাঙ্ক তরঙ্গদৈর্ঘ্যের ব্যস্তানুপাতিক এবং এক এক বর্ণের আলোর তরঙ্গদৈর্ঘ্য এক এক। সুতরাং এক এক বর্ণের আলোর জন্য লেন্সের উপাদানের প্রতিসরাঙ্ক এক এক হওয়ায় এর ফোকাস দূরত্বও ভিন্ন। অতএব, লেন্সের ফোকাস দূরত্ব আপতিত আলোর বর্ণের উপর নির্ভরশীল।
+
+Explanation:
+ব্যাখ্যা: লেন্সের ফোকাস দূরত্ব লেন্স-মেকারের সূত্রে নির্ধারিত হয় [math]\frac{1}{f}=(n-1)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math]. লেন্সের ভগ্নাংশ সূচক [math]n[/math] তরঙ্গদৈর্ঘ্যের উপর পরিবর্তিত হয় (dispersion), তাই বিভিন্ন বর্ণের আলোর জন্য [math]n[/math] ভিন্ন হয় এবং ফলে [math]f[/math]ও ভিন্ন হয়। এ কারণে নীল, লাল ইত্যাদি আলোর ফোকাল পয়েন্ট আলাদা হয়ে রঙ বিভাজন (chromatic aberration) দেখা দেয়।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 428110)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+বীক্ষণ কোণের কারণে দূরের বস্তু ছোট দেখায়— ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+বীক্ষন কোণের কারণে দূরের বস্তু ছোট দেখায়, কারণ- কোনো বস্তু চোখের লেন্সে যে কোণ উৎপন্ন করে তাকে বীক্ষণ কোণ বলে। একটি বস্তুকে চিত্রে দুটি অবস্থান A ও B তে রেখে দেখা হচ্ছে। B অবস্থানে বস্তুটি দ্বারা চোখে উৎপন্ন বীক্ষণ কোণ B আবার A অবস্থানে বস্তুর জন্য উৎপন্ন বীক্ষণ কোণ [math]\alpha[/math]
+। চিত্র হতে দেখা যাচ্ছে [math]\alpha[/math]
+ অপেক্ষা [math]\beta[/math]
+ কোণ বড় হওয়ায় B অবস্থানে বস্তুটি বড় দেখাচ্ছে। অর্থাৎ চোখে উৎপন্ন বীক্ষণ কোণ যত ছোট হবে বস্তু তত ছোট দেখাবে। কোন বস্তু যখন আমাদের চোখ থেকে দূরে সরে যায় বীক্ষণ কোণও তত হ্রাস পায়, ফলে দূরের বস্তু ছোট দেখায়।
+
+Explanation:
+কারণ একই আকারের বস্তু দূরে গেলে তা চোখে ছোট বীক্ষণ কোণ (visual angle) দেয়, ফলে রেটিনায় পড়া ছবি ছোট হয় এবং আমরা সেটাকে ছোট দেখি। সাধারণ সম্পর্কটি হলো—বস্তু উচ্চতা [math]h[/math] ও চোখ থেকে দূরত্ব [math]d[/math] হলে বীক্ষণ কোণ প্রায় [math]\theta \approx \frac{h}{d}[/math], ফলে [math]d[/math] বাড়লে [math]\theta[/math] ও দেখা আকার ছোট হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 428111)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+উভোত্তল লেন্স দ্বারা আলোক রশ্মিকে অপসারী করা যায় কি না ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+চারপার্শ্বস্থ মাধ্যমের তুলনায় লেন্স মাধ্যম আলোকীয়ভাবে ঘন হলে, অর্থাৎ পরম প্রতিসরাংকের মান বেশি হলে উত্তল লেন্সে প্রতিসরণের পর প্রধান অক্ষের সমান্তরাল আলোর রশ্মিগুচ্ছ অভিসারী রশ্মিগুচ্ছে পরিণত হয়। লেন্স যে সব উপাদানের তৈরি তা বায়ু অপেক্ষা আলোকীয়ভাবে ঘনতর। তাই উত্তল লেন্স সমান্তরাল রশ্মিগুচ্ছকে অভিসারী রশ্মিগুচ্ছে পরিণত করতে পারে । সুতরাং অপেক্ষাকৃত হালকা মাধ্যমে স্থাপিত কোনো উভোত্তল লেন্স দ্বারা আলোকরশ্মিকে অপসারী করা যায় না।
+
+Explanation:
+ব্যাখ্যা: উভোত্তল (বিভাজক/ডাইভার্জিং) লেন্স সমান্তরাল আলোর রশ্মিকে ছড়িয়ে দেয় এবং এগুলোকে এমনভাবে ভাবে নিয়ে যায় যে এগুলোকে লেন্সের পিছন থেকে বাড়িয়ে নিলে একটি ভার্চুয়াল ফোকাল পয়েন্টে মিলছে বলে দেখা যায়, তাই একা এটি বাস্তবভাবে আলোক রশ্মিকে অপসারী (কনভার্জ) করতে পারে না। তবে আগেই কনভার্জিং রশ্মি থাকলে বা অন্য লেন্সের সঙ্গে মিলিয়ে ব্যবহার করলে রশ্মিগুলো বাস্তবে মিলিত করা যেতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 428112)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+অণুবীক্ষণ যন্ত্রে চূড়ান্ত বিবর্ধন ঋণাত্মক ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+অণুবীক্ষণ যন্ত্রে গঠিত চূড়ান্ত প্রতিবিম্ব অবাস্তব বা উল্টো। কারণ অণুবীক্ষণ যন্ত্রে কোন লক্ষ্যবস্তু রাখলে লক্ষ্যবস্তু হতে অভিলক্ষ্য লেন্সের দূরত্ব এর ফোকাস দূরত্বের তুলনায় বেশি হয় বলে অভিলক্ষ্যে তার বাস্তব ও উল্টো প্রতিবিম্ব গঠিত হয়। কিন্তু অভিনেত্রের ক্ষেত্রে উক্ত প্রতিবিম্ব হতে অভিনেত্রের দূরত্ব এর ফোকাস দূরত্বের কম হয় বলে সেই বাস্তব ও উল্টো প্রতিবিম্বের অবাস্তব ও সোজা বিম্ব গঠিত হয়। সুতরাং অণুবীক্ষণ যন্ত্রে গঠিত চূড়ান্ত প্রতিবিম্ব অবাস্তব এবং উল্টো। তাই অণুবীক্ষণ যন্ত্রে চূড়ান্ত বিবর্ধন ঋণাত্মক।
+
+Explanation:
+চূড়ান্ত বিবর্ধন ঋণাত্মক মানে হলো চূড়ান্ত ছবি বস্তুর তুলনায় উল্টো (inverted)। যৌগিক অণুবীক্ষণে অবজেক্টিভ একটি বাস্তব ও উল্টো মধ্যবর্তী ছবি তৈরি করে এবং আই-পিস সেটিকে বড় করে একটি ভার্চুয়াল ছবিতে রূপান্তর করে, ফলে ছবিটির অভিমুখ উল্টো থাকে। তাই মানের চিহ্ন ঋণাত্মক থাকে, শুধুমাত্র পরিমাণই বিবর্ধনকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 428113)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+অবতল লেন্সে গঠিত প্রতিবিম্ব পর্দায় উৎপন্ন হয় কি-না? ব্যাখ্যা করো৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+অবতল লেন্সের সামনে একটি লক্ষ্যবস্তু রাখলে লেন্সের সামনে একটি প্রতিবিম্ব গঠিত হয়। এই গঠিত, প্রতিবিম্ব অবাস্তব; সোজা এবং আকারে লক্ষ্যবস্তুর চেয়ে ছোট হয় এবং এই প্রতিবিম্বকে চোখে দেখা যায়, কিন্তু পর্দায় ফেলা যায় না।
+
+Explanation:
+না—অবতল লেন্সে গঠিত প্রতিবিম্ব পর্দায় উৎপন্ন হয় না। কারণ অবতল লেন্স রশ্মিগুলোকে ছড়িয়ে দেয় এবং ছবিটি বাস্তবে রশ্মি মিলিত না হয়ে তাদের পশ্চাৎপ্রসারণে (ভার্চুয়াল) গঠিত হয়, ফলে তা পর্দায় প্রদর্শন করা যায় না।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 428114)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+লেন্সের চারিপার্শ্বস্থ মাধ্যম পরিবর্তন করলে উহার ফোকাস দূরত্ব পরিবর্তন হয় কেন?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+লেন্সের চারিপার্শ্বস্থ মাধ্যম পরিবর্তন করলে এর উপাদানের আপেক্ষিক প্রতিসরাংক পরিবর্তিত হয়ে যায়। তখন লেন্সের অভিসারী বা অপসারী ক্ষমতাও পরিবর্তন ঘটে বলে [math]f=\frac{1}{P}[/math] সূত্রানুসারে এর ফোকাস দূরত্বের পরিবর্তন ঘটে।
+
+Explanation:
+ব্যাখ্যা: লেন্সের ফোকাল দৈর্ঘ্য লেন্সের আপেক্ষিক নির্যাসমানের ওপর নির্ভর করে, কারণ আলো কতটা মেড়ায় তা লেন্স ও চারিপাশের মাধ্যমের নির্যাসমানের পার্থক্যের উপর নির্ধারিত। সাধারণভাবে গ্রন্থন সূত্রটি হচ্ছে [math]\frac{1}{f}=\left(\frac{n_{\text{lens}}}{n_{\text{medium}}}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[math], তাই চারিপাশের মাধ্যমের [math]n_{\text{medium}}[/math] বদলালে আপেক্ষিক মান বদলে যায় এবং ফলত ফোকাস দূরত্ব পরিবর্তিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 428072)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পাশের চিত্রে একটি বিবর্ধক কাচ দেখানো হয়েছে। সাধারণত যেখানে খুব বেশি বিবর্ধনের প্রয়োজন হয় না সেখানে এটি ব্যবহৃত হয় । যেমন -লেখা, হাতের ছাপ, অতি ক্ষুদ্র যন্ত্রপাতি ইত্যাদি দেখার কাজে এটি ব্যবহার করা হয়।
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের বিবর্ধক কাচে সৃষ্ট প্রতিবিম্বের দূরত্ব [math]25 \ cm[/math] এবং ফোকাস দূরত্ব [math]15 \ cm[/math] হলে বিবর্ধন কত?
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,প্রতিবিম্বের দূরত্ব, v = 25cmফোকাস দূরত্ব, f = 15cmবের করতে হবে, m = ?আমরা জানি,[math]\begin{aligned}\mathrm{m} & =1+\frac{\mathrm{v}}{\mathrm{f}} \\& =1+\frac{25 \mathrm{~cm}}{15 \mathrm{~cm}} \\& =2.67 \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ সঠিক, কারণ সাধারণভাবে বিন্তৃত চোখে (নিয়ার পয়েন্টে) বিবর্ধক কাচের কোণিক বিবর্ধন হয় [math]M=1+\dfrac{D}{f}[/math] যেখানে [math]D=25\ cm[/math] এবং [math]f=15\ cm[/math]। অতএব [math]M=1+\dfrac{25}{15}=1+\dfrac{5}{3}=\dfrac{8}{3}\approx2.67[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 428060)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]15 \ cm[/math] । লেন্সের বাম পাশে লেন্স হতে [math]10cm[/math] দূরে একটি বস্তু স্থাপন করা হলো। প্রতি বিম্বের অবস্থান, প্রকৃতি ও বিবর্ধন নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]v=-30 \ cm,[/math]
+বাম পাশে; অবাস্তব এবং সিধা; [math]m=+3[/math]
+
+
+Explanation:
+ব্যাখ্যা: লেন্সের ফোকাস [math]f=15\ \text{cm}[/math] এবং বস্তু লেন্স থেকে বাম দিকে [math]10\ \text{cm}[/math] তে (সাইন কনভেনশনে [math]u=-10\ \text{cm}[/math]) অবস্থান করলে লেন্স সূত্র ব্যবহার করে ফল পাওয়া যায়।  
+ক অবস্থান: লেন্স সূত্র [math]\frac{1}{f}=\frac{1}{v}-\frac{1}{u}[/math] প্রয়োগ করলে [math]\frac{1}{v}=\frac{1}{15}-\frac{1}{10}=-\frac{1}{30}[/math], তাই [math]v=-30\ \text{cm}[/math] — অর্থাৎ চিত্র বস্তুবামে লেন্স থেকে [math]30\ \text{cm}[/math] দূরে তৈরী হয় (আভাসিক)।  
+খ প্রকৃতি: [math]v[/math] নেতিবাচক হওয়ায় চিত্র আভাসিক (virtual) এবং লিপ্ত প্রতিস্থাপনে উপরের দিকে (erect)।  
+গ বিবর্ধন: [math]m=\frac{v}{u}=\frac{-30}{-10}=3[/math], অর্থাৎ চিত্র বস্তুর তুলনায় তিনগুণ বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 428061)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]15 \ cm[/math] । লেন্স হতে কত দূরে একটি বস্তু স্থাপন করলে প্রতিবিম্ব অবাস্তব হবে এবং প্রতি বিম্বের আকার বস্তুর আকারের তিনগুণ হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]10 \ cm[/math]
+
+Explanation:
+ব্যাখ্যা: উত্তল লেন্সে বস্তু যদি ফোকাল দূরত্বের ভিতরে রাখা হয় ([math]u<f[/math]) তবে প্রতিবিম্ব অবাস্তব ও সোজা হয়; লেন্স সমীকরণ থেকে প্রকৃত অনুপাতে পাওয়া যায় [math]m=\frac{f}{\,f-u\,}[/math]. এখানে [math]m=3[/math] ও [math]f=15\ \text{cm}[/math] দিলে [math]3=\frac{15}{15-u}\Rightarrow 15-u=5\Rightarrow u=10\ \text{cm}[/math], অতএব বস্তুটি লেন্স থেকে [math]10\ \text{cm}[/math] দূরে রাখলে চাওয়া অবস্থা পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 428063)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অবতল লেন্সের বাম পাশের লেন্স হতে [math]15 cm[/math] দূরে একটি বস্তু স্থাপন করা হলো। বস্তুটির প্রতিবিম্ব লেন্সের একই পাশে অর্থাৎ বাম পাশে [math]10 cm[/math] দূরে গঠিত হলো। লেন্সটির ফোকাস দূরত্ব নির্ণয় কর। [ [math]Hints[/math]: অবতল লেন্সে অবাস্তব প্রতিবিম্ব গঠিত হয় ।]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-30 cm[/math]
+ [math]\\[/math]
+ [math][/math]
+যেহেতু লক্ষ্যবস্তু ও প্রতিবিম্ব একই দিকে, তাই বিম্ব অবাস্তব।এখানে,লক্ষ্যবস্তুর দূরত্ব, [math]u=15 \ cm[/math]
+প্রতিবিম্বের দূরত্ব, [math]v=-10 \ cm[/math]
+ফোকাস দূরত্ব, [math]f=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \begin{aligned} \frac{1}{f} & =\frac{1}{u}+\frac{1}{v} \\ \Rightarrow \frac{1}{f} & =\frac{1}{15 \mathrm{~cm}}+\frac{1}{-10 \mathrm{~cm}} \\ & =-\frac{1}{30 \mathrm{~cm}} \end{aligned} \\ \therefore f=-30 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: পাতলা লেন্স সূত্র প্রয়োগ করি: [math]\frac{1}{f}=\frac{1}{v}-\frac{1}{u}[/math]. বস্তু বাম পাশে [math]15\ \text{cm}[/math] (u = +15 cm) এবং ভার্চুয়াল প্রতিবিম্ব একই দিকে [math]10\ \text{cm}[/math] (v = −10 cm), তাই [math]\frac{1}{f}=\frac{1}{-10}-\frac{1}{15}=-\frac{1}{6}[/math], ফলে [math]f=-6\ \text{cm}[/math]. ঋণাত্মক f দেখায় যে লেন্সটি অবতল (diverging) এবং ফোকাস দূরত্বের পরিমাপ 6 cm।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 428064)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অবতল লেন্সের বাম পাশে লেন্স হতে [math]20 \ cm[/math] দূরে একটি বস্তু স্থাপন করা হলো। বস্তুটির একটি বাস্তব প্রতিবিম্ব লেন্সের ডান পাশে লেন্স হতে [math]10 \ cm[/math] দূরে গঠিত হলো।দেখাও যে, উপরিউক্ত তথ্য সত্য নয়।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]6.67 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+প্রতিবিম্বটি বাস্তব বলে বিম্বের দূরত্ব ধনাত্মক।এখানে,লক্ষ্যবস্তুর দূরত্ব, [math]u=20 \ cm[/math]
+প্রতিবিম্বের দূরত্ব, [math]v=10 \ cm[/math]
+ফোকাস দূরত্ব, [math]f=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \frac{1}{f} & =\frac{1}{u}+\frac{1}{v} \\ & =\frac{1}{20 \mathrm{~cm}}+\frac{1}{10 \mathrm{~cm}} \\ & =\frac{1}{60 \mathrm{~cm}} \\ \therefore f & =\frac{20}{3} \mathrm{~cm} \\ & =6.67 \mathrm{~cm} \end{aligned}[/math]
+কিন্তু অবতল লেন্সের ফোকাস দূরত্ব কখনো ধনাত্মক হতে পারে না। অতএব, উপরিউক্ত তথ্য সত্য নয়।
+
+Explanation:
+ব্যাখ্যা: ধরলে [math]u=20\ \text{cm}[/math] এবং [math]v=+10\ \text{cm}[/math], লেন্স সূত্র [math]\frac{1}{f}=\frac{1}{v}-\frac{1}{u}[/math] অনুযায়ী [math]\frac{1}{f}=\frac{1}{10}-\frac{1}{20}=\frac{1}{20}[/math], তাই [math]f=20\ \text{cm}[/math] এবং ফোকাল দৈর্ঘ্য ধনাত্মক হয় — অর্থাৎ এটি একটি সমাবর্তী (কনভেক্স) লেন্স হওয়া দরকার। কিন্তু প্রশ্নে লেন্সটি অবতল (ডাইভার্জিং) বলা হয়েছে, যা সর্বদা বস্তুর পাশে একটি কাল্পনিক, উল্টো এবং ছোট প্রতিবিম্ব তৈরি করে এবং লেন্সের বিপরীত পিঠে বাস্তব প্রতিবিম্ব তৈরি করতে পারে না; তাই দেওয়া তথ্য সঠিক নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 428065)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]20 \ cm[/math]। লেন্স হতে [math]30 \ cm[/math] দূরে একটি ছোট [math]6 \ cm \times 4 \ cm[/math] জানালা আছে। প্রতিবিম্বের ক্ষেত্রফল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]96 \ cm^{2}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,উত্তল লেন্সের ফোকাস দূরত্ব, [math]f=20 \ cm[/math]
+লেন্স থেকে জানালার দূরত্ব, [math]u=30 \ cm[/math]
+জানালার দৈর্ঘ্য, [math]a=6 \ cm[/math]
+প্রস্থ, [math]b=4 \ cm[/math]
+প্রতিবিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \frac{1}{f} & =\frac{1}{u}+\frac{1}{v} \\ \Rightarrow \frac{1}{v} & =\frac{1}{f}-\frac{1}{u} \\ & =\frac{1}{20 \mathrm{~cm}}-\frac{1}{30 \mathrm{~cm}} \\ & =\frac{60}{\mathrm{~cm}} \\ \therefore v & =60 \mathrm{~cm} \end{aligned}[/math]
+ [math]\therefore[/math]
+ বিবর্ধন, [math]\mathrm{m}=-\frac{\mathrm{v}}{\mathrm{u}}=-\frac{60 \mathrm{~cm}}{30 \mathrm{~cm}}=-2[/math]
+ [math]\therefore[/math]
+ জানালাটির প্রতিবিম্বের দৈর্ঘ্য, [math]a^{\prime}=|m| \times a=|-2| \times 6 \mathrm{~cm}=12 \ cm[/math]
+এবং প্রস্থ, [math]b^{\prime}=|{m}| \times b=|-2| \times 4 \mathrm{~cm}=8 \mathrm{~cm}[/math]
+অতএব, জানালাটির প্রতিবিম্বের ক্ষেত্রফল[math]\begin{array}{l} =a^{\prime} \times b^{\prime} \\ =12 \mathrm{~cm} \times 8 \mathrm{~cm} \\ =96 \mathrm{~cm}^{2} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+লেন্স সূত্র ব্যবহার করে [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}[/math] যেখানে [math]f=20\ \text{cm},\ u=30\ \text{cm}[/math], ফলে [math]v=\frac{fu}{u-f}=\frac{20\times30}{30-20}=60\ \text{cm}[/math]. লিনিয়ার বৃদ্ধি (ম্যাগনিফিকেশন) [math]m=\frac{v}{u}=\frac{60}{30}=2[/math], তাই রেখীয় মাত্রা দ্বিগুণ হয় এবং ক্ষেত্রফল [math]m^2=4[/math] গুণে বৃদ্ধি পায়। মূল জানালার ক্ষেত্রফল [math]6\times4=24\ \text{cm}^2[/math] হলে প্রতিবিম্বের ক্ষেত্রফল [math]24\times4=96\ \text{cm}^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 428066)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]6 \ cm[/math] লম্বা একটি বস্তুকে [math]16 \ cm[/math] ফোকাস দূরত্বের একটি উত্তল লেন্স হতে [math]12 \ cm[/math] দূরে স্থাপ্ন করা হল। বিম্বের আ কার বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]24 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,বস্তুর দূরত্ব, [math]u=12 \ cm[/math]
+ফোকাস দূরত্ব, [math]f=16 \ cm[/math]
+বস্তুর আকার, [math]l=6 \ cm[/math]
+বিম্বের আকার, [math]l^{\prime}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{1}{v}+\frac{1}{u}=\frac{1}{f} \\ \Rightarrow \frac{1}{v}+\frac{1}{12}=\frac{1}{16} \\ \Rightarrow \frac{1}{v}=\frac{1}{16}-\frac{1}{12}=-\frac{1}{48} \\ \therefore v=-48 \mathrm{~cm}\end{array}[/math]
+আবার,বিবর্ধন, [math]\mathrm{m}=-\frac{\mathrm{v}}{\mathrm{u}}=\frac{48}{12}=4[/math]
+আবার,[math]\begin{array}{l} \mathrm{m}=\frac{l^{\prime}}{l} \\ \Rightarrow 4=\frac{l^{\prime}}{6} \\\therefore l^{\prime}=24 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+লেন্স সূত্র প্রয়োগ করে [math]1/f = 1/v + 1/u[/math]; এখানে [math]f=16\ \text{cm},\ u=12\ \text{cm}[/math] দিলে [math]1/16 = 1/v + 1/12 \Rightarrow 1/v = -1/48,\ v = -48\ \text{cm}[/math] (ভিরচুয়াল ছবি)। বৃদ্ধি (magnification) [math]m = -v/u = -(-48)/12 = 4[/math], তাই ছবির উচ্চতা [math]h' = m h = 4 \times 6 = 24\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 428067)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]+2.0 \ D[/math]- এর একটি লেন্সের ফোকাস দূরত্ব কত? লেন্সটি উত্তল নাকি অবতল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]+50 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, লেন্সটি ক্ষমতা, [math]P=+2.0D[/math]
+লেন্সটির ফোকাস দূরত্ব [math]f[/math]
+ হলে আমরা জানি,[math]\begin{array}{l} P=\frac{1}{f} \\ \Rightarrow f=\frac{1}{P}=\frac{1}{+2.0 D}=+0.5 \mathrm{~m} \\ \therefore f=+50 \mathrm{~cm} \end{array}[/math]
+যেহেতু ফোকাস দূরত্ব ধনাত্মক, সেহেতু লেন্সটি উত্তল। [math](Ans.)[/math]
+
+
+Explanation:
+ফোকাস দূরত্ব হবে [math]f=\frac{1}{D}=\frac{1}{+2.0\ \text{D}}=0.50\ \text{m}=50\ \text{cm}[/math]। ধনাত্মক ডায়পটারের মান নির্দেশ করে লেন্সটি সংবর্তক, অর্থাৎ উত্তল লেন্স।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 428069)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]+ 2.0 \ D[/math] এর একটি লেন্সের ফোকাস দূরত্ব কত? লেন্সটি উত্তল নাকি অবতল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]+50 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, লেন্সটি ক্ষমতা, [math]P=+2.0D[/math]
+লেন্সটির ফোকাস দূরত্ব [math]f[/math]
+ হলে আমরা জানি,[math]\begin{array}{l} P=\frac{1}{f} \\ \Rightarrow f=\frac{1}{P}=\frac{1}{+2.0 D}=+0.5 \mathrm{~m} \\ \therefore f=+50 \mathrm{~cm} \end{array}[/math]
+যেহেতু ফোকাস দূরত্ব ধনাত্মক, সেহেতু লেন্সটি উত্তল। [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: ডায়োপ্টার হল [math]D=1/f[/math] (ফোকাল দূরত্ব মিটারে), তাই [math]f=1/(+2.0)=[0.5\ \text{m}]=50\ \text{cm}[/math]. ধনাত্মক ডায়োপ্টার কনভার্জিং লেন্স বোঝায়, তাই এটি উত্তল লেন্স।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 428070)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]2 \ cm[/math] ও [math]7 \ cm[/math] এবং এদের মধ্যবর্তী দূরত্ব [math]2 0 \ cm[/math] অভিলক্ষ্যের সামনে কত দূরে একটি বস্তু স্থাপন করলে অভিনেত্র থেকে [math]25 \ cm[/math] দূরে এর প্রতিবিম্ব দেখা যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]2.32 \ cm[/math]
+
+Explanation:
+ব্যাখ্যা: প্রথমে অভিনেত্রকে ব্যবহার করে মধ্যবর্তী ছবির অবস্থান বের করি — অভিনেত্র থেকে চূড়ান্ত ছবির দুরত্ব [math]v_e=25\ \text{cm}[/math], আলোককেন্দ্রগুলোর মধ্যে দূরত্ব [math]L=20\ \text{cm}[/math], তাই মধ্যবর্তী ছবিটির অবস্থান [math]v_o[/math] (অভিলক্ষ্যের থেকে) পাওয়া যায় from [math]\dfrac{1}{f_e}=\dfrac{1}{v_e}+\dfrac{1}{L-v_o}[/math], ফলে [math]v_o=L-\dfrac{1}{\dfrac{1}{f_e}-\dfrac{1}{v_e}}=20-\dfrac{1}{\tfrac{1}{7}-\tfrac{1}{25}}\approx10.28\ \text{cm}[/math]. এরপর অভিলক্ষ্যের লেন্স সূত্র ব্যবহার করি: [math]\dfrac{1}{f_o}=\dfrac{1}{v_o}+\dfrac{1}{u_o}, ফলে [math]u_o=\dfrac{1}{\dfrac{1}{f_o}-\dfrac{1}{v_o}}\approx2.48\ \text{cm}[/math]; অতএব বস্তুটি অভিলক্ষ্যের সামনে প্রায় [math]2.48\ \text{cm}[/math] এ স্থাপন করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 428071)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি নভোদূরবীক্ষণ যন্ত্রের বিবর্ধন ক্ষমতা [math]20[/math] এবং দৈর্ঘ্য [math]16 cm[/math]। লেন্সদ্বয়ের ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.761 \ cm, 15.22 \ cm[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,বিবর্ধন, [math]m=20[/math]
+যন্ত্রের দৈর্ঘ্য, [math]L=16 \ cm[/math]
+ [math]f_{o}=?[/math]
+ এবং [math]f_{e}[/math]
+ [math]\\[/math]
+আমরা জানি,[math]m=\frac{f_{o}}{f_{e}}[/math]
+ [math]\Rightarrow \ 20=\frac{f_{o}}{f_{e}}[/math]
+ [math]\therefore \ f_{o}=20f_{e} \ldots \ldots \ldots (i)[/math]
+আবার, [math]L=f_{o}+f_{e}[/math]
+ [math]\Rightarrow \ 16=20f_{e}+f_{e}=21f_{e}[/math]
+ [math]\therefore \ f_{e}=0.761 \ cm \ (Ans.)[/math]
+ [math](i)[/math]
+ নং হতে, [math]f_{o}=15.22 \ cm \ (Ans.)[/math]
+
+
+Explanation:
+বিবর্ধন সূত্র: [math]M=\frac{L}{f_o}\cdot\frac{D}{f_e}[/math], যেখানে [math]D=25\ \text{cm}[/math]. তাই [math]f_o f_e=\frac{L\,D}{M}=\frac{16\times25}{20}=20\ \text{cm}^2[/math]. একক শর্ত না থাকায় পৃথক ফোকাল নির্ধারণ সম্ভব নয়; যদি ধরা হয় [math]f_o=f_e=f[/math], তবে [math]f=\sqrt{20}\approx4.47\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 428052)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. লেন্সটিকে সরল অণুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করে স্পষ্ট প্রতিবিম্ব দেখতে হলে বস্তু থেকে কত দূরে লেন্সটি স্থাপন করতে হবে তা গাণিতিকভাবে বিশ্লেষণ করে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘলেন্সটিকে সরল অণুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করে স্পষ্ট প্রতিবিম্ব পাওয়ার জন্য অবাস্তব বিম্বটি চোখের স্পষ্ট দর্শনের নিকট বিন্দুতে গঠিত হতে হবে ।অর্থাৎ এক্ষেত্রে, বিশ্বের দূরত্ব, v = - D - 25 cm'গ' অংশ হতে পাই, লেন্সটির ফোকাস দূরত্ব, f = 30 cm বস্তু হতে লেন্সের দূরত্ব হলে,[math]\begin{array}{l}\frac{1}{u}+\frac{1}{v}=\frac{1}{f} \\\text { } \frac{1}{u}=\frac{1}{f}-\frac{1}{v}=\frac{1}{30}+\frac{1}{25}=\frac{11}{150} \\\therefore \quad u=13.64 \mathrm{~cm}\end{array}[/math] অতএব, লেন্সটিকে সরল অনুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করে স্পষ্ট প্রতিবিম্ব দেখতে হলে বস্তু থেকে লেন্সটিকে 13.64 cm দূরে স্থাপন করতে হবে।
+
+Explanation:
+লেন্স সূত্র ব্যবহার করলে [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}[/math] পাওয়া যায়। সরল অণুবীক্ষণ যন্ত্রে বা বড় করে ভেসে যাওয়া ভার্চুয়াল, উষ্ণ (erect) প্রতিচ্ছবি পেতে দরকার [math]v\dfrac{1}{f}[/math] এবং তাই বস্তু লেন্সের ফোকাল দৈর্ঘ্যের ভিতরে থাকতে হবে (অর্থাৎ [math]|u|<f[/math])। আর চোখ সম্পূর্ণ শিথিল রেখে ছবিটি অনন্তে দেখতে চাইলে [math]v\to\infty[/math] ধরা হলে [math]u=f[/math] হওয়া দরকার।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 428053)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.5[/math] প্রতিসারাঙ্ক একটি উত্তল লেন্সের বক্তৃতার ব্যাসার্ধ যথারমে [math]0.2 \ m[/math] ও [math]0.3m[/math] | বায়ুর সাপেক্ষে কাচের প্রতিসারাঙ্ক [math]\frac{3}{2}[/math] এবং পানির প্রতিবাচক [math]\frac{4}{3}[/math]।
+
+Options:
+গ. বায়ু মাধ্যমে লেন্সটির ফোকাস দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই, ধরি, বায়ু মাধ্যমে ফোকাস দূরত্ব, [math]f_a[/math]
+ [math]\hspace{1 cm}[/math]
+বায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক, [math]{ }_{\mathrm{a}} \eta_{\mathrm{g}}=\dfrac{3}{2}[/math]
+ [math]\hspace{1 cm}[/math]
+উত্তল লেন্সের বক্রতার ব্যাসার্ধ, [math]\mathrm{r}_{1}=0.2 \mathrm{~m}, \mathrm{r}_{2}=-0.3 \mathrm{~m}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f_{\mathrm{a}}} & =\left({ }_{\mathrm{a}} \mu_{\mathrm{g}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ & =\left(\frac{3}{2}-1\right)\left(\frac{1}{0.2}+\frac{1}{0.3}\right)=(0.5)\left(\frac{0.5}{0.06}\right) \\ \therefore ~ f_{\mathrm{a}} & =0.24 \mathrm{~m} \end{aligned}[/math]
+বায়ুতে লেন্সটির ফোকাস দূরত্ব, 0.24 m।
+
+Explanation:
+ব্যাখ্যা: গ লেন্স-মেকারের সূত্র ব্যবহার করা হয়: [math]\frac{1}{f}=(n-1)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math]. দ্বি-উপর্ভাগ উত্তল লেন্সে R1= [math]0.2\ \text{m}[/math], R2=[math]-0.3\ \text{m}[/math] (দ্বিতীয় তলটির সংকেত নেতিবাচক) এবং [math]n=1.5[/math], তাই [math]\frac{1}{f}=(1.5-1)\left(\frac{1}{0.2}-\frac{1}{-0.3}\right)=0.5(5+3.333\ldots)=4.1666\ldots[/math], ফলে [math]f\approx0.24\ \text{m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 428054)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আনিন্দ্য [math]0.05m[/math] দীর্ঘ একটি বস্তু একটি উত্তল লেন্সের সামনে স্থাপন করল এবং লেন্সের অপর পাশে [math]1m[/math] দূরে একটি পর্দার উপর [math]0.2m[/math] দীর্ঘ একটি প্রতিবিম্ব পাওয়া গেল। লেন্সের প্রতিটি [math]1[/math] ব্যাসার্ধ। বক্রতলের বক্রতার ব্যাসার্ধ [math]\frac{1}{5}m[/math] ।
+
+Options:
+গ. লেন্সের ফোকাস দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: গ আকারের অনুপাত থেকে গুণনীয়ক [math]m=\dfrac{L_i}{L_o}=\dfrac{0.2}{0.05}=4[/math] তাই [math]\dfrac{v}{u}=4[/math] এবং [math]u=\dfrac{v}{4}=\dfrac{1}{4}=0.25\,m[/math]. লেন্স সূত্র প্রয়োগ করলে [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}=\dfrac{1}{1}+\dfrac{1}{0.25}=5[/math], ফলে [math]f=0.2\,m[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 428055)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আনিন্দ্য [math]0.05m[/math] দীর্ঘ একটি বস্তু একটি উত্তল লেন্সের সামনে স্থাপন করল এবং লেন্সের অপর পাশে [math]1m[/math] দূরে একটি পর্দার উপর [math]0.2m[/math] দীর্ঘ একটি প্রতিবিম্ব পাওয়া গেল। লেন্সের প্রতিটি [math]1[/math] ব্যাসার্ধ। বক্রতলের বক্রতার ব্যাসার্ধ [math]\frac{1}{5}m[/math] ।
+
+Options:
+ঘ. লেন্সের উপাদানের পরাবৈদ্যুতিক ধ্রুবক [math]4.5[/math] হলে এর আপেক্ষিক চৌম্বক প্রবেশ্যতা কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,গ) হতে প্রাপ্ত, ফোকাস দূরত্ব, f = 0.2m১ম তলের বক্রতার ব্যাসার্ধ,[math]r_{1}=\frac{1}{5} \mathrm{~m}=0.2 \mathrm{~m}[/math]
+২য় তলের বক্রতার ব্যসার্ধ,[math]\mathrm{r}_{2}=-\frac{1}{5} \mathrm{~m}=-0.2 \mathrm{~m}[/math]
+মাধ্যমের প্রতিসরণাঙ্ক, [math]\mu[/math]
+ = ?আমরা জানি,লেন্সের ফোকাস দূরত্ব,[math]\begin{array}{l}\frac{1}{\mathrm{f}}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\\text { } \frac{1}{0.2}=(\mu-1)\left(\frac{1}{0.2}-\frac{1}{-0.2}\right) \\\text { } 5=(\mu-1) \times 10 \\\text { } \mu-1=0.5 \\\therefore \mu=1.5\end{array}[/math]
+এখানে,$মাধ্যমের পরাবৈদ্যুতিক ধ্রুবক, K = 4.5মাধ্যমের ভেদনযোগ্যতা = [math]\epsilon_m[/math]
+মাধ্যমের চৌম্বক প্রবেশ্যতা, [math]\mu[/math]
+ = 1.5 $মাধ্যমের আপেক্ষিক চৌম্বক প্রবেশ্যতা, [math]\mu_r[/math]
+ = 2শূন্য মাধমে বেগ,[math]c_{o}=\frac{1}{\sqrt{\mu_{0} \epsilon_{0}}}[/math]
+ঐ মাধ্যমে আলোর বেগ,[math]c_{m}=\frac{1}{\sqrt{\mu_{\mathrm{m}} \epsilon_{\mathrm{m}}}}[/math]
+এখানে,[math]\begin{array}{l}\epsilon_{\mathrm{m}}=\frac{\epsilon_{0}}{\mu_{0}} \\\epsilon_{0}=\epsilon_{\mathrm{m}} \mu_{0}\end{array}[/math]
+এবং, [math]\mu_{\mathrm{m}}=\mathrm{K} \mu_{\mathrm{r}}[/math]
+আবার,[math]\begin{array}{l}\mu=\frac{c_{0}}{c_{m}} \\\Rightarrow\text { } \mu=\frac{\sqrt{\mu_{m} \epsilon_{m}}}{\sqrt{\mu_{0} \epsilon_{0}}} \\\Rightarrow\text { }\mu=\sqrt{\frac{\mu_{r} \mu_{0} K \epsilon_{m}}{\mu_{0} \epsilon_{m}}} \\\Rightarrow\text { } \mu=\sqrt{\mu_{\mathrm{r}} \mathrm{K}} \\\Rightarrow\text { } \mu^{2=}=\mu_{\mathrm{r}} \mathrm{K}\end{array}[/math]
+ [math]\mu_{\mathrm{r}}=\frac{\mu^{2}}{\mathrm{~K}}=\frac{(1.5)^{2}}{4.5}=0.5[/math]
+অতএব, লেন্সের উপাদানের আপেক্ষিক চৌম্বক প্রবেশ্যতা, [math]\mu_r[/math]
+ = 0.5
+
+Explanation:
+ব্যাখ্যা: ঘ সঠিক। প্রথমে বৃদ্ধি m = [math]0.2/0.05=4[/math] হওয়ায় বস্তুর দুরত্ব [math]u=v/m=1/4=0.25\ \text{m}[/math] এবং লেন্স সূত্র থেকে [math]1/f=1/u+1/v=4+1=5[/math] তাই [math]f=0.2\ \text{m}[/math]. বক্রতার ব্যাসার্ধ [math]R=0.2\ \text{m}[/math] হলে লেন্স-নির্মাতার সূত্র দিয়ে [math]1/f=(n-1)\big(1/R_1-1/R_2\big)=(n-1)\cdot2/R[/math], ফলে [math]n=1+\dfrac{R}{2f}=1.5[/math]. শেষে অপটিক্যাল সম্পর্ক [math]n^2=ε_rμ_r[/math] থেকে [math]μ_r=n^2/ε_r=1.5^2/4.5=0.5[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 428056)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বায়ুর মধ্যে একটি ঘনতর মাধ্যম আছে। মাধ্যমের একটি উত্তল প্রতিসারক পৃষ্ট আছে। উত্তল পৃষ্ঠের বক্তৃতার ব্যাসার্ধ [math]10 \ cm[/math] | উত্তল পৃষ্ঠের সমানে বায়ুতে এবং মেরু হতে [math]6 \ cm[/math] দূরে প্রধান অক্ষের উপর একটি বিন্দুবস্তু রাখা হলো। প্রতিবিম্বের দূরত্ব নির্ণয় কর। (প্রতিসারক মাধ্যমের প্রতিসরাঙ্ক [math]= 1.5[/math])।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে, মাধ্যমের প্রতিসরাঙ্ক, [math]\mu =1.5[/math]
+বস্তুর দূরত্ব, [math]u=6 \ cm[/math]
+বক্রতার ব্যাসার্ধ, [math]r=10 \ cm[/math]
+প্রতিবিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l}\frac{\mu}{v}+\frac{1}{u}=\frac{\mu-1}{r}\\\Rightarrow \frac{1 \cdot 5}{v}+\frac{1}{6}=\frac{1 \cdot 5-1}{10}\\\Rightarrow \frac{1 \cdot 5}{v}=\frac{0 \cdot 5}{10}-\frac{1}{6}\\\Rightarrow \frac{1.5}{v}=\frac{3-10}{60}=-\frac{7}{60}\\\therefore v=-\frac{60}{7} \times 1.5=-12.85 \mathrm{~cm}\end{array}[/math]
+যেহেতু [math]v[/math]
+ ঋণাত্মক, সেহেতু প্রতিবিম্ব [math]12.85 \ cm[/math]
+ পিছনে অবাস্তব।
+
+Explanation:
+ব্যাখ্যা: сферical প্রতিসারণক পৃষ্ঠের সূত্র ব্যবহার করি [math]\frac{n_2}{v}-\frac{n_1}{u}=\frac{n_2-n_1}{R}[/math], যেখানে আলো বাতাস থেকে ঘন মাধ্যম (n_1=1, n_2=1.5) এ যাচ্ছে, তাই u = [math]-6\ \text{cm}[/math] এবং R = [math]+10\ \text{cm}[/math]. সূত্রে বসালে [math]\frac{1.5}{v}-\frac{1}{-6}=\frac{0.5}{10}[/math] ⇒ [math]\frac{1.5}{v}=-0.1166667[/math] ⇒ [math]v\approx -12.86\ \text{cm}[/math]. মানের ঋণাত্মক চিহ্ন দেখায় যে চিত্র ভার্চুয়াল এবং একই দিকে (বায়ুতে) পৃষ্ঠ থেকে প্রায় [math]12.86\ \text{cm}[/math] দূরে উৎপন্ন হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 428057)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]15 \ cm[/math] লেন্সের বাম পাশে লেন্স হতে [math]30 \ cm[/math] দূরে একটি বস্তু স্থাপন করা হলো। প্র তিবিম্বের অবস্থান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]30 \ cm[/math] দূরে, লেন্সের ডান পাশে।
+
+Explanation:
+ব্যাখ্যা: লেন্স সূত্র ব্যবহার করলে [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}[/math], যেখানে [math]f=15\ \text{cm}[/math] ও [math]u=30\ \text{cm}[/math]। প্রতিস্থাপন করলে [math]\dfrac{1}{v}=\dfrac{1}{15}-\dfrac{1}{30}=\dfrac{1}{30}[/math], ফলে [math]v=30\ \text{cm}[/math]; অর্থাৎ চিত্র লেন্সের ডান পাশে [math]30\ \text{cm}[/math] দূরে, বাস্তব ও উল্টানো এবং বস্তুটির সমান আকারের।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 428058)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]12 \ cm[/math] লেন্সের বাম পাশে অসীম দূরত্বে অবস্থিত একটি বস্তুর প্রতিবিম্বের অবস্থান, প্রকৃতি ও বিবর্ধন নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+এখানে,উত্তল লেন্সের ফোকাস দূরত্ব, [math]f=12 \ cm[/math]
+লক্ষ্যবস্তুর দূরত্ব, [math]u=\infty[/math]
+প্রতিবিম্বের অবস্থান, [math]v=?[/math]
+প্রকৃতি [math]=?[/math]
+বিবর্ধন, [math]m=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \frac{1}{f}=\frac{1}{u}+\frac{1}{v} \\ \Rightarrow \frac{1}{v}=\frac{1}{f}-\frac{1}{u} \\= \Rightarrow \frac{1}{v}=\frac{1}{12 \mathrm{~cm}}-\frac{1}{\infty} \\ \Rightarrow \frac{1}{v}=\frac{1}{12 \mathrm{~cm}} \\ \Rightarrow v=12 \mathrm{~cm}=f \end{array}[/math]
+অবস্থানঃ লেন্সের ডান পাশে [math]12 \ cm[/math]
+ দূরে,ফোকাস তলে [math](Ans.)[/math]
+প্রকৃতিঃ যেহেতু [math]v[/math]
+ ধনাত্মক, সেহেতু প্রতিবিম্ব বাস্তব। [math](Ans.)[/math]
+বিবর্ধনঃ [math]\mathrm{m}=-\frac{\mathrm{v}}{\mathrm{u}}=-\frac{12 \mathrm{~cm}}{\infty}=-0[/math]
+ [math]\therefore \ m[/math]
+ ধনাত্মক, তাই প্রতিবিম্ব উল্টো। [math](Ans.)[/math]
+আবার, [math]\therefore[/math]
+ [math]|\mathrm{m}|=0<<1 \therefore[/math]
+প্রতিবিম্ব অত্যন্ত খর্বিত। [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: অসীমে থাকা বস্তুর জন্য লেন্স সূত্র [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}[/math] এ [math]u=\infty[/math] হলে [math]\frac{1}{u}=0[/math], সুতরাং [math]v=f=12\ \text{cm}[/math]. ফলে প্রতিবিম্ব লেন্সের ডান পাশে ফোকাল পয়েন্টে সৃষ্টি হয়; এটি বাস্তব (real) ও উল্টানো (inverted) এবং আকারে অত্যন্ত ক্ষুদ্র, কারণ বিস্তৃতি [math]m=-\dfrac{v}{u}\to0[/math] (প্রায় শূন্য)।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 428059)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]10 \ cm[/math] । লেন্সের ডান পাশে লেন্স হতে [math]15 \ cm[/math] দূরে [math]2 \ cm[/math] লম্বা একটি বস্তু খা ড়াভাবে স্থাপন করা হলো। প্রতিবিম্বের অবস্থান, প্রকৃতি ও আকৃতি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]v=30 \ cm[/math]
+, বাম পাশে, বাস্তব ও উল্টো; [math]4cm[/math]
+ লম্বা।
+
+Explanation:
+ব্যাখ্যা: উত্তল লেন্সের সূত্র [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}[/math] এ f= [math]10\ cm[/math], u= [math]15\ cm[/math] বসিয়ে পাওয়া যায় [math]\frac{1}{v}=\frac{1}{10}-\frac{1}{15}=\frac{1}{30}[/math], তাই [math]v=30\ cm[/math]. গতিশক্তি (magnification) [math]m=\frac{v}{u}=\frac{30}{15}=2[/math], ফলে প্রতিবিম্বের উচ্চতা [math]=2\times2=4\ cm[/math]. তাই প্রতিবিম্বটি লেন্সের বিপরীত পাশে 30 cm দূরে, বাস্তব (real), উল্টা (inverted) এবং দ্বিগুণ বড় (enlarged)।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 428043)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. লেন্সটিকে সরল অণুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করে স্পষ্ট প্রতিবিম্ব দেখতে হলে বস্তু থেকে কত দূরে লেন্সটি স্থাপন করতে হবে তা গাণিতিকভাবে বিশ্লেষণ করে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘলেন্সটিকে সরল অণুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করে স্পষ্ট প্রতিবিম্ব পাওয়ার জন্য অবাস্তব বিম্বটি চোখের স্পষ্ট দর্শনের নিকট বিন্দুতে গঠিত হতে হবে ।অর্থাৎ এক্ষেত্রে, বিশ্বের দূরত্ব, v = - D - 25 cm'গ' অংশ হতে পাই, লেন্সটির ফোকাস দূরত্ব, f = 30 cm বস্তু হতে পেন্সের দূরত্ব হলে,[math]\begin{array}{l}\frac{1}{u}+\frac{1}{v}=\frac{1}{f} \\\text { } \frac{1}{u}=\frac{1}{f}-\frac{1}{v}=\frac{1}{30}+\frac{1}{25}=\frac{11}{150} \\\therefore \quad u=13.64 \mathrm{~cm}\end{array}[/math]অতএব, লেন্সটিকে সরল অনুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করে স্পষ্ট প্রতিবিম্ব দেখতে হলে বস্তু থেকে লেন্সটিকে 13.64 cm দূরে স্থাপন করতে হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ--সরল অণুবীক্ষণ যন্ত্র হিসেবে লেন্সে স্পষ্ট, বড় করা ভার্চুয়াল ছবি পেতে বস্তুটি লেন্সের কেন্দ্র থেকে ফোকাল দৈর্ঘ্যের ভিতরে রাখতে হয়; লেন্স সূত্র [math]\frac{1}{s}+\frac{1}{s'}=\frac{1}{f}[/math] নিয়ে যদি ভার্চুয়াল ছবি নিকটস্থ বিন্দু D (উদাহরণস্বরূপ 25 cm) এ হয়, অর্থাৎ [math]s'=-D[/math], তবে [math]\frac{1}{s}-\frac{1}{D}=\frac{1}{f}\Rightarrow s=\frac{fD}{D+f}<f[/math]। আর চোখ পুরোপুরি শিথিল থাকবে এমন কনফিগারেশনে ছবি অনন্তে হলে বস্তুটি ঠিক ফোকাল দৈর্ঘ্যে ([math]s=f[/math]) রাখলে চলে।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 428044)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20 \ cm[/math] ফোকাস দূরত্ব বিশিষ্ট একটি উত্তল লেন্স থেকে [math]10 \ cm[/math] দূরে একটি বস্তু স্থাপন ক রা হলো। বিশ্বের অবস্থান, প্রকৃতি ও বিবর্ধন নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]-20 \ cm,[/math]
+লক্ষ্যবস্তু যে পাশে; অবাস্তব ও সোজা; [math]2[/math]
+
+
+Explanation:
+ব্যাখ্যা: উত্তল লেন্সে বস্তু যদি ফোকাসের ভেতরে থাকে তবে চিত্র ভার্চুয়াল, সোজা ও বড় হয়। [math]v=\frac{fu}{u-f}=\frac{20\times10}{10-20}=-20\ \text{cm}[/math], অর্থাৎ লেন্সের একই পাশে 20 cm দূরে (ভার্চুয়াল) চিত্র তৈরি হয়। [math]m=-\frac{v}{u}=-\frac{-20}{10}=2[/math], সুতরাং চিত্র সোজা এবং বস্তুর তুলনায় দ্বিগুণ বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 428045)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]8 \ cm[/math] লম্বা একটি বস্তুকে [math]15 \ cm[/math] ফোকাস দূরত্বের উত্তল লেন্স থেকে [math]10 \ cm[/math] দূরে স্থা পন করলে বিশ্বের দৈর্ঘ্য কত হবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]24 \ cm[/math]
+
+Explanation:
+সমাধান: উত্তল লেন্স সূত্র ব্যবহার করে, [math]1/f=1/v+1/u[/math] যেখানে [math]f=15\ \text{cm},\ u=10\ \text{cm}[/math]. তাই [math]1/v=1/15-1/10=-1/30[/math], অর্থাৎ [math]v=-30\ \text{cm}[/math] (ছবি ভার্চুয়াল এবং বস্তুর পাশেই)। বর্ধনাংক [math]m=-v/u=3[/math] হওয়ায় ছবির দৈর্ঘ্য [math]=3\times 8=24\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 428046)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.75 \ m[/math] ফোকাস দূরত্বের একটি উত্তল লেন্স থেকে কত দূরে বস্তু রাখলে তার তিনগুণ বিবর্ধিত বাস্তব বিঘ্ন পাওয়া যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1m[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,উত্তল লেন্সের ফোকাস দূরত্ব, [math]f=0.75 \ m[/math]
+বিবর্ধন, [math]|\mathrm{m}|=3[/math]
+লক্ষ্যবস্তুর দূরত্ব, [math]u=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} |\mathrm{m}|=\frac{\mathrm{v}}{\mathrm{u}}=3 \\ \therefore \mathrm{v}=\pm 3 \mathrm{u} \end{array}[/math]
+বিম্ব বাস্তব তাই [math]v[/math]
+ ধনাত্মক[math]\therefore \mathrm{v}=+3 \mathrm{u}[/math]
+এখন,[math]\begin{array}{l} \frac{1}{v}+\frac{1}{u}=\frac{1}{f} \\ \Rightarrow \frac{1}{3 u}+\frac{1}{u}=\frac{1}{f} \\ \Rightarrow \frac{4}{3 u}=\frac{1}{0.75 \mathrm{~m}} \\ \therefore u=\operatorname{lm} \text { (Ans. }) \end{array}[/math]
+
+
+Explanation:
+যেহেতু বাস্তব এবং উল্টা চিত্রের জন্য বিবর্ধনটির পরিমাপ [math]|m|=|v/u|=3[/math], তাই [math]v=3u[/math]. লেন্স সূত্র [math]1/f=1/v+1/u[/math] এ [math]v=3u[/math] বসালে [math]1/f=4/(3u)\Rightarrow u=4f/3[/math]; [math]f=0.75\ \text{m}[/math] হলে [math]u=1\ \text{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 428047)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]f[/math] ফোকাস দূরত্বের একটি উত্তল লেন্স যখন বস্তুর [math]m[/math] গুণ বিবর্ধিত অবাস্তব বিম্ব গঠন করে তখন বস্তুটি লেন্স থেকে [math]\left(\frac{\mathrm{m}+\mathrm{l}}{\mathrm{m}}\right) \times f[/math] দূরে অবস্থিত।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]?[/math]
+
+Explanation:
+ব্যাখ্যা: পাতলা লেন্সের সমীকরণ [math]1/f = 1/v - 1/u[/math] এবং বিবর্ধন [math]m = -v/u[/math]. ফলে [math]v = -mu[/math] এবং সমীকরণে বসালে [math]1/f = 1/(-mu) - 1/u = -\frac{m+1}{m\,u}[/math], তাই [math]u = -\frac{m+1}{m}\,f[/math]; ফলে বস্তুটির লেন্স থেকে পরিমাণগত দূরত্ব [math]\frac{m+1}{m}\,f[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 428048)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, [math]f[/math] ফোকাস দূরত্বের একটি উত্তল লেন্স যখন বস্তুর [math]m[/math] গুণ বিবর্ধিত বাস্তব বিম্ব গঠন ক রে তখন বস্তুটি লেন্স থেকে [math]\left(\frac{m+1}{m}\right) \times f[/math] দূরে অবস্থিত।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ এখানে,উত্তল লেন্সের ফোকাস দূরত্ব [math]=f[/math]
+বস্তুর বিবর্ধন [math]=m[/math]
+ধরি, বিম্বের দূরত্ব [math]= v[/math]
+এবং বস্তুর দূরত্ব [math]= u[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\mathrm{m}=\frac{\mathrm{v}}{\mathrm{u}} ;[/math]
+যেহেতু বিম্ব বাস্তবআবার,[math]\begin{array}{l} \frac{1}{f}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}} \\ \Rightarrow \frac{\mathrm{v}}{f}=\frac{\mathrm{v}}{\mathrm{u}}+1 \\ \Rightarrow \frac{\mathrm{v}}{f}=\mathrm{m}+1 \\ \therefore \mathrm{v}=(\mathrm{m}+1) f \ldots \ldots (i)\end{array}[/math]
+এবং [math]\frac{1}{f}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{1}{\mathrm{u}}=\frac{1}{f}-\frac{1}{v} \\ \Rightarrow \frac{1}{\mathrm{u}}=\frac{1}{f}-\frac{1}{(\mathrm{~m}+1) f} \\ \Rightarrow \frac{1}{\mathrm{u}}=\frac{(\mathrm{m}+1)-1}{(\mathrm{~m}+1) f} \\ \Rightarrow \frac{1}{\mathrm{u}}=\frac{\mathrm{m}}{(\mathrm{m}+1) f} \\ \therefore \mathrm{u}=\left(\frac{\mathrm{m}+1}{\mathrm{~m}}\right) \times f \end{array}[/math]
+সুতরাং বস্তুটি লেন্স হতে [math]\left(\frac{m+1}{m}\right) \times f[/math]
+ দূরত্বে অবস্থিত। (দেখানো হলো)
+
+Explanation:
+লেন্স সূত্র ও বিবর্ধন ব্যবহার করলে সহজে পাওয়া যায়: [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}[/math] এবং [math]m=\dfrac{v}{u}[/math] হওয়ায় [math]v=mu[/math] স্থাপন করলে [math]\dfrac{1}{f}=\dfrac{1}{mu}+\dfrac{1}{u}=\dfrac{m+1}{mu}[/math] হয়, ফলে [math]u=\dfrac{m+1}{m}\,f[/math]। তাই বস্তুটি লেন্স থেকে [math]\left(\dfrac{m+1}{m}\right)f[/math] দূরে থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 428049)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্স থেকে [math]24 \ cm[/math] দূরে অবস্থিত একটি বস্তুর বাস্তব বিম্ব লক্ষ্যবস্তুর দ্বিগুণ। লেন্সটি র ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](16 \ cm)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,উত্তল লেন্স থেকে বস্তুর দূরত্ব,বিবর্ধন, [math]|\mathrm{m}|=2[/math]
+দরা যাক, প্রতিবিম্বের দূরত্ব, [math]=v[/math]
+ফোকাস দূরত্ব, [math]f=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} |\mathrm{m}|=\frac{\mathrm{v}}{\mathrm{u}}=2 \\ \therefore \mathrm{v}=2 \mathrm{u} \end{array}[/math]
+ [math]\therefore[/math]
+ বিম্ব বাস্তব তাই [math]v[/math]
+ ধনাত্মক[math]\therefore \ v=+2u[/math]
+আবার, [math]\frac{1}{v}+\frac{1}{u}=\frac{1}{f}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{1}{2 \mathrm{u}}+\frac{1}{\mathrm{u}}=\frac{1}{f} \\ \Rightarrow \frac{1}{2 \times 24 \mathrm{~cm}}+\frac{1}{24 \mathrm{~cm}}=\frac{1}{f} \\ \Rightarrow \frac{1}{48 \mathrm{~cm}}+\frac{1}{24 \mathrm{~cm}}=\frac{1}{f} \\ \therefore f=16 \mathrm{~cm} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+বস্তুর বাস্তব বিম্ব বস্তুয়ের দ্বিগুণ হওয়ায় মানচিত্রগত বৃদ্ধি |m| = 2 (বাস্তব বিম্ব উল্টো হওয়ায় m = −2), তাই [math]m=-\dfrac{v}{u} \Rightarrow v=2u=48\ \text{cm}[/math]. লেন্স সূত্র প্রয়োগ করলে [math]\dfrac{1}{f}=\dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{24}+\dfrac{1}{48}=\dfrac{1}{16}[/math], তাই [math]f=16\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 428050)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি লেন্সের সম্মুখে [math]5 \ cm[/math] দূরে [math]5 \ cm[/math] উচ্চ বস্তু রাখলে [math]2 \ cm[/math] উচ্চ অবাস্তব প্রতিবি ম্ব সৃষ্টি হয়। লেন্সটির ফোকাস দূরত্ব ও প্রকৃতি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](-3.33 \ cm)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,লক্ষ্যবস্তুর দৈর্ঘ্য, [math]\ell = 5 \ cm[/math]
+প্রতিবিম্বের দৈর্ঘ্য, [math]\ell^{\prime}=2 \ cm[/math]
+লেন্স থেকে বস্তুর দূরত্ব, [math]u=5 \ cm[/math]
+ধরি, লেন্স থেকে প্রতিবিম্বের দূরত্ব [math]= v[/math]
+লেন্সটির ফোকাস দূরত্ব, [math]f=?[/math]
+লেন্সের প্রকৃতি [math]=?[/math]
+ [math]\\[/math]
+আমরা জানি,বিবর্ধন, [math]|\mathrm{m}|=\frac{\ell^{\prime}}{\ell}=\frac{2 \mathrm{~cm}}{5 \mathrm{~cm}}=\frac{2}{5}[/math]
+আবার [math]|\mathrm{m}|=\frac{\mathrm{v}}{\mathrm{u}}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{2}{5}=\frac{v}{u} \\ \Rightarrow v=\frac{2 \mathrm{u}}{5}=\frac{2 \times 5 \mathrm{~cm}}{5}=2 \mathrm{~cm} \end{array}[/math]
+ [math]\because[/math]
+ প্রতিবিম্ব অবাস্তব তাই [math]v[/math]
+ ঋণাত্মক[math]\therefore \ v = -2 \ cm[/math]
+আবার, [math]\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{f}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{1}{-2}+\frac{1}{5}=\frac{1}{f} \\ \therefore f=-3.33 \mathrm{~cm} \end{array}[/math]
+ [math]\because \ f[/math]
+ ঋণাত্মক, [math]\therefore[/math]
+ লেন্সটি অবতল। [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: লেন্সের বর্ধন মাত্রা [math]m=\dfrac{h'}{h}=\dfrac{2}{5}[/math] এবং স্ট্যান্ডার্ড সাইন কনভেনশনে অবজেক্ট দূরত্বকে [math]u=-5\ \text{cm}[/math] ধরে [math]v=mu=-5\times\dfrac{2}{5}=-2\ \text{cm}[/math] পাওয়া যায়। লেন্স সূত্র অনুযায়ী [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}=\dfrac{1}{-2}+\dfrac{1}{-5}=-\dfrac{7}{10}[/math], তাই [math]f=-\dfrac{10}{7}\ \text{cm}\approx -1.43\ \text{cm}[/math]; নেতিবাচক ফোকাল দৈর্ঘ্য থাকার কারণে লেন্সটি বিভাজক (diverging)।
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 428051)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সেলিম সাহেব একজন ব্যবসায়ী। সূক্ষ্ম কারুকার্য, অতিক্ষুদ্র লেখা, হাতের ছাপ ইত্যাদি দেখার জন্য তার ম্যাগনেফাইং গ্লাস দরকার। একদিন তার ছেলেকে দোকান থেকে [math]0.15 \ m[/math] ফোকাস দূরত্বের একটি ম্যাগনেফাইং গ্লাস আনতে বললেন। ছেলে দোকান থেকে তা এনে দিলেন। সেলিম সাহেব সহজেই তা দিয়ে সবকিছু স্পষ্ট দর্শনের ন্যূনতম দূরত্বে রেখে স্পষ্ট দেখতে পেয়ে খুবই খুশি হলেন।
+
+Options:
+ঘ. ম্যাগনেফাইং গ্লাস দেখতে হলে লক্ষ্যবস্তু লেন্সের খুব কাছে রাখতে হয় কেন? ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘম্যাগনিফাইং গ্লাস হচ্ছে হাতল যুক্ত একটি ক্ষুদ্র ফোকাস দূরত্বের উত্তল লেন্স। এর সাহায্যে আমরা ক্ষুদ্র বস্তুকে বিবর্ধিত করে দেখি। এক্ষেত্রে অবশ্যই বিবর্ধিত অবাস্তব বিম্ব দেখে থাকি ।আমরা জানি, উত্তল লেন্সের ফোকাস দূরত্বের দ্বিগুণের বেশি দূরের বস্তুর প্রতিবিঘ্ন বাস্তব ও খর্বিত হয় এবং প্রধান ফোকাসের বাইরে কিন্তু ফোকাস দূরত্বের দ্বিগুণ অপেক্ষা কম দূরত্বের বস্তুর বিশ্ব বাস্তব ও বিবর্ধিত হয়। কিন্তু উত্তল লেন্সের প্রধান ফোকাসের ভিতরের কোন বস্তুর প্রতিবিঘ্ন অবাস্তব কিন্তু অত্যন্ত বিবর্ধিত হয়। তাই বস্তুকে প্রধান ফোকাসের ভিতরে রাখতে হয়।আবার প্রধান ফোকাসের ভিতরে কিন্তু ফোকাসের খুব কাছে বস্তু রাখা হলে বিবর্ধন খুব বেশি হয় কিন্তু বিম্ব অনেক দূরে সৃষ্টি হওয়ায় তা ভালোভাবে দেখা যায় না। তাই প্রধান ফোকাস থেকে লেন্সের আরো কাছে বস্তু স্থাপন করা হয় যাতে বিম্ব চোখের স্পষ্ট দর্শনের কাছাকাছি সৃষ্টি হয়। এজন্য ম্যাগনিফাইং গ্লাসে দেখতে হলে বস্তুকে খুব কাছে রাখতে হয়।
+
+Explanation:
+ঘ কারণ ম্যাগনিফাইং গ্লাসে বস্তুকে লেন্সের ফোকাস দূরত্বের (অথবা তার ভেতর) রাখতে হয় যাতে লেন্স একটি উলম্ব, ভার্চুয়াল ও বড় চিত্র গঠন করে; এতে চোখে আসা কোণীয় আকার বড় হয় এবং সূক্ষ্ম অংশগুলো স্পষ্ট দেখা যায়। যেহেতু ফোকাস [math]0.15 \ m[/math] খুব ছোট, তাই সর্বাধিক বর্ধন পেতে লক্ষ্যবস্তুকে লেন্সের খুব কাছাকাছি রাখতে হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 428039)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দর্পণে আলোর প্রতিফলনের ফলে মোম বাতিটির একটি বিম্ব পর্দায় সৃষ্টি হয়েছে।
+
+
+[Image]
+
+
+Options:
+ঘ. দর্পণের স্থানে একটি লেন্স স্থাপন করা হলে পর্দার অবস্থানে বাস্তব বা অবাস্তব বিম্ব গঠন হওয়া সম্ভব কি না চিত্রসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘদর্পণের স্থানে যদি আমরা একটি অবতল লেন্স স্থাপন করি তবে তা দ্বারা সৃষ্ট অবাস্তব বিম্ব লক্ষ্যবস্তু অপেক্ষা লেন্সের নিকটতর হবে এবং অবতল লেন্সে কখনোই বাস্তব বিম্ব গঠিত হয় না। সুতরাং অবতল লেন্সের সাহায্যে পর্দার অবস্থানে কোনো বিম্ব সৃষ্টি করা সম্ভব নয়। দর্পণের স্থানে উত্তল লেন্স স্থাপন করা হলে মোমবাতির বাস্তব বিম্ব সৃষ্টি হলে তা হবে লেন্সের যে পাশে মোমবাতি অবস্থিত তার বিপরীত পাশে। সুতরাং বাস্তব বিম্ব পর্দার অবস্থানে সৃষ্টি হওয়া সম্ভব নয়। দর্পণের স্থানে উত্তল লেন্স স্থাপন করা হলে যদি মোমবাতিটি লেন্সের প্রধান ফোকাসের মধ্যে অবস্থিত হয় তবে এর একটি অবাস্তব বিম্ব মোমবাতির অবস্থান থেকে দূরে সৃষ্টি হতে পারে। সুতরাং বলা যায় দর্পণের স্থানে একটি উত্তল লেন্স স্থাপন করে পর্দার স্থানে মোমবাতির একটি অবাস্তব বিম্ব সৃষ্টি করা যাবে। নিচে বিম্ব সৃষ্টির প্রক্রিয়া রশ্মিচিত্রের সাহায্যে দেখানো হলো ।
+[Image]
+-
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ—দর্পণের স্থলে একটি উত্তল লেন্স রাখলে পর্দায় বাস্তব বা অবাস্তব দুটোই বিম্ব তৈরি করা সম্ভব। যদি বস্তুর‑লেন্স দূরত্ব [math]u[/math] লেন্সের ফোকাল দৈর্ঘ্য [math]f[/math] থেকে বড় থাকে (কথা হচ্ছে [math]u>f[/math]) এবং লেন্স‑পর্দার দূরত্ব থেকে মিললে রশ্মিগুলো সম্মিলিত হয়ে পর্দায় একটি বাস্তব ফোকাসবিন্দু (বিম্ব) দিবে; আর যদি বস্তু লেন্সের ফোকাল দৈর্ঘ্যের ভেতরে থাকে ([math]u (এখানে [math]v ছায়ার দূরত্ব)।
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 428040)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]20 \ cm[/math] । লেন্সটির এক পাশে একটি বস্তু স্থাপন করায় অপর পাশে দ্বিগুণ আকারের একটি বিম্ব পাওয়া গেল। [math]20 \ cm[/math] ও [math]30 \ cm[/math] বক্রতার ব্যাসার্ধ এবং [math]1.5[/math] উপাদানের প্রতিসরাঙ্ক বিশিষ্ট অপর একটি উভাবোতল লেন্স উত্তল লেন্সটির সংস্পর্শে সমা ক্ষভাবে স্থাপন করা হলো ।
+
+Options:
+গ. বস্তুটিকে প্রথম লেন্স থেকে কত দূরত্বে স্থাপন করা হয়েছিল নির্ণয় কর ৷
+
+
+Correct Answer: 
+
+Solution:
+গ১ম লেন্সে বাস্তব ও উল্টা বিম্ব সৃষ্টি হওয়ায় এক্ষেত্রে বিবর্ধন ঋণাত্মক।এখানে,ফোকাস দূরত্ব, f = 20cmবিবর্ধন, m = - 2লক্ষ্যবস্তুর দূরত্ব, u = ?আমরা জানি,[math]m=\frac{-v}{u}[/math]
+ [math]\begin{array}{l}\text { } \frac{-v}{u}=-2 \\\therefore v=2 u\end{array}[/math]
+আবার, লেন্সের সমীকরণ,[math]\begin{array}{l}\text{ } \frac{1}{\mathrm{u}}+\frac{1}{2 \mathrm{u}}=\frac{1}{20}\\\text{ } \frac{3}{3 \mathrm{u}}=\frac{1}{20}\\\text{ } \mathrm{u}=\frac{3 \times 20}{2}\\\therefore \mathrm{u}=30 \mathrm{~cm} \text{ (Ans.)}\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বিম্বের মাপ [math]m=\dfrac{v}{u}=2[/math] হওয়ায় [math]v=2u[/math] । লেন্স সূত্রে [math]\dfrac{1}{f}=\dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{u}+\dfrac{1}{2u}=\dfrac{3}{2u}[/math] ফলে [math]u=\dfrac{3}{2}f=\dfrac{3}{2}\times20\ \text{cm}=30\ \text{cm}[/math] ।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 428041)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]2 \ cm[/math] এবং [math]16 \ cm[/math], লেন্সদ্বয়ের মধ্যকার দূরত্ব [math]16.5 \ cm[/math]। অভিলক্ষ্যের [math]1.2 \ cm[/math] সামনে [math]0.5 \ mm[/math] দৈর্ঘ্যের একটি লক্ষ্যবস্তু রাখা হলো।
+
+Options:
+গ. যন্ত্রটির মোট বিবর্ধন নির্ণয় কর।"
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_o[/math]
+ = 2 cmঅভিনেত্রের ফোকাস দূরত্ব, [math]f_e[/math]
+ = 16 cmলেন্সদ্বয়ের দূরত্ব, L = 16.5 cmঅভিলক্ষ্য হতে লক্ষ্যবস্তুর দূরত্ব, [math]u_o[/math]
+ = 1.2 cmঅভিলক্ষ্য হতে বিম্বের দূরত্ব, [math]v_o[/math]
+ = ?অভিনেত্র হতে লক্ষ্যবস্তুর দূরত্ব, [math]u_e[/math]
+ = ?অভিনেত্র হতে বিম্বের দূরত্ব, [math]v_e[/math]
+ = ?মোট বিবর্ধন, M = ?আমরা জানি,[math]\begin{aligned}\frac{1}{f_{o}} & =\frac{1}{u_{o}}+\frac{1}{v_{o}} \\\frac{1}{v_{o}} & =\frac{1}{f_{o}}-\frac{1}{u_{0}} \\v_{0} & =\frac{f_{0} u_{0}}{u_{0}-f_{o}} \\& =\frac{2 \times 1.2}{1.2-2} \\& =-3 \mathrm{~cm}\end{aligned}[/math]
+আবার,[math]\begin{aligned}\mathrm{L} & =\mathrm{v}_{\mathrm{o}}+\mathrm{u}_{\mathrm{e}} \\\mathrm{u}_{\mathrm{e}} & =\mathrm{L}\mathrm{v}_{\mathrm{o}} \\& =16.5-(-3) \\& =19.5 \mathrm{~cm}\end{aligned}[/math]
+সুতরাং,[math]\begin{array}{l}\frac{1}{f_{e}}=\frac{1}{u_{e}}+\frac{1}{v_{e}} \\\frac{1}{v_{e}}=\frac{1}{f_{e}}-\frac{1}{u_{e}}=\frac{1}{16}-\frac{1}{19.5} \\v_{e}=89.14 \mathrm{~cm}\end{array}[/math]
+অতএব,[math]\begin{aligned}M & =\left(1-\frac{v_{0}}{f_{0}}\right)\left(1-\frac{v_{e}}{f_{e}}\right) \\& =\left(1-\frac{-3}{2}\right)\left(1-\frac{89.14}{16}\right)\end{aligned}[/math]
+যেহেতু বিবর্ধন M ঋণাত্মক, তাই বিম্ব উল্টা ।|M| = 11.43মোট বিবর্ধন 11.43 গুণ । [math]\\[/math]
+
+
+Explanation:
+গ অভিলক্ষ্যের লেন্স সূত্র ব্যবহার করে [math]1/f_o=1/v_o+1/u_o[/math] বসালে, [math]1/v_o=1/2-1/1.2=-1/3[/math] তাই [math]v_o=-3\ cm[/math].  
+অতঃপর অভিলক্ষ্যের রৈখিক বিবর্ধন [math]m_o=-v_o/u_o=-(-3)/1.2=2.5[/math] এবং অভিনেত্রের (relaxed eye ধরে) কোণিক বিবর্ধন [math]m_e=25/f_e=25/16=1.5625[/math].  
+সুতরাং মোট বিবর্ধন [math]M=m_o\times m_e=2.5\times1.5625\approx3.91[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 428042)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]2 \ cm[/math] এবং [math]16 \ cm[/math], লেন্সদ্বয়ের মধ্যকার দূরত্ব [math]16.5 \ cm[/math]। অভিলক্ষ্যের [math]1.2 \ cm[/math] সামনে [math]0.5 \ mm[/math] দৈর্ঘ্যের একটি লক্ষ্যবস্তু রাখা হলো।
+
+Options:
+ঘ. অভিনেত্রের ফোকাস দূরত্ব অর্ধেক করা হলে, পূর্বের তুলনায় কতটা বেশি মানের বিবর্ধন পাওয়া যাবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_o[/math]
+ = 2 cmঅভিনেত্রের ফোকাস দূরত্ব, [math]f_e = \frac{16} {2}[/math]
+ = 8 cmলেন্সদ্বয়ের দূরত্ব, L = 16.5 cmঅভিলক্ষ্য হতে লক্ষ্যবস্তুর দূরত্ব, [math]u_o[/math]
+ = 1.2 cm‘গ’ হতে পাই, পূর্বের বিবর্ধন,M = 11.43 অভিলক্ষ্য হতে বিম্বের দূরত্ব, V₁ = -3 cmঅভিনেত্র হতে লক্ষ্যবস্তুর দূরত্ব, [math]u_e[/math]
+ = 19.5 cmঅভিনেত্র হতে বিম্বের দূরত্ব, [math]v_e[/math]
+ = ?আমরা জানি,[math]\begin{aligned}\frac{1}{f_{e}} & =\frac{1}{u_{e}}+\frac{1}{v_{e}} \\\text { } \frac{1}{v_{e}} & =\frac{1}{f_{e}}-\frac{1}{u_{e}} \\& =\frac{1}{8}-\frac{1}{19.5} \\\therefore v_{e} & =13.57 \mathrm{~cm}\end{aligned}[/math]
+নতুন বিবর্ধন,[math]\begin{aligned}M & =\left(1-\frac{v_{o}}{f_{o}}\right)\left(1-\frac{v_{e}}{f_{e}}\right) \\& =\left(1-\frac{-3}{2}\right)\left(1-\frac{13.57}{8}\right)\end{aligned}[/math]
+ [math]\begin{array}{c}=-1.74 \\\therefore|\mathrm{M}|=1.74\end{array}[/math]
+পূর্বের বিবর্ধন ছিলো 11.43 এবং অভিনেত্রের ফোকাস দূরত্ব অর্ধেক করায় নতুন বিবর্ধন হয়েছে 1.74নতুন বিবর্ধন/পূর্ববর্তী বিবর্ধন[math]=\frac{1.74}{11.43}=\frac{1}{6.57}[/math]
+সুতরাং, গাণিতিক বিশ্লেষণে দেখা গেল, অভিনেত্রের ফোকাস দূরত্ব অর্ধেক করা হলে, পূর্বের তুলনায় 6.57 ভাগের এক ভাগ বিবর্ধন পাওয়া যাবে। লক্ষ্যনীয় যে, এক্ষেত্রে অভিলক্ষ্যে প্রাপ্ত বিবর্ধনের পরিবর্তন হয় নি, কিন্তু অভিনেত্রে প্রাপ্ত বিবর্ধনে পরিবর্তন হয়েছে। এরূপ পরিবর্তনের কারণ হলো, উত্তল লেন্সের ফোকাস বিন্দু হতে লক্ষ্যবস্তু যত দূরে থাকবে, বিবর্ধন তত কম হবে। অভিনেত্রের ফোকাস দূরত্ব অর্ধেক করায় [math]u_e[/math]
+-এর মান বৃদ্ধি পেয়েছে। -
+
+Explanation:
+ঘ ব্যাখ্যা: যৌগিক মাইক্রোস্কোপে মোট বিবর্ধন হচ্ছে অভিলক্ষ্য ও অভিনেত্রের বিবর্ধনের গুণফল এবং অভিনেত্রের কোণীয় বিবর্ধন প্রায় বিপরীতমাত্রায় ফোকাল লম্বতার উপর নির্ভর করে, অর্থাৎ [math]M_e \propto \dfrac{1}{f_e}[/math]. তাই যদি [math]f_e[/math] অর্ধেক করা হয়, অভিনেত্রের বিবর্ধন দ্বিগুণ হয় এবং চূড়ান্ত মোট বিবর্ধনও আগের তুলনায় দ্বিগুণ হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 428036)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি লেন্স দ্বারা সৃষ্ট বাস্তব প্রতিবিম্ব লক্ষ্যবস্তুর আকারের দ্বিগুণ এবং বাস্তব প্রতিবিম্বটি লেন্স থেকে [math]18\ cm[/math] দূরে অবস্থিত। লেন্সটির ক্ষমতা বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]+16.67 \mathrm{D}[/math]
+)[math]\\[/math]
+Solution : [math]|\mathrm{m}|=\dfrac{\mathrm{v}}{\mathrm{u}}=2 \mathrm{u}=\dfrac{\mathrm{v}}{2}=\dfrac{18}{2} \quad \therefore \mathrm{u}=9 \mathrm{~cm}[/math]
+ [math]\text { Now, } \dfrac{1}{f}=\dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{9}+\dfrac{1}{18} \Rightarrow \dfrac{1}{f}=\dfrac{1}{6} \\ \quad \therefore \mathrm{f}=6 \mathrm{~cm}=0.06 \mathrm{~m}[/math]
+ [math]\quad \rm{v}=18[/math]
+ [math]\quad[/math]
+ক্ষমতা [math]p=?[/math]
+ [math]\quad \mathrm{P}=\dfrac{1}{\mathrm{f}}=\dfrac{1}{0.06 \mathrm{~m}} \quad \therefore \mathrm{P}=+16.67 \mathrm{D} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ছবির বলন (magnification) সম্পর্ক [math]m=\dfrac{h'}{h}=-\dfrac{v}{u}[/math]; বাস্তব এবং উল্টা ছবির ক্ষেত্রে [math]m=-2[/math] হওয়ায় [math]v=2u[/math]. দেওয়া আছে [math]v=18\ cm[/math] থেকে [math]u=9\ cm[/math]. লেন্স সূত্র দিলে [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}=\dfrac{1}{18}+\dfrac{1}{9}=\dfrac{1}{6}[/math], তাই [math]f=6\ cm[/math] এবং ক্ষমতা [math]P=\dfrac{100}{f(\text{cm})}=\dfrac{100}{6}\approx16.67\ \text{D}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 428037)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2004-2005 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি অণুবীক্ষন যন্ত্রের অভিলক্ষ্যের ফোকাস দূরত্ব [math]2cm[/math] এবং অভিনেত্রের ফোকাস দূরত্ব [math]5cm[/math] । এদের মধ্যবর্তী দূরত্ব [math]10cm[/math]। অভিলক্ষ্যের সম্মুখে কতদূরে একটি বস্তু স্থাপন করলে অভিনেত্র হতে [math]20cm[/math] দূরে প্রতিবিম্ব পাওয়া যাবে? অণুবীক্ষণ যন্ত্রের মোট বিবর্ধন কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]10[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{1}{f_{e}}=\dfrac{1}{v_{c}}+\dfrac{1}{u_{e}} \Rightarrow \dfrac{1}{u_{e}}=\dfrac{1}{5}-\dfrac{1}{(-20)} \therefore u_{e}=4 \mathrm{~cm}[/math]
+আবার, [math]\mathrm{v}_{0}+\mathrm{u}_{\mathrm{e}}=10 \quad \Rightarrow \mathrm{v}_{0}=10-\mathrm{u}_{\mathrm{e}}=10-4 \quad \therefore \mathrm{v}_{\mathrm{o}}=6 \mathrm{~cm}[/math]
+এখন, [math]\dfrac{1}{\mathrm{f}_{0}}=\dfrac{1}{\mathrm{v}_{0}}+\dfrac{1}{\mathrm{u}_{0}} \Rightarrow \dfrac{1}{\mathrm{u}_{0}}=\dfrac{1}{\mathrm{f}}-\dfrac{1}{\mathrm{v}_{0}}=\dfrac{1}{2}-\dfrac{1}{6} \quad \therefore \mathrm{u}_{0}=3 \mathrm{~cm}[/math]
+ [math]\hspace{2 cm} m=\left|\dfrac{v_{0}}{\mathrm{u}_{0}}\right|\left|\dfrac{\mathrm{v}_{e}}{\mathrm{u}_{e}}\right|=\left|\dfrac{6}{3}\right|\left|\dfrac{20}{4}\right|=10 \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 428038)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কাচের তৈরি একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]15 \ cm[/math] । বায়ুর সাপেক্ষে পানি ও কাচের প্রতিসরাংক যথাক্রমে– [math]\frac{4}{3}[/math] ও [math]\frac{3}{2}[/math] ।
+
+Options:
+গ. লেন্স থেকে কত দূরে একটি বস্তু স্থাপন করা হলে বাস্তব বিশ্বের আকার বস্তুর আকারের তিনগুণ হ বে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,ফোকাস দূরত্ব, f = 15 cmবাস্তব বিম্ব উল্টা হওয়ায়, বিবর্ধন ঋণাত্মক।.:. বিবর্ধন, m = - 3লক্ষ্য বস্তুর দূরত্ব, u = ?আমরা জানি,বিবর্ধন, [math]m=-\frac{v}{u}[/math]
+ [math]\begin{array}{l}\text { }-\frac{v}{u}=-3 \\\therefore v=3 u\end{array}[/math]
+আবার, লেন্সের সূত্র,[math]\begin{array}{l}\frac{1}{u}+\frac{1}{v}=\frac{1}{f} \\\text { } \frac{1}{u}+\frac{1}{3 u}=\frac{1}{f} \\\text { } \frac{3+1}{3 u}=\frac{1}{15} \\\text { } \frac{4}{3 u}=\frac{1}{15} \\\text { } u=\frac{4}{3} \times 15 \\\therefore u=20 \mathrm{~cm} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ পানিতে লেন্সের কার্যকর ফোকাল দূরত্ব হয় [math]f_w=f_{air}\times\frac{(n_{glass}/n_{water}-1)}{(n_{glass}/n_{air}-1)}[/math], তাই [math]f_w=15\times\frac{(3/2)/(4/3)-1}{(3/2)-1}=15\times\frac{1/8}{1/2}=15\times\frac{1}{4}=\frac{15}{4}=3.75\ \text{cm}[/math]. বাস্তব চিত্রে আকারের অনুপাত [math]|m|=3[/math], তাই [math]v=3u[/math] এবং লেন্স সমীকরণ থেকে [math]\frac{1}{3u}+\frac{1}{u}=\frac{1}{f_w}\Rightarrow u=\frac{4f_w}{3}=\frac{4\times3.75}{3}=5\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 428026)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. লেন্সটিকে সরল অণুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করে স্পষ্ট প্রতিবিম্ব দেখতে হলে বস্তু থেকে কত দূরে লেন্সটি স্থাপন করতে হবে তা গাণিতিকভাবে বিশ্লেষণ করে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 15 cm = 0.15 m[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দৈর্ঘ্য, [math]l=5 \mathrm{~cm}=0.05 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রতিবিম্বের দৈর্ঘ্য, [math]l^{\prime}=10 \mathrm{~cm}=0.10 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+বিবর্ধন, m = ?[math]\hspace{1 cm}[/math]
+প্রতিবিম্বের দূরত্ব, u =?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\mathrm{m}=\frac{l^{\prime}}{l} \\ \Rightarrow \mathrm{m}=\frac{0.10 \mathrm{~m}}{0.05 \mathrm{~m}} \\ \Rightarrow \mathrm{m}=2 \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \mathrm{m}=-\frac{\mathrm{v}}{\mathrm{u}}\\ \Rightarrow 2=-\frac{v}{u} \\ \therefore \mathrm{v}=-2 \mathrm{u}=-2 \times 0.15 \mathrm{~m}=-0.3 \mathrm{~m} \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l}\quad~ \frac{1}{f}=\frac{1}{u}+\frac{1}{v}=\frac{1}{0.15 \mathrm{~m}}-\frac{1}{0.3 \mathrm{~m}}=\frac{2-1}{0.3 \mathrm{~m}}=\frac{1}{0.3 \mathrm{~m}} \\ \therefore f=\frac{0.3 \mathrm{~m}}{1}=0.3 \mathrm{~m} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+স্পষ্ট দর্শনের ন্যূনতম দূরত্ব = প্রতিবিম্বের দূরত্ব, v = -25 cm = – 0.25m[math]\hspace{1 cm}[/math]
+বস্তু হতে লেন্সের দূরত্ব = লক্ষ্যবস্তুর দূরত্ব, u = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~\frac{1}{f}=\frac{1}{u}+\frac{1}{v} \\ \Rightarrow \frac{1}{u}=\frac{1}{f}-\frac{1}{v}=\frac{1}{0.3 \mathrm{~m}}+\frac{1}{0.25 \mathrm{~m}}=\frac{22}{3} \\ \Rightarrow \mathrm{u}=0.1364 \mathrm{~m}=13.64 \mathrm{~cm} \end{array}[/math]
+সুতরাং বস্তু হতে 13.64 cm দূরে লেন্সটি স্থাপন করলে স্পষ্ট প্রতিবিম্ব দেখতে পাওয়া যাবে।
+
+Explanation:
+ঘ ব্যাখ্যা: সরল অণুবীক্ষণ যন্ত্র হিসেবে লেন্সে স্পষ্ট ও বড় আপতিত (উত্থিত) ছবি পেতে বস্তুকে লেন্সের ফোকাসের মধ্যে রাখতে হয়; বিচিত্রী চোখের জন্য চাহিদা অনুযায়ী দুটি বিশেষ অবস্থা পাওয়া যায়—ছোটাকারে চোখ আরামেই দেখতে চাইলে ছবিকে অনন্তে আনতে বস্তু রাখতে হবে লেন্সের ফোকাসে, কেননা [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}[/math] ও [math]v\to\infty\Rightarrow u=f[/math]; আর যদি ছবি নিকটদৃষ্টির সীমা [math]D[/math] (সাধারণত 25 cm) এ আনতে হয়, তখন [math]v=-D[/math] রেখে লেন্স সূত্র থেকে পাওয়া যায় [math]u=\frac{fD}{D+f}[/math], অর্থাৎ বস্তুকে এই দূরীতে স্থাপন করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 428027)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে [math]AB[/math] একটি কাচের তৈরি উভোত্তল লেন্স। বায়ুতে এর ফোকাস দূরত্ব [math]20\ cm[/math]।
+
+[Image]
+
+
+Options:
+গ. লেন্সটিকে সরল অণুবীক্ষণ যন্ত্র হিসেবে ব্যবহার করলে এর বিবর্ধন ক্ষমতা কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+উভোত্তল লেন্সটির ফোকাস দূরত্ব, f = 20 cm[math]\hspace{1 cm}[/math]
+স্পষ্ট দর্শনের নিকটতম দূরত্ব, D = 25 cm[math]\hspace{1 cm}[/math]
+লেন্সটির বিবর্ধন, m = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} m & =1+\frac{D}{f} \\ & =1+\frac{25}{20} \\ & =\frac{45}{20}=2.25 \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ সরল অণুবীক্ষণ যন্ত্রের জন্য চোখের বিশ্রাম অবস্থায় সর্বাধিক বিবর্ধন হওয়ার সূত্র [math]M=1+\frac{D}{f}[/math], যেখানে [math]D=25\ \text{cm}[/math] (নূন্যতম দৃশ্য দূরত্ব)। এখানে [math]f=20\ \text{cm}[/math], তাই [math]M=1+\frac{25}{20}=1+1.25=2.25=\frac{9}{4}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 428028)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে [math]AB[/math] একটি কাচের তৈরি উভোত্তল লেন্স। বায়ুতে এর ফোকাস দূরত্ব [math]20\ cm[/math]।
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের লেন্সটিকে যদি পানি মাধ্যমে রাখা হয় তবে লেন্সটির ফোকাস দূরত্ব বেড়ে যায়। ফোকাস দূরত্ব বেড়ে যাওয়ার বিষয়টি গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, বায়ুতে ফোকাস দূরত্ব [math]= f_a[/math]
+ এবং পানিতে ফোকাস দূরত্ব [math]= f_w[/math]
+ [math]\hspace{1 cm}[/math]
+বায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক, [math]{ }_{\mathrm{a}} \mu_{\mathrm{g}}=1.5[/math]
+ [math]\hspace{1 cm}[/math]
+বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক, [math]{ }_{\mathrm{a}} \mu_{\mathrm{w}}=1.33 .[/math]
+ [math]\hspace{1 cm}[/math]
+উভোত্তল লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে [math]r_1[/math]
+ ও [math]r_2[/math]
+আমরা পাই, [math]\frac{1}{f_{\mathrm{a}}}=\left({ }_{\mathrm{a}} \mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \ldots\ldots\ldots\rm{(i)}[/math]
+আবার, [math]\frac{1}{f_{w}}=\left({ }_{a} \mu_{w}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)\ldots\ldots\ldots\rm{(ii)}[/math]
+ [math]\rm{(i)}\div \rm{(ii)}[/math]
+ হতে পাই,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{f_{\mathrm{w}}}{f_{\mathrm{a}}}=\frac{{}_\mathrm{a} \mu_{\mathrm{g}}-1}{\left(\frac{{}_\mathrm{a} \mu_{\mathrm{g}}}{{}_\mathrm{a}\mu_{\mathrm{w}}}-1\right)} \\ \Rightarrow \frac{f_{\mathrm{w}}}{f_{\mathrm{a}}}=\frac{1.5-1}{\frac{1.5}{1.33}-1} \\ \Rightarrow f_{\mathrm{w}}=\frac{.5 \times 1.33}{1.5-1.33} \times f_{\mathrm{a}}=4 f_{\mathrm{a}}=80 \mathrm{~cm} \end{array}[/math]
+ [math]\therefore f_{w}>f_{a}[/math]
+ অর্থাৎ পানিতে ফোকাস দূরত্ব বেড়ে যাবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ লেন্সমেকার সূত্র: [math]\frac{1}{f}=\left(\frac{n_{\text{lens}}}{n_{\text{medium}}}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math]. বায়ুতে ([math]n_{\text{medium}}=1[/math]) থাকে [math]\frac{1}{20}=(n_g-1)K[/math] যেখানে [math]K=(1/R_1-1/R_2)[/math], আর পানিতে [math]\frac{1}{f'}=\left(\frac{n_g}{n_w}-1\right)K[/math]. যেহেতু [math]\frac{n_g}{n_w}-11[/math]), তাই [math]1/f'f[/math]; উদাহরণ হিসেবে [math]n_g=1.5,\ n_w=1.33[/math] হলে [math]f'\approx78\ \text{cm}>20\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 428029)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020-2021 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+একটি উত্তল লেন্সের ফোকাস দূরত্ব [math]10\ cm[/math]। লেন্সের বাম পাশে [math]30\ cm[/math] দূরে একটি বস্তু রা খা হলো। প্রতিবিম্বের অবস্থান, প্রকৃতি ও বিবর্ধন নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : এখানে, ফোকাস দূরত্ব, [math]f=10\ cm[/math]
+লেন্স থেকে বস্তুর দূরত্ব, [math]u=30\ cm[/math]
+লেন্স থেকে বিম্বের দূরত্ব, [math]v=?[/math]
+ [math]\dfrac{1}{v}+\dfrac{1}{u}=\dfrac{1}{f} \Rightarrow \dfrac{1}{v}+\dfrac{1}{30}=\dfrac{1}{10} \therefore v=15 \mathrm{~cm} \text { (Ans.) }[/math]
+ [math]v[/math]
+ এর মান ধনাত্মক বলে বিঘ্ন বাস্তব ও উল্টা [math]\text { (Ans.) }[/math]
+বিবর্ধন , [math]m=-\dfrac{v}{u}=-\dfrac{15}{30}=-0.5 \text { (Ans.) }[/math]
+
+
+Explanation:
+লেন্স সূত্র ব্যবহার করলে [math]\dfrac{1}{d_i}=\dfrac{1}{f}-\dfrac{1}{d_o}=\dfrac{1}{10}-\dfrac{1}{30}=\dfrac{1}{15}[/math], তাই [math]d_i=15\ cm[/math] (লেন্সের অন্য দিকে)। বিবর্ধন [math]m=-\dfrac{d_i}{d_o}=-\dfrac{15}{30}=-\dfrac{1}{2}[/math], অতএব প্রতিবিম্ব বাস্তব, উল্টানো এবং বস্তুটির অর্ধেক আকারের।
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 428030)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2014-2015 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি [math]75mm[/math] ফোকাস দূরত্ব বিশিষ্ট (একক) লেন্সের মুভি ক্যামেরার সাহায্যে [math]27m[/math] দূরত্বে দাঁড়া নো এক ব্যাক্তির ছবি নেওয়া হলো। লোকটি [math]180cm[/math] লম্বা হলে ফিল্মের মধ্যে প্রতিবিম্বের উচ্চতা কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\dfrac{180}{359} \mathrm{Cm}[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{f} \Rightarrow \dfrac{1}{27}+\dfrac{1}{v}=\dfrac{1}{75 \times 10^{-3}} \Rightarrow v=0.0752 \quad \therefore m=\left|\dfrac{v}{u}\right|=\dfrac{1}{359}\\ \text { Again, } \mathrm{m}=\dfrac{\mathrm{h}^{\prime}}{\mathrm{h}} \Rightarrow \mathrm{h}^{\prime}=\mathrm{h} \times \mathrm{m}=180 \times \dfrac{1}{359}=\dfrac{180}{359} \mathrm{~cm} \text { (Ans.) }[/math]
+
+
+Explanation:
+ল্যেন্স সূত্র ব্যবহার করে প্রথমে চিত্রের দূরত্ব পাই: [math]\dfrac{1}{f}=\dfrac{1}{u}+\dfrac{1}{v}\Rightarrow v=\dfrac{1}{1/0.075-1/27}\approx0.07521\ \text{m}[/math].  
+চিত্রের উচ্চতা হল গুণনফল: [math]h_i=h_o\frac{v}{u}=1.8\times\frac{0.07521}{27}\approx0.00502\ \text{m}=5.02\ \text{mm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 428031)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2010-2011 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি স্লাইড প্রোজেক্টর দিয়ে [math]35mm \times 23mm[/math] আকারের একটি স্লাইডকে [math]2m \times 2m[/math] আকারের একটি পর্দায় প্রক্ষেপন করা হবে। যদি পর্দাটি লেন্স হতে [math]10m[/math] দূরে থাকে তাহলে লেন্সের ফোকাস দূরত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]0.172 \mathrm{~m}[/math]
+ )[math]\\[/math]
+Solution : [math]m=\dfrac{2}{35 \times 10^{-3}}=\dfrac{400}{7}=\dfrac{v}{u} \therefore \dfrac{400}{7}=\dfrac{10}{u} \quad \therefore u=\dfrac{7}{40}\\ \dfrac{1}{v}+\dfrac{1}{u}=\dfrac{1}{f} \Rightarrow \dfrac{1}{10}+\dfrac{1}{\dfrac{7}{40}}=\dfrac{1}{f} \Rightarrow f=0.172 \mathrm{~m} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: পর্দায় স্লাইডের প্রস্থ অনুযায়ী বর্ধক [math]m=\dfrac{2000\ \text{mm}}{35\ \text{mm}}=57.1429[/math] নেওয়া হয়েছে (এটাই সীমাবদ্ধ করে যাতে পুরো স্লাইড পর্দায়-মাপে যায়), সুতরাং বস্তুর দূরত্ব [math]u=\dfrac{v}{m}=\dfrac{10\ \text{m}}{57.1429}=0.175\ \text{m}[/math]. লেন্স সূত্রে [math]\dfrac{1}{f}=\dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{0.175}+\dfrac{1}{10}=5.8143\ \text{m}^{-1}[/math], তাই [math]f\approx0.1719\ \text{m}\approx17.2\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 428032)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]1.5[/math] প্রতিসরণাঙ্কের ও [math]0.40m[/math] বক্রতার ব্যাসার্ধের একটি কাচের সমউত্তল লেন্স হতে [math]0.50m[/math] দূরে একটি লক্ষ্যবস্তু স্থাপন করলে, বস্তুটির প্রতিবিম্বের অবস্থান ও বিবর্ধন কি হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]2m[/math]
+ দূরে এবং বিবর্ধন [math]= 4[/math]
+ )[math]\\[/math]
+Solution : [math]\text { Here, } \mu=1.5 \quad r_{1}=r_{2}=0.4 \mathrm{~m}, \quad(r_{1}[/math]
+ হলো [math]+\text { ve } r_{2}[/math]
+ হলো [math]-\text { ve) }[/math]
+ [math]\dfrac{1}{f}=(\mu-1)\left(\dfrac{1}{r_{1}}-\dfrac{1}{r_{2}}\right) \Rightarrow \dfrac{1}{f}=.5 \times\left(\dfrac{1}{0.4}+\dfrac{1}{0.4}\right) \Rightarrow f=0.4 \mathrm{~m}[/math]
+ [math]\dfrac{1}{v}+\dfrac{1}{u}=\dfrac{1}{f} \Rightarrow \dfrac{1}{v}+\dfrac{1}{0.5}=\dfrac{1}{0.4} \Rightarrow \dfrac{1}{v}=0.5 \Rightarrow v=2 \mathrm{~m}[/math]
+ এবং বিবর্ধন [math]\mathrm{m}=\frac{\mathrm{v}}{\mathrm{u}}=\frac{2}{0.5}=4[/math]
+ [math]\therefore[/math]
+ প্রতিবিম্বের অবস্থান বস্তুর বিপরীত দিকে লেন্স থেকে [math]2m[/math]
+ দূরে এবং বিবর্ধন [math]= 4\text{ (Ans.)}[/math]
+
+
+Explanation:
+প্রথমে লেন্সের ফোকাল দৈর্ঘ্য বের করি: প্লানো-উত্তল লেন্সের জন্য লেন্সমেকারের সূত্র [math]\frac{1}{f}=(n-1)\frac{1}{R}[/math], ফলে [math]\frac{1}{f}=(1.5-1)\frac{1}{0.40}=0.5\times2.5=1.25[/math] এবং [math]f=0.80\ \text{m}[/math]. বস্তু লেন্সের ফোকাল দৈর্ঘ্যের ভিতরে আছে (জায়গা [math]0.50\ \text{m}<f[/math]) তাই ইমেজ ভার্চুয়াল এবং সোজা হবে; ইমেজ দূরত্বটি নেয়া যায় [math]v=\frac{fu}{\,u-f\,}=\frac{0.80\times0.50}{0.50-0.80}=-1.33\ \text{m}[/math] (লেন্সের একই পাশে 1.33 m এ)। বিবর্ধন (আকারের অনুপাতে) হবে প্রায় [math]|m|=\frac{|v|}{u}=\frac{1.33}{0.50}\approx2.67[/math], অর্থাৎ ইমেজ উল্টো নয়, উর্ধ্বমুখী এবং প্রায় 2.67 গুণ বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 428034)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+কোন বস্তু থেকে [math]15cm[/math] দূরে একটি উত্তল লেন্স রাখলে এর প্রতিবিম্ব বাস্তব ও চারগুণ বিবর্ধিত হয় । লেন্সটি কোথায় রাখলে অবাস্তব ও তিনগুণ বিবর্ধিত প্রতিবিম্ব পাওয়া যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]8 \rm{cm}[/math]
+)[math]\\[/math]
+Solution : এখানে [math]\mathbf{u}=15 \mathrm{~cm}[/math]
+ আবার [math]\dfrac{\mathrm{v}}{\mathrm{u}}=4 \\ \Rightarrow \mathrm{v}=4 \times 15=60 \mathrm{~cm}[/math]
+আমরা জানি, [math]\dfrac{1}{\mathrm{v}}+\dfrac{1}{\mathrm{u}}=\dfrac{1}{\mathrm{f}}\\ \Rightarrow \dfrac{1}{60}+\dfrac{1}{15}=\dfrac{1}{\mathrm{f}}\\ \Rightarrow \mathrm{f}=12 \mathrm{~cm}[/math]
+২য় ক্ষেত্রে, [math]\rm{v}=-3 u[/math]
+তাহলে, [math]\dfrac{1}{\mathrm{u}}-\dfrac{1}{3 \mathrm{u}}=\dfrac{1}{\mathrm{f}} \Rightarrow \dfrac{3-1}{3 \mathrm{u}}=\dfrac{1}{12} \Rightarrow \mathrm{u}=\dfrac{2 \times 12}{3}=8 \mathrm{~cm} \\ \therefore \mathrm{u}=8 \mathrm{~cm}. \text { (Ans. )}[/math]
+
+
+Explanation:
+প্রথমে লেন্সের ফোকাল দৈর্ঘ্য বের করি: প্রতিবিম্ব বাস্তব ও চারগুণ হলে [math]v=4u=4×15=60\ \text{cm}[/math], তাই [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}=\frac{1}{60}+\frac{1}{15}=\frac{1}{12} \Rightarrow f=12\ \text{cm}[/math]. অবাস্তব (উর্ধ্বিত) ছবির জন্য সূত্র হবে [math]\frac{1}{f}=\frac{1}{u}-\frac{1}{v}[/math] এবং [math]v=mu[/math] হওয়ায় [math]u=\frac{(m-1)f}{m}[/math]; এখানে [math]m=3[/math] দিলে [math]u=\frac{2}{3}×12=8\ \text{cm}[/math]. ফলে লেন্সটি অবাস্তব ও তিনগুণ বিবর্ধিত ছবির জন্য বস্তুর থেকে 8 cm দূরে রাখতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #83 (ID: 428035)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি ক্যামেরাতে দুরের ভূমির দৃশ্য পরিষ্কারভাবে আসে যখন ক্যামেরাটির লেন্স [math]8cm[/math] দূরে। [math]80c m[/math] দূরের একটি ম্যাপ পরিষ্কারভাবে ক্যামেরাতে পেতে ক্যামেরায় লেপের দূরত্ব কি ধরনের পরিবর্তন করতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]0.889 cm[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{1}{u}+\dfrac{1}{v}=\dfrac{1}{f} \Rightarrow \dfrac{1}{\infty}+\dfrac{1}{8}=\dfrac{1}{f} \quad \therefore f=8 \mathrm{~cm}[/math]
+২য় ক্ষেত্রে, [math]\dfrac{1}{80}+\dfrac{1}{v}=\dfrac{1}{8} \quad \therefore v=8.889 \mathrm{~cm} . \ \ \ \therefore \Delta v=8.889-8=0.889 \mathrm{~cm} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+দূরের দৃশ্য অনন্ত মনে করে ছবিটি ফোকাসে পড়ে, তাই ফোকাল দৈর্ঘ্য [math]f=8\ \text{cm}[/math]। ম্যাপের জন্য লেন্স সূত্র ব্যবহার করলে [math]\frac{1}{v}=\frac{1}{f}-\frac{1}{u}=\frac{1}{8}-\frac{1}{80}=\frac{9}{80}[/math], তাই [math]v=\frac{80}{9}\approx 8.89\ \text{cm}[/math]; অতএব লেপ (ফিল্ম) দূরত্বটি প্রায় [math]0.89\ \text{cm}[/math] বাড়াতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #84 (ID: 428020)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে লক্ষ্যবস্তুর অবস্থান দেখানো হচ্ছে।
+
+Options:
+ঘ. লেন্সটিকে পর্যায়ক্রমে বায়ু ও পানিতে স্থাপন করলে উৎপন্ন বিশ্বের প্রকৃতি কেমন হবে, গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, লেন্সটির ফোকাস দূরত্ব, fউদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+উভোত্তল লেন্সের ১ম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]\mathrm{r}_{1}=20 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{2}=-30 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+কাঁচের প্রতিসরণাঙ্ক, [math]\mu_{\mathrm{g}}=1.5[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f} & =\left(\mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)=(1.5-1)\left(\frac{1}{20 \mathrm{~cm}}-\frac{1}{-30 \mathrm{~cm}}\right) \\ & =0.5\left(\frac{1}{20 \mathrm{~cm}}+\frac{1}{30 \mathrm{~cm}}\right)=0.5\left(\frac{3+2}{60 \mathrm{~cm}}\right) \\ \Rightarrow \frac{1}{f} & =\frac{5}{120 \mathrm{~cm}} \\ \therefore ~~f & =24 \mathrm{~cm} \end{aligned}[/math]
+সুতরাং উদ্দীপক অনুসারে লেন্সটির ফোকাস দূরত্ব 24 cmউদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 50 cm[math]\hspace{1 cm}[/math]
+পানির সাপেক্ষে কাচের প্রতিসরণাঙ্ক, [math]{ }_{\mathrm{w}} \mu_{\mathrm{g}}=\frac{\mu_{g}}{\mu_{\mathrm{w}}}=\frac{1.5}{1.3}=1.154[/math]
+ [math]\hspace{1 cm}[/math]
+পানিতে লেন্সটির ফোকাস দূরত্ব, [math]f_{w}=?[/math]
+ [math]\hspace{1 cm}[/math]
+বায়ুতে প্রতিবিম্বের দূরত্ব, [math]v_{\mathrm{a}}=?[/math]
+ [math]\hspace{1 cm}[/math]
+পানিতে প্রতিবিম্বের দূরত্ব, [math]v_{\mathrm{w}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \frac{1}{\mathrm{v}_{\mathrm{a}}}+\frac{1}{\mathrm{u}}=\frac{1}{f_{\mathrm{a}}}\\ \Rightarrow \frac{1}{v_{\mathrm{a}}}+\frac{1}{50 \mathrm{~cm}}=\frac{1}{24 \mathrm{~cm}} \\ \Rightarrow \frac{1}{\mathrm{v}_{\mathrm{a}}}=\frac{1}{24 \mathrm{~cm}}-\frac{1}{50 \mathrm{~cm}}=\frac{25-12}{600 \mathrm{~cm}}=\frac{13}{600 \mathrm{~cm}} \\ \therefore \mathrm{v}_{\mathrm{a}}=\frac{600 \mathrm{~cm}}{13}=46.15 \mathrm{~cm}\end{array}[/math]
+যেহেতু প্রতিবিম্বের দূরত্ব ধনাত্মক সেহেতু বিশ্বের প্রকৃতি হবে বাস্তব ও উল্টো।আবার,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{v_{w}}+\frac{1}{u} \frac{1}{f_{w}}\\ \\ \Rightarrow \frac{1}{v_{w}}+\frac{1}{u}=\left(w \mu_{B}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ \Rightarrow \frac{1}{v_{w}}=(1.154-1)\left(\frac{1}{20 \mathrm{~cm}}-\frac{1}{-30 \mathrm{~cm}}\right)-\frac{1}{50 \mathrm{~cm}} \\ \qquad =0.154\left(\frac{2+3}{60 \mathrm{~cm}}\right)-\frac{1}{50 \mathrm{~cm}} \\ \qquad =\frac{0.77}{60 \mathrm{~cm}}-\frac{1}{50 \mathrm{~cm}}=\frac{3.85-6}{300 \mathrm{~cm}} \\ \Rightarrow \frac{1}{v_{w}}=\frac{-2.15}{300 \mathrm{~cm}} \\ \therefore ~ v_{w}=-\frac{300 \mathrm{~cm}}{2.15}=-139.53 \mathrm{~cm} \end{array}[/math]
+যেহেতু প্রতিবিম্বের দূরত্ব ঋণাত্মক সেহেতু বিশ্বের প্রকৃতি অবাস্তব সোজা হবে।
+
+Explanation:
+ঘ লেন্সমেকারের সূত্র অনুযায়ী [math]\frac{1}{f}=\left(\frac{n_{\text{lens}}}{n_{\text{medium}}}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[math], ফলে মাঝামাঝি মাধ্যম বায়ু ([math]n_{m}=1[/math]) থেকে পানি ([math]n_{m}\approx1.33[/math]) হলে [math]\frac{n_{\text{lens}}}{n_{m}}-1[/math] ছোট হয়, অর্থাৎ ফোকাল দৈর্ঘ্য বাড়ে এবং লেন্সের শক্তি কমে যায়। একই অবজেক্ট দূরত্বে পাতলা লেন্স সূত্র [math]\frac{1}{u}+\frac{1}{v}=\frac{1}{f}[/math] প্রয়োগ করলে দেখা যায় ছবির দূরত্ব [math]v[/math] বাড়ে (চিত্রটি লেন্স থেকে দূরে চলে যায়); যদি [math]n_{\text{lens}}\le n_{m}[/math] হয় লেন্সের শক্তি শূন্য বা ঋণাত্মক হয়ে তা নির্জীব বা বিকেন্দ্রীক হয়ে ছবিটি ভার্চুয়াল হতে পারে।
+
+Sub-Questions:
+
+================================================================================
+Question #85 (ID: 428021)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একটি অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য এবং অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে [math]3\ cm[/math] এবং [math]4\ cm[/math] লেন্সদ্বয়ের মধ্যবর্তী দূরত্ব [math]14.5\ cm[/math]। [math]0.50\ mm[/math] দৈর্ঘ্যের একটি বস্তু অভিলক্ষ্য হতে [math]3.1\ cm[/math] দূরে স্থাপন করা হলো।
+
+Options:
+গ. অভিলক্ষ্যের প্রতিবিম্বের দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, অভিলক্ষ্যের প্রতিবিম্বের দূরত্ব [math]V_0[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{0}=10 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিলক্ষ্য হতে লক্ষ্যবস্তুর দূরত্ব, [math]u_{0}=1.1 \mathrm{~cm}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~\frac{1}{v_{0}}+\frac{1}{u_{0}}=\frac{1}{f_{0}}\\ \Rightarrow \frac{1}{\mathrm{v}_{0}}+\frac{1}{1.1 \mathrm{~cm}}=\frac{1}{1 \mathrm{~cm}}\\ \Rightarrow \frac{1}{\mathrm{v}_{0}}=\frac{1}{1 \mathrm{~cm}}-\frac{1}{1.1 \mathrm{~cm}}=\frac{1.1-1}{1.1 \mathrm{~cm}}=\frac{0.1}{1.1 \mathrm{~cm}}\\ \therefore \quad v_{0}=11 \mathrm{~cm}\end{array}[/math]
+সুতরাং অভিলক্ষ্যের প্রতিবিম্বের দূরত্ব 11 cm.[বি.দ্র. প্রশ্নে অভিলক্ষ্যের ফোকাস দূরত্ব 3 cm এর পরিবর্তে 1 cm এবং 3.1 cm এর পরিবর্তে 1.1 cm হবে কেননা 3.1 cm হলে প্রতিবিম্বের দূরত্ব হয় 93.93 cm. যা অভিনেত্রের লেন্সের বাইরে গঠিত হয়। অভিলক্ষ্যের প্রতিবিম্ব অর্থাৎ এটি অসম্ভব। সুতরাং প্রশ্নের মান সঠিক উত্তর পাওয়া সম্ভব হবে না।
+
+Explanation:
+ব্যাখ্যা:
+গ পাতলা লেন্স সূত্র ব্যবহার করে, [math]1/f=1/v+1/u[/math] এখানে [math]f=3\ cm,\,u=3.1\ cm[/math], তাই [math]1/v=1/3-1/3.1=0.0107527\ cm^{-1}[/math]. ফলে প্রতিবিম্বের দূরত্ব [math]v\approx93.0\ cm[/math] (অর্থাৎ বস্তুটি ফোকাসের সামান্য বাইরে থাকায় প্রতিবিম্বটি অনেক দূরে বাস্তবভাবে তৈরি হয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #86 (ID: 428022)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি সুইমিং পুল বেগুনি আলো দ্বারা আলোকিত। বেগুনি আলোর জন্য কাচের প্রতিসরণাঙ্ক [math]1.5[/math] এবং লাল আলোর জন্য প্রতিসরণাঙ্ক [math]1.48[/math]। একজন লোক [math]20\ cm[/math] বক্রতার ব্যাসার্ধবিশিষ্ট উভোত্তল লেন্সের চশমা পড়ে পানিতে ডুব দিলেন। তিনি [math]5\ cm[/math] সামনে বস্তু রেখে [math]25\ cm[/math] দূরে বিম্ব দেখতে পেলেন। কিন্তু বেগুনি আলো নিভিয়ে লাল আলো জ্বলতেই বিম্বের দূরত্বের পরিবর্তন হলো। পানির প্রতিসরণাঙ্ক [math]1.33[/math]।
+
+Options:
+ঘ. বর্ণ পরিবর্তনের সাথে প্রতিবিম্বের অবস্থানের পরিবর্তন হয় গাণিতিক যুক্তি দাও ৷
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+লাল আলোতে কাচ লেন্সের প্রতিসরণাঙ্ক, [math]\mu_{gR}=1.48[/math]
+ [math]\hspace{1 cm}[/math]
+পানির প্রতিসরণাঙ্ক, [math]\mu_{w}=1.33[/math]
+ [math]\therefore[/math]
+ লাল আলোতে পানি সাপেক্ষে কাচ লেন্সের প্রতিরণাঙ্ক,[math]\hspace{1.5 cm}{ }_{w} \mu_{\mathrm{gR}}=\dfrac{\mu_{\mathrm{RR}}}{\mu_{\mathrm{w}}}=\dfrac{1.48}{1.33}=1.113[/math]
+ [math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 5 cm[math]\hspace{1 cm}[/math]
+লাল আলোতে কাচ লেন্সের ফোকাস দূরত্ব, [math]f_R =?[/math]
+ [math]\hspace{1 cm}[/math]
+এবং প্রতিবিম্বের দূরত্ব, [math]V_R = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f_{\mathrm{R}}} & =\left({ }_{\mathrm{w}} \mu_{\mathrm{ga}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ & =(1.113-1)\left(\frac{1}{20 \mathrm{~cm}}-\frac{1}{-20 \mathrm{~cm}}\right) \\ & =0.113 \times \frac{1}{10 \mathrm{~cm}}=\frac{0.113}{10 \mathrm{~cm}} \end{aligned}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{v_{R}}+\frac{1}{u}&=\frac{1}{f_{R}}\\ \Rightarrow ~~~ \frac{1}{v_{R}} & =\frac{1}{f_{R}}-\frac{1}{U} \\ & =\frac{0.113}{10 \mathrm{~cm}}-\frac{1}{5 \mathrm{~cm}}=\frac{0.113-2}{10 \mathrm{~cm}}=\frac{-1.887}{10 \mathrm{~cm}} \\ \therefore ~ \mathrm{v}_{R} & =-5.3 \mathrm{~cm} \end{aligned}[/math]
+আবার, বেগুনি আলোর জন্য প্রতিবিম্বের দূরত্ব, [math]v_v[/math]
+ = 25cmযেহেতু [math]v_{v} 
+eq v_{e}[/math]
+ সেহেতু বর্ণ পরিবর্তনের সাথে প্রতিবিম্বের অবস্থানেরও পরিবর্তন ঘটবে।
+
+Explanation:
+ঘ বর্ণের সঙ্গে কাচের প্রতিসরণাঙ্ক পরিবর্তিত হওয়ার ফলে লেন্সের সক্রিয় ক্ষমতা বদলে যায়; লেন্স-মেকার সূত্রে [math]\frac{1}{f}=\left(\frac{n_{\text{lens}}}{n_{\text{medium}}}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math] এবং পানির জন্য [math]n_{\text{medium}}=1.33[/math] দিলে বেগুনি ও লালের জন্য [math]\frac{n_{\text{lens}}}{n_{\text{medium}}}-1[/math] ভিন্ন হবে (বেগুনীর জন্য [math]\approx0.127[/math], লালের জন্য [math]\approx0.1135[/math]), ফলে [math]f[/math] ভিন্ন হয়; আর লেন্স সমীকরণ [math]\frac{1}{v}+\frac{1}{u}=\frac{1}{f}[/math] অনুযায়ী স্থির বস্তুদূরী [math]u[/math] থাকলে বদলে যাওয়া [math]f[/math] ইমেজদূরী [math]v[/math] পরিবর্তন করেই দেবে।
+
+Sub-Questions:
+
+================================================================================
+Question #87 (ID: 428023)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি উভোত্তল লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে [math]20\ cm[/math] ও [math]40\ cm[/math]। বায়ুতে লেন্সের [math]60\ cm[/math] সামনে একটি লক্ষ্যবস্তু রাখলে [math]48\ cm[/math] পিছনে প্রতিবিম্ব সৃষ্টি হয়। লেন্সটিকে [math]1.67[/math] প্রতিসরণাঙ্কের তরলে নিমজ্জিত করা হলো।
+
+Options:
+ঘ. তরলে নিমজ্জিত করার পর লেন্সটির প্রকৃতি কী হবে তা গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, লেন্সের উপাদানের প্রতিসরণাঙ্ক [math]\mu[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+উভোত্তল লেন্সের ১ম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{1}=20 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{2}=-40 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 60 cm;[math]\hspace{1 cm}[/math]
+তরলের প্রতিসরণাঙ্ক, [math]\mu_{L}=1.67[/math]
+ [math]\hspace{1 cm}[/math]
+প্রতিবিম্বের দূরত্ব, v = 48 cmআমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad \frac{1}{f}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)\\ \Rightarrow \frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}}=(\mu-1)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)\\ \Rightarrow \frac{1}{60 \mathrm{~cm}}+\frac{1}{48 \mathrm{~cm}}=(\mu-1)\left(\frac{1}{20 \mathrm{~cm}}-\frac{1}{-40 \mathrm{~cm}}\right)\\ \Rightarrow \frac{9}{240 \mathrm{~cm}}=(\mu-1)\left(\frac{3}{40 \mathrm{~cm}}\right)\\ \Rightarrow \mu-1=\frac{9}{240 \mathrm{~cm}} \times \frac{40 \mathrm{~cm}}{3}\\ \Rightarrow \mu=\frac{1}{2}+1=1.5\end{array}[/math]
+সুতরাং লেন্সের উপাদানের প্রতিসরণাঙ্ক 1.5।ধরি, তরলে লেন্সটির ফোকাস দূরত্ব [math]f_2[/math]
+ [math]\therefore[/math]
+ তরল সাপেক্ষে লেন্সের উপাদানের প্রতিসরণাঙ্ক,[math]\hspace{1.5 cm}{ }_{L} \mu_{\mathrm{g}}=\dfrac{\mu_{\mathrm{g}}}{\mu_{\mathrm{L}}}=\dfrac{1.5}{1.67}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f_{\mathrm{L}}} & =\left({ }_{\mathrm{L}} \mu_{\mathrm{B}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ & =\left(\frac{1.5}{1.67}-1\right)\left(\frac{1}{20 \mathrm{~cm}}-\frac{1}{-40 \mathrm{~cm}}\right) \\ & =\frac{1.5}{1.67}-1\left(\frac{2+1}{40 \mathrm{~cm}}\right)=-7.635 \times 10^{-3} \\ \therefore ~f_{\mathrm{L}} & =-130.98 \mathrm{~cm} \end{aligned}[/math]
+যেহেতু লেন্সের ফোকাস দূরত্ব ঋণাত্মক সেহেতু লেন্সটির প্রকৃতি হবে অবতল। অর্থাৎ তরলে নিমজ্জিত করার পর লেন্সটি অবতল লেন্সের ন্যায় ক্রিয়া করবে।
+
+Explanation:
+ঘ বায়ুতে 1/f = 1/48 + 1/60 = [math]\tfrac{3}{80}[/math] হওয়ায় [math]f=\tfrac{80}{3}\ \text{cm}[/math]; লেন্সমেকারের সূত্রে [math]\tfrac{3}{80}=(n-1)\tfrac{3}{40}[/math] থেকে লেন্সের প্রতিসরণাঙ্ক [math]n=1.5[/math]. তরলে নিমজ্জিত করলে কার্যকর সূচক হবে [math]\dfrac{n_{\text{lens}}}{n_{\text{liq}}}=\dfrac{1.5}{1.67}<1[/math], ফলে ক্ষমতা নেতিবাচক হয়ে যাবে এবং লেন্সটি বিচ্ছুরক (diverging/নেতিবাচক ফোকাল) হবে — উদাহরণস্বরূপ নতুন ফোকাল প্রায় [math]-131\ \text{cm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #88 (ID: 428024)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে লক্ষ্যবস্তুর অবস্থান দেখানো হলো।
+
+Options:
+গ. উদ্দীপক থেকে লেন্সের ফোকাস দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, লেন্সটির ফোকাস দূরত্ব fউদ্দীপক হতে, উভোত্তল লেন্সের,[math]\hspace{1 cm}[/math]
+১ম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]\mathrm{r}_{1}=30 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{2}=-60 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+কাচের প্রতিসরণাঙ্ক, [math]\mu_{\mathrm{g}}=1.5[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f} & =\left(\mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ & =(1.5-1)\left(\frac{1}{30 \mathrm{~cm}}-\frac{1}{-60 \mathrm{~cm}}\right) \\ & =0.5\left(\frac{2+1}{60 \mathrm{~cm}}\right)=\frac{1.5}{60 \mathrm{~cm}}\\ \therefore ~f &=40 \mathrm{~cm} \end{aligned}[/math]
+সুতরাং লেন্সটির ফোকাস দূরত্ব 40 cm.
+
+Explanation:
+গ লেন্সের ফোকাস দূরত্ব নির্ণয়ের জন্য পাতলা লেন্স সূত্র ব্যবহার করে বস্তু ও চিত্রের দূরত্ব থেকে গণনা করতে হয়; সূত্রটি হলো [math]\dfrac{1}{f}=\dfrac{1}{v}+\dfrac{1}{u}[/math]। চিত্রে প্রদত্ত মানগুলো (বস্তুর দূরত্ব [math]u[/math] ও চিত্রের দূরত্ব [math]v[/math]) সূত্রে স্থাপন করলে সঠিক ফোকাস দূরত্ব পাওয়া যায়—সাইন কনভেনশনের অনুযায়ী বাস্তব বস্তুতে [math]u[/math] নেতিবাচক এবং বাস্তব চিত্রে [math]v[/math] ধনাত্মক ধরে গণনা করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #89 (ID: 428025)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে লক্ষ্যবস্তুর অবস্থান দেখানো হলো।
+
+Options:
+ঘ. লেন্সটিকে পর্যায়ক্রমে বায়ু ও পানিতে স্থাপন করলে বিশ্বের প্রকৃতি কেমন হবে গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, লেন্সটির ফোকাস দূরত্ব fউদ্দীপক হতে, উভোত্তল লেন্সের,[math]\hspace{1 cm}[/math]
+১ম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]\mathrm{r}_{1}=30 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{2}=-60 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+কাচের প্রতিসরণাঙ্ক, [math]\mu_{\mathrm{g}}=1.5[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f} & =\left(\mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ & =(1.5-1)\left(\frac{1}{30 \mathrm{~cm}}-\frac{1}{-60 \mathrm{~cm}}\right) \\ & =0.5\left(\frac{2+1}{60 \mathrm{~cm}}\right)=\frac{1.5}{60 \mathrm{~cm}}\\ \therefore ~f &=40 \mathrm{~cm} \end{aligned}[/math]
+সুতরাং লেন্সটির ফোকাস দূরত্ব 40 cm.আবার উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 50 cm[math]\hspace{1 cm}[/math]
+উভোত্তল লেন্সের বক্রতার ব্যাসার্ধ, [math]r_{1}=30 \mathrm{~cm}[/math]
+ এবং [math]r_{2}=-60 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+পানি সাপেক্ষে কাচের প্রতিসরণাঙ্ক, [math]{ }_{\mathrm{w}} \mu_{\mathrm{g}}=\dfrac{\mu_{\mathrm{g}}}{\mu_{\mathrm{w}}}=\dfrac{1.5}{1.33}=1.128[/math]
+ [math]\hspace{1 cm}[/math]
+বায়ুতে প্রতিবিম্বের দূরত্ব, [math]\mathrm{v}_{\mathrm{a}}=?[/math]
+ [math]\hspace{1 cm}[/math]
+পানিতে লেন্সটির ফোকাস দূরত্ব, [math]f_{\mathrm{w}}=?[/math]
+ [math]\hspace{1 cm}[/math]
+পানিতে প্রতিবিম্বের দূরত্ব, [math]\rm{v}_{\rm{w}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~~ \frac{1}{\mathrm{v}_{\mathrm{a}}}+\frac{1}{\mathrm{u}}=\frac{1}{f_{\mathrm{a}}}\\ \Rightarrow \frac{1}{\mathrm{v}_{\mathrm{a}}}+\frac{1}{50 \mathrm{~cm}}=\frac{1}{40 \mathrm{~cm}}\\ \Rightarrow \frac{1}{\mathrm{v}}=\frac{1}{40 \mathrm{~cm}}-\frac{1}{60 \mathrm{~cm}}=\frac{3-2}{120 \mathrm{~cm}}\\ \therefore \quad v=120 \mathrm{~cm}\end{array}[/math]
+যেহেতু প্রতিবিম্বের দূরত্ব ধনাত্মক সেহেতু প্রতিবিম্ব বাস্তব ও উল্টো হবে।আবার,[math]\quad \begin{aligned} \quad~ \frac{1}{\mathrm{v}_{\mathrm{w}}}+\frac{1}{\mathrm{u}} & =\frac{1}{f_{\mathrm{w}}} \\ \quad \Rightarrow \frac{1}{\mathrm{v}_{\mathrm{w}}}+\frac{1}{50 \mathrm{~cm}} & =\left({ }_{\mathrm{w}} \mu_{\mathrm{g}}-1\right)\left(\frac{1}{\mathrm{r}_{1}}-\frac{1}{\mathrm{r}_{2}}\right) \\ \Rightarrow ~\frac{1}{\mathrm{v}_{\mathrm{w}}} & =(1.128-1)\left(\frac{1}{30 \mathrm{~cm}}-\frac{1}{-60 \mathrm{~cm}}\right)-\frac{1}{50 \mathrm{~cm}} \\ & =0.128\left(\frac{1+2}{60 \mathrm{~cm}}\right)-\frac{1}{50 \mathrm{~cm}} \\ & =\frac{0.384}{60 \mathrm{~cm}}-\frac{1}{50 \mathrm{~cm}} \\ & =\frac{1.92-6}{300 \mathrm{~cm}}=-\frac{4.08}{300 \mathrm{~cm}} \\ \therefore ~ \mathrm{v}_{\mathrm{w}} & =-73.53 \mathrm{~cm} \end{aligned}[/math]
+যেহেতু প্রতিবিম্বের দূরত্ব ঋণাত্মক সেহেতু প্রতিবিম্ব অবাস্তব ও সোজা হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: লেন্স-মেকারের সূত্র মাধ‍্যম বিবেচনা করলে [math]\frac{1}{f}=\left(\frac{n}{n_m}-1\right)\left(\frac{1}{R_1}-\frac{1}{R_2}\right)[/math] যেখানে বায়ুতে [math]n_m=1[/math] এবং পানিতে [math]n_m>1[/math], তাই পানিতে [math]\frac{1}{f}[/math] ছোট হয় এবং কেন্দ্রবিন্দু দূরত্ব [math]f[/math] বড় হয়। লেন্স সূত্র [math]\frac{1}{v}+\frac{1}{u}=\frac{1}{f}[/math] অনুযায়ী ধ্রুব বস্তুদূর [math]u[/math] থাকলে বড় [math]f[/math] হলে ছবির দূরত্ব [math]v[/math] পরিবর্তিত হয়ে অধিক দূরে চলে যায় এবং যদি নতুন [math]f>u[/math] হয়ে যায় তবে ছবি বাস্তব থেকে ভার্চুয়াল ও সোজা হয়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #90 (ID: 428013)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একজন ছাত্র [math]100\ cm[/math] ফোকাস দূরত্বের একটি লেন্স দিয়ে [math]0.01\ cm[/math] দৈর্ঘ্যের কণা পরীক্ষা করছিল। পরে সে একটি নলের এক প্রান্তে এই লেন্স ও অন্য প্রান্তে [math]4\ cm[/math] ফোকাস দূরত্বের অন্য লেন্স লাগিয়ে আকাশ পর্যবেক্ষণ করল।
+
+Options:
+গ. ছোট কণাগুলোকে কত বড় দেখাচ্ছিল?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+লেন্সের ফোকাস দূরত্ব, f = 100 cm[math]\hspace{1 cm}[/math]
+কণার দৈর্ঘ্য, [math]l[/math]
+ = 0.01 cm[math]\hspace{1 cm}[/math]
+স্পষ্ট দর্শনের নিকটতম দূরত্ব, D = 25 cmআমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{M} & =1+\frac{\mathrm{D}}{f}=1+\frac{25}{100} \\ \Rightarrow \mathrm{M} & =1.25 \\ \Rightarrow \frac{l^{\prime}}{l} & =1.25 \\ \Rightarrow l^{\prime} & =1.25 \times l=1.25 \times 0.01 \mathrm{~cm} \\ \therefore l^{\prime} & =0.0125 \mathrm{~cm} \\ \therefore \Delta l & =l^{\prime}-l=(0.0125-0.01) \mathrm{cm}=0.0025 \mathrm{~cm} \end{aligned}[/math]
+অতএব, ছোট কণাগুলো 0.0025 cm বড় দেখাচ্ছিল ফলে উদ্দীপকের ছাত্র কণাগুলোকে 0.0125 cm দৈর্ঘ্যের দেখছিল।
+
+Explanation:
+গ কারণ তিনি একটি সরল দূরবীণ তৈরী করেছিলেন যেখানে অবজেকটিভের ফোকাল দূরত্ব [math]100\ cm[/math] এবং আইপিসের ফোকাল দূরত্ব [math]4\ cm[/math]; দূরবীণের কোণীয় বৃদ্ধিই প্রায় দেওয়া হয় [math]M=\dfrac{f_{\text{objective}}}{f_{\text{eyepiece}}}[/math] অনুযায়ী। তাই [math]M=\dfrac{100}{4}=25[/math], অর্থাৎ কণাগুলো 25 গুণ বৃহৎ মনে হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #91 (ID: 428014)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একজন ছাত্র [math]100\ cm[/math] ফোকাস দূরত্বের একটি লেন্স দিয়ে [math]0.01\ cm[/math] দৈর্ঘ্যের কণা পরীক্ষা করছিল। পরে সে একটি নলের এক প্রান্তে এই লেন্স ও অন্য প্রান্তে [math]4\ cm[/math] ফোকাস দূরত্বের অন্য লেন্স লাগিয়ে আকাশ পর্যবেক্ষণ করল।
+
+Options:
+ঘ. নল ব্যবহার করার পর আকাশের কোনো বস্তুকে দেখতে চাইলে কোন ফোকাসিং এ বেশি বড় দেখাবে গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+অভিলক্ষ্যের ফোকাস দূরত্ব, [math]f_{0}=100 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিনেত্রের ফোকাস দূরত্ব, [math]f_{\mathrm{e}}=4 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+স্পষ্ট দর্শনের নিকটতম দূরত্ব, D = 25 cmস্বাভাবিক দর্শন ফোকাসিং এর ক্ষেত্রে রৈখিক বিবর্ধন,[math]\hspace{1.5 cm}M=\dfrac{f_{0}}{f_{e}}=\dfrac{100}{4}=25[/math]
+নিকট ফোকাসিং এর ক্ষেত্রে রৈখিক বিবর্ধন,[math]\hspace{1.5 cm}M^{\prime}=\dfrac{f_{0}}{f_{e}}\left(1+\dfrac{f_{e}}{D}\right)=\dfrac{100}{4}\left(1+\dfrac{4}{25}\right)=29[/math]
+দেখা যাচ্ছে, [math]M^{\prime}>M \text {. }[/math]
+অতএব, নিকট ফোকাসিং এ বস্তু বেশি বড় দেখাবে।
+
+Explanation:
+ঘ
+ব্যাখ্যা: দূরবীক্ষণের কোণীয় বাড়ৎকরণ হয় [math]M=\dfrac{f_{\text{objective}}}{f_{\text{eyepiece}}}[/math]। যদি [math]100\ \text{cm}[/math] লেন্সটি অবজেক্টিভ এবং [math]4\ \text{cm}[/math] লেন্সটি আইপিস হয়, তখন [math]M=100/4=25[/math]; উল্টো করলে [math]M=4/100=0.04[/math] হয়। তাই [math]100\ \text{cm}[/math] লেন্সকে অবজেক্টিভ ও [math]4\ \text{cm}[/math] লেন্সকে আইপিস রাখলে আকাশের বস্তুকে গাণিতিকভাবে বেশি বড় দেখাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #92 (ID: 428015)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি [math]3\ m[/math] বাহুবিশিষ্ট ঘনক আকৃতির ট্যাংকে পানিশূন্য অবস্থায় দুই দেয়ালের মধ্যবর্তী স্থানে একটি উত্তল লেন্স স্থাপন করলে এর বিপরীত দেয়ালে একটি বস্তুর দ্বিগুণ বিবর্ধিত বাস্তব বিম্ব পাওয়া যায়। পরবর্তীতে ট্যাংকটি পানিপূর্ণ করা হয়। [পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে [math]1.33[/math] এবং [math]1. 5[/math]]
+
+Options:
+ঘ. পানিপূর্ণ ট্যাংকে লেন্স ও বস্তুর অবস্থান অপরিবর্তিত রাখলে বিশ্বের প্রকৃতির কোনোরূপ পরিবর্তন হবে কি না? গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করে মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, লক্ষবস্তুর দূরত্ব u এবং প্রতিবিম্বের দূরত্ব v[math]\hspace{1 cm}\therefore \quad v=\dfrac{3 \mathrm{~m}}{2}=1.5 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}\therefore[/math]
+ লক্ষবস্তুর দূরত্ব, [math]\mathrm{u}=\frac{\mathrm{v}}{2}=\frac{1.5 \mathrm{~m}}{2}=0.75 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ফোকাস দূরত্ব, f = 0.5 mধরি, পানিতে লেন্সের ফোকাস দূরত্ব, [math]f_{\rm{w}}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির প্রতিসরণাঙ্ক, [math]\mu_{\mathrm{w}}=1.33[/math]
+ [math]\hspace{1 cm}[/math]
+কাঁচের প্রতিসরণাঙ্ক, [math]\mu_{\mathrm{g}}=1.5[/math]
+ [math]\hspace{1 cm}[/math]
+পানি সাপেক্ষে কাঁচের প্রতিসরণাঙ্ক, [math]{}_\mathrm{w} \mu_{\mathrm{g}}=\frac{\mu_{\mathrm{g}}}{\mu_{w}}=\frac{1.5}{1.33}=1.128[/math]
+ [math]\hspace{1 cm}[/math]
+পানিশূন্য অবস্থায়, [math]\frac{1}{f}=\left(\mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)[/math]
+ [math]\hspace{1 cm}[/math]
+পানিপূর্ণ অবস্থায়, [math]\frac{1}{f_{\mathrm{w}}}=\left(\mathrm{w} \mu_{\mathrm{g}-1}\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)[/math]
+ [math]\hspace{1.5 cm}\begin{array}{l} \therefore \frac{\frac{1}{f}}{\frac{1}{f_{\mathrm{w}}}}=\frac{\left(\mu_{\mathrm{g}}-1\right)}{\left(\mathrm{w} \mu_{\mathrm{g}}-1\right)} \\ \Rightarrow \frac{f_{\mathrm{w}}}{f}=\frac{1.5-1}{1.128-1} \\ \Rightarrow f_{\mathrm{w}}=3.91 f=3.91 \times 0.5 \mathrm{~m}=1.955 \mathrm{~m} \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{u}+\frac{1}{v_{w}} & =\frac{1}{f_{w}}\\ \Rightarrow \quad \frac{1}{v_{\mathrm{w}}} & =\frac{1}{f_{\mathrm{w}}}-\frac{1}{\mathrm{u}} \\ & =\frac{1}{1.955 \mathrm{~m}}-\frac{1}{0.75 \mathrm{~m}}=\frac{0.75-1.955}{1.955 \times .0 .75}=\frac{1.205}{1.955 \times 0.75}\\ \therefore v_{w}&=-1.217 \mathrm{~m} \end{aligned}[/math]
+যেহেতু [math]v_w[/math]
+ ঋণাত্মক সেহেতু প্রতিবিম্ব অবাস্তব ও সোজা হবে অর্থাৎ‍ পানিপূর্ণ ট্যাংকে লেন্স ও বস্তুর অবস্থান অপরিবর্তিত রাখলে বিম্বের প্রকৃতির পরিবর্তন হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: শুরুতে [math]u+v=3,\ v=2u[/math] হলে [math]u=1\ m,\ v=2\ m[/math] এবং [math]\frac{1}{f_{air}}=\frac{1}{v}+\frac{1}{u}=\frac{1}{2}+1=\frac{3}{2}[/math], তাই [math]f_{air}=2/3\ m[/math]. পানিতে ফোকাল দূরত্ব হবে [math]f_{water}=f_{air}\frac{n_g-1}{\dfrac{n_g}{n_w}-1}[/math] যেখানে [math]n_g=1.5,\ n_w=1.33[/math], ফলে [math]f_{water}\approx2.606\ m[/math]. একই অবস্থানে রেখে বস্তুতে [math]u=1\ m[/math] নেওলে [math]\frac{1}{v'}=\frac{1}{f_{water}}-\frac{1}{u}\approx0.3836-1=-0.6164[/math], তাই [math]v'\approx-1.62\ m[/math] (নেগেটিভ মান দেখায় ভার্চুয়াল, বস্তুপাশেই) এবং নতুন বিবর্ধন [math]m'=-v'/u\approx1.62[/math] (সোজা, বড়)। অতএব পানিপূর্ণ হলে বিম্ব বাস্তব থেকে ভার্চুয়াল ও উল্টো হবে—অক্সম্প্রকৃত প্রকৃতি বদলাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #93 (ID: 428016)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি [math]3\ m[/math] বাহুবিশিষ্ট ঘনক আকৃতির ট্যাংকে পানিশূন্য অবস্থায় দুই দেয়ালের মধ্যবর্তী স্থানে একটি উত্তল লেন্স স্থাপন করলে এর বিপরীত দেয়ালে একটি বস্তুর দ্বিগুণ বিবর্ধিত বাস্তব বিম্ব পাওয়া যায়। পরবর্তীতে ট্যাংকটি পানিপূর্ণ করা হয়। [পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে [math]1.33[/math] এবং [math]1. 5[/math]]
+
+Options:
+গ. লেন্সটির ফোকাস দূরত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, লক্ষবস্তুর দূরত্ব u এবং প্রতিবিম্বের দূরত্ব v[math]\hspace{1 cm}\therefore \quad v=\dfrac{3 \mathrm{~m}}{2}=1.5 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+বিবর্ধন, m= – 2 [বাস্তব প্রতিবিম্ব উল্টো হয়][math]\hspace{1 cm}[/math]
+ফোকাস দূরত্ব, f = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad m=-\dfrac{v}{u}\\ \Rightarrow -2=-\frac{v}{u} \\ \Rightarrow u=\frac{-v}{-2}=\frac{v}{2} \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{u}+\frac{1}{v}=\frac{1}{f} \\ \Rightarrow \frac{1}{\frac{v}{2}}+\frac{1}{v}=\frac{1}{f} \\ \Rightarrow \frac{1}{v}+\frac{2}{v}=\frac{1}{f} \\ \Rightarrow \frac{1+2}{v}=\frac{1}{f} \\ \Rightarrow 3 f=v \\ \Rightarrow f=\frac{1.5 \mathrm{~m}}{3}=0.5 \mathrm{~m} \end{array}[/math]
+সুতরাং লেন্সটির ফোকাস দূরত্ব 0.5 m।
+
+Explanation:
+গ লেন্সটির ফোকাস দুরত্ব [math]\tfrac{2}{3}\ \text{m}[/math]। কারণ বিবর্ধন [math]m=v/u=2[/math] এবং [math]u+v=3\ \text{m}[/math] থেকে [math]u=1\ \text{m},\ v=2\ \text{m}[/math], ও পাতলা লেন্স সূত্রে [math]\frac{1}{f}=\frac{1}{u}+\frac{1}{v}=1+\tfrac{1}{2}=\tfrac{3}{2}\Rightarrow f=\tfrac{2}{3}\ \text{m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #94 (ID: 428017)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018, 2018, 2018, 2018, 2018 | Boards: Barisal Board, Chittagong Board, Rajshahi Board | Tags: Barisal Board, Chattogram Board, Rajshahi Board, Jessore Board, Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি পরীক্ষণে, একটি বস্তুকে একটি উভোত্তল লেন্সের [math]75\ cm[/math] সামনে স্থাপন করা হলো; যার বক্রতার ব্যাসার্ধ যথাক্রমে [math]15\ cm[/math] ও [math]30\ cm[/math]। এতে [math]30\ cm[/math] পিছনে প্রতিবিম্ব গঠিত হয়। অন্য একটি পরীক্ষণে, লেন্সটিকে [math]1.33[/math] প্রতিসরাঙ্কের মাধ্যমে স্থাপন করা হলো।
+
+Options:
+গ. প্রথম ক্ষেত্রে লেন্সটির ফোকাস দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 75 cm[math]\hspace{1 cm}[/math]
+প্রতিবিম্বের দূরত্ব, v = 30 cm[math]\hspace{1 cm}[/math]
+লেন্সের ফোকাস দূরত্ব, f = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~\frac{1}{f}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}} \\ \Rightarrow \frac{1}{f}=\frac{1}{75 \mathrm{~cm}}+\frac{1}{30 \mathrm{~cm}}\\ \Rightarrow \frac{1}{f}=\frac{7}{150 \mathrm{~cm}}\\ \Rightarrow f=\frac{150 \mathrm{~cm}}{7}\\ \Rightarrow f=21.43 \mathrm{~cm}\\ \therefore f=21.43 \mathrm{~cm}\end{array}[/math]
+অতএব, প্রথম ক্ষেত্রে উদ্দীপকের লেন্সটির ফোকাস দূরত্ব 21.43 cm।
+
+Explanation:
+ব্যাখ্যা: গ লেন্সের পাতলতা সূত্র প্রয়োগ করলে বাস্তব বস্তু ও বাস্তব প্রতিবিম্বের ক্ষেত্রে [math]\frac{1}{f}=\frac{1}{v}+\frac{1}{u}[/math] (এখানে [math]u=75\ cm[/math], [math]v=30\ cm[/math])। তাই [math]\frac{1}{f}=\frac{1}{30}+\frac{1}{75}=\frac{7}{150}[/math], ফলে [math]f=\frac{150}{7}\approx 21.43\ cm[/math]; অর্থাৎ ফোকাল দূরত্ব ≈ [math]21.43\ cm[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #95 (ID: 428018)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018, 2018, 2018, 2018, 2018 | Boards: Rajshahi Board, Barisal Board, Chittagong Board | Tags: Jessore Board, Rajshahi Board, Cumilla Board, Barisal Board, Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি পরীক্ষণে, একটি বস্তুকে একটি উভোত্তল লেন্সের [math]75\ cm[/math] সামনে স্থাপন করা হলো; যার বক্রতার ব্যাসার্ধ যথাক্রমে [math]15\ cm[/math] ও [math]30\ cm[/math]। এতে [math]30\ cm[/math] পিছনে প্রতিবিম্ব গঠিত হয়। অন্য একটি পরীক্ষণে, লেন্সটিকে [math]1.33[/math] প্রতিসরাঙ্কের মাধ্যমে স্থাপন করা হলো।
+
+Options:
+ঘ. দ্বিতীয় পরীক্ষায় একই দূরত্বে বস্তুটি স্থাপন করলে প্রতিবিম্বের প্রকৃতি প্রথম পরীক্ষার অনুরূপ হবে কি-না গাণিতিক বিশ্লেষণের মাধ্যমে মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 75 cm[math]\hspace{1 cm}[/math]
+প্রতিবিম্বের দূরত্ব, v = 30 cm[math]\hspace{1 cm}[/math]
+লেন্সের ফোকাস দূরত্ব, f = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~\frac{1}{f}=\frac{1}{\mathrm{u}}+\frac{1}{\mathrm{v}} \\ \Rightarrow \frac{1}{f}=\frac{1}{75 \mathrm{~cm}}+\frac{1}{30 \mathrm{~cm}}\\ \Rightarrow \frac{1}{f}=\frac{7}{150 \mathrm{~cm}}\\ \Rightarrow f=\frac{150 \mathrm{~cm}}{7}\\ \Rightarrow f=21.43 \mathrm{~cm}\\ \therefore f=21.43 \mathrm{~cm}\end{array}[/math]
+অতএব, প্রথম ক্ষেত্রে উদ্দীপকের লেন্সটির ফোকাস দূরত্ব 21.43 cm।এখানে,[math]\hspace{1 cm}\begin{array}{l} f=21.43 \mathrm{~cm} \\ r_{1}=15 \mathrm{~cm} \\ r_{2}=30 \mathrm{~cm} \end{array}[/math]
+এখন, লেন্সটির উপাদানের প্রতিসরাঙ্ক [math]\mu_l[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{1}{f}=\left(\mu_{l}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right) \\ \Rightarrow \frac{1}{21.43}=\left(\mu_{l}-1\right)\left(\frac{1}{15}+\frac{1}{30}\right) \\ \Rightarrow \mu_{l}-1=\frac{\frac{1}{21.43}}{\frac{1}{15}+\frac{1}{30}} \\ \Rightarrow \mu_{l}-1=0.47 \\ \Rightarrow \mu_{l}=1+0.47 \\ \therefore ~\mu_{l}=1.47\end{array}[/math]
+ধরি, 1.33 প্রতিসরাঙ্কের মাধ্যমে লেন্সটির ফোকাস দূরত্ব [math]f^\prime[/math]
+ [math]\hspace{1.5 cm}\begin{array}{l}\therefore \quad \frac{f^{\prime}}{f}=\frac{\left(\mu_{1}-1\right)}{\frac{\mu_{1}}{1.33}-1}\\ \Rightarrow f^{\prime}=\frac{1.47-1}{\frac{1.47}{1.33}-1} \times f=4.465 \times 21.43 \mathrm{~cm}\\ \therefore \quad f^{\prime}=95.68 \mathrm{~cm}\end{array}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+লক্ষ্যবস্তুর দূরত্ব, u = 75 cmআবার,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \frac{1}{f^{\prime}}=\frac{1}{u}+\frac{1}{v}\\ \Rightarrow \frac{1}{95.68}=\frac{1}{75}+\frac{1}{v}\\ \Rightarrow \frac{1}{v}=\frac{1}{95.68}-\frac{1}{75}\\ \Rightarrow \frac{1}{v}=-2.88 \times 10^{-3}\\ \Rightarrow \mathrm{v}=-346.93 \mathrm{~cm}\end{array}[/math]
+যেহেতু, [math]v[/math]
+ ঋণাত্মক সেহেতু বিম্ব অবাস্তব।অতএব, দ্বিতীয় পরীক্ষায় একই দূরত্বে বস্তুটি স্থাপন করলে প্রতিবিম্বের প্রকৃতি প্রথম পরীক্ষার অনুরূপ হবে না।
+
+Explanation:
+ব্যাখ্যা: ঘ প্রথমে বায়ুতে লেন্সের ফোকাস বের করি: [math]\frac{1}{v}-\frac{1}{u}=\frac{1}{f}[/math] যেখানে [math]u=-75\ cm,[\;]v=+30\ cm[/math], ফলে [math]\frac{1}{f}=\frac{1}{30}+\frac{1}{75}=0.0466667[/math] এবং [math]f\approx21.43\ cm[/math]. লেন্সমেকারের সূত্রে [math]\frac{1}{f}=(n-1)\big(\frac{1}{R_1}-\frac{1}{R_2}\big)[/math] (নিয়ে [math]R_1=+15\ cm,\;R_2=-30\ cm[/math]) থেকে লেন্সের প্রতিবর্তীত্ব পাওয়া যায় [math]n\approx1.4667[/math]. জলীয় মাধ্যম ([math]n_m=1.33[/math]) এ নতুন ফোকাস হবে [math]\frac{1}{f'}=\big(\frac{n}{n_m}-1\big)\big(\frac{1}{R_1}-\frac{1}{R_2}\big)\Rightarrow f'\approx97.1\ cm[/math]. একই স্থানে বস্তু দিলে [math]\frac{1}{v'}=\frac{1}{f'}+\frac{1}{u} \Rightarrow v'\approx-330\ cm[/math] (আদর্শ চিহ্নানুসারে নেতিবাচক মান — ভার্চুয়াল ছবি), সুতরাং ছবির প্রকৃতি প্রথম পরীক্ষার (রিয়াল ছবি) থেকে ভিন্ন।
+
+Sub-Questions:
+
+================================================================================
+Question #96 (ID: 428019)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে লক্ষ্যবস্তুর অবস্থান দেখানো হচ্ছে।
+
+Options:
+গ. উদ্দীপক অনুসারে লেন্সের ফোকাস দূরত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, লেন্সটির ফোকাস দূরত্ব, fউদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+উভোত্তল লেন্সের ১ম পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]\mathrm{r}_{1}=20 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় পৃষ্ঠের বক্রতার ব্যাসার্ধ, [math]r_{2}=-30 \mathrm{~cm}[/math]
+ [math]\hspace{1 cm}[/math]
+কাঁচের প্রতিসরণাঙ্ক, [math]\mu_{\mathrm{g}}=1.5[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \frac{1}{f} & =\left(\mu_{\mathrm{g}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)=(1.5-1)\left(\frac{1}{20 \mathrm{~cm}}-\frac{1}{-30 \mathrm{~cm}}\right) \\ & =0.5\left(\frac{1}{20 \mathrm{~cm}}+\frac{1}{30 \mathrm{~cm}}\right)=0.5\left(\frac{3+2}{60 \mathrm{~cm}}\right) \\ \Rightarrow \frac{1}{f} & =\frac{5}{120 \mathrm{~cm}} \\ \therefore ~~f & =24 \mathrm{~cm} \end{aligned}[/math]
+সুতরাং উদ্দীপক অনুসারে লেন্সটির ফোকাস দূরত্ব 24 cm
+
+Explanation:
+ব্যাখ্যা: চিত্রটি স্পষ্ট নয় বলে গ অপশনের মান সরাসরি বলা যাচ্ছে না; লেন্সের ফোকাস দূরত্ব জানতে অবজেক্ট‑দূরত্ব [math]u[/math] এবং ইমেজ‑দূরত্ব [math]v[/math] প্রয়োজন। লেন্স সূত্র ব্যবহার করুন: [math]1/f=1/v+1/u[/math] (চিহ্ননীতি মেনে u সাধারণত ঋণাত্মক, বাস্তব চিত্রের জন্য v ধনাত্মক)। আপনি যদি [math]u[/math] ও [math]v[/math] জানান, আমি দ্রুত [math]f[/math] বের করে দেব।
+
+Sub-Questions:
+

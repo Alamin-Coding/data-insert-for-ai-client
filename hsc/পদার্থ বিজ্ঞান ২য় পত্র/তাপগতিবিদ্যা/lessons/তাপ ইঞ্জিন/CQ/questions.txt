@@ -1,0 +1,2053 @@
+================================================================================
+Question #1 (ID: 419146)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018, 2018, 2018, 2018, 2018 | Boards: Rajshahi Board, Chittagong Board, Barisal Board | Tags: Rajshahi Board, Cumilla Board, Jessore Board, Chattogram Board, Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি প্রত্যাগামী ইঞ্জিন গৃহীত তাপের [math]\frac{1}{6}[/math] অংশ কাজে পরিণত করে। এর তাপগ্রাহকের তাপমাত্রা [math]54\ K[/math] কমলে দক্ষতা দ্বিগুণ হয়। উৎসে ব্যবহৃত পদার্থের ভর [math]m[/math] একক ও আপেক্ষিক তাপ [math]S[/math] একক।
+
+Options:
+ক. অন্তঃস্থ শক্তি কাকে বলে?
+খ. ইঞ্জিনের কর্মদক্ষতা ও রেফ্রিজারেটরের কার্যসম্পাদক গুণাঙ্কের মধ্যে পার্থক্য নিরূপণ কর।
+গ. এর তাপ উৎসের তাপমাত্রা নির্ণয় কর।
+ঘ. ইঞ্জিনের দক্ষতা দ্বিগুণ করা হলে উৎসে ব্যবহৃত পদার্থের এনট্রপি বাড়বে না-কি কমবে গাণিতিকভাবে ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রত্যেক বস্তুর মধ্যে একটি অন্তর্নিহিত শক্তি রয়েছে, যা কার্য সম্পাদন করতে পারে এবং যা অন্য শক্তিতে রূপান্তরিত হতে পারে। বস্তুর অভ্যন্তরস্থ অণু, পরমাণু ও মৌলিক কণাসমূহের রৈখিক গতি, স্পন্দন গতি ও ঘূর্ণনগতি এবং তাদের মধ্যকার বলের কারণে উদ্ভূত শক্তিকে অন্তঃস্থ শক্তি বলা হয়। [math]\\[/math]
+ খইঞ্জিনের কর্মদক্ষতা,
+[Image]
+[math]\Rightarrow \eta=\dfrac{T_{1}-T_{2}}{T_{1}}=1-\dfrac{T_{2}}{T_{1}}[/math]
+রেফ্রিজারেটরের কার্য সম্পাদন গুণাঙ্ক, [math]\mathrm{Q}=\dfrac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}-\mathrm{Q}_{2}}=\dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}-\mathrm{T}_{2}}[/math]
+উপরোক্ত দুটি সমীকরণ থেকে এটি স্পষ্ট যে ইঞ্জিনের কর্মদক্ষতা [math]1[/math]
+ এর চেয়ে ছোট যেখানে রেফ্রিজারেটরের কার্য সম্পাদন গুণাঙ্ক [math]1[/math]
+ এর চেয়ে বড়। [math]\\[/math]
+ গধরি, উৎস ও তাপ গ্রাহকের তাপমাত্রা যথাক্রমে [math]\mathrm{T}_1[/math]
+ ও [math]\mathrm{T}_2[/math]
+ এবং এদের থেকে গৃহীত ও বর্জিত তাপ যথাক্রমে [math]\mathrm{Q}_1[/math]
+ ও [math]\mathrm{Q}_2[/math]
+উদ্দীপক অনুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\mathrm{Q}_{1}-\mathrm{Q}_{2}=\dfrac{1}{6} \mathrm{Q}_{1} \\ \Rightarrow \mathrm{Q}_{2}=\mathrm{Q}_{1}-\dfrac{1}{6} \mathrm{Q}_{1} \\ \Rightarrow \mathrm{Q}_{2}=\dfrac{5 \mathrm{Q}_{1}}{6} \\ \Rightarrow \dfrac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\dfrac{5}{6}\ldots\ldots\ldots\rm{(i)} \end{array}[/math]
+ইঞ্জিনটি প্রত্যাগামী হওয়ায়,[math]\hspace{1.5 cm}\rm{\dfrac{Q_{2}}{Q_{1}}=\dfrac{T_{2}}{T_{1}}=\dfrac{5}{6}}\ldots\ldots\ldots\rm{(ii)}[/math]
+উদ্দীপক অনুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ 1-\dfrac{\mathrm{T}_{2}-54}{\mathrm{T}_{1}}=2\left(1-\dfrac{\mathrm{T}_{2}}{\mathrm{T}_{1}}\right) \\ \Rightarrow 1-\dfrac{\mathrm{T}_{2}}{\mathrm{T}_{1}}+\dfrac{54}{\mathrm{T}_{1}}=2-2 \times \dfrac{\mathrm{T}_{2}}{T_{1}} \\ \Rightarrow 1-\dfrac{5}{6}+\dfrac{54}{\mathrm{T}_{1}}=2-2 \times \dfrac{5}{6} \\ \Rightarrow \dfrac{54}{\mathrm{T}_{1}}=2-\dfrac{10}{6}+\dfrac{5}{6}-1 \\ \Rightarrow \dfrac{54}{\mathrm{T}_{1}}=1-\dfrac{5}{6} \\ \Rightarrow \dfrac{54}{\mathrm{T}_{1}}=\dfrac{1}{6} \\ \Rightarrow \mathrm{T}_{1}=324 \mathrm{~K} \end{array}[/math]
+অতএব, তাপ উৎসের তাপমাত্রা [math]324 \mathrm{~K}[/math]
+। [math]\\[/math]
+ ঘ'গ' হতে পাই, উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=324 \mathrm{~K}[/math]
+ [math]\hspace{1.3 cm}\begin{array}{l} \quad \rm{\dfrac{T_{2}}{T_{1}}}=\dfrac{5}{6} \\ \Rightarrow \rm{T}_{2}=\dfrac{5}{6} \times \rm{T}_{1}=\frac{5}{6} \times 324 \mathrm{~K} \\ \therefore \rm{T}_{2}=270 \mathrm{~K} \end{array}[/math]
+ [math]\therefore[/math]
+ তাপ গ্রাহকের তাপমাত্রা [math]270 \mathrm{~K}[/math]
+দক্ষতা দ্বিগুণ করা হলে তাপ গ্রাহকের তাপমাত্রা দাঁড়ায়,[math]\hspace{1.5 cm}\rm{T}_{2}^{\prime}=\rm{T}_{2}-54 \mathrm{~K}=(270-54) \mathrm{K}=216 \mathrm{~K}[/math]
+দক্ষতা দ্বিগুণ করলে এন্ট্রপির পরিবর্তন,[math]\hspace{1.5 cm}\mathrm{dS}=\mathrm{mS} \ln \dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}=\mathrm{mS} \ln \dfrac{216}{324}=-0.405 \mathrm{mS}[/math]
+যেহেতু, [math]\mathrm{m}, \mathrm{~S}[/math]
+ উভয়ই ধনাত্মক সেহেতু, [math]\mathrm{dS}[/math]
+ ঋণাত্মক।[math]\mathrm{dS}[/math]
+ ঋণাত্মক হওয়ার অর্থ এন্ট্রপি কমবে।অতএব, ইঞ্জিনের দক্ষতা দ্বিগুণ করা হলে উৎসে ব্যবহৃত পদার্থের এন্ট্রপি কমবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক অন্তঃস্থ শক্তি হলো পদার্থের কণাগুলোর সামষ্টিক অনুভূমিক ও গতিসম্পর্কিত অণুস্তরীয় শক্তি—অর্থাৎ অণু ও ইলেকট্রনের গতিবেগজনিত তাৎপর্যপূর্ণ কাইনেটিক এবং পারস্পরিক ক্ষেত্রভিত্তিক পটেনশিয়াল শক্তির সমষ্টি।  
+
+খ কার্নট ইঞ্জিনের জন্য কর্মদক্ষতা এবং রেফ্রিজারেটরের কার্যসম্পাদক (COP) করা হয় যথাক্রমে [math]\eta=1-\dfrac{T_C}{T_H}[/math] ও [math]\mathrm{COP}=\dfrac{T_C}{T_H-T_C}[/math] (এখানে [math]T_H[/math] ও [math]T_C[/math] উৎস ও সিঙ্কের তাপমাত্রা)। তাদের পার্থক্য লিখলে পাওয়া যায় [math]\eta-\mathrm{COP}= \dfrac{T_H-T_C}{T_H}-\dfrac{T_C}{T_H-T_C}[/math]।  
+
+গ প্রথমে [math]\eta_1=1-\dfrac{T_C}{T_H}=\dfrac{1}{6}\Rightarrow \dfrac{T_C}{T_H}=\dfrac{5}{6}\Rightarrow T_H=\dfrac{6}{5}T_C[/math]. দক্ষতা দ্বিগুণ হলে [math]\eta_2=\dfrac{1}{3}=1-\dfrac{T_C-54}{T_H}\Rightarrow \dfrac{T_C-54}{T_H}=\dfrac{2}{3}\Rightarrow T_H=\dfrac{3}{2}(T_C-54)[/math]. এগুলো সমান করে সমাধান করলে [math] \dfrac{6}{5}T_C=\dfrac{3}{2}(T_C-54)\Rightarrow T_C=270\ \text{K}[/math] এবং তাই [math]T_H=\dfrac{6}{5}\times270=324\ \text{K}[/math]।  
+
+ঘ যদি ইঞ্জিনটি প্রত্যাগামী (রিভার্সিবিল) হয়, তাহলে পূর্ণ সাইকেলে কাজরত পদার্থের এনট্রপির পরিবর্তন শূন্য, কারণ [math]\Delta S=\oint \dfrac{\delta Q_{\rm rev}}{T}=0[/math]; ফলে দক্ষতা দ্বিগুণ হলেও সাইক্লিক কাজরত পদার্থের এনট্রপি বৃদ্ধি বা হ্রাস হয় না (কোনো পরিবর্তন নেই)।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 419147)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018, 2018, 2018 | Boards: Dhaka Board, Dinajpur Board, Sylhet Board | Tags: Dhaka Board, Dinajpur Board, Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি তাপ ইঞ্জিনের গৃহীত তাপ ও বর্জিত তাপের অনুপাত [math]5 : 2[/math]. উৎসের তাপমাত্রা [math]110\ K[/math] বাড়ালে দক্ষতা [math]70\%[/math] হয়। ইঞ্জিনটি তাপ উৎস হতে [math]1200\ J[/math] তাপ গ্রহণ করে।
+
+Options:
+ক. পরাবৈদ্যুতিক ধ্রুবক কী?
+খ. চার্জিত গোলাকার পরিবাহীর কেন্দ্রে ও পৃষ্ঠে বিভব সমান— ব্যাখ্যা কর।
+গ. ইঞ্জিনটির দক্ষতা বের কর।
+ঘ. তাপ উৎসের তাপমাত্রা অপরিবর্তিত রেখে এটিকে কীভাবে প্রত্যাবর্তী ইঞ্জিনে রূপান্তর সম্ভব—বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+কদুটি বিন্দু চার্জের মধ্যে নির্দিষ্ট দূরত্বের শূন্যস্থানে ক্রিয়াশীল বল ও ঐ দুই চার্জের মধ্যে একই দূরত্বে অন্য কোনো মাধ্যমে ক্রিয়াশীল বলের অনুপাতকে ঐ মাধ্যমের তড়িৎ মাধ্যমাঙ্ক বা পরাবৈদ্যুতিক ধ্রুবক বলে। [math]\\[/math]
+ খএকটি বিচ্ছিন্ন গোলাকার পরিবাহীতে যে পরিমাণ চার্জ থাকে তা গোলকের পৃষ্ঠে সর্বত্র ছড়িয়ে থাকে এবং গোলকটিকে উহার কেন্দ্রে অবস্থিত একটি বিন্দু চার্জের মতো মনে হয়।এখন গোলাকার পরিবাহীর অভ্যন্তরে যেকোনো বিন্দুতে প্রাবল্যের মান শূন্য।পরিবাহীর পৃষ্ঠের বিভব [math]\mathrm{V}_{0}[/math]
+ এবং কেন্দ্রে বিভব [math]\rm{V}[/math]
+ হলে,আমরা জানি,[math]\hspace{1.5 cm}\quad \rm{V-V_{0}=}[/math]
+ প্রাবল্য [math]\times[/math]
+ দূরত্ব[math]\hspace{1.5 cm}\begin{array}{l} \Rightarrow \mathrm{V}-\mathrm{V}_{0}=0 \\ \therefore ~ \ \mathrm{V}=\mathrm{V}_{0} \end{array}[/math]
+অর্থাৎ পৃষ্ঠে ও কেন্দ্রে বিভব সমান। [math]\\[/math]
+ গমনে করি, গৃহিত তাপ ও বর্জিত তাপ যথাক্রমে [math]\rm{Q_{1} \text { ও } Q_{2}}[/math]
+উদ্দীপক অনুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{Q}_{1}: \rm{Q}_{2}&=5: 2 \\ \Rightarrow\quad \dfrac{\mathrm{Q}_{1}}{\mathrm{Q}_{2}}&=\dfrac{5}{2} \\ \Rightarrow \quad \dfrac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}&=\dfrac{2}{5} \end{array}[/math]
+আমরা জানি, ইঞ্জিনের দক্ষতা,[math]\hspace{1.5 cm}\begin{aligned} \eta & =\left(1-\rm{\frac{Q_{2}}{Q_{2}}}\right) \times 100 \% \\ & =\left(1-\frac{2}{5}\right) \times 100 \%=60 \% \end{aligned}[/math]
+অতএব, উদ্দীপকের ইঞ্জিনটির দক্ষতা [math]60\%[/math]
+।[math]\\[/math]
+ ঘ'গ' হতে, [math]\dfrac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\dfrac{2}{5}[/math]
+ধরি, তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা যথাক্রমে [math]\mathrm{T}_{1} ~ও~ \mathrm{T}_{2}[/math]
+আমরা জানি, প্রত্যাগামী ইঞ্জিনের ক্ষেত্রে,[math]\hspace{1.5 cm}\begin{aligned} \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} & =\frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}} \\ \therefore \quad \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} & =\frac{2}{5} \end{aligned}[/math]
+আবার, উদ্দীপক অনুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad 0.7=1-\rm{\dfrac{T_{2}}{T_{1}+110}}\\ \Rightarrow \dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}+110}=1-0.7\\ \Rightarrow \dfrac{\mathrm{T}_{1}+110}{\mathrm{~T}_{2}}=\dfrac{1}{0.3}\\ \Rightarrow \rm{\dfrac{T_{1}}{T_{2}}+\dfrac{110}{T_{2}}}=\dfrac{10}{3}\\ \Rightarrow \dfrac{5}{2}+\dfrac{110}{\mathrm{~T}_{2}}=\dfrac{10}{3}\\ \Rightarrow \rm{\dfrac{110}{T_{2}}}=\dfrac{5}{6}\\ \Rightarrow \rm{T}_{2}=\dfrac{110}{\frac{5}{6}}=110 \times \dfrac{6}{5}=132\end{array}[/math]
+ [math]\hspace{1 cm}\therefore \quad \rm{T}_{2}=132 \mathrm{~K}[/math]
+অতএব, তাপ উৎসের তাপমাত্রা অপরিবর্তীত রেখে তাপগ্রাহকের তাপমাত্রা 132 K করে এটিকে প্রত্যাবর্তী ইঞ্জিনে রূপান্তর সম্ভব।
+
+Explanation:
+ব্যাখ্যা: গ ইঞ্জিনটির দক্ষতা গৃহীত ও বর্জিত তাপের অনুপাত থেকে সরাসরি মেলে: [math]\eta=1-\dfrac{Q_c}{Q_h}=1-\dfrac{2}{5}=\dfrac{3}{5}=60\%[/math]. অতিরিক্তভাবে কাজের পরিমাণ হবে [math]W=\eta Q_h=0.6\times1200=720\ J[/math] — তাই দক্ষতা 60% এবং কাজ 720 J।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 419148)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+শহীদ একটি ইঞ্জিন তৈরি করে দাবি করল তার ইঞ্জিনটি কার্নোর প্রত্যাগামী ইঞ্জিন। এটি উৎস হতে গৃহীত তাপের এক-চতুর্থাংশ কাজে পরিণত করে বাকী [math]300\ J[/math] তাপগ্রাহকে বর্জন করে। শহীদ তার ইঞ্জিনের তাপ উৎস ও গ্রাহকের তাপমাত্রা পেয়েছিল যথাক্রমে [math]350\ K[/math] ও [math]310\ K[/math]।
+
+Options:
+ক. তাপগতিবিদ্যার ২য় সূত্র লিখ।
+খ. তাপের পরিবহন অপ্রত্যাবর্তী প্রক্রিয়া কেন? ব্যাখ্যা কর।
+গ. তাপ উৎসের তাপ নির্ণয় কর।
+ঘ. বাস্তবে দেখা গেল তার দাবি সঠিক নয় । ইঞ্জিনটিকে প্রত্যাগামী করতে কী ধরনের পরির্তন করতে হবে গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ককার্নোর বিবৃতি অনুসারে তাপগতিবিদ্যার ২য় সূত্রটি হলো [math]-[/math]
+ কোনো নির্দিষ্ট পরিমাণ তাপশক্তিকে সম্পূর্ণভাবে যান্ত্রিক শক্তিতে রূপান্তর করার মতো যন্ত্র তৈরি সম্ভব নয়। [math]\\[/math]
+ খযে প্রক্রিয়া বিপরীতমুখী হয়ে প্রত্যাবর্তন করতে পারে না তাকে অপ্রত্যাগামী প্রক্রিয়া বলা হয়। তাপ সর্বদা উচ্চ তাপমাত্রার বস্তু থেকে নিম্ন তাপমাত্রার বস্তুতে সঞ্চালিত হয়। একে তাপের পরিবহন বলে। কিন্তু নিম্ন তাপমাত্রার বস্তু থেকে তাপ উচ্চ তাপমাত্রার বস্তুতে কখনও সঞ্চালিত হয় না। এজন্য তাপের পরিবহন অপ্রত্যাবর্তী প্রক্রিয়া। [math]\\[/math]
+ গধরি, তাপ উৎসের তাপ [math]\mathrm{Q}_{1}[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+ইঞ্জিনের দক্ষতা, [math]\eta=\rm{\dfrac{W}{Q_{1}}}=\dfrac{1}{4}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্জিত তাপ, [math]\rm{Q}_{2}=300 \mathrm{~J}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad \eta=1-\rm{\dfrac{Q_{2}}{Q_{1}}} \\ \Rightarrow \dfrac{1}{4}=1-\dfrac{300 \mathrm{~J}}{Q_{1}} \\ \Rightarrow \dfrac{300 \mathrm{J}}{Q_{1}}=1-\dfrac{1}{4}=\dfrac{3}{4} \\ \Rightarrow \rm{Q}_{1}=400 \mathrm{~J} \end{array}[/math]
+সুতরাং তাপ উৎসের তাপ [math]400 \mathrm{~J}[/math]
+। [math]\\[/math]
+ ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=350 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=310 \mathrm{~K}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \eta^{\prime} & =\rm{1-\frac{T_{2}}{T_{1}}} \\ & =1-\frac{310 \mathrm{~K}}{350 \mathrm{~K}}\\ & =\frac{350 \mathrm{~K}-310 \mathrm{~K}}{350 \mathrm{~K}}\\ & =\frac{40 \mathrm{~K}}{350 \mathrm{~K}}=\frac{4}{35} \end{aligned}[/math]
+অর্থাৎ [math]\eta 
+eq \eta^{\prime}[/math]
+এক্ষেত্রে [math]\eta^{\prime}[/math]
+ কে [math]\eta[/math]
+ তে উন্নীত করতে তাপগ্রাহকের তাপমাত্রা কমানোই উত্তম।ধরি, পরিবর্তিত তাপগ্রাহকের তাপমাত্রা, [math]\rm{T_{2}^{\prime}}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{array}{l} \quad\eta^{\prime}=1-\dfrac{\rm{T}_{2}^{\prime}}{\rm{T}_{1}} \\ \Rightarrow \dfrac{1}{4}=1-\dfrac{\mathrm{T}_{2}^{\prime}}{350 \mathrm{~K}} \\ \Rightarrow \dfrac{\mathrm{T}_{2}^{\prime}}{350 \mathrm{~K}}=1-\dfrac{1}{4}=\dfrac{3}{4} \\ \Rightarrow \mathrm{~T}_{2}^{\prime}=\dfrac{3 \times 350 \mathrm{~K}}{4}=262.5 \mathrm{~K} \end{array}[/math]
+ [math]\therefore[/math]
+ তাপগ্রাহকের তাপমাত্রা কমাতে হবে[math]\hspace{1.5 cm}=(310-262.5) \mathrm{K}=47.5 \mathrm{~K}[/math]
+এন্ট্রপির পরিবর্তন,এক্ষেত্রে,[math]\hspace{1.3 cm}\mathrm{dS}=\dfrac{\mathrm{Q}_{1}}{\mathrm{~T}_{1}}-\dfrac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}^{\prime}}=\dfrac{400 \mathrm{~J}}{350 \mathrm{~K}}-\dfrac{300 \mathrm{~J}}{262.5 \mathrm{~K}}=0[/math]
+অতএব, উপরের গাণিতিক বিশ্লেষণ হতে বলা যায় যে, তাপগ্রাহকের তাপমাত্রা [math]47.5 \mathrm{~K}[/math]
+ কমালে ইঞ্জিনটি প্রত্যাগামী হবে।
+
+Explanation:
+সমাধান:
+
+ক তাপগতিবিদ্যার ২য় সূত্র: একটি সম্ভাব্য রূপ — Kelvin–Planck: "কোনো ইঞ্জিন উৎস থেকে তাপ নিয়ে সম্পূর্ণরূপে কাজ উৎপন্ন করে শূন্য তাপ ত্যাগে কাজ করতে পারে না।" Clausius রূপ: "তাপ স্বতঃস্ফূর্তভাবে ঠंडা দেহ থেকে গরম দেহের দিকে স্থানান্তরিত হয় না।" এছাড়া এন্ট্রপির রূপ: [math]\Delta S_{\text{univ}}\ge 0[/math]।
+
+খ তাপের পরিবহন অপ্রত্যাবর্তী কেন: তাপ স্বতঃস্ফূর্তভাবে উচ্চ তাপমাত্রা থেকে নিম্ন তাপমাত্রার দিকে যায়, ফলে সার্বজনীন এন্ট্রপি বাড়ে; উল্টোদিক প্রবাহ ঘটাতে বাইরের কাজ প্রয়োজন। তাই প্রকৃত প্রক্রিয়াটি অপরিবর্তনীয় (irreversible)।
+
+গ সূত্রানুসারে ধরো উৎস থেকে প্রাপ্ত তাপ [math]Q_h[/math], কাজ [math]W=Q_h/4[/math], বর্জিত তাপ [math]Q_c=300\ \text{J}=Q_h-W=Q_h-\tfrac{1}{4}Q_h=\tfrac{3}{4}Q_h[/math], তাই [math]Q_h=\tfrac{4}{3}\times300=400\ \text{J}[/math]।
+
+ঘ Carnot সর্বোচ্চ দক্ষতা: [math]\eta_C=1-\dfrac{T_c}{T_h}=1-\dfrac{310}{350}=0.114285\approx11.43\%[/math], কিন্তু শহীদের ইঞ্জিনে দক্ষতা [math]25\%[/math] হওয়ার দাবি Carnot সীমা লঙ্ঘন করে, তা অসম্ভব। যদি ইঞ্জিনকে Carnot-সমমান (সর্বোচ্চ প্রত্যাবর্তী) করতে চান, তাহলে [math]1-\dfrac{T_c}{T_h}\ge0.25[/math] হওয়া দরকার; এর থেকে [math]T_h\ge\dfrac{310}{0.75}\approx413.33\ \text{K}[/math] পাওয়া যায়। অথবা যদি [math]T_h=350\ \text{K}[/math] অক্ষত থাকে, তবে [math]T_c\le350(1-0.25)=262.5\ \text{K}[/math] হতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 419145)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন সমোষ্ণ প্রসারণ, রুদ্ধতাপীয় প্রসারণ, সমোষ্ণ সংকোচন ও রুদ্ধতাপীয় সংকোচন এ চারটি ধাপে কাজ করে। ইঞ্জিনের তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা যথাক্রমে [math]1000^\circ C[/math] ও [math]500^\circ C[/math]। ধাপ চারটিতে সম্পাদিত কাজের পরিমাণ যথাক্রমে [math]900\ J, 800\ J, 500\ J[/math] ও [math]250\ J[/math] ।
+
+Options:
+ক. ধারকত্বের সংজ্ঞা দাও।
+খ. গোলকের অভ্যন্তরে সকল বিন্দুতে বিভব সমান – ব্যাখ্যা কর।
+গ. ইঞ্জিন কর্তৃক মোট সম্পাদিত কাজের পরিমাণ নির্ণয় কর।
+ঘ. উদ্দীপকের ইঞ্জিনটির তাপ উৎসের তাপমাত্রা বাড়ানোর চেয়ে তাপ গ্রাহকের তাপমাত্রা সমপরিমাণ কমালে দক্ষতা আরও বৃদ্ধি পাবে— গাণিতিক বিশ্লেষণের মাধ্যমে যথার্থতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো পরিবাহীর বিভব একক পরিমাণ বাড়াতে যে পরিমাণ চার্জের প্রয়োজন হয় তাকে ঐ পরিবাহীর তড়িৎ ধারকত্ব বলে। [math]\\[/math]
+ খএকটি তড়িৎক্ষেত্রের ভেতর অবস্থিত যে তলের উপর সকল বিন্দুতে তড়িৎ বিভব সমান হয় তাকে সমবিভব তল বলে।ব্যাখ্যা : মনে করি, শূন্য বা বায়ু মাধ্যমে [math]\rm{O}[/math]
+ বিন্দুতে [math]+ \rm{q}[/math]
+ বিন্দু চার্জটি রাখা হলো। এখন এই [math]+ \rm{q}[/math]
+ চার্জ থেকে [math]\rm{r}[/math]
+ দূরত্বের কোনো বিন্দুতে তড়িৎ বিভব,[math]\qquad\qquad\rm{V=\dfrac{1}{4 \pi \epsilon_{0}} \dfrac{q}{r}}[/math]
+
+[Image]
+সুতরাং [math]\rm{O}[/math]
+ বিন্দুকে কেন্দ্র করে ব্যাসার্ধের একটি গোলক অঙ্কন করা T হলে ঐ গোলকের পৃষ্ঠের উপর যে কোনো বিন্দুতে বিভব হলে, [math]\rm{V=\dfrac{1}{4 \pi \epsilon_{0}} \dfrac{q}{r}}[/math]
+। গোলকের অভ্যন্তরের সকল বিন্দুর জন্য [math]\rm{r}[/math]
+ এর মান সমান বিবেচনা করা হয় বলে সকল বিন্দুতে বিভব সমান হয়। [math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=1000^{\circ} \mathrm{C}=1273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=500^{\circ} \mathrm{C}=773 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+এখানে চারটি ধাপে সম্পাদিত কাজের পরিমাণ যথাক্রমে,[math]\hspace{2.5 cm}\mathrm{W}_{1}=900 \mathrm{~J}, \mathrm{W}_{2}=800 \mathrm{~J}, \mathrm{~W}_{3}=500 \mathrm{~J}[/math]
+ এবং [math]\mathrm{W}_{4}=250 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+সম্পাদিত কাজ, [math]\mathrm{W}=\text { ? }[/math]
+আমরা জানি, সম্পাদিত কাজ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{W}_{1}+\mathrm{W}_{2}-\mathrm{W}_{3}-\mathrm{W}_{4} \\ & =900+800-(500+250) \\ & =(1700-750) \mathrm{J} \\ & =950 \mathrm{~J} \end{aligned}[/math]
+অতএব, ইঞ্জিন কর্তৃক সম্পাদিত কাজের পরিমাণ [math]950 \rm{~J}[/math]
+ । [math]\\[/math]
+ ঘপ্রাথমিক অবস্থায়, ইঞ্জিনের দক্ষতা,[math]\hspace{1.5 cm}\begin{array}{l} \eta=\left(1-\rm{\dfrac{T_{2}}{T_{1}}}\right) \times 100 \%=\left(1-\dfrac{773}{1273}\right) \times 100 \% \\ \therefore \eta=39.2 \% \end{array}\quad[/math]
+ এখানে, [math]\begin{array}{l} \mathrm{T}_{1}=1273 \mathrm{~K} \\ \mathrm{~T}_{2}=773 \mathrm{~K} \end{array}[/math]
+আবার, তাপ উৎসের তাপমাত্রা [math]100^{\circ} \mathrm{C}[/math]
+ বাড়ালে কর্মদক্ষতা,[math]\hspace{1.5 cm}\begin{aligned} \eta_{1} & =\left(1-\frac{773}{1373}\right) \times 100 \% \\ & =43.7 \% \end{aligned}[/math]
+তাপ উৎসের তাপমাত্রা স্থির রেখে তাপগ্রাহকের তাপমাত্রা [math]100^{\circ} \mathrm{C}[/math]
+ কমালে কর্মদক্ষতা,[math]\hspace{1.5 cm}\begin{aligned} \eta_{2} & =\left(1-\frac{673}{1273}\right) \times 100 \% \\ & =47.13 \% \end{aligned}[/math]
+এখানে, [math]\eta_1 > \eta_2[/math]
+সুতরাং উদ্দীপকের ইঞ্জিনের তাপ উৎসের তাপমাত্রা বাড়ানোর চেয়ে তাপ গ্রাহকের তাপমাত্রা সমপরিমাণ কমালে দক্ষতা বেশি বৃদ্ধি পাবে।
+
+Explanation:
+ব্যাখ্যা:
+ক ধারকত্ব হলো কোনো ভরের বা পদার্থের তাপমাত্রা একক পরিমাণ বাড়াতে বা কমাতে যে তাপের প্রয়োজন; গণনায় [math]C=\frac{dQ}{dT}[/math] (মোট গরম/তাপপ্রবাহকে তাপমাত্রার পরিবর্তনে ভাগ)।
+
+খ গোলকের (তড়িৎসমতায় কন্ডাকটিং হোলো গোলকের) অভ্যন্তরে ইলেকট্রিক ক্ষেত্র স্থিতাবস্থায় শূন্য হয় (গস্‌সের সূত্র অনুযায়ী অভ্যন্তরে আবদ্ধ চার্জ শূন্য হলে ক্ষেত্র শূন্য), ফলে বিভবের প্রবণতা শূন্য হওয়ায় বিভব সমান থাকে; অর্থাৎ [math]\mathbf{E}=-\nabla V=0\Rightarrow V=\text{constant}[/math]।
+
+গ বিস্তারের ধাপে ইঞ্জিন কাজ করে, সংকোচনের ধাপে কাজ হয় উপরিপ্রয়োগ; তাই নেট কাজ = প্রথম দুইটি − শেষ দুইটি = [math]900+800-500-250=950\ \text{J}[/math]।
+
+ঘ কার্নট দক্ষতা [math]\eta=1-\frac{T_c}{T_h}[/math]; যদি [math]T_h\to T_h+\Delta[/math] হলে [math]\Delta\eta_h=\frac{T_c\Delta}{T_h(T_h+\Delta)}[/math], আর যদি [math]T_c\to T_c-\Delta[/math] হলে [math]\Delta\eta_c=\frac{\Delta}{T_h}[/math]; তাদের পার্থক্য [math]\Delta\eta_c-\Delta\eta_h=\frac{\Delta}{T_h}\frac{T_h+\Delta-T_c}{T_h+\Delta}>0[/math] (সাধারণত [math]T_h>T_c[/math])। অতএব একই পরিমাণে ঠান্ডা রিজার্ভয়ারের তাপমাত্রা কমালে দক্ষতা বাড়বে বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 419142)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. তাপীয় সমতা কী?
+খ. সমোষ্ণ প্রক্রিয়ায় গ্যাস দ্বারা সম্পাদিত কাজ সরবরাহকৃত তাপশক্তির সমান হয়, ব্যাখ্যা করো।
+গ. B ইঞ্জিনের দক্ষতা নির্ণয় করো।
+ঘ. উদ্দীপকের আলোকে কোন ইঞ্জিনটি বেশি পরিবেশবান্ধব হবে গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+কযে অবস্থায় পরস্পরের সংস্পর্শে থাকা বস্তুগুলোর মধ্যে তাপের আদান প্রদান ঘটে না তাই তাপীয় সমতা।[math]\\[/math]
+ খসমোষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির থাকে বলে, সিস্টেমের অন্তঃস্থ শক্তির কোনো পরিবর্তন হয় না, অর্থাৎ [math]\Delta U=0[/math]
+ সুতরাং, তাপগতিবিদ্যার প্রথম সূত্রানুসারে [math]-[/math]
+ [math]\qquad \quad \Delta Q=\Delta W[/math]
+সুতরাং সমোষ্ণ প্রক্রিয়ায় কোনো সিস্টেম দ্বারা সম্পাদিত কাজ সিস্টেমে সরবরাহকৃত তাপ শক্তির সমান।[math]\\[/math]
+ গএখানে, B ইঞ্জিনের ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা,[math]\hspace{1 cm}\begin{array}{l} \mathrm{T}_{1}=627^{\circ} \mathrm{C}\\ \quad ~=(627+273) \mathrm{K} \\ \quad ~=900 \mathrm{~K}\end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা,[math]\hspace{1 cm}\hspace{1.5 cm}\begin{array}{l} \mathrm{T}_{2}=127^{\circ} \mathrm{C}\\ \quad ~ =(127+273) \mathrm{K} \\ \quad ~ =400 \mathrm{~K} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\eta=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \eta & =1-\frac{T_{2}}{T_{1}} \\ & =1-\frac{400}{900} \\ & =\frac{5}{9} \\ & =0.5555 \\ & =55.55 \% \end{aligned}[/math]
+ [math]\therefore B[/math]
+ ইঞ্জিনের দক্ষতা [math]55.55 \% \text { (Ans.) }[/math]
+ [math]\\[/math]
+ ঘউদ্দীপকের যে ইঞ্জিনের এনট্রপির পরিবর্তন কম সেটাই বেশি পরিবেশ বান্ধব হবে।এখানে, A ইঞ্জিনের ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা,[math]\hspace{1 cm}\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{1} & =327^{\circ} \mathrm{C} \\ & =(327+273) \mathrm{K}=600 \mathrm{~K} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা,[math]\hspace{1 cm}\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{2} & =-13^{\circ} \mathrm{C} \\ & =(-13+273) \mathrm{K}=260 \mathrm{~K} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+কার্যকর বস্তুর ভর, m = 0.8 kg[math]\hspace{1 cm}[/math]
+জ্বালানির আপেক্ষিক তাপ, [math]S_{A}=1980 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1}[/math]
+আমরা জানি,A ইঞ্জিনটি 0.8 kg ভরের কার্যকর বস্তুকে বা জ্বালানিকে [math]\mathrm{T}_{1}=327^{\circ} \mathrm{C}[/math]
+ থেকে [math]\mathrm{T}_{2}=-13^{\circ} \mathrm{C}[/math]
+ এ রূপান্তর করে। এক্ষেত্রে এনট্রপির পরিবর্তন [math]dS_A[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{\mathrm{A}} & =\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{A}} \mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}_{\mathrm{A}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}} \\ & =\mathrm{mS}_{A}[\ln \mathrm{T}]_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \\ & =\mathrm{mS}_{\mathrm{A}}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right] \\ & =\mathrm{mS}_{\mathrm{A}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\ & =0.8 \times 1980 \times \ln \frac{260}{600} \\ & =-1324.62 \mathrm{JK}^{-1}\\ \therefore\left|\mathrm{dS}_{\mathrm{A}}\right| & =|-1324.62|=1324.62 \mathrm{JK}^{-1} \end{aligned}[/math]
+আবার,এখানে, B ইঞ্জিনের ক্ষেত্রে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা[math]\hspace{1 cm}\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{1} & =627^{\circ} \mathrm{C}=(627+273) \mathrm{K} \\ & =900 \mathrm{~K} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা,[math]\hspace{1 cm}\hspace{1.5 cm}\begin{array}{l}T_{2}=127^{\circ} \mathrm{C}\\ =(127+273) K=400 \mathrm{~K}\end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+কার্যকর বস্তুর ভর, [math]\mathrm{m}=1.2 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+জ্বালানির আপেক্ষিক তাপ, [math]\mathrm{S}_{\mathrm{B}}=1230 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1}[/math]
+B ইঞ্জিনটি 1.2 kg ভরের জ্বালানিকে [math]\mathrm{T}_{1}=627^{\circ} \mathrm{C}[/math]
+ থেকে [math]\mathrm{T}_{2}=127^{\circ} \mathrm{C}[/math]
+ এ রূপান্তর করে, এক্ষেত্রে এনটপির পরিবর্তন [math]\mathrm{d} \mathrm{S}_{\mathrm{B}}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{dS}_{\mathrm{B}} & =\int_{T_{1}}^{T_2} \frac{\mathrm{dQ}}{\mathrm{T}}=\mathrm{mS}_B \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\ & =1.2 \times 1230 \times \ln \frac{400}{900} \\ & =-1196.933 \mathrm{JK}^{-1} \\ \left|\mathrm{dS}_{\mathrm{B}}\right| & =1-1196.933 \mid=1196.933 \mathrm{JK}^{-1} \end{aligned}[/math]
+দেখা যাচ্ছে, [math]\left|\mathrm{d} S_{\mathrm{B}}\right|<\left|\mathrm{dS}_{\mathrm{A}}\right|[/math]
+যেহেতু B ইঞ্জিনের এনট্রপির পরিবর্তন A ইঞ্জিনের চেয়ে কম এজন্য B ইঞ্জিন বেশি পরিবেশ বান্ধব হবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপীয় সমতা কী?  
+যখন দুইটি পদ্ধতি একে অপরের সংস্পর্শে আছেন এবং তাদের মধ্যে কোন নিট তাপপ্রবাহ নেই, তখন তারা একই তাপমাত্রায় থাকে — এটিই তাপীয় সমতা। সহজ কথায়, সমতাপ হলে তাপ স্থানান্তর বন্ধ হয়ে যায়।
+
+খ সমোষ্ণ প্রক্রিয়ায় গ্যাস দ্বারা সম্পাদিত কাজ সরবরাহকৃত তাপশক্তির সমান হয়, ব্যাখ্যা করো।  
+আদর্শ গ্যাসের জন্য অভ্যন্তরীণ শক্তি কেবলমাত্র তাপমাত্রার উপর নির্ভর করে; সমোষ্ণে তাপমাত্রা অপরিবর্তিত থাকে, ফলে [math]\Delta U=0[/math]। প্রথম সূত্র অনুযায়ী [math]\Delta U=Q-W=0[/math] হলে [math]Q=W[/math] অর্থাৎ সরবরাহকৃত তাপ পুরোটা কাজেই রূপান্তরিত হয়।
+
+গ B ইঞ্জিনের দক্ষতা নির্ণয় করো।  
+যদি ইঞ্জিনে গৃহীত তাপ হবে [math]Q_H[/math] এবং উৎপন্ন কাজ [math]W[/math], তাহলে দক্ষতা [math]\eta=\dfrac{W}{Q_H}[/math]; বিকল্পভাবে রিলিজ তাপ [math]Q_C[/math] জানা থাকলে [math]\eta=1-\dfrac{Q_C}{Q_H}[/math]। কনট পরিমাপ হিসেবে তাপমাত্রা জানা থাকলে কার্নোη: [math]\eta=1-\dfrac{T_C}{T_H}[/math]। (প্রশ্নের সংখ্যাসূচক মান ছবি থেকে বসিয়ে এগুলো প্রয়োগ করো।)
+
+ঘ উদ্দীপকের আলোকে কোন ইঞ্জিনটি বেশি পরিবেশবান্ধব হবে গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।  
+গাণিতিকভাবে যে ইঞ্জিনের দক্ষতা বেশি ([math]\eta↑[/math]) সেটি একই কাজের জন্য কম তাপ (বা জ্বালানি) নেবে এবং কম বহির্গত তাপ/উৎসর্জন [math](Q_C)[/math] দেবে, তাই পরিবেশবান্ধব; সর্বোচ্চ পরিবেশবান্ধব হলো যে ইঞ্জিন কার্নো-পদ্বতিকে ঘনিষ্ঠ যেহেতু সেটার [math]\eta=1-\dfrac{T_C}{T_H}[/math] সর্বোচ্চ।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 419143)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন যখন 310 K তাপমাত্রায় তাপ গ্রাহকে থাকে তখন এর কর্মদক্ষতা 40%। ইঞ্জিনের তাপ উৎসের তাপমাত্রা পরিবর্তন করে কর্মদক্ষতা বৃদ্ধি করা যায়।
+
+Options:
+ক. এনট্রপি কী?
+খ. রুদ্ধতাপীয় প্রক্রিয়ায় এনট্রপি স্থির থাকে— ব্যাখ্যা করো।
+গ. উদ্দীপকের ইঞ্জিনের উৎসের তাপমাত্রা নির্ণয় করো।
+ঘ. কর্মদক্ষতা 80% করতে হলে উৎসের তাপমাত্রা দ্বিগুণ করতে হবে কি-না? গাণিতিক যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+করুদ্ধতাপ প্রক্রিয়ায় বস্তুর যে তাপীয় ধর্ম স্থির থাকে তাই এনটুপি। [math]\\[/math]
+ খআমরা জানি,[math]\hspace{1.5 cm}[/math]
+এনট্রপির পরিবর্তন, [math]\mathrm{dS}=\frac{\mathrm{dQ}}{\mathrm{T}}[/math]
+লক্ষণীয়, বুদ্ধতাপীয় প্রক্রিয়ায়, সিস্টেমের সাথে পরিপার্শ্বের কোনো তাপীয় বিনিময় হয় না।অর্থাৎ, dQ = 0সুতরাং, রুদ্ধতাপীয় প্রক্রিয়ায়, [math]\mathrm{dS}=\frac{0}{\mathrm{~T}}=0[/math]
+অর্থাৎ, রুদ্ধতাপীয় প্রক্রিয়ায় এনট্রপি স্থির থাকে। [math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=310 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+কর্মদক্ষতা, [math]\eta=40 \%=0.4[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow 0.4=1-\frac{310}{T_{1}} \\ \Rightarrow \frac{310}{T_{1}}=1-0.4 \\ \quad ~ \frac{310}{T_{1}}=0.6 \\ \quad ~ T_{1}=\frac{310}{0.6}=516.67 \mathrm{~K}\end{array}[/math]
+সুতরাং উদ্দীপকের ইঞ্জিনের উৎসের তাপমাত্রা 516.67 K (Ans. )[math]\\[/math]
+ ঘএখানে,[math]\hspace{1 cm}[/math]
+উৎসের আদি তাপমাত্রা, [math]\mathrm{T}_{1}=516.67 \mathrm{~K}[/math]
+ ‘গ’ থেকে[math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=310 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+কর্মদক্ষতা [math]\eta=80 \%=0.8[/math]
+ [math]\hspace{1 cm}[/math]
+উৎসের পরিবর্তিত তাপমাত্রা [math]\mathrm{T}_{1}=?[/math]
+ধরি, কর্মদক্ষতা 80% করতে হলে উৎসের নতুন তাপমাত্রা [math]T_1[/math]
+ হবে।[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow 0.8=1-\frac{310}{\mathrm{~T}^{\prime}{ }_{1}} \\ \Rightarrow \frac{310}{\mathrm{~T}_{1}{ }^{\prime}}=1-0.8 \\ \Rightarrow \frac{310}{\mathrm{~T}_{1}{ }^{\prime}}=0.2\\ \begin{aligned} \therefore ~ \mathrm{T}^{\prime}{ }_{1} & =\frac{310}{0.2} \\ & =1550 \mathrm{~K} \end{aligned} \end{array}[/math]
+দেখা যাচ্ছে, কর্মদক্ষতা 80% করতে হলে উৎসের পরিবর্তিত তাপমাত্রা হবে [math]\mathrm{T}_{1}^{\prime}=1550 \mathrm{~K}[/math]
+এখন, [math]\frac{T_{1}^{\prime}}{T_{1}}=\frac{1550}{516.67}=3[/math]
+ [math]\therefore \mathrm{T}_{1}^{\prime}=3 \mathrm{~T}_{1}[/math]
+সুতরাং কর্মদক্ষতা 80% করতে হলে উৎসের তাপমাত্রা দ্বিগুণ করলে হবে না, তিনগুণ করতে হবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক এনট্রপি হলো একটি অবস্থা রাশি যা তাপবণ্টনের অসাম্য বা শক্তির অপ্রয়োগযোগ্য অংশকে পরিমাপ করে; সূচকীয়ভাবে ছোট পরিবর্তন হলে [math]dS=\frac{\delta Q_{\rm rev}}{T}[/math]।
+
+খ রদ্ধতাপীয় (adiabatic) এবং অভিক্ষিপ্ত নয়—অর্থাৎ পুনরায়প্রাপ্ত রূপে—প্রক্রিয়ায় তাপ আদান-প্রদান নেই ([math]\delta Q_{\rm rev}=0[/math]) তাই [math]dS=0[/math] এবং এনট্রপি স্থির থাকে; কিন্তু অপরিবর্তনীয় রুদ্ধতাপে এনট্রপি বেড়ে যায়।
+
+গ কার্নো কর্মদক্ষতা [math]\eta=1-\frac{T_c}{T_h}[/math] এবং [math]\eta=0.4,\;T_c=310\ \text{K}[/math] থেকে [math]0.4=1-\frac{310}{T_h}\Rightarrow \frac{310}{T_h}=0.6\Rightarrow T_h=\frac{310}{0.6}=516.67\ \text{K}[/math]।
+
+ঘ 80% হলে [math]0.8=1-\frac{310}{T_h'}\Rightarrow \frac{310}{T_h'}=0.2\Rightarrow T_h'=\frac{310}{0.2}=1550\ \text{K}[/math]. পূর্বের [math]T_h\approx516.67\ \text{K}[/math]লাইকে দ্বিগুণ করলে [math]2T_h\approx1033.33\ \text{K}[/math], যা প্রয়োজনীয় [math]1550\ \text{K}[/math] থেকে কম; আসলে [math]T_h' = 3T_h[/math], তাই দ্বিগুণ করা যথেষ্ট নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 419144)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি ইঞ্জিনের সাহায্যে প্রমাণ তাপমাত্রা ও চাপে [math]16\ gm[/math] হাইড্রোজেন গ্যাসের আয়তন সমোষ্ণ ও রুদ্ধতাপীয় প্রক্রিয়ায় দ্বিগুণ করা হলো। ইঞ্জিনটি [math]227^{\circ} \mathrm{C}[/math] এবং [math]0^{\circ} \mathrm{C}[/math] তাপমাত্রায় কার্য সম্পাদন করতে পারে।
+
+Options:
+ক. এন্ট্রপি কাকে বলে?
+খ. [math]C_p[/math] অপেক্ষা [math]C_v[/math] ছোট কেন? ব্যাখ্যা কর।
+গ. উদ্দীপকের ইঞ্জিনটির দক্ষতা নির্ণয় কর।
+ঘ. একই পরিমাণ প্রসারণের জন্য উদ্দীপকের আলোকে কোন প্রক্রিয়ায় বেশি কাজ সম্পাদিত হবে তার গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+করুদ্ধতাপীয় প্রক্রিয়ায় বস্তুর যে তাপীয় ধর্ম স্থির থাকে বা অপরিবর্তিত থাকে তাকে এন্ট্রপি বলে। [math]\\[/math]
+ খস্থির আয়তনে কোনো গ্যাসে তাপ প্রয়োগ করা হলে গ্যাসের তাপমাত্রা ও চাপ বৃদ্ধি পায়। আবার, চাপ স্থির রেখে যদি কোনো গ্যাসকে সমপরিমাণ তাপ প্রয়োগ করা হয়, তাহলে ঐ তাপ এক্ষেত্রেও গ্যাসের তাপমাত্রা বৃদ্ধি করবে এবং বহিঃস্থ কাজ সম্পন্ন করবে। এ কাজ সম্পাদন করতে কিছু তাপ ব্যয় হবে ফলে গ্যাসের তাপমাত্রা পূর্বের সমপরিমাণ বৃদ্ধি পাবে না। অর্থাৎ [math]1 \text { mole }[/math]
+ গ্যাসকে [math]1 \mathrm{~K}[/math]
+ তাপমাত্রা বৃদ্ধি করতে স্থির আয়তনের বেলায় যে তাপ লাগবে, স্থির চাপের বেলায় তার চেয়ে বেশি তাপ লাগবে।[math]\rm{\therefore C_{p}=C_{v}+x}[/math]
+ এখানে [math]\rm{x}[/math]
+ হলো আয়তন বৃদ্ধির জন্য গ্যাসকে যে পরিমাণ কাজ করতে হয় তার সমতুল্য তাপ।[math]\qquad \quad \therefore \mathrm{C}_{\mathrm{p}}>\mathrm{C}_{\rm{v}}[/math]
+অর্থাৎ [math]\mathrm{C}_{\mathrm{p}}[/math]
+ অপেক্ষা [math]\mathrm{C}_{\mathrm{v}}[/math]
+ ছোট। [math]\\[/math]
+ গএখানে, তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=227^{\circ} \mathrm{C}=500 \mathrm{~K}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\therefore[/math]
+ ইঞ্জিনটির দক্ষতা,[math]\hspace{1.5 cm}\begin{aligned} \eta & =\rm{\left(1-\frac{T_{2}}{T_{1}}\right)} \times 100 \% \\ & =\left(1-\frac{273}{500}\right) \times 100 \%=45.4 \% \end{aligned}[/math]
+অতএব, উদ্দীপকের ইঞ্জিনটির দক্ষতা [math]45.4 \%[/math]
+। [math]\\[/math]
+ ঘসমোষ্ণ প্রক্রিয়ার ক্ষেত্রে :এখানে,[math]\hspace{1 cm}\begin{array}{l} \mathrm{n}=\dfrac{16}{2} \text { mole }=8 \\ \mathrm{T}=227^{\circ} \mathrm{C}=500 \mathrm{~K} \\ \mathrm{R}=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1} \\ \mathrm{V}_{2}=2 \mathrm{~V}_{1} \end{array}[/math]
+কৃতকাজ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{nRT}l\rm{n} \frac{\mathrm{V}_{2}}{\mathrm{~V}_{1}} \\ & =8 \times 8.31 \times 500 \times \ln \left(\frac{2 \mathrm{~V}_{1}}{\mathrm{~V}_{1}}\right) \mathrm{J} \\ & =23040.2 \mathrm{~J} \end{aligned}[/math]
+রুদ্ধতাপীয় প্রক্রিয়ার ক্ষেত্রে :এখানে,[math]\hspace{1 cm}\begin{array}{l} \rm{T}_{1}=500 \mathrm{~K} \\ \rm{V_{2}=2 V_{1} }\\ \gamma=1.41 \end{array}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T}_{1} \mathrm{~V}_{1}^{\gamma-1} & =\mathrm{T}_{2} \mathrm{~V}_{2}^{\gamma-1}\\ \Rightarrow \quad \mathrm{T}_{2} & =\left(\frac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}\right)^{\gamma-1} \times \mathrm{T}_{1} \\ & =\left(\frac{\mathrm{V}_{1}}{2 \mathrm{~V}_{1}}\right)^{\gamma-1} \times \mathrm{T}_{1} =\left(\frac{1}{2}\right)^{1.41-1} \times 500 \mathrm{~K}\\ \therefore \quad\mathrm{T}_{2}& =376.3 \mathrm{~K} \end{aligned}[/math]
+কৃতকাজ,[math]\hspace{1.5 cm}\begin{aligned}\mathrm{W}^{\prime}&=\frac{\mathrm{nR}}{\gamma -1}\left[\mathrm{T}_1-\mathrm{T}_2\right]=\frac{8\times 8.31}{1.41-1}\times [500-376.3]\\ \therefore \mathrm{~W}^{\prime}&=20057.5\mathrm{~J}\end{aligned}[/math]
+দেখা যাচ্ছে, [math]\mathrm{W}>\mathrm{W}^{\prime}[/math]
+ অর্থাৎ সমোষ্ণ প্রক্রিয়ায় কৃতকাজ রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ অপেক্ষা বেশি। অতএব, একই পরিমাণ প্রসারণের জন্য সমোষ্ণ প্রক্রিয়ায় বেশি কাজ সম্পাদিত হবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক এন্ট্রপি হচ্ছে একটি থার্মোডাইনামিক পরিমাণ যা সিস্টেমের তাপগত অগোছালোতা বা সম্ভবপর মাইক্রোঅবস্থা সংখ্যা মাপে; রিভার্সিবল তাপঅবস্থান্তরে এর ইনফিনিটেসিমাল পরিবর্তন লেখা হয় [math]dS=\frac{\delta Q_{\rm rev}}{T}[/math]।
+
+খ স্থির চাপে তাপ দিলে সিস্টেমকে ভলিউম বাড়ানোর জন্য বাইরের কাজে খরচ করতে হয়, তাই একই তাপবৃদ্ধির জন্য বেশি তাপ দরকার; আদর্শ গ্যাসের জন্য [math]C_p-C_v=R[/math], অতএব [math]C_v[/math] ছোট।
+
+গ কার্নোট ইঞ্জিন দক্ষতা: প্রথমে তাপমাত্রা কেলভিনে নিয়ে আসি [math]227^\circ C=500\ K,\;0^\circ C=273\ K[/math] এবং [math]\eta=1-\frac{T_C}{T_H}=1-\frac{273}{500}=\frac{227}{500}=0.454=45.4\%[/math]।
+
+ঘ একই পরিমাণ প্রসারণে আইসোথার্মাল প্রসারণে বেশি কাজ হয় কারণ তাপমাত্রা স্থির থাকায় প্রতি ভলিউমে চাপ বেশি থাকে; গাণিতিকভাবে, আইসোথার্মাল কাজ [math]W_{\rm iso}=nRT\ln r[/math] এবং অ্যাডিয়াব্যাটিক কাজ [math]W_{\rm ad}=\frac{nRT}{\gamma-1}\big(1-r^{\,1-\gamma}\big)[/math] (যেখানে [math]r=V_f/V_i>1[/math]) এবং সাধারণভাবে [math]W_{\rm iso}>W_{\rm ad}[/math] কারণ অ্যাডিয়াব্যাটিক প্রসারণে তাপমাত্রা এবং চাপ পতিত হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 419139)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি প্রত্যাবর্তী তাপ ইঞ্জিনের তাপ উৎস এবং তাপ গ্রাহকের তাপমাত্রা যথাক্রমে 550°C এবং 138°C। সমোষ্ণ প্রসারণে গৃহীত তাপের পরিমাণ 850 J।
+
+
+[Image]
+
+
+Options:
+ক. রোধের উষ্ণতা সহগ কাকে বলে?
+খ. [math]C_p[/math] এবং [math]C_v[/math] এর মধ্যে কোনটি বড়- ব্যাখ্যা করো।
+গ. উদ্দীপকের AB অংশের এনট্রপি নির্ণয় করো।
+ঘ. উদ্দীপকের তাপ ইঞ্জিনটির দক্ষতা দ্বিগুণ বৃদ্ধি করতে কী ব্যবস্থা গ্রহণ করা যেতে পারে? গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ক0°C তাপমাত্রায় থাকা [math]1\Omega[/math]
+ রোধবিশিষ্ট কোনো একটি পরিবাহীর রোধ 1°C তাপমাত্রা বৃদ্ধিতে যে পরিমাণ বৃদ্ধি পায় তাকে রোধের উষ্ণতা সহগ বলে। [math]\\[/math]
+ খ [math]C_p[/math]
+ এবং [math]C_v[/math]
+ হচ্ছে যথাক্রমে স্থির চাপে এবং স্থির আয়তনে 1 mole গ্যাসের তাপমাত্রা 1 K বৃদ্ধি করতে প্রয়োজনীয় তাপ।স্থির আয়তনে কোনো গ্যাসে তাপ প্রয়োগ করা হলে গ্যাসের তাপমাত্রা ও চাপ বৃদ্ধি পায় কিন্তু কাজ হয় না। আবার, চাপ স্থির রেখে কোনো গ্যাসকে সমপরিমাণ তাপ দিলে তা ঐ গ্যাসের তাপমাত্রা বৃদ্ধি করে এবং বহিঃস্থ কাজ সম্পাদন করে। অতএব, স্থির আয়তনের তুলনায় স্থির চাপে তাপ প্রয়োগে গ্যাসের তাপমাত্রা বৃদ্ধি তুলনামূলক কম হয়। অর্থাৎ 1 mol গ্যাসের তাপমাত্রা 1 K বৃদ্ধি করতে স্থির আয়তনের বেলায় যে তাপ লাগবে, স্থির চাপের বেলায় তার চেয়ে বেশি তাপ লাগবে।[math]\therefore C_{P}=C_{V}+X ; X[/math]
+ হলো আয়তন বৃদ্ধির জন্য স্থির চাপে 1 K তাপমাত্রা বৃদ্ধির দরুণ এক মোল গ্যাস কর্তৃক কৃতকাজের সমতুল্য তাপ। [math]\therefore C_{p}>C_{v}[/math]
+ অর্থাৎ [math]C_{p}, C_{v}[/math]
+ এর চেয়ে বড়। [math]\\[/math]
+ গউদ্দীপকের AB অংশে এখানে, সমোষ্ণ প্রসারণ ঘটে।এখানে,[math]\hspace{1 cm}[/math]
+AB অংশের গৃহীত তাপ [math]d Q=850 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]T_{1}=550^{\circ} \mathrm{C}=(550+273) K=823 K[/math]
+ [math]\hspace{1 cm}[/math]
+এনট্রপি dS = ?আমরা জানি,[math]\hspace{1.5 cm}\quad d S ~=\frac{d Q}{T}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \mathrm{dS}=\frac{850}{823}\quad[/math]
+ এখানে, [math]\left[\mathrm{T}=\mathrm{T}_{1}=823 \mathrm{~K}\right][/math]
+ [math]\hspace{1.5 cm}\qquad ~=1.0328 \mathrm{JK}^{-1} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ ঘএখানে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=550^{\circ} \mathrm{C}=(550+273) \mathrm{K}=823 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=138^{\circ} \mathrm{C}=(138+273) \mathrm{K}=411 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\eta = ?[/math]
+আমরা জানি,[math]\hspace{1.7 cm}\begin{aligned} \eta & =1-\frac{T_{2}}{T_{1}} \\ & =1-\frac{411}{873} \\ & =0.5006 \\ & =50.06 \% \end{aligned}[/math]
+উদ্দীপকের ইঞ্জিনটির দক্ষতা 50.06%। তাপ উৎসের তাপমাত্রা হ্রাস করে এবং তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রার পার্থক্য বৃদ্ধি করে তাপ ইঞ্জিনের দক্ষতা বৃদ্ধি করা সম্ভব। কিন্তু দক্ষতা দ্বিগুণ বৃদ্ধি করলে ইঞ্জিনের দক্ষতা হবে 100.12% যা কোনভাবেই সম্ভব নয়। কেননা কোন ইঞ্জিনই 100% দক্ষ হতে পারে না। অতএব, উদ্দীপকের তাপ ইঞ্জিনটির দক্ষতা দ্বিগুণ বৃদ্ধি করা সম্ভব নয়।
+
+Explanation:
+ব্যাখ্যা:
+
+ক রোধের উষ্ণতা সহগ (temperature coefficient of resistance) বলতে বোঝায় প্রত্যেক ডিগ্রি তাপমাত্রা পরিবর্তনে প্রতিকারের আপেক্ষিক পরিবর্তন; সূত্রগতভাবে [math]\alpha=\frac{1}{R}\frac{dR}{dT}[/math] (একক: প্রতি কেলভিন বা প্রতি ডিগ্রি)।
+
+খ সাধারণভাবে [math]C_p[/math] বড় কারণ ধ্রুব চাপে গ্যাসকে তাপ দিলে অংশটি কাজও করে নিতে হয়, ফলে ধ্রুব আয়তনে তুলনায় বেশি তাপ লাগে; আদর্শ গ্যাসের জন্য [math]C_p-C_v=R[/math]।
+
+গ উদ্দীপকের AB অংশটি সমোষ্ণ (isothermal) প্রসারণ হলে এনট্রপি পরিবর্তন হচ্ছে [math]\Delta S=\frac{Q_{rev}}{T}=\frac{850}{823}\approx 1.033\ \text{J/K}[/math] (এখানে [math]T=550^\circ\text{C}=823\ \text{K}[/math])।
+
+ঘ কার্নট ইঞ্জিনের দক্ষতা [math]\eta=1-\frac{T_c}{T_h}[/math], এখানে [math]\eta=1-\frac{411}{823}\approx0.5006[/math]; দ্বিগুণ করলে [math]2\eta\approx1.0012>1[/math] যা সম্ভব নয়। তাই পুরোপুরি দ্বিগুণ করা অসম্ভব; দক্ষতা বাড়াতে কেবলও তাপ উৎসের তাপমাত্রা বাড়ানো বা তাপ গ্রাহকের তাপমাত্রা কমানো লাগবে, কিন্তু 100% ছাড়িয়ে যাওয়া অসম্ভব (উদাহরণস্বরূপ নতুন শীতল তাপমাত্রা হিসাব করলে [math]T'_c=2T_c-T_h=2\times411-823\approx-1\ \text{K}[/math] যা বাস্তবে অসম্ভব)।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 419140)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি মটর গাড়ি তৈরির কোম্পানি তাদের গাড়ির জন্য 40% দক্ষতাসম্পন্ন একটি ইঞ্জিন তৈরি করল। ইঞ্জিনটি 600 K তাপমাত্রার উৎস থেকে তাপ গ্রহণ করে।
+
+Options:
+ক. তাপগতিবিদ্যার প্রথম সূত্রটি বিবৃত করো।
+খ. পারদ একটি উত্তম উষ্ণতামিতিক পদার্থ- ব্যাখ্যা করো।
+গ. উদ্দীপকের ইঞ্জিনটির তাপ গ্রাহকের তাপমাত্রা কত?
+ঘ. কোম্পানিটি তাদের ইঞ্জিনের দক্ষতা 10% বাড়ানোর ক্ষেত্রে উৎসের তাপমাত্রা বৃদ্ধি অথবা গ্রাহকের তাপমাত্রা হ্রাস কোনটি সুবিধাজনক? গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+কযদি তাপকে সম্পূর্ণরূপে কাজে বা কাজকে সম্পূর্ণরূপে তাপে রূপান্তরিত করা যায়, তবে কাজ তাপের সমানুপাতিক। [math]\\[/math]
+ খতাপমাত্রার পরিবর্তনে পদার্থের যে বিশেষ বিশেষ ধর্ম নিয়মিতভাবে পরিবর্তিত হয় এবং যে ধর্মের পরিবর্তন লক্ষ্য করে সহজ ও সুক্ষ্মভাবে তাপমাত্রা পরিমাণ করা যায়, তাকে উষ্ণতামিতি ধর্ম বলে এবং যে সকল পদার্থের উষ্ণতামিতি ধর্ম ব্যবহার করে থার্মোমিটার তৈরি করা হয় তাদেরকে উষ্ণতামিতিক পদার্থ বলে।পারদ একটি উত্তম উষ্ণতামিতিক পদার্থ এজন্য পারদ থার্মোমিটার তৈরিতে পারদের প্রসারণকে উষ্ণতামিতি ধর্ম হিসেবে ব্যবহার করা হয়। তাপমাত্রা বাড়লে পারদের আয়তন বাড়ে বা প্রসারণ ঘটে। তাপমাত্রা কমলে আয়তন কমে। এজন্য পারদ দিয়ে সহজেই থার্মোমিটার তৈরি করা যায়।[math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+ইঞ্জিনের দক্ষতা, [math]\eta=40 \%=0.4[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]T_{1}=600 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপগ্রাহকের তাপমাত্রা, [math]T_{2}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow 0.4=1-\frac{T_{2}}{600}\\ \Rightarrow \frac{T_{2}}{600}=1-0.4 \\ \Rightarrow \frac{T_{2}}{600}=0.6 \\ \therefore ~ T_{2}=360 \mathrm{~K} \text {(Ans.) } \end{array}[/math]
+ [math]\\[/math]
+ ঘইঞ্জিনের দক্ষতা 10% বাড়ালে নতুন দক্ষতা [math]\eta=40 \%+10 \%[/math]
+১ম ক্ষেত্রে গ্রাহকের তাপমাত্রা [math]T_2[/math]
+ অপরিবর্তিত রেখে,এখানে,[math]\hspace{1 cm}[/math]
+দক্ষতা [math]\eta=50 \%=0.5[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=360 \mathrm{~K}[/math]
+ 'গ' থেকে পাই[math]\hspace{1 cm}[/math]
+তাপ উৎসের নতুন তাপমাত্রা, [math]\mathrm{T}_{1}^{\prime}=?[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎসের আদি তাপমাত্রা, [math]\mathrm{T}_{1}=600 \mathrm{~K}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow 0.5=1-\frac{360}{T_{1}^{\prime}} \\ \Rightarrow \frac{360}{T_{1}^{\prime}}=1-0.5 \\ \Rightarrow \frac{360}{T_{1}^{\prime}}=0.5 \\ \therefore ~T_{1}{ }^{\prime}=\frac{360}{0.5}=720 \mathrm{~K} \end{array}[/math]
+ [math]\therefore[/math]
+ গ্রাহকের তাপমাত্রা অপরিবর্তিত রেখে দক্ষতা 50% করতে হলে উৎসের তাপমাত্রা বাড়াতে হবে [math]\Delta \mathrm{T}_{1}=\left(\mathrm{T}_{1}^{\prime}-\mathrm{T}_{1}\right)=(720-600) \mathrm{K}=120 ~K[/math]
+২য় ক্ষেত্রে,এখানে,[math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\eta=50 \%=0.5[/math]
+ [math]\hspace{1 cm}[/math]
+উৎসের আদি তাপমাত্রা, [math]T_1[/math]
+ = 600 K[math]\hspace{1 cm}[/math]
+গ্রাহকের আদি তাপমাত্রা [math]T_2[/math]
+ = 360 K[math]\hspace{1 cm}[/math]
+উৎসের নতুন তাপমাত্রা [math]T_2[/math]
+ = ?উৎসের তাপমাত্রা [math]T_1[/math]
+ অপরিবর্তিত রেখে,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~\eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow 0.5=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow \frac{T_{2}^{\prime}}{600}=1-0.5=0.5 \\ \therefore~ T_{2}^{\prime}=600 \times 0.5 \\ \quad \quad=300 \mathrm{~K}\end{array}[/math]
+সুতরাং উৎসের তাপমাত্রা অপরিবর্তিত রেখে দক্ষতা 50% করতে হলে গ্রাহকের তাপমাত্রা কমাতে হবে,[math]\hspace{1.5 cm}\begin{aligned} \Delta \mathrm{T}_{2} & =\mathrm{T}_{2}-\mathrm{T}_{2}{ }^{\prime}\\ & =360-300 \\ & =60 \mathrm{~K} \end{aligned}[/math]
+উভয় ক্ষেত্র বিশ্লেষণ করে দেখা যাচ্ছে, দক্ষতা 10% বাড়ানোর ক্ষেত্রে উৎসের তাপমাত্রা 120 K বৃদ্ধি করতে হয় যেখানে গ্রাহকের তাপমাত্রা 60 K হ্রাস করেই এটি সহজে করা যায়। সুতরাং বলা যায়, কোম্পানিটি তাদের ইঞ্জিনের দক্ষতা 10% বাড়ানোর ক্ষেত্রে গ্রাহকের তাপমাত্রা হ্রাস সুবিধাজনক।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপগতিবিদ্যার প্রথম সূত্র বলে যে অভ্যন্তরীণ শক্তির পরিবর্তন গৃহীত তাপ থেকে করা কাজ বিয়োগের সমান, অর্থাৎ [math]\Delta U = Q - W[/math]।
+
+খ পারদ একটি ধাতু এবং এতে মুক্ত বিদ্যুতচালক ইলেকট্রন থাকে, যা তাপ দ্রুত পরিবহণ করে; তাই এটি একটি ভাল তাপ পরিবাহী পদার্থ (তবে তরল ধাতু হওয়ায় কয়েকটি কঠিন ধাতুর তুলনায় কন্ডাকটিভিটি সামান্য কম হতে পারে)।
+
+গ কারন-ট ইঞ্জিনের জন্য [math]\eta = 1 - \dfrac{T_c}{T_h}[/math], এবং [math]\eta=0.40,\;T_h=600\ \text{K}[/math] দিলে [math]0.40=1-\dfrac{T_c}{600}\Rightarrow T_c=360\ \text{K}[/math]।
+
+ঘ নতুন দক্ষতা [math]\eta'=0.50[/math] পেতে একই গ্রাহক তাপমাত্রায় উৎস বাড়ালে [math]0.50=1-\dfrac{360}{T_h'}\Rightarrow T_h'=720\ \text{K}[/math] (বৃদ্ধি +120 K), আর একই উৎস রাখলে গ্রাহক তাপমাত্রা কমালে [math]0.50=1-\dfrac{T_c'}{600}\Rightarrow T_c'=300\ \text{K}[/math] (হ্রাস −60 K); তাই গাণিতিকভাবে গ্রাহকের তাপমাত্রা হ্রাস করাই সুবিধাজনক, কারণ একই পরিবর্তন পৌঁছাতে তার আবশ্যক পার্থক্য (অবশ্যিক ও আপেক্ষিক) ছোট।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 419141)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একটি তাপ ইঞ্জিন গৃহীত তাপের এক-তৃতীয়াংশ বর্জন করে। উৎসের তাপমাত্রা 200 K বৃদ্ধি করলে দক্ষতা 80% হয়। ইঞ্জিনটি তাপ উৎস থেকে 1500 J তাপ গ্রহণ করে।
+
+Options:
+ক. তাপীয় সমতা বলতে কী বুঝ?
+খ. দুটি বরফখন্ড একটির উপর অপরটি চেপে ধরলে তা একটি খণ্ডে পরিণত হয় কেন?
+গ. উদ্দীপকের ডাটা ব্যবহার করে প্রথম পর্যায়ে ইঞ্জিনের দক্ষতা নির্ণয় করো।
+ঘ. উৎসের তাপমাত্রা স্থির রেখে উদ্দীপকে উল্লিখিত যন্ত্রটিকে কীভাবে প্রত্যাবর্তী ইঞ্জিনে রূপান্তর করা যায়- গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+কযে অবস্থায় পরস্পরের সংস্পর্শে থাকা বস্তুগুলোর মধ্যে তাপের আদান প্রদান ঘটে না তাই তাপীয় সমতা।[math]\\[/math]
+ খদুটি বরফখণ্ড একটির উপর অপরটি চেপে ধরলে তা একটি খণ্ডে পরিণত হয় পুনঃশিলীভবন প্রক্রিয়ার জন্য চাপ দিয়ে ঠিন বস্তুকে ভরলে পরিণত করে ও চাপ হ্রাস করে আবার কঠিন অবস্থায় আনাকে পুনঃশিলীভবন বলে। দুটি বরফখণ্ড একটির উপর অপরটি চেপে ধরলে বরফ টুকরো দুটোর স্পর্শতলে চাপ বাড়ায় সেখানে গলনাঙ্ক কমে যায় অর্থাৎ গলনাঙ্ক O°C এর চেয়ে কম হয়। কিন্তু স্পর্শতলের তাপমাত্রা O°C থাকে। তাই স্পর্শতলের বরফ গলে যায়। গলার জন্য প্রয়োজনীয় তাপ বরফ থেকে গৃহীত হয়। চাপ অপসারণ করলে গলনাঙ্ক পুনরায় O°C হয়। তাই স্পর্শতলে বরফ গলা পানি জমে বরফে পরিণত হয়। এই কারণে চাপ প্রয়োগ করলে দুটি বরফখণ্ড একটি খণ্ডে পরিণত হয়। [math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+তাপ ইঞ্জিনের গৃহীত তাপ, [math]\mathrm{Q}_{1}=1500 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্জিত তাপ, [math]\mathrm{Q}_{2}=\frac{1}{3} \mathrm{Q}_{1}=\frac{1}{3} \times 1500 \mathrm{~J}=500 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\eta = ?[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \eta ~ & =\frac{W}{Q_{1}} \\ W & =Q_{1}-Q_{2} \\ & =(1500-500) \mathrm{J} \\ & =1000 \mathrm{~J} \end{aligned}[/math]
+ [math]\hspace{1.1 cm}\therefore \eta=\frac{W}{Q_{1}}=\frac{1000}{1500}=\frac{2}{3}=0.6667=66.67 \%[/math]
+ [math]\therefore[/math]
+ ১ম পর্যায়ে ইঞ্জিনের দক্ষতা 66.67% (Ans.) [math]\\[/math]
+ ঘএখানে,'গ' থেকে পাই,[math]\hspace{1 cm}[/math]
+তাপ ইঞ্জিনের গৃহীত তাপ, [math]\mathrm{Q}_{1}=1500 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+বর্জিত তাপ, [math]\mathrm{Q}_{2}=500 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\eta=\frac{2}{3}=66.67 \%[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা [math]=T_{1} K[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা [math]=T_{2} \mathrm{~K}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \eta=1-\frac{T_{2}}{T_{1}}\\ \Rightarrow\frac{2}{3}=1-\frac{T_{2}}{\mathrm{~T}_{1}}\\ \Rightarrow \frac{T_{2}}{T_{1}}=1-\frac{2}{3}\\ \Rightarrow \frac{T_{2}}{T_{1}}=\frac{1}{3}\\ \Rightarrow \mathrm{T}_{1}=3 \mathrm{~T}_{2}\ldots\ldots\ldots\text{(i)}\end{array}[/math]
+আবার, উৎসের তাপমাত্রা 200K বৃদ্ধি করলে[math]\hspace{1.5 cm}\mathrm{T}_{1}^{\prime}=\left(\mathrm{T}_{1}+200\right) \mathrm{K}[/math]
+এক্ষেত্রে দক্ষতা,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~ \eta^{\prime}=80 \%=0.8\\ \therefore \eta^{\prime}=1-\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}^{\prime}} \\ \Rightarrow 0.8=1-\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}+200} \\ \Rightarrow \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}+200}=1-0.8 \\ \Rightarrow \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}+200}=0.2 \\ \Rightarrow \mathrm{T}_{2}=0.2\left(\mathrm{~T}_{1}+200\right) \\ \Rightarrow \mathrm{T}_{2}=0.2\left(3 \mathrm{~T}_{2}+200\right) \\ \Rightarrow \mathrm{T}_{2}=0.6 \mathrm{~T}_{2}+40 \\ \Rightarrow \mathrm{T}_{2}-0.6 \mathrm{~T}_{2}=40 \\ \Rightarrow 0.4 \mathrm{~T}_{2}=40 \\ \therefore ~ \mathrm{T}_{2}=\frac{40}{0.4}=100 \mathrm{~K}\end{array} \qquad[/math]
+ [math]\left[\therefore \mathrm{T}_{1}=3 \mathrm{~T}_{2}(\mathrm{i})\right.[/math]
+ থেকে পাই, [math]][/math]
+ [math](i)[/math]
+ থেকে পাই, [math]T_{1}=3 T_{2}=300 \mathrm{~K}[/math]
+সুতরাং উদ্দীপকের ইঞ্জিনের তাপ উৎসের তাপমাত্রা [math]\mathrm{T}_{1}=300 \mathrm{~K}[/math]
+ এবং তাপ গ্রাহকের তাপমাত্রা [math]\mathrm{T}_{2}=100 \ \mathrm{K}[/math]
+আমরা জানি, প্রত্যাবর্তী ইঞ্জিনের জন্য[math]\hspace{1.5 cm}\frac{\mathrm{Q}_{1}}{T_{1}}=\frac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}[/math]
+এখানে, উদ্দীপকের ইঞ্জিনের জন্য,[math]\hspace{1.5 cm}\frac{Q_{2}}{Q_{1}}=\frac{500}{1500}=\frac{1}{3}[/math]
+ এবং [math]\frac{T_{2}}{T_{1}}=\frac{100}{300}=\frac{1}{3}[/math]
+দেখা যাচ্ছে, [math]\frac{Q_{2}}{Q_{1}}=\frac{T_{2}}{T_{1}} \Rightarrow \frac{Q_{2}}{T_{2}}=\frac{Q_{1}}{T_{1}}[/math]
+ যা প্রত্যাবতী ইঞ্জিনের শর্ত।সুতরাং উৎসের তাপমাত্রা 300K এ স্থির রেখে তাপ গ্রাহকের তাপমাত্রা 100 K রাখলে যন্ত্রটি প্রত্যাবর্তী ইঞ্জিন হিসেবে কাজ করবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপীয় সমতা বলতে বুঝায় এমন অবস্থা যেখানে দুটি বা একাধিক বস্তু পরস্পরের সংস্পর্শে থাকলে কোন একটির কাছ থেকে অন্যটিতে মোট তাপ প্রবাহ ঘটে না, তাই তাদের তাপমাত্রা সমান থাকে। 
+
+খ বরফখণ্ড দুটির উপর চাপ দিলে স্থানীয়ভাবে বিশুদ্ধ বরফের গলনাঙ্ক কমে যায় (চাপ-গলন সম্পর্ক), ফলে চাপের অংশে বরফ গলে যায় এবং চাপ মুক্ত হলে তা আবার জমে একক খণ্ডে যুক্ত হয়—এই প্রক্রিয়াটিকে regelation বলা হয়। 
+
+গ গ্রহণ করা তাপ [math]Q_{in}=1500\ \text{J}[/math], বাতিল তাপ একটি-তৃতীয়াংশ হলে [math]Q_{out}=\tfrac{1}{3}Q_{in}=500\ \text{J}[/math], কাজ [math]W=Q_{in}-Q_{out}=1000\ \text{J}[/math]। তাই দক্ষতা [math]\eta=\dfrac{W}{Q_{in}}=\dfrac{1000}{1500}=\tfrac{2}{3}\approx66.67\%[/math]। 
+
+ঘ প্রত্যাবর্তী (কার্নট) ইঞ্জিনের দক্ষতা [math]\eta_{C}=1-\dfrac{T_{c}}{T_{h}}[/math]। সরবরাহ অনুযায়ী প্রাথমিকভাবে [math]\eta_{1}=\tfrac{2}{3}\Rightarrow \dfrac{T_{c}}{T_{h}}=\tfrac{1}{3}[/math] এবং উৎস তাপমাত্রা [math]200\ \text{K}[/math] বাড়ালে [math]\eta_{2}=0.8\Rightarrow \dfrac{T_{c}}{T_{h}+200}=0.2[/math]। উপরের দুটি সমীকরণ সমাধান করলে [math]T_{h}=300\ \text{K}[/math] ও [math]T_{c}=100\ \text{K}[/math] মেলে। তাই উৎসের তাপমাত্রা স্থির রেখে যন্ত্রটিকে প্রত্যাবর্তীতে রূপান্তর করতে হলে সিঙ্কের তাপমাত্রা নূন্যতম [math]100\ \text{K}[/math] করতে হবে (অথবা যন্ত্রে থাকা সব অপ্রত্যাবর্তিক অপচয় দূর করতে হবে), তখনই [math]\eta=1-\dfrac{100}{300}=\tfrac{2}{3}[/math] বা বাড়ানো হলে যথাক্রমে [math]0.8[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 419136)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ক. প্রবাহ ঘনত্ব কী?
+খ. উদ্দীপকটি যে ইঞ্জিনের লেখচিত্র প্রকাশ করে তা ব্যাখ্যা করো।
+গ. উদ্দীপকের ইঞ্জিনের সম্পাদিত কাজের পরিমাণ নির্ণয় করো।
+ঘ. উদ্দীপকের ইঞ্জিনের সাথে সাধারণ ইঞ্জিনের ভিন্নতা আছে কি? বিশ্লেষণসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ককোনো পরিবাহকের প্রতি একক প্রস্থচ্ছেদের ক্ষেত্রফলের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহই প্রবাহ ঘনত্ব। [math]\\[/math]
+ খউদ্দীপকটি রেফ্রিজারেটর ইঞ্জিনের লেখচিত্র প্রকাশ করে।উদ্দীপকে দেখা যায়, যন্ত্রটি নিম্ন তাপমাত্রার বস্তু থেকে তাপ গ্রহণ করে উচ্চ তাপমাত্রার ভাপাধারে তাপ বর্জন করে। এখানে সিস্টেমের উপর কাজ সম্পাদিত হয় যেখানে আমরা জানি, তাপ ইঞ্জিনে সিস্টেম দ্বারা কাজ সম্পাদিত হয়।অর্থাৎ, উদ্দীপকের ইঞ্জিনটি সাধারণ তাপ ইঞ্জিনের বিপরীত বা রেফ্রিজারেটর ইঞ্জিন। [math]\\[/math]
+ গউদ্দীপকের ইঞ্জিনটি একটি রেফ্রিজারেটর (‘খ’ থেকে পাই)রেফ্রিজারেটরের কার্যসম্পাদন সহগ K হলে,এখানে,[math]\hspace{1 cm}[/math]
+উচ্চ তাপমাত্রার তাপাধারের তাপমাত্রা, [math]T_{1}=110^{\circ} \mathrm{C}=(110+273) \mathrm{K}=383 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+নিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\mathrm{T}_{2}=0^{\circ} \mathrm{C}=273 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+কাজের পরিমাণ, W = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} K & =\frac{T_{2}}{T_{1}-T_{2}} \\ & =\frac{273}{383-273} \\ & =2.48 \end{aligned}[/math]
+আবার, তাপগ্রাহক থেকে গৃহীত তাপ [math]Q_2[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad K=\frac{Q_{2}}{W} \\ \Rightarrow 2.48=\frac{Q_{2}}{W} \\ \Rightarrow W=\frac{Q_{2}}{2.48}=0.4 Q_{2} \end{array}[/math]
+ [math]\therefore[/math]
+ উদ্দীপকের ইঞ্জিনের সম্পাদিত কাজ, [math]W=0.4 Q_{2} J \text { (Ans.) }[/math]
+ [math]\\[/math]
+ ঘউদ্দীপকের ইঞ্জিনটি হলো রেফ্রিজারেটর। এর সাথে সাধারণ কানো ইঞ্জিনের ভিন্নতা আছে।রেফ্রিজারেটরের [math]P-N[/math]
+ লেখচিত্র থেকে দেখা যায় : এর চারটি ধাপ হলো [math]\text{(i)} \mathrm{A} \rightarrow \mathrm{D}[/math]
+ (রূদ্ধতাপীয় প্রসারণ) [math]\text {(ii)} \mathrm{D} \rightarrow \mathrm{C}[/math]
+ সমষ্ণো প্রসারণ [math]\text {(iii)} \mathrm{C} \rightarrow \mathrm{B}[/math]
+ (রূদ্ধতাপীয় সংকোচন) [math]\text {(iv)} \rm{B \rightarrow A}[/math]
+ সমষ্ণো সংকোচন। এটি [math]T_2 =0^{\circ} \mathrm{C}[/math]
+ বা নিম্ন তাপমাত্রার তাপধার থেকে [math]Q_2[/math]
+ তাপ শোষণ করে এবং [math]T_{1}=110^{\circ} \mathrm{C}[/math]
+ উচ্চ তাপমাত্রার তাপাধারে [math]Q_1[/math]
+ তাপ বর্জন করে। যেহেতু প্রাকৃতিক নিয়মে নিম্ন তাপমাত্রার বস্তু থেকে উচ্চ তাপমাত্রার বস্তুতে তাদের প্রবাহ হয় না, এজন্য বাইরে থেকে এই ইঞ্জিনের উপর W কাজ সম্পাদিত হয়। সুতরাং [math]Q_{1}=Q_{2}+W[/math]
+ এর কার্য সম্পাদন সহ [math]K=\frac{Q_{2}}{\mathrm{~W}}[/math]
+।আবার নিচের [math]P-V[/math]
+ লেখচিত্র সাধারণ কার্নো ইঞ্জিনের যেটা রেফ্রিজারেটর ইঞ্জিনের [math]P-V[/math]
+ লেখচিত্রের সম্পূর্ণ বিপরীত। এর চারটি ধাপ হলো ক্রমানুসারে [math]\text { (i) } A \rightarrow B[/math]
+ (সমাষ্ণ প্রসারণ) [math]\text { (ii) } B \rightarrow C[/math]
+ (রূদ্ধতাপীয় প্রসারণ) [math]\text { (iii) } \mathrm{C} \rightarrow \mathrm{D}[/math]
+ (সমোষ্ণ সংকোচন) [math]\text { (iv) } D \rightarrow A[/math]
+ (রূদ্ধতাপীয় সংকোচন)
+[Image]
+এটি [math]\mathrm{T}_{1}=110^{\circ} \mathrm{C}[/math]
+ বা উচ্চ তাপমাত্রার তাপ উৎস থেকে [math]Q_1[/math]
+ তাপ শোষণ করে এবং [math]T_{1}=0^{\circ} \mathrm{C}[/math]
+ বা নিম্ন তাপমাত্রার তাপ গ্রাহকে [math]Q_2[/math]
+ তাপ বর্জন করে। এর মাধ্যমে [math]W=Q_{1}-Q_{2}[/math]
+ কাজ পরিবেশের উপর সম্পাদন করে। এর কর্মদক্ষতা, [math]\eta=\frac{W}{Q_{1}}=\frac{Q_{1}-Q_{2}}{Q_{1}}=\frac{T_{1}-T_{2}}{T_{1}}[/math]
+সুতরাং বলা যায়, উদ্দীপকের ইঞ্জিনের সাথে সাধারণ কার্নো ইঞ্জিনের ভিন্নতা আছে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক প্রবাহ ঘনত্ব হল একক পৃষ্ঠ ক্ষেত্রফলে সঞ্চালিত বৈদ্যুতিক প্রবাহ (দ্রব বা গ্যাসের প্রবাহের ক্ষেত্রে অনুরূপ সংখ্যা), ও এর মান [math]J=\dfrac{I}{A}[/math] (দিক নির্ধারিত ভেক্টর মানে প্রবাহের দিকও থাকে)।
+
+খ লেখচিত্রটি যদি দুটো বক্র (আদিয়াব্যাটিক/ইসেন্ট্রপিক) এবং দুইটি খাড়া রেখা (ধ্রুব আয়তন — দেখা যায়) দেখায়, তবে এটি সাধারণত Otto সাইকেলের P–V চক্র; কারণ Otto সাইকেলে তাপ যোগ ও অপসারণ ধ্রুব আয়তনে ঘটে এবং দুটি আদিয়াব্যাটিক প্রসেস থাকে।
+
+গ চক্র দ্বারা সম্পাদিত কাজ হল লেখচিত্রে বন্ধ লুপের ভেতরের ক্ষেত্রফল, গণিতভাবে [math]W=\oint P\,dV[/math] বা সমানভাবে [math]W=Q_{in}-Q_{out}[/math]; নির্দিষ্ট সংখ্যাগত মান পেতে যথাযথ P–V ডেটা ব্যবহার করে অঙ্কনকৃত ক্ষেত্রফল বা ইন্টিগ্রেশন করতে হয়।
+
+ঘ বাস্তব ইঞ্জিন ও আদর্শ (যেমন Otto) ইঞ্জিনের মধ্যে ভিন্নতা আছে — আদর্শ চক্রে তাপ-হীনতা, তাত্ক্ষণিক প্রসেস ও কোন ঘর্ষণ/তাপক্ষতি ধরা হয় না, কিন্তু বাস্তবে তাপক্ষতি, ঘর্ষণ, অনিশ্চিত জ্বালানি জ্বালাইনীয়তা ও পরিবর্তনশীল গ্যাসগুণ থাকে, তাই কার্যকারিতা ও কার্যকর কাজ কম হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 419137)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নোর ইঞ্জিন 200°C তাপমাত্রায় তাপ উৎস থেকে 600 J তাপ গ্রহণ করে এবং গ্রাহকে 400 J তাপ বর্জন করে। ইঞ্জিনটির উৎসের তাপমাত্রা পরিবর্তন না করেও যন্ত্রের দক্ষতা 70% করা সম্ভব।
+
+Options:
+ক. মোলার তাপ ধারণ ক্ষমতা কাকে বলে?
+খ. ‘‘জগতের তাপীয় মৃত্যুর কারণ তাপীয় সাম্যাবস্থা।”- ব্যাখ্যা করো।
+গ. তাপ গ্রাহকের তাপমাত্রা নির্ণয় করো।
+ঘ. উদ্দীপকের দক্ষতা সম্পর্কে উক্তিটি যথার্থ কি-না? গাণিতিকভাবে যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+কস্থির চাপে বা স্থির আয়তনে এক মোল গ্যাসের তাপমাত্রা বৃদ্ধিতে প্রয়োজনীয় তাপকে স্থির চাপে বা স্থির আয়তনে মোলার তাপধারণ ক্ষমতা বলে। [math]\\[/math]
+ খপ্রকৃতিতে সর্বদাই উষ্ণ বস্তু মতে শীতল বস্তুতে তাপ সঞ্চালিত হচ্ছে, ফলে সর্বদাই বিশ্বের এন্ট্রপি বৃদ্ধি পাচ্ছে এবং কিছু তাপ কাজে রূপান্তরের অযোগ্য হয়ে পড়ছে। এভাবে এন্ট্রপি বৃদ্ধি পেতে পেতে হয়তো এমন একদিন আসবে যখন এন্ট্রপির মান সর্বোচ্চে পৌঁছবে এবং সকল বস্তুর তাপমাত্রা সমান হবে। ফলে তাপ থাকবে ঠিকই, কিন্তু কাজ করার মতো কোনো শক্তিই আর পাওয়া যাবে না। এ অবস্থাকে বিজ্ঞানী কেলভিন বিশ্বের তাপীয় মৃত্যু নামে অভিহিত করেছেন। [math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা,[math]\hspace{2.5 cm}\begin{aligned} T_{1} & =200^{\circ} \mathrm{C} \\ = & (200+273) \mathrm{K} \\ = & 473 \mathrm{~K} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎস থেকে গৃহীত তাপ, [math]Q_{1}=600 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকে বর্জিত তাপ, [math]\mathrm{Q}_{2}=400 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=?[/math]
+আমরা জানি,[math]\hspace{1.59 cm}\begin{array}{l} \quad \frac{Q_{1}}{T_{1}}=\frac{Q_{2}}{T_{2}} \\ \Rightarrow \frac{600}{473}=\frac{400}{T_{2}} \\ \Rightarrow T_{2}=\frac{400 \times 473}{600} \\ \therefore \mathrm{T}_{2}=315.33 \mathrm{~K} \\ \qquad ~=42.33^{\circ} \mathrm{C} \end{array}[/math]
+সুতরাং, তাপ গ্রাহকের তাপমাত্রা 42.33°C (Ans) [math]\\[/math]
+ ঘযন্ত্রের দক্ষতা [math]\eta[/math]
+ নির্ভর করে[math]\hspace{1 cm}[/math]
+(i) উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}[/math]
+ [math]\hspace{1 cm}[/math]
+(ii) গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=200^{\circ} \mathrm{C}= 473K[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ উৎস থেকে গৃহীত তাপ, [math]Q_{1}=600 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকে বর্জিত তাপ, [math]Q_{2}=400 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+‘গ’ থেকে,[math]\hspace{2 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=42.33^{\circ} \mathrm{C}=315.33 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\eta[/math]
+ = ?ধরি, উদ্দীপকের কার্নোর ইঞ্জিনের তাপমাত্রা [math]T_{2}^{\prime} \mathrm{K}[/math]
+ হলে, দক্ষতা [math]\eta~\prime[/math]
+ = 70% হবেএখানে,[math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\mathrm{n}^{\prime}=70 \%=0.7[/math]
+ [math]\hspace{1 cm}[/math]
+উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=200^{\circ} \mathrm{C}=473 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}^{\prime}=\text { ? }[/math]
+ [math]\hspace{2 cm}\begin{array}{l} \quad ~\eta^{\prime}=1-\frac{T_{2}^{\prime}}{T_{1}} \\ \Rightarrow 0.7=1-\frac{T_{2}^{\prime}}{473} \\ \Rightarrow \frac{T_{2}^{\prime}}{473}=1-0.7=0.3 \\ \therefore ~ T_{2}^{\prime}=141.9 \mathrm{~K}\end{array}[/math]
+ [math]\therefore[/math]
+ গ্রাহকের তাপমাত্রার পরিবর্তন, [math]\Delta \mathrm{T}_{2}=315.33-141.9=173.43 \mathrm{~K}[/math]
+দেখা যাচ্ছে, উৎসের তাপমাত্রা পরিবর্তন না করে গ্রাহকের তাপমাত্রা 173.9 K কমিয়ে 141.9 K করেও দক্ষতা 70% হয়।সুতরাং, উদ্দীপকের দক্ষতা সম্পর্কে উক্তিটি যথার্থ।
+
+Explanation:
+ব্যাখ্যা:
+
+ক মোলার তাপ ধারণ ক্ষমতা হল এক মোল পদার্থের তাপমাত্রা এক কেলভিন বাড়াতে প্রয়োজনীয় তাপ; সাধারণভাবে [math]C_m=\dfrac{1}{n}\dfrac{dQ}{dT}[/math], বিশেষ ক্ষেত্রে থাকে [math]C_{p,m}[/math] ও [math]C_{V,m}[/math]।  
+
+খ “জগতের তাপীয় মৃত্যু” বলতে বোঝায় যে সার্বিকভাবে এন্ট্রোপি বাড়ে এবং তাপীয় সাম্যাবস্থায় পৌঁছে যায়, ফলে তাপমাত্রা সমান হয়ে যায় এবং কাজ বা ব্যবহারযোগ্য শক্তি আহরণ করা যায় না।  
+
+গ কারনট ইঞ্জিনের জন্য [math]\dfrac{Q_c}{Q_h}=\dfrac{T_c}{T_h}[/math] তাই [math]T_c=T_h\frac{Q_c}{Q_h}[/math], আর [math]T_h=200^\circ\text{C}=473\ \text{K}[/math], ফলে [math]T_c=473\times\frac{400}{600}=473\times\frac{2}{3}=315.33\ \text{K}\approx42.33^\circ\text{C}[/math]।  
+
+ঘ উক্তিটি সঠিক নয়। বর্তমান দক্ষতা [math]\eta=1-\frac{Q_c}{Q_h}=1-\frac{400}{600}=\frac{1}{3}\approx33.3\%[/math] এবং কার্নট দক্ষতা [math]\eta_C=1-\frac{T_c}{T_h}[/math]। উৎসের তাপমাত্রা অপরিবর্তিত রেখে [math]\eta=70\%[/math] পেতে হলে [math]T_c=T_h(1-0.70)=473\times0.30=141.9\ \text{K}\ (=-131.1^\circ\text{C})[/math] হওয়া লাগবে, যা বর্তমান শীতককের তাপমাত্রার থেকে অনেক কম; তাই এটি সম্ভব নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 419138)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে একটি কার্নো ইঞ্জিনের P [math]\sim[/math] V লেখচিত্র দেখানো হলো :
+
+
+[Image]
+
+
+Options:
+ক. আপেক্ষিক রোধ কাকে বলে?
+খ. তাপগতিবিদ্যায় P-V লেখচিত্রের ক্ষেত্রফল কী প্রকাশ করে? ব্যাখ্যা করো।
+গ. উদ্দীপকের ইঞ্জিনের দক্ষতা নির্ণয় করো।
+ঘ. উদ্দীপকের ইঞ্জিনটি প্রত্যাগামী না অপ্রত্যাগামী— গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও৷
+
+
+Correct Answer: 
+
+Solution:
+ককোনো নির্দিষ্ট তাপমাত্রায় একক দৈর্ঘ্য ও একক প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট কোনো পরিবাহীর রোধকে ঐ তাপমাত্রায় এর উপাদানের আপেক্ষিক রোধ বলে। [math]\\[/math]
+ খতাপগতিবিদ্যায় [math]P-V[/math]
+ লেখচিত্রের ক্ষেত্রফল কৃতকাজ [math](W)[/math]
+ প্রকাশ করে।বিভিন্ন তাপগতীয় প্রক্রিয়ায় (সমোষ্ণ, সমচাপ, সমআয়তন ও রুদ্ধতাপীয়) সিস্টেমের চাপ (P) Y অক্ষে ও আয়তন (V) X অক্ষে নিয়ে যে লেখচিত্র অঙ্কন করা হয়, তাই P – V লেখচিত্র। এর ক্ষেত্রফল তাপগতীয় প্রক্রিয়ায় কৃতকাজ W এর মান প্রকাশ করে। কারণ[math]\hspace{1.5 cm}\begin{aligned} ~P \times V & =\frac{F}{A} \times V\left[\because P=\frac{F}{A}\right] \\ & =\frac{F}{A} \times A \ell[\because V=A \ell] \\ & =F \ell \end{aligned}[/math]
+ [math]\hspace{1.5 cm}\qquad \quad ~=W \quad[/math]
+ [ [math]\because[/math]
+ কাজ, [math]W=[/math]
+ বল [math]\times[/math]
+ সরণ [math]=F\ell[/math]
+]দেখা যাচ্ছে, সিস্টেমের চাপ ও আয়তন গুণ করে কৃতকাজ পাওয়া যায়। এজন্য তাপগতিবিদ্যায় [math]P-V[/math]
+ লেখচিত্রের ক্ষেত্রফল কৃতকাজ [math](W)[/math]
+ প্রকাশ করে। [math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=827^{\circ} \mathrm{C}=(827+273) \mathrm{K}=1100 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=387^{\circ} \mathrm{C}=(387+273) \mathrm{K}=660 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+দক্ষতা, [math]\eta = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \eta & =1-\frac{T_{2}}{T_{1}} \\ & =1-\frac{660}{1100} \\ & =0.4 \\ & =40 \% \end{aligned}[/math]
+সুতরাং, উদ্দীপকের ইঞ্জিনের দক্ষতা 40% (Ans.) [math]\\[/math]
+ ঘপ্রত্যাগামী ইঞ্জিনের ক্ষেত্রে, [math]\frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}[/math]
+ হয়এক্ষেত্রে[math]\hspace{1.5 cm}\frac{Q_{2}}{Q_{1}}=\frac{300 \mathrm{~J}}{500 \mathrm{~J}}=\frac{3}{5}=0.6[/math]
+আবার,[math]\hspace{1.5 cm}\frac{T_{2}}{T_{1}}=\frac{660 \mathrm{~K}}{1100 \mathrm{~K}}=\frac{3}{5}=0.6 \qquad \begin{array}{l} T_{1}=827^{\circ} \mathrm{C}=1100 \mathrm{~K} \\ \mathrm{~T}_{2}=387^{\circ} \mathrm{C}=660 \mathrm{~K} \end{array}[/math]
+গাণিতিক বিশ্লেষণ থেকে দেখা যায় ইঞ্জিনটি প্রত্যাগামী।
+
+Explanation:
+ব্যাখ্যা:
+
+ক আপেক্ষিক রোধ হলো কোনো পদার্থের বিশেষ রোধ (resistivity) — একটি উপাদানের দৈর্ঘ্য ও ক্ষেত্রফলের নির্ভরতা যুক্ত বৈদ্যুতিক রোধের ঘনত্ব; এটি [math]\rho[/math] দিয়ে প্রকাশ হয় এবং [math]R=\rho\frac{L}{A}[/math]। 
+
+খ P–V লেখচিত্রে বন্ধ বক্ররেখার অধীত ক্ষেত্রফলই একটি চক্রে সিস্টেমের নিট কাজ দেয়, কারণ ক্ষুদ্র কাজ [math]dW=PdV[/math] এবং সম্পূর্ণ কাজ [math]W=\oint P\,dV[/math]। 
+
+গ একটি কার্নো ইঞ্জিনের দক্ষতা হল [math]\eta=\frac{W}{Q_H}=1-\frac{Q_C}{Q_H}[/math] এবং কার্নো অবস্থার জন্য [math]\eta=1-\frac{T_C}{T_H}[/math] (যেখানে [math]T_H[/math] ও [math]T_C[/math] যথাক্রমে উষ্ণ ও ঠান্ডা স্রোতের তাপমাত্রা)।
+
+ঘ কার্নো ইঞ্জিন প্রত্যাগামী (reversible), কারণ প্রত্যেক চক্রে মোট এন্ট্রোপি পরিবর্তন শূন্য: [math]\Delta S=\frac{Q_H}{T_H}-\frac{Q_C}{T_C}=0, ফলে [math]\frac{Q_C}{Q_H}=\frac{T_C}{T_H} এবং এটি সর্বোচ্চ সম্ভাব্য দক্ষতা প্রদান করে।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 419132)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের P-V চিত্রটি একটি প্রত্যাবর্তী তাপ ইঞ্জিনের।
+
+Options:
+ক. বদ্ধ সিস্টেম কী?
+খ. সমোষ্ণ প্রক্রিয়ায় অভ্যন্তরীণ শক্তির পরিবর্তন শূন্য কেন? ব্যাখ্যা করো ।
+গ. উদ্দীপকের তাপ ইঞ্জিনে সমোষ্ণ প্রসারণে এনট্রপির পরিবর্তন নির্ণয় করো ।
+ঘ. উৎসের তাপমাত্রা স্থির রেখে ইঞ্জিনটির দক্ষতা 1.5 গুণ করা সম্ভব কিনা? গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+কযে সিস্টেম পরিবেশের সাথে শুধুমাত্র শক্তি বিনিময় করতে পারে কিন্তু ভর বিনিময় করতে পারে না তাকে বদ্ধ সিস্টেম বলে ।[math]\\[/math]
+ খসমোষ্ণ প্রক্রিয়ায় কোন গ্যাসের তাপমাত্রা স্থির থাকে। আমরা জানি, কোন গ্যাসের অন্তঃস্থ শক্তি তার তাপমাত্রার সমানুপাতিক। তাই গ্যাসের তাপমাত্রা পরিবর্তিত না হওয়ার কারণে সমোষ্ণ প্রক্রিয়ায় গ্যাসের অন্তস্থ শক্তিও পরিবর্তিত হয় না।[math]\\[/math]
+ গএখানে,[math]T_1[/math]
+ = 500°C= 500+273 = 773 K 200 + 273[math]T_2[/math]
+ = 200 °C = = 473K[math]Q_2[/math]
+=600 J[math]Q_1[/math]
+ = ?এনট্রপির পরিবর্তন, [math]\Delta S[/math]
+ = ?তাপীয় ইঞ্জিনের একটি পূর্ণ চক্রের জন্য,[math]\begin{aligned}\frac{Q_{1}}{Q_{2}} & =\frac{T_{1}}{T_{2}} \\Q_{1} & =\frac{T_{1}}{T_{2}} \times Q_{2} \\& =\frac{\eta 73}{473} \times 600=980.55 \mathrm{~J}\end{aligned}[/math]
+সমোষ্ণ প্রসারণে এনট্রপির পরিবর্তন, [math]\Delta S=\frac{2}{T_{1}}=\frac{980.55}{773}=1.268 \mathrm{JK}^{-1} \text { (Aas:) }[/math]
+ [math]\\[/math]
+ ঘএখানে,উৎসের তাপমাত্রা, [math]T_1[/math]
+ = 773 Kগ্রাহকের তাপমাত্রা, [math]T_2[/math]
+ = 473 Kদক্ষতা, [math]\eta[/math]
+ = ?আমরা জানি,ইঞ্জিনের দক্ষতা,[math]\begin{aligned}\eta & =\frac{T_{1}-T_{2}}{T_{1}} \\= & \frac{773-473}{773} \\& =0.388\end{aligned}[/math]
+পরিবর্তিত দক্ষতা, [math]\eta^{\prime}=1.5 \times \eta=0.582[/math]
+ধরি, গ্রাহকের তাপমাত্রা [math]T_2^\prime[/math]
+ হলে দক্ষতা [math]\eta^\prime[/math]
+ হবে[math]\begin{array}{l}\eta^{\prime}=\frac{T_{1}-T_{2}^{\prime}}{T_{1}}\\\Rightarrow\text{ } 0.582=\frac{773-\mathrm{T}_{2}^{\prime}}{773}\\\Rightarrow\text{ } 0.582 \times 773=773-\mathrm{T}_{2}{ }^{\prime}\\\Rightarrow\text{ } T_{2}{ }^{\prime}=773-0.582 \times 773=323.114 \mathrm{~K}\end{array}[/math]
+তাপ গ্রাহকের তাপমাত্রা, T2 – T1 = 473 - 323.114 149.89 K কমাতে হবে ।সুতরাং উৎসের তাপমাত্রা স্থির রেখে ইঞ্জিনটির দক্ষতা 1.5 গুণ করা সম্ভব ।-
+
+Explanation:
+ক হ্যাঁ — এটি বদ্ধ (closed) সিস্টেম, কারণ কাজকারীর পদার্থ চক্রে ফিরে আসে এবং কোনো ভর আদানপ্রদান ঘটে না; কেবল তাপ ও কাজ বিনিময় হচ্ছে।  
+
+খ সমোষ্ণ (isothermal) প্রক্রিয়ায় তাপমাত্রা ধ্রুবক থাকে, এবং আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি কেবল তাপমাত্রার উপর নির্ভর করে, তাই [math]\Delta T=0\Rightarrow \Delta U=n c_v\Delta T=0[/math]।  
+
+গ সমোষ্ণ প্রসারণে প্রতিক্রিয়াশীল তাপের জন্য এনট্রপির পরিবর্তন [math]\Delta S=\frac{Q_{\rm rev}}{T}[/math], এবং আদর্শ গ্যাস হলে [math]\Delta S=nR\ln\frac{V_2}{V_1}[/math]।  
+
+ঘ কোন তাপীয় ইঞ্জিনের সর্বোচ্চ দক্ষতা কার্নোট সীমা দ্বারা সীমিত: [math]\eta_{\max}=1-\frac{T_c}{T_h}[/math]. নতুন দক্ষতা যদি [math]\eta' =1.5\eta[/math] হয়, তা শুধুমাত্র তখনই সম্ভব যখন [math]1.5\eta \le 1-\frac{T_c}{T_h}[/math] সত্য হয়; যদি না হয় (অর্থাৎ 1.5η কার্নোট সীমা ছাড়িয়ে যায়) তাহলে উৎসের তাপমাত্রা অপরিবর্তিত রেখে তা অর্জন করা অসম্ভব।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 419133)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন 500 K তাপমাত্রায় উৎস থেকে 1250 J তাপ গ্রহণ করে এবং তাপ গ্রাহকে 700 J তাপ বর্জন করে। ইঞ্জিনের তাপ উৎস ও তাপগ্রাহক উভয়েরই তাপশক্তির পরিবর্তন সাপেক্ষে ইঞ্জিনের দক্ষতা 20% বৃদ্ধি করা সম্ভব।
+
+Options:
+ক. অভ্যন্তরীণ শক্তি কাকে বলে?
+খ. ‘উষ্ণতামিতি পদার্থ হিসাবে পারদ ব্যবহার সুবিধাজনক'- ব্যাখ্যা করো।
+গ. তাপ গ্রাহকের তাপমাত্রা নির্ণয় করো।
+ঘ. উদ্দীপকের ইঞ্জিনটির দক্ষতা বৃদ্ধি করা সংক্রান্ত তথ্যটি গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+কপ্রত্যেক সিস্টেমের মধ্যে এমন একটি নির্দিষ্ট পরিমাণ শক্তি সুপ্ত অবস্থায় থাকে যার দ্বারা সিস্টেমটি অবস্থা অনুযায়ী বিভিন্ন প্রকার শক্তি উৎপন্ন বা শক্তি রূপান্তর করতে পারে। সিস্টেমে সঞিত এ শক্তিকে অভ্যন্তরীণ শক্তি বলে। [math]\\[/math]
+ খতাপমাত্রার পরিবর্তনে পদার্থের যে বিশেষ বিশেষ ধর্ম নিয়মিতভাবে পরিবর্তিত হয় এবং যে ধর্মের পরিবর্তন লক্ষ করে সহজ ও সূক্ষ্মভাবে তাপমাত্রা পরিমাপ করা যায়, তাকে উষ্ণতামিতি ধর্ম বলে এবং যে সকল পদার্থের উষ্ণতামিতি ধর্ম ব্যবহার করে থার্মোমিটার তৈরি করা হয় তাদেরকে উষ্ণতামিতিক পদার্থ বলে । পারদ একটি উত্তম উষ্ণতামিতিক পদার্থ। পারদ থার্মোমিটার তৈরিতে পারদের প্রসারণকে উষ্ণতামিতি ধর্ম হিসেবে ব্যবহার করা হয়। তাপমাত্রা বাড়লে পারদের আয়তন বাড়ে বা প্রসারণ ঘটে। তাপমাত্রা কমলে আয়তন কমে। তাপমাত্রা পরিবর্তনের সাথে পারদের আয়তন সুষমভাবে পরিবর্তিত হয়। এজন্য উষ্ণতামিতি পদার্থ হিসেবে পারদ ব্যবহার সুবিধাজনক। [math]\\[/math]
+ গএখানে,তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=500 \mathrm{~K}[/math]
+তাপ উৎস থেকে গৃহীত তাপ, [math]Q_{1}=1250 \mathrm{~J}[/math]
+তাপ গ্রাহকে বর্জিত তাপ, [math]\mathrm{Q}_{2}=700 \mathrm{~J}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=?[/math]
+আমরা জানি,কার্নো ইঞ্জিনের ক্ষেত্রে ,[math]\frac{\mathrm{Q}_{1}}{\mathrm{~T}_{1}}=\frac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}[/math]
+ [math]\frac{1250}{500}=\frac{700}{T_{2}}[/math]
+ [math]\mathrm{T}_{2}=\frac{700 \times 500}{1250}[/math]
+ [math]\therefore T_{2}=280 \mathrm{~K}[/math]
+সুতরাং, তাপ গ্রাহকের তাপমাত্রা 280K (Ans. ) [math]\\[/math]
+ ঘএখানে, তাপ উৎসের তাপমাত্রা, [math]T_{1}=500 \mathrm{~K}[/math]
+তাপ উৎস থেকে গৃহীত তাপ, [math]Q_{1}=1250 \mathrm{~J}[/math]
+তাপ গ্রাহকে বর্জিত তাপ, [math]\mathrm{Q}_{2}=700 \mathrm{~J}[/math]
+‘গ' থেকে পাই, তাপগ্রাহকের তাপমাত্রা [math]\mathrm{T}_{2}=280 \mathrm{~K}[/math]
+ইঞ্জিনের দক্ষতা [math]\eta[/math]
+ হলে,[math]\begin{array}{l}\eta=\left(1-\frac{{T}_{2}}{T_{1}}\right) \times 100 \% \\=\left(1-\frac{280}{500}\right) \times 100 \% \\=0.44 \times 100 \% \\=44 \%\end{array}[/math]
+দক্ষতা 20% বৃদ্ধি পেলে নতুন দক্ষতা [math]\eta^{\prime}=(44+20) \%=64 \%[/math]
+এখন, তাপ উৎসের পরিবর্তিত তাপমাত্রা [math]\mathrm{T}_{1}{ }^{\prime}[/math]
+ হলে, [ তাপ গ্রাহকের তাপমাত্রা অপরিবর্তিত রেখে ][math]\eta^{\prime}=\left(1-\frac{T_{2}}{T_{1}^{\prime}}\right) \times 100 \%[/math]
+ [math]\Rightarrow[/math]
+ [math]0.64=1-\frac{T_{2}}{T_{1}^{\prime}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1^{\prime}}}=1-0.64=0.36[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{1}^{\prime}=\frac{\mathrm{T}_{2}}{0.36}[/math]
+ [math]\Rightarrow[/math]
+ [math]T_{1}^{\prime}=\frac{280}{0.36}=777.78 \mathrm{~K}[/math]
+উৎস থেকে পরিবর্তিত গৃহীত তাপ [math]\mathrm{Q}_{1}^{\prime}[/math]
+ হলে [math]\frac{\mathrm{Q}_{1}^{\prime}}{\mathrm{T}_{1}^{\prime}}=\frac{\mathrm{Q}_{2}}{\mathrm{~T}_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{Q}_{1}^{\prime}=\frac{\mathrm{Q}_{2} \times \mathrm{T}_{1}^{\prime}}{\mathrm{T}_{2}}=\frac{700 \times 777.78}{-280}=1944.44 \mathrm{~J}[/math]
+ইঞ্জিনের তাপ উৎস থেকে গৃহীত তাপশক্তির পরিবর্তন [math]\Delta Q_{1}=Q_{1}^{\prime}-Q_{1}[/math]
+ [math]=(1944.44-1250)=694.44 \mathrm{~J}[/math]
+আবার, তাপ গ্রাহকের পরিবর্তিত তাপমাত্রা [math]\mathrm{T}_{2}^{\prime}[/math]
+ হলে,[math]\eta^{\prime}=\left(1-\frac{T_{2}^{\prime}}{T_{1}}\right) \times 100 \%[/math]
+ [ তাপ উৎসের তাপমাত্রা অপরিবর্তিত রেখে ][math]\Rightarrow[/math]
+ [math]0.64=1-\frac{\mathrm{T}_{2}^{\prime}}{\mathrm{T}_{1}^{\prime}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{T_{2}^{\prime}}{T_{1}}=1-0.64=0.36[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}{ }^{\prime}=0.36 \times 500=180 \mathrm{~K}[/math]
+তাপ গ্রাহকে পরিবর্তিত বর্জিত তাপ [math]\mathrm{Q}_{2}^{\prime}[/math]
+ হলে,[math]\Rightarrow[/math]
+ [math]\frac{\mathrm{Q}_{2}^{\prime}}{\mathrm{T}_{2}^{\prime}}=\frac{\mathrm{Q}_{1}}{T_{1}}[/math]
+ [math]Q_{2}^{\prime}=\frac{Q_{1} \times T_{2}^{\prime}}{T_{1}}=\frac{1250 \times 180}{500}=450 \mathrm{~J}[/math]
+ [math]\therefore[/math]
+ ইঞ্জিনের তাপ গ্রাহকে বর্জিত তাপশক্তির পরিবর্তন,[math]\Delta Q_{2}=Q_{2}-Q_{2}^{\prime}=(700-450) \mathrm{J}=250 \mathrm{~J}[/math]
+সুতরাং বলা যায়, ইঞ্জিনের তাপ উৎস ও তাপ গ্রাহক উভয়েরই তাপশক্তির পরিবর্তন সাপেক্ষে ইঞ্জিনের দক্ষতা 20% বৃদ্ধি করা সম্ভব।
+
+Explanation:
+ব্যাখ্যা:
+
+ক অভ্যন্তরীণ শক্তি হলো একটি পদার্থের সকল কণার অনুকণিক গতির জ্ঞানগত (কাইনেটিক) ও অনুকণিক পারস্পরিক মাধ্যাকর্ষণ/প্রতিকর্ষণভিত্তিক (পটেনশিয়াল) শক্তির সমষ্টি; এটি একটি অবস্থা পরিমিতি এবং সাধারণত তাপমাত্রার উপর নির্ভরশীল। 
+
+খ পারদ উষ্ণতামিতি পদার্থ হিসেবে সুবিধাজনক কারণ এর তাপীয় বিস্তার তাপমাত্রার সাথে প্রায় সরল এবং পুনরাবৃত্তিযোগ্য, কাঁচে ভিজে না ফলে স্তম্ভ সুস্পষ্ট থাকে, এবং বিস্তারশৈলী ও উচ্চ বয়নাঙ্কের কারণে বিস্তৃত তাপমাত্রা পরিসরে ব্যবহার যোগ্য। 
+
+গ প্রথমে দক্ষতা [math]\eta=(Q_h-Q_c)/Q_h=(1250-700)/1250=550/1250=0.44[/math]। কর্নো সূত্রে [math]\eta=1-T_c/T_h[/math] তাই [math]T_c=T_h(1-\eta)=500(1-0.44)=500\times0.56=280\ \text{K}[/math]। 
+
+ঘ 20% বৃদ্ধি মানে নতুন দক্ষতা [math]\eta'=1.2\eta=1.2\times0.44=0.528[/math] এবং কর্নো রূপে [math]1-T_c'/T_h'=0.528\Rightarrow T_c'/T_h'=0.472[/math]। উদাহরণ হিসেবে, যদি উৎসের তাপমাত্রা অপরিবর্তিত রাখা হয় (500 K) তবে নতুন গ্রাহকের তাপমাত্রা [math]T_c'=0.472\times500=236\ \text{K}[/math]; অন্যদিকে গ্রাহকের তাপমাত্রা অপরিবর্তিত থাকলে উৎসকে [math]T_h'=280/0.472\approx593.2\ \text{K}[/math] পর্যন্ত বাড়াতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 419134)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+দু'টি তাপ ইঞ্জিন 400 K এবং 800 K তাপমাত্রার ব্যবধানে কার্যকর। ইঞ্জিন দু'টিতে ব্যবহৃত জ্বালানীর আঃ তাপ যথাক্রমে [math]2000 \mathrm{Jkg}^{-1} \mathrm{~K}^{-1}[/math] এবং [math]1500 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math]। ইঞ্জিন দু'টিতে 10 gm ভরের ভিন্ন কার্যকর পদার্থ ব্যবহার করা হয়েছে।
+
+Options:
+ক. ত্রৈধ বিন্দু কাকে বলে?
+খ. “এন্ট্রপির পরিবর্তন সর্বদা ধনাত্মক”— ব্যাখ্যা করো।
+গ. প্রথম ইঞ্জিনটির দক্ষতা 10% বাড়াতে হলে উৎসের তাপমাত্রা কত বাড়াতে হবে?
+ঘ. উদ্দীপকের আলোকে কোন ইঞ্জিনটি বেশি পরিবেশবান্ধব হবে? তোমার মতামত গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+কএকটি নির্দিষ্ট চাপে যে তাপমাত্রায় কোন পদার্থ কঠিন, তরল বা বায়বীয় রূপে সাম্যাবস্থায় থাকে, তাকে ঐ পদার্থের ত্রৈধবিন্দু বলে। [math]\\[/math]
+ খধরা যাক A ও B এর তাপমাত্রা যথাক্রমে [math]\mathrm{T}_{1}[/math]
+ ও [math]\mathrm{T}_{2}[/math]
+ এবং [math]T_{1}>T_{2}[/math]
+ ।A ও B এর মধ্যে সংযোগ স্থাপিত হলে A থেকে B তে তাপ সঞ্চালিত হবে। A হতে B তে Q পরিমাণ তাপ সঞ্চালিত হলে, A এর এন্ট্রপির পরিবর্তন [math]\Delta S_{1}=-\frac{Q}{T_{1}}[/math]
+ এবং B এর এন্ট্রপির পরিবর্তন [math]\Delta \mathrm{S}_{2}=\frac{\mathrm{Q}}{\mathrm{T}_{2}}[/math]
+সুতরাং সিস্টেমটির এন্ট্রপির মোট পরিবর্তন,[math]\Delta \mathrm{S}=\Delta \mathrm{S}_{1}+\Delta \mathrm{S}_{2}=\frac{\mathrm{Q}}{\mathrm{T}_{2}}-\frac{\mathrm{Q}}{\mathrm{T}_{1}}[/math]
+যেহেতু [math]\mathrm{T}_{\mathrm{1}}>\mathrm{T}_{2}[/math]
+ সেহেতু [math]\Delta \mathrm{S}[/math]
+ একটি ধনাত্মক রাশি । অর্থাৎ, এন্ট্রপি বৃদ্ধি পেয়েছে। যেহেতু তাপ সর্বদা উষ্ণ বস্তু থেকে শীতল বস্তুতে সঞ্চালিত হয়, সেহেতু এন্ট্রপি সর্বদা বৃদ্ধি পায় বা এন্ট্রপির পরিবর্তন সর্বদা ধনাত্মক । [math]\\[/math]
+ গএখানে,প্রথম ইঞ্জিনের দক্ষতা: [math]\eta = 1 - \frac{T_2}{T_1} ][ = 1 - \frac{400}{800} = 50%[/math]
+এখানে, উৎসের তাপমাত্রা, [math](T_1 = 800K)[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math](T_2 = 400K)[/math]
+ইঞ্জিনের দক্ষতা, [math](\eta = ?)[/math]
+পরিবর্তিত দক্ষতার জন্য উৎসের তাপমাত্রা বৃদ্ধি:ধরি, উৎসের নতুন তাপমাত্রা [math](T_1')[/math]
+ তাহলে, নতুন দক্ষতা, [math][ \eta' = 1 - \frac{T_2}{T_1'} ][/math]
+এখানে,ইঞ্জিনের পরিবর্তিত দক্ষতা, [math][ \eta' = 50% + 10% = 60% = 0.6 ][/math]
+উৎসের পরিবর্তিত তাপমাত্রা, [math](T_1' = ?)[ \frac{T_2}{T_1'} = 1 - 0.6 ][ \frac{T_2}{T_1'} = 0.4 ][ T_1' = \frac{T_2}{0.4} = \frac{400}{0.4} = 1000 K ][/math]
+তাপমাত্রার পার্থক্য [math]= (1000 - 800) K = 200 K[/math]
+ অর্থাৎ ইঞ্জিনের দক্ষতা ১০% বাড়াতে হলে উৎসের তাপমাত্রা 200 K বাড়াতে হবে।(Ans) [math]\\[/math]
+ ঘউদ্দীপকের যে ইঞ্জিনের এনট্রপির পরিবর্তন কম সেটাই বেশি পরিবেশ বান্ধব হবে।এখানে,১ম ইঞ্জিনের ক্ষেত্রে,তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=800 \mathrm{~K}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=400 \mathrm{~K}[/math]
+কার্যকর বস্তুর ভর, [math]\mathrm{m}=10 \mathrm{gm}[/math]
+ [math]=0.01 \mathrm{~kg}[/math]
+জ্বালানির আপেক্ষিক তাপ, [math]\mathrm{s}_{\mathrm{A}}=2000 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math]
+আমরা জানি,১ম ইঞ্জিনটি 0.01 kg ভরের কার্যকরবস্তুকে বা জ্বালানিকে [math]\mathrm{T}_{1}=800 \mathrm{~K}[/math]
+ তাপমাত্রা থেকে [math]\mathrm{T}_{2}= 400 k[/math]
+ তাপমাত্রায় রূপান্তর করে। এক্ষেত্রে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{\mathrm{A}}[/math]
+ হলে,[math]\mathrm{dS}_{\mathrm{A}}=\int_{\mathrm{T}_{1}}^{T_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{mS}_{\mathrm{A}} \mathrm{dT}}{\mathrm{T}}[/math]
+ [math]=\mathrm{ms}_{\mathrm{A}} \int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dT}}{\mathrm{T}}[/math]
+ [math]\begin{array}{l}=\mathrm{ms}_{\mathrm{A}}[\ln T]_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \\=\mathrm{ms}_{\mathrm{A}}\left[\ln \mathrm{T}_{2}-\ln \mathrm{T}_{1}\right]\end{array}[/math]
+ [math]=\mathrm{ms}_{\mathrm{A}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}=0.01 \times 2000 \times \ln \frac{400}{800}=-13.86 \mathrm{\ JK}^{-1}[/math]
+ [math]\therefore\left|\mathrm{dS}_{\mathrm{A}}\right|=|-13.86|=13.86 \mathrm{JK}^{-1}[/math]
+এখানে,আবার, ২য় ইঞ্জিনের ক্ষেত্রে, তাপ উৎসেরতাপমাত্রা, [math]\mathrm{T}_{1}=800 \mathrm{~K}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=400 \mathrm{~K}[/math]
+কার্যকর বস্তুর ভর, [math]\mathrm{m}=10 \mathrm{gm}=0.01 \mathrm{~kg}[/math]
+জ্বালানির আপেক্ষিক তাপ, [math]\mathrm{s}_{\mathrm{B}}=1500 \mathrm{\ Jkg}^{-1} \mathrm{~K}^{-1}[/math]
+২য় ইঞ্জিনটি 0.01 kg ভরেরজ্বালানিকে [math]\mathrm{T}_{1} \mathrm{~K}[/math]
+ তাপমাত্রা থেকে [math]\mathrm{T}_{2} \mathrm{~K}[/math]
+ তাপমাত্রায়রূপান্তর করে, এক্ষেত্রে এনট্রপির পরিবর্তন [math]\mathrm{dS}_{\mathrm{B}}[/math]
+ হলে,[math]\begin{array}{l}\mathrm{dS_{B }}=\int_{\mathrm{T}_{1}}^{\mathrm{T}_{2}} \frac{\mathrm{dQ}}{\mathrm{T}}=\mathrm{mS}_{\mathrm{B}} \ln \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\=0.01 \times 1500 \times \ln \frac{400}{800} \\=-10.4 \mathrm{JK}^{-1} \\\left|\mathrm{dS}_{\mathrm{B}}\right|=1-10.4 \mid=10.4 \mathrm{JK}^{-1}\end{array}[/math]
+দেখা যাচ্ছে [math]\left|\mathrm{d} \mathrm{S}_{\mathrm{B}}\right|<\left|\mathrm{dS}_{\mathrm{A}}\right|[/math]
+যেহেতু ২য় ইঞ্জিনের এনট্রপির পরিবর্তন ১ম ইঞ্জিনের চেয়ে কম এজন্য ২য় ইঞ্জিনটি বেশি পরিবেশ বান্ধব হবে।
+
+Explanation:
+ক একটি পদার্থের ত্রৈক বিন্দু হলো সেই নির্দিষ্ট তাপমাত্রা ও চাপ যেখানে ঐ পদার্থের কঠিন, তরল এবং বাষ্প—এই তিনটি অবস্থাই সমবিরুদ্ধে স্থিত থাকে।  
+
+খ সাধারণভাবে একটি বন্ধ বা সমগ্র বিশ্ব (universe)–র জন্য এন্ট্রপির পরিবর্তন কখনও ঋণাত্মক হয় না; বহুল উৎসবেক্ষণে ΔS_total ≥ 0 এবং অব্যাহত অনরূপ অপরিবর্তনীয় প্রক্রিয়ায় ΔS_total > 0 হয়, কিন্তু কোনো নির্দিষ্ট সাবসিস্টেমের এন্ট্রপি কমতেও পারে (যদি তা পরিবেশের এন্ট্রপি বাড়িয়ে দেয়)।  
+
+গ কার্ণট দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}[/math], প্রাথমিকভাবে [math]\eta=1-\dfrac{400}{800}=0.5[/math]। 10% বৃদ্ধির মানে [math]\eta' =1.1\times0.5=0.55[/math], তাই নতুন উৎস তাপমাত্রা [math]T_h'=\dfrac{T_c}{1-\eta'}=\dfrac{400}{1-0.55}=\dfrac{400}{0.45}\approx888.9\ \mathrm{K}[/math] এবং তাপমাত্রা বৃদ্ধি ≈ [math]88.9\ \mathrm{K}[/math]।  
+
+ঘ একই তাপমাত্রা সীমায় কাজ করলে একটি পদার্থকে [math]T_c\to T_h[/math] উত্তপ্ত করলে এন্ট্রপির পরিবর্তন [math]\Delta S=mc\ln\frac{T_h}{T_c}[/math]; এখানে [math]m=0.01\ \mathrm{kg}[/math] হলে প্রথমটির [math]\Delta S_1=0.01\times2000\ln2\approx13.86\ \mathrm{J/K}[/math], দ্বিতীয়টির [math]\Delta S_2=0.01\times1500\ln2\approx10.40\ \mathrm{J/K}[/math]। তাই কম নির্দিষ্ট ঘন তাপ ([math]c[/math]) বিশিষ্ট পদার্থ কম এন্ট্রপি পরিবর্তন করে—পরিবেশগত দৃষ্টিতে দ্বিতীয় ইঞ্জিনটি অপেক্ষাকৃত বেশি পরিবেশবান্ধব।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 419135)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একটি ইঞ্জিন 321°C তাপমাত্রার তাপ উৎস থেকে 521 J তাপ গ্রহণ করে 21°C তাপমাত্রার তাপ গ্রাহকে কিছু তাপ বর্জন করে।
+
+Options:
+ক. ভরের আপেক্ষিকতা কী?
+খ. [math]C_p[/math], [math]C_v[/math] এর চেয়ে বড় কি? ব্যাখ্যা করো।
+গ. উদ্দীপকে উল্লিখিত ইঞ্জিন দ্বারা কৃতকাজ নির্ণয় করো।
+ঘ. উদ্দীপকে উল্লিখিত ইঞ্জিনটির দক্ষতা 4 গুণ করা সম্ভব কিনা— গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+কপর্যবেক্ষক এবং বস্তুর মধ্যে আপেক্ষিক গতি থাকার কারণে বস্তুর ভর পরিমাপে যে ভিন্নতা পরিলক্ষিত হয় তাই ভরের আপেক্ষিকতা। [math]\\[/math]
+ খ [math]C_p[/math]
+ এবং [math]C_v[/math]
+ হচ্ছে যথাক্রমে স্থির চাপে এবং স্থির আয়তনে 1 mole গ্যাসের তাপমাত্রা 1 K বৃদ্ধি করতে প্রয়োজনীয় তাপ।স্থির আয়তনে কোনো গ্যাসে তাপ প্রয়োগ করা হলে গ্যাসের তাপমাত্রা ও চাপ বৃদ্ধি পায় কিন্তু কাজ হয় না। আবার, চাপ স্থির রেখে কোনো গ্যাসকে সমপরিমাণ তাপ দিলে তা ঐ গ্যাসের তাপমাত্রা বৃদ্ধি করে এবং বহিঃস্থ কাজ সম্পাদন করে। অতএব, স্থির আয়তনের তুলনায় স্থির চাপে তাপ প্রয়োগে গ্যাসের তাপমাত্রা বৃদ্ধি তুলনামূলক কম হয়। অর্থাৎ 1 mol গ্যাসের তাপমাত্রা 1 K বৃদ্ধি করতে স্থির আয়তনের বেলায় যে তাপ লাগবে, স্থির চাপের বেলায় তার চেয়ে বেশি তাপ লাগবে।[math]\therefore C_{P}=C_{V}+X ; X[/math]
+ হলো আয়তন বৃদ্ধির জন্য স্থির চাপে 1 K তাপমাত্রা বৃদ্ধির দরুণ এক মোল গ্যাস কর্তৃক কৃতকাজের সমতুল্য তাপ।[math]\therefore C_{p}>C_{v}[/math]
+ অর্থাৎ [math]C_{p}, C_{v}[/math]
+ এর চেয়ে বড় । [math]\\[/math]
+ গএখানে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=321^{\circ} \mathrm{C}=(321+273) \mathrm{K}=594 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]T_{2}=21^{\circ} \mathrm{C}=(21+273) \mathrm{K}=294 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+গৃহীত তাপ, [math]Q_{1}=521 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+ইঞ্জিন দ্বারা কৃতকাজ, [math]W = ?[/math]
+ [math]\hspace{1 cm}[/math]
+ইঞ্জিনের তাপ গ্রাহকে বর্জিত তাপ [math]Q_2[/math]
+ হলেআমরা জানি,[math]\hspace{1.35 cm}\begin{array}{l} \quad ~\frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\ \therefore ~ \mathrm{Q}_{2}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \times \mathrm{Q}_{1} \\ \qquad \quad=\frac{294}{594} \times 521 \\ \qquad \quad =257.87 \mathrm{~J} \end{array}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{aligned} W & =Q_{1}-Q_{2} \\ & =(521-257.87) \mathrm{J} \\ & =263.13 \mathrm{~J} \text {(Ans.)} \end{aligned}[/math]
+ [math]\\[/math]
+ ঘএখানে,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=321^{\circ} \mathrm{C} =594 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=21^{\circ} \mathrm{C} =294 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+গৃহীত তাপ, [math]Q_{1}=521 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+কর্মদক্ষতা, [math]\eta=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \eta & =1-\frac{T_{2}}{T_{1}} \\ & =1-\frac{294}{594} \\ & =0.505 \\ & =50.5 \% \end{aligned}[/math]
+উদ্দীপকের ইঞ্জিনের দক্ষতা 50.5%। এখন এর দক্ষতা 4 গুণ হতে হলে, পরিবর্তিত দক্ষতা [math]\eta^{\prime}=4 \eta=202 \%[/math]
+ হতে হবে যা বাস্তবে সম্ভব না। কারণ [math]\eta=1-\frac{T_{2}}{T_{1}}[/math]
+ সূত্র থেকে আমরা জানি তাপ গ্রাহকের তাপমাত্রা [math]T_2 = 0 ~K[/math]
+ হলে [math]\eta = 1[/math]
+ বা [math]100\%[/math]
+ হবে। এখন [math]T_{2}=0 \mathrm{~K}=-273^{\circ} \mathrm{C}[/math]
+ হচ্ছে সর্বনিম্ন তাপমাত্রা যেটাতে গ্যাসের আয়তন তাত্ত্বিকভাবে শূন্য হয়, যা অসম্ভব।সুতরাং, উদ্দীপকের উল্লিখিত ইঞ্জিনটির দক্ষতা 4 গুণ করা সম্ভব না।
+
+Explanation:
+ব্যাখ্যা:
+
+ক ভরের আপেক্ষিকতা হলো কোনো পদার্থের ঘনত্বের তুলনামূলক মান পানির ঘনত্বের সঙ্গে; অর্থাৎ [math]\text{ভরের আপেক্ষিকতা}=\dfrac{\rho_{\text{পদার্থ}}}{\rho_{\text{পানি}}}[/math]।
+
+খ হ্যাঁ, [math]C_p[/math] সর্বদা [math]C_v[/math] এর থেকে বড় কারণ ধ্রুব চাপ-প্রক্রিয়ায় অতিরিক্ত কাজ করা হয় (বস্তুর বিস্তারণের ফলে); গণিতীয়ভাবে [math]C_p-C_v=R>0[/math]।
+
+গ সর্বোচ্চ (কার্ণট) দক্ষতা: প্রথমে তাপমাত্রা কেলভিনে নাও [math]T_h=321+273=594\ \text{K},\ T_c=21+273=294\ \text{K}[/math]; [math]\eta=1-\dfrac{T_c}{T_h}=1-\dfrac{294}{594}=\dfrac{300}{594}\approx0.50505[/math]. কাজ: [math]W=\eta Q_h\approx0.50505\times521\ \text{J}\approx263\ \text{J}[/math] (সর্বোচ্চ সম্ভাব্য)।
+
+ঘ না, দক্ষতা 4 গুণ করা সম্ভব না কারণ তা [math]4\eta\approx4\times0.505\approx2.02>1[/math] হবে, যা 100% থেকে বেশি এবং দ্বিতীয় ধর্মের বিরুদ্ধ — তাপ ইঞ্জিনের দক্ষতা সর্বোচ্চেই কার্ণট সীমা পর্যন্ত এবং কখনও 1 (১০০%) ছাড়াতে পারে না।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 419131)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+56 g নাইট্রোজেন গ্যাসকে একটি ইঞ্জিনের সাহায্যে প্রথমে সমোষ্ণ প্রক্রিয়ায় ও পরে রুদ্ধতাপীয় প্রক্রিয়ায় আয়তন তিনগুণ করা হলো । ইঞ্জিনটি 127°C এবং 27°C তাপমাত্রায় কার্যকর আছে। (নাইট্রোজেনের আনবিক ভর 28 g)
+
+Options:
+ক. তাপগতিবিদ্যার শূন্যতম সূত্রটি বিবৃত করো ।
+খ. সংবেদনশীল বৈদ্যুতিক যন্ত্রে সান্টের ব্যবহার জরুরি কেন?— ব্যাখ্যা করো।
+গ. ইঞ্জিনটির কর্মদক্ষতা নির্ণয় করো।
+ঘ. উদ্দীপকের কোন প্রক্রিয়ায় কৃতকাজ বেশি হবে?— গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও ।
+
+
+Correct Answer: 
+
+Solution:
+কদুটি বস্তু যদি তৃতীয় কোন বস্তুর সাথে তাপীয় সাম্যাবস্থায় থাকে তবে প্রথমোক্ত বস্তু দুটিও পরস্পরের সাথে তাপীয় সাম্যাবস্থায় থাকবে।[math]\\[/math]
+ খকোনো বৈদ্যুতিক যন্ত্রের সাথে ক্ষুদ্রমানের যে রোধ ব্যবহৃত হয় তাই সান্ট। সান্ট ব্যবহারের ফলে তড়িৎ প্রবাহ বৈদ্যুতিক যন্ত্রের মধ্যে দিয়ে খুবই সামান্য পরিমাণে প্রবাহিত হয়। ফলে যন্ত্রটির অভ্যন্তরীণ কাঠামো নষ্ট হওয়ার কোন ঝুঁকি থাকে না। সংবেদনশীল বৈদ্যুতিক যন্ত্র যেমন গ্যালভানোমিটার এর মধ্যে দিয়ে অধিকন্তু তড়িৎ প্রবাহ গিয়ে যেন যন্ত্রটি নষ্ট না হয় তাই উক্ত যন্ত্রের সাথে সান্ট ব্যবহার জরুরী।[math]\\[/math]
+ গতাপ উৎসের তাপমাত্রা, [math]T_1[/math]
+ = 127°C = (127 +273 ) K = 400Kতাপ গ্রাহকের তাপমাত্রা, [math]T_2[/math]
+ = 27°C = (27+273) K = 300Kদক্ষতা, [math]\eta = ?[/math]
+আমরা জানি,[math]\begin{aligned}\eta & =1-\frac{T_{2}}{T_{1}} \\& =1-\frac{300}{400} \\& =0.25 \end{aligned}[/math]
+সুতরাং, উদ্দীপকের ইঞ্জিনের দক্ষতা 25% (Ans)[math]\\[/math]
+ ঘএখানে,গ্যাসের ভর, w = 56gগ্যাসের আনবিক ভর, m = 28gগ্যাসের মোল সংখ্যা, [math]\mathrm{n}=\frac{\mathrm{w}}{\mathrm{m}}[/math]
+নাইট্রোজেন গ্রাসের ক্ষেত্রে [math]\lambda[/math]
+ = 1.4গ্যাস ধ্রুবক, [math]R = 8.314 J mol^{-1}K^{-1}[/math]
+আদি আয়তন, [math]V_1 = V[/math]
+শেষ আয়তন, [math]V_2 = 3V[/math]
+ইঞ্জিনাটির আদি তাপমাত্রা, [math]T = T_1 = 127°C = 400K[/math]
+.:. সমোষ্ণ প্রক্রিয়ায় কৃতকাজ, W₁ = ?:: রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ [math]W_2[/math]
+ =?আমরা জানি, সমোষ্ণ প্রক্রিয়ায়কৃতকাজ, [math]\begin{aligned}W_{1} & =\int_{v_{1}}^{v_{2}} P_{1} d V \\& {\left[\because P_{1}=\frac{n R T}{V}\right] } \\& \int_{v_{1}} \frac{v_{2}}{n R T} d V \\& =n R T \ln \frac{3 V}{V} \\& =1307.09 \mathrm{~J}\end{aligned}[/math]
+এখন, রুদ্ধতাপীয় প্রক্রিয়ায় আয়তন তিনগুণ হলে, শেষ তাপমাত্রা,[math]\mathrm{T}_{2}=\left(\frac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}\right)^{\mathrm{\lambda}-1} \times \mathrm{T}_{1}[/math]
+ [math]\mathrm{T}_{2}=\left(\frac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}\right)^{\mathrm{r}-1} \times \mathrm{T}_{1}[/math]
+আবার, রুদ্ধতাপীয় প্রক্রিয়ায় কৃতকাজ,[math]\begin{aligned}\mathrm{W}_{2} & =\mathrm{nC}_{\mathrm{v}}\left[\mathrm{T}_{1}-\mathrm{T}_{2}\right] \\& =\mathrm{n} \frac{\mathrm{R}}{\gamma-1}\left[\mathrm{~T}_{1}-\mathrm{T}_{2}\right] \\& =\frac{2 \times 4.314}{1.4-1}[400-257.75] \\& =5913.33 \mathrm{~J}\end{aligned}[/math]
+যেহেতু, [math]W_1> W_2[/math]
+ অতএব, সমোষ্ণ প্রক্রিয়ার কৃতকাজ বেশি হবে।-
+
+Explanation:
+ব্যাখ্যা:
+
+ক তাপগতিবিদ্যার শূন্যতম সূত্র: যদি পদ্ধতি A এবং B আলাদা ভাবে একটি তৃতীয় পদ্ধতি C–এর সাথে তাপ-সমতাপে থাকে, তবে A ও B একে অপরের সাথেও তাপ-সমতাপে থাকবে।
+
+খ সংবেদনশীল বৈদ্যুতিক যন্ত্রে সান্ট (গ্রাউন্ড) ব্যবহার জরুরি কারণ এটি অতিরিক্ত চার্জ বা সৃষ্ট শর্ট–সার্কিট থেকে exceso ভোল্টেজকে মাটিতে সরিয়ে যন্ত্র ও ব্যবহারকারীকে নিরাপদ ও ভোল্টেজকে স্থিতিশীল রাখে।
+
+গ কার্নট ইঞ্জিনের কর্মদক্ষতা: তাপমাত্রা [math]T_h=127^\circ\!C=400\;K[/math], [math]T_c=27^\circ\!C=300\;K[/math], তাই [math]\eta=1-\frac{T_c}{T_h}=1-\frac{300}{400}=\frac{1}{4}=0.25=25\%[/math]।
+
+ঘ একই প্রাথমিক তাপমাত্রা ও আয়তন অনুপাতে বিস্তারের জন্য ইসোথার্মাল ও অ্যাডিয়াব্যাটিক কাজ তুলনা করলে, 
+[math]W_{iso}=nRT\ln\frac{V_2}{V_1}[/math] এবং 
+[math]W_{ad}=nC_VT\Big[1-\Big(\frac{V_1}{V_2}\Big)^{\gamma-1}\Big]=nR T\frac{1-[V_2/V_1]^{-(\gamma-1)}}{\gamma-1}[/math]।
+নার্ট্রোজেনকে দ্বাদশীয় গ্যাস ধরা হলে [math]\gamma\approx1.4[/math] এবং [math]V_2/V_1=3[/math] হলে সংখ্যাগুণীরা দিচ্ছে [math]W_{iso}\propto\ln3\approx1.0986[/math] ও [math]W_{ad}\propto2.5\big(1-3^{-0.4}\big)\approx0.889[/math], সুতরাং ইসোথার্মাল প্রক্রিয়ায় কাজ বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 418953)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো চক্র প্রাথমিক [math]327^\circ C[/math] তাপমাত্রায় কাজ সম্পন্ন করে। প্রতিটি ধাপে সংকোচন বা প্রসারণের অনুপাত [math]1:6[/math] হলে কার্নো চক্রের সর্বনিম্ন তাপমাত্রা এবং দক্ষতা নির্ণয় কর। [ [math]\gamma = 1.4[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]51.16 \%[/math]
+)Solution :
+[Image]
+[math]\qquad \quad \frac{V_1}{V_4}=\frac{1}{6}[/math]
+ [সংকোচন][math]\qquad \quad \mathrm{T}_2\mathrm{V}_4^{\gamma-1}=\mathrm{T}_1\mathrm{V}_1^{\gamma-1}\\ \qquad \quad \Rightarrow\mathrm{T}_2=\mathrm{T}_1\left(\frac{\mathrm{V}_1}{\mathrm{V}_4}\right)^{\gamma-1}[/math]
+ [math]\qquad \quad \quad \ =(327+273)\left(\frac{1}{6}\right)^{1.4-1}\\ \qquad \quad \quad \ =293.0156 \mathrm{k} \\ \qquad \ \quad \quad =20.0156^{\circ} \mathrm{C}[/math]
+ [math]\qquad \ \therefore \eta=\left(1-\frac{T_{2}}{T_{1}}\right) \times 100 \%=51.16 \% (Ans. )[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে [math]327^\circ C[/math]কে কেলভিনে নিলে [math]T_h=327+273=600\ K[/math]. অ্যাডিয়াবেটিক সম্পর্ক অনুযায়ী [math]T_h/T_c=r^{\gamma-1}[/math] যেখানে সংকোচন অনুপাত [math]r=6[/math], তাই [math]T_c=\dfrac{T_h}{6^{\,\gamma-1}}=\dfrac{600}{6^{0.4}}\approx293.3\ K\;(≈20.15^\circ C)[/math]. কার্নো দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}=1-\dfrac{293.3}{600}\approx0.511\approx51.1\%[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 418954)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004, 2001-2002, 2008-2009 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিনের তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা যথাক্রমে [math]500K[/math] ও [math]375K[/math]। যদি ই ঞ্জিনটি প্রতি চক্রে [math]252\times 10^4J[/math] তাপ শোষণ করে তবে, (i) ইঞ্জিনের দক্ষতা, (ii) প্রতি চক্রে কাজের পরিমাণ ও (iii) প্রতি চক্রে বর্জিত তাপের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (i) [math]25 \%[/math]
+)( Answer : (ii) [math]6.3 \times 10^5\mathrm{J}[/math]
+)( Answer : (iii) [math]1.89\times 10^6\mathrm{J}[/math]
+)[math]\\[/math]
+ [math]\mathrm{T}_1=500\mathrm{K},\mathrm{\ T}_2=375\mathrm{K},\ \mathrm{Q}_1=252\times10^4\mathrm{J},\mathrm{\ Q}_2=?,\ \eta=?,\mathrm{\ W}=?[/math]
+ [math]\quad \quad \quad \text { (i) } \eta=1-\frac{\mathrm{T}_{2}}{\mathrm{T}_{1}}=1-\frac{375}{500}=0.25=25 \%\ \text { (Ans.) }[/math]
+ [math]\quad \quad \quad \begin{array}{l}\text{(ii) }\mathrm{W}=\mathrm{Q}_1-\mathrm{Q}_2=(252-189)\times10^4=6.3\times10^5\mathrm{J}\ \text{(Ans.)}\end{array}[/math]
+ [math]\quad \quad \quad \frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \Rightarrow \mathrm{Q}_{2}=\frac{375}{500} \times 252 \times 10^{4}=1.89 \times=1.89 \times 10^{6} \mathrm{~J}\ \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো ইঞ্জিনের দক্ষতা সৌরসীমার তাপমাত্রার অনুপাতে নির্ধারিত হয়, তাই [math]\eta=1-\dfrac{T_c}{T_h}[/math] প্রয়োগ করি।  
+ক ইঞ্জিনের দক্ষতা: [math]\eta=1-\dfrac{375}{500}=1-0.75=0.25=25\%[/math].  
+খ প্রতি চক্রে কাজ: [math]W=\eta Q_{in}=0.25\times(252\times10^4)=6.3\times10^5\ \text{J}[/math].  
+গ প্রতি চক্রে বর্জিত তাপ: [math]Q_{out}=Q_{in}-W=252\times10^4-6.3\times10^5=1.89\times10^6\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 418955)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিনের দক্ষতা [math]\dfrac{1}{6}[/math]. তাপ গ্রাহকের তাপমাত্রা [math]65^\circ C[/math] কমালে দক্ষ তা [math]\dfrac {1}{3}[/math] হয়। তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : ধরি, তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা যথাক্রমে[math]T_1[/math]
+ ও [math]T_2K[/math]
+ তাহলে, [math]\dfrac{1}{6}=1-\dfrac{T_{2}}{T_{1}} \Rightarrow \dfrac{T_{2}}{T_{1}}=\dfrac{5}{6} \Rightarrow 5 T_{1}=6 T_{2}[/math]
+... ... ... (i)আবার, [math]\dfrac{1}{3}=1-\dfrac{T_{2}-65}{T_{1}} \Rightarrow \dfrac{T_{2}-65}{T_{1}}=\dfrac{2}{3} \Rightarrow 3 T_{2}-195=2 T_{1}[/math]
+ ... ... ... (ii)(i) ও (ii) [math]\Rightarrow T_{1}=390 \mathrm{~K}[/math]
+ এবং [math]T_{2}=325 \mathrm{~K}(Ans. )[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো ইঞ্জিনের দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}[/math] হওয়ায় প্রথম অবস্থায় [math]1-\dfrac{T_c}{T_h}=\dfrac{1}{6}\Rightarrow \dfrac{T_c}{T_h}=\dfrac{5}{6}[/math]. তাপগ্রাহককে [math]65^\circ C[/math] কমালে [math]1-\dfrac{T_c-65}{T_h}=\dfrac{1}{3}\Rightarrow \dfrac{T_c-65}{T_h}=\dfrac{2}{3}[/math] হবে; এখানে প্রথম সমীকরণ থেকে সাজিয়ে বসালে [math]\dfrac{1}{6}=\dfrac{65}{T_h}\Rightarrow T_h=390\ \text{K}[/math]. তাই [math]T_c=(5/6)T_h=325\ \text{K}[/math], অর্থাৎ [math]T_h=390\ \text{K}=117^\circ C[/math] এবং [math]T_c=325\ \text{K}=52^\circ C[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 418956)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি আদর্শ কার্ণোর ইঞ্জিনের উৎস এবং সিঙ্কের তাপমাত্রা যথাক্রমে [math]450\ K[/math] এবং [math]350\ K[/math] প্রতি সাইকেলে ইঞ্জিনটি যদি উৎস হতে [math]1\ kcal[/math] তাপ গ্রহণ করে তাহলে (i) সাইকেলে সিঙ্কে বর্জিত তাপ (ii) ইঞ্জিনটির দক্ষতা এবং (iii) প্রতি সাইকেলে সম্পাদিত কাজের পরিমাণ নির্ণয় কর। [math][J= 4.184\ kJ/ kcal][/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : (i) [math]\mathrm{Q}_{1}=\mathrm{lk}\ \mathrm{Cal}=4.184 \mathrm{~kJ}[/math]
+ [math]\qquad \quad \dfrac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \Rightarrow \mathrm{Q}_{2}=\mathrm{Q}_{1} \dfrac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}=\mathrm{1kCal} \times \dfrac{350 \mathrm{k}}{450 \mathrm{k}}=0.78 \mathrm{kCal} \quad \therefore[/math]
+ বর্জিত তাপ [math]0.78 \mathrm{kCal} \text { (Ans.) }[/math]
+(ii) দক্ষতা : [math]\eta=1-\dfrac{T_{2}}{T_{1}}=1-\dfrac{350 k}{450 k}=22.22 \% \text { (Ans.) }[/math]
+(iii) প্রতি চক্রে সম্পাদিত কাজ [math]=\mathrm{Q}_{1}-\mathrm{Q}_{2}=(1-0.78) \mathrm{k}\ \mathrm{Cal} \\ =0.22 \mathrm{k} \ \mathrm{Cal}=0.22 \times 4.184 \mathrm{~kJ}=0.92048 \mathrm{~kJ} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: আদর্শ কার্ণোর ইঞ্জিনের দক্ষতা فقط উৎস ও সিঙ্কের তাপমাত্রার অনুপাতের উপর নির্ভর করে এবং [math]\eta=1-\dfrac{T_C}{T_H}[/math]। তাই সরাসরি হিসাব করা যায়:
+
+ক সিঙ্কে বর্জিত তাপ: [math]Q_C=Q_H\frac{T_C}{T_H}=1\times\frac{350}{450}=\frac{7}{9}\ \text{kcal}\approx0.7778\ \text{kcal}[/math].
+
+খ ইঞ্জিনের দক্ষতা: [math]\eta=1-\frac{350}{450}=\frac{2}{9}\approx0.2222=22.22\%[/math].
+
+গ প্রতি সাইকেলে সম্পাদিত কাজ: [math]W=Q_H-Q_C=1-\frac{7}{9}=\frac{2}{9}\ \text{kcal}\approx0.2222\ \text{kcal}[/math] = [math]0.2222\times4.184\ \text{kJ}\approx0.9287\ \text{kJ}\approx928.7\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 418957)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো চক্রের দক্ষতা [math]\frac{1}{6}[/math]। তাপ গ্রাহকের তাপমাত্রা [math]70^\circ C[/math] কমানোর ফলে দক্ষতা হয় [math]\frac{1}{3}[/math]। কার্নোর চক্রটি এখন কোন প্রারম্ভিক এবং চূড়ান্ত তাপমাত্রাঘরে কার্যরত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\frac{1}{6} = 1-\frac{T_2}{T_1}...\ ...\ ...(i)[/math]
+ [math]\frac{1}{3} = 1-\frac{T_2-70}{T_1} = 1-\frac{T_2}{T_1}+\frac{70}{T_1} = \frac{1}{6} + \frac{70}{T_1}\quad[/math]
+[from (i)][math]\therefore \frac{70}{T_1} = \frac {1}{3}-\frac{1}{6} \therefore T_1 =420K \therefore T_2 = T_1 \left( 1-\frac{1}{6}\right) = 350 K[/math]
+ [math]\therefore[/math]
+ বর্তমানে প্রারম্ভিক তাপমাত্রা [math]420K[/math]
+ ও চূড়ান্ত তাপমাত্রা [math](350-70) K = 280K (Ans)[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো দক্ষতা সূত্র [math]\eta=1-\dfrac{T_c}{T_h}[/math]. প্রথমে [math]\eta=\tfrac{1}{6} \Rightarrow \dfrac{T_c}{T_h}=\tfrac{5}{6}\Rightarrow T_h=\tfrac{6}{5}T_c[/math]. ঠান্ডা স্রোতকে [math]70^\circ C[/math] (অর্থাৎ [math]70\ \text{K}[/math]) কমালে [math]\eta=\tfrac{1}{3} \Rightarrow \dfrac{T_c-70}{T_h}=\dfrac{2}{3}\Rightarrow T_h=\tfrac{3}{2}(T_c-70)[/math]. এই দুইটি সমীকরণ সমাধান করলে [math]T_c=350\ \text{K}[/math] ও [math]T_h=420\ \text{K}[/math] পাওয়া যায়; কমানোর পর ঠান্ডা স্রোত হবে [math]280\ \text{K}[/math] এবং গরম স্রোত একই থাকবে [math]420\ \text{K}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 418958)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন যখন [math]27^\circ C[/math] তাপমাত্রায় তাপ গ্রাহকে থাকে তখন এর কর্ম দক্ষতা [math]50 \%[/math]। একে [math]60\%[/math] দক্ষ করতে হলে এর উৎসের তাপমাত্রা কত বাড়াতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরি, উৎসের তাপমাত্রা [math]T[/math]
+গ্রাহকের তাপমাত্রা [math]T_1 = 27 + 273 = 300 K[/math]
+ [math]\eta = 1-\frac{T_1}{T} \Rightarrow 0.5 = 1- \frac{300}{T} \Rightarrow T = 600K[/math]
+ [math]\eta = 60\%[/math]
+ হলে, [math]0.6 = 1-\frac{T_1}{T} = 1- \frac{300}{T} \Rightarrow T = 750K[/math]
+তাপমাত্রা বাড়াতে হবে [math]( 750 – 600 ) K = 150K[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}[/math] এবং [math]T_c=27+273=300\ \text{K}[/math]। [math]\eta=0.5[/math] হলে [math]T_{h1}=600\ \text{K}[/math], আর [math]\eta=0.6[/math] হলে [math]T_{h2}=750\ \text{K}[/math]. তাই তাপমাত্রা বাড়ানো লাগবে [math]\Delta T=T_{h2}-T_{h1}=150\ \text{K}=150^\circ C[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 418959)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004, 2001-2002, 2008-2009 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Bangladesh University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিনের তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা যথাক্রমে [math]500K[/math] ও [math]375K[/math]। যদি ই ঞ্জিনটি প্রতি চক্রে [math]252\times 10^4J[/math] তাপ শোষণ করে তবে, (i) ইঞ্জিনের দক্ষতা, (ii) প্রতি চক্রে কাজের পরিমাণ ও (iii) প্রতি চক্রে বর্জিত তাপের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (i) [math]25 \%[/math]
+)( Answer : (ii) [math]6.3 \times 10^5\mathrm{J}[/math]
+)( Answer : (iii) [math]1.89\times 10^6\mathrm{J}[/math]
+)[math]\\[/math]
+ [math]\mathrm{T}_1=500\mathrm{K},\mathrm{\ T}_2=375\mathrm{K},\ \mathrm{Q}_1=252\times10^4\mathrm{J},\mathrm{\ Q}_2=?,\ \eta=?,\mathrm{\ W}=?[/math]
+ [math]\quad \quad \quad \text { (i) } \eta=1-\frac{\mathrm{T}_{2}}{\mathrm{T}_{1}}=1-\frac{375}{500}=0.25=25 \%\ \text { (Ans.) }[/math]
+ [math]\quad \quad \quad \begin{array}{l}\text{(ii) }\mathrm{W}=\mathrm{Q}_1-\mathrm{Q}_2=(252-189)\times10^4=6.3\times10^5\mathrm{J}\ \text{(Ans.)}\end{array}[/math]
+ [math]\quad \quad \quad \frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}}=\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \Rightarrow \mathrm{Q}_{2}=\frac{375}{500} \times 252 \times 10^{4}=1.89 \times=1.89 \times 10^{6} \mathrm{~J}\ \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি কার্নো ইঞ্জিনের দক্ষতা [math]\eta = 1 - \dfrac{T_C}{T_H}[/math] দিয়ে পাওয়া যায় এবং শক্তির সংরক্ষণ সূত্র হলো [math]Q_H = W + Q_C[/math]।
+
+ক ইঞ্জিনের দক্ষতা: [math]\eta = 1 - \dfrac{375}{500} = 0.25 = 25\%[/math].
+
+খ প্রতি চক্রে কাজ: [math]W = \eta Q_H = 0.25 \times 252\times10^4 = 63\times10^4 = 6.3\times10^5\ \text{J}[/math].
+
+গ প্রতি চক্রে বর্জিত তাপ: [math]Q_C = Q_H - W = 252\times10^4 - 63\times10^4 = 189\times10^4 = 1.89\times10^6\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 418960)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2012-2013, 2009-2010, 2003-2004 | Boards:  | Tags: Rajshahi University of Engineering & Technology, Rajshahi University of Engineering & Technology, Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি কার্ণো ইঞ্জিন অন্তর্গামী তাপের [math]\frac{1}{4}[/math] অংশ কাজে রূপান্তর করে। এর তাপ গ্রাহকের তাপমাত্রা আরো [math]70^\circ C[/math] হ্রাস করলে তার দক্ষতা দ্বিগুণ হয়। উৎস তাপমাত্রা ও তাপ গ্রাহকের তাপমাত্রা বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Answer : [math]210\ K \\[/math]
+১ম ক্ষেত্রে, [math]\eta = \frac{1}{4}=\frac{T_1-T_2}{T_1} \\ \Rightarrow \frac {1}{4}=1-\frac{T_2}{T_1} \\ \Rightarrow \frac{T_2}{T_1}=\frac{3}{4} \\[/math]
+২য় ক্ষেত্রে , [math]\frac{T_1-(T_2-70)}{T_1}=\frac{1}{4}\times 2=\frac{1}{2} \\ \Rightarrow 1-\frac{T_2}{T_1}+\frac {70}{T_1}=\frac{1}{2} \\ \Rightarrow \frac{70}{T_1}=\frac{1}{2}+\frac{3}{4}-1=\frac{1}{4}[/math]
+ [math]\qquad \quad \Rightarrow T_1=280\ K\ \therefore T_1=280\ K \therefore \ T_2 = \frac{3}{4} \times 280=210 K\[/math]
+(Ans. )
+
+Explanation:
+কার্ণো ইঞ্জিনের দক্ষতা [math]\eta=1-\frac{T_c}{T_h}[/math]; দেয়া আছে [math]\eta=\frac{1}{4}[/math], সুতরাং [math]\frac{T_c}{T_h}=\frac{3}{4}[/math] বা [math]T_c=\frac{3}{4}T_h[/math].  
+তাপগ্রাহকের তাপমাত্রা [math]70^\circ C[/math] কমালে দক্ষতা দ্বিগুণ হয়ে [math]\frac{1}{2}=1-\frac{T_c-70}{T_h}[/math] হয়; মিলিয়ে [math]\frac{3}{4}T_h-70=\frac{1}{2}T_h\Rightarrow\frac{1}{4}T_h=70[/math], ফলে [math]T_h=280\ \text{K}[/math].  
+অতএব [math]T_c=\frac{3}{4}\times280=210\ \text{K}[/math] (এখানে [math]70^\circ C[/math] পরিবর্তন Kelvin-এও একই)।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 418961)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2012-2013 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একজন আবিষ্কর্তা দাবি করল যে তার উদ্ভাবিত ইঞ্জিন [math]700K[/math] এবং [math]400K[/math] তাপমাত্রার মধ্যে কার্য রত এবং এর দক্ষতা [math]48 \%[/math], তার দাবি কী সঠিক?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : দাবি সঠিক নয়। )[math]\eta=1-\frac{\mathrm{T}_2}{\mathrm{~T}_1}=1-\frac{400}{700}=42.86 \% ;\ \eta 
+eq 48 \% \quad \therefore[/math] দাবি সঠিক নয়।
+
+Explanation:
+[math]\eta_C=1-\frac{T_c}{T_h}=1-\frac{400}{700}=1-\frac{4}{7}=\frac{3}{7}\approx0.4286=42.86\%[/math]. তাই সর্বোচ্চ বাস্তবসম্মত দক্ষতা ≈ [math]42.86\%[/math]; প্রদত্ত [math]48\%[/math] কনট সীমা অতিক্রম করে এবং সেকেন্ড ল’র বিরুদ্ধে হওয়ায় সম্ভব নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 418962)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2010-2011 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কার্নো ইঞ্জিন বরফবিন্দু ও বাষ্পবিন্দুর মধ্যে কাজ করলে তার দক্ষতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]26.8 \%[/math]
+)বরফ বিন্দুর তাপমাত্রা [math]T_2 = 273\ K[/math]
+; বাষ্প বিন্দুর তাপমাত্রা [math]T_1=373\ K[/math]
+ [math]\therefore \[/math]
+দক্ষতা [math]\eta=\left(1-\frac{T_{2}}{T_{1}}\right) \times 100 \% \\ \ =\left(1-\frac{273}{373}\right) \times 100 \% \\ \ =26.8\% \ (Ans. )[/math]
+
+
+Explanation:
+কার্নো ইঞ্জিনের সর্বোচ্চ কার্যকারিতা হল [math]\eta = 1 - \frac{T_C}{T_H}[/math], যেখানে তাপমাত্রাগুলি কেলভিনে। শূন্য°স = [math]0^\circ C = 273\ \text{K}[/math] এবং ১০০°স = [math]100^\circ C = 373\ \text{K}[/math] হলে [math]\eta = 1 - \frac{273}{373} = \frac{100}{373} \approx 0.268 \approx 26.8\%[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 418963)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন যখন [math]27^\circ C[/math] তাপমাত্রায় তাপগ্রাহকে থাকে তখন এর কর্মদক্ষতা [math]50 \ %[/math] । একে [math]60 \%[/math] দক্ষ করতে হলে এর উৎসের তাপমাত্রা কত বাড়াতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]150^\circ C[/math]
+)[math]\\[/math]
+Solution : ১ম ক্ষেত্রে কর্মদক্ষতা, [math]\eta_{1}=50 \%=0.5[/math]
+ গ্রাহকের তাপমাত্রা, [math]\mathrm{T}_{2}=(27+273) \mathrm{K}=300 \mathrm{~K}[/math]
+, প্রথম ক্ষেত্রে উৎসের তাপমাত্রা [math]T_1[/math]
+ হলে [math]\eta_{1}=\frac{T_{1}-T_{2}}{T_{1}}=1-\frac{T_{2}}{T_{1}}\\ \Rightarrow \frac{T_{2}}{T_{1}}=1-\eta_{1}=0.5\\ \Rightarrow T_{1}=\frac{T_{2}}{0.5}=\frac{300 \mathrm{k}}{0.5}=600 \mathrm{~K}[/math]
+২য় ক্ষেত্রে উৎসের তাপমাত্রা [math]T_2^\prime[/math]
+ হলে [math]\eta=\frac{T_{1}^{\prime}-T_{2}}{T_{1}^{\prime}}=1-\frac{T_{2}}{T_{1}^{\prime}}\\ \Rightarrow \frac{T_{2}}{T_{1}^{\prime}}=1-\eta=1-0.6=0.4[/math]
+ [math]\qquad \Rightarrow T_{1}^{\prime}=\frac{T_{2}}{0.4}=\frac{300 \mathrm{~K}}{0.4}=750 \mathrm{~K}[/math]
+সুতরাং উৎসের তাপমাত্রা বাড়াতে হবে [math]\Delta \theta=750 \mathrm{~K}-600 \mathrm{~K}=150 \mathrm{~K}=150^{\circ} \mathrm{C} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}[/math] এবং তাপমাত্রা কেলভিনে নিতে হবে; [math]27^\circ C=300\ \text{K}[/math]. প্রথমে [math]0.5=1-\dfrac{300}{T_{h1}}\Rightarrow T_{h1}=600\ \text{K}[/math], নতুন দক্ষতার জন্য [math]0.6=1-\dfrac{300}{T_{h2}}\Rightarrow T_{h2}=750\ \text{K}[/math]. অতএব উৎসের তাপমাত্রা বাড়াতে হবে [math]750-600=150\ \text{K}=150^\circ C[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 418964)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2006-2007 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন [math]0^\circ C[/math] এবং [math]100^\circ C[/math] উষ্ণতায় রয়েছে। এর তাপীয় কার্য দক্ষতা (সর্বোচ্চ) কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]26.809 \%[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]\\ \ \mathrm{T}_{1}=273 \mathrm{~K} \\ \mathrm{~T}_{2}=100+273=373 \mathrm{~K}[/math]
+কর্মদক্ষতা, [math]\eta=\left(1-\dfrac{T_{1}}{T_{2}}\right) \times 100 \\ \quad =\left(1-\dfrac{273}{373}\right) \times 100\\ \quad =26.809 \% (Ans. )[/math]
+
+
+Explanation:
+কার্নো ইঞ্জিনের সর্বোচ্চ কার্য দক্ষতা [math]\eta=1-\dfrac{T_C}{T_H}[/math] যেখানে তাপমাত্রা কেলভিনে নিতে হবে। এখানে [math]T_C=0^\circ C=273\ \text{K}[/math], [math]T_H=100^\circ C=373\ \text{K}[/math], তাই [math]\eta=1-\dfrac{273}{373}=\dfrac{100}{373}\approx0.268\approx26.8\%[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 418965)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2004-2005 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিনের উৎস তাপমাত্রা ও তাপগ্রাহকের তাপমাত্রা যথাক্রমে [math]227^\circ C[/math] ও [math]27^ \circ C[/math]। ইঞ্জিনের দক্ষতা নির্ণয়।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]40 \%[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]T_{1}=(227+273)=500 \mathrm{~K} \\T_{2}=(27+273)=300 \mathrm{~K}, \\ \eta=? \\[/math]
+ [math]\qquad[/math]
+ [math]\ \eta=\dfrac{T_{1}-T_{2}}{T_{1}} \times 10 \%[/math]
+ [math]\qquad[/math]
+ [math]\quad =\dfrac{500-300}{500} \times 100 \%[/math]
+ [math]\qquad[/math]
+ [math]\quad =0.4 \times 100 \%=40 \% \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো ইঞ্জিনের দক্ষতা তাপমাত্রার আবশ্যিক কেলভিন মান ব্যবহার করে গণনা করা হয়, ফলে [math]\eta = 1 - \dfrac{T_C}{T_H}[/math]. এখানে [math]T_H = 227^\circ C + 273.15 = 500.15\ \text{K}[/math], [math]T_C = 27^\circ C + 273.15 = 300.15\ \text{K}[/math], তাই [math]\eta = 1 - \dfrac{300.15}{500.15} \approx 0.40 = 40\%[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 418966)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]167^{\circ} \mathrm{C}[/math] এবং [math]37^{\circ} \mathrm{C}[/math] তাপমাত্রা দ্বয়ের মধ্যে কার্যরত একটি কার্নো ইঞ্জিনে [math]2 \times 10^{4} \mathrm{cal}[/math] তাপ সরবরাহ করা হয়। ইঞ্জিনটি কতটুকু উপযোগী কাজ করতে সমর্থ হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]5909.09\ \mathrm{Cal}[/math]
+)[math]\\[/math]
+Solution : [math]T_{1}=(167+273)=440 K ; T_{2}=37+273=310 K[/math]
+আমরা জানি, [math]\frac{\mathrm{T}_{1}-\mathrm{T}_{2}}{\mathrm{~T}_{1}}=\frac{\mathrm{Q}_{1}-\mathrm{Q}_{2}}{\mathrm{Q}_{1}} \Rightarrow \mathrm{Q}_{1}-\mathrm{Q}_{2}=\frac{\mathrm{T}_{1}-\mathrm{T}_{2}}{\mathrm{~T}_{1}} \times \mathrm{Q}_{1}=\frac{440-310}{440} \times 2 \times 10^{4}=5909.09\ \mathrm{Cal}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো ইঞ্জিনের দক্ষতা [math]\eta=1-\dfrac{T_C}{T_H}[/math]. এখানে [math]T_H=167+273=440\ \text{K}[/math], [math]T_C=37+273=310\ \text{K}[/math], সুতরাং [math]\eta=1-\dfrac{310}{440}\approx0.2955\ (29.55\%)[/math]. উপযোগী কাজ হবে [math]W=\eta Q_{in}=0.2955\times2\times10^4\ \text{cal}\approx5.91\times10^3\ \text{cal}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 418967)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন 327°C ও 27°C উষ্ণতায় কাজ করছে। এর কর্মদক্ষতা কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 50 % )[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে, উচ্চ তাপমাত্রা, [math]T_1=327^{\circ}C=600K[/math]
+নিম্ন তাপমাত্রা, [math]T_2=27^{\circ}=300K[/math]
+কর্মদক্ষতা, [math]\eta=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \eta & =\left(1-\frac{T_{2}}{T_{1}}\right) \times 100 \% \\ & =\left(1-\frac{300 \mathrm{~K}}{600 \mathrm{~K}}\right) \times 100 \% \\ & =0.5 \times 100 \% \\ & =50 \% \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+কার্নো ইঞ্জিনের সর্বোচ্চ কর্মদক্ষতা [math]\eta=1-\frac{T_c}{T_h}[/math], যেখানে তাপমাত্রাগুলো কেলভিনে নিতে হয়। এখানে [math]T_h=327^\circ C=600\ \text{K}[/math], [math]T_c=27^\circ C=300\ \text{K}[/math], তাই [math]\eta=1-\frac{300}{600}=0.5=50\%[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 418968)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ইঞ্জিনের কর্মদক্ষতা 40%। এর নিম্ন তাপাধারের তাপমাত্রা 7°C হলে এর উচ্চ তাপাধারের তাপ মাত্রা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 193.67^{\circ})[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+ এখানে,ইঞ্জিনের কর্মদক্ষতা, [math]\eta=40%=\frac{40}{100}=\frac{4}{10}[/math]
+নিম্ন তাপাধারের তাপমাত্রা, [math]T_2=7^{\circ}C=280K[/math]
+উচ্চ তাপাধারের তাপমাত্রা, [math]T_1=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \eta & =\frac{T_{1}-T_{2}}{T_{1}} \\ \Rightarrow \frac{4}{10} & =\frac{T_{1}-280 \mathrm{~K}}{T_{1}} \\ \Rightarrow 4 T_{1} & =10 T_{1}-2800 \mathrm{~K} \\ \Rightarrow 6 T_{1} & =2800 \mathrm{~K} \\ \Rightarrow T_{1} & =\frac{2800 \mathrm{~K}}{6} \\ \therefore T_{1} & =466.7 \mathrm{~K}=193.67^{\circ} \mathrm{C} \end{aligned}[/math]
+
+
+Explanation:
+কার্ণট সূত্র অনুযায়ী কার্যকারিতা [math]η=1-\frac{T_c}{T_h}[/math]। এখানে [math]0.4=1-\frac{280.15}{T_h}[/math] (কারণ [math]T_c=7+273.15=280.15\ \text{K}[/math]) থেকে [math]T_h=\frac{280.15}{0.6}=466.92\ \text{K}[/math], যা প্রায় [math]466.92-273.15=193.77^\circ\text{C}[/math] (~[math]193.8^\circ\text{C}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 418969)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিনের কর্মদক্ষতা 60%। যদি তাপ উৎসের তাপমাত্রা 450K হয় তবে তাপ গ্রাহকের তাপমাত্রা কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 180 \ K)[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে,ইঞ্জিনের কর্মদক্ষতা, [math]60%=\frac{60}{100}[/math]
+তাপ উৎসের তাপমাত্রা, [math]T_1=450 \ K[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]T_2=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \eta & =\frac{T_{1}-T_{2}}{T_{1}} \\ \Rightarrow \frac{60}{100} & =\frac{450 \mathrm{k}-T_{2}}{450 \mathrm{~K}} \\ \Rightarrow T_{2} & =450 \mathrm{~K}-\frac{60 \times 450 \mathrm{~K}}{100} \\ & =180 \mathrm{~K} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+[math]\eta = 1 - \dfrac{T_c}{T_h}[/math] এবং [math]\eta=0.60,\ T_h=450\ \text{K}[/math] হলে [math]0.60 = 1 - \dfrac{T_c}{450} \Rightarrow \dfrac{T_c}{450}=0.40[/math].  
+অতএব [math]T_c=0.40\times450=180\ \text{K}[/math], অর্থাৎ তাপ গ্রাহকের তাপমাত্রা 180 K।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 418970)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিনের তাপমাত্রা 400 K; এই তাপমাত্রায় এটি উৎস থেকে 840 J তাপ গ্রহণ করে এ বং সিংকে 630 J তাপ বর্জন করছে। সিংকের তাপমাত্রা ও ইঞ্জিনের কর্মদক্ষতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\eta =25\% ,T_2=300K)[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,উৎসের তাপমাত্রা , [math]Q_1=840 \ J[/math]
+গৃহীত তাপ, [math]Q_2=630 \ J[/math]
+সিঙ্কের উষ্ণতা, [math]T_2=?[/math]
+কর্মদক্ষতা, [math]\eta=?[/math]
+আমরা জানি,[math]\begin{aligned} \eta & =\frac{Q_{1}-Q_{2}}{Q_{1}} \times 100 \% \\ & =\frac{840 \mathrm{~J}-630 \mathrm{~J}}{840 \mathrm{~J}} \times 100 \% \\ & =\frac{210 \mathrm{~J}}{840 \mathrm{~J}} \times 100 \% \\ \therefore \eta & =0.25 \times 100 \%=25 \%(\mathrm{~A} \end{aligned}[/math]
+আবার, আমরা জানি,[math]\begin{array}{l} \eta=\frac{T_{1}-T_{2}}{T_{1}} \\ \Rightarrow \frac{25}{100}=1-\frac{T_{2}}{400} \\ \Rightarrow \frac{T_{2}}{400}=1-\frac{25}{100} \\ \Rightarrow \frac{T_{2}}{400}=1-0.25 \\ \Rightarrow T_{2}=0.75 \times 400 \\ \\ \therefore T_{2}=300 \mathrm{~K} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কার্নো ইঞ্জিনের কার্যকারিতা [math]\eta=1-\frac{Q_c}{Q_h}[/math], তাই [math]\eta=1-\frac{630}{840}=1-0.75=0.25=25\%[/math]। কার্নো সূত্র [math]\eta=1-\frac{T_c}{T_h}[/math] থেকে [math]T_c=T_h(1-\eta)=400\times(1-0.25)=400\times0.75=300\ \text{K}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 418971)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তাপ ইঞ্জিন তাপ উৎস থেকে [math]4.5 \times 10^6 J[/math] তাপ গ্রহণ করে এবং পরিবেশে [math]3 \ti mes 10^6 \ J[/math] তাপ বর্জন করে। ইঞ্জিন কর্তৃক কৃতকাজ ও এর দক্ষতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 1.5 \times 10^6J[/math]
+ এবং [math]33.33 \%)[/math]
+
+
+Explanation:
+ইঞ্জিনের কৃতকাজ উৎস থেকে নেওয়া তাপ ও পরিবেশে বর্জিত তাপের পার্থক্য, তাই [math]W=Q_{in}-Q_{out}=4.5\times10^6-3.0\times10^6=1.5\times10^6\ \text{J}[/math]. দক্ষতা সংজ্ঞা অনুযায়ী [math]\eta=\dfrac{W}{Q_{in}}=\dfrac{1.5\times10^6}{4.5\times10^6}=\dfrac{1}{3}\approx0.333=33.3\%[/math], কারণ দক্ষতা হলো কাজের আউটপুটকে ইনপুট তাপে ভাগ করে পাওয়া অনুপাত।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 418972)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন 227°C তাপমাত্রার তাপ উৎস থেকে তাপ গ্রহণ করে ও 27°C তাপমাত্রার তাপ গ্রাহকে তাপ বর্জন করে। ইঞ্জিনটির কর্মদক্ষতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 40 \%)[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখান, তাপ উৎসের তাপমাত্রা, [math]T_1=227^{\circ}C=500K[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]T_2=27^{\circ}=300K[/math]
+ইঞ্জিনের কর্মদক্ষতা, [math]\eta=?[/math]
+ [math]\\[/math]
+ [math]\begin{aligned} \eta & =\left(1-\frac{T_{2}}{T_{1}}\right) \\ & =\left(1-\frac{300 \mathrm{~K}}{500 \mathrm{~K}}\right) \\ & =0.4 \\ \therefore \eta & =40 \% \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+কার্নো ইঞ্জিনের কর্মদক্ষতা কেলভিনে নেওয়া তাপমাত্রার অনুপাতে নির্ধারিত হয় এবং সূত্র [math]η=1-\frac{T_C}{T_H}[/math]; এখানে [math]T_H=227^\circ C=500\ \text{K}[/math] ও [math]T_C=27^\circ C=300\ \text{K}[/math]. তাই [math]η=1-\frac{300}{500}=1-0.6=0.4=40\%[/math], অর্থাৎ কর্মদক্ষতা 40%।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 418973)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিন 227° C ও 127°C তাপমাত্রার কার্যরত। উচ্চ তাপমাত্রায় এটি [math]2.52 \times 10 ^6 J[/math] তাপ শোষণ করে। প্রতি সাইকেলে ইঞ্জিনটি কী পরিমাণ কাজ করছে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 50.4\times 10^4 \ J)[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে,উচ্চ তাপমাত্রা, [math]T_1=227^{\circ}C=500K[/math]
+নিম্ন তাপমাত্রা, [math]T_2=127^{\circ}C=400K[/math]
+শোষিত তাপ, [math]Q_1=2.52 \times 10^6 \ J[/math]
+কৃতকাজ, [math]W=?[/math]
+ [math]\\[/math]
+আমরা জানি,কর্মদক্ষতা,[math]\begin{aligned} \eta & =1-\frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}} \\ & =1-\frac{400 \mathrm{~K}}{500 \mathrm{~K}} \\ & =\frac{100 \mathrm{~K}}{500 \mathrm{~K}}=0.2 \end{aligned}[/math]
+আবার,[math]\begin{array}{l} \eta=\frac{\mathrm{W}}{\mathrm{Q}_{1}} \\ \Rightarrow \mathrm{~W}=\eta \mathrm{Q}_{1}=0.2 \times 2.52 \times 10^{6} \mathrm{~J}=50.4 \times 10^{4} \mathrm{~J} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি কার্নো ইঞ্জিনের দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}[/math] যেখানে তাপমাত্রা কেলভিনে নিতে হয়; তাই [math]T_h=227+273.15=500.15\ \text{K}[/math] ও [math]T_c=127+273.15=400.15\ \text{K}[/math]. তাই [math]\eta=1-\dfrac{400.15}{500.15}\approx0.20[/math], এবং প্রতি সাইকেলে কাজ = [math]\eta\times Q=0.20\times(2.52\times10^6\ \text{J})\approx5.04\times10^5\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 418974)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি প্রত্যাগামী ইঞ্জিনের দক্ষতা 35%। তাপ গ্রাহকের তাপমাত্রা 50°C হলে তাপ উৎসের তাপমাত্রা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 2323.92^{\circ})[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে,ইঞ্জিনের দক্ষতা, [math]\eta=35\%=\frac{35}{100}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]T_2=50^{\circ}C=323 \ K[/math]
+তাপ উৎসের তাপমাত্রা, [math]T_1=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow \frac{35}{100}=1-\frac{323 \mathrm{~K}}{T_{1}} \\ \Rightarrow \frac{323 \mathrm{~K}}{T_{1}}=1-\frac{35}{100} \\ \Rightarrow \frac{323 \mathrm{~K}}{T_{1}}=\frac{65}{100} \\ \Rightarrow T_{1}=\frac{100}{65} \times 323 \mathrm{~K} \\ \Rightarrow T_{1}=496.92 \mathrm{~K} \\ \Rightarrow T_{1}=(496.92-273)^{\circ} \mathrm{C} \\ 223.92^{\circ} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+প্রত্যাগামী (কারনট) ইঞ্জিনের দক্ষতা সম্পর্ক করে [math]\eta = 1 - \dfrac{T_c}{T_h}[/math] যেখানে তাপমাত্রা কেভিনে নেয়া হয়। এখানে [math]0.35 = 1 - \dfrac{323}{T_h} \Rightarrow \dfrac{323}{T_h}=0.65 \Rightarrow T_h=\dfrac{323}{0.65}=497.7\ \text{K}\approx 498\ \text{K} = 224.7^\circ\text{C}\approx 225^\circ\text{C}[/math], তাই তাপ উৎসের তাপমাত্রা প্রায় [math]225^\circ\text{C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 418975)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+40% দক্ষতাবিশিষ্ট একটি আদর্শ ইঞ্জিনের তাপ গ্রাহকের তাপমাত্রা 7°C। ইঞ্জিনের দক্ষতা 50%-এ উ ন্নীত করতে তাপ উৎসের তাপমাত্রা কত বৃদ্ধি করতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 93.34^{\circ}C)[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে, তাপ গ্রাহকের তাপমাত্রা, [math]T_2=7^{\circ}C=280K[/math]
+কর্মদক্ষতা, [math]\eta=40%=\frac{40}{100}[/math]
+তাপ উৎসের তাপমাত্রা, [math]T_1=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow \frac{40}{100}=1-\frac{280 \mathrm{~K}}{T_{1}} \\ \Rightarrow \frac{280 \mathrm{~K}}{T_{1}}=1-\frac{40}{100} \\ \Rightarrow T_{1}=\frac{100}{60} \times 280 \mathrm{~K} \\ =466.66 \mathrm{~K} \end{array}[/math]
+আবার,২য় ক্ষেত্রে,তাপ গ্রাহকের তাপমাত্রা, [math]T_2=7^{\circ}=280K[/math]
+কর্মদক্ষতা, [math]\eta^{\prime}=50 \%=\frac{50}{100}[/math]
+তাপ উৎসের তাপমাত্রা, [math]T_{1}^{\prime}=?[/math]
+আমরা জানি,[math]\begin{array}{l} \Rightarrow \eta^{\prime}=1-\frac{T_{2}}{T_{1}^{\prime}} \\ \Rightarrow \frac{50}{100}=1-\frac{280 \mathrm{~K}}{T_{1}} \\ \Rightarrow \frac{280 \mathrm{~K}}{T_{1}^{\prime}}=1-\frac{50 \mathrm{~K}}{100 \mathrm{~K}} \\ \Rightarrow T_{1}^{\prime}=\left(\frac{100}{50} \times 280 \mathrm{~K}\right)=560 \mathrm{~K} \end{array}[/math]
+ [math]\therefore[/math]
+তাপমাত্রা বৃদ্ধি, [math]\begin{aligned} \Delta \mathrm{T}=\mathrm{T}_{1}^{\prime}-\mathrm{T}_{1} & =(560 \mathrm{~K}-466.66 \mathrm{~K}) \\ & =93.34 \mathrm{~K}=93.34^{\circ} \mathrm{C} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+কার্নট ইঞ্জিনের দক্ষতা সূত্র হল [math]\eta=1-\dfrac{T_C}{T_H}[/math]। তাই [math]\eta_1=0.40\Rightarrow T_{H1}=\dfrac{T_C}{1-0.40}=\dfrac{280}{0.6}=466.67\ \mathrm{K}[/math] (এখানে [math]T_C=7+273=280\ \mathrm{K}[/math]) এবং [math]\eta_2=0.50\Rightarrow T_{H2}=\dfrac{280}{0.5}=560\ \mathrm{K}[/math]। তাই তাপ উৎসের তাপমাত্রা বৃদ্ধির পরিমাণ [math]\Delta T=560-466.67=93.33\ \mathrm{K}\approx93.3^\circ\mathrm{C}[/math] — কেননা কেলভিন ও সেলসিয়াসে তাপমাত্রার পরিবর্তন একই।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 418976)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+167 °C ও 51 °C তাপমাত্রার মধ্যে কার্যরত একটি প্রত্যাগামী ইঞ্জিনের সর্বাধিক দক্ষতা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 25\%)[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে,উচ্চ তাপমাত্রা, [math]T_{1}=167^{\circ}=440 \mathrm{~K}[/math]
+নিম্ন তাপমাত্রা, [math]\Gamma_{2} \doteq 57^{\circ} \mathrm{C}=330 \mathrm{~K}[/math]
+সর্বাধিক দক্ষতা, [math]\eta=?[/math]
+আমরা জানি,[math]\begin{array}{l} \eta=1-\frac{T_{2}}{T_{1}} \\ \Rightarrow \eta=1-\frac{330 \mathrm{~K}}{440 \mathrm{~K}} \\ \Rightarrow \eta=0.25 \\ \Rightarrow \eta=25 \% \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রত্যাগামী ইঞ্জিনের সর্বাধিক দক্ষতা কার্নোট সূত্র দ্বারা নির্ধারিত, [math]\eta_{\max}=1-\frac{T_c}{T_h}[/math], এবং এখানে তাপমাত্রা কেলভিনে নিতে হয়। তাই [math]T_h=167+273=440\ \text{K},\ T_c=51+273=324\ \text{K}[/math] এবং [math]\eta=1-\frac{324}{440}=0.2636\approx26.36\%[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 418977)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি প্রত্যাগামী ইঞ্জিন প্রতি চক্রে তাপাধার থেকে 200 J তাপ গ্রহণ করে এবং তাপ গ্রাহকে' 110 J তাপ বর্জন করে। তাপ গ্রাহকের তাপমাত্রা 320 K হলে তাপাধারের তাপমাত্রা ও ইঞ্জিনের দক্ষতা এবং 50 চক্রে ইঞ্জিন কর্তৃক কৃতকাজ নির্ণয় কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 4500 \ J)[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+এখানে,গৃহীত তাপ, [math]Q_1=200 \ J[/math]
+বর্জিত তাপ, [math]Q_2=110 \ J[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]T_2=320 \ K[/math]
+তাপাধারের তাপমাত্রা, [math]T_1=?[/math]
+ইঞ্জিনের দক্ষতা, [math]\eta=?[/math]
+এবং [math]50[/math]
+ চক্রে কৃতকাজ [math]=?[/math]
+ [math]\\[/math]
+ [math]\begin{array}{l} \frac{\mathrm{Q}_{1}}{\mathrm{Q}_{2}}=\frac{\mathrm{T}_{1}}{\mathrm{~T}_{2}} \\ \Rightarrow \frac{200 \mathrm{~J}}{110 \mathrm{~J}}=\frac{\mathrm{T}_{1}}{320 \mathrm{~K}} \\ \therefore \mathrm{~T}_{1}=\frac{200 \mathrm{~J}}{110 \mathrm{~J}} \times 320 \mathrm{~K} \\ =581.81 \mathrm{~K} \text { (Ans.) } \\ \therefore \eta=1-\frac{\mathrm{Q}_{2}}{\mathrm{Q}_{1}} \\ =1-\frac{110 \mathrm{~J}}{200 \mathrm{~J}}=0.45 \\ \therefore \eta=45 \% \text { (Ans.) } \\ \end{array}[/math]
+এখন, একটি চক্রে কৃতকাজ, [math]\begin{aligned} \mathrm{W} & =\mathrm{Q}_{1}-\mathrm{Q}_{2} \\ & =200 \mathrm{~J}-110 \mathrm{~J}=90 \mathrm{~J} \end{aligned}[/math]
+ [math]\therefore[/math]
+50 টি চক্রে কৃতকাজ [math]=50 \times W=50 \times 90 \mathrm{~J}=4500 \mathrm{~J}(\text { Ans. })[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি প্রত্যাগামী (রিভার্সিবল) ইঞ্জিনে কাজ প্রতি চক্রে [math]W=Q_h-Q_c=200-110=90\ \text{J}[/math] এবং দক্ষতা [math]\eta=W/Q_h=90/200=0.45=45\%[/math] হয়; কার্নট সূত্র অনুযায়ী [math]\eta=1-T_c/T_h[/math] থেকে তাপাধারের তাপমাত্রা [math]T_h=T_c/(1-\eta)=320/0.55\approx581.8\ \text{K}\ (\approx582\ \text{K})[/math]. ৫০ চক্রে মোট কাজ [math]50\times90=4500\ \text{J}[/math]। 
+
+ক [math]T_h\approx582\ \text{K}[/math]  
+খ [math]\eta=45\%[/math]  
+গ [math]W_{50}=4500\ \text{J}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 418980)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ইঞ্জিনের কর্মদক্ষতা 40% নিম্ন তাপাধারের তাপমাত্রা 7° C; এর উচ্চ তাপাধারের তাপমাত্রা নির্ণ য় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](Answer : 193.67^{\circ})[/math]
+ [math]\\[/math]
+ [math]Solution :[/math]
+ এখানে,ইঞ্জিনের কর্মদক্ষতা, [math]\eta=40%=\frac{40}{100}=\frac{4}{10}[/math]
+নিম্ন তাপাধারের তাপমাত্রা, [math]T_2=7^{\circ}C=280K[/math]
+উচ্চ তাপাধারের তাপমাত্রা, [math]T_1=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \eta & =\frac{T_{1}-T_{2}}{T_{1}} \\ \Rightarrow \frac{4}{10} & =\frac{T_{1}-280 \mathrm{~K}}{T_{1}} \\ \Rightarrow 4 T_{1} & =10 T_{1}-2800 \mathrm{~K} \\ \Rightarrow 6 T_{1} & =2800 \mathrm{~K} \\ \Rightarrow T_{1} & =\frac{2800 \mathrm{~K}}{6} \\ \therefore T_{1} & =466.7 \mathrm{~K}=193.67^{\circ} \mathrm{C} \end{aligned}[/math]
+
+
+Explanation:
+ইঞ্জিনটি কারনট ধরণের ধরা হলে কর্মদক্ষতা [math]\eta=1-\frac{T_c}{T_h}[/math] প্রয়োগ করা যায়; নিচু তাপমাত্রা [math]T_c=7^\circ C=280\ K[/math]. সুতরাং [math]0.40=1-\frac{280}{T_h}\Rightarrow\frac{280}{T_h}=0.60\Rightarrow T_h=\frac{280}{0.6}=466.67\ K=193.67^\circ C[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 418951)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচে কার্নো চক্রের চারটি ধাপ [math]P – V[/math] লেখচিত্রের মাধ্যমে প্রদর্শন করা হলো:
+
+[Image]
+
+
+Options:
+গ. উল্লিখিত কার্নো ইঞ্জিনের দক্ষতা বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, উল্লিখিত কার্নো ইঞ্জিনের দক্ষতা, [math]\eta[/math]
+উদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+তাপ উৎসের তাপমাত্রা, [math]\mathrm{T}_{1}=1200 \mathrm{~K}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপ গ্রাহকের তাপমাত্রা, [math]\rm{T}_{2}=650 \mathrm{~K}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \eta & =\left(1-\rm{\frac{T_{2}}{T_{1}}}\right) \times 100 \% \\ & =\left(1-\frac{650}{1200}\right) \times 100 \% \\ & =45.83 \% \end{aligned}[/math]
+ [math]\therefore[/math]
+ কার্নো ইঞ্জিনের দক্ষতা [math]45.83\%[/math]
+।
+
+Explanation:
+গ কার্নো চক্রে উষ্মাগ্রহণ ও উষ্মত্যাগ একই এনট্রপি পরিবর্তনের ফলে ঘটে, তাই [math]Q_H=T_H\Delta S[/math] এবং [math]Q_C=T_C\Delta S[/math]. ফলে দক্ষতা [math]\eta=1-\dfrac{Q_C}{Q_H}=1-\dfrac{T_C}{T_H}[/math], অর্থাৎ কার্যক্ষমতা কেবল উষ্ণ ও শীতল রিজার্ভারের তাপমাত্রার উপর নির্ভর করে।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 418952)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি প্রত্যাবর্তী ইঞ্জিন তাপের [math]1/6^{th}[/math] অংশকে কাজে রূপান্তর করে। যখন উৎসের তাপমাত্রা ঠিক রেখে গ্রাহকের তাপমাত্রা 62°C কমানো হয় তখন ইঞ্জিনের দক্ষতা দ্বিগুণ হয়। গ্রাহক এর তাপমাত্রা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমাধান: ধরি, গ্রাহকের তাপমাত্রা [math]T_1[/math]
+ ও উৎসের তাপমাত্রা [math]T_2[/math]
+ [math]\eta=1-\dfrac{T_1}{T_2}\Rightarrow \dfrac{1}{6}=1-\dfrac{T_1}{T_2}[/math]
+আবার, [math]\dfrac{2}{6}=1-\dfrac{T_1-62}{T_2} \Rightarrow \dfrac{1}{3}=1-\dfrac{T_1}{T_2}+\dfrac{62}{T_2} \Rightarrow \dfrac{1}{3} =\dfrac{1}{6} + \dfrac{62}{T_2}[/math]
+ [math]\therefore T_2 = 372 \ K = 99^\circ C \ \& \ T_1= 310 K = 37^\circ C[/math]
+ [math]\therefore[/math]
+ গ্রাহকের তাপমাত্রা [math]37^\circ C[/math]
+ ।
+
+Explanation:
+প্রত্যাবর্তী (কার্নট) ইঞ্জিনের দক্ষতা [math]\eta=1-\dfrac{T_c}{T_h}[/math]। শুরুতে [math]\eta_1=1/6\Rightarrow T_c/T_h=5/6[/math] এবং পরে তাপমাত্রা 62°C (অর্থাৎ 62 K) কমলে দক্ষতা দ্বিগুণ হবে: [math]\eta_2=1/3=1-\dfrac{T_c-62}{T_h}[/math]। এগুলো সমাধান করলে [math]62/T_h=1/6\Rightarrow T_h=372\ \text{K}[/math] এবং [math]T_c=(5/6)T_h=310\ \text{K}=37^\circ C[/math], তাই গ্রাহকের তাপমাত্রা [math]37^\circ C[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 418948)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+কার্নো ইঞ্জিনের প্রতি স্তরে সংকোচন বা প্রসারণের অনুপাত [math]1 : 2[/math]। এতে কার্যনির্বাহক বস্তু হিসাবে [math]3\ mole[/math] দ্বিপরমাণুক গ্যাস ব্যবহার করা হলো। [দ্বিপরমাণুক গ্যাসের [math]\gamma = 1.4[/math]]
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকে প্রদত্ত ইঞ্জিনের দক্ষতা [math]33\%[/math] অপেক্ষা বেশি হওয়া সম্ভব কি?—গাণিতিক যুক্তির সাহায্যে উত্তর দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\text {A}[/math]
+ থেকে [math]\text {B}[/math]
+ তে পরিবর্তনের ক্ষেত্রে সমোষ্ণ প্রক্রিয়ায় পরিবর্তন ঘটে। ফলে [math]\text {B}[/math]
+ বিন্দুতে তাপমাত্রা প্রাথমিক তাপমাত্রার সমান হবে।[math]\therefore ~\rm{B}[/math]
+ বিন্দুতে তাপমাত্রা, [math]\mathrm{T}_{1}=30^{\circ} \mathrm{C}=(30+273) \mathrm{K}=303 \mathrm{~K}[/math]
+আবার, [math]\text {B}[/math]
+ থেকে [math]\text {C}[/math]
+ তে পরিবর্তনের ক্ষেত্রে রুদ্ধতাপীয় প্রক্রিয়ায় পরিবর্তন ঘটে। এক্ষেত্রে তাপমাত্রার পরিবর্তন ঘটে।এখন [math]\text {C}[/math]
+ বিন্দুতে পরিবর্তিত তাপমাত্রা [math]\mathrm{T}_{2}[/math]
+ (ধরি)[math]\rm{B}[/math]
+ বিন্দুতে আয়তন, [math]\rm{V_{1}=V}[/math]
+ (ধরি)[math]\therefore \rm{~C}[/math]
+ বিন্দুতে আয়তন, [math]\rm{V_{2}=2 V}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{T_{1} V_{1}^{\gamma-1}}&=\rm{T_{2} V_{2}^{\gamma-1}}\\ \Rightarrow \ \mathrm{~T}_{2}~ & =\mathrm{T}_{1}\left(\frac{\mathrm{V}_{1}}{\mathrm{~V}_{2}}\right)^{\gamma-1}=303 \mathrm{~K} \times\left(\frac{\mathrm{V}}{2 \mathrm{~V}}\right)^{1.4-1} \\ & =303 \mathrm{~K} \times(0.5)^{0.4} \\ & =229: 63 \mathrm{~K} \end{aligned}[/math]
+ [math]\therefore \rm{~C}[/math]
+ বিন্দুতে তাপমাত্রা [math]229.63 \mathrm{~K}[/math]
+আবার, [math]\text {C}[/math]
+ থেকে [math]\text {D}[/math]
+ তে সমোষ্ণ প্রক্রিয়ায় পরিবর্তন ঘটে। ফলে তাপমাত্রা [math]\text {D}[/math]
+ বিন্দুতেও [math]229.63 \text { K}[/math]
+ থাকে এবং [math]\text {D}[/math]
+ থেকে [math]\text {A}[/math]
+ তে রুদ্ধতাপীয় প্রক্রিয়ায় পরিবর্তিত হয়ে পুনরায় প্রাথমিক তাপমাত্রা অর্থাৎ [math]303\rm{~K}[/math]
+ হয়।এখন, ইঞ্জিনের কর্মদক্ষতা, [math]\eta=33 \%[/math]
+ হলে,প্রাথমিক তাপমাত্রা, [math]\mathrm{T}_{1}=303 \mathrm{~K}[/math]
+চূড়ান্ত তাপমাত্রা [math]\rm{T}_2[/math]
+ ধরি,[math]\hspace{1.5 cm}\begin{array}{l} \therefore ~\eta=\rm{\dfrac{T_{1}-T_{2}}{T_{1}}} \times 100 \% \\ \Rightarrow 33 \%=\dfrac{303-\rm{T}_{2}}{303} \\ \Rightarrow 0.33=\dfrac{303-\rm{T}_{2}}{303} \\ \Rightarrow 303-\rm{T}_{2}=99.99 \\ \therefore ~\rm{T}_{2}=203.01 \mathrm{~K} \end{array}[/math]
+অর্থাৎ, ইঞ্জিনের কর্মদক্ষতা [math]33\%[/math]
+ পাওয়া যাবে, যখন তাপগ্রাহকে তাপমাত্রা [math]203.01 \rm{~K}[/math]
+ হবে। তাপগ্রাহকের তাপমাত্রা আরও কম হলে কর্মদক্ষতা [math]33\%[/math]
+ এর বেশি হবে। কিন্তু এক্ষেত্রে সর্বনিম্ন তাপমাত্রা পাই [math]229.63 \rm{~K}[/math]
+। অতএব ইঞ্জিনের কর্মদক্ষতা [math]33\%[/math]
+ অপেক্ষা বেশি যাওয়া সম্ভব নয়।
+
+Explanation:
+ঘ কারণ কার্নো দক্ষতা কেবলতই তাপমাত্রার অনুপাতের উপর নির্ভর করে এবং মোল সংখ্যা এখানে প্রভাব ফেলে না; অ্যাডিয়াব্যাটিক সম্পর্ক অনুযায়ী [math]\dfrac{T_C}{T_H}=\left(\dfrac{1}{2}\right)^{\gamma-1}[/math]. তাই [math]\eta=1-\dfrac{T_C}{T_H}=1-2^{-(\gamma-1)}=1-2^{-0.4}\approx1-0.758=0.242\;(24.2\%).[/math] অতএব কার্যনির্বাহক দক্ষতা [math]33\%[/math] এর বেশি হতে পারে না।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 418949)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি কার্নো ইঞ্জিনের তাপ উৎস ও তাপগ্রাহকের তাপমাত্রা যথাক্রমে [math]1200^\circ C, 600^\circ C[/math]। এতে চারটি ধাপে সম্পাদিত কাজের পরিমাণ যথাক্রমে [math]1100\ J, 1150\ J, 600\ J[/math] ও [math]300\ J[/math] ।
+
+Options:
+গ. উদ্দীপকে কার্নো ইঞ্জিন কর্তৃক কৃতকাজের পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, কার্নো ইঞ্জিন কর্তৃক কৃতকাজ, [math]\rm{W}[/math]
+উদ্দীপক হতে পাই, চারটি ধাপে সম্পাদিত কাজ,[math]\hspace{1 cm}[/math]
+সমোষ্ণ প্রসারণের জন্য, [math]\mathrm{W}_{1}=1100 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+রুদ্ধতাপ প্রসারণের জন্য, [math]\mathrm{W}_{2}=1150 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+সমোষ্ণ সংকোচনের জন্য, [math]\mathrm{W}_{3}=600 \mathrm{~J}[/math]
+ [math]\hspace{1 cm}[/math]
+রুদ্ধতাপ সংকোচনের জন্য, [math]\mathrm{W}_{4}=300 \mathrm{~J}[/math]
+আমরা জানি, কার্নো ইঞ্জিনের পূর্ণ চক্রে সম্পাদিত কাজ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{W}_{1}+\mathrm{W}_{2}-\mathrm{W}_{3}-\mathrm{W}_{4} \\ & =(1100+1150-600-300) \mathrm{J}=1350 \mathrm{~J} \end{aligned}[/math]
+অতএব, কার্নো ইঞ্জিন কর্তৃক কৃতকাজের পরিমাণ [math]1350 \mathrm{~J}[/math]
+।
+
+Explanation:
+গ ব্যাখ্যা: কার্নো চক্রে দুটি ধাপে ইঞ্জিন কাজ করে (ইস্ত্রিত বিস্তার) এবং দুটি ধাপে উপর্যুক্ত কাজ করা লাগে (সংকোচন), তাই নিট কৃতকাজ = কাজ করা ধাপগুলোর যোগ − উপর্যুক্ত কাজগুলোর যোগ। [math]W_{net}=1100+1150-600-300=1350\ \text{J}[/math] তাই নিট কৃতকাজ [math]1350\ \text{J}[/math].
+
+Sub-Questions:
+

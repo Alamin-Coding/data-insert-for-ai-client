@@ -1,0 +1,52 @@
+================================================================================
+Question #1 (ID: 397621)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\lim _{x \rightarrow 0} \frac{\cos x-1}{x^{2}}[/math] এর মান কোনটি?
+
+Options:
+A. -8
+B. [math]\frac{1}{2}[/math]
+C. [math]\frac{1}{2}[/math]
+D. 8
+
+
+Correct Answer: খ
+
+Solution:
+[math]\lim _{x \rightarrow 0} \frac{\cos x-1}{x^{2}}[/math]
+ [math]=\lim _{x \rightarrow 0} \frac{-\sin x}{2 x}=-\frac{1}{2} \times \lim _{x \rightarrow 0} \frac{\sin x}{x}=-\frac{1}{2} \times 1=-\frac{1}{2}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 397622)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\lim _{x \rightarrow-\infty} \frac{\sqrt{x^{2}+x}}{x+1}=?[/math]
+
+Options:
+A. 1
+B. [math]-\infty[/math]
+C. [math]\infty[/math]
+D. -1
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\lim _{x \rightarrow-\infty} \frac{\sqrt{x^{2}+x}}{x+1}\\=\lim _{x \rightarrow-\infty} \frac{(-x) \sqrt{1+\frac{1}{x}}}{x\left(1+\frac{1}{x}\right)}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+

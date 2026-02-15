@@ -1,0 +1,648 @@
+================================================================================
+Question #1 (ID: 413510)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+দুটি অগ্রগামী তরঙ্গের সমীকরণ যথাক্রমে—
+
+[math]Y_{1}=0.1 \sin \pi\left(200 \pi t-\dfrac{20 \pi x}{17}\right) \\ Y_{2}=0.1 \sin \pi \left(200 \pi t+\dfrac{20 \pi x}{17}\right)[/math]
+
+Options:
+ঘ. উদ্দীপকে প্রদত্ত তরঙ্গদ্বয়ের মধ্যে উপরিপাতনের ফলে কোন ধরনের তরঙ্গ সৃষ্টি হবে? গাণিতিক বিশ্লেষণের সাহায্যে উত্তর দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপকের ১ম তরঙ্গটি হলো,[math]\hspace{1.5cm}\mathrm{Y_1}=\mathrm{0.1\sin\left(200\pi t-\frac{20\pi x}{17}\right)}[/math]
+যা x অক্ষের অভিমুখে একটি অগ্রগামী তরঙ্গ,আবার, ২য় তরঙ্গটি হলো, [math]\mathrm{Y_2}=\mathrm{0.1\sin\left(200\pi t+\frac{20\pi}{17}{x}\right)}[/math]
+এটি ধনাত্মক x-অক্ষ অভিমুখে অগ্রগামী তরঙ্গের সমীকরণ। এখন, তরঙ্গ দুটি উপরিপাতিত হলে তাদের লব্ধি সরণ হবে,[math]\hspace{1cm}\begin{array}{l}\begin{aligned}\mathrm{Y}&=\mathrm{Y}_1+\mathrm{Y}_2\\&=0.1\sin\left(200\pi\mathrm{t}-\frac{20\pi}{17}\mathrm{x}\right)+0.1\sin\left(200\pi\mathrm{t}+\frac{20\pi}{17}\mathrm{x}\right)\\&=0.1\sin\frac{2\pi}{\lambda}\left(100\lambda\mathrm{t}-\frac{10\lambda}{17}\mathrm{x}\right)+0.1\sin\frac{2\pi}{\lambda}\left(100\lambda\mathrm{t}+\frac{10\lambda}{17}\mathrm{x}\right)\\&=2\times0.1\sin\frac{2\pi}{\lambda}\cdot100\lambda\mathrm{t}\cdot\cos\frac{2\pi}{\lambda}\cdot\frac{10\lambda}{17}\mathrm{x}\\&=0.2\sin\frac{2\pi}{\lambda}\cdot100\lambda\mathrm{t}\end{aligned}\end{array}[/math]
+ [math]\hspace{1cm}\Rightarrow \mathrm{y}= \mathrm{A\sin\omega t}\hspace{1.5cm}[/math]
+ [এখানে, [math]\mathrm{A}=0.2, \omega=\frac{2 \pi}{\lambda} \cdot 100 \lambda \text { ] }[/math]
+এখানে, সমাপতিত তরঙ্গ দুটি একটি সরলছন্দিত গতি সম্পন্ন তরঙ্গ উৎপন্ন করে। এ সরলছন্দিত গতিটি অগ্রগামী তরঙ্গ নয়। কারণ এতে অগ্রগামী তরঙ্গের ন্যায় দশার কোনো পার্থক্য নেই। অর্থাৎ, অগ্রগামী তরঙ্গের ন্যায় দশা কোণের ভিতর [math]\mathrm{(vt-x)}[/math]
+ জাতীয় কোনো রাশি অন্তর্ভুক্ত নেই। সুতরাং এ সমীকরণটি দুটি তরঙ্গের উপরিপাতনের ফলে সৃষ্ট স্থির তরঙ্গ প্রকাশ করে ৷ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ দুটি তরঙ্গের যোগ করলে
+
+[math]Y=Y_1+Y_2=0.1\{\sin A+\sin B\}=0.2\sin\big(200\pi^2 t\big)\cos\!\left(\dfrac{20\pi^2 x}{17}\right),[/math]
+
+যা সময়-নির্ভর সাইন এবং স্থান-নির্ভর কসমের গুণফল; তাই উপরি-পাতনের ফলে একটি স্থায়ী (standing) তরঙ্গ সৃষ্টি হয় (নোড যেখানে [math]\cos\!\left(\dfrac{20\pi^2 x}{17}\right)=0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 413509)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Central Women's College,
+--------------------------------------------------------------------------------
+Question:
+সালমা একটি তারের এক প্রান্ত একটি খুঁটির সাথে বেঁধে অপর প্রান্তে হাত দিয়ে ঝাঁকুনি দিল। এতে তারের মধ্যে একটি অগ্রগামী তরঙ্গের সৃষ্টি হলো। যার সমীকরণ হলো [math]y=0.5 \sin \pi\left(100 t-\dfrac{x}{3.4}\right)[/math]।
+
+Options:
+ঘ. উল্লেখিত তরঙ্গের সাথে বিপরীতমুখী তরঙ্গের উপরিপাতন হলে তারটির সকল বিন্দুর স্পন্দন সমান হবে কী? গাণিতিক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রদত্ত তরঙ্গের সমীকরণ,[math]\hspace{1cm}\mathrm{Y_1}=\mathrm{0.5\sin\pi\left(100t-\frac{x}{3.4}\right)}...................\text{(i)}[/math]
+ [math]\therefore[/math]
+ প্রদত্ত তরঙ্গের বিপরীতমুখী তরঙ্গের সমীকরণ[math]\hspace{1cm}\mathrm{Y_2}=\mathrm{0.5\sin\pi\left(100t+\frac{x}{3.4}\right)}...................\text{(ii)}[/math]
+অতএব, (i) ও (ii) নং তরঙ্গদ্বয়ের উপরিপাতনের সৃষ্টি লব্ধিতরঙ্গের সরণ [math]\mathrm{Y}=\mathrm{Y_1+Y_2}[/math]
+ [math]\hspace{1cm}\begin{array}{l}\Rightarrow\mathrm{Y}=\mathrm{0.5\sin\pi\left(100t-\frac{x}{3.4}\right)+0.5\sin\pi\left(100t+\frac{x}{3.4}\right)}\\\Rightarrow\mathrm{Y}=\mathrm{0.5\left\{\sin\pi\left(100t-\frac{x}{3.4}\right)+\sin\pi\left(100t+\frac{x}{3.4}\right)\right\}}\\\Rightarrow\mathrm{Y}=\mathrm{0.5\left\{\sin\left(100\pi t-\frac{x\pi}{3.4}\right)+\sin\left(100\pi t+\frac{x\pi}{3.4}\right)\right\}}\\\Rightarrow\mathrm{Y}=\mathrm{0.5\left(2\sin100\pi t\cos\frac{x\pi}{3.4}\right)}\\\Rightarrow\mathrm{Y}=\mathrm{s\sin100\pi t\cos\frac{x\pi}{3.4}}\\\Rightarrow\mathrm{Y}=\mathrm{A\sin100\pi t}...................\text{(iii)}\end{array}[/math]
+ [math]\hspace{6.5cm}[/math]
+ [A= লব্ধি তরঙ্গের বিস্তার [math]=\cos \frac{x \pi}{3.4}[/math]
+](iii) নং সমীকরণটি একটি স্থির তরঙ্গের সমীকরণ।আমরা জানি, স্থির তরঙ্গের সকল বিন্দুতে স্পন্দন সমান হয় তাই বলা যায়, উদ্দীপকে উল্লেখিত তরঙ্গের সাথে অনুরুপ বিপরীতমুখী তরঙ্গের উপরিপাতন হলে তারটির সকল বিন্দুর স্পন্দন সমান হবে । [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ না—সমজাতীয় বিপরীতমুখী তরঙ্গের সুপারপজিশনে দাঁড় তরঙ্গ গঠন হয়, কিন্তু প্রতিটি বিন্দুর স্পন্দন সমান হয় না। যদি সামনে যাওয়া তরঙ্গটা [math]y_1=0.5\sin\pi(100t-\tfrac{x}{3.4})[/math] এবং বিপরীতমুখী একই তরঙ্গটা [math]y_2=0.5\sin\pi(100t+\tfrac{x}{3.4})[/math] হয়, তাহলে যোগ করলে পাওয়া যায়  
+[math]y=y_1+y_2=\sin(\pi\cdot100t)\cos\!\left(\frac{\pi x}{3.4}\right).[/math] ফলে স্পন্দনের প্রাকাংক (অ্যামপ্লিটিউড) [math]|\cos(\tfrac{\pi x}{3.4})|[/math] উপর নির্ভর করে এবং কিছু বিন্দুতে (নোডে) শূন্য, অন্যত্র সর্বোচ্চ হয়—তাই সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 413508)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Govt. Majid Mammorial City College. Khulna
+--------------------------------------------------------------------------------
+Question:
+[math]y=12 \sin 4 x \cos 4 t[/math] একটি স্থির তরঙ্গের সমীকরণ যেখানে [math]x[/math] ও [math]y[/math] মিটারে এবং [math]t[/math] সেকেন্ডে প্রকাশিত।
+
+Options:
+গ. যে দুটি তরঙ্গ মিলে এই স্থির তরঙ্গটি সৃষ্টি হয়েছে তাদের সমীকরণ লেখ।
+
+
+Correct Answer: 
+
+Solution:
+গআমরা জানি, স্থির তরঙ্গের সমীকরণ,[math]\hspace{1.5cm}\mathrm{y}=\mathrm{2a\sin\frac{2\pi}{\lambda}x\cos\frac{2\pi}{\lambda}(vt)}....................\text{(i)}[/math]
+উদ্দীপক হতে পাই, স্থির তরঙ্গের সমীকরণ,[math]\hspace{1.5cm}\begin{aligned}\mathrm{y} & =\mathrm{12 \sin 4 x \cos 4 t} \\& =12 \sin \frac{2 \pi}{1.57} \times \cos \frac{2 \pi}{1.57} \times 1 \times\mathrm{(v t)}....................\text{(ii)}\end{aligned}[/math]
+(i) নং ও (ii) নং সমীকরণ তুলনা করে পাই,[math]\hspace{1.5cm}\begin{aligned}& 2 a=12 \\\therefore \quad & a=6 \mathrm{~m}\end{aligned}[/math]
+আবার, [math]\frac{2 \pi}{\lambda} x=\frac{2 \pi}{1.57} x[/math]
+ [math]\hspace{1cm}\therefore \lambda=1.57 \mathrm{~m}[/math]
+এবং [math]1 \times \frac{2 \pi}{1.57}=\frac{2 \pi}{\lambda} \mathrm{v}[/math]
+ [math]\hspace{1cm}\therefore \quad \mathrm{v}=1 \mathrm{~m} / \mathrm{s}[/math]
+ [math]\therefore[/math]
+ যে দুটি তরঙ্গ মিলে স্থির তরঙ্গ সৃষ্টি হয়েছে তাদের সমীকরণযথাক্রমে [math]\mathrm{y}_{1}=6 \sin \frac{2 \pi}{1.57}(1 \times \mathrm{t}-\mathrm{x})[/math]
+ ও [math]\mathrm{y}_{2}=6 \sin \frac{2 \pi}{1.57}(1 \times \mathrm{t}+\mathrm{x})[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ [math]12\sin4x\cos4t=6\big[\sin(4x+4t)+\sin(4x-4t)\big][/math] হওয়ায় দুটি ভ্রমণ তরঙ্গ হলো [math]y_1=6\sin(4x-4t)[/math] এবং [math]y_2=6\sin(4x+4t)[/math]; এখানে প্রতিটি তরঙ্গের আম্প্লিটিউড 6 এবং একটি +x দিকে, অন্যটি −x দিকে চলমান।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 413507)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি স্থির তরঙ্গের সমীকরণ [math]y=8 \sin \frac{\pi x}{6} \cos 64 \pi t[/math];
+
+এখানে x ও y সেন্টিমিটারে ও সেকেন্ডে দেয়া হয়েছে। যে দুটি তরঙ্গের মিলিত ক্রিয়ায় স্থির তরঙ্গটির উৎপত্তি হয়েছে তাদের বিস্তার, কম্পাঙ্ক ও বেগ নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.04 \mathrm{~m}[/math]
+ , [math]3.84 \mathrm{~ms}^{-1}[/math]
+ , [math]32 \mathrm{~Hz}[/math]
+ )[math]\\[/math]
+Solution :প্রদত্ত সমীকরণ,[math]y=8 \sin \frac{\pi x}{6} \cos 64 \pi t[/math]
+ ........(i)আমরা জানি, [math]y=2 a \sin \frac{2 \pi x}{\lambda} \cos \frac{2 \pi}{\lambda} \mathrm{v} t[/math]
+ .......(ii)সমীকরণ (i) ও (ii) তুলনা করে পাই,[math]\begin{array}{r}2 a=8 \\\therefore \quad a=\frac{8}{2}\end{array}[/math]
+ [math]\therefore[/math]
+ বিস্তার [math]\mathrm{a}=4 \mathrm{~cm}=0.04 \mathrm{~m} \text { (Ans.) }[/math]
+ [math]\frac{2 \pi \mathrm{x}}{\lambda}=\frac{\pi \mathrm{x}}{6}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{2 \pi}{\lambda}=\frac{\pi}{6}[/math]
+ [math]\therefore \quad \lambda=12 \mathrm{~cm}=0 .12 \mathrm{~m}[/math]
+আবার, [math]\frac{2 \pi v t}{\lambda}=64 \pi t[/math]
+ [math]\Rightarrow[/math]
+ [math]2 \mathrm{v}=64 \lambda[/math]
+ [math]\therefore \quad \mathrm{v}=\frac{64 \times 0.12}{2} \mathrm{~ms}^{-1}=3.84 \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+কম্পাঙ্ক, [math]\mathrm{f}=\frac{\mathrm{v}}{\lambda}=\frac{3 \cdot 84}{0 \cdot 12} \mathrm{~Hz}=32 \mathrm{~Hz} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: স্থির তরঙ্গকে দুইটি সমমিত ভ্রমণরত তরঙ্গের যোগফল হিসেবে লেখলে [math]y=4\sin\left(\frac{\pi x}{6}-64\pi t\right)+4\sin\left(\frac{\pi x}{6}+64\pi t\right)=8\sin\frac{\pi x}{6}\cos64\pi t[/math], তাই প্রতিটি মূল তরঙ্গের আম্প্লিটিউড [math]4\ \text{cm}[/math] এবং তারা যথাক্রমে +x ও −x দিকে বিস্তার করে। কম্পাঙ্ক [math]f=\frac{\omega}{2\pi}=\frac{64\pi}{2\pi}=32\ \text{Hz}[/math] এবং তরঙ্গদৈর্ঘ্য [math]\lambda=\frac{2\pi}{k}=\frac{2\pi}{\pi/6}=12\ \text{cm}[/math]। গতি হবে [math]v=f\lambda=\frac{\omega}{k}=\frac{64\pi}{\pi/6}=384\ \text{cm/s}=3.84\ \text{m/s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 413506)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]y_{1}=0.1 \sin \left(200 \pi t-\frac{20 \pi}{17} x\right), y_{2}=0.1 \sin[/math] [math]\left(200 \pi t+\frac{20 \pi}{17} x\right)[/math] তরঙ্গ দুটি t সময় ধরে একই সাথে সঞ্চালিত হচ্ছে।
+
+Options:
+ঘ. তরঙ্গদ্বয়ের উপরিপাতনের ফলে কোন ধরনের তরঙ্গ সৃষ্টি হবে?— গাণিতিকভাবে তোমার মতামত ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপকে তরঙ্গদ্বয়ের মধ্যে উপরিপাতনের ফলে স্থির তরঙ্গ সৃষ্টি হবে।
+
+Explanation:
+ব্যাখ্যা: দুইটি তরঙ্গের যোগফল দিয়ে আমরা পাই  
+[math]y=y_{1}+y_{2}=0.1\sin\left(200\pi t-\frac{20\pi}{17}x\right)+0.1\sin\left(200\pi t+\frac{20\pi}{17}x\right)=0.2\sin(200\pi t)\cos\left(\frac{20\pi}{17}x\right)[/math].  
+এটি একটি স্থিত তরঙ্গ, কারণ সময়নির্ভর অংশ [math]\sin(200\pi t)[/math] এবং স্থাননির্ভর স্থিত অংশ [math]\cos\left(\frac{20\pi}{17}x\right)[/math] আলাদা; নোড আসে যেখানে [math]\cos\left(\frac{20\pi}{17}x\right)=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 413505)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তারে উৎপন্ন স্থির তরঙ্গের সমীকরণ [math]y=(0.30[/math] [math]\text { m) } \sin (0.25 \mathrm{x}) \cos (120 \pi t)[/math] দ্বারা প্রকাশ করা হল, যেখানে x মিটারে এবং t সেকেন্ডে প্রকাশিত।
+
+Options:
+ঘ. মূল তরঙ্গদুটির সমীকরণ নির্ণয় করে তাদের উপরিপাতনে কীভাবে উপরিউক্ত স্থির তরঙ্গ উৎপন্ন হ য়েছে তার যুক্তিসঙ্গত ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,(গ) হতে প্রাপ্ত, [math]f=60 \mathrm{~Hz}[/math]
+কম্পাঙ্ক, [math]\lambda=25.13 \mathrm{~m}[/math]
+তরঙ্গদৈর্ঘ্য, [math]A_{0}=\frac{0.30}{2}=0.15 \mathrm{~m}[/math]
+বিস্তার, [math]\mathrm{A}_{\mathrm{o}}=\frac{0.30}{2}=0.15 \mathrm{~m}[/math]
+বেগ, [math]\mathrm{v}=1507.8 \mathrm{~ms}^{-1}[/math]
+কৌণিক বেগ,[math]\begin{aligned}\omega & =2 \pi f \\& =2 \pi \times 60 \\& =120 \pi \mathrm{rads}^{-1}\end{aligned}[/math]
+মূল তরঙ্গ দুটির সমীকরণ,[math]\begin{aligned}y_{1} & =-A_{0} \sin \frac{2 \pi}{\lambda}(v t-x) \\& =-0.15 \sin \frac{2 \pi}{25.13}(1507.8 \mathrm{t}-\mathrm{x})\end{aligned}[/math]
+এবং [math]\mathrm{y}_{2}=\mathrm{A}_{0} \sin \frac{2 \pi}{\lambda}(v \mathrm{t}+\mathrm{x})[/math]
+ [math]=0.15 \sin \frac{2 \pi}{25.13}(1507.8 \mathrm{t}+\mathrm{x})[/math]
+ [math]\mathrm{y}_{1}[/math]
+ ও [math]\mathrm{y}_{2}[/math]
+ তরঙ্গদ্বয় পরস্পর বিপরীত দিক থেকে এসে উপরিপাতিত হয়ে স্থির তরঙ্গ y সৃষ্টি করে।[math]y=y_{1}+y_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=-0.15 \sin \frac{2 \pi}{25.13}(1507.8 t-x)+0.15 \sin \frac{2 \pi}{25.13}(1507.8 t+x)[/math]
+ [math]\Rightarrow[/math]
+ [math]y=-0.15\left\{\sin \frac{2 \pi}{25.13}(1507.8 t-x)-\sin \frac{2 \pi}{25.13}(1507.8 t+x)\right\}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=-0.15\left\{2 \cos \left(\frac{2 \pi}{25.13} 1507.8 t\right) \sin \left(-\frac{2 \pi}{25.13} x\right)\right\}[/math]
+ [math]\therefore \mathrm{y}=0.30 \sin (0.25 \mathrm{x}) \cos (120 \pi \mathrm{t})[/math]
+ [math]0.30 \sin (0.25 x)[/math]
+ হলো তরঙ্গের বিস্তার যা অবস্থানভেদে পরিবর্তিত হয় এবং [math]\cos (120 \pi \mathrm{t})[/math]
+ দ্বারা বুঝায়, তরঙ্গটি অগ্রসর হয় না। সুতরাং ইহাই উৎপন্ন স্থির তরঙ্গ।
+
+Explanation:
+ঘ মূল দুইটি ভ্রমণরত তরঙ্গ হতে পারে [math]y_1=(0.15\ \text{m})\sin(0.25x-120\pi t)[/math] এবং [math]y_2=(0.15\ \text{m})\sin(0.25x+120\pi t)[/math]. কারণ তাদের যোগফল হলে [math]y=y_1+y_2=2(0.15\ \text{m})\sin(0.25x)\cos(120\pi t)=(0.30\ \text{m})\sin(0.25x)\cos(120\pi t)[/math], অর্থাৎ সমান অ্যামপ্লিটিউড এবং বিপরীত দিকে চলমান একই আপাতদ্রুততা ও তরঙ্গসংখ্যার তরঙ্গগুলো একসাথে মিলে স্থির তরঙ্গ গঠন করে।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 413504)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুইটি তরঙ্গকে যথাক্রমে [math]y_{1}=5 \sin (10 t-2 x)[/math] এবং [math]y_{2}=10 \cos (10 t-2 x)[/math] দ্বারা প্রকাশ করা হল, যেখানে x ও y মিটারে এবং সেকেন্ডে প্রকাশিত।
+
+Options:
+ঘ. দেখাও যে, তরঙ্গ দুটির লব্ধি সরণ একটি সাইন সদৃশ তরঙ্গকে প্রকাশ করে এবং এই তরঙ্গের বি স্তার ও দশা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,১ম তরঙ্গ, [math]y_{1}=5 \sin (10 t-2 x) m[/math]
+২য় তরঙ্গ, [math]y_{2}=10 \cos (10 t-2 x) m[/math]
+তরঙ্গদ্বয়ের লব্ধি সরণ, [math]y=y_{1}+y_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=5 \sin (10 t-2 x)+10 \cos (10 t-2 x)[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{y}{5 \sqrt{5}}=\frac{5}{5 \sqrt{5}} \sin (10 t-2 x) +\frac{10}{5 \sqrt{5}} \cos (10 t-2 x)[/math]
+ [math]\left[\because \sqrt{5^{2}+10^{2}}=5 \sqrt{5}\right][/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{y}{5 \sqrt{5}}=\frac{1}{\sqrt{5}} \sin (10 t-2 x)+\frac{2}{\sqrt{5}} \cos (10 t-2 x)[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{y}{5 \sqrt{5}}=\cos A \sin (10 t-2 x)+\sin A \cos (10 t-2 x)[/math]
+ [math]\left[\cos A=\frac{1}{\sqrt{5}}\right.[/math]
+ ধরে [math]\sin A=\frac{2}{\sqrt{5}}][/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{y}{5 \sqrt{5}}=\sin (A+10 t-2 x)[/math]
+ [math]\therefore y=5 \sqrt{5} \sin (10 t-2 x+A)[/math]
+ [ যেখানে [math]A=\cos ^{-1} \frac{1}{\sqrt{5}}[/math]
+ ]যা একটি সাইন সদৃশ তরঙ্গ।সুতরাং, তরঙ্গ দুটির লব্ধি সরণ একটি সাইন সদৃশ তরঙ্গকে প্রকাশ করে। এই তরঙ্গের বিস্তার হলো [math]A=5 \sqrt{5} \mathrm{~m}[/math]
+ এবং দশা [math]=(10 t-2 x + \text { A) rad. }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ দুই তরঙ্গের কোণীয় কম্পাঙ্ক ও তরঙ্গসংখ্যা সমান হওয়ায় তাদের যোগফলও একটি একক সাইন সদৃশ তরঙ্গ হবে। একটি ফলাফলে লিখলে [math]y=5\sin(10t-2x)+10\cos(10t-2x)=5\sin\phi+10\sin(\phi+\pi/2)[/math] (যেখানে [math]\phi=10t-2x[/math]) এবং ফেজোর যোগফল থেকে ফলাফলী উদ্বৃত্তি ও ধাপ পাওয়া যায়: [math]B=\sqrt{5^{2}+10^{2}}=5\sqrt{5}[/math] এবং [math]\delta=\tan^{-1}\!\frac{10}{5}=\tan^{-1}2\approx1.107\ \text{rad}[/math], অতএব [math]y=5\sqrt{5}\sin(10t-2x+\tan^{-1}2)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 413503)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুইটি তরঙ্গকে যথাক্রমে [math]y_{1}=5 \sin (10 t-2 x)[/math] এবং [math]y_{2}=10 \cos (10 t-2 x)[/math] দ্বারা প্রকাশ করা হল, যেখানে x ও y মিটারে এবং সেকেন্ডে প্রকাশিত।
+
+Options:
+গ. গণনা শুরু করার কতক্ষণ পর একটি নির্দিষ্ট বিন্দুতে তরঙ্গ দুটির সরণ একই হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,প্রথম তরঙ্গ, [math]\mathrm{y}_{1}=5 \sin (10 \mathrm{t}-2 \mathrm{x})[/math]
+দ্বিতীয় তরঙ্গ [math]y_{2}=10 \cos (10 t-2 x)[/math]
+কোনো বিন্দুতে তরঙ্গদ্বয়ের সরণ একই হলে,[math]\mathrm{y}_{1}=\mathrm{y}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]5 \sin (10 t-2 x)=10 \cos (10 t-2 x)[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\sin (10 t-2 x)}{\cos (10 t-2 x)}=\frac{1}{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\tan (10 t-2 x)=\frac{1}{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]10 t-2 x=\tan ^{-1}\left(\frac{1}{2}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]10 t-2 x=0.46[/math]
+ [math]\therefore \mathrm{t}=\frac{2 \mathrm{x}+0.46}{10}[/math]
+অর্থাৎ, কোনো বিন্দুতে উভয় তরঙ্গের সরণ একই হওয়ার সময় ঐ বিন্দুর অবস্থানের উপর নির্ভর করে। যেমন : কোনো বিন্দুতে x = 1mহলে, [math]\mathrm{t}=\frac{2 \times 1+0.46}{10}=0.246 \mathrm{~s} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ একটি নির্দিষ্ট বিন্দুতে সমান করতে [math]5\sin(10t-2x)=10\cos(10t-2x)[/math] সমীকরণটি পূরণ করতে হবে, য Fritz থেকে [math]\tan(10t-2x)=2[/math] পাওয়া যায়। তাই সাধারণ সমাধান [math]10t-2x=\arctan 2+n\pi[/math] এবং [math]t=\dfrac{2x+\arctan 2+n\pi}{10}[/math] (যেখানে [math]n[/math] পূর্ণ সংখ্যা), অর্থাৎ পরপর সময়গুলোর পার্থক্য [math]\pi/10[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 413502)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দৃটি অগ্রগামী তরঙ্গকে যথাক্রমে [math]y_{1}=(3 \mathrm{~cm}) \sin \pi(0.6 t+x)[/math] এবং [math]y_{2}=(3 \mathrm{~cm}) \sin \pi(0.6 t-x)[/math] দ্বারা প্রকাশ করা হল, যেখানে সেমি-তে এবং t সেকেন্ডে প্রকাশিত। তরল দুটি একই রেখা বরাবর বিপরীত দিক হতে অগ্রসর হয়ে পরস্পরের উপর আপতিত হয়ে স্থির তরঙ্গ উৎপন্ন করল।
+
+Options:
+ঘ. উৎপন্ন স্থির তরঙ্গের সমীকরণ নির্ণয় করে তরঙ্গটির সর্বোচ্চ বিস্তার এবং কম্পাঙ্ক নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ‘গ’ হতে পাই, [math]y=6 \cos \frac{2 \pi x}{2} \sin \frac{2 \pi 0.6 t}{2}[/math]
+ ............(i)[math]\therefore \mathrm{y}=(6 \mathrm{~cm}) \cos (\pi \mathrm{x}) \sin (0.6 \pi) \mathrm{t}[/math]
+তরঙ্গের সাধারণ সমীকরণ [math]y=2 a \cos \frac{2 \pi x}{\lambda} \sin \frac{2 \pi v t}{\lambda}[/math]
+ কে (i) নংসমীকরণের সাথে তুলনা করে পাই,সর্বোচ্চ বিস্তার, [math]y_{\max }=6 \mathrm{~cm}[/math]
+তরঙ্গদৈর্ঘ্য, [math]\lambda=2 \mathrm{~cm}[/math]
+তরঙ্গবেগ, [math]\mathrm{v}=0.6 \mathrm{\ cms}^{-1}[/math]
+ [math]\therefore[/math]
+ কম্পাঙ্ক, [math]\mathrm{n}=\frac{\mathrm{v}}{\lambda}=\frac{0.6}{2}=0.3 \mathrm{~Hz}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ দুটি তরঙ্গ যোগ করে সূত্র [math]\sin A+\sin B=2\sin\frac{A+B}{2}\cos\frac{A-B}{2}[/math] প্রয়োগ করলে পাওয়া যায় [math]y=6\ \text{cm}\,\sin[\pi(0.6t)]\cos(\pi x)[/math]। অতএব স্থির তরঙ্গের স্থানীয় সর্বোচ্চ অ্যামপ্লিটিউড [math]A_{\max}=6\ \text{cm}[/math] (যেখানে [math]\cos\pi x=\pm1[/math]) এবং কোণীয় কম্পাঙ্ক [math]\omega=0.6\pi\ \text{rad/s}[/math], ফলে ফ্রিকোয়েন্সি [math]f=\omega/2\pi=0.3\ \text{Hz}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 413501)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দৃটি অগ্রগামী তরঙ্গকে যথাক্রমে [math]y_{1}=(3 \mathrm{~cm}) \sin \pi(0.6 t+x)[/math] এবং [math]y_{2}=(3 \mathrm{~cm}) \sin \pi(0.6 t-x)[/math] দ্বারা প্রকাশ করা হল, যেখানে সেমি-তে এবং t সেকেন্ডে প্রকাশিত। তরল দুটি একই রেখা বরাবর বিপরীত দিক হতে অগ্রসর হয়ে পরস্পরের উপর আপতিত হয়ে স্থির তরঙ্গ উৎপন্ন করল।
+
+Options:
+গ. উৎপন্ন স্থির তরঙ্গের পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে,[math]\begin{array}{l}\mathrm{y}_{1}=(3 \mathrm{~cm}) \sin \pi(0.6 \mathrm{t}+\mathrm{x}) \\\mathrm{y}_{2}=(3 \mathrm{~cm}) \sin \pi(0.6 \mathrm{t}-\mathrm{x})\end{array}[/math]
+তরঙ্গের উপরিপাতনের নীতি অনুসারে,[math]\mathrm{y}=\mathrm{y}_{1}+\mathrm{y}_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=(3 \mathrm{~cm}) \sin \pi(0.6 \mathrm{t}+\mathrm{x})+(3 \mathrm{~cm}) \sin \pi(0.6 \mathrm{t}-\mathrm{x})[/math]
+ [math]\Rightarrow[/math]
+ [math]y=3[\sin \pi(0.6 t+x)+\sin \pi(0.6 t-x)][/math]
+ [math]\Rightarrow[/math]
+ [math]y=3 \times 2\left[\sin \pi\left(\frac{0.6 t+x+0.6 t-x}{2}\right) \cos \pi\left(\frac{0.6 t+x-0.6 t+x}{2}\right)\right][/math]
+ [math]\Rightarrow[/math]
+ [math]y=6 \cos \frac{2 \pi x}{2} \sin \frac{2 \pi 0.6 t}{2}[/math]
+ ............(i)আমরা জানি, স্থির তরঙ্গের সাধারণ সমীকরণ,[math]y=2 a \cos \frac{2 \pi x}{\lambda} \sin \frac{2 \pi v t}{\lambda}[/math]
+ ....... (ii)সমীকরণ (i) ও (ii) তুলনা করে পাই, তরঙ্গদৈর্ঘ্য, [math]\lambda=2 \mathrm{~cm}[/math]
+ [math]\therefore[/math]
+ উৎপন্ন স্থির তরঙ্গের পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব = [math]\frac{\lambda}{2}=\frac{2 \mathrm{~cm}}{2}=1 \mathrm{~cm}[/math]
+সুতরাং, উৎপন্ন স্থির তরঙ্গের পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব 1 cm। (Ans.) [math]\\[/math]
+
+
+Explanation:
+গ তরঙ্গের প্রথম অংশের বাহ্যিক দলিল [math]\pi(0.6t+x)[/math] থেকে [math]k=\pi\ \text{rad/cm}[/math] থাকা বোঝা যায়, তাই [math]\lambda=2\pi/k=2\ \text{cm}[/math].  
+অতএব পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব = [math]\lambda/2=1\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 413500)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পরস্পর বিপরীত দিক হতে আগত দুটি অগ্রগামী তরঙ্গ উপরিপাতিত হয়ে যে স্থির তরঙ্গ তৈরি করে তাকে [math]y=(-1.5 \mathrm{~m})[/math] [math]\sin (0.4 x) \cos (200 t)[/math] সমীকরণ দ্বারা প্রকাশ করা যায়, যেখানে x মিটারে এবং t সেকেন্ডে প্রকাশিত।
+
+Options:
+ঘ. যে দুটি অগ্রগামী তরঙ্গ উপরিপাতিত হয়ে স্থির তরঙ্গ উৎপন্ন করেছে তাদের সমীকরণ নির্ণয় করে ঐ তরঙ্গদ্বয়ের মাধ্যমে উদ্দীপকে উল্লিখিত স্থির তরঙ্গটি উৎপন্ন হয়েছে কি– না তার যুক্তিসঙ্গত ব্যাখ্যা দাও।
+
+
+Correct Answer: [math]\begin{array}{l}y_{1}=0.75 \sin 0.4(500 t-x) \\y_{2}=-0.75 \sin 0.4(500 t-x)\end{array}[/math]
+
+Solution:
+ঘ [math]\begin{array}{l}y_{1}=0.75 \sin 0.4(500 t-x) \\y_{2}=-0.75 \sin 0.4(500 t-x)\end{array}[/math]
+
+Explanation:
+ব্যাখ্যা: প্রদত্ত [math]y=-1.5\sin(0.4x)\cos(200t)[/math]-কে পরিচিত পরিচয় [math]\sin a\cos b=\tfrac{1}{2}[\sin(a+b)+\sin(a-b)][/math] প্রয়োগ করলে পাওয়া যায় [math]y=-0.75[\sin(0.4x+200t)+\sin(0.4x-200t)].[/math] এখানে [math]k=0.4,\ \omega=200[/math] হলে তরঙ্গদ্বয়ের একক আয়তন হবে [math]0.75[/math] এবং বেগ [math]v=\omega/k=500\ \text{m/s},[/math] তাই ভগ্নাংশসমূহকে ভ্রাম্য তরঙ্গ হিসেবে লেখা যায় যেমন [math]y_1=0.75\sin[0.4(500t-x)][/math] ও [math]y_2=-0.75\sin[0.4(500t+x)][/math] এবং এগুলোর সুক্ষ্ম যোগেই মূল স্থির তরঙ্গটি পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 413499)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জাতীয় দিবসের প্যারেডের মহড়ায় বাদক দলের দুই সদস্য পরস্পর ঠিক মুখোমুখি ও কাছাকাছি দাঁড়িয়ে বিউগিল বাজাচ্ছেন। বিউগিল দুটি হতে একই কম্পাঙ্ক, [math]10^{-8} \mathrm{~m}[/math] বিস্তার এবং 3m তরঙ্গেদৈর্ঘ্যের শব্দ নির্গত হচ্ছে। শব্দের বেগ [math]350 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+ঘ. উপরিপাতনে সৃষ্ট নতুন তরঙ্গটির সাথে আদি তরঙ্গদ্বয়ের কী মৌলিক পার্থক্য বিদ্যমান বিশ্লেষণ কর ।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+ঘ মৌলিক পার্থক্য হলো উপরিপাতনে দুইটি চলমান তরঙ্গের সংমিশ্রণে যে তরঙ্গটি তৈরি হয় তা এক স্থায়ী দাঁড়ানো তরঙ্গ (standing wave) — মূল তরঙ্গ দুটো একে অপরের বিপরীত দিক দিয়ে চলে, কিন্তু সমন্বয়ে তরঙ্গটি চলতে থাকে না বরং স্থির নোড ও অ্যান্টিনোড তৈরি করে। মৌলিক পরিমাপগুলো যেমন কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্য অপরিবর্তিত থেকে যায়, (অর্থাৎ [math]f=v/λ=350/3\approx116.7\ \mathrm{Hz}[/math] ও [math]\lambda=3\ \mathrm{m}[/math]) নোড-নোড অনূত্তর হচ্ছে [math]\lambda/2=3/2=1.5\ \mathrm{m}[/math], এবং তার ক্লান্তি অনুযায়ী প্রকৃত আদি বিস্তার [math]A=10^{-8}\ \mathrm{m}[/math] হলে অ্যান্টিনোডে সর্বোচ্চ বিস্তার হয় [math]2A=2\times10^{-8}\ \mathrm{m}[/math]; এছাড়া দাঁড়ানো তরঙ্গের মাধ্যমে তাগাদা ট্রান্সপোর্ট হয় না।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 413498)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জাতীয় দিবসের প্যারেডের মহড়ায় বাদক দলের দুই সদস্য পরস্পর ঠিক মুখোমুখি ও কাছাকাছি দাঁড়িয়ে বিউগিল বাজাচ্ছেন। বিউগিল দুটি হতে একই কম্পাঙ্ক, [math]10^{-8} \mathrm{~m}[/math] বিস্তার এবং 3m তরঙ্গেদৈর্ঘ্যের শব্দ নির্গত হচ্ছে। শব্দের বেগ [math]350 \mathrm{~ms}^{-1}[/math]।
+
+Options:
+গ. উদ্দীপকে উল্লেখিত তরঙ্গ দুটির সম্মিলিত বিস্তার গাণিতিকভাবে প্রকাশ কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: দুইটি সমমানের বিপরীত দিশায় চলমান তরঙ্গ একসাথে মিললে স্থায়ী তরঙ্গ গড়ে ওঠে যার স্থানিক অম্পলিটিউড হবে [math]2A\cos(kx)[/math].  
+গ সম্মিলিত বিস্তার: [math]A_{\rm res}=2A\cos(kx)=2\times10^{-8}\cos\!\left(\frac{2\pi}{3}x\right)\ \mathrm{m},\quad k=\frac{2\pi}{\lambda}=\frac{2\pi}{3}\ \mathrm{m^{-1}}.
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 413497)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ কর।
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকে উল্লেখিত তরঙ্গে সুস্পন্দ বিন্দু ও নিস্পন্দ বিন্দু সৃষ্টির শর্ত আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরা যাক, যেকোনো একটি স্থিতিস্থাপক মাধ্যমে কণাগুলো বিভিন্ন - স্তরে সাম্যাবস্থায় রয়েছে। [চিত্র-১(ক)] যাদের সমান দূরত্বের সমান্তরাল কতগুলো রেখা দিয়ে দেখানো হয়েছে। লম্বিক তরঙ্গের ক্ষেত্রে, মাধ্যমের কণাগুলো সাম্যাবস্থানের উভয় পাশে তরঙ্গের গতিপথের সাথে সমান্তরালে কম্পিত হয়, ফলে তরঙ্গ শীর্ষ বা তরঙ্গপাদ সৃষ্টি হয় না । এক্ষেত্রে কম্পনের সময় কিছু কণা কাছাকাছি চলে আসে আবার কোথাও দূরে সরে যায়। কণাগুলো কাছাকাছি আসার মাধ্যমের সংকোচন হয় এবং দূরে সরে গেলে মাধ্যমের প্রসারণ ঘটে, [চিত্র-১(খ)]।
+[Image]
+এভাবে, সংকোচন ও প্রসারণের মাধ্যমে লম্বিক তরঙ্গ সঞ্চালিত হয়। উল্লেখ্য, শুধু স্থিতিস্থাপক ধর্মসম্পন্ন (যেমন: বায়ু) মাধ্যমে লম্বিক তরঙ্গ উৎপন্ন হয়। এক প্রান্ত দৃঢ় অবলম্বনের সাথে বাঁধা একটি স্প্রিং-এর অপর প্রান্তে একটি সুরশলাকার এক বাহুর সাথে বেঁধে দিয়ে সুরশলাকার বাহুকে স্পন্দিত করলে দুই ধরনের ঘটনা ঘটতে পারে। ঘটনা-১: যদি সুরশলাকার কম্পনের দিক স্প্রিং এর দৈর্ঘ্যের সমান্তরালে হয় তখন স্প্রিং এ লম্বিক তরঙ্গ সৃষ্টি হয়, [চিত্র-২(ক)]
+[Image]
+ঘটনা-২: যদি সুরশলাকার কম্পনের দিক স্প্রিং এর দৈর্ঘ্যের সাথে লম্ব হয় তখন স্প্রিং এ আড় তরঙ্গের সৃষ্টি হয়, [চিত্ৰ-২(খ)] উভয় ক্ষেত্রেই সৃষ্ট তরঙ্গ দৃঢ় তলে প্রতিফলিত হয়ে ফিরে আসে এবং স্থির তরঙ্গের সৃষ্টি করে।
+
+Explanation:
+ঘ দুইটি সমমান ও বিপরীত দিকের তরঙ্গের সুপারপজিশনে দাঁড়ানো তরঙ্গ তৈরি হয় যার ফলিত পার্শ্বদৈর্ঘ্য: [math]y=2A\sin(kx)\cos(\omega t)[/math]. নোড সেখানে যেখানে সবসময় আয়ত্ব শূন্য থাকে, তাই [math]\sin(kx)=0\Rightarrow kx=n\pi\Rightarrow x=n\frac{\lambda}{2}[/math]. সুস্পন্দ বিন্দু সেখানে যেখানে আয়ত্ব সর্বোচ্চ হয়, তাই [math]\sin(kx)=\pm1\Rightarrow kx=(2n+1)\frac{\pi}{2}\Rightarrow x=\frac{\lambda}{4}+n\frac{\lambda}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 413495)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2014-2015 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+দুটি [math]\pi/2\ rad[/math] দৃশ্য পার্থক্যের সদৃশ অগ্রগামী তরঙ্গ একই দিকে ধাবিত হচ্ছে। যদি তরঙ্গ দুটির প্রত্যেকটির বিস্মর [math]y_m[/math] লব্ধি তরঙ্গটির বিস্তার কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]A_{R}=\sqrt{A_{1}^{2}+A_{2}^{2}+2 A_{1} A_{2} \cos (\alpha)} \\ =\sqrt{y_{m}^{2}+y_{m}^{2}+2 y_{m}^{2} \cos \left(\dfrac{\pi}{2}\right)} \\=\sqrt{2 y_{m}^{2}+0}=\sqrt{2} y_{m} \text { (Ans.) }[/math]
+
+Explanation:
+ব্যাখ্যা: দুটি সমান ам্প্লিটিউডের তরঙ্গের ফলিক ам্প্লিটিউড ভেক্টর যোগ দ্বারা পাওয়া যায়, তাই ব্যবহার করা যায় [math]A=\sqrt{A_1^2+A_2^2+2A_1A_2\cos\Delta\phi}[/math]. এখানে [math]A_1=A_2=y_m[/math] এবং [math]\Delta\phi=\pi/2[/math], তাই [math]A=\sqrt{y_m^2+y_m^2+2y_m^2\cos(\pi/2)}=\sqrt{2y_m^2}=y_m\sqrt{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 413496)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি অগ্রগামী তরঙ্গের সমীকরণ যথাক্রমে [math]y_{1}=0.4 \mathrm{sin}[/math] [math]\left(500 \pi t+\frac{50 \pi}{35} x\right)[/math] এবং [math]y_{2}=0.4 \sin \left(500 \pi t-\frac{50 \pi}{35} x\right)[/math]
+
+Options:
+ঘ. তরান্বয়ের উপরিপাতনের ফলে কী ঘটবে পাণিতিক যুক্তিসহ মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, অগ্রগামী তরঙ্গ দুইটির সমীকরণ,[math]\begin{array}{l}\mathrm{y}_{1}=0.4 \sin \left(500 \pi \mathrm{t}+\frac{50 \pi}{35} \mathrm{x}\right) \\\mathrm{y}_{2}=0.4 \sin \left(500 \pi \mathrm{t}-\frac{50 \pi}{35} \mathrm{x}\right)\end{array}[/math]
+উপরিপাতন নীতি মতে, [math]y=y_{1}+y_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]y=0.4\left\{\sin \left(500 \pi t+\frac{50 \pi}{35} x\right)+\sin \left(500 \pi t-\frac{50 \pi}{35} x\right)\right\}[/math]
+ [math]\begin{array}{l}=(2 \times 0.4) \sin \left(\frac{500 \pi t+\frac{50 \pi}{35} x+500 \pi t-\frac{50 \pi}{35} x}{2}\right) \\\cos \left(\frac{500 \pi t+\frac{50 \pi}{35} x+500 \pi t-\frac{50 \pi}{35} x}{2}\right) \\=0.8 \sin 500 \pi t \cos \frac{50 \pi}{35} x=A \sin 500 \pi t\end{array}[/math]
+এখানে , [math]A=0.8 \cos \frac{50 \pi}{35} x[/math]
+এখানে দেখা যায়, উপরিপাতনের ফলে সৃষ্ট তরঙ্গটি স্থির তরঙ্গ।[কেননা দশা কোণের ভিতর (vt – x) নাই]অতএব, উভয় তরঙ্গের যদি উপরিপাতন ঘটে তাহলে লব্ধি তরঙ্গটি স্থির তরঙ্গ হবে।
+
+Explanation:
+ঘ সমস্যমিলে পাওয়া যায় যে
+[math]y=y_{1}+y_{2}=0.4[\sin(500\pi t+\tfrac{10\pi}{7}x)+\sin(500\pi t-\tfrac{10\pi}{7}x)]
+=0.8\sin(500\pi t)\cos\!\left(\tfrac{10\pi}{7}x\right).[/math]
+অতএব দুটি সমন্বিত অগ্রগামী তরঙ্গের উপরিপাতনে একটি স্থিততরঙ্গ (standing wave) সৃষ্টি হয় যার স্থানীয় প্রস্থতা [math]0.8|\cos(\tfrac{10\pi}{7}x)|[/math]; নোড যেখানে [math]\cos(\tfrac{10\pi}{7}x)=0[/math], অর্থাৎ [math]x=\dfrac{7(2n+1)}{20}\ \text{m}[/math] এবং অ্যানটিনোড যেখানে [math]x=\dfrac{7n}{10}\ \text{m}[/math] (n পূর্ণ সংখ্যা)।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 413494)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি সুতায় দুটি তরঙ্গের মিলনের ফলে যে স্থি র তরঙ্গের সৃষ্টি হয় তার সমীকরণ হচ্ছে [math]y=5 \sin \dfrac{\pi x}{3} \cos 40 \pi t[/math], যেখানে [math]x[/math] ও [math]y[/math] হল সে.মি. [math]-[/math]এ এবং [math]t[/math] হল সেকেন্ডে। [math](a)[/math] তরঙ্গ দুইটির প্রত্যেকটির বিস্তার ও বেগ কত? [math](b)[/math] দুটি পর পর নিষ্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]3 \mathrm{~cm}[/math]
+)[math]\\[/math]
+Solution : স্থির তরঙ্গের সাধারণ সমীকরণ, [math]y=2 a \sin \left(\dfrac{2 \pi vt}{\lambda}\right) \cos \left(\dfrac{2 \pi x}{\lambda}\right)[/math]
+যেখানে, মূল তরঙ্গদ্বয়, [math]y_{1}=\operatorname{asin} \dfrac{2 \pi}{\lambda}(v t-x) ; y_{2}=a \sin \dfrac{2 \pi}{\lambda}(v t+x) ; y=5 \sin \left(\dfrac{\pi x}{3}\right) \cos (40 \pi t)[/math]
+এখানে, [math]\text { sine }[/math]
+ এবং [math]\text { cosine }[/math]
+ উভয়েই [math]\text { sinusoidal function }[/math]
+ তাই প্রদত্ব স্থির তরঙ্গের সমীকরনের [math]x[/math]
+ ও [math]t[/math]
+ এর সহগ সাধারন সমীকরণের সাথে তুলনা করা যায়।[math]\therefore \dfrac{2 \pi}{\lambda} v=40 \pi, \dfrac{2 \pi}{\lambda}=\dfrac{\pi}{3}, 2 a=5[/math]
+ [math](a)[/math]
+ তরঙ্গ দুটির প্রত্যেকের বিস্তার [math]=\dfrac{5}{3} \mathrm{~cm},[/math]
+ বেগ [math]=120 \mathrm{cms}^{-1}[/math]
+ [math](b)[/math]
+ [math]\lambda=6 \mathrm{~cm}\ \therefore[/math]
+ পরস্পর দুটি নিস্পন্দ বিন্দুর দূরত্ব [math]=\dfrac{\lambda}{2}=3 \mathrm{~cm} \text { (Ans) }[/math]
+
+
+Explanation:
+ক তুলনা করলে [math]y=2A\sin kx\cos\omega t[/math] থেকে [math]2A=5\Rightarrow A=2.5\ \text{cm},\ k=\pi/3\Rightarrow \lambda=2\pi/k=6\ \text{cm},\ \omega=40\pi\Rightarrow f=\omega/2\pi=20\ \text{Hz},\ v=\omega/k=120\ \text{cm/s}=1.2\ \text{m/s}। দুই তরঙ্গ বিপরীত দিকে ভ্রমণ করে।  
+খ নিস্পন্দ বিন্দুতে [math]\sin kx=0[/math], তাই পর পর নিষ্পন্দ বিন্দুর দূরত্ব [math]\Delta x=\pi/k=\;3\ \text{cm}\;(=\lambda/2)।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 413493)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]\rm{y_{1}=0.1 \sin \left(200 \pi t-\dfrac{20 \pi}{17} x\right) ; y_{2}=0.1 \sin \left(200 \pi t+\dfrac{20 \pi}{17} x\right)}[/math]
+
+[Image]
+
+
+উদ্দীপকে [math]x[/math] ও [math]y[/math] মিটারে এবং সময়। সেকেন্ডে ধরে নিম্নলিখিত প্রশ্নের উত্তর দাও :
+
+Options:
+ঘ. উদ্দীপকে তরঙ্গদ্বয়ের মধ্যে উপরিপাতনের ফলে কোন ধরনের তরঙ্গ সৃষ্টি হবে গাণিতিক বিশ্লেষণের মাধ্যমে তোমার মতামতের ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপকের ১ম তরঙ্গটি হলো,[math]\hspace{1.5 cm}\rm{y_{1}=0.1 \sin \left(200 \pi t-\dfrac{20 \pi}{17} x\right)}[/math]
+যা [math]\rm{x}[/math]
+ অক্ষের অভিমুখে একটি অগ্রগামী তরঙ্গ,আবার, ২য় তরঙ্গটি হলো, [math]\rm{y_{2}=0.1 \sin \left(200 \pi t+\dfrac{20 \pi}{17} x\right)}[/math]
+এটি ধনাত্মক [math]\rm{x}[/math]
+-অক্ষ অভিমুখে অগ্রগামী তরঙ্গের সমীকরণ। এখন, তরঙ্গ দুটি উপরিপাতিত হলে তাদের লব্ধি সরণ হবে,[math]\hspace{1.5 cm}\begin{aligned} \rm{y} & =\rm{y_{1}+y_{2} }\\ & =\rm{0.1 \sin \left(200 \pi t-\frac{20 \pi}{17} x\right)+0.1 \sin \left(200 \pi t+\frac{20 \pi}{17} x\right) }\\ & =\rm{0.1 \sin \frac{2 \pi}{\lambda}\left(100 \lambda t-\frac{10 \lambda}{17} x\right)+0.1 \sin \frac{2 \pi}{\lambda}\left(100 \lambda t+\frac{10 \lambda}{17} x\right) }\\ & =\rm{2 \times 0.1 \sin \frac{2 \pi}{\lambda} \cdot 100 \lambda t \cdot \cos \frac{2 \pi}{\lambda} \cdot \frac{10 \lambda}{17} x }\\ & =\rm{0.2 \sin \frac{2 \pi}{\lambda} \cdot 100 \lambda t}\end{aligned}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \rm{y=A \sin \omega t}\quad [[/math]
+ এখানে, [math]\mathrm{A}=0.2, \omega=\dfrac{2 \pi}{\lambda} \cdot 100 \lambda][/math]
+এখানে, সমাপতিত তরঙ্গ দুটি একটি সরলছন্দিত গতি সম্পন্ন তরঙ্গ উৎপন্ন করে। এ সরলছন্দিত গতিটি অগ্রগামী তরঙ্গ নয়। কারণ এতে অগ্রগামী তরঙ্গের ন্যায় দশার কোনো পার্থক্য নেই। অর্থাৎ, অগ্রগামী তরঙ্গের ন্যায় দশা কোণের ভিতর [math]\rm{(vt – x)}[/math]
+ জাতীয় কোনো রাশি অন্তর্ভুক্ত নেই। সুতরাং এ সমীকরণটি দুটি তরঙ্গের উপরিপাতনের ফলে সৃষ্ট স্থির তরঙ্গ প্রকাশ করে।
+
+Explanation:
+ব্যাখ্যা: ঘ দুটি সমদৈর্ঘ্য ও সমকম্পাংক, বিপরীত দিকের চলমান তরঙ্গের সুপারপজিশনের ফলে দাঁড় তরঙ্গ সৃষ্টি হবে।  
+[math]y=y_1+y_2=0.1[\sin(200\pi t-\tfrac{20\pi}{17}x)+\sin(200\pi t+\tfrac{20\pi}{17}x)]=0.2\sin(200\pi t)\cos\!\left(\tfrac{20\pi}{17}x\right)[/math], যা স্পষ্টভাবে দাঁড় তরঙ্গকে নির্দেশ করে।  
+এখানে নোডগুলোতে [math]\cos\!\left(\tfrac{20\pi}{17}x\right)=0[/math] বা [math]x=\dfrac{17(2n+1)}{40}\ \text{m}[/math] এবং অ্যান্টিনোডগুলোতে [math]x=\dfrac{17n}{20}\ \text{m}[/math] হয়, তাই ঘ সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 413492)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]y=0.5 \sin 2 \pi(50 t-0.75 x)[/math] একটি অগ্রগামী তরঙ্গের সমীকরণ।
+
+Options:
+ঘ. যদি এরূপ আর একটি তরঙ্গ বিপরীত দিক হতে পরস্পরের উপর আপতিত হয় তবে সৃষ্ট তরঙ্গটি কিরূপ হবে? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,[math]\hspace{1.5 cm}\begin{aligned} \rm{y} & =\rm{0.5 \sin 2 \pi(50 t-0.75 x)}\\ & =0.5 \sin \frac{2 \pi}{1.33}(66.67 \mathrm{t}-\mathrm{x}) \ldots\ldots\ldots\rm{(i)}\end{aligned}[/math]
+বিপরীত দিক থেকে আগত আর একটি তরঙ্গ,[math]\hspace{1.5 cm}\rm{y^{\prime}=0.5 \sin \dfrac{2 \pi}{1.33}(66.67 t+x)}\ldots\ldots\ldots\rm{(ii)}[/math]
+সমীকরণ [math]\rm{(i) ~ও~ (ii)}[/math]
+ নং এর তরঙ্গদ্বয় উপরিপাতনের ফলে সৃষ্ট তরঙ্গ [math]\rm{Y}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned}\rm{Y} & =\rm{y+y^{\prime} }\\ & =0.5 \sin \frac{2 \pi}{1.33}(66.67 \mathrm{t}-\mathrm{x})+0.5 \sin \frac{2 \pi}{1.33}(66.67 \mathrm{t}+\mathrm{x}) \\ & =0.5\left[\sin \frac{2 \pi}{1.33}(66.67 \mathrm{t}-\mathrm{x})+\sin \frac{2 \pi}{1.33}(66.67 \mathrm{t}+\mathrm{x})\right] \\ & =\sin \left(\frac{2 \pi}{1.33} \times 66.67 \mathrm{t}\right) \cos \left(\frac{2 \pi \rm{x}}{1.33}\right) \\ & =\mathrm{A} \sin (314.9 \mathrm{t}) \ldots \ldots \ldots \ldots \ldots \ldots \text { (iii) } \end{aligned}[/math]
+যেখানে, [math]\rm{A=\cos \left(\dfrac{2 \pi t}{1.33}\right)=\cos (4.724 x)}[/math]
+উপরিউক্ত [math]\rm{(iii)}[/math]
+ নং সমীকরণটিই হলো একটি স্থির তরঙ্গের সমীকরণ।
+
+Explanation:
+ঘ ব্যাখ্যা: বিপরীত দিক থেকে সমান তরঙ্গ হলে [math]y_2=0.5\sin[2\pi(50t+0.75x)][/math] হবে, তাই যোগফল হচ্ছে  
+[math]y=y_1+y_2=0.5[\sin(2\pi(50t-0.75x))+\sin(2\pi(50t+0.75x))]=\sin(2\pi\;50t)\cos(2\pi\;0.75x).[/math]  
+এটি একটি স্ট্যান্ডিং তরঙ্গ, যার অ্যাম্প্লিটিউড স্থানানুসারে [math]\cos(2\pi\;0.75x)[/math] দ্বারা পরিবর্তিত; নোড সেখানে যেখানে [math]\cos(2\pi\;0.75x)=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 413491)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকের তরঙ্গটি বাধা পেয়ে প্রতিফলিত হয়ে একই পথে বিপরীত দিকে ফিরে এসে একটি নতুন তরঙ্গ সৃষ্টি হলো। [সব কয়টি রাশি [math]SI[/math] এককে প্রকাশিত]
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকে সৃষ্ট নতুন তরঙ্গটিতে সর্বোচ্চ বিস্তারের অবস্থানগুলো নির্ণয় করা সম্ভব কি-না- গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপকের তরঙ্গের সমীকরণ, [math]\rm{Y_{1}=100 \sin \pi(100 t-5 x)}[/math]
+নতুন তরঙ্গের সমীকরণ হবে, [math]\rm{Y_{2}=-100 \sin \pi(100 t+5 x)}[/math]
+লব্ধি সরণ,[math]\hspace{1.5 cm}\begin{aligned}\rm{Y} &= \rm{Y_{1}+Y_{2}} \\ &=\rm{100 \sin \pi(100 t-5 x)-100 \sin \pi(100 t+5 x) }\\ & =\rm{100[\sin \pi(100 t-5 x)-\sin \pi(100 t+5 x)]} \\ & =\rm{100[2 \cos \pi(100 t) \sin \pi(5 x)]} \\ & =\rm{200 \cos (100 \pi t) \sin (5 \pi x)}\end{aligned}[/math]
+ [math]\mathrm{Y}=\mathrm{A} \cos (100 \pi \mathrm{t});[/math]
+ যেখনে, [math]\rm{A=200 \sin (5 \pi x)}[/math]
+সর্বোচ্চ বিস্তারের অবস্থানের ক্ষেত্রে, [math]\rm{A}= \pm 200[/math]
+ [math]\hspace{1.5 cm}\begin{array}{l} \Rightarrow 200 \sin (5 \pi x)= \pm 200 \\ \Rightarrow \sin (5 \pi x)= \pm 1 \\ \Rightarrow \sin (5 \pi x)=1 \\ \Rightarrow \sin (5 \pi x)=(2 n+1) \dfrac{\pi}{2}=(2 n+1) \dfrac{1}{10} \end{array}[/math]
+যেখানে, [math]\mathrm{n}=0,1,2,3, \ldots \ldots \ldots[/math]
+ [math]\therefore \rm{~x}=\dfrac{1}{10}, \dfrac{3}{10}, \dfrac{5}{10}, \ldots\ldots\ldots[/math]
+অর্থাৎ, [math]\dfrac{1}{10}, \dfrac{3}{10}, \dfrac{5}{10} \ldots\ldots\ldots[/math]
+ হবে তরঙ্গটির সর্বোচ্চ বিস্তারের অবস্থান।
+
+Explanation:
+ঘ হ্যাঁ — প্রতিফলনে ফেজ পাল্টে নাকি না তা জানা থাকলে গাণিতিকভাবে নির্ণয় করা যায়। যদি ফেজ বদল না ঘটে, তখন স্ট্যান্ডিং তরঙ্গের অভিব্যক্তি [math]y=2A\cos(kx)\sin(\omega t)[/math] হয় এবং সর্বোচ্চ বিস্তার সেখানে যেখানে [math]\cos(kx)=\pm1[/math], অর্থাৎ [math]kx=n\pi\Rightarrow x=n\lambda/2[/math]. প্রতিফলনে ফেজ π বদলে গেলে [math]y=2A\sin(kx)\sin(\omega t)[/math] এবং সর্বোচ্চ বিস্তার হবে [math]kx=(2n+1)\pi/2\Rightarrow x=(2n+1)\lambda/4[/math].
+
+Sub-Questions:
+

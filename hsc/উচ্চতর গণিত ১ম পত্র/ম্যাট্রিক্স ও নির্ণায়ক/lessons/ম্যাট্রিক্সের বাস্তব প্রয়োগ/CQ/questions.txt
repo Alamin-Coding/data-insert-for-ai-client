@@ -1,0 +1,585 @@
+================================================================================
+Question #1 (ID: 412264)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2021[/math] সালে একটি কারখানায় বিভিন্ন শাখায় কর্মরত শ্রমিকদের তালিকা নিম্নরূপ :
+
+
+[Image]
+
+
+ছকের সংখ্যাগুলি একটি ম্যাট্রিক্স A নির্দেশ করে।
+
+Options:
+ক. [math]A_{23}[/math] নির্ণয় কর।
+খ. [math]\mathrm {A^{2}-5 A+I_{3}}[/math] নির্ণয় কর।
+গ. নতুন বেতন স্কেল ঘোষণার পর উৎপাদন, বিপণন, বিতরণ, শাখার ভুক্ত শ্রমিকদের মাসিক মোট বেতন যথাক্রমে [math]89, 42, 32[/math] হাজার টাকা হলে গ্রেড- [math]\mathrm {I, II, III}[/math] ভুক্ত একজন শ্রমিকের মাসিক বেতন নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]A=\left[\begin{array}{lll}1 & 2 & 5 \\2 & 1 & 0 \\0 & 1 & 2\end{array}\right][/math]
+ [math]\therefore A_{23}=(-1)^{2+3}[/math]
+ [math]\left|\begin{array}{rr}1 & 2 \\0 & 1\end{array}\right|[/math]
+ [math]=-(1-0)=-1 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খএখানে, [math]A^{2}=A \times A=[/math]
+ [math]\left[\begin{array}{lll}=1 & 2 & 5 \\2 & 1 & 0 \\0 & 1 & 2\end{array}\right][/math]
+ [math]\left[\begin{array}{lll}1 & 2 & 5 \\2 & 1 & 0 \\0 & 1 & 2\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}1+4+0 & 2+2+5 \\2+2+0 & 4+1+0 \\0+2+0 & 0+1+2\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}5+0+10 \\10+0+0 \\0+0+4\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}5 & 9 & 15 \\4 & 5 & 10 \\2 & 3 & 4\end{array}\right][/math]
+প্রদত্ত রাশি, [math]=A^{2}-5 A+I_3[/math]
+ [math]=\left[\begin{array}{ccc}5 & 9 & 15 \\4 & 5 & 10 \\2 & 3 & 4\end{array}\right][/math]
+ [math]-\left[\begin{array}{ccc}5 & 10 & 25 \\10 & 5 & 0 \\0 & 5 & 10\end{array}\right][/math]
+ [math]+\left[\begin{array}{ccc}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}5-5+1 & 9-10+0 \\4-10+0 & 5-5+1 \\2-0+0 & 3-5+0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}15-25+0 \\10-0+0 \\4-10+1\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}1 & -1 & -10 \\-6 & 1 & 10 \\2 & -2 & -5\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গমনে করি, নতুন বেতন স্কেল ঘোষণার পর গ্রেড-I, গ্রেড-II ও গ্রেড-III কর্মচারীদের প্রতি জনের মাসিক বেতন যথাক্রমে x, y ও z টাকা। গ্রেডগুলোকে কলাম বরাবর সাজিয়ে একটি ম্যাট্রিক্স F গঠন করি।[math]F=\left[\begin{array}{lll}1 & 2 & 5 \\2 & 1 & 0 \\0 & 1 & 2\end{array}\right][/math]
+সুতরাং আমরা পাই,[math]\left[\begin{array}{lll}1 & 2 & 5 \\2 & 1 & 0 \\0 & 1 & 2\end{array}\right]\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}89 \\42 \\32\end{array}\right] =\left[\begin{array}{c}x+2 y+5 z \\2 x+y \\y+2 z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}89 \\42 \\32\end{array}\right][/math]
+ম্যাট্রিক্স সমতার নিয়ম অনুযায়ী,[math]x+2 y+5 z=89 ;[/math]
+ [math]2 x+y=42 ;[/math]
+ [math]y+2 z=32[/math]
+এখন, ক্রেমারের পদ্ধতি প্রয়োগ করে সমাধান করে,[math]D=\left|\begin{array}{lll}1 & 2 & 5 \\2 & 1 & 0 \\0 & 1 & 2\end{array}\right|[/math]
+ [math]=1(2-0)+2(0-4)+5(2-0)[/math]
+ [math]=2-8+10=4 
+eq 0[/math]
+ [math]D_{x}=\left|\begin{array}{lll}89 & 2 & 5 \\42 & 1 & 0 \\32 & 1 & 2\end{array}\right|[/math]
+ [math]=89(2-0)+2(0-84)[/math]
+ [math]+5(42-32)[/math]
+ [math]=178-168+50=60[/math]
+ [math]D_{y}=\left|\begin{array}{lll}1 & 89 & 5 \\2 & 42 & 0 \\0 & 32 & 2\end{array}\right|[/math]
+ [math]=1(84-0)+89(0-4)[/math]
+ [math]+5(64-0)[/math]
+ [math]=84-356+320[/math]
+ [math]=404-356=48[/math]
+ [math]D_{z}=\left|\begin{array}{lll}1 & 2 & 89 \\2 & 1 & 42 \\0 & 1 & 32\end{array}\right|[/math]
+ [math]=1(32-42)+2(0-64)[/math]
+ [math]+89(2-0)[/math]
+ [math]=-10-128+178[/math]
+ [math]=178-138=40[/math]
+ [math]\therefore x=\frac{D_{x}}{D}=\frac{60}{4}=15 ;[/math]
+ [math]y=\frac{D_{y}}{D}=\frac{48}{4}=12[/math]
+এবং [math]z=\frac{D_{z}}{D}=\frac{40}{4}=10[/math]
+ [math]\therefore[/math]
+ গ্রেড-I এর একজন শ্রমিকের মাসিক বেতন 15 হাজার টাকাগ্রেড-II এর একজন শ্রমিকের মাসিক বেতন 12 হাজার টাকা এবংগ্রেড-III এর একজন শ্রমিকের মাসিক বেতন 10 হাজার টাকা[math](\text { Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]A_{23}[/math] হলো ম্যাট্রিক্স [math]A[/math]-এর দ্বিতীয় সারির তৃতীয় কলামের উপাদান; তাই টেবিল থেকে সরাসরি দ্বিতীয় সারির তৃতীয় স্থানের সংখ্যা পড়লেই পাওয়া যাবে। 
+
+খ [math]A^{2}-5A+I_{3}[/math] হিসাব করতে প্রথমে [math]A^{2}=A\cdot A[/math] নির্ণয় করতে হবে, তারপর সেটি থেকে [math]5A[/math] বিয়োগ করে পরিচয় ম্যাট্রিক্স [math]I_{3}[/math] যোগ করলে ফল পাওয়া যায় (সবগুলো অপারেশন ম্যাট্রিক্স গুণ, স্কেলার গুণ ও যোগ/বিয়োগ)। 
+
+গ যদি গ্রেড- I, II, III-এর বেতন যথাক্রমে [math]x,y,z[/math] হয়, তাহলে টেবিল অনুযায়ী [math]A\begin{pmatrix}x\\y\\z\end{pmatrix}=\begin{pmatrix}89\\42\\32\end{pmatrix}[/math] হবে; এই সমীকরণকে গৌস-পদ্ধতি বা ম্যাট্রিক্স উল্টোদিকে ব্যবহার করে সমাধান করার মাধ্যমে [math](x,y,z)^{T}=A^{-1}\begin{pmatrix}89\\42\\32\end{pmatrix}[/math] পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 412263)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন ফল ব্যবসায়ী ফল ক্রয় করে [math]1[/math]নং, 2নং এবং 3নং ঝুড়িতে যথাক্রমে [math]50[/math]টি, আম, [math]45[/math]টি কমলা, [math]140[/math]টি লিচু; [math]25[/math]টি আম, [math]24[/math]টি কমলা, [math]120[/math]টি লিচু এবং [math]30[/math]টি আম, 40টি কমলা, [math]150[/math]টি লিচু রাখলেন।
+
+তিন দিন পরে প্রথম, দ্বিতীয় এবং তৃতীয় ঝুড়ির যথাক্রমে [math]5[/math]টি আম, [math]5[/math]টি কমলা, [math]15[/math]টি লিচু; [math]4[/math]টি আম, [math]6[/math]টি কমলা, [math]25[/math]টি লিচু এবং [math]6[/math]টি আম, [math]4[/math]টি কমলা, [math]20[/math]টি লিচু পঁচে গেল ।
+
+Options:
+ক. ক্রয় করা ফলগুলি দ্বারা ম্যাট্রিক্স [math]A[/math] গঠন করো ।
+খ. পঁচে যাওয়া ফলগুলি দ্বারা ম্যাট্রিক্স [math]B[/math] গঠন করো।
+গ. [math]A – B[/math] নির্ণয় করো। [math]A - B[/math] দ্বারা কী বোঝায়?
+
+
+Correct Answer: 
+
+Solution:
+ক
+[Image]
+[math]\\[/math]
+ খ
+[Image]
+[math]\\[/math]
+ গ
+[Image]
+[math]=\left[\begin{array}{lll}50-5 & 45-5 & 140-15 \\25-4 & 24-6 & 120-25 \\30-6 & 40-4 & 150-20\end{array}\right][/math]
+ [math]\\[/math]
+
+[Image]
+A – B ম্যাট্রিক্স দ্বারা তিনটি ঝুড়িতে কি পরিমাণ ফল আম, কমলা ও লিচু ভাল আছে তা নির্দেশ করে
+
+Explanation:
+ব্যাখ্যা:
+ক ক্রয়কৃত ফলগুলোকে ঝুড়ি অনুযায়ী (আম, কমলা, লিচু) সারি হিসেবে রেখে ম্যাট্রিক্স [math]A=\begin{pmatrix}50&45&140\\25&24&120\\30&40&150\end{pmatrix}[/math] গঠন করা হয়।
+খ পঁচে যাওয়া ফলগুলোকে একই ক্রমে রেখে [math]B=\begin{pmatrix}5&5&15\\4&6&25\\6&4&20\end{pmatrix}[/math]।
+গ [math]A-B=\begin{pmatrix}45&40&125\\21&18&95\\24&36&130\end{pmatrix}[/math] এবং এর প্রতিটি উপাদান দেখায় প্রতিটি ঝুড়িতে পঁচে যাওয়ার পর বাকি থাকা প্রতিটি ধরনের ফলের সংখ্যা।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 412262)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন ফল বিক্রেতা সকালে আপেল, পেয়ারা ও আম যথাক্রমে [math]4,2 ; 5[/math] কেজি বিক্রয় করে মোট [math]70[/math] টাকা লাভ করে। বিকালে আপেল, পেয়ারা ও আম যথাক্রমে [math]7, 4, 7[/math] কেজি বিক্রয় করে
+
+মোট [math]133[/math] টাকা লাভ করে এবং রাত্রে আপেল, পেয়ারা ও আম যথাক্রমে মোট [math]11, 8, 8[/math] কেজি বিক্রয় করে মোট [math]193[/math] টাকা লাভ করে।
+
+Options:
+ক. [math]A=\left[\begin{array}{ll}1 & 3 \\0 & 2\end{array}\right][/math] ও [math]B=\left[\begin{array}{cc}4 & -1 \\5 & 6\end{array}\right][/math] হলে [math]A^{t}-B^{t}[/math] নির্ণয় কর।
+খ. সকালে, বিকালে ও রাতে ফল বিক্রয়ের পরিমাণকে যথাক্রমে কলাম আকারে নিয়ে গঠিত ম্যাট্রিক্সটির অ্যাডজয়েন্ট ম্যাট্রিক্স নির্ণয় কর ।
+গ. ক্রেমারের নিয়মে প্রতি কেজি আপেল, পেয়ারা ও আম বিক্রয়ে কি পরিমাণ লাভ বা ক্ষতি হয় নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]A=\left[\begin{array}{ll}1 & 3 \\0 & 2\end{array}\right][/math]
+ ও [math]B=\left[\begin{array}{cc}4 & -1 \\5 & 6\end{array}\right][/math]
+ [math]\mathrm{A}^{\mathrm{t}}=\left[\begin{array}{ll}1 & 3 \\0 & 2\end{array}\right]^{\mathrm{t}}[/math]
+ [math]=\left[\begin{array}{ll}1 & 0 \\3 & 2\end{array}\right][/math]
+ [math]\mathrm{B}^{\mathrm{t}}=\left[\begin{array}{ll}4 & -1 \\5 & 6\end{array}\right]^{\mathrm{t}}[/math]
+ [math]=\left[\begin{array}{ll}4 & 5 \\-1 & 6\end{array}\right][/math]
+ [math]\therefore \mathrm{A}^{\mathrm{t}}-\mathrm{B}^{\mathrm{t}}[/math]
+ [math]=\left[\begin{array}{ll}1 & 0 \\3 & 2\end{array}\right][/math]
+ [math]-\left[\begin{array}{cc}4 & 5 \\-1 & 6\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}-3 & -5 \\4 & -4\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, সকালে, বিকালে ও রাতের ফল বিক্রয়ের পরিমাণকে যথাক্রমে কলাম আকারে নিয়ে গঠিত ম্যাট্রিক্সটি[math]E=\left[\begin{array}{lll}4 & 7 & 11 \\2 & 4 & 8 \\5 & 7 & 8\end{array}\right][/math]
+ [math]\therefore \operatorname{adj} E=[/math]
+ [math]\begin{bmatrix}\left|\begin{array}{ll}4 & 8 \\7 & 8\end{array}\right|-\left|\begin{array}{ll}2 & 8 \\5 & 8\end{array}\right| \quad\left|\begin{array}{ll}2 & 4 \\5 & 7\end{array}\right| \\ -\left|\begin{array}{rr}7 & 11 \\7 & 8\end{array}\right| \quad\left|\begin{array}{rr}4 & 11 \\5 & 8\end{array}\right|-\left|\begin{array}{ll}4 & 7 \\5 & 7\end{array}\right| \\ \left|\begin{array}{rr}7 & 11 \\4 & 8\end{array}\right| \quad-\left|\begin{array}{rr}4 & 11 \\2 & 8\end{array}\right| \quad\left|\begin{array}{ll}4 & 7 \\2 & 4\end{array}\right|\end{bmatrix} ^t[/math]
+ [math]=\left[\begin{array}{rrr}-24 & 24 & -6 \\21 & -23 & 7 \\12 & -10 & 2\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rrr}-24 & 21 & 12 \\24 & -23 & -10 \\-6 & 7 & 2\end{array}\right][/math]
+ [math]\\[/math]
+ গধরি, আপেল বিক্রয়ে লাভের পরিমাণ x টাকা পেয়ারা বিক্রয়ে লাভের পরিমাণ y টাকা আম বিক্রয়ে লাভের পরিমাণ z টাকাপ্রশ্নমতে, [math]4 x+2 y+5 z=70[/math]
+ [math]7 x+4 y+7 z=133[/math]
+ [math]11 x+8 y+8 z=193[/math]
+ [math]\therefore D=\left|\begin{array}{lll}4 & 2 & 5 \\7 & 4 & 7 \\11 & 8 & 8\end{array}\right|[/math]
+ [math]=4(32-56)-2(56-77)[/math]
+ [math]+5(56-44)[/math]
+ [math]=-96+42+60=6[/math]
+ [math]\mathrm{D}_{\mathrm{x}}=\left|\begin{array}{ccc}70 & 2 & 5 \\133 & 4 & 7 \\193 & 8 & 8\end{array}\right|[/math]
+ [math]=70(32-56)-2(1064-1351)[/math]
+ [math]+5(1064-772)[/math]
+ [math]=-1680+574+1460=354[/math]
+ [math]\mathrm{D}_{\mathrm{y}}=\left|\begin{array}{ccc}4 & 70 & 5 \\7 & 133 & 7 \\11 & 193 & 8\end{array}\right|[/math]
+ [math]=4(1064-1351)-70(56-77)[/math]
+ [math]+5(1351-1463)[/math]
+ [math]=-1148+1470-560=-238[/math]
+ [math]\mathrm{D}_{\mathrm{z}}=\left|\begin{array}{rrr}4 & 2 & 70 \\7 & -4 & 133 \\11 & 8 & 193\end{array}\right|[/math]
+ [math]=4(772-1064)-2(1351-1463)[/math]
+ [math]+70(56-44)[/math]
+ [math]=-1168+224+840=-104[/math]
+ [math]\therefore {x}=\frac{D_{x}}{D}=\frac{354}{6}=59 ;[/math]
+ [math]y=\frac{D_{y}}{D}=\frac{-238}{6}=-39.67 \\z=\frac{D_{z}}{D}=\frac{-104}{6}[/math]
+ [math]=-17.33[/math]
+ [math]\therefore[/math]
+ প্রতি কেজি আপেল বিক্রয়ে লাভ হয় 59 টাকা, প্রতি কেজি পেয়ারা বিক্রয়ে ক্ষতি হয় [math]39.67[/math]
+ টাকা, প্রতি কেজি আম বিক্রয়ে ক্ষতি হয় [math]17.33[/math]
+ টাকা ।
+
+Explanation:
+ব্যাখ্যা:
+
+ক টান্সপোজ করে বিয়োগ করলে [math](A^{t}-B^{t})=(A-B)^{t}[/math] হওয়ায় প্রথমে টান্সপোজ নিলে [math]A^{t}=\begin{pmatrix}1&0\\3&2\end{pmatrix},\;B^{t}=\begin{pmatrix}4&5\\-1&6\end{pmatrix}[/math] এবং তাই [math]A^{t}-B^{t}=\begin{pmatrix}1-4&0-5\\3-(-1)&2-6\end{pmatrix}=\begin{pmatrix}-3&-5\\4&-4\end{pmatrix}[/math]।
+
+খ সকাল, বিকাল, রাতের পরিমাণকে কলাম হিসেবে রেখে ম্যাট্রিক্সটি হল [math]M=\begin{pmatrix}4&7&11\\2&4&8\\5&7&8\end{pmatrix}[/math]; এর কোফ্যাক্টর-ম্যাট্রিক্স বের করে ট্রান্সপোজ নিলে অ্যাডজয়েন্ট (adjoint) পাওয়া যায়: [math]\operatorname{adj}M=\begin{pmatrix}-24&21&12\\24&-23&-10\\-6&7&2\end{pmatrix}[/math]।
+
+গ লাভ/ক্ষতির জন্য অবিভক্ত সমীকরণগুলো হল [math]4x+2y+5z=70,\;7x+4y+7z=133,\;11x+8y+8z=193[/math]; নির্ধারক [math]D=\det\begin{pmatrix}4&2&5\\7&4&7\\11&8&8\end{pmatrix}=6[/math] এবং ক্রেমারের নিয়মে [math]x=\dfrac{354}{6}=59,\;y=\dfrac{-238}{6}=-\dfrac{119}{3}\approx-39.67,\;z=\dfrac{-104}{6}=-\dfrac{52}{3}\approx-17.33[/math]; অর্থাৎ আপেলে প্রতি কেজিতে লাভ [math]59[/math] টাকা, পেয়ারা প্রতি কেজিতে প্রায় [math]39.67[/math] টাকার ক্ষতি এবং আমে প্রতি কেজিতে প্রায় [math]17.33[/math] টাকার ক্ষতি।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 412261)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মাইক্রোসফট প্রতিদিন তিনটি মেশিন দ্বারা x পণ্য [math]2, 1, 3[/math] টি; y পণ্য [math]2, 1, 2[/math] টি এবং [math]z[/math] পণ্য [math]1, 3, 4[/math]টি তৈরি করে । প্রতিটি [math]x, y, z[/math] পণ্যের উৎপাদন খরচ যথাক্রমে [math]17, 12[/math] ও [math]15[/math] টাকা এবং বিক্রয়মূল্য যথাক্রমে [math]23, 18[/math] ও [math]25[/math] টাকা ।
+
+Options:
+ক. প্রত্যেক প্রকার পণ্যকে কলাম বরাবর নিয়ে গঠিত ম্যাট্রিক্সটি সমঘাতি কিনা যাচাই কর ।
+খ. প্রত্যেক প্রকার পণ্যকে সারি বরাবর নিয়ে গঠিত ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স নির্ণয় কর।
+গ. প্রতি সপ্তাহে কোম্পানির লাভের পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কধরি, প্রত্যেক প্রকার পণ্যকে কলাম বরাবর নিয়ে গঠিত ম্যাট্রিক্সটি,[math]A=\left[\begin{array}{lll}2 & 2 & 1 \\1 & 1 & 3 \\3 & 2 & 4\end{array}\right][/math]
+A ম্যাট্রিক্সটি সমঘাতি হবে যদি [math]A^{2}=A[/math]
+ হয়।[math]A^{2}=A \cdot A=\left[\begin{array}{lll}2 & 2 & 1 \\1 & 1 & 3 \\3 & 2 & 4\end{array}\right][/math]
+ [math]\left[\begin{array}{lll}2 & 2 & 1 \\1 & 1 & 3 \\3 & 2 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}4+2+3 & 4+2+2 \\2+1+9 & 2+1+6 \\6+2+12 & 6+2+8\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}2+6+4 \\1+3+12 \\3+6+16\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}9 & 8 & 12 \\12 & 9 & 16 \\20 & 16 & 25\end{array}\right] 
+eq \mathrm{A}[/math]
+ [math]\therefore A[/math]
+ ম্যাট্রিক্সটি সমঘাতি নয়। [math]\text { (Ans.) }[/math]
+.[math]\\[/math]
+ খধরি, প্রত্যেক প্রকার পণ্যকে সারি বরাবর নিয়ে গঠিত ম্যাট্রিক্সটি B[math]\therefore B=\left[\begin{array}{lll}2 & 1 & 3 \\2 & 1 & 2 \\1 & 3 & 4\end{array}\right][/math]
+এবং [math]|B|=\left|\begin{array}{lll}2 & 1 & 3 \\2 & 1 & 2 \\1 & 3 & 4\end{array}\right|[/math]
+ [math]=2(4-6)-1(8-2)[/math]
+ [math]+3(6-1)[/math]
+ [math]=-4-6+15=5 
+eq 0[/math]
+ [math]\therefore \mathrm{B}^{-1}[/math]
+ নির্ণয়যোগ্য।[math]\mathrm{B}_{11}=(-1)^{1+1}\left|\begin{array}{ll}1 & 2 \\3 & 4\end{array}\right|[/math]
+ [math]=4-6=-2[/math]
+ [math]\mathrm{~B}_{12}=(-1)^{1+2}\left|\begin{array}{ll}2 & 2 \\1 & 4\end{array}\right|[/math]
+ [math]=-(8-2)=-6[/math]
+ [math]\mathrm{~B}_{13}=(-1)^{1+3}\left|\begin{array}{ll}2 & 1 \\1 & 3\end{array}\right|[/math]
+ [math]=6-1=5[/math]
+ [math]\mathrm{~B}_{21}=(-1)^{2+1}\left|\begin{array}{ll}1 & 3 \\3 & 4\end{array}\right|[/math]
+ [math]=-(4-9)=5[/math]
+ [math]\mathrm{~B}_{22}=(-1)^{2+2}\left|\begin{array}{ll}2 & 3 \\1 & 4\end{array}\right|[/math]
+ [math]=8-3=5[/math]
+ [math]\mathrm{~B}_{23}=(-1)^{2+3}\left|\begin{array}{ll}2 & 1 \\1 & 3\end{array}\right|[/math]
+ [math]=-(6-1)=-5[/math]
+ [math]\mathrm{~B}_{31}=(-1)^{3+1}\left|\begin{array}{ll}1 & 3 \\1 & 2\end{array}\right|[/math]
+ [math]=2-3=-1[/math]
+ [math]\mathrm{~B}_{32}=(-1)^{3+2}\left|\begin{array}{ll}2 & 3 \\2 & 2\end{array}\right|[/math]
+ [math]=-(4-6)=2[/math]
+ [math]\mathrm{~B}_{33}=(-1)^{3+3}\left|\begin{array}{ll}2 & 1 \\2 & 1\end{array}\right|[/math]
+ [math]=2-2=0[/math]
+ [math]\therefore \mathrm{B}^{-1}=\frac{1}{|\mathrm{~B}|} \text { adj } \mathrm{B}=\frac{1}{5}[/math]
+ [math]\left[\begin{array}{ccc}-2 & 5 & -1 \\-6 & 5 & 2 \\5 & -5 & 0\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গপ্রদত্ত তথ্যগুলো ম্যাট্রিক্স আকারে প্রকাশ করার জন্য ধরি, প্রতিদিনতিনটি মেশিন দ্বারা উৎপন্ন পণ্যের পরিমাণ, [math]E=\left[\begin{array}{lll}2 & 2 & 1 \\1 & 1 & 3 \\3 & 2 & 4\end{array}\right][/math]
+প্রতিটি পণ্যের উৎপাদন খরচ, [math]F=\left[\begin{array}{l}17 \\12 \\15\end{array}\right][/math]
+প্রতিটি পণ্যের বিক্রয়মূল্য, [math]H=\left[\begin{array}{l}23 \\18 \\25\end{array}\right][/math]
+ [math]\therefore[/math]
+ প্রতিটি পণ্যে লাভ, [math]H-F=\left[\begin{array}{l}23 \\18 \\25\end{array}\right][/math]
+ [math]-\left[\begin{array}{l}17 \\12 \\15\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}6 \\6 \\10\end{array}\right][/math]
+ [math]\therefore[/math]
+ প্রতিদিন লাভ [math]=\left[\begin{array}{lll}2 & 2 & 1 \\1 & 1 & 3 \\3 & 2 & 4\end{array}\right][/math]
+ [math]\left[\begin{array}{c}6 \\6 \\10\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}12+12+10 \\6+6+30 \\18+12+40\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}34 \\42 \\70\end{array}\right][/math]
+ [math]\therefore[/math]
+ প্রতিদিন মোট লাভ [math](34 + 42 + 70) = 146[/math]
+ টাকা[math]\therefore[/math]
+ প্রতি সপ্তাহে কোম্পানির লাভ [math](146 \times 7)=1022[/math]
+ টাকা (Ans)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 412260)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+রাজীব, রিয়াজ ও প্রকাশ 'স্বপ্ন' সুপার শপ হতে যথাক্রমে [math]190[/math] টাকা, [math]426[/math] টাকা ও [math]377[/math] টাকা দিয়ে তিন প্রকারের দ্রব্য ক্রয় করলো। দ্রব্য তিনটির একক মূল্য যথাক্রমে [math]P, q, r[/math] টাকা।
+
+রাজীব দ্রব্য তিনটির যথাক্রমে [math]4[/math]টি, [math]2[/math]টি ও [math]4[/math]টি, রিয়াজ দ্রব্য তিনটির যথাক্রমে [math]5[/math]টি, [math]9[/math]টি ও [math]5[/math]টি এবং প্রকাশ দ্রব্য তিনটির যথাক্রমে [math]2[/math]টি, [math]7[/math]টি ও [math]8[/math]টি কিনলো ।
+
+Options:
+ক. কোন শর্তে দুইটি ম্যাট্রিক্স যোগ ও গুণন যোগ্য হবে?
+খ. রিয়াজ, রাজীব ও প্রকাশের দ্রব্য ক্রয়সংখ্যাকে যথাক্রমে ভিন্ন ভিন্ন সারি আকারে নিয়ে গঠিত ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স নির্ণয় কর।
+গ. উদ্দীপক অনুসারে সমীকরণ জোট গঠন করে নির্ণায়ক পদ্ধতিতে [math]P, q[/math] ও [math]r[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক(i) যদি দুইটি ম্যাট্রিক্সের ক্রম সমান হয় তবে তাদের যোগফল নির্ণয়যোগ্য হবে ।(ii) দুইটি ম্যাটিক্স গুণনযোগ্য হবে যদি প্রথম ম্যাট্রিক্সের কলাম সংখ্যা দ্বিতীয় ম্যাট্রিক্সের সারি সংখ্যার সমান হয় ।[math]\\[/math]
+ খধরি, [math]\mathrm{A}=\left[\begin{array}{lll}5 & 9 & 5 \\4 & 2 & 4 \\2 & 7 & 8\end{array}\right][/math]
+ [math]J \mathrm{~A} \mid =\left|\begin{array}{lll}5 & 9 & 5 \\4 & 2 & 4 \\2 & 7 & 8\end{array}\right|[/math]
+ [math]=5(16-28)-9(32-8)+5(28-4)[/math]
+ [math]=-60-216+120=-156 
+eq 0[/math]
+ [math]\therefore[/math]
+ A ম্যাট্রিক্সটি বিপরীত যোগ্য[math]\therefore \operatorname{adj} A[/math]
+ [math]=\begin{bmatrix}\left|\begin{array}{ll}2 & 4 \\7 & 8\end{array}\right|-\left|\begin{array}{ll}4 & 4 \\2 & 8\end{array}\right| \quad\left|\begin{array}{ll}4 & 2 \\2 & 7\end{array}\right| \\-\left|\begin{array}{ll}9 & 5 \\7 & 8\end{array}\right| \quad\left|\begin{array}{ll}5 & 5 \\2 & 8\end{array}\right|-\left|\begin{array}{ll}5 & 9 \\2 & 7\end{array}\right|\\\left|\begin{array}{ll}9 & 5 \\2 & 4\end{array}\right|-\left|\begin{array}{ll}5 & 5 \\4 & 4\end{array}\right| \quad\left|\begin{array}{ll}5 & 9 \\4 & 2\end{array}\right|\end{bmatrix}^t[/math]
+ [math]=\left[\begin{array}{rrr}-12 & -24 & 24 \\-37 & 30 & -17 \\26 & 0 & -26\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rrr}-12 & -37 & 26 \\-24 & 30 & 0 \\24 & -17 & -26\end{array}\right][/math]
+ [math]\therefore A^{-1} =\frac{1}{|A|} \text { adj } A[/math]
+ [math]=\frac{1}{-156}\left[\begin{array}{rrr}-12 & -37 & 26 \\-24 & 30 & 0 \\24 & -17 & -26\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}\frac{1}{13} & \frac{37}{156} & \frac{-1}{6} \\\frac{2}{13} & \frac{5}{26} & 0 \\-\frac{2}{13} & \frac{17}{156} & \frac{1}{6}\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গযেহেতু দ্রব্য তিনটির একক মূল্য যথাক্রমে p, q ও টাকা r সুতরাং সরল সমীকরণজোটটি নিম্নরূপ:[math]\begin{array}{l}4 p+2 q+4 r=190 \\5 p+9 q+5 r=426 \\2 p+7 q+8 r=377\end{array}[/math]
+ [math]\therefore \mathrm{D}=\left|\begin{array}{lll}4 & 2 & 4 \\5 & 9 & 5 \\2 & 7 & 8\end{array}\right|[/math]
+ [math]=4(72-35)-2(40-10)+4(35-18)[/math]
+ [math]=148-60+68=156[/math]
+ [math]\mathrm{D}_{\mathrm{p}}=\left|\begin{array}{ccc}190 & 2 & 4 \\426 & 9 & 5 \\377 & 7 & 8\end{array}\right|[/math]
+ [math]=190(72-35)-2(3408-1885)+4(2982-3393)[/math]
+ [math]=7030-3046-1644=2340[/math]
+ [math]D_{\mathrm{q}}=\left|\begin{array}{lll}4 & 190 & 4 \\5 & 426 & 5 \\2 & 377 & 8\end{array}\right|[/math]
+ [math]=4(3408-1885)-190(40-10)[/math]
+ [math]+4(1885-852)[/math]
+ [math]=6092-5700+4132[/math]
+ [math]=4524[/math]
+ [math]D_{r}=\left|\begin{array}{lll}4 & 2 & 190 \\5 & 9 & 426 \\2 & 7 & 377\end{array}\right|[/math]
+ [math]=4(3393-2982)-2(1885-852)+190(35-18) \text {. }[/math]
+ [math]=1644-2066+3230=2808 \text {. }[/math]
+ [math]\therefore \mathrm{p}=\frac{\mathrm{D}_{\mathrm{p}}}{\mathrm{D}}=\frac{2340}{156}=15,[/math]
+ [math]\mathrm{q}=\frac{\mathrm{D}_{\mathrm{q}}}{\mathrm{D}}[/math]
+ [math]=\frac{4524}{156}=29[/math]
+ [math]\mathrm{r}=\frac{\mathrm{D}_{r}}{\mathrm{D}}=\frac{2808}{156}=18 \text { (Ans.) }[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 412259)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো কলেজের তিনটি বিভাগের জন্য ক্রয়কৃত ল্যাপটপ, ডেক্সটপ ও প্রিন্টারের পরিমাণ নিম্নে ছক আকারে দেওয়া হলো:
+
+
+[Image]
+
+
+প্রতিটি ল্যাপটপ, ডেক্সটপ ও প্রিন্টারের দাম যথাক্রমে [math]25[/math] হাজার, [math]35[/math] হাজার ও [math]4[/math] হাজার টাকা।
+
+Options:
+ক. উপরের তথ্যগুলিকে ম্যাট্রিক্স আকারে প্রকাশ করে প্রতিটি যন্ত্রাংশ ব্রুয়ে কলেজের মোট ব্যয় কত হবে তা নির্ণয় কর।
+খ. ক্রয়কৃত যন্ত্রাংশের পরিমাণকে ম্যাট্রিক্স আকারে প্রকাশ করে বিপরীত ম্যাট্রিক্স নির্ণয় কর।
+গ. বাংলা, ইংরেজি ও গণিত বিভাগে সব যন্ত্রাংশ সেট করতে যথাক্রমে [math]115[/math] মিনিট, [math]200[/math] মিনিট ও [math]435[/math] মিনিট লাগলে, প্রতিটি ল্যাপটপ, ডেক্সটপ ও প্রিন্টার সেট করতে কত সময় লাগবে?
+
+
+Correct Answer: 
+
+Solution:
+কক্রয়মূল্যসমূহকে (হাজার একক) কলাম ম্যাট্রিক্স আকারে প্রকাশকরে পাই, [math]\left[\begin{array}{c}25 \\35 \\4\end{array}\right][/math]
+ [math]\therefore[/math]
+ প্রতি বিভাগের যন্ত্রাংশের সংখ্যা সারি হিসেবে নিয়ে পাই,[math]\left[\begin{array}{ccc}3 & 2 & 1 \\4 & 4 & 2 \\7 & 10 & 3\end{array}\right][/math]
+ [math]\therefore[/math]
+ বিভাগ প্রতি যন্ত্রাংশের ক্রয়মূল্য হবে,[math]\left[\begin{array}{ccc}3 & 2 & 1 \\4 & 4 & 2 \\7 & 10 & 3\end{array}\right][/math]
+ [math]\left[\begin{array}{l}25 \\35 \\4\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}75+70+4 \\100+140+8 \\175+350+12\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}149 \\248 \\537\end{array}\right][/math]
+ [math]\therefore[/math]
+ কলেজের মোট ব্যয় হবে [math]= (149 +248 +537)[/math]
+ হাজার টাকা[math]= 934[/math]
+ হাজার টাকা [math]= 9,34,000[/math]
+ টাকা। (Ans.)[math]\\[/math]
+ খক্রয়কৃত যন্ত্রাংশের পরিমাণকে ম্যাট্রিক্স আকারে প্রকাশ করে পাই,[math]A=\left[\begin{array}{ccc}3 & 4 & 7 \\2 & 4 & 10 \\1 & 2 & 3\end{array}\right] \\\therefore|A|=3(12-20)-4(6-10)+7(4-4) \\\quad=-24+16=-8 
+eq 0[/math]
+ [math]\therefore \mathrm{A}^{-1}[/math]
+ নির্ণয়যোগ্য ।[math]\therefore \operatorname{adj} A=[/math]
+ [math]\begin{bmatrix}\left|\begin{array}{rr}4 & 10 \\2 & 3\end{array}\right|-\left|\begin{array}{ll}2 & 10 \\1 & 3\end{array}\right| \quad\left|\begin{array}{ll}2 & 4 \\1 & 2\end{array}\right| \\ -\left|\begin{array}{ll}4 & 7 \\2 & 3\end{array}\right| \quad \left|\begin{array}{ll}3 & 7 \\1 & 3\end{array}\right|-\left|\begin{array}{ll}3 & 4 \\1 & 2\end{array}\right| \\ \left|\begin{array}{rr}4 & 7 \\4 & 10\end{array}\right|-\left|\begin{array}{rr}3 & 7 \\2 & 10\end{array}\right| \quad\left|\begin{array}{ll}3 & 4 \\2 & 4\end{array}\right|\end{bmatrix} ^t[/math]
+ [math]=\left[\begin{array}{rrr}-8 & 4 & 0 \\2 & 2 & -2 \\12 & -16 & 4\end{array}\right]^{\mathrm{t}}[/math]
+ [math]=\left[\begin{array}{rrr}-8 & 2 & 12 \\4 & 2 & -16 \\0 & -2 & 4\end{array}\right][/math]
+ [math]A^{-1}=\frac{1}{|A|} \operatorname{adj} A=\frac{1}{-8}[/math]
+ [math]\left[\begin{array}{ccc}-8 & 2 & 12 \\4 & 2 & -16 \\0 & -2 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}1 & \frac{-1}{4} & \frac{-3}{2} \\-\frac{1}{2} & -\frac{1}{4} & 2 \\0 & \frac{1}{4} & -\frac{1}{2}\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গধরি, প্রতিটি ল্যাপটপ সেট করতে সময় লাগে x মিনিট, ডেক্সটপে মিনিট ও প্রিন্টারে z মিনিট ।X সুতরাং প্রতি যন্ত্রাংশে প্রয়োজনীয় সময় নিয়ে ম্যাট্রিক্স [math]\mathrm{X}=\left[\begin{array}{l}\mathrm{x} \\\mathrm{y} \\\mathrm{z}\end{array}\right][/math]
+শর্তানুসারে পাই, [math]\left[\begin{array}{ccc}3 & 2 & 1 \\4 & 4 & 2 \\7 & 10 & 3\end{array}\right]\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}115 \\200 \\435\end{array}\right][/math]
+ [math]\begin{array}{l}3 x+2 y+z=115 \\4 x+4 y+2 z=200 \\7 x+10 y+3 z=435\end{array}[/math]
+ক্রেমারের নিয়মে সমাধানের ক্ষেত্রে আমরা পাই,[math]D=\left|\begin{array}{ccc}3 & 2 & 1 \\4 & 4 & 2 \\7 & 10 & 3\end{array}\right|[/math]
+ [math]=3(12-20)-2(12-14)[/math]
+ [math]+1(40-28)[/math]
+ [math]=3(-8)-2(-2)+12[/math]
+ [math]=-24+4+12=-8[/math]
+ [math]D_{x} =\left|\begin{array}{ccc}115 & 2 & 1 \\200 & 4 & 2 \\435 & 10 & 3\end{array}\right|[/math]
+ [math]=115(12-20)-2(600-870)[/math]
+ [math]+1(2000-1740)[/math]
+ [math]=-920+540+260=-120[/math]
+ [math]\mathrm{D}_{\mathrm{y}} =\left|\begin{array}{lll}3 & 115 & 1 \\4 & 200 & 2 \\7 & 435 & 3\end{array}\right|[/math]
+ [math]=3(600-870)-115(12-14)[/math]
+ [math]+1(1740-1400)[/math]
+ [math]=-810+230+340[/math]
+ [math]=-240[/math]
+ [math]\mathrm{D}_{\mathrm{z}} =\left|\begin{array}{lll}3 & 2 & 115 \\4 & 4 & 200 \\7 & 10 & 435\end{array}\right|[/math]
+ [math]=3(1740-2000)-2(1740-1400)[/math]
+ [math]+115(40-28)[/math]
+ [math]=-780-680+1380[/math]
+ [math]=-80[/math]
+ [math]\therefore \mathrm{x} =\frac{\mathrm{D}_{\mathrm{x}}}{\mathrm{D}}=\frac{-120}{-8}=15[/math]
+ [math]\mathrm{y} =\frac{\mathrm{D}_{\mathrm{v}}}{\mathrm{D}}=\frac{-240}{-8}=30[/math]
+ [math]\mathrm{z} =\frac{\mathrm{D}_{\mathrm{z}}}{\mathrm{D}}=\frac{-80}{-8}=10[/math]
+ [math]\therefore[/math]
+ যন্ত্রাংশ সেট করতে ল্যাপটপে 15 মিনিট, ডেক্সটপে 30 মিনিট ও প্রিন্টারে 10 মিনিট সময় লাগে। (Ans)
+
+Explanation:
+ব্যাখ্যা:
+
+ক পরিমাণগুলিকে ম্যাট্রিক্স ধরে নাও [math]A[/math] (পঙক্তি = বিভাগ, কলাম = ল্যাপটপ, ডেক্সটপ, প্রিন্টার) এবং দামকে কলাম ম্যাট্রিক্স ধরে নাও [math]p=\begin{pmatrix}25\\35\\4\end{pmatrix}[/math] (হাজার টাকায়); তখন প্রতিটি বিভাগের মোট খরচ হবে [math]Ap[/math] এবং কলেজের মোট খরচ হবে সব বিভাগের উপরের যোগ, অর্থাৎ [math]\mathbf{1}^T(Ap)[/math] বা সরলভাবে [math]\sum (Ap)[/math]। 
+
+খ ক্রয়কৃত পরিমাণের ম্যাট্রিক্স যদি [math]A[/math] হয় এবং [math]\det(A)\neq 0[/math] হয়, তাহলে তার বিপরীত আছে এবং তা হল [math]A^{-1}[/math]; বিপরীত ম্যাট্রিক্স বের করার নিয়ম হলো গোষ্ঠী রূপান্তর বা গাউস–জর্দান পদ্ধতি প্রয়োগ করা। 
+
+গ প্রতিটি যন্ত্র সেট করতে লাগা সময়গুলোকে কলাম ভেক্টর ধরা যাক [math]t=\begin{pmatrix}t_L\\t_D\\t_P\end{pmatrix}[/math] এবং বিভাগগুলোর মোট সময় [math]b=\begin{pmatrix}115\\200\\435\end{pmatrix}[/math]; তখন সময় সম্পর্কটি লেখা যায় [math]A\,t=b[/math] এবং যদি [math]A^{-1}[/math] থাকে তাহলে [math]t=A^{-1}b[/math] থেকে প্রতিটি যন্ত্রের সেটিং সময় পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 412258)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: রাজধানী ঢাকার একটি দোকানে টাঙ্গাইলের চমচম, কুমিল্লার রসমালাই এবং নাটোরের কাঁচাগোল্লা বিক্রি করে। এই তিন প্রকারেরর খাবার তৈরির মূল উপাদান দুধ ও চিনি। প্রদত্ত খাবার তিনটির দৈনিক উৎপাদন নিচে দেওয়া হলো:
+
+
+[Image]
+
+
+প্রতি কেজি দুধের ক্রয়মূল্য [math]70[/math] টাকা, চিনি [math]60[/math] টাকা ও অন্যান্য উপাদান গড়ে [math]50[/math] টাকা ।
+
+দৃশ্যকল্প-২: [math]A=\left[\begin{array}{ll}3 & 1 \\5 & \mathrm{p}\end{array}\right][/math] এবং [math]A+A^{-1}=k I[/math] যেখানে [math]p[/math] ও [math]k[/math] ধ্রুবক এবং [math]I[/math] একটি অভেদক ম্যাট্রিক্স। I
+
+Options:
+ক. [math]p[/math] এর মান কত হলে [math]A[/math] ম্যাট্রিক্সের ট্রেস [math]7[/math] হবে?
+খ. দৈনিক মোট উৎপাদন খরচ নির্ণয় কর।
+গ. [math]p[/math] ও [math]k[/math] এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]A=\left[\begin{array}{ll}3 & 1 \\5 & p\end{array}\right][/math]
+ [math]\therefore A[/math]
+ ম্যাট্রিক্সের ট্রেস [math]= p + 3[/math]
+প্রশ্নমতে, [math]p + 3 = 7[/math]
+ [math]\Rightarrow p=7-3 \therefore p=4 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খধরি, [math]X=\left[\begin{array}{lll}30 \% & 50 \% & 60 \% \\60 \% & 30 \% & 25 \% \\10 \% & 20 \% & 15 \%\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}0.3 & 0.5 & 0.6 \\0.6 & 0.3 & 0.25 \\0.1 & 0.2 & 0.15\end{array}\right][/math]
+ [math]Y=\left[\begin{array}{l}280 \\260 \\200\end{array}\right][/math]
+ এবং [math]Z=\left[\begin{array}{lll}70 & 60 & 50\end{array}\right][/math]
+ [math]\therefore X Y=\left[\begin{array}{lll}0.3 & 0.5 & 0.6 \\0.6 & 0.3 & 0.25 \\0.1 & 0.2 & 0.15\end{array}\right]\left[\begin{array}{l}280 \\260 \\200\end{array}\right][/math]
+ [math]\left[\begin{array}{c}84+130+120 \\168+78+50 \\28+52+30\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}334 \\296 \\110\end{array}\right][/math]
+ [math]\therefore Z(X Y)=\left[\begin{array}{lll}70 & 60 & 50\end{array}\right][/math]
+ [math]\left[\begin{array}{l}334 \\296 \\110\end{array}\right][/math]
+ [math][23380+17760+5500][/math]
+ [math]=[46640][/math]
+ [math]\therefore[/math]
+ দৈনিক উৎপাদন খরচ [math]46640[/math]
+ টাকা[math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]\mathrm{A}=\left[\begin{array}{ll}3 & 1 \\5 & \mathrm{p}\end{array}\right][/math]
+ [math]\therefore A^{-1}=\frac{1}{3 p-5}[/math]
+ [math]\left[\begin{array}{rr}p & -1 \\-5 & 3\end{array}\right][/math]
+শর্তানুসারে [math]A+A^{-1}=k I[/math]
+ [math]=\left[\begin{array}{rr}3 & 1 \\5 & p\end{array}\right]+\frac{1}{3 p-5}\left[\begin{array}{rr}p & -1 \\-5 & 3\end{array}\right][/math]
+ [math]=k\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}3 & 1 \\5 & p\end{array}\right]+\frac{1}{3 p-5}\left[\begin{array}{rr}p & -1 \\-5 & 3\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}k & 0 \\0 & k\end{array}\right][/math]
+ [math]\therefore\left[\begin{array}{ll}3+\frac{p}{3 p-5} & 1-\frac{1}{3 p-5} \\5-\frac{5}{3 p-5} & p+\frac{3}{3 p-5}\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}k & 0 \\0 & k\end{array}\right][/math]
+ম্যাট্রিক্সের সমতা অনুসারে [math]5-\frac{5}{3 p-5}=0[/math]
+ [math]\begin{array}{l}= \frac{5}{3 p-5}=5 \\= 15 p-25=5 \\= 15 p=30 \\\therefore p=2 \text { (Ans.) }\end{array}[/math]
+এবং [math]\mathrm{k}=3+\frac{2}{3(2)-5}[/math]
+ [math]=5 \text { (Ans.). }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ট্রেস মানে ম্যাট্রিক্সের প্রধান диагোনালের যোগ, তাই [math]3+p=7[/math] থেকে [math]p=4[/math]।
+
+খ প্রতিটি খাবারের জন্য দৈনিক প্রয়োজনীয় দুধ ও চিনি = (প্রতি কেজি উপাদান × দৈনিক উৎপাদিত কেজি); তারপর মোট খরচ = [math]70\times(\text{মোট দুধ (কেজি)})+60\times(\text{মোট চিনি (কেজি)})+50\times(\text{মোট উৎপাদিত কেজি})[/math] — ছবিতে দেওয়া মানগুলো এখানে বসিয়ে সরাসরি সংখ্যাগত ফল পাওয়া যাবে।
+
+গ প্রথমে [math]\det A=3p-5[/math] ও [math]A^{-1}=\dfrac{1}{3p-5}\begin{pmatrix}p & -1\\ -5 & 3\end{pmatrix}[/math]. বাহ্যিক উপাদান শূন্য হওয়ার জন্য [math]1-\dfrac{1}{3p-5}=0\Rightarrow 3p-5=1\Rightarrow p=2[/math]; তখন [math]k=3+\dfrac{p}{3p-5}=3+\dfrac{2}{1}=5[/math], অতএব [math]p=2,\ k=5[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 412257)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+এক ব্যবসায়ী তার দোকানের জন্য ১ম সপ্তাহে যথাক্রমে [math]4, 2[/math] ও [math]1[/math] প্যাকেট করে কলম, পেন্সিল ও রাবার কিনলেন। অনুরূপভাবে ২য় সপ্তাহে যথাক্রমে [math]6, 2[/math] ও [math]1[/math] প্যাকেট এবং ৩য় সপ্তাহে [math]5, 1[/math] ও [math]1[/math] প্যাকেট করে যথাক্রমে কলম, পেন্সিল ও রাবার কিনলেন।
+
+তিনটি সপ্তাহে তার মোট খরচ যথাক্রমে [math]475[/math] টাকা, [math]575[/math] টাকা ও [math]425[/math] টাকা। প্রতি প্যাকেট কলম, পেন্সিল ও রাবারের ক্রয়মূল্য যথাক্রমে [math]x, y[/math] ও [math]z[/math] টাকা। এরপর তিনি সারি বরাবর সপ্তাহ এবং কলাম বরাবর পণ্যসংখ্যা সাজিয়ে [math](3 \times 3)[/math] আকারে একটি ম্যাট্রিক্স
+
+[math]D[/math], সাপ্তাহিক খরচকে সারি বরাবর সাজিয়ে [math](3 \times 1)[/math] আকারের একটি ম্যাট্রিক্স [math]C[/math] এবং প্রতি প্যাকেট পণ্যের ক্রয়মূল্যকে যথাক্রমে সারি বরাবর সাজিয়ে [math](3 \times 1)[/math] আকারের একটি ম্যাট্রিক্স [math]R[/math] লিখলেন।
+
+Options:
+ক. [math]P=\left[\begin{array}{cc}4 & -3 \\-2 & 7\end{array}\right][/math] ও [math]Q=\left[\begin{array}{cc}1 & -2 \\-1 & 5\end{array}\right][/math] হলে [math](P-2 Q)^{t}[/math] নির্ণয় কর।
+খ. [math]f(x)=x^{2}-7 x-4[/math] হলে [math]\text { f(D) }[/math] নির্ণয় কর।
+গ. বিপরীত ম্যাট্রিক্সের সাহায্যে প্রতি প্যাকেট পণ্যের ক্রয়মূল্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]P-2 Q=\left[\begin{array}{cc}4 & -3 \\-2 & 7\end{array}\right][/math]
+ [math]-2\left[\begin{array}{cc}1 & -2 \\-1 & 5\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}4-2 & -3+4 \\-2+2 & 7-10\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}2 & 1 \\0 & -3\end{array}\right][/math]
+ [math]\therefore(P-2 Q)^{t}=\left[\begin{array}{cc}2 & 1 \\0 & -3\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{cc}2 & 0 \\1 & -3\end{array}\right] \text { (Ans.) }[/math]
+$$[math]\\[/math]
+ খউদ্দীপক অনুসারে, [math]\mathrm{D}=\left[\begin{array}{lll}4 & 2 & 1 \\6 & 2 & 1 \\5 & 1 & 1\end{array}\right][/math]
+প্রশ্নমতে, [math]f(x)=x^{2}-7 x-4[/math]
+ [math]\therefore f(D)=D^{2}-7 D-4 I[/math]
+ [math]=\left[\begin{array}{lll}4 & 2 & 1 \\6 & 2 & 1 \\5 & 1 & 1\end{array}\right][/math]
+ [math]\left[\begin{array}{lll}4 & 2 & 1 \\6 & 2 & 1 \\5 & 1 & 1\end{array}\right][/math]
+ [math]-7\left[\begin{array}{lll}4 & 2 & 1 \\6 & 2 & 1 \\5 & 1 & 1\end{array}\right][/math]
+ [math]-4\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}16+12+5 & 8+4+1 \\24+12+5 & 12+4+1 \\20+6+5 & 10+2+1\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}4+2+1 \\6+2+1 \\5+1+1\end{array}\right][/math]
+ [math]-\left[\begin{array}{ccc}28 & 14 & 7 \\42 & 14 & 7 \\35 & 7 & 7\end{array}\right][/math]
+ [math]-\left[\begin{array}{lll}4 & 0 & 0 \\0 & 4 & 0 \\0 & 0 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}33 & 13 & 7 \\41 & 17 & 9 \\31 & 13 & 7\end{array}\right][/math]
+ [math]-\left[\begin{array}{ccc}28 & 14 & 7 \\42 & 14 & 7 \\35 & 7 & 7\end{array}\right][/math]
+ [math]-\left[\begin{array}{lll}4 & 0 & 0 \\0 & 4 & 0 \\0 & 0 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}33-28-4 & 13-14-0 \\41-42-0 & 17-14-4 \\31-35-0 & 13-7-0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}7-7-0 \\9-7-0 \\7-7-4\end{array}\right][/math]
+ [math]\begin{array}{l}=\left[\begin{array}{ccc}1 & -1 & 0 \\-1 & -1 & 2 \\-4 & 6 & -4\end{array}\right]\\\text{(Ans.)}\end{array}[/math]
+ [math]\\[/math]
+ গপ্রশ্নমতে [math]\mathrm{DR}=\mathrm {C}[/math]
+ বা [math]\mathrm{R}=\mathrm{D}^{-1} \mathrm{C}[/math]
+ [math]\therefore\left[\begin{array}{l}\mathrm{x} \\\mathrm{y} \\\mathrm{z}\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}4 & 2 & 1 \\6 & 2 & 1 \\5 & 1 & 1\end{array}\right]^{-1}[/math]
+ [math]\left[\begin{array}{l}475 \\575 \\425\end{array}\right][/math]
+ [math]...........(i)[/math]
+ [math]|D|=\left[\begin{array}{lll}4 & 2 & 1 \\6 & 2 & 1 \\5 & 1 & 1\end{array}\right][/math]
+ [math]=4(2-1)-2(6-5)[/math]
+ [math]+1(6-10)[/math]
+ [math]=4-2-4=-2 
+eq 0[/math]
+ [math]\begin{bmatrix}\left|\begin{array}{ll}2 & 1 \\1 & 1\end{array}\right| \quad-\left|\begin{array}{ll}6 & 1 \\5 & 1\end{array}\right| \quad\left|\begin{array}{ll}6 & 2 \\5 & 1\end{array}\right|.\\ -\left|\begin{array}{ll}2 & 1 \\1 & 1\end{array}\right| \cdot\left|\begin{array}{ll}4 & 1 \\5 & 1\end{array}\right|-\left|\begin{array}{ll}4 & 2 \\5 & 1\end{array}\right|\\ \left|\begin{array}{ll}2 & 1 \\2 & 1\end{array}\right|-\left|\begin{array}{ll}4 & 1 \\6 & 1\end{array}\right|,\left|\begin{array}{ll}4 & 2 \\6 & 2\end{array}\right|\end{bmatrix}[/math]
+ [math]=\left[\begin{array}{ccc}1 & -1 & -4 \\-1 & -1 & 6 \\0 & 2 & -4\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{ccc}1 & -1 & 0 \\-1 & -1 & 2 \\-4 & 6 & -4\end{array}\right][/math]
+ [math]\therefore \mathrm{D}^{-1}[/math]
+ [math]=\frac{1}{|\mathrm{D}|} \text { adj } \mathrm{D}=\frac{1}{-2}\left[\begin{array}{ccc}1 & -1 & 0 \\-1 & -1 & 2 \\-4 & 6 & -4\end{array}\right][/math]
+(i) নং হতে পাই,[math]\left[\begin{array}{l}x \\y \\z\end{array}\right]=\frac{-1}{2}[/math]
+ [math]\left[\begin{array}{ccc}1 & -1 & 0 \\-1 & -1 & 2 \\-4 & 6 & -4\end{array}\right][/math]
+ [math]\left[\begin{array}{l}475 \\575 \\425\end{array}\right][/math]
+ [math]=\frac{-1}{2}\left[\begin{array}{c}475-575+0 \\-475-575+850 \\-1900+3450-1700\end{array}\right][/math]
+ [math]=\frac{-1}{2}\left[\begin{array}{c}-100 \\-200 \\-150\end{array}\right][/math]
+ [math]\therefore\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{c}50 \\100 \\75\end{array}\right][/math]
+ [math]\therefore[/math]
+ প্রতি প্যাকেট কলম, পেন্সিল ও রাবারের ক্রয়মূল্য যথাক্রমে 50 টাকা, 100 টাকা ও 75 টাকা। (Ans.)
+
+Explanation:
+ক প্রথমে [math]2Q=\left[\begin{array}{cc}2 & -4\\-2 & 10\end{array}\right][/math], তাই [math]P-2Q=\left[\begin{array}{cc}2 & 1\\0 & -3\end{array}\right][/math] এবং এর транспোজ [math](P-2Q)^{t}=\left[\begin{array}{cc}2 & 0\\1 & -3\end{array}\right][/math].
+
+খ ম্যাট্রিক্স多নমাল অনুযায়ী [math]f(D)=D^{2}-7D-4I[/math]; এখানে [math]D=\left[\begin{array}{ccc}4&2&1\\6&2&1\\5&1&1\end{array}\right][/math], [math]D^{2}=\left[\begin{array}{ccc}33&13&7\\41&17&9\\31&13&7\end{array}\right][/math] থেকে [math]f(D)=\left[\begin{array}{ccc}1&-1&0\\-1&-1&2\\-4&6&-4\end{array}\right][/math].
+
+গ হলে সমীকরণ [math]D\;R=C[/math] এবং [math]R=D^{-1}C[/math]; সরাসরি সমাধানে (2)-(1) থেকে [math]x=50[/math], তারপর [math]y=100[/math] ও [math]z=75[/math] পাওয়া যায়, সুতরাং [math]R=\left[\begin{array}{c}50\\100\\75\end{array}\right][/math].
+
+Sub-Questions:
+

@@ -1,0 +1,1298 @@
+================================================================================
+Question #1 (ID: 476128)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]y=\cot ^{-1} \sqrt{\frac{1+\cos x}{1-\cos x}}[/math] হলে, [math]\frac{d y}{d x}=[/math]কত ?
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\sqrt{\frac{1+\cos x}{1-\cos x}}[/math]
+ [math]=\sqrt{\frac{2 \cos ^{2} \frac{x}{2}}{2 \sin ^{2} \frac{x}{2}}}[/math]
+ [math]\Rightarrow \sqrt{\cot ^{2} \frac{x}{2}}[/math]
+ [math]=\cot \frac{x}{2}[/math]
+ [math]\therefore y=\cot ^{-1}\left(\cot \frac{x}{2}\right)[/math]
+ [math]=\frac{x}{2}[/math]
+ [math]\therefore \frac{d y}{d x}=\frac{1}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\tan\frac{x}{2}=\sqrt{\frac{1-\cos x}{1+\cos x}}[/math] থেকে [math]\sqrt{\frac{1+\cos x}{1-\cos x}}=\cot\frac{x}{2}[/math] হয়, তাই [math]y=\cot^{-1}\!\left(\cot\frac{x}{2}\right)=\frac{x}{2}[/math] (প্রধান শাখায়)। ফলে [math]\frac{dy}{dx}=\frac{1}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 475987)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]y=\ln \left(\frac{1+x}{1-x}\right)[/math] হলে [math]\frac{d y}{d x}[/math] এর মান হবে -
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]y=\ln \left(\frac{1+x}{1-x}\right)[/math]
+ [math]=\ln (1+x)-\ln (1-x) ;[/math]
+ [math]\frac{d y}{d x}[/math]
+ [math]=\frac{1}{1+x}-\frac{(-1)}{1-x}[/math]
+ [math]=\frac{1-x+1+x}{1-x^{2}}=\frac{2}{1-x^{2}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: লগের ভগ্নাংশকে আলাদা করে লিখলে [math]y=\ln(1+x)-\ln(1-x)[/math], তাই [math]\frac{dy}{dx}=\frac{1}{1+x}+\frac{1}{1-x}=\frac{2}{1-x^2}[/math]। অতএব বিকল্প B সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 475705)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019, 2014-2015 | Boards:  | Tags: Sher-e-Bangla Agricultural University, Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{d}{d x}\left\{\tan ^{-1}\left(\frac{x^{3}}{e^{x}}\right)+\tan ^{-1}\left(\frac{e^{x}}{x^{3}}\right)\right\}[/math] } এর মান কত?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]\frac{d}{d x}\left\{\tan ^{-1}\left(\frac{x^{3}}{e^{x}}\right)+\tan ^{-1}\left(\frac{e^{x}}{x^{3}}\right)\right\}[/math]
+ [math]=\frac{d}{d x}\left\{\tan ^{-1}\left(\frac{x^{3}}{e^{x}}\right)+\cot ^{-1}\left(\frac{x^{3}}{e^{x}}\right)\right\}[/math]
+ [math]=\frac{d}{d x}\left(\frac{\pi}{2}\right)=0[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধরি [math]f(x)=\frac{x^3}{e^x}=x^3e^{-x}[/math], তখন [math]\frac{e^x}{x^3}=\frac{1}{f(x)}[/math]. ফলে
+[math]\frac{d}{dx}\{\tan^{-1}f+\tan^{-1}(1/f)\}=\frac{f'}{1+f^2}+\frac{(1/f)'}{1+1/f^2}
+=\frac{f'}{1+f^2}-\frac{f'}{1+f^2}=0[/math], তাই মান শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 475636)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { Let } g \text { be a function whose derivative } g \text {' and is shown in the graph below. For what value of } x \text {, the value of }[/math] [math]\mathrm{g} \text { is maximum? }[/math]
+
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+The function attains a maximum where its derivative is zero and changes from positive to negative, i.e., [math]g'(x)=0[/math] with sign change + to −. The graph of [math]g'[/math] at choice A shows this positive-to-negative crossing, so g is maximized there.
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 475305)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019, 2014-2015 | Boards:  | Tags: Sher-e-Bangla Agricultural University, Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{d}{d x}\left\{\tan ^{-1}\left(\frac{x^{3}}{e^{x}}\right)+\tan ^{-1}\left(\frac{e^{x}}{x^{3}}\right)\right\}[/math] } এর মান কত?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]\frac{d}{d x}\left\{\tan ^{-1}\left(\frac{x^{3}}{e^{x}}\right)+\tan ^{-1}\left(\frac{e^{x}}{x^{3}}\right)\right\}[/math]
+ [math]=\frac{d}{d x}\left\{\tan ^{-1}\left(\frac{x^{3}}{e^{x}}\right)+\cot ^{-1}\left(\frac{x^{3}}{e^{x}}\right)\right\}[/math]
+ [math]=\frac{d}{d x}\left(\frac{\pi}{2}\right)=0[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিটি [math]x\neq0[/math]-এর জন্য [math]u=\frac{x^3}{e^x}[/math] নেওলে দ্বিতীয় পদটি [math]\frac{e^x}{x^3}=1/u[/math] হয় এবং সাধারণ পরিচিতি অনুযায়ী [math]\tan^{-1}u+\tan^{-1}(1/u)=\operatorname{sgn}(u)\frac{\pi}{2}[/math] যা একটি ধ্রুবক, তাই তার ডেরিভেটিভ শূন্য। x=0-এ অভিব্যক্তিটি সংজ্ঞায়িত নয়, ফলে সংজ্ঞায়িত প্রতিটি বিন্দুতে উত্তর শূন্য।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 475082)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021-2022 | Boards:  | Tags: University of Rajshahi (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\sin y=\tan x[/math] হলে [math]\frac{d y}{d x}=[/math] কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\sin y=\tan x[/math]
+ [math]\Rightarrow \cos y \cdot \frac{d y}{d x}=\sec ^{2} x[/math]
+ [math]\Rightarrow \frac{d y}{d x}[/math]
+ [math]=\frac{1}{\cos y} \cdot \sec ^{2} x[/math]
+ [math]=\sec ^{2} x \sec y[/math]
+
+
+Explanation:
+ব্যাখ্যা: উভয় পাশকে x অনুসারে অভিসৃত করলে পাই [math]\cos y\,\frac{dy}{dx}=\sec^2 x[/math], অতএব [math]\frac{dy}{dx}=\frac{\sec^2 x}{\cos y}[/math]. আপনার চাইলে [math]\sec^2 x=1+\tan^2 x[/math] ও [math]\tan x=\sin y ব্যবহার করে অন্য রূপেও লিখতে পারেন।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 474902)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: University of Dhaka (A  Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]y=x^{-2} \ln x[/math] হলে, [math]\frac{d^{2} y}{d x^{2}}[/math] এর মান কত ? [math](ify=x^{-2} \ln x \text {, then what is the value of } \frac{d^{2} y}{d x^{2}} \text { ? }[/math])
+
+Options:
+
+
+Correct Answer: B.
+
+Solution:
+[math]\frac{d_{Y}^{2}}{d x^{2}}[/math]
+ এখানে, [math]y=\frac{\ln x}{x^{2}}[/math]
+ [math]\frac{d}{d x}\left(\frac{d}{d x}\left(\frac{\ln x}{x^{2}}\right)\right)[/math]
+ [math]\frac{d}{d x}\left(\ln x \frac{d}{d x}\left(\frac{1}{x^{2}}\right)+\frac{1}{x^{2}} \cdot \frac{d}{d x}(\ln x)\right)[/math]
+ [math]\frac{d}{d x}[/math]
+ [math]\left(\frac{2 \ln x}{x^{3}}+\frac{1}{x^{3}}\right)[/math]
+ [math]\frac{d}{d x}\left(\frac{2 \ln x}{x^{3}}\right)+\frac{d}{d x}\left(\frac{1}{x^{3}}\right)[/math]
+ [math]2\left(\ln x \cdot \frac{d}{d x}\left(\frac{1}{x^{3}}\right)+\frac{1}{x^{3}} \cdot \frac{d}{d x}(\ln x)\right)[/math]
+ [math]+\frac{d}{d x}\left(\frac{1}{x^{3}}\right)[/math]
+ [math]2\left(\ln x \cdot \frac{3}{x^{4}}+\frac{1}{x^{4}}\right)[/math]
+ [math]+\frac{3}{x^{3}}[/math]
+ [math]\frac{6 \ln x}{x^{4}}+\frac{5}{x^{4}}[/math]
+ [math]b \ln (x) \cdot x^{-4}+5 x^{-4}[/math]
+
+
+Explanation:
+[math]\frac{d^{2} y}{d x^{2}}[/math]
+ দ্বারা দ্বিতীয় অন্তরড বুঝিয়েছে [math]d x^{2}[/math]
+অর্থাৎ y ফাংশনটিকে 2 বার অন্তরীবরণ করতে হবে।এখানে, যে ঘন ব্যবহার করা হয়েছে–[math]\frac{d}{d x}(u v)=u \frac{d}{d x} v+v \frac{d}{d x} u[/math]
+ [math]u=\ln x[/math]
+ [math]v=\frac{1}{x^{2}}[/math]
+ [math]\frac{d}{d x}\left(x^{2}\right)=n x^{n-1}[/math]
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 397623)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\lim _{x \rightarrow \infty} x \sin \left(\frac{2}{x}\right)=?[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\begin{array}{l}\lim _{x \rightarrow \infty} \frac{x \sin _{x}^{2}}{x}=\lim _{x \rightarrow \infty} \frac{\sin \frac{2}{x}}{\frac{2}{x}} \times 2 \\=\lim _{\theta \rightarrow 0} \frac{\sin \theta}{\theta} \times 2 \\=1 \times 2-2\end{array}[/math]
+
+Explanation:
+As [math]x\to\infty[/math], [math]\frac{2}{x}\to0[/math], and using the small-angle limit [math]\lim_{t\to0}\frac{\sin t}{t}=1[/math] we get [math]\sin\left(\frac{2}{x}\right)\sim\frac{2}{x}[/math], so [math]\lim_{x\to\infty}x\sin\left(\frac{2}{x}\right)=\lim_{x\to\infty}x\cdot\frac{2}{x}=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 397624)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\lim _{x \rightarrow \infty} x \sin \left(\frac{2}{x}\right)=?[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\lim _{x \rightarrow \infty} x \sin \frac{2}{x}=\lim _{x \rightarrow \infty} \frac{\sin \frac{2}{x}}{\frac{2}{x}} \times 2[/math]
+ [math]\begin{array}{l}=\lim _{\theta \rightarrow 0} \frac{\sin \theta}{\theta} \times 2 \\=1 \times 2=2\end{array}[/math]
+
+
+Explanation:
+Let [math]t=\tfrac{2}{x}[/math], so as [math]x\to\infty[/math] we have [math]t\to 0[/math] and [math]x\sin\left(\tfrac{2}{x}\right)=2\frac{\sin t}{t}[/math]. Since [math]\lim_{t\to 0}\frac{\sin t}{t}=1[/math], the given limit equals [math]2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 793762)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x, y) = y2 - 4x - 6y + 20 , g(x) = x3 - 6x2 + 9x + 1ম. বো.'2023প্রশ্ন 7
+
+Options:
+ক. <p><span class="math-tex">\({d \over dx} \{(x^x)^x\}\)</span>&nbsp;নির্ণয় কর।</p>
+
+খ. <p>f(x, y) = 0 বক্ররেখার (3, 2) বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>g(x) ফাংশনটির লঘু ও গুরুমান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 793763)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = sinx.ম. বো.'2023প্রশ্ন 6
+
+Options:
+ক. <p><span class="math-tex">\(\lim \limits_{x \to { \pi \over  2}}{ {1 - f(x)} \over f' (x)}\)</span>&nbsp;এর মান নির্ণয় কর</p>
+
+খ. <p>মূল নিয়মে x এর সাপেক্ষে<span class="math-tex">\(1 \over  f(3x)\)</span> এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>y = f(a sin<sup>-1</sup> x )&nbsp;হলে দেখাও যে,<br />
+<span class="math-tex">\((1 - x^2) {d^2y \over dx^2} - x {dy \over dx} + a^2y = 0\)</span></p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 793764)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = (ax)n
+
+g(x) = 17-15x + 9x2 - x3রা. বো.'2023প্রশ্ন 6
+
+Options:
+ক. <p><span class="math-tex">\(y = \sqrt{ sin \sqrt x}\)</span>&nbsp;হলে&nbsp;<span class="math-tex">\(dy \over dx\)</span>&nbsp;নির্ণয় কর।</p>
+
+খ. <p>লিমিট এর সাহায্যে f(x) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>g(x) ফাংশনটি কোন ব্যবধিতে হ্রাস পায় এবং বৃদ্ধি পায় তাহা নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 793765)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: y(x - 2)(x-3)-x+7=0
+
+দৃশ্যকল্প-২: f(x) = x3-6x2- 15x + 10মাইলস্টোন কলেজ, ঢাকা'2023
+
+Options:
+ক. <p>y =&nbsp;<span class="math-tex">\(sin ^2 \{ln (x^2)\}\)</span> হলে, <span class="math-tex">\(dy \over dx\)</span> এর মান নির্ণয় কর।</p>
+
+খ. <p>দৃশ্যকল্প-১ এর বক্ররেখাটি যে বিন্দুতে x-অক্ষকে ছেদ করে, ঐ বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-২ এর আলোকে f(x) এর সর্বোচ্চ ও সর্বনিম্ন মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 793766)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: g(x) = sinx
+
+দৃশ্যকল্প-২: x = tan[math]\sqrt2y[/math]ঢা. বো.'2023প্রশ্ন 7
+
+Options:
+ক. <p>x এর সাপেক্ষে log<sub>x</sub>a এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>দৃশ্যকল্প-১ এর আলোকে 1+2g(x)+3[1- {g(x)}&sup2;] এর 0 &le; x &le;&nbsp;<span class="math-tex">\(\pi \over 2\)</span> ব্যবধিতে চরম মান নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-২ এর আলোকে প্রমাণ কর যে, (1 + x&sup2;)<sup>2</sup> y<sub>2</sub> + 2(1 + x<sup>2</sup>)xy<sub>₁</sub> = 1.</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 793767)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+3sin-1x = sin-1y এবং f(x) = 4x3 + 3x2-6x + 1আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা'2023
+
+Options:
+ক. <p>y =&nbsp;<span class="math-tex">\(1 \over x\)</span> হলে, y<sub>n</sub> এর মান নির্ণয় কর।</p>
+
+খ. <p>দেখাও যে, (1 - x&sup2;)y<sub>2</sub> - xy<sub>1</sub> +9y = 0.</p>
+
+গ. <p>f(x) এর চরমমান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 793768)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: f(x) = √x; দৃশ্যকল্প-২: h(x) = sinx.দি. বো.'2023প্রশ্ন 7
+
+Options:
+ক. <p>x এর সাপেক্ষে&nbsp;<span class="math-tex">\(\cos ^{-1} {1-x^2 \over 1+x^2}\)</span> এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>প্রমাণ কর যে, f(x) + f(y) = f(c) বক্ররেখার (a, b) বিন্দুতে অংকিত স্পর্শক কর্তৃক অক্ষদ্বয় হতে কর্তিত অংশের যোগফল c ।</p>
+
+গ. <p>y = 1 + 2h(x) + 3 [ 1 - { h(x) }<sup>2&nbsp;</sup>]&nbsp;ফাংশনটির&nbsp; <span class="math-tex">\([0, {\pi \over 2}]\)</span>&nbsp;ব্যবধিতে চরম মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 793769)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+h(x) = cos 3x,  u = tan-1 2xরা. বো.'2022
+
+Options:
+ক. <p>মান নির্ণয় কর:&nbsp;<span class="math-tex">\(\lim _\limits{x \to 0} {1 - cos 3x \over x^2}\)</span></p>
+
+খ. <p>মূল নিয়মে h(x) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>Iny = u হলে উদ্দীপকের আলোকে প্রমাণ কর যে,&nbsp;<span class="math-tex">\(\sec^2u.y_2 + 2y_1(2 \tan u -1) = 0\)</span></p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 793770)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প: f (x) = sinxম. বো.'2021প্রশ্ন 5
+
+Options:
+ক. <p><span class="math-tex">\(\lim _ \limits{x \to {\pi \over 2}} {1 - f(x) \over f'(x)}\)</span><sup>&nbsp;</sup> এর মান নির্ণয় কর।</p>
+
+খ. <p>মূল নিয়মে&nbsp;<span class="math-tex">\(f({\pi \over 2}-7x)\)</span> এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p><span class="math-tex">\(y = \sqrt{8+5f(2x)}\)</span>&nbsp; হলে&nbsp;<span class="math-tex">\(y {d^2y \over dx^2} + ({dy \over dx})^2 + 2y^2\)</span> এর মান&nbsp;নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 793771)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: [math]y = ax^2 + {b \over \sqrt x}[/math]
+
+দৃশ্যকল্প-২: দুটি সংখ্যার যোগফল 12; এদের একটি সংখ্যার ঘন এর সাথে অপর সংখ্যার গুণফল গরিষ্ঠ।দি. বো.'2021প্রশ্ন 6
+
+Options:
+ক. <p>দেখাও যে, x<sup>3&nbsp;</sup>- 3x<sup>2</sup> + 10x একটি ক্রমবর্ধমান ফাংশন।</p>
+
+খ. <p>প্রমাণ কর যে, 2x<sup>2</sup>y<sub>2</sub> - xy<sub>1</sub> = 2y.</p>
+
+গ. <p>দৃশ্যকল্প-২ এ উল্লিখিত সংখ্যা দুটি নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 793772)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+t = xx lnx, y = sin (m sin-1x)
+
+h(x) = 2x3 - 21x2 + 36x - 20চ. বো.'2021প্রশ্ন 6
+
+Options:
+ক. <p><span class="math-tex">\(dt \over dx\)</span>&nbsp;নির্ণয় কর।</p>
+
+খ. <p>প্রমাণ কর যে, (1 - x<sup>2</sup>) y<sub>2</sub> - xy<sub>1</sub> + m<sup>2</sup>y = 0.</p>
+
+গ. <p>h(x) এর সর্বোচ্চ ও সর্বনিম্ন মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 793773)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x, y) = x2 + px + y2, g(x) = tan-1 xব. বো.'2021প্রশ্ন 6
+
+Options:
+ক. <p><span class="math-tex">\(x ^ {1 \over x}\)</span> এর অন্তরজ বের কর।</p>
+
+খ. <p>দেখাও যে, f(x, y) = 0 বক্ররেখার যে সকল বিন্দুতে স্পর্শকগুলি x-অক্ষের উপর লম্ব, সে সকল বিন্দুর স্থানাঙ্ক (0, 0) এবং (- p, 0)</p>
+
+গ. <p>tan<sup>-1</sup> y = ng (x) হলে প্রমাণ কর যে, (1+x<sup>2</sup>) y<sub>2&nbsp;</sub>- 2 (ny - x) y<sub>1</sub> = 0</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 793774)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = sinx, g(x) = x3 - 3x2 - 45x + 13ঢাকা সিটি কলেজ'2023
+
+Options:
+ক. <p>x এর সাপেক্ষে <span class="math-tex">\(\sin ^{-1} \sqrt{xe^x}\)</span> এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>মূল নিয়মে x এর সাপেক্ষে f(2x) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>g(x) এর সর্বোচ্চ মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 793775)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]f(x) = \ln(x), g(x) = (x+ \sqrt{1 + x^2})[/math]কু. বো.'2023প্রশ্ন 7
+
+Options:
+ক. <p>x এর সাপেক্ষে ( cos<sup>-1&nbsp;</sup>&radic;x ) এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>উদ্দীপকের আলোকে মূল নিয়মে f(x) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>z = {g(x)}<sup>m</sup> হলে উদ্দীপকের আলোকে প্রমাণ কর যে,&nbsp;<span class="math-tex">\((1+x^2) {d^2z \over dx^2} + {x {dz \over dx}} - m^2z = 0\)</span></p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 793776)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = exঢা. বো.'2022প্রশ্ন 7
+
+Options:
+ক. <p>f&#39;(x) log2x f(2x) এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>মূল নিয়মে x এর সাপেক্ষে f(mx) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>y = f(sec<sup>-1</sup> x) হলে দেখাও যে,&nbsp;x<sup>2</sup>(x<sup>2</sup>-1)y<sub>2</sub> + x(2x<sup>2</sup> - 1) y<sub>1</sub> - y = 0</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 793777)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = ex, g(x, y) = x2 - y2 - 7ম. বো.'2022প্রশ্ন 7
+
+Options:
+ক. <p>a এর মান কত হলে, y = ax (1 - x) বক্ররেখার মূল বিন্দুতে। স্পর্শকটি x-অক্ষের সাথে 60&deg; কোণ উৎপন্ন করে?</p>
+
+খ. <p>g(x, y) = 0 বক্ররেখার (4,-3) বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>4f(x) + 9f(-x) এর লঘুমান কত?</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 793778)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+h(x) = cosx এবং p(x) = (x2 + 1) tan-1 x - xকু. বো.'2022প্রশ্ন 6
+
+Options:
+ক. <p>x এর সাপেক্ষে p(x) এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>প্রমাণ কর যে,&nbsp;<span class="math-tex">\(\lim _ \limits{x \to 0} {h(0) - 2h(x)+ h(2x) \over x^2} = -1\)</span></p>
+
+গ. <p><span class="math-tex">\(\sqrt 3 h ({\pi \over 2}-x) + 3h(x)\)</span>&nbsp;এর চরমমান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 793779)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+y = x3 - 3x + 2... ........ (i) এবং
+
+g(x) = x + 1/x .... .... ... (ii)মির্জাপুর ক্যাডেট কলেজ, টাঙ্গাইল'2023
+
+Options:
+ক. <p>x এর সাপেক্ষে <span class="math-tex">\(x ^ {\sin ^{-1}x}\)</span> এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>(i) নং বক্ররেখার স্পর্শক যে সকল বিন্দুতে x-অক্ষের সমান্তরাল তাদের স্থানাঙ্ক নির্ণয় কর।</p>
+
+গ. <p>(ii) নং হতে দেখাও যে, g(x) এর সর্বোচ্চ মান এর সর্বনিম্ন মান অপেক্ষা ছোট।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 793780)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = 3x3 - 6x2 - 5x + 2 এবং g(x, y) = x2 + y2 - 4x - 6y + 11
+
+Options:
+ক. <p><span class="math-tex">\(\lim_ \limits{x \to 0} {1 - \cos x \over 2x^2}\)</span>&nbsp;এর মান নির্ণয় কর।</p>
+
+খ. <p>যে যে ব্যবধিতে f(x) ফাংশনটি ক্রমবর্ধমান ও ক্রমহ্রাসমান, তা নির্ণয় কর।</p>
+
+গ. <p>(1, 2) বিন্দুতে g(x, y) = 0 বক্ররেখাটির স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 793781)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]f(x) = \log_ax[/math] এবং [math]y = \sqrt{3 \sin x + 4}[/math]
+
+Options:
+ক. <p>x এর সাপেক্ষে 2x&deg;cos3x&deg; এর অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>মূল নিয়মে f(x) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>প্রমাণ কর , 2yy<sub>2</sub> + 2y<sub>1</sub><sup>2</sup> + y<sup>2</sup> = 4</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 793782)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]f(x) = \sec 3x[/math] এবং [math]g(x) = {1 \over 3}x^3 + {1 \over 2}x^2 - 6x + 3[/math]
+
+Options:
+ক. <p><span class="math-tex">\(y = \log_x 5\)</span>&nbsp;হলে&nbsp;<span class="math-tex">\(dy \over dx\)</span>&nbsp;নির্ণয় কর।</p>
+
+খ. <p>মূল নিয়মে f(x) এর অন্তরক নির্ণয় কর।</p>
+
+গ. <p>g(x) ফাংশনটির চরমবিন্দু নির্ণয় কর। ইহা কোন ব্যবধিতে হ্রাস পায় এবং কোন ব্যবধিতে বৃদ্ধি পায় নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 793783)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: f(x) = x, g(x) = sinx
+
+দৃশ্যকল্প-২: n sin-1 x = sin -1 yচ. বো.'2023প্রশ্ন 6
+
+Options:
+ক. <p>মান নির্ণয় কর:&nbsp;<span class="math-tex">\(\lim_\limits{x \to \infty} {x^4  + 3x^2 -1 \over 3x^4 + x^3 - 2x}\)</span></p>
+
+খ. <p>দৃশ্যকল্প-১ হতে {f(x)} <sup>g(x)</sup> + {g(x)} <sup>f(x)</sup> এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-২ থেকে প্রমাণ কর যে, (1 - x<sup>2</sup>) y<sub>2&nbsp;</sub>- xy<sub>1</sub> + n<sup>2</sup>y = 0</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 793784)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = 3x2 - 6x2 – 5x + 2
+
+g(x, y) = x2 + y2 - 4x - 6y - 7ব. বো.'2023প্রশ্ন 6
+
+Options:
+ক. <p>মান নির্ণয় কর:&nbsp;<span class="math-tex">\(\lim_\limits{x \to 0} {1 - \cos x  \over  2 x^2}\)</span></p>
+
+খ. <p>x এর কোন মানের জন্য f(x) এর মান সর্বোচ্চ?</p>
+
+গ. <p>(-2,5) বিন্দুতে g(x, y) = 0 এর স্পর্শকের সমীকরণ নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 793785)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+z = sinx.ম. বো.'2022প্রশ্ন 6
+
+Options:
+ক. <p><span class="math-tex">\({d \over dx}(z^x)\)</span>&nbsp;নির্ণয় কর</p>
+
+খ. <p>মূল নিয়মে x এর সাপেক্ষে <span class="math-tex">\(1 \over z\)</span> এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>যদি y = x<sup>2</sup> হয়, তবে&nbsp;<span class="math-tex">\((1 - z^2) {d^2y \over dz^2} - z {dy \over dz} -2\)</span>&nbsp;&nbsp;এর মান&nbsp;নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 793786)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: y = acot(lnx)
+
+দৃশ্যকল্প-২: f(x) = x3 - 6x2 + 9x + 1ব. বো.'2022
+
+Options:
+ক. <p><span class="math-tex">\(7^{\cos^{-1}x}\)</span><sup>&nbsp;</sup> কে x এর সাপেক্ষে অন্তরজ নির্ণয় কর।</p>
+
+খ. <p>দৃশ্যকল্প-১ হতে দেখাও যে, x<sup>2</sup>y<sub>2</sub> + xy<sub>1</sub> = 2ycosec<sup>2</sup>(lnx)</p>
+
+গ. <p>দৃশ্যকল্প-২ এর ফাংশনটির লঘুমান ও গুরুমান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 793787)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f (x) = tanxরা. বো.'2021প্রশ্ন 5
+
+Options:
+ক. <p><span class="math-tex">\(y = \sin\{2 \tan ^{-1} \sqrt{({1-x \over 1+x})}\}\)</span><sup>&nbsp;</sup>হলে&nbsp; <span class="math-tex">\(dy \over dx\)</span>&nbsp;এর মান নির্ণয় কর।</p>
+
+খ. <p>মূল নিয়মে x এর সাপেক্ষে f(3x) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p><span class="math-tex">\(y = f(x) + \sqrt{f'(x)}\)</span>&nbsp; হলে&nbsp;প্রমাণ কর যে,&nbsp;<span class="math-tex">\((1- \sin x)y_2 - y = 0\)</span></p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 793788)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: sin-1 y = 5sin-1 x
+
+দৃশ্যকল্প-২: y = x3 - 6x2 - 15x + 10সি. বো.'2021প্রশ্ন 6
+
+Options:
+ক. <p>b এর মান কত হলে y = bx (x &ndash; 1) বক্ররেখার মূল বিন্দুতে স্পর্শকটি X-অক্ষের ধনাত্মক দিকের সাথে 45&deg; কোণ উৎপন্ন করবে?</p>
+
+খ. <p>দৃশ্যকল্প-১ এর আলোকে প্রমাণ কর যে, (1 - x<sup>2</sup>) y<sub>2</sub> - ху<sub>1</sub> + 25y = 0.</p>
+
+গ. <p>দৃশ্যকল্প-২ এর আলোকে y এর সর্বোচ্চ ও সর্বনিম্ন মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 793789)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: [math]f(x)  = a^2 e^{mx} + b^2e^{-mx}, a,b, m&gt;0[/math]
+
+দৃশ্যকল্প-২: x2 + y2 - 10x - 8y + 16 = 0 কু. বো.'2019প্রশ্ন 7
+
+Options:
+ক. <p><span class="math-tex">\(y = x ^{1 \over x}\)</span>&nbsp;হলে&nbsp;<span class="math-tex">\({dy \over dx} = ?\)</span></p>
+
+খ. <p>f(x) এর চরম মান নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-২ এর বক্ররেখাটির (10, 4) বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 793790)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: f(x) = 3x2 + 2x + 7
+
+দৃশ্যকল্প-২: g(x) = 54x - (2x - 7)3রা. বো.'2023প্রশ্ন 8
+
+Options:
+ক. <p>দেখাও যে,&nbsp;<span class="math-tex">\(\lim \limits_{x \to 0} {{\sqrt{1+2x}-\sqrt{1-3x}} \over x} = {5 \over 2}\)</span></p>
+
+খ. <p>দৃশ্যকল্প-১ এ y = f(x) বক্ররেখার (2, 23) বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-২ হতে ফাংশনটির গুরুমান ও লঘুমান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 793791)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-১: f(x) = sinx.
+
+দৃশ্যকল্প-২: [math]x = \sin ({1 \over m} \ln y)[/math]দি. বো.'2023
+
+Options:
+ক. <p><span class="math-tex">\(\lim \limits_{x \to  \infty} {7^x \sin {a \over 7^x}}\)</span>&nbsp;এর মান নির্ণয় কর।</p>
+
+খ. <p>দৃশ্যকল্প-১ এর আলোকে মূল নিয়মে&nbsp;<span class="math-tex">\(f({\pi  \over 2} - 2x ) \over f(2x)\)</span> অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-২ এর আলোকে প্রমাণ কর যে, (1 - x<sup>2</sup>)y<sub>2</sub> &ndash; xy<sub>1</sub> = m<sup>2</sup>y.</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 793792)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = sin xসি. বো.'2023প্রশ্ন 7
+
+Options:
+ক. <p>মান নির্ণয় কর:&nbsp;<span class="math-tex">\(\lim_\limits{x \to 0} {x^2 \over 1- \cos ax}\)</span></p>
+
+খ. <p>y = f(f(x)) হলে দেখাও যে,&nbsp;<span class="math-tex">\({d^2y \over dx^2} + {dy \over dx} \tan x+ [1 - \{f(x)^2\}]y = 0\)</span></p>
+
+গ. <p><span class="math-tex">\(0 \le x \le {\pi \over 2}\)</span>&nbsp;হলে&nbsp;<span class="math-tex">\(3 + 2 f(x)+3 \{f({\pi \over 2}-x)\}^2\)</span> এর চরম&nbsp;মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 793793)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]f(x) = a^{5x}, g(x) = {\sqrt{x \over 2a}} + \sqrt{y \over 2a} -1[/math]য. বো.'2023প্রশ্ন 6
+
+Options:
+ক. <p>মান নির্ণয় কর:&nbsp;<span class="math-tex">\(\lim_\limits{x \to a} {x^{3 \over 2} - a^{2 \over 2} \over  \sqrt{x} - \sqrt{a}}\)</span></p>
+
+খ. <p>লিমিটের সাহায্যে f(x) এর অন্তরজ নির্ণয় কর।</p>
+
+গ. <p>প্রমাণ কর যে, g(x) = 0 বক্ররেখার যে কোনো বিন্দুতে স্পর্শক দ্বারা অক্ষদ্বয়ের খণ্ডিতাংশের যোগফল একটি ধ্রুবক।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 793794)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+g(x) = x3 - 3xy + y3 - 3
+
+[math]f(x) = {2 \over 3}x^3 + {11 \over 2}x^2 - 6x + 5[/math]য. বো.'2022প্রশ্ন 6
+
+Options:
+ক. <p><span class="math-tex">\(\lim _\limits{x \to 0}{\sqrt{1+2x}- \sqrt{1-3x} \over x}\)</span>&nbsp;এর মান নির্ণয় কর।</p>
+
+খ. <p>উদ্দীপক হতে g(x) = 0 বক্ররেখাটির (2, 1) বিন্দুতে অঙ্কিত স্পর্শকের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>উদ্দীপক হতে f(x) ফাংশনের বৃহত্তম ও ক্ষুদ্রতম মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 793795)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-I: y(x + 1)(x+2) - x + 4 = 0
+
+দৃশ্যকল্প-II: h(x) = 2x3 - 3x2 - 12x + 1
+
+Options:
+ক. <p>y = secx হলে, প্রমাণ কর যে, y<sub>2</sub> = y(2y<sup>2</sup> - 1).</p>
+
+খ. <p>দৃশ্যকল্প-I এর বক্ররেখাটি যে বিন্দুতে x অক্ষকে ছেদ করে, ঐ বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-II এর ফাংশনের চরমমান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 793796)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+f(x) = (x + 2)(x-2) এবং g(x) = 2x3 - 3x2 - 12x + 1রংপুর ক্যাডেট কলেজ, রংপুর'2023
+
+Options:
+ক. <p>y = Ae<sup>3mx</sup> + Be<sup>-3mx</sup> হলে, y<sub>2</sub>&nbsp;- m<sup>2</sup>y এর মান নির্ণয় কর।</p>
+
+খ. <p>f(x) ও x-অক্ষের ধনাত্মক দিকের ছেদবিন্দুতে f(x) এর স্পর্শকের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>g(x) ফাংশনের চরম মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 793797)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প-I: y(x  + 1)(x + 2) - x + 4
+
+দৃশ্যকল্প-II: g(x) = 3x3 - 6x2 – 5x + 1রংপুর ক্যাডেট কলেজ, রংপুর'2023
+
+Options:
+ক. <p><span class="math-tex">\(\lim _ \limits{x \to {\pi \over 2}} {1 - \sin x \over \cos x}\)</span>&nbsp;এর মান নির্ণয় কর।</p>
+
+খ. <p>দৃশ্যকল্প-1 এ বর্ণিত বক্ররেখাটি যে বিন্দুতে x-অক্ষকে ছেদ করে, উক্ত বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>দৃশ্যকল্প-II এ বর্ণিত ফাংশনটির চরম মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 793798)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+H(x) = x(12 - 2x)2, y(x2 - 5x + 6) - x + 7 = 0 .... ..... ... (i)ঢাকা কলেজ'2023
+
+Options:
+ক. <p>x এর সাপেক্ষে অন্তরজ নির্ণয় কর: x<sup>y</sup>y<sup>x</sup> = 5</p>
+
+খ. <p>(i) নং বক্ররেখার (7, 0) বিন্দুতে স্পর্শক ও অভিলম্বের সমীকরণ নির্ণয় কর।</p>
+
+গ. <p>H(x) এর চরম মান নির্ণয় কর।</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 793799)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপক: g(x) = 9ex + 25e-x এবং  [math]h = \sqrt{5 + 3 \sin x}[/math]
+
+Options:
+ক. <p>x এর সাপেক্ষে x<sup>3x</sup> এর অন্তরক সহগ নির্ণয় কর।</p>
+
+খ. <p>g(x) এর চরমমান নির্ণয় কর।</p>
+
+গ. <p>h হতে প্রমাণ কর যে, 2hh<sub>2</sub> + 2h<sub>1</sub><sup>2</sup>+ h<sup>2</sup> = 5</p>
+
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+

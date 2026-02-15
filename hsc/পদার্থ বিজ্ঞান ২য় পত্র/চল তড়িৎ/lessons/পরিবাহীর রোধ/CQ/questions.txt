@@ -1,0 +1,1840 @@
+================================================================================
+Question #1 (ID: 422022)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Muminunisa Government Mohila College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. [math]20\ ohm[/math] রোধের দুই প্রান্তের বিভব পার্থক্য কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, রোধ, [math]R_1 = 10 \Omega[/math]
+রোধ, [math]R_2 = 5 \Omega[/math]
+রোধ, [math]R_3 = 20 \Omega[/math]
+রোধ, [math]R_4 = 10 \Omega[/math]
+রোধ, [math]R_5 = 10 \Omega[/math]
+তড়িচ্চালক শক্তি, E = 9Vএখানে, [math]R_1[/math]
+ ও [math]R_2[/math]
+ সমান্তরাল সমবায়ে যুক্ত বলে এদের তুল্যরোধ,[math]\begin{aligned}\frac{1}{R_{p}} & =\frac{1}{R_{1}}+\frac{1}{R_{2}} \\& =\frac{1}{10 \Omega}+\frac{1}{5 \Omega}=\frac{1+2}{10}=\frac{3}{10} \Omega\end{aligned}[/math]
+আবার, [math]R_P[/math]
+ ও [math]R_3[/math]
+ শ্রেণি সমবায়ে যুক্ত বলে এদের তুল্যরোধ,[math]\begin{aligned}\mathrm{R}_{\mathrm{s}} & =\mathrm{R}_{\mathrm{p}}+\mathrm{R}_{3} \\& =\frac{10}{3} \Omega+20 \Omega=\frac{10+60}{3} \Omega=\frac{70}{3} \Omega\end{aligned}[/math]
+আবার, [math]R_s[/math]
+ ও [math]R_4[/math]
+ সমান্তরাল সমবায়ে যুক্ত বলে এদের তুল্যরোধ,[math]\begin{aligned}\frac{1}{\mathrm{R}_{\mathrm{p}}^{\prime}} & =\frac{1}{\mathrm{R}_{s}}+\frac{1}{\mathrm{R}_{4}} \\& =\frac{3}{70} \Omega+\frac{1}{10} \Omega=\frac{3+7}{70} \Omega=\frac{10}{70} \Omega \\\therefore \quad \mathrm{R}_{\mathrm{p}}^{\prime} & =\frac{70}{10} \Omega=7 \Omega\end{aligned}[/math]
+আবার, [math]R^\prime_p[/math]
+ ও [math]R_5[/math]
+ শ্রেণিসমবায়ে যুক্ত বলে বর্তনীর তুল্যরোধ,[math]R_{s}^{\prime}=R_{p}^{\prime}+R_{s}=7 \Omega+10 \Omega=17 \Omega[/math]
+ [math]\therefore[/math]
+ বর্তনীতে প্রবাহিত তড়িৎ প্রবাহ, [math]I=\frac{E}{R_{s}^{\prime}}=\frac{9 V}{17 \Omega}=0.53 \mathrm{~A}[/math]
+ [math]R^\prime_p[/math]
+ এর দুই প্রান্তের বিভব পার্থক্য,[math]\begin{aligned}\mathrm{V} & =\mathrm{IR}_{\mathrm{p}}^{\prime} \\& =0.53 \mathrm{~A} \times 7 \Omega=3.7 \mathrm{~V}\end{aligned}[/math]
+ [math]20\Omega[/math]
+ রোধের মধ্য দিয়ে প্রবাহ, [math]I_{s}=\frac{V}{R_{s}}=\frac{3.7 V}{\frac{70}{3} \Omega}=0.158 \mathrm{~A}[/math]
+ [math]\therefore 20\Omega[/math]
+ রোধের দুই প্রান্তে বিভব পার্থক্য, [math]V^{\prime}=0.158 \times 20=3.17 \mathrm{~V}[/math]
+
+
+Explanation:
+দুঃখিত, আমি প্রদত্ত ছবিটি লোড করতে পারছি না; গ-এর জন্য বিভব পার্থক্য নির্ণয় করতে সার্কিটে ব্যাটারির ভোল্টেজ ও রোধগুলোর সংযোগ (সিরিজ/প্যারালাল) জানা প্রয়োজন। অনুগ্রহ করে ছবি পুনরায় আপলোড করুন বা সার্কিটের বিবরণ দিন, তারপর আমি সংক্ষিপ্তভাবে ধাপে ধাপে গণনা ও ব্যাখ্যা দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 422024)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021, 2021 | Boards: Chittagong Board | Tags: Chattogram Board, Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+রোধের উষ্ণতা সহগ কাকে বলে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+0°C তাপমাত্রার একক রোধের কোনো পরিবাহীর তাপমাত্রা প্রতি ডিগ্রী সেলসিয়াস বৃদ্ধির ফলে পরিবাহীর রোধের যে বৃদ্ধি ঘটে তাকে ঐ পরিবাহীর উপাদানের রোধের উষ্ণতা সহগ বলে।
+
+Explanation:
+ব্যাখ্যা: রোধের উষ্ণতা সহগ হল সেই পরিমাপ যা বলে কতটা হারে কোনো রোধের মান তাপমাত্রা প্রতি ইউনিট পরিবর্তনে বদলে যায়; গাণিতিকভাবে [math]α=\frac{ΔR}{R_0ΔT}[/math]। এটি রোধের তাপীয় সংবেদনশীলতা প্রকাশ করে—ধাতুগুলোর ক্ষেত্রে তাপ বাড়লে অণুগুলোর দোলনে ইলেকট্রন বিচ্ছিন্নতা বাড়ে ফলে রোধ বাড়ে, তাই α সাধারণত ধনাত্মক হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 422025)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021, 2018, 2018, 2018, 2018 | Boards: Chittagong Board, Dhaka Board, Dinajpur Board, Sylhet Board | Tags: Chattogram Board, Dhaka Board, Dinajpur Board, Sylhet Board, Jessore Board
+--------------------------------------------------------------------------------
+Question:
+আপেক্ষিক রোধ কাকে বলে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+কোনো নির্দিষ্ট তাপমাত্রায় একক দৈর্ঘ্যের ও একক প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট কোনো পরিবাহীর রোধকে ঐ তাপমাত্রায় পরিবাহীর উপাদানের আপেক্ষিক রোধ বলে।
+
+Explanation:
+আপেক্ষিক রোধ (রেসিস্টিভিটি) হলো কোনো পদার্থের বৈদ্যুতিক প্রবাহকে বাধা দেওয়ার অভ্যন্তরীণ ক্ষমতা, যা উপাদানের আকার-আকৃতি থেকে স্বাধীন একটি গুণমান। এর সঙ্কেতচিহ্ন [math]\rho[/math] এবং সংজ্ঞা হলো [math]\rho=\dfrac{R A}{L}[/math], যেখানে [math]R[/math] হলো প্রতিরোধ, [math]A[/math] হল অপরিবর্তিত ক্রস-অঞ্চল এবং [math]L[/math] হল দৈর্ঘ্য।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 422019)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10m[/math] দীর্ঘ এবং [math]25\Omega[/math] রোধের একটি পোটেনসিওমিটার তারের দু' প্রান্তের সাথে [math]4.8V[/math] বিদ্যুচ্চালক বলের একটি ব্যাটারি ও [math]35\Omega[/math] রোধ শ্রেণিতে যুক্ত আছে। তারের [math]8m[/math] ব্যবধানে নগণ্য অভ্যন্তরীণ রোধের একটি বিদ্যুৎ কোষের দু' প্রান্ত যুক্ত করলে কোষের ভিতর দিয়ে কোনো বিদ্যুৎ প্রবাহিত হয় না। কোষটির বিদ্যুচ্চালক বল নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.6V)[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+এখানে,তারের দৈর্ঘ্য, [math]L=10m[/math]
+রোধ, [math]R_{1}=25 \Omega[/math]
+রোধ, [math]R_{2}=35 \Omega[/math]
+পটেনশিওমিটারের দুই প্রান্তে যুক্ত ব্যাটারির বিভব [math]=4.8V[/math]
+বিদ্যুৎকোষের দুই প্রান্তের দূরত্ব, [math]l_{2}=8m[/math]
+ [math]\therefore l_{1} \mp \mathrm{L}-l_{2}=10 .-8=2 \mathrm{~m}[/math]
+পটেনশিওমিটার তারের দুই প্রান্তের বিভব, [math]E_{1}=?[/math]
+বিদ্যুৎ কোষের তড়িচ্চালক বল, [math]E_{2}=?[/math]
+ভোল্টেজ বিভাজন সূত্র হতে,[math]\begin{array}{l} E_{1}=\frac{R_{1}}{R_{1}+R_{2}} \times E \\ \Rightarrow F_{1}=\frac{25}{25+35} \times 4.8 \\ \therefore E_{1}=2 V \end{array}[/math]
+আবার,[math]\begin{array}{l} \frac{E_{1}}{\mathrm{E}_{2}}=\frac{\mathrm{L}}{l_{2}} \\ \Rightarrow \mathrm{E}_{2}=\mathrm{E}_{1} \times \frac{l_{2}}{\mathrm{~L}} \\ \Rightarrow \mathrm{E}_{2}=2 \times \frac{8}{10} \\ \therefore \mathrm{E}_{2}=1.6 \dot{\mathrm{V}} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+সিরিজে মোট প্রতিরোধ [math]35+25=60\Omega[/math], তাই ধারা হবে [math]I=\dfrac{4.8}{60}=0.08\ \text{A}[/math]. তারের ওপর মোট ভোল্টেজ পতন [math]V_{wire}=I\times25=0.08\times25=2.0\ \text{V}[/math], অতএব প্রতিটি মিটার ভোল্টেজ গ্রেডিয়েন্ট [math]0.2\ \text{V/m}[/math], আর [math]8\ \text{m}[/math] ব্যবধানে প্রান্তভেদ হবে [math]0.2\times8=1.6\ \text{V}[/math]. সেলে কোনো কারেন্ট না যায় মানে সেলের ইএমএফ ঐ প্রান্তভেদ সমান, তাই সেলের ইএমএফ [math]1.6\ \text{V}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 422020)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কোষের তড়িচ্চালক শক্তি [math]2V[/math]। এতে যখন [math]5A[/math] তড়িৎ প্রবাহিত হয়, তখন এর বিভব পার্থ ক্য [math]1.8V[/math] হয়। কোষের অভ্যন্তরীণ রোধ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.04 \ \Omega)[/math]
+
+Explanation:
+ব্যাখ্যা: কোষের ইএমএফ [math]ε=2\,V[/math], টার্মিনাল বিভব পার্থক্য [math]V=1.8\,V[/math] এবং প্রবাহ [math]I=5\,A[/math]। অভ্যন্তরীণ রোধ [math]r=(ε-V)/I=(2-1.8)/5=0.2/5=0.04\,Ω[/math] — কারণ অভ্যন্তরীণ ভোল্টেজ ড্রপই ইএমএফ ও টার্মিনালের পার্থক্য নির্ধারণ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 422021)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো বর্তনীতে [math]12 \Omega[/math] যোগ করলে বর্তনীর প্রবাহ [math]5:3[/math] অনুপাতে কমে যায়। বর্তনীর পূ র্বে রোধ কত ছিল এবং আর কত রোধ যোগ করলে প্রকৃত প্রবাহ অর্ধেক প্রবাহের অর্ধেক হবে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](18 \Omega, 6 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ধরি, পূর্বরোধ, [math]R_{1}=x \Omega[/math]
+এবং তড়িৎপ্রবাহ [math]=I_{1}[/math]
+ [math]12 \ \Omega[/math]
+যোগ করার পর রোধ, [math]R_{2}=(x+r)\Omega[/math]
+এবং তড়িৎপ্রবাহ [math]=I_{2}[/math]
+বিভব পার্থক্য [math]=V[/math]
+ [math]\\[/math]
+আমরা জানি,[math]I_{1}=\frac{V}{R_{1}}=\frac{V}{x}[/math]
+এবং [math]I_{2}=\frac{V}{R_{2}}=\frac{V}{x+12}[/math]
+ [math]\begin{array}{l} \therefore \frac{I_{1}}{I_{2}}=\frac{V / x}{V /(x+12)}=\frac{x+12}{x} \\ \Rightarrow \frac{5}{3}=\frac{x+12}{x} \\ \Rightarrow 5 x=3 x+36 \\ \Rightarrow 2 x=36 \\ \Rightarrow x=18 \end{array}[/math]
+এখানে,ধরি, আরো [math]y \ \Omega[/math]
+ রোধ যোগ করতে হবে।[math]y \ \Omega[/math]
+রোধ নতুন যোগ করলে নতুন প্রবাহ হবে [math]I_{3}[/math]
+ [math]\begin{array}{l} \therefore I_{1}=\frac{V}{18} \\ \therefore I_{3}=\frac{V}{30+y} \end{array}[/math]
+ [math]\begin{array}{l} \therefore I_{1}=\frac{V}{18} \\ \therefore I_{3}=\frac{V}{30+y} \end{array}[/math]
+ [math]\therefore \frac{I_{1}}{I_{3}}=\frac{\frac{V}{16}}{\frac{V}{30+y}}[/math]
+ [math]\begin{array}{l}\Rightarrow 2=\frac{30+y}{18}\\\Rightarrow 30+y=36\\\Rightarrow y=6\end{array}[/math]
+ [math]\therefore[/math]
+ আরো [math]6 \Omega[/math]
+ রোধ যোগ করতে হবে।
+
+Explanation:
+ব্যাখ্যা: প্রথমে নতুন প্রবাহ [math]I_2=(3/5)I_1[/math] হওয়ায় ধ্রুব ভোল্টেজে রোধের অনুপাত উল্টো হবে, তাই [math]R+12=(5/3)R[/math] থেকে [math]R=18\Omega[/math] পাওয়া যায়। পরবর্তীভাবে যদি প্রবাহটি আগের কম সদরে আরও অর্ধেক করা হয়, তাহলে নতুন প্রবাহ হবে [math]I_3=\tfrac12 I_2=\tfrac{3}{10}I_1[/math], ফলে মোট রোধ হবে [math]R_3=\tfrac{10}{3}R=60\Omega[/math] এবং অতিরিক্ত যোগ করতে হবে [math]60-(18+12)=30\Omega[/math]।
+
+ক প্রারম্ভিক রোধ: [math]18\Omega[/math]  
+খ অতিরিক্ত রোধ যোগ করতে হবে: [math]30\Omega[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 422000)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ব্যাটারির অভ্যন্তরীণ রোধ [math]1 \Omega[/math]। একটি ভোল্টমিটারের সাহায্যে এই ব্যাটারির তড়িচ্চা লক বল পরিমাপ করলে [math]1 \%[/math] ত্রুটি হয়। ভোল্টমিটারের রোধ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](99 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+[math]1 \%[/math]
+ ত্রুটি মানে হলো, প্রকৃত বিভব পার্থক্য [math]E[/math]
+ হলে ভোল্টমিটারের পাঠ, [math]V=E \times 99 \% = 0.99 E[/math]
+ব্যাটারির অভ্যন্তরীণ রোধ, [math]r=1 \Omega[/math]
+ধরি, ভোল্টমিটারের রোধ [math]R[/math]
+তড়িৎপ্রবাহ [math]I[/math]
+ হলে [math]\frac{V}{E}=0.99=\frac{99}{100}[/math]
+ [math][E=[/math]
+তড়িচ্চালক শক্তি [math]][/math]
+ [math]\begin{array}{l}\Rightarrow \frac{I R}{I(R+r)}=\frac{99}{100}\\\Rightarrow \frac{R+r}{R}=\frac{100}{99}\\\Rightarrow 100 \mathrm{R}=99 \mathrm{R}+99 \mathrm{r}\\\therefore \quad R=99 r=99 \times 1 \Omega=99 \Omega\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভোল্টমিটারের রোধ [math]R[/math] হলে পরিমাপিত ভোল্টেজ থাকে [math]V=\mathcal{E}\frac{R}{R+r}[/math], যেখানে ব্যাটারির অভ্যন্তরীণ রোধ [math]r=1\ \Omega[/math]। ত্রুটি দেওয়া অনুযায়ী [math]\dfrac{\mathcal{E}-V}{\mathcal{E}}=\dfrac{r}{R+r}=0.01[/math] থেকে সমাধান দিলে [math]R=r\left(\frac{1}{0.01}-1\right)=99r[/math] পাওয়া যায়। অতএব [math]r=1\ \Omega[/math] হলে ভোল্টমিটারের রোধ [math]R=99\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 422001)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বিদ্যুৎকোষের বিদ্যুচ্চালক শক্তি [math]1.5V[/math] । যখন বিদ্যুৎ কোষটি [math]1A[/math] বিদ্যুৎপ্রবাহ সরবরাহ ক রে তখন এর প্রান্ত দুটির বিভব পার্থক্য [math]1.2V[/math] তে নেমে আসে। কোষের অভ্যন্তরীণ রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.3 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখন, হারানো ভোল্টেজ [math]V'=(1.5-1.2)V=0.3V[/math]
+এখানে,বিদ্যুচ্চালক শক্তি, [math]E=1.5V[/math]
+বিদ্যুৎ প্রবাহমাত্রা, [math]I=1 \ A[/math]
+বিভব পার্থক্য, [math]V=1.2 V[/math]
+ধরি, বাহ্যিক রোধ, [math]R[/math]
+অভ্যন্তরীণ রোধ, [math]r=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]V'=Ir[/math]
+ [math]\begin{aligned} \therefore r & =\frac{V^{\prime}}{1}=\frac{0.3 V}{1 A} \\ & =0.3 \Omega \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি কেলে অভ্যন্তরীণ রোধ [math]r[/math] থাকলে ইএমএফ [math]\mathcal{E}[/math] ও প্রান্তিক ভোল্টেজ [math]V[/math] সম্পর্কিত সূত্র [math]\mathcal{E}=V+Ir[/math]. সুতরাং [math]r=(\mathcal{E}-V)/I=(1.5-1.2)/1=0.3\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 422002)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বিদ্যুৎ কোষের বিদ্যুচ্চালক বল [math]1.55V[/math] এবং অভ্যন্তরীণ রোধ [math]0.5 \ \Omega[/math]। এর সাথে কত ওহম রোধের একটি তার যুক্ত করলে [math]0.1A[/math] বিদ্যুৎ প্রবাহমাত্রা পাওয়া যাবে? কোষের হারানো বিভব কত হবে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](15 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,কোষের বিদ্যুৎচালক বল, [math]E=1.55V[/math]
+কোষের আভ্যন্তরীণ রোধ, [math]r=0.5 \ \Omega[/math]
+বিদ্যুৎ প্রবাহমাত্রা, [math]I=0.1 \ A[/math]
+তারের রোধ, [math]R=?[/math]
+হারানো বিভব, [math]=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]I=\frac{E}{R+r}[/math]
+ [math]\Rightarrow \ R+r=\frac{E}{I}[/math]
+ [math]\begin{aligned} \Rightarrow R & =\frac{E}{I}-r \\ & =\frac{1.55}{0.1}-0.5 \Omega \\ & =15 \Omega \text { (Ans.) } \end{aligned}[/math]
+আবার, কোষের হারানো বিভব [math]=\operatorname{Ir}=0.1 \times 0.5=0.05 \mathrm{~V} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ক সূত্র [math]I=\dfrac{E}{R+r}[/math] থেকে [math]R=\dfrac{E}{I}-r=\dfrac{1.55}{0.1}-0.5=15.0\ \Omega[/math]. খ কোষের হারানো বিভব হচ্ছে [math]V_{loss}=Ir=0.1\times0.5=0.05\ \text{V}[/math] (অতএব টার্মিনাল বিভব [math]V=E-Ir=1.55-0.05=1.50\ \text{V}[/math])
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 422003)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \ cm[/math] দীর্ঘ একটি ধাতব তারের রোধ [math]5 \ \Omega[/math]। তারটিকে টেনে দৈর্ঘ্য দ্বিগুণ করা হলে ওই তারের রোধ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](20 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তারের দৈর্ঘ্য, [math]L_{1}=10 \ cm[/math]
+তারের পরিবর্তিত দৈর্ঘ্য, [math]L_{2}=2 L_{1}=20 \mathrm{~cm}[/math]
+তারের আপেক্ষিক রোধ [math]= \rho[/math]
+তারের আয়তন [math]= \ V[/math]
+তারের প্রস্থচ্ছেদের ক্ষেত্রফল, [math]A_{1}=\frac{V}{L_{1}}[/math]
+তারের পরিবর্তিত প্রস্থচ্ছেদের ক্ষেত্রফল [math]A_{2}=\frac{V}{L_{2}}[/math]
+তারের রোধ, [math]R_{1}=5 \ \Omega[/math]
+তারের পরিবর্তিত রোধ, [math]R_{2}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\mathbf{R}=\frac{\rho \mathbf{l}}{\mathbf{A}}[/math]
+ [math]\therefore R_{1}=\frac{\rho L_{1}}{A_{1}}[/math]
+ এবং [math]R_{2}=\frac{\mathrm{L}_{2}}{A_{2}}[/math]
+ [math]\begin{array}{l} \therefore \frac{R_{2}}{R_{1}}=\frac{\rho L_{2}}{A_{2}} \times \frac{\mathrm{Al}}{\rho L_{1}} \\ =\frac{L_{2}}{L_{1}} \times \frac{A_{1}}{A_{2}} \\ =\frac{L_{2}}{L_{1}} \times \frac{V}{L_{1}} \times \frac{L_{2}}{V} \\ =\frac{\mathrm{L}^{2}_{2}}{\mathrm{~L}_{1}^{2}} \\ \therefore R_{2}=\frac{L_{2}^{2}}{\mathbf{L}_{1}} \times R_{1} \\ R_{3}=\left(\frac{L_{2}}{L_{1}}\right)^{2} \times R_{1}=\left(\frac{20}{10}\right)^{2} \times 5 \\ \therefore R_{2}=20 \Omega \text { (Ans.) } \\ \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রোধ [math]R=\rho\frac{L}{A}[/math], দৈর্ঘ্য দ্বিগুণ হলে ভলিউম অপরিবর্তিত থাকার কারণে ক্ষেত্রফল অর্ধেক হবে, তাই নতুন রোধ [math]R'=\rho\frac{2L}{A/2}=4\rho\frac{L}{A}=4R[/math]; ফলে [math]R'=4\times5\ \Omega=20\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 422004)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পোটেনশিওমিটার তারের দৈর্ঘ্য [math]100 \ cm[/math] এবং রোধ ও [math]6 \ \Omega[/math]। পোটেনশিওমি টার তারের সঙ্গে একটি পরিবর্তনশীল রোধ [math]R[/math] এবং [math]6 \ V[/math] তড়িচ্চালক বলবিশিষ্ট একটি ব্যাটারিকে শ্রেণি সমবায়ে যুক্ত করা হয়েছে। [math]R[/math]-এর মান [math]3.5 \ \Omega[/math] হলে [math]2.0 \ V[/math] তড়িচ্চালক বলের একটি কোষকে প্রতিমিত [math](balance)[/math] করতে নিস্পন্দ বিন্দুর অবস্থান কোথায় হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](72.22 \ cm)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,পোটেনশিওমিটারের তারের রোধ, [math]r=3 \ \Omega[/math]
+তারের দৈর্ঘ্য, [math]l=100 \ cm[/math]
+ [math]\\[/math]
+একক দৈর্ঘ্যের তারের রোধ,[math]\begin{array}{l}\sigma=\frac{r}{l}\\\Rightarrow \sigma=\frac{3}{100} \Omega \mathrm{cm}^{-1}\\\therefore \sigma=0.03 \Omega \mathrm{cm}^{-1}\end{array}[/math]
+আবার,এখানে,[math]\begin{array}{l} R_{1}=3+3.5 \Omega \\ =6.5 \Omega \end{array}[/math]
+নিঃস্পন্দ বিন্দুর দূরত্ব [math]=l_{2}[/math]
+ [math]\begin{array}{l} \therefore R_{2}=l_{2} \sigma \\ \mathrm{E}_{1}=6 \mathrm{~V} \\ \mathrm{E}_{2}=2 \mathrm{~V} \\ \therefore l_{2}=? \end{array}[/math]
+পোটেনশিওমিটারের ক্ষেত্রে,[math]\begin{array}{c} \frac{E_{1}}{E_{2}}=\frac{I R_{1}}{I R_{2}} \\ \Rightarrow \frac{E_{1}}{E_{2}}=\frac{R_{1}}{R_{2}} \\ \Rightarrow \frac{E_{1}}{E_{2}}=\frac{6.5}{l_{2}} \sigma \\ \Rightarrow l_{2}=\frac{6.5 E_{2}}{\sigma E_{1}} \\ \Rightarrow l_{2}=\frac{6.5 \times 2}{0.03 \times 6} \\ \therefore l_{2}=72.22 \mathrm{~cm} \end{array}[/math]
+সুতরাং নিস্পন্দ বিন্দুর দূরত্ব, [math]l_{2}=72.22 \ cm[/math]
+
+
+Explanation:
+সিরিজে মোট রোধ [math]6 + 3.5 = 9.5\ \Omega[/math], তাই ধারা [math]I = 6/9.5[/math] A। পোটেনশিওমিটার তারার উপর সম্পূর্ণ ভোল্টেজ [math]I×6 = 36/9.5 \approx 3.789\ V[/math], সুতরাং ভোল্টেজ গ্রেডিয়েন্ট = [math](36/9.5)/100 = 36/950 \approx 0.03789\ V/cm[/math]। তাই [math]2.0\ V[/math] সমতায় দৈর্ঘ্য হবে [math]l = 2.0/(36/950) = 1900/36 \approx 52.78\ cm[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 422005)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]25°C[/math] তাপমাত্রার টাংস্টেন তারের রোধ [math]75\Omega[/math]। [math]100^{\circ}C[/math] তাপমাত্রায় এর রোধ কত? টাংস্টেনের রোধের উষ্ণতা সহগ, [math]\alpha = 5 \times 10^{-3}/{}^{\circ}C[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](100 \Omega)[/math]
+
+Explanation:
+তাপমাত্রা অনুযায়ী রোধ বাড়ার সূত্রটি হল [math]R=R_0\,[1+\alpha\,(T-T_0)][/math]. এখানে [math]\Delta T=100-25=75\ ^{\circ}C[/math], তাই [math]R=75\,[1+5\times10^{-3}\times75]=75\times1.375=103.125\ \Omega[/math]. তাই [math]100^{\circ}C[/math]-এ রোধ হবে প্রায় [math]103.125\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 422006)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মোটর গাড়ির হেড লাইটের ফিলামেন্ট [math]5A[/math] তড়িৎ প্রবাহ বহন করে। এর প্রান্তদ্বয়ের বিভব পার্থক্য [math]6V[/math]। ফিলামেন্টের রোধ কত ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.2 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিভব পার্থক্য, [math]V=6V[/math]
+তড়িৎ প্রবাহ, [math]I=5A[/math]
+ [math]\\[/math]
+আমরা জানি,[math]V=IR[/math]
+ [math]\begin{aligned} \Rightarrow R & =\frac{V}{1} \\ & =\frac{6}{5} \\ & =1.2 \dot{\Omega} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ওমের সূত্র অনুযায়ী প্রতিরোধ [math]R = V/I[/math] যেখানে [math]V[/math] হল বিভব পার্থক্য এবং [math]I[/math] হল তড়িৎ প্রবাহ। তাই [math]R = 6\,\text{V} / 5\,\text{A} = 1.2\,\Omega[/math], অর্থাৎ ফিলামেন্টের রোধ [math]1.2\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 422007)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2V[/math] তড়িচ্চালক শক্তি ও [math]1[/math] ও'ম অভ্যন্তরীণ রোধের একটি তড়িৎ কোষকে [math]9\Omega[/math] রোধের একটি তারের সাথে সংযুক্ত করা হলো। রোধের মধ্যদিয়ে প্রবাহিত তড়িৎ ও এর দুই প্রান্তের বিভব পার্থক্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.8 \ volt)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, তড়িচ্চালক শক্তি, [math]E=2V[/math]
+অভ্যন্তরীণ রোধ, [math]r=1\Omega[/math]
+রোধ, [math]R=9\Omega[/math]
+তড়িৎ প্রবাহ, [math]I=?[/math]
+বিভব পার্থক্য, [math]V=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \mathbf{I} & =\frac{E}{R+r} \\ & =\frac{2 V}{9 \Omega+1 \Omega} \\ & =\frac{2 V}{10 \Omega} \\ & =0.2 \mathrm{~A} \text { (Ans.) } \end{aligned}[/math]
+এখন বিভব পার্থক্য,[math]\begin{aligned} V & =I R \\ & =0.2 \times 9 \\ & =1.8 \text { volt (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+বুঝানো: সার্কিটে মোট প্রতিরোধ হলো ধার্য বাহ্যিক ও অভ্যন্তরীণ রোধের যোগ, তাই ধারা হবে [math]I=\dfrac{2}{9+1}=[/math][math]0.2\ \text{A}[/math]। বাহ্যিক রোধের দুই প্রান্তের বিভব পার্থক্য হবে [math]V_{R}=I\times9=[/math][math]0.2\times9=1.8\ \text{V}[/math] (বা [math]2- I\times1=1.8\ \text{V}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 422008)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো একটি রোধকের মধ্যদিয়ে নির্দিষ্ট মাত্রায় তড়িৎ প্রবাহ চলছে। এর সাথে [math]120 \Omega[/math] রো ধ শ্রেণিবদ্ধভাবে যুক্ত করলে প্রবাহমাত্রা পূর্বের এক-তৃতীয়াংশ হয়। রোধকের রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](60 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,পুনরায় সংযুক্ত রোধ, [math]R_{2}=120 \Omega[/math]
+নতুন তড়িৎ প্রবাহ, [math]I=\frac{I_{0}}{3}[/math]
+ [math]\therefore[/math]
+ রোধ, [math]R_{1}=?[/math]
+ [math]\\[/math]
+ধরি, তড়িৎ প্রবাহ [math]=I_{0}[/math]
+রোধ [math]=R_{1}[/math]
+আমরা জানি,১ম ক্ষেত্রে, [math]V=I_{0} R_{1}[/math]
+২য় ক্ষেত্রে, [math]V=I\left(R_{1}+R_{2}\right)[/math]
+শর্তানুযায়ী, [math]I_{0} R_{1}=I\left(R_{1}+R_{2}\right)[/math]
+ [math]\begin{array}{l} \Rightarrow I_{0} R_{1}=\frac{I_{0}}{3}\left(R_{1}+R_{2}\right) \\ \Rightarrow 3 I_{0} R_{1}=I_{0} R_{1}+I_{0} R_{2} \\ \Rightarrow 2 I_{0} R_{1}=I_{0} R_{2} \\ \Rightarrow 2 R_{1}=R_{2} \\ \Rightarrow R_{1}=120 / 2=60 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: মূল রোধকে [math]R[/math] এবং উৎস ভোল্টেজকে [math]V[/math] ধরা হলে প্রাথমিক প্রবাহ [math]I=V/R[/math]। 120Ω সিরিজে যোগ করলে নতুন প্রবাহ [math]I'=V/(R+120)[/math] এবং দেয়া আছে [math]I'=\tfrac{1}{3}I[/math], তাই [math]\frac{V}{R+120}=\frac{1}{3}\cdot\frac{V}{R}[/math] => [math]\frac{1}{R+120}=\frac{1}{3R}[/math] => [math]3R=R+120[/math] => [math]R=60\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 422009)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমান্তরাল সংযোগে যুক্ত [math]5\Omega[/math] এবং [math]20\Omega[/math] রোধ দুটিকে [math]4V[/math] এর একটি তড়িৎ কোষের সাথে যুক্ত করা হলো । প্রথম রোধের ভেতর দিয়ে প্রবাহিত প্রবাহের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.8 \ A)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রথম রোধ, [math]R_{1}=5 \ \Omega[/math]
+উভয় রোধ পরস্পরের সাথে সমান্তরালে যুক্ত থাকায় এবং কোষের অভ্যন্তরীণ রোধ না থাকায়, প্রতিটি রোধের প্রান্তীয় বিভব পার্থক্য হবে কোষের তড়িচ্চালক বলের সমান, যা এক্ষেত্রে, [math]E=4V[/math]
+সুতরাং, ও'মের সূত্রানুসারে, [math]E=IR_{1}[/math]
+ [math]\therefore I=\frac{E}{R_{1}}=\frac{4 V}{5 \Omega}=0.8 \mathrm{~A} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরাল সংযোগে প্রতিটি রোধে ভোল্টেজ সমান থাকায় 5Ω রোধে ভোল্টেজ [math]4V[/math] থাকে। তাই প্রবাহ [math]I=\dfrac{V}{R}=\dfrac{4}{5}=0.8\ \text{A}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 422010)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20°C[/math] তাপমাত্রায় একটি কুণ্ডলীর রোধ [math]20 \Omega[/math]।রোধটিতে যখন [math]0°C[/math] তাপমাত্রায় [math]10V[/math] বিভব প্রভেদ প্রয়োগ করা হয়। তখন এর মধ্য দিয়ে বিদ্যুৎপ্রবাহের মান কত?(কুণ্ডলীর তাপমাত্রা গুণাঙ্ক [math]0.0043 °C^{-1}[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.543 A)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]20°C[/math]
+ তাপমাত্রায় রোধ, [math]R_{1}=20 \Omega[/math]
+তাপমাত্রা বৃদ্ধি, [math]\theta_{1}=(20-0){}^{\circ}C=20 \ K[/math]
+তাপমাত্রা গুণাঙ্ক, [math]\alpha = 0.0043 {}^{\circ}C^{-1}[/math]
+ [math]0°C[/math]
+ তাপমাত্রায় বিভব, [math]V_{o}=10V[/math]
+বিদ্যুৎ প্রবাহ, [math]I_{o}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} R_{1}=R_{0}\left(1+\alpha \theta_{1}\right) \\ \begin{aligned} \Rightarrow R_{0} & =\frac{R_{1}}{1+\alpha \theta_{1}} \\ & =\frac{20}{1+0.0043 \times 20} \\ & =18.42 \Omega \end{aligned} \end{array}[/math]
+আবার,[math]\begin{array}{l} V_{o}=I_{o} R_{o}\\\Rightarrow \mathrm{l}_{\mathrm{o}}=\frac{\mathrm{V}_{o}}{\mathrm{R}_{\mathrm{o}}}=\frac{10}{18.42}=0.543 \mathrm{~A} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তাপমাত্রার সাথে রোধের সরল সম্পর্ক ব্যবহার করে প্রথমে শূন্য ডিগ্রি সেলসিয়াসে রোধ নির্ণয় করি: [math]R_{20}=R_0[1+\alpha(20-0)]\Rightarrow R_0=\dfrac{20}{1+0.0043\times20}=\dfrac{20}{1.086}\approx18.42\ \Omega[/math]. তারপর ধারা [math]I=V/R[/math] দিয়ে পাওয়া যায় [math]I=\dfrac{10}{18.42}\approx0.543\ \text{A}[/math]; অর্থাৎ তাপমাত্রা কম হওয়ায় রোধ কমেছে এবং ধারা একটু বেশি হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 422011)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20°C[/math] তাপমাত্রা এবং [math]35°C[/math] তাপমাত্রায় একটি তারের কুণ্ডলীর রোধ যথাক্রমে [math]25 \Omega[/math] এবং [math]25.17\Omega[/math]। কুণ্ডলীটির তাপমাত্রা গুণাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](4.5 \times 10^{-4}{}^{\circ}C^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: তাপমাত্রা গুণাঙ্ক পাওয়া যায় [math]α=\frac{R_2-R_1}{R_1(T_2-T_1)}[/math] সূত্র থেকে; এখানে [math]α=\frac{25.17-25}{25\times(35-20)}=\frac{0.17}{375}=0.0004533\ \text{°C}^{-1}[/math]. ফলে কুণ্ডলীর তাপমাত্রা গুণাঙ্ক প্রায় [math]4.53\times10^{-4}\ \text{°C}^{-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 422012)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]100°C[/math] তাপমাত্রায় একটি তামার তারের রোধ [math]20\Omega[/math], তামার তারের তাপমাত্রা গুণাংক [math]4 \times 10^{-3}K^{-1}[/math] হলে [math]0°C[/math] তাপমাত্রায় তারটিতে রোধ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](14.29 \ \Omega)[/math]
+
+Explanation:
+ব্যাখ্যা: ধাতুর রোধ তাপমাত্রার সঙ্গে দৃঢ়ভাবে বাড়ে; সম্পর্কটি হল [math]R_T=R_0[1+\alpha(T-0)][/math], তাই [math]R_{100}=R_0[1+\alpha\times100][/math] এবং থেকে [math]R_0=\dfrac{R_{100}}{1+\alpha\times100}[/math]. সংখ্যাগুণ করে পাওয়া যায় [math]R_0=\dfrac{20}{1+4\times10^{-3}\times100}=\dfrac{20}{1.4}=14.29\ \Omega[/math], অর্থাৎ 0°C এ রোধ প্রায় [math]14.29\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 422013)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তামার তারের রোধ [math]20°C[/math] তাপমাত্রায় [math]1.75 \Omega[/math] । [math]0°C[/math] তাপমাত্রায় এর রোধ কত হবে? তামার রোধের তাপমাত্রা গুণাঙ্ক,
+
+[math]\alpha = 0.00393/C^{\circ}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.622 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]20^{\circ}C[/math]
+ তাপমাত্রার রোধ [math]R_\theta = 1.75 \ \Omega[/math]
+ [math]0^{\circ}C[/math]
+ তাপমাত্রার রোধ, [math]R_0 = ?[/math]
+রোধের তাপমাত্রার গুণাঙ্ক, [math]0.00393\ ^{\circ}C[/math]
+ [math]\\[/math]
+আমরা জানি, [math]\mathrm{R}_{\mathbf{0}}=\mathrm{R}_{0}(1+\alpha \theta)[/math]
+ [math]\Rightarrow 1.75 \Omega=R_{0}\left(1+0.00393 /{ }^{\circ} \mathrm{C} \times\right. 20^{\circ})[/math]
+ [math]\begin{array}{l}\Rightarrow 1.75 \Omega=1.0786 R_{0}\\\therefore R_{0}=\frac{1.75 \Omega}{1.0786}=1.622 \Omega \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তামার রোধ তাপমাত্রা অনুসারে বদলে যায় এবং সূত্রটি হলো [math]R_T=R_{T_0}\bigl(1+\alpha(T-T_0)\bigr)[/math]. এখানে [math]R_{20}=1.75\ \Omega[/math] এবং [math]\alpha=0.00393/^\circ C[/math], তাই [math]R_0=\dfrac{1.75}{1+0.00393\times20}\approx1.62\ \Omega[/math]; অর্থাৎ [math]0^\circ C[/math] এ রোধ প্রায় [math]1.62\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 422014)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তামার তারের রোধ [math]20°C[/math] তাপমাত্রায় [math]1.72 \ \Omega[/math] । এর তাপমাত্রা [math]100°C[/math] তে উন্নীত করা হলে- রোধ কত হবে? তামার রোধের তাপমাত্রা গুণাঙ্ক, [math]\alpha = 0.00393/°C[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2.22 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]20°C[/math]
+ তাপমাত্রায় তারের রোধ, [math]R_{20}=1.72 \ \Omega[/math]
+তারের তাপমাত্রা, [math]t=20^{\circ}C[/math]
+কোষের উষ্ণতা গুণাঙ্ক, [math]\alpha = 0.00393 / ^{\circ}C[/math]
+ [math]0^{\circ}C[/math]
+তাপমাত্রায় তারের রোধ [math]R_0 =?[/math]
+আমরা জানি,[math]\begin{array}{l} \alpha=\frac{\mathrm{R}_{20}-\mathrm{R}_{0}}{\mathrm{R}_{0} \mathrm{t}} \\ \Rightarrow 0.00393=\frac{1.72-\mathrm{R}_{0}}{\mathrm{R}_{\mathrm{o}} \times 20} \\ \Rightarrow 0.0786 \mathrm{R}_{0}=1.72-\mathrm{R}_{0} \\ \therefore \mathrm{R}_{0}=1.59 \Omega \quad \text { (Ans.) } \end{array}[/math]
+আবার, [math]0^{\circ}[/math]
+ তাপমাত্রায় রোধ[math]\begin{array}{l} R_{o}=1.59 \Omega \\ t=100^{\circ} \mathrm{C} \\ \alpha=0.00393 /{ }^{\circ} \mathrm{C} \end{array}[/math]
+ [math]100^{\circ}[/math]
+ তাপমাত্রায় , [math]R_{100}=?[/math]
+ [math]\begin{aligned} \mathrm{R}_{100} & =\mathrm{R}_{\mathrm{o}}(1+\alpha t) \\ & =1.59 \Omega\left(1+0.00393 /{ }^{\circ} \mathrm{C} \times 100^{\circ} \mathrm{C}\right)=2.22 \Omega \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তাপমাত্রা অনুযায়ী রোধ পরিবর্তনের সূত্র [math]R_T=R_0\,[1+\alpha(T-T_0)][/math] ব্যবহার করলে, [math]R_{100}=1.72[1+0.00393(100-20)]=1.72[1+0.00393\times80]=1.72\times1.3144=2.261\ \Omega[/math] (প্রায় [math]2.26\ \Omega[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 422015)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]15 \ \Omega[/math] রোধের একটি তারকে টেনে দৈর্ঘ্য দ্বিগুণ ও প্রস্থচ্ছেদ অর্ধেক করা হলো। তারপর তারটিকে সমান দুই অংশে বিভক্ত করে সমান্তরালে যুক্ত করা হলে, তুল্য রোধ কত হবে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](15 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তারের রোধ,তারের প্রস্থচ্ছেদ,দ্বিতীয় অবস্থায় তারটির রোধ,[math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \mathbf{R}=\rho \frac{\ell}{\mathrm{A}} \\ \therefore \rho \frac{\ell}{\mathrm{A}}=15 \Omega \end{array}[/math]
+আবার, দ্বিতীয়া অবস্থায় প্রতিটি অংশের রোধ [math]R_1[/math]
+ হলে আমরা পাই,[math]R_{1}=\rho \frac{\ell}{A_{1}}=\rho \frac{\ell}{\frac{A}{2}}[/math]
+[ [math]\because[/math]
+তার টেনে লম্বা করার পর এর অর্ধেক প্রাথমিক দৈর্ঘ্যের সমান ][math]=2 \times \rho \frac{\ell}{A}=2 \times 15=30 \Omega[/math]
+সমান্তরালে তারের অংশ দুটিকে যুক্ত করা হলো বলে আমরা পাই,[math]\begin{array}{l} \frac{1}{\mathbf{R}_{p}}=\frac{1}{\mathbf{R}_{1}}+\frac{1}{R_{1}}=\frac{1}{30}+\frac{1}{30}=\frac{2}{30}=\frac{1}{15} \\ \therefore \mathbf{R}_{\mathbf{p}}=15 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+R দৈর্ঘ্য ও প্রস্থচ্ছেদ অনুযায়ী [math]R \propto L/A[/math], তাই দৈর্ঘ্য দ্বিগুণ ও প্রস্থচ্ছেদ অর্ধেক হলে প্রতিক গুণিতক [math]2/(1/2)=4[/math] হবে এবং [math]15 \to 60\ \Omega[/math]। এটিকে সমান দুই ভাগ করলে প্রতিটি হবে [math]30\ \Omega[/math] এবং সমান্তরালে যুক্ত করলে সমতুল্য প্রতিরোধ হবে [math]R_{eq}=\frac{30\times30}{30+30}=15\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 422016)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো বর্তনীর বাইরের রোধ বর্তনীতে যুক্ত কোষের অভ্যন্তরীণ রোধের [math]\frac{2}{3}[/math] অংশ। কোষে র তড়িচ্চালক শক্তি অপরিবর্তিত রেখে অভ্যন্তরীণ রোধ অর্ধেক করলে বর্তনীর প্রবাহমাত্রা কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](\frac{10}{7})[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,অভ্যন্তরীণ রোধ [math]=r[/math]
+বর্তনীর বাইরের রোধ, [math]R=\frac{2r}{3}[/math]
+তড়িচ্চালক শক্তি [math]=E[/math]
+প্রথম ক্ষেত্রে, তড়িৎ প্রবাহ [math]=i_{1}[/math]
+দ্বিতীয় ক্ষেত্রে-অভ্যন্তরীণ রোধ, [math]r_{2}=\frac{r}{2}[/math]
+তড়িৎপ্রবাহ, [math]i_{2}=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} i_{1} & =\frac{E}{R+r} \\ & =\frac{E}{\frac{2 r}{3}+r} \\ & =\frac{E}{\frac{2 r+3 r}{3}} \\ & =\frac{3 E}{5 r} \end{aligned}[/math]
+আবার,[math]\begin{aligned} i_{2} & =\frac{E}{R+r_{2}} \\ & =\frac{E}{\frac{2 r}{3}+\frac{r}{2}} \\ & =\frac{E}{\frac{7 r}{6}} \\ & =\frac{6 E}{7 r} \end{aligned}[/math]
+ [math]\therefore \frac{i_{2}}{i_{1}}=\frac{\frac{6 E}{7 r}}{\frac{3 E}{5 r}}=\frac{10}{7}[/math]
+ [math]\therefore[/math]
+ দ্বিতীয় ক্ষেত্রে তড়িৎ প্রবাহ প্রথম ক্ষেত্রের প্রবাহের [math]\frac{10}{7}[/math]
+ গুণ হবে (Ans.)$
+
+Explanation:
+প্রথমে প্রাথমিক প্রবাহ: [math]R=\tfrac{2}{3}r[/math] হলে [math]I_1=\dfrac{E}{r+R}=\dfrac{E}{r+\tfrac{2}{3}r}=\dfrac{3E}{5r}[/math]. অভ্যন্তরীণ রোধ অর্ধেক হলে [math]r'=\tfrac{r}{2}[/math] এবং [math]I_2=\dfrac{E}{r'+R}=\dfrac{E}{\tfrac{r}{2}+\tfrac{2r}{3}}=\dfrac{6E}{7r}[/math]. তাই নতুন প্রবাহ পুরানো প্রবাহের [math]\dfrac{I_2}{I_1}=\dfrac{6E/7r}{3E/5r}=\dfrac{10}{7}[/math] গুণ — অর্থাৎ প্রবাহ [math]\tfrac{10}{7}[/math] গুণ বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 422017)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোন একটি রোধকের মধ্য দিয়ে নির্দিষ্ট মাত্রায় তড়িৎ প্রবাহ চলছে। এর সাথে [math]120\Omega[/math] রোধ শ্রেণিবদ্ধভাবে যুক্ত করলে প্রবাহমাত্রা পূর্বের এক-তৃতীয়াংশ হয়। রোধকের রোধ নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](60 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+ এখানে,পুনরায় সংযুক্ত রোধ, [math]R_{2}=120 \Omega[/math]
+নতুন তড়িৎ প্রবাহ, [math]I=\frac{I_{0}}{3}[/math]
+ [math]\therefore[/math]
+ রোধ, [math]R_{1}=?[/math]
+ [math]\\[/math]
+ধরি, তড়িৎ প্রবাহ [math]=I_{0}[/math]
+রোধ [math]=R_{1}[/math]
+আমরা জানি,১ম ক্ষেত্রে, [math]V=I_{0} R_{1}[/math]
+২য় ক্ষেত্রে, [math]V=I\left(R_{1}+R_{2}\right)[/math]
+শর্তানুযায়ী, [math]I_{0} R_{1}=I\left(R_{1}+R_{2}\right)[/math]
+ [math]\begin{array}{l} \Rightarrow I_{0} R_{1}=\frac{I_{0}}{3}\left(R_{1}+R_{2}\right) \\ \Rightarrow 3 I_{0} R_{1}=I_{0} R_{1}+I_{0} R_{2} \\ \Rightarrow 2 I_{0} R_{1}=I_{0} R_{2} \\ \Rightarrow 2 R_{1}=R_{2} \\ \Rightarrow R_{1}=120 / 2=60 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+সমাধান: ধরা যাক উৎসের ভোল্টেজ [math]V[/math] এবং মূল রোধ [math]R[/math] হলে প্রাথমিক প্রবাহ [math]I=\frac{V}{R}[/math]।  [math]120\ \Omega[/math] সিরিজ করলে নতুন প্রবাহ [math]I'=\frac{V}{R+120}=\frac{1}{3}I[/math] থাকে, তাই [math]\frac{V}{R+120}=\frac{1}{3}\cdot\frac{V}{R}[/math]।  V কেটে দিলে [math]\frac{1}{R+120}=\frac{1}{3R}[/math], সমাধান করলে [math]3R=R+120\Rightarrow R=60\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 422018)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \Omega,50 \Omega[/math] এবং [math]150\Omega[/math] রোধের তিনটি পরিবাহককে শ্রেণিতে সংযুক্ত করে দুই প্রান্তে [math]210V[/math] প্রয়োগ করা হয়েছে। পরিবাহক তিনটির প্রত্যেকটির দুই প্রান্তের বিভব পার্থক্য নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](10V,50V,150V)[/math]
+
+Explanation:
+ব্যাখ্যা: তিনটি রোধ পরিবাহক শ্রেণিতে (parallel) সংযুক্ত থাকায় তাদের উভয় প্রান্ত একই দুই নোডের সাথে সংযুক্ত থাকে এবং প্রত্যেক শাখায় সমান ভোল্টেজ পড়ে। অতএব [math]10\Omega,\,50\Omega,\,150\Omega[/math] প্রতিটিরই বিভব পার্থক্য হবে [math]210\;V[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 421994)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2V[/math] তড়িচ্চালক শক্তিবিশিষ্ট একটি তড়িৎ কোষের সাথে [math]800[/math] এর একটি বহিঃরোধ সংযুক্ত কর লে এর প্রান্তদ্বয়ের বিভব পার্থক্য [math]1.8V[/math] হয়। তড়িৎ কোষটির অন্তঃরোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.88 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তড়িচ্চালক শক্তি, [math]E=2V[/math]
+রোধ, [math]R=8 \Omega[/math]
+বিভব পার্থক্য, [math]V=1.8V[/math]
+তড়িৎ কোষের অন্তঃরোধ, [math]r=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]I=\frac{V}{R}=\frac{1.8}{8}=0.225 \mathrm{~A}[/math]
+এখন,[math]\begin{array}{l}I=\frac{E}{R+r}\\\Rightarrow R+r=\frac{E}{I}\\\Rightarrow r=\frac{E}{I}-R\\=\frac{2}{0.225}-8=0 .88 \Omega \end{array}[/math]
+
+
+Explanation:
+তত্ত্ব: তড়িৎকোষের ইএমএফ, টার্মিনাল ভোল্টেজ ও ধারা সম্পর্কিত ফর্মুলা [math]E=V+Ir[/math]। ধারা [math]I=\dfrac{1.8}{800}=0.00225\ \text{A}[/math] এবং তাই অন্তঃরোধ [math]r=\dfrac{2-1.8}{0.00225}\approx88.9\ \Omega[/math]; অর্থাৎ ভোল্টেজের মধ্যে [math]0.2V[/math] ঘাটতি একই ধারে বিভক্ত হওয়ায় অন্তঃরোধ এই মান পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 421995)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তামার তারের রোধ [math]20°C[/math] তাপমাত্রায় [math]1.72 \Omega[/math]। এর তাপমাত্রা [math]100°C[/math] উন্নীত করলে রোধ কত হবে? (রোধের উষ্ণতা গুণাঙ্ক
+
+[math]\alpha = 0.00393/^{\circ}C[/math]) [math][Hints[/math] প্রথমে [math]0°C[/math] তাপমাত্রায় রোধ বের করে নিতে হবে ]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.622 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]20^{\circ}C[/math]
+ তাপমাত্রার রোধ [math]R_\theta = 1.75 \ \Omega[/math]
+ [math]0^{\circ}C[/math]
+ তাপমাত্রার রোধ, [math]R_0 = ?[/math]
+রোধের তাপমাত্রার গুণাঙ্ক, [math]0.00393\ ^{\circ}C[/math]
+ [math]\\[/math]
+আমরা জানি, [math]\mathrm{R}_{\mathbf{0}}=\mathrm{R}_{0}(1+\alpha \theta)[/math]
+ [math]\Rightarrow 1.75 \Omega=R_{0}\left(1+0.00393 /{ }^{\circ} \mathrm{C} \times\right. 20^{\circ})[/math]
+ [math]\begin{array}{l}\Rightarrow 1.75 \Omega=1.0786 R_{0}\\\therefore R_{0}=\frac{1.75 \Omega}{1.0786}=1.622 \Omega \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+তামার তাপমাত্রাসরফক: [math]R_T=R_0(1+αT)[/math], তাই প্রথমে [math]0°C[/math]‑এ রোধ বের করলে [math]R_0=\dfrac{R_{20}}{1+α·20}=\dfrac{1.72}{1+0.00393·20}=\dfrac{1.72}{1.0786}\approx1.594\ \Omega[/math].  
+এরপর [math]100°C[/math]‑এ রোধ হবে [math]R_{100}=R_0(1+α·100)=1.594(1+0.00393·100)=1.594·1.393\approx2.22\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 421996)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি রোধকে শ্রেণি সমবায়ে যুক্ত করায় $7.5 \Omega এবং সমান্তরাল সমবায়ে যুক্ত করায় 0.662 রোধ পাওয়া গেল। রোধ দুটির পৃথক পৃথক মান বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](6.84\Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]\begin{array}{l} R_{s}=7.5 \Omega \\ R_{p}=0.6 \Omega \quad \therefore R_{1}=? R_{2}=? \end{array}[/math]
+আমরা জানি,[math]R_{S}=R_{1}+R_{2}=7.5 \Omega[/math]
+............(ii)এবং[math]\begin{array}{l}\frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}} \\\Rightarrow \quad \frac{1}{R_{p}}=\frac{R_{2}+R_{1}}{R_{1} R_{2}}\\\Rightarrow R_{p}=\frac{R_{1} R_{2}}{R_{1}+R_{2}}\\\Rightarrow 0.6 \Omega=\frac{R_{1} R_{2}}{7.5 \Omega}\\\Rightarrow \quad R_{1} R_{2}=4.5 \Omega\end{array}[/math]
+এখন,[math]\begin{aligned} \left(R_{1}-R_{2}\right)^{2} & =\left(R_{1}+R_{2}\right)^{2}-4 R_{1} R_{2} \\ & =(7.5)^{2}-4 \times 4.5 \\ & =56.25-18 \\ & =38.25 \end{aligned}[/math]
+ [math]\therefore \mathrm{R}_{1}-\mathrm{R}_{2}=6.184.............(ii)[/math]
+এখন [math](i)[/math]
+ ও [math](ii)[/math]
+ নং সমীকরণ সমাধান করে পাই-[math]\begin{array}{l} R_{1}+R_{2}=7.5 \Omega \\ R_{1}-R_{2}=6.184 \Omega \\ 2 R_{1}=13.685 \Omega \end{array}[/math]
+ [math]\begin{array}{l} \therefore \quad R_{1}=6.84 \Omega, R_{2}=7.5 \Omega-R_{1}=7.5 \Omega-6.84 \Omega=0.66 \Omega \\ R_{1}=6.84 \Omega R_{2}=0660 \end{array}[/math]
+অথবা, [math]R_{1}=0.66 \Omega, R_{2}=6.84 \Omega \text { (Ans.) }[/math]
+
+
+Explanation:
+সমাধান: ধরা যাক রোধ দুটো [math]R_1[/math] এবং [math]R_2[/math]; শ্রেণি সমবায়ে [math]R_1+R_2=7.5\ \Omega[/math] এবং সমান্তরাল সমবায়ে [math]\frac{R_1R_2}{R_1+R_2}=0.662\ \Omega[/math]।  
+দ্বিতীয় সমীকরণ থেকে গুণফল [math]R_1R_2=0.662\times7.5=4.965[/math] পাওয়া যায়, ফলে রুট সমীকরণটি হলো [math]R^2-7.5R+4.965=0[/math]।  
+এখন [math]R=\frac{7.5\pm\sqrt{7.5^2-4\cdot4.965}}{2}≈6.767\ \Omega\ \text{এবং}\ 0.734\ \Omega[/math], যা দুই রোধের মান।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 421997)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20°C[/math] তাপমাত্রায় একটি তারের রোধ [math]32 \Omega[/math] । [math]100^{\circ}[/math] তাপমাত্রায় তারটি উত্তপ্ত করলে রোধের পরিবর্তন হয় [math]0.22\Omega[/math]। তারটির তাপমাত্রা গুণাঙ্ক বের কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]8.74 \times 10^{-5}{ }^{\circ} \mathrm{C}^{-1}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]20^{\circ}C[/math]
+ তাপমাত্রায় রোধ, [math]R_{20}=32 \Omega[/math]
+ [math]0^{\circ}C[/math]
+ তাপমাত্রায় রোধ [math]R_0[/math]
+ হলে [math]100^{\circ}C[/math]
+তাপমাত্রায় রোধ,[math]R_{100}=R_{0}(1+100 \alpha).........(i)[/math]
+ [math][\alpha =[/math]
+ রোধের তাপমাত্রা সহগ [math]][/math]
+আবার,[math]R_{20}=R_{0}(1+20 \alpha).........(ii)[/math]
+ [math](i) \div (ii)[/math]
+ হতে, [math]\frac{R_{100}}{R_{20}}=\frac{1+100 \alpha}{1+20 \alpha}[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{1+100 \alpha}{1+20 \alpha}=\frac{32 \Omega+0.22 \Omega}{32 \Omega}=1.006875 \\ \Rightarrow 1+100 \alpha=1.006875+20.1375 \alpha \\ \Rightarrow 78.625 \alpha=0.006875 \\ \therefore \quad \alpha=\frac{0.006875}{78.625}=8.74 \times 10^{-5}{ }^{\circ} \mathrm{C}^{-1} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তাপমাত্রা অনুপাতে রোধের পরিবর্তনের সূত্র হলো [math]\Delta R = R_0\,\alpha\,\Delta T[/math]। এখানে [math]\Delta R=0.22\ \Omega,\ R_0=32\ \Omega,\ \Delta T=100-20=80\ ^\circ C[/math] বসালে [math]\alpha=\dfrac{0.22}{32\times 80}=\;8.59375\times10^{-5}\ ^\circ C^{-1}\approx8.6\times10^{-5}\ ^\circ C^{-1}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 421998)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]20°C[/math] তাপমাত্রায় একটি তামার তারের রোধ [math]3\Omega[/math] তাপমাত্রায় রোধ [math]3.94\Omega[/math]। তা মার রোধের উষ্ণতা গুণাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](0.000425 \ {}^{\circ}C^{-1})[/math]
+
+Explanation:
+ব্যাখ্যা: রোধের তাপীয় গুণাঙ্ক নির্ণয়ের সূত্র হল [math]R_t=R_0[1+\alpha(t-t_0)][/math] যেখানে [math]R_0=3\Omega[/math] at [math]t_0=20^\circ C[/math] এবং ধরা হলে [math]t=100^\circ C,\,R_t=3.94\Omega[/math]. তাই [math]\alpha=\frac{R_t/R_0-1}{t-t_0}=\frac{3.94/3-1}{80}=\frac{0.3133}{80}=3.9167\times10^{-3}\;^\circ C^{-1}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 421999)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]30°C[/math] তাপমাত্রায় একটি তামার তারের রোধ [math]4\Omega[/math] হলে [math]100°C[/math] তাপমাত্রায় রোধ কত হবে?দেওয়া আছে, তামার রোধের উষ্ণতা গুণাঙ্ক [math]=42.5 \times 10^{-4}{}^{\circ}C^{-1}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5.04 \Omega)[/math]
+
+Explanation:
+ব্যাখ্যা: তাপমাত্রা-নির্ভর রোধের সূত্র [math]R=R_0[1+\alpha (T-T_0)][/math] অনুযায়ী,  
+[math]R=4[1+42.5\times10^{-4}\times(100-30)]=4[1+0.00425\times70]=4(1.2975)=5.19\ \Omega[/math]. তামার রোধ তাপমাত্রা বাড়লে বৃদ্ধি পায়, তাই নতুন রোধ [math]5.19\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 421992)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+লিমা চিত্রানুযায়ী বর্তনী সংযোগ করে এবং রোধ পরিবর্তন করে অ্যামিটার ও ভোল্টমিটারের পাঠ পর্যবেক্ষণ করছিল। এ পর্যায়ে অ্যামিটারের পাঠ ছিল
+
+[math]5 \ A[/math] এবং ভোল্ট মিটার পাঠ ছিল [math]1.8V.[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত বর্তনীতে [math]R_h[/math] এর মান পরিবর্তন করলে ভোল্টমিটার ও অ্যামিটারের পাঠ কীরূপ পরিবর্তন হবে- লেখচিত্র অঙ্কন করে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘবর্তনীতে উৎসের সাথে স্থির মানের রোধ R এবং পরিবর্তনশীল রোধ [math]R_h[/math]
+, শ্রেণিতে যুক্ত। উৎসের তড়িচ্চালক বল E এবং অভ্যন্তরীণ রোধ r হলে বর্তনীতে প্রবাহ,[math]I=\frac{E}{R+R_{h}+r}[/math]
+ওপরের সমীকরণ থেকে দেখা যায়, বর্তনীতে তড়িৎ প্রবাহ, পরিবর্তনশীল রোধ [math]R_h[/math]
+, এর পরিবর্তনে পরিবর্তীত হবে। [math]R_h[/math]
+, বৃদ্ধি পেলে প্রবাহমাত্রা I হ্রাস পাবে এবং [math]R_h[/math]
+, হ্রাস পেলে প্রবাহমাত্রা I বৃদ্ধি পাবে।এখানে,[math]\begin{array}{l}E=1.8 \mathrm{~V} \\\mathrm{R}=0.36 \Omega \\r=0 \Omega\end{array}[/math]
+ [math]\therefore I=\frac{1.8}{0.36+R_{h}+0}[/math]
+I বনাম [math]R_h[/math]
+, লেখচিত্র হবে নিম্নরূপ-
+[Image]
+আবার, V বনাম [math]R_h[/math]
+ লেখচিত্র হবে নিম্নরূপ-[math]\begin{aligned}V & =I R \\& =\frac{0.36 \times 1.8}{R_{h}+0.36} \\& =\frac{0.648}{R_{h}+0.36}\end{aligned}[/math]
+
+[Image]
+
+
+Explanation:
+ঘ কারণ রিওস্ট্যাট [math]R_h[/math] বাড়ালে মোট প্রতিরোধ বাড়ে এবং ধারা হ্রাস পায়; অ্যামিটার পাঠ হবে [math]I=\dfrac{\mathcal{E}}{r+R+R_h}[/math] তাই [math]R_h[/math] বাড়ালে [math]I[/math] কমে। ভোল্টমিটার যদি স্থির রোধ [math]R[/math] জুড়ে থাকে তাহলে [math]V=IR[/math], ফলে ভোল্টমিটারটির পড়া অ্যামিটারের মতোই হ্রাস পাবে — গ্রাফে দুটোরই ধারা [math]R_h[/math] বাড়ার সাথে দ্রুত কমে যাওয়ার আকৃতি হবে এবং [math]V[/math] হলো [math]I[/math]-এর সাথে অনুপাতিক (স্কেলড) কাঠামো।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 421991)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কোষের অভ্যন্তরীণ রোধ 1 [math]\Omega[/math]। এর দুই প্রান্ত [math]10 \ \Omega[/math] রোধ দ্বারা যুক্ত ক রা হলে [math]0.2 \ A[/math] তড়িৎ প্রবাহ চলে। কোষের তড়িচ্চালক বল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2.2 \ V)[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+এখানে,তড়িচ্চালক বল, [math]E=?[/math]
+অভ্যন্তরীণ রোধ, [math]r=1 \Omega[/math]
+তড়িৎ প্রবাহ, [math]I=0.2 \ A[/math]
+আমরা জানি,[math]\begin{aligned} I & =\frac{E}{R+r} \\ \Rightarrow E & =I(R+r) \\ & =0.2 \mathrm{~A}(10+1) \Omega \\ \therefore E & =2.2 \mathrm{~V} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ব্যাটারির তড়িচ্চালক বল (EMF) হল টার্মিনাল ভোল্টেজ ও অভ্যন্তরীণ রোধে পড়া ভোল্টেজের যোগফল, তাই [math]E=I(R+r)[/math]। এখানে [math]E=0.2(10+1)=2.2\ \text{V}[/math], তাই EMF = [math]2.2\ \text{ভোল্ট}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 421982)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]A[/math] তারের দৈর্ঘ্য [math]B[/math] তারের দৈর্ঘ্যের দ্বিগুণ কিন্তু উপাদান ও প্রস্থচ্ছেদের ক্ষেত্রফল একই। উভয় বর্তনীতে একই তড়িচ্চালক বলের ব্যাটারি ব্যবহার করা হয়েছে।
+
+Options:
+গ. ১ ও ২ নং বর্তনীর তড়িৎ প্রবাহের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরা যাক A, B উভয় তারের প্রচ্ছেদের ক্ষেত্রফল ও আপেক্ষিক রোধ যথাক্রমে A ও [math]\rho[/math]
+ এবং B তারের দৈর্ঘ্য = LA তারের দৈর্ঘ্য = 2L. A তারের রোধ, [math]R_{A}=\frac{\rho 2 L}{A}[/math]
+এবং B তারের রোধ, [math]\mathrm{R}_{\mathrm{B}}=\frac{\rho \mathrm{L}}{\mathrm{A}}[/math]
+ [math]\begin{array}{l}\therefore \frac{R_{A}}{R_{B}}=\frac{\frac{\rho 2 L}{A}}{\frac{\rho L}{A}}=2\\\text{ } R_{A}=2 R_{B}\end{array}[/math]
+১ নং বর্তনীর তুল্যরোধ,[math]\begin{aligned}R_{1} & =\left(\frac{1}{2 R_{B}}+\frac{1}{R_{B}}\right)^{-1} \\& =\left(\frac{3}{2 R_{B}}\right)^{-1} \\& =\frac{2 R_{B}}{3}\end{aligned}[/math]
+২ নং বর্তনীর তুল্যরোধ , [math]R_2 = 2R_B+R_B = 3R_B[/math]
+উভয় বর্তনীতে যদি E তড়িচ্চালক কোষ ব্যবহার করা হয় তবে ১ নং বর্তনীর তড়িৎ প্রবাহ, [math]I_{1}=\frac{E}{R_{1}}=\frac{3 E}{2 R_{B}}[/math]
+এবং ২নং বর্তনীর তড়িৎ প্রবাহ, [math]I_{2}=\frac{E}{R_{2}}=\frac{E}{3 R_{B}}[/math]
+ [math]\therefore \frac{I_{2}}{I_{1}}=\frac{\frac{E}{3 R_{B}}}{\frac{3 E}{2 R_{b}}}=\frac{2}{9}[/math]
+ [math]I_{2}: I_{1}=2: 9[/math]
+ [math]I_{1}: I_{2}=9:2 (Ans.)[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ উভয় তারের উপাদান ও প্রস্থচ্ছেদ একই হলে [math]R=\rho L/A[/math], তাই [math]R_B=2R_A[/math]. একই তড়িচ্চালক বল হলে [math]I=E/R[/math] হওয়ায় [math]I_A=2I_B[/math],অর্থাৎ ১ নং বর্তনীর তড়িৎ প্রবাহ ২ নং বর্তনীর দ্বিগুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 421983)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]30°C[/math] তাপমাত্রায় [math]8 \Omega[/math] মানের একটি অ্যালুমিনিয়ামের তারকে একটি মিটার ব্রিজের ডান ফাঁকে লাগানো হয়েছে। বাম ফাঁকে [math]4 \Omega[/math] এর একটি স্থির মানের রোধের সাথে একটি অজ্ঞাত রোধ সিরিজে যুক্ত আছে। অ্যালুমিনিয়ামের উষ্ণতা সহগ [math]3.8 \times 10^{-3}K^{-1}[/math]
+
+Options:
+গ. বাম ফাঁকে সিরিজে যুক্ত রোধ কত হলে [math]40cm[/math] দূরে নিস্পন্দ বিন্দু পাওয়া যাবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,মিটার ব্রীজের ডান ফাঁকের রোধ, Q= 8 [math]\Omega[/math]
+বামপ্রান্ত হতে নিস্পন্দ বিন্দুর দূরত্ব, l = 40cmবাম ফাঁকে সিরিজে যুক্ত রোধদ্বয়ের একটির মান [math]P_1 = 4\Omega[/math]
+অপরটির মান, [math]P_2[/math]
+ = ?P ও P2 এর তুল্যরোধ P হলে,[math]\begin{array}{l}\frac{P}{Q}=\frac{l}{100-1} \\\begin{aligned}\text { } P & =\frac{1}{100-l} Q \\& =\frac{40}{100-40} \times 8 \Omega \\& =\frac{16}{3}\Omega\end{aligned}\end{array}[/math]
+তাহলে $P = P_1 + P_2 [ সিরিজে যুক্ত][math]\therefore P_{2}=P-P_{1}=\frac{16}{3} \Omega-4 \Omega=\frac{16-12}{3} \Omega=\frac{4}{3} \Omega \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: মিটার ব্রিজের সাম্যাবস্থা অনুযায়ী বাম ও ডান শাখার প্রতিরোধের অনুপাত হলো [math]\dfrac{x}{100-x}[/math], এখানে [math]x=40\;cm[/math], তাই [math]\dfrac{R_{\text{বাম}}}{R_{\text{ডান}}}=\dfrac{40}{60}=\dfrac{2}{3}[/math]. ডান শাখার প্রতিরোধ [math]8\;\Omega[/math] হলে বাম শাখা হবে [math]R_{\text{বাম}}=\dfrac{2}{3}\times 8=\dfrac{16}{3}\;\Omega[/math], অতএব অন্জাত রোধ = [math]\dfrac{16}{3}-4=\dfrac{4}{3}\;\Omega\;(=1.33\;\Omega)[math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 421984)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]30°C[/math] তাপমাত্রায় [math]8 \Omega[/math] মানের একটি অ্যালুমিনিয়ামের তারকে একটি মিটার ব্রিজের ডান ফাঁকে লাগানো হয়েছে। বাম ফাঁকে [math]4 \Omega[/math] এর একটি স্থির মানের রোধের সাথে একটি অজ্ঞাত রোধ সিরিজে যুক্ত আছে। অ্যালুমিনিয়ামের উষ্ণতা সহগ [math]3.8 \times 10^{-3}K^{-1}[/math]
+
+Options:
+ঘ. উদ্দীপকের অন্যকিছু পরিবর্তন না করে অ্যালুমিনিয়াম তারটির তাপমাত্রা [math]75°C[/math] করা হলে নিস্পন্দ বিন্দুর কোনো পরিবর্তন হবে কিনা বিশ্লেষণ কর ।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপকের অন্য কিছু পরিবর্তন না করে অ্যালুমিনিয়াম তারটির তাপমাত্রা 75°C হলে নিস্পন্দ বিন্দুর পরিবর্তন হবে, কারণ তাপমাত্রা বৃদ্ধির সাথে অ্যালুমিনিয়াম তারের রোধ (Q) পরিবর্তিত হওয়ায় এবং P (বাম ফাঁকের তুল্য রোধ)-এর পরিবর্তন না ঘটায় P/Q অনুপাতের তথা [math]\frac{l}{100-l}[/math]
+ অনুপাতের পরিবর্তন ঘটবে.উদ্দীপক মতে, অ্যালুমিনিয়ামের রোধের উষ্ণতা সহগ, [math]\alpha=3.8 \times 10^{-3} \mathrm{~K}^{-1}[/math]
+এখানে, তাপমাত্রার পরিবর্তন, AB = 75°C - 30°C = 45°C = 45Kরোধের আদি মান, Q = 8 [math]\Omega[/math]
+ডান ফাঁকের রোধের পরিবর্তিত মান, [math]\mathrm{Q}^{\prime}=\mathrm{Q}(1+\alpha \Delta \theta)[/math]
+ [math]=8 \Omega\left(1+3.8 \times 10^{-3} \mathrm{k}^{-1} \times 45\right)=9.368 \Omega[/math]
+এক্ষেত্রে, মিটার ব্রীজের বামপ্রান্ত থেকে নিস্পন্দ বিন্দুর দূরত্ব [math]l ^\prime[/math]
+ হলে,[math]\frac{\mathrm{P}}{\mathrm{Q}^{\prime}}=\frac{l^{\prime}}{100-l^{\prime}}[/math]
+ [math]\begin{array}{l}\text{ } \frac{100-l^{\prime}}{l^{\prime}}=\frac{\mathrm{Q}^{\prime}}{\mathrm{P}}=\frac{9.368 \Omega}{\frac{16}{3} \Omega}=1.76\\\text{ } \frac{100}{l^{\prime}}-i=1.761 \text{ } \frac{100}{l^{\prime}}=1.76+1=2.76\end{array}[/math]
+ [math]\therefore l^\prime = \frac {100}{2.76} = 36.23 cm[/math]
+সুতরাং, নিস্পন্দ বিন্দুর দূরত্বের পরিবর্তন = [math]l – l^prime = 40cm - 36.23 cm = 3.77cm[/math]
+
+
+Explanation:
+ঘ ব্যাখ্যা: মিটার ব্রিজের সমতোলন শর্ত হল বাম ও ডান রোধের অনুপাত মিটার-তার লম্বার অনুপাতের সমান; অ্যালুমিনিয়ামের রোধ তাপমাত্রা বাড়লে [math]R[/math] বদলে যায়। এখানে [math]ΔT=75-30=45\;K[/math] এবং [math]R=8\big(1+3.8\times10^{-3}\times45\big)\approx9.37\;Ω[/math], তাই ডান রোধ বৃদ্ধি পেয়ে ব্রিজের সমতোলন বিঘ্নিত হবে এবং নিস্পন্দ বিন্দু বদলে যাবে (সাধারণত নিস্পন্দ বিন্দু বামের দিকে সরে যাবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 421985)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তামার তারের রোধ [math]20°C[/math] তাপমাত্রায় [math]1.75 \Omega ।[/math]0°C$ তাপমাত্রায় এর রোধ কত হবে? তামার রোধের তাপমাত্রা গুণাঙ্ক,
+
+[math]\alpha = 0.00393/C°[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.622 \ \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]20^{\circ}C[/math]
+ তাপমাত্রার রোধ [math]R_\theta = 1.75 \ \Omega[/math]
+ [math]0^{\circ}C[/math]
+ তাপমাত্রার রোধ, [math]R_0 = ?[/math]
+রোধের তাপমাত্রার গুণাঙ্ক, [math]0.00393\ ^{\circ}C[/math]
+ [math]\\[/math]
+আমরা জানি, [math]\mathrm{R}_{\mathbf{0}}=\mathrm{R}_{0}(1+\alpha \theta)[/math]
+ [math]\Rightarrow 1.75 \Omega=R_{0}\left(1+0.00393 /{ }^{\circ} \mathrm{C} \times\right. 20^{\circ})[/math]
+ [math]\begin{array}{l}\Rightarrow 1.75 \Omega=1.0786 R_{0}\\\therefore R_{0}=\frac{1.75 \Omega}{1.0786}=1.622 \Omega \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তামার রোধের তাপমাত্রা সম্পর্ক ব্যবহার করে [math]R_{T_2}=R_{T_1}[1+\alpha(T_2-T_1)][/math]। এখানে [math]T_1=20^\circ C,\;R_{20}=1.75\Omega,\;T_2=0^\circ C[/math], তাই
+
+[math]R_0=\dfrac{1.75}{1+\alpha(0-20)}=\dfrac{1.75}{1-20\alpha}=\dfrac{1.75}{1-20(0.00393)}=\dfrac{1.75}{0.9214}\approx1.90\Omega.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 421986)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি তামার তারের রোধ [math]20°C[/math] তাপমাত্রায় [math]1.72 \ \Omega[/math] । এর তাপমাত্রা [math]100°C[/math] তে উন্নীত করা হলে- রোধ কত হবে? তামার রোধের তাপমাত্রা গুণাঙ্ক, [math]\alpha = 0.00393/°C[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2.22 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]20°C[/math]
+ তাপমাত্রায় তারের রোধ, [math]R_{20}=1.72 \ \Omega[/math]
+তারের তাপমাত্রা, [math]t=20^{\circ}C[/math]
+কোষের উষ্ণতা গুণাঙ্ক, [math]\alpha = 0.00393 / ^{\circ}C[/math]
+ [math]0^{\circ}C[/math]
+তাপমাত্রায় তারের রোধ [math]R_0 =?[/math]
+আমরা জানি,[math]\begin{array}{l} \alpha=\frac{\mathrm{R}_{20}-\mathrm{R}_{0}}{\mathrm{R}_{0} \mathrm{t}} \\ \Rightarrow 0.00393=\frac{1.72-\mathrm{R}_{0}}{\mathrm{R}_{\mathrm{o}} \times 20} \\ \Rightarrow 0.0786 \mathrm{R}_{0}=1.72-\mathrm{R}_{0} \\ \therefore \mathrm{R}_{0}=1.59 \Omega \quad \text { (Ans.) } \end{array}[/math]
+আবার, [math]0^{\circ}[/math]
+ তাপমাত্রায় রোধ[math]\begin{array}{l} R_{o}=1.59 \Omega \\ t=100^{\circ} \mathrm{C} \\ \alpha=0.00393 /{ }^{\circ} \mathrm{C} \end{array}[/math]
+ [math]100^{\circ}[/math]
+ তাপমাত্রায় , [math]R_{100}=?[/math]
+ [math]\begin{aligned} \mathrm{R}_{100} & =\mathrm{R}_{\mathrm{o}}(1+\alpha t) \\ & =1.59 \Omega\left(1+0.00393 /{ }^{\circ} \mathrm{C} \times 100^{\circ} \mathrm{C}\right)=2.22 \Omega \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তাপমাত্রা বৃদ্ধির সঙ্গে রোধের পরিবর্তন সূত্রটি [math]R_T=R_0\,[1+\alpha(T-T_0)][/math]। এখানে [math]R_0=1.72\ \Omega,\ T_0=20°C,\ T=100°C,\ \alpha=0.00393/°C[/math], সুতরাং [math]R=1.72[1+0.00393(100-20)]=1.72(1+0.3144)=1.72\times1.3144\approx2.261\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 421988)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.48[/math] মিটার দীর্ঘ [math]0.12[/math] মিলিমিটার ব্যাসের একটি তারের রোধ [math]15[/math] ওহম। তারটির উপাদানের আপেক্ষিক রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3.53 \times 10^{-7}\Omega .m)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তারের দৈর্ঘ্য, [math]L=0.48 \ m[/math]
+ব্যাস, [math]d=0.12 \ mm[/math]
+ [math]\therefore[/math]
+ ব্যাসার্ধ,[math]\begin{aligned} \mathrm{r}= & \frac{\mathrm{d}}{2}=\frac{0.12}{2} \mathrm{~mm} \\ & =0.06 \mathrm{~mm} \\ & =6 \times 10^{-5} \mathrm{~m} \end{aligned}[/math]
+রোধ, [math]R=15 \ \Omega[/math]
+আপেক্ষিক রোধ, [math]\rho =?[/math]
+আমরা জানি,[math]\begin{array}{l} \rho=\frac{\mathrm{RA}}{\mathrm{L}} \\ =\frac{\mathrm{R} \times \pi \mathrm{r}^{2}}{\mathrm{~L}} \\ =\frac{15 \times 3.1416 \times\left(6 \times 10^{-5}\right)^{2}}{0.48} \Omega \cdot \mathrm{m} \\ =3.53 \times 10^{-7} \Omega \cdot \mathrm{m}(\text { Ans. }) \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: উপাদানের আপেক্ষিক রোধ নির্ণয়ের সূত্র [math]\rho = R\frac{A}{L}[/math]; ক্রস-এলাকা হিসাব করতে [math]A=\pi r^2=\pi(0.06\times10^{-3}\,\text{m})^2\approx1.13\times10^{-8}\,\text{m}^2[/math]. তাই [math]\rho = 15\times\frac{1.13\times10^{-8}}{0.48}\approx3.53\times10^{-7}\,\Omega\cdot\text{m}[/math], যা দেওয়া রোধ ও মাত্রা থেকে সঠিক ফলাফল।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 421989)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1mm[/math] ব্যাস ও [math]49 \times 10^{-3} \Omega[/math]- [math]m[/math] আপেক্ষিক রোধ বিশিষ্ট তারের কতটুকু দৈর্ঘ্য দিয়ে [math]7\Omega[/math] রোধের একটি কুন্ডলী তৈরি করা যায়?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.122 \times 10^{-4}m.)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ব্যাসার্ধ, [math]r=\frac{1}{2}mm[/math]
+ [math]=0.5 \times 10^{-3}m[/math]
+আ.রোধ, [math]\rho =49 \times 10^{-3}\Omega \ m[/math]
+তারের রোধ, [math]R=7\Omega[/math]
+তারের দৈর্ঘ্য, [math]L=?[/math]
+আমরা জানি,[math]\begin{array}{l} R=\rho \frac{L}{A} \\ \quad=\rho \frac{L}{\pi r^{2}}\left[\because A=\pi r^{2}\right] \\ \begin{aligned} L & =\frac{R \times \pi r^{2}}{\rho} \\ & =\frac{7 \Omega \times \pi \times\left(0.5 \times 10^{-3} \mathrm{~m}\right)^{2}}{49 \times 10^{-3} \Omega \mathrm{m}} \\ \therefore L & =1.122 \times 10^{-4} \mathrm{~m} . \text { (Ans.) } \end{aligned} \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তন্তুর প্রতিরোধের সূত্র [math]R=\rho\frac{L}{A}[/math], তাই [math]L=\dfrac{RA}{\rho}[/math]। তন্তুর ব্যাস [math]d=1\ \text{mm}=1\times10^{-3}\ \text{m}[/math] হলে [math]A=\pi\left(\dfrac{d}{2}\right)^2=\pi(0.5\times10^{-3})^2=7.85398\times10^{-7}\ \text{m}^2[/math] এবং তাই [math]L=\dfrac{7\times7.85398\times10^{-7}}{49\times10^{-3}}=1.122\times10^{-4}\ \text{m}\approx0.112\ \text{mm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 421990)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]15 \ \Omega[/math] রোধের একটি তারকে টেনে দৈর্ঘ্য দ্বিগুণ ও প্রস্থচ্ছেদ অর্ধেক করা হলো। তারপর তারটিকে সমান দুই অংশে বিভক্ত করে সমান্তরালে যুক্ত করা হলে, তুল্য রোধ কত হবে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](15 \Omega)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,তারের রোধ,তারের প্রস্থচ্ছেদ,দ্বিতীয় অবস্থায় তারটির রোধ,[math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} \mathbf{R}=\rho \frac{\ell}{\mathrm{A}} \\ \therefore \rho \frac{\ell}{\mathrm{A}}=15 \Omega \end{array}[/math]
+আবার, দ্বিতীয়া অবস্থায় প্রতিটি অংশের রোধ [math]R_1[/math]
+ হলে আমরা পাই,[math]R_{1}=\rho \frac{\ell}{A_{1}}=\rho \frac{\ell}{\frac{A}{2}}[/math]
+[ [math]\because[/math]
+তার টেনে লম্বা করার পর এর অর্ধেক প্রাথমিক দৈর্ঘ্যের সমান ][math]=2 \times \rho \frac{\ell}{A}=2 \times 15=30 \Omega[/math]
+সমান্তরালে তারের অংশ দুটিকে যুক্ত করা হলো বলে আমরা পাই,[math]\begin{array}{l} \frac{1}{\mathbf{R}_{p}}=\frac{1}{\mathbf{R}_{1}}+\frac{1}{R_{1}}=\frac{1}{30}+\frac{1}{30}=\frac{2}{30}=\frac{1}{15} \\ \therefore \mathbf{R}_{\mathbf{p}}=15 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রোধ [math]R\propto L/A[/math] হওয়ায় দৈর্ঘ্য দ্বিগুণ ও ক্ষেত্রফল অর্ধে করলে রোধ চারগুণ হয়, তাই [math]R'=15\times4=60\ \Omega[/math]. এটিকে সমান দুই অংশে করলে প্রতিটি অংশের রোধ [math]60/2=30\ \Omega[/math] হয় এবং দুইটি সমান্তরালে যুক্ত করলে [math]1/R_{eq}=1/30+1/30=1/15\,\Rightarrow\,R_{eq}=15\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 421980)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+তারটির উপাদানের আপেক্ষিক রোধ [math]49 \times 10^{-8} \Omega.m[/math]
+
+Options:
+ঘ. প্রদত্ত ভারটির সাহায্যে কীভাবে 5 Ω রোধ তৈরি করা যায় গাণিতিক বিশ্লেষণসহ মতামত দাও ৷
+
+
+Correct Answer: 
+
+Solution:
+ঘআমরা জানি, উপাদান ঠিক থাকলে পরিবাহীর রোধ এর দৈর্ঘ্য এবং প্রস্থচ্ছেদের ক্ষেত্রফলের ওপর নির্ভর করে। দৈর্ঘ্য বৃদ্ধি ও প্রস্থচ্ছেদের ক্ষেত্রফল হ্রাস পেলে পরিবাহীর রোধ বৃদ্ধি পায়। একটি তারের দৈর্ঘ্যা বৃদ্ধি পেলে এর প্রশ্নচ্ছেদের ক্ষেত্রফল হ্রাস পায় কিন্তু আয়তন ঠিক থাকে।ধরা যাক, তারের রোধ [math]5 \Omega[/math]
+ হতে হলে এর দৈর্ঘ্য [math]L^{\prime}[/math]
+ এবং প্রস্থচ্ছেদের ক্ষেত্রফল [math]A^{\prime}[/math]
+ । সুতরাং,[math]\begin{array}{l}L^{\prime} \times A^{\prime}=2 \mathrm{~m} \times 5 \times 10^{-6} \mathrm{~m}^{2}=1 \times 10^{-5}\mathrm{~m}^{3}\\A^{\prime}=\frac{1 \times 10^{-5} \mathrm{~m}^{3}}{L^{\prime}}\end{array}[/math]
+আবার, [math]5 \Omega=\rho \frac{L^{\prime}}{A^{\prime}}=49 \times 10^{-8} \Omega \cdot m \frac{\left.(L)^{\prime}\right)^{2}}{1 \times 10^{-5} \mathrm{~m}^{3}}[/math]
+ [math]\begin{array}{l}\text{ } 4.9 \times 10^{-2} \times\left(L^{\prime}\right)^{2}=5 \mathrm{~m}^{2}\\\text{ } (L^ \prime )^{2}=102 \mathrm{~m}^{2}\end{array}[/math]
+ [math]\begin{aligned}\therefore L^{\prime}=10.10 \mathrm{~m} \\\quad A^{\prime}=\frac{L \times 10^{-4} \mathrm{~m}^{\prime}}{10.10 \mathrm{~m}}=9.89 \times 10^{-9} \mathrm{~m}^{2}=0.98 \mathrm{~mm}^{2}\end{aligned}[/math]
+সুতরাং তারটিকে টেনে সুষম প্রস্থচ্ছেদের 10.10 m দৈর্ঘ্যের একটি তারে পরিণত করা হলে এর প্রস্থচ্ছেদের ক্ষেত্রফল হবে [math]0.98 mm^2[/math]
+ এবং এর রোধ হবে [math]5\Omega[/math]
+ ।
+
+Explanation:
+ঘ ব্যাখ্যা: প্রতিরোধের সূত্র হল [math]R=\rho\frac{L}{A}[/math], যেখানে [math]\rho[/math] হল উপাদানের আপেক্ষিক রোধ, [math]L[/math] দৈর্ঘ্য এবং [math]A[/math] ক্রস‑সেকশনাল এরিয়া; তাই 5 Ω পান করতে দৈর্ঘ্য [math]L=\dfrac{RA}{\rho}[/math] রাখতে হবে। উদাহরণস্বরূপ যদি তারের এরিয়া [math]A=1\ \text{mm}^2=1\times10^{-6}\ \text{m}^2[/math] হয় তাহলে [math]L=\dfrac{5\times1\times10^{-6}}{49\times10^{-8}}\approx10.2\ \text{m}[/math] হবে। বিকল্পভাবে যদি তারের দৈর্ঘ্য নির্ধারিত থাকে, তাহলে প্রয়োজনীয় এরিয়া হবে [math]A=\dfrac{\rho L}{R}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 421981)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+আমাদের দেশে বিদ্যুৎ সরবরাহ লাইনের বিভব [math]220 \ V[/math]। একটি বৈদ্যুতিক হিটারের তারের রোধ [math]48.4 \Omega[/math] তারের দৈর্ঘ্য [math]1.5 m[/math] এবং প্রস্থচ্ছেদের ব্যাসার্ধ [math]2 \ mm[/math] বেশি তাপ পাওয়ার জন্য এক ব্যক্তি এরূপ দুটি তারকে শ্রেণিতে যুক্ত করলেন।
+
+Options:
+গ. হিটারে ব্যবহৃত তারের উপাদানের আপেক্ষিক রোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, হিটারের তারের রোধ, [math]R=48.4 \Omega[/math]
+তারের দৈঘ্য, [math]L = 1.5m[/math]
+তারের প্রস্থচ্ছেদের ব্যাসার্ধ, [math]\mathrm{r}=2 \mathrm{~mm}=2 \times 10^{-3} \mathrm{~m}[/math]
+. তারের প্রস্থচ্ছেদের ক্ষেত্রফল,[math]\begin{array}{l}A=\pi r^{2} \\=3.14 \times\left(2 \times 10^{-3} \mathrm{~m}^{2}\right. \\=1.256 \times 10^{-5} \mathrm{m}^{2}\end{array}[/math]
+তারের উপাদানের আপেক্ষিক রোধ, [math]\rho=?[/math]
+আমরা জানি,[math]\begin{aligned}\rho & =\frac{R A}{L} \\& =\frac{(484 \Omega) \times\left(1.256 \times 10^{-5} \mathrm{~m}^{2}\right)}{1.5 \mathrm{~m}} \\& =4.0526 \times 10^{-4} \Omega \mathrm{m} \text { (Ans) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ আপেক্ষিক রোধ নির্ণয়ের জন্য [math]R=\rho L/A[/math] ব্যবহার করি; এখানে [math]A=\pi r^2=\pi(2\times10^{-3})^2=4\pi\times10^{-6}\ \mathrm{m^2}[/math]।  
+তারপর [math]\rho=\dfrac{RA}{L}=\dfrac{48.4\times4\pi\times10^{-6}}{1.5}\approx4.05\times10^{-4}\ \Omega\cdot\mathrm{m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 421979)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+তারটির উপাদানের আপেক্ষিক রোধ [math]49 \times 10^{-8} \Omega.m[/math]
+
+Options:
+গ. প্রদত্ত তারটির রোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, তারের দৈর্ঘ্য, L = 2mতারের প্রস্থচ্ছেদের ক্ষেত্রফল, [math]A=5 \mathrm{~mm}^{2}=5 \times 10^{-6} \mathrm{~m}^{2}[/math]
+তারের উপাদানের আপেক্ষিকরোধ, [math]\rho=49 \times 10^{-8} \Omega \cdot m[/math]
+সুতরাং তারের রোধ,[math]\begin{array}{l}R=\rho \frac{L}{A} \\=49 \times 10^{-8} \times \frac{2}{5 \times 10^{-6}} \\=0.196 \Omega \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ কারণ তারের রোধ গণনার মূল সূত্র [math]R=\rho\frac{L}{A}[/math]; এখানে [math]\rho=49\times10^{-8}\ \Omega\cdot m[/math] এবং চিত্রে দেয়া দৈর্ঘ্য [math]L[/math] ও অবশিষ্ট ক্রস-অ্যারিয়া [math]A[/math] সূত্রে প্রতিস্থাপন করলে [math]R=(49\times10^{-8})\dfrac{L}{A}[/math] পাওয়া যায়। ছবি অনুযায়ী নির্দিষ্ট [math]L[/math] ও [math]A[/math] বসালে গণনা করে যে সংখ্যাটি মেলে, তাই গ সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 421971)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2010-2011 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]20\Omega[/math] রোধ বিশিষ্ট [math]10m[/math] লম্বা তারের সাথে [math]3V\ emf[/math] একটি ব্যাটারী ও একটি [math]10\ Omega[/math] রোধ শ্রেণীতে সংযুক্ত। তারটির দু'প্রান্তে বিভব পার্থক্য কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2V[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+[math]R_p=20+10=30\Omega[/math]
+ [math]E=3=IR_p \Rightarrow I=\dfrac{3}{30}=0.1A\text{ (Ans. )}[/math]
+ [math]20 \Omega[/math]
+ রোধবিশিষ্ট তারের [math]2[/math]
+ প্রান্তে বিভব পার্থক্য, [math]V=IR_1=0.1\times 20=2V[/math]
+
+
+Explanation:
+ব্যাখ্যা: সার্কিটে মোট রোধ [math]20+10=30\ \Omega[/math], সুতরাং প্রবাহ [math]I=\dfrac{3\ \text{V}}{30\ \Omega}=0.1\ \text{A}[/math]. সিরিজে একই প্রবাহ থাকায় তারের উপর ভোল্টেজ পতন [math]V=IR=0.1\times20=2\ \text{V}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 421972)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2009-2010 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]25\Omega[/math] রোধের একটি ইস্পাতের তারকে টেনে লম্বা করা হল যাতে তারটির দৈর্ঘ্য দ্বিগুণ হয়। তারটির পরিবর্তিত রোধ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]100 \Omega[/math]
+)[math]\\[/math]
+Solution : দেওয়া আছে, [math]R=25\Omega[/math]
+ [math]\therefore[/math]
+ নতুন রোধ [math]R^{\prime}=n^{2} R=\left(2^{2} \times 25\right) \Omega=100 \Omega \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: রোধের সূত্র [math]R=\rho\frac{L}{A}[/math]; টানলে আয়তন অপরিবর্তিত থাকায় দৈর্ঘ্য দ্বিগুণ হলে ক্ষেত্রফল [math]A'=\frac{A}{2}[/math] হয়। তাই নতুন রোধ [math]R'=\rho\frac{2L}{A/2}=4\rho\frac{L}{A}=4R=4\times25\Omega=100\Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 421973)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2008-2009, 2004-2005, 2002-2003 | Boards:  | Tags: Bangladesh University of Textiles, Bangladesh University of Textiles, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]5\ ohms[/math] রোধ বিশিষ্ট একটি তারকে টেনে তিনগুণ লম্বা করা হল। লম্বাকৃত তারটির রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]45 \Omega[/math]
+)[math]\\[/math]
+Solution : যদি টেনে লম্বা করা হয় তবে, [math]V=A_{1} I_{1}=A_{2} I_{2} \therefore A_{2}=A_{1} \dfrac{I_{1}}{I_{2}}=\dfrac{A_{1}}{3}[/math]
+এখন [math]R_2=\frac{\rho l_2}{A_2}=\frac{\rho .3l_1}{\frac{A_1}{3}}=9\frac{\rho l_1}{A_1}=9R_1=9\times 5\quad \therefore R_2=45\Omega \quad \text{ (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: রোধে [math]R=ρ\frac{L}{A}[/math]; ভলিউম অপরিবর্তিত রেখে লম্বা তিনগুণ করলে ক্ষেত্রফল কমে [math]A\to A_0/3[/math] হয়। তাই রোধ [math]R_{\text{new}}= \frac{ρ(3L_0)}{A_0/3}=9R_0[/math] এবং [math]R_{\text{new}}=9\times5=45\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 421974)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]0.44[/math] মিটার দীর্ঘ এবং [math]0.12[/math] মি.মি. ব্যাসের একটি তারের রোধ [math]15[/math] ওহম। তারটির উপাদানে র অপেক্ষিক রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.85\times 10^{-7}\Omega m[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{R}=\rho \dfrac{\mathrm{L}}{\mathrm{A}}\Rightarrow \ \rho =\dfrac{\mathrm{R}\pi r^2}{\mathrm{L}}=\dfrac{15\times \pi \times \left(0.6\times 10^{-4}\right)^2}{0.44}=3.85\times 10^{-7}\Omega m\ \ [\mathrm{Ans}][/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিরোধ ও উপকরণের রোধক্ষেত্রের সম্পর্ক [math]R=\rho\frac{L}{A}[/math]; তাই [math]\rho=\dfrac{RA}{L}[/math] ব্যবহার করলে পাওয়া যায়। ব্যাস থেকে ব্যাসার্ধ [math]r=0.12\,\text{mm}/2=6\times10^{-5}\,\text{m}[/math], ক্ষেত্রফল [math]A=\pi r^2=\pi(6\times10^{-5})^2\approx1.13\times10^{-8}\,\text{m}^2[/math] এবং ফলে [math]\rho=\dfrac{15\times1.13\times10^{-8}}{0.44}\approx3.86\times10^{-7}\,\Omega\cdot\text{m}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 421975)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি বোধের গায়ে যথাক্রমে লাল, বেগুনি, সবুজ ও সোনালী রং দেয়া আছে। রোধের সর্বোচ্চ ও সর্ব নিম্ন মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : সর্বোচ্চ মানঃ [math]2.84\times 10^4\Omega[/math]
+ এবং সর্বনিম্ন মানঃ [math]2.57\times 10^{\circ }\Omega[/math]
+ )[math]\\[/math]
+Solution : রোধের মানঃ [math]27 \times 10^{5} \pm 27 \times 10^{5}[/math]
+ এর [math]5\%[/math]
+ [math]\therefore[/math]
+ সর্বোচ্চ মানঃ [math]27 \times 10^{5}+27 \times 10^{5}[/math]
+ এর [math]5 \%=2.84 \times 10^{6} \Omega[/math]
+এবং সর্বনিম্ন মান [math]27 \times 10^{5}-27 \times 10^{5}[/math]
+ এর [math]5 \%=2.57 \times 10^{6} \Omega[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম দুই ব্যান্ড লাল (2) ও বেগুনি (7) সংখ্যা দেয়, তৃতীয় সবুজ গুণক হল [math]10^5[/math], তাই রোধের মান [math]27×10^5=2.7×10^6\ \Omega[/math]। সোনালী সহনশীলতা ±5%, তাই সর্বনিম্ন [math]2.7×10^6(1-0.05)=2.565×10^6\ \Omega[/math] এবং সর্বোচ্চ [math]2.7×10^6(1+0.05)=2.835×10^6\ \Omega[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 421976)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2005-2006 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি তারের দৈর্ঘ্য অপর একটি তারের চারগুণ। তার দুটির রোধ সমান হলে এদের ব্যাসের অনুপা ত বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\dfrac{1}{2}[/math]
+)[math]\\[/math]
+Solution : [math]R=\rho \cdot \dfrac{L_{1}}{A_{1}}=\rho \cdot \dfrac{L_{2}}{A_{2}} \Rightarrow \dfrac{A_{2}}{A_{1}}=\dfrac{L_{2}}{L_{1}}=4 \Rightarrow \dfrac{d_{2}}{d_{1}}=\dfrac{2}{1} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: তড়িৎরোধের সূত্র [math]R=\rho\frac{L}{A}[/math], তাই সমান রোধ হলে [math]\rho\frac{L_1}{A_1}=\rho\frac{L_2}{A_2}\Rightarrow\frac{A_1}{A_2}=\frac{L_1}{L_2}[/math]. লম্বার অনুপাতে যদি একটি তার অন্যটির চারগুণ হয় (ধরা যাক [math]L_1=4L_2[/math]) তাহলে ক্ষেত্রফলের অনুপাত [math]A_1/A_2=4[/math]. ক্ষেত্রফল [math]A\propto d^2[/math] হওয়ায় ব্যাসের অনুপাত [math]\frac{d_1}{d_2}=\sqrt{4}=2[/math], অর্থাৎ লম্বা তারের ব্যাস ছোটটির দ্বিগুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 421977)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2004-2005 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি নির্দিষ্ট পরিমাণ অভ্যন্তরীণ রোধ বিশিষ্ট একটি কোষের বিদ্যুৎ চালক বল [math]1.4\ volt[/math]। এর প্রান্তদ্বয় [math]2.6\Omega[/math] রোধের একটি তার দিয়ে যুক্ত করলে প্রান্তীয় বিভব পার্থক্য [math]1.3\ volt[/math] পাওয়া যায়। কোষটির অভ্যন্তরীণ রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]0.2 \mathrm{ohm}[/math]
+)[math]\\[/math]
+Solution : [math]I=\dfrac{V}{R}=\dfrac{1.3}{2.6}=\dfrac{1}{2} \mathrm{amp}[/math]
+এখানে, [math]I=\dfrac{E}{R+r} \Rightarrow \dfrac{1}{2}=\dfrac{1.4}{2.6+r} \Rightarrow 1.3+\dfrac{1}{2} r=1.4 \Rightarrow r=0.2\ \mathrm{ohm} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রকৃতিতে টার্মিনাল ভোল্টেজ ভেতরের রোধে বর্তনীপ্রবাহের কারণে পতিত হওয়া ভোল্টেজ কমায়, তাই [math]V=E-Ir[/math]. এখানে প্রথমে ধারাবেগ বের করুন: [math]I=V/R=1.3/2.6=0.5\ A[/math], এরপর অভ্যন্তরীণ রোধ [math]r=(E-V)/I=(1.4-1.3)/0.5=0.2\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 421978)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+সংক্ষেপে উত্তর দাও:
+
+(a) একটি রোধের গায়ে তিনটি রং এর ব্যান্ড আছে। রোধের মান [math]470\Omega[/math] হলে ব্যান্ড রং কি কি হবে?
+
+(b) [math]5A[/math] ফিউজ বলতে কি বোঝ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : (a) ১ম ব্যাচ হলুদ, ২য় ব্যান্ড বেগুনী, ৩য় ব্যান্ড বাদামী।(b) [math]5A[/math]
+ বলতে আমরা বুঝি সেই ফিউজ সর্বোচ্চ [math]5A[/math]
+ তড়িৎ প্রবাহ সহ্য করতে পারে। এর বেশি প্রবাহে ফিউজটি গলে সংযোগ বিচ্ছিন্ন করে দেয়।
+
+Explanation:
+ব্যাখ্যা:
+ক রোধটির রং: হলুদ, বেগুনি, বাদামী। প্রথম দুইটি ব্যান্ড 4 ও 7 নির্দেশ করে এবং তৃতীয় ব্যান্ড মাল্টিপ্লায়ার 10^1 নির্দেশ করে, তাই [math]47×10^1=[/math] [math]470\Omega[/math] হয়।  
+খ [math]5A[/math] ফিউজ মানে হলো ফিউজটি ধারাবাহিকভাবে প্রায় [math]5A[/math] পর্যন্ত বহন করার জন্য রেট করা; যদি কারেন্ট উল্লেখযোগ্যভাবে [math]5A[/math] ছাড়ায়, ফিউজটি জ্বলিয়ে (open) দিয়ে সার্কিটকে রক্ষা করে।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 421969)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2011-2012 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+বারটি তার যার প্রত্যেকটির রোধ [math]R[/math] যোগ করে একটি ঘনক ( [math]Cube[/math]) তৈরী করা হল, ঘনকের বিপরীত কোণদ্বয়ের মধ্যে রোধ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\dfrac{5 R}{6}[/math]
+)[math]\\[/math]
+Solution : [math]A[/math]
+ ও [math]B[/math]
+ এর মধ্যবর্তী বিভব পার্থক্য [math]V[/math]
+ হলে,
+[Image]
+[math]ACDB[/math]
+ পথে [math]KVL[/math]
+ প্রয়োগ করি, [math]\mathrm{R} \dfrac{I}{3}+\mathrm{R} \dfrac{{I}}{6}+\mathrm{R} \dfrac{I}{3}=\mathrm{V}[/math]
+ [math]\therefore V=R I\left(\dfrac{2}{3}+\dfrac{1}{6}\right)=R I\left(\dfrac{4+1}{6}\right)=\dfrac{5 R I}{6}[/math]
+তুল্যরোধ [math]R_{eq}[/math]
+ হলে, [math]\mathrm{V}=\mathrm{R}_{e q} \mathrm{I} \quad \therefore \mathrm{R}_{\text {eq }}=\dfrac{5 \mathrm{R}}{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘনের কোণে A ও G কে ধরে বাকী ছয়টি কোণ সমমর্যাদায় দুই গ্রুপে (প্রতিটি গ্রুপে ৩টি) ভাগ করা যায়, সেগুলোর পরিসর ধরে নিলে নোড সমীকরণ দিয়ে পাওয়া যায় [math]3V_1-2V_2=V[/math] এবং [math]3V_2-2V_1=0[/math] থেকে [math]V_1=\tfrac{3}{5}V,\;V_2=\tfrac{2}{5}V[/math]. A থেকে মোট ধারা [math]I=3(V-V_1)/R= \tfrac{6}{5}\tfrac{V}{R}[/math] হয়ে ফলত সমতুল্য রোধ [math]R_{eq}=V/I=\tfrac{5}{6}R[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 421970)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2010-2011 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]12V[/math] এর সাথে সংযুক্ত রোধ [math]4\Omega[/math] বাড়ালে বর্তনীতে [math]0.5A[/math] তড়িৎ প্রবাহ হ্রাস পায়। মূল রোধ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]8 \Omega[/math]
+)[math]\\[/math]
+Solution : [math]I=\dfrac{12}{R}, I-0.5=\dfrac{12}{R+4} \Rightarrow \dfrac{12}{R}-\dfrac{1}{2}=\dfrac{12}{R+4} \Rightarrow 12\left(\dfrac{1}{R}-\dfrac{1}{R+4}\right)=\dfrac{1}{2} \Rightarrow \dfrac{4}{R(R+4)}=\dfrac{1}{24} \\ \Rightarrow 96=R^{2}+4 R \Rightarrow R^{2}+4 R-96=0 \quad \therefore R=8 \Omega[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথমে প্রবাহগুলো লেখলে [math]I_1=\dfrac{12}{R}[/math] এবং [math]I_2=\dfrac{12}{R+4}[/math], আর তাদের পার্থক্য [math]I_1-I_2=0.5[/math] হওয়ায় পাওয়া যায় [math]\dfrac{12}{R}-\dfrac{12}{R+4}=0.5[/math]. এটি সরল করলে [math]R^2+4R-96=0[/math] হয় এবং ধনাত্মক মূল থেকে [math]R=8\ \Omega[/math] পাওয়া যায় (নেগেটিভ মূল অস্বীকৃত)।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 421967)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+[math]P[/math] ও [math]Q[/math] দুটি বর্তনী যার প্রত্যেকটিতে রোধযুক্ত তারের দৈর্ঘ্য [math]0.5\ m[/math] এবং ব্যাসার্ধ [math]0.2\ cm[/math]। বর্তনী দুটিতে একই সময় ধরে তড়িৎ প্রবাহিত হচ্ছে।
+
+Options:
+গ. উদ্দীপক অনুসারে যে কোনো তারের আপেক্ষিক রোধ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}\rm{P}[/math]
+ বর্তনীর তারের দৈর্ঘ্য, [math]\mathrm{L}=0.5 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=0.2 \mathrm{~cm}=2 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ প্রস্থচ্ছেদের ক্ষেত্রফল[math]\hspace{1.5 cm}\begin{aligned} \mathrm{A} & =\pi\rm{r}^{2} \\ & =3.1416 \times\left(2 \times 10^{-3} \mathrm{~m}\right)^{2} \\ & =1.25664 \times 10^{-5} \mathrm{~m}^{2} \end{aligned}[/math]
+ [math]\qquad\mathrm{R}=100 \Omega[/math]
+আপেক্ষিক রোধ, [math]\rho =?[/math]
+আমরা জানি, R = PĀ L[math]\hspace{1.5 cm}\begin{aligned} \rm{R}&=\rm{\rho \frac{L}{A}}\\ \Rightarrow \rho & =\rm{\frac{R A}{L}} \\ & =\frac{100 \Omega \times 1.25664 \times 10^{-5} \mathrm{~m}^{2}}{0.5 \mathrm{~m}} \\ & =2.51 \times 10^{-3} \Omega \mathrm{m} \end{aligned}[/math]
+অতএব, [math]\rm{P}[/math]
+ বর্তনীর তারের আপেক্ষিক রোধ [math]2.51 \times 10^{-3} \Omega \mathrm{m.}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ যেহেতু প্রতিরোধের সূত্র [math]R=\rho\frac{l}{A}=\rho\frac{l}{\pi r^{2}}[/math], এবং উভয় তারের দৈর্ঘ্য [math]l[/math] ও ব্যাসার্ধ [math]r[/math] একই, তাই তাদের প্রতিরোধ সমান; আপেক্ষিক রোধ [math]1:1[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 421968)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]R[/math] বিশিষ্ট একটি তড়িৎ পরিবাহী তারের দৈর্ঘ্যকে টেনে এর আসল দৈর্ঘ্যের [math]n[/math] গুণ লম্বা করা হলো । লম্বা করার পরে তারটির রোধ কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\boxed{R^{\prime}=n^{2} R}[/math]
+ )[math]\\[/math]
+Solution : [math]\text { Prove: } \rho=\dfrac{R A}{L}\left[\because V^{\prime}=V \Rightarrow A\mathrm{L}=n \mathrm{~L} \cdot A^{\prime} \therefore A^{\prime}=\dfrac{A}{n}\right][/math]
+ [math]n[/math]
+ গুন লম্বা হলে, [math]\rho=\dfrac{R^{\prime} \times \dfrac{A}{n}}{n L} \therefore \dfrac{R A}{L}=\dfrac{R^{\prime} \times A}{n^{2} L} \Rightarrow \boxed{R^{\prime}=n^{2} R}[/math]
+
+
+Explanation:
+শুরুতে রোধ ছিল [math]R=\rho L/A[/math] যেখানে [math]\rho[/math] ধাতুর পরিবাহিতা, [math]L[/math] দৈর্ঘ্য ও [math]A[/math] ক্রস-সেকশানাল ক্ষেত্রফল। লম্বা করে দৈর্ঘ্য [math]nL[/math] হলে আয়তন অক্ষত থাকায় নতুন ক্ষেত্রফল হবে [math]A'=A/n[/math], ফলে নতুন রোধ হবে [math]R'=\rho (nL)/(A/n)=n^2R[/math] — অর্থাৎ রোধ [math]n^2[/math] গুণ বেড়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 421965)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]60\ \Omega[/math] রোধের দুটি রোধক শ্রেণিতে যুক্ত করে [math]120\ V[/math] তড়িৎ উৎসের সাথে যুক্ত করা হলো। পরবর্তীতে রোধক দুটি সমান্তরালে যুক্ত করে একই উৎসের সাথে যুক্ত করা হলো।
+
+Options:
+গ. শ্রেণিযুক্ত অবস্থায় [math]60\ \Omega[/math] রোধের মধ্যদিয়ে প্রবাহিত প্রবাহমাত্রা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}\mathrm{R}_{1}=60 \Omega ; \mathrm{R}_{2}=60 \Omega;[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব, [math]\rm{V}=120 \mathrm{~V}[/math]
+
+[Image]
+শ্রেণিযুক্ত অবস্থায় তুল্যরোধ,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{R}_{\mathrm{s}} & =\mathrm{R}_{1}+\mathrm{R}_{2} \\ & =60 \Omega+60 \Omega=120 \Omega \end{aligned}[/math]
+ [math]\therefore[/math]
+ বর্তনীর প্রবাহমাত্রা,[math]\hspace{1.5 cm}\rm{I=\dfrac{V}{R_{s}}}=\dfrac{120}{120} \mathrm{~A}=1 \mathrm{~A}[/math]
+যেহেতু রোধদ্বয় শ্রেণীতে যুক্ত তাই উভয় রোধের মধ্য দিয়ে বর্তনীর প্রবাহমাত্রা [math]\rm{I = 1 A}[/math]
+ প্রবাহিত হবে।অতএব, শ্রেণীযুক্ত অবস্থায় [math]60~\Omega[/math]
+ রোধের মধ্য দিয়ে প্রবাহিত প্রবাহমাত্রা [math]1~\rm{A}[/math]
+l
+
+Explanation:
+ব্যাখ্যা: গ সিরিজে দুইটি [math]60\ \Omega[/math] রোধের মোট রোধ [math]R_{total}=60+60=120\ \Omega[/math], তাই প্রবাহ [math]I=\dfrac{V}{R_{total}}=\dfrac{120}{120}=1\ \text{A}[/math]। সিরিজে প্রতিটি রোধে একই প্রবাহ হওয়ায় প্রতিটি [math]60\ \Omega[/math] রোধে প্রবাহ 1 A।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 421966)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+স্বাভাবিক তাপমাত্রায় [math](25^\circ C)[/math] টাংস্টেন তারের রোধ [math]65\ \Omega[/math]। এরূপ তার দিে টি বৈদ্যুতিক হিটারের কুণ্ডলী তৈরি করে বৈদ্যুতিক লাইনের সাথে [math](220V)[/math] সমান্তরালে যুক্ত করা হলো। এতে কুণ্ডলী তারের তাপমাত্রা [math]250^\circ C[/math]-এ উন্নীত হলো। ১ম কুণ্ডলী তারের দৈর্ঘ্য ও ব্যাস উভয়ই ২য় কুণ্ডলীর তুলনায় দ্বিগুণ রোধের উষ্ণতা গুণাঙ্ক, [math]\alpha=4.5 \times 10^{-3}{ }^{\circ} \mathrm{C}^{-1}[/math]।
+
+Options:
+গ. [math]250^\circ C[/math] এ টাংস্টেন তারের রোধ কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}25^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় রোধ, [math]\rm{R}_{1}=65 \Omega[/math]
+ [math]\hspace{1 cm}[/math]
+রোধের উষ্ণতা গুণাঙ্ক, [math]\alpha=4.5 \times 10^{-3}{ }^{\circ} \mathrm{C}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা বৃদ্ধি, [math]\theta_{1}=25^{\circ} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+তাপমাত্রা বৃদ্ধি, [math]\theta=250^{\circ} \mathrm{C}[/math]
+ [math]\hspace{1 cm}0^\circ\rm{C}[/math]
+ তাপমাত্রায় রোধ, [math]\mathrm{R}_{0}=\text { ? }[/math]
+ [math]\hspace{1 cm}250^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় রোধ, [math]\mathrm{R}_{\boldsymbol{\theta}}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{R}_{1} & =\rm{R}_{0}\left(1+\alpha \theta_{1}\right) \\ \Rightarrow \rm{R}_{0} & =\frac{R_{1}}{1+\alpha \theta_{1}}=\frac{65 \Omega}{1+4.5 \times 10^{-3}{ }^{\circ} \mathrm{C}^{-1} \times 25^{\circ} \mathrm{C}}=58.43 \Omega\end{aligned}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{aligned} \rm{R}_{\theta} & =\rm{R}_{0}(1+\alpha \theta) \\ & =58.43 \Omega\left(1+4.5 \times 10^{-3}{ }^{\circ} \mathrm{C}^{-1} \times 250^{\circ} \mathrm{C}\right) \\ & =124.16 \Omega \end{aligned}[/math]
+সুতরাং [math]250^{\circ} \mathrm{C}[/math]
+ তাপমাত্রায় ট্যাংস্টেন তারের রোধ [math]124.16 \Omega[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ টাংস্টেনের রোধ তাপমাত্রার সাথে সরলরৈখিকভাবে বাড়ে, তাই [math]R=R_0[1+\alpha(T-T_0)][/math] ব্যবহার করি। এখানে [math]\Delta T=250-25=225^\circ C[/math], তাই [math]R=65[1+4.5\times10^{-3}\times225]=65[1+1.0125]=65\times2.0125=130.8125\ \Omega\approx130.8\ \Omega[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 421964)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+2 V তড়িচ্চালক শক্তি ও 1 [math]\Omega[/math] অন্তঃরোধবিশিষ্ট 5 টি তড়িৎ কোষকে শ্রেণিতে সাজিয়ে 25°C তাপমাত্রার 60 [math]\Omega[/math] রোধবিশিষ্ট একটি পরিবাহী তারের সাথে যুক্ত করা হলো। পরিবাহী তারে রোধের উষ্ণতার গুণাঙ্ক 4.2 x 10 [math]^{-1}[/math]/°C।
+
+Options:
+গ. 100°C তাপমাত্রায় পরিবাহী তারটির রোধ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+প্রাথমিক তাপমাত্রা, [math]t_{1}=25^{\circ} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+চূড়ান্ত তাপমাত্রা, [math]t_{2}=100^{\circ} \mathrm{C}[/math]
+ [math]\hspace{1 cm}t_1[/math]
+ তাপমাত্রায় তারটির রোধ, [math]R_{t_{1}}=60 \Omega[/math]
+ [math]\hspace{1 cm}[/math]
+তারের রোধের উষ্ণতার গুণাঙ্ক, [math]\alpha=4.2 \times 10^{-3\circ} \mathrm{C}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+0°C তাপমাত্রায় তারটির রোধ [math]=R_{0} \Omega[/math]
+ [math]\hspace{1 cm}t_2[/math]
+ তাপমাত্রায় রোধ, [math]R_{t_{2}}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\mathrm{R}_{t_{1}}=\mathrm{R}_{0}\left(1+\alpha^{\prime} \mathrm{t}_{1}\right) \ldots\ldots\ldots\rm{(i)}[/math]
+আবার,[math]\hspace{1.5 cm}R_{t_{2}}=R_{0}\left(1+\alpha t_{2}\right) \ldots\ldots\ldots\rm{(ii)}[/math]
+(2) হতে (1) ভাগ করে পাই,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \frac{R_{t_2}}{R_{t_1}}=\frac{R_{0}\left(1+\alpha t_{2}\right)}{R_{0}\left(1+\alpha t_{1}\right)} \\ \Rightarrow Rt_{2}=\frac{1+\alpha t_{2}}{1+\alpha t_{1}} \mathrm{R} t_{1} \\ \Rightarrow \mathrm{Rt}_{2}=\frac{1+4.2 \times 10^{-3} \times 100}{1+4.2 \times 10^{-3} \times 25} \times 60 \\ \therefore ~ \mathrm{Rt}_{2}=77.104 \Omega \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ তাপমাত্রা অনুযায়ী রোধের সূত্র ব্যবহার করো: [math]R_T=R_{25}[1+α(T-25)][/math]. এখানে [math]R_{25}=60\ \Omega,\ α=4.2\times10^{-1}\ /°C,\ T=100°C[/math], তাই [math]R_{100}=60[1+0.42(100-25)]=60[1+0.42\times75]=60\times32.5=1950\ \Omega[/math].
+
+Sub-Questions:
+

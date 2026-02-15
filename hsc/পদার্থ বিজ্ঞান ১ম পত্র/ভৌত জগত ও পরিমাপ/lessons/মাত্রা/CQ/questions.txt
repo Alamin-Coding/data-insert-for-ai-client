@@ -1,0 +1,492 @@
+================================================================================
+Question #1 (ID: 394151)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মাত্রা বিশ্লেষণের মাধ্যমে ভৌত রাশিগুলোর নিম্নলিখিত সম্পর্ক যাচাই করো: [math]\mathrm{V}=\frac{\pi \mathrm{Pr}^{4}}{8 \ mathrm{nl}}[/math] এখানে v হলো প্রতি একক সময়ে তরলের প্রবাহিত আয়তন, P হলো তরলের চাপ, r নলের ব্যাসার্ধ। [math]{\eta}[/math] তরলের সান্দ্রতাঙ্ক এবং [math]l[/math] হলো নলের দৈর্ঘ্য।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+দেওয়া আছে,[math]\mathrm{V}=\frac{\pi \operatorname{Pr}^{4}}{8 \eta l}[/math]
+এখন আমরা উভয়পক্ষের মাত্রা বের করবো।এখানে,[math]\text { L.H.S. }=\mathrm{V}[/math]
+
+[Image]
+[math]=\frac{\left[\mathrm{L}^{3}\right]}{[\mathrm{T}]}=\left[\mathrm{L}^{3} \mathrm{~T}^{-1}\right][/math]
+ [math]\text { R.H.S. }=\frac{\operatorname{Pr}^{4}}{\eta l}[/math]
+
+[Image]
+[math]=\frac{\left[\mathrm{MLT}^{-2}\right] \times\left[\mathrm{L}^{4}\right]}{\left[\mathrm{L}^{2}\right] \times\left[\mathrm{ML}^{-1} \mathrm{~T}^{-1}\right] \times[\mathrm{L}]}=\left[\mathrm{L}^{3} \mathrm{~T}^{-1}\right][/math]
+এখানে , [math]\text { L.H.S. }=\text { R.H.S. }[/math]
+ [math]\therefore[/math]
+ এই সম্পর্কটি মাত্রা সমীকরণ অনুযায়ী ঠিক ।
+
+Explanation:
+মাত্রা বিশ্লেষণ দিয়ে যাচাই করা যায়: চাপের মাত্রা [math]P=[M L^{-1} T^{-2}][/math], ব্যাসার্ধ [math]r=[L][/math], সান্দ্রতা [math]\eta=[M L^{-1} T^{-1}][/math], এবং দৈর্ঘ্য [math]l=[L][/math]. তাই ডান পাশের মাত্রা হবে [math]\dfrac{(M L^{-1} T^{-2})(L^4)}{(M L^{-1} T^{-1})(L)}=\;L^3 T^{-1}[/math], যা V এর মাত্রা [math]L^3 T^{-1}[/math]–এর সাথে মিলছে; সুতরাং সূত্রটি মাত্রাগতভাবে সঠিক (এটি হেগেন–পয়েসোয়েল সূত্র ল্যামিনার প্রবাহের জন্য)।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 394150)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+তাপ পরিবাহিতাঙ্ক, [math]K=\frac{\mathrm{Q d}}{\mathrm{A}\left(\theta_{2}-\theta_{1}\right) t}[/math] এর মাত্রা নির্ণয় করো । এখানে Q, d, [math]A_{1}\left(\theta_{2}-\theta_{1}\right)[/math] এবং t রাশিগুলো যথাক্রমে শক্তি, দৈর্ঘ্য, ক্ষেত্রফল, তাপমাত্রা এবং সময় নির্দেশ করে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\left[\mathrm{MLT}^{-3} \theta^{-1}\right][/math]
+)দেওয়া আছে,[math]K=\frac{Q d}{A\left(\theta_{2}-\theta_{1}\right) t}[/math]
+
+[Image]
+[math]=\frac{\left[\mathrm{ML}^{2} \mathrm{~T}^{-2}\right] \times[\mathrm{L}]}{\left[\mathrm{L}^{2}\right] \times \theta \times[\mathrm{T}]}=\left[\mathrm{MLT}^{-3} \theta^{-1}\right] \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: তাপপরিবাহিতাঙ্কে শক্তির মাত্রা [math]Q=[M L^2 T^{-2}][/math], দৈর্ঘ্য [math]d=[L][/math], ক্ষেত্রফল [math]A=[L^2][/math], তাপমাত্রা পার্থক্য [math]\Delta\theta=[\Theta][/math] এবং সময় [math]t=[T][/math]। সুতরাং [math]K=\frac{Qd}{A\Delta\theta\,t}=\frac{[M L^2 T^{-2}][L]}{[L^2][\Theta][T]}=[M L T^{-3}\Theta^{-1}][/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 394142)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ব্যবহারিক ক্লাসে শামীমাকে একটি তারের বেধ পরিমাপের জন্য একজন শিক্ষক একটি স্লাইড ক্যালিপার্স ও একটি স্ক্রুগজ দিলেন। স্লাইড ক্যালিপার্সের লঘিষ্ঠ ধ্রুবক 0.1mm এবং স্ক্রুগেজের লঘিষ্ঠ ধ্রুবক 0.01 mm ।
+
+Options:
+ঘ. একটি মাত্রাহীন ভৌত রাশির নাম লিখ। প্রমাণ কর যে, রাশিটি মাত্রাহীন।
+
+
+Correct Answer: 
+
+Solution:
+ঘমাত্রাহীন একটি ভৌত রাশি হলো সমতলিক কোণ [math]\theta[/math]
+।এখন কোণের সংজ্ঞানুযায়ী, আমরা জানি,
+[Image]
+বৃত্তচাপ ও ব্যাসার্ধ উভয় রাশিরই মাত্রা হলো- দৈর্ঘ্যের মাত্রা [L][math]\therefore[/math]
+ কোণ [math](\theta)=\frac{[\mathrm{L}]}{[\mathrm{L}]}=1[/math]
+সুতরাং সমতলিক কোণ একটি মাত্রাহীন রাশি।মাত্রাবিহীন আরেকটি ভৌত রাশি হলো কর্মদক্ষতা [math](\eta)[/math]
+।
+
+Explanation:
+ঘ রৈখিক বিকৃতি (strain)। প্রমাণ: [math]\epsilon=\Delta L/L[/math] যেখানে উভয়ই দৈর্ঘ্য, এজন্য এককগুলি বাতিল হয়ে যায় এবং [math]\epsilon[/math] একটি মাত্রাহীন পরিমাপ।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 394143)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমমাত্রিক নীতি প্রয়োগ করে বিভিন্ন এককের মধ্যে রূপান্তর সমীকরণের সঠিকতা যাচাই ও বিভিন্ন প্রাকৃতিক রাশির মধ্যে সম্পর্ক স্থাপন করা হয়।
+
+Options:
+গ. সমমাত্রিক নীতির সাহায্যে [math]s=u t+\frac{1{2} a t^{2}[/math] সমীকরণটি সঠিক কিনা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+গসমীকরণটিতে,s এর মাত্রা = Lu এর মাত্রা [math]=\mathrm{LT}^{-1}[/math]
+সময় t এর মাত্রা = Ta এর মাত্রা [math]=\mathrm{LT}^{-2}[/math]
+বস্তুর অতিক্রান্ত দূরত্ব, [math]s=u t+\frac{1}{2} a t^{2}[/math]
+অতএব, বামপক্ষের মাত্রা = Lut এর মাতা [math]=\mathrm{LT}^{-1} \times \mathrm{T}=\mathrm{L}[/math]
+ [math]\frac{1}{2} \mathrm{at}^{2}[/math]
+ এর মাত্রা [math]=\mathrm{LT}^{-2} \times \mathrm{T}^{2}=\mathrm{L}[/math]
+ [math]\therefore[/math]
+ ডানপক্ষের মাত্রা = Lঅতএব, বামপক্ষের মাত্রা = ডানপক্ষের মাত্রা অর্থাৎ সমীকরণটি সঠিক।[math]\therefore[/math]
+ সমমাত্রিক নীতির সাহায্যে [math]\mathrm{s}=\mathrm{ut}+\frac{1}{2} \mathrm{at}{ }^{2}[/math]
+ সমীকরণটির সঠিকতা যাচাই করা হল।
+
+Explanation:
+ব্যাখ্যা:
+গ সমমাত্রিক পরীক্ষায় দেখা যায় দুইটি পদই দৈর্ঘ্যের একক দেয়: [math]ut[/math] এর মাত্রা [math][L T^{-1}]\times[T]=[L][/math], আর [math]\tfrac{1}{2}at^{2}[/math] এর মাত্রা [math][L T^{-2}]\times[T^{2}]=[L][/math]; ধ্রুবক [math]\tfrac{1}{2}[/math] মাত্রাবিদ্যা পরিবর্তন করে না, সুতরাং সমীকরণটি সমমাত্রিকভাবে সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 394144)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, কাজ ও টর্কের মাত্রা ও একক একই।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে,কাজ = Wবল = Fসরণ = sটর্ক [math]=\tau[/math]
+অবস্থান ভেক্টর = rআমরা জানি,[math]W=F s \cos \theta[/math]
+এবং [math]\tau=r F \sin \theta[/math]
+এখন, যেসব রাশির একক আছে এগুলো হিসেব করে,W = বল [math]\times[/math]
+ সরণভর [math]\times[/math]
+ ত্বরণ [math]\times[/math]
+ সরণ = ভর [math]\times[/math]
+ ( বেগ [math]\div[/math]
+ সময় ) [math]\times[/math]
+ সরণ[math]=[\mathrm{M}] \times \frac{[\mathrm{L}]}{\left[\mathrm{T}^{2}\right]} \times[\mathrm{L}]=\left[\mathrm{ML}^{2} \mathrm{~T}^{-2}\right][/math]
+ [math]\therefore[/math]
+ কাজের মাত্রা [math]=\left[\mathrm{ML}^{2} \mathrm{~T}^{-2}\right][/math]
+আবার ,[math]\tau[/math]
+ = অবস্থান ভেক্টর [math]\times[/math]
+ বল= সরণ [math]\times[/math]
+ ভর [math]\times[/math]
+ ত্বরণ = সরণ [math]\times[/math]
+ ভর [math]\times[/math]
+ (বেগ [math]\div[/math]
+ সময়)= সরণ [math]\times[/math]
+ ভর [math]\times[/math]
+ সরণ [math]\div[/math]
+ (সময়) [math]{^2}[/math]
+ [math]=[\mathrm{L}] \times[\mathrm{M}] \times \frac{[\mathrm{L}]}{\left[\mathrm{T}^{2}\right]}[/math]
+ [math]=\left[\mathrm{ML}^{2} \mathrm{~T}^{-2}\right][/math]
+ [math]\therefore[/math]
+ টর্কের মাত্রা [math]=\left[M L^{2} T^{-2}\right][/math]
+ [math]\therefore[/math]
+ কাজ এবং টর্কের মাত্রা একই । (Showed)
+
+Explanation:
+ব্যাখ্যা: কাজের সূত্র [math]W=\vec F\cdot\vec s[/math] এবং টর্কের পরিমাপ (মাত্রা) [math]\tau=rF\sin\theta[/math]—দু’টিই বল এবং দূরত্ব/ব্রাসের গুণফল, তাই একক হচ্ছে [math]\text{N·m}[/math] এবং মাত্রাগতভাবে [math]M L^{2}T^{-2}[/math]. তবে লক্ষণীয় যে একই একক থাকা সত্ত্বেও কাজ একটি স্কেলার (শক্তি) এবং টর্ক একটি ভেক্টর (মোমেন্ট)।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 394145)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি স্প্রিং এর স্থিতিশক্তি w ও প্রসারণ x, এর মধ্যে সম্পর্ক হলো, [math]W=\frac{1}{2} k x^{2}[/math] । K এর মাত্রা নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\left[\mathrm{MT}^{-2}\right][/math] )
+
+Explanation:
+W হলো শক্তি, তাই এর মাত্রা [math]ML^{2}T^{-2}[/math]; সূত্র থেকে [math]k\propto W/x^{2}[/math]. অতএব [math]k=\dfrac{ML^{2}T^{-2}}{L^{2}}=MT^{-2}[/math], যা SI এককে [math]\mathrm{N\,m^{-1}}[/math] বা [math]\mathrm{kg\,s^{-2}}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 394146)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+গতিবেগ (v), সময় (T) এবং বল (F) মৌলিক রাশি ধরে ঘনত্বের মাত্রা নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\left[\mathrm{Fv}^{-4} \mathrm{~T}^{-2}\right][/math]
+)এখানে,P = চাপh = উচ্চতা[math]{\rho}[/math]
+ = ঘনত্বg = অভিকর্ষজ ত্বরণ,আমরা জানি,[math]\begin{aligned}\mathrm{P} & =\mathrm{h \rho g} \\\therefore \quad \rho & =\frac{\mathrm{P}}{\mathrm{hg}}\end{aligned}[/math]
+এখানে আমাদের [math]\frac{\mathrm{P}}{\mathrm{hg}}[/math]
+ , এই রাশিকে বেগ (v), সময় (T) এবং বল (F) এর মাধ্যমে প্রকাশ করতে হবে।[math]\therefore p=\frac{P}{h g}=\frac{\frac{F}{A}}{h \times v \times T^{-1}}=\frac{F}{A v^{2}}=\frac{F}{\frac{l \times l}{T \times T} v^{2} \times T \times T}[/math]
+ [math]=\frac{F}{v^{2} v^{2} T^{2}}=\frac{F}{v^{4} T^{2}}=\left[\mathrm{Fv}^{-4} \mathrm{~T}^{-2}\right] \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘনত্বের মাত্রা হল [math]\rho= M L^{-3}[/math]. এখানে [math]F= M L T^{-2}\Rightarrow M=F L^{-1} T^{2}[/math] এবং [math]v= L T^{-1}\Rightarrow L= vT[/math]। এগুলো [math]\rho=(F L^{-1} T^{2})L^{-3}=F L^{-4} T^{2}=F(vT)^{-4}T^{2}=F v^{-4} T^{-2}[/math] থেকে ফলাফল হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 394147)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কণার বেগ (v), সমর (t)-এর সঙ্গে নিম্নলিখিত সমীকরণ অনুযায়ী পরিবর্তিত হয়: [math]v=a t+\frac{b}{t^{2}}+c[/math], a, b ও c এর মাত্রা নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math][\mathrm{a}]=\left[\mathrm{LT}^{-2}\right],[\mathrm{b}]=[\mathrm{LT}],[\mathrm{C}]=\left[\mathrm{T}^{2}\right][/math])
+
+Explanation:
+ব্যাখ্যা: বেগের মাত্রা [math][L\,T^{-1}][/math], তাই প্রতিটি যোগ পদও একই মাত্রার হবে। From [math]a t[/math]: [math][a][T]=[L\,T^{-1}]\Rightarrow[a]=[L\,T^{-2}][/math], and from [math]\dfrac{b}{t^{2}}[/math]: [math][b][T^{-2}]=[L\,T^{-1}]\Rightarrow[b]=[L\,T][/math]. অতএব [math][c]=[L\,T^{-1}][/math].
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 394149)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কাঁচের প্রতিসরাঙ্ক [math]{\mu}[/math] আপতিত আলোর তরঙ্গদৈর্ঘ্য [math]\lambda[/math] -এর উপর নির্ভর করে। [math]{\mu}[/math] এবং [math]\lambda[/math] এ র মধ্যে সম্পর্ক হলো, [math]\mu=A+\frac{B}{\lambda^{2}}[/math] যেখানে A ও B হলো ধ্রুবক। A ও B এর মাত্রা নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : (A) মাত্রাহীন , (B) [math]\mathrm{L}^2[/math]
+)এখানে, [math]\mu=A+\frac{B}{\lambda^{2}}[/math]
+ [math]\mu[/math]
+ হচ্ছে প্রতিসরাঙ্ক যার কোনো মাত্রা নেই ।আবার, [math]\lambda[/math]
+ হচ্ছে তরঙ্গদৈর্ঘ্য যার মাত্রা Lএখন, যেহেতু সমীকরণের বাম পাশের পদটির মাত্রা নেই, তাই সমীকরণটির ডানপাশের দুটি পদও মাত্রাহীন হবে ।[math]\therefore[/math]
+ A হচ্ছে মাত্রাহীন । (Ans.)এখন, [math]\frac{\mathrm{B}}{\lambda^{2}}[/math]
+ পদটিও মাত্রাহীন হবে ।এটা সম্ভব যদি B এর মাত্রা [math]\lambda^{2}[/math]
+ এর মাত্রার সমান হয় ।[math]\therefore[/math]
+ 'B এর মাত্রা, [B] = [math]\lambda^{2}[/math]
+ এর মাত্রা[math]=\mathrm{L}^{2} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিসরাঙ্ক [math]\mu[/math] নিরপেক্ষ (dimensionless)। সূত্র [math]\mu = A + \frac{B}{\lambda^{2}}[/math] অনুযায়ী [math]A[/math] এবং [math]\dfrac{B}{\lambda^{2}}[/math] একই মাত্রার হওয়া উচিত, তাই [math]A[/math] অনির্মিয় (dimensionless) এবং [math]B[/math]–এর মাত্রা হল [math]\lambda^{2}[/math] = লম্বার বর্গ, অর্থাৎ [math][L^{2}][/math] (SI-এ [math]\mathrm{m^{2}}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 394139)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি একটি ভৌত রাশি x এর মাত্রা এমন যে, দ্রুতির সাথে x এর সম্পর্ক [math]v=\sqrt{\frac{x}{\rho}}[/math] যেখানে [math]\rho[/math] ঘনত্ব বোঝায় ।
+
+Options:
+ঘ. x এর কীরূপ রাশি হলে উদ্দীপকে উল্লেখিত সমীকরণটি যথার্থ হবে?
+
+
+Correct Answer: 
+
+Solution:
+ঘ‘গ’ হতে পাই, x এর মাত্রা সমীকরণ [math]\left[\mathrm{ML}^{-1} \mathrm{~T}^{-2}\right][/math]
+আমরা জানি, চাপের মাত্রা সমীকরণ [math]\left[\mathrm{ML}^{-1} \mathrm{~T}^{-2}\right][/math]
+
+[Image]
+অর্থাৎ x এর মাত্রা ও চাপের মাত্রা অনুরূপ।[math]\therefore[/math]
+ x রাশিটি চাপ হলে উদ্দীপকে উল্লিখিত সমীকরণটি যথার্থ হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ সমীকরণটি থেকে [math]v=\sqrt{x/\rho}[/math] বর্গ করলে পাওয়া যায় [math]v^2=x/\rho[/math], সুতরাং [math]x=\rho v^2[/math]. মাত্রাগতভাবে [math][x]=[\rho][v]^2=[M L^{-3}][L^2 T^{-2}]=[M L^{-1} T^{-2}][/math], যা চাপ (pressure) বা শক্তি-ঘনত্বের মাত্রার সমান।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 394141)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\rho[/math] ঘনত্বের কোন তরলভর্তি সরু নলের মধ্য দিয়ে r ব্যাসার্ধের গোলক v প্র্রান্তবেগে (সম দ্রুতিতে) চলমান । প্রান্তবেগ v এর মান গোলকের ব্যাসার্ধ (r) তরলের ঘনত্ব ( [math]\rho[/math]) এবং তরলের সান্দ্রতা সহগ [math]\text { (ท) }[/math] এর নির্ভর করে । মাত্রা সমীকরণের সাহায্যে প্রান্ত বেগের একটি রাশিমালা নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\therefore v=\frac{k \eta}{\rho r}[/math]
+;)এখানে,ঘনত্বের মাত্রা, [math][\rho]=\left[M L^{-3}\right][/math]
+বেগের মাত্রা [math][\mathbf{v}]=\left[\mathrm{LT}^{-1}\right][/math]
+ব্যাসার্ধের মাত্রা , [math][r]=[L][/math]
+সান্দ্রতা সহগের মাত্রা, [math][\eta]=\left[M L^{-1} T^{-1}\right][/math]
+প্রান্তবেগ,[math]v \propto \rho^{x} r^{y} \eta^{2}[/math]
+k সমানুপাতিক ধ্রুবক হলে, [math]v=k \rho^{x} r^{y} \eta^{z}[/math]
+উক্ত সমীকরণকে মাত্রা সমীকরণের মাধ্যমে প্রকাশ করে পাই -[math]\left.\left[\mathrm{LT}^{-1}\right]=k\left[\mathrm{ML}^{-3}\right]^{x}[\mathrm{~L}]^{y} \mathrm{ML}^{-1} \mathrm{~T}^{-1}\right]^{z}[/math]
+ [math]\Rightarrow[/math]
+ [math][\mathrm{L}]\left[\mathrm{T}^{-1}\right]=\mathrm{k}[\mathrm{M}]^{\mathrm{x}}[\mathrm{L}]^{-3 \mathrm{x}}[\mathrm{L}]^{\mathrm{y}}[\mathrm{M}]^{z}[/math]
+ [math][\mathrm{L}]^{-z}[\mathrm{~T}]^{-\mathrm{-z}}[/math]
+ [math]\Rightarrow[/math]
+ [math][\mathrm{L}]\left[\mathrm{T}^{-1}\right]=\mathrm{k}[\mathrm{M}]^{\mathrm{x}+\mathrm{z}}[\mathrm{L}]^{-3 \mathrm{x}+\mathrm{y}-\mathrm{z}}\left[\mathrm{T}]^{-z}\right.[/math]
+ [math]\begin{array}{l}\therefore z=1 \\x+z=0\end{array}[/math]
+ [math]\Rightarrow[/math]
+ x = z[math]\therefore[/math]
+ x = - 1এবং - 3x +y - z =1[math]\Rightarrow[/math]
+ -3 [math]\times[/math]
+ (- 1) + y -1 = 1[math]\Rightarrow[/math]
+ y = 1 - 2 [math]\therefore[/math]
+ y = - 1[math]\therefore[/math]
+ প্রান্তবেগের রাশিমালা, [math]v=k \rho^{-1} r^{-1} \eta^{1}[/math]
+ [math]\therefore v=\frac{k \eta}{\rho r}[/math]
+; যেখানে k একটি সমানুপাতিক ধ্রুবক। (Ans)
+
+Explanation:
+প্রতিপত্তি নিন [math]v \propto \rho^{a} r^{b} \eta^{c}[/math]। মাত্রার সমতা দিয়ে, M: [math]a+c=0[/math], L: [math]-3a+b-c=1[/math], T: [math]-c=-1[/math] এবং এখান থেকে [math]c=1,\;a=-1,\;b=-1[/math] পাওয়া যায়। ফলে [math]v\sim\frac{\eta}{\rho\,r}[/math]। মনে রাখবেন বাস্তবে এমন অনুপস্থিত ত্বরণ (যেমন [math]g[/math]) ছাড়া ফলটি শারীরিকভাবে অপ্রত্যাশিত হতে পারে—এটি মাত্রিক বিশ্লেষণের সীমাবদ্ধতাকে নির্দেশ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 394140)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মুক্তভাবে পড়ন্ত কোন বস্তুর দ্রুতি, v এর পরিবর্তনকে [math]g^{x} h^{y}[/math] সমীকরণ দ্বারা প্রকাশ করা যায়; যেখানে, g অভিকর্ষজ ত্বর ণ এবং h যে স্থানে বস্তুটি ফেলা হয়েছিল সে স্থানের উচ্চতা বোঝায়। x ও y এর মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+([math]x=\frac{1}{2}, y=\frac{1}{2}[/math])
+
+Explanation:
+ব্যাখ্যা: মাত্রাতাত্ত্বিক বিশ্লেষণে লিখি [math]v\sim g^{x}h^{y}[/math] এবং এককগুলোর সমীকরণ দাঁড়ায় [math]L T^{-1}=(L T^{-2})^{x}L^{y}=L^{x+y}T^{-2x}[/math]. সময়ের ঘাত থেকে [math]-1=-2x\Rightarrow x=\tfrac{1}{2}</math] এবং দৈর্ঘ্যের ঘাত থেকে [math]1=x+y\Rightarrow y=\tfrac{1}{2}</math]. ফলে [math]v\propto\sqrt{gh}[/math] (স্থিরসংখ্যা হারিয়ে)।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 394138)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি একটি ভৌত রাশি x এর মাত্রা এমন যে, দ্রুতির সাথে x এর সম্পর্ক [math]v=\sqrt{\frac{x}{\rho}}[/math] যেখানে [math]\rho[/math] ঘনত্ব বোঝায় ।
+
+Options:
+গ. x এর মাত্রা সমীকরণ কেমন হবে?
+
+
+Correct Answer: 
+
+Solution:
+গপ্রদত্ত সম্পর্ক , [math]v=\sqrt{\frac{x}{\rho}}[/math]
+ [math]\Rightarrow[/math]
+ [math]v^{2}=\frac{x}{\rho}[/math]
+ [math]\Rightarrow[/math]
+ [math]x=v^{2} \rho[/math]
+এখানে, বেগ v এর মাত্রা [math]\mathrm{LT}^{-1}[/math]
+ঘনত্ব [math]\rho[/math]
+ এর মাত্রা [math]\mathrm{ML}^{-3}[/math]
+ [math]\therefore[/math]
+ x এর মাত্রা হবে [math]=\left(\mathrm{LT}^{-1}\right)^{2} \times \mathrm{ML}^{-1}=\mathrm{L}^{2} \mathrm{~T}^{2} \times \mathrm{ML}^{-3}=\mathrm{ML}^{-1} \mathrm{~T}^{-2}[/math]
+ [math]\therefore[/math]
+ x এর মাত্রা সমীকরণ হবে, [math][\mathrm{x}]=\mathrm{ML}^{-1} \mathrm{~T}^{-2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ [math]v=\sqrt{\frac{x}{\rho}}[/math] বর্গ করলে [math]v^2=\frac{x}{\rho}[/math], ফলে [math]x=\rho v^2[/math]। তাই মাত্রা হবে [math][x]=[ \rho ][v]^2=(M L^{-3})(L T^{-1})^2=M L^{-1} T^{-2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 394137)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সরল দোলকের দোলনকাল T, দোলকের ববের ভর m, দৈর্ঘ্য [math]l[/math] এবং অভিকর্ষীয় ত্বরণ g এর ওপর [math]\mathrm{T} \propto \mathrm{m}^{\mathrm{a}} l^{\mathrm{b}} \mathrm{g}^{\mathrm{c}}[/math] সমীকরণ দ্বারা নির্ভরশীল, যেখানে a, b ও c ধ্রুবরাশি। আবার, T এর সমীকরণ হলো, [math]T=2 \pi \sqrt{\frac{l}{g}}=2 \pi \sqrt{\frac{m}{k}}[/math]
+
+Options:
+ঘ. উদ্দীপকে উল্লেখিত T এর দুটি সমীকরণ অনুযায়ী k এর মাত্রা কীরূপ হবে তা গাণিতিকভাবে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘআমরা জানি,m এর মাত্রা = Mg এর মাত্রা [math]=\mathrm{LT}^{-2}[/math]
+ [math]l[/math]
+ এর মাত্রা = Lউদ্দীপক হতে পাই,[math]\mathrm{T}=2 \pi \sqrt{\frac{l}{\mathrm{~g}}}=2 \pi \sqrt{\frac{\mathrm{m}}{\mathrm{k}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]2 \pi \sqrt{\frac{l}{g}}=2 \pi \sqrt{\frac{\mathrm{m}}{\mathrm{k}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{l}{\mathrm{~g}}=\frac{\mathrm{m}}{\mathrm{k}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{k}=\frac{\mathrm{mg}}{l}[/math]
+ [math]\therefore[\mathrm{k}][/math]
+ এর মাত্রা [math]=\frac{\mathrm{MLT}^{-2}}{\mathrm{~L}}=\mathrm{MT}^{-2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]T=2\pi\sqrt{\dfrac{m}{k}}[/math] থেকে বর্গ করলে [math]T^2=4\pi^2\dfrac{m}{k}[/math] হয়, তাই [math]k=\dfrac{4\pi^2 m}{T^2}[/math]. এখানে [math]4\pi^2[/math] মাত্রাহীন হওয়ায় k–এর মাত্রা হচ্ছে [math]M\,T^{-2}[/math] (বা SI এককে kg·s⁻²)।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 394136)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি টানাতারে আড়কম্পনের কম্পাঙ্ক [math]f[/math] নির্ভর করে
+
+(i) কম্পমান তারের দৈর্ঘ্য, [math]l[/math]
+
+(ii) তারের টানা বল, T এবং
+
+(iii) তারের একক দৈর্ঘ্যের ভর, [math]\mu[/math] এর ওপর। মাত্রার সমীকরণের সাহায্যে দেখাও যে, [math]f \propto \frac{1}{l} \sqrt{\frac{T}{\mu}}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে ,f এর মাত্রা = [math]T^1[/math]
+n এর কোনো মাত্রা নেই[math]l[/math]
+ এর মাত্রা = LT এর মাত্রা = [math]=\mathrm{MLT}^{-2}[/math]
+M এর মাত্রা = [math]=\mathrm{ML}^{-1}[/math]
+আমরা জানি, টানা তারে আড় কম্পনের কম্পাঙ্ক,[math]f=\frac{\mathrm{n}}{l} \sqrt{\frac{\mathrm{T}}{\mu}}[/math]
+ [math]\therefore[/math]
+ বামপক্ষে মাত্রার সমীকরণ = [math]T^1[/math]
+এবং ডানপক্ষে মাত্রার সমীকরণ[math]\begin{array}{l}=\frac{1}{\mathrm{~L}} \sqrt{\frac{\mathrm{MLT}^{-2}}{\mathrm{ML}^{-1}}} \\=\frac{1}{\mathrm{~L}} \sqrt{\mathrm{L}^{2} \mathrm{~T}^{-2}} \\=\frac{1}{\mathrm{~L}} \times \mathrm{LT}^{-1} \\=\mathrm{T}^{-1}\end{array}[/math]
+ [math]\therefore[/math]
+ বামপক্ষ = ডানপক্ষঅতএব, মাত্রার সমীকরণের সাহায্যে দেখা যাচ্ছে [math]f=\frac{\mathrm{n}}{l} \sqrt{\frac{\mathrm{T}}{\mu}}[/math]
+ [math]f \propto \frac{1}{l} \sqrt{\frac{\mathrm{T}}{\mu}}[/math]
+ [ যখন n ধ্রুবক ]
+
+Explanation:
+ব্যাখ্যা: আমরা ধরি [math]f \propto l^a T^b \mu^c[/math]। মাত্রাগতভাবে ডানপাশের এককগুলো হচ্ছে [math]M^{b+c}L^{a+b-c}T^{-2b}[/math] এবং বামপাশ [math]T^{-1}[/math], ফলে সমীকরণ থেকে [math]b+c=0,\;a+b-c=0,\;-2b=-1[/math] পাওয়া যায় (এবং [math]a+2b=0[/math])। সুতরাং [math]b=\tfrac{1}{2},\ a=-1,\ c=-\tfrac{1}{2}[/math] এবং [math]f \propto l^{-1}T^{1/2}\mu^{-1/2}=\frac{1}{l}\sqrt{\frac{T}{\mu}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 394135)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A=B^{n} C^{m}[/math] এবং A, B ও C এর মাত্রা যথাক্রমে LT [math]\mathrm{L}^{2} T^{-1}[/math] এবং [math]\mathrm{L T}^{2}[/math] হ য় তবে m ও n এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math](n, m)=\left(\frac{1}{5}, \frac{3}{5}\right)[/math]
+)[math]\mathrm{LT}=\left(\mathrm{L}^{2} \mathrm{~T}^{-1}\right)^{\mathrm{n}} \times\left(\mathrm{LT}^{2}\right)^{\mathrm{m}}[/math]
+ [math]\begin{aligned}\Rightarrow & L T=L^{2 n+m} T^{2 m-n} \\\therefore \quad & 2 n+m=1 \ldots \text { (i) } \\& 2 m-n=1 \ldots \text { (ii) }\end{aligned}[/math]
+সমীকরণদ্বয় সমাধান করে আমরা পাই, (n, m) [math]=\left(\frac{1}{5}, \frac{3}{5}\right)[/math]
+
+
+Explanation:
+সমীকরণ অনুযায়ী [math][A]=[B]^n[C]^m[/math] এবং মাত্রাগুলো হলো [math][A]=\mathrm{L\,T^{-1}},\ [B]=\mathrm{L^{2}T^{-1}},\ [C]=\mathrm{L\,T^{2}}[/math].  
+তাহলে [math]L^{1}T^{-1}=L^{2n+m}T^{-n+2m}[/math], অতএব সূচকগুলোর সমীকরণ হলো [math]2n+m=1[/math] ও [math]-n+2m=-1[/math].  
+এসব সমাধান করলে পাওয়া যায় [math]n=\tfrac{3}{5},\ m=-\tfrac{1}{5}[/math].
+
+Sub-Questions:
+

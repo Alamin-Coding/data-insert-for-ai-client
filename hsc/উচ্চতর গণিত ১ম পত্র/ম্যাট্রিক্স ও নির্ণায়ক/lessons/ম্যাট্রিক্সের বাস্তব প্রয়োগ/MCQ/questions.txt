@@ -1,0 +1,953 @@
+================================================================================
+Question #1 (ID: 412245)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{cc}8 & x \\y-2 & 6\end{array}\right]=\left[\begin{array}{cc}8 & 2+y \\4 & 6\end{array}\right][/math] হলে, (x, y) কোনটি?
+
+Options:
+A. (8,2)
+B. (6,2)
+C. (6,8)
+D. (8,6)
+
+
+Correct Answer: D.(8,6)
+
+Solution:
+[math]y-2=4 \Rightarrow y=6[/math]
+ এবং [math]x=2+y=2+6=8[/math]
+ [math]\therefore(\mathrm{x}, \mathrm{y})=(8,6)[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 412244)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:
+
+[math]A=\left[\begin{array}{lll}3 & 0 & 0 \\0 & 3 & 0 \\0 & 0 & 3\end{array}\right][/math]
+
+A ম্যাট্রিক্সটি হলো—
+
+[math]\text { i. }[/math]বর্গ ম্যাট্রিক্স
+
+[math]\text { ii. }[/math]কর্ণ ম্যাট্রিক্স
+
+[math]\text { iii. }[/math]সমঘাতি ম্যাট্রিক্স
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i,ii,ও iii
+
+
+Correct Answer: ক
+
+Solution:
+[math]A=\left[\begin{array}{lll}3 & 0 & 0 \\0 & 3 & 0 \\0 & 0 & 3\end{array}\right]=3\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right]=3 I_{3}[/math]
+ [math]\therefore A^{2}=\left(3 I_{3}\right)^{2}=3^{2} I_{3}^{2}=9 I_{3}^{2} 
+eq A[/math]
+ [math]\therefore[/math]
+ [math]A[/math]
+ সমঘাতি ম্যাট্রিক্স নয় ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 412246)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Jahangirnagar University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\left[\begin{array}{cc}7 & x \\3 x+y & 7\end{array}\right]=\left[\begin{array}{ll}7 & 3 \\9 & 7\end{array}\right][/math] হয় তবে [math]y[/math] এর মান কত?
+
+Options:
+A. [math]0[/math]
+B. [math]7[/math]
+C. [math]9[/math]
+D. [math]18[/math]
+
+
+Correct Answer: ক
+
+Solution:
+দুটি ম্যাট্রিক্স তুলনা করে, [math]x=3[/math]
+ এবং [math]3 x+y=9[/math]
+ [math]\therefore y=9-(3 \times 3)=0[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 412247)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি স্কেলার ম্যাট্রিক্স?
+
+Options:
+ক. [math]\left[\begin{array}{rr}2 & -5 \\-5 & 2\end{array}\right][/math]
+খ. [math]\left[\begin{array}{ll}0 & 0 \\5 & 5\end{array}\right][/math]
+গ. [math]\left[\begin{array}{rr}-6 & 0 \\0 & -6\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{ll}4 & 4 \\0 & 0\end{array}\right][/math]
+
+
+Correct Answer: C.[math]\left[\begin{array}{rr}-6 & 0 \\0 & -6\end{array}\right][/math]
+
+Solution:
+স্কেলার ম্যাট্রিক্স (Scalar matrix): যে কর্ণ ম্যাট্রিক্সের মূখ্য কর্ণের ভুক্তিসমূহ সমান তাকে ফেলার ম্যাট্রিক্স বলা হয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 412248)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ccc}22 & 19 & 17 \\15 & 11 & 10 \\18 & 23 & 14\end{array}\right][/math] ম্যাট্রিক্সটির ট্রেস কত?
+
+Options:
+A. [math]46[/math]
+B. [math]47[/math]
+C. [math]3366[/math]
+D. [math]3388[/math]
+
+
+Correct Answer: B.[math]47[/math]
+
+Solution:
+ম্যাট্রিক্সটির ট্রেস হবে প্রধান কর্ন বরাবর ভুক্তি গুলোর যোগফল[math]\therefore[/math]
+ ট্রেস [math]=22+11+14=47[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 412249)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি [math]\left[\begin{array}{rrrr}3 & -2 & 5 & 0 \\-1 & 4 & 2 & 7 \\8 & 0 & 9 & 3 \\4 & -6 & 0 & 1\end{array}\right][/math] ম্যাট্রিক্সের উপ-ম্যাট্রিক্স ?
+
+Options:
+ক. [math]\left[\begin{array}{l}5 \\7\end{array}\right][/math]
+খ. [math]\left[\begin{array}{rr}4 & 5 \\0 & 2 \\-6 & 9\end{array}\right][/math]
+গ. [math]\left[\begin{array}{lll}4 & 2 & 7 \\0 & 9 & 3\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{rr}-2 & 5 \\0 & 1\end{array}\right][/math]
+
+
+Correct Answer: C.[math]\left[\begin{array}{lll}4 & 2 & 7 \\0 & 9 & 3\end{array}\right][/math]
+
+Solution:
+কোনো একটি ম্যাট্রিরের যেকোনো সংখ্যক সারি ও কলামের ভুক্তি বাদ দিয়ে গঠিত ম্যাট্রিক্সটি হলো পূর্বের ম্যাট্রিক্স এর উপ স্যাট্রিক্স।এখানে, [math]\begin{bmatrix}5 \\7\end{bmatrix}[/math]
+ given ম্যাট্রিদ্রের কোনো কলাম বা সারি নয়।[math]\left[\begin{array}{cc}4 & 5 \\0 & 2 \\-6 & 9\end{array}\right][/math]
+ given ম্যাট্রিদ্রের কোনো কলাম বা সারি নয়।[math]\left[\begin{array}{lll}4 & 2 & 7 \\0 & 9 & 3\end{array}\right][/math]
+ given মাঝে থাকা ভুক্তি তাই এটিই সঠিক উত্তর।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 412250)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি সমঘাতি ম্যাট্রিক্স?
+
+Options:
+ক. [math]\left[\begin{array}{rr}5 & 4 \\-5 & -4\end{array}\right][/math]
+খ. [math]\left[\begin{array}{rr}-3 & -6 \\1, & 4\end{array}\right][/math]
+গ. [math]\left[\begin{array}{rr}-5 & 4 \\5 & -4\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{rr}-3 & 6 \\1 & 2\end{array}\right][/math]
+
+
+Correct Answer: A.[math]\left[\begin{array}{rr}5 & 4 \\-5 & -4\end{array}\right][/math]
+
+Solution:
+[math]\left[\begin{array}{cc}\mathrm{a} & \mathrm{b} \\\mathrm{c} & \mathrm{d}\end{array}\right][/math]
+ ম্যাট্রিক্সটি সমঘাতি হবে যদি —[math]\begin{array}{l}\text{(i) } d=1-a\\\text{(ii) } a=a^{2}+b c\end{array}[/math]
+ [math]\text { (iii) } d=b c+d^{2}[/math]
+ হয় ।শুধুমাত্র অপশন (ক) প্রদত্ত শর্তগুলি দ্বারা সিদ্ধ হয় ।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 412251)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\mathrm X[/math] এবং [math]\mathrm Y[/math] ম্যাট্রিক্স হয়, তবে নিচের কোনটি সঠিক?
+
+Options:
+ক. [math]X^{t}=\left(X^{-1}\right)^{-1}[/math]
+খ. [math]Y-X=X-Y[/math]
+গ. [math]X+Y \neq Y+X[/math]
+ঘ. [math]\left(Y^{t}\right)^{t}=\mathrm{Y}[/math]
+
+
+Correct Answer: D.[math]\left(Y^{t}\right)^{t}=\mathrm{Y}[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 412252)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]A=\left[\begin{array}{rrr}1 & -3 & -2 \\4 & 5 & 8 \\3 & 2 & 9\end{array}\right][/math] একটি ম্যাট্রিক্স।
+
+[math]|\mathbf{A}|[/math] এর [math](2, 1)[/math] তম ভুক্তির অনুরাশির মান কত ?
+
+Options:
+ক. [math]-31[/math]
+খ. [math]-23[/math]
+গ. [math]23[/math]
+ঘ. [math]31[/math]
+
+
+Correct Answer: B.[math]-23[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 412253)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]A=\left[\begin{array}{rrr}1 & -3 & -2 \\4 & 5 & 8 \\3 & 2 & 9\end{array}\right][/math] একটি ম্যাট্রিক্স।
+
+[math]|\mathbf{A}|[/math] এর মান কত ?
+
+Options:
+ক. [math]7[/math]
+খ. [math]30[/math]
+গ. [math]51[/math]
+ঘ. [math]79[/math]
+
+
+Correct Answer: D.[math]79[/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 412254)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}1 & 3 & 5 \\2 & 4 & 6\end{array}\right][/math] একটি -
+
+i. আয়তাকার ম্যাট্রিক্স
+
+ii. নির্ণায়ক আকারে প্রকাশ যোগ্য ম্যাট্রিক্স
+
+iii. [math]3 \times 2[/math] ক্রমের ম্যাট্রিক্স
+
+নিচের কোনটি সঠিক?
+
+Options:
+A. i
+B. iii
+C. i ও ii
+D. i, ii ও iii
+
+
+Correct Answer: ক
+
+Solution:
+আয়তাকার ম্যাট্রিক্স যার ক্রম [math]2 \times 3[/math] যা নির্ণায়ক আকারে প্রকাশ যোগ্য নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 412255)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Joypurhat Girls’ Cadet College
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি ঊর্ধ্বত্রিভুজাকার ম্যাট্রিক্স ?
+
+Options:
+ক. [math]\left[\begin{array}{lll}1 & 0 & 0 \\2 & 4 & 0 \\3 & 9 & 6\end{array}\right][/math]
+খ. [math]\left[\begin{array}{lll}1 & 2 & 3 \\9 & 4 & 5 \\8 & 7 & 6\end{array}\right][/math]
+গ. [math]\left[\begin{array}{lll}1 & 2 & 0 \\0 & 4 & 5 \\0 & 0 & 7\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{lll}1 & 2 & 3 \\0 & 4 & 5 \\0 & 0 & 6\end{array}\right][/math]
+
+
+Correct Answer: D.[math]\left[\begin{array}{lll}1 & 2 & 3 \\0 & 4 & 5 \\0 & 0 & 6\end{array}\right][/math]
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 412256)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: সফিউদ্দিন সরকার একাডেমি এন্ড কলেজ
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{B}=\left[\begin{array}{ccc}2 & 1 & 5 \\-1 & -2 & -2 \\3 & 1 & 2\end{array}\right][/math] হলে [math]|\mathbf{B}|=[/math] কত ?
+
+Options:
+A. [math]15[/math]
+B. [math]17[/math]
+C. [math]19[/math]
+D. [math]21[/math]
+
+
+Correct Answer: B.[math]17[/math]
+
+Solution:
+[math]\begin{array}{l}2\left|\begin{array}{cc}-2 & -2 \\1 & 2\end{array}\right|-1\left|\begin{array}{cc}-1 & -2 \\3 & 2\end{array}\right|+5\left|\begin{array}{cc}-1 & -2 \\3 & 1\end{array}\right| \\\Rightarrow 2(-4+2)-(-2+6)+5(-1+6) \\\Rightarrow -4-4+25=17\end{array}[/math]
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 412234)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{rr}1 & -1 \\1 & 1\end{array}\right][/math] হলে [math]A^{-1}=?[/math]
+
+Options:
+A. [math]\frac{1}{2}\left[\begin{array}{rr}1 & 1 \\-1 & 1\end{array}\right][/math]
+B. [math]\frac{1}{2}\left[\begin{array}{rr}1 & -1 \\1 & 1\end{array}\right][/math]
+C. [math]\left[\begin{array}{rr}1 & 1 \\-1 & 1\end{array}\right][/math]
+D. [math]\left[\begin{array}{rr}1 & -1 \\1 & 1\end{array}\right][/math]
+
+
+Correct Answer: A.[math]\frac{1}{2}\left[\begin{array}{rr}1 & 1 \\-1 & 1\end{array}\right][/math]
+
+Solution:
+আমরা জানি [math]A=\left[\begin{array}{ll}a & b \\c & d\end{array}\right][/math]
+ হলে [math]A^{-1}=\frac{1}{a d-b c}\left[\begin{array}{cc}d & -b \\-c & a\end{array}\right][/math]
+ [math]A=\left[\begin{array}{rr}1 & -1 \\1 & 1\end{array}\right][/math]
+ হলে [math]A^{-1}=\frac{1}{1+1}\left[\begin{array}{rr}1 & 1 \\-1 & 1\end{array}\right][/math]
+ [math]=\frac{1}{2}\left[\begin{array}{rr}1 & 1 \\-1 & 1\end{array}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 412225)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+A ও B ম্যাট্রিক্সের ক্রম যথাক্রমে 5×3, 3×4 হলে AB ম্যাট্রিক্সের ক্রম কোনটি?
+
+Options:
+ক. [math]4 \times 5[/math]
+খ. [math]5\times4[/math]
+গ. [math]3 \times 3[/math]
+ঘ. [math]4 \times 3[/math]
+
+
+Correct Answer: B.[math]5\times4[/math]
+
+Solution:
+এখানে, A ম্যাট্রিক্সের ক্রম [math]=5 \times 3[/math]
+A ম্যাট্রিক্সের সারির সংখ্যা 5 এবং কলাম সংখ্যা 3B ম্যাট্রিক্সের ক্রম [math]=3 \times 4[/math]
+B ম্যাট্রিক্সের সারির সংখ্যা 3 এবং কলাম সংখ্যা 4[math]AB[/math]
+ ম্যাট্রিক্সের ক্রম [math]=~A[/math]
+ ম্যাট্রিক্সের সারির সংখ্যা [math]\times \mathbf{B}[/math]
+ ম্যাট্রিক্সের কলাম সংখ্যা।[math]\therefore \mathrm{AB}[/math]
+ এর ক্রম [math]=5 \times 4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 412226)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]A, B[/math] এবং C ম্যাট্রিক্সগুলোর আকার যথাক্রমে [math]m \times n, n \times m[/math] এবং [math]\mathbf{m} \times \mathbf{s}[/math] হলে [math]\left(A^{\mathrm{T}}+\mathbf{B}\right) \mathbf{C}[/math] ম্যাট্রিক্সের আকার হবে
+
+Options:
+A. [math]\mathrm{m} \times \mathrm{s}[/math]
+B. [math]\mathrm{s} \times \mathrm{n}[/math]
+C. [math]\mathrm{n} \times \mathrm{m}[/math]
+D. [math]\mathrm{n} \times \mathrm{s}[/math]
+
+
+Correct Answer: D.[math]\mathrm{n} \times \mathrm{s}[/math]
+
+Solution:
+এখানে,A ম্যাট্রিক্সের মাত্রা m × n; A [math]^T[/math]
+-এর মাত্রা n × mB ম্যাট্রিক্সের মাত্রা n × m[math]\left(A^{\top}+B\right)[/math]
+ ম্যাট্রিক্সের মাত্রা n × mC ম্যাট্রিক্সের মাত্রা m × sসুতরাং [math]\left(A^{T}+B\right) C[/math]
+ ম্যাট্রিক্সের ক্রম = [math]\left(A^{T}+B\right)[/math]
+ ম্যাট্রিক্সের সারি সংখ্যা × C ম্যাট্রিক্সের কলাম সংখ্যা = n [math]\times[/math]
+ s
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 412227)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6\end{array}\right], B=\left[\begin{array}{l}7 \\8 \\9\end{array}\right][/math] হলে, AB এর ক্রম কত?
+
+Options:
+A. 2 [math]\times[/math] 1
+B. [math]1 \times 2[/math]
+C. [math]3 \times 1[/math]
+D. [math]2 \times 3[/math]
+
+
+Correct Answer: A.2 [math]\times[/math] 1
+
+Solution:
+এখানে,[math]A=\left[\begin{array}{lll}1 & 2 & 3 \\4 & 5 & 6\end{array}\right], B=\left[\begin{array}{l}7 \\8 \\9\end{array}\right][/math]A ম্যাট্রিক্সের ক্রম 2 × 3, B ম্যাট্রিক্সের ক্রম 3 × 1AB ম্যাট্রিক্সের ক্রম 2 × 1
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 412228)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+P এবং Q ম্যাট্রিক্স দুইটির ক্রম যথাক্রমে a × b এবং b [math]\times[/math] c হলে PQ ম্যাট্রিক্সের ক্রম কোনটি?
+
+Options:
+ক. a [math]\times[/math] b
+খ. b [math]\times[/math] c
+গ. b [math]\times[/math] b
+ঘ. a [math]\times[/math] c
+
+
+Correct Answer: D.a [math]\times[/math] c
+
+Solution:
+এখানে, P ম্যাট্রিক্সের ক্রম = a [math]\times[/math]
+ bP ম্যাট্রিক্সের সারির সংখ্যা a এবং কলাম সংখ্যা bQ ম্যাট্রিক্সের ক্রম = b [math]\times[/math]
+ cQ ম্যাট্রিক্সের সারির সংখ্যা b এবং কলাম সংখ্যা cPQ ম্যাট্রিক্সের ক্রম = P ম্যাট্রিক্সের সারির সংখ্যা × Q ম্যাটিক্সের কলাম সংখ্যাPQ এর ক্রম =a [math]\times[/math]
+ c
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 412229)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+ম্যাট্রিক্স A এর মাত্রা 4 × 5, ম্যাট্রিক্স B এর মাত্রা 5 × 4 হলে BA এর মাত্রা কত?
+
+Options:
+ক. 4 [math]\times[/math] 4
+খ. 5 [math]\times[/math] 5
+গ. 4 [math]\times[/math] 5
+ঘ. 5 [math]\times[/math] 4
+
+
+Correct Answer: B.5 [math]\times[/math] 5
+
+Solution:
+এখানে, B ম্যাট্রিক্সের ক্রম = 5 [math]\times[/math] 4B ম্যাট্রিক্সের সারির সংখ্যা 5 এবং কলাম সংখ্যা 4A ম্যাট্রিক্সের ক্রম = 4 × 5A ম্যাট্রিক্সের সারির সংখ্যা 4 এবং কলাম সংখ্যা 5BA ম্যাট্রিক্সের ক্রম = B ম্যাট্রিক্সের সারির সংখ্যা × A ম্যাট্রিক্সের কলাম সংখ্যা।BA এর ক্রম = 5 × 5
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 412230)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\left[\begin{array}{cc}m-2 & 6 \\2 & m-3\end{array}\right][/math] একটি ব্যতিক্রমী ম্যাটিক্স হয়, তবে [math]\mathrm{m}=\text { ? }[/math]
+
+Options:
+A. [math]-2,-3[/math]
+B. [math]1,-6[/math]
+C. [math]6,-1[/math]
+D. [math]2,-3[/math]
+
+
+Correct Answer: C.[math]6,-1[/math]
+
+Solution:
+ম্যাট্রিক্সটি ব্যতিক্রমী হবে যখন,[math]\left|\begin{array}{cc}m-2 & 6 \\2 & m-3\end{array}\right|=0[/math]
+বা, [math](m-2)(m-3)-12=0[/math]
+বা, [math]m^{2}-2 m-3 m+6-12=0[/math]
+বা, [math]m^{2}-5 m-6=0[/math]
+বা, [math]m^{2}-6 m+m-6=0[/math]
+বা, [math]m(m-6)+1(m-6)=0[/math]
+বা, [math](m-6)(m+1)=0[/math]
+ [math]\therefore m=6,-1[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 412231)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+. P এর মান কত ত হলে হলে [math]\left[\begin{array}{cr}P+1 & 6 \\4 & -8\end{array}\right][/math] ম্যাট্রিক্সটি ব্যতিক্রমী হবে?
+
+Options:
+ক. [math]4[/math]
+খ. [math]2[/math]
+গ. [math]-2[/math]
+ঘ. [math]-4[/math]
+
+
+Correct Answer: D.[math]-4[/math]
+
+Solution:
+ধরি, [math]A=\left[\begin{array}{cr}P+1 & 6 \\4 & -8\end{array}\right][/math]
+যেহেতু, A ম্যাট্রিক্সটি ব্যতিক্রমী।তাই, [math]|A|=0[/math]
+বা, [math]\left|\begin{array}{cr}P+1 & 6 \\4 & -8\end{array}\right|=0[/math]
+বা, [math]-8 P-8-24=0[/math]
+বা, [math]-8 P-32=0[/math]
+বা, [math]-8 P=32[/math]
+ [math]\therefore P=-4[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 412232)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]K[/math] এর কোন মানের জন্য [math]\left[\begin{array}{cc}k+1 & 3 \\3 & k-1\end{array}\right][/math] ম্যাট্রিক্সটি বিপরীতযোগ্য নয় -
+
+Options:
+ক. [math]- 3[/math]
+খ. [math]0[/math]
+গ. [math]3[/math]
+ঘ. [math]\pm \sqrt{10}[/math]
+
+
+Correct Answer: D.[math]\pm \sqrt{10}[/math]
+
+Solution:
+ধরি, [math]A=\left[\begin{array}{cc}k+1 & 3 \\3 & , k-1\end{array}\right][/math]
+যেহেতু, A ম্যাট্রিক্সটি বিপরীতযোগ্য নয়।তাই, [math]|A|=0[/math]
+ হবে।অর্থাৎ, [math]\left|\begin{array}{cc}k+1 & 3 \\3 & k-1\end{array}\right|=0[/math]
+বা, [math](k+1)(k-1)-9=0[/math]
+বা, [math]k^{2}-1-9=0[/math]
+বা, [math]k^{2}=10[/math]
+ [math]\therefore k= \pm \sqrt{10}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 412233)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ll}7 & 6 \\8 & 7\end{array}\right][/math] এর বিপরীত ম্যাট্রিক্স কোনটি?
+
+Options:
+A. [math]\left[\begin{array}{cc}-7 & 8 \\6 & -7\end{array}\right][/math]
+B. [math]\left[\begin{array}{rr}7 & -6 \\-8 & 7\end{array}\right][/math]
+C. [math]\left[\begin{array}{cc}7 & -8 \\-6 & 7\end{array}\right][/math]
+D. [math]\left[\begin{array}{rr}-7 & 6 \\8 & -7\end{array}\right][/math]
+
+
+Correct Answer: B.[math]\left[\begin{array}{rr}7 & -6 \\-8 & 7\end{array}\right][/math]
+
+Solution:
+ধরি, [math]A=\left[\begin{array}{ll}7 & 6 \\8 & 7\end{array}\right][/math]
+ [math]\therefore \mathrm{A}^{-1}=\frac{1}{49-48}\left[\begin{array}{rr}7 & -6 \\-8 & 7\end{array}\right]=\frac{1}{1}\left[\begin{array}{rr}7 & -6 \\-8 & 7\end{array}\right]=\left[\begin{array}{rr}7 & -6 \\-8 & 7\end{array}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 412224)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+কোনটি অভেদঘাতি ম্যাট্রিক্স?
+
+Options:
+ক. [math]\left[\begin{array}{l}1 \\4 \\3\end{array}\right][/math]
+খ. [math]\left(\begin{array}{cc}-7 & 16 \\-3 & 7\end{array}\right)[/math]
+গ. [math]\left[\begin{array}{lll}5 & 7 & 9\end{array}\right][/math]
+ঘ. [math]\left[\begin{array}{lll}0 & 0 & 0\end{array}\right][/math]
+
+
+Correct Answer: B.[math]\left(\begin{array}{cc}-7 & 16 \\-3 & 7\end{array}\right)[/math]
+
+Solution:
+অভেদঘাতি ম্যাট্রিক্স (Involutory Matrix): একটি বর্গ ম্যাট্রিক্স A কে অভেদঘাতি ম্যাট্রিক্স বলা হবে যদি [math]A^{2}=I[/math]
+ হয়।. [math]\left[\begin{array}{l}1 \\4 \\3\end{array}\right][/math]
+ [math]\therefore[/math]
+ (ক) অপশনটি সঠিক নয়।. [math]A=\left(\begin{array}{cc}-7 & 16 \\-3 & 7\end{array}\right)[/math]
+ হলে, [math]\begin{aligned}A^{2} & =\left(\begin{array}{cc}-7 & 16 \\-3 & 7\end{array}\right)\left(\begin{array}{cc}-7 & 16 \\-3 & 7\end{array}\right) \\& =\left(\begin{array}{cc}49-48 & -112+112 \\21-21 & -48+49\end{array}\right)\end{aligned}[/math]
+ [math]=\left(\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right)=I[/math]
+সুতরাং, A একটি অভেদঘাতি ম্যাট্রিক্স।[math]\therefore[/math]
+ (খ) অপশনটি সঠিক।• [math][579][/math]
+ একটি সারি ম্যাট্রিক্স।[math]\therefore[/math]
+ (গ) অপশনটি সঠিক নয়।• [math][0~0~0][/math]
+ একটি শূন্য ম্যাট্রিক্স।[math]\therefore[/math]
+ (ঘ) অপশনটি সঠিক নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 412235)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ll}5 & 3 \\4 & 3\end{array}\right][/math] এর বিশজীত ম্যাট্রিক্স কোনটি?
+
+Options:
+A. [math]\frac{1}{27}\left[\begin{array}{rr}3 & -3 \\-4 & 5\end{array}\right][/math]
+B. [math]\frac{1}{3}\left[\begin{array}{rr}3 & -3 \\-4 & 5\end{array}\right][/math]
+C. [math]\frac{1}{27}\left[\begin{array}{cc}-5 & 4 \\3 & -3\end{array}\right]][/math]
+D. [math]\frac{1}{3}\left[\begin{array}{cr}-5 & 3 \\4 & -3\end{array}\right][/math]
+
+
+Correct Answer: B.[math]\frac{1}{3}\left[\begin{array}{rr}3 & -3 \\-4 & 5\end{array}\right][/math]
+
+Solution:
+ধরি, [math]A=\left[\begin{array}{ll}5 & 3 \\4 & 3\end{array}\right][/math]
+ [math]\begin{aligned}\therefore A^{-1} & =\frac{1}{15-12}\left[\begin{array}{cc}3 & -3 \\-4 & 5\end{array}\right] \\& =\frac{1}{3}\left[\begin{array}{cc}3 & -3 \\-4 & 5\end{array}\right]\end{aligned}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 412236)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]3 \times 3[/math] মাত্রার একটি অভেদ ম্যাট্রিক্স [math]I_{3}[/math] হলে [math]\left(1_{3}\right)^{-1}[/math] কত?
+
+Options:
+ক. [math]3 \mathrm{I}_{3}[/math]
+খ. [math]0[/math]
+গ. [math]\frac{1_{3}}{3}[/math]
+ঘ. [math]I_{3}[/math]
+
+
+Correct Answer: D.[math]I_{3}[/math]
+
+Solution:
+আমরা জানি [math]I_{3}=\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]\left|I_{3}\right|=1[/math]
+ [math]\left|I_{3}\right|[/math]
+ এর প্রত্যেকটি ভুক্তির জন্য নির্ণীত সহগুণক-[math]\begin{array}{lll}A_{11}=1 & A_{12}=0 & A_{13}=0 \\A_{21}=0 & A_{22}=1 & A_{23}=0 \\A_{11}=0 & A_{29}=0 & A_{33}=1 .\end{array}[/math]
+ [math]\begin{aligned}\therefore\left(I_{3}\right)^{-1}=\frac{1}{\left|I_{3}\right|} \operatorname{Adj}\left(I_{3}\right) & =\frac{1}{1}\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right]^{\top} \\& =\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right]=I_{3}\end{aligned}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 412237)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}5 & 0 & 0 \\0 & 6 & 0 \\0 & 0 & 7\end{array}\right][/math] হলে, [math]A^{-1}=?[/math]
+
+Options:
+A. [math]\left[\begin{array}{ccc}\frac{1}{7} & 0 & 0 \\0 & \frac{1}{6} & 0 \\0 & 0 & \frac{1}{5}\end{array}\right][/math]
+B. [math]\frac{1}{210}\left[\begin{array}{lll}5 & 0 & 0 \\0 & 6 & 0 \\0 & 0 & 7\end{array}\right][/math]
+C. [math]\left[\begin{array}{ccc}\frac{1}{5} & 0 & 0 \\0 & \frac{1}{6} & 0 \\0 & 0 & \frac{1}{7}\end{array}\right][/math]
+D. [math]\frac{1}{210}\left[\begin{array}{ccc}\frac{1}{5} & 0 & 0 \\0 & \frac{1}{6} & 0 \\0 & 0 & \frac{1}{7}\end{array}\right][/math]
+
+
+Correct Answer: C.[math]\left[\begin{array}{ccc}\frac{1}{5} & 0 & 0 \\0 & \frac{1}{6} & 0 \\0 & 0 & \frac{1}{7}\end{array}\right][/math]
+
+Solution:
+এখানে, [math]A=\left[\begin{array}{lll}5 & 0 & 0 \\0 & 6 & 0 \\0 & 0 & 7\end{array}\right][/math]
+ [math]\therefore|A|=\left|\begin{array}{lll}5 & 0 & 0 \\0 & 6 & 0 \\0 & 0 & 7\end{array}\right|=5(42-0)=210 
+eq 0 \text {; }[/math]
+ তাই [math]A^{-1}[/math]
+ নির্ণয় সম্ভব।এখানে, [math]A_{11}=42, A_{12}=0, A_{13}=0[/math]
+ [math]\begin{array}{l}A_{21}=0, A_{22}=35, A_{23}=0 \\A_{31}=0, A_{32}=0, A_{33}=30\end{array}[/math]
+ [math]\begin{array}{l}\quad \operatorname{Adj}(A)=\left[\begin{array}{lll}A_{11} & A_{12} & A_{13} \\A_{21} & A_{22} & A_{23} \\A_{31} & A_{32} & A_{33}\end{array}\right]^{\top}\left[\begin{array}{ccc}42 & 0 & 0 \\0 & 35 & 0 \\0 & 0 & 30\end{array}\right]^{\top}=\left[\begin{array}{ccc}42 & 0 & 0 \\0 & 35 & 0 \\0 & 0 & 30\end{array}\right] \\\therefore A^{-1}=\frac{1}{|A|} \operatorname{Adj}(A)=\frac{1}{210}\left[\begin{array}{ccc}42 & 0 & 0 \\0 & 35 & 0 \\0 & 0 & 30\end{array}\right] .\end{array}[/math]
+ [math]=\left[\begin{array}{ccc}\frac{1}{5} & 0 & 0 \\0 & \frac{1}{6} & 0 \\0 & 0 & \frac{1}{7}\end{array}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 412238)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+[math]{B}=\left[\begin{array}{rr}3 & 2 \\-5 & -2\end{array}\right][/math] হলে, [math]\mathrm{B}^{-1}=?[/math]
+
+Options:
+A. [math]\frac{1}{4}\left[\begin{array}{rr}-2 & -2 \\5 & 3\end{array}\right][/math]
+B. [math]\frac{1}{4}\left[\begin{array}{rr}2 & 2 \\-5 & -3\end{array}\right][/math]
+C. [math]\frac{1}{4}\left[\begin{array}{rr}-3 & -5 \\2 & 2\end{array}\right][/math]
+D. [math]\frac{1}{4}\left[\begin{array}{rr}-3 & -2 \\5 & 2\end{array}\right][/math]
+
+
+Correct Answer: A.[math]\frac{1}{4}\left[\begin{array}{rr}-2 & -2 \\5 & 3\end{array}\right][/math]
+
+Solution:
+আমরা জানি, [math]B=\left[\begin{array}{ll}\mathrm{a} & \mathrm{~b} \\\mathrm{c} & \mathrm{~d}\end{array}\right][/math]
+ হলে [math]B^{-1}=\frac{1}{a d-b c}\left[\begin{array}{cc}d & -b \\-c & a\end{array}\right][/math]
+ [math]B=\left[\begin{array}{rr}3 & 2 \\-5 & -2\end{array}\right][/math]
+ হলে [math]\begin{aligned}B^{-1} & =\frac{1}{-6+10}\left[\begin{array}{rr}-2 & -2 \\5 & 3\end{array}\right] \\& =\frac{1}{4}\left[\begin{array}{rr}-2 & -2 \\5 & 3\end{array}\right]\end{aligned}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 412239)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\left[\begin{array}{rrr}0 & 5 & -3 \\-5 & 0 & y \\x & 4 & 0\end{array}\right][/math] বিপ্রতিসম ম্যাট্রিক্স হলে (x, y) =?
+
+Options:
+A. (-3,-4)
+B. (-3,4)
+C. (3,-4)
+D. (3,4)
+
+
+Correct Answer: C.(3,-4)
+
+Solution:
+একটি বর্গ ম্যাট্রিক্স A কে বিপ্রতিসম বলা হবে যদি [math]A^{T}=-A[/math]
+ হয়।[math]\begin{array}{l}{\left[\begin{array}{rrr}0 & 5 & -3 \\-5 & 0 & y \\\mathrm{x} & 4 & 0\end{array}\right]^{\mathrm{T}}=-\left[\begin{array}{rrr}0 & 5 & -3 \\-5 & 0 & y \\\mathrm{x} & 4 & 0\end{array}\right]} \\{\left[\begin{array}{rrr}0 & -5 & \mathrm{x} \\5 & 0 & 4 \\-3 & \mathrm{y} & 0\end{array}\right]=\left[\begin{array}{rrr}0 & -5 & 0 \\5 & 0 & -\mathrm{y} \\-\mathrm{x} & -4 & 0\end{array}\right]} \\x=3, y=-4\end{array}[/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 412240)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+A² = A হলে A ম্যাট্রিক্সটি-
+
+Options:
+ক. সমঘাতী
+খ. ব্যতিক্রমী
+গ. প্রতিসম
+ঘ. অব্যতিক্রমী
+
+
+Correct Answer: A.সমঘাতী
+
+Solution:
+যদি A² = A হয়, তবে বর্গ ম্যাট্রিক্স A কে সমঘাতি ম্যাট্রিক্স বলা হয়
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 412241)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+বক্র প্রতিসম ম্যাট্রিক্সের ক্ষেত্রে কোনটি সত্য?
+
+Options:
+ক. [math]a_{i j}=a_{j i}[/math]
+খ. [math]\mathrm{a}_{\mathrm{ij}}=0[/math]
+গ. [math]a_{i j}=-a_{j i}[/math]
+ঘ. [math]\mathrm{a}_{\mathrm{ij}} \neq \mathrm{a}_{\mathrm{ji}}[/math]
+
+
+Correct Answer: C.[math]a_{i j}=-a_{j i}[/math]
+
+Solution:
+বক্র প্রতিসম ম্যাট্রিক্স (Skew Symmetric Matrix):একটি বর্গ ম্যাট্রিক্স [math]A = (a_{ij})_{m\times n}[/math]
+ কে বক্র প্রতিসম ম্যাট্রিক্স বলা হবে যদি [math]A^T = - A[/math]
+ হয় অর্থাৎ [math]a_{ij} = -a_{ji}[/math]
+ হয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 412242)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+A, B, C ম্যাট্রিক্সত্রয়ের মাত্রা যথাক্রমে 3 × 4,4 × 5 , 5 × 2 হলে, (AB)C এর মাত্রা-
+
+Options:
+ক. 4 [math]\times[/math] 5
+খ. 3 [math]\times[/math] 2
+গ. 2 [math]\times[/math] 3
+ঘ. 3 [math]\times[/math] 5
+
+
+Correct Answer: B.3 [math]\times[/math] 2
+
+Solution:
+A ম্যাট্রিক্সের মাত্রা 3 × 4;B ম্যাট্রিক্সের মাত্রা 4 × 5AB ম্যাট্রিক্সের ক্রম = A ম্যাট্রিক্সের সারি সংখ্যা × B ম্যাট্রিক্সের কলাম সংখ্যা = 3 [math]\times[/math]
+ 5C ম্যাট্রিক্সের মাত্রা 5 × 2সুতরাং, (AB)C ম্যাট্রিক্সের ক্রম = (AB) ম্যাট্রিক্সের সারি সংখ্যা × C ম্যাট্রিক্সের কলাম সংখ্যা = 3 [math]\times[/math]
+ 2
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 412243)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{cc}8 & -5 \\7 & 2\end{array}\right][/math] হলে [math]\operatorname{adj} \mathbf{A}=[/math] কোনটি?
+
+Options:
+A. [math]\left[\begin{array}{rc}2 & 5 \\-7 & -8\end{array}\right][/math]
+B. [math]\left[\begin{array}{ll}-2 & 5 \\-7 & 8\end{array}\right][/math]
+C. [math]\left[\begin{array}{cc}8 & 7 \\-5 & 2\end{array}\right][/math]
+D. [math]\left[\begin{array}{rr}2 & 5 \\-7 & 8\end{array}\right][/math]
+
+
+Correct Answer: D.[math]\left[\begin{array}{rr}2 & 5 \\-7 & 8\end{array}\right][/math]
+
+Solution:
+দেওয়া আছে, [math]A=\left[\begin{array}{rr}8 & -5 \\7 & 2\end{array}\right][/math]
+ [math]\therefore \operatorname{adj} A=\left[\begin{array}{rr}2 & 5 \\-7 & 8\end{array}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+

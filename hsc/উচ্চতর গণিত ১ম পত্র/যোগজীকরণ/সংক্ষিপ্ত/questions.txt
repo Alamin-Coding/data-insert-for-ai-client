@@ -1,0 +1,21 @@
+================================================================================
+Question #1 (ID: 416057)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: উচ্চতর গণিত ১ম পত্র | Years: 2016-2017 | Boards:  | Tags: University of Chittagong (Unit A)
+--------------------------------------------------------------------------------
+Question:
+[math]\int_{0}^{\pi / 2} \cos ^{4} \theta \sin \theta d \theta=?[/math]
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]\text { Shortcut: Calculator }[/math]
+
+Explanation:
+Use substitution [math]u=\cos\theta,\;du=-\sin\theta\,d\theta[/math], so [math]\int_0^{\pi/2}\cos^4\theta\sin\theta\,d\theta=-\int_1^0 u^4\,du=\int_0^1 u^4\,du=[u^5/5]_0^1=1/5[/math], hence option B is correct.
+
+Sub-Questions:
+

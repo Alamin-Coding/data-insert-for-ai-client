@@ -1,0 +1,32 @@
+================================================================================
+Question #1 (ID: 419511)
+--------------------------------------------------------------------------------
+Type: সংক্ষিপ্ত | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+ভেক্টর পদ্ধতিতে [math]3 i+j+k[/math] এবং [math]2 \mathrm{i}+2 \mathrm{j}-\mathrm{k}[/math] এর ছেদবিন্দু গামী সরলরেখার সমীকরণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+যেহেতু [math]3 \hat{i}+\hat{j}+\hat k[/math]
+ এবং [math]2 i+2 j-k[/math]
+ এর ছেদবিন্দু মূল বিন্দুতে, তাই মূলবিন্দুগামী যেকোন ভেক্টরই[math]3 \hat{i}+\hat{j}+\hat{k}[/math]
+ এবং [math]2 \hat{i}+2 \hat{j}-\hat{k}[/math]
+ এর ছেদবিন্দু গামী হবে। তাই সরলরেখার ভেক্টর সমীকরণ,[math]\overrightarrow{\mathrm{r}}=\langle 0,0,0)+\mathrm{t}\langle\mathrm{a}, \mathrm{b}, \mathrm{c}\rangle \therefore \mathrm{x}=\mathrm{at}, \mathrm{y}=\mathrm{bt}, \mathrm{z}=\mathrm{ct}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় সমীকরণ [math]\frac{x}{a}=\frac{y}{b}=\frac{z}{c}[/math]
+ যেখানে [math]a 
+eq 0, b 
+eq 0, c 
+eq 0[/math]
+
+
+Explanation:
+রেখাটি দুইটি বিন্দু (অবস্থান ভেক্টর) [math]\mathbf{r}_1=3\mathbf{i}+\mathbf{j}+\mathbf{k}[/math] ও [math]\mathbf{r}_2=2\mathbf{i}+2\mathbf{j}-\mathbf{k}[/math] দিয়ে গেলে ভেক্টর পদ্ধতিতে সাধারণ সূত্র [math]\mathbf{r}=\mathbf{r}_1+\lambda(\mathbf{r}_2-\mathbf{r}_1)[/math] প্রযোজ্য। ফলে রেখার সমীকরণ হলো [math]\mathbf{r}=(3\mathbf{i}+\mathbf{j}+\mathbf{k})+\lambda(-\mathbf{i}+\mathbf{j}-2\mathbf{k})[/math] বা সমতুল্য [math]\frac{x-3}{-1}=\frac{y-1}{1}=\frac{z-1}{-2}[/math]।
+
+Sub-Questions:
+

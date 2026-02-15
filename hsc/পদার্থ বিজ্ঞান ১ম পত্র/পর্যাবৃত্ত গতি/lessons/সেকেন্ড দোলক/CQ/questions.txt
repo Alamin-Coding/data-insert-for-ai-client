@@ -1,0 +1,1688 @@
+================================================================================
+Question #1 (ID: 413035)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে একটি সেকেন্ড দোলক দেখানো হলো, যা ভূ-পৃষ্ঠে সঠিক সময় দেয়। OA = 2m এবং BN = 0.5m, B দোলকটির সর্বোচ্চ অবস্থান। ববের ভর 5gm । দোলকটিকে চাঁদে নিয়ে যাওয়া হলো। পৃথিবীর ভর ও ব্যাসার্ধ চাঁদের ভর ও ব্যাসার্ধের যথাক্রমে .81 গুণ ও 4 গুণ। পৃথিবীতে [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]।
+
+
+[Image]
+
+
+Options:
+গ. চাঁদে দোলকটির দোলনকাল কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+গদেয়া আছে,পৃথিবীতে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{e}}=9.8 \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+ধরি, চাঁদের ভর [math]=\mathrm{M}_{\mathrm{m}}[/math]
+ এবং ব্যাসার্ধ [math]=\mathrm{R}_{\mathrm{m}}[/math]
+পৃথিবীর ভর, [math]\mathrm{M}_{\mathrm{e}}=81 \mathrm{M}_{\mathrm{m}}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}_{\mathrm{e}}=4 \mathrm{R}_{\mathrm{m}}[/math]
+পৃথিবীতে সেকেন্ড দোলকের দোলনকাল, [math]\mathrm{T}_{\mathrm{e}}=2 \mathrm{~s}.[/math]
+চাঁদে দোলনকাল, [math]\mathrm{T}_{\mathrm{m}}=?[/math]
+আমরা জানি, [math]\mathrm{g}_{\mathrm{e}}=\frac{\mathrm{GM}_{\mathrm{e}}}{\mathrm{R}_{\mathrm{e}}^{2}}[/math]
+ এবং[math]\begin{aligned}\mathrm{g}_{\mathrm{m}} & =\frac{\mathrm{GM}_{\mathrm{m}}}{\mathrm{R}_{\mathrm{m}}^{2}} \\\therefore \frac{\mathrm{g}_{\mathrm{e}}}{\mathrm{g}_{\mathrm{m}}} & =\frac{\mathrm{GM}_{\mathrm{e}}}{\mathrm{R}_{\mathrm{e}}^{2}} \times \frac{\mathrm{R}_{\mathrm{m}}^{2}}{\mathrm{GM}_{\mathrm{m}}} \\& =\frac{81 \mathrm{M}_{\mathrm{m}} \times \mathrm{R}_{\mathrm{m}}^{2}}{16 \mathrm{R}_{\mathrm{m}}^{2} \times \mathrm{M}_{\mathrm{m}}}=\frac{81}{16}\end{aligned}[/math]
+সরল দোলকের তৃতীয় সূত্র হতে পাই,[math]\frac{T_{m}}{T_{e}}=\sqrt{\frac{g_{e}}{g_{m}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{\mathrm{m}}=\mathrm{T}_{\mathrm{e}} \times \sqrt{\frac{\mathrm{g}_{\mathrm{e}}}{\mathrm{g}_{\mathrm{m}}}}[/math]
+ [math]\begin{array}{l}=2 \times \sqrt{\frac{81}{16}} \\=2 \times \frac{9}{4} \\=4.5 \mathrm{~s} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+গ কারণ দোলকের কাল [math]T=2\pi\sqrt{\dfrac{L}{g}}[/math] এবং লম্বা অপরিবর্তিত থাকায় মাত্র [math]g[/math]-এর উপর নির্ভর করে; ভর ও অ্যাম্প্লিটিউডের প্রভাব নেই। পৃথিবী ও চাঁদের সম্পর্ক থেকে [math]g_{\rm moon}=\dfrac{16}{81}g_{\rm earth}[/math], সুতরাং
+[math]T_{\rm moon}=T_{\rm earth}\sqrt{\dfrac{g_{\rm earth}}{g_{\rm moon}}}=2\sqrt{\dfrac{81}{16}}=4.5\ \mathrm{s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 413036)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মতিন একদিন একটি সেকেন্ড দোলককে পাহাড়ের পাদদেশে নিয়ে গেলে সঠিক সময় পায় কিন্তু পাহাড়ের চূড়ায় নিয়ে দিয়ে সে লক্ষ্য করল যে, দোলকটি ঘণ্টায় 30 সেকেন্ড সময় হারায়। [পৃথিবীর ব্যাসার্ধ R = 6400 km, অভিকর্ষজ ত্বরণ [math]\mathrm{g}=9.8 \mathrm{~m} / \mathrm{s}^{ 2}[/math] ]
+
+Options:
+ঘ. উদ্দীপকের তথ্যের ভিত্তিতে পাহাড়ের উচ্চতা নির্ণয় করা সম্ভব কিনা গাণিতিকভাবে ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ [math]53760 \mathrm{~m} .[/math]
+
+Explanation:
+ঘ হ্যাঁ—পেন্ডুলামের কালানুপাতে [math]T\propto g^{-1/2}[/math] হওয়ায় [math]\Delta T/T\approx -\tfrac{1}{2}\Delta g/g[/math]। ঘণ্টায় 30 s হারানোর মানে [math]\Delta T/T\approx 30/3600=1/120[/math], তাই [math]\Delta g/g\approx -1/60[/math] এবং ভূমির ব্যাসার্ধে উচ্চতার প্রভাব [math]\Delta g/g\approx -2h/R[/math] থেকে [math]h=R/120[/math] পাওয়া যায়; তাই [math]h=6400/120\approx 53.3\ \text{km}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 413037)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূপৃষ্ঠ হতে সেকেন্ড দোলকের একটিকে [math]2 \times 10^{6} \mathrm{~m}[/math] উচ্চতায় অবস্থিত কোনো ভূ-স্থির উপগ্রহে নেয়া হলো। অপরটিকে [math]3 \times 10^{6} \mathrm{~m}[/math] গভীরে একটা খনিতে নেয়া হলো।
+
+Options:
+গ. কৃত্রিম উপগ্রহে অভিকর্ষজ ত্বরণ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,উপগ্রহের উচ্চতা, [math]\mathrm{h}=2 \times 10^{6} \mathrm{~m}[/math]
+উপগ্রহে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{h}}=\text { ? }[/math]
+ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+পৃথিবীর ব্যাসার্ধ,[math]\begin{aligned}\mathrm{R} & =6400 \mathrm{Km} \\& =6.4 \times 10^{6} \mathrm{~m}\end{aligned}[/math]
+আমরা জানি,[math]\begin{array}{l}\mathrm{gh}=\mathrm{g} \frac{\mathrm{R}^{2}}{(\mathrm{R}+\mathrm{h})^{2}} \\=9.8 \times \frac{\left(6.4 \times 10^{6}\right)^{2}}{\left(6.4 \times 10^{6}+2 \times 10^{6}\right)^{2}} \\=9.8 \times 0.58 \\=5.69 \mathrm{~ms}^{-2} \text { (Ans) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ কৃত্রিম উপগ্রহে অভিকর্ষজ ত্বরণ গণনা করতে হবে যেখানে গড় ভূ-তৃষ্ণা [math]g=9.8\ \mathrm{m/s^2}[/math], পৃথিবীর ব্যাসার্ধ ধরা [math]R=6.4\times10^6\ \mathrm{m}[/math] এবং উচ্চতা [math]h=2\times10^6\ \mathrm{m}[/math]। সূত্র হল [math]g' = g\left(\dfrac{R}{R+h}\right)^2[/math], তাই [math]g' = 9.8\left(\dfrac{6.4\times10^6}{6.4\times10^6+2\times10^6}\right)^2 = 9.8\left(\dfrac{6.4}{8.4}\right)^2 \approx 5.69\ \mathrm{m/s^2}[/math]. সংক্ষেপে, দূরত্ব বাড়লে অভিকর্ষজ ত্বরণ বর্গের অনুপাতে কমে যায়, তাই উপগ্রহে তা প্রায় [math]5.7\ \mathrm{m/s^2}[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 413039)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পৃথিবী পৃষ্ঠে এবং চন্দ্র পৃষ্ঠে দুটি সেকেন্ড দোলকের দৈর্ঘ্যের অনুপাত 16 : 81 । পৃথিবী পৃষ্ঠে g- এর মান [math]9.87 \mathrm{~ms}^{-2}[/math] হলে চন্দ্র পৃষ্ঠে 'g' এর মান নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.938 \mathrm{~ms}^{-2}[/math])
+
+Explanation:
+ব্যাখ্যা: দুই সেকেন্ড দোলকের জন্য [math]T=2\pi\sqrt{L/g}[/math], তাই একই কালচক্রে [math]L=\dfrac{gT^2}{4\pi^2}[/math] এবং ফলে [math]L\propto g[/math]. তাই দৈর্ঘ্যের অনুপাত [math]\dfrac{L_{পৃথিবী}}{L_{চাঁদ}}=\dfrac{16}{81}[/math] হলে [math]\dfrac{g_{পৃথিবী}}{g_{চাঁদ}}=\dfrac{16}{81} এবং
+[math]g_{চাঁদ}=9.87\times\frac{81}{16}=49.97\ \mathrm{m\,s^{-2}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 413040)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীর ব্যাসার্ধ 6400 কি. মি.। ভূ-গর্ভে g এর মান কেন্দ্র থেকে দূরত্বের সমানুপাতিক। পৃষ্ঠ থেকে ক ত গভীরতায় একটি সেকেন্ড দোলক দিনে 5 মিনিট সময় হারাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]44.6 \mathrm{~km}[/math]
+)[math]\\[/math]
+Solution :ধরি ,পৃথিবী পৃষ্ঠের অভিকর্ষজ ত্বরণ = gভূ-গর্ভস্থ স্থানে অভিকর্ষজ ত্বরণ [math]=g_{0}[/math]
+পৃথিবীর ব্যাসার্ধ = Rভূ-পৃষ্ঠ থেকে গভীরতা = hএখানে, [math]g=g_{0}\left(1-\frac{d}{R}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{g}{g_{0}}=\left(1-\frac{d}{R}\right)[/math]
+এখন, পর্যায়কাল এর সূত্র থেকে পাই,[math]\begin{array}{l}\frac{T}{T_0}=\sqrt{\frac{g_0}{g}}\\\Rightarrow\frac{T}{T_o}=\left(1-\frac{d}{R}\right)^{\frac{-1}{2}}\\\Rightarrow T=T_0\left(1-\frac{d}{R}\right)^{\frac{-1}{2}}\\\Rightarrow T=T_0\left(1+\frac{d}{2R}\right)\end{array}[/math]
+এখন, একটি সম্পূর্ণ দিনের সময়ের পরিমাণ সরল দোলকের পর্যায়কালের সমানুপাতিক ।সুতরাং, [math]\frac{\mathrm{T}}{\mathrm{T}_{\mathrm{o}}}=\frac{\mathrm{t}}{\mathrm{t}_{\mathrm{o}}}=1+\frac{\mathrm{d}}{2 \mathrm{R}}[/math]
+ [ t এবং [math]t_{0}[/math]
+ যথাক্রমে ভূ-পৃষ্ঠে এবং ভূ-গর্ভে সরল দোলকের পর্যায়কাল ][math]\begin{array}{l}\Rightarrow \frac{24 \times 60 \times 60}{24 \times 60 \times 60-5 \times 60}=1+\frac{d}{2 R} \\\Rightarrow \frac{86400}{86400-300}=1+\frac{d}{2 R}[R=6400 \mathrm{~km}]\end{array}[/math]
+ [math]\therefore \mathrm{d}=44.6 \mathrm{~km} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূ-গর্ভে শক্তিহ্রাস অনুপাতিক হওয়ায় গ-এর মান পৃষ্ঠ থেকে গভীরতা [math]k[/math] এ হবে [math]g' = g\frac{R-k}{R}[/math] যেখানে [math]R=6400\ \text{km}[/math]. ঘড়ি দিনে [math]5\ \text{মিনিট} = 5/1440[/math] অংশ হারালে period-এর আপেক্ষিক বৃদ্ধি [math]\Delta T/T=5/1440=1/288[/math] এবং [math]\Delta g/g\approx -2\Delta T/T=-1/144[/math], তাই [math]\frac{R-k}{R}=1-\frac{1}{144}=\frac{143}{144}[/math] থেকে [math]k=\frac{R}{144}=\frac{6400}{144}\ \text{km}\approx 44.44\ \text{km}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 413041)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলকের দৈর্ঘ্য 4 গুণ করলে 60 দোলনে ইহার কত সময় লাগবে ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 4 min)[math]\\[/math]
+Solution :এখানে,সেকেন্ড দোলকের পর্যায়কাল, T=2sসেকেন্ড দোলকের দৈর্ঘ্য = [math]l[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+দৈর্ঘ্য 4 গুণ করলে পরিবর্তীত দৈর্ঘ্য, [math]l^{\prime}=4 l[/math]
+পরিবর্তিত পর্যায়কাল, [math]\mathrm{T}^{\prime}=?[/math]
+সেকেন্ড দোলকের পর্যায়কাল,[math]\mathrm{T}=2 \pi \sqrt{\frac{l}{\mathrm{~g}}}[/math]
+ ..........(1)দৈর্ঘ্য 4 গুণ করলে পরিবর্তিত পর্যায়কাল, [math]\mathrm{T}^{\prime}=2 \pi \sqrt{\frac{l^{\prime}}{\mathrm{g}}}[/math]
+ ........(2)(1) ÷ (2) হতে পাই,[math]\frac{\mathrm{T}}{\mathrm{T}^{\prime}}=\sqrt{\frac{l}{l^{\prime}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}^{\prime}=\sqrt{\frac{l^{\prime}}{l}} \times \mathrm{T}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}^{\prime}=\sqrt{\frac{4 l}{l}} \times 2[/math]
+ [math]\therefore \mathrm{T}^{\prime}=4 \mathrm{~s}[/math]
+ [math]\therefore[/math]
+ 60 টি দোলনে ব্যয়িত সময় [math]=60 \times \mathrm{T}^{\prime}=60 \times 4=240 \mathrm{~s}=4 \mathrm{~min}[/math]
+ (Ans.)
+
+Explanation:
+ব্যাখ্যা: সেকেন্ড দোলকের পর্যায়কাল [math]T_0=2\ \text{সেকেন্ড}[/math]. দৈর্ঘ্যের সাথে পর্যায়কাল সম্পর্কিত: [math]T=T_0\sqrt{\dfrac{L'}{L}}=2\sqrt{4}=4\ \text{সেকেন্ড}[/math], তাই ৬০ দোলনে সময় [math]60\times4=240\ \text{সেকেন্ড}=4\ \text{মিনিট}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 413042)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি স্থানে অভিকর্ষজ ত্বরণের মান [math]9.81 \mathrm{~ms}^{-2}[/math] ও [math]9.79 \mathrm{~ms}^{-2 }[/math] হলে ঐ দুই স্থানে সেকেন্ড দোলক (এক দোলনের সময়কাল 2 সেকেন্ড) এর দৈর্ঘ্যের পার্থক্য কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.00203 \mathrm{~m}[/math]
+ )[math]\\[/math]
+Solution :এখানে,দোলনকাল, T = 2 s১ম ক্ষেত্রে — অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{1}=9.81 \mathrm{~ms}^{-2}[/math]
+দৈর্ঘ্য [math]=\mathrm{L}_{1}[/math]
+২য় ক্ষেত্রে— অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{2}=9.79 \mathrm{~ms}^{-2}[/math]
+দৈর্ঘ্য [math]=\mathrm{L}_{2}[/math]
+ [math]\therefore \mathrm{L}_{1}-\mathrm{L}_{2}=\text { ? }[/math]
+১ম ক্ষেত্রে—[math]\mathrm{T}=2 \pi \sqrt{\frac{\mathrm{L}_{1}}{\mathrm{~g}_{1}}}[/math]
+ ....(1)[math]\therefore \mathrm{L}_{1}=\frac{\mathrm{g}_{1} \mathrm{~T}^{2}}{4 \pi^{2}}[/math]
+ [math]=\frac{9.81 \times 2^{2}}{4 \times \pi^{2}} \mathrm{~m}[/math]
+ [math]=0.993961 \mathrm{~m}[/math]
+২য় ক্ষেত্রে— [math]\mathrm{T}=2 \pi \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~g}_{2}}}[/math]
+ ....(ii)দুক্ষেত্রেই দোলনকাল একই—(i) ও (ii) তুলনা করে—[math]\frac{\mathrm{L}_{1}}{\mathrm{~g}_{1}}=\frac{\mathrm{L}_{2}}{\mathrm{~g}_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{L}_{1}=\frac{\mathrm{g}_{1} \mathrm{~L}_{2}}{\mathrm{~g}_{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{L}_{1}=\frac{9.81}{9.79} \mathrm{~L}_{2}[/math]
+ .......(iii)[math]\therefore \mathrm{L}_{2}=\frac{9.79}{9.81} \mathrm{~L}_{1}[/math]
+ [math]\begin{array}{l}=\frac{9.79 \times 0.993961}{9.81} \mathrm{~m} \\=0.991934 \mathrm{~m}\end{array}[/math]
+ [math]\therefore \mathrm{L}_{1}-\mathrm{L}_{2}=(0.993961-0.991934) \mathrm{m}=0.00203 \mathrm{~m} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দোলকের সময়কালের সূত্র [math]T=2\pi\sqrt{L/g}[/math] থেকে [math]L=\dfrac{gT^2}{4\pi^2}[/math] এবং তাই [math]\Delta L=\dfrac{T^2}{4\pi^2}\Delta g[/math]. এখানে [math]T=2\ \mathrm{s}[/math] হলে [math]\dfrac{T^2}{4\pi^2}=\dfrac{1}{\pi^2}[/math] এবং [math]\Delta g=9.81-9.79=0.02\ \mathrm{m\,s^{-2}}[/math], ফলে [math]\Delta L=\dfrac{0.02}{\pi^2}\approx0.00203\ \mathrm{m}=2.03\ \mathrm{mm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 413044)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A স্থানে একটি সেকেন্ড দোলকের দৈর্ঘ্য 98cm এবং B স্থানে 96cm। কোন বস্তুকে A স্থান থেকে B স্থানে নিলে এর ওজন কত গুণ বাড়বে বা কমবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\frac{1}{49}[/math]
+ গুণ ওজন কমবে )[math]\\[/math]
+Solution :এখানে,A স্থানে সেকেন্ড দোলকের দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{A}}=98 \mathrm{~cm}[/math]
+B. স্থানে সেকেন্ড দোলকের দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{B}}=96 \mathrm{~cm}[/math]
+ধরি,A স্থানে অভিকর্ষজ ত্বরণ [math]=\mathrm{g}_{\mathrm{A}}[/math]
+B স্থানে অভিকর্ষজ ত্বরণ [math]=\mathrm{g}_{\mathrm{B}}[/math]
+সরল দোলকের ক্ষেত্রে-আমরা জানি,[math]g=4 \pi^{2} \frac{L}{T^{2}}[/math]
+সেকেন্ড দোলকের জন্য T = 2 = ধ্রুব[math]\begin{array}{l}\therefore \mathrm{g} \propto \mathrm{L} \\\therefore \frac{\mathrm{g}_{\mathrm{B}}}{\mathrm{g}_{\mathrm{A}}}=\frac{\mathrm{L}_{\mathrm{B}}}{\mathrm{L}_{\mathrm{A}}} \\\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{g}_{\mathrm{B}}=\frac{\mathrm{g}_{\mathrm{A}} \mathrm{L}_{\mathrm{B}}}{\mathrm{L}_{\mathrm{A}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]g_{\mathrm{B}}=\frac{g_{A} \times 96}{98}[/math]
+ [math]\Rightarrow[/math]
+ [math]g_{B}=g_{A} \times \frac{48}{49}[/math]
+ [math]\Rightarrow[/math]
+ [math]g_{\mathrm{B}}=g_{\mathrm{A}}\left(1-\frac{1}{49}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{g}_{\mathrm{B}}+\frac{1}{49} \mathrm{~g}_{\mathrm{A}}=\mathrm{g}_{\mathrm{A}}[/math]
+ [math]\therefore \mathrm{g}_{\mathrm{B}}<\mathrm{g}_{\mathrm{A}}[/math]
+সুতরাং, A স্থান থেকে B স্থানে কোনো বস্তু নিয়ে গেলে [math]\frac{1}{49}[/math]
+ গুণ ওজন কমবে। (Ans.)
+
+Explanation:
+এক সেকেন্ড দোলকের সূত্র [math]T=2\pi\sqrt{L/g}[/math]; এখানে [math]T=2\ \text{s}[/math] হলে [math]g=\pi^2 L[/math] ফলে [math]g∝L[/math]. তাই ওজনের অনুপাত [math]\dfrac{W_B}{W_A}=\dfrac{g_B}{g_A}=\dfrac{96}{98}=\dfrac{48}{49}, অর্থাৎ B স্থানে ওজন হবে A-র [math]48/49[/math] গুণ (প্রায় [math]1/49≈2.04\%[/math] কম)।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 413045)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূ-পৃষ্ঠ থেকে একটি সেকেন্ড দোলককে মঙ্গল' পৃষ্ঠে নিলে দোলনকাল নির্ণয় কর। মঙ্গলের ভর ও ব্যা সার্ধ যথাক্রমে পৃথিবীর ভর ও ব্যাসার্ধ 0.107 ও 0.53 গুণ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.24 \mathrm{~s}[/math] )
+
+Explanation:
+ব্যাখ্যা: দোলনের কাল [math]T=2\pi\sqrt{L/g}[/math]-এর উপর নির্ভর করে, তাই একই দৈর্ঘ্যের ক্ষেত্রে [math]T\propto 1/\sqrt{g}[/math]. মঙ্গলের মহাকর্ষ তীব্রতার অনুপাত [math]g_m/g_e=0.107/(0.53)^2\approx0.381[/math] হওয়ায় নতুন কাল [math]T_m=T_e\sqrt{g_e/g_m}=1/\sqrt{0.381}\approx1.62\ \text{s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 413046)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলককে ভূ-পৃষ্ঠ থেকে চন্দ্র পৃষ্ঠে নিলে দোলনকাল কত হবে? পৃথিবীর ভর ও ব্যাসার্ধ যথাক্রমে চন্দ্রের ভর ও ব্যাসার্ধের 81 ও 4 গুণ ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]4.50 \mathrm{~s}[/math]
+ )[math]\\[/math]
+Solution :এখানে,পৃথিবীতে দোলনকাল, [math]\mathrm{T}_{\mathrm{e}}=2 \mathrm{~s}[/math]
+পৃথিবী ও চন্দ্রের ভরের অনুপাত, [math]\frac{\mathrm{M}_{\mathrm{e}}}{\mathrm{M}_{\mathrm{m}}}=81[/math]
+পৃথিবী ও চন্দ্রের ব্যাসার্ধের অনুপাত, [math]\frac{\mathrm{R}_{\mathrm{e}}}{\mathrm{R}_{\mathrm{m}}}=4[/math]
+চন্দ্রে দোলনকাল, [math]\mathrm{T}_{\mathrm{m}}=\text { ? }[/math]
+আমরা জানি,[math]\mathrm{T}_{\mathrm{e}}=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}_{\mathrm{e}}}}[/math]
+এবং [math]\mathrm{T}_{\mathrm{m}}=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}_{\mathrm{m}}}}[/math]
+এখন,[math]\begin{aligned}\frac{\mathrm{T}_{\mathrm{e}}}{\mathrm{T}_{\mathrm{m}}} & =\sqrt{\frac{\mathrm{L}}{\mathrm{g}_{\mathrm{e}}} \times \frac{\mathrm{g}_{\mathrm{m}}}{\mathrm{L}}} \\& =\sqrt{\frac{\mathrm{g}_{\mathrm{m}}}{\mathrm{g}_{\mathrm{e}}}}\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{\mathrm{m}}=\mathrm{T}_{\mathrm{e}} \sqrt{\frac{\mathrm{g}_{\mathrm{e}}}{\mathrm{g}_{\mathrm{m}}}}[/math]
+ .......(i)আবার,আমরা জানি, [math]\mathrm{g}_{\mathrm{e}}=\frac{\mathrm{GM}_{\mathrm{e}}}{\mathrm{R}_{\mathrm{e}}^{2}}[/math]
+ এবং [math]\mathrm{g}_{\mathrm{m}}=\frac{\mathrm{GM}_{\mathrm{m}}}{\mathrm{R}_{\mathrm{m}}^{2}}[/math]
+ [math]\therefore \frac{\mathrm{g}_{\mathrm{e}}}{\mathrm{g}_{\mathrm{m}}}=\frac{\mathrm{GM}_{\mathrm{e}}}{\mathrm{R}_{\mathrm{e}}^{2}} \times \frac{\mathrm{R}_{\mathrm{m}}^{2}}{\mathrm{GM}_{\mathrm{m}}}=\frac{\mathrm{M}_{\mathrm{e}}}{\mathrm{M}_{\mathrm{m}}} \times\left(\frac{\mathrm{R}_{\mathrm{m}}}{\mathrm{R}_{\mathrm{e}}}\right)^{2}[/math]
+ [math]=81 \times\left(\frac{1}{4}\right)^{2}=\frac{81}{16}[/math]
+ [math]\therefore[/math]
+ (i) নং সমীকরণ হতে পাই,[math]\mathrm{T}_{\mathrm{m}}=2 \sqrt{\frac{81}{16}}=4.50 \mathrm{~s} \text { (Ans.) }[/math]
+
+
+Explanation:
+পৃথিবী ও চন্দ্রের জন্য মাধ্যাকর্ষণ ত্বকের অনুপাত হচ্ছে [math]\dfrac{g_E}{g_M}=\dfrac{M_E/R_E^2}{M_M/R_M^2}=\dfrac{81}{4^2}=\dfrac{81}{16}[/math], তাই [math]g_M=\dfrac{16}{81}g_E[/math]. দোলনকালের সূত্র [math]T=2\pi\sqrt{L/g}[/math] অনুযায়ী [math]T_M=T_E\sqrt{\dfrac{g_E}{g_M}}=1\times\sqrt{\dfrac{81}{16}}=\dfrac{9}{4}\ \text{সেকেন্ড}=2.25\ \text{s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 413047)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+শৈত্যের ফলে একটি সেকেন্ড দোলকের দৈর্ঘ্য হ্রাস পেল। এর ফলে দোলনকাল এমন হল যে, দোলক টি দিনে 10s দ্রুত চলে। দোলকটির দোলনকাল নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.99 \mathrm{~s}[/math] )
+
+Explanation:
+ব্যাখ্যা: সেকেন্ড দোলকের মূল দোলনকাল [math]T_0=2\ \text{s}[/math]। দিনে [math]10\ \text{s}[/math] দ্রুত হওয়া মানে বাস্তব [math]86400\ \text{s}[/math] এ সূচক সময় [math]86410\ \text{s}[/math], এবং সম্পর্কটি প্রদান করে [math]\text{gain}=86400\Big(\frac{T_0}{T}-1\Big)\approx-86400\frac{\Delta T}{T_0}[/math]। তাই [math]\Delta T=-\dfrac{10T_0}{86400}=-\dfrac{1}{4320}\ \text{s}[/math] এবং নতুন দোলনকাল [math]T=2-\dfrac{1}{4320}=\dfrac{8639}{4320}\approx1.99977\ \text{s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 413048)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ত্রুটিপূর্ণ সেকেন্ড দোলক সারাদিন 20s ধীরে বা দ্রুত চলে । দৈর্ঘ্যের কত পরিবর্তন করলে উ হা সঠিক সময় দিবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.046 \mathrm{~cm}[/math]
+ )[math]\\[/math]
+Solution :এখানে,সেকেন্ড দোলকের পর্যায়কাল, T = 2 sত্রুটিপূর্ণ দোলকের দৈর্ঘ্য, [math]l_{\mathrm{e}}=?[/math]
+সেকেন্ড দোলকের দৈর্ঘ্য, [math]l=?[/math]
+ত্রুটিপূর্ণ দোলকটি দিনে 20 s ধীরে চললে সারাদিনে 20টি বীট কম দিবে ।অর্থাৎ 24 ঘণ্টা = 86400 s এ (86400 – 20 ) = 86380 টি বীট দেয়।[math]\therefore[/math]
+ 1 টি বীট দেয় [math]=\frac{86380}{86400} \mathrm{~s}[/math]
+ এ[math]\therefore[/math]
+ ত্রুটিপূর্ণ দোলকের দোলনকাল,[math]\begin{aligned}\mathrm{T}_{\mathrm{e}} & =\frac{86400}{86380} \times 2 \\& =2.00046 \mathrm{sec}\end{aligned}[/math]
+ত্রুটিপূর্ণ দোলকের ক্ষেত্রে, [math]\mathrm{T}_{\mathrm{e}}=2 \pi \sqrt{\frac{l_{\mathrm{e}}}{\mathrm{g}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{\mathrm{e}}^{2}=4 \pi^{2} \frac{l_{\mathrm{e}}}{\mathrm{g}}[/math]
+ [math]\Rightarrow[/math]
+ [math]l_{\mathrm{e}}=\frac{\mathrm{T}_{\mathrm{e}}^{2} \mathrm{~g}}{4 \pi^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]l_{\mathrm{e}}=\frac{(2.00046)^{2} \times 9.8}{4 \pi^{2}}[/math]
+ [math]\therefore l_{\mathrm{e}}=0.99336 \mathrm{~m}[/math]
+প্রকৃত সেকেন্ড দোলকের ক্ষেত্রে, [math]\mathrm{T}=2 \pi \sqrt{\frac{l}{\mathrm{~g}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}^{2}=4 \pi^{2} \frac{l}{\mathrm{~g}}[/math]
+ [math]\Rightarrow[/math]
+ [math]l=\frac{\mathrm{T}^{2} \mathrm{~g}}{4 \pi^{2}}[/math]
+ [math]\Rightarrow[/math]
+ [math]l=\frac{2^{2} \times 9.8}{4 \pi^{2}}[/math]
+ [math]\therefore l=0.9929 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ দৈর্ঘ্য পরিবর্তন (হ্রাস) করতে হবে,[math]\begin{array}{l}=l_{\mathrm{e}}-l \\=0.99336 \mathrm{~m}-0.9929 \mathrm{~m} \\=4.6 \times 10^{-4} \mathrm{~m} \\=0.046 \mathrm{~cm} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি পেন্ডুলামের সময়কাল [math]T=2\pi\sqrt{L/g}[/math], তাই ক্ষুদ্র পরিবর্তনে [math]\dfrac{\Delta T}{T}=\tfrac{1}{2}\dfrac{\Delta L}{L}[/math]. দিনপ্রতি ২০ সেকেন্ড ভুল হলে [math]\dfrac{\Delta T}{T}\approx\dfrac{20}{86400}[/math], ফলে [math]\dfrac{\Delta L}{L}=2\dfrac{\Delta T}{T}=2\times\dfrac{20}{86400}=\dfrac{1}{2160}\approx0.000463[/math]. ঘড়ি ধীরে হলে দৈর্ঘ্য এই অনুপাতেই কমাতে হবে আর দ্রুত হলে একই অনুপাত বাড়াতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 413049)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূ-পৃষ্ঠ হতে একটি সেকেন্ড দোলক কত উচ্চতার পাহাড়ে নিলে সারাদিনে 16s ধীরে চলবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1184 \mathrm{~m}[/math]
+ )[math]\\[/math]
+Solution :এখানে,সেকেন্ড দোলকের পর্যায়কাল, [math]\mathrm{T}_{\mathrm{e}} = 2 \mathrm{~s}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6.4 \times 10^{6} \mathrm{~m}[/math]
+ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{e}}=9.8 \mathrm{~ms}^{-2}[/math]
+পাহাড়ের উচ্চতায় অভিকর্ষজ ত্বরণ [math]=\mathrm{g}_{\mathrm{h}}[/math]
+পাহাড়ের উচ্চতা, h =?16 s ধীরে চললে 24 ঘণ্টা বা 86400 এ বীট দেয়(86400 s – 16) বার = 86384 বার[math]\therefore[/math]
+ 1s এ বীট দেয় [math]=\frac{86384}{86400}[/math]
+ টিপাহাড়ের উচ্চতায় 2টি বীট দেওয়ার সময় = পাহাড়ের উচ্চতায় দোলনকাল,[math]\begin{aligned}\mathrm{T}_{\mathrm{h}} & =\frac{86400}{86384} \times 2 \\& =2.00037 \mathrm{sec}\end{aligned}[/math]
+ভূ-পৃষ্ঠে পর্যায়কাল, [math]\mathrm{T}_{\mathrm{e}}=2 \pi \sqrt{\frac{l}{\mathrm{~g}_{\mathrm{e}}}}[/math]
+পাহাড়ের উচ্চতায় পর্যায়কাল, [math]\mathrm{T}_{\mathrm{h}}=2 \pi \sqrt{\frac{l}{\mathrm{~g}_{\mathrm{h}}}}[/math]
+ [math]\begin{aligned}\frac{\mathrm{T}_{\mathrm{h}}}{\mathrm{T}_{\mathrm{e}}} & =\sqrt{\frac{\mathrm{g}_{\mathrm{e}}}{\mathrm{g}_{\mathrm{h}}}} \\& =\frac{\mathrm{R}+\mathrm{h}}{\mathrm{R}}=1+\frac{\mathrm{h}}{\mathrm{R}}\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{h}}{\mathrm{R}}=\frac{\mathrm{T}_{\mathrm{h}}}{\mathrm{T}_{\mathrm{e}}}-1[/math]
+ [math]\therefore \quad \mathrm{h}=\left(\frac{\mathrm{T}_{\mathrm{h}}}{\mathrm{T}_{\mathrm{e}}}-1\right) \times \mathrm{R}[/math]
+ [math]=\left(\frac{2.00037}{2}-1\right) \times 6.4 \times 10^{6}=1184 \mathrm{~m} \text { (Ans.) }[/math]
+
+
+Explanation:
+প্রথমে দৈনিক দোলনের সংখ্যা হলো [math]86400/2=43200[/math], তাই প্রতিটি দোলনে বিলম্ব হবে [math]16/43200=1/2700\ \text{s}[/math]; যেখানে মূল কাল হলো [math]T=2\ \text{s}[/math], তাই আপেক্ষিক পরিবর্তন [math]\Delta T/T=(1/2700)/2=1/5400[/math]. কারণ [math]T\propto g^{-1/2}[/math], তাই [math]\Delta T/T=-(1/2)\Delta g/g[/math] এবং ফলে [math]|\Delta g|/g=2(1/5400)=1/2700[/math]. ভূত্বকের দূরত্ব বৃদ্ধিতে [math]|\Delta g|/g\approx2h/R[/math] হলে [math]h=R/5400[/math]; [math]R\approx6.4\times10^6\ \text{m}[/math] নেওলে [math]h\approx1.185\times10^3\ \text{m}\approx1.2\ \text{km}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 413050)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+1 km গভীর খনিতে সঠিক সময় দেয় এরূপ সেকেন্ড দোলককে ভূ-পৃষ্ঠে আনলে সারাদিনে কত সেকেন্ড দ্রুত চলবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 7 s)[math]\\[/math]
+Solution :এখানে, খনির গভীরতা, [math]\mathrm{h}=1 \mathrm{~km}=1000 \mathrm{~m}[/math]
+খনির গভীরে পর্যায়কাল, [math]\mathrm{T}_{\mathrm{h}}=2 \mathrm{~s}[/math]
+পৃথিবীপৃষ্ঠে অভিকর্ষজ ত্বরণ [math]= \mathrm{g}_{\mathrm{e}}[/math]
+খনির গভীরে অভিকর্ষজ ত্বরণ [math]=g_{h}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6.4 \times 10^{6} \mathrm{~m}[/math]
+ভূ-পৃষ্ঠে পর্যায় কাল, [math]\mathrm{T}_{\mathrm{e}}=?[/math]
+খনির গভীরে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{h}}=\frac{\mathrm{R}-\mathrm{h}}{\mathrm{R}} \times \mathrm{g}_{\mathrm{e}}[/math]
+পৃথিবী পৃষ্ঠে পর্যায়কাল, [math]\mathrm{T}_{\mathrm{e}}=2 \pi \sqrt{\frac{l}{\mathrm{~g}_{\mathrm{e}}}}[/math]
+ ....(1)খনির গভীরে পর্যায়কাল, [math]\mathrm{T}_{\mathrm{h}}=2 \pi \sqrt{\frac{l}{\mathrm{~g}_{\mathrm{h}}}}[/math]
+ ......(2)(1) ÷ (2) হতে পাই,[math]\frac{\mathrm{T}_{\mathrm{e}}}{\mathrm{T}_{\mathrm{h}}}=\sqrt{\frac{\mathrm{g}_{\mathrm{h}}}{\mathrm{g}_{\mathrm{e}}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]T_{e}=\sqrt{\frac{R-h}{R}} \times T_{h}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{\mathrm{e}}=\sqrt{\frac{6.4 \times 10^{6}-1000}{6.4 \times 10^{6}}} \times 2[/math]
+ [math]\therefore \mathrm{T}_{\mathrm{e}}=1.99984 \mathrm{~s}[/math]
+মনে করি, দোলকটি ভূ-পৃষ্ঠে সারাদিনে x s দ্রুত চলবে ।[math]\therefore \frac{86400}{86400+\mathrm{x}} \times 2=\mathrm{T}_{\mathrm{e}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{86400 \times 2}{86400+x}=1.99984[/math]
+ [math]\Rightarrow[/math]
+ [math]172.786 \times 10^{3}+1.99984 x=172800[/math]
+ [math]\Rightarrow[/math]
+ [math]1.99984 \mathrm{x}=172800-172.786 \times 10^{3}[/math]
+ [math]\Rightarrow[/math]
+ [math]1.99984 x=14[/math]
+ [math]\Rightarrow[/math]
+ [math]x=\frac{14}{1.99984}[/math]
+ [math]\therefore \mathrm{x}=7 \mathrm{~s} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভূমির নীচে গভীরে মাধ্যাকর্ষণ তীব্রতা সমান্যভাবে কমে (সমান ঘনত্বের মডেলে) এবং [math]g_{\text{depth}}=g\left(1-\dfrac{d}{R}\right)[/math]; দোলকের period থাকে [math]T\propto g^{-1/2}[/math], তাই পৃষ্ঠে আসলে period কমে আনুমানিক [math]\Delta T/T\approx-\tfrac{1}{2}\dfrac{d}{R}[/math]। সুতরাং প্রতিদিন দ্রুত চলার পরিমাণ হবে [math]\Delta t\approx\tfrac{1}{2}\dfrac{d}{R}\times86400[/math]; [math]d=1000\ \text{m},\ R\approx6.4\times10^6\ \text{m}\Rightarrow\Delta t\approx6.75\ \text{সেকেন্ড/দিন}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 413029)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীপৃষ্ঠে ও চন্দ্রপৃষ্ঠে দুটি সেকেন্ড দোলকের দৈর্ঘ্যের অনুপাত 81 : 16। পৃথিবীপৃষ্ঠে g এর মান [math]9. 81 \mathrm{~ms}^{-2}[/math] হলে চন্দ্রপৃষ্ঠে 'g' এর মান কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.94 \mathrm{~ms}^{-2}[/math]
+ )[math]\\[/math]
+Solution :এখানে,পৃথিবী পৃষ্ঠে দোলকের দৈর্ঘ্য [math]=\mathrm{L}_{e}[/math]
+চন্দ্রপৃষ্ঠে দোলকের দৈর্ঘ্য = L m[math]\begin{array}{l}\therefore \frac{\mathrm{L}_{e}}{\mathrm{~L}_{\mathrm{m}}}=81: 16 \\\mathrm{~g}_{\mathrm{e}}=9.81 \mathrm{~ms}^{-1}\end{array}[/math]
+চন্দ্ৰপৃষ্ঠে, [math]\mathrm{g}_{\mathrm{m}}=?[/math]
+আমরা জানি,[math]\begin{array}{r}T=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}}} \\\therefore T_{e}=2 \pi \sqrt{\frac{\mathrm{L}_{\mathrm{c}}}{\mathrm{g}_{\mathrm{e}}}} \\\mathrm{T}_{\mathrm{m}}=2 \pi \sqrt{\frac{\mathrm{L}_{\mathrm{m}}}{\mathrm{g}_{\mathrm{m}}}}\end{array}[/math]
+পৃথিবী এবং চন্দ্রে সেকেন্ড দোলকের ক্ষেত্রে,[math]\begin{array}{l}T_{e}=T_{m} \\2 \pi \sqrt{\frac{L_{e}}{g_{e}}}=2 \pi \sqrt{\frac{L_{m}}{g_{m}}}\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{L}_{\mathrm{c}}}{\mathrm{g}_{\mathrm{e}}}=\frac{\mathrm{L}_{\mathrm{m}}}{\mathrm{g}_{\mathrm{m}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{g}_{\mathrm{m}}=\frac{\mathrm{g}_{\mathrm{e}} \mathrm{L}_{\mathrm{m}}}{\mathrm{L}_{\mathrm{e}}}=\frac{9.81 \times 16}{81}[/math]
+ [math]=1.94 \mathrm{~ms}^{-2} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দোলকের কাল [math]T=2\pi\sqrt{\dfrac{l}{g}}[/math], তাই [math]T^2=\dfrac{4\pi^2 l}{g}[/math] হলে একই [math]T[/math]-এর জন্য [math]g\propto l[/math] অর্থাৎ গ্রহদ্বয়ের গতি শক্তির অনুপাত দৈর্ঘ্যের অনুপাতের সমান। অতএব [math]g_{\text{চাঁদ}}=9.81\times\frac{16}{81}=1.94\ \mathrm{m/s^2}\ (\text{প্রায়})[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 413030)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোন একটি সেকেন্ড দোলকের দৈর্ঘ্য যদি 2:5 গুণ বৃদ্ধি করা হয়, তবে এর দোলনকাল নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.16 \mathrm{~s}[/math]
+)[math]\\[/math]
+Solution :এখানে,দোলকের আদি দৈর্ঘ্য [math]\mathrm{L}_{1}=\mathrm{L}[/math]
+পরিবর্তিত দৈর্ঘ্য, [math]\mathrm{L}_{2}=2.5 \mathrm{~L}[/math]
+দোলনকাল, [math]\mathrm{T}_{1}=2 \mathrm{~s}[/math]
+দোলনকাল, [math]\mathrm{T}_{2}=?[/math]
+আমরা জানি,[math]\mathrm{T}_{1}=2 \pi \sqrt{\frac{\mathrm{L}_{1}}{\mathrm{~g}}}[/math]
+ .......(i)[math]T_{2}=2 \pi \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~g}}}[/math]
+ .......(ii)(ii) কে (i) দ্বারা ভাগ করে পাই,[math]\frac{T_{2}}{T_{1}}=\sqrt{\frac{L_{2}}{L_{1}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\mathrm{T}_{1} \times \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~L}_{1}}}=2 \times \sqrt{\frac{2.5 \mathrm{~L}}{\mathrm{~L}}}=3.16 \mathrm{~s} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দোলকের দোলনকাল [math]T=2\pi\sqrt{L/g}[/math] হওয়ায় এটি দৈর্ঘ্যের বর্গমূলের সমানুপাতিক। যদি দৈর্ঘ্য [math]\tfrac{5}{2}[/math] গুণ করা হয়, তাহলে নতুন দোলনকাল হবে [math]T' = T\sqrt{\tfrac{5}{2}}[/math], অর্থাৎ দোলনকাল [math]\sqrt{5/2}[/math] গুণ বৃদ্ধি পাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 413032)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+A স্থানে একটি সেকেন্ড দোলকের দৈর্ঘ্য 98 cm এবং B স্থানে 96 cm। কোনো বস্তুকে A স্থান থেকে B স্থানে নিয়ে গেলে এর ওজন কতগুণ বাড়বে বা কমবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\frac{1}{49}[/math]
+ )[math]\\[/math]
+Solution :এখানে,A স্থানে সেকেন্ড দোলকের দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{A}}=98 \mathrm{~cm}[/math]
+B. স্থানে সেকেন্ড দোলকের দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{B}}=96 \mathrm{~cm}[/math]
+ধরি,A স্থানে অভিকর্ষজ ত্বরণ [math]=\mathrm{g}_{\mathrm{A}}[/math]
+B স্থানে অভিকর্ষজ ত্বরণ [math]=\mathrm{g}_{\mathrm{B}}[/math]
+সরল দোলকের ক্ষেত্রে-আমরা জানি,[math]g=4 \pi^{2} \frac{L}{T^{2}}[/math]
+সেকেন্ড দোলকের জন্য T = 2 = ধ্রুব[math]\begin{array}{l}\therefore \mathrm{g} \propto \mathrm{L} \\\therefore \frac{\mathrm{g}_{\mathrm{B}}}{\mathrm{g}_{\mathrm{A}}}=\frac{\mathrm{L}_{\mathrm{B}}}{\mathrm{L}_{\mathrm{A}}} \\\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{g}_{\mathrm{B}}=\frac{\mathrm{g}_{\mathrm{A}} \mathrm{L}_{\mathrm{B}}}{\mathrm{L}_{\mathrm{A}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]g_{\mathrm{B}}=\frac{g_{A} \times 96}{98}[/math]
+ [math]\Rightarrow[/math]
+ [math]g_{B}=g_{A} \times \frac{48}{49}[/math]
+ [math]\Rightarrow[/math]
+ [math]g_{\mathrm{B}}=g_{\mathrm{A}}\left(1-\frac{1}{49}\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{g}_{\mathrm{B}}+\frac{1}{49} \mathrm{~g}_{\mathrm{A}}=\mathrm{g}_{\mathrm{A}}[/math]
+ [math]\therefore \mathrm{g}_{\mathrm{B}}<\mathrm{g}_{\mathrm{A}}[/math]
+সুতরাং, A স্থান থেকে B স্থানে কোনো বস্তু নিয়ে গেলে [math]\frac{1}{49}[/math]
+ গুণ ওজন কমবে। (Ans.)
+
+Explanation:
+ব্যাখ্যা: সেকেন্ড দোলকের জন্য [math]T=2\pi\sqrt{L/g}[/math] এবং [math]T[/math] সমান থাকায় [math]g\propto L[/math]। তাই ওজনের অনুপাত হবে [math]\dfrac{W_B}{W_A}=\dfrac{g_B}{g_A}=\dfrac{L_B}{L_A}=\dfrac{96}{98}=\dfrac{48}{49}[/math]। অতএব B স্থানে ওজন হবে A স্থানের তুলনায় [math]\tfrac{48}{49}</math] গুণ, অর্থাৎ [math]\tfrac{1}{49}</math] অংশ (প্রায় 2.04%) কম।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 413033)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য নির্ণয় করো৷
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 0.993m )[math]\\[/math]
+Solution :এখানে,দোলনকাল, T = 2sঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+কার্যকরী দৈর্ঘ্য, L =?আমরা জানি,[math]\mathrm{T}=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}^{2}=4 \pi^{2} \frac{L}{g}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{L}=\frac{T^{2} \times g}{4 \pi^{2}}=\frac{4 \times 9.8}{4 \pi^{2}}=0.993 \mathrm{~m}(\text { Ans. })[/math]
+
+
+Explanation:
+ব্যাখ্যা: সাধারণ দোলকের মূল সূত্র [math]T=2\pi\sqrt{L/g}[/math] থেকে কার্যকরী দৈর্ঘ্য [math]L=\dfrac{gT^2}{4\pi^2}[/math] পাওয়া যায়; সেকেন্ড দোলকের জন্য [math]T=2\ \text{s}[/math] ধরা হলে [math]L=\dfrac{g(2)^2}{4\pi^2}=\dfrac{4g}{4\pi^2}=\dfrac{g}{\pi^2}[/math] হয়। মান ধরে [math]g\approx9.8\ \text{m/s}^2[/math] নিলে [math]L\approx0.994\ \text{m}[/math], তাই কার্যকরী দৈর্ঘ্য প্রায় 1 মিটার।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 413034)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো একটি সেকেন্ড দোলকের দৈর্ঘ্য 2.5 গুণ বাড়ালে এর দোলনকাল কত হবে বের করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 3.16 s )[math]\\[/math]
+Solution :এখানে,দোলকের আদি দৈর্ঘ্য, [math]\mathrm{L}_{1}=\mathrm{L}[/math]
+পরিবর্তিত দৈর্ঘ্য, [math]\mathrm{L}_{2}=2.5 \mathrm{~L}[/math]
+দোলনকাল, [math]\mathrm{T}_{1}=2 \mathrm{~s}[/math]
+দোলনকাল, [math]\mathrm{T}_{2}=\text { ? }[/math]
+আমরা জানি,[math]T_{1}=2 \pi \sqrt{\frac{\mathrm{L}_{1}}{\mathrm{~g}}}[/math]
+ .......(i)[math]\mathrm{T}_{2}=2 \pi \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~g}}}[/math]
+ ........(ii)(ii) কে (i) দ্বারা ভাগ করে পাই,[math]\frac{T_{2}}{T_{1}}=\sqrt{\frac{L_{2}}{L_{1}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\mathrm{T}_{1} \times \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~L}_{1}}}=2 \times \sqrt{\frac{2.5 \mathrm{~L}}{\mathrm{~L}}}=3.16 \mathrm{~s} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সুস্পষ্টভাবে [math]T=2\pi\sqrt{L/g}[/math] হওয়ায় দোলনকাল দৈর্ঘ্যের বর্গমূলের অনুপাতে বাড়ে, অর্থাৎ [math]T\propto\sqrt{L}[/math]. 따라서 দৈর্ঘ্য [math]2.5[/math] গুণ করলে নতুন কাল হবে [math]T' = T\sqrt{2.5} = 1\times\sqrt{2.5}\approx 1.58\ \text{s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 412996)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+একটি সরল দোলকের কার্যকর দৈর্ঘ্য 1 m এবং বিস্তার 6 cm | দোলকটিকে প্রথমে P স্থানে নিয়ে যাওয়া হলে দোলনকাল 1.5 sec এবং এরপর Q স্থানে নিয়ে গেলে দোলনকাল 2 sec পাওয়া গেল ৷
+
+Options:
+ক. দশা কাকে বলে?
+খ. ‘স্প্রিং বল প্রত্যয়নী বল' ব্যাখ্যা করো ।
+গ. দোলকের সাম্যাবস্থানে বেগ নির্ণয় করো ।
+ঘ. কোন স্থানের উচ্চতা বেশি ছিল? গাণিতিকভাবে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+কযে রাশি দ্বারা তরঙ্গ সঞ্চারণকারী কণার যেকোনো মুহূর্তের বেগ, সরণ, ত্বরণ ইত্যাদির সম্যক অবস্থা বুঝায় তাকে দশা বলে ।[math]\\[/math]
+ খএকটি স্প্রিংকে টেনে প্রসারিত করলে মনে হয়, স্প্রিং আমাদের হাতকে বিপরীত দিকে টানছে। নিউটনের তৃতীয় সূত্র থেকে এরূপ প্রতিক্রিয়া বলের উদ্ভব ব্যাখ্যা করা যায়। স্পষ্টত বিকৃত করার চেষ্টাকে স্প্রিংটি বাধা দেয়, স্প্রিংটি ছেড়ে দিলে সেটি সঙ্গে সঙ্গে এর প্রাথমিক দৈর্ঘ্য ফিরে পায়। এক্ষেত্রে যে বলের ক্রিয়ায় স্প্রিংটি পূর্বের আকার ফিরে পায়, তাই স্থিতিস্থাপক বল ।এজন্য স্প্রিং এর সাথে বস্তু আটকিয়ে স্প্রিংকে দৈর্ঘ্য বরাবর বিকৃত করলে স্থিতিস্থাপকতা ধর্মের দরুন স্প্রিং-এ প্রযুক্ত বলের সমান ও বিপরীতমুখী বল সৃষ্টি হয়, যার দিক সর্বদা সাম্যাবস্থার দিকে। একে প্রত্যায়নী বল বলে । তাই স্প্রিং বল হলো প্রত্যয়নী বল ।[math]\\[/math]
+ গএখানে,কার্যকর দৈর্ঘ্য, L = 1 mবিস্তার, A = 6 cm = 0.06mপৃথিবী পৃষ্ঠে, g = 9.8 m [math]s^{-2}[/math]
+সরল দোলকের দোলনকাল T হলে,[math]\begin{aligned}\mathrm{T} & =2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}}} \\& =2 \pi \sqrt{\frac{\mathrm{l}}{9.8}} \\& =2.0071 \mathrm{~s}\end{aligned}[/math]
+আমরা জানি, সরল দোলকের গতি সরল ছন্দিত গতি, এর বেগ v হলে,[math]\begin{array}{l}v=\omega \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}} \\\Rightarrow\text { } \mathrm{v}=\frac{2 \pi}{\mathrm{T}} \sqrt{\mathrm{A}^{2}-\mathrm{x}^{2}}\end{array}[/math]
+সাম্যবস্থানে বা (x = 0) অবস্থানে বেগ,[math]\begin{array}{l}v=\frac{2 \pi}{T} \sqrt{A^{2}-0^{2}} \\\Rightarrow\text { } v=\frac{2 \pi A}{T}=\frac{2 \pi \times 0.06}{2.0071} \\\therefore v=0.1878 \mathrm{~ms}^{-1}\end{array}[/math]
+দোলকের সাম্যাবস্থানে বেগ 0.1878 m [math]s^{-1}[/math]
+ (Ans)[math]\\[/math]
+ ঘএখানে,কার্যকরী দৈর্ঘ্য, L = 1 mp স্থানে দোলনকাল, [math]T_P[/math]
+ = 1.5sQ স্থানে দোলনকাল, [math]T_Q[/math]
+ = 2s'গ' থেকে পাই, সরলদোলকের দোলনকাল, T = 2.0071s,P স্থানের অভিকর্ষজ ত্বরণ [math]g_P[/math]
+ হলে,আমরা জানি,[math]\begin{array}{l}T_{p}=2 \pi \sqrt{\frac{L}{g_{p}}} \\\Rightarrow\text { }\left(T_{p}\right)^{2}=4 \pi^{2} \cdot \frac{L}{g_{p}} \\\Rightarrow\text { } g_{p}=\frac{4 \pi^{2} \cdot L}{\left(T_{p}\right)^{2}} \\\Rightarrow\text { } g_{p}=\frac{4 \pi^{2} \times 1}{(1.5)^{2}} \\\therefore g_{p}=17.55 \mathrm{~ms}^{-2}\end{array}[/math]
+অনুরূপভাবে, Q স্থানের অভিকর্ষজ ত্বরণ [math]g_Q[/math]
+ হলে,আমরা জানি,[math]\begin{array}{l}\mathrm{T}_{\mathrm{Q}}=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}_{\mathrm{Q}}}} \\,\left(\mathrm{T}_{\mathrm{Q}}\right)^{2}=4 \pi^{2} \frac{\mathrm{L}}{\mathrm{g}_{\mathrm{Q}}} \\\mathrm{g}_{\mathrm{Q}}=\frac{4 \pi^{2} \mathrm{~L}}{\left(\mathrm{~T}_{\mathrm{Q}}\right)^{2}} \\\mathrm{~g}_{\mathrm{Q}}=\frac{4 \pi^{2} \times 1}{(2)^{2}}=9.87 \mathrm{~ms}^{-2},\end{array}[/math]
+এখানে,M = গ্রহটির ভরG = মহাকর্ষীয় ধ্রুবককেন্দ্র হতে, P স্থানের উচ্চতা [math]h_P[/math]
+, এবং Q স্থানের উচ্চতা [math]h_Q[/math]
+ হলে,[math]g_{p}=\frac{G M}{h_{p}{ }^{2}} ... ...(i)[/math]
+এবং , [math]g_{Q}=\frac{G M}{h_{Q}^{2}} ... ... (ii)[/math]
+(i) + (ii) হতে পাই,[math]\begin{array}{l}\frac{\mathrm{g}_{\rho}}{\mathrm{g}_{\mathrm{Q}}}=\frac{\frac{\mathrm{GM}}{\mathrm{h}_{\mathrm{p}}^{2}}}{\frac{\mathrm{GM}}{\mathrm{h}_{\mathrm{Q}}^{2}}}=\frac{\mathrm{h}_{Q}^{2}}{\mathrm{~h}_{\mathrm{p}}^{2}}\\\Rightarrow\text{ } \frac{h_{g}^{2}}{h_{p}^{2}}=\frac{g_{p}}{g_{0}}\\\Rightarrow\text { } \frac{h_{Q}}{h_{p}}=\sqrt{\frac{g_{p}}{g_{Q}}}=\sqrt{\frac{17.55}{9.87}}=1.33 \\\therefore h_{Q}=1.33 h_{p}\end{array}[/math]
+অর্থাৎ [math]h_Q > h_P[/math]
+সুতরাং Q স্থানের উচ্চতা বেশি ছিল।
+
+Explanation:
+ক দশা হলো একটি দোলকের নির্দিষ্ট সময়ে তার ভরবিন্দুর অবস্থান ও গতির ঐক্যবদ্ধ অবস্থা — শোর্তে, কোনো মুহূর্তে কণার অবস্থান ও বেগ দিয়ে ঐ মুহূর্তের দশা নির্ণয় করা যায়।
+
+খ স্প্রিং বা বসন্তের প্রত্যয়নী বল হলো বসন্তকে তার সমান্যাবস্থায় ফিরিয়ে আনতে বসন্ত দ্বারা ক্রিয়াশীল বল, যা হুকের সূত্র অনুসারে বিযুক্তির বিপরীতে এবং সমানুপাতিক: [math]F=-kx[/math]।
+
+গ সাম্যাবস্থায় সর্বোচ্চ বেগ (v_max) হল দ্রাঘিম্য A ও কৌনিক ফ্রিকোয়েন্সি ω এর গুন: [math]v_{\max}=A\omega[/math], এবং [math]\omega=\frac{2\pi}{T}[/math] তাই P-তে [math]v_P=0.06\times\frac{2\pi}{1.5}\approx0.251\ \text{m/s}[/math], Q-তে [math]v_Q=0.06\times\frac{2\pi}{2}\approx0.189\ \text{m/s}[/math]।
+
+ঘ পেন্ডুলামের সময়কাল [math]T=2\pi\sqrt{L/g}[/math] থেকে [math]g=4\pi^2L/T^2[/math]; তাই P ও Q-র জন্য [math]g_P=\dfrac{4\pi^2\times1}{1.5^2}\approx17.55\ \text{m/s}^2[/math] এবং [math]g_Q=\dfrac{4\pi^2\times1}{2^2}\approx9.87\ \text{m/s}^2[/math]. যেহেতু Q-তে g ছোট, তাই Q ছিল উচ্চতায় বড় (অর্থাৎ Q-র উচ্চতা বেশি)।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 412997)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলক কোনো একটি পাহাড়ের পাদদেশে সঠিক সময় দেয়। কিন্তু দোলকটিকে পাহাড়ের চূড়ায় নিয়ে গেলে প্রতি ঘণ্টায় 30 সেকেন্ড সময় ধীরে চলে। পৃথিবীর ব্যাসার্ধ 6400 km এবং অভিকর্ষজ ত্বরণ [math]9.8 ms^{-2}[/math] ।
+
+Options:
+ক. একক ভেক্টর কী?
+খ. মহাকর্ষ বিভবের মান ঋণাত্মক হয় কেন? ব্যাখ্যা করো।
+গ. পাহাড়ের চূড়ায় দোলকটির দোলনকাল নির্ণয় করো ।
+ঘ. উদ্দীপকের তথ্যের ভিত্তিতে পাহাড়টির উচ্চতা নির্ণয় করা যাবে কিনা, তা গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা করো ।
+
+
+Correct Answer: 
+
+Solution:
+কযে ভেক্টর রাশির মান এক একক তা-ই একক ভেক্টর ।[math]\\[/math]
+ খঅসীম দূর থেকে একক ভরের কোনো বস্তুকে মহাকর্ষীয় ক্ষেত্রের কোন বিন্দুতে আনতে যে পরিমাণ কাজ সাধিত হয়, তাকে ওই বিন্দুর মহাকর্ষীয় বিভব বলে । M ভরের কোনো বস্তু থেকে r দূরত্বে কোন বিন্দুর মহাকর্ষীয় বিভব, [math]V=-\frac{G M}{r}[/math]
+ অর্থাৎ মহাকর্ষীয় ক্ষেত্রের কোন বিন্দুতে r বিভব ঋণাত্মক হয়। এই ঋণাত্মক চিহ্ন দ্বারা বোঝায়, বাহ্যিক কোন বল বা শক্তি দ্বারা কাজ সম্পন্ন হয়নি, মহাকর্ষীয় বলই কাজ সম্পন্ন করেছে। দূরত্ব বৃদ্ধি পেলে মহাকর্ষীয় বিভব বৃদ্ধি পায় এবং অসীমে মহাকর্ষীয় বিভব সর্বোচ্চ বা শূন্য হয়। অসীম থেকে ক্ষেত্র সৃষ্টিকারী বস্তুর দিক এগোতে থাকলে মহাকর্ষীয় বিভবের মান কমে অর্থাৎ ঋণাত্মক হয়[math]\\[/math]
+ গএখানে,সেকেন্ড দোলকের দোলনকাল, T = 2 sপাহারের চূড়ায় দোলকটি ঘণ্টায় 30S ধীরে চলে।পাহারের চূড়ায় 1 ঘণ্টায় বা, 3600S -এ দোলকটি অর্ধদোলন দেয় (3600-30) = 3570 টিএখন, 3750 টি অর্ধদোলন সম্পন্ন করে 3600S এ2 টি আন্দোলন সম্পন্ন করে = [math]\frac{2 \times 3600}{3570} = 2.017s[/math]
+ [math]\\[/math]
+ ঘএখানে, পাহাড়ের পাদদেশে সময়, T = 2 sপৃথিবীর ব্যাসার্ধ, R = 6400km [math]= 6.4 \times 10^6 m[/math]
+ঘ‘গ’ থেকে পাই, পাহাড়ের চূড়ায় দোলকটির দোলনকাল, T' = 2.017পাহাড়ের উচ্চতা h হলে,[math]\begin{aligned}\mathrm{h} & =\left(\frac{\mathrm{T}^{\prime}}{\mathrm{T}}-1\right) \mathrm{6.4 \times 10^6} \\& =\left(\frac{2.017}{2}-1\right) \mathrm{6.4 \times 10^6} \\& = 54400 m \\& = 54.4 \mathrm{~km}\end{aligned}[/math]
+সুতরাং বলা যায়, উদ্দীপকের তথ্যের ভিত্তিতে পাহাড়ের উচ্চতা নির্ণয় করা যাবে।
+
+Explanation:
+ব্যাখ্যা:
+
+ক একক ভেক্টর হলো এমন একটি ভেক্টর যার দৈর্ঘ্য বা মান ঠিক [math]1[/math] এবং এটি কেবল দিক নির্দেশ করে; যদি [math]\hat{u}[/math] একক ভেক্টর হয় তবে [math]|\hat{u}|=1[/math]।
+
+খ মহাকর্ষ বিভবের শূন্য মান সাধারণত অসীমে নেওয়া হয়, সেক্ষেত্রে কোন বস্তুকে অসীম থেকে ভূ-পৃষ্ঠে আনতে কাজ অপজিট (ধনাত্মক) কিন্তু বিভব স্বয়ং থাকে ঋণাত্মক কারণ বিভবকে সংজ্ঞায়িত করা হয় বস্তুকে ওই বিন্দুতে আনতে মহাকর্ষ ক্ষেত্র কর্তৃক করা কাজের প্রতিকূল (বা ক্ষমতা) হিসেবে; তাই ভূ-নিলে বিভবের মান শূন্যয়ের কারণে নিম্নস্থানে ঋণাত্মক হয়।
+
+গ ভূমি-স্তরে পেন্ডুলামের সময়কার [math]T_0=2\ s[/math]। শীর্ষে প্রতি ঘণ্টায় [math]30\ s[/math] ধীর হলে নতুন প্রতি দোলের সময় বৃদ্ধি ফ্যাক্টর [math]1+\dfrac{30}{3600}=1+\dfrac{1}{120}[/math], अतএব [math]\dfrac{\Delta T}{T}=\dfrac{1}{120}[/math]. পেন্ডুলামের [math]T\propto g^{-1/2}[/math] হওয়ায় [math]\dfrac{\Delta g}{g}\approx -2\dfrac{\Delta T}{T}=-\dfrac{1}{60}[/math]. ছোট h জন্য [math]\dfrac{\Delta g}{g}\approx -\dfrac{2h}{R}[/math] হওয়ায় [math]h=\dfrac{R}{120}[/math]. দেওয়া [math]R=6400\ \text{km}[/math] হলে [math]h=\dfrac{6400}{120}=53.33\ \text{km}[/math] (প্রায়)।
+
+ঘ হ্যাঁ—উপরে দেখানো গাণিতিক সম্পর্ক ব্যবহার করে উচ্চতা নির্ণয় করা যায়, তবে সমীকরণে [math]h\ll R[/math] ধরা হয়েছে (ইতীবাচক প্রাসঙ্গিকতা)।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 412998)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলক কোনো একটি পাহাড়ের পাদদেশে সঠিক সময় দেয়। কিন্তু দোলকটিকে পাহাড়ের চূড়ায় নিয়ে গেলে প্রতি ঘণ্টায় 30 সেকেন্ড সময় ধীরে চলে। পৃথিবীর ব্যাসার্ধ 6400 km এবং অভিকর্ষজ ত্বরণ 9.8 m [math]s^{-2}[/math] ।
+
+Options:
+গ. পাহাড়ের চূড়ায় দোলকটির দোলনকাল নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,সেকেন্ড দোলকের দোলনকাল, T = 2 s1 দিনে হারানো সময়, n = 30 sপাহাড়ের চূড়ায় সরল দোলকের দোলনকাল, T' = ?আমরা জানি,1 দিন = 86400 sপাহাড় চূড়ায় দোলকটির পরিবর্তিত দোলনকাল,[math]\begin{aligned}\mathrm{T}^{\prime} & =2 \times \frac{86400}{86400-\mathrm{n}} \\& =2 \times \frac{86400}{86400-30} \\& =2.00069 \mathrm{~s} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: দোলকের দোলনকাল মাধ্যাকর্ষণ তীরে অনুসারে [math]T\propto 1/\sqrt{g}[/math] হওয়ায় পাহাড়ে তীর কম হওয়ায় দোলনকাল বেড়ে যায়; কৃত্রিমভাবে ১ ঘণ্টায় ৩০ সেকেন্ড ধীর হওয়া মানে অনুপাতিক বৃদ্ধি [math]\Delta T/T=30/3600=1/120[/math]. তাই নতুন দোলনকাল [math]T'=2\Big(1+\frac{1}{120}\Big)=\frac{242}{120}\ \text{s}\approx 2.0167\ \text{s}[/math] — ফলে পাহাড়ের চূড়ায় প্রতিটি দোলন প্রায় [math]2.0167\ \text{s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 412999)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+পদার্থবিজ্ঞান ল্যাবে ব্যবহৃত একটি সেকেন্ড দোলকের গ্রীষ্মকালে দৈর্ঘ্য, বৃদ্ধি পাওয়ায় দোলনকাল 2.1 s হয়। সঠিক সময় পাওয়ার জন্য একজন ছাত্র এর দৈর্ঘ্য, 2% কমিয়ে দেয়। (g = 9.81 m [math]s^{-2}[/math]).
+
+Options:
+গ. ' স্বাভাবিক অবস্থায় দোলকটির কার্যকরী দৈর্ঘ্য নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, g = 9.8 m [math]s^{-2}[/math]
+সেকেন্ড দোলকটির পর্যায়কাল, T = 2 sকার্যকর দৈর্ঘ্য, L = ?গ.আমরা জানি,পর্যায়কাল,[math]T=2 \pi \sqrt{\frac{L}{g}}[/math]
+ [math]\begin{array}{l}\Rightarrow\text { } T^{2}=4 \pi^{2} \frac{\mathrm{L}}{\mathrm{g}} \\\Rightarrow\text { } \mathrm{L}=\frac{\mathrm{gT}^{2}}{4 \pi^{2}} \\\therefore L=\frac{9.81 \times 2^{2}}{4 \times(3.1416)^{2}} \\=0.993 \mathrm{~m} \text { (Ans.) } \\\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+সমাধান: সেকেন্ড দোলকের জন্য [math]T=2\ \text{s}[/math] হওয়া উচিত এবং [math]T=2\pi\sqrt{L/g}[/math] তাই
+[math]L=\dfrac{gT^{2}}{4\pi^{2}}=\dfrac{g}{\pi^{2}}.[/math]
+[g = 9.81 m s^{-2}] রেখে গণনা করলে [math]L=\dfrac{9.81}{\pi^{2}}\approx0.994\ \text{m}[/math] — এই দৈর্ঘ্যই স্বাভাবিক কার্যকরী দৈর্ঘ্য, কারণ তালের সূত্র অনুযায়ী দোলকের(period) কেবল দৈর্ঘ্যের বর্গমূল ও মহাকর্ষীয় ত্বকের উপর নির্ভর করে।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 413000)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+পদার্থবিজ্ঞান ল্যাবে ব্যবহৃত একটি সেকেন্ড দোলকের গ্রীষ্মকালে দৈর্ঘ্য, বৃদ্ধি পাওয়ায় দোলনকাল 2.1 s হয়। সঠিক সময় পাওয়ার জন্য একজন ছাত্র এর দৈর্ঘ্য, 2% কমিয়ে দেয়। (g = 9.81 m [math]s^{-2}[/math]).
+
+Options:
+ঘ. উদ্দীপকের আলোকে ছাত্রটি সফল হবে কি না- গাণিতিকভাবে যাচাই করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘআমরা জানি, সরল দোলকের ক্ষেত্রে,[math]\mathrm{T} \propto \sqrt{\mathrm{L}} \Rightarrow\text { } \frac{\mathrm{T}_{2}}{\mathrm{~T}_{1}}=\sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~L}_{1}}}[/math]
+এখানে,স্বাভাবিক অবস্থায় দোলনকাল, [math]T_1[/math]
+ = 2 s'গ' থেকে পাই,স্বাভাবিক অবস্থায় কার্যকরী দৈর্ঘ্য, [math]L_1[/math]
+ = 0.993 mদৈর্ঘ্য বৃদ্ধি পাওয়ায় দোলনকাল, [math]T_2[/math]
+ = 2.1 sএখন, গ্রীষ্মকালে দৈর্ঘ্য বৃদ্ধি পাওয়ায় দোলকটির কার্যকরী দৈর্ঘ্য, [math]L_2[/math]
+ হলে,[math]\begin{array}{l}\left(\frac{T_{2}}{T_{1}}\right)^{2}=\frac{L_{2}}{L_{1}} \\\Rightarrow\text { } L_{2}=\left(\frac{T_{2}}{T_{1}}\right)^{2} L_{1} \\\Rightarrow\text { } L_{2}=\left(\frac{2.1}{2}\right)^{2} \times 0.993 \\\therefore L_{2}=1.0947 \mathrm{~m}\end{array}[/math]
+এর দৈর্ঘ্য 2% কমিয়ে দিলে পরিবর্তিত কার্যকরী দৈর্ঘ্য,[math]\begin{aligned}\mathrm{L}_{2}^{\prime} & =\mathrm{L}_{2}-\mathrm{L}_{2} \times 2 \% \\& =\mathrm{L}_{2}-0.02 \mathrm{~L}_{2} \\& =0.98 \mathrm{~L}_{2} \\& =(0.98 \times 1.0947) \mathrm{m} \\& =1.07283 \mathrm{~m}\end{aligned}[/math]
+দৈর্ঘ্য 2% কমিয়ে দেওয়ার পর সরলদোলকের দোলনকাল,[math]\begin{aligned}\mathrm{T}_{2}^{\prime} & =2 \pi \sqrt{\frac{\mathrm{L}_{2}^{\prime}}{\mathrm{g}}} \\& =2 \pi \sqrt{\frac{1.07283}{9.81^{\circ}}} \\& =2.07785 \mathrm{~s}\end{aligned}[/math]
+দেখা যাচ্ছে, [math]T_2′[/math]
+ = 2 s, বরং [math]T_2'[/math]
+ > 2 sঅর্থাৎ, দৈর্ঘ্য 2% কমানোর ফলে দোলকটিতে সঠিক সময় T = 2 sপাওয়া যাবে না বা দোলকটি সেকেন্ড দোলক হবে না । সুতরাং বলা যায়, উদ্দীপকের আলোকে ছাত্রটি সফল হবে না ।
+
+Explanation:
+ব্যাখ্যা:
+ঘ ছাত্রটি সফল হবে না। কারণ [math]T\propto\sqrt{L}[/math] থেকে [math]L\propto T^2[/math], তাই গ্রীষ্মে দৈর্ঘ্য হয় [math]L_s=L_0\left(\dfrac{2.1}{2.0}\right)^2=1.1025\,L_0[/math] এবং 2% কমালে [math]L_{\text{new}}=0.98L_s=1.08045\,L_0[/math], ফলে নতুন কাল [math]T_{\text{new}}=2\sqrt{1.08045}\approx2.079\ \text{s}[/math] যা 2 s নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 413001)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলকের সিলিন্ডার আকৃতির বব পানিপূর্ণ অবসরে আছে। ববের দৈর্ঘ্য 8 cm ।
+
+Options:
+গ. দোলকটির কার্যকরী দৈর্ঘ্য নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, g = 9.8 m [math]s^{-2}[/math]
+সেকেন্ড দোলকটির পর্যায়কাল, T = 2 sকার্যকর দৈর্ঘ্য, L = ?গ.আমরা জানি,পর্যায়কাল,[math]T=2 \pi \sqrt{\frac{L}{g}}[/math]
+ [math]\begin{array}{l}\Rightarrow\text { } T^{2}=4 \pi^{2} \frac{\mathrm{L}}{\mathrm{g}} \\\Rightarrow\text { } \mathrm{L}=\frac{\mathrm{gT}^{2}}{4 \pi^{2}} \\\therefore L=\frac{9.81 \times 2^{2}}{4 \times(3.1416)^{2}} \\=0.993 \mathrm{~m} \text { (Ans.) } \\\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ কারণ কার্যকরী দৈর্ঘ্য শারীরিক দোলকের জন্য [math]L=d+\dfrac{I_{cm}}{md}[/math] যেখানে [math]I_{cm}=\dfrac{1}{12}ml^2[/math] এবং [math]d=l/2[/math]; তাই [math]L=\dfrac{l}{2}+\dfrac{\frac{1}{12}ml^2}{m(l/2)}=\dfrac{2}{3}l[/math]. ফলে [math]L=\dfrac{2}{3}\times8\ \text{cm}=\dfrac{16}{3}\ \text{cm}\approx5.33\ \text{cm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 413002)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলকের সিলিন্ডার আকৃতির বব পানিপূর্ণ অবসরে আছে। ববের দৈর্ঘ্য 8 cm ।
+
+Options:
+ঘ. ববটি অর্ধেক খালি করলে তখন দোলকটি দ্রুত না ধীরে চলবে? গাণিতিকভাবে যাচাই করে মতাম ত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘঘ‘গ’ থেকে পাই, সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য, L = 0.993-mববের দৈর্ঘ্য, h = 8 cm = 0.08 mববটি পানিপূর্ণ অবস্থায় থাকলে ববের ভারকেন্দ্র O বিন্দুতে থাকবে। এ অবস্থায় সূতার দৈর্ঘ্য । হলে, কার্যকরী দৈর্ঘ্য, [math]L = l+\frac{h}{2}[/math]
+ [math]\Rightarrow\text{ } 0.993=l+\frac{0.08}{2}\\\Rightarrow\text{ } l=(0.993-0.04) \mathrm{m}\therefore l=0.953 \mathrm{~m}[/math]
+ববটি অর্ধেক খালি করলে ববের ভারকেন্দ্রে O থেকে O বিন্দুতে নেমে যায়। ববের ভারকেন্দ্রের সরণ, [math]\mathrm{r}=\mathrm{OO}^{\prime}=\frac{\mathrm{h}}{2}-\frac{\mathrm{h}}{4}=\frac{\mathrm{h}}{4} \mathrm{~m}[/math]
+দোলকের নতুন কার্যকরী দৈর্ঘ্য,[math]\begin{aligned}\mathrm{L}^{\prime} & =l+\frac{\mathrm{h}}{2}+\mathrm{r} \\& =0.953+\frac{\mathrm{h}}{2}+\frac{\mathrm{h}}{4} \\& =0.953+\frac{0.08}{2}+\frac{0.08}{4} \\& =1.013 \mathrm{~m}\end{aligned}[/math]
+এ অবস্থায় পরিবর্তিত দোলনকাল T' হলে,[math]\begin{aligned}\mathrm{T}^{\prime} & =2 \pi \sqrt{\frac{\mathrm{L}^{\prime}}{\mathrm{g}}} \\\mathrm{T}^{\prime} & =2 \pi \sqrt{\frac{1.013}{9.8}} \\& =2.02 \mathrm{~s}\end{aligned}[/math]
+দেখা যাচ্ছে, T' > 2 s। অর্থাৎ, ববটি অর্ধেক খালি করায় দোলনকাল বেড়ে গেছে । তাই বলা যায়, ববটি অর্ধেক খালি করলে তখন দোলকটি ধীরে চলবে।
+
+Explanation:
+ব্যাখ্যা: ঘ বব অর্ধেক খালি করলে ভরের কেন্দ্র পিভট থেকে দূরে সরবে (প্রথমে [math]4\ \text{cm}[/math] থেকে পরে [math]6\ \text{cm}[/math]) এবং সুক্ষ আন্দোলনের ক্ষেত্রে মেয়াদটি কেন্দরের দুরত্বেরবিভাজকের বর্গমূলের অনুপাতে, তাই [math]T\propto\sqrt{l_{\rm eff}}[/math] হওয়ায় নতুন মেয়াদ [math]T'[/math] ও পুরোনোর অনুপাত হবে [math]\sqrt{6/4}=\sqrt{3/2}>1[/math]; ফলে দোলক ধীরে হবে (প্রায় [math]1.225[/math] গুণ)।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 413003)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলক ভূ-পৃষ্ঠে সঠিক সময় দেয়। শামীম দোলকটি উপগ্রহে নিয়ে গেল, যার ব্যাসার্ধ পৃথিবীর ব্যাসার্ধের [math]\frac{1}{4}[/math] গুণ এবং ভর পৃথিবীর ভরের [math]\frac{1}{50}[/math] গুণ। পৃথিবীর ভর [math]5.99 \times 10^{24} \mathrm{~kg}[/math]।
+
+Options:
+ঘ. দোলকটি উপগ্রহের পৃষ্ঠে পৃথিবীর তুলনায় ধীরে চলে - গাণিতিক বিশ্লেষণের মাধ্যমে উক্তিটির যথার্থতা যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘ‘গ’ থেকে পাই, উপগ্রহটির পৃষ্ঠে অভিকর্ষজ ত্বরণ [math]\mathrm{g}=3.136 \mathrm{~ms}^{-2}[/math]
+ পৃথিবী পৃষ্ঠে দোলনকাল [math]\mathrm{T}_{\mathrm{e}}[/math]
+ হলে,[math]\mathrm{T}_{\mathrm{e}}=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}_{\mathrm{e}}}}[/math]
+ ......(i) [ এখানে L হলো সরল দোলকের কার্যকরী দৈর্ঘ্য ও [math]\mathrm{g}_{\mathrm{e}}[/math]
+ হলো পৃথিবী পৃষ্ঠে অভিকর্ষজ ত্বরণ। ]আবার, উক্ত উপগ্রহে সরল দোলকটির পর্যায়কাল T হলে, [ এখানে, g হলো উক্ত উপগ্রহের পৃষ্ঠে অভিকর্ষজ ত্বরণ। ][math]T=2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}}}[/math]
+ ......(ii)এখানে,পৃথিবীতে দোলনকাল [math]T_{e}=2 \mathrm{~s}[/math]
+ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{e}}=9.8 \mathrm{~ms}^{-2}[/math]
+উপগ্রহের পৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=3.136 \mathrm{~ms}^{-2}[/math]
+(ii) নং সমীকরণকে (i) নং সমীকরণ দ্বারা ভাগ করে আমরা পাই,[math]\frac{T}{T_{e}}=\sqrt{\frac{g_{e}}{g}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{T}{2}=\sqrt{\frac{9.8}{3.136}}[/math]
+ [math]\therefore \mathrm{T}=3.5355 \mathrm{~s}[/math]
+যেহেতু [math]T>T_{e}[/math]
+ [math]\therefore[/math]
+ দোলকটি উপগ্রহের পৃষ্ঠে পৃথিবীর তুলনায় ধীরে চলে । উক্তিটি যথার্থ।
+
+Explanation:
+ঘ ব্যাখ্যা: উপগ্রহে মাধ্যাকর্ষণ ত্বরণ হবে [math]g' = g\cdot\frac{1/50}{(1/4)^2} = g\cdot\frac{16}{50} = 0.32\,g[/math]. দোলকের কালগুণ [math]T \propto 1/\sqrt{g}[/math] হওয়ায় নতুন কাল হবে [math]T' = T/\sqrt{0.32} \approx 1.77\,T[/math]; তাই দোলকটি উপগ্রহে পৃথিবীর তুলনায় ধীরে (অর্থাৎ দীর্ঘ সময় নিয়ে) দোলন করবে।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 413004)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলককে পাহাড়ের পাদদেশ থেকে চূড়ায় নিয়ে যাওয়া হলে দিনে 50 sec সময় হারায়। পৃথিবীর ব্যাসার্ধ 6400 km, অভিকর্ষজ ত্বরণ [math]9.8 \mathrm{~ms}^{-2}[/math]।
+
+Options:
+ঘ. কী কৌশল অবলম্বন করলে উদ্দীপকের দোলকটি পাহাড়ের চূড়ায়ও সেকেন্ড দোলকের ন্যায় আচর ণ করবে? গাণিতিক যুক্তিসহ উত্তর দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,সেকেন্ড দোলকের দোলনকাল, T=2sপাহাড়ের চূড়ায় দোলনকাল [math]\mathrm{T}^{\prime}=2.0005788 \mathrm{~s}[/math]
+ (‘গ’ হতে)ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6.4 \times 10^{6} \mathrm{~m}[/math]
+পাহাড়ের উচ্চতা, h =?আমরা জানি,ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=\frac{\mathrm{GM}}{\mathrm{R}^{2}}[/math]
+......(i)পাহাড় চূড়ায় অভিকর্ষজ ত্বরণ, [math]\mathrm{g}^{\prime}=\frac{\mathrm{GM}}{(\mathrm{R}+\mathrm{h})^{2}}[/math]
+ ....(ii)সমীকরণ (i) ÷ (ii) করে পাই,[math]\therefore \frac{\mathrm{g}}{\mathrm{g}^{\prime}}=\left(\frac{\mathrm{R}+\mathrm{h}}{\mathrm{R}}\right)^{2}=\left(1+\frac{\mathrm{h}}{\mathrm{R}}\right)^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]1+\frac{\mathrm{h}}{\mathrm{R}}=\sqrt{\frac{\mathrm{g}}{\mathrm{g}^{\prime}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]h=R\left(\sqrt{\frac{\mathrm{g}}{\mathrm{g}^{\prime}}}-1\right)[/math]
+ [math]\Rightarrow[/math]
+ [math]{\mathrm{h}}=\mathrm{R}\left(\frac{\mathrm{T}^{\prime}}{\mathrm{T}}-1\right)[/math]
+ [ যেহেতু [math]\mathrm{T} \propto \frac{1}{\sqrt{\mathrm{g}}}[/math]
+ বা, [math]\sqrt{\frac{\mathrm{g}}{\mathrm{g}^{\prime}}}=\frac{T^{\prime}}{T}[/math]
+ ][math]\Rightarrow[/math]
+ [math]h=6.4 \times 10^{6}\left(\frac{2.0005788}{2}-1\right)[/math]
+ [math]\therefore \mathrm{h}=1852.16 \mathrm{~m}[/math]
+পাহাড়ের পাদদেশের তুলনায় শীর্ষদেশে অভিকর্ষজ ত্বরণ যেহেতু কম, তাই কার্যকর দৈর্ঘ্যও সামান্য কমাতে হবে যাতে [math]\frac{L}{g}[/math]
+ অনুপাতটি সমন্বয় সাধনের মাধ্যমে পুনরায় T = 2 sec হয়।[math]T=2 \pi \sqrt{\frac{L}{g}}[/math]
+ [math]\therefore[/math]
+ [math]\mathrm{T}^{2}=4 \pi^{2} \frac{\mathrm{L}}{\mathrm{g}}[/math]
+ [math]\therefore[/math]
+ পাহাড়ের পাদদেশে কার্যকর দৈর্ঘ্য ,[math]\begin{aligned}\mathrm{L}=\frac{\mathrm{T}^{2} \mathrm{~g}}{4 \pi^{2}} & =\frac{(2)^{2} \times 9.8}{4 \times 9.87} \\& =0.9929 \mathrm{~m}\end{aligned}[/math]
+সেকেন্ড দোলক হিসেবে পাহাড়ের শীর্ষদেশে কার্যকর দৈর্ঘ্য [math]L^{\prime}[/math]
+ হলে, সমান পর্যায় কালের জন্য,[math]\frac{L^{\prime}}{L}=\frac{g^{\prime}}{g}=\frac{R^{2}}{(R+h)^{2}}[/math]
+ [ [math]\therefore[/math]
+ T ধ্রুবক হলে [math]\mathrm{L} \propto \mathrm{g}[/math]
+ ][math]\begin{aligned}\therefore \mathrm{L}^{\prime} & =\frac{\mathrm{R}^{2} \mathrm{~L}}{(\mathrm{R}+\mathrm{h})^{2}} \\& =\left(\frac{6400 \times 10^{3}}{6400 \times 10^{3}+1852.16}\right)^{2} \times 0.9929 \\& =0.9923 \mathrm{~m}\end{aligned}[/math]
+সুতরাং দোলকটির কার্যকর দৈর্ঘ্য সামান্য কমিয়ে 0.9923 m করা হলে পাহাড়ের চূড়ায় সেকেন্ড দোলকের ন্যায় আচরণ করবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ দোলকের দৈর্ঘ্য আলপ করলেই চূড়ায়ও সেটি সেকেন্ড দোলকের ন্যায় থাকবে—চূড়ায় গতি হ্রাস পাওয়ায় (গ মান কমে) দোলকের কাল বাড়ে, তাই দৈর্ঘ্য সামান্য কমাতে হবে। গণনা: দিনে 50 s হারার ফলে প্রতি দোলকের সময় বৃদ্ধি [math]\Delta T=\dfrac{50\times2}{86400}=0.0011574\ \mathrm{s}[/math], এবং [math]\dfrac{\Delta T}{T}\approx0.0005787[/math], তাই [math]\dfrac{\Delta g}{g}\approx-2\dfrac{\Delta T}{T}=-0.0011574, ফলে [math]\Delta g\approx-0.01134\ \mathrm{m/s^2}[/math]. দৈর্ঘ্যের পরিবর্তন [math]\Delta L=\dfrac{\Delta g}{\pi^2}\approx\dfrac{0.01134}{\pi^2}\approx0.00115\ \mathrm{m}\ (1.15\ \mathrm{mm})</math]; অর্থাৎ দোলকের লম্বা প্রায় 1.15 mm করে ছোট করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 413005)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলক ভূ-পৃষ্ঠে সঠিক সময় দেয়। দোলকটিকে রাঙামাটির এক পাহাড়ের উপর নিয়ে গেলে প্রতিদিন [math]25[/math] সেকেন্ড সময় হারায়। (ভূ-পৃষ্ঠে অভিকর্ষজ ত্বরণ [math]9.8 \mathrm{~ms}^{-2}[/math])।
+
+Options:
+গ. পাহাড়টির উচ্চতা নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+সেকেন্ড দোলকের দোলনকাল, T = 2 s[math]\hspace{1 cm}[/math]
+1 দিনে হারানো সময়, n = 25 s[math]\hspace{1 cm}[/math]
+ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6.4 \times 10^{6} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+পাহাড়ের উচ্চতা, h = ?আমরা জানি, 1 দিন = 86400 s[math]\therefore[/math]
+ পাহাড় চূড়ায় দোলকটির পরিবর্তিত দোলনকাল,[math]\hspace{1.5 cm}\begin{aligned} T^{\prime} & =2 \times \frac{86400}{86400-n} \\ & =2 \times \frac{86400}{86400-25} \\ & =2.0005788 \mathrm{~s} \end{aligned}[/math]
+ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=\dfrac{\mathrm{GM}}{\mathrm{R}^{2}}[/math]
+পাহাড় চূড়ায় অভিকর্ষজ ত্বরণ, [math]\mathrm{g}^{\prime}=\dfrac{\mathrm{GM}}{(\mathrm{R}+\mathrm{h})^{2}}[/math]
+ [math]\hspace{1.5 cm} \therefore ~ \frac{\mathrm{g}}{\mathrm{g}^{\prime}}=\left(\frac{\mathrm{R}+\mathrm{h}}{\mathrm{R}}\right)^{2}=\left(1+\frac{\mathrm{h}}{\mathrm{R}}\right)^{2}[/math]
+ [math]\hspace{1.5 cm} \Rightarrow 1+\frac{\mathrm{h}}{\mathrm{R}}=\sqrt{\frac{\mathrm{g}}{\mathrm{g}^{\prime}}}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \mathrm{h}=\mathrm{R}\left(\sqrt{\frac{\mathrm{g}}{\mathrm{g}^{\prime}}}-1\right)[/math]
+ [math]\hspace{1.5 cm} \Rightarrow \mathrm{h}=\mathrm{R}\left(\frac{\mathrm{T}^{\prime}}{\mathrm{T}}-1\right) \text {; }[/math]
+ [যেহেতু [math]\mathrm{T} \propto \frac{1}{\sqrt{\mathrm{g}}} \Rightarrow \sqrt{\frac{\mathrm{g}}{\mathrm{g}^{\prime}}}=\frac{\mathrm{T}^{\prime}}{\mathrm{T}}[/math]
+][math]\hspace{1.5 cm}\Rightarrow \mathrm{h}=6.4 \times 10^{6}\left(\frac{2.0005788}{2}-1\right)[/math]
+ [math]\hspace{1.5 cm}\therefore ~\mathrm{h}=1852.16 \text { m (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ দোলকের সময়কাল [math]T∝1/\sqrt{g}[/math] হওয়ায় ক্ষুদ্র পরিবর্তনে [math]\Delta T/T=-\tfrac{1}{2}\Delta g/g[/math] এবং ভূত্বকের উপরে উচ্চতায় [math]\Delta g/g\approx-2h/R[/math] হলে মিলিয়ে [math]\Delta T/T=h/R[/math] পাওয়া যায়। একদিনে ২৫ সেকেন্ড হারানো মানে নতুন টিকের সময় হয় [math]T'=\dfrac{86400}{86400-25}[/math] থেকে [math]\Delta T/T=25/86375[/math], তাই উচ্চতা [math]h=R\,(25/86375)\approx6.37\times10^6\times\dfrac{25}{86375}\approx1.84\times10^3\ \text{m}[/math] (প্রায় 1.85 কিমি)।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 413006)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+অত্যাধিক ঠান্ডার কারণে ' [math]\rm{p}[/math]' স্থানে একটি সেকেন্ড দোলকের দোলনকাল এমনভাবে পরিবর্তিত হলো যে, ইহা দিনে [math]15[/math] সেকেন্ড দ্রুত চলে। পরে এই দোলকটিতে একই তাপমাত্রায় অপর একটি স্থান ' [math]\rm{N}[/math]' তে নেয়া হলো। [math]\rm{P}[/math] স্থানের চেয়ে [math]\rm{N}[/math] স্থানে অভিকর্ষীয় ত্বর ণ [math]5\%[/math] কম। [math]\left[\mathrm{g}=9.8 \mathrm{~ms}^{-2}\right][/math]
+
+Options:
+গ. [math]\rm{P}[/math] স্থানে সেকেন্ড দোলকটির পরিবর্তিত দোলনকাল হিসাব করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+P স্থানে সেকেন্ড দোলকটি 15 s দ্রুত চলে।অর্থাৎ দোলকটি (86400 + 15) টি অর্ধ দোলন[math]\hspace{1.2 cm}\Rightarrow ~[/math]
+ 86415 টি অর্ধ দোলন দেয় 86400 s এ।[math]\hspace{1.2 cm}\therefore \qquad ~[/math]
+ 2 টি অর্ধদোলন দেয় [math]=\frac{2 \times 86400}{86415} \mathrm{~s} \text { এ} = 1.9997 \mathrm{~s} \text { এ}[/math]
+ [math]\therefore ~[/math]
+ P স্থানে সেকেন্ড দোলকটির পরিবর্তিত দোলনকাল, [math]\mathrm{T}^{\prime}=1.9997 \mathrm{~s} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ সেকেন্ড দোলক হলে আদর্শ দোলনকাল [math]T_0=2\ \text{s}[/math]। দিনে [math]15\ \text{s}[/math] দ্রুত চলা মানে অনুপাতগত পরিবর্তন [math]\frac{\Delta T}{T_0}=-\frac{15}{86400}[/math]। তাই পরিবর্তিত দোলনকাল হল [math]T=2+\Delta T=2-2\cdot\frac{15}{86400}=2-\frac{1}{2880}\approx1.99965\ \text{s}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 413007)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+অত্যাধিক ঠান্ডার কারণে ' [math]\rm{p}[/math]' স্থানে একটি সেকেন্ড দোলকের দোলনকাল এমনভাবে পরিবর্তিত হলো যে, ইহা দিনে [math]15[/math] সেকেন্ড দ্রুত চলে। পরে এই দোলকটিতে একই তাপমাত্রায় অপর একটি স্থান ' [math]\rm{N}[/math]' তে নেয়া হলো। [math]\rm{P}[/math] স্থানের চেয়ে [math]\rm{N}[/math] স্থানে অভিকর্ষীয় ত্বর ণ [math]5\%[/math] কম। [math]\left[\mathrm{g}=9.8 \mathrm{~ms}^{-2}\right][/math]
+
+Options:
+ঘ. দোলনটিকে ' [math]\rm{N}[/math]' স্থানে সেকেন্ড দোলক হিসেবে ব্যবহারের জন্য কী পরিবর্তন করতে হবে? গাণিতিক ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+ঠান্ডার জন্য দোলকটির পরিবর্তিত দৈর্ঘ্য, [math]\mathrm{L}_{1}=\text { ? }[/math]
+ [math]\hspace{1 cm}[/math]
+P স্থানে সেকেন্ড দোলকটি 15 s দ্রুত চলে।অর্থাৎ দোলকটি (86400 + 15) টি অর্ধ দোলন[math]\hspace{1.2 cm}\Rightarrow ~[/math]
+ 86415 টি অর্ধ দোলন দেয় 86400 s এ।[math]\hspace{1.2 cm}\therefore \qquad ~[/math]
+ 2 টি অর্ধদোলন দেয় [math]=\frac{2 \times 86400}{86415} \mathrm{~s} \text { এ} = 1.9997 \mathrm{~s} \text { এ}[/math]
+ [math]\therefore ~[/math]
+ P স্থানে সেকেন্ড দোলকটির পরিবর্তিত দোলনকাল, [math]\mathrm{T}^{\prime}=1.9997 \mathrm{~s} \text { (Ans.) }[/math]
+ আমরা জানি, দোলনকাল,[math]\hspace{1.5 cm}\begin{aligned} ~ \mathrm{T} & =2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}}} \\ \therefore ~ T^{\prime} & =2 \pi \sqrt{\frac{L_{1}}{g}} \\ \Rightarrow \mathrm{T}^{\prime 2} &=4 \pi^{2} \frac{\mathrm{L}_{1}}{g} \\ \Rightarrow \mathrm{L}_{1} & =\frac{\mathrm{gT}^{\prime 2}}{4 \pi^{2}} =\frac{9.8 \times(1.9997)^{2}}{4 \times(3.1416)^{2}} \mathrm{~m} \\ & =0.9926 \mathrm{~m} \end{aligned}[/math]
+যেহেতু P ও N স্থানের তাপমাত্রা একই, N স্থানেও দোলকটির দৈর্ঘ্য [math]\mathrm{L}_{1}=0.9926 \mathrm{~m}[/math]
+ হবে।আবার,[math]\hspace{1 cm}[/math]
+N স্থানে, অভিকর্ষজ ত্বরণ, [math]\mathrm{g}^{\prime}=9.8(1-0.05) \mathrm{ms}^{-2} =9.31 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+সেকেন্ড দোলকের দোলনকাল, T = 2 ‍s[math]\hspace{1 cm}[/math]
+সেকেন্ড দোলকের দৈর্ঘ্য, [math]L_1 = ?[/math]
+এখন,[math]\hspace{1.5 cm}\begin{aligned} T & =2 \pi \sqrt{\frac{\mathrm{L}}{\mathrm{g}^{\prime}}}\\ \mathrm{T}^{2} & =4 \pi^{2} \frac{\mathrm{L}}{\mathrm{g}^{\prime}} \\ \therefore ~ L & =\frac{g^{\prime} T^{2}}{4 \pi^{2}} \\ & =\frac{9.31 \times 2^{2}}{4 \times(3.1416)^{2}} \mathrm{~m} \\ & =0.9433 \mathrm{~m} \end{aligned}[/math]
+এখানে,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{L}<\mathrm{L}^{\prime} & \\\mathrm{L}^{\prime}-\mathrm{L} & =(0.9926-0.9433) \mathrm{m} \\ & =0.0493 \mathrm{~m} \\ & =4.93 \mathrm{~cm} \end{aligned}[/math]
+অতএব, দোলকটিকে N স্থানে সেকেন্ড দোলক হিসেবে ব্যবহার করার জন্য এর কার্যকারী দৈর্ঘ্য 4.93 cm কমাতে হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ দোলকের লম্বা পরিবর্তন করতে হবে; কারণ [math]T\propto\sqrt{L/g}[/math] হওয়ায় [math]L\propto gT^{2}[/math]. P-তে কালের পরে [math]T= \dfrac{86400}{86415}[/math] সেকেন্ড এবং [math]g_{N}=0.95\,g_{P}[/math] হলে নতুন দরকারি লম্বার অনুপাত
+[math]\dfrac{L_{N}}{L_{P}}=\dfrac{g_{N}}{g_{P}}\cdot\dfrac{1}{T^{2}}=0.95\left(\dfrac{86415}{86400}\right)^{2}\approx0.95033.[/math]
+এবং লম্বা কমাতে হবে [math]1-0.95033\approx0.0497\;(≈4.97\%)[/math], অর্থাৎ প্রায় [math]5\%[/math] ছোট করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 413008)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+সকিল একদিন একটি সেকেন্ড দোলককে [math]\rm{A}[/math] ও [math]\rm{B}[/math] নামক দুটি পাহাড়ের পাদদেশে নিয়ে গেলে সঠিক সময় পায়। কিন্তু সে লক্ষ করল [math]\rm{A}[/math] পাহাড়ের চূরায় গেলে দোলকটি [math]30\rm{~s}[/math] সময় হাড়ায় এবং [math]\rm{B}[/math] পাহাড়ের চূড়ায় দোলকটির দোলনকাল পাওয়া যায় [math]2.0198 \rm{~s}[/math]। [পৃথিবীর ব্যসার্ধ [math]\rm{R}=6.4 \times 10^{6} \mathrm{~m}[/math] ] পাহাড়দ্বয়ের পাদদেশে অর্থাৎ ভূপৃষ্ঠে [math][\mathrm{g}=9.8 \mathrm{~ms}^{-2}][/math]
+
+Options:
+গ. উদ্দীপকের সেকেন্ড দোলকটির দৈর্ঘ কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+ভূপৃষ্ঠে অভিকর্ষজ ত্বরণ, [math]g = 9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+সেকেন্ড দোলকটির ভূপৃষ্ঠে পর্যায়কাল T = 2 s[math]\hspace{1 cm}[/math]
+দৈর্ঘ্য L = ?আমরা জানি, পর্যায়কাল[math]\hspace{1.5 cm}\begin{aligned} T & =2 \pi \sqrt{\frac{L}{g}}\\ \Rightarrow ~ T^{2} & =4 \pi^{2} \frac{L}{g} \\ \Rightarrow ~~~\mathrm{L} &=\frac{\mathrm{gT}^{2}}{4 \pi^{2}}\\ \therefore ~~~~ \mathrm{L} & =\frac{9.8 \times 2^{2}}{4 \times(3.1416)^{2}} \mathrm{~m} \\ & =0.993 \mathrm{~m} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+সমাধান:
+গ সেকেন্ড দোলকের জন্য [math]T=2\pi\sqrt{L/g}[/math], তাই [math]L=\dfrac{gT^{2}}{4\pi^{2}}[/math]. এখানে [math]T=2\ \rm s[/math] ও [math]g=9.8\ \rm m/s^{2}[/math], ফলে [math]L=\dfrac{9.8\times 2^{2}}{4\pi^{2}}=\dfrac{9.8}{\pi^{2}}\approx 0.994\ \rm m[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 413009)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলক ভূ-পৃষ্ঠে সঠিক সময় দেয়। একে পাহাড়ের উপর নিয়ে গেলে তা প্রতিদিন [math]10 \mathrm{~sec}[/math] সময় হারায়। [পৃথিবীর ব্যাসার্ধ, [math]\rm{R}=6400 \mathrm{~km}[/math] এবং ভূপৃষ্ঠের অভিকর্ষীয় ত্বরণ [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]]
+
+Options:
+গ. উদ্দীপকের পাহাড়ের উচ্চতা কত?
+
+
+Correct Answer: 
+
+Solution:
+গভূপৃষ্ঠে দোলকটির দোলনকাল, [math]\rm{T=2 ~s}[/math]
+পাহাড়ের চূড়ায় দোলনকাল, [math]\rm{T}^{\prime}=\dfrac{24 \times 60 \times 60+10}{43200} \rm{s}[/math]
+ [math]\therefore \quad \mathrm{T}^{\prime}=2.0002315 \mathrm{~s}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6400 \mathrm{~km}=6.4 \times 10^{6} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+পাহাড়ের উচ্চতা, [math]\mathrm{h}=\text {?}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} ~\quad\dfrac{\mathrm{T}^{\prime}}{\mathrm{T}}=\sqrt{\dfrac{\mathrm{g}}{\mathrm{g}^{\prime}}} \\ \Rightarrow \dfrac{\mathrm{T}^{\prime}}{\mathrm{T}}=\sqrt{\left(\dfrac{\mathrm{R}+\mathrm{h}}{\mathrm{R}}\right)^{2}} \\ \Rightarrow \dfrac{\mathrm{T}^{\prime}}{\mathrm{T}}=\dfrac{\mathrm{R}+\mathrm{h}}{\mathrm{R}} \\ \Rightarrow \mathrm{h}=\left(\dfrac{\mathrm{T}^{\prime}}{\mathrm{T}}-1\right) \mathrm{R}=\left(\dfrac{2.0002315}{2}-1\right) \times 6.4 \times 10^{6} \mathrm{~m} \\ \therefore \mathrm{~h}=740.74 \mathrm{~m} \end{array}[/math]
+অতএব, উদ্দীপকের পাহাড়টির উচ্চতা [math]740.74 \mathrm{~m}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ ঘড়ি দিনে [math]10\ \mathrm{s}[/math] হারালে ধারাবাহিক অনুপাতিক পরিবর্তন [math]\Delta T/T=10/86400[/math]. ছোট পরিবর্তনের ক্ষেত্রে [math]\Delta T/T=-(1/2)\Delta g/g[/math] এবং উচ্চতায় [math]\Delta g/g\approx -2h/R[/math] হওয়ায় একত্রে [math]h=R(\Delta T/T)[/math] পাওয়া যায়। তাই [math]h=6.4\times10^{6}\times\frac{10}{86400}\approx7.41\times10^{2}\ \mathrm{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 413010)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলক ভূপৃষ্ঠে সঠিক সময় দেয়। একে [math]9\ km[/math] উচ্চতায় এভারেস্টের চূড়ায় নিয়ে গেলে প্রতি ঘণ্টায় [math]5[/math] সেকেন্ড সময় হারায়। পৃথিবীর ব্যাসার্ধ [math]6400\ km[/math]।
+
+Options:
+ঘ. উদ্দীপকের তথ্যাবলি হতে এভারেস্টের উচ্চতা নির্ণয় করে তার সঠিকতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6400 \mathrm{~km}=6400 \times 10^{3} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ভূপৃষ্ঠে দোলনকাল, [math]\rm{T=2 s}[/math]
+ [math]\hspace{1 cm}[/math]
+এভারেস্ট চূড়ায় দোলনকাল, [math]\rm{\mathrm{T}^{\prime}=2.0028 \mathrm{~s}}[/math]
+ [math]\hspace{1 cm}[/math]
+এভারেস্টের উচ্চতা, [math]\mathrm{h}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm} \begin{array}{l} \quad\dfrac{\mathrm{T}}{\mathrm{T}^{\prime}}=\sqrt{\dfrac{\mathrm{g}^{\prime}}{\mathrm{g}}} \\ \Rightarrow \dfrac{\mathrm{T}}{\mathrm{T}^{\prime}}=\sqrt{\left(\dfrac{\mathrm{R}}{\mathrm{R}+\mathrm{h}}\right)^{2}} \\ \Rightarrow \dfrac{\mathrm{T}}{\mathrm{T}^{\prime}}=\dfrac{\mathrm{R}}{\mathrm{R}+\mathrm{h}} \\ \Rightarrow \mathrm{R}+\mathrm{h}=\dfrac{\mathrm{T}^{\prime}}{\mathrm{T}} \mathrm{R} \\ \begin{aligned} \Rightarrow \mathrm{h}=\frac{\mathrm{T}^{\prime}}{\mathrm{T}} \mathrm{R}-\mathrm{R} & =\left(\frac{\mathrm{T}^{\prime}}{\mathrm{T}}-1\right) \mathrm{R} \\ & =\left(\frac{2.0028}{2}-1\right) \times 6400 \times 10^{3} \mathrm{~m} \\ & =8.89 \times 10^{3} \mathrm{~m} \end{aligned}\\ \therefore \mathrm{~h}=8.89 \mathrm{~km}\end{array}[/math]
+উপরোক্ত গাণিতিক বিশ্লেষণ থেকে দেখা যাচ্ছে, এভারেস্টের উচ্চতা [math]8.89 \mathrm{~km}[/math]
+ যা উদ্দীপকে উল্লিখিত উচ্চতা [math](9 \mathrm{~km})[/math]
+ এর প্রায় সমান। অতএব, উদ্দীপকের তথ্যাবলি সমান।
+
+Explanation:
+ঘ ব্যাখ্যা: সেকেন্ড দোলকের সময় [math]T\propto g^{-1/2}[/math] এবং উচ্চতায় [math]g' = g\bigl(\tfrac{R}{R+h}\bigr)^2\approx g(1-2h/R)[/math], ফলে [math]\Delta T/T\approx h/R[/math]. ঘণ্টায় [math]5\ \text{s}[/math] হারানো হলে [math]\Delta T/T=5/3600[/math], তাই [math]h=R(5/3600)=6400\times\frac{5}{3600}\approx 8.89\ \text{km}[/math], যা প্রায় [math]9\ \text{km}[/math]—অতএব দেওয়া উচ্চতা গ্রহণযোগ্য।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 413011)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+[math]A-[/math]স্থানে একটি সেকেন্ড দোলকের কার্যকর দৈর্ঘ্য [math]1m[/math] এবং [math]B[/math] স্থানে [math]0.9\ m[/math]। দোলকে ব্যবহৃত ববের ব্যাসার্ধ [math]0.75\ cm[/math]।
+
+[math]A-[/math]হতে [math]B[/math] তে কোনো বস্তু নিয়ে গেলে বস্তুটির ওজন বাড়বে না, কমবে? তোমার উত্তরের সপক্ষে গাণিতিক বিশ্লেষণ দাও।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ঘযেহেতু দোলকটি একটি সেকেন্ড দোলক। সুতরাং [math]\mathrm{A}[/math]
+ ও [math]\mathrm{B}[/math]
+ উভয় স্থানে এর দোলনকাল, [math]\rm{T_{A}=T_{B}}=2 \sec[/math]
+ [math]\rm{A}[/math]
+ স্থানে, দোলকের কার্যকরী দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{A}}=1 \mathrm{~m}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{\mathrm{A}}[/math]
+ [math]\text {B}[/math]
+ স্থানে, কার্যকরী দৈর্ঘ্য, [math]\mathrm{L}_{\mathrm{B}}=0.9 \mathrm{~m}[/math]
+অভিকর্ষজ ত্বরণ, [math]\rm{g_{B}}[/math]
+দোলকের ভর [math]\rm{m}[/math]
+ হলে,[math]\hspace{1 cm}\rm{A}[/math]
+ স্থানে ওজন, [math]\mathrm{W}_{\mathrm{A}}=\mathrm{mg}_{\mathrm{A}}[/math]
+ [math]\hspace{1 cm}\text { B }[/math]
+ স্থানে ওজন, [math]\mathrm{W}_{\mathrm{B}}=\mathrm{mg}_{\mathrm{B}}[/math]
+ [math]\text { A }[/math]
+ স্থানের ক্ষেত্রে, [math]\mathrm{T}_{\mathrm{A}}=2 \pi \sqrt{\dfrac{\mathrm{L}_{\mathrm{A}}}{\mathrm{g}_{\mathrm{A}}}}\ldots\ldots\ldots(1)[/math]
+ [math]\text { B }[/math]
+ স্থানের ক্ষেত্রে, [math]\mathrm{T}_{\mathrm{B}}=2 \pi \sqrt{\dfrac{\mathrm{L}_{\mathrm{B}}}{\mathrm{g}_{\mathrm{B}}}}\ldots\ldots\ldots(2)[/math]
+ [math](1) \div (2)[/math]
+ করে পাই,[math]\hspace{1.5 cm}\quad\rm{\dfrac{T_{A}}{T_{B}}=\dfrac{\sqrt{L_{A}}}{\sqrt{g_{A}}} \times \dfrac{\sqrt{g_{B}}}{\sqrt{L_{B}}}}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \dfrac{2}{2}=\dfrac{\sqrt{1}}{\sqrt{\mathrm{g}_{\mathrm{A}}}} \times \dfrac{\sqrt{\mathrm{g}_{\mathrm{B}}}}{\sqrt{0.9}}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow 1=\sqrt{\dfrac{\mathrm{g}_{\mathrm{B}}}{\mathrm{g}_{\mathrm{A}}}} \times \sqrt{\dfrac{1}{0.9}}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \dfrac{\mathrm{g}_{\mathrm{A}}}{\mathrm{g}_{\mathrm{B}}}=\dfrac{1}{0.9}[/math]
+ [বর্গ করে][math]\hspace{1.5 cm}\Rightarrow \rm{\dfrac{g_{A}}{g_{B}}}=\dfrac{10}{9}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \dfrac{\mathrm{mg}_{\rm{A}}}{\mathrm{mg}_{\rm{B}}}=\dfrac{10}{9}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \dfrac{\mathrm{W}_{\mathrm{A}}}{\mathrm{W}_{\mathrm{B}}}=\dfrac{10}{9}=\dfrac{9}{10}[/math]
+ [math]\hspace{1.5 cm}\Rightarrow \mathrm{W}_{\mathrm{B}}=0.9 \times \mathrm{W}_{\mathrm{A}}[/math]
+অতএব, [math]\text {A}[/math]
+ হতে [math]\text {B}[/math]
+ তে কোনো বস্তু নিয়ে গেলে এর ওজন [math]0.9[/math]
+ গুণ বাড়বে।
+
+Explanation:
+ব্যাখ্যা: একসেকেন্ড দোলকের সমীকরণ [math]T=2\pi\sqrt{L/g}[/math] থেকে [math]L=\dfrac{gT^2}{4\pi^2}[/math], তাই একই পর্যায়কাল হলে কার্যকর দৈর্ঘ্য সরাসরি গুরত্বাকর্ষণের তীব্রতার অনুপাত দেয়; অর্থাৎ [math]\dfrac{g_B}{g_A}=\dfrac{L_B}{L_A}=\dfrac{0.9}{1}=0.9[/math]. অতএব বস্তুটির ওজন হবে [math]W_B=mg_B=0.9\,mg_A[/math], অর্থাৎ ১০% কমে যাবে। ববের ব্যাসার্ধ [math]0.75\ \text{cm}[/math] এত ছোট যে এই সিদ্ধান্তে গুরুত্বপূর্ণ প্রভাব নেই।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 413012)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলককে 'ক' অঞ্চল হতে 'খ' অঞ্চলে নেওয়া হলো। [math]g_{\text {ক }}=9.78 \mathrm{~ms}^{-2} ; g_{\text {খ }}=9.83 \mathrm{~ms}^{-2}[/math]।
+
+Options:
+গ. 'ক' অঞ্চলে দোলকটির কার্যকরী দৈর্ঘ্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, 'ক' অঞ্চলে দোলকটির কার্যকরী দৈর্ঘ্য [math]\rm{L}[/math]
+।উদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+পর্যায়কাল, [math]\mathrm{T}=2 \mathrm{~s}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{ক}=9.78 \mathrm{~ms}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l}\quad \mathrm{T}=2 \pi \sqrt{\dfrac{\mathrm{L}}{\mathrm{g}_{ক}}} \\ \Rightarrow \mathrm{T}^{2}=4 \pi^{2} \dfrac{\mathrm{L}}{\mathrm{g}_{ক}}\\ \mathrm{L}=\dfrac{\mathrm{T}^{2} \mathrm{~g}_{ক}}{4 \pi^{2}}=\dfrac{2^{2} \mathrm{~s}^{2} \times 9.78 \mathrm{~ms}^{-2}}{4 \times(3.1416)^{2}}=0.991 \mathrm{~m} \end{array}[/math]
+সুতরাং 'ক' অঞ্চলে দোলকটির কার্যকরী দৈর্ঘ্য [math]0.991 \mathrm{~m} .[/math]
+
+
+Explanation:
+ব্যাখ্যা: সেকেন্ড দোলকের ক্ষেত্রে [math]T=2\pi\sqrt{L/g}[/math] হয়, তাই [math]L=\dfrac{gT^2}{4\pi^2}[/math].  
+গ অঞ্চলটির জন্য [math]L=\dfrac{9.78\times 2^2}{4\pi^2}=\dfrac{9.78}{\pi^2}\approx0.991\ \mathrm{m}[/math] (প্রায় [math]0.99\ \mathrm{m}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 413013)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলককে 'ক' অঞ্চল হতে 'খ' অঞ্চলে নেওয়া হলো। [math]g_{\text {ক }}=9.78 \mathrm{~ms}^{-2} ; g_{\text {খ }}=9.83 \mathrm{~ms}^{-2}[/math]।
+
+Options:
+ঘ. 'খ' অঞ্চলে দোলকটির দোলনকালের পরিবর্তন ঘটবে কি? গাণিতিক বিশ্লেষণসহ যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, 'ক' অঞ্চলে দোলকটির কার্যকরী দৈর্ঘ্য [math]\rm{L}[/math]
+।উদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+পর্যায়কাল, [math]\mathrm{T}=2 \mathrm{~s}[/math]
+ [math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{ক}=9.78 \mathrm{~ms}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{T}=2 \pi \sqrt{\dfrac{\mathrm{L}}{\mathrm{g}_{ক}}} \\ \Rightarrow \mathrm{T}^{2}=4 \pi^{2} \dfrac{\mathrm{L}}{\mathrm{g}_{ক}}\\ \mathrm{L}=\dfrac{\mathrm{T}^{2} \mathrm{~g}_{ক}}{4 \pi^{2}}=\dfrac{2^{2} \mathrm{~s}^{2} \times 9.78 \mathrm{~ms}^{-2}}{4 \times(3.1416)^{2}}=0.991 \mathrm{~m} \end{array}[/math]
+সুতরাং 'ক' অঞ্চলে দোলকটির কার্যকরী দৈর্ঘ্য [math]0.991 \mathrm{~m} .[/math]
+উদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\rm{g}_{খ}=9.83 \mathrm{~ms}^{-2}[/math]
+ধরি, ‘খ' অঞ্চলে দোলকটির দোলনকাল [math]\rm{T_{খ}}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{T}_{খ} & =2 \pi \rm{\sqrt{\dfrac{L}{g_{খ}}}} \\ & =2 \times 3.1416 \times \sqrt{\frac{0.991 \mathrm{~m}}{9.83 \mathrm{~ms}^{-2}}}=6.2832 \times 0.3175 \mathrm{~s} \\ \therefore T_{খ} &=1.995 \mathrm{~s}\end{aligned}[/math]
+'ক' অঞ্চলে দোলকটির দোলনকাল, [math]\rm{T=2 s}[/math]
+ [math]\therefore[/math]
+ দোলনকালের পরিবর্তন [math]=2 \mathrm{~s}-1.995 \mathrm{~s}=0.005 \mathrm{~s}[/math]
+অতএব উপরের গাণিতিক বিশ্লেষণ হতে বলা যায় ‘খ’ অঞ্চলে দোলকটির দোলনকাল [math]0.005 \mathrm{~s}[/math]
+ হ্রাস পাবে।
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ, সামান্য পরিবর্তন হবে—দোলকের দোলনকাল [math]T=2\pi\sqrt{\dfrac{L}{g}}[/math] হওয়ায় একই দৈর্ঘ্যে [math]g[/math] বাড়লে [math]T[/math] কমে। তাই
+[math]\dfrac{T_{\text{খ}}}{T_{\text{ক}}}=\sqrt{\dfrac{g_{\text{ক}}}{g_{\text{খ}}}}=\sqrt{\dfrac{9.78}{9.83}}\approx0.99745,[/math]
+অর্থাৎ দোলনকাল প্রায় [math]0.255\%[/math] কমে—খুবই সংক্ষিপ্ত ও ক্ষুদ্র হারে।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 413014)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+মতিন একদিন একটি সেকেন্ড দোলককে পাহাড়ের পাদদেশে নিয়ে গেলে সঠিক সময় পায় কিন্তু পাহাড়ের চূড়ায় নিয়ে গিয়ে সে লক্ষ করল যে দোলকটি ঘণ্টায় [math]30[/math] সেকেন্ড সময় হারায়। [পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6400 \mathrm{~km}[/math], অভিকর্ষজ ত্বরণ [math]g=9.8 \mathrm{~m} / \ mathrm{s}^{2}[/math]]
+
+Options:
+ঘ. উদ্দীপকের তথ্যের ভিত্তিতে পাহাড়ের উচ্চতা নির্ণয় করা সম্ভব কিনা— গাণিতিকভাবে ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+সেকেন্ড দোলকের দোলনকাল, [math]\mathrm{T}=2 \mathrm{~s}[/math]
+অর্থাৎ, দোলকটি [math]3600 \rm{~s}[/math]
+ বা [math]1[/math]
+ ঘণ্টায় [math]1800[/math]
+ টি দোলন সম্পন্ন করে।পাহাড়ের উপর নেওয়ায় দোলকটি [math]30 \rm{~s}[/math]
+ হারায়।অর্থাৎ [math]1800[/math]
+ টি পূর্ণ দোলন সম্পন্ন করে [math]( 3600 + 30) \rm{~s}[/math]
+ বা [math]3630\rm{~s}[/math]
+ এ[math]\therefore[/math]
+ দোলকটির একটি পূর্ণ দোলন দিতে প্রয়োজনীয় সময়,[math]\hspace{1.5 cm}\rm{T}=\dfrac{3630}{1800} \mathrm{~s}=2.0167 \mathrm{~s}[/math]
+অতএব, পাহাড়ের চূড়ায় সরলদোলকের দোলনকাল [math]2.0167 \rm{~s}[/math]
+।দোলকটির কার্যকরী দৈর্ঘ্য [math]\rm{L}[/math]
+ হলে,[math]\hspace{1.5 cm}\rm{T=2 \pi \sqrt{\dfrac{\mathrm{L}}{\mathrm{g}}} \ldots \ldots \ldots . .(১)}[/math]
+এখন, পাহাড়ের উপরে অভিকর্ষজ ত্বরণ [math]\rm{g}_1[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{\dfrac{T_{1}}{T}=2 \pi \sqrt{\dfrac{L}{g_{1}}}+2 \pi \sqrt{\dfrac{L}{g}}=\sqrt{\dfrac{\mathrm{g}}{g_{1}}}} \\ \Rightarrow \rm{\dfrac{T_{1}^{2}}{\mathrm{~T}^{2}}=\dfrac{\mathrm{g}}{\mathrm{g}_{1}}} \\ \Rightarrow \rm{\mathrm{~g}_{1}=\dfrac{\mathrm{T}^{2} \mathrm{~g}}{\mathrm{~T}_{1}{ }^{2}}=\dfrac{(2 \mathrm{~s})^{2} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2}}{\left(2.0167 \mathrm{~s}^{2}\right.}=9.64 \mathrm{~m} \mathrm{~s}^{-2}}\end{array}[/math]
+এখানে, পৃথিবীর ব্যাসার্ধ, [math]\mathrm{R}=6.4 \times 10^{6} \mathrm{~m}[/math]
+এখন,পাহাড়টির উচ্চতা [math]\rm{h}[/math]
+ হলে,[math]\hspace{.5 cm}\begin{aligned} \rm{g}_{1} & =\rm{g\left(1-\frac{2 h}{R}\right)} \\ \Rightarrow 1-\rm{\frac{2 h}{R}} &=\rm{\frac{g_{1}}{g}}\\ \Rightarrow \frac{2 \mathrm{~h}}{\mathrm{R}}& =1-\frac{\mathrm{g}_{1}}{\mathrm{~g}}\\ \Rightarrow 2 \mathrm{~h} & =\mathrm{R}\left(1-\frac{\mathrm{g}_{1}}{\mathrm{~g}}\right)\\ \Rightarrow \mathrm{h} & =\frac{\mathrm{R}}{2}\left(1-\frac{\mathrm{g}_{\mathrm{i}}}{\mathrm{g}}\right) \\ & =\frac{6.4 \times 10^{6} \mathrm{~m}}{2} \times\left(1-\frac{9.64 \mathrm{~m} \mathrm{~s}^{-2}}{9.8 \mathrm{~m} \mathrm{~s}^{-2}}\right) \\ & =52.24 \times 10^{3} \mathrm{~m} \end{aligned}[/math]
+অতএব, পাহাড়টির উচ্চতা ছিল [math]52.24 \times 10^{3} \mathrm{~m}[/math]
+।
+
+Explanation:
+ঘ হ্যাঁ—নির্ণয় করা যায়। ব্যাখ্যা: ধরা যাক পাচঁ লাইনের ঘড়ি মাটিতে সঠিক; শীর্ষে ঘড়ি ঘণ্টায় [math]30[/math] সেকেন্ড হারায় অর্থাৎ [math]\frac{T'}{T}=\frac{3600}{3570}=1.008403\Rightarrow \frac{\Delta T}{T}=0.008403[/math]. পেন্ডুলামের জন্য [math]T\propto g^{-1/2}[/math] হলে [math]\frac{\Delta g}{g}\approx-2\frac{\Delta T}{T}=-0.016806[/math], আর উচ্চতায় [math]g(h)\approx g\left(1-\frac{2h}{R}\right)[/math] থেকে [math]\frac{\Delta g}{g}\approx-2\frac{h}{R}</math], ফলে [math]h=0.008403R\approx0.008403\times6400\ \text{km}\approx54\ \text{km}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 413015)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলক ঘড়ি পাহাড়ের পাদদেশে ঠিক সময় দেয় কিন্তু পাহাড়ের চূড়ায় উঠালে [math]2[/math] ঘন্টায় [math]8[/math] সেকেন্ড সময়ের পার্থক্য দেখায়। পৃথিবীর ব্যাস [math]12800 \mathrm{~km}[/math] হলে [math]-[/math] [math]\text {(i) }[/math]পাহাড়ের উচ্চতা নির্ণয় কর।
+
+[math]\text {(ii) }[/math]পাহাড়ের চূড়ায় সঠিকভাবে কাজ করতে হলে দোলকের দৈর্ঘ্য কত [math]\%[/math] পরিবর্তন করতে হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]\text{(i)}[/math]
+ প্রশ্নমতে, পাহাড়ের উপর ঘড়ি [math]2[/math]
+ ঘন্টায় [math]8s[/math]
+ সেকেন্ড ধীরে চলে।সুতরা [math]24[/math]
+ ঘন্টায় ধীরে চলে [math]\dfrac{8 \times 24}{2}=96[/math]
+ সেকেন্ড।এখন পাহাড়ের পাদদেশে দোলনকাল [math]T[/math]
+ এবং পাহাড়ের চূড়ায় দোলনকাল [math]T^\prime[/math]
+ হলে [math]\dfrac{T^{\prime}}{T}=\dfrac{86400}{86400-96}=\dfrac{900}{899}[/math]
+পাহাড়ের উচ্চতা [math]h[/math]
+, পাদদেশে অভিকর্ষজ ত্বরণ [math]g[/math]
+ এবং চূড়ায় অভিকর্ষজ ত্বরণ [math]g^\prime[/math]
+ হলে [math]\dfrac{g^{\prime}}{g}=\left(\dfrac{R}{R+h}\right)^{2} \ldots \ldots \ldots(i)[/math]
+আমরা জানি, [math]\dfrac{T^{\prime}}{T}=\sqrt{\dfrac{g}{g^{\prime}}}=\sqrt{\left(\dfrac{R+h}{R}\right)^{2}}=1+\dfrac{h}{R} \Rightarrow \dfrac{h}{R}=\dfrac{T^{\prime}}{T}-1[/math]
+ [math]\Rightarrow \mathrm{h}=\mathrm{R} \times\left(\dfrac{\mathrm{T}^{\prime}}{\mathrm{T}}-1\right)=\dfrac{12800}{2} \times 10^{3} \times\left(\dfrac{900}{899}-1\right)=7119.02 \mathrm{~m} \text { (Ans.) }[/math]
+ [math]\text{(ii) }[/math]
+পাদদেশে দোলকের দৈর্ঘ্য [math]l[/math]
+পাহালে [math]l^\prime[/math]
+ করলে [math]T[/math]
+ দোলনকাল অপরিবর্তিত থাকবে।আমরা জানি, [math]T=2 \pi \sqrt{\dfrac{L}{g}}[/math]
+ সুতরাং [math]L \propto g[/math]
+সুতরাং [math]\dfrac{l^{\prime}}{l}=\dfrac{g^{\prime}}{g} \Rightarrow \dfrac{l-l^{\prime}}{1}=1-\dfrac{g^{\prime}}{g}=1-\dfrac{(899)^{2}}{(900)}[/math]
+ [ [math]\text{(i) }[/math]
+ হতে [math]\dfrac{g^{\prime}}{g}=\left(\dfrac{T}{T^{\prime}}\right)^{2}=\left(\dfrac{899}{900}\right)^{2}[/math]
+][math]=1-0.9977790123=2.220987 \times 10^{-3}=2.220987 \times 10^{-3} \times 100 \%=0.22209877 \%[/math]
+ [math]\therefore[/math]
+ দৈর্ঘ [math]0.222\%[/math]
+ হ্রাস করতে হবে।
+
+Explanation:
+ব্যাখ্যা: পেন্ডুলামের কাল (T) [math]T\propto 1/\sqrt{g}[/math] হওয়ায় উচ্চতায় গরুত্বশক্তি পরিবর্তনে কালের আপেক্ষিক পরিবর্তন [math]\Delta T/T\approx h/R[/math] হয়, ফলে ২ ঘন্টার মাঝে হারানো সময়ের অনুপাত [math]8/7200=1/900[/math] থেকে [math]h/R=1/900[/math]. তাই যদি পৃথিবীর ব্যাস [math]12800\ \text{km}[/math] হয় তাহলে [math]R=6400\ \text{km}[/math] এবং
+[math]h=R/900=6400/900\ \text{km}=64/9\ \text{km}\approx7.11\ \text{km}\;(≈7111\ \text{m}).[/math]
+পেন্ডুলাম আবার সঠিক করতে হলে দৈর্ঘ্যকে গুণাঙ্ক [math]g'/g\approx1-2h/R[/math] করে ঠিক করতে হবে, অর্থাৎ দৈর্ঘ্য কমাতে হবে ফ্র্যাকশনালি [math]2h/R=2/900=1/450[/math], যা শতাংশে ≈[math]0.222\%[/math] (কম)।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 413016)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2007-2008 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+সেকেন্ড দোলকের দৈর্ঘ্য [math]1\%[/math] বৃদ্ধি করলে, উক্ত দোলক দিনে কত সময় হারাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]428.79 \mathrm{~s}[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{T_{1}}{T_{2}}=\dfrac{86400-\mathrm{x}}{86400}=\sqrt{\dfrac{L_{1}}{L_{2}}} \Rightarrow \dfrac{86400-\mathrm{x}}{86400}=\sqrt{\dfrac{\mathrm{L}_{1}}{\dfrac{101 \mathrm{~L}_{1}}{100}}} \mid \mathrm{L}_{2}=\mathrm{L}_{1}+\dfrac{\mathrm{L}_{1}}{100} \therefore \mathrm{L}_{2}=\dfrac{101}{100} \mathrm{~L}_{1}[/math]
+ [math]\hspace{2.1 cm}\Rightarrow \dfrac{86400-\mathrm{x}}{86400}=0.995 \Rightarrow 86400-86400 \times 0.995=\mathrm{x} \quad \therefore \mathrm{x}=428.79 \mathrm{~s}[/math]
+
+
+Explanation:
+ব্যাখ্যা: দোলকের কালপর্ব [math]T\propto\sqrt{L}[/math] হওয়ায় দৈর্ঘ্য [math]1\%[/math] বাড়লে কালপর্বের আপেক্ষিক বৃদ্ধি হবে [math]\Delta T/T=\tfrac{1}{2}\Delta L/L=0.5\%[/math], অতএব ঘড়িটি ধীর হয়ে যাবে। দিনে হারানো সময় = [math]0.005\times 24\ \text{ঘন্টার}=0.12\ \text{ঘন্টার}=7\ \text{মিনিট}\ 12\ \text{সেকেন্ড}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 413017)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2009-2010, 2006-2007, 2004-2005 | Boards:  | Tags: Rajshahi University of Engineering & Technology, Rajshahi University of Engineering & Technology, Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলকের দৈর্ঘ্য রাজশাহীতে [math]95\ cm[/math] এবং চট্টগ্রামে [math]100\ cm[/math] কোন বস্তুর ওজ ন রাজশাহীতে [math]95\ gm – wt[/math] হলে, চট্টগ্রামে উহার ওজন কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]100 g m-w t[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{W_{R}}{W_{c}}=\dfrac{m{g_{R}}}{m_{g}}=\dfrac{g_{R}}{g_{c}}[/math]
+এখন, [math]2 \pi \sqrt{\dfrac{l_{\mathrm{R}}}{\mathrm{g}_{\mathrm{R}}}}=2 \pi \sqrt{\dfrac{l_{\mathrm{c}}}{\mathrm{g}_{\mathrm{c}}}} \quad \Rightarrow \dfrac{l_{\mathrm{R}}}{\mathrm{g}_{\mathrm{R}}}=\dfrac{l_{\mathrm{c}}}{\mathrm{g}_{\mathrm{c}}} \quad \Rightarrow \dfrac{\mathrm{g}_{\mathrm{R}}}{\mathrm{g}_{\mathrm{c}}}=\dfrac{l_{\mathrm{R}}}{l_{\mathrm{c}}}\\ \therefore \dfrac{\mathrm{W}_{\mathrm{R}}}{\mathrm{W}_{\mathrm{c}}}=\dfrac{l_{\mathrm{R}}}{l_{\mathrm{c}}}=\dfrac{95}{100} \Rightarrow \mathrm{W}_{\mathrm{c}}=\mathrm{W}_{\mathrm{R}} \times \dfrac{100}{95}=\dfrac{95 \times 100}{95}=100 \mathrm{gm}-\mathrm{wt} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: একই সেকেন্ড দোলকের জন্য [math]T=2\pi\sqrt{L/g}[/math] থেকে [math]L\propto g[/math] হয়। তাই ওজনও স্থানীয় মাধ্যাকর্ষণের অনুপাতে বদলায় এবং [math]W_C=W_R\times\frac{L_C}{L_R}=95\times\frac{100}{95}=100\ \text{gm–wt}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 413019)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2006-2007, 2005-2006 | Boards:  | Tags: Rajshahi University of Engineering & Technology, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+কোন সেকেন্ড দোলকের দৈর্ঘ্য [math]200 \%[/math] বাড়ালে এর দোলনকাল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]2 \sqrt{3} \sec[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{L}_{2}=\mathrm{L}_{1}+\mathrm{L}_{1} \text { এর } 200 \% \\ \quad =\mathrm{L}_{1}(1+2)=3 \mathrm{~L}_{1}[/math]
+ [math]\hspace{2.1 cm}[/math]
+ [math]\mathrm{T}_{1}=2=2 \pi \sqrt{\dfrac{\mathrm{L}_{1}}{\mathrm{~g}}}\dots \dots \dots \text{(i) };\ \mathrm{T}_{2}=2 \pi \sqrt{\dfrac{\mathrm{L}_{2}}{\mathrm{~g}}}\dots \dots \dots \text{(ii)}[/math]
+ [math]\hspace{2.1 cm}[/math]
+ [math]\text {(ii) } \div \text { (i) } \Rightarrow \dfrac{T_{2}}{T_{1}}=\sqrt{\dfrac{L_{2}}{L_{1}}} \Rightarrow T_{2}=2 \sqrt{\dfrac{3 L_{1}}{L_{1}}}=2 \sqrt{3} \sec \text { (Ans.) }[/math]
+
+
+Explanation:
+[math]T=2\pi\sqrt{L/g}[/math] সূত্র অনুযায়ী দোলনকাল লম্বার বর্গমূলের সাথে অনুপಾತী, তাই লম্বা [math]200\%[/math] বাড়ালে নতুন লম্বা হবে [math]L'=3L[/math] এবং নতুন দোলনকাল [math]T'=2\pi\sqrt{3L/g}=\sqrt{3}\,T[/math]. ফলত দোলনকাল মূলের [math]\sqrt{3}[/math] গুণ (প্রায় [math]1.732T[/math], ≈[math]73.2\%[/math] বৃদ্ধি) হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 413020)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2004-2005 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি পাহাড়ের পাদদেশে একটি সেকেন্ড দোলক সঠিক সময় দেয়। এটিকে পাহাড়ের সর্বোচ্চ শৃঙ্গে নিয়ে গেলে প্রতিদিন [math]2[/math] মিনিট ধীরে চলে। পাহাড়ের উচ্চতা নির্ণয় কর। (পৃথিবীর ব্যাসার্ধ [math]= 6400km[/math])
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]8.9 \mathrm{~km}[/math]
+)[math]\\[/math]
+Solution : [math]2 \mathrm{~min}=120 \mathrm{sec} \quad \therefore \mathrm{n}=120 \mathrm{sec}\\ \dfrac{T}{T^{\prime}}=\sqrt{\dfrac{g^{\prime}}{g}}=\sqrt{\dfrac{R^{2}}{(R+H)^{2}}}=\dfrac{R}{R+H}[/math]
+এখন, [math]\dfrac{\mathrm{R}}{\mathrm{R}+\mathrm{H}}=\left(\dfrac{86400}{86400-\mathrm{n}}\right)^{-1}[\therefore \mathrm{R}=6400 \mathrm{~km}] \quad \therefore \mathrm{H}=8.9 \mathrm{~km} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দোলকের কাল [math]T\propto\frac{1}{\sqrt{g}}[/math], সুতরাং [math]\frac{\Delta T}{T}=-\frac{1}{2}\frac{\Delta g}{g}[/math]. দিনের [math]2[/math] মিনিট ধীরে চলার মানে [math]\frac{\Delta T}{T}=\frac{2}{24\times60}=\frac{1}{720}[/math], ফলে [math]-\tfrac{1}{2}\frac{\Delta g}{g}=\tfrac{1}{720}\Rightarrow\frac{\Delta g}{g}=-\tfrac{1}{360}[/math]. উচ্চতায় গরুত্বাকর্ষের পরিবর্তন [math]\frac{\Delta g}{g}\approx-\frac{2h}{R}[/math] হওয়ায় [math]-\frac{2h}{R}=-\frac{1}{360}\Rightarrow h=\frac{R}{720}[/math]; [math]R=6400\ \text{km}[/math] হলে [math]h=\frac{6400}{720}\ \text{km}\approx8.89\ \text{km}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 413021)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2004-2005 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+তাপের ফলে একটি সেকেন্ড দোলকের দৈর্ঘ্য এমনভাবে বৃদ্ধি পেল যে দোলনকাল পরিবর্তিত হয়ে [math]2. 041\ sec[/math] হলো। পরিবর্তিত অবস্থায় দোলকটি ঘন্টায় কত ধীরে যাবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]72.32\ \mathrm{sec}[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]T_{1}=2 \mathrm{sec}[/math]
+ এবং [math]T_{2}=\dfrac{2 \times 3600}{3600-n}[/math]
+ [math]\therefore \dfrac{T_{1}}{T_{2}}=\dfrac{3600-n}{3600}=\dfrac{2}{2.041} \Rightarrow 3600-n=\dfrac{2 \times 3600}{2.041} \Rightarrow \mathrm{n}=72.32 \mathrm{sec}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি সেকেন্ড দোলকের প্রাথমিক দোলনকাল [math]T_0=2\ s[/math], পরিবর্তিত হলে [math]T=2.041\ s[/math] হয়, ফলে ঘড়ি প্রতি দোলনে কম সময় গণ্য করে; এক ঘন্টার বাস্তব সময় [math]3600\ s[/math] চলাকালে ঘড়ি দেখাবে [math]\dfrac{3600}{T}\times T_0[/math] সেকেন্ড। তাই ধরা পড়া সময়ের ক্ষতি হলো
+[math]3600-3600\frac{T_0}{T}=3600\frac{T-T_0}{T}=3600\frac{0.041}{2.041}\approx72.3\ s,[/math]
+অর্থাৎ প্রায় [math]1\ \text{মিনিট}\ 12.3\ \text{সেকেন্ড}[/math] প্রতি ঘন্টায় ধীরে যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 413022)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+শীতের ফলে একটি সেকেন্ড দোলকের দৈর্ঘ্য হ্রাস পেল। এর ফলে দোলকটি দিনে [math]200s[/math] ফাষ্ট হয় । পরিবর্তিত দোলন কাল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1.995\ \mathrm{sec}[/math]
+)[math]\\[/math]
+Solution : এখানে, [math]T_{0}=2 \mathrm{sec}[/math]
+আমরা জানি, [math]\dfrac{T_{0}}{T}=\sqrt{\dfrac{\ell_{0}}{\ell}}=\dfrac{86400}{86400-200}\\ \Rightarrow \dfrac{T_{0}}{T}=\dfrac{86400}{86200} \Rightarrow T=\dfrac{86200}{86400} \times T_{0}=\dfrac{86200}{86400} \times 2=1.995 \text { sec. (Ans.) }[/math]
+
+
+Explanation:
+ক্লকটি দিনভর বাস্তবে [math]86400\ \text{s}[/math] সময় পার হওয়া সত্ত্বেও [math]86400+200=86600[/math] সেকেন্ড গুনে দেখায়, তাই প্রতিটি টিকের সময় [math]T[/math] হবে [math]\dfrac{86400}{86600}[/math] সেকেন্ড। ফলে পরিবর্তিত দোলনকাল [math]T=\dfrac{86400}{86600}\approx0.99769\ \text{s}[/math] (প্রায় [math]0.9977\ \text{s}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 413024)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলকের দৈর্ঘ্য 1% হ্রাস করা হলে দোলকটি একদিনে মোট কতগুলো পূর্ণ দোলন লা ভ করবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আদি দৈর্ঘ্য,[math]L_1=L[/math]
+২ সেকেন্ড পর্যায়কালে ২৪ ঘন্টায় পূর্ণ দোল দেয় [math]=86400/2=43200[/math]
+1% হ্রাস করলে দৈর্ঘ্য হবে, [math]L_2=L−(1/100)L=0.99L[/math]
+সুতরাং পর্যায়কাল,[math]T_2/T_1=√(L_2/L_1)[/math]
+ [math]⟹T_2=T_1×√(L_2/L_1)[/math]
+ [math]⟹2×√(0.99L/L)= 1.9899[/math]
+২.০১ পর্যায়কালে দোলনসংখ্যা, [math]86400/1.9899=43417.63[/math]
+বৃদ্ধি পায় [math]=(43417–43200)=217[/math]
+ টি( Answer : 217 টি )
+
+Explanation:
+দোলকের সময়কাল [math]T=2\pi\sqrt{L/g}[/math} হলে [math]T\propto\sqrt{L}[/math], তাই দৈর্ঘ্য 1% হ্রাস করলে নতুন সময়কাল হবে [math]T'=\sqrt{0.99}\ \text{s}\approx0.994987\ \text{s}[/math]. এক দিনে মোট সেকেন্ডের সংখ্যা [math]86400[/math], ফলে পূর্ণ দোলনের সংখ্যা [math]\dfrac{86400}{\sqrt{0.99}}\approx86835[/math] (প্রায় 86,835)।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 413025)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সেকেন্ড দোলকের দৈর্ঘ্য হ্রাস পেল। এর ফলে দোলনকাল এমন হল যে, দোলকটি দিনে 10 s ec দ্রুত চলে। দোলকটির দোলনকাল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.999 \mathrm{\ sec}[/math]
+ )[math]\\[/math]
+Solution :এখানে, দোলকটি ফাস্ট যায় = 10 secআমরা জানি, সেকেন্ড দোলকের দোলনকাল = 2 secঅর্থাৎ, 2 sec এ 2 বার বীট দেয়[math]\Rightarrow[/math]
+ 1 sec 1 বার বীট দেয়[math]\Rightarrow[/math]
+ 24 hr এ 86400 বার বীট দেয়মনে করি, পরিবর্তিত দোলনকাল = T secযেহেতু 10 sec ফাস্ট যায় কাজেই (86400 – 10) .= 86390 sec সময়ে 86400 বার বীট দেয়[math]\therefore[/math]
+ 1 বার বাট দেয় [math]=\frac{86390}{86400}=0.9998 \mathrm{\ sec}[/math]
+ এ[math]\therefore[/math]
+ দোলনকাল, [math]\mathrm{T}=0.9998 \times 2=1.999 \sec \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সেকেন্ড দোলকের মূল দোলনকাল [math]T_0=2\ \text{s}[/math] এবং দিনে 10 s দ্রুত চলা মানে একই বাস্তব সময়ে ক্লকটি [math]1+\frac{10}{86400}[/math] গুণ বেশি কাঁটা দেয়, তাই [math]\frac{T_0}{T}=1+\frac{10}{86400}[/math]. ফলে
+
+[math]T=\frac{T_0}{1+\frac{10}{86400}}=\frac{2}{1+\frac{10}{86400}}=\frac{17280}{8641}\ \text{s}\approx 1.99977\ \text{s}.
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 413026)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অভিকর্ষজ ত্বরণের মান বিষুবীয় অঞ্চলে [math]9.78039 \mathrm{~ms}^{-2}[/math] এবং মেরু অঞ্চলে [math]9. 83217 \mathrm{~ms}^{-2}[/math] । বিষুবীয় অঞ্চলের একটি সেকেন্ড দোলক মেরু অঞ্চলে নিয়ে গেলে এর দোলনকাল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.9947 \mathrm{~s}[/math]
+)[math]\\[/math]
+Solution :এখানে,বিষুবীয় অঞ্চলে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{1}=9.78039 \mathrm{~ms}^{-2}[/math]
+মেরু অঞ্চলে অভিকর্ষজ ত্বরণ, [math]\mathrm{g}_{2}=9.83217 \mathrm{~ms}^{-2}[/math]
+বিষুবীয় অঞ্চলে দোলনকাল, [math]T_{1}=2 s[/math]
+মেরু অঞ্চলে দোলনকাল, [math]T_{2}=?[/math]
+সরল দোলকের ক্ষেত্রে,আমরা জানি,[math]T \propto \frac{1}{\sqrt{g}}[/math]
+ যখন L ধ্রুবক[math]\therefore \frac{T_{2}}{T_{1}}=\sqrt{\frac{g_{1}}{g_{2}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]T_{2}=\left(\sqrt{\frac{g_{1}}{g_{2}}}\right) \times T_{1}[/math]
+ [math]=\left(\sqrt{\frac{9.78039 \mathrm{~ms}^{-2}}{9.83217 \mathrm{~ms}^{-2}}}\right) \times 2 \mathrm{~s}=1.9947 \mathrm{~s} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সেকেন্ড দোলকের সময় [math]T=2\pi\sqrt{L/g}[/math]। বিষুবীয় অঞ্চলে [math]T_1=2\,\text{s}[/math] হলে [math]L=g_1\left(\dfrac{T_1}{2\pi}\right)^2[/math], এবং মেরুতে [math]T_2=2\pi\sqrt{L/g_2}=2\sqrt{g_1/g_2}[/math]। সংখ্যায় বসালে [math]T_2=2\sqrt{9.78039/9.83217}\approx1.99473\ \text{s}[/math] (প্রায় [math]1.995\ \text{s}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 413027)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো একটি সেকেন্ড দোলকের দৈর্ঘ্য 2.5 গুণ বাড়ালে এর দোলনকাল কত হবে বের করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 3.16 s )[math]\\[/math]
+Solution :এখানে,দোলকের আদি দৈর্ঘ্য, [math]\mathrm{L}_{1}=\mathrm{L}[/math]
+পরিবর্তিত দৈর্ঘ্য, [math]\mathrm{L}_{2}=2.5 \mathrm{~L}[/math]
+দোলনকাল, [math]\mathrm{T}_{1}=2 \mathrm{~s}[/math]
+দোলনকাল, [math]\mathrm{T}_{2}=\text { ? }[/math]
+আমরা জানি,[math]T_{1}=2 \pi \sqrt{\frac{\mathrm{L}_{1}}{\mathrm{~g}}}[/math]
+ .......(i)[math]\mathrm{T}_{2}=2 \pi \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~g}}}[/math]
+ ........(ii)(ii) কে (i) দ্বারা ভাগ করে পাই,[math]\frac{T_{2}}{T_{1}}=\sqrt{\frac{L_{2}}{L_{1}}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{T}_{2}=\mathrm{T}_{1} \times \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~L}_{1}}}=2 \times \sqrt{\frac{2.5 \mathrm{~L}}{\mathrm{~L}}}=3.16 \mathrm{~s} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: দোলকের পাল [math]T=2\pi\sqrt{L/g}[/math] হওয়ায় [math]T\propto\sqrt{L}[/math]। তাই দৈর্ঘ্য 2.5 গুণ বাড়লে [math]T'=T\sqrt{2.5}=1\sqrt{2.5}=\sqrt{2.5}\approx1.58\ \text{সেকেন্ড}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 413028)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কোনো একটি সেকেন্ড দোলকের দৈর্ঘ্য 225% বৃদ্ধি করলে এর দোলনকাল কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 3.6 sec)[math]\\[/math]
+Solution :এখানে,সেকেন্ড দোলকের দোলনকাল, [math]\mathrm{T}_{1}=2 \mathrm{sec}[/math]
+মনে করি, ১ম ক্ষেত্রে দোলকের দৈর্ঘ্য [math]=\mathrm{L}_{1}[/math]
+২য় ক্ষেত্রে দোলকের দৈর্ঘ্য, [math]\mathrm{L}_{2}=\mathrm{L}_{1}+\mathrm{L}_{1} \times \frac{225}{100}=3.25 \mathrm{~L}_{1}[/math]
+দ্বিতীয় ক্ষেত্রে দোলনকাল, [math]\mathrm{T}_{2}=?[/math]
+আমরা জানি,[math]\mathrm{T}_{1}=2 \pi \sqrt{\frac{\mathrm{L}_{1}}{\mathrm{~g}}}[/math]
+ .....(1)[math]\mathrm{T}_{2}=2 \pi \sqrt{\frac{\mathrm{L}_{2}}{\mathrm{~g}}}[/math]
+ .......(2)(2) নং সমীকরণকে (1) নং সমীকরণ দ্বারা ভাগ করে পাই,[math]\frac{T_{2}}{T_{1}}=\sqrt{\frac{L_{2}}{L_{1}}}[/math]
+ [math]T_{2}=2 \times \sqrt{\frac{3.25 L_{1}}{L_{1}}}=3.6 \mathrm{sec} \text { (Ans.) }[/math]
+
+
+Explanation:
+দোলনের কাল দৈর্ঘ্যের বর্গমূলের সাথে অনুপাতিক, তাই [math]T\propto\sqrt{L}[/math]. দৈর্ঘ্য [math]225\%[/math] বাড়লে [math]L_{\text{new}}=3.25L[/math], অতএব [math]T_{\text{new}}=T\sqrt{3.25}=T\frac{\sqrt{13}}{2}\approx1.803T[/math]।
+
+Sub-Questions:
+

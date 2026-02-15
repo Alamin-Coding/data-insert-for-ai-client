@@ -1,0 +1,416 @@
+================================================================================
+Question #1 (ID: 411129)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left|\begin{array}{ccc}2 x-S & 2 x & 2 x \\2 y & 2 y-S & 2 y \\2 z & 2 z & 2 z-S\end{array}\right|,[/math] [math]B=\left|\begin{array}{lll}a_{1} & b_{1} & c_{1} \\a_{2} & b_{2} & c_{2} \\a_{3} & b_{3} & c_{3}\end{array}\right|[/math]
+
+Options:
+ক. [math]2\left|\begin{array}{ll}1 & x \\2 & 3\end{array}\right|=x^{2}[/math] হলে, x এর মান নির্ণয় কর।
+খ. [math]B[/math] নির্ণায়কের ২য় সারির উপাদানগুলোর সহগুণক যথাক্রমে [math]\mathrm{A}_{2}[/math], [math]B_{2}[/math] এবং [math]C_{2}[/math] হলে, [math]a_{3} A_{2}+b_{3} B_{2}+{c}_{3} C_{2}[/math] এর মান নির্ণয় কর।
+গ. [math]x+y+z=S[/math] হলে, দেখাও যে, [math]\mathrm{P}=\mathrm{S}^{3}[/math]
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]2\left|\begin{array}{ll}1 & x \\2 & 3\end{array}\right|=x^{2}[/math]
+ [math]\Rightarrow 2(3-2 x)=x^{2}[/math]
+ [math]\Rightarrow 6-4 x=x^{2}[/math]
+ [math]\Rightarrow x^{2}+4 x-6=0[/math]
+ [math]\therefore x =\frac{-4 \pm \sqrt{4^{2}-4.1(-6)}}{2}[/math]
+ [math]=\frac{-4+\sqrt{40}}{2}[/math]
+ [math]=\frac{-4 \pm 2 \sqrt{10}}{2}=-2 \pm \sqrt{10} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খউদ্দীপক হতে পাই, [math]B=\left|\begin{array}{lll}a_{1} & b_{1} & c_{1} \\a_{2} & b_{2} & c_{2} \\a_{3} & b_{3} & c_{3}\end{array}\right|[/math]
+দেওয়া আছে, ২য় সারির উপাদানগুলোর সহগুণক যথাক্রমে[math]\mathrm{A}_{2}, \mathrm{~B}_{2}[/math]
+ ও [math]\mathrm{C}_{2} .[/math]
+ [math]\therefore A_{2}=(-1)^{2+1} \cdot[/math]
+ [math]\left|\begin{array}{ll}b_{1} & c_{1} \\b_{3} & c_{3}\end{array}\right|[/math]
+ [math]=-\left(b_{1} c_{3}-b_{3} c_{1}\right)[/math]
+ [math]=b_{3} c_{1}-b_{1} c_{3}[/math]
+ [math]\therefore B_{2}=(-1)^{2+2} \cdot[/math]
+ [math]\left|\begin{array}{ll}a_{1} & c_{1} \\a_{3} & c_{3}\end{array}\right|[/math]
+ [math]=a_{1} c_{3}-a_{3} c_{1}[/math]
+এবং [math]C_{2}=(-1)^{2+3} \cdot\left|\begin{array}{ll}a_{1} & b_{1} \\a_{3} & b_{3}\end{array}\right|[/math]
+ [math]=-\left(a_{1} b_{3}-a_{3} b_{1}\right)[/math]
+ [math]=a_{3} b_{1}-a_{1} b_{3}[/math]
+এখন, [math]a_{3} A_{2}+b_{3} B_{2}+c_{3} C_{2}[/math]
+ [math]\Rightarrow a_{3}\left(b_{3} c_{1}-b_{1} c_{3}\right)[/math]
+ [math]+b_{3}\left(a_{1} c_{3}-a_{3} c_{1}\right)[/math]
+ [math]+c_{3}\left(a_{3} b_{1}-a_{1} b_{3}\right)[/math]
+ [math]\Rightarrow a_{3} b_{3} c_{1}-a_{3} b_{1} c_{3}[/math]
+ [math]+a_{1} b_{3} c_{3}-a_{3} b_{3} c_{1}[/math]
+ [math]+a_{3} b_{1} c_{3}-a_{1} b_{3} c_{3}[/math]
+ [math]\Rightarrow 0 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]S=x+y+z[/math]
+উদ্দীপক হতে পাই,[math]P=\left|\begin{array}{ccc}2 x-S & 2 x & 2 x \\2 y & 2 y-S & 2 y \\2 z & 2 z & 2 z-S\end{array}\right|[/math]
+ [math]\Rightarrow \left\lvert\, \begin{array}{c}2 x-x-y-z \\2 y \\2 z\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{c}2 x \\2 y-x-y-z \\2 z\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ccc}2x \\2y \\ 2 z-x-y-z\end{array}\right|[/math]
+ [math]\Rightarrow \left\lvert\, \begin{array}{cc}x-y-z & 2 x \\2 y & -x+y-z \\2 z & 2 z\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ccc}2x \\2y \\ -x-y+z\end{array}\right|[/math]
+ [math]\Rightarrow \left\lvert\, \begin{array}{cc}x+y+z & x+y+z \\2 y & -x+y-z \\2 z & 2 z\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ccc}x+y+z \\2y \\ -x-y+z\end{array}\right|[/math]
+ [math]\left[r_{1}^{\prime}=r_{1}+r_{2}+r_{3}\right][/math]
+ [math]\Rightarrow(x+y+z)[/math]
+ [math]\left\lvert\, \begin{array}{cc}1 & 1 \\2 y & -x+y-z \\2 z & 2 z\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ccc}1 \\2y \\ -x-y+z\end{array}\right|[/math]
+ [math]\Rightarrow(x+y+z)[/math]
+ [math]\left\lvert\, \begin{array}{cc}0 & 0 \\x+y+z & -(x+y+z) \\0 & x+y+z\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ccc}1\\2y \\ -x-y+z\end{array}\right|[/math]
+ [math]\left[c_{1}^{\prime}=c_{1}-c_{2}\right.[/math]
+ এবং [math]\left.c_{2}^{\prime}=c_{2}-c_{3}\right][/math]
+ [math]\Rightarrow (x+y+z)[/math]
+ [math]\left|\begin{array}{cc}(x+y+z) & -(x+y+z) \\0 & (x+y+z)\end{array}\right|[/math]
+ [math]\Rightarrow (x+y+z)\left\{(x+y+z)^{2}-0\right\}=(x+y+z)^{3}[/math]
+ [math]=\mathbf{S}^{3}[/math]
+ [math]\therefore P=S^{3}[/math]
+(দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা:
+
+ক যে ডিটারমাইন্যান্টটি, [math]\left|\begin{array}{cc}1 & x\\[4pt]2 & 3\end{array}\right|=3-2x[/math], তাই [math]2(3-2x)=x^2[/math] হয়ে [math]x^2+4x-6=0[/math]; সুতরাং [math]x=[-4\pm\sqrt{40}]/2=-2\pm\sqrt{10}[/math]।
+
+খ [math]A_2,B_2,C_2[/math] যদি ২য় সারির কোফ্যাক্টর হয়, তাহলে [math]a_3A_2+b_3B_2+c_3C_2[/math] হল সেই ডিটারমাইন্যান্ট যেখানে ২য় সারির স্থলে ৩য় সারির উপাদান দিয়ে বিস্তৃতি করা; কিন্তু একই সারা দুইবার থাকলে ডিটারমাইন্যান্ট শূন্য, ফলে মান = [math]0[/math]।
+
+গ মেট্রিক্সটি লেখা যায় [math]M=2\,\mathbf v\mathbf u^{T}-S I[/math] যেখানে [math]\mathbf v=(x,y,z)^T,\ \mathbf u=(1,1,1)^T[/math]; আর [math]\det(I+\alpha\mathbf v\mathbf u^{T})=1+\alpha\mathbf u^{T}\mathbf v[/math] বিধান ব্যবহার করে অনুমান করলে
+[math]\det(M)=(-S)^3\Big(1-\tfrac{2}{S}(x+y+z)\Big)[/math] এবং যদি [math]x+y+z=S[/math] হয় তবে তা থেকে [math]\det(M)=S^3[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 411130)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]S=\left(\begin{array}{rr}-1 & 1 \\2 & -3\end{array}\right),[/math] [math]T=\left(\begin{array}{rr}3 & -5 \\-1 & 2\end{array}\right)[/math] [math]U=\left(\begin{array}{cc}a & b \\2 a^{3}+1 & 2 b^{3}+1 \\a^{2} & b^{2}\end{array}\right.[/math] [math]\quad[/math] [math]\left.\begin{array}{c}c \\2 c^{3}+1 \\c^{2}\end{array}\right)[/math]
+
+Options:
+ক. বিস্তার না করে প্রমাণ কর [math]\left|\begin{array}{ccc}a & -x & a+x \\b & -y & b+y \\c & -z & c+z\end{array}\right|[/math] [math]=0[/math]
+খ. দেখাও যে, [math](S T)^{-1}-T^{-1} S^{-1}[/math] একটি শূন্য ম্যাট্রিক্স ।
+গ. প্রমাণ কর যে, [math]|U|=-(2 a b c+1)[/math] [math](a-b)(b-c)(c-a) .[/math]
+
+
+Correct Answer: 
+
+Solution:
+কপ্রদত্ত নির্ণায়ক[math]=\left|\begin{array}{lll}a & -x & a+x \\b & -y & b+y \\c & -z & c+z\end{array}\right|[/math]
+ [math]=\left|\begin{array}{lll}a & -x & a \\b & -y & b \\c & -z & c\end{array}\right|[/math]
+ [math]\left[c_{3}{ }^{\prime}=c_{3}+c_{2}\right][/math]
+ [math]=0[\therefore[/math]
+ নির্ণায়কটির ১ম ও ৩য় কলামের উপাদানসমূহ একই ][math]\therefore\left|\begin{array}{rrr}a & -x & a+x \\b & -y & b+y \\c & -z & c+z\end{array}\right|[/math]
+ [math]=0[/math]
+(প্রমাণিত)[math]\\[/math]
+ খউদ্দীপক হতে পাই, [math]S=\left[\begin{array}{rr}-1 & 1 \\2 & -3\end{array}\right][/math]
+ এবং [math]T=\left[\begin{array}{rr}3 & -5 \\-1 & 2\end{array}\right][/math]
+ [math]\therefore|S|=\left|\begin{array}{rr}-1 & 1 \\2 & -3\end{array}\right|=3-2=1 
+eq 0[/math]
+ [math]\therefore \operatorname{adj} S=\left[\begin{array}{rr}-3 & -2 \\-1 & -1\end{array}\right]^{1}[/math]
+ [math]=\left[\begin{array}{rr}-3 & -1 \\-2 & -1\end{array}\right][/math]
+ [math]\therefore S^{-1}=\frac{\operatorname{adjS}}{|S|}[/math]
+ [math]=\frac{\left[\begin{array}{rr}-3 & -1 \\-2 & -1\end{array}\right]}{1}[/math]
+ [math]=\left[\begin{array}{rr}-3 & -1 \\-2 & -1\end{array}\right][/math]
+ [math]\therefore|T|=\left|\begin{array}{rr}3 & -5 \\-1 & 2\end{array}\right|[/math]
+ [math]=6-5=1 
+eq 0[/math]
+ [math]\therefore \operatorname{adj} T=\left[\begin{array}{ll}2 & 1 \\5 & 3\end{array}\right]^{1}[/math]
+ [math]=\left[\begin{array}{ll}2 & 5 \\1 & 3\end{array}\right][/math]
+ [math]\therefore T^{-1}=\frac{\operatorname{adjT}}{|T|}=\frac{\left[\begin{array}{ll}2 & 5 \\1 & 3\end{array}\right]}{1}[/math]
+ [math]=\left[\begin{array}{ll}2 & 5 \\1 & 3\end{array}\right][/math]
+আবার, [math]S T=\left[\begin{array}{rr}-1 & 1 \\2 & -3\end{array}\right] \times\left[\begin{array}{rr}3 & -5 \\-1 & 2\end{array}\right][/math]
+ [math]\Rightarrow \left[\begin{array}{rr}-3-1 & 5+2 \\6+3 & -10-6\end{array}\right][/math]
+ [math]=\left[\begin{array}{rr}-4 & 7 \\9 & -16\end{array}\right][/math]
+ [math]\therefore|\mathrm{ST}|[/math]
+ [math]=\left[\begin{array}{rr}-4 & 7 \\9 & -16\end{array} \mid=64-63=1 
+eq 0\right.[/math]
+ [math]\therefore \operatorname{adj}(\mathrm{ST})=\left[\begin{array}{rr}-16 & -9 \\-7 & -4\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rr}-16 & -7 \\-9 & -4\end{array}\right][/math]
+ [math]\therefore(\mathrm{ST})^{-1} \frac{\operatorname{adj}(\mathrm{ST})}{|\mathrm{ST}|}[/math]
+ [math]=\frac{\left[\begin{array}{ll}-16 & -7 \\-9 & -4\end{array}\right]}{1}[/math]
+ [math]=\left[\begin{array}{rr}-16 & -7 \\-9 & -4\end{array}\right][/math]
+আবার, [math]T^{-1} \cdot S^{-1}=\left[\begin{array}{ll}2 & 5 \\1 & 3\end{array}\right][/math]
+ [math]\times\left[\begin{array}{cc}-3 & -1 \\-2 & -1\end{array}\right][/math]
+ [math]\Rightarrow \left[\begin{array}{rr}-6-10 & -2-5 \\-3-6 & -1-3\end{array}\right][/math]
+ [math]=\left[\begin{array}{rr}-16 & -7 \\-9 & -4\end{array}\right][/math]
+ [math]\Rightarrow (\mathrm{ST})^{-1} \\\therefore(\mathrm{ST})^{-1}-\mathrm{T}^{-1} \cdot \mathrm{S}^{-1}[/math]
+ [math]=\left[\begin{array}{rr}-16 & -7 \\-9 & -4\end{array}\right]-[/math]
+ [math]\left[\begin{array}{rr}-16 & -7 \\-9 & -4\end{array}\right][/math]
+ [math]\Rightarrow 0[/math]
+ [math]\therefore(\mathrm{ST})^{-1}-\mathrm{T}^{-1} \cdot \mathrm{S}^{-1}=0[/math]
+(দেখানো হলো)গবামপক্ষ , [math]=|U|=[/math]
+ [math]=\left\lvert\, \begin{array}{cc}a & b \\2 a^{3}+1 & 2 b^{3}+1 \\a^{2} & b^{2}\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ccc}c \\2 c^{3}+1 \\ c^{2}\end{array}\right|[/math]
+ [math]\Rightarrow \left|\begin{array}{ccc}a & 2 a^{3}+1 & a^{2} \\b & 2 b^{3}+1 & b^{2} \\c & 2 c^{3}+1 & c^{2}\end{array}\right|[/math]
+ সারিগুলোকে কলাম বরাবর স্থাপন করে ][math]\Rightarrow \left|\begin{array}{ccc}a & 2 a^{3} & a^{2} \\b & 2 b^{3} & b^{2} \\c & 2 c^{3} & c^{2}\end{array}\right|[/math]
+ [math]+\left|\begin{array}{lll}a & 1 & a^{2} \\b & 1 & b^{2} \\c & 1 & c^{2}\end{array}\right|[/math]
+ [math]\Rightarrow a b c[/math]
+ [math]\left|\begin{array}{ccc}1 & 2 a^{2} & a \\1 & 2 b^{2} & b \\1 & 2 c^{2} & c\end{array}\right|[/math]
+ [math]-\left|\begin{array}{ccc}1 & a & a^{2} \\1 & b & b^{2} \\1 & c & c^{2}\end{array}\right|[/math]
+ [math]\Rightarrow 2 a b c[/math]
+ [math]\left|\begin{array}{ccc}1 & a^{2} & a \\1 & b^{2} & b \\1 & c^{2} & c\end{array}\right|[/math]
+ [math]-\left|\begin{array}{ccc}1 & a & a^{2} \\1 & b & b^{2} \\1 & c & c^{2}\end{array}\right|[/math]
+ [math]\Rightarrow -2 a b c[/math]
+ [math]\left|\begin{array}{ccc}1 & a & a^{2} \\1 & b & b^{2} \\1 & c & c^{2}\end{array}\right|[/math]
+ [math]-\left|\begin{array}{ccc}1 & a & a^{2} \\1 & b & b^{2} \\1 & c & c^{2}\end{array}\right|[/math]
+ [math]\Rightarrow -(2 a b c+1)\left|\begin{array}{ccc}1 & a & a^{2} \\1 & b & b^{2} \\1 & c & c^{2}\end{array}\right|[/math]
+ [math]\Rightarrow -(2 a b c+1)[/math]
+ [math]\left|\begin{array}{ccc}0 & a-b & a^{2}-b^{2} \\0 & b-c & b^{2}-c^{2} \\1 & c & c^{2}\end{array}\right|[/math]
+ [math]\left[r_{1}^{\prime}=r_{1}-r_{2}\right.[/math]
+ এবং [math]r_{2}^{\prime}=r_{2}-r_{3}[/math]
+ প্রয়োগ করে ][math]\Rightarrow -(2 a b c+1)\left|\begin{array}{ll}a-b & (a+b)(a-b) \\b-c & (b+c)(b-c)\end{array}\right|[/math]
+ [math]\Rightarrow -(2 a b c+1)(a-b)(b-c)[/math]
+ [math]\left|\begin{array}{cc}1 & a+b \\1 & b+c\end{array}\right|[/math]
+ [math]\Rightarrow -(2 a b c+1)(a-b)(b-c)(b+c-a-b)[/math]
+ [math]\Rightarrow -(2 a b c+1)(a-b)[/math]
+ [math](b-c)(c-a)=[/math]
+ ডানপক্ষ[math]\therefore|U|=-(2 a b c+1)[/math]
+ [math](a-b)(b-c)(c-a)[/math]
+(প্রমাণিত)
+
+Explanation:
+ক কারণ তৃতীয় কোলামটি হলো প্রথম কোলাম minus দ্বিতীয় কোলাম: [math](a+x,b+y,c+z)^{T}=(a,b,c)^{T}-(-x,-y,-z)^{T}[/math], তাই কলামগুলো লিনিয়ারভাবে নির্ভরশীল এবং ডিটারমিন্যান্ট শূন্য। 
+
+খ কারণ সাধারণভাবে [math](AB)^{-1}=B^{-1}A^{-1}[/math] হয় (যদি উভয় ম্যাট্রিক্স উল্টোপাল্টা থাকে), সুতরাং [math](ST)^{-1}=T^{-1}S^{-1}[/math] এবং তাদের বিভাজ্য শূন্য ম্যাট্রিক্স। 
+
+গ [math]|U|[/math] একটি বিকল্প (alternating) পলিনোমিয়াল হিসেবে [math](a-b)(b-c)(c-a)[/math] দ্বারা বিভাজ্য; ফলে [math]|U|=(a-b)(b-c)(c-a)\,P(a,b,c)[/math] যেখানে [math]P[/math] একটি সমসিমিত ঘনস্থর পলিনোম। যদি আমরা [math]c=0[/math] ধরি, তখন ডিটারমিন্যান্ট হিসাব করলে [math]|U|=ab(a-b)[/math] পাওয়া যায়, আর [math]-(2abc+1)(a-b)(b-c)(c-a)[/math]–কে [math]c=0[/math] বসালে একই মান পাওয়া যায়; সুতরাং সব ক্ষেত্রে [math]|U|=-(2abc+1)(a-b)(b-c)(c-a)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 411131)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দৃশ্যকল্প : [math]\text { (i) } A=\left[\begin{array}{ccc}3 & -4 & 2 \\-2 & 1 & 0 \\-1 & -1 & 1\end{array}\right][/math] [math]\text { (ii) } B=\left[\begin{array}{lll}1 & 2 & -2 \\2 & 5 & -4 \\3 & 7 & -5\end{array}\right][/math] [math]\text { (iii) }\left[\begin{array}{ccc}1 & -2 & 0 \\4 & 5 & -3\end{array}\right][/math]
+
+Options:
+ক. দৃশ্যকল্প থেকে [math]\mathrm {A^{T}-B^{T}}[/math] নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]\mathrm {\mathrm{C}(\mathrm{A}+\mathrm{B})=\mathrm{CA}+\mathrm{CB}}[/math]
+গ. প্রমাণ কর যে, [math](\mathrm{AB})^{\mathrm{T}}=\mathrm{B}^{\mathrm{T}} \mathrm{A}^{\mathrm{T}}[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]A=\left[\begin{array}{rrr}3 & -4 & 2 \\-2 & 1 & 0 \\-1 & -1 & 1\end{array}\right][/math]
+ [math]\therefore A^{T}=\left[\begin{array}{rrr}3 & -2 & -1 \\-4 & 1 & -1 \\2 & 0 & 1\end{array}\right][/math]
+ [math]\mathrm{B}=\left[\begin{array}{rrr}1 & 2 & -2 \\2 & 5 & -4 \\3 & 7 & -5\end{array}\right][/math]
+ [math]\therefore \mathrm{B}^{\mathrm{T}}=\left[\begin{array}{rrr}1 & 2 & 3 \\2 & 5 & 7 \\-2 & -4 & -5\end{array}\right][/math]
+ [math]\therefore A^{T}-B^{T}=\left[\begin{array}{rrr}3 & -2 & -1 \\-4 & 1 & -1 \\2 & 0 & 1\end{array}\right][/math]
+ [math]-\left[\begin{array}{rrr}1 & 2 & 3 \\2 & 5 & 7 \\-2 & -4 & -5\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}2 & -4 & -4 \\-6 & -4 & -8 \\4 & 4 & 6\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]A+B=\left[\begin{array}{rrr}3 & -4 & 2 \\-2 & 1 & 0 \\-1 & -1 & 1\end{array}\right][/math]
+ [math]+\left[\begin{array}{rrr}1 & 2 & -2 \\2 & 5 & -4 \\3 & 7 & -5\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}4 & -2 & 0 \\0 & 6 & -4 \\2 & 6 & -4\end{array}\right][/math]
+ [math]\therefore C(A+B)=\left[\begin{array}{rrr}1 & -2 & 0 \\4 & 5 & -3\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{rrr}4 & -2 & 0 \\0 & 6 & -4 \\2 & 6 & -4\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}4 & -14 & 8 \\10 & 4 & -8\end{array}\right][/math]
+ [math]C A+C B[/math]
+ [math]=\left[\begin{array}{ccc}1 & -2 & 0 \\4 & 5 & -3\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{rrr}3 & -4 & 2 \\-2 & 1 & 0 \\-1 & -1 & 1\end{array}\right][/math]
+ [math]+\left[\begin{array}{ccc}1 & -2 & 0 \\4 & 5 & -3\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{ccc}1 & 2 & -2 \\2 & 5 & -4 \\3 & 7 & -5\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}7 & -6 & 2 \\5 & -8 & 5\end{array}\right][/math]
+ [math]+\left[\begin{array}{ccc}-3 & -8 & 6 \\5 & 12 & -13\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}4 & -14 & 8 \\10 & 4 & -8\end{array}\right][/math]
+ [math]\therefore \mathrm{C}(\mathrm{A}+\mathrm{B})=\mathrm{CA}+\mathrm{CB}[/math]
+(প্রমাণিত)[math]\\[/math]
+ গ [math]\mathrm{AB}=\left[\begin{array}{rrr}3 & -4 & 2 \\-2 & 1 & 0 \\-1 & -1 & 1\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{lll}1 & 2 & -2 \\2 & 5 & -4 \\3 & 7 & -5\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]\therefore(\mathrm{AB})^{\mathrm{T}}=\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+আবার, [math]\mathrm{B}^{\mathrm{T}} \mathrm{A}^{\mathrm{T}}=\left[\begin{array}{rrr}1 & 2 & 3 \\2 & 5 & 7 \\-2 & -4 & -5\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{rrr}3 & -2 & -1 \\-4 & 1 & -1 \\2 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]\therefore(\mathrm{AB})^{\mathrm{T}}=\mathrm{B}^{\mathrm{T}} \mathrm{A}^{\mathrm{T}}[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]A^{T}-B^{T}=\begin{pmatrix}3 & -2 & -1\\-4 & 1 & -1\\2 & 0 & 1\end{pmatrix}-\begin{pmatrix}1 & 2 & 3\\2 & 5 & 7\\-2 & -4 & -5\end{pmatrix}=\begin{pmatrix}2 & -4 & -4\\-6 & -4 & -8\\4 & 4 & 6\end{pmatrix}[/math].
+
+খ যেকোন যোগ্যতা অনুযায়ী, উপাদান-করা দিয়ে [math](C(A+B))_{ij}=\sum_k c_{ik}(a_{kj}+b_{kj})=\sum_k c_{ik}a_{kj}+\sum_k c_{ik}b_{kj}=(CA)_{ij}+(CB)_{ij}[/math] হয়, তাই [math]C(A+B)=CA+CB[/math]।
+
+গ উপাদান-করা দিয়ে দেখলে [math]((AB)^{T})_{ij}=(AB)_{ji}=\sum_k a_{jk}b_{ki}=\sum_k b_{ki}a_{jk}=(B^{T}A^{T})_{ij}[/math], ফলে [math](AB)^{T}=B^{T}A^{T}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 411132)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]M=\left[\begin{array}{cc}1+a^{2}-b^{2} & 2 a b \\2 a b & 1-a^{2}+b^{2} \\2 b & -2 a\end{array}\right.[/math] [math]\quad[/math] [math]\left.\begin{array}{c}-2 b \\2 a \\1-a^{2}-b^{2}\end{array}\right][/math]
+
+Options:
+ক. [math]A=\left[\begin{array}{cc}2 & -3 \\1 & 4\end{array}\right][/math] হলে, প্রমাণ কর যে, [math]\mathrm{AA}^{-1}=\mathrm{I}_{2},[/math] যেখানে [math]\mathrm I_{2}[/math] একটি ইউনিট ম্যাট্রিক্স।
+খ. [math]\mathrm{a}=\mathrm{b}=1[/math] হলে, উদ্দীপক থেকে প্রমাণ কর যে, [math]|M|=\left(1+a^{2}+b^{2}\right)^{3}[/math]
+গ. [math]a=b=2[/math] হলে, উদ্দীপক থেকে প্রমাণ কর যে, [math]|\mathrm{M}| . \mathrm{M}^{-1}=\operatorname{Adj} \mathrm{M} .[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]A=\left[\begin{array}{cc}2 & -3 \\1 & 4\end{array}\right][/math]
+ [math]\therefore A^{-1}=\frac{1}{11}\left[\begin{array}{cc}4 & 3 \\-1 & 2\end{array}\right][/math]
+এখন [math]\mathrm{AA}^{-1}=\frac{1}{11}\left[\begin{array}{cc}2 & -3 \\1 & 4\end{array}\right][/math]
+ [math]\left[\begin{array}{cc}4 & 3 \\-1 & 2\end{array}\right][/math]
+ [math]=\frac{1}{11}\left[\begin{array}{cc}11 & 0 \\0 & 11\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math]
+ [math]=I_{2}[/math]
+(প্রমাণিত)[math]\\[/math]
+ খ [math]M=\left[\begin{array}{c}1+a^{2}-b^{2} \\2 a b \\2 b\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{c}2 a b \\1-a^{2}+b^{2} \\-2 a\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}-2 b \\2 a \\1-a^{2}-b^{2}\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}1 & 2 & -2 \\2 & 1 & 2 \\2 & -2 & -1\end{array}\right][/math]
+ [math](a=b=1[/math]
+ বসিয়ে )[math]\therefore|M|=\left|\begin{array}{rrr}1 & 2 & -2 \\2 & 1 & 2 \\2 & -2 & -1\end{array}\right|[/math]
+ [math]=1 \times 3-2 \times(-6)-2 \times(-6)[/math]
+ [math]=27[/math]
+আবার, [math]\left(1+a^{2}+b^{2}\right)^{3}[/math]
+ [math]=3^{3}[a=b=1[/math]
+ বসিয়ে ] [math]=27[/math]
+ [math]\therefore|\mathrm{M}|=\left(1+\mathrm{a}^{2}+\mathrm{b}^{2}\right)^{3}[/math]
+(প্রমাণিত)[math]\\[/math]
+ গ [math]M=\left[\begin{array}{rrr}1 & 8 & -4 \\8 & 1 & 4 \\4 & -4 & -7\end{array}\right][/math]
+ [math](a=b=2[/math]
+ বসিয়ে )[math]\therefore|\mathrm{M}| =1 \times 9-8[/math]
+ [math]\times(-72)-4 \times(-36)[/math]
+ [math]=9+576+144=729[/math]
+ [math]|M|[/math]
+ এর সহগুণকগুলি :[math]M_{11}=9, M_{12}=72,[/math]
+ [math]M_{13}=-36[/math]
+ [math]M_{21}=72,[/math]
+ [math]M_{22}=9,[/math]
+ [math]M_{23}=36[/math]
+ [math]M_{31}=36,[/math]
+ [math]M_{32}=-36,[/math]
+ [math]M_{33}=-63[/math]
+ [math]\therefore \operatorname{Adj} M=\left[\begin{array}{rrr}9 & 72 & -36 \\72 & 9 & 36 \\36 & -36 & -63\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{rrr}9 & 72 & 36 \\72 & 9 & -36 \\-36 & 36 & -63\end{array}\right][/math]
+এবং [math]M^{-1}=\frac{1}{729}[/math]
+ [math]\left[\begin{array}{rrr}9 & 72 & 36 \\72 & 9 & -36 \\-36 & 36 & -63\end{array}\right][/math]
+ [math]\therefore \quad|\mathrm{M}| \cdot \mathrm{M}^{-1}=729 \times \frac{1}{729}[/math]
+ [math]\left[\begin{array}{rrr}9 & 72 & 36 \\72 & 9 & -36 \\-36 & 36 & -63\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}9 & 72 & 36 \\72 & 9 & -36 \\-36 & 36 & -63\end{array}\right][/math]
+ [math]\therefore|\mathrm{M}| \cdot \mathrm{M}^{-1}=\operatorname{Adj} \mathrm{M} .[/math]
+ (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা:
+
+ক ম্যাট্রিক্সের নির্ণায়ক [math]\det A=2\cdot4-(-3)\cdot1=11[/math] এবং inverse হচ্ছে [math]A^{-1}=\dfrac{1}{11}\begin{pmatrix}4 & 3\\-1 & 2\end{pmatrix}[/math]; সরাসরি গুণ করলে [math]AA^{-1}=I_{2}[/math] পাওয়া যায়, যা inverse এর সংজ্ঞা অনুসারে সঠিক।
+
+খ [math]a=b=1[/math] বসালে [math]M=\begin{pmatrix}1&2&-2\\2&1&2\\2&-2&-1\end{pmatrix}[/math] হয় এবং সরাসরি নির্ণায়ক গণনা করলে [math]|M|=27=(1+1^{2}+1^{2})^{3}=(1+a^{2}+b^{2})^{3}[/math] পাওয়া যায়।
+
+গ যেকোনো অপ্রতিগামী (invertible) ম্যাট্রিক্সের জন্য পরিচিত সূত্র আছে [math]M^{-1}=\dfrac{1}{|M|}\operatorname{Adj}M[/math], তাই সরূপ [math]|M|\,M^{-1}=\operatorname{Adj}M[/math] হয়; তাই [math]a=b=2[/math] ক্ষেত্রেও সমীকরণটি সত্য।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 411133)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+দুটি ম্যাট্রিক্স A এবং B দেয়া আছে। AB ও BA এর মধ্যে কোন সম্পর্ক থাকলে তা নির্ণয় কর। [math]B^{-1}[/math] কে X ও A এর মাধ্যমে প্রকাশ করো?
+
+[math]A=\left[\begin{array}{ccc}3 x & -4 x & 2 x \\-2 x & x & 0 \\-x & -x & x\end{array}\right][/math] এবং [math]B=\left[\begin{array}{ccc}x & 2 x & -2 x \\2 x & 5 x & -4 x \\3 x & 7 x & -5 x\end{array}\right][/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]B^{-1}=\frac{A}{x^{2}}[/math]
+)সমাধানঃ[math]A B=\left[\begin{array}{ccc}3 x & -4 x & 2 x \\-2 x & x & 0 \\-x & -x & x\end{array}\right]\left[\begin{array}{ccc}x & 2 x & -2 x \\2 x & 5 x & -4 x \\3 x & 7 x & -5 x\end{array}\right]=x[/math]
+ [math]\left[\begin{array}{ccc}3 & -4 & 2 \\-2 & 1 & 0 \\-1 & -1 & 1\end{array}\right] \cdot x\left[\begin{array}{ccc}1 & 2 & -2 \\2 & 5 & -4 \\3 & 7 & -5\end{array}\right][/math]
+ [math]=x^{2}\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right]=\left[\begin{array}{ccc}x^{2} & 0 & 0 \\0 & x^{2} & 0 \\0 & 0 & x^{2}\end{array}\right][/math]
+অনুরূপভাবে [math]B A=\left[\begin{array}{ccc}x^{2} & 0 & 0 \\0 & x^{2} & 0 \\0 & 0 &x^{2}\end{array}\right][/math]
+ [math]\therefore \mathrm{AB}=\mathrm{BA}[/math]
+ [math]\therefore B A=x^{2} I \Rightarrow \frac{1}{x^{2}} A=B^{-1} I \Rightarrow B^{-1}=\frac{A}{x^{2}}=[/math]
+ [math]\left[\begin{array}{ccc}\frac{3}{x} & -\frac{4}{x} & \frac{2}{x} \\-\frac{2}{x} & \frac{1}{x} & 0 \\-\frac{1}{x} & -\frac{1}{x} & \frac{1}{x}\end{array}\right][/math]
+ [math]\therefore B^{-1}=\frac{A}{x^{2}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: লক্ষ্য করলে A ও B প্রতিটি উপাদানেই একটি সাধারণ গুণক আছে, তাই লিখতে পারি [math]A=xA_0,\;B=xB_0[/math] যেখানে গণনা করলে [math]A_0B_0=I[/math] হয়, ফলে [math]B_0=A_0^{-1}[/math]. তাই [math]AB=(xA_0)(xB_0)=x^2I[/math] এবং অনুরূপভাবে [math]BA=x^2I[/math], অর্থাৎ AB ও BA সমান। এই থেকে [math]B^{-1}=\frac{1}{x^2}A[/math] পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 411134)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ccc}0 & 0 & 2 \mathrm{i} \\0 & -2 \mathrm{i} & 0 \\2 \mathrm{i} & 0 & 0\end{array}\right][/math] - দেখাও যে, [math]A^{2}+4 I=0, I[/math] একটি একক মেট্রিক্স ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]\Rightarrow \mathrm{A}^{2}+4 \mathrm{I}=0[/math]
+সমাধান:[math]A=\left[\begin{array}{ccc}0 & 0 & 2 i \\0 & -2 i & 0 \\2 i & 0 & 0\end{array}\right][/math]
+ [math]\therefore A^{2}=\left[\begin{array}{ccc}0 & 0 & 2 i \\0 & -2 i & 0 \\2 i & 0 & 0\end{array}\right]\times\left[\begin{array}{ccc}0 & 0 & 2 i \\0 & -2 i & 0 \\2 i & 0 & 0\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}-4 & 0 & 0 \\0 & -4 & 0 \\0 & 0 & -4\end{array}\right][/math]
+ [math]\therefore A^{2}+4 \mathrm{I}=\left[\begin{array}{ccc}-4 & 0 & 0 \\0 & -4 & 0 \\0 & 0 & -4\end{array}\right]+4\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]\Rightarrow A^{2}+4 I=0[/math]
+ (Showed)
+
+Explanation:
+ব্যাখ্যা: প্রথম সারি ও প্রথম কলামের গুণে (1,1) উপাদান হয় [math](2\mathrm{i})(2\mathrm{i})=4\mathrm{i}^{2}=-4[/math] এবং অনুরূপভাবে তীব্রক রেখায় সব কোণীয় উপাদানগুলো শূন্য থাকে, তাই [math]A^{2}=\mathrm{diag}(-4,-4,-4)=-4I[/math]; অতএব [math]A^{2}+4I=-4I+4I=0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 411135)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, [math]\left|\begin{array}{ccc}1+a^{2}-b^{2} & 2 a b & 2 b \\2 a b & 1-a^{2}+b^{2} & -2 a \\-2 b & 2 a & 1-a^{2}-b^{2}\end{array}\right|=\left(1+a^{2}+b^{2}\right)^{3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]=\left(1+a^{2}+b^{2}\right)^{2}\left[1-a^{2}-b^{2}+2 a^{2}-2 b(-b)\right]=\left(1+a^{2}+b^{2}\right)^{3}[/math]
+সমাধান:[math]\left|\begin{array}{ccc}1+\mathrm{a}^{2}-\mathrm{b}^{2} & 2 \mathrm{ab} & 2 \mathrm{~b} \\2 \mathrm{ab} & 1-\mathrm{a}^{2}+\mathrm{b}^{2} & -2 \mathrm{a} \\-2 \mathrm{~b} & 2 \mathrm{a} & 1-\mathrm{a}^{2}-\mathrm{b}^{2}\end{array}\right|[/math]
+ [math]\Rightarrow\left(1+a^{2}+b^{2}\right)\left|\begin{array}{ccc}1 & 0 & -2 b \\0 & 1+a^{2}+b^{2} & 2 a \\b & -a\left(1+a^{2}+b^{2}\right) & 1-a^{2}-b^{2}\end{array}\right|[/math]
+ [math]\Rightarrow\left(1+a^{2}+b^{2}\right)^{2}\left|\begin{array}{ccc}1 & 0 & -2 b \\0 & 1 & 2 a \\b & -a & 1-a^{2}-b^{2}\end{array}\right|[/math]
+ [math]\Rightarrow\left(1+a^{2}+b^{2}\right)^{2}\left[1-a^{2}-b^{2}+2 a^{2}-2 b(-b)\right]=\left(1+a^{2}+b^{2}\right)^{3}[/math]
+ (Proved)[math]\text { Alternate: }\left|\begin{array}{ccc}1+\mathrm{a}^{2}-\mathrm{b}^{2} & 2 \mathrm{ab} & 2 \mathrm{~b} \\2 \mathrm{ab} & 1-\mathrm{a}^{2}+\mathrm{b}^{2} & -2 \mathrm{a} \\-2 \mathrm{~b} & 2 \mathrm{a} & 1-\mathrm{a}^{2}-\mathrm{b}^{2}\end{array}\right|[/math]
+ [math]\Rightarrow\left|\begin{array}{ccc}1+a^{2}+b^{2} & 0 & b+a^{2} b+b^{3} \\0 & 1+a^{2}+b^{2} & -a-a^{3}-a b^{2} \\-2 b & 2 a & 1-a^{2}-b^{2}\end{array}\right|[/math]
+ [math]I[/math]
+ অভেদক ম্যাট্রিক্স হলে B ম্যাট্রিক্স নির্ণয় কর [math]\left[\begin{array}{ll}4 & 3 \\2 & 1\end{array}\right] \mathrm{B}=\mathrm{I} ; \mathrm{I}=\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math]
+
+
+Explanation:
+এই মেট্রিক্সটি কোয়াটারনিয়নের রোটেশন-ম্যাট্রিক্সের সূত্রের সঙ্গে সোপানিকভাবে মেলে: এটি [math]q=(1,a,b,0)[/math] কোয়াটারনিয়নের জন্য তৈরিকৃত ম্যাট্রিক্স। কোয়াটারন উপাদানগুলোর ওপর ম্যাট্রিক্সের প্রত্যেক এন্ট্রি দ্বিগুণ ডিগ্রির সচ্ছল হলো, তাই যদি [math]n=\sqrt{1+a^{2}+b^{2}}[/math] হয় এবং [math]q=n\cdot u[/math] যেখানে [math]u[/math] একক (unit) কোয়াটারন, তখন ম্যাট্রিক্সটি [math]n^{2}R(u)[/math] হয় এবং তার ডিটারমিন্যান্ট হবে [math]n^{6}\det R(u)=n^{6}\cdot1=(1+a^{2}+b^{2})^{3}[/math], ফলে দেওয়া সমীকরণটি সত্য।
+
+Sub-Questions:
+

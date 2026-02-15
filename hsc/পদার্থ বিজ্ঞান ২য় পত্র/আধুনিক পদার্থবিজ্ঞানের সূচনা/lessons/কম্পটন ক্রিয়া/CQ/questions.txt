@@ -1,0 +1,1004 @@
+================================================================================
+Question #1 (ID: 431461)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]0.2500 \mathrm{~nm}[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60^{\circ}[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math] এবং প্লাঙ্কের ধ্রুবক [math]6.63 \times 10^{-34} \mathrm{Js}[/math]।
+
+Options:
+গ. বিক্ষিপ্ত এক্স-রশ্মিটির তরঙ্গদৈর্ঘ্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, বিক্ষিপ্ত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda^\prime[/math]
+উদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+বিক্ষেপ কোণ, [math]\varphi=60^{\circ}[/math]
+ [math]\hspace{1 cm}[/math]
+ইলেকট্রনের ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+প্লাঙ্কের ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{~J} \mathrm{~s}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+আপতিত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda=0.2500 \mathrm{~nm}=0.2500 \times 10^{-9} \mathrm{~m}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \lambda^{\prime}-\lambda & =\frac{h}{m_{0} c}(1-\cos \varphi)\\ \Rightarrow ~~ \lambda^{\prime} & =\lambda+\frac{h}{m_{0} c}(1-\cos \varphi) \\ & =0.2500 \times 10^{-9} \mathrm{~m}+\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 60^{\circ}\right) \\ & =0.2500 \times 10^{-9} \mathrm{~m}+0.001214 \times 10^{-9} \mathrm{~m} \\ & =0.2500 \mathrm{~nm}+0.001214 \mathrm{~nm} \\ & =0.251214 \mathrm{~nm} \end{aligned}[/math]
+অতএব, বিক্ষিপ্ত এক্সরশ্মিটির তরঙ্গদৈর্ঘ্য 0.251214 nm।
+
+Explanation:
+ব্যাখ্যা:
+গ কম্পটন বিক্ষেপে তরঙ্গদৈর্ঘ্য বৃদ্ধি পায় এবং [math]\Delta\lambda=\dfrac{h}{m_e c}(1-\cos\theta)[/math] সূত্রটি প্রযোজ্য। এখানে [math]\dfrac{h}{m_e c}= \dfrac{6.63\times10^{-34}}{9.1\times10^{-31}\times3.00\times10^8}=2.43\times10^{-12}\,\mathrm{m}=0.00243\,\mathrm{nm}[/math], তাই [math]\Delta\lambda=2.43\times10^{-12}(1-\cos60^\circ)=1.215\times10^{-12}\,\mathrm{m}=0.001215\,\mathrm{nm}[/math] এবং বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য হবে [math]\lambda'=\;0.2500+0.001215=0.251215\,\mathrm{nm}\approx0.2512\,\mathrm{nm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 431460)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+নিম্নে একটি ব্যবস্থা দেখানো হলো যেখানে কুলিজ নল থেকে উৎপন্ন [math]\rm{X}[/math] রশ্মি ধাতুর পাশ দিয়ে যাওয়ার সময় [math]60^\circ[/math] কোণে বিক্ষিপ্ত হচ্ছে। এখানে, [math]\mathrm{m}_0=9.1 \times 10^{-31} \mathrm{~kg}, \mathrm{~h}=6.63 \times 10^{-34} \mathrm{~J}\text{-s}[/math].
+
+[Image]
+
+
+Options:
+ঘ. বিক্ষিপ্ত ফোটন ও প্রক্ষিপ্ত ইলেক্ট্রনের ভরবেগের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]\lambda[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+ইলেকট্রনের ভর, [math]m_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+প্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \times 10^{-34} \mathrm{Js}[/math]
+ [math]\hspace{1 cm}[/math]
+ইলেকট্রনের আধান, [math]\mathrm{e}=1.6 \times 10^{-19} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব পার্থক্য, [math]\mathrm{V}=30 \mathrm{kV}=30 \times 10^{3} \mathrm{~V}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \lambda & =\frac{\mathrm{h}}{\sqrt{2 \mathrm{~m}_{0} \mathrm{eV}}} \\ & =\frac{6.63 \times 10^{-34} \mathrm{~J} \mathrm{~s}}{\sqrt{2 \times 9.1 \times 10^{-31} \mathrm{~kg} \times 1.6 \times 10^{-19} \mathrm{C} \times 30 \times 10^{3} \mathrm{~V}}} \\ & =0.071 \times 10^{-10} \mathrm{~m}=0.071 \mathring{\rm{A}} \end{aligned}[/math]
+সুতরাং কুলিজ নল থেকে নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]0.071 \mathring{\rm{A}}[/math]
+।[math]\hspace{1.5 cm} \lambda=0.071 \mathring{\rm{A}}=0.071 \times 10^{-10} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+বিক্ষেপণ কোণ, [math]\varphi=60^{\circ}[/math]
+ [math]\therefore[/math]
+ বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য ^' হলে কম্পটন ক্রিয়া অনুসারে,[math]\hspace{1.5 cm}\begin{aligned} \lambda^{\prime}-\lambda &=\frac{h}{m_{0} c}(1-\cos \varphi)\\ \Rightarrow ~ \lambda^{\prime} & =\lambda+\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 60^{\circ}\right) \\ & =\left(0.071 \times 10^{-10}+1.2143 \times 10^{-12}\right) \mathrm{m} \\ & =8.3143 \times 10^{-12} \mathrm{~m} \end{aligned}[/math]
+ [math]\therefore[/math]
+ বিক্ষিপ্ত ফোটনের ভরবেগ,[math]\hspace{1.5 cm}\begin{aligned} \rm{P}^{\prime} & =\frac{\mathrm{h}}{\lambda^{\prime}}=\frac{6.63 \times 10^{-34}}{8.3143 \times 10^{-12}} \mathrm{~kg} \mathrm{~m} \mathrm{~s}^{-1} \\ & =7.974 \times 10^{-23} \mathrm{~kg} \mathrm{~m} \mathrm{~s}^{-1} \end{aligned}[/math]
+আপতিত ফোটনের গতিপথকে X অক্ষ বিবেচনা করলে এর লম্ব বরাবর তথা ধনাত্মক Y অক্ষ বরাবর বিক্ষিপ্ত ফোটনের ভরবেগ, [math]P_{y}^{\prime}=P^{\prime} \sin \varphi[/math]
+ইলেকট্রনের ভরবেগ [math]P_e[/math]
+ হলে ধনাত্মক Y অক্ষ বরাবর ইলেক্ট্রনের ভরবেগের উপাংশ, [math]P_{e y}=P_{e} \cos 180^{\circ}=-P_{e}[/math]
+ফোটন আপতিত হওয়ার আগে ধনাত্মক Y অক্ষ বরাবর ভরবেগ শূন্য ছিল[math]\therefore[/math]
+ ভরবেগের সংরক্ষণ সূত্রানুসারে,[math]\hspace{1.5 cm}\begin{array}{l} \quad \mathrm{~P}_{\mathrm{y}}^{\prime}+\mathrm{P}_{\mathrm{ey}}=0 \\ \Rightarrow \mathrm{P}^{\prime} \sin \varphi-\mathrm{P}_{\mathrm{e}}=0 \\ \Rightarrow \mathrm{P}_{\mathrm{c}}=\mathrm{P}^{\prime} \sin \varphi=7.974 \times 10^{-23} \times \sin 60^{\circ} \mathrm{kg} \mathrm{m} \mathrm{s}^{-1} \\ \therefore \therefore \mathrm{P}_{\mathrm{e}}=6.9 \times 10^{-23} \mathrm{~kg} \mathrm{~m} \mathrm{~s}^{-1} \\ \therefore \frac{\mathrm{P}^{\prime}}{\mathrm{P}_{\mathrm{e}}}=\frac{7.974 \times 10^{-23}}{6.9 \times 10^{-23}}=1.155 \\ \therefore \frac{\mathrm{P}^{\prime}}{\mathrm{P}_{\mathrm{e}}}>1 \\ \Rightarrow \mathrm{P}^{\prime}>\mathrm{P}_{\mathrm{e}} \end{array}[/math]
+অতএব, বিক্ষিপ্ত ফোটনের ভরবেগ প্রক্ষিপ্ত ইলেক্ট্রনের ভরবেগ অপেক্ষা বেশি।
+
+Explanation:
+ব্যাখ্যা: ঘ প্রারম্ভিক ফোটনের ভরবেগ [math]p_i=\dfrac{h}{\lambda}[/math] এবং বিক্ষিপ্ত ফোটনের ভরবেগ [math]p_f=\dfrac{h}{\lambda'}[/math] যেখানে কম্পটন শিফটের কারণে [math]\lambda'>\lambda[/math] তাই [math]p_fp_f^2[/math] ফলে [math]p_e>p_f[/math]. তাই বিক্ষিপ্ত ফোটনের চেয়ে প্রক্ষিপ্ত ইলেক্ট্রনের ভরবেগ বড়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 431459)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+নিম্নে একটি ব্যবস্থা দেখানো হলো যেখানে কুলিজ নল থেকে উৎপন্ন [math]\rm{X}[/math] রশ্মি ধাতুর পাশ দিয়ে যাওয়ার সময় [math]60^\circ[/math] কোণে বিক্ষিপ্ত হচ্ছে। এখানে, [math]\mathrm{m}_0=9.1 \times 10^{-31} \mathrm{~kg}, \mathrm{~h}=6.63 \times 10^{-34} \mathrm{~J}\text{-s}[/math].
+
+[Image]
+
+
+Options:
+গ. কুলিজ নল থেকে নির্গত ফোটনের তরঙ্গদৈর্ঘ্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]\lambda[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+ইলেকট্রনের ভর, [math]m_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+প্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \times 10^{-34} \mathrm{Js}[/math]
+ [math]\hspace{1 cm}[/math]
+ইলেকট্রনের আধান, [math]\mathrm{e}=1.6 \times 10^{-19} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব পার্থক্য, [math]\mathrm{V}=30 \mathrm{kV}=30 \times 10^{3} \mathrm{~V}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \lambda & =\frac{\mathrm{h}}{\sqrt{2 \mathrm{~m}_{0} \mathrm{eV}}} \\ & =\frac{6.63 \times 10^{-34} \mathrm{~J} \mathrm{~s}}{\sqrt{2 \times 9.1 \times 10^{-31} \mathrm{~kg} \times 1.6 \times 10^{-19} \mathrm{C} \times 30 \times 10^{3} \mathrm{~V}}} \\ & =0.071 \times 10^{-10} \mathrm{~m}=0.071 \mathring{\rm{A}} \end{aligned}[/math]
+সুতরাং কুলিজ নল থেকে নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]0.071 \mathring{\rm{A}}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ কম্পটন সূত্র অনুযায়ী তরঙ্গদৈর্ঘ্যের পরিবর্তন [math]\Delta\lambda=\dfrac{h}{m_0 c}(1-\cos\theta)[/math]. এখানে [math]\theta=60^\circ[/math] হওয়ায় [math]1-\cos60^\circ=0.5[/math] এবং [math]\dfrac{h}{m_0 c}=2.43\times10^{-12}\ \text{m}[/math], সুতরাং [math]\Delta\lambda=0.5\times2.43\times10^{-12}=1.22\times10^{-12}\ \text{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 431457)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+ইলেক্ট্রনের সাথে সংঘর্ষের ফলে [math]4400 \mathring{\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আপতিত ফোটন [math]60^\circ[/math] কোণে বিক্ষিপ্ত হয়ে একটি ধাতব পৃষ্ঠকে আঘাত করে। ধাতব পৃষ্ঠের কার্যাপেক্ষক [math]2.5 \mathrm{eV}[/math]। [math]\left(\mathrm{~h}=6.63 \times 10^{-34} \mathrm{~J}-\mathrm{s}, \mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}, m_{0}=9.1 \times 10^{-31} \mathrm{~kg}\right)[/math]
+
+Options:
+গ. আপতিত ফোটনের শক্তি কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+আপতিত ফোটনের তরঙ্গদৈর্ঘ্য [math]\lambda=4400 \mathring{A}=4400 \times 10^{-10} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+প্লাঙ্কের ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{Js}[/math]
+ [math]\hspace{1 cm}[/math]
+ফোর্টনের বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\therefore[/math]
+ আপতিত ফোটনের শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \therefore \quad E & =h v=h \frac{\mathrm{c}}{\lambda}=6.63 \times 10^{-34} \times \frac{3 \times 10^{8}}{4400 \times 10^{-10}} \mathrm{~J}=4.52 \times 10^{-19} \mathrm{~J} \\ \therefore \quad E & =2.83 \mathrm{eV} \end{aligned}[/math]
+
+
+Explanation:
+গ আপতিত ফোটনের শক্তি নির্ণয় করতে Planck সূত্র প্রয়োগ করি: [math]E=\dfrac{hc}{\lambda}=\dfrac{6.63\times10^{-34}\times3\times10^{8}}{4.4\times10^{-7}}=4.52\times10^{-19}\ \rm J= \dfrac{4.52\times10^{-19}}{1.6\times10^{-19}}\approx2.82\ \rm eV[/math]. কোণটি ফোটনের শক্তিকে পরিবর্তন করে না, তাই আপতিত ফোটনের শক্তি ≈ [math]2.82\ \rm eV[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 431458)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+ইলেক্ট্রনের সাথে সংঘর্ষের ফলে [math]4400 \mathring{\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আপতিত ফোটন [math]60^\circ[/math] কোণে বিক্ষিপ্ত হয়ে একটি ধাতব পৃষ্ঠকে আঘাত করে। ধাতব পৃষ্ঠের কার্যাপেক্ষক [math]2.5 \mathrm{eV}[/math]। [math]\left(\mathrm{~h}=6.63 \times 10^{-34} \mathrm{~J}\text{-s}, \mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}, m_{0}=9.1 \times 10^{-31} \mathrm{~kg}\right)[/math]
+
+Options:
+ঘ. ফটোইলেক্ট্রন ও বিক্ষিপ্ত ইলেক্ট্রনের মধ্যে কোনটির গতিশক্তি বেশি হবে- যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘবিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য [math]\lambda^\prime[/math]
+ হলে,এখানে,[math]\hspace{1 cm}\begin{array}{l} \mathrm{h}=6.63 \times 10^{-34} \mathrm{Js} \\ \mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg} \\ \mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1} \\ \phi=60^{\circ} \\ \lambda=4400 \times 10^{-10} \mathrm{~m} \\ W_{0}=2.5 \mathrm{eV} \end{array}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad~ \lambda^{\prime}-\lambda=\frac{h}{m_{0} c}(1-\cos \phi) \\ \Rightarrow \lambda^{\prime}=\left\{\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 60^{\circ}\right)+4400 \times 10^{-10}\right\} \mathrm{m} \\ \therefore ~\lambda^{\prime}=4400.0121 \times 10^{-10} \mathrm{~m} \end{array}[/math]
+বিক্ষিপ্ত ইলেকট্রনটির গতিশক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{~~~E} & =\frac{\mathrm{hc}}{\lambda}-\frac{\mathrm{hc}}{\lambda^{\prime}} \\ & =\mathrm{hc}\left(\frac{1}{\lambda}-\frac{1}{\lambda^{\prime}}\right) \\ & =6.63 \times 10^{-34} \times 3 \times 10^{8}\left(\frac{1}{4400 \times 10^{-10}}-\frac{1}{4400.0121 \times 10^{-10}}\right) \\ & =1.25 \times 10^{-24} \mathrm{~J} \\ \therefore \mathrm{E} & =7.77 \times 10^{-6} \mathrm{eV} \end{aligned}[/math]
+ফটো ইলেকট্রনের গতিশক্তি,[math]\hspace{1.5 cm}\begin{aligned} E^{\prime}=\frac{h c}{\lambda}-W_{0} & =\left(\frac{6.63 \times 10^{-34} \times 3 \times 10^{8}}{4400 \times 10^{-10}}-2.5 \times 1.6 \times 10^{-19}\right) \mathrm{J} \\ & =5.2 \times 10^{-20} \mathrm{~J} \end{aligned}[/math]
+ [math]\hspace{1.5 cm}\therefore \mathrm{E}^{\prime}=0.33 \mathrm{eV}[/math]
+উপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে, [math]E^{\prime}>\mathrm{E}[/math]
+ অর্থাৎ ফটো ইলেকট্রনের গতিশক্তি বিক্ষিপ্ত ইলেকট্রন অপেক্ষা বেশি হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ ফটোইলেকট্রনের সর্বাধিক গতিশক্তি [math]K_{\rm photo}=E_{\gamma}-\phi[/math], এখানে [math]E_{\gamma}=\dfrac{hc}{\lambda}[/math] এবং [math]\lambda=4400\mathring{\rm A}=4.4\times10^{-7}\ {\rm m}[/math], তাই [math]E_{\gamma}\approx2.82\ {\rm eV}[/math] এবং [math]K_{\rm photo}=2.82-2.50=0.32\ {\rm eV}[/math].  
+বিক্ষিপ্ত (Compton) ইলেকট্রনের শক্তি ফোটনের শক্তি হ্রাসের সমান: [math]\Delta\lambda=\dfrac{h}{m_0c}(1-\cos60^\circ)=1.215\times10^{-12}\ {\rm m}[/math] থেকে প্রাপ্ত শক্তি প্রায় [math]K_{\rm recoil}\approx1.25\times10^{-24}\ {\rm J}\approx7.8\times10^{-6}\ {\rm eV}[/math].  
+অতএব ফটোইলেকট্রনের গতিশক্তি অনেক বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 431435)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Gazipur Cantonment College
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকটি লক্ষ কর :
+
+[Image]
+
+
+Options:
+গ. বিক্ষিপ্ত [math]\text{X-ray}[/math] ফোটনের তরঙ্গ দৈর্ঘ্য কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, আপতিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\lambda=0.3 \mathring{A}=0.3 \times 10^{-10} \mathrm{~m}[/math]
+বিক্ষেপণ কোণ, [math]\phi = 60°[/math]
+বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য, [math]\lambda' = ?[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{aligned}\lambda^{\prime} & =\lambda+\frac{\mathrm{h}}{\mathrm{m}_{0} \mathrm{c}}(1-\cos \phi) \\& =0.3 \times 10^{-10} \mathrm{~m}+\frac{6.63 \times 10^{-34} \mathrm{~J} . \mathrm{s}}{9.1 \times 10^{-31} \mathrm{~kg} \times 3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}}\left(1-\cos 60^{\circ}\right) \\& =3.12 \times 10^{-11} \mathrm{~m}=0.312 \mathring{A}\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ সঠিক কারণ কম্পটন বিক্ষেপে বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য প্রাথমিক তরঙ্গদৈর্ঘ্যের সাথে কম্পটন শিফট যোগ করলে পাওয়া যায়, যেখানে [math]\Delta\lambda=\frac{h}{m_e c}(1-\cos\theta)[/math]. প্রশ্নে প্রদত্ত প্রাথমিক তরঙ্গদৈর্ঘ্য ও বিক্ষেপ কোণটি এই সূত্রে বসালে প্রাপ্ত ফলটি গ-তে দেওয়া মানের সমান হয়, তাই সেটিই সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 431437)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Ispahani Public School And College. Chattogram
+--------------------------------------------------------------------------------
+Question:
+একটি কার্বন খণ্ড থেকে [math]10\ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]x[/math] রশ্মি কোন লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60^\circ[/math] কোণে বিক্ষিপ্ত হয় এবং ইলেকট্রনটি আলোক দ্রুতির [math]90\%[/math] দ্রুতিতে গতিশীল হয়।
+
+Options:
+ঘ. উদ্দীপকের উল্লিখিত ঘটনা শক্তির সংরক্ষণশীলতা নীতি সমর্থন করে কিনা তা গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘফোটনের হারানো শক্তি,[math]\hspace{.5cm}\begin{aligned}\Delta \mathrm{E} & =\mathrm{hc}\left(\frac{1}{\lambda}-\frac{1}{\lambda^{\prime}}\right) \\& =6.63 \times 10^{-34} \mathrm{Js} \times 3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}\left(\frac{1}{10^{-11}}-\frac{1}{1.121 \times 10^{-11}}\right) \\\Delta \mathrm{E} & =2.146 \times 10^{-15} \mathrm{~J}\end{aligned}[/math]
+আবার, ইলেকট্রন-এর গতিশক্তি,[math]\begin{aligned}\mathrm{E}_{\mathrm{k}} & =\frac{1}{2} \mathrm{mv}^{2} \\\Rightarrow \mathrm{E}_{\mathrm{k}} & =\frac{1}{2} \mathrm{~m}_{0} \mathrm{v}_{0}^{2} \\\Rightarrow & \mathrm{E}_{\mathrm{k}}=\frac{1}{2} \times 9.1 \times 10^{-31} \mathrm{~kg} \times\left(0.9 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}\right)^{2} \\\therefore \quad \mathrm{E}_{\mathrm{k}} & =3.317 \times 10^{-14} \mathrm{~J}\end{aligned}[/math]
+সুতরাং, [math]\Delta \mathrm{E} 
+eq \mathrm{E}_{\mathrm{k}}[/math]
+অর্থাৎ, উদ্দীপকের ঘটনা শক্তির সংরক্ষণশীলতা নীতি সমর্থন করে না । (এখানে উল্লেখিত তথ্যাদিতে ত্রুটি থাকার কারণে এমনটি হলো।)
+
+Explanation:
+ব্যাখ্যা:
+
+ঘ উক্ত ঘটনা শক্তি সংরক্ষণ নীতির সঙ্গে সামঞ্জস্যপূর্ণ নয়; কারণ ইনিশিয়াল ফোটনের শক্তি খুব ছোট। প্রথমত, ফোটনের শক্তি [math]E_i=\frac{hc}{\lambda}=\frac{1240\ \text{eV·nm}}{0.01\ \text{nm}}=1.24\times10^5\ \text{eV}=124\ \text{keV}[/math]। পরে ইলেকট্রনের গতি [math]v=0.9c[/math] হলে [math]\gamma=\frac{1}{\sqrt{1-0.9^2}}\approx2.294[/math] এবং ইলেকট্রনের কাইনেটিক শক্তি [math]K=(\gamma-1)mc^2\approx(2.294-1)\times511\ \text{keV}\approx662\ \text{keV}[/math]। কিন্তু [math]662\ \text{keV}\gg124\ \text{keV}[/math], তাই ফোটন থেকে এত শক্তি সরবরাহ করা যায় না এবং শক্তির সংরক্ষণ ভঙ্গ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 431436)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Ispahani Public School And College. Chattogram
+--------------------------------------------------------------------------------
+Question:
+একটি কার্বন খণ্ড থেকে [math]10\ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]x[/math] রশ্মি কোন লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60^\circ[/math] কোণে বিক্ষিপ্ত হয় এবং ইলেকট্রনটি আলোক দ্রুতির [math]90\%[/math] দ্রুতিতে গতিশীল হয়।
+
+Options:
+গ. বিক্ষিপ্ত ফোটনের কম্পাঙ্ক কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]\lambda=10 \mathrm{pm}=10 \times 10^{-12} \mathrm{~m}[/math]
+ [math]\hspace{1.5cm}\theta=60^{\circ}, \mathrm{v}=0.9 \mathrm{c}, f^{\prime}=?[/math]
+আমরা জানি,[math]\hspace{1cm}\begin{aligned}\lambda^{\prime} & =\lambda+\frac{\mathrm{h}}{\mathrm{m}_{0} \mathrm{c}}(1-\cos \theta) \\& =10^{-11} \mathrm{~m}+\frac{6.63 \times 10^{-34} \mathrm{Js}}{9.1 \times 10^{-31} \mathrm{~kg} \times 3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}}\left(1-\cos 60^{\circ}\right) \\& =1.121 \times 10^{-11} \mathrm{~m}\end{aligned}[/math]
+আবার, [math]c = f\lambda[/math]
+ [math]\hspace{.5cm}\begin{array}{l}\therefore f^{\prime}=\frac{\mathrm{c}}{\lambda^{\prime}}=\frac{3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}}{1.121 \times 10^{-11} \mathrm{~m}} \\\therefore f^{\prime}=2.675 \times 10^{19} \mathrm{~Hz}\end{array}[/math]
+অতএব, বিক্ষিপ্ত ফোটনের কম্পাঙ্ক [math]2.675 \times 10^{19} \mathrm{~Hz} \text { । }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ প্রাপ্ত রশ্মির কম্পাঙ্ক নির্ণয়ের চেষ্টা করার আগে দেখে নেওয়া যাক শক্তি ঠিক আছে কি না। প্রাথমিক ফোটনের শক্তি [math]E_\gamma=\dfrac{hc}{\lambda}=\dfrac{1240\ \text{eV·nm}}{0.01\ \text{nm}}=124{,}000\ \text{eV}=124\ \text{keV}[/math]; এবং [math]v=0.9c[/math] পেতে ইলেকট্রনের প্রয়োজনীয় কাইনেটিক শক্তি [math]\gamma=\dfrac{1}{\sqrt{1-0.9^2}}\approx2.294,\quad K=(\gamma-1)mc^2\approx1.294\times511\ \text{keV}\approx661\ \text{keV}[/math], যা প্রাপ্ত ফোটনের শক্তির তুলনায় অনেক বেশি; তাই এত দ্রুতগতির ইলেকট্রন উৎপন্ন করার জন্য পর্যাপ্ত শক্তি নেই এবং বাস্তবে এই পরিস্থিতিতে কোনো শারীরিকভাবে গ্রহণ্য বিক্ষিপ্ত ফোটনের কম্পাঙ্ক পাওয়া যায় না।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 431434)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2.4[/math] Å তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত করে [math]60°[/math] কোণে বিক্ষিপ্ত হলো।
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, বিক্ষিপ্ত এক্স-রশ্যির শক্তি উদ্দীপকে উল্লিখিত আপতিত র শ্মির চেয়ে কম।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: কম্পটন বিকিরণের সূত্র অনুযায়ী [math]\Delta\lambda=\lambda'-\lambda=\frac{h}{m_e c}(1-\cos\theta)[/math]. এখানে [math]\lambda_C=\frac{h}{m_e c}=0.02426\ \text{Å}[/math], এবং [math]1-\cos60^\circ=0.5[/math], ফলে [math]\Delta\lambda=0.01213\ \text{Å}[/math] এবং [math]\lambda'=2.4+0.01213=2.41213\ \text{Å}>\;2.4\ \text{Å}[/math]. যেহেতু ফোটনের শক্তি [math]E=\frac{hc}{\lambda}[/math], বড় তরঙ্গদৈর্ঘ্যের জন্য শক্তি কম হয়, তাই বিক্ষিপ্ত রশ্মির শক্তি আপতিত রশ্মির চেয়ে কম।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 431426)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে একটি গ্যাস নল দেখানো হয়েছে। এটি বিশেষ ধরনের গ্যাস নল। এতে [math]C[/math] ক্যাথোড, [math]A[/math] অ্যানোড। নলে নিম্ন বায়ু চাপে এবং ক্যাথোড ও অ্যানোডের মধ্যে অতি উক্ত বিভব পার্থক্য প্রয়োগে এক্স-রে উৎপন্ন হয়।
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকে সৃষ্ট এক্স-রের তরঙ্গ দৈর্ঘ্য [math]0.25 \ nm[/math] হয় এবং কোনো লক্ষ্যবস্তুকে আঘাত করে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। সেখানে ইলেকট্রনের নিশ্চল ভর [math]9.1 \times 10^{-34} kg[/math] এবং প্ল্যাঙ্কের ধ্রুবক [math]6.63 \times 10^{-34}Js[/math]। বিক্ষিপ্ত এক্স রশ্মিটির শক্তি আপতিত রশ্মিটির চেয়ে সামান্য কম – গাণিতিকভাবে বিশ্লেষণ করে এর সত্যতা যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,আপতিত রশ্মির তরঙ্গ দৈর্ঘ্য, [math]\lambda_0 = 0.25 nm = 0.25 × 10^{-9}[/math]
+ mবিক্ষেপণ কোণ, [math]\theta[/math]
+ = 60°ইলেকট্রনের নিশ্চল ভর, [math]m_0 = 9.1 \times 10^{-31}[/math]
+kgপ্লাঙ্কের ধ্রুবক, h=6.63 × [math]10^{-34}[/math]
+ Jsআলোর বেগ, c = [math]3 \times 1068 ms^{-1}[/math]
+ধরি, বিক্ষিপ্ত রশ্মির তরঙ্গ দৈর্ঘ্য, = [math]\lambda^\prime[/math]
+আমরা জানি,[math]\begin{array}{r}\lambda^{\prime}-\lambda_{0}=\frac{h}{m_{0} c}(1-\cos \theta) \\\text { } \lambda^{\prime}=\lambda_{0}+\frac{h}{m_{0} c}(1-\cos \theta)\end{array}[/math]
+ [math]=0.25 \times 10^{-9}+\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 60^{\circ}\right)[/math]
+ [math]2.51 \times 10^{-10}[/math]
+ mএখন, আপতিত রশ্মির শক্তি,[math]\begin{aligned}E & =\frac{h c}{\lambda^{\circ}} \\& =\frac{6.63 \times 10^{-34} \times 3 \times 10^{8}}{0.25 \times 10^{-9}} \\& =7.956 \times 10^{-16} \mathrm{~J}\end{aligned}[/math]
+বিক্ষিপ্ত রশ্মির শক্তি,[math]\begin{aligned}\mathrm{E}^{\prime} & =\frac{h \mathrm{c}}{\lambda^{\prime}} \\& =\frac{6.63 \times 10^{-34} \times 3 \times 10^{8}}{2.51 \times 10^{-10}} \\& =7.924 \times 10^{-16} \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore E^{\prime}>E[/math]
+বিক্ষিপ্ত এক্স রশ্মিটির শক্তি আপতিত রশ্মিটির চেয়ে সামান্য কম । -
+
+Explanation:
+ব্যাখ্যা: ঘ উপযুক্ত — কম্পটন সিচালনের সূত্র অনুযায়ী [math]\Delta \lambda=\lambda'-\lambda=\dfrac{h}{mc}(1-\cos\theta)[/math]. এখানে [math]h=6.63\times10^{-34}\,Js,\;m\approx9.1\times10^{-31}\,kg,\;c=3.0\times10^{8}\,m/s,\;\theta=60^\circ[/math], তাই [math]\dfrac{h}{mc}\approx2.43\times10^{-12}\,m[/math] এবং [math]\Delta\lambda=2.43\times10^{-12}\times(1-0.5)=1.215\times10^{-12}\,m=1.215\times10^{-3}\,nm[/math], ফলে [math]\lambda'=0.25+0.001215=0.251215\,nm[/math]. যেহেতু ফোটনের শক্তি [math]E=hc/\lambda[/math], অতএব ছরানো রশ্মির শক্তি সামান্য কম হবে — গণিতগতভাবে কথ্যটি সত্য।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 431428)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.40[/math] Å তরঙ্গদৈর্ঘ্যের একটি এক্স-রে ফোটন একটি নিশ্চল ইলেকট্রনকে আঘাত করলে ফোটন [math]9 0°[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.424[/math]
+Å[math]\\[/math]
+ [math][/math]
+দেওয়া আছে,প্ল্যাঙ্কের ধ্রুবক,[math]\mathrm{h}=6.63 \times 10^{-34^{}} \mathrm{Js}[/math]
+ [math]\frac{\mathrm{h}}{\mathrm{m}_{0} \mathrm{c}}=0.024[/math]
+Åআপতিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\lambda = 0.40[/math]
+Å[math]\phi=90^{\circ}[/math]
+বিক্ষেপিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\lambda^{\prime}=?[/math]
+দৈর্ঘ্য, [math]lambda^{\prime}=?[/math]
+ [math]\\[/math]
+আমরা জানি,কম্পটন ক্রিয়ায়,[math]\lambda^{\prime}-\lambda=\frac{h}{m_{0} c}(1-\cos \phi)[/math]
+ [math]\lambda^{\prime}-0.40[/math]
+Å [math]0.024[/math]
+Å [math](1- cos \ 90^{\circ})[/math]
+ [math]\lambda^{\prime}=0.40=[/math]
+Å [math]+0.024[/math]
+ Å [math]=0.424[/math]
+ Å
+
+Explanation:
+ব্যাখ্যা: কম্পটন বিখ্যাত সূত্রটি হলো [math]\Delta\lambda=\frac{h}{m_ec}(1-\cos\theta)[/math], তাই [math]\theta=90^\circ[/math] এ [math]\Delta\lambda=\frac{h}{m_ec}=2.426\times10^{-12}\,\text{m}=0.02426\,\text{Å}[/math]. অতএব বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য [math]\lambda'=\lambda+\Delta\lambda=0.40\,\text{Å}+0.02426\,\text{Å}=0.42426\,\text{Å}\approx0.424\,\text{Å}[/math], যা ইলেকট্রনকে শক্তি স্থানান্তরের ফলে দীর্ঘ হয়েছে।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 431429)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রোটনের কম্পটন তরঙ্গদৈর্ঘ্য কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1.32 \times 10^{-15}m[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রোটনের ভর, [math]\mathrm{m}_{\mathrm{p}}=1.672 \times 10^{-27} \mathrm{~kg}[/math]
+প্ল্যাঙ্কের ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{Js}[/math]
+বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+কম্পটন তরঙ্গদৈর্ঘ্য, [math]\lambda_{c}=?[/math]
+ [math]\\[/math]
+আমরা জানি,কম্পটন তরঙ্গদৈর্ঘ্য,[math]\lambda_{\mathrm{c}}=\frac{\mathrm{h}}{\mathrm{mc}}[/math]
+ [math]\begin{array}{l} =\frac{6.63 \times 10^{-34} \mathrm{Js}}{1.672 \times 10^{-27} \mathrm{~kg} \times 3 \times 10^{8} \mathrm{~ms}^{-1}} \\ =1.32 \times 10^{-15} \mathrm{~m} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রোটনের কম্পটন তরঙ্গদৈর্ঘ্য [math]\lambda_C=\frac{h}{m_p c}[/math] দ্বারা নির্ণীত হয়; তাই [math]\lambda_C=\frac{6.62607015\times10^{-34}}{1.6726219\times10^{-27}\times2.99792458\times10^{8}}\approx1.32\times10^{-15}\ \text{m}[/math], যা প্রোটনের ভর বেশি হওয়ায় ইলেকট্রনের তুলনায় অনেক ছোট।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 431430)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.240 \times 10^{-9} \ m[/math] তরঙ্গদৈর্ঘ্যের এক্স রশ্মি কোনো ইলেকট্রনের ওপর আপতিত হয়ে [math]60°[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত এক্স রশ্মির তরঙ্গদৈর্ঘ্য নির্ণয় করো। [math]\left[\lambda_{c}=0.00243 \times 10^{-9} \mathrm{~m}\right][/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.2412 \ nm[/math]
+
+Explanation:
+ব্যাখ্যা: Compton বিক্ষেপণে তরঙ্গদৈর্ঘ্যের পরিবর্তন সূত্র [math]\Delta\lambda=\lambda_c(1-\cos\theta)[/math]। এখানে [math]\lambda_c=0.00243\times10^{-9}\ \mathrm{m}[/math] ও [math]\theta=60^\circ[/math], তাই [math]\Delta\lambda=0.00243\times10^{-9}(1-\cos60^\circ)=0.00243\times10^{-9}\times0.5=0.001215\times10^{-9}\ \mathrm{m}[/math]। ফলে বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\lambda'=\lambda+\Delta\lambda=0.240\times10^{-9}+0.001215\times10^{-9}=0.241215\times10^{-9}\ \mathrm{m}[/math] (প্রায় [math]0.2412\times10^{-9}\ \mathrm{m}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 431431)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কম্পটন প্রভাবের একটি পরীক্ষায় দেখা যায় যে, [math]0.5[/math]Å | তরঙ্গদৈর্ঘ্যের কোনো ফোটন একটি স্থির ইলেকট্রনকে আঘাত করে [math]45°[/math] কোণে বিক্ষিপ্ত হয় ।
+
+Options:
+গ. উদ্দীপকে উল্লেখিত ফোটনের কম্পাঙ্ক ও শক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,আপতিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\lambda = 0.5 A^\circ = 0.5 × 10^{-10}[/math]
+প্ল্যাংকের ধ্রুবক, h = 6.63 × [math]10^{-34}[/math]
+ J.sআলোর দ্রুতি, c = 3 [math]\times 10^8 ms^{-1}[/math]
+আপতিত ফোটনের কম্পাঙ্ক, [math]f[/math]
+ = ?এবং শক্তি, E = ?আমরা জানি, c = [math]f\lambda[/math]
+ [math]\begin{aligned}f & =\frac{\mathrm{c}}{\lambda}=\frac{3 \times 10^{8}}{0.5 \times 10^{-10}} \\& =6 \times 10^{18} \mathrm{~Hz} \text { (Ans.) }\end{aligned}[/math]
+এবং শক্তি, [math]\begin{aligned}\mathrm{E}=\mathrm{h} f & =6.63 \times 10^{-34} \times 6 \times 1^{18} \\& =3.978 \times 10^{-15} \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ প্রাথমিক তরঙ্গদৈর্ঘ্য [math]\lambda=0.5\ \text{Å}=5.0×10^{-11}\ \text{m}[/math] হলে ফ্রিকোয়েন্সি [math]\nu=\dfrac{c}{\lambda}=\dfrac{3.00×10^{8}}{5.0×10^{-11}}=6.00×10^{18}\ \text{Hz}[/math].  
+শক্তি হিসাব করলে [math]E=h\nu=6.626×10^{-34}×6.00×10^{18}=3.98×10^{-15}\ \text{J}≈\dfrac{3.98×10^{-15}}{1.602×10^{-19}}=2.48×10^{4}\ \text{eV}=24.8\ \text{keV}[/math].  
+কম্পটন কোণ এখানে প্রয়োজন নেই কারণ প্রাথমিক ফোটনের শক্তি সরাসরি তার প্রাথমিক তরঙ্গদৈর্ঘ্য থেকে নির্ণয় করা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 431432)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+কম্পটন প্রভাবের একটি পরীক্ষায় দেখা যায় যে, [math]0.5[/math]Å | তরঙ্গদৈর্ঘ্যের কোনো ফোটন একটি স্থির ইলেকট্রনকে আঘাত করে [math]45°[/math] কোণে বিক্ষিপ্ত হয় ।
+
+Options:
+ঘ. উদ্দীপকের আলোক বিক্ষেপণের পূর্বে ও পরে ফোটনের তরঙ্গদৈর্ঘ্যের তুলনামূলক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,আপতিত রশ্মির তরঙ্গ দৈর্ঘ্য, [math]\lambda = 0.5 \times 10^{-10}[/math]
+mবিক্ষেপণ কোণ, [math]\theta[/math]
+ = 45°আলোর বেগ, c = 3 [math]\times 10^8ms^{-1}[/math]
+প্লাংকের ধ্রুবক, h = 6.63 [math]\times 10^{-34}[/math]
+ J.sস্থির ইলেকট্রনের ভর, [math]m_0 = 9.1 × 10^{-31}[/math]
+ kgআমরা জানি,বিক্ষেপিত ফোটনের তরঙ্গদৈর্ঘ্য,[math]\begin{aligned}\lambda^{\prime} & =\lambda+\frac{h}{\mathrm{~m}_{0} \mathrm{c}}(1-\cos \theta) \\& =0.5 \times 10^{-10}+\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 45^{\circ}\right) \\& =5.07 \times 10^{-11} \mathrm{~m} \\& \therefore \lambda^{\prime}>\lambda\end{aligned}[/math]
+সুতরাং গাণিতিক বিশ্লেষণে দেখা যায় যে, বিক্ষেপণের পূর্বে ফোটনের তরঙ্গদৈর্ঘ্য বিক্ষেপণের পরের তরঙ্গদৈর্ঘ্য অপেক্ষা কম ।
+
+Explanation:
+ঘ কম্পটন শিফটের সূত্র অনুযায়ী scattered তরঙ্গদৈর্ঘ্য হলো [math]\lambda'=\lambda+\Delta\lambda[/math], যেখানে [math]\Delta\lambda=\dfrac{h}{mc}(1-\cos\theta)[/math]. এখানে [math]\dfrac{h}{mc}\approx0.02426\ \text{Å}[/math] এবং [math]\cos45^\circ=\dfrac{\sqrt2}{2}\approx0.7071[/math], ফলে [math]\Delta\lambda\approx0.02426(1-0.7071)\approx0.0071\ \text{Å}[/math] এবং [math]\lambda'\approx0.5+0.0071=0.5071\ \text{Å}[/math]. তাই বিচ্ছুরণের পরে ফোটনের তরঙ্গদৈর্ঘ্য সামান্য বৃদ্ধি পায় (অর্থাৎ বর্ধিত হয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 431433)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2.4[/math] Å তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত করে [math]60°[/math] কোণে বিক্ষিপ্ত হলো।
+
+Options:
+গ. বিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গআপতিত রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda = 2.4 Å = 2.4 \times 10^{-10}[/math]
+mইলেকট্রনের ভর, [math]m_0 = 9.11 \times 10^{-31}[/math]
+ kgআলোর বেগ, c = 3 × [math]10^8 ms^{-1}[/math]
+প্ল্যাংকের ধ্রুবক, h =6.63 × [math]10^{-34}[/math]
+ J.sবিক্ষেপণ কোণ, [math]\theta[/math]
+ = 60°বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য, [math]\lambda^\prime[/math]
+ = ?আমরা জানি,বিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য,[math]\begin{aligned}\lambda^{\prime}= & \lambda+\frac{\mathrm{h}}{\mathrm{m}_{0} \mathrm{c}}(1-\cos \theta) \\= & 2.4 \times 10^{-10} \\& +\frac{6.63 \times 10^{-34}}{9.11 \times 10^{-31} \times 3 \times 10^{8}} \\& \quad \times\left(1-\cos 60^{\circ}\right) \\= & 2.412 \times 10^{-10} \mathrm{~m} \\= & 2.412 A^\circ \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য নির্ণয়ের জন্য কম্পটন বিস্তারের সূত্র ব্যবহার করা হয়: [math]\Delta\lambda=\lambda_C(1-\cos\theta)[/math], যেখানে [math]\lambda_C=\dfrac{h}{mc}\approx0.0243\ \text{Å}[/math]. এখানে [math]\theta=60^\circ[/math], তাই [math]\Delta\lambda=0.0243(1-\cos60^\circ)=0.0243\times0.5=0.01215\ \text{Å}[/math], এবং বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\lambda'=\lambda+\Delta\lambda=2.4+0.01215=2.41215\ \text{Å}\approx2.412\ \text{Å}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 431410)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় [math]0.4 \ \mathring{\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55^\circ[/math] কোণে বিক্ষিপ্ত হয়ে যায়। [গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \times 10^{-31} \mathrm{~kg}[/math], আলোর বেগ [math]=3 \times 10^{8} \mathrm{~m} / \mathrm{s}[/math] এবং প্লা ঙ্কের ধ্রুবক [math]=6.63 \times 10^{-34} \mathrm{~J}\text{-}\mathrm{s}[/math]]
+
+Options:
+গ. উদ্দীপকের আপতিত ফোটনের শক্তি কত?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, ফোটনের শক্তি, Eউদ্দীপক থেকে পাই,[math]\hspace{1 cm}[/math]
+তরঙ্গদৈর্ঘ্য, [math]\lambda=0.4 \mathring{A} =0.4 \times 10^{-10} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+প্লাঙ্কের ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{~J}-\mathrm{s}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} E &=\frac{h c}{\lambda} \\ &=\frac{6.63 \times 10^{-34} \times 3 \times 10^{8}}{0.4 \times 10^{-10}} \mathrm{~J} \\ &=49.725 \times 10^{-16} \mathrm{~J} \\ & =\frac{49.725 \times 10^{-16}}{1.6 \times 10^{-19} \mathrm{eV}} \\ & =31078.125 \mathrm{eV} \end{aligned}[/math]
+অতএব, আপতিত ফোটনের শক্তি [math]31078.125 \mathrm{eV}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ অংশের জন্য ফোটনের শক্তি ফর্মুলা [math]E=\dfrac{hc}{\lambda}[/math] দ্বারা পাওয়া যায়। এখানে [math]h=6.63\times10^{-34}\ \mathrm{J\,s},\ c=3.0\times10^8\ \mathrm{m/s},\ \lambda=0.4\ \mathring{\mathrm{A}}=4.0\times10^{-11}\ \mathrm{m}[/math], তাই [math]E=\dfrac{6.63\times10^{-34}\times3.0\times10^8}{4.0\times10^{-11}}=4.97\times10^{-15}\ \mathrm{J}[/math] (প্রায় [math]3.10\times10^4\ \mathrm{eV}=31.0\ \mathrm{keV}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 431409)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]0.2500 \mathrm{~nm}[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60^{\circ}[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math] এবং প্লাঙ্কের ধ্রুবক [math]6.63 \times 10^{-34} \mathrm{Js}[/math]।
+
+Options:
+ঘ. বিক্ষিপ্ত এক্স-রশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম। গাণিতিকভাবে বিশ্লেষণের মাধ্যমে এর সত্যতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, বিক্ষিপ্ত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda^\prime[/math]
+উদ্দীপক হতে পাই,[math]\hspace{1 cm}[/math]
+বিক্ষেপ কোণ, [math]\varphi=60^{\circ}[/math]
+ [math]\hspace{1 cm}[/math]
+ইলেকট্রনের ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+প্লাঙ্কের ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{~J} \mathrm{~s}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+আপতিত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda=0.2500 \mathrm{~nm}=0.2500 \times 10^{-9} \mathrm{~m}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \lambda^{\prime}-\lambda & =\frac{h}{m_{0} c}(1-\cos \varphi)\\ \Rightarrow ~~ \lambda^{\prime} & =\lambda+\frac{h}{m_{0} c}(1-\cos \varphi) \\ & =0.2500 \times 10^{-9} \mathrm{~m}+\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 60^{\circ}\right) \\ & =0.2500 \times 10^{-9} \mathrm{~m}+0.001214 \times 10^{-9} \mathrm{~m} \\ & =0.2500 \mathrm{~nm}+0.001214 \mathrm{~nm} \\ & =0.251214 \mathrm{~nm} \end{aligned}[/math]
+অতএব, বিক্ষিপ্ত এক্সরশ্মিটির তরঙ্গদৈর্ঘ্য 0.251214 nm।আপতিত এক্স রশ্মির শক্তি, [math]\lambda^{\prime}=0.251214 \mathrm{~nm} =0.251214 \times 10^{-9} \mathrm{~m}[/math]
+বিক্ষিপ্ত এক্স রশ্মির তরঙ্গ দৈর্ঘ্য,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}_{1} & =\frac{\mathrm{hc}}{\lambda} \\ & =\frac{6.63 \times 10^{-34} \times 3 \times 10^{8}}{0.2500 \times 10^{-9}} \mathrm{~J} \\ & =79.56 \times 10^{-17} \mathrm{~J} \end{aligned}[/math]
+বিক্ষিপ্ত এক্স রশ্মির শক্তি,[math]\hspace{1.5 cm}\mathrm{E}_{2}=\frac{\mathrm{hc}}{\lambda^{\prime}}=\frac{6.63 \times 10^{-34} \times 3 \times 10^{8}}{0.251214 \times 10^{-9}} \mathrm{~J}=79.176 \times 10^{-17} \mathrm{~J}[/math]
+ [math]\hspace{1.5 cm}\Delta \mathrm{E}=\mathrm{E}_{1}-\mathrm{E}_{2}=0.384 \times 10^{-17} \mathrm{~J}[/math]
+ (যা অতি সামান্য)[math]\therefore ~[/math]
+ উক্তিটি সঠিক।
+
+Explanation:
+ব্যাখ্যা: ঘ সঠিক, কারণ কম্পটন বিক্ষিপ্তিতে তরঙ্গদৈর্ঘ্য বাড়ে এবং ফোটনের শক্তি কমে; সূত্র [math]\Delta\lambda=\frac{h}{mc}(1-\cos\theta)[/math]. এখানে [math]h=6.63\times10^{-34}\,\mathrm{Js},\;m=9.1\times10^{-31}\,\mathrm{kg},\;c=3.00\times10^8\,\mathrm{m/s},\;\theta=60^\circ[/math], ফলে [math]\Delta\lambda=2.43\times10^{-12}\times0.5=1.215\times10^{-12}\,\mathrm{m}=0.001215\,\mathrm{nm}[/math]. প্রাথমিক [math]\lambda=0.2500\,\mathrm{nm}[/math] হলে বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য প্রায় [math]0.251215\,\mathrm{nm}[/math] হয়, অর্থাৎ শক্তি [math]E=hc/\lambda[/math] অনুযায়ী প্রায় [math]0.49\%[/math] অনেক সামান্যভাবে কমে।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 431411)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় [math]0.4 \ \mathring{\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55^\circ[/math] কোণে বিক্ষিপ্ত হয়ে যায়। [গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \times 10^{-31} \mathrm{~kg}[/math], আলোর বেগ [math]=3 \times 10^{8} \mathrm{~m} / \mathrm{s}[/math] এবং প্লা ঙ্কের ধ্রুবক [math]=6.63 \times 10^{-34} \mathrm{~J}\text{-}\mathrm{s}[/math]]
+
+Options:
+ঘ. উদ্দীপকের আলোকে বিক্ষেপণের পূর্বে ও পরে ফোটনের তরঙ্গদৈর্ঘ্যের তুলনামূলক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+বিক্ষেপণের পূর্বে তরঙ্গদৈর্ঘ্য [math]=\lambda[/math]
+ ও[math]\hspace{1 cm}[/math]
+পরে তরঙ্গদৈর্ঘ্য [math]=\lambda^{\prime}[/math]
+ [math]\hspace{1 cm}[/math]
+বিক্ষেপণ কোণ, [math]\varphi=55^{\circ}[/math]
+ [math]\hspace{1 cm}[/math]
+ইলেকট্রনের ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+প্লাঙ্কের ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{~J}-\mathrm{s}[/math]
+ [math]\hspace{1 cm}[/math]
+তরঙ্গদৈর্ঘ্যের পার্থক্য, [math]\Delta \lambda[/math]
+ হলে,আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \lambda^{\prime}-\lambda & =\Delta \lambda=\frac{\mathrm{h}}{\mathrm{m}_{0} \mathrm{c}}(1-\cos \varphi) \\ & =\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 55^{\circ}\right) \\ & =0.10356 \times 10^{-11} \mathrm{~m}=0.010356 \mathring{A} \end{aligned}[/math]
+অতএব, বিক্ষেপণের পরে তরঙ্গদৈর্ঘ্য বিক্ষেপণের পূর্বের তরঙ্গদৈর্ঘ্য অপেক্ষা বেশি।
+
+Explanation:
+ব্যাখ্যা: কম্পটন বিচ্যুতি সূত্র [math]\Delta\lambda=\dfrac{h}{mc}(1-\cos\theta)[/math] প্রয়োগ করলে প্রথমে কম্পটন তরঙ্গদৈর্ঘ্য [math]\dfrac{h}{mc}\approx\dfrac{6.63\times10^{-34}}{9.1\times10^{-31}\times3\times10^8}\approx2.43\times10^{-12}\ \mathrm{m}=0.0243\ \mathring{\rm A}[/math] পাওয়া যায়। এর ফলে [math]\Delta\lambda=2.43\times10^{-12}(1-\cos55^\circ)\approx1.04\times10^{-12}\ \mathrm{m}=0.0104\ \mathring{\rm A}[/math] এবং বিচ্ছুরিত ফোটনের তরঙ্গদৈর্ঘ্য হবে [math]\lambda'=\lambda+\Delta\lambda\approx0.4+0.0104=0.4104\ \mathring{\rm A}[/math]। তাই ফোটনের তরঙ্গদৈর্ঘ্য বিক্ষেপণের পরে বেড়ে যায় (অর্থাৎ তার শক্তি কমে যায়)।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 431412)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]0.40nm[/math] তরঙ্গদৈর্ঘ্যের একটি ফোটন স্থিরাবস্থায় থাকা একটি ইলেকট্রনের সাথে সংঘর্ষের পর ফো টনটি পূর্বের গতিপথের সাপেক্ষে [math]150^\circ[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত ফোটনের বেগ ও তরঙ্গদৈর্ঘ্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : দেওয়া আছে, [math]\lambda_{0}=0.4 \mathrm{~nm}=4 \times 10^{-10} \mathrm{~m} \\ \mathrm{~m}_{0}=9.1 \times 10^{-31} \mathrm{~kg} \\ \mathrm{~h}=6.626 \times 10^{-34} \mathrm{Js} \\ \ \theta=150^{\circ}[/math]
+ধরি, বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য [math]=\lambda^{\prime}[/math]
+সুতরাং [math]\lambda^{\prime}-\lambda_{0}=\dfrac{h}{m_{0} c}(1-\cos \theta) \Rightarrow \lambda^{\prime}=\lambda_{0}+\dfrac{h}{m_{0} c}(1-\cos \theta)\\ =4 \times 10^{-10}+\frac{6.626 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 150^{\circ}\right)\\ =4.045 \times 10^{-10} \mathrm{~m}=0.4045 \mathrm{~nm} \text { (Ans.) }[/math]
+বিক্ষিপ্ত ফোটনের বেগ [math]=\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: এটি Compton বিস্তারের ঘটনা, যেখানে [math]\Delta\lambda=\lambda_C(1-\cos\theta)[/math] এবং [math]\lambda_C=\dfrac{h}{m_e c}=2.426\times10^{-12}\,\text{m}[/math]. এখানে [math]\theta=150^\circ[/math] হলে [math]1-\cos150^\circ=1-(-\tfrac{\sqrt3}{2})\approx1.8660[/math], তাই [math]\Delta\lambda\approx2.426\times10^{-12}\times1.8660\approx4.53\times10^{-12}\,\text{m}=0.00453\,\text{nm}[/math] এবং নতুন তরঙ্গদৈর্ঘ্য [math]\lambda'=\,0.40\,\text{nm}+0.00453\,\text{nm}\approx0.4045\,\text{nm}[/math]. ফোটনের বেগ শূন্যবেগে সবসময় [math]c\approx3.00\times10^8\ \text{m/s}[/math] থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 431413)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019-2020 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]0.40\mathring{\rm{A}}[/math] তরঙ্গ দৈর্ঘ্যের [math]\text{X-ray}[/math] ফোটন একটা নিশ্চল ইলেকট্রনকে আঘাত করলে [math]90^\circ[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত ফোটনের তরঙ্গ দৈর্ঘ্য নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]\lambda^{\prime}-\lambda=\dfrac{h}{m_{0} c}(1-\cos \theta) \Rightarrow \lambda^{\prime}=0.4 \times 10^{-10}+\dfrac{6.626 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}} \times\left(1-\cos 90^{\circ}\right) \\ =4.2427 \times 10^{-11} \mathrm{~m}=0.42427 \mathring{\rm{A}} \text { (Ans.) }[/math]
+
+Explanation:
+কম্পটন সূত্র ব্যবহার করলেই হবে: [math]\Delta\lambda=\frac{h}{m_ec}(1-\cos\theta)[/math],  [math]\theta=90^\circ[/math] হলে [math](1-\cos\theta)=1[/math], তাই [math]\Delta\lambda=\lambda_C=\frac{h}{m_ec}=2.426\times10^{-12}\,\text{m}=0.02426\mathring{\rm{A}}[/math]. শুরুতে [math]0.40\mathring{\rm{A}}[/math] থাকায় বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য হবে [math]\lambda'=0.40+0.02426=0.42426\mathring{\rm{A}}\approx0.424\mathring{\rm{A}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 431414)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Jagannath University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+কম্পটন বিক্ষেপণ (compton effect) কি? কম্পটন বিক্ষেপণে একটি ফোটনের তরঙ্গ দৈর্ঘ্যের (pho ton wave length) সর্বোচ্চ পরিবর্তন বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Answer : একবর্ণী এক্স রশ্মির বিক্ষেপণের ফলে বিক্ষিপ্ত বিকিরণের তরঙ্গদৈর্ঘ্য অথবা কম্পাংকের পরিবর্তন ঘটে। এই ঘটনা বা ক্রিয়াকে কম্পটন বিক্ষেপণ বলে।Answer : [math]0.048\mathring{A}[/math]
+ [math]\\[/math]
+Solution : [math]\Delta \lambda=\dfrac{h}{m_{0} \mathrm{C}}(1-\cos \varphi) ; \varphi=180^{\circ}[/math]
+ হলে [math]\Delta \lambda \text { maximum }[/math]
+ [math]\therefore \Delta \lambda_{\max }=\dfrac{h}{m_{0} \mathrm{c}}(1+1)=\dfrac{2 h}{m_{0} \mathrm{c}}=2 \times 0.024 \mathring{A}=0.048 \mathring{A} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: কম্পটন বিক্ষেপণ হল এমন একটি ঘটনা যেখানে একটি ফোটন স্বাধীন ইলেকট্রনের সঙ্গে সংঘর্ষ করে এবং শক্তি-গতিসমরক্ষণে ফোটনের তরঙ্গদৈর্ঘ্য বৃদ্ধি পায় (শিফট হয়)। শক্তি ও কণার গতিসমরক্ষণ থেকে প্রাপ্ত সূত্র হল [math]\Delta\lambda=\lambda'-\lambda=\frac{h}{m c}(1-\cos\theta)[/math], এবং সর্বোচ্চ পরিবর্তন যখন ফোটন পুরোপুরি উল্টোদিকে ছিটকে যায় ([math]\theta=\pi[/math]) তখন হয় [math]\Delta\lambda_{\max}=\frac{2h}{m c}[/math] (এখানে [math]h[/math] প্ল্যাঙ্ক ধ্রুবক, [math]m[/math] ইলেকট্রনের ভর, [math]c[/math] আলোগতিবেগ)।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 431415)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় 0.4Å তরঙ্গ দৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55°[/math] কোণে বিক্ষিপ্ত হয়ে যায়।
+
+[গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \times 10^{-31} \mathrm {~kg}[/math], আলোর বেগ [math]=9.1 \times 10^{-31} \mathrm{~kg}[/math] এবং প্ল্যাংকের ধ্রুবক [math]=6.63 \times 10^{-34}Js.[/math]]
+
+Options:
+গ. উদ্দীপকের আপতিত ফোটনের শক্তি কত?
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,আপতিত ফোটনের তরঙ্গদৈর্ঘ্য, [math]\lambda = 0.4 \times 10^{-10}[/math]
+mপ্ল্যাংকের ধ্রুবক, h = 6.63 × [math]10^{-34}[/math]
+J.sআলোর দ্রুতি, [math]3 \times 10^8 ms^{-1}[/math]
+আপতিত ফোটনের শক্তি, E = ?আমরা জানি,[math]\begin{aligned}E & =\frac{h \mathrm{c}}{\lambda} \\& =\frac{6.63 \times 10^{-34} \mathrm{~J} \mathrm{~s} \times 3 \times 10^{8} \mathrm{~ms}^{-1}}{0.4 \times 10^{-10} \mathrm{~m}} \\& =4.9725 \times 10^{-15} \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: উদ্দীপকের আপতিত ফোটনের শক্তি নির্ণয় করতে ব্যবহার করি [math]E=\dfrac{hc}{\lambda}[/math]; এখানে [math]h=6.63\times10^{-34}\ \mathrm{Js},\ c=3.0\times10^{8}\ \mathrm{m/s},\ \lambda=0.4\ \text{Å}=4.0\times10^{-11}\ \mathrm{m}[/math]. তাই [math]E=\dfrac{6.63\times10^{-34}\times3.0\times10^{8}}{4.0\times10^{-11}}=4.97\times10^{-15}\ \mathrm{J}\approx3.10\times10^{4}\ \mathrm{eV}=31.0\ \mathrm{keV}[/math]; কেবল তরঙ্গদৈর্ঘ্য দিয়েই আপতিত ফোটনের শক্তি নির্ণয় করা যায়, বিক্ষিপ্ত কোণ এখানে আপতিত শক্তি বদলায় না।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 431416)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় 0.4Å তরজাদৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55°[/math] কোণে বিক্ষিপ্ত হয়ে যায়।
+
+[গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \times 10^{-31} \mathrm {~kg}[/math], আলোর বেগ [math]=9.1 \times 10^{-31} \mathrm{~kg}[/math] এবং প্ল্যাংকের ধ্রুবক [math]=6.63 \times 10^{-34}Js.[/math]]
+
+Options:
+ঘ. উদ্দীপকের আলোকে বিক্ষেপণের পূর্বে ও পরে ফোটনের তরঙ্গদৈর্ঘ্যের তুলনামূলক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘদেওয়া আছে,আপতিত রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda = 0.4A^\circ = 0.4 \times 10^{-10}[/math]
+ mস্থির ইলেকট্রনের ভর, [math]m_0 = 9.1 × 10^{-31}[/math]
+ kgআলোর বেগ, c = 3 [math]\times 10^8[/math]
+বিক্ষেপণ কোণ, [math]\theta[/math]
+ = 55°প্ল্যাংকের ধ্রুবক, h = 6.63 [math]\times 10^{-34}[/math]
+J.sআমরা জানি,বিক্ষেপিত ফোটনের তরঙ্গদৈর্ঘ্য,[math]\begin{array}{l}\lambda^{\prime}=\lambda+\frac{h}{m_{0} c}(1-\cos \theta) \\=0.4 \times 10^{-10}+\frac{6.63 \times 10^{-34}}{9.1 \times 10^{-31} \times 3 \times 10^{8}}\left(1-\cos 55^{\circ}\right)^{\prime} \\=4.10356 \times 10^{-11} \mathrm{~m} \\>0.4 \times 10^{-10} \mathrm{~m}(= \lambda)\end{array}[/math]
+সুতরাং গাণিতিক বিশ্লেষণে দেখা যাচ্ছে যে, বিক্ষেপণের পূর্বে ফোটনের তরঙ্গদৈর্ঘ্য, বিক্ষেপণের পরের তরঙ্গদৈর্ঘ্য অপেক্ষা কম ।
+
+Explanation:
+ঘ ব্যাখ্যা: কম্পটন বিচ্ছুরণের ফলে ফোটন ইলেকট্রনকে কিছু শক্তি দিলে ফোটনের তরঙ্গদৈর্ঘ্য বাড়ে; এ জন্য [math]\Delta\lambda=\frac{h}{mc}(1-\cos\theta)[/math]. এখানে [math]\frac{h}{mc}\approx2.43\times10^{-12}\,\mathrm{m}=0.0243\AA[/math], এবং [math]1-\cos55^\circ\approx0.4264[/math], তাই [math]\Delta\lambda\approx1.04\times10^{-12}\,\mathrm{m}=0.0104\AA[/math]. সুতরাং প্রারম্ভিক [math]0.4\AA[/math] তরঙ্গদৈর্ঘ্য বিক্ষেপণের পরে প্রায় [math]0.4104\AA[/math] হবে (অর্থাৎ তরঙ্গদৈর্ঘ্য বেড়েছে)।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 431417)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কার্বন খণ্ড থেকে [math]10 \ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]X[/math] রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60°[/math] কোণে বিক্ষিপ্ত হয়।
+
+Options:
+গ. বিক্ষিপ্ত [math]X[/math] রশ্মির সর্বোচ্চ তরঙ্গ দৈর্ঘ্য নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,X-রশ্মির আদি তরঙ্গদৈর্ঘ্য, [math]\lambda = 10pm = 10 × 10^12[/math]
+ mইলেকট্রনের ভর, [math]m_e = 9.11 × 10^{-31}[/math]
+ kgবিক্ষিপ্ত কোণ, [math]\theta[/math]
+ = 60°আলোর বেগ, c = 3 × [math]10^8 ms^{-1}[/math]
+বিক্ষিপ্ত রশ্মির সর্বোচ্চ তরঙ্গদৈর্ঘ্য, Y' হলে,[math]\begin{aligned}\cdot \lambda^{\prime} & -\lambda=\frac{h}{m_{e} \mathrm{c}}(1-\cos \theta) \\\text { } \lambda^{\prime} & =\lambda+\frac{h}{m_{e} \mathrm{c}}(1-\cos \theta) \\& =10 \times 10^{-12}+\frac{6.63 \times 10^{-34}}{9.11 \times 10^{-31} \times 3 \times 10^{8}} \times\left(1-\cos 60^{\circ}\right) \\& =10 \times 10^{-12}+1.213 \times 10^{-12} \\& =11.213 \times 10^{-12} \mathrm{~m} \\& =11.213 \mathrm{pm} \text { (Ans) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ বিক্ষিপ্ত রশ্মির সর্বোচ্চ তরঙ্গ দৈর্ঘ্য হলো [math]11.215\ \text{pm}[/math]।
+
+ব্যাখ্যা: কম্পটন শিফট সূত্রে [math]\Delta\lambda=\lambda_c(1-\cos\theta)[/math] যেখানে [math]\lambda_c=\dfrac{h}{m_ec}\approx2.43\ \text{pm}[/math]. এখানে [math]\theta=60^\circ,\ \cos60^\circ=0.5[/math], তাই [math]\Delta\lambda=2.43(1-0.5)=1.215\ \text{pm}[/math] এবং বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\lambda'=10+1.215=11.215\ \text{pm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 431418)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কার্বন খণ্ড থেকে [math]10 \ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]X[/math] রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60°[/math] কোণে বিক্ষিপ্ত হয়।
+
+Options:
+ঘ. বিক্ষিপ্ত ইলেকট্রনের সর্বোচ্চ গতিশক্তি নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘX-রশ্মি ও ইলেকট্রনের সংঘর্ষের সময় আপতিত রশ্মির কমপাঙ্ক ও বিক্ষিপ্ত রশ্মির কম্পাঙ্ক [math]f[/math]
+ হলে, শক্তির নিত্যতার সূত্রানুসারে[math]\mathrm{h} f+\mathrm{m}_{0} \mathrm{c}^{2}=\mathrm{h} f^{\prime}+\mathrm{mc}^{2}=[/math]
+এখানে, [math]m_0[/math]
+ ও m যথাক্রমে ইলেকট্রনের নিশ্চল ও গতীয় ভর ।[math]\begin{array}{l}m c^{2}-m_{0} c^{2}=h f-h f^{\prime} \\\Rightarrow K=\frac{h c}{\lambda}-\frac{h c}{\lambda^{\prime}}\end{array}[/math]
+ইলেকট্রনের গতিশক্তি সর্বোচ্চ হবে যখন ' সর্বোচ্চ হবে। বিক্ষিপ্ত রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda'[/math]
+ হবে,[math]\lambda^{\prime}=\lambda+\frac{h}{m_{0} c}(1-\cos \theta)[/math]
+ [math]\lambda'[/math]
+ সর্বোচ্চ হবে যখন, [math]\theta[/math]
+ = 180°[math]\begin{aligned}\therefore \lambda_{\text {max }}^{\prime} & =\lambda+\frac{h}{m_{0} c}\left(1-\cos 180^{\circ}\right) \\& =\lambda+\frac{h}{m_{0} c}(1+1) \\& =\lambda+\frac{2 h}{m_{0} c}\end{aligned}[/math]
+ [math]\begin{aligned}\therefore \mathrm{K}_{\max } & =\frac{\mathrm{hc}}{\lambda}-\frac{\mathrm{hc}}{\lambda+\frac{2 \mathrm{~h}}{\mathrm{~m}_{0} \mathrm{c}}} \\& =\mathrm{hc}\left(\frac{1}{\lambda}-\frac{1}{\lambda+\frac{2 \mathrm{~h}}{\mathrm{~m}_{0} \mathrm{c}}}\right) \\& =6.5 \times 10^{-15} \\& =40.57 \mathrm{MV}\end{aligned}[/math]
+অর্থাৎ, উদ্দীপকের X-রশ্মির সাথে ইলেকট্রনের সংঘর্ষের ফলে বিক্ষিপ্ত ইলেকট্রনের সর্বোচ্চ গতিশক্তি হবে 40.57 MV |
+
+Explanation:
+ব্যাখ্যা:
+ঘ কম্পটন সরে যাওয়ার সূত্র [math]\Delta\lambda=\dfrac{h}{mc}(1-\cos\theta)[/math] প্রয়োগ করলে [math]\theta=60^\circ[/math] হলে [math]\Delta\lambda=\tfrac12\lambda_c\approx1.213\ \text{pm}</math], তাই বিচ্ছুরিত তরঙ্গদৈর্ঘ্য [math]\lambda'=11.213\ \text{pm}</math]. ফটনের শক্তি ক্ষয়ই ইলেকট্রনের সর্বোচ্চ গতিশক্তি, তাই [math]K=hc\Big(\dfrac{1}{\lambda}-\dfrac{1}{\lambda'}\Big)\approx1.2398\times10^{6}\Big(\dfrac{1}{10}-\dfrac{1}{11.213}\Big)\ \text{eV}\approx1.34\times10^{4}\ \text{eV}\;(13.4\ \text{keV}).
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 431419)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। ইলেকট্রনের নিশ্চল ভর [math]9.1 \times 10^{-31} kg[/math] এবং প্ল্যাংকের ধ্রুবক [math]6.63 \times 10^{-34} \ Js[/math]
+
+Options:
+গ. বিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: এটি কম্পটন বিচ্ছুরণ, যেখানে তরঙ্গদৈর্ঘ্যের পরিবর্তন [math]\Delta\lambda=\frac{h}{mc}(1-\cos\theta)[/math]. এখানে [math]\frac{h}{mc}=\frac{6.63\times10^{-34}}{9.1\times10^{-31}\times3.00\times10^8}=2.43\times10^{-12}\,{\rm m}=0.00243\,{\rm nm}[/math], তাই [math]\Delta\lambda=2.43\times10^{-12}\times(1-\cos60^\circ)=1.215\times10^{-12}\,{\rm m}=0.001215\,{\rm nm}[/math], ফলে বিচ্ছুরিত তরঙ্গদৈর্ঘ্য [math]\lambda'=0.2500+0.001215=0.251215\,{\rm nm}\approx0.2512\,{\rm nm}[/math]. গ উত্তর: [math]0.2512\ {\rm nm}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 431420)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। ইলেকট্রনের নিশ্চল ভর [math]9.1 \times 10^{-31} kg[/math] এবং প্ল্যাংকের ধ্রুবক [math]6.63 \times 10^{-34} \ Js[/math]
+
+Options:
+ঘ. বিক্ষিপ্ত এক্স রাশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম— গাণিতিক যুক্তির মাধ্যমে এর সত্যতা যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘআপতিত রশ্মির শক্তি,[math]\begin{aligned}\mathrm{E} & =\frac{\mathrm{hc}}{\lambda}=\frac{6.63 \times 10^{-34} \mathrm{~J} . \mathrm{s} \times 3 \times 10^{8} \mathrm{~ms}^{-1}}{0.25 \times 10^{-9} \mathrm{~m}} \\& =7.956 \times 10^{-16} \mathrm{~J}\end{aligned}[/math]
+বিক্ষিপ্ত এক্স-রশ্মির শক্তি,[math]\begin{aligned}\mathrm{E}^{\prime}=\frac{\mathrm{hc}}{\lambda^{\prime}} & =\frac{6.63 \times 10^{-34} \mathrm{J.s} \times 3 \times 10^{8} \mathrm{~ms}^{-1}}{0.2512 \times 10^{-9} \mathrm{~m}} \\& =7.918 \times 10^{-16} \mathrm{~J}<7.956 \times 10^{-16} \mathrm{~J}\end{aligned}[/math]
+সুতরাং বিক্ষিপ্ত এক্স-রশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম
+
+Explanation:
+ঘ ব্যাখ্যা: কম্পটন বিচ্ছুরণের সূত্র [math]\Delta\lambda=\frac{h}{mc}(1-\cos\theta)[/math] প্রয়োগ করলে [math]\frac{h}{mc}=\frac{6.63\times10^{-34}}{9.1\times10^{-31}\times3.00\times10^8}\approx2.43\times10^{-12}\ \text{m}=0.00243\ \text{nm}[/math] এবং [math]\Delta\lambda=0.5\times0.00243\ \text{nm}=0.001215\ \text{nm}[/math]. তাই বিচ্ছুরিত তরঙ্গদৈর্ঘ্য [math]\lambda'=0.2500+0.001215=0.251215\ \text{nm}[/math], এবং শক্তি [math]E=hc/\lambda[/math] অনুযায়ী শক্তি প্রায় [math]0.486\%[/math] কমে—অর্থাৎ বিচ্ছুরিত এক্স-রশ্মির শক্তি আপতিত রশ্মির চেয়ে সামান্য কম।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 431421)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল
+
+ভর [math]9.1 \times 10^{-31}[/math] এবং প্ল্যাঙ্কের ধ্রুবক [math]6.63 \times 10^{-34} \ Js[/math]
+
+Options:
+গ. বিক্ষিপ্ত এক্স-রশ্মিটির তরঙ্গদৈর্ঘ্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,আপতিত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda = 0.25 nm = 0.25 \times 10^{-9}[/math]
+ mবিক্ষেপণ কোণ, [math]\theta[/math]
+ = 60°ইলেকট্রনের নিশ্চল ভর, mo = 9.1 × 10^{-31}$ kgপ্লাংকের ধ্রুবক, h = 6.63 [math]\times 10^{-34}[/math]
+ J.sবিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য, [math]\lambda'[/math]
+ = ?আমরা জানি [math]\lambda^{\prime}=\lambda+\frac{h}{m_{0} c}(1-\cos \theta)[/math]
+ [math]\begin{array}{l}\doteq 0.25 \times 10^{-9} \mathrm{~m}+\frac{6.63 \times 10^{-34} \mathrm{J.s}}{9.1 \times 10^{-31} \mathrm{~kg} \times 3 \times 10^{8} \mathrm{~ms}^{-1}}\left(1-\cos 60^{\circ}\right) \\=2.512 \times 10^{-10} \mathrm{~m} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য নির্ণয়ের জন্য কম্পটন শিফট ব্যবহার করি: [math]\Delta \lambda=\frac{h}{mc}(1-\cos\theta)[/math]. এখানে [math]\frac{h}{mc}\approx2.43\times10^{-12}\ \text{m}[/math] এবং [math](1-\cos60^\circ)=0.5[/math], তাই [math]\Delta\lambda=1.215\times10^{-12}\ \text{m}=0.001215\ \text{nm}[/math]. আগের তরঙ্গদৈর্ঘ্য [math]0.2500\ \text{nm}[/math] যোগ করলে বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\lambda'=0.2500+0.001215=0.251215\ \text{nm}\approx0.2512\ \text{nm}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 431422)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল
+
+ভর [math]9.1 \times 10^{-31}[/math] এবং প্ল্যাঙ্কের ধ্রুবক [math]6.63 \times 10^{-34} \ Js[/math]
+
+Options:
+ঘ. বিক্ষিপ্ত এক্স-রশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম — গাণিতিকভাবে বিশ্লেষণে র মাধ্যমে এর সত্যতাযাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: ঘ সঠিক — Compton সূত্র অনুযায়ী [math]\Delta\lambda=\frac{h}{m_e c}(1-\cos\theta)[/math]. এখানে [math]\lambda_c=\frac{h}{m_e c}\approx\frac{6.63\times10^{-34}}{9.1\times10^{-31}\times3.00\times10^8}\approx2.43\times10^{-12}\ \text{m}=0.00243\ \text{nm}[/math], তাই [math]\Delta\lambda=0.5\lambda_c\approx1.215\times10^{-12}\ \text{m}=0.001215\ \text{nm}[/math], যা আপতিত [math]0.2500\ \text{nm}[/math]-এর মাত্র ≈[math]0.49\%[/math]; ফলে বিক্ষিপ্ত ফোটনের শক্তি (যা [math]E=hc/\lambda[/math]-এর অনুপাত) কেবল অতি সামান্যভাবে কমে।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 431423)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রোটনের কম্পটন তরঙ্গদৈর্ঘ্য কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]1.32 \times 10^{-15}m[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রোটনের ভর, [math]\mathrm{m}_{\mathrm{p}}=1.672 \times 10^{-27} \mathrm{~kg}[/math]
+প্ল্যাঙ্কের ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{Js}[/math]
+বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+কম্পটন তরঙ্গদৈর্ঘ্য, [math]\lambda_{c}=?[/math]
+ [math]\\[/math]
+আমরা জানি,কম্পটন তরঙ্গদৈর্ঘ্য,[math]\lambda_{\mathrm{c}}=\frac{\mathrm{h}}{\mathrm{mc}}[/math]
+ [math]\begin{array}{l} =\frac{6.63 \times 10^{-34} \mathrm{Js}}{1.672 \times 10^{-27} \mathrm{~kg} \times 3 \times 10^{8} \mathrm{~ms}^{-1}} \\ =1.32 \times 10^{-15} \mathrm{~m} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কম্পটন তরঙ্গদৈর্ঘ্য সংজ্ঞায়িত করা হয় [math]\lambda_C=\dfrac{h}{mc}[/math] দ্বারা, তাই প্রোটনের জন্য [math]m=m_p[/math] বসিয়ে গণনা করলে পাওয়া যায় [math]\lambda_{C,p}\approx 1.321\times10^{-15}\ \text{m}\ (\approx1.321\ \text{fm})[/math], কারণ হিগস্‌-স্থিরांक ও আলোর গতি ব্যবহার করলে এই মানেই ফলায়।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 431424)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ফোটন একটি স্থির ইলেকট্রন দ্বারা [math]60°[/math] কোণে বিক্ষিপ্ত হয়। ফোটনের তরঙ্গদৈর্ঘ্য বৃদ্ধি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.01227[/math]
+Å[math]\\[/math]
+ [math][/math]
+এখানে,বিক্ষেপণ কোণ, [math]\theta = 60^{\circ}[/math]
+ইলেকট্রনের ভর, [math]m=9.1 \times 10^{-31}kg[/math]
+ফোটনের বেগ, [math]c=3 \times 10^{8}ms^{-1}[/math]
+প্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \times 10^{-34}J \ s[/math]
+তরঙ্গদৈর্ঘ্য বৃদ্ধি, [math]\Delta \lambda = ?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \Delta \lambda & =\frac{h}{m_{0} \mathrm{c}}(1-\cos \theta) \\ & =\frac{6.63 \times 10^{-34}}{9 \times 10^{-31} \times 3 \times 10^{8}}(1-\cos 60^{\circ})\end{aligned}[/math]
+ [math]\quad \quad = 0.01227[/math]
+Å [math](Ans.)[/math]
+
+
+Explanation:
+কম্পটন ইফেক্ট অনুযায়ী ফোটনের তরঙ্গদৈর্ঘ্যের বৃদ্ধি হল [math]Δ\lambda=\frac{h}{m_e c}(1-\cos\theta)[/math], যেখানে [math]\frac{h}{m_e c}=2.426\times10^{-12}\ \text{m}[/math]. [math]\theta=60^\circ[/math] হলে [math]1-\cos60^\circ=1-\tfrac{1}{2}=\tfrac{1}{2}[/math], তাই [math]Δ\lambda=\tfrac{1}{2}\times2.426\times10^{-12}=1.213\times10^{-12}\ \text{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 431425)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ফোটনের প্রাথমিক কম্পাঙ্ক [math]2.4 \times 10^{16} \mathrm{~Hz}[/math]। একটি স্থির ইলেক্ট্রন দ্বারা বিক্ষেপণের পর ফোটনের কম্পাঙ্ক [math]1.9 \times 10^{16}Hz[/math] হয়। বিক্ষেপণের পর ইলেকট্রনের গতিশক্তি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3.315 \times 10^{-18}[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]\begin{aligned} \mathrm{f}_{\mathrm{1}} & =2.4 \times 10^{16} \mathrm{~Hz} \\ \mathrm{f}_{2} & =1.9 \times 10^{16} \mathrm{~Hz} \\ \therefore & \Delta \mathrm{f}=\mathrm{f}_{1}-\mathrm{f}_{2} \\ & =\left(2.4 \times 10^{16}-1.9 \times 10^{16}\right) \mathrm{Hz} \\ & =0.5 \times 10^{16} \mathrm{~Hz} \end{aligned}[/math]
+প্ল্যাঙ্ক ধ্রুবক, [math]\mathrm{h}=6.63 \times 10^{-34} \mathrm{Js}[/math]
+ [math]\therefore[/math]
+ গতিশক্তি, [math]E=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{E} & =\mathrm{h} \Delta \mathrm{f} \\ & =6.63 \times 10^{-34} \mathrm{Js} \times 0.5 \times 10^{16} \mathrm{~Hz} \\ & =3.315 \times 10^{-18} \mathrm{~J} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ফোটনের কম্পাঙ্ক হ্রাসে হারানো শক্তি ইলেকট্রনের গতিশক্তি পায়, তাই [math]\Delta E = h(\nu_i-\nu_f)[/math]. এখানে [math]\nu_i=2.4\times10^{16}\,\text{Hz},\ \nu_f=1.9\times10^{16}\,\text{Hz}[/math], ফলে [math]\Delta\nu=5.0\times10^{15}\,\text{Hz}[/math] এবং [math]\Delta E=6.626\times10^{-34}\times5.0\times10^{15}=3.31\times10^{-18}\,\text{J}\approx20.7\,\text{eV}[/math].
+
+Sub-Questions:
+

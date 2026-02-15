@@ -1,0 +1,840 @@
+================================================================================
+Question #1 (ID: 410362)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{cc}5 & 6 \\-2 & 3\end{array}\right][/math] হলে [math]A^{-1}[/math] হবে -
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]\mathrm{A}^{-1}=\frac{1}{15+12}[/math]
+ [math]\left[\begin{array}{cc}3 & -6 \\2 & 5\end{array}\right][/math]
+ [math]=\frac{1}{27}\left[\begin{array}{cc}3 & -6 \\2 & 5\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা: ২×২ ম্যাট্রিক্সের ইনভার্সের সূত্র [math]A^{-1}=\frac{1}{ad-bc}\begin{pmatrix}d&-b\\-c&a\end{pmatrix}[/math]. এখানে [math]a=5,b=6,c=-2,d=3[/math], তাই [math]\det A=5\cdot3-6\cdot(-2)=27[/math] এবং [math]A^{-1}=\frac{1}{27}\begin{pmatrix}3&-6\\2&5\end{pmatrix}[/math], যা অপশন A-এর সাথে মিলে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 410378)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}1 & 3 & 3 \\3 & 1 & 3 \\3 & 3 & 1\end{array}\right][/math]
+
+Options:
+ক. বিপ্রতিসম ম্যাট্রিক্স ব্যাখ্যা কর ।
+খ. উদ্দীপকের আলোকে প্রমাণ কর যে, [math]A^{2}-5 A-1 {4}[/math] একটি শূন্য ম্যাট্রিক্স ।
+গ. উদ্দীপকের আলোকে [math]\mathrm{A}^{-1}[/math] নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+কএকটি বর্গ ম্যাট্রিক্স [math]A=\left(a_{i j}\right)_{n \times n}[/math]
+ কে বিপ্রতিসম ম্যাট্রিক্স বলা হবেযদি [math]A^{t}=-A[/math]
+ হয়, অর্থাৎ [math]a_{i j}=-a_{j i}[/math]
+ হয়।উদাহরণ: [math]A=\left[\begin{array}{rrr}0 & 3 & 4 \\-3 & 0 & 7 \\-4 & -7 & 0\end{array}\right][/math]
+ হলে[math]A^{t}=\left[\begin{array}{rrr}0 & -3 & -4 \\3 & 0 & -7 \\4 & 7 & 0\end{array}\right][/math]
+ [math]=-\left[\begin{array}{rrr}0 & 3 & 4 \\-3 & 0 & 7 \\-4 & -7 & 0\end{array}\right][/math]
+ [math]=-A[/math]
+অর্থাৎ [math]A^{t}=-A[/math]
+ সুতরাং A হলো একটি বিপ্রতিসম ম্যাট্রিক্স।উল্লেখ্য যে, প্রত্যেক বিপ্রতিসম ম্যাট্রিক্সের প্রধান কর্ণের ভুক্তিসমূহশূন্য, অর্থাৎ [math]a_{i j}=0[/math]
+ যখন [math]i =j[/math]
+ খদেওয়া আছে,[math]A=\left[\begin{array}{lll}1 & 3 & 3 \\3 & 1 & 3 \\3 & 3 & 1\end{array}\right][/math]
+ [math]\therefore A^{2}=A, A =[/math]
+ [math]\left[\begin{array}{lll}1 & 3 & 3 \\3 & 1 & 3 \\3 & 3 & 1\end{array}\right][/math]
+ [math]\left[\begin{array}{lll}1 & 3 & 3 \\3 & 1 & 3 \\3 & 3 & 1\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ll}1+9+9 & 3+3+9 \\3+3+9 & 9+1+9 \\3+9+3 & 9+3+3\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}3+9+3 \\9+3+3 \\9+9+1\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}19 & 15 & 15 \\15 & 19 & 15 \\15 & 15 & 19\end{array}\right][/math]
+এখন, [math]A^{2}-5 A-14 I[/math]
+ [math]\Rightarrow \left[\begin{array}{lll}19 & 15 & 15 \\15 & 19 & 15 \\15 & 15 & 19\end{array}\right][/math]
+ [math]-5\left[\begin{array}{lll}1 & 3 & 3 \\3 & 1 & 3 \\3 & 3 & 1\end{array}\right][/math]
+ [math]-14\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}19 & 15 & 15 \\15 & 19 & 15 \\15 & 15 & 19\end{array}\right]-\left[\begin{array}{rrr}5 & 15 & 15 \\15 & 5 & 15 \\15 & 15 & 5\end{array}\right]-\left[\begin{array}{ccc}14 & 0 & 0 \\0 & 14 & 0 \\0 & 0 & 14\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ll}19-5-14 & 15-15-0 \\15-15-0 & 19-5-14 \\15-15-0 & 15-15-0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}15-15-0 \\15-15-0 \\19-5-14\end{array}\right][/math]
+ [math]\Rightarrow \left[\begin{array}{lll}0 & 0 & 0 \\0 & 0 & 0 \\0 & 0 & 0\end{array}\right][/math]
+ যা একটি শূন্য ম্যাট্রিক্স[math]\therefore A^{2}-5 A-14 I[/math]
+ একটি শূন্য ম্যাট্রিক্স।(প্রমাণিত)[math]\\[/math]
+ গদেওয়া আছে, [math]A=\left[\begin{array}{lll}1 & 3 & 3 \\3 & 1 & 3 \\3 & 3 & 1\end{array}\right][/math]
+ [math]\therefore|A| =1(1-9)[/math]
+ [math]-3(3-9)+3(9-3)[/math]
+ [math]=-8+18+18[/math]
+ [math]=28 
+eq 0[/math]
+ [math]\therefore A[/math]
+ ম্যাট্রিক্সটি বিপরীতযোগ্য[math]\operatorname{adjA}=[/math]
+ [math]\left[\begin{array}{ll}\left|\begin{array}{ll}1 & 3 \\3 & 1\end{array}\right|-\left|\begin{array}{ll}3 & 3 \\3 & 1\end{array}\right|\left|\begin{array}{ll}3 & 1 \\3 & 3\end{array}\right| \\-\left|\begin{array}{ll}3 & 3 \\3 & 1\end{array}\right|\left|\begin{array}{ll}1 & 3 \\3 & 1\end{array}\right|-\left|\begin{array}{ll}1 & 3 \\3 & 3\end{array}\right| \\\left|\begin{array}{ll}3 & 3 \\1 & 3\end{array}\right|-\left|\begin{array}{ll}1 & 3 \\3 & 3\end{array}\right|\left|\begin{array}{ll}1 & 3 \\3 & 1\end{array}\right|\end{array}\right]^{}[/math]
+ [math]\Rightarrow \left[\begin{array}{rrr}-8 & 6 & 6 \\6 & -8 & 6 \\6 & 6 & -8\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rrr}-8 & 6 & 6 \\6 & -8 & 6 \\6 & 6 & -8\end{array}\right][/math]
+ [math]\therefore A^{-1}=\frac{\operatorname{adj} A}{|A|}=\frac{1}{28}[/math]
+ [math]\left[\begin{array}{rrr}-8 & 6 & 6 \\6 & -8 & 6 \\6 & 6 & -8\end{array}\right] \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক বিপ্রতিসম (skew‑symmetric) ম্যাট্রিক্সের সংজ্ঞা হল [math]A^{T}=-A[/math], ফলে প্রধান উপাদানগুলো শূন্য হয়। প্রদত্ত [math]A[/math]-এর ক্ষেত্রে [math]A^{T}=A[/math], তাই এটি বিপ্রতিসম নয় (এটি সমম্যাট্রিক)।
+
+খ যদি [math]J[/math] হয় সবগুলো উপাদান 1-এর [math]3\times3[/math] ইউনিটি ম্যাট্রিক্স, তবে [math]A=3J-2I[/math] এবং [math]J^{2}=3J[/math]; তা থেকে [math]A^{2}=(3J-2I)^{2}=9J^{2}-12J+4I=15J+4I[/math] এবং [math]5A=15J-10I[/math], ফলে [math]A^{2}-5A-14I=(15J+4I)-(15J-10I)-14I=0[/math] শূন্য ম্যাট্রিক্স হয়।
+
+গ উপরের সমীকরণ থেকে [math]A(A-5I)=14I[/math], তাই [math]A^{-1}=\tfrac{1}{14}(A-5I)[/math]; এতে অন্তর্ভুক্তভাবে [math]A^{-1}=\tfrac{1}{14}(3J-7I)= -\tfrac{1}{2}I+\tfrac{3}{14}J[/math], অর্থাৎ সর্বজনীন রূপে
+[math]A^{-1}=\begin{pmatrix}-\tfrac{2}{7} & \tfrac{3}{14} & \tfrac{3}{14}\\[4pt]\tfrac{3}{14} & -\tfrac{2}{7} & \tfrac{3}{14}\\[4pt]\tfrac{3}{14} & \tfrac{3}{14} & -\tfrac{2}{7}\end{pmatrix}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 410379)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{rrr}1 & 0 & -1 \\1 & 2 & 1 \\2 & 2 & 3\end{array}\right][/math] একটি ম্যাট্রিক্স ।
+
+Options:
+ক. [math]\left|\begin{array}{rrr}4 & 3 & 2 \\-1 & 0 & -3 \\7 & 5 & -6\end{array}\right|[/math] নির্ণায়কের [math](1,2)[/math] তম ভুক্তির অনুরাশি ও [math]({3}, 1)[/math] তম ভুক্তির সহগুণকের মান নির্ণয় কর।
+খ. প্রমাণ কর যে, [math]A^{3}-6 A^{2}+11 A-6 I=0[/math]
+গ. [math]B=\operatorname{adj} A[/math] হলে দেখাও যে, [math]|\mathrm{B}|=6|\mathrm{~A}|[/math]
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\left[\begin{array}{rrr}4 & 3 & 2 \\-1 & 0 & -3 \\7 & 5 & -6\end{array}\right][/math]
+ নির্ণায়কের [math](1, 2)[/math]
+-তম ভুক্তির অনুরাশি[math]=\left|\begin{array}{ll}-1 & -3 \\7 & -6\end{array}\right|[/math]
+ [math]=6-(-21)=27[/math]
+এবং [math](3, 1)[/math]
+-তম ভুক্তির সহগুণক [math]=(-1)^{3+1}\left|\begin{array}{rr}3 & 2 \\0 & -3\end{array}\right|[/math]
+ [math]=-9-0=-9 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খ [math]A^{2}=A \cdot A=\left[\begin{array}{rrr}1 & 0 & -1 \\1 & 2 & 1 \\2 & 2 & 3\end{array}\right][/math]
+ [math]\left[\begin{array}{rrr}1 & 0 & -1 \\1 & 2 & 1 \\2 & 2 & 3\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}=1+0-2 & 0+0-2 \\1+2+2 & 0+4+2 \\2+2+6 & 0+4+6\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}-1+0-3 \\-1+2+3 \\-2+2+9\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}-1 & -2 & -4 \\5 & 6 & 4 \\10 & 10 & 9\end{array}\right][/math]
+ [math]A^{3}=A^{2} \cdot A=\left[\begin{array}{rrr}-1 & -2 & -4 \\5 & 6 & 4 \\10 & 10 & 9\end{array}\right]\left[\begin{array}{rrrr}1 & 0-1 & \\1 & 2 & 1 \\2 & 2 & 3\end{array}\right][/math]
+ [math]=\left[\begin{array}{rr}-1-2-8 & 0-4-8 \\5+6+8 & 0+12+8 \\10+10+18 & 0+20+18\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{r}1-2-12 \\-5+6+12 \\-10+10+27\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}-11 & -12 & -13 \\19 & 20 & 13 \\38 & 38 & 27\end{array}\right][/math]
+ [math]\therefore A^{3}-6 A^{2}+11 A-6 I[/math]
+ [math]=\left[\begin{array}{rrr}-11 & -12 & -13 \\19 & 20 & 13 \\38 & 38 & 27\end{array}\right][/math]
+ [math]-\left[\begin{array}{rrr}-6 & -12 & -24 \\30 & 36 & 24 \\60 & 60 & 54\end{array}\right][/math]
+ [math]+\left[\begin{array}{ccc}11 & 0 & -11 \\11 & 22 & 11 \\22 & 22 & 33\end{array}\right][/math]
+ [math]-\left[\begin{array}{ccc}6 & 0 & 0 \\0 & 6 & 0 \\0 & 0 & 6\end{array}\right][/math]
+ [math]=\left[\begin{array}{r}-11+6+11-6 \\19-30+11-0 \\38-60+22-0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{r}-12+12+0-0 \\20-36+22-6 \\38-60+22-0\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{r}-13+24-11-0 \\13-24+11-0 \\27-54+33-6\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}0 & 0 & 0 \\0 & 0 & 0 \\0 & 0 & 0\end{array}\right]=0[/math]
+ [math]\therefore A^{3}-6 A^{2}+11 A-6 I=0[/math]
+(প্রমাণিত)[math]\\[/math]
+ গ [math]|A|=\left|\begin{array}{ccc}1 & 0 & -1 \\1 & 2 & 1 \\2 & 2 & 3\end{array}\right|[/math]
+ [math]=1(6-2)-0(3-2)+(-1)(2-4)=4+2=6[/math]
+ [math]\therefore B=\operatorname{adj} A=\left[\begin{array}{r}\left|\begin{array}{ll}2 & 1 \\2 & 3\end{array}\right| \\-\left|\begin{array}{rr}0 & -1 \\2 & 3\end{array}\right| \\\left|\begin{array}{rr}0 & -1 \\2 & 1\end{array}\right|\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{l}-\left|\begin{array}{lr}1 & 1 \\2 & 3\end{array}\right| \\\left|\begin{array}{rr}1 & -1 \\2 & 3\end{array}\right| \\-\left|\begin{array}{rr}1 & -1 \\1 & 1\end{array}\right|\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{r}\left|\begin{array}{ll}1 & 2 \\2 & 2\end{array}\right| \\-\left|\begin{array}{ll}1 & 0 \\2 & 2\end{array}\right| \\\\\left|\begin{array}{ll}1 & 0 \\1 & 2\end{array}\right|\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rrr}4 & -1 & -2 \\-2 & 5 & -2 \\2 & -2 & 2\end{array}\right]^{\mathrm{t}}[/math]
+ [math]=\left[\begin{array}{rrr}4 & -2 & 2 \\-1 & 5 & -2 \\-2 & -2 & 2\end{array}\right][/math]
+ [math]\therefore|\mathrm{B}|=\left|\begin{array}{rrr}4 & -2 & 2 \\-1 & 5 & -2 \\-2 & -2 & 2\end{array}\right|[/math]
+ [math]=4(10-4)-(-2)(-2-4)[/math]
+ [math]+2(2+10)[/math]
+ [math]=24-12+24=36=24-12+24=36=6 \times 6=24-12+24=36=6 \times 6=6 \times 6[/math]
+ [math]\therefore|\mathrm{B}|=6|\mathrm{~A}|[/math]
+(দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]M_{1,2}=\begin{vmatrix}-1&-3\\7&-6\end{vmatrix}=(-1)(-6)-(-3)(7)=6+21=27[/math], সুতরাং [math]M_{1,2}=27[/math] এবং [math]C_{1,2}=(-1)^{1+2}M_{1,2}=-27[/math]. আর (3,1) তম ভুক্তির সহগুণকের জন্য [math]M_{3,1}=\begin{vmatrix}3&2\\0&-3\end{vmatrix}=3(-3)-2(0)=-9[/math], তাই [math]C_{3,1}=(-1)^{3+1}M_{3,1}=-9[/math].
+
+খ ম্যাট্রিক্সের পরিচায়ক বহুপদীর সহগণকগুলি গণনা করলে ট্রেস [math]=6[/math], দুইকযোগ্য প্রধান উপ-ম্যাট্রিক্সগুলোর যোগফল [math]=11[/math] এবং নির্ণায়ক [math]=6[/math] পাওয়া যায়, ফলে চরিত্রিক বহুপদী [math]\lambda^{3}-6\lambda^{2}+11\lambda-6[/math]. কাইলি-হ্যামিলটনের তত্ত্ব অনুযায়ী প্রতিটি সূচকে এই বহুপদী শূন্য দেয়, তাই [math]A^{3}-6A^{2}+11A-6I=0[/math]।
+
+গ সাধারণভাবে [math]\operatorname{adj}A=\det(A)\,A^{-1}[/math] হলে [math]\det(\operatorname{adj}A)=\det(A)^{n-1}[/math] হয়; এখানে [math]n=3[/math] এবং পূর্বে পাওয়া [math]\det(A)=6[/math], তাই [math]|\mathrm{B}|=|\operatorname{adj}A|=6^{2}=36=6\cdot|\!A\!|[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 410380)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সমীকরণ জোট [math]A X=B[/math] যেখানে—
+
+[math]A=\left[\begin{array}{lll}1 & \lambda & 3 \\2 & 1 & \lambda \\5 & 4 & 7\end{array}\right],[/math] [math]X=\left[\begin{array}{l}x \\y \\z\end{array}\right][/math] ও [math]\mathrm{B}=\left[\begin{array}{l}2 \\1 \\4\end{array}\right][/math]
+
+Options:
+ক. [math]|\mathrm{A}|[/math] এর [math](3,1)[/math]-তম ভুক্তির অনুরাশির মান 1 হলে [math]\lambda[/math] এর মান নির্ণয় কর ।
+খ. [math]\lambda[/math] এর কোন মানের জন্য [math]A[/math] ম্যাট্রিক্সটি ব্যতিক্রমী তা নির্ণয় কর।
+গ. [math]\lambda=1[/math] এর জন্য সমীকরণ জোটটি বিপরীত ম্যাট্রিক্সের সাহায্যে সমাধান কর ।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]|\mathrm{A}|[/math]
+ এর [math](3,1)[/math]
+ তম ভুক্তির অনুরাশি [math]=\left|\begin{array}{ll}\lambda & 3 \\1 & \lambda\end{array}\right|[/math]
+ [math]=\lambda^{2}-3[/math]
+প্রশ্নমতে, [math]\lambda^{2}-3=1[/math]
+ [math]\Rightarrow \lambda^{2}=4[/math]
+ [math]\therefore \lambda= \pm 2 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খA ম্যাট্রিক্সটি ব্যতিক্রমী হলে [math]\operatorname{det}(\mathrm{A})=\left|\begin{array}{ccc}1 & \lambda & 3 \\2 & 1 & \lambda \\5 & 4 & 7\end{array}\right|=0[/math]
+ হবে।[math]\Rightarrow 1\left|\begin{array}{ll}1 & \lambda \\4 & 7\end{array}\right|-\lambda\left|\begin{array}{ll}2 & \lambda \\5 & 7\end{array}\right|[/math]
+ [math]+3\left|\begin{array}{ll}2 & 1 \\5 & 4\end{array}\right|=0[/math]
+ [math]=(7-4 \lambda)-\lambda(14-5 \lambda)[/math]
+ [math]+3(8-5)=0[/math]
+ [math]\begin{array}{l}=7-4 \lambda-14 \lambda+5 \lambda^{2}+9=0 \\=5 \lambda^{2}-18 \lambda+16=0 \\=5 \lambda^{2}-10 \lambda-8 \lambda+16=0 \\=5 \lambda(\lambda-2)-8(\lambda-2)=0\end{array}[/math]
+ [math]=(\lambda-2)(5 \lambda-8)=0[/math]
+ [math]\therefore \lambda=2, \frac{8}{5}[/math]
+ [math]\therefore \lambda[/math]
+ এর মান 2 অথবা [math]\frac{8}{5}[/math]
+ হলে A ম্যাট্রিক্সটি ব্যতিক্রমী হবে। (Ans.)[math]\\[/math]
+ গ [math]\lambda=1[/math]
+ এড় জন্য [math]A=\left[\begin{array}{lll}1 & 1 & 3 \\2 & 1 & 1 \\5 & 4 & 7\end{array}\right][/math]
+ [math]\therefore|A|=1(7-4)-1(14-5)+3(8-5)=3-9+9=3[/math]
+এখন, [math]A_{11}=(-1)^{1+1}\left|\begin{array}{ll}1 & 1 \\4 & 7\end{array}\right|[/math]
+ [math]=1(7-4)=3[/math]
+ [math]A_{12}=(-1)^{1+2}\left|\begin{array}{ll}2 & 1 \\5 & 7\end{array}\right|[/math]
+ [math]=-1(14-5)=-9[/math]
+ [math]A_{13}=(-1)^{1+3}\left|\begin{array}{ll}2 & 1 \\5 & 4\end{array}\right|[/math]
+ [math]=1(8-5)=3[/math]
+ [math]A_{21}=(-1)^{2+1}\left|\begin{array}{ll}1 & 3 \\4 & 7\end{array}\right|[/math]
+ [math]=-1(7-12)=5[/math]
+ [math]A_{22}=(-1)^{2+2}\left|\begin{array}{ll}1 & 3 \\5 & 7\end{array}\right|[/math]
+=1(7-15)=-8$[math]A_{23}=(-1)^{2+3}\left|\begin{array}{ll}1 & 1 \\5 & 4\end{array}\right|[/math]
+ [math]=-1(4-5)=1[/math]
+ [math]A_{31}=(-1)^{3+1}\left|\begin{array}{ll}1 & 3 \\1 & 1\end{array}\right|[/math]
+ [math]=1(1-3)=-2[/math]
+ [math]A_{32}=(-1)^{3+2}\left|\begin{array}{ll}1 & 3 \\2 & 1\end{array}\right|[/math]
+ [math]=-1(1-6)=5[/math]
+ [math]A_{33}=(-1)^{3+3}\left|\begin{array}{ll}1 & 1 \\2 & 1\end{array}\right|[/math]
+ [math]=1(1-2)=-1[/math]
+ [math]\therefore A^{-1}=\frac{1}{|A|}\left[\begin{array}{lll}A_{11} & A_{21} & A_{31} \\A_{12} & A_{22} & A_{32} \\A_{13} & A_{23} & A_{33}\end{array}\right][/math]
+ [math]=\frac{1}{3}\left[\begin{array}{rrr}3 & 5 & -2 \\-9 & -8 & 5 \\3 & 1 & -1\end{array}\right][/math]
+এখন, [math]A X=B \Rightarrow X=A^{-1} B[/math]
+ [math]\therefore\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\frac{1}{3}\left[\begin{array}{rrr}3 & 5 & -2 \\-9 & -8 & 5 \\3 & 1 & -1\end{array}\right][/math]
+ [math]\left[\begin{array}{l}2 \\1 \\4\end{array}\right][/math]
+ [math]=\frac{1}{3}\left[\begin{array}{r}6+5-8 \\-18-8+20 \\6+1-4\end{array}\right][/math]
+ [math]=\frac{1}{3}\left[\begin{array}{r}3 \\-6 \\3\end{array}\right][/math]
+ [math]=\left[\begin{array}{r}1 \\-2 \\1\end{array}\right][/math]
+ [math]\therefore x=1, y=-2, z=1[/math]
+ [math]\therefore[/math]
+ নির্ণেয় সমাধান [math](x, y, z)=(1,-2,1)[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক (3,1) তম কোফ্যাক্টর হচ্ছে [math]C_{31}=(-1)^{3+1}\det\begin{pmatrix}\lambda & 3 \\ 1 & \lambda\end{pmatrix}=\lambda^2-3[/math]; এটি 1 হলে [math]\lambda^2-3=1\Rightarrow\lambda^2=4\Rightarrow\lambda=\pm2[/math]।
+
+খ ম্যাট্রিক্সের নির্ণায়ক কাজ করলে পাওয়া যায় [math]\det A=5\lambda^2-18\lambda+16[/math]; স্বতন্ত্রতার শর্তে [math]5\lambda^2-18\lambda+16=0[/math] থেকে [math]\lambda=2,\;8/5[/math] হয় (দুটি মানে ব্যবস্থা ব্যতিক্রমী)।
+
+গ [math]\lambda=1[/math] হলে [math]\det A=3[/math] এবং adj(A)=\begin{pmatrix}3&5&-2\\-9&-8&5\\3&1&-1\end{pmatrix} হওয়ায় [math]A^{-1}=\tfrac{1}{3}\text{adj}(A)[/math]; তাই [math]X=A^{-1}B=\tfrac{1}{3}\begin{pmatrix}3\\-6\\3\end{pmatrix}=\begin{pmatrix}1\\-2\\1\end{pmatrix}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 410381)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ccc}1+x & 2 & 3 \\2 & 3+x & 1 \\3 & 1 & 2+x\end{array}\right][/math] একটি ম্যাট্রিক্স।
+
+Options:
+ক. বিপরীত ম্যাট্রিক্স বলতে কি বুঝ?
+খ. [math]x=-1[/math] হলে [math]A^{2}-2 A+3 I[/math] এর মান নির্ণয় কর।
+গ. উদ্দীপকের ম্যাটিক্সটি ব্যতিক্রমী হলে x এর মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদুইটি বর্গ ম্যাট্রিক্সের গুণফল যদি একক ম্যাট্রিক্সের সমান হয় তবে এদের একটিকে অপরটির বিপরীত ম্যাট্রিক্স বলা হয়। অর্থাৎ যদি কোনো বর্গ ম্যাট্রিক্স A এর জন্য একটি একই ক্রমের বর্গ ম্যাট্রিক্স B থাকে যেন [math]AB = BA = 1[/math]
+ হয়, (যেখানে [math]I[/math]
+ হলো একক বা অভেদক ম্যাট্রিক্স) তবে B ম্যাট্রিক্সকে A ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্স বলে ।A ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্সকে [math]\mathrm{A}^{-1}[/math]
+ দ্বারা প্রকাশ করা হয়। অপরপক্ষে A ম্যাট্রিক্সকেও B ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্স বলে । উল্লেখ্য যে, শুধু অব্যতিক্রমী ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্স বিদ্যমান[math]\\[/math]
+ খউদ্দীপক থেকে পাই,[math]A=\left[\begin{array}{ccc}1+x & 2 & 3 \\2 & 3+x & 1 \\3 & 1 & 2+x\end{array}\right][/math]
+ [math]x = − 1[/math]
+ বসিয়ে পাই, [math]A=\left[\begin{array}{lll}0 & 2 & 3 \\2 & 2 & 1 \\3 & 1 & 1\end{array}\right][/math]
+এখন, [math]A^{2}=A \cdot A=\left[\begin{array}{lll}0 & 2 & 3 \\2 & 2 & 1 \\3 & 1 & 1\end{array}\right][/math]
+ [math]\left[\begin{array}{lll}0 & 2 & 3 \\2 & 2 & 1 \\3 & 1 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}0+4+9 & 0+4+3 \\0+4+3 & 4+4+1 \\0+2+3 & 6+2+1\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}0+2+3 \\6+2+1 \\9+1+1\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}13 & 7 & 5 \\7 & 9 & 9 \\5 & 9 & 11\end{array}\right][/math]
+ [math]\therefore \mathrm{A}^{2}-2 \mathrm{~A}+3 \mathrm{I}[/math]
+ [math]=\left[\begin{array}{lll}13 & 7 & 5 \\7 & 9 & 9 \\5 & 9 & 11\end{array}\right][/math]
+ [math]-2\left[\begin{array}{lll}0 & 2 & 3 \\2 & 2 & 1 \\3 & 1 & 1\end{array}\right][/math]
+ [math]+3\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}13 & 7 & 5 \\7 & 9 & 9 \\5 & 9 & 11\end{array}\right][/math]
+ [math]-\left[\begin{array}{lll}0 & 4 & 6 \\4 & 4 & 2 \\6 & 2 & 2\end{array}\right][/math]
+ [math]+\left[\begin{array}{lll}3 & 0 & 0 \\0 & 3 & 0 \\0 & 0 & 3\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}13+3 & 7-4 \\7-4 & 9-4+3 \\5-6 & 9-2\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}5-6 \\9-2 \\11-2+3\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}16 & 3 & -1 \\3 & 8 & 7 \\-1 & 7 & 12\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গপ্রদত্ত ম্যাট্রিক্সটি ব্যতিক্রমী হবে যদি [math]|A| = 0[/math]
+ হয়।অর্থাৎ [math]\left|\begin{array}{ccc}1+x & 2 & 3 \\2 & 3+x & 1 \\3 & 1 & 2+x\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]=\left|\begin{array}{ccc}1+x+2+3 & 2 & 3 \\2+3+x+1 & 3+x & 1 \\3+1+2+x & 1 & 2+x\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\left[\mathrm{c}_{1}^{ \prime}=\mathrm{c}_{1}+\mathrm{c}_{2}+\mathrm{c}_{3}\right.[/math]
+ প্রয়োগ করে ][math]=\left|\begin{array}{ccc}x+6 & 2 & 3 \\x+6 & 3+x & 1 \\x+6 & 1 & 2+x\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]= (x+6)[/math]
+ [math]\left|\begin{array}{ccc}1 & 2 & 3 \\1 & 3+x & 1 \\ 1 & 1 & 2+x\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]= (x+6)\left|\begin{array}{rrr}0 & -1-x & 2 \\ 0 & 2+x & -1-x \\ 1 & 1 & 2+x\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\mathrm{r}_{1}^{\prime}=\mathrm{r}_{1}-\mathrm{r}_{2}, \mathrm{r}_{2}^{\prime}=\mathrm{r}_{2}-\mathrm{r}_{3}[/math]
+ প্রয়োগ করে ][math]= (x+6)\left|\begin{array}{cc}-1-x & 2 \\2+x & -1-x\end{array}\right|=0[/math]
+ [math]= (x+6)\left|\begin{array}{cc}-(1+x) & 2 \\2+x & -(1+x)\end{array}\right|=0[/math]
+ [math]= (x+6)\left\{(1+x)^{2}-4-2 x\right\}[/math]
+ [math]=0[/math]
+ [math]= (x+6)\left(1+2 x+x^{2}-4-2 x\right)[/math]
+ [math]=0[/math]
+ [math]= (x+6)\left(x^{2}-3\right)[/math]
+=0$হয় [math]x+6=0[/math]
+ অথাব [math]x^{2}-3=0[/math]
+ [math]\therefore x=-6 \quad = x^{2}=3 \quad \therefore x= \pm \sqrt{3}[/math]
+ [math]\therefore \quad x=-6, \pm \sqrt{3} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক বিপরীত ম্যাট্রিক্স বলতে এমন একটি ম্যাট্রিক্সকে বোঝায় যাকে গুণ করলে ঐ ম্যাট্রিক্স ও তার বিপরীত উভয়ের গুণফল পরিচয় ম্যাট্রিক্স হয়; অর্থাৎ যদি [math]B[/math] হল [math]A[/math] এর বিপরীত তাহলে [math]AB=BA=I[/math] এবং এটি তখনই আছে যখন [math]\det A\neq0[/math]।
+
+খ [math]x=-1[/math] হলে প্রথমে [math]A=\begin{pmatrix}0&2&3\\2&2&1\\3&1&1\end{pmatrix}[/math], হিসাব করলে
+[math]A^{2}-2A+3I=\begin{pmatrix}16&3&-1\\3&8&7\\-1&7&12\end{pmatrix}[/math]।
+
+গ যদি ম্যাট্রিক্সটি ব্যতিক্রমী হয় তাহলে [math]\det(A)=0[/math]। এখানে [math]A=M+xI[/math] যেখানে [math]M=\begin{pmatrix}1&2&3\\2&3&1\\3&1&2\end{pmatrix}[/math]; [math]M(1,1,1)^T=6(1,1,1)^T[/math] হওয়ায় একটি নিজমান 6 এবং [math]\det M=-18[/math] থেকে বাকি দুইটি নিজমান হলো [math]\pm\sqrt{3}[/math]. অতএব [math]A[/math] এর নিজমানগুলো [math]6+x,\;\pm\sqrt{3}+x[/math] এবং সেগুলো যেখানেই শূন্য হবে সেখানে ম্যাট্রিক্সটি ব্যতিক্রমী, ফলে [math]x=-6,\;x=-\sqrt{3},\;x=\sqrt{3}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 410382)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{rrr}0 & 2 & x \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right][/math] একটি ম্যাট্রিক্স
+
+Options:
+ক. x এর কোন মানের জন্য [math]|A|=0[/math] হবে ?
+খ. [math]x = 1[/math] ধরে প্রাপ্ত [math]B[/math] ম্যাট্রিক্সের বিপরীত বর্গ ম্যাট্রিক্স, [math]\mathrm{B}^{-1}[/math] নির্ণয় কর।
+গ. প্রমাণ কর যে, [math]\mathrm{BB}^{-1}=\mathrm{I}_{3}[/math]
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]A=\left[\begin{array}{rrr}0 & 2 & x \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right][/math]
+ [math]\therefore|\mathrm{A}|=\left|\begin{array}{ccc}0 & 2 & \mathrm{x} \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right|[/math]
+ [math]=0-2(-7,-3)+\mathrm{x}(14-12)[/math]
+ [math]=20+2 \mathrm{x}[/math]
+ [math]\because|\mathrm{A}|=0[/math]
+ [math]\therefore 20+2 \mathrm{x}=0[/math]
+ [math]= 2 \mathrm{x}=-20[/math]
+ [math]\therefore \mathrm{x}=-10 \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A=\left[\begin{array}{rrr}0 & 2 & x \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right][/math]
+ [math]x=1[/math]
+ হলে [math]B=\left[\begin{array}{rrr}0 & 2 & 1 \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right][/math]
+ [math]\therefore|B|=\left|\begin{array}{rrr}0 & 2 & 1 \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right|[/math]
+ [math]=0-2(-7-3)+1(14-12)[/math]
+ [math]=20+2=22[/math]
+ [math]\therefore \operatorname{Adj}(B)=[/math]
+ [math]\begin{bmatrix}\left|\begin{array}{rr}4 & 1 \\-2 & 1\end{array}\right| \quad-\left|\begin{array}{rr}-7 & 1 \\3 & 1\end{array}\right| \quad\left|\begin{array}{rr}-7 & 4 \\3 & -2\end{array}\right| \\ -\left|\begin{array}{rr}2 & 1 \\-2 & 1\end{array}\right| \quad\left|\begin{array}{ll}0 & 1 \\3 & 1\end{array}\right| \quad-\left|\begin{array}{rr}0 & 2 \\3 & -2\end{array}\right| \\ \left|\begin{array}{ll}2 & 1 \\4 & 1\end{array}\right|-\left|\begin{array}{rr}0 & 1 \\-7 & 1\end{array}\right| \quad\left|\begin{array}{rr}0 & 2 \\-7 & 4\end{array}\right| \end{bmatrix}^t[/math]
+ [math]=\left[\begin{array}{rrr}6 & 10 & 2 \\-4 & -3 & 6 \\-2 & -7 & 14\end{array}\right]^{t}[/math]
+ [math]=\left[\begin{array}{rrr}6 & -4 & -2 \\10 & -3 & -7 \\2 & 6 & 14\end{array}\right][/math]
+ [math]\therefore B^{-1}=\frac{1}{|B|} \text { adj }(B)=\frac{1}{22}[/math]
+ [math]\left[\begin{array}{ccc}6 & -4 & -2 \\10 & -3 & -7 \\2 & 6 & 14\end{array}\right] \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ'খ' থেকে পাই, [math]B=\left[\begin{array}{rrr}0 & 2 & 1 \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right][/math]
+ এবং [math]\mathrm{B}^{-1}=\frac{1}{22}\left[\begin{array}{rrr}6 & -4 & -2 \\10 & -3 & -7 \\2 & 6 & 14\end{array}\right][/math]
+ [math]\therefore \mathrm{BB}^{-1} =\left[\begin{array}{rrr}0 & 2 & 1 \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right] \cdot \frac{1}{22}\left[\begin{array}{rrr}6 & -4 & -2 \\10 & -3 & -7 \\2 & 6 & 14\end{array}\right][/math]
+ [math]=\frac{1}{22}\left[\begin{array}{rrr}0 & 2 & 1 \\-7 & 4 & 1 \\3 & -2 & 1\end{array}\right][/math]
+ [math]\left[\begin{array}{rrr}6 & -4 & -2 \\10 & -3 & -7 \\2 & 6 & 14\end{array}\right][/math]
+ [math]=\frac{1}{22}\left[\begin{array}{r}0+20+2 \\-42+40+2 \\18-20+2\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{r}0-6+6 \\28-12+6 \\-12+6+6\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{r}0-14+14 \\14-28+14 \\-6+14+14\end{array}\right][/math]
+ [math]=\frac{1}{22}\left[\begin{array}{ccc}22 & 0 & 0 \\0 & 22 & 0 \\0 & 0 & 22\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=I_{3}[/math]
+ [math]\therefore \mathrm{BB}^{-1}=\mathrm{I}_{3}[/math]
+(প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]|A|=-2\det\begin{pmatrix}-7&1\\3&1\end{pmatrix}+x\det\begin{pmatrix}-7&4\\3&-2\end{pmatrix}=-2(-10)+x(2)=2(x+10),[/math] তাই [math]|A|=0\Rightarrow x=-10.[/math]
+
+খ [math]x=1[/math] হলে [math]\det B=2(1+10)=22[/math] এবং [math]B^{-1}=\frac{1}{22}\operatorname{adj}B=\frac{1}{22}\begin{pmatrix}6&-4&-2\\10&-3&-7\\2&6&14\end{pmatrix}=\begin{pmatrix}3/11&-2/11&-1/11\\5/11&-3/22&-7/22\\1/11&3/11&7/11\end{pmatrix}.[/math]
+
+গ সাধারণ সূত্র অনুযায়ী [math]B\cdot\operatorname{adj}B=(\det B)I_3[/math], সুতরাং [math]BB^{-1}=B\cdot\frac{1}{\det B}\operatorname{adj}B=\frac{1}{\det B}(\det B)I_3=I_3.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 410383)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{cc}1 & 2 \\2 & -3\end{array}\right], B=\left[\begin{array}{ll}2 & 3 \\5 & 6\end{array}\right][/math]
+
+Options:
+ক. [math]A[/math] প্রতিসম কিনা? হ্যাঁ সূচক হলে, তা কারণসহ ব্যাখ্যা কর ।
+খ. প্রমাণ কর যে, [math](\mathrm{AB})^{-1}=\mathrm{B}^{-1} \mathrm{~A}^{-1}[/math]
+গ. [math]\left(\mathrm{B}^{2}-3 \mathrm{~B}+5 \mathrm{I}\right)[/math] এর বিপরীত ম্যাট্রিক্স নির্ণয় কর, যেখানে [math]I=\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math]
+
+
+Correct Answer: 
+
+Solution:
+কA এর ভুক্তিগুলির মধ্যে [math]a_{12}=2[/math]
+ এবং [math]a_{21}=2 .[/math]
+ যেহেতু [math]a_{12}=a_{21} = 2[/math]
+, সুতরাং A ম্যাট্রিক্সটি প্রতিসম। প্রদত্ত ম্যাট্রিক্স, A এর ভুক্তিগুলির মধ্যে [math]a_{j i}=a_{j i}[/math]
+ বিদ্যমান থাকলে, প্রদত্ত ম্যাট্রিক্সটি প্রতিসম হবে ।[math]\\[/math]
+ খ [math]\mathrm{AB}=\left[\begin{array}{cc}1 & 2 \\2 & -3\end{array}\right]\left[\begin{array}{ll}2 & 3 \\5 & 6\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}2+10 & 3+12 \\4-15 & 6-18\end{array}\right][/math]
+ [math]=\left[\begin{array}{cc}12 & 15 \\-11 & -12\end{array}\right][/math]
+ [math]\therefore(\mathrm{AB})^{-1}=\frac{1}{21}\left[\begin{array}{rr}-12 & -15 \\11 & 12\end{array}\right][/math]
+আবার, [math]A^{-1}=-\frac{1}{7}[/math]
+ [math]\left[\begin{array}{cc}-3 & -2 \\-2 & 1\end{array}\right][/math]
+ এবং [math]\mathrm{B}^{-1}=\frac{-1}{3}[/math]
+ [math]\left[\begin{array}{cc}6 & -3 \\-5 & 2\end{array}\right][/math]
+ [math]\therefore \mathrm{B}^{-1} \mathrm{~A}^{-1}=-\frac{1}{3}\left[\begin{array}{cc}6 & -3 \\-5 & 2\end{array}\right][/math]
+ [math]\left(\frac{-1}{7}\right)[/math]
+ [math]\left[\begin{array}{cc}-3 & -2 \\-2 & 1\end{array}\right][/math]
+ [math]=\frac{1}{21}\left[\begin{array}{cc}-12 & -15 \\11 & 12\end{array}\right][/math]
+ [math]\therefore(\mathrm{AB})^{-1}=\mathrm{B}^{-1} \mathrm{~A}^{-1}[/math]
+ [math]\\[/math]
+ গ [math]\mathrm{B}^{2}-3 \mathrm{~B}+5 \mathrm{I} =\left[\begin{array}{ll}2 & 3 \\5 & 6\end{array}\right][/math]
+ [math]\left[\begin{array}{ll}2 & 3 \\5 & 6\end{array}\right][/math]
+ [math]-3\left[\begin{array}{ll}2 & 3 \\5 & 6\end{array}\right][/math]
+ [math]+5\left[\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}19 & 24 \\40 & 51\end{array}\right][/math]
+ [math]-\left[\begin{array}{cc}6 & 9 \\15 & 18\end{array}\right][/math]
+ [math]+\left[\begin{array}{ll}5 & 0 \\0 & 5\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}18 & 15 \\25 & 38\end{array}\right][/math]
+ [math]\therefore \mathrm{B}^{2}-3 \mathrm{~B}+5 \mathrm{I}[/math]
+ এর বিপরীত ম্যাট্রিক্স [math]=\frac{1}{309}[/math]
+ [math]\left[\begin{array}{cc}38 & -15 \\-25 & 18\end{array}\right][/math]
+ [math]\text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক [math]A=\begin{pmatrix}1&2\\[4pt]2&-3\end{pmatrix}[/math] এবং [math]A^T=\begin{pmatrix}1&2\\[4pt]2&-3\end{pmatrix}=A[/math], তাই [math]A[/math] প্রতিসম (symmetric)।
+
+খ ধরা যাক [math]X=B^{-1}A^{-1}[/math]; তখন [math](AB)X=A(BB^{-1})A^{-1}=AIA^{-1}=AA^{-1}=I[/math] এবং সমানভাবে [math]X(AB)=I[/math], তাই [math](AB)^{-1}=B^{-1}A^{-1}[/math]।
+
+গ প্রথমে [math]B^2=\begin{pmatrix}19&24\\[4pt]40&51\end{pmatrix}[/math], ফলে [math]B^2-3B+5I=\begin{pmatrix}18&15\\[4pt]25&38\end{pmatrix}=:M[/math]. এখানে [math]\det M=18\cdot38-15\cdot25=309[/math], অতএব [math]M^{-1}=\dfrac{1}{309}\begin{pmatrix}38&-15\\[4pt]-25&18\end{pmatrix}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 410384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Dhaka City College
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{B}=\left[\begin{array}{cc}a^{2} & b c \\a^{2}+a b & b^{2} \\a b & b^{2}+b c\end{array}\right.[/math] [math]\left.\begin{array}{ccc}ca+c^2 \\ca \\ c^2\end{array}\right|[/math]একটি বর্গ ম্যাট্রিক্স।
+
+Options:
+ক. [math]f(\mathrm{p})=\mathrm{p}+\frac{1}{\mathrm{p}}[/math] হলে প্রমাণ কর যে, [math]\{f(t)\}^{2}=2+f\left(t^{2}\right)[/math]
+খ. [math]a=1, b=2[/math] ও [math]c=-1[/math] হলে [math]\mathrm{B}^{-1}[/math] নির্ণয় কর।
+গ. প্রমাণ কর যে, [math]|\mathrm{B}|=4 \mathrm{a}^{2} \mathrm{~b}^{2} \mathrm{c}^{2}[/math]
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]f(\mathrm{p})=\mathrm{p}+\frac{1}{\mathrm{p}}[/math]
+ [math]\therefore f(t)=\mathrm{t}+\frac{1}{\mathrm{t}}[/math]
+এবং [math]f\left(t^{2}\right)=t^{2}+\frac{1}{t^{2}}[/math]
+বামপক্ষ [math]=\mid f(\mathrm{t})\}^{2}[/math]
+ [math]\begin{array}{l}=\left(t+\frac{1}{t}\right)^{2} \\=t^{2}+2 \cdot t \cdot \frac{1}{t}+\left(\frac{1}{t}\right)^{2} \\=t^{2}+2+\frac{1}{t^{2}} \\=2+t^{2}+\frac{1}{t^{2}}\end{array}[/math]
+ [math]=2+f\left(t^{2}\right)=[/math]
+ ডানপক্ষ[math]\therefore \quad\{f(\mathrm{t})\}^{2}=2+f\left(t^{2}\right)[/math]
+ (প্রমাণিত)[math]\\[/math]
+ খদেওয়া আছে, [math]\mathbf{B}=\left[\begin{array}{cc}a^{2} & b c \\a^{2}+a b & b^{2} \\a b & b^{2}+b c\end{array}\right.[/math]
+ [math]\left.\begin{array}{ccc}ca+c^2 \\ca \\ c^2\end{array}\right|[/math]
+ [math]a=1, b=2[/math]
+ ও [math]c=-1[/math]
+ হলে[math]\mathrm{B}=\left[\begin{array}{cc}1^{2} & 2 \cdot(-1) \\1^{2}+1.2 & 2^{2} \\1.2 & 2^{2}+2 \cdot(-1)\end{array}\right.[/math]
+ [math]\left.\begin{array}{c}(-1) \cdot 1+(-1)^{2} \\(-1) \cdot 1 \\(-1)^{2}\end{array}\right][/math]
+ [math]\begin{array}{l}\mathbf{B}=\left[\begin{array}{ccc}1 & -2 & 0 \\3 & 4 & -1 \\2 & 2 & 1\end{array}\right] \\\therefore |B|=\left|\begin{array}{ccc}1 & -2 & 0 \\3 & 4 & -1 \\2 & 2 & 1\end{array}\right| \\=1(4+2)-2(-2-3)+0 \\=1 \times 6-2 \times(-5)+0 \\=6+10=16 
+eq 0\end{array}[/math]
+ [math]B[/math]
+ এর সহগুণকসমূহ[math]\begin{array}{l}\mathrm{B}_{11}=\left|\begin{array}{rr}4 & -1 \\2 & 1\end{array}\right|=4+2=6 \\\mathrm{~B}_{12}=-\left|\begin{array}{rr}3 & -1 \\2 & 1\end{array}\right|=-(3+2)=-5 \\\mathrm{~B}_{13}=\left|\begin{array}{ll}3 & 4 \\2 & 2\end{array}\right|=6-8=-2 \\\mathrm{~B}_{21}=-\left|\begin{array}{rr}-2 & 0 \\2 & 1\end{array}\right|=-(-2-0)=2 \\\mathrm{~B}_{22}=\left|\begin{array}{rr}1 & 0 \\2 & 1\end{array}\right|=1-0=1 \\\mathrm{~B}_{23}=-\left|\begin{array}{rr}1 & -2 \\2 & 2\end{array}\right|=-(2+4)=-6 \\\mathrm{~B}_{31}=-\left|\begin{array}{rr}-2 & 0 \\4 & -1\end{array}\right|=2-0=2 \\\mathrm{~B}_{32}=-\left|\begin{array}{rr}1 & 0 \\3 & -1\end{array}\right|=-(-1-0)=1 \\\mathrm{~B}_{33}=\left|\begin{array}{rr}1 & -2 \\3 & 4\end{array}\right|=4+6=10\end{array}[/math]
+ [math]\operatorname{Adj} B=\left[\begin{array}{lll}B_{11} & B_{12} & B_{13} \\B_{21} & B_{22} & B_{23} \\B_{31} & B_{32} & B_{33}\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{ccc}6 & -5 & -2 \\2 & 1 & -6 \\2 & 1 & 10\end{array}\right]^{1}[/math]
+ [math]=\left[\begin{array}{ccc}6 & 2 & 2 \\-5 & 1 & 1 \\-2 & -6 & 10\end{array}\right][/math]
+ [math]\therefore \quad B^{-1}=\frac{1}{|B|} \operatorname{Adj} B[/math]
+নির্ণেয় [math]B^{-1}[/math]
+ [math]=\frac{1}{16}\left[\begin{array}{ccc}0 & 2 & 2 \\-5 & 1 & 1 \\-2 & -6 & 10\end{array}\right][/math]
+ [math]\\[/math]
+ গদেওয়া আছে,[math]B=\left[\begin{array}{cc}a^{2} & b c \\a^{2}+a b & b^{2} \\a b & b^{2}+b c\end{array}\right.[/math]
+ [math]\left.\begin{array}{c}c a+c^{2} \\c a \\c^{2}\end{array}\right][/math]
+ [math]\therefore \quad|B|=\left\lvert\, \begin{array}{cc}a^{2} & b c \\a^{2}+a b & b^{2} \\a b & b^{2}+b c\end{array}\right.[/math]
+ [math]\left.\begin{array}{ccc}2(c^2 +ca) \\ ca \\ c^2\end{array}\right|[/math]
+ [math]=\left\lvert\, \begin{array}{cc}2\left(a^{2}+a b\right) & 2\left(b^{2}+b c\right) \\a^{2}+a b & b^{2} \\a b & b^{2}+b c\end{array}\right.[/math]
+ [math]\left.\begin{array}{ccc}2(c^2+ca) \\ca \\ c^2\end{array}\right|[/math]
+ [math]\left[r_{1}^{\prime}=r_{1}+r_{2}+r_{3}\right][/math]
+ [math]=2\left|\begin{array}{ccc}0 & b c & c^{2} \\a^{2} & -b c & c a-c^{2} \\a b & b^{2}+b c & c^{2}\end{array}\right|[/math]
+ [math]\left[\begin{array}{l}r_{1}{ }^{\prime}=r_{1}-r_{2} \\r_{2}{ }^{\prime}=r_{2}-r_{3}\end{array}\right][/math]
+ [math]=2 a b c\left|\begin{array}{ccc}0 & c & c \\a & -c & a-c \\b & \mathrm{~b}+\mathrm{c} & c\end{array}\right|[/math]
+ [math]=2 a b c\{0-c(c a-a b+b c)[/math]
+ [math]+c(a b+c a+b c)\}[/math]
+ [math]\begin{array}{l}=2 a b c(a b c+a b c)\\=2 a b c \times 2 a b c=4 a^{2} b^{2} c^{2} \text{.}\end{array}[/math]
+ [math]\therefore \quad|B|=4 \mathrm{a}^{2} \mathrm{~b}^{2} \mathrm{c}^{2}[/math]
+(প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা:
+
+ক সরাসরি গুণ করলে [math]{f(t)}^{2}=(t+\tfrac{1}{t})^{2}=t^{2}+2+\tfrac{1}{t^{2}}=2+\bigl(t^{2}+\tfrac{1}{t^{2}}\bigr)=2+f(t^{2})[/math], তাই যুক্তিটি সঠিক।
+
+খ [math]a=1,b=2,c=-1[/math] দিলে [math]\mathrm{B}=\begin{pmatrix}1&-2&0\\3&4&-1\\2&2&1\end{pmatrix}[/math], এবং det[math]\mathrm{B}=16[/math]; cofactors-এর transpose (adjoint) হল [math]\operatorname{adj}(\mathrm{B})=\begin{pmatrix}6&2&2\\-5&1&1\\-2&-6&10\end{pmatrix}[/math], অতএব [math]\mathrm{B}^{-1}=\tfrac{1}{16}\begin{pmatrix}6&2&2\\-5&1&1\\-2&-6&10\end{pmatrix}[/math]।
+
+গ প্রত্যেক কলাম থেকে অভিন্ন গুণক ছাড়লে [math]\mathrm{B}=abc\cdot\begin{pmatrix}a&c&a+c\\a+b&b&a\\b&b+c&c\end{pmatrix}[/math] এবং ঐ মাঝের মেট্রিক্সের নির্ণায়ক সরল বিস্তারের পরে [math]4abc[/math] পাওয়া যায়, ফলে [math]|\mathrm{B}|=abc\cdot(4abc)=4a^{2}b^{2}c^{2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 410385)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Shahid Syed Nazrul Islam College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{cc}a+b+2 c & a \\c & b+c+2 a \\c & a\end{array}\right.[/math] [math]\left.\begin{array}{c}b \\b \\c+a+2 b\end{array}\right] \text {, }[/math] [math]B=a+b+c[/math]
+
+Options:
+ক. [math]x[/math] এর মান কত হলে, [math]\left[\begin{array}{rr}2 x & x-1 \\-5 & x+2\end{array}\right][/math] একটি অব্যতিক্রমী ম্যাট্রিক্স হবে?
+খ. দেখাও যে, [math]|A|=2 B^{3}[/math]
+গ. [math]a=1, b=2, c=3[/math] হলে, [math]\mathrm{A}^{-1}[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ক [math]\left[\begin{array}{cc}2 x & x-1 \\-5 & x+2\end{array}\right][/math]
+ একটি অব্যতিক্রমী ম্যাট্রিক্স তবে যদি [math]\left|\begin{array}{ll}2 x & x-1 \\-5 & x+2\end{array}\right|[/math]
+ধরি, [math]\left|\begin{array}{ll}2 x & x-1 \\-5 & x+2\end{array}\right|=0[/math]
+ [math]\begin{array}{l}\Rightarrow 2 x(x+2)+5(x-1)=0\\\Rightarrow 2 x^{2}+4 x+5 x-5=0\\\Rightarrow 2 x^{2}+9 x-5=0\\\Rightarrow (x+5)(2 x-1)=0\\\therefore \quad x=-5, \frac{1}{2}\end{array}[/math]
+ [math]\therefore \mathrm{x} 
+eq-5[/math]
+ এবং [math]x 
+eq \frac{1}{2}[/math]
+ হলে প্রদত্ত ম্যাট্রিক্সটি অব্যতিক্রমী হবে ।অতএব, [math]x 
+eq-5,[/math]
+ এবং [math]x=\frac{1}{2}[/math]
+ ছাড়া সকল বাস্তব মানের জন্য প্রদত্ত ম্যাট্রিক্সটি অব্যতিক্রমী।[math]\\[/math]
+ খদেওয়া আছে, [math]A=\left[\begin{array}{cc}a+b+2 c & a \\c & b+c+2 a \\c & a\end{array}\right.[/math]
+ [math]\left.\begin{array}{c}b \\b \\c+a+2 b\end{array}\right][/math]
+ [math]\therefore \quad|A|=\left\lvert\, \begin{array}{cc}a+b+2 c & a \\c & b+c+2 a \\c & a\end{array}\right.[/math]
+ [math]\left.\begin{array}{ccc}b \\b \\ c+a+2b\end{array}\right|[/math]
+ [math]=\left\lvert\, \begin{array}{cc}2(a+b+c) & a \\2(a+b+c) & b+c+2 a \\2(a+b+c) & a\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{ccc}b \\b \\ c+a+2b\end{array}\right|[/math]
+ [math]\left[c_{1}^{\prime}=c_{1}+c_{2}+c_{3}\right][/math]
+ [math]=2(a+b+c)[/math]
+ [math]\left|\begin{array}{ccc}1 & a & b \\1 & b+c+2 a & b \\1 & a & c+a+2 b\end{array}\right|[/math]
+ [math]=2(a+b+c)[/math]
+ [math]\left|\begin{array}{ccc}1 & a & b \\0 & a+b+c & 0 \\0 & -(a+b+c) & c+a+b\end{array}\right|[/math]
+ [math]\left[\begin{array}{c}r_{2}^{\prime}=r_{2}-r_{1} \\r_{3}^{\prime}=r_{3}-r_{2}\end{array}\right][/math]
+ [math]=2(a+b+c)[/math]
+ [math]\left|\begin{array}{lc}a+b+c & 0 \\-(a+b+c) & a+b+c\end{array}\right|[/math]
+ [math]=2(a+b+c)\left\{(a+b+c)^{2}+0\right\}[/math]
+ [math]=2(a+b+c)^{3}[/math]
+ [math]\therefore \quad|A|=2 B^{3}[/math]
+ (দেখানো হলো)[math]\\[/math]
+ গদেওয়া আছে, [math]A=\left[\begin{array}{cc}a+b+2 c & a \\c & b+c+2 a \\c & a\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}b \\b \\c+a+2 b\end{array}\right][/math]
+ [math]a=1,[/math]
+ [math]b=2, c=3[/math]
+ হলে[math]A=\left[\begin{array}{cc}1+2+6 & 1 \\3 & 2+3+2 \\3 & 1\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}2 \\2 \\3+1+4\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}9 & 1 & 2 \\3 & 7 & 2 \\3 & 1 & 8\end{array}\right][/math]
+ [math]\therefore|A|=\left|\begin{array}{lll}9 & 1 & 2 \\3 & 7 & 2 \\3 & 1 & 8\end{array}\right|[/math]
+ [math]=9(56-2)+1(6-24)[/math]
+ [math]+2(3-21)[/math]
+ [math]\begin{array}{l}=486-18-36 \\=432 
+eq 0\end{array}[/math]
+A এর সহগুণকসমূহ :[math]A_{11}=\left|\begin{array}{ll}7 & 2 \\1 & 8\end{array}\right|=56-2=54[/math]
+ [math]\begin{array}{l}A_{12}=-\left|\begin{array}{ll}3 & 2 \\3 & 8\end{array}\right|=-(24-6)=-18 \\A_{13}=\left|\begin{array}{ll}3 & 7 \\3 & 1\end{array}\right|=3-21--18 \\A_{21}=\left|\begin{array}{ll}1 & 2 \\1 & 8\end{array}\right|=-(8-2)=-6 \\A_{22}=\left|\begin{array}{ll}9 & 2 \\3 & 8\end{array}\right|=72-6=66 \\A_{23}=-\left|\begin{array}{ll}9 & 1 \\3 & 1\end{array}\right|=-(9-3)=-6 \\A_{31}=\left|\begin{array}{ll}1 & 2 \\7 & 2\end{array}\right|=2-14=-12 \\A_{32}=-\left|\begin{array}{ll}9 & 2 \\3 & 2\end{array}\right|=-(18-6)=-12 \\A_{33}=\left|\begin{array}{ll}9 & 1 \\3 & 7\end{array}\right|=63-3=60\end{array}[/math]
+ [math]\operatorname{Adj} A=\left[\begin{array}{lll}A_{11} & A_{12} & A_{13} \\A_{21} & A_{22} & A_{23} \\A_{31} & A_{32} & A_{33}\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{lll}54 & -18 & -18 \\-6 & 66 & -6 \\-12 & -12 & 60\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{lll}54 & -6 & -12 \\-18 & 66 & -12 \\-18 & -6 & 60\end{array}\right][/math]
+ [math]\therefore A^{-1}=\frac{A d j A}{|A|}[/math]
+ [math]\begin{array}{l}=\frac{1}{432}\left[\begin{array}{ccc}54 & -6 & -12 \\-18 & 66 & -12 \\-18 & -6 & 60\end{array}\right] \\=\frac{6}{432}\left[\begin{array}{ccc}9 & -1 & -2 \\-3 & 11 & -2 \\-3 & -1 & 10\end{array}\right] \\=\frac{1}{72}\left[\begin{array}{ccc}9 & -1 & -2 \\-3 & 11 & -2 \\-3 & -1 & 10\end{array}\right]\end{array}[/math]
+নির্ণেয় [math]A^{-1}=\frac{1}{72}\left[\begin{array}{ccc}9 & -1 & -2 \\-3 & 11 & -2 \\-3 & -1 & 10\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক ম্যাট্রিক্সটি অব্যতিক্রমী হলে এর নির্ণায়ক শূন্য হবে না; তাই
+[math]\det\begin{pmatrix}2x & x-1\\-5 & x+2\end{pmatrix}=2x(x+2)+5(x-1)=2x^2+9x-5\neq0[/math],
+এবং শূন্য হলে [math]2x^2+9x-5=0\Rightarrow x=\dfrac{1}{2},\,-5[/math]; অতএব ম্যাট্রিক্স অব্যতিক্রমী যখন [math]x\neq\dfrac{1}{2},\,-5[/math]।
+
+খ যদি [math]s=a+b+c[/math] ধরি এবং [math]R_1\mapsto R_1-R_3,\;R_2\mapsto R_2-R_3[/math] করি, তাহলে প্রথম দুইটি সারি থেকে [math]s[/math] বের করা যায় এবং
+[math]\det A=s^2\det\begin{pmatrix}1&0&-1\\0&1&-1\\c&a&c+a+2b\end{pmatrix}=s^2\cdot 2s=2s^3=2(a+b+c)^3[/math]।
+
+গ [math]a=1,b=2,c=3[/math] দিলে
+[math]A=\begin{pmatrix}9&1&2\\3&7&2\\3&1&8\end{pmatrix},\;\det A=432[/math] এবং সহ-ফ্যাক্টরগুলির দ্বারা
+[math]A^{-1}=\dfrac{1}{432}\begin{pmatrix}54&-6&-12\\-18&66&-12\\-18&-6&60\end{pmatrix}
+=\dfrac{1}{72}\begin{pmatrix}9&-1&-2\\-3&11&-2\\-3&-1&10\end{pmatrix}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 410386)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Govt. Ashek Mahmud College, Jamalpur
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ccc}3+x & 4 & 2 \\4 & 2+x & 3 \\2 & 3 & 4+x\end{array}\right][/math]
+
+Options:
+ক. [math]\mathrm{B}+2 \mathrm{I}=\left(\begin{array}{ll}4 & 3 \\2 & 5\end{array}\right)[/math] হলে [math]B[/math] নির্ণয় কর।
+খ. [math]|\mathbf{A}|=0[/math] হলে সমাধান সেট নির্ণয় কর।
+গ. [math]x=-1[/math] হলে, [math]A^{-1}[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]B+2 I=\left(\begin{array}{ll}4 & 3 \\2 & 5\end{array}\right)[/math]
+ [math]B \Rightarrow\left(\begin{array}{ll}4 & 3 \\2 & 5\end{array}\right)-2 I=\left(\begin{array}{ll}4 & 3 \\2 & 5\end{array}\right)-2\left(\begin{array}{ll}1 & 0 \\0 & 1\end{array}\right)[/math]
+ [math]\Rightarrow\left(\begin{array}{ll}4 & 3 \\2 & 5\end{array}\right)-\left(\begin{array}{ll}2 & 0 \\0 & 2\end{array}\right)=\left(\begin{array}{ll}2 & 3 \\2 & 3\end{array}\right)[/math]
+নির্ণেয় [math]B=\left(\begin{array}{ll}2 & 3 \\2 & 3\end{array}\right)[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A=\left[\begin{array}{ccc}3+x & 4 & 2 \\4 & 2+x & 3 \\2 & 3 & 4+x\end{array}\right][/math]
+ [math]|A|=0[/math]
+ হলে [math]\left|\begin{array}{ccc}3+x & 4 & 2 \\4 & 2+x & 3 \\2 & 3 & 4+x\end{array}\right|[/math]
+ [math]=0[/math]
+ [math]\Rightarrow(3+x)\{(2+x)(4+x)-9\}[/math]
+ [math]-4(16+4 x-6)[/math]
+ [math]+2(12-4-2 x)=0[/math]
+ [math]\Rightarrow(3+x)\left(x^{2}+6 x+8-9\right)[/math]
+ [math]-4(4 x+10)+2(8-2 x)=0[/math]
+ [math]\Rightarrow x^{3}+6 x^{2}-x+3 x^{2}+18 x-3[/math]
+ [math]-16 x-40+16-4 x=0[/math]
+ [math]\begin{array}{l}\Rightarrow x^{3}+9 x^{2}-3 x-27=0 \\\Rightarrow x^{2}(x+9)-3(x+9)=0 \\\Rightarrow(x+9)\left(x^{2}-3\right)=0\end{array}[/math]
+অথবা, [math]x^{2}-3=0[/math]
+ [math]\begin{array}{l}\Rightarrow x^{2}=3 \\\Rightarrow x= \pm \sqrt{3}\end{array}[/math]
+হয় [math]x+9=0[/math]
+ [math]\Rightarrow x=-9[/math]
+নির্ণেয় সমাধান সেট [math]=\{-9,-\sqrt{3}, \sqrt{3}\} .[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\left[\begin{array}{ccc}3+x & 4 & 2 \\4 & 2+x & 3 \\2 & 3 & 4+x\end{array}\right][/math]
+ [math]x=-1[/math]
+ হলে [math]A=\left[\begin{array}{lll}2 & 4 & 2 \\4 & 1 & 3 \\2 & 3 & 3\end{array}\right][/math]
+ [math]\therefore|A|=2(3-9)-4(12-6)[/math]
+ [math]+2(12-2)[/math]
+ [math]\Rightarrow-12-24+20[/math]
+ [math]=-16 
+eq 0[/math]
+ [math]\because \quad|A| 
+eq 0[/math]
+ [math]\therefore \quad A^{-1}[/math]
+ বিদ্যমান ।এখন , [math]A_{11}=\left|\begin{array}{ll}1 & 3 \\3 & 3\end{array}\right|=3-9=-6[/math]
+ [math]\begin{array}{l}A_{12}=-\left|\begin{array}{ll}4 & 3 \\2 & 3\end{array}\right|=-(12-6)=-6 \\A_{13}=\left|\begin{array}{ll}4 & 1 \\2 & 3\end{array}\right|=12-2=10 \\A_{21}=-\left|\begin{array}{ll}4 & 2 \\3 & 3\end{array}\right|=-(12-6)=-6 \\A_{22}=\left|\begin{array}{ll}2 & 2 \\2 & 3\end{array}\right|=6-4=2 \\A_{23}=-\left|\begin{array}{ll}2 & 4 \\2 & 3\end{array}\right|=-(6-8)=2 \mathrm{~s} \\A_{31}=\left|\begin{array}{ll}4 & 2 \\1 & 3\end{array}\right|=12-2=10 \\A_{32}=-\left|\begin{array}{ll}2 & 2 \\4 & 3\end{array}\right|=-(6-8)=2 \\A_{33}=\left|\begin{array}{ll}2 & 4 \\4 & 1\end{array}\right|=2-16=-14\end{array}[/math]
+ [math]\operatorname{Adj} A=\left[\begin{array}{lll}A_{11} & A_{12} & A_{13} \\A_{21} & A_{22} & A_{23} \\A_{31} & A_{32} & A_{33}\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{ccc}-6 & -6 & 10 \\-6 & 2 & 2 \\10 & 2 & -14\end{array}\right]^{\mathrm{T}}[/math]
+ [math]=\left[\begin{array}{ccc}-6 & -6 & 10 \\-6 & 2 & 2 \\10 & 2 & -14\end{array}\right][/math]
+ [math]A^{-1}=\frac{1}{|A|} \text { Adj }[/math]
+ [math]A=\frac{1}{-16}\left[\begin{array}{ccc}-6 & -6 & 10 \\-6 & 2 & 2 \\10 & 2 & -14\end{array}\right][/math]
+ [math]\Rightarrow\left[\begin{array}{ccc}\frac{3}{8} & \frac{3}{8} & \frac{-5}{8} \\\frac{3}{8} & \frac{-1}{8} & \frac{-1}{8} \\\frac{-5}{8} & \frac{-1}{8} & \frac{7}{8}\end{array}\right][/math]
+নির্ণেয় [math]A^{-1}=\left[\begin{array}{ccc}\frac{3}{8} & \frac{3}{8} & \frac{-5}{8} \\\frac{3}{8} & \frac{-1}{8} & \frac{-1}{8} \\\frac{-5}{8} & \frac{-1}{8} & \frac{7}{8}\end{array}\right][/math]
+
+
+Explanation:
+ক [math]B=\begin{pmatrix}4&3\\2&5\end{pmatrix}-2I=\begin{pmatrix}2&3\\2&3\end{pmatrix}[/math] — কারণ প্রতিটি ডায়াগোনাল এন্ট্রি থেকে [math]2[/math] বিয়োগ করতে হয়। 
+
+খ [math]|A|=x^3+9x^2-3x-27=(x+9)(x^2-3)=0[/math] থেকে [math]x=-9,\;x=\pm\sqrt{3}[/math] — ডিটারমিন্যান্টকে প্রসারিত করে ফ্যাক্টর করলে এই মানগুলো পাওয়া যায়। 
+
+গ [math]x=-1\Rightarrow A=\begin{pmatrix}2&4&2\\4&1&3\\2&3&3\end{pmatrix},\;|A|=-16[/math] এবং adjoint গণনা করলে 
+[math]A^{-1}=\frac{1}{-16}\begin{pmatrix}-6&-6&10\\-6&2&2\\10&2&-14\end{pmatrix}=
+\begin{pmatrix}3/8&3/8&-5/8\\[4pt]3/8&-1/8&-1/8\\[4pt]-5/8&-1/8&7/8\end{pmatrix}[/math] — এখানে ব্যবহার করা হয়েছে adjugate/ determinant পদ্ধতি।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 410387)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Comilla Victoria Govt. College
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{rrr}1 & 2 & 1 \\3 & -3 & -1 \\2 & 1 & 0\end{array}\right][/math]
+
+Options:
+ক. [math]\left[\begin{array}{cc}2 & -y \\1-y & 2\end{array}\right][/math] [math]=\left[\begin{array}{cc}2 & 2+y \\x+y & 2\end{array}\right][/math] হলে [math]x=?[/math]
+খ. উদ্দীপকের আলোকে [math]A^{2}-9 A+4 I[/math] এর মান নির্ণয় কর ।
+গ. উদ্দীপকের আলোকে [math]\left(\mathrm{A}^{-1}\right)^{\mathrm{T}}[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]\left[\begin{array}{cc}2 & -y \\1-y & 2\end{array}\right]=\left[\begin{array}{cc}2 & 2+y \\x+y & 2\end{array}\right][/math]
+ [math]\therefore-y=2+y[/math]
+ [math]\ldots \text { (i) }[/math]
+ [math]1-y=x+y[/math]
+ [math]\ldots \text { (ii) }[/math]
+(i) নং হতে পাই, [math]-y-y=2[/math]
+ [math]\begin{array}{l}\Rightarrow -2 y=2 \\\therefore y=-1\end{array}[/math]
+y এর মান (ii) নং সমীকরণে বসিয়ে পাই,[math]1-(-1)=x+(-1)[/math]
+ [math]\begin{array}{ll}\Rightarrow & x-1=1+1=2 \\\Rightarrow & x=1+2=3 \\\therefore & x=3\end{array}[/math]
+নির্ণেয় মান : [math]x = 3[/math]
+ [math]\\[/math]
+ খদেওয়া আছে, [math]A=\left[\begin{array}{rrr}1 & 2 & 1 \\3 & -3 & -1 \\2 & 1 & 0\end{array}\right][/math]
+ [math]A^{2}=A \cdot A[/math]
+ [math]=\left[\begin{array}{rrr}1 & 2 & 1 \\3 & -3 & -1 \\2 & 1 & 0\end{array}\right],[/math]
+ [math]\left[\begin{array}{rrr}1 & 2 & 1 \\3 & -3 & -1 \\2 & 1 & 0\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}1+6+2 & 2-6+1 \\3-9-2 & 6+9-1 \\2+3+0 & 4-3+0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}1-2+0 \\3+3-0 \\2-1+0\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}9 & -3 & -1 \\-8 & 14 & 6 \\5 & 1 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}9 & -3 & -1 \\-8 & 14 & 6 \\5 & 1 & 1\end{array}\right][/math]
+ [math]9 A=9\left[\begin{array}{rrr}1 & 2 & 1 \\3 & -3 & -1 \\2 & 1 & 0\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}9 & 18 & 9 \\27 & -27 & -9 \\18 & 9 & 0\end{array}\right][/math]
+ [math]A I=4\left[\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right]=\left[\begin{array}{lll}4 & 0 & 0 \\0 & 4 & 0 \\0 & 0 & 4\end{array}\right][/math]
+ [math]\therefore A^{2}-9 A+4 I[/math]
+ [math]=\left[\begin{array}{rrr}9 & -3 & -1 \\-8 & 14 & 6 \\5 & 1 & 1\end{array}\right][/math]
+ [math]-\left[\begin{array}{rrr}9 & 18 & 9 \\27 & -27 & -9 \\18 & 9 & 0\end{array}\right][/math]
+ [math]+\left[\begin{array}{lll}4 & 0 & 0 \\0 & 4 & 0 \\0 & 0 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}0 & -21 & -10 \\-35 & 41 & 15 \\-13 & -8 & 1\end{array}\right][/math]
+ [math]+\left[\begin{array}{lll}4 & 0 & 0 \\0 & 4 & 0 \\0 & 0 & 4\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}4 & -21 & -10 \\-35 & 45 & 15 \\-13 & -8 & 5\end{array}\right][/math]
+নির্ণেয় মান [math]\left[\begin{array}{rrr}4 & -21 & -10 \\-35 & 45 & 15 \\-13 & -8 & 5\end{array}\right] \text {. }[/math]
+ [math]\\[/math]
+ গদেওয়া আছে, [math]A=\left[\begin{array}{rrr}1 & 2 & 1 \\3 & -3 & -1 \\2 & 1 & 0\end{array}\right][/math]
+ [math]\therefore \quad|A|=1(0+1)-2(0+2)[/math]
+ [math]+1(3+6)[/math]
+ [math]=1-4+9=6[/math]
+A এর সহগুণকসমূহ[math]A_{11}=\left|\begin{array}{rr}-3 & -1 \\1 & 0\end{array}\right|[/math]
+ [math]=0+1=1[/math]
+ [math]A_{12}=-\left|\begin{array}{rr}3 & -1 \\2 & 0\end{array}\right|[/math]
+ [math]=-(0+2)=-2[/math]
+ [math]A_{13}=\left|\begin{array}{rr}3 & -3 \\2 & 1\end{array}\right|[/math]
+ [math]=3+6=9[/math]
+ [math]A_{21}=-\left|\begin{array}{ll}2 & 1 \\1 & 0\end{array}\right|[/math]
+ [math]=-(0-1)=1[/math]
+ [math]A_{22}=\left|\begin{array}{ll}1 & 1 \\2 & 0\end{array}\right|[/math]
+ [math]=0-2=-2[/math]
+ [math]A_{23}=\left|\begin{array}{ll}1 & 2 \\2 & 1\end{array}\right|[/math]
+ [math]=-(1-4)=3[/math]
+ [math]A_{31}=\left|\begin{array}{rr}2 & 1 \\-3 & -1\end{array}\right|[/math]
+ [math]=-2+3=1[/math]
+ [math]A_{32}=-\left|\begin{array}{rr}1 & 1 \\3 & -1\end{array}\right|[/math]
+ [math]=-(-1-3)=4[/math]
+ [math]A_{33}=\left|\begin{array}{rr}1 & 2 \\3 & -3\end{array}\right|[/math]
+ [math]=-3-6=-9[/math]
+ [math]\operatorname{Adj} A=\left[\begin{array}{rrr}1 & -2 & 9 \\1 & -2 & 3 \\1 & 4 & -9\end{array}\right]^{\mathrm{T}}[/math]
+A এর বিপরীত ম্যাট্রিক্স [math]\mathrm{A}^{-1}[/math]
+ [math]=\frac{1}{|A|} \operatorname{Adj} A[/math]
+ [math]=\frac{1}{6}\left[\begin{array}{rrr}1 & -2 & 9 \\1 & -2 & 3 \\1 & 4 & -9\end{array}\right]^{T}[/math]
+ [math]=\frac{1}{6}\left[\begin{array}{rrr}1 & 1 & 1 \\-2 & -2 & 4 \\9 & 3 & -9\end{array}\right][/math]
+ [math]\therefore A^{-1}=\left[\begin{array}{rrr}\frac{1}{6} & \frac{1}{6} & \frac{1}{6} \\-\frac{1}{3} & -\frac{1}{3} & \frac{2}{3} \\\frac{3}{2} & \frac{1}{2} & -\frac{3}{2}\end{array}\right][/math]
+ [math]\therefore\left(A^{-1}\right)^{T}=\left[\begin{array}{rrr}\frac{1}{6} & \frac{1}{6} & \frac{1}{6} \\-\frac{1}{3} & -\frac{1}{3} & \frac{2}{3} \\\frac{3}{2} & \frac{1}{2} & -\frac{3}{2}\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}\frac{1}{6} & -\frac{1}{3} & \frac{3}{2} \\\frac{1}{6} & -\frac{1}{3} & \frac{1}{2} \\\frac{1}{6} & \frac{2}{3} & -\frac{3}{2}\end{array}\right][/math]
+ [math]=\frac{1}{6}\left[\begin{array}{rrr}1 & -2 & 9 \\1 & -2 & 3 \\1 & 4 & -9\end{array}\right][/math]
+নির্ণেয় [math]\left(A^{-1}\right)^{T}[/math]
+ [math]=\frac{1}{6}\left[\begin{array}{rrr}1 & -2 & 9 \\1 & -2 & 3 \\1 & 4 & -9\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক সমানতার প্রতিটি অঙ্গসাম্য মিলিয়ে নিলে (1,2)-অঙ্গ থেকে [math]-y=2+y[/math] পাওয়া যায়, তাই [math]y=-1[/math]; এরপর (2,1)-অঙ্গে [math]1-y=x+y[/math] রেখে [math]y=-1[/math] বসালে [math]2=x-1[/math] থেকে [math]x=3[/math]।
+
+খ প্রথমে [math]A^{2}=\begin{pmatrix}9 & -3 & -1\\ -8 & 14 & 6\\ 5 & 1 & 1\end{pmatrix}[/math] পাওয়া যায়, তাই [math]A^{2}-9A+4I=\begin{pmatrix}4 & -21 & -10\\ -35 & 45 & 15\\ -13 & -8 & 5\end{pmatrix}[/math] হয়।
+
+গ det\,[math]A=6[/math] এবং কোফ্যাক্টর ম্যাট্রিক্স হলে [math]\text{C}=\begin{pmatrix}1 & -2 & 9\\ 1 & -2 & 3\\ 1 & 4 & -9\end{pmatrix}[/math]; তাই [math](A^{-1})^{T}=\frac{1}{6}\begin{pmatrix}1 & -2 & 9\\ 1 & -2 & 3\\ 1 & 4 & -9\end{pmatrix}[/math] (কারণ [math](A^{-1})^{T}=(1/\det A)\,\text{C}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 410388)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019, 2017-2018 | Boards:  | Tags: Jessore University of Science & Technology (A Unit), Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+k এর কোন মানের জন্য [math]\begin{vmatrix}k{\sqrt{k}} & 2 \\2& {\sqrt{k}}\end{vmatrix}[/math] ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স পাওয়া যাবে না ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+সমাধান: (c); [math]k^2-4=0\Longrightarrow k =\pm{2}[/math]
+
+Explanation:
+ব্যাখ্যা: একটি 2×2 ম্যাট্রিক্সের বিপরীত তখনই নেই যখন এর ডিটারমিনেন্ট শূন্য; এখানে [math]\det = k\sqrt{k}\cdot\sqrt{k}-2\cdot2 = k^2-4[/math]. তাই [math]k^2-4=0\Rightarrow k=\pm2[/math], কিন্তু [math]\sqrt{k}[/math] বাস্তব থাকতে হলে [math]k\ge0[/math], ফলে মানটি হবে [math]k=2[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 410406)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]M=\left[\begin{array}{rr}1 & 3 \\0 & -1\end{array}\right][/math] হলে-
+
+[math]\mathbf{M}^{-1}[/math] কোনটি?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+আমরা জানি , [math]\left[\begin{array}{cc}a & b \\c & d\end{array}\right][/math]
+ ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্স [math]=\frac{1}{a d-bc}[/math]
+ [math]\left[\begin{array}{cc}d-b\\-c & a\end{array}\right][/math]
+ [math]\mathrm{M}^{-1}[/math]
+ [math]=\frac{1}{1(-1)-0.3}\left[\begin{array}{rr}-1 & -3 \\0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{lr}1 & 3\\0 & -1\end{array}\right][/math]
+
+
+Explanation:
+ব্যাখ্যা: দুই-গুণা ম্যাট্রিক্সের সূত্র অনুযায়ী [math]\det M=1\cdot(-1)-0\cdot3=-1\neq0[/math], ফলে বিপরীত বিদ্যমান। তাই
+[math]M^{-1}=\frac{1}{-1}\begin{pmatrix}-1 & -3\\[4pt]0 & 1\end{pmatrix}=\begin{pmatrix}1 & 3\\[4pt]0 & -1\end{pmatrix}=M[/math], অতএব D সঠিক।
+
+Sub-Questions:
+

@@ -1,0 +1,3371 @@
+================================================================================
+Question #1 (ID: 421409)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Muminunisa Government Mohila College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+প্রত্যেকটি পাতের ক্ষেত্রফল [math]=2m^2[/math]
+
+Options:
+ঘ. ধারকের পাতদ্বয়ের ঠিক মাঝখানে অনুরূপ আরও একটি পাতলা পাত সমান্তরালে প্রবেশ করালে সঞ্চিত শক্তির কীরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, সমান্তরাল পাত ধারকের ধারকত্ব,[math]C_{1}=C_{2}=\frac{k \epsilon_{0} A}{\frac{d}{2}}=\frac{2 k \in_{0} A}{d}=2 C[/math]
+একটি পাতলা পাত সমান্তরালে প্রবেশ করালে তুল্য ধারকত্ব,[math]\begin{aligned}& \frac{1}{\mathrm{C}_{\mathrm{s}}}=\frac{1}{\mathrm{C}_{1}}+\frac{1}{\mathrm{C}_{2}}=\frac{1}{2 \mathrm{C}}+\frac{1}{2 \mathrm{C}}=\frac{-2}{2 \mathrm{C}}=\frac{1}{\mathrm{C}} \\\therefore \quad \mathrm{C}_{\mathrm{s}} & =\mathrm{C}\end{aligned}[/math]
+সঞ্চিত শক্তি, [math]\mathrm{U}^{\prime}=\frac{1}{2} \mathrm{C}_{\mathrm{s}} \mathrm{V}^{2}=\frac{1}{2} \mathrm{CV}^{2}=1.11 \times 10^{-9} \mathrm{~J}[/math]
+অর্থাৎ সঞ্চিত শক্তি একই থাকবে ।অতএব, ধারকের পাতদ্বয়ের মাঝখানে একটি পাতলা পাত সমান্তরালে প্রবেশ করালে সঞ্চিত শক্তির কোনো পরিবর্তন হবে না ।
+
+Explanation:
+ব্যাখ্যা: ঘ ধারকের মাঝখানে সমান্তরালে পাত দিলে দুইটি সমান শ্রেণীর ধারক তৈরি হয়; মূল ধারকের ধারণক্ষমতা [math]C=\epsilon_0A/d[/math] হলে প্রতিটির ধারণক্ষমতা হবে [math]C_1=C_2=\epsilon_0A/(d/2)=2C[/math]. এই দুটো ধারক সিরিজে যুক্ত থাকায় সমমানের ধারণক্ষমতা [math]C_{\rm eq}=(1/C_1+1/C_2)^{-1}=(1/2C+1/2C)^{-1}=C[/math] থাকে, তাই সংরক্ষিত শক্তি [math]U=Q^2/(2C)[/math] (অথবা স্থায়ী ভোল্টেজে [math]U=\tfrac12CV^2[/math]) অপরিবর্তিত থাকবে।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 421410)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: NGDCR
+--------------------------------------------------------------------------------
+Question:
+দুইদল শিক্ষার্থীর প্রথম দলকে [math]15\ \mu F[/math] মানের তিনটি ধারক শ্রেণি সমবায়ে সজ্জিত করে [math]4V[/math] এর তড়িৎ কোষের সাথে সজ্জিত করে একটি বর্তনী তৈরি করতে বলা হলো। দ্বিতীয় দলকে [math]5V[/math] এর তিনটি তড়িৎ কোষকে সমান্তরাল সমবায়ের সাথে [math]100\ \Omega[/math] মানের রোধ যুক্ত ক রতে বলায় তারা প্রবাহ [math]0.15\ A[/math] পেল।
+
+Options:
+গ. প্রথম দলের ক্ষেত্রে সঞ্চিত শক্তি বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, প্রতিটি ধারকের ধারকত্ব, [math]\mathrm{C}=15 \mu \mathrm{F}=15 \times 10^{-6} \mathrm{~F}[/math]
+বিভব V = 4V[math]\therefore[/math]
+ তুল্যরোধ, [math]\frac{1}{C_{s}}=\frac{1}{C}+\frac{1}{C}+\frac{1}{C}=\frac{3}{C}[/math]
+বা, [math]C_{s}=\frac{C}{3}=\frac{15 \times 10^{-6}}{3} F=5 \times 10^{-6} F[/math]
+ [math]\therefore[/math]
+ সঞ্চিত শক্তি [math]U=\frac{1}{2} C_{s} V^{2}=\frac{1}{2} \times 5 \times 10^{-6} \times 4^{2}=4 \times 10^{-5} \mathrm{~J}[/math]
+অতএব, প্রথম দলের ক্ষেত্রে সঞ্চিত শক্তি [math]4 \times 10^{-5} \mathrm{~J}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ সিরিজে তিনটি সমমান ধারকের সমপরিবাহিত ক্ষমতা হবে [math]C_{eq}=\dfrac{15\ \mu F}{3}=5\ \mu F[/math]; সঞ্চিত শক্তি [math]U=\tfrac{1}{2}C_{eq}V^2=\tfrac{1}{2}\times5\times10^{-6}\times4^2=40\times10^{-6}\ \text{J}=40\ \mu\text{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 421408)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Muminunisa Government Mohila College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+প্রত্যেকটি পাতের ক্ষেত্রফল [math]=2m^2[/math]
+
+Options:
+গ. ধারকে সঞ্চিত শক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, প্রত্যেক পাতের ক্ষেত্রফল, A = [math]0.2m^{2}[/math]
+পাতের মধ্যবর্তী দূরত্ব, d = 2 cm = 0.02 mতড়িৎ ভেদন যোগ্যতা, [math]\epsilon_{0 .}=8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2}[/math]
+বায়ু মাধ্যমে পরাবৈদ্যুতিক ধ্রুবক, K = 1[math]\therefore[/math]
+ সমান্তরাল পাত ধারকের ধারকত্ব,[math]\begin{array}{l}C=\frac{k \in_{0} A}{d}\\=\frac{1 \times 8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \times 0.2 \mathrm{~m}^{2}}{0.02 \mathrm{~m}} \\=8.854 \times 10^{-11} \mathrm{~F}\end{array}[/math]
+আমরা জানি,[math]\begin{aligned}\mathrm{U} & =\frac{1}{2} C V^{2} \\& =\frac{1}{2} \times\left(8.854 \times 10^{-11} \mathrm{~F}\right) \times(5 \mathrm{~V})^{2}=1.11 \times 10^{-9} \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore[/math]
+ ধারকে সঞ্চিত শক্তি [math]1.11 \times 10^{-9} \mathrm{~J}[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: ধারকে সঞ্চিত শক্তি নির্ণয়ের সাধারণ সূত্র হলো [math]U=\tfrac{1}{2}CV^2[/math] এবং সমান্তরাল পাতের ধারকের ধারণক্ষমতা [math]C=\dfrac{\varepsilon_0 A}{d}[/math], যেখানে [math]A=2\ \mathrm{m^2}[/math]। অতএব মোট শক্তি হবে [math]U=\tfrac{1}{2}\dfrac{\varepsilon_0 A}{d}V^2[/math]; যদি আপনি [math]d[/math] এবং [math]V[/math] এর মান দেন, তখন তা প্রতিস্থাপন করে সংখ্যাগত মান পাবেন।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 421407)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Shahid Syed Nazrul Islam College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও :
+
+[Image]
+
+
+চিত্রে [math]\left(C_{2}=4 m F\right)[/math] সহ তিনটি ধারক মিশ্র সমবায়ে ছিল। পদার্থবিজ্ঞানের ছাত্র সুমন এদের এরূপ সমবায়কে পরিবর্তন করে অর্থাৎ ২য় এবং ৩য় ধারকের শ্রেণি সমবায়ের সাথে ১মটির সমান্তরাল সমবায় করে ফলাফল সম্পর্কে চিন্তা করেছিল।
+
+Options:
+ঘ. পরিবর্তনের পূর্বে এবং পরে সমবায়ের সঞ্চিত শক্তির তুলনামুলক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ'গ' হতে পাই,পরিবর্তনের পূর্বে তুল্য ধারকত্ব, C= [math]\frac{55}{16}[/math]
+mFবিভব, V = 12 V[math]\therefore[/math]
+ সঞ্চিত শক্তি,[math]\begin{aligned}U_{1} & =\frac{1}{2} C V^{2} \\& =\frac{1}{2} \times \frac{55}{16} \times 10^{-3} \mathrm{~F} \times(12 \mathrm{~V})^{2}=0.2475 \mathrm{~J}\end{aligned}[/math]
+পরিবর্তনের পরে [math]C_{2}[/math]
+ ও [math]C_{3}[/math]
+ শ্রেণী সমবায়ে থাকলে এদের তুল্য ধারকত্ব,[math]\frac{1}{C_{8}}=\frac{1}{C_{2}}+\frac{1}{C_{3}}[/math]
+বা, [math]\frac{1}{C_{s}}=\frac{1}{4 \mathrm{mF}^{2}}+\frac{1}{7 \mathrm{mF}}[/math]
+বা, [math]\mathrm{C}_{\mathrm{s}}=\frac{28}{11} \mathrm{mF}[/math]
+আবার, [math]C_{s}[/math]
+ ও [math]C_{1}[/math]
+ সমান্তরালে থাকলে তুল্য ধারকত্ব,[math]\begin{aligned}\mathrm{C}^{\prime} & =\mathrm{C}_{\mathrm{s}}+\mathrm{C}_{1} \\& =\frac{28}{11} \mathrm{mF}+5 \mathrm{mF} \\& =\frac{83}{11} \mathrm{mF}\end{aligned}[/math]
+ [math]\therefore[/math]
+ সঞ্চিত শক্তি,[math]\begin{aligned}U_{2} & =\frac{1}{2} C^{\prime} V^{2} \\& =\frac{1}{2} \times \frac{83}{11} \times 10^{-3} \mathrm{~F} \times(12 \mathrm{~V})^{2} \\& =0.543 \mathrm{~J}\end{aligned}[/math]
+ [math]\mathrm{U}_{2} >\mathrm{U}_{1}[/math]
+অতএব, পরিবর্তনের পরে সমবায়ের সজ্জিত শক্তি বেশি হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: পরিবর্তনের পূর্বে সমতুল্য ধারক [math]C_{eq,{\rm before}}=\dfrac{C_1(C_2+C_3)}{C_1+C_2+C_3}[/math] এবং পরে [math]C_{eq,{\rm after}}=C_1+\dfrac{C_2C_3}{C_2+C_3}[/math]. তুলনা করলে [math](C_{eq,{\rm after}}-C_{eq,{\rm before}})(C_1+C_2+C_3)=C_1^2+ C_1\frac{C_2C_3}{C_2+C_3}+C_2C_3>0[/math], তাই [math]C_{eq,{\rm after}}>C_{eq,{\rm before}}[/math]. একই ভল্টেজে সঞ্চিত শক্তি [math]U=\tfrac{1}{2}C_{eq}V^2[/math] হওয়ায় পরিবর্তনের পরে সঞ্চিত শক্তি বেড়ে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 421406)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Shahid Syed Nazrul Islam College, Mymensingh
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রটি লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও :
+
+[Image]
+
+
+চিত্রে [math]\left(C_{2}=4 m F\right)[/math] সহ তিনটি ধারক মিশ্র সমবায়ে ছিল। পদার্থবিজ্ঞানের ছাত্র সুমন এদের এরূপ সমবায়কে পরিবর্তন করে অর্থাৎ ২য় এবং ৩য় ধারকের শ্রেণি সমবায়ের সাথে ১মটির সমান্তরাল সমবায় করে ফলাফল সম্পর্কে চিন্তা করেছিল।
+
+Options:
+গ. পরিবর্তনের পূর্বে সমবায়ের তুল্য ধারকত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই, [math]C_{1}[/math]
+ = 5 mF, [math]C_{2}[/math]
+ = 4 mF, [math]C_{3}[/math]
+ =7mFএখানে, [math]C_{2}[/math]
+ ও [math]C_{3}[/math]
+ সমান্তরালে সংযুক্ত বলে এদের তুল্য ধারকত্ব,[math]C_{p}[/math]
+ = [math]C_{2}[/math]
+ + [math]C_{3}[/math]
+ = 4 mF + 7mF = 11 mFএখন, [math]C_{1}[/math]
+ ও [math]C_{p}[/math]
+ শ্রেণি সমবায়ে যুক্ত[math]\therefore[/math]
+ বর্তনীর তুল্য ধারকত্ব C হলে[math]\frac{1}{C}=\frac{1}{C_{1}}+\frac{1}{C_{p}}[/math]
+বা, [math]\frac{1}{\mathrm{C}}=\frac{1}{5 \mathrm{mF}}+\frac{1}{11 \mathrm{mF}}[/math]
+বা, [math]\frac{55}{16}[/math]
+mF[math]\therefore[/math]
+ পরিবর্তনের পূর্বে সমবায়ের তুল্য ধারকত্ব [math]\frac{55}{16}[/math]
+mF
+
+Explanation:
+গ চিত্রটি পরিষ্কার না থাকায় বাইনারি মান (C1 ও C3) জানা নেই; তাই সরাসরি সংখ্যাগত তুল্য ধারকত্ব দেওয়া সম্ভব নয়। যদি মূলভাবে C1 ধারকটি C2 ও C3 এর সমান্তরাল যোগফলের সঙ্গে শ্রেণি (series) যুক্ত থাকে, তাহলে তুল্য ধারকত্ব হবে [math]C_{eq}=\dfrac{C_1\,(C_2+C_3)}{C_1+C_2+C_3}[/math] — কারণ প্রথমে সমান্তরাল ধারকদের যোগফল নেয়া হয় এবং তারপর সিরিজের সূত্র প্রয়োগ করা হয়। C1 ও C3 এর মান দিলে আমি সংখ্যায় উত্তর দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 421403)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দু'টি বর্তনী যার প্রত্যেকটি বর্তনীতে সমান ধারকত্বের দুটি ধারক আছে।
+
+[Image]
+
+
+Options:
+ঘ. [math]A[/math] ও [math]B[/math] বর্তনীতে সমান শক্তি সঞ্চিত রাখতে হলে ভোল্টেজ [math]V_1[/math] এর মান [math]V_1[/math] এর মানের চেয়ে বেশি না কম হবে- গাণিতিকবাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ‘গ' হতে পাই, A বর্তনীর তুল্য ধারকত্ব, [math]C_{A}=\frac{C}{2}[/math]
+ এবং B বর্তনীর তুল্য ধারকত্ব, [math]C_{B}[/math]
+ = 2Cবর্তনীতে সজ্জিত শক্তি,[math]\mathrm{U}_{\mathrm{B}}=\frac{1}{2} \mathrm{C}_{\mathrm{A}} \mathrm{V}_{1}^{2}=\frac{1}{2} \frac{\mathrm{C}}{2} \times \mathrm{V}_{1}^{2}[/math]
+ [math]\therefore \mathrm{U}_{\mathrm{A}}=\frac{\mathrm{CV}_{1}^{2}}{4}[/math]
+ ...................(i)B বর্তনীতে সঞ্চিত শক্তি,[math]\mathrm{U}_{\mathrm{B}}=\frac{1}{2} \mathrm{C}_{\mathrm{B}} \mathrm{V}_{2}^{2}=\frac{1}{2} \times 2 \mathrm{C} \times \mathrm{V}_{2}^{2}[/math]
+ [math]\therefore \mathrm{U}_{\mathrm{B}}=\mathrm{CV}_{2}{ }^{2}[/math]
+এখন, [math]\mathrm{U}_{\mathrm{A}}=\mathrm{U}_{\mathrm{B}}[/math]
+ হলে,বা, [math]\frac{\mathrm{CV}_{1}^{2}}{4}=\mathrm{CV}_{2}^{2}[/math]
+বা, [math]V_{1}^{2}=4 V_{2}^{2}[/math]
+বা, [math]V_{1}=2 V_{2}[/math]
+বা, [math]\frac{V_{1}}{V_{2}}=2[/math]
+অর্থাৎ, [math]\frac{V_{1}}{V_{2}}>1[/math]
+বা, [math]V_{1} > V_{2}[/math]
+ হবেঅতএব, A ও B বর্তনীতে সমান শক্তি সঞ্চিত রাখতে হলে ভোল্টেজ [math]V_{1}[/math]
+ এর মান [math]V_{2}[/math]
+ এর মানের চেয়ে বেশি হতে হবে।
+
+Explanation:
+ঘ দুটি ধারকের সমতুল্য: সিরিজে [math]C_s=\tfrac{C}{2}[/math], সমান্তরালে [math]C_p=2C[/math]. সমান শক্তি রাখলে [math]\tfrac12 C_s V_1^2=\tfrac12 C_p V_2^2\Rightarrow \tfrac12\cdot\tfrac{C}{2}V_1^2=\tfrac12\cdot2C V_2^2[/math], ফলে [math]V_1^2=4V_2^2[/math] এবং [math]V_1=2V_2[/math], অর্থাৎ [math]V_1[/math] হবে বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 421404)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]10^{-4} \mathrm{~cm}^{2}[/math] পাতদ্বয় বায়ুতে পরস্পর হতে [math]1\ cm[/math] ব্যবধানে অবস্থিত। প্রত্যেক পাতে সরবরাহকৃত চার্জের পরিমাণ [math]8.9 \times 10^{-10} \mathrm{C}[/math]।
+
+Options:
+গ. ধারকের একক আয়তনে সঞ্চিত শক্তির পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, প্রতি পাতের ক্ষেত্রফল, [math]\mathrm{A}=10^{-4} \mathrm{~cm}^{2}=10^{-8} \mathrm{~m}^{2}[/math]
+সমান্তরাল পাত দুটির মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=1 \mathrm{~cm}=10^{-2} \mathrm{~m}[/math]
+তড়িৎ ভেদন যোগ্যতা, [math]\epsilon_{0}=8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2}[/math]
+চার্জের পরিমাণ, [math]\mathrm{Q}=8.9 \times 10^{-10} \mathrm{C}[/math]
+সমান্তরাল পাত ধারকের ধারকত্ব, [math]C=\frac{\epsilon_{0} A}{d}[/math]
+আমরা জানি, একক আয়তনে সঞ্চিত শক্তি,[math]\mathrm{U}=\frac{\mathrm{Q}^{2}}{2 \mathrm{C} \times \mathrm{Ad}}[/math]
+বা, [math]\begin{aligned}U & =\frac{Q^{2}}{2 \frac{\epsilon_{0} A}{d} \cdot A d}=\frac{Q^{2}}{2 \epsilon_{0} A^{2}} \\& =\frac{\left(8.9 \times 10^{-10}\right)^{2}}{2 \times 8.854 \times 10^{-12} \times\left(10^{-8}\right)^{2}}=4.47 \times 10^{8} \mathrm{~J}\end{aligned}[/math]
+
+
+Explanation:
+গ ধারকের একক আয়তনে সঞ্চিত শক্তি শক্তি-ঘনত্ব সূত্র থেকে: [math]u=\tfrac{1}{2}\varepsilon_0 E^2[/math] এবং [math]E=\sigma/\varepsilon_0=Q/(\varepsilon_0 A)[/math], তাই [math]u=\tfrac{1}{2}\dfrac{Q^2}{\varepsilon_0 A^2}[/math]। সংখ্যাগতভাবে, [math]Q=8.9\times10^{-10}\,\mathrm{C},\ A=10^{-4}\,\mathrm{cm}^2=10^{-8}\,\mathrm{m}^2,\ \varepsilon_0=8.85\times10^{-12}\,\mathrm{F/m}[/math] বসালে [math]u\approx4.48\times10^{8}\,\mathrm{J/m^3}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 421405)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]10^{-4} \mathrm{~cm}^{2}[/math] পাতদ্বয় বায়ুতে পরস্পর হতে [math]1\ cm[/math] ব্যবধানে অবস্থিত। প্রত্যেক পাতে সরবরাহকৃত চার্জের পরিমাণ [math]8.9 \times 10^{-10} \mathrm{C}[/math]।
+
+Options:
+ঘ. উদ্দীপকের ধারকটির সমান চারটি ধারককে কিভাবে সংযুক্ত করলে সঞ্চিত শক্তির পরিমাণ সর্বাধিক হবে গাণিতিক বিশ্লেষণসহ ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]C_{1} = C_{2} = C_{3} = C_{4} = C[/math]
+সমান্তরাল সমবায়ের ক্ষেত্রে তুল্য ধারকত্ব,[math]\begin{aligned}C_{p} & =C_{1}+C_{2}+C_{3}+C_{4} \\& =C+C+C+C=4 C\end{aligned}[/math]
+সমান্তরাল পাতধারকে সঞ্চিত শক্তি, [math]\mathrm{U}_{\mathrm{p}}=\frac{1}{2} \mathrm{C}_{\mathrm{p}} \mathrm{V}^{2}=\frac{1}{2} \times 4 \mathrm{C} \times \mathrm{V}^{2}[/math]
+আমরা জানি, 1 টি ধারকের সঞ্চিত শক্তি, [math]\mathrm{U}=\frac{1}{2} \mathrm{CV}^{2}[/math]
+এখন, [math]\frac{U_{p}}{U}=\frac{\frac{1}{2} \times 4 C \times V^{2}}{\frac{1}{2} C V^{2}}=4[/math]
+বা, [math]U_{p}[/math]
+ = 4 Uসমান্তরাল পাত ধারকে সঞ্চিত শক্তি একটি ধারকে সঞ্চিত শক্তির চার গুণ
+
+Explanation:
+ঘ ব্যাখ্যা: ব্যাটারি দ্বারা একই ভোল্টেজ [math]V[/math] সরবরাহ করলে মোট সঞ্চিত শক্তি বেশি হবে যেখানে সমতুল্য ধারক ধারনক্ষমতা সর্বোচ্চ; সব চারটি ধারক সমান্তরালে সংযুক্ত করলে [math]C_{eq}=4C[/math] এবং শক্তি [math]U=\tfrac12 C_{eq}V^2=\tfrac12(4C)V^2=2CV^2[/math] হয়। বিপরীতে সিরিজে হলে [math]C_{eq}=C/4[/math] এবং [math]U=\tfrac12(C/4)V^2=\tfrac{1}{8}CV^2[/math] হয়, তাই সমান্তরাল সংযোগে সঞ্চিত শক্তি সর্বাধিক।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 421402)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+[math]A[/math] ও [math]B[/math] দু'টি বর্তনী যার প্রত্যেকটি বর্তনীতে সমান ধারকত্বের দুটি ধারক আছে।
+
+[Image]
+
+
+Options:
+গ. প্রমাণ কর যে, [math]B[/math] বর্তনীর তুল্য ধারকত্ব; [math]A[/math] বর্তনীর তুল্য ধারকত্বের [math]4[/math] গুণ।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, A ও B বর্তনীর তুল্য ধারকত্ত্ব যথাক্রমে [math]\mathrm{C}_{\mathrm{A}}[/math]
+ ও [math]\mathrm{C}_{\mathrm{B}}[/math]
+ [math]\therefore \frac{1}{\mathrm{C}_{\mathrm{A}}}=\frac{1}{\mathrm{C}}+\frac{1}{\mathrm{C}}[/math]
+বা, [math]\frac{1}{C_{\mathrm{A}}}=\frac{1+1}{C}[/math]
+বা, [math]C_{A}=\frac{C}{2}[/math]
+বা, C = [math]2\mathrm{C}_{\mathrm{A}}[/math]
+আবার, [math]\mathrm{C}_{\mathrm{B}}[/math]
+ = C + Cবা, [math]\mathrm{C}_{\mathrm{B}}[/math]
+ = 2 Cবা, [math]\mathrm{C}_{\mathrm{B}} = 2 \times 2\mathrm{C}_{\mathrm{A}}[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{B}} = 4 \times \mathrm{C}_{\mathrm{A}}[/math]
+অর্থা, B বর্তনীর তুল্য ধারকত্ব = 4 [math]\times[/math]
+ A বর্তনীর তুল্য ধারকত্বঅতএব, B বর্তনীর তুল্য ধারকত্ব A বর্তনীর তুল্য ধারকত্বের 4 গুণ। (প্রমাণিত)
+
+Explanation:
+ব্যাখ্যা: গ অনুযায়ী প্রতিটি ধারক ধরা হল [math]C[/math]। সিরিজে যুক্ত হলে A-র তুল্য ধারকত্ব হবে [math]C_A=\dfrac{C}{2}[/math] এবং সমান্তরালে যুক্ত হলে B-র তুল্য ধারকত্ব হবে [math]C_B=2C[/math]। তাই [math]C_B=2C=4\left(\dfrac{C}{2}\right)=4C_A[/math], অর্থাৎ [math]B[/math] হলো [math]A[/math]-র তুল্য ধারকত্বের 4 গুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 421401)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রদত্ত বর্তনীটির [math]4.5 \ \mu F[/math] ধারকের দুই পাতের বিভব পার্থক্য নির্ণয় করো।
+
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](8V)[/math]
+ [math]\\[/math]
+ [math][/math]
+
+[Image]
+এখানে,[math]\begin{array}{l} C_{1}=4.5 \mu \mathrm{F} \\ C_{2}=3 \mu \mathrm{F} \\ C_{3}=6 \mu \mathrm{F} \end{array}[/math]
+তুল্য ধারকত্ব [math]=C[/math]
+ভোল্টেজ, [math]V=12V[/math]
+ [math]C_1[/math]
+ ধারকএর দুই পাতের বিভব পার্থক্য, [math]V_1 =?[/math]
+আমরা জানি,[math]\begin{aligned} C & =\left(\frac{1}{C_{2}+C_{3}}+\frac{1}{C_{1}}\right)^{-1} \\ & =\left(\frac{1}{3+6}+\frac{1}{4.5}\right)^{-1} \mu \mathrm{F} \\ & =\left(\frac{1}{9}+\frac{1}{4.5}\right)^{-1} \mu \mathrm{F} \\ & =3 \mu \mathrm{F} \end{aligned}[/math]
+ [math]\therefore[/math]
+ সঞ্চিত চার্জ,[math]\begin{aligned} Q & =C V \\ & =3 \times 12 \mu \mathrm{C} \\ & =36 \mu \mathrm{C} \end{aligned}[/math]
+ [math]\begin{aligned} \therefore \mathrm{V} & =\frac{\mathrm{Q}}{\mathrm{C}_{1}} \\ & =\frac{36}{4.5} \mathrm{~V} \\ & =8 \mathrm{~V} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ছবিটি এখানে লোড হয়নি তাই বর্তনী দেখতে পাচ্ছি না; অনুগ্রহ করে ব্যাটারির ভোল্টেজ ও বাকি ধারকগুলোর মান ও তাদের সংযোগ (সিরিজ/সমান্তর বা নোড অবস্থান) লিখে দিন।  
+আপনি যদি শুধুমাত্র [math]4.5\ \mu F[/math] ধারকটির দুই পাতার বিভব পার্থক্য জানতে চান, তাহলে ব্যাটারির ভোল্টেজ এবং ধারকগুলোর সমমান বা সমতুল্য কপাসিট্যান্স জানালে আমি সরাসরি [math]V=Q/C[/math] বা সমমান ব্যবহার করে গণনা দেখিয়ে দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 421400)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রের বর্তনীটির [math]A[/math] ও [math]B[/math] বিন্দুর মধ্যকার তুল্য ধারকত্ব নির্ণয় করো। যেখানে [math]C_1 = C_4 =1 \mu F[/math] এবং [math]2 \mu F[/math]
+
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3 \mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,[math]C_1 =C_4=1 \mu F[/math]
+ [math]C_2 = C_3 = 2 \mu F[/math]
+তুল্য ধারকত্ব, [math]=?[/math]
+
+[Image]
+[math]\left[\mathrm{Cs}=2 \| 2=\frac{2 \times 2}{2+2}=1 \mu \mathrm{F}\right][/math]
+
+[Image]
+[math]\therefore[/math]
+ নির্ণেয় তুল্য ধারকত্ব [math]=3 \mu F \ (Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: উপরের শাখায় [math]C_1[/math] ও [math]C_2[/math] ধারাবাহিক এবং নিচের শাখায় [math]C_3[/math] ও [math]C_4[/math] ধারাবাহিক এবং দুটি শাখা পরস্পর প্যারালেল। তাই প্রতিটি শাখার সমতুল্য হল [math]C_{top}=\frac{C_1C_2}{C_1+C_2}=\frac{1\times2}{1+2}=\frac{2}{3}\ \mu F[/math] এবং [math]C_{bot}=\frac{C_3C_4}{C_3+C_4}=\frac{2\times1}{2+1}=\frac{2}{3}\ \mu F[/math]। মোট তুল্য ধারকত্ব [math]C_{eq}=C_{top}+C_{bot}=\frac{4}{3}\ \mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 421396)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি চার্জিত ধারকের ফলাফল নিচের তালিকায় দেখানো হলো–
+
+
+[Image]
+
+
+x-অক্ষে বিভব পার্থক্য এবং y-অক্ষে সঞ্চিত চার্জ বসিয়ে একটি লেখচিত্র অংকন করো। লেখচিত্র হতে ধারকের ধারকত্ব নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](7.5 \mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+এই লেখের ঢালই হবে ধারকের নির্ণেয় ধারকত্ব।লেখটি যেহেতু সরলরেখা, তাই যেকোনো বিন্দুতে ঢালই হবে উত্ত রেখার ঢাল তথা ধারকের ধারকত্ব। আমরা এখানে [math](12V,90 \ \mu F)[/math]
+ বিন্দুতে হিসেব করবো।এখানে,চার্জ, [math]q=90 \mu C[/math]
+বিভব পার্থক্য, [math]V=12V[/math]
+ধারকত্ব, [math]C=?[/math]
+আমরা জানি,[math]\begin{aligned} C & =\frac{\mathrm{q}}{\mathrm{V}} \\ & =\frac{90}{12} \mu \mathrm{F} \\ & =7.5 \mu \mathrm{F} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+কারণ একটি ধারকের জন্য চার্জ এবং বিভব পার্থক্য সরাসরি অনুপাতিক থাকে: [math]Q = CV[/math]। তাই x-অক্ষে বিভব [math]V[/math] ও y-অক্ষে চার্জ [math]Q[/math] নিয়ে লেখচিত্র একটি সরলরেখা (শূন্য বিন্দু দিয়ে গেলে) হবে এবং তার ঢালই ধারকত্ব, অর্থাৎ [math]C = \Delta Q/\Delta V[/math]। এককে ধারকত্ব ফ্যারাড, [math]1\ \mathrm{F}=1\ \mathrm{C/V}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 421397)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]1.5m^2[/math] এবং বায়ু মাধ্যমে পাতদ্বয়ের ম ধ্যবর্তী দূরত্ব [math]0.02m^2[/math]। এর ধারকত্ব মাইক্রোফ্যারাডে নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]6.6375 \times 10^{-4} \mu F[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,পাতের ক্ষেত্রফল , [math]A=1.5 \ m^2[/math]
+পাতদ্বয়ের দূরত্ব,[math]d=0.02 \ m[/math]
+ [math]\epsilon_{0}=8.85 \times 10^{-12} \mathrm{Fm}^{-1}[/math]
+ধারকত্ব, [math]C=?[/math]
+আমরা জানি,[math]\begin{aligned} C & =\frac{\epsilon_{0} \mathrm{~A}}{\mathrm{~d}} \\ & =\frac{8.85 \times 10^{-12} \mathrm{Fm}^{-1} \times 1.5 \mathrm{~m}^{2}}{0.02 \mathrm{~m}} \\ & =6.6375 \times 10^{-10} \mathrm{~F} \\ & =6.6375 \times 10^{-4} \mu \mathrm{F} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+সমাধান: সমান্তরাল পাত ধারকের ধারকত্ব [math]C=\varepsilon_0\frac{A}{d}[/math] এবং বায়ুর জন্য [math]\varepsilon_0=8.85\times10^{-12}\,\text{F/m}[/math]। এখানে [math]A=1.5\ \text{m}^2,\ d=0.02\ \text{m}[/math] রেখে গণনা করলে [math]C=8.85\times10^{-12}\times\frac{1.5}{0.02}=6.6375\times10^{-10}\ \text{F}=6.64\times10^{-4}\ \mu\text{F}[/math]; সূত্র অনুযায়ী ক্ষেত্রফল বাড়লে ধারকত্ব বাড়ে এবং দূরত্ব বাড়লে ধারকত্ব কমে, তাই ফল সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 421398)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি ধারককে সমান্তরাল ও শ্রেণিতে যুক্ত করলে তুল্য ধারকত্ব যথাক্রমে [math]9\mu F[/math] ও [math]2\mu F[/math] হয়। ধারক দুটির ধারকত্ব নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]C_1 =3 \mu F[/math]
+এবং [math]C_2 = 6\mu F[/math]
+ [math]\\[/math]
+ [math][/math]
+মনে করি, ধারক দুটির ধাকত্ব যথাক্রমে [math]C_1[/math]
+ ও [math]C_2[/math]
+দেওয়া আছে,সমান্তরাল সমবায়ে তুল্য ধারকত্ব,শ্রেণি সমবায়ে তুল্য ধারকত্ব,সমান্ত সমবায়ের ক্ষেত্রে,আমরা জানি,[math]\begin{array}{l}C_{p}=C_{1}+C_{2}\\\Rightarrow C_{1}+C_{2}=9 \mu \mathrm{F} \text{.}\end{array}[/math]
+আবার, শ্রেণি সমবায়ের ক্ষেত্রে,[math]\begin{array}{l}\frac{1}{C_{5}}=\frac{1}{C_{1}}+\frac{1}{C_{2}}\\\Rightarrow \frac{1}{2}=\frac{C_{1}+C_{2}}{C_{1} C_{2}}\end{array}[/math]
+ [math]C_{1} C_{2}=(2 \times 9) \mu \mathrm{F}[/math]
+....[(i)নং হতে পাই][math]=18 \mu F[/math]
+এখন,[math]\begin{aligned} C_{1}-C_{2} & =\sqrt{\left(C_{1}+C_{2}\right)^{2}-4 C_{1} C_{2}} \\ & =\sqrt{9^{2}-4 \times 18} \\ & =\sqrt{81-72} \\ & =\sqrt{9} \\ C_{1}-C_{2} & =\pm 3 \mu \mathrm{F} \ldots \ldots \ldots (ii)\end{aligned}[/math]
+এখন,(i) ও (ii) নং সমীকরণ সমাধান করে পাই,[math]C_1 = 6 \mu F[/math]
+ এবং [math]C_2 =3 \mu F[/math]
+অথবা [math]C_1=3 \mu F[/math]
+ এবং [math]C_2 =6 \mu F[/math]
+
+
+Explanation:
+সমাধান: সমান্তরালে [math]C_1+C_2=9\ \mu F[/math] এবং শ্রেণিতে [math]\frac{C_1C_2}{C_1+C_2}=2\ \mu F[/math]। দ্বিতীয়টি থেকে [math]C_1C_2=18\ (\mu F)^2[/math], তাই [math]t^2-9t+18=0[/math] সমীকরণের মূল [math]t=(9\pm3)/2[/math], ফলে ধারকদুটি হল [math]6\ \mu F[/math] ও [math]3\ \mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 421399)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]2 \mu F, 3 \mu F[/math] ও [math]4 \mu F[/math] এর তিনটি ধারকের দ্বিতীয় ও তৃতীয়টিকে শ্রেণিতে সাজিয়ে প্রথমটির সাথে সমান্তরালে যুক্ত করলে তুল্য ধারকত্ব নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3.71 \ \mu F)[/math]
+
+Explanation:
+ব্যাখ্যা: ধারা ২ ও ৩ (3 μF ও 4 μF) সিরিজে হলে [math]\frac{1}{C_s}=\frac{1}{3}+\frac{1}{4}=\frac{7}{12}\Rightarrow C_s=\frac{12}{7}\ \mu F[/math] হয়, কারণ সিরিজে ধারকত্ব কমে যায়। তারপর সেটি প্রথমের [math]2\ \mu F[/math] ধারকের সাথে সমান্তরালে হলে যোগ হয়, তাই সমতুল্য ধারকত্ব [math]C_{eq}=2+\frac{12}{7}=\frac{26}{7}\ \mu F\approx3.714\ \mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 421390)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে একটি ধারক দেখানো হলো:
+
+
+[Image]
+
+
+Options:
+ঘ. ধারকটির দুই পাতের মাঝখানে k=5 পরাবৈদ্যুতিক ধ্রুবকের পদার্থ স্থাপন করা হলে,ধারকটির ধারকত্বের কীরূপ পরিবর্তন হবে? গাণিতিক যুক্তির সাহায্যে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘমনে করি, ধারকত্ব = Cআপেক্ষিক তড়িৎ ভেদ্যতা বা পরাবৈদ্যুতিক ধ্রুবক, k = 5[math]C^{\prime}=\frac{\epsilon A}{d}[/math]
+কিন্তু, [math]c=\epsilon_{0} k[/math]
+ [math]\begin{aligned}\therefore C^{\prime} & =\frac{\epsilon_{0} K A}{d} \\& =\frac{8.854 \times 10^{-12}\times 5 \times 5.65 \times 10^{19}}{5 \times 10^{-5}}=5 \times 10^{11} \mathrm{~F}\end{aligned}[/math]
+ধারকটির দুই পাতের মাঝখানে পরাবৈদ্যুতিক ধ্রুবক পদার্থ স্থাপন করা হলে ধারকের ধারকত্ব বৃদ্ধি পাবে। পরাবৈদ্যুতিক স্থাপনের পূর্বে ধারকত্ব [math]1 \times 10^{11} \mathrm{~F}[/math]
+ এবং স্থাপনের পর ধারকত্ব [math]5 \times 10^{11} \mathrm{~F}[/math]
+।[math]\begin{array}{l}\frac{\mathrm{C}^{\prime}}{\mathrm{C}}=\frac{5 \times 10^{11}}{\mathrm{I} \times 10^{11}} \\\mathrm{C}^{\prime}=5 \times \mathrm{C}\end{array}[/math]
+দেখা যাচ্ছে, পরাবৈদ্যুতিক পদার্থ স্থাপনের পর ধারকত্ব পূর্বের তুলনায় 5 গুণ হয়ে গেল।
+
+Explanation:
+ব্যাখ্যা: ঘ ধারকটির ধারকত্ব বৃদ্ধি পাবে এবং [math]C_{\text{নতুন}}=kC_0[/math] হবে, এখানে [math]k=5[/math] হওয়ায় ধারকত্ব পাঁচ গুণ বাড়ে। কারণ পরিবাহক মাধ্যম বসালে বিন্যাসের পারমিটিভিটি হয় [math]\varepsilon=k\varepsilon_0[/math], তাই [math]C=\dfrac{\varepsilon A}{d}=\dfrac{k\varepsilon_0 A}{d}=kC_0[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 421391)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]16 \mu F[/math] এবং [math]22 \mu F[/math] ধারকত্ববিশিষ্ট দুটি ধারককে শ্রেণি সংযোগে সাজালে তুল্য ধারকত্ব কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](9.3 \mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+শ্রেণি সমবায়ের ক্ষেত্রে,দেওয়া আছে,ধারকত্ব, [math]C_1 = 16 \mu F[/math]
+ধারকত্ব, [math]C_2=22 \mu F[/math]
+তুল্য ধারকত্ব, [math]C_s=?[/math]
+আমরা জানি,[math]\begin{aligned} \frac{1}{C_{s}} & =\frac{1}{C_{1}}+\frac{1}{C_{2}} \\ & =\left(\frac{1}{16}+\frac{1}{22}\right) \\ & =\frac{19}{176} \end{aligned}[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{s}}=\frac{176}{19} \mu \mathrm{F}=9.3 \mu \mathrm{F} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: শ্রেণি সংযোগে সমতুল্য ধারকত্বের সূত্র [math]\frac{1}{C_{\text{eq}}}=\frac{1}{C_1}+\frac{1}{C_2}[/math], তাই [math]\frac{1}{C_{\text{eq}}}=\frac{1}{16}+\frac{1}{22}=\frac{19}{176}[/math]. অতএব [math]C_{\text{eq}}=\frac{176}{19}\ \mu F\approx 9.26\ \mu F[/math], কারণ শ্রেণি সংযোগে ধারকগুলোতে চার্জ একে‑অন্যে সমান থাকে এবং ধারকত্বের বিপরীতগুলোর যোগ হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 421392)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]4 \mu F[/math] এবং [math]8 \mu F[/math] ধারকত্ববিশিষ্ট দুটি ধারককে 100V ব্যাটারির সাথে সমান্তরালে যুক্ত করা হলো। ধারক দুটির তুল্য ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](12 \mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ধারকত্ব, [math]C_1 = 4 \mu F[/math]
+ধারকত্ব, [math]C_2 = 8 \mu F[/math]
+ [math]\therefore[/math]
+ সমান্তরাল সমবায়ে তুল্য ধারকত্ব, [math]C_p = ?[/math]
+আমরা জানি, [math]C_{p}=C_{1}+C_{2}=4 \mu \mathrm{F}+8 \mu \mathrm{F}=12 \mu \mathrm{F} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরালে যুক্ত ধারকগুলোর ভোল্টেজ সমান থাকে এবং তাদের ক্যাপাসিট্যান্স যোগ হয়, তাই [math]C_{eq}=C_1+C_2[/math]। এখানে [math]C_{eq}=4\mu F+8\mu F=12\mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 421393)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]4,3[/math] ও [math]2 \ \mu F[/math] ধারকত্ব সম্পন্ন তিনটি ধারককে এমনভাবে যুক্ত করা হল যেন প্রথমটি এবং দ্বিতীয়টি শ্রেণিবদ্ধ সজ্জায় এবং তৃতীয়টি এদের সাথে সমান্তরাল সজ্জায় থাকে। সংযোগের তুল্য ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3.71 \ \mu F)[/math]
+
+Explanation:
+ব্যাখ্যা: প্রথম দুটি ধারক সিরিজে যুক্ত হলে তাদের উল্টোপৃক্ত যোগ হয়, তাই [math]\frac{1}{C_s}=\frac{1}{4}+\frac{1}{3}=\frac{7}{12}[/math] এবং [math]C_s=\frac{12}{7}\ \mu F[/math]. এরপর এটি তৃতীয় ধারক [math]2\ \mu F[/math]-এর সাথে সমান্তরালে যোগ হওয়ার ফলে মোট ধারকত্ব [math]C_{eq}=C_s+2=\frac{12}{7}+2=\frac{26}{7}\ \mu F\approx3.714\ \mu F[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 421394)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রত্যেকটি পাতের ক্ষেত্রফল [math]1.5m^2[/math]; এদের মধ্যবর্তী দূরত্ব [math]2mm[/math] এবং এটি বায়ু দ্বারা পূর্ণ:
+
+(i) ধারকটির ধারকত্ব নির্ণয় করো।
+
+(ii) ধারকটিকে [math]500V[/math] বিভব পার্থক্যের একটি উৎসের সাথে যুক্ত করা হলে এর চার্জ, সঞ্চিত শক্তি , তড়িৎ প্রাবল্য এবং প্রতি একক আয়তনে সঞ্চিত শক্তির পরিমাণ নির্ণয় করো ।
+
+(iii) ধারকটির মধ্যবর্তী স্থান [math]2.6[/math] ডাই-ইলেকট্রিক ধ্রুবকের একটি বস্তু দ্বারা পূর্ণ করলে পাত দুটির অতিরিক্ত চার্জের পরিমাণ নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](i)6.641 \ nF,(ii) 250 \ k \ Vm^{-1},0.277 \ Jm^{-3},(iii) \ 8.623 \times 10^{-6}C[/math]
+ [math]\\[/math]
+ [math][/math]
+(i) এখানে,পাতের ক্ষেত্রফল, [math]A=1.5 \ m^2[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, [math]d=2mm= 2 \times 10^{-3}m[/math]
+ধারকত্ব, [math]C=?[/math]
+আমরা জানি,[math]\begin{array}{l} \mathrm{C}=\frac{\epsilon_{0} \mathrm{~A}}{\mathrm{~d}} \\ =\frac{8.854 \times 10^{-12} \times 1.5}{2 \times 10^{-3}} \\ =6.641 \times 10^{-9} \mathrm{~F} \\ =6.641 \mathrm{nF} \text { (Ans.) } \end{array}[/math]
+(ii) এখানে,বিভব পার্থক্য, [math]V=500 \ V[/math]
+'গ' হতে প্রাপ্ত, ধারকত্ব, [math]C=6.641 \times 10^{-9}F[/math]
+চার্জ, [math]q=?[/math]
+সঞ্চিত শক্তি, [math]U=?[/math]
+প্রাবল্য, [math]E=?[/math]
+একক আয়তনে সঞ্চিত শক্তি, [math]U'=?[/math]
+আমরা জানি,[math]\begin{array}{l} C=\frac{q}{V} \\ \Rightarrow q=C V \\ =6.641 \times 10^{-9} \times 500 \\ =3.32 \times 10^{-6} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+ [math]\therefore[/math]
+ সঞ্চিত শক্তি,[math]\begin{aligned} \mathrm{U}^{}=\frac{1}{2} \mathrm{CV}^{2} & =\frac{1}{2} \times 6.641 \times 10^{-9} \times(500)^{2} \\ & =8.3 \times 10^{-4} \mathrm{~J} \text { (Ans.) } \end{aligned}[/math]
+ [math]\therefore[/math]
+ তড়িৎ প্রাবল্য[math]\begin{aligned} \mathrm{E}=\frac{\mathrm{V}}{\mathrm{d}}=\frac{500}{2 \times 10^{-3}} & =250000 \mathrm{Vm}^{-1} \\ & =250 \mathrm{k} \mathrm{Vm}^{-1} \text { (Ans.) } \end{aligned}[/math]
+ [math]\therefore[/math]
+ একক আয়তনে সঞ্চিত শক্তি,[math]\begin{aligned} U^{\prime} & =\frac{1}{2} \epsilon_{\mathrm{o}} \mathrm{E}^{2} \\ & =\frac{1}{2} \times 8.854 \times 10^{-12} \times(250000)^{2} \\ & =0.277 \mathrm{Jm}^{-3} \text { (Ans.) } \end{aligned}[/math]
+(iii)এখানে,ডাই ইলেকট্রনিক ধ্রুবক, [math]k=2.6[/math]
+আমরা জানি,[math]\begin{aligned} C & =\frac{\mathrm{k} \in_{\mathrm{o}} \mathrm{A}}{\mathrm{d}} \\ & =\frac{2.6 \times 8.854 \times 10^{-12} \times 1.5}{2 \times 10^{-3}} \\ & =1.727 \times 10^{-8} \mathrm{~F} \end{aligned}[/math]
+আবার,[math]C=\frac{q}{V}[/math]
+ [math]q=C V=1.727 \times 10^{-8} \times 500=8.63 \times 10^{-6} \mathrm{C}[/math]
+ [math]\therefore[/math]
+ অতিরিক্ত চার্জ[math]\begin{array}{l} =\left(8.63 \times 10^{-6}-6.641 \times 10^{+9}\right) \mathrm{C} \\ =8.623 \times 10^{-6} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ধারকত্ব: সমান্তরাল পাত ধারকের জন্য [math]C=\epsilon_0\frac{A}{d}[/math], তাই [math]C=8.854\times10^{-12}\times\frac{1.5}{2\times10^{-3}}\approx6.64\times10^{-9}\,\mathrm{F}[/math]; কারণ সমতল পাতের ক্ষেত্রে ধারকত্ব ক্ষেত্রফল অনুপাতে ও দুরত্বের বিপরীতে হয়।
+
+খ [math]V=500\ \mathrm{V}[/math] হলে [math]Q=CV\approx6.64\times10^{-9}\times500=3.32\times10^{-6}\,\mathrm{C}[/math], সঞ্চিত শক্তি [math]U=\tfrac12CV^2\approx8.30\times10^{-4}\,\mathrm{J}[/math], তড়িৎ প্রাবল্য [math]E=V/d=500/(2\times10^{-3})=2.5\times10^{5}\,\mathrm{V/m}[/math], এবং প্রতি একক আয়তনে সঞ্চিত শক্তি [math]u=\tfrac12\epsilon_0E^2\approx0.277\,\mathrm{J/m^3}[/math]; কারণ এসব পরিমাণ সরাসরি C ও V থেকে সম্পর্কিত সূত্র দিয়ে পাওয়া যায়।
+
+গ যদি ডাই-ইলেকট্রিক ধ্রুবক [math]\epsilon_r=2.6[/math] পূর্ণ করে, তাহলে নতুন ধারকত্ব [math]C'=\epsilon_rC=2.6C[/math] এবং নতুন চার্জ [math]Q'=C'V=2.6Q\approx8.63\times10^{-6}\,\mathrm{C}[/math], অতিরিক্ত চার্জ [math]\Delta Q=Q'-Q=(\epsilon_r-1)Q\approx5.31\times10^{-6}\,\mathrm{C}[/math]; কারণ উৎস সংযুক্ত থাকায় বিভব পার্থক্য ধ্রুবক থাকে এবং চার্জ দরাজা সমানুপাতিকভাবে বাড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 421395)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, সমান ধারকত্বের দুটি সমান্তরাল সংযোজনীতে থাকাকালীন ধারকত্ব শ্রেণিবদ্ধভাবে থাকাকা লীন ধারকত্বের [math]4[/math] গুণ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ধরা যাক, ধারক দুটির প্রতিটির ধারকত্ব [math]C[/math]
+আমরা জানি, সমান্তরাল সমবায়ে ভুল্য ধারকত্ব,[math]\begin{aligned} C_{p} & =C_{1}+C_{2} \\ & =C+C=2 C \end{aligned}[/math]
+আবার,[math]\begin{aligned} \frac{1}{C_{s}} & =\frac{1}{C_{1}}+\frac{1}{C_{2}} \\ & =\frac{1}{C}+\frac{1}{C}=\frac{2}{C} \\ \Rightarrow C_{s} & =\frac{C}{2} \end{aligned}[/math]
+এখন,[math]\frac{\mathrm{C}_{\mathrm{p}}}{\mathrm{C}_{\mathrm{s}}}=\frac{2 \mathrm{C}}{\mathrm{C} / 2}[/math]
+ [math]\Rightarrow C_{p}=4 C_{s}[/math]
+ (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা: দুইটি সমান ধারকত্ব ধরা হলো [math]C[/math]। সমান্তরাল সংযোগে মোট ধারকত্ব হবে [math]C_p=C+C=2C[/math]। সিরিজ (ধারাভিত্তিক) সংযোগে [math]\tfrac{1}{C_s}=\tfrac{1}{C}+\tfrac{1}{C}=\tfrac{2}{C} \Rightarrow C_s=\tfrac{C}{2}[/math]। তাই [math]\dfrac{C_p}{C_s}=\dfrac{2C}{C/2}=4[/math], অর্থাৎ সমান্তরাল সংযোগে ধারকত্ব সিরিজ সংযোগের ৪ গুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 421389)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে একটি ধারক দেখানো হলো:
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের ধারকের ধারকত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, তড়িৎ প্রাবল্য, [math]\mathrm{E}=4 \times 10^{-5} \mathrm{Vm}^{-1}[/math]
+মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=5 \mathrm{~mm}=5 \times 10^{-3} \mathrm{~m}[/math]
+প্রতি পাতে চার্জ, Q = 20 Cধারকত্ব, C = ?আমরা জানি, [math]\mathrm{E}=\frac{\sigma}{\epsilon_{0}}[/math]
+কিন্তু, [math]\sigma=\frac{\mathrm{Q}}{\mathrm{A}}[/math]
+ [math]\begin{array}{l}\therefore \mathrm{E}=\frac{\mathrm{Q}}{\epsilon_{0} \mathrm{~A}}\\\text{ }Q=\epsilon_{0} E A\\\text{ } A=\frac{Q}{\epsilon_{0} E}\end{array}[/math]
+ [math]\therefore A=\frac{20}{8.854 \times 10^{-12} \times 4 \times 10^{-1}}=5.65 \times 10^{19} \mathrm{~m}^{2}[/math]
+আমরা জানি,[math]C=\frac{\epsilon_{0} A}{d}=\frac{8.854 \times 10^{-12} \times 5.65 \times 10^{19}}{5 \times 10^{-3}}=1 \times 10^{11} \mathrm{~F}[/math]
+উদ্দীপকের ধারকের ধারকত্ব, [math]1 \times 10^{11} \mathrm{~F} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+চিত্রটি আমার কাছে স্পষ্ট নয় — সঠিক ব্যাখ্যা দিতে অনুগ্রহ করে চিত্রটি আবার আপলোড করুন বা ধারকের জ্যামিতি (প্লেটের আকার, প্লেটের বিচ্ছিন্নতা [math]d[/math], এবং ডাইইলেকট্রিক ধ্রুবক [math]ε_r[/math]) ও সংখ্যাসূচক মান দিন। সাধারণত সমান্তরাল-প্লেট ধারকের ধারকত্ব [math]C=ε_0 ε_r \frac{A}{d}[/math], যেখানে [math]A[/math] প্লেটের ক্ষেত্রফল; চিত্র/মান পেলে আমি গ অপশনের সঠিকতা সংক্ষিপ্তভাবে ব্যাখ্যা করে দেখিয়ে দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 421387)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে তিনটি ধারকের সংযোগ দেখানো হয়েছে । এখানে [math]C_2[/math] ও [math]C_3[/math] শ্রেণিতে এবং [math]C_1[/math] এদের সাথে সমান্তরালে সংযুক্ত।
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের ধারকগুলোর মান যথাক্রমে [math]C_3 = 3 F, C_2 = 2F[/math] এবং [math]C_3 = 1 F[/math] হলে সংযোগের তুল্য ধারকত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ C2 ও C3 ধারক ধারাবাহিক থাকলে তাদের সমতুল্য ধরা হয় [math]C_{23}=\frac{C_2C_3}{C_2+C_3}=\frac{2\times3}{2+3}=\frac{6}{5}=1.2\ \text{F}[/math]; এটি C1 এর সাথে সমান্তরালে যোগ করলে মোট ধারকত্ব [math]C_{\rm eq}=C_1+C_{23}=1+1.2=2.2\ \text{F}=\frac{11}{5}\ \text{F}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 421388)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে তিনটি ধারকের সংযোগ দেখানো হয়েছে । এখানে [math]C_2[/math] ও [math]C_3[/math] শ্রেণিতে এবং [math]C_1[/math] এদের সাথে সমান্তরালে সংযুক্ত।
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের ধারক তিনটি যদি সমান্তরালে থাকতো তাহলে তুল্য ধারকত্বের জন্য একটি রাশিমালা নির্ণয় কর ।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরা যাক, সমান্তরালে সংযুক্ত, [math]C_1, C_2 ও C_3[/math]
+ ধারকত্বের ধারক তিনটিতে সঞ্চিত চার্জের পরিমাণ যথাক্রমে [math]Q_1, Q_2 ও Q _3[/math]
+এবং প্রান্তীয় বিভব পার্থক্য V.তাহলে, [math]Q_{1}=C_{1} V, Q_{2}=C_{2} V[/math]
+ এবং [math]\mathrm{C}_{3} \mathrm{~V}[/math]
+আবার,[math]\begin{aligned}\mathrm{Q} & =\mathrm{Q}_{1}+\mathrm{Q}_{2}+\mathrm{Q}_{3} \\\mathrm{Q} &=\mathrm{C}_{1} \mathrm{~V}+\mathrm{C}_{2} \mathrm{~V}+\mathrm{C}_{3} \mathrm{~V} \\& =\mathrm{V}\left(\mathrm{C}_{1}+\mathrm{C}_{2}+\mathrm{C}_{3}\right) ... .... [i]\end{aligned}[/math]
+যদি তুল্য ধারকত্ব [math]C_p[/math]
+ হয়, তবে,[math]\begin{array}{l}Q=C_{P} V \\C_{P} V=V\left(C_{1}+C_{2}+C_{3}\right)\end{array}[/math]
+ [math]\therefore \quad C_{p}=C_{1}+C_{2}+C_{3}[/math]
+এটাই নির্ণেয় রাশিমালা ।
+
+Explanation:
+ব্যাখ্যা: ঘ তিনটি ধারক সমান্তরালে থাকলে প্রত্যেকের উপর একই ভোল্টেজ থাকে এবং মোট চার্জ হচ্ছে পৃথক চার্জগুলোর যোগফল, তাই মোট ধারকত্ব হল তাদের যোগফল: [math]C_{\text{eq}}=\dfrac{Q_{\text{tot}}}{V}=\dfrac{Q_1+Q_2+Q_3}{V}=C_1+C_2+C_3[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 421385)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে প্রদর্শিত ধারকসমূহের সমবায়ের জন্য তুল্য ধারকত্ব নির্ণয় কর। [math]C_{1}=10 \mu \mathrm{F}, C_{2}=5 \mu \mathrm{F}[/math] এবং [math]C_3 =4\mu F[/math]
+
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3.16 \mu F)[/math]
+
+Explanation:
+ব্যাখ্যা: এখানে [math]C_2[/math] ও [math]C_3[/math] সিরিজে যুক্ত থাকায় তাদের সমতুল্য ধারকত্ব [math]C_{23}=\dfrac{C_2C_3}{C_2+C_3}=\dfrac{5\times4}{5+4}=\dfrac{20}{9}\ \mu\text{F}[/math] হয়, এবং সেটা [math]C_1[/math]-এর সঙ্গে সমান্তরালে আছে; অতএব মোট ধারকত্ব [math]C_{\text{eq}}=C_1+C_{23}=10+\dfrac{20}{9}=\dfrac{110}{9}\approx12.22\ \mu\text{F}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 421386)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]300 \mu \mu[/math] এবং [math]500 \mu \mu[/math] ধারকত্ব বিশিষ্ট দুটি ধারক সমান্তরাল বিন্যাসে যুক্ত ক রে [math]120[/math] ভোটের একটি ব্যাটারি ঐ সমন্বয়ের উপর প্রয়োগ করা হলো। প্রত্যেক ধারকের চার্জ এবং সমবায়ের তুল্য ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](8 \times 10^{-10}F)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে, [math]\mathrm{C}_{1}=300 \mu \mu \mathrm{F}=300 \times 10^{-12} \mathrm{~F}[/math]
+এবং [math]C_{2}=500 \mu \mu \mathrm{F}=500 \times 10^{-12} \mathrm{~F}[/math]
+ব্যাটারির তড়িচ্চালক বল, [math]V=120V[/math]
+ [math]Q_1=?[/math]
+ এবং [math]Q_2=?[/math]
+আমরা জানি,[math]C=\frac{Q}{V}[/math]
+ [math]\begin{array}{l} \therefore Q_{1}=C_{1} V=300 \times 10^{-12} \times 120=3.6 \times 10^{-8} \mathrm{C} \text { (Ans.) } \\ Q_{2}=C_{2} V=500 \times 10^{-12} \times 120=6 \times 10^{-8} \mathrm{C} \text { (Ans.) } \end{array}[/math]
+ [math]\therefore[/math]
+ তুল্য ধারকত্ব, [math]C_{p}=C_{1}+C_{2}=8 \times 10^{-10} \mathrm{~F} \text {. (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরাল ক্ষেত্রে উভয় ধারকেই একই ভোল্টেজ প্রতিস্থাপিত হয় এবং [math]Q=CV[/math] হয়, তাই ধারকদ্বয় পৃথকভাবে [math]Q=C V[/math] দিয়ে পাওয়া যায় এবং সমতুল্য ধারকত্ব যোগফল।  
+[math]Q_1=C_1V=300\times10^{-6}\times120=36\times10^{-3}\ \text{C}=36\ \text{mC}[/math]  
+[math]Q_2=C_2V=500\times10^{-6}\times120=60\times10^{-3}\ \text{C}=60\ \text{mC}[/math]  
+[math]C_{\text{eq}}=C_1+C_2=300+500=800\ \mu\text{F},\qquad Q_{\text{tot}}=C_{\text{eq}}V=800\times10^{-6}\times120=96\ \text{mC}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 421382)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রটি লক্ষ করো:
+
+
+[Image]
+
+
+Options:
+খ. [math]C_1[/math] ও [math]C_2[/math] শ্রেণিতে যুক্ত করে [math]C_3[/math]-কে ওই সমাবায়ের সঙ্গে সমান্তরালে যুক্ত করে [math]20V[/math] বিভব পার্থক্য প্রয়োগ করলে (ক) ও (খ) সমবায়ের কোনটিতে সঞ্চিত শক্তি বেশি হবে? গাণিতিকভাবে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: শক্তি [math]U=\tfrac{1}{2}C_{\text{eq}}V^2[/math] হওয়ায় বড়ি [math]C_{\text{eq}}[/math] বেশি শক্তি সঞ্চয় করে। খ-এর জন্য সমতুল্য ধারকটি হয় [math]C_{\text{eq}}^{(খ)}=C_3+\frac{C_1C_2}{C_1+C_2}[/math] এবং ক-এর জন্য হয় [math]C_{\text{eq}}^{(ক)}=\frac{C_3(C_1+C_2)}{C_3+C_1+C_2}[/math]। তারপর পার্থক্যটি লিখলে [math]C_{\text{eq}}^{(খ)}-C_{\text{eq}}^{(ক)}=\frac{C_3^2}{C_3+C_1+C_2}+\frac{C_1C_2}{C_1+C_2}>0[/math], তাই খ-তে সঞ্চিত শক্তি বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 421383)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি অন্তরীত পরিবাহীতে [math]500C[/math] চার্জ প্রদান করায় এর বিভব [math]100V[/math] হলো। পরিবাহীর ধারক ত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](5F)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,চার্জ, [math]Q=500 \ C[/math]
+বিভব, [math]V=100V[/math]
+ধারকত্ব, [math]C=?[/math]
+আমরা জানি,[math]\begin{aligned} C & =\frac{Q}{V} \\ & =\frac{500 C}{100 V}=5 F \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধারকত্বের সংজ্ঞা হলো [math]C=\dfrac{Q}{V}[/math]. এখানে [math]Q=500\ \text{C}[/math] ও [math]V=100\ \text{V}[/math] হলে [math]C=500/100=5\ \text{F}[/math], অর্থাৎ ধারকটি 5 ফ্যারাড।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 421384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি ধারককে সমান্তরালে সংযুক্ত করলে তুল্য ধারকত্ব [math]5F[/math] এবং শ্রেণিতে সংযুক্ত করলে তুল্য ধারক ত্ব [math]1.2F[/math] হয়। ধারক দুটির ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3F,2F[/math]
+ অথবা, [math]2F,3F)[/math]
+
+
+Explanation:
+সমান্তরালে সংযুক্ত ধারের তুল্য ধারকত্ব: [math]C_1+C_2=5\ \text{F}[/math], শ্রেণিতে সংযুক্তির সূত্র অনুযায়ী: [math]\dfrac{C_1C_2}{C_1+C_2}=1.2\ \text{F}[/math] তাই [math]C_1C_2=1.2\times5=6[/math]. দুইটি ধারকের মূলধন সমীকরণ থেকে [math]x^2-5x+6=0[/math] যা বিভক্ত হলে মূলগুলো আসে [math]x=2\ \text{F}[/math] এবং [math]x=3\ \text{F}[/math], সুতরাং ধারকদুটি 2F ও 3F।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 421380)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পাশের চিত্রে তিনটি ধারককে বিভিন্ন সদায় দেখানো হয়েছে। এদের প্রথম ও দ্বিতীয়টি সমান্তরালে রেখে তৃতীয়টির সাথে শ্রেণিতে সংযুক্ত করা হলো। এখানে [math]C_{1}=3 \mu F, C_{2}=4 \mu F[/math] এবং [math]C_{3}=2 \mu F[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. উপরের বর্তনী চিত্রে [math]C_1[/math] ও [math]C_2[/math] ধারকদ্বয় শ্রেণি সমন্বয়ে যুক্ত করলে সঞ্চিত শক্তি পূর্বের তুলনায় কত কম বা বেশি হবে? - গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রতি ক্ষেত্রে [math]C_1[/math]
+ ও [math]C_2[/math]
+ ধারকের সমবায়ের দুপ্রান্তে V মানের ধ্রুব বিভব পার্থক্য প্রয়োগ করলে, উদ্দীপকে বর্ণিত অবস্থায় [math]C_1[/math]
+ ও [math]C_2[/math]
+ ধারকের সমবায় কর্তৃক সঞ্চিত শক্তি,[math]\mathrm{U}_{1}=\frac{1}{2} \mathrm{C}_{\mathrm{p}} \mathrm{V}^{2}=\frac{1}{2} \times 7 \mathrm{mF} \times \mathrm{V}^{2} \ldots \ldots \ldots \text { (i) }[/math]
+ [math]C_1[/math]
+ ও [math]C_2[/math]
+ ধারক দুটিকে শ্রেণি সমবায়ে সংযুক্ত করলে এদের তুল্য ধারকত্ব,[math]\mathrm{C}_{3}=\left(\frac{1}{\mathrm{C}_{1}}+\frac{1}{\mathrm{C}_{2}}\right)^{-1}=\left(\frac{1}{3}+\frac{1}{4}\right)^{-1}=\left(\frac{7}{12}\right)^{-1}=\frac{12}{7} \mathrm{mF}[/math]
+ [math]C_1[/math]
+ ও [math]C_2[/math]
+ ধারকদ্বয়ের শ্রেণি সমবায় কর্তৃক সঞ্চিত শক্তি,[math]\mathrm{U}_{2}=\frac{1}{2} \mathrm{C}_{3} \mathrm{~V}^{2}=\frac{1}{2} \times \frac{12}{7} \mathrm{mF} \times \mathrm{V}^{2}=\frac{6}{7} \mathrm{mF} \times \mathrm{V}^{2}[/math]
+সঞ্চিত শক্তি হ্রাস পাবে , [math]\begin{array}{l}=\frac{7}{2} \mathrm{mF} \times \mathrm{V}^{2}-\frac{6}{7} \mathrm{mF} \times \mathrm{V}^{2} \\=\frac{49-12}{14} \mathrm{mF} \times \mathrm{V}^{2}=\frac{37}{14} \mathrm{mF} \times \mathrm{V}^{2}\end{array}[/math]
+সঞ্চিত শক্তির শতকরা হ্রাস = [math]=\frac{\frac{37}{14} \mathrm{mF} \times \mathrm{V}^{2}}{\frac{7}{2} \mathrm{mF} \times \mathrm{V}^{2}} \times 100 \%=\frac{37}{14} \times \frac{2}{7} \times 100 \%[/math]
+= 75.5%সুতরাং উদ্দীপকের বর্তনী চিত্রে [math]C_1[/math]
+ ও [math]C_2[/math]
+ ধারকদ্বয় শ্রেণি সমবায়ে যুক্ত করলে সঞ্চিত শক্তি পূর্বের তুলনায় 75.5% কম হবে । -
+
+Explanation:
+ব্যাখ্যা: সমতুল্য ধারকত্ব বেশি হলে একই ভোল্টেজে সঞ্চিত শক্তি [math]U=\tfrac12CV^2[/math] বেশি হবে, তাই C1 ও C2 সমান্তরালে করলে মোট ধারকত্ব বেড়ে শক্তি বাড়বে। গণনা করলে প্রথমে সবগুলো ধারক সারিতে থাকলে সমতুল্য ধারকত্ব
+[math]\frac{1}{C_{old}}=\frac{1}{3}+\frac{1}{4}+\frac{1}{2}=\frac{13}{12}\Rightarrow C_{old}=\frac{12}{13}\ \mu F.[/math]
+C1 ও C2 সমান্তরালে হলে [math]C_{12}=3+4=7\ \mu F[/math] এবং তা C3 এর সাথে সারিতে যুক্ত করলে
+[math]\frac{1}{C_{new}}=\frac{1}{7}+\frac{1}{2}=\frac{9}{14}\Rightarrow C_{new}=\frac{14}{9}\ \mu F.[/math]
+সুতরাং শক্তির আপেক্ষিক বৃদ্ধি হচ্ছে [math]\frac{C_{new}-C_{old}}{C_{old}}=\frac{\tfrac{14}{9}}{\tfrac{12}{13}}-1\approx0.685\;(68.5\%).[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 421379)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পাশের চিত্রে তিনটি ধারককে বিভিন্ন সদায় দেখানো হয়েছে। এদের প্রথম ও দ্বিতীয়টি সমান্তরালে রেখে তৃতীয়টির সাথে শ্রেণিতে সংযুক্ত করা হলো। এখানে [math]C_{1}=3 \mu F, C_{2}=4 \mu F[/math] এবং [math]C_{3}=2 \mu F[/math]
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকের চিত্র অনুসারে তুল্য ধারকত্ব নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরালে থাকা ধারকদ্বয় সরাসরি যোগ হয়, তাই [math]C_{12}=C_1+C_2=3+4=7\mu F[/math]। তারপর এটি [math]C_3[/math]-এর সাথে ধারাবাহিক যুক্ত হওয়ায় প্রতিকূল যোগ সূত্র প্রযোজ্য: [math]\frac{1}{C_{eq}}=\frac{1}{C_{12}}+\frac{1}{C_3}=\frac{1}{7}+\frac{1}{2}=\frac{9}{14}, সুতরাং [math]C_{eq}=\frac{14}{9}\mu F\approx1.56\mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 421374)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+চিত্রে প্রদর্শিত বর্তনীতে ধারকগুলোর তুল্য ধারকত্ব নির্ণয় কর।
+
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.67 \mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+সমান্তরাল সমবায়ে তুল্য ধারকত্ব [math]C_p[/math]
+ হলে,এখানে,[math]\begin{array}{l} C_{1}=4 \mu \mathrm{F} \\ C_{2}=6 \mu \mathrm{F} \\ C_{3}=2 \mu \mathrm{F} \end{array}[/math]
+তুল্য ধারকত্ব, [math]C_s=?[/math]
+ [math]\begin{aligned} C_{p} & =C_{1}+C_{2} \\ & =4 \mu \mathrm{F}+6 \mu \mathrm{F} \\ & =10 \mu \mathrm{F} \end{aligned}[/math]
+আবার,[math]\begin{aligned} \frac{1}{\mathrm{C}_{s}} & =\frac{1}{\mathrm{C}_{\mathrm{p}}}+\frac{1}{\mathrm{C}_{3}} \\ & =\left(\frac{1}{10}+\frac{1}{2}\right) \mu \mathrm{F}^{-1} \\ & =\left(\frac{5+1}{10}\right) \mu \mathrm{F}^{-1}=\frac{6}{10}\mu F^{-1} \end{aligned}[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{s}}=\frac{10}{6} \mu \mathrm{F}=1.67 \mu \mathrm{F} \text { (Ans.) }[/math]
+
+
+Explanation:
+চিত্রটি থেকে ধারকগুলোর মান ও তাদের সংযোগ (সিরিজ বা সমান্তর) স্পষ্ট না হলে তুল্য ধারকত্ব নির্ণয় করা সম্ভব নয়; অনুগ্রহ করে প্রতিটি ধারকের ধরণ এবং মান বা উচ্চ রেজোলিউশনের চিত্র দিন। ছবিটি স্পষ্ট দিলে আমি ধাপে ধাপে সিরিজ/সমান্তর যুক্ত করে সমাধান ও সংক্ষিপ্ত ব্যাখ্যা দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 421376)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]3 \mu \mathrm{F}, 4 \mu \mathrm{F}, 5 \mu \mathrm{F}[/math] ধারকত্ব বিশিষ্ট তিনটি ধারককে (i) শ্রেণি সমবায়ে ও (ii) সমান্তরাল সমবায়ে সাজানো হলো। উভয় ক্ষেত্রে তুল্য ধারকত্ব নির্ণয় কর ও এদের তুলনা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.28 \mu F, C_s:C_p= 5:47)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখান,[math]\begin{array}{l} C_{1}=3 \mu \mathrm{F} \\ C_{2}=4 \mu \mathrm{F} \\ C_{3}=5 \mu \mathrm{F} \end{array}[/math]
+শ্রেণি সমবায়ে তুল্য ধারকত্ব, [math]C_s=?[/math]
+সমান্তরাল সমবায়ে ভুলা ধারকত্ব, [math]C_p=?[/math]
+$$আমরা জানি, শ্রেণি সমবায়ে তুল্য ধারকত্ব,[math]\begin{aligned} \frac{1}{\mathrm{C}_{\mathrm{s}}} & =\frac{1}{\mathrm{C}_{1}}+\frac{1}{\mathrm{C}_{2}}+\frac{1}{\mathrm{C}_{3}} \\ \Rightarrow \frac{1}{\mathrm{C}_{\mathrm{s}}} & =\frac{1}{3 \mu \mathrm{F}}+\frac{1}{4 \mu \mathrm{F}}+\frac{1}{5 \mu \mathrm{F}} \\ & =\frac{47}{60} \mu \mathrm{F} \\ \Rightarrow \mathrm{C}_{\mathrm{s}} & =\frac{60}{47} \mu \mathrm{F}=1.28 \mu \mathrm{F} \text { (Ans.) } \end{aligned}[/math]
+আবার, সমান্তরাল সমবায়ে তুল্য ধারকত্ব,[math]\begin{array}{l} \mathrm{C}_{\mathrm{p}}=\mathrm{C}_{1}+\mathrm{C}_{2}+\mathrm{C}_{3} \\ =3 \mu \mathrm{F}+4 \mu \mathrm{F}+5 \mu \mathrm{F} \\ =12 \mu \mathrm{F} \text { (Ans.) } \\ \end{array}[/math]
+এখন,[math]\frac{C_s}{C_p}=\frac{\frac{60}{47} \mu \mathrm{F}}{12 \mu \mathrm{F}}=\frac{5}{47} \\ \Rightarrow \mathrm{C}_{\mathrm{s}}: \mathrm{C}_{\mathrm{p}}=5: 47 \text { (Ans.) }[/math]
+
+
+Explanation:
+ক শ্রেণি সমবায়ে: [math]\frac{1}{C_{\text{eq}}}=\frac{1}{3}+\frac{1}{4}+\frac{1}{5}=\frac{47}{60}\Rightarrow C_{\text{eq}}=\frac{60}{47}\ \mu\text{F}\approx1.277\ \mu\text{F}[/math].  
+খ সমান্তরাল সমবায়ে: [math]C_{\text{eq}}=3+4+5=12\ \mu\text{F}[/math].  
+তুলনা: সমান্তরাল সংযোগে ধারকত্ব যোগ হয় ফলে মান বড় হয় আর শ্রেণি সমবায়ে প্রতিকূল যোগ হওয়ার কারণে মোট ধারকত্ব ছোট হয় (এজন্যে [math]12\ \mu\text{F}[/math] সবচেয়ে বড় এবং [math]\tfrac{60}{47}\ \mu\text{F}[/math] সবচেয়ে ছোট)।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 421377)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, সমান ধারকত্বের [math]4[/math] টি ধারকের শ্রেণি সমবায়ে থাকাকালীন সমতুল ধারকত্ব তাদের সমান্তরাল সমবায়ে থাকাকালীন সমতুল ধারকত্বের [math]\frac{1}{16}[/math]গুণ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, ধারক এটির প্রতিটির ধারকত্ব [math]C[/math]
+এদের সমান্তরাল সমবায়ে তুল্য ধারকত্ব [math]C[/math]
+ হলে,[math]C_{p}=C+C+C+C=4 C[/math]
+এবং শ্রেণি সমবায়ে তুল্য ধারকত্ব [math]C_s[/math]
+, হলে,[math]\begin{aligned} \quad \frac{1}{C_{s}} & =\frac{1}{C}+\frac{1}{C}+\frac{1}{C}+\frac{1}{C}=\frac{4}{C} \\ \therefore C_{s} & =\frac{C}{4} \end{aligned}[/math]
+অতএব, [math]\frac{C_{p}}{C_{s}}=\frac{4 C}{\frac{C}{4}}=4 C \times \frac{4}{C}=16[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{C_{0}}{C_{s}}=16 \\ \therefore C_{s}=\frac{1}{16} C_{p} \end{array}[/math]
+অতএব, সমান ধারকত্বের 4টি ধারকের শ্রেণি সমবায়ে থাকাকালীন তুল্য ধারকত্ব তাদের সমান্তরাল সমবায়ে থাকাকালীন তুল্য ধারকত্বের গুণ । (প্রমাণিত)
+
+Explanation:
+প্রমাণ: প্রতিটি ধারকের দুইটি বিপরীত দিক (orientation) আছে, তাই চারটি ধারকের মোট দিকসম্ভব সংখ্যা [math]2^4=16[/math]. সমান্তরাল সমবায়ে ওই দিকগুলো আলাদা গণ্য হলেও সমান (অরিয়েন্টেশন-অবহিত) ধারকত্বের সমবায়ে প্রতিটি যেতে পারে এমন বিপরীত দিকদুটি এক রূপে গণ্য হয়, ফলে ভিন্নতাগুলো [math]16[/math] গুণ কমে যায়। তাই সমান ধারকত্বের শ্রেণি সমতুল ধারকত্বের [math]\tfrac{1}{16}[/math] গুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 421378)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দেখাও যে, সমান ধারকত্বের দুটি ধারকের সমান্তরাল সংযোজনীতে থাকাকালীন ধারকত্ব শ্রেণিবদ্ধভাবে থাকাকালীন ধারকত্বের [math]4[/math] গুণ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+ধরা যাক, ধারক দুটির প্রতিটির ধারকত্ব [math]C[/math]
+আমরা জানি, সমান্তরাল সমবায়ে ভুল্য ধারকত্ব,[math]\begin{aligned} C_{p} & =C_{1}+C_{2} \\ & =C+C=2 C \end{aligned}[/math]
+আবার,[math]\begin{aligned} \frac{1}{C_{s}} & =\frac{1}{C_{1}}+\frac{1}{C_{2}} \\ & =\frac{1}{C}+\frac{1}{C}=\frac{2}{C} \\ \Rightarrow C_{s} & =\frac{C}{2} \end{aligned}[/math]
+এখন,[math]\frac{\mathrm{C}_{\mathrm{p}}}{\mathrm{C}_{\mathrm{s}}}=\frac{2 \mathrm{C}}{\mathrm{C} / 2}[/math]
+ [math]\Rightarrow C_{p}=4 C_{s}[/math]
+ (দেখানো হলো)
+
+Explanation:
+ব্যাখ্যা: সমান ধারকত্বের প্রতিটি ধারকের মান ধরে নেওয়া হোক [math]C[/math]. সমান্তরালে সমষ্টি হয় [math]C_{\text{parallel}}=C+C=2C[/math]. শ্রেণিবদ্ধভাবে সংযুক্ত হলে [math]\frac{1}{C_{\text{series}}}=\frac{1}{C}+\frac{1}{C}=\frac{2}{C}\Rightarrow C_{\text{series}}=\frac{C}{2}[/math]. তাই অনুপাত [math]\frac{C_{\text{parallel}}}{C_{\text{series}}}=\frac{2C}{C/2}=4[/math], অর্থাৎ সমান্তরাল সংযোগে ধারকত্ব শ্রেণিবদ্ধ সংযোগের চার গুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 421355)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]13.5 \mu P[/math] ধারকত্বের একটি সমান্তরাল পাত ধারককে [math]12.5 V[/math] এর একটি কোষ দ্বারা চার্জিত করে কোষটি খুলে নেয়া হলো। এর পর [math]6.5[/math] দ্বিতাড়িত ধ্রুবক বিশিষ্ট পোরসেলিনের একটি স্ল্যাব ধারকের পাতদ্বয়ের মধ্যে প্রবেশ করানো হলো।
+
+Options:
+ঘ. পোরসেলিনের স্ল্যাব প্রবেশের পরে ধারকটিতে সঞ্চিত শক্তি বৃদ্ধি পাবে না হ্রাস পাবে? যদি বৃদ্ধি পায় তবে এ শক্তি কোথা থেকে আসবে আর যদি হ্রাস পায় তবে বাকি শক্তি কী অবস্থায় থাকবে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘসমান্তরাল পাত ধারকটির পূর্বের ধারকত্ব, [math]\begin{aligned}C_{0} & =13.5 \mu \mathrm{F} \\& =13.5 \times 10^{-6} \mathrm{~F}\end{aligned}[/math]
+পোরসেলিনের স্ল্যাব প্রবেশের পর ধারকত্ব = C (ধরি) পোরসেলিন স্ল্যাবের দ্বিতাড়িত ধ্রুবক, K = 6.5আমরা জানি,[math]\begin{array}{l}\mathrm{K}=\frac{\mathrm{C}}{\mathrm{C}_{0}} \\\therefore \mathrm{C}=\mathrm{C}_{0} \times \mathrm{K}\end{array}[/math]
+ধারকের পূর্বের সঞ্চিত শক্তি, [math]\mathrm{U}_{1}=\frac{1}{2} \mathrm{C}_{\mathrm{e}} \mathrm{V}^{2}[/math]
+পোরসেলিন স্ল্যাব প্রবেশের পর সঞ্চিত শক্তি, [math]\begin{aligned}\mathrm{U}_{2} & =\frac{1}{2} \mathrm{CV}^{2} \\& =\frac{1}{2} \times 6.5 \times \mathrm{C}_{0} \times \mathrm{V}^{2} \\& =6.5 \mathrm{U}_{1}\end{aligned}[/math]
+সুতরাং পোরসেলিন স্ল্যাব প্রবেশের পর ধারকটির সঞ্চিত শক্তি পূর্বের The 6.5U তুলনায় 5 গুণ বৃদ্ধি পাবে । একটি ধারক যখন আহিত হয় তখন পাতদ্বয়ের মধ্যে একটি তড়িৎ ক্ষেত্রেরউদ্ভব হয় । তড়িৎক্ষেত্রে অবস্থিত যে কোনো আহিত বস্তুর উপর ক্ষেত্রটি বল প্রয়োগ করে । যখন পোরসেলিনের স্ল্যাব পাতদ্বয়ের মধ্যবর্তী স্থানে প্রবেশ করানো হয় তখন তা তড়িৎক্ষেত্র দ্বারা প্রভাবিত হয় এবং এই পদার্থে অবস্থিত আহিত কণাসমূহ (যেমন- ইলেকট্রন) এই বলের প্রভাবে ধারকের ধনাত্মক পাতের দিকে সরে আসতে বাধ্য হয়। ফলে নিউক্লিয়াসের চারদিকে ইলেকট্রনের কক্ষপথ খানিকটা প্রসারিত হয় (চিত্র-২)। ইলেকট্রনের কক্ষপথ বড় হয়ে যাওয়ার কারণে ইলেকট্রনের শক্তিস্তরও বৃদ্ধি প্রাপ্ত হয়। আর এভাবেই ধারকের সঞ্চিত শক্তি বৃদ্ধি পায়।
+[Image]
+
+
+Explanation:
+ধারকটি বিচ্ছিন্ন থাকায় চার্জ স্থির থাকে এবং স্ল্যাব প্রবেশ করলে ধারকধারণ ক্ষমতা [math]C'=\kappa C=6.5C[/math] বাড়ে, তাই শক্তি কমে: প্রাথমিক শক্তি [math]U_i=Q^2/(2C)[/math] এবং পরে [math]U_f=Q^2/(2C')=Q^2/(2\kappa C)=U_i/\kappa < U_i[/math]. শক্তির এই হ্রাসটা বিদ্যুত্‌ ক্ষেত্রের দ্বারা স্ল্যাবটিকে টেনে আনার কাজ হিসেবে বেরিয়ে আসে (যে কোনও গতি হলে কাইনেটিক শক্তি বা ঘর্ষণে তাপে রূপান্তরিত হয়); ধীরভাবে প্রবেশ করলে সেই কাজ বাইরের দিক থেকে সংগ্রহ করা যায়। ব্যাটারি খুলে ফেলা ছিল তাই ব্যাটারি কোনো শক্তি যোগ করে না।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 421356)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+হিরো 1 ফ্যারাড ধারকত্বের একটি ক্যাপাসিটারকে [math]220 \ V[/math] বিভব পার্থক্যে চার্জিত করলো। অতঃপর সে ক্যাপাসিটারটাকে [math]100 \ \Omega[/math] রোধের দুপ্রান্তে তার দ্বারা সংযুক্ত করে ডিসচার্জ করা শুরু করলো। এতে প্রতি মুহুর্তে ব্যয়িত তড়িৎশক্তির [math]40 \%[/math] তাপশক্তিতে রূপান্তরিত হয়ে ঐ তারের উষ্ণতা বৃদ্ধি পেলো। তারের উপাদানের আপেক্ষিক তাপ [math]2900 \ Jkg^{-1}K^{-1}[/math] এবং এর ভর [math]100 \ gm[/math]
+
+Options:
+গ. ক্যাপাসিটারটিকে চার্জিত করতে মোট কত শক্তি ব্যায়িত হবে?
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ ক্যাপাসিটার চার্জ করতে ব্যয়িত শক্তি হয় [math]W=\tfrac{1}{2}CV^2[/math], তাই [math]W=\tfrac{1}{2}\times1\times(220)^2=24200\ \text{J}[/math] — এই একেই ক্যাপাসিটরে সঞ্চিত শক্তি বলা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 421357)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+হিরো 1 ফ্যারাড ধারকত্বের একটি ক্যাপাসিটারকে [math]220 \ V[/math] বিভব পার্থক্যে চার্জিত করলো। অতঃপর সে ক্যাপাসিটারটাকে [math]100 \ \Omega[/math] রোধের দুপ্রান্তে তার দ্বারা সংযুক্ত করে ডিসচার্জ করা শুরু করলো। এতে প্রতি মুহুর্তে ব্যয়িত তড়িৎশক্তির [math]40 \%[/math] তাপশক্তিতে রূপান্তরিত হয়ে ঐ তারের উষ্ণতা বৃদ্ধি পেলো। তারের উপাদানের আপেক্ষিক তাপ [math]2900 \ Jkg^{-1}K^{-1}[/math] এবং এর ভর [math]100 \ gm[/math]
+
+Options:
+ঘ. তারে উদ্ভূত তাপশক্তির কোনো অংশ পরিপার্শ্বে ক্ষরিত না হলে এর তাপমাত্রা কত বৃদ্ধি পাবে? সময়ের সাথে তাপমাত্রা কত বৃদ্ধি পাবে? সময়ের সাথে তাপমাত্রা বৃদ্ধির লেখ দেখতে কেমন হবে? এর সপক্ষে মতামত বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ঘ ক্যাপাসিটরে সঞ্চিত শক্তি [math]E=\tfrac12CV^2=\tfrac12\times1\times(220)^2=24200\ \mathrm{J}[/math]। তারে গিয়ে তাপায়িত অংশ 40% হলে [math]Q=0.4E=9680\ \mathrm{J}[/math], তাই তাপমাত্রা বৃদ্ধি [math]\Delta T=\dfrac{Q}{mc}=\dfrac{9680}{0.1\times2900}\approx33.4\ \mathrm{K}[/math]।  
+সময়নির্ভরতা: ডিসচার্জে তারে তাপশক্তির শক্তি হার [math]P(t)=0.4\frac{V_0^2}{R}e^{-2t/(RC)}[/math] এবং তাপমাত্রা বৃদ্ধি হবে [math]\Delta T(t)=\frac{0.4V_0^2C}{2mc}\bigl(1-e^{-2t/(RC)}\bigr)=33.4\bigl(1-e^{-t/50}\bigr)\ \mathrm{K}[/math] (এখানে [math]RC=100\ \mathrm{s}[/math])। অর্থাৎ তাপমাত্রা প্রথমে দ্রুত বেড়ে পরে ধীরে ধীরে এক্সপোনেনশিয়ালি [math]33.4\ \mathrm{K}[/math] এ সীমানায় পৌঁছায়।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 421358)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি রোধ থার্মোমিটারের রোধ [math]0^{\circ}[/math] তাপমাত্রায় ও [math]100^{\circ}[/math] তাপমাত্রায় যথাক্রমে [math]8 \ \Omega[/math] ও [math]20 \ \Omega[/math] । থার্মোমিটারটিকে একটি চুল্লিতে স্থাপন করা হলে এর রোধ হয় [math]32 \ \Omega[/math]। হামিম উক্ত থার্মোমিটারে ব্যবহৃত রোধকে [math]4 \ \mu F[/math] এর একটি ধারকের সাথা যুক্ত করে [math]20^{\circ}C[/math] ও [math]30^{\circ}C[/math] তাপমাত্রায় যথাক্রমে [math]9 \ V[/math] ও [math]12 \ V[/math] বিভব পার্থক্য পেল।
+
+Options:
+গ. চুল্লির তাপমাত্রা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+গ থার্মোমিটারের রোধ তাপমাত্রার সাথে সরলরেখীয়ভাবে বেড়ে চলে, তাই [math]R(T)=8+\frac{20-8}{100}T=8+0.12T[/math]। যদি [math]R=32\ \Omega[/math], τότε [math]T=(32-8)/0.12=200^\circ\mathrm{C}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 421359)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি রোধ থার্মোমিটারের রোধ [math]0^{\circ}[/math] তাপমাত্রায় ও [math]100^{\circ}[/math] তাপমাত্রায় যথাক্রমে [math]8 \ \Omega[/math] ও [math]20 \ \Omega[/math] । থার্মোমিটারটিকে একটি চুল্লিতে স্থাপন করা হলে এর রোধ হয় [math]32 \ \Omega[/math]। হামিম উক্ত থার্মোমিটারে ব্যবহৃত রোধকে [math]4 \ \mu F[/math] এর একটি ধারকের সাথা যুক্ত করে [math]20^{\circ}C[/math] ও [math]30^{\circ}C[/math] তাপমাত্রায় যথাক্রমে [math]9 \ V[/math] ও [math]12 \ V[/math] বিভব পার্থক্য পেল।
+
+Options:
+ঘ. [math]20^{\circ}[/math] ও [math]30^{\circ}C[/math] তাপমাত্রায় ধারকে সঞ্চিত শক্তির তুলনামূলক বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: ঘ ধারকে সঞ্চিত শক্তি [math]U=\tfrac{1}{2}CV^2[/math] দ্বারা দেওয়া হয়। তাই ২০°C-এ [math]U_{20}=\tfrac{1}{2}\times4\times10^{-6}\times9^2=162\times10^{-6}\ \text{J}[/math] এবং ৩০°C-এ [math]U_{30}=\tfrac{1}{2}\times4\times10^{-6}\times12^2=288\times10^{-6}\ \text{J}[/math]। অনুপাত [math]U_{20}:U_{30}=81:144=9:16[/math], অর্থাৎ ৩০°C-এ ধারকে সঞ্চিত শক্তি ২০°C-এ’র তুলনায় [math]16/9\approx1.78[/math] গুণ বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 421360)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতিটি পাতের পৃষ্ঠের ক্ষেত্রফল [math]1.5 \ m^2[/math] এবং বায়ু মাধ্যমে পা তদ্বয়ের মধ্যবর্তী দূরত্ব [math]0.02 \ m[/math] । ধারকটির ধারকত্ব মাইক্রো ফ্যারাডে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](6.6375 \times 10^{-4}\mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,পাতের ক্ষেত্রফল, [math]A=1.5 \ m^2[/math]
+পাতদ্বয়ের দূরত্ব, [math]d=0.02 \ m[/math]
+ [math]\epsilon_{0}=8.85 \times 10^{-12} \mathrm{Fm}^{-1}[/math]
+ধারকত্ব, [math]C=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} C & =\frac{\epsilon_{0} \mathrm{~A}}{\mathrm{~d}} \\ & =\frac{8.85 \times 10^{-12} \mathrm{Fm}^{-1} \times 1.5 \mathrm{~m}^{2}}{0.02 \mathrm{~m}} \\ & =6.6375 \times 10^{-10} \mathrm{~F} \\ & =6.6375 \times 10^{-4} \mu \mathrm{F} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরাল পাত ধারকের ধারকত্ব সূত্র [math]C=\varepsilon_0\frac{A}{d}[/math] যেখানে [math]\varepsilon_0=8.85\times10^{-12}\,\text{F/m}[/math]. এখানে [math]C=8.85\times10^{-12}\times\frac{1.5}{0.02}=6.6375\times10^{-10}\,\text{F}[/math], যা মাইক্রোফ্যারাডে [math]6.64\times10^{-4}\,\mu\text{F}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 421361)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পরিবাহীর ধারকত্ব [math]12 \mu F[/math]। এতে কী পরিমাণ চার্জ প্রদান করা হলে বিভব [math]20 \ V[/math] হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2.4 \times 10^{-4}C)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,পরিবাহীর ধারকত্ব, [math]C=12 \mu F=12 \times 10^{-6}F[/math]
+বিভব, [math]V=20 \ V[/math]
+চার্জের পরিমাণ, [math]Q=?[/math]
+ [math]\\[/math]
+আমরা জানি,ধারকত্ব, [math]C=\frac{Q}{V}[/math]
+ [math]\begin{aligned} \therefore Q & =\mathrm{CV} \\ & =12 \times 10^{-6} \mathrm{~F} \times 20 \mathrm{~V} \\ & =2.4 \times 10^{-4} \mathrm{C} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধারকত্ব ও বিভবের সম্পর্ক [math]Q=CV[/math]। এখানে [math]C=12\ \mu F=12\times10^{-6}\ F[/math] ও [math]V=20\ V[/math], তাই [math]Q=12\times10^{-6}\times20=240\times10^{-6}\ C=240\ \mu C[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 421362)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ধাতব গোলকের ব্যাসার্ধ [math]0.06m[/math]। পায়ুতে এর ধারকত্ব কত? একে [math]2.6[/math] দ্বি-তাড়িত ধ্রুবক বিশিষ্ট কোনো মাধ্যমে স্থাপন করা হলে এর ধারকত কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](1.7316 \times 10^{-11}F)[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে, ব্যাসার্ধ, [math]r=0.06m[/math]
+জানা আছে, [math]\in_0=8.85 \times 10^{-12}Fm^{-1}[/math]
+বায়ু মাধ্যমে ক্ষেত্রে ধারকত্ব,[math]C_a= 4 \pi \in_0 r[/math]
+ [math]=4\pi \times 8.85 \times 10^{-12}Fm^{-1}\times 0.06 \ m[/math]
+ [math]=6.67 \times 10^{-12}F[/math]
+আবার, [math]2.6[/math]
+ দ্বি-তাড়িৎ ধ্রুবক বিশিষ্ট মাধ্যমের ক্ষেত্রে,[math]C_D= 4\pi \in_0 kr[/math]
+ [math]=4\pi \times 8.85 \times 10^{-12}Fm^{-1} \times 2.6 \times 0.06m[/math]
+ [math]=1.7316 \times 10^{-11}F (Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি বিচ্ছিন্ন গোলকের ধারকত্ব হলো [math]C=4\pi\epsilon_0 a[/math] এবং কোনো মাধ্যমের দ্বি-তাড়িত ধ্রুবকে তা [math]\kappa[/math] দ্বারা গুণিত হয়।  
+ক পায়ুতে (শূন্যস্থলে): [math]C=4\pi(8.854\times10^{-12}\,\text{F/m})(0.06\,\text{m})\approx6.68\times10^{-12}\,\text{F}[/math].  
+খ [math]\kappa=2.6[/math] হলে: [math]C'= \kappa C=2.6\times6.68\times10^{-12}\approx1.74\times10^{-11}\,\text{F}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 421363)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সম আকারের আটটি পানির ফোঁটা একত্র করে একটি বড় ফোঁটায় পরিণত করা হল। ফোঁটাগুলোতে যদি সমপরিমাণ সমধর্মী চার্জ থাকে তবে বড় ফোঁটার ধারকত্ব ও বিভব ছোট ফোঁটার ধারকত্ব ও বিভবের কত গুণ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]([/math]
+বড় ফোঁটার ধারকত্ব ও বিভব ছোট ফোঁটার ধারকত্ব ও বিভবের যথাক্রমে [math]2[/math]
+ গুণ ও [math]4[/math]
+ গুণ। [math])[/math]
+ [math]\\[/math]
+ [math][/math]
+ধরা যাক, প্রতিটি ছোট ফোঁটার ব্যাসার্ধ, [math]r_1[/math]
+ধারকত্ব, [math]C_1[/math]
+আধান, [math]q_1[/math]
+বিভব, [math]V_1[/math]
+এবং বড় ফোঁটার ব্যাসার্ধ, [math]R[/math]
+ধারকত্ব, [math]C[/math]
+আধান, [math]Q[/math]
+বিভব, [math]V[/math]
+আমরা জানি, [math]\mathrm{C}=4 \pi \epsilon_{0} \mathrm{~F}[/math]
+ [math]\therefore \ C_1=4\pi \in_0 r_1[/math]
+ এবং [math]C=4\pi \in_0 R[/math]
+এখন, প্রতিটি ছোট ফোঁটার আয়তন, [math]=\frac{4}{3}\pi r_{1}^{3}[/math]
+এবং বড় ফোঁটার আয়তন, [math]=\frac{4}{3}\pi R^3[/math]
+প্রশ্ননুসারে, [math]\frac{4}{3}\pi R^3= 8 \times \frac{4}{3}\pi r_{1}^{3}[/math]
+ [math]\Rightarrow \ R^3 =8r_{1}^{3}[/math]
+ [math]\therefore \ C=4\pi \in_0 R=4\pi \in_0 \times 2r_1=2 \times 4\pi \in_0r_1=2C_1[/math]
+আবার, [math]V=\frac{Q}{C}=\frac{8q_1}{2C_1}=4\frac{q_1}{C_1}=4V_1[/math]
+বড় ফোঁটার ধারকত্ব ও বিভব ছোট ফোঁটার ধারকত্ব ও বিভবের যথাক্রমে [math]2[/math]
+ গুণ ও [math]4[/math]
+ গুণ। [math](Ans.)[/math]
+
+
+Explanation:
+ব্যাখ্যা: ছোট ফোঁটার ত্রিজ্য пусть [math]r[/math] এবং ধারকত্ব [math]C=4\pi\epsilon_0 r[/math] হলে মোট আয়তন যোগে বড় ফোঁটার ত্রিজ্য হবে [math]R=(8)^{1/3}r=2r[/math], সুতরাং বড় ফোঁটার ধারকত্ব [math]C'=4\pi\epsilon_0 R=2C[/math] (দুই গুণ)। প্রতিটি ছোট ফোঁটায় চার্জ [math]q[/math] হলে মোট চার্জ [math]Q'=8q[/math] এবং বিভব হবে [math]V'=Q'/C'=(8q)/(2C)=4(q/C)=4V[/math] (চার গুণ)।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 421364)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]10 \ cm[/math] । পাতদ্বয় বায়ুতে পরস্পর হ তে [math]1 \ cm[/math] ব্যবধানে অবস্থিত। এই ধারকের ধারকত্ব কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](8.85 \times 10^{-10}F)[/math]
+
+Explanation:
+ব্যাখ্যা: সমান্তরাল পাত ধারকের ধারকত্বের সূত্র [math]C=\varepsilon_0\frac{A}{d}[/math]। এখানে [math]A=10\ \mathrm{cm}^2=10^{-3}\ \mathrm{m}^2[/math], [math]d=1\ \mathrm{cm}=10^{-2}\ \mathrm{m}[/math] এবং [math]\varepsilon_0=8.854\times10^{-12}\ \mathrm{F/m}[/math], তাই [math]C=8.854\times10^{-12}\times\frac{10^{-3}}{10^{-2}}=8.854\times10^{-13}\ \mathrm{F}\approx0.885\ \mathrm{pF}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 421365)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]16 \mu F[/math] এবং [math]22 \mu F[/math] ধারকত্ববিশিষ্ট সমবায়ে সাজালে তুল্য ধারকত্ব কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](9.3 \mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+দেওয়া আছে,ধারকত্ব, [math]C_1=16 \mu F[/math]
+ধারকত্ব, [math]C_2=22 \mu F[/math]
+তুল্য ধারকত্ব, [math]C_s=?[/math]
+শ্রেণি সমবায়ের ক্ষেত্রে,আমরা জানি,[math]\begin{aligned} \frac{1}{C_{s}} & =\frac{1}{C_{1}}+\frac{1}{C_{2}} \\ & =\left(\frac{1}{16}+\frac{1}{22}\right) \\ & =\frac{19}{176} \end{aligned}[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{s}}=\frac{176}{19} \mu \mathrm{F}=9.3 \mu \mathrm{F} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমবায়ে ধারকগণ একই ভোল্টেজে থাকে এবং প্রতিটির যুক্ত চার্জ যোগ হয়, তাই সমতুল্য ধারকত্ব যোগফল: [math]C_{eq}=C_1+C_2[/math] এবং [math]C_{eq}=16\ \mu F+22\ \mu F=38\ \mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 421366)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি ধারককে শ্রেণি ও সমান্তরাল সমবায়ে যুক্ত করা হলে তুল্য ধারকত্ব যথাক্রমে [math]12/7 \mu F[/math] ও [math]7 \mu F[/math] পাওয়া যায়। ধারকদ্বয়ের ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](3 \mu F,4 \mu F)[/math]
+
+Explanation:
+ধারণা: সমান্তরালে ধারকগুলোর ধারকত্ব যোগ হয় এবং শ্রেণিতে সমপার্থক সূত্র হয়। তাই [math]C_1+C_2=7\ \mu F[/math] এবং [math]\dfrac{C_1C_2}{C_1+C_2}=\dfrac{12}{7}\ \mu F[/math], থেকে [math]C_1C_2=12\ \mu F^2[/math]. এগুলো সমাধান করলে [math]x^2-7x+12=0\Rightarrow x=3\ \mu F\ \text{বা}\ 4\ \mu F[/math], সুতরাং ধারকদ্বয় হল [math]3\ \mu F[/math] এবং [math]4\ \mu F[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 421367)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমান ধারকত্বের তিনটি ধারককে সমান্তরাল সমবায়ে সাজালে তুল্য ধারকত্ব হবে প্রতিটি ধারকের ধা রকত্বের তিনগুণ এবং শ্রেণি সমবায়ে যুক্ত করলে তুল্য ধারকত্ব হবে প্রতিটি ধারকত্বের [math]\frac{1}{3}[/math] গুণ – প্রমাণ কর ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math][/math]
+মনে করি, প্রতিটি ধারকের ধারকত্ব [math]= C[/math]
+এদের সমান্তরাল সমবায়ে সাজালে তুল্য ধারকত্ব, [math]C_{p}=C+C+C=3 C[/math]
+আবার, এদের শ্রেণি সমবায়ে সাজালে, তুল্য ধারকত্ব[math]\begin{array}{l} \frac{1}{C_{s}}=\frac{1}{C}+\frac{1}{C}+\frac{1}{C} \\ \frac{1}{C_{s}}=\frac{3}{C} \\ \Rightarrow C_{s}=\frac{C}{3} \end{array}[/math]
+অতএব, সমান ধারকত্বের তিনটি ধারককে সমান্তরাল সমবায়ে সাজালে তুল্য ধারকত্ব হবে প্রতিটি ধারকের ধারকত্বের তিনগুণ ও শ্রেণি সমবায়ে সাজালে তুল্য ধারকত্ব হবে প্রতিটি ধারকের ধারকত্বের [math]\frac{1}{3}[/math]
+ গুণ। (প্রমাণিত )
+
+Explanation:
+ব্যাখ্যা: সমান্তরালে সংযুক্ত হলে ধারকত্বগুলো যোগ হয়, তাই [math]C_{\text{eq}}=C+C+C=3C[/math], অর্থাৎ প্রতিটি ধারকত্বের তিনগুণ। শ্রেণি সমবায়ে সংযুক্ত হলে বিপরীত ধারকত্বগুলো যোগ হয়, তাই [math]\frac{1}{C_{\text{eq}}}=\frac{1}{C}+\frac{1}{C}+\frac{1}{C}=\frac{3}{C}[/math] এবং ফলে [math]C_{\text{eq}}=\frac{C}{3}[/math], অর্থাৎ প্রতিটির [math]\tfrac{1}{3}[/math] গুণ।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 421368)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]1.4 \mu F[/math] ধারকত্ববিশিষ্ট একটি ইলেকট্রনিক যন্ত্রের টার্মিনালদ্বয়ের মধ্যে [math]3000 \ V[/math] বিভব পা র্থক্য দেয়া হলো। ধারকে সঞ্চিত শক্তির পরিমাণ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](6.3 \ J)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,বিভব পার্থক্য, [math]V=3000 V[/math]
+ধারকত্ব,[math]C=1.4 \mu \ F[/math]
+ [math]=1.4 \times 10^{-6}F[/math]
+সঞ্চিত শক্তি, [math]U=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{U} & =\frac{1}{2} \mathrm{CV}^{2} \\ & =\frac{1}{2} \times 1.4 \times 10^{-6} \mathrm{~F} \times(3000 \mathrm{~V})^{2} \\ & =6.3 \mathrm{~J} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধারকে সঞ্চিত শক্তি হিসাবের সূত্র [math]U=\tfrac{1}{2}CV^2[/math]. এখানে [math]C=1.4\times10^{-6}\ \mathrm{F}[/math] ও [math]V=3000\ \mathrm{V}[/math], তাই [math]U=\tfrac{1}{2}\times1.4\times10^{-6}\times(3000)^2=\tfrac{1}{2}\times1.4\times10^{-6}\times9\times10^{6}=6.3\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 421369)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](1.67 \mu F)[/math] [math]\\[/math] [math][/math]
+$ 4 \ \mu F [math]ও[/math]6 \mu F$ ধারকত্বের দুটি ধারককে সমান্তরালে যুক্ত করা হলো।
+
+অতএব, এক্ষেত্রে তুল্য ধারকত্ব, [math]C_p=4 \mu F+ 6\mu F=10 \mu F[/math]
+
+অতঃপর, ইহাকে [math]2\mu F[/math] ধারকত্বের একটি ধারকের সাথে শ্রেণিতে যুক্ত করা হলো ।
+
+এখানে,
+
+১ম ধারকের ধারকত্ব, [math]C_1=4 \mu F[/math]
+
+২য় ধারকের ধারকত্ব, [math]C_2 = 6 \mu F[/math]
+
+৩য় ধারকের ধারকত্ব, [math]C_3 = 2 \mu F[/math] [math]\therefore[/math] এক্ষেত্রে তুল্য ধারকত্ব,
+
+[math]\begin{array}{l} \frac{1}{C}=\frac{1}{C_{p}}+\frac{1}{C_{3}}=\frac{1}{10 \mu \mathrm{F}}+\frac{1}{2 \mu \mathrm{F}} \\ \therefore C=1.67 \mu \mathrm{F} \text { (Ans.) } \end{array}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরালে যুক্ত ধারকগুলোর ধারকত্ব সরাসরি যোগ হয়, তাই [math]C_p=4\mu F+6\mu F=10\mu F[/math]। এরপর এই সমান্তরাল সমন্বয়কে [math]2\mu F[/math] ধারকের সাথে শ্রেণিতে (series) যুক্ত করলে শ্রেণিতে যুক্ত ধারকগুলোর জন্য বিপরীত যোগ হয়, তাই [math]\frac{1}{C}=\frac{1}{C_p}+\frac{1}{C_3}=\frac{1}{10\mu F}+\frac{1}{2\mu F}=0.6\ \mu F^{-1}[/math] এবং তাই [math]C=\frac{1}{0.6}=1.67\mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 421370)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+তিনটি ধারকের ধারকত্ব যথাক্রমে [math]3 \mu F, 2 \mu F[/math]ও [math]1 \mu F[/math] | এদের প্রথম দুটিকে শ্রে ণিতে যুক্ত করে তৃতীয়টির সাথে সমান্তরালে যুক্ত করা হলো। তুল্য ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](2.2 \mu F)[/math]
+ [math]\\[/math]
+ [math][/math]
+এখান,১ম ধারকের ধারকত্ব, [math]C_1=3 \ \mu \ F[/math]
+২য় ধারকের ধারকত্ব, [math]C_2 = 2 \ \mu \ F[/math]
+৩য় ধারকের ধারকত্ব, [math]C_3=1 \ \mu F[/math]
+১ম ও ২য় ধারককে শ্রেণি সমবায়ে যুক্ত করা হলে তুল্য ধারকত্ব,[math]\begin{aligned} \frac{1}{C_{s}} & =\frac{1}{C_{1}}+\frac{1}{C_{2}} \\ & =\frac{1}{3 \mu F}+\frac{1}{2 \mu F} \end{aligned}[/math]
+ [math]\therefore \ C_s=1.2 \ \mu F[/math]
+অতঃপর এর সাথে তৃতীয় ধারকটিকে সমান্তরাল সমবায়ে যুক্ত করা হলে, তুল্য ধারকত্ব, [math]C_{p}=C_{s}+C_{3}=1.2 \mu \mathrm{F}+1 \mu \mathrm{F}=2.2 \mu \mathrm{F} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম দুটো ধারক শ্রে ңিতে আছে, তাই তাদের ধ্রুবক হবে [math]\dfrac{1}{C_s}=\dfrac{1}{3\mu F}+\dfrac{1}{2\mu F}=\dfrac{5}{6\mu F}[/math], ফলে [math]C_s=\dfrac{6}{5}\mu F=1.2\mu F[/math]। এই সমান ধারকটি তৃতীয় ধারকের সঙ্গে সমান্তরালে যুক্ত হলে যোগফল হবে [math]C_{eq}=C_s+1\mu F=\dfrac{6}{5}\mu F+1\mu F=\dfrac{11}{5}\mu F=2.2\mu F[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 421371)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+প্রমাণ কর যে, সমান ধারকত্বের [math]4[/math]টি ধারকের শ্রেণি সমবায়ে থাকাকালীন তুল্য ধারকত্ব তাদের সমা ন্তরাল সমবায়ে থাকাকালীন তুল্য ধারকত্বের [math]\frac{1}{16}[/math] গুণ ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ধরা যাক, ধারক এটির প্রতিটির ধারকত্ব [math]C[/math]
+এদের সমান্তরাল সমবায়ে তুল্য ধারকত্ব [math]C[/math]
+ হলে,[math]C_{p}=C+C+C+C=4 C[/math]
+এবং শ্রেণি সমবায়ে তুল্য ধারকত্ব [math]C_s[/math]
+, হলে,[math]\begin{aligned} \quad \frac{1}{C_{s}} & =\frac{1}{C}+\frac{1}{C}+\frac{1}{C}+\frac{1}{C}=\frac{4}{C} \\ \therefore C_{s} & =\frac{C}{4} \end{aligned}[/math]
+অতএব, [math]\frac{C_{p}}{C_{s}}=\frac{4 C}{\frac{C}{4}}=4 C \times \frac{4}{C}=16[/math]
+ [math]\begin{array}{l} \Rightarrow \frac{C_{0}}{C_{s}}=16 \\ \therefore C_{s}=\frac{1}{16} C_{p} \end{array}[/math]
+অতএব, সমান ধারকত্বের 4টি ধারকের শ্রেণি সমবায়ে থাকাকালীন তুল্য ধারকত্ব তাদের সমান্তরাল সমবায়ে থাকাকালীন তুল্য ধারকত্বের গুণ । (প্রমাণিত)
+
+Explanation:
+একত্রে সমান্তরালে সংযুক্ত হলে সমতুল্য ধারকত্ব হবে [math]C_{\text{para}}=4C[/math] এবং ধারাবাহিকে সংযুক্ত হলে [math]\tfrac{1}{C_{\text{ser}}}=4\tfrac{1}{C} \Rightarrow C_{\text{ser}}=\tfrac{C}{4}[/math]; তাই অনুপাত হল [math]\dfrac{C_{\text{ser}}}{C_{\text{para}}}=\dfrac{C/4}{4C}=\dfrac{1}{16}[/math], যা প্রমাণ করে কথা অনুযায়ী।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 421372)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমান ধারকত্বের তিনটি ধারকের প্রথম ও দ্বিতীয়টি সারিতে রেখে তৃতীয়টির সাথে সমান্তরালে যুক্ত করা হয়। পরিশেষে v ডোস্টের একটি ব্যাটারি সমবায়ের ওপর প্রয়োগ করা হলো।
+
+Options:
+গ. উদ্দীপকে উল্লিখিত ধারকগুলোর তুল্য ধারকত্ব বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকে; বর্ণিত ১ম ও ২য় ধারক ২টি শ্রেণিতে যুক্ত এবং ৩য়টির সাথে সমান্তরালে যুক্ত। ধরি, প্রতিটি ধারকের ধারকত্ব = C১ম ও ২য় ধারকের তুল্য ধারকত্ব, [math]C_{s}=\frac{1}{\frac{1}{C}+\frac{1}{C}}=\frac{C}{2}[/math]
+ [math]C_s[/math]
+, ও ৩য় ধারকটি সমান্তরালে যুক্ত ,এদের তুল্য ধারকত্ব, [math]C_{p}=C_{s}+C=\frac{C}{2}+C[/math]
+ [math]\mathrm{C}_{\mathrm{p}}=\frac{3 \mathrm{C}}{2} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ সারিতে থাকা প্রথম এবং দ্বিতীয় ধারকের সমতুল্য ধারকত্ব [math]C_s=\frac{C\cdot C}{C+C}=\frac{C}{2}[/math] হয়, এবং সেটি তৃতীয় ধারকের সাথে সমান্তরালে যুক্ত হওয়ায় যোগ হবে, তাই মোট ধারকত্ব [math]C_{\text{eq}}=C_s+C=\frac{C}{2}+C=\frac{3C}{2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 421373)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সমান ধারকত্বের তিনটি ধারকের প্রথম ও দ্বিতীয়টি সারিতে রেখে তৃতীয়টির সাথে সমান্তরালে যুক্ত করা হয়। পরিশেষে v ডোস্টের একটি ব্যাটারি সমবায়ের ওপর প্রয়োগ করা হলো।
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত ধারক তিনটির প্রথম ও দ্বিতীয়টিকে সমান্তরালে রেখে তৃতীয়টির সাথে শ্রেণিতে যুক্ত করলে তুলা ধারকত্বের মান কীরূপ হবে তা ব্যাখ্যা কর এবং ব্যাটারি হতে গৃহীত চার্জের মান বের কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএক্ষেত্রে, ১ম ও ২য় ধারক সমান্তরালে যুক্ত.. এদের তুল্য ধারকত্ব, [math]C_p[/math]
+ = C + C = 2C[math]C_p[/math]
+. ও ৩য় ধারক শ্রেণিতে যুক্ত , [math]C_{s}=\frac{1}{\frac{1}{C_{p}}+\frac{1}{C}}=\frac{1}{\frac{1}{2 C}+\frac{1}{C}}[/math]
+ [math]\therefore \mathrm{C}_{\mathrm{s}}=\frac{1}{\frac{1+2}{2 \mathrm{C}}}=\frac{2 \mathrm{C}}{3}[/math]
+ব্যাটারি হতে গৃহীত চার্জ, [math]\mathrm{Q}=\mathrm{VC}_{\mathrm{S}}=\mathrm{V} \cdot \frac{2 \mathrm{C}}{3}[/math]
+Q = 2/3 CV
+
+Explanation:
+ঘ তিনটি ধারক প্রতিটি ধরা [math]C[/math] হলে প্রথম দুটিকে সিরিজ করলে সমমান ধারকত্ব হবে [math]C_{\rm series}=\dfrac{C}{2}[/math]; এটি তৃতীয়টির সাথে সমান্তরালে যুক্ত হলে সমগ্র সমমান হবে [math]C_{\rm eq}=\dfrac{C}{2}+C=\dfrac{3C}{2}[/math]। ব্যাটারি ভোল্টেজ [math]V[/math] এ মোট নেওয়া চার্জ হবে [math]Q_{\rm tot}=C_{\rm eq}V=\dfrac{3}{2}CV[/math]। সিরিজেই থাকা প্রতিটি ধারকের চার্জ [math]Q_{\rm series}=\dfrac{CV}{2}[/math] এবং একক তৃতীয় ধারকের চার্জ [math]Q_3=CV[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 421353)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রানুসারে প্রশ্নগুলোর উত্তর দাও।
+
+
+[Image]
+
+
+Options:
+ঘ. ধারক তিনটিকে কীভাবে সাজালে তুল্য ধারকত্ব [math]12 \ \mu F[/math] হবে সংযোগসহ তুল্য ধারকত্ব নির্ণয় করে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ [math]27\mu F[/math]
+ ও [math]9\mu F[/math]
+ ধারকদ্বয় সমান্তরালে এবং এদের সাথে [math]18\mu F[/math]
+ শ্রেণিতে যুক্ত করলে তুল্য ধারকত্ব [math]12\mu F[/math]
+ হবে ।
+[Image]
+[math]C_1 ও C_2[/math]
+ধারকদ্বয়ের তুল্য ধারকত্ব,[math]\begin{aligned}C_{p} & =C_{1}+C_{2} \\\text { } C_{p} & =27+9 \\\therefore C_{p} & =36 \mu \mathrm{F}\end{aligned}[/math]
+আবার, [math]C_p[/math]
+ ও [math]C_3[/math]
+ এর তুল্য ধারকত্ব,[math]\begin{aligned}\frac{1}{C_{s}} & =\frac{1}{C_{p}}+\frac{1}{C_{3}} \\& =\frac{1}{36}+\frac{1}{18} \\& =\frac{1}{12}\end{aligned}[/math]
+ [math]c_s[/math]
+= [math]12\mu F[/math]
+অর্থাৎ, বর্তনীতে [math]27 \mu F[/math]
+ ও [math]9\mu F[/math]
+সমান্তরালে এবং [math]18 \mu F[/math]
+ শ্রেণিতে যুক্ত করলে [math]12\mu F[/math]
+ তুল্য ধারকত্ব পাওয়া যাবে।
+
+Explanation:
+ব্যাখ্যা: ঘ তিনটি ধারককে এমনভাবে সাজাতে হবে যে তাদের সমান্তরাল যোগফল [math]12\ \mu F[/math] হয়, কারণ সমান্তরালে ধারকত্ব সরাসরি যোগ হয়: [math]C_{eq}=C_1+C_2+\cdots[/math]. উদাহরণস্বরূপ, যদি দুটি ধারকের মান প্রতিটি [math]6\ \mu F[/math] হয়, সেগুলোকে সমান্তরালে যুক্ত করলে [math]C_{eq}=6+6=12\ \mu F[/math] পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 421354)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]13.5 \mu P[/math] ধারকত্বের একটি সমান্তরাল পাত ধারককে [math]12.5 V[/math] এর একটি কোষ দ্বারা চার্জিত করে কোষটি খুলে নেয়া হলো। এর পর [math]6.5[/math] দ্বিতাড়িত ধ্রুবক বিশিষ্ট পোরসেলিনের একটি স্ল্যাব ধারকের পাতদ্বয়ের মধ্যে প্রবেশ করানো হলো।
+
+Options:
+গ. পোরসেলিনের গ্ল্যাব প্রবেশের পূর্বে ধারকটিতে সঞ্চিত শক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে। সমান্তরাল পাত ধারকটির ধারকত্ব, [math]\begin{aligned}\mathrm{C} & =13.5 \mu \mathrm{F} \\& =13.5 \times 10^{-5} \mathrm{~F}\end{aligned}[/math]
+কোষের তড়িচ্চালক শক্তি, V = 12.5Vধারকটির সঞ্চিত শক্তি, U = ?আমরা জানি,[math]\begin{array}{l}\mathrm{U}=\frac{1}{2} \mathrm{CV}^{2} \\=\frac{1}{2} \times 13.5 \times 10^{-6} \times(12.5)^{2} \\=1.054 \times 10^{-3} \mathrm{~J}\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ বিচ্ছিন্ন ধারক হলে সঞ্চিত শক্তি সূত্রটি [math]U=\tfrac{1}{2}CV^2[/math] প্রয়োগ করলে পাওয়া যায়: [math]U=\tfrac{1}{2}\times 13.5\times10^{-6}\ \text{F}\times(12.5\ \text{V})^2=1.0547\times10^{-3}\ \text{J}\approx1.05\ \text{mJ}[/math].  
+ব্যাখ্যা: সূত্রটি ধারকের ধার্য ধারণক্ষমতা ও এর উপর রাখাকৃত ভোল্টেজ থেকে সরাসরি শক্তি দেয়।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 421352)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রানুসারে প্রশ্নগুলোর উত্তর দাও।
+
+
+[Image]
+
+
+Options:
+গ. প্রতিটি ধারকের দুই প্রান্তের বিভব পার্থক্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,ধারক তিনটির ধারকত্ব,C1 = [math]27\mu F[/math]
+C2 = [math]18 \mu F[/math]
+C3 = [math]8 \mu F[/math]
+কোষের তড়িচ্চালক শক্তি, E = 24 Vপ্রতিটি ধারকের বিভব পার্থক্য, V1 = ?; V2 = ?; V3 = ?তুল্য ধারকত্ব, [math]\frac{1}{C_{s}}=\frac{1}{C_{1}}+\frac{1}{C_{2}}+\frac{1}{C_{3}}[/math]
+ [math]\begin{array}{l}\text { } \Rightarrow\frac{1}{C_{s}}=\frac{1}{27}+\frac{1}{18}+\frac{1}{9} \\\therefore C_{s}=\frac{54}{11} \mu\mathrm{F}\end{array}[/math]
+যেকোনো ধারকের চার্জ,[math]\begin{aligned}\mathrm{Q} & =\mathrm{CV}=\mathrm{C}_{\mathrm{s}} \mathrm{E} \\& =\frac{54}{11} \times 10^{-6} \times 24 \\& =117.82 \times 10^{-6} \mathrm{C}\end{aligned}[/math]
+ [math]C_1[/math]
+ ধারকের বিভব, [math]V_{1}=\frac{Q}{C_{1}}=\frac{117.82 \times 10^{-6}}{27 \times 10^{-6}}=4.36 \mathrm{~V} \text { (Ans.) }[/math]
+ [math]C_2[/math]
+ ধারকের বিভব , [math]V_{2}=\frac{Q}{C_{2}}=\frac{117.82 \times 10^{-6}}{18 \times 10^{-6}}=6.54 \mathrm{~V} \text { (Ans.) }[/math]
+ [math]C_3[/math]
+ ধারকের বিভব , [math]V_{3}=\frac{Q}{C_{3}}=\frac{117.82 \times 10^{-0}}{9 \times 10^{-6}}=13.09 \mathrm{~V} \text { (Ans. }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ধারকগুলো সিরিজে যুক্ত থাকলে সব ধারকে একই চার্জ থাকে, তাই প্রতিটি ধারকের দুই প্রান্তের বিভব পার্থক্য নির্ণয় করতে প্রথমে সমতুল্য ধারক নির্ণয় করে চার্জ বের করতে হয়। সমতুল্যধারক [math]C_{\text{eq}}=\big(\sum_i 1/C_i\big)^{-1}[/math] এবং ব্যাটারির বিভব পার্থক্য [math]V[/math] থাকলে [math]Q=C_{\text{eq}}V[/math]। তারপর প্রতিটি ধারকের বিভব পার্থক্য হবে [math]V_i=Q/C_i[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 421349)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বৈদ্যুতিক পাখায় [math]3 \mu F[/math] এবং [math]HP[/math] ক্ষমতার পানির পাম্পে [math]10.5 \ F[/math] ধারকত্বের ধারক ব্যবহার করা হয়। দুটি সমান্তরাল ধাতব পাতের মাঝে একটি [math]0.05 \ mm[/math] পুরুত্ব এবং [math]3.5[/math] পরাবৈদ্যুতিক ধ্রুবকের কাগজ ব্যবহার করে এ ধারক তৈরি করা হয়। একজন বৈদ্যুতিক মিস্ত্রি জানালেন ১ টি পাখার ধারক ব্যবহার করে পানির পাম্পটি চালানো সম্ভব।
+
+Options:
+ঘ. মিস্ত্রির কথার যথার্থতা বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমনে করি, পাখার [math]3 \mu \mathrm{F}[/math]
+ ধারকত্বের ৫টি ধারক হতে m সংখ্যক ধারক শ্রেণিতে ও n সংখ্যক ধারক সমান্তরালে যুক্ত করে এদের সমবায়কে পুনরায় সমান্তরালে যুক্ত করলে তুল্য ধারকত্ব পানির পাম্পের ব্যবহৃত ধারকের ধারকত্ব [math]10.5 \mu \mathrm{F}[/math]
+ এর সমান হয়।এখন, m সংখ্যক শ্রেণিতে যুক্ত সমান, C = [math]3 \mu \mathrm{F}[/math]
+ ধারকত্বের ধারকের তুল্য ধারকত, [math]C_{s}[/math]
+ হলে,[math]\begin{aligned}\frac{1}{C_{s}} & =\frac{1}{C_{1}}+\frac{1}{C_{2}}+\ldots \ldots+\frac{1}{C_{m}}=\frac{1}{C}+\frac{1}{C}+\ldots+\frac{1}{C} \\& =\frac{m}{C} \\\therefore & C_{s}=\frac{C}{m}\end{aligned}[/math]
+আবার n সংখ্যক সমান্তরালে যুক্ত সমান C = [math]3 \mu \mathrm{F}[/math]
+ ধারকত্বের ধারকের তিল্য ধারকত্ব, [math]C_{p}[/math]
+ হলে,[math]\begin{array}{l}C_{p}=C_{1}+C_{2}+\ldots \ldots+C_{n}=C+C+\ldots \ldots+C \\\therefore C_{p}=n C\end{array}[/math]
+
+[Image]
+[math]\therefore[/math]
+ সমান্তরালে যুক্ত [math]\mathrm{C}_{\mathrm{s}}[/math]
+ ও [math]\mathrm{C}_{\mathrm{p}}[/math]
+ এর তুল্য ধারকত্ব, [math]\mathrm{C}_{\mathrm{eq}}[/math]
+ হলে,[math]\begin{array}{c}C_{\mathrm{eq}}=\mathrm{C}_{\mathrm{s}}+\mathrm{C}_{\mathrm{p}} \\\Rightarrow\text {} 10.5=\frac{\mathrm{C}}{\mathrm{m}}+\mathrm{nC} \\\Rightarrow\text { } 10.5=\frac{3}{\mathrm{~m}}+\mathrm{n} \times 3\end{array}[/math]
+ [math]\begin{array}{l}\Rightarrow\text{ } \frac{1}{m}+n=3.5\\\Rightarrow\text{ } \frac{1}{m}+(5-m)=\frac{7}{2}[\because m+n=5]\\\Rightarrow\text{ } 2+10 \mathrm{~m}-2 \mathrm{~m}^{2}=7 \mathrm{~m}\\\Rightarrow\text{ } 2 m^{2}-3 m-2=0\\\therefore \quad \mathrm{m}=2,-\frac{1}{2}\end{array}[/math]
+m = 2টি C = [math]3 \mu \mathrm{F}[/math]
+ ধারকত্বের ধারক শ্রেণিতে ও n = 5-2 = 3টি - সমান্তরালে যুক্ত করে এদের সমবায়কে পুনরায় সমান্তরালে যুক্ত করলে 1C = [math]10.5 \mu \mathrm{F}[/math]
+ ধারকত্ব পাওয়া যাবে, যা পানির পাম্পে ব্যবহৃত পাম্পের ধারকত্বের সমান, ফলে তখন পানির পাম্পটি ব্যবহার করা যাবে ।-
+
+Explanation:
+ব্যাখ্যা: ঘ মিস্ত্রির কথা সঠিক নয়। ধারকত্বের সূত্র [math]C=\varepsilon_0 k\frac{A}{d}[/math] থেকে [math]A=\frac{Cd}{\varepsilon_0 k}[/math] পাওয়া যায়; [math]C=10.5\times10^{-6}\,F,\,d=0.05\times10^{-3}\,m,\,k=3.5[/math] দিলে [math]A\approx17\;m^2[/math] লাগে, আর [math]C=3\times10^{-6}\,F[/math] হলে [math]A\approx4.8\;m^2[/math] হয়। ফলে একটি 3 μF ধারক 10.5 μF-এর তুলনায় অপর্যাপ্ত; পাম্পের মোটর ঠিকভাবে চালানোর জন্য যথেষ্ট স্টার্টিং টর্ক দেবে না এবং উল্লেখিত প্লেট এলাকার ধাঁচে ধারক তৈরি করা অপ্র্যাকটিক্যাল।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 421350)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \ \mu F[/math] ও [math]15 \ \mu F[/math] ধারকত্বের দুটি সমান্তরাল পাত ধরকের উভয়ের প্রতিটি পাতের ক্ষেত্রফল [math]5 \ m^2[/math] এবং পাতের মাঝে একই ডাই ইলেকট্রিক মাধ্যম আছে। প্রথম ধারকের পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]0.02 \ mm[/math]। ধারকদ্বয়কে প্রথমে শ্রেণিতে এবং পরে সমান্তরালে যুক্ত করে উভয় ক্ষেত্রে [math]10 \ V[/math] বিভব প্রয়োগ করা হলো। [math]\left[\epsilon_{0}=8.85 \times 10^{-12} c^{2} N^{-1} \mathrm{~m}^{-1}\right][/math]
+
+Options:
+গ. পাতের মধ্যবর্তী মাধ্যমের ডাই-ইলেকট্রিক ধ্রুবকের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,ধারকত্ব, [math]C=10 u \mathrm{~F}=10^{-5} \mathrm{~F}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, [math]d=0.02 \mathrm{~mm}=2 \times 10^{-5} \mathrm{~m}[/math]
+প্রতিটি পাতের ক্ষেত্রফল, [math]A=5 \mathrm{~m}^{2}[/math]
+শূন্যস্থানের ভেদনযোগ্যতা, [math]E_{o}=8.85 \times 10^{-12} \mathrm{C}^{2} \cdot \mathrm{N}^{-1} \cdot \mathrm{m}^{-2}[/math]
+ডাই-ইলেকট্রিক ধ্রুবক, [math]k_{e}[/math]
+ = ?আমরা জানি সমান্তরাল পাত ধারত্বের |ধারকত্ব,[math]\begin{array}{l}C=\frac{A \epsilon_{0} k_{e}}{d} \\\therefore k_{e}=\frac{C d}{A \epsilon_{0}} \\\quad=\frac{10^{-5} \mathrm{~F} \times 2 \times 10^{-5} \mathrm{~m}}{5 \mathrm{~m}^{2} \times 8.85 \times 10^{-12} \mathrm{C}^{2} \cdot \mathrm{N}^{-1} \cdot \mathrm{m}^{-2}}\end{array}[/math]
+= 4.52 (Ans) [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ ধারকের সূত্র [math]C=\epsilon_{0}\epsilon_{r}\dfrac{A}{d}[/math] থেকে [math]\epsilon_{r}=\dfrac{Cd}{\epsilon_{0}A}[/math]। এখানে [math]C=10\times10^{-6}\,F,\ d=0.02\,\text{mm}=2\times10^{-5}\,m,\ A=5\,m^{2}[/math] ও [math]\epsilon_{0}=8.85\times10^{-12}[/math] বসালে  
+[math]\epsilon_{r}=\dfrac{10\times10^{-6}\times2\times10^{-5}}{8.85\times10^{-12}\times5}\approx4.51[/math]। তাই ডাইইলেকট্রিক ধ্রুবক প্রায় [math]4.5[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #60 (ID: 421351)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]10 \ \mu F[/math] ও [math]15 \ \mu F[/math] ধারকত্বের দুটি সমান্তরাল পাত ধরকের উভয়ের প্রতিটি পাতের ক্ষেত্রফল [math]5 \ m^2[/math] এবং পাতের মাঝে একই ডাই ইলেকট্রিক মাধ্যম আছে। প্রথম ধারকের পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]0.02 \ mm[/math]। ধারকদ্বয়কে প্রথমে শ্রেণিতে এবং পরে সমান্তরালে যুক্ত করে উভয় ক্ষেত্রে [math]10 \ V[/math] বিভব প্রয়োগ করা হলো। [math]\left[\epsilon_{0}=8.85 \times 10^{-12} c^{2} N^{-1} \mathrm{~m}^{-1}\right][/math]
+
+Options:
+ঘ. উভয় সমবায়ের ক্ষেত্রে সঞ্চিত শক্তির তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, প্রথম ধারকের ধারকত্ব, [math]C_{\mathrm{L}}=10 \mu \mathrm{F}[/math]
+দ্বিতীয় ধারকের ধারকত্ব, [math]C_{2}=15 \mu \mathrm{F}[/math]
+পাতদ্বয়ের মধ্যবর্তী বিভব, V = 10 vআমরা জানি, ধারকের শ্রেণি সমবায়ে তুল্য ধারকত্ব [math]C_{s}[/math]
+ হলে,[math]\begin{array}{ll} & \frac{1}{C_{s}}=\frac{1}{C_{1}}+\frac{1}{C_{2}}=\frac{1}{10 \mu \mathrm{F}}+\frac{1}{15 \mu \mathrm{F}}=\frac{3+2}{30 \mu \mathrm{F}}=\frac{5}{30 \mu \mathrm{F}}=\frac{1}{6 \mu \mathrm{F}} \\\therefore & C_{s}=6 \mu \mathrm{F}=6 \times 10^{-6} \mathrm{~F}\end{array}[/math]
+আবার, ধারকের সমান্তরাল সমবায়ে তুল্য ধারকত্ব,[math]C_{p}=C_{1}+C_{2}=10 \mu{\mathrm{F}}+15 \mu \mathrm{F}=25 \mu \mathrm{F}=25 \times 10^{-6}\mathrm{F}[/math]
+শ্রেণি সমবায়ে সঞ্চিত শক্তি, [math]U_{s}=\frac{1}{2} C_{s} V^{2}=\frac{1}{2} \times 6 \times 10^{-6} \mathrm{~F} \times(10 \mathrm{~V})^{2}=3 \times 10^{-4} \mathrm{~J}[/math]
+সমান্তরাল সমবায়ে সঞ্চিত শক্তি; [math]U_{p}=\frac{1}{2} C_{p} V^{2}=\frac{1}{2} \times 25 \times 10^{-6} \mathrm{~F} \times(10 \mathrm{~V})^{2}=12.5 \times 10^{-4} \mathrm{~J}[/math]
+অর্থাৎ, [math]\frac{U_{s}}{U_{p}}=\frac{3 \times 10^{-4} \mathrm{~J}}{12.5 \times 10^{-4} \mathrm{~J}}=0.24[/math]
+ [math]\therefore \mathrm{U}_{\mathrm{s}}=0.24 \mathrm{U}_{\mathrm{p}}[/math]
+সুতরাং শ্রেণি সমবায়ে সঞ্চিত শক্তি সমান্তরাল সমবায়ে সঞ্চিত শক্তির 0.24 গুণ । -
+
+Explanation:
+ব্যাখ্যা: ঘ সমান্তরালে যুক্ত হলে সমতূল্য ধারকত্ব [math]C_p=C_1+C_2=25\ \mu F[/math] এবং সঞ্চিত শক্তি [math]U_p=\tfrac{1}{2}C_pV^2=\tfrac{1}{2}\times25\times10^{-6}\times10^2=1.25\times10^{-3}\ J[/math]. শ্রেণিতে যুক্ত করলে সমতূল্য ধারকত্ব [math]C_s=\dfrac{C_1C_2}{C_1+C_2}=6\ \mu F[/math] এবং শক্তি [math]U_s=\tfrac{1}{2}C_sV^2=\tfrac{1}{2}\times6\times10^{-6}\times10^2=3.0\times10^{-4}\ J[/math]. অতএব সমান্তরালে সংযুক্ত হলে সঞ্চিত শক্তি বেশি (প্রায় [math]1.25\times10^{-3}\ J[/math] বনাম [math]3.0\times10^{-4}\ J[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #61 (ID: 421347)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]O[/math] কেন্দ্র ও [math]0.5 \ m[/math] ব্যাসার্ধবিশিষ্ট একটি পরিবাহী গোলকে [math]+ \ 10 \ C[/math] চার্জ আছে।
+
+
+[Image]
+
+
+Options:
+গ. গোলকটির ধারকত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,গোলকের ব্যাসার্ধ, R = 0.5 mগোলকের ধারকত্ব, C = ?গোলকটির ধারকত্ব C হলে,[math]\begin{aligned}\mathrm{C} & =4 \pi \epsilon_{0} \mathrm{R} \\& =4 \pi \times 8.854 \times 10^{-12} \times 0.5 \\& =5.56 \times 10^{-11} \mathrm{~F}(\text { Ans. })\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি পৃথক পরিবাহী গোলকের ধারকত্ব কেবল তার আকার (ত্রিজ্যা) ও শূন্য-শক্তি ধারনাঙ্ক [math]\epsilon_0[/math]-এর ওপর নির্ভর করে, চার্জের ওপর নয়।  
+গ [math]C=4\pi\epsilon_0R=4\pi(8.85\times10^{-12}\,\text{F/m})(0.5\,\text{m})=5.56\times10^{-11}\,\text{F}=55.6\,\text{pF}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #62 (ID: 421348)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+বৈদ্যুতিক পাখায় [math]3 \mu F[/math] এবং [math]HP[/math] ক্ষমতার পানির পাম্পে [math]10.5 \ F[/math] ধারকত্বের ধারক ব্যবহার করা হয়। দুটি সমান্তরাল ধাতব পাতের মাঝে একটি [math]0.05 \ mm[/math] পুরুত্ব এবং [math]3.5[/math] পরাবৈদ্যুতিক ধ্রুবকের কাগজ ব্যবহার করে এ ধারক তৈরি করা হয়। একজন বৈদ্যুতিক মিস্ত্রি জানা লেন ১ টি পাখার ধারক ব্যবহার করে পানির পাম্পটি চালানো সম্ভব।
+
+Options:
+গ. বৈদ্যুতিক পাখায় ব্যবহৃত ধারকের প্রতিটি পাতের ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গবৈদ্যুতিক পাখায় ব্যবহৃত ধারকের প্রতিটি পাতের ক্ষেত্রফল, A ও ধারকত্ব, C হলে,এখানে,পাতদ্বয়ের মধ্যবর্তী দূরত্ব, d= 0.05mm[math]=0.05 \times 10^{-3} \mathrm{~m}[/math]
+ধারকত্ব, [math]\mathrm{C}=3 \mu \mathrm{F}[/math]
+ [math]=3 \times 10^{-6} \mathrm{~F}[/math]
+পরাবৈদ্যুতিক ধ্রুবক, k=3.5[math]\begin{aligned}C & =\frac{E A}{d}=\frac{k E_{0} A}{d} \\\Rightarrow A & =\frac{C d}{k \epsilon_{0}} \\& =\frac{3 \times 10^{-6} \times 0.05 \times 10^{-3}}{3.5 \times 8.854 \times 10^{-12}} \\& =4.84 \mathrm{~m}^{2} \text { (Ans) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: সমান্তরাল পাতার ধারকত্বের সূত্র [math]C=\kappa\varepsilon_0\frac{A}{d}[/math] থেকে [math]A=\frac{Cd}{\kappa\varepsilon_0}[/math]। সংখ্যাগুলো বসিয়ে [math]A=\frac{3\times10^{-6}\times5\times10^{-5}}{3.5\times8.85\times10^{-12}}\approx4.85\ \mathrm{m}^2[/math], তাই প্রতিটি পাতার ক্ষেত্রফল প্রায় [math]4.85\ \mathrm{m}^2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #63 (ID: 421346)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.1 m^2[/math]ক্ষেত্রফলের দুটি পাতকে পরস্পর থেকে [math]2 \ mm[/math] দূরে স্থাপন করে একটি ধারক তৈরি করা হলো (চিত্র-১)। ধারকটির ধারকত্ব বৃদ্ধির উদ্দেশ্যে একই ক্ষেত্রফলের ও নগণ্য পুরুত্বের একটি পাতকে ধারকের পাতদ্বয়ের মধ্যে প্রবেশ করানো হলো (চিত্র-২)।
+
+
+[Image]
+
+
+Options:
+ঘ. পাত প্রবেশের ফলে ধারকটির ধারকত্বের পরিবর্তন হবে কি না, তোমার উত্তরের সপক্ষে যুক্তি দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘচিত্র-২ এ নতুন পাত প্রবেশ করানোয় প্রতি দুটি পাত, একটি ধারক এবং মোট দুটি ধারকের শ্রেণি সমবায় গঠিত হবে ।
+[Image]
+মনে করি, ১ম পাত হতে নতুন পাতটির দূরত্ব, x.:. নতুন পাতটি হতে ২য় পাতের দূরত্ব, d − x১ম ও নতুন পাত দ্বারা গঠিত ধারকের ধারকত্ব, [math]\mathrm{C}_{1}[/math]
+ হলে ,[math]C_{1}=\frac{\epsilon A}{x}[/math]
+১ম ও নতুন পাত দ্বারা গঠিত ধারকের ধারকত্ব, [math]\mathrm{C}_{2}[/math]
+ হলে ,[math]C_{2}=\frac{e\epsilon A}{d-x}[/math]
+শ্রেণি সমবায়ে যুক্ত [math]\mathrm{C}_{1}[/math]
+ ও [math]\mathrm{C}_{2}[/math]
+ এর তুল্য ধারকত্ব, C হলে,[math]\begin{array}{l}\frac{1}{C}=\frac{1}{C_{1}}+\frac{1}{C_{2}} \\\text { } \frac{1}{C}=\frac{C_{1}+C_{2}}{C_{1} C_{2}} \\\therefore C=\frac{C_{1} C_{2}}{C_{1}+C_{2}}\end{array}[/math]
+ [math]\begin{aligned}=\frac{E A}{x} \times \frac{E A}{d-x} & =\frac{\frac{(\epsilon A)^{2}}{x(d-x)}}{\frac{E A}{x}+\frac{E A}{d-x}} \\& =\frac{\frac{1}{x(d-x)}}{\left.\frac{d-x+x}{dx}\right)^{\prime}} \\& =\frac{E A}{d(d-x)} \\& =\frac{8.854 \times 10^{-12} \times 0.1}{2 \times 10^{-3}} \\& =4.427 \times 10^{-10} \mathrm{~F}=442.7 \mathrm{pF}\end{aligned}[/math]
+যা ‘গ’ এ প্রাপ্ত নতুন পাত ব্যতিরেকেই প্রাপ্ত ধারকত্বের সমান । অর্থাৎ, নতুন পাত প্রবেশের ফলে ধারকত্বের পরিবর্তন হয় নি । -
+
+Explanation:
+ঘ পরিবর্তন হবে না। কারণ পাতটি কন্ডাক্টর হিসেবে ক্যাপাসিটরটিকে দুটি অংশে ভাগ করে দেয় যা সিরিজে যুক্ত হয়, তাই [math]\frac{1}{C}=\frac{d_1}{εA}+\frac{d_2}{εA}=\frac{d_1+d_2}{εA}=\frac{d}{εA}[/math] এবং সুতরাং [math]C=\frac{εA}{d}[/math], মূল ধারকত্ব অপরিবর্তিত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #64 (ID: 421345)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]0.1 m^2[/math]ক্ষেত্রফলের দুটি পাতকে পরস্পর থেকে [math]2 \ mm[/math] দূরে স্থাপন করে একটি ধারক তৈরি করা হলো (চিত্র-১)। ধারকটির ধারকত্ব বৃদ্ধির উদ্দেশ্যে একই ক্ষেত্রফলের ও নগণ্য পুরুত্বের একটি পাতকে ধারকের পাতদ্বয়ের মধ্যে প্রবেশ করানো হলো (চিত্র-২)।
+
+
+[Image]
+
+
+Options:
+গ. ১নং চিত্রের ধারকের ধারকত্ব নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,পাতদ্বয়ের ক্ষেত্রফল, [math]A=0.1 \mathrm{~m}^{2}[/math]
+" মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=2 \mathrm{~mm}=2 \times 10^{-3} \mathrm{~m}[/math]
+১নং চিত্রের ধারকের ধারকত্ব, C হলে,[math]\begin{aligned}C & =\frac{\epsilon_{0} \mathrm{~A}}{d} \\& =\frac{8.854 \times 10^{-12} \times 0.1}{2 \times 10^{-3}} \\& =4.427 \times 10^{-10} \mathrm{~F} \\& =442.7 \mathrm{pl}^{-1} \text { (Ans) }\end{aligned}[/math]
+ [math]\\[/math]
+ ঘ
+
+Explanation:
+গ ধারকতার সূত্র [math]C=\varepsilon_0\frac{A}{d}[/math] (বায়ু/শূন্যতার পারমিটিভিটি [math]\varepsilon_0=8.85\times10^{-12}\,\mathrm{F/m}[/math]) প্রয়োগ করলে, 
+[math]C=\frac{8.85\times10^{-12}\times0.1}{2\times10^{-3}}=4.425\times10^{-10}\,\mathrm{F}=0.4425\,\mathrm{nF}=442.5\,\mathrm{pF}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #65 (ID: 421344)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+(ক) চিত্রে প্রদর্শিত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]0.1 \ m^2[/math]এবং মধ্যবর্তী দূরত্ব [math]1 \ mm[/math]। পাতদ্বয়ের মধ্যবর্তী মাধ্যম বায়ু। ধারকটির অর্ধেকাংশ ও ডাই-ইলেক্ট্রিক ধ্রুবকের মাধ্যম দ্বারা (খ) ও (গ) চিত্রানুযায়ী পূর্ণ করা হলো।
+
+
+[Image]
+
+
+Options:
+ঘ. (খ) ও (গ) চিত্রানুযায়ী ধারকারের ধারকরের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, প্রতিটি পাতের ক্ষেত্রফল, [math]\mathrm{A}=0.1 \mathrm{~m}^{2}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, d = 1mm = 0.001mবায়ু মাধ্যমের তড়িৎ ভেদনযোগ্যতা,[math]\begin{array}{l}\\\epsilon_{0}=8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2}\end{array}[/math]
+ডাই ইলেকট্রিক ধ্রুবক, k = 5(খ) চিত্রের উপরের অংশের ধারকত্ব[math]\begin{array}{l}C_{u}=\frac{\frac{A}{2} \epsilon_{0}}{d} \\=\frac{\frac{0.1}{2} \times 8.854 \times 10^{-12}}{0.001} \\=4.427 \times 10^{-10} \mathrm{~F}\end{array}[/math]
+খ) চিত্রের নিচের অংশের(খ) চিত্রের ধারকের ধারকত্ব, [math]C_{p}=\text { ? }[/math]
+(গ) চিত্রের ধারকের ধারকত্ব [math]C_{s}=?[/math]
+ধারকত্ব, [math]C_{d}=\frac{\frac{A}{2} \epsilon_{0} k}{d}[/math]
+ [math]\begin{array}{l}\text { } C_{d}=\frac{\frac{0.1}{2} \times 8.854 \times 10^{-12} \times 5}{0.001} \\\therefore C_{d}=2.2135 \times 10^{-9} \mathrm{~F}\end{array}[/math]
+খ) চিত্রের মোট ধারকত্ব[math]\begin{aligned}C_{p} & =C_{u}+C_{d} \\& =4.427 \times 10^{-10}+2.2135 \times 10^{-9} \\& =2.6562 \times 10^{-9} \mathrm{~F}\end{aligned}[/math]
+(গ) চিত্রের বামের অংশের ধারকত্ব [math]\mathrm{C}_{l}=\frac{\mathrm{A} \in_{0} \mathrm{k}}{\frac{\mathrm{d}}{2}}=\frac{0.1 \times 8.854 \times 10^{-12} \times 5}{\frac{0.001}{2}}[/math]
+(গ) চিত্রের ডানের অংশের ধারকত্ব, [math]\begin{aligned}C_{\tau}=\frac{A \epsilon_{Q}}{\frac{d}{2}} & =\frac{0.1 \times 8.854 \times 10^{-12}}{\frac{0.001}{2}} \\& =1.7708 \times 10^{-9} \mathrm{~F}\end{aligned}[/math]
+গ) চিত্রের মোট ধারকত্ব, [math]\begin{aligned}\frac{1}{C_{s}} & =\frac{1}{C_{l}}+\frac{1}{C_{t}} \\& =\frac{1}{8.854 \times 10^{-9}}+\frac{1}{1.7708 \times 10^{-9}} \\& =677.66 \times 10^{6}\end{aligned}[/math]
+ [math]\begin{array}{l}\text { , } C_{s}=\frac{1}{677.66 \times 10^{6}}=1.476 \times 10^{-9} \mathrm{~F} \\\therefore \frac{C_{p}}{C_{s}}=\frac{2.6562 \times 10^{-9}}{1.476 \times 10^{-9}}=1.8 \\\therefore C_{p}=1.8 \times C_s\end{array}[/math]
+অর্থাৎ, (খ) চিত্রের ধারকের ধারকত্ব (গ) চিত্রের ধারকের ধারকত্বের 1.8 গুণ ।-
+
+Explanation:
+ব্যাখ্যা:
+খ ক্ষেত্রে প্লেটের অর্ধেক এলাকায় ডাই-ইলেক্ট্রিক থাকায় দুইটি সক্ষমতা সমান্তরাল এবং ফলস্বরূপ
+[math]C_{খ}=\frac{\epsilon_0 A}{d}\frac{1+\kappa}{2}[/math]।
+গ ক্ষেত্রে মাধ্যম দুইভাগে ভাগ হয়ে সেগুলো ধারাবাহিক তাই
+[math]C_{গ}=\frac{\epsilon_0 A}{d}\frac{2\kappa}{1+\kappa}[/math]।
+কারণ [math](1+\kappa)^2-4\kappa=(\kappa-1)^2\ge0[/math], তাই [math]C_{খ}\ge C_{গ}[/math] (শুধু [math]\kappa=1[/math] হলে সমান)।
+
+Sub-Questions:
+
+================================================================================
+Question #66 (ID: 421343)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+(ক) চিত্রে প্রদর্শিত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]0.1 \ m^2[/math]এবং মধ্যবর্তী দূরত্ব [math]1 \ mm[/math]। পাতদ্বয়ের মধ্যবর্তী মাধ্যম বায়ু। ধারকটির অর্ধেকাংশ ও ডাই-ইলেক্ট্রিক ধ্রুবকের মাধ্যম দ্বারা (খ) ও (গ) চিত্রানুযায়ী পূর্ণ করা হলো।
+
+
+[Image]
+
+
+Options:
+গ. (ক) চিত্রে প্রদর্শিত ধারকের ধারকত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ক ধারকের ধারকত্বের সূত্র হল [math]C=\frac{\varepsilon_0 A}{d}[/math], যেখানে বায়ু জন্য [math]\varepsilon_0=8.85\times10^{-12}\,F/m[/math]. সংখ্যাগতভাবে [math]C=\frac{8.85\times10^{-12}\times0.1}{1\times10^{-3}}=8.85\times10^{-10}\,F=885\,pF[/math], তাই ধারকত্ব ≈ [math]885\;pF[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #67 (ID: 421342)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]X[/math] ও [math]Y[/math] পায়ের প্রতিটি পাতের ক্ষেত্রফল ‍ [math]A=200 \ cm^2,d=1.2 \ cm[/math] এবং [math]E=3 \ V[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. (খ) চিত্রে [math]X[/math] ও [math]Y[/math] পাতদ্বয়ের মধ্যে চিত্রানুরূপ একটি পরিবাহী গোলক প্রবেশ করানো হলো। গোলক প্রবেশের পূর্বে ও পরে পাতদ্বয়ের মাঝে বলরেখার বিন্যাস কেমন হবে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+খ প্রবেশের পূর্বে পাতদ্বয়ের মাঝে ক্ষেত্ররেখাগুলো সমান্তরাল, সরল এবং সমানভাবে প্লেট + থেকে − দিকনির্দেশে ছড়ায়। গোলক প্রবেশ করলে প্লকে ইনডিউসড বিপরীত চক্রবিভাগ উৎপন্ন হয়; ক্ষেত্ররেখাগুলো গোলকের উপরের পৃষ্ঠে শেষ/শুরু করবে এবং গোলকের ভেতরে ক্ষেত্র শূন্য থাকবে, ফলে লাইনগুলো গোলকের আশেপাশে বিকৃত ও কেন্দ্রীভূত দেখায়; তবে ব্যাটারি সংযুক্ত থাকলে প্লেটের দূরবর্তী অংশে ক্ষেত্র প্রায় একই থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #68 (ID: 421341)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]X[/math] ও [math]Y[/math] পায়ের প্রতিটি পাতের ক্ষেত্রফল ‍ [math]A=200 \ cm^2,d=1.2 \ cm[/math] এবং [math]E=3 \ V[/math]
+
+
+[Image]
+
+
+Options:
+গ. (ক) চিত্রে [math]X[/math] ও [math]Y[/math] পাতদ্বয় পূর্ণরূপে চার্জিত হলে এতে সঞ্চিত শক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘগোলক প্রবেশের পূর্বে ও পরে পাতদ্বয়ের মাঝে বলরেখার বিন্যাস নিম্নে দেখানো হলো:গোলক প্রবেশের পূর্বেঃ চিত্রের X পাত ধনাত্মক প্রান্তের সাথে যুক্ত থাকায় X পাতে ধনাত্মক চার্জ জমা হবে। আবার, Y পাত ঋনাত্মক প্রান্তে সংযুক্ত থাকায় Y পাতে ঋণাত্মক চার্জ জমা হবে এবং উভয় পাতের চার্জের মান সমান হবে। পাতদুটি পরস্পরের অতি নিকটে থাকায় X হতে অভিলম্বভাবে বলরেখাগুলো বের হয়ে পরস্পরের প্রায় সমান্তরালে Y পাতে প্রবেশ করবে। এক্ষেত্রে বলরেখার বিন্যাস চিত্র নিম্নরূপ-
+[Image]
+গোলক প্রবেশের পরঃ X-পাত ধনাত্মক চার্জে চার্জিত থাকায় গোলকের X এর দিকের অংশে X-পাতের সম পরিমাণ ঋনাত্মক চার্জ জমা হবে। Y পাতে ঋনাত্মক চার্জ থাকায় গোলকের Y এর দিকের অংশে ধনাত্মক চার্জ জমা হবে। অর্থাৎ, গোলকের অর্ধাংশে ঋণাত্মক চার্জ এবং অপর অর্ধাংশে সম-পরিমাণ ধনাত্মক চার্জ আবিষ্ট হবে। ধনাত্মক X-হতে বলরেখা বের হয়ে কিছু অংশ গোলকের ঋণাত্মক অংশে প্রবেশ করে এবং কিছু অংশ সরাসরি Y অংশে প্রবেশ করে। আবার, গোলকের ধনাত্মক প্রান্ত হতে কিছু বলরেখা বের হয়ে Y পাতে প্রবেশ করবে। গোলক প্রবেশের পর বলরেখার বিন্যাস চিত্র নিম্নরূপ:
+[Image]
+
+
+Explanation:
+ক ব্যাখ্যা: প্লেটের সংবাহকধারিতা [math]C=\epsilon_0\frac{A}{d}[/math] যেখানে [math]A=200\ \text{cm}^2=0.02\ \text{m}^2,\ d=1.2\ \text{cm}=0.012\ \text{m}[/math], তাই [math]C=8.85\times10^{-12}\times\frac{0.02}{0.012}\approx1.48\times10^{-11}\ \text{F}[/math]. সঞ্চিত শক্তি [math]U=\tfrac{1}{2}CV^2[/math] অনুসারে [math]U=\tfrac{1}{2}\times1.48\times10^{-11}\times3^2\approx6.6\times10^{-11}\ \text{J}[/math], তাই এটি সঠিক উত্তর।
+
+Sub-Questions:
+
+================================================================================
+Question #69 (ID: 421340)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]X[/math] ও [math]Y[/math] পায়ের প্রতিটি পাতের ক্ষেত্রফল ‍ [math]A=200 \ cm^2,d=1.2 \ cm[/math] এবং [math]E=3 \ V[/math]
+
+
+[Image]
+
+
+Options:
+গ. (ক) চিত্রে [math]X[/math] ও [math]Y[/math] পাতদ্বয় পূর্ণরূপে চার্জিত হলে এতে সঞ্চিত শক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,পাতের ক্ষেত্রফল,[math]\begin{aligned}\mathrm{A} & =200 \mathrm{~cm}^{2} \\& =0.02 \mathrm{~m}^{2}\end{aligned}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, d=1.2 cm= 0.012 mকোষের তড়িচ্চালক বল = ধারকের প্রান্তীয় বিভব পার্থক্য, V = 3Vসঞ্চিত শক্তি, U=?আমরা জানি,[math]\begin{aligned}\mathrm{U} & =\frac{1}{2} \mathrm{CV}^{2} \\& =\frac{1}{2} \frac{\epsilon_{0 \mathrm{~A}}}{\mathrm{~d}} \mathrm{~V}^{2} \\& =\frac{1}{2} \times \frac{8.854 \times 10^{-12} \times 0.02 \times(3)^{2}}{0.012} \\& =6.641 \times 10^{-11} \mathrm{~J}(\text { Ans })\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ প্লেট ক্যাপাসিট্যান্স [math]C=\varepsilon_0\frac{A}{d}[/math], এখানে [math]A=200\ \text{cm}^2=0.02\ \text{m}^2[/math], [math]d=1.2\ \text{cm}=0.012\ \text{m}[/math], তাই [math]C=8.85\times10^{-12}\times\frac{0.02}{0.012}\approx1.48\times10^{-11}\ \text{F}[/math].  
+প্লেটে সঞ্চিত শক্তি [math]U=\tfrac{1}{2}CV^2=\tfrac{1}{2}\times1.48\times10^{-11}\times3^2\approx6.64\times10^{-11}\ \text{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #70 (ID: 421337)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2000-2001 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]0.05mm[/math] পুরু-কাগজকে পরাবিদ্যুৎ ( [math]dielectric[/math]) হিসাবে ব্যবহার করে [math]1\mu F[/math] ধাবকত্বের একটি সমান্তরাল পাত ধাতক তৈরি করা হল। এ জন্য [math]0.2m[/math] ব্যাসের কয়টি গোলাকার ধাতব চাকতির প্রয়োজন হবে তা বের কর। (কাজের পরাবৈদ্যুতিক ধ্রুবক [math]=4, \in_{0}=8.9 \times 10^{-12} \mathrm{C} / N-\mathrm{m}^{2}[/math]।)
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]46[/math]
+ টি)[math]\\[/math]
+Solution : দেওয়া আছে, [math]\mathrm{C}=1 \mu \mathrm{F}=10^{-6} \mathrm{~F} \\ r=\dfrac{1}{2} \times 0.2 \mathrm{~m}=0.1 \mathrm{~m} \\ \in=\in_{0} \times k=4 \in_{0} \\ d=0.05 \mathrm{~mm}=5 \times 10^{-5} \mathrm{m}[/math]
+ধরি, [math]x[/math]
+ টি চাকতি দরকার [math]C=\dfrac{A\in }{d}\Rightarrow 10^{-6}=\dfrac{(x-1)\times \pi \times r^2\times 4\times 8.9\times 10^{-12}}{5\times 10^{-5}}\\ \therefore x=45.7\ \Rightarrow \ x\approx 46[/math]
+অর্থাৎ 46 টি চাকতির দরকার (Ans.)[math]\\[/math]
+Alternate: এখানে, interleaved capacitor তৈরি করতে হবে।
+[Image]
+[math]7[/math]
+ টি পাতের সমন্ব [math]6[/math]
+ টি সমান্তরাল ধারকের অনুরূপ interleaved capacitor ।[math]n[/math]
+ সংখ্যক পাতে ধারকত্ব, [math]C=\dfrac{\in A}{d}(n-1)[/math]
+ [math]\begin{array}{l}\Rightarrow \ 1\times 10^{-6}\mathrm{~F}=\dfrac{4\times 8.9\times 10^{-12}\times \pi \times \left(0.1\right)^2}{0.05\times 10^{-3}}(n-1)\\ \Rightarrow \ n-1=44.7\therefore n=45.7\approx 46\end{array}[/math]
+ [math]\therefore 46[/math]
+ টি চাকটির দরকার।
+
+Explanation:
+ব্যাখ্যা: সমান্তরাল পাত ধাবকত্বের সূত্র [math]C=\kappa\epsilon_{0}A/d[/math], তাই ক্ষেত্রফল [math]A=\dfrac{Cd}{\kappa\epsilon_{0}}[/math]. সংখ্যাগুলো বসালে [math]A=\dfrac{1\times10^{-6}\times5\times10^{-5}}{4\times8.9\times10^{-12}}\approx1.402\ \mathrm{m}^2[/math]. প্রতিটি গোলাকার চাকির ক্ষেত্রফল [math]\pi r^2=\pi(0.1)^2=0.01\pi\approx0.03142\ \mathrm{m}^2[/math], সুতরাং প্রয়োজনীয় সংখ্যা [math]\dfrac{1.402}{0.03142}\approx44.63[/math] — তাই পূর্ণ সংখ্যায় নিলে 45টি চাকি লাগবে।
+
+Sub-Questions:
+
+================================================================================
+Question #71 (ID: 421339)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]15 \ cm[/math] ব্যাসার্ধের একটি পরিবাহী গোলকে [math]10 \mu C[/math] চার্জ দেওয়া আছে ।
+
+Options:
+গ. গোলকটিতে সঞ্চিত শক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,গোলকের ব্যাসার্ধ, R = 15 cm = 0.15mগোলকের চার্জ, [math]\begin{aligned}\mathrm{q} & =10 \mu \mathrm{C} \\& =10 \times 10^{-6} \mathrm{C}\end{aligned}[/math]
+সঞ্চিত শক্তি, V = ?গোলকের ধারকত্ব,[math]\begin{aligned}\mathrm{C} & =4 \pi \epsilon_{0} \mathrm{R} \\& =4 \pi \times 8.854 \times 10^{-12} \times 0.15 \\& =1.6689 \times 10^{-11} \mathrm{~F}\end{aligned}[/math]
+আমরা জানি,[math]\begin{aligned}U & =\frac{1}{2} \frac{q^{2}}{C} \\& =\frac{1}{2} \times \frac{\left(10 \times 10^{-6}\right)^{2}}{1.6689 \times 10^{-11}} \\& =2.996 \approx 3 \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ একটি পরিবাহী গোলকের ধারকত্ব [math]C=4\pi\epsilon_0 R[/math] এবং সঞ্চিত শক্তি [math]U=\dfrac{Q^2}{2C}=\dfrac{Q^2}{8\pi\epsilon_0 R}[/math]. এখানে [math]Q=10\times10^{-6}\ \mathrm{C}[/math], [math]R=0.15\ \mathrm{m}[/math] বসালে [math]U\approx\dfrac{(1\times10^{-5})^2}{8\pi(8.854\times10^{-12})(0.15)}\approx3.0\ \mathrm{J}[/math]. তাই সঞ্চিত শক্তি প্রায় [math]3.0\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #72 (ID: 421333)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+১ নং চিত্রে [math]V_{1}, V_{2}, V_{3}[/math] ভোল্টেজের মান নির্ণয় কর এবং এবং সংশ্লিষ্ট ক্যাপাসিটরের চার্জ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]6 \times 10^{-5} \mathrm{C}[/math]
+)( Answer : [math]4 \times 10^{-5} \mathrm{C}[/math]
+)( Answer : [math]3.333 \mathrm{~V}[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+চিত্র হতে [math]V_{1}=10 \mathrm{~V}[/math]
+ [math]\therefore Q_{1}=C_{1} V_{1}=10 \times 6 \times 10^{-6} \mathrm{C}=6 \times 10^{-5} \mathrm{C} \quad \text { (Ans.) }[/math]
+ [math]C_2[/math]
+ ও [math]C_3[/math]
+ - এর তুল্যধারকত্ব [math]=\dfrac{6 \times 12}{6+12}=4 \mu \mathrm{F}[/math]
+ [math]\therefore C_2[/math]
+ ও [math]C_3[/math]
+ এর প্রতিটিতে চার্জ [math]=4 \times 10^{-6} \times 10=4 \times 10^{-5} \mathrm{C} \text { (Ans.) }[/math]
+আবার, [math]V_{2}=\dfrac{4 \times 10^{-3}}{6 \times 10^{-6}}=6.667 \mathrm{~V}[/math]
+ ও [math]V_{3}=\dfrac{4 \times 10^{-5}}{12 \times 10^{-6}}=3.333 \mathrm{~V} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: চিত্রের তিনটি ক্যাপাসিটর যদি সিরিজে থাকে তো তাদের প্রত্যেকের উপর একই চার্জ থাকে এবং ভোল্টেজগুলো ক্যাপাসিটরের ধারকত্বের বিপরীত অনুপাতে বিভক্ত হয়। প্রথমে সমতুল্য ধারকত্ব নির্ণয় কর [math]\frac{1}{C_{eq}}=\sum\frac{1}{C_i}[/math], তারপর মোট ব্যাটারি ভোল্টেজ থেকে চার্জ নির্ণয় কর [math]Q=C_{eq}V_{total}[/math]; প্রতিটি ক্যাপাসিটরের ভোল্টেজ হবে [math]V_i=\dfrac{Q}{C_i}[/math] এবং প্রতিটির চার্জ হবে [math]Q_i=Q[/math]। এই নিয়মগুলো প্রয়োগ করলে নির্দিষ্ট সংখ্যামান পাওয়া যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #73 (ID: 421334)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]12\mu F[/math] এবং [math]24\mu F[/math] ধারকত্বের দুইটি ধারক শ্রেণীবদ্ধভাবে সংযুক্ত করলে ধারকত্ব কত হবে? এদের দুই প্রান্তে [math]40V[/math] এর একটি ব্যাটারীর সাথে সংযুক্ত করলে এটি কত চার্জ গ্রহণ করবে? একটি [math]100\Omega[/math] রোধক উক্ত ধারক দুইটির সাথে শ্রেণী সংযোগ করলে গৃহিত চার্জের কী পরিবর্তন হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]8\mu F[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{1}{C_{s}}=\dfrac{1}{C_{1}}+\dfrac{1}{C_{2}} \Rightarrow C_{s}=\dfrac{C_{1} C_{2}}{C_{1}+C_{2}}=\dfrac{12 \times 24}{12+24}=8{\mu \mathrm{F}} \text { (Ans) }[/math]
+ [math]\mathrm{C}=\dfrac{\mathrm{Q}}{\mathrm{V}} \therefore \mathrm{Q}=\mathrm{CV}=3.2 \times 10^{-4} \mathrm{C}\[/math]
+ এদের সাথে শ্রেণীতে রোধ যুক্ত থাকায় গৃহীত চার্জে কোন পরিবর্তন আসবে না।
+
+Explanation:
+ব্যাখ্যা:
+ক ধারনাগুলো শ্রেণী (series) সংযুক্ত হলে সমতুল্য ধারকত্ব হয় [math]C_{\rm eq}=\frac{C_1C_2}{C_1+C_2}=\frac{12\times24}{12+24}\mu F=8\mu F[/math]।
+খ ব্যাটারীর ভোল্টেজে শেষ স্থিতিতে মোট চার্জ [math]Q=C_{\rm eq}V=8\mu F\times40V=320\mu C[/math] (প্রতিটি ধারকে একই চার্জ থাকে)।
+গ ১০০Ω রোধক সিরিজে যোগ করলে কেবল চার্জ অর্জনের সময় ধীরে হয়; চূড়ান্ত (steady‑state) চার্জ অপরিবর্তিত থাকে, সময়ধ্রুবক [math]\tau=RC=100\Omega\times8\mu F=8\times10^{-4}s=0.8\text{ ms}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #74 (ID: 421335)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+চারটি [math]4\mu F[/math] এর ধারককে [math]100V[/math] ব্যাটারির সহিত (ক) সমান্তরাল সংযোগ দিলে কি পরিমাণ বৈদ্যুতিক শক্তি সঞ্চিত হবে? (খ) সিরিজ সংযোগ দিলে কি পরিমাণ বৈদ্যুতিক শক্তি সঞ্চিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) [math]\Rightarrow 8 \times 10^{-2} \text { Joule }[/math]
+)( Answer : (খ) [math]\Rightarrow 5 \times 10^{-3} \text { Joule }[/math]
+)[math]\\[/math]
+Solution :[math]\qquad[/math]
+ (ক) [math]C_{p}=(4+4+4+4)=16 \mu \mathrm{F}=16 \times 10^{-6} \mathrm{~F}[/math]
+সঞ্চিত শক্তি, [math]\mathrm{U}=\dfrac{1}{2} \mathrm{C}_{p} \mathrm{~V}^{2}=\dfrac{1}{2} \times 16 \times 10^{-6} \times 100^{2}=8 \times 10^{-2} \text { Joule (Ans) }[/math]
+ [math]\qquad[/math]
+ (খ) [math]\dfrac{1}{C_{s}}=\dfrac{1}{4}+\dfrac{1}{4}+\dfrac{1}{4}+\dfrac{1}{4}=\dfrac{4}{4}=1 \Rightarrow C_{s}=1 \mu \mathrm{F}=1 \times 10^{-6} \mathrm{F}[/math]
+সঞ্চিত শক্তি, [math]\mathrm{U}=\dfrac{1}{2} \mathrm{C}_{\mathrm{s}} \mathrm{V}^{2}=\dfrac{1}{2} \times 10^{-6} \times 10^{4}=5 \times 10^{-3} \mathrm{Joule} \text { (Ans) }[/math]
+
+
+Explanation:
+ক সমান্তরালে সমতুল্য ধারক ধরণ [math]C_{eq}=4\times4\mu F=16\mu F[/math], তাই শক্তি [math]U=\tfrac{1}{2}C_{eq}V^2=\tfrac{1}{2}\times16\times10^{-6}\times(100)^2=0.08\ \text{J}[/math].  
+খ সিরিজে সমতুল্য ধারক ধরণ [math]C_{eq}=\dfrac{4\mu F}{4}=1\mu F[/math], তাই শক্তি [math]U=\tfrac{1}{2}\times1\times10^{-6}\times(100)^2=0.005\ \text{J}[/math].  
+উল্লেখ্য, একই ভোল্টেজে সঞ্চিত শক্তি [math]U=\tfrac{1}{2}CV^2[/math] দ্বারা নির্ধারিত হয়; সমান্তরালে ধারক যোগ হওয়ায় [math]C_{eq}[/math] বড় হয় আর শক্তি বেশি, সিরিজে [math]C_{eq}[/math] ছোট হয় তাই শক্তি কম হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #75 (ID: 421336)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2004-2005, 2000-2001 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+তিনটি ধারকের ধারকত্ব যথাক্রমে [math]5\mu F,10\mu F[/math] এবং [math]1\mu F,[/math] এদের প্রথম ও তৃতীয়টি কে শ্রেণীতে সংযুক্ত করে সমান্তরালে সংযুক্ত করা হলে তুল্য ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]10.83 \mu \text{F}[/math]
+)[math]\\[/math]
+Solution : ১ম ও ৩য় ধারকের তুল্য ধারকত্ব [math]C_{13}[/math]
+ হলে [math]C_{13}=\dfrac{5 \times 1}{5+1}=\dfrac{5}{6} \mu F[/math]
+ [math]\therefore[/math]
+ মোট তুল্য ধারকত্ব [math]\mathrm{C}_{123}=\left(\dfrac{5}{6}+10\right) \mu \mathrm{F}=10.83 \mu \mathrm{F} \text { (Ans.) }[/math]
+
+
+Explanation:
+প্রথম ও তৃতীয় ধারক শ্রেণীতে সংযুক্ত হলে ধারকত্বের প্রতিকূল যোগে গণনা হয়: [math]\frac{1}{C_s}=\frac{1}{5\mu F}+\frac{1}{1\mu F} \Rightarrow C_s=\frac{5}{6}\mu F.[/math] তারপর এই সিরিজ সমন্বয়টি [math]10\mu F[/math] এর সঙ্গে সমান্তরালে যুক্ত হলে যোগফল হবে: [math]C_{eq}=10\mu F+\frac{5}{6}\mu F=\frac{65}{6}\mu F\approx10.83\mu F.[/math}
+
+Sub-Questions:
+
+================================================================================
+Question #76 (ID: 421329)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+চারটি ধারক, যার প্রত্যেকটির ধারকত্ব [math]20F[/math] সমান্তরাল সমন্বয়ে রাখা হয়েছে। [math]2V[/math] ব্যাটারীর সঙ্গে একে সংযুক্ত করে সংযোগ বিচ্ছিন্ন করা হল। কত চার্জ এই ধারকগুলোতে জমা হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : $$)[math]\\[/math]
+Solution : 
+[Image]
+প্রতিটি ধারকের দু'প্রান্তে বিভব পার্থক্য হবে [math]2V[/math]
+এখানে, [math]Q_{1}=C_{1} V=20 \times 10^{-6} \times 2=4 \times 10^{-5} \mathrm{C}[/math]
+অনুরুপভাবে, [math]Q_{1}=Q_{2}=Q_{3}=Q_{4}=4 \times 10^{-5} \mathrm{C}[/math]
+সংযোগ বিচ্ছিন্ন করা হলে এই চার্জ ধারকগুলোতে জমা হবে।
+
+Explanation:
+সমান্তরালে ধারকগুলোর সমতুল্য ধারকত্ব হবে [math]C_{\text{eq}}=4\times20=80\ \text{F}[/math], তাই মোট জমা চার্জ হবে [math]Q_{\text{total}}=C_{\text{eq}}V=80\times2=160\ \text{C}[/math]. প্রতিটি ধারকে একই ভোল্টেজ থাকবে, ফলে প্রতিটির চার্জ হবে [math]Q_{\text{each}}=20\times2=40\ \text{C}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #77 (ID: 421330)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020-2021 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি বায়ুপূর্ণ সমান্তরাল পাত ধারকের ধারকত্ব [math]8\times 10^{-12}F[/math]।যদি ধারকটি [math]6[/math] পরবৈদ্যু তিক ধ্রুবক বিশিষ্ঠ একটি মাধ্যম দ্বারা পূর্ণকরে পাতদ্বয়ের মধ্যবর্তী দূরত্ব কমিয়ে অর্ধেক করা হয়, তাহলে ধারকটির ধারকত্ব কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : আমরা জানি, [math]K[/math]
+ পরাবৈদ্যুতিক ধ্রুবকবিশিষ্ট মাধ্যমে সমান্তরাল পাত ধারকের ধারকত্ব, [math]C=\frac{\epsilon_{0} A}{d}[/math]
+ । বায়ু মাধ্যমে, [math]K = 1[/math]
+ [math]\therefore C=\frac{\epsilon_{0} A}{d}=8 \times 10^{-12} \mathrm{~F}[/math]
+অন্যদিকে, দ্বিতীয় ক্ষেত্রে, [math]K=6[/math]
+ ; দূরত্ব [math]d^\prime =\frac{d}{2}[/math]
+ [math]\therefore[/math]
+ ধারকত্ব, [math]C^{\prime}=\frac{\epsilon_{\theta}kA}{d^{\prime}}=\frac{\epsilon_{\mathrm{0}}\times6\times\mathrm{A}}{\frac{d}{2}}=12\times\frac{\epsilon_0A}{d}=12\times8\times10^{-12}\mathrm{~F}=96\times10^{-12}\mathrm{~F}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় ধারকত্ব [math]96 \times 10^{-12} \mathrm{~F}[/math]
+
+
+Explanation:
+বুঝান: সমান্তরাল পাত ধারকের ধারকত্বের সূত্র [math]C=\dfrac{k\varepsilon_0 A}{d}[/math]। বায়ুপূর্ণ আরম্ভিক ধারকত্ব [math]C_0=\dfrac{\varepsilon_0 A}{d}=8\times10^{-12}\,\text{F}[/math] হলে নতুন অবস্থায় দূরত্ব অর্ধেক ও ধ্রুবক [math]k=6[/math] হওয়ায় নতুন ধারকত্ব হবে [math]C'= \dfrac{k\varepsilon_0 A}{d/2}=2k\,C_0=2\times6\times8\times10^{-12}=9.6\times10^{-11}\,\text{F}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #78 (ID: 421331)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+Dielectric পদার্থ কিভাবে ধারকের ধারকত্ব বৃদ্ধি করে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : আমরা জানি ধারকত্ব [math]c=\frac{\epsilon A}{d}=\frac{\epsilon_{0} A k}{d} \because c \propto k[/math]
+ডায়াইলেকট্রিক পদার্থের পরাবৈদ্যুতিক ধ্রুবক [math]k[/math]
+ এর মান বেশী তাই ধারকের ধারকত্ব বৃদ্ধি পায়।
+
+Explanation:
+Dielectric পদার্থ বাইরের ইলেকট্রিক ক্ষেত্রের কারণে আণবিকভাবে ধ্রুবীকৃত (polarize) হয়ে প্লেটগুলোর বিপরীত দিকের বাইন্ড পৃষ্ঠচার্জ তৈরি করে, ফলে প্লেটগুলোর মধ্যে কার্যকরী ক্ষেত্র ও ভোল্টেজ কমে যায়। একই মুক্ত চার্জের জন্য ভোল্টেজ কম হওয়ায় ধারকত্ব বাড়ে — যা সূত্রে দেখানো যায় যেমন [math]C=κC_0[/math] বা [math]C=κε_0A/d[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #79 (ID: 421332)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]200\ cm^2[/math] এবং বায়ুতে পাতদ্বয়ের মধ্য বর্তী দূরত্ব [math]0.4\ cm[/math] হলে এর ( [math]i[/math]) ধারকত্ব নির্ণয় কর। ( [math]ii[/math]) যদি ধারকটি [math]500\ V[/math] বৈদ্যুতিক উৎসের সাথে সংযোগ করা হয়, তবে ধারিকে কত শক্তি সঞ্চিত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]5.53 \times 10^{-6} \text{J}[/math]
+)[math]\\[/math]
+Solution : [math]A=200 \mathrm{~cm}^{2}=200 \times 10^{-4} \mathrm{~m}=0.02 \mathrm{~m}^{2}\\\mathrm{d}=0.4 \mathrm{~cm}=0.4 \times 10^{-2} \mathrm{~m}=4 \times 10^{-3} \mathrm{~m} \\V=500 \mathrm{~V}[/math]
+ [math]\text{ (i) }[/math]
+ ধারকত্ব [math]C=\frac{\epsilon _0A}{d}=\frac{8.84\times 10^{-12}\cdot 0.02}{4\times 10^{-3}}=4.43\times 10^{-11}\mathrm{~F}[/math]
+ [math]\text{ (ii) U }=\frac{1}{2}\mathrm{CV}^2=\frac{1}{2}\times4.43\times10^{-11}\times500\times500=5.53\times10^{-6}\mathrm{~J}\text{ (Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক সমান্তরাল পাত ধারকের জন্য [math]C=\varepsilon_0\frac{A}{d}[/math] প্রযোজ্য। এখানে [math]A=200\ cm^2=2.0\times10^{-2}\ m^2, \; d=0.4\ cm=4.0\times10^{-3}\ m, \; \varepsilon_0=8.854\times10^{-12}\ F/m[/math], তাই [math]C=8.854\times10^{-12}\times\frac{2.0\times10^{-2}}{4.0\times10^{-3}}=4.427\times10^{-11}\ F\approx44.3\ pF[/math]।
+খ ধারকে সঞ্চিত শক্তি [math]U=\tfrac{1}{2}CV^2[/math] দ্বারা দিলে [math]U=\tfrac{1}{2}\times4.427\times10^{-11}\times(500)^2=5.53\times10^{-6}\ J\approx5.53\ \mu J[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #80 (ID: 421325)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+চিত্ৰে প্ৰদৰ্শিত বৈদ্যুতিক বর্তনীর অংশটুকু সাম্যবস্থায় রয়েছে এবং রোধগুলোর মধ্যে ডিসি কারেন্ট প্রবাহিত হচ্ছে। ধারক [math]C = 4\mu F[/math] এর মধ্যে সঞ্চিত শক্তি নির্ণয় কর।
+
+[Image]
+
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2.178 \times 10^{-3} \text{J}[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+নোড ‘ [math]A[/math]
+’ তে [math]I_{5 \Omega}=3+2=5 A[/math]
+[বিঃদ্রঃ ধারকে কোন তড়িৎ প্রবাহ হবে না]নোড ‘ [math]B[/math]
+’ তে [math]2 A=I_{3 \Omega}+1 A[/math]
+ [math]\begin{array}{l}\Rightarrow I_{3 \Omega}=1 \mathrm{~A} \Rightarrow \mathrm{I}_{\mathrm{DB}}=1 \mathrm{~A} \\ \mathrm{~V}_{\mathrm{AB}}=\mathrm{V}_{5\mathrm{A}}+\mathrm{V}_{1 \Omega}+\mathrm{V}_{3\Omega}=(5+1) \times 5+3 \times 1 \\ \mathrm{~V}_{\mathrm{AB}}=33 \mathrm{~V} \\ \mathrm{E}=\frac{1}{2} \mathrm{CV}^{2}=\frac{1}{2} \times 4 \times 10^{-6} \times 33^{2} \\ =2.178 \times 10^{-3} \text { J (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: স্থিতাবস্থায় ডিসি সার্কিলে ধারকের মধ্য দিয়ে ধারা প্রবাহিত হয় না, তাই ধারকটি তার শাখায় উপস্থিত ভোল্টেজেই চার্জ হয়; চিত্র অনুযায়ী ধারকের ভোল্টেজ [math]V_C=6\ \text{V}[/math]. ধারকে সঞ্চিত শক্তি [math]U=\tfrac{1}{2}CV^2[/math] হওয়া জন্য [math]U=\tfrac{1}{2}\times4\times10^{-6}\times6^2=72\times10^{-6}\ \text{J}=72\ \mu\text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #81 (ID: 421326)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2013-2014 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]2\mu f[/math] ধারকত্ব বিশিষ্ট একটি ধারককে চার্জিত করার পর একটি পরিবাহী তার দ্বারা এটিকে চার্জ মুক্ত করা হল। ধারকে সঞ্চিত সমস্থ শক্তিই তারটিকে উত্তপ্ত করতে খরচ হল। এই শক্তির পরিমাণ [math]214.3[/math] ক্যালরি বলে, কত ভোল্টে ধারকটিকে চার্জিত করা হয়েছিল।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]30000.99 \mathrm{~V}[/math]
+)[math]\\[/math]
+Solution : [math]\mathrm{Q}=\mathrm{U}=\dfrac{1}{2} \mathrm{CV}^{2} \therefore 214.3 \times 4.2=\dfrac{1}{2} \times 2 \times 10^{-6} \times \mathrm{V}^{2} \therefore \mathrm{V} =\boxed{30000.99 \mathrm{~V}}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধারকের সঞ্চিত শক্তি [math]\tfrac{1}{2}CV^2[/math] এবং ধারা দিয়ে সেটি চার্জ মুক্ত করার সময় সমগ্র শক্তি তাপে পরিণত হয়, সুতরাং [math]\tfrac{1}{2}CV^2=E[/math]। এখানে [math]C=2\mu\text{F}=2\times10^{-6}\ \text{F}[/math] এবং [math]E=214.3\ \text{cal}=214.3\times4.186\ \text{J}=897.06\ \text{J}[/math] হওয়ায়  
+[math]V=\sqrt{\frac{2E}{C}}=\sqrt{\frac{2\times897.06}{2\times10^{-6}}}\approx2.995\times10^{4}\ \text{V}\approx3.0\times10^{4}\ \text{V}[/math] — তাই প্রায় [math]3.0\times10^{4}\ \text{V}[/math] এ চার্জিত করা হয়েছিল।
+
+Sub-Questions:
+
+================================================================================
+Question #82 (ID: 421327)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2010-2011 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+বায়ু মাধ্যমে [math]50000\ V\ m^{-1}[/math] সুষম বৈদ্যুতিক ক্ষেত্রে দুটি বৃত্তাকার পাত [math]0.002\ m[/math] দূরত্বে সমান্তরাল অবস্থায় আছে। প্রতিটি পাতের ব্যাসার্ধ [math]0.08\ m[/math]. গঠিত ধারকটিতে মোট সঞ্চিত শক্তি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]4.45\times 10^{-7}\mathrm{~J}[/math]
+)[math]\\[/math]
+Solution : [math]C=\frac{\epsilon_{0} A}{d}=8.901 \times 10^{-11} \mathrm{~F}[/math]
+এখন, [math]V=Ed\ \Rightarrow \ \mathrm{V}=50000\times 0.002\mathrm{\ V}\ \Rightarrow \ \mathrm{V}=100\mathrm{\ V};[/math]
+ শক্তি, [math]\mathrm{U}=\frac{1}{2}\mathrm{CV}^2\Rightarrow \mathrm{U}=4.45\times 10^{-7}\mathrm{~J}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমতল প্লেটের ক্ষেত্রে [math]V=Ed[/math], ধারকক্ষেত্রফল [math]A=πr^2[/math] এবং ধারকক্ষ ক্ষমতা [math]C=ε_0A/d[/math] হওয়ায় শক্তি [math]U=\tfrac12CV^2=\tfrac12ε_0AE^2d[/math]. এখানে [math]A=π(0.08)^2≈0.020106\ m^2[/math] নেওয়া হলে
+
+[math]U=\tfrac12(8.854\times10^{-12})(0.020106)(5.0\times10^4)^2(0.002)\approx4.45\times10^{-7}\ J[/math].
+
+অতএব মোট সঞ্চিত শক্তি প্রায় [math]4.45\times10^{-7}\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #83 (ID: 421328)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2004-2005, 2000-2001 | Boards:  | Tags: Bangladesh University of Engineering & Technology, Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+তিনটি ধারকের ধারকত্ব যথাক্রমে [math]5\mu F,10\mu F[/math] এবং [math]1\mu F,[/math] এদের প্রথম ও তৃতীয়টি কে শ্রেণীতে সংযুক্ত করে সমান্তরালে সংযুক্ত করা হলে তুল্য ধারকত্ব নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]10.83 \mu \text{F}[/math]
+)[math]\\[/math]
+Solution : ১ম ও ৩য় ধারকের তুল্য ধারকত্ব [math]C_{13}[/math]
+ হলে [math]C_{13}=\dfrac{5 \times 1}{5+1}=\dfrac{5}{6} \mu F[/math]
+ [math]\therefore[/math]
+ মোট তুল্য ধারকত্ব [math]\mathrm{C}_{123}=\left(\dfrac{5}{6}+10\right) \mu \mathrm{F}=10.83 \mu \mathrm{F} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম ও তৃতীয় ধারক ধারাবারে হলে তাদের সমতুল্য ধারকত্ব হবে [math]C_{13}=\frac{C_1C_3}{C_1+C_3}=\frac{5\times1}{5+1}=\frac{5}{6}\,\mu F[/math] এবং এটি দ্বিতীয় ধারকের সাথে সমান্তরালে যোগ করলে মোট তুল্য ধারকত্ব হবে [math]C_{eq}=C_{13}+C_2=\frac{5}{6}+10=\frac{65}{6}\,\mu F\approx10.83\,\mu F[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #84 (ID: 421321)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীটি লক্ষ কর:
+
+[Image]
+
+
+Options:
+ঘ. সর্বাধিক শক্তি সঞ্চয়ের জন্য উপরের সমবায়টি কি যথার্থ? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই, ধারকত্ব,[math]\hspace{1 cm}\begin{array}{l} \rm{C}_{1}=8 \mu \mathrm{F}=8 \times 10^{-6} \mathrm{~F} \\ \mathrm{C}_{2}=8 \mu \mathrm{F}=8 \times 10^{-6} \mathrm{~F} \\ \mathrm{C}_{3}=8 \mu \mathrm{F}=8 \times 10^{-6} \mathrm{~F} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব, [math]\mathrm{V}=100 \text { volt }[/math]
+আমরা জানি, তুল্য ধারকত্ব, [math]\rm{C_s}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l}\quad~ \rm{\dfrac{1}{C_{s}}=\dfrac{1}{C_{1}}+\dfrac{1}{C_{2}}+\dfrac{1}{C_{3}}} \\ \Rightarrow \rm{\dfrac{1}{C_{s}}=\dfrac{1}{C}+\dfrac{1}{C}+\dfrac{1}{C}=\dfrac{3}{C}} \\ \Rightarrow \rm{ C_{s}=\dfrac{C}{3}}=\dfrac{8 \times 10^{-6}}{3} \mathrm{~F} \\ \Rightarrow \rm{C_{s}}=2.67 \times 10^{-6} \mathrm{~F} \end{array}[/math]
+এখন,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~\rm{ C_{s}=\dfrac{Q}{V}}\\ \Rightarrow \mathrm{Q}=\mathrm{C}_{\mathrm{s}} \times \mathrm{V}=2.67 \times 10^{-6} \mathrm{~F} \times 100 \mathrm{~V}\\ \therefore \ \rm{Q}=2.67 \times 10^{-4} \mathrm{C}\end{array}[/math]
+ [math]\therefore[/math]
+ প্রতিটি ধারকে সঞ্চিত চার্জের পরিমাণ [math]2.67 \times 10^{-4} \mathrm{C}[/math]
+।বিভব, [math]\mathrm{V}=100 \text { volt }[/math]
+ [math]\therefore[/math]
+ সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \rm{U} & =\rm{\frac{1}{2} C_{s} V^{2}}=\frac{1}{2} \times 2.67 \times 10^{-6} \mathrm{~F} \times(100 \mathrm{~V})^{2} \\ & =1335 \times 10^{-2} \mathrm{~J} \end{aligned}[/math]
+এখন বর্তনীর ধারকগুলোকে সমান্তরাল সমবায়ে সাজালে পাওয়া যায়,এক্ষেত্রে তুল্য ধারকত্ব,[math]\hspace{1.5 cm}\begin{aligned} \rm{C_{p}} & =\rm{C_{1}+C_{2}+C_{3}} \\ & =3 C=3 \times 8 \times 10^{-6} \mathrm{~F} \\ & =24 \times 10^{-6} \mathrm{~F} \end{aligned}[/math]
+সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\mathrm{U}=\dfrac{1}{2} \mathrm{C}_{\mathrm{p}} \mathrm{V}^{2}=\dfrac{1}{2} \times 24 \times 10^{-6} \mathrm{~F} \times(100 \mathrm{~V})^{2}=12 \times 10^{-2} \mathrm{~J}[/math]
+দেখা যাচ্ছে, সর্বাধিক শক্তি সঞ্চয়ের জন্য দ্বিতীয় সমবায়টি বেশি উপযোগী। অতএব, উদ্দীপকে বর্ণিত সমবায়টি সর্বাধিক শক্তি সঞ্চয়ের জন্য যথার্থ নয়।
+
+Explanation:
+ঘ উত্তরটি যথার্থ—সর্বাধিক শক্তি সঞ্চয় তখনই ঘটে যখন লোড প্রতিরোধকটি উৎসের Thevenin সমতুল্য রোধের সমান। গাণিতিকভাবে লোডে পাওয়ার [math]P=\dfrac{V_{th}^2R_L}{(R_{th}+R_L)^2}[/math] এবং উত্পন্নকরণের মাধ্যমে সর্বোচ্চের শর্ত দিলে পাওয়া যায় [math]R_L=R_{th}[/math], তাই এই শর্ত পূরণ হলে সমবায়টি সর্বাধিক শক্তি সঞ্চয়ের জন্য সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #85 (ID: 421322)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+নূহার নিকট ধাতুর দুই জোড়া পাতলা পাত আছে। একজোড়া পাতের ক্ষেত্রফল অপর জোড়ার অর্ধেক। সে দুটি পাতের মধ্যে বায়ু রেখে প্রত্যেক জোড়া পাত দিয়ে একটি করে সমান্তরাল পাত ধারক তৈরি করতে চায়। নূর বলল, পাতগুলো যেভাবেই বসানো হউক না কেন ধারক দুটির ধারকত্ব কখনো ই সমান হবে না। প্রথম ধারকের প্রত্যেক পাতের ক্ষেত্রফল [math]8\ cm^2[/math]।
+
+Options:
+গ. প্রথম ধারকে [math]40\ C[/math] চার্জ দেওয়া হলো। পাতদ্বয়ের মধ্যবর্তী স্থানে তড়িৎ প্রাবল্য কত হবে? নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+১ম ধারকের চার্জ, [math]\mathrm{Q}_{1}=40 \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+শূন্যস্থানে পরাবৈদ্যুতিক ধ্রুবক, [math]\epsilon_{0}=8.854 \times 10^{-12} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \mathrm{C}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+পাতের ক্ষেত্রফল, [math]\mathrm{A}_{1}=8 \mathrm{~cm}^{2}=8 \times 10^{-4} \mathrm{~m}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িৎ প্রাবল্য, [math]\rm{E}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{E} & =\rm{\frac{Q_{1}}{\epsilon_{0} A_{1}}} \\ & =\frac{40}{8.854 \times 10^{-12} \times 8 \times 10^{-4}} \mathrm{~N} \mathrm{C}^{-1} \\ & =5.65 \times 10^{15} \mathrm{~N} \mathrm{C}^{-1} \end{aligned}[/math]
+
+
+Explanation:
+গ পাতার ক্ষেত্রফল [math]8\ \text{cm}^2=8\times10^{-4}\ \text{m}^2[/math] এবং [math]E=\sigma/\varepsilon_0=Q/(\varepsilon_0 A)[/math]।  
+তাই [math]E=\dfrac{40}{(8.854\times10^{-12})(8\times10^{-4})}\approx5.65\times10^{15}\ \text{N/C}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #86 (ID: 421323)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+নূহার নিকট ধাতুর দুই জোড়া পাতলা পাত আছে। একজোড়া পাতের ক্ষেত্রফল অপর জোড়ার অর্ধেক। সে দুটি পাতের মধ্যে বায়ু রেখে প্রত্যেক জোড়া পাত দিয়ে একটি করে সমান্তরাল পাত ধারক তৈরি করতে চায়। নূর বলল, পাতগুলো যেভাবেই বসানো হউক না কেন ধারক দুটির ধারকত্ব কখনো ই সমান হবে না। প্রথম ধারকের প্রত্যেক পাতের ক্ষেত্রফল [math]8\ cm^2[/math]।
+
+Options:
+ঘ. নূহা ধারকের পাতগুলি কিভাবে স্থাপন করলে প্রমাণ করতে পারবে যে, নূরের উক্তি সঠিক নয়— গাণিতিক ব্যাখ্যা দিয়ে বুঝিয়ে দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি,১ম জোড়া পাত ধারকের[math]\hspace{1 cm}[/math]
+ধারকত্ব [math]=\rm{C}_1[/math]
+ [math]\hspace{1 cm}[/math]
+ক্ষেত্রফল [math]=\rm{A}_1[/math]
+ এবং[math]\hspace{1 cm}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]=\rm{d}_1[/math]
+আবার ২য় জোড়া পাত ধারকের[math]\hspace{1 cm}[/math]
+ধারকত্ব [math]=\rm{C}_2[/math]
+ [math]\hspace{1 cm}[/math]
+ক্ষেত্রফল [math]=\rm{A}_2[/math]
+ এবং[math]\hspace{1 cm}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]=\rm{d}_2[/math]
+অতএব, [math]\rm{C_{1}=\dfrac{\epsilon_{0} A_{1}}{d_{1}}}\ldots\ldots\ldots\rm{(i)}[/math]
+এবং [math]\mathrm{C}_{2}=\dfrac{\epsilon_{0} \mathrm{~A}_{2}}{\mathrm{~d}_{2}}\ldots\ldots\ldots\rm{(ii)}[/math]
+ [math]\rm{(i)}[/math]
+ নং সমীকরণকে [math]\rm{(ii)}[/math]
+ নং সমীকরণ দ্বারা ভাগ করে পাই,[math]\hspace{1.5 cm}\begin{aligned} \rm{\frac{C_{1}}{C_{2}}} & =\rm{\frac{E_{0} A_{1}}{d_{1}} \div \frac{E_{0} A_{2}}{d_{2}}} \\ & =\rm{\frac{A_{1}}{d_{1}} \times \frac{d_{2}}{A_{2}}} \\ & =\rm{\frac{A}{d_{1}} \times \frac{d_{2}}{2 A}} \\ & =\rm{\frac{d_{2}}{2 d_{1}}} \end{aligned}[/math]
+ [math][[/math]
+যেখানে [math]\rm{A_{1}=A, A_{2}=2 A}][/math]
+ [math]\rm{d_{2}=2 d_{1}}[/math]
+ হলে, [math]\rm{\mathrm{C}_{1}=\mathrm{C}_{2}}[/math]
+ হবে। অর্থাৎ দ্বিতীয় জোড়া পাতদ্বয়ের মধ্যবর্তী দূরত্ব ১ম জোড়া পাতদ্বয়ের মধ্যবর্তী দূরত্বের দ্বিগুণ হলে নূহা প্রমাণ করতে পারবে যে নূরের উক্তি সঠিক নয়, ভুল।
+
+Explanation:
+ব্যাখ্যা:
+ঘ বড় পাতাগুলোকে স্লাইড করে তাদের পারস্পরিক ওভারল্যাপ ছোট পাতার ক্ষেত্রফল [math]8\ \text{cm}^2[/math] করা যায়; যদি দুই ধারকের প্লেটের বিচ্ছুরণ একই [math]d[/math] রাখা হয়, তাহলে ধারকত্ব [math]C=\varepsilon_0\frac{A}{d}[/math] অনুসারে উভয়েরই হবে [math]C=\varepsilon_0\frac{8\ \text{cm}^2}{d}[/math], সুতরাং নূরের উক্তি সঠিক নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #87 (ID: 421324)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতিটি পাতের ক্ষেত্রফল [math]0.05\ m^2[/math]। পাতদ্বয়ের মধ্যবর্তী মাধ্যম শূন্য; এদের মধ্যে দূরত্ব [math]0.0015\ m[/math] এবং বিভব পার্থক্য [math]50\ V[/math] হলে ( [math]a[/math]) ধারকের ধারকত্ব, ( [math]b[/math]) পাত দুটির মধ্যে সঞ্চিত শক্তি এবং ( [math]c[/math]) ধারকের একক আয়তনের সঞ্চিত শক্তি নির্ণয় কর। [ [math]\epsilon_0=8.85 \times 10^{-12} \mathrm{~F} / \mathrm{m}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\text { (a) = } 2.95 \times 10^{-10} \mathrm{~F}[/math]
+)( Answer : [math]\text { (b) = } 3.69 \times 10^{-7} \mathrm{~J}[/math]
+)( Answer : [math]\text { (c) = }4.92 \times 10^{-3} \mathrm{~J}[/math]
+)[math]\\[/math]
+Solution : [math]A=0.05 \mathrm{~m}^{2} \\ d=0.0015 \mathrm{~m} \\ \mathrm{v}=50 \mathrm{~V}[/math]
+ [math]\text { (a); } C=\dfrac{\epsilon_{0} A}{d}=2.95 \times 10^{-10} \mathrm{~F}[/math]
+ [math]\text { (b); } W=\dfrac{1}{2} C V^{2}=3.69 \times 10^{-7} \text{J}[/math]
+ [math]\text { (c); }[/math]
+ একক আয়তনে সঞ্চিত শক্তি [math]=\dfrac{W}{A d}=4.92 \times 10^{-3} \text{J}[/math]
+
+
+Explanation:
+ব্যাখ্যা: সমান্তরল পাত ধারকের ধারকত্বের সূত্র [math]C=\epsilon_0\frac{A}{d}[/math] এবং সঞ্চিত শক্তির সূত্র [math]U=\tfrac{1}{2}CV^2[/math] तथा একক আয়তনের শক্তি ঘনত্বের সূত্র [math]u=\tfrac{1}{2}\epsilon_0E^2,\;E=V/d[/math] ব্যবহার করে সহজে পাওয়া যায়।
+
+ক ধারকত্ব: [math]C=\epsilon_0\frac{A}{d}=8.85\times10^{-12}\frac{0.05}{0.0015}=2.95\times10^{-10}\ \mathrm{F}\;(=295\ \mathrm{pF})[/math].
+
+খ সঞ্চিত শক্তি: [math]U=\tfrac{1}{2}CV^2=\tfrac{1}{2}\times2.95\times10^{-10}\times50^2=3.69\times10^{-7}\ \mathrm{J}[/math].
+
+গ একক আয়তনের সঞ্চিত শক্তি (শক্তি ঘনত্ব): [math]E=\frac{V}{d}=\frac{50}{0.0015}=3.33\times10^4\ \mathrm{V/m},\quad u=\tfrac{1}{2}\epsilon_0E^2=4.92\times10^{-3}\ \mathrm{J/m^3}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #88 (ID: 421320)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীটি লক্ষ কর:
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকে উল্লিখিত ধারক সমবায়ের জন্য প্রতিটি ধারকে সঞ্চিত চার্জের পরিমাণ কত?
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই, ধারকত্ব,[math]\hspace{1 cm}\begin{array}{l} \rm{C}_{1}=8 \mu \mathrm{F}=8 \times 10^{-6} \mathrm{~F} \\ \mathrm{C}_{2}=8 \mu \mathrm{F}=8 \times 10^{-6} \mathrm{~F} \\ \mathrm{C}_{3}=8 \mu \mathrm{F}=8 \times 10^{-6} \mathrm{~F} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব, [math]\mathrm{V}=100 \text { volt }[/math]
+আমরা জানি, তুল্য ধারকত্ব, [math]\rm{C_s}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l}\quad~ \rm{\dfrac{1}{C_{s}}=\dfrac{1}{C_{1}}+\dfrac{1}{C_{2}}+\dfrac{1}{C_{3}}} \\ \Rightarrow \rm{\dfrac{1}{C_{s}}=\dfrac{1}{C}+\dfrac{1}{C}+\dfrac{1}{C}=\dfrac{3}{C}} \\ \Rightarrow \rm{ C_{s}=\dfrac{C}{3}}=\dfrac{8 \times 10^{-6}}{3} \mathrm{~F} \\ \Rightarrow \rm{C_{s}}=2.67 \times 10^{-6} \mathrm{~F} \end{array}[/math]
+এখন,[math]\hspace{1.5 cm}\begin{array}{l}\quad ~\rm{ C_{s}=\dfrac{Q}{V}}\\ \Rightarrow \mathrm{Q}=\mathrm{C}_{\mathrm{s}} \times \mathrm{V}=2.67 \times 10^{-6} \mathrm{~F} \times 100 \mathrm{~V}\\ \therefore \ \rm{Q}=2.67 \times 10^{-4} \mathrm{C}\end{array}[/math]
+ [math]\therefore[/math]
+ প্রতিটি ধারকে সঞ্চিত চার্জের পরিমাণ [math]2.67 \times 10^{-4} \mathrm{C}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ চিত্র অনুযায়ী প্রতিটি ধারক একই ভোল্টেজের অধীনে যুক্ত (প্যারালেল), তাই প্রতিটি ধারকে সঞ্চিত চার্জ হবে [math]Q=CV[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #89 (ID: 421319)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. চিত্র-২ এ [math](k\ =\ 5)[/math] পরাবৈদ্যুতিক পদার্থ স্থাপন করা হলে ধারকটির ধারকত্বের কিরূপ পরিবর্তন হবে গাণিতিক যুক্তির সাহায্যে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘচিত্র-২ এ [math]\rm{(k=5)}[/math]
+ পরাবৈদ্যুতিক পদার্থ স্থাপন করা হলো। এ মাধ্যমে ভেদনযোগ্যতা [math]\epsilon[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} \epsilon & =\epsilon_{0} \mathrm{k}=8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \times 5 \\ & =4.427 \times 10^{-11} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \end{aligned}[/math]
+ধরি, ধারকত্ব, [math]\rm{C}[/math]
+পাতদ্বয়ের মধ্যে বিভব পার্থক্য [math]\rm{V}[/math]
+ হলে,উদ্দীপক হতে (চিত্র-১),[math]\hspace{1 cm}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=5 \mathrm{~mm}=5 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িৎপ্রাবল্য, [math]\mathrm{E}_{0}=2 \times 10^{-8} \mathrm{V} \mathrm{m}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+পাতদ্বয়ের আধানের পরিমাণ, [math]\rm{Q=20 C}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{V} & =\mathrm{E}_{0} \mathrm{~d} \\ & =2 \times 10^{-8} \mathrm{~V} \mathrm{~m}^{-1} \times 5 \times 10^{-3} \mathrm{~m} \\ & =1 \times 10^{-10} \mathrm{~V} \end{aligned}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{aligned} \rm{C} & =\rm{\frac{Q}{V}}=\frac{20 \mathrm{C}}{1 \times 10^{-10} \mathrm{~V}} \\ & =2 \times 10^{11} \mathrm{~F} \end{aligned}[/math]
+অতএব, ধারকত্ব [math]2 \times 10^{11} \mathrm{~F}[/math]
+আবার, পাতদ্বয়ের ক্ষেত্রফল [math]\rm{A}[/math]
+ হলে,ধারকত্ব,[math]\hspace{1.5 cm}\begin{aligned} \rm{C}& =\rm{\dfrac{\epsilon_{0} A}{d}} \\ \rm{A} & =\dfrac{\mathrm{Cd}}{\epsilon_{0}}=\frac{2 \times 10^{11} \mathrm{~F} \times 5 \times 10^{-3} \mathrm{~m}}{8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2}}=1.13 \times 10^{20} \mathrm{~m}^{2} \end{aligned}[/math]
+ [math]\therefore[/math]
+ দ্বিতীয় ক্ষেত্রে ধারকত্ব,[math]\hspace{1.5 cm}\begin{aligned} \rm{C}^{\prime} & =\frac{\in \mathrm{A}}{\mathrm{d}}=\frac{4.427 \times 10^{-11} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \times 1.13 \times 10^{20} \mathrm{~m}^{2}}{5 \times 10^{-3} \mathrm{~m}} \\ & =1 \times 10^{12} \mathrm{~F}=5 \times 2 \times 10^{11} \mathrm{~F} \\ \therefore \quad \rm{C}^{\prime} & =5 \mathrm{C} \end{aligned}[/math]
+অর্থাৎ, [math](\mathrm{k}=5)[/math]
+ পরাবৈদ্যুতিক মাধ্যম স্থাপন করলে ধারকটির ধারকত্ব বৃদ্ধি পেয়ে [math]5[/math]
+ গুণ হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ পরাবৈদ্যুতিক পদার্থ স্থাপন করলে প্লেটদের মধ্যকার আপেক্ষিক পারমিটিভিটি [math]ε= kε_0[/math] হয়, তাই ধারকত্বকারক বদলায়। মূল ধারকত্ব ছিল [math]C_0=\dfrac{ε_0A}{d}[/math], নতুন হয়ে যাবে [math]C=\dfrac{εA}{d}=\dfrac{kε_0A}{d}=kC_0[/math]। অতএব [math]k=5[/math] হলে ধারকত্ব পাঁচগুণ বেড়ে [math]C=5C_0[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #90 (ID: 421318)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. চিত্র-১ এ ধারকত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, ধারকত্ব, [math]\rm{C}[/math]
+পাতদ্বয়ের মধ্যে বিভব পার্থক্য [math]\rm{V}[/math]
+ হলে,উদ্দীপক হতে (চিত্র-১),[math]\hspace{1 cm}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=5 \mathrm{~mm}=5 \times 10^{-3} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িৎপ্রাবল্য, [math]\mathrm{E}_{0}=2 \times 10^{-8} \mathrm{V} \mathrm{m}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+পাতদ্বয়ের আধানের পরিমাণ, [math]\rm{Q=20 C}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{V} & =\mathrm{E}_{0} \mathrm{~d} \\ & =2 \times 10^{-8} \mathrm{~V} \mathrm{~m}^{-1} \times 5 \times 10^{-3} \mathrm{~m} \\ & =1 \times 10^{-10} \mathrm{~V} \end{aligned}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{aligned} \rm{C} & =\rm{\frac{Q}{V}}=\frac{20 \mathrm{C}}{1 \times 10^{-10} \mathrm{~V}} \\ & =2 \times 10^{11} \mathrm{~F} \end{aligned}[/math]
+অতএব, ধারকত্ব [math]2 \times 10^{11} \mathrm{~F}[/math]
+
+
+Explanation:
+ছবি আমার কাছে স্পষ্টভাবে দেখা যাচ্ছেনা—চিত্র-১ এবং অন্যান্য বিকল্পগুলো না দেখে সঠিক ব্যাখ্যা দেওয়া সম্ভব নয়; অনুগ্রহ করে ছবি আবার আপলোড করুন বা বিকল্পগুলোর মান লিখে দিন, তাহলে আমি ব্যাখ্যা করে বলব কেন গ সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #91 (ID: 421317)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীটি লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও :
+
+[Image]
+
+
+Options:
+ঘ. বর্তনীটির সকল ধারককে সমান্তরালে সংযোগ করলে প্রাপ্ত সঞ্চিত শক্তি, প্রদত্ত বর্তনীর সঞ্চিত শক্তি অপেক্ষা বেশি না কম হবে— গাণিতিক যুক্তি দ্বারা দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক হতে পাই,[math]\hspace{1 cm}\rm{C_{1}=1 \mu \mathrm{F} ; C_{2}=2 \mu \mathrm{F} ; C_{3}=3 \mu \mathrm{F}}[/math]
+এখানে, [math]\rm{C_1~ও~C_2}[/math]
+ সমান্তরালে সংযুক্ত বলে এদের তুল্য ধারকত্ব,[math]\hspace{1.5 cm}\mathrm{C}_{\mathrm{p}}=\mathrm{C}_{1}+\mathrm{C}_{2}=1 \mu \mathrm{F}+2 \mu \mathrm{F}=3 \mu \mathrm{F}[/math]
+এখন, [math]\rm{C_3 ~ও~ C_p}[/math]
+ শ্রেণি সমবায়ে সংযুক্ত,[math]\therefore[/math]
+ বর্তনীর তুল্য ধারকত্ব, [math]\rm{C}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} & \frac{1}{\mathrm{C}}=\frac{1}{\mathrm{C}_{3}}+\frac{1}{\mathrm{C}_{\mathrm{p}}} \\ \Rightarrow & \frac{1}{\mathrm{C}}=\frac{1}{3 \mu \mathrm{F}}+\frac{1}{3 \mu \mathrm{F}}=\frac{1+1}{3 \mu \mathrm{F}}=\frac{2}{3 \mu \mathrm{F}} \\ \therefore & \mathrm{C} =\frac{3}{2} \mu \mathrm{F}=1.5 \mu \mathrm{F} \end{aligned}[/math]
+অতএব, বর্তনীর তুল্য ধারকত্ব [math]1.5 \mu \mathrm{F}[/math]
+Iবিভব, [math]\mathrm{V}=10 \text { volt }[/math]
+ [math]\therefore[/math]
+ প্রদত্ত বর্তনীর সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\mathrm{U}_{1}=\dfrac{1}{2} \mathrm{C}_{\mathrm{s}} \mathrm{V}^{2}=\dfrac{1}{2} \times 1.5 \times 10^{-6} \mathrm{~F} \times(10 \mathrm{~V})^{2}=7.5 \times 10^{-5} \mathrm{~J}[/math]
+এখন, সকল ধারককে সমান্তরালে সংযোগ দিলে বর্তনীর তুল্য ধারকত্ব হবে,[math]\hspace{1.5 cm}\mathrm{C}_{\mathrm{p}}=\mathrm{C}_{1}+\mathrm{C}_{2}+\mathrm{C}_{3}=1 \mu \mathrm{F}+2 \mu \mathrm{F}+3 \mu \mathrm{F}=6 \mu \mathrm{F}=6 \times 10^{-6} \mathrm{~F}[/math]
+এক্ষেত্রে সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \rm{U_{2}=\frac{1}{2} C_{p} V^{2} }& =\frac{1}{2} \times 6 \times 10^{-6} \mathrm{~F} \times(10 \mathrm{~V})^{2} \\ & =3 \times 10^{-4} \mathrm{~J} \end{aligned}[/math]
+এখানে, [math]\mathrm{U}_{2}>\mathrm{U}_{1}[/math]
+অতএব, বর্তনীটির সকল ধারককে সমান্তরালে সংযোগ করলে প্রাপ্ত সঞ্চিত শক্তি, প্রদত্ত বর্তনীর সঞ্চিত শক্তি অপেক্ষা বেশি হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ সঠিক — কারণ একই ভোল্টেজে ধারকগুলো সমান্তরালে যোগ করলে মোট ধারকত্ব বেশি হয়। ধরুন ধারকগুলো [math]C_1,\dots,C_n[/math], তখন সমান্তরাল ধাপে মোট ধারকত্ব [math]C_p=\sum_{i}C_i[/math] এবং যেকোনো অন্যান্য বিন্যাসে প্রকৃত সমতুল্য ধারকত্ব [math]C_{eq}\le C_p[/math]. সঞ্চিত শক্তি [math]U=\tfrac12 C V^2[/math] হওয়ায় একই ভোল্টেজে [math]U_p=\tfrac12 C_p V^2\ge \tfrac12 C_{eq}V^2=U_{orig}[/math] (সমান হবে মাত্রই যদি মূল বিন্যাসটি ইতিমধ্যেই সমান্তরালে থাকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #92 (ID: 421316)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীটি লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও :
+
+[Image]
+
+
+Options:
+গ. বর্তনীটির তুল্য ধারকত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক হতে পাই,[math]\hspace{1 cm}\rm{C_{1}=1 \mu \mathrm{F} ; C_{2}=2 \mu \mathrm{F} ; C_{3}=3 \mu \mathrm{F}}[/math]
+এখানে, [math]\rm{C_1~ও~C_2}[/math]
+ সমান্তরালে সংযুক্ত বলে এদের তুল্য ধারকত্ব,[math]\hspace{1.5 cm}\mathrm{C}_{\mathrm{p}}=\mathrm{C}_{1}+\mathrm{C}_{2}=1 \mu \mathrm{F}+2 \mu \mathrm{F}=3 \mu \mathrm{F}[/math]
+এখন, [math]\rm{C_3 ~ও~ C_p}[/math]
+ শ্রেণি সমবায়ে সংযুক্ত,[math]\therefore[/math]
+ বর্তনীর তুল্য ধারকত্ব, [math]\rm{C}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} & \frac{1}{\mathrm{C}}=\frac{1}{\mathrm{C}_{3}}+\frac{1}{\mathrm{C}_{\mathrm{p}}} \\ \Rightarrow & \frac{1}{\mathrm{C}}=\frac{1}{3 \mu \mathrm{F}}+\frac{1}{3 \mu \mathrm{F}}=\frac{1+1}{3 \mu \mathrm{F}}=\frac{2}{3 \mu \mathrm{F}} \\ \therefore & \mathrm{C} =\frac{3}{2} \mu \mathrm{F}=1.5 \mu \mathrm{F} \end{aligned}[/math]
+অতএব, বর্তনীর তুল্য ধারকত্ব [math]1.5 \mu \mathrm{F}[/math]
+I
+
+Explanation:
+দুঃখিত—আমি দেওয়া ছবিটি এখানে দেখতে পাচ্ছি না বা তা স্পষ্ট নয়; অনুগ্রহ করে ধারকগুলোর মান এবং তারা কিভাবে সংযুক্ত (কোনগুলো সিরিজে, কোনগুলো সমান্তরালে) তা লিখে দিন, তখন আমি তুল্য ধারকত্ব নির্ণয় করে দেব। সাধারণ নিয়মগুলো: সমান্তরালে [math]C_{eq}=\sum C_i[/math] এবং সিরিজে [math]\frac{1}{C_{eq}}=\sum\frac{1}{C_i}[/math] প্রয়োগ করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #93 (ID: 421315)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+ব্যবহারিক পরীক্ষায় শিক্ষক প্রতিটি [math]180\ \mu F[/math] মানের তিনটি ধারক দিয়ে শ্যামলীকে তাদের শ্রেণি সমবায়ের সাথে একটি [math]3\ V[/math] এর তড়িৎকোষ সংযুক্ত করে বর্তনী তৈরি করতে বললেন। রেশমাকে [math]3\ V[/math] এর তিনটি তড়িৎকোষ দিয়ে সমান্তরাল সমবায়ে এবং সমবায়ের সাথে [math]50\ \Omega[/math] মানের একটি রোধ যুক্ত করতে বললেন। শিক্ষক শ্যামলীকে পূর্ণ নম্বর দিলেও রেশমাকে শূন্য দিলেন। উল্লেখ্য রেশমা বর্তনীর মোট তড়িৎ প্রবাহ পেয়েছিল [math]0.18\ A[/math]।
+
+Options:
+ঘ. রেশমা কী ভুল করেছিল? সঠিক বর্তনী এঁকে বর্তনীর প্রবাহমাত্রা নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘরেশমা তড়িৎকোষ তিনটিকে সমান্তরাল সমবায়ে সংযোগ না দিয়ে শ্রেণি সমবায়ে সংযোগ দিয়েছিল।কারণ, [math]3 \rm{~V}[/math]
+ এর তিনটি তড়িৎ কোষ শ্রেণি সমবায়ে সংযুক্ত হলে এদের মিলিত তড়িচ্চালক শক্তি হবে,[math]\hspace{1.5 cm}\mathrm{E}=3 \mathrm{~V} \times 3=9 \mathrm{~V}[/math]
+প্রদত্ত রোধ, [math]\mathrm{R}=50 \Omega[/math]
+এক্ষত্রে তড়িৎ প্রবাহ, [math]\rm{I=\dfrac{E}{R}=\dfrac{9 V}{50 \Omega}}=0.18 \mathrm{~A}[/math]
+যা রেশমার প্রাপ্ত তড়িৎ প্রবাহর সমান।
+[Image]
+অর্থাৎ রেশমা ভুলবশত তড়িৎকোষ তিনটি শ্রেণি সমবায়ে সংযোগ দিয়েছিল। এখন সঠিক বর্তনীটি উপরে আঁকা হলে, এক্ষেত্রে সমবায়ে তড়িচ্চালক শক্তি হবে যেকোনো একটি কোষের তড়িচ্চালক শক্তির সমান।অর্থাৎ [math]\rm{E_{1}=3 V}[/math]
+ রোধ, [math]\mathrm{R}_{1}=50 \Omega[/math]
+এখন প্রবাহমাত্রা,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{I}_{1} & =\dfrac{\mathrm{E}_{1}}{\mathrm{R}_{1}} \\ & =\dfrac{3 \mathrm{~V}}{50 \Omega} =0.06 \mathrm{~A} \end{aligned}[/math]
+[অভ্যন্তরীণ রোধকে অগ্রাহ্য করে]অতএব, বর্তনীর প্রবাহমাত্রা [math]0.06 \mathrm{~A}[/math]
+।
+
+Explanation:
+ঘ রেশমা ভুল করে তিনটি [math]3\ V[/math] তড়িৎকোষকে সিরিজে যুক্ত করেছে; সিরিজে ভোল্টেজ যোগ হয় আর সমান্তরালে সব ব্যাটারির ভোল্টেজ অপরিবর্তিত থাকে। শিক্ষক চাইছিল ব্যাটারিগুলো সমান্তরালে থাকবে যাতে মোট ভোল্টেজ থাকে [math]3\ V[/math], সেক্ষেত্রে প্রবাহ হবে [math]I=\dfrac{V}{R}=\dfrac{3}{50}=0.06\ A[/math]; রেশমার পরিমাপ [math]0.18\ A[/math] আসছে কারণ সিরিজে যোগ করলে ভোল্টেজ [math]9\ V[/math] হয় এবং [math]9/50=0.18\ A[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #94 (ID: 421313)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দুটি সমান্তরাল পাতধারক দেখানো হলো :
+
+[Image]
+
+
+চিত্র (i) পাতের ক্ষেত্রফল [math]=4\ cm^2 \qquad[/math] চিত্র (ii) পাতের ক্ষেত্রফল [math]=2\ cm^2[/math]
+
+উভয় ক্ষেত্রে [math]Q = 2\ C[/math] এবং [math]k = 1[/math]
+
+Options:
+ঘ. (i) ও (ii) চিত্রের ধারকের পাতগুলিকে কিভাবে স্থাপন করলে উভয় ধারকত্বের মান সমান হবে? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, চিত্র [math]\rm{(i)}[/math]
+ এর[math]\hspace{1 cm}[/math]
+প্রত্যেক পাতের ক্ষেত্রফল, [math]\rm{A}_{1}=4 \mathrm{~cm}^{2}=4 \times 10^{-4} \mathrm{~m}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িৎ মাধ্যমাঙ্ক, [math]\mathrm{k}=1[/math]
+ [math]\hspace{1 cm}[/math]
+এখন পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]\rm{d}_1[/math]
+ হলে, ধারকত্ব, [math]\rm{C}_{1}=\dfrac{\epsilon_{0} \mathrm{kA}}{\mathrm{~d}_{1}}[/math]
+আবার, চিত্র [math]\rm{(ii)}[/math]
+ এর[math]\hspace{1 cm}[/math]
+প্রত্যেক পাতের ক্ষেত্রফল,[math]\hspace{2.5 cm}\begin{aligned} \rm{A}_{2} & =2 \mathrm{~cm}^{2} \\ & =2 \times 10^{-4} \mathrm{~m}^{2} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+তড়িৎ মাধ্যমাঙ্ক, [math]\mathrm{k}=\mathbf{1}[/math]
+ [math]\hspace{1 cm}[/math]
+এক্ষেত্রে পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]\rm{d_2}[/math]
+ হলে[math]\hspace{1 cm}[/math]
+ধারকত্ব, [math]\rm{C_{2}=\dfrac{\epsilon_{0} k A_{2}}{d_{2}}}[/math]
+এখন, ধারকত্ব সমান হলে,[math]\hspace{1.5 cm}\begin{array}{l}\qquad \rm{C_{1}=C_{2}} \\ \Rightarrow \rm{\dfrac{E_{0} k A_{1}}{d_{1}}=\dfrac{E_{0} k A_{2}}{d_{2}} }\\ \Rightarrow \rm{ \dfrac{A_{1}}{d_{1}}=\dfrac{A_{2}}{d_{2}}} \\ \Rightarrow \rm{ \dfrac{4 \times 10^{-4} \mathrm{~m}^{2}}{d_{1}}=\dfrac{2 \times 10^{-4} \mathrm{~m}^{2}}{d_{2}} }\\ \Rightarrow \rm{\dfrac{d_{1}}{d_{2}}=\dfrac{4 \times 10^{-4} \mathrm{~m}^{2}}{2 \times 10^{-4} \mathrm{~m}^{2}}=2 }\\ \therefore \rm{~d_{1}=2 d_{2}}\end{array}[/math]
+অতএব, চিত্র [math]\rm{(i)}[/math]
+ এর পাতদ্বয়ের মধ্যবর্তী দূরত্বের অর্ধেক দূরত্বে চিত্র [math]\rm{(ii)}[/math]
+ এর পাতদ্বয়কে স্থাপন করলে উভয় ক্ষেত্রে ধারকত্বের মান সমান হবে।
+
+Explanation:
+ঘ সমাধান: সমান্তরাল পাতধারকের ধারকত্ব [math]C=\epsilon_0\frac{A}{d}[/math]. সমান করতে চাইলে [math]\epsilon_0\frac{A_1}{d_1}=\epsilon_0\frac{A_2}{d_2}\Rightarrow\frac{A_1}{d_1}=\frac{A_2}{d_2}[/math]. এখানে [math]A_1=4,\ A_2=2[/math] হলে [math]\frac{4}{d_1}=\frac{2}{d_2}\Rightarrow d_1=2d_2[/math] — অর্থাৎ চিত্র (i)-এর পাতের মধ্যে দুরত্ব চিত্র (ii)-এর তুলনায় দ্বিগুণ রাখলে দুইটি ধারকের ধারকত্ব সমান হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #95 (ID: 421314)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+ব্যবহারিক পরীক্ষায় শিক্ষক প্রতিটি [math]180\ \mu F[/math] মানের তিনটি ধারক দিয়ে শ্যামলীকে তাদের শ্রেণি সমবায়ের সাথে একটি [math]3\ V[/math] এর তড়িৎকোষ সংযুক্ত করে বর্তনী তৈরি করতে বললেন। রেশমাকে [math]3\ V[/math] এর তিনটি তড়িৎকোষ দিয়ে সমান্তরাল সমবায়ে এবং সমবায়ের সাথে [math]50\ \Omega[/math] মানের একটি রোধ যুক্ত করতে বললেন। শিক্ষক শ্যামলীকে পূর্ণ নম্বর দিলেও রেশমাকে শূন্য দিলেন। উল্লেখ্য রেশমা বর্তনীর মোট তড়িৎ প্রবাহ পেয়েছিল [math]0.18\ A[/math]।
+
+Options:
+গ. শ্যামলীর বর্তনীতে সঞ্চিত বৈদ্যুতিক বিভব শক্তির পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গশ্যামলীর ব্যবহৃত প্রতিটি ধারকের ধারকত্ব, [math]\rm{C}=180 \mu \mathrm{F}[/math]
+ এবংবিভব, [math]\mathrm{V}=3 \mathrm{~V}[/math]
+ধারকগুলো শ্রেণি সমবায়ে সংযুক্ত বলে এদের তুল্য ধারকত্ব,[math]\hspace{1.5 cm}\begin{array}{l} \quad \rm{\dfrac{1}{C_{s}}=\dfrac{1}{C}+\dfrac{1}{\mathrm{C}}+\dfrac{1}{\mathrm{C}}} \\ \Rightarrow \dfrac{1}{\mathrm{C}_{\mathrm{s}}}=\dfrac{1}{180 \mu \mathrm{F}}+\dfrac{1}{180 \mu \mathrm{F}}+\dfrac{1}{180 \mu \mathrm{F}} \\ \Rightarrow \dfrac{1}{\mathrm{C}_{\mathrm{s}}}=\dfrac{1+1+1}{180 \mu \mathrm{F}}=\dfrac{3}{180 \mu \mathrm{F}} \\ \therefore ~\mathrm{~C}_{\mathrm{s}}=\dfrac{180 \mu \mathrm{F}}{3}=60 \mu \mathrm{F}=60 \times 10^{-6} \mathrm{~F}\end{array}[/math]
+এখন সঞ্চিত বৈদ্যুতিক বিভব শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{U} & =\frac{1}{2} \mathrm{C}_{\mathrm{s}} \mathrm{V}^{2} \\ & =\frac{1}{2} \times 60 \times 10^{-6} \mathrm{~F} \times(3 \mathrm{~V})^{2} \\ & =2.7 \times 10^{-4} \mathrm{~J} \end{aligned}[/math]
+অতএব, সঞ্চিত বৈদ্যুতিক বিভব শক্তি [math]2.7 \times 10^{-4} \mathrm{~J}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ তিনটি সমান ধারক সিরিজে যুক্ত হলে সমতুল্য ধারকত্ব [math]C_{eq}=C/3=180\ \mu F/3=60\ \mu F[/math] হবে, এবং সঞ্চিত শক্তি [math]U=\tfrac{1}{2}C_{eq}V^2[/math] দ্বারা নির্ণয়যোগ্য। অতএব [math]U=\tfrac{1}{2}\times60\times10^{-6}\times3^2=2.7\times10^{-4}\ \text{J}=270\ \mu\text{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #96 (ID: 421312)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+চিত্রে দুটি সমান্তরাল পাতধারক দেখানো হলো :
+
+[Image]
+
+
+চিত্র (i) পাতের ক্ষেত্রফল [math]=4\ cm^2 \qquad[/math] চিত্র (ii) পাতের ক্ষেত্রফল [math]=2\ cm^2[/math]
+
+উভয় ক্ষেত্রে [math]Q = 2 C[/math] এবং [math]k = 1[/math]
+
+Options:
+গ. চিত্র (i) এর পাতদ্বয়ের বিভব [math]2\ V[/math] হলে ধারকে সঞ্চিত শক্তির পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গচিত্র- [math](\rm{i})[/math]
+ হতে পাই,[math]\hspace{1 cm}[/math]
+আধান, [math]\rm{Q=2 C}[/math]
+ [math]\hspace{1 cm}[/math]
+পাতদ্বয়ের বিভব, [math]\mathrm{V}=2 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+সঞ্চিত শক্তি, [math]\mathrm{U}=?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\mathrm{U}=\dfrac{1}{2} \mathrm{QV}=\dfrac{1}{2} \times 2 \mathrm{C} \times 2 \mathrm{~V}=2 \mathrm{~J}[/math]
+অতএব, ধারকে সঞ্চিত শক্তির মান [math]2 \mathrm{~J}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ ধারা সঞ্চিত শক্তি নির্ণয়ের সহজ সূত্র হলো [math]U=\tfrac{1}{2}QV[/math], কারণ একটি ধারককে চার্জ করার সময় কাজ হিসেবে এই শক্তি জমা হয়। এখানে [math]Q=2\ \text{C}[/math] এবং [math]V=2\ \text{V}[/math] হলে [math]U=\tfrac{1}{2}\times2\times2=2\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #97 (ID: 421311)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. সর্বোচ্চ সঞ্চিত শক্তি পেতে উদ্দীপকের সমবায়টির কী রকমের পরিবর্তন প্রয়োজন— গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\begin{array}{l} \rm{C}_{1}=2 \mu \mathrm{F} \\ \rm{C}_{2}=2 \mu \mathrm{F} \\ \mathrm{C}_{3}=4 \mu \mathrm{F} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব পার্থক্য, [math]\mathrm{V}=12 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+সঞ্চিত শক্তি, [math]\mathrm{U}=?[/math]
+এখন, তুল্য ধারকত্ব [math]\rm{C_s}[/math]
+ হলে,[math]\hspace{1.6 cm}\begin{array}{l}\dfrac{1}{\mathrm{C}_{8}}=\dfrac{1}{\mathrm{C}_{1}}+\dfrac{1}{\mathrm{C}_{2}}+\dfrac{1}{\mathrm{C}_{3}} \\ \Rightarrow \dfrac{1}{\mathrm{C}_{s}}=\dfrac{1}{2 \mu \mathrm{F}}+\dfrac{1}{4 \mu \mathrm{F}}+\dfrac{1}{4 \mu \mathrm{F}} \\ \Rightarrow \dfrac{1}{\mathrm{C}_{s}}=\dfrac{2+1+1}{4 \mu \mathrm{F}}=\dfrac{4}{4 \mu \mathrm{F}} \\ \therefore \mathrm{C}_{\mathrm{s}}=1 \mu \mathrm{F}=1 \times 10^{-6} \mathrm{~F} \end{array}[/math]
+সঞ্চিত শক্তি[math]\hspace{1.6 cm}\begin{aligned} \mathrm{U} & =\frac{1}{2} \mathrm{C}_{\rm{s}} \mathrm{~V}^{2} \\ & =\frac{1}{2} \times 1 \times 10^{-6} \mathrm{~F} \times(12 \mathrm{~V})^{2}=7.2 \times 10^{-5} \mathrm{~J} \end{aligned}[/math]
+অতএব, সমবায়টির সঞ্চিত শক্তির পরিমাণ [math]7.2 \times 10^{-5} \mathrm{~J}[/math]
+।এখন, ধারকত্রয়কে সমান্তরাল সমবায়ে সংযুক্ত করলে তুল্য ধারকত্বের মান হবে,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{C}_{\mathrm{p}} & =\mathrm{C}_{1}+\mathrm{C}_{2}+\mathrm{C}_{3} \\ & =2 \mu \mathrm{F}+4 \mu \mathrm{F}+4 \mu \mathrm{F}=10 \mu \mathrm{F}=10 \times 10^{-6} \mathrm{~F} \end{aligned}[/math]
+এক্ষেত্রে, সঞ্চিত শক্তি [math]\rm{U}_1[/math]
+ হলে,[math]\hspace{1.5 cm}\mathrm{U}_{1}=\dfrac{1}{2} \mathrm{C}_{\mathrm{p}} \mathrm{V}^{2}=\dfrac{1}{2} \times 10 \times 10^{-6} \mathrm{~F} \times(12 \mathrm{~V})^{2}=7.2 \times 10^{-4} \mathrm{~J}[/math]
+এখানে, [math]\mathrm{U}_{1}>\mathrm{U}[/math]
+আমরা জানি, ধারকের সমান্তরাল সমবায়ের ক্ষেত্রে তুল্য ধারকত্বের মান সর্বোচ্চ হয়, এক্ষেত্রে বিভব পার্থক্যের মান অপরিবর্তিত রেখে সর্বোচ্চ সঞ্চিত শক্তি পেতে হলে ধারকগুলোকে সমান্তরাল সমবায়ে সংযুক্ত করতে হবে।
+
+Explanation:
+ঘ সর্বোচ্চ সঞ্চিত শক্তি পেতে উদ্দীপকের কৌণিক ফ্রিকোয়েন্সি [math]ω[/math]কে সিস্টেমের প্রাকৃতিক ফ্রিকোয়েন্সি সঙ্গে মিলিয়ে রেজোন্যান্স তৈরি করতে হবে। উদাহরণস্বরূপ RLC সার্কিটে কারেন্টের অ্যাম্প্লিটিউড [math]I(ω)=\dfrac{V_0}{\sqrt{R^2+(ωL-1/ωC)^2}}[/math] এবং সঞ্চিত শক্তি [math]U\propto I^2[/math], তাই অপরিবর্তিত R তলে ডিনোমিনেটর সর্বনিম্ন হলে (অর্থাৎ [math]ωL-1/(ωC)=0[/math]) শক্তি সর্বোচ্চ হয়, ফলে [math]ω=1/\sqrt{LC}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #98 (ID: 421310)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. সমবায়টিতে সঞ্চিত শক্তির পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}\begin{array}{l} \rm{C}_{1}=2 \mu \mathrm{F} \\ \rm{C}_{2}=2 \mu \mathrm{F} \\ \mathrm{C}_{3}=4 \mu \mathrm{F} \end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+বিভব পার্থক্য, [math]\mathrm{V}=12 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+সঞ্চিত শক্তি, [math]\mathrm{U}=?[/math]
+এখন, তুল্য ধারকত্ব [math]\rm{C_s}[/math]
+ হলে,[math]\hspace{1.6 cm}\begin{array}{l}\dfrac{1}{\mathrm{C}_{8}}=\dfrac{1}{\mathrm{C}_{1}}+\dfrac{1}{\mathrm{C}_{2}}+\dfrac{1}{\mathrm{C}_{3}} \\ \Rightarrow \dfrac{1}{\mathrm{C}_{s}}=\dfrac{1}{2 \mu \mathrm{F}}+\dfrac{1}{4 \mu \mathrm{F}}+\dfrac{1}{4 \mu \mathrm{F}} \\ \Rightarrow \dfrac{1}{\mathrm{C}_{s}}=\dfrac{2+1+1}{4 \mu \mathrm{F}}=\dfrac{4}{4 \mu \mathrm{F}} \\ \therefore \mathrm{C}_{\mathrm{s}}=1 \mu \mathrm{F}=1 \times 10^{-6} \mathrm{~F} \end{array}[/math]
+সঞ্চিত শক্তি[math]\hspace{1.6 cm}\begin{aligned} \mathrm{U} & =\frac{1}{2} \mathrm{C}_{\rm{s}} \mathrm{~V}^{2} \\ & =\frac{1}{2} \times 1 \times 10^{-6} \mathrm{~F} \times(12 \mathrm{~V})^{2}=7.2 \times 10^{-5} \mathrm{~J} \end{aligned}[/math]
+অতএব, সমবায়টির সঞ্চিত শক্তির পরিমাণ [math]7.2 \times 10^{-5} \mathrm{~J}[/math]
+।
+
+Explanation:
+গ ব্যাখ্যা: ক্যাপাসিটর চার্জ করতে প্রতি ক্ষুদ্র চার্জ [math]dq[/math] আনতে করা কাজ [math]dW=v\,dq=\frac{q}{C}\,dq[/math] এবং ইন্টিগ্রেশন করলে [math]U=\int_0^Q\frac{q}{C}\,dq=\frac{Q^2}{2C}[/math] পাওয়া যায়। ফলে সমানতরূপ দেয়ার সূত্রগুলি হলো [math]U=\frac{1}{2}CV^2=\frac{Q^2}{2C}=\frac{1}{2}QV[/math], এবং এখানে উপযুক্ত [math]C,\,V[/math] অথবা [math]Q[/math] বসিয়ে মান নির্ণয় করা হয়।
+
+Sub-Questions:
+
+================================================================================
+Question #99 (ID: 421308)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রত্যেকটি পাতের ক্ষেত্রফল [math]1.65\ m^2[/math]। পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]2\ cm[/math] এবং এটি বায়ু দ্বারা পূর্ণ। পাতদ্বয়ের বিভব পার্থক্য [math]60V[/math]। [math]\left(\epsilon_{0}=8.854 \times 10^{-12} C^{2} N^{-1} m^{-2}\right)[/math]
+
+Options:
+গ. উদ্দীপক অনুসারে ধারকটির ধারকত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+প্রত্যেক পাতের ক্ষেত্রফল [math]\mathrm{A}=1.65 \mathrm{~m}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]\mathrm{d}=2 \mathrm{~cm}=0.02 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ধারকত্ব, [math]\mathrm{C}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{C} & =\frac{\rm{E}_{0} \mathrm{~A}}{\mathrm{~d}} \\ & =\frac{9.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \times 1.65 \mathrm{~m}^{2}}{0.02 \mathrm{~m}} \\ & =7.3 \times 10^{-10} \mathrm{~F} \end{aligned}[/math]
+অতএব, ধারকটির ধারকত্ব [math]7.3 \times 10^{-10} \mathrm{~F}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ সমান্তরাল পাত ধারকের সূত্র হল [math]C=\frac{\epsilon_0 A}{d}[/math], এবং বায়ুতে [math]\epsilon=\epsilon_0[/math] হওয়ায় এটি প্রযোজ্য। সংখ্যাগতভাবে, [math]C=\frac{8.854\times10^{-12}\times1.65}{0.02}=7.3046\times10^{-10}\ \mathrm{F}\approx7.30\times10^{-10}\ \mathrm{F}\ (=0.73\ \mathrm{nF}=730\ \mathrm{pF}).
+
+Sub-Questions:
+
+================================================================================
+Question #100 (ID: 421309)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রত্যেকটি পাতের ক্ষেত্রফল [math]1.65\ m^2[/math]। পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]2\ cm[/math] এবং এটি বায়ু দ্বারা পূর্ণ। পাতদ্বয়ের বিভব পার্থক্য [math]60V[/math]। [math]\left(\epsilon_{0}=8.854 \times 10^{-12} C^{2} N^{-1} m^{-2}\right)[/math]
+
+Options:
+ঘ. ধারকটির মধ্যবর্তী স্থানে [math]2.8[/math] ডাইইলেকট্রিক ধ্রুবকের একটি বস্তু দ্বারা পূর্ণ করলে সঞ্চিত শক্তির কিরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+পাতদ্বয়ের বিভব পার্থক্য [math]\rm{V}=60 \mathrm{~V}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রত্যেক পাতের ক্ষেত্রফল [math]\mathrm{A}=1.65 \mathrm{~m}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব [math]\mathrm{d}=2 \mathrm{~cm}=0.02 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ধারকত্ব, [math]\mathrm{C}=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \rm{C} & =\frac{\rm{E}_{0} \mathrm{~A}}{\mathrm{~d}} \\ & =\frac{9.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \times 1.65 \mathrm{~m}^{2}}{0.02 \mathrm{~m}} \\ & =7.3 \times 10^{-10} \mathrm{~F} \end{aligned}[/math]
+অতএব, ধারকটির ধারকত্ব [math]7.3 \times 10^{-10} \mathrm{~F}[/math]
+।[math]\therefore[/math]
+ ১ম ক্ষেত্রে সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{U} & =\frac{1}{2} \mathrm{CV}^{2} \\ & =\frac{1}{2} \times 7.3 \times 10^{-10} \mathrm{~F} \times(60 \mathrm{~V})^{2} \\ & =1.314 \times 10^{-6} \mathrm{~J} \end{aligned}[/math]
+২য় ক্ষেত্রে, ডাই ইলেকট্রিক ধ্রুবক, [math]\rm{k}=2.8[/math]
+প্রত্যেক পাতের ক্ষেত্রফল, [math]\mathrm{A}=1.65 \mathrm{~m}^{2}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=2 \mathrm{~cm}=0.02 \mathrm{~m}[/math]
+এক্ষেত্রে ধারকত্ব [math]\rm{C}_1[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} \rm{C}_{1} & =\frac{\rm{k E}_{0} \mathrm{~A}}{\mathrm{~d}} \\ & =\frac{2.8 \times 8.854 \times 10^{-12} \mathrm{C}^{2} \mathrm{~N}^{-1} \mathrm{~m}^{-2} \times 1.65 \mathrm{~m}^{2}}{0.02 \mathrm{~m}}=2.05 \times 10^{-9} \mathrm{~F} \end{aligned}[/math]
+এক্ষেত্রে, সঞ্চিত শক্তি[math]\hspace{1.5 cm}\begin{aligned} \mathrm{U}_{1} & =\frac{1}{2} \mathrm{C}_{1} \mathrm{~V}^{2}=\frac{1}{2} \times 2.05 \times 10^{-9} \mathrm{~F} \times(60 \mathrm{~V})^{2} \\ & =3.69 \times 10^{-6} \mathrm{~J} \end{aligned}[/math]
+এখন,[math]\hspace{1.5 cm}\begin{array}{l} \rm{\dfrac{U_{1}}{U}}=\dfrac{3.69 \times 10^{-6} \mathrm{~J}}{1.314 \times 10^{-6} \mathrm{~J}}=2.8 \\ \mathrm{~U}_{1}=2.8 \mathrm{U} \end{array}[/math]
+অতএব, সঞ্চিত শক্তি বৃদ্ধি পেয়ে [math]2.8[/math]
+ গুণ হবে।
+
+Explanation:
+ব্যাখ্যা: একটি ধারকে স্থির ভোল্টেজে সংযুক্ত থাকলে সঞ্চিত শক্তি [math]U=\tfrac{1}{2}CV^{2}[/math] এবং পর্যাপ্ত পাত ধারকের প্রাথমিক ধারনক্ষমতা [math]C=\dfrac{\epsilon_{0}A}{d}[/math]. যদি পুরো খালটি ডাইইলেকট্রিক ধ্রুবক [math]\kappa=2.8[/math] দিয়ে ভরা হয় তাহলে নতুন ধারনক্ষমতা [math]C'=\kappa C[/math] হয় এবং নতুন শক্তি [math]U'=\kappa U[/math]। অতএব শক্তি [math]2.8[/math] গুণ বৃদ্ধি পায় (অর্থাৎ মুলের চেয়ে [math]1.8U[/math] বা [math]180\%[/math] বাড়ে)।
+
+Sub-Questions:
+
+================================================================================
+Question #101 (ID: 421305)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+পাশের বর্তনীতে যুক্ত ধারকগুলোর প্রতিটির মান [math]0.2\ \mu F[/math]।
+
+[Image]
+
+
+Options:
+ঘ. বর্তনী হতে [math]\rm{C}_3[/math] কে সরিয়ে নিলে সঞ্চিত তড়িৎ শক্তির কীরূপ পরিবর্তন হবে গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, [math]\rm{C_{1}=C_{2}=C_{3}}=0.2 \mu \mathrm{F}[/math]
+ [math]\rm{C_{1} \text { ও } C_{2}}[/math]
+ এর তুল্য ধারকত্ব [math]\rm{C_s}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \dfrac{1}{\mathrm{C}_{s}}=\dfrac{1}{\mathrm{C}_{1}}+\dfrac{1}{\mathrm{C}_{2}} \\ \Rightarrow\mathrm{C}_{\mathrm{s}}=\dfrac{\mathrm{C}_{1}}{2}\left[\because \mathrm{C}_{2}=\mathrm{C}_{1}\right] \\ \Rightarrow \mathrm{C}_{\mathrm{s}}=\dfrac{0.2 \mu \mathrm{F}}{2}=0.1 \mu \mathrm{F}\end{array}[/math]
+এখন, প্রদত্ত বর্তনীর তুল্য ধারকত্ব [math]\rm{C_p}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} & \rm{C_{p}=C_{s}+C_{3}}=(0.1+0.2) \mu \mathrm{F} \\ \therefore \quad & \rm{C}_{\mathrm{p}}=0.3 \mu \mathrm{F} \end{aligned}[/math]
+অতএব, উদ্দীপকের বর্তনীর তুল্য ধারকত্ব [math]0.3\mu \rm{F}[/math]
+।[math]\hspace{1.5 cm}\mathrm{C}_{\mathrm{p}}=0.3 \mu \mathrm{F}=0.3 \times 10^{-6} \mathrm{~F}[/math]
+এখন, [math]\rm{C}_3[/math]
+ কে সরিয়ে নিলে বর্তনীর তুল্য ধারকত্ব দাড়ায়,[math]\hspace{1.1 cm}\mathrm{C}_{\mathrm{s}}=0.1 \mu \mathrm{F}[/math]
+ ['গ' হতে][math]\hspace{1.3 cm}\quad =0.1 \times 10^{-6} \mathrm{~F}[/math]
+ [math]\rm{C}_3[/math]
+ সহ বর্তনীতে সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}&=\frac{1}{2} \mathrm{C}_{\mathrm{p}} \mathrm{V}^{2}\\ \Rightarrow\mathrm{E}&=\frac{1}{2} \times 0.3 \times 10^{-6} \times 12^{2} \mathrm{~J} \\ \Rightarrow\mathrm{E}&=2.16 \times 10^{-5} \mathrm{~J} \end{aligned} \quad \mid[/math]
+ এখানে, [math]\mathrm{V}=12 \mathrm{~V}[/math]
+ [math]\rm{C}_3[/math]
+ ছাড়া বর্তনীতে সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{array}{l}\quad\mathrm{E}^{\prime}=\dfrac{1}{2} \mathrm{C}_{s} \mathrm{~V}^{2}=\dfrac{1}{2} \times 0.1 \times 10^{-6} \times 12^{2} \mathrm{~J} \\ \therefore \mathrm{E}^{\prime}=7.2 \times 10^{-6} \mathrm{~J} \\ \therefore \dfrac{\mathrm{E}^{\prime}}{\mathrm{E}}=\dfrac{7.2 \times 10^{-6}}{2.16 \times 10^{-5}} \\ \Rightarrow \mathrm{E}^{\prime}=\dfrac{1}{3} \mathrm{E}\end{array}[/math]
+অতএব, বর্তনী হতে [math]\rm{C}_3[/math]
+ কে সরিয়ে নিলে সঞ্চিত শক্তি হ্রাস পেয়ে এক-তৃতীয়াংশ হবে।
+
+Explanation:
+ব্যাখ্যা: প্রথমে C1 ও C2 ধারক দুইটি সিরিজে যুক্ত হলে সমমান [math]C_s=\dfrac{C}{2}=\dfrac{0.2}{2}=0.1\ \mu F[/math] হয় এবং মোট সমতুল্য ধারক ছিল [math]C_{eq}=C_s+C_3=0.1+0.2=0.3\ \mu F[/math]. তড়িৎ শক্তি [math]U=\tfrac{1}{2}CV^2[/math] হওয়ায় C3 সরালে নবীন ধারকত্বই হবে [math]0.1\ \mu F[/math], ফলে শক্তির অনুপাত [math]\dfrac{U'}{U}=\dfrac{0.1}{0.3}=\tfrac{1}{3}[/math]. অতএব সঞ্চিত তড়িৎ শক্তি পূর্বমানের এক-তৃতীয়াংশে নামবে (তিনগুণ কমে যাবে)।
+
+Sub-Questions:
+
+================================================================================
+Question #102 (ID: 421304)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+পাশের বর্তনীতে যুক্ত ধারকগুলোর প্রতিটির মান [math]0.2\ \mu F[/math]।
+
+[Image]
+
+
+Options:
+গ. বর্তনীর তুল্য ধারকত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, [math]\rm{C_{1}=C_{2}=C_{3}}=0.2 \mu \mathrm{F}[/math]
+ [math]\rm{C_{1} \text { ও } C_{2}}[/math]
+ এর তুল্য ধারকত্ব [math]\rm{C_s}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \dfrac{1}{\mathrm{C}_{s}}=\dfrac{1}{\mathrm{C}_{1}}+\dfrac{1}{\mathrm{C}_{2}} \\ \Rightarrow\mathrm{C}_{\mathrm{s}}=\dfrac{\mathrm{C}_{1}}{2}\left[\because \mathrm{C}_{2}=\mathrm{C}_{1}\right] \\ \Rightarrow \mathrm{C}_{\mathrm{s}}=\dfrac{0.2 \mu \mathrm{F}}{2}=0.1 \mu \mathrm{F}\end{array}[/math]
+এখন, প্রদত্ত বর্তনীর তুল্য ধারকত্ব [math]\rm{C_p}[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{aligned} & \rm{C_{p}=C_{s}+C_{3}}=(0.1+0.2) \mu \mathrm{F} \\ \therefore \quad & \rm{C}_{\mathrm{p}}=0.3 \mu \mathrm{F} \end{aligned}[/math]
+অতএব, উদ্দীপকের বর্তনীর তুল্য ধারকত্ব [math]0.3\mu \rm{F}[/math]
+।
+
+Explanation:
+ছবিটি স্পষ্টভাবে দেখা যাচ্ছে না — অনুগ্রহ করে সার্কিটের কাঠামো (কোন ধারকগুলো সিরিজে এবং কোনগুলো প্যারালেলে সংযুক্ত) লিখে দিন অথবা বড় আকারে ছবি আপলোড করুন, তাহলেই আমি প্রতিটি ধাপে হিসাব করে তুল্য ধারকত্ব এবং সংক্ষিপ্ত ব্যাখ্যা দেব।
+
+Sub-Questions:
+
+================================================================================
+Question #103 (ID: 421301)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+নিচের বর্তনীতে [math]C_1[/math] ও [math]C_2[/math] দুটি সমান্তরাল পাত ধারক যুক্ত করা হয়েছে যাদের প্রতিটির দুই পাতের ব্যবধান [math]0.5\ cm[/math] এবং ধারকত্ব [math]600\ PF[/math] পরবর্তীতে [math]C_1[/math] ধারককে কাগজ [math](k = 3.5)[/math] দ্বারা পূর্ণ করা হলো এবং [math]C_2[/math] এর ঠিক মাঝখানে সমান্তরাল পাতের অনুরূপ পাতলা পাত প্রবেশ করানো হলো। [math]\epsilon_{0}=8.85 \times 10^{-12} c^{2} N^{-1} M^{-2}[/math]।
+
+[Image]
+
+
+Options:
+ঘ. ধারক দুটিতে কাগজ ও পাত প্রবেশ করানোর পর বর্তনীর সঞ্চিত তড়িৎ শক্তির কিরূপ পরিবর্তন হবে— গাণিতিক ব্যাখ্যা দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}\mathrm{C}_{1}=\mathrm{C}_{2}=600 \mathrm{PF}=600 \times 10^{-12} \mathrm{~F}[/math]
+ [math]\hspace{1 cm}\mathrm{V}=200 \mathrm{~V}[/math]
+ [math]\therefore[/math]
+ ১ম অবস্থায় বর্তনীর তুল্য ধারকত্ব,[math]\hspace{1.5 cm}\begin{array}{l} \quad\rm{C_{p}=C_{1}+C_{2}}=\left(600 \times 10^{-12}+600 \times 10^{-12}\right) \mathrm{F} \\ \therefore ~ \mathrm{C}_{\mathrm{p}}=1.2 \times 10^{-9} \mathrm{~F} \\ \end{array}[/math]
+১ম অবস্থায় বর্তনীর সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{U} & =\frac{1}{2} \mathrm{C}_{\mathrm{p}} \mathrm{V}^{2} \\ \Rightarrow \mathrm{U} & =\frac{1}{2} \times 1.2 \times 10^{-9} \times 200^{2} \mathrm{~J} \\ \therefore \mathrm{U} & =2.4 \times 10^{-5} \mathrm{~J} \end{aligned}[/math]
+কাগজ প্রবেশের পর [math]\rm{C_{1}}[/math]
+ ধারকের ধারকত্ব,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{C}_{1}{ }^{\prime} & =\frac{\mathrm{k} \mathrm{E}_{0} \mathrm{~A}}{\mathrm{~d}} \\ \Rightarrow \mathrm{C}_{1}{ }^{\prime} & =\frac{3.5 \times 8.85 \times 10^{-12} \times 0.34}{0.5 \times 10^{-2}} \mathrm{~F} \\ \therefore \quad \mathrm{C}_{1}{ }^{\prime} & =2.1 \times 10^{-9} \mathrm{~F} \end{aligned}[/math]
+ [math]\rm{C}_2[/math]
+ ধারকের মাঝখানে সমান্তরালে পাতলা পাত প্রবেশ করানোর ফলে এর ধারকত্বের কোন পরিবর্তন হবে না।[math]\therefore[/math]
+ ২য় অবস্থায় [math]\rm{C}_2[/math]
+ ধারকের ধারকত্ব, [math]\rm{C_{2}^{\prime}=C_{2}}=600 \times 10^{-12} \mathrm{~F}[/math]
+ [math]\therefore[/math]
+ ২য় অবস্থায় বর্তনীর তুল্য ধারকত্ব,[math]\hspace{1.5 cm}\begin{aligned} & \rm{C_{\mathrm{p}}^{\prime}=C_{1}^{\prime}+C_{2}^{\prime}}=\left(2.1 \times 10^{-9}+600 \times 10^{-12}\right) \mathrm{F} \\ \therefore \quad & \mathrm{C}_{\mathrm{p}}^{\prime}=2.7 \times 10^{-9} \mathrm{~F} \end{aligned}[/math]
+ [math]\therefore[/math]
+ ২য় ক্ষেত্রে ধারকে সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{U}^{\prime} & =\frac{1}{2} \mathrm{C}_{\mathrm{p}}^{\prime} \mathrm{V}^{2} \\ \Rightarrow \mathrm{U}^{\prime} & =\frac{1}{2} \times 2.7 \times 10^{-9} \times 200^{2} \mathrm{~J} \\ \therefore \quad \mathrm{U}^{\prime} & =5.4 \times 10^{-5} \mathrm{~J} \end{aligned}[/math]
+সঞ্চিত শক্তির পরিবর্তন,[math]\hspace{1.5 cm}\begin{aligned} \Delta \mathrm{U} & =\mathrm{U}^{\prime}-\mathrm{U} \\ & =\left(5.4 \times 10^{-5}-2.4 \times 10^{-5}\right) \mathrm{J}=3 \times 10^{-5} \mathrm{~J} \end{aligned}[/math]
+অতএব, ধারক দুটিতে কাগজ ও পাত প্রবেশ করানোর পর বর্তনীর সঞ্চিত শক্তি [math]3 \times 10^{-5} \mathrm{~J}[/math]
+ বৃদ্ধি পাবে।
+
+Explanation:
+ঘ ব্যাখ্যা: ব্যাটারি সংযুক্ত থাকলে ভোল্টেজ অপরিবর্তিত থাকে, তাই শক্তি [math]U=\tfrac12CV^{2}[/math] অনুযায়ী ধারকত্বের অনুপাতে পরিবর্তিত হবে। শুরুতে [math]C_{1}=C_{2}=600\ \text{pF}[/math], ফলে মোট [math]C_{i}=1200\ \text{pF}[/math]। কাগজ প্রবেশ করলে [math]C_{1}'=kC_{1}=3.5\times600=2100\ \text{pF}[/math], এবং পাতলা ধাতু ঠিক মাঝখানে ঢুকালে [math]C_{2}[/math]-এর সমগ্র ধারকত্ব অপরিবর্তিত থাকে [math](C_{2}'=600\ \text{pF})[/math]। তাই নতুন মোট [math]C_{f}=2100+600=2700\ \text{pF}[/math], ফলে শক্তি বাড়ে অনুপাতে [math]U_{f}/U_{i}=C_{f}/C_{i}=2700/1200=2.25[/math]; অতিরিক্ত শক্তি ব্যাটারি সরবরাহ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #104 (ID: 421302)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতি পাতের ক্ষেত্রফল [math]10^{-4} \mathrm{~cm}^{2}[/math]। পাতদ্বয় বায়ুতে পরস্পর হতে [math]1\ cm[/math] ব্যবধানে অবস্থিত। প্রত্যেক পাতে সরবরাহকৃত চার্জের পরিমাণ [math]8.9 \times 10^{-10} \mathrm{C}[/math]।
+
+Options:
+গ. ধারকের পাতদ্বয়ের চার্জ ঘনত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+ধারকের প্রত্যেক পাতের ক্ষেত্রফল, [math]\mathrm{A}=10^{-4} \mathrm{~cm}^{2}=10^{-8} \mathrm{~m}^{2}[/math]
+ [math]\hspace{1 cm}[/math]
+পাতদ্বয়ের মধ্যবর্তী দূরত্ব, [math]\mathrm{d}=1 \mathrm{~cm}=1 \times 10^{-2} \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+প্রত্যেক পাতে আধান, [math]\rm{Q}=8.9 \times 10^{-10} \mathrm{C}[/math]
+ [math]\hspace{1 cm}[/math]
+ধারকের পাতদ্বয়ের চার্জ ঘনত্ব, [math]\sigma =?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\sigma=\rm{\dfrac{Q}{A}}=\dfrac{8.9 \times 10^{-10}}{10^{-8}} \mathrm{~m}^{-2}=8.9 \times 10^{-2} \mathrm{~m}^{-2}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ পাতের ক্ষেত্রফলকে মিটারে রূপান্তর করলে [math]10^{-4}\,\mathrm{cm^2}=10^{-8}\,\mathrm{m^2}[/math], এবং চার্জ ঘনত্ব হল [math]\sigma=Q/A[/math] হওয়ায় [math]\sigma=\dfrac{8.9\times10^{-10}\,\mathrm{C}}{10^{-8}\,\mathrm{m^2}}=8.9\times10^{-2}\,\mathrm{C/m^2}=0.089\,\mathrm{C/m^2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #105 (ID: 421303)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি সমান্তরাল পাত ধারকের প্রতি পাতের ক্ষেত্রফল [math]10^{-4} \mathrm{~cm}^{2}[/math]। পাতদ্বয় বায়ুতে পরস্পর হতে [math]1\ cm[/math] ব্যবধানে অবস্থিত। প্রত্যেক পাতে সরবরাহকৃত চার্জের পরিমাণ [math]8.9 \times 10^{-10} \mathrm{C}[/math]।
+
+Options:
+ঘ. পাতদ্বয়ের মধ্যকার বিভব পার্থক্য অর্ধেক করা হলে ধারকটির সঞ্চিত শক্তি পূর্বাকার সঞ্চিত শক্তির এক-চতুর্থাংশ হবে কি না— গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, ধারকের ধারকত্ব,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{C} & =\frac{\epsilon_{0} \mathrm{Ak}}{\mathrm{d}} \\ & =\frac{8.854 \times 10^{-12} \times 10^{-8} \times 1}{1 \times 10^{-2}} \rm{F}\\ & =8.854 \times 10^{-18} \mathrm{~F} \end{aligned}\quad[/math]
+ [math][\rm{k}=1[/math]
+ ধরে [math]][/math]
+ [math]\therefore[/math]
+ ধারকে সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\mathrm{U}_{1}=\dfrac{1}{2} \dfrac{\mathrm{Q}^{2}}{\mathrm{C}}=\dfrac{1}{2} \times \dfrac{\left(8.9 \times 10^{-10}\right)^{2}}{8.854 \times 10^{-18}} \mathrm{~J}=4.47 \times 10^{-2} \mathrm{~J}[/math]
+পূর্বের অবস্থায় পাতদ্বয়ের মধ্যবর্তী বিভব,[math]\hspace{1.5 cm}\mathrm{V}=\dfrac{\mathrm{Q}}{\mathrm{C}}=\dfrac{8.9 \times 10^{-10}}{8.854 \times 10^{-18}} \mathrm{~V}=1.005 \times 10^{8} \mathrm{~V}[/math]
+ [math]\therefore[/math]
+ বিভব অর্ধেক হলে, [math]\mathrm{V}^{\prime}=0.5 \times 10^{8} \mathrm{~V}[/math]
+ [math]\therefore[/math]
+ ধারকের সঞ্চিত শক্তি,[math]\hspace{1.5 cm}\begin{aligned}\mathrm{U}_{2} & =\frac{1}{2} \mathrm{CV}^{2} \\& =\frac{1}{2} \times\left(8.854 \times 10^{-18}\right) \times\left(0.5 \times 10^{8}\right)^{2} \mathrm{~J}=1.10675 \times 10^{-2} \mathrm{~J} \\ \therefore \frac{\mathrm{U}_{2}}{\mathrm{U}_{1}}&=\frac{1.10675 \times 10^{-2}}{4.47 \times 10^{-2}}=\frac{1}{4} \\ \therefore \mathrm{U}_{2}&=\frac{1}{4} \mathrm{U}_{1} \end{aligned}[/math]
+অতএব, পাতদ্বয়ের মধ্যকার বিভব পার্থক্য, অর্ধেক করা হলে ধারকটির সঞ্চিত শক্তি পূর্বের সঞ্চিত শক্তির এক-চতুর্থাংশ হবে।
+
+Explanation:
+ঘ সঠিক কারণ: ধারকের শক্তি [math]U=\frac{1}{2}CV^{2}[/math]; যদি [math]V[/math] কে অর্ধেক করা হয়, তবে  
+[math]U'=\frac{1}{2}C\left(\frac{V}{2}\right)^{2}=\frac{1}{4}\left(\frac{1}{2}CV^{2}\right)=\frac{1}{4}U[/math].  
+এই ফলাফল ধরে নেয় যে ধারকের ধারকতা [math]C[/math] অপরিবর্তিত (প্লেটের জ্যামিতি বা মধ্যস্থক বদলেনি); যদি প্রকৃতপক্ষে চার্জ [math]Q[/math] অপরিবর্তিত থেকে ভোল্টেজ বদলে যায় (অর্থাৎ [math]C[/math] পরিবর্তিত হয়), তখন শক্তির সূত্র [math]U=Q^{2}/(2C)[math] অনুযায়ী পরিবর্তন ভিন্ন হবে।
+
+Sub-Questions:
+

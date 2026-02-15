@@ -1,0 +1,228 @@
+================================================================================
+Question #1 (ID: 408731)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2010-2011 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+দুটি ভেক্টর [math]\overline{\mathrm{P}}=2 \overline{\mathrm{i}}-3 \overline{\mathrm{j}}-\overline{\mathrm{k}}[/math] এবং [math]\overline{\mathrm{Q}}=\overline{\mathrm{i}}+4 \overline{\mathrm{j}}-2 \overline{\mathrm{k}}[/math] দ্বারা গঠিত সমতলের উপর একক লম্ব ভেক্টর কত?
+
+Options:
+
+
+Correct Answer: D.
+
+Solution:
+[math]\overrightarrow{\mathrm{P}} \times \overrightarrow{\mathrm{Q}}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & -3 & -1 \\1 & 4 & -2\end{array}\right|[/math]
+ [math]=\hat{\mathrm{i}}(6+4)+\hat{\mathrm{j}}(-1+4)[/math]
+ [math]+\hat{\mathrm{k}}(8+3)[/math]
+ [math]=10 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}[/math]
+ [math]+11 \hat{\mathrm{k}}[/math]
+ [math]|\overrightarrow{\mathrm{P}} \times \overrightarrow{\mathrm{Q}}|[/math]
+ [math]=\sqrt{10^{2}+3^{2}+11^{2}}[/math]
+ [math]=\sqrt{230} \therefore[/math]
+নির্ণেয় একক ভেক্টর [math]=\pm \frac{\overrightarrow{\mathrm{P}} \times \overrightarrow{\mathrm{Q}}}{|\overrightarrow{\mathrm{P}} \times \overrightarrow{\mathrm{Q}}|}[/math]
+ [math]=\pm \frac{1}{\sqrt{230}}[/math]
+ [math](10 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}+11 \hat{\mathrm{k}})[/math]
+
+
+Explanation:
+সমতলের সাধারণ স্বরূপ ভেক্টরটি হলো ক্রস-প্রডাক্ট, এবং এখানে
+[math]\overline{\mathrm{P}}\times\overline{\mathrm{Q}}=10\overline{\mathrm{i}}+3\overline{\mathrm{j}}+11\overline{\mathrm{k}}[/math]. একক লম্ব ভেক্টর পেতে এটিকে তার মাত্রা [math]\sqrt{230}[/math] দ্বারা ভাগ করলে পাই
+[math]\pm\frac{1}{\sqrt{230}}\,(10\overline{\mathrm{i}}+3\overline{\mathrm{j}}+11\overline{\mathrm{k}})[/math], তাই (D) সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408737)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+(i) আটলান্টিক মহাসাগরে দুইটি সাবমেরিন সরলরেখা বরাবর চলছে। মূলবিন্দু [math]O[/math] এর সাপেক্ষে তাদের গতিপথের ভেক্টর
+
+সমীকরণ যথাক্রমে: [math]r=3 \hat{i}+4 \hat{j}-5 \hat{k}+\lambda[/math] [math](\hat{i}-2 \hat{j}+2 \hat{k})[/math] এবং [math]r=9 \hat{i}+\hat{j}-2 \hat{k}[/math] [math]+\mu(4 \hat{i}+\hat{j}-\hat{k})[/math]
+
+(ii) P বিন্দুর স্থানাঙ্ক [math]( 6,0, − 2 )[/math] এবং [math]Q[/math] বিন্দুর অবস্থান ভেক্টর [math]10 \hat{j}-11 \hat{k}[/math]
+
+Options:
+ক. দেখাও যে, সাবমেরিন দুইটির গতিপথ পরস্পর লম্ব।
+খ. সাবমেরিনদ্বয়ের গতিপথের ছেদবিন্দু [math]\mathrm A[/math] এর অবস্থান ভেক্টর নির্ণয় কর।
+গ. প্রতি একক দূরত্ব [math]10 \sqrt{217}[/math] মিটার হলে [math]\text { PQ }[/math] দূরত্ব কিলোমিটারে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]r_{1}=3 \hat{\mathrm i}+4 \hat{j}-5 \hat{k}[/math]
+ [math]+\lambda(\hat{\mathrm i}-2 \hat{j}+2 \hat{k})[/math]
+ [math]r_{2}=9 \hat{\mathrm i}+\hat{\mathrm j}-2 \hat{k}[/math]
+ [math]+\mu(4 \hat{\mathrm i}+\hat{\mathrm j}-\hat{k})[/math]
+দিক নির্দেশক ভেক্টর ব্যবহার করে ।[math]\mathbf{a}=\hat{\mathrm i}-2 \hat{\mathrm j}+2 \hat{\mathrm k} ;[/math]
+ [math]\mathbf{b}=4 \hat{\mathrm i}+\hat{\mathrm j}-\hat{\mathrm k}[/math]
+a ও b পরস্পর লম্ব হবে যদি, [math]\mathbf{a} \cdot \mathbf{b}=0[/math]
+ হয়এখন, [math]\mathbf{a} \cdot \mathbf{b}=(\hat{\mathrm i}-2 \hat{\mathrm j}+2 \hat{k})[/math]
+ [math]\cdot(4 \hat{\mathrm i}+\hat{\mathrm j}-\hat{k})[/math]
+ [math]=4-2-2[/math]
+ [math]=0[/math]
+সুতরাং সাবমেরিন দুটির গতিপথ পরস্পর লম্ব। (দেখানো হলো)[math]\\[/math]
+ খ [math]r_{1}=3 \hat{\mathrm i}+4 \hat{j}-5 \hat{k}[/math]
+ [math]+\lambda(\hat{\mathrm i}-2 \hat{\mathrm j}+2 \hat{k})[/math]
+ [math]=\left(\begin{array}{c}3+\lambda \\4-2 \lambda \\-5+2 \lambda\end{array}\right)[/math]
+ [math]r_{2}=9 \hat{\mathrm i}+\hat{\mathrm j}-2 \hat{k}[/math]
+ [math]+\mu(4 \hat{\mathrm i}+\hat{\mathrm j}-\hat{k})[/math]
+ [math]=\left(\begin{array}{c}9+4 \mu \\1+\mu \\-2-\mu\end{array}\right)[/math]
+ছেদবিন্দুর স্থানাঙ্কের ক্ষেত্রে, [math]\left(\begin{array}{c}3+\lambda \\4-2 \lambda \\-5+2 \lambda\end{array}\right)[/math]
+ [math]=\left(\begin{array}{c}9+4 \mu \\1+\mu \\-2-\mu\end{array}\right)[/math]
+অর্থাৎ [math]3+\lambda=9+4 \mu[/math]
+ [math]\ldots \ldots \text { (i) }[/math]
+ [math]4-2 \lambda=1+\mu[/math]
+ [math]\ldots \ldots \text { (ii) }[/math]
+(i) নং কে 2 দ্বারা গুণ করে (ii) নং এর সাথে যোগ করি,[math]6+2[/math]
+ [math]\lambda+4-2[/math]
+ [math]\lambda=18+8 \mu+1+\mu[/math]
+ [math]= 10=19+9 \mu \therefore[/math]
+ [math]\mu=-1[/math]
+ [math]\mu[/math]
+ এর মান (i) নং এ বসিয়ে, [math]3+\lambda=9+4(-1) \therefore \lambda=2[/math]
+এখন যদি এদের গতিপথ পরস্পর ছেদ করে, তবে[math]-5+2 \lambda=-2-\mu \text {....... }[/math]
+ (iii) সমীকরণটি অবশ্যই সত্য হবে।সুতরাং [math]\mu=-1[/math]
+ এবং [math]\lambda=2[/math]
+ (iii) নং এ বসিয়ে পাই,বামপক্ষ [math]=-5+2.2=-1[/math]
+ডানপক্ষ [math]=-2-(-1)=-1[/math]
+অর্থাৎ তাদের গতিপথ পরস্পরকে ছেদ করে এবং ছেদবিন্দু[math]\left(\begin{array}{c}9+4 \mu \\1+\mu \\-2-\mu\end{array}\right)[/math]
+ [math]=\left(\begin{array}{c}9+4(-1) \\1+(-1) \\-2-(-1)\end{array}\right)[/math]
+ [math]=\left(\begin{array}{r}5 \\0 \\-1\end{array}\right)[/math]
+অর্থাৎ A বিন্দুর অবস্থান ভেক্টর [math]5 \hat{\mathrm{i}}-\hat{\mathrm{k}} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গP বিন্দুর স্থানাঙ্ক [math]( 6, 0, -2)[/math]
+ [math]\therefore P[/math]
+ বিন্দুর অবস্থান ভেক্টর, [math]\vec {O P}=6 \hat{i}-2 \hat{k}[/math]
+আবার, [math]Q[/math]
+ বিন্দুর অবস্থান ভেক্টর, [math]\vec {O Q}[/math]
+ [math]=10 \hat{j}-11 \hat{k}[/math]
+ [math]\therefore \vec {P Q}[/math]
+ [math]=\vec {O Q}-\vec {O P}[/math]
+ [math]=-6 \hat{i}+10 \hat{j}-9 \hat{k}[/math]
+ [math]\therefore|\vec {P Q}|[/math]
+ [math]=\sqrt{(-6)^{2}+(10)^{2}+(-9)^{2}}[/math]
+ [math]=\sqrt{217}[/math]
+ [math]\therefore \mathrm{PQ}[/math]
+ দূরত্ব [math]=\sqrt{217}[/math]
+ [math]\times 10 \sqrt{217}[/math]
+ [math]=10 \times 217[/math]
+ [math]= 2170[/math]
+ মিটার [math]= 2.17[/math]
+ কিলোমিটার
+
+Explanation:
+ব্যাখ্যা:
+
+ক দুটি গতিবেগ ভেক্টর হল [math]\mathbf v_1=(1,-2,2)[/math] এবং [math]\mathbf v_2=(4,1,-1)[/math]; তাদের ডট প্রোডাক্ট [math]\mathbf v_1\cdot\mathbf v_2=1\cdot4+(-2)\cdot1+2\cdot(-1)=4-2-2=0[/math], ফলে গতিপথদ্বয় পরস্পর লম্ব। 
+
+খ সমতুল্য কোর্ডিনেট থেকে সমীকরণগুলো: [math]3+\lambda=9+4\mu,\;4-2\lambda=1+\mu,\;-5+2\lambda=-2-\mu[/math]; এগুলো থেকে [math]\lambda=2,\;\mu=-1[/math] পেলে ছেদবিন্দু হবে [math]\mathbf r=(3,4,-5)+2(1,-2,2)=(5,0,-1)[/math]। 
+
+গ [math]\overrightarrow{PQ}=(0,10,-11)-(6,0,-2)=(-6,10,-9)[/math] হওয়ায় দূরত্ব এককগুলিতে [math]\sqrt{(-6)^2+10^2+(-9)^2}=\sqrt{217}[/math]; প্রতি একক হল [math]10\sqrt{217}\text{ m}[/math] হিসেবে প্রকৃত দূরত্ব [math]\sqrt{217}\times10\sqrt{217}=10\times217=2170\text{ m}=2.17\text{ km}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408738)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Govt. Edward College, Pabna
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{A}}=\hat{\mathrm{i}}-2 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}, \overrightarrow{\mathrm{B}}=6 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}+2 \hat{\mathrm{k}}, \overrightarrow{\mathrm{C}}=\hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math]
+
+Options:
+ক. উদাহরণসহ বি-প্রতিসম ম্যাট্রিক্স ব্যাখ্যা কর ।
+খ. [math]\vec{A}[/math] বিন্দুগামী এবং [math]\overrightarrow{\mathrm{B}}[/math] ভেক্টরের সমান্তরাল সরলরেখার পরামিতিক সমীকরণ নির্ণয় কর।
+গ. উদ্দীপকে উল্লেখিত ভেক্টরগুলির [math]\hat{\mathrm{i}}, \hat{\mathrm{j}}, \hat{\mathrm{k}}[/math] এর সহগ দ্বারা গঠিত ম্যাট্রিক্স [math]P[/math] হলে নির্ণায়কের সাহায্যে [math]\mathrm{PX}=\mathrm{Q}[/math] সমীকরণ জোটের সমাধান কর যেখানে [math]X=\left[\begin{array}{ll}x & z\end{array}\right]^{t}[/math] এবং [math]Q=\left[\begin{array}{lll}2 & 3 & 4\end{array}\right]^{t} .[/math]
+
+
+Correct Answer: 
+
+Solution:
+কবি-প্রতিসম ম্যাট্রিক্স : একটি বর্গ ম্যাট্রিক্স [math]A[/math]
+ কে বি-প্রতিসম বলা হয় যদি [math]A^{\mathrm{t}}=-\mathrm{A}[/math]
+ হয়।[math]A=\left[\begin{array}{ccc}0 & x & y \\-x & 0 & z \\-y & -z & 0\end{array}\right][/math]
+ হলে,[math]A^{\prime}=\left[\begin{array}{ccc}0 & x & y \\-x & 0 & z \\-y & -z & 0\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}0 & -x & -y \\x & 0 & -z \\y & z & 0\end{array}\right][/math]
+ [math]=-\left[\begin{array}{rrr}0 & x & y \\-x & 0 & z \\-y & -z & 0\end{array}\right][/math]
+ [math]=-A[/math]
+ [math]\therefore \quad \mathrm{A}[/math]
+ একটি বি-প্রতিসম ম্যাট্রিক্স ।[math]\\[/math]
+ খদেওয়া আছে, [math]\vec{A}=\hat{\mathrm{i}}-2 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}[/math]
+এবং [math]\vec{B}=6 \hat{i}+3 \hat{j}+2 \hat{k}[/math]
+ [math]\overrightarrow{\mathbf{A}}[/math]
+ বিন্দুগামী [math]\overrightarrow{\mathbf{B}}[/math]
+ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর সমীকরণ[math]\vec{r}=\overrightarrow{\mathrm{A}}+\overrightarrow{\mathrm{Bt}}t[/math]
+ যেখানে [math]t[/math]
+ ধ্রুবক[math]=\hat{i}-2 \hat{j}-2 \hat{k}[/math]
+ [math]+(6 \hat{i}+3 \hat{j}+2 \hat{k}) t[/math]
+ [math]\Rightarrow \vec{r}=(1+6 t) \hat{i}+(-2+3 t)[/math]
+ [math]\hat{j}+(-2+2 t) \hat{k}[/math]
+ [math]\Rightarrow x \hat{i}+y \hat{j}+z \hat{k}[/math]
+ [math]=(1+6 t) \hat{i}+(-2+3 t) \hat{j}[/math]
+ [math]+(-2+2 t) \hat{k} \text { । }[/math]
+ [math]\therefore \mathrm{x}=1+6 \mathrm{t}[/math]
+ [math]y=-2+3 t[/math]
+এবং [math]z=-2+2 t[/math]
+ ইহারাই নির্ণেয় পরামিতিক সমীকরণ[math]\\[/math]
+ গদেওয়া আছে, [math]\vec{A}=\hat{\mathrm{i}}-2 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}, \overrightarrow{\mathrm{B}}[/math]
+ [math]=6 \hat{\mathrm{i}}+3 \hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math]
+এবং [math]\overrightarrow{\mathrm{C}}=\hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}} \text {, }[/math]
+ভেক্টরগুলির [math]\hat{\mathrm{i}}, \hat{\mathrm{j}}, \hat{\mathrm{k}}[/math]
+ এর সহগ দ্বারা গঠিত ম্যাট্রিক্স [math]P[/math]
+ হলে,[math]P=\left[\begin{array}{rrr}1 & -2 & -2 \\6 & 3 & 2 \\1 & -1 & 2\end{array}\right][/math]
+এখানে, [math]X=\left[\begin{array}{lll}x & y & z\end{array}\right]^{t}[/math]
+ এবং [math]Q=\left[\begin{array}{lll}2 & 3 & 4\end{array}\right]^{t}[/math]
+ [math]\mathbf{P X}=\mathbf{Q}[/math]
+ [math]\Rightarrow \left[\begin{array}{rrr}1 & -2 & -2 \\6 & 3 & 2 \\1 & -1 & 2\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{cc}\mathrm{x} z\end{array}\right]^{\mathrm{t}}=\left[\begin{array}{lll}2 & 3 & 4\end{array}\right]^{t}[/math]
+ [math]\Rightarrow \left[\begin{array}{rrr}1 & -2 & -2 \\6 & 3 & 2 \\1 & -1 & 2\end{array}\right][/math]
+ [math]\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}2 \\3 \\4\end{array}\right][/math]
+ [math]\Rightarrow \left[\begin{array}{c}x-2 y-2 z \\6 x+3 y+2 z \\x-y+2 z\end{array}\right][/math]
+ [math]=\left[\begin{array}{l}2 \\3 \\4\end{array}\right][/math]
+ [math]\therefore x-2 y-2 z=2[/math]
+ [math]6 x+3 y+2 z=3[/math]
+ [math]x-y+2 z=4[/math]
+ [math]\therefore D=\left|\begin{array}{ccc}1 & -2 & -2 \\6 & 3 & 2 \\1 & -1 & 2\end{array}\right|[/math]
+ [math]=1(6+2)+2(12-2)[/math]
+ [math]-2(-6-3)[/math]
+ [math]=8+20+18=46[/math]
+ [math]\mathrm{D}_{\mathrm{x}}=\left|\begin{array}{rrr}2 & -2 & -2 \\3 & 3 & 2 \\4 & -1 & 2\end{array}\right|[/math]
+ [math]=2(6+2)+2(6-8)[/math]
+ [math]-2(-3-12)[/math]
+ [math]=16-4+30=42[/math]
+ [math]D_{y^{\prime}}=\left|\begin{array}{rrr}1 & 2 & -2 \\6 & 3 & 2 \\1 & 4 & 2\end{array}\right|[/math]
+ [math]=1(6-8)-2(12-2)[/math]
+ [math]-2(24-3)[/math]
+ [math]=-2-20-42[/math]
+ [math]=-64[/math]
+ [math]D_{\mathrm{z}}=\left|\begin{array}{ccc}1 & -2 & 2 \\6 & 3 & 3 \\1 & -1 & 4\end{array}\right|[/math]
+ [math]=1(12+3)+2[/math]
+ [math](24-3)+2(-6-3)[/math]
+ [math]=15+42[/math]
+ [math]-18=39[/math]
+ [math]\therefore \quad x =\frac{D_{x}}{D}=\frac{42}{46}[/math]
+ [math]=\frac{21}{23}[/math]
+ [math]y=\frac{D_{x}}{D}=\frac{-64}{46}[/math]
+ [math]=\frac{-32}{23}[/math]
+ [math]z=\frac{D_{z}}{D}[/math]
+ [math]=\frac{39}{46}[/math]
+নির্ণেয় সমাধান [math](x, y, z)=\left(\frac{21}{23}, \frac{-32}{23}, \frac{39}{46}\right) \text {. }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক বি-প্রতিসম (বিপরীত‑প্রতিসম) ম্যাট্রিক্সের সংজ্ঞা হলো [math]A^{T}=-A[/math], ফলে এর প্রধান কর্ণে শূন্য থাকে; উদাহরণ: [math]\begin{pmatrix}0&2&-1\\-2&0&3\\1&-3&0\end{pmatrix}[/math]।
+
+খ সরলরেখা যে বিন্দুতে ঘটেছে তার অবস্থান ভেক্টর [math]\vec A[/math] এবং দিকনির্দেশক [math]\vec B[/math] হলে পরামিতিক সমীকরণ [math]\vec r=\vec A+t\vec B[/math]; এখানে [math]\vec r=(1,-2,-2)+t(6,3,2) বা সমতুল্যভাবে [math]x=1+6t,\ y=-2+3t,\ z=-2+2t[/math]।
+
+গ P‑কে তিনটি ভেক্টরের [math]\hat{\imath},\hat{\jmath},\hat{k}[/math] সহগ দিয়ে কলাম মেনেই নিয়ে [math]P=\begin{pmatrix}1&6&1\\-2&3&-1\\-2&2&2\end{pmatrix}[/math] গ্রহণ করলে [math]PX=Q[/math] সমাধানে ক্রামারের নিয়ম বা সরাসরি সমীকরণ বিঘ্নে করলে পাওয়া যায় [math]X=\begin{pmatrix}-25/23\\[4pt]10/23\\[4pt]11/23\end{pmatrix}[/math]।
+
+Sub-Questions:
+

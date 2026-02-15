@@ -1,0 +1,120 @@
+================================================================================
+Question #1 (ID: 413251)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কণা O বিন্দুকে কেন্দ্র করে 0.02m ব্যাসার্ধের ABCD বৃত্তাকার পথে ঘড়ির কাটার গতির দিকে। [math]1 \mathrm{\ rads}^{-1}[/math] কৌণিক বেগে ঘুরছে এবং 10 সেকেণ্ডে সময়ে A বিন্দু থেকে P বিন্দুতে আসে।
+
+
+[Image]
+
+
+Options:
+গ. উদ্দীপকে বর্ণিত কণাটির X অক্ষ বরাবর গতির অন্তরক সমীকরণটি প্রতিপাদন কর।
+
+
+Correct Answer: 
+
+Solution:
+গ [math]\frac{d^{2} x}{d t^{2}}+x=0[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ সমাধান: বৃত্তীয় গতিতে X-অক্ষের স্থানাংক দেয় [math]x=r\cos\theta[/math]. A-এ [math]\theta(0)=0[/math] ধরে এবং ঘড়ির কাটার দিকে ঘূর্ণনের ফলে [math]\theta(t)=\theta_0-\omega t=-t[/math] (কারণ [math]\omega=1\ \mathrm{rad/s}[/math]), তাই [math]x(t)=0.02\cos(-t)=0.02\cos t\ \text{মি}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 413252)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পদার্থবিজ্ঞানের শিক্ষক ড. ইমতিয়াজ ক্লাসে এসে বোর্ডে লিখলেন : [math]25 \frac{d^{2} x}{d^{2}}+400 x=0[/math] এবং বললেন এটি সরল ছন্দিত স্পন্দনে গতিশীল কোনো একটি কণার ব্যবকলনীয় সমীকরণ।
+
+Options:
+ঘ. সমীকরণটির একটি সমাধান বের কর এবং দেখাও যে, সমাধানটি sine বা cosine অপেক্ষক হবে।
+
+
+Correct Answer: 
+
+Solution:
+ঘপ্রদত্ত সমীকরণ,[math]\begin{array}{l}25 \frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}+400 \mathrm{x}=0 \\\Rightarrow \frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}+4^{2} \mathrm{x}=0 \\\Rightarrow \frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}=-4^{2} \mathrm{x}\end{array}[/math]
+এই ধরণের সমীকরণের সমাধান সাধারণত sin বা cosine এর অপেক্ষক হয়। এখন ধরি,[math]\mathrm{x}=\mathrm{A} \sin \omega \mathrm{t}[/math]
+তাহলে,[math]\frac{\mathrm{dx}}{\mathrm{dt}}=\mathrm{A} \omega \cos \omega \mathrm{t}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}=\mathrm{A} \omega^{2} \cdot \sin \omega \mathrm{t}[/math]
+এখন, [math]\omega=4[/math]
+ হলে,[math]\Rightarrow[/math]
+ [math]\frac{d^{2} x}{d t^{2}}=-4^{2} x[/math]
+এই মান নিলে, [math]x=A \sin 4 t[/math]
+এটাই প্রদত্ত ব্যবকলনীয় সমীকরণটির সমাধান।
+
+Explanation:
+ঘ সমাধান: একটি সহজ পরীক্ষা হল [math]x=\sin4t[/math] ধরে নেওয়া; তখন [math]\frac{d^{2}x}{dt^{2}}=-16\sin4t[/math]। সমীকরণে বসালে [math]25(-16\sin4t)+400\sin4t=0[/math] হয়, তাই এটি সমীকরণটি সন্তুষ্ট করে। সাধারণ সমাধান হবে [math]x=A\cos4t+B\sin4t[/math], অর্থাৎ সমাধানগুলো sine বা cosine রুপেই থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 413249)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]\dfrac{d^{2} x}{d t^{2}}+9 x=0[/math] সমীকরণ থেকে কৌণিক কম্পাঙ্কের মান নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]3 \mathrm{rds}^{-1}[/math]
+)[math]\\[/math]
+Solution : [math]\dfrac{d x}{d t}=v, \dfrac{d^{2} x}{d t^{2}}=a[/math]
+ [math]\hspace{1.5 cm}[/math]
+ [math]\text {(a) } \dfrac{d^{2} x}{d t^{2}}+9 x=0 \Rightarrow a=-3^{2} x[/math]
+ [math]\hspace{1.5 cm}\ \ a=-\omega^{2} x[/math]
+ এর সাথে তুলনা করে পাই, [math]\omega=3 \rm{rds}^{-1} \text { [Ans.] }[/math]
+
+
+Explanation:
+সমাধান: সাধারণ সরল হারমোনিক অস্থিরতার সমীকরণ হল [math]\dfrac{d^{2}x}{dt^{2}}+\omega^{2}x=0[/math]; প্রদত্ত সমীকরণের সঙ্গে তুলনা করলে [math]\omega^{2}=9[/math] হয়, তাই কোণিক কম্পাঙ্কটি [math]\omega=3[/math] (ধনাত্মক মান)।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 413250)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{d^{2} x}{d t^{2}}+\omega^{2} x=0[/math] সরল দোলন গতির অন্তরক সমীকরণ। এর = সমাধান- লিখতে বলায় শামীম লিখলো [math]x=B \cos (\omega t+\alpha)[/math] এবং রিমঝিম লিখলো [math]x=C \tan (\omega t+\varphi)[/math]।
+
+Options:
+ঘ. গাণিতিক বিশ্লেষণের মাধ্যমে শামীম ও রিমঝিমের সমাধান যথার্থ কি না যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘশামীমের সমাধান,[math]\begin{array}{l}\mathrm{x}=\mathrm{B} \cos (\omega \mathrm{t}+\alpha) \\\therefore \frac{\mathrm{dx}}{\mathrm{dt}}=-\mathrm{B} \omega \sin (\omega \mathrm{t}+\alpha)\end{array}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}=-\mathrm{B} \omega^{2} \cos (\omega \mathrm{t}+\alpha)[/math]
+ [math]=-\omega^{2}[\mathrm{~B} \cos (\omega \mathrm{t}+\alpha)]=-\omega^{2} \mathrm{x}[/math]
+ [math]\therefore \frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}+\omega^{2} \mathrm{x}=0[/math]
+ [math]\therefore \mathrm{x}=\mathrm{B} \cos (\omega \mathrm{t}+\alpha)[/math]
+ সরল দোলন গতির একটি সমাধান।আবার, রিমঝিমের সমাধান,[math]\begin{array}{l}\mathrm{x}=\mathrm{C} \tan (\omega \mathrm{t}+\varphi) \\\therefore \frac{\mathrm{dx}}{\mathrm{dt}}=\mathrm{C} \omega \sec ^{2}(\omega \mathrm{t}+\varphi) \\\therefore \frac{\mathrm{d}^{2} \mathrm{x}}{\mathrm{dt}^{2}}=\frac{\mathrm{d}}{\mathrm{dt}}\left[\mathrm{C} \omega \sec ^{2}(\omega \mathrm{t}+\varphi)\right]\end{array}[/math]
+ [math]\begin{array}{l}=C \omega \cdot 2 \omega \sec (\omega t+\varphi) \sec (\omega t+\varphi) \cdot \tan (\omega t+\varphi) \\=2 C \omega^{2} \sec ^{2}(\omega t+\varphi) \tan (\omega t+\varphi)\end{array}[/math]
+এখন,[math]\frac{d^{2} x}{d t^{2}}+\omega^{2} x=2 C \omega^{2} \sec ^{2}(\omega t+\varphi) \tan (\omega t+\varphi)+C \omega^{2} \sec (\omega t+\varphi) 
+eq 0[/math]
+ [math]\therefore \mathrm{x}=\mathrm{C} \tan (\omega \mathrm{t}+\varphi)[/math]
+ সরল দোলন গতির সমাধান নয়।
+
+Explanation:
+ব্যাখ্যা: শামীমের ক্ষেত্রে, যদি [math]x=B\cos(\omega t+\alpha)[/math] হয় তাহলে [math]x'=-B\omega\sin(\omega t+\alpha)[/math] ও [math]x''=-B\omega^2\cos(\omega t+\alpha)=-\omega^2 x[/math], তাই সমীকরণটি পূরণ করে। রিমঝিমের ক্ষেত্রে, যদি [math]x=C\tan(\omega t+\varphi)[/math] হয় তাহলে [math]x'=C\omega\sec^2(\omega t+\varphi)[/math] এবং [math]x''=2C\omega^2\sec^2(\omega t+\varphi)\tan(\omega t+\varphi)[/math], ফলে সাধারণভাবে [math]x''+\omega^2 x=C\omega^2\tan(\omega t+\varphi)\big(2\sec^2(\omega t+\varphi)+1\big)\neq0[/math] এবং [math]\tan[/math] এর অসীমতা থাকায় এটি সমাধান নয়।
+
+Sub-Questions:
+

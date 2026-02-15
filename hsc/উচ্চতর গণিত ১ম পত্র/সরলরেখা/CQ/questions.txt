@@ -1,0 +1,1468 @@
+================================================================================
+Question #1 (ID: 470661)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2009-2010, 2005-2006 | Boards: Sylhet Board, Sylhet Board | Tags: Sylhet Board, Sylhet Board, Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]4 x+3 y-5=0[/math] এবং [math]2 y-x+3=0[/math] রেখা দুইটির অন্তর্ভূক্ত সূক্ষ্মকোণ [math]\theta[/math] হলে [math]\tan \theta[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]4 x+3 y-5=0[/math]
+ [math]\Rightarrow 3 y=-4 x+5[/math]
+ [math]\Rightarrow y[/math]
+ [math]=-\frac{4}{3} x+\frac{5}{3}[/math]
+ [math]\ldots \text { (i) }[/math]
+ [math]2 y-x+3=0[/math]
+ [math]\Rightarrow y[/math]
+ [math]=\frac{x}{2}-\frac{3}{2}[/math]
+ হলে [math]m_{1}=-\frac{1}{3} ; m_{2}=\frac{1}{2}[/math]
+ [math]\therefore \tan \theta[/math]
+ [math]=\pm \frac{m_{1}-m_{2}}{1+m_{1} m_{2}}[/math]
+ [math]=\pm \frac{-\frac{4}{3}-\frac{1}{2}}{1-\frac{4}{6}}[/math]
+ [math]=\pm\left(-\frac{11}{2}\right)[/math]
+ [math]\theta[/math]
+ যেহেতু সূক্ষ্মকোণ তাই [math]\tan \theta[/math]
+ [math]=11 / 2[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম রেখার ঢাল [math]m_1=-\tfrac{4}{3}[/math] এবং দ্বিতীয় রেখার ঢাল [math]m_2=\tfrac{1}{2}[/math]. কোণ সূত্র [math]\tan\theta=\left|\dfrac{m_2-m_1}{1+m_1m_2}\right|[/math] প্রয়োগ করলে [math]\tan\theta=\left|\dfrac{\tfrac{1}{2}-(-\tfrac{4}{3})}{1+(-\tfrac{4}{3})\cdot\tfrac{1}{2}}\right|=\left|\dfrac{11/6}{1/3}\right|=\dfrac{11}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 417903)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+A ও B বিন্দু দুটির পোলার স্থানাঙ্ক যথাক্রমে [math](5 \sqrt{2}, \pi / 4)[/math] এবং [math](5 \sqrt{2}, 0)[/math] । D, AB রেখার মধ্যবিন্দু । D এর পোলার স্থানাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: .
+
+Solution:
+Hints: পোলার স্থানাঙ্ক (r, B) এবং কার্তেসীয় স্থানাঙ্ক (x, y) হলে,[math]\mathrm{x}=\mathrm{r} \cos \theta, \mathrm{y}=\mathrm{r} \sin \theta \text { and } \mathrm{r}=\sqrt{x^{2}+y^{2}}[/math]
+Solve: [math]\mathrm{A}\left(5 \sqrt{2}, \frac{\pi}{4}\right)[/math]
+ ) এর কার্তেসীয় স্থানাঙ্ক [math]=(r \cos \theta, r \sin \theta)[/math]
+ [math]=\left(5 \sqrt{2} \cos \frac{\pi}{4}, 5 \sqrt{2} \sin \frac{\pi}{4}\right)=(5,5)[/math]
+ [math]\mathrm{B}(5 \sqrt{2}, 0)[/math]
+ ) এর কার্তেসীয় স্থানাঙ্ক [math]=(5 \sqrt{2} \cos 0,5 \sqrt{2} \sin 0)[/math]
+ [math]=(5 \sqrt{2}, 0)[/math]
+D এর পোলার স্থানাঙ্ক নির্ণয়: r = [math]r=\sqrt{\left(\frac{5+5 \sqrt{2}}{2}\right)^{2}+\left(\frac{5}{2}\right)^{2}}[/math]
+ [math]=\sqrt{\frac{25+50 \sqrt{2}+50}{4}+\frac{25}{4}}[/math]
+ [math]=\sqrt{\frac{100+50 \sqrt{2}}{4}}[/math]
+ [math]=\frac{\sqrt{100+50 \sqrt{2}}}{2}[/math]
+ [math]\theta=\tan ^{-1}\left(\frac{5 / 2}{\frac{5+5 \sqrt{2}}{2}}\right)[/math]
+ [math]\text { Ans. }\left(\frac{\sqrt{100+50 \sqrt{2}}}{2}, \tan ^{-1}\left(\frac{5 / 2}{\frac{5+5 \sqrt{2}}{2}}\right)\right)[/math]
+ যা অপশনে নেই।
+
+Explanation:
+ব্যাখ্যা: A ও B এর কার্টেসীয় স্থানাঙ্ক হলো [math]A=(5,5)[/math] এবং [math]B=(5\sqrt{2},0)[/math], অতএব মধ্যবিন্দু [math]D=\left(\frac{5+5\sqrt{2}}{2},\frac{5}{2}\right)[/math]. এর কৌণিক কোষক [math]\theta=\arctan\frac{5/2}{(5+5\sqrt{2})/2}=\arctan\frac{1}{1+\sqrt{2}}=\arctan(\sqrt{2}-1)=\frac{\pi}{8}[/math], এবং রেডিয়াস [math]r=\sqrt{x^2+y^2}=5\sqrt{\frac{2+\sqrt{2}}{2}}[/math]. তাই D এর পোলার স্থানাঙ্ক [math]\left(5\sqrt{\frac{2+\sqrt{2}}{2}},\frac{\pi}{8}\right)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 417904)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]x^{2}=1+2 y[/math] কে পোলার সমীকরণে প্রকাশ করলে-
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]r^{2} \cos ^{2} \theta[/math]
+ [math]=1+2 r \sin \theta[/math]
+ [math]\Rightarrow r^{2}\left(1-\sin ^{2} \theta\right)[/math]
+ [math]=1+2 r \sin \theta[/math]
+ [math]\Rightarrow r^{2}-(r \sin \theta+1)^{2}[/math]
+ [math]=0[/math]
+ [math]\Rightarrow r[/math]
+ [math]=\pm(r \sin \theta)+1[/math]
+ [math]\Rightarrow r(1 \pm \sin \theta)[/math]
+ [math]=1[/math]
+
+
+Explanation:
+x^2 = 1 + 2y কে পোলার সমীকরণে করতে [math]x=r\cos\theta,\; y=r\sin\theta[/math] বসালে [math]r^2\cos^2\theta=1+2r\sin\theta[/math] পাওয়া যায়। এটি [math]r^2\cos^2\theta-2r\sin\theta-1=0[/math] ধাঁচের দ্বিঘাত সমীকরণ, সমাধান দিলে [math]r=\dfrac{\sin\theta\pm1}{\cos^2\theta} পাওয়া যায় এবং অপশন C ঠিক সেই ধনাত্মক শাখা [math]r=\dfrac{1+\sin\theta}{\cos^2\theta}[/math] এর সাথে মিলে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 417783)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+y = 7x + 9 রেখার সাথে লম্ব রেখার ঢাল কত ?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+y = 7x+9 এর ঢাল , m = 7y = 7x + 9 রেখার সাথে লম্ব রেখার ঢাল [math]m_1[/math]
+ হলে পাই,[math]m \times m_{1}=-1 \\\Rightarrow 7 \times m_{1}=-1 \\\Rightarrow m_{1}=-\frac{1}{7}[/math]
+
+
+Explanation:
+রেখার সমীকরণ [math]y=7x+9[/math]-এ ঢাল হল [math]7[/math]. লম্ব রেখার ঢাল হবে মূল ঢালের নেতিবাচক বিপরীত, অর্থাৎ [math]-\tfrac{1}{7}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 417784)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2023-2024 | Boards:  | Tags: University of Dhaka (A Unit)
+--------------------------------------------------------------------------------
+Question:
+y = 7x + 9 রেখার সাথে লম্ব রেখার ঢাল কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+y = 7x + 9 এর ঢাল, m = 7y = 7x + 9 রেখার সাথে লম্ব রেখার ঢাল [math]m_1[/math]
+ হলে পাই,[math]m \times m_{1}=-1 \Rightarrow 7 \times m_{1}=-1 \Rightarrow m_{1}=-\frac{1}{7}[/math]
+
+
+Explanation:
+রেখার ঢাল হল [math]7[/math], এবং লম্ব রেখার ঢালটি মূল ঢালের ঋণাত্মক প্রতিলোম্বর হয়; সুতরাং লম্ব রেখার ঢাল [math]-\frac{1}{7}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 200983)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Jahangirnagar University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+যে সরলরেখা [math](-1,3)[/math] ও [math]( 4, − 2 )[/math] বিন্দু দিয়ে যায়, তার সমীকরণ নির্ণয় করে অক্ষ দুইটির মধ্যবর্তী খণ্ডিত অংশের দৈর্ঘ্য বের করলে তা কোনটি হবে?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]\frac{x+1}{-1-4}[/math]
+ [math]=\frac{y-3}{3+2}[/math]
+ [math]\Rightarrow-x-1=y-3[/math]
+ [math]\Rightarrow x+y=2[/math]
+ [math]\Rightarrow \frac{x}{2}+\frac{y}{2}[/math]
+ [math]=1[/math]
+
+
+Explanation:
+
+
+[math]\therefore d=\sqrt{2^{2}+2^{2}}=2 \sqrt{2}[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 200984)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Jahangirnagar University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+যে সরলরেখা [math](3, 6)[/math] বিন্দু দিয়ে যায় এবং মূলবিন্দু থেকে যার দূরত্ব [math]6[/math] একক তার সমীকরণ কোনটি হবে?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]y-6=m(x-3)[/math]
+ [math]\Rightarrow m x-y+6-3 m=0 ;[/math]
+ [math]\frac{6-3 m}{\sqrt{m^{2}+1}}[/math]
+ [math]=\pm 6[/math]
+ [math]\frac{2-m}{\sqrt{m^{2}+1}}[/math]
+ [math]=\pm 2[/math]
+ [math]\Rightarrow \frac{4+m^{2}-4 m}{m^{2}+1}=4[/math]
+ [math]\Rightarrow 4+m^{2}-4 m[/math]
+ [math]=4 m^{2}+4[/math]
+ [math]\Rightarrow 3 m^{2}+4 m=0[/math]
+ [math]\Rightarrow m=0,[/math]
+ [math]\frac{-4}{3}[/math]
+ [math]y-6=-\frac{4}{3}(x-3)[/math]
+ [math]\Rightarrow 3 y-18[/math]
+ [math]=-4 x+12 \quad[/math]
+ [math]\therefore 4 x+3 y-30=0[/math]
+
+
+Explanation:
+ব্যাখ্যা: অপশন A-এর সমীকরণে (3,6) বসালে সমীকরণটি সত্য হয়, তাই রেখাটি ওই বিন্দু দিয়ে যায়। সাধারণ রেখার সমীকরণ [math]ax+by+c=0[/math]-এর জন্য মূলবিন্দু থেকে দূরত্ব [math]\dfrac{|c|}{\sqrt{a^2+b^2}}[/math], এবং অপশন A-এ এই মানটি বসালে [math]6[/math] পাওয়া যায়, কাজেই A সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 200976)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]x^{2}=1+2 y[/math] কে পোলার সমীকরণে প্রকাশ করলে-
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]r^{2} \cos ^{2} \theta[/math]
+ [math]=1+2 r \sin \theta[/math]
+ [math]\Rightarrow r^{2}\left(1-\sin ^{2} \theta\right)[/math]
+ [math]=1+2 r \sin \theta[/math]
+ [math]\Rightarrow r^{2}-(r \sin \theta+1)^{2}[/math]
+ [math]=0[/math]
+ [math]\Rightarrow r[/math]
+ [math]=\pm(r \sin \theta)+1[/math]
+ [math]\Rightarrow r(1 \pm \sin \theta)[/math]
+ [math]=1[/math]
+
+
+Explanation:
+সমাধান: কার্টেসিয়ান থেকে পোলারে রেখে [math](r\cos\theta)^2=1+2r\sin\theta[/math] হয়, যা সরলে পাওয়া যায় [math]r^2\cos^2\theta-2r\sin\theta-1=0[/math]. এই দ্বিঘাত সমীকরনের সূত্র প্রয়োগ করলে [math]r=\frac{2\sin\theta\pm2}{2\cos^2\theta}=\frac{\sin\theta\pm1}{\cos^2\theta}[/math] এবং মাঝে যে ধনাত্মক শাখা মিলবে তা হচ্ছে [math]r=\frac{1+\sin\theta}{\cos^2\theta}[/math], তাই বিকল্প C সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 200964)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+A ও B বিন্দু দুটির পোলার স্থানাঙ্ক যথাক্রমে [math](5 \sqrt{2}, \pi / 4)[/math] এবং [math](5 \sqrt{2}, 0)[/math] । D, AB রেখার মধ্যবিন্দু । D এর পোলার স্থানাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: .
+
+Solution:
+Hints: পোলার স্থানাঙ্ক (r, B) এবং কার্তেসীয় স্থানাঙ্ক (x, y) হলে,[math]\mathrm{x}=\mathrm{r} \cos \theta, \mathrm{y}=\mathrm{r} \sin \theta \text { and } \mathrm{r}=\sqrt{x^{2}+y^{2}}[/math]
+Solve: [math]\mathrm{A}\left(5 \sqrt{2}, \frac{\pi}{4}\right)[/math]
+ ) এর কার্তেসীয় স্থানাঙ্ক [math]=(r \cos \theta, r \sin \theta)[/math]
+ [math]=\left(5 \sqrt{2} \cos \frac{\pi}{4}, 5 \sqrt{2} \sin \frac{\pi}{4}\right)=(5,5)[/math]
+ [math]\mathrm{B}(5 \sqrt{2}, 0)[/math]
+ ) এর কার্তেসীয় স্থানাঙ্ক [math]=(5 \sqrt{2} \cos 0,5 \sqrt{2} \sin 0)[/math]
+ [math]=(5 \sqrt{2}, 0)[/math]
+D এর পোলার স্থানাঙ্ক নির্ণয়: r = [math]r=\sqrt{\left(\frac{5+5 \sqrt{2}}{2}\right)^{2}+\left(\frac{5}{2}\right)^{2}}[/math]
+ [math]=\sqrt{\frac{25+50 \sqrt{2}+50}{4}+\frac{25}{4}}[/math]
+ [math]=\sqrt{\frac{100+50 \sqrt{2}}{4}}[/math]
+ [math]=\frac{\sqrt{100+50 \sqrt{2}}}{2}[/math]
+ [math]\theta=\tan ^{-1}\left(\frac{5 / 2}{\frac{5+5 \sqrt{2}}{2}}\right)[/math]
+ [math]\text { Ans. }\left(\frac{\sqrt{100+50 \sqrt{2}}}{2}, \tan ^{-1}\left(\frac{5 / 2}{\frac{5+5 \sqrt{2}}{2}}\right)\right)[/math]
+ যা অপশনে নেই।
+
+Explanation:
+ব্যাখ্যা: Cartesian-এ রূপান্তর করলে A = [math](5,5)[/math], B = [math](5\sqrt{2},0)[/math] এবং মধ্যবিন্দু D = [math]\big(\frac{5+5\sqrt{2}}{2},\frac{5}{2}\big)[/math]. এরপর কোণ ও দূরত্ব গণনা করলে [math]\theta=\arctan\frac{5/2}{(5+5\sqrt{2})/2}=\arctan\frac{1}{1+\sqrt{2}}=\arctan(\sqrt{2}-1)=\frac{\pi}{8}[/math] এবং [math]r=\sqrt{\big(\frac{5+5\sqrt{2}}{2}\big)^2+\big(\frac{5}{2}\big)^2}=5\sqrt{1+\frac{\sqrt{2}}{2}}=\frac{5}{2}\sqrt{4+2\sqrt{2}}[/math]; অতএব D-এর পোলার স্থানাঙ্ক [math]\left(\frac{5}{2}\sqrt{4+2\sqrt{2}},\frac{\pi}{8}\right)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 200933)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2015-2016 | Boards:  | Tags: Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]x-3 y+4=0, x-6 y+5=0[/math] এবং [math]x+a y+2=0[/math] রেখাত্রয় সমবিন্দুগামী হলে তৃতীয় রেখার সাথে লম্ব এবং মূল বিন্দুগামী রেখার সমীকরণ কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+রেখাত্রয় সমবিন্দুগামী হলে, [math]\left|\begin{array}{ccc}1 & -3 & 4 \\1 & -6 & 5 \\1 & a & 2\end{array}\right|=0[/math]
+ [math]\Rightarrow 1(-12-5 a)+(-3)(5-2)+4(a+6)[/math]
+ [math]=0[/math]
+ [math]\Rightarrow-12-5 a-9+4 a+24=0[/math]
+ [math]\Rightarrow-a+3=0[/math]
+ [math]\Rightarrow a=3[/math]
+ [math]\therefore x+3 y+2=0[/math]
+ রেখার লম্ব এবং মূলবিন্দুগামী সরলরেখার সমীকরণ [math]3 x-y=0[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম দুই রেখার ছেদবিন্দু নির্ণয় করলে [math]x-3y+4=0[/math] ও [math]x-6y+5=0[/math] থেকে [math]y=\tfrac{1}{3},\; x=-3[/math] পাওয়া যায়। তৃতীয় রেখায় সেই বিন্দু বসালে [math]-3+a\cdot\tfrac{1}{3}+2=0[/math] থেকে [math]a=3[/math] পাওয়া যায়। তৃতীয় রেখাটি [math]x+3y+2=0[/math] বা ঢাল [math]-\tfrac{1}{3}[/math] হওয়ায় তার উপরস্পর্শী রেখার ঢাল [math]3[/math] এবং মূল বিন্দুগামী রেখা হবে [math]y=3x[/math] (অথবা [math]3x-y=0[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 200920)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2008-2009 | Boards:  | Tags: University of Rajshahi (A Unit), Islamic University, Bangladesh (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{ABC}[/math] এর ভরকেন্দ্র মূলবিন্দুতে এবং A ও B এর স্থানাঙ্ক যথাক্রমে 4, 7 ) ও (−2, 5) হলে, C এর স্থানাঙ্ক বের কর।
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+মূলবিন্দুর স্থানাঙ্ক (0, 0 )[math]\frac{4-2+x}{3}=0[/math]
+ [math]\Rightarrow x[/math]
+ [math]=-2[/math]
+এবং [math]\frac{-7+5+y}{3}=0[/math]
+ [math]\Rightarrow y=2[/math]
+ [math]\therefore C[/math]
+ [math]=(-2,2)[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভরকেন্দ্রের সমন্বয়গুলোর গড় শূন্য হলে [math]\frac{x_A+x_B+x_C}{3}=0[/math] এবং [math]\frac{y_A+y_B+y_C}{3}=0[/math]। তাই [math]x_C=-(4+(-2))=-2[/math] ও [math]y_C=-(7+5)=-12[/math], সুতরাং [math]C=(-2,-12)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 200897)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]y+3 x=1[/math] এবং [math]x-3 y+6=0[/math] রেখাদ্বয়ের মধ্যবর্তী কোণ কত?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]y=-3 x+1[/math]
+ [math]\ldots \text { (i) }[/math]
+ [math]3 y=x+6 \Rightarrow y=\frac{x}{3}+2[/math]
+ [math]\ldots \text { (ii) }[/math]
+ [math]\therefore[/math]
+ ঢালদ্বয়ের গুণফল [math]=-3 \cdot \frac{1}{3}[/math]
+ [math]=-1[/math]
+ [math]\therefore \theta[/math]
+ [math]=90^{\circ}[/math]
+
+
+Explanation:
+প্রথম রেখার ঢাল [math]m_1=-3[/math] (কারণ [math]y=1-3x[/math]) এবং দ্বিতীয় রেখার ঢাল [math]m_2=\tfrac{1}{3}[/math] (কারণ [math]y=\tfrac{1}{3}x+2[/math]). কারণ [math]m_1m_2=-1[/math], রেখাদ্বয় পরস্পর লম্ব হওয়ায় কোণ [math]90^\circ[/math], তাই সঠিক উত্তর C।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 200899)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2009-2010, 2005-2006 | Boards: Sylhet Board, Sylhet Board | Tags: Sylhet Board, Sylhet Board, Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]4 x+3 y-5=0[/math] এবং [math]2 y-x+3=0[/math] রেখা দুইটির অন্তর্ভূক্ত সূক্ষ্মকোণ [math]\theta[/math] হলে [math]\tan \theta[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]4 x+3 y-5=0[/math]
+ [math]\Rightarrow 3 y=-4 x+5[/math]
+ [math]\Rightarrow y[/math]
+ [math]=-\frac{4}{3} x+\frac{5}{3}[/math]
+ [math]\ldots \text { (i) }[/math]
+ [math]2 y-x+3=0[/math]
+ [math]\Rightarrow y[/math]
+ [math]=\frac{x}{2}-\frac{3}{2}[/math]
+ হলে [math]m_{1}=-\frac{1}{3} ; m_{2}=\frac{1}{2}[/math]
+ [math]\therefore \tan \theta[/math]
+ [math]=\pm \frac{m_{1}-m_{2}}{1+m_{1} m_{2}}[/math]
+ [math]=\pm \frac{-\frac{4}{3}-\frac{1}{2}}{1-\frac{4}{6}}[/math]
+ [math]=\pm\left(-\frac{11}{2}\right)[/math]
+ [math]\theta[/math]
+ যেহেতু সূক্ষ্মকোণ তাই [math]\tan \theta[/math]
+ [math]=11 / 2[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম রেখা থেকে [math]4x+3y-5=0\Rightarrow y=-\frac{4}{3}x+\frac{5}{3}[/math] তাই ঢাল [math]m_1=-\frac{4}{3}[/math], দ্বিতীয় রেখা থেকে [math]2y-x+3=0\Rightarrow y=\frac{1}{2}x-\frac{3}{2}[/math] তাই ঢাল [math]m_2=\frac{1}{2}[/math]. রেখাদ্বয়ের সূক্ষ্মকোণের সূত্রে [math]\tan\theta=\left|\frac{m_2-m_1}{1+m_1m_2}\right|[/math] হলে গাণিতিকভাবে [math]\tan\theta=\left|\frac{\frac{1}{2}-(-\frac{4}{3})}{1+(-\frac{4}{3})(\frac{1}{2})}\right|=\frac{11/6}{1/3}=\frac{11}{2}[/math], তাই উত্তর D সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 200874)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]y = 2[/math] এবং [math]2x – 2y + 3 = 0[/math] রেখাদ্বয়ের অন্তর্ভুক্ত কোণ কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]y=2 \quad \therefore[/math]
+ ঢাল, [math]m_{1}=0[/math]
+ [math]2 x-2 y+3=0[/math]
+ [math]\quad \therefore[/math]
+ ঢাল, [math]m_{2}=-\frac{2}{-2}[/math]
+ [math]=1[/math]
+ [math]\tan \theta= \pm \frac{m_{2}-m_{1}}{1+m_{1} m_{2}}[/math]
+ [math]\Rightarrow \tan \theta=\frac{1-0}{1+1 \times 0}[/math]
+ [math]=1 / 1[/math]
+ [math]\therefore \theta=45^{\circ}[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]y=2[/math] একটি অনুভূমিক রেখা তাই ঢাল [math]0[/math]; অন্যটির সমীকরণ থেকে [math]2x-2y+3=0\Rightarrow y=x+\frac{3}{2}[/math] হওয়ায় ঢাল [math]1[/math]. অন্তর্ভুক্ত কোণটি হল [math]\arctan(1)=45^\circ[/math], তাই উত্তর D সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 200876)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2002-2003, 2001-2002, 2017-2018, 2012-2013, 2006-2007 | Boards:  | Tags: University of Dhaka (A Unit), Jahangirnagar University (A Unit), University of Chittagong (Unit A), University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math](−5, 1), (4, 5)[/math] এবং [math](7-4)[/math] একটি ত্রিভুজের শীর্ষবিন্দু হয় তাহলে ত্রিভুজের ক্ষেত্রফল কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]\Delta=\left|\frac{1}{2}\right| \begin{array}{ccc}-5 & 1 & 1 \\4 & 5 & 1 \\7 & -4 & 1\end{array}|[/math]
+ [math]=| \frac{1}{2}[/math]
+ [math][-5(5+4)-1(4-7)+(-16-35)]|[/math]
+ [math]=| \frac{1}{2}(-93) \mid[/math]
+ [math]=46 \frac{1}{2}[/math]
+ বর্গ একক
+
+Explanation:
+ব্যাখ্যা: শূলেস সূত্র অনুযায়ী ক্ষেত্রফল = [math]\frac{1}{2}\left|-5(5-(-4))+4((-4)-1)+7(1-5)\right|[/math]. এইটি গণনা করলে [math]\frac{1}{2}\,|-93|=\frac{93}{2}[/math], তাই উত্তর B।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 200868)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Jessore University of Science & Technology (C Unit)
+--------------------------------------------------------------------------------
+Question:
+একটি সরলরেখার অক্ষদ্বয়ের মধ্যবর্তী অংশ [math]( 2,3)[/math] বিন্দুতে সমদ্বিখন্ডিত হয় । সরলরেখাটির সমীকরণ হবে-
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+x অক্ষ থেকে খন্ডিত অংশ [math]= 2 x 2 = 4, y[/math]
+ অক্ষ থেকে খন্ডিত অংশ [math]=3x2=6[/math]
+ [math]\therefore[/math]
+ সরলরেখার সমীকরণ [math]\frac{x}{4}+\frac{y}{6}=1 \Rightarrow 6 x+4 y=24 \Rightarrow 3 x+2 y-12=0[/math]
+
+
+Explanation:
+ব্যাখ্যা: অক্ষদ্বয়ের মধ্যবর্তী অংশের অঙ্কদ্বয় যদি [math](a,0)[/math] ও [math](0,b)[/math] হয় তাহলে তাদের মধ্যবিন্দু [math]\left(\dfrac{a}{2},\dfrac{b}{2}\right)[/math] এবং এটি দেওয়া [math](2,3)[/math] হওয়ায় [math]a=4,\; b=6[/math]। ফলে ইন্টারসেপ্ট রূপে সরলরেখার সমীকরণ [math]\dfrac{x}{4}+\dfrac{y}{6}=1[/math] যা সমতুল্য [math]3x+2y=12[/math]; তাই খ সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 200851)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+কোন বিন্দুর কার্তেসীয় স্থানাঙ্ক ( 1, 1) হলে, বিন্দুটির পোলার স্থানাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]x=1, y=1[/math]
+ [math]r=\sqrt{x^{2}+y^{2}}[/math]
+ [math]=\sqrt{2}[/math]
+ [math]\therefore[/math]
+ [math]\theta=\tan ^{-1} \frac{y}{x}[/math]
+ [math]=\tan ^{-1} \frac{1}{1}[/math]
+ [math]=\frac{\pi}{4}[/math]
+
+
+Explanation:
+ব্যাখ্যা: বিন্দুটির ধরণান্তর সূত্র অনুযায়ী [math]r=\sqrt{x^2+y^2}[/math] এবং [math]\theta=\arctan(y/x)[/math]. এখানে [math]r=\sqrt{1^2+1^2}=\sqrt{2}[/math] এবং [math]\theta=\arctan(1)=\pi/4[/math], তাই পোলার স্থানাঙ্ক [math](\sqrt{2},\pi/4)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 200854)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]y=x^{3}-12 x+16[/math] বক্ররেখার যে সমস্ত বিন্দুতে স্পর্শক x অক্ষের সমান্তরাল তাদের স্থানাঙ্ক
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]; \frac{\mathrm{dy}}{\mathrm{dx}}[/math]
+ [math]=3 \mathrm{x}^{2}-12[/math]
+ [math]=0[/math]
+ [math]\Rightarrow \mathrm{x} \pm 2[/math]
+ [math]\therefore \mathrm{y}[/math]
+ [math]=(\pm 2)^{3}-12(\pm 2)+16[/math]
+ [math]=0 \text { or } 32 ;(2,0)[/math]
+ এবং [math](-2,32)[/math]
+
+
+Explanation:
+ব্যাখ্যা: স্পর্শক x-অক্ষের সমান্তরাল হলে ঢাল শূন্য, তাই [math]y'=0[/math]. এখানে [math]y'=3x^2-12[/math], তাই [math]3x^2-12=0\Rightarrow x^2=4\Rightarrow x=±2[/math]. সেগুলোতে [math]y(2)=2^3-12·2+16=0[/math] এবং [math]y(-2)=(-2)^3-12(-2)+16=32[/math], তাই বিন্দুসমূহ [math](2,0)\text{ এবং }(-2,32)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 200855)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2011-2012 | Boards:  | Tags: Mymensingh Board, Pabna University of Science and Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math](–5, 1), (4, 5),(7, -4)[/math] একটি ত্রিভুজের শীর্ষ বিন্দু হয় তাহলে ত্রিভূজের ক্ষেত্রফল কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]\Delta=\frac{1}{2}\left|\begin{array}{ccc}-5 & 1 & 1 \\4 & 5 & 1 \\7 & -4 & 1\end{array}\right|[/math]
+ [math]=\frac{1}{2}\left|\begin{array}{ccc}-9 & -4 & 0 \\-3 & 9 & 0 \\7 & -4 & 1\end{array}\right|[/math]
+ [math]=\left|\frac{1}{2}(-81-12)\right|[/math]
+ [math]=46 \frac{1}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ত্রিভুজের ক্ষেত্রফল Shoelace সূত্র দিয়ে পাওয়া যায়, [math]A=\tfrac{1}{2}\big|x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2)\big|[/math]. এখানে [math](-5,1),(4,5),(7,-4)[/math] বসালে [math]A=\tfrac{1}{2}\big|-5(5-(-4))+4(-4-1)+7(1-5)\big|=\tfrac{1}{2}|-45-20-28|=\tfrac{93}{2}=46.5[/math], তাই সঠিক উত্তর B।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 200860)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2012-2013 | Boards:  | Tags: Rangamati Science and Technology University A UNIT, Hajee Mohammad Danesh Science & Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]x + y = 0[/math] এবং [math]x – y = 0[/math] রেখাদ্বয়ের মধ্যবর্তী কোণ কত ?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]\theta=\tan ^{-1} \frac{m_{1}-m_{2}}{1+m_{1} \times m_{2}}[/math]
+ [math]=\tan ^{-1} \frac{1-(-1)}{1+1 \times(-1)}[/math]
+ [math]=\tan ^{-1} \frac{2}{0}[/math]
+ [math]=\tan ^{-1}(\infty)[/math]
+ [math]=\frac{\pi}{2}=90^{\circ}[/math]
+
+
+Explanation:
+রেখাগুলোকে লিখলে [math]x+y=0\Rightarrow y=-x[/math] এবং [math]x-y=0\Rightarrow y=x[/math], তাই ঢালগুলো [math]m_1=-1[/math] ও [math]m_2=1[/math]. রেখাদ্বয়ের মধ্যবর্তী কোণের সূত্র [math]\tan\theta=\left|\frac{m_2-m_1}{1+m_1m_2}\right|[/math] অনুযায়ী [math]1+m_1m_2=1+(-1)=0[/math], ফলে [math]\tan\theta\to\infty[/math] এবং [math]\theta=90^\circ[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 200834)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2021-2022, 2013-2014 | Boards:  | Tags: University of Rajshahi (A Unit), Khulna University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি ত্রিভুজের শীর্ষবিন্দুসমূহের পোলার স্থানাঙ্ক যথাক্রমে পোল, [math]\left(\sqrt{2}, \frac{\pi}{4}\right)[/math] ও [math]\left(2, \frac{\pi}{3}\right)[/math] হলে, ত্রিভুজটির ক্ষেত্রফল বর্গ এককে হবে-
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\mathrm{O}(0,0) ; \mathrm{A}[/math]
+ [math]=\left(\sqrt{2} \cos \frac{\pi}{4}, \sqrt{2} \sin \frac{\pi}{4}\right)[/math]
+ [math]=(1,1)[/math]
+ [math]B=\left(2 \cos \frac{\pi}{3}, 2 \sin \frac{\pi}{3}\right)[/math]
+ [math]=(1, \sqrt{3})[/math]
+ [math]\therefore \Delta[/math]
+ [math]=\frac{\sqrt{3}-1}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: যাদের একটি শীর্ষবিন্দু ধ্রুব বিন্দু (পোল) হলে ত্রিভুজের ক্ষেত্রফল হয় [math]A=\tfrac12 r_1r_2\sin(\Delta\theta)[/math]. এখানে [math]r_1=\sqrt{2},\;r_2=2,\;\Delta\theta=\frac{\pi}{3}-\frac{\pi}{4}=\frac{\pi}{12}[/math], তাই [math]A=\tfrac12\cdot\sqrt{2}\cdot2\sin(\pi/12)=\sqrt{2}\sin(\pi/12)[/math]. আবার [math]\sin(\pi/12)=\frac{\sqrt6-\sqrt2}{4}[/math] হলে [math]A=\sqrt{2}\cdot\frac{\sqrt6-\sqrt2}{4}=\frac{\sqrt3-1}{2}[/math], যা সঠিক উত্তরের সঙ্গে মিলে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 200819)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2013-2014 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+x অক্ষের উপর অবস্থিত [math]P[/math] বিন্দু হতে [math](0,2)[/math] এবং [math](6,4)[/math] বিন্দু দুইটি সমদূরবর্তী হলে [math]P[/math] এর স্থানাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]P \equiv(a, 0) ;[/math]
+ [math]\quad a^{2}+4[/math]
+ [math]=(6-a)^{2}+4^{2}[/math]
+ [math]\text { solving } a=4[/math]
+ (or use distance formula for every options.)
+
+Explanation:
+সমাধান: P = (x,0) ধরে সমদূরতার শর্ত থেকে [math]\sqrt{x^2+2^2}=\sqrt{(x-6)^2+4^2}[/math], বর্গ করলে [math]x^2+4=(x-6)^2+16[/math] হয়; ফলে [math]12x=48[/math] এবং [math]x=4[/math]. অতএব [math]P=(4,0)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 200788)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2013-2014, 2011-2012 | Boards:  | Tags: Mymensingh Board, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit), Hajee Mohammad Danesh Science & Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+x অক্ষ ও (−5, −7) থেকে (4,k) বিন্দুটির দূরত্ব সমান হলে k এর মান-
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]K=\sqrt{(4+5)^{2}+(k+7)^{2}}[/math]
+ [math]\Rightarrow K^{2}[/math]
+ [math]=9^{2}+(k+7)^{2}[/math]
+ [math]\Rightarrow K^{2}[/math]
+ [math]=81+k^{2}+14 k+49[/math]
+ [math]=-\frac{65}{7}[/math]
+
+
+Explanation:
+ব্যাখ্যা: x-অক্ষে (4,k) বিন্দুর দূরত্ব হলো [math]|k|[/math], আর (−5, −7) থেকে দূরত্ব হলো [math]\sqrt{(4+5)^2+(k+7)^2}=\sqrt{81+(k+7)^2}[/math]; সমতা দিলে [math]k^2=81+(k+7)^2[/math] হয় এবং থেকে [math]k=-\dfrac{65}{7}[/math] পাওয়া যায়, যা মূল সমীকরণ পূরণ করে।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 200769)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2011-2012 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { If point }(a, 5) \text { has equal distances from both the } y \text {-axis and a point }(7,2) \text {, then the of value of a is? }[/math]
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\sqrt{(a-7)^{2}+(5-2)^{2}}[/math]
+ [math]=\pm a[/math]
+ [math]\Rightarrow a^{2}-14 a+58=a^{2}[/math]
+ [math]\Rightarrow a[/math]
+ [math]=\frac{58}{14}[/math]
+ [math]=\frac{29}{7}[/math]
+
+
+Explanation:
+The distance to the y-axis is [math]|a|[/math] and to (7,2) is [math]\sqrt{(a-7)^2+9}[/math]; equating and squaring gives [math]a^2=(a-7)^2+9[/math], which simplifies to [math]14a=58[/math], so [math]a=29/7[/math], hence option D is correct.
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 200761)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { Assume that the point } A(5,6) \text { is a reflection of the point } B(-1,8) \text { in a line, when a mirror is placed along }[/math] [math]\text { the line. The equation of the line is- }[/math]
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]\text { Straight line passing through } A(5,6) \& B(-1,8) \text { is, }[/math]
+ [math]\frac{x-5}{5+1}=\frac{y-6}{6-8} \Rightarrow 2 x+6 y-46=0 \Rightarrow x+3 y-23=0[/math]
+ [math]\begin{array}{l}\text{Perpendicular to this line, the equation of any straight line would be: } 3 x-y+k=0\\\text{For the mirror, the line passes through } \left(\frac{5-1}{2}, \frac{6+8}{2}\right) \text{ or } (2,7)\\\therefore 6-7+\mathrm{k}=0 \Rightarrow \mathrm{k}=1 \quad \therefore 3 \mathrm{x}-\mathrm{y}+1=0\end{array}[/math]
+
+
+Explanation:
+Explanation: The mirror line is the perpendicular bisector of segment AB, so it passes through the midpoint and has slope the negative reciprocal of the slope of AB. Midpoint is [math]((5+(-1))/2, (6+8)/2)=(2,7)[/math], slope of AB is [math](6-8)/(5-(-1))=-1/3[/math], so the perpendicular slope is [math]3[/math] and the line is [math]y-7=3(x-2)\Rightarrow y=3x+1[/math]; hence option C ([math]y=3x+1[/math]) is correct.
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 200729)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2011-2012 | Boards:  | Tags: Mymensingh Board, Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math](a, 0)[/math] এবং [math](0,b)[/math] বিন্দুগামী সরলরেখার উপর [math](1,1)[/math] একটি বিন্দু হলে-
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math](a, 0),(0, b),(1,1) ;[/math]
+ [math]\frac{y-b}{b-0}=\frac{x-0}{0-a}[/math]
+ [math]\Rightarrow \frac{y-b}{b}=\frac{x}{-a}[/math]
+ [math]\Rightarrow-y a+a b=b x[/math]
+ [math]\Rightarrow b x+a y=a b[/math]
+⇒ b + a = ab [x, y এর মান বসিয়ে] [math]\Rightarrow \frac{1}{a}+\frac{1}{b}[/math]
+ [math]=1[/math]
+
+
+Explanation:
+ব্যাখ্যা: (a,0) ও (0,b) বিন্দুগামী সরলরেখার ইন্টারসেপ্ট রূপ হলো [math]\frac{x}{a}+\frac{y}{b}=1[/math]. এতে (1,1) বসালে [math]\frac{1}{a}+\frac{1}{b}=1[/math] পাওয়া যায়, যা অপশন B-র শর্ত পূরণ করে; তাই B সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 200730)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2013-2014, 2011-2012 | Boards:  | Tags: Mymensingh Board, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit), Hajee Mohammad Danesh Science & Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+x অক্ষ ও (−5, −7) থেকে (4,k) বিন্দুটির দূরত্ব সমান হলে k এর মান-
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]K=\sqrt{(4+5)^{2}+(k+7)^{2}}[/math]
+ [math]\Rightarrow K^{2}[/math]
+ [math]=9^{2}+(k+7)^{2}[/math]
+ [math]\Rightarrow K^{2}[/math]
+ [math]=81+k^{2}+14 k+49[/math]
+ [math]=-\frac{65}{7}[/math]
+
+
+Explanation:
+(ব্যাখ্যা) x-অক্ষ থেকে দূরত্ব হল বিন্দুটির y-মানের পারমিতি [math]|k|[/math], আর (−5,−7) থেকে দূরত্ব হল [math]\sqrt{(4-(-5))^2+(k-(-7))^2}=\sqrt{9^2+(k+7)^2}[/math]। সমতা দিলে [math]|k|=\sqrt{81+(k+7)^2}, যা সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 200717)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018, 2014-2015 | Boards:  | Tags: University of Dhaka (A Unit), Khulna University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]A(2,5), B(5,9)[/math] এবং [math]D(6,8)[/math] বিন্দুগুলো [math]ABCD[/math] রম্বসের তিনটি শীর্ষবিন্দু হলে, C এর স্থানাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]2+x=5+6[/math]
+ [math]5+y=9+8[/math]
+ [math]\Rightarrow x=5+6-2=9[/math]
+ [math]y=17-5=12[/math]
+ [math]\therefore(x, y)=(9,12)[/math]
+
+[Image]
+
+
+Explanation:
+ব্যাখ্যা: রম্বস একটি সমান্তরালচতুর্ভুজ, তাই বিপরীত কোণের মধ্যবিন্দু একই থাকে এবং ভেক্টর হিসেবে [math]\vec{A}+\vec{C}=\vec{B}+\vec{D}[/math]. তাই [math]\vec{C}=\vec{B}+\vec{D}-\vec{A}[/math], অর্থাৎ [math]C=(5+6-2,\;9+8-5)=(9,12)[/math]. ফলে বিকল্প ব সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 200705)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2008-2009 | Boards:  | Tags: University of Rajshahi (A Unit), Islamic University, Bangladesh (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math]\triangle \mathrm{ABC}[/math] এর ভরকেন্দ্র মূলবিন্দুতে এবং A ও B এর স্থানাঙ্ক যথাক্রমে 4, 7 ) ও (−2, 5) হলে, C এর স্থানাঙ্ক বের কর।
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+মূলবিন্দুর স্থানাঙ্ক (0, 0 )[math]\frac{4-2+x}{3}=0[/math]
+ [math]\Rightarrow x[/math]
+ [math]=-2[/math]
+এবং [math]\frac{-7+5+y}{3}=0[/math]
+ [math]\Rightarrow y=2[/math]
+ [math]\therefore C[/math]
+ [math]=(-2,2)[/math]
+
+
+Explanation:
+ভরকেন্দ্রের সূত্র অনুযায়ী [math]\frac{x_A+x_B+x_C}{3}=0,\quad \frac{y_A+y_B+y_C}{3}=0[/math]. তাই [math]x_C=-(4+(-2))=-2[/math] এবং [math]y_C=-(7+5)=-12[/math], ফলে C এর স্থানাঙ্ক [math](-2,-12)[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 200661)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2009-2010, 2005-2006 | Boards: Sylhet Board, Sylhet Board | Tags: Sylhet Board, Sylhet Board, Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]4 x+3 y-5=0[/math] এবং [math]2 y-x+3=0[/math] রেখা দুইটির অন্তর্ভূক্ত সূক্ষ্মকোণ [math]\theta[/math] হলে [math]\tan \theta[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]4 x+3 y-5=0[/math]
+ [math]\Rightarrow 3 y=-4 x+5[/math]
+ [math]\Rightarrow y[/math]
+ [math]=-\frac{4}{3} x+\frac{5}{3}[/math]
+ [math]\ldots \text { (i) }[/math]
+ [math]2 y-x+3=0[/math]
+ [math]\Rightarrow y[/math]
+ [math]=\frac{x}{2}-\frac{3}{2}[/math]
+ হলে [math]m_{1}=-\frac{1}{3} ; m_{2}=\frac{1}{2}[/math]
+ [math]\therefore \tan \theta[/math]
+ [math]=\pm \frac{m_{1}-m_{2}}{1+m_{1} m_{2}}[/math]
+ [math]=\pm \frac{-\frac{4}{3}-\frac{1}{2}}{1-\frac{4}{6}}[/math]
+ [math]=\pm\left(-\frac{11}{2}\right)[/math]
+ [math]\theta[/math]
+ যেহেতু সূক্ষ্মকোণ তাই [math]\tan \theta[/math]
+ [math]=11 / 2[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেখা দুটির ঢালগুলো হল [math]4x+3y-5=0\Rightarrow m_1=-\tfrac{4}{3}[/math] এবং [math]2y-x+3=0\Rightarrow m_2=\tfrac{1}{2}[/math]. সূক্ষ্মকোণের তানের সূত্র [math]\tan\theta=\left|\frac{m_2-m_1}{1+m_1m_2}\right|[/math] প্রয়োগ করলে [math]\tan\theta=\left|\frac{\tfrac{1}{2}-(-\tfrac{4}{3})}{1+(-\tfrac{4}{3})(\tfrac{1}{2})}\right|=\frac{11}{2}[/math], যা সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 200604)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2011-2012 | Boards:  | Tags: Islamic University of Technology
+--------------------------------------------------------------------------------
+Question:
+[math]\text { If point }(a, 5) \text { has equal distances from both the } y \text {-axis and a point }(7,2) \text {, then the of value of a is? }[/math]
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\sqrt{(a-7)^{2}+(5-2)^{2}}[/math]
+ [math]=\pm a[/math]
+ [math]\Rightarrow a^{2}-14 a+58=a^{2}[/math]
+ [math]\Rightarrow a[/math]
+ [math]=\frac{58}{14}[/math]
+ [math]=\frac{29}{7}[/math]
+
+
+Explanation:
+The distance to the y-axis is [math]|a|[/math], and to the point [math](7,2)[/math] it is [math]\sqrt{(a-7)^2+(5-2)^2}=\sqrt{(a-7)^2+9}[/math]. Equating and squaring gives [math]a^2=(a-7)^2+9\Rightarrow 14a=58\Rightarrow a=\tfrac{29}{7}[/math], which is positive so [math]|a|=a[/math]; hence the correct choice is D.
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 200573)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2011-2012 | Boards:  | Tags: Mymensingh Board, Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math](a, 0)[/math] এবং [math](0,b)[/math] বিন্দুগামী সরলরেখার উপর [math](1,1)[/math] একটি বিন্দু হলে-
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math](a, 0),(0, b),(1,1) ;[/math]
+ [math]\frac{y-b}{b-0}=\frac{x-0}{0-a}[/math]
+ [math]\Rightarrow \frac{y-b}{b}=\frac{x}{-a}[/math]
+ [math]\Rightarrow-y a+a b=b x[/math]
+ [math]\Rightarrow b x+a y=a b[/math]
+⇒ b + a = ab [x, y এর মান বসিয়ে] [math]\Rightarrow \frac{1}{a}+\frac{1}{b}[/math]
+ [math]=1[/math]
+
+
+Explanation:
+কারণ অক্ষ-ছেদ বিন্যাসে সরলরেখার সমীকরণ হবে [math]\dfrac{x}{a}+\dfrac{y}{b}=1[/math], এখানে (1,1) রেখে দিলে পাওয়া যায় [math]\dfrac{1}{a}+\dfrac{1}{b}=1[/math]; তাই অপশন B সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 200574)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2013-2014, 2011-2012 | Boards:  | Tags: Mymensingh Board, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit), Hajee Mohammad Danesh Science & Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+x অক্ষ ও (−5, −7) থেকে (4,k) বিন্দুটির দূরত্ব সমান হলে k এর মান-
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]K=\sqrt{(4+5)^{2}+(k+7)^{2}}[/math]
+ [math]\Rightarrow K^{2}[/math]
+ [math]=9^{2}+(k+7)^{2}[/math]
+ [math]\Rightarrow K^{2}[/math]
+ [math]=81+k^{2}+14 k+49[/math]
+ [math]=-\frac{65}{7}[/math]
+
+
+Explanation:
+দুই বিন্দুর মধ্যে দূরত্ব x অক্ষের সাথে বিলম্বে y-অক্ষের মান হওয়ায় [math]|k|=\sqrt{(4+5)^2+(k+7)^2}=\sqrt{81+(k+7)^2}[/math]. উভয় পাশ বর্গ করে পেয়ে যাই [math]k^2=81+(k+7)^2\Rightarrow 0=14k+130\Rightarrow k=-\tfrac{65}{7}[/math], এবং এটি [math]|k|=65/7[/math] দিয়ে যাচাই করা যায়—অতএব বিকল্প D সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 200577)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2011-2012 | Boards:  | Tags: Mymensingh Board, Pabna University of Science and Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math](–5, 1), (4, 5),(7, -4)[/math] একটি ত্রিভুজের শীর্ষ বিন্দু হয় তাহলে ত্রিভূজের ক্ষেত্রফল কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]\Delta=\frac{1}{2}\left|\begin{array}{ccc}-5 & 1 & 1 \\4 & 5 & 1 \\7 & -4 & 1\end{array}\right|[/math]
+ [math]=\frac{1}{2}\left|\begin{array}{ccc}-9 & -4 & 0 \\-3 & 9 & 0 \\7 & -4 & 1\end{array}\right|[/math]
+ [math]=\left|\frac{1}{2}(-81-12)\right|[/math]
+ [math]=46 \frac{1}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: শুলেস সূত্র অনুযায়ী ক্ষেত্রফল = [math]\tfrac{1}{2}\big|x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2)\big|[/math], যার জন্য [math]\tfrac{1}{2}|-5(9)+4(-5)+7(-4)|=\tfrac{1}{2}\cdot93=\tfrac{93}{2}[/math]. সুতরাং অপশন B সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 200584)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2011-2012 | Boards:  | Tags: Hajee Mohammad Danesh Science & Technology University (A Unit)
+--------------------------------------------------------------------------------
+Question:
+[math](−3, 6)[/math] বিন্দু হতে [math]2x – y - 8 = 0[/math] সরলরেখার উপর অঙ্কিত লম্বের পাদবিন্দুর স্থানাঙ্ক কোনটি ?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]2 x-y-8=0...(i)[/math]
+ [math]2 x-y-8=0[/math]
+ এর লম্ব রেখার সমীকরণ [math]x+2 y+k[/math]
+ [math]=0[/math]
+ [math](-3,6)[/math]
+ বিন্দুতে [math]-3+12+k=0[/math]
+ [math]\Rightarrow k=-9[/math]
+ [math]\therefore x+2 y-9=0[/math]
+ [math].....(ii)[/math]
+ [math]\therefore \mathrm{y}[/math]
+ [math]=2[/math]
+(i) ও (ii) হতে .[math]\begin{array}{l}\{2 x-y-8=0\} \times 2 \\\frac{x+y-9=0}{5 x=25}\end{array}[/math]
+ [math]\therefore x=5[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেখার জন্য [math]a=2,\;b=-1,\;c=-8[/math] ও বিন্দু [math](-3,6)[/math] হলে [math]S=ax_1+by_1+c= -20[/math] এবং পাদবিন্দু সূত্রে [math]x'=x_1-\dfrac{aS}{a^2+b^2}=-3-\dfrac{2(-20)}{5}=5[/math], [math]y'=y_1-\dfrac{bS}{a^2+b^2}=6-\dfrac{(-1)(-20)}{5}=2[/math]; অতএব পাদবিন্দু [math](5,2)[/math], তাই সঠিক উত্তর C।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 200569)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](2, 5)[/math] এবং [math](– 7, − 10)[/math] বিন্দুগামী সরলরেখার সমীকরণ কোনটি?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\frac{y+10}{-10-5}[/math]
+ [math]=\frac{x+7}{-7-2}[/math]
+ [math]\Rightarrow \frac{y+10}{-15}[/math]
+ [math]=\frac{x+7}{-9}[/math]
+ [math]\Rightarrow 3 y+30[/math]
+ [math]=5 x+35[/math]
+ [math]\therefore 5 x-3 y+5=0[/math]
+
+
+Explanation:
+সঠিক উত্তর D কারণ রেখার ঢাল হলো [math]m=\frac{-10-5}{-7-2}=\frac{-15}{-9}=\frac{5}{3}[/math]. বিন্দু-ঢাল সূত্র থেকে [math]y-5=\frac{5}{3}(x-2)[/math] এবং সরলীকরণ করলে এটি [math]5x-3y+5=0[/math] হয়, যা দুইটি বিন্দুও 만족 করে।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 200537)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2012-2013, 2009-2010, 2005-2006 | Boards: Sylhet Board, Sylhet Board | Tags: Sylhet Board, Sylhet Board, Sher-e-Bangla Agricultural University
+--------------------------------------------------------------------------------
+Question:
+[math]4 x+3 y-5=0[/math] এবং [math]2 y-x+3=0[/math] রেখা দুইটির অন্তর্ভূক্ত সূক্ষ্মকোণ [math]\theta[/math] হলে [math]\tan \theta[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]4 x+3 y-5=0[/math]
+ [math]\Rightarrow 3 y=-4 x+5[/math]
+ [math]\Rightarrow y[/math]
+ [math]=-\frac{4}{3} x+\frac{5}{3}[/math]
+ [math]\ldots \text { (i) }[/math]
+ [math]2 y-x+3=0[/math]
+ [math]\Rightarrow y[/math]
+ [math]=\frac{x}{2}-\frac{3}{2}[/math]
+ হলে [math]m_{1}=-\frac{1}{3} ; m_{2}=\frac{1}{2}[/math]
+ [math]\therefore \tan \theta[/math]
+ [math]=\pm \frac{m_{1}-m_{2}}{1+m_{1} m_{2}}[/math]
+ [math]=\pm \frac{-\frac{4}{3}-\frac{1}{2}}{1-\frac{4}{6}}[/math]
+ [math]=\pm\left(-\frac{11}{2}\right)[/math]
+ [math]\theta[/math]
+ যেহেতু সূক্ষ্মকোণ তাই [math]\tan \theta[/math]
+ [math]=11 / 2[/math]
+
+
+Explanation:
+ব্যাখ্যা: রেখাগুলোর ঢাল হলো [math]m_1=-\frac{4}{3},\; m_2=\frac{1}{2}[/math]। সূত্র [math]\tan\theta=\left|\frac{m_2-m_1}{1+m_1m_2}\right|[/math] প্রয়োগ করলে [math]\tan\theta=\left|\frac{11/6}{1/3}\right|=\frac{11}{2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 200526)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2014-2015, 2002-2003, 2001-2002, 2017-2018, 2012-2013, 2006-2007 | Boards:  | Tags: University of Dhaka (A Unit), Jahangirnagar University (A Unit), University of Chittagong (Unit A), University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+যদি [math](−5, 1), (4, 5)[/math] এবং [math](7-4)[/math] একটি ত্রিভুজের শীর্ষবিন্দু হয় তাহলে ত্রিভুজের ক্ষেত্রফল কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]\Delta=\left|\frac{1}{2}\right| \begin{array}{ccc}-5 & 1 & 1 \\4 & 5 & 1 \\7 & -4 & 1\end{array}|[/math]
+ [math]=| \frac{1}{2}[/math]
+ [math][-5(5+4)-1(4-7)+(-16-35)]|[/math]
+ [math]=| \frac{1}{2}(-93) \mid[/math]
+ [math]=46 \frac{1}{2}[/math]
+ বর্গ একক
+
+Explanation:
+ত্রিভুজের ক্ষেত্রফল শু-লোইস সূত্রে [math]\tfrac{1}{2}\big|x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2)\big|[/math] দ্বারা গণনা করা যায়; এখানে [math](x_1,y_1)=(-5,1),\;(x_2,y_2)=(4,5),\;(x_3,y_3)=(7,-4)[/math]. বসালে [math]\tfrac{1}{2}\big|-5(5-(-4))+4((-4)-1)+7(1-5)\big|=\tfrac{1}{2}\big|-45-20-28\big|=\tfrac{1}{2}\cdot93=\tfrac{93}{2}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 200472)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](1, −1)[/math] ও [math](8, 6)[/math] বিন্দুদ্বয়ের সংযোগ রেখাকে যে বিন্দুটি [math]3:4[/math] অনুপাতে অন্তর্বিভক্ত করে তার স্থানাঙ্ক—
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]x=\frac{8.3+1.4}{3+4}=4,[/math]
+ [math]y=\frac{6.3+(-1) 4}{3+4}=2[/math]
+ [math]\therefore(x, y)=(4,2)[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি রেখাংশকে অনুপাতে অন্তর্বিভক্ত করলে বিন্দুর স্থানাঙ্ক হয় [math](x,y)=\left(\frac{n x_1 + m x_2}{m+n},\ \frac{n y_1 + m y_2}{m+n}\right)[/math] যদি AP:PB = [math]m:n[/math]. এখানে A=[math](1,-1)[/math], B=[math](8,6)[/math], AP:PB=[math]3:4[/math] ⇒ [math]m=3,n=4[/math], তাই [math]x=(4·1+3·8)/7=4[/math], [math]y=(4·(-1)+3·6)/7=2[/math]; সুতরাং বিন্দুটি [math](4,2)[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 200465)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও।
+
+[math]PR[/math] ও [math]QS[/math] রেখাদ্বয়ের সমীকরণ
+
+যথাক্রমে [math]4 x+3 y+6=0[/math]
+
+এবং [math]x+2 y-1=0[/math]
+
+
+[Image]
+
+
+[math]\mathbf{P Q}=[/math] কত একক ?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]4 x+3 y+5=0 \Rightarrow \frac{x}{\frac{-6}{4}}+\frac{y}{\frac{-6}{3}}=1[/math]
+ [math]\therefore P\left(\frac{-3}{2}, 0\right)[/math]
+ এবং [math](0,-2)[/math]
+আবার, [math]x+2 y-1=0[/math]
+ [math]\Rightarrow x+\frac{y}{\frac{1}{2}}[/math]
+ [math]=1[/math]
+ [math]\therefore s\left(0, \frac{1}{2}\right)[/math]
+ এবং [math]Q(1,0)[/math]
+ [math]\therefore P Q=\sqrt{\left(\frac{-3}{2}-1\right)^{2}+(0-0)^{2}}[/math]
+ [math]=\frac{5}{2}[/math]
+
+
+Explanation:
+সঠিক উত্তর গ কারণ P ও Q হলো সংশ্লিষ্ট রেখাদ্বয়ের x-অক্ষ ছেদবিন্দু। PR-এ y=0 দিলে [math]4x+6=0\Rightarrow x=-\tfrac{3}{2}[/math] এবং QS-এ y=0 দিলে [math]x-1=0\Rightarrow x=1[/math]; তাই
+
+[math]PQ=|1-(-\tfrac{3}{2})|=\tfrac{5}{2}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 200441)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math](2, \sqrt{3})[/math] বিন্দু হতে [math]3 x-\sqrt{3} y+12=0[/math] রেখার লম্ব দূরত্ব কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math](2, \sqrt{3})[/math]
+ বিন্দু হতে [math]3 x-\sqrt{3 y}+12=0[/math]
+ রেখারলম্ব দুরত্ব [math]=\left|\frac{3 \times 2-\sqrt{3} \cdot \sqrt{3}+12}{\sqrt{3^{2}+(-\sqrt{3})^{2}}}\right|[/math]
+ [math]=\frac{15}{2 \sqrt{3}}[/math]
+ [math]=\frac{5 \sqrt{3}}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: একটি বিন্দু [math](x_0,y_0)[/math] থেকে রেখা [math]ax+by+c=0[/math] পর্যন্ত লম্ব দূরত্বের সূত্র [math]\dfrac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}}[/math]. এখানে [math]a=3,\;b=-\sqrt3,\;c=12,\; (x_0,y_0)=(2,\sqrt3)[/math], ফলে দূরত্ব = [math]\dfrac{|3\cdot2-\sqrt3\cdot\sqrt3+12|}{\sqrt{3^2+(\!- \sqrt3)^2}}=\dfrac{15}{2\sqrt3}=\dfrac{5\sqrt3}{2}[/math], তাই অপশন B সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 200425)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :
+
+
+[Image]
+
+
+[math]A B \| C D[/math] [math]AB[/math] রেখা দ্বারা অক্ষদ্বয়ের মধ্যবর্তী খণ্ডিতাংশের মধ্যবিন্দু থেকে মূলবিন্দুর দূরত্ব কত?
+
+Options:
+
+
+Correct Answer: খ
+
+Solution:
+[math]\begin{array}{l}3 x+4 y+8=0 \\\Rightarrow 3 x+4 y=-8 . \\\therefore \frac{x}{\frac{-8}{3}}+\frac{y}{-2}=1\end{array}[/math]
+ [math]\therefore \mathrm{AB}[/math]
+ রেখা x অক্ষকে [math]\left(\frac{-8}{3}, 0\right)[/math]
+ও y অক্ষকে [math](0, −2)[/math]
+ বিন্দুতে ছেদ করে ।[math]\therefore[/math]
+ অক্ষদ্বয়ের মধ্যবর্তী খণ্ডিতাংশেরমধ্যবিন্দু [math]\left(\frac{\frac{-8}{3}+0}{2}, \frac{0-2}{2}\right)=\left(\frac{-4}{3},-1\right)[/math]
+ [math]\therefore[/math]
+ মূলবিন্দু হতে অক্ষদ্বয়ের মধ্যবর্তী খণ্ডিতাংশেরমধ্যবিন্দুর দূরত্ব [math]=\sqrt{\left(0+\frac{4}{3}\right)^{2}+(0+1)^{2}}[/math]
+ [math]\Rightarrow \sqrt{\frac{16}{9}+1}=\sqrt{\frac{25}{9}}=\frac{5}{3}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কোনো রেখা অক্ষে (a,0) ও (0,b) তে ছেদ করলে সেই খণ্ডিতাংশের মধ্যবিন্দু হবে [math](a/2,\;b/2)[/math], তাই মূলবিন্দু থেকে দূরত্ব হবে [math]\sqrt{(a/2)^2+(b/2)^2}=\frac{1}{2}\sqrt{a^2+b^2}[/math], তাই উত্তর ব সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 200422)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]PR[/math] ও [math]QS[/math] রেখাদ্বয়ের সমীকরণ যথাক্রমে
+
+[math]4 x+3 y+6=0[/math] এবং [math]x+2 y-1=0[/math]
+
+যেখানে, x-অক্ষের উপর [math]P, Q[/math] বিন্দুদ্বয় এবং y অক্ষের উপর [math]R, S[/math] বিন্দুদ্বয় অবস্থিত।
+
+[math]PQ =[/math] কত একক?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]4 x+3 y+6=0\Rightarrow \frac{\frac{x}{-6}}{\frac{4}{4}}+\frac{y}{\frac{-6}{3}}=1[/math]
+ [math]\therefore P\left(\frac{-3}{2}, 0\right)[/math]
+ এবং [math]R(0,-2)[/math]
+আবার, [math]x+2 y-1=0 \Rightarrow x+\frac{y}{\frac{1}{2}}=1[/math]
+ [math]\therefore \mathrm{s}\left(0, \frac{1}{2}\right)[/math]
+ এবং [math]Q(1,0)[/math]
+ [math]\therefore P Q=\sqrt{\left(\frac{-3}{2}-1\right)^{2}+(0-0)^{2}}=\frac{5}{2}[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রথম রেখার x-অক্ষে ছেদ পেতে y=0 দিলে [math]4x+6=0\Rightarrow x=-\tfrac{3}{2}[/math], অতএব [math]P(-\tfrac{3}{2},0)[/math]; দ্বিতীয় রেখার x-অক্ষে ছেদ পেতে y=0 দিলে [math]x-1=0\Rightarrow x=1[/math], তাই [math]Q(1,0)[/math]. তাই [math]PQ=|1-(-\tfrac{3}{2})|=\tfrac{5}{2}[/math] একক, তাই সঠিক উত্তর C।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 200417)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :
+
+[math]A(1,5), B(4,-2)[/math] বিন্দুদ্বয়ের সংযোজক রেখার ওপর [math]C (- 1, 2 )[/math] বিন্দু হতে লম্ব আঁকা হল ।
+
+[math]C[/math] বিন্দু হতে অঙ্কিত লম্ব [math]AB[/math] রেখাংশকে কী অনুপাতে বিভক্ত করে?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]C[/math]
+ বিন্দু হতে [math]AB[/math]
+ রেখাংশের উপর অঙ্কিত লম্বের সমীকরণ, [math]3x - 7y +17=0[/math]
+আমরা জানি, [math]A\left(x_{1}, y_{1}\right)[/math]
+ এবং [math]B\left(x_{2}, y_{2}\right)[/math]
+ এর সংযোজক রেখাংশকে[math]ax + by + c = 0[/math]
+ রেখা [math]m_{1}: m_{2}[/math]
+ অনুপাতে বিভক্ত করলে,[math]\frac{m_{1}}{m_{2}}=\frac{a x_{1}+b y_{1}+c}{a x_{2}+b y_{2}+c}\left[m_{1}: m_{2}\right.[/math]
+ অনুপাতটি ধনাত্মক হলে বহিঃবিভক্তি ও ঋণাত্মক হলে অন্তঃবিভক্তি নির্দেশ করে[math]\therefore \frac{m_{1}}{m_{2}}=\frac{3 \times 1-7 \times 5+17}{3 \times 4-7 \times(-2)+17}=-\frac{15}{43}=-\frac{45}{129}[/math]
+ [math]\therefore \mathbf{C}[/math]
+ বিন্দু হতে [math]AB[/math]
+ রেখাংশের উপর অঙ্কিত লম্ব [math]AB[/math]
+ রেখা[math]15 : 43[/math]
+ বা, [math]45 : 129[/math]
+ অনুপাতে অন্তঃবিভক্ত করে।বিকল্প ব্যাখ্যাঃ ধরি, [math]3 x-7 y+17=0[/math]
+ রেখা [math]A (1, 5)[/math]
+ এবং [math]B(4, – 2)[/math]
+এর সংযোজক রেখাংশকে [math]K : 1[/math]
+ অনুপাতে ছেদ করে। [math]A(1, 5)[/math]
+ এবং [math]B(4, – 2 )[/math]
+ বিন্দুগামী রেখা, [math]7x + 3y = 22[/math]
+ [math]3 x-7 y+17=0[/math]
+ এবং [math]7 x+3 y-22=0[/math]
+ রেখাদ্বয়ের ছেদবিন্দু [math]\left(\frac{103}{58}, \frac{185}{58}\right)[/math]
+প্রশ্নমতে, [math]\frac{K \times 4+1 \times 1}{K+1}=\frac{103}{58}[/math]
+ [math]\begin{array}{l}\Rightarrow 103 K+103=23 K+58 \\\Rightarrow K=\frac{45}{129} \\\therefore K: 1=45: 129\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ধরুন P হল C থেকে AB-র ওপর অঙ্কিত লম্বের ছেদবিন্দু; P = A + t(B−A) = [math](1+3t,\;5-7t)[/math]. CP·AB = 0 হলে [math](2+3t,\;3-7t)\cdot(3,-7)=0[/math] থেকে [math]58t-15=0[/math] ও তাই [math]t=\tfrac{15}{58}[/math]. ফলে [math]AP:PB=t:(1-t)=15:43[/math], তাই উত্তর A সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 200407)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A(3, – 2), B(4, 6)[/math] ও [math]C(5, 7)[/math] বিন্দু তিনটি একটি ত্রিভুজের শীর্ষবিন্দু হলে ত্রিভুজটির -
+
+i. ক্ষেত্রফল [math]3.5[/math] বর্গ একক
+
+ii. [math]BC[/math] বাহুর মধ্যবিন্দু [math]\left(\frac{9}{2}, \frac{13}{2}\right)[/math]
+
+iii. [math]AB[/math] বাহুর সমীকরণ, [math]8 x-y-26=0[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+(i). [math]=\frac{1}{2}\left|\begin{array}{cccc}3 & 9 & 5 & 3 \\-2 & 6 & 7 & -2\end{array}\right|[/math]
+ [math]=\frac{1}{2}(18+28-10+8-30-21)[/math]
+ [math]=\frac{1}{2}|-7|=3-5 .[/math]
+(ii). [math]\frac{9+5}{2}, \frac{6+7}{2}[/math]
+ [math]\frac{y+2}{-2-6}=\frac{x-7}{3-4}[/math]
+ [math]84-y-26=0[/math]
+
+
+Explanation:
+ব্যাখ্যা: সবগুলো বিবৃতি সঠিক।  
+ক ক্ষেত্রফল শুল-লেস সূত্রে [math]\frac{1}{2}\big|3(6-7)+4(7-(-2))+5(-2-6)\big|=\frac{1}{2}\cdot7=3.5[/math].  
+খ মধ্যবিন্দু [math]\left(\frac{4+5}{2},\frac{6+7}{2}\right)=\left(\frac{9}{2},\frac{13}{2}\right)[/math].  
+গ ঢাল [math]m=\frac{6-(-2)}{4-3}=8[/math], রেখার সমীকরণ [math]y+2=8(x-3)\Rightarrow8x-y-26=0[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 200405)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A(-1,-2), B(3,5), C(-4,3), D(1,9)[/math] চারটি বিন্দু হলে-
+
+i. [math]A C=\sqrt{34}[/math] একক
+
+ii. [math]\triangle \mathrm{BCD}[/math] এর ক্ষেত্রফল [math]= 16[/math] বর্গ একক
+
+iii. [math]CD[/math] রেখাংশ [math]AB[/math] রেখাংশকে [math]43:22[/math] অনুপাতে অন্তর্বিভক্ত করে ।
+
+নিচের কোনটি সঠিক?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]\text { (ii) } A C=[/math]
+ [math]\sqrt{(-4)+1)^{2}+(3+2)^{2}}=\sqrt{34}[/math]
+ [math]\text { (ii) }[/math]
+ ক্ষেত্রফল [math]\frac{1}{3}\left|\begin{array}{ccccc}-1 & 3 & -4 & 1 & -1 \\-2 & 5 & 3 & 9 & -2\end{array}\right|[/math]
+ [math]=\frac{1}{2}[/math]
+ [math](-5+9[/math]
+ [math]-36-2+6[/math]
+ [math]+20-3+9)[/math]
+ [math]=1[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক [math]AC=\sqrt{(-4+1)^2+(3+2)^2}=\sqrt{(-3)^2+5^2}=\sqrt{34}[/math], তাই সত্য।  
+খ ক্ষেত্রফল = [math]\tfrac12\big|3(3-9)+(-4)(9-5)+1(5-3)\big|=\tfrac12\cdot32=16[/math], তাই সত্য।  
+গ AB ও CD রেখার ছেদবিন্দুতে A থেকে বিন্দুর পরামিতার মান [math]t=\tfrac{43}{11}[/math], ফলে বিভাজন অনুপাতে AP:PB = [math]43:(11-43)=43:(-32)[/math] (বহিঃবিভাজন) অর্থাৎ প্রকৃত অনুপাত [math]43:32[/math], সুতরাং [math]43:22[/math] ভুল।
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 200384)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]x+y=5, x-y+5=0[/math] এবং [math]y = 2[/math] রেখাত্রয় দ্বারা গঠিত ত্রিভুজের ক্ষেত্রফল কত?
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]x+y=5, y=2[/math]
+ রেখাদ্বয়ের ছেদবিন্দু [math](3, 2)[/math]
+ [math]x-y+5=0, y=2[/math]
+ রেখাদ্বয়ের ছেদবিন্দু [math](-3,2)[/math]
+ [math]x+y=5, x-y+5=0[/math]
+ রেখাদ্বয়ের ছেদবিন্দু [math](0,5)[/math]
+ [math]\therefore[/math]
+ ত্রিভুজের ক্ষেত্রফল [math]=\frac{1}{2}\left|\begin{array}{rrr}3 & 2 & 1 \\-3 & 2 & 1 \\0 & 5 & 1\end{array}\right|=-9[/math]
+ বর্গ একক[math]\therefore[/math]
+ কিন্তু ক্ষেত্রফল কখনো ঋণাত্মক হয় না বিধায় [math]9[/math]
+ বর্গএকক।
+
+Explanation:
+ব্যাখ্যা: [math]y=2[/math] কে [math]x+y=5[/math] এ বসালে [math]x=3[/math] ফলে বিন্দু [math](3,2)[/math], আর [math]y=2[/math] কে [math]x-y+5=0[/math] এ বসালে [math]x=-3[/math] ফলে বিন্দু [math](-3,2)[/math]; শেষ বিন্দু দুই সরলরেখা একত্রে দিলে [math](0,5)[/math]. ভিত্তি = দূরত্ব [math](-3,2)\text{ থেকে }(3,2)=6[/math], উচ্চতা = [math]5-2=3[/math]; ক্ষেত্রফল = [math]\tfrac{1}{2}\times6\times3=9[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 200341)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]A(−2, 3), B(− 4, 2)[/math] এবং [math]C(8, 6)[/math] শীর্ষ বিন্দুবিশিষ্ট ত্রিভুজের-
+
+i. ভরকেন্দ্রের স্থানাঙ্ক [math]\left(\frac{2}{3}, \frac{11}{3}\right)[/math]
+
+ii. [math]AB[/math] বাহুর মধ্যবিন্দুর স্থানাঙ্ক [math]\left(-3, \frac{5}{2}\right)[/math]
+
+iii. [math]\triangle \mathrm{ABC}[/math] এর ক্ষেত্রফল [math]4[/math] বর্গ একক
+
+নিচের কোনটি সঠিক?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]A B=\sqrt{(-2+4)^{2}+(3-2)^{2}}[/math]
+ভরকেন্দ্রের স্থানাঙ্ক [math]\left(\frac{-2-4+8}{3}, \frac{3+2+6}{3}\right)[/math]
+ [math]=\left(\frac{2}{3}, \frac{11}{3}\right), \mathrm{AB}[/math]
+ বহুর মধ্যবিন্দুর স্থানাঙ্ক:[math]\left(\frac{-2-4}{2}, \frac{3+2}{2}\right)=\left(-3, \frac{5}{2}\right)[/math]
+ এবং [math]\triangle \mathrm{ABC}[/math]
+এর ক্ষেত্রফল[math]=\frac{1}{2}|(-2+4)(2-6)-(3-2)(-4-8)|[/math]
+ [math]=\frac{1}{2}|-8+12|=2[/math]
+ বর্গ একক.
+
+Explanation:
+ব্যাখ্যা: মাঝবিন্দু ও ভরকেন্দ্র সূত্র প্রয়োগ করলে ভরকেন্দ্রের স্থানাঙ্ক [math]\left(\frac{-2-4+8}{3},\frac{3+2+6}{3}\right)=\left(\frac{2}{3},\frac{11}{3}\right)[/math] এবং [math]AB[/math] এর মধ্যবিন্দু [math]\left(\frac{-2-4}{2},\frac{3+2}{2}\right)=\left(-3,\frac{5}{2}\right)[/math], তাই (i) ও (ii) ঠিক। ত্রিভুজের ক্ষেত্রফল নির্ণয়ে [math]\text{Area}=\tfrac{1}{2}\big|-2(2-6)+(-4)(6-3)+8(3-2)\big|=\tfrac{1}{2}|8-12+8|=\tfrac{1}{2}\cdot4=2[/math], তাই (iii) ভুল (না 4)। অতএব উত্তর A সঠিক।
+
+Sub-Questions:
+

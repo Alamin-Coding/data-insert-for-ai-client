@@ -1,0 +1,1385 @@
+================================================================================
+Question #1 (ID: 793006)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢা. বো.'২০১৬
+--------------------------------------------------------------------------------
+Question:
+কর্ণ ম্যাট্রিক্সের ক্ষেত্রে- 
+
+i. [math]a_{i j} 
+eq 0, i=j[/math]
+
+ii. [math]a_{i j}=0, i&gt;j[/math]
+
+iii. [math]a_{i j}=0, i&lt;j[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. &nbsp;i&nbsp;ও ii
+খ. i ও iii
+গ. &nbsp; ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 792992)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+যদি  [math]\mathbf{A}[/math]এবং  [math]B=I-A[/math] সমঘাতি ম্যাট্রিক্স হয়, তবে [math]A^2 B^2=[/math]কত?
+
+Options:
+ক. <span class="math-tex">\(-I\)</span>
+খ. <span class="math-tex">\(I\)</span>
+গ. <span class="math-tex">\(2I\)</span>
+ঘ. <span class="math-tex">\(0\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+সমঘাতির ক্ষেত্রে,\(A^2=A, B^2=B\)\(\therefore \mathrm{A}^2 \mathrm{~B}^2=\mathrm{AB}=\mathrm{A}(\mathrm{I}-\mathrm{A})=\mathrm{AI}-\mathrm{A}^2=\mathrm{A}-\mathrm{A}=0\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 792993)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+Idempotent ম্যাট্রিক্সের শর্ত হলো-
+
+Options:
+ক. <span class="math-tex">\(\mathrm{A}^2=\mathrm{I}\)</span>
+খ. <span class="math-tex">\(\mathrm{A} \times \mathrm{I}=\mathrm{I}\)</span>
+গ. <span class="math-tex">\(\mathrm{A}^2=\mathrm{B}\)</span>
+ঘ. <span class="math-tex">\(\mathrm{A}^2=\mathrm{A}\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+Idempotent ম্যাট্রিক্সে কোনো ম্যাট্রিক্সের বর্গ করলে আবার আদি ম্যাট্রিক্স পাওয়া যায় তবে তাকে Idempotent ম্যাট্রিক্স বলে।যেমন :\(\mathrm{A}^2=\mathrm{A}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 792994)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর'১৭
+--------------------------------------------------------------------------------
+Question:
+যে ম্যাট্রিক্সের  [math]a_{i j}=0[/math] যখন  [math]i 
+eq j[/math] তখন তাকে কী ম্যাট্রিক্স বলে?
+
+Options:
+ক. কলাম ম্যাট্রিক্স
+খ. সারি ম্যাট্রিক্স
+গ. স্কেলার ম্যাট্রিক্স
+ঘ. কর্ণ ম্যাট্রিক্স
+
+
+Correct Answer: ঘ
+
+Solution:
+যে ম্যাট্রিক্সের ভুক্তি গুলি \(a_{i j}=0\)যখন তখন\(i 
+eq j\) তাকে কর্ণ ম্যাট্রিক্স বলে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 792995)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ম. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{A}^2=\mathbf{A}[/math]   হলে [math]\mathbf{A}[/math]ম্যাট্রিক্সটি-
+
+Options:
+ক. সমঘাতী
+খ. ব্যতিক্রমী
+গ. প্রতিসম
+ঘ. অব্যতিক্রমী
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 792996)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: কু. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+[math]P=\left[\begin{array}{lll}1 &amp; 0 &amp; 0 \\ 0 &amp; 1 &amp; 0 \\ 0 &amp; 0 &amp; 1\end{array}\right][/math] হলে-
+
+[math]​​​​​​​i.Det (\mathrm{P})=1[/math]
+
+[math]ii. \mathrm{P}^{\mathrm{T}}=\mathrm{P}[/math]
+
+[math]iii. \mathrm{P}=\mathrm{I}_3[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. &nbsp;i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 792997)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢা. বো.'২০১৭
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left(\begin{array}{lll}3 &amp; 0 &amp; 0 \\ 0 &amp; 4 &amp; 0 \\ 0 &amp; 0 &amp; 5\end{array}\right)[/math]একটি -
+
+i. প্রতিসম ম্যাট্রিক্স
+
+ii. স্কেলার ম্যাট্রিক্স
+
+iii. কর্ণ ম্যাট্রিক্স
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii&nbsp; ও iii
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 792998)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: দি. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+যদি [math]\left[\begin{array}{rrr}0 &amp; 5 &amp; -3 \\ -5 &amp; 0 &amp; y \\ x &amp; 4 &amp; 0\end{array}\right][/math]  বিপ্রতিসম ম্যাট্রিক্স হলে [math](x, y) = ?[/math]
+
+Options:
+ক. <span class="math-tex">\((-3,-4)\)</span>
+খ. <span class="math-tex">\((-3,4)\)</span>
+গ. <span class="math-tex">\((3,-4)\)</span>
+ঘ. <span class="math-tex">\( (3,4)\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 793000)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রা. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}3 &amp; 0 &amp; 0 \\ 0 &amp; 3 &amp; 0 \\ 0 &amp; 0 &amp; 3\end{array}\right][/math] ম্যাট্রিক্সটি হলো-
+
+i. বর্গ ম্যাট্রিক্স
+
+ii. কর্ণ ম্যাট্রিক্স
+
+iii. সমঘাতি ম্যাট্রিক্স
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. &nbsp;i এবং ii
+খ. &nbsp;i এবং iii
+গ. &nbsp;ii এবং iii
+ঘ. &nbsp;i, ii এবং iii
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 793001)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢা. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ccc}5 &amp; 0 &amp; 0 \\ 0 &amp; 10 &amp; 0 \\ 0 &amp; 0 &amp; 20\end{array}\right][/math] একটি-
+
+i. কর্ণ ম্যাট্রিক্স
+
+ii. প্রতিসম ম্যাট্রিক্স
+
+iii. স্কেলার ম্যাট্রিক্স
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i এবং ii
+খ. i এবং iii
+গ. ii এবং iii
+ঘ. i, ii এবং iii
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 793002)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: কু. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি বিপ্রতিসম ম্যাট্রিক্স। 
+
+Options:
+ক. <span class="math-tex">\(\left[\begin{array}{rr}\mathrm{a} &amp; 0 \\ 0 &amp; -\mathrm{a}\end{array}\right]\)</span>
+খ. <span class="math-tex">\(\left[\begin{array}{rr}\mathrm{a} &amp; 0 \\ -\mathrm{a} &amp; 0\end{array}\right]\)</span>
+গ. <span class="math-tex">\(\left[\begin{array}{rr}0 &amp; \mathrm{a} \\ -\mathrm{a} &amp; 0\end{array}\right]\)</span>
+ঘ. <span class="math-tex">\(\left[\begin{array}{rr}0 &amp; -\mathrm{a} \\ 0 &amp; \mathrm{a}\end{array}\right]\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 793003)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: য. বো.'২০২১
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{rr}1 &amp; 3 \\ 0 &amp; -1\end{array}\right][/math]ম্যাট্রিক্স-
+
+Options:
+ক. প্রতিসম
+খ. শূন্যঘাতি
+গ. সমঘাতি
+ঘ. অভেদঘাতি
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 793004)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}5 &amp; 0 &amp; 0 \\ 0 &amp; 5 &amp; 0 \\ 0 &amp; 0 &amp; 5\end{array}\right][/math]ম্যাট্রিক্সটি একটি-
+
+i. বর্গ ম্যাট্রিক্স
+
+ii. অভেদক ম্যাট্রিক্স
+
+iii. স্কেলার ম্যাট্রিক্স
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i, ii ও iii
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 793005)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: সি. বো.'২০১৭
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{lll}1 &amp; 0 &amp; 0 \\ 0 &amp; 2 &amp; 0 \\ 0 &amp; 0 &amp; 3\end{array}\right][/math] একটি-
+
+i. বর্গ ম্যাট্রিক্স
+
+ii. স্কেলার ম্যাট্রিক্স
+
+iii. কর্ণ ম্যাট্রিক্স
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i&nbsp;ও ii
+খ. i ও iii
+গ. <div alt="0" id="SL_balloon_obj" style="display: block;">
+<div class="notranslate" id="SL_shadow_translator">
+<div id="SL_planshet">
+<div id="SL_Bproviders">
+<div class="SL_BL_LABLE_ON" id="SL_P0" title="Google">
+<div id="SL_PN0">&nbsp; ii ও iii</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+ঘ. i, ii ও iii
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 792999)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: য. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+যদি A একটি বর্গ ম্যাট্রিক্স এবং [math]A^2=I[/math]   হয়,  হয়, তবে A কে বলে-
+
+Options:
+ক. শূন্যঘাতি ম্যাট্রিক্স
+খ. অভেদঘাতি ম্যাট্রিক্স
+গ. শূন্য ম্যাট্রিক্স
+ঘ. বিপ্রতিসম ম্যাট্রিক্স
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 792982)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি প্রতিসম ম্যাট্রিক্স?
+
+Options:
+ক. <span class="math-tex">\( \left[\begin{array}{cc}0 &amp; b \\ -b &amp; 0\end{array}\right]\)</span>
+খ. <span class="math-tex">\(\left[\begin{array}{cc}\mathrm{b} &amp; 0 \\ 0 &amp; -\mathrm{b}\end{array}\right]\)</span>
+গ. <span class="math-tex">\(\left[\begin{array}{cc}\mathrm{b} &amp; 0 \\ -\mathrm{b} &amp; 0\end{array}\right]\)</span>
+ঘ. <span class="math-tex">\(\left[\begin{array}{cc}0 &amp; -\mathrm{b} \\ 0 &amp; \mathrm{~b}\end{array}\right]\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+Option B হতে পাই,\(A=\left[\begin{array}{cc}b &amp; 0 \\ 0 &amp; -b\end{array}\right] \Rightarrow A^T=\left[\begin{array}{cc}b &amp; 0 \\ 0 &amp; -b\end{array}\right]\)অতএব option B প্রতিসম ম্যাট্রিক্স।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 792983)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'২০,বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃবি'১৬,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৮
+--------------------------------------------------------------------------------
+Question:
+নিচের কোন ম্যাট্রিক্সটি সমঘাতি ম্যাট্রিক্স?
+
+Options:
+ক. <span class="math-tex">\(\left[\begin{array}{ll}2 &amp; -2 \\ 2 &amp; -2\end{array}\right]\)</span>
+খ. <span class="math-tex">\(\left[\begin{array}{cr}2 &amp; 1 \\ -2 &amp; -1\end{array}\right]\)</span>
+গ. <span class="math-tex">\(\left[\begin{array}{cc}1 &amp; 3 \\ -2 &amp; -2\end{array}\right]\)</span>
+ঘ. কোনোটিই নয়
+
+
+Correct Answer: খ
+
+Solution:
+option (B) হতে পাই,\(​​​​​​​\left[\begin{array}{cc}2 &amp; 1 \\ -2 &amp; -1\end{array}\right]^2=\left[\begin{array}{cc}2 &amp; 1 \\ -2 &amp; -1\end{array}\right]\left[\begin{array}{cc}2 &amp; 1 \\ -2 &amp; -1\end{array}\right] \\=\left[\begin{array}{cc}2 \times 2+1(-2) &amp; 2(1)+1(-1) \\ -2 \times 2+(-1)(-2) &amp; -2(1)+(-1)(-1)\end{array}\right]\\\)\(=\left[\begin{array}{cc}2 &amp; 1 \\ -2 &amp; -1\end{array}\right]  \)সমঘাতি
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 792984)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'১৮,রাজশাহী বিশ্ববিদ্যালয়'১৭,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+ ম্যাট্রিক্স  [math]A=\left[\begin{array}{rrr}2 &amp; -2 &amp; -4 \\ -1 &amp; 3 &amp; 4 \\ 1 &amp; -2 &amp; -3\end{array}\right][/math] হলে, [math]A^2[/math]  এর মান হবে-
+
+Options:
+ক. <span class="math-tex">\(-A\)</span>
+খ. &nbsp;<span class="math-tex">\(0\)</span>
+গ. <span class="math-tex">\(2 A\)</span>&nbsp;
+ঘ. <span class="math-tex">\(A\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(A^2=\left[\begin{array}{rrr}2 &amp; -2 &amp; -4 \\ -1 &amp; 3 &amp; 4 \\ 1 &amp; -2 &amp; -3\end{array}\right]\left[\begin{array}{rrr}2 &amp; -2 &amp; -4 \\ -1 &amp; 3 &amp; 4 \\ 1 &amp; -2 &amp; -3\end{array}\right]\\ =\left[\begin{array}{crr}4+2-4 &amp; -4-6+8 &amp; -8-8+12 \\ -2-3+4 &amp; 2+9-8 &amp; 4+12-12 \\ 2+2-3 &amp; -2-6+6 &amp; -4-8+9\end{array}\right]\\=\left[\begin{array}{rrr}2 &amp; -2 &amp; -4 \\ -1 &amp; 3 &amp; 4 \\ 1 &amp; -2 &amp; -3\end{array}\right]=\mathrm{A}\)ম্যাট্রিক্সটি সম়ঘাতি।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 792985)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ইসলামী বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি প্রতিসম ম্যাট্রিক্স?
+
+Options:
+ক. <span class="math-tex">\( \left[\begin{array}{rrr}-1 &amp; 0 &amp; 1 \\ 2 &amp; 3 &amp; 0 \\ 4 &amp; 1 &amp; 3\end{array}\right] \)</span>
+খ. <span class="math-tex">\(\left[\begin{array}{rrr}2 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; 4 \\ -1 &amp; 4 &amp; 5\end{array}\right] \)</span>
+গ. <span class="math-tex">\(\left[\begin{array}{rrr}0 &amp; 1 &amp; -4 \\ -1 &amp; 0 &amp; 3 \\ 4 &amp; -3 &amp; 0\end{array}\right] \)</span>
+ঘ. কোনোঢিই নয়
+
+
+Correct Answer: খ
+
+Solution:
+ধরি, option (B) হতে,\(A=\left[\begin{array}{rrr}2 &amp; 0 &amp; -1 \\0 &amp; 3 &amp; 4 \\-1 &amp; 4 &amp; 5\end{array}\right] \therefore A^{\mathrm{T}}=\left[\begin{array}{rrr}2 &amp; 0 &amp; -1 \\0 &amp; 3 &amp; 4 \\-1 &amp; 4 &amp; 5\end{array}\right]\)\(\therefore B\) এর ম্যাট্রিক্সটি প্রতিসম ম্যাট্রিক্স।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 792986)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{rrr}\mathrm{a} &amp; 2 &amp; \mathrm{~d} \\ -2 &amp; b &amp; -3 \\ -7 &amp; 3 &amp; \mathrm{c}\end{array}\right][/math] ম্যাট্রিক্সটি বিপ্রতিসম হলে [math]\mathrm{a}+\mathrm{b}+\mathrm{c}+\mathrm{d}= ?[/math]
+
+Options:
+ক. <span class="math-tex">\(3\)</span>
+খ. <span class="math-tex">\(2\)</span>
+গ. <span class="math-tex">\(7\)</span>
+ঘ. <span class="math-tex">\(5\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(A=\left[\begin{array}{ccc}a &amp; 2 &amp; d \\ -2 &amp; b &amp; -3 \\ -7 &amp; 3 &amp; c\end{array}\right]\\\Rightarrow \mathrm{A}^{\mathrm{T}}=\left[\begin{array}{ccc}\mathrm{a} &amp; -2 &amp; -7 \\ 2 &amp; \mathrm{~b} &amp; 3 \\ \mathrm{~d} &amp; -3 &amp; \mathrm{c}\end{array}\right]\\=-\left[\begin{array}{ccc}-\mathrm{a} &amp; 2 &amp; 7 \\ -2 &amp; -\mathrm{b} &amp; -3 \\ -\mathrm{d} &amp; 3 &amp; -\mathrm{c}\end{array}\right]=-\mathrm{A}\)হবে যখন,\(\mathrm{d}=7, \)এবং\(\mathrm{a}=0, \mathrm{~b}=0, \mathrm{c}=0\\\)\(\therefore \mathrm{a}+\mathrm{b}+\mathrm{c}+\mathrm{d}=0+0+0+7=7\)Shortcut : বিপ্রতিসম ম্যাট্টিক্সের ক্ষেত্রে a=b=c=0আবার, d=-(-7)=7\(\therefore \mathrm{a}+\mathrm{b}+\mathrm{c}+\mathrm{d}=7\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 792987)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: খুলনা বিশ্ববিদ্যালয়'১০
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}2 &amp; 0 &amp; 0 \\ 0 &amp; 2 &amp; 0 \\ 0 &amp; 0 &amp; 2\end{array}\right][/math] একটি-
+
+Options:
+ক. ইউনিট ম্যাট্রিক্স
+খ. স্কেলার ম্যাট্রিক্স
+গ. আয়তাকার ম্যাট্রিক্স
+ঘ. শূন্য ম্যাট্রিক্স
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 792988)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ইসলামী বিশ্ববিদ্যালয়'১৮
+--------------------------------------------------------------------------------
+Question:
+নির্ণায়ক একটি ফাংশন যার ডোমেনের প্রত্যেক উপাদান যে কোন-
+
+Options:
+ক. বর্গ ম্যাট্রিক্স
+খ. আয়ত ম্যাট্রিক্স
+গ. কর্ণ ম্যাট্রিক্স
+ঘ. একক ম্যাট্রিক্স
+
+
+Correct Answer: ক
+
+Solution:
+নির্ণায়ক একটি ফাংশন যার ডোমেনের প্রত্যেক উপাদান যে কোন বর্গ ম্যাট্রিক্স।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 792989)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৭,ইসলামী বিশ্ববিদ্যালয়'১৬,রাজশাহী বিশ্ববিদ্যালয়'৬,শেরে বাংলা কৃষি বিশ্ববিদ্যালয়'১৪
+--------------------------------------------------------------------------------
+Question:
+কোনটি স্কেলার মেট্রিক্সের বৈশিষ্ট্য?
+
+Options:
+ক. সারি ও কলামের সংখ্যা সমান
+খ. সারি ও কলামের সংখ্যা অসমান
+গ. একটি মাত্র সারি থাকে
+ঘ. কর্ণ মেট্রিক্সের অশূন্য উপাদানগুলো সমান
+
+
+Correct Answer: ঘ
+
+Solution:
+কোন কর্ণ ম্যাট্রিক্সের অশূন্য উপাদানগুলো সমান হলে তাকেস্কেলার ম্যাট্রিক্স বলে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 792990)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢাকা বিশ্ববিদ্যালয়'১৭,বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব বি. ও প্র.বি'১৯
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{rrr}a &amp; 2 &amp; 5 \\ -2 &amp; b &amp; -3 \\ -5 &amp; 3 &amp; c\end{array}\right][/math] একটি বক্র প্রতিসম ম্যাট্রিক্স হলে [math]a, b, c[/math]  এর মানগুলো-
+
+Options:
+ক. <span class="math-tex">\(-2,-5,3\)</span>
+খ. <span class="math-tex">\(0,0,0\)</span>
+গ. <span class="math-tex">\(1,1,1\)</span>
+ঘ. <span class="math-tex">\(2,5,3\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+\(A=\left[\begin{array}{ccc}\mathrm{a} &amp; 2 &amp; 5 \\ -2 &amp; \mathrm{~b} &amp; -3 \\ -5 &amp; 3 &amp; \mathrm{c}\end{array}\right]\\ \Rightarrow \mathrm{A}^{\mathrm{T}}=\left[\begin{array}{ccc}\mathrm{a} &amp; -2 &amp; -5 \\ 2 &amp; \mathrm{~b} &amp; 3 \\ 5 &amp; -3 &amp; \mathrm{c}\end{array}\right]\\=-\left[\begin{array}{ccc}-\mathrm{a} &amp; 2 &amp; 5 \\ -2 &amp; -\mathrm{b} &amp; -3 \\ -3 &amp; 3 &amp; -\mathrm{c}\end{array}\right] \)ম্যাট্রিক্সটি বক্র প্রতিসম বা skew-symmetic হবে যখন মূখ্যকর্ণের উপাদানগুলো শূন্য হয় অর্থাৎ \(\mathrm{a}=0, \mathrm{~b}=0\) এবং \(\mathrm{c}=0\) হয়।কারণ,\( \mathrm{A}^{\mathrm{T}}=\left[\begin{array}{ccc}0 &amp; -2 &amp; -5 \\ 2 &amp; 0 &amp; 3 \\ 5 &amp; -3 &amp; 0\end{array}\right]=-\left[\begin{array}{ccc}0 &amp; 2 &amp; 5 \\ -2 &amp; 0 &amp; -3 \\ -5 &amp; 3 &amp; 0\end{array}\right]=-\mathrm{A}\)Shortcut: কোন ম্যাট্রিক্স বক্র প্রতিসম হতে হলে কর্ণের উপাদানগুলো শূন্য হবে। অর্থাৎ a=b=c=0
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 792991)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২১
+--------------------------------------------------------------------------------
+Question:
+একটি বর্গ ম্যাট্রিক্স  [math]A=\left(a_{ij}\right)[/math] কে প্রতিসম ম্যাট্রিক্স বলা হবে যদি-
+
+Options:
+ক. <span class="math-tex">\(a_{i j}&gt;a_{i i}\)</span>
+খ. <span class="math-tex">\(a_{i j}&lt;a_{j i}\)</span>
+গ. <span class="math-tex">\(a_{i j}=a_{j i}\)</span>
+ঘ. <span class="math-tex">\(a_{i j}=-a_{j i}\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(A=\left(a_{i j}\right)-\)এর প্রতিসম ম্যাট্রিক্স বলা হবে যখন\(a_{i j}=a_{j i}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 792981)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢাবি অধিভুক্ত ৭ কলেজ'২১
+--------------------------------------------------------------------------------
+Question:
+c এর কোন মানের জন্য [math]\left[\begin{array}{rrr}-3 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; c \\ -1 &amp; 4 &amp; 0\end{array}\right][/math]  ম্যাট্রিক্সটি প্রতিসম?
+
+Options:
+ক. <span class="math-tex">\(4\)</span>
+খ. <span class="math-tex">\(0\)</span>
+গ. <span class="math-tex">\(-1\)</span>
+ঘ. <span class="math-tex">\(-4\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+\(\left[\begin{array}{ccc}-3 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; \mathrm{c} \\ -1 &amp; 4 &amp; 0\end{array}\right]\)এর প্রতিসম ম্যাট্রিক্স\(=\left[\begin{array}{ccc}-3 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; 4 \\ -1 &amp; \mathrm{c} &amp; 0\end{array}\right]\) হলে,\( \mathrm{c}=4\) হবে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 792969)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'২১
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{A}=\left(\mathrm{a}_{\mathrm{ij}}\right)_{\mathrm{m} \times \mathrm{n}}[/math] ও [math]B=\left(\mathrm{b}_{\mathrm{ij}}\right)_{\mathrm{n} \times \mathrm{n}}[/math]  হলে, [math]\mathrm{AB}^{\mathrm{m}}[/math]  এর কলাম সংখ্যা কত?
+
+Options:
+ক. m
+খ. n
+গ. m+n
+ঘ. কোনোটিই নয়
+
+
+Correct Answer: খ
+
+Solution:
+\(\mathrm{A}=\left(\mathrm{a}_{\mathrm{ij}}\right)_{\mathrm{m} \times \mathrm{n}}\\ \)\(\therefore \mathrm{A}\)এর মাত্রা\(=\mathrm{m} \times \mathrm{n}\)\(\mathrm{B}=\left(\mathrm{b}_{\mathrm{ij}}\right)_{\mathrm{n} \times \mathrm{n}} \)\(\therefore \mathrm{B} \)এর মাত্রা\(=\mathrm{n} \times \mathrm{n}\)\(\therefore \mathrm{B}^{\mathrm{m}}\) এর মাত্রা\( =\mathrm{n} \times \mathrm{n}\)\(\mathrm{AB}^{\mathrm{m}} \)এর মাত্রা\(=\mathrm{m} \times \mathrm{n}\)\(\therefore\) কলাম সংখ্যা\(=\mathrm{n}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 792957)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: কু. বো.'২০২৩
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} 4 &amp; 0 &amp; -2 \\[6pt] 0 &amp; 5 &amp; m   \\[6pt] -2 &amp; 4 &amp; 5\end{bmatrix}[/math] ম্যাট্রিক্সটি প্রতিসম হলে m = কত?
+
+Options:
+ক. <p>-2</p>
+
+খ. <p>0</p>
+
+গ. <p>4</p>
+
+ঘ. <p>5</p>
+
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 792958)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} \sqrt \alpha  &amp;\beta \\[6pt] \beta &amp; \sqrt \alpha   \end{bmatrix}[/math] ম্যাট্রিক্সের ট্রেস 6 হলে, a এর মান কত?
+
+Options:
+ক. <p>4</p>
+
+খ. <p>6</p>
+
+গ. <p>3</p>
+
+ঘ. <p>9</p>
+
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 792959)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} x &amp; y &amp;z \\[6pt] -5 &amp;x &amp;3   \\[6pt] 4 &amp; -3 &amp; x\end{bmatrix}[/math]ম্যাট্রিক্সটি বিপ্রতিসম হলে, x + y + z এর মান কত?
+
+Options:
+ক. <p>1</p>
+
+খ. <p>0</p>
+
+গ. <p>12</p>
+
+ঘ. <p>8</p>
+
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 792960)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: বিয়াম মডেল স্কুল এন্ড কলেজ, বগুড়া
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} 7 &amp; 2x^2 -x-15 \\[6pt] 0 &amp; x+5 \end{bmatrix}[/math] ম্যাট্রিক্সটি  কর্ণ ম্যাট্রিক্স হলে x এর মান কত?
+
+Options:
+ক. <p><span class="math-tex">\(-3, {5 \over 2}\)</span></p>
+
+খ. <p>&nbsp;<span class="math-tex">\(-3,- {5 \over 2}\)</span></p>
+
+গ. <p>&nbsp;<span class="math-tex">\(3,- {5 \over 2}\)</span></p>
+
+ঘ. <p>&nbsp;<span class="math-tex">\(3, {5 \over 2}\)</span></p>
+
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 792961)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জালালাবাদ ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ, সিলেট
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} 2 &amp; 0 &amp; 0 \\[6pt] 6 &amp; 5 &amp; 0 \\[6pt] -7 &amp; 9 &amp; 12 \end{bmatrix}[/math] ম্যট্রিক্সকে নিচের কোন ম্যাট্রিক্স বলা হয়?
+
+Options:
+ক. <p>কর্ণ</p>
+
+খ. <p>স্কেলার</p>
+
+গ. <p>ঊর্ধ্ব ত্রিভুজাকার</p>
+
+ঘ. <p>নিম্ন ত্রিভুজাকার</p>
+
+
+
+Correct Answer: ঘ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 792962)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: দি. বো.'২০২২
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} 0 &amp; 5 &amp; -3 \\[6pt] -5 &amp; 0 &amp; y   \\[6pt] x &amp; 4 &amp; 0\end{bmatrix}[/math] বিপ্রতিসম ম্যাট্রিক্স হলে (x,y)=? (
+
+Options:
+ক. <p>(-3,-4)</p>
+
+খ. <p>(-3,4)</p>
+
+গ. <p>(3,-4)</p>
+
+ঘ. <p>(3, 4)</p>
+
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 792963)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} 1 &amp; 2+i &amp;  1+3i \\[6pt] 2-i &amp;2 &amp;-i   \\[6pt] 1-3i &amp; i &amp; 0\end{bmatrix}[/math]কোন ধরনের ম্যাট্রিক্স?
+
+Options:
+ক. <p>সমঘাতি ম্যাট্রিক্স</p>
+
+খ. <p>হারমিশিয়ান ম্যাট্রিক্স</p>
+
+গ. <p>বিপ্রতিসম ম্যাট্রিক্স</p>
+
+ঘ. <p>প্রতিসম ম্যাট্রিক্স</p>
+
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 792964)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢাকা বিশ্ববিদ্যালয়'২০,ঢাবি অধিভুক্ত ৭ কলেজ'১৯,চট্টগ্রাম বিশ্ববিদ্যালয়'২০,বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর'১৯,বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর'১৬,শেরে বাংলা কৃষি বিশ্ববিদ্যালয়'১৮,ইসলামী বিশ্ববিদ্যালয়'১৭,ইসলামী বিশ্ববিদ্যালয়'১৬
+--------------------------------------------------------------------------------
+Question:
+A, B , C ম্যাট্রিক্সগুলোর মাত্রা যথাক্রমে [math]4 \times 5,5 \times 4[/math]  এবং [math]4 \times 2[/math]  হলে, [math]\left(A^{\mathbf{T}}+\mathbf{B}\right) \mathbf{C}[/math]  ম্যাট্রিক্সের মাত্রা হবে -
+
+Options:
+ক. <span class="math-tex">\(5 \times 4\)</span>
+খ. <span class="math-tex">\(4 \times 2\)</span>
+গ. <span class="math-tex">\(5 \times 2\)</span>
+ঘ. <span class="math-tex">\(2 \times 5\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(A^{\mathrm{T}}\)এর মাত্রা\(=5 \times 4\)B এর মাত্রা \(=5 \times 4 ;\)\(\left(\mathrm{A}^{\mathrm{T}}+\mathrm{B}\right) \)এর মাত্রা\(=5 \times 4\)C এর মাত্রা\(=4 \times 2 \)\(\therefore\left(\mathrm{A}^{\mathrm{T}}+\mathrm{B}\right) \mathrm{C}\)এর মাত্রা\(=5 \times 2\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 792965)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ll}3 &amp; 6 \\ 2 &amp; 2\end{array}\right], B=\left[\begin{array}{c}2 \\ -1\end{array}\right][/math] হলে, AB এর ক্রম কোনটি?
+
+Options:
+ক. <span class="math-tex">\(1 \times 2\)</span>
+খ. <span class="math-tex">\(2 \times 1\)</span>
+গ. <span class="math-tex">\(1 \times 1\)</span>
+ঘ. <span class="math-tex">\(2 \times 2\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+A এর ক্রম\(=2 \times 2,\)B এর ক্রম \(=2 \times 1\)\(\therefore \mathrm{AB}\) এর ক্রম\(=2 \times 1\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 792966)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+ তিনটি ম্যাট্রিক্স  A, B ও C এর order যথাক্রমে  [math]2 \times 3,4 \times 2,5 \times 4[/math] হলে, CBA ম্যাট্রিক্সের order কত হবে?
+
+Options:
+ক. <span class="math-tex">\(5 \times 3\)</span>
+খ. <span class="math-tex">\(5 \times 4\)</span>
+গ. <span class="math-tex">\(2 \times 5\)</span>
+ঘ. <span class="math-tex">\(4 \times 3\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+B এর মাত্রা \(4 \times 2\)A এর মাত্রা\(2 \times 3\)\(\Rightarrow\) BA এর মাত্রা\(4 \times 3\)আবার C এর মাত্রা\(5 \times 4 \) এবং BA এর মাত্রা\(4 \times 3\)\(\therefore\)CBA এর মাত্রা\(5 \times 3\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 792967)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: GST গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২১
+--------------------------------------------------------------------------------
+Question:
+ [math]3 \times 2[/math] এবং [math]2 \times 3[/math]  ক্রম বিশিষ্ট দুটি মেট্রিক্স যথাক্রমে  A এবং B এর ভুক্তি 0 বা 1 হলে [math]\operatorname{tr}(\mathrm{BA})[/math] এর সর্বোচ্চ মান হবে-
+
+Options:
+ক. <span class="math-tex">\(0\)</span>
+খ. <span class="math-tex">\(1\)</span>
+গ. <span class="math-tex">\(6\)</span>
+ঘ. <span class="math-tex">\(9\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(\therefore \operatorname{tr}(\mathrm{BA})\)এর সর্বোচ্চ মান পেতে হবে, তাইপ্রশ্নমতে,\(\mathrm{A}=\left[\begin{array}{ll}1 &amp; 1 \\ 1 &amp; 1 \\ 1 &amp; 1\end{array}\right]\)এবং\(\mathrm{B}=\left[\begin{array}{lll}1 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 1\end{array}\right]\\\therefore \mathrm{BA}=\left[\begin{array}{lll}1 &amp; 1 &amp; 1 \\1 &amp; 1 &amp; 1\end{array}\right]\left[\begin{array}{ll}1 &amp; 1 \\1 &amp; 1 \\1 &amp; 1\end{array}\right]=\left[\begin{array}{ll}3 &amp; 3 \\3 &amp; 3\end{array}\right]\\ \therefore \operatorname{tr}(\mathrm{BA})=3+3=6\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 792968)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{lll}1 &amp; 3 &amp; 1 \\ 4 &amp; 4 &amp; 4 \\ 3 &amp; 1 &amp; a\end{array}\right][/math] ম্যাট্রিক্সের ট্রেস (Trace) এর মান 8 হলে, a এর মান  কোনটি? 
+
+Options:
+ক. <span class="math-tex">\(5\)</span>
+খ. <span class="math-tex">\(3\)</span>
+গ. <span class="math-tex">\(2\)</span>
+ঘ. <span class="math-tex">\(4\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+প্রশ্নমতে,\(1+4+\mathrm{a}=8 \therefore \mathrm{a}=3\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 792956)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজউক উত্তরা মডেল কলেজ, ঢাকা
+--------------------------------------------------------------------------------
+Question:
+ [math]\begin{bmatrix} 3x &amp; 0 &amp; 0 \\[6pt] 0 &amp; x-1 &amp; 0 \\[6pt] 0 &amp; 0 &amp; 2x- 3 \end{bmatrix}[/math] ম্যাট্রিক্সের ট্রেস 12 হলে, x এর মান কত?
+
+Options:
+ক. <p><span class="math-tex">\(-{5 \over 3}\)</span></p>
+
+খ. <p>&nbsp;<span class="math-tex">\(- {3 \over 5}\)</span></p>
+
+গ. <p>&nbsp;<span class="math-tex">\({5 \over 3}\)</span></p>
+
+ঘ. <p>&nbsp;<span class="math-tex">\({3 \over 5}\)</span></p>
+
+
+
+Correct Answer: গ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 792970)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ইসলামী বিশ্ববিদ্যালয়'১৬
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{A}=\left[\begin{array}{ll}2 &amp; 3 \\ 1 &amp; 3\end{array}\right], \mathrm{B}=\left[\begin{array}{lll}1 &amp; 3 &amp; 5 \\ 2 &amp; 0 &amp; 1\end{array}\right], \mathrm{C}=\left[\begin{array}{l}1 \\ 2 \\ 3\end{array}\right][/math] হলে, (AB)C ম্যাট্রিক্সের আকার কত? 
+
+Options:
+ক. <span class="math-tex">\(2 \times 3\)</span>
+খ. <span class="math-tex">\(2 \times 1\)</span>
+গ. <span class="math-tex">\(3 \times 2\)</span>
+ঘ. <span class="math-tex">\(3 \times 1\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+AB এর মাত্রা\(2 \times 3 ; \mathrm{C}\) এর মাত্রা\(3 \times 1\)\(\therefore(\mathrm{AB}) \mathrm{C}\) এর মাত্রা\(2 \times 1\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 792971)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর'১৭,রাজশাহী বিশ্ববিদ্যালয়'১৫,ইসলামী বিশ্ববিদ্যালয়'৫
+--------------------------------------------------------------------------------
+Question:
+ A একটি [math]2 \times 3[/math] ম্যাট্রিক্স  এবং B একটি  [math]3 \times 2[/math] ম্যাট্রিক্স তাহলে BA ম্যাট্রিক্সের আকার হবে- 
+
+Options:
+ক. <span class="math-tex">\(2 \times 3\)</span>
+খ. <span class="math-tex">\( 2 \times 2\)</span>
+গ. <span class="math-tex">\(3 \times 2\)</span>
+ঘ. <span class="math-tex">\(3 \times 3\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\(\therefore \mathrm{BA}\)এর পর্যায়\(=3 \times 3\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 792972)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'৭
+--------------------------------------------------------------------------------
+Question:
+A এবং B ম্যাট্রিক্স দুটির মাত্রা (order) যথাক্রমে  [math]2 \times 3[/math] এবং [math]3 \times 5[/math]হলে, নিচের কোনটি সত্য? 
+
+Options:
+ক. BA সংজ্ঞায়িত হবে
+খ. AB সংজ্ঞায়িত হবে
+গ. AB এর মাত্রা হবে&nbsp;<span class="math-tex">\(5 \times 2\)</span>
+ঘ. &nbsp;AB এর মাত্রা হবে&nbsp;<span class="math-tex">\(3 \times 3\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 792973)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+[math]\left(\begin{array}{ll}5 &amp; 6 \\ 2 &amp; 4\end{array}\right)[/math] ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স এর ট্রেস কোনটি? 
+
+Options:
+ক. <span class="math-tex">\(\frac{9}{8}\)</span>
+খ. <span class="math-tex">\(\frac{8}{9}\)</span>
+গ. <span class="math-tex">\(8\)</span>
+ঘ. <span class="math-tex">\(9\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+ধরি,\(\begin{aligned} &amp; \text {  } A=\left(\begin{array}{ll}5 &amp; 6 \\ 2 &amp; 4\end{array}\right) \therefore|A|=\left|\begin{array}{ll}5 &amp; 6 \\ 2 &amp; 4\end{array}\right|=20-12=8 \\ &amp; \therefore A^{-1}=\frac{\left(\begin{array}{cc}4 &amp; -6 \\ -2 &amp; 5\end{array}\right)}{8}=\left(\begin{array}{cr}\frac{1}{2} &amp; -\frac{3}{4} \\ -\frac{1}{4} &amp; \frac{5}{8}\end{array}\right) \\\end{aligned}\)\( \therefore \)ট্রেস,\(\begin{aligned} &amp;\text { }=\frac{1}{2}+\frac{5}{8}=\frac{4+5}{8}=\frac{9}{8}\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 792974)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'২১
+--------------------------------------------------------------------------------
+Question:
+[math]\overline{\mathbf{A}^{\mathrm{T}}}=\mathbf{A}[/math] হলে, [math]\mathbf{A}[/math] ম্যাট্রিক্সের Trace কেমন হবে? 
+
+Options:
+ক. ধনাত্মক &nbsp;
+খ. বাস্তব সংখ্যা &nbsp;
+গ. পূর্ণসংখ্যা &nbsp;
+ঘ. ঋণাত্মক&nbsp;
+
+
+Correct Answer: খ
+
+Solution:
+A ম্যাট্রিক্সটি বাস্তব ম্যাট্রিক্স\(\therefore \)এর ট্রেস এর মান সর্বদা বাস্তব হবে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 792975)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: GST গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+A এবং [math]\left(\mathrm{A}^{\mathrm{T}}+\mathrm{B}\right) \mathrm{C}[/math] ম্যাট্রিক্সের দুইটির ক্রম যথাক্রমে [math]4 \times 5[/math]  এবং [math]5 \times 2[/math]  হলে C ম্যাট্রিক্স এর ক্রম কী হবে? 
+
+Options:
+ক. <span class="math-tex">\(4 \times 2\)</span>
+খ. <span class="math-tex">\(4 \times 3\)</span>
+গ. <span class="math-tex">\(4 \times 4\)</span>
+ঘ. <span class="math-tex">\(4 \times 5\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+A এর ক্রম\(=4 \times 5\)\(\Rightarrow \mathrm{A}^{\mathrm{T}}\) এর ক্রম\(=5 \times 4\)B এর ক্রম হবে\(=5 \times 4\)\(\therefore\left(\mathrm{A}^{\mathrm{T}}+\mathrm{B}\right)\) এর ক্রম\(=5 \times 4\)\(\left(\mathrm{A}^{\mathrm{T}}+\mathrm{B}\right) \mathrm{C}=5 \times 2 \Rightarrow(5 \times 4) \mathrm{C}=5 \times 2\)C ম্যাট্রিক্সের সারি 4 এবং কলাম 2 না হলে\((5 \times 4) \) C গুণন সম্ভব নয় এবং গুণফলের মাত্রা \(5 \times 2\)পাওয়া সম্ভব নয়\(\therefore \mathrm{C}\)এর ক্রম\(=4 \times 2\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 792976)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+P, Q, R ম্যাট্রিক্সেগুলোর আকার [math]4 \times 5,5 \times 4[/math] এবং [math]2 \times 4[/math] হলে [math]\left(P^T+Q\right) R^T[/math] ম্যাট্রিক্সের  আকার কত হবে?
+
+Options:
+ক. <span class="math-tex">\( 5 \times 4\)</span>
+খ. <span class="math-tex">\(5 \times 2\)</span>
+গ. <span class="math-tex">\(4 \times 2\)</span>
+ঘ. <span class="math-tex">\(4 \times 5\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+P এর আকার\(=4 \times 5\)\(\mathrm{P}^{\mathrm{T}} \)এর আকার\(=5 \times 4\)Q এর আকার\(=5 \times 4\)\(\therefore \mathrm{P}^{\mathrm{T}}+\mathrm{Q}\) এর আকার\(=5 \times 4\)\(\mathrm{R}^{\mathrm{T}} \)এর আকার\(=4 \times 2\)\(\therefore\left(\mathrm{P}^{\mathrm{T}}+\mathrm{Q}\right) \mathrm{R}^{\mathrm{T}}  \)এর আকার\(=5 \times 2\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 792977)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+নিচের কোনটি বিপ্রতিসম ম্যাট্রিক্স?
+
+Options:
+ক. <span class="math-tex">\( \left[\begin{array}{rrr}0 &amp; -2 &amp; 3 \\ 2 &amp; 0 &amp; 4 \\ 3 &amp; -4 &amp; 0\end{array}\right]\)</span>
+খ. <span class="math-tex">\( \left[\begin{array}{rrr}0 &amp; -2 &amp; -3 \\ 2 &amp; 1 &amp; 4 \\ 3 &amp; -4 &amp; 0\end{array}\right]\)</span>
+গ. <span class="math-tex">\(\left[\begin{array}{ccc}0 &amp; -2 &amp; -3 \\ 2 &amp; 0 &amp; 4 \\ 3 &amp; -4 &amp; 0\end{array}\right]\)</span>
+ঘ. <span class="math-tex">\(\left[\begin{array}{rrr}0 &amp; -2 &amp; -3 \\ 2 &amp; 0 &amp; -4 \\ 3 &amp; -4 &amp; 0\end{array}\right]\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+Option (C) হতে পাই,ধরি,\(​​​​​​​A=\left[\begin{array}{ccc}0 &amp; -2 &amp; -3 \\ 2 &amp; 0 &amp; 4 \\ 3 &amp; -4 &amp; 0\end{array}\right]\\ \Rightarrow A^t=\left[\begin{array}{ccc}0 &amp; 2 &amp; 3 \\ -2 &amp; 0 &amp; -4 \\ -3 &amp; 4 &amp; 0\end{array}\right]\\=-\left[\begin{array}{ccc}0 &amp; -2 &amp; -3 \\ 2 &amp; 0 &amp; 4 \\ 3 &amp; -4 &amp; 0\end{array}\right]\therefore \mathrm{A}^{\mathrm{t}}=-\mathrm{A}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 792978)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'২১
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{ll}1 &amp; -1 \\ 1 &amp; -1\end{array}\right][/math] কোন ধরনের ম্যাট্রিক্স?
+
+Options:
+ক. শূন্যঘাতি
+খ. প্রতিসম
+গ. অভেদঘাতি
+ঘ. সমঘাতি
+
+
+Correct Answer: ক
+
+Solution:
+\(\begin{aligned}\mathrm{A}^2=\mathrm{A} \cdot \mathrm{A} &amp; =\left[\begin{array}{ll}1 &amp; -1 \\1 &amp; -1\end{array}\right]\left[\begin{array}{ll}1 &amp; -1 \\1 &amp; -1\end{array}\right] \\&amp; =\left[\begin{array}{ll}1-1 &amp; -1+1 \\1-1 &amp; -1+1\end{array}\right]=\left[\begin{array}{ll}0 &amp; 0 \\0 &amp; 0\end{array}\right]=0\end{aligned}\)যদি কোন বর্গ ম্যাট্রিক্স A এর জন্য\(\mathrm{A}^2=0\) হয় তবে A কে শূন্যঘাতি ম্যাট্রিক্স বলে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 792979)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+ a এর কোন মানের জন্য [math]\left[\begin{array}{ccc}-4 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; a \\ -1 &amp; 4 &amp; 0\end{array}\right][/math]  ম্যাট্রিক্সটি প্রতিসম  ম্যাট্রিক্স হবে?
+
+Options:
+ক. <span class="math-tex">\(4\)</span>
+খ. <span class="math-tex">\(0\)</span>
+গ. <span class="math-tex">\(-1\)</span>
+ঘ. <span class="math-tex">\(-4\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+ধরি,\(​​​​​​​\mathrm{A}=\left[\begin{array}{ccc}-4 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; \mathrm{a} \\ -1 &amp; 4 &amp; 0\end{array}\right] \Rightarrow A^{\mathrm{T}}=\left[\begin{array}{ccc}-4 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; 4 \\ -1 &amp; \mathrm{a} &amp; 0\end{array}\right] \because A^{\mathrm{T}}=\mathrm{A}\\ \Rightarrow\left[\begin{array}{ccc}-4 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; 4 \\ -1 &amp; \mathrm{a} &amp; 0\end{array}\right]=\left[\begin{array}{ccc}-4 &amp; 0 &amp; -1 \\ 0 &amp; 3 &amp; \mathrm{a} \\ -1 &amp; 4 &amp; 0\end{array}\right] \therefore \mathrm{a}=4\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 792980)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: খুলনা বিশ্ববিদ্যালয়'১৮
+--------------------------------------------------------------------------------
+Question:
+[math]\left[\begin{array}{ll}1 &amp; 0 \\ 0 &amp; 1\end{array}\right][/math] একটি-
+
+i. কর্ণ ম্যাট্রিক্স
+
+ii. স্কেলার ম্যাট্রিক্স
+
+iii. অভেদক ম্যাট্রিক্স
+
+উপরের তথ্যের আলোকে নিচের কোনটি সত্য?
+
+Options:
+ক. <span class="math-tex">\(i, ii\)</span>
+খ. <span class="math-tex">\(i, iii\)</span>
+গ. <span class="math-tex">\(ii, iii\)</span>
+ঘ. <span class="math-tex">\( i, ii, iii\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+\(\left[\begin{array}{ll}1 &amp; 0 \\ 0 &amp; 1\end{array}\right]\)একটি কর্ণ ম্যাট্রিক্স (i) নং সত্যস্কেলার ম্যাট্রিক্স (ii) নং সত্যম্যাট্রিক্সটি, অভেদক (iii) নং সত্য
+
+Explanation:
+
+
+Sub-Questions:
+

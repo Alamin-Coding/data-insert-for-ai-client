@@ -1,0 +1,1363 @@
+================================================================================
+Question #1 (ID: 408613)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+নতুন ভবন নির্মাণের সময় [math]60 \mathrm{~kg}[/math] ভরের একজন শ্রমিক [math]40 \mathrm{~kg}[/math] ভরের সিমেন্টের বস্তা মাথায় নিয়ে [math]2 \text { min}[/math] সময়ে মই বেয়ে ভবনের ছাদে উঠল। মইটির দৈর্ঘ্য [math]40 \mathrm{~m}[/math]। এর পর সে আনত মসৃণ তল বেয়ে পিছলিয়ে নিচে নামল। মই ও মসৃ ণ তল উভয়ই ভূমির সাথে [math]30^{\circ} \mathrm{C}[/math] কোণে আনত।
+
+Options:
+ঘ. পিছলিয়ে পড়ার মুহূর্তে শ্রমিকের হাতের হাতুড়িটি পড়ে গেল। শ্রমিক না হাতুড়ি কে আগে ভূমিতে পৌঁছাবে? গাণিতিক ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে,[math]\hspace{1 cm}[/math]
+মইয়ের উচ্চতা,[math]\hspace{1 cm}\hspace{1.5 cm}\begin{aligned} \mathrm{h}=\mathrm{AB} & =\mathrm{AC} \sin 30^{\circ} \\ & =40 \sin 30^{\circ} \\ & =40 \times \frac{1}{2}=20 \mathrm{~m} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+AD মসৃণ তলের দৈর্ঘ্য s হলে,[math]\hspace{2.5 cm}\begin{array}{l} \quad \sin 30^{\circ}=\frac{h}{s} \\ \Rightarrow \mathrm{s}=\frac{\mathrm{h}}{\sin 30^{\circ}}=\frac{20}{\frac{1}{2}}=40 \mathrm{~m}\end{array}[/math]
+ [math]\hspace{1 cm}[/math]
+AD আনত তলে শ্রমিকের পিছালয়ে পড়ার ক্ষেত্রে,এখানে,[math]\hspace{1 cm}[/math]
+AD তলের দৈর্ঘ্য, [math]S = 40~m[/math]
+ [math]\hspace{1 cm}[/math]
+ত্বরণ, [math]\mathrm{a}=4.9 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+আদিবেগ, [math]\mathrm{u}=0 \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+তল বেয়ে নামতে সময়, t = ?ত্বরণ a হলে বল,[math]\hspace{1.5 cm}\begin{array}{l} \quad \mathrm{F}=\mathrm{ma}=\mathrm{mg} \sin 30^{\circ} \\ \therefore \mathrm{a}=g \sin 30^{\circ}=9.8 \times \frac{1}{2}=4.9 \mathrm{~ms}^{-2}\\ \therefore s=u t+\frac{1}{2} a t^{2} \\ \Rightarrow s=0+\frac{1}{2} a t^{2} \\ \Rightarrow t^{2}=\frac{2 s}{a}=\frac{2 \times 40}{4.9} \\ \therefore t=4.04 \mathrm{~s} \end{array}[/math]
+এখন,এখানে,[math]\hspace{1 cm}[/math]
+দালানের উচ্চতা, h = 20 m[math]\hspace{1 cm}[/math]
+হাতুড়ির আদিবেগ, [math]\mathrm{u}=0 \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+সময়, [math]t^\prime =?[/math]
+ [math]\hspace{1 cm}\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+হাতুড়িটি খাড়া নিচে পড়ার ক্ষেত্রে সময় হলে [math]t^\prime[/math]
+ হলে,[math]\hspace{1.5 cm}\begin{array}{l} \quad h=u t^{\prime}+\frac{1}{2} g t^{\prime 2} \\ \Rightarrow \mathrm{h}=\frac{1}{2} \mathrm{gt}^{\prime 2} \\ \Rightarrow \mathrm{t}^{\prime 2}=\frac{2 \mathrm{~h}}{\mathrm{~g}}=\frac{2 \times 20}{9.8} \\ \therefore ~ \mathrm{t}^{\prime}=2.02 \mathrm{~s} \\ \end{array}[/math]
+দেখা যাচ্ছে, [math]t^{\prime}সুতরাং, হাতুড়িটি শ্রমিকের আগে ভূমিতে পৌছাবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ হাতুড়িই আগে পৌঁছাবে। কারণ শ্রমিকের ত্বরন [math]a=g\sin30^\circ=g/2\approx4.9\ \mathrm{m/s^2}[/math] এবং তাকে [math]L=40\ \mathrm{m}[/math] পথ সম্পূর্ণ করতে হবে, তাই [math]t_{\text{শ্রমিক}}=\sqrt{\frac{2L}{a}}=\sqrt{\frac{80}{4.9}}\approx4.04\ \mathrm{s}[/math]। হাতুড়ি উচ্চতা [math]h=L\sin30^\circ=20\ \mathrm{m}[/math] থেকে পড়লে [math]t_{\text{হাতুড়ি}}=\sqrt{\frac{2h}{g}}=\sqrt{\frac{40}{9.8}}\approx2.02\ \mathrm{s}[/math] হওয়ায় হাতুড়ি আগে ভূমিতে পৌঁছায়।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408612)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+একটি দালানের ছাদের সাথে দুটি ম‍ই লাগানো আছে। একটি মই এর দৈর্ঘ্য [math]5 \rm{~m}[/math] এবং এটি অনুভূমিকের সাথে [math]60^\circ[/math] কোণ করে রয়েছে। দ্বিতীয় মইটির দৈর্ঘ্য [math]6\rm{~m}[/math] এবং এটি অনুভূমিকের সাথে [math]46.2^\circ[/math] কোণ করে রয়েছে। দুইজন নির্মাণ শ্রমিক উভয়ে [math]20 \rm{~kg}[/math] বোঝা নিয়ে [math]1[/math] মিনিটে ভিন্ন ভিন্ন মই ব্যবহার করে ছাদে উঠতে পারেন। প্রথম মই বেয়ে যিনি উঠেন তার ভর [math]60 \rm{~kg}[/math] এবং দ্বিতীয় মই বেয়ে যিনি উঠেন তার ভর [math]70 \rm{~kg}[/math]
+
+Options:
+গ. প্রথম শ্রমিকের ক্ষেত্রে ছাদে উঠার জন্য সম্পাদিত কাজ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,[math]\hspace{1 cm}[/math]
+প্রথম শ্রমিকের ক্ষেত্রে ম‍ইয়ের দৈর্ঘ্য, AC = 5 m[math]\hspace{1 cm}[/math]
+শ্রমিকের ভর = 60 kg[math]\hspace{1 cm}[/math]
+বোঝার ভর = 20 kg[math]\hspace{1 cm}[/math]
+মোট ভর, m= (60+20) kg = 80kg[math]\hspace{1 cm}[/math]
+অনুভূমিকের সাথে কোণ, [math]\theta=60^{\circ}[/math]
+ [math]\hspace{1 cm}[/math]
+উচ্চতা, [math]\mathrm{h}=\mathrm{AC} \sin \theta =5 \sin 60^{\circ} =4.33 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]W_1 = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{mgh} \\ & =80 \times 9.8 \times 4.33 \\ & =3394.82 \mathrm{~J} \end{aligned}[/math]
+ [math]\therefore[/math]
+ প্রথম শ্রমিকের ক্ষেত্রে ছাদের উঠার জন্য সম্পদিত কাজ [math]\text { 3394.82 J (Ans.) }[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: প্রথম শ্রমিকের মোট ভর [math]60+20=80\ \mathrm{kg}[/math], এবং ছাদের উঁচুতি [math]h=5\sin60^\circ=\frac{5\sqrt{3}}{2}\approx4.33\ \mathrm{m}[/math]. তাই করা কাজ [math]W=mgh=80\times9.8\times4.33\approx3.39\times10^3\ \mathrm{J}[/math], যা হল মহাকর্ষীয় সম্ভাব্য শক্তির বৃদ্ধি।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408611)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]10 \mathrm{~kg}[/math] ভরের একটি বস্তু নিয়ে [math]70 \mathrm{~kg}[/math] ভরের একজন ব্যক্তি একটি দালানের ছাদে ওঠার জন্য অনুভূমিকের সাথে [math]45^\circ[/math] কোণে [math]30\rm{~m}[/math] দৈর্ঘ্যের একই মই ব্যবহার করলেন। [math]\left[\mathrm{g}=9.8 \mathrm{~ms}^{-2}\right][/math]
+
+Options:
+ঘ. উদ্দীপকে মইটিকে অনুভূমিকের সাথে [math]30^\circ[/math] কোণে স্থাপন করলে ব্যক্তিটি কী ধরনের সুবিধা পাবেন তা গাণিতিকভাবে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+চিত্র হতে পাই,[math]\hspace{1.5 cm}\begin{aligned} \sin \theta & =\frac{\mathrm{h}}{l} \\ \Rightarrow \mathrm{h} & =l \sin \theta \\ & =30 \sin \left(45^{\circ}\right) \\ & =21.213 \mathrm{~m} \end{aligned}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+মোট ভর, m= 70 + 10 = 80 kg[math]\hspace{1 cm}[/math]
+মই এর দৈর্ঘ্য, [math]l=30 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+অনুভূমিকের সাথে উৎপন্ন কোণ, [math]\theta =45^{\circ}[/math]
+ [math]\hspace{1 cm}[/math]
+ছাদের উচ্চতা, h[math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যক্তিটি কর্তৃক কৃতকাজ, W = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{mgh} \\ & =80 \times 9.8 \times 21.213 \\ & =16631.15 \mathrm{~J} \text { (Ans. }) \end{aligned}[/math]
+ 
+[Image]
+মইটিকে অনুভূমিকের সাথে 30° কোণে স্থাপন করলে কৃতকাজ W হলে,এক্ষেত্রে,[math]\hspace{1 cm}[/math]
+মোট ভর, [math]m=(10+70) \mathrm{kg}=80 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+মইয়ের দৈর্ঘ্য AC = 30 m[math]\hspace{1 cm}[/math]
+অনুভূমিকের সাথে কোণ [math]\theta=30^{\circ}[/math]
+ [math]\hspace{1 cm}[/math]
+উচ্চতা, [math]\mathrm{h}=\mathrm{AB}=\mathrm{AC} \sin \theta =30 \sin 30^{\circ}=15 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]W=?[/math]
+ [math]\hspace{1 cm}\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{mgh} \\ & =80 \times 9.8 \times 15 \\ & =11760 \mathrm{~J} \end{aligned}[/math]
+দেখা যাচ্ছে, [math]Wসুতরাং, মইটি অনুভূমিকের সাথে 30° কোণে রাখলে ব্যক্তিটির কৃতকাজ, আগের থেকে কম হবে। অর্থাৎ ব্যক্তিটি তুলনামূলক কম কষ্ট করে মই ব্যবহার করে বস্তুটি নিয়ে দালানের ছাদে উঠতে পারবে। অর্থাৎ ব্যক্তিটি কায়িক শক্তি কম খরচ করার সুবিধা পাবেন।
+
+Explanation:
+ব্যাখ্যা: ঘ মোট ভর [math]m=70+10=80\ \mathrm{kg}[/math], উচ্চতা হলে [math]h_{45}=30\sin45^\circ=30\times\frac{\sqrt2}{2}=15\sqrt2\approx21.21\ \mathrm{m}[/math] ও [math]h_{30}=30\sin30^\circ=30\times\frac12=15\ \mathrm{m}[/math]. কাজ = mgh অনুযায়ী [math]W_{45}=80\times9.8\times15\sqrt2\approx1.66\times10^4\ \mathrm{J}[/math], [math]W_{30}=80\times9.8\times15\approx1.176\times10^4\ \mathrm{J}[/math], ফলে শক্তি সাশ্রয় [math]\Delta W\approx4.87\times10^3\ \mathrm{J}[/math]. তাই [math]30^\circ[/math] কোণে মই বসালে উল্লম্বে কম চড়তে হবে এবং প্রায় [math]4.87\ \mathrm{kJ}[/math] শক্তি বাঁচবে, অর্থাৎ আরো সহজে উঠা যাবে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 408610)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]10 \mathrm{~kg}[/math] ভরের একটি বস্তু নিয়ে [math]70 \mathrm{~kg}[/math] ভরের একজন ব্যক্তি একটি দালানের ছাদে ওঠার জন্য অনুভূমিকের সাথে [math]45^\circ[/math] কোণে [math]30\rm{~m}[/math] দৈর্ঘ্যের একই মই ব্যবহার করলেন। [math]\left[\mathrm{g}=9.8 \mathrm{~ms}^{-2}\right][/math]
+
+Options:
+গ. ব্যক্তিটির কৃতকাজ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+চিত্র হতে পাই,[math]\hspace{1.5 cm}\begin{aligned} \sin \theta & =\frac{\mathrm{h}}{l} \\ \Rightarrow \mathrm{h} & =l \sin \theta \\ & =30 \sin \left(45^{\circ}\right) \\ & =21.213 \mathrm{~m} \end{aligned}[/math]
+এখানে,[math]\hspace{1 cm}[/math]
+মোট ভর, m= 70 + 10 = 80 kg[math]\hspace{1 cm}[/math]
+মই এর দৈর্ঘ্য, [math]l=30 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+অনুভূমিকের সাথে উৎপন্ন কোণ, [math]\theta =45^{\circ}[/math]
+ [math]\hspace{1 cm}[/math]
+ছাদের উচ্চতা, h[math]\hspace{1 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যক্তিটি কর্তৃক কৃতকাজ, W = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{W} & =\mathrm{mgh} \\ & =80 \times 9.8 \times 21.213 \\ & =16631.15 \mathrm{~J} \text { (Ans. }) \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ ব্যক্তির কৃতকাজটি ব্যক্তি ও সঙ্গে থাকা বস্তু দুটির গরুত্বীয় সম্ভাব্য শক্তির বৃদ্ধি, তাই [math]W=(M_{tot})gh[/math]। এখানে [math]M_{tot}=70+10=80\ \mathrm{kg}[/math], [math]h=30\sin45^\circ=15\sqrt2\ \mathrm{m}[/math], তাই [math]W=80\times9.8\times15\sqrt2=11760\sqrt2\ \mathrm{J}\approx1.66\times10^4\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 408609)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+প্রতিটি 0.125 [math]m^3[/math] আয়তনের এবং 250 kg ভরের 4টি ব্লককে পরপর সাজিয়ে স্তম্ভ তৈরি করা হলো।
+
+Options:
+ঘ. স্তম্ভটিকে আনুভূমিকের সাথে 30° কোণে আনত রাখতে কাজ ও উদ্দীপকে বর্ণিত স্তম্ভ তৈরিতে কা জের তুলনামূলক গাণিতিক বিশ্লেষণ দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+উদ্দীপকের ব্লকগুলি ঘনকাকৃতির হলে এর আয়তন [math]V=a^3[/math]
+[যেখানে, a হলো ঘনকের বাহুর দৈর্ঘ্য][math]\begin{array}{l}\Rightarrow \mathrm{a}^{3}=0.125\\ \Rightarrow \mathrm{a}=\sqrt[3]{0.125}=0.5 \mathrm{~m}\end{array}[/math]
+ [math]\therefore[/math]
+ 4 টি ব্লকের উচ্চতা [math]\mathrm{h}=4 \mathrm{a}=4 \times 0.5 \mathrm{~m}=2 \mathrm{~m}[/math]
+ 
+[Image]
+১ম ব্লকের জন্য ভারকেন্দ্রের সরণ [math]h_1[/math]
+ = 0[math]\therefore[/math]
+ ১ম ব্লকের জন্য কৃতকাজ, [math]W_1[/math]
+ = 0 J২য় ব্লকের জন্য ভারকেন্দ্রের সরণ [math]h_2[/math]
+ = h mতাই, ২য় ব্লকের জন্য কৃতকাজ, [math]\mathrm{W}_{2}=\mathrm{mgh}_{2}=\mathrm{mgh}[/math]
+৩য় ব্লকের জন্য ভারকেন্দ্রের সরণ [math]\mathrm{h}_{3}=2 \mathrm{~h} \mathrm{~m}[/math]
+তাই, ৩য় ব্লকের জন্য কৃতকাজ, [math]\mathrm{W}_{3}=\mathrm{mgh}_{3}=\mathrm{mg}(2 \mathrm{~h})[/math]
+৪র্থ ব্লকের জন্য ভারকেন্দ্রের সরণ, [math]h_4[/math]
+ = 3h m[math]\therefore[/math]
+ ৪র্থ ব্লকের জন্য কৃতকাজ, [math]W_{4}=m g h_{4}=m g(3 h)[/math]
+এখানে,ব্লকের ভর, m = 250 kgউচ্চতা, h = 0.5 m[math]\therefore[/math]
+ উদ্দীপকে বর্ণিত স্তম্ভ তৈরিতে কৃতকাজ, W = W1+ W2+ W3+ W4 = 0 + mgh + mg (2h) + mg (3h)[math]\begin{aligned} W & =W_{1}+W_{2}+W_{3}+W_{4} =0+m g h+m g(2 h)+m g(3 h)\\ & =m g h(1+2+3) \\ & =6 \mathrm{mgh} \\ & =6 \times 250 \times 9.8 \times 0.5 \\ & =7350 \mathrm{~J} \end{aligned}[/math]
+
+[Image]
+স্তম্ভের মোট ভর, M = 4 টি ব্লকের ভর= 4 m= 4 × 250 kg= 1000 kgস্তম্ভের মোট উচ্চতা, H = 4h= ( 4 x 0.5 ) m= 2 mখাড়া অবস্থায় স্তম্ভের ভরকেন্দ্রের উচ্চতা, [math]x_1[/math]
+ = 1 mঅনুভূমিকের সাথে 30° কোণে আনত অবস্থায় স্তম্ভের ভরকেন্দ্রের উচ্চতা, [math]x_{2}=1 \sin 30^{\circ}=0.5 \mathrm{~m}[/math]
+স্তম্ভের ভরকেন্দ্রের সরণ, [math]x=x_{1}-x_{2}=1-0.5=0.5 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+স্তম্ভটিকে অনুভূমিকের সাথে 30° কোণে আনত রাখতে কৃতকাজ[math]\begin{aligned} \mathrm{W}^{\prime}=\mathrm{Mgx} & =1000 \times 9.8 \times 0.5 \\ & =4900 \mathrm{~J} \end{aligned}[/math]
+দেখা যাচ্ছে, [math]W > W^\prime[/math]
+ এবং [math]\frac{\mathrm{W}}{\mathrm{W}^{\prime}}=\frac{7350}{4900}=1.5 \therefore \mathrm{W}=1.5 \mathrm{~W}^{\prime}[/math]
+স্তম্ভটিকে সুতরাং বলা যায়, উদ্দীপকে বর্ণিত স্তম্ভ তৈরিতে কৃতকাজ অনুভূমিকের সাথে 30° কোণে আনত রাখতে কৃতকাজের 1.5 গুণ।
+
+Explanation:
+ব্যাখ্যা: ঘ প্রথমে ব্লকের পার্শ্বদৈর্ঘ্য পাওয়া যায় [math]s=(0.125)^{1/3}=0.5\ \text{m}[/math], তাই সারি‑স্তম্ভের দৈর্ঘ্য [math]L=4s=2.0\ \text{m}[/math] এবং মোট ভর [math]M=4\times250=1000\ \text{kg}[/math]। যদি স্তম্ভটি তলের এক প্রান্তে ঘূর্ণন করে উলম্ব থেকে [math]30^\circ[/math]‑এ নেওয়া হয়, তাহলে কেন্দ্রীয় ভরের উচ্চতা পরিবর্তন হবে [math]h_i=L/2=1.0\ \text{m}[/math] থেকে [math]h_f=(L/2)\sin30^\circ=0.5\ \text{m}[/math], এক于是 শক্তি পরিবর্তন (কাজ) [math]\Delta U=Mg(h_f-h_i)=1000\times9.8\times(-0.5)=-4900\ \text{J}[/math] (ম্যাগনিচিউড 4900 জুল)। উদ্দীপক (impulse)‑এর তুলনা: ধীরগতিতে করা হলে নেট উদ্দীপক প্রায় শূন্য, আর দ্রুত ধাক্কা দিলে উদ্দীপক নির্ভর করে গতিবৈচিত্র্যের উপর এবং স্ট্যাটিক কাজের মতো নির্ধারিত নয়; তাই কাজটি নির্দিষ্ট (ΔU) কিন্তু উদ্দীপকটি নির্ভরশীল এবং সরাসরি তুলনীয় নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 408608)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+শিশুপার্কে স্থাপিত একটি স্লিপারের উচ্চতা BC = 2 m এবং হেলানো তলটি 30° কোণে ঢালু। 25 kg ভরের একজন শিশু স্লিপারের শীর্ষ বিন্দু (B) থেকে ঘর্ষণহীনভাবে স্লিপিং করে ভূমিতে A বিন্দুতে পৌঁছে।
+
+Options:
+গ. আনত স্লিপারের দৈর্ঘ্য হিসাব করো।
+
+
+Correct Answer: 
+
+Solution:
+গদেওয়া আছে,ভূমি হতে হেলানো তলের উচ্চতা, BC = h[math]\therefore[/math]
+ h = 2 mহেলানো তলটি 30° কোণে ঢালু আনত স্লিপারের দৈর্ঘ্য, AB = ?[math]\therefore \sin 30^{\circ}=\frac{h}{\mathrm{AB}} \Rightarrow \mathrm{AB}=\frac{h}{\sin 30^{\circ}}=\frac{2}{\frac{1}{2}}=4 \mathrm{~m} \text {(Ans.) }[/math]
+
+
+Explanation:
+গ স্লাইডারের দৈর্ঘ্য হবে [math]L=\dfrac{উচ্চতা}{\sin\theta}=\dfrac{2}{\sin30^\circ}=\dfrac{2}{0.5}=4\ \text{m}[/math]. ব্যাখ্যা: ঢালুতে উপরের উচ্চতা ঢালুর দৈর্ঘ্যের সাইন সমান, তাই [math]L=h/\sin\theta[/math] থেকে ফল মেলে।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 408589)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022, 2022 | Boards: Dhaka Board | Tags: Jessore Board, Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+সমতলে হাঁটা অপেক্ষা সিঁড়ি দিয়ে হেঁটে উপরে উঠা কষ্টকর। - ব্যাখ্যা কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আমরা সমতলে সাধারণত অনুভূমিক বরাবর হেঁটে থাকি। হাঁটার সময় অনুভূমিক বরাবর কোনো বাহ্যিক বল ক্রিয়াশীল থাকে না। কিন্তু সিঁড়ি দিয়ে হেঁটে উপরে উঠার সময় পৃথিবীর অভিকর্ষ বল আমাদের গতিপথের বিপরীত দিকে তথা নিচের দিকে ক্রিয়াশীল থাকে। উপরে উঠার জন্য আমাদেরকে এই অভিকর্ষের বিরুদ্ধে কাজ করতে হয়, যা সমতলে হাঁটার ক্ষেত্রে প্রয়োজন হয় না। তাই সমতলে হাঁটা অপেক্ষা সিঁড়ি দিয়ে হেঁটে উপরে উঠা কষ্টকর।
+
+Explanation:
+সমতলে হাঁটলে শরীরের ভরকেন্দ্রের উচ্চতা প্রায়ই অপরিবর্তিত থাকে, তাই গতি ধরে রাখতে অতিরিক্ত উচ্চতা বৃদ্ধির জন্য কাজ করতে হয় না; কিন্তু সিঁড়ি দিয়ে উঠলে প্রতিটি ধাপে শরীরকে উপর দিকে তুলতে হয়, ফলে প্রতিটি ধাপে করার কাজটি হয় [math]W= mgh[/math] যা অতিরিক্ত শক্তি খরচ করে। তাই সিঁড়ি দিয়ে ওঠা সমতলে হাঁটার চেয়ে বেশি কষ্টকর।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 408588)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: রংপুর সরকারি সিটি কলেজে
+--------------------------------------------------------------------------------
+Question:
+রংপুর সরকারি কলেজে নতুন ভবন নির্মাণের সময় 60 kg ভরের একজন শ্রমিক 40 kg ভরের একটি সিমেন্টের বস্তাসহ মই বেয়ে 2 min সময়ে ভবনের ছাদে উঠল। মইটির দৈর্ঘ্য 40m। এরপর সে একটি আনত মসৃণ (ঘর্ষণহীন) তল বেয়ে পিছলিয়ে নিচে নামল। মই এবং মসৃণ তল উভয়ই ভূমির সাথে 30° কোণে আনত।
+
+Options:
+ঘ. পিছলিয়ে পড়ার মুহূর্তে শ্রমিকের হাতে থাকা হাতুরিটি হাত থেকে পড়ে গেল। শ্রমিক এবং হাতুড়ি এর মধ্যে কে আগে ভূমিতে পৌছাবে? গাণিতিক বিশ্লেষণের ভিত্তিতে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\begin{array}{l}\mathrm {v_{Q}}=0 \\\mathrm s=40 \mathrm{~m} \\\mathrm a=\mathrm g \sin 30^{\circ}=4.9 \mathrm{~m} \mathrm{~s}^{-2}\end{array}[/math]
+শ্রমিকের ক্ষেত্রে,[math]\hspace{1.5cm}\begin{array}{l}\begin{array}{l}\mathrm{s}=\mathrm{v}_0\mathrm{t}+\frac{1}{2}\mathrm{at}^2\\\Rightarrow 40=0+\frac{1}{2}\times4.9\times\mathrm{t}^2\end{array}\\\begin{array}{l}\Rightarrow \mathrm t^2=\frac{80}{4.9}\\\Rightarrow\mathrm t=4.04\mathrm{\sec}\end{array}\end{array}[/math]
+হাতুড়ির ক্ষেত্রে,[math]\hspace{1.5cm}\begin{array}{l}\mathrm{h}=\mathrm{v}_0\mathrm{t}_1+\frac{1}{2}\mathrm{gt}_1^2\\\Rightarrow 20=0+\frac{1}{2}\times9.8\times\mathrm{t}_1^2\\\Rightarrow\mathrm{t}_1^2=\frac{40}{9.8}\\\Rightarrow\mathrm{t}_1=2.02\mathrm{\sec}\end{array}[/math]
+এখানে, [math]\mathrm t_{1}<\mathrm t[/math]
+হাতুড়িটির পাতনকাল শ্রমিকটির পাতনকাল অপেক্ষা কম ।[math]\therefore[/math]
+ হাতুড়িটি আগে ভূমিতে পৌঁছাবে। [math]\\[/math]
+
+
+Explanation:
+ঘ উভয়ে একসাথে ভূমিতে পৌঁছাবে। কারণ আনত মসৃণ হলে বস্তুগুলোর ত্বরণ হবে শুধু কাতীয় কম্পোনেন্ট [math]a=g\sin30^\circ=g/2[/math] এবং তা ভরের উপর নির্ভর করে না; হাতুড়ি মুক্ত হলে তার আনুভাগিক ত্বরণও একই থাকবে, তাই একই প্রাথমিক গতি ও একই দূরত্ব হলে পৌঁছানোর সময় [math]t=\sqrt{2s/a}[/math] উভয়ের জন্য সমান হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 408587)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: BAF Shaheen college, Jessore
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে দুটি হেলান তল AC ও BC এর শীর্ষবিন্দু C এর উভয় পাশে 2 kg ভরের দুটি লোহার গোলকের অবস্থান দেখানো হলো। AC তলের দৈর্ঘ্য 20m।
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের গোলক দুটিকে একই সাথে মুক্ত করলে একই সময়ে AB অনুভূমিক তলে পৌঁছাবে কিনা গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+[math]\begin{array}{l}\mathrm s_1=20 \mathrm m\\\mathrm a_1= \mathrm g cos 60^\circ\\\mathrm t_1= ?\\\mathrm v_0=0\end{array}[/math]
+উদ্দীপক অনুসারে AC এর ক্ষেত্রে,[math]\hspace{1.5cm}\begin{array}{l}\mathrm s_1=0+\mathrm{\frac{1}{2}a_1t_1^2}\\\Rightarrow 20=\frac{1}{2}\times \mathrm g\cos60^{\circ}\times\mathrm{t}_1^2\\\Rightarrow \mathrm t_1=2.86\mathrm{\sec}\end{array}[/math]
+এখানে,[math]\begin{array}{l}\mathrm s_2=BC =14.14 \mathrm m\\\mathrm a_2= \mathrm g cos 45^\circ\\\mathrm t_2= ?\\\mathrm v_0=0\end{array}[/math]
+BC এর ক্ষেত্রে,[math]\hspace{1.5cm}\begin{array}{l}\sin.45^{\circ}=\frac{10}{BC}\\\Rightarrow \mathrm {BC}=14.14\mathrm{~m}\end{array}[/math]
+এবার, [math]\mathrm s_{2}=0+\mathrm{\frac{1}{2} a_{2} t_{2}{ }^{2}}[/math]
+ [math]\begin{array}{l}\Rightarrow 14.14=\frac{1}{2}\times \mathrm g\cos45^{\circ}\times\mathrm{t}_2^2\\\therefore\mathrm{t}_2=2.02\mathrm{\sec}\end{array}[/math]
+যেহেতু [math]\mathrm t_{2}<\mathrm t_{1}[/math]
+সেহেতু CB তলের গোলকটি আগে মাটিতে পৌঁছাবে। [math]\\[/math]
+
+
+Explanation:
+ঘ তারা সাধারণত একই সময়ে পৌঁছাবে না। স্লোপে ত্বরণ হচ্ছে [math]a=g\sin\theta[/math] (ঘর্ষণ শূন্য ধরা হলে) এবং শুরুতে বিশ্রামে থেকে দূরত্ব [math]s[/math] পাড়ি দিতে সময় [math]t=\sqrt{\dfrac{2s}{g\sin\theta}}[/math] হওয়ায়, দুই বস্তুর একই সময় পেতে হলে শর্ত হবে [math]\dfrac{s_1}{\sin\theta_1}=\dfrac{s_2}{\sin\theta_2}[/math]; AC=20m দেয়া থাকলেও BC এবং কোণ যদি এই শর্ত পূরণ না করে তাহলে সময় ভিন্ন হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 408586)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Cantonment Public School and College Momenshahi
+--------------------------------------------------------------------------------
+Question:
+চিত্রে ABCD দেয়ালের উপর 2 kg ভরের একটি ব্লক তল বেয়ে B বিন্দুতে এসে ভূমিতে পতিত হয়।
+
+
+[Image]
+
+
+Options:
+ঘ. ব্লকটি ভূমিতে 6m দূরত্বে F বিন্দুতে অবস্থিত একজন লোককে আঘাত করবে কি না— গাণিতিকভাবে যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে, [math]\theta=40^{\circ}[/math]
+ [math]\hspace{1.5cm}\begin{aligned}\mathrm{AP} & =8 \times \sin 40^{\circ}=5.14 \mathrm{~m} \\\mathrm{y}_{0} & =\mathrm{PD} \\& =\mathrm{AD}-\mathrm{AP}=(20-5.14) \mathrm{m}=14.86 \mathrm{~m}\end{aligned}[/math]
+B বিন্দুতে বেগ,[math]\hspace{1.5cm}\begin{aligned}\mathrm v & =\sqrt{2 \mathrm{~g} \sin \theta \mathrm{AB}} \\& =\sqrt{2 \times 9.8 \times \sin 40^{\circ} \times 8}=10 \mathrm{~m} \mathrm{~s}^{-1}\end{aligned}[/math]
+আমরা জানি, [math]\mathrm y=\mathrm{y_0+v_{y0}t}+\mathrm{\frac{1}{2}at^2}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow0=14.86+10\sin40^{\circ}\mathrm{t}-\frac{1}{2}\times9.8\times\mathrm{t}^2\\\Rightarrow4.9\mathrm{t}^2-6.428\mathrm{t}-14.86=0\\\therefore\mathrm{t}=\frac{+6.4\pm\sqrt{(-6.428)^2-4\times4.9(-14.86)}}{2\times4.9}\\=2.52\mathrm{~s},-1.2\mathrm{~s}\\\therefore\mathrm{x}=\mathrm{v}_{\mathrm{x}0}\mathrm{t}=\mathrm{v}\cos\theta_0\mathrm{t}\\=10\cos40\times2.52\\=19.30\mathrm{~m}\end{array}[/math]
+এখানে, [math]\mathrm x>6\mathrm m[/math]
+অতএব B বিন্দুর বস্তুটি F বিন্দুর লোকটিকে আঘাত করবে না। [math]\\[/math]
+
+
+Explanation:
+ঘ সিদ্ধান্তের জন্য B বিন্দু থেকে ভূম পর্যন্ত পতনের উচ্চতা [math]h[/math] এবং B ত্যাগের তত্ক্ষণিক অনুভূমিক বেগ [math]v_0[/math] জানা জরুরি; পতনের সময় [math]t=\sqrt{2h/g}[/math] এবং অনুভূমিক পরিসর হবে [math]R=v_0t=[math]v_0\sqrt{2h/g}[/math].  
+যদি আপনি শক্তি সংরক্ষণ থেকে [math]v_0=\sqrt{2g(H-h_B)}[/math] (যেখানে ব্লক উচ্চতা [math]H[/math] থেকে বেয়ে এসে B তে পৌঁছেছে) দিয়ে [math]R[/math] গণনা করে দেখেন যে [math]R\ge 6\ \text{m}[/math] তাহলে ব্লক F-এ আঘাত করবে, নাহলে আঘাত করবে না; তাই সঠিক যাচাই করতে উপরের [math]h[/math] এবং [math]H[/math]–এর মান দিন।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 408585)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Dhaka Residential Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+2000 kg ভরের একটি গাড়ি ভূমির সাথে 30° কোণে আনত একটি রাস্তা ধরে [math]16 \ m \ s^{-1}[/math] বেগে নিচে নামার সময় গাড়ির চালক ব্রেক প্রয়োগ করায় গাড়িটি 40m দূরত্ব অতিক্রম করার পর থেমে যায়।
+
+Options:
+গ. গাড়িটির আনত তলের প্রতিক্রিয়া হিসাব কর।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে, গাড়ির ভর, m = 2000 kgভূমির সাথে কোণ, [math]\theta=30^{\circ}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+প্রতিক্রিয়া বল, R = ?চিত্র হতে,গাড়িটির উপর আনত তলের প্রতিক্রিয়া,[math]\begin{aligned}\mathrm{R}&=\mathrm{mg}\cos30^{\circ}\\&=2000\mathrm{~kg}\times9.8\mathrm{~m}\mathrm{~s}^{-2}\times\cos30^{\circ}\\\therefore&\mathrm{\ R}=16974.1\mathrm{~N}\end{aligned}[/math]
+অতএব, উদ্দীপকের গাড়িটির উপর আনত তলের প্রতিক্রিয়া 16974.1 N [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ আনত তলের উপর নর্মাল প্রতিক্রিয়া কেবল ওজনের তলদেশীয় উপাদান দ্বারা নির্ধারিত হয় এবং চালকের ব্রেক প্রয়োগে তলায় কোন লম্বদিশার ত্বরণ নেই, তাই [math]N=mg\cos\theta[/math]. এখানে [math]N=2000\times9.8\times\cos30^\circ\approx1.697\times10^4\ \text{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 408584)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+500 kg ভরের একটি গাড়ি উল্লম্বের সাথে 70° কোণে আনত রাস্তা ধরে [math]10 \ m \ s^{-1}[/math] বেগে নামার সময় চালক ব্রেক করলে 40 m দূরত্ব অতিক্রম করার পর গাড়িটি থেমে গেল। রাস্তার ঘর্ষণ বল 50N ।
+
+Options:
+গ. গাড়িটি থামাতে প্রযুক্ত বলের মান কত?
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+[math]\begin{array}{l}\mathrm v^2=\mathrm v_0^2-2\mathrm{as}\\\mathrm{a}=\frac{\mathrm{v}_0^2}{2\mathrm{~s}}=\frac{10^2}{2\times40}=1.25\mathrm{~m}\mathrm{~s}^{-2}\end{array}[/math]
+তল বরাবর গাড়ির ওজনের উপাংশ[math]\hspace{1.5cm}=\mathrm{mg}\cos\theta.[/math]
+প্রযুক্ত বল, Fঘর্ষণ বল, [math]\mathrm{f}_{\mathrm{k}}=50 \mathrm{~N}[/math]
+ [math]\begin{array}{l}\therefore\quad F+f_k-mg\cos\theta=ma\\\Rightarrow F=ma+mg\cos\theta-f_k\\\ \ \ \ \ \ \ \ \ \ \ =500^{\circ}\times1.25+500\times9.8\times\cos70^{\circ}-50\\\ \ \ \ \ \ \ \ \ \ \ =2250.9\mathrm{~N}\end{array}[/math]
+অতএব, গাড়িটি থামাতে প্রযুক্ত বলের মান 2250.9 N [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গাড়ি উলম্বের সাথে 70° কোণে থাকলে ভূমির সাথে কোণটি [math]90^\circ-70^\circ=20^\circ[/math]; কাজ-এনেজি সূত্র অনুযায়ী
+[math]-\tfrac{1}{2}mv^2=m g\sin20^\circ\ s-(F_{\text{fric}}+F_{\text{brake}})s,]
+অতএব
+[math]F_{\text{brake}}=m g\sin20^\circ+\dfrac{\tfrac{1}{2}mv^2}{s}-F_{\text{fric}}.]
+নুমারিকভাবে [math]m=500\ \text{kg},\ v=10\ \text{m/s},\ s=40\ \text{m},\ F_{\text{fric}}=50\ \text{N}[/math] হলে
+[math]m g\sin20^\circ\approx1676\ \text{N},\ \dfrac{\tfrac{1}{2}mv^2}{s}=625\ \text{N},]
+অতএব
+গ  [math]F_{\text{brake}}\approx1676+625-50\approx2251\ \text{N}\ (\approx2.25\times10^3\ \text{N}).]
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 408583)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিকের সাথে 60° কোণে 5m লম্বা একটি হেলানো তলের পাদদেশ থেকে শীর্ষদেশে 10kg ভরের একটি ব্লককে তুলতে হবে । তলকে ঘর্ষণহীন ধরে ব্লকটিকে ধ্রুব গতিতে তুলতে কত কাজ করতে হবে নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 424.35 J )
+
+Explanation:
+ব্যাখ্যা: ব্লকটি ধ্রুব গতিতে উঠলে বাহ্যিক বলের করা কাজটি ব্লকের গরুত্ব শক্তি বৃদ্ধি [math](\Delta U= mgh)[/math] সমান হবে; ঘর্ষণ নেই তাই ঘর্ষণের কাজ শূন্য। উচ্চতা [math]h=5\sin60^\circ=\frac{5\sqrt{3}}{2}[/math] হওয়ায় কাজ [math]W= mgh=10\times 9.8\times \frac{5\sqrt{3}}{2}=245\sqrt{3}\ \text{J}\approx 4.24\times 10^{2}\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 408582)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+সফিক 1500 kg ভরের একটি গাড়ি নিয়ে পাহাড়ি রাস্তায় চলছে, যা ভূমির সাথে 30° কোণে আনত। পাড়িটির বেগ [math]25 \mathrm{~ms}^{-1}[/math] । সামনে একটি গাড়ি দেখে গাড়িটি 50 m দূরত্ব অতিক্রম করে থেকে গেল।
+
+
+[Image]
+
+
+Options:
+ক. গাড়িটির ওপর ক্রিয়াশীল ঘর্ষণ বল কত হবে?
+
+
+Correct Answer: 
+
+Solution:
+কএখানে,গাড়ীর ভর, m = 1500 kgB বিন্দুতে গাড়ির বেগ, [math]{\mathrm{u}}=25 \mathrm{~ms}^{-1}[/math]
+C বিন্দুতে বেগ, [math]\mathrm{v}=0 \mathrm{~ms}^{-1}[/math]
+ [math]\mathrm{BC}=\mathrm{s}=50 \mathrm{~m}[/math]
+মন্দন, a = ?ঘর্ষণ বল, [math]\mathrm{F}_{\mathrm{K}}=?[/math]
+
+[Image]
+BC বরাবর মন্দন a হলে,[math]v^{2}=u^{2}-2 a s[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{a}=\frac{\mathrm{u}^{2}-\mathrm{v}^{2}}{2 \mathrm{~s}}[/math]
+ [math]\begin{array}{l}=\frac{(25)^{2}-(0)^{2}}{2 \times 50} \\=6.25 \mathrm{~ms}^{-2}\end{array}[/math]
+নিউটনের দ্বিতীয় সূত্রানুসারে,[math]\Sigma \mathrm{F}=\mathrm{ma}[/math]
+ [math]\Rightarrow[/math]
+ [math]F_{k}-m g \sin \theta=m a[/math]
+ [math]\Rightarrow[/math]
+ [math]F_{k}=m a-m g \sin \theta[/math]
+ [math]\begin{array}{l}=1500 \times 6.25-1500 \times 9.8 \times \sin 30^{\circ} \\=2025 \mathrm{~N} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ক গতি সূত্রে [math]0=25^2+2a(50)\Rightarrow a=-6.25\ \mathrm{m/s^2}[/math] পাওয়া যায়। ঢালের বরাবর বল সমীকরণ থেকে [math]-mg\sin30^\circ - f = ma[/math], তাই [math]f=-ma-mg\sin30^\circ=1500(6.25)-1500(9.8)\sin30^\circ=9375-7350=2025\ \mathrm{N}[/math] হওয়ায় ঘর্ষণ বলের মান [math]2025\ \mathrm{N}[/math] (বেগের বিপরীত দিকে)।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 408581)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি 300g ভরের বস্তু অনুভূমিকের সাথে 30° কোণে রক্ষিত তলে 5.88J_ গতিশক্তি প্রয়োগে A থেকে B বিন্দুতে ঘর্ষণহীনভাবে ঠিক পৌঁছে যায়। পরক্ষণে বস্তুটি বিন্দু থেকে উক্ত তল বরাবর A-এর দিকে পড়তে থাকে (চিত্র-৩)। চিত্রে AB = BC = CD = DE।
+
+
+[Image]
+
+
+Options:
+ক. আনত তল AE এর দৈর্ঘ্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, বস্তুর ভর, [math]m=300 \mathrm{~g}=0.3 \mathrm{~kg}[/math]
+ভূমি হতে হেলানো তলের উচ্চতা h হলে, mgh = আদি গতিশক্তি = 5.88 J[math]\therefore h=\frac{5.88 \mathrm{~J}}{m g}=\frac{5.88 \mathrm{~J}}{0.2 \mathrm{~kg} \times 9.8 \mathrm{~m} \cdot \mathrm{s}^{-2}}=2 \mathrm{~m}[/math]
+ [math]\therefore \quad \sin 30^{\circ}=\frac{h}{\mathrm{AE}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{AE}=\frac{h}{\sin 30^{\circ}}=\frac{2 \mathrm{~m}}{\frac{1}{2}}=4 \mathrm{~m}(\text { Ans. })[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক শক্তি সংরক্ষণ অনুযায়ী [math]mgh=5.88\ \text{J}[/math], এখানে [math]m=0.3\ \text{kg},\ g=9.8\ \text{m/s}^2[/math] থেকে [math]h=\dfrac{5.88}{0.3\times9.8}=2\ \text{m}[/math]. তেলে প্রতিটি সমান অংশের উন্যান [math]h=2\ \text{m}[/math] হওয়ায় AB এর দৈর্ঘ্য [math]AB=\dfrac{2}{\sin30^\circ}=4\ \text{m}[/math] এবং AE = AB+BC+CD+DE = [math]4\times AB=4\times4=16\ \text{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 408580)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+250 kg ভরের একটি গাড়ি উল্লমের সাথে 66.42° কোণে আনত একটি রাস্তা ধরে [math]12.393 \mathrm{~ms}^{-1}[/math] বেগে নিচে নামার সময় গাড়ির চালক ব্রেক করায় 30m দূরত্ব অতিক্রম করার পর থেমে গেল।
+
+Options:
+গ. গাড়িটি থামাতে বাধাদানকারী বলের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+দেয়া আছে, গাড়ির ভর, [math]m=250 \mathrm{~kg}[/math]
+উল্লম্বের সাথে তলের কোণ, [math]\theta=66.42^{\circ}[/math]
+আদিবেগ, [math]v_{0}=12.393 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+শেষবেগ, [math]v=0 \mathrm{~m} \cdot \mathrm{s}^{-1}[/math]
+সরণ, [math]s=30 \mathrm{~m}[/math]
+আমরা জানি, [math]v^{2}=v_{0}^{2}-2 a s[/math]
+ [math]\Rightarrow[/math]
+ [math]0=v_{0}^{2}-2 a s[/math]
+ [math]\therefore \quad a=\frac{v_{0}^{2}}{2 s}=\frac{12.393^{2}}{2 \times 30}=2.56 \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+তল বরাবর গাড়ির ওজনের উপাংশ [math]=m g \cos \theta[/math]
+নিউটনের দ্বিতীয় সূত্রানুসারে, [math]F-m g \cos \theta=m a[/math]
+ [math]\Rightarrow[/math]
+ [math]F=m a+m g \cos \theta[/math]
+ [math]\begin{array}{l}=250 \times 2.56+250 \times 9.8 \cos 66.42^{\circ} \\=640+980 \\=1620 \mathrm{~N} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কাজ–শক্তি নীতিতে ব্রেকের করা নেতিবাচক কাজ শুরুতর গতি শক্তি এবং নিচে নেমে গ্র্যাভিটির করা ধনাত্মক কাজকে বাদ করে দেবে, তাই ব্রেকের বল [math]F[/math] দিতে হবে যা satisfies করে [math]\displaystyle F=\frac{\tfrac12 m v^2 + m g s \sin\theta}{s}[/math]. সংখ্যায় বসালে [math]\tfrac12 m v^2\approx19198.3\ \mathrm{J},\quad m g s\sin\theta\approx67364\ \mathrm{J}[/math] তাই [math]F\approx\frac{19198.3+67364}{30}\approx2885\ \mathrm{N}[/math] (প্রায় [math]2.89\ \mathrm{kN}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 408579)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জীবন 25 kg ভরের একটি বস্তুকে খাড়া 2 m উপরে তুলল। জীবন বস্তুটিকে 30° কোণে হেলানো একটি মসৃণ তলের ওপর দিয়ে ঠেলে সমবেগে 2m ওপরে তুলল।
+
+Options:
+ঘ. বস্তু ও হেলানো তলের ঘর্ষণ গুণাঙ্ক 0.2 হলে জীবনকে কী পরিমাণ কাজ করতে হবে?– গাণিতিক ভাবে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,বস্তুর ভর, m = 25 kgঅভিকর্ষজ ত্বরণ,[math]\begin{array}{l}\mathrm{g}=9.8 \mathrm{~ms}^{-2} \\\mu_{\mathrm{s}}=0.2\end{array}[/math]
+ঘর্ষণ বল [math]\mathrm{F}_{\mathrm{s}}[/math]
+ হলে,আমরা জানি,[math]\begin{aligned}\mathrm{F}_{\mathrm{s}} & =\mathrm{R} \times \mu_{\mathrm{s}} \\& \doteq \mathrm{mg} \times \mu_{\mathrm{s}}[\because \mathrm{R}=\mathrm{mg}] \\& =25 \mathrm{~kg} \times 9.8 \mathrm{~ms}^{-2} \times 0.2 \\& =49 \mathrm{~N}\end{aligned}[/math]
+‘গ’ নং এর ২য় প্রক্রিয়ায় চিত্র হতে পাই, AB = 2m এবং হেলানো তলের উপর প্রযুক্ত বল, F = 122.5 N।[math]\therefore[/math]
+ কার্যকর বল [math]\mathrm{F}_{1}=\mathrm{F}-\mathrm{F}_{\mathrm{s}}=(122.5-49) \mathrm{N}=73.5 \mathrm{~N}[/math]
+ [math]\therefore[/math]
+ সম্পাদিত কাজ, [math]\mathrm{W}=\mathrm{F}_{1} \times \mathrm{AB}=73.5 \mathrm{~N} \times 2 \mathrm{~m}=147 \mathrm{~J}[/math]
+অতএব, বস্তু ও হেলান তলের ঘর্ষণ গুণাঙ্ক 0.2 হলে জীবনকে 147 J কাজ করতে হবে।
+
+Explanation:
+ঘ বস্তুটি সমবেগে তুলতে জীবনকে করা মোট কাজ হলো উচ্চতা বাড়ানোর কাজ প্লাস ঘর্ষণের বিরুদ্ধে করা কাজ, অর্থাৎ [math]W=mgh+\mu mg\cos\theta\cdot s[/math] এবং [math]s=h/\sin\theta[/math] হওয়ায় ঘর্ষণের কাজ = [math]\mu m g h\cot\theta[/math]. সংখ্যায় বসালে, [math]mgh=25\times9.8\times2=490\ \text{J}[/math], [math]\mu m g h\cot30^\circ=0.2\times25\times9.8\times2\times1.732\approx170\ \text{J}[/math], অতএব মোট কাজ ≈ [math]490+170=660\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 408578)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+জীবন 25 kg ভরের একটি বস্তুকে খাড়া 2 m উপরে তুলল। জীবন বস্তুটিকে 30° কোণে হেলানো একটি মসৃণ তলের ওপর দিয়ে ঠেলে সমবেগে 2m ওপরে তুলল।
+
+Options:
+গ. দেখাও যে, বস্তুটিকে তুলতে উভয়কে সমপরিমাণ কাজ করতে হবে।
+
+
+Correct Answer: 
+
+Solution:
+গ১ম প্রক্রিয়ায় সম্পাদিত কাজ নির্ণয়এখানে, বস্তুর ভর, m = 25 kgঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\therefore \mathrm{F}=\mathrm{mg}=25 \mathrm{~kg} \times 9.8 \mathrm{~ms}^{-2}=245 \mathrm{~N}[/math]
+আমরা জানি,কাজ, [math]\mathrm{W}_{1}=\mathrm{Fs} \cos \theta[/math]
+এখানে, [math]\theta=0^{\circ}[/math]
+ এবং s = h = 2m[math]\therefore \mathrm{W}_{1}=245 \mathrm{~N} \times 2 \mathrm{~m} \times \cos 0^{\circ}=490 \mathrm{~J}[/math]
+২য় প্রক্রিয়ায় সম্পাদিত কাজ নির্ণয়:
+[Image]
+ধরি, বস্তুটিকে [math]\theta=30^{\circ}[/math]
+ হেলানো AB তলে টেনে BC = h = 2m উচ্চতায় তুলছে।চিত্রে, [math]\mathrm{AB} \sin \theta=\mathrm{h}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{AB}=\frac{2 \mathrm{~m}}{\sin 30^{\circ}}=\frac{2 \mathrm{~m}}{0.5}=4 \mathrm{~m}[/math]
+বস্তুর ওজন mg এর তলের উপর একটি লম্ব উপাংশ [math]\mathrm{mg} \cos \theta[/math]
+, যা তলের উপর লম্বভাবে ক্রিয়া করে। অপরতল [math]\mathrm{mg} \sin \theta[/math]
+ যা তলের স্পর্শক বরাবর ক্রিয়া নিচের দিকে নামার চেষ্টা করে। সুতরাং সমবেগে তল বেয়ে উপরে তুলতে ২য় ক্ষেত্রে বল প্রয়োগ করতে হবে,[math]\begin{aligned}\mathrm{F} & =\mathrm{mg} \sin \theta \\& =25 \mathrm{~kg} \times 9.8 \mathrm{~ms}^{-2} \times \sin 30^{\circ} \\& =25 \mathrm{~kg} \times 9.8 \mathrm{~ms}^{-2} \times 0.5 \\& =122.5 \mathrm{~N}\end{aligned}[/math]
+২য় ক্ষেত্রে সম্পাদিত কাজ,[math]\begin{aligned}\mathrm{W}_{2} & =\mathrm{F} \times \mathrm{AB} \\& =122.5 \mathrm{~N} \times 4 \mathrm{~m}=490 \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore \mathrm{W}_{1}=\mathrm{W}_{2}[/math]
+অতএব, দেখা যায় যে, ১ম ও ২য় প্রক্রিয়ায় সম্পাদিত কাজের পরিমাণ 490 J অর্থাৎ সমান। [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: গравিটেশনার শক্তি একটি konservative শক্তি, তাই কাজ কেবল উচ্চতার পরিবর্তনের উপর নির্ভর করে এবং পথের উপর নয়; মসৃণ তলায় ঘর্ষণ নেই বলে বাহ্যিক বলের কাজ গ্রাভিটেশনাল পোটেনশিয়াল এনার্জির সমান। কাজটি হয় [math]W=mgh[/math], তাই [math]W=25\times g\times 2=50g\ \text{J}[/math] — উভয়ের জন্য একই।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 408577)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দালানের ছাদের সাথে লাগানো 10m দীর্ঘ একটি মই অনুভূমিকের সাথে 30° কোণে আছে। 80 kg ভরের এক ব্যক্তি একটি 10 kg ভরের বোঝাসহ মই বেয়ে 10 sec সময়ে ছাদে ওঠে। লোকটির কাজ ও ক্ষমতা নির্ণয় করো ।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]4410 \mathrm{~J}, 441 \text { watt }[/math] )
+
+Explanation:
+ব্যাখ্যা: মইর উল্লম্ব উচ্চতা হচ্ছে [math]h=10\sin30^\circ=5\ \text{m}[/math], এবং মোট ভর [math]m=80+10=90\ \text{kg}[/math]. কাজ (গতির বিরুদ্ধে) হবে [math]W=mgh=90\times9.8\times5=4410\ \text{J}[/math]. ক্ষমতা হল কাজ বিভাজ্য সময়: [math]P=W/t=4410/10=441\ \text{W}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 408576)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের চিত্রে একজন ছাত্র 30 kg ভরের একটি ব্লককে 250 N বল প্রয়োগে 10 m দীর্ঘ একটি হেলানো তলে ধ্রুব বেগে তুলছে।
+
+Options:
+ঘ. বল প্রয়োগের পরেও বস্তুটি কীভাবে ধ্রুব বেগে চলমান পারে তার যুক্তিসঙ্গত ব্যাখ্যা দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+যেহেতু বস্তুটি আনত তল থেকে ছিটকে পড়ে না সেহেতু তলের প্রতিক্রিয়া,[math]\begin{aligned}\mathrm{R}=\mathrm{W} \cos \theta & =294 \times \frac{\sqrt{10^{2}-5^{2}}}{10} \\& =254.61 \mathrm{~N}\end{aligned}[/math]
+x-অক্ষ বরাবর মোট বল,[math]\begin{aligned}R_{x} & =F-F_{k}-W \sin \theta \\& =250-103-294 \times \frac{5}{10}=0 N\end{aligned}[/math]
+y-অক্ষ বরাবর মোট বল,[math]\begin{aligned}\mathrm{R}_{\mathrm{y}} & =\mathrm{R}-\mathrm{W} \cos \theta \\& =254.61-294 \times \frac{\sqrt{10^{2}-5^{2}}}{10} \\& =254.61-254.61=0\end{aligned}[/math]
+লব্ধি বল,[math]\mathrm{R}=\sqrt{\mathrm{R}_{\mathrm{x}}^{2}+\mathrm{R}_{\mathrm{y}}^{2}}=\sqrt{0^{2}+0^{2}}=0[/math]
+সুতরাং যেহেতু বস্তুটির উপর প্রযুক্ত বলগুলোর লব্ধি শূন্য সেহেতু বল প্রয়োগের পরেও বস্তুটি ধ্রুব বেগে চলমান হতে পারে। এক্ষেত্রে এমন উপাদানের হেলানো তল ব্যবহার করতে হবে যাতে বস্তুটি 103 N মানের ঘর্ষণ বল অনুভব করবে।
+
+Explanation:
+घ প্রয়োগকৃত বলটি ঢালানের ভরবিভাজন [math]mg\sin\theta[/math] ও ঘর্ষণ বল [math]f[/math]–এর মোটের সমান থাকে, ফলে নেট বল শূন্য থাকে: [math]F-(mg\sin\theta+f)=0[/math]. নেট বল শূন্য হলে ত্বরণ শূন্য এবং বস্তুটি ধ্রুব বেগে চলে।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 408575)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+উপরের চিত্রে একজন ছাত্র 30 kg ভরের একটি ব্লককে 250 N বল প্রয়োগে 10 m দীর্ঘ একটি হেলানো তলে ধ্রুব বেগে তুলছে।
+
+Options:
+গ. ঘর্ষণের কারণে ব্যয়িত শক্তির পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,বস্তুর ভর, [math]\mathrm{m}=30 \mathrm{~kg}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+বস্তুর ওজন, W[math]\begin{aligned}\mathrm{W} & =\mathrm{mg} \\& =30 \times 9.8 \mathrm{~N} \\& =294 \mathrm{~N}\end{aligned}[/math]
+প্রযুক্ত বল, [math]\mathrm{F}=250 \mathrm{~N}[/math]
+ঘর্ষণ বল, [math]\mathrm{F}_{\mathrm{k}}=?[/math]
+আনত বল বরাবর উপরের দিকে x অক্ষ এবং আনত তলের X লম্বদিকে y অক্ষ ধরা হয়েছে।তলের প্রতিক্রিয়া বল y অক্ষ বরাবর ক্রিয়া করে।W এর লম্ব উপাংশ [math]W \sin \theta \text {, }[/math]
+ x-অক্ষের বিপরীত দিকে ক্রিয়া করে।এখানে,[math]\sum \mathrm{F}_{\mathrm{x}}=\mathrm{ma}[/math]
+কিন্তু বস্তুটি সমবেগে চললে ত্বরণ, [math]\mathrm{a}=0 \mathrm{~ms}^{-2}[/math]
+তাহলে,[math]\mathrm{F}-\mathrm{W} \sin \theta-\mathrm{F}_{\mathrm{k}}=0[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{F}_{\mathrm{k}}=\mathrm{F}-\mathrm{W} \sin \theta[/math]
+ [math]=250-294 \times \frac{5}{10}=250-147=103 \mathrm{~N}[/math]
+ঘর্ষণের কারণে ব্যয়িত শক্তির পরিমাণ,[math]\begin{aligned}\mathrm{W} & =\mathrm{F}_{\mathrm{k}} \mathrm{S} \\& =103 \times 10 \\& =1030 \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: ধ্রুব বেগে ওঠার জন্য বাহ্যিক কাজটি ভরবস্তুর উচ্চতার বৃদ্ধি (উপস্থিতি শক্তি) ও ঘর্ষণে ব্যয়িত শক্তির সমষ্টি, তাই ঘর্ষণের কাজ = বাহ্যিক কাজ − [math]\Delta U[/math]. এখানে [math]W_{applied}=250\times10=2500\ \text{J}[/math], [math]\Delta U=mgh=30\times10\times5=1500\ \text{J}[/math] (এখানে [math]g=10\ \text{m/s}^2[/math] এবং উচ্চতা [math]h=5\ \text{m}[/math]), অতএব [math]W_{friction}=2500-1500=1000\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 408574)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+70 kg ভরের দুই ব্যক্তি প্রত্যেকে 30 kg ভরের বোঝাসহ দুটি 10 m দৈর্ঘ্যের ম‍ই বেয়ে দুটি ভবনে যথাক্রমে 5s ও 10 s-এ উঠে এলো। মই দুটির প্রথমটি অনুভূমিকের সাথে 30° কোণে এবং দ্বিতীয়টি ভবনের ছাদের সাথে একই কোণে স্থাপন করা ছিল।
+
+
+[Image]
+
+
+Options:
+গ. উভয় ব্যক্তির কৃতকাজ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,বোঝাসহ ১ম ব্যক্তির ভর, [math]\mathrm{m}_{1}=(70+30) \mathrm{kg}=100 \mathrm{~kg}[/math]
+১ম ব্যক্তির সরণ, [math]\mathrm{s}_{1}=10 \mathrm{~m}[/math]
+ভূমির সাথে সৃষ্ট কোণ, [math]\theta_{1}=30^{\circ}[/math]
+২য় ব্যক্তির সরণ, [math]\mathrm{s}_{2}=10 \mathrm{~m}[/math]
+ভূমির সাথে সৃষ্ট কোণ,[math]\theta_{2}=(90-30)^{\circ}=60^{\circ}[/math]
+১ম ব্যক্তির কৃত কাজ,[math]\begin{aligned}\mathrm{W}_{1} & =\mathrm{m}_{1} \mathrm{~g} \mathrm{~s}_{1} \sin \theta_{1} \\& =100 \times 9.8 \times 10 \times \sin 30^{\circ} \\& =4.9 \times 10^{3} \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+২য় ব্যক্তির কৃত কাজ,[math]\begin{aligned}\mathrm{W}_{2} & =\mathrm{m}_{2} \mathrm{~g} \mathrm{~s}_{2} \sin \theta_{2} \\& =100 \times 9.8 \times 10 \times \sin 60^{\circ} \\& =8487 \mathrm{~J} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ উভয় ব্যক্তি একই উল্লম্ব উচ্চতায় উঠেছে, যেখানে [math]h=10\sin30^\circ=5\ \text{m}[/math]. মোট ভর [math]m=70+30=100\ \text{kg}[/math], তাই কৃতকাজ [math]W=mgh=100\times9.8\times5=4900\ \text{J}[/math]. সময় কাজকে বদলায় না, তাই দুজনের কৃতকাজই [math]4.9\times10^3\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 408572)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি দালানের ছাদের সাথে দুটি মই লাগানো আছে। একটি মই-এর দৈর্ঘ্য 5 m এবং এটি অনুভূমিকের সাথে 30° কোণ উৎপন্ন করে। অপর মই-এর দৈর্ঘ্য 2.887 m এবং সেটি অনুভূমিকের সাথে 60° কোণ উৎপন্ন করে। 70 kg ভরের দুই জন নির্মাণ শ্রমিক মাথায় 20 kg বোঝা নিয়ে দুই মই দি য়ে ছাদে উঠলেন।
+
+Options:
+গ. প্রথম শ্রমিক ছাদে ওঠার জন্য কত কাজ করেছেন?
+
+
+Correct Answer: 
+
+Solution:
+গ [math]2205 \mathrm{~J}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ প্রথম শ্রমিকের করা কাজ গ্র্যাভিটেশোনাল সম্ভাব্য শক্তির বৃদ্ধি, তাই [math]W=mg h[/math]। এখানে [math]h=5\sin30^\circ=2.5\ \text{m}[/math] এবং মোট ভর [math]m=70+20=90\ \text{kg}[/math], ফলে [math]W=90\times9.8\times2.5=2205\ \text{J}\approx2.21\ \text{kJ}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 408571)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন ছাত্র একটি ঘর্ষণবিহীন চাকতিকে লাথি দেয় যার ফলে এটি [math]\mathrm{V}_{0}[/math] আদিবেগে অনুভূমিকের সাথে [math]\theta[/math] কোণে আনত তল বরাবর উপরে উঠে যায়। চাকতিটি তার আদি অবস্থানে ফিরে আসতে কতক্ষণ লাগবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\frac{2 v_{0}}{g \sin \theta}[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+মনে করি, লাথি দেয়ার ফলে চাকতিটি A অবস্থান থেকে সর্বোচ্চ C অবস্থানে এসে থেমে গিয়ে আবার গড়িয়ে A তে ফিরে আসবে। A তে চাকতির শেষবেগ হবে ঠিক যে আদিবেগে চাকতিটিকে লাথি দেয়া হয়েছিল, কারণ তলটি ঘর্ষণবিহীন।এখন, যদি চাকতিটি [math]t_{1}[/math]
+ সময়ে সর্বোচ্চ বিন্দুতে উঠে তাহলে,[math]0=v_{0}-g \sin \theta \times t_{1}[\because[/math]
+ আনত তল বরাবর মন্দন [math]g \sin \theta][/math]
+ [math]\therefore \quad t_{1}=\frac{v_{0}}{g \sin \theta} .[/math]
+ ...........(i)এবং যদি [math]t_{2}[/math]
+ সময়ে নিচে ফিরে আসে,তাহলে [math]\mathrm{v}_{0}=0+\mathrm{g} \sin \theta \times \mathrm{t}_{2}[/math]
+ [math]\therefore t_{2}=\frac{v_{0}}{g \sin \theta}[/math]
+ ........(ii)অতএব, চাকতিটির আদি অবস্থায় ফিরে আসতে মোট সময়,[math]\begin{array}{l}=t_{1}+t_{2} \\=\frac{v_{0}}{g \sin \theta}+\frac{v_{0}}{g \sin \theta} \\=\frac{2 v_{0}}{g \sin \theta} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+চলার দিক অনুযায়ী ভারবেগের উপাদান সমানুপাতিকভাবে ঢাল বরাবর নিচের দিকে কাজ করে, তাই তীর্যক ত্বরণ হবে [math]g\sin\theta[/math] (ঘর্ষণশূন্য)। শীর্ষে পৌঁছতে সময় [math]t_{\text{up}}=\dfrac{V_0}{g\sin\theta}[/math] এবং একই সময় নিচে ফিরে আসতে লাগবে, তাই মোট সময় [math]t=\dfrac{2V_0}{g\sin\theta}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 408573)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিকের সাথে 60° কোণে 5 m লম্বা একটি হেলানো তলের পাদদেশ থেকে শীর্ষদেশে 10 kg ভরের একটি ব্লক তুলতে হবে। তলকে ঘর্ষণহীন ধরে ব্লকটিকে ধ্রুব গতিতে তুলতে কত কাজ করতে হবে নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 424.35 J )
+
+Explanation:
+ব্যাখ্যা: ঘর্ষণ নেই ও ধ্রুব গতি থাকায় বাহ্যিক কাজটা কেবল ভরটির স্থায়ী কৃতEnergy বাড়ায়, অর্থাৎ [math]W=mg\Delta h[/math]. উচ্চতা হলো [math]\Delta h=5\sin60^\circ=5\frac{\sqrt3}{2}[/math], ফলে কাজ হবে [math]W=10\times9.8\times5\frac{\sqrt3}{2}=245\sqrt3\ \text{J}\approx424.3\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 408570)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দালানের ছাদের সাথে লাগানো 15 m দীর্ঘ একটি অনুভূমিকের সাথে 45° কোণে আছে। 75 kg ভরে র এক ব্যক্তি 75 kg ভরের একটি বোঝা নিয়ে মই বেয়ে 10 s সময়ে ছাদে উঠে। লোকটি কর্তৃক কৃতকাজ নির্ণয় করো। ঐ সময়ে লোকটির গড় ক্ষমতা কত ছিল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]10394.47 \mathrm{~J}[/math]
+ , [math]1039.47 \mathrm{~W}[/math]
+ )[math]\\[/math]
+Solution :এখানে,মইয়ের দৈর্ঘ্য, x = 15mঅনুভূমিকের সাথে কোণ [math]\theta[/math]
+ = 45°মোট ভর, [math]\mathrm{m}=(75+25) \mathrm{kg}=100 \mathrm{~kg}[/math]
+কৃতকাজ, W= ?সময়, t = 10 sক্ষমতা, P = ?
+[Image]
+আমরা জানি, W=mghতাহলে, [math]\mathrm{h}=\mathrm{x} \sin \theta[/math]
+ [math]\Rightarrow[/math]
+ [math]h=(15 \mathrm{~m}) \sin 45^{\circ}[/math]
+ [math]\begin{aligned}& =10.61 \mathrm{~m} \\\mathrm{~W} & =(100 \mathrm{~kg}) \times\left(9.8 \mathrm{~ms}^{-2}\right) \times(10.61) \mathrm{m} \\& =10394.47 \mathrm{~J}\end{aligned}[/math]
+ক্ষমতা,[math]P=\frac{W}{t}[/math]
+ [math]=\frac{10394.47 \mathrm{~J}}{10 \mathrm{~s}}=1039.47 \mathrm{~W} \text { (Ans.) }[/math]
+
+
+Explanation:
+দালানের উঁচু অংশে ওঠার উচ্চতা [math]h=15\sin45^\circ=15\frac{\sqrt2}{2}\approx10.61\ \text{m}[/math]। মোট ভর [math]m=75+75=150\ \text{kg}[/math], কাজ [math]W=mgh=150\times9.8\times10.61\approx1.56\times10^4\ \text{J}[/math]। গড় ক্ষমতা [math]P_{\rm avg}=W/t\approx1.56\times10^4/10\approx1.56\times10^3\ \text{W}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 408569)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কাঠের ব্লককে অনুভূমিকের সাথে 30° কোণে 40N প্রয়োগে মেঝের উপর দিয়ে টানা হচ্ছে। ঘর্ষণজনিত বল 8N বল। ব্লকটির সরণ 5m হলে
+
+(ক) প্রযুক্ত বল দ্বারা কৃতকাজ
+
+(খ) ঘর্ষণ ফল দ্বারা কৃতকাজ ও
+
+(প) নিট কাজ নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : (ক) 173.21 J (খ) 50 J (গ) 133.21 J )[math]\\[/math]
+Solution :(ক) এখানে সরণ, s = 5 mএবং প্রযুক্ত বল = 40 Nসরণের দিকে বলের উপাংশ [math]=40 \mathrm{~N} \times \cos 30^{\circ}[/math]
+সুতরাং কাজ, w = সরণ [math]\times[/math]
+ সরণের দিকে বলের উপাংশ ,[math]\begin{array}{l}=5 \mathrm{~m} \times 40 \times \cos 30^{\circ} \\=173.21 \mathrm{~J}(\text { Ans. })\end{array}[/math]
+(খ) এখানে ঘর্ষণ বল, [math]F=-8 N[/math]
+ [ [math]\therefore[/math]
+ বল সরণের বিপরীতমুখী][math]\therefore[/math]
+ কাজ [math]\mathrm{W}=\mathrm{F} \times \mathrm{s}=-10 \times 5=-50 \mathrm{~J} \text { (Ans.) }[/math]
+(গ) সরণের নিট বল [math]=F \cos \theta-8 N[/math]
+ [math]=40 \cos 30^{\circ}-8 \mathrm{~N}=26.64 \mathrm{~N}[/math]
+ [math]\therefore[/math]
+ নিট কাজ, [math]\mathrm{W}=26.64 \times 5=133.21 \mathrm{~J} \text { (Ans.) }[/math]
+
+
+Explanation:
+সমাধান: কারণ কাজ কেবল বলের সেই উপাদান দ্বারা হয় যা সরণের দিকে নির্দেশিত, সুতরাং প্রযুক্ত বলের অনুভূমিক উপাদানই কাজে আসে এবং ঘর্ষণ বিপরীত দিকের কাজ করে। ক প্রযুক্ত বল দ্বারা কৃতকাজ: [math]W_{applied}=40\cos30^\circ\times5=100\sqrt{3}\ \mathrm{J}\approx173.2\ \mathrm{J}[/math]; খ ঘর্ষণ ফল দ্বারা কৃতকাজ: [math]W_{fric}=-8\times5=-40\ \mathrm{J}[/math]. প নিট কাজ: [math]W_{net}=100\sqrt{3}-40\approx133.2\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 408568)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি দালানের ছাদের সাথে 6m ও 8m দৈর্ঘ্যের দুটি মই লাগানো আছে। ছাদের উচ্চতা 4 m। 70 kg ভরের একজন শ্রমিক 50 kg ভরের সিমেন্টের ব্যাগ নিয়ে ছাদে উঠছে। 8m দৈর্ঘ্যের ম‍ই বেয়ে সে 10s সময়ে ছাদে উঠতে পারে।
+
+Options:
+ঘ. কোন মই বেয়ে উঠা সহজতর? তোমার উত্তরের পক্ষে গাণিতিক যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে, প্রথম মইয়ের দৈর্ঘ্য, [math]\mathrm{s}_{1}=6 \mathrm{~m}[/math]
+দ্বিতীয় মইয়ের দৈর্ঘ্য, [math]\mathrm{s}_{2}=8 \mathrm{~m}[/math]
+ছাদের উচ্চতা, h =4 mধরি, প্রথম মইয়ের অনুভূমিকের সাথে সৃষ্ট কোণ [math]\theta_{1}[/math]
+এবং দ্বিতীয় মইয়ের অনুভূমিকের সাথে সৃষ্ট কোণ [math]\theta_{2}[/math]
+আমরা জানি,[math]\sin \theta_{1}=\frac{\mathrm{AB}}{\mathrm{AC}}[/math]
+
+[Image]
+[math]\Rightarrow[/math]
+ [math]\theta_{1}=\sin ^{-1}\left(\frac{4 m}{6 m}\right)[/math]
+ [math]\therefore \theta_{1}=41.81^{\circ}[/math]
+আবার ,
+[Image]
+[math]\sin \theta_{2}=\frac{\mathrm{AB}}{\mathrm{AC}}[/math]
+ [math]\Rightarrow[/math]
+ [math]\theta_{2}=\sin ^{-1}\left(\frac{4 m}{8 m}\right)[/math]
+ [math]\therefore \theta_{2}=30^{\circ}[/math]
+অর্থাৎ, [math]\theta_{2}<\theta_{1}[/math]
+যেহেতু, [math]\theta_{2}[/math]
+ ছাদের সাথে কম কোণ উৎপন্ন করেছে সেহেতু ৪ m দৈর্ঘ্যের মই বেয়ে ছাদে উঠার জন্য শ্রমিককে কম বল প্রয়োগ করতে হবে। ফলে ঐ মই বেয়ে তার ছাদে উঠা সহজতর হবে।
+
+Explanation:
+ঘ উভয় মইয়ে উঠা জড়ীয় কাজ একই হওয়ায় উভয়ই সমান কঠিন (শ্রমগত দিক থেকে)। মোট ভর [math]=70+50=120\ \text{kg}[/math], উল্লম্ব উচ্চতা [math]=4\ \text{m}[/math] হওয়ায় কাজ [math]W=mgh=120\times g\times 4=480g\ \text{J}[/math], যা মইয়ের দৈর্ঘ্যের উপর নির্ভর করে না। ৮m মই বেয়ে ১০s-এ উঠলে গড় শক্তি উৎপাদন হবে [math]P=\dfrac{480g}{10}=48g\ \text{W}[/math], তাই সময় বা গতির পার্থক্যের কারণে অনুভূত কষ্ট ভিন্ন হতে পারে, কিন্তু কাজ সমানই থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 408567)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+ঘ. সিঁড়ির দৈর্ঘ্য কম বা বেশি হলে, কোন ক্ষেত্রে লোকটির কষ্ট কম হবে গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+ধরি, বোঝাসহ লোকটির ভর =mঅভিকর্ষজ ত্বরণ [math]=\theta[/math]
+সিড়ির আনত কোণ [math]=\theta[/math]
+ [math]\therefore A B=[/math]
+ সিড়ির দৈর্ঘ্য = sBC = h = সিড়ির উচ্চতাএখন, [math]\sin \theta=\frac{h}{s}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{s}=\frac{\mathrm{h}}{\sin \theta}[/math]
+ .........(1)আবার, লোকটি সিড়ি দিয়ে উঠতে অনুভূত বল, [math]\mathrm{F}=\mathrm{mg} \sin \theta[/math]
+F এর মান যত কম হবে কষ্ট তত হবে।F এর মান [math]\sin \theta[/math]
+ এর উপর নির্ভরশীল।(1) হতে দেখতে পাই, h-এর নির্দিষ্ট মানের জন্য [math]\sin \theta[/math]
+ এর মান যত কম হবে, s তত বেশি হবে। [math]\sin \theta[/math]
+ বেশি হলে s কম হবে, এবং কষ্ট বেশি হবে। সুতরাং, সিড়ির দৈর্ঘ্য বেশি হলে, অনুভূত বল কম হবে, বিধায় কষ্ট কম হবে।
+
+Explanation:
+ঘ ব্যাখ্যা: সিঁড়ির দৈর্ঘ্য বাড়লে বা কমে মোট কাজ একই থাকে কারণ ভারোদ্ধারের বিরুদ্ধে করা কাজ কেবল উল্লম্ব উচ্চতার উপর নির্ভর করে: [math]W=mg\Delta h[/math]. (ধারণা—কোন ঘর্ষণ বা শক্তি ক্ষয় নেই; ঘর্ষণ থাকলে দীর্ঘ পথ বেশি কাজ দরকার হতে পারে.)
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 408566)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিকের সাথে 30° কোণে লোনো তলের উপর দিয়ে 160 kg ভরের একটি সিলিন্ডার দড়িতে বেঁধে তোলা হচ্ছে। দড়ির সাহায্যে সিলিন্ডারটিকে পেঁচিয়ে দড়ির এক প্রান্ত B বিন্দুতে আটকিয়ে অপর প্রান্ত ধরে টানা হচ্ছে।
+
+
+[Image]
+
+
+Options:
+ঘ. T = 392 N হলে সিলিন্ডারটি হেলানো তলের ওপর স্থির থাকে। এটি নিউটনের প্রথম সূত্রের পরিপন্থী নয় গাণিতিকভাবে ব্যাখ্যা করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, দড়ির সাহায্যে সিলিন্ডারটিকে পেঁচিয়ে দড়ির এক প্রান্ত B বিন্দুতে আটকিয়ে অপর প্রান্ত ধরে টানা হচ্ছে। অর্থাৎ সিলিন্ডারটির উপর প্রযুক্ত মোট টান, [math]\mathrm{T}^{\prime}=2 \mathrm{~T}[/math]
+ হবে।[math]\therefore \mathrm{T}^{\prime}=2 \times 392=784 \mathrm{~N}[/math]
+আবার, সিলিন্ডারটির উপর কার্যকর অভিকর্ষজ বল,[math]\mathrm{W}=\mathrm{mg} \sin \theta[/math]
+ [math]=160 \times 9.8 \times \sin 30^{\circ}[/math]
+ ['গ' হতে মান নিয়ে ][math]=784 \mathrm{~N}[/math]
+এখন, সিলিন্ডারটির উপর ক্রিয়ারত মোট বাহ্যিক বল,[math]\begin{array}{l}\mathrm{F}=\mathrm{T}^{\prime}-\mathrm{W} \\=784-784 \\=0 \\\quad \begin{aligned}\therefore \mathrm{F} & =0 \mathrm{~N}\end{aligned}\end{array}[/math]
+অর্থাৎ সিলিন্ডারটি স্থির থাকবে। কারণ, কোন লব্ধি বল এর উপর কাজ করছে না। আবার নিউটনের ১ম সূত্রমতে, কোনো বস্তুর উপর বাহ্যিক বল কাজ না করলে বস্তুটি তার পূর্বের অবস্থাতেই থাকবে। অর্থাৎ স্থির বস্তু স্থির থাকবে। সুতরাং, এটি নিউটনের ১ম সূত্রের পরিপন্থী নয়।
+
+Explanation:
+ঘ সঠিক কারণ দড়ির দুই পাশেই সমান টান আছে, ফলে সিলিন্ডারে উপরের দিকে মোট টান [math]2T[/math] বল লাগায় এবং এটি ঢাল বরাবর ওজনের উপাদানকে ভারসাম্য করে। এখানে [math]mg=160\times 9.8=1568\ \text{N}[/math] ও [math]mg\sin30=1568\times 0.5=784\ \text{N}[/math], তাই [math]2T=784\Rightarrow T=392\ \text{N}[/math]. এটি নিউটনের প্রথম সূত্রের পরিপন্থী নয় কারণ নেট বল শূন্য হলে বস্তুও স্থির থাকবে, যা এখানে ঘটে।
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 408565)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+অনুভূমিকের সাথে 30° কোণে লোনো তলের উপর দিয়ে 160 kg ভরের একটি সিলিন্ডার দড়িতে বেঁধে তোলা হচ্ছে। দড়ির সাহায্যে সিলিন্ডারটিকে পেঁচিয়ে দড়ির এক প্রান্ত B বিন্দুতে আটকিয়ে অপর প্রান্ত ধরে টানা হচ্ছে।
+
+
+[Image]
+
+
+Options:
+গ. হেলানো তলের দৈর্ঘ্য 3 m হলে সিলিন্ডারটিকে A থেকে B তে তুলতে কত কাজ করতে হবে নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গ2352 J [math]\\[/math]
+
+Explanation:
+গ ব্যাখ্যা: সিলিন্ডারটি ধীরগতিতে তুললে ব্যবহার করা কাজটি শুধুই গравিটেশনাল potential বৃদ্ধি সমান; ঘূর্ণনগতিতে পরিবর্তন ধরা নেই। উচ্চতা [math]h=3\sin30^\circ=1.5\ \text{m}[/math] তাই কাজ [math]W= mgh=160\times9.8\times1.5=2352\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 408564)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি কাঠের ব্লক ঘর্ষণবিহীন একটি হেলানো তলের শীর্ষে h উচ্চতায় আছে যা চিত্রে দেখানো হয়েছে। ঐ স্থানের অভিকর্ষজ ত্বরণ, [math]g=10 \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+
+
+[Image]
+
+
+Options:
+ঘ. যদি বস্তুটি একই উচ্চতা h থেকে মুক্তভাবে পড়তো তবে মাটিতে পৌঁছাতে ব্লকটির একই সময় লাগতো কিনা– যুক্তিসহ আলোচনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক মতে,হেলানো তলের দৈর্ঘ্য, s = 10 mঅনুভূমিক ও হেলানো তলের মধ্যবর্তী কোণ, [math]\theta=30^{\circ}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=10 \mathrm{~ms}^{-2}[/math]
+হেলানো তল বরাবর অভিকর্ষজ ত্বরণ,[math]\begin{aligned}& \mathrm{g}^{\prime}=\mathrm{g} \sin 30^{\circ} \\= & 10 \mathrm{~ms}^{-2} \times \frac{1}{2}=5 \mathrm{~ms}^{-2}\end{aligned}[/math]
+ধরি, মুক্তভাবে পড়ন্ত বস্তুর সময় tহেলানো তল বরাবর পড়ন্ত বস্তুর সময় [math]\mathrm{t}_{1}[/math]
+ এবং উচ্চতা hআমরা জানি, [math]\sin 30^{\circ}=\frac{h}{s}[/math]
+ [math]\Rightarrow[/math]
+ [math]\frac{1}{2}=\frac{h}{10 \mathrm{~m}}[/math]
+ [math]\therefore \mathrm{h}=5 \mathrm{~m}[/math]
+আবার, [math]\mathrm{h}=\mathrm{ut}+\frac{1}{2} \mathrm{gt}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]5 \mathrm{~m}=0 \times \mathrm{t}+\frac{1}{2} \times 10 \mathrm{~ms}^{-2} \times \mathrm{t}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]5 \mathrm{~m}=5 \mathrm{t}^{2} \mathrm{~ms}^{-2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{t}^{2}=1 \mathrm{~s}^{2}[/math]
+ [math]\therefore \mathrm{t}=1 \mathrm{~s}[/math]
+পুনরায়, [math]\mathrm{s}=\mathrm{ut}+\frac{1}{2} \mathrm{~g}^{\prime} \mathrm{t}_{1}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]10 \mathrm{~m}=0 \times \mathrm{t}+\frac{1}{2} \times 5 \mathrm{~ms}^{-2} \times \mathrm{t}_{1}^{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]10 \mathrm{~m}=2.5 \mathrm{t}_{1}^{2} \mathrm{~ms}^{-2}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{t}_{1}^{2}=4 \mathrm{~s}^{2}[/math]
+ [math]\therefore t_{1}=2 s[/math]
+যেহেতু [math]\mathrm{t} 
+eq \mathrm{t}_{1}[/math]
+ সেহেতু একই উচ্চতা h থেকে মুক্তভাবে পড়ন্ত ব্লকটির মাটিতে পৌঁছাতে একই সময় লাগবে না।
+
+Explanation:
+ঘ ব্যাখ্যা: মুক্ত পতনের সময় [math]t_{free}=\sqrt{2h/g}[/math]। হেলানো তলে ত্বরণ [math]a=g\sin\theta[/math] এবং পাথ [math]s=h/\sin\theta[/math] হলে সময় হবে [math]t_{incl}=\sqrt{2s/a}=\sqrt{\dfrac{2h}{g\sin^2\theta}}=\dfrac{t_{free}}{\sin\theta}[/math]। যেহেতু [math]\sin\theta\le1[/math], তাই হেলানতে সময় বড় হবে (শুধু [math]\theta=90^\circ[/math] হলে সমান)।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 408563)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2015 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি 300 g ভরের বস্তু অনুভূমিকের সাথে 30° কোণে রক্ষিত তলে 5.88 J গতিশক্তি প্রয়োগে A থেকে E বিন্দুতে ঘর্ষণহীনভাবে ঠিক পৌঁছে যায়। পরক্ষণে বস্তুটি E বিন্দু থেকে উক্ত তল বরাবর A-এর দিকে পড়তে থাকে। চিত্রে AB = BC = CD = DE |
+
+
+[Image]
+
+
+Options:
+গ. আনত তল AE এর দৈর্ঘ্য নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপক থেকে পাই,[math]\hspace{1.2 cm}[/math]
+অনুভূমিকের সাথে কোণ, [math]\theta=30^{\circ}[/math]
+ [math]\hspace{1.2 cm}[/math]
+বস্তুর ভর [math]\mathrm{m}=300 \mathrm{~g}=0.3 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ [math]\hspace{1.2 cm}[/math]
+গতিশক্তি, [math]\mathrm{E}_{\mathrm{k}}=5.88 \mathrm{~J}[/math]
+এখন,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{E}_{\mathrm{k}}&=\mathrm{mg} \times \mathrm{AE} \sin \theta\\ \Rightarrow \mathrm{AE} & =\frac{\mathrm{E}_{\mathrm{k}}}{\mathrm{mg} \sin \theta} \\ & =\frac{5.88 \mathrm{~J}}{0.3 \mathrm{~kg} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times \sin 30^{\circ}} \\ & =4 \mathrm{~m} \end{aligned}[/math]
+অতএব, আনত তল [math]\mathrm{AE}[/math]
+ এর দৈর্ঘ্য [math]4 \mathrm{~m}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: বস্তুর প্রারম্ভিক গতিশক্তি পুরোটা উচ্চতার বৃদ্ধিৎ রূপান্তরিত হলে [math]mgh=5.88\ \text{J}[/math], তাই [math]h=\dfrac{5.88}{0.3\times9.8}=2\ \text{m}[/math]. ঢালটির দৃশ্য কোণ [math]30^\circ[/math] হলে ঢালের উপর দৈর্ঘ্য [math]AE=\dfrac{h}{\sin30^\circ}=\dfrac{2}{0.5}=4\ \text{m}[/math]. গ তাই [math]AE=4\ \text{m}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 408562)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+80 kg ভরের একজন লোক 20 kg ভরের একটি বোঝা মাথায় নিয়ে 40 m দৈর্ঘ্যের মই বেয়ে একটি দালানের ছাদে উঠল। মইটি অনুভূমিকের সাথে 40° কোণ উৎপন্ন করে দালানের ছাদে লাগানো ছিল।
+
+Options:
+ঘ. মইটির দৈর্ঘ্য 60m হলে অনুভূমিকের সাথে কত কোণে স্থাপন করলে একই পরিমাণ কাজ সম্পাদিত হবে এবং এক্ষেত্রে কোনো সুবিধা পাওয়া যাবে কি-না- গাণিতিকভাবে মতামত দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, লোকটি কর্তৃক কৃতকাজ, [math]\rm{W}[/math]
+উদ্দীপক হতে,[math]\hspace{1.2 cm}[/math]
+বোঝাসহ লোকের ভর, [math]\rm{m}=(80 \mathrm{~kg}+20 \mathrm{~kg})=100 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+মইয়ের দৈর্ঘ্য, [math]\mathrm{s}=40 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+উৎপন্ন কোণ [math]= 40^\circ[/math]
+ [math]\hspace{1.2 cm}[/math]
+মই ও উল্লম্বের অন্তর্ভুক্ত কোণ, [math]\theta=\left(90^{\circ}-40^{\circ}\right)=50^{\circ}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \rm{W} & =\rm{F s \cos \theta=m g s \cos \theta} \\ & =100 \mathrm{~kg} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times 40 \mathrm{~m} \times \cos 50^{\circ} \\ & =2.52 \times 10^{4} \mathrm{~J} \end{aligned}[/math]
+সুতরাং লোকটি কর্তৃক কৃতকাজ [math]2.52 \times 10^{4} \mathrm{~J}[/math]
+।উদ্দীপক অনুসারে,[math]\hspace{1.2 cm}[/math]
+বোঝাসহ ব্যক্তির ভর, [math]\mathrm{m}=100 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+মইয়ের দৈর্ঘ্য, [math]\mathrm{s}=60 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ [math]\hspace{1.2 cm}[/math]
+মই ও অনুভূমিকের সৃষ্ট কোণ, [math]\theta=\text { ? }[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned}\text{ W }&=\text{ Fs }\cos\theta\\ \Rightarrow\ \cos\theta&=\frac{\mathrm{W}}{\text{ Fs }}\\ &=\frac{\mathrm{W}}{\mathrm{mgs}}\\ & =\frac{2.52 \times 10^{4} \mathrm{~J}}{100 \mathrm{~kg} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times 60 \mathrm{~m}}\\ \Rightarrow \cos \theta&=0.43\\ \Rightarrow \theta & = \cos ^{-1}(0.43)=64.5^{\circ} \end{aligned}[/math]
+ [math]\therefore[/math]
+ অনুভূমিকের সাথে সৃষ্ট কোণ,[math]\hspace{1.6 cm}\begin{aligned} \theta^{\prime} & =\left(90^{\circ}-\theta\right) \\ & =\left(90^{\circ}-64.5^{\circ}\right)=25.5^{\circ} \end{aligned}[/math]
+সুতরাং [math]60\rm{~m}[/math]
+ দৈর্ঘ্যের মইটিকে অনুভূমিকের সাথে [math]25.5^\circ[/math]
+ কোণে রাখলে একই পরিমাণ কাজ সম্পাদিত হবে।আবার, [math]\rm{W=F s \cos \theta \Rightarrow \cos \theta=\dfrac{W}{F s}}[/math]
+ [math]\qquad\quad \therefore \quad \cos \theta \propto \dfrac{1}{\mathrm{~F}}\quad[/math]
+ [ [math]\therefore \rm{~W}[/math]
+ ও [math]\rm{s}[/math]
+ এর মান ধ্রুবক]কিন্তু [math]\cos \theta[/math]
+ এর ক্ষেত্রে [math]\theta[/math]
+ এর মান যত কম হয় [math]\cos \theta[/math]
+ এর মান তত বড় হয়। অর্থাৎ [math]\theta[/math]
+ এর মান কম হলে [math]\mathrm{F}[/math]
+ এর মানও কম হবে। অতএব, উপরের গাণিতিক বিশ্লেষণ হতে বলা যায় যে, [math]60\mathrm{~m}[/math]
+ দৈর্ঘ্যের মাইটিকে অনুভূমিকের সাথে [math]25.5^\circ[/math]
+ কোণে রেখে ছাদে উঠলে লোকটিকে কম বল প্রয়োগ করতে হবে।
+
+Explanation:
+ব্যাখ্যা: ঘ উর্ধ্বগত উচ্চতা প্রথম অবস্থায় [math]h=40\sin40^\circ[/math]। একই উচ্চতা পেতে [math]60\sin\theta=40\sin40^\circ\Rightarrow \sin\theta=(2/3)\sin40^\circ\approx0.4285[/math], অতএব [math]\theta\approx25.4^\circ[/math]। কাজ একই থাকবে কারণ করা কাজ হল গরুত্বক্ষমতা বৃদ্ধির কাজ [math]mg h[/math], যা পথের দৈর্ঘ্যের উপর নির্ভর করে না; তাই কোন শক্তিগত সুবিধা নেই (শুধু ঢাল কম থাকায় প্রত্যেক মুহূর্তে নেওয়া বলের উপাদান ছোট হবে, কিন্তু মোট কাজ অপরিবর্তিত)।
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 408561)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+80 kg ভরের একজন লোক 20 kg ভরের একটি বোঝা মাথায় নিয়ে 40 m দৈর্ঘ্যের মই বেয়ে একটি দালানের ছাদে উঠল। মইটি অনুভূমিকের সাথে 40° কোণ উৎপন্ন করে দালানের ছাদে লাগানো ছিল।
+
+Options:
+গ. লোকটি কর্তৃক কৃতকাজ বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, লোকটি কর্তৃক কৃতকাজ, [math]\rm{W}[/math]
+উদ্দীপক হতে,[math]\hspace{1.2 cm}[/math]
+বোঝাসহ লোকের ভর, [math]\rm{m}=(80 \mathrm{~kg}+20 \mathrm{~kg})=100 \mathrm{~kg}[/math]
+ [math]\hspace{1.2 cm}[/math]
+মইয়ের দৈর্ঘ্য, [math]\mathrm{s}=40 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+উৎপন্ন কোণ [math]= 40^\circ[/math]
+ [math]\hspace{1.2 cm}[/math]
+মই ও উল্লম্বের অন্তর্ভুক্ত কোণ, [math]\theta=\left(90^{\circ}-40^{\circ}\right)=50^{\circ}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{aligned} \rm{W} & =\rm{F s \cos \theta=m g s \cos \theta} \\ & =100 \mathrm{~kg} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times 40 \mathrm{~m} \times \cos 50^{\circ} \\ & =2.52 \times 10^{4} \mathrm{~J} \end{aligned}[/math]
+সুতরাং লোকটি কর্তৃক কৃতকাজ [math]2.52 \times 10^{4} \mathrm{~J}[/math]
+।
+
+Explanation:
+গ ব্যাখ্যা: মোট ভর [math]80+20=100\ \text{kg}[/math] এবং কাজটি মহাকর্ষের বিরুদ্ধে ভরকে উঁচুতে তোলার কাজ, তাই [math]W=mgh[/math] যেখানে [math]h=40\sin40^\circ[/math]. ফলে [math]W=100\times9.8\times40\times\sin40^\circ\approx2.52\times10^4\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 408560)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে দুটি হেলানো তল AC ও BC এর শীর্ষবিন্দু C এর উভয় পাশে 2 kg ভরের দুটি লোহার গোলকের অবস্থান দেখানো হলো। AC তলের দৈর্ঘ্য 20 m।
+
+
+[Image]
+
+
+Options:
+ঘ. উদ্দীপকের গোলক দুটিকে একই সাথে মুক্ত করলে একই সময়ে AB অনুভূমিক তলে পৌছাবে কি-না তা গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ
+[Image]
+এখানে, [math]\angle \mathrm{CAD}=30^{\circ} ; \mathrm{AC}=20 \mathrm{~m}[/math]
+ [math]\rm{C}[/math]
+ বিন্দুর উচ্চতা, [math]\rm{h = CD}[/math]
+ [math]\hspace{1.9 cm} \triangle \mathrm{ACD}\text{-}এ, \sin \mathrm{CAD}=\dfrac{\mathrm{CD}}{\mathrm{AC}}[/math]
+ [math]\hspace{1.6 cm}\Rightarrow \mathrm{CD}=\mathrm{AC} \times \sin \mathrm{CAD}=20 \times \sin 30^{\circ}=10 \mathrm{~m}[/math]
+এখানে, [math]\rm{AC}[/math]
+ তলের দৈর্ঘ্য, [math]\rm{s}_{1}=20 \mathrm{~m}[/math]
+ [math]\rm{AC}[/math]
+ তল বরাবর গোলকের ত্বরণ, [math]\rm{a}_{1}=\rm{g} \cos 60^{\circ}[/math]
+ [math]\rm{CB}[/math]
+ তল বরবার গোলকের ত্বরণ, [math]\rm{a}_{2}=\rm{g} \cos 45^{\circ}[/math]
+ [math]\hspace{1.3 cm}\angle \rm{C B D}=45^{\circ}[/math]
+ধরি, [math]\rm{BC}[/math]
+ তলের দৈর্ঘ্য [math]\rm{s}_2[/math]
+ [math]\hspace{1.6 cm}\begin{array}{l} \therefore \triangle \rm{B C D}\text{-এ}, \sin \mathrm{CBD}=\dfrac{\mathrm{CD}}{\mathrm{BC}} \\ \Rightarrow \mathrm{BC}=\dfrac{\mathrm{CD}}{\sin 45^{\circ}}=\dfrac{10 \mathrm{~m}}{\sin 45^{\circ}} \\ \therefore \mathrm{s}_{2}=\mathrm{BC}=10 \sqrt{2} \mathrm{~m} \end{array}[/math]
+ [math]\therefore \mathrm{~AC}[/math]
+ তলের ক্ষেত্রে গোলকটির [math]\mathrm{AB}[/math]
+ তলে পৌঁছাতে [math]\rm{t}_{1}[/math]
+ সময় লাগলে[math]\hspace{1.6 cm}\begin{array}{l} \quad \rm{s}_{1}=\dfrac{1}{2} \rm{a}_{1} \rm{t}_{1}^{2} \\ \Rightarrow 20=\dfrac{1}{2} \times \rm{g }\cos 60^{\circ} \times \rm{t}_{1}^{2} \\ \Rightarrow \rm{t}_{1}=\sqrt{\dfrac{2 \times 20}{9.8 \times \cos 60^{\circ}}} \mathrm{s}=2.86 \mathrm{~s} \end{array}[/math]
+অনুরূপভাবে, [math]\text {CB}[/math]
+ তলের গোলকটির [math]\text {AB}[/math]
+ তলে পৌছাতে [math]\rm{t}_1[/math]
+ সময় লাগলে,[math]\hspace{1.6 cm}\begin{aligned} \rm{s}_{2} & =\dfrac{1}{2} a_{2} \rm{t}_{2}{ }^{2} \\ \Rightarrow \rm{t}_{2} & =\sqrt{\dfrac{2 s_{2}}{\rm{a}_{2}}}=\sqrt{\dfrac{2 \times 10 \sqrt{2}}{9.8 \times \cos 45^{\circ}}} \mathrm{s}=2.02 \mathrm{~s} \end{aligned}[/math]
+সুতরাং [math]\rm{t_{1} 
+eq t_{2}}[/math]
+যেহেতু [math]\rm{t_{2} [math]\mathrm{CB}[/math]
+ তলের গোলকটির [math]\mathrm{AB}[/math]
+ তলে পৌঁছতে কম সময় লাগবে।অতএব, উদ্দীপকের গোলক দুটিকে একই সময় ছেড়ে দিলে একই সময়ে [math]\mathrm{AB}[/math]
+ অনুভূমিক তলে পৌছাবে না। [math]\mathrm{CB}[/math]
+ তলের গোলকটি আগে পৌছাবে।
+
+Explanation:
+ব্যাখ্যা: ঘ হ্যাঁ, যদি দুই তল একে–অপরের সমমিত এবং AC ও BC একই লম্ব (অর্থাৎ একই কোণ ও একই পথদৈর্ঘ্য), তাহলে তারা একসাথে পৌঁছাবে। তদনুযায়ী তলের উপর ত্বরণ [math]a = g\sin\theta[/math] এবং বিশ্রাম থেকে পথ [math]s[/math]ে সময় [math]t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2s}{g\sin\theta}}[/math] হয়; সমান [math]s[/math] ও সমান [math]\theta[/math] হলে [math]t[/math] সমান হবে, এবং ভর এখানে প্রভাব ফেলে না।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 408559)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+m ভরের একটি বস্তু DA আনত তলে পড়ছে। এখানে m = 50 kg, DE = 6m এবং AB = BC = CD ।
+
+
+[Image]
+
+
+Options:
+গ. আনত তল বেয়ে নামার সময় গতীয় ঘর্ষণ বল দ্বারা কৃতকাজের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, গতীয় ঘর্ষণ বল, [math]\mathrm{F}_{\mathrm{k}}=2 \mathrm{~N}[/math]
+ [math]\qquad \quad\begin{array}{l} \triangle \mathrm{ADE} \text { এ sin } \mathrm{DAE}=\dfrac{\mathrm{DE}}{\mathrm{AD}} \\ \Rightarrow \mathrm{AD}=\dfrac{\mathrm{DE}}{\sin \mathrm{DAE}}=\dfrac{6}{\sin 30^{\circ} \mathrm{m}}=12 \mathrm{~m} \end{array}[/math]
+ [math]\text {D}[/math]
+ হতে [math]\text {A}[/math]
+ বিন্দুতে আসতে গতীয় ঘর্ষণ বল দ্বারা কৃতকাজ,[math]\qquad \quad \mathrm{W}_{\mathrm{k}}=-\mathrm{F}_{\mathrm{k}} \cdot \mathrm{AD}=-2 \times 12 \mathrm{~J}=-24 \mathrm{~J}[/math]
+অতএব, আনত তল বেয়ে নামার সময় [math]\rm{D}[/math]
+ হতে [math]\rm{A}[/math]
+ বিন্দুতে আসতে গতীয় ঘর্ষণ বল দ্বারা কৃতকাজ [math]-24 \mathrm{~J}[/math]
+।
+
+Explanation:
+গ কারণ গতীয় ঘর্ষণ দ্বারা কৃত কাজ হয় ঘর্ষণ বলের মান গুণ পথে এবং চিহ্ন নেতিবাচক; AB=BC=CD হলে AD=AB+BC+CD=DE=6 m, তাই কাজ হবে [math]W=-f_k s=-\mu_k m g\cos\theta\times 6[/math]. m=50 kg বসালে [math]W=-6\mu_k\times50\times g\cos\theta=-300g\mu_k\cos\theta\approx -2940\,\mu_k\cos\theta\ \text{J}[/math], যেখানে নেতিবাচক চিহ্নটি ঘর্ষণ গতির বিরতি করার শ্রেণীবদ্ধ দিশা দেখায়।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 408558)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+করিম [math]400 \mathrm{~gm}[/math] ভরের বস্তু অনুভূমিকের সাথে [math]30^\circ[/math] কোণে [math]11.76 \mathrm{~J}[/math] গতিশক্তি প্রয়োগে [math]\rm{M}[/math] থেকে [math]\rm{A}[/math] বিন্দুতে তুলে নিল। পরবর্তীতে সে বস্তুটিকে আরো বল প্রয়োগে [math]2 \rm{~m}[/math] দূরত্বে [math]\rm{B}[/math] বিন্দুতে নিয়ে গেল। পুনরায় বস্তুটিকে [math]\rm{A}[/math] বিন্দুতে এনে আনত ভল [math]\rm{AM}[/math] বরাবর ছেড়ে দিল। এখানে ঘর্ষণবল উপক্ষেণীয়। [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]।
+
+[Image]
+
+
+এখানে, [math]\mathrm{MN}=\mathrm{ON}=\mathrm{OP}=\mathrm{PQ}=\mathrm{QR}=\mathrm{AR}[/math]
+
+Options:
+গ. চিত্রে [math]\text{MAB}[/math] পথের মোট দূরত্ব কত?
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,[math]\hspace{1 cm}[/math]
+বস্তুর ভর, [math]\mathrm{m}=400 \mathrm{~gm} =0.4 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+ [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+AB পথের দৈর্ঘ্য, AB = 2 m[math]\hspace{1 cm}[/math]
+A বিন্দুর উচ্চতা AD = h হলে,M বিন্দুতে গতিশক্তি = A বিন্দুতে বিভবশক্তি[math]\hspace{1.5 cm}\begin{array}{l} \Rightarrow 11.76=\mathrm{mgh} \\ \Rightarrow \mathrm{h}=\frac{11.76}{0.4 \times 9.8}=3 \mathrm{~m} \\ \triangle \mathrm{AMD}-এ~ \sin \angle \mathrm{AMD}=\frac{\mathrm{AD}}{\mathrm{AM}} \\ \Rightarrow \mathrm{AM}=\frac{\mathrm{AD}}{\sin 30^{\circ}}=\frac{3}{0.5} \\ \therefore ~ \mathrm{AM}=6 \mathrm{~m} \end{array}[/math]
+ [math]\therefore[/math]
+ MAB পথের দৈর্ঘ্য [math]\rm{=M A+A B=6 m+2 m=8 m \text { (Ans.) }}[/math]
+
+
+Explanation:
+ব্যাখ্যা: কাজের সমান mgh হলে [math]0.4\times 9.8\times h=11.76[/math], তাই [math]h=3\ \text{m}[/math]. ঢালটি [math]30^\circ[/math] হওয়ায় [math]MA=\dfrac{h}{\sin30^\circ}=\dfrac{3}{0.5}=6\ \text{m}[/math], এবং [math]AB=2\ \text{m}[/math].  
+গ তাই MAB পথের মোট দূরত্ব = [math]6+2=8\ \text{m}[/math].
+
+Sub-Questions:
+

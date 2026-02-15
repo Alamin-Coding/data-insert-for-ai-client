@@ -1,0 +1,331 @@
+================================================================================
+Question #1 (ID: 409355)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]\frac{1}{2} \hat{i}+\frac{1}{3} \hat{\mathbf{j}}+\hat{\mathbf{k}}[/math] এর মান কোনটি ?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math]\sqrt{\left(\frac{1}{2}\right)^{2}+\left(\frac{1}{3}\right)^{2}+1^{2}}[/math]
+ [math]=\sqrt{\frac{1}{4}+\frac{1}{9}+1}[/math]
+ [math]=\sqrt{\frac{9+4+36}{36}}[/math]
+ [math]=\sqrt{\frac{49}{36}}[/math]
+ [math]=\frac{7}{6}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরের মান হল তার উপাদানগুলোর বর্গের যোগফলের বর্গমূল, তাই [math]\sqrt{(1/2)^2+(1/3)^2+1^2}=\sqrt{1/4+1/9+1}=\sqrt{49/36}=7/6[/math], তাই উত্তর A সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 409376)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]\underline{\mathrm{A}}=3 \mathrm{i}-2 \mathrm{j}+\underline{\mathrm{k}}, \underline{\mathrm{B}}=\mathrm{i}-3 \mathrm{j}+5 \underline{\mathrm{k}}[/math] ও [math]\underline{\mathrm{C}}=2 \underline{\mathrm{i}}+\mathrm{j}-4 \underline{\mathrm{k}}[/math] ভেক্টরসমূহ দ্বারা একটি সমকোণী ত্রিভুজ তৈরি করা কি সম্ভব?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+এখানে [math]\vec{B}+\vec{C}=\hat{i}-3 \hat{j}+5 \hat{k}+2 \hat{i}+\hat{j}-4 \hat{k}=3 \hat{i}-2 \hat{j}+\hat{k}=\vec{A}[/math]
+ [math]\therefore \vec{A}, \vec{B} \& \vec{C}[/math]
+ ত্রিভুজ গঠন করে ।[math]|\underline{A}|^{2}=9+4+1=14 ;|\underline{\mathrm{B}}|^{2}=1+9+25=35 \quad|\underline{C}|^{2}=4+1+16=21[/math]
+ [math]\therefore|\underline{\mathrm{B}}|^{2}=|\underline{\mathrm{A}}|^{2}+|\underline{\mathrm{C}}|^{2}=35[/math]
+ আবার [math]\underline{A} \cdot \underline{C}=6-2-4=0 \therefore[/math]
+ সমকোণী ত্রিভুজ গঠন করা সম্ভব।
+
+Explanation:
+ব্যাখ্যা: তিন ভেক্টরের দৈর্ঘ্যের বর্গগুলো হিসাব করলে দেখা যায় [math]|\mathbf{A}|^2=3^2+(-2)^2+1^2=14,\;|\mathbf{B}|^2=1^2+(-3)^2+5^2=35,\;|\mathbf{C}|^2=2^2+1^2+(-4)^2=21[/math]. এখানে [math]|\mathbf{B}|^2=35=14+21=|\mathbf{A}|^2+|\mathbf{C}|^2[/math], সুতরাং দৈর্ঘ্য অনুযায়ী একটি সমকোণী ত্রিভুজ গঠন করা সম্ভব (যেখানে [math]|\mathbf{B}|[/math] হাইপোটেনিউজ)।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 409133)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2007-2008 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+ধ্রুবক a এর মান নির্ণয় কর যেন [math]2 i+j-k, 3 i-2 j+4 k, i-3 j+a k[/math] ভেক্টর তিনটি একই সমতলে থাকে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](a=5)[/math]
+ [math]\left|\begin{array}{ccc}2 & 1 & -1 \\3 & -2 & 4 \\1 & -3 & a\end{array}\right|=0 \Rightarrow-4 a+24-3 a+4+7=0 \quad \therefore a=5(\Lambda \mathrm{ns} .)[/math]
+
+
+Explanation:
+ব্যাখ্যা: ভেক্টরগুলো একই সমতলে থাকবে যদি তাদের scalar triple product শূন্য হয়, তাই [math]\det\begin{pmatrix}2&1&-1\\3&-2&4\\1&-3&a\end{pmatrix}=0[/math]. গণনায় [math]-7a+35=0[/math] পাওয়া যায়, ফলে [math]a=5[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 409132)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি একক ভেক্টর নির্ণয় কর যা [math]\bar{a}=\hat{i}+\hat{j}+\hat{k}[/math] এবং [math]\overline{\mathrm{b}}=\hat{\mathrm{i}}-\hat{\mathrm{j}}-\hat{\mathrm{k}}[/math] ভেক্টরদ্বয়ের সমতলীয় এবং ä ভেক্টরের উপর লম্ব
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math](=\pm \frac{2 i-j-k}{\sqrt{6}} \text {})[/math]
+নির্ণেয় ভেক্টর [math]\overrightarrow{\mathrm{r}}=\overrightarrow{\mathrm{a}}+\mathrm{p} \overrightarrow{\mathrm{b}}=\hat{\mathrm{i}}+\hat{\mathrm{j}}+\hat{k}+p(\hat{\mathrm{i}}-\hat{\mathrm{j}}-\hat{k})=(1+p) \hat{i}+(1-p) \hat{j}+(1-p) \hat{k}[/math]
+ [math]\overrightarrow{\mathrm{r}} \cdot \overrightarrow{\mathrm{a}}=0 \Rightarrow 1+\mathrm{p}+1-\mathrm{p}+1-\mathrm{p}=0 \Rightarrow \mathrm{p}=3 \therefore \overrightarrow{\mathrm{r}}=4 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}[/math]
+ [math]\therefore[/math]
+ একক ভেক্টর [math]=\pm \frac{\vec{r}}{|\vec{r}|}=\pm \frac{4 i-2 j-2 \vec{k}}{2 \sqrt{6}}=\pm \frac{2 i-j-k}{\sqrt{6}} \therefore[/math]
+ [math]\therefore[/math]
+ একক ভেক্টর [math]=\pm \frac{2 i-j-k}{\sqrt{6}} \text { (Ans.) }[/math]
+
+
+Explanation:
+বর্ণনা: প্লেনীয় এবং [math]\bar{a}[/math]-এর প্রতি লম্ব একটি ভেক্টর পাওয়ার সহজ উপায় হল [math]\bar{b}[/math] থেকে [math]\bar{a}[/math]-এর ওপরের প্রক্ষেপ (projection) বাদ করা, কারণ সেই পার্থক্যটি একই সমতলেই থাকে এবং [math]\bar{a}[/math]‑এর প্রতি লম্ব। তাই নিন [math]\bar{v}=\bar{b}-\mathrm{proj}_{\bar{a}}\bar{b}=\bar{b}-\frac{\bar{a}\cdot\bar{b}}{\bar{a}\cdot\bar{a}}\bar{a}=(\tfrac{4}{3},-\tfrac{2}{3},-\tfrac{2}{3})[/math] এবং এর একক ভেক্টর হল [math]\pm\frac{(2,-1,-1)}{\sqrt{6}}[/math], যা সমতলীয়ও এবং [math]\bar{a}[/math]-এর উপর লম্বও।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 409131)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+পাশের চিত্রে [math]\text { ОАCB }[/math] একটি সামান্তরিক।
+
+
+[Image]
+
+
+Options:
+ক. [math]\overrightarrow{\mathrm{AB}}[/math] নির্ণয় কর।
+খ. [math]\overrightarrow{\mathrm{OA}}[/math] বরাবর [math]\overrightarrow{\mathrm{OB}}[/math] এর উপাংশ নির্ণয় কর।
+গ. [math]\triangle \mathrm{OAC}[/math] এর ক্ষেত্রফল নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কচিত্রানুসারে [math]\overrightarrow{O A}=2 \hat{i}+\hat{j}-\hat{k}[/math]
+ এবং [math]\overrightarrow{O B}=\hat{i}+\hat{j}-\hat{k}[/math]
+ [math]\therefore \overrightarrow{\mathrm{AB}}[/math]
+ [math]=\overrightarrow{\mathrm{OB}}[/math]
+ [math]-\overrightarrow{\mathrm{OA}}[/math]
+ [math]=(\hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}})[/math]
+ [math]-(2 \hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}})[/math]
+ [math]=-\hat{\mathrm{i}} \text { (Ans.) }[/math]
+ [math]\\[/math]
+ খচিত্রানুসারে[math]vec{\mathrm{OA}}=2 \hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}}[/math]
+ এবং [math]\vec{\mathrm{OB}}=\hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}}[/math]
+ [math]\therefore \vec{\mathrm{OA}} \cdot \overrightarrow{\mathrm{OB}}[/math]
+ [math]=(2 \hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}})[/math]
+ [math]\cdot(\hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}})[/math]
+ [math]=2+1+1=4[/math]
+ [math]|\vec{\mathrm{OA}}|[/math]
+ [math]=\sqrt{2^{2}+1^{2}+(-1)^{2}}[/math]
+ [math]=\sqrt{4+1+1}[/math]
+ [math]=\sqrt{6}[/math]
+ [math]\therefore \vec{\mathrm{OA}}[/math]
+ বরাবর একক ভেক্টর, [math]\hat{a}[/math]
+ [math]=\frac{\overrightarrow{O A}}{|\overrightarrow{O A}|}[/math]
+ [math]=\frac{1}{\sqrt{6}}(2 \hat{i}+\hat{j}-\hat{k})[/math]
+ [math]\therefore \vec{\mathrm{OA}}[/math]
+ বরাবর [math]\vec{\mathrm{OB}}[/math]
+ এর উপাংশ [math]=\frac{\vec{\mathrm{OA}} \cdot \vec{\mathrm{OB}}}{|\overrightarrow{\mathrm{OA}}|} \cdot \hat{\mathrm{a}}[/math]
+ [math]=\frac{4}{\sqrt{6}} \frac{1}{\sqrt{6}}[/math]
+ [math](2 \hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}})[/math]
+ [math]=\frac{2}{3}(2 \hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}}) \text { (Ans.) }[/math]
+ [math]\\[/math]
+ গচিত্রানুসারে [math]\vec {\mathrm{OA}}=2 \hat{\mathrm{i}}+\hat{\mathrm{j}}-\hat{\mathrm{k}}[/math]
+ এবং [math]\vec{O B}=\vec{A C}=\hat{i}+\hat{j}-\hat{k}[/math]
+ [math]\therefore \vec{\mathrm{OA}} \times \vec{\mathrm{AC}}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{\mathrm{i}} & \hat{\mathrm{j}} & \hat{\mathrm{k}} \\2 & 1 & -1 \\\mathrm{i} & 1 & -1\end{array}\right|[/math]
+ [math]=(-1+1) \hat{\mathrm{i}}[/math]
+ [math]-(-2+1) \hat{\mathrm{j}}+(2-1) \hat{\mathrm{k}}[/math]
+ [math]=\hat{\mathrm{j}}+\hat{\mathrm{k}}[/math]
+ [math]\therefore \triangle \mathrm{OAC}[/math]
+ এর ক্ষেত্রফল [math]=\frac{1}{2}|\vec{\mathrm{OA}} \times \vec{\mathrm{AC}}|[/math]
+ [math]=\frac{1}{2}[/math]
+ [math]\times \sqrt{1^{2}+1^{2}}[/math]
+ [math]=\frac{1}{2}[/math]
+ [math]\times \sqrt{2}[/math]
+ [math]=\frac{1}{\sqrt{2}}[/math]
+ বর্গ একক
+
+Explanation:
+ব্যাখ্যা:
+
+ক কারণ বিন্দুদের অবস্থাভেক্টর ধরে [math]\vec{A}=\overrightarrow{OA}[/math], [math]\vec{B}=\overrightarrow{OB}[/math] হলে [math]\overrightarrow{AB}=\vec{B}-\vec{A}=\overrightarrow{OB}-\overrightarrow{OA}[/math] হয় — যে কোন দুটি বিন্দুর মধ্যে ভেক্টর পার্থক্যই উপযোগী।
+
+খ [math]\overrightarrow{OB}[/math]–এর [math]\overrightarrow{OA}[/math] বরাবর উপাংশ হল তাদের প্রজেকশন: [math]\mathrm{proj}_{\overrightarrow{OA}}\overrightarrow{OB}=\dfrac{\overrightarrow{OA}\cdot\overrightarrow{OB}}{\overrightarrow{OA}\cdot\overrightarrow{OA}}\;\overrightarrow{OA}[/math], কারণ ডট প্রোডাক্ট ব্যবহার করে ভেক্টরকে কোনো নির্দিষ্ট দিকে проজেক্ট করা হয়।
+
+গ ত্রিভুজ [math]OAC[/math]–এর ক্ষেত্রফল সমান্তরালচতুর্ভুজের অর্ধেক; সমান্তরালচতুর্ভুজের ক্ষেত্রফল হলো [math]|\overrightarrow{OA}\times\overrightarrow{OB}|[/math], ফলে [math]\text{Area}(\triangle OAC)=\tfrac{1}{2}\big|\overrightarrow{OA}\times\overrightarrow{OB}\big|[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 409130)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Nexes Solutions
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm{O}(0,0,0)[/math] বিন্দুর সাপেক্ষে [math]\overrightarrow{\mathrm{A}}[/math] ও [math]\overrightarrow{\mathrm{B}}[/math] বিন্দুর অবস্থান ভেক্টর
+
+যথাক্রমে [math]3 \hat{i}+2 \hat{j}+4 \hat{k}[/math] ও [math]\hat{i}-\hat{j}+2 \hat{k}[/math]
+
+Options:
+ক. [math]P(5,-3,1), Q(3,-1,-2)[/math] এর সংযোগ রেখাংশকে [math]R[/math] বিন্দু [math]3 : 4[/math] অনুপাতে অন্তর্বিভক্ত করলে [math]\overrightarrow{\mathrm{OR}}[/math] নির্ণয় কর।
+খ. [math]\overrightarrow{\mathrm{OA}}+\overrightarrow{\mathrm{OB}}[/math] ও [math]\overrightarrow{\mathrm{OA}}-\overrightarrow{\mathrm{OB}}[/math] এর মধ্যবর্তী কোণ নির্ণয় কর।
+গ. [math]O[/math] হতে [math]AB[/math] এর লম্ব দূরত্ব নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]\overrightarrow{O P}=5 \hat{i}-3 \hat{j}+\hat{k},[/math]
+ [math]\overrightarrow{O Q}=3 \hat{i}-\hat{j}-2 \hat{k}[/math]
+ [math]P, Q[/math]
+ এর সংযোগ রেখাকে [math]R[/math]
+ বিন্দু [math]3 : 4[/math]
+ অনুপাতে অন্তর্বিভক্ত করে।[math]\therefore \overrightarrow{O R} =\frac{3 \overrightarrow{O Q}+4 \overrightarrow{O P}}{3+4}[/math]
+ [math]=\frac{3(3 \hat{i}-\hat{j}-2 \hat{k})+4(5 \hat{i}-3 \hat{j}+\hat{k})}{7}[/math]
+ [math]=\frac{9 \hat{i}-3 \hat{j}-6 \hat{k}+20 \hat{i}-12 \hat{j}+4 \hat{k}}{7}[/math]
+ [math]=\frac{29 \hat{i}-15 \hat{j}-2 \hat{k}}{7}[/math]
+ [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ খপ্রশ্নমতে, [math]\overrightarrow{O A}[/math]
+ [math]=3 \hat{i}+2 \hat{j}[/math]
+ [math]+4 \hat{k}^{}[/math]
+ [math]\overrightarrow{O B}=\hat{i}-\hat{j}+2 \hat{k}[/math]
+ [math]\therefore \overrightarrow{O A}+\overrightarrow{O B}[/math]
+ [math]=3 \hat{i}+2 \hat{j}[/math]
+ [math]+4 \hat{k}[/math]
+ [math]+\hat{i}-\hat{j}+2 \hat{k}[/math]
+ [math]=4 \hat{i}+\hat{j}[/math]
+ [math]+6 \hat{k}[/math]
+ [math]\overrightarrow{O A}-\overrightarrow{O B}[/math]
+ [math]=3 \hat{i}+2 \hat{j}+4 \hat{k}[/math]
+ [math]-(\hat{i}-\hat{j}+2 \hat{k})[/math]
+ [math]=2 \hat{i}+3 \hat{j}+2 \hat{k}[/math]
+ [math]\therefore[/math]
+ নির্ণেয় কোণ [math]\theta[/math]
+ হলে [math]\cos \theta=\frac{(\overrightarrow{\mathrm{OA}}+\overrightarrow{\mathrm{OB}}) \cdot(\overrightarrow{\mathrm{OA}}-\overrightarrow{\mathrm{OB}})}{|\overrightarrow{\mathrm{OA}}+\overrightarrow{\mathrm{OB}}||\overrightarrow{\mathrm{OA}}-\overrightarrow{\mathrm{OB}}|}[/math]
+ [math]=\frac{(4 \hat{i}+\hat{j}+6 \hat{k}) \cdot(2 \hat{i}+3 \hat{j}+2 \hat{k})}{|4 \hat{i}+\hat{j}+6 \hat{k}||2 \hat{i}+3 \hat{j}+2 \hat{k}|}[/math]
+ [math]=\frac{8+3+12}{\sqrt{16+1+36} \sqrt{4+9+4}}[/math]
+ [math]=\frac{23}{\sqrt{53} \sqrt{17}}[/math]
+ [math]\therefore \theta=\cos ^{-1}[/math]
+ [math]\left(\frac{23}{\sqrt{901}}\right)[/math]
+ [math]\text { (Ans.) }[/math]
+ [math]\\[/math]
+ গ [math]\overrightarrow{O A} \times \overrightarrow{O B}[/math]
+ [math]=\left|\begin{array}{ccc}\hat{i} & \hat{j} & \hat{k} \\3 & 2 & 4 \\1 & -1 & 2\end{array}\right|[/math]
+ [math]=(4+4) \hat{i}-(6-4)[/math]
+ [math]\hat{j}+(-3-2) \hat{k}[/math]
+ [math]=8 \hat{i}-2 \hat{j}-5 \hat{k}[/math]
+ [math]\therefore \overrightarrow{O A} \times \overrightarrow{O B} \mid[/math]
+ [math]=\sqrt{64+4+25}[/math]
+ [math]=\sqrt{93}[/math]
+ [math]\therefore \mathrm{OAB}[/math]
+ ত্রিভুজের ক্ষেত্রফল [math]=\frac{1}{2}|\overrightarrow{O A} \times \overrightarrow{O B}|[/math]
+ [math]=\frac{\sqrt{93}}{2}[/math]
+ বর্গ এককO হতে [math]\overrightarrow{\mathrm{AB}}[/math]
+ এর লম্ব দূরত্ব d হলে,[math]OAB[/math]
+ ত্রিভুজের ক্ষেত্রফল [math]=\frac{1}{2}(\overrightarrow{A B} \times d)[/math]
+ [math]=\frac{1}{2} \mathrm{~d}|\overrightarrow{\mathrm{AB}}|[/math]
+ [math]=\frac{1}{2} \mathrm{~d}[/math]
+ [math]|\overrightarrow{\mathrm{OB}}-[/math]
+ [math]\overrightarrow{\mathrm{OA}}|[/math]
+ [math]=\frac{1}{2} \mathrm{~d}[/math]
+ [math]|\hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}}[/math]
+ [math]-(3 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}[/math]
+ [math]+4 \hat{\mathrm{k}})|[/math]
+ [math]=\frac{1}{2} \mathrm{~d} \mid-2 \hat{\mathrm{i}}[/math]
+ [math]-3 \hat{\mathrm{j}}-2 \hat{\mathrm{k}}[/math]
+ [math]=\frac{1}{2} d \sqrt{4+9+4}[/math]
+ [math]=\frac{\sqrt{17}}{2} d[/math]
+ বর্গ একক[math]\therefore \frac{\sqrt{17}}{2} d[/math]
+ [math]=\frac{\sqrt{93}}{2}[/math]
+ [math]\Rightarrow d =\sqrt{\frac{93}{17}}[/math]
+ একক[math]\therefore 0[/math]
+ হতে [math]\overrightarrow{\mathrm{AB}}[/math]
+ এর লম্ব দূরত্ব [math]=\sqrt{\frac{93}{17}}[/math]
+ একক
+
+Explanation:
+ব্যাখ্যা:
+
+ক বিভাগবিন্দু সূত্র অনুযায়ী যদি [math]PR:RQ=3:4[/math], তাহলে [math]\overrightarrow{OR}=\dfrac{4\overrightarrow{OP}+3\overrightarrow{OQ}}{7}=\dfrac{4(5,-3,1)+3(3,-1,-2)}{7}=\dfrac{(29,-15,-2)}{7}=[\tfrac{29}{7},-\tfrac{15}{7},-\tfrac{2}{7}][/math].
+
+খ (a+b) ও (a−b) এর মধ্যবর্তী কোণের জন্য [math](a+b)\cdot(a-b)=|a|^2-|b|^2=29-6=23[/math], এবং [math]|a+b|=\sqrt{53},\ |a-b|=\sqrt{17}[/math] তাই [math]\cos\theta=\dfrac{23}{\sqrt{53}\sqrt{17}}=\dfrac{23}{\sqrt{901}},\ \theta=\cos^{-1}\!\left(\dfrac{23}{\sqrt{901}}\right)[/math].
+
+গ O থেকে রেখা AB এর লম্বদূরত্ব = [math]\dfrac{|\,\overrightarrow{OA}\times\overrightarrow{OB}\,|}{|\overrightarrow{OB}-\overrightarrow{OA}|}[/math]; [math]\overrightarrow{OA}\times\overrightarrow{OB}=(8,-2,-5),\ |\,\cdot\,|=\sqrt{93}[/math] এবং [math]|\overrightarrow{OB}-\overrightarrow{OA}|=\sqrt{17}[/math], সুতরাং দূরত্ব = [math]\dfrac{\sqrt{93}}{\sqrt{17}}=\sqrt{\dfrac{93}{17}}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 409127)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2022 | Boards:  | Tags: Faujdarhat Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]\hat{\mathbf{i}}+\hat{\mathbf{j}}-\mathbf{a} \hat{k}[/math]-ও [math]2 \hat{i}-\hat{\jmath}+3 \hat{k}[/math] একই সমতলে অবস্থান করলে [math]a[/math] এর মান কত?
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+সমতলীয় ভেক্টর হবে যদি [math]\left|\begin{array}{rrr}1 & 1 & -a \\-1 & 2 & -1 \\2 & -1 & 3\end{array}\right|=0[/math]
+ [math]\begin{array}{l}\Rightarrow 1(6-1)+1(-2+3)-a(1-4)=0\\\Rightarrow 5+1+3 a=0 \Rightarrow 3 a=-6 \therefore a=-2\end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: তিনটি ভেক্টর একই সমতলে থাকার শর্ত হল তাঁদের স্কেলার ট্রিপল প্রোডাক্ট শূন্য, তাই
+[math]\begin{vmatrix}1&1&-a\\[4pt]2&-1&3\\[4pt]1&-2&1\end{vmatrix}=0[/math],
+এবং এই ডিটারমিন্যান্ট থেকে [math]6+3a=0[/math] হওয়ায় [math]a=-2[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 409116)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2017-2018 | Boards:  | Tags: University of Rajshahi (C Unit)
+--------------------------------------------------------------------------------
+Question:
+তিনটি ভেক্টর [math]\bar{A}, \bar{B}[/math] এবং [math]\overline{\mathrm{C}}[/math] সমতলীয় হওয়ার শর্ত হল-
+
+Options:
+
+
+Correct Answer: ক
+
+Solution:
+[math](\vec{A} \times \vec{B})[/math]
+ [math]\cdot \vec{C}[/math]
+ [math]=\vec{A}[/math]
+ [math]\cdot(\vec{B} \times \vec{C})[/math]
+ [math]=\vec{B} \cdot(\vec{C} \times \vec{A})=0[/math]
+তিনটি ভেক্টর সমতলীয় হওয়ার শর্ত হচ্ছে যেকোন দুটি ভেক্টর এর ক্রস গুণন এর সাথে অপর ভেক্টরের ডট গুণন করলে শূন্য হবে।
+
+Explanation:
+ব্যাখ্যা: তিনটি ভেক্টরের স্কেলার ট্রিপল প্রোডাক্ট [math]\bar A\cdot(\bar B\times\bar C)[/math] হল তারা গঠিত প্যারালেলিপাইপের আয়তন; এটি শূন্য হলে আয়তন শূন্য অর্থাৎ ভেক্টরগুলো সমতলীয়। তাই সমতলীয়তার শর্ত হলো [math]\bar A\cdot(\bar B\times\bar C)=0[/math], সুতরাং A সঠিক।
+
+Sub-Questions:
+

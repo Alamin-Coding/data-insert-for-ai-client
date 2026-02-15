@@ -1,0 +1,139 @@
+================================================================================
+Question #1 (ID: 407215)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+চিত্রে একটি লন রোলার দেখানো হয়েছে। লন রোলারটির হাতল অনুভূমিকের সাথে θ কোণে হেলানো আছে।
+
+Options:
+ঘ. লন রোলারের 20 N বল টানার এবং ঠেলার ক্ষেত্রে প্রয়োগ করে যদি 5m সরাতে হয় তবে উভয় ক্ষেত্রে কাজ সমান হবে কী? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘঠেলার ক্ষেত্রে কৃতকাজ :ধরি, রোলারের ওজন [math]=\overrightarrow{\mathrm{W}}[/math]
+হাতলের উপর প্রযুক্ত বল = 20 Nএই 20 N বল O বিন্দুতে দুটি লম্বাংশে বিভাজিত হয়।অনুভূমিক উপাংশ [math]=20 \cos \theta[/math]
+ , এটি রোলারকে সামনের দিকে নিয়ে যায়।উল্লম্ব উপাংশ [math]=20 \sin \theta[/math]
+ , এটি নিচের দিকে ক্রিয়া করে।[math]\therefore[/math]
+ রোলারের আপাত ওজন [math]=\mathrm{W}+20 \sin \theta[/math]
+ [math]\therefore[/math]
+ রোলার কৃতক কৃতকাজ, [math]\mathrm{W}_{1}=(\mathrm{W}+20 \sin \theta) \times 5 \mathrm{~J}[/math]
+ [ [math]\therefore[/math]
+ সরণ = 5m] টানার ক্ষেত্রে কৃতকাজ: টানার ক্ষেত্রে উল্লম্ব উপাংশ [math]20 \sin \theta[/math]
+ , এটি উপরের দিকে ক্রিয়া করে।ফলে রোলারের আপাত ওজন [math]=W-20 \sin \theta[/math]
+ [math]\therefore[/math]
+ কৃতকাজ,[math]\begin{aligned}\mathrm{W}_{2} & =(\mathrm{W}-20 \sin \theta) \times 5 \mathrm{~J} \\& =(\mathrm{W}-20 \sin \theta) 5 \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore \mathrm{W}_{2}<\mathrm{W}_{1}[/math]
+অতএব, টানা ও ঠেলা উভয় ক্ষেত্রে কৃতকাজ সমান হবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ টানার ও ঠেলার ক্ষেত্রে কাজ সমান হবে কারণ কাজ হল বল ও সরনের নমুনার ডট প্রোডাক্ট: [math]W=F s\cos\theta[/math]. তাই [math]W=20\times5\cos\theta=100\cos\theta\ \text{J}[/math], এবং কোণ যদি ±θ হয় তাতে [math]\cos(-\theta)=\cos\theta[/math] হওয়ায় উভয় ক্ষেত্রেই একই কাজ হয় (উপরি/নিচে উচ্চতা পরিবর্তন বা ঘর্ষণ বাদ দিলে)।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 407216)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{F}=2 \hat{i}+3 \hat{\jmath}-\hat{k}[/math] বলটি [math][-1,2,2][/math] বিন্দুতে ক্রিয়া করছে। মূলবিন্দুর সাপেক্ষে বলের ভ্রামক নির্ণ য় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]-8 \hat{i}+3 \hat{j}-7 \hat{k}[/math] )
+
+Explanation:
+ব্যাখ্যা: বলের ভ্রামক মূলবিন্দুর সাপেক্ষে [math]\vec{\tau}=\vec{r}\times\vec{F}[/math], যেখানে [math]\vec{r}=-\hat{i}+2\hat{j}+2\hat{k}[/math] এবং [math]\vec{F}=2\hat{i}+3\hat{j}-\hat{k}[/math]. হিসাব করলে [math]\vec{\tau}=\begin{vmatrix}\hat{i}&\hat{j}&\hat{k}\\ -1&2&2\\2&3&-1\end{vmatrix}=-8\hat{i}+3\hat{j}-7\hat{k}[/math], তাই ভ্রামক হল [math]-8\hat{i}+3\hat{j}-7\hat{k}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 407219)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021, 2017 | Boards: Chittagong Board, Rajshahi Board | Tags: Chattogram Board, Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+কেন্দ্রমুখী বল কাকে বলে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+যখন কোনো বড় একটি বৃত্তাকার পথে ঘুরতে থাকে তখন ঐ বৃত্তের কেন্দ্র অভিমুখে যে নিট বল ক্রিয়া করে বস্তুটিকে বৃত্তাকার পথে গতিশীল রাখে তাকে কেন্দ্রমুখী বল বলে।
+
+Explanation:
+ব্যাখ্যা: কেন্দ্রমুখী বল হলো কোনো বস্তুকে বৃত্তীয় পথে রাখতে কেন্দ্রের দিকে ক্রিয়াশীল বল, অর্থাৎ এটি সবসময় বৃত্তের কেন্দ্রের দিকে নির্দেশ করে। এর মান হয় [math]F=\dfrac{mv^2}{r}[/math] এবং এই বলই বস্তুকে কেন্দ্রমুখী ত্বরণে রাখে।
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 407211)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+400 kg ভরের একটি গাড়ি 60 km [math]h^{-1}[/math] সমবেগে 10° কোণে নততল বরাবর উপরে উঠে। [ঘর্ষণ গুণাঙ্ক μ এর মান 0.3 এবং g এর মান 9.8 m [math]s^{-2}[/math]]
+
+Options:
+গ. গাড়ির উপর ক্রিয়াশীল বিরুদ্ধ বলের মান নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, গাড়ির ভর, m = 400 kgবেগ, [math]\begin{aligned}v & =60 \mathrm{kmhr}^{-1} \& =\frac{60 \times 1000}{3600} \mathrm{~ms}^{-1} \\& =16.667 \mathrm{~ms}^{-1}\end{aligned}[/math]
+ঘর্ষণ গুণাঙ্ক, [math]\mu_k[/math]
+ = 0.3কোণ, [math]\theta[/math]
+ = 10°গাড়িটি সমবেগে যায় বলে, ত্বরণ a = 0[math]\begin{array}{l}\quad \sum F=m a \\\Rightarrow\text { } F-F_{k}-m g \sin \theta=0 \\\Rightarrow\text { } F=F_{k}+m g \sin \theta \\\Rightarrow\text { } F=\mu_{k} R+m g \sin \theta \\\Rightarrow\text { } F=\mu_{k} m g \cos \theta+m g \sin \theta[\because R=m g \cos \theta] \\\Rightarrow\text { } F=m g\left(\mu_{k} \cos \theta+\sin \theta\right) \\\Rightarrow\text { } F=400 \times 9.8\left(0.3 \cos 10^{\circ}+\sin 10^{\circ}\right) \\\therefore F=1838.835 N \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: গাড়ির উপর বিরুদ্ধ বলের মোট মান হল ওজনের ঢাল বরাবর উপাদান ও ঘর্ষণের যোগফল, তাই [math]F=mg(\sin\theta+\mu\cos\theta)[/math]. সূত্রে বসালে [math]F=400\times9.8\times(\sin10^\circ+0.3\cos10^\circ)\approx1.84\times10^3\ \text{N}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 407212)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+সুতার সাহায্যে [math]500 \mathrm{~gm}[/math] ভরের একটি বস্তুকে উলম্বতলে [math]5 \rm{~ms}^{-1}[/math] ধ্রুব বেগে [math]60 \rm{~cm}[/math] ব্যাসের বৃত্তাকার পথে ঘুরানো হলো। [math]\left[\mathrm{g}=9.8 \mathrm{~ms}^{-2}\right][/math]
+
+Options:
+গ. বস্তুটির উপর কেন্দ্রবিমুখী বলের মান নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+ভর, m = 500 gm = 0.5 kg[math]\hspace{1 cm}[/math]
+বেগ, [math]\mathrm{v}=5 \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=\frac{60}{2} \mathrm{~cm}=0.3 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কেন্দ্রমুখী বল, [math]F_C = ?[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \mathrm{F}_{\mathrm{c}}=\frac{\mathrm{m} v^{2}}{\mathrm{r}}=\frac{0.5 \times(5)^{2}}{0.3} \\ \therefore \mathrm{F}_{\mathrm{c}}=41.67 \mathrm{~N} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কেন্দ্রবিমুখী বল [math]F=\frac{mv^2}{r}[/math] সূত্রে নির্ণয় করা হয়, যেখানে [math]m=0.5\ \mathrm{kg},\;v=5\ \mathrm{m\,s^{-1}},\;r=0.6\ \mathrm{m}[/math]. তাই [math]F=\frac{0.5\times5^2}{0.6}=\frac{12.5}{0.6}\approx20.83\ \mathrm{N}[/math], এবং এই বলটি সবসময় বৃত্তের কেন্দকের দিকে কাজ করে।
+
+Sub-Questions:
+

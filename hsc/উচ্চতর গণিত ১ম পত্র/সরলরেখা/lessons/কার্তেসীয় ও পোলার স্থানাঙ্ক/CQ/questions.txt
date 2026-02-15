@@ -1,0 +1,65 @@
+================================================================================
+Question #1 (ID: 417904)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+[math]x^{2}=1+2 y[/math] কে পোলার সমীকরণে প্রকাশ করলে-
+
+Options:
+
+
+Correct Answer: গ
+
+Solution:
+[math]r^{2} \cos ^{2} \theta[/math]
+ [math]=1+2 r \sin \theta[/math]
+ [math]\Rightarrow r^{2}\left(1-\sin ^{2} \theta\right)[/math]
+ [math]=1+2 r \sin \theta[/math]
+ [math]\Rightarrow r^{2}-(r \sin \theta+1)^{2}[/math]
+ [math]=0[/math]
+ [math]\Rightarrow r[/math]
+ [math]=\pm(r \sin \theta)+1[/math]
+ [math]\Rightarrow r(1 \pm \sin \theta)[/math]
+ [math]=1[/math]
+
+
+Explanation:
+x^2 = 1 + 2y কে পোলার সমীকরণে করতে [math]x=r\cos\theta,\; y=r\sin\theta[/math] বসালে [math]r^2\cos^2\theta=1+2r\sin\theta[/math] পাওয়া যায়। এটি [math]r^2\cos^2\theta-2r\sin\theta-1=0[/math] ধাঁচের দ্বিঘাত সমীকরণ, সমাধান দিলে [math]r=\dfrac{\sin\theta\pm1}{\cos^2\theta} পাওয়া যায় এবং অপশন C ঠিক সেই ধনাত্মক শাখা [math]r=\dfrac{1+\sin\theta}{\cos^2\theta}[/math] এর সাথে মিলে যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 417903)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2018-2019 | Boards:  | Tags: Shahjalal University of Science & Technology (B Unit)
+--------------------------------------------------------------------------------
+Question:
+A ও B বিন্দু দুটির পোলার স্থানাঙ্ক যথাক্রমে [math](5 \sqrt{2}, \pi / 4)[/math] এবং [math](5 \sqrt{2}, 0)[/math] । D, AB রেখার মধ্যবিন্দু । D এর পোলার স্থানাঙ্ক কত?
+
+Options:
+
+
+Correct Answer: .
+
+Solution:
+Hints: পোলার স্থানাঙ্ক (r, B) এবং কার্তেসীয় স্থানাঙ্ক (x, y) হলে,[math]\mathrm{x}=\mathrm{r} \cos \theta, \mathrm{y}=\mathrm{r} \sin \theta \text { and } \mathrm{r}=\sqrt{x^{2}+y^{2}}[/math]
+Solve: [math]\mathrm{A}\left(5 \sqrt{2}, \frac{\pi}{4}\right)[/math]
+ ) এর কার্তেসীয় স্থানাঙ্ক [math]=(r \cos \theta, r \sin \theta)[/math]
+ [math]=\left(5 \sqrt{2} \cos \frac{\pi}{4}, 5 \sqrt{2} \sin \frac{\pi}{4}\right)=(5,5)[/math]
+ [math]\mathrm{B}(5 \sqrt{2}, 0)[/math]
+ ) এর কার্তেসীয় স্থানাঙ্ক [math]=(5 \sqrt{2} \cos 0,5 \sqrt{2} \sin 0)[/math]
+ [math]=(5 \sqrt{2}, 0)[/math]
+D এর পোলার স্থানাঙ্ক নির্ণয়: r = [math]r=\sqrt{\left(\frac{5+5 \sqrt{2}}{2}\right)^{2}+\left(\frac{5}{2}\right)^{2}}[/math]
+ [math]=\sqrt{\frac{25+50 \sqrt{2}+50}{4}+\frac{25}{4}}[/math]
+ [math]=\sqrt{\frac{100+50 \sqrt{2}}{4}}[/math]
+ [math]=\frac{\sqrt{100+50 \sqrt{2}}}{2}[/math]
+ [math]\theta=\tan ^{-1}\left(\frac{5 / 2}{\frac{5+5 \sqrt{2}}{2}}\right)[/math]
+ [math]\text { Ans. }\left(\frac{\sqrt{100+50 \sqrt{2}}}{2}, \tan ^{-1}\left(\frac{5 / 2}{\frac{5+5 \sqrt{2}}{2}}\right)\right)[/math]
+ যা অপশনে নেই।
+
+Explanation:
+ব্যাখ্যা: A ও B এর কার্টেসীয় স্থানাঙ্ক হলো [math]A=(5,5)[/math] এবং [math]B=(5\sqrt{2},0)[/math], অতএব মধ্যবিন্দু [math]D=\left(\frac{5+5\sqrt{2}}{2},\frac{5}{2}\right)[/math]. এর কৌণিক কোষক [math]\theta=\arctan\frac{5/2}{(5+5\sqrt{2})/2}=\arctan\frac{1}{1+\sqrt{2}}=\arctan(\sqrt{2}-1)=\frac{\pi}{8}[/math], এবং রেডিয়াস [math]r=\sqrt{x^2+y^2}=5\sqrt{\frac{2+\sqrt{2}}{2}}[/math]. তাই D এর পোলার স্থানাঙ্ক [math]\left(5\sqrt{\frac{2+\sqrt{2}}{2}},\frac{\pi}{8}\right)[/math].
+
+Sub-Questions:
+

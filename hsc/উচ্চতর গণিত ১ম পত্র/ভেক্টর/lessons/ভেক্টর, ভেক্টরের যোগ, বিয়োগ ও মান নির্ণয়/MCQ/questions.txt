@@ -1,0 +1,475 @@
+================================================================================
+Question #1 (ID: 793274)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathbf{A}}=\hat{\mathbf{i}}+2 \hat{\mathbf{j}}+3 \hat{\mathbf{k}}[/math]এবং [math]\ \overrightarrow{\mathrm{B}}=3 \hat{\mathbf{i}}+2 \hat{\mathbf{j}}-\hat{\mathbf{k}}[/math]
+
+[math]i. \overrightarrow{\mathrm{A}}-\overrightarrow{\mathrm{B}}=-2 \hat{\mathbf{i}}+4 \hat{\mathbf{k}}\\
+ii. |\overrightarrow{\mathbf{A}} \cdot \overrightarrow{\mathrm{B}}|=4\\
+iii. |\overrightarrow{\mathbf{A}} \times \overrightarrow{\mathbf{B}}|=4[/math]
+
+Options:
+ক. i, ii
+খ. ii, iii
+গ. i,iii
+ঘ. i,ii,iii
+
+
+Correct Answer: ক
+
+Solution:
+\(\overrightarrow{\mathrm{A}}-\overrightarrow{\mathrm{B}} =\hat{\mathrm{i}}+2 \hat{\mathrm{j}}+3 \hat{\mathrm{k}}-3 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}+\hat{\mathrm{k}}\)=-2 \hat{\mathrm{i}}+4 \hat{\mathrm{k}} \text { (i) সঠিক\(\overrightarrow{\mathrm{A}} \cdot \overrightarrow{\mathrm{B}}=1 \times 3+2 \times 2+3 \times(-1)=3+4-3=4\\\therefore|\overrightarrow{\mathrm{A}} \cdot \overrightarrow{\mathrm{B}}|=|4|=4 ...(ii)\)(ii) নং সঠিক\(\begin{aligned}\overrightarrow{\mathrm{A}} \times \overrightarrow{\mathrm{B}}=\left|\begin{array}{ccc}\hat{\mathrm{i}} &amp; \hat{\mathrm{j}} &amp; \hat{\mathrm{k}} \\1 &amp; 2 &amp; 3 \\3 &amp; 2 &amp; -1\end{array}\right| &amp; =\hat{\mathrm{i}}(-2-6)-\hat{\mathrm{j}}(-1-9)+\hat{\mathrm{k}}(2-6) \\&amp; =-8 \hat{\mathrm{i}}+10 \hat{\mathrm{j}}-4 \hat{\mathrm{k}}\end{aligned}\)\(​​​​​​​\therefore|\overrightarrow{\mathrm{A}} \times \overrightarrow{\mathrm{B}}|=\sqrt{(-8)^2+10^2+(-4)^2}=\sqrt{180}=6 \sqrt{5}\)যা সঠিক নয়।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 793282)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+ভেক্টর  [math]\cos \alpha \cos \beta \hat{i}+\cos \alpha \sin \beta \hat{j}+\sin \alpha \hat{k}[/math] একটি -  
+
+Options:
+ক. শূন্য ভেক্টর
+খ. একক ভেক্টর
+গ. ধ্রুব ভেক্টর
+ঘ. কোনোটিই নয়
+
+
+Correct Answer: খ
+
+Solution:
+মান \(=\sqrt{(\cos \alpha \cos \beta)^2+(\cos \alpha \sin \beta)^2+\sin ^2 \alpha} \\\)\(=\sqrt{\cos ^2 \alpha\left(\cos ^2 \beta+\sin ^2 \beta\right)+\sin ^2 \alpha}\\=\sqrt{\cos ^2 \alpha+\sin ^2 \alpha} \\\)\(=\sqrt{1}=1 \)অর্থাৎ একক ভেক্টর
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 793281)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+একটি কণার উপর [math]2 \hat{i}-3 \hat{j}+\hat{k}[/math]  এবং [math]3 \hat{i}+\hat{j}-4 \hat{k}[/math]  বল দুটি প্রয়োগের ফলে কণাটি  (2,3,-1) বিন্দু হতে (4,-2,1) বিন্দুতে সরে গেল। বল দুটি দ্বারা সম্পাদিত কাজ কত একক?  
+
+Options:
+ক. 14
+খ. 15
+গ. 16
+ঘ. 18
+
+
+Correct Answer: ক
+
+Solution:
+\(\vec{F}=2 \hat{i}-3 \hat{j} \hat{j}+\hat{k}+3 \hat{i}+\hat{j}-4 \hat{k}=5 \hat{i}-2 \hat{j}-3 \hat{k} \)দূরত্ব,\(\overrightarrow{\mathrm{S}}=(4-2) \hat{i}+(-2-3) \hat{j}+(1+1) \hat{k}=2 \hat{i}-5 \hat{j}+2 \hat{k}\)নির্ণেয় কাজ\( =\overrightarrow{\mathrm{F}} \cdot \overrightarrow{\mathrm{S}}\\=(5 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}-3 \hat{\mathrm{k}}) \cdot(2 \hat{\mathrm{i}}-5 \hat{\mathrm{j}}-2 \hat{\mathrm{k}})\\ =5(2)+(-2)(-5)+(-3)(2)\\=10+10-6=14\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 793280)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ইসলামী বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathbf{A}}=\hat{\mathbf{i}}-\mathrm{a} \hat{\mathbf{j}}+2 \hat{\mathbf{k}}[/math] এবং [math]|\overrightarrow{\mathbf{A}}|=\sqrt{5}[/math] হলে, [math]\mathbf{a}[/math]  এর মান- 
+
+Options:
+খ. 2
+গ. 4
+ঘ. 5
+
+
+Correct Answer: ক
+
+Solution:
+\(\begin{aligned}&amp; \text { }|\overrightarrow{\mathrm{A}}|=|\hat{\mathrm{i}}-\mathrm{a} \hat{\mathrm{j}}+2 \hat{\mathrm{k}}|=\sqrt{5} \\&amp; \Rightarrow \sqrt{1+\mathrm{a}^2+4}=5 \Rightarrow 1+\mathrm{a}^2+4=5 \therefore \mathrm{a}=0\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 793279)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{A}=3 \hat{\mathbf{i}}+\hat{\mathbf{j}}-2 \hat{\mathbf{k}}, \overrightarrow{\mathrm{B}}=2 \hat{\mathbf{i}}-\hat{\mathbf{j}}+\hat{\mathbf{k}}[/math]এবং [math]\overrightarrow{\mathbf{C}}=2 \hat{\mathbf{i}}+3 \hat{\mathbf{j}}-2 \hat{\mathbf{k}}[/math] হলে, [math]|2 \overrightarrow{\mathbf{A}}-\overrightarrow{\mathbf{B}}+\overrightarrow{\mathbf{C}}|[/math]  এর মান নির্ণয় কর? 
+
+Options:
+ক. 10
+খ. 11
+গ. 12
+ঘ. 13
+
+
+Correct Answer: খ
+
+Solution:
+\(\begin{aligned}&amp; \text { } 2 \vec{A}-\vec{B}+\vec{C} \\&amp; =2(3 \hat{i}+\hat{j}-2 \hat{k})-(2 \hat{i}-\hat{j}+\hat{k})+2 \hat{i}+3 \hat{j}-2 \hat{k}=6 \hat{i}+6 \hat{j}-7 \hat{k} \\&amp; \therefore|2 \vec{A}-\vec{B}+\vec{C}|=\sqrt{6^2+6^2+(-7)^2}=11\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 793278)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+  (-4, 3, 0) বিন্দুর অবস্থান ভেক্টর [math]\vec{R}[/math] হলে, নিচের কোনটি সঠিক? 
+
+[math]i. \vec{R}=-4 \hat{i}+3 \hat{j}+\hat{k}[/math]
+
+[math]ii. |\overrightarrow{\mathrm{R}}|=5[/math]
+
+[math]​​​​​​​iii. \vec{R}[/math]ভেক্টরটি Z অক্ষের উপর লম্ব
+
+Options:
+ক. i, ii
+খ. ii, iii
+গ. i,iii
+ঘ. i,ii,iii
+
+
+Correct Answer: খ
+
+Solution:
+c\(\vec{R}=-4 \hat{i}+3 \hat{j}+0 \hat{k}=-4 \hat{i}+3 \hat{j}\\\therefore|\vec{R}|=\sqrt{(-4)^2+3^2}=\sqrt{4^2+3^2}=\sqrt{5^2}=5\)\(\overrightarrow{\mathrm{R}} \)ভেক্টরটি z অক্ষের উপর লম্ব\(\theta=\cos ^{-1} \frac{0}{\sqrt{4^2+3^2}}=\cos ^{-1} 0=90^{\circ}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 793277)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+[math]-\hat{\mathbf{a}}[/math] ভেক্টরের দিক - 
+
+Options:
+ক. <span class="math-tex">\(\hat{a}\)</span>&nbsp;এর দিকে
+খ. <span class="math-tex">\(\hat{a}\)</span> এর বিপরীত দিকে
+গ. <span class="math-tex">\(\hat{a}\)</span>এর লম্বদিকে
+ঘ. <span class="math-tex">\(\hat{a}\)</span>এর উলম্বদিকে
+
+
+Correct Answer: খ
+
+Solution:
+\( -\hat{\mathbf{a}}\)ভেক্টরের দিকে &acirc; এর বিপরীত দিকে।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 793276)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ইসলামী বিশ্ববিদ্যালয়'১৫
+--------------------------------------------------------------------------------
+Question:
+নিচের কোন ভেক্টরটি সকল ভেক্টরের উপর লম্ব? 
+
+Options:
+ক. শূন্য ভেক্টর
+খ. একক ভেক্টর
+গ. অবস্থান ভেক্টর
+ঘ. বিন্দু ভেক্টর
+
+
+Correct Answer: ক
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 793275)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'২১
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{P}=5 \hat{i}-2 \hat{j}+3 \hat{k}[/math] এবং  [math]\vec{Q}=2 \hat{i}-4 \hat{j}+5 \hat{k}[/math] হলে  [math]|\overrightarrow{P Q}|[/math] এর মান কত? 
+
+Options:
+ক. <span class="math-tex">\(\sqrt{17}\)</span>
+খ. <span class="math-tex">\(\sqrt{33}\)</span>
+গ. <span class="math-tex">\( 0\)</span>
+ঘ. <span class="math-tex">\(33\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+\(\begin{aligned}&amp; \begin{aligned}\text { } \overrightarrow{\mathrm{PQ}} &amp; =(2 \hat{\mathrm{i}}-4 \hat{\mathrm{j}}+5 \hat{\mathrm{k}})-(5 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}+3 \hat{\mathrm{k}}) \\&amp; =-3 \hat{\mathrm{i}}-2 \hat{\mathrm{j}}+2 \hat{\mathrm{k}}\end{aligned} \\&amp; \begin{aligned}\therefore|\overrightarrow{\mathrm{PQ}}|=\sqrt{(-3)^2+(-2)^2+2^2}=\sqrt{17}\end{aligned}\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 793265)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢাকা বিশ্ববিদ্যালয়'৬
+--------------------------------------------------------------------------------
+Question:
+  [math]\vec{F}_1[/math] এবং [math]\vec{F}_2[/math]বল দুইটির লব্ধি [math]\vec{F}_3;[/math] যেখানে [math]\vec{F}_1=2 \hat{i}-3 \hat{j}, \vec{F}_3=5 \hat{i}+4 \hat{j}[/math]হলে, [math]\overrightarrow{\mathrm{F}}_2= ?[/math] 
+
+Options:
+ক. <span class="math-tex">\(-3 \hat{i}-7 \hat{j} \)</span>
+খ. <span class="math-tex">\(7 \hat{i}+\hat{j}\)</span>
+গ. 7 \hat{i}+7 \hat{j}
+ঘ. <span class="math-tex">\(3 \hat{\mathbf{i}}+7 \hat{\mathbf{j}}\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\(\begin{aligned}&amp; \text { } \vec{F}_3=\vec{F}_1+\vec{F}_2 \\&amp; \Rightarrow \overrightarrow{F_2}=\vec{F}_3-\vec{F}_1=(5 \hat{i}+4 \hat{j})-(2 \hat{i}-3 \hat{j})=3 \hat{i}+7 \hat{j}\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 793273)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathbf{O A}}=\hat{\mathbf{i}}[/math] এবং [math]\overrightarrow{\mathrm{OB}}=\hat{\mathbf{i}}+\hat{\mathbf{j}}[/math]  হলে,  [math]\overrightarrow{\mathrm{AB}}[/math] কত?[
+
+Options:
+ক. <span class="math-tex">\(\hat{\mathbf{i}}\)</span>
+খ. <span class="math-tex">\(\hat{\mathbf{j}}\)</span>
+গ. <span class="math-tex">\(\hat{i}+\hat{j}\)</span>
+ঘ. <span class="math-tex">\( \hat{i}-\hat{j}\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+\(\overrightarrow{A B}=\overrightarrow{O B}-\overrightarrow{O A}=\hat{i}+\hat{j}-\hat{i}=\hat{j}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 793272)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ঢা. বো.ঢাকা বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+দুটি ভেক্টরের পার্থক্য শূন্য হলে, ভেক্টর দুটিকে — বলা হয়।
+
+Options:
+ক. স্কেলার
+খ. অভিন্ন
+গ. সমন্তরাল
+ঘ. পরস্পর লম্ব
+
+
+Correct Answer: খ
+
+Solution:
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 793271)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্র.বি'১৯
+--------------------------------------------------------------------------------
+Question:
+[math]\mathbf{a}=\mathbf{a}_1 \hat{\mathbf{i}}+\mathrm{a}_2 \hat{\mathbf{j}}+\mathrm{a}_3 \hat{\mathbf{k}}[/math]এর একক ভেক্টর এর জন্য
+
+ [math](i) \hat{\mathrm{a}}=\frac{\underline{a}}{|\underline{a}|},[/math]
+
+[math](ii) |\overline{\mathrm{a}}|=1,[/math]
+
+[math](iii) |a| 
+eq 0[/math]হলে, নিচের কোনটি সত্য-
+
+Options:
+ক. (i) ও (ii)
+খ. (i) ও (iii)
+গ. (i)
+ঘ. (ii) ও (iii)
+
+
+Correct Answer: খ
+
+Solution:
+\((i) \hat{\mathrm{a}}=\frac{\mathrm{a}}{|\mathrm{a}|}\) যা সত্য \(​​​​​​​(ii) |\overline{\mathrm{a}}|=1 \)কিন্তু \(
+eq 1 \)যা সত্য নয়\((iii) |\mathrm{a}|=\sqrt{\mathrm{a}^2{ }_1+\mathrm{a}^2{ }_2+\mathrm{a}^2{ }_3} 
+eq 0\) যা সত্য
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 793270)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: 
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathbf{A}}=-\overrightarrow{\mathbf{B}}[/math] হলে [math]\overrightarrow{\mathbf{A}}+\overrightarrow{\mathbf{B}}= ?[/math]
+
+Options:
+ক. <span class="math-tex">\(-A^2\)</span>
+খ. <span class="math-tex">\( -B^2\)</span>
+ঘ. 1
+
+
+Correct Answer: গ
+
+Solution:
+\(\vec{A}+\vec{B}=-\vec{B}+\vec{B}=0\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 793269)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'১২,জগন্নাথ বিশ্ববিদ্যালয়'৯,হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ব'১৯
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathrm{OA}}=2 \hat{\mathbf{i}}+3 \hat{\mathbf{j}}-4 \hat{\mathbf{k}}[/math] এবং [math]\overrightarrow{\mathrm{OB}}=4 \hat{\mathbf{i}}-3 \hat{\mathbf{j}}+2 \hat{\mathbf{k}}[/math]হলে [math]|\overrightarrow{\mathrm{AB}}|[/math]নির্ণয় কর।
+
+Options:
+ক. <span class="math-tex">\(\sqrt{19}\)</span>
+খ. <span class="math-tex">\(2 \sqrt{19}\)</span>
+গ. <span class="math-tex">\( \sqrt{2}\)</span>
+ঘ. <span class="math-tex">\(4 \sqrt{19}\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+\(\begin{aligned}|\overrightarrow{\mathrm{AB}}| &amp; =|\overrightarrow{\mathrm{OB}}-\overrightarrow{\mathrm{OA}}|=|2 \hat{\mathrm{i}}-6 \hat{\mathrm{j}}+6 \hat{\mathrm{k}}| \\&amp; =\sqrt{4+36+36}=\sqrt{76}=2 \sqrt{19}\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 793268)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+[math]\overrightarrow{\mathbf{P}}=9 \hat{\mathbf{i}}+\hat{\mathbf{j}}-6 \hat{\mathbf{k}}[/math] এবং [math]\overrightarrow{\mathbf{Q}}=4 \hat{\mathbf{i}}-6 \hat{\mathbf{j}}+5 \hat{\mathrm{k}}[/math] হলে-
+
+[math]i. \vec{P} \perp \vec{Q}[/math]
+
+[math]ii. \vec{P} \| \vec{Q}[/math]
+
+[math]iii. |\overrightarrow{\mathrm{P}}|=\sqrt{118}[/math]
+
+নিচের কোনটি সঠিক?
+
+Options:
+ক. i ও ii
+খ. i ও iii
+গ. ii ও iii
+ঘ. i , ii ও iii
+
+
+Correct Answer: খ
+
+Solution:
+i. এর জন্য\(\vec{P} \cdot \vec{Q}=36-6-30=36-36=0\therefore \overrightarrow{\mathrm{P}} \perp \overrightarrow{\mathrm{Q}}\) যা সত্য।ii. এর জন্য \(\frac{9}{4}=\frac{1}{-6}=\frac{-6}{5}\) যা সত্য নয়।iii. এর জন্য\(|\overrightarrow{\mathrm{P}}|=\sqrt{9^2+1^2+(-6)^2}=\sqrt{118}\) যা সত্য।
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 793267)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: বাংলাদেশ কৃষি বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+ত্রিমাত্রিক স্থানাঙ্ক ব্যবস্থায় একটি ভেক্টরের আদি বিন্দুর স্থানাঙ্ক  (5, 4, 3) এবং শেষ বিন্দুর স্থানাঙ্ক (8, 6, 5)। ভেক্টরটির মান কত?
+
+Options:
+ক. <span class="math-tex">\(\sqrt{13}\)</span>
+খ. <span class="math-tex">\( \sqrt{15}\)</span>
+গ. <span class="math-tex">\( \sqrt{17}\)</span>
+ঘ. <span class="math-tex">\(\sqrt{21}\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+ধরি,\( \overrightarrow{\mathrm{A}}=5 \hat{\mathrm{i}}+4 \hat{\mathrm{j}}+3 \hat{\mathrm{k}} ; \\\overrightarrow{\mathrm{B}}=8 \hat{\mathrm{i}}+6 \hat{\mathrm{j}}+5 \hat{\mathrm{k}}\)\(\begin{aligned}&amp; \therefore \overrightarrow{\mathrm{C}}=\overrightarrow{\mathrm{B}}-\overrightarrow{\mathrm{A}}=(8-5) \hat{\mathrm{i}}+(6-4) \hat{\mathrm{j}}+(5-3) \hat{\mathrm{k}}=3 \hat{\mathrm{i}}+2 \hat{\mathrm{j}}+2 \hat{\mathrm{k}} \\&amp; \therefore|\overrightarrow{\mathrm{C}}|=\sqrt{(3)^2+(2)^2+(2)^2}=\sqrt{9+4+4}=\sqrt{17}\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 793266)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: ইসলামী বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+[math]\vec{r}=2 t \hat{i}+3 t^2 \hat{j}[/math] হচ্ছে একটি বিন্দুবস্তুর অবস্থান ভেক্টর, যেখানে t হচ্ছে সময়। বস্তুটির বেগ কত?
+
+Options:
+ক. <span class="math-tex">\(2 \mathrm{t} \hat{\mathrm{i}}\)</span>
+খ. <span class="math-tex">\(2 \hat{i}+6 t \hat{j}\)</span>
+গ. <span class="math-tex">\(6 t \hat{j}\)</span>
+ঘ. <span class="math-tex">\( 2 \hat{i}+3 t \hat{j}\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+\(\vec{r}=2 t \hat{i}+3 t^2 \hat{j} \Rightarrow \frac{d \bar{r}}{d t}=2 \hat{i}+6 t \hat{j}\)
+
+Explanation:
+
+
+Sub-Questions:
+

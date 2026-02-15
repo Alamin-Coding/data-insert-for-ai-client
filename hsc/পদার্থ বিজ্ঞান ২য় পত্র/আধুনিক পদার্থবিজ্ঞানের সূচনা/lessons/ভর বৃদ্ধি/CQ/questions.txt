@@ -1,0 +1,1732 @@
+================================================================================
+Question #1 (ID: 430856)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+Options:
+গ. প্লেনের ভর [math]720 \ kg[/math] । পৃথিবীর বায়ুমণ্ডল অতিক্রমের পর [math]3.72 \times 10 ms^{-1}[/math]বেগে গতিশীল অবস্থায় ভূপৃষ্ঠের বিজ্ঞানী প্লেনটিকে 30 দিন পর্যবেক্ষণ করলেন। বায়ুমণ্ডল অতিক্রমের পর প্লেনের ভর কত বাড়বে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,রকেটের নিশ্চল ভর, [math]m_0[/math]
+ = 720 kgরকেটের বেগ, v = 3.72 × [math]10^7 ms^{-1}[/math]
+জানা আছে, শূন্য স্থানে আলোর বেগ, c = 3 [math]\times 10^8ms^{-1}[/math]
+রকেটের গতিশীল ভর, m = ?এবং ভর বৃদ্ধি, [math]\Delta[/math]
+m = ?আমরা জানি,[math]\begin{aligned}\mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{-}{\sqrt{1-\left(\frac{3.72 \times 10^{7} \mathrm{~ms}^{-1}}{3 \times 10^{8} \mathrm{~ms}^{-1}}\right)^{2}}} \\& =725.6 \mathrm{~kg}\end{aligned}[/math]
+ভর বৃদ্ধি, [math]\Delta m = m - m_0 = 725.6kg - 720kg = 5.6kg (Ans. )[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ সঠিক, কারণ গতিশীল ভরে আপেক্ষিক বৃদ্ধি গণনা করা হয় [math]m=\gamma m_0[/math] যেখানে [math]\gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math]; [math]v\ll c[/math] হলে [math]\gamma-1\approx\frac{1}{2}\frac{v^2}{c^2}[/math], ফলে ভরবৃদ্ধি [math]\Delta m\approx\frac{1}{2}m_0\frac{v^2}{c^2}[/math] যা অসাম্য ক্ষুদ্র হওয়ায় (প্রায় শূন্য) প্লেনের ভর কার্যত বাড়ে না।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 430857)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একজন মহাশূন্যচারী [math]30[/math] বছর বয়সে [math]2.4 \times 10^{8}ms^{-1}[/math] বেগে গতিশীল মহাশূন্যযানে চড়ে ছায়াপথ অনুসন্ধানে গেলেন এবং পৃথিবীর পঞ্জিকার হিসাবে [math]50[/math] বছর পর ফিরে এলেন।
+
+Options:
+ঘ. আইনস্টাইন বলেছেন স্থান ও কালের মতো ভরও আপেক্ষিক। ভরবৃদ্ধি সমীকরণ থেকে উদাহরণস হ এর পক্ষে যুক্তি দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘনিউটনীয় বলবিদ্যা থেকে আমরা জানি যে, বস্তুর ভর একটি ধ্রুবক । স্থান, কাল ও বেগের পরিবর্তন এর ওপর এটি নির্ভরশীল নয় বা এটি পরিবর্তিতও হয় না। কিন্তু আইনস্টাইনের আপেক্ষিক তত্ত্বের মতে বস্তুর ভর কোনো ধ্রুবক নয়। আপেক্ষিক বস্তুর চলমান বা গতিশীল ভর ও নিশ্চল ভর সমান নয়। বস্তুর বেগ বৃদ্ধির সাথে সাথে ভর বৃদ্ধি পায় পর্যবেক্ষকের সাপেক্ষে কোনো বস্তু যদি v দ্রুতিতে গতিশীল হয় তাহলে এর গতিশীল ভর পর্যবেক্ষকের সাপেক্ষে এর নিশ্চল ভরের [math]\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}[/math]
+ গুণ হয়। কোনো বস্তুর নিশ্চল অবস্থায় ভর যদি [math]M_0[/math]
+ হয় এবং চলমান অবস্থায় ভর যদি M হয় এবং বস্তুটি যদি v দ্রুতিতে গতিশীল হয় V ; এখান থেকে দেখা যায় তাহলে [math]M_0[/math]
+ ও M এর সম্পর্ক, M [math]=\frac{\mathrm{M}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}[/math]
+ এখান থেকে দেখা যায় যে যদি v = c হয় তবে ভর অসীম হয়ে যায়। এতে আর পদার্থবিজ্ঞানের সাধারণ সূত্রগুলো খাটে না ।
+
+Explanation:
+ব্যাখ্যা:
+ঘ আইনস্টাইনের ভরবৃদ্ধি সমীকরণ হচ্ছে [math]m=\frac{m_0}{\sqrt{1-v^2/c^2}}[/math], যেখানে [math]m[/math] গতিশীল ভর এবং [math]m_0[/math] বিশ্রাম ভর। যদি [math]v=2.4\times10^8\ \rm m/s\approx0.8c[/math], তাহলে [math]\gamma=1/\sqrt{1-0.8^2}=5/3\approx1.667[/math], অর্থাৎ ভর প্রায় [math]1.667[/math] গুণ বৃদ্ধি পায়। তাই ভরও স্পেস ও টাইমের মতো গতির ওপর নির্ভর করে—অর্থাৎ ভর আপেক্ষিক।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 430858)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বস্তুকণা [math]0.5c[/math] বেগে গতিশীল আছে। বস্তুটির স্থির অবস্থার ভর এবং গতিশীল অবস্থার ভরের অনুপাত বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.866[/math]
+ [math]\\[/math]
+ [math][/math]
+এখনে,বস্তুকণার আপেক্ষিক বেগ, [math]v=0.5c[/math]
+ [math]\Rightarrow \frac{\mathrm{v}}{\mathrm{c}}=0.5[/math]
+ [math]\therefore[/math]
+ যদি স্থির অবস্থায় ভর [math]m_{o}[/math]
+ এবং চলমান অবস্থায় ভর [math]m[/math]
+ হয় তবে, [math]\frac{m_{0}}{m}=?[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{v^{2}}{\mathrm{c}^{2}}}} \\ \Rightarrow \frac{\mathrm{m}_{0}}{\mathrm{~m}} & =\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}=\sqrt{1-(0.5)^{2}}=\sqrt{0.75} \\ & =0.866 \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: আপেক্ষিক ভরের জন্য [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math] প্রয়োগ করলে v = [math]0.5c[/math] হলে [math]\gamma=\dfrac{1}{\sqrt{1-(0.5)^2}}=\dfrac{2}{\sqrt{3}}\approx1.155[/math]. তাই গতিশীল ভর [math]m=\gamma m_0[/math], এবং স্থির ও গতিশীল ভরের অনুপাত [math]m_0:m=1:\gamma[/math] বা [math]\dfrac{m_0}{m}=\dfrac{\sqrt{3}}{2}\approx0.866[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 430859)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ইলেকট্রন (নিশ্চল ভর [math]9.1 \times 10^{-31}kg[/math] আলোর দ্রুতির [math]90 \%[/math] দ্রুতিতে চললে এর ভর কত হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]20.88 \times 10^{-31}kg[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,ইলেকট্রনের নিশ্চল ভর, [math]m_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ইলেকট্রনের বেগ, [math]\mathrm{v}=\frac{90}{100} \times \mathrm{c \ ms}^{-1}[/math]
+আলোর বেগ, [math]c=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ইলেকট্রনের গতিশীল ভর, [math]m=?[/math]
+ [math]\\[/math]
+আমরা জানি,[math]\begin{array}{l} m=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} \\ =\frac{9.1 \times 10^{-31}}{\sqrt{1-\left(\frac{\frac{90}{100} \times c}{c}\right)^{2}}} \text {. } \\ =\frac{9.1 \times 10^{-31}}{\sqrt{1-0.81}} \mathrm{~kg} \\ =\frac{9.1 \times 10^{-31}}{0.4358} \mathrm{~kg} \\ =20.88 \times 10^{-31} \mathrm{~kg} \text { (Ans.) } \\ \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা: আপেক্ষিক ভর হিসাবের সূত্র [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math] ও [math]m=\gamma m_0[/math] ব্যবহার করি; এখানে [math]v=0.9c[/math] হলে [math]\gamma=1/\sqrt{1-0.9^2}=1/\sqrt{0.19}\approx2.294[/math], অতএব ভর [math]m\approx2.294\times9.1\times10^{-31}\,\text{kg}\approx2.09\times10^{-30}\,\text{kg}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 430862)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]8.3 \times 10^{7} ms^{-1}[/math] গতিতে গতিশীল একটি প্রোটনের ( i) গতিশক্তি ও (ii) ভরবেগ কত? (iii) সনাতন পদার্থবিদ্যার সূত্র ব্যবহার করলে হিসাব কত শতাংশ ভুল হতো?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]3.5 \%[/math]
+ [math]\\[/math]
+ [math][/math]
+এখানে,প্রোটনের আপেক্ষিক গতি, [math]v = 8.3 \times 10^{7}ms^{-1}[/math]
+জানা আছে, একটি প্রোটনের স্থিরাবস্থার ভর, [math]m_{0} = 1.672 \times 10^{-27} kg[/math]
+এবং আলোর বেগ, [math]c = 3 \times 10^{8} ms^{-1}[/math]
+(i) প্রোটনের গতিশক্তি, [math]K = ?[/math]
+এখন,[math]\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\ & =\frac{1.672 \times 10^{-27} \mathrm{~kg}}{\sqrt{1-\left(\frac{8.3 \times 10^{7} \mathrm{~ms}^{-1}}{3 \times 10^{8} \mathrm{~ms}^{-1}}\right)^{2}}}=1.74 \times 10^{-27} \mathrm{~kg} \end{aligned}[/math]
+ [math]\begin{aligned} \therefore \mathrm{E}=\mathrm{mc}^{2} & =1.74 \times 10^{-27} \mathrm{~kg} \times\left(3 \times 10^{8} \mathrm{~ms}^{-1}\right)^{2} \\ & =1.566 \times 10^{-10} \mathrm{~J} \end{aligned}[/math]
+এবং নিশ্চল শক্তি[math]\begin{array}{l} =m_{0} c^{2} \\ =1.672 \times 10^{-27} \mathrm{~kg} \times\left(3 \times 10^{8} \mathrm{~ms}^{-1}\right) \\ =1.5048 \times 10^{-10} \mathrm{~J} \end{array}[/math]
+ [math]\therefore[/math]
+ গতিশক্তি,[math]\begin{aligned} \mathrm{K}=\mathrm{E}-\mathrm{m}_{0} \mathrm{c}^{2} & =1.566 \times 10^{-10} \mathrm{~J}-1.5048 \times 10^{-10} \mathrm{~J} \\ & =6.12 \times 10^{-12} \mathrm{~J} \text { (Ans.) } \end{aligned}[/math]
+ [math](ii)[/math]
+ আপেক্ষিক গতিতে চলমান অবস্থায় প্রোটনের ভরবেগ, [math]p = ?[/math]
+ [math](i)[/math]
+ হতে পাই,[math]\begin{aligned} \mathrm{m} & =1.74 \times 10^{-27} \mathrm{~kg} \\ \therefore \mathrm{p} & =\mathrm{mv} \\ & =1.74 \times 10^{-27} \mathrm{~kg} \times 8.3 \times 10^{7} \mathrm{~ms}^{-1} \\ & =1.44 \times 10^{-19} \mathrm{kgms}^{-1} \text { (Ans.) } \end{aligned}[/math]
+ [math](iii)[/math]
+ সনাতন বা চিরায়ত পদার্থবিদ্যার সূত্রানুসারে, প্রোটনের গতিশক্তি,[math]\begin{aligned} \mathrm{E}_{\mathrm{k}} & =\frac{1}{2} \mathrm{~m}_{0} \mathrm{v}^{2} \\ & =\frac{1}{2} \times 1.672 \times 10^{-27} \mathrm{~kg} \times\left(8.3 \times 10^{7} \mathrm{~ms}^{-1}\right)^{2}=5.76 \times 10^{-12} \mathrm{~J} \end{aligned}[/math]
+এতে ভুলের পরিমাণ[math]\begin{array}{l} =\left(100-\frac{5 \cdot 76 \times 10^{-12} \mathrm{~J} \times 100}{6 \cdot 12 \times 10^{-12} \mathrm{~J}}\right) \% \\ =5.8 \% \end{array}[/math]
+অর্থাৎ, ভুল হতো [math]5.8 \% \ (Ans.)[/math]
+পুনরায়, সনাতন পদার্থবিদ্যার সূত্রানুসারে,ভরবেগ,[math]\begin{aligned} \mathbf{p} & =\mathrm{m}_{0} \mathbf{v} \\ & =1.672 \times 10^{-27} \mathrm{~kg} \times 8.3 \times 10^{7} \mathrm{~ms}^{-1} \\ & =1.39 \times 10^{-19} \mathrm{kgms}^{-1} \end{aligned}[/math]
+এতে ভুলের পরিমাণ[math]\begin{array}{l} =\left(100-\frac{1.39 \times 10^{-19} \mathrm{kgms}^{-1} \times 100}{1.44 \times 10^{-19} \mathrm{kgms}^{-1}}\right) \% \\ =3.5 \% \end{array}[/math]
+অর্থাৎ ভুল হতো [math]3.5 \% (Ans.)[/math]
+
+
+Explanation:
+সমাধান:
+
+ক গতিশক্তি: [math]\gamma=\frac{1}{\sqrt{1-v^2/c^2}}\approx1.0396,\quad K=(\gamma-1)mc^2\approx5.95\times10^{-12}\ {\rm J}\ (\approx37.1\ {\rm MeV}).[/math]
+
+খ ভরবেগ: [math]p=\gamma mv\approx1.44\times10^{-19}\ {\rm kg\;m\;s^{-1}}.[/math]
+
+গ শতকরা ভুল (সনাতন সূত্র ব্যবহার করলে): ক্লাসিক্যাল [math]K_{\rm cl}=\tfrac12mv^2\approx5.76\times10^{-12}\ {\rm J},[/math] তাই ত্রুটি ≈[math]\frac{K_{\rm cl}-K}{K}\times100\%\approx-3.2\%[/math] (প্রায় 3.2% কম)। 
+
+ব্যাখ্যা: [math]v/c\approx0.277[/math] হওয়ায় গামা সামান্য বড় হয় এবং রিলাটিভিস্টিক সংশোধন দরকার; তাই ক্লাসিক্যাল মান প্রায় সঠিক কাছাকাছি কিন্তু ≈3% তফাত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 430864)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বস্তুকণা [math]0.5c[/math] বেগে গতিশীল আছে। বস্তুটির স্থির অবস্থায় ভর এবং গতিশীল অবস্থায় ভরের অনুপাত বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.866[/math]
+ [math]\\[/math]
+ [math][/math]
+এখনে,বস্তুকণার আপেক্ষিক বেগ, [math]v=0.5c[/math]
+ [math]\Rightarrow \frac{\mathrm{v}}{\mathrm{c}}=0.5[/math]
+ [math]\therefore[/math]
+ যদি স্থির অবস্থায় ভর [math]m_{o}[/math]
+ এবং চলমান অবস্থায় ভর [math]m[/math]
+ হয় তবে, [math]\frac{m_{0}}{m}=?[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{v^{2}}{\mathrm{c}^{2}}}} \\ \Rightarrow \frac{\mathrm{m}_{0}}{\mathrm{~m}} & =\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}=\sqrt{1-(0.5)^{2}}=\sqrt{0.75} \\ & =0.866 \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: রিলেটিভিস্টিক ভর [math]m=γm_0[/math], যেখানে [math]γ=1/\sqrt{1-v^2/c^2}[/math]. [math]v=0.5c[/math] হলে [math]γ=2/\sqrt{3}\approx1.1547[/math], তাই স্থির ও গতিশীল ভরের অনুপাত [math]m_0:m=1:γ=\sqrt{3}:2[/math] (অর্থাৎ [math]m_0/m=\sqrt{3}/2\approx0.866[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 430865)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Sylhet MC College
+--------------------------------------------------------------------------------
+Question:
+একটি পরমাণু ইলেকট্রন তৃতীয় কক্ষপথ থেকে শক্তি বিকিরণ করে ভূমি অবস্থায় ফিরে এলো। ইলেকট্রনটি [math]0.98 \mathrm{~c}[/math] বেগে গতিশীল ইলেকট্রনের ভর ও চার্জ [math]9.1 \times 10^{-31} \mathrm{~kg}[/math] এবং [math]1.6 \times 10^{-19}\text{ C}[/math].
+
+Options:
+ঘ. ইলেকট্রনটির আইনস্টাইনীয় গতিশক্তি নিউটনীয় গতিশক্তি অপেক্ষা বেশি— যথার্থতা যাচাই কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\begin{array}{l}\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg} \\\mathrm{v}=0.98 \mathrm{c} \\\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}\end{array}[/math]
+ [math]\therefore[/math]
+ নিউটনীয় গতিশক্তি,[math]\hspace{2cm}\begin{aligned}E_{k} & =\frac{1}{2} m_{0} v^{2} \\& =\frac{1}{2} \times 9.1 \times 10^{-31} \times\left(0.98 \times 3 \times 10^{8}\right)^{2} \\& =3.9328 \times 10^{-14} \mathrm{~J}\end{aligned}[/math]
+এখন,[math]\hspace{1cm}\begin{aligned}\mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{9.1 \times 10^{-31}}{\sqrt{1-\frac{(0.98 \mathrm{c})^{2}}{\mathrm{c}^{2}}}} \\& =45.729 \times 10^{-31} \mathrm{~kg}\end{aligned}[/math]
+ [math]\therefore[/math]
+ আইনস্টাইনীয়, গতিশক্তি,[math]\hspace{2.5cm}\begin{array}{l}\mathrm{E}_{\mathrm{k}}{ }^{\prime}=\mathrm{mc}^{2}-\mathrm{m}_{0} \mathrm{c}^{2}\\=c^{2}\left(\mathrm{~m}-\mathrm{m}_{0}\right) \\=\left(3 \times 10^{8}\right)^{2}(45.729-9.1) \times 10^{-31} \\=329.661 \times 10^{-15} \mathrm{~J} \\=3.2966 \times 10^{-13} \mathrm{~J}\end{array}[/math]
+ [math]\mathrm{E}_{\mathrm{k}}^{\prime}>\mathrm{E}_{\mathrm{k}}[/math]
+অতএব, ইলেকট্রনটির আইনস্টাইনীয় গতিশক্তি নিউটনীয় গতিশক্তি অপেক্ষা বেশি।
+
+Explanation:
+ঘ ব্যাখ্যা: গতির জন্য গামা ফ্যাক্টর [math]\gamma = \frac{1}{\sqrt{1-v^2/c^2}}[/math] যেখানে [math]v=0.98c[/math] হলে [math]\gamma \approx 5.03[/math], তাই আপেক্ষিক গতিশক্তি [math]K_{\rm rel}=(\gamma-1)mc^2\approx 4.03\times(9.1\times10^{-31})(3.0\times10^8)^2\approx3.30\times10^{-13}\ \mathrm{J}[/math] এবং নিউটনীয় গতিশক্তি [math]K_{\rm cl}=\tfrac{1}{2}mv^2\approx3.93\times10^{-14}\ \mathrm{J}[/math]; ফলে আপেক্ষিক গতিশক্তি নিউটনীয়ের প্রায় 8.4 গুণ বড়, তাই বিবৃতি সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 430866)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Rangpur
+--------------------------------------------------------------------------------
+Question:
+একটি কাল্পনিক চলমান ট্রেনে একটি বস্তুর ভর [math]100[/math] কেজি এবং দৈর্ঘ্য নিশ্চল দৈঘ্যের [math]50\%[/math]।
+
+Options:
+ঘ. ট্রেনটি থেমে গেলে বস্তুটির ভরের কোনো পরিবর্তন হবে কী? গাণিতিকভাবে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,বস্তুর চলমান ভর, [math]m = 100~kg[/math]
+ট্রেনটির বেগ, [math]\mathrm v = 2.6 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ ['গ' হতো]আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+আমরা জানি,[math]\begin{aligned}\mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\\Rightarrow \mathrm{m}_{0} & =\mathrm{m} \sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}\end{aligned}[/math]
+ [math]\hspace{.3cm}\begin{aligned}& =100 \mathrm{~kg} \times \sqrt{1-\left(\frac{2.6 \times 10^{8} \mathrm{~ms}^{-1}}{\left.3 \times 10^{8} \mathrm{~ms}^{-1}\right)^{2}}\right.} \\\therefore \mathrm{m}_{0} & =49.89 \mathrm{~kg}\end{aligned}[/math]
+দেখা যাচ্ছে, [math]m ≠ m_0[/math]
+ভরের পরিবর্তন, [math]\Delta m=m_{0}-m=(49.89-100) \mathrm{kg}=-50.11 \mathrm{~kg}[/math]
+অতএব, ট্রেনটি থেমে গেলে বস্তুটির ভর 50.11 kg হ্রাস পাবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ বস্তুটির ভর পরিবর্তিত হবে না; ভর একটি ইনরশিয়াল পরিমাণ। ওজন (নিচু বল) সাধারণত [math]W=mg[/math] হয়, যেখানে [math]m[/math] অপরিবর্তিত থাকে; শুধুমাত্র যদি গাড়ির ওপর উল্লম্ভনীয় ত্বরণ থাকে তখন নরমাল ফোর্স পরিবর্তিত হয়ে [math]W'=m(g\pm a)[/math] হতে পারে, কিন্তু সাধারণ দিকবালানোর (আড়াআড়ি) ব্রেকিং-এ মোট ওজন পরিবর্তন হয় না।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 430867)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Cantonment Public School & College, Saidpur
+--------------------------------------------------------------------------------
+Question:
+রিফাত [math]35[/math] বছর বয়সে [math]0.7\ \rm{c}[/math] বেগে গতিশীল [math]6000\ \rm{kg}[/math] ভরের নভোযানে চড়ে মহাশূন্য ভ্রমনে গেল এবং পৃথিবীর ক্যালেন্ডার অনুযায়ী [math]10[/math] বছর পর পৃথিবীতে ফিরে আসল।
+
+Options:
+গ. নভোযানের চলমান ভর নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,নভোযানের নিশ্চল ভর, [math]m_0 = 6000~kg[/math]
+নভোযানের বেগ, [math]\mathrm{v} = 0.7~c[/math]
+আমরা জানি,[math]\begin{aligned}\mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{6000 \mathrm{~kg}}{\sqrt{1-\left(\frac{0.7 \mathrm{c}}{\mathrm{c}}\right)^{2}}} \\\therefore \quad \mathrm{m} & =8401.68 \mathrm{~kg}\end{aligned}[/math]
+অতএব, উদ্দীপকের নভোযানের চলমান ভর 8401.68 kg [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ স্পেশাল রিলেটিভিটির মতে গতিশীল ভর হলো [math]m=\gamma m_0[/math] যেখানে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math]. এখানে [math]\gamma=1/\sqrt{1-(0.7)^2}=1/\sqrt{0.51}\approx1.400[/math], তাই [math]m\approx1.400\times6000\approx8400\ \rm{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 430868)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Viqarunnisa Noon School & College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+ইলেকট্রনের গতিশক্তি [math]2 \times 10^{6} \mathrm{eV}[/math] ইলেকট্রনের স্থির ভর [math]m_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+
+Options:
+গ. উদ্দীপকের গতিশক্তিতে গতিশীল ইলেকট্রনের ভর কত? (আঃ তত্ত্ব দ্বারা)
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, ইলেকট্রনের গতিশক্তি [math]\mathrm{T}=2 \times 10^{6} \mathrm{eV}=3.2 \times 10^{-13} \mathrm{~J}[/math]
+ইলেকট্রনের স্থির ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+আমরা জানি, [math]\mathrm{E}=\mathrm{mc}^{2}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}\Rightarrow \mathrm{T}+\mathrm{m}_{0} \mathrm{c}^{2}=\mathrm{mc}^{2} \\\Rightarrow \mathrm{m}=\frac{\mathrm{T}+\mathrm{m}_{0} \mathrm{c}^{2}}{\mathrm{c}^{2}} \\=\frac{3.2 \times 10^{-13} \mathrm{~J}+9.1 \times 10^{-31} \mathrm{~kg} \times\left(3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}\right)^{2}}{\left(3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}\right)^{2}} \\\therefore \mathrm{m}=4.47 \times 10^{-30} \mathrm{~kg}\end{array}[/math]
+অতএব, উদ্দীপকের গতিশক্তিতে গতিশীল ইলেকট্রনের ভর [math]4.47 \times 10^{-30} \mathrm{~kg}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ রিলেটিভিস্টিক ভর হিসাব করতে ব্যবহার করি [math]m=\gamma m_{0}[/math] যেখানে [math]\gamma=\dfrac{E}{m_{0}c^{2}}=1+\dfrac{K}{m_{0}c^{2}}[/math]. এখানে [math]K=2\times10^{6}\,\text{eV}[/math] এবং [math]m_{0}c^{2}\approx5.11\times10^{5}\,\text{eV}[/math], তাই [math]\gamma\approx1+\dfrac{2\times10^{6}}{5.11\times10^{5}}\approx4.915[/math] এবং [math]m\approx4.915\times9.1\times10^{-31}\,\text{kg}\approx4.47\times10^{-30}\,\text{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 430869)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Rajuk Uttara Model College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+রাজউক উত্তরা মডেল কলেজ এর খেলার মাঠের দৈর্ঘ্য [math]500m[/math] ও প্রস্থ [math]200 m[/math]। একজন নভোচারী [math]0.9c[/math] বেগে [math]1000\ kg[/math] ভরের একটি নভোযানে চড়ে খেলার মাঠটি দৈর্ঘ্য বরাবর অতিক্রম করল।
+
+Options:
+গ. নভোযানের আপাত ভর নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গস্থির রকেটের ভর, [math]m_0 = 1000 kg[/math]
+রকেটের বেগ, [math]\mathrm v = 0.9 c[/math]
+আমরা জানি, [math]\mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{1000}{\sqrt{1-\left(\frac{0.9 \mathrm{c}}{\mathrm{c}}\right)^{2}}}=2294.16[/math]
+ কেজিঅতএব, উদ্দীপকের নভোযানটির আপাত ভর 2294.16 কেজি। [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: নভোযানের আপাত ভর নির্ণয়ের সূত্র [math]m'=\gamma m_0[/math], যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]. এখানে [math]v=0.9c[/math], তাই [math]\gamma=\dfrac{1}{\sqrt{1-0.9^2}}=\dfrac{1}{\sqrt{0.19}}\approx2.294[/math], ফলে [math]m'\approx2.294\times1000\ \text{kg}\approx2294\ \text{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 430870)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Dhaka City College
+--------------------------------------------------------------------------------
+Question:
+একজন বিজ্ঞানীর বয়স [math]30[/math] বছর। তিনি একটি মহাশূন্যযানে চড়ে মহাকাশ অভিযানে বের হলেন। তার হিসাবে [math]50[/math] বছর পর পৃথিবীতে ফিরে আসলেন। মহাশূন্যযানের ভর [math]720\ \rm{kg}[/math], মহাশূন্যযানের বেগ [math]3 \times 10^{6} \mathrm{~ms}^{-1}[/math]।
+
+Options:
+ঘ. মহাশূন্যযানের স্থির ও গতিশীল অবস্থায় ভরের তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,মহাশূন্য যানের বেগ, [math]\mathrm{v}=3 \times 10^{6} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+মহাশূন্যযানের স্থির ও গতিশীল অবস্থায় ভর যথাক্রমে [math]m_0[/math]
+ ও [math]m[/math]
+ হলে-[math]\hspace{1cm}\begin{array}{l} \mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\\Rightarrow \frac{\mathrm{m}}{\mathrm{m}_{0}}=\frac{1}{\sqrt{1-\left(\frac{3 \times 10^{6}}{3 \times 10^{8}}\right)^{2}}} \\\Rightarrow \mathrm{m}=1.00005 \mathrm{~m}_{0}\end{array}[/math]
+অতএব, উদ্দীপকের মহাশূন্যযানটির গতিশীল অবস্থায় ভর স্থির অবস্থায় ভরের 1.00005 গুণ।
+
+Explanation:
+ব্যাখ্যা: ঘ বিশ্রামের ভর [math]m_0=720\ \rm{kg}[/math] এবং আপেক্ষিক ভর [math]m=\gamma m_0,\quad \gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math]. এখানে [math]v=3\times10^6\ \rm{m/s}[/math] এবং [math]c=3\times10^8\ \rm{m/s}[/math], তাই [math]\beta=v/c=0.01[/math] এবং [math]\gamma\approx1/\sqrt{1-0.0001}\approx1.00005[/math]. ফলত চলমান অবস্থায় ভর [math]m\approx720\times1.00005\approx720.036\ \rm{kg}[/math], অর্থাৎ ভর খুব সামান্য বাড়ে এবং প্রায় সমান থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 430871)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: """Mirzapur Cadet College
+--------------------------------------------------------------------------------
+Question:
+[math]X[/math] এবং [math]Y[/math] দুটি জড় প্রসঙ্গ কাঠামো। [math]X[/math] কাঠামোর সাপেক্ষে [math]100\ kg[/math] ভরের একজন নভোচারী [math]30[/math] বছর বয়সে একটি [math]2.4 \times 10^{8} \mathrm{~ms}^{-1}[/math] বেগ সম্পন্ন নভোযানে চড়ে মহাকাশ পর্যবেক্ষণে গেলেন এবং একই অক্ষের সাপেক্ষে সময়ের হিসাবে [math]50[/math] বছর পর ফিরে আসলেন। কিন্তু দুটি কাঠামোর ( [math]X[/math] এবং [math]Y[/math]) পর্যবেক্ষক পৃথক ভাবে নভোচারীর ভর হিসাব করলেন [math]167\ kg[/math] এবং [math]101\ kg[/math]।
+
+Options:
+ঘ. কাঠামো দ্বয়ের ( [math]X[/math] এবং [math]Y[/math]) মধ্যে তাদের বেগের মান গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,X কাঠামোর পর্যবেক্ষণের নিকট নভোচারীর ভর, [math]m_x = 167 ~kg[/math]
+এবং Y কাঠামোর পর্যবেক্ষকের নিকট নভোচারীর ভর, [math]m_y = 101 ~kg[/math]
+X কাঠামোর ক্ষেত্রে,[math]\hspace{1cm}\begin{array}{l}\mathrm{m}_{\mathrm{x}}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\\Rightarrow 167=\frac{100}{\sqrt{1-\frac{\mathrm{v}_{x}^{2}}{\mathrm{c}^{2}}}} \\\Rightarrow 1-\frac{\mathrm{v}_{\mathrm{x}}{ }^{2}}{\mathrm{c}^{2}}=\left(\frac{100}{167}\right)^{2} \\\Rightarrow \frac{\mathrm{v}_{\mathrm{x}}{ }^{2}}{\mathrm{c}^{2}}=0.64 \\\Rightarrow \mathrm{v}_{\mathrm{x}}{ }^{2}=0.064 \mathrm{c}^{2} \\\Rightarrow \mathrm{v}_{\mathrm{x}}=0.8 \mathrm{c}\end{array}[/math]
+ [math]\hspace{1cm}[/math]
+[এখানে, m = 100 kg]সুতরাং X কাঠামোর পর্যবেক্ষকের নিকট বেগ, [math]\mathrm v_x = 0.8 ~c[/math]
+আবার, Y কাঠামোর ক্ষেত্রে,[math]\begin{array}{l}\mathrm{m}_{\mathrm{y}}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}_{y}^{2}}{\mathrm{c}^{2}}}} \\\Rightarrow \sqrt{1-\frac{\mathrm{v}_{\mathrm{y}}^{2}}{\mathrm{c}^{2}}}=\frac{100}{101} \\\Rightarrow \frac{\mathrm{v}_{\mathrm{y}}^{2}}{\mathrm{c}^{2}}=1-\left(\frac{100}{101}\right)^{2} \\\Rightarrow \mathrm{v}_{\mathrm{y}}=0.14 \mathrm{c}\end{array}[/math]
+ [math]\hspace{1cm}[/math]
+[এখানে, m = 101 kg][math]\therefore[/math]
+ Y কাঠামোর পর্যবেক্ষকের নিকট বেগ, [math]\mathrm v_y = 0.14 ~c[/math]
+এখন, [math]V_x > V_y[/math]
+অর্থাৎ X কাঠামোর পর্যবেক্ষকের পরিমাপকৃত বেগের মান বেশি ছিল।
+
+Explanation:
+ঘ
+ব্যাখ্যা: সম্পর্কিত ভরকে [math]m=\gamma m_0[/math] দিয়ে লিখলে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math], তাই [math]v=c\sqrt{1-(m_0/m)^2}[/math]. X-এ প্রদত্ত [math]m=167\ \mathrm{kg}[/math] ও [math]m_0=100\ \mathrm{kg}[/math] হলে [math]v\approx c\sqrt{1-(100/167)^2}\approx0.801c\approx2.40\times10^8\ \mathrm{m/s}[/math], এবং Y-তে [math]m=101\ \mathrm{kg}[/math] হলে [math]v\approx c\sqrt{1-(100/101)^2}\approx0.140c\approx4.21\times10^7\ \mathrm{m/s}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 430872)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: St. Gregory's High School and College
+--------------------------------------------------------------------------------
+Question:
+নক্ষত্রের গতিবিধি লক্ষ করার জন্য বিজ্ঞানীরা [math]100\ m[/math] দৈর্ঘ্য ও [math]2[/math] টন ভরের একটি মহাকাশযান পাঠালেন যার বেগ [math]3\times 10^7\ m/s[/math]। তারা নতুন একটি নক্ষত্র আবিষ্কার করলেন যার ভর [math]5 \times 10^{30}\ kg[/math] এবং সৌর ভর [math]2\times 10^{30}\ kg[/math]।
+
+Options:
+গ. নক্ষত্রটি কৃষ্ণগহ্বরে পরিণত হতে পারে কী?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, সূর্যের ভর, [math]\mathrm{M}_{0}=2 \times 10^{30} \mathrm{~kg}[/math]
+নক্ষত্রের ভর, [math]\mathrm{M}=5 \times 10^{30} \mathrm{~kg}[/math]
+আমরা জানি, নক্ষত্রের ভর সূর্যের ভরের তিন গুণ হলে নক্ষত্রটি কৃষ্ণগহ্বরে পরিণত হবে ।এখন, [math]\frac{\mathrm{M}}{\mathrm{M}_{0}}=\frac{5 \times 10^{30}}{2 \times 10^{30}}=2.5[/math]
+ [math]\begin{array}{l}\therefore \mathrm{M}=2.5 \mathrm{M}_{0} \\\therefore \mathrm{M}<3 \mathrm{M}_{0}\end{array}[/math]
+ [math]\therefore[/math]
+ নক্ষত্রটি কৃষ্ণগহ্বরে পরিণত হবে না। [math]\\[/math]
+
+
+Explanation:
+গ নক্ষত্রটি কৃষ্ণগহ্বরে পরিণত হবে না। কারণ তার ভর [math]5\times10^{30}\ \text{kg}=\frac{5\times10^{30}}{2\times10^{30}}=2.5\ M_\odot[/math], যা সাধারণত কৃষ্ণগহ্বরে পরিণত হওয়ার ন্যূনতম অবশিষ্ট কোর ভর (প্রায় [math]3\ M_\odot[/math])–এর নিচে; তাই এটি সম্ভবত নিউট্রন নক্ষত্রে পরিণত হবে (মহাকাশযানের ভর ও বেগ এখানে প্রাসঙ্গিক নয়)।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 430873)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: St. Gregory's High School and College
+--------------------------------------------------------------------------------
+Question:
+নক্ষত্রের গতিবিধি লক্ষ করার জন্য বিজ্ঞানীরা [math]100\ m[/math] দৈর্ঘ্য ও [math]2[/math] টন ভরের একটি মহাকাশযান পাঠালেন যার বেগ [math]3\times 10^7\ m/s[/math]। তারা নতুন একটি নক্ষত্র আবিষ্কার করলেন যার ভর [math]5 \times 10^{30}\ kg[/math] এবং সৌর ভর [math]2\times 10^{30}\ kg[/math]।
+
+Options:
+ঘ. মহাকাশযানের বেগ দ্বিগুণ হলে এর পরিবর্তিত গতিশক্তি কত হবে তা গাণিতিকভাবে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে, রকেটের নিশ্চল ভর, [math]m_0 = 2[/math]
+ টন [math]= 2000 kg[/math]
+পরিবর্তিত বেগ, [math]\mathrm v=2 \times 3 \times 10^{7}=6 \times 10^{7} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+পরিবর্তিত ভর m হলে,আমরা জানি,[math]\hspace{1.8cm}\begin{aligned}\mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{2000}{\sqrt{1-\left(\frac{6 \times 10^{7}}{3 \times 10^{8}}\right)^{2}}}=2041.24 \mathrm{~kg} .\end{aligned}[/math]
+ [math]\therefore[/math]
+ গতিশক্তি,[math]\hspace{2cm}\begin{aligned}T & =\left(m-m_{0}\right) c^{2} \\& =(2041.24-2000)\left(3 \times 10^{8}\right)^{2} \\& =3.71 \times 10^{18} \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore[/math]
+ বেগ দ্বিগুণ করলে রকেটের গতিশক্তি হবে [math]3.71 \times 10^{18} \mathrm{~J}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ঘ গতিশক্তি ক্লাসিক্যাল সূত্রের দ্বারা [math]K=\tfrac{1}{2}mv^2[/math] হয়; বেগ দ্বিগুণ করলে [math]K'=\tfrac{1}{2}m(2v)^2=\tfrac{1}{2}m\cdot4v^2=4\left(\tfrac{1}{2}mv^2\right)=4K[/math]. তাই মহাকাশযানের বেগ দ্বিগুণ হলে তার গতিশক্তি চারগুণ হবে, কারণ গতিশক্তি বেগের বর্গের সাথে অনুপাতে বৃদ্ধি পায়।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 430874)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Uttora High School and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+কোন পরমাণুর দুটি ইলেকট্রনের বেগ যথাক্রমে [math]0.90\ c[/math] ও [math]0.99\ c[/math] । এখানে [math]c[/math] হলো আলোর বেগ। ইলেকট্রনটির স্থির ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]।
+
+Options:
+গ. উদ্দীপক অনুসারে ইলেকট্রনদ্বয়ের শক্তির অনুপাত নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, ১ম ইলেকট্রনের বেগ, [math]\mathrm v_1 = 0.9 ~c[/math]
+২য় ইলেকট্রনের বেগ, [math]\mathrm v_2 = 0.99 ~c[/math]
+ইলেকট্রনের স্থির ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+আমরা জানি, ইলেকট্রনের গতিশীল ভর, [math]\mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}[/math]
+১ম ইলেকট্রনের শক্তি,[math]\hspace{3cm}\begin{aligned}\mathrm{E}_{1} =\mathrm{m}_{1} \mathrm{c}^{2} =\frac{\mathrm{m}_{0} \mathrm{c}^{2}}{\sqrt{1-\frac{\mathrm{v}_{1}^{2}}{\mathrm{c}^{2}}}}\end{aligned}[/math]
+২য় ইলেকট্রনের শক্তি,[math]\hspace{3cm}\begin{aligned}\mathrm{E}_{2} =\mathrm{m}_{2} \mathrm{c}^{2} =\frac{\mathrm{m}_{0} \mathrm{c}^{2}}{\sqrt{1-\frac{\mathrm{v}_{2}^{2}}{\mathrm{c}^{2}}}}\end{aligned}[/math]
+ইলেকট্রনদ্বয়ের শক্তির অনুপাত [math]=\frac{\mathrm{E}_{1}}{\mathrm{E}_{2}}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l} \begin{aligned}\Rightarrow \frac{E_{1}}{E_{2}} & =\frac{m_{0}}{\sqrt{1-\frac{v_{1}^{2}}{c^{2}}}} \times \frac{\sqrt{1-\frac{v_{2}^{2}}{c^{2}}}}{m_{0}} \\\Rightarrow \frac{E_{1}}{E_{2}} & =\frac{\sqrt{1-\frac{v_{2}^{2}}{c^{2}}}}{\sqrt{1-\frac{v_{1}^{2}}{c^{2}}}} \\& =\sqrt{\frac{c^{2}-v_{2}^{2}}{c^{2}-v_{1}^{2}}} \\& =\sqrt{\frac{1-(0.99)^{2}}{1-(0.9)^{2}}}\end{aligned} \\\Rightarrow \frac{E_{1}}{E_{2}}=0.323 \\\Rightarrow E_{1}: E_{2}=0.323: 1\end{array}[/math]
+নির্ণেয় অনুপাত [math]0.323 : 1[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ ইলেকট্রনের মোট শক্তি হবে [math]E=\gamma mc^2[/math], তাই দুটির অনুপাত [math]E_1/E_2=\gamma_1/\gamma_2[/math]. যেখানে [math]\gamma_1=1/\sqrt{1-0.9^2}\approx2.294[/math] এবং [math]\gamma_2=1/\sqrt{1-0.99^2}\approx7.089[/math]. অতএব [math]E_1/E_2\approx2.294/7.089\approx0.324[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 430875)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: Uttora High School and College, Dhaka
+--------------------------------------------------------------------------------
+Question:
+কোন পরমাণুর দুটি ইলেকট্রনের বেগ যথাক্রমে [math]0.90\ c[/math] ও [math]0.99\ c[/math]। এখানে [math]c[/math] হলো আলোর বেগ। ইলেকট্রনটির স্থির ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]।
+
+Options:
+ঘ. প্রথম ইলেকট্রনের নিউটনিয়ান গতিশক্তি ও দ্বিতীয় ইলেকট্রনের আপেক্ষিক গতিশক্তি সমান হবে কি না গাণিতিক বিশ্লেষণের মাধ্যমে মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘ১ম ইলেকট্রনের ক্ষেত্রে, বেগ, [math]\mathrm v_1 = 0.9~c[/math]
+ [math]\therefore[/math]
+ ১ম ইলেকট্রনের নিউটনিয়ান গতিশক্তি,[math]\hspace{.5cm}\begin{aligned}\mathrm{E}_{\mathrm{kN}} & =\frac{1}{2} \mathrm{~m}_{0} \mathrm{v}_{1}^{2} \\& =\frac{1}{2} \times 9.1 \times 10^{-31} \times(0.9 \mathrm{c})^{2} \\& =\frac{1}{2} \times 9.1 \times 10^{-31} \times\left(0.9 \times 3 \times 10^{8}\right)^{2} \mathrm{~J} \\& =3.32 \times 10^{-14} \mathrm{~J}\end{aligned}[/math]
+২য় ইলেকট্রনের আপেক্ষিক গতিশক্তি,[math]\hspace{.5cm}\begin{aligned}\mathrm{E}_{\mathrm{ke}} & =\left(\mathrm{m}-\mathrm{m}_{0}\right) \mathrm{c}^{2} \\& =\left(\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}_{2}^{2}}{\mathrm{c}^{2}}}}-\mathrm{m}_{0}\right) \mathrm{c}^{2}\end{aligned}[/math]
+ [math]\hspace{1.5cm}\begin{array}{l}=\left(\frac{1}{\sqrt{1-\frac{\mathrm{v}_{2}^{2}}{\mathrm{c}^{2}}}}-1\right) \mathrm{m}_{0} \mathrm{c}^{2} \\=\left(\frac{1}{\sqrt{1-\left(\frac{0.99 \mathrm{c}}{\mathrm{c}}\right)^{2}}}-1\right) \times 9.1 \times 10^{-31} \times\left(3 \times 10^{8}\right)^{2} \\=4.98 \times 10^{-31} \mathrm{~J}\end{array}[/math]
+এখানে, [math]E_{kN} 
+eq E_{ke}[/math]
+ [math]\therefore[/math]
+ প্রথম ইলেকট্রনের নিউটনিয়ান গতিশক্তি ও ২য় ইলেকট্রনের আপেক্ষিক গতিশক্তি সমান হবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ প্রথম ইলেকট্রনের নিউটনিয়ান গতিশক্তি: [math]K_N=\tfrac{1}{2}mv^2=\tfrac{1}{2}(9.1\times10^{-31})(0.9c)^2\approx3.32\times10^{-14}\ \mathrm{J}[/math]. দ্বিতীয় ইলেকট্রনের আপেক্ষিক গতিশক্তি: [math]\gamma=\frac{1}{\sqrt{1-0.99^2}}\approx7.09,\ K=(\gamma-1)mc^2\approx(7.09-1)(9.1\times10^{-31})c^2\approx4.99\times10^{-13}\ \mathrm{J}[/math]. 따라서 সমান নয় — দ্বিতীয়টির আপেক্ষিক গতিশক্তি প্রায় [math]15[/math] গুণ বড়; ক্লাসিক্যাল সূত্র উচ্চগতিতে ভুল আঙ্ক দেয়।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 430876)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: DAWOOD PUBLIC SCHOOL & COLLEGE
+--------------------------------------------------------------------------------
+Question:
+ভূ-পৃষ্ঠে একটি রকেটের দৈর্ঘ্য [math]12\ m[/math] এবং ভর [math]4500\ kg[/math]। এটি ভূ পৃষ্ঠের কোনো পর্যবেক্ষকের সাপেক্ষে [math]0.9\ c[/math] বেগে চলতে শুরু করল।
+
+Options:
+ঘ. রকেটের আপেক্ষিক তত্ত্বীয় এবং নিউটনীয় গতিশক্তির তুলনা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘআমরা জানি, আপেক্ষিক তত্ত্বীয় গতিশক্তি-[math]\begin{aligned}E_{k} & =m c^{2}-m_{0} c^{2} \\& =c^{2}\left(\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-m_{0}\right)\end{aligned}[/math]
+ [math]\hspace{1cm}\begin{array}{l}=m_{0} c^{2}\left(\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-1\right) \\=m_{0} c^{2}\left(\frac{1}{\sqrt{1-\frac{(0.9 c)^{2}}{c^{2}}}}-1\right) \\=m_{0} c^{2}\left(\frac{1}{\sqrt{0.19}}-1\right) \\=1.294 \mathrm{~m}_{0} c^{2}\end{array}[/math]
+আবার চিরায়ত গতিশক্তি[math]\hspace{1cm}\begin{array}{l}\mathrm{E}_{\mathrm{k}^{\prime}}=\frac{1}{2} \mathrm{~m}_{0} \mathrm{v}^{2}=\frac{1}{2} \mathrm{~m}_{0} \times(0.9 \mathrm{c})^{2}=0.405 \mathrm{~m}_{0} \mathrm{c}^{2} \\\therefore \quad \frac{\mathrm{E}_{\mathrm{k}}}{\mathrm{E}_{\mathrm{k}}{ }^{\prime}}=\frac{1.294 \mathrm{~m}_{0} \mathrm{c}^{2}}{0.405 \mathrm{~m}_{0} \mathrm{c}^{2}} \\\Rightarrow \frac{\mathrm{E}_{\mathrm{k}}}{\mathrm{E}_{\mathrm{k}}}=3.195 \\\therefore \quad \mathrm{E}_{\mathrm{k}}=3.195 \mathrm{E}_{\mathrm{k}}^{\prime}\end{array}[/math]
+অতএব, রকেটের আপেক্ষিক তত্ত্বীয় গতিশক্তি নিউটনীয় গতিশক্তির 3.195 গুণ।
+
+Explanation:
+ব্যাখ্যা:
+ঘ আপেক্ষিকগতির KE হল [math]K_{rel}=(\gamma-1)mc^2,\;\gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math] এবং নিউটনীয় সূত্র দেয় [math]K_N=\tfrac{1}{2}mv^2[/math]; এখানে [math]v=0.9c[/math] হলে [math]\gamma\approx2.294[/math]. ফলে [math]K_{rel}\approx(2.294-1)\times4500\,c^2\approx5.24\times10^{20}\ \rm J[/math] এবং [math]K_N\approx\tfrac12\times4500\times(0.9c)^2\approx1.64\times10^{20}\ \rm J[/math], অর্থাৎ নিউটনীয় মান প্রায় [math]3.2[/math] গুণ ছোট। কারণ উচ্চ গতিতে ভরের এনার্জি বৃদ্ধিকে বিবেচনা করতে হলে রিলেটিভিস্টিক সূত্র দরকার; নিউটনীয় সূত্র এটি উপেক্ষা করে।
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 430877)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2020 | Boards:  | Tags: GRCF
+--------------------------------------------------------------------------------
+Question:
+পৃথিবী পৃষ্ঠে অবস্থিত একজন লোক পর্যবেক্ষণ করল যে, ভিন্ন গ্রহের একটি নভোযান [math]0.6\ C[/math] গতিতে রাজেন্দ্র কলেজের ফুটবল মাঠের দৈর্ঘ্য বরাবর অতিক্রম করল। ফুটবল মাঠের দৈর্ঘ্য [math]120\ m[/math] এবং প্রস্থ [math]90\ m[/math] পৃথিবী পৃষ্ঠে অবস্থিত লোকের ভর [math]20\ kg[/math]।
+
+Options:
+গ. পৃথিবী পৃষ্ঠে অবস্থিত লোকটি ভিন্ন গ্রহের নভোযানটিতে যাত্রা করলে তার ভর নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,গতিশীল ব্যক্তির বেগ, v = 0.6 Cতার ভর, [math]m_0 = 20 ~kg[/math]
+ভিন্ন গ্রহের নভোযানে থাকা লোকটির ভর, m = ?আমরা জানি,[math]\hspace{1.5cm}\begin{aligned}\mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{20}{\sqrt{1-\left(\frac{0.6 \mathrm{C}}{\mathrm{C}}\right)^{2}}}\end{aligned}[/math]
+ [math]\hspace{2cm}=\frac{20}{\sqrt{1-0.36}}=\frac{20}{\sqrt{0.64}}=\frac{20}{0.8}=25 \mathrm{~kg}[/math]
+নির্ণেয় ভর 25 kg হবে । [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ ভরের পরিবর্তনকে বিশেষ আপেক্ষিকতা অনুযায়ী দেখতে হলে রিলেটিভিস্টিক ভর ব্যবহার করলে [math]\gamma=\dfrac{1}{\sqrt{1-(0.6)^2}}=\dfrac{1}{0.8}=1.25[/math] হওয়ায় পরিমাপকৃত ভর হবে [math]m=\gamma m_0=1.25\times20=25\ \text{kg}[/math]। (তবে যাত্রী নিজুটির বিশ্রাম ফ্রেমে তার বিশ্রামভর অপরিবর্তিত থাকবে [math]20\ \text{kg}[/math]।)
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 430879)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+কোনো বস্তুর ভর কখনো অসীম হতে পারে না কেন? ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ভরের আপেক্ষিকতা সূত্র থেকে আমরা জানি , [math]\mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}[/math]
+যেখানে, [math]\mathrm{m}_{0}=[/math]
+ স্থির ভর, m = গতিশীল ভর, v = বেগ। এখন, বস্তুর ভর m অসীম হবে যদি [math]\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}=0[/math]
+ হয় বা, [math]1=\frac{v^{2}}{c^{2}}[/math]
+ হয় বা, [math]\mathrm{v}=\mathrm{c}[/math]
+ হয়।অর্থাৎ, কোনো বস্তুর বেগ যদি আলোর বেগের সমান হয়, তাহলেই তার ভর অসীম হয়। কিন্তু কোনো বস্তুর বেগ আলোর বেগের সমান হতে পারে না। তাই বলা যায়, কোনো বস্তুর ভর কখনো অসীম হতে পারে না।
+
+Explanation:
+ব্যাখ্যা: ভর হলো কোনো বস্তুকে গঠিত করার জন্য থাকা পদার্থ বা শক্তির পরিমাণ; বাস্তবে কোনো বসুর কণার সংখ্যা ও ঘনত্ব সীমিত থাকে, তাই তার ভরও সীমিত। একটি বস্তুকে অসীম ভর দেবার মানে অসীম পদার্থ বা অসীম ঘনত্ব (অথবা অসীম শক্তি) থাকা, যা সীমিত মহাবিশ্ব, পদার্থ-অনু প্রতিষ্ঠা এবং শক্তি-সংরক্ষণবিধির সঙ্গে মিলেনা, ফলে ভর কখনো অসীম হতে পারে না।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 430880)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+ভরের আপেক্ষিকতা বলতে কি বুঝো?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+আইনস্টাইনের মতে বস্তুর স্থির অবস্থায় ভর এবং গতিশীল অবস্থায় ভর এক নয়। বস্তুর গতি বৃদ্ধির সাথে সাথে ভর ও বৃদ্ধি পায়। একে ভরের আপেক্ষিকতা বলে। বস্তুর স্থির অবস্থায় ভর [math]\mathrm{m}_{\mathrm{o}}[/math]
+ এবং গতিশীল অবস্থায় ভর m হলে, আইনস্টাইনের মতে,[math]m=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}[/math]
+এখানে, v হলো বস্তুর বেগ এবং c হলো আলোর বেগ। অতএব, বস্তুর ভর পরম কিছু নয় বস্তুর ভর আপেক্ষিক।
+
+Explanation:
+ভরের আপেক্ষিকতা বলতে বোঝায় কোনো বস্তুর পরিমাপ করা ভর নিরীক্ষকের সঙ্গে অপেক্ষাকৃত গতির উপর নির্ভর করে—বস্তু যত দ্রুত চলে তার কার্যকরী (relativistic) ভর তত বাড়ে। এটি লেখা হয় [math]m=γ m_0[/math] যেখানে [math]γ=\frac{1}{\sqrt{1-v^2/c^2}}[/math] এবং [math]m_0[/math] হল বিশ্রাম ভর, যা সব নিরীক্ষকের কাছে অপরিবর্তিত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 430881)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021, 2019, 2019, 2017 | Boards: Dhaka Board, Dhaka Board | Tags: Dhaka Board, Dhaka Board, Jessore Board, Jessore Board
+--------------------------------------------------------------------------------
+Question:
+কোনো বস্তু আলোর বেগের থেকে বেশি বেগে চলা সম্ভব হলে ভরের কী পরিবর্তন ঘটতো— ব্যাখ্যা ক রো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ভরের আপেক্ষিকতা হতে আমরা জানি যে,[math]\qquad \qquad m=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}[/math]
+এখানে,[math]\qquad m_0[/math]
+ = স্থির অবস্থায় বস্তুর ভর [math]\qquad[/math]
+m = গতিশীল অবস্থায় বস্তুর ভর [math]\qquad[/math]
+c = আলোর বেগ [math]\qquad[/math]
+v = বস্তুর বেগএখানে, v > c হলে m অবাস্তব হয় এবং v = c হলে m = [math]\infty[/math]
+ হয়, যা অসম্ভব।তাই স্থির ভরসম্পন্ন কোনো বস্তু আলোর বেগে চলতে পারে না।
+
+Explanation:
+বিশেষ আপেক্ষিকতায় আপেক্ষিক ভরকে [math]m = \dfrac{m_0}{\sqrt{1 - v^2/c^2}}[/math] দিয়ে প্রকাশ করা হয়; যদি [math]v>c[/math] হয় তবে বর্গমূলের ভিতরের অংশ নেতিবাচক হয়ে যায়। তাই ভর কাল্পনিক (imaginary) বা সংজ্ঞাহীন হয়ে যাবে, অর্থাৎ বাস্তবে এমন গতিবেগ গ্রহণ করা সম্ভব নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 430882)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+স্থির ভরসম্পন্ন কোন বস্তুকণা আলোর বেগের সমান বেগে গতিশীল হতে পারে না- ব্যাখ্যা করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+ভরের আপেক্ষিকতা হতে আমরা জানি যে,[math]\hspace{1.5 cm}m=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}[/math]
+এখানে,[math]\hspace{1 cm}m_0=[/math]
+ স্থির অবস্থায় বস্তুর ভর[math]\hspace{1 cm}[/math]
+m = গতিশীল অবস্থায় বস্তুর ভর[math]\hspace{1 cm}[/math]
+c = আলোর বেগ[math]\hspace{1 cm}[/math]
+v = বস্তুর বেগএখানে, v > c হলে m অবাস্তব হয় এবং v = c হলে m = [math]\propto[/math]
+ হয়, যা অসম্ভব।তাই স্থির ভর সম্পন্ন কোনো বস্তু আলোর বেগে চলতে পারে না।
+
+Explanation:
+কারণ আপেক্ষিকতার সূত্র অনুযায়ী গামা ফ্যাক্টর [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math] যখন [math]v\to c[/math] তখন অসীম হয়ে যায়। তাই [math]E=\gamma mc^2[/math] অনুযায়ী স্থির ভরের কণার শক্তি অসীম হতে হবে, যা অসম্ভব—অতএব ভরসম্পন্ন কণা আলোর বেগ [math]c[/math] পৌঁছাতে পারে না।
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 430855)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+নিচের চিত্রে [math]S[/math] এবং [math]S^{\prime}[/math] দুটি প্রসঙ্গ কাঠামো। [math]S[/math] কাঠামোটি [math]X[/math] অক্ষের অভিমুখে S কাঠামোর সাপেক্ষে বেগে গতিশীল। কাঠামোগুলোতে অবস্থিত দুই জন পর্যবেক্ষক দুটি কণা [math]A[/math] ও [math]B[/math] এর স্থিতিস্থাপক সংঘর্ষ পর্যবেক্ষণ করছেন।
+
+
+[Image]
+
+
+Options:
+গ. একটি ইলেকট্রন [math]0.99 \%[/math] দ্রুতিতে গতিশীল হলে এর চলমান ভর কত?
+
+
+Correct Answer: 
+
+Solution:
+গউত্তর : 6.451 × 10 [math]^{-27}[/math]
+ kg[math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ প্রাসঙ্গিক সূত্র হল [math]m=\gamma m_0,\;\gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math]. এখানে [math]v=0.99\%\,c=0.0099c[/math], তাই [math]\beta=v/c=0.0099,\;\beta^2=9.801\times10^{-5}[/math] এবং [math]\gamma\approx\frac{1}{\sqrt{1-9.801\times10^{-5}}}\approx1.000049[/math]. ফলে চলমান ভর হবে [math]m\approx1.000049\times9.11\times10^{-31}\,\text{kg}\approx9.11045\times10^{-31}\,\text{kg}[/math], যা বিশ্রাম ভরের থেকে প্রচণ্ড সামান্য বড় — তাই গতিশীল প্রভাবে ভর প্রায় অপরিবর্তিত থাকে।
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 430847)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মহাশূন্যযানের দুটি অংশের প্রতিটির ভর [math]500 \ kg[/math] একটি গ্যালাক্সিতে পরিভ্রমণরত। পাশের লেখচিত্রে বেগ এর সাথে [math]K=\frac{1}{\sqrt{1-v^{2} / c^{2}}}[/math] এর পরিবর্তন দেখানো হয়েছে।
+
+
+[Image]
+
+
+Options:
+ঘ. মহাশূন্যযানটির বেগ [math]0.58 \ c[/math] থেকে [math]0.72c[/math] ও [math]0.72c[/math] থেকে [math]0.86c[/math] এ উন্নীত করতে কি একই পরিমাণ জ্বালানী প্রয়োজন হবে? তোমার উত্তরের সপক্ষে যুক্তি দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘমহাশূন্য যানটির নিশ্চল অবস্থায় ভর [math]m_0[/math]
+ এবং v বেগে চলমান অবস্থায় ভর m হলে, চলমান অবস্থায় যানটির মোট শক্তি,[math]\begin{aligned}\mathrm{E} & =\frac{\mathrm{mc}^{2}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{\mathrm{m}_{0} \mathrm{c}^{2}}{\sqrt{\sqrt{1}}}\end{aligned}[/math]
+এখন, যখন v = 0.58c,তখন , [math]\mathrm{E}=\frac{\mathrm{m}_{0} \mathrm{c}^{2}}{\sqrt{1-\frac{(0.58 \mathrm{c})^{2}}{\mathrm{c}^{2}}}}=1.2275 \mathrm{~m}_{0} \mathrm{c}^{2}[/math]
+যখন v = 0.72c, তখন [math]\mathrm{E}_{1}=\frac{\mathrm{m}_{0} \mathrm{c}^{2}}{\sqrt{1-\frac{(0.72 \mathrm{c})^{2}}{\mathrm{c}^{2}}}}=1.4409 \mathrm{~m}_{0} \mathrm{c}^{2}[/math]
+যখন v = 0.86c, তখন , [math]\mathrm{E}=\frac{\mathrm{m}_{0} \mathrm{c}^{2}}{\sqrt{1-\frac{(0.86 \mathrm{c})^{2}}{\mathrm{c}^{2}}}}=1.9596 \mathrm{~m}_{0} \mathrm{c}^{2}[/math]
+মহাশূন্য যানটির বেগ 0.580 থেকে 0.72c এ উন্নীত করতে গতিশক্তির পরিবর্তন, E = (1.4409 - 1.2275) [math]m_0c^ 2[/math]
+= 0.2134mg [math]c^2[/math]
+আবার, যানটির বেগ 0.720 থেকে 0.860 এ উন্নীত করতে গতিশক্তির পরিবর্তন, $E_2 = (1.9596–1.4409)m_0c^2= 0.5187 [math]m_0c²[/math]
+যেহেতু, যানটির বেগ 0.58c থেকে 0.72c এ উন্নীত করতে গতিশক্তির পরিবর্তন এবং 0.720 থেকে 0.860 এ উন্নীত করতে গতিশক্তির পরিবর্তন সমান নয়। সেহেতু উভয় ক্ষেত্রে একই পরিমাণ জ্বালানি প্রয়োজন হবে না
+
+Explanation:
+ব্যাখ্যা: না — [math]0.72c[/math] থেকে [math]0.86c[/math] এ ওঠাতে বেশি জ্বালানী লাগবে। কারণ স্পেশশিপের কাইনেটিক শক্তি পরিবর্তিত হয় [math]E_{k}=(\gamma-1)mc^{2}[/math] দিয়ে যেখানে [math]\gamma=\frac{1}{\sqrt{1-v^{2}/c^{2}}}। গণনা করলে [math]\gamma(0.58c)≈1.227,\;\gamma(0.72c)≈1.44,\;\gamma(0.86c)≈1.959, তাই প্রথম ইন্টারভালে Δγ≈[math]0.213[/math] আর দ্বিতীয় ইন্টারভালে Δγ≈[math]0.519[/math]; মোট ভরের জন্য (দুইটি অংশ মিলিয়ে [math]m=1000\ \text{kg}[/math]) শক্তি পরিবর্তন [math]\Delta E=(\Delta\gamma)mc^{2}[/math] অনুযায়ী দ্বিতীয়টি অনেক বেশি, তাই বেশি জ্বালানী প্রয়োজন।
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 430848)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পারমাণবিক কণার নিশ্চল ভর [math]2.5 \times 10^{-27} \ kg[/math] কণিকাটি [math]0.9c[/math] বেগে গতিশীল রয়েছে।
+
+Options:
+গ. উল্লেখিত কণাটির চলমান অবস্থায় ভর বের কর।
+
+
+Correct Answer: 
+
+Solution:
+গউত্তর: 5.74 × 10-27 kg[math]\\[/math]
+
+Explanation:
+গ চলন্ত ভর বের করতে রিলেটিভিটি ব্যবহার করি: [math]\gamma=\frac{1}{\sqrt{1-(0.9)^2}}=\frac{1}{\sqrt{0.19}}\approx2.294[/math], তাই [math]m=\gamma m_0=2.294\times2.5\times10^{-27}\ \text{kg}\approx5.74\times10^{-27}\ \text{kg}[/math]. ব্যাখ্যা: রিলেটিভিস্টিক গামা ফ্যাক্টরের কারণে কণার ভর দৌড়ন্ত অবস্থায় বাড়ে এবং গতিবেগ সি-র দিকে যাওয়ার সঙ্গে সঙ্গে অসীমের দিকে বাড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #27 (ID: 430849)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পারমাণবিক কণার নিশ্চল ভর [math]2.5 \times 10^{-27} \ kg[/math] কণিকাটি [math]0.9c[/math] বেগে গতিশীল রয়েছে।
+
+Options:
+ঘ. চলমান অবস্থায় কণাটির মোট শক্তি উহার স্থির ভর শক্তির চেয়ে বেশি— কথাটির প্রমাণ দাও ।
+
+
+Correct Answer: 
+
+Solution:
+ঘকণাটির স্থির ভর শক্তি,[math]\begin{aligned}\mathrm{E}_{0} & =\mathrm{m}_{0} \mathrm{c}^{2} \\& =2.5 \times 10^{-27} \mathrm{~kg} \times\left(3 \times 10^{8} \mathrm{~ms}^{-1}\right)^{2} \\& =2.25 \times 10^{-10} \mathrm{~J}\end{aligned}[/math]
+আবার,কণাটির চলমান অবস্থায় মোট শক্তি,[math]\begin{aligned}\mathrm{E} & =\mathrm{mc}^{2} \\& =5.735 \times 10^{-27} \mathrm{~kg} \times\left(3 \times 10^{8} \mathrm{~ms}^{-1}\right)^{2} \\& =5.16 \times 10^{-10} \mathrm{~J}\end{aligned}[/math]
+এখানে, E > [math]E_0[/math]
+অতএব, চলমান অবস্থায় কণাটির মোট শক্তি উহার স্থির ভর শক্তির চেয়ে বেশি ।
+
+Explanation:
+ঘ চলমান কণার মোট শক্তি [math]E=\gamma mc^2[/math], যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]. [math]v=0.9c[/math] হলে [math]\gamma\approx\dfrac{1}{\sqrt{1-0.9^2}}=\dfrac{1}{\sqrt{0.19}}\approx2.294[/math], ফলে [math]E\approx2.294\,mc^2>mc^2[/math], অর্থাৎ মোট শক্তি স্থির ভর শক্তির চেয়ে বড় (কিনেটিক শক্তি যোগ হওয়ার কারণে)।
+
+Sub-Questions:
+
+================================================================================
+Question #28 (ID: 430851)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূ-পৃষ্ঠে একটি বৃকেট এর দৈর্ঘ্য [math]10 \ m[/math] এবং ভর [math]5000kg[/math] এটি ভূ-পৃষ্ঠের কোনো স্থির পর্যবেক্ষকের সাপেক্ষে [math]3 \times 10^{7}ms^{-1}[/math] বেগে চলতে শুরু করল ।
+
+Options:
+ঘ. উদ্দীপকে রকেটটির বেগ দ্বিগুণ করা হলে এর ভরের কীরূপ পরিবর্তন হবে— গাণিতিক বিশ্লেষণস হ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+
+
+Explanation:
+ব্যাখ্যা:
+
+ঘ রিলেটিভিস্টিক ভর [math]m(v)=\dfrac{m_0}{\sqrt{1-v^2/c^2}}[/math] দ্বারা দেয়া হয়; ধরে নিই প্রদত্ত [math]5000\ \text{kg}[/math] হচ্ছে বিশ্রাম ভর [math]m_0[/math]. প্রথমে [math]v=3\times10^7\ \text{m/s}[/math] হলে [math]\gamma_1=1/\sqrt{1-0.01}=1.00504[/math] এবং [math]m_1=\gamma_1 m_0\approx5025.2\ \text{kg}[/math]; গতি দ্বিগুণ করলে [math]2v=6\times10^7\ \text{m/s}[/math], [math]\gamma_2=1/\sqrt{1-0.04}=1.02062[/math] এবং [math]m_2\approx5103.1\ \text{kg}[/math]. তাই ভর বাড়ে প্রায় [math]m_2-m_1\approx77.9\ \text{kg}[/math], অর্থাৎ প্রায় [math]1.55\%[/math]; কারণ গতি বাড়ালে লরেনজ ফ্যাক্টর [math]\gamma[/math] বাড়ে।
+
+Sub-Questions:
+
+================================================================================
+Question #29 (ID: 430852)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূ-পৃষ্ঠে কোনো এক ব্যক্তির ভর [math]100 \ kg[/math] ভূ-পৃষ্ঠে অবস্থানরত একজন পর্যবেক্ষকের কাছে কোনো উদ্বৃত্ত রকেটে ঐ ব্যক্তির ভর [math]101 \ kg[/math] মনে হলে রকেটটির বেগ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]4.2 \times 10^{7}ms^{-1}[/math]
+ [math]\\[/math]
+দেওয়া আছে,স্থির অবস্থায় ভর, [math]m_{0}=100 \ kg[/math]
+চলমান অবস্থায় ভর, [math]m=101 \ kg[/math]
+আলোর বেগ, [math]c=3 \times 10^{8}ms^{-1}[/math]
+রকেটের বেগ, [math]v=?[/math]
+ [math][/math]
+আমরা জানি,[math]\begin{array}{l} \mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\ \Rightarrow \sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}=\frac{\mathrm{m}_{0}}{\mathrm{~m}} \\ \Rightarrow 1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}=\left(\frac{\mathrm{m}_{0}}{\mathrm{~m}}\right)^{2} \\ \Rightarrow \frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}=1-\left(\frac{\mathrm{m}_{0}}{\mathrm{~m}}\right)^{2} \\ \Rightarrow \mathrm{v}^{2}=\mathrm{c}^{2}\left\{1-\left(\frac{\mathrm{m}_{0}}{\mathrm{~m}}\right)^{2}\right\} \end{array}[/math]
+ [math]\begin{aligned} \therefore v & =c \sqrt{1-\left(\frac{m_{0}}{\mathrm{~m}}\right)^{2}} \\ & =3 \times 10^{8} \mathrm{~ms}^{-1} \times \sqrt{1-\left(\frac{100 \mathrm{~kg}}{101 \mathrm{~kg}}\right)^{2}} \\ & =4.2 \times 10^{7} \mathrm{~ms}^{-1} \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: আপেক্ষিক ভরে [math]m'=\gamma m[/math] হওয়ায় [math]\gamma=101/100=1.01[/math]. এবং [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}} হওয়ায় [math]v=c\sqrt{1-1/\gamma^2}\approx c\sqrt{1-1/1.0201}\approx0.1404\,c\approx4.2\times10^7\ \text{m/s}[/math], অর্থাৎ প্রায় [math]0.14c[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #30 (ID: 430853)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বস্তুকণা [math]0.5c[/math] বেগে গতিশীল আছে। বস্তুটির স্থির অবস্থায় ভর এবং গতিশীল অবস্থায় ভরের অনুপাত বের কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+[math]0.866[/math]
+ [math]\\[/math]
+ [math][/math]
+এখনে,বস্তুকণার আপেক্ষিক বেগ, [math]v=0.5c[/math]
+ [math]\Rightarrow \frac{\mathrm{v}}{\mathrm{c}}=0.5[/math]
+ [math]\therefore[/math]
+ যদি স্থির অবস্থায় ভর [math]m_{o}[/math]
+ এবং চলমান অবস্থায় ভর [math]m[/math]
+ হয় তবে, [math]\frac{m_{0}}{m}=?[/math]
+আমরা জানি,[math]\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{v^{2}}{\mathrm{c}^{2}}}} \\ \Rightarrow \frac{\mathrm{m}_{0}}{\mathrm{~m}} & =\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}=\sqrt{1-(0.5)^{2}}=\sqrt{0.75} \\ & =0.866 \text { (Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা: গতিশীল ভর [math]m=\gamma m_0[/math] যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]; [math]v=0.5c[/math] হলে [math]\gamma=\dfrac{1}{\sqrt{1-0.25}}=\dfrac{1}{\sqrt{0.75}}=\dfrac{2}{\sqrt{3}}\approx1.1547[/math]. তাই স্থির ও গতিশীল ভরের অনুপাত হবে [math]m_0:m=1:\gamma=1:1.1547[/math], বা [math]\dfrac{m_0}{m}=\sqrt{1-v^2/c^2}=\dfrac{\sqrt{3}}{2}\approx0.8660[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #31 (ID: 430854)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি বস্তুকণার ভর [math]10^{-30} kg[/math] বস্তুটি বস্তুটি 0.5c বেগে গতিশীল ।
+
+Options:
+ঘ. বস্তু কণাটি কি আলোর বেগে গতিশীল হতে পারবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে বস্তুকণার ভর [math]10^{-30}[/math]
+kg এবং বস্তুটি 0.5c বেগে গতিশীল। আমরা জানি, কোনো বস্তু গতিশীল থাকলে তার ভর বৃদ্ধি পায় ৷[math]m=\frac{m_{0}}{\sqrt{1-v^{2} / c^{2}}}[/math]
+যদি v = c হয়, তাহলে [math]\mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{\mathrm{m}_{0}}{0}=[/math]
+ অসীমবস্তুটি আলোর বেগে গতিশীল হতে হলে বস্তুকণাটির ভর অসীম হয়ে যাবে, যা সম্ভব নয় । অর্থাৎ বস্তুকণাটি আলোর বেগে চলতে পারবে না।
+
+Explanation:
+ঘ অসম্ভব — ভরযুক্ত কণাকে আলোর বেগে নাড়া দেওয়া যায় না, কারণ [math]\gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math] এবং কাইনেটিক শক্তি [math]E_k=(\gamma-1)mc^2[/math]; যখন [math]v\to c[/math] হলে বন্ধকের মান শূন্য হলে [math]\gamma\to\infty[/math] এবং তাই [math]E_k\to\infty[/math], অর্থাৎ অসীম শক্তি লাগবে। উদাহরণত, [math]v=0.5c[/math] এ [math]\gamma\approx1.1547[/math], সুতরাং কণাটির কাইনেটিক শক্তি সীমিত (প্রায় [math]0.1547\,mc^2[/math]) কিন্তু [math]v=c[/math] এ পৌঁছাতে অসীম শক্তি দরকার।
+
+Sub-Questions:
+
+================================================================================
+Question #32 (ID: 430846)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি মহাশূন্যযানের দুটি অংশের প্রতিটির ভর [math]500 \ kg[/math] একটি গ্যালাক্সিতে পরিভ্রমণরত। পাশের লেখচিত্রে বেগ এর সাথে [math]K=\frac{1}{\sqrt{1-v^{2} / c^{2}}}[/math] এর পরিবর্তন দেখানো হয়েছে।
+
+
+[Image]
+
+
+Options:
+গ. যখন [math]k = 2[/math] তখন যানটির ভরবেগ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গউদ্দীপকের লেখচিত্র হতে পাই, যখন k = 2, তখন v = 0.86c যেহেতু মহাশূন্য যানের দুটি অংশের প্রতিটির ভর 500kg, সেহেতু মহাশূন্য যানের মোট নিশ্চল ভর, [math]m_0 = 2 \times[/math]
+ 500kg = 1000kgগতিশীল অবস্থায় মহাশূন্য যানের ভর m হলে, যানটির ভরবেগ,[math]\begin{aligned}P & =m v \\& =\frac{m_{0} c^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} \\& =\frac{1000 \mathrm{~kg} \times 0.86 \mathrm{c}}{\sqrt{1-(0.86 \mathrm{c}) / \mathrm{c}^{2}}} \\& =5.0559 \times 10^{11} \mathrm{kgms}^{-1} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কেসে [math]K=2[/math] ধরে [math]\frac{1}{\sqrt{1-v^{2}/c^{2}}}=2[/math] হওয়ায় [math]\sqrt{1-v^{2}/c^{2}}=\tfrac{1}{2}[/math], ফলে [math]1-v^{2}/c^{2}=\tfrac{1}{4}[/math] এবং [math]v^{2}/c^{2}=\tfrac{3}{4}[/math]; সুতরাং [math]v=\frac{\sqrt{3}}{2}\,c\approx0.866\,c[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #33 (ID: 430819)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+
+[Image]
+
+
+একজন নভোচারী রকেটে করে 0.1 c বেগে পৃথিবী হতে মঙ্গল গ্রহের উদ্দেশ্যে Y-অক্ষ বরাবর রওনা দেন। চিত্রে রকেটে রক্ষিত একটি আয়তাকার কাগজের টুকরোর গতি নির্দেশিত হয়েছে।
+
+Options:
+গ. কাগজ টুকরাটির গতিশীল ভর নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,কাগজটির স্থির ভর, [math]m_0 = 10 × 10^{-3}[/math]
+ kgআপেক্ষিক বেগ, v = 0.1c [math]ms^{-1}[/math]
+গতিশীল অবস্থায় কাগজটির ভর, m = ?আমরা জানি,[math]\begin{aligned}\mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\\Rightarrow\text { } \mathrm{m} & =\frac{10 \times 10^{-3}}{\sqrt{1-\frac{(0.1 \mathrm{c})^{2}}{(\mathrm{c})^{2}}}} \\\therefore \mathrm{m} & =1.0051 \times 10^{-2} \mathrm{~kg} \\& =10.051 \mathrm{~g} \text { (Ans.) }\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: কাগজটি রকেটের সাথে স্থির থাকায় এর গতি পৃথিবীর দৃষ্টিতে [math]v=0.1c[/math]; গতিশীল ভর (relativistic mass) [math]m=\gamma m_0[/math] যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]. তাই [math]\gamma=\dfrac{1}{\sqrt{1-(0.1)^2}}\approx1.00504</math], ফলে [math]m\approx1.00504\,m_0[/math] (প্রায় 0.5% বেশি)।
+
+Sub-Questions:
+
+================================================================================
+Question #34 (ID: 430820)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি কর্ণা (P) এর স্থির ভর 2 × [math]10^{-20}[/math] kg। কণাটি 0.91c বেগে গতিশীল । আর একটি কণা (Q) যার স্থির ভর 1.6 × [math]10^{-19}[/math] kg
+
+Options:
+গ. P কণাটির আপেক্ষিক তত্ত্বীয় গতিশক্তি নির্ণয় করো ।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, P কণাটির নিশ্চল ভর, [math]m_o = 2 × 10^{-20}[/math]
+ kgবেগ, v = 0.91 cআলোর বেগ, c = 3 × [math]10^8 ms^{-1}[/math]
+আপেক্ষিক তত্ত্বীয় গতিশক্তি, T = ?[math]\begin{aligned}T & =m^{2}-m_{0} c^{2} \\& =\frac{m_{0} c^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-m_{0} c^{2} \\& =m_{0} c^{2}\left[\frac{-1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-1\right]\end{aligned}[/math]
+ [math]\begin{array}{l}=2 \times 10^{-20} \times\left(3 \times 10^{8}\right)^{2} \times\left[\frac{1}{\sqrt{1-\frac{(0.91)^{2} \mathrm{c}^{2}}{\mathrm{c}^{2}}}}-1\right] \\=2.54 \times 10^{-3} \mathrm{~J} \text { (Ans.) }\end{array}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ P কণার আপেক্ষিক তত্ত্বীয় গতিশক্তি সূত্র [math]K=(\gamma-1)mc^2,\quad \gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math] ব্যবহার করে নির্ণয় করা হয়। এখানে [math]\gamma\approx1/\sqrt{1-0.91^2}\approx2.411[/math], [math]mc^2=(2\times10^{-20})(3\times10^8)^2=1.8\times10^{-3}\ \text{J}[/math] ফলে [math]K=(2.411-1)(1.8\times10^{-3})\approx2.54\times10^{-3}\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #35 (ID: 430821)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2023 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+একটি কর্ণা (P) এর স্থির ভর 2 × [math]10^{-20}[/math] kg। কণাটি 0.91c বেগে গতিশীল । আর একটি কণা (Q) যার স্থির ভর 1.6 × [math]10^{-19}[/math] kg
+
+Options:
+ঘ. আপেক্ষিক তত্ত্বানুযায়ী P কণাটির ভর Q কণার স্থির ভরের সমান হওয়া সম্ভব— গাণিতিকভাবে যা চাই করো ।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,P কণার নিশ্চল ভর, [math]m_p = 2 × 10^{-20}[/math]
+ kgQ কণার নিশ্চল ভর, [math]m_Q = 1.6 \times 10^{-19}[/math]
+ kgআলোর বেগ = cএখানে, [math]m_Q > m_p[/math]
+ আপেক্ষিক তত্ত্বানুসারে P কণাটির ভর Q কণার ভরের সমান করা সম্ভবধরি, v বেগে গতিশীল হলে P কণার ভর Q কণার ভরে সমান হবে Q সুতরাং, [math]m_o = m_p[/math]
+ এবং [math]m = m_Q[/math]
+আমরা জানি,[math]m=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} .[/math]
+ [math]\begin{array}{l}\Rightarrow\text{ } \sqrt{1-\frac{v^{2}}{\mathrm{c}^{2}}}=\frac{\mathrm{m}_{0}}{\mathrm{~m}}=\frac{2 \times 10^{-20}}{1.6 \times 10^{-19}}=\frac{1}{8}\\\Rightarrow\text{ } 1-\frac{v^{2}}{c^{2}}=\frac{1}{64}=\frac{v^{2}}{c^{2}}=1-\frac{1}{64}=\frac{63}{64}\\\Rightarrow\text{ } v=\sqrt{\frac{63}{64}} \times c=0.992 \mathrm{c}\end{array}[/math]
+অর্থাৎ, P কণাটি 0.992 c বেগে গতিশীল হলে এর ভর Q কণার নিশ্চল ভরের সমান হবে। -
+
+Explanation:
+ব্যাখ্যা: ঘ P কণাটির রিলেটিভিস্টিক ভর Q’র স্থির ভরের সমান করার জন্য প্রয়োজনীয় গামা এবং বেগ গণনা করলে পাওয়া যায় [math]\gamma=\dfrac{m_Q}{m_{0P}}=\dfrac{1.6\times10^{-19}}{2\times10^{-20}}=8[/math], তাই [math]v=c\sqrt{1-\dfrac{1}{\gamma^2}}=c\sqrt{1-\dfrac{1}{64}}\approx0.9922\,c[/math], যা কারেন্টে শারীরিকভাবে সম্ভব (কমেই [math]c[/math])। তবে প্রদত্ত বেগ [math]0.91c[/math] হলে [math]\gamma\approx2.412[/math] এবং [math]m=\gamma m_0\approx4.82\times10^{-20}\ \text{kg}[/math], যা Q‑এর স্থির ভরের সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #36 (ID: 430822)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+কোনো এক মহাকাশ গবেষণা কেন্দ্র থেকে 500 kg ভরের এবং 11.5 m দৈর্ঘ্যের একটি নভোযান 0.3c বেগে উৎক্ষেপণ করা হয়েছিল।
+
+Options:
+ঘ. নভোযানটির বেগ দ্বিগুণ করলে গতিশীল ভর দ্বিগুণ হবে কি? গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,ভূ-পৃষ্ঠে রকেটের ভর, [math]\mathrm{m}_{\mathrm{o}}=500 \mathrm{~kg}[/math]
+প্রথম ক্ষেত্রে, রকেটের বেগ, [math]\mathrm{v}_{1}=0.3 \mathrm{c\ ms}^{-1}[/math]
+দ্বিতীয় ক্ষেত্রে, রকেটের বেগ,[math]\begin{aligned}\mathrm{v}_{2}=2 \mathrm{v}_{1} & =2 \times 0.3 \mathrm{c} \mathrm{\ ms}^{-1} \\& =0.6 \mathrm{c\ ms}^{-1}\end{aligned}[/math]
+আলোর বেগ, [math]\mathrm{c\ ms}^{-1}[/math]
+প্রথম ক্ষেত্রে রকেটের চলমান ভর [math]\mathrm{m}_{1}[/math]
+ হলেআমরা জানি,[math]\mathrm{m}_{1}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{500}{\sqrt{1-\frac{(0.3 \mathrm{c})^{2}}{(\mathrm{c})^{2}}}}=524.142 \mathrm{~kg}[/math]
+আবার, দ্বিতীয় ক্ষেত্রে রকেটের চলমান ভর [math]\mathrm{m}_{2}[/math]
+ হলে,[math]m_{2}=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}=\frac{500}{\sqrt{1-\frac{(0.6 c)^{2}}{(c)^{2}}}}=625 \mathrm{~kg}[/math]
+যেহেতু, [math]\mathrm{m}_{2}>\mathrm{m}_{1}[/math]
+অতএব, উদ্দীপকে রকেটের বেগ দ্বিগুণ করা হলে এর ভর বেড়ে যাবে কিন্তু দ্বিগুণ হবে না।
+
+Explanation:
+ব্যাখ্যা:
+ঘ না — গতিশীল ভর দ্বিগুণ হবে না। গতিশীল ভর [math]m=\gamma m_0,\quad \gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math] সূত্রে নির্ণয় করলে [math]\gamma(0.3c)\approx1.048\Rightarrow m_1\approx1.048\times500\approx524\ \text{kg}[/math] এবং [math]\gamma(0.6c)=1.25\Rightarrow m_2=1.25\times500=625\ \text{kg}[/math], যা দ্বিগুণ (1000 kg) নয় — কারণ [math]\gamma[/math] গতি অনুযায়ী রৈখিকভাবে বাড়ে না।
+
+Sub-Questions:
+
+================================================================================
+Question #37 (ID: 430823)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2022 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+কবির ও আবির 30 বছর বয়সে যথাক্রমে 0.88c এবং 0.99c বেগে গতিশীল দুটি মহাশূন্য যানে করে মহাকাশ ভ্রমণে গেলেন। পৃথিবীর হিসেবে 20 বছর পর তারা পৃথিবীতে ফিরে এলেন।
+
+Options:
+ঘ. যাত্রাকালে পৃথিবীতে উভয়ের ভর 70 kg হলে গতিশীল অবস্থায় তাদের ভর সমান কি না— গাণি তিক বিশ্লেষণের মাধ্যমে দেখাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,করিরের নিশ্চল ভর, [math]\mathrm{m}_{\mathrm{o}}=70 \mathrm{~kg}[/math]
+বেগ, v = 0.88 cশূন্যস্থানে আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+চলন্ত অবস্থায় কবিরের ভর, [math]\mathrm{m}_{1}=?[/math]
+আমরা জানি,চলমান ভর,[math]\begin{aligned}\mathrm{m}_{1} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{70}{\sqrt{1-(0.88)^{2}}} \\& =147.38 \mathrm{~kg}\end{aligned}[/math]
+এখানে,আবিরের ভর, [math]\mathrm{m}_{\mathrm{o}}=70 \mathrm{~kg}[/math]
+বেগ, v = 0.99 cশূন্যস্থানে আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+চলন্ত অবস্থায় আবিরের ভর, [math]\mathrm{m}_{2}=\text { ? }[/math]
+আবার,আমরা জানি,চলমান ভর,[math]\begin{aligned}\mathrm{m}_{2} & =\frac{\mathrm{m}_{\mathrm{o}}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\& =\frac{70}{\sqrt{1-(0.99)^{2}}} \\& =496.22 \mathrm{~kg}\end{aligned}[/math]
+ [math]\because \mathrm{m}_{2}>\mathrm{m}_{1}[/math]
+ অতএব গতিশীল অবস্থায় তাদের ভর সমান হবে না। আবিরের ভর বেশি হবে।
+
+Explanation:
+ঘ না—গতিশীল ভর ভিন্ন হবে কারণ [math]m_{\text{rel}}=\gamma m_0[/math] যেখানে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math]. [math]v=0.88c\Rightarrow \gamma\approx2.105,[/math] তাই [math]m_{\text{rel}}\approx2.105\times70\approx147.4\ \text{kg}[/math]; [math]v=0.99c\Rightarrow \gamma\approx7.089,[/math] তাই [math]m_{\text{rel}}\approx7.089\times70\approx496.2\ \text{kg}[/math]. অতএব উভয়ের গতিশীল ভর সমান নয়।
+
+Sub-Questions:
+
+================================================================================
+Question #38 (ID: 430824)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একটি যুদ্ধবিমানের চলমান দৈর্ঘ্য [math]180 \mathrm{~m}[/math] এবং চলমান ভর [math]18000 \mathrm{~kg}[/math]। এটি কোনো স্থির পর্যবেক্ষকের সাপেক্ষে [math]18 \times 10^{7} \mathrm{~ms}^{-1}[/math] বেগে গতিশীল।
+
+Options:
+ঘ. উদ্দীপকে উল্লিখিত যুদ্ধ বিমানের বেগ অর্ধেক করা হলে এর ভর স্থির ভরের দ্বিগুণ হবে কিনা? গাণিতিকভাবে বিশ্লেষণ করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+বিমানের বেগ, [math]\mathrm{v}=\frac{18 \times 10^{7}}{2} \mathrm{~ms}^{-1}=9 \times 10^{7} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+বিমানের স্থির ভর [math]=m_{0}[/math]
+ [math]\hspace{1 cm}[/math]
+বিমানের চলমান ভর [math]=m[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ m=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}\\ \Rightarrow m=\frac{m_{0}}{\sqrt{1-\frac{\left(9 \times 10^{7}\right)^{2}}{\left(3 \times 10^{8}\right)^{2}}}}\\ \Rightarrow m=\frac{m_{0}}{0.954} \\ \therefore ~ m=1.048 m_{0} 
+eq 2 m_{0} \end{array}[/math]
+অতএব, উদ্দীপকে উল্লিখিত যুদ্ধ বিমানের বেগ অর্ধেক করা হলে এ ভর স্থির ভরের দ্বিগুণ হবে না, 1.048 গুণ হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ আপেক্ষিক ভর নির্ণয়ের সূত্র [math]m=\gamma m_{0},\;\gamma=\dfrac{1}{\sqrt{1-v^{2}/c^{2}}}[/math]। বেগ অর্ধেক করলে [math]v'=\tfrac{1.8\times10^{8}}{2}=9.0\times10^{7}\ \mathrm{m/s}[/math], তাই [math]v'/c=0.3[/math] এবং [math]\gamma'=\dfrac{1}{\sqrt{1-0.3^{2}}}\approx1.048[/math], ফলে ভর হবে [math]m'\approx1.048\times18000\approx18864\ \mathrm{kg}[/math], যা স্থির ভরের দ্বিগুণ ([math]36000\ \mathrm{kg}[/math]) নয়। দ্বিগুণ ভর পেতে [math]\gamma=2[/math] প্রয়োজন, যা হলে [math]v=c\sqrt{1-1/4}=\tfrac{\sqrt{3}}{2}c\approx0.866c[/math] লাগবে — অত্যন্ত উচ্চ গতিতে।
+
+Sub-Questions:
+
+================================================================================
+Question #39 (ID: 430825)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Mymensingh Board | Tags: Mymensingh Board
+--------------------------------------------------------------------------------
+Question:
+একজন মহাশূন্যচারী একটি কাল্পনিক গ্রহের ঘনত্ব পর্যবেক্ষণের জন্য মহাশূন্যযানে চড়ে গ্রহটির ব্যাস বরাবর [math]1.8 \times 10^{8}~\mathrm{ms}^{-1}[/math] বেগে যাচ্ছেন। গ্রহটির স্থির ভর [math]7.4 \times 10^{28} \mathrm{~kg}[/math] এবং ব্যাস [math]14200 \mathrm{~km}[/math]।
+
+Options:
+গ. গতিশীল অবস্থায় মহাশূন্যচারীর নিকট গ্রহটির ভর কত হবে নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+গ্রহটির স্থির ভর, [math]\mathrm{m}_{0}=7.4 \times 10^{28} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+আপেক্ষিক বেগ, [math]v=1.8 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]c=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+গতিশীল অবস্থায় গ্রহটির স্তর m = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\ \Rightarrow \mathrm{m}=\frac{7.4 \times 10^{28}}{\sqrt{1-\frac{\left(1.8 \times 10^{8}\right)^{2}}{\left(3 \times 10^{8}\right)^{2}}}} \\ \therefore ~ \mathrm{m}=9.25 \times 10^{28} \mathrm{~kg} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ চলন্ত পর্যবেক্ষকের কাছে ভর বৃদ্ধি পায় এবং এটি নির্ণয় করা হয় [math]M=\gamma M_0[/math], যেখানে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math]. এখানে [math]v=1.8\times10^8\ \mathrm{m/s}[/math] ও [math]c\approx3.0\times10^8\ \mathrm{m/s}[/math], ফলে [math]\beta=v/c=0.6[/math] এবং [math]\gamma=1/\sqrt{1-0.6^2}=1.25[/math]. তাই গতিশীল অবস্থায় পর্যবেক্ষকের কাছে গ্রহটির ভর [math]M=1.25\times7.4\times10^{28}=9.25\times10^{28}\ \mathrm{kg}[/math] হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #40 (ID: 430826)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+একটি ফুটবল খেলার মাঠের দৈর্ঘ্য [math]400 \mathrm{~m}[/math] এবং প্রস্থ [math]200 \mathrm{~m}[/math]। একজন নভোচারী [math]0.86 \mathrm{~c}[/math] বেগে [math]1000 \mathrm{~kg}[/math] ভরের একটি নভোযানে চড়ে মাঠটির দৈর্ঘ্য বরাবর অতিক্রম করল।
+
+Options:
+গ. নভোযানটির আপাত ভর নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+নভোযানের স্থির ভর, [math]m_0[/math]
+ = 1000 kg[math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+নভোযানের আপাত ভর, m = ?আমরা জানি,[math]\hspace{1.5 cm}\begin{array}{l} \quad ~ \mathrm{m}=\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\ \Rightarrow m=\frac{1000}{\sqrt{1-\frac{(0.86 \mathrm{c})^{2}}{\mathrm{c}^{2}}}} \\ \Rightarrow \mathrm{m}=\frac{1000}{\sqrt{1-(0.86)^{2}}} \\ \therefore~ \mathrm{m}=1959.65 \mathrm{~kg} \text { (Ans.) } \end{array}[/math]
+
+
+Explanation:
+গ নভোযানটির আপাত ভর নির্ণয় করা হয় সূত্র [math]m=\gamma m_0[/math] দিয়ে, যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]; [math]v=0.86c[/math] হলে [math]\gamma=\dfrac{1}{\sqrt{1-0.86^2}}=\dfrac{1}{\sqrt{0.2604}}\approx1.959[/math]. তাই আপাত ভর [math]m\approx1.959\times1000\ \mathrm{kg}\approx1.96\times10^3\ \mathrm{kg}[/math], অর্থাৎ প্রায় [math]1960\ \mathrm{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #41 (ID: 430827)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2021 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+পৃথিবীর পৃষ্ঠ হতে [math]250[/math] আলোকবর্ষ দূরে একটি গ্রহের উপর। গবেষণা করার জন্য একদল গবেষক [math]60[/math] বছর বয়সী একটি প্রাণীকে [math]0.6\rm{~c}[/math] বেগে চলমান নভোযানের মাধ্যমে ঐ গ্রহে পাঠায়। ঐ প্রাণীর [math]20 \text{ kg}[/math]। [math]1[/math] আলোকবর্ষ [math]=9.4 \times 10^{15} \mathrm{~m}[/math] প্রাণীটির গড় আয়ুষ্কাল [math]100[/math] বছর।
+
+Options:
+গ. উদ্দীপকের আলোকে চলন্ত অবস্থায় প্রাণীটির ভর কত হবে? বের করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+প্রাণীটির নিশ্চল ভর, [math]\mathrm{m}_{\mathrm{0}}=20 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বেগ, v = 0.6 c[math]\hspace{1 cm}[/math]
+শূন্যস্থানে আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+চলন্ত অবস্থায় প্রাণীটির ভর, m = ?আমরা জানি, চলমান ভর,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}} {\mathrm{c}^{2}}}} \\ & =\frac{20}{\sqrt{1-(0.6)^{2}}} \\ & =28 \mathrm{~kg} \end{aligned}[/math]
+ [math]\therefore[/math]
+ চলন্ত অবস্থায় প্রাণীটির ভর 28 kg (Ans)
+
+Explanation:
+গ চলন্ত ভর হলো বিশ্রাম ভরের সাথে লরেংজ ফ্যাক্টর [math]\gamma[/math] গুণ করলে পাওয়া যায়: [math]m=\gamma m_0,\quad \gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math]. এখানে [math]v=0.6c[/math] হলে [math]\gamma=1/\sqrt{1-0.6^2}=1/0.8=1.25[/math], সুতরাং [math]m=1.25\times20\ \text{kg}=25\ \text{kg}[/math]. এইজন্য গতিশীল প্রানীর ভর 25 kg হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #42 (ID: 430828)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+কোনো পরমাণুর দুটি ইলেকট্রনের বেগ যথাক্রমে [math]0.90\ \mathrm{C}[/math] এবং [math]0.99 \rm{c}[/math]। এখানে [math]\rm{c}[/math] হলো আলোর বেগ এবং ইলেকট্রনের স্থির ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]।
+
+Options:
+গ. দ্বিতীয় ইলেকট্রনটির গতিশীল ভর নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+ইলেক্ট্রনের স্থির ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+ইলেক্ট্রনের বেগ, v = 0.99 cইলেক্ট্রনটির গতিশীল ভর,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{9.1 \times 10^{-31}}{\sqrt{1-\left(\frac{0.99 \mathrm{c}}{\mathrm{c}}\right)^{2}}} \mathrm{~kg} \\ \therefore ~ \mathrm{m} & =6.45 \times 10^{-30} \mathrm{~kg} \end{aligned}[/math]
+অতএব, উদ্দীপকের দ্বিতীয় ইলেক্ট্রনটির গতিশীল ভর [math]6.45 \times 10^{-30} \mathrm{~kg}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: গ বিশেষ আপেক্ষিকতাবাদের অনুযায়ী গতিশীল ভর = [math]\gamma m_0[/math] যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-(v/c)^2}}[/math]. এখানে [math]v=0.99c[/math] হলে [math]\gamma\approx\dfrac{1}{\sqrt{1-0.99^2}}=\dfrac{1}{\sqrt{0.0199}}\approx7.09[/math], অতএব গতিশীল ভর [math]m=\gamma m_0\approx7.09\times9.1\times10^{-31}\approx6.45\times10^{-30}\ \mathrm{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #43 (ID: 430829)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+কোনো পরমাণুর দুটি ইলেকট্রনের বেগ যথাক্রমে [math]0.90\ \mathrm{C}[/math] এবং [math]0.99 \rm{c}[/math]। এখানে [math]\rm{c}[/math] হলো আলোর বেগ এবং ইলেকট্রনের স্থির ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]।
+
+Options:
+ঘ. উদ্দীপকের কোনো ইলেকট্রনের আপেক্ষিক গতিশক্তি বেশি হবে? গাণিতিকভাবে যাচাইপূর্বক মন্তব্য কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+ইলেক্ট্রনের স্থির ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+ইলেক্ট্রনের বেগ, v = 0.99 cইলেক্ট্রনটির গতিশীল ভর,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{9.1 \times 10^{-31}}{\sqrt{1-\left(\frac{0.99 \mathrm{c}}{\mathrm{c}}\right)^{2}}} \mathrm{~kg} \\ \therefore ~ \mathrm{m} & =6.45 \times 10^{-30} \mathrm{~kg} \end{aligned}[/math]
+অতএব, উদ্দীপকের দ্বিতীয় ইলেক্ট্রনটির গতিশীল ভর [math]6.45 \times 10^{-30} \mathrm{~kg}[/math]
+।এখন, ১ম ইলেক্ট্রনটির গতিশীল ভর,[math]\hspace{1.5 cm}\begin{aligned} \quad \mathrm{m}^{\prime} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{\prime}^{\prime 2}}{\mathrm{c}^{2}}}} \\ \Rightarrow \mathrm{m}^{\prime} & =\frac{9.1 \times 10^{-31}}{\sqrt{1-\left(\frac{0.9 \mathrm{c}}{\mathrm{c}}\right)^{2}}} \mathrm{~kg} \\ \therefore \quad \mathrm{m}^{\prime} & =2.09 \times 10^{-30} \mathrm{~kg} \end{aligned}[/math]
+ [math]\therefore[/math]
+ ১ম ইলেক্ট্রনটির আপেক্ষিক গতিশক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T}^{\prime} & =\mathrm{m}^{\prime} \mathrm{c}^{2}-\mathrm{m}_{0} \mathrm{c}^{2} \\ \Rightarrow \mathrm{T}^{\prime} & =\left(\mathrm{m}^{\prime}-\mathrm{m}_{0}\right) \mathrm{c}^{2} \\ & =\left(2.09 \times 10^{-30}-9.1 \times 10^{-31}\right) \times\left(3 \times 10^{8}\right)^{2} \mathrm{~J} \\ & =1.06 \times 10^{-13} \mathrm{~J} \\ \therefore \mathrm{~T}^{\prime} & =662446.8 \mathrm{eV} \end{aligned}[/math]
+২য় ইলেক্ট্রনটির আপেক্ষিক গতিশক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{T} & =\mathrm{mc}^{2}-\mathrm{m}_{0} \mathrm{c}^{2} \\ \Rightarrow \mathrm{T} & =\left(\mathrm{m}-\mathrm{m}_{0}\right) \mathrm{c}^{2}=\left(6.45 \times 10^{-30}-9.1 \times 10^{-31}\right) \times\left(3 \times 10^{8}\right)^{2} \mathrm{~J} \\ \Rightarrow \mathrm{T} & =4.99 \times 10^{-13} \mathrm{~J} \\ \therefore \mathrm{~T} & =3116250 \mathrm{eV} \end{aligned}[/math]
+দেখা যাচ্ছে, [math]\mathrm{T}>\mathrm{T}^{\prime}[/math]
+অতএব, উদ্দীপকের ২য় ইলেক্ট্রনটির আপেক্ষিক গতিশক্তি বেশি হবে।
+
+Explanation:
+ব্যাখ্যা:
+ঘ আপেক্ষিক কাইনেটিক শক্তি গণনা করতে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math] ব্যবহার করি; ফলে [math]\gamma_{0.9}\approx2.294,\ \gamma_{0.99}\approx7.089[/math]. কাইনেটিক শক্তি [math]K=(\gamma-1)mc^2[/math] হওয়ায় [math]K_{0.9}\approx1.294\,mc^2[/math] এবং [math]K_{0.99}\approx6.089\,mc^2[/math]; সুতরাং [math]0.99c[/math] বেগের ইলেকট্রনের আপেক্ষিক গতিশক্তি অনেক বেশি (প্রায় 4.7 গুণ)।
+
+Sub-Questions:
+
+================================================================================
+Question #44 (ID: 430830)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+ধর, [math]370[/math] আলোক বর্ষ দূরে অবস্থিত প্রাণীর বসবাস উপযোগী একটি গ্রহের সন্ধান পেয়ে নাসার বিজ্ঞানীরা [math]50[/math] বছর বয়সী একটি কাছিমকে [math]0.7\ \rm{c}[/math] বেগে চলমান নভোযানে করে ঐ গ্রহের উদ্দেশ্যে পাঠায়। কাছিমের ভর [math]30 \text{ kg}[/math] এবং গড় আয়ু [math]450[/math] বছর। [math]1[/math] আলোক বর্ষ [math]=9.46 \times 10^{15} \mathrm{~m}[/math]।
+
+Options:
+গ. চলন্ত অবস্থায় কাছিমের শক্তি নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, চলন্ত অবস্থায় কাছিমের শক্তি [math]E_R[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+কাছিমের স্থির ভর, [math]\mathrm{m}_{0}=30 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বেগ, [math]\mathrm{v}=0.7 ~c[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+চলন্ত অবস্থায় কাছিমের গতিশক্তি, E = ?চলন্ত অবস্থায় ভর m হলে,[math]\hspace{1.5 cm}\begin{aligned} m & =\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} \\ & =\frac{30 \mathrm{~kg}}{\sqrt{1-\left(\frac{7 c}{c}\right)^{2}}} \\ & =42 \mathrm{~kg} \end{aligned}[/math]
+চলন্ত অবস্থায় মোট শক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{E}_{\mathrm{R}} & =\mathrm{mc}^{2}=42 \mathrm{~kg} \times\left(3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}\right)^{2} \\ & =3.781 \times 10^{18} \mathrm{~J} \end{aligned}[/math]
+সুতরাং চলন্ত অবস্থায় কাছিমের শক্তি [math]3.781 \times 10^{18} \mathrm{~J}[/math]
+।
+
+Explanation:
+গ চলন্ত kinetic শক্তির জন্য আপেক্ষিক সূত্র ব্যবহার করা হয়: [math]K=(\gamma-1)mc^2[/math], যেখানে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math]. এখানে [math]v=0.7c[/math] হলে [math]\gamma\approx1/\sqrt{1-0.49}\approx1.40028[/math], তাই [math]\gamma-1\approx0.40028[/math], এবং [math]m=30\ \mathrm{kg}[/math] হলে [math]K\approx0.40028\times30(3.0\times10^8)^2\approx1.08\times10^{18}\ \mathrm{J}[/math] — তাই কাছিমের চলন্ত শক্তি প্রায় [math]1.08\times10^{18}\ \mathrm{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #45 (ID: 430831)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards:  | Tags: Jessore Board
+--------------------------------------------------------------------------------
+Question:
+[math]50[/math] বছর বয়সে একজন মহাশূন্যচারী মহাশূন্যযানে চড়ে মহাকাশ অভিযানে গেলেন এবং [math]30[/math] বছর পর পৃথিবীতে ফিরে এলেন। মহাশূন্যযানের ভর [math]= 720\ \rm{kg}[/math], মহাশূন্যযানের বেগ [math]=3.72 \times 10^{5} \mathrm{~ms}^{-1}[/math], আলোর গতি [math]=3 \times 10^{8} \mathrm{~ms}^ {-1}[/math]।
+
+Options:
+ঘ. মহাশূন্যযানের মূল ভরের পরিবর্তন কীরূপ হবে? গাণিতিক ব্যাখ্যা দাও।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+মহাশূন্যযানের নিশ্চল ভর, [math]\mathrm{m}_{0}=720 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+বেগ, [math]\mathrm{v}=3.72 \times 10^{5} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর গতি, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{720 \mathrm{~kg}}{\sqrt{1-\left(\frac{3.72 \times 10^{5} \mathrm{~m} \mathrm{~s}^{-1}}{3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}}\right)^{2}}} \\ & =720.0006 \mathrm{~kg} \end{aligned}[/math]
+মহাশূন্যযানের মূল ভরের পরিবর্তন[math]\hspace{2.5 cm}\begin{array}{l} =720.0006 \mathrm{~kg}-720 \mathrm{~kg} \\ =0.0006 \mathrm{~kg}=0.6 \mathrm{~g} \end{array}[/math]
+অতএব, উপরের গাণিতিক বিশ্লেষণ হতে বলা যায় যে, [math]3.72 \times 10^{5} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ বেগে মহাশূন্যযানটি গতিশীল হলে এর ভর 0.6 g বৃদ্ধি পাবে।
+
+Explanation:
+ঘ ব্যাখ্যা: মূল ভর (proper/rest mass) অপরিবর্তিত থাকে, অর্থাৎ [math]m_0=720\ \rm{kg}[/math] একই থাকে; তবে গতির কারণে রিলেটিভিস্টিক ভর বেড়ে যায় এবং [math]m=\gamma m_0[/math] যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]। এখানে [math]v=3.72\times10^5\ \rm{m\,s^{-1}},\ c=3\times10^8\ \rm{m\,s^{-1}}[/math], ফলে [math]v^2/c^2\approx1.5376\times10^{-6},\ \gamma\approx1.0000007688[/math], তাই রিলেটিভিস্টিক ভর [math]m\approx720\times1.0000007688\approx720.0005535\ \rm{kg}[/math], বৃদ্ধি ≈[math]5.535\times10^{-4}\ \rm{kg}\approx0.5535\ \rm{g}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #46 (ID: 430832)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+দুটি ইলেক্ট্রন যথাক্রমে [math]0.866\ \mathrm{c}[/math] এবং [math]0.99\ \mathrm{c}[/math] বেগে গতিশীল। ইলেক্ট্রনের নিশ্চল ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]।
+
+Options:
+গ. প্রথম ইলেক্ট্রনের গতিশীল ভর নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, ১ম ইলেকট্রনের গতিশীল ভর, [math]m_1[/math]
+উদ্দীপক হতে,[math]\hspace{1 cm}[/math]
+১ম ইলেকট্রনের বেগ, [math]v_{1}=0.866 \mathrm{c}[/math]
+ [math]\hspace{1 cm}[/math]
+এবং নিশ্চল ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m}_{1} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{9.1 \times 10^{-31} \mathrm{~kg}}{\sqrt{1-\left(\frac{0.866 \mathrm{c}}{\mathrm{c}}\right)^{2}}} \\ \therefore \quad \mathrm{m}_{1} & =1.82 \times 10^{-30} \mathrm{~kg} \end{aligned}[/math]
+সুতরাং ১ম ইলেকট্রনের গতিশীল ভর [math]1.82 \times 10^{-30} \mathrm{~kg}[/math]
+।
+
+Explanation:
+গ সূত্র: [math]m=\gamma m_0,\quad \gamma=\frac{1}{\sqrt{1-(v/c)^2}}[/math]. এখানে [math]v=0.866c[/math] হলে [math](v/c)^2=0.75[/math], তাই [math]\gamma=1/\sqrt{1-0.75}=2[/math] এবং [math]m=2\times9.1\times10^{-31}=1.82\times10^{-30}\ \mathrm{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #47 (ID: 430833)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+দুটি ইলেক্ট্রন যথাক্রমে [math]0.866\ \mathrm{c}[/math] এবং [math]0.99\ \mathrm{c}[/math] বেগে গতিশীল। ইলেক্ট্রনের নিশ্চল ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]।
+
+Options:
+ঘ. প্রথম ইলেক্ট্রনের আপেক্ষিকতার গতিশক্তি দ্বিতীয় ইলেক্ট্রনের চেয়ে কম—গাণিতিক বিশ্লেষণের মাধ্য মে প্রমাণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘধরি, ১ম ইলেকট্রনের আপেক্ষিকতার গতিশক্তি [math]\mathrm{E}_{\mathrm{k}_{1}}[/math]
+এবং ২য় ইলেকট্রনের আপেক্ষিকতার গতিশক্তি [math]\mathrm{E}_{\mathrm{k}_{2}}[/math]
+উদ্দীপক অনুসারে,[math]\hspace{1 cm}[/math]
+১ম ও ২য় ইলেকট্রনের নিশ্চল ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+১ম ইলেকট্রনের গতিশীল ভর, [math]\mathrm{m}_{1}=1.82 \times 10^{-30} \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+২য় ইলেকট্রনের বেগ, [math]v_{2}=0.99 \mathrm{~c}[/math]
+ [math]\hspace{1 cm}[/math]
+এবং গতিশীল ভর, [math]\mathrm{m}_{2}=\text {?}[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m}_{2} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{9.1 \times 10^{-31} \mathrm{~kg}}{\sqrt{1-\left(\frac{0.99 \mathrm{c}}{\mathrm{c}}\right)^{2}}} \\ \therefore \quad \mathrm{m}_{2} & =6.45 \times 10^{-30} \mathrm{~kg} \end{aligned}[/math]
+আবার,[math]\hspace{1.5 cm}\begin{aligned} E_{k_{1}} & =\left(m_{1}-m_{0}\right)^{2} \\ & =\left(1.82 \times 10^{-30} \mathrm{~kg}-9.1 \times 10^{-31} \mathrm{~kg}\right) \mathrm{c}^{2}=9.1 \times 10^{-31} \mathrm{c}^{2} \mathrm{~kg} \end{aligned}[/math]
+এবং[math]\hspace{1.5 cm}\begin{aligned} E_{\mathrm{k}_{2}} & =\left(m_{2}-m_{0}\right)^{2} \\ & =\left(6.45 \times 10^{-30} \mathrm{~kg}-9.1 \times 10^{-31} \mathrm{~kg}\right) \mathrm{c}^{2} \\ & =5.54 \times 10^{-30} \mathrm{c}^{2} \mathrm{~kg} \end{aligned}[/math]
+অর্থাৎ [math]\mathrm{E}_{\mathrm{k}_{1}}<\mathrm{E}_{\mathrm{k}_{2}}[/math]
+অতএব, গাণিতিক বিশ্লেষণের মাধ্যমে প্রমাণিত হয় যে, প্রথম ইলেকট্রনের আপেক্ষিকতা গতিশক্তি দ্বিতীয় ইলেকট্রনের চেয়ে কম।
+
+Explanation:
+ঘ আপেক্ষিক গতিশক্তি হিসাব করতে [math]\gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math] এবং [math]K=(\gamma-1)mc^2[/math] ব্যবহার করি। v=[math]0.866c[/math] হলে [math]v^2/c^2=0.75[/math] তাই [math]\gamma_1=2[/math] এবং [math]K_1=(2-1)mc^2=mc^2[/math]; v=[math]0.99c[/math] হলে [math]\gamma_2\approx7.09[/math] এবং [math]K_2\approx6.09\,mc^2[/math], ফলে প্রথম ইলেক্ট্রনের গতিশক্তি দ্বিতীয়টির তুলনায় অনেক কম।
+
+Sub-Questions:
+
+================================================================================
+Question #48 (ID: 430834)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2016 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+ভূপৃষ্ঠে একটি রকেট এর দৈর্ঘ্য [math]10 \mathrm{~m}[/math] এবং ভর [math]5000 \mathrm{~kg}[/math]. এটি ভূপৃষ্ঠের কোনো স্থির পর্যবেক্ষকের সাপেক্ষে [math]3 \times 10^{7} \mathrm{~ms}^{-1}[/math] বেগে চলতে শুরু করল।
+
+Options:
+ঘ. উদ্দীপকে রকেটটির বেগ দ্বিগুণ করা হলে এর ভরের কিরূপ পরিবর্তন হবে— গাণিতিক বিশ্লেষণসহ ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+রকেটের বেগ, [math]\mathrm{v}=2 \times 3 \times 10^{7} \mathrm{~m} \mathrm{~s}^{-1}=6 \times 10^{7} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+স্থির ভর, [math]\mathrm{m}_{0}=5000 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+ধরি, চলমান ভর, [math]= m_1[/math]
+আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\frac{5000 \mathrm{~kg}}{\sqrt{1-\left(\frac{6 \times 10^{7} \mathrm{~ms}^{-1}}{3 \times 10^{8} \mathrm{~ms}^{-1}}\right)^{2}}} \\ & =\frac{5000 \mathrm{~kg}}{\sqrt{1-0.04}}=\frac{5000 \mathrm{~kg}}{0.9798}=5103.08 \mathrm{~kg} \end{aligned}[/math]
+অর্থাৎ রকেটের চলমান ভর 5103.08 kg[math]\therefore[/math]
+ ভরের পরিবর্তন [math]=(5103.08-5000) \mathrm{kg}=103.08 \mathrm{~kg}[/math]
+অতএব, উপরের গাণিতিক বিশ্লেষণ হতে বলা যায় যে, রকেটের বেগ দ্বিগুণ করা হলে ভর 103.08 kg বৃদ্ধি পাবে।
+
+Explanation:
+ঘ রিলেটিভিস্টিক ভর ব্যবহারে [math]m=\gamma m_{0}[/math] যেখানে [math]\gamma=\dfrac{1}{\sqrt{1-v^{2}/c^{2}}}[/math]. শুরুতে [math]v_{1}=3\times10^{7}\,\mathrm{m/s}(\beta=0.1)[/math] হলে [math]\gamma_{1}\approx1.005[/math] তাই [math]m_{1}\approx1.005\times5000\approx5025\ \mathrm{kg}[/math]; বেগ দ্বিগুণ করলে [math]v_{2}=6\times10^{7}\,\mathrm{m/s}(\beta=0.2)[/math] হলে [math]\gamma_{2}\approx1.0206[/math] ও [math]m_{2}\approx1.0206\times5000\approx5103\ \mathrm{kg}[/math]. অর্থাৎ ভর সামান্য বাড়ে (প্রায় [math]78\ \mathrm{kg}[/math]) কিন্তু দ্বিগুণ হয় না।
+
+Sub-Questions:
+
+================================================================================
+Question #49 (ID: 430835)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+আকমলের ভর [math]55 \mathrm{~kg}[/math] এবং বয়স 40 বছর। সে [math]2.4 \times 10^{8} \mathrm{~ms}^{-1}[/math] বেগে গতিশীল মহাশূন্যযানে চড়ে ছায়াপথ অনুসন্ধানে গেল। তার যমজ ভাই তাজমলের বয়স যখন [math]80[/math] বছর হলো তখন সে পৃথিবীতে ফিরে এলো।
+
+Options:
+গ. মহাশূন্যযানে আকমলের ভর নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+পৃথিবীতে অবস্থানকালে আকমলের ভর, [math]m_{0}=55 \mathrm{~kg}[/math]
+ [math]\hspace{1 cm}[/math]
+মহাশূন্যযানের বেগ, [math]\mathrm{v}=2.4 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+আলোর বেগ, [math]\mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ [math]\hspace{1 cm}[/math]
+মহাশূন্যযানে আকমলের ভর, [math]m =[/math]
+ কত?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m} &= \frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} \\ \Rightarrow \mathrm{m} & =\frac{55}{\sqrt{1-\left(\frac{2.4 \times 10^{9}}{3 \times 10^{5}}\right)^{2}}} \mathrm{~kg} \\ & =\frac{55}{\sqrt{1-0.64} \mathrm{~kg}} \\ & =\frac{55}{0.6} \mathrm{~kg} \\ & =91.67 \mathrm{~kg} \end{aligned}[/math]
+ [math]\therefore[/math]
+ মহাশূন্যযানে আকমলের ভর 91.67 kg।
+
+Explanation:
+সমাধান:
+গ মহাশূন্যযানে দেখা রিলেটিভিস্টিক ভর নির্ণয়ের জন্য [math]m=\gamma m_0[/math] where [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]. এখানে [math]v=0.8c[/math], তাই [math]\gamma=\dfrac{1}{\sqrt{1-0.8^2}}=\dfrac{1}{0.6}=\dfrac{5}{3}[/math]. ফলে [math]m=\dfrac{5}{3}\times 55=\dfrac{275}{3}\approx 91.7\ \text{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #50 (ID: 430836)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2015 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+[math]20 \mathrm{~kg}[/math] ভরের ও [math]10 \mathrm{~m}[/math] দৈর্ঘ্যের কোনো একটি বস্তু স্থিরাবস্থা থেকে [math]0.5 \mathrm{~c}[/math]বেগে চলা আরম্ভ করলো।
+
+Options:
+ঘ. নিউটনীয় বলবিদ্যা হতে প্রাপ্ত গতিশক্তি ও আপেক্ষিক তত্ত্ব অনুসারে গতিশক্তি এক নয়— উদ্দীপকে প্রদত্ত তথ্যের আলোকে বিশ্লেষণ কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএখানে,[math]\hspace{1 cm}[/math]
+ভর, [math]m_0[/math]
+ = 20 kg[math]\hspace{1 cm}[/math]
+দ্রুতি বা বেগ, v = 0.5 c[math]\hspace{1 cm}[/math]
+গতিশক্তি = ?নিউটনীয় বলবিদ্যা অনুসারে, গতিশক্তি[math]\hspace{1.5 cm}\begin{array}{l} =\frac{1}{2} \mathrm{mv}^{2}=\frac{1}{2} \times 20 \mathrm{~kg} \times(0.5 \mathrm{c})^{2} \\ =10 \times 0.25 \times\left(3 \times 10^{8}\right)^{2} \mathrm{~J} \\ =22.5 \times 10^{16} \mathrm{~J} \end{array}[/math]
+আবার, আপেক্ষিক তত্ত্ব অনুসারে গতিশক্তি, [math]K=\left(m-m_{0}\right) c^{2}[/math]
+এখানে,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{m} & =\frac{\mathrm{m}_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} \\ & =\frac{20}{\sqrt{1-\left(\frac{0.5 \mathrm{c}}{\mathrm{c}}\right)^{2}}}=\frac{20}{\sqrt{1-.25}} \mathrm{~kg} \\ & =23.094 \mathrm{~kg} \end{aligned}[/math]
+ [math]\therefore[/math]
+ গতিশক্তি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{K} & =\left(\mathrm{m}-\mathrm{m}_{0}\right) \mathrm{c}^{2} \\ & =(23.094-20) \mathrm{kg} \times\left(3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}\right)^{2} \\ & =27.846 \times 10^{16} \mathrm{~J} \end{aligned}[/math]
+ [math]\therefore[/math]
+ আপেক্ষিক তত্ত্ব অনুসারে কোনো বস্তুর গতিশক্তি নিউটনীয় বলবিদ্যা হতে প্রাপ্ত গতিশক্তি অপেক্ষা বেশি।
+
+Explanation:
+ঘ নিউটনীয় গতিশক্তি [math]K_{\rm N}=\tfrac{1}{2}mv^2[/math] এবং আপেক্ষিকগতিসূত্র অনুযায়ী গতিশক্তি [math]K_{\rm rel}=(\gamma-1)mc^2,\;\gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math]। এখানে [math]v=0.5c[/math] হলে [math]\gamma=1/\sqrt{1-0.25}\approx1.1547[/math], ফলে [math]K_{\rm N}=\tfrac{1}{2}\cdot20\cdot(0.5c)^2=2.5\,c^2[/math] এবং [math]K_{\rm rel}=(1.1547-1)\cdot20\,c^2\approx3.094\,c^2[/math]। তাই দুইটি সমান নয় — নিউটনীয় সূত্রে গতিশক্তি ছোট করে আনুমানিক ≈24% কম দেয়, আপেক্ষিক প্রভাব এই বেগে গুরুত্বপূর্ণ।
+
+Sub-Questions:
+
+================================================================================
+Question #51 (ID: 430837)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2017-2018 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি ইলেক্ট্রন ( নিশ্চল ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]) আলোর দ্রুতির [math]90\%[/math] দ্রুতিতে চলছে। আইনস্টাইনের আপেক্ষিক তত্ত্ব অনুসারে ইলেক্ট্রনটির গতিশক্তি নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]0.66244 \mathrm{MeV}[/math]
+)[math]\\[/math]
+Solution : ইলেকট্রনের নিশ্চল ভর [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+ইলেক্ট্রনের বেগ [math]v=90 \times \dfrac{1}{100} \times c \Rightarrow v=0.9 c[/math]
+ইলেকট্রনের গতিশক্তি [math]=m c^{2}-m_{0} c^{2}=\dfrac{m_{0}}{\sqrt{1-\dfrac{v^{2}}{c^{2}}}} \cdot c^{2}-m_{0} c^{2}\left[\because m=\dfrac{m_{0}}{\sqrt{1-\dfrac{v^{2}}{c^{2}}}}\right][/math]
+ [math]=m_{0} c^{2}\left\{\dfrac{1}{\sqrt{1-\dfrac{v^{2}}{c^{2}}}}-1\right\}=1.2941 \times 9.1 \times 10^{-31} \times\left(3 \times 10^{8}\right)^{2}[/math]
+ [math]=1.0599 \times 10^{-13} \mathrm{~J}=0.66244\ \mathrm{MeV} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: আপেক্ষিকতায় গতিশক্তি হয় [math]K=(\gamma-1)mc^2[/math] যেখানে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math]. [math]v=0.9c\Rightarrow \gamma\approx1/\sqrt{1-0.9^2}\approx2.294[/math], এবং [math]mc^2=(9.1\times10^{-31}\,\mathrm{kg})(3.0\times10^8\,\mathrm{m/s})^2\approx8.19\times10^{-14}\,\mathrm{J}[/math]; তাই [math]K=(2.294-1)(8.19\times10^{-14})\approx1.06\times10^{-13}\,\mathrm{J}[/math] (প্রায় [math]6.61\times10^5\,\mathrm{eV}\approx661\,\mathrm{keV}[/math])।
+
+Sub-Questions:
+
+================================================================================
+Question #52 (ID: 430838)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2004-2005 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+স্থির অবস্থায় একটি কণার ভর [math]10^{-30} \mathrm{~kg}[/math], যদি কণাটি একটি বেগ নিয়ে গতিশী ল হয়, তবে ভর হয় [math]1.25 \times 10^{-30} \mathrm{~kg}[/math] কণাটির বেগ কত?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1.8 \times 10^{8} \mathrm{~ms}^{-1}[/math]
+ )[math]\\[/math]
+Solution : আমরা জানি, [math]\mathrm{m}=\dfrac{\mathrm{m}^{0}}{\sqrt{1-\dfrac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}\\ \Rightarrow 1-\dfrac{\mathrm{v}^{2}}{\mathrm{c}^{2}}=\left(\dfrac{\mathrm{m}^{0}}{\mathrm{~m}}\right)^{2}\\ \Rightarrow \dfrac{\mathrm{v}^{2}}{\mathrm{c}^{2}}=1-\left(\dfrac{10^{-30}}{1.25 \times 10^{-30}}\right)^{2}=0.36[/math]
+ [math]\hspace{2 cm} \therefore \mathrm{v}=\mathrm{c} \times \sqrt{0.36}=0.6 \times 3 \times 10^{8}=1.8 \times 10^{8} \mathrm{~ms}^{-1} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: চলন্ত ভর লরেনৎস ফ্যাক্টর দ্বারা বড় হয়, [math]m=\gamma m_0[/math] যেখানে [math]\gamma=1/\sqrt{1-v^2/c^2}[/math]. এখানে [math]\gamma=1.25[/math], তাই [math]\sqrt{1-v^2/c^2}=1/1.25=0.8[/math] এবং ফলশ্রুতিতে [math]v=0.6c[/math], অর্থাৎ [math]v\approx1.8\times10^8\ \mathrm{m/s}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #53 (ID: 430839)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]1.67 \times 10^{-27} \mathrm{~kg}[/math] স্থিতিভরের একটি প্রোটন এর ভর দ্বিগুণ হতে হলে ক ত দ্রুতির প্রয়োজন হবে? প্রোটনটির উক্ত দ্রুতি অর্জন করতে যে শক্তির প্রয়োজন হবে তা বের কর। [ [math]\mathrm{c}=3 \times 10^{8} \mathrm{~m} / \mathrm{s}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]1.503 \times 10^{-10} \mathrm{~J}[/math]
+)[math]\\[/math]
+Solution : [math]m_{0}=1.67 \times 10^{-27} \mathrm{~kg}[/math]
+ [math]\hspace{2.1cm}\rm{m}=[/math]
+ গতিশীল অবস্থায় ভর[math]\hspace{2.1cm}\rm{v}=? \ \rm{E}=?[/math]
+আমরা জানি, [math]m=\dfrac{m_{0}}{\sqrt{1-\dfrac{v^{2}}{c^{2}}}} \Rightarrow \dfrac{m}{m_{0}}=\dfrac{1}{\sqrt{1-\dfrac{v^{2}}{c^{2}}}}\\ \Rightarrow 2=\dfrac{1}{\sqrt{1-\dfrac{v^{2}}{c^{2}}}} \Rightarrow \dfrac{v^{2}}{c^{2}}=0.75\\ \therefore \mathrm{v}=2.598 \times 10^{\mathrm{8}} \mathrm{ms}^{-1}[/math]
+প্রয়োজনীয় শক্তি [math]=[/math]
+ গতিশক্তি [math]=\left(m-m_{0}\right) c^{2}=\left(2 m_{0}-m_{0}\right) c^{2}=m_{0} c^{2}\\ =1.67 \times 10^{-27} \times\left(3 \times 10^{8}\right)^{2}=1.503 \times 10^{-10} \mathrm{~J} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: রিলেটিভিস্টিক ভর [math]m=\gamma m_0[/math] এবং ভর দ্বিগুণ হলে [math]\gamma=2[/math] হয়, তাই [math]\gamma=1/\sqrt{1-v^2/c^2}=2[/math] থেকে [math]v=c\sqrt{1-1/\gamma^2}=c\sqrt{3}/2\approx0.866c\approx2.60\times10^8\ \mathrm{m/s}[/math]. এই দ্রুতি অর্জনের জন্য প্রয়োজনীয় ঘণ্টিক শক্তি (kinetic energy) হল [math]K=(\gamma-1)m_0c^2=(2-1)m_0c^2=m_0c^2=1.67\times10^{-27}\times(3\times10^8)^2=1.503\times10^{-10}\ \mathrm{J}\approx9.38\times10^8\ \mathrm{eV}=938\ \mathrm{MeV}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #54 (ID: 430840)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2002-2003 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+[math]8.3 \times 10^{7} \mathrm{~ms}^{-1}[/math] গতিতে গতিশীল একটি প্রোটনের গতিশক্তি কত? সনাতন গতিশক্তির সাথে এর মানের তুলনা কর। [স্থির অবস্থায় প্রোটনের ভর [math]=1.67265 \times 10^{-27} \mathrm{~kg}, \mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1}[/math]]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]1.06: 1[/math]
+)[math]\\[/math]
+Solution : [math]E_{k}=\left(m-m_{0}\right) c^{2}\\ \ =\left(\dfrac{m_{0}}{\sqrt{1-\dfrac{v^{2}}{c^{2}}}}-m_{0}\right) c^{2}\\ \ =\left(\dfrac{1.67265 \times 10^{-27}}{\sqrt{1-\left(\dfrac{8.3 \times 10^{7}}{3 \times 10^{8}}\right)^{2}}}-1.67265 \times 10^{-27}\right) \times\left(3 \times 10^{8}\right)^{2}\\ \ =6.115 \times 10^{-12} \mathrm{~J}[/math]
+ [math]\hspace{1.5 cm}E_{k}^{\prime}[/math]
+ (সনাতন) [math]=\dfrac{1}{2}{m v^{2}}^{\prime}=\dfrac{1}{2} \times 1.67265 \times 10^{-27} \times\left(8.3 \times 10^{7}\right)^{2}=5.76 \times 10^{-12} \mathrm{~J} \\ \therefore \dfrac{E_{k}}{E_{k}}=\dfrac{6.115 \times 10^{-12}}{5.76 \times 10^{-12}}=1.06: 1[/math]
+
+
+Explanation:
+প্রথমত আপেক্ষিকগত গতিশক্তি হিসাব করি: [math]K=(\gamma-1)mc^2,\quad \gamma=\frac{1}{\sqrt{1-(v/c)^2}}\approx1.0407[/math], তাই [math]K\approx0.0407\times(1.67265\times10^{-27})(3\times10^8)^2\approx6.13\times10^{-12}\ \mathrm{J}[/math].  
+সনাতন সূত্রে [math]K_{\text{clas}}=\tfrac{1}{2}mv^2\approx\tfrac{1}{2}(1.67265\times10^{-27})(8.3\times10^7)^2\approx5.76\times10^{-12}\ \mathrm{J}[/math], সুতরাং সনাতন মান প্রায় [math]6.3\%[/math] কম। কারণ ভেলোসিটি [math]v\approx0.277c[/math], তাই আপেক্ষিকগত সংশোধন ছোট কিন্তু লক্ষণীয়।
+
+Sub-Questions:
+
+================================================================================
+Question #55 (ID: 430841)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2001-2002 | Boards:  | Tags: Bangladesh University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি প্রোটন [math]2.4 \times 10^{8} \mathrm{~ms}^{-1}[/math] গতিতে চললে তার গতিশক্তি কত হ বে? সনাতন গতিশক্তির সাথে এ মানের তুলনা কর। স্থির অবস্থায় প্রোটনের ভর [math]=1.7 \times 10^{-27} \mathrm{~kg~}[/math]; আলোর বেগ (শূন্য মাধমে) [math]=3.0 \times 10^{8} \mathrm{~ms}^{-1}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]2.082[/math]
+)[math]\\[/math]
+Solution : আপেক্ষিক তত্ত্বীয় গতিশক্তি, [math]\mathrm{E}_{\mathrm{R}}=\left(\mathrm{m}-\mathrm{m}_{0}\right) \mathrm{c}^{2}\\ =\left(\dfrac{1}{\sqrt{1-\dfrac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}-1\right) \mathrm{m}_{0} \mathrm{c}^{2}\\ =\left(\frac{1}{\sqrt{1-\left(\dfrac{2.4 \times 10^{8}}{3 \times 10^{8}}\right)^{2}}}-1\right) \times 1.7 \times 10^{-27} \times\left(3 \times 10^{8}\right)^{2}\\ =1.02 \times 10^{-10} \mathrm{~J}[/math]
+নিউটনের গতিশক্তি, [math]\mathrm{E}_{\mathrm{N}} =\dfrac{1}{2} \mathrm{mv}^{2}\\ \ =\dfrac{1}{2} \times 1.7 \times 10^{-27} \times\left(2.4 \times 10^{8}\right)^{2}\\ \ =4.9 \times 10^{-11} \mathrm{~J}[/math]
+ [math]\hspace{1.5 cm}[/math]
+ [math]\therefore \dfrac{E_{R}}{E_{N}}=\dfrac{1.02 \times 10^{-10}}{4.9 \times 10^{-11}}=2.082 \text {. (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: [math]\gamma=\frac{1}{\sqrt{1-v^2/c^2}}=\frac{1}{\sqrt{1-0.8^2}}=\frac{1}{0.6}=\tfrac{5}{3}[/math]. রিলেটিভিস্টিক গতিশক্তি: [math]K=(\gamma-1)mc^2=\tfrac{2}{3}\times(1.7\times10^{-27})(3.0\times10^8)^2\approx1.02\times10^{-10}\ \mathrm{J}[/math]; ক্লাসিক্যাল মান: [math]K_{\rm cl}=\tfrac12mv^2=\tfrac12(1.7\times10^{-27})(2.4\times10^8)^2\approx4.90\times10^{-11}\ \mathrm{J}[/math]. ফলে রিলেটিভিস্টিক মান ক্লাসিক্যাল মূল্যের প্রায় [math]2.08[/math] গুণ বেশি, তাই গতি এত উচ্চ হলে রিলেটিভিস্টিক গণনা জরুরি।
+
+Sub-Questions:
+
+================================================================================
+Question #56 (ID: 430842)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2010-2011 | Boards:  | Tags: Bangladesh University of Textiles
+--------------------------------------------------------------------------------
+Question:
+[math]1.6\ MeV[/math] গতি শক্তিতে গতিশীল একটি ইলেকট্রনের ভর নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]3.75 \times 10^{-30} \mathrm{~kg}[/math]
+)[math]\\[/math]
+Solution : [math]m=[/math]
+ গতিশীল অবস্থায় ভর [math]m_0[/math]
+ স্থির অবস্থায় ভরআমরা জানি, [math]K_{r}=\left(m-m_{o}\right) c^2[/math]
+ [math]\qquad \therefore 1.6 \times 10^{6} \times 1.6 \times 10^{-19}=\left(\mathrm{m}-9.1 \times 10^{-31}\right) \times\left(3 \times 10^{8}\right)^{2}[/math]
+ [math]\qquad \therefore \mathrm{m}=3.75 \times 10^{-30} \mathrm{~kg}[/math]
+
+
+Explanation:
+ব্যাখ্যা: ইলেকট্রনের মোট শক্তি [math]E=K+m_0c^2[/math] হলে আপেক্ষিক ভর [math]m=E/c^2=\gamma m_0[/math], যেখানে [math]\gamma=E/(m_0c^2)[/math]। গণনা করে, [math]m_0c^2=0.511\ \text{MeV},\ K=1.6\ \text{MeV}\Rightarrow E=2.111\ \text{MeV},\ \gamma\approx2.111/0.511\approx4.13[/math], তাই [math]m\approx4.13\,m_0\approx4.13\times9.11\times10^{-31}\ \text{kg}\approx3.77\times10^{-30}\ \text{kg}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #57 (ID: 430843)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2007-2008, 2006-2007 | Boards:  | Tags: Rajshahi University of Engineering & Technology, Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি স্থির ইলেক্ট্রনের ভর [math]9.1 \times 10^{-31} \mathrm{~kg}[/math]। ইলেক্ট্রনটি [math]0.99C[/math] গতি প্রাপ্ত হলে উহার ভর নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]6.45 \times 10^{-30} \mathrm{~kg}[/math]
+)[math]\\[/math]
+Solution : স্থির ইলেকট্রনের ভর, [math]\mathrm{m}_{0}=9.1 \times 10^{-31} \mathrm{~kg}[/math]
+।ইলেকট্রনে গতি, [math]\rm{v}=0.99 C[/math]
+ উহার গতিশীল অবস্থার ভর, [math]\rm{m} = ?[/math]
+আমরা জানি, [math]\mathrm{m}=\dfrac{\mathrm{m}_{0}}{\sqrt{1-\dfrac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\dfrac{9.1 \times 10^{-31} \mathrm{~kg}}{\sqrt{1-(0.99)^{2}}}=6.45 \times 10^{-30} \mathrm{~kg} \quad \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: আপেক্ষিকতাবাদীভাবে ভর লরেন্টজ ফ্যাক্টর দ্বারা বেড়ে যায়, [math]m=\gamma m_0,\quad \gamma=\frac{1}{\sqrt{1-v^2/c^2}}[/math].  
+v = 0.99c হলে [math]\gamma\approx\frac{1}{\sqrt{1-0.99^2}}\approx7.09[/math], তাই [math]m\approx7.09\times9.1\times10^{-31}\,\mathrm{kg}\approx6.46\times10^{-30}\,\mathrm{kg}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #58 (ID: 430844)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একজন লোকের ভর [math]99\ \rm{kg}[/math]। কত বেগের উড়ন্ত রকেটে থাকাকালীন মাটিতে অবস্থিত এ কজন পর্যবেক্ষকের নিকট তার ভর [math]100\ \rm{kg}[/math] হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+Solution : [math]\quad[/math]
+ [math]\mathrm{m}_{0}=99 \mathrm{~kg} \\ \mathrm{c}=3 \times 10^{8} \mathrm{~ms}^{-1} \\ \mathrm{m}=100 \mathrm{~kg} \\ \mathrm{v}=?[/math]
+ [math]\hspace{1.8 cm}\mathrm{m}=\dfrac{\mathrm{m}_{\mathrm{o}}}{\sqrt{1-\dfrac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}} \\ \hspace{1.5 cm} \Rightarrow 100=\dfrac{99}{\sqrt{1-\dfrac{\mathrm{v}^{2}}{\left(3 \times 10^{8}\right)^{2}}}}\\ \hspace{1.5 cm} \Rightarrow 1-\dfrac{\rm{v}^{2}}{\left(3 \times 10^{8}\right)^{2}}=.98\\ \hspace{1.5 cm} \Rightarrow \dfrac{\rm{v}^{2}}{\left(3 \times 10^{8}\right)^{2}}=0.02\\ \hspace{1.5 cm} \Rightarrow \rm{v}=4.24 \times 10^{7} \mathrm{~m} / \mathrm{sec} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: রিলেটিভিস্টিক ভরের সূত্র ব্যবহার করলে [math]\gamma = \dfrac{m_{\rm obs}}{m_0}=\dfrac{100}{99}[/math] এবং [math]\gamma=\dfrac{1}{\sqrt{1-v^2/c^2}}[/math]। সমাধান করলে [math]1-\dfrac{v^2}{c^2}=(99/100)^2[/math], তাই [math]v=c\sqrt{1-(99/100)^2}\approx0.141\,c\approx4.23\times10^{7}\ \rm m/s[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #59 (ID: 430845)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ২য় পত্র | Years: 2003-2004 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি ইলেকট্রন [math]2.7 \times 10^{8} \mathrm{~ms}^{-1}[/math] গতিতে চললে তার আপেক্ষিক ত ত্ত্বীয় গতিশক্তি কত হবে? নিউটনীয় (সনাতন) গতিশক্তির সাথে এ মানের তুলনা কর। ইলেকট্রনের ভর ও আলোর গতি যথাক্রমে [math]9.1 \times 10^{-31} \mathrm{~kg} \ ও\ 3 \times 10^{8} \mathrm{~ms}^{-1}[/math]।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]\dfrac{3.2}{1}[/math]
+)[math]\\[/math]
+Solution : নিউটনীয় গতিশক্তি [math]K_{0}=\dfrac{1}{2} m_{0} \rm{v}^{2}[/math]
+আপেক্ষিক তত্ত্ব থেকে পাই, [math]\mathrm{m}=\dfrac{\mathrm{m}_{0}}{\sqrt{1-\dfrac{\mathrm{v}^{2}}{\mathrm{c}^{2}}}}=\dfrac{9.1 \times 10^{-31}}{\sqrt{1-\dfrac{(2.7)^{2}}{3^{2}}}}=2.088 \times 10^{-30} \mathrm{~kg}[/math]
+আপেক্ষিক গতিশক্তি, [math]\mathrm{K}_{\mathrm{r}}=\left(\mathrm{m}-\mathrm{m}_{0}\right) \mathrm{c}^{2}\\ =(20.88-9.1) \times 10^{-31} \times 9 \times 10^{16} \\ =1.0602 \times 10^{-13} \mathrm{~J}[/math]
+আপেক্ষিক গতিশক্তি ও নিউটনের গতিশক্তির তুলনা, [math]\dfrac{\mathrm{K}_{\mathrm{r}}}{\mathrm{K}_{\mathrm{N}}}=\dfrac{\left(\mathrm{m}-\mathrm{m}_{\mathrm{0}}\right) \mathrm{c}^{2}}{\dfrac{1}{2} \mathrm{~m}_{0} \mathrm{v}^{2}}=\dfrac{3.2}{1}[/math]
+
+
+Explanation:
+প্রথমে [math]β=v/c=2.7\times10^8/3\times10^8=0.9[/math] হওয়ায় [math]γ=1/\sqrt{1-β^2}=1/\sqrt{1-0.81}\approx2.294[/math]; তাই আপেক্ষিক গতিশক্তি [math]K_{rel}=(γ-1)mc^2\approx1.294\times9.1\times10^{-31}\times(3\times10^8)^2\approx1.06\times10^{-13}\ \mathrm{J}[/math].  
+নিউটনীয় গতিশক্তি [math]K_{cl}=\tfrac12mv^2=\tfrac12\times9.1\times10^{-31}\times(2.7\times10^8)^2\approx3.32\times10^{-14}\ \mathrm{J}[/math], তাই আপেক্ষিক মানটি প্রায় [math]3.2[/math] গুণ বড়।  
+কারণ [math]v=0.9c[/math] হওয়ায় আপেক্ষিক প্রভাব গুরুত্বপূর্ণ এবং ক্লাসিকাল সূত্রের ব্যবহারে শক্তি কম আন্দাজ হয়।
+
+Sub-Questions:
+

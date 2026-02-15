@@ -1,0 +1,223 @@
+================================================================================
+Question #1 (ID: 410687)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Chittagong Govt. Girls' College
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left[\begin{array}{rrr}1 & 3 & 2 \\2 & 0 & 3 \\1 & -1 & 1\end{array}\right][/math] এবং [math]f(x)=x^{3}-2 x^{2}+x-2[/math]
+
+Options:
+ক. [math]g(x)=\frac{x-3}{2 x+1}[/math] ফাংশনের ডোমেন ও রেঞ্জ নির্ণয় কর ৷
+খ. [math]f\left(\mathrm{~A}^{\mathrm{T}}\right)[/math] নির্ণয় কর । যেখানে [math]\mathrm{A}^{\mathrm{T}}[/math] হচ্ছে [math]A[/math] এর রূপান্তর ম্যাট্রিক্স ।
+গ. [math]\mathrm{A}^{-1}[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কদেওয়া আছে, [math]g(x)=\frac{x-3}{2 x+1}[/math]
+এখন, [math]g(x)=\frac{x-3}{2 x+1} \in R[/math]
+ হবে যদি ও কেবল যদি [math]2 x+1 
+eq 0[/math]
+ [math]\Rightarrow x 
+eq-\frac{1}{2}[/math]
+ হয় ।[math]\therefore[/math]
+ ডোম [math]g(x)=R-\left\{-\frac{1}{2}\right\}[/math]
+আবার, ধরি, [math]y=g(x)[/math]
+ [math]=\frac{x-3}{2 x+1}[/math]
+তাহলে, [math]y=\frac{x-3}{2 x+1}[/math]
+ [math]\begin{array}{l}\Rightarrow 2 x y+y=x-3\\\Rightarrow 2 x y-x=-y-3\\\Rightarrow x(2 y-1)=-y-3\\\Rightarrow x=\frac{-(y+3)}{-(1-2 y)}\end{array}[/math]
+ [math]\therefore \quad x=\frac{y+3}{1-2 y} \in R[/math]
+ হবে যদি ও কেবল যদি [math]1-2 y 
+eq 0[/math]
+ [math]\Rightarrow \mathrm{y} 
+eq \frac{1}{2}[/math]
+ হয় ।অর্থাৎ, [math]y=\frac{1}{2}[/math]
+ এর জন্য x অসংজ্ঞায়িত।[math]\therefore g(x)[/math]
+ এর রেঞ্জ [math]=\mathrm{R}-\left\{\frac{1}{2}\right\}[/math]
+নির্ণেয় ফাংশনটির ডোমেন [math]\mathrm{R}-\left\{-\frac{1}{2}\right\}[/math]
+ এবং রেঞ্জ [math]\mathrm{R}-\left\{\frac{1}{2}\right\}[/math]
+ [math]\\[/math]
+ খএখানে, [math]A=\left[\begin{array}{rrr}1 & 3 & 2 \\2 & 0 & 3 \\1 & -1 & 1\end{array}\right][/math]
+ এবং [math]f(x)=x^{3}-2 x^{2}+x-2[/math]
+ [math]\therefore f\left(A^{\mathrm{T}}\right)=\left(A^{\mathrm{T}}\right)^{3}-2\left(A^{\mathrm{T}}\right)^{2}+A^{\mathrm{T}}-2[/math]
+ [math]=\left(A^{\mathrm{T}}\right)^{3}-2\left(A_{\pi}^{\mathrm{T}}\right)^{2}+A^{\mathrm{T}}-2 \cdot I[/math]
+এখন, [math]A^{T}=\left[\begin{array}{rrr}1 & 3 & 2 \\2 & 0 & 3 \\1 & -1 & 1\end{array}\right]^{T}[/math]
+ [math]=\left[\begin{array}{rrr}1 & 2 & 1 \\3 & 0 & -1 \\2 & 3 & 1\end{array}\right][/math]
+ [math]\left(A^{T}\right)^{2}=A^{T} \cdot A^{T}=\left[\begin{array}{rrr}1 & 2 & 1 \\3 & 0 & -1 \\2 & 3 & 1\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{rrr}1 & 2 & 1 \\3 & 0 & -1 \\2 & 3 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}1+6+2 & 2+0+3 & 1-2+1 \\3+0-2 & 6+0-3 & 3-0-1 \\2+9+2 & 4+0+3 & 2-3+1\end{array}\right][/math]
+ [math]=\left[\begin{array}{lll}9 & 5 & 0 \\1 & 3 & 2 \\13 & 7 & 0\end{array}\right][/math]
+ [math]\left(A^{T}\right)^{3}=\left(A^{T}\right)^{2} \cdot A^{T}[/math]
+ [math]=\left[\begin{array}{rrr}9 & 5 & 0 \\1 & 3 & 2 \\13 & 7 & 0\end{array}\right][/math]
+ [math]\cdot\left[\begin{array}{rrr}1 & 2 & 1 \\3 & 0 & -1 \\2 & 3 & 1\end{array}\right][/math]
+নির্ণেয় [math]f\left(A^{T}\right)=\left[\begin{array}{ccr}5 & 10 & 5 \\15 & 0 & -5 \\10 & 15 & 5\end{array}\right][/math]
+ [math]=\left[\begin{array}{ll}9+15+0 & 18+0+0 \\1+9+4 & 2+0+6 \\13+21+0 & 26+0+0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}9-5+0 \\1-3+2 \\13-7+0\end{array}\right][/math]
+ [math]=\left[\begin{array}{rrr}24 & 18 & 4 \\14 & 8 & 0 \\34 & 26 & 6\end{array}\right][/math]
+ [math]\therefore f\left(A^{\mathrm{T}}\right)^{\mathrm{T}}=\left(A^{\mathrm{T}}\right)^{3}[/math]
+ [math]-2\left(A^{\mathrm{T}}\right)^{2}+A^{\mathrm{T}}-2 \cdot \mathrm{I}[/math]
+ [math]=\left[\begin{array}{ccc}24 & 18 & 4 \\14 & 8 & 0 \\34 & 26 & 6\end{array}\right][/math]
+ [math]-2\left[\begin{array}{ccc}9 & 5 & 0 \\1 & 3 & 2 \\13 & 7 & 0\end{array}\right][/math]
+ [math]+\left[\begin{array}{rrr}1 & 2 & 1 \\3 & 0 & -1 \\2 & 3 & 1\end{array}\right][/math]
+ [math]-2\left[\begin{array}{lll}0 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccc}24 & 18 & 4 \\14 & 8 & 0 \\34 & 26 & 6\end{array}\right][/math]
+ [math]-\left[\begin{array}{ccc}18 & 10 & 0 \\2 & 6 & 4 \\26 & 14 & 0\end{array}\right][/math]
+ [math]+\left[\begin{array}{rrr}1 & 2 & 1 \\3 & 0 & -1 \\2 & 3 & 1\end{array}\right][/math]
+ [math]-\left[\begin{array}{lll}2 & 0 & 0 \\0 & 2 & 0 \\0 & 0 & 2\end{array}\right][/math]
+ [math]=\left[\begin{array}{lc}24-18+1-2 & 18-10+2-0 \\14-2+3-0 & 8-6+0-2 \\34-262-0 & 26-14+3-0\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}4-0+1-0 \\0-4-1-0 \\6-0+1-2\end{array}\right][/math]
+ [math]=\left[\begin{array}{ccr}5 & 10 & 5 \\15 & 0 & -5 \\10 & 15 & 5\end{array}\right][/math]
+ [math]\\[/math]
+ গএখানে, [math]A=\left[\begin{array}{rrr}1 & 3 & 2 \\2 & 0 & 3 \\1 & -1 & 1\end{array}\right][/math]
+ [math]\therefore|A|=\left[\begin{array}{rrr}1 & 3 & 2 \\2 & 0 & 3 \\1 & -1 & 1\end{array}\right][/math]
+ [math]=1(0+3)+3(3-2)[/math]
+ [math]+2(-2-0)[/math]
+ [math]=3+3-4=2 
+eq 0[/math]
+ [math]A[/math]
+ এর সহগুণকসমূহ[math]\begin{array}{l}A_{11}=\left|\begin{array}{rr}0 & 3 \\-1 & 1\end{array}\right|=0+3=3 \\A_{12}=-\left|\begin{array}{rr}2 & 0 \\1 & -1\end{array}\right|=-(2-3)=1 \\A_{13}=\left|\begin{array}{rr}2 & 0 \\1 & -1\end{array}\right|=-2-0=-2 \\A_{21}=-\left|\begin{array}{rr}3 & 2 \\-1 & 1\end{array}\right|=-(3+2)=-5 \\A_{22}=\left|\begin{array}{rr}1 & 2 \\1 & 1\end{array}\right|=1-2=-1 \\A_{23}=-\left|\begin{array}{rr}1 & 3 \\1 & -1\end{array}\right|=-(-1-3)=4 \\A_{31}=\left|\begin{array}{ll}3 & 2 \\0 & 3\end{array}\right|=9-0=9 \\A_{32}=-\left|\begin{array}{ll}1 & 2 \\2 & 3\end{array}\right|=-(3-4)=1 \\A_{33}=\left|\begin{array}{ll}1 & 3 \\2 & 0\end{array}\right|=0-6=-6\end{array}[/math]
+ [math]\operatorname{Adj} A=\left[\begin{array}{lll}A_{11} & A_{12} & A_{13} \\A_{21} & A_{22} & A_{23} \\A_{31} & A_{32} & A_{33}\end{array}\right]^{T}[/math]
+ [math]=\left[\begin{array}{rrr}3 & 1 & -2 \\-5 & -1 & 4 \\9 & 1 & -6\end{array}\right]^{T}[/math]
+ [math]=\left[\begin{array}{rrr}3 & -5 & 9 \\1 & -1 & 1 \\-2 & 4 & -6\end{array}\right][/math]
+ [math]\therefore A^{-1}=\frac{1}{|A|} A d j A=\frac{1}{2}\left[\begin{array}{rrr}3 & -5 & 9 \\1 & -1 & 1 \\-2 & 4 & -6\end{array}\right][/math]
+নির্ণেয় [math]A^{-1}=\frac{1}{2}\left[\begin{array}{rrr}3 & -5 & 9 \\1 & -1 & 1 \\-2 & 4 & -6\end{array}\right][/math]
+
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 410686)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years: 2020 | Boards:  | Tags: Bhola Govt College, Bhola
+--------------------------------------------------------------------------------
+Question:
+[math]A=\left(\begin{array}{rrr}1 & 2 & 3 \\1 & 1 & -2 \\4 & 2 & 1\end{array}\right),[/math] [math]B=\left(\begin{array}{rrr}2 & 0 & -1 \\1 & 3 & 1 \\-1 & 2 & 1\end{array}\right)[/math]
+
+Options:
+ক. A ম্যাট্রিক্স এর সাহায্যে একটি সমমাত্রিক সমীকরণ জোট তৈরি কর।
+খ. দেখাও যে, [math](\mathrm{AB})^{t}=\mathrm{B}^{t} \mathrm{~A}^{t}[/math]
+গ. [math]\mathrm{BB}^{-1}[/math] নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+কএখানে, [math]A=\left(\begin{array}{rrr}1 & 2 & 3 \\1 & 1 & -2 \\4 & 2 & 1\end{array}\right)[/math]
+ধরি, [math]X=\left[\begin{array}{l}x \\y \\z\end{array}\right][/math]
+ এবং [math]\mathrm{C}=\left[\begin{array}{l}0 \\0 \\0\end{array}\right][/math]
+আমরা পাই, [math]\mathrm{AX}=\mathrm{C}[/math]
+ [math]\left(\begin{array}{rrr}1 & 2 & 3 \\1 & 1 & -2 \\4 & 2 & 1\end{array}\right)[/math]
+ [math]\times\left(\begin{array}{l}x \\y \\z\end{array}\right)[/math]
+ [math]=\left[\begin{array}{l}0 \\0 \\0\end{array}\right][/math]
+ [math]\begin{array}{l}\begin{array}{l}\Rightarrow x+2 y+3 z=0 \\x+y-2 z=0\end{array}\\4 x+2 y+z=0\end{array}[/math]
+নির্ণেয় সমমাত্রিক সমীকরণ জোট,[math]x+2 y+3 z=0[/math]
+ [math]\begin{array}{l}x+y-2 z=0 \\4 x+2 y+z=0\end{array}[/math]
+ [math]\\[/math]
+ খএখানে, [math]\left(\begin{array}{rrr}1 & 2 & 3 \\1 & 1 & -2 \\4 & 2 & 1\end{array}\right),[/math]
+ [math]\mathrm{B}=\left(\begin{array}{rrr}2 & 0 & -1 \\1 & 3 & 1 \\-1 & 2 & 1\end{array}\right)[/math]
+ [math]A B=\left(\begin{array}{rrr}1 & 2 & 3 \\1 & 1 & -2 \\4 & 2 & 1\end{array}\right)[/math]
+ [math]\left(\begin{array}{rrr}2 & 0 & -1 \\1 & 3 & 1 \\-1 & 2 & 1\end{array}\right)[/math]
+ [math]=\left(\begin{array}{c}1.2+2.1+3(-1) \\1.2+1.1+(-2) \cdot(-1) \\4.2+2.1+1 \cdot(-1)\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{c}1.0+2 \cdot 3+3 \cdot 2 \\1.0+1.3+(-2) \cdot 2 \\4.0+2 \cdot 3+1.2\end{array}[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}1 \cdot(-1)+2 \cdot 1+3 \cdot 1 \\1 \cdot(-1)+1 \cdot 1+(-2) \cdot 1 \\4 \cdot(-1)+2 \cdot 1+1.1\end{array}\right)[/math]
+ [math]=\left(\begin{array}{ll}2+2-3 & 0+6+6 \\2+1+2 & 0+3-4 \\8+2-1 & 0+6+2\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{l}-1+2+3 \\-1+1-2 \\-4+2+1\end{array}\right)[/math]
+ [math]=\left(\begin{array}{rrr}1 & 12 & 4 \\5 & -1 & -2 \\9 & 8 & -1\end{array}\right)[/math]
+বামপক্ষ [math]=(\mathrm{AB})^{\mathrm{t}}[/math]
+ [math]=\left(\begin{array}{rrr}1 & 12 & 4 \\5 & -1 & -2 \\9 & 8 & -1\end{array}\right)^{t}[/math]
+ [math]=\left(\begin{array}{rrr}1 & 5 & 9 \\12 & -1 & 8 \\4 & -2 & -1\end{array}\right)[/math]
+ [math]B^{t} A^{t}=\left(\begin{array}{rrr}2 & 0 & -1 \\1 & 3 & 1 \\-1 & 2 & 1\end{array}\right)^{t}[/math]
+ [math]\left(\begin{array}{rrr}1 & 2 & 3 \\1 & 1 & -2 \\4 & 2 & 1\end{array}\right)^{t}[/math]
+ [math]=\left(\begin{array}{rrr}2 & 1 & -1 \\0 & 3 & 2 \\-1 & 1 & 1\end{array}\right)[/math]
+ [math]\left(\begin{array}{rrr}1 & 1 & 4 \\2 & 1 & 2 \\3 & -2 & 1\end{array}\right)[/math]
+ [math]=\left(\begin{array}{c}2.1+1.2+(-1) \cdot 3 \\0.1+3.2+2.3 \\(-1) \cdot 1+1.2+1.3\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\begin{array}{c}2.1+1.1+(-1) \cdot(-2) \\0.1+3.1+2 .(-2) \\(-1) \cdot 1 .+1.1+1 .(-2)\end{array}[/math]
+ [math]\left.\begin{array}{c}2.4+1.2++(-1) \cdot 1 \\0.4+3.2+2.1 \\(-1) \cdot 4+1.2+1.1\end{array}\right)[/math]
+ [math]=\left(\begin{array}{cc}2+2-3 & 2+1+2 \\0+6+6 & 0+3-4 \\-1+2+3 & -1+1-2\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}8+2-1 \\0+6+2 \\-4+2+1\end{array}\right)[/math]
+ [math]=\left(\begin{array}{rrr}1 & 5 & 9 \\12 & -1 & 8 \\4 & -2 & -1\end{array}\right)[/math]
+ [math]\therefore \quad(A B)^{t}=B^{t} A^{t}[/math]
+ (দেখানো হলো)[math]\\[/math]
+ গএখানে, [math]B=\left(\begin{array}{rrr}2 & 0 & -1 \\1 & 3 & 1 \\-1 & 2 & 1\end{array}\right)[/math]
+ [math]|B|=\left|\begin{array}{rrr}2 & 0 & -1 \\1 & 3 & 1 \\-1 & 2 & 1\end{array}\right|[/math]
+ [math]=2(3-2)+0-1(2+3)[/math]
+ [math]=2+0-5[/math]
+ [math]=-3 
+eq 0[/math]
+এখানে, [math]B_{11}=\left|\begin{array}{ll}3 & 1 \\2 & 1\end{array}\right|=3-2=1[/math]
+ [math]B_{12}=-\left|\begin{array}{rr}1 & 1 \\-1 & 1\end{array}\right|[/math]
+ [math]=-(1+1)=-2[/math]
+ [math]B_{13}=-\left|\begin{array}{rr}1 & 3 \\-1 & 2\end{array}\right|[/math]
+ [math]=2+3=5[/math]
+ [math]B_{21}=-\left|\begin{array}{rr}0 & -1 \\2 & 1\end{array}\right|[/math]
+ [math]=-(0+2)=-2[/math]
+ [math]\mathrm{B}_{22}=\left|\begin{array}{rr}2 & -1 \\-1 & 1\end{array}\right|=2-1=1[/math]
+ [math]B_{23}=-\left|\begin{array}{rr}2 & 0 \\-1 & 2\end{array}\right|[/math]
+ [math]=-(4+0)=-4[/math]
+ [math]\mathrm{B}_{31}=\left|\begin{array}{rr}0 & -1 \\3 & 1\end{array}\right|[/math]
+ [math]=0+3=3[/math]
+ [math]B_{32}=-\left|\begin{array}{rr}2 & -1 \\1 & 1\end{array}\right|[/math]
+ [math]=-(2+1)=-3[/math]
+ [math]B_{33}=\left|\begin{array}{ll}2 & 0 \\1 & 3\end{array}\right|[/math]
+ [math]=6-0=6[/math]
+ [math]\therefore \quad B^{-1}=\frac{1}{|B|} \text { Adj B }[/math]
+ [math]=\frac{1}{|\mathrm{~B}|}\left(\begin{array}{ccc}\mathrm{B}_{11} & \mathrm{~B}_{12} & \mathrm{~B}_{13} \\\mathrm{~B}_{21} & \mathrm{~B}_{22} & \mathrm{~B}_{23} \\\mathrm{~B}_{31} & \mathrm{~B}_{32} & \mathrm{~B}_{33}\end{array}\right)^{t}[/math]
+ [math]=\frac{1}{-3}\left(\begin{array}{ccc}1 & -2 & 5 \\-2 & 1 & -4 \\3 & -3 & 6\end{array}\right)^{t}[/math]
+ [math]=\frac{1}{-3}\left(\begin{array}{ccc}1 & -2 & 3 \\-2 & 1 & -3 \\-5 & -4 & 6\end{array}\right)[/math]
+ [math]=\left(\begin{array}{ccc}-\frac{1}{3} & \frac{2}{3} & -1 \\\frac{2}{3} & -\frac{1}{3} & 1 \\-\frac{5}{3} & \frac{4}{3} & -2\end{array}\right)[/math]
+ [math]\therefore \quad \mathrm{BB}^{-1}=\left(\begin{array}{lll} 2 & 0 & -1 \\ 1 & 3 & 1 \\ -1 & 2 & 1 \end{array}\right)[/math]
+ [math]\left(\begin{array}{ccc}-\frac{1}{3} & \frac{2}{3} & -1 \\\frac{2}{3} & -\frac{1}{3} & 1 \\-\frac{5}{3} & \frac{4}{3} & -2\end{array}\right)[/math]
+ [math]=\left(\begin{array}{cc}-\frac{2}{3}+0+\frac{5}{3} & \frac{4}{3}+0-\frac{4}{3} \\-\frac{1}{3}+2-\frac{5}{3} & \frac{2}{3}-1+\frac{4}{3} \\\frac{1}{3}+\frac{4}{5}-\frac{5}{3} & -\frac{2}{3}-\frac{2}{3}+\frac{4}{3}\end{array}\right.[/math]
+ [math]\quad[/math]
+ [math]\left.\begin{array}{c}-2+0+2 \\-1+3-2 \\1+2-2\end{array}\right)[/math]
+ [math]=\left(\begin{array}{lll}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right)[/math]
+ [math]\therefore \quad \mathrm{BB}^{-1}=\left(\begin{array}{ccc}1 & 0 & 0 \\0 & 1 & 0 \\0 & 0 & 1\end{array}\right) \text {. }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+ক A ম্যাট্রিক্স ব্যবহার করে সমমাত্রিক সমীকরণ জোট হল [math]A\mathbf{x}=0[/math], অর্থাৎ
+[math]x_1+2x_2+3x_3=0,\; x_1+x_2-2x_3=0,\; 4x_1+2x_2+x_3=0.[math]
+
+খ কারণ সাধারণ সূত্র অনুযায়ী [math](AB)^t=B^tA^t[/math]; সংক্ষেপে দেখালে
+[math](AB)^t_{ij}=(AB)_{ji}=\sum_k A_{jk}B_{ki}=\sum_k B^t_{ik}A^t_{kj}=(B^tA^t)_{ij},[/math]
+অতএব [math](AB)^t=B^tA^t.[math]
+
+গ দ্বারা সংজ্ঞা অনুযায়ী [math]BB^{-1}=I_3[/math] (৩×৩ একক ম্যাট্রিক্স), কারণ কোনো ম্যাট্রিক্সকে তার এনভার্স দিয়ে গুণ করলে একক ম্যাট্রিক্স পাওয়া যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 410681)
+--------------------------------------------------------------------------------
+Type: CQ | Book: উচ্চতর গণিত ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+[math]\mathrm a[/math]-এর মান কত হলে [math]\left[\begin{array}{rrr}-4 & 0 & -2 \\0 & 5 & a \\-2 & 4 & 0\end{array}\right][/math] ম্যাট্রিক্সটি প্রতিসম হবে?
+
+Options:
+
+
+Correct Answer: ঘ
+
+Solution:
+[math]\left[\begin{array}{ccc}-4 & \boxed 0 & -2 \\\boxed 0 & 5 & \boxed a \\-2 & \boxed 4 & 0\end{array}\right][/math]
+প্রতিসম হতে হলে এগুলো সমান হতে হয়অর্থাৎ [math]a-4[/math]
+ হতে হবে।
+
+Explanation:
+ব্যাখ্যা: প্রতিসম ম্যাট্রিক্সের জন্য সাধারণ শর্ত হল [math]a_{ij}=a_{ji}[/math]। এখানে [math]a_{23}=a[/math] এবং [math]a_{32}=4[/math], তাই [math]a=4[/math] (অন্যান্য উপাদান ইতিমধ্যে সমান)।
+
+Sub-Questions:
+

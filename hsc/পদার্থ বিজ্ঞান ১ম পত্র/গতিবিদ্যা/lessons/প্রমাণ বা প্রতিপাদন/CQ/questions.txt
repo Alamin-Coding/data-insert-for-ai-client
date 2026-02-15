@@ -1,0 +1,55 @@
+================================================================================
+Question #1 (ID: 397632)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+দুটি ট্রেন একই লাইনে [math]v_{1}[/math] এবং [math]v_{2}[/math] বেগে এগিয়ে আসছে। যখন এদের মধ্যবর্তী দূরত্ব X তখন উভয় ট্রেনের চালক অপর ট্রেনটি দেখতে পেয়ে ব্রেক চাপে, ফলে মন্দন যথাক্রমে [math]\mathbf{a}_{\mathbf{1}}[/math] এবং [math]\mathbf{a}_{\mathbf{2}}[/math] হয় ৷ প্ৰমাণ করো যে,
+
+(ক) [math]\left(v_{1}^{2} a_{2}+v_{2}^{2} a_{1}\right) \leq 2 a_{1} a_{2} X[/math] হলে দুর্ঘটনা ঘ টবে না।
+
+(খ) [math]\left(v_{1}^{2} a_{2}+v_{2}^{2} a_{1}\right)>2 a_{1} a_{2} X[/math] হলে দুর্ঘটনা ঘটবে।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]\left(v_{1}^{2} a_{2}+v_{2}^{2} a_{1}\right)>2 a_{1} a_{2} X[/math]
+)[math]\\[/math]
+Solution :মনে করি, একই রেল লাইনের উপর দিয়ে A ও B দুইটি ট্রেন যথাক্রমে [math]\mathrm{v}_{1}[/math]
+ ও [math]\mathrm{v}_{2}[/math]
+ বেগে একে অপরের দিকে অগ্রসর হচ্ছে। এরা পরস্পরকে X দূরত্বে দেখা মাত্রই ট্রেনটি ব্রেক প্রয়োগ করে সর্বোচ্চ [math]\mathrm{a}_{1}[/math]
+, মন্দন সৃষ্টি করে [math]\mathrm{x}_{1}[/math]
+ দূরত্ব অতিক্রম করে থেমে যায় ।
+[Image]
+একই সাথে B ট্রেন সর্বোচ্চ [math]a_{2}[/math]
+ মন্দন প্রয়োগ করে [math]X_{2}[/math]
+ দূরত্ব অতিক্রম করে থামে । অর্থাৎ ট্রেন দুইটির শেষ বেগ শূন্য হয় ।[math]\therefore[/math]
+ A ট্রেনের ক্ষেত্রে : [math]0=v_{1}^{2}-2 a_{1} X_{1}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{X}_{1}=\frac{\mathrm{v}_{1}^{2}}{2 \mathrm{a}_{1}}[/math]
+B ট্রেনের ক্ষেত্রে : [math]0=v_{2}^{2}-2 a_{2} X_{2}[/math]
+ [math]\Rightarrow[/math]
+ [math]X_{2}=\frac{v_{2}^{2}}{2 a_{2}}[/math]
+ক) দূর্ঘটনা ঘটবে না যদি, [math]\left(\mathrm{X}_{1}+\mathrm{X}_{2}\right) \leq \mathrm{X}[/math]
+ হয়[math]\Rightarrow[/math]
+ [math]\left(\frac{\mathrm{v}_{1}^{2}}{2 \mathrm{a}_{1}}+\frac{\mathrm{v}_{2}^{2}}{2 \mathrm{a}_{2}}\right) \leq \mathrm{X}[/math]
+ [math]\Rightarrow[/math]
+ [math]\left(v_{1}^{2} a_{2}+v_{2}^{2} a_{1}\right) \leq 2 a_{1} a_{2} X[/math]
+(খ) দূর্ঘটনা ঘটবে যদি, [math]X_{1}+X_{2}>X[/math]
+ হয়[math]\Rightarrow[/math]
+ [math]\left(\frac{v_{1}^{2}}{2 a_{1}}+\frac{v_{2}^{2}}{2 a_{2}}\right)>X[/math]
+ [math]\left(v_{1}^{2} a_{2}+v_{2}^{2} a_{1}\right)>2 a_{1} a_{2} X \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+
+ক ট্রেনের প্রতিটির স্থগিত বন্ধের দূরত্ব থাকে [math]\displaystyle s=\frac{v^{2}}{2a}[/math] তাই সংঘর্ষ না ঘটার শর্ত হলো [math]\displaystyle \frac{v_{1}^{2}}{2a_{1}}+\frac{v_{2}^{2}}{2a_{2}}\le X[/math], যা সরলীকরণ করলে [math]\displaystyle v_{1}^{2}a_{2}+v_{2}^{2}a_{1}\le 2a_{1}a_{2}X[/math] হয় — অর্থাৎ মোট থামার দূরত্ব আলাদা থাকা দূরত্বের চেয়ে কম বা সমান হলে সংঘর্ষ হবে না।
+
+খ যদি [math]\displaystyle v_{1}^{2}a_{2}+v_{2}^{2}a_{1}>2a_{1}a_{2}X[/math] হয় তবে মোট থামার দূরত্ব [math]X[/math] থেকে বেশি, অর্থাৎ তারা থামার আগেই মিলিত হবে এবং সংঘর্ষ ঘটবে।
+
+Sub-Questions:
+

@@ -1,0 +1,809 @@
+================================================================================
+Question #1 (ID: 408272)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা 20 m ও ব্যাস 2 m। কুয়াটিকে পানিশূন্য করার জন্য 5 HP এর একটি পাম্প লাগানো হলো। অর্ধেক পানি তোলার পর পাম্পটি নষ্ট হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষমতার আরেকটি পাম্প লাগানো হল।
+
+Options:
+গ. ১ম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, ১ম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]\mathrm{W}_{1}[/math]
+উদ্দীপক হতে,[math]\hspace{1.2 cm}[/math]
+কুয়ার গভীরতা, [math]\mathrm{h}=20 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অর্ধেক গভীরতা, [math]\mathrm{h}_{1}=\dfrac{20 \mathrm{~m}}{2}=10 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ব্যাস, [math]\rm{d=2 ~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+গড় সরণ, [math]\rm{h^{\prime}=\dfrac{10 m+0 m}{2}}=5 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\rm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+কুয়ার আয়তন,[math]\hspace{1.6 cm}\mathrm{V}=\dfrac{1}{4} \pi \mathrm{d}^{2} \mathrm{~h}=\dfrac{1}{4} \times 3.1416 \times(2 \mathrm{~m})^{2} \times 20 \mathrm{~m}[/math]
+ [math]\hspace{1.6 cm}\therefore \rm{~V}=62.832 \mathrm{~m}^{3}[/math]
+পানির ঘনত্ব,[math]\hspace{1.6 cm}\rho=1000 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+ [math]\therefore[/math]
+ পানির ভর,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{m} & =\rho \mathrm{V} \\ & =1000 \mathrm{~kg} \mathrm{~m}^{-3} \times 62.832 \mathrm{~m}^{3}=62832 \mathrm{~kg} \end{aligned}[/math]
+অর্ধেক পানির ভর,[math]\hspace{1.6 cm}\mathrm{m}^{\prime}=\dfrac{1}{2} \mathrm{~m}=\dfrac{1}{2} \times 62832 \mathrm{~kg}=31416 \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ কৃতকাজ,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{W}_{1} & =\mathrm{m}^{\prime} \mathrm{gh}^{\prime} \\ & =31416 \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times 5 \mathrm{~m}=1.54 \times 10^{6} \mathrm{~J} \end{aligned}[/math]
+সুতরাং প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]1.54 \times 10^{6} \mathrm{~J}[/math]
+। [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ কুয়ার ক্ষেত্রফল [math]A=πr^2=π(1)^2=π\ \mathrm{m^2}[/math] এবং অর্ধেক পানির ভলিউম [math]V=\tfrac{H}{2}A=10π\ \mathrm{m^3}[/math] হওয়ায় তার ভর [math]m=ρV=1000×10π=10000π\ \mathrm{kg}[/math]। ওই উপরের অর্ধেক কলামের গড় গভীরতা (টানার দূরত্ব) [math]\tfrac{H}{4}=5\ \mathrm{m}[/math], তাই কাজ [math]W=mg×5=10000π×9.8×5=490000π\ \mathrm{J}\approx1.54×10^6\ \mathrm{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 408254)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2004-2005 | Boards:  | Tags: Rajshahi University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+70 kg ভরের এক ব্যক্তি 20 kg ভরের এক বোঝা নিয়ে 6m দীর্ঘ একটি সিঁড়ি বেয়ে উপরে উঠলো। সিঁড়িটি আনুভূমিক তলের সাথে 30° কোণ করে থাকলে ঐ ব্যক্তি কত কাজ করলো নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+
+[Image]
+এখানে, [math]\mathrm{m}=90 \mathrm{~kg}, \mathrm{~s}=6 \mathrm{~m}, 0=30^{\circ}, \mathrm{w}=?[/math]
+আমরা জানি, [math]w=mgh[/math]
+ [math]=90 \times 9.8 \times 6 \sin 30^{\circ}[/math]
+ [math]=2646 \text { Joule. (Ans) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: সিঁড়ি বেয়ে ওঠায় কাজটি ওজনের বিরুদ্ধে সম্ভাব্য শক্তি বাড়ানোর সমান, এখানে উল্লম্ব উচ্চতা [math]h=6\sin30^\circ=3\text{ m}[/math] এবং মোট ভর [math]m=70+20=90\text{ kg}[/math]. তাই কাজ [math]W=mgh=90\times9.8\times3=2646\text{ J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 408255)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি ইটের উচ্চতা 7.5 cm এবং ভর 2.5 kg । 10টি ইটকে পরপর সাজিয়ে একটি স্তম্ভ তৈরি কর তে কত শক্তি ব্যয় হবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 82.69 J)[math]\\[/math]
+Solution :এখানে,ইটের ভর, m = 2.5 kgঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ইটের সংখ্যা, n = 10মোট কাজ, w = ?ভূমিতে থাকা অবস্থায় প্রতিটি ইটের ভারকেন্দ্রের অবস্থান[math]\begin{array}{l}=\frac{7.5}{2} \mathrm{~cm} \\=3.75 \mathrm{~cm} \\=0.0375 \mathrm{~m}\end{array}[/math]
+ [math]\therefore[/math]
+ 10 টি ইটের মোট উচ্চতা ,[math]\begin{array}{l}=(10 \times 7.5) \mathrm{cm} \\=75 \mathrm{~cm} \\=0.75 \mathrm{~m}\end{array}[/math]
+0.75 m উচ্চতায় ভারকেন্দ্রের অবস্থান,[math]\begin{array}{l}=\frac{0.75}{2} \mathrm{~m} \\=0.375 \mathrm{~m}\end{array}[/math]
+ [math]\therefore[/math]
+ ভারকেন্দ্রের সরণ [math]\mathrm{h}=(0.375-0.0375) \mathrm{m}=0.3375 \mathrm{~m}[/math]
+আমরা জানি, [math]\mathrm{W}=\mathrm{mgh}=2.5 \times 9.8 \times 0.3375=8.26875 \mathrm{~J}[/math]
+ [math]\therefore[/math]
+ 10 টি ইটের জন্য কৃতকাজ ,[math]\begin{array}{l}=(10 \times 8.26875) \mathrm{J} \\=82.69 \mathrm{~J} \text { (Ans. })\end{array}[/math]
+
+
+Explanation:
+প্রতিটি ইটকে তার চূড়ান্ত অবস্থানে তুলতে তার উচ্চতা অনুযায়ী বাড়তি উচ্চতায় তোলা লাগে, তাই উত্থানগুলোর সমষ্টি হচ্ছে [math]0+1+2+\dots+9=45[/math] গুণিতক। কাজকে লেখলে [math]W=mg\,h\sum_{k=0}^{9}k=mg\,h\times45[/math], যেখানে [math]m=2.5\ \text{kg},\ h=7.5\ \text{cm}=0.075\ \text{m},\ g=9.8\ \text{m/s}^2[/math]. তাই [math]W=2.5\times9.8\times0.075\times45\approx82.7\ \text{J}\ (\approx83\ \text{J})[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 408256)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূমি থেকে 4cm উঁচু একখানা বইকে 40cm উচ্চতায় ওঠানো হলো।
+
+Options:
+ঘ. এইরূপ 10 খানা বই একের উপর এক সাজিয়ে 40cm উঁচু স্তম্ভ তৈরি করতে মোট কত কাজ কর তে হবে গাণিতিক হিসেবের মাধ্যমে নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+ঘউদ্দীপক অনুসারেএকটি বইয়ের উচ্চতা [math]=4 \mathrm{~cm}=0.04 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ 10 টি বইয়ের উচ্চতা [math]=10 \times 0.04 \mathrm{~m}=0.4 \mathrm{~m}[/math]
+১ম বই উঠাতে কোনো দূরত্ব অতিক্রম করতে হয় না বলে, [math]h_{1}=0[/math]
+১০ম বই উঠাতে কার্যকর উচ্চতা,[math]\begin{aligned}\mathrm{h}_{10} & =(0.4-0.04) \mathrm{m} \\& =0.36 \mathrm{~m}\end{aligned}[/math]
+ [math]\therefore[/math]
+ গড় উচ্চতা, [math]\mathrm{h}=\frac{0+0.36}{2}=0.18 \mathrm{~m}[/math]
+ [math]\therefore[/math]
+ 1 টি বই সাজাতে কৃতকাজ,[math]\begin{array}{l}=\mathrm{mgh} \\=\mathrm{m} \times 9.8 \times 0.18 \\=1.764 \mathrm{~m} \mathrm{~J}\end{array}[/math]
+ [math]\therefore[/math]
+ 10 টি বই সাজাতে কৃতকাজ,[math]\begin{array}{l}=10 \times 1.764 \mathrm{~m} \mathrm{~J} \\=17.64 \mathrm{~m} \mathrm{~J}\end{array}[/math]
+অর্থাৎ, 10 টি বই সাজিয়ে উচু স্তম্ভ তৈরি করতে 17.64 m J কাজ করতে হবে।
+
+Explanation:
+ঘ প্রতিটি বইয়ের ওঠানো উচ্চতা হলো [math](j-1)\times4\text{ cm}[/math] (j = 1 থেকে 10), সুতরাং মোট উত্থিত দৈর্ঘ্য = [math]4(0+1+2+\dots+9)=4\times45=180\text{ cm}=1.8\text{ m}[/math]. তাই প্রতিটি বইয়ের ওজন [math]mg[/math] হলে মোট কাজ = [math]mg\times1.8\text{ m}[/math] (কেবল দূরত্ব হিসেবে হলে ফল [math]180\text{ cm}[/math]).
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 408257)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+মিতা 0.20 kg ভরের একখানা বইকে ঘরের মেঝে থেকে 1 m উঁচুতে তুলে হাত দিয়ে ধরে সমদ্রুতিতে ঘরের এক প্রান্ত থেকে 3 m দূরে অপর প্রান্তে নিয়ে গিয়ে ধীরে ধীরে মেঝেতে নামিয়ে দিলো।
+
+Options:
+ঘ. মিতা বই তুলে নামানো পর্যন্ত অভিকর্ষ বলের জন্য মোট কত কাজ করলো গাণিতিক বিশ্লেষণের সাহায্যে নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘমনে করি, মিতার মোট কাজের পরিমাণ w। সমগতিতে বইটিকে ভূমি থেকে উঠাতে মিতাকে অভিকর্ষ বলের বিপরীতদিকে কাজ করতে হবে, কারণ অভিকর্ষ বল F এর দিক নিম্নমুখী অর্থাৎ পৃথিবীর কেন্দ্রের দিকে এবং বইটির সরণ s ঊর্ধ্বমুখী।ফলে [math]\overrightarrow{\mathrm{F}}[/math]
+ ও [math]\overrightarrow{\mathrm{S}}[/math]
+ এর মধ্যবর্তী কোণ হবে [math]\theta=180^{\circ}[/math]
+।প্রদত্ত উপাত্ত অনুযায়ী, বইয়ের ভর, m = 0.20 kgবইয়ের সরণ, s = 1 mঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+সুতরাং অভিকর্ষ বলের দরুন কৃতকাজ,[math]\begin{aligned}\mathrm{W}_{1} & =\mathrm{Fs} \cos \theta \\& =\mathrm{mg} \operatorname{s} \cos 180^{\circ} \\& =0.20 \mathrm{~kg} \times 9.8 \mathrm{~ms}^{-2} \times 1 \mathrm{~m} \times(-1)=-1.96 \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore[/math]
+ বইটিকে উঠাতে অভিকর্ষ বলের দরুন কৃতকাজ [math]\mathrm{W}_{1}=-1.96 \mathrm{~J}[/math]
+।আবার বইটিকে 1 m উঁচু থেকে নামাতে মিতাকে অভিকর্ষ বলের দিকে কাজ করতে হবে, কারণ অভিকর্ষ বলের দিক নিম্নমুখী এবং বইটির সরণের দিকও নিম্নমুখী।ফলে [math]\overrightarrow{\mathrm{F}}[/math]
+ ও [math]\overrightarrow{\mathrm{S}}[/math]
+ এর মধ্যবর্তী কোণ হবে, [math]\theta=0^{\circ}[/math]
+ [math]\therefore[/math]
+ অভিকর্ষ বলের দরুন কৃতকাজ,[math]\begin{aligned}\mathrm{W}_{2} & =\mathrm{Fs} \cos \theta=\mathrm{mg} \mathrm{s} \cos 0^{\circ} \\& =0.20 \mathrm{~kg} \times 9.8 \mathrm{~ms}^{-2} \times 1 \mathrm{~m} \times 1=1.96 \mathrm{~J}\end{aligned}[/math]
+ [math]\therefore[/math]
+ বইটিকে নামাতে অভিকর্ষ বলের দরুন কৃতকাজ, [math]\mathrm{W}_{2}=1.96 \mathrm{~J}[/math]
+সুতরাং, বই তুলে নামানো পর্যন্ত অভিকর্ষ বলের দরুন মোট কাজ,[math]\mathrm{W}=\mathrm{W}_{1}+\mathrm{W}_{2}=-1.96 \mathrm{~J}+1.96 \mathrm{~J}=0[/math]
+সুতরাং, মিতা বই তুলে নামানো পর্যন্ত অভিকর্ষ বলের জন্য মোট কাজের পরিমাণ হবে শূন্য। এর কারণ হলো, অভিকর্ষ ক্ষেত্র একটি সংরক্ষণশীল ক্ষেত্র।
+
+Explanation:
+ব্যাখ্যা: ঘ উত্তরে মহাকর্ষীয় শক্তি বই তুললে নেগেটিভ কাজ করে [math]W_{উত্থান}=-mgh=-0.20\times9.8\times1=-1.96\ \text{J}[/math], সমদ্বিধামাত্রায় আনুভূমিক সরানোর সময় কাজ শূন্য, আর ধীরেই নামালে মহাকর্ষীয় শক্তি একই পরিমাণ ধনাত্মক কাজ করে [math]W_{অবতরণ}=+1.96\ \text{J}[/math]; সুতরাং মোট কাজ [math]W_{মোট}=-1.96+0+1.96=0\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 408258)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূ-পৃষ্ঠ থেকে [math]3.6 \times 10^{4} \mathrm{~km}[/math] উচ্চতায় থেকে একটি কৃত্রিম উপগ্রহ [math]3 \mathrm{\ kms}^{-1}[/math] বেগে পৃথিবীকে আবর্তন করছে। পৃথিবীর ভর ও ব্যাসার্ধ যথাক্রমে [math]6 \times 10^{24} \mathrm{~kg}[/math] এবং [math]6400 \mathrm{~km}[/math] । উপগ্রহটির ভর 1000 kg । [math]\mathrm{G}=6.67 \times 10^{-11} \mathrm{~N} \mathrm{~m}^{2} \mathrm{~kg}^{-2}[/math]
+
+Options:
+গ. কৃত্রিম উপগ্রহকে উদ্দীপকে উল্লিখিত উচ্চতায় প্রেরণ করতে অভিকর্ষ বলের বিরুদ্ধে কত কাজ ক রতে হয়েছে?
+
+
+Correct Answer: 
+
+Solution:
+গ [math]3.53 \times 10^{11} \mathrm{~J}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কৃত্রিম উপগ্রহকে উচ্চতায় নিয়ে যেতে গ্রাভিটেশনাল পটেনশিয়াল এনার্জি বাড়ে এবং কাজটির মান হলো ঐ পার্থক্য, তাই
+[math]W=\Delta U=GMm\left(\frac{1}{R}-\frac{1}{R+h}\right)[/math].
+সংখ্যাসূত্রে [math]GMm=6.67\times10^{-11}\times6\times10^{24}\times1000=4.002\times10^{17}[/math] ও [math]\frac{1}{R}-\frac{1}{R+h}\approx1.3267\times10^{-7}[/math], ফলে [math]W\approx5.31\times10^{10}\ \mathrm{J}[/math]; তাই এই পটেনশিয়াল পরিবর্তনই কাজের মান নির্ধারণ করে (অন্য শক্তি লাভ/হার বাদ দিলে)।
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 408259)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+20 m উঁচু দালানের ছাদ থেকে m ভরের একটি টেনিস বল গড়িয়ে মাটিতে পড়ে। বলটি যখন ভূমি স্পর্শ করে, তখন এর বেগ [math]22 \mathrm{~ms}^{-1}[/math]
+
+Options:
+গ. m ভরের বস্তুকে h উচ্চতায় ওঠালে অভিকর্ষ বলের বিরুদ্ধে কত কাজ করতে হয় হিসাব কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, M = পৃথিবীর ভর, R = পৃথিবীর ব্যাসার্ধ, m = বস্তুটির ভর, r = বস্তুর ও পৃথিবীর কেন্দ্রের মধ্যবর্তী দূরত্ব।তাহলে বস্তুর ওপর পৃথিবীর অভিকর্ষ বল, [math]\mathrm{F}_{\mathrm{G}}=-\frac{\mathrm{GMm}}{\mathrm{r}^{2}}[/math]
+এখানে ঋণাত্মক চিহ্ন আকর্ষণ বল নির্দেশ করছে। পৃথিবী এই বলে বস্তুটিকে কেন্দ্রের দিকে আকর্ষণ করে। বস্তুটিকে ভূপৃষ্ঠ থেকে h উচ্চতায় উঠালে বস্তুটি r = R থেকে r = R + h অবস্থানে যায়। তখন বস্তুটির ওপর পৃথিবী [math]\mathrm{F}_{\mathrm{G}}=-\frac{\mathrm{GMm}}{\mathrm{r}^{2}}[/math]
+ বল প্রয়োগ করে। এ বলের বিপরীতে বস্তুটিকে h উচ্চতায় উঠাতে অর্থাৎ বস্তুটির h সরণ ঘটানোর জন্য অভিকর্ষ বলের সমান ও বিপরীত [math]\mathrm{F}=-\mathrm{F}_{\mathrm{G}}=\frac{\mathrm{GMm}}{\mathrm{r}^{2}}[/math]
+ বল প্রয়োগ করতে হয়। এই বলের জন্য কৃতকাজ,[math]\begin{aligned}\mathrm{W} & =\int_{\mathrm{r}=\mathrm{R}}^{\mathrm{r}}=\mathrm{Rdr}=\int_{-\mathrm{h}}^{\mathrm{R}+\mathrm{h}} \frac{\mathrm{GM}}{\mathrm{r}^{2}} \mathrm{dr}=\mathrm{GMm} \int_{\frac{\mathrm{dr}}{\mathrm{r}^{2}}}^{\mathrm{R}+\mathrm{h}} \\& =\mathrm{GMm}\left[-\frac{1}{\mathrm{r}}\right]_{\mathrm{R}}^{\mathrm{R}+\mathrm{h}}=\mathrm{GMm}\left(-\frac{1}{\mathrm{R}+\mathrm{h}}+\frac{1}{\mathrm{R}}\right) \\& =\mathrm{GMm}\left(\frac{1}{\mathrm{R}}-\frac{1}{\mathrm{R}+\mathrm{h}}\right)\end{aligned}[/math]
+ [math]\Rightarrow[/math]
+ [math]\mathrm{W}=\mathrm{GMm} \cdot \frac{\mathrm{R}+\mathrm{h}-\mathrm{R}}{\mathrm{R}(\mathrm{R}+\mathrm{h})}=\frac{\mathrm{GMmh}}{\mathrm{R}(\mathrm{R}+\mathrm{h})} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ কাজ = [math]mgh[/math]। কারণ অভিকর্ষ বলের বিপরীতে করা কাজ হল বলটির গ্রাভিটেশনাল পটেনশিয়াল এনার্জির বৃদ্ধি, এবং এটি শক্তি পরিবর্তন হিসেবে [math]\Delta U=mg\Delta h[/math] বা সরাসরি [math]mg\times h[/math] দিয়ে পাওয়া যায় (পথনিরপেক্ষ)।
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 408260)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা এবং ব্যাস যথাক্রমে 10m এবং 4m।
+
+Options:
+গ. উদ্দীপকে উল্লেখিত কুয়াটিকে পানি শূন্য করতে হলে কত কিলোগ্রাম পানিকে কুয়া থেকে বের করে নিতে হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,কুয়ার গভীরতা, [math]\mathrm{L}=10 \mathrm{~m}[/math]
+ব্যাস, D = 4 mপানির ঘনত্ব, [math]\rho=1000 \mathrm{kgm}^{-3}[/math]
+সম্পূর্ণ কুয়ার পানির আয়তন,[math]\begin{aligned}\mathrm{V} & =\frac{1}{4} \pi \mathrm{D}^{2} \mathrm{~L} \\& =\frac{1}{4} \pi \times(4)^{2} \times 10=40 \pi \mathrm{m}^{3}\end{aligned}[/math]
+ [math]\therefore[/math]
+ উত্তলিত পানির ভর,[math]m=\rho V=1000 \times 40 \pi=125664 \mathrm{~kg} \text { (Ans.) }[/math]
+ [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা: গ কুয়া সিলিন্ডারের আকারের, তাই পানির পরিমান হচ্ছে আয়তন [math]V=πr^2h[/math] যেখানে [math]r=2\ \text{m},\ h=10\ \text{m}[/math], সুতরাং [math]V=π(2)^2(10)=40π\ \text{m}^3[/math]। পানির ঘনত্ব ধরা হলে [math]ρ=1000\ \text{kg/m}^3[/math], ফলে মাস [math]m=ρV=1000×40π=40000π\ \text{kg}≈1.2566×10^5\ \text{kg}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 408261)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি দালানের ছাদের সাথে লাগানো 5 m লম্বা একটি মই অনুভূমিকের সাথে 30° কোণ করে আছে। 60 kg ভরের এক ব্যক্তি 20 kg ভরের বোঝা নিয়ে ছাদে ওঠেন।
+
+Options:
+গ. ছাদে ওঠার জন্য তিনি অভিকর্ষ বলের বিরুদ্ধে কত কাজ করলেন?
+
+
+Correct Answer: 
+
+Solution:
+গ [math]1960 \mathrm{~J}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: গুরুত্বীয় শক্তির বিরুদ্ধে করা কাজ = ওজন × উল্লম্ব সূত্রলম্ব (উচ্চতা), এখানে উচ্চতা [math]h=5\sin30^\circ=2.5\ \text{m}[/math] এবং মোট ভর [math]m=60+20=80\ \text{kg}[/math]। তাই কাজ [math]W= mgh = 80\times9.8\times2.5 = 1960\ \text{J}[/math], অর্থাৎ তিনি 1960 জুল কাজ করেছেন।
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 408262)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পাম্প দ্বারা 600 লিটার জ্বালানি তেলকে 20 m ওপরে অবস্থিত একটি ট্যাঙ্কে ওঠাতে অভিকর্ষের বিরুদ্ধে কত কাজ করতে হবে? এক ঘন সে.মি. জ্বালানি তেলের ভর 0.82g। এক লিটার = [math]1000 \mathrm{cm}^{3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]9.64 \times 10^{4} \mathrm{~J}[/math])
+
+Explanation:
+ব্যাখ্যা: প্রথমে এক লিটার তেলের ভর [math]0.82\ \mathrm{g/cm^3}\times1000\ \mathrm{cm^3}=820\ \mathrm{g}=0.82\ \mathrm{kg}[/math], তাই মোট ভর [math]m=600\times0.82=492\ \mathrm{kg}[/math]. কাজ = ভর × Gregorian × উচ্চতা, তাই [math]W=mgh=492\times9.8\times20=96432\ \mathrm{J}\approx9.64\times10^4\ \mathrm{J}[/math], অর্থাৎ প্রায় [math]9.64\times10^4\ \mathrm{J}[/math] কাজ করতে হবে।
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 408263)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+250 N জনের একজন বালক খাড়া মই বেয়ে শীর্ষে উঠতে 2000 J কাজ সম্পন্ন করে। ম‍ইটির দৈর্ঘ্য নির্ণয় করো।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 8 m)[math]\\[/math]
+Solution :দেওয়া আছে,সম্পন্ন কাজ, W = 2000 Jওজন, mg = 250 Nমইটির দৈর্ঘ্য, h = ?আমরা জানি,[math]\begin{aligned}\mathrm{W} & =\mathrm{mgh} \\\therefore \mathrm{h} & =\frac{\mathrm{W}}{\mathrm{mg}} \\& =\frac{2000 \mathrm{~J}}{250 \mathrm{~N}}=8 \mathrm{~m} \text { (Ans.) }\end{aligned}[/math]
+
+
+Explanation:
+ওজন হল বল (গুরুত্বের কারণে নিচের দিকে খরচ করা বল), তাই কাজের সূত্র [math]W=F\,h[/math] প্রযোজ্য। ফলে [math]h=\dfrac{W}{F}=\dfrac{2000}{250}=8\ \text{m}[/math], অর্থাৎ মইটির দৈর্ঘ্য 8 মিটার।
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 408264)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+একটি পাম্প দ্বারা 600 লিটার জ্বালানী তেলকে 20m উপরে অবস্থিত একটি ট্যাঙ্কে উঠাতে অভিকর্ষের বিরুদ্ধে কত কাজ করতে হবে? এক ঘন সেঃ মিঃ জ্বালানী তেলের ভর 0.82g। এক লিটার = [math]1000 \mathrm{~cm}^{3}[/math]
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]9.64 \times 10^{4} \mathrm{~J}[/math] )
+
+Explanation:
+ব্যাখ্যা: অভিকর্ষের বিরুদ্ধে কাজ = [math]W=mgh[/math] হওয়ায় প্রথমে ভর বের করি; [math]600\ \text{L}=600\times1000\ \text{cm}^3=6\times10^5\ \text{cm}^3[/math] এবং [math]m=6\times10^5\times0.82\ \text{g}=4.92\times10^5\ \text{g}=492\ \text{kg}[/math]. তাই কাজ হল [math]W=492\times9.8\times20\approx9.64\times10^4\ \text{J}[/math], অর্থাৎ প্রায় [math]9.64\times10^4[/math] জুল।
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 408265)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+ভূমি থেকে 1km উচ্চতায় উত্থীত মেঘ বৃষ্টিপাত ঘটায়। বৃষ্টির পানি [math]1.0 \times 10^{-2} \mathr m{~m}[/math] পুরু হয়ে [math]1 \mathrm{~km}^{2}[/math] জায়গা ভিজালে মেঘের উচ্চতায় এই পানি তুলতে কী পরিমাণ কাজ সম্পাদন করতে হয়েছিল?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : [math]9.8 \times 10^{10} \mathrm{~J}[/math]
+ )[math]\\[/math]
+Solution :এখানে,উচ্চতা,[math]\begin{aligned}\mathrm{h} & =1 \mathrm{~km} \\& =10^{3} \mathrm{~m}\end{aligned}[/math]
+পানির আয়তন,[math]\begin{aligned}V & =10^{6} \times 10^{-2} \mathrm{~m}^{3} \\& =10^{4} \mathrm{~m}^{3}\end{aligned}[/math]
+ঘনত্ব, [math]\rho=1000 \mathrm{kgm}^{-3}[/math]
+কাজ, W = ?আমরা জানি,কাজ, W = mgh[math]\begin{array}{l}=\rho \mathrm{V} \cdot \mathrm{gh} \\=10^{3} \mathrm{kgm}^{-3} \times 10^{4} \mathrm{~m}^{3} \times \\\quad \quad 10^{3} \mathrm{~m} \times 9.8 \mathrm{~ms}^{-2} \\=9.8 \times 10^{10} \mathrm{~J} \text { (Ans.) }\end{array}[/math]
+
+
+Explanation:
+প্রথমে ভলিউম = পুরুত্ব × ক্ষেত্রফল = [math]1.0\times10^{-2}\,\mathrm{m}\times(1\,\mathrm{km}^2)=1.0\times10^{-2}\times10^6=1.0\times10^4\,\mathrm{m}^3[/math], তাই ভর = [math]1000\,\mathrm{kg/m^3}\times1.0\times10^4\,\mathrm{m}^3=1.0\times10^7\,\mathrm{kg}[/math]. কাজ = গ্র্যাভিটেশনাল সম্ভাব্য শক্তি = [math]mgh=1.0\times10^7\times9.8\times1000=9.8\times10^{10}\,\mathrm{J}[/math]. ব্যাখ্যা: মেঘ থেকে ভূমিতে উঠাতে যে কাজটি করা হয়েছে তা পানির ভরের বিরুদ্ধে উচ্চতা [math]h[/math] এ কাজ করা এবং সেটাই [math]mgh[/math] দিয়ে মেলা যায়।
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 408267)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years:  | Boards:  | Tags: Important
+--------------------------------------------------------------------------------
+Question:
+4টি ঘনকাকৃতি পাথর খণ্ডের প্রতিটির আয়তন [math]0.125 \mathrm{~m}^{3}[/math] ও ভর 250kg। এদে র একটি অপরটির উপর রেখে একটি স্তম্ভ প্রস্তুত করতে কৃত কাজের পরিমাণ নির্ণয় কর।
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+( Answer : 7350J )[math]\\[/math]
+Solution :প্রতিটি ঘনকের ভর, m = 250 kg'আয়তন, [math]\mathrm{a}^{3}=0.125 \mathrm{~m}^{3}[\mathrm{a}=[/math]
+ ঘনকের একটি ধারের দৈর্ঘ্য ][math]\therefore a=0.5 \mathrm{~m}[/math]
+বর্ণিত স্তম্ভ তৈরি করতে ঘনকগুলোর ভারকেন্দ্রের সরণ যথাক্রমে,[math]0 \mathrm{~m}, 1 \times 0.5 \mathrm{~m}, 2 \times 0.5 \mathrm{~m}, 3 \times 0.5 \mathrm{~m}[/math]
+ ।অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \cdot \mathrm{s}^{-2}[/math]
+ [math]\therefore[/math]
+ ঘনকগুলো একটি আরেকটির ওপর সাজিয়ে স্তম্ভ তৈরি করতে মোট কৃতকাজ,[math]\mathrm{W}=\mathrm{mg} \Sigma \mathrm{h}=250 \mathrm{~kg} \times 9.8 \mathrm{~m} . \mathrm{s}^{-2} \times 3=7350 \mathrm{~J} \text { (Ans.) }[/math]
+
+
+Explanation:
+ব্যাখ্যা: প্রতিটি ঘনকের পাশ [math]V=0.125\ \mathrm{m}^3\Rightarrow a=0.5\ \mathrm{m}[/math] হওয়ায় কেন্দ্রের প্রাথমিক উচ্চতা [math]0.25\ \mathrm{m}[/math] এবং স্তম্ভে কেন্দ্রগুলোর উচ্চতা হবে [math]0.25,\ 0.75,\ 1.25,\ 1.75\ \mathrm{m}[/math]। তাই উচ্চতার বৃদ্ধির যোগফল [math]0+0.5+1.0+1.5=3.0\ \mathrm{m}[/math] এবং কাজ = মোট ভর × g × উচ্চতার বৃদ্ধি = [math]250\times 9.8\times 3=7350\ \mathrm{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 408270)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Narail Govt. Victoria College
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা 10 m এবং ব্যাস 2m একটি পাম্প 20 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। কিন্তু কিছু সময় সাশ্রয়ের জন্য উক্ত পাম্পের সাথে 1 HP ক্ষমতাযুক্ত পাম্প লাগিয়ে কুয়াটিকে পানিশূন্য করে ।
+
+Options:
+গ. প্রথম পাম্পের কৃতকাজ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে, m কুয়ার পানির ভর [math]=V \rho[/math]
+ [math]V =[/math]
+ কুয়ার আয়তন [math]=\pi r^{2} l[/math]
+ [math]l =[/math]
+ কুয়ার গভীরতা = 10 m[math]\mathrm r =[/math]
+ কুয়ার ব্যাসার্ধ = কুয়ার ব্যাস / 2 [math]=\frac{2}{2}=1 \mathrm{~m}[/math]
+ [math]\mathrm h =[/math]
+ পানি ওঠানোর গড় উচ্চতা [math]=\frac{0+12}{2}=6 \mathrm{~m}[/math]
+ [math]\rho =[/math]
+ পানির ঘনত্ব [math]=1000 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+ [math]W =[/math]
+ কৃতকাজ [math]= ?[/math]
+আমরা জানি,[math]\hspace{1.5cm}\begin{aligned}\mathrm{W} & =\mathrm{F} \times \mathrm{h} \\& =\mathrm{mgh} \\& =\rho \mathrm{Vgh} \\& =\rho \pi \mathrm{r}^{2} \mathrm{lgh} \\& =1000 \times 3.1416 \times 1^{2} \times 10 \times 9.8 \times 6 \\& =1.847 \times 10^{6} \mathrm{J}\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: পাম্পের কৃতকাজ হলো পানি উত্থাপন করার জন্য করা কাজ, যা [math]W=ρVgh[/math] দ্বারা পাওয়া যায়। কুয়ার ভলিউম [math]V=πr^2h=π(1)^2(10)=10π\ \text{m}^3[/math], তাই [math]W=1000×10π×9.8×10=980000π\ \text{J}\approx3.08×10^6\ \text{J}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 408271)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2020 | Boards:  | Tags: Comilla Victoria Govt. College
+--------------------------------------------------------------------------------
+Question:
+কামাল সাহেবের একটি ভূগর্ভস্থ পানির ট্যাংক এর দৈর্ঘ্য 12 m এবং ব্যাস 4 m। এটির এক তৃতীয়াংশ পানিপূর্ণ। সে 2 hp এর একটি পাম্প দ্বারা ট্যাংকটি 2 ঘণ্টায় পানিশূন্য করতে চায় ।
+
+Options:
+গ. উদ্দীপকের ট্যাংক থেকে 10 kg পানি ভূপৃষ্ঠে কি পরিমাণ তুলতে কাজ করতে হবে?
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,পানির গড় সরণ, [math]\mathrm{h}=\left(8+\frac{4}{2}\right) \mathrm{m}=10 \mathrm{~m}[/math]
+পানির ভর, m = 10 kgঅভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+কৃতকাজ, w = ?আমরা জানি, [math]\mathrm{W}=\mathrm{mgh}[/math]
+ [math]\hspace{2.8cm}\begin{array}{l}=10 \mathrm{~kg} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times 10 \mathrm{~m} \\=980 \mathrm{~J}\end{array}[/math]
+নির্ণেয় কাজ 980 J. [math]\\[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ পানির ভর [math]m=10\ \text{kg}[/math], জড়তা ত্বরণ [math]g\approx9.8\ \text{m/s}^2[/math] এবং উত্থানের উচ্চতা ট্যাংকের ব্যাসার্ধ [math]h=2\ \text{m}[/math] (ব্যাস 4 m হলে)। তাই কাজ হবে [math]W=mg h=10\times9.8\times2=196\ \text{J}[/math] — এই কারণে উত্তর সঠিক।
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 408253)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2005-2006 | Boards:  | Tags: Chittagong University of Engineering & Technology
+--------------------------------------------------------------------------------
+Question:
+একটি মার্বেল পাথর খন্ডের উচ্চতা 4 ফুট এবং ভর 500 পাউন্ড। 22.500 ফুট পাউন্ড কাজ করতে ক তটি মার্বেল পাথর খন্ড একটির উপর একটি রেখে মোট কত ফুট উঁচু একটি স্তরে সাজাতে পারবে?
+
+Options:
+
+
+Correct Answer: 
+
+Solution:
+(Answer : [math]20 \ ft[/math]
+)[math]\\[/math]
+Solution :
+[Image]
+[math]1 \mathrm{ft}-\text { pound }=32 \mathrm{ft}-\text { poundal }[/math]
+ [math]\therefore 22500 \mathrm{ft}-\text { pound }=22500 \times 32=720000 \mathrm{ft}-\text { poundal }[/math]
+ [math]W=m g h \times \frac{n(n-1)}{2} \Rightarrow 720000=500 \times 32 \times 4 \times \frac{n(n-1)}{2}[/math]
+ [math]\Rightarrow n^{2}-n-22.5=0 \therefore n=5.27 \approx 5[/math]
+ [math]\therefore[/math]
+ স্তম্ভের উচ্চতা হবে [math]=5 \times 4=20 \mathrm{ft} \text { (Ans.) }[/math]
+
+
+Explanation:
+প্রতিটি পাথরকে একটির উপর রেখে স্তূপ করলে দ্বিতীয়টি [math]4\ \text{ft}[/math], তৃতীয়টি [math]8\ \text{ft}[/math] ইত্যাদি তুলে দিতে হয়, তাই মোট কাজ হবে [math]W=500\times4\times\sum_{k=0}^{n-1}k=1000\,n(n-1)[/math]. সমীকরণ দিলে [math]1000\,n(n-1)=22500\Rightarrow n(n-1)=22.5\Rightarrow n\approx5.27[/math], তাই সম্পূর্ণভাবে উঠানো যাবে মাত্র 5টি পাথর। ওই উচ্চতা হবে [math]5\times4=20\ \text{ft}[/math]।
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 408252)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2016 | Boards: Dinajpur Board | Tags: Dinajpur Board
+--------------------------------------------------------------------------------
+Question:
+খালিদের বাড়িতে 12 m গভীর ও 1.8m ব্যাসবিশিষ্ট একটি পানিপূর্ণ কুয়া খালি করার জন্য একটি পাম্প চালু করা হলো। কিন্তু দেখা গেল, পানিশূন্য করতে পাম্পটির 21 মিনিট সময় লেগে গেল। খালিদ হিসাব কষে দেখল, যথাসময়ে কুয়াটি পানিশূন্য করতে 2 HP ক্ষমতার পাম্প দরকার।
+
+Options:
+গ. 2 kg ভরের একটি বস্তুকে ছেড়ে দিলে পানিশূন্য কুয়ার শীর্ষ হতে তলায় পৌঁছাতে কত সময় লাগবে?
+
+
+Correct Answer: 
+
+Solution:
+গধরি, নির্ণেয় সময় [math]= \rm{t}[/math]
+উদ্দীপক হতে,[math]\hspace{1.2 cm}[/math]
+কুয়ার গভীরতা, [math]\rm{h}=12 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\rm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ [math]\hspace{1.2 cm}[/math]
+বস্তুর আদিবেগ, [math]\rm{u=0}[/math]
+আমরা জানি,[math]\hspace{1.6 cm}\begin{array}{l}\qquad\mathrm{h}=\rm{u t+\dfrac{1}{2} g^{2}}\\ \Rightarrow 12 \mathrm{~m}=0 . \mathrm{t}+\dfrac{1}{2} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times \mathrm{t}^{2}\\ \Rightarrow 12 \mathrm{~m}=4.9 \mathrm{t}^{2} \mathrm{~m} \mathrm{~s}^{-2}\\ \Rightarrow \rm{t}^{2}=\dfrac{12 \mathrm{~m}}{4.9 \mathrm{~m} \mathrm{~s}^{-2}}\\ \therefore \quad \mathrm{t}=1.565 \mathrm{~s}\end{array}[/math]
+অতএব, [math]2 \rm{~kg}[/math]
+ ভরের একটি বস্তুকে ছেড়ে দিলে পানি শূন্য কুয়ার শীর্ষ হতে তলায় পৌছাতে [math]1.565[/math]
+\rm{ ‍s}$ সময় লাগবে।
+
+Explanation:
+গ বস্তুর ভর পতনের সময়ে প্রভাব ফেলে না (বায়ুপ্রতিরোধ অগ্রাহ্য করা হলে); বিনা বাধায় সময় নির্ভর করে কেবল উচ্চতা ও মাধ্যাকর্ষণ ত্বরণের উপর। ব্যবহার করি [math]s=\tfrac{1}{2}gt^2[/math], তাই [math]t=\sqrt{\tfrac{2s}{g}}=\sqrt{\tfrac{24}{9.8}}\approx1.57\ \text{সেকেন্ড}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #19 (ID: 408251)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+50 cm বাহুবিশিষ্ট কোনো ঘনকের ভর 25 kg। এরূপ পাঁচটি ঘনককে একটির উপর আরেকটি রেখে একটি স্তম্ভ তৈরি করা হলো। অন্যদিকে অনুরূপ আরও পাঁচটি ব্লককে ভূমিতে পাশাপাশি সংযুক্ত করে খাড়া করা স্তম্ভটিকে হলো।
+
+
+[Image]
+
+
+Options:
+ঘ. স্তম্ভ তৈরির কোন উপায়টি অধিক গ্রহণযোগ্য? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।
+
+
+Correct Answer: 
+
+Solution:
+ঘএকের উপর এক ঘনক স্থাপন করে স্তম্ভ তৈরি করে কৃতকাজ পাওয়া যায়,
+[Image]
+[math]\hspace{1.6 cm}\begin{aligned} \mathrm{W}_{1} & =\mathrm{mg}\left(0+\mathrm{h}_{1}+\mathrm{h}_{2}+\mathrm{h}_{3}+\mathrm{h}_{4}\right) \\ & =25 \times 9.8(0+0.5+1+1.5+2) \\ & =25 \times 9.8 \times 5 \\ & =1225 \mathrm{~J} \end{aligned}[/math]
+দ্বিতীয় ক্ষেত্রে :
+[Image]
+ভারকেন্দ্রের সরণ[math]\hspace{1.6 cm}\mathrm{AB}=\mathrm{h}=\frac{5 \times .50}{2} \mathrm{~m}-\frac{.50}{2} \mathrm{~m}=1 \mathrm{~m}[/math]
+ব্লকগুলো ভূমিতে পাশাপাশি সংযুক্ত করলে মোট ভর,[math]\hspace{1.6 cm}\mathrm{m}^{\prime}=5 \times 25 \mathrm{~kg}=125 \mathrm{~kg}[/math]
+কাজ,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{W}_{2} & =\mathrm{mgh} \\ & =5 \times 25 \times 9.8 \times 1 \text { joule }=1225 \text { joule } \end{aligned}[/math]
+এখানে, [math]\rm{W_1 = W_2 }[/math]
+অর্থাৎ উভয় ক্ষেত্রে কৃতকাজের মান সমান। তবে প্রথম ক্ষেত্রে কাজটি ধাপে ধাপে করার কারণে পর্যায়ক্রমে শক্তি প্রয়োগ করতে হয়। কিন্তু দ্বিতীয় ক্ষেত্রে একসাথে বেশি শক্তি প্রয়োগ করতে হয়। তাই প্রথম উপায়টি বেশি গ্রহণযোগ্য।
+
+Explanation:
+ঘ গ্রহণযোগ্য উপায় হলো পাশাপাশি যুক্ত করে মাটিতে রাখলে; কারণ ভর [math]M=5\times25=125\ \text{kg}[/math] সমান থাকলেও একক ঘনকের তল অংশের ক্ষেত্রফল [math](0.5\ \text{m})^2=0.25\ \text{m}^2[/math] হলে স্তূপের ক্ষেত্রে যোগাযোগ ক্ষেত্রফল [math]0.25\ \text{m}^2[/math] কিন্তু পাশাপাশি যুক্ত করলে [math]5\times0.25=1.25\ \text{m}^2[/math], ফলে চাপে থাকবে [math]P_1=\frac{125\times9.8}{0.25}=4900\ \text{Pa}[/math] বনাম [math]P_2=\frac{125\times9.8}{1.25}=980\ \text{Pa}[/math] (৫ গুণ পার্থক্য)। উপরন্তু পাশাপাশি যুক্ত করলে ভরকেন্দ্র অনেক নিচু (উঁচু ≈ [math]2.5\ \text{m}[/math] বনাম নিচু ≈ [math]0.5\ \text{m}[/math]) হওয়ায় স্থিতিশীলতাও বেশি।
+
+Sub-Questions:
+
+================================================================================
+Question #20 (ID: 408249)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Barisal Board | Tags: Barisal Board
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা 10 m এবং ব্যাস 2 m। একটি পাম্প 20 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। উক্ত পাম্পের সাথে আরও একটি 1 HP ক্ষমতার পাম্প যুক্ত করে কুয়াটিকে পানিশূন্য করলে কিছু সময় সাশ্রয় হয়।
+
+Options:
+গ. প্রথম পাম্পের কৃতকাজ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1.2 cm}[/math]
+কুয়ার গভীরতা, [math]\mathrm{h}=10 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ব্যাসার্ধ, [math]\mathrm{r}=\dfrac{2}{2} \mathrm{~m}=1 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+ [math]\hspace{1.2 cm}[/math]
+পানির ঘনত্ব, [math]\rho=1000 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+কুয়ার পানির ভর,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{m} & =\rho \mathrm{V} \\ & =1000 \times \pi r^{2} \mathrm{~h} \\ & =1000 \times 3.1416 \times 1^{2} \times 10 \mathrm{~kg}=31416 \mathrm{~kg} \end{aligned}[/math]
+ [math]\therefore[/math]
+ ১ম পাম্পের কৃতকাজ,[math]\hspace{1.6 cm}\mathrm{W}_{1}=\mathrm{mg} \dfrac{\mathrm{h}}{2}=31416 \times 9.8 \times \dfrac{10}{2} \mathrm{~J}=1539384 \mathrm{~J}[/math]
+অতএব, প্রথম পাম্পের কাজ [math]1539384 \mathrm{~J}[/math]
+।
+
+Explanation:
+গ কৃতকাজ = ওজন × গড় উঠানোর দূরত্ব; এখানে [math]r=1\ \text{m},\ h=10\ \text{m}[/math] হলে [math]V=πr^2h=10π\ \text{m}^3[/math], [math]m=1000V=10000π\ \text{kg}[/math].  
+অতএব [math]W=mg\cdot\frac{h}{2}=10000π×9.8×5=490000π\ \text{J}\approx1.54\times10^6\ \text{J}[/math], যা প্রথম পাম্পের কৃতকাজ।
+
+Sub-Questions:
+
+================================================================================
+Question #21 (ID: 408250)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2017 | Boards: Chittagong Board | Tags: Chattogram Board
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা 20 m ও ব্যাস 2 m. কুয়াটিকে পানিশূন্য করার জন্য 5 HP-এর একটি পাম্প লাগানো হলো। অর্ধেক পানি তোলার পর পাম্পটি নষ্ট হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষমতাসম্পন্ন আর একটি পাম্প লাগানো হলো।
+
+Options:
+গ. প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় কর।
+
+
+Correct Answer: 
+
+Solution:
+গধরি, ১ম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]\mathrm{W}_{1}[/math]
+উদ্দীপক হতে,[math]\hspace{1.2 cm}[/math]
+কুয়ার গভীরতা, [math]\mathrm{h}=20 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অর্ধেক গভীরতা, [math]\mathrm{h}_{1}=\dfrac{20 \mathrm{~m}}{2}=10 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+ব্যাস, [math]\rm{d=2 ~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+গড় সরণ, [math]\rm{h^{\prime}=\dfrac{10 m+0 m}{2}}=5 \mathrm{~m}[/math]
+ [math]\hspace{1.2 cm}[/math]
+অভিকর্ষজ ত্বরণ, [math]\rm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}[/math]
+কুয়ার আয়তন,[math]\hspace{1.6 cm}\mathrm{V}=\dfrac{1}{4} \pi \mathrm{d}^{2} \mathrm{~h}=\dfrac{1}{4} \times 3.1416 \times(2 \mathrm{~m})^{2} \times 20 \mathrm{~m}[/math]
+ [math]\hspace{1.6 cm}\therefore \rm{~V}=62.832 \mathrm{~m}^{3}[/math]
+পানির ঘনত্ব,[math]\hspace{1.6 cm}\rho=1000 \mathrm{~kg} \mathrm{~m}^{-3}[/math]
+ [math]\therefore[/math]
+ পানির ভর,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{m} & =\rho \mathrm{V} \\ & =1000 \mathrm{~kg} \mathrm{~m}^{-3} \times 62.832 \mathrm{~m}^{3}=62832 \mathrm{~kg} \end{aligned}[/math]
+অর্ধেক পানির ভর,[math]\hspace{1.6 cm}\mathrm{m}^{\prime}=\dfrac{1}{2} \mathrm{~m}=\dfrac{1}{2} \times 62832 \mathrm{~kg}=31416 \mathrm{~kg}[/math]
+ [math]\therefore[/math]
+ কৃতকাজ,[math]\hspace{1.6 cm}\begin{aligned} \mathrm{W}_{1} & =\mathrm{m}^{\prime} \mathrm{gh}^{\prime} \\ & =31416 \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times 5 \mathrm{~m}=1.54 \times 10^{6} \mathrm{~J} \end{aligned}[/math]
+সুতরাং প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]1.54 \times 10^{6} \mathrm{~J}[/math]
+।
+
+Explanation:
+ব্যাখ্যা: কুয়ার উচ্চতা 20 m হলে অর্ধেক পানি তোলার পরে পানি উচ্চতা 10 m-এ নেমে আসে, ফলে তোলা পরিমাণ পানি কুয়ার উপরের 10 m অংশ; প্রতিটি পাতলা স্তরের তুলতে লাগা দূরত্ব হলো [math](20-y)[/math] যেখানে [math]y[/math] নীচ থেকে মাত্রা। 
+
+গ প্রথম পাম্পের কাজ:
+[math]W=\rho g A\int_{10}^{20}(20-y)\,dy[/math] যেখানে [math]A=\pi(1)^2=\pi\ \text{m}^2[/math], তাই
+[math]W=1000\times9.8\times\pi\times50\approx1.54\times10^{6}\ \text{J}.[/math]
+
+Sub-Questions:
+
+================================================================================
+Question #22 (ID: 408248)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2019 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+উদ্দীপকে 25 kg ভরের একজন বালক 3 kg ভরের একটি গোলক হাতে নিয়ে সিঁড়ি বেয়ে ছাদে উঠতে 2 m সময় নিল। ছাদ হতে গোলকটি ছেড়ে দেয়ায় তা সিঁড়ি বেয়ে গড়িয়ে মাটিতে পড়ল ।
+
+
+[Image]
+
+
+Options:
+গ. বালকটি ছাদে উঠতে অভিকর্ষ বলের বিরুদ্ধে কত কাজ করেছে?
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+[math]\qquad \quad\begin{aligned} \sin 30^{\circ} & =\rm{\frac{A B}{A C} }\\ \Rightarrow \frac{1}{2} & =\frac{A B}{20 \mathrm{~m}} \\ \therefore ~\rm{A B} & =10 \mathrm{~m} \end{aligned}[/math]
+ধরি, অভিকর্ষ বলের বিরুদ্ধে কাজের পরিমাণ [math]\rm{W}[/math]
+গোলকসহ বালকের ভর, [math]\rm{m = (25 +3) ~kg = 28 ~kg}[/math]
+ছাদের উচ্চতা, [math]\rm{h = 10 ~m }[/math]
+আমরা জানি, [math]\mathrm{W}=\mathrm{mgh}=28 \mathrm{~kg} \times 9.8 \mathrm{~m} \mathrm{~s}^{-2} \times 10 \mathrm{~m}[/math]
+ [math]\hspace{1.6 cm}\therefore ~\rm{W}=2744 \mathrm{~J}[/math]
+সুতরাং, অভিকর্ষ বলের বিরুদ্ধে কাজের পরিমাণ [math]2744 \mathrm{~J}[/math]
+।
+
+Explanation:
+গ কাজটি অভিকর্ষের বিরুদ্ধে গুরত্বীয় সম্ভাব্য শক্তির বৃদ্ধি, তাই [math]W=(M+m)gh[/math] যেখানে [math]M=25\ \text{kg},\ m=3\ \text{kg},\ h=2\ \text{m},\ g=9.8\ \text{m/s}^2[/math].  
+তাই [math]W=(25+3)\times9.8\times2=28\times19.6=548.8\ \text{J}\approx5.49\times10^2\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #23 (ID: 408247)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards: Sylhet Board | Tags: Sylhet Board
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা [math]20 \mathrm{~m}[/math] এবং ব্যাস [math]2 \mathrm{~m}[/math] কুয়াটিকে পানি শূন্য করার জন্য [math]5\mathrm{~HP}[/math] ক্ষমতার একটি পাম্প লাগানো হলো। কুয়ার উপরের [math]\dfrac{1}{4}[/math] অংশ পানি তোলার পর পাম্পটি বন্ধ হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষ মতাসম্পন্ন আর একটি পাম্প লাগানো হল
+
+Options:
+গ. প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,[math]\hspace{1 cm}[/math]
+কুয়ার পানির আয়তন,[math]\hspace{2.5 cm}\begin{aligned} \mathrm{V} & =\pi r^{2} h \\ & =\pi \times\left(\frac{2}{2}\right)^{2} \times 20=62.83 \mathrm{~m}^{3} \end{aligned}[/math]
+ [math]\hspace{1 cm}\frac{1}{4}[/math]
+ অংশ পানির ভর,[math]\hspace{2.5 cm}\begin{aligned} \mathrm{m} &=\frac{1}{4} \rho \mathrm{V} \\ &=\frac{1}{4} \times 62.83 \times 1000 \\ & =15707.5 \mathrm{~kg} \end{aligned}[/math]
+ [math]\hspace{1 cm}[/math]
+পানির গড় সরণ, [math]\mathrm{h}_{1}=\frac{0+20 \times \frac{1}{4}}{2} \mathrm{~m} =2.5 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+কৃতকাজ, [math]W_1= ?[/math]
+১ম পাম্পের কৃতকাজ,[math]\hspace{1.8 cm}\begin{aligned} \mathrm{W}_{1} & =\mathrm{mgh}_{1} \\ & =15707.5 \times 9.8 \times 2.5 \\ & =384.83 \times 10^{3} \mathrm{~J} \textbf{(Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+গ কারণ কুয়ার উপরিভাগের [math]\dfrac{1}{4}[/math] অংশ (উঁচু [math]5\ \mathrm{m}[/math]) থেকে পানি তুললে কাজটি পানির ওজনকে তার কেন্দ্রবিন্দু থেকে শীর্ষ পর্যন্ত গড় উচ্চতা উত্তোলন করার সমান।  
+[math]V=πr^2h=π(1)^2(5)=5π\ \mathrm{m^3},\quad W_{weight}=ρgV=1000×9.8×5π=49000π\ \mathrm{N},\quad \text{গড় উচ্চতা}=2.5\ \mathrm{m}[/math].  
+অতএব কাজটি = [math]49000π×2.5=122500π\ \mathrm{J}\approx3.85×10^5\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #24 (ID: 408246)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2021 | Boards:  | Tags: Cumilla Board
+--------------------------------------------------------------------------------
+Question:
+একটি কূপের গভীরতা এবং ব্যাসার্ধ যথাক্রমে [math]10 \mathrm{~m}[/math] এবং [math]3.44 \mathrm{~m}[/math]। একটি ইঞ্জিন [math]3[/math] মিনিটে কূপটি পানিশূন্য করতে পারে। পরে ইঞ্জিনটিকে [math]1200 \mathrm{~kg}[/math] ভরের একটি গাড়ির ইঞ্জিন হিসেবে ব্যবহার করা হলো।
+
+Options:
+গ. কূপের ক্ষেত্রে ইঞ্জিন দ্বারা সম্পাদিত কাজের হিসাব করো।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,[math]\hspace{1 cm}[/math]
+কূপের গভীরতা, l = 10 m[math]\hspace{1 cm}[/math]
+কূপের ব্যাসার্ধ, r = 3.44 m[math]\hspace{1 cm}[/math]
+পানির ভর, [math]\mathrm{m}=\mathrm{V} \rho =\pi r^{2} l \rho[/math]
+ [math]\hspace{1 cm}[/math]
+পানির শূন্য করার ক্ষেত্রে, পানির গড় সরণ, [math]\mathrm{h}=\frac{0+l}{2}=\frac{0+10}{2} \mathrm{~m}=5 \mathrm{~m}[/math]
+ [math]\hspace{1 cm}[/math]
+ঘনত্ব, [math]\rho=1000 \mathrm{~kgm}^{-3}[/math]
+ [math]\hspace{1 cm}\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+ [math]\hspace{1 cm}[/math]
+ইঞ্জিন দ্বারা কৃতকাজ, w =?আমরা জানি,[math]\hspace{1.5 cm}\begin{aligned} \mathrm{w} &=\mathrm{mgh} \\ &=\pi \mathrm{r}^{2} l \rho \mathrm{gh} \\ & =3.1416 \times(3.44)^{2} \times 10 \times 1000 \times 9.8 \times 5 \\ & =18.21 \times 10^{6} \mathrm{~J} \text {(Ans.) } \end{aligned}[/math]
+
+
+Explanation:
+ব্যাখ্যা:
+গ কূপের ক্ষেত্রে তোলার কাজ = ∫0^h ρ g A x dx = [math]\rho g A \dfrac{h^2}{2}[/math], যেখানে [math]A=\pi r^2=\pi(3.44)^2\approx37.17\ \mathrm{m^2}[/math]. তাই কাজ ≈ [math]1000\times9.8\times37.17\times\dfrac{10^2}{2}\approx1.82\times10^{7}\ \mathrm{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #25 (ID: 408245)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2022 | Boards: Rajshahi Board | Tags: Rajshahi Board
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা 12 m এবং ব্যাসার্ধ 1.2 m। একটি পাম্প 20 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। পাম্পটির ক্ষমতা 52% নষ্ট হলেও পাম্পচালক কুয়াটির সম্পূর্ণ পানি একই পাম্প দ্বারা দ্বিগুণ সময়ে খালি করা সম্ভব বলে মন্তব্য করেন।
+
+Options:
+গ. কুয়াটিকে পানিশূন্য করতে কৃতকাজের পরিমাণ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গএখানে,কুয়ার গভীরতা, h = 12 mকুয়ার ব্যাসার্ধ, r = 1.2 mকুয়ার পানির আয়তন,[math]\begin{aligned} V & =\pi r^{2} h \\ & =\pi \times(1.2)^{2} \times 12=54.29 \mathrm{~m}^{3} \end{aligned}[/math]
+পানির ভর,[math]\begin{aligned} \mathrm{m} & =\rho \mathrm{V} \\ & =54.29 \times 1000 \\ & =54290 \mathrm{~kg} \end{aligned}[/math]
+পানির গড় সরণ, [math]\mathrm{h}_{1}=\frac{0+12}{2} \mathrm{~m}=6 \mathrm{~m}[/math]
+কৃতকাজ, [math]\mathrm{W}_{1}=\text { ? }[/math]
+১ম পাম্পের কৃতকাজ,[math]\begin{aligned} \mathrm{W}_{1} & =\mathrm{mgh}_{1} \\ & =54290 \times 9.8 \times 6 \\ & =3192252 \mathrm{~J}(\text { Ans. }) \end{aligned}[/math]
+
+
+Explanation:
+সমাধান: গ কাজটি পানির ভরের গ্র্যাভিটেশনাল পোটেনশিয়াল এনার্জি বৃদ্ধি, তাই কাজ = ওজন × গড় উত্থান। তাই
+[math]W=ρg(π r^2 h)\frac{h}{2}=\frac{ρgπ r^2 h^2}{2}[/math]
+এখানে [math]ρ=1000\ \text{kg/m}^3,\ g=9.8\ \text{m/s}^2,\ r=1.2\ \text{m},\ h=12\ \text{m}[/math], ফলে
+[math]W\approx3.19\times10^6\ \text{J}[/math].
+
+Sub-Questions:
+
+================================================================================
+Question #26 (ID: 408244)
+--------------------------------------------------------------------------------
+Type: CQ | Book: পদার্থ বিজ্ঞান ১ম পত্র | Years: 2023 | Boards: Dhaka Board | Tags: Dhaka Board
+--------------------------------------------------------------------------------
+Question:
+একটি পানিপূর্ণ কুয়ার গভীরতা 15 m ও ব্যাসার্ধ । m। কুয়াটি পানিশূন্য | করার জন্য 6 HP একটি পাম্প লাগানো হলো। অর্ধেক পানি উঠানোর পর পাম্পটি নষ্ট হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষমতাসম্পন্ন আরো একটি পাম্প লাগানো হল ।
+
+Options:
+গ. প্রথম পাম্পের দ্বারা কৃতকাজ নির্ণয় করো।
+
+
+Correct Answer: 
+
+Solution:
+গ
+[Image]
+এখানে,কুয়ার গভীরতা, l = 15 mব্যাসার্ধ, r = 1 mকুয়াটি অর্ধেক পানিশূন্য করার ক্ষেত্রে গড় সরণ, [math]\mathrm{h}=\frac{0+\frac{l}{2}}{2}=\frac{l}{4}=\frac{15}{4} \mathrm{~m}=3.75 \mathrm{~m}[/math]
+অর্ধেক পানির ভর, [math]\mathrm{m}=\mathrm{V} \rho=\frac{\pi \mathrm{r}^{2} l}{2} \rho[/math]
+পানির ঘনত্ব, [math]\rho=1000 \mathrm{kgm}^{-3}[/math]
+ [math]\mathrm{g}=9.8 \mathrm{~ms}^{-2}[/math]
+কৃতকাজ, W = ?কুয়াটির অর্ধেক পানি শূন্য করার ক্ষেত্রে ·কৃতকাজ, W = mgh[math]\begin{aligned}= & \frac{\pi \mathrm{r}^{2} l}{2} \rho \times \mathrm{g} \times \mathrm{h} \\= & \frac{1}{2} \times 3.1416 \times(1)^{2} \times 15 \\& \times 1000 \times 9.8 \times 3.75 \\= & 865903.5 \mathrm{~J}(\text { Ans. })\end{aligned}[/math]
+ [math]\\[/math]
+
+
+Explanation:
+গ ব্যাখ্যা: কুয়ার উপরের অর্ধেক পানি তুলে নিলেই সেই পানির মোট ভলিউম [math]\tfrac{1}{2}\pi r^2\times 15[/math] এবং সেই অর্ধেক পানির গড় উত্থানদূরত্ব হচ্ছে [math]3.75\ \text{m}[/math], তাই প্রথম পাম্পের কৃতকাজ হবে  
+[math]W=\rho g\;\times\;\frac{1}{2}\pi r^2\times 15\times 3.75=\rho g\pi r^2\frac{225}{8}[/math]. এই ফলাফলটি কাজের হিসাবকে সহজ করে কারণ আমরা স্লাইস ইন্টিগ্রেশনের বদলে ভর×গড় উত্থানদূরত্ব ব্যবহার করেছি।
+
+Sub-Questions:
+
