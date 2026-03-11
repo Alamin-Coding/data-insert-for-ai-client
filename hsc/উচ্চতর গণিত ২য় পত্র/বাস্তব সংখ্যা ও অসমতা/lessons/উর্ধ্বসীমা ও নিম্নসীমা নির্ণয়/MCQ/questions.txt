@@ -1,0 +1,450 @@
+================================================================================
+Question #1 (ID: 792274)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: ঢাকা বিশ্ববিদ্যালয়'৮,ইসলামী বিশ্ববিদ্যালয়'১৬
+--------------------------------------------------------------------------------
+Question:
+[math]5 x-x^2-6&gt;0[/math] হলে-
+
+Options:
+ক. <span class="math-tex">\( x&lt;2\)</span>
+খ. <span class="math-tex">\(2&gt;x&gt;3\)</span>
+গ. <span class="math-tex">\( 2&lt;x&lt;3\)</span>
+ঘ. <span class="math-tex">\(x&gt;3, x&lt;2\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(5 x-x^2-6&gt;0 \Rightarrow x^2-5 x+6&lt;0\)\(\begin{aligned}&amp; \Rightarrow \mathrm{x}^2-3 \mathrm{x}-2 \mathrm{x}+6&lt;0\\ &amp;\Rightarrow \mathrm{x}(\mathrm{x}-3)-2(\mathrm{x}-3)&lt;0 \\&amp; \Rightarrow(\mathrm{x}-3)(\mathrm{x}-2)&lt;0\\ &amp;\therefore 2&lt;\mathrm{x}&lt;3\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #2 (ID: 792282)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব বি. ও প্র.বি'১৮
+--------------------------------------------------------------------------------
+Question:
+যদি [math]A=\left\{x \in N: 4 \leq x^2 \leq 81\right\}[/math]  হয়, তবে Sup A কত?
+
+Options:
+ক. <span class="math-tex">\(2\)</span>
+খ. <span class="math-tex">\(4\)</span>
+গ. <span class="math-tex">\(9\)</span>
+ঘ. <span class="math-tex">\(10\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(A=\left\{x \in N: 4 \leq x^2 \leq 81\right\}=\{x \in N: 2 \leq x \leq 9\} =\{2,3,4,5,6,7,8,9\}\) যা উর্ধ্বে সীমিত সেট।\(\therefore \mathrm{A}\) এর লঘিষ্ঠ উর্ধ্বসীমা =9অর্থাৎ \(\operatorname{Sup} \mathrm{A}=9\)আবার A এর গরিষ্ঠ নিম্নসীমা =2অর্থাৎ \(\operatorname{Inf} \mathrm{A}=2\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #3 (ID: 792281)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্র.বি'১৭
+--------------------------------------------------------------------------------
+Question:
+ [math]\left\{x: x=(-1)^{\mathrm{n}} \cdot \frac{1}{\mathrm{n}} ; \mathrm{n} \in \mathrm{N}\right\}[/math] সেটের  [math]\sup[/math] এবং [math]inf[/math]  নিম্নের কোনটি?
+
+Options:
+ক. 0 এবং &nbsp;-1
+খ. -1 এবং <span class="math-tex">\(-\frac{1}{2}\)</span>
+গ. <span class="math-tex">\(\frac{1}{2} \)</span>এবং -1
+ঘ. কোনোটিই নয়
+
+
+Correct Answer: গ
+
+Solution:
+\(\begin{aligned}&amp; \text {  }\left\{x: x=(-1)^{\mathrm{n}} \cdot \frac{1}{\mathrm{n}}: \mathrm{n} \in \mathrm{N}\right\} \\&amp; =\left\{-1, \frac{1}{2},-\frac{1}{3}, \frac{1}{4},-\frac{1}{5}, \ldots \ldots \ldots \ldots . .0\right\} \\&amp; =\left\{\ldots \ldots \ldots . \frac{1}{5},-\frac{1}{3},-1,0, \frac{1}{2}, \frac{1}{4}, \frac{1}{6} \ldots \ldots \ldots \ldots\right\} \\&amp; =\left\{-1,-\frac{1}{3},-\frac{1}{5} \ldots \ldots \ldots . .0 \ldots \ldots . . . \frac{1}{6}, \frac{1}{4}, \frac{1}{2}\right\}\end{aligned}\)\(\therefore\) সেটের\(sup =\frac{1}{2}\) এবং সেটের\(inf =-1\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #4 (ID: 792280)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: KUET'১৭
+--------------------------------------------------------------------------------
+Question:
+ [math]\frac{x+4}{x+3}&gt;\frac{x-6}{x-7}[/math]অসমতাটির সমাধান হলো- 
+
+Options:
+ক. <span class="math-tex">\( -4&lt;x&lt;6\)</span>
+খ. <span class="math-tex">\(-4 \leq x \leq 6\)</span>
+গ. <span class="math-tex">\(x&lt;-3\)</span>&nbsp;এবং&nbsp;<span class="math-tex">\(x&gt;7\)</span>
+ঘ. <span class="math-tex">\(-3&lt;x&lt;7\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\(\frac{x+4}{x+3}-\frac{x-6}{x-7}&gt;0\\\Rightarrow \frac{(x+4)(x-7)-(x-6)(x+3)}{(x+3)(x-7)}&gt;0\\\Rightarrow \frac{-10}{(\mathrm{x}+3)(\mathrm{x}-7)}&gt;0\\ \Rightarrow(\mathrm{x}+3)(\mathrm{x}-7)&lt;0\\ \therefore-3&lt;\mathrm{x}&lt;7\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #5 (ID: 792279)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+ [math]S=\{x \in R: x \leq 0\}[/math]  হলে, S এর লঘিষ্ঠ উর্ধ্বসীমা কত?
+
+Options:
+ক. <span class="math-tex">\(1\)</span>
+খ. <span class="math-tex">\( -1\)</span>
+গ. <span class="math-tex">\(2\)</span>
+ঘ. <span class="math-tex">\(0\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\(S=\{x \in R: x \leq 0\}=(-\infty, 0]\)লঘিষ্ঠ উর্ধ্বসীমা = 0
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #6 (ID: 792278)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'১৪
+--------------------------------------------------------------------------------
+Question:
+অসমতা [math]x \leq x^2[/math] এর সমাধান হবে- 
+
+Options:
+ক. <span class="math-tex">\(x \leq 0\)</span>
+খ. <span class="math-tex">\(1 \leq x\)</span>
+গ. <span class="math-tex">\(0 \leq x \leq 1\)</span>
+ঘ. <span class="math-tex">\(\mathrm{x} \leq 0 \)</span>&nbsp;অথবা&nbsp;<span class="math-tex">\(1 \leq \mathrm{x}\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\(x \leq x^2 \Rightarrow x^2 \geq x\\ \Rightarrow x^2-x \geq 0\\\Rightarrow \mathrm{x}(\mathrm{x}-1) \geq 0\\ \Rightarrow \mathrm{x} \leq 0\)অথবা ;\(\mathrm{x}-1 \geq 0\\\Rightarrow \mathrm{x} \leq 0\)অথবা ,\(\mathrm{x} \geq 1\\\Rightarrow \mathrm{x} \leq 0\)অথবা ,\(​​​​​​​1 \leq \mathrm{x}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #7 (ID: 792277)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'১৮
+--------------------------------------------------------------------------------
+Question:
+[math]8 x+3&lt;3 x^2[/math] হলে, x এর মান নির্ণয় কর।
+
+Options:
+ক. <span class="math-tex">\( x&gt;3\ or\ x&lt;-\frac{1}{3}\)</span>
+খ. <span class="math-tex">\(\mathrm{x}&lt;3\)</span>
+গ. <span class="math-tex">\(x&gt;8\)</span>
+ঘ. <span class="math-tex">\( -\frac{1}{3}&lt;x&lt;3\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+\(8 x+3&lt;3 x^2 \Rightarrow 3 x^2-8 x-3&gt;0\)\(\begin{aligned} &amp; \Rightarrow 3 x^2-9 x+x-3&gt;0 \Rightarrow 3 x(x-3)+(x-3)&gt;0 \\ &amp; \Rightarrow(x-3)(3 x+1)&gt;0 \Rightarrow(x-3)\left(x+\frac{1}{3}\right)&gt;0\\ &amp;\therefore x&gt;3 \text { or } x&lt;-\frac{1}{3} \end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #8 (ID: 792276)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: রাজশাহী বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+ x এর কোন মানের জন্য  [math]\left(x^2-1\right)(x-2)&gt;0\ ?[/math] 
+
+Options:
+ক. <span class="math-tex">\(S=\{x: x&lt;-1,1&lt;x&lt;2\}\)</span>
+খ. <span class="math-tex">\(S=\{x:-1&lt;x&lt;1, x&gt;2\}\)</span>
+গ. <span class="math-tex">\(S=\{x:-1&lt;x&lt;2\}\)</span>
+ঘ. <span class="math-tex">\(S=\{x: x&lt;1, x&gt;2\}\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+\(x-2&gt;0 \therefore x&gt;2\)\(\begin{aligned}&amp; \left(x^2-1\right)&lt;0 \Rightarrow x^2&lt;1 \\&amp; \Rightarrow|x|&lt;1 \Rightarrow-1&lt;x&lt;1 \\&amp; S=\{x:-1&lt;x&lt;1, x&gt;2\}\end{aligned}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #9 (ID: 792275)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯
+--------------------------------------------------------------------------------
+Question:
+ [math]\frac{1}{(x-7)(x-9)}&lt;0[/math] অসমতাটির সমাধান নিচের কোনটি?
+
+Options:
+ক. <span class="math-tex">\(-7&lt;x&lt;-1\)</span>
+খ. <span class="math-tex">\(7&lt;x&lt;-9\)</span>
+গ. <span class="math-tex">\(-7&lt;x&lt;9\)</span>
+ঘ. <span class="math-tex">\(7&lt;x&lt;9\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\(\frac{1}{(x-7)(x-9)}&lt;0\\\Rightarrow(x-7)(x-9)&lt;0\\ \therefore 7&lt;x&lt;9\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #10 (ID: 792265)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+বাস্তব সংখ্যার [math]S=\{0,1,2,3,4,5\}[/math] উপসেটটির গরিষ্ঠ নিম্নসীমা ও লঘিষ্ঠ ঊর্ধ্বসীমা কোনগুলো হবে?
+
+Options:
+ক. <span class="math-tex">\(0,5\)</span>
+খ. <span class="math-tex">\(1,5\)</span>
+গ. <span class="math-tex">\(2,5\)</span>
+ঘ. <span class="math-tex">\(-1,-5\)</span>
+
+
+Correct Answer: ক
+
+Solution:
+গরিষ্ঠ নিম্নসীমা = 0; লঘিষ্ঠ ঊর্ধ্বসীমা = 5
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #11 (ID: 792273)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: বাংলাদেশ কৃষি বিশ্ববিদ্যালয়'১৮,KUET'৪,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৫
+--------------------------------------------------------------------------------
+Question:
+বাস্তব সংখ্যার উপসেট [math]S = {x: 5x² - 16x + 3≤0}[/math] এর লঘিষ্ঠ উর্ধ্বসীমা কোনটি?
+
+Options:
+ক. <span class="math-tex">\( -5\)</span>
+খ. <span class="math-tex">\(-3\)</span>
+গ. <span class="math-tex">\(3\)</span>
+ঘ. <span class="math-tex">\(5\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+এখানে, \(5 x^2-16 x+3 \leq 0\)\(\begin{aligned}&amp; \Rightarrow 5 x^2-15 x-x+3 \leq 0\\ &amp;\Rightarrow 5 x(x-3)-(x-3) \leq 0 \\&amp; \Rightarrow(x-3)(5 x-1) \leq 0\\ &amp;\Rightarrow(x-3)\left(x-\frac{1}{5}\right) \leq 0\\ &amp;\therefore \frac{1}{5} \leq x \leq 3\end{aligned}\)\(\therefore \)লঘিষ্ট উর্ধ্বসীমা\((\operatorname{supS})=3\) এবং গরিষ্ঠ নিম্নসীমা\((\inf S)=\frac{1}{5}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #12 (ID: 792272)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৪
+--------------------------------------------------------------------------------
+Question:
+[math](x-1)(x+2)(x-3)=6[/math] সমীকরণের সমাধান সেট হবে
+
+Options:
+ক. <span class="math-tex">\(\{1,-2,3\}\)</span>
+খ. <span class="math-tex">\(\{0,1,3\}\)</span>
+গ. <span class="math-tex">\(\{0, \sqrt{6},-\sqrt{6}\}\)</span>
+ঘ. <span class="math-tex">\( \{0,1+\sqrt{6}, 1-\sqrt{6}\}\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\((x-1)(x+2)(x-3)=6\\\Rightarrow\left(\mathrm{x}^2+\mathrm{x}-2\right)(\mathrm{x}-3)=6\\ \Rightarrow \mathrm{x}^3-3 \mathrm{x}^2+\mathrm{x}^2-3 \mathrm{x}-2 \mathrm{x}+6=6\\\Rightarrow \mathrm{x}^3-2 \mathrm{x}^2-5 \mathrm{x}=0\\ \Rightarrow \mathrm{x}\left(\mathrm{x}^2-2 \mathrm{x}-5\right)=0\\\Rightarrow x=0, x=\frac{2 \pm \sqrt{4+20}}{2}=\frac{2 \pm 2 \sqrt{6}}{2}=1 \pm \sqrt{6}\)সমাধান সেট,\(\{0,1+\sqrt{6}, 1-\sqrt{6}\}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #13 (ID: 792271)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর'১৭
+--------------------------------------------------------------------------------
+Question:
+[math]A = {x∈R:x-2|≤3}[/math]এর ক্ষুদ্রতম ঊর্ধ্বসীমা কত?
+
+Options:
+ক. <span class="math-tex">\( 4\)</span>
+খ. <span class="math-tex">\(3\)</span>
+গ. <span class="math-tex">\(5\)</span>
+ঘ. <span class="math-tex">\(2\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(|x-2| \leq 3 \Rightarrow-3 \leq x-2 \leq 3\)\(\Rightarrow-3+2 \leq x \leq 3+2 \Rightarrow-1 \leq x \leq 5 \Rightarrow[-1,5]\)\(\therefore\) ক্ষুদ্রতম উর্ধ্বসীমা =5
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #14 (ID: 792270)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+অসমতা [math]x^2-3 x+2 \leq 0[/math]  এর সমাধান হচ্ছে- 
+
+Options:
+ক. <span class="math-tex">\((-\infty, 1)\)</span>
+খ. <span class="math-tex">\((1,2)\)</span>
+গ. <span class="math-tex">\([1,2]\)</span>
+ঘ. <span class="math-tex">\( [2, \infty)\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(\mathrm{x}^2-3 \mathrm{x}+2 \leq 0\\ \Rightarrow \mathrm{x}^2-2 \mathrm{x}-\mathrm{x}+2 \leq 0\\\Rightarrow(x-1)(x-2) \leq 0\\ \Rightarrow 1 \leq x \leq 2 \Rightarrow[1,2]\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #15 (ID: 792269)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৭
+--------------------------------------------------------------------------------
+Question:
+[math]S=\left\{x \in N: 9 \leq x^2 \leq 36\right\}[/math]হলে, [math]\sup S[/math]  কোনটি?
+
+Options:
+ক. <span class="math-tex">\( 3\)</span>
+খ. <span class="math-tex">\(4\)</span>
+গ. <span class="math-tex">\(6\)</span>
+ঘ. <span class="math-tex">\(18\)</span>
+
+
+Correct Answer: গ
+
+Solution:
+\(S=\left\{x \in N: 9 \leq x^2 \leq 36\right\}\)এখানে,\(​​​​​​​ 9 \leq x^2 \leq 36 \Rightarrow 3 \leq x \leq 6\\\therefore S=\{3,4,5,6\} \quad\\ \therefore Sup S=6\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #16 (ID: 792268)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: ঢাকা বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+অসমতা [math]\frac{x(x+1)}{x-2}&gt;0[/math]  এর সমাধান সেট হলো- 
+
+Options:
+ক. <span class="math-tex">\(x&lt;-1\)</span>
+খ. <span class="math-tex">\(x&gt;1\)</span>
+গ. <span class="math-tex">\(0 \leq x&lt;2\)</span>
+ঘ. <span class="math-tex">\(-1&lt;x&lt;0, x&gt;2\)</span>
+
+
+Correct Answer: ঘ
+
+Solution:
+\(\frac{x(x+1)}{x-2}&gt;0 \ldots \ldots (i)\)(i) নং অসমতাটি সত্য হবে যদি এবং কেবল যদি\(\mathrm{x},(\mathrm{x}+1) \) এবং\((\mathrm{x}-2) \) এই তিনটির মধ্যে তিনটির চিহ্ন ধনাত্মক অথবা তিনটির মধ্যে দুইটির চিহ্ন ঋণাত্মক এবং একটির চিহ্ন ধনাত্মক হয়।						শর্ত			x এর চিহ্ন			(x+1) এর চিহ্ন			(x-2) এর চিহ্ন							\(x&lt;-1\)			-			-			-							\(-1&lt;x&lt;0 \)			-			+			-							\(0&lt;x&lt;2\)			+			+			-							\(x&gt;2\)			+			+			+			(i) নং সত্য হবে যদি \(-1&lt;x&lt;0 \)অথবা \(x&gt;2 \)হয়।\(\therefore \)নির্ণেয় সমাধান সেট,\(S=\{x \in R:-1&lt;x&lt;0\} \cup\{x \in R: x&gt;2\}\)
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #17 (ID: 792267)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: GST গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২০,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০
+--------------------------------------------------------------------------------
+Question:
+বাস্তব সংখ্যার [math]S=\left\{\frac{1}{n}: n \in N\right\}[/math]  উপসেটটির গরিষ্ঠ নিম্নসীমা ও লঘিষ্ঠ ঊর্ধ্বসীমা কোনগুলো হবে?
+
+Options:
+ক. <span class="math-tex">\(0,1\)</span>
+খ. <span class="math-tex">\(-2,-1\)</span>
+গ. <span class="math-tex">\(\frac{3}{2}, \frac{5}{3}\)</span>
+ঘ. কোনোটিই নয়
+
+
+Correct Answer: ক
+
+Solution:
+\(S=\left\{\frac{1}{n}: n \in N\right\}=\left\{1, \frac{1}{2}, \frac{1}{3}, \frac{1}{4}, \ldots\right\}\)এখানে, S সেটটি নিম্নসীমিত এবং এর নিম্নসীমাগুলোর সেট\(\{\mathrm{x} \in \mathrm{R}: \mathrm{x} \leq 0\}\)\(\therefore \mathrm{S} \)এর গরিষ্ঠ নিম্নসীমা = 0আবার, S সেটটি উর্ধ্বসীমিত এবং উর্ধ্বসীমাগুলোর সেট\(​​​​​​​\{x \in R: x \geq 1\}\)\(\therefore \mathrm{S}\) এর লঘিষ্ট উর্ধ্বসীমা =1
+
+Explanation:
+
+
+Sub-Questions:
+
+================================================================================
+Question #18 (ID: 792266)
+--------------------------------------------------------------------------------
+Type: MCQ | Book: উচ্চতর গণিত ২য় পত্র | Years:  | Boards:  | Tags: চট্টগ্রাম বিশ্ববিদ্যালয়'২২
+--------------------------------------------------------------------------------
+Question:
+বাস্তব সংখ্যায়  [math](x-1)(x+2)&gt;0[/math]  অসমতাটির সমাধান
+
+Options:
+ক. <span class="math-tex">\( -\frac{2}{3} \leq \mathrm{x} \leq \frac{1}{3}\)</span>
+খ. <span class="math-tex">\(​​​​​​​x&gt;1\)</span> অথবা&nbsp;<span class="math-tex">\(x&lt;-2\)</span>
+গ. <span class="math-tex">\( -1 \leq x \leq 3\)</span>
+ঘ. <span class="math-tex">\( -1&lt;x&lt;3\)</span>
+
+
+Correct Answer: খ
+
+Solution:
+\(x-1&gt;0 \)অথবা\(x+2&lt;0\)\(\Rightarrow x&gt;1\) অথবা\(x&lt;-2\)
+
+Explanation:
+
+
+Sub-Questions:
+
